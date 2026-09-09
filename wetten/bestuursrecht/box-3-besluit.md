@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-09-04
 toestand: 2024-05-18
 bron: "https://wetten.overheid.nl/BWBR0049714"
-opgehaald: 2026-09-08
+opgehaald: 2026-09-09
 ---
 
 # Box 3-besluit

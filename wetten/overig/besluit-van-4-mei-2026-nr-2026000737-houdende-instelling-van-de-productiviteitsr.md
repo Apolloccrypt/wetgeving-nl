@@ -9,7 +9,7 @@ laatste_update: 2026-09-05
 status: geldig
 toestand: 2026-09-05
 bron: "https://wetten.overheid.nl/BWBR0052682"
-opgehaald: 2026-09-08
+opgehaald: 2026-09-09
 ---
 
 # Besluit van 4 mei 2026, nr. 2026000737, houdende instelling van de Productiviteitsraad

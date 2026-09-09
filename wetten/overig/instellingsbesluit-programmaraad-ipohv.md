@@ -1,62 +1,38 @@
 ---
 title: "Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 8 december 2025 nr. OVO/51885541, houdende instelling van de programmaraad Innovatieprogramma Onderwijshuisvesting (IPOHV) voor de periode 2025 tot en met 2039 (Instellingsbesluit programmaraad IPOHV 2025–2039)"
+citeertitel: "Instellingsbesluit programmaraad IPOHV"
 identifier: "BWBR0051968"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-12-18"
-last_updated: "2025-12-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051968"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "17680093"
-version_id: "31200372"
-internal_id: "C44631961"
-label_id: "17579484"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051968/2025-12-18/0"
-intitule_bron: "Stcrt.2025-43286"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-12-08"
-intitule_published: "2025-12-17"
-intitule_in_force: "2025-12-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-43286"
-original_signed_date: "2025-12-08"
-original_published_date: "2025-12-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-43286"
-entry_into_force_date: "2025-12-18"
-jci_1_3: "jci1.3:c:BWBR0051968&z=2025-12-18&g=2025-12-18"
-jci_1_0: "1.0:c:BWBR0051968&g=2025-12-18"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit programmaraad IPOHV"
-signed_date: "2025-12-08"
-entry_into_force: "2025-12-18"
+publicatiedatum: 2025-12-18
+laatste_update: 2025-12-18
+status: geldig
+toestand: 2025-12-18
+bron: "https://wetten.overheid.nl/BWBR0051968"
+opgehaald: 2026-09-09
 ---
-# Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 8 december 2025 nr. OVO/51885541, houdende instelling van de programmaraad Innovatieprogramma Onderwijshuisvesting (IPOHV) voor de periode 2025 tot en met 2039 (Instellingsbesluit programmaraad IPOHV 2025–2039)
 
-Besluit:
+# Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 8 december 2025 nr. OVO/51885541, houdende instelling van de programmaraad Innovatieprogramma Onderwijshuisvesting (IPOHV) voor de periode 2025 tot en met 2039 (Instellingsbesluit programmaraad IPOHV 2025–2039)
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- **bestuurlijke stuurgroep:** OCW, PO-Raad, VO-raad en VNG
+- *bestuurlijke stuurgroep:* OCW, PO-Raad, VO-raad en VNG
 
-- **IPOHV:** Innovatieprogramma Onderwijshuisvesting
+- *IPOHV:* Innovatieprogramma Onderwijshuisvesting
 
-- **NGF:** Nationaal Groeifonds
+- *NGF:* Nationaal Groeifonds
 
-- **programmaraad:** programmaraad, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051968&artikel=2&z=2025-12-18&g=2025-12-18)
+- *programmaraad:* programmaraad, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051968&artikel=2&z=2025-12-18&g=2025-12-18)
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap
+- *minister:* Minister van Onderwijs, Cultuur en Wetenschap
 
 ##### Artikel 2. Instelling en taak van de programmaraad
 
 1. Er is een programmaraad Innovatieprogramma Onderwijshuisvesting (IPOHV).
 
-2. De programmaraad wordt ingesteld met ingang van 1 mei 2025. Voorafgaande aan de eerste bijeenkomst van de tweede respectievelijk derde tranche van de subsidieregeling zal het functioneren en de samenstelling van de raad worden geëvalueerd en waar nodig bijgesteld overeenkomstig de nieuwe leerlabs in de tweede respectievelijk derde tranche. Met het beëindigen van de subsidieregeling in 2039 wordt de raad overeenkomstig beëindigd.
+2. De programmaraad wordt ingesteld met ingang van 1 mei 2025. Voorafgaande aan de eerste bijeenkomst van de tweede respectievelijk derde tranche van de subsidieregeling zal het functioneren en de samenstelling van de raad worden geëvalueerd en waar nodig bijgesteld overeenkomstig de nieuwe leerlabs in de tweede respectievelijk derde tranche. Met het beëindigen van de subsidieregeling in 2039 wordt de raad overeenkomstig beëindigd.
 
 3. De programmaraad komt twee keer per jaar bijeen en heeft tot taak de minister/bestuurlijke stuurgroep te adviseren over:
 
@@ -188,12 +164,10 @@ De programmaraad draagt zo spoedig mogelijk na beëindiging van haar werkzaamhed
 
 ##### Artikel 12. Inwerkingtreding en vervaldatum
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van publicatie in de Staatscourant en werkt daarbij terug tot en met 1 mei 2025.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van publicatie in de Staatscourant en werkt daarbij terug tot en met 1 mei 2025.
 
-2. Dit besluit vervalt met ingang van 1 januari 2040.
+2. Dit besluit vervalt met ingang van 1 januari 2040.
 
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit programmaraad IPOHV.
-
-Dit besluit zal met de toelichting worden geplaatst in de Staatscourant en in afschrift worden gezonden aan betrokkenen.

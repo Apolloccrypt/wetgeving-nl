@@ -1,49 +1,17 @@
 ---
 title: "Regeling Versterking landelijke infrastructuur amateurkunst 2026–2028"
 identifier: "BWBR0051961"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-12-16"
-last_updated: "2025-12-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051961"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17678583"
-version_id: "31187152"
-internal_id: "C44616851"
-label_id: "17578304"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051961/2025-12-16/0"
-intitule_bron: "Stcrt.2025-42862"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2023-03-27"
-intitule_published: "2025-12-15"
-intitule_in_force: "2025-12-15"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-42862"
-original_signed_date: "2023-03-27"
-original_published_date: "2025-12-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-42862"
-entry_into_force_date: "2025-12-16"
-jci_1_3: "jci1.3:c:BWBR0051961&z=2025-12-16&g=2025-12-16"
-jci_1_0: "1.0:c:BWBR0051961&g=2025-12-16"
-citeertitel_status: "officieel"
-signed_date: "2023-03-27"
-entry_into_force: "2025-12-16"
+publicatiedatum: 2025-12-16
+laatste_update: 2025-12-16
+status: geldig
+toestand: 2025-12-16
+bron: "https://wetten.overheid.nl/BWBR0051961"
+opgehaald: 2026-09-09
 ---
+
 # Regeling Versterking landelijke infrastructuur amateurkunst 2026–2028
-
-gelet op [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10), van de **Wet op het specifiek cultuurbeleid**;
-
-gelet op [artikel 4:23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23) van de **Algemene wet bestuursrecht**;
-
-gelet op het [Algemeen Subsidiereglement van het Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0045516);
-
-met goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap van 10 januari 2022; en voor de gewijzigde versie op 27 maart 2023;
-
-besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -51,49 +19,51 @@ besluit:
 
 In deze regeling worden onderstaande begrippen gebruikt.
 
-- a. **Adviescommissie:** een interne of externe adviescommissie zoals bedoeld in het Huishoudelijk Reglement van Stichting Fonds voor Cultuurparticipatie.
+- a. *Adviescommissie:* een interne of externe adviescommissie zoals bedoeld in het Huishoudelijk Reglement van Stichting Fonds voor Cultuurparticipatie.
 
-- b. **Amateurkunst:** het maken van kunst door individuele personen of groepen op een niet-professioneel niveau. Het betreft hier per definitie geen cultuureducatie of co-creatie.
+- b. *Amateurkunst:* het maken van kunst door individuele personen of groepen op een niet-professioneel niveau. Het betreft hier per definitie geen cultuureducatie of co-creatie.
 
-- c. **Amateur:** een niet-professional. Een amateur is een persoon die kunst maakt in de vrije tijd of zonder noemenswaardige directe inkomsten.
+- c. *Amateur:* een niet-professional. Een amateur is een persoon die kunst maakt in de vrije tijd of zonder noemenswaardige directe inkomsten.
 
-- d. **Amateurkunstgroepen:** groepen amateurs in de vorm van formele verenigingen en stichtingen óf groepen en verbanden die zich op een informele manier, bijvoorbeeld op projectbasis, hebben verenigd.
+- d. *Amateurkunstgroepen:* groepen amateurs in de vorm van formele verenigingen en stichtingen óf groepen en verbanden die zich op een informele manier, bijvoorbeeld op projectbasis, hebben verenigd.
 
-- e. **Amateurkunstkoepel:** in deze regeling, specifiek [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.2&z=2025-12-16&g=2025-12-16), worden de volgende negen instellingen als amateurkunstkoepel aangemerkt: Circuspunt, Danslink, Federatie van Folkloristische Groepen in Nederland, Fotobond, Koninklijke Nederlandse Muziek Organisatie, Koornetwerk Nederland, Landelijke Organisatie Studenten Theaterverenigingen + Stichting Visie Amateurtheater, Nederlandse Organisatie van Audiovisuele Amateurs, Stichting Textiel Informatie en Documentatie Centrum.
+- e. *Amateurkunstkoepel:* in deze regeling, specifiek [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.2&z=2025-12-16&g=2025-12-16), worden de volgende negen instellingen als amateurkunstkoepel aangemerkt: Circuspunt, Danslink, Federatie van Folkloristische Groepen in Nederland, Fotobond, Koninklijke Nederlandse Muziek Organisatie, Koornetwerk Nederland, Landelijke Organisatie Studenten Theaterverenigingen + Stichting Visie Amateurtheater, Nederlandse Organisatie van Audiovisuele Amateurs, Stichting Textiel Informatie en Documentatie Centrum.
 
-- f. **Culturele Codes:** Code Diversiteit & Inclusie, Fair Practice Code, Governance Code Cultuur.
+- f. *Culturele Codes:* Code Diversiteit & Inclusie, Fair Practice Code, Governance Code Cultuur.
 
-- g. **Caribisch deel van het Koninkrijk:** de landen Aruba, Curaçao, Sint Maarten en de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
+- g. *Caribisch deel van het Koninkrijk:* de landen Aruba, Curaçao, Sint Maarten en de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-- h. **Culturele instelling:** een rechtspersoon die zich inzet binnen de cultuursector en ook zo staat ingeschreven bij de desbetreffende Kamer van Koophandel.
+- h. *Culturele instelling:* een rechtspersoon die zich inzet binnen de cultuursector en ook zo staat ingeschreven bij de desbetreffende Kamer van Koophandel.
 
-- i. **(Cultureel) professional:** een natuurlijk persoon die zich inzet binnen de cultuursector en die (1) ten minste een parttime aanstelling bij een organisatie heeft, (2) vakbekwaam is door afgestudeerd te zijn aan een erkende opleiding, (3) als zelfstandige minimaal drie jaar als ondernemer ingeschreven staat bij de Belastingdienst en Kamer van Koophandel, of een vergelijkbare organisatie en/of (4) financiering ontvangt van op professionals gerichte instanties zoals rijkscultuurfondsen.
+- i. *(Cultureel) professional:* een natuurlijk persoon die zich inzet binnen de cultuursector en die (1) ten minste een parttime aanstelling bij een organisatie heeft, (2) vakbekwaam is door afgestudeerd te zijn aan een erkende opleiding, (3) als zelfstandige minimaal drie jaar als ondernemer ingeschreven staat bij de Belastingdienst en Kamer van Koophandel, of een vergelijkbare organisatie en/of (4) financiering ontvangt van op professionals gerichte instanties zoals rijkscultuurfondsen.
 
-- j. **Cultuur:** het dynamische geheel van onder andere normen, waarden, tradities, regels, kunst, erfgoed en identiteiten van een volk, gemeenschap of groep. Cultuur ontstaat door sociale processen.
+- j. *Cultuur:* het dynamische geheel van onder andere normen, waarden, tradities, regels, kunst, erfgoed en identiteiten van een volk, gemeenschap of groep. Cultuur ontstaat door sociale processen.
 
-- k. **Cultuurbeoefening:** het actief beoefenen van of betrokken zijn bij het maken van cultuur in de vrije tijd, door cultuureducatie, co-creatie of amateurkunst.
+- k. *Cultuurbeoefening:* het actief beoefenen van of betrokken zijn bij het maken van cultuur in de vrije tijd, door cultuureducatie, co-creatie of amateurkunst.
 
-- l. **Algemeen Subsidiereglement:** [Algemeen Subsidiereglement van het Fonds voor Cultuurparticipatie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045516).
+- l. *Algemeen Subsidiereglement:*
+ [Algemeen Subsidiereglement van het Fonds voor Cultuurparticipatie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045516).
 
-- m. **Effect:** Het (on)verwachte en (on)zichtbare resultaat van bepaalde activiteiten, processen of programma's. Bij voorkeur is het effect meetbaar om zo te kunnen nagaan of en hoe er wordt bijgedragen aan het behalen van bepaalde doelen van de aanvrager of van de regeling van het Fonds;
+- m. *Effect:* Het (on)verwachte en (on)zichtbare resultaat van bepaalde activiteiten, processen of programma's. Bij voorkeur is het effect meetbaar om zo te kunnen nagaan of en hoe er wordt bijgedragen aan het behalen van bepaalde doelen van de aanvrager of van de regeling van het Fonds;
 
-- n. **Europees deel van Nederland:** Nederland, zonder het Caribisch deel van het Koninkrijk.
+- n. *Europees deel van Nederland:* Nederland, zonder het Caribisch deel van het Koninkrijk.
 
-- o. **Fonds:** Stichting Fonds voor Cultuurparticipatie.
+- o. *Fonds:* Stichting Fonds voor Cultuurparticipatie.
 
-- p. **Koninkrijk der Nederlanden:** Aruba, Curaçao, Sint Maarten en Nederland, inclusief de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
+- p. *Koninkrijk der Nederlanden:* Aruba, Curaçao, Sint Maarten en Nederland, inclusief de drie openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-- q. **Kunst:** menselijke uitingen in allerlei vormen en maten, wel of niet tastbaar, maar altijd passend binnen een kunstdiscipline. Elke discipline heeft zijn eigen technieken tradities, kenmerken en kwaliteitseisen. Voorbeelden van disciplines zijn: film, podiumkunsten, beeldende kunsten, letteren, vormgeving, architectuur en digitale cultuur.
+- q. *Kunst:* menselijke uitingen in allerlei vormen en maten, wel of niet tastbaar, maar altijd passend binnen een kunstdiscipline. Elke discipline heeft zijn eigen technieken tradities, kenmerken en kwaliteitseisen. Voorbeelden van disciplines zijn: film, podiumkunsten, beeldende kunsten, letteren, vormgeving, architectuur en digitale cultuur.
 
-- r. **LKCA:** Landelijk Kennisinstituut Cultuureducatie en Amateurkunst.
+- r. *LKCA:* Landelijk Kennisinstituut Cultuureducatie en Amateurkunst.
 
-- s. **Penvoerder:** een culturele instelling die voor zichzelf, en in samenwerking met andere (culturele) partners, een subsidieaanvraag indient. Als penvoerder is deze culturele instelling de projectleider en intermediair van het project.
+- s. *Penvoerder:* een culturele instelling die voor zichzelf, en in samenwerking met andere (culturele) partners, een subsidieaanvraag indient. Als penvoerder is deze culturele instelling de projectleider en intermediair van het project.
 
-- t. **Provinciale steuninstellingen:** organisaties die een provinciale opdracht hebben voor cultuureducatie en/of amateurkunsten.
+- t. *Provinciale steuninstellingen:* organisaties die een provinciale opdracht hebben voor cultuureducatie en/of amateurkunsten.
 
-- u. **Project:** tijdelijke en doelgerichte activiteiten die de aanvrager onderneemt om een of meerdere specifieke effecten te bereiken. Projecten worden gekenmerkt door een begin- en einddatum, een duidelijk omschreven doel, en activiteiten, instrumenten en processen die moeten worden ingezet om het doel te behalen.
+- u. *Project:* tijdelijke en doelgerichte activiteiten die de aanvrager onderneemt om een of meerdere specifieke effecten te bereiken. Projecten worden gekenmerkt door een begin- en einddatum, een duidelijk omschreven doel, en activiteiten, instrumenten en processen die moeten worden ingezet om het doel te behalen.
 
-- v. **Website van het Fonds:** [www.cultuurparticipatie.nl](http://www.cultuurparticipatie.nl/).
+- v. *Website van het Fonds:*
+ [www.cultuurparticipatie.nl](http://www.cultuurparticipatie.nl/).
 
 ##### Artikel 1.2. Doel van de regeling
 
@@ -101,7 +71,7 @@ Met deze regeling stimuleert het Fonds het ontwikkelen en uitvoeren van projecte
 
 ##### Artikel 1.3. Subsidieplafond en flexibiliteit
 
-1. De subsidieplafonds staan vermeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&z=2025-12-16&g=2025-12-16). Het Fonds kan besluiten de subsidieplafonds te wijzigen. Deze wijzigingen kunnen ook op specifieke categorieën van projecten zijn of gelden voor bepaalde tijdvakken, thema’s, doelgroepen en regio’s.
+1. De subsidieplafonds staan vermeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&z=2025-12-16&g=2025-12-16). Het Fonds kan besluiten de subsidieplafonds te wijzigen. Deze wijzigingen kunnen ook op specifieke categorieën van projecten zijn of gelden voor bepaalde tijdvakken, thema’s, doelgroepen en regio’s.
 
 2. Ook kan het Fonds besluiten om de subsidiehoogte en het tijdvak waarbinnen kan worden aangevraagd, aan te passen.
 
@@ -113,13 +83,13 @@ Met deze regeling stimuleert het Fonds het ontwikkelen en uitvoeren van projecte
 
 - a. voor dezelfde projecten al subsidie is of zal worden verleend:
 
-- 1. door het Fonds;
+   - 1. door het Fonds;
 
-- 2. door een van de andere rijkscultuurfondsen;
+   - 2. door een van de andere rijkscultuurfondsen;
 
-- 3. op grond van de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597); of
+   - 3. op grond van de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597); of
 
-- 4. op grond van de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521).
+   - 4. op grond van de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521).
 
 - b. het project waarvoor subsidie wordt gevraagd, op het moment van de aanvraag al wordt uitgevoerd;
 
@@ -133,7 +103,7 @@ Met deze regeling stimuleert het Fonds het ontwikkelen en uitvoeren van projecte
 
 - g. de aanvraag onvoldoende aansluit bij het doel van de regeling of de doelstellingen van het Fonds; of
 
-- h. de aanvrager een rechtspersoon is die niet voldoet aan de verplichtingen met betrekking tot de culturele codes zoals bedoeld in [artikel 1.6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=1&artikel=1.6&z=2025-12-16&g=2025-12-16).
+- h. de aanvrager een rechtspersoon is die niet voldoet aan de verplichtingen met betrekking tot de culturele codes zoals bedoeld in [artikel 1.6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=1&artikel=1.6&z=2025-12-16&g=2025-12-16).
 
 2. Het Fonds weigert subsidie aan derden als die in opdracht werken van natuurlijke personen of rechtspersonen die niet aanmerking komen voor subsidie.
 
@@ -163,9 +133,9 @@ Met deze regeling stimuleert het Fonds het ontwikkelen en uitvoeren van projecte
 
 - a. start niet eerder dan dertien weken na het indienen van de aanvraag;
 
-- b. heeft een looptijd van maximaal dertig maanden in [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.2&z=2025-12-16&g=2025-12-16) en [paragraaf 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.3&z=2025-12-16&g=2025-12-16) en achttien maanden in [paragraaf 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.4&z=2025-12-16&g=2025-12-16);
+- b. heeft een looptijd van maximaal dertig maanden in [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.2&z=2025-12-16&g=2025-12-16) en [paragraaf 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.3&z=2025-12-16&g=2025-12-16) en achttien maanden in [paragraaf 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.4&z=2025-12-16&g=2025-12-16);
 
-- c. start na het honoreren van de aanvraag binnen negen maanden in [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.2&z=2025-12-16&g=2025-12-16) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.3&z=2025-12-16&g=2025-12-16) en binnen zes maanden in [paragraaf 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.4&z=2025-12-16&g=2025-12-16);
+- c. start na het honoreren van de aanvraag binnen negen maanden in [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.2&z=2025-12-16&g=2025-12-16) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.3&z=2025-12-16&g=2025-12-16) en binnen zes maanden in [paragraaf 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.4&z=2025-12-16&g=2025-12-16);
 
 Het Fonds kan bij beschikking van deze termijnen afwijken.
 
@@ -207,7 +177,7 @@ Het Fonds kan bij beschikking van deze termijnen afwijken.
 
 4. Als een onvolledige aanvraag wordt aangevuld, dan geldt de datum dat het Fonds de aanvulling ontvangt als moment van het indienen van de aanvraag.
 
-5. Aanvragen die voldoen aan de eisen van de regeling, worden voor advies aan een interne adviescommissie voorgelegd in [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.2&z=2025-12-16&g=2025-12-16) en [paragraaf 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.3&z=2025-12-16&g=2025-12-16) en aan een externe adviescommissie in [paragraaf 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.4&z=2025-12-16&g=2025-12-16).
+5. Aanvragen die voldoen aan de eisen van de regeling, worden voor advies aan een interne adviescommissie voorgelegd in [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.2&z=2025-12-16&g=2025-12-16) en [paragraaf 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.3&z=2025-12-16&g=2025-12-16) en aan een externe adviescommissie in [paragraaf 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.4&z=2025-12-16&g=2025-12-16).
 
 6. Aanvragen die niet voldoen aan de regeling kunnen worden afgewezen zonder de adviescommissie om advies te vragen.
 
@@ -217,9 +187,9 @@ Het Fonds kan bij beschikking van deze termijnen afwijken.
 
 ##### Artikel 1.9. Voorschotten
 
-1. Voor subsidie vanaf € 25.000 betaalt het Fonds een voorschot van 90%. Dit doet het Fonds zo spoedig mogelijk na het verzenden van het subsidieverleningsbesluit.
+1. Voor subsidie vanaf € 25.000 betaalt het Fonds een voorschot van 90%. Dit doet het Fonds zo spoedig mogelijk na het verzenden van het subsidieverleningsbesluit.
 
-2. Als de verleende subsidie hoger is dan € 125.000 betaalt het Fonds een voorschot van 50% bij het verlenen van de subsidie. Gedurende de looptijd van het project betaalt het Fonds op een in de beschikking te bepalen termijn een voorschot van 40%.
+2. Als de verleende subsidie hoger is dan € 125.000 betaalt het Fonds een voorschot van 50% bij het verlenen van de subsidie. Gedurende de looptijd van het project betaalt het Fonds op een in de beschikking te bepalen termijn een voorschot van 40%.
 
 3. Als bij de vaststelling is gebleken dat het project in overeenstemming met de aanvraag is uitgevoerd en de begrote kosten zijn gemaakt, wordt de resterende 10% betaald. Dit doet het Fonds zo spoedig mogelijk na het verzenden van het vaststellingsbesluit.
 
@@ -229,9 +199,13 @@ Het Fonds kan bij beschikking van deze termijnen afwijken.
 
 1. Subsidieontvangers die achteraf verantwoording dienen af te leggen over de activiteiten of projecten, doen dit door middel van een activiteitenverslag en een financieel verslag.
 
-2. Afhankelijk van de hoogte van de subsidie voldoet de verslaglegging aan de eisen van de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&artikel=26) of [27 van het Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&artikel=27).
+2. Afhankelijk van de hoogte van de subsidie voldoet de verslaglegging aan de eisen van de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&artikel=26) of [27 van het Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&artikel=27).
 
 ### Hoofdstuk 2. Versterking landelijke infrastructuur amateurkunst
+
+Op grond van dit hoofdstuk kan subsidie worden aangevraagd voor projecten die de (landelijke) infrastructuur van amateurkunsten inhoudelijk versterken. Dit hoofdstuk heeft vier paragrafen, waarin de artikelen verbijzonderde bepalingen zijn ten aanzien van de artikelen in [hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=1&z=2025-12-16&g=2025-12-16). Bij meerdere artikelen is in de toelichting een aanvullende uitleg gegeven.
+
+[Paragraaf 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.1&z=2025-12-16&g=2025-12-16) heeft artikelen die van toepassing zijn op alle subsidieaanvragen. In [paragraaf 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.2&z=2025-12-16&g=2025-12-16) kan worden aangevraagd voor versterking van disciplinegerichte ondersteuning door landelijke amateurkunstkoepels, in [paragraaf 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.3&z=2025-12-16&g=2025-12-16) voor versterking van de infrastructuur voor amateurkunst door provinciale steuninstellingen en in [paragraaf 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.4&z=2025-12-16&g=2025-12-16) voor versterking van de infrastructuur voor amateurkunst door culturele instellingen.
 
 #### Paragraaf 2.1. Algemeen
 
@@ -247,13 +221,13 @@ Met de bepalingen in dit hoofdstuk stimuleert het Fonds projecten die gericht zi
 
 ##### Artikel 2.1.2. Indieningstermijnen
 
-1. Aanvragen op grond van de [paragrafen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.2&z=2025-12-16&g=2025-12-16) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.3&z=2025-12-16&g=2025-12-16) van dit hoofdstuk kunnen worden ingediend vanaf 2 februari 2026 13:00 uur tot en met 1 april 2026 17:00 uur. De tijdsaanduiding is de tijd die geldt in het Europees deel van Nederland.
+1. Aanvragen op grond van de [paragrafen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.2&z=2025-12-16&g=2025-12-16) en [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.3&z=2025-12-16&g=2025-12-16) van dit hoofdstuk kunnen worden ingediend vanaf 2 februari 2026 13:00 uur tot en met 1 april 2026 17:00 uur. De tijdsaanduiding is de tijd die geldt in het Europees deel van Nederland.
 
-2. Aanvragen op grond van [paragraaf 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.4&z=2025-12-16&g=2025-12-16) van dit hoofdstuk kunnen worden ingediend vanaf:
+2. Aanvragen op grond van [paragraaf 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.4&z=2025-12-16&g=2025-12-16) van dit hoofdstuk kunnen worden ingediend vanaf:
 
-- a. 7 september 2026 13:00 uur tot en met 23 september 2026 17:00 uur;
+- a. 7 september 2026 13:00 uur tot en met 23 september 2026 17:00 uur;
 
-- b. 4 oktober 2027 13:00 uur tot en met 27 oktober 2027 17:00 uur.
+- b. 4 oktober 2027 13:00 uur tot en met 27 oktober 2027 17:00 uur.
 
 De tijdsaanduiding is de tijd die geldt in het Europees deel van Nederland.
 
@@ -273,11 +247,13 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria, waarvan in de 
 
 #### Paragraaf 2.2. Amateurkunstkoepels
 
+Op grond van deze paragraaf wordt uitsluitend subsidie verstrekt aan amateurkunstkoepels.
+
 ##### Artikel 2.2.1. Wie kan aanvragen?
 
-1. Subsidie kan worden aangevraagd door een amateurkunstkoepel, zoals gedefinieerd in [artikel 1.1 onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=1&artikel=1.1&z=2025-12-16&g=2025-12-16).
+1. Subsidie kan worden aangevraagd door een amateurkunstkoepel, zoals gedefinieerd in [artikel 1.1 onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=1&artikel=1.1&z=2025-12-16&g=2025-12-16).
 
-2. Amateurkunstkoepels kunnen gezamenlijk een aanvraag indienen waarbij de in [artikel 2.2.3 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.2&artikel=2.2.3&z=2025-12-16&g=2025-12-16) opgenomen maximale bedragen kunnen worden opgeteld.
+2. Amateurkunstkoepels kunnen gezamenlijk een aanvraag indienen waarbij de in [artikel 2.2.3 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.2&artikel=2.2.3&z=2025-12-16&g=2025-12-16) opgenomen maximale bedragen kunnen worden opgeteld.
 
 ##### Artikel 2.2.2. Waarvoor kan worden aangevraagd?
 
@@ -287,25 +263,27 @@ Subsidie kan worden aangevraagd voor projecten met activiteiten die bijdragen aa
 
 De subsidie:
 
-- a. is per aanvrager gemaximeerd volgens de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&bijlage=1&z=2025-12-16&g=2025-12-16) opgenomen verdeling;
+- a. is per aanvrager gemaximeerd volgens de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&bijlage=1&z=2025-12-16&g=2025-12-16) opgenomen verdeling;
 
 - b. bedraagt maximaal 100% van de totale projectkosten.
 
 ##### Artikel 2.2.4. Subsidieplafond
 
-Het subsidieplafond voor deze paragraaf bedraagt € 1.800.000.
+Het subsidieplafond voor deze paragraaf bedraagt € 1.800.000.
 
 #### Paragraaf 2.3. Provinciale steuninstellingen
 
+Op grond van deze paragraaf wordt uitsluitend subsidie verstrekt aan organisaties die een provinciale opdracht hebben voor cultuureducatie en/of amateurkunsten.
+
 ##### Artikel 2.3.1. Wie kan aanvragen?
 
-1. Subsidie kan worden aangevraagd door een provinciale steuninstelling, zoals gedefinieerd in [artikel 1.1 onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=1&artikel=1.1&z=2025-12-16&g=2025-12-16).
+1. Subsidie kan worden aangevraagd door een provinciale steuninstelling, zoals gedefinieerd in [artikel 1.1 onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=1&artikel=1.1&z=2025-12-16&g=2025-12-16).
 
 2. De provinciale steuninstelling toont aan dat zij een cofinanciering voor het project ontvangt van de provincie, die minimaal gelijk is aan het bij het Fonds aangevraagde bedrag.
 
-3. Provinciale steuninstellingen kunnen gezamenlijk een aanvraag indienen waarbij de in [artikel 2.3.4 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.3&artikel=2.3.4&z=2025-12-16&g=2025-12-16) opgenomen maximale bedragen kunnen worden opgeteld.
+3. Provinciale steuninstellingen kunnen gezamenlijk een aanvraag indienen waarbij de in [artikel 2.3.4 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.3&artikel=2.3.4&z=2025-12-16&g=2025-12-16) opgenomen maximale bedragen kunnen worden opgeteld.
 
-4. Voor de samenwerking zoals vermeld in [artikel 2.3.2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.3&artikel=2.3.2&z=2025-12-16&g=2025-12-16) wordt een samenwerkingsovereenkomst opgesteld en ondertekend door alle betrokken partijen.
+4. Voor de samenwerking zoals vermeld in [artikel 2.3.2 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.3&artikel=2.3.2&z=2025-12-16&g=2025-12-16) wordt een samenwerkingsovereenkomst opgesteld en ondertekend door alle betrokken partijen.
 
 ##### Artikel 2.3.2. Waarvoor kan worden aangevraagd?
 
@@ -319,15 +297,17 @@ Het subsidieplafond voor deze paragraaf bedraagt € 1.800.000.
 
 De subsidie van het Fonds:
 
-- a. is per aanvrager gemaximeerd volgens de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&bijlage=2&z=2025-12-16&g=2025-12-16) opgenomen verdeling;
+- a. is per aanvrager gemaximeerd volgens de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&bijlage=2&z=2025-12-16&g=2025-12-16) opgenomen verdeling;
 
 - b. bedraagt maximaal 50% van de totale projectkosten.
 
 ##### Artikel 2.3.4. Subsidieplafond
 
-Het subsidieplafond voor deze paragraaf bedraagt € 3.300.000.
+Het subsidieplafond voor deze paragraaf bedraagt € 3.300.000.
 
 #### Paragraaf 2.4. Culturele instellingen
+
+Op grond van deze paragraaf wordt uitsluitend subsidie verstrekt aan culturele instellingen.
 
 ##### Artikel 2.4.1. Wie kan aanvragen?
 
@@ -345,13 +325,13 @@ Het subsidieplafond voor deze paragraaf bedraagt € 3.300.000.
 
 ##### Artikel 2.4.3. Hoogte van de subsidie
 
-1. Voor een project in [paragraaf 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.4&z=2025-12-16&g=2025-12-16) kan minimaal € 50.000 en maximaal € 125.000 worden aangevraagd;
+1. Voor een project in [paragraaf 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.4&z=2025-12-16&g=2025-12-16) kan minimaal € 50.000 en maximaal € 125.000 worden aangevraagd;
 
 2. De subsidie bedraagt maximaal 100% van de totale projectkosten.
 
 ##### Artikel 2.4.4. Subsidieplafond
 
-Het subsidieplafond voor deze paragraaf bedraagt in totaal € 2.216.720 waarvan € 1.200.000 voor de indieningstermijn van [artikel 2.1.2, lid 2, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.1&artikel=2.1.2&z=2025-12-16&g=2025-12-16) en € 1.016.720 voor de indieningstermijn van artikel 2.1.2, lid 2, sub b.
+Het subsidieplafond voor deze paragraaf bedraagt in totaal € 2.216.720 waarvan € 1.200.000 voor de indieningstermijn van [artikel 2.1.2, lid 2, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.1&artikel=2.1.2&z=2025-12-16&g=2025-12-16) en € 1.016.720 voor de indieningstermijn van artikel 2.1.2, lid 2, sub b.
 
 ##### Artikel 2.4.5. Verplichting
 
@@ -359,7 +339,7 @@ Projectaanvragen dienen kenbaar te zijn bij minimaal één van de provinciale st
 
 ##### Artikel 2.4.6. Specifieke weigeringsgronden
 
-1. In aanvulling op [artikel 1.4, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=1&artikel=1.4&z=2025-12-16&g=2025-12-16), wordt subsidie geweigerd als de startdatum van het project waarvoor subsidie wordt gevraagd, eerder is dan de einddatum van een eerder project/gehonoreerde aanvraag van de penvoerder in de regeling **Versterking landelijke infrastructuur amateurkunst 2025** of in [paragraaf 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.4&z=2025-12-16&g=2025-12-16) van deze regeling;
+1. In aanvulling op [artikel 1.4, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=1&artikel=1.4&z=2025-12-16&g=2025-12-16), wordt subsidie geweigerd als de startdatum van het project waarvoor subsidie wordt gevraagd, eerder is dan de einddatum van een eerder project/gehonoreerde aanvraag van de penvoerder in de regeling *Versterking landelijke infrastructuur amateurkunst 2025* of in [paragraaf 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.4&z=2025-12-16&g=2025-12-16) van deze regeling;
 
 2. In deze paragraaf kunnen amateurkunstkoepels en provinciale steuninstellingen maximaal in drie projecten – en alleen als samenwerkingspartner – participeren;
 
@@ -375,26 +355,10 @@ Het Fonds kan afwijken van de rechten en plichten in deze regeling. Dat gebeurt 
 
 1. Deze regeling treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin zij wordt gepubliceerd.
 
-2. Deze regeling vervalt met ingang van 31 december 2034. Deze regeling blijft van toepassing op subsidies die op grond van deze regeling zijn verstrekt en op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond.
+2. Deze regeling vervalt met ingang van 31 december 2034. Deze regeling blijft van toepassing op subsidies die op grond van deze regeling zijn verstrekt en op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond.
 
 ##### Artikel 3.3. Citeertitel
 
 Deze regeling wordt aangehaald als:
 
 Regeling Versterking landelijke infrastructuur amateurkunst 2026–2028.
-
-## Bijlage 1
-
-### [Artikel 2.2.3 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.2&artikel=2.2.3&z=2025-12-16&g=2025-12-16)
-
-Maximaal aan te vragen bedragen door de Amateurkunstenkoepels in [Hoofdstuk 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&z=2025-12-16&g=2025-12-16): **Amateurkunstkoepels**
-
-1 op voorwaarde dat LOST aanvraagt samen met VAT. Als LOST alleen aanvraagt dan is het maximum € 45.000 (2,5%)
-
-## Bijlage 2
-
-### [Artikel 2.3.4 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&paragraaf=2.3&artikel=2.3.4&z=2025-12-16&g=2025-12-16)
-
-Maximaal aan te vragen bedragen per provinciale steuninstelling in [Hoofdstuk 2, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051961&hoofdstuk=2&z=2025-12-16&g=2025-12-16): **Provinciale steuninstellingen**. De verdeling is proportioneel over de provincies volgens een gemiddelde van het % aantal inwoners per 1 januari 2025 en het % aantal amateurkunst-verenigingen (bekend bij KvK) in Nederland per 1 januari 2024.
-
-Percentages in de presentatietabel zijn afgerond op twee decimalen, bedragen zijn afgrond per € 500.

@@ -1,46 +1,18 @@
 ---
 title: "Besluit van het bestuur van de huurcommissie, van 17 juni 2025 houdende de organisatie-inrichting van administratieve ondersteuning van de huurcommissie, aan te duiden als Dienst van de Huurcommissie (Organisatiebesluit dienst van de huurcommissie 2024)"
+citeertitel: "Organisatiebesluit dienst van de huurcommissie 2024"
 identifier: "BWBR0052017"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-12-23"
-last_updated: "2025-12-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052017"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "17690883"
-version_id: "31219342"
-internal_id: "C44654911"
-label_id: "17589984"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052017/2025-12-23/0"
-intitule_bron: "Stcrt.2025-44156"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-06-17"
-intitule_published: "2025-12-22"
-intitule_in_force: "2025-12-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-44156"
-original_signed_date: "2025-06-17"
-original_published_date: "2025-12-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-44156"
-entry_into_force_date: "2025-12-23"
-jci_1_3: "jci1.3:c:BWBR0052017&z=2025-12-23&g=2025-12-23"
-jci_1_0: "1.0:c:BWBR0052017&g=2025-12-23"
-citeertitel_status: "officieel"
-short_title: "Organisatiebesluit dienst van de huurcommissie 2024"
-signed_date: "2025-06-17"
-entry_into_force: "2025-12-23"
+publicatiedatum: 2025-12-23
+laatste_update: 2025-12-23
+status: geldig
+toestand: 2025-12-23
+bron: "https://wetten.overheid.nl/BWBR0052017"
+opgehaald: 2026-09-09
 ---
+
 # Besluit van het bestuur van de huurcommissie, van 17 juni 2025 houdende de organisatie-inrichting van administratieve ondersteuning van de huurcommissie, aan te duiden als Dienst van de Huurcommissie (Organisatiebesluit dienst van de huurcommissie 2024)
-
-Gelet op de [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315),
-
-Gelet op [artikel 2 van het Besluit mandaat, volmacht en machtiging bestuur huurcommissie 2024](onbekend),
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -48,27 +20,27 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **wet:** de [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315);
+- a. *wet:* de [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315);
 
-- b. **huurcommissie:** de huurcommissie, bedoeld in [artikel 3a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
+- b. *huurcommissie:* de huurcommissie, bedoeld in [artikel 3a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
-- c. **bestuur:** het bestuur van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
+- c. *bestuur:* het bestuur van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
-- d. **voorzitter:** de voorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
+- d. *voorzitter:* de voorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
-- e. **plaatsvervangend voorzitter:** de plaatsvervangend voorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
+- e. *plaatsvervangend voorzitter:* de plaatsvervangend voorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
-- f. **administratieve ondersteuning:** de administratieve ondersteuning van de huurcommissie, bedoeld in de [artikelen 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3c) en [3h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3h) en aangeduid als dienst van de huurcommissie, overeenkomstig [artikel 1 van het Instellingsbesluit Dienst van de Huurcommissie](https://wetten.overheid.nl/jci1.3:c:BWBR0026930&artikel=1);
+- f. *administratieve ondersteuning:* de administratieve ondersteuning van de huurcommissie, bedoeld in de [artikelen 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3c) en [3h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3h) en aangeduid als dienst van de huurcommissie, overeenkomstig [artikel 1 van het Instellingsbesluit Dienst van de Huurcommissie](https://wetten.overheid.nl/jci1.3:c:BWBR0026930&artikel=1);
 
-- g. **directeur:** de uitvoerend directeur van de dienst van de huurcommissie;
+- g. *directeur:* de uitvoerend directeur van de dienst van de huurcommissie;
 
-- h. **strategisch manager:** integraal eindverantwoordelijke van een of meerdere taakgebieden van de dienst van de huurcommissie;
+- h. *strategisch manager:* integraal eindverantwoordelijke van een of meerdere taakgebieden van de dienst van de huurcommissie;
 
-- i. **teammanager:** de primaire lijnmanager met p-verantwoordelijkheid en daarnaast verantwoordelijkheid voor de productie en de kwaliteit van het team.
+- i. *teammanager:* de primaire lijnmanager met p-verantwoordelijkheid en daarnaast verantwoordelijkheid voor de productie en de kwaliteit van het team.
 
-- j. **managementondersteuner:** medewerker van de dienst van de Huurcommissie, die organisatorische, secretariële en administratieve werkzaamheden ter ondersteuning van het management en bestuur van de huurcommissie verricht;
+- j. *managementondersteuner:* medewerker van de dienst van de Huurcommissie, die organisatorische, secretariële en administratieve werkzaamheden ter ondersteuning van het management en bestuur van de huurcommissie verricht;
 
-- k. **functionaris:** medewerker van de dienst van de huurcommissie.
+- k. *functionaris:* medewerker van de dienst van de huurcommissie.
 
 ##### Artikel 2. Hoofdstructuur en leiding dienst van de huurcommissie
 
@@ -292,10 +264,8 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 11. Inwerkingtreding en citeertitel
 
-1. Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het besluit wordt geplaatst en heeft terugwerkende kracht tot en met 17 september 2024.
+1. Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het besluit wordt geplaatst en heeft terugwerkende kracht tot en met 17 september 2024.
 
 2. Het [Organisatiebesluit dienst van de huurcommissie 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042107) wordt ingetrokken.
 
 3. Dit besluit wordt aangehaald als: Organisatiebesluit dienst van de huurcommissie 2024.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,51 +1,27 @@
 ---
 title: "Universele uitvoeringsvoorschriften belastingverdragen 2025, uitgezonderd het belastingverdrag met de VS"
 identifier: "BWBR0051667"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2025-10-29"
-last_updated: "2025-10-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051667"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "17569313"
-version_id: "30999592"
-internal_id: "C44393501"
-label_id: "17470464"
-dtd_version: "2.0"
-original_entry_into_force: "2025-10-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051667/2025-10-29/0"
-intitule_bron: "Stcrt.2025-35865"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-10-15"
-intitule_published: "2025-10-28"
-intitule_in_force: "2025-10-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-35865"
-original_signed_date: "2025-10-15"
-original_published_date: "2025-10-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-35865"
-entry_into_force_date: "2025-10-29"
-jci_1_3: "jci1.3:c:BWBR0051667&z=2025-10-29&g=2025-10-29"
-jci_1_0: "1.0:c:BWBR0051667&g=2025-10-29"
-citeertitel_status: "officieel"
-signed_date: "2025-10-15"
-entry_into_force: "2025-10-29"
+publicatiedatum: 2025-10-29
+laatste_update: 2025-10-29
+status: geldig
+toestand: 2025-10-29
+bron: "https://wetten.overheid.nl/BWBR0051667"
+opgehaald: 2026-09-09
 ---
-# Universele uitvoeringsvoorschriften belastingverdragen 2025, uitgezonderd het belastingverdrag met de VS
 
-**Dit besluit bevat de universele Nederlandse voorschriften voor de uitvoering van het dividendartikel en het interestartikel in belastingverdragen, uitgezonderd het belastingverdrag met de Verenigde Staten van Amerika, voor de heffing van dividendbelasting geheven op grond van de Wet op de dividendbelasting 1965.**
+# Universele uitvoeringsvoorschriften belastingverdragen 2025, uitgezonderd het belastingverdrag met de VS
 
 ##### Artikel 1. Inleiding
 
 In verband met de heffing van dividendbelasting op basis van de [Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515) bevat dit besluit voorschriften voor de uitvoering van het dividendartikel en het interestartikel in:
 
-- –. de door Nederland gesloten verdragen tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen (en naar het vermogen) en het voorkomen van het ontgaan (en ontwijken) van belasting, (met Protocol),
+- – de door Nederland gesloten verdragen tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen (en naar het vermogen) en het voorkomen van het ontgaan (en ontwijken) van belasting, (met Protocol),
 
-- –. de regelingen tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen die Nederland heeft getroffen voor een land binnen het Koninkrijk,
+- – de regelingen tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen die Nederland heeft getroffen voor een land binnen het Koninkrijk,
 
-- –. het [Besluit voorkoming dubbele belasting Nederland Taiwan](https://wetten.overheid.nl/jci1.3:c:BWBR0012433).
+- – het [Besluit voorkoming dubbele belasting Nederland Taiwan](https://wetten.overheid.nl/jci1.3:c:BWBR0012433).
 
 Dit besluit is niet van toepassing op het belastingverdrag met de Verenigde Staten van Amerika.1Voor de uitvoeringsvoorschriften voor dit verdrag zie Nederlandse uitvoeringsvoorschriften belastingverdrag Nederland – Verenigde Staten van Amerika 1992.
 
@@ -57,7 +33,7 @@ Voor deelnemingsdividenden is in de belastingverdragen in het algemeen een lager
 
 ##### Artikel 1.3. Multilateraal instrument
 
-Het Multilaterale Instrument (MLI) is voor Nederland in werking getreden met ingang van 1 juli 2019. Daarmee is per 1 januari 2020 het MLI van toepassing geworden op verschillende Nederlandse bilaterale belastingverdragen. Als gevolg van het MLI is een aantal bepalingen, veelal gericht op het voorkomen van verdragsmisbruik, van toepassing geworden, waardoor (de werking van) het betreffende belastingverdrag wijzigt. Een van deze bepalingen betreft een algemene antimisbruiktoets, de Principal Purposes Test (PPT).
+Het Multilaterale Instrument (MLI) is voor Nederland in werking getreden met ingang van 1 juli 2019. Daarmee is per 1 januari 2020 het MLI van toepassing geworden op verschillende Nederlandse bilaterale belastingverdragen. Als gevolg van het MLI is een aantal bepalingen, veelal gericht op het voorkomen van verdragsmisbruik, van toepassing geworden, waardoor (de werking van) het betreffende belastingverdrag wijzigt. Een van deze bepalingen betreft een algemene antimisbruiktoets, de Principal Purposes Test (PPT).
 
 Op basis van de PPT worden verdragsvoordelen niet toegekend als een constructie is opgezet of een transactie is aangegaan met als een van de voornaamste doelen om toegang tot een voordeel van het belastingverdrag te verkrijgen, tenzij de toekenning van dat voordeel in de gegeven omstandigheden in overeenstemming zou zijn met doel en strekking van de relevante verdragsbepaling(en).
 
@@ -67,40 +43,40 @@ Dit besluit is een actualisering van de [Universele Nederlandse uitvoeringsvoors
 
 Naast redactionele wijzigingen bestaat deze actualisering uit:
 
-- –. het niet meer afzonderlijk noemen van de belastingverdragen waarop deze uitvoeringsvoorschriften zien;
+- – het niet meer afzonderlijk noemen van de belastingverdragen waarop deze uitvoeringsvoorschriften zien;
 
-- –. het vervallen van [artikel 2, tweede lid (oud)](https://wetten.overheid.nl/jci1.3:c:BWBR0037270&artikel=2). De inhoud hiervan is overgegaan naar [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051667&artikel=2&z=2025-10-29&g=2025-10-29);
+- – het vervallen van [artikel 2, tweede lid (oud)](https://wetten.overheid.nl/jci1.3:c:BWBR0037270&artikel=2). De inhoud hiervan is overgegaan naar [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051667&artikel=2&z=2025-10-29&g=2025-10-29);
 
-- –. het vervallen van de bijzondere teruggaafprocedure voor Nederlandse dividendbelasting met betrekking tot portfoliodividenden. Deze valt nu onder de teruggaafprocedure in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051667&artikel=3&z=2025-10-29&g=2025-10-29), omdat deze bijzondere teruggaafprocedure niet meer afwijkt van de procedure in artikel 3;
+- – het vervallen van de bijzondere teruggaafprocedure voor Nederlandse dividendbelasting met betrekking tot portfoliodividenden. Deze valt nu onder de teruggaafprocedure in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051667&artikel=3&z=2025-10-29&g=2025-10-29), omdat deze bijzondere teruggaafprocedure niet meer afwijkt van de procedure in artikel 3;
 
-- –. het in (het vernummerde) [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051667&artikel=4&z=2025-10-29&g=2025-10-29) ([artikel 5 oud](https://wetten.overheid.nl/jci1.3:c:BWBR0037270&artikel=5)), tweede lid, onderdeel a opvragen van gegevens van de inhoudingsplichtige bij de indiening van het verzoek om toepassing van de vrijstellingsprocedure;
+- – het in (het vernummerde) [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051667&artikel=4&z=2025-10-29&g=2025-10-29) ([artikel 5 oud](https://wetten.overheid.nl/jci1.3:c:BWBR0037270&artikel=5)), tweede lid, onderdeel a opvragen van gegevens van de inhoudingsplichtige bij de indiening van het verzoek om toepassing van de vrijstellingsprocedure;
 
-- –. het vervallen van [artikel 5, tweede lid onderdelen d tot en met f (oud)](https://wetten.overheid.nl/jci1.3:c:BWBR0037270&artikel=5). Deze bepalingen vallen onder het bereik van (het vernummerde) [artikel 4, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0051667&artikel=4&z=2025-10-29&g=2025-10-29);
+- – het vervallen van [artikel 5, tweede lid onderdelen d tot en met f (oud)](https://wetten.overheid.nl/jci1.3:c:BWBR0037270&artikel=5). Deze bepalingen vallen onder het bereik van (het vernummerde) [artikel 4, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0051667&artikel=4&z=2025-10-29&g=2025-10-29);
 
-- –. een aanpassing van de adressering van het postadres in (het vernummerde) [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051667&artikel=5&z=2025-10-29&g=2025-10-29) voor een teruggaafverzoek bij deelnemingsdividenden;
+- – een aanpassing van de adressering van het postadres in (het vernummerde) [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051667&artikel=5&z=2025-10-29&g=2025-10-29) voor een teruggaafverzoek bij deelnemingsdividenden;
 
-- –. het vervallen van [artikel 5, vierde lid (oud)](https://wetten.overheid.nl/jci1.3:c:BWBR0037270&artikel=5) waarin was geregeld dat voor de toepassing van de Belastingregeling Nederland Curaçao de inspecteur van het APA-/ATR-team van Belastingdienst/Grote Ondernemingen (kantoor Rotterdam) bevoegd is te beslissen op het verzoek ontslagen te worden van de verplichting om niet-verschuldigde dividendbelasting in te houden;
+- – het vervallen van [artikel 5, vierde lid (oud)](https://wetten.overheid.nl/jci1.3:c:BWBR0037270&artikel=5) waarin was geregeld dat voor de toepassing van de Belastingregeling Nederland Curaçao de inspecteur van het APA-/ATR-team van Belastingdienst/Grote Ondernemingen (kantoor Rotterdam) bevoegd is te beslissen op het verzoek ontslagen te worden van de verplichting om niet-verschuldigde dividendbelasting in te houden;
 
-- –. het vervallen van [artikel 6, vierde lid (oud)](https://wetten.overheid.nl/jci1.3:c:BWBR0037270&artikel=6) waarin was geregeld dat voor de toepassing van de Belastingregeling Nederland Curaçao de inspecteur van het APA-/ATR-team van Belastingdienst/Grote Ondernemingen (kantoor Rotterdam) bevoegd is te beslissen op het verzoek om teruggave van dividendbelasting;
+- – het vervallen van [artikel 6, vierde lid (oud)](https://wetten.overheid.nl/jci1.3:c:BWBR0037270&artikel=6) waarin was geregeld dat voor de toepassing van de Belastingregeling Nederland Curaçao de inspecteur van het APA-/ATR-team van Belastingdienst/Grote Ondernemingen (kantoor Rotterdam) bevoegd is te beslissen op het verzoek om teruggave van dividendbelasting;
 
-- –. het vervallen van [artikel 7 (oud)](https://wetten.overheid.nl/jci1.3:c:BWBR0037270&artikel=7) dat betrekking had op de (per 31 december 2019 vervallen) tijdelijke regeling voor deelnemingsdividenden in de Belastingregeling Nederland Curaçao;
+- – het vervallen van [artikel 7 (oud)](https://wetten.overheid.nl/jci1.3:c:BWBR0037270&artikel=7) dat betrekking had op de (per 31 december 2019 vervallen) tijdelijke regeling voor deelnemingsdividenden in de Belastingregeling Nederland Curaçao;
 
-- –. het vervallen van [artikel 10 (oud)](https://wetten.overheid.nl/jci1.3:c:BWBR0037270&artikel=10) waarin geregeld was dat reeds bestaande beschikkingen nog maximaal vier jaren geldig blijven gerekend vanaf 4 februari 2015;
+- – het vervallen van [artikel 10 (oud)](https://wetten.overheid.nl/jci1.3:c:BWBR0037270&artikel=10) waarin geregeld was dat reeds bestaande beschikkingen nog maximaal vier jaren geldig blijven gerekend vanaf 4 februari 2015;
 
-- –. het vervallen van [artikel 11 (oud)](https://wetten.overheid.nl/jci1.3:c:BWBR0037270&artikel=11) waarin was geregeld dat de in deze regeling bedoelde formulieren van rijkswege worden verstrekt en op aanvraag kosteloos verkrijgbaar zijn. Deze formulieren zijn nu te vinden op de website van de Belastingdienst;
+- – het vervallen van [artikel 11 (oud)](https://wetten.overheid.nl/jci1.3:c:BWBR0037270&artikel=11) waarin was geregeld dat de in deze regeling bedoelde formulieren van rijkswege worden verstrekt en op aanvraag kosteloos verkrijgbaar zijn. Deze formulieren zijn nu te vinden op de website van de Belastingdienst;
 
-- –. het vervallen van [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0037270&artikel=13a). Hierin werden enkele vervallen [bijlagen](onbekend) opgesomd;
+- – het vervallen van [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0037270&artikel=13a). Hierin werden enkele vervallen [bijlagen](https://wetten.overheid.nl/BWBR0037270) opgesomd;
 
-- –. het intrekken van de [Uitvoeringsvoorschriften artikel 11 Belastingregeling voor het Koninkrijk (Curaçao en Sint Maarten)](https://wetten.overheid.nl/jci1.3:c:BWBR0029697), vanwege het vervallen van de onderliggende bepalingen.
+- – het intrekken van de [Uitvoeringsvoorschriften artikel 11 Belastingregeling voor het Koninkrijk (Curaçao en Sint Maarten)](https://wetten.overheid.nl/jci1.3:c:BWBR0029697), vanwege het vervallen van de onderliggende bepalingen.
 
 ##### Artikel 1.5. Gebruikte begrippen en afkortingen
 
 | Dividend | Hetgeen hierover is bepaald in elk van de verdragen. |
 | --- | --- |
-| Inhoudingsplichtige | Een inhoudingsplichtige als bedoeld in [artikel 7, tweede lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=7). |
+| Inhoudingsplichtige | Een inhoudingsplichtige als bedoeld in artikel 7, tweede lid, van de Wet op de dividendbelasting 1965. |
 | Interest | Hetgeen hierover is bepaald in elk van de verdragen. |
 | Minimumdeelneming | Een deelneming gehouden door een lichaam waarvoor een verlaagd tarief geldt, omdat wordt voldaan aan de in het desbetreffende verdrag gestelde minimumeisen. |
-| Verdrag | Het door Nederland gesloten verdrag tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen (en naar het vermogen) en het voorkomen van het ontgaan (en ontwijken) van belasting, (met Protocol), dat van toepassing is op het inkomen waarop deze uitvoeringsvoorschriften worden toegepast. Hieronder wordt mede verstaan regelingen tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen die Nederland heeft getroffen voor een land binnen het Koninkrijk alsmede het [Besluit voorkoming dubbele belasting Nederland en Taiwan](https://wetten.overheid.nl/jci1.3:c:BWBR0012433). |
+| Verdrag | Het door Nederland gesloten verdrag tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen (en naar het vermogen) en het voorkomen van het ontgaan (en ontwijken) van belasting, (met Protocol), dat van toepassing is op het inkomen waarop deze uitvoeringsvoorschriften worden toegepast. Hieronder wordt mede verstaan regelingen tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen die Nederland heeft getroffen voor een land binnen het Koninkrijk alsmede het Besluit voorkoming dubbele belasting Nederland en Taiwan. |
 | Verdragsland | Het land waarmee Nederland een verdrag heeft gesloten dat van toepassing is op het inkomen waarop deze uitvoeringsvoorschriften worden toegepast. |
 
 ##### Artikel 2. Nederlandse dividendbelasting met betrekking tot portfoliodividenden (vrijstellingsprocedure)
@@ -163,7 +139,7 @@ De in dit besluit bedoelde verklaringen, verzoeken, gegevens en mededelingen moe
 
 ##### Artikel 7. Verjaringstermijn
 
-Verzoeken om teruggaaf van belasting moeten bij de bevoegde inspecteur zijn ingediend binnen de in het verdrag gestelde termijn. Voor een verdrag waarin geen termijn is gesteld, geldt een termijn van vijf jaren na het verstrijken van het tijdvak waarin de belasting is ingehouden en afgedragen. Voor verdragen waarin een kortere termijn is opgenomen geldt dat de inspecteur verzoeken om teruggaaf buiten de in het verdrag gestelde termijn ambtshalve in behandeling neemt binnen de hiervoor genoemde termijn van vijf jaren.3Zie ook het Besluit Fiscaal Bestuursrecht van 21 november 2023, nr. 2023-24452, § 23.
+Verzoeken om teruggaaf van belasting moeten bij de bevoegde inspecteur zijn ingediend binnen de in het verdrag gestelde termijn. Voor een verdrag waarin geen termijn is gesteld, geldt een termijn van vijf jaren na het verstrijken van het tijdvak waarin de belasting is ingehouden en afgedragen. Voor verdragen waarin een kortere termijn is opgenomen geldt dat de inspecteur verzoeken om teruggaaf buiten de in het verdrag gestelde termijn ambtshalve in behandeling neemt binnen de hiervoor genoemde termijn van vijf jaren.3Zie ook het Besluit Fiscaal Bestuursrecht van 21 november 2023, nr. 2023-24452, § 23.
 
 ##### Artikel 8. Delegatiebepaling
 
@@ -173,9 +149,9 @@ De Minister van Financiën kan binnen de kaders van de verdragen waarop dit besl
 
 De volgende regelingen zijn ingetrokken op de datum van inwerkingtreding van dit besluit:
 
-- –. De [regeling van 26 november 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037270), nr. DGB 2015-5569M (Stcrt. 2015, 43413).
+- – De [regeling van 26 november 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037270), nr. DGB 2015-5569M (Stcrt. 2015, 43413).
 
-- –. De [regeling van 28 februari 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029697), nr. DGB2011/525M (Stcrt. 2011, 4009).
+- – De [regeling van 28 februari 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029697), nr. DGB2011/525M (Stcrt. 2011, 4009).
 
 ##### Artikel 10. Inwerkingtreding
 

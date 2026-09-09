@@ -5,11 +5,11 @@ identifier: "BWBR0052725"
 categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 2026-06-26
-laatste_update: 2026-06-26
+laatste_update: 2026-09-09
 status: geldig
-toestand: 2026-06-26
+toestand: 2026-09-09
 bron: "https://wetten.overheid.nl/BWBR0052725"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-09
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 19 juni 2026, nr. 7633550, houdende een subsidie voor de Joodse instellingen bij het treffen van beveiligingsmaatregelen (Regeling veiligheid Joodse instellingen 2026–2030)
@@ -26,7 +26,7 @@ In deze regeling wordt verstaan onder:
 
    - − Het kerkgenootschap als bedoeld in [artikel 2, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=2) voor zover zij haar leden in staat stelt de Joodse godsdienst te belijden;
 
-   - − De vereniging of stichting die zich krachtens haar statuten primair ten doel stelt het Joodse leven in Nederland te bevorderen en die op het moment dat zij een aanvraag zoals bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052725&artikel=3&z=2026-06-26&g=2026-06-26), van deze regeling indient ten minste een jaar bestaat;
+   - − De vereniging of stichting die zich krachtens haar statuten primair ten doel stelt het Joodse leven in Nederland te bevorderen en die op het moment dat zij een aanvraag zoals bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052725&artikel=3&z=2026-09-09&g=2026-09-09), van deze regeling indient ten minste een jaar bestaat;
 
    - − Het samenwerkingsverband van Joodse instellingen onderling en het samenwerkingsverband van een of meerdere Joodse instellingen en gemeenten.
 
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 5. Onverminderd het bepaalde in [artikel 10, derde lid, van het Kaderbesluit overige JenV subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0046660&artikel=10) bevat de aanvraag:
 
-- a. een opgave van subsidies die door een bestuursorgaan zijn verleend of bij een bestuursorgaan zijn aangevraagd voor het geheel of een gedeelte van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052725&artikel=5&z=2026-06-26&g=2026-06-26) bedoelde kosten;
+- a. een opgave van subsidies die door een bestuursorgaan zijn verleend of bij een bestuursorgaan zijn aangevraagd voor het geheel of een gedeelte van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052725&artikel=5&z=2026-09-09&g=2026-09-09) bedoelde kosten;
 
 - b. een opgave van bijdragen die door derden zijn verstrekt of bij derden zijn aangevraagd voor het geheel of een gedeelte van die kosten; en
 
@@ -64,13 +64,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-Indien de aanvraag zoals bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052725&artikel=3&z=2026-06-26&g=2026-06-26), van deze regeling, niet volledig is ingediend, wordt de aanvrager met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) in de gelegenheid gesteld binnen twee weken alsnog de aanvraag aan te vullen.
+Indien de aanvraag zoals bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052725&artikel=3&z=2026-09-09&g=2026-09-09), van deze regeling, niet volledig is ingediend, wordt de aanvrager met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) in de gelegenheid gesteld binnen twee weken alsnog de aanvraag aan te vullen.
 
 #### §. Subsidiabele kosten
 
 ##### Artikel 5
 
-Voor de subsidie als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052725&artikel=2&z=2026-06-26&g=2026-06-26), komen in aanmerking de in redelijkheid gemaakte kosten:
+Voor de subsidie als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052725&artikel=2&z=2026-09-09&g=2026-09-09), komen in aanmerking de in redelijkheid gemaakte kosten:
 
 - a. om de veiligheid van de deelnemers aan een activiteit van een Joodse instelling of van een Joodse school of van de bezoekers van een Joods evenement te bevorderen;
 
@@ -88,19 +88,19 @@ Niet in aanmerking komen de kosten:
 
 - c. voor de beveiliging van activiteiten of locaties buiten Nederland;
 
-- d. waarvoor reeds aan de Joodse instelling, de Joodse school of de organisator van een Joods evenement subsidie is verstrekt door een bestuursorgaan, dan wel door derden een bijdrage is verstrekt, voor het geheel of een gedeelte van de [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052725&artikel=5&z=2026-06-26&g=2026-06-26) bedoelde kosten. In dat geval wordt slechts een zodanig bedrag aan subsidie verstrekt dat het totale bedrag aan subsidies en bijdragen niet meer bedraagt dan maximaal 100 procent van de werkelijk gemaakte kosten.
+- d. waarvoor reeds aan de Joodse instelling, de Joodse school of de organisator van een Joods evenement subsidie is verstrekt door een bestuursorgaan, dan wel door derden een bijdrage is verstrekt, voor het geheel of een gedeelte van de [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052725&artikel=5&z=2026-09-09&g=2026-09-09) bedoelde kosten. In dat geval wordt slechts een zodanig bedrag aan subsidie verstrekt dat het totale bedrag aan subsidies en bijdragen niet meer bedraagt dan maximaal 100 procent van de werkelijk gemaakte kosten.
 
 #### §. Subsidieplafond en verdeelsystematiek
 
 ##### Artikel 7
 
-1. Het subsidieplafond voor deze regeling bedraagt voor het kalenderjaar 2026 € 2.000.000, onderverdeeld in de volgende subsidieplafonds:
+1. Het subsidieplafond voor deze regeling bedraagt voor het kalenderjaar 2026 € 2.300.000, onderverdeeld in de volgende subsidieplafonds:
 
 - a. € 500.000 voor Joodse scholen;
 
 - b. € 600.000 voor activiteiten die zijn gericht op Joodse jongeren in de leeftijd tot en met 27 jaar en worden georganiseerd door Joodse instellingen of door organisatoren van een Joods evenement;
 
-- c. € 900.000 voor andere activiteiten die worden georganiseerd door Joodse instellingen of door organisatoren van een Joods evenement.
+- c. € 1.200.000 voor andere activiteiten die worden georganiseerd door Joodse instellingen of door organisatoren van een Joods evenement.
 
 2. Voor de kalenderjaren 2027, 2028, 2029 en 2030 gelden door de minister jaarlijks nader bekend te maken subsidieplafonds voor deze regeling.
 

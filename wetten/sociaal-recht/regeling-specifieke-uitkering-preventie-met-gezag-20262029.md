@@ -1,54 +1,28 @@
 ---
 title: "Regeling van de Minister van Justitie en Veiligheid van 18 september 2025, nr. 6692706, houdende regels met betrekking tot het verstrekken van een specifieke uitkering voor de aanpak Preventie met Gezag 2026–2029"
+citeertitel: "Regeling specifieke uitkering Preventie met Gezag 2026–2029"
 identifier: "BWBR0051515"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-09-23"
-last_updated: "2025-09-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051515"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "17527193"
-version_id: "30926352"
-internal_id: "C44306581"
-label_id: "17428874"
-dtd_version: "2.0"
-original_entry_into_force: "2025-09-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051515/2025-09-23/0"
-intitule_bron: "Stcrt.2025-31991"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-09-18"
-intitule_published: "2025-09-22"
-intitule_in_force: "2025-09-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-31991"
-original_signed_date: "2025-09-18"
-original_published_date: "2025-09-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-31991"
-entry_into_force_date: "2025-09-23"
-jci_1_3: "jci1.3:c:BWBR0051515&z=2025-09-23&g=2025-09-23"
-jci_1_0: "1.0:c:BWBR0051515&g=2025-09-23"
-citeertitel_status: "officieel"
-short_title: "Regeling specifieke uitkering Preventie met Gezag 2026–2029"
-signed_date: "2025-09-18"
-entry_into_force: "2025-09-23"
+publicatiedatum: 2025-09-23
+laatste_update: 2025-09-23
+status: geldig
+toestand: 2025-09-23
+bron: "https://wetten.overheid.nl/BWBR0051515"
+opgehaald: 2026-09-09
 ---
+
 # Regeling van de Minister van Justitie en Veiligheid van 18 september 2025, nr. 6692706, houdende regels met betrekking tot het verstrekken van een specifieke uitkering voor de aanpak Preventie met Gezag 2026–2029
-
-Gelet op [artikel 17, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17),
-
-Besluit:
 
 ##### Artikel 1. Definitiebepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **Minister:** de Minister van Justitie en Veiligheid;
+- *Minister:* de Minister van Justitie en Veiligheid;
 
-- **Gemeenten:** de gemeenten genoemd in de bijlage behorende bij deze regeling;
+- *Gemeenten:* de gemeenten genoemd in de [bijlage](https://wetten.overheid.nl/BWBR0051515) behorende bij deze regeling;
 
-- **Programma:** het plan van aanpak over de activiteiten Preventie met Gezag per gemeente.
+- *Programma:* het plan van aanpak over de activiteiten Preventie met Gezag per gemeente.
 
 ##### Artikel 2. Doel en definitie activiteiten
 
@@ -60,7 +34,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Specifieke uitkering
 
-De Minister kan op aanvraag jaarlijks een specifieke uitkering verstrekken aan een gemeente genoemd in de bijlage bij deze regeling, voor het treffen van maatregelen in het kader van de aanpak Preventie met Gezag van 1 juni 2026 tot en met 31 december 2029.
+De Minister kan op aanvraag jaarlijks een specifieke uitkering verstrekken aan een gemeente genoemd in de [bijlage](https://wetten.overheid.nl/BWBR0051515) bij deze regeling, voor het treffen van maatregelen in het kader van de aanpak Preventie met Gezag van 1 juni 2026 tot en met 31 december 2029.
 
 ##### Artikel 4. Aanvraag
 
@@ -68,13 +42,13 @@ De Minister kan op aanvraag jaarlijks een specifieke uitkering verstrekken aan e
 
 - a. een reflectie op het huidige programma tot en met juni 2025 en een vooruitblik van juli 2025 tot en met mei 2026;
 
-- b. een integraal domeinoverstijgend plan van aanpak voor 1 juni 2026 tot en met 31 december 2029.
+- b. een integraal domeinoverstijgend plan van aanpak voor 1 juni 2026 tot en met 31 december 2029.
 
 2. In de reflectie wordt in ieder geval ingegaan op:
 
 - a. de inspanningen die de gemeente vanaf de start heeft verricht vanuit het programma, de problematiek, de afgebakende doelgroep, de samenwerking met lokale, regionale en landelijke (justitie)partners en de bereikte (tussen)resultaten;
 
-- b. de financiële uitputting van het huidige programma tot 1 juni 2025 en een financiële prognose van 1 juni 2025 tot 1 juni 2026. In de financiële reflectie en prognose worden de oorzaken van een eventuele onderuitputting toegelicht.
+- b. de financiële uitputting van het huidige programma tot 1 juni 2025 en een financiële prognose van 1 juni 2025 tot 1 juni 2026. In de financiële reflectie en prognose worden de oorzaken van een eventuele onderuitputting toegelicht.
 
 3. In het integraal domeinoverstijgend plan van aanpak wordt in ieder geval ingegaan op:
 
@@ -88,13 +62,13 @@ De Minister kan op aanvraag jaarlijks een specifieke uitkering verstrekken aan e
 
 - e. de begroting voor de periode vanaf juni 2026 tot en met december 2029, met een uitsplitsing van de inzet van eigen middelen, een uitsplitsing van de BTW en een overzicht van de wijze van borging van de aanpak in de gemeente.
 
-4. De aanvraag wordt uiterlijk op 31 december 2025 ingediend.
+4. De aanvraag wordt uiterlijk op 31 december 2025 ingediend.
 
-5. De aanvraag voor een uitkering als genoemd in tabel 2 van de bijlage, wordt als addendum bij de aanvraag bijgevoegd.
+5. De aanvraag voor een uitkering als genoemd in tabel 2 van de [bijlage](https://wetten.overheid.nl/BWBR0051515), wordt als addendum bij de aanvraag bijgevoegd.
 
 ##### Artikel 5. Hoogte specifieke uitkering
 
-De hoogte van de specifieke uitkering bedraagt per gemeente ten hoogste het in de bijlage bij deze regeling genoemde bedrag. Het compensabele BTW-deel van het in de bijlage genoemde bedrag wordt niet aan de gemeente uitgekeerd. Dat bedrag wordt afgedragen aan het BTW-compensatiefonds.
+De hoogte van de specifieke uitkering bedraagt per gemeente ten hoogste het in de bijlage bij deze regeling genoemde bedrag. Het compensabele BTW-deel van het in de [bijlage](https://wetten.overheid.nl/BWBR0051515) genoemde bedrag wordt niet aan de gemeente uitgekeerd. Dat bedrag wordt afgedragen aan het BTW-compensatiefonds.
 
 ##### Artikel 6. Verlening en bevoorschotting
 
@@ -142,51 +116,8 @@ De Minister kan een bepaling van deze regeling buiten toepassing laten of daarva
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 1 januari 2030.
+2. Deze regeling vervalt met ingang van 1 januari 2030.
 
 ##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering Preventie met Gezag 2026–2029.
-
-## Bijlage. behorend bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051515&artikel=5&z=2025-09-23&g=2025-09-23)
-
-| Gemeente | 2026 (jun t/m dec) | 2027, 2028 en 2029 per jaar | Totaal 1 jun 2026 – 31 dec 2029 |
-| --- | --- | --- | --- |
-| **Almere** | € 1.047.083,33 | € 1.795.000,00 | € 6.432.083,33 |
-| **Amsterdam** | € 5.691.063,26 | € 9.756.108,45 | € 34.959.388,61 |
-| **Arnhem** | € 1.238.181,96 | € 2.122.597,65 | € 7.605.974,91 |
-| **Breda** | € 1.047.083,33 | € 1.795.000,00 | € 6.432.083,33 |
-| **Delft** | € 1.047.083,33 | € 1.795.000,00 | € 6.432.083,33 |
-| **Den Bosch** | € 1.047.083,33 | € 1.795.000,00 | € 6.432.083,33 |
-| **Den Haag** | € 2.920.671,96 | € 5.006.866,22 | € 17.941.270,62 |
-| **Dordrecht** | € 1.047.083,33 | € 1.795.000,00 | € 6.432.083,33 |
-| **Eindhoven** | € 1.047.083,33 | € 1.795.000,00 | € 6.432.083,33 |
-| **Enschede** | € 1.047.083,33 | € 1.795.000,00 | € 6.432.083,33 |
-| **Groningen** | € 1.047.083,33 | € 1.795.000,00 | € 6.432.083,33 |
-| **Heerlen** | € 1.116.127,93 | € 1.913.362,17 | € 6.856.214,44 |
-| **Helmond** | € 1.047.083,33 | € 1.795.000,00 | € 6.432.083,33 |
-| **Leeuwarden** | € 1.067.080,41 | € 1.829.280,70 | € 6.554.922,51 |
-| **Lelystad** | € 1.047.083,33 | € 1.795.000,00 | € 6.432.083,33 |
-| **Maastricht** | € 1.047.083,33 | € 1.795.000,00 | € 6.432.083,33 |
-| **Nieuwegein** | € 1.047.083,33 | € 1.795.000,00 | € 6.432.083,33 |
-| **Nijmegen** | € 1.047.083,33 | € 1.795.000,00 | € 6.432.083,33 |
-| **Roosendaal** | € 1.047.083,33 | € 1.795.000,00 | € 6.432.083,33 |
-| **Rotterdam** | € 5.456.494,76 | € 9.353.991,01 | € 33.518.467,79 |
-| **Schiedam** | € 1.047.083,33 | € 1.795.000,00 | € 6.432.083,33 |
-| **Sittard-Geleen** | € 1.047.083,33 | € 1.795.000,00 | € 6.432.083,33 |
-| **Tilburg** | € 1.496.403,99 | € 2.565.263,99 | € 9.192.195,96 |
-| **Utrecht** | € 2.776.925,25 | € 4.760.443,28 | € 17.058.255,09 |
-| **Venlo** | € 1.047.083,33 | € 1.795.000,00 | € 6.432.083,33 |
-| **Vlaardingen** | € 1.047.083,33 | € 1.795.000,00 | € 6.432.083,33 |
-| **Zaanstad** | € 1.047.083,33 | € 1.795.000,00 | € 6.432.083,33 |
-
-| Gemeente | 2026 t/m 2029 per jaar | Totaal |
-| --- | --- | --- |
-| **Amsterdam** | € 200.000 | € 800.000 |
-| **Arnhem** | € 200.000 | € 800.000 |
-| **Delft** | € 100.000 | € 400.000 |
-| **Leeuwarden** | € 200.000 | € 800.000 |
-| **Tilburg** | € 200.000 | € 800.000 |
-| **Utrecht** | € 100.000 | € 400.000 |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

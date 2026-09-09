@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregels van de raad van bestuur van de Kansspelautoriteit inzake vergunningen voor het op afstand organiseren van kansspelen 2026 (Beleidsregels vergunningverlening kansspelen op afstand 2026)"
+citeertitel: "Beleidsregels vergunningverlening kansspelen op afstand 2026"
 identifier: "BWBR0051445"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051445"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "17512583"
-version_id: "30901432"
-internal_id: "C44277131"
-label_id: "17415414"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051445/2026-01-01/0"
-intitule_bron: "Stcrt.2025-29698"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-08-26"
-intitule_published: "2025-09-02"
-intitule_in_force: "2025-09-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-29698"
-original_signed_date: "2025-08-26"
-original_published_date: "2025-09-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-29698"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0051445&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0051445&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels vergunningverlening kansspelen op afstand 2026"
-signed_date: "2025-08-26"
-entry_into_force: "2026-01-01"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0051445"
+opgehaald: 2026-09-09
 ---
+
 # Beleidsregels van de raad van bestuur van de Kansspelautoriteit inzake vergunningen voor het op afstand organiseren van kansspelen 2026 (Beleidsregels vergunningverlening kansspelen op afstand 2026)
-
-gelet op [artikel 30k](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30k), [31a](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31a), [31c](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31c), [31g](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31g), [31h](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31h), [31i](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31i), [31k](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31k), [31l](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31l), [33g](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33g), [33h](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33h) en [35d van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=35d), [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=2.1), [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=3.1), [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=3.2), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=3.3), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=3.4), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=3.5), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=3.6), [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.1), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.3), [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.5), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.6), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.7), [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.8), [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.12), [4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.17), [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.18), [4.30](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.30), [4.32](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.32), [4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.41), [4.53](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.53), [5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=5.3) en [5.4 van het Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=5.4), [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=2), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=3a), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=7) en [11 van het Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=11), [artikel 3.19 van de Regeling kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&artikel=3.19) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81),
-
-besluit de volgende beleidsregels vast te stellen:
 
 #### Paragraaf 1. Definities en toepassing
 
@@ -46,39 +20,42 @@ besluit de volgende beleidsregels vast te stellen:
 
 In deze beleidsregels wordt verstaan onder:
 
-- 1. **aanvraag:** aanvraag voor een vergunning als bedoeld in [artikel 31a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31a);
+- 1. *aanvraag:* aanvraag voor een vergunning als bedoeld in [artikel 31a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31a);
 
-- 2. **aanvrager:** degene die een vergunning als bedoeld in [artikel 31a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31a) aanvraagt;
+- 2. *aanvrager:* degene die een vergunning als bedoeld in [artikel 31a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31a) aanvraagt;
 
-- 3. **CRUKS:** het centraal register uitsluiting kansspelen als bedoeld in [artikel 33h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33h);
+- 3. *CRUKS:* het centraal register uitsluiting kansspelen als bedoeld in [artikel 33h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33h);
 
-- 4. **inschrijving:** de inschrijving als speler als bedoeld in [artikel 31k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31k);
+- 4. *inschrijving:* de inschrijving als speler als bedoeld in [artikel 31k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31k);
 
-- 5. **keuringsrapport:** rapport als bedoeld in [artikel 4.53, derde lid, van het Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.53);
+- 5. *keuringsrapport:* rapport als bedoeld in [artikel 4.53, derde lid, van het Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.53);
 
-- 6. **kwetsbare groepen van personen:** kwetsbare groepen als bedoeld in [artikel 2, derde lid, van het Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=2), waaronder in ieder geval worden begrepen minderjarigen, personen die kenmerken van risicovol spelgedrag vertonen, consumenten met een lage sociaaleconomische status, laaggeletterden, consumenten met een beperkte kennis van de Nederlandse taal, consumenten op hoge leeftijd en consumenten met een verstandelijke beperking;
+- 6. *kwetsbare groepen van personen:* kwetsbare groepen als bedoeld in [artikel 2, derde lid, van het Besluit werving, reclame en verslavingspreventie kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=2), waaronder in ieder geval worden begrepen minderjarigen, personen die kenmerken van risicovol spelgedrag vertonen, consumenten met een lage sociaaleconomische status, laaggeletterden, consumenten met een beperkte kennis van de Nederlandse taal, consumenten op hoge leeftijd en consumenten met een verstandelijke beperking;
 
-- 7. **matchfixing:** de manipulatie van gebeurtenissen tijdens wedstrijden of sportcompetities of van uitslagen van wedstrijden of sportcompetities door op oneigenlijke wijze een wedstrijd of sportcompetitie te beïnvloeden;
+- 7. *matchfixing:* de manipulatie van gebeurtenissen tijdens wedstrijden of sportcompetities of van uitslagen van wedstrijden of sportcompetities door op oneigenlijke wijze een wedstrijd of sportcompetitie te beïnvloeden;
 
-- 8. **raad van bestuur:** raad van bestuur als bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
+- 8. *raad van bestuur:* raad van bestuur als bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
 
-- 9. **tegoeden van de spelers:** het totale saldo van de tegoeden van de afzonderlijke spelers bij een vergunninghouder, waaronder begrepen de door spelers behaalde speelwinsten en bonussen;
+- 9. *tegoeden van de spelers:* het totale saldo van de tegoeden van de afzonderlijke spelers bij een vergunninghouder, waaronder begrepen de door spelers behaalde speelwinsten en bonussen;
 
-- 10. **vergunninghouder:** degene die op het moment van de aanvraag beschikt over een vergunning als bedoeld in [artikel 31a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31a);
+- 10. *vergunninghouder:* degene die op het moment van de aanvraag beschikt over een vergunning als bedoeld in [artikel 31a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31a);
 
-- 11. **verklaring omtrent het gedrag:** verklaring als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28);
+- 11. *verklaring omtrent het gedrag:* verklaring als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28);
 
-- 12. **voormalige vergunninghouder:** degene die voorafgaand aan de aanvraag beschikte over een vergunning als bedoeld in [artikel 31a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31a);
+- 12. *voormalige vergunninghouder:* degene die voorafgaand aan de aanvraag beschikte over een vergunning als bedoeld in [artikel 31a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31a);
 
-- 13. **wet:** [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
+- 13. *wet:*
+ [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
 
-- 14. **wet Bibob:** [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798);
+- 14. *wet Bibob:*
+ [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798);
 
-- 15. **Wwft:** [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282).
+- 15. *Wwft:*
+ [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282).
 
 ##### Artikel 1.2. Toepassing
 
-Deze beleidsregels hebben betrekking op het indienen van een aanvraag vanaf 1 januari 2026 voor het op afstand organiseren van kansspelen, op de beoordeling daarvan door de raad van bestuur en op voorschriften en beperkingen die aan de vergunning kunnen worden verbonden.
+Deze beleidsregels hebben betrekking op het indienen van een aanvraag vanaf 1 januari 2026 voor het op afstand organiseren van kansspelen, op de beoordeling daarvan door de raad van bestuur en op voorschriften en beperkingen die aan de vergunning kunnen worden verbonden.
 
 #### Paragraaf 2. Algemene bepalingen
 
@@ -128,7 +105,7 @@ In dat geval verstrekt de vergunninghouder alle bij dat onderdeel van de aanvraa
 
 - e. de wijze waarop hij bij het eindigen van de vergunning zal voldoen aan de verplichtingen en de termijnen die betrekking hebben op de in de controledatabank opgenomen gegevens, zoals bedoeld in [artikel 4.13 van de Regeling kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044767&artikel=4.13) en op alle overige wettelijke verplichtingen en termijnen die betrekking hebben op het bewaren en archiveren van gegevens.
 
-##### Artikel 2.5. [Beleidsregels informatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0045630)
+##### Artikel 2.5. Beleidsregels informatieplicht
 
 Een aanvrager verstrekt bij zijn aanvraag een document waarin hij beschrijft hoe hij waarborgt dat hij voldoet aan het bepaalde in [artikel 5.1, tweede lid, van het Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=5.1), conform de wijze en de onderwerpen zoals beschreven in de [Beleidsregels informatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0045630).
 
@@ -198,9 +175,9 @@ Bij de beoordeling van het in [artikel 4.1, eerste lid](https://wetten.overheid.
 
 2. Het assurancerapport of rapport van feitelijke bevindingen als bedoeld in het eerste lid is opgesteld en ondertekend door een auditor:
 
-- a. als bedoeld in [Richtlijn 2006/43/EG](32006L0043) van het Europees Parlement en de Raad van 17 mei 2016 betreffende de wettelijke controle van jaarrekeningen en geconsolideerde jaarrekeningen; en
+- a. als bedoeld in Richtlijn 2006/43/EG van het Europees Parlement en de Raad van 17 mei 2016 betreffende de wettelijke controle van jaarrekeningen en geconsolideerde jaarrekeningen; en
 
-- b. die is ingeschreven in een openbaar register als bedoeld in artikel 15 van [Richtlijn 2006/43/EG](32006L0043).
+- b. die is ingeschreven in een openbaar register als bedoeld in artikel 15 van Richtlijn 2006/43/EG.
 
 ##### Artikel 5.3. Aanvraagprocedure voor vergunninghouders
 
@@ -246,9 +223,9 @@ De tegoeden van de spelers, als bedoeld in artikel 31l, tweede lid, onderdeel b,
 
 3. Het assurancerapport of rapport van feitelijke bevindingen als bedoeld in het tweede lid is opgesteld en ondertekend door een auditor:
 
-- a. als bedoeld in [Richtlijn 2006/43/EG](32006L0043) van het Europees Parlement en de Raad van 17 mei 2016 betreffende de wettelijke controle van jaarrekeningen en geconsolideerde jaarrekeningen; en
+- a. als bedoeld in Richtlijn 2006/43/EG van het Europees Parlement en de Raad van 17 mei 2016 betreffende de wettelijke controle van jaarrekeningen en geconsolideerde jaarrekeningen; en
 
-- b. die is ingeschreven in een openbaar register als bedoeld in artikel 15 van [Richtlijn 2006/43/EG](32006L0043).
+- b. die is ingeschreven in een openbaar register als bedoeld in artikel 15 van Richtlijn 2006/43/EG.
 
 ##### Artikel 7.4. Documentatievereisten aantonen opzet van de voorziening
 
@@ -276,29 +253,29 @@ Ten behoeve van de beoordeling of een voorziening als bedoeld in [artikel 7.1, o
 
 - a. een beschrijving van de door hem getroffen maatregelen, die gepaard gaat met documenten die het gestelde onderbouwen; uit de beschrijving blijkt in ieder geval:
 
-- i. hoe de tegoeden van de spelers worden afgescheiden van het andere vermogen of anderszins worden gewaarborgd;
+   - i. hoe de tegoeden van de spelers worden afgescheiden van het andere vermogen of anderszins worden gewaarborgd;
 
-- ii. wie de beheerder is, dat wil zeggen: door wie de tegoeden van de spelers namens de aanvrager worden beheerd;
+   - ii. wie de beheerder is, dat wil zeggen: door wie de tegoeden van de spelers namens de aanvrager worden beheerd;
 
-- iii. namens wie de tegoeden van de speler worden beheerd;
+   - iii. namens wie de tegoeden van de speler worden beheerd;
 
-- iv. dat de beheerder de spelerstegoeden enkel kan gebruiken voor het verrichten van betalingstransacties overeenkomstig het bepaalde bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
+   - iv. dat de beheerder de spelerstegoeden enkel kan gebruiken voor het verrichten van betalingstransacties overeenkomstig het bepaalde bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
 
-- v. dat de beheerder zijn werkzaamheden onafhankelijk van de aanvrager en niet onder diens verantwoordelijkheid verricht;
+   - v. dat de beheerder zijn werkzaamheden onafhankelijk van de aanvrager en niet onder diens verantwoordelijkheid verricht;
 
-- vi. dat de beheerder de bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469) gestelde voorschriften naleeft en zijn werkzaamheden zodanig uitvoert dat het toezicht op de naleving van de wet en de gestelde voorschriften niet wordt belemmerd;
+   - vi. dat de beheerder de bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469) gestelde voorschriften naleeft en zijn werkzaamheden zodanig uitvoert dat het toezicht op de naleving van de wet en de gestelde voorschriften niet wordt belemmerd;
 
-- vii. dat de beheerder de speler van wie het tegoed wordt beheerd, onverwijld de bedragen betaalt die die speler toekomen nadat het verzoek daartoe door of namens die speler is gedaan;
+   - vii. dat de beheerder de speler van wie het tegoed wordt beheerd, onverwijld de bedragen betaalt die die speler toekomen nadat het verzoek daartoe door of namens die speler is gedaan;
 
-- viii. dat de beheerder de spelerstegoeden enkel aanwendt voor het verrichten van betalingstransacties overeenkomstig het bepaalde bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
+   - viii. dat de beheerder de spelerstegoeden enkel aanwendt voor het verrichten van betalingstransacties overeenkomstig het bepaalde bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469);
 
-- ix. dat de aanvrager jegens de beheerder uitsluitend aanspraak maakt op betaling van gelden die namens hem worden beheerd;
+   - ix. dat de aanvrager jegens de beheerder uitsluitend aanspraak maakt op betaling van gelden die namens hem worden beheerd;
 
-- x. welke maatregelen de beheerder neemt om onrechtmatige transacties met de tegoeden van de spelers tegen te gaan;
+   - x. welke maatregelen de beheerder neemt om onrechtmatige transacties met de tegoeden van de spelers tegen te gaan;
 
-- xi. dat het door de derde voor de aanvrager afgescheiden of anderszins gewaarborgde vermogen voldoende is om de tegoeden van de spelers volledig te dekken;
+   - xi. dat het door de derde voor de aanvrager afgescheiden of anderszins gewaarborgde vermogen voldoende is om de tegoeden van de spelers volledig te dekken;
 
-- xii. welke maatregelen zijn genomen om de tegoeden van de spelers uit keren of te doen uitkeren aan de rechthebbende spelers in het geval de samenwerking tussen de aanvrager en de beheerder van die tegoeden van de spelers wordt beëindigd; en
+   - xii. welke maatregelen zijn genomen om de tegoeden van de spelers uit keren of te doen uitkeren aan de rechthebbende spelers in het geval de samenwerking tussen de aanvrager en de beheerder van die tegoeden van de spelers wordt beëindigd; en
 
 - b. indien de verzekering of afscheiding van de spelerstegoeden plaatsvindt via een financiële onderneming, een document waaruit blijkt dat die financiële onderneming ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van bank mag uitoefenen en die in ieder geval is geverifieerd aan de hand van gegevens uit de openbare registers van De Nederlandsche Bank; en
 
@@ -314,7 +291,7 @@ Ten behoeve van de beoordeling of een voorziening als bedoeld in [artikel 7.1, o
 
 ##### Artikel 8.1. Financiële zekerheid
 
-1. De aanvrager stelt financiële zekerheid voor het nakomen van zijn financiële verplichtingen, als bedoeld in [artikel 5.4 van het Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=5.4). De hoogte van de financiële zekerheidstelling ten tijde van de vergunningverlening bedraagt € 50.000.
+1. De aanvrager stelt financiële zekerheid voor het nakomen van zijn financiële verplichtingen, als bedoeld in [artikel 5.4 van het Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=5.4). De hoogte van de financiële zekerheidstelling ten tijde van de vergunningverlening bedraagt € 50.000.
 
 2. De aanvrager stelt de financiële zekerheid ter hoogte van het in het vorige lid genoemde bedrag in de vorm van:
 
@@ -330,19 +307,19 @@ Ten behoeve van de beoordeling of een voorziening als bedoeld in [artikel 7.1, o
 
 - a. een digitaal en fysiek exemplaar van de volledige en ondertekende overeenkomst tussen de aanvrager en de bank die de bankgarantie afgeeft, waaruit in ieder geval blijkt:
 
-- i. voor welk doel de bankgarantie is verleend;
+   - i. voor welk doel de bankgarantie is verleend;
 
-- ii. wie de begunstigde is van de bankgarantie;
+   - ii. wie de begunstigde is van de bankgarantie;
 
-- iii. welke partijen betrokken zijn bij de bankgarantie;
+   - iii. welke partijen betrokken zijn bij de bankgarantie;
 
-- iv. welke partijen zekerheden verlenen;
+   - iv. welke partijen zekerheden verlenen;
 
-- v. onder welke voorwaarden de bankgarantie is verleend;
+   - v. onder welke voorwaarden de bankgarantie is verleend;
 
-- vi. welke looptijd de bankgarantie heeft; en
+   - vi. welke looptijd de bankgarantie heeft; en
 
-- vii. voor welk bedrag, uitgedrukt in euro’s, de bankgarantie is afgesloten.
+   - vii. voor welk bedrag, uitgedrukt in euro’s, de bankgarantie is afgesloten.
 
 - b. een document waaruit blijkt dat de bankgarantie is afgegeven door een financiële onderneming die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van bank mag uitoefenen en die in ieder geval is geverifieerd aan de hand van gegevens uit de openbare registers van De Nederlandsche Bank.
 
@@ -352,7 +329,7 @@ Ten behoeve van de beoordeling of een voorziening als bedoeld in [artikel 7.1, o
 
 Een vergunninghouder verklaart overeenkomstig het bepaalde in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051445&paragraaf=2&artikel=2.2&z=2026-01-01&g=2026-01-01) dat hij voldoet aan de in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0051445&paragraaf=8&artikel=8.1&z=2026-01-01&g=2026-01-01) genoemde vereisten.
 
-#### Paragraaf 9. [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282)
+#### Paragraaf 9. Wet ter voorkoming van witwassen en financieren van terrorisme
 
 ##### Artikel 9.1. Antiwitwasbeleid
 
@@ -374,9 +351,9 @@ Een vergunninghouder verklaart overeenkomstig het bepaalde in [artikel 2.2](http
 
 - c. de werkwijze omtrent de voortdurende controle op spelers en hun transacties, als bedoeld in [artikel 3, tweede lid, onderdeel d, van de Wwft](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=3), waaronder in ieder geval wordt begrepen:
 
-- i. de werkwijze omtrent de beoordeling van risico’s van witwassen, waaronder ook – voor zover van toepassing – het risico van manipulatie van een wedstrijd; en
+   - i. de werkwijze omtrent de beoordeling van risico’s van witwassen, waaronder ook – voor zover van toepassing – het risico van manipulatie van een wedstrijd; en
 
-- ii. de werkwijze omtrent de beoordeling van een ongebruikelijke transactie, als bedoeld in [artikel 15, eerste lid van de Wwft](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=15) en [artikel 4, eerste lid, van het Uitvoeringsbesluit Wwft 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&artikel=4), in deze werkwijze zijn verwerkt.
+   - ii. de werkwijze omtrent de beoordeling van een ongebruikelijke transactie, als bedoeld in [artikel 15, eerste lid van de Wwft](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=15) en [artikel 4, eerste lid, van het Uitvoeringsbesluit Wwft 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041193&artikel=4), in deze werkwijze zijn verwerkt.
 
 - d. de werkwijze omtrent het zo nodig uitvoeren van een onderzoek naar de bron van de middelen, als bedoeld in [artikel 3, tweede lid, onderdeel d, van de Wwft](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=3).
 
@@ -394,7 +371,7 @@ Bij de beoordeling van de wijze waarop de in [artikel 9.1, eerste lid, onderdeel
 
 Een vergunninghouder verklaart overeenkomstig het bepaalde in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051445&paragraaf=2&artikel=2.2&z=2026-01-01&g=2026-01-01) dat hij voldoet aan de in [artikel 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0051445&paragraaf=9&artikel=9.1&z=2026-01-01&g=2026-01-01) genoemde vereisten.
 
-#### Paragraaf 10. [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296)
+#### Paragraaf 10. Sanctiewet 1977
 
 ##### Artikel 10.1. Verklaring
 
@@ -622,6 +599,8 @@ De raad van bestuur verbindt in ieder geval de volgende voorschriften aan de ver
 
 #### Paragraaf 20. Preventie herhaling overtredingen en beoordeling toezichtervaring vergunninghouders
 
+Voor de toepassing van deze paragraaf begrijpt de raad van bestuur onder vergunninghouder tevens voormalige vergunninghouder.
+
 ##### Artikel 20.1. Maatregelen ter voorkoming van herhaling van eerdere overtredingen
 
 1. Een vergunninghouder verstrekt bij zijn aanvraag een document waarin hij beschrijft welke concrete maatregelen hij heeft genomen ter zake van alle overtredingen van de wet- en regelgeving voor het organiseren van kansspelen op afstand waarop de raad van bestuur hem heeft aangesproken.
@@ -706,7 +685,7 @@ Bij de weging zoals bedoeld in [artikel 20.2, tweede lid](https://wetten.overhei
 
 ##### Artikel 21.1. Inwerkingtreding
 
-Deze beleidsregels treden in werking met ingang van 1 januari 2026.
+Deze beleidsregels treden in werking met ingang van 1 januari 2026.
 
 ##### Artikel 21.2. Intrekking
 

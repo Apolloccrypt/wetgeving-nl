@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregels van de Raad van Bestuur van Zorginstituut Nederland van 7 oktober 2025, kenmerk 2025015883, voor de toekenning en vaststelling van de vereveningsbijdrage aan zorgverzekeraars 2026 (Beleidsregels Risicoverevening 2026)"
+citeertitel: "Beleidsregels risicoverevening 2026"
 identifier: "BWBR0051655"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-10-25"
-last_updated: "2025-10-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051655"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "17563673"
-version_id: "30993992"
-internal_id: "C44387431"
-label_id: "17465824"
-dtd_version: "2.0"
-original_entry_into_force: "2025-10-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051655/2025-10-25/0"
-intitule_bron: "Stcrt.2025-35318"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-10-07"
-intitule_published: "2025-10-24"
-intitule_in_force: "2025-10-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-35318"
-original_signed_date: "2025-10-07"
-original_published_date: "2025-10-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-35318"
-entry_into_force_date: "2025-10-25"
-jci_1_3: "jci1.3:c:BWBR0051655&z=2025-10-25&g=2025-10-25"
-jci_1_0: "1.0:c:BWBR0051655&g=2025-10-25"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels risicoverevening 2026"
-signed_date: "2025-10-07"
-entry_into_force: "2025-10-25"
+publicatiedatum: 2025-10-25
+laatste_update: 2025-10-25
+status: geldig
+toestand: 2025-10-25
+bron: "https://wetten.overheid.nl/BWBR0051655"
+opgehaald: 2026-09-09
 ---
+
 # Beleidsregels van de Raad van Bestuur van Zorginstituut Nederland van 7 oktober 2025, kenmerk 2025015883, voor de toekenning en vaststelling van de vereveningsbijdrage aan zorgverzekeraars 2026 (Beleidsregels Risicoverevening 2026)
-
-gelet op de [artikelen 32, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32), en [34, vierde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34);
-
-Besluit:
 
 ### 1 Hoofdstuk I. Algemene bepalingen
 
@@ -46,95 +20,97 @@ Besluit:
 
 Deze Beleidsregels verstaan onder:
 
-- **aanpassingsklasse:** een klasse waarvan het gewicht in verband met de toepassing van criteriumneutraliteit wordt aangepast;
+- *aanpassingsklasse:* een klasse waarvan het gewicht in verband met de toepassing van criteriumneutraliteit wordt aangepast;
 
-- **AVI:** AVI als bedoeld in [artikel 1 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *AVI:* AVI als bedoeld in [artikel 1 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **belastingdienstbestand:** het bij het Zorginstituut meest recent beschikbare bestand met inkomensgegevens en gepseudonimiseerde adresgegevens per gepseudonimiseerd burgerservicenummer voor een peiljaar;
+- *belastingdienstbestand:* het bij het Zorginstituut meest recent beschikbare bestand met inkomensgegevens en gepseudonimiseerde adresgegevens per gepseudonimiseerd burgerservicenummer voor een peiljaar;
 
-- **Bzv:** [Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492);
+- *Bzv:*
+ [Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492);
 
-- **correctiefactor:** een door het Zorginstituut bepaalde factor die voor de betreffende risicoklasse van een bepaald criterium de geraamde prevalentie corrigeert voor bijzondere situaties. De toelichtingen op de bijzondere situatie en de correctiefactoren zijn opgenomen in de Verantwoording Verzekerdenraming 2026 die gepubliceerd wordt op de website [www.zorginstituutnederland.nl](http://www.zorginstituutnederland.nl);
+- *correctiefactor:* een door het Zorginstituut bepaalde factor die voor de betreffende risicoklasse van een bepaald criterium de geraamde prevalentie corrigeert voor bijzondere situaties. De toelichtingen op de bijzondere situatie en de correctiefactoren zijn opgenomen in de Verantwoording Verzekerdenraming 2026 die gepubliceerd wordt op de website [www.zorginstituutnederland.nl](http://www.zorginstituutnederland.nl);
 
-- **criterium:** een vereveningscriterium;
+- *criterium:* een vereveningscriterium;
 
-- **criteriumneutraliteit:** criteriumneutraliteit corrigeert ongewenste effecten van hogere of lagere (ex post) landelijke verzekerdenaantallen dan ex ante verwacht per vereveningskenmerk. Bij toepassing van criteriumneutraliteit worden een of meer gewichten van het betreffende vereveningscriterium bij de vaststelling aangepast zodat het effect van een (landelijk) verschil tussen raming en realisatie van de verzekerdenaantallen voor het vereveningscriterium of een aantal klassen van dat vereveningscriterium teniet wordt gedaan;
+- *criteriumneutraliteit:* criteriumneutraliteit corrigeert ongewenste effecten van hogere of lagere (ex post) landelijke verzekerdenaantallen dan ex ante verwacht per vereveningskenmerk. Bij toepassing van criteriumneutraliteit worden een of meer gewichten van het betreffende vereveningscriterium bij de vaststelling aangepast zodat het effect van een (landelijk) verschil tussen raming en realisatie van de verzekerdenaantallen voor het vereveningscriterium of een aantal klassen van dat vereveningscriterium teniet wordt gedaan;
 
-- **DKG_C:** DKG’s als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *DKG_C:* DKG’s als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **DKG_G:** DKG’s psychische aandoeningen als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *DKG_G:* DKG’s psychische aandoeningen als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **FDG_C:** FDG’s als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *FDG_C:* FDG’s als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **FKG_C:** FKG’s als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *FKG_C:* FKG’s als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **FKG_G:** FKG’s psychische aandoeningen als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *FKG_G:* FKG’s psychische aandoeningen als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **het Zorginstituut:** Zorginstituut Nederland, bedoeld in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
+- *het Zorginstituut:* Zorginstituut Nederland, bedoeld in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
 
-- **HHK_C:** HHK als bedoeld in artikel 1 van de Rrv;
+- *HHK_C:* HHK als bedoeld in artikel 1 van de Rrv;
 
-- **HKC:** hogekostencompensatie als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *HKC:* hogekostencompensatie als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **HSM_C:** HSM als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *HSM_C:* HSM als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **IBZ_C:** IBZ als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *IBZ_C:* IBZ als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **L5G:** leeftijd en geslacht als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *L5G:* leeftijd en geslacht als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **macroverzekerdenraming:** de raming van het aantal verzekerden op macroniveau voor het jaar 2026. De verantwoording van de macroverzekerdenraming is opgenomen in de Verantwoording Verzekerdenraming 2026 die gepubliceerd wordt op de website [www.zorginstituutnederland.nl](http://www.zorginstituutnederland.nl);
+- *macroverzekerdenraming:* de raming van het aantal verzekerden op macroniveau voor het jaar 2026. De verantwoording van de macroverzekerdenraming is opgenomen in de Verantwoording Verzekerdenraming 2026 die gepubliceerd wordt op de website [www.zorginstituutnederland.nl](http://www.zorginstituutnederland.nl);
 
-- **MHK_C:** MHK als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *MHK_C:* MHK als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **MHK_G:** GGZ-MHK als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *MHK_G:* GGZ-MHK als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **MVV_C:** MVV als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *MVV_C:* MVV als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **niet-ingezetene verzekerde:** een verzekerde die in het buitenland woont. Dit wordt bepaald aan de hand van de inschrijving in de BRP zoals blijkt uit de opgave van zorgverzekeraars in het PER of VPPER;
+- *niet-ingezetene verzekerde:* een verzekerde die in het buitenland woont. Dit wordt bepaald aan de hand van de inschrijving in de BRP zoals blijkt uit de opgave van zorgverzekeraars in het PER of VPPER;
 
-- **OKH_C:** OKH als bedoeld in artikel 1 van de Rrv;
+- *OKH_C:* OKH als bedoeld in artikel 1 van de Rrv;
 
-- **PER:** opgave van zorgverzekeraars met per gepseudonimiseerd burgerservicenummer de persoonskenmerken geslacht, geboortemaand, geboortejaar, viercijferige postcode, identificatie verzekerde in het buitenland en gepseudonimiseerd adres. De peildatum van het bestand met gegevensjaar t is 1 mei van jaar t, de aanleverdatum is 1 juni van jaar t;
+- *PER:* opgave van zorgverzekeraars met per gepseudonimiseerd burgerservicenummer de persoonskenmerken geslacht, geboortemaand, geboortejaar, viercijferige postcode, identificatie verzekerde in het buitenland en gepseudonimiseerd adres. De peildatum van het bestand met gegevensjaar t is 1 mei van jaar t, de aanleverdatum is 1 juni van jaar t;
 
-- **PKB:** een door het Zorginstituut samengesteld bestand. Het Zorginstituut koppelt per gepseudonimiseerd burgerservicenummer het PER-bestand, het VPPER-bestand en het 0BSN-bestand over jaar t, aangeleverd op 1 juni van jaar t (PER) of t+1 (VPPER, 0BSN);
+- *PKB:* een door het Zorginstituut samengesteld bestand. Het Zorginstituut koppelt per gepseudonimiseerd burgerservicenummer het PER-bestand, het VPPER-bestand en het 0BSN-bestand over jaar t, aangeleverd op 1 juni van jaar t (PER) of t+1 (VPPER, 0BSN);
 
-- **PPA:** PPA als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *PPA:* PPA als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **REG_C:** regio als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *REG_C:* regio als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **REG_G:** GGZ-regio als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *REG_G:* GGZ-regio als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **Rrv:** Regeling risicoverevening voor het betreffende vereveningsjaar;
+- *Rrv:* Regeling risicoverevening voor het betreffende vereveningsjaar;
 
-- **Rzv:** [Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715);
+- *Rzv:*
+ [Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715);
 
-- **schalingsfactor:** een door het Zorginstituut berekende factor (vanaf de eerste voorlopige vaststelling) als onderdeel van flankerend beleid. De factor wordt bepaald voor de bijdrage van het deelbedrag variabele zorgkosten en voor de bijdrage van het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg. De factor wordt per bijdrage op landelijk niveau bepaald als de verhouding tussen de totale kosten en het herberekende normatieve bedrag;
+- *schalingsfactor:* een door het Zorginstituut berekende factor (vanaf de eerste voorlopige vaststelling) als onderdeel van flankerend beleid. De factor wordt bepaald voor de bijdrage van het deelbedrag variabele zorgkosten en voor de bijdrage van het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg. De factor wordt per bijdrage op landelijk niveau bepaald als de verhouding tussen de totale kosten en het herberekende normatieve bedrag;
 
-- **SEI:** SEI als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *SEI:* SEI als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **seizoenarbeider:** een verzekerde van 18 tot en met 64 jaar, die in het buitenland woont en die in 2026 niet het gehele jaar verzekerd is en in 2025 niet of niet het gehele jaar is verzekerd;
+- *seizoenarbeider:* een verzekerde van 18 tot en met 64 jaar, die in het buitenland woont en die in 2026 niet het gehele jaar verzekerd is en in 2025 niet of niet het gehele jaar is verzekerd;
 
-- **SES:** SES als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
+- *SES:* SES als bedoeld in [artikel 1 van het Bzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-- **sterftecorrectiefactor:** een door het Zorginstituut bepaalde factor die per leeftijds- en geslachtscategorie voor de betreffende risicoklasse van een bepaald criterium de sterfte corrigeert naar de geraamde sterfte in de ex-postsituatie;
+- *sterftecorrectiefactor:* een door het Zorginstituut bepaalde factor die per leeftijds- en geslachtscategorie voor de betreffende risicoklasse van een bepaald criterium de sterfte corrigeert naar de geraamde sterfte in de ex-postsituatie;
 
-- **trendfactor:** een door het Zorginstituut bepaalde factor die per leeftijds- en geslachtscategorie voor de betreffende risicoklasse van een bepaald criterium de trendmatige ontwikkeling voor de risicoklasse weergeeft. De trendfactoren zijn opgenomen in de Verantwoording Verzekerdenraming 2026 die gepubliceerd wordt op de website [www.zorginstituutnederland.nl](http://www.zorginstituutnederland.nl);
+- *trendfactor:* een door het Zorginstituut bepaalde factor die per leeftijds- en geslachtscategorie voor de betreffende risicoklasse van een bepaald criterium de trendmatige ontwikkeling voor de risicoklasse weergeeft. De trendfactoren zijn opgenomen in de Verantwoording Verzekerdenraming 2026 die gepubliceerd wordt op de website [www.zorginstituutnederland.nl](http://www.zorginstituutnederland.nl);
 
-- **UWV-bestand:** het bij het Zorginstituut meest recent beschikbare bestand van het UWV met de inkomstenbron per gepseudonimiseerd burgerservicenummer voor een peiljaar;
+- *UWV-bestand:* het bij het Zorginstituut meest recent beschikbare bestand van het UWV met de inkomstenbron per gepseudonimiseerd burgerservicenummer voor een peiljaar;
 
-- **vereveningsbijdrage:** de bijdrage, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32) en [34 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34);
+- *vereveningsbijdrage:* de bijdrage, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32) en [34 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34);
 
-- **VPPER:** opgave van zorgverzekeraars met per gepseudonimiseerd burgerservicenummer de verzekerde periode en de persoonskenmerken geslacht, geboortemaand, geboortejaar, aanduiding voor een verzekerde die in het buitenland woont, viercijferige postcode en gepseudonimiseerd adres. De aanleverdatum van het bestand met gegevensjaar t is 1 juni t+1, de gegevens hebben betrekking op het hele gegevensjaar;
+- *VPPER:* opgave van zorgverzekeraars met per gepseudonimiseerd burgerservicenummer de verzekerde periode en de persoonskenmerken geslacht, geboortemaand, geboortejaar, aanduiding voor een verzekerde die in het buitenland woont, viercijferige postcode en gepseudonimiseerd adres. De aanleverdatum van het bestand met gegevensjaar t is 1 juni t+1, de gegevens hebben betrekking op het hele gegevensjaar;
 
-- **wet:** de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
+- *wet:* de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
 
-- **zelfstandigenbestand:** bestand van de Belastingdienst met een uittreksel van het zelfstandigenregister. Het bestand wordt aangeleverd in de maand juli met een peildatum van 30 juni en heeft betrekking op directeur-grootaandeelhouders en overige zelfstandigen. Het Zorginstituut gebruikt het meest recente beschikbare bestand;
+- *zelfstandigenbestand:* bestand van de Belastingdienst met een uittreksel van het zelfstandigenregister. Het bestand wordt aangeleverd in de maand juli met een peildatum van 30 juni en heeft betrekking op directeur-grootaandeelhouders en overige zelfstandigen. Het Zorginstituut gebruikt het meest recente beschikbare bestand;
 
-- **zorgprestatiemodel:** de nieuwe bekostigingssystematiek per 1 januari 2022 voor geestelijke gezondheidszorg en forensische zorg;
+- *zorgprestatiemodel:* de nieuwe bekostigingssystematiek per 1 januari 2022 voor geestelijke gezondheidszorg en forensische zorg;
 
-- **zwaarte:** het deel waarvoor de verzekerde meetelt in een betreffende klasse;
+- *zwaarte:* het deel waarvoor de verzekerde meetelt in een betreffende klasse;
 
-- **0BSN:** opgave van zorgverzekeraars over verzekerden zonder een geverifieerd burgerservicenummer en verzekerden zonder burgerservicenummer met per verzekerde de verzekerde periode en de persoonskenmerken geslacht, geboortemaand, geboortejaar en viercijferige postcode. De aanleverdatum van het bestand met gegevensjaar t is 1 juni t+1, de gegevens hebben betrekking op het hele gegevensjaar.
+- *0BSN:* opgave van zorgverzekeraars over verzekerden zonder een geverifieerd burgerservicenummer en verzekerden zonder burgerservicenummer met per verzekerde de verzekerde periode en de persoonskenmerken geslacht, geboortemaand, geboortejaar en viercijferige postcode. De aanleverdatum van het bestand met gegevensjaar t is 1 juni t+1, de gegevens hebben betrekking op het hele gegevensjaar.
 
 ##### Artikel 1.2. Algemene bepaling
 
@@ -208,11 +184,11 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2026 en de ber
 
 - a. de indeling in FKG_C-klassen 2026 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&bijlage=2&z=2025-10-25&g=2025-10-25) van deze Beleidsregels;
 
-- b. de opgave per 1 juni 2025 van declaraties farmaceutische zorg 2024 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut;
+- b. de opgave per 1 juni 2025 van declaraties farmaceutische zorg 2024 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut;
 
-- c. de opgave per 1 juni 2024 van declaraties farmaceutische zorg 2023 per gepseudonimiseerd Burgerservicenummer van de zorgverzekeraars aan het Zorginstituut;
+- c. de opgave per 1 juni 2024 van declaraties farmaceutische zorg 2023 per gepseudonimiseerd Burgerservicenummer van de zorgverzekeraars aan het Zorginstituut;
 
-- d. de opgave per 1 juni 2025 van declaraties add-on geneesmiddelen 2023 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut; en
+- d. de opgave per 1 juni 2025 van declaraties add-on geneesmiddelen 2023 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut; en
 
 - e. de leeftijd volgens het PKB 2024.
 
@@ -256,7 +232,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2026 en de ber
 
 - a. de indeling in FKG_G-klassen 2026 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&bijlage=3&z=2025-10-25&g=2025-10-25) van deze Beleidsregels; en
 
-- b. de opgave per 1 juni 2025 van declaraties farmaceutische zorg 2024 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut; en
+- b. de opgave per 1 juni 2025 van declaraties farmaceutische zorg 2024 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut; en
 
 - c. de leeftijd volgens het PKB 2024.
 
@@ -276,7 +252,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2026 en de ber
 
 - a. de indeling in DKG_C-klassen 2026 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&bijlage=4&z=2025-10-25&g=2025-10-25) van deze Beleidsregels; en
 
-- b. de opgave van de zorgverzekeraars per 1 juni 2025 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s die in 2023 geopend zijn; en
+- b. de opgave van de zorgverzekeraars per 1 juni 2025 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s die in 2023 geopend zijn; en
 
 - c. de leeftijd volgens het PKB 2023.
 
@@ -302,15 +278,15 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2026 en de ber
 
 - a. de indeling in DKG_G-klassen 2026 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&bijlage=5&z=2025-10-25&g=2025-10-25) van deze Beleidsregels;
 
-- b. de opgave van de zorgverzekeraars per 1 juni 2025 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van alle GGZ-prestaties in 2023;
+- b. de opgave van de zorgverzekeraars per 1 juni 2025 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van alle GGZ-prestaties in 2023;
 
-- c. de opgave van de zorgverzekeraars per 1 juni 2024 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van alle GGZ-prestaties in 2022;
+- c. de opgave van de zorgverzekeraars per 1 juni 2024 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van alle GGZ-prestaties in 2022;
 
-- d. de opgave van de zorgverzekeraars per 1 juni 2023 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s GGZ en zzp’s GGZ die in 2021 geopend zijn;
+- d. de opgave van de zorgverzekeraars per 1 juni 2023 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s GGZ en zzp’s GGZ die in 2021 geopend zijn;
 
-- e. de opgave van de zorgverzekeraars per 1 juni 2022 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s GGZ en zzp’s GGZ die in 2020 geopend zijn;
+- e. de opgave van de zorgverzekeraars per 1 juni 2022 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s GGZ en zzp’s GGZ die in 2020 geopend zijn;
 
-- f. de opgave via Vektis per 19 juni 2023 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van alle prestaties generalistische Basis-GGZ in 2021 en van alle dbc’s GGZ die in 2021 geopend zijn, waarbij de prestaties representatief zijn gemaakt voor het Zorgprestatiemodel; en
+- f. de opgave via Vektis per 19 juni 2023 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van alle prestaties generalistische Basis-GGZ in 2021 en van alle dbc’s GGZ die in 2021 geopend zijn, waarbij de prestaties representatief zijn gemaakt voor het Zorgprestatiemodel; en
 
 - g. de leeftijd volgens het PKB 2023, PKB 2022 en PKB 2021.
 
@@ -340,7 +316,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2026 en de ber
 
 - a. de indeling in FDG_C-klassen 2026 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&bijlage=6&z=2025-10-25&g=2025-10-25) van deze Beleidsregels;
 
-- b. de opgave per 1 juni 2025 van declaraties fysiotherapie en oefentherapie 2024 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut; en
+- b. de opgave per 1 juni 2025 van declaraties fysiotherapie en oefentherapie 2024 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut; en
 
 - c. de leeftijd volgens het PKB 2024.
 
@@ -362,21 +338,21 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2026 en de ber
 
 - b. de leeftijd volgens het PKB 2023;
 
-- c. de som van de kosten over 2023 per gepseudonimiseerd burgerservicenummer zoals zorgverzekeraars die op 1 mei 2025 aan het Zorginstituut hebben aangeleverd van:
+- c. de som van de kosten over 2023 per gepseudonimiseerd burgerservicenummer zoals zorgverzekeraars die op 1 mei 2025 aan het Zorginstituut hebben aangeleverd van:
 
-- –. verloskunde en verloskunde via integrale geboortezorg;
+   - – verloskunde en verloskunde via integrale geboortezorg;
 
-- –. kraamzorg en kraamzorg via integrale geboortezorg; en
+   - – kraamzorg en kraamzorg via integrale geboortezorg; en
 
-- –. verloskunde via medisch-specialistische zorg;
+   - – verloskunde via medisch-specialistische zorg;
 
-- d. de som van de kosten 2022 per gepseudonimiseerd burgerservicenummer zoals zorgverzekeraars die op 1 mei 2025 aan het Zorginstituut hebben aangeleverd van:
+- d. de som van de kosten 2022 per gepseudonimiseerd burgerservicenummer zoals zorgverzekeraars die op 1 mei 2025 aan het Zorginstituut hebben aangeleverd van:
 
-- –. verloskunde en verloskunde via integrale geboortezorg;
+   - – verloskunde en verloskunde via integrale geboortezorg;
 
-- –. kraamzorg en kraamzorg via integrale geboortezorg; en
+   - – kraamzorg en kraamzorg via integrale geboortezorg; en
 
-- –. verloskunde via medisch-specialistische zorg;
+   - – verloskunde via medisch-specialistische zorg;
 
 2. Het Zorginstituut koppelt de gegevens, bedoeld in het eerste lid, onderdeel b tot en met d, met het gepseudonimiseerde burgerservicenummer aan het PKB 2023 en bepaalt daarmee en met inachtneming van [Bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&bijlage=7&z=2025-10-25&g=2025-10-25) van deze Beleidsregels, in welke IBZ_C-klasse een verzekerde wordt ingedeeld. Het Zorginstituut stelt voor de toepasselijke klasse waarin de verzekerde valt de zwaarte gelijk aan de verzekeringsperiode in het PKB 2023.
 
@@ -436,43 +412,43 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2026 en de ber
 
 - a. de indeling in MHK_C-klassen 2026 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&bijlage=10&z=2025-10-25&g=2025-10-25) van deze Beleidsregels;
 
-- b. de kosten over 2023 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten, zoals zorgverzekeraars die op 1 mei 2025 bij het Zorginstituut hebben aangeleverd, exclusief kosten van:
+- b. de kosten over 2023 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten, zoals zorgverzekeraars die op 1 mei 2025 bij het Zorginstituut hebben aangeleverd, exclusief kosten van:
 
-- –. verpleging en verzorging;
+   - – verpleging en verzorging;
 
-- –. kraamzorg en kraamzorg via integrale geboortezorg;
+   - – kraamzorg en kraamzorg via integrale geboortezorg;
 
-- –. verloskunde en verloskunde via integrale geboortezorg; en
+   - – verloskunde en verloskunde via integrale geboortezorg; en
 
-- –. verloskunde via medisch-specialistische zorg;
+   - – verloskunde via medisch-specialistische zorg;
 
-- c. de kosten over 2022 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten tot en met 31 december 2024, zoals zorgverzekeraars die op 1 mei 2025 bij het Zorginstituut hebben aangeleverd, exclusief kosten van:
+- c. de kosten over 2022 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten tot en met 31 december 2024, zoals zorgverzekeraars die op 1 mei 2025 bij het Zorginstituut hebben aangeleverd, exclusief kosten van:
 
-- –. verpleging en verzorging;
+   - – verpleging en verzorging;
 
-- –. kraamzorg en kraamzorg via integrale geboortezorg;
+   - – kraamzorg en kraamzorg via integrale geboortezorg;
 
-- –. verloskunde en verloskunde via integrale geboortezorg; en
+   - – verloskunde en verloskunde via integrale geboortezorg; en
 
-- –. verloskunde via medisch-specialistische zorg;
+   - – verloskunde via medisch-specialistische zorg;
 
-- d. de kosten over 2021 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten tot en met 31 december 2023, zoals zorgverzekeraars die op 1 mei 2024 bij het Zorginstituut hebben aangeleverd, exclusief kosten van:
+- d. de kosten over 2021 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten tot en met 31 december 2023, zoals zorgverzekeraars die op 1 mei 2024 bij het Zorginstituut hebben aangeleverd, exclusief kosten van:
 
-- –. verpleging en verzorging;
+   - – verpleging en verzorging;
 
-- –. kraamzorg en kraamzorg via integrale geboortezorg; en
+   - – kraamzorg en kraamzorg via integrale geboortezorg; en
 
-- –. verloskunde en verloskunde via integrale geboortezorg;
+   - – verloskunde en verloskunde via integrale geboortezorg;
 
-- e. de opgave per 6 juni 2025 van kosten verloskunde via medisch-specialistische zorg 2021 per gepseudonimiseerd burgerservicenummer via Vektis aan het Zorginstituut;
+- e. de opgave per 6 juni 2025 van kosten verloskunde via medisch-specialistische zorg 2021 per gepseudonimiseerd burgerservicenummer via Vektis aan het Zorginstituut;
 
-- f. de opgave per 25 april 2025 van hulpmiddelenkosten 2023 per gepseudonimiseerd burgerservicenummer via Vektis aan het Zorginstituut;
+- f. de opgave per 25 april 2025 van hulpmiddelenkosten 2023 per gepseudonimiseerd burgerservicenummer via Vektis aan het Zorginstituut;
 
-- g. de opgave per 25 april 2025 van hulpmiddelenkosten 2022 per gepseudonimiseerd burgerservicenummer via Vektis aan het Zorginstituut;
+- g. de opgave per 25 april 2025 van hulpmiddelenkosten 2022 per gepseudonimiseerd burgerservicenummer via Vektis aan het Zorginstituut;
 
-- h. de opgave per 25 april 2025 van hulpmiddelenkosten 2021 per gepseudonimiseerd burgerservicenummer via Vektis aan het Zorginstituut;
+- h. de opgave per 25 april 2025 van hulpmiddelenkosten 2021 per gepseudonimiseerd burgerservicenummer via Vektis aan het Zorginstituut;
 
-- i. de opgave van de zorgkantoren per 1 juni 2025 aan het Zorginstituut per gepseudonimiseerd burgerservicenummer van de declaraties van alle Wlz-prestaties en het toegekende persoonsgebonden budget in 2024;
+- i. de opgave van de zorgkantoren per 1 juni 2025 aan het Zorginstituut per gepseudonimiseerd burgerservicenummer van de declaraties van alle Wlz-prestaties en het toegekende persoonsgebonden budget in 2024;
 
 - j. de leeftijd volgens het PKB 2024; en
 
@@ -496,15 +472,15 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2026 en de ber
 
 - a. de indeling in MHK_G-klassen 2026 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&bijlage=11&z=2025-10-25&g=2025-10-25) van deze Beleidsregels;
 
-- b. de kosten over 2023 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg, zoals zorgverzekeraars die op 1 mei 2025 bij het Zorginstituut hebben aangeleverd;
+- b. de kosten over 2023 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg, zoals zorgverzekeraars die op 1 mei 2025 bij het Zorginstituut hebben aangeleverd;
 
-- c. de kosten over 2022 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2024, zoals zorgverzekeraars die op 1 mei 2025 bij het Zorginstituut hebben aangeleverd;
+- c. de kosten over 2022 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2024, zoals zorgverzekeraars die op 1 mei 2025 bij het Zorginstituut hebben aangeleverd;
 
-- d. de kosten over 2021 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg inclusief kosten voor langdurige geestelijke gezondheidszorg tot en met 31 december 2023, zoals zorgverzekeraars die op 1 mei 2024 bij het Zorginstituut hebben aangeleverd;
+- d. de kosten over 2021 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg inclusief kosten voor langdurige geestelijke gezondheidszorg tot en met 31 december 2023, zoals zorgverzekeraars die op 1 mei 2024 bij het Zorginstituut hebben aangeleverd;
 
-- e. de kosten over 2020 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg inclusief kosten voor langdurige geestelijke gezondheidszorg tot en met 31 december 2022, zoals zorgverzekeraars die op 1 mei 2023 bij het Zorginstituut hebben aangeleverd;
+- e. de kosten over 2020 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg inclusief kosten voor langdurige geestelijke gezondheidszorg tot en met 31 december 2022, zoals zorgverzekeraars die op 1 mei 2023 bij het Zorginstituut hebben aangeleverd;
 
-- f. de kosten over 2019 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg exclusief kosten voor langdurige geestelijke gezondheidszorg tot en met 31 december 2021, zoals zorgverzekeraars die op 1 mei 2022 bij het Zorginstituut hebben aangeleverd;
+- f. de kosten over 2019 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg exclusief kosten voor langdurige geestelijke gezondheidszorg tot en met 31 december 2021, zoals zorgverzekeraars die op 1 mei 2022 bij het Zorginstituut hebben aangeleverd;
 
 - g. de leeftijd volgens het PKB 2024; en
 
@@ -528,13 +504,13 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2026 en de ber
 
 - a. de indeling in MVV_C-klassen 2026 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&bijlage=12&z=2025-10-25&g=2025-10-25) van deze Beleidsregels;
 
-- b. de kosten verpleging en verzorging 2023 per gepseudonimiseerd burgerservicenummer, zoals zorgverzekeraars die op 1 mei 2025 bij het Zorginstituut hebben aangeleverd;
+- b. de kosten verpleging en verzorging 2023 per gepseudonimiseerd burgerservicenummer, zoals zorgverzekeraars die op 1 mei 2025 bij het Zorginstituut hebben aangeleverd;
 
-- c. de kosten verpleging en verzorging 2022 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2024, zoals zorgverzekeraars die op 1 mei 2025 bij het Zorginstituut hebben aangeleverd;
+- c. de kosten verpleging en verzorging 2022 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2024, zoals zorgverzekeraars die op 1 mei 2025 bij het Zorginstituut hebben aangeleverd;
 
-- d. de kosten verpleging en verzorging 2021 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2023, zoals zorgverzekeraars die op 1 mei 2024 bij het Zorginstituut hebben aangeleverd;
+- d. de kosten verpleging en verzorging 2021 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2023, zoals zorgverzekeraars die op 1 mei 2024 bij het Zorginstituut hebben aangeleverd;
 
-- e. de opgave van de zorgkantoren per 1 juni 2025 aan het Zorginstituut per gepseudonimiseerd burgerservicenummer van de declaraties van alle Wlz-prestaties en het toegekende persoonsgebonden budget in 2024;
+- e. de opgave van de zorgkantoren per 1 juni 2025 aan het Zorginstituut per gepseudonimiseerd burgerservicenummer van de declaraties van alle Wlz-prestaties en het toegekende persoonsgebonden budget in 2024;
 
 - f. de leeftijd volgens het PKB 2024; en
 
@@ -558,11 +534,11 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2026 en de ber
 
 - a. de indeling in HHK_C-klassen 2026 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&bijlage=13&z=2025-10-25&g=2025-10-25) van deze Beleidsregels;
 
-- b. de opgave per 25 april 2025 van hulpmiddelenkosten 2023 per gepseudonimiseerd burgerservicenummer via Vektis aan het Zorginstituut;
+- b. de opgave per 25 april 2025 van hulpmiddelenkosten 2023 per gepseudonimiseerd burgerservicenummer via Vektis aan het Zorginstituut;
 
-- c. de opgave per 25 april 2025 van hulpmiddelenkosten 2022 per gepseudonimiseerd burgerservicenummer via Vektis aan het Zorginstituut;
+- c. de opgave per 25 april 2025 van hulpmiddelenkosten 2022 per gepseudonimiseerd burgerservicenummer via Vektis aan het Zorginstituut;
 
-- d. de opgave per 25 april 2025 van hulpmiddelenkosten 2021 per gepseudonimiseerd burgerservicenummer via Vektis aan het Zorginstituut; en
+- d. de opgave per 25 april 2025 van hulpmiddelenkosten 2021 per gepseudonimiseerd burgerservicenummer via Vektis aan het Zorginstituut; en
 
 - e. het PKB 2023.
 
@@ -588,9 +564,9 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2026 en de ber
 
 - d. de zelfstandigen volgens het zelfstandigenbestand 2024;
 
-- e. de duurzaam en volledig arbeidsongeschikten, de overige arbeidsongeschikten, de bijstandsgerechtigden, de werklozen en de loontrekkers volgens het UWV-bestand met peildatum 30 juni 2024 en de eerdere UWV-bestanden tot en met 2019;
+- e. de duurzaam en volledig arbeidsongeschikten, de overige arbeidsongeschikten, de bijstandsgerechtigden, de werklozen en de loontrekkers volgens het UWV-bestand met peildatum 30 juni 2024 en de eerdere UWV-bestanden tot en met 2019;
 
-- f. de studenten en hoogopgeleiden volgens de opgave van DUO per gepseudonimiseerd burgerservicenummer met peildatum 1 juni 2024;
+- f. de studenten en hoogopgeleiden volgens de opgave van DUO per gepseudonimiseerd burgerservicenummer met peildatum 1 juni 2024;
 
 - g. het gepseudonimiseerde adres per gepseudonimiseerd burgerservicenummer in het belastingdienstbestand over 2024;
 
@@ -618,7 +594,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2026 en de ber
 
 - e. het gepseudonimiseerde adres per gepseudonimiseerd burgerservicenummer volgens het PKB 2024 wanneer een verzekerde niet is opgenomen in het belastingdienstbestand over 2024;
 
-- f. de opgave van de zorgkantoren per 1 juni 2025 aan het Zorginstituut per gepseudonimiseerd burgerservicenummer van de declaraties van alle Wlz-prestaties en het toegekende persoonsgebonden budget in 2024;
+- f. de opgave van de zorgkantoren per 1 juni 2025 aan het Zorginstituut per gepseudonimiseerd burgerservicenummer van de declaraties van alle Wlz-prestaties en het toegekende persoonsgebonden budget in 2024;
 
 - g. de indeling in DKG_G-klassen zoals beschreven in [Artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.9&z=2025-10-25&g=2025-10-25);
 
@@ -648,7 +624,7 @@ Het Zorginstituut gaat bij de verdeling van de macro-deelbedragen 2026 en de ber
 
 - f. het gepseudonimiseerde adres per gepseudonimiseerd burgerservicenummer volgens het PKB 2024 wanneer een verzekerde ook niet is opgenomen in het belastingdienstbestand over 2024; en
 
-- g. de opgave van de zorgkantoren per 1 juni 2025 aan het Zorginstituut per gepseudonimiseerd burgerservicenummer van de declaraties van alle Wlz-prestaties en het toegekende persoonsgebonden budget in 2024;
+- g. de opgave van de zorgkantoren per 1 juni 2025 aan het Zorginstituut per gepseudonimiseerd burgerservicenummer van de declaraties van alle Wlz-prestaties en het toegekende persoonsgebonden budget in 2024;
 
 2. Het Zorginstituut koppelt de gegevens, bedoeld in het eerste lid, onderdeel b tot en met g, met het gepseudonimiseerde burgerservicenummer aan het PKB 2024 en bepaalt daarmee en met inachtneming van [Bijlage 16](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&bijlage=16&z=2025-10-25&g=2025-10-25) van deze Beleidsregels, in welke PPA-klasse een verzekerde wordt ingedeeld.
 
@@ -772,9 +748,9 @@ Voor de verdeling van het macro-deelbedrag kosten van geneeskundige geestelijke 
 
 ##### Artikel 3.2. De herberekening en herziening van de toegekende bijdrage 2026
 
-1. Het Zorginstituut baseert de herberekening van de vereveningsbijdrage op de verzekerdenaantallen 2026 volgens de opgaven van de zorgverzekeraars aan het Zorginstituut op 7 maart 2026.
+1. Het Zorginstituut baseert de herberekening van de vereveningsbijdrage op de verzekerdenaantallen 2026 volgens de opgaven van de zorgverzekeraars aan het Zorginstituut op 7 maart 2026.
 
-2. Het Zorginstituut herberekent de vereveningsbijdrage 2026, zoals toegekend op grond van [Artikel 2.31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.31&z=2025-10-25&g=2025-10-25), per zorgverzekeraar en betrekt daarbij de verzekerden die, volgens opgave via Vektis, op peildatum 15 februari 2026 zijn ingeschreven bij die zorgverzekeraar.
+2. Het Zorginstituut herberekent de vereveningsbijdrage 2026, zoals toegekend op grond van [Artikel 2.31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.31&z=2025-10-25&g=2025-10-25), per zorgverzekeraar en betrekt daarbij de verzekerden die, volgens opgave via Vektis, op peildatum 15 februari 2026 zijn ingeschreven bij die zorgverzekeraar.
 
 3. Het Zorginstituut voert de herberekening van de toegekende vereveningsbijdrage 2026 als volgt uit: Het Zorginstituut deelt per zorgverzekeraar het totaal aantal verzekerden uit de opgaven, bedoeld in het eerste lid, door het geraamde totaal aantal verzekerden 2026 uit het tweede lid en vermenigvuldigt per zorgverzekeraar de uitkomst hiervan met de op grond van het tweede lid herberekende vereveningsbijdrage 2026.
 
@@ -812,9 +788,9 @@ Voor de verdeling van het macro-deelbedrag kosten van geneeskundige geestelijke 
 
 - a. de indeling in FKG_C-klassen 2026 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&bijlage=2&z=2025-10-25&g=2025-10-25) van deze Beleidsregels;
 
-- b. de opgave per 1 juni 2026 van declaraties farmaceutische zorg 2025 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut;
+- b. de opgave per 1 juni 2026 van declaraties farmaceutische zorg 2025 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut;
 
-- c. de opgave per 1 juni 2027 van declaraties add-on geneesmiddelen 2025 van de zorgverzekeraars aan het Zorginstituut; en
+- c. de opgave per 1 juni 2027 van declaraties add-on geneesmiddelen 2025 van de zorgverzekeraars aan het Zorginstituut; en
 
 - d. de leeftijd volgens het PKB 2025.
 
@@ -828,7 +804,7 @@ Voor de verdeling van het macro-deelbedrag kosten van geneeskundige geestelijke 
 
 - a. de indeling in FKG_G-klassen 2026 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&bijlage=3&z=2025-10-25&g=2025-10-25) van deze Beleidsregels;
 
-- b. de opgave per 1 juni 2026 van declaraties farmaceutische zorg 2025 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut; en
+- b. de opgave per 1 juni 2026 van declaraties farmaceutische zorg 2025 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut; en
 
 - c. de leeftijd volgens het PKB 2025.
 
@@ -842,7 +818,7 @@ Voor de verdeling van het macro-deelbedrag kosten van geneeskundige geestelijke 
 
 - a. de indeling in DKG_C-klassen 2026 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&bijlage=4&z=2025-10-25&g=2025-10-25) van deze Beleidsregels;
 
-- b. de opgave van de zorgverzekeraars per 1 juni 2027 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s die in 2025 geopend zijn; en
+- b. de opgave van de zorgverzekeraars per 1 juni 2027 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van dbc’s die in 2025 geopend zijn; en
 
 - c. de leeftijd volgens het PKB 2025.
 
@@ -856,11 +832,11 @@ Voor de verdeling van het macro-deelbedrag kosten van geneeskundige geestelijke 
 
 - a. de indeling in DKG_G-klassen 2026 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&bijlage=5&z=2025-10-25&g=2025-10-25) van deze Beleidsregels;
 
-- b. de opgave van de zorgverzekeraars per 1 juni 2027 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van alle GGZ-prestaties in 2025;
+- b. de opgave van de zorgverzekeraars per 1 juni 2027 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van alle GGZ-prestaties in 2025;
 
-- c. de opgave van de zorgverzekeraar per 1 juni 2026 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van alle GGZ-prestaties in 2024;
+- c. de opgave van de zorgverzekeraar per 1 juni 2026 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van alle GGZ-prestaties in 2024;
 
-- d. de opgave van de zorgverzekeraar per 1 juni 2025 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van alle GGZ-prestaties in 2023;
+- d. de opgave van de zorgverzekeraar per 1 juni 2025 aan het Zorginstituut van de declaraties per gepseudonimiseerd burgerservicenummer van alle GGZ-prestaties in 2023;
 
 - e. de raming van de Nederlandse Zorgautoriteit van de directe en indirecte behandelminuten per prestatie onder het Zorgprestatiemodel, zoals vastgelegd in de Verantwoording tarieven Zorgprestatiemodel; en
 
@@ -880,7 +856,7 @@ Voor de verdeling van het macro-deelbedrag kosten van geneeskundige geestelijke 
 
 - a. de indeling in FDG_C-klassen 2026 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&bijlage=6&z=2025-10-25&g=2025-10-25) van deze Beleidsregels;
 
-- b. de opgave per 1 juni 2026 van declaraties fysiotherapie en oefentherapie 2025 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut; en
+- b. de opgave per 1 juni 2026 van declaraties fysiotherapie en oefentherapie 2025 per gepseudonimiseerd burgerservicenummer van de zorgverzekeraars aan het Zorginstituut; en
 
 - c. de leeftijd volgens het PKB 2025.
 
@@ -894,21 +870,21 @@ Voor de verdeling van het macro-deelbedrag kosten van geneeskundige geestelijke 
 
 - a. de indeling in IBZ_C-klassen 2026 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&bijlage=7&z=2025-10-25&g=2025-10-25) van deze Beleidsregels;
 
-- b. de som van de kosten 2025 per gepseudonimiseerd burgerservicenummer zoals zorgverzekeraars die op 1 mei 2027 bij het Zorginstituut hebben aangeleverd van:
+- b. de som van de kosten 2025 per gepseudonimiseerd burgerservicenummer zoals zorgverzekeraars die op 1 mei 2027 bij het Zorginstituut hebben aangeleverd van:
 
-- –. verloskunde en verloskunde via integrale geboortezorg;
+   - – verloskunde en verloskunde via integrale geboortezorg;
 
-- –. kraamzorg en kraamzorg via integrale geboortezorg; en
+   - – kraamzorg en kraamzorg via integrale geboortezorg; en
 
-- –. verloskunde via medisch-specialistische zorg;
+   - – verloskunde via medisch-specialistische zorg;
 
-- c. de som van de kosten 2024 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2026, zoals zorgverzekeraars die op 1 mei 2027 bij het Zorginstituut hebben aangeleverd van:
+- c. de som van de kosten 2024 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2026, zoals zorgverzekeraars die op 1 mei 2027 bij het Zorginstituut hebben aangeleverd van:
 
-- –. verloskunde en verloskunde via integrale geboortezorg;
+   - – verloskunde en verloskunde via integrale geboortezorg;
 
-- –. kraamzorg en kraamzorg via integrale geboortezorg; en
+   - – kraamzorg en kraamzorg via integrale geboortezorg; en
 
-- –. verloskunde via medisch-specialistische zorg;
+   - – verloskunde via medisch-specialistische zorg;
 
 - d. de leeftijd volgens het PKB 2025.
 
@@ -946,43 +922,43 @@ Voor de verdeling van het macro-deelbedrag kosten van geneeskundige geestelijke 
 
 - a. de indeling in MHK_C-klassen 2026 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&bijlage=10&z=2025-10-25&g=2025-10-25) van deze Beleidsregels;
 
-- b. de kosten over 2025 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten, zoals zorgverzekeraars die op 1 mei 2027 bij het Zorginstituut hebben aangeleverd, exclusief kosten van:
+- b. de kosten over 2025 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten, zoals zorgverzekeraars die op 1 mei 2027 bij het Zorginstituut hebben aangeleverd, exclusief kosten van:
 
-- –. verpleging en verzorging;
+   - – verpleging en verzorging;
 
-- –. verloskunde en verloskunde via integrale geboortezorg;
+   - – verloskunde en verloskunde via integrale geboortezorg;
 
-- –. kraamzorg en kraamzorg via integrale geboortezorg;
+   - – kraamzorg en kraamzorg via integrale geboortezorg;
 
-- –. verloskunde via medisch-specialistische zorg; en
+   - – verloskunde via medisch-specialistische zorg; en
 
-- –. hulpmiddelen;
+   - – hulpmiddelen;
 
-- c. de kosten over 2024 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten tot en met 31 december 2026, zoals zorgverzekeraars die op 1 mei 2027 bij het Zorginstituut hebben aangeleverd, exclusief kosten van:
+- c. de kosten over 2024 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten tot en met 31 december 2026, zoals zorgverzekeraars die op 1 mei 2027 bij het Zorginstituut hebben aangeleverd, exclusief kosten van:
 
-- –. verpleging en verzorging;
+   - – verpleging en verzorging;
 
-- –. verloskunde en verloskunde via integrale geboortezorg;
+   - – verloskunde en verloskunde via integrale geboortezorg;
 
-- –. kraamzorg en kraamzorg via integrale geboortezorg;
+   - – kraamzorg en kraamzorg via integrale geboortezorg;
 
-- –. verloskunde via medisch-specialistische zorg; en
+   - – verloskunde via medisch-specialistische zorg; en
 
-- –. hulpmiddelen;
+   - – hulpmiddelen;
 
-- d. de kosten over 2023 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten tot en met 31 december 2025, zoals zorgverzekeraars die op 1 mei 2026 bij het Zorginstituut hebben aangeleverd, exclusief kosten van:
+- d. de kosten over 2023 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten tot en met 31 december 2025, zoals zorgverzekeraars die op 1 mei 2026 bij het Zorginstituut hebben aangeleverd, exclusief kosten van:
 
-- –. verpleging en verzorging;
+   - – verpleging en verzorging;
 
-- –. verloskunde en verloskunde via integrale geboortezorg;
+   - – verloskunde en verloskunde via integrale geboortezorg;
 
-- –. kraamzorg en kraamzorg via integrale geboortezorg;
+   - – kraamzorg en kraamzorg via integrale geboortezorg;
 
-- –. verloskunde via medisch-specialistische zorg; en
+   - – verloskunde via medisch-specialistische zorg; en
 
-- –. hulpmiddelen;
+   - – hulpmiddelen;
 
-- e. de opgave van de zorgkantoren per 1 juni 2027 aan het Zorginstituut per gepseudonimiseerd burgerservicenummer van de declaraties van alle Wlz-prestaties en het toegekende persoonsgebonden budget in 2026;
+- e. de opgave van de zorgkantoren per 1 juni 2027 aan het Zorginstituut per gepseudonimiseerd burgerservicenummer van de declaraties van alle Wlz-prestaties en het toegekende persoonsgebonden budget in 2026;
 
 - f. de leeftijd volgens het PKB 2026; en
 
@@ -998,15 +974,15 @@ Voor de verdeling van het macro-deelbedrag kosten van geneeskundige geestelijke 
 
 - a. de indeling in MHK_G-klassen 2026 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&bijlage=11&z=2025-10-25&g=2025-10-25) van deze Beleidsregels;
 
-- b. de kosten over 2025 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg, zoals zorgverzekeraars die op 1 mei 2027 bij het Zorginstituut hebben aangeleverd;
+- b. de kosten over 2025 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg, zoals zorgverzekeraars die op 1 mei 2027 bij het Zorginstituut hebben aangeleverd;
 
-- c. de kosten over 2024 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2026, zoals zorgverzekeraars die op 1 mei 2027 bij het Zorginstituut hebben aangeleverd;
+- c. de kosten over 2024 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2026, zoals zorgverzekeraars die op 1 mei 2027 bij het Zorginstituut hebben aangeleverd;
 
-- d. de kosten over 2023 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2025, zoals zorgverzekeraars die op 1 mei 2026 bij het Zorginstituut hebben aangeleverd;
+- d. de kosten over 2023 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2025, zoals zorgverzekeraars die op 1 mei 2026 bij het Zorginstituut hebben aangeleverd;
 
-- e. de kosten over 2022 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2024, zoals zorgverzekeraars die op 1 mei 2025 bij het Zorginstituut hebben aangeleverd;
+- e. de kosten over 2022 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2024, zoals zorgverzekeraars die op 1 mei 2025 bij het Zorginstituut hebben aangeleverd;
 
-- f. de kosten over 2021 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg exclusief kosten voor langdurige geestelijke gezondheidszorg tot en met 31 december 2023, zoals zorgverzekeraars die op 1 mei 2024 bij het Zorginstituut hebben aangeleverd;
+- f. de kosten over 2021 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg exclusief kosten voor langdurige geestelijke gezondheidszorg tot en met 31 december 2023, zoals zorgverzekeraars die op 1 mei 2024 bij het Zorginstituut hebben aangeleverd;
 
 - g. de leeftijd volgens het PKB 2026; en
 
@@ -1022,13 +998,13 @@ Voor de verdeling van het macro-deelbedrag kosten van geneeskundige geestelijke 
 
 - a. de indeling in MVV_C-klassen 2026 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&bijlage=12&z=2025-10-25&g=2025-10-25) van deze Beleidsregels;
 
-- b. de kosten verpleging en verzorging 2025 per gepseudonimiseerd burgerservicenummer, zoals zorgverzekeraars die op 1 mei 2027 bij het Zorginstituut hebben aangeleverd;
+- b. de kosten verpleging en verzorging 2025 per gepseudonimiseerd burgerservicenummer, zoals zorgverzekeraars die op 1 mei 2027 bij het Zorginstituut hebben aangeleverd;
 
-- c. de kosten verpleging en verzorging 2024 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2026, zoals zorgverzekeraars die op 1 mei 2027 bij het Zorginstituut hebben aangeleverd;
+- c. de kosten verpleging en verzorging 2024 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2026, zoals zorgverzekeraars die op 1 mei 2027 bij het Zorginstituut hebben aangeleverd;
 
-- d. de kosten verpleging en verzorging 2023 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2025, zoals zorgverzekeraars die op 1 mei 2026 bij het Zorginstituut hebben aangeleverd;
+- d. de kosten verpleging en verzorging 2023 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2025, zoals zorgverzekeraars die op 1 mei 2026 bij het Zorginstituut hebben aangeleverd;
 
-- e. de opgave van de zorgkantoren per 1 juni 2027 aan het Zorginstituut per gepseudonimiseerd burgerservicenummer van de declaraties van alle Wlz-prestaties en het toegekende persoonsgebonden budget in 2026;
+- e. de opgave van de zorgkantoren per 1 juni 2027 aan het Zorginstituut per gepseudonimiseerd burgerservicenummer van de declaraties van alle Wlz-prestaties en het toegekende persoonsgebonden budget in 2026;
 
 - f. de leeftijd volgens het PKB 2026; en
 
@@ -1044,11 +1020,11 @@ Voor de verdeling van het macro-deelbedrag kosten van geneeskundige geestelijke 
 
 - a. de indeling in HHK_C-klassen 2026 zoals weergegeven in het referentiebestand dat is opgenomen in [Bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&bijlage=13&z=2025-10-25&g=2025-10-25) van deze Beleidsregels;
 
-- b. de hulpmiddelenkosten 2025 per gepseudonimiseerd burgerservicenummer, zoals zorgverzekeraars die op 1 mei 2027 bij het Zorginstituut hebben aangeleverd;
+- b. de hulpmiddelenkosten 2025 per gepseudonimiseerd burgerservicenummer, zoals zorgverzekeraars die op 1 mei 2027 bij het Zorginstituut hebben aangeleverd;
 
-- c. de hulpmiddelenkosten 2024 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2026, zoals zorgverzekeraars die op 1 mei 2027 bij het Zorginstituut hebben aangeleverd;
+- c. de hulpmiddelenkosten 2024 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2026, zoals zorgverzekeraars die op 1 mei 2027 bij het Zorginstituut hebben aangeleverd;
 
-- d. de hulpmiddelenkosten 2023 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2025, zoals zorgverzekeraars die op 1 mei 2026 bij het Zorginstituut hebben aangeleverd; en
+- d. de hulpmiddelenkosten 2023 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2025, zoals zorgverzekeraars die op 1 mei 2026 bij het Zorginstituut hebben aangeleverd; en
 
 - e. het PKB 2025.
 
@@ -1068,9 +1044,9 @@ Voor de verdeling van het macro-deelbedrag kosten van geneeskundige geestelijke 
 
 - d. de zelfstandigen volgens het zelfstandigenbestand 2026;
 
-- e. de duurzaam en volledig arbeidsongeschikten, de overige arbeidsongeschikten, de bijstandsgerechtigden, de werklozen en de loontrekkers volgens het UWV-bestand met peildatum 30 juni 2026 en de eerdere UWV-bestanden tot en met 2021;
+- e. de duurzaam en volledig arbeidsongeschikten, de overige arbeidsongeschikten, de bijstandsgerechtigden, de werklozen en de loontrekkers volgens het UWV-bestand met peildatum 30 juni 2026 en de eerdere UWV-bestanden tot en met 2021;
 
-- f. de studenten en de hoogopgeleiden volgens de opgave van DUO per gepseudonimiseerd burgerservicenummer met peildatum 1 juni 2026;
+- f. de studenten en de hoogopgeleiden volgens de opgave van DUO per gepseudonimiseerd burgerservicenummer met peildatum 1 juni 2026;
 
 - g. het gepseudonimiseerde adres per gepseudonimiseerd burgerservicenummer in het belastingdienstbestand over 2026;
 
@@ -1094,7 +1070,7 @@ Voor de verdeling van het macro-deelbedrag kosten van geneeskundige geestelijke 
 
 - e. het gepseudonimiseerde adres per gepseudonimiseerd burgerservicenummer volgens het PKB 2026 wanneer een verzekerde niet is opgenomen in het belastingdienstbestand over 2026;
 
-- f. de opgave van de zorgkantoren per 1 juni 2027 aan het Zorginstituut per gepseudonimiseerd burgerservicenummer van de declaraties van alle Wlz-prestaties en het toegekende persoonsgebonden budget in 2026;
+- f. de opgave van de zorgkantoren per 1 juni 2027 aan het Zorginstituut per gepseudonimiseerd burgerservicenummer van de declaraties van alle Wlz-prestaties en het toegekende persoonsgebonden budget in 2026;
 
 - g. de indeling in DKG_G-klassen zoals beschreven in [Artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=IV&artikel=4.6&z=2025-10-25&g=2025-10-25);
 
@@ -1120,7 +1096,7 @@ Voor de verdeling van het macro-deelbedrag kosten van geneeskundige geestelijke 
 
 - f. het gepseudonimiseerde adres per gepseudonimiseerd burgerservicenummer volgens het PKB 2026 wanneer een verzekerde ook niet is opgenomen in het belastingdienstbestand over 2026; en
 
-- g. de opgave van de zorgkantoren per 1 juni 2027 aan het Zorginstituut per gepseudonimiseerd burgerservicenummer van de declaraties van alle Wlz-prestaties en het toegekende persoonsgebonden budget in 2026.
+- g. de opgave van de zorgkantoren per 1 juni 2027 aan het Zorginstituut per gepseudonimiseerd burgerservicenummer van de declaraties van alle Wlz-prestaties en het toegekende persoonsgebonden budget in 2026.
 
 2. Het Zorginstituut koppelt de gegevens, bedoeld in het eerste lid onderdeel b tot en met g, met het gepseudonimiseerde burgerservicenummer aan het PKB 2026 en bepaalt daarmee en met inachtneming van [Bijlage 16](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&bijlage=16&z=2025-10-25&g=2025-10-25) van deze Beleidsregels, in welke PPA-klasse een verzekerde wordt ingedeeld.
 
@@ -1162,7 +1138,7 @@ Het Zorginstituut herberekent het gewicht van de in bijlage 7, tabel 7.1, van de
 
 ##### Artikel 4.22. De voorlopige herberekening van het deelbedrag variabele zorgkosten 2026
 
-1. Het Zorginstituut bepaalt de variabele zorgkosten 2026 voor iedere zorgverzekeraar afzonderlijk en voor de gezamenlijke zorgverzekeraars op basis van de opgave jaarstaat 2026 per 1 mei 2027 en met inachtneming van de artikelen 12, 13 en 14 van de Rrv.
+1. Het Zorginstituut bepaalt de variabele zorgkosten 2026 voor iedere zorgverzekeraar afzonderlijk en voor de gezamenlijke zorgverzekeraars op basis van de opgave jaarstaat 2026 per 1 mei 2027 en met inachtneming van de artikelen 12, 13 en 14 van de Rrv.
 
 2. Het Zorginstituut herberekent het normatieve bedrag variabele zorgkosten 2026 voor iedere zorgverzekeraar afzonderlijk en voor het totaal van de verzekerden 2026 van alle zorgverzekeraars gezamenlijk met de op grond van [Artikel 4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=IV&artikel=4.21&z=2025-10-25&g=2025-10-25) herberekende gewichten en overeenkomstig de in [Artikel 2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.24&z=2025-10-25&g=2025-10-25) en [2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.25&z=2025-10-25&g=2025-10-25) beschreven rekenwijze.
 
@@ -1178,7 +1154,7 @@ Het Zorginstituut herberekent het gewicht van de in bijlage 7, tabel 7.1, van de
 
 ##### Artikel 4.23. De voorlopige herberekening van het deelbedrag vaste zorgkosten 2026
 
-1. Het Zorginstituut bepaalt de vaste zorgkosten 2026 voor iedere zorgverzekeraar afzonderlijk op basis van de opgave jaarstaat 2026 per 1 mei 2027 en met inachtneming van de artikelen 12, 13 en 15 van de Rrv.
+1. Het Zorginstituut bepaalt de vaste zorgkosten 2026 voor iedere zorgverzekeraar afzonderlijk op basis van de opgave jaarstaat 2026 per 1 mei 2027 en met inachtneming van de artikelen 12, 13 en 15 van de Rrv.
 
 2. Het Zorginstituut herberekent het deelbedrag vaste zorgkosten door het totaal aantal verzekerden 2026 per zorgverzekeraar te vermenigvuldigen met het gewicht vaste zorgkosten 2026, berekend in [Artikel 2.26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.26&z=2025-10-25&g=2025-10-25).
 
@@ -1192,7 +1168,7 @@ Het Zorginstituut herberekent het gewicht van de in bijlage 7, tabel 7.2, van de
 
 ##### Artikel 4.25. De voorlopige herberekening van het deelbedrag kosten geneeskundige geestelijke gezondheidszorg 2026
 
-1. Het Zorginstituut bepaalt de kosten van geneeskundige geestelijke gezondheidszorg 2026 voor iedere zorgverzekeraar afzonderlijk en voor de gezamenlijke zorgverzekeraars op basis van de opgave jaarstaat 2026 per 1 mei 2027 en met inachtneming van de artikelen 12, 13 en 14 van de Rrv.
+1. Het Zorginstituut bepaalt de kosten van geneeskundige geestelijke gezondheidszorg 2026 voor iedere zorgverzekeraar afzonderlijk en voor de gezamenlijke zorgverzekeraars op basis van de opgave jaarstaat 2026 per 1 mei 2027 en met inachtneming van de artikelen 12, 13 en 14 van de Rrv.
 
 2. Het Zorginstituut herberekent het normatieve bedrag kosten van geneeskundige geestelijke gezondheidszorg 2026 voor iedere zorgverzekeraar afzonderlijk en voor het totaal van de verzekerden van achttien jaar of ouder 2026 van alle zorgverzekeraars gezamenlijk met de op grond van [Artikel 4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=IV&artikel=4.24&z=2025-10-25&g=2025-10-25) herberekende gewichten en overeenkomstig de in [Artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.27&z=2025-10-25&g=2025-10-25) en [2.28](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.28&z=2025-10-25&g=2025-10-25) beschreven rekenwijze.
 
@@ -1232,7 +1208,7 @@ Het Zorginstituut herberekent het gewicht van de in bijlage 7, tabel 7.3, van de
 
 2. Het Zorginstituut berekent de opbrengst van de nominale rekenpremie per zorgverzekeraar voor de eerste voorlopige vaststelling door de verzekerden van achttien jaar of ouder 2026 per zorgverzekeraar te vermenigvuldigen met de nominale rekenpremie 2026.
 
-3. Het Zorginstituut vermindert het resultaat na toepassing van het tweede lid met het bedrag dat de zorgverzekeraar verantwoordt in de opgave jaarstaat 2026 per 1 mei 2027 als gederfde inkomsten voor verzekerden van achttien jaar of ouder waarvoor als gevolg van de toepasselijkheid van [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) geen nominale premies worden ontvangen.
+3. Het Zorginstituut vermindert het resultaat na toepassing van het tweede lid met het bedrag dat de zorgverzekeraar verantwoordt in de opgave jaarstaat 2026 per 1 mei 2027 als gederfde inkomsten voor verzekerden van achttien jaar of ouder waarvoor als gevolg van de toepasselijkheid van [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) geen nominale premies worden ontvangen.
 
 4. Het Zorginstituut herberekent de vereveningsbijdrage 2026 voor de eerste voorlopige vaststelling door de som van het herberekende normatieve bedrag 2026, bedoeld in het eerste lid, te verminderen met de voorlopig herberekende normatieve opbrengst van het eigen risico, bedoeld in [Artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=IV&artikel=4.27&z=2025-10-25&g=2025-10-25), en de opbrengst van de nominale rekenpremie, bedoeld in het tweede en derde lid.
 
@@ -1242,7 +1218,7 @@ Het Zorginstituut herberekent het gewicht van de in bijlage 7, tabel 7.3, van de
 
 ##### Artikel 5.1. Algemene bepaling
 
-Het Zorginstituut herberekent het normatieve bedrag voor de tweede keer voorlopig met inachtneming van de kosten 2026 uit de opgave jaarstaat 2028 per 1 mei 2029, de correcties die de Nederlandse Zorgautoriteit heeft toegepast en de bepalingen uit dit hoofdstuk.
+Het Zorginstituut herberekent het normatieve bedrag voor de tweede keer voorlopig met inachtneming van de kosten 2026 uit de opgave jaarstaat 2028 per 1 mei 2029, de correcties die de Nederlandse Zorgautoriteit heeft toegepast en de bepalingen uit dit hoofdstuk.
 
 ##### Artikel 5.2. Bepaling van de verzekerdenaantallen 2026
 
@@ -1250,39 +1226,39 @@ Het Zorginstituut herberekent het normatieve bedrag voor de tweede keer voorlopi
 
 2. Het Zorginstituut herberekent het aantal verzekerden voor het criterium IBZ_C met:
 
-- a. de som van de kosten 2026 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2028, zoals zorgverzekeraars die op 1 mei 2029 bij het Zorginstituut hebben aangeleverd van:
+- a. de som van de kosten 2026 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2028, zoals zorgverzekeraars die op 1 mei 2029 bij het Zorginstituut hebben aangeleverd van:
 
-- –. verloskunde en verloskunde via integrale geboortezorg;
+   - – verloskunde en verloskunde via integrale geboortezorg;
 
-- –. kraamzorg en kraamzorg via integrale geboortezorg; en
+   - – kraamzorg en kraamzorg via integrale geboortezorg; en
 
-- –. verloskunde via medisch-specialistische zorg;
+   - – verloskunde via medisch-specialistische zorg;
 
-- b. de som van de kosten 2025 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2027, zoals zorgverzekeraars die op 1 mei 2028 bij het Zorginstituut hebben aangeleverd van:
+- b. de som van de kosten 2025 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2027, zoals zorgverzekeraars die op 1 mei 2028 bij het Zorginstituut hebben aangeleverd van:
 
-- –. verloskunde en verloskunde via integrale geboortezorg;
+   - – verloskunde en verloskunde via integrale geboortezorg;
 
-- –. kraamzorg en kraamzorg via integrale geboortezorg; en
+   - – kraamzorg en kraamzorg via integrale geboortezorg; en
 
-- –. verloskunde via medisch-specialistische zorg;
+   - – verloskunde via medisch-specialistische zorg;
 
-3. Het Zorginstituut herberekent het aantal verzekerden voor het criterium MHK_C met de kosten over 2025 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten tot en met 31 december 2027, zoals zorgverzekeraars die op 1 mei 2028 bij het Zorginstituut hebben aangeleverd, exclusief kosten van:
+3. Het Zorginstituut herberekent het aantal verzekerden voor het criterium MHK_C met de kosten over 2025 per gepseudonimiseerd burgerservicenummer voor het deelbedrag variabele zorgkosten tot en met 31 december 2027, zoals zorgverzekeraars die op 1 mei 2028 bij het Zorginstituut hebben aangeleverd, exclusief kosten van:
 
-- –. verpleging en verzorging;
+- – verpleging en verzorging;
 
-- –. verloskunde en verloskunde via integrale geboortezorg;
+- – verloskunde en verloskunde via integrale geboortezorg;
 
-- –. kraamzorg en kraamzorg via integrale geboortezorg;
+- – kraamzorg en kraamzorg via integrale geboortezorg;
 
-- –. verloskunde via medisch-specialistische zorg; en
+- – verloskunde via medisch-specialistische zorg; en
 
-- –. hulpmiddelen;
+- – hulpmiddelen;
 
-4. Het Zorginstituut herberekent het aantal verzekerden voor het criterium MHK_G met de kosten over 2025 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2027, zoals zorgverzekeraars die op 1 mei 2028 bij het Zorginstituut hebben aangeleverd.
+4. Het Zorginstituut herberekent het aantal verzekerden voor het criterium MHK_G met de kosten over 2025 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg tot en met 31 december 2027, zoals zorgverzekeraars die op 1 mei 2028 bij het Zorginstituut hebben aangeleverd.
 
-5. Het Zorginstituut herberekent het aantal verzekerden voor het criterium MVV_C met de kosten verpleging en verzorging 2025 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2027, zoals zorgverzekeraars die op 1 mei 2028 bij het Zorginstituut hebben aangeleverd.
+5. Het Zorginstituut herberekent het aantal verzekerden voor het criterium MVV_C met de kosten verpleging en verzorging 2025 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2027, zoals zorgverzekeraars die op 1 mei 2028 bij het Zorginstituut hebben aangeleverd.
 
-6. Het Zorginstituut herberekent het aantal verzekerden voor het criterium HHK_C met de hulpmiddelenkosten 2025 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2027, zoals zorgverzekeraars die op 1 mei 2028 bij het Zorginstituut hebben aangeleverd.
+6. Het Zorginstituut herberekent het aantal verzekerden voor het criterium HHK_C met de hulpmiddelenkosten 2025 per gepseudonimiseerd burgerservicenummer tot en met 31 december 2027, zoals zorgverzekeraars die op 1 mei 2028 bij het Zorginstituut hebben aangeleverd.
 
 7. Het Zorginstituut herberekent het aantal verzekerden voor het criterium AVI met
 
@@ -1362,7 +1338,7 @@ Het Zorginstituut herberekent voor de tweede keer voorlopig de normatieve opbren
 
 2. Het Zorginstituut berekent de tweede voorlopige opbrengst van de nominale rekenpremie per zorgverzekeraar door de verzekerden van achttien jaar of ouder per zorgverzekeraar te vermenigvuldigen met de nominale rekenpremie 2026.
 
-3. Het Zorginstituut vermindert het resultaat na toepassing van het tweede lid met het bedrag dat de zorgverzekeraar verantwoordt in zijn jaarstaat 2026 per 1 mei 2027 als gederfde inkomsten 2026 voor verzekerden van achttien jaar of ouder waarvoor als gevolg van de toepasselijkheid van [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) geen nominale premies worden ontvangen.
+3. Het Zorginstituut vermindert het resultaat na toepassing van het tweede lid met het bedrag dat de zorgverzekeraar verantwoordt in zijn jaarstaat 2026 per 1 mei 2027 als gederfde inkomsten 2026 voor verzekerden van achttien jaar of ouder waarvoor als gevolg van de toepasselijkheid van [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) geen nominale premies worden ontvangen.
 
 4. Het Zorginstituut herberekent de vereveningsbijdrage 2026 voor de tweede voorlopige vaststelling door de som van het herberekende normatieve bedrag 2026, bedoeld in het eerste lid, te verminderen met de tweede voorlopige normatieve opbrengst van het eigen risico, bedoeld in [Artikel 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=V&artikel=5.8&z=2025-10-25&g=2025-10-25), en de opbrengst van de nominale rekenpremie, bedoeld in het tweede en derde lid.
 
@@ -1458,10 +1434,10 @@ Het Zorginstituut herberekent definitief de normatieve opbrengst van het eigen r
 
 12. Het betalingsschema luidt als volgt:
 
-|   | Bestanddelen betalingen |   |   |   |
+|  | Bestanddelen betalingen |  |  |  |
 | --- | --- | --- | --- | --- |
-|   | Variabele en vaste zorgkosten | GGZ | Uitvoeringskosten | Eigen risico opbrengst |
-| Betaalmoment | [Artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=VIII&artikel=8.2&z=2025-10-25&g=2025-10-25) vijfde lid, onder a en b | [Artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=VIII&artikel=8.2&z=2025-10-25&g=2025-10-25) vijfde lid, onder c | [Artikel 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=VIII&artikel=8.2&z=2025-10-25&g=2025-10-25) vijfde lid, onder d | [Artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=VIII&artikel=8.2&z=2025-10-25&g=2025-10-25) eerste lid, onder d |
+|  | Variabele en vaste zorgkosten | GGZ | Uitvoeringskosten | Eigen risico opbrengst |
+| Betaalmoment | Artikel 8.2 vijfde lid, onder a en b | Artikel 8.2 vijfde lid, onder c | Artikel 8.2 vijfde lid, onder d | Artikel 8.1 eerste lid, onder d |
 | januari 2026 | 1,46% | 1,06% | 8,33% | 8,37% |
 | februari 2026 | 2,34% | 2,25% | 8,33% | 9,63% |
 | maart 2026 | 3,98% | 4,00% | 8,34% | 10,43% |
@@ -1535,7 +1511,7 @@ Bij de berekening wordt een maand op 30 en een jaar op 360 dagen gesteld.
 
 ##### Artikel 9.1. Inwerkingtreding
 
-Deze Beleidsregels treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst, en werken terug tot en met 15 oktober 2025.
+Deze Beleidsregels treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst, en werken terug tot en met 15 oktober 2025.
 
 ##### Artikel 9.2. Citeertitel
 
@@ -1544,79 +1520,3 @@ Deze Beleidsregels worden aangehaald als: Beleidsregels risicoverevening 2026.
 Deze Beleidsregels worden in de Staatscourant geplaatst, met uitzondering van de [bijlagen 1 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&bijlage=1&z=2025-10-25&g=2025-10-25) (referentiebestanden). Deze bijlagen worden gepubliceerd op de website [www.zorginstituutnederland.nl](http://www.zorginstituutnederland.nl).
 
 Goedgekeurd door de Minister van Volksgezondheid, Welzijn en Sport bij brief van 09.10.2025, kenmerk 4239866-1089811-Z.
-
-## Bijlage 1. Referentiebestand L5G vereveningsjaar 2026, behorend bij [Artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.5&z=2025-10-25&g=2025-10-25) en [Artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=IV&artikel=4.2&z=2025-10-25&g=2025-10-25)
-
-Gepubliceerd op www.zorginstituutnederland.nl.
-
-## Bijlage 2. Referentiebestand FKG_C vereveningsjaar 2026, behorend bij [Artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.6&z=2025-10-25&g=2025-10-25) en [Artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=IV&artikel=4.3&z=2025-10-25&g=2025-10-25)
-
-Gepubliceerd op www.zorginstituutnederland.nl.
-
-## Bijlage 3. Referentiebestand FKG_G vereveningsjaar 2026, behorend bij [Artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.7&z=2025-10-25&g=2025-10-25) en [Artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=IV&artikel=4.4&z=2025-10-25&g=2025-10-25)
-
-Gepubliceerd op www.zorginstituutnederland.nl.
-
-## Bijlage 4. Referentiebestand DKG_C vereveningsjaar 2026, behorend bij [Artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.8&z=2025-10-25&g=2025-10-25) en [Artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=IV&artikel=4.5&z=2025-10-25&g=2025-10-25)
-
-Gepubliceerd op www.zorginstituutnederland.nl.
-
-## Bijlage 5. Referentiebestand DKG_G vereveningsjaar 2026, behorend bij [Artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.9&z=2025-10-25&g=2025-10-25) en [Artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=IV&artikel=4.6&z=2025-10-25&g=2025-10-25)
-
-Gepubliceerd op www.zorginstituutnederland.nl.
-
-## Bijlage 6. Referentiebestand FDG_C vereveningsjaar 2026, behorend bij [Artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.10&z=2025-10-25&g=2025-10-25) en [Artikel 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=IV&artikel=4.7&z=2025-10-25&g=2025-10-25)
-
-Gepubliceerd op www.zorginstituutnederland.nl.
-
-## Bijlage 7. Referentiebestand IBZ_C vereveningsjaar 2026, behorend bij [Artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.11&z=2025-10-25&g=2025-10-25) en [Artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=IV&artikel=4.8&z=2025-10-25&g=2025-10-25)
-
-Gepubliceerd op www.zorginstituutnederland.nl.
-
-## Bijlage 8. Referentiebestand OKH_C vereveningsjaar 2026, behorende bij [Artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.12&z=2025-10-25&g=2025-10-25) en [Artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=IV&artikel=4.9&z=2025-10-25&g=2025-10-25)
-
-Gepubliceerd op www.zorginstituutnederland.nl.
-
-## Bijlage 9. Referentiebestand HSM_C vereveningsjaar 2026, behorend bij [Artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.13&z=2025-10-25&g=2025-10-25) en [Artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=IV&artikel=4.10&z=2025-10-25&g=2025-10-25)
-
-Gepubliceerd op www.zorginstituutnederland.nl.
-
-## Bijlage 10. Referentiebestand MHK_C vereveningsjaar 2026, behorend bij [Artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.14&z=2025-10-25&g=2025-10-25) en [Artikel 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=IV&artikel=4.11&z=2025-10-25&g=2025-10-25)
-
-Gepubliceerd op www.zorginstituutnederland.nl.
-
-## Bijlage 11. Referentiebestand MHK_G vereveningsjaar 2026, behorend bij [Artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.15&z=2025-10-25&g=2025-10-25) en [Artikel 4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=IV&artikel=4.12&z=2025-10-25&g=2025-10-25)
-
-Gepubliceerd op www.zorginstituutnederland.nl.
-
-## Bijlage 12. Referentiebestand MVV_C vereveningsjaar 2026, behorend bij [Artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.16&z=2025-10-25&g=2025-10-25) en [Artikel 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=IV&artikel=4.13&z=2025-10-25&g=2025-10-25)
-
-Gepubliceerd op www.zorginstituutnederland.nl.
-
-## Bijlage 13. Referentiebestand HHK_C vereveningsjaar 2026, behorende bij [Artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.17&z=2025-10-25&g=2025-10-25) en [Artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=IV&artikel=4.14&z=2025-10-25&g=2025-10-25)
-
-Gepubliceerd op www.zorginstituutnederland.nl.
-
-## Bijlage 14. Referentiebestand AVI vereveningsjaar 2026, behorend bij [Artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.18&z=2025-10-25&g=2025-10-25) en [Artikel 4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=IV&artikel=4.15&z=2025-10-25&g=2025-10-25)
-
-Gepubliceerd op www.zorginstituutnederland.nl.
-
-## Bijlage 15. Referentiebestand SES vereveningsjaar 2026, behorend bij [Artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.19&z=2025-10-25&g=2025-10-25) en [Artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=IV&artikel=4.16&z=2025-10-25&g=2025-10-25)
-
-Gepubliceerd op www.zorginstituutnederland.nl.
-
-## Bijlage 16. Referentiebestand PPA vereveningsjaar 2026, behorend bij [Artikel 2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.20&z=2025-10-25&g=2025-10-25) en [Artikel 4.17](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=IV&artikel=4.17&z=2025-10-25&g=2025-10-25)
-
-Gepubliceerd op www.zorginstituutnederland.nl.
-
-## Bijlage 17. Referentiebestand SEI vereveningsjaar 2026, behorend bij [Artikel 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.21&z=2025-10-25&g=2025-10-25) en [Artikel 4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=IV&artikel=4.18&z=2025-10-25&g=2025-10-25)
-
-Gepubliceerd op www.zorginstituutnederland.nl.
-
-## Bijlage 18. Referentiebestand REG_C vereveningsjaar 2026, behorend bij [Artikel 2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.22&z=2025-10-25&g=2025-10-25) en [Artikel 4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=IV&artikel=4.19&z=2025-10-25&g=2025-10-25)
-
-Gepubliceerd op www.zorginstituutnederland.nl.
-
-## Bijlage 19. Referentiebestand REG_G vereveningsjaar 2026, behorend bij [Artikel 2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=II&artikel=2.23&z=2025-10-25&g=2025-10-25) en [Artikel 4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0051655&hoofdstuk=IV&artikel=4.20&z=2025-10-25&g=2025-10-25)
-
-Gepubliceerd op www.zorginstituutnederland.nl.

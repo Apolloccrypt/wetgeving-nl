@@ -1,77 +1,43 @@
 ---
 title: "Gewijzigde Beleidsregel rendementstoets warmte"
 identifier: "BWBR0051585"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-10-10"
-last_updated: "2025-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051585"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17545343"
-version_id: "30960412"
-internal_id: "C44343541"
-label_id: "17446854"
-dtd_version: "2.0"
-original_entry_into_force: "2025-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051585/2025-10-10/0"
-intitule_bron: "Stcrt.2025-33271"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-05-15"
-intitule_published: "2025-10-09"
-intitule_in_force: "2025-10-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-33271"
-original_signed_date: "2025-05-15"
-original_published_date: "2025-10-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-33271"
-entry_into_force_date: "2025-10-10"
-jci_1_3: "jci1.3:c:BWBR0051585&z=2025-10-10&g=2025-10-10"
-jci_1_0: "1.0:c:BWBR0051585&g=2025-10-10"
-citeertitel_status: "redactioneel"
-signed_date: "2025-05-15"
-entry_into_force: "2025-10-10"
+publicatiedatum: 2025-10-10
+laatste_update: 2025-10-10
+status: geldig
+toestand: 2025-10-10
+bron: "https://wetten.overheid.nl/BWBR0051585"
+opgehaald: 2026-09-09
 ---
+
 # Gewijzigde Beleidsregel rendementstoets warmte
-
-Met de inwerkingtreding van [art. 7 lid 2 tot en met 4 van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=7) heeft de wetgever bepaald dat de ACM toetst of het rendement van een warmteleverancier op al zijn netten gezamenlijk hoger is dan een door de ACM vast te stellen redelijk rendement. Indien dit het geval is, kan de ACM het meer dan redelijk behaalde rendement laten verdisconteren in de tarieven van die warmteleverancier. In deze beleidsregel worden nadere regels vastgesteld voor de uitvoering van deze bepalingen, gezamenlijk ook wel de rendementstoets genoemd.
-
-De rendementstoets bestaat naast de wettelijke taak van de ACM om op grond van [art. 5 Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=5) jaarlijks maximumtarieven voor warmte vast te stellen. Indien een warmteleverancier, ondanks het hanteren van dit maximumtarief, een rendement behaalt dat hoger is dan het door de ACM vastgestelde redelijk rendement, kan de ACM hiervoor corrigeren. Omdat de warmtetarieven veelal gebaseerd zijn op het niet meer dan anders principe (de gasreferentie) en niet op de daadwerkelijke kosten van warmteleveranciers, kan het voorkomen dat een warmteleverancier op basis van de maximumtarieven van de ACM een meer dan redelijk rendement behaalt. De wetgever heeft bepaald dat dit onwenselijk is en heeft daarom de rendementstoets ingevoerd.
-
-De Wet Collectieve Warmte is in voorbereiding. Daar waar warmtetarieven in de toekomst op werkelijke (efficiënte) kosten worden gebaseerd, vervalt de relevantie van de rendementstoets. Warmteleveranciers kunnen in dat geval geen tarieven meer in rekening brengen die leiden tot een onredelijk rendement en er is derhalve geen aanleiding meer voor een rendementstoets. De ACM heeft bij het schrijven van deze beleidsregel gekozen voor een aanpak die, gegeven het feit dat de rendementstoets een tijdelijke maatregel is, zowel zorgvuldig als praktisch uitvoerbaar is. Uiterlijk drie jaar na de inwerkingtreding zal de ACM de werking van deze beleidsregel evalueren.
-
-Deze beleidsregel is gewijzigd als gevolg van een beroepsprocedure gericht tegen het [besluit WACC warmteleveranciers](https://wetten.overheid.nl/jci1.3:c:BWBR0048574)1Besluit van 22 augustus 2023 met zaaknummer ACM/22/178893 en kenmerk ACM/UIT/600827.De [artikelen 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0051585&artikel=6a&z=2025-10-10&g=2025-10-10) (asymmetrisch reguleringsrisico) en [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0051585&artikel=7a&z=2025-10-10&g=2025-10-10) (innovatieve investeringen) met bijbehorende toelichting zijn toegevoegd.
-
-De Autoriteit Consument en Markt
-
-Gelet op [artikel 7 leden 2, 3 en 4 van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=7), in samenhang gelezen met [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81),
-
-Besluit:
 
 ##### Artikel 1. Begrippen
 
 In deze beleidsregel wordt verstaan onder:
 
-- a. **ACM:** de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
+- a. *ACM:* de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
 
-- b. **Awb:** [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- b. *Awb:*
+ [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- c. **EZK:** Economische Zaken en Klimaat;
+- c. *EZK:* Economische Zaken en Klimaat;
 
-- d. **Leverancier:** leverancier in de zin van [artikel 1, eerste lid, van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=1);
+- d. *Leverancier:* leverancier in de zin van [artikel 1, eerste lid, van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=1);
 
-- e. **RAR:** Regulatorische Accounting Regels;
+- e. *RAR:* Regulatorische Accounting Regels;
 
-- f. **Rendementstoets:** de door de ACM uit te voeren vergelijking tussen het door een leverancier behaalde rendement en het door de ACM vastgestelde redelijk rendement inclusief de eventueel daaruit voortvloeiende correctie;
+- f. *Rendementstoets:* de door de ACM uit te voeren vergelijking tussen het door een leverancier behaalde rendement en het door de ACM vastgestelde redelijk rendement inclusief de eventueel daaruit voortvloeiende correctie;
 
-- g. **ROIC:** return on invested capital, het rendement op geïnvesteerd kapitaal;
+- g. *ROIC:* return on invested capital, het rendement op geïnvesteerd kapitaal;
 
-- h. **Verbruiker:** een verbruiker in de zin van [artikel 1, eerste lid, van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=1);
+- h. *Verbruiker:* een verbruiker in de zin van [artikel 1, eerste lid, van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=1);
 
-- i. **WACC:** weighted average cost of capital, het gewogen gemiddelde van de kostenvoet vreemd en eigen vermogen;
+- i. *WACC:* weighted average cost of capital, het gewogen gemiddelde van de kostenvoet vreemd en eigen vermogen;
 
-- j. **Warmtewet:** [wet van 17 juni 2013, houdende regels omtrent de levering van warmte aan verbruikers](https://wetten.overheid.nl/jci1.3:c:BWBR0033729).
+- j. *Warmtewet:*
+ [wet van 17 juni 2013, houdende regels omtrent de levering van warmte aan verbruikers](https://wetten.overheid.nl/jci1.3:c:BWBR0033729).
 
 ##### Artikel 2. Reikwijdte
 
@@ -209,7 +175,7 @@ De werking van deze beleidsregel wordt uiterlijk drie jaar na de inwerkingtredin
 
 ##### Artikel 12. Intrekking
 
-De [Beleidsregel rendementstoets warmte](https://wetten.overheid.nl/jci1.3:c:BWBR0048573) van 25 augustus 2023 nr. 24023 wordt ingetrokken.
+De [Beleidsregel rendementstoets warmte](https://wetten.overheid.nl/jci1.3:c:BWBR0048573) van 25 augustus 2023 nr. 24023 wordt ingetrokken.
 
 ##### Artikel 13. Inwerkingtreding
 

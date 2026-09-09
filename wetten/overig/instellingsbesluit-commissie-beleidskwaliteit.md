@@ -1,54 +1,28 @@
 ---
 title: "Besluit van de Minister van Financiën d.d. 26 september 2025, nr. 450191, houdende instelling van de Commissie Beleidskwaliteit Ministerie van Financiën (Instellingsbesluit Commissie Beleidskwaliteit)"
+citeertitel: "Instellingsbesluit Commissie Beleidskwaliteit"
 identifier: "BWBR0051601"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-10-11"
-last_updated: "2025-10-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051601"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17549133"
-version_id: "30967082"
-internal_id: "C44350361"
-label_id: "17450414"
-dtd_version: "2.0"
-original_entry_into_force: "2025-10-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051601/2025-10-11/0"
-intitule_bron: "Stcrt.2025-34399"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-09-26"
-intitule_published: "2025-10-10"
-intitule_in_force: "2025-10-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-34399"
-original_signed_date: "2025-09-26"
-original_published_date: "2025-10-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-34399"
-entry_into_force_date: "2025-10-11"
-jci_1_3: "jci1.3:c:BWBR0051601&z=2025-10-11&g=2025-10-11"
-jci_1_0: "1.0:c:BWBR0051601&g=2025-10-11"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie Beleidskwaliteit"
-signed_date: "2025-09-26"
-entry_into_force: "2025-10-11"
+publicatiedatum: 2025-10-11
+laatste_update: 2025-10-11
+status: geldig
+toestand: 2025-10-11
+bron: "https://wetten.overheid.nl/BWBR0051601"
+opgehaald: 2026-09-09
 ---
+
 # Besluit van de Minister van Financiën d.d. 26 september 2025, nr. 450191, houdende instelling van de Commissie Beleidskwaliteit Ministerie van Financiën (Instellingsbesluit Commissie Beleidskwaliteit)
-
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Financiën;
+- a. *minister:* Minister van Financiën;
 
-- b. **commissie:** Commissie Beleidskwaliteit Ministerie van Financiën, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051601&artikel=2&z=2025-10-11&g=2025-10-11);
+- b. *commissie:* Commissie Beleidskwaliteit Ministerie van Financiën, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051601&artikel=2&z=2025-10-11&g=2025-10-11);
 
-- c. **secretaris-generaal:** secretaris-generaal van het Ministerie van Financiën.
+- c. *secretaris-generaal:* secretaris-generaal van het Ministerie van Financiën.
 
 ##### Artikel 2. Instelling en taak
 
@@ -58,19 +32,19 @@ In dit besluit wordt verstaan onder:
 
 - a. Het adviseren over:
 
-- 1°. het proces van beleidsontwikkeling (zoals bijvoorbeeld overeenkomstig de huidige werkwijze van het Beleidskompas);
+   - 1° het proces van beleidsontwikkeling (zoals bijvoorbeeld overeenkomstig de huidige werkwijze van het Beleidskompas);
 
-- 2°. het plan van aanpak en de uitkomsten van de periodieke rapportages en belangrijke evaluaties;
+   - 2° het plan van aanpak en de uitkomsten van de periodieke rapportages en belangrijke evaluaties;
 
-- 3°. de planning van evaluaties en periodieke rapportages in de komende zeven jaar (Strategische Evaluatie Agenda);
+   - 3° de planning van evaluaties en periodieke rapportages in de komende zeven jaar (Strategische Evaluatie Agenda);
 
-- 4°. de verbinding tussen de uitkomsten van evaluaties en de ontwikkeling van nieuw beleid en;
+   - 4° de verbinding tussen de uitkomsten van evaluaties en de ontwikkeling van nieuw beleid en;
 
 - b. Het stimuleren van kennisuitwisseling en kennisopbouw door onder andere:
 
-- •. de ervaringen uit de advisering en opgedane expertise te delen en benutten;
+   - • de ervaringen uit de advisering en opgedane expertise te delen en benutten;
 
-- •. te stimuleren dat de kennisagenda’s en onderzoeksprogrammering van het Ministerie van Financiën en andere departementen bijdragen aan de beleidskwaliteit.
+   - • te stimuleren dat de kennisagenda’s en onderzoeksprogrammering van het Ministerie van Financiën en andere departementen bijdragen aan de beleidskwaliteit.
 
 ##### Artikel 3. Samenstelling, benoeming en ontslag
 
@@ -132,14 +106,12 @@ De commissie draagt doorlopend en zo spoedig mogelijk na beëindiging van haar w
 
 ##### Artikel 10. Intrekking
 
-Het [besluit van 7 augustus 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041243), (Stcrt. 15 augustus, 45885), houdende instelling van de Commissie Beleidsevaluatie, wordt ingetrokken.
+Het [besluit van 7 augustus 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041243), (Stcrt. 15 augustus, 45885), houdende instelling van de Commissie Beleidsevaluatie, wordt ingetrokken.
 
 ##### Artikel 11. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt terug tot en met 1 september 2025.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt terug tot en met 1 september 2025.
 
 ##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Beleidskwaliteit.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst. De voorzitter en leden ontvangen een afschrift van het gepubliceerde besluit.

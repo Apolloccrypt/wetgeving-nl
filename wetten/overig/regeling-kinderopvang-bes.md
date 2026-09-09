@@ -1,54 +1,29 @@
 ---
 title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 11 november 2025, nr. 2025-0000255483, houdende nadere regels over kinderopvang op Bonaire, Sint Eustatius en Saba (Regeling kinderopvang BES) [KetenID WGK027087]"
+citeertitel: "Regeling kinderopvang BES"
 identifier: "BWBR0051777"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051777"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling-BES"
-stam_id: "17603083"
-version_id: "31080322"
-internal_id: "C44499031"
-label_id: "17503494"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051777/2026-01-01/0"
-intitule_bron: "Stcrt.2025-39220"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-11-11"
-intitule_published: "2025-11-19"
-intitule_in_force: "2025-11-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-39220"
-original_signed_date: "2025-11-11"
-original_published_date: "2025-11-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-39220"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0051777&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0051777&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling kinderopvang BES"
-signed_date: "2025-11-11"
-entry_into_force: "2026-01-01"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0051777"
+opgehaald: 2026-09-09
 ---
+
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 11 november 2025, nr. 2025-0000255483, houdende nadere regels over kinderopvang op Bonaire, Sint Eustatius en Saba (Regeling kinderopvang BES) [KetenID WGK027087]
-
-Gelet op de [artikelen 2.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=2.2), [3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=3.6), [3.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=3.7), en [4.1 van de Wet kinderopvang BES](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=4.1) en de [artikelen 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0051582&artikel=2.7) en [2.11, tweede lid, van het Besluit kinderopvang BES](https://wetten.overheid.nl/jci1.3:c:BWBR0051582&artikel=2.11);
-
-Besluit:
 
 ##### Artikel 1. Begrippen
 
 In deze regeling wordt verstaan onder:
 
-- **besluit:** [Besluit kinderopvang BES](https://wetten.overheid.nl/jci1.3:c:BWBR0051582);
+- *besluit:*
+ [Besluit kinderopvang BES](https://wetten.overheid.nl/jci1.3:c:BWBR0051582);
 
-- **ID-nummer:** nummer als bedoeld in [artikel 2, eerste lid, onderdeel e, van de Wet identiteitskaarten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028279&artikel=2);
+- *ID-nummer:* nummer als bedoeld in [artikel 2, eerste lid, onderdeel e, van de Wet identiteitskaarten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028279&artikel=2);
 
-- **kinderopvangorganisatie:** voorziening van een houder of gastouder waar kinderopvang plaatsvindt.
+- *kinderopvangorganisatie:* voorziening van een houder of gastouder waar kinderopvang plaatsvindt.
 
 ##### Artikel 2. Kinderopvangovereenkomst
 
@@ -108,27 +83,27 @@ In deze regeling wordt verstaan onder:
 
 - d. afschriften van facturen, waarop de volgende gegevens zijn vermeld:
 
-- 1°. de naam van de kinderopvangorganisatie of houder;
+   - 1°. de naam van de kinderopvangorganisatie of houder;
 
-- 2°. de voor- en achternaam van de ouder of partner van de ouder;
+   - 2°. de voor- en achternaam van de ouder of partner van de ouder;
 
-- 3°. de voor- en achternaam van het kind;
+   - 3°. de voor- en achternaam van het kind;
 
-- 4°. de hoogte van de ouderbijdrage;
+   - 4°. de hoogte van de ouderbijdrage;
 
-- 5°. de maand waarvoor de ouderbijdrage wordt geïnd; en
+   - 5°. de maand waarvoor de ouderbijdrage wordt geïnd; en
 
-- 6°. het factuurnummer.
+   - 6°. het factuurnummer.
 
 - e. betaalbewijzen, waarop de volgende gegevens zijn vermeld:
 
-- 1°. de datum van betaling;
+   - 1°. de datum van betaling;
 
-- 2°. de voorletters of voor- en achternaam van de ouder of partner van de ouder;
+   - 2°. de voorletters of voor- en achternaam van de ouder of partner van de ouder;
 
-- 3°. de naam van de kinderopvangorganisatie of houder; en
+   - 3°. de naam van de kinderopvangorganisatie of houder; en
 
-- 4°. de hoogte van de ouderbijdrage.
+   - 4°. de hoogte van de ouderbijdrage.
 
 - f. de exploitatievergunning van de locatie, bedoeld in [artikel 2.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=2.1);
 
@@ -192,15 +167,15 @@ In deze regeling wordt verstaan onder:
 
 - g. eerste hulp verlenen bij:
 
-- 1°. verbranding;
+   - 1°. verbranding;
 
-- 2°. vergiftiging;
+   - 2°. vergiftiging;
 
-- 3°. verstikking;
+   - 3°. verstikking;
 
-- 4°. wonden en bloedingen; en
+   - 4°. wonden en bloedingen; en
 
-- 5°. letsels aan hoofd, spieren, botten of gewrichten.
+   - 5°. letsels aan hoofd, spieren, botten of gewrichten.
 
 2. De volwassene toont aan te beschikken over de vaardigheden, bedoeld in het eerste lid, door middel van een certificaat waaruit dit blijkt.
 
@@ -224,22 +199,20 @@ In deze regeling wordt verstaan onder:
 
 1. Een kwalificatie, afgegeven op grond van artikel 13, tweede lid, van de Eilandsverordening Kinderopvang Bonaire 2020, artikel 14, tweede lid, van de Basis Eilandsverordening Kinderopvang of artikel 14, tweede lid, van de Basis Eilandsverordening Kinderopvang Sint Eustatius, wordt aangemerkt als certificaat als bedoeld in artikel 5, tweede lid, onverminderd het vierde lid van dat artikel.
 
-2. Een ervaringscertificaat dat aantoont dat de beroepskracht handelt op het niveau, bedoeld in [artikel 2.8, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0051582&artikel=2.8), en is afgegeven voor 31 december 2025, wordt aangemerkt als bewijs van de eisen, bedoeld in [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051777&artikel=6&z=2026-01-01&g=2026-01-01), mits deze de ervaring aantoont van een beroepskracht die:
+2. Een ervaringscertificaat dat aantoont dat de beroepskracht handelt op het niveau, bedoeld in [artikel 2.8, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0051582&artikel=2.8), en is afgegeven voor 31 december 2025, wordt aangemerkt als bewijs van de eisen, bedoeld in [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051777&artikel=6&z=2026-01-01&g=2026-01-01), mits deze de ervaring aantoont van een beroepskracht die:
 
-- a. ten minste sinds 31 december 2025 werkzaam is bij een kindercentrum op Bonaire, Sint Eustatius of Saba; en
+- a. ten minste sinds 31 december 2025 werkzaam is bij een kindercentrum op Bonaire, Sint Eustatius of Saba; en
 
 - b. beschikt over een opleiding tot pedagogisch medewerker of een opleiding met een pedagogische component op ten minste het niveau:
 
-- 1°. bedoeld in [artikel 7.2.2, eerste lid, onderdeel b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) of [artikel 7.2.2, eerste lid, onderdeel b, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.2.2); of
+   - 1°. bedoeld in [artikel 7.2.2, eerste lid, onderdeel b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) of [artikel 7.2.2, eerste lid, onderdeel b, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.2.2); of
 
-- 2°. 2 van de Caribbean Vocational Qualification.
+   - 2°. 2 van de Caribbean Vocational Qualification.
 
 ##### Artikel 8. Inwerkingtreding
 
-Deze regeling treedt in werking op 1 januari 2026.
+Deze regeling treedt in werking op 1 januari 2026.
 
 ##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling kinderopvang BES.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

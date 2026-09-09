@@ -1,64 +1,117 @@
 ---
 title: "Besluit van de Staatssecretaris van Financiën van 3 november 2025, nr. 2025-10381 over inkomstenbelasting, aanmerkelijk belang (Verzamelbesluit aanmerkelijk belang 2025)"
+citeertitel: "Verzamelbesluit aanmerkelijk belang 2025"
 identifier: "BWBR0051728"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-11-12"
-last_updated: "2025-11-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051728"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "17587953"
-version_id: "31037002"
-internal_id: "C44444081"
-label_id: "17489974"
-dtd_version: "2.0"
-original_entry_into_force: "2025-11-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051728/2025-11-12/0"
-intitule_bron: "Stcrt.2025-38003"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-11-03"
-intitule_published: "2025-11-11"
-intitule_in_force: "2025-11-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-38003"
-original_signed_date: "2025-11-03"
-original_published_date: "2025-11-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-38003"
-entry_into_force_date: "2025-11-12"
-jci_1_3: "jci1.3:c:BWBR0051728&z=2025-11-12&g=2025-11-12"
-jci_1_0: "1.0:c:BWBR0051728&g=2025-11-12"
-citeertitel_status: "officieel"
-short_title: "Verzamelbesluit aanmerkelijk belang 2025"
-signed_date: "2025-11-03"
-entry_into_force: "2025-11-12"
+publicatiedatum: 2025-11-12
+laatste_update: 2025-11-12
+status: geldig
+toestand: 2025-11-12
+bron: "https://wetten.overheid.nl/BWBR0051728"
+opgehaald: 2026-09-09
 ---
+
 # Besluit van de Staatssecretaris van Financiën van 3 november 2025, nr. 2025-10381 over inkomstenbelasting, aanmerkelijk belang (Verzamelbesluit aanmerkelijk belang 2025)
 
-**De Staatssecretaris van Financiën,**
+*De Staatssecretaris van Financiën,*
 
-**Gelet op artikel 4.81 van de Algemene wet bestuursrecht, artikel 63 van de Algemene wet inzake rijksbelastingen en Hoofdstuk 4 en artikel 10.9 van de Wet inkomstenbelasting 2001;**
+*Gelet op artikel 4.81 van de Algemene wet bestuursrecht, artikel 63 van de Algemene wet inzake rijksbelastingen en Hoofdstuk 4 en artikel 10.9 van de Wet inkomstenbelasting 2001;*
 
 Besluit:
 
 ### 1. Inleiding
 
-Dit besluit vervangt het [besluit van 9 maart 2018, nr. 2018-27139](https://wetten.overheid.nl/jci1.3:c:BWBR0040742) (Stcrt. 2018, 15751).
+Dit besluit vervangt het [besluit van 9 maart 2018, nr. 2018-27139](https://wetten.overheid.nl/jci1.3:c:BWBR0040742) (Stcrt. 2018, 15751).
 
-In het besluit is een nieuw hoofdstuk **3. Inkomen uit aanmerkelijk belang** opgenomen met daarin een nieuw onderdeel **3.1. Vererfd aanmerkelijk belang en binnen 24 maanden afboeking reguliere voordelen op verkrijgingsprijs.** Hierin staan beleidsstandpunten over de toepassing van [artikel 4.12a Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.12a).
+In het besluit is een nieuw hoofdstuk *3. Inkomen uit aanmerkelijk belang* opgenomen met daarin een nieuw onderdeel *3.1. Vererfd aanmerkelijk belang en binnen 24 maanden afboeking reguliere voordelen op verkrijgingsprijs.* Hierin staan beleidsstandpunten over de toepassing van [artikel 4.12a Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.12a).
 
-Aan hoofdstuk **4. Reguliere voordelen** (nieuwe nummering) zijn toegevoegd een onderdeel **4.3. Forfaitair voordeel uit vrijgestelde beleggingsinstellingen en buitenlandse beleggingslichamen** en een onderdeel **4.4. Fictief regulier voordeel**. Hierin zijn beleidsstandpunten opgenomen over de toepassing van het forfaitair rendement en het fictief regulier voordeel ([artikel 4.13, eerste lid, onderdeel a, artikel 4.13, eerste lid, onderdeel f, en volgende, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.13)).
+Aan hoofdstuk *4. Reguliere voordelen* (nieuwe nummering) zijn toegevoegd een onderdeel *4.3. Forfaitair voordeel uit vrijgestelde beleggingsinstellingen en buitenlandse beleggingslichamen* en een onderdeel *4.4. Fictief regulier voordeel*. Hierin zijn beleidsstandpunten opgenomen over de toepassing van het forfaitair rendement en het fictief regulier voordeel ([artikel 4.13, eerste lid, onderdeel a, artikel 4.13, eerste lid, onderdeel f, en volgende, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.13)).
 
 De volgende onderdelen in het besluit zijn nieuw, gewijzigd, dan wel verduidelijkt. Daarnaast zijn een drietal technische onvolkomenheden hersteld.
 
-De volgende onderdelen (nummering volgens het [besluit van 9 maart 2018, nr. 2018-27139](https://wetten.overheid.nl/jci1.3:c:BWBR0040742)) zijn niet langer opgenomen.
+- − 2.1. Overschrijding 5%-bezitscriterium bij beleggingsinstelling – technisch herstel
 
-Deze onderdelen zijn niet langer opgenomen in verband met het vervallen van de dienstbetrekkingeis per 1 januari 2025 (Stb. 2025/504). Voor de toepassing van de doorschuiving bij schenking in de jaren vóór 1 januari 2025 blijven voornoemde onderdelen gelden.
+- − 3.1.1. Vererfd aanmerkelijk belang en verkrijging krachtens erfrecht – nieuw
+
+- − 3.1.2. Volgtijdelijk overlijden en dividenduitkering binnen twee jaar na eerste overlijden (eerste erflater) – nieuw
+
+- − 3.1.3. Vererfd aanmerkelijk belang en toerekening inkomen uit aanmerkelijk belang aan partner van erflater – nieuw
+
+- − 4.3.1. Forfaitair voordeel bij aandelen in blote eigendom en vruchtgebruik – nieuw
+
+- − 4.3.2. Forfaitair voordeel bij immigratie of emigratie in de loop van het jaar – nieuw
+
+- − 4.3.3. Forfaitair voordeel bij meerderjarigheid kind in de loop van het kalenderjaar – nieuw
+
+- − 4.4.1. Schulden bij eigen vennootschap; winstrechtverplichting en nominale waarde – nieuw
+
+- − 4.4.2. Schulden bij eigen vennootschap; ondernemingsschuld voor ondernemerswoning – nieuw
+
+- − 4.4.3. Overgangsbepaling vereisten hypotheekrecht bij oversluiten eigenwoningschuld – nieuw
+
+- − 5.2. Verkrijgingsprijs; aandelen in blote eigendom, vruchtgebruik aandelen en toepassing forfaits – nieuw
+
+- − 5.4. Negatieve verkrijgingsprijs en vervreemdingsvoordeel bij toepassing doorschuifregeling bij overlijden of bij schenking – nieuw
+
+- − 5.5. Omvorming van gewone aandelen in preferente aandelen en verlettering van aandelen – verduidelijking en wijziging
+
+- − 5.8. Vervreemding aandelen aan echtgenoot – verduidelijking
+
+- − 5.10. Legaat van aanmerkelijkbelangaandelen – technisch herstel
+
+- − 5.14. Informeel kapitaal onzakelijke lening en borg – wijziging en verduidelijking
+
+- − 5.15. Saldering negatieve en positieve vervreemdingsvoordeel bij emigratie – nieuw
+
+- − 6.1.1. Juridische splitsing in het zicht van verdeling huwelijksgemeenschap – verduidelijking
+
+- − 6.2.4. Tezamen met partner indirect aanmerkelijk belang en doorschuiffaciliteit – nieuw
+
+- − 6.2.5. Zonder economisch belang geen indirect aanmerkelijk belang in ander lichaam – nieuw
+
+- − 6.3. Partiële verdeling van een nalatenschap en doorschuiving – technisch herstel
+
+- − 6.4.2. Overdracht aandelen tegen schuldigerkenning onmiddellijk gevolgd door kwijtschelding van de koopschuld – verduidelijking
+
+- − 6.5. Preferente aandelen – verduidelijking
+
+- − 6.6. Aandelenruil en ongelijke tegenprestatie – wijziging
+
+- − 8.3. Belastingkorting en niet verrekend verlies ontstaan bij overlijden – nieuw
+
+- − 8.4. Belastingkorting en fiscaal partnerschap in voorafgaand kalenderjaar – nieuw
+
+- − 13. Citeertitel – nieuw
+
+De volgende onderdelen (nummering volgens het [besluit van 9 maart 2018, nr. 2018-27139](https://wetten.overheid.nl/jci1.3:c:BWBR0040742)) zijn niet langer opgenomen.
+
+- – 5.4.2. Doorschuiving bij schenking; begrip dienstbetrekking
+
+- – 5.4.2a. Doorschuiving bij schenking; toepassing dienstbetrekkingeis bij dienstbetrekking bij samenwerkingsverband (personenvennootschap)
+
+- – 5.4.3. Doorschuiving bij schenking; toepassing van de dienstbetrekkingeis bij een samenwerkingsverband (personenvennootschap)
+
+- – 5.4.3a. Doorschuiving bij schenking; toepassing van de dienstbetrekkingeis bij een onderneming vóór omzetting in een nv of bv
+
+- – 5.4.3b. Doorschuiving bij schenking; toepassing van de dienstbetrekkingeis bij eerdere dienstbetrekking bij vennootschap A waarvan een participatie in een samenwerkingsverband (personenvennootschap) wordt ingebracht in vennootschap B
+
+- – 5.4.3c. Doorschuiving bij schenking; toepassing van de dienstbetrekkingeis na (af)splitsing
+
+- – 5.4.4. Doorschuiven bij schenking; toepassen van de 36-maandseis
+
+- – 5.4.5. Doorschuiving bij schenking; werkzaamheden verricht vanuit persoonlijke houdstervennootschap of eigen werkmaatschappij
+
+Deze onderdelen zijn niet langer opgenomen in verband met het vervallen van de dienstbetrekkingeis per 1 januari 2025 (Stb. 2025/504). Voor de toepassing van de doorschuiving bij schenking in de jaren vóór 1 januari 2025 blijven voornoemde onderdelen gelden.
 
 Voor het overige is geen inhoudelijke wijziging beoogd. Wel zijn redactionele wijzigingen aangebracht.
 
 ### 1.1. Gebruikte begrippen en afkortingen
+
+| BW: | Burgerlijk Wetboek |
+| --- | --- |
+| URIB 2001: | Uitvoeringsregeling inkomstenbelasting 2001 |
+| Wet VPB 1969: | Wet op de vennootschapsbelasting 1969 |
 
 ### 2. Het begrip aanmerkelijk belang
 
@@ -70,13 +123,29 @@ Ook tijdens het bestaan van een fiscale beleggingsinstelling kan zich – bijvoo
 
 Gelet op het feit dat in bovenvermelde situaties ongewild een aanmerkelijkbelangpositie kan ontstaan, ben ik onder voorwaarden bereid in de uitvoeringssfeer een praktische oplossing te bieden voor situaties waarbij sprake is van een dergelijke tijdelijke ongewilde overschrijding van de 5%-grens.
 
+Goedkeuring
+
 Onder de hierna te stellen voorwaarden keur ik goed dat in geval van een dergelijke tijdelijke overschrijding van het 5%-criterium, de belastingplichtige geacht wordt geen aanmerkelijk belang in de fiscale beleggingsinstelling te hebben gehad.
+
+- 1. Het fonds of de vennootschap is een beleggingsinstelling als bedoeld in [artikel 28 Wet VPB 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=28).
+
+- 2. De beleggingsinstelling dan wel de beheerder van haar beleggingen is in het bezit van een vergunning op grond van de [artikelen 2.65](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:65) of [2.69b van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:69b).
+
+- 3. Het belang in een closed-end fonds is op het moment dat het belang wordt genomen, niet hoger dan 5% van het totale uit te geven aandelenkapitaal. Deze beperking geldt niet indien sprake is van een dergelijk belang in een open-end fonds.
+
+- 4. Het belang dat de belastingplichtige heeft in het geplaatste (soort)kapitaal van de beleggingsinstelling bedraagt niet meer dan 15%.
+
+- 5a. Indien de overschrijding van de 5%-grens zich voordoet binnen tien maanden na oprichting van de beleggingsinstelling, moet uiterlijk binnen twaalf maanden na oprichting het belang weer zijn gedaald beneden de 5%.
+
+- 5b. Indien de overschrijding van de 5%-grens zich voordoet na de aanloopfase van tien maanden als bedoeld in 5a, moet het belang binnen twee maanden na het ontstaan van het aanmerkelijk belang zijn gedaald beneden de 5%
+
+- 6. De beleggingsinstelling verstrekt de naam, adres en woonplaatsgegevens van de beleggers die niet aan bovenvermelde voorwaarden voldoen aan de inspecteur belast met de aanslagregeling van de beleggingsinstelling.
 
 ### 2.2. Verschillende soorten aandelen
 
-Als een vennootschap verschillende soorten aandelen heeft, heeft de belastingplichtige een aanmerkelijk belang indien hij, al dan niet tezamen met zijn partner, direct of indirect van ten minste 5% van het geplaatste kapitaal van een soort aandelen aandeelhouder is. Er is sprake van verschillende soorten aandelen zowel bij vermogensrechtelijke verschillen tussen de aandelen als wanneer tussen de verschillende soorten aandelen uitsluitend een verschil bestaat met betrekking tot de besluitvorming omtrent uitkeringen van winst of vermogen van de vennootschap (zie HR 16 december 2011, nr. 10/00158, ECLI:NL:HR:2011:BN7252 en ECLI:NL:HR:2011:BU8233).
+Als een vennootschap verschillende soorten aandelen heeft, heeft de belastingplichtige een aanmerkelijk belang indien hij, al dan niet tezamen met zijn partner, direct of indirect van ten minste 5% van het geplaatste kapitaal van een soort aandelen aandeelhouder is. Er is sprake van verschillende soorten aandelen zowel bij vermogensrechtelijke verschillen tussen de aandelen als wanneer tussen de verschillende soorten aandelen uitsluitend een verschil bestaat met betrekking tot de besluitvorming omtrent uitkeringen van winst of vermogen van de vennootschap (zie HR 16 december 2011, nr. 10/00158, ECLI:NL:HR:2011:BN7252 en ECLI:NL:HR:2011:BU8233).
 
-Voor de bepaling of sprake is van een aanmerkelijkbelangsoort zijn, inherent aan de aanmerkelijkbelangheffing, uitsluitend aan het aandeel verbonden rechten en plichten van belang. Met andere woorden uitsluitend de statuten van de vennootschap bepalen of er verschillende soorten aandelen zijn (zie onder andere Kamerstukken I 2011/12, 31 058, nr. C). Gelet hierop vormen aandelen die via een stichting administratiekantoor zijn gecertificeerd, geen aparte soort aandelen ten opzichte van de niet gecertificeerde aandelen in dezelfde vennootschap. Certificering van aandelen geschiedt namelijk niet via de statuten van de vennootschap maar via administratievoorwaarden waarin de rechten en plichten van de certificaathouder en de stichting zijn vastgelegd. De certificaathouder heeft voor de aanmerkelijkbelangregeling wel een direct belang in de vennootschap.
+Voor de bepaling of sprake is van een aanmerkelijkbelangsoort zijn, inherent aan de aanmerkelijkbelangheffing, uitsluitend aan het aandeel verbonden rechten en plichten van belang. Met andere woorden uitsluitend de statuten van de vennootschap bepalen of er verschillende soorten aandelen zijn (zie onder andere Kamerstukken I 2011/12, 31 058, nr. C). Gelet hierop vormen aandelen die via een stichting administratiekantoor zijn gecertificeerd, geen aparte soort aandelen ten opzichte van de niet gecertificeerde aandelen in dezelfde vennootschap. Certificering van aandelen geschiedt namelijk niet via de statuten van de vennootschap maar via administratievoorwaarden waarin de rechten en plichten van de certificaathouder en de stichting zijn vastgelegd. De certificaathouder heeft voor de aanmerkelijkbelangregeling wel een direct belang in de vennootschap.
 
 ### 3. Inkomen uit aanmerkelijk belang
 
@@ -90,15 +159,31 @@ Voor de vraag tot welk bedrag belastingplichtige van deze faciliteit gebruik kan
 
 Indien een erflater meer dan één erfgenaam achterlaat en de wettelijke verdeling niet van toepassing is, ontstaat een onverdeeldheid. De nalatenschap moet vervolgens worden verdeeld. Ook hetgeen belastingplichtige bij de verdeling van de nalatenschap verkrijgt, verkrijgt belastingplichtige krachtens erfrecht.
 
-Tot de nalatenschap van X behoren onder meer alle aandelen in X BV. Ter zake van de overgang krachtens erfrecht is bij X € 90.000 als inkomen uit aanmerkelijk belang in aanmerking genomen. X heeft drie erfgenamen, A, B en C, die ieder voor 1/3 deel zijn gerechtigd tot de nalatenschap. Bij de verdeling van de nalatenschap krijgen A en B ieder 50% van de aandelen in X BV toebedeeld; C krijgt een ander vermogensbestanddeel uit de nalatenschap. Daarna en binnen 24 maanden na overlijden van X, keert X BV dividend uit van in totaal € 90.000. A en B kunnen ieder voor € 45.000 een verzoek doen om dit dividend niet tot het inkomen uit aanmerkelijk belang te rekenen.1Dit beleidsonderdeel is tot stand gekomen naar aanleiding van het kennisgroepstandpunt KG:003:2025:10, dat eerder is gepubliceerd op de website kennisgroepen.belastingdienst.nl.
+Voorbeeld
+
+Tot de nalatenschap van X behoren onder meer alle aandelen in X BV. Ter zake van de overgang krachtens erfrecht is bij X € 90.000 als inkomen uit aanmerkelijk belang in aanmerking genomen. X heeft drie erfgenamen, A, B en C, die ieder voor 1/3 deel zijn gerechtigd tot de nalatenschap. Bij de verdeling van de nalatenschap krijgen A en B ieder 50% van de aandelen in X BV toebedeeld; C krijgt een ander vermogensbestanddeel uit de nalatenschap. Daarna en binnen 24 maanden na overlijden van X, keert X BV dividend uit van in totaal € 90.000. A en B kunnen ieder voor € 45.000 een verzoek doen om dit dividend niet tot het inkomen uit aanmerkelijk belang te rekenen.1Dit beleidsonderdeel is tot stand gekomen naar aanleiding van het kennisgroepstandpunt KG:003:2025:10, dat eerder is gepubliceerd op de website kennisgroepen.belastingdienst.nl.
 
 ### 3.1.2. Volgtijdelijk overlijden en dividenduitkering binnen twee jaar na eerste overlijden (eerste erflater)
 
 In een situatie waarin een aanmerkelijkbelanghouder (eerste erflater) overlijdt en binnen 24 maanden daarna diens erfgenaam (tweede erflater) overlijdt, waardoor een dividenduitkering aan de tweede erflater niet is geformaliseerd, heb ik onder voorwaarden goedgekeurd dat de erfgenaam van de tweede erflater de regeling van [artikel 4.12a Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.12a) mag toepassen ter grootte van het bedrag dat bij de eerste erflater ter zake van de overgang krachtens erfrecht als inkomen uit aanmerkelijk belang in aanmerking is genomen.
 
+Goedkeuring
+
 Ik keur op basis van [artikel 63 Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (hardheidsclausule) goed dat in de omschreven situatie gebruik kan worden gemaakt van [artikel 4.12a Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.12a). Aan deze goedkeuring verbind ik de volgende voorwaarden.
 
-Z houdt alle aandelen in Z BV. Z overlijdt op 1 december 2023. X erft van Z de aandelen in Z BV. X wil Z BV dividend laten uitkeren en wil daarbij gebruik maken van de regeling van [artikel 4.12a Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.12a). X heeft hierover gemaild met diens adviseur. De adviseur heeft vervolgens een conceptbesluit van de algemene vergadering van aandeelhouders opgesteld waarin de algemene vergadering van aandeelhouders besluit tot het doen van de dividenduitkering. X overlijdt op 1 augustus 2025 en heeft als gevolg daarvan de dividenduitkering niet kunnen formaliseren. Y is erfgenaam van X en erft de aandelen in Z BV. Y kan aan de hand van de mail van X aan de adviseur en het conceptbesluit aannemelijk maken dat X een aanvang had gemaakt met het uitkeren van het dividend en kan zo voldoen aan voorwaarde 2 van de goedkeuring.
+- 1. De erfgenaam van de eerste erflater is vóór de formalisering van de dividenduitkering uit de krachtens erfrecht verkregen aandelen en binnen 24 maanden na overlijden van de eerste erflater overleden.
+
+- 2. De erfgenaam van de tweede erflater maakt aannemelijk dat na het overlijden van de eerste erflater de tweede erflater binnen een termijn van 24 maanden een aanvang had gemaakt met het uitkeren van het dividend.
+
+- 3. Het dividend als bedoeld in voorwaarde 1 wordt (alsnog) uitgekeerd binnen 24 maanden na overlijden van de eerste erflater of wanneer dat later is binnen drie maanden na overlijden van de tweede erflater.
+
+- 4. Dit dividend (regulier voordeel) gaat (a) niet uit boven het bedrag dat bij de eerste erflater ter zake van de overgang krachtens erfrecht als inkomen uit aanmerkelijk belang in aanmerking is genomen, waarbij inkomen uit aanmerkelijk belang als bedoeld in de laatste volzin van [artikel 4.12a Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.12a) buiten beschouwing blijft, en (b) niet uit boven de verkrijgingsprijs van de aandelen van dezelfde soort van de erfgenaam van de tweede erflater.
+
+- 5. Dit dividend wordt afgeboekt op de verkrijgingsprijs van de aandelen van dezelfde soort van de erfgenaam van de tweede erflater.
+
+Voorbeeld toelichting voorwaarde 2
+
+Z houdt alle aandelen in Z BV. Z overlijdt op 1 december 2023. X erft van Z de aandelen in Z BV. X wil Z BV dividend laten uitkeren en wil daarbij gebruik maken van de regeling van [artikel 4.12a Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.12a). X heeft hierover gemaild met diens adviseur. De adviseur heeft vervolgens een conceptbesluit van de algemene vergadering van aandeelhouders opgesteld waarin de algemene vergadering van aandeelhouders besluit tot het doen van de dividenduitkering. X overlijdt op 1 augustus 2025 en heeft als gevolg daarvan de dividenduitkering niet kunnen formaliseren. Y is erfgenaam van X en erft de aandelen in Z BV. Y kan aan de hand van de mail van X aan de adviseur en het conceptbesluit aannemelijk maken dat X een aanvang had gemaakt met het uitkeren van het dividend en kan zo voldoen aan voorwaarde 2 van de goedkeuring.
 
 Bovenstaande goedkeuring laat onverlet dat de erfgenaam van de tweede erflater binnen 24 maanden na het overlijden van de tweede erflater een regulier voordeel buiten aanmerking mag laten, voor zover dit regulier voordeel niet uitgaat boven het bedrag dat bij de tweede erflater ter zake van de overgang krachtens erfrecht als inkomen uit aanmerkelijk belang in aanmerking is genomen en voor zover deze voordelen nog kunnen worden afgeboekt op de verkrijgingsprijs van de aandelen van dezelfde soort van de erfgenaam van de tweede erflater.
 
@@ -114,15 +199,21 @@ Een terugbetaling van kapitaal op aandelen zonder nominale waarde (bijvoorbeeld 
 
 ### 4.2. Onzakelijke lening en borg in de aanmerkelijkbelangsfeer
 
-Een geldlening kan onder omstandigheden als een onzakelijke lening worden aangemerkt (zie onder andere HR 25 november 2011, nr. 08/05323, ECLI:NL:HR:2011:BN3442). Zie verder het [besluit van 29 november 2021, nr. 2021-15229, onderdeel 8.2.1. tot en met 8.2.4](onbekend).
+Een geldlening kan onder omstandigheden als een onzakelijke lening worden aangemerkt (zie onder andere HR 25 november 2011, nr. 08/05323, ECLI:NL:HR:2011:BN3442). Zie verder het [besluit van 29 november 2021, nr. 2021-15229, onderdeel 8.2.1. tot en met 8.2.4](https://wetten.overheid.nl/BWBR0046030).
 
-Als een vennootschap een onzakelijke lening aan haar aanmerkelijkbelanghouder verstrekt, een onzakelijke lening omhoog, kan de kwijtschelding van deze lening leiden tot een winstuitdeling aan deze aandeelhouder. Dat kan zich, afhankelijk van de feitelijke omstandigheden, voordoen als de vennootschap het onzakelijke debiteurenrisico dat is verbonden aan deze lening heeft aanvaard in het belang van deze aandeelhouder. Als vervolgens vaststaat dat de debiteur niet meer aan zijn aflossingsverplichtingen zal voldoen bijvoorbeeld in geval van (materiële) kwijtschelding, is mogelijk sprake van een winstuitdeling aan de aanmerkelijkbelanghouder (HR 28 februari 2014, nr. 12/03526 ECLI:NL:HR:2014:417).
+Kwijtschelding onzakelijke lening (omhoog en zusterlening) en winstuitdeling
+
+Als een vennootschap een onzakelijke lening aan haar aanmerkelijkbelanghouder verstrekt, een onzakelijke lening omhoog, kan de kwijtschelding van deze lening leiden tot een winstuitdeling aan deze aandeelhouder. Dat kan zich, afhankelijk van de feitelijke omstandigheden, voordoen als de vennootschap het onzakelijke debiteurenrisico dat is verbonden aan deze lening heeft aanvaard in het belang van deze aandeelhouder. Als vervolgens vaststaat dat de debiteur niet meer aan zijn aflossingsverplichtingen zal voldoen bijvoorbeeld in geval van (materiële) kwijtschelding, is mogelijk sprake van een winstuitdeling aan de aanmerkelijkbelanghouder (HR 28 februari 2014, nr. 12/03526 ECLI:NL:HR:2014:417).
 
 Een uitdeling kan zich eveneens voordoen ingeval van een onzakelijke lening tussen zustervennootschappen, een onzakelijke lening opzij, in welke vennootschappen een aandeelhouder een aanmerkelijk belang heeft.
 
-Er moet rente in aanmerking worden genomen, ook in geval sprake is van een onzakelijke lening tussen een aandeelhouder en zijn vennootschap. Die rente kan uit praktisch oogpunt worden gesteld op het bedrag dat de debiteur zou moeten vergoeden indien hij met een borgstelling van de aandeelhouder onder overigens gelijke voorwaarden van een derde zou lenen (zie HR 25 november 2011, nr. 08/05323, r.o. 3.3.2. en r.o. 3.3.4., ECLI:NL:HR:2011:BN3442). Als sprake is van een onzakelijke lening van de aanmerkelijkbelanghouder aan diens vennootschap, een onzakelijke lening omlaag, en blijkt dat door de vennootschap een hogere rentevergoeding is betaald dan uit voorgaande praktische regel volgt, dan wordt dit deel van de rente (verschil betaalde rente en borgstellingsanaloge rente) als winstuitdeling aan de aandeelhouder aangemerkt. Is een lagere rente betaald, dan kan sprake zijn van een storting van informeel kapitaal. Als sprake is van een onzakelijke lening omhoog en blijkt dat door de aanmerkelijkbelanghouder een hogere rentevergoeding is betaald dan uit voorgaande praktische regel volgt, dan kan dit deel van de rente (verschil betaalde rente en borgstellingsanaloge rente) als informele kapitaalstorting worden aangemerkt. Is een lagere rente betaald, dan wordt dit deel van de rente (verschil betaalde rente en borgstellingsanaloge rente) als winstuitdeling aan de aandeelhouder aangemerkt.
+Borgstellingsanaloge rente bij onzakelijke lening
 
-Een vergoeding van de vennootschap aan de aanmerkelijkbelanghouder in verband met een onzakelijke borgstelling door die aanmerkelijkbelanghouder ten behoeve van die vennootschap zijn bij deze aanmerkelijkbelanghouder belast als regulier voordeel uit aanmerkelijk belang. Omdat deze borgstelling zich in de kapitaalsfeer bevindt, wordt de borgstellingsvergoeding fiscaal aangemerkt als regulier voordeel en mist [artikel 3.92, lid 2, onderdeel c, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92) daarom toepassing. Zie ook [besluit van 29 november 2021, nr. 2021-15229, onderdeel 8.3.1](onbekend). Voor de vennootschap geldt dat genoemde vergoeding niet aftrekbaar is.
+Er moet rente in aanmerking worden genomen, ook in geval sprake is van een onzakelijke lening tussen een aandeelhouder en zijn vennootschap. Die rente kan uit praktisch oogpunt worden gesteld op het bedrag dat de debiteur zou moeten vergoeden indien hij met een borgstelling van de aandeelhouder onder overigens gelijke voorwaarden van een derde zou lenen (zie HR 25 november 2011, nr. 08/05323, r.o. 3.3.2. en r.o. 3.3.4., ECLI:NL:HR:2011:BN3442). Als sprake is van een onzakelijke lening van de aanmerkelijkbelanghouder aan diens vennootschap, een onzakelijke lening omlaag, en blijkt dat door de vennootschap een hogere rentevergoeding is betaald dan uit voorgaande praktische regel volgt, dan wordt dit deel van de rente (verschil betaalde rente en borgstellingsanaloge rente) als winstuitdeling aan de aandeelhouder aangemerkt. Is een lagere rente betaald, dan kan sprake zijn van een storting van informeel kapitaal. Als sprake is van een onzakelijke lening omhoog en blijkt dat door de aanmerkelijkbelanghouder een hogere rentevergoeding is betaald dan uit voorgaande praktische regel volgt, dan kan dit deel van de rente (verschil betaalde rente en borgstellingsanaloge rente) als informele kapitaalstorting worden aangemerkt. Is een lagere rente betaald, dan wordt dit deel van de rente (verschil betaalde rente en borgstellingsanaloge rente) als winstuitdeling aan de aandeelhouder aangemerkt.
+
+Reguliere voordelen onzakelijke borgstelling
+
+Een vergoeding van de vennootschap aan de aanmerkelijkbelanghouder in verband met een onzakelijke borgstelling door die aanmerkelijkbelanghouder ten behoeve van die vennootschap zijn bij deze aanmerkelijkbelanghouder belast als regulier voordeel uit aanmerkelijk belang. Omdat deze borgstelling zich in de kapitaalsfeer bevindt, wordt de borgstellingsvergoeding fiscaal aangemerkt als regulier voordeel en mist [artikel 3.92, lid 2, onderdeel c, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92) daarom toepassing. Zie ook [besluit van 29 november 2021, nr. 2021-15229, onderdeel 8.3.1](https://wetten.overheid.nl/BWBR0046030). Voor de vennootschap geldt dat genoemde vergoeding niet aftrekbaar is.
 
 ### 4.3. Forfaitair voordeel uit vrijgestelde beleggingsinstellingen en buitenlandse beleggingslichamen
 
@@ -164,15 +255,17 @@ Eigenwoningschulden als bedoeld in [artikel 3.119a Wet IB 2001](https://wetten.o
 
 Voor een woning die tot het ondernemingsvermogen behoort en voor een woning die valt onder de eigenwoningregeling ([artikel 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.19) onderscheidenlijk [artikel 3.110 en volgende, Wet IB 2001)](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.110) heeft de wetgever een op hoofdlijnen vergelijkbare systematiek in het leven geroepen, namelijk belasting van een forfaitair bepaald woongenot onder aftrekbaarheid van bepaalde kosten. Vanuit deze gedachte en gelet op doel en strekking van de [Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) is het passend dat een ondernemingsschuld voor een woning als bedoeld in [artikel 3.19 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.19) onder de uitzondering van [artikel 4.14a, zesde lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14a) valt voor zover en voor zolang deze schuld getoetst aan [artikel 3.119a Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a) als eigenwoningschuld zou kwalificeren en aan de overige voorwaarden van artikel 4.14a, zesde lid, Wet IB 2001 wordt voldaan. Hierbij wordt voor eigenwoning gelezen ‘woning’ als bedoeld in artikel 3.19 Wet IB 2001.6Dit beleidsonderdeel is tot stand gekomen naar aanleiding van het kennisgroepstandpunt KG:003:2023:11, dat eerder is gepubliceerd op de website kennisgroepen.belastingdienst.nl.
 
+Voorbeeld
+
 X heeft naast een aanmerkelijk belang in A BV een box 1-onderneming. De aandelen in A BV behoren niet tot het ondernemingsvermogen van deze onderneming. De woning van X en de schuld ter financiering van deze woning zijn geëtiketteerd als ondernemingsvermogen. Voor de woning krijgt X een bijtelling privégebruik woning als bedoeld in [artikel 3.19 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.19). De schuld is aangegaan bij A BV. Ter zake van deze schuld heeft X een recht van hypotheek op de woning verstrekt aan A BV.
 
-De schuld van X bij A BV telt niet mee bij de bepaling van het fictief regulier voordeel voor zover en zolang de hypothecaire schuld per 31 december van het jaar (peildatum bepaling fictief regulier voordeel) voldoet aan de definitie van de eigenwoningschuld als bedoeld in [artikel 3.119a Wet IB](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a) 2001, waarbij voor eigenwoning wordt gelezen ‘woning’ als bedoeld in [artikel 3.19 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.19).
+De schuld van X bij A BV telt niet mee bij de bepaling van het fictief regulier voordeel voor zover en zolang de hypothecaire schuld per 31 december van het jaar (peildatum bepaling fictief regulier voordeel) voldoet aan de definitie van de eigenwoningschuld als bedoeld in [artikel 3.119a Wet IB](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a) 2001, waarbij voor eigenwoning wordt gelezen ‘woning’ als bedoeld in [artikel 3.19 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.19).
 
 ### 4.4.3. Overgangsbepaling vereisten hypotheekrecht bij oversluiten eigenwoningschuld
 
-Bij het bepalen van het bovenmatige deel van schulden telt een eigenwoningschuld niet mee voor zover ter zake van die eigenwoningschuld een recht van hypotheek op de eigen woning is verstrekt aan de vennootschap ([artikel 4.14a, zesde lid, Wet IB 2001)](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14a). Op grond van de overgangsbepaling van [artikel 10a.23 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10a.23) geldt de voorwaarde van recht van hypotheek niet voor een op 31 december 2022 bestaande eigenwoningschuld als bedoeld in [artikel 3.119a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a) ter zake waarvan geen recht van hypotheek is verstrekt aan de vennootschap.
+Bij het bepalen van het bovenmatige deel van schulden telt een eigenwoningschuld niet mee voor zover ter zake van die eigenwoningschuld een recht van hypotheek op de eigen woning is verstrekt aan de vennootschap ([artikel 4.14a, zesde lid, Wet IB 2001)](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14a). Op grond van de overgangsbepaling van [artikel 10a.23 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10a.23) geldt de voorwaarde van recht van hypotheek niet voor een op 31 december 2022 bestaande eigenwoningschuld als bedoeld in [artikel 3.119a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a) ter zake waarvan geen recht van hypotheek is verstrekt aan de vennootschap.
 
-Deze overgangsbepaling geldt niet voor op 31 december 2022 bestaande eigenwoningschulden die bij derden zijn aangegaan en die na 31 december 2022 worden overgesloten naar de eigen vennootschap waarin de belastingplichtige een aanmerkelijk belang houdt.7Dit beleidsonderdeel is tot stand gekomen naar aanleiding van het kennisgroepstandpunt KG:003:2023:7, dat eerder is gepubliceerd op de website kennisgroepen.belastingdienst.nl. Dit betekent dat deze naar de eigen vennootschap overgesloten eigenwoningschuld slechts is uitgezonderd voor zover ter zake van die eigenwoningschuld een recht van hypotheek op de eigen woning is verstrekt aan de vennootschap. Zie Kamerstukken II 2019/20, 35 496, nr. 3, p. 27.
+Deze overgangsbepaling geldt niet voor op 31 december 2022 bestaande eigenwoningschulden die bij derden zijn aangegaan en die na 31 december 2022 worden overgesloten naar de eigen vennootschap waarin de belastingplichtige een aanmerkelijk belang houdt.7Dit beleidsonderdeel is tot stand gekomen naar aanleiding van het kennisgroepstandpunt KG:003:2023:7, dat eerder is gepubliceerd op de website kennisgroepen.belastingdienst.nl. Dit betekent dat deze naar de eigen vennootschap overgesloten eigenwoningschuld slechts is uitgezonderd voor zover ter zake van die eigenwoningschuld een recht van hypotheek op de eigen woning is verstrekt aan de vennootschap. Zie Kamerstukken II 2019/20, 35 496, nr. 3, p. 27.
 
 ### 5. Vervreemdingsvoordelen
 
@@ -180,23 +273,27 @@ Deze overgangsbepaling geldt niet voor op 31 december 2022 bestaande eigenwoning
 
 In het aanmerkelijkbelangregime wordt uitgegaan van de gemiddelde verkrijgingsprijs per soort aandeel. Aan de hand van een voorbeeld wordt hierna uiteengezet hoe de verkrijgingsprijs moet worden bepaald als de belastingplichtige van een gedeelte van de aandelen de blote eigendom heeft en van een gedeelte de volle eigendom.
 
-Y heeft 20 aandelen met een verkrijgingsprijs van € 1.000 per aandeel. Hij verkoopt een recht van vruchtgebruik op 10 aandelen aan een derde voor € 70.000. Op dat moment zijn de aandelen in volle eigendom € 10.000 per stuk waard. Na de verkoop heeft hij nog 10 aandelen met een verkrijgingsprijs van € 1.000 en de blote eigendom van 10 aandelen met een verkrijgingsprijs van € 300. Enkele jaren later koopt Y 10 aandelen van een zelfde soort erbij voor € 15.000 per stuk.
+Voorbeeld verkoop vruchtgebruik
 
-De totale verkrijgingsprijs bedraagt: € 10.000 + € 3.000 + € 150.000 = € 163.000
+Y heeft 20 aandelen met een verkrijgingsprijs van € 1.000 per aandeel. Hij verkoopt een recht van vruchtgebruik op 10 aandelen aan een derde voor € 70.000. Op dat moment zijn de aandelen in volle eigendom € 10.000 per stuk waard. Na de verkoop heeft hij nog 10 aandelen met een verkrijgingsprijs van € 1.000 en de blote eigendom van 10 aandelen met een verkrijgingsprijs van € 300. Enkele jaren later koopt Y 10 aandelen van een zelfde soort erbij voor € 15.000 per stuk.
+
+De totale verkrijgingsprijs bedraagt: € 10.000 + € 3.000 + € 150.000 = € 163.000
 
 Per aandeel waarvan Y de volle eigendom bezit is de verkrijgingsprijs:
 
-€ 163.000 x 1/(10 + (10 x 300/1000) + 10) = € 7.087
+€ 163.000 x 1/(10 + (10 x 300/1000) + 10) = € 7.087
 
 Per aandeel waarvan Y de blote eigendom bezit is de verkrijgingsprijs:
 
-300/1.000 x € 7.087 = € 2.126
+300/1.000 x € 7.087 = € 2.126
 
 NB De breuk geeft de verhouding weer tussen de waarde van de blote eigendom en de waarde van de volle eigendom op het moment dat het recht van vruchtgebruik wordt gevestigd. Deze breuk blijft voor de berekening van de verkrijgingsprijs ongewijzigd indien op een later moment een nieuwe verkrijgingsprijs moet worden berekend omdat aandelen van eenzelfde soort worden bijgekocht.
 
 ### 5.2. Verkrijgingsprijs; aandelen in blote eigendom, vruchtgebruikaandelen en toepassing forfaits
 
-De verkrijgingsprijs van het vruchtgebruik dat op aandelen is gevestigd (hierna: vruchtgebruikaandelen) en aandelen in blote eigendom wordt evenredig verdeeld op basis van de waarde in het economische verkeer van deze aandelen in volle eigendom ([zie artikel 4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.19) juncto [artikel 4.21 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.21) en onderdeel 5.1 hiervoor). Het bepalen van de waarde in het economisch verkeer van vruchtgebruikaandelen wordt in de praktijk als lastig ervaren. Tegelijkertijd komt het voor dat in een specifiek geval de forfaitaire berekeningswijze van box 3 dan wel van de [Successiewet 1956](onbekend) leidt tot een goede benadering van de waarde in het economisch verkeer van de betreffende vruchtgebruikaandelen in box 2. In zo’n specifiek geval vind ik het gebruik van een van voornoemde forfaitaire berekeningswijzen als hulpmiddel niet bezwaarlijk. Daarom keur ik voor zover nodig het volgende goed.
+De verkrijgingsprijs van het vruchtgebruik dat op aandelen is gevestigd (hierna: vruchtgebruikaandelen) en aandelen in blote eigendom wordt evenredig verdeeld op basis van de waarde in het economische verkeer van deze aandelen in volle eigendom ([zie artikel 4.19](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.19) juncto [artikel 4.21 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.21) en [onderdeel 5.1](https://wetten.overheid.nl/BWBR0051728) hiervoor). Het bepalen van de waarde in het economisch verkeer van vruchtgebruikaandelen wordt in de praktijk als lastig ervaren. Tegelijkertijd komt het voor dat in een specifiek geval de forfaitaire berekeningswijze van box 3 dan wel van de [Successiewet 1956](https://wetten.overheid.nl/BWBR0002226) leidt tot een goede benadering van de waarde in het economisch verkeer van de betreffende vruchtgebruikaandelen in box 2. In zo’n specifiek geval vind ik het gebruik van een van voornoemde forfaitaire berekeningswijzen als hulpmiddel niet bezwaarlijk. Daarom keur ik voor zover nodig het volgende goed.
+
+Goedkeuring
 
 Ik keur goed dat voor de waardering van vruchtgebruikaandelen in box 2 kan worden aangesloten bij de forfaitaire berekeningswijze van [artikel 21, veertiende lid, Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=21) juncto [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&artikel=6) en [10 Uitvoeringsbesluit Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&artikel=10) dan wel van [artikel 5.22 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.22) juncto [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=18) en [19 Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=19), mits de blooteigenaar en de vruchtgebruiker van de aandelen en de inspecteur van mening zijn dat deze forfaitaire berekeningswijze leidt tot een goede benadering van de waarde in het economische verkeer van de aandelen.
 
@@ -206,11 +303,28 @@ In gevallen waarin de werkelijke waarde in het economisch verkeer van de vruchtg
 
 Fictief genoten loon op grond van de gebruikelijkloonregeling van [artikel 12a van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=12a) leidt tot een informele kapitaalstorting. Deze informele kapitaalstorting verhoogt de verkrijgingsprijs. Indien een aanmerkelijkbelanghouder fictief loon geniet, wordt de informele kapitaalstorting gesteld op het bedrag van het in aanmerking genomen fictieve loon.
 
-B is werkzaam voor een bv waarin B een aanmerkelijk belang heeft. B ontvangt geen salaris. Een gebruikelijk loon van € 50.000 wordt in aanmerking genomen. De bv draagt hierover (stel) € 17.000 loonbelasting/premie volksverzekeringen (loonheffing) af. Over het (gebruikelijke) loon is op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (ZVW) een inkomensafhankelijke bijdrage verschuldigd van (stel) € 3.250. Omdat sprake is van een aanmerkelijkbelanghouder is doorgaans de bijdrage ZVW verschuldigd door de aanmerkelijkbelanghouder zelf (het is dus geen werkgeversheffing ZVW) en wordt deze bijdrage ZVW ingehouden op het nettoloon. De bv verhaalt de af te dragen loonheffing alsmede de bijdrage ZVW op B.
+Voorbeeld 1 bv verhaalt loonheffing en zorgpremie
 
-De informele kapitaalstorting bedraagt € 50.000. De volgende journaalposten kunnen worden gemaakt:
+B is werkzaam voor een bv waarin B een aanmerkelijk belang heeft. B ontvangt geen salaris. Een gebruikelijk loon van € 50.000 wordt in aanmerking genomen. De bv draagt hierover (stel) € 17.000 loonbelasting/premie volksverzekeringen (loonheffing) af. Over het (gebruikelijke) loon is op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (ZVW) een inkomensafhankelijke bijdrage verschuldigd van (stel) € 3.250. Omdat sprake is van een aanmerkelijkbelanghouder is doorgaans de bijdrage ZVW verschuldigd door de aanmerkelijkbelanghouder zelf (het is dus geen werkgeversheffing ZVW) en wordt deze bijdrage ZVW ingehouden op het nettoloon. De bv verhaalt de af te dragen loonheffing alsmede de bijdrage ZVW op B.
 
-Dezelfde gegevens als bij voorbeeld 1, maar nu verhaalt de bv de af te dragen loonheffing en de zorgpremie niet op B. Het voordeel door het niet verhalen wordt aangemerkt als daadwerkelijk genoten loon. Dat bedraagt € 20.250 (€ 17.000 af te dragen loonheffing, vermeerderd met € 3.250 bijdrage ZVW). De informele kapitaalstorting bedraagt in dit geval € 29.750. De volgende journaalposten kunnen worden gemaakt:
+De informele kapitaalstorting bedraagt € 50.000. De volgende journaalposten kunnen worden gemaakt:
+
+| Loonkosten | € 50.000 |  |
+| --- | --- | --- |
+| Aan informeel kapitaal |  | € 50.000 |
+| Vordering op aanmerkelijkbelanghouder | € 20.250 |  |
+| Aan af te dragen LH/PH |  | € 17.000 |
+| Aan af te dragen zorgpremie |  | € 3.250 |
+
+Voorbeeld 2 bv verhaalt loonheffing en zorgpremie niet
+
+Dezelfde gegevens als bij voorbeeld 1, maar nu verhaalt de bv de af te dragen loonheffing en de zorgpremie niet op B. Het voordeel door het niet verhalen wordt aangemerkt als daadwerkelijk genoten loon. Dat bedraagt € 20.250 (€ 17.000 af te dragen loonheffing, vermeerderd met € 3.250 bijdrage ZVW). De informele kapitaalstorting bedraagt in dit geval € 29.750. De volgende journaalposten kunnen worden gemaakt:
+
+| Loonkosten | € 50.000 |  |
+| --- | --- | --- |
+| Aan Informeel kapitaal |  | € 29.750 |
+| Aan af te dragen LH/PH |  | € 17.000 |
+| Aan af te dragen zorgpremie |  | € 3.250 |
 
 ### 5.4. Negatieve verkrijgingsprijs en vervreemdingsvoordeel bij toepassing doorschuifregeling bij overlijden of bij schenking
 
@@ -218,15 +332,29 @@ Ingeval de doorschuifregeling van [artikel 4.17a](https://wetten.overheid.nl/jci
 
 Bij een positieve verkrijgingsprijs leidt deze berekening tot een zo klein mogelijk – maar niet kleiner dan nihil – vervreemdingsvoordeel ten aanzien van het beleggingsvermogen. Bij een negatieve verkrijgingsprijs is dit effect precies het tegenovergestelde, wat een onbillijkheid van overwegende aard tot gevolg heeft. In een situatie van een negatieve verkrijgingsprijs heb ik daarom een goedkeuring onder voorwaarden verleend.
 
+Goedkeuring
+
 Ik keur op basis van [artikel 63 Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (hardheidsclausule) goed dat ingeval de doorschuifregeling van [artikel 4.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a) of [4.17c Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17c) toepassing vindt en sprake is van een negatieve verkrijgingsprijs, deze negatieve verkrijgingsprijs de overdrachtsprijs van het beleggingsvermogen en daarmee het vervreemdingsvoordeel niet verhoogt. Hieraan verbind ik de volgende voorwaarden.
 
-X heeft alle aandelen in Z BV. De verkrijgingsprijs van de aandelen is negatief € 100.000. X overlijdt. Y is erfgenaam van X.
+- 1. Bij het verzoek om toepassing van de doorschuifregeling van [artikel 4.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a) of [artikel 4.17c Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17c) is opgenomen dat de erflater/schenker en de verkrijger gebruik wensen te maken van deze goedkeuring.
 
-De aandelen in Z BV hebben op het moment van overlijden van X een waarde in het economisch verkeer van € 500.000. Het ondernemingsvermogen van Z BV is berekend op € 440.000; het beleggingsvermogen op € 60.000. Voor zover het vervreemdingsvoordeel als gevolg van overlijden van X ziet op het ondernemingsvermogen wordt dat deel niet als vervreemdingsvoordeel bij X in aanmerking genomen en wordt de verkrijgingsprijs van X doorgeschoven. Voor zover dit vervreemdingsvoordeel ziet op het beleggingsvermogen, wordt daarover wel afgerekend bij X.
+- 2. De gehele negatieve verkrijgingsprijs van de verkregen aandelen schuift door naar de verkrijger.
 
-Overeenkomstig het [tweede lid van artikel 4.19 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.19) is het vervreemdingsvoordeel dat ziet op het beleggingsvermogen als gevolg van het overlijden van X € 160.000. Dit is: € 500.000 – € 440.000 – negatief € 100.000.
+- 3. De verkrijger stemt in met deze doorschuiving van de gehele negatieve verkrijgingsprijs.
 
-Bij toepassing van de goedkeuring bedraagt het vervreemdingsvoordeel dat ziet op het beleggingsvermogen € 60.000. De verkrijgingsprijs van Y van de aandelen in Z BV wordt € 40.000 negatief. Dit is de gehele, doorgeschoven negatieve verkrijgingsprijs van € 100.000 plus het vervreemdingsvoordeel op het beleggingsvermogen dat bij de erflater (X) in aanmerking is genomen als inkomen uit aanmerkelijk belang.
+Voorbeeld
+
+8
+
+In het voorbeeld is geabstraheerd van de zogenoemde doelmatigheidsmarge.
+
+X heeft alle aandelen in Z BV. De verkrijgingsprijs van de aandelen is negatief € 100.000. X overlijdt. Y is erfgenaam van X.
+
+De aandelen in Z BV hebben op het moment van overlijden van X een waarde in het economisch verkeer van € 500.000. Het ondernemingsvermogen van Z BV is berekend op € 440.000; het beleggingsvermogen op € 60.000. Voor zover het vervreemdingsvoordeel als gevolg van overlijden van X ziet op het ondernemingsvermogen wordt dat deel niet als vervreemdingsvoordeel bij X in aanmerking genomen en wordt de verkrijgingsprijs van X doorgeschoven. Voor zover dit vervreemdingsvoordeel ziet op het beleggingsvermogen, wordt daarover wel afgerekend bij X.
+
+Overeenkomstig het [tweede lid van artikel 4.19 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.19) is het vervreemdingsvoordeel dat ziet op het beleggingsvermogen als gevolg van het overlijden van X € 160.000. Dit is: € 500.000 – € 440.000 – negatief € 100.000.
+
+Bij toepassing van de goedkeuring bedraagt het vervreemdingsvoordeel dat ziet op het beleggingsvermogen € 60.000. De verkrijgingsprijs van Y van de aandelen in Z BV wordt € 40.000 negatief. Dit is de gehele, doorgeschoven negatieve verkrijgingsprijs van € 100.000 plus het vervreemdingsvoordeel op het beleggingsvermogen dat bij de erflater (X) in aanmerking is genomen als inkomen uit aanmerkelijk belang.
 
 ### 5.5. Omvorming van gewone aandelen in preferente aandelen en verlettering van aandelen
 
@@ -234,7 +362,7 @@ Bij toepassing van de goedkeuring bedraagt het vervreemdingsvoordeel dat ziet op
 
 In zijn algemeenheid geldt dat een vervreemding als bedoeld in [artikel 4.12, onderdeel b, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.12), wordt aangenomen indien als gevolg van een rechtshandeling aandelen of winstbewijzen of daarin besloten liggende rechten uit het vermogen van de aanmerkelijkbelanghouder of houder van winstbewijzen overgaan in dat van een ander. Het voorgaande betekent dat geen vervreemding in aanmerking wordt genomen op het moment dat een enig aandeelhouder zijn direct gehouden gewone aandelen (deels) omvormt in preferente aandelen of als hij deze verlettert.
 
-Als in samenhang met deze omvorming of verlettering aandelen aan een ander worden uitgegeven of als sprake is van meerdere aandeelhouders kan deze handeling voor de zittende aandeelhouder(s) wel als een vervreemding worden aangemerkt. Dat doet zich voor als bij de omvorming of verlettering van aandelen (een deel van) in die aandelen besloten liggende rechten overgaan in het vermogen van een ander. Dit is bijvoorbeeld het geval bij een onzakelijke verlettering van aandelen waarbij in de aandelen besloten liggende rechten overgaan op een andere aandeelhouder (zie Hof Arnhem-Leeuwarden, 2 juli 2024, ECLI:NL:GHARL:2024:4438).9Zie in dit verband ook mijn toelichting intrekking cassatieberoep van 25 september 2024, nr. 2024-00000444136 te vinden op [https://www.rijksoverheid.nl/documenten/besluiten/2024/04/09/toelichtingen-bij-afzien-cassatieberoep-2024](https://www.rijksoverheid.nl/documenten/besluiten/2024/04/09/toelichtingen-bij-afzien-cassatieberoep-2024)
+Als in samenhang met deze omvorming of verlettering aandelen aan een ander worden uitgegeven of als sprake is van meerdere aandeelhouders kan deze handeling voor de zittende aandeelhouder(s) wel als een vervreemding worden aangemerkt. Dat doet zich voor als bij de omvorming of verlettering van aandelen (een deel van) in die aandelen besloten liggende rechten overgaan in het vermogen van een ander. Dit is bijvoorbeeld het geval bij een onzakelijke verlettering van aandelen waarbij in de aandelen besloten liggende rechten overgaan op een andere aandeelhouder (zie Hof Arnhem-Leeuwarden, 2 juli 2024, ECLI:NL:GHARL:2024:4438).9Zie in dit verband ook mijn toelichting intrekking cassatieberoep van 25 september 2024, nr. 2024-00000444136 te vinden op [https://www.rijksoverheid.nl/documenten/besluiten/2024/04/09/toelichtingen-bij-afzien-cassatieberoep-2024](https://www.rijksoverheid.nl/documenten/besluiten/2024/04/09/toelichtingen-bij-afzien-cassatieberoep-2024)
 
 Wanneer de omvorming of verlettering van de aandelen leidt tot een vervreemding van een deel van de in de aandelen besloten liggende rechten, wordt voor de bepaling van het vervreemdingsvoordeel uitgegaan van een evenredig deel van de overdrachtsprijs en van de verkrijgingsprijs. De overdrachtsprijs wordt daarbij gesteld op de waarde in het economische verkeer van de aandelen op het moment van de statutenwijziging ([artikel 4.22, eerste lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.22)).
 
@@ -242,11 +370,41 @@ Wanneer de omvorming of verlettering van de aandelen leidt tot een vervreemding 
 
 Een omvorming van gewone aandelen in preferente aandelen of de verlettering van gewone aandelen kan leiden tot een vervreemding aan een ander. Er kan twijfel bestaan wanneer dat het geval is.
 
+Omvorming gewone aandelen in preferente aandelen – voorwaarden geen vervreemding
+
 Als bij de omvorming van gewone aandelen in preferente aandelen aan de navolgende voorwaarden wordt voldaan, neem ik het standpunt in dat geen sprake is van een vervreemding voor de aanmerkelijkbelangregeling.
+
+- a. De gewone aandelen worden bij statutenwijziging omgevormd tot cumulatief preferente aandelen.
+
+- b. De vóór de statutenwijziging aan de om te zetten gewone aandelen verbonden zichtbare winstreserves en agioreserves worden volledig toegerekend aan deze (in preferente aandelen gewijzigde) aandelen. Hetzelfde gebeurt met de stille reserves en goodwill. Hiertoe zijn – voor zoveel als mogelijk – in de jaarrekening en in de statuten afzonderlijke reserves gecreëerd.
+
+- c. De preferente aandelen geven recht op een – eventueel in overleg met de inspecteur te bepalen – zakelijke vergoeding voor het ter beschikking stellen van vermogen aan de vennootschap (primair dividend). Het primaire dividend wordt, in het verlengde van het vorige punt, berekend over het nominale kapitaal van de preferente aandelen en de aan deze aandelen verbonden zichtbare en onzichtbare reserves (inclusief goodwill). Indien de winst in enig jaar niet voldoende is voor het uitkeren van het primaire dividend, bestaat er in de volgende jaren in zoverre recht op een aanvullend primair dividend. De na de toekenning van het primaire dividend resterende winst wordt toegerekend aan de gewone aandelen.
+
+- d. Indien in enig jaar na de statutenwijziging in plaats van een dividenduitkering een bijschrijving plaatsvindt op de aan de preferente aandelen verbonden winstreserverekening, bestaat in de daaropvolgende jaren ook recht op het vastgestelde percentage primair dividend over deze bijschrijving.
+
+- e. Indien in enig jaar een verlies wordt afgeboekt op de aan de preferente aandelen verbonden winstreserverekening, wordt, als in een later jaar winst wordt gemaakt, een bedrag bijgeschreven op deze winstreserverekening dat overeenkomt met het bedrag dat ter dekking van de verliezen was afgeschreven.
+
+- f. Bij liquidatie van de vennootschap worden de aan de preferente aandelen verbonden winstreserves uitgekeerd aan de houder van de preferente aandelen. Het gevolg is dat de direct vóór de statutenwijziging aan de oude aandelen verbonden zichtbare en onzichtbare reserves (inclusief goodwill) uiteindelijk op de preferente aandelen zijn uitgekeerd, tenzij deze winstreserves door verliezen definitief teniet zijn gegaan.
 
 Het komt voor dat in samenhang met de omvorming, gewone aandelen worden uitgereikt aan een ander, bijvoorbeeld een bedrijfsopvolger. Aan de hand van de tegenprestatie van deze toetreder kan diens (geprognosticeerde of feitelijk behaalde) rendement worden bepaald in de eerste jaren. Als dit rendement aanmerkelijk hoger is dan het rendement dat in zakelijke verhoudingen mogelijk zou zijn, is dit een aanwijzing dat de vergoeding waarop de preferente aandelen recht geven te laag is (zie voorwaarde c. hiervóór). Een relatief hoog rendement kan mede veroorzaakt worden door de geringe investering van de toetreder in het gewone aandelenkapitaal. In dergelijke gevallen is vaak duidelijk dat aan derden niet tegen dezelfde condities gewone aandelen zouden worden uitgereikt. Overigens kan in zo een situatie sprake zijn van een lucratief belang ([artikel 3.92b Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92b)). De hiervoor genoemde onevenwichtigheid kan worden opgeheven door een zodanige (aanvullende) inbreng door de bedrijfsopvolger dat een evenwichtige verhouding ontstaat tussen zijn inbreng en de rendementen die hij mag verwachten volgens de gehanteerde prognoses.
 
+Verlettering van aandelen – voorwaarden geen vervreemding
+
 Als aan de navolgende voorwaarden wordt voldaan, neem ik het standpunt in dat bij de verlettering van aandelen geen sprake is van een vervreemding voor de aanmerkelijkbelangregeling.
+
+- a. De gewone aandelen worden verletterd in aandelen A en er worden nieuwe aandelen B geëmitteerd.
+
+- b. De vóór de statutenwijziging aan de gewone aandelen verbonden zichtbare winstreserves en agioreserves worden volledig toegerekend aan de aandelen A. Hetzelfde gebeurt met de stille reserves en goodwill. Hiertoe zijn – voor zoveel als mogelijk – in de jaarrekening en in de statuten afzonderlijke reserves gecreëerd.
+
+- c. De aandelen A en B geven recht op een – eventueel in overleg met de inspecteur te bepalen – zakelijke vergoeding voor het ter beschikking stellen van vermogen aan de vennootschap (primair dividend). Het primaire dividend wordt, in het verlengde van het vorige punt, berekend over de nominale waarde van de aandelen A en B en het bedrag van de aan die aandelen verbonden zichtbare reserves. De aandelen A geven tevens recht op primair dividend berekend over de ten tijde van de verlettering aan deze aandelen verbonden stille reserves en goodwill voor zover deze nog niet op de aandelen zijn uitgekeerd of door verliezen verloren zijn gegaan. Indien de winst in enig jaar niet voldoende is voor het uitkeren van het primaire dividend, bestaat er in de volgende jaren in zoverre recht op een aanvullend primair dividend.
+
+- d. De na de toekenning van het primaire dividend op de aandelen A en B resterende winst wordt in verhouding tot het nominale kapitaal aan de aandelen A en de aandelen B toegerekend.
+
+- e. Indien in enig jaar na de statutenwijziging in plaats van een primaire dividenduitkering een bijschrijving plaatsvindt op de aan de aandelen A en B verbonden winstreserverekeningen, bestaat in de daaropvolgende jaren ook recht op het vastgestelde percentage primaire dividend over deze bijschrijvingen.
+
+- f. Indien in enig jaar een verlies wordt afgeboekt op een winstreserverekening, wordt, als in een later jaar winst wordt gemaakt, een bedrag bijgeschreven op deze winstreserverekening dat overeenkomt met het bedrag dat ter dekking van de verliezen was afgeschreven.
+
+- g. Bij liquidatie van de vennootschap worden de aan de aandelen A verbonden winstreserves uitgekeerd aan de houders van de aandelen A. Het gevolg is dat de direct vóór de statutenwijziging aan de gewone aandelen verbonden winstreserves uiteindelijk op de aandelen A zijn uitgekeerd, tenzij deze winstreserves door verliezen definitief teniet zijn gegaan.
 
 Als de aandelen als gevolg van de verlettering in materiële zin kwalificeren als preferente aandelen, geldt hetgeen hiervoor over de preferente aandelen is opgenomen.
 
@@ -256,29 +414,51 @@ Overdracht in administratie van aandelen in een nv of bv door een aandeelhouder 
 
 Van vereenzelviging van certificaten met de overgenomen aandelen kan worden gesproken, indien uit de statuten van het administratiekantoor dan wel uit eventuele voorwaarden van administratie blijkt, dat aan de volgende voorwaarden wordt voldaan.
 
+- a. Voor ieder ingeleverd aandeel wordt telkens een certificaat uitgereikt dan wel een aantal certificaten tot een gelijk totaal nominaal bedrag als het ingeleverde aandeel.
+
+- b. Het administratiekantoor kan de overgenomen aandelen niet vervreemden of verpanden, wat het eerste betreft althans niet zonder onmiddellijke uitkering van de opbrengst aan de certificaathouders tegen inlevering van de certificaten.
+
+- c. De door het administratiekantoor ontvangen dividenden en andere uitkeringen op de aandelen worden onmiddellijk ter beschikking van de certificaathouders gesteld.
+
+- d. Bij uitreiking van bonusaandelen of stockdividenden op de overgenomen aandelen worden door het administratiekantoor dienovereenkomstig certificaten verstrekt.
+
+- e. Indien bij de uitgifte van nieuwe aandelen voorkeursrechten aan de aandeelhouders worden toegekend, stelt het administratiekantoor de certificaathouders in de gelegenheid dienovereenkomstig een voorkeursrecht op certificaten uit te oefenen. Het administratiekantoor maakt van de voorkeursrechten van aandeelhouders gebruik in dezelfde omvang als de certificaathouders gebruik maken van de hun dienovereenkomstig toegekende rechten.
+
+- f. Door het administratiekantoor ontvangen liquidatie-uitkeringen op de aandelen worden onmiddellijk aan de certificaathouders tegen inlevering van de certificaten afgedragen.
+
+- g. De vervreemdingsbevoegdheid ten aanzien van de certificaten is niet geringer dan bij de aandelen het geval is.
+
+- h. De certificaten kunnen slechts tegen afgifte van de aandelen worden ingetrokken dan wel ingeleverd.
+
 Overigens mogen de statuten en administratievoorwaarden of andere overeenkomsten geen bepalingen bevatten, welke vereenzelviging van de certificaten met de aandelen zouden verhinderen.
 
 ### 5.7. Wijziging huwelijkse voorwaarden
 
 De toevoeging van een verrekenbeding (periodiek of finaal) aan de huwelijkse voorwaarden van een buiten iedere gemeenschap van goederen gehuwde aanmerkelijkbelanghouder heeft geen gevolgen voor de aanmerkelijkbelangheffing.
 
-De toevoeging van een verrekenbeding betekent dat de huwelijkse voorwaarden worden gehandhaafd, maar dat er periodiek, dan wel bij ontbinding van het huwelijk, verrekening tussen de echtgenoten plaatsvindt. De aandelen gaan hierdoor niet tot een huwelijksgoederengemeenschap behoren. De houder van de aandelen of winstbewijzen blijft voor hetzelfde belang aanmerkelijkbelanghouder. Ook ingeval de andere echtgenoot als gevolg van het verrekenbeding jaarlijks of na ontbinding van het huwelijk recht heeft op verrekening van de waardeaangroei van de aandelen, wordt deze dus niet als aanmerkelijkbelanghouder aangemerkt. Zie ook hierna onderdeel 5.9.
+De toevoeging van een verrekenbeding betekent dat de huwelijkse voorwaarden worden gehandhaafd, maar dat er periodiek, dan wel bij ontbinding van het huwelijk, verrekening tussen de echtgenoten plaatsvindt. De aandelen gaan hierdoor niet tot een huwelijksgoederengemeenschap behoren. De houder van de aandelen of winstbewijzen blijft voor hetzelfde belang aanmerkelijkbelanghouder. Ook ingeval de andere echtgenoot als gevolg van het verrekenbeding jaarlijks of na ontbinding van het huwelijk recht heeft op verrekening van de waardeaangroei van de aandelen, wordt deze dus niet als aanmerkelijkbelanghouder aangemerkt. Zie ook hierna [onderdeel 5.9](https://wetten.overheid.nl/BWBR0051728).
 
 ### 5.8. Vervreemding aandelen aan echtgenoot
 
 De fiscale gevolgen van de vervreemding van aanmerkelijkbelangaandelen aan een echtgenoot zijn afhankelijk van het huwelijksgoederenregime. Hierna wordt uitgegaan van een enig aandeelhouder van een bv die de helft van zijn aandelen overdraagt aan zijn echtgenoot.
 
+- – Indien belanghebbende in een gemeenschap van goederen is gehuwd en de aandelen onderdeel uitmaken van deze algehele of beperkte gemeenschap, heeft een dergelijke overdracht geen gevolgen voor de aanmerkelijkbelangregeling. Door de huwelijksgemeenschap blijft het belang bij de aandelen uiteindelijk ongewijzigd.
+
+- – Indien de aandeelhouder op huwelijkse voorwaarden is gehuwd en de aandelen geen deel uitmaken van enige huwelijksgoederengemeenschap, is in beginsel sprake van een vervreemding in de zin van [artikel 4.12, aanhef en onderdeel b, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.12). Aangezien er geen sprake is van een overgang krachtens huwelijksvermogensrecht, is doorschuiving op de voet van [artikel 4.17 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17) niet mogelijk en moet worden afgerekend. Indien de koopsom wordt schuldig gebleven, kan eventueel wel uitstel van betaling worden verleend op de voet van [artikel 25, negende lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25).
+
 ### 5.9. Buiten gemeenschap van goederen gehuwd; echtscheiding; verdeling aandelenbezit
 
 Indien echtgenoten die buiten gemeenschap van goederen zijn gehuwd, gaan scheiden, kan [artikel 4.17 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17) geen toepassing vinden. Artikel 4.17 Wet IB 2001 is ook niet van toepassing als daarbij een periodiek of finaal verrekenbeding tussen de echtgenoten geldt. Een verrekenbeding leidt niet tot een huwelijksgemeenschap die wordt verdeeld, maar doet vorderingsrechten tussen echtgenoten ontstaan.
 
-Bij een periodiek verrekenbeding wordt jaarlijks het onverteerde inkomen tussen de echtgenoten verdeeld. Ook als die verdeling niet jaarlijks plaatsvindt, zoals aan de orde was in het arrest van de Hoge Raad (civiele kamer) van 7 april 1995, ECLI:NL:HR:1995:ZC1695, is [artikel 4.17 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17) niet van toepassing.
+Bij een periodiek verrekenbeding wordt jaarlijks het onverteerde inkomen tussen de echtgenoten verdeeld. Ook als die verdeling niet jaarlijks plaatsvindt, zoals aan de orde was in het arrest van de Hoge Raad (civiele kamer) van 7 april 1995, ECLI:NL:HR:1995:ZC1695, is [artikel 4.17 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17) niet van toepassing.
+
+Voorbeeld
 
 X en Y zijn buiten gemeenschap van goederen gehuwd. X en Y verwerven tijdens het huwelijk ieder 50% van de aandelen in een bv. Bij echtscheiding worden alle aandelen toebedeeld aan X. De toedeling van de aandelen aan X is een vervreemding door Y. Op deze vervreemding is [artikel 4.17 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17) niet van toepassing.
 
 ### 5.10. Legaat van aanmerkelijkbelangaandelen
 
-Indien een erflater in zijn testament een legaat van de aandelen heeft opgenomen en in het testament niets heeft bepaald over de ingangsdatum van het legaat, is met betrekking tot de vraag of sprake is van een fictieve vervreemding de regeling in het BW beslissend. Voor de periode vanaf 1 januari 2003 geldt [artikel 4:201, eerste lid, BW](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=201). Dit artikel bepaalt dat de legataris het legaat in de regel verkrijgt zonder dat een aanvaarding nodig is. De aandelen gaan onder bijzondere titel over op de legataris ([artikel 3:80, derde lid, BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=80)). Er is dan sprake van een (fictieve) vervreemding van de aanmerkelijkbelangaandelen ([artikel 4.16, eerste lid, onderdeel e, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.16)). De legataris wordt hierdoor direct na het overlijden van de erflater aanmerkelijkbelanghouder van de aandelen. Ook als de gelegateerde aandelen nog niet bij notariële akte zijn geleverd, zijn eventuele reguliere voordelen daarom belast bij de legataris in box 2. Bij legatering van aandelen waarbij de erflater geen termijn van opeisbaarheid heeft gesteld, verkrijgen de (andere) erfgenamen geen aandelen.
+Indien een erflater in zijn testament een legaat van de aandelen heeft opgenomen en in het testament niets heeft bepaald over de ingangsdatum van het legaat, is met betrekking tot de vraag of sprake is van een fictieve vervreemding de regeling in het BW beslissend. Voor de periode vanaf 1 januari 2003 geldt [artikel 4:201, eerste lid, BW](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=201). Dit artikel bepaalt dat de legataris het legaat in de regel verkrijgt zonder dat een aanvaarding nodig is. De aandelen gaan onder bijzondere titel over op de legataris ([artikel 3:80, derde lid, BW](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=80)). Er is dan sprake van een (fictieve) vervreemding van de aanmerkelijkbelangaandelen ([artikel 4.16, eerste lid, onderdeel e, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.16)). De legataris wordt hierdoor direct na het overlijden van de erflater aanmerkelijkbelanghouder van de aandelen. Ook als de gelegateerde aandelen nog niet bij notariële akte zijn geleverd, zijn eventuele reguliere voordelen daarom belast bij de legataris in box 2. Bij legatering van aandelen waarbij de erflater geen termijn van opeisbaarheid heeft gesteld, verkrijgen de (andere) erfgenamen geen aandelen.
 
 In de situatie dat de legataris het legaat verwerpt, komen de aandelen en de inkomsten daaruit vanaf het tijdstip van overlijden toe aan de erfgenamen. Dit betekent dat de erfgenamen vanaf de datum van overlijden steeds aanmerkelijkbelanghouder zijn geweest.
 
@@ -310,25 +490,35 @@ In uitzonderlijke gevallen blijkt dat een verdeling binnen twee jaren niet mogel
 
 Indien aandelen onder een blokkeringsregeling vallen, is voor de aanmerkelijkbelangregeling pas sprake van een vervreemding op het moment dat aan de voorwaarden van de blokkeringsregeling is voldaan.
 
-Een obligatoire overeenkomst tot vervreemding van aandelen die onder een blokkeringsregeling vallen, wordt beschouwd als overeengekomen onder de opschortende voorwaarde dat de verkoper met inachtneming van de blokkeringsregeling toestemming krijgt voor levering van de aandelen. Aangenomen moet immers worden dat de koper en verkoper zich slechts hebben willen binden voor het geval de verkoper in staat blijkt de aandelen rechtsgeldig te leveren. Tot het moment waarop de opschortende voorwaarde wordt vervuld, is daarom geen sprake van een perfecte overeenkomst en mitsdien evenmin van een vervreemding in de zin van de aanmerkelijkbelangregeling (Hof Den Bosch 28 mei 1957, NJ 1958, 129, en Rechtbank Haarlem 10 mei 1983, NJ 1984, 431). Indien sprake is van een overeenkomst onder opschortende voorwaarde, heeft de koper slechts een voorwaardelijk recht verkregen en kan het economische belang bij de aandelen hem niet toekomen voordat de voorwaarde in vervulling is gegaan (HR 9 oktober 2009, nr. 08/03606, LJN BI37245, en HR 19 april 2000, nr. 33 560, LJN AA5540). Ik verwijs ook naar mijn toelichting van 17 december 2010, nr. DGB2010-7615 naar aanleiding van de uitspraak van het Hof ’s-Hertogenbosch van 29 oktober 2010, nr. 2009/00410, LJN BP3710 (V-N 2012/15.22).
+Een obligatoire overeenkomst tot vervreemding van aandelen die onder een blokkeringsregeling vallen, wordt beschouwd als overeengekomen onder de opschortende voorwaarde dat de verkoper met inachtneming van de blokkeringsregeling toestemming krijgt voor levering van de aandelen. Aangenomen moet immers worden dat de koper en verkoper zich slechts hebben willen binden voor het geval de verkoper in staat blijkt de aandelen rechtsgeldig te leveren. Tot het moment waarop de opschortende voorwaarde wordt vervuld, is daarom geen sprake van een perfecte overeenkomst en mitsdien evenmin van een vervreemding in de zin van de aanmerkelijkbelangregeling (Hof Den Bosch 28 mei 1957, NJ 1958, 129, en Rechtbank Haarlem 10 mei 1983, NJ 1984, 431). Indien sprake is van een overeenkomst onder opschortende voorwaarde, heeft de koper slechts een voorwaardelijk recht verkregen en kan het economische belang bij de aandelen hem niet toekomen voordat de voorwaarde in vervulling is gegaan (HR 9 oktober 2009, nr. 08/03606, LJN BI37245, en HR 19 april 2000, nr. 33 560, LJN AA5540). Ik verwijs ook naar mijn toelichting van 17 december 2010, nr. DGB2010-7615 naar aanleiding van de uitspraak van het Hof ’s-Hertogenbosch van 29 oktober 2010, nr. 2009/00410, LJN BP3710 (V-N 2012/15.22).
 
 ### 5.14. Informeel kapitaal onzakelijke lening en borg
 
-In geval een geldlening als onzakelijk wordt aangemerkt (onder andere HR 25 november 2011, nr. 08/05323, ECLI:NL:HR:2011:BN3442) kan sprake zijn van informeel kapitaal. Hierna wordt aangegeven wanneer dit zich kan voordoen.
+In geval een geldlening als onzakelijk wordt aangemerkt (onder andere HR 25 november 2011, nr. 08/05323, ECLI:NL:HR:2011:BN3442) kan sprake zijn van informeel kapitaal. Hierna wordt aangegeven wanneer dit zich kan voordoen.
 
-Als een aandeelhouder een onzakelijke lening aan zijn bv heeft verstrekt (onzakelijke lening omlaag), zal een kwijtschelding van deze geldlening als een informele kapitaalstorting worden aangemerkt, ook indien en voor zover de vordering oninbaar is (HR 25 november 2011, nr. 10/04588, ECLI:NL:HR:2011:BP8952). Deze informele kapitaalstorting verhoogt de verkrijgingsprijs. Dat geldt blijkens de casus van voornoemd arrest ook als de aanmerkelijkbelanghouder/schuldeiser niet alle aandelen bezit. Dit laatste is anders indien als gevolg van de onzakelijke lening sprake is van een schenking (in de zin van [artikel 1, zevende lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=1)) aan de andere aandeelhouder(s). In dat geval zal niet (alleen) de verkrijgingsprijs van de aanmerkelijkbelanghouder, maar (ook) de verkrijgingsprijs van de andere aandeelhouder(s) naar rato van hun respectievelijke belangen worden verhoogd. Zie ook het [besluit van 29 november 2021, nr. 2021-15229, onderdeel 8.2.5](onbekend).
+Onzakelijke lening en informeel kapitaal
 
-X en haar kind Y hebben ieder 50% van de aandelen in Z BV. X verstrekt in jaar 1 een onzakelijke lening van € 400.000 aan Z BV. Als gevolg van het verstrekken van deze lening is sprake van een belaste schenking in de zin van [artikel 1, zevende lid van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=1) van X aan Y ter grootte van 50% van de waardestijging van de aandelen in Z BV. In jaar 3 scheldt X de onzakelijke lening kwijt. Aangezien als gevolg van de onzakelijke lening sprake is van een schenking, wordt deze kwijtschelding in dit geval bij zowel X als en Y als een informele kapitaalstorting ter grootte van € 200.000 (50% van het bedrag van de kwijtschelding) aangemerkt.
+Als een aandeelhouder een onzakelijke lening aan zijn bv heeft verstrekt (onzakelijke lening omlaag), zal een kwijtschelding van deze geldlening als een informele kapitaalstorting worden aangemerkt, ook indien en voor zover de vordering oninbaar is (HR 25 november 2011, nr. 10/04588, ECLI:NL:HR:2011:BP8952). Deze informele kapitaalstorting verhoogt de verkrijgingsprijs. Dat geldt blijkens de casus van voornoemd arrest ook als de aanmerkelijkbelanghouder/schuldeiser niet alle aandelen bezit. Dit laatste is anders indien als gevolg van de onzakelijke lening sprake is van een schenking (in de zin van [artikel 1, zevende lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=1)) aan de andere aandeelhouder(s). In dat geval zal niet (alleen) de verkrijgingsprijs van de aanmerkelijkbelanghouder, maar (ook) de verkrijgingsprijs van de andere aandeelhouder(s) naar rato van hun respectievelijke belangen worden verhoogd. Zie ook het [besluit van 29 november 2021, nr. 2021-15229, onderdeel 8.2.5](https://wetten.overheid.nl/BWBR0046030).
 
-Behalve in aandeelhoudersrelaties kan de onzakelijke aanvaarding van het aan een lening verbonden debiteurenrisico ook gestoeld zijn op persoonlijke betrekkingen tussen natuurlijke personen (HR 24 september 2014, nr. 13/02262, ECLI:NL:HR:2014:2781 en 18 december 2015, nr. 15/00942, ECLI:NL:HR:2015:3599). Heeft, in geval van een onzakelijke lening, de crediteur geen aandelen in de vennootschap/debiteur, maar een met hem verbonden persoon wel, dan kan alleen sprake zijn van een storting van informeel kapitaal door die verbonden persoon indien het door de niet-aandeelhouder/crediteur aanvaarde debiteurenrisico of de kwijtschelding als een schenking in de zin van [artikel 1, zevende lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=1) aan die aandeelhouder/verbonden persoon wordt aangemerkt. Alleen in dat geval zal de verkrijgingsprijs van die aandeelhouder(s) naar rato van hun respectievelijke belangen kunnen worden verhoogd. Met verbonden persoon wordt in dit verband niet alleen bedoeld, de verbonden persoon van [artikel 3.91, tweede lid, onderdeel b, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.91), maar ook de niet onder deze bepaling vallende bloed- of aanverwanten in de rechte lijn of zijn partner (de ongebruikelijke terbeschikkingstelling, [artikel 3.92, derde lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92)).
+Voorbeeld kwijtschelding door crediteur/aandeelhouder
+
+X en haar kind Y hebben ieder 50% van de aandelen in Z BV. X verstrekt in jaar 1 een onzakelijke lening van € 400.000 aan Z BV. Als gevolg van het verstrekken van deze lening is sprake van een belaste schenking in de zin van [artikel 1, zevende lid van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=1) van X aan Y ter grootte van 50% van de waardestijging van de aandelen in Z BV. In jaar 3 scheldt X de onzakelijke lening kwijt. Aangezien als gevolg van de onzakelijke lening sprake is van een schenking, wordt deze kwijtschelding in dit geval bij zowel X als en Y als een informele kapitaalstorting ter grootte van € 200.000 (50% van het bedrag van de kwijtschelding) aangemerkt.
+
+Behalve in aandeelhoudersrelaties kan de onzakelijke aanvaarding van het aan een lening verbonden debiteurenrisico ook gestoeld zijn op persoonlijke betrekkingen tussen natuurlijke personen (HR 24 september 2014, nr. 13/02262, ECLI:NL:HR:2014:2781 en 18 december 2015, nr. 15/00942, ECLI:NL:HR:2015:3599). Heeft, in geval van een onzakelijke lening, de crediteur geen aandelen in de vennootschap/debiteur, maar een met hem verbonden persoon wel, dan kan alleen sprake zijn van een storting van informeel kapitaal door die verbonden persoon indien het door de niet-aandeelhouder/crediteur aanvaarde debiteurenrisico of de kwijtschelding als een schenking in de zin van [artikel 1, zevende lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=1) aan die aandeelhouder/verbonden persoon wordt aangemerkt. Alleen in dat geval zal de verkrijgingsprijs van die aandeelhouder(s) naar rato van hun respectievelijke belangen kunnen worden verhoogd. Met verbonden persoon wordt in dit verband niet alleen bedoeld, de verbonden persoon van [artikel 3.91, tweede lid, onderdeel b, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.91), maar ook de niet onder deze bepaling vallende bloed- of aanverwanten in de rechte lijn of zijn partner (de ongebruikelijke terbeschikkingstelling, [artikel 3.92, derde lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92)).
+
+Voorbeeld kwijtschelding door crediteur/niet-aandeelhouder (persoonlijke betrekkingen)
 
 X houdt alle aandelen in X BV. Haar vader (Y) verstrekt in jaar 1 een onzakelijke lening aan X BV. Als gevolg van het verstrekken van deze lening is sprake van een belaste schenking in de zin van [artikel 1, zevende lid van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=1) van Y aan X ter grootte van de waardestijging van de aandelen in X BV. Y scheldt de onzakelijke lening kwijt in jaar 3. Ter grootte van het bedrag van de kwijtschelding doet X in jaar 3 een informele kapitaalstorting in X BV.
 
 Ook in geval van een zogenoemde onzakelijke lening opzij kan sprake zijn van een storting van informeel kapitaal door de aanmerkelijkbelanghouder. Bijvoorbeeld als de vennootschap een lening heeft verstrekt aan een zustervennootschap, louter om het belang van haar aandeelhouder te dienen. Op het moment van materiële kwijtschelding door de vennootschap/crediteur zal bij deze vennootschap een onttrekking en vervolgens een uitdeling worden geconstateerd aan de aandeelhouder die dat vervolgens stort als informeel kapitaal in de zustervennootschap/debiteur.
 
-Borgstelling en het aanvaarden van andere vormen van hoofdelijkheid (kortweg garantstelling) door aanmerkelijkbelanghouders voor schulden van de vennootschap zal zich in vrijwel alle gevallen in de kapitaalsfeer afspelen ([besluit van 29 november 2021, nr. 2021-15229, onderdeel 8.3.1.](onbekend) en zie onder andere HR 12 december 2003, nr. 38/24, ECLI:NL:HR2003:AH8973 en HR 17 oktober 2014, nr. 14/00955, ECLI:NL:HR:2014:2984). Als de bank/crediteur de aanmerkelijkbelanghouder uit hoofde van de garantstelling aanspreekt en de aandeelhouder vervolgens de schuld van de vennootschap voldoet, krijgt hij een regresvordering op zijn BV. Als op dat moment vaststaat dat de vennootschap deze vordering niet zal kunnen voldoen, kan het betaalde bedrag op dat moment als informeel kapitaalstorting worden gevoegd bij de verkrijgingsprijs van de aandelen van de aanmerkelijkbelanghouder. Als deze betaling plaatsvindt nadat de vennootschap al is ontbonden als gevolg van de opheffing van een faillissement bij gebrek aan baten en dus geen sprake meer is van een aanmerkelijk belang, dan kan op grond van een redelijke wetstoepassing het betaalde bedrag op dat moment de verkrijgingsprijs verhogen en zo leiden tot een verlies uit aanmerkelijk belang (zie: Hof Amsterdam 12 juli 2012, ECLI:NL:GHAMS:2012:BX6093). Als de garantsteller geen of niet alle aandelen heeft, is voor de informele kapitaalstorting hetgeen hiervoor is vermeld over de onzakelijke lening in geval van meerdere aandeelhouders, of verstrekt door niet-aandeelhouders, van overeenkomstige toepassing.
+Garantstelling in de kapitaalsfeer
 
-Het tijdstip van de storting van informeel kapitaal wordt bepaald door het moment waarop definitief vaststaat dat de debiteur niet meer aan zijn aflossingsverplichtingen zal voldoen (HR 28 februari 2014, nr. 12/03526 ECLI:NL:HR:2014:417, r.o. 3.3.4.3.). Dat is het moment van (materiële) kwijtschelding van de (oninbare) vordering of van liquidatie van de vennootschap.
+Borgstelling en het aanvaarden van andere vormen van hoofdelijkheid (kortweg garantstelling) door aanmerkelijkbelanghouders voor schulden van de vennootschap zal zich in vrijwel alle gevallen in de kapitaalsfeer afspelen ([besluit van 29 november 2021, nr. 2021-15229, onderdeel 8.3.1.](https://wetten.overheid.nl/BWBR0046030) en zie onder andere HR 12 december 2003, nr. 38/24, ECLI:NL:HR2003:AH8973 en HR 17 oktober 2014, nr. 14/00955, ECLI:NL:HR:2014:2984). Als de bank/crediteur de aanmerkelijkbelanghouder uit hoofde van de garantstelling aanspreekt en de aandeelhouder vervolgens de schuld van de vennootschap voldoet, krijgt hij een regresvordering op zijn BV. Als op dat moment vaststaat dat de vennootschap deze vordering niet zal kunnen voldoen, kan het betaalde bedrag op dat moment als informeel kapitaalstorting worden gevoegd bij de verkrijgingsprijs van de aandelen van de aanmerkelijkbelanghouder. Als deze betaling plaatsvindt nadat de vennootschap al is ontbonden als gevolg van de opheffing van een faillissement bij gebrek aan baten en dus geen sprake meer is van een aanmerkelijk belang, dan kan op grond van een redelijke wetstoepassing het betaalde bedrag op dat moment de verkrijgingsprijs verhogen en zo leiden tot een verlies uit aanmerkelijk belang (zie: Hof Amsterdam 12 juli 2012, ECLI:NL:GHAMS:2012:BX6093). Als de garantsteller geen of niet alle aandelen heeft, is voor de informele kapitaalstorting hetgeen hiervoor is vermeld over de onzakelijke lening in geval van meerdere aandeelhouders, of verstrekt door niet-aandeelhouders, van overeenkomstige toepassing.
+
+Tijdstip informeel kapitaal
+
+Het tijdstip van de storting van informeel kapitaal wordt bepaald door het moment waarop definitief vaststaat dat de debiteur niet meer aan zijn aflossingsverplichtingen zal voldoen (HR 28 februari 2014, nr. 12/03526 ECLI:NL:HR:2014:417, r.o. 3.3.4.3.). Dat is het moment van (materiële) kwijtschelding van de (oninbare) vordering of van liquidatie van de vennootschap.
 
 ### 5.15. Saldering negatieve en positieve vervreemdingsvoordelen bij emigratie
 
@@ -336,19 +526,32 @@ Als te conserveren inkomen wordt onder andere aangemerkt de positieve inkomensbe
 
 Als een belastingplichtige meerdere pakketten aanmerkelijkbelangaandelen (hierna: AB-pakketten) heeft en als gevolg van diens emigratie zowel positieve als negatieve vervreemdingsvoordelen over de afzonderlijke AB-pakketten behaalt, dan is de vraag of ‘de positieve inkomensbestanddelen’ zien op het saldo van positieve inkomensbestanddelen of op een per saldo positief inkomensbestanddeel. De belastingplichtige kan kiezen om de positieve en negatieve vervreemdingsvoordelen van de afzonderlijke AB-pakketten:10Dit beleidsonderdeel is tot stand gekomen naar aanleiding van een onderdeel van het kennisgroepstandpunt KG:003:2024:1, dat eerder is gepubliceerd op de website kennisgroepen.belastingdienst.nl.
 
+- a. te salderen en zo te komen tot een (per saldo positief) te conserveren inkomen, dan wel
+
+- b. niet te salderen. Het te conserveren inkomen bestaat dan enkel uit de optelsom van alle positieve vervreemdingsvoordelen. In dat geval kan het negatieve vervreemdingsvoordeel leiden tot een te verrekenen verlies uit aanmerkelijk belang.
+
 De keuze kan worden gemaakt totdat de aanslag over het emigratiejaar onherroepelijk vaststaat.
 
-X woont in Nederland en heeft een aanmerkelijk belang in twee vennootschappen, A BV en B BV. In 2023 heeft X een positief inkomen uit aanmerkelijk belang van € 500. In 2024 emigreert X. Op het moment van emigratie geldt voor de AB-pakketten het volgende:
+Voorbeeld 1
+
+X woont in Nederland en heeft een aanmerkelijk belang in twee vennootschappen, A BV en B BV. In 2023 heeft X een positief inkomen uit aanmerkelijk belang van € 500. In 2024 emigreert X. Op het moment van emigratie geldt voor de AB-pakketten het volgende:
+
+|  | Waarde in het economisch verkeer | Verkrijgingsprijs | Vervreemdingsvoordeel |
+| --- | --- | --- | --- |
+| A BV | € 1.500 | € 2.000 | –/– € 500 |
+| B BV | € 3.000 | € 500 | € 2.500 |
 
 Naast de vervreemdingsvoordelen als gevolg van de emigratie heeft X in 2024 geen ander inkomen uit aanmerkelijk belang genoten.
 
-X kan ervoor kiezen om de vervreemdingsvoordelen (a) te salderen en zo € 2.000 te conserveren inkomen in aanmerking nemen, of (b) niet te salderen en zo € 2.500 te conserveren inkomen in aanmerking nemen. Bij keuze b resteert € 500 negatief vervreemdingsvoordeel als inkomen uit aanmerkelijk belang, dat als een te verrekenen verlies uit aanmerkelijk belang vervolgens wordt verrekend met het positief inkomen uit aanmerkelijke belang van 2023. Bij keuze a resteert geen negatief vervreemdingsvoordeel dat als een verlies uit aanmerkelijk belang verrekend kan worden.
+X kan ervoor kiezen om de vervreemdingsvoordelen (a) te salderen en zo € 2.000 te conserveren inkomen in aanmerking nemen, of (b) niet te salderen en zo € 2.500 te conserveren inkomen in aanmerking nemen. Bij keuze b resteert € 500 negatief vervreemdingsvoordeel als inkomen uit aanmerkelijk belang, dat als een te verrekenen verlies uit aanmerkelijk belang vervolgens wordt verrekend met het positief inkomen uit aanmerkelijke belang van 2023. Bij keuze a resteert geen negatief vervreemdingsvoordeel dat als een verlies uit aanmerkelijk belang verrekend kan worden.
 
-X uit voorbeeld 1 heeft in 2023 een inkomen uit aanmerkelijk belang van € 300 in plaats van € 500. De overige feiten zijn gelijk aan voorbeeld 1.
+Voorbeeld 2
 
-Als X kiest voor (a) wordt € 2.000 in aanmerking genomen als te conserveren inkomen.
+X uit voorbeeld 1 heeft in 2023 een inkomen uit aanmerkelijk belang van € 300 in plaats van € 500. De overige feiten zijn gelijk aan voorbeeld 1.
 
-Als X kiest voor (b) wordt € 2.500 te conserveren inkomen in aanmerking genomen. Bij keuze b resteert € 500 te verrekenen verlies uit aanmerkelijk belang. Hiervan kan € 300 worden verrekend met het inkomen van € 300 in 2023. Er resteert een onverrekend verlies van € 200. Dit verlies kan niet in mindering gebracht worden op het te conserveren inkomen.
+Als X kiest voor (a) wordt € 2.000 in aanmerking genomen als te conserveren inkomen.
+
+Als X kiest voor (b) wordt € 2.500 te conserveren inkomen in aanmerking genomen. Bij keuze b resteert € 500 te verrekenen verlies uit aanmerkelijk belang. Hiervan kan € 300 worden verrekend met het inkomen van € 300 in 2023. Er resteert een onverrekend verlies van € 200. Dit verlies kan niet in mindering gebracht worden op het te conserveren inkomen.
 
 ### 6. Doorschuifregelingen
 
@@ -362,7 +565,7 @@ Een vennootschap, waarvan de aandelen zich in een (ontbonden) huwelijksgemeensch
 
 De goedkeuring laat onverlet dat in concrete gevallen de specifieke omstandigheden tot een andere conclusie kunnen leiden. Dit kan zich bijvoorbeeld voordoen als de huwelijksgemeenschap eerst kortstondig is opgezocht om daarna gebruik te kunnen maken van de faciliteit van [artikel 4.17 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17).
 
-De goedkeuring baseer ik met name op de uitlatingen van de wetgever bij kort gezegd splitsing ter voorbereiding op het gebruik van de faciliteit van [artikel 4.17c Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17c) (Kamerstukken II 2009/10, 32 129, nr. 8, p. 64–65).
+De goedkeuring baseer ik met name op de uitlatingen van de wetgever bij kort gezegd splitsing ter voorbereiding op het gebruik van de faciliteit van [artikel 4.17c Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17c) (Kamerstukken II 2009/10, 32 129, nr. 8, p. 64–65).
 
 ### 6.2. Doorschuiven of afrekenen bij overlijden
 
@@ -376,11 +579,15 @@ Onder de gezamenlijke belanghebbenden wordt verstaan: de vervreemder en de verkr
 
 De doorschuiffaciliteit die geldt bij de vererving van preferente aandelen stelt nadere voorwaarden aan de toepassing hiervan. Dit hangt samen met de achtergrond van de regeling, te weten dat de faciliteit voor reële bedrijfsopvolgingen is bedoeld. Een van de nadere voorwaarden is dat de verkrijger van de preferente aandelen reeds voor ten minste 5% van het geplaatste kapitaal aandeelhouder is van gewone aandelen die bij de omzetting van gewone aandelen in preferente aandelen zijn toegekend aan een ander ([artikel 4.17a, derde lid, onderdeel d, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a)). Een genotsrechtigde wordt voor het aanmerkelijk belang gelijkgesteld met een aandeelhouder en zijn gerechtigdheid wordt als aandeel aangemerkt ([artikel 4.3 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.3)). Toch kan twijfel bestaan of die aandelen kwalificeren als gewone aandelen. Daarom neem ik hierna genoemde ‘voor zover nodig goedkeuring’ op.
 
+Goedkeuring
+
 Voor zover nodig keur ik goed dat het recht van vruchtgebruik op aandelen voor de toepassing van [artikel 4.17a, derde lid, onderdeel d, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a) kwalificeert als gewoon aandeel.
 
 ### 6.2.3. Indirect aandeelhouder gewone aandelen
 
 Bij de vererving van preferente aandelen stelt de wet nadere eisen aan de toepassing van de doorschuiffaciliteit. De verkrijger van deze aandelen moet onder andere reeds voor ten minste 5% van het geplaatste kapitaal aandeelhouder zijn van gewone aandelen die bij de omzetting van gewone aandelen in preferente aandelen zijn toegekend aan een ander ([artikel 4.17a, derde lid, onderdeel d, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a)). Er kan twijfel bestaan of een belang dat indirect wordt gehouden eveneens kwalificeert.
+
+Goedkeuring
 
 Voor zover nodig keur ik goed dat de verkrijger van de preferente aandelen die reeds voor ten minste 5% van het geplaatste kapitaal indirect aandeelhouder is van gewone aandelen die bij omzetting van gewone aandelen in preferente aandelen zijn toegekend aan een ander, voldoet aan de eis van [artikel 4.17a, derde lid, onderdeel d, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a).
 
@@ -390,6 +597,8 @@ Als een belastingplichtige tezamen met zijn partner indirect voor ten minste 5% 
 
 Als de belastingplichtige overlijdt dan heeft de belastingplichtige tot en met het moment van overlijden een indirect aanmerkelijk belang in de voornoemde vennootschap. Daardoor is de toerekeningsregel als bedoeld in [artikel 4.17a, vijfde lid, onderdeel a, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a) van toepassing.
 
+Voorbeeld
+
 X en Y hebben ieder 50% van de aandelen in Z BV. Z BV heeft 5% in W BV. X en Y zijn partners. Zowel X als Y hebben een indirect aanmerkelijk belang in W BV. Als X overlijdt heeft X tot en met het moment van overlijden een indirect aanmerkelijk belang in W BV. Daardoor is de toerekeningsregel van [artikel 4.17a, vijfde lid, onderdeel a, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a) van toepassing.
 
 ### 6.2.5. Zonder economisch belang geen indirect aanmerkelijk belang in ander lichaam
@@ -397,6 +606,8 @@ X en Y hebben ieder 50% van de aandelen in Z BV. Z BV heeft 5% in W BV. X en Y z
 Voor de toepassing van de doorschuifregeling bij overgang krachtens erfrecht of bij overdracht krachtens schenking is onder meer vereist dat de vennootschap waarop de aandelen of winstbewijzen betrekking hebben, een onderneming drijft ([artikel 4.17a, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a), en [artikel 4.17c, eerste lid, aanhef en onderdeel a, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a)). In geval de vennootschap direct of indirect een belang heeft in een ander lichaam worden de bezittingen en schulden van dat andere lichaam toegerekend aan de vennootschap mits aan bepaalde voorwaarden wordt voldaan. Een van die voorwaarden is dat de erflater of schenker een indirect aanmerkelijk belang heeft in het andere lichaam (artikel 4.17a, vijfde lid, Wet IB 2001).
 
 Een erflater of schenker heeft geen indirect aanmerkelijk belang in het andere lichaam als de erflater of schenker via de aandelen in de vennootschap geen economisch belang heeft in het andere lichaam. De toerekening van bezittingen en schulden van het andere lichaam aan de vennootschap vindt dan ook niet plaats als de aanmerkelijkbelanghouder zogenoemde trackingstocks heeft in de vennootschap en de aanmerkelijkbelanghouder door de trackingstocks geen economisch belang heeft in het andere lichaam waarin de vennootschap aandelen houdt.11Dit beleidsonderdeel is tot stand gekomen naar aanleiding van het kennisgroepstandpunt KG:003:2024:2, dat eerder is gepubliceerd op de website kennisgroepen.belastingdienst.nl.
+
+Voorbeeld
 
 X BV bezit de volledige eigendom van alle aandelen in Y BV. Daarnaast bezit X BV een pand dat in gebruik is bij de onderneming van Y BV.
 
@@ -422,11 +633,13 @@ Als [artikel 4.22 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&a
 
 [Artikel 4.17c Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17c) is niet van toepassing als de desbetreffende aandelen worden overgedragen tegen schuldigerkenning, waarna de vordering geheel of gedeeltelijk wordt kwijtgescholden. Blijkens de wettekst moet immers sprake zijn van schenking van aandelen of winstbewijzen. Overdracht van aandelen of winstbewijzen tegen schuldigerkenning, onmiddellijk gevolgd door kwijtschelding van de koopschuld, komt naar mijn mening onder omstandigheden echter materieel overeen met schenking van die aandelen of winstbewijzen.
 
+Goedkeuring
+
 Ik keur goed dat [artikel 4.17c Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17c) toepassing vindt in de situatie dat aanmerkelijkbelangaandelen of winstbewijzen worden overgedragen tegen schuldigerkenning van de koopschuld, waarna onmiddellijk en onherroepelijk kwijtschelding plaatsvindt van die koopschuld. Deze goedkeuring is van overeenkomstige toepassing bij een gedeeltelijke kwijtschelding van de koopschuld. Vanzelfsprekend dient aan de overige voorwaarden van artikel 4.17c Wet IB 2001 te zijn voldaan. Aan deze goedkeuring verbind ik de voorwaarde dat de verkrijger akkoord gaat met een dienovereenkomstige verlaging van de verkrijgingsprijs. Bij een gefaseerde kwijtschelding geldt de goedkeuring niet voor de tweede en volgende kwijtschelding.
 
 Van bovenstaande goedkeuring kan geen gebruik worden gemaakt als sprake is van een herroepelijke kwijtschelding van de koopschuld. De doorschuifregeling van [artikel 4.17c Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17c) kan dan niet worden toegepast. Dit ter voorkoming van een heffingslek binnen de aanmerkelijkbelangregeling. Een toepassing van de doorschuifregeling van artikel 4.17c zou immers leiden tot een doorschuiving van de verkrijgingsprijs naar de verkrijger, terwijl na herroeping van de kwijtschelding de betaling van de koopschuld door de verkrijger tot een verhoging van de verkrijgingsprijs zou leiden.
 
-Voor de bedrijfsopvolgingsregeling van de [Successiewet 1956](onbekend) is in [onderdeel 3.4 van het Besluit van 17 januari 2013, nr. BLKB 2012/1221M](onbekend) ook een goedkeuring opgenomen voor een kwijtschelding van de koopschuld. Deze goedkeuring voor de bedrijfsopvolgingsregeling van de Successiewet 1956 geldt zowel bij een onherroepelijke als herroepelijke kwijtschelding.
+Voor de bedrijfsopvolgingsregeling van de [Successiewet 1956](https://wetten.overheid.nl/BWBR0002226) is in [onderdeel 3.4 van het Besluit van 17 januari 2013, nr. BLKB 2012/1221M](https://wetten.overheid.nl/BWBR0032849) ook een goedkeuring opgenomen voor een kwijtschelding van de koopschuld. Deze goedkeuring voor de bedrijfsopvolgingsregeling van de Successiewet 1956 geldt zowel bij een onherroepelijke als herroepelijke kwijtschelding.
 
 ### 6.5. Preferente aandelen
 
@@ -438,27 +651,57 @@ Ter verduidelijking merk ik hierbij het volgende op.
 
 In de parlementaire geschiedenis wordt weliswaar bij 'gepaard gaan met' in dit verband gesproken over 'gelijktijdig' en 'op dat moment', maar dat wil niet zeggen dat omzetting in preferente aandelen en toekenning van gewone aandelen aan een ander op dezelfde dag moeten plaatsvinden. Vereist is wel dat de tijdspanne beperkt is en dat er een verband bestaat tussen beide rechtshandelingen. Het is aan de inspecteur om te beoordelen of hieraan in een bepaald geval wordt voldaan.12Deze passage in dit beleidsonderdeel is tot stand gekomen naar aanleiding van het kennisgroepstandpunt KG:063:2024:8, dat eerder is gepubliceerd op de website kennisgroepen.belastingdienst.nl.
 
-Onder toekennen van gewone aandelen aan een ander wordt verstaan zowel de uitgifte van (nieuwe) aandelen aan een ander als, na gedeeltelijke omzetting van gewone aandelen in preferente aandelen, de overdracht van na die omzetting resterende gewone aandelen aan een ander (zie Kamerstukken II 2008/09, 31 930, nr. 9, p. 98).
+Onder toekennen van gewone aandelen aan een ander wordt verstaan zowel de uitgifte van (nieuwe) aandelen aan een ander als, na gedeeltelijke omzetting van gewone aandelen in preferente aandelen, de overdracht van na die omzetting resterende gewone aandelen aan een ander (zie Kamerstukken II 2008/09, 31 930, nr. 9, p. 98).
 
 ### 6.5.1. Preferente aandelen die zijn ontstaan vóór 2010
 
-Het komt voor dat bij een omzetting van gewone aandelen in preferente aandelen vóór 1 januari 2010 geen rekening is gehouden met de na die datum geldende wettelijke voorwaarde dat de omzetting gepaard is gegaan met het toekennen van gewone aandelen aan een ander. Ik heb er begrip voor dat met deze voorwaarde destijds nog geen rekening kon worden gehouden in gevallen waarbij er reeds een beoogd bedrijfsopvolger is die al gewone aandelen bezit.
+Het komt voor dat bij een omzetting van gewone aandelen in preferente aandelen vóór 1 januari 2010 geen rekening is gehouden met de na die datum geldende wettelijke voorwaarde dat de omzetting gepaard is gegaan met het toekennen van gewone aandelen aan een ander. Ik heb er begrip voor dat met deze voorwaarde destijds nog geen rekening kon worden gehouden in gevallen waarbij er reeds een beoogd bedrijfsopvolger is die al gewone aandelen bezit.
+
+Goedkeuring
 
 Ik keur goed dat ervan kan worden uitgegaan dat de omzetting van gewone aandelen in (indirect gehouden) preferente aandelen gepaard is gegaan met het toekennen van gewone aandelen aan een ander als bedoeld in [artikel 4.17a, derde lid, onderdelen b en d, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a) en [artikel 26b, derde lid, onderdelen b en d, URIB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&artikel=26b). Aan deze goedkeuring verbind ik de volgende voorwaarden:
 
+- – de omzetting heeft plaatsgevonden vóór 1 januari 2010;
+
+- – op het moment van de omzetting hield een ander ook gewone aandelen dan wel zijn gewone aandelen uitgereikt aan de preferente aandeelhouder/overdrager waarna in directe samenhang met deze uitreiking gewone aandelen zijn overgedragen aan de verkrijger(s);
+
+- – alleen de gewone aandelen uit de vorige voorwaarde zijn aan te merken als de gewone aandelen die zijn toegekend aan een ander in de zin van de hiervoor vermelde wettelijke bepalingen;
+
+- – de verkrijger van de preferente aandelen is op het moment van de verkrijging voor ten minste 5% van het totaal geplaatste aandelenkapitaal (direct of indirect) aandeelhouder van gewone aandelen en waarvan minimaal één gewoon aandeel zoals bedoeld in de vorige voorwaarde;
+
+- – de goedkeuring geldt slechts voor de preferente aandelen, die zijn ontstaan op het moment waarop de gewone aandelen zijn omgezet in preferente aandelen.
+
 ### 6.5.2. Preferente aandelen die vóór 1 januari 2010 zijn ontstaan door omwisseling van een vordering
 
-Het komt voor dat bij een omzetting van de schuldig gebleven koopsom in preferente aandelen vóór 1 januari 2010 nog geen rekening is gehouden met de na die datum geldende voorwaarde dat de preferente aandelen moeten zijn ontstaan door omwisseling van gewone aandelen. Dergelijke verzoeken wijs ik af. Ik heb slechts begrip voor de situatie waarin de schuldig gebleven koopsom vóór 1 januari 2010 is ontstaan en op dezelfde dag is omgezet in preferente aandelen.
+Het komt voor dat bij een omzetting van de schuldig gebleven koopsom in preferente aandelen vóór 1 januari 2010 nog geen rekening is gehouden met de na die datum geldende voorwaarde dat de preferente aandelen moeten zijn ontstaan door omwisseling van gewone aandelen. Dergelijke verzoeken wijs ik af. Ik heb slechts begrip voor de situatie waarin de schuldig gebleven koopsom vóór 1 januari 2010 is ontstaan en op dezelfde dag is omgezet in preferente aandelen.
 
-Ik keur goed dat de preferente aandelen die vóór 1 januari 2010 zijn ontstaan door omzetting van een vordering, worden aangemerkt als preferente aandelen als bedoeld in [artikel 4.17a, derde lid, onderdeel a, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a) en [artikel 26b, derde lid, onderdeel a, URIB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&artikel=26b). Aan deze goedkeuring verbind ik de volgende voorwaarden:
+Goedkeuring
+
+Ik keur goed dat de preferente aandelen die vóór 1 januari 2010 zijn ontstaan door omzetting van een vordering, worden aangemerkt als preferente aandelen als bedoeld in [artikel 4.17a, derde lid, onderdeel a, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a) en [artikel 26b, derde lid, onderdeel a, URIB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&artikel=26b). Aan deze goedkeuring verbind ik de volgende voorwaarden:
+
+- – de vordering is vóór 1 januari 2010 ontstaan door overdracht van gewone aandelen aan een ander;
+
+- – de vordering is vervolgens op dezelfde dag omgezet in preferente aandelen;
+
+- – voor de toepassing van [artikel 13d, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13d), en [artikel 13i Wet VPB 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=13i) wordt de inbreng van de aandelen tegen de vordering geacht te hebben plaatsgevonden tegen uitreiking van preferente aandelen.
 
 Voor de toepassing van [artikel 4.17a, derde lid, onderdeel b, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a) en [artikel 26b, derde lid, onderdeel b, URIB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&artikel=26b), worden in deze situatie de overgedragen gewone aandelen aangemerkt als gewone aandelen die zijn toegekend aan een ander.
 
 ### 6.5.3. Preferente aandelen uitgegeven bij toepassing van de geruisloze omzetting
 
-Cumulatief preferente aandelen komen slechts onder bepaalde voorwaarden in aanmerking voor de doorschuifregelingen in het aanmerkelijk belang ([artikel 4.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a) en [4.17c Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17c)). Cumulatief preferente aandelen die bij de faciliteit van de geruisloze omzetting ([artikel 3.65 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.65)) zijn uitgereikt, kwalificeren hierdoor niet voor de toepassing van genoemde doorschuifregelingen. Gezien de eisen die deze faciliteit stelt in de situatie dat twee of meer deelnemers in een samenwerkingsverband hun onderneming in dezelfde vennootschap inbrengen (zie met name de vijfde standaardvoorwaarde en de toelichting behorende bij het [besluit van 24 oktober 2025, nr. 2025-21695](https://wetten.overheid.nl/jci1.3:c:BWBR0051693) (Stcrt. 2025-37092) keur ik goed dat de hierbij uitgereikte cumulatief preferente aandelen geacht worden te voldoen aan de eisen van [artikel 4.17a, derde lid, onderdeel a, b en d, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a).
+Cumulatief preferente aandelen komen slechts onder bepaalde voorwaarden in aanmerking voor de doorschuifregelingen in het aanmerkelijk belang ([artikel 4.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a) en [4.17c Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17c)). Cumulatief preferente aandelen die bij de faciliteit van de geruisloze omzetting ([artikel 3.65 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.65)) zijn uitgereikt, kwalificeren hierdoor niet voor de toepassing van genoemde doorschuifregelingen. Gezien de eisen die deze faciliteit stelt in de situatie dat twee of meer deelnemers in een samenwerkingsverband hun onderneming in dezelfde vennootschap inbrengen (zie met name de vijfde standaardvoorwaarde en de toelichting behorende bij het [besluit van 24 oktober 2025, nr. 2025-21695](https://wetten.overheid.nl/jci1.3:c:BWBR0051693) (Stcrt. 2025-37092) keur ik goed dat de hierbij uitgereikte cumulatief preferente aandelen geacht worden te voldoen aan de eisen van [artikel 4.17a, derde lid, onderdeel a, b en d, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a).
+
+Goedkeuring
 
 Aan de hierboven genoemde goedkeuring verbind ik de volgende voorwaarden:
+
+- 1. de bij de geruisloze omzetting aan iedere inbrenger uitgereikte gewone en cumulatief preferente aandelen blijven aan elkaar gekoppeld;
+
+- 2. de cumulatief preferente aandelen worden naar evenredigheid gekoppeld aan de gewone aandelen;
+
+- 3. de bedrijfsopvolger verkrijgt tegelijk met de gewone aandelen in de omgezette onderneming, de daaraan naar evenredigheid gekoppelde cumulatief preferente aandelen;
+
+- 4. de goedkeuring geldt uitsluitend voor de cumulatief preferente aandelen die in verband met de geruisloze omzetting zijn verkregen.
 
 Voorgaande goedkeuring geldt ook indien twee of meer deelnemers in een samenwerkingsverband hun (subjectieve) onderneming in hun persoonlijke houdstervennootschap inbrengen en de houdstervennootschappen vervolgens hun onderneming met toepassing van [artikel 14 Wet VPB 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14) laten uitzakken in een gezamenlijke werkmaatschappij en waarbij cumulatief preferente aandelen zijn uitgereikt.
 
@@ -466,9 +709,21 @@ Uiteraard zal ook moeten zijn voldaan aan de overige voorwaarden voor de toepass
 
 ### 6.6. Aandelenruil en ongelijke tegenprestatie
 
-Een ongelijke en dus een onzakelijke ruilverhouding brengt in zijn algemeenheid mee dat de aandelenfusiefaciliteit op die grond niet kan worden verleend (Hoge Raad, 25 oktober 2000, nr. 35 957, ECLI:NL:HR:2000:AA7846).
+Een ongelijke en dus een onzakelijke ruilverhouding brengt in zijn algemeenheid mee dat de aandelenfusiefaciliteit op die grond niet kan worden verleend (Hoge Raad, 25 oktober 2000, nr. 35 957, ECLI:NL:HR:2000:AA7846).
+
+Goedkeuring
 
 Ik keur niettemin goed dat een aandelenfusie met ongelijke ruilverhouding wordt toegestaan. Aan deze goedkeuring verbind ik de volgende voorwaarden:
+
+- – de aandeelhouder bezit alle aandelen van de verkrijgende vennootschap;
+
+- – er verschuiven geen aandeelhoudersrechten naar derden;
+
+- – zowel de vennootschap waarvan de aandeelhouder de aandelen vervreemdt als de verkrijgende vennootschap hebben een positieve waarde;
+
+- – er wordt ten minste één aandeel uitgereikt door de verkrijgende vennootschap. De meerwaarde wordt bij de verkrijgende vennootschap als agio geboekt;
+
+- – er gaan geen belastingclaims verloren, met andere woorden: de toekomstige heffing moet zijn verzekerd.
 
 Vanzelfsprekend moet ook aan de overige in [artikel 3.55 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.55) gestelde vereisten zijn voldaan.
 
@@ -480,7 +735,7 @@ In beginsel kan – mits is voldaan aan de voorwaarden van [artikel 3.55 Wet IB 
 
 ### 7.1. Fictieve vervreemding van fictief aanmerkelijk belang
 
-Als sprake is van een fictief aanmerkelijk belang in de zin van [artikel 4.11 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.11) worden de aandelen geacht te zijn vervreemd als belastingplichtige daarom verzoekt ([artikel 4.16, derde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.16)). Een belastingplichtige kan niet terugkomen op een dergelijk verzoek. Zou dat anders zijn, dan zou dat de mogelijkheid bieden tot ongewenste manipulatie: belastingplichtige zou dan een verzoek tot overbrenging van de aandelen naar box 3 per 1 januari van een jaar kunnen indienen en vervolgens het waardeverloop van de aandelen in dat jaar kunnen afwachten. Stijgt de waarde van zijn aandelenpakket, dan blijft hij bij zijn oorspronkelijke keuze en realiseert de waardestijging in box 3. Daalt de waarde van zijn aandelenpakket, dan herroept hij het verzoek en dient kort daarop een volgend, gelijkluidend verzoek in. De mogelijkheid om terug te komen op een verzoek ex artikel 4.16, derde lid, Wet IB 2001 past overigens ook niet bij het vervreemdingsbegrip van het aanmerkelijk belang. Dat is een eenmalig moment. Het onderscheid tussen een civielrechtelijke vervreemding en een fictieve vervreemding is in dit verband niet relevant.
+Als sprake is van een fictief aanmerkelijk belang in de zin van [artikel 4.11 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.11) worden de aandelen geacht te zijn vervreemd als belastingplichtige daarom verzoekt ([artikel 4.16, derde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.16)). Een belastingplichtige kan niet terugkomen op een dergelijk verzoek. Zou dat anders zijn, dan zou dat de mogelijkheid bieden tot ongewenste manipulatie: belastingplichtige zou dan een verzoek tot overbrenging van de aandelen naar box 3 per 1 januari van een jaar kunnen indienen en vervolgens het waardeverloop van de aandelen in dat jaar kunnen afwachten. Stijgt de waarde van zijn aandelenpakket, dan blijft hij bij zijn oorspronkelijke keuze en realiseert de waardestijging in box 3. Daalt de waarde van zijn aandelenpakket, dan herroept hij het verzoek en dient kort daarop een volgend, gelijkluidend verzoek in. De mogelijkheid om terug te komen op een verzoek ex artikel 4.16, derde lid, Wet IB 2001 past overigens ook niet bij het vervreemdingsbegrip van het aanmerkelijk belang. Dat is een eenmalig moment. Het onderscheid tussen een civielrechtelijke vervreemding en een fictieve vervreemding is in dit verband niet relevant.
 
 ### 8. Verliesverrekening
 
@@ -488,13 +743,15 @@ Als sprake is van een fictief aanmerkelijk belang in de zin van [artikel 4.11 We
 
 In de situatie dat iemand in jaar 1 een verlies uit aanmerkelijk belang heeft geleden, zou gelet op de letterlijke tekst van [artikel 4.53 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.53) de indruk kunnen bestaan dat pas na afloop van jaar 3 een beschikking als bedoeld in dat artikel door de inspecteur kan worden afgegeven. Op dat moment kan immers pas worden vastgesteld dat de belastingplichtige in het kalenderjaar en het daaraan voorafgaande kalenderjaar geen aanmerkelijk belang heeft. Uit de parlementaire geschiedenis is echter af te leiden dat dit niet de bedoeling is van deze bepaling.
 
-In jaar 3 kan dus een beschikking in de zin van [artikel 4.53, derde lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.53) worden afgegeven. Met inachtneming van het bepaalde in [artikel 2.11a Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.11a) kan de belastingkorting worden verrekend met de over jaar 3 verschuldigde belasting over het inkomen uit werk en woning. Bij het vaststellen van de voorlopige aanslag inkomstenbelasting voor jaar 3 kan hiermee al rekening worden gehouden. Met betrekking tot de volgorde van verrekening van de belastingkorting en de heffingskorting merk ik op dat de belastingkorting vóór de heffingskorting wordt geplaatst (zie ook HR 18 augustus 2023, ECLI:NL:HR:2023:1092).
+In jaar 3 kan dus een beschikking in de zin van [artikel 4.53, derde lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.53) worden afgegeven. Met inachtneming van het bepaalde in [artikel 2.11a Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.11a) kan de belastingkorting worden verrekend met de over jaar 3 verschuldigde belasting over het inkomen uit werk en woning. Bij het vaststellen van de voorlopige aanslag inkomstenbelasting voor jaar 3 kan hiermee al rekening worden gehouden. Met betrekking tot de volgorde van verrekening van de belastingkorting en de heffingskorting merk ik op dat de belastingkorting vóór de heffingskorting wordt geplaatst (zie ook HR 18 augustus 2023, ECLI:NL:HR:2023:1092).
 
 Mochten na het afgeven van voormelde beschikking in de loop van jaar 3 opnieuw aandelen verworven worden die een aanmerkelijk belang vormen, dan moet de eerder afgegeven beschikking door de inspecteur worden herzien omdat niet (meer) is voldaan aan de wettelijke omschrijving van [artikel 4.53, eerste lid, Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.53).
 
 ### 8.2. Gedeeltelijke omzetting in belastingkorting
 
 Indien een belastingplichtige geen aanmerkelijk belang meer heeft, is het mogelijk te verzoeken het nog niet verrekende verlies uit aanmerkelijk belang om te zetten in een belastingkorting in box 1 ([artikel 4.53 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.53)). Deze formulering impliceert dat de omzetting moet gelden voor het gehele nog niet verrekende verlies.
+
+Goedkeuring
 
 Ik ben niettemin bereid om mogelijk onder nader te formuleren voorwaarden goed te keuren dat een verlies uit aanmerkelijk belang eenmalig ook partieel kan worden omgezet in een belastingkorting. Voor het overige blijft het nog niet verrekende verlies uit aanmerkelijk belang dan nog uitsluitend beschikbaar voor latere verrekening in box 2. Verzoeken kunnen worden voorgelegd aan Belastingdienst/ Corporate Dienst Vaktechniek/ Team Brieven en Beleidsbesluiten, Postbus 20201, 2500 EE Den Haag.
 
@@ -503,6 +760,8 @@ Ik ben niettemin bereid om mogelijk onder nader te formuleren voorwaarden goed t
 Als een belastingplichtige en diens partner niet langer een aanmerkelijk belang houden, kan een nog onverrekend verlies uit aanmerkelijk belang op grond van [artikel 4.53 Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.53) op verzoek worden omgezet in een belastingkorting. In het geval een belastingplichtige geen (fiscaal) partner heeft en in het kalenderjaar is overleden, geldt als voorwaarde voor het indienen van een verzoek tot omzetting van een nog niet verrekend verlies uit aanmerkelijk belang in een belastingkorting dat de belastingplichtige ten tijde van het overlijden geen aanmerkelijk belang heeft (artikel 4.53, eerste lid, tweede volzin, Wet IB 2001).
 
 Als ten gevolge van het overlijden van deze belastingplichtige een negatief vervreemdingsvoordeel wordt genoten en vervolgens een verlies uit aanmerkelijk belang ontstaat dat onverrekend blijft, kan dit verlies niet worden omgezet, omdat belastingplichtige ten tijde van het overlijden een aanmerkelijk belang heeft. Het verlies wordt dan op geen enkele wijze meer benut. Dit gevolg is bij de invoering van voornoemde tweede volzin niet voorzien en is een onbillijkheid van overwegende aard.
+
+Goedkeuring
 
 Ik keur op basis van [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (hardheidsclausule) goed dat als bij het overlijden van een belastingplichtige die geen partner heeft een verlies uit aanmerkelijk belang ontstaat dat niet verrekend kan worden, dit verlies op verzoek kan worden omgezet in een belastingkorting.
 
@@ -531,6 +790,8 @@ De overgang onder algemene titel is naar nationaal recht een fictieve vervreemdi
 ### 11. Ingetrokken regeling
 
 Het volgende besluit is ingetrokken met ingang van de inwerkingtreding van dit besluit:
+
+- – [besluit van 9 maart 2018, nr. 2018-27139](https://wetten.overheid.nl/jci1.3:c:BWBR0032006) (Stcrt. 2018, 15751).
 
 ### 12. Inwerkingtreding
 

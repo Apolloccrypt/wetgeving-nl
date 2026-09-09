@@ -8,7 +8,7 @@ laatste_update: 2026-03-05
 status: geldig
 toestand: 2026-03-05
 bron: "https://wetten.overheid.nl/BWBV0003833"
-opgehaald: 2026-09-08
+opgehaald: 2026-09-09
 ---
 
 # Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantensoorten

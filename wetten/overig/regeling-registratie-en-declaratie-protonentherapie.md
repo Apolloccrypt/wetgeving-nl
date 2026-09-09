@@ -1,51 +1,27 @@
 ---
 title: "Regeling registratie en declaratie protonentherapie"
 identifier: "BWBR0051516"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051516"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17527393"
-version_id: "30926682"
-internal_id: "C44306921"
-label_id: "17429024"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051516/2026-01-01/0"
-intitule_bron: "Stcrt.2025-32303"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-09-16"
-intitule_published: "2025-09-24"
-intitule_in_force: "2025-09-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-32303"
-original_signed_date: "2025-09-16"
-original_published_date: "2025-09-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-32303"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0051516&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0051516&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "2025-09-16"
-entry_into_force: "2026-01-01"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0051516"
+opgehaald: 2026-09-09
 ---
-# Regeling registratie en declaratie protonentherapie
 
-Op grond van de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=35), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37) en [38 van de Wet marktordening gezondheidszorg (Wmg)](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38), alsmede de Beleidsregel prestaties en tarieven protonentherapie, stelt de Nederlandse Zorgautoriteit (NZa) de volgende regeling vast.
+# Regeling registratie en declaratie protonentherapie
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- a. **beleidsregel:** de Beleidsregel prestaties en tarieven protonentherapie.
+- a. *beleidsregel:* de Beleidsregel prestaties en tarieven protonentherapie.
 
-- b. **dbc-zorgproduct en overig zorgproduct voor protonentherapie:** een declarabele prestatie in het kader van protonentherapie.
+- b. *dbc-zorgproduct en overig zorgproduct voor protonentherapie:* een declarabele prestatie in het kader van protonentherapie.
 
-- c. **protonentherapie:** een vorm van radiotherapie, waarbij protonen uit waterstofkernen worden toegepast.
+- c. *protonentherapie:* een vorm van radiotherapie, waarbij protonen uit waterstofkernen worden toegepast.
 
 ##### Artikel 2. Doel van de regeling
 
@@ -61,9 +37,9 @@ De [Regeling medisch-specialistische zorg](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 5. Declaratiebepalingen
 
-1. Een zorgaanbieder als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051516&artikel=3&z=2026-01-01&g=2026-01-01) is slechts gerechtigd tot declaratie van een zorgproduct voor protonentherapie, indien aantoonbaar is voldaan aan voorschrift 1 van [Bijlage 3 behorend bij de Regeling protonentherapie](https://wetten.overheid.nl/jci1.3:c:BWBR0033728&bijlage=3) d.d. 29 juli 2013, kenmerk 129230-106270-CZ, van de Minister van Volksgezondheid, Welzijn en Sport, luidend:
+1. Een zorgaanbieder als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051516&artikel=3&z=2026-01-01&g=2026-01-01) is slechts gerechtigd tot declaratie van een zorgproduct voor protonentherapie, indien aantoonbaar is voldaan aan voorschrift 1 van [Bijlage 3 behorend bij de Regeling protonentherapie](https://wetten.overheid.nl/jci1.3:c:BWBR0033728&bijlage=3) d.d. 29 juli 2013, kenmerk 129230-106270-CZ, van de Minister van Volksgezondheid, Welzijn en Sport, luidend:
 
-“1. De vergunninghouder stelt samen met de andere vergunninghouders en de beroepsgroep landelijke uniforme indicatieprotocollen vast en hanteert deze protocollen bij de beoordeling of patiënten in aanmerking komen voor protonentherapie.”
+- “1. De vergunninghouder stelt samen met de andere vergunninghouders en de beroepsgroep landelijke uniforme indicatieprotocollen vast en hanteert deze protocollen bij de beoordeling of patiënten in aanmerking komen voor protonentherapie.”
 
 2. Wanneer binnen één bestralingsplan primair sprake is van een behandeling met protonentherapie, maar een combinatie van zowel protonen- als fotonentherapie medisch-inhoudelijk als voorkeursbehandeling wordt gezien, wordt uitsluitend een dbc-zorgproduct voor protonentherapie in rekening gebracht. De zorgactiviteiten behorende bij de fotonenbestraling worden in dat geval vastgelegd in het subtraject dat afleidt naar een dbc-zorgproduct voor protonentherapie.
 
@@ -93,8 +69,4 @@ De [Regeling registratie en declaratie protonentherapie](https://wetten.overheid
 
 ##### Artikel 8. Inwerkingtreding en citeertitel
 
-Deze regeling treedt in werking met ingang van 1 januari 2026.
-
-Ingevolge [artikel 5, aanhef en onder d, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), zal deze regeling met toelichting in de Staatscourant worden geplaatst. De regeling, inclusief toelichting, ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl/), alsmede op [www.wetten.nl](http://www.wetten.nl).
-
-Deze regeling wordt aangehaald als: “Regeling registratie en declaratie protonentherapie”.
+Deze regeling treedt in werking met ingang van 1 januari 2026.

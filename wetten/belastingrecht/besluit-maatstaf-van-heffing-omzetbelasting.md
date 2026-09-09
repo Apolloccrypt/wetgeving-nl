@@ -1,62 +1,58 @@
 ---
 title: "Besluit van de Staatssecretaris van Financiën van 29 september 2025, nr. 2025-23004 over de maatstaf van heffing voor de omzetbelasting (Besluit maatstaf van heffing omzetbelasting)"
+citeertitel: "Besluit maatstaf van heffing omzetbelasting"
 identifier: "BWBR0051568"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2025-10-07"
-last_updated: "2025-10-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051568"
+categorie: "Belastingrecht"
 soort: "beleidsregel"
-stam_id: "17539723"
-version_id: "30952802"
-internal_id: "C44335471"
-label_id: "17441484"
-dtd_version: "2.0"
-original_entry_into_force: "2025-10-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051568/2025-10-07/0"
-intitule_bron: "Stcrt.2025-33827"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-09-29"
-intitule_published: "2025-10-06"
-intitule_in_force: "2025-10-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-33827"
-original_signed_date: "2025-09-29"
-original_published_date: "2025-10-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-33827"
-entry_into_force_date: "2025-10-07"
-jci_1_3: "jci1.3:c:BWBR0051568&z=2025-10-07&g=2025-10-07"
-jci_1_0: "1.0:c:BWBR0051568&g=2025-10-07"
-citeertitel_status: "officieel"
-short_title: "Besluit maatstaf van heffing omzetbelasting"
-signed_date: "2025-09-29"
-entry_into_force: "2025-10-07"
+publicatiedatum: 2025-10-07
+laatste_update: 2025-10-07
+status: geldig
+toestand: 2025-10-07
+bron: "https://wetten.overheid.nl/BWBR0051568"
+opgehaald: 2026-09-09
 ---
+
 # Besluit van de Staatssecretaris van Financiën van 29 september 2025, nr. 2025-23004 over de maatstaf van heffing voor de omzetbelasting (Besluit maatstaf van heffing omzetbelasting)
 
-**De Staatssecretaris van Financiën,**
+*De Staatssecretaris van Financiën,*
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) en [artikel 8 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=8).
 
-**Besluit:**
+*Besluit:*
 
 ### 1. Inleiding
 
 Dit besluit bevat beleidsregels en goedkeuringen over de maatstaf van heffing voor de btw. De maatstaf van heffing is het bedrag waarover de belastingplichtige btw verschuldigd is. De maatstaf van heffing is in [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=8) opgenomen. Deze bepaling is nader uitgewerkt in de [artikelen 2 tot en met 5a van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=2) en de [artikelen 5 tot en met 5b van de uitvoeringsbeschikking](https://wetten.overheid.nl/jci1.3:c:BWBR0002634&artikel=5). Deze bepalingen vinden hun basis in de hoofdstukken 1, 2 en 5 van Titel VII van de btw-richtlijn.
 
-Het besluit vervangt en actualiseert het [besluit van 29 juni 2018, nr. BLKB 2018/84956](https://wetten.overheid.nl/jci1.3:c:BWBR0041125) (Stcrt. 2018, nr. 37763), laatstelijk gewijzigd bij besluit van 23 november 2020, nr. 2020-22956 (Stcrt. 2020, nr. 62745).
+Het besluit vervangt en actualiseert het [besluit van 29 juni 2018, nr. BLKB 2018/84956](https://wetten.overheid.nl/jci1.3:c:BWBR0041125) (Stcrt. 2018, nr. 37763), laatstelijk gewijzigd bij besluit van 23 november 2020, nr. 2020-22956 (Stcrt. 2020, nr. 62745).
 
 De wijzigingen betreffen:
 
+- – De toevoeging van een onderdeel over het gebruik van tank- of laadpassen bij de bevoorrading van vervoermiddelen met brandstof en elektriciteit;
+
+- – De verduidelijking dat de doorberekening van negatieve rente door een dienstverlener in bepaalde situaties geen onderdeel van de vergoeding vormt.
+
 ### 1.1. Gebruikte begrippen en afkortingen
+
+| Awr | Algemene wet inzake rijksbelastingen |
+| --- | --- |
+| bpm | Belasting van personenauto’s en motorrijwielen |
+| btw | Omzetbelasting |
+| btw-richtlijn | Richtlijn 2006/112/EG van de Raad van de Europese Unie van 28 november 2006 betreffende het gemeenschappelijke stelsel van belasting over de toegevoegde waarde (PbEG 2006, L 347) |
+| HvJ | Hof van Justitie van de Europese Unie |
+| uitvoeringsbeschikking | Uitvoeringsbeschikking omzetbelasting 1968 |
+| uitvoeringsbesluit: | Uitvoeringsbesluit omzetbelasting 1968 |
+| wet | Wet op de omzetbelasting 1968 |
 
 ### 2. Vergoeding
 
-De btw wordt berekend over de vergoeding ([artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=8)). De vergoeding is het totale bedrag dat voor de levering of de dienst wordt berekend, met uitzondering van de btw. Voor het kunnen aanmerken van een bedrag als vergoeding is noodzakelijk dat er een rechtstreeks verband bestaat tussen dit bedrag en een levering of dienst.1HvJ 22 november 2018, C-295/17 (MEO), ECLI:EU:C:2018:942, r.o. 39.
+De btw wordt berekend over de vergoeding ([artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=8)). De vergoeding is het totale bedrag dat voor de levering of de dienst wordt berekend, met uitzondering van de btw. Voor het kunnen aanmerken van een bedrag als vergoeding is noodzakelijk dat er een rechtstreeks verband bestaat tussen dit bedrag en een levering of dienst.1HvJ 22 november 2018, C-295/17 (MEO), ECLI:EU:C:2018:942, r.o. 39.
 
 Voorbeelden van een situatie waarin een rechtstreeks verband ontbreekt tussen een bedrag en enige prestatie zijn:
+
+- – de waarborgsom of de boete (al dan niet door middel van een bankgarantie) die de koper van een onroerende zaak ingevolge de (voorlopige) koopovereenkomst moet betalen en die de verkoper volgens die overeenkomst mag behouden als de koper niet voldoet aan zijn verplichtingen;
+
+- – de zogeheten voorrijkosten die aan de leverancier of dienstverrichter toekomen als de klant, ondanks de gemaakte afspraken, niet thuis is voor ontvangst van het goed of de dienst. De voorrijkosten worden alleen in rekening gebracht als de klant niet thuis blijkt te zijn.
 
 ### 3. Doorlopende posten of daarmee gelijk te stellen bedragen
 
@@ -66,9 +62,27 @@ Een doorlopende post is een betaling aan een derde die door de belastingplichtig
 
 Voorbeelden van situaties waar sprake is van doorlopende posten:
 
+- – overdrachtsbelasting die in naam en voor rekening van de koper van de onroerende zaak wordt betaald;
+
+- – btw die bij invoer in naam en voor rekening van de importeur wordt betaald door de douane-expediteur;
+
+- – bpm die door de importeur of dealer/handelaar wordt betaald bij inschrijving van de auto in naam en voor rekening van de koper van de auto;
+
+- – griffierechten (inclusief uitgaven voor legalisaties en apostilles) die in naam en voor rekening van de procespartij worden betaald;
+
+- – leges voor de toetsing van aangegane of gewijzigde pachtovereenkomsten door de Grondkamer die in naam en voor rekening van een derde worden betaald;
+
+- – rechten voor het deponeren en muteren van registraties van merken door het Benelux-Bureau voor de Intellectuele Eigendom die in naam en voor rekening van een derde worden betaald.
+
+Voorbeeld van een situatie waar geen sprake is van een doorlopende post
+
 Er is geen sprake is van een doorlopende post in geval van kosten van bezorging van goederen bij de klant, als de bezorging voor rekening en risico van de verkoper is. In dat geval maken die kosten deel uit van de vergoeding voor de door de verkoper verrichte prestaties.
 
+Doorlopende post en bpm
+
 Het komt voor dat voor nieuwe, voor de verkoop bestemde motorrijtuigen het belastbare feit voor de heffing van bpm plaatsvindt op een tijdstip dat de uiteindelijke koper van het motorrijtuig nog onbekend is. De bpm is dan verschuldigd in naam en voor rekening van dealers of handelaren. In een dergelijk geval vormt dit bedrag aan bpm bij de latere levering van dit motorrijtuig door die dealer/handelaar geen doorlopende post en is bij deze latere levering btw verschuldigd over de bpm die aan de koper wordt doorberekend. Dit acht ik onwenselijk omdat daardoor een ongelijk speelveld ontstaat met de levering van nieuwe auto’s die direct in naam en voor rekening van de koper worden geregistreerd, met auto’s die via parallelimport worden geleverd en de levering van gebruikte auto's. Om die reden keur ik het volgende goed.
+
+Goedkeuring
 
 Ik keur goed dat bij de levering door dealers/handelaren van nieuwe personenauto’s, motorrijwielen en bestelauto’s in de zin van de [Wet op de bpm 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806), waarvan verschuldigdheid van de bpm reeds in naam en voor rekening van die dealers/handelaren is ontstaan, dit bpm-bedrag voor de btw buiten de maatstaf van heffing blijft.
 
@@ -76,9 +90,19 @@ Ik keur goed dat bij de levering door dealers/handelaren van nieuwe personenauto
 
 In de praktijk doen zich ook situaties voor waarin een belastingplichtige betalingen verricht die voortvloeien uit een rechtsbetrekking tussen zijn opdrachtgever en een derde en waarbij over die kosten btw in rekening is gebracht. De belastingplichtige mag de op die kosten drukkende btw niet als voorbelasting in aftrek brengen als het doorlopende posten zijn. Niet hij maar de opdrachtgever is dan immers de afnemer van de prestatie. In de praktijk worden dergelijke doorlopende posten (inclusief de in rekening gebrachte btw) echter soms door de belastingplichtige behandeld als eigen ingekochte prestaties. De bedragen van die kosten en de daarop betrekking hebbende btw brengt de belastingplichtige voor dezelfde bedragen weer aan zijn opdrachtgever in rekening. Voor de toepassing van de btw wordt door deze behandeling eenzelfde resultaat behaald als bij rechtstreekse toerekening van de kosten aan de opdrachtgever, namelijk een btw-heffing bij de werkelijke afnemer van de prestatie tegen eenzelfde bedrag aan btw. Daarom keur ik op grond van [artikel 63 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) het volgende goed.
 
+Goedkeuring
+
 Ik keur onder de volgende voorwaarden goed dat een belastingplichtige de in naam en voor rekening van een opdrachtgever betaalde kosten als zijn eigen kosten aanmerkt en de daarover aan hem berekende btw als voorbelasting in aftrek brengt.
 
+Voorwaarden
+
 Voor deze goedkeuring gelden de volgende voorwaarden:
+
+- a. de belastingplichtige berekent de kosten voor hetzelfde bedrag en onder hetzelfde btw-regime door aan zijn opdrachtgever en voldoet de hierover verschuldigde btw op aangifte;
+
+- b. de belastingplichtige vermeldt de kosten afzonderlijk op de factuur aan de opdrachtgever; en
+
+- c. de belastingplichtige rekent het bedrag van deze kosten niet mee bij de vaststelling van zijn recht van aftrek op zijn algemene kosten.
 
 ### 3.3. Met doorlopende posten gelijk te stellen bedragen
 
@@ -86,11 +110,33 @@ Voor het verrichten of vastleggen van diverse (rechts)handelingen is de tussenko
 
 Het betreft de volgende kostenposten:
 
+- – uitgaven voor kadastrale rechten die verschuldigd zijn in relatie tot (wijzigingen in) diverse registers die het Kadaster bijhoudt;
+
+- – uitgaven in verband met een handelsnaamonderzoek in het kader van de [Handelsnaamwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001906) door de Kamer van Koophandel;
+
+- – uitgaven ten behoeve van een zeebrief, nationaliteitsverklaringen of meetbrief door de Inspectie Leefomgeving en Transport dan wel door een door de Inspectie erkend klassenbureau;
+
+- – uitgaven voor de afgifte van een bewijs van inschrijving van een vliegtuig in het Nederlandse Burgerluchtvaartregister door de Inspectie Leefomgeving en Transport;
+
+- – uitgaven voor het afnemen van theorie- en praktijkexamens (inclusief tussentijdse toetsen) voor motorvoertuigen, de verstrekking van Eigen verklaringen (benodigd voor afgifte Verklaring van geschiktheid) en examinerende, certificerende en toezichthoudende activiteiten op het vlak van de vakbekwaamheid van medewerkers in transport, personenvervoer en logistiek door het CBR. Het betreft de bedragen die door het CBR aan de rijopleider in rekening worden gebracht voor rekening van de (examen)kandidaat op wiens naam het examen c.q. de activiteit is gesteld en die vervolgens door de rijopleider aan deze (examen)kandidaat worden doorberekend.
+
 Om te voorkomen dat btw-heffing plaatsvindt over die – zonder btw in rekening gebrachte – bedragen, zouden de betreffende instellingen afrekeningen moeten maken op naam van de opdrachtgever van de belastingplichtige. Het opstellen van dergelijke afrekeningen kan voor die instellingen echter problematisch zijn en zal gepaard gaan met extra kosten. Om administratieve lastenverzwaring te voorkomen, verdient het de voorkeur aan te sluiten bij de bestaande praktijk en de facturering via de belastingplichtige te laten verlopen. Daarom keur ik op grond van [artikel 63 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) het volgende goed.
+
+Goedkeuring
 
 Ik keur onder de volgende voorwaarden goed dat de in dit onderdeel genoemde kosten buiten de heffing van btw blijven.
 
+Voorwaarden
+
 Voor deze goedkeuring gelden de volgende voorwaarden:
+
+- a. de kosten zijn zonder btw in rekening gebracht aan de belastingplichtige;
+
+- b. de belastingplichtige berekent de kosten door voor hetzelfde bedrag dat op grond van de van toepassing zijnde bepalingen en voorschriften is verschuldigd voor de verrichte handeling(en);
+
+- c. de belastingplichtige reikt een afrekening of factuur uit aan zijn opdrachtgever waarop deze kosten afzonderlijk worden vermeld; en
+
+- d. de belastingplichtige laat het bedrag van de doorbelaste kosten bij de vaststelling van zijn recht op aftrek buiten beschouwing.
 
 Onder de hiervóór genoemde voorwaarden geldt deze goedkeuring ook als de belastingplichtige ten behoeve van zijn opdrachtgever een derde inschakelt, waarbij die derde de kosten op eigen naam betaalt en vervolgens zonder btw doorberekent aan de opdrachtgever.
 
@@ -98,13 +144,13 @@ Uitgaven voor inlichtingenverstrekkingen door verschillende instanties (bijvoorb
 
 ### 3.4. Aankoop brandstof en elektriciteit voor motorvoertuigen met behulp van tank- en/of laadpassen
 
-In de praktijk worden door ondernemers (exploitant van de pas) tank- en/of laadpassen uitgegeven waarmee de houder van de pas (pashouder) bij een andere ondernemer (leverancier) brandstof en elektriciteit kan tanken of laden voor motorvoertuigen. De betaling van de brandstof of elektriciteit vindt plaats door de exploitant van de pas aan de leverancier. Deze kosten worden vervolgens door de exploitant doorberekend aan de pashouder. Het Hof van Justitie EU heeft in het arrest Digital Charging Solutions aangegeven dat dergelijke aankopen als leveringen van goederen kunnen worden aangemerkt als bedoeld in artikel 14, tweede lid, letter c, van de btw-richtlijn.2HvJ EU C-60/23 van 17 oktober 2024, ECLI:EU:C:2024:368, r.o. 38. Voorwaarden hiervoor zijn dat tussen de in die bepaling bedoelde commissionair en zijn opdrachtgever een overeenkomst is gesloten die een lastgeving meebrengt inzake de levering van brandstof of elektriciteit en dat de tussen partijen verrichte leveringen van goederen identieke goederen betreffen. Voor de volledigheid wordt nog gewezen naar guideline van het btw-comité no. 1068 van 6 september 2023. In voorkomende gevallen kan hierop een beroep worden gedaan.
+In de praktijk worden door ondernemers (exploitant van de pas) tank- en/of laadpassen uitgegeven waarmee de houder van de pas (pashouder) bij een andere ondernemer (leverancier) brandstof en elektriciteit kan tanken of laden voor motorvoertuigen. De betaling van de brandstof of elektriciteit vindt plaats door de exploitant van de pas aan de leverancier. Deze kosten worden vervolgens door de exploitant doorberekend aan de pashouder. Het Hof van Justitie EU heeft in het arrest Digital Charging Solutions aangegeven dat dergelijke aankopen als leveringen van goederen kunnen worden aangemerkt als bedoeld in artikel 14, tweede lid, letter c, van de btw-richtlijn.2HvJ EU C-60/23 van 17 oktober 2024, ECLI:EU:C:2024:368, r.o. 38. Voorwaarden hiervoor zijn dat tussen de in die bepaling bedoelde commissionair en zijn opdrachtgever een overeenkomst is gesloten die een lastgeving meebrengt inzake de levering van brandstof of elektriciteit en dat de tussen partijen verrichte leveringen van goederen identieke goederen betreffen. Voor de volledigheid wordt nog gewezen naar guideline van het btw-comité no. 1068 van 6 september 2023. In voorkomende gevallen kan hierop een beroep worden gedaan.
 
 Aangenomen wordt dat aan de voorwaarden van de commissionairsfictie wordt voldaan als uit de wijze van facturatie blijkt dat de exploitant van de pas als commissionair optreedt. Hiervan is sprake als voor de levering van brandstof of elektriciteit, de leverancier een factuur uitreikt aan de exploitant van de pas en de exploitant van de pas een factuur uitreikt aan de pashouder.
 
 Aan het voorgaande wordt niet afgedaan als de terbeschikkingstelling van de brandstof of elektriciteit door betrokkenheid van meer dan twee opeenvolgende leveranciers tot stand komt.
 
-Voor de overige btw-gevolgen van de levering van elektriciteit via laadpalen en het laden van elektrische voertuigen kan worden aangesloten bij de guideline van het btw-comité no. 1018 van 19 april 2021, punt 2 en punt 3.
+Voor de overige btw-gevolgen van de levering van elektriciteit via laadpalen en het laden van elektrische voertuigen kan worden aangesloten bij de guideline van het btw-comité no. 1018 van 19 april 2021, punt 2 en punt 3.
 
 ### 4. Andere bedragen
 
@@ -116,11 +162,15 @@ Indien de dienstverlener over de onder zich gehouden gelden rente ontvangt van d
 
 ### 4.2. Verkoop ‘vrij op naam’
 
-Bij een zogenoemde verkoop vrij op naam brengt de notaris kosten in rekening aan de verkoper. Deze kosten worden in beginsel gemaakt ten behoeve van de koper. Wanneer het kosten betreft zoals genoemd onder 3.3 (bijvoorbeeld de kosten voor kadastrale rechten) keur ik op grond van [artikel 63 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) het volgende goed.
+Bij een zogenoemde verkoop vrij op naam brengt de notaris kosten in rekening aan de verkoper. Deze kosten worden in beginsel gemaakt ten behoeve van de koper. Wanneer het kosten betreft zoals genoemd onder [3.3](https://wetten.overheid.nl/BWBR0051568) (bijvoorbeeld de kosten voor kadastrale rechten) keur ik op grond van [artikel 63 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) het volgende goed.
 
-Ik keur onder de volgende voorwaarde goed dat de kosten die de notaris bij een zogenoemde verkoop vrij op naam in rekening brengt aan de verkoper en die de verkoper vervolgens doorberekent aan de koper, ook bij de verkoper buiten de heffing van btw blijven als het betreft kosten als genoemd in onderdeel 3.3.
+Goedkeuring
 
-Voor deze goedkeuring zijn de voorwaarden genoemd in onderdeel 3.3 van overeenkomstige toepassing.
+Ik keur onder de volgende voorwaarde goed dat de kosten die de notaris bij een zogenoemde verkoop vrij op naam in rekening brengt aan de verkoper en die de verkoper vervolgens doorberekent aan de koper, ook bij de verkoper buiten de heffing van btw blijven als het betreft kosten als genoemd in [onderdeel 3.3](https://wetten.overheid.nl/BWBR0051568).
+
+Voorwaarde
+
+Voor deze goedkeuring zijn de voorwaarden genoemd in [onderdeel 3.3](https://wetten.overheid.nl/BWBR0051568) van overeenkomstige toepassing.
 
 ### 4.3. Geliquideerde kosten
 
@@ -130,6 +180,8 @@ In een gerechtelijke procedure kan één van de partijen worden veroordeeld tot 
 
 Met betrekking tot statiegeld voor retouremballage keur ik op grond van [artikel 63 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) het volgende goed.
 
+Goedkeuring
+
 Ik keur goed dat de kosten van de normale verpakking, waarvan bij terugzending aanspraak op terugbetaling bestaat, niet tot de vergoeding behoort.
 
 Dit is ook het geval als de terugzending van het verpakkingsmateriaal niet plaatsvindt.
@@ -138,13 +190,25 @@ Dit is ook het geval als de terugzending van het verpakkingsmateriaal niet plaat
 
 Het komt voor dat de rechter-commissaris aan een curator in een faillissement een honorarium toewijst dat hoger is dan het aanwezige boedelactief. Het honorarium is de vergoeding voor een prestatie van de curator waarover btw verschuldigd is. In geval van gehele of gedeeltelijke niet betaling van het honorarium bestaat in zoverre recht op teruggaaf van de berekende belasting. In dergelijke situaties kan toepassing van de normale regels tot een onevenredige lastenverzwaring leiden. Daarom keur ik op grond van [artikel 63 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) het volgende goed.
 
+Goedkeuring
+
 Ik keur onder de volgende voorwaarden goed dat de vergoeding van een curator in een faillissement wordt vastgesteld op het bedrag van het aanwezige boedelactief.
+
+Voorwaarden
 
 Voor deze goedkeuring gelden de volgende voorwaarden:
 
+- a. het honorarium is hoger dan het aanwezige boedelactief en wordt toegewezen door de rechter-commissaris; en
+
+- b. als de curator vanwege een uiteindelijk gebleken groter boedelactief nadien méér ontvangt dan door hem in eerste instantie in rekening is gebracht, is hij alsnog over het meerdere btw verschuldigd en dient hij ter zake een – eventueel tweede – factuur uit te reiken.
+
 Als de failliet geen aanspraak kan maken op aftrek van de door de curator in rekening te brengen btw, keur ik op grond van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) het volgende goed.
 
+Goedkeuring
+
 Ik keur onder de volgende voorwaarde goed dat de vergoeding van een curator in een faillissement wordt vastgesteld op 100/121e deel van het bedrag van het aanwezige boedelactief.
+
+Voorwaarde
 
 Voor deze goedkeuring geldt de voorwaarde dat de failliet geen aanspraak kan maken op aftrek van de door de curator in rekening te brengen btw.
 
@@ -160,9 +224,21 @@ Doordat een kredietbeperkingstoeslag bij tijdige betaling feitelijk kwalificeert
 
 Het uitreiken van aanvullende facturen stuit in bepaalde gevallen op bezwaren. Het gaat dan met name om de situatie waarin de kosten van het uitreiken van aanvullende facturen hoger zijn dan het bedrag van de terug te vragen btw. Om aan deze bezwaren tegemoet te komen keur ik op grond van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) het volgende goed.
 
+Goedkeuring
+
 Ik keur onder de volgende voorwaarden goed dat de btw slechts wordt voldaan over de daadwerkelijk ontvangen kredietbeperkingstoeslag.
 
+Voorwaarden
+
 Voor deze goedkeuring gelden de volgende voorwaarden:
+
+- a. de toeslag moet worden berekend over de vergoeding inclusief btw. Over de toeslag zelf wordt geen btw in rekening gebracht;
+
+- b. van de ontvangen kredietbeperkingstoeslag moet door de leverancier 9/109 of 21/121 deel aan btw worden voldaan, afhankelijk van het btw-tarief dat geldt voor de verrichte prestatie(s) op het moment dat de vergoeding in rekening wordt gebracht;
+
+- c. de ontvangen toeslagen moeten op een zodanige wijze in de administratie van de leverancier worden verwerkt dat de verschuldigde btw hierover op een eenvoudige wijze kan worden bepaald. Dit kan bijvoorbeeld door gebruik te maken van een grootboekrekening kredietbeperkingstoeslag. De wijze van administreren moet ook zodanig zijn dat kan worden bepaald aan welk btw-tarief de ontvangen toeslagen zijn onderworpen; en
+
+- d. de verschuldigde btw over de ontvangen kredietbeperkingstoeslag moet door de leverancier worden voldaan bij de aangifte over het tijdvak waarin de toeslag is ontvangen.
 
 Deze werkwijze heeft tot gevolg dat de afnemer van de prestatie geen recht heeft op aftrek van de btw die is begrepen in de kredietbeperkingstoeslag. Dit gevolg kan alleen worden vermeden door alsnog een aanvullende factuur uit te reiken waarop de kredietbeperkingstoeslag afzonderlijk in rekening wordt gebracht met de daarover verschuldigde btw.
 
@@ -172,9 +248,17 @@ In bepaalde branches zoals de horeca en taxibranche is het gebruikelijk om fooie
 
 Fooien die de belastingplichtige zelf ontvangt voor zijn dienstverlening behoren in beginsel tot de maatstaf van heffing. Voor het publiek kan het echter zijn dat geen onderscheid te onderkennen is tussen personeel van de belastingplichtige en een zelf meewerkende belastingplichtige. Daarom keur ik op grond van [artikel 63 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) het volgende goed.
 
+Goedkeuring
+
 Ik keur onder de volgende voorwaarden goed dat fooien verstrekt aan belastingplichtigen buiten de heffing van btw blijven.
 
+Voorwaarden
+
 Voor deze goedkeuring gelden de volgende voorwaarden:
+
+- a. de belastingplichtige hanteert binnen zijn bedrijfsuitoefening vaste prijzen inclusief bedieningsgeld voor zijn prestaties; en
+
+- b. de belastingplichtige werkt binnen een branche waar het gebruikelijk is dat fooien worden betaald.
 
 ### 6. Privéonttrekkingen en bedrijfsbeëindigingen
 
@@ -184,13 +268,17 @@ De aankoopprijs van het goed, de aankoopprijs van een soortgelijk goed of de kos
 
 Voor fictieve leveringen die kort na de aanschaf van het goed plaatsvinden, kan het vaststellen van de geactualiseerde aankoopprijs tot een onevenredige lastenverzwaring leiden. Daarom keur ik op grond van [artikel 63 AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) het volgende goed.
 
+Goedkeuring
+
 Ik keur onder de volgende voorwaarde goed, dat de historische aankoopprijs, exclusief btw, van een goed geldt als maatstaf van heffing voor de fictieve levering van [artikel 3, derde lid, onderdeel a of c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=3).
+
+Voorwaarde
 
 Voor deze goedkeuring geldt de voorwaarde dat de fictieve levering uiterlijk één jaar na aanschaf van het goed plaatsvindt.
 
 ### 7. Ingetrokken regeling
 
-Het [besluit van 29 juni 2018, nr. BLKB 2018/84956](https://wetten.overheid.nl/jci1.3:c:BWBR0041125) is ingetrokken op de datum van inwerkingtreding van dit besluit.
+Het [besluit van 29 juni 2018, nr. BLKB 2018/84956](https://wetten.overheid.nl/jci1.3:c:BWBR0041125) is ingetrokken op de datum van inwerkingtreding van dit besluit.
 
 ### 8. Inwerkingtreding
 

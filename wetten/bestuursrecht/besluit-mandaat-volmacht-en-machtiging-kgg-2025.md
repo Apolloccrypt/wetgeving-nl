@@ -1,22 +1,18 @@
 ---
-title: "Besluit mandaat, volmacht en machtiging KGG 2025"
+title: "Besluit van de Minister van Klimaat en Groene Groei van 15 december 2025, nr. WJZ/102572219, tot verlening van mandaat, volmacht en machtiging (Besluit mandaat, volmacht en machtiging KGG 2025)"
+citeertitel: "Besluit mandaat, volmacht en machtiging KGG 2025"
 identifier: "BWBR0051991"
-categorie: "Overig"
-publicatiedatum: 2026-07-16
-laatste_update: 2026-07-18
+categorie: "Milieu"
+soort: "ministeriele-regeling"
+publicatiedatum: 2025-12-19
+laatste_update: 2026-07-16
 status: geldig
+toestand: 2026-07-16
 bron: "https://wetten.overheid.nl/BWBR0051991"
+opgehaald: 2026-09-09
 ---
 
 # Besluit van de Minister van Klimaat en Groene Groei van 15 december 2025, nr. WJZ/102572219, tot verlening van mandaat, volmacht en machtiging (Besluit mandaat, volmacht en machtiging KGG 2025)
-
-Handelende met instemming van de Minister van Economische Zaken en de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur;
-
-Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1) en [artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3);
-
-Gezien de schriftelijke instemming van de volgende functionarissen van het Ministerie van Economische Zaken: de secretaris-generaal, de directeur-generaal Economie en Digitalisering, de directeur-generaal Bedrijfsleven en Innovatie, de directeur Bestuurlijke en Politieke Zaken, de directeur Europese en Internationale Zaken, de directeur Financieel-Economische Zaken, de directeur Wetgeving en Juridische Zaken, de directeur Toezicht Economische Veiligheid en Eigenaars- en Aandeelhoudersadvisering, de directeur Communicatie, de directeur Informatievoorziening en de directeur Mens en Organisatie; en van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur de directeur Bestuurlijke en Politieke Zaken en de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit;
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -24,35 +20,39 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Klimaat en Groene Groei;
+- a. *minister:* Minister van Klimaat en Groene Groei;
 
-- b. **secretaris-generaal:** secretaris-generaal van het Ministerie van Klimaat en Groene Groei;
+- b. *secretaris-generaal:* secretaris-generaal van het Ministerie van Klimaat en Groene Groei;
 
-- c. **directeur Financieel-Economische Zaken:** directeur Financieel-Economische Zaken van het Ministerie van Klimaat en Groene Groei;
+- c. *directeur Financieel-Economische Zaken:* directeur Financieel-Economische Zaken van het Ministerie van Klimaat en Groene Groei;
 
-- d. **hoofden van dienst:**
+- d. *hoofden van dienst:*
 
-  - 1°. de directeur Financieel-Economische Zaken;
+   - 1°. de directeur Financieel-Economische Zaken;
 
-  - 2°. de directeur-generaal Realisatie Groene Groei;
+   - 2°. de directeur-generaal Realisatie Groene Groei;
 
-  - 3°. de directeur-generaal Klimaat en Energie;
+   - 3°. de directeur-generaal Klimaat en Energie;
 
-  - 4°. de secretaris-directeur van de Wetenschappelijke Klimaatraad en de Raad voor Energie;
+   - 4°. de secretaris-directeur van de Wetenschappelijke Klimaatraad en de Raad voor Energie;
 
-  - 5°. de inspecteur-generaal der mijnen;
+   - 5°. de inspecteur-generaal der mijnen;
 
-- e. **directeur-generaal Rijksdienst voor Ondernemend Nederland:** directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken;
+- e. *directeur-generaal Rijksdienst voor Ondernemend Nederland:* directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken;
 
-- f. **inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit:** inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur;
+- f. *inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit:* inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur;
 
-- g. **P&O-aangelegenheden:** aangelegenheden op het gebied van personeel, organisatie en formatie en het daarmee samenhangende budget;
+- g. *P&O-aangelegenheden:* aangelegenheden op het gebied van personeel, organisatie en formatie en het daarmee samenhangende budget;
 
-- h. **CAO Rijk:** laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren, werkzaam binnen de sector Rijk.
+- h. *CAO Rijk:* laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren, werkzaam binnen de sector Rijk.
 
 ##### Artikel 2
 
-De organisatie van het Ministerie van Klimaat en Groene Groei wordt vastgesteld overeenkomstig de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&bijlage=1&z=2026-07-16&g=2026-07-16).
+De organisatie van het Ministerie van Klimaat en Groene Groei wordt vastgesteld overeenkomstig de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&bijlage=1&z=2026-07-16&g=2026-07-16).
+
+##### Artikel 2a
+
+Het in dit besluit ten aanzien van de minister bepaalde is van overeenkomstige toepassing voor de Staatssecretaris van Klimaat en Groene Groei.
 
 ##### Artikel 3
 
@@ -80,29 +80,29 @@ Mandaat, volmacht en machtiging in de zin van dit besluit heeft geen betrekking 
 
 1. Aan de secretaris-generaal wordt mandaat, volmacht en machtiging verleend voor:
 
-- a. aangelegenheden op het gebied van de ambtelijke leiding van al hetgeen het ministerie betreft, zoals nader omschreven in de toelichting bij het [koninklijk besluit van 18 oktober 1988, houdende regeling van de functie en verantwoordelijkheid van de secretaris-generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0004419) (Stb. 1988, 499);
+- a. aangelegenheden op het gebied van de ambtelijke leiding van al hetgeen het ministerie betreft, zoals nader omschreven in de toelichting bij het [koninklijk besluit van 18 oktober 1988, houdende regeling van de functie en verantwoordelijkheid van de secretaris-generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0004419) (Stb. 1988, 499);
 
 - b. het vaststellen van de werkterreinen van de hoofden van dienst;
 
 - c. aangelegenheden op het werkterrein van de hoofden van dienst:
 
-  - 1°. ten aanzien waarvan de secretaris-generaal in een incidenteel geval aan een hoofd van dienst mededeling heeft gedaan dat zij door hem zullen worden behandeld of;
+   - 1°. ten aanzien waarvan de secretaris-generaal in een incidenteel geval aan een hoofd van dienst mededeling heeft gedaan dat zij door hem zullen worden behandeld of;
 
-  - 2°. die door een hoofd van dienst aan de secretaris-generaal ter afhandeling worden voorgelegd, tenzij zij naar het oordeel van de secretaris-generaal door een ander hoofd van dienst moeten worden behandeld;
+   - 2°. die door een hoofd van dienst aan de secretaris-generaal ter afhandeling worden voorgelegd, tenzij zij naar het oordeel van de secretaris-generaal door een ander hoofd van dienst moeten worden behandeld;
 
 - d. het uitoefenen van bevoegdheden namens de Staat der Nederlanden in zijn hoedanigheid van aandeelhouder of die voortvloeien uit de zeggenschap over rechtspersonen;
 
 - e. het invulling geven aan de eigenaarsrol, voor zover hiervoor geen mandaat, volmacht en machtiging is verleend aan een hoofd van dienst, richting in ieder geval:
 
-  - 1°. het Centraal Orgaan Voorraadvorming Aardolieproducten;
+   - 1°. het Centraal Orgaan Voorraadvorming Aardolieproducten;
 
-  - 2°. de Nederlandse Emissieautoriteit;
+   - 2°. de Nederlandse Emissieautoriteit;
 
-  - 3°. het Staatstoezicht op de Mijnen;
+   - 3°. het Staatstoezicht op de Mijnen;
 
-  - 4°. de Wetenschappelijke Klimaatraad;
+   - 4°. de Wetenschappelijke Klimaatraad;
 
-  - 5°. de Raad voor Energie;
+   - 5° de Raad voor Energie;
 
 - f. aangelegenheden op het gebied van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), waaronder begrepen het nemen van beslissingen op bezwaarschriften;
 
@@ -112,9 +112,9 @@ Mandaat, volmacht en machtiging in de zin van dit besluit heeft geen betrekking 
 
 - i. aangelegenheden op het gebied van de Algemene verordening gegevensbescherming, waaronder begrepen het nemen van beslissingen op bezwaarschriften, voor zover niet behorend tot het werkterrein van een hoofd van dienst of voor zover niet binnen een redelijke termijn te achterhalen is welk hoofd van dienst verantwoordelijke is;
 
-- j. het in overeenstemming met de Minister van Binnenlandse Zaken en Koninkrijksrelaties op grond van [artikel 3, eerste lid, van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3) aanwijzen van functies, die de mogelijkheid bieden de nationale veiligheid te schaden als vertrouwensfunctie;
+- j. het in overeenstemming met de Minister van Binnenlandse Zaken en Koninkrijksrelaties op grond van [artikel 3, eerste lid, van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3) aanwijzen van functies, die de mogelijkheid bieden de nationale veiligheid te schaden als vertrouwensfunctie;
 
-- k. het afnemen van de eed of de belofte bij de indiensttreding van een werknemer bij het kerndepartement, bedoeld in [artikel 5, eerste lid, onderdeel c, van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=5);
+- k. het afnemen van de eed of de belofte bij de indiensttreding van een werknemer bij het kerndepartement, bedoeld in [artikel 5, eerste lid, onderdeel c, van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=5);
 
 - l. het vaststellen van interne circulaires;
 
@@ -132,29 +132,29 @@ Mandaat, volmacht en machtiging in de zin van dit besluit heeft geen betrekking 
 
 - s. het vertegenwoordigen van het ministerie in interdepartementale gremia, waaronder de Interdepartementale Commissie Bedrijfsvoering Rijksdienst en het CIO-beraad;
 
-- t. het zorg dragen voor aangelegenheden op het gebied van de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376), voor zover niet behorend tot een hoofd van dienst, waaronder het voor het gehele ministerie vaststellen van beheersregels als bedoeld in [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14) en het vaststellen van selectielijsten als bedoeld in [artikel 5, tweede lid, onderdeel b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5) en het stellen van beperkingen aan de openbaarheid van archiefbescheiden bij de overbrenging als bedoeld in [artikel 15 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);
+- t. het zorg dragen voor aangelegenheden op het gebied van de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376), voor zover niet behorend tot een hoofd van dienst, waaronder het voor het gehele ministerie vaststellen van beheersregels als bedoeld in [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14) en het vaststellen van selectielijsten als bedoeld in [artikel 5, tweede lid, onderdeel b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5) en het stellen van beperkingen aan de openbaarheid van archiefbescheiden bij de overbrenging als bedoeld in [artikel 15 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15);
 
 - u. het inschrijven in een machtigingenregister als bedoeld in het Afsprakenstelsel Elektronische Toegangsdiensten van: en hun machtigingenbeheerders;
 
-  - –. het kerndepartement, bedoeld in [paragraaf I, tweede lid, van de Bijlage Organisatie van het Ministerie van Economische Zaken bij het Besluit mandaat, volmacht en machtiging EZ 2025](onbekend);
+   - – het kerndepartement, bedoeld in [paragraaf I, tweede lid, van de Bijlage Organisatie van het Ministerie van Economische Zaken bij het Besluit mandaat, volmacht en machtiging EZ 2025](https://wetten.overheid.nl/BWBR0052019);
 
-  - –. het Staatstoezicht op de Mijnen;
+   - – het Staatstoezicht op de Mijnen;
 
 - v. het verstrekken van ketenmachtigingen als bedoeld in het Afsprakenstelsel Elektronische Toegangsdiensten door registratie in het machtigingenregister, op naam van het kerndepartement, van de buitendiensten, aan agentschappen of aan publiekrechtelijke of privaatrechtelijke rechtspersonen.
 
-2. Onder eigenaarsrol in de zin van het eerste lid, onderdeel e, wordt in ieder geval verstaan:
+2. Onder eigenaarsrol in de zin van het eerste lid, onderdeel e, wordt in ieder geval verstaan:
 
 - a. het toezien op de bedrijfsvoering van de organisatie binnen de planning- en controlcyclus, en
 
 - b. het uitoefenen van bevoegdheden:
 
-  - 1°. inzake de benoeming, goedkeuring van benoemingen, schorsing, ontslag en vergoeding van ambtenaren en andere personen in organen van rechtspersonen, zelfstandige bestuursorganen en colleges en commissies;
+   - 1°. inzake de benoeming, goedkeuring van benoemingen, schorsing, ontslag en vergoeding van ambtenaren en andere personen in organen van rechtspersonen, zelfstandige bestuursorganen en colleges en commissies;
 
-  - 2°. op grond van de organieke regelingen van rechtspersonen, de [Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429), de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495), de [Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159), de [Regeling agentschappen 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0050264), de [Aanwijzingen voor de Planbureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0031972) of de [Aanwijzingen inzake de rijksinspecties](https://wetten.overheid.nl/jci1.3:c:BWBR0037073).
+   - 2°. op grond van de organieke regelingen van rechtspersonen, de [Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429), de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495), de [Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159), de [Regeling agentschappen 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0050264), de [Aanwijzingen voor de Planbureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0031972) of de [Aanwijzingen inzake de rijksinspecties](https://wetten.overheid.nl/jci1.3:c:BWBR0037073).
 
 ##### Artikel 5
 
-1. Aan de hoofden van dienst wordt, voor zover van toepassing, ieder voor zich, mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, als bedoeld in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&bijlage=2&z=2026-07-16&g=2026-07-16) van dit besluit, waaronder begrepen de P&O-aangelegenheden van zijn dienst, met uitzondering van aangelegenheden waarvoor mandaat, volmacht en machtiging is verleend aan de secretaris-generaal of aan een ander hoofd van dienst.
+1. Aan de hoofden van dienst wordt, voor zover van toepassing, ieder voor zich, mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, als bedoeld in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&bijlage=2&z=2026-07-16&g=2026-07-16) van dit besluit, waaronder begrepen de P&O-aangelegenheden van zijn dienst, met uitzondering van aangelegenheden waarvoor mandaat, volmacht en machtiging is verleend aan de secretaris-generaal of aan een ander hoofd van dienst.
 
 2. Aan de hoofden van dienst wordt voorts, ieder voor zijn werkterrein, mandaat en machtiging verleend voor aangelegenheden inzake de benoeming, ontslag en vergoeding van leden van adviescommissies ter zake van subsidieverlening.
 
@@ -164,7 +164,7 @@ Mandaat, volmacht en machtiging in de zin van dit besluit heeft geen betrekking 
 
 1. Aan de directeur-generaal Realisatie Groene Groei wordt mandaat, volmacht en machtiging verleend voor het nemen van besluiten en het verrichten van overige handelingen die verband houden met:
 
-- a. de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168), het [Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394) en de [Mijnbouwregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468), met uitzondering van het nemen van besluiten, die krachtens [artikel 132 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=132) worden genomen en het verrichten van handelingen waarvoor in [artikel 7, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=7), mandaat, volmacht en machtiging wordt verleend aan de inspecteur-generaal der mijnen;
+- a. de [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168), het [Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394) en de [Mijnbouwregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468), met uitzondering van het nemen van besluiten, die krachtens [artikel 132 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=132) worden genomen en het verrichten van handelingen waarvoor in [artikel 7, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=7), mandaat, volmacht en machtiging wordt verleend aan de inspecteur-generaal der mijnen;
 
 - b. benoeming, schorsing, ontslag en vergoeding van de leden van de Mijnraad;
 
@@ -172,27 +172,27 @@ Mandaat, volmacht en machtiging in de zin van dit besluit heeft geen betrekking 
 
 2. Aan de directeur-generaal Realisatie Groene Groei wordt tevens mandaat, volmacht en machtiging verleend voor het nemen van besluiten en het verrichten van overige handelingen die verband houden met:
 
-[artikel 5.1 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), met uitzondering van [artikelen 4.1119](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1119), [4.1323](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1323), [4.1324](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1324), [4.1365](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1365), [4.1366](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1366), [6.47a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.47a) en [7.69 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.69) en [artikel 132 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=132).
+[artikel 5.1 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), met uitzondering van [artikelen 4.1119](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1119), [4.1323](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1323), [4.1324](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1324), [4.1365](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1365), [4.1366](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1366), [6.47a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.47a) en [7.69 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.69) en [artikel 132 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=132).
 
 ##### Artikel 7
 
 1. Aan de inspecteur-generaal der mijnen wordt mandaat, volmacht en machtiging verleend voor het nemen van besluiten en het verrichten van overige handelingen in verband met:
 
-- a. de [artikelen 50](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=50), en [51, derde lid, van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=51);
+- a. de [artikelen 50](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=50), en [51, derde lid, van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=51);
 
-- b. de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=22), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=30), [35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=35), [51, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=51), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=85), [88, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=88), [90](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=90), [91](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=91), [97](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=97), [99, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=99), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=101), [104, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=104), [111, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=111), [112, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=112), [113, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=113), en [161a, vierde lid, van het Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=161a);
+- b. de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=22), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=30), [35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=35), [51, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=51), [85](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=85), [88, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=88), [90](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=90), [91](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=91), [97](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=97), [99, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=99), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=101), [104, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=104), [111, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=111), [112, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=112), [113, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=113), en [161a, vierde lid, van het Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=161a);
 
-- c. de [Mijnbouwregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468), met uitzondering van de vergunningen bedoeld in [paragraaf 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&paragraaf=1.3);
+- c. de [Mijnbouwregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468), met uitzondering van de vergunningen bedoeld in [paragraaf 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&paragraaf=1.3);
 
-- d. [artikel 6.14 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=6.14);
+- d. [artikel 6.14 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=6.14);
 
-- e. de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=27) en [28 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=28);
+- e. de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=27) en [28 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=28);
 
-- f. de [artikelen 17.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=17.4), [17.10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=17.10), [17.12, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=17.12), [18.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.2), [18.2b, tweede lid, van de Wet Milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.2b) met betrekking tot mijnbouwwerken en windparken op zee;
+- f. de [artikelen 17.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=17.4), [17.10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=17.10), [17.12, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=17.12), [18.2](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.2), [18.2b, tweede lid, van de Wet Milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.2b) met betrekking tot mijnbouwwerken en windparken op zee;
 
-- g. de [artikelen 5.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.19), en [5.20, tweede lid, aanhef en onderdeel a, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.20), voor zover het de handhaving betreft van het bepaalde bij of krachtens de [artikelen 3.48](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.48), [3.74](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.74), en [3.79, onderdeel a, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.79) ten aanzien van onderwerpen die betrekking hebben op veiligheid in verband met gas.
+- g. de [artikelen 5.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.19), en [5.20, tweede lid, aanhef en onderdeel a, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.20), voor zover het de handhaving betreft van het bepaalde bij of krachtens de [artikelen 3.48](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.48), [3.74](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.74), en [3.79, onderdeel a, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.79) ten aanzien van onderwerpen die betrekking hebben op veiligheid in verband met gas.
 
-2. Aan de inspecteur-generaal der mijnen wordt tevens volmacht en machtiging verleend voor het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van feitelijke handelingen in verband met de [artikelen 4.1119](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1119), [4.1323](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1323), [4.1324](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1324), [4.1365](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1365), [4.1366](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1366), [6.47a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.47a) en [7.69 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.69) en [artikel 132 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=132).
+2. Aan de inspecteur-generaal der mijnen wordt tevens volmacht en machtiging verleend voor het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van feitelijke handelingen in verband met de [artikelen 4.1119](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1119), [4.1323](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1323), [4.1324](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1324), [4.1365](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1365), [4.1366](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1366), [6.47a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=6.47a) en [7.69 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=7.69) en [artikel 132 van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=132).
 
 3. Aan de inspecteur-generaal der mijnen wordt tevens mandaat, volmacht en machtiging verleend voor het behandelen van bezwaarschriften, waaronder begrepen het nemen van beslissingen op bezwaarschriften tegen besluiten die in ondermandaat zijn genomen door onder hem ressorterende medewerkers, en het instellen en het voeren van beroep, hoger beroep en voorlopige voorziening procedures die niet op personeelsaangelegenheden betrekking hebben.
 
@@ -256,19 +256,19 @@ Dit bericht is digitaal geaccordeerd en bevat daarom geen handtekening.
 
 1. De secretaris-generaal kan aan een hoofd van dienst binnen diens werkterrein ondermandaat en machtiging verlenen voor benoeming, schorsing, ontslag en vergoeding van ambtenaren en andere personen in organen van rechtspersonen, zelfstandige bestuursorganen, commissies en colleges.
 
-2. De secretaris-generaal kan aan de directeur, MT-leden en medewerkers van de directie Toezicht Economische Veiligheid en Eigenaars- en Aandeelhoudersadvisering ondermandaat, volmacht en machtiging verlenen voor aangelegenheden als bedoeld in [artikel 4, eerst lid, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=2&artikel=4&z=2026-07-16&g=2026-07-16). De directeur kan, voor zover nog van toepassing, ondermandaat, volmacht en machtiging verlenen voor deze aangelegenheden aan MT-leden en medewerkers binnen de directie.
+2. De secretaris-generaal kan aan de directeur, MT-leden en medewerkers van de directie Toezicht Economische Veiligheid en Eigenaars- en Aandeelhoudersadvisering ondermandaat, volmacht en machtiging verlenen voor aangelegenheden als bedoeld in [artikel 4, eerst lid, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=2&artikel=4&z=2026-07-16&g=2026-07-16). De directeur kan, voor zover nog van toepassing, ondermandaat, volmacht en machtiging verlenen voor deze aangelegenheden aan MT-leden en medewerkers binnen de directie.
 
 3. De secretaris-generaal kan voor wat betreft de bevoegdheden verband houdend met de rol van CIO ondermandaat, volmacht en machtiging verlenen aan de uitvoerend CIO.
 
 ##### Artikel 11
 
-De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=2&artikel=5&z=2026-07-16&g=2026-07-16), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=2&artikel=6&z=2026-07-16&g=2026-07-16) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=2&artikel=7&z=2026-07-16&g=2026-07-16), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
+De hoofden van dienst kunnen, ieder voor zich, voor hun werkterrein, voor aangelegenheden als bedoeld in de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=2&artikel=5&z=2026-07-16&g=2026-07-16), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=2&artikel=6&z=2026-07-16&g=2026-07-16) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=2&artikel=7&z=2026-07-16&g=2026-07-16), ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatieonderdelen of functionarissen betreft, aan de hoofden van die onderdelen en aan die functionarissen en aan hun plaatsvervangers.
 
 ##### Artikel 12
 
 1. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken.
 
-2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=4&artikel=11&z=2026-07-16&g=2026-07-16) wordt gezonden aan de secretaris-generaal, de directeur Wetgeving en Juridische Zaken, de directeur Financieel-Economische Zaken, de directeur Informatievoorziening, de directeur Mens en Organisatie en de Auditdienst Rijk.
+2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=4&artikel=11&z=2026-07-16&g=2026-07-16) wordt gezonden aan de secretaris-generaal, de directeur Wetgeving en Juridische Zaken, de directeur Financieel-Economische Zaken, de directeur Informatievoorziening, de directeur Mens en Organisatie en de Auditdienst Rijk.
 
 #### § 5. Vervanging
 
@@ -302,27 +302,27 @@ secretaris-generaal
 
 #### § 7. Mandaat, volmacht en machtiging aan niet-ondergeschikten
 
-#### § 7.1. Dienstonderdelen van het Ministerie van Economische Zaken die ook taken verrichten voor het Ministerie van Klimaat en Groene Groei
+##### § 7.1. Dienstonderdelen van het Ministerie van Economische Zaken die ook taken verrichten voor het Ministerie van Klimaat en Groene Groei
 
 ##### Artikel 15
 
-1. De directie Politieke en Bestuurlijke Zaken, de directie Europese en Internationale Zaken, de directie Financieel-Economische Zaken, de directie Wetgeving en Juridische Zaken, de directie Toezicht Economische Veiligheid en Eigenaars- en Aandeelhoudersadvisering, de directie Communicatie, de directie Informatievoorziening, de directie Mens en Organisatie en de programmadirectie Klaar voor de Toekomst verrichten, ieder voor zich, de aan hen opgedragen taken in het [Besluit mandaat, volmacht en machtiging EZ 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0052019) en de [bijlage Organisatie van het Ministerie van Economische Zaken](onbekend) ook voor het Ministerie van Klimaat en Groene Groei.
+1. De directie Politieke en Bestuurlijke Zaken, de directie Europese en Internationale Zaken, de directie Financieel-Economische Zaken, de directie Wetgeving en Juridische Zaken, de directie Toezicht Economische Veiligheid en Eigenaars- en Aandeelhoudersadvisering, de directie Communicatie, de directie Informatievoorziening, de directie Mens en Organisatie en de programmadirectie Klaar voor de Toekomst verrichten, ieder voor zich, de aan hen opgedragen taken in het [Besluit mandaat, volmacht en machtiging EZ 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0052019) en de [bijlage Organisatie van het Ministerie van Economische Zaken](https://wetten.overheid.nl/BWBR0052019) ook voor het Ministerie van Klimaat en Groene Groei.
 
-2. De directie Algemene Economische Politiek van het Ministerie van Economische Zaken verricht de aan haar opgedragen taken in het [Besluit mandaat, volmacht en machtiging EZ 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0052019) en de [bijlage Organisatie van het Ministerie van Economische Zaken](onbekend), voor zover van toepassing, ook voor het Ministerie van Klimaat en Groene Groei.
+2. De directie Algemene Economische Politiek van het Ministerie van Economische Zaken verricht de aan haar opgedragen taken in het [Besluit mandaat, volmacht en machtiging EZ 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0052019) en de [bijlage Organisatie van het Ministerie van Economische Zaken](https://wetten.overheid.nl/BWBR0052019), voor zover van toepassing, ook voor het Ministerie van Klimaat en Groene Groei.
 
-3. De directie Regio en Ruimte van het Ministerie van Economische Zaken verricht de aan haar opgedragen taken in het [Besluit mandaat, volmacht en machtiging EZ 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0052019) en de [bijlage Organisatie van het Ministerie van Economische Zaken](onbekend), voor zover van toepassing, ook voor het Ministerie van Klimaat en Groene Groei.
+3. De directie Regio en Ruimte van het Ministerie van Economische Zaken verricht de aan haar opgedragen taken in het [Besluit mandaat, volmacht en machtiging EZ 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0052019) en de [bijlage Organisatie van het Ministerie van Economische Zaken](https://wetten.overheid.nl/BWBR0052019), voor zover van toepassing, ook voor het Ministerie van Klimaat en Groene Groei.
 
-4. De Dienst ICT Uitvoering van het Ministerie van Economische Zaken en de Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken verrichten, ieder voor zich, de aan hen opgedragen taken in het [Besluit mandaat, volmacht en machtiging EZ 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0052019) en de [bijlage Organisatie van het Ministerie van Economische Zaken](onbekend), voor zover van toepassing, ook voor het Ministerie van Klimaat en Groene Groei.
+4. De Dienst ICT Uitvoering van het Ministerie van Economische Zaken en de Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken verrichten, ieder voor zich, de aan hen opgedragen taken in het [Besluit mandaat, volmacht en machtiging EZ 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0052019) en de [bijlage Organisatie van het Ministerie van Economische Zaken](https://wetten.overheid.nl/BWBR0052019), voor zover van toepassing, ook voor het Ministerie van Klimaat en Groene Groei.
 
-#### § 7.2. Dienstonderdelen van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur die ook taken verrichten voor het Ministerie van Klimaat en Groene Groei
+##### § 7.2. Dienstonderdelen van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur die ook taken verrichten voor het Ministerie van Klimaat en Groene Groei
 
 ##### Artikel 16
 
-1. De directie Bestuurlijke en Politieke Zaken van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur verricht de aan haar opgedragen taken in het [Besluit mandaat, volmacht en machtiging LNV 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041794) en de [bijlage](onbekend), voor zover van toepassing, ook voor het Ministerie van Klimaat en Groene Groei.
+1. De directie Bestuurlijke en Politieke Zaken van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur verricht de aan haar opgedragen taken in het [Besluit mandaat, volmacht en machtiging LNV 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041794) en de [bijlage](https://wetten.overheid.nl/BWBR0041794), voor zover van toepassing, ook voor het Ministerie van Klimaat en Groene Groei.
 
-2. De Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur verricht de aan haar opgedragen taken in het [Besluit mandaat, volmacht en machtiging LNV 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041794) en de [bijlage](onbekend), voor zover van toepassing, (ook) voor het Ministerie van Klimaat en Groene Groei.
+2. De Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur verricht de aan haar opgedragen taken in het [Besluit mandaat, volmacht en machtiging LNV 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041794) en de [bijlage](https://wetten.overheid.nl/BWBR0041794), voor zover van toepassing, (ook) voor het Ministerie van Klimaat en Groene Groei.
 
-#### § 7.3. Mandaat, volmacht en machtiging aan hoofden van dienst en andere functionarissen van het Ministerie van Economische Zaken
+##### § 7.3. Mandaat, volmacht en machtiging aan hoofden van dienst en andere functionarissen van het Ministerie van Economische Zaken
 
 ##### Artikel 17. DGED
 
@@ -392,7 +392,7 @@ Aan de directeur-generaal Bedrijfsleven en Innovatie van het Ministerie van Econ
 
 - s. het inhoudelijk, technisch en organisatorisch uitvoeren parlementaire enquêtes die het Ministerie van Economische Zaken betreffen.
 
-2. De coördinatie van de departementale crisisbeheersing, genoemd in het eerste lid, onderdeel p, wordt verricht door de directie Bestuurlijke en Politieke Zaken van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur.
+2. De coördinatie van de departementale crisisbeheersing, genoemd in het eerste lid, onderdeel p, wordt verricht door de directie Bestuurlijke en Politieke Zaken van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur.
 
 ##### Artikel 20. DEIZ
 
@@ -424,7 +424,7 @@ Aan de directeur Europese en Internationale Zaken van het Ministerie van Economi
 
 - m. opstellen van kaderinstructies voor raadswerkgroepen waar meerdere (beleids)directies bij zijn betrokken en het coördineren van ER-conclusies, Raadsconclusies, (internationale) non-papers en internationale verklaringen;
 
-- n. vertegenwoordigen van de Ministeries EZ en KGG in interdepartementale overleggen (SED, SED-p, Coria, BNC en landen IDO’s) en begeleiding bewindspersonen bij onderraden (CoCo, REA, RDINEV, NVR) op Europees en internationale vlak). Ook is DEIZ verantwoordelijk voor de coördinatie van de inbreng van EZ/KGG in Brussel in COREPER I en II (via PV-i);
+- n. vertegenwoordigen van de Ministeries EZ en KGG in interdepartementale overleggen (SED, SED-p, Coria, BNC en landen IDO’s) en begeleiding bewindspersonen bij onderraden (CoCo, REA, RDINEV, NVR) op Europees en internationale vlak). Ook is DEIZ verantwoordelijk voor de coördinatie van de inbreng van EZ/KGG in Brussel in COREPER I en II (via PV-i);
 
 - o. vervullen van wettelijk taken door de EZ/KGG-afdeling op de PVEU in Brussel als onderdeel van het Ministerie van Buitenlandse Zaken, namelijk de essentiële brug-, intelligence-, netwerk- en representatiefunctie tussen de verschillende departementen en de Europese instituties (Raad, Europese Commissie en Europees Parlement (EP). Daarnaast vertegenwoordigt DEIZ de belangen van zowel EZ als KGG in Brussel, zorgt voor invloed van de DG kolommen in Brussel. De PVEU organiseert, ontvangt en begeleidt bezoeken van directeuren, DG’s en de SG van EZ/KGG. De afdeling op de PVEU vervult hierbij een eigenstandige en complementaire rol.
 
@@ -438,15 +438,15 @@ Aan de directeur Europese en Internationale Zaken van het Ministerie van Economi
 
 - c. het behandelen van bezwaarschriften, waaronder begrepen het nemen van beslissingen op bezwaarschriften en het voeren van voorlopige voorziening procedures, met uitzondering van:
 
-  - 1°. het nemen van beslissingen op bezwaarschriften inzake de [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249), de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), de [Wet hergebruik van overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795) en de Algemene verordening gegevensbescherming, uitgezonderd beslissingen op bezwaarschriften inzake de in dit subonderdeel genoemde wetten waarin het bezwaar niet-ontvankelijk wordt verklaard;
+   - 1°. het nemen van beslissingen op bezwaarschriften inzake de [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249), de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), de [Wet hergebruik van overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795) en de Algemene verordening gegevensbescherming, uitgezonderd beslissingen op bezwaarschriften inzake de in dit subonderdeel genoemde wetten waarin het bezwaar niet-ontvankelijk wordt verklaard;
 
-  - 2°. het behandelen van bezwaarschriften en het voeren van voorlopige voorziening procedures over besluiten behorende tot het werkterrein van de inspecteur-generaal der mijnen;
+   - 2°. het behandelen van bezwaarschriften en het voeren van voorlopige voorziening procedures over besluiten behorende tot het werkterrein van de inspecteur-generaal der mijnen;
 
 - d. voor het voeren van beroep en hoger beroep, waaronder begrepen het instellen van beroep en hoger beroep en het voeren van voorlopige voorziening procedures, met uitzondering van deze procedures over:
 
-  - 1°. besluiten behorende tot het werkterrein van de inspecteur-generaal der mijnen;
+   - 1°. besluiten behorende tot het werkterrein van de inspecteur-generaal der mijnen;
 
-  - 2°. besluiten inzake personeelsaangelegenheden;
+   - 2°. besluiten inzake personeelsaangelegenheden;
 
 - e. het adviseren bij en het coördineren van de behandeling van klachten en verzoeken van de Nationale ombudsman;
 
@@ -562,13 +562,13 @@ Aan de directeur Informatievoorziening van het Ministerie van Economische Zaken 
 
 - r. het zorg dragen voor een actuele inschrijving van het Ministerie van Klimaat en Groene Groei in het handelsregister bij de Kamer van Koophandel;
 
-- s. het coördineren en het ontwerpen van de selectielijsten zoals bedoeld in [artikel 5, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5) voor het gehele ministerie;
+- s. het coördineren en het ontwerpen van de selectielijsten zoals bedoeld in [artikel 5, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5) voor het gehele ministerie;
 
 - t. het ondersteunen van de secretaris-generaal bij het zorgdragen voor een juiste en actuele inschrijving in een machtigingenregister als bedoeld in het Afsprakenstelsel Elektronische Toegangsdiensten van: en hun machtigingenbeheerders;
 
-  - –. het kerndepartement;
+   - – het kerndepartement;
 
-  - –. het Staatstoezicht op de Mijnen;
+   - – het Staatstoezicht op de Mijnen;
 
 - u. het ondersteunen van de secretaris-generaal bij het verstrekken van ketenmachtigingen als bedoeld in het Afsprakenstelsel Elektronische Toegangsdiensten door registratie in het machtigingenregister, op naam van het kerndepartement, de buitendiensten, aan agentschappen of aan publiekrechtelijke of privaatrechtelijke rechtspersonen.
 
@@ -616,7 +616,7 @@ Aan de programmadirecteur Klaar voor de Toekomst van het Ministerie van Economis
 
 - c. het versterken van procesvaardigheden en organiserend vermogen binnen het Ministerie van Economische Zaken en het Ministerie van Klimaat en Groene Groei;
 
-- d. het ondersteunen van de DG's, SG’s en pSG bij de inrichting van twee departementen, één werkorganisatie en de taakstelling via Programma Samen 1 (PS1).
+- d. het ondersteunen van de DG's, SG’s en pSG bij de inrichting van twee departementen, één werkorganisatie en de taakstelling via Programma Samen 1 (PS1).
 
 ##### Artikel 27. DICTU
 
@@ -634,7 +634,7 @@ Aan de algemeen directeur van de Dienst ICT Uitvoering van het Ministerie van Ec
 
 1. Aan de directeur-generaal Rijksdienst voor Ondernemend Nederland wordt, voor zover van toepassing, mandaat, volmacht en machtiging verleend voor:
 
-- a. het uitvoeren van de in de [Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118) en de in de [Wet van 28 oktober 1987, houdende regelen inzake de bescherming van oorspronkelijke topografieën van halfgeleiderprodukten](https://wetten.overheid.nl/jci1.3:c:BWBR0004224) genoemde taken;
+- a. het uitvoeren van de in de [Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118) en de in de [Wet van 28 oktober 1987, houdende regelen inzake de bescherming van oorspronkelijke topografieën van halfgeleiderprodukten](https://wetten.overheid.nl/jci1.3:c:BWBR0004224) genoemde taken;
 
 - b. het als nationaal voorportaal samenwerken met het Europees Octrooi Bureau ter bevordering van de kennisbescherming;
 
@@ -722,7 +722,7 @@ Aan de algemeen directeur van de Dienst ICT Uitvoering van het Ministerie van Ec
 
 5. Aan de directeur-generaal Rijksdienst voor Ondernemend Nederland wordt voorts volmacht en machtiging verleend voor het aangaan van verplichtingen inzake het verlenen van opdrachten aan externe juridische dienstverleners op zijn werkterrein.
 
-6. Aan de directeur-generaal Rijksdienst voor Ondernemend Nederland wordt tevens mandaat, volmacht en machtiging verleend voor het detacheren van functionarissen voor functies, waaronder schaal 15 of hoger, in het buitenland betreffende het Landbouw Attachénetwerk (LAN), experts nationaux détachés (END) bij de Europese Commissie, het Innovatie Attachénetwerk (IAN), het Netherlands Foreign Investment Agency (NFIA) en Internationale Organisaties.
+6. Aan de directeur-generaal Rijksdienst voor Ondernemend Nederland wordt tevens mandaat, volmacht en machtiging verleend voor het detacheren van functionarissen voor functies, waaronder schaal 15 of hoger, in het buitenland betreffende het Landbouw Attachénetwerk (LAN), experts nationaux détachés (END) bij de Europese Commissie, het Innovatie Attachénetwerk (IAN), het Netherlands Foreign Investment Agency (NFIA) en Internationale Organisaties.
 
 7. De directeur-generaal Rijksdienst voor Ondernemend Nederland kan aan de algemeen directeur van het Centraal Justitieel Incassobureau ondermandaat, volmacht en machtiging verlenen voor het uitvaardigen van dwangbevelen en de daaruit voortvloeiende uitvoering van executiegeschillen, en voor het treffen van betalingsregelingen. De directeur-generaal kan de algemeen directeur toestaan ondermandaat, volmacht en machtiging te verlenen aan één of meer onder hem ressorterende functionarissen.
 
@@ -730,7 +730,21 @@ Aan de algemeen directeur van de Dienst ICT Uitvoering van het Ministerie van Ec
 
 9. Aan de directeur-generaal Rijksdienst voor Ondernemend Nederland wordt volmacht en machtiging verleend voor het ter zake van het vorderen van schadevergoeding voegen als benadeelde partij in het strafproces in zaken die betrekking hebben op het werkterrein van de Rijksdienst voor Ondernemend Nederland.
 
-#### § 7.4. Mandaat, volmacht en machtiging aan hoofden van dienst en andere functionarissen van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur
+##### Artikel 28a. RDI
+
+Aan de inspecteur-generaal van de Rijksinspectie Digitale Infrastructuur wordt mandaat, volmacht en machtiging verleend voor:
+
+- a. het uitvoeren, het houden van toezicht op de naleving en de handhaving van het bepaalde bij of krachtens de [artikelen 2.46, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.46), voor zover het een aangeslotene met een kleine aansluiting betreft, [2.47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.47), [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.18), [3.53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.53), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=4.3), [4.4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=4.4), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=4.14), [4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=4.20), [4.21, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=4.21), [4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=4.22) en [7.28, zesde lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=7.28);
+
+- b. het uitvoeren van het bepaalde bij of krachtens de [artikelen 2.49](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.49), [3.61](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.16) en [4.4, derde en vierde lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=4.4) en [artikel 4.14, tweede lid, van het Energiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0051745&artikel=4.14) in samenhang met de artikelen 2.49, [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=4.3) en 4.4 van de Energiewet, en [artikel 5.7 van het Energiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0051745&artikel=5.7);
+
+- c. het uitvoeren van de artikelen 8, eerste, vijfde en tiende lid, voor zover dit de toepassing van artikelen 29 en 33 betreft, 17, 20, eerste en tweede lid, 25, 26, achtste lid, 27, 29, tweede lid, 30, eerste en tweede lid, 31, eerste en vijfde lid, 32, derde lid, 33, zesde lid, en 41, zestiende lid van Gedelegeerde Verordening (EU) 2024/1366 van de Commissie van 11 maart 2024 tot aanvulling van Verordening (EU) 2019/943 van het Europees Parlement en de Raad door middel van de vaststelling van een netcode inzake sectorspecifieke regels voor met cyberbeveiliging samenhangende aspecten van grensoverschrijdende elektriciteitsstromen;
+
+- d. het houden van toezicht op de naleving en de handhaving van de artikelen 15, eerste, tweede, derde en vijfde lid, 26, 27, 28, tweede en derde lid, 29, zesde lid, 30, eerste en tweede lid, 31, eerste, tweede, vierde en vijfde lid, 32, eerste en tweede lid, 33, derde, vierde en vijfde lid, 38, eerste, derde, vierde, zesde tot en met negende lid, 39, eerste, tweede en derde lid, 40, vierde lid, 41, vijfde, zesde, achtste, negende, tiende, dertiende tot en met zestiende lid, 43, eerste tot en met vierde lid, 44, eerste lid, 45, eerste tot en met vierde lid, 46, 47, eerste, tweede, vierde, vijfde, zesde en achtste lid, en 48, tiende lid, van Gedelegeerde Verordening (EU) 2024/1366 van de Commissie van 11 maart 2024 tot aanvulling van Verordening (EU) 2019/943 van het Europees Parlement en de Raad door middel van de vaststelling van een netcode inzake sectorspecifieke regels voor met cyberbeveiliging samenhangende aspecten van grensoverschrijdende elektriciteitsstromen;
+
+- e. het houden van toezicht op de naleving, bedoeld in artikel 68, eerste lid, van de Cyberbeveiligingswet en artikel 36, eerste lid, van de Wet weerbaarheid kritieke entiteiten, voor zover het de bevoegdheden betreft van de Minister van Klimaat en Groene Groei als de bevoegde autoriteit, alsmede de handhaving van deze artikelen.
+
+##### § 7.4. Mandaat, volmacht en machtiging aan hoofden van dienst en andere functionarissen van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur
 
 ##### Artikel 29
 
@@ -738,17 +752,23 @@ Aan de directeur Bestuurlijke en Politieke Zaken van het Ministerie van Landbouw
 
 ##### Artikel 30
 
-1. Aan de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit wordt mandaat, volmacht en machtiging verleend voor het uitvoering geven aan hetgeen in de [Verordening (EU) nr. 2017/1369](32017R1369) is bepaald ten aanzien van de handhavende maatregelen op het terrein van energie-etikettering.
+1. Aan de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit wordt mandaat, volmacht en machtiging verleend voor het uitvoering geven aan hetgeen in de Verordening (EU) nr. 2017/1369 is bepaald ten aanzien van de handhavende maatregelen op het terrein van energie-etikettering.
 
 2. Aan de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur wordt tevens mandaat, volmacht en machtiging verleend voor het voeren van de KGG brede regie en het zorg dragen van de opdrachtverstrekking en de uitvoering op het gebied van ‘specialties’ huisvesting, zoals inspectiekantoren, archiefopslag, laboratoria, waaronder begrepen het tekenen van de akte van ingebruikgeving met het Rijksvastgoedbedrijf, het bepalen van de huisvestingsbehoefte en het op basis van rijksbeleid sturen van behoeftestellers op regionale vestiging en volume op het gebied van huisvesting en huur van vastgoed met uitzondering van de pied-à-terres van de politieke top.
 
 3. Aan de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit wordt voorts mandaat, volmacht en machtiging verleend voor het verrichten van taken waaronder het verlenen van ontheffingen, het nemen van maatregelen en het doen van aanwijzingen op het terrein van de [Wet Implementatie EU-richtlijnen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672) en de daarmee samenhangende besluiten.
 
+##### § 7.5. Mandaat, volmacht en machtiging aan de directeur van het Nationaal Cybersecurity Centrum van het Ministerie van Justitie en Veiligheid
+
+##### Artikel 32a
+
+Aan de directeur van het Nationaal Cybersecurity Centrum van het Ministerie van Justitie en Veiligheid wordt mandaat, volmacht en machtiging verleend voor het uitvoeren van de artikelen 37, tweede tot en met vijfde, zevende en achtste lid, 38, derde, vijfde, zesde en negende lid, 39, eerste tot en met vierde lid, 42, eerste, tweede en derde lid en 46, zevende tot en met negende lid van Gedelegeerde Verordening (EU) 2024/1366 van de Commissie van 11 maart 2024 tot aanvulling van Verordening (EU) 2019/943 van het Europees Parlement en de Raad door middel van de vaststelling van een netcode inzake sectorspecifieke regels voor met cyberbeveiliging samenhangende aspecten van grensoverschrijdende elektriciteitsstromen.
+
 #### § 8. Ondermandaat, volmacht en machtiging aan functionarissen van het Ministerie van Economische Zaken en het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur
 
 ##### Artikel 31
 
-1. De directeur-generaal Bedrijfsleven en Innovatie, de directeur-generaal Economie en Digitalisering, directeur Politieke en Bestuurlijke Zaken, de directeur Europese en Internationale Zaken, de directeur Financieel-Economische Zaken, de directeur Wetgeving en Juridische Zaken, de directeur Toezicht Economische Veiligheid en Eigenaars- en Aandeelhoudersadvisering, de directeur Communicatie, de directeur Informatievoorziening, de directeur Mens en Organisatie, de inspecteur-generaal van de Rijksinspectie Digitale Infrastructuur en de programmadirecteur Klaar voor de Toekomst, allen hoofden van dienst van het Ministerie van Economische Zaken, kunnen, ieder voor zich, ondermandaat, volmacht en machtiging verlenen aan onder hen ressorterende functionarissen.
+1. De directeur-generaal Bedrijfsleven en Innovatie, de directeur-generaal Economie en Digitalisering, directeur Politieke en Bestuurlijke Zaken, de directeur Europese en Internationale Zaken, de directeur Financieel-Economische Zaken, de directeur Wetgeving en Juridische Zaken, de directeur Toezicht Economische Veiligheid en Eigenaars- en Aandeelhoudersadvisering, de directeur Communicatie, de directeur Informatievoorziening, de directeur Mens en Organisatie, de inspecteur-generaal van de Rijksinspectie Digitale Infrastructuur en de programmadirecteur Klaar voor de Toekomst, allen hoofden van dienst van het Ministerie van Economische Zaken, kunnen, ieder voor zich, ondermandaat, volmacht en machtiging verlenen aan onder hen ressorterende functionarissen.
 
 2. De ondermandaatbesluiten van de functionarissen genoemd in het eerste lid zijn van overeenkomstige toepassing op werkzaamheden die worden verricht voor het Ministerie van Klimaat en Groene Groei.
 
@@ -832,158 +852,14 @@ Een afschrift van dit besluit wordt gezonden aan de secretaris-generaal, de hoof
 
 ##### Artikel 37
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 augustus 2025.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 augustus 2025.
 
-2. Na de inwerkingtreding van dit besluit berusten de volgende besluiten op [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=4&artikel=11&z=2026-07-16&g=2026-07-16) van dit besluit:
+2. Na de inwerkingtreding van dit besluit berusten de volgende besluiten op [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=4&artikel=11&z=2026-07-16&g=2026-07-16) van dit besluit:
 
-- –. het [Besluit verlening ondermandaat, volmacht en machtiging voor secretariaat Wetenschappelijke Klimaatraad](https://wetten.overheid.nl/jci1.3:c:BWBR0048630), en
+- – het [Besluit verlening ondermandaat, volmacht en machtiging voor secretariaat Wetenschappelijke Klimaatraad](https://wetten.overheid.nl/jci1.3:c:BWBR0048630), en
 
-- –. het [Besluit mandaat, ondermandaat, volmacht en machtiging SodM 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0046579).
+- – het [Besluit mandaat, ondermandaat, volmacht en machtiging SodM 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0046579).
 
 ##### Artikel 38
 
 Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging KGG 2025.
-
-## Bijlage 1. Organisatie van het Ministerie van Klimaat en Groene Groei
-
-Het Ministerie van Klimaat en Groene Groei bestaat uit de secretaris-generaal en de directeur Financieel-Economische Zaken en het maakt gebruik van de met het Ministerie van Economische Zaken gedeelde werkorganisatie zoals opgenomen in de [Bijlage organisatie van het Ministerie van Economische Zaken bij het Besluit mandaat, volmacht en machtiging EZ 2025](onbekend). De werkorganisatie maakt daarmee organisatorisch onderdeel uit van het Ministerie van Economische Zaken.
-
-Hoewel de werkorganisatie beheersmatig is opgehangen binnen het Ministerie van Economische Zaken is de secretaris-generaal van het Ministerie van Klimaat en Groene Groei verantwoordelijk voor de sturing op de directeuren-generaal van het Ministerie van Klimaat en Groene Groei en op de stafdirecties WJZ, FEZ, DC, BPZ, IV en M&O waar het aangelegenheden betreft onder de politieke verantwoordelijkheid van de Minister van Klimaat en Groene Groei.
-
-De secretaris-generaal heeft tot taak de aangelegenheden, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=2&artikel=4&z=2025-12-19&g=2026-02-23) van dit besluit. Onder de secretaris-generaal ressorteert de directeur Financieel-Economische Zaken. De directeur Financieel-Economische Zaken heeft tot taak de aangelegenheden genoemd in [paragraaf III van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&bijlage=2&z=2025-12-19&g=2026-02-23) bij dit besluit.
-
-## Bijlage 1. Organisatie van het Ministerie van Klimaat en Groene Groei
-
-Het Ministerie van Klimaat en Groene Groei bestaat uit de secretaris-generaal en de directeur Financieel-Economische Zaken en het maakt gebruik van de met het Ministerie van Economische Zaken gedeelde werkorganisatie zoals opgenomen in de [Bijlage organisatie van het Ministerie van Economische Zaken bij het Besluit mandaat, volmacht en machtiging EZ 2025](onbekend). De werkorganisatie maakt daarmee organisatorisch onderdeel uit van het Ministerie van Economische Zaken.
-
-Hoewel de werkorganisatie beheersmatig is opgehangen binnen het Ministerie van Economische Zaken is de secretaris-generaal van het Ministerie van Klimaat en Groene Groei verantwoordelijk voor de sturing op de directeuren-generaal van het Ministerie van Klimaat en Groene Groei en op de stafdirecties WJZ, FEZ, DC, BPZ, IV en M&O waar het aangelegenheden betreft onder de politieke verantwoordelijkheid van de Minister van Klimaat en Groene Groei.
-
-De secretaris-generaal heeft tot taak de aangelegenheden, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=2&artikel=4&z=2026-03-26&g=2026-03-26) van dit besluit. Onder de secretaris-generaal ressorteert de directeur Financieel-Economische Zaken. De directeur Financieel-Economische Zaken heeft tot taak de aangelegenheden genoemd in [paragraaf III van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&bijlage=2&z=2026-03-26&g=2026-03-26) bij dit besluit.
-
-### I. Het directoraat-generaal Realisatie Groene Groei (DGRGG)
-
-### I. Het directoraat-generaal Realisatie Groene Groei (DGRGG)
-
-### A. Algemeen
-
-### B. De directie Transitie Diepe Ondergrond (TDO)
-
-### I. Het directoraat-generaal Realisatie Groene Groei (DGRGG)
-
-### A. Algemeen
-
-### B. De directie Transitie Diepe Ondergrond (TDO)
-
-### C. De directie Verduurzaming Industrie (VI)
-
-### D. De directie Realisatie Energietransitie (RE)
-
-### E. Het programma Aanpak Netcongestie (binnen directie Realisatie Energietransitie)
-
-### F. Het project Delta Rijn Corridor (binnen directie Realisatie Energietransitie)
-
-### II. Het directoraat-generaal Klimaat en Energie (DGKE)
-
-### A. Algemeen
-
-### B. De directie Strategie Energiesysteem (SE)
-
-### C. De directie Energiemarkt (EM)
-
-### D. De directie Klimaat (K)
-
-### E. De directie Kernenergie (KE)
-
-### F. De projectorganisatie Nucleaire Energie Organisatie Nederland (NEO NL)
-
-### G. Het cluster Algemene Zaken (AZ)
-
-Dit besluit zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 28a. RDI
-
-Aan de inspecteur-generaal van de Rijksinspectie Digitale Infrastructuur wordt mandaat, volmacht en machtiging verleend voor:
-
-- a. het uitvoeren, het houden van toezicht op de naleving en de handhaving van het bepaalde bij of krachtens de [artikelen 2.46, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.46), voor zover het een aangeslotene met een kleine aansluiting betreft, [2.47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.47), [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.18), [3.53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.53), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=4.3), [4.4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=4.4), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=4.14), [4.20](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=4.20), [4.21, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=4.21), [4.22](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=4.22) en [7.28, zesde lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=7.28);
-
-- b. het uitvoeren van het bepaalde bij of krachtens de [artikelen 2.49](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.49), [3.61](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.16) en [4.4, derde en vierde lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=4.4) en [artikel 4.14, tweede lid, van het Energiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0051745&artikel=4.14) in samenhang met de artikelen 2.49, [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=4.3) en 4.4 van de Energiewet, en [artikel 5.7 van het Energiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0051745&artikel=5.7);
-
-- c. het uitvoeren van de artikelen 8, eerste, vijfde en tiende lid, voor zover dit de toepassing van artikelen 29 en 33 betreft, 17, 20, eerste en tweede lid, 25, 26, achtste lid, 27, 29, tweede lid, 30, eerste en tweede lid, 31, eerste en vijfde lid, 32, derde lid, 33, zesde lid, en 41, zestiende lid van Gedelegeerde [Verordening (EU) 2024/1366](32024R1366) van de Commissie van 11 maart 2024 tot aanvulling van [Verordening (EU) 2019/943](32019R0943) van het Europees Parlement en de Raad door middel van de vaststelling van een netcode inzake sectorspecifieke regels voor met cyberbeveiliging samenhangende aspecten van grensoverschrijdende elektriciteitsstromen;
-
-- d. het houden van toezicht op de naleving en de handhaving van de artikelen 15, eerste, tweede, derde en vijfde lid, 26, 27, 28, tweede en derde lid, 29, zesde lid, 30, eerste en tweede lid, 31, eerste, tweede, vierde en vijfde lid, 32, eerste en tweede lid, 33, derde, vierde en vijfde lid, 38, eerste, derde, vierde, zesde tot en met negende lid, 39, eerste, tweede en derde lid, 40, vierde lid, 41, vijfde, zesde, achtste, negende, tiende, dertiende tot en met zestiende lid, 43, eerste tot en met vierde lid, 44, eerste lid, 45, eerste tot en met vierde lid, 46, 47, eerste, tweede, vierde, vijfde, zesde en achtste lid, en 48, tiende lid, van Gedelegeerde [Verordening (EU) 2024/1366](32024R1366) van de Commissie van 11 maart 2024 tot aanvulling van [Verordening (EU) 2019/943](32019R0943) van het Europees Parlement en de Raad door middel van de vaststelling van een netcode inzake sectorspecifieke regels voor met cyberbeveiliging samenhangende aspecten van grensoverschrijdende elektriciteitsstromen;
-
-- e. het houden van toezicht op de naleving, bedoeld in artikel 68, eerste lid, van de Cyberbeveiligingswet en artikel 36, eerste lid, van de Wet weerbaarheid kritieke entiteiten, voor zover het de bevoegdheden betreft van de Minister van Klimaat en Groene Groei als de bevoegde autoriteit, alsmede de handhaving van deze artikelen.
-
-#### § 7.4. Mandaat, volmacht en machtiging aan hoofden van dienst en andere functionarissen van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur
-
-#### § 8. Ondermandaat, volmacht en machtiging aan functionarissen van het Ministerie van Economische Zaken en het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur
-
-#### § 8. Ondermandaat, volmacht en machtiging aan functionarissen van het Ministerie van Economische Zaken en het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur
-
-#### § 9. Instructies aan niet-ondergeschikten
-
-## Bijlage 2
-
-### III. De directie Financieel-Economische Zaken (FEZ)
-
-Dit besluit zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-Het in dit besluit ten aanzien van de minister bepaalde is van overeenkomstige toepassing voor de Staatssecretaris van Klimaat en Groene Groei.
-
-#### § 2. Mandaat, volmacht en machtiging aan ondergeschikten
-
-#### § 3. Instructies
-
-#### § 4. Ondermandaat
-
-#### § 5. Vervanging
-
-#### § 6. Ondertekening bij afwezigheid minister
-
-#### § 7. Mandaat, volmacht en machtiging aan niet-ondergeschikten
-
-#### § 7.1. Dienstonderdelen van het Ministerie van Economische Zaken die ook taken verrichten voor het Ministerie van Klimaat en Groene Groei
-
-#### § 7.2. Dienstonderdelen van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur die ook taken verrichten voor het Ministerie van Klimaat en Groene Groei
-
-#### § 7.3. Mandaat, volmacht en machtiging aan hoofden van dienst en andere functionarissen van het Ministerie van Economische Zaken
-
-#### § 7.4. Mandaat, volmacht en machtiging aan hoofden van dienst en andere functionarissen van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur
-
-#### § 8. Ondermandaat, volmacht en machtiging aan functionarissen van het Ministerie van Economische Zaken en het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur
-
-#### § 9. Instructies aan niet-ondergeschikten
-
-#### § 10. Overgangs- en slotbepalingen
-
-## Bijlage 2
-
-### IV. Het secretariaat van de Wetenschappelijke Klimaatraad en de Raad voor Energie
-
-Dit besluit zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
-
-#### § 7.5. Mandaat, volmacht en machtiging aan de directeur van het Nationaal Cybersecurity Centrum van het Ministerie van Justitie en Veiligheid
-
-##### Artikel 32a
-
-Aan de directeur van het Nationaal Cybersecurity Centrum van het Ministerie van Justitie en Veiligheid wordt mandaat, volmacht en machtiging verleend voor het uitvoeren van de artikelen 37, tweede tot en met vijfde, zevende en achtste lid, 38, derde, vijfde, zesde en negende lid, 39, eerste tot en met vierde lid, 42, eerste, tweede en derde lid en 46, zevende tot en met negende lid van Gedelegeerde [Verordening (EU) 2024/1366](32024R1366) van de Commissie van 11 maart 2024 tot aanvulling van [Verordening (EU) 2019/943](32019R0943) van het Europees Parlement en de Raad door middel van de vaststelling van een netcode inzake sectorspecifieke regels voor met cyberbeveiliging samenhangende aspecten van grensoverschrijdende elektriciteitsstromen.
-
-#### § 10. Overgangs- en slotbepalingen
-
-## Bijlage 1. Organisatie van het Ministerie van Klimaat en Groene Groei
-
-Het Ministerie van Klimaat en Groene Groei bestaat uit de secretaris-generaal en de directeur Financieel-Economische Zaken en het maakt gebruik van de met het Ministerie van Economische Zaken gedeelde werkorganisatie zoals opgenomen in de [Bijlage organisatie van het Ministerie van Economische Zaken bij het Besluit mandaat, volmacht en machtiging EZ 2025](onbekend). De werkorganisatie maakt daarmee organisatorisch onderdeel uit van het Ministerie van Economische Zaken.
-
-Hoewel de werkorganisatie beheersmatig is opgehangen binnen het Ministerie van Economische Zaken is de secretaris-generaal van het Ministerie van Klimaat en Groene Groei verantwoordelijk voor de sturing op de directeuren-generaal van het Ministerie van Klimaat en Groene Groei en op de stafdirecties WJZ, FEZ, DC, BPZ, IV en M&O waar het aangelegenheden betreft onder de politieke verantwoordelijkheid van de Minister van Klimaat en Groene Groei.
-
-De secretaris-generaal heeft tot taak de aangelegenheden, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&paragraaf=2&artikel=4&z=2026-07-16&g=2026-07-16) van dit besluit. Onder de secretaris-generaal ressorteert de directeur Financieel-Economische Zaken. De directeur Financieel-Economische Zaken heeft tot taak de aangelegenheden genoemd in [paragraaf III van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051991&bijlage=2&z=2026-07-16&g=2026-07-16) bij dit besluit.
-
-## Bijlage 2
-
-### V. Het Staatstoezicht op de mijnen
-
-### VI. De Dienst Nederlandse Emissieautoriteit
-
-Dit besluit zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.

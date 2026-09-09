@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 1 december 2025, tot vaststelling van een kader houdende de instelling en toepassing van de Algemene Beveiligingseisen voor Rijksoverheidsopdrachten (ABRO 2026) (Kaderbesluit ABRO Rijksdienst)"
+citeertitel: "Kaderbesluit ABRO Rijksdienst"
 identifier: "BWBR0051910"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051910"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "17660783"
-version_id: "31158542"
-internal_id: "C44582081"
-label_id: "17560284"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051910/2026-01-01/0"
-intitule_bron: "Stcrt.2025-39538"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-12-01"
-intitule_published: "2025-12-03"
-intitule_in_force: "2025-12-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-39538"
-original_signed_date: "2025-12-01"
-original_published_date: "2025-12-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-39538"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0051910&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0051910&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Kaderbesluit ABRO Rijksdienst"
-signed_date: "2025-12-01"
-entry_into_force: "2026-01-01"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0051910"
+opgehaald: 2026-09-09
 ---
+
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 1 december 2025, tot vaststelling van een kader houdende de instelling en toepassing van de Algemene Beveiligingseisen voor Rijksoverheidsopdrachten (ABRO 2026) (Kaderbesluit ABRO Rijksdienst)
-
-Handelend in overeenstemming met het gevoelen van de ministerraad en gelet op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=2) en [6, eerste lid, van het Coördinatiebesluit organisatie, bedrijfsvoering en informatiesystemen rijksdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=6) en
-
-Handelend na overleg met de korpschef;
-
-besluit:
 
 #### § 1. Algemeen
 
@@ -48,13 +20,13 @@ besluit:
 
 In dit besluit wordt verstaan onder:
 
-- **ABRO-voorschrift:** het voorschrift Algemene Beveiligingseisen voor Rijksoverheidsopdrachten, als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051910&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), ook omschreven als ‘ABRO 2026’;
+- *ABRO-voorschrift:* het voorschrift Algemene Beveiligingseisen voor Rijksoverheidsopdrachten, als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051910&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), ook omschreven als ‘ABRO 2026’;
 
-- **Bijzondere opdracht:** een overheidsopdracht die raakt aan de nationale veiligheid, verstrekt aan een civiele partij als Opdrachtnemer, waarbij een Te Beschermen Belang betrokken is.
+- *Bijzondere opdracht:* een overheidsopdracht die raakt aan de nationale veiligheid, verstrekt aan een civiele partij als Opdrachtnemer, waarbij een Te Beschermen Belang betrokken is.
 
-- **NBIV:** Het Nationaal Bureau Industrieveiligheid als genoemd in [artikel 2 van de Regeling Nationaal Bureau Industrieveiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0050897&artikel=2);
+- *NBIV:* Het Nationaal Bureau Industrieveiligheid als genoemd in [artikel 2 van de Regeling Nationaal Bureau Industrieveiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0050897&artikel=2);
 
-- **Te beschermen belang:** Personen, informatie, Systemen, materieel, goederen, imago en objecten, waarbij in geval van Compromittatie, of de mogelijkheid van Compromittatie, nadelige gevolgen, of een risico daarop, kan ontstaan voor de Vertrouwelijkheid, Beschikbaarheid en Integriteit van de primaire processen van de Rijksoverheid, delen daarvan of voor andere belangen van de Staat, van zijn bondgenoten of van één of meer ministeries. Te Beschermen Belangen zijn ingedeeld in een viertal categorieën (TBB 1 tot en met TBB 4, waarbij TBB 1 de zwaarst te beveiligen categorie is).
+- *Te beschermen belang:* Personen, informatie, Systemen, materieel, goederen, imago en objecten, waarbij in geval van Compromittatie, of de mogelijkheid van Compromittatie, nadelige gevolgen, of een risico daarop, kan ontstaan voor de Vertrouwelijkheid, Beschikbaarheid en Integriteit van de primaire processen van de Rijksoverheid, delen daarvan of voor andere belangen van de Staat, van zijn bondgenoten of van één of meer ministeries. Te Beschermen Belangen zijn ingedeeld in een viertal categorieën (TBB 1 tot en met TBB 4, waarbij TBB 1 de zwaarst te beveiligen categorie is).
 
 In dit besluit wordt een aantal begrippen met een hoofdletter aangeduid. Aan deze begrippen komt de betekenis toe die hieraan in dit artikel wordt toegekend. Begrippen in dit besluit, met een hoofdletter aangeduid, die niet in dit artikel worden genoemd, hebben de betekenis die daaraan wordt toegekend in de ABRO 2026.
 

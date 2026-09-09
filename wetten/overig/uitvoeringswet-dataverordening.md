@@ -1,58 +1,29 @@
 ---
 title: "Wet van 29 oktober 2025 tot uitvoering van Verordening (EU) 2023/2854 van het Europees Parlement en de Raad van 13 december 2023 betreffende geharmoniseerde regels inzake eerlijke toegang tot en eerlijk gebruik van data en tot wijziging van Verordening (EU) 2017/2394 en Richtlijn (EU) 2020/1828 (Dataverordening) (Uitvoeringswet dataverordening) [KetenID WGK014687]"
+citeertitel: "Uitvoeringswet dataverordening"
 identifier: "BWBR0051796"
-country: "nl"
-rank: "wet"
-publication_date: "2025-11-21"
-last_updated: "2025-11-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051796"
+categorie: "Overig"
 soort: "wet"
-stam_id: "17608253"
-version_id: "31087232"
-internal_id: "C44506511"
-label_id: "17508694"
-dtd_version: "2.0"
-original_entry_into_force: "2025-11-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051796/2025-11-21/0"
-intitule_bron: "Stb.2025-372"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-10-29"
-intitule_published: "2025-11-20"
-intitule_in_force: "2025-11-20"
-intitule_status: "goed"
-original_publication: "Stb.2025-372"
-original_signed_date: "2025-10-29"
-original_published_date: "2025-11-20"
-original_effect: "nieuwe-regeling"
-original_dossier: "36733"
-original_url_id: "stb-2025-372"
-entry_into_force_date: "2025-11-21"
-entry_into_force_dossier: "36733"
-jci_1_3: "jci1.3:c:BWBR0051796&z=2025-11-21&g=2025-11-21"
-jci_1_0: "1.0:c:BWBR0051796&g=2025-11-21"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringswet dataverordening"
-signed_date: "2025-10-29"
-entry_into_force: "2025-11-21"
+publicatiedatum: 2025-11-21
+laatste_update: 2025-11-21
+status: geldig
+toestand: 2025-11-21
+bron: "https://wetten.overheid.nl/BWBR0051796"
+opgehaald: 2026-09-09
 ---
+
 # Wet van 29 oktober 2025 tot uitvoering van Verordening (EU) 2023/2854 van het Europees Parlement en de Raad van 13 december 2023 betreffende geharmoniseerde regels inzake eerlijke toegang tot en eerlijk gebruik van data en tot wijziging van Verordening (EU) 2017/2394 en Richtlijn (EU) 2020/1828 (Dataverordening) (Uitvoeringswet dataverordening) [KetenID WGK014687]
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is regels te stellen ter uitvoering van [Verordening (EU) 2023/2854](32023R2854) van het Europees Parlement en de Raad van 13 december 2023 betreffende geharmoniseerde regels inzake eerlijke toegang tot en eerlijk gebruik van data en tot wijziging van [Verordening (EU) 2017/2394](32017R2394) en [Richtlijn (EU) 2020/1828](32020L1828) (Dataverordening);
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1. Begripsbepaling
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **Autoriteit Consument en Markt:** Autoriteit Consument en Markt als bedoeld in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
+- *Autoriteit Consument en Markt:* Autoriteit Consument en Markt als bedoeld in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
 
-- **Autoriteit persoonsgegevens:** Autoriteit persoonsgegevens als bedoeld in [artikel 6, eerste lid, van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=6);
+- *Autoriteit persoonsgegevens:* Autoriteit persoonsgegevens als bedoeld in [artikel 6, eerste lid, van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=6);
 
-- **dataverordening:** [Verordening (EU) 2023/2854](32023R2854) van het Europees Parlement en de Raad van 13 december 2023 betreffende geharmoniseerde regels inzake eerlijke toegang tot en eerlijk gebruik van data en tot wijziging van [Verordening (EU) 2017/2394](32017R2394) en [Richtlijn (EU) 2020/1828](32020L1828) (Dataverordening).
+- *dataverordening:*
+ Verordening (EU) 2023/2854 van het Europees Parlement en de Raad van 13 december 2023 betreffende geharmoniseerde regels inzake eerlijke toegang tot en eerlijk gebruik van data en tot wijziging van Verordening (EU) 2017/2394 en Richtlijn (EU) 2020/1828 (Dataverordening).
 
 ##### Artikel 2. Geschillenbeslechtingsorgaan
 
@@ -90,7 +61,7 @@ De Autoriteit Consument en Markt is de datacoördinator, bedoeld in artikel 37, 
 
 3. In afwijking van het eerste lid zijn met het toezicht op de naleving van artikel 6, eerste lid, van de dataverordening voor zover het de verwerking van persoonsgegevens betreft belast de leden en buitengewone leden van de Autoriteit persoonsgegevens, de ambtenaren van het secretariaat van de Autoriteit persoonsgegevens, alsmede de bij besluit van de Autoriteit persoonsgegevens aangewezen personen.
 
-4. Het eerste lid is niet van toepassing op inbreuken of inbreuken binnen de Unie als bedoeld in [artikel 1 van de Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=1.1) ten aanzien van de bepalingen van de dataverordening genoemd in onderdeel a van de [bijlage bij die wet](onbekend).
+4. Het eerste lid is niet van toepassing op inbreuken of inbreuken binnen de Unie als bedoeld in [artikel 1 van de Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=1.1) ten aanzien van de bepalingen van de dataverordening genoemd in onderdeel a van de [bijlage bij die wet](https://wetten.overheid.nl/BWBR0020586).
 
 5. Het eerste en tweede lid zijn niet van toepassing ten aanzien van gedragingen van de Europese Commissie, de Europese Centrale Bank of organen van de Unie als bedoeld in artikel 2, onderdeel 27, van de dataverordening.
 
@@ -122,32 +93,30 @@ De Autoriteit Consument en Markt is de datacoördinator, bedoeld in artikel 37, 
 
 3. De te betalen geldsom van een verbeurde dwangsom krachtens het tweede lid, onderdeel a, en de bestuurlijke boete, bedoeld in het tweede lid, onderdeel b, komt toe aan de Staat.
 
-4. Het eerste lid is niet van toepassing op inbreuken of inbreuken binnen de Unie als bedoeld in [artikel 1 van de Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=1.1) ten aanzien van de bepalingen van de dataverordening genoemd in onderdeel a van de [bijlage bij die wet](onbekend).
+4. Het eerste lid is niet van toepassing op inbreuken of inbreuken binnen de Unie als bedoeld in [artikel 1 van de Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=1.1) ten aanzien van de bepalingen van de dataverordening genoemd in onderdeel a van de [bijlage bij die wet](https://wetten.overheid.nl/BWBR0020586).
 
 5. Het eerste en tweede lid zijn niet van toepassing ten aanzien van gedragingen van de Europese Commissie, de Europese Centrale Bank of organen van de Unie als bedoeld in artikel 2, onderdeel 27, van de dataverordening.
 
-##### Artikel 9. Wijziging [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+##### Artikel 9. Wijziging Algemene wet bestuursrecht
 
-Wijzigt de Algemene wet bestuursrecht.
+*Wijzigt de Algemene wet bestuursrecht.*
 
-##### Artikel 10. Wijziging [Databankenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010591)
+##### Artikel 10. Wijziging Databankenwet
 
-Wijzigt de Databankenwet.
+*Wijzigt de Databankenwet.*
 
-##### Artikel 11. Wijziging [Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586)
+##### Artikel 11. Wijziging Wet handhaving consumentenbescherming
 
-Wijzigt de Wet handhaving consumentenbescherming.
+*Wijzigt de Wet handhaving consumentenbescherming.*
 
-##### Artikel 12. Wijziging [Wet hergebruik overheidsinformatie](https://wetten.overheid.nl/jci1.3:c:BWBR0036795)
+##### Artikel 12. Wijziging Wet hergebruik overheidsinformatie
 
-Wijzigt de Wet hergebruik van overheidsinformatie.
+*Wijzigt de Wet hergebruik van overheidsinformatie.*
 
 ##### Artikel 13. Inwerkingtreding
 
-Deze wet treedt in werking met ingang van 12 september 2025. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 11 september 2025, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
+Deze wet treedt in werking met ingang van 12 september 2025. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 11 september 2025, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
 ##### Artikel 14. Citeertitel
 
 Deze wet wordt aangehaald als: Uitvoeringswet dataverordening.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

@@ -8,7 +8,7 @@ laatste_update: 2026-08-02
 status: geldig
 toestand: 2026-08-02
 bron: "https://wetten.overheid.nl/BWBV0002513"
-opgehaald: 2026-09-08
+opgehaald: 2026-09-09
 ---
 
 # Overeenkomst inzake luchtvervoer tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Verenigde Staten van Amerika, anderzijds

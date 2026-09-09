@@ -1,63 +1,41 @@
 ---
 title: "Werkwijze DNB inzien en kopiëren van digitale gegevens"
 identifier: "BWBR0052013"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-12-23"
-last_updated: "2025-12-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052013"
+categorie: "Digitaal en privacy"
 soort: "zbo"
-stam_id: "17690363"
-version_id: "31217902"
-internal_id: "C44652581"
-label_id: "17589354"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052013/2025-12-23/0"
-intitule_bron: "Stcrt.2025-43234"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-12-03"
-intitule_published: "2025-12-22"
-intitule_in_force: "2025-12-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-43234"
-original_signed_date: "2025-12-03"
-original_published_date: "2025-12-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-43234"
-entry_into_force_date: "2025-12-23"
-jci_1_3: "jci1.3:c:BWBR0052013&z=2025-12-23&g=2025-12-23"
-jci_1_0: "1.0:c:BWBR0052013&g=2025-12-23"
-citeertitel_status: "redactioneel"
-signed_date: "2025-12-03"
-entry_into_force: "2025-12-23"
+publicatiedatum: 2025-12-23
+laatste_update: 2025-12-23
+status: geldig
+toestand: 2025-12-23
+bron: "https://wetten.overheid.nl/BWBR0052013"
+opgehaald: 2026-09-09
 ---
+
 # Werkwijze DNB inzien en kopiëren van digitale gegevens
 
 ##### Artikel 1. – Definitiebepalingen
 
-- **Awb:** de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
+- *Awb:* de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
 
-- **Digitale gegevens:** elektronische gegevens waarover het Onderzoekssubject beschikt of kan beschikken.
+- *Digitale gegevens:* elektronische gegevens waarover het Onderzoekssubject beschikt of kan beschikken.
 
-- **Functionaris Verschoningsrecht:** een door een directielid van De Nederlandsche Bank (DNB) aangewezen persoon die niet als IT-Specialist of als Onderzoeker bij toezichtonderzoeken betrokken is of zal zijn, maar onafhankelijk, met technische ondersteuning van de IT-Specialist, het geprivilegieerde karakter van de door het Onderzoekssubject als zodanig geclaimde gegevens toetst.
+- *Functionaris Verschoningsrecht:* een door een directielid van De Nederlandsche Bank (DNB) aangewezen persoon die niet als IT-Specialist of als Onderzoeker bij toezichtonderzoeken betrokken is of zal zijn, maar onafhankelijk, met technische ondersteuning van de IT-Specialist, het geprivilegieerde karakter van de door het Onderzoekssubject als zodanig geclaimde gegevens toetst.
 
-- **Geprivilegieerde gegevens:** Digitale gegevens die zijn gewisseld tussen een Onderzoekssubject en diens advocaat1Waar in de definitiebepaling advocaat staat kan ook arts, notaris of geestelijke gelezen worden. in die hoedanigheid. De gegevens worden als geprivilegieerd aangemerkt wanneer de advocaat zich ten aanzien van die gegevens zou kunnen beroepen op het verschoningsrecht zoals vastgelegd in [artikel 5:20, tweede lid, Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) en hij over die gegevens kan beschikken.
+- *Geprivilegieerde gegevens:* Digitale gegevens die zijn gewisseld tussen een Onderzoekssubject en diens advocaat1Waar in de definitiebepaling advocaat staat kan ook arts, notaris of geestelijke gelezen worden. in die hoedanigheid. De gegevens worden als geprivilegieerd aangemerkt wanneer de advocaat zich ten aanzien van die gegevens zou kunnen beroepen op het verschoningsrecht zoals vastgelegd in [artikel 5:20, tweede lid, Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) en hij over die gegevens kan beschikken.
 
-- **Geschoonde gegevens:** Digitale gegevens zoals veiliggesteld en gekopieerd door de IT-Specialist waarvan Geprivilegieerde- en/of Privégegevens zijn uitgesloten.
+- *Geschoonde gegevens:* Digitale gegevens zoals veiliggesteld en gekopieerd door de IT-Specialist waarvan Geprivilegieerde- en/of Privégegevens zijn uitgesloten.
 
-- **IT-Specialist:** een toezichthouder in de zin van [artikel 5:11 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11) die niet betrokken is bij de inhoudelijke uitvoering van het toezichtonderzoek, maar belast is met het proces van identificeren, veiligstellen, kopiëren en verwerken van Digitale gegevens, waaronder het technisch voorbereiden dan wel uitvoeren van de Schoning.
+- *IT-Specialist:* een toezichthouder in de zin van [artikel 5:11 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11) die niet betrokken is bij de inhoudelijke uitvoering van het toezichtonderzoek, maar belast is met het proces van identificeren, veiligstellen, kopiëren en verwerken van Digitale gegevens, waaronder het technisch voorbereiden dan wel uitvoeren van de Schoning.
 
-- **Onderzoeker:** een toezichthouder in de zin van [artikel 5:11 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11) die het toezichtonderzoek uitvoert.
+- *Onderzoeker:* een toezichthouder in de zin van [artikel 5:11 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11) die het toezichtonderzoek uitvoert.
 
-- **Onderzoekssubject:** de natuurlijke persoon of rechtspersoon die betrokken is bij activiteiten waarop door DNB wordt toegezien ingevolge de wettelijke regeling op grond waarvan zij als toezichthouder belast is.
+- *Onderzoekssubject:* de natuurlijke persoon of rechtspersoon die betrokken is bij activiteiten waarop door DNB wordt toegezien ingevolge de wettelijke regeling op grond waarvan zij als toezichthouder belast is.
 
-- **Privégegevens:** Digitale gegevens en bescheiden van niet-zakelijke aard die betrekking hebben op de privésituatie. [Artikel 5:17 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) is hierop niet van toepassing.
+- *Privégegevens:* Digitale gegevens en bescheiden van niet-zakelijke aard die betrekking hebben op de privésituatie. [Artikel 5:17 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) is hierop niet van toepassing.
 
-- **Schonen / Schoning:** het uitsluiten van Geprivilegieerde- en/of Privégegevens uit de verzameling van veiliggestelde en gekopieerde digitale gegevens.
+- *Schonen / Schoning:* het uitsluiten van Geprivilegieerde- en/of Privégegevens uit de verzameling van veiliggestelde en gekopieerde digitale gegevens.
 
-- **Werkwijze:** de Werkwijze DNB inzien en kopiëren van digitale gegevens.
+- *Werkwijze:* de Werkwijze DNB inzien en kopiëren van digitale gegevens.
 
 ##### Artikel 2. – Identificeren, veiligstellen en kopiëren van Digitale gegevens
 
@@ -119,11 +97,11 @@ entry_into_force: "2025-12-23"
 
 - a. Daarbij hanteert de Onderzoeker een zoekstrategie die gebaseerd is op zoektermen.
 
-- i. De zoektermen vinden hun oorsprong in het doel van het toezichtonderzoek.
+   - i. De zoektermen vinden hun oorsprong in het doel van het toezichtonderzoek.
 
-- ii. Bij het verrichten van de zoekacties op basis van de zoektermen, kan gebruik worden gemaakt van technische middelen5Hierbij kan worden gedacht aan ‘predictive coding’ en andere vormen van ‘technology assisted review’. om het zoeken efficiënter te laten verlopen.
+   - ii. Bij het verrichten van de zoekacties op basis van de zoektermen, kan gebruik worden gemaakt van technische middelen5Hierbij kan worden gedacht aan ‘predictive coding’ en andere vormen van ‘technology assisted review’. om het zoeken efficiënter te laten verlopen.
 
-- iii. Het Onderzoekssubject kan aan de Onderzoeker verzoeken om een toelichting op de gehanteerde zoekstrategie. Deze toelichting wordt verstrekt nadat de Onderzoeker de gerichte zoekacties heeft afgerond.
+   - iii. Het Onderzoekssubject kan aan de Onderzoeker verzoeken om een toelichting op de gehanteerde zoekstrategie. Deze toelichting wordt verstrekt nadat de Onderzoeker de gerichte zoekacties heeft afgerond.
 
 - b. Indien Geschoonde gegevens, gezien het doel van het toezichtonderzoek, in hun totaliteit relevant kunnen zijn6Hierbij kan worden gedacht aan toezichtonderzoek op basis van controledossiers (Wta) en cliëntdossiers (Wwft)., dan zijn de bepalingen onder lid a niet van toepassing.
 
@@ -143,7 +121,7 @@ entry_into_force: "2025-12-23"
 
 ##### Artikel 7. – Intrekking eerdere Werkwijze
 
-De ‘Werkwijze DNB inzien en kopiëren van digitale gegevens’, gepubliceerd in de Staatscourant van 22 juni 2020 (Staatscourant 2020, nr. 32814), wordt ingetrokken.
+De ‘Werkwijze DNB inzien en kopiëren van digitale gegevens’, gepubliceerd in de Staatscourant van 22 juni 2020 (Staatscourant 2020, nr. 32814), wordt ingetrokken.
 
 ##### Artikel 8. – Inwerkingtreding
 

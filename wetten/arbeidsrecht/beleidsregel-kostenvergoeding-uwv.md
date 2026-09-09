@@ -4,11 +4,11 @@ identifier: "BWBR0028578"
 categorie: "Overig"
 soort: "zbo"
 publicatiedatum: 2010-10-01
-laatste_update: 2024-05-07
+laatste_update: 2026-09-08
 status: geldig
-toestand: 2024-05-07
+toestand: 2026-09-08
 bron: "https://wetten.overheid.nl/BWBR0028578"
-opgehaald: 2026-08-16
+opgehaald: 2026-09-09
 ---
 
 # Beleidsregel kostenvergoeding UWV
@@ -39,7 +39,7 @@ In dit besluit wordt verstaan onder:
 
 1. Reiskosten komen voor vergoeding in aanmerking indien de reisafstand van woonadres naar de plaats van oproeping vijftien kilometer of meer bedraagt. Bij een reisafstand van minder dan vijftien kilometer worden reiskosten niet vergoed.
 
-2. De vergoeding voor reiskosten bij een reisafstand van vijftien kilometer of meer bedraagt het bedrag per afgelegde kilometer, genoemd in [artikel 31a, tweede lid, onderdeel a, onder 3°, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a), ongeacht de wijze van vervoer. Het totaal aantal kilometers dat voor vergoeding in aanmerking komt wordt vastgesteld door het aantal kilometers van de reisafstand te vermenigvuldigen met twee en de uitkomst naar boven af te ronden op gehele kilometers.
+2. De vergoeding voor reiskosten bij een reisafstand van vijftien kilometer of meer bedraagt € 0,23 per afgelegde kilometer, ongeacht de wijze van vervoer. Het totaal aantal kilometers dat voor vergoeding in aanmerking komt wordt vastgesteld door het aantal kilometers van de reisafstand te vermenigvuldigen met twee en de uitkomst naar boven af te ronden op gehele kilometers.
 
 3. De reisafstand van het woonadres naar de plaats van oproeping wordt vastgesteld aan de hand van een algemeen erkende en aanvaarde routeplanner.
 

@@ -1,42 +1,18 @@
 ---
 title: "Besluit van de Autoriteit Persoonsgegevens van 23 september 2025, betreffende het Bestuursreglement Autoriteit Persoonsgegevens"
+citeertitel: "Bestuursreglement Autoriteit Persoonsgegevens"
 identifier: "BWBR0051561"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-10-04"
-last_updated: "2025-10-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051561"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "17538443"
-version_id: "30950032"
-internal_id: "C44332471"
-label_id: "17440114"
-dtd_version: "2.0"
-original_entry_into_force: "2025-10-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051561/2025-10-04/0"
-intitule_bron: "Stcrt.2025-33333"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-09-23"
-intitule_published: "2025-10-03"
-intitule_in_force: "2025-10-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-33333"
-original_signed_date: "2025-09-23"
-original_published_date: "2025-10-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-33333"
-entry_into_force_date: "2025-10-04"
-jci_1_3: "jci1.3:c:BWBR0051561&z=2025-10-04&g=2025-10-04"
-jci_1_0: "1.0:c:BWBR0051561&g=2025-10-04"
-citeertitel_status: "officieel"
-short_title: "Bestuursreglement Autoriteit Persoonsgegevens"
-signed_date: "2025-09-23"
-entry_into_force: "2025-10-04"
+publicatiedatum: 2025-10-04
+laatste_update: 2025-10-04
+status: geldig
+toestand: 2025-10-04
+bron: "https://wetten.overheid.nl/BWBR0051561"
+opgehaald: 2026-09-09
 ---
-# Besluit van de Autoriteit Persoonsgegevens van 23 september 2025, betreffende het Bestuursreglement Autoriteit Persoonsgegevens
 
-besluit
+# Besluit van de Autoriteit Persoonsgegevens van 23 september 2025, betreffende het Bestuursreglement Autoriteit Persoonsgegevens
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -44,17 +20,18 @@ besluit
 
 In dit bestuursreglement wordt verstaan onder:
 
-- –. **verordening:** [verordening (EU) 2016/679](32016R0679) van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van [Richtlijn 95/46/EG](31995L0046) (algemene verordening gegevensbescherming) (PbEU 2016, L 119);
+- – *verordening:*
+ verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming) (PbEU 2016, L 119);
 
-- –. **Autoriteit Persoonsgegevens:** de Autoriteit persoonsgegevens, zoals ingesteld op grond van [artikel 6 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=6);
+- – *Autoriteit Persoonsgegevens:* de Autoriteit persoonsgegevens, zoals ingesteld op grond van [artikel 6 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=6);
 
-- –. **voorzitter:** lid, tevens voorzitter van de Autoriteit Persoonsgegevens;
+- – *voorzitter:* lid, tevens voorzitter van de Autoriteit Persoonsgegevens;
 
-- –. **lid:** lid van de Autoriteit Persoonsgegevens;
+- – *lid:* lid van de Autoriteit Persoonsgegevens;
 
-- –. **buitengewoon lid:** lid dat door de AP is benoemd in de zin van [artikel 7, tweede lid, van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=7);
+- – *buitengewoon lid:* lid dat door de AP is benoemd in de zin van [artikel 7, tweede lid, van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=7);
 
-- –. **raad:** Raad van advies bedoeld in [artikel 7, negende lid, van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=7).
+- – *raad:* Raad van advies bedoeld in [artikel 7, negende lid, van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=7).
 
 ### Hoofdstuk 2. Inrichting en besluitvorming
 
@@ -96,7 +73,7 @@ De Autoriteit Persoonsgegevens stelt de hoofdlijnen van de organisatie van het s
 
 3. Tot de vergadering hebben toegang de voorzitter, de andere leden, de secretaris en genodigden tenzij een lid en/of de voorzitter besluit tot een vergadering met enkel de voorzitter en de leden.
 
-4. Een buitengewoon lid kan in deze vergadering deelnemen aan de beraadslagingen, maar niet aan de besluitvorming als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0051561&hoofdstuk=2&artikel=10&z=2025-10-04&g=2025-10-04).
+4. Een buitengewoon lid kan in deze vergadering deelnemen aan de beraadslagingen, maar niet aan de besluitvorming als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0051561&hoofdstuk=2&artikel=10&z=2025-10-04&g=2025-10-04).
 
 ##### Artikel 8
 
@@ -124,7 +101,7 @@ De Autoriteit Persoonsgegevens stelt de hoofdlijnen van de organisatie van het s
 
 5. Een besluit over een thema kan niet worden genomen zonder de instemming van het lid dat portefeuillehouder is van het betreffende thema.
 
-6. Bij het ontbreken van eenstemmigheid wordt, met inachtneming van het bepaalde in lid 5 bij meerderheid van stemmen besloten.
+6. Bij het ontbreken van eenstemmigheid wordt, met inachtneming van het bepaalde in lid 5 bij meerderheid van stemmen besloten.
 
 7. Indien de stemmen staken – in de situatie dat het bestuurlijk overleg door omstandigheden is beperkt tot twee leden – heeft de voorzitter de beslissende stem en wordt deze wijze van besluitvorming in het verslag opgenomen.
 
@@ -164,7 +141,7 @@ De Autoriteit Persoonsgegevens stelt de hoofdlijnen van de organisatie van het s
 
 ##### Artikel 14
 
-1. De [artikelen 2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:4) en [2:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:5) zijn op de werkzaamheden van de voorzitter en de andere leden van toepassing, ook na beëindiging van hun functie.
+1. De [artikelen 2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:4) en [2:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:5) zijn op de werkzaamheden van de voorzitter en de andere leden van toepassing, ook na beëindiging van hun functie.
 
 2. Het eerste lid is van overeenkomstige toepassing op diegenen die belast zijn met de administratieve en secretariële ondersteuning van de Autoriteit Persoonsgegevens en op diegenen die vergaderingen geheel of gedeeltelijk hebben bijgewoond.
 
@@ -190,7 +167,7 @@ De Autoriteit Persoonsgegevens stelt de hoofdlijnen van de organisatie van het s
 
 ##### Artikel 17
 
-De beleidsregels die worden gehanteerd bij de uitvoering van de taken en werkzaamheden bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051561&hoofdstuk=2&artikel=2&z=2025-10-04&g=2025-10-04) worden in de Staatscourant en op de website van de Autoriteit Persoonsgegevens bekend gemaakt.
+De beleidsregels die worden gehanteerd bij de uitvoering van de taken en werkzaamheden bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051561&hoofdstuk=2&artikel=2&z=2025-10-04&g=2025-10-04) worden in de Staatscourant en op de website van de Autoriteit Persoonsgegevens bekend gemaakt.
 
 ### Hoofdstuk 4. Raad van advies
 
@@ -226,20 +203,18 @@ De beleidsregels die worden gehanteerd bij de uitvoering van de taken en werkzaa
 
 1. De leden van de raad onthouden zich van alles wat een goede taakvervulling van de raad kan schaden.
 
-2. De [artikelen 2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:4) en [2:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:5) zijn op de werkzaamheden van de raad van toepassing.
+2. De [artikelen 2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:4) en [2:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:5) zijn op de werkzaamheden van de raad van toepassing.
 
 ### Hoofdstuk 5. Slotbepalingen
 
 ##### Artikel 22
 
-Het [besluit van de Autoriteit Persoonsgegevens van 11 juni 2024 tot vaststelling van een bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0051091) (Stcrt. 2025, nr. 19361) wordt ingetrokken.
+Het [besluit van de Autoriteit Persoonsgegevens van 11 juni 2024 tot vaststelling van een bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0051091) (Stcrt. 2025, nr. 19361) wordt ingetrokken.
 
 ##### Artikel 23
 
-Dit reglement treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 23 september 2025.
+Dit reglement treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 23 september 2025.
 
 ##### Artikel 24
 
 Dit besluit wordt aangehaald als: Bestuursreglement Autoriteit Persoonsgegevens.
-
-Dit besluit zal in de Staatscourant en op de website van de Autoriteit Persoonsgegevens worden geplaatst.

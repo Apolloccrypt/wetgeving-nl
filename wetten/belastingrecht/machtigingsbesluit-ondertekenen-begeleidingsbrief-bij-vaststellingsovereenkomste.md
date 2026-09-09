@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Directeur-Generaal Toeslagen van 2 november 2025 [2025-347007], houdende de verlening van machtiging aan functionarissen van DG Belastingdienst en Uitvoeringsorganisatie Herstel Toeslagen voor het ondertekenen van begeleidingsbrieven bij vaststellingsovereenkomsten in het kader van de Wet hersteloperatie toeslagen (Machtigingsbesluit ondertekenen begeleidingsbrief bij vaststellingsovereenkomsten in het kader van de Wet hersteloperatie toeslagen)"
+citeertitel: "Machtigingsbesluit ondertekenen begeleidingsbrief bij vaststellingsovereenkomsten in het kader van de Wet hersteloperatie toeslagen"
 identifier: "BWBR0051872"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-11-27"
-last_updated: "2025-11-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051872"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "17624103"
-version_id: "31112252"
-internal_id: "C44534451"
-label_id: "17524374"
-dtd_version: "2.0"
-original_entry_into_force: "2025-11-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051872/2025-11-27/0"
-intitule_bron: "Stcrt.2025-40383"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-11-02"
-intitule_published: "2025-11-27"
-intitule_in_force: "2025-11-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-40383"
-original_signed_date: "2025-11-02"
-original_published_date: "2025-11-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-40383"
-entry_into_force_date: "2025-11-27"
-jci_1_3: "jci1.3:c:BWBR0051872&z=2025-11-27&g=2025-11-27"
-jci_1_0: "1.0:c:BWBR0051872&g=2025-11-27"
-citeertitel_status: "officieel"
-short_title: "Machtigingsbesluit ondertekenen begeleidingsbrief bij vaststellingsovereenkomsten in het kader van de Wet hersteloperatie toeslagen"
-signed_date: "2025-11-02"
-entry_into_force: "2025-11-27"
+publicatiedatum: 2025-11-27
+laatste_update: 2025-11-27
+status: geldig
+toestand: 2025-11-27
+bron: "https://wetten.overheid.nl/BWBR0051872"
+opgehaald: 2026-09-09
 ---
+
 # Besluit van de Directeur-Generaal Toeslagen van 2 november 2025 [2025-347007], houdende de verlening van machtiging aan functionarissen van DG Belastingdienst en Uitvoeringsorganisatie Herstel Toeslagen voor het ondertekenen van begeleidingsbrieven bij vaststellingsovereenkomsten in het kader van de Wet hersteloperatie toeslagen (Machtigingsbesluit ondertekenen begeleidingsbrief bij vaststellingsovereenkomsten in het kader van de Wet hersteloperatie toeslagen)
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4), [10:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9) en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12), de [artikelen 2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.1), en [2.6, derde lid, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.6) en [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&hoofdstuk=3) en [4 van het Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076&hoofdstuk=4);
-
-Besluit:
-
-De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 ##### Artikel 1. Machtiging
 
@@ -68,10 +40,8 @@ gevolgd door de functie en naam van de gemandateerde functionaris en de datum va
 
 ##### Artikel 5. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 november 2025 en werkt ten aanzien van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051872&artikel=3&z=2025-11-27&g=2025-11-27) terug tot en met 1 mei 2025.
+Dit besluit treedt in werking met ingang van 1 november 2025 en werkt ten aanzien van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051872&artikel=3&z=2025-11-27&g=2025-11-27) terug tot en met 1 mei 2025.
 
 ##### Artikel 6. Citeertitel
 
 Dit besluit wordt aangehaald als: Machtigingsbesluit ondertekenen begeleidingsbrief bij vaststellingsovereenkomsten in het kader van de [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436).
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,67 +1,43 @@
 ---
 title: "Regeling paramedische zorg"
 identifier: "BWBR0051712"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051712"
+categorie: "Gezondheidszorg"
 soort: "zbo"
-stam_id: "17585443"
-version_id: "31029972"
-internal_id: "C44436201"
-label_id: "17486304"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051712/2026-01-01/0"
-intitule_bron: "Stcrt.2025-37583"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-10-21"
-intitule_published: "2025-11-06"
-intitule_in_force: "2025-11-06"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-37583"
-original_signed_date: "2025-10-21"
-original_published_date: "2025-11-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-37583"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0051712&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0051712&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "2025-10-21"
-entry_into_force: "2026-01-01"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0051712"
+opgehaald: 2026-09-09
 ---
-# Regeling paramedische zorg
 
-Gelet op [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=35), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37) en [38 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van registratie-, declaratie, en transparantievoorschriften.
+# Regeling paramedische zorg
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
-- **Consument:** Een zorgvrager, patiënt, een potentiële patiënt of degene die namens een patiënt informeert.
+- *Consument:* Een zorgvrager, patiënt, een potentiële patiënt of degene die namens een patiënt informeert.
 
-- **Zorgaanbieder:** De natuurlijke persoon of rechtspersoon die beroeps- of bedrijfsmatig zorg verleent of laat verlenen, als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
+- *Zorgaanbieder:* De natuurlijke persoon of rechtspersoon die beroeps- of bedrijfsmatig zorg verleent of laat verlenen, als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
 
-- **Prestatie:** De levering van zorg door een zorgaanbieder, als bedoeld in [artikel 1, eerste lid, onderdeel j, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
+- *Prestatie:* De levering van zorg door een zorgaanbieder, als bedoeld in [artikel 1, eerste lid, onderdeel j, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
 
-- **Tarief:** Prijs voor een prestatie, een deel van een prestatie of geheel van prestaties van een zorgaanbieder, als bedoeld in [artikel 1, eerste lid, onderdeel k, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
+- *Tarief:* Prijs voor een prestatie, een deel van een prestatie of geheel van prestaties van een zorgaanbieder, als bedoeld in [artikel 1, eerste lid, onderdeel k, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
 
-- **Ziektekostenverzekeraar:**
+- *Ziektekostenverzekeraar:*
 
-- –. een zorgverzekeraar;
+   - – een zorgverzekeraar;
 
-- –. een Wlz-uitvoerder;
+   - – een Wlz-uitvoerder;
 
-- –. een particuliere ziektekostenverzekeraar, zijnde een financiële onderneming die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van verzekeraar mag uitoefenen, zoals bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
+   - – een particuliere ziektekostenverzekeraar, zijnde een financiële onderneming die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van verzekeraar mag uitoefenen, zoals bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
 
-- **Declaratie:** Het tarief of de tarieven die in rekening zijn gebracht voor een geleverde (deel)prestatie of (deel)prestaties aan de consument dan wel aan de ziektekostenverzekeraar van de betreffende consument.
+- *Declaratie:* Het tarief of de tarieven die in rekening zijn gebracht voor een geleverde (deel)prestatie of (deel)prestaties aan de consument dan wel aan de ziektekostenverzekeraar van de betreffende consument.
 
-- **Behandelingsovereenkomst:** Een overeenkomst inzake geneeskundige behandeling, zoals bedoeld is in [artikel 446 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=446).
+- *Behandelingsovereenkomst:* Een overeenkomst inzake geneeskundige behandeling, zoals bedoeld is in [artikel 446 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=446).
 
-- **Audit-trail:** Zodanige vastlegging van gegevens dat het spoor van basisgegeven naar eindgegeven en omgekeerd achteraf door een externe accountant of, afhankelijk van de aard van de gegevens, door de NZa en de zorgverzekeraar kan worden gevolgd en gecontroleerd.
+- *Audit-trail:* Zodanige vastlegging van gegevens dat het spoor van basisgegeven naar eindgegeven en omgekeerd achteraf door een externe accountant of, afhankelijk van de aard van de gegevens, door de NZa en de zorgverzekeraar kan worden gevolgd en gecontroleerd.
 
 ##### Artikel 2. Doel van de regeling
 
@@ -71,17 +47,17 @@ Het doel van deze nadere regel is om administratie-, declaratie- en transparanti
 
 Deze regeling is van toepassing op zorgaanbieders die de volgende zorg leveren als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw):
 
-- –. extramurale diëtetische zorg;
+- – extramurale diëtetische zorg;
 
-- –. diëtetiek binnen de ketenzorg (gecoördineerde, multidisciplinaire zorg voor een specifieke aandoening op basis van de relevante zorgstandaard);
+- – diëtetiek binnen de ketenzorg (gecoördineerde, multidisciplinaire zorg voor een specifieke aandoening op basis van de relevante zorgstandaard);
 
-- –. ergotherapeutische zorg;
+- – ergotherapeutische zorg;
 
-- –. fysiotherapeutische zorg;
+- – fysiotherapeutische zorg;
 
-- –. logopedische zorg;
+- – logopedische zorg;
 
-- –. oefentherapeutische zorg.
+- – oefentherapeutische zorg.
 
 Voor zover geen sprake is van zorg als omschreven in de vorige zin, is deze regeling van toepassing op personen, ingeschreven in een register als bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) (Wet BIG) of op personen als bedoeld in [artikel 34 van de Wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34), voor zover voornoemde categorieën personen handelingen of werkzaamheden op het terrein van zorg als omschreven in de vorige zin uitvoeren of verantwoordelijk zijn voor dergelijke door anderen uitgevoerde handelingen1Het betreft hier de handelingen bedoeld in artikel 1, eerste lid, onderdeel b, onder 2o, van de Wmg. of werkzaamheden2Het betreft hier de werkzaamheden bedoeld in artikel 2, eerste lid, onderdeel c, van het Besluit uitbreiding en beperking werkingssfeer Wmg..
 
@@ -173,10 +149,16 @@ Gelijktijdig met de inwerkingtreding van deze regeling wordt de [Regeling parame
 
 ##### Artikel 10. Toepasselijkheid voorgaande regeling, bekendmaking, inwerkingtreding en citeertitel
 
+Toepasselijkheid voorgaande regeling
+
 De [Regeling paramedische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0049521) met kenmerk NR/REG-2501, blijft van toepassing op gedragingen (handelen en nalaten) van zorgaanbieders die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
 
-Deze regeling treedt in werking met ingang van 1 januari 2026. Deze regeling wordt bekendgemaakt door plaatsing in de Staatscourant op grond van [artikel 5, aanhef en onder d, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5).
+Inwerkingtreding / Bekendmaking
+
+Deze regeling treedt in werking met ingang van 1 januari 2026. Deze regeling wordt bekendgemaakt door plaatsing in de Staatscourant op grond van [artikel 5, aanhef en onder d, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5).
 
 De regeling ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl).
+
+Citeertitel
 
 De regeling wordt aangehaald als: Regeling paramedische zorg.

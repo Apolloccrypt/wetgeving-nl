@@ -1,88 +1,60 @@
 ---
 title: "Regeling literaire programma’s"
 identifier: "BWBR0051906"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-12-09"
-last_updated: "2025-12-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051906"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17659183"
-version_id: "31156352"
-internal_id: "C44579891"
-label_id: "17558824"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051906/2025-12-09/0"
-intitule_bron: "Stcrt.2025-39974"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2025-12-08"
-intitule_in_force: "2025-12-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-39974"
-original_published_date: "2025-12-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-39974"
-entry_into_force_date: "2025-12-09"
-jci_1_3: "jci1.3:c:BWBR0051906&z=2025-12-09&g=2025-12-09"
-jci_1_0: "1.0:c:BWBR0051906&g=2025-12-09"
-citeertitel_status: "officieel"
-entry_into_force: "2025-12-09"
+publicatiedatum: 2025-12-09
+laatste_update: 2025-12-09
+status: geldig
+toestand: 2025-12-09
+bron: "https://wetten.overheid.nl/BWBR0051906"
+opgehaald: 2026-09-09
 ---
+
 # Regeling literaire programma’s
-
-gelet op het bepaalde in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
-
-gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10),
-
-gelet op het [Algemeen reglement Nederlands Letterenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0032735).
-
-Besluit:
-
-De volgende Regeling literaire programma's vast te stellen
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
-- **bestuur:** het bestuur van de Stichting Nederlands Letterenfonds;
+- *bestuur:* het bestuur van de Stichting Nederlands Letterenfonds;
 
-- **Cariben:** het Caribisch deel van het Koninkrijk, te weten de zelfstandige landen Aruba, Curaçao en Sint Maarten en de openbare lichamen Bonaire, Sint-Eustatius en Saba;
+- *Cariben:* het Caribisch deel van het Koninkrijk, te weten de zelfstandige landen Aruba, Curaçao en Sint Maarten en de openbare lichamen Bonaire, Sint-Eustatius en Saba;
 
-- **eigen inkomsten:** de baten in de jaarrekening, te weten:
+- *eigen inkomsten:* de baten in de jaarrekening, te weten:
 
-- a. publieksinkomsten;
+   - a. publieksinkomsten;
 
-- b. overige inkomsten, te weten:
+   - b. overige inkomsten, te weten:
 
-- –. directe opbrengsten: sponsorinkomsten en overige inkomsten;
+      - – directe opbrengsten: sponsorinkomsten en overige inkomsten;
 
-- –. subsidies die zijn verstrekt door publieke of private partijen;
+      - – subsidies die zijn verstrekt door publieke of private partijen;
 
-- –. indirecte opbrengsten en
+      - – indirecte opbrengsten en
 
-- –. overige bijdragen (niet zijnde rentebaten, bijdragen in natura, kapitalisatie van vrijwilligers, waardering vrijkaarten en baten die geen relatie hebben met cultureel ondernemerschap).
+      - – overige bijdragen (niet zijnde rentebaten, bijdragen in natura, kapitalisatie van vrijwilligers, waardering vrijkaarten en baten die geen relatie hebben met cultureel ondernemerschap).
 
-- **Engels:** de Engelse taal zoals door moedertaalsprekers wordt gehanteerd in het Caribisch deel van het Koninkrijk.
+- *Engels:* de Engelse taal zoals door moedertaalsprekers wordt gehanteerd in het Caribisch deel van het Koninkrijk.
 
-- **Koninkrijk:** het Koninkrijk der Nederlanden, bestaande uit Europees Nederland en het Caribisch deel van het Koninkrijk;
+- *Koninkrijk:* het Koninkrijk der Nederlanden, bestaande uit Europees Nederland en het Caribisch deel van het Koninkrijk;
 
-- **leesbevordering:** het stimuleren van het lezen en/of leesplezier in brede zin;
+- *leesbevordering:* het stimuleren van het lezen en/of leesplezier in brede zin;
 
-- **Letterenfonds:** de Stichting Nederlands Letterenfonds;
+- *Letterenfonds:* de Stichting Nederlands Letterenfonds;
 
-- **literatuur:** literatuur in het Nederlands, Engels, Fries, Papiaments en de Nederlandse Gebarentaal (NGT);
+- *literatuur:* literatuur in het Nederlands, Engels, Fries, Papiaments en de Nederlandse Gebarentaal (NGT);
 
-- **literair:** literatuur in het Nederlands, Engels, Fries, Papiaments en de Nederlandse Gebarentaal (NGT) betreffende;
+- *literair:* literatuur in het Nederlands, Engels, Fries, Papiaments en de Nederlandse Gebarentaal (NGT) betreffende;
 
-- **makers:** literaire makers die zich beroepsmatig bezighouden met de creatie van literatuur, waaronder schrijvers, spoken word-artiesten, illustratoren en vertalers;
+- *makers:* literaire makers die zich beroepsmatig bezighouden met de creatie van literatuur, waaronder schrijvers, spoken word-artiesten, illustratoren en vertalers;
 
-- **Papiaments:** Papiamento en Papiamentu;
+- *Papiaments:* Papiamento en Papiamentu;
 
-- **programma:** een in tijd beperkte publieksgerichte literaire presentatie in het Koninkrijk met een podiumkarakter, zoals optredens, festivals of voorstellingen waarin literatuur centraal staat, of literaire talentontwikkelingstrajecten gericht op professionele literaire makers, of initiatieven die de zichtbaarheid van literatuur vergroten;
+- *programma:* een in tijd beperkte publieksgerichte literaire presentatie in het Koninkrijk met een podiumkarakter, zoals optredens, festivals of voorstellingen waarin literatuur centraal staat, of literaire talentontwikkelingstrajecten gericht op professionele literaire makers, of initiatieven die de zichtbaarheid van literatuur vergroten;
 
-- **Randstad:** de stedelijke regio's Amsterdam, Den Haag, Rotterdam, Utrecht.
+- *Randstad:*
+ de stedelijke regio's Amsterdam, Den Haag, Rotterdam, Utrecht.
 
 ##### Artikel 2. Doel
 
@@ -94,7 +66,7 @@ Met deze regeling wil het Letterenfonds literaire programma’s ondersteunen die
 
 2. Een programma heeft een looptijd van maximaal 1 jaar en dient binnen een periode van maximaal 1,5 jaar na het moment van verlening van de subsidie te zijn afgerond.
 
-3. De subsidieontvanger van een vierjarige subsidie op grond van de [regeling Vierjarige subsidies literaire organisaties Nederlands Letterenfonds 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0048979) of de [Regeling vierjarige subsidies literair-educatieve organisaties 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0048974) kan op grond van deze regeling slechts subsidie aanvragen voor programma’s die plaatsvinden in 2027 en 2028 mits het programma waarvoor subsidie wordt aangevraagd duidelijk is afgebakend van de activiteiten die naar het oordeel van het bestuur reeds worden gesubsidieerd op grond van de regeling Vierjarige subsidies literaire organisaties Nederlands Letterenfonds 2025–2028 of de regeling vierjarige subsidies literair-educatieve organisaties 2025–2028. Het maximaal aan te vragen bedrag is in dit geval € 20.000,– per jaar.
+3. De subsidieontvanger van een vierjarige subsidie op grond van de [regeling Vierjarige subsidies literaire organisaties Nederlands Letterenfonds 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0048979) of de [Regeling vierjarige subsidies literair-educatieve organisaties 2025–2028](https://wetten.overheid.nl/jci1.3:c:BWBR0048974) kan op grond van deze regeling slechts subsidie aanvragen voor programma’s die plaatsvinden in 2027 en 2028 mits het programma waarvoor subsidie wordt aangevraagd duidelijk is afgebakend van de activiteiten die naar het oordeel van het bestuur reeds worden gesubsidieerd op grond van de regeling Vierjarige subsidies literaire organisaties Nederlands Letterenfonds 2025–2028 of de regeling vierjarige subsidies literair-educatieve organisaties 2025–2028. Het maximaal aan te vragen bedrag is in dit geval € 20.000,– per jaar.
 
 ##### Artikel 4. Aanvrager
 
@@ -146,11 +118,11 @@ Ten aanzien van de in de sector gangbare codes geldt in deze regeling dat:
 
 ##### Artikel 8. Subsidieplafond
 
-1. Het subsidieplafond bedraagt € 625.000 per jaar en wordt als volgt verdeeld:
+1. Het subsidieplafond bedraagt € 625.000 per jaar en wordt als volgt verdeeld:
 
-- a. ronde 1: € 400.000
+- a. ronde 1: € 400.000
 
-- b. ronde 2: € 225.000
+- b. ronde 2: € 225.000
 
 De in onderdelen a en b genoemde bedragen gelden als deelsubsidieplafonds.
 
@@ -184,7 +156,7 @@ De in onderdelen a en b genoemde bedragen gelden als deelsubsidieplafonds.
 
 ##### Artikel 10. Hoogte subsidiebedrag
 
-1. Het aan te vragen subsidiebedrag bedraagt minimaal € 10.000 en maximaal € 60.000.
+1. Het aan te vragen subsidiebedrag bedraagt minimaal € 10.000 en maximaal € 60.000.
 
 2. Aanvragers dienen minimaal 40% van de kosten van het programma uit eigen inkomsten of op andere wijze te financieren.
 
@@ -232,9 +204,9 @@ Alle aanvragen worden getoetst aan de volgende criteria:
 
 7. Bij het maken van een keuze tussen twee of meer aanvragen die gelijk zijn gerangschikt en niet allemaal kunnen worden gehonoreerd omdat het subsidieplafond wordt overschreden, zijn de volgende criteria leidend op volgorde van belang waarbij telkens de aanvraag met de hoogste score eerst wordt gehonoreerd:
 
-- –. toegevoegde waarde van het project op het bestaande aanbod;
+- – toegevoegde waarde van het project op het bestaande aanbod;
 
-- –. artistieke visie en literaire kwaliteit van het programma.
+- – artistieke visie en literaire kwaliteit van het programma.
 
 8. Ontstaat dan nogmaals een gelijke rangschikking, dan wordt de aanvraag gehonoreerd die het meest bijdraagt aan de geografische spreiding van gehonoreerde projecten over het gehele Koninkrijk.
 
@@ -254,7 +226,7 @@ Het bestuur beslist binnen 22 weken na de uiterste datum van indiening van de aa
 
 - c. er aanzienlijke artistieke of zakelijke wijzigingen zijn ten opzichte van het plan op basis waarvan subsidie is verstrekt.
 
-2. Bij subsidies hoger dan € 25.000, dient de ontvanger binnen drie maanden na afloop de activiteiten een inhoudelijk verslag in.
+2. Bij subsidies hoger dan € 25.000, dient de ontvanger binnen drie maanden na afloop de activiteiten een inhoudelijk verslag in.
 
 3. Het bestuur kan in de verleningsbeschikking aanvullende verplichtingen aan de subsidie verbinden.
 
@@ -292,10 +264,8 @@ Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende mi
 
 ##### Artikel 20. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2029. In afwijking van de eerste volzin blijft deze regeling zoals zij luidde op de dag voorafgaand aan de datum met ingang waarvan deze regeling vervalt, van toepassing op de afwikkeling van op grond van deze regeling ingediende aanvragen en verleende subsidies.
+Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2029. In afwijking van de eerste volzin blijft deze regeling zoals zij luidde op de dag voorafgaand aan de datum met ingang waarvan deze regeling vervalt, van toepassing op de afwikkeling van op grond van deze regeling ingediende aanvragen en verleende subsidies.
 
 ##### Artikel 21. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling literaire programma’s
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

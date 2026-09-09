@@ -1,44 +1,18 @@
 ---
 title: "Verordening betreffende de kwaliteit en borging van de doelmatige dienstverlening door registerloodsen"
+citeertitel: "Verordening betreffende de doelmatige dienstverlening door registerloodsen"
 identifier: "BWBR0051696"
-country: "nl"
-rank: "pbo"
-publication_date: "2025-10-23"
-last_updated: "2025-10-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051696"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "17581513"
-version_id: "31024122"
-internal_id: "C44422791"
-label_id: "17482524"
-dtd_version: "2.0"
-original_entry_into_force: "2025-10-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051696/2025-10-23/0"
-intitule_bron: "Stcrt.2025-35596"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-10-09"
-intitule_published: "2025-10-22"
-intitule_in_force: "2025-10-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-35596"
-original_signed_date: "2025-10-09"
-original_published_date: "2025-10-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-35596"
-entry_into_force_date: "2025-10-23"
-jci_1_3: "jci1.3:c:BWBR0051696&z=2025-10-23&g=2025-10-23"
-jci_1_0: "1.0:c:BWBR0051696&g=2025-10-23"
-citeertitel_status: "officieel"
-short_title: "Verordening betreffende de doelmatige dienstverlening door registerloodsen"
-signed_date: "2025-10-09"
-entry_into_force: "2025-10-23"
+publicatiedatum: 2025-10-23
+laatste_update: 2025-10-23
+status: geldig
+toestand: 2025-10-23
+bron: "https://wetten.overheid.nl/BWBR0051696"
+opgehaald: 2026-09-09
 ---
+
 # Verordening betreffende de kwaliteit en borging van de doelmatige dienstverlening door registerloodsen
-
-Gelet op [artikel 15, eerste lid, onderdelen b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=15), gelezen in samenhang met de [artikelen 27j, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27j), en [27ja, eerste lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=27ja);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,11 +20,12 @@ Besluit:
 
 In deze verordening wordt verstaan onder:
 
-- –. **loodsdienstverlening:** de wijze waarop diensten als loods, bedoeld in [artikel 4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=4) worden verzorgd, aangeboden en verleend door registerloodsen in de onderlinge verbanden die zijn opgericht ter uitvoering van [artikel 15, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=15) en [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0051696&hoofdstuk=2&artikel=2:1&z=2025-10-23&g=2025-10-23) van deze verordening;
+- – *loodsdienstverlening:* de wijze waarop diensten als loods, bedoeld in [artikel 4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=4) worden verzorgd, aangeboden en verleend door registerloodsen in de onderlinge verbanden die zijn opgericht ter uitvoering van [artikel 15, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=15) en [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0051696&hoofdstuk=2&artikel=2:1&z=2025-10-23&g=2025-10-23) van deze verordening;
 
-- –. **regionale besturen:** de besturen van de regionale loodsencorporaties;
+- – *regionale besturen:* de besturen van de regionale loodsencorporaties;
 
-- –. **wet:** [Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365).
+- – *wet:*
+ [Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365).
 
 ##### Artikel 1:2. Te dienen belangen
 
@@ -84,9 +59,9 @@ De registerloods is verplicht om zijn diensten als registerloods non-discriminat
 
 ##### Artikel 2:4. Registerloods buiten het samenwerkingsverband
 
-1. De registerloods die niet deelneemt aan een samenwerkingsverband als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0051696&hoofdstuk=2&artikel=2:1&z=2025-10-23&g=2025-10-23), is aan dat samenwerkingsverband, dan wel bij ontbreken daarvan, aan de rechtspersoon, bedoeld in artikel 2:1, tweede lid, een vergoeding voor administratieve kosten verschuldigd van € 476,51 per maand.
+1. De registerloods die niet deelneemt aan een samenwerkingsverband als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0051696&hoofdstuk=2&artikel=2:1&z=2025-10-23&g=2025-10-23), is aan dat samenwerkingsverband, dan wel bij ontbreken daarvan, aan de rechtspersoon, bedoeld in artikel 2:1, tweede lid, een vergoeding voor administratieve kosten verschuldigd van € 476,51 per maand.
 
-2. In het geval van het niet nakomen van de voorschriften, bedoeld in [artikel 2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0051696&hoofdstuk=2&artikel=2:3&z=2025-10-23&g=2025-10-23) is de registerloods aan het samenwerkingsverband onderscheidenlijk de rechtspersoon, bedoeld in [artikel 2:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051696&hoofdstuk=2&artikel=2:1&z=2025-10-23&g=2025-10-23), een door het bestuur van de regionale loodsencorporatie vast te stellen bedrag ter zake van daaruit voortvloeiende kosten verschuldigd. Dit bedrag bedraagt ten hoogste € 573,57.
+2. In het geval van het niet nakomen van de voorschriften, bedoeld in [artikel 2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0051696&hoofdstuk=2&artikel=2:3&z=2025-10-23&g=2025-10-23) is de registerloods aan het samenwerkingsverband onderscheidenlijk de rechtspersoon, bedoeld in [artikel 2:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051696&hoofdstuk=2&artikel=2:1&z=2025-10-23&g=2025-10-23), een door het bestuur van de regionale loodsencorporatie vast te stellen bedrag ter zake van daaruit voortvloeiende kosten verschuldigd. Dit bedrag bedraagt ten hoogste € 573,57.
 
 3. De indexering van de genoemde bedragen in dit artikel is het door het Centraal Bureau voor de Statistiek vastgestelde indexcijfer consumentenprijzen, telkens toe te passen over de periode van twaalf maanden, eindigend op de laatste dag van de maand februari van het kalenderjaar voorafgaande aan het kalenderjaar waarvoor de genoemde bedragen van toepassing zijn.
 
@@ -180,7 +155,7 @@ In gevallen waarin deze verordening niet voorziet, beslist de algemene raad.
 
 De volgende verordeningen worden ingetrokken:
 
-- a. [Wijzigingsverordening Dienstverleningsverordening registerloodsen en Financiële verordening Loodswezen](https://wetten.overheid.nl/jci1.3:c:BWBR0013146) vastgesteld op 11 december 2001; en
+- a. [Wijzigingsverordening Dienstverleningsverordening registerloodsen en Financiële verordening Loodswezen](https://wetten.overheid.nl/jci1.3:c:BWBR0013146) vastgesteld op 11 december 2001; en
 
 - b. [Dienstverleningsverordening registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004385).
 

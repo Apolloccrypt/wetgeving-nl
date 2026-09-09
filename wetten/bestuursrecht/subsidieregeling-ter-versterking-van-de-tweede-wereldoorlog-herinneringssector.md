@@ -1,30 +1,31 @@
 ---
-title: "Subsidieregeling ter versterking van de Tweede Wereldoorlog herinneringssector"
+title: "Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 3 september 2025, kenmerk 4196411-1086983-DMO, houdende regels voor het subsidiëren van activiteiten ter versterking van de Tweede Wereldoorlog herinneringssector (Subsidieregeling ter versterking van de Tweede Wereldoorlog herinneringssector) [KetenID WGK027850]"
+citeertitel: "Subsidieregeling ter versterking van de Tweede Wereldoorlog herinneringssector"
 identifier: "BWBR0051488"
-categorie: "Overig"
-publicatiedatum: 2026-04-29
-laatste_update: 2026-04-30
+categorie: "Gezondheidszorg"
+soort: "ministeriele-regeling"
+publicatiedatum: 2025-10-01
+laatste_update: 2026-04-29
 status: geldig
+toestand: 2026-04-29
 bron: "https://wetten.overheid.nl/BWBR0051488"
+opgehaald: 2026-09-09
 ---
 
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 3 september 2025, kenmerk 4196411-1086983-DMO, houdende regels voor het subsidiëren van activiteiten ter versterking van de Tweede Wereldoorlog herinneringssector (Subsidieregeling ter versterking van de Tweede Wereldoorlog herinneringssector) [KetenID WGK027850]
-
-Gelet op [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **aanvraagtijdvak 2025:** de periode van 3 november 2025 09:00 uur tot en met 6 januari 2026 13:00 uur;
+- *aanvraagtijdvak 2025:* de periode van 3 november 2025 09:00 uur tot en met 6 januari 2026 13:00 uur;
 
-- **algemene groepsvrijstellingsverordening:** [Verordening (EU) nr. 651/2014](32014R0651) van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard;
+- *algemene groepsvrijstellingsverordening:*
+ Verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard;
 
-- **Holocaust:** systematische vervolging van en genocide op Joden, Sinti en Roma door de Nazi’s en hun bondgenoten voor en tijdens de Tweede Wereldoorlog;
+- *Holocaust:* systematische vervolging van en genocide op Joden, Sinti en Roma door de Nazi’s en hun bondgenoten voor en tijdens de Tweede Wereldoorlog;
 
-- **minister:** Minister van Volksgezondheid, Welzijn en Sport.
+- *minister:* Minister van Volksgezondheid, Welzijn en Sport.
 
 ##### Artikel 2. Toepasselijkheid Kaderregeling
 
@@ -34,17 +35,17 @@ De subsidie is een subsidie als bedoeld in [artikel 1.5, onderdeel d, van de Kad
 
 De regeling heeft tot doel het realiseren van activiteiten die bijdragen aan de kennisoverdracht van inwoners van het Koninkrijk der Nederlanden over de Holocaust of over gebeurtenissen die in de aanloop naar, tijdens, of in de nasleep van de Tweede Wereldoorlog hebben plaatsgevonden en weinig maatschappelijke aandacht hebben, namelijk:
 
-- a). gebeurtenissen in Nederlands-Nieuw-Guinea;
+- a) gebeurtenissen in Nederlands-Nieuw-Guinea;
 
-- b). gebeurtenissen in het Caribisch deel van het Koninkrijk en Suriname;
+- b) gebeurtenissen in het Caribisch deel van het Koninkrijk en Suriname;
 
-- c). propaganda en miscommunicatie;
+- c) propaganda en miscommunicatie;
 
-- d). verwerking terugkomst en herinnering;
+- d) verwerking terugkomst en herinnering;
 
-- e). de luchtoorlog in Nederland; of
+- e) de luchtoorlog in Nederland; of
 
-- f). collaboratie en verzet.
+- f) collaboratie en verzet.
 
 ##### Artikel 4. Subsidiabele activiteiten
 
@@ -62,7 +63,7 @@ De regeling heeft tot doel het realiseren van activiteiten die bijdragen aan de 
 
 - b. het in stand houden van een organisatie of onderdelen daarvan.
 
-3. De activiteiten, bedoeld in het eerste lid, worden uitgevoerd gedurende een periode van minimaal één jaar en tot en met uiterlijk 5 november 2029.
+3. De activiteiten, bedoeld in het eerste lid, worden uitgevoerd gedurende een periode van minimaal één jaar en tot en met uiterlijk 5 november 2029.
 
 ##### Artikel 5. Subsidievoorwaarden
 
@@ -86,7 +87,7 @@ De regeling heeft tot doel het realiseren van activiteiten die bijdragen aan de 
 
 ##### Artikel 6. Hoogte van de subsidie en subsidiabele kosten
 
-1. In afwijking van [artikel 10.1, tweede lid, onder a, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=10.1) bedraagt de subsidieverlening voor de activiteiten in totaal ten minste € 125.000 en ten hoogste € 400.000.
+1. In afwijking van [artikel 10.1, tweede lid, onder a, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=10.1) bedraagt de subsidieverlening voor de activiteiten in totaal ten minste € 125.000 en ten hoogste € 400.000.
 
 2. Als subsidiabele kosten komen uitsluitend in aanmerking de kosten als bedoeld in artikel 53, vierde lid, onder d en e, en vijfde lid van de algemene groepsvrijstellingsverordening.
 
@@ -98,9 +99,9 @@ De regeling heeft tot doel het realiseren van activiteiten die bijdragen aan de 
 
 ##### Artikel 7. Subsidieplafond en wijze van verdeling
 
-1. Het subsidieplafond voor aanvraagtijdvak 2025 bedraagt € 1.000.000.
+1. Het subsidieplafond voor aanvraagtijdvak 2025 bedraagt € 1.000.000.
 
-2. De Minister verdeelt het uit hoofde van het subsidieplafond beschikbare bedrag in het geval het subsidieplafond volledig wordt uitgeput, door middel van rangschikking van de ingediende subsidieaanvragen, conform de wegingscriteria, bedoeld in de bijlage bij deze regeling.
+2. De Minister verdeelt het uit hoofde van het subsidieplafond beschikbare bedrag in het geval het subsidieplafond volledig wordt uitgeput, door middel van rangschikking van de ingediende subsidieaanvragen, conform de wegingscriteria, bedoeld in de [bijlage](https://wetten.overheid.nl/BWBR0051488) bij deze regeling.
 
 3. In aanvulling op het tweede lid geldt dat indien de weging geen uitsluitsel geeft vanwege gelijke rangschikking het resterende subsidiebudget zal worden uitgeput op basis van loting.
 
@@ -142,22 +143,10 @@ In aanvulling op [artikel 6.1 van de Kaderregeling subsidies OCW, SZW en VWS](ht
 
 ##### Artikel 12. Inwerkingtreding en vervaldatum
 
-1. Deze regeling treedt in werking met ingang van 1 oktober 2025.
+1. Deze regeling treedt in werking met ingang van 1 oktober 2025.
 
-2. De regeling vervalt met ingang van 1 oktober 2030 met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn aangevraagd en verstrekt.
+2. De regeling vervalt met ingang van 1 oktober 2030 met dien verstande dat deze van toepassing blijft op subsidies die voor deze datum zijn aangevraagd en verstrekt.
 
 ##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling ter versterking van de Tweede Wereldoorlog herinneringssector.
-
-## Bijlage. Wegingscriteria als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051488&artikel=7&z=2026-04-29&g=2026-04-29)
-
-| Criterium | Omschrijving | Wat moet er in de aanvraag zijn opgenomen? | Score maximaal 125 punten |
-| --- | --- | --- | --- |
-| **A. Samenwerking** | De omvang van de samenwerking tussen de subsidieaanvrager en andere rechtspersonen zonder winstoogmerk. | Een uitwerking van de rol- en verantwoordelijkheidsverdeling, waaronder een omschrijving van de taken en afspraken van de subsidieaanvrager en de andere rechtspersonen zonder winstoogmerk binnen de samenwerking. | **[max. 35 punten]** **5 punten** als de activiteiten volledig ontwikkeld worden door de subsidieaanvrager en de gerealiseerde activiteiten slechts worden ‘gebruikt’ door andere rechtspersonen zonder winstoogmerk. Hierbij kan gedacht worden aan het overnemen van een tentoonstelling. **15 punten** als de activiteiten worden ontwikkeld door de subsidieaanvrager en de expertise van één andere rechtspersoon zonder winstoogmerk is betrokken. **20 punten** als de activiteiten worden ontwikkeld door de subsidieaanvrager en de expertise van één andere rechtspersoon zonder winstoogmerk is betrokken en de activiteiten door beide organisaties worden uitgevoerd. **30 punten** als de activiteiten worden ontwikkeld door de subsidieaanvrager en de expertise van minimaal twee andere rechtspersonen zonder winstoogmerk is betrokken. NB als de expertise van meer dan twee organisaties is betrokken blijft het aantal te scoren punten 30. **35 punten** als de activiteiten worden ontwikkeld door de subsidieaanvrager en de expertise van minimaal twee andere rechtspersonen zonder winstoogmerk is betrokken en de activiteiten door minimaal deze twee organisaties worden uitgevoerd. |
-| **B. (Participatie) doelgroepen** | De mate van participatie van de beoogde doelgroepen bij de vormgeving en de uitvoering van de activiteiten. Met doelgroep wordt bedoeld: degenen voor wie de activiteiten worden opgezet. | – Een omschrijving van de doelgroep waar de activiteiten zich op richten. – De wijze waarop de doelgroep is betrokken bij de vormgeving en uitvoering van de activiteiten. – (indien relevant): de wijze waarop de doelgroep in het verleden is betrokken bij de vormgeving van activiteiten en waarop in de aanvraag wordt voortgebouwd. | **[max. 20 punten]** **5 punten** als de activiteiten ontwikkeld zijn op basis van ervaringen met activiteiten voor de dezelfde doelgroep. **10 punten** als de activiteiten worden ontwikkeld in overleg met een vertegenwoordiging van de doelgroep. **20 punten** als de activiteiten samen met een vertegenwoordiging van de doelgroep worden ontwikkeld en uitgevoerd. |
-| **C. Ervaring** | De mate waarin de subsidieontvanger ervaring heeft met het uitvoeren van activiteiten voor de kennisoverdracht van Nederlanders over de Tweede Wereldoorlog of de Holocaust. | Een omschrijving van de ervaring met het uitvoeren van activiteiten over de Tweede Wereldoorlog of de Holocaust. Hiervoor kan gebruik worden gemaakt van de jaarverslagen van de afgelopen 5 jaar, in zoverre deze beschikbaar zijn. | **[max. 30 punten]** **5 punten** als de aanvrager tot 1 jaar ervaring heeft met het uitvoeren van activiteiten op het gebied van kennisoverdracht over de Tweede Wereldoorlog of de Holocaust. **20 punten** als de aanvrager tot 3 jaar ervaring heeft met het uitvoeren van activiteiten op het gebied van kennisoverdracht over de Tweede Wereldoorlog of de Holocaust. **30 punten** als de organisatie meer dan 3 jaar ervaring heeft met het uitvoeren van activiteiten op het gebied van kennisoverdracht over de Tweede Wereldoorlog of de Holocaust. |
-| **D. Aanvulling bestaand aanbod** | De mate waarin de activiteit voorziet in een leemte in het aanbod voor de doelgroep. Of de mate waarin de activiteit een meerwaarde ten opzichte van het bestaande aanbod voor de doelgroep biedt. | – Een beschrijving van het bestaande aanbod voor de doelgroep en de te vervullen leemte voor die doelgroep. – Een beschrijving van de meerwaarde van de activiteit voor de doelgroep binnen het bestaande aanbod voor de doelgroep. | **[max. 20 punten]** **10 punten** als de activiteit een meerwaarde vormt op het bestaande aanbod voor deze doelgroep. **20 punten** als de activiteit in een leemte voorziet voor deze doelgroep. |
-| **E. Continuering** | De mate waarin de continuering van de activiteit na afloop van de subsidieperiode is geborgd. | Een beschrijving van de manier waarop de activiteiten zullen worden geborgd en of voortgezet na afloop van de subsidieperiode. | **[max. 20 punten]** **10 punten** als de activiteiten stoppen na afloop van het project, maar de aanpak en resultaten toegankelijk blijven voor derden, bijvoorbeeld via een website. **20 punten** als de activiteiten voortbestaan zonder subsidie van de rijksoverheid. |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

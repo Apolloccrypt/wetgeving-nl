@@ -1,60 +1,34 @@
 ---
 title: "Besluit van de Staatssecretaris van Financiën van 4 december 2025, kenmerk 2025-0000596560, houdende instelling van een externe commissie ter begeleiding van de Periodieke Rapportage Toeslagen"
+citeertitel: "Instellingsbesluit Externe begeleidingscommissie Periodieke Rapportage Toeslagen"
 identifier: "BWBR0051928"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-12-10"
-last_updated: "2025-12-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051928"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17671073"
-version_id: "31174682"
-internal_id: "C44598891"
-label_id: "17570344"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051928/2025-12-10/0"
-intitule_bron: "Stcrt.2025-42019"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-12-04"
-intitule_published: "2025-12-09"
-intitule_in_force: "2025-12-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-42019"
-original_signed_date: "2025-12-04"
-original_published_date: "2025-12-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-42019"
-entry_into_force_date: "2025-12-10"
-jci_1_3: "jci1.3:c:BWBR0051928&z=2025-12-10&g=2025-12-10"
-jci_1_0: "1.0:c:BWBR0051928&g=2025-12-10"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Externe begeleidingscommissie Periodieke Rapportage Toeslagen"
-signed_date: "2025-12-04"
-entry_into_force: "2025-12-10"
+publicatiedatum: 2025-12-10
+laatste_update: 2025-12-10
+status: geldig
+toestand: 2025-12-10
+bron: "https://wetten.overheid.nl/BWBR0051928"
+opgehaald: 2026-09-09
 ---
+
 # Besluit van de Staatssecretaris van Financiën van 4 december 2025, kenmerk 2025-0000596560, houdende instelling van een externe commissie ter begeleiding van de Periodieke Rapportage Toeslagen
-
-Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **de Minister:** de Minister van Financiën;
+- a. *de Minister:* de Minister van Financiën;
 
-- b. **de Staatssecretaris:** de Staatssecretaris van Financiën – Herstel en Toeslagen;
+- b. *de Staatssecretaris:* de Staatssecretaris van Financiën – Herstel en Toeslagen;
 
-- c. **Onderzoek:** Periodieke Rapportage Toeslagen, waarvoor de DG Fiscale Zaken en DG Toeslagen opdracht hebben gegeven;
+- c. *Onderzoek:* Periodieke Rapportage Toeslagen, waarvoor de DG Fiscale Zaken en DG Toeslagen opdracht hebben gegeven;
 
-- d. **De commissie:** de externe begeleidingscommissie zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051928&artikel=2&z=2025-12-10&g=2025-12-10);
+- d. *De commissie:* de externe begeleidingscommissie zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051928&artikel=2&z=2025-12-10&g=2025-12-10);
 
-- e. **Ambtelijke werkgroep:** ondersteunende werkgroep waarin ambtenaren van het Ministerie van Financiën plaatsnemen;
+- e. *Ambtelijke werkgroep:* ondersteunende werkgroep waarin ambtenaren van het Ministerie van Financiën plaatsnemen;
 
-- f. **Extern onderzoeksbureau:** Het onderzoek wordt uitgevoerd door een extern onderzoeksbureau dat via een inkoopprocedure wordt gekozen.
+- f. *Extern onderzoeksbureau:* Het onderzoek wordt uitgevoerd door een extern onderzoeksbureau dat via een inkoopprocedure wordt gekozen.
 
 ##### Artikel 2. Instelling en taak
 
@@ -62,11 +36,11 @@ In dit besluit wordt verstaan onder:
 
 2. De commissie heeft tot taak:
 
-- a). De commissie bestaat uit drie leden die gedurende de looptijd van het onderzoek met een onafhankelijke blik en vanuit eigen expertise, adviseren en meedenken over de opzet en uitvoering van het onderzoek.
+- a) De commissie bestaat uit drie leden die gedurende de looptijd van het onderzoek met een onafhankelijke blik en vanuit eigen expertise, adviseren en meedenken over de opzet en uitvoering van het onderzoek.
 
-- b). De commissie geeft vanuit de verschillende expertises gevraagd en ongevraagd advies aan de ambtelijke werkgroep en aan het externe onderzoeksbureau. De commissie reageert op tussenrapporten van het onderzoek. De ambtelijke werkgroep draagt zorg voor het doorgeleiden van de adviezen en reacties van de commissie naar het externe onderzoeksbureau.
+- b) De commissie geeft vanuit de verschillende expertises gevraagd en ongevraagd advies aan de ambtelijke werkgroep en aan het externe onderzoeksbureau. De commissie reageert op tussenrapporten van het onderzoek. De ambtelijke werkgroep draagt zorg voor het doorgeleiden van de adviezen en reacties van de commissie naar het externe onderzoeksbureau.
 
-- c). Ten minste één van de betrokken onafhankelijk deskundigen van de commissie schrijft een oordeel over de kwaliteit van het onderzoek door het externe onderzoeksbureau, en geeft een toelichting op de betrokkenheid en inbreng van de commissie bij de totstandkoming van het eindrapport van het externe onderzoeksbureau. Dit oordeel en de toelichting worden als bijlage meegestuurd aan de Tweede Kamer.
+- c) Ten minste één van de betrokken onafhankelijk deskundigen van de commissie schrijft een oordeel over de kwaliteit van het onderzoek door het externe onderzoeksbureau, en geeft een toelichting op de betrokkenheid en inbreng van de commissie bij de totstandkoming van het eindrapport van het externe onderzoeksbureau. Dit oordeel en de toelichting worden als bijlage meegestuurd aan de Tweede Kamer.
 
 3. De ambtelijke werkgroep faciliteert de commissie in gesprekken en andere zaken die nodig zijn voor de uitvoering van de in dit artikel geformuleerde taakstelling.
 
@@ -112,7 +86,7 @@ De staatssecretaris voorziet met de ambtelijke werkgroep in de ondersteuning van
 
 ##### Artikel 8. Vergoeding
 
-Aan de drie leden wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10 zoals vastgelegd in de CAO-Rijk en de arbeidsduurfactor op [1/36].
+Aan de drie leden wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10 zoals vastgelegd in de CAO-Rijk en de arbeidsduurfactor op [1/36].
 
 ##### Artikel 9. Openbaarmaking
 
@@ -124,10 +98,8 @@ De begeleidingscommissie draagt zo spoedig mogelijk na beëindiging van haar wer
 
 ##### Artikel 11. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 november 2025.
+Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 november 2025.
 
 ##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Externe begeleidingscommissie Periodieke Rapportage Toeslagen.
-
-Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de betrokkenen.

@@ -1,39 +1,17 @@
 ---
 title: "Beleidsregel van de Minister van Volksgezondheid, Welzijn en Sport van 11 november 2025, kenmerk 4248897-1090174-GMT, over de verlening van Opiumontheffingen (Beleidsregel Opiumontheffing 2026)"
+citeertitel: "Beleidsregel Opiumontheffing 2026"
 identifier: "BWBR0051784"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051784"
+categorie: "Gezondheidszorg"
 soort: "beleidsregel"
-stam_id: "17604963"
-version_id: "31082902"
-internal_id: "C44501971"
-label_id: "17505544"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051784/2026-01-01/0"
-intitule_bron: "Stcrt.2025-39447"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-11-11"
-intitule_published: "2025-11-20"
-intitule_in_force: "2025-11-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-39447"
-original_signed_date: "2025-11-11"
-original_published_date: "2025-11-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-39447"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0051784&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0051784&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel Opiumontheffing 2026"
-signed_date: "2025-11-11"
-entry_into_force: "2026-01-01"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0051784"
+opgehaald: 2026-09-09
 ---
+
 # Beleidsregel van de Minister van Volksgezondheid, Welzijn en Sport van 11 november 2025, kenmerk 4248897-1090174-GMT, over de verlening van Opiumontheffingen (Beleidsregel Opiumontheffing 2026)
 
 De Minister van Volksgezondheid, Welzijn en Sport;
@@ -48,17 +26,43 @@ Uitgangspunt bij een aanvraag voor een Opiumontheffing is dat de noodzakelijkhei
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-### 1. Criteria verbonden aan de doeleinden genoemd in [artikel 8, eerste lid, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8)
+### 1. Criteria verbonden aan de doeleinden genoemd in artikel 8, eerste lid, van de Opiumwet
 
 De criteria die worden gehanteerd bij de beslissing op een aanvraag voor een Opiumontheffing zijn de volgende:
 
+Opiumontheffing dient het belang van de volksgezondheid of gezondheid van dieren (
+
+artikel 8, eerste lid, onder a
+
 Opiumontheffingen in het belang van de volksgezondheid kunnen enkel worden verleend aan partijen die namens of op verzoek van een overheidsorganisatie handelingen met Opiumwetmiddelen uitvoeren. Opiumontheffingen in het belang van de gezondheid van dieren kunnen worden verleend aan partijen die diergeneesmiddelen maken of daarin groothandelen.
+
+Opiumontheffing voor wetenschappelijk onderzoek, analytisch-chemisch onderzoek of instructieve doeleinden (
+
+artikel 8, eerste lid, onder b
 
 Van een Opiumontheffing die nodig is voor wetenschappelijk onderzoek is sprake, indien in ieder geval:
 
+- a. het doel van het onderzoek op wetenschappelijke wijze onderbouwd is;
+
+- b. voldaan is of binnen afzienbare tijd voldaan zal worden aan de van toepassing zijnde kwaliteitseisen, zoals GMP, GDP, GLP, GCP GCLP en diverse certificeringsnormen, zoals ISO en NEN;
+
+- c. indien aan voorgaande niet of nog niet kan worden voldaan, dit naar genoegen gemotiveerd is;
+
+- d. indien er proefpersonen zijn betrokken bij het onderzoek, een verklaring overlegd is waaruit blijkt dat de onderzoeksopzet met positief resultaat getoetst is door de daartoe bevoegde medisch-ethische commissie.
+
 Van een Opiumontheffing die nodig is voor analytisch-chemisch onderzoek is sprake indien:
 
+- a. het enkel een analyse van de samenstelling van het te analyseren product betreft, en het product niet aan verder inhoudelijk onderzoek wordt onderworpen;
+
+- b. voldaan is of binnen afzienbare tijd voldaan zal worden aan de van toepassing zijnde kwaliteitseisen, zoals GMP, GDP, GLP, GCP GCLP of diverse certificeringsnormen, zoals ISO en NEN;
+
+- c. indien aan voorgaande niet of nog niet kan worden voldaan, dit naar genoegen gemotiveerd is.
+
 Van een Opiumontheffing die nodig is voor instructieve doeleinden is sprake indien het betreft:
+
+- a. opleiding van speurhonden Opiumwetmiddelen: Opiumontheffingen voor het in Nederland opleiden van speurhonden worden slechts verleend ten behoeve van de opsporing van Opiumwetmiddelen. Deze opsporing is voorbehouden aan politie en douane. Zij leiden hiertoe intern de speurhonden op.
+
+- b. overige instructieve doeleinden, gericht op het opleiden van beroepsdeskundigen, zoals apothekers of onderzoekers.
 
 ### 2. Opiumontheffingen met betrekking tot cannabis
 
@@ -66,25 +70,37 @@ Van een Opiumontheffing die nodig is voor instructieve doeleinden is sprake indi
 
 Naast de algemene bepalingen van de [Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941) is een specifiek regime van toepassing op Opiumontheffingen met betrekking tot cannabis. Dit is vastgelegd in de [artikelen 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8), [8h](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8h) en [8i van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8i). In de Opiumwet worden verschillende producten op basis van cannabis vermeld, te weten hennep, hasjiesj en hennepolie, zijnde of afkomstig van de plant Cannabis Sativa L. Dit zijn termen die in de sector van medicinale cannabis niet meer gangbaar zijn. In deze beleidsregel wordt enkel gesproken over cannabis, daar waar het alle medicinale cannabisproducten van de plant Cannabis Sativa L. aangaat, inclusief levende planten zelf, met uitzondering van zuivere THC. Verder wordt gesproken over cannabis flos en preparaten van cannabis wanneer het uitsluitend over deze producten gaat. Onder deze begrippen wordt verstaan:
 
+- – cannabis flos: de gedroogde bloemtoppen van de vrouwelijke plant van Cannabis Sativa L., al dan niet in gegranuleerde vorm;
+
+- – preparaten van cannabis: een vast of vloeibaar mengsel van substanties voortkomend uit de cannabisplant.
+
 Het Bureau voor Medicinale Cannabis (BMC) is de instantie die Opiumontheffingen met betrekking tot cannabis verleent namens de Minister van Volksgezondheid, Welzijn en Sport. Daarnaast mag alleen het BMC cannabis in- en uitvoeren, verkopen, afleveren en aanwezig hebben op grond van [artikel 8i, vijfde lid, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8i).
 
 ### 2.2. Telen van cannabis
 
-Het BMC heeft de wettelijke taak ervoor te zorgen dat in Nederland voldoende cannabis wordt geteeld voor wetenschappelijk onderzoek naar de geneeskundige toepassing van cannabis en voor de productie van geneesmiddelen waarvan cannabis de werkzame stof is. Het BMC verleent niet méér Opiumontheffingen van het verbod tot teelt dan nodig is voor deze doeleinden en de veredeling van cannabis. Voorgaande leidt ertoe dat het BMC uitsluitend een Opiumontheffing voor teelt van cannabis verleent, indien de aanvrager aantoont dat de te telen cannabis in een vraag voorziet die bijdraagt aan één van de wettelijke doeleinden, zoals genoemd in de [artikelen 8h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8h), en [artikel 8i, eerste lid, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8i). Met uitsluiting van teelt ten behoeve van veredeling, wordt dit aangetoond aan de hand van het tonen van een overeenkomst met een derde partij die zich bezighoudt met activiteiten gerelateerd aan deze doeleinden. Hierbij geldt wel dat het leveren van cannabis flos aan apothekers of apotheekhoudende artsen in binnen- en buitenland en aan groothandels die deze aan apothekers of apotheekhoudende artsen leveren, is voorbehouden aan het BMC, die hiervoor partijen heeft gecontracteerd naar aanleiding van een aanbesteding. Dit wordt uiteengezet onder punt 2.3 van deze beleidsregel.
+Het BMC heeft de wettelijke taak ervoor te zorgen dat in Nederland voldoende cannabis wordt geteeld voor wetenschappelijk onderzoek naar de geneeskundige toepassing van cannabis en voor de productie van geneesmiddelen waarvan cannabis de werkzame stof is. Het BMC verleent niet méér Opiumontheffingen van het verbod tot teelt dan nodig is voor deze doeleinden en de veredeling van cannabis. Voorgaande leidt ertoe dat het BMC uitsluitend een Opiumontheffing voor teelt van cannabis verleent, indien de aanvrager aantoont dat de te telen cannabis in een vraag voorziet die bijdraagt aan één van de wettelijke doeleinden, zoals genoemd in de [artikelen 8h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8h), en [artikel 8i, eerste lid, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8i). Met uitsluiting van teelt ten behoeve van veredeling, wordt dit aangetoond aan de hand van het tonen van een overeenkomst met een derde partij die zich bezighoudt met activiteiten gerelateerd aan deze doeleinden. Hierbij geldt wel dat het leveren van cannabis flos aan apothekers of apotheekhoudende artsen in binnen- en buitenland en aan groothandels die deze aan apothekers of apotheekhoudende artsen leveren, is voorbehouden aan het BMC, die hiervoor partijen heeft gecontracteerd naar aanleiding van een aanbesteding. Dit wordt uiteengezet onder [punt 2.3](https://wetten.overheid.nl/BWBR0051784) van deze beleidsregel.
 
-### 2.3. Afwijkende regeling met betrekking tot handelingen, genoemd in [artikel 8i, vierde en vijfde lid, Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8i)
+### 2.3. Afwijkende regeling met betrekking tot handelingen, genoemd in artikel 8i, vierde en vijfde lid, Opiumwet
 
 Het BMC onderscheidt bij de uitvoering van het alleenrecht op het in- en uitvoeren, verkopen, afleveren en aanwezig hebben van cannabis, twee ‘regimes’ van verhandeling. Regime 1 betreft cannabis die het BMC op eigen initiatief bestelt ten behoeve van levering aan apothekers of apotheekhoudende artsen. Regime 2 betreft cannabis die andere marktpartijen via het BMC aan elkaar willen leveren.
 
+Regime 1
+
 Onder dit regime valt cannabis flos die direct van het BMC wordt afgenomen en die bestemd is voor apothekers en apotheekhoudende huisartsen in binnen- en buitenland. De cannabis flos onder dit regime wordt geproduceerd door een partij die het BMC heeft aanbesteed. Het BMC koopt de door hem bestelde en daartoe geteelde en geoogste cannabis binnen vier maanden na het oogsten op en neemt deze fysiek in bezit, indien de cannabis voldoet aan de geldende specificaties. Het BMC betaalt hier een bedrag voor, gebaseerd op afspraken uit de aanbesteding. Daarna kan het BMC overgaan tot verdere verkoop en fysieke overdracht van de cannabis flos, waarbij al dan niet sprake is van in- en uitvoer.
 
-Dit regime ziet op cannabis die door marktpartijen **via** het BMC aan andere marktpartijen wordt verhandeld. Onder dit regime:
+Regime 2
+
+Dit regime ziet op cannabis die door marktpartijen *via* het BMC aan andere marktpartijen wordt verhandeld. Onder dit regime:
+
+- – valt cannabis, m.u.v. de hieronder genoemde preparaten van cannabis, die wordt geleverd aan alle marktpartijen *behalve* indien deze bestemd is voor apothekers en apotheekhoudende huisartsen in binnen- en buitenland, en
+
+- – vallen preparaten van cannabis, die onder de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505) als werkzame stoffen worden beschouwd, die zijn geproduceerd met cannabis die in opdracht van het BMC is geteeld, en worden geleverd aan alle marktpartijen in binnen- en buitenland.
 
 Het BMC zal het invoeren, uitvoeren, verkopen en afleveren van cannabis onder dit regime faciliteren wanneer daartoe een verzoek wordt gedaan door of namens twee partijen die met elkaar handel willen drijven ten behoeve van één van de wettelijke doeleinden vermeld in [artikel 8h van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=8h).
 
 Indien partijen binnen regime 2 dit verzoek doen, gaat het BMC samen met de aanbiedende en afnemende partij overeenkomsten aan; in één overeenkomst worden de kwaliteitseisen van de te leveren cannabis vastgelegd. In een andere overeenkomst wordt vastgelegd dat de genoemde categorieën cannabis om-niet (gratis) door het BMC worden opgekocht en door het BMC op papier in bezit worden genomen, waarna het bezit om-niet wordt verkocht aan een afnemende partij.1Zie [www.cannabisbureau.nl](http://www.cannabisbureau.nl) De fysieke overdracht van goederen, inclusief betaling, kan plaatsvinden tussen de aanbiedende en de afnemende partij. Hierbij kan sprake zijn van in- of uitvoer van goederen, waartoe het BMC het alleenrecht heeft. Partijen zullen in hun verzoek om medewerking van het BMC de noodzaak van de hoeveelheid van de via het BMC te leveren cannabis voldoende duidelijk moeten maken. De partij die de cannabis wenst te leveren, moet bovendien aantonen dat, indien van toepassing, niet meer geteeld is dan waarop het verzoek betrekking heeft.
 
-### 3. [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798) (Wet Bibob)
+### 3. Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (Wet Bibob)
 
 In het kader van bestuurlijke preventie van criminaliteit en om te voorkomen dat een Opiumontheffing misbruikt zal worden, kan gedurende de aanvraagperiode een onderzoek in het kader van de [Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798) plaatsvinden en kunnen Opiumontheffing-houders ook gedurende de looptijd van de Opiumontheffing onderworpen worden aan een dergelijk onderzoek. Het Bibob-onderzoek kan aanleiding vormen om een Opiumontheffing niet te verlenen of in te trekken. Het Bibob-beleid voor Opiumontheffingen voor cannabis wordt separaat gepubliceerd.2Zie [www.cannabisbureau.nl](http://www.cannabisbureau.nl)
 
@@ -106,7 +122,7 @@ De procedure voor het aanvragen van een in- of uitvoerontheffing tot binnen of b
 
 ### 6. Afwijkende regeling met betrekking tot invoer en uitvoer van cannabis
 
-Bij punt 2.3 staat omschreven hoe en onder welke omstandigheden het BMC meewerkt aan verzoeken tot in- en uitvoer.
+Bij [punt 2.3](https://wetten.overheid.nl/BWBR0051784) staat omschreven hoe en onder welke omstandigheden het BMC meewerkt aan verzoeken tot in- en uitvoer.
 
 ### 7. Tarieven
 
@@ -120,10 +136,8 @@ De [Beleidsregel opiumontheffing](https://wetten.overheid.nl/jci1.3:c:BWBR005022
 
 ### 9. Inwerkingtreding
 
-Deze beleidsregel treedt in werking met ingang van 1 januari 2026.
+Deze beleidsregel treedt in werking met ingang van 1 januari 2026.
 
 ### 10. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel Opiumontheffing 2026.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

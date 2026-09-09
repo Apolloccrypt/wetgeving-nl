@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregel van de Dienst Wegverkeer (RDW) inzake toepassing van regels van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur op de toetsing van erkenningen (Beleidsregel toetsing erkenningen aan de Wet Bibob)"
+citeertitel: "Beleidsregel toetsing erkenningen aan de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (Bibob) door de Dienst Wegverkeer"
 identifier: "BWBR0051895"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-12-05"
-last_updated: "2025-12-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051895"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "17652423"
-version_id: "31143812"
-internal_id: "C44567151"
-label_id: "17552084"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051895/2025-12-05/0"
-intitule_bron: "Stcrt.2025-41479"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-11-12"
-intitule_published: "2025-12-04"
-intitule_in_force: "2025-12-04"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-41479"
-original_signed_date: "2025-11-12"
-original_published_date: "2025-12-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-41479"
-entry_into_force_date: "2025-12-05"
-jci_1_3: "jci1.3:c:BWBR0051895&z=2025-12-05&g=2025-12-05"
-jci_1_0: "1.0:c:BWBR0051895&g=2025-12-05"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel toetsing erkenningen aan de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (Bibob) door de Dienst Wegverkeer"
-signed_date: "2025-11-12"
-entry_into_force: "2025-12-05"
+publicatiedatum: 2025-12-05
+laatste_update: 2025-12-05
+status: geldig
+toestand: 2025-12-05
+bron: "https://wetten.overheid.nl/BWBR0051895"
+opgehaald: 2026-09-09
 ---
+
 # Beleidsregel van de Dienst Wegverkeer (RDW) inzake toepassing van regels van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur op de toetsing van erkenningen (Beleidsregel toetsing erkenningen aan de Wet Bibob)
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ### Hoofdstuk 1. Definities en toepassing
 
@@ -48,23 +22,24 @@ Besluit:
 
 2. In deze beleidsregel wordt verstaan onder:
 
-- a. **Minister:** Minister van Infrastructuur en Waterstaat;
+- a. *Minister:* Minister van Infrastructuur en Waterstaat;
 
-- b. **wet:** [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798);
+- b. *wet:*
+ [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798);
 
-- c. **Bibob-toets:** het onderzoek en de beoordeling door het bestuursorgaan en/of het Bureau of, en zo ja in hoeverre sprake is van de situatie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3), [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=4) en [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9).
+- c. *Bibob-toets:* het onderzoek en de beoordeling door het bestuursorgaan en/of het Bureau of, en zo ja in hoeverre sprake is van de situatie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3), [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=4) en [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9).
 
-- d. **RDW:** de Dienst Wegverkeer, als bedoeld in de [Wegenverkeerswet](onbekend);
+- d. *RDW:* de Dienst Wegverkeer, als bedoeld in de [Wegenverkeerswet](https://wetten.overheid.nl/BWBR0006622);
 
-- e. **erkenning:** basiserkenning of erkenning voor specifieke handelingen;
+- e. *erkenning:* basiserkenning of erkenning voor specifieke handelingen;
 
-- f. **basiserkenning:** basiserkenning als bedoeld in [artikel 4aua, eerste lid van de Wegenverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aua);
+- f. *basiserkenning:* basiserkenning als bedoeld in [artikel 4aua, eerste lid van de Wegenverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aua);
 
-- g. **erkenning voor specifieke handelingen:** erkenning als bedoeld in [artikel 4aud, eerste lid van de Wegenverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aud);
+- g. *erkenning voor specifieke handelingen:* erkenning als bedoeld in [artikel 4aud, eerste lid van de Wegenverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aud);
 
-- h. **erkenninghouder:** een natuurlijk persoon of rechtspersoon waaraan een basiserkenning in combinatie met een of meer erkenningen voor specifieke handelingen is verleend (als bedoeld in [artikel 1, eerste lid, onderdeel x van de Wegenverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1)).
+- h. *erkenninghouder:* een natuurlijk persoon of rechtspersoon waaraan een basiserkenning in combinatie met een of meer erkenningen voor specifieke handelingen is verleend (als bedoeld in [artikel 1, eerste lid, onderdeel x van de Wegenverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1)).
 
-- i. **betrokkene:** de erkenninghouder dan wel de aanvrager van een erkenning.
+- i. *betrokkene:* de erkenninghouder dan wel de aanvrager van een erkenning.
 
 ### Hoofdstuk 2. Publiekrechtelijke beschikkingen
 
@@ -86,17 +61,17 @@ Besluit:
 
 - g. Op grond van:
 
-- –. informatie die bij de RDW bekend is;
+   - – informatie die bij de RDW bekend is;
 
-- –. informatie verkregen van het Bureau, zoals een tip als bedoeld in [artikel 11a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=11a);
+   - – informatie verkregen van het Bureau, zoals een tip als bedoeld in [artikel 11a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=11a);
 
-- –. informatie verkregen op grond van [artikel 26 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=26);
+   - – informatie verkregen op grond van [artikel 26 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=26);
 
-- –. overige signalen;
+   - – overige signalen;
 
-- –. gedragingen van de aanvrager of houder van een erkenning;
+   - – gedragingen van de aanvrager of houder van een erkenning;
 
-- –. betrokkenheid van de aanvrager of houder van een erkenning bij milieucriminaliteit, opiumwetfeiten, witwassen en/of mensenhandel.
+   - – betrokkenheid van de aanvrager of houder van een erkenning bij milieucriminaliteit, opiumwetfeiten, witwassen en/of mensenhandel.
 
 2. De RDW kan voorts uitvoering geven aan een Bibob-toets indien sprake is van de volgende kenmerken van de aanvrager of houder van een erkenning of de omgeving waarbinnen hij zijn activiteiten verricht:
 

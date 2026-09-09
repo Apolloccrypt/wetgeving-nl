@@ -1,46 +1,18 @@
 ---
 title: "Besluit van het Stimuleringsfonds voor de Journalistiek van 21 augustus 2025, nr. OJ2526VD, tot vaststelling van een Subsidieregeling Verduurzaming Onderzoeksjournalistieke Organisaties 2025–2026"
+citeertitel: "Regeling Verduurzaming Onderzoeksjournalistieke Organisaties 2025–2026"
 identifier: "BWBR0051520"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-09-24"
-last_updated: "2025-09-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051520"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17528123"
-version_id: "30928162"
-internal_id: "C44308421"
-label_id: "17430054"
-dtd_version: "2.0"
-original_entry_into_force: "2025-09-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051520/2025-09-24/0"
-intitule_bron: "Stcrt.2025-32174"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-08-21"
-intitule_published: "2025-09-23"
-intitule_in_force: "2025-09-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-32174"
-original_signed_date: "2025-08-21"
-original_published_date: "2025-09-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-32174"
-entry_into_force_date: "2025-09-24"
-jci_1_3: "jci1.3:c:BWBR0051520&z=2025-09-24&g=2025-09-24"
-jci_1_0: "1.0:c:BWBR0051520&g=2025-09-24"
-citeertitel_status: "officieel"
-short_title: "Regeling Verduurzaming Onderzoeksjournalistieke Organisaties 2025–2026"
-signed_date: "2025-08-21"
-entry_into_force: "2025-09-24"
+publicatiedatum: 2025-09-24
+laatste_update: 2025-09-24
+status: geldig
+toestand: 2025-09-24
+bron: "https://wetten.overheid.nl/BWBR0051520"
+opgehaald: 2026-09-09
 ---
+
 # Besluit van het Stimuleringsfonds voor de Journalistiek van 21 augustus 2025, nr. OJ2526VD, tot vaststelling van een Subsidieregeling Verduurzaming Onderzoeksjournalistieke Organisaties 2025–2026
-
-Handelende in overeenstemming met de Minister van Onderwijs, Cultuur en Wetenschap,
-
-Gelet op [artikel 8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.3) en [8.15a van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.15a);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -48,45 +20,46 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a). **Journalistiek handelen:** het vergaren, verwerken en verspreiden van informatie en nieuws, waarbij:
+- a) *Journalistiek handelen:* het vergaren, verwerken en verspreiden van informatie en nieuws, waarbij:
 
-- i. het gaat om onafhankelijk tot stand gekomen berichtgeving die bestemd is voor een breed publiek en die bestaat uit originele, eigen content die niet machine-gegenereerd is;
+   - i. het gaat om onafhankelijk tot stand gekomen berichtgeving die bestemd is voor een breed publiek en die bestaat uit originele, eigen content die niet machine-gegenereerd is;
 
-- ii. gestreefd wordt naar zo accuraat en evenwichtig mogelijke berichtgeving; en
+   - ii. gestreefd wordt naar zo accuraat en evenwichtig mogelijke berichtgeving; en
 
-- iii. verantwoording wordt afgelegd en transparant wordt gehandeld en waarbij de afzender van de content duidelijk wordt gemaakt.
+   - iii. verantwoording wordt afgelegd en transparant wordt gehandeld en waarbij de afzender van de content duidelijk wordt gemaakt.
 
-- b). **Onderzoeksjournalistiek:** kritisch en diepgravend journalistiek onderzoek:
+- b) *Onderzoeksjournalistiek:* kritisch en diepgravend journalistiek onderzoek:
 
-- i. dat wordt uitgevoerd op basis van een onafhankelijk geformuleerde onderzoeksvraag (waarmee vooral bedoeld wordt dat de opzet is om langs journalistieke weg iets te onderzoeken, anders dan aan te tonen) en met toepassing van specifiek onderzoeksjournalistieke methoden;
+   - i. dat wordt uitgevoerd op basis van een onafhankelijk geformuleerde onderzoeksvraag (waarmee vooral bedoeld wordt dat de opzet is om langs journalistieke weg iets te onderzoeken, anders dan aan te tonen) en met toepassing van specifiek onderzoeksjournalistieke methoden;
 
-- ii. dat beoogt feiten en verbanden bloot te leggen die apart of in hun samenhang nog niet zichtbaar waren; en
+   - ii. dat beoogt feiten en verbanden bloot te leggen die apart of in hun samenhang nog niet zichtbaar waren; en
 
-- iii. waarbij een zeker algemeen maatschappelijk belang in het geding is.
+   - iii. waarbij een zeker algemeen maatschappelijk belang in het geding is.
 
-- c). **Onderzoeksjournalistieke organisatie:** een private of publieke organisatie met als hoofdactiviteit en missie het bedrijven van onderzoeksjournalistiek in plaats van het maken van regulier, dagelijks nieuws waarbij:
+- c) *Onderzoeksjournalistieke organisatie:* een private of publieke organisatie met als hoofdactiviteit en missie het bedrijven van onderzoeksjournalistiek in plaats van het maken van regulier, dagelijks nieuws waarbij:
 
-- i. de activiteiten zijn gericht op de Nederlandse markt; en
+   - i. de activiteiten zijn gericht op de Nederlandse markt; en
 
-- ii. minimaal 25% van het product of de dienst tot stand is gekomen op basis van journalistiek handelen; en
+   - ii. minimaal 25% van het product of de dienst tot stand is gekomen op basis van journalistiek handelen; en
 
-- iii. deze staat ingeschreven in het Handelsregister bij de Kamer van Koophandel dan wel deze inschrijving binnen 3 weken na het besluit tot subsidieverlening verkrijgt.
+   - iii. deze staat ingeschreven in het Handelsregister bij de Kamer van Koophandel dan wel deze inschrijving binnen 3 weken na het besluit tot subsidieverlening verkrijgt.
 
-- d). **Ontwikkelbudget:** subsidie voor kortlopende projecten ten behoeve van de financiële verduurzaming van onderzoeksjournalistieke organisaties.
+- d) *Ontwikkelbudget:* subsidie voor kortlopende projecten ten behoeve van de financiële verduurzaming van onderzoeksjournalistieke organisaties.
 
-- e). **Stimuleringsfonds:** het Stimuleringsfonds voor de Journalistiek, bedoeld in [artikel 8.2 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.2).
+- e) *Stimuleringsfonds:* het Stimuleringsfonds voor de Journalistiek, bedoeld in [artikel 8.2 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.2).
 
-- f). **DAEB:** dienst van algemeen economisch belang als bedoeld in artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie;
+- f) *DAEB:* dienst van algemeen economisch belang als bedoeld in artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie;
 
-- g). **DAEB de-minimisverordening:** [Verordening (EU) 2023/2832](32023R2832) van de Commissie van 13 december 2023 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun verleend aan diensten van algemeen economisch belang verrichtende ondernemingen, C/2023/9701, PB L, 2023/2832, 15.12.2023.
+- g) *DAEB de-minimisverordening:*
+ Verordening (EU) 2023/2832 van de Commissie van 13 december 2023 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun verleend aan diensten van algemeen economisch belang verrichtende ondernemingen, C/2023/9701, PB L, 2023/2832, 15.12.2023.
 
-- h). **DAEB de-minimissteun:** steun die wordt verleend binnen de kaders van de DAEB de-minimisverordening.
+- h) *DAEB de-minimissteun:* steun die wordt verleend binnen de kaders van de DAEB de-minimisverordening.
 
 ##### Artikel 1.2. Doel van de subsidie, subsidieperiode en subsidiabele activiteiten
 
 1. Subsidieverstrekking op grond van deze regeling heeft tot doel het financieel verduurzamen van onderzoeksjournalistieke organisaties. Om dat doel te bereiken kan het Stimuleringsfonds subsidie verstrekken voor activiteiten ten behoeve van het structureel versterken van de financiële basis van onderzoeksjournalistieke organisaties. Hiermee wordt het voor dergelijke organisaties mogelijk om, ten bate van de financiële verduurzaming, zowel onderzoeksjournalistiek te kunnen bedrijven als te kunnen werken aan hun zakelijke ontwikkeling. Daarnaast is deelname aan een door het Stimuleringsfonds aangeboden begeleidingsprogramma onlosmakelijk aan de subsidieverstrekking verbonden.
 
-2. Het Stimuleringsfonds kan aan onderzoeksjournalistieke organisaties subsidie verstrekken voor de kosten van subsidiabele activiteiten die worden uitgevoerd in de periode 1 januari 2026 tot en met 31 december 2026.
+2. Het Stimuleringsfonds kan aan onderzoeksjournalistieke organisaties subsidie verstrekken voor de kosten van subsidiabele activiteiten die worden uitgevoerd in de periode 1 januari 2026 tot en met 31 december 2026.
 
 ##### Artikel 1.3. Subsidieplafond
 
@@ -108,17 +81,17 @@ In deze regeling wordt verstaan onder:
 
 5. Op grond van deze regeling kan subsidie worden verstrekt voor de volgende kosten:
 
-- a). Loonkosten: de kosten van een passende beloning van medewerkers die activiteiten uitvoeren ten behoeve van de financiële verduurzaming van de onderzoeksjournalistieke organisatie van tot maximaal 58.500 euro naar rato per medewerker per kalenderjaar, inclusief werkgeverslasten;
+- a) Loonkosten: de kosten van een passende beloning van medewerkers die activiteiten uitvoeren ten behoeve van de financiële verduurzaming van de onderzoeksjournalistieke organisatie van tot maximaal 58.500 euro naar rato per medewerker per kalenderjaar, inclusief werkgeverslasten;
 
-- b). Operationele kosten tot maximaal 15% van het aangevraagde subsidiebedrag:
+- b) Operationele kosten tot maximaal 15% van het aangevraagde subsidiebedrag:
 
-- i. reis- en verblijfskosten van medewerkers;
+   - i. reis- en verblijfskosten van medewerkers;
 
-- ii. opleidingskosten van medewerkers;
+   - ii. opleidingskosten van medewerkers;
 
-- iii. administratieve kosten en overheadkosten, zoals inhuur administratiekantoor, salarisadministratie en kosten voor werving van nieuwe medewerkers;
+   - iii. administratieve kosten en overheadkosten, zoals inhuur administratiekantoor, salarisadministratie en kosten voor werving van nieuwe medewerkers;
 
-- iv. accountantskosten voor het opstellen van een rapport van feitelijke bevindingen.
+   - iv. accountantskosten voor het opstellen van een rapport van feitelijke bevindingen.
 
 6. Verschuldigde btw komt uitsluitend voor subsidie in aanmerking ingeval de aanvrager deze niet kan verrekenen.
 
@@ -132,31 +105,31 @@ Subsidie kan worden aangevraagd door een onderzoeksjournalistieke organisatie in
 
 1. Een aanvraag wordt uitsluitend ingediend door het invullen van een door het Stimuleringsfonds vastgesteld aanvraagformulier op de website van het Stimuleringsfonds, volgens de daarbij vermelde instructies, en omvat in ieder geval:
 
-- a). Een beschrijving van de voorgenomen activiteiten, de ambities en het einddoel van het plan;
+- a) Een beschrijving van de voorgenomen activiteiten, de ambities en het einddoel van het plan;
 
-- b). Een beschrijving van de aard en omvang van het team dat de voorgenomen activiteiten gaat uitvoeren;
+- b) Een beschrijving van de aard en omvang van het team dat de voorgenomen activiteiten gaat uitvoeren;
 
-- c). Cv’s van alle deelnemende teamleden;
+- c) Cv’s van alle deelnemende teamleden;
 
-- d). Een realistische begroting inclusief dekkingsplan, volgens een door het Stimuleringsfonds vastgestelde modelbegroting, van de met de voorgenomen activiteiten verband houdende kosten
+- d) Een realistische begroting inclusief dekkingsplan, volgens een door het Stimuleringsfonds vastgestelde modelbegroting, van de met de voorgenomen activiteiten verband houdende kosten
 
-- e). Een organisatiebegroting voor 2026;
+- e) Een organisatiebegroting voor 2026;
 
-- f). Concrete voorstellen voor het meten en waarderen van behaalde resultaten waarbij vooraf bepaalde **key performance indicators**(kpi’s) worden gehanteerd. Deze kpi's worden na subsidieverlening in overleg met het Stimuleringsfonds vastgesteld en dienen als basis voor de evaluatie van de voortgang van het project.
+- f) Concrete voorstellen voor het meten en waarderen van behaalde resultaten waarbij vooraf bepaalde *key performance indicators*(kpi’s) worden gehanteerd. Deze kpi's worden na subsidieverlening in overleg met het Stimuleringsfonds vastgesteld en dienen als basis voor de evaluatie van de voortgang van het project.
 
-- g). Een redactiestatuut of vergelijkbaar document waaruit blijkt dat de aanvrager vanuit onafhankelijkheid opereert en werkt volgens vastgestelde journalistieke uitgangspunten en waarden;
+- g) Een redactiestatuut of vergelijkbaar document waaruit blijkt dat de aanvrager vanuit onafhankelijkheid opereert en werkt volgens vastgestelde journalistieke uitgangspunten en waarden;
 
-- h). Een de-minimisverklaring, volgens een door het Stimuleringsfonds vastgesteld model, over de de-minimissteun en andere staatssteun die de aanvrager in de afgelopen drie jaren heeft ontvangen;
+- h) Een de-minimisverklaring, volgens een door het Stimuleringsfonds vastgesteld model, over de de-minimissteun en andere staatssteun die de aanvrager in de afgelopen drie jaren heeft ontvangen;
 
-- i). Indien beschikbaar: het Kamer van Koophandel nummer;
+- i) Indien beschikbaar: het Kamer van Koophandel nummer;
 
-- j). Indien beschikbaar de meest recente jaarrekening en het meest recente jaarverslag.
+- j) Indien beschikbaar de meest recente jaarrekening en het meest recente jaarverslag.
 
 2. Een aanvraag wordt alleen in behandeling genomen als deze volledig is. Het Stimuleringsfonds beoordeelt binnen een week na indiening van de aanvraag de volledigheid daarvan. In voorkomend geval krijgt de aanvrager bericht over ontbrekende gegevens, met de eenmalige uitnodiging om de ontbrekende gegevens alsnog binnen één week aan te leveren. Blijft tijdige en volledige aanlevering van de gegevens uit, dan wordt de aanvraag geweigerd.
 
 ##### Artikel 2.3. Termijn aanvraag
 
-Een aanvraag wordt ingediend in de periode van 16 september 2025 tot en met 20 oktober 2025 om 23:59 uur.
+Een aanvraag wordt ingediend in de periode van 16 september 2025 tot en met 20 oktober 2025 om 23:59 uur.
 
 ### Hoofdstuk 3. Subsidieverlening
 
@@ -168,7 +141,7 @@ Het voor subsidie beschikbare bedrag wordt verdeeld op basis van een rangschikki
 
 1. Aanvragen worden door het Stimuleringsfonds eerst beoordeeld aan de hand van het volgende drempelcriterium:
 
-- a). de aanvrager voldoet aan [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0051520&hoofdstuk=2&artikel=2.1&z=2025-09-24&g=2025-09-24) van de regeling.
+- a) de aanvrager voldoet aan [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0051520&hoofdstuk=2&artikel=2.1&z=2025-09-24&g=2025-09-24) van de regeling.
 
 2. Als een aanvraag niet aan het drempelcriterium voldoet, wijst het Stimuleringsfonds de aanvraag af.
 
@@ -176,11 +149,11 @@ Het voor subsidie beschikbare bedrag wordt verdeeld op basis van een rangschikki
 
 1. Aanvragen worden beoordeeld aan de hand van de volgende inhoudelijke criteria:
 
-- a). **Team**: in hoeverre bestaat het team uit de nodige competenties om de organisatie inhoudelijk en zakelijk te helpen groeien?
+- a) *Team*: in hoeverre bestaat het team uit de nodige competenties om de organisatie inhoudelijk en zakelijk te helpen groeien?
 
-- b). **Meerwaarde voor het veld**: in hoeverre levert de organisatie een bijdrage aan de ontwikkeling van de onderzoeksjournalistiek in zijn geheel?
+- b) *Meerwaarde voor het veld*: in hoeverre levert de organisatie een bijdrage aan de ontwikkeling van de onderzoeksjournalistiek in zijn geheel?
 
-- c). **Duurzaamheid**: in hoeverre is het aannemelijk dat de subsidie en het begeleidingsprogramma als een vliegwiel kunnen fungeren voor het vergaren van andere inkomsten en leidt het tot verdere financiële stabiliteit van de organisatie?
+- c) *Duurzaamheid*: in hoeverre is het aannemelijk dat de subsidie en het begeleidingsprogramma als een vliegwiel kunnen fungeren voor het vergaren van andere inkomsten en leidt het tot verdere financiële stabiliteit van de organisatie?
 
 2. In de toelichting op deze regeling zijn de criteria en de wijze waarop het Stimuleringsfonds de criteria weegt, uitgewerkt.
 
@@ -200,17 +173,17 @@ Het voor subsidie beschikbare bedrag wordt verdeeld op basis van een rangschikki
 
 7. Indien het totaalbedrag van de in aanmerking komende aanvragen het subsidieplafond overschrijdt, wordt het budget als volgt verdeeld:
 
-- a). de aanvraag die de meeste punten scoort volgens de rangschikking als genoemd in het vijfde lid, wordt als eerste gehonoreerd;
+- a) de aanvraag die de meeste punten scoort volgens de rangschikking als genoemd in het vijfde lid, wordt als eerste gehonoreerd;
 
-- b). telkens wordt de daaropvolgende aanvraag die de meeste punten scoort, als eerste gehonoreerd;
+- b) telkens wordt de daaropvolgende aanvraag die de meeste punten scoort, als eerste gehonoreerd;
 
-- c). indien meerdere aanvragen dezelfde score hebben gehaald en honorering van deze aanvragen tot overschrijding van het subsidieplafond zou leiden, dan worden deze gelijk geëindigde aanvragen als volgt gerangschikt:
+- c) indien meerdere aanvragen dezelfde score hebben gehaald en honorering van deze aanvragen tot overschrijding van het subsidieplafond zou leiden, dan worden deze gelijk geëindigde aanvragen als volgt gerangschikt:
 
-- i. op basis van de toegekende score op het criterium ‘Meerwaarde voor het veld’;
+   - i. op basis van de toegekende score op het criterium ‘Meerwaarde voor het veld’;
 
-- ii. de alsdan gelijk beoordeelde aanvragen op basis van de toegekende score op het criterium 'Duurzaamheid’;
+   - ii. de alsdan gelijk beoordeelde aanvragen op basis van de toegekende score op het criterium 'Duurzaamheid’;
 
-- iii. de alsdan gelijk beoordeelde aanvragen op basis van loting door een notaris.
+   - iii. de alsdan gelijk beoordeelde aanvragen op basis van loting door een notaris.
 
 8. Wanneer door de verstrekking van een subsidie het subsidieplafond zou worden overschreden, worden zowel de aanvraag voor die subsidie als de daarop in de rangorde volgende aanvragen, afgewezen.
 
@@ -230,9 +203,9 @@ Voor zover subsidies worden verleend ten laste van een begroting die nog niet is
 
 1. Bij subsidieverlening wordt het verleende subsidiebedrag in twee termijnen betaald, waarbij:
 
-- a). negentig procent van het verleende subsidiebedrag bij wijze van voorschot wordt betaald binnen vier weken na bekendmaking van het besluit tot subsidieverlening;
+- a) negentig procent van het verleende subsidiebedrag bij wijze van voorschot wordt betaald binnen vier weken na bekendmaking van het besluit tot subsidieverlening;
 
-- b). als de subsidie overeenkomstig de verlening wordt vastgesteld, het restant van tien procent na het besluit tot subsidievaststelling wordt betaald.
+- b) als de subsidie overeenkomstig de verlening wordt vastgesteld, het restant van tien procent na het besluit tot subsidievaststelling wordt betaald.
 
 2. In overleg kan het Stimuleringsfonds bij wijze van uitzondering afwijken van de hoogte van bovengenoemde tranches en overgaan tot een andere percentuele betaling.
 
@@ -244,13 +217,13 @@ Voor zover subsidies worden verleend ten laste van een begroting die nog niet is
 
 2. Een aanvraag wordt uitsluitend ingediend door het invullen van een door het Stimuleringsfonds vastgesteld aanvraagformulier op de website van het Stimuleringsfonds, volgens de daarbij vermelde instructies, en omvat in ieder geval:
 
-- a). een beschrijving van de voorgenomen activiteiten;
+- a) een beschrijving van de voorgenomen activiteiten;
 
-- b). een realistische begroting, conform een door het Stimuleringsfonds vastgestelde modelbegroting, van de met de voorgenomen activiteiten verband houdende kosten
+- b) een realistische begroting, conform een door het Stimuleringsfonds vastgestelde modelbegroting, van de met de voorgenomen activiteiten verband houdende kosten
 
-- c). een onderbouwing van de wijze waarop het voorgenomen kortlopende project bijdraagt aan de financiële verduurzaming van de onderzoeksjournalistieke organisatie;
+- c) een onderbouwing van de wijze waarop het voorgenomen kortlopende project bijdraagt aan de financiële verduurzaming van de onderzoeksjournalistieke organisatie;
 
-- d). Een de-minimisverklaring, volgens een door het Stimuleringsfonds vastgesteld model, over de de-minimissteun en andere staatssteun die de aanvrager in de afgelopen drie jaren heeft ontvangen.
+- d) Een de-minimisverklaring, volgens een door het Stimuleringsfonds vastgesteld model, over de de-minimissteun en andere staatssteun die de aanvrager in de afgelopen drie jaren heeft ontvangen.
 
 3. Het Stimuleringsfonds bevestigt binnen 4 weken op een aanvraag voor ontwikkelbudget.
 
@@ -288,13 +261,13 @@ Voor zover subsidies worden verleend ten laste van een begroting die nog niet is
 
 2. De aanvragen voor ontwikkelbudget worden beoordeeld op de volgende criteria:
 
-- a). het voorgenomen project waarvoor ontwikkelbudget wordt aangevraagd draagt bij aan de verdere ontwikkeling en uitvoering van de activiteiten ten behoeve van het structureel versterken van de financiële basis;
+- a) het voorgenomen project waarvoor ontwikkelbudget wordt aangevraagd draagt bij aan de verdere ontwikkeling en uitvoering van de activiteiten ten behoeve van het structureel versterken van de financiële basis;
 
-- b). de begroting geeft blijk van een realistische verhouding tussen de kosten en de voorgenomen activiteiten
+- b) de begroting geeft blijk van een realistische verhouding tussen de kosten en de voorgenomen activiteiten
 
-- c). het voorgenomen project kan worden uitgevoerd binnen een periode van 3 maanden;
+- c) het voorgenomen project kan worden uitgevoerd binnen een periode van 3 maanden;
 
-- d). bij de totstandkoming van het voorgenomen project is de door het Stimuleringsfonds vastgestelde ontwikkelmethode gevolgd.
+- d) bij de totstandkoming van het voorgenomen project is de door het Stimuleringsfonds vastgestelde ontwikkelmethode gevolgd.
 
 3. Indien de activiteiten waarvoor ontwikkelbudget wordt aangevraagd niet voldoen aan de criteria uit het tweede lid, dan wordt de aanvraag afgewezen.
 
@@ -312,7 +285,7 @@ Voor zover subsidies worden verleend ten laste van een begroting die nog niet is
 
 1. Een aanvraag tot subsidievaststelling wordt ingediend na afloop van elk project binnen het begeleidingsprogramma, uiterlijk op de daartoe door het Stimuleringsfonds vast te stellen data.
 
-2. Alle aanvragen tot subsidievaststelling moeten uiterlijk 28 februari 2027 zijn ingediend.
+2. Alle aanvragen tot subsidievaststelling moeten uiterlijk 28 februari 2027 zijn ingediend.
 
 3. Een aanvraag tot subsidievaststelling gaat vergezeld van een activiteitenverslag en een financieel verslag, zoals bedoeld in [artikel 4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0051520&hoofdstuk=4&artikel=4.8&z=2025-09-24&g=2025-09-24). Het activiteitenverslag en het financieel verslag worden uitsluitend ingediend volgens een door het Stimuleringsfonds vast te stellen format.
 
@@ -356,7 +329,7 @@ Voor zover subsidies worden verleend ten laste van een begroting die nog niet is
 
 ##### Artikel 7.1. Aanvraag tot vaststelling
 
-1. Een aanvraag tot subsidievaststelling wordt uiterlijk 28 februari 2027 ingediend.
+1. Een aanvraag tot subsidievaststelling wordt uiterlijk 28 februari 2027 ingediend.
 
 2. De aanvraag tot subsidievaststelling gaat vergezeld van een inhoudelijk verslag en een financieel verslag als bedoeld in [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0051520&hoofdstuk=7&artikel=7.2&z=2025-09-24&g=2025-09-24).
 
@@ -366,9 +339,9 @@ Voor zover subsidies worden verleend ten laste van een begroting die nog niet is
 
 2. Het financieel verslag bevat:
 
-- a). een bestedingsverantwoording over de gehele subsidieperiode, afgezet tegen de begroting zoals deze bij de subsidieaanvraag is ingediend; en
+- a) een bestedingsverantwoording over de gehele subsidieperiode, afgezet tegen de begroting zoals deze bij de subsidieaanvraag is ingediend; en
 
-- b). een rapport van feitelijke bevindingen opgesteld door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). In dit rapport wordt vastgesteld in hoeverre de opgevoerde kosten zoals beschreven in het format van het Stimuleringsfonds aansluiten op financiële administratie van de onderzoeksjournalistieke organisatie.
+- b) een rapport van feitelijke bevindingen opgesteld door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). In dit rapport wordt vastgesteld in hoeverre de opgevoerde kosten zoals beschreven in het format van het Stimuleringsfonds aansluiten op financiële administratie van de onderzoeksjournalistieke organisatie.
 
 3. Het inhoudelijke verslag en het financieel verslag worden opgesteld volgens een door het Stimuleringsfonds vast te stellen format.
 
@@ -378,23 +351,23 @@ Voor zover subsidies worden verleend ten laste van een begroting die nog niet is
 
 1. Zolang de subsidie niet is vastgesteld kan het Stimuleringsfonds de subsidieverlening intrekken of ten nadele van de subsidieontvanger wijzigen als:
 
-- a). de activiteiten waarvoor subsidie is verleend niet of niet geheel hebben plaatsgevonden of zullen plaatsvinden;
+- a) de activiteiten waarvoor subsidie is verleend niet of niet geheel hebben plaatsgevonden of zullen plaatsvinden;
 
-- b). de subsidieontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichtingen;
+- b) de subsidieontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichtingen;
 
-- c). de subsidieontvanger onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van juiste of volledige gegevens tot een andere beschikking op de aanvraag tot subsidieverlening zou hebben geleid;
+- c) de subsidieontvanger onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van juiste of volledige gegevens tot een andere beschikking op de aanvraag tot subsidieverlening zou hebben geleid;
 
-- d). de subsidieverlening anderszins onjuist was en de subsidieontvanger dit wist of behoorde te weten.
+- d) de subsidieverlening anderszins onjuist was en de subsidieontvanger dit wist of behoorde te weten.
 
 2. De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is verleend, tenzij het Stimuleringsfonds bij de intrekking of wijziging anders bepaalt.
 
 3. Het Stimuleringsfonds kan de subsidievaststelling intrekken of ten nadele van de subsidieontvanger wijzigen:
 
-- a). op grond van feiten of omstandigheden waarvan het Stimuleringsfonds bij de subsidievaststelling redelijkerwijs niet op de hoogte kon zijn en op grond waarvan de subsidie lager dan overeenkomstig de subsidieverlening zou zijn vastgesteld;
+- a) op grond van feiten of omstandigheden waarvan het Stimuleringsfonds bij de subsidievaststelling redelijkerwijs niet op de hoogte kon zijn en op grond waarvan de subsidie lager dan overeenkomstig de subsidieverlening zou zijn vastgesteld;
 
-- b). als de subsidievaststelling onjuist was en de subsidieontvanger dit wist of behoorde te weten, of
+- b) als de subsidievaststelling onjuist was en de subsidieontvanger dit wist of behoorde te weten, of
 
-- c). als de subsidieontvanger na de subsidievaststelling niet heeft voldaan aan verplichtingen die aan de subsidie zijn verbonden.
+- c) als de subsidieontvanger na de subsidievaststelling niet heeft voldaan aan verplichtingen die aan de subsidie zijn verbonden.
 
 4. De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is vastgesteld, tenzij het Stimuleringsfonds bij de intrekking of wijziging anders bepaalt.
 
@@ -402,14 +375,12 @@ Voor zover subsidies worden verleend ten laste van een begroting die nog niet is
 
 ##### Artikel 8.1. Inwerkingtreding
 
-1. Deze regeling treedt in werking op 21 augustus 2025.
+1. Deze regeling treedt in werking op 21 augustus 2025.
 
-2. Als de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 21 augustus 2025, treedt deze regeling in afwijking van het eerste lid in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 21 augustus 2025.
+2. Als de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 21 augustus 2025, treedt deze regeling in afwijking van het eerste lid in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 21 augustus 2025.
 
-3. Deze regeling vervalt met ingang van 1 juli 2027. In afwijking van de eerste volzin blijft deze regeling zoals hij luidde op de dag voorafgaand aan de datum met ingang waarvan deze regeling vervalt, van toepassing op de afwikkeling van op grond van deze regeling ingediende aanvragen en verleende subsidies.
+3. Deze regeling vervalt met ingang van 1 juli 2027. In afwijking van de eerste volzin blijft deze regeling zoals hij luidde op de dag voorafgaand aan de datum met ingang waarvan deze regeling vervalt, van toepassing op de afwikkeling van op grond van deze regeling ingediende aanvragen en verleende subsidies.
 
 ##### Artikel 8.2. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Verduurzaming Onderzoeksjournalistieke Organisaties 2025–2026.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

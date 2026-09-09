@@ -1,51 +1,25 @@
 ---
 title: "Beleidsregel last onder dwangsom niet verzekerd handelaarskenteken"
 identifier: "BWBR0051896"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051896"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17652693"
-version_id: "31144132"
-internal_id: "C44567661"
-label_id: "17552294"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051896/2026-01-01/0"
-intitule_bron: "Stcrt.2025-41445"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-11-12"
-intitule_published: "2025-12-01"
-intitule_in_force: "2025-12-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-41445"
-original_signed_date: "2025-11-12"
-original_published_date: "2025-12-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-41445"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0051896&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0051896&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "2025-11-12"
-entry_into_force: "2026-01-01"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0051896"
+opgehaald: 2026-09-09
 ---
+
 # Beleidsregel last onder dwangsom niet verzekerd handelaarskenteken
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [artikel 169](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=169) en [174d van de Wegenverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=174d);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze beleidsregel wordt verstaan onder:
 
-- **handelaarskenteken:** kenteken als bedoeld in [artikel 3 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=3)
+- *handelaarskenteken:* kenteken als bedoeld in [artikel 3 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=3)
 
-- **erkenninghouder:** Het erkende bedrijf als bedoeld in [artikel 4aua, eerste lid van de Wegverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aua) en [artikel 7 van het Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=7).
+- *erkenninghouder:* Het erkende bedrijf als bedoeld in [artikel 4aua, eerste lid van de Wegverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aua) en [artikel 7 van het Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=7).
 
 ##### Artikel 2. Reikwijdte van deze beleidsregel
 
@@ -73,11 +47,11 @@ Deze beleidsregel heeft betrekking op de last onder dwangsom bij constatering va
 
 - b. aan de erkenninghouder niet eerder een voornemen tot het opleggen van een last onder dwangsom ter zake een niet verzekerd handelaarskenteken is verstuurd én de erkenninghouder bij het indienen van de zienswijze een onvoorwaardelijke polis met betalingsbewijs aan de Dienst Wegverkeer ter hand stelt.
 
-##### Artikel 4. Hoogte dwangsom, intrekking en toepassing [Wet bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798)
+##### Artikel 4. Hoogte dwangsom, intrekking en toepassing Wet bibob
 
-1. Bij een eerste last onder dwangsom vanwege een niet verzekerd handelaarskenteken bedraagt de begunstigingstermijn één kalenderweek en bedraagt de dwangsom € 1.000,– per week of gedeelte daarvan dat de overtreding voortduurt met een maximum van € 5.000,–.
+1. Bij een eerste last onder dwangsom vanwege een niet verzekerd handelaarskenteken bedraagt de begunstigingstermijn één kalenderweek en bedraagt de dwangsom € 1.000,– per week of gedeelte daarvan dat de overtreding voortduurt met een maximum van € 5.000,–.
 
-2. Wanneer er eerder een last onder dwangsom is opgelegd, ongeacht of die is ingetrokken, opgeschort of uitgewerkt omdat de maximale dwangsom is volgelopen, bedraagt de begunstigingstermijn één kalenderweek en bedraagt de dwangsom € 5.000,– ineens.
+2. Wanneer er eerder een last onder dwangsom is opgelegd, ongeacht of die is ingetrokken, opgeschort of uitgewerkt omdat de maximale dwangsom is volgelopen, bedraagt de begunstigingstermijn één kalenderweek en bedraagt de dwangsom € 5.000,– ineens.
 
 3. Werkt de onder het tweede lid genoemde dwangsom uit omdat het bedrag is verbeurd, dan zal een voornemen tot intrekking van de erkenning handelaarskenteken worden verstuurd aan de erkenninghouder.
 
@@ -117,6 +91,4 @@ Deze beleidsregel wordt aangehaald als ‘Beleidsregel last onder dwangsom niet 
 
 ##### Artikel 9. Inwerkingtreding
 
-Deze beleidsregel treedt in werking met ingang 1 januari 2026.
-
-Deze beleidsregel zal in de Staatscourant worden geplaatst.
+Deze beleidsregel treedt in werking met ingang 1 januari 2026.

@@ -8,7 +8,7 @@ laatste_update: 2026-09-05
 status: geldig
 toestand: 2026-09-05
 bron: "https://wetten.overheid.nl/BWBR0053078"
-opgehaald: 2026-09-08
+opgehaald: 2026-09-09
 ---
 
 # Beleidsregel toezicht zorgplicht zorgverzekeraars

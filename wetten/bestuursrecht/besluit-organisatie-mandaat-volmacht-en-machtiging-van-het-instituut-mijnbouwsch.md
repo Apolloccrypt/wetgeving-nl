@@ -1,44 +1,18 @@
 ---
 title: "Besluit van het Instituut Mijnbouwschade Groningen van 6 november 2025, houdende vaststelling van de organisatiestructuur en verlening van mandaat, volmacht en machtiging aan de voorzitter, de andere leden en aan ambtenaren van het Instituut Mijnbouwschade Groningen (Besluit organisatie, mandaat, volmacht en machtiging van het Instituut Mijnbouwschade Groningen 2026)"
+citeertitel: "Besluit organisatie, mandaat, volmacht en machtiging van het Instituut Mijnbouwschade Groningen 2026"
 identifier: "BWBR0051925"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051925"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17668463"
-version_id: "31172092"
-internal_id: "C44596081"
-label_id: "17567924"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051925/2026-01-01/0"
-intitule_bron: "Stcrt.2025-40212"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-11-06"
-intitule_published: "2025-12-05"
-intitule_in_force: "2025-12-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-40212"
-original_signed_date: "2025-11-06"
-original_published_date: "2025-12-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-40212"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0051925&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0051925&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Besluit organisatie, mandaat, volmacht en machtiging van het Instituut Mijnbouwschade Groningen 2026"
-signed_date: "2025-11-06"
-entry_into_force: "2026-01-01"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0051925"
+opgehaald: 2026-09-09
 ---
+
 # Besluit van het Instituut Mijnbouwschade Groningen van 6 november 2025, houdende vaststelling van de organisatiestructuur en verlening van mandaat, volmacht en machtiging aan de voorzitter, de andere leden en aan ambtenaren van het Instituut Mijnbouwschade Groningen (Besluit organisatie, mandaat, volmacht en machtiging van het Instituut Mijnbouwschade Groningen 2026)
-
-Gelet op [artikel 10:3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [artikel 3:60 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=60), [artikel 4 van het Besluit volmacht en machtiging IMG 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043770&artikel=4) en het [Tijdelijk besluit mandaat, volmacht en machtiging herstel schade en versterking Groningen van 14 november 2024 II](https://wetten.overheid.nl/jci1.3:c:BWBR0050393);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,37 +20,38 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- –. **afdeling:** afdeling van het Bureau;
+- – *afdeling:* afdeling van het Bureau;
 
-- –. **afdelingsmanager:** manager van een afdeling;
+- – *afdelingsmanager:* manager van een afdeling;
 
-- –. **algemeen directeur:** algemeen directeur van het Bureau;
+- – *algemeen directeur:* algemeen directeur van het Bureau;
 
-- –. **bestuur:** voorzitter en andere leden van het Instituut;
+- – *bestuur:* voorzitter en andere leden van het Instituut;
 
-- –. **Bureau:** Bureau als bedoeld in [artikel 5 van de Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=5);
+- – *Bureau:* Bureau als bedoeld in [artikel 5 van de Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=5);
 
-- –. **corporate kosten:** kosten als gevolg van het aangaan van een privaatrechtelijke verplichting die ten laste komen van de eigen middelen van de Rijksdienst voor Ondernemend Nederland;
+- – *corporate kosten:* kosten als gevolg van het aangaan van een privaatrechtelijke verplichting die ten laste komen van de eigen middelen van de Rijksdienst voor Ondernemend Nederland;
 
-- –. **directe uitvoeringskosten:** kosten voor de aanschaf van goederen of inzet van derden voor de uitvoering van de taken en bevoegdheden van het Instituut;
+- – *directe uitvoeringskosten:* kosten voor de aanschaf van goederen of inzet van derden voor de uitvoering van de taken en bevoegdheden van het Instituut;
 
-- –. **directeur:** directeur van het Bureau en tevens plaatsvervangend algemeen directeur;
+- – *directeur:* directeur van het Bureau en tevens plaatsvervangend algemeen directeur;
 
-- –. **directie:** algemeen directeur en directeur van het Bureau;
+- – *directie:* algemeen directeur en directeur van het Bureau;
 
-- –. **Instituut:** Instituut Mijnbouwschade Groningen;
+- – *Instituut:* Instituut Mijnbouwschade Groningen;
 
-- –. **overlastvergoeding:** vergoeding voor overlast, als gevolg van fysieke mijnbouwschade en de procedure tot afhandeling van deze schade als bedoeld in de Werkwijze;
+- – *overlastvergoeding:* vergoeding voor overlast, als gevolg van fysieke mijnbouwschade en de procedure tot afhandeling van deze schade als bedoeld in de Werkwijze;
 
-- –. **P&O-aangelegenheden:** aangelegenheden op het gebied van personeel, organisatie en formatie en het daarmee samenhangende budget;
+- – *P&O-aangelegenheden:* aangelegenheden op het gebied van personeel, organisatie en formatie en het daarmee samenhangende budget;
 
-- –. **teammanager:** manager van een team binnen een afdeling;
+- – *teammanager:* manager van een team binnen een afdeling;
 
-- –. **TwG:** [Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043252);
+- – *TwG:*
+ [Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043252);
 
-- –. **uitvoeringskosten:** directe uitvoeringskosten en uurgebonden kosten, zijnde kosten die voortvloeien uit de ureninzet van medewerkers die werkzaam zijn voor het Instituut;
+- – *uitvoeringskosten:* directe uitvoeringskosten en uurgebonden kosten, zijnde kosten die voortvloeien uit de ureninzet van medewerkers die werkzaam zijn voor het Instituut;
 
-- –. **Werkwijze:** geldende procedure en een werkwijze als bedoeld in [artikel 10, eerste lid, van de Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=10).
+- – *Werkwijze:* geldende procedure en een werkwijze als bedoeld in [artikel 10, eerste lid, van de Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=10).
 
 ### Hoofdstuk 2. Organisatie en taak
 
@@ -138,11 +113,11 @@ In dit besluit wordt verstaan onder:
 
 - g. het nemen van de volgende besluiten:
 
-- i. het afwijzen of buiten behandeling stellen van aanvragen fysieke schade aan een gebouw of werk als bedoeld in artikel 2.1 van de Werkwijze, uitgezonderd besluiten waarin het advies van een deskundige als bedoeld in artikel 1.5 van de Werkwijze is ingewonnen;
+   - i. het afwijzen of buiten behandeling stellen van aanvragen fysieke schade aan een gebouw of werk als bedoeld in artikel 2.1 van de Werkwijze, uitgezonderd besluiten waarin het advies van een deskundige als bedoeld in artikel 1.5 van de Werkwijze is ingewonnen;
 
-- ii. primaire besluiten op aanvragen tot vergoeding van waardedaling als bedoeld in hoofdstuk 3 van de Werkwijze; en
+   - ii. primaire besluiten op aanvragen tot vergoeding van waardedaling als bedoeld in hoofdstuk 3 van de Werkwijze; en
 
-- iii. primaire besluiten op aanvragen tot een tegemoetkoming voor waardedaling als bedoeld in [artikel 1a van het Besluit Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=1a).
+   - iii. primaire besluiten op aanvragen tot een tegemoetkoming voor waardedaling als bedoeld in [artikel 1a van het Besluit Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043726&artikel=1a).
 
 5. Tot de taak van de afdeling Herstel behoort de coördinatie, aansturing en uitvoering van herstel van schade, waaronder:
 
@@ -202,19 +177,19 @@ In dit besluit wordt verstaan onder:
 
 - b. het instellen van rechtsmiddelen; en
 
-- c. het aangaan van mediation- of vaststellingsovereenkomsten voor zover dit een bedrag van € 100.000, per verplichting niet te boven gaat indien het geen vaststellingsovereenkomst betreft met betrekking tot de afwikkeling van schade aan mestkelders.
+- c. het aangaan van mediation- of vaststellingsovereenkomsten voor zover dit een bedrag van € 100.000, per verplichting niet te boven gaat indien het geen vaststellingsovereenkomst betreft met betrekking tot de afwikkeling van schade aan mestkelders.
 
 3. Aan de afdelingsmanagers wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor de uit dit hoofdstuk voortvloeiende bevoegdheden voor de onder hen ressorterende teammanagers.
 
-4. Aan de algemeen directeur en de directeur wordt, ieder voor zich, volmacht en machtiging verleend voor het verrichten van privaatrechtelijke rechtshandelingen en daarmee samenhangende feitelijke handelingen op het werkterrein van het Instituut. Dit omvat de bevoegdheid tot het aangaan van financiële verplichtingen, voor zover de verplichtingen ten laste komen van de directe uitvoeringskosten of de corporate kosten en voor zover dit een bedrag van € 750.000, per verplichting niet overschrijdt.
+4. Aan de algemeen directeur en de directeur wordt, ieder voor zich, volmacht en machtiging verleend voor het verrichten van privaatrechtelijke rechtshandelingen en daarmee samenhangende feitelijke handelingen op het werkterrein van het Instituut. Dit omvat de bevoegdheid tot het aangaan van financiële verplichtingen, voor zover de verplichtingen ten laste komen van de directe uitvoeringskosten of de corporate kosten en voor zover dit een bedrag van € 750.000, per verplichting niet overschrijdt.
 
-5. Aan de afdelingsmanagers wordt, ieder voor zich en op hun werkterrein, volmacht en machtiging verleend voor het verrichten van privaatrechtelijke rechtshandelingen en daarmee samenhangende feitelijke handelingen. Dit omvat de bevoegdheid tot het aangaan van financiële verplichtingen, voor zover de verplichtingen ten laste komen van de directe uitvoeringskosten of de corporate kosten en voor zover dit een bedrag van € 150.000, per verplichting niet overschrijdt.
+5. Aan de afdelingsmanagers wordt, ieder voor zich en op hun werkterrein, volmacht en machtiging verleend voor het verrichten van privaatrechtelijke rechtshandelingen en daarmee samenhangende feitelijke handelingen. Dit omvat de bevoegdheid tot het aangaan van financiële verplichtingen, voor zover de verplichtingen ten laste komen van de directe uitvoeringskosten of de corporate kosten en voor zover dit een bedrag van € 150.000, per verplichting niet overschrijdt.
 
 ##### Artikel 6. Teammanagers
 
-1. Aan de teammanagers wordt volmacht en machtiging verleend voor het verrichten van privaatrechtelijke rechtshandelingen en daarmee samenhangende feitelijke handelingen op hun werkterrein. Dit omvat de bevoegdheid tot het aangaan van financiële verplichtingen, voor zover de verplichtingen ten laste komen van de directe uitvoeringskosten of de corporate kosten en voor zover dit een bedrag van € 50.000, per verplichting niet te boven gaat.
+1. Aan de teammanagers wordt volmacht en machtiging verleend voor het verrichten van privaatrechtelijke rechtshandelingen en daarmee samenhangende feitelijke handelingen op hun werkterrein. Dit omvat de bevoegdheid tot het aangaan van financiële verplichtingen, voor zover de verplichtingen ten laste komen van de directe uitvoeringskosten of de corporate kosten en voor zover dit een bedrag van € 50.000, per verplichting niet te boven gaat.
 
-2. Aan de teammanagers van de afdeling Schadevergoeding en de teammanager Beroep, behorende tot de afdeling Strategie en Beleid, wordt mandaat, volmacht en machtiging verleend voor het aangaan van mediation- of vaststellingsovereenkomsten, voor zover dit een bedrag van € 50.000, niet te boven gaat indien het geen vaststellingsovereenkomst betreft met betrekking tot daadwerkelijk herstel.
+2. Aan de teammanagers van de afdeling Schadevergoeding en de teammanager Beroep, behorende tot de afdeling Strategie en Beleid, wordt mandaat, volmacht en machtiging verleend voor het aangaan van mediation- of vaststellingsovereenkomsten, voor zover dit een bedrag van € 50.000, niet te boven gaat indien het geen vaststellingsovereenkomst betreft met betrekking tot daadwerkelijk herstel.
 
 ##### Artikel 7. Fysieke schade en bijkomende kosten
 
@@ -254,7 +229,7 @@ Aan de teammanager van het team Waardedaling en Immaterieel, behorende tot de af
 
 ##### Artikel 11. ‘Op maat-dossiers’
 
-1. Aan door de afdelingsmanager Schadevergoeding aangewezen medewerkers die ‘Op maat-dossiers’ behandelen en de teammanager van het team Fysieke Schade Regulier en Complex behorende tot de afdeling Schadevergoeding, wordt mandaat, volmacht en machtiging verleend voor het nemen van primaire fysieke schadebesluiten, het verrichten van overige, daarmee samenhangende handelingen, het aangaan van vaststellingsovereenkomsten en het nemen van besluiten op grond van [artikel 1a.1, eerste lid, van de Regeling Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&artikel=1a.1), voor zover dit een bedrag van € 50.000, per zaak niet te boven gaat.
+1. Aan door de afdelingsmanager Schadevergoeding aangewezen medewerkers die ‘Op maat-dossiers’ behandelen en de teammanager van het team Fysieke Schade Regulier en Complex behorende tot de afdeling Schadevergoeding, wordt mandaat, volmacht en machtiging verleend voor het nemen van primaire fysieke schadebesluiten, het verrichten van overige, daarmee samenhangende handelingen, het aangaan van vaststellingsovereenkomsten en het nemen van besluiten op grond van [artikel 1a.1, eerste lid, van de Regeling Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0048350&artikel=1a.1), voor zover dit een bedrag van € 50.000, per zaak niet te boven gaat.
 
 2. Het Bureau en haar medewerkers ondersteunen bij een spoedige en dienstbare behandeling van ‘Op maat-dossiers’.
 
@@ -266,7 +241,7 @@ Aan de teammanager van het team Duurzaam Herstel, behorende tot afdeling Herstel
 
 - b. de bevoegdheid tot het tekenen van het proces verbaal dat wordt opgemaakt en ondertekend na oplevering door het bedrijf dat de werkzaamheden heeft uitgevoerd conform het besluit van het Instituut voor een tegemoetkoming als bedoeld in [artikel 2, tiende lid, van de TwG](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=2);
 
-- c. het verrichten van privaatrechtelijke rechtshandelingen en daarmee samenhangende feitelijke handelingen verband houdende met schade die ontstaat bij het ten uitvoer brengen van besluiten van het Instituut op aanvragen voor een tegemoetkoming als bedoeld in [artikel 2, tiende lid, van de TwG](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=2), voor zover herstel van de schade geen onderdeel is van de tegemoetkoming en dit een bedrag van € 10.000 per verplichting niet te boven gaat.
+- c. het verrichten van privaatrechtelijke rechtshandelingen en daarmee samenhangende feitelijke handelingen verband houdende met schade die ontstaat bij het ten uitvoer brengen van besluiten van het Instituut op aanvragen voor een tegemoetkoming als bedoeld in [artikel 2, tiende lid, van de TwG](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=2), voor zover herstel van de schade geen onderdeel is van de tegemoetkoming en dit een bedrag van € 10.000 per verplichting niet te boven gaat.
 
 ##### Artikel 13. Woo, klachten en AVG
 
@@ -284,7 +259,7 @@ Aan de teammanager van het team Duurzaam Herstel, behorende tot afdeling Herstel
 
 - b. het – in de hoedanigheid van bevoegd persoon – doen van bekendmakingen via het Digitaal Loket voor Officiële Elektronische Publicaties en het daartoe aanwijzen en registreren van één of meer contactpersonen waardoor uitsluitend deze contactpersonen toegang hebben tot dat Digitaal Loket.
 
-2. Aan de machtigingenbeheerders eHerkenningsmiddelen van het Instituut wordt, ieder voor zich, volmacht en machtiging verleend voor aangelegenheden die verband houden met het aanschaffen, uitgeven en beheren van eHerkenningsmiddelen en het daarmee autoriseren van medewerkers tot het afnemen van digitale overheidsdiensten, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 5.000 per verplichting niet te boven gaat.
+2. Aan de machtigingenbeheerders eHerkenningsmiddelen van het Instituut wordt, ieder voor zich, volmacht en machtiging verleend voor aangelegenheden die verband houden met het aanschaffen, uitgeven en beheren van eHerkenningsmiddelen en het daarmee autoriseren van medewerkers tot het afnemen van digitale overheidsdiensten, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 5.000 per verplichting niet te boven gaat.
 
 3. De machtigingenbeheerders eHerkenningsmiddelen nemen voor de in het tweede lid genoemde aangelegenheden, de door de secretaris-generaal gestelde regels over de uitgifte en beheer van eHerkenningsmiddelen in acht.
 
@@ -306,7 +281,7 @@ Aan de teammanager van het team Duurzaam Herstel, behorende tot afdeling Herstel
 
 - c. het vertegenwoordigen in mediation;
 
-- d. het aangaan van mediation- of vaststellingsovereenkomsten voor zover dit een bedrag van € 25.000, per verplichting niet te boven gaat; en
+- d. het aangaan van mediation- of vaststellingsovereenkomsten voor zover dit een bedrag van € 25.000, per verplichting niet te boven gaat; en
 
 - e. het introduceren van één of meer personen als medegemachtigde.
 
@@ -350,7 +325,7 @@ Aan de algemeen directeur en de directeur wordt, ieder voor zich, voor de onder 
 
 - e. het accorderen van een vergoeding voor verhuiskosten;
 
-- f. het accorderen van andere P-Direkt aanvragen; met uitzondering van schadevergoedingen groter dan € 10.000;
+- f. het accorderen van andere P-Direkt aanvragen; met uitzondering van schadevergoedingen groter dan € 10.000;
 
 - g. het accorderen van tijdschrijfregistraties;
 
@@ -378,7 +353,7 @@ Aan de algemeen directeur en de directeur wordt, ieder voor zich, voor de onder 
 
 - e. het accorderen van een vergoeding voor verhuiskosten;
 
-- f. het accorderen van andere P-Direkt aanvragen; met uitzondering van schadevergoedingen groter dan € 5.000;
+- f. het accorderen van andere P-Direkt aanvragen; met uitzondering van schadevergoedingen groter dan € 5.000;
 
 - g. het accorderen van tijdschrijfregistraties;
 
@@ -406,14 +381,12 @@ gevolgd door naam en functie van de (onder)gemandateerde functionaris.
 
 1. Het [Besluit organisatie, mandaat, volmacht en machtiging van het Instituut Mijnbouwschade Groningen 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049860) wordt ingetrokken.
 
-2. Het [Besluit van de programmamanager van de projectorganisatie Duurzaam Herstel van 10 januari 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049287), houdende de verlening van ondervolmacht aan natuurlijke personen wordt ingetrokken.
+2. Het [Besluit van de programmamanager van de projectorganisatie Duurzaam Herstel van 10 januari 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049287), houdende de verlening van ondervolmacht aan natuurlijke personen wordt ingetrokken.
 
 ##### Artikel 25. Inwerkingtreding
 
-Dit besluit treedt in werking op 1 januari 2026 en werkt ten aanzien van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=15&z=2026-01-01&g=2026-01-01), terug tot en met 1 december 2025.
+Dit besluit treedt in werking op 1 januari 2026 en werkt ten aanzien van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051925&hoofdstuk=3&artikel=15&z=2026-01-01&g=2026-01-01), terug tot en met 1 december 2025.
 
 ##### Artikel 26. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit organisatie, mandaat, volmacht en machtiging van het Instituut Mijnbouwschade Groningen 2026.
-
-Dit besluit wordt in de Staatscourant geplaatst.

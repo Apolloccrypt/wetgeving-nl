@@ -1,68 +1,42 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 1 december 2025, nr. IENW/BSK-2025/105165, houdende regels voor de verstrekking van een specifieke uitkering in verband met de aanleg en verbetering van openbare havenfaciliteiten op de goederenvervoercorridors Oost, Zuidoost en Zuid of maatregelen gericht op het versterken van multimodaal en duurzaam gebruik van goederenvervoer op de multimodale knooppunten (Regeling specifieke uitkering realisatiepacten bovengemiddelde knooppunten goederenvervoercorridors Oost, Zuidoost en Zuid 2025–2027) [KetenID WGK027873]"
+citeertitel: "Specifieke uitkering realisatiepacten goederenvervoercorridors Oost, Zuidoost en Zuid"
 identifier: "BWBR0051887"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-12-03"
-last_updated: "2025-12-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051887"
+categorie: "Sociaal recht"
 soort: "ministeriele-regeling"
-stam_id: "17628313"
-version_id: "31118032"
-internal_id: "C44540401"
-label_id: "17528654"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051887/2025-12-03/0"
-intitule_bron: "Stcrt.2025-40338"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-12-01"
-intitule_published: "2025-12-02"
-intitule_in_force: "2025-12-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-40338"
-original_signed_date: "2025-12-01"
-original_published_date: "2025-12-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-40338"
-entry_into_force_date: "2025-12-03"
-jci_1_3: "jci1.3:c:BWBR0051887&z=2025-12-03&g=2025-12-03"
-jci_1_0: "1.0:c:BWBR0051887&g=2025-12-03"
-citeertitel_status: "officieel"
-short_title: "Specifieke uitkering realisatiepacten goederenvervoercorridors Oost, Zuidoost en Zuid"
-signed_date: "2025-12-01"
-entry_into_force: "2025-12-03"
+publicatiedatum: 2025-12-03
+laatste_update: 2025-12-03
+status: geldig
+toestand: 2025-12-03
+bron: "https://wetten.overheid.nl/BWBR0051887"
+opgehaald: 2026-09-09
 ---
+
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 1 december 2025, nr. IENW/BSK-2025/105165, houdende regels voor de verstrekking van een specifieke uitkering in verband met de aanleg en verbetering van openbare havenfaciliteiten op de goederenvervoercorridors Oost, Zuidoost en Zuid of maatregelen gericht op het versterken van multimodaal en duurzaam gebruik van goederenvervoer op de multimodale knooppunten (Regeling specifieke uitkering realisatiepacten bovengemiddelde knooppunten goederenvervoercorridors Oost, Zuidoost en Zuid 2025–2027) [KetenID WGK027873]
-
-Gelet op [artikel 17, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17), de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044860&artikel=6), en [7, derde lid, van de Wet mobiliteitsfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0044860&artikel=7) en de [artikelen 3, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4) en [5, onderdelen a tot en met i en l, van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5) en [artikel 2, derde lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **bovengemiddelde logistieke multimodale knooppunten op de goederenvervoercorridors:** de zeehavens Amsterdam, Rotterdam, Moerdijk en North Sea Port (fysieke havens Terneuzen en Vlissingen) de bovengemiddelde achterlandknooppunten/binnenhavens Tilburg, Venlo, Sittard/Geleen-Stein, Tiel en Nijmegen;
+- *bovengemiddelde logistieke multimodale knooppunten op de goederenvervoercorridors:* de zeehavens Amsterdam, Rotterdam, Moerdijk en North Sea Port (fysieke havens Terneuzen en Vlissingen) de bovengemiddelde achterlandknooppunten/binnenhavens Tilburg, Venlo, Sittard/Geleen-Stein, Tiel en Nijmegen;
 
-- **de minister:** de Minister van Infrastructuur en Waterstaat;
+- *de minister:* de Minister van Infrastructuur en Waterstaat;
 
-- **gemeenten:** de gemeenten Rotterdam, Tilburg, Venlo, Nijmegen en Tiel;
+- *gemeenten:* de gemeenten Rotterdam, Tilburg, Venlo, Nijmegen en Tiel;
 
-- **goederenvervoercorridors:** corridor Oost (corridor Rotterdam – Arnhem/Nijmegen – Duitsland), corridor Zuidoost (corridor Rotterdam – Noord-Brabant/Limburg – Duitsland/België) en corridor Zuid (corridor Amsterdam – Rotterdam – Zeeland Seaports – Seine-Nord);
+- *goederenvervoercorridors:* corridor Oost (corridor Rotterdam – Arnhem/Nijmegen – Duitsland), corridor Zuidoost (corridor Rotterdam – Noord-Brabant/Limburg – Duitsland/België) en corridor Zuid (corridor Amsterdam – Rotterdam – Zeeland Seaports – Seine-Nord);
 
-- **multimodaal goederenvervoer:** goederenvervoer dat gebruik maakt van meerdere transportmodaliteiten zoals wegvervoer, binnenvaart, spoorgoederenvervoer of buisleidingen;
+- *multimodaal goederenvervoer:* goederenvervoer dat gebruik maakt van meerdere transportmodaliteiten zoals wegvervoer, binnenvaart, spoorgoederenvervoer of buisleidingen;
 
-- **ontvanger:** de provincie of gemeente die uitvoering geeft aan het realisatiepact en waarin het bovengemiddeld multimodaal knooppunt geografisch is gelegen en waar een afgestemd realisatiepact voor is vastgesteld dat in het BO-MIRT GVC is bekrachtigd;
+- *ontvanger:* de provincie of gemeente die uitvoering geeft aan het realisatiepact en waarin het bovengemiddeld multimodaal knooppunt geografisch is gelegen en waar een afgestemd realisatiepact voor is vastgesteld dat in het BO-MIRT GVC is bekrachtigd;
 
-- **provincies:** de provincies Limburg, Noord-Brabant, Zuid-Holland, Gelderland, Noord-Holland en Zeeland;
+- *provincies:* de provincies Limburg, Noord-Brabant, Zuid-Holland, Gelderland, Noord-Holland en Zeeland;
 
-- **realisatiepact:** een door het Rijk, provincie en gemeente overeengekomen visiedocument met een lijst van infrastructurele en flankerende opgaven die in de daaropvolgende jaren daar waar mogelijk adaptief zullen worden opgepakt om de multimodale ontwikkeling en economische en duurzame meerwaarde van het logistieke bovengemiddelde knooppunt te versterken;
+- *realisatiepact:* een door het Rijk, provincie en gemeente overeengekomen visiedocument met een lijst van infrastructurele en flankerende opgaven die in de daaropvolgende jaren daar waar mogelijk adaptief zullen worden opgepakt om de multimodale ontwikkeling en economische en duurzame meerwaarde van het logistieke bovengemiddelde knooppunt te versterken;
 
-- **regionale logistieke netwerken:** regionaal georganiseerde goederenvervoerverbindingen buiten de corridorgebieden.
+- *regionale logistieke netwerken:* regionaal georganiseerde goederenvervoerverbindingen buiten de corridorgebieden.
 
-##### Artikel 2. Toepasselijkheid [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381)
+##### Artikel 2. Toepasselijkheid Kaderbesluit subsidies I en M
 
 De [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [8, tweede lid, onderdeel a, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [10, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11), [12, aanhef en onderdelen b, c, en i](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12), [14, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=14), [17, eerste lid, aanhef en onderdelen a tot en met c, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=18), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=23), en [24, eerste lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24) zijn van overeenkomstige toepassing op deze regeling.
 
@@ -76,11 +50,11 @@ Vanuit deze regeling stelt de minister een specifieke uitkering beschikbaar aan 
 
 2. Een specifieke uitkering bedraagt ten hoogste 50% van het totaal van de in aanmerking komende kosten als bedoeld in het eerste lid:
 
-- a. met een maximum van € 2.500.000,– inclusief omzetbelasting, voor het realisatiepact Rotterdam en omgeving;
+- a. met een maximum van € 2.500.000,– inclusief omzetbelasting, voor het realisatiepact Rotterdam en omgeving;
 
-- b. met een maximum van € 1.000.000,– inclusief omzetbelasting, voor de overige realisatiepacten.
+- b. met een maximum van € 1.000.000,– inclusief omzetbelasting, voor de overige realisatiepacten.
 
-3. Het uitkeringsplafond bedraagt € 10.500.000,–.
+3. Het uitkeringsplafond bedraagt € 10.500.000,–.
 
 ##### Artikel 5. Aanvraag
 
@@ -94,7 +68,7 @@ Vanuit deze regeling stelt de minister een specifieke uitkering beschikbaar aan 
 
 - c. de bestuurlijk geaccordeerde financiering van de maatregelen en acties waaruit blijkt dat de gevraagde specifieke uitkering niet meer dan 50% van de totale kosten van de in onderdeel a bedoelde maatregelen en acties bedraagt.
 
-3. Aanvragen voor verlening kunnen tot uiterlijk 30 september 2027 bij de minister worden ingediend.
+3. Aanvragen voor verlening kunnen tot uiterlijk 30 september 2027 bij de minister worden ingediend.
 
 ##### Artikel 6. Afwijzingsgronden
 
@@ -132,7 +106,7 @@ De ontvanger legt verantwoording af over de besteding van de specifieke uitkerin
 
 ##### Artikel 11. Vaststelling
 
-1. De minister stelt de specifieke uitkering ambtshalve vast op 31 december van het jaar waarin de laatste verantwoording, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0051887&artikel=10&z=2025-12-03&g=2025-12-03), heeft plaatsgevonden.
+1. De minister stelt de specifieke uitkering ambtshalve vast op 31 december van het jaar waarin de laatste verantwoording, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0051887&artikel=10&z=2025-12-03&g=2025-12-03), heeft plaatsgevonden.
 
 2. De specifieke uitkering kan op een lager bedrag worden vastgesteld als:
 
@@ -146,16 +120,14 @@ De ontvanger legt verantwoording af over de besteding van de specifieke uitkerin
 
 ##### Artikel 12. Evaluatieverslag
 
-De minister publiceert voor 31 december 2028 een verslag over de doeltreffendheid en de effecten van de specifieke uitkeringen in de praktijk.
+De minister publiceert voor 31 december 2028 een verslag over de doeltreffendheid en de effecten van de specifieke uitkeringen in de praktijk.
 
 ##### Artikel 13. Inwerkingtreding en horizonbepaling
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. De regeling vervalt uiterlijk op 31 december 2027 met dien verstande dat de regeling van toepassing blijft op een specifieke uitkering die voor die datum krachtens deze regeling is verstrekt.
+2. De regeling vervalt uiterlijk op 31 december 2027 met dien verstande dat de regeling van toepassing blijft op een specifieke uitkering die voor die datum krachtens deze regeling is verstrekt.
 
 ##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Specifieke uitkering realisatiepacten goederenvervoercorridors Oost, Zuidoost en Zuid.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

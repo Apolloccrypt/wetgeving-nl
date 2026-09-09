@@ -1,70 +1,44 @@
 ---
 title: "Besluit van de Minister-President, Minister van Algemene Zaken van 21 augustus 2025, nr. 9070201, houdende voorschrift informatiebeveiliging Rijksdienst bijzondere informatie 2025"
+citeertitel: "Besluit voorschrift informatiebeveiliging rijksdienst bijzondere informatie 2025"
 identifier: "BWBR0051482"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-09-09"
-last_updated: "2025-09-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051482"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17518873"
-version_id: "30912062"
-internal_id: "C44289271"
-label_id: "17420914"
-dtd_version: "2.0"
-original_entry_into_force: "2025-09-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051482/2025-09-09/0"
-intitule_bron: "Stcrt.2025-30222"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-08-21"
-intitule_published: "2025-09-08"
-intitule_in_force: "2025-09-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-30222"
-original_signed_date: "2025-08-21"
-original_published_date: "2025-09-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-30222"
-entry_into_force_date: "2025-09-09"
-jci_1_3: "jci1.3:c:BWBR0051482&z=2025-09-09&g=2025-09-09"
-jci_1_0: "1.0:c:BWBR0051482&g=2025-09-09"
-citeertitel_status: "officieel"
-short_title: "Besluit voorschrift informatiebeveiliging rijksdienst bijzondere informatie 2025"
-signed_date: "2025-08-21"
-entry_into_force: "2025-09-09"
+publicatiedatum: 2025-09-09
+laatste_update: 2025-09-09
+status: geldig
+toestand: 2025-09-09
+bron: "https://wetten.overheid.nl/BWBR0051482"
+opgehaald: 2026-09-09
 ---
+
 # Besluit van de Minister-President, Minister van Algemene Zaken van 21 augustus 2025, nr. 9070201, houdende voorschrift informatiebeveiliging Rijksdienst bijzondere informatie 2025
-
-Handelende in overeenstemming met het gevoelen van de ministerraad,
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- **accreditatie:** het verlenen van toestemming voor ontvangst, beheer, vernietiging en verwerking van gerubriceerde informatie;
+- *accreditatie:* het verlenen van toestemming voor ontvangst, beheer, vernietiging en verwerking van gerubriceerde informatie;
 
-- **bijzondere informatie:** informatie waar kennisname door niet-geautoriseerden nadelige gevolgen kan hebben voor de (vitale) belangen van de Nederlandse staat, voor zijn bondgenoten of voor één of meer ministeries;
+- *bijzondere informatie:* informatie waar kennisname door niet-geautoriseerden nadelige gevolgen kan hebben voor de (vitale) belangen van de Nederlandse staat, voor zijn bondgenoten of voor één of meer ministeries;
 
-- **compromittering:** kennisname dan wel mogelijkheid tot kennisname van bijzondere informatie door niet geautoriseerden;
+- *compromittering:* kennisname dan wel mogelijkheid tot kennisname van bijzondere informatie door niet geautoriseerden;
 
-- **informatiesysteem:** een samenhangend geheel van gegevensverzamelingen, en de daarbij behorende personen, procedures, processen en programmatuur alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie;
+- *informatiesysteem:* een samenhangend geheel van gegevensverzamelingen, en de daarbij behorende personen, procedures, processen en programmatuur alsmede de voor het informatiesysteem getroffen voorzieningen voor opslag, verwerking en communicatie;
 
-- **Rijksdienst:** alle organisatieonderdelen waarvoor de ministeriële verantwoordelijkheid onverkort geldt;
+- *Rijksdienst:* alle organisatieonderdelen waarvoor de ministeriële verantwoordelijkheid onverkort geldt;
 
-- **rubriceren:** bepalen van het rubriceringsniveau en -duur van de bijzondere informatie op basis van de te verwachten nadelige gevolgen voor de vitale belangen van Nederland en de Nederlandse staat, voor zijn bondgenoten of voor één of meer ministeries als (een deel van) deze informatie bekend wordt bij niet-geautoriseerden;
+- *rubriceren:* bepalen van het rubriceringsniveau en -duur van de bijzondere informatie op basis van de te verwachten nadelige gevolgen voor de vitale belangen van Nederland en de Nederlandse staat, voor zijn bondgenoten of voor één of meer ministeries als (een deel van) deze informatie bekend wordt bij niet-geautoriseerden;
 
-- **rubriceringsambtenaar:** ambtenaar bevoegd tot het vaststellen van rubriceringen, hiertoe gemandateerd door de secretaris-generaal;
+- *rubriceringsambtenaar:* ambtenaar bevoegd tot het vaststellen van rubriceringen, hiertoe gemandateerd door de secretaris-generaal;
 
-- **rubriceringsniveau:** aanduiding van de verwachte nadelige gevolgen voor de vitale belangen van Nederland en de Nederlandse staat, voor zijn bondgenoten of voor één of meer ministeries als de informatie of een deel daarvan bekend wordt bij niet- geautoriseerden;
+- *rubriceringsniveau:* aanduiding van de verwachte nadelige gevolgen voor de vitale belangen van Nederland en de Nederlandse staat, voor zijn bondgenoten of voor één of meer ministeries als de informatie of een deel daarvan bekend wordt bij niet- geautoriseerden;
 
-- **vaststeller van de rubricering:** minister, staatssecretaris, secretaris-generaal of een door de secretaris-generaal gemandateerd rubriceringsambtenaar;
+- *vaststeller van de rubricering:* minister, staatssecretaris, secretaris-generaal of een door de secretaris-generaal gemandateerd rubriceringsambtenaar;
 
-- **verwerking:** een bewerking of een geheel van bewerkingen met betrekking tot bijzondere informatie, al dan niet uitgevoerd via geautomatiseerde procedés, zoals het verzamelen, vastleggen, ordenen, structureren, opslaan, bijwerken of wijzigen, opvragen, raadplegen, gebruiken, verstrekken door middel van doorzending, verspreiden of op andere wijze ter beschikking stellen, aligneren of combineren, afschermen, wissen of vernietigen van bijzondere informatie;
+- *verwerking:* een bewerking of een geheel van bewerkingen met betrekking tot bijzondere informatie, al dan niet uitgevoerd via geautomatiseerde procedés, zoals het verzamelen, vastleggen, ordenen, structureren, opslaan, bijwerken of wijzigen, opvragen, raadplegen, gebruiken, verstrekken door middel van doorzending, verspreiden of op andere wijze ter beschikking stellen, aligneren of combineren, afschermen, wissen of vernietigen van bijzondere informatie;
 
-- **zorgdrager:** degene die bij of krachtens de wet belast is met de zorg voor de archiefbescheiden.
+- *zorgdrager:* degene die bij of krachtens de wet belast is met de zorg voor de archiefbescheiden.
 
 ##### Artikel 2. Plaatsbepaling en reikwijdte
 
@@ -134,7 +108,7 @@ In dit besluit wordt verstaan onder:
 
 - b. passende maatregelen zijn getroffen om compromittering tijdig te detecteren, en een onderzoeksproces is ingericht voor de grondige analyse van dergelijke incidenten.
 
-2. De beveiliging is ingericht op basis van risicomanagement. De bijlage bij dit besluit bevat de uitgangspunten en het minimale beveiligingsniveau voor de bescherming van de vertrouwelijkheid van bijzondere informatie en de verwerking ervan in informatiesystemen.
+2. De beveiliging is ingericht op basis van risicomanagement. De [bijlage](https://wetten.overheid.nl/BWBR0051482) bij dit besluit bevat de uitgangspunten en het minimale beveiligingsniveau voor de bescherming van de vertrouwelijkheid van bijzondere informatie en de verwerking ervan in informatiesystemen.
 
 3. Bijzondere informatie die krachtens een verdrag of een internationale overeenkomst is verkregen wordt uitsluitend verwerkt nadat de autoriteit, die krachtens het betreffende verdrag verantwoordelijk is voor de beveiligingsregels ter bescherming van bijzondere informatie, haar goedkeuring aan de beveiliging heeft gegeven.
 
@@ -174,7 +148,7 @@ Dit besluit wordt drie jaar na inwerkingtreding geëvalueerd en vervolgens elke 
 
 ##### Artikel 11. Overgangsrecht
 
-Rubriceringen die zijn vastgesteld vóór inwerkingtreding van dit besluit worden uiterlijk tien jaar na vaststelling door de vaststeller onderzocht op de mogelijkheid om de rubricering te herzien of te beëindigen, en voor bestaande, reeds gerubriceerde informatie, waarbij volledig wordt voldaan aan de maatregelen, genoemd in het [Besluit voorschrift informatiebeveiliging rijksdienst bijzondere informatie 2013 (VIRBI 2013)](https://wetten.overheid.nl/jci1.3:c:BWBR0033507), zijn organisaties gedurende een overgangsperiode van zes maanden niet gehouden te voldoen aan de hierop aanvullende maatregelen zoals deze in de bijlage bij dit besluit zijn opgenomen.
+Rubriceringen die zijn vastgesteld vóór inwerkingtreding van dit besluit worden uiterlijk tien jaar na vaststelling door de vaststeller onderzocht op de mogelijkheid om de rubricering te herzien of te beëindigen, en voor bestaande, reeds gerubriceerde informatie, waarbij volledig wordt voldaan aan de maatregelen, genoemd in het [Besluit voorschrift informatiebeveiliging rijksdienst bijzondere informatie 2013 (VIRBI 2013)](https://wetten.overheid.nl/jci1.3:c:BWBR0033507), zijn organisaties gedurende een overgangsperiode van zes maanden niet gehouden te voldoen aan de hierop aanvullende maatregelen zoals deze in de [bijlage](https://wetten.overheid.nl/BWBR0051482) bij dit besluit zijn opgenomen.
 
 ##### Artikel 12. Intrekking VIRBI 2013
 
@@ -187,115 +161,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit voorschrift informatiebeveiliging rijksdienst bijzondere informatie 2025.
-
-## Bijlage.. Uitgangspunten en minimum niveau beveiliging
-
-Deze bijlage beschrijft de uitgangspunten en het beveiligingsniveau voor de bescherming van de vertrouwelijkheid van bijzondere informatie en de verwerking daarvan in informatiesystemen.
-
-De voor de bescherming van vertrouwelijkheid van bijzondere informatie te nemen maatregelen worden bepaald aan de hand van een risicoanalyse, maar beslaan ten minste de in onderstaande tabellen weergegeven te hanteren uitgangspunten en te nemen maatregelen. Indien wordt afgeweken van het onderstaande wordt dat in de risicoanalyse vastgelegd met redenen omkleed inclusief eventueel aanvullende mitigerende maatregelen. Voor Dep.V wordt dit ten minste goedgekeurd door een directeur en voor STG ten minste door een DG.
-
-Een V in de bovenstaande tabel houdt in: bij dit niveau van rubricering maatregel verplicht toepassen.
-
-In de volgende acht hoofdstukken komen de diverse onderdelen aan de orde.
-
-### 1. Veilig personeel
-
-Organisaties moeten zeker stellen dat personen hun verantwoordelijkheden en verplichtingen kennen en geschikt zijn voor de rol of functie die zij vervullen. Daarnaast dienen organisaties de risico’s van menselijk handelen te beperken.
-
-Ieder persoon die structureel gaat werken met bijzondere informatie, dient voorafgaand aan indiensttreding een aan zijn functievervulling gerelateerd veiligheidsonderzoek te ondergaan. Voor het bepalen of een functie als vertrouwensfunctie moet worden aangewezen, dient de betreffende leidraad aanwijzen vertrouwensfuncties van de AIVD (civiele sector) en MIVD (militaire sector) te worden gevolgd.
-
-Bij aanvang, beëindiging of wijziging van het dienstverband waarin gewerkt is met bijzondere informatie, wordt zeker gesteld dat de geheimhoudingsplicht geborgd is.
-
-Een V houdt in: bij dit niveau van rubricering maatregel verplicht toepassen.
-
-Een * in de tabel verwijst op een aantal plekken voor DepV naar de BIO.
-
-### 2. Beheer van bedrijfsmiddelen
-
-Het handhaven van een adequaat, ordelijk en controleerbaar beheer van alle bedrijfsmiddelen waarop, waarmee of waardoor bijzondere informatie wordt verwerkt.
-
-Bedrijfsmiddelen waarop, waarmee of waardoor bijzondere informatie wordt verwerkt, dienen te zijn geregistreerd en aan een eigenaar te zijn toegewezen.
-
-1 Vanwege need-to-know scheiding wordt het overzicht van Stg.ZG-middelen separaat geregistreerd.
-
-Een V houdt in: bij dit niveau van rubricering maatregel verplicht toepassen.
-
-Een * in de tabel verwijst op een aantal plekken voor DepV naar de BIO.
-
-### 3. Fysieke beveiliging en beveiliging van de omgeving
-
-Het waarborgen van toereikende weerstand tegen (pogingen tot) ongeautoriseerde fysieke toegang van locaties, gebouwen en ruimtes (waaronder kluizen) waar zich bijzondere informatie bevindt of wordt verwerkt.
-
-Voor elke locatie, gebouw en ruimte waar zich bijzondere informatie bevindt of wordt verwerkt, dienen systematisch de beveiligingsmaatregelen in beeld te zijn gebracht voor fysieke toegangsbeheersing. Hierbij is ten minste voorzien in:
-
-Om toegang te krijgen tot ruimtes waarin bijzondere informatie wordt verwerkt, worden afhankelijk van het rubriceringsniveau, steeds zwaardere beveiligingsmaatregelen getroffen.
-
-1 Met ‘besproken’ wordt bedoeld: elk overleg waarin bijzondere informatie besproken wordt.
-
-2 Normenkader Beveiliging Rijkskantoren (is niet voor alle gebouwen van de Rijksoverheid van toepassing)
-
-1 Hiervoor kan advies worden aangevraagd bij de Nationale TEMPEST Autoriteit (NTA).
-
-Een V houdt in: bij dit niveau van rubricering maatregel verplicht toepassen.
-
-Een * in de tabel verwijst op een aantal plekken voor DepV naar de BIO.
-
-### 4. Toegangsbeveiliging
-
-Het waarborgen van een beheerste en gecontroleerde toegang tot voorzieningen waarin zich bijzondere informatie bevindt of wordt verwerkt.
-
-Voorzie in procedures en regels voor toegangsrechten tot, logging en monitoring van netwerkdiensten, besturingssystemen en applicaties waar zich gerubriceerde informatie bevindt.
-
-Voorzie in een stelsel van logische toegangsbeveiligingsmaatregelen dat is gerelateerd aan de relevante dreiging en het rubriceringsniveau.
-
-Een V houdt in: bij dit niveau van rubricering maatregel verplicht toepassen.
-
-Een * in de tabel verwijst op een aantal plekken voor DepV naar de BIO.
-
-### 5. Beveiligingseisen voor ICT-voorzieningen
-
-Het waarborgen van een passend niveau van beveiliging gedurende de gehele levenscyclus van ICT- voorzieningen waarin bijzondere informatie wordt verwerkt.
-
-Voorafgaand aan verwerving, ontwikkeling, onderhoud en afstoot van informatiesystemen waarin bijzondere informatie wordt verwerkt, dienen de dreigingen en risico’s in beeld te zijn gebracht. Voor het gebruik en beheer van informatiesystemen is het beveiligingsniveau in overeenstemming met de dreigingen en risico’s.
-
-Een V houdt in: bij dit niveau van rubricering maatregel verplicht toepassen.
-
-Een * in de tabel verwijst op een aantal plekken voor DepV naar de BIO.
-
-### 6. Communicatiebeveiliging
-
-Het waarborgen van een wederzijds vergelijkbaar beveiligingsniveau voor de vertrouwelijkheid bij communicatie van bijzondere informatie.
-
-De vertrouwelijkheid van informatie moet gehandhaafd blijven tijdens (elektronisch) transport buiten gecontroleerd gebied. Voorzie in een passende set van maatregelen indien bijzondere informatie de organisatie of beveiligde omgeving verlaat.
-
-1 Het verzenden per koerier als diplomatieke zending vindt plaats door tussenkomst van het Ministerie van Buitenlandse Zaken, een diplomatieke of beroeps consulaire vertegenwoordiger van Nederland, de Gouverneur van Aruba, Gouverneur van Bonaire of de Gouverneur van Curaçao.
-
-2 Dep. VERTROUWELIJK gerubriceerde informatie hoeft niet vercijferd te worden indien verzending plaatsvindt via een intern netwerk dat zich binnen één locatie bevindt.
-
-Een V houdt in: bij dit niveau van rubricering maatregel verplicht toepassen.
-
-3 Zie ook Instellingsregeling WBI, Staatscourant 2005, 139 pagina 8.
-
-4 Voor equivalenten van Dep. VERTROUWELIJK en Stg. CONFIDENTIEEL geldt dat binnen Nederland ook nationaal goedgekeurde (cryptografische) beveiligingsmiddelen mogen worden ingezet.
-
-5 Voor DepV kan de toestemmingsverlening gedelegeerd worden aan de BVA.
-
-### 7. Beheer van bijzondere informatie
-
-Risico's voor bijzondere informatie worden procesmatig beheerst.
-
-Voorzie in maatregelen die duidelijke en veilige beheersing van, omgang met, kopiëring en vernietiging van bijzondere informatie mogelijk maken.
-
-Een V houdt in: bij dit niveau van rubricering maatregel verplicht toepassen.
-
-### 8. Incidenten en compromittering
-
-Het waarborgen van een gedegen detectie, afhandeling, melding, en opvolging van incidenten en compromitteringen met betrekking tot bijzondere informatie.
-
-Voorzie in maatregelen die in het geval van incidenten en compromittering voorzien in detectie en de impact minimaliseren en isoleren.
-
-Voorzie in maatregelen die in het geval van incidenten en compromittering degelijk forensisch onderzoek hiernaar mogelijk maken.
-
-Een V houdt in: bij dit niveau van rubricering maatregel verplicht toepassen.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

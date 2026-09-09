@@ -1,56 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Justitie en Veiligheid van 8 december 2025 nr. BOACAT2025/205, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Belastingdienst"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar Belastingdienst 2025"
 identifier: "BWBR0051957"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-12-17"
-last_updated: "2025-12-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051957"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "17678203"
-version_id: "31186012"
-internal_id: "C44615291"
-label_id: "17577624"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051957/2025-12-17/0"
-intitule_bron: "Stcrt.2025-43093"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-12-08"
-intitule_published: "2025-12-16"
-intitule_in_force: "2025-12-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-43093"
-original_signed_date: "2025-12-08"
-original_published_date: "2025-12-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-43093"
-entry_into_force_date: "2025-12-17"
-jci_1_3: "jci1.3:c:BWBR0051957&z=2025-12-17&g=2025-12-17"
-jci_1_0: "1.0:c:BWBR0051957&g=2025-12-17"
-citeertitel_status: "officieel"
-short_title: "Besluit buitengewoon opsporingsambtenaar Belastingdienst 2025"
-signed_date: "2025-12-08"
-entry_into_force: "2025-12-17"
+publicatiedatum: 2025-12-17
+laatste_update: 2025-12-17
+status: geldig
+toestand: 2025-12-17
+bron: "https://wetten.overheid.nl/BWBR0051957"
+opgehaald: 2026-09-09
 ---
+
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 8 december 2025 nr. BOACAT2025/205, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Belastingdienst
-
-Gelezen het verzoek van Belastingdienst van 4 december 2025 en de adviezen van de hoofdofficier van Justitie van het arrondissementsparket Den Haag en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17);
-
-de [Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0041447);
-
-de [Beleidsregels buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -62,13 +24,13 @@ De personen, werkzaam in de functie van verbalisant, fraudecoördinator en conta
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein V, Werk, inkomen en zorg, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein V, Werk, inkomen en zorg, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/BWBR0041447).
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
 3. De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het in het eerste lid genoemde domein.
 
-4. De buitengewoon opsporingsambtenaar bij de Belastingdienst draagt bij de uitoefening van zijn taak als buitengewoon opsporingsambtenaar bij zich het legitimatiebewijs vastgesteld in de bekendmaking model legitimatiebewijs Belastingdienst (d.d. 11 juni 2014, Staatscourant 2014/15855).
+4. De buitengewoon opsporingsambtenaar bij de Belastingdienst draagt bij de uitoefening van zijn taak als buitengewoon opsporingsambtenaar bij zich het legitimatiebewijs vastgesteld in de bekendmaking model legitimatiebewijs Belastingdienst (d.d. 11 juni 2014, Staatscourant 2014/15855).
 
 ##### Artikel 4
 
@@ -86,7 +48,7 @@ Aan de buitengewoon opsporingsambtenaren wordt ontheffing verleend van het bepaa
 
 ##### Artikel 7
 
-1. De Belastingdienst brengt jaarlijks, voor 1 april, verslag uit over:
+1. De Belastingdienst brengt jaarlijks, voor 1 april, verslag uit over:
 
 - a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051957&artikel=2&z=2025-12-17&g=2025-12-17) genoemde functie;
 
@@ -104,12 +66,10 @@ Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven akt
 
 ##### Artikel 9
 
-Het [Besluit buitengewoon opsporingsambtenaar Belastingdienst 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044498) nr. BOACAT2020/067 zal vervallen op 17 december 2025.
+Het [Besluit buitengewoon opsporingsambtenaar Belastingdienst 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044498) nr. BOACAT2020/067 zal vervallen op 17 december 2025.
 
-Dit besluit treedt in werking met ingang van 17 december 2025 en vervalt met ingang van 17 december 2030.
+Dit besluit treedt in werking met ingang van 17 december 2025 en vervalt met ingang van 17 december 2030.
 
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Belastingdienst 2025.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

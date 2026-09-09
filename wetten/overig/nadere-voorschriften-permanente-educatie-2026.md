@@ -1,72 +1,41 @@
 ---
 title: "Nadere voorschriften van 4 november 2025, houdende regels voor de permanente educatie van accountants (Nadere voorschriften permanente educatie 2026)"
+citeertitel: "Nadere voorschriften permanente educatie 2026"
 identifier: "BWBR0051771"
-country: "nl"
-rank: "pbo"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051771"
+categorie: "Overig"
 soort: "pbo"
-stam_id: "17599303"
-version_id: "31076262"
-internal_id: "C44494401"
-label_id: "17499744"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051771/2026-01-01/0"
-intitule_bron: "Stcrt.2025-39054"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-11-04"
-intitule_published: "2025-11-18"
-intitule_in_force: "2025-11-18"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-39054"
-original_signed_date: "2025-11-04"
-original_published_date: "2025-11-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-39054"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0051771&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0051771&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Nadere voorschriften permanente educatie 2026"
-signed_date: "2025-11-04"
-entry_into_force: "2026-01-01"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0051771"
+opgehaald: 2026-09-09
 ---
+
 # Nadere voorschriften van 4 november 2025, houdende regels voor de permanente educatie van accountants (Nadere voorschriften permanente educatie 2026)
-
-Overwegende dat voor het in stand houden van de professionele deskundigheid van de accountant kennis van en inzicht in de relevante vaktechnische, beroepsmatige en algemeen economische ontwikkelingen vereist is;
-
-Overwegende dat permanente educatie de accountant in staat stelt in continuïteit deskundig op te treden in de omgeving waarin de accountant beroepsmatig werkzaam is;
-
-Gelet op [artikel 24 van de Verordening gedrags- en beroepsregels accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&artikel=24);
-
-Gehoord de leden;
-
-Stelt de volgende nadere voorschriften vast:
 
 ##### Artikel 1
 
 In deze nadere voorschriften wordt verstaan onder:
 
-- −. **accountant:** accountant als bedoeld in [artikel 1 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=1);
+- − *accountant:* accountant als bedoeld in [artikel 1 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=1);
 
-- −. **leerdoel(en):** beschrijving van de beoogde leeruitkomst;
+- − *leerdoel(en):* beschrijving van de beoogde leeruitkomst;
 
-- −. **leeruitkomst(en):** resultaat van het verrichten van PE-activiteiten op het terrein van vaktechnische kennis, vaardigheden en houding voor zover deze voor de beroepsuitoefening van de accountant van belang zijn;
+- − *leeruitkomst(en):* resultaat van het verrichten van PE-activiteiten op het terrein van vaktechnische kennis, vaardigheden en houding voor zover deze voor de beroepsuitoefening van de accountant van belang zijn;
 
-- −. **ontwikkelthema('s):** thema's die onderwerpen of ontwikkelingen met verwachte impact op het beroep belichten;
+- − *ontwikkelthema('s):* thema's die onderwerpen of ontwikkelingen met verwachte impact op het beroep belichten;
 
-- −. **PE:** permanente educatie;
+- − *PE:* permanente educatie;
 
-- −. **PE-activiteit(en):** activiteit in het kader van permanente educatie;
+- − *PE-activiteit(en):* activiteit in het kader van permanente educatie;
 
-- −. **PE-portfolio:** persoonlijk ontwikkeldocument dat voldoet aan de vereisten in deze voorschriften;
+- − *PE-portfolio:* persoonlijk ontwikkeldocument dat voldoet aan de vereisten in deze voorschriften;
 
-- −. **werkveld(en):** werkvelden als bedoeld in [artikel 3 van de Verordening op de beroepsprofielen 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051130&artikel=3);
+- − *werkveld(en):* werkvelden als bedoeld in [artikel 3 van de Verordening op de beroepsprofielen 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051130&artikel=3);
 
-- −. **wet:** [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
+- − *wet:*
+ [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
 
 ##### Artikel 2
 
@@ -74,7 +43,7 @@ Deze nadere voorschriften zijn van toepassing op accountants met uitzondering va
 
 ##### Artikel 3
 
-De verplichtingen van een accountant op grond van deze nadere voorschriften vangen aan op 1 januari van het kalenderjaar volgend op het kalenderjaar van inschrijving van de accountant.
+De verplichtingen van een accountant op grond van deze nadere voorschriften vangen aan op 1 januari van het kalenderjaar volgend op het kalenderjaar van inschrijving van de accountant.
 
 ##### Artikel 4
 
@@ -112,7 +81,7 @@ De verplichtingen van een accountant op grond van deze nadere voorschriften vang
 
 2. De accountant verstrekt desgevraagd aan het bestuur de gegevens en inlichtingen die van belang zijn voor de beoordeling, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051771&artikel=8&z=2026-01-01&g=2026-01-01).
 
-3. De accountant verklaart op een door het bestuur voorgeschreven wijze uiterlijk op 31 januari van een kalenderjaar of de accountant voldaan heeft aan de verplichtingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051771&artikel=4&z=2026-01-01&g=2026-01-01), in het voorafgaande kalenderjaar. Daarbij verklaart de accountant eveneens in welk(e) werkveld(en) de accountant in het voorafgaande kalenderjaar werkzaam was.
+3. De accountant verklaart op een door het bestuur voorgeschreven wijze uiterlijk op 31 januari van een kalenderjaar of de accountant voldaan heeft aan de verplichtingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051771&artikel=4&z=2026-01-01&g=2026-01-01), in het voorafgaande kalenderjaar. Daarbij verklaart de accountant eveneens in welk(e) werkveld(en) de accountant in het voorafgaande kalenderjaar werkzaam was.
 
 ##### Artikel 7
 
@@ -156,10 +125,10 @@ Voor de beoordeling van de PE-verplichtingen over 2025 blijven de [Nadere voorsc
 
 1. De [Nadere voorschriften permanente educatie 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041616) worden ingetrokken.
 
-2. Het besluit van 1 oktober 2024 tot wijziging van de Nadere voorschriften permanente educatie 2019 wordt ingetrokken.
+2. Het besluit van 1 oktober 2024 tot wijziging van de Nadere voorschriften permanente educatie 2019 wordt ingetrokken.
 
 ##### Artikel 13
 
-1. Deze nadere voorschriften treden in werking met ingang van 1 januari 2026, met uitzondering van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051771&artikel=7&z=2026-01-01&g=2026-01-01) van deze nadere voorschriften dat in werking treedt op het moment waarop de artikelen II, III en IV van de Wet implementatie richtlijn duurzaamheidsrapportering in werking treden.
+1. Deze nadere voorschriften treden in werking met ingang van 1 januari 2026, met uitzondering van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051771&artikel=7&z=2026-01-01&g=2026-01-01) van deze nadere voorschriften dat in werking treedt op het moment waarop de artikelen II, III en IV van de Wet implementatie richtlijn duurzaamheidsrapportering in werking treden.
 
 2. Deze nadere voorschriften worden aangehaald als: Nadere voorschriften permanente educatie 2026.

@@ -1,62 +1,35 @@
 ---
 title: "Beleidsregel van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 23 november 2025, nr. WJZ/ 44383631, over de benodigde kennis, opleiding en bijscholing van gekwalificeerde personen (Beleidsregel kennis, opleiding en bijscholing van gekwalificeerde personen)"
+citeertitel: "Beleidsregel kennis, opleiding en bijscholing van gekwalificeerde personen"
 identifier: "BWBR0051840"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2025-11-27"
-last_updated: "2025-11-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051840"
+categorie: "Milieu"
 soort: "beleidsregel"
-stam_id: "17616483"
-version_id: "31099792"
-internal_id: "C44520141"
-label_id: "17516844"
-dtd_version: "2.0"
-original_entry_into_force: "2025-11-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051840/2025-11-27/0"
-intitule_bron: "Stcrt.2025-32221"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-11-23"
-intitule_published: "2025-11-25"
-intitule_in_force: "2025-11-26"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-32221"
-original_signed_date: "2025-11-23"
-original_published_date: "2025-11-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-32221"
-entry_into_force_date: "2025-11-27"
-jci_1_3: "jci1.3:c:BWBR0051840&z=2025-11-27&g=2025-11-27"
-jci_1_0: "1.0:c:BWBR0051840&g=2025-11-27"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel kennis, opleiding en bijscholing van gekwalificeerde personen"
-signed_date: "2025-11-23"
-entry_into_force: "2025-11-27"
+publicatiedatum: 2025-11-27
+laatste_update: 2025-11-27
+status: geldig
+toestand: 2025-11-27
+bron: "https://wetten.overheid.nl/BWBR0051840"
+opgehaald: 2026-09-09
 ---
+
 # Beleidsregel van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 23 november 2025, nr. WJZ/ 44383631, over de benodigde kennis, opleiding en bijscholing van gekwalificeerde personen (Beleidsregel kennis, opleiding en bijscholing van gekwalificeerde personen)
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en bijlage III, sectie IV, hoofdstuk I, van [verordening (EG) nr. 853/2004](32004R0853) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU 2004, L 139);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop het Besluit van 18 november 2024, houdende een wijziging van het Besluit dierlijke producten in verband met nadere regelgeving over gekwalificeerde personen (Stb. 2024, 405), in werking treedt.
 
 #### Paragraaf 1. Algemeen
 
 ##### Artikel 1. Begripsbepalingen
 
-- **gekwalificeerd persoon:** persoon als bedoeld in bijlage III, sectie IV, hoofdstuk I, van [verordening (EG) 853/2004](32004R0853);
+- *gekwalificeerd persoon:* persoon als bedoeld in bijlage III, sectie IV, hoofdstuk I, van verordening (EG) 853/2004;
 
-- **jachtakte:** jachtakte als bedoeld in [artikel 38, eerste lid, onderdeel a, van de Flora- en Faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=38), zoals die luidde op 31 december 2016, of artikel 3.26, eerste lid, onderdeel a van de Wet natuurbescherming, zoals die luidde op 31 december 2023;
+- *jachtakte:* jachtakte als bedoeld in [artikel 38, eerste lid, onderdeel a, van de Flora- en Faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=38), zoals die luidde op 31 december 2016, of artikel 3.26, eerste lid, onderdeel a van de Wet natuurbescherming, zoals die luidde op 31 december 2023;
 
-- **minister:** Minister van Landbouw, Visserij, Voedselzekerheid en Natuur;
+- *minister:* Minister van Landbouw, Visserij, Voedselzekerheid en Natuur;
 
-- **omgevingsvergunning voor een jachtgeweeractiviteit:** omgevingsvergunning inzake jachtgeweeractiviteiten als bedoeld in [artikel 5.1, eerste lid, onderdeel f, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1);
+- *omgevingsvergunning voor een jachtgeweeractiviteit:* omgevingsvergunning inzake jachtgeweeractiviteiten als bedoeld in [artikel 5.1, eerste lid, onderdeel f, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1);
 
-- **opleidingsinstantie:** instantie die ten genoegen van de minister de opleiding tot gekwalificeerd persoon verzorgt, bedoeld in bijlage III, sectie IV, hoofdstuk 1, onderdeel 5, van [verordening (EG) 853/2004](32004R0853);
+- *opleidingsinstantie:* instantie die ten genoegen van de minister de opleiding tot gekwalificeerd persoon verzorgt, bedoeld in bijlage III, sectie IV, hoofdstuk 1, onderdeel 5, van verordening (EG) 853/2004;
 
-- **verordening (EG) 853/2004:** [verordening (EG) nr. 853/2004](32004R0853) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU 2004, L 139).
+- *verordening (EG) 853/2004:*
+ verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU 2004, L 139).
 
 ##### Artikel 2. Toepassingsbereik
 
@@ -72,7 +45,7 @@ Deze beleidsregel is voor:
 
 ##### Artikel 3. Benodigde kennis gekwalificeerde persoon
 
-1. Van voldoende kennis als bedoeld in bijlage III, sectie IV, hoofdstuk 1, eerste onderdeel, van [verordening (EG) 853/2004](32004R0853) is in ieder geval sprake indien de gekwalificeerde persoon:
+1. Van voldoende kennis als bedoeld in bijlage III, sectie IV, hoofdstuk 1, eerste onderdeel, van verordening (EG) 853/2004 is in ieder geval sprake indien de gekwalificeerde persoon:
 
 - a. beschikt over een omgevingsvergunning voor een jachtgeweeractiviteit of een jachtakte en in een periode voorafgaand aan het tijdstip waarop die vergunning of akte is verleend, ook beschikte over een omgevingsvergunning voor een jachtgeweeractiviteit of een jachtakte;
 
@@ -82,7 +55,7 @@ Deze beleidsregel is voor:
 
 - d. na het behalen van het certificaat, bedoeld in [artikel 5, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051840&paragraaf=2&artikel=5&z=2025-11-27&g=2025-11-27), elke vier jaren een bijscholingsopleiding volgt die voldoet aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051840&paragraaf=2&artikel=7&z=2025-11-27&g=2025-11-27).
 
-2. Indien de gekwalificeerde persoon niet de benodigde basisopleiding, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051840&paragraaf=2&artikel=5&z=2025-11-27&g=2025-11-27), of bijscholing heeft gevolgd als bedoeld in artikel 7, dan wordt vermoed dat deze persoon niet over voldoende kennis beschikt als bedoeld in bijlage III, sectie IV, hoofdstuk 1, eerste onderdeel, van [verordening (EG) 853/2004](32004R0853).
+2. Indien de gekwalificeerde persoon niet de benodigde basisopleiding, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051840&paragraaf=2&artikel=5&z=2025-11-27&g=2025-11-27), of bijscholing heeft gevolgd als bedoeld in artikel 7, dan wordt vermoed dat deze persoon niet over voldoende kennis beschikt als bedoeld in bijlage III, sectie IV, hoofdstuk 1, eerste onderdeel, van verordening (EG) 853/2004.
 
 ##### Artikel 4. Goedkeuring opleidingsinstantie
 
@@ -94,13 +67,13 @@ Deze beleidsregel is voor:
 
 - c. zij beschikt over adequate procedures ten behoeve van de kwaliteitsborging die minimaal aan de volgende punten voldoet:
 
-- 1°. de procedures voorzien er in dat te allen tijde producten en diensten voldoen aan de geldende wet- en regelgeving;
+   - 1°. de procedures voorzien er in dat te allen tijde producten en diensten voldoen aan de geldende wet- en regelgeving;
 
-- 2°. de opleidingsinstantie voldoende zelfregulerend en corrigerend vermogen heeft;
+   - 2°. de opleidingsinstantie voldoende zelfregulerend en corrigerend vermogen heeft;
 
-- 3°. de opleidingsinstantie streeft naar continue kwaliteitsverbetering van de opleiding en het examen; en
+   - 3°. de opleidingsinstantie streeft naar continue kwaliteitsverbetering van de opleiding en het examen; en
 
-- 4°. de opleidingsinstantie voorziet in een koppeling met het register voor gekwalificeerde personen, bedoeld in [artikel 2.5a van het Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.5a).
+   - 4°. de opleidingsinstantie voorziet in een koppeling met het register voor gekwalificeerde personen, bedoeld in [artikel 2.5a van het Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.5a).
 
 2. Indien de opleidingsinstantie beschikt over een stelsel integrale kwaliteitszorg en borging dat voldoet aan de NEN ISO 9001:2015 norm dan wordt vermoed dat deze instantie beschikt over adequate procedures ten behoeve van de kwaliteitsborging als bedoeld in het eerste lid, onderdeel c.
 
@@ -108,7 +81,7 @@ Deze beleidsregel is voor:
 
 1. Een basisopleiding als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051840&paragraaf=2&artikel=3&z=2025-11-27&g=2025-11-27), komt voor goedkeuring door de minister in aanmerking indien wordt voldaan aan de in de volgende leden opgenomen voorwaarden, en aan de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0051840&paragraaf=2&artikel=6&z=2025-11-27&g=2025-11-27) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0051840&paragraaf=2&artikel=7&z=2025-11-27&g=2025-11-27).
 
-2. Een basisopleiding als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051840&paragraaf=2&artikel=3&z=2025-11-27&g=2025-11-27), bevat ten minste de kennisgebieden die zijn opgenomen in bijlage III, sectie IV, hoofdstuk 1, onderdeel 4, van [verordening (EG) 853/2004](32004R0853).
+2. Een basisopleiding als bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0051840&paragraaf=2&artikel=3&z=2025-11-27&g=2025-11-27), bevat ten minste de kennisgebieden die zijn opgenomen in bijlage III, sectie IV, hoofdstuk 1, onderdeel 4, van verordening (EG) 853/2004.
 
 3. In aanvulling op het tweede lid wordt binnen de basisopleiding het onderdeel:
 
@@ -160,6 +133,4 @@ Deze beleidsregel wordt aangehaald als Beleidsregel kennis, opleiding en bijscho
 
 ##### Artikel 10. Inwerkingtreding
 
-Deze beleidsregel treedt in werking op het tijdstip waarop het Besluit van 18 november 2024, houdende een wijziging van het Besluit dierlijke producten in verband met nadere regelgeving over gekwalificeerde personen (Stb. 2024, 405), in werking treedt.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
+Deze beleidsregel treedt in werking op het tijdstip waarop het Besluit van 18 november 2024, houdende een wijziging van het Besluit dierlijke producten in verband met nadere regelgeving over gekwalificeerde personen (Stb. 2024, 405), in werking treedt.

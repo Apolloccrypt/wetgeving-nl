@@ -1,46 +1,18 @@
 ---
 title: "Regeling van de Minister van Infrastructuur en Waterstaat van 13 oktober 2025, nr. IENW/BSK-2025/254921, houdende regels in verband met de modernisering van het erkenningenstelsel (Regeling erkenningen wegverkeer)"
+citeertitel: "Regeling erkenningen wegverkeer"
 identifier: "BWBR0051669"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051669"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "17570013"
-version_id: "31002992"
-internal_id: "C44424111"
-label_id: "17472884"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051669/2026-01-01/0"
-intitule_bron: "Stcrt.2025-34325"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-10-13"
-intitule_published: "2025-10-28"
-intitule_in_force: "2025-10-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-34325"
-original_signed_date: "2025-10-13"
-original_published_date: "2025-10-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-34325"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0051669&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0051669&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Regeling erkenningen wegverkeer"
-signed_date: "2025-10-13"
-entry_into_force: "2026-01-01"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0051669"
+opgehaald: 2026-09-09
 ---
+
 # Regeling van de Minister van Infrastructuur en Waterstaat van 13 oktober 2025, nr. IENW/BSK-2025/254921, houdende regels in verband met de modernisering van het erkenningenstelsel (Regeling erkenningen wegverkeer)
-
-Gelet op de [artikelen 4aub, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aub), [4auc, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4auc), [4aud, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aud), [37, derde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=37), [52b](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=52b), [70j](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=70j), [70n, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=70n), [86, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=86), en [186c, derde lid, onder a, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=186c), de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=13), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=19), en [20, eerste en tweede lid, van het Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=20), en de [artikelen 28a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=28a), [31, eerste lid, onder d, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=31), en [32, tweede lid en derde lid, onder g, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=32);
-
-BESLUIT:
-
-Treedt in werking op het tijdstip waarop de Wet van 10 mei 2023 tot wijziging van de Wegenverkeerswet 1994 in verband met de modernisering van het erkenningenstelsel, het verbeteren van de handhaafbaarheid en enkele andere wijzigingen van technische aard in werking treedt (Stb. 2023, 195).
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -48,53 +20,55 @@ Treedt in werking op het tijdstip waarop de Wet van 10 mei 2023 tot wijziging va
 
 In deze regeling wordt verstaan onder:
 
-- **APK-keurmeester:** natuurlijk persoon aan wie de bevoegdheid, bedoeld in [artikel 14, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=14) is verleend;
+- *APK-keurmeester:* natuurlijk persoon aan wie de bevoegdheid, bedoeld in [artikel 14, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=14) is verleend;
 
-- **besluit:** [Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671);
+- *besluit:*
+ [Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671);
 
-- **bevoegdheid APK-keurmeester:** bevoegdheid bedoeld in [artikel 14, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=14);
+- *bevoegdheid APK-keurmeester:* bevoegdheid bedoeld in [artikel 14, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=14);
 
-- **bevoegdheid LPG-technicus:** bevoegdheid bedoeld in [artikel 16, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=16);
+- *bevoegdheid LPG-technicus:* bevoegdheid bedoeld in [artikel 16, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=16);
 
-- **blanco-kentekenplaat:** plaat, gebaseerd op een halffabricaat als bedoeld in de [Regeling eisen goedkeuring kentekenplaten 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012172), die geschikt is voor het produceren van een kentekenplaat;
+- *blanco-kentekenplaat:* plaat, gebaseerd op een halffabricaat als bedoeld in de [Regeling eisen goedkeuring kentekenplaten 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012172), die geschikt is voor het produceren van een kentekenplaat;
 
-- **Dienst Wegverkeer:** dienst, genoemd in [artikel 4a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4a);
+- *Dienst Wegverkeer:* dienst, genoemd in [artikel 4a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4a);
 
-- **erkenning voor specifieke handelingen:** erkenning als bedoeld in [artikel 4aud, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aud);
+- *erkenning voor specifieke handelingen:* erkenning als bedoeld in [artikel 4aud, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aud);
 
-- **folie:** folie geschikt voor het produceren van gele, lichtblauwe, lichtgroene of witte kentekenplaten volgens de modellen in de [bijlage van de Regeling kenteken en kentekenplaten](onbekend);
+- *folie:* folie geschikt voor het produceren van gele, lichtblauwe, lichtgroene of witte kentekenplaten volgens de modellen in de [bijlage van de Regeling kenteken en kentekenplaten](https://wetten.overheid.nl/BWBR0009071);
 
-- **fabrikantenkeurmerk:** door de fabrikant van de kentekenplaat aan te brengen merk volgens model M. 3 in de [bijlage bij de Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/jci1.3:c:BWBR0009071);
+- *fabrikantenkeurmerk:* door de fabrikant van de kentekenplaat aan te brengen merk volgens model M. 3 in de [bijlage bij de Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/jci1.3:c:BWBR0009071);
 
-- **foliefabrikant:** bedrijf met een erkenning foliefabrikant;
+- *foliefabrikant:* bedrijf met een erkenning foliefabrikant;
 
-- **foliefabrikantwaarmerk:** door de foliefabrikant aan te brengen waarmerk als bedoeld in [bijlage 5 van de Regeling eisen goedkeuring kentekenplaten 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=5);
+- *foliefabrikantwaarmerk:* door de foliefabrikant aan te brengen waarmerk als bedoeld in [bijlage 5 van de Regeling eisen goedkeuring kentekenplaten 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=5);
 
-- **handelsregister:** handelsregister, genoemd in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2);
+- *handelsregister:* handelsregister, genoemd in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2);
 
-- **hologram:** hologram als bedoeld in [artikel 2 van de Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=2);
+- *hologram:* hologram als bedoeld in [artikel 2 van de Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=2);
 
-- **kentekenplaat:** een plaat die bestemd is om te worden gebruikt als kentekenplaat;
+- *kentekenplaat:* een plaat die bestemd is om te worden gebruikt als kentekenplaat;
 
-- **kentekenplaatfabrikant:** bedrijf met een erkenning kentekenfabrikant;
+- *kentekenplaatfabrikant:* bedrijf met een erkenning kentekenfabrikant;
 
-- **keuringsplaats:** perceel of enkele kadastraal aangrenzende percelen waarop een erkend bedrijf de keuring verricht met daarop een keuringsruimte. De ruimte kan bestaan uit één of meer besloten ruimten gelegen in één gebouw, dan wel in verscheidene belendende of nagenoeg belendende gebouwen, bedoeld om deel uit te maken van een keuringsplaats;
+- *keuringsplaats:* perceel of enkele kadastraal aangrenzende percelen waarop een erkend bedrijf de keuring verricht met daarop een keuringsruimte. De ruimte kan bestaan uit één of meer besloten ruimten gelegen in één gebouw, dan wel in verscheidene belendende of nagenoeg belendende gebouwen, bedoeld om deel uit te maken van een keuringsplaats;
 
-- **lamineercode:** lamineercode als bedoeld in [artikel 6, tweede lid, van de Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=6);
+- *lamineercode:* lamineercode als bedoeld in [artikel 6, tweede lid, van de Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=6);
 
-- **lamineerder:** bedrijf met een erkenning lamineerder;
+- *lamineerder:* bedrijf met een erkenning lamineerder;
 
-- **lamineerderswaarmerk:** door de lamineerder aan te brengen waarmerk als bedoeld in [bijlage 8 van de Regeling eisen goedkeuring kentekenplaten 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=8);
+- *lamineerderswaarmerk:* door de lamineerder aan te brengen waarmerk als bedoeld in [bijlage 8 van de Regeling eisen goedkeuring kentekenplaten 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012172&bijlage=8);
 
-- **LPG-technicus:** natuurlijk persoon aan wie de bevoegdheid, bedoeld in [artikel 16, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=16) is verleend;
+- *LPG-technicus:* natuurlijk persoon aan wie de bevoegdheid, bedoeld in [artikel 16, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=16) is verleend;
 
-- **ombouwverklaring:** bewijs volgens een door de Dienst Wegverkeer vastgesteld model dat de seriematige wijziging in de goedkeuring van een voertuig conform [hoofdstuk 6 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=6) is uitgevoerd;
+- *ombouwverklaring:* bewijs volgens een door de Dienst Wegverkeer vastgesteld model dat de seriematige wijziging in de goedkeuring van een voertuig conform [hoofdstuk 6 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=6) is uitgevoerd;
 
-- **seriematige wijziging:** op een seriematige manier aangebrachte wijziging in de goedkeuring van voertuigen als bedoeld in [hoofdstuk 6 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=6);
+- *seriematige wijziging:* op een seriematige manier aangebrachte wijziging in de goedkeuring van voertuigen als bedoeld in [hoofdstuk 6 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=6);
 
-- **wet:** [Wegenverkeerswet 1994](onbekend);
+- *wet:*
+ [Wegenverkeerswet 1994](https://wetten.overheid.nl/BWBR0006622);
 
-- **wijziging in de goedkeuring van voertuigen:** wijziging als bedoeld in [hoofdstuk 6 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=6).
+- *wijziging in de goedkeuring van voertuigen:* wijziging als bedoeld in [hoofdstuk 6 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=6).
 
 ### Hoofdstuk 2. Basiserkenning
 
@@ -204,9 +178,9 @@ Bij de aanvraag wordt door de aanvrager zekerheid gesteld aan de Dienst Wegverke
 
 1. Het erkende bedrijf heeft:
 
-- a. in de eerste twee jaar na verlening van de erkenning in ten minste 80% van de gemeenten met meer dan 10.000 inwoners een loket waar een aanvraag voor tenaamstelling of schorsing van voertuigen kan worden gedaan;
+- a. in de eerste twee jaar na verlening van de erkenning in ten minste 80% van de gemeenten met meer dan 10.000 inwoners een loket waar een aanvraag voor tenaamstelling of schorsing van voertuigen kan worden gedaan;
 
-- b. vanaf twee jaar na verlening van de erkenning in tenminste 90% van de gemeenten met meer dan 10.000 inwoners een loket;
+- b. vanaf twee jaar na verlening van de erkenning in tenminste 90% van de gemeenten met meer dan 10.000 inwoners een loket;
 
 - c. in de gemeenten waarin het bedrijf geen loket heeft, een loket in een naastliggende gemeente.
 
@@ -232,7 +206,7 @@ Bij de aanvraag wordt door de aanvrager zekerheid gesteld aan de Dienst Wegverke
 
 ##### Artikel 13. Rapport van de registeraccountant
 
-Het erkende bedrijf overlegt jaarlijks op een door de Dienst Wegverkeer te bepalen datum over het voorafgaande kalenderjaar een door een registeraccountant opgesteld rapport, waaruit blijkt dat het voldoet aan de eisen van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&hoofdstuk=3&paragraaf=3.3&artikel=12&z=2026-01-01&g=2026-01-01) van deze regeling.
+Het erkende bedrijf overlegt jaarlijks op een door de Dienst Wegverkeer te bepalen datum over het voorafgaande kalenderjaar een door een registeraccountant opgesteld rapport, waaruit blijkt dat het voldoet aan de eisen van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&hoofdstuk=3&paragraaf=3.3&artikel=12&z=2026-01-01&g=2026-01-01) van deze regeling.
 
 #### § 3.4. Erkenning tenaamstellen voertuigen bedrijfsvoorraad of importeursvoorraad
 
@@ -258,7 +232,7 @@ Een erkenning tenaamstellen voertuigen bedrijfsvoorraad of importeursvoorraad ka
 
 - a. de naam van de rechtspersoon,
 
-- b. unieke nummer, bedoeld in [artikel 9, onderdeel a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9);
+- b. unieke nummer, bedoeld in [artikel 9, onderdeel a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9);
 
 - c. het kenteken van het voertuig dat wordt overgedragen,
 
@@ -318,7 +292,7 @@ Een erkenning tenaamstellen voertuigen bedrijfsvoorraad of importeursvoorraad ka
 
 6. Het erkende bedrijf verstrekt de door de Dienst Wegverkeer te bepalen voertuiggegevens die overeen dienen te komen met het voertuig en de voertuiggegevens op het certificaat van overeenstemming.
 
-7. Het erkende bedrijf toont op verzoek van de Dienst Wegverkeer binnen een door de Dienst Wegverkeer te bepalen termijn de voertuigen waarvoor inschrijving is aangevraagd, alsmede de daarbij behorende certificaten van overeenstemming indien deze niet op grond van artikel 36 en 37 van [Verordening (EU) nr. 2018/858](32018R0858) reeds digitaal zijn aangeleverd aan de Dienst Wegverkeer.
+7. Het erkende bedrijf toont op verzoek van de Dienst Wegverkeer binnen een door de Dienst Wegverkeer te bepalen termijn de voertuigen waarvoor inschrijving is aangevraagd, alsmede de daarbij behorende certificaten van overeenstemming indien deze niet op grond van artikel 36 en 37 van Verordening (EU) nr. 2018/858 reeds digitaal zijn aangeleverd aan de Dienst Wegverkeer.
 
 8. De erkenning geldt uitsluitend voor de vestigingen die in de erkenning worden vermeld.
 
@@ -410,13 +384,13 @@ Een erkenning handelaarskenteken kan op aanvraag worden verleend aan:
 
 1. Het is de houder van een handelaarskenteken met de lettercombinatie FH, HA, HF of HH toegestaan om maximaal vijf bijbehorende kentekenplaten te hebben. Daarbij is het enkel toegestaan:
 
-- a. van de modellen 27.11, 27.12 en 27.14 van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend) ten hoogste twee kentekenplaten per model te hebben; en
+- a. van de modellen 27.11, 27.12 en 27.14 van de [bijlage bij de Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/BWBR0009071) ten hoogste twee kentekenplaten per model te hebben; en
 
-- b. van het model 27.13 van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend) ten hoogste één kentekenplaat te hebben.
+- b. van het model 27.13 van de [bijlage bij de Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/BWBR0009071) ten hoogste één kentekenplaat te hebben.
 
-2. Het is de houder van een handelaarskenteken met de lettercombinatie OA of LH toegestaan om over één bijbehorende kentekenplaat van het model 27.11, één van het model 27.12 en één van het model 27.13 van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend) te beschikken.
+2. Het is de houder van een handelaarskenteken met de lettercombinatie OA of LH toegestaan om over één bijbehorende kentekenplaat van het model 27.11, één van het model 27.12 en één van het model 27.13 van de [bijlage bij de Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/BWBR0009071) te beschikken.
 
-3. Het is de houder van een handelaarskenteken met de lettercombinatie HC toegestaan te beschikken over één bijbehorende kentekenplaat van het model 30.5, één van het model 30.6, en één van het model 31.5 van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend).
+3. Het is de houder van een handelaarskenteken met de lettercombinatie HC toegestaan te beschikken over één bijbehorende kentekenplaat van het model 30.5, één van het model 30.6, en één van het model 31.5 van de [bijlage bij de Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/BWBR0009071).
 
 #### § 3.8. Erkenning demontage
 
@@ -472,7 +446,7 @@ Een erkenning export kan op aanvraag worden verleend aan een natuurlijke persoon
 
 - b. legt de aanvrager een afschrift van het proces-verbaal over waaruit blijkt dat de kentekenplaten van het voertuig gestolen zijn; en
 
-- c. bewaart het erkende bedrijf het afschrift, bedoeld in onderdeel b, gedurende een termijn van minimaal één jaar maar maximaal twee jaar in de voorziening, bedoeld in het tweede lid.
+- c. bewaart het erkende bedrijf het afschrift, bedoeld in onderdeel b, gedurende een termijn van minimaal één jaar maar maximaal twee jaar in de voorziening, bedoeld in het tweede lid.
 
 9. Als één of meerdere kentekenplaten niet aanwezig zijn bij een voertuig waarvoor de Dienst Wegverkeer heeft bepaald dat hiermee niet op de weg mag worden gereden met betrekking tot de in [artikel 51a, derde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=51a) bedoelde eis, zijn het derde tot en met vijfde lid niet van toepassing voor de kentekenplaten die niet meer aanwezig zijn.
 
@@ -602,7 +576,7 @@ De aanvrager van een erkenning overlegt bij de aanvraag een testrapport van een 
 
 - d. de kentekenplatenfabrikant aan wie de blanco-kentekenplaten worden geleverd.
 
-16. Het erkende bedrijf bewaart de volgende bescheiden gedurende een termijn van twee jaar:
+16. Het erkende bedrijf bewaart de volgende bescheiden gedurende een termijn van twee jaar:
 
 - a. de documenten, bedoeld in het achtste lid;
 
@@ -638,7 +612,7 @@ De aanvrager van een erkenning overlegt bij de aanvraag een testrapport van een 
 
 5. Als blanco-kentekenplaten zijn doorgeleverd, worden deze niet opnieuw doorgeleverd aan een ander erkende bedrijf lamineerder.
 
-6. De registraties, bedoeld in het derde en vierde lid, worden gedurende twee jaar op de productieplaats bewaard.
+6. De registraties, bedoeld in het derde en vierde lid, worden gedurende twee  jaar op de productieplaats bewaard.
 
 #### § 3.12. Erkenning kentekenplaatfabrikant
 
@@ -698,7 +672,7 @@ Het erkende bedrijf bewaart de twee helften van de afgekeurde blanco-kentekenpla
 
 2. Het erkende bedrijf geeft kentekenplaten, bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&hoofdstuk=3&paragraaf=3.12&artikel=41&z=2026-01-01&g=2026-01-01), slechts af conform de [Regeling legitimatievoorschriften tenaamstelling en kentekenplaten](https://wetten.overheid.nl/jci1.3:c:BWBR0007091).
 
-3. Onverminderd het tweede lid, geeft het erkende bedrijf kentekenplaten volgens het model 18.2A tot en met 18.2E van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend) slechts af indien blijkens het kentekenregister toestemming is verleend voor het voeren van kentekenplaten volgens dat model.
+3. Onverminderd het tweede lid, geeft het erkende bedrijf kentekenplaten volgens het model 18.2A tot en met 18.2E van de [bijlage bij de Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/BWBR0009071) slechts af indien blijkens het kentekenregister toestemming is verleend voor het voeren van kentekenplaten volgens dat model.
 
 4. Onverminderd het tweede lid, geeft het erkende bedrijf donkerblauwe kentekenplaten slechts af indien aan de voorwaarden wordt voldaan volgens [artikel 3, tweede lid, van de Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=3).
 
@@ -708,7 +682,7 @@ Het erkende bedrijf bewaart de twee helften van de afgekeurde blanco-kentekenpla
 
 ##### Artikel 44. Aantal af te geven kentekenplaten
 
-1. Het erkende bedrijf geeft bij de afgifte van kentekenplaten volgens de modellen 18.2A tot en met 18.2E, 27.1A tot en met 27.2H, 27.10A tot en met 27.14, 27.30A tot en met 27.31E, 30.1A tot en met 30.6 en 31.1 van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend) per kenteken:
+1. Het erkende bedrijf geeft bij de afgifte van kentekenplaten volgens de modellen 18.2A tot en met 18.2E, 27.1A tot en met 27.2H, 27.10A tot en met 27.14, 27.30A tot en met 27.31E, 30.1A tot en met 30.6 en 31.1 van de [bijlage bij de Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/BWBR0009071) per kenteken:
 
 - a. één kentekenplaat af voor een motorrijtuig op twee of drie wielen met of zonder zijspanwagen, niet zijnde een bromfiets, een landbouw- of bosbouwtrekker, een motorrijtuig met beperkte snelheid of een mobiele machine;
 
@@ -746,9 +720,9 @@ Bij omwisseling van kentekenplaten in verband met het voorgenomen gebruik van he
 
 1. Het erkende bedrijf voorziet bij vervanging, de kentekenplaten met een lamineercode van een door de Dienst Wegverkeer aan het erkende bedrijf gemelde duplicaatcode.
 
-2. Dit artikel is niet van toepassing op kentekenplaten van het model 18.2 van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend).
+2. Dit artikel is niet van toepassing op kentekenplaten van het model 18.2 van de [bijlage bij de Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/BWBR0009071).
 
-3. Handelaarskentekenplaten van de modellen 27.11 t/m 27.14, 30.5, 30.6 en 31.5 van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend) worden niet vervangen.
+3. Handelaarskentekenplaten van de modellen 27.11 t/m 27.14, 30.5, 30.6 en 31.5 van de [bijlage bij de Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/BWBR0009071) worden niet vervangen.
 
 ##### Artikel 48. Registratie in verband met afgifte
 
@@ -772,7 +746,7 @@ Bij omwisseling van kentekenplaten in verband met het voorgenomen gebruik van he
 
 ##### Artikel 49. Doorleveren kentekenplaten
 
-1. Het erkende bedrijf mag kentekenplaten, niet zijnde blanco-kentekenplaten, volgens de modellen 1.1 tot en met 18.2E, 27.11, 27.12, 27.14, 27.30A tot en met 27.31E en kentekenplaten met de tekens van de modellen C1, indien uitgevoerd in kunststof, C2 en C3 van de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend), uitsluitend doorleveren aan een ander erkende bedrijf kentekenplaatfabrikant.
+1. Het erkende bedrijf mag kentekenplaten, niet zijnde blanco-kentekenplaten, volgens de modellen 1.1 tot en met 18.2E, 27.11, 27.12, 27.14, 27.30A tot en met 27.31E en kentekenplaten met de tekens van de modellen C1, indien uitgevoerd in kunststof, C2 en C3 van de [bijlage bij de Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/BWBR0009071), uitsluitend doorleveren aan een ander erkende bedrijf kentekenplaatfabrikant.
 
 2. Kentekenplaten zijn bij doorlevering, indien van toepassing, reeds voorzien van een duplicaatcode. Zij zijn niet voorzien van een merk als bedoeld in [artikel 5, eerste lid, van de Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=5).
 
@@ -818,55 +792,55 @@ Bij omwisseling van kentekenplaten in verband met het voorgenomen gebruik van he
 
 #### § 3.13. Erkenning APK
 
-#### § 3.13.1. Algemeen
+##### § 3.13.1. Algemeen
 
 ##### Artikel 52. Begripsbepalingen
 
 In deze paragraaf wordt verstaan onder:
 
-- **adviespunt:** in het kader van een keuring geconstateerd te verwachten gebrek;
+- *adviespunt:* in het kader van een keuring geconstateerd te verwachten gebrek;
 
-- **afkeurpunt:** in het kader van een keuring geconstateerd gebrek;
+- *afkeurpunt:* in het kader van een keuring geconstateerd gebrek;
 
-- **anonieme keuring:** keuring als bedoeld in [artikel 86a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=86a);
+- *anonieme keuring:* keuring als bedoeld in [artikel 86a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=86a);
 
-- **bevoegdheidspas:** pas als bedoeld in [artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&hoofdstuk=4&paragraaf=4.1&artikel=111&z=2026-01-01&g=2026-01-01);
+- *bevoegdheidspas:* pas als bedoeld in [artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&hoofdstuk=4&paragraaf=4.1&artikel=111&z=2026-01-01&g=2026-01-01);
 
-- **Regelgeving APK:** via de website van de Dienst Wegverkeer bekendgemaakte Regelgeving Algemene Periodieke Keuring die door de Dienst Wegverkeer is vastgesteld en geldig is op het moment van de keuring;
+- *Regelgeving APK:* via de website van de Dienst Wegverkeer bekendgemaakte Regelgeving Algemene Periodieke Keuring die door de Dienst Wegverkeer is vastgesteld en geldig is op het moment van de keuring;
 
-- **erkenning APK:** erkenning om keuringsrapporten af te geven voor motorrijtuigen en aanhangwagens, als bedoeld in [artikel 14 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=14);
+- *erkenning APK:* erkenning om keuringsrapporten af te geven voor motorrijtuigen en aanhangwagens, als bedoeld in [artikel 14 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=14);
 
-- **exameninstantie:** door de Minister aangewezen instantie als bedoeld in [artikel 115 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=115);
+- *exameninstantie:* door de Minister aangewezen instantie als bedoeld in [artikel 115 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=115);
 
-- **keuring:** periodieke keuring als bedoeld in [artikel 75 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=75);
+- *keuring:* periodieke keuring als bedoeld in [artikel 75 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=75);
 
-- **keuringseisen:** op de desbetreffende voertuigcategorie toepasselijke permanente eisen in de [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798);
+- *keuringseisen:* op de desbetreffende voertuigcategorie toepasselijke permanente eisen in de [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798);
 
-- **keuringsinstelling:** keuringsinstelling als bedoeld in [artikel 8.1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=8.1.1);
+- *keuringsinstelling:* keuringsinstelling als bedoeld in [artikel 8.1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=8.1.1);
 
-- **landbouw- en bosbouwtrekkers:** landbouw- en bosbouwtrekkers op wielen met een maximumconstructiesnelheid van meer dan 40 km/h;
+- *landbouw- en bosbouwtrekkers:* landbouw- en bosbouwtrekkers op wielen met een maximumconstructiesnelheid van meer dan 40 km/h;
 
-- **lichte voertuigen:** motorrijtuigen of aanhangwagens met een toegestane maximummassa van minder dan of gelijk aan 3.500 kg;
+- *lichte voertuigen:* motorrijtuigen of aanhangwagens met een toegestane maximummassa van minder dan of gelijk aan 3.500 kg;
 
-- **onderzoeksgerechtigde:** erkende onderneming of instelling als bedoeld in [artikel 8.1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=8.1.1);
+- *onderzoeksgerechtigde:* erkende onderneming of instelling als bedoeld in [artikel 8.1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=8.1.1);
 
-- **reparatiepunt:** in het kader van een keuring gerepareerd gebrek;
+- *reparatiepunt:* in het kader van een keuring gerepareerd gebrek;
 
-- **reparatieadviespunt:** in het kader van een keuring geconstateerd gebrek ten aanzien van de controlepunten opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&bijlage=1&z=2026-01-01&g=2026-01-01);
+- *reparatieadviespunt:* in het kader van een keuring geconstateerd gebrek ten aanzien van de controlepunten opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&bijlage=1&z=2026-01-01&g=2026-01-01);
 
-- **resultaat van de keuring:** goedkeuring dan wel afkeuring, alsmede eventuele adviespunten, reparatieadviespunten, reparatiepunten, afkeurpunten en opmerkingen inzake de uitvoering van de keuring;
+- *resultaat van de keuring:* goedkeuring dan wel afkeuring, alsmede eventuele adviespunten, reparatieadviespunten, reparatiepunten, afkeurpunten en opmerkingen inzake de uitvoering van de keuring;
 
-- **spelingsdetector:** inrichting om de wielophanging te controleren zonder de as op te tillen;
+- *spelingsdetector:* inrichting om de wielophanging te controleren zonder de as op te tillen;
 
-- **steekproef:** steekproefsgewijze herkeuring als bedoeld in [artikel 86 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=86);
+- *steekproef:* steekproefsgewijze herkeuring als bedoeld in [artikel 86 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=86);
 
-- **voor de verbruiksmonitoring uit te lezen personenauto’s en lichte bedrijfsvoertuigen:** nieuwe personenauto’s en nieuwe lichte bedrijfsvoertuigen, als bedoeld in artikel 2, eerste lid, onderdelen a en b, van [Verordening (EU) 2019/631](32019R0631), die met ingang van 1 januari 2021 zijn geregistreerd en die zijn uitgerust met boordinstrumenten voor de meting van het brandstof- en/of elektriciteitsverbruik overeenkomstig artikel 4 bis van [Verordening (EU) 2017/1151](32017R1151);
+- *voor de verbruiksmonitoring uit te lezen personenauto’s en lichte bedrijfsvoertuigen:* nieuwe personenauto’s en nieuwe lichte bedrijfsvoertuigen, als bedoeld in artikel 2, eerste lid, onderdelen a en b, van Verordening (EU) 2019/631, die met ingang van 1 januari 2021 zijn geregistreerd en die zijn uitgerust met boordinstrumenten voor de meting van het brandstof- en/of elektriciteitsverbruik overeenkomstig artikel 4 bis van Verordening (EU) 2017/1151;
 
-- **werkelijke gegevens:** gegevens, als bedoeld in artikel 2, onderdeel c, van [Uitvoeringsverordening (EU) 2021/392](32021R0392);
+- *werkelijke gegevens:* gegevens, als bedoeld in artikel 2, onderdeel c, van Uitvoeringsverordening (EU) 2021/392;
 
-- **zware voertuigen:** motorrijtuigen of aanhangwagens met een toegestane maximummassa van meer dan 3.500 kg.
+- *zware voertuigen:* motorrijtuigen of aanhangwagens met een toegestane maximummassa van meer dan 3.500 kg.
 
-#### § 3.13.2. Aanvrager
+##### § 3.13.2. Aanvrager
 
 ##### Artikel 53. Aanvrager
 
@@ -900,9 +874,9 @@ In deze paragraaf wordt verstaan onder:
 
 2. Bij een erkenning, als bedoeld in het eerste lid, doet de exploitant onder opgave van de naam en het adres van die rechtspersoon of rechtspersonen, terstond na de verlening van de erkenning schriftelijk opgave hiervan aan de Dienst Wegverkeer. Het verband moet bij de Dienst Wegverkeer worden aangetoond door middel van een uittreksel uit het register van de Kamer van Koophandel of een accountantsverklaring.
 
-#### § 3.13.3. Eisen en voorwaarden aan de erkenning
+##### § 3.13.3. Eisen en voorwaarden aan de erkenning
 
-#### § 3.13.3.1. Gebouw en uitrusting
+##### § 3.13.3.1. Gebouw en uitrusting
 
 ##### Artikel 55. Keuringsruimte
 
@@ -936,9 +910,9 @@ In deze paragraaf wordt verstaan onder:
 
 2. De inspectieput en de hefinrichting zijn zodanig uitgevoerd dat de APK-keurmeester in staat is de onderkant van een voertuig nagenoeg over de hele lengte rechtopstaand te inspecteren. Dit houdt in dat in een keuringsruimte die bestemd is voor het keuren van:
 
-- a. zware voertuigen de hefinrichting een hefhoogte heeft van ten minste 1,35 meter en de inspectieput een diepte heeft van ten minste 1,35 meter;
+- a. zware voertuigen de hefinrichting een hefhoogte heeft van ten minste 1,35 meter en de inspectieput een diepte heeft van ten minste 1,35 meter;
 
-- b. lichte voertuigen de hefinrichting een hefhoogte heeft van ten minste 1,65 meter en de inspectieput een diepte heeft van ten minste 1,55 meter.
+- b. lichte voertuigen de hefinrichting een hefhoogte heeft van ten minste 1,65 meter en de inspectieput een diepte heeft van ten minste 1,55 meter.
 
 3. De hefinrichting kan ten minste vier wielen van het voertuig ondersteunen. Een met steunpoten gecombineerde hefinrichting voldoet niet aan deze eis.
 
@@ -960,7 +934,7 @@ In deze paragraaf wordt verstaan onder:
 
 3. De keuringsruimte voor de keuring van landbouw- of bosbouwtrekkers is geschikt voor de controle van de afstelling van de dimlichten, bedoeld in [artikel 113 van bijlage VIII bij de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII).
 
-#### § 3.13.3.2. Apparatuur keuringsruimte
+##### § 3.13.3.2. Apparatuur keuringsruimte
 
 ##### Artikel 58. Apparatuur algemeen
 
@@ -972,9 +946,9 @@ In de keuringsruimte is de volgende apparatuur aanwezig:
 
 - c. een meetband met een minimale nauwkeurigheidsklasse III van: Als een erkend bedrijf uitsluitend keuringsbewijzen afgeeft voor voertuigen met een beperkte lengte, heeft de meetband tenminste dezelfde lengte als de toegestane voertuiglengte;
 
-- i. ten minste 12,00 meter voor het afgeven van keuringsbewijzen voor lichte voertuigen;
+   - i. ten minste 12,00 meter voor het afgeven van keuringsbewijzen voor lichte voertuigen;
 
-- ii. ten minste 20,00 meter voor het afgeven van keuringsbewijzen voor zware voertuigen of landbouw- of bosbouwtrekkers.
+   - ii ten minste 20,00 meter voor het afgeven van keuringsbewijzen voor zware voertuigen of landbouw- of bosbouwtrekkers.
 
 - d. een doelmatige schuifmaat die is voorzien van een meetstift voor dieptemeting;
 
@@ -986,7 +960,7 @@ In de keuringsruimte is de volgende apparatuur aanwezig:
 
 - h. een rollenremtestbank of platenremtestbank, die voldoet aan de in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&hoofdstuk=3&paragraaf=3.13&sub-paragraaf=3.13.3&sub-paragraaf=3.13.3.4&artikel=64&z=2026-01-01&g=2026-01-01) gestelde eisen. Voor APK landbouw- en bosbouwtrekkers is een rollenrembanktest of een zelfregistrerende remvertragingsmeter aanwezig. Voor APK zware voertuigen is in elk geval een rollenremtestbank aanwezig. Het draagvermogen van een rollenremtestbank of platenremtestbank is voldoende voor de groep voertuigen waarvoor de erkenning wordt of is verleend;
 
-- i. een doelmatige bandenprofieldieptemeter, met verende meetstift en een meetnauwkeurigheid van 0,1 mm.
+- i. een doelmatige bandenprofieldieptemeter, met verende meetstift en een meetnauwkeurigheid van 0,1 mm.
 
 ##### Artikel 59. Apparatuur voor specifieke groep voertuigen
 
@@ -994,39 +968,39 @@ Naast de in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&hoofdst
 
 - a. voor zware voertuigen en lichte voertuigen:
 
-- 1°. een koplamptestapparaat;
+   - 1°. een koplamptestapparaat;
 
-- 2°. een pedaalkrachtmeter; deze is niet verplicht in geval van een vóór 1 maart 2000 afgegeven erkenning voor het eigen wagenpark en in geval van een erkenning die uitsluitend geldt voor het keuren van voertuigen die zijn voorzien van een druklucht-remsysteem;
+   - 2°. een pedaalkrachtmeter; deze is niet verplicht in geval van een vóór 1 maart 2000 afgegeven erkenning voor het eigen wagenpark en in geval van een erkenning die uitsluitend geldt voor het keuren van voertuigen die zijn voorzien van een druklucht-remsysteem;
 
-- 3°. een apparaat om LPG-, CNG- of LNG-lekkages op te sporen;
+   - 3°. een apparaat om LPG-, CNG- of LNG-lekkages op te sporen;
 
-- 4°. een universele toerenteller; en
+   - 4°. een universele toerenteller; en
 
-- 5°. een hulpstuk waarmee de speling op de sluiting van 2 inch koppelingsschotels meetbaar gemaakt kan worden;
+   - 5°. een hulpstuk waarmee de speling op de sluiting van 2 inch koppelingsschotels meetbaar gemaakt kan worden;
 
 - b. voor zware voertuigen:
 
-- 1°. twee manometers met slangen en aansluitstukken voor drukmeetpunten alsmede aansluitkoppen voor aanhangwagenremsystemen, waarmee de druk in drukluchtremsystemen en in gasveersystemen kan worden gemeten;
+   - 1°. twee manometers met slangen en aansluitstukken voor drukmeetpunten alsmede aansluitkoppen voor aanhangwagenremsystemen, waarmee de druk in drukluchtremsystemen en in gasveersystemen kan worden gemeten;
 
-- 2°. een stalen rei met een lengte van ten minste 0,90 m;
+   - 2°. een stalen rei met een lengte van ten minste 0,90 m;
 
-- 3°. een hulpstuk waarmee de speling op de sluiting van 2 inch koppelingsschotels meetbaar gemaakt kan worden; en
+   - 3°. een hulpstuk waarmee de speling op de sluiting van 2 inch koppelingsschotels meetbaar gemaakt kan worden; en
 
-- 4°. een spelingsdetector;
+   - 4°. een spelingsdetector;
 
 - c. voor lichte voertuigen:
 
-- 1°. een uitleesapparaat ten behoeve van het uitlezen van het emissiegerelateerd diagnostisch boordsysteem;
+   - 1°. een uitleesapparaat ten behoeve van het uitlezen van het emissiegerelateerd diagnostisch boordsysteem;
 
-- 2°. een apparaat om verbinding te maken met de elektronische voertuiginterface, ten behoeve van het uitlezen van de werkelijke gegevens en het voertuigidentificatienummer.
+   - 2°. een apparaat om verbinding te maken met de elektronische voertuiginterface, ten behoeve van het uitlezen van de werkelijke gegevens en het voertuigidentificatienummer.
 
 - d. voor landbouw- en bosbouwtrekkers:
 
-- 1°. de apparatuur genoemd in onderdeel a, onder 1°, 2° en 3°;
+   - 1°. de apparatuur genoemd in onderdeel a, onder 1°, 2° en 3°;
 
-- 2°. de apparatuur genoemd in onderdeel b, onder 1°, 2° en 4°;
+   - 2°. de apparatuur genoemd in onderdeel b, onder 1°, 2° en 4°;
 
-- 3°. een hydraulische manometer met slangen en aansluitstukken voor drukmeetpunten alsmede aansluitkoppen voor hydraulische aanhangwagenremsystemen, waarmee de druk in hydraulische remsystemen kan worden gemeten;
+   - 3°. een hydraulische manometer met slangen en aansluitstukken voor drukmeetpunten alsmede aansluitkoppen voor hydraulische aanhangwagenremsystemen, waarmee de druk in hydraulische remsystemen kan worden gemeten;
 
 - e. voor motorrijtuigen met een verbrandingsmotor met compressie-ontsteking die niet is voorzien van een roetfilter, niet zijnde landbouw- of bosbouwtrekkers: een roetmeter en olietemperatuurmeter;
 
@@ -1074,15 +1048,15 @@ Naast de in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&hoofdst
 
 - c. de volgende protocollen ondersteunen:
 
-- i. ISO 9141-2;
+   - i. ISO 9141-2;
 
-- ii. ISO/DIS 11519-4 PWM dan wel SAE J1850 PWM;
+   - ii. ISO/DIS 11519-4 PWM dan wel SAE J1850 PWM;
 
-- iii. ISO/DIS 11519-4 VPW dan wel SAE J1850 VPW;
+   - iii. ISO/DIS 11519-4 VPW dan wel SAE J1850 VPW;
 
-- iv. ISO/DIS 14230-4; en
+   - iv. ISO/DIS 14230-4; en
 
-- v. ISO/DIS 15765-4.
+   - v. ISO/DIS 15765-4.
 
 - d. de status van de in het voertuig aanwezige waarschuwingsinrichting (MIL) kunnen weergeven;
 
@@ -1098,9 +1072,9 @@ Naast de in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&hoofdst
 
 - a. de beweging door de bediener vanuit de controlepositie kan worden beheerst,
 
-- b. de bewegingsruimte in de lengte- en in de dwarsrichting ten minste 95 mm is,
+- b. de bewegingsruimte in de lengte- en in de dwarsrichting ten minste 95 mm is,
 
-- c. bewegingssnelheid in de lengte- en in de dwarsrichting 5 tot 15 cm/s bedraagt.
+- c. bewegingssnelheid in de lengte- en in de dwarsrichting 5 tot 15 cm/s bedraagt.
 
 10. Een apparaat om verbinding te maken met de elektronische voertuiginterface zoals bedoeld in [artikel 59, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&hoofdstuk=3&paragraaf=3.13&sub-paragraaf=3.13.3&sub-paragraaf=3.13.3.2&artikel=59&z=2026-01-01&g=2026-01-01):
 
@@ -1120,7 +1094,7 @@ Naast de in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&hoofdst
 
 De apparatuur, bedoeld in de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&hoofdstuk=3&paragraaf=3.13&sub-paragraaf=3.13.3&sub-paragraaf=3.13.3.2&artikel=58&z=2026-01-01&g=2026-01-01) en [59](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&hoofdstuk=3&paragraaf=3.13&sub-paragraaf=3.13.3&sub-paragraaf=3.13.3.2&artikel=59&z=2026-01-01&g=2026-01-01), is deugdelijk en verkeert in een goede staat van onderhoud.
 
-#### § 3.13.3.3. Inrichting
+##### § 3.13.3.3. Inrichting
 
 ##### Artikel 62. Kenbaarheid erkend bedrijf APK
 
@@ -1132,7 +1106,7 @@ De eis van kenbaarheid van het erkende bedrijf, bedoeld in [artikel 5](https://w
 
 2. Na verplaatsing van de nulemissie-eenheid naar een andere keuringsplaats, moet wederom een certificaat van eerste keuring, dan wel herkeuring worden afgegeven.
 
-#### § 3.13.3.4. Voorschriften ten aanzien van de rapportage aan de Dienst Wegverkeer
+##### § 3.13.3.4. Voorschriften ten aanzien van de rapportage aan de Dienst Wegverkeer
 
 ##### Artikel 64. Doorgeven tellerstand
 
@@ -1146,13 +1120,13 @@ Aan een op grond van [artikel 23k van het Besluit voertuigen](https://wetten.ove
 
 - b. het beschikbaar stellen van deze gegevens niet mogelijk is vanwege een technische reden.
 
-2. Het uitlezen en verstrekken van het voertuigidentificatienummer en de werkelijke gegevens vindt plaats gedurende een periode van maximaal 15 jaar en vangt aan vanaf de datum waarop de werkelijke gegevens voor het eerst aan het Europees Milieuagentschap worden gerapporteerd.
+2. Het uitlezen en verstrekken van het voertuigidentificatienummer en de werkelijke gegevens vindt plaats gedurende een periode van maximaal 15  jaar en vangt aan vanaf de datum waarop de werkelijke gegevens voor het eerst aan het Europees Milieuagentschap worden gerapporteerd.
 
-#### § 3.13.3.5. Voorschriften administratie en bescheiden
+##### § 3.13.3.5. Voorschriften administratie en bescheiden
 
 ##### Artikel 66. Administratie en bescheiden
 
-1. Van het steekproefcontrolerapport wordt ten minste gedurende twee jaar een afschrift bewaard. Op dit afschrift worden geen wijzigingen aangebracht.
+1. Van het steekproefcontrolerapport wordt ten minste gedurende twee  jaar een afschrift bewaard. Op dit afschrift worden geen wijzigingen aangebracht.
 
 2. Gedurende de in het eerste lid bedoelde termijn worden de genoemde bescheiden en de controlelijsten desgevraagd onverwijld aan een functionaris van de Dienst Wegverkeer ter inzage gegeven of ter inzage opgestuurd.
 
@@ -1164,7 +1138,7 @@ Aan een op grond van [artikel 23k van het Besluit voertuigen](https://wetten.ove
 
 6. Foutief ingevulde of onbruikbaar geworden afdrukken van keuringsrapporten worden vernietigd.
 
-#### § 3.13.3.6. Doorgeven wijzigingen
+##### § 3.13.3.6. Doorgeven wijzigingen
 
 ##### Artikel 67. Wijzigingen
 
@@ -1174,9 +1148,9 @@ Aan een op grond van [artikel 23k van het Besluit voertuigen](https://wetten.ove
 
 3. Wijziging en uitbreiding van een erkenning is niet mogelijk indien de erkenning op grond van [artikel 4auh van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4auh) is ingetrokken.
 
-#### § 3.13.4. Voorschriften keuringen
+##### § 3.13.4. Voorschriften keuringen
 
-#### § 3.13.4.1. Algemene keuringsvoorschriften
+##### § 3.13.4.1. Algemene keuringsvoorschriften
 
 ##### Artikel 68. Algemene keuringsvoorschriften
 
@@ -1190,7 +1164,7 @@ Aan een op grond van [artikel 23k van het Besluit voertuigen](https://wetten.ove
 
 5. Bij de keuring wordt het voertuig tevens gecontroleerd aan de hand van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&bijlage=1&z=2026-01-01&g=2026-01-01) opgenomen reparatieadviespunten.
 
-#### § 3.13.4.2. Voorschriften keuring, steekproef en anonieme keuring
+##### § 3.13.4.2. Voorschriften keuring, steekproef en anonieme keuring
 
 ##### Artikel 69. Keuring
 
@@ -1242,9 +1216,9 @@ Aan een op grond van [artikel 23k van het Besluit voertuigen](https://wetten.ove
 
 - f. ten aanzien van de voor de verbruiksmonitoring uit te lezen personenauto’s en lichte bedrijfsvoertuigen, de werkelijke gegevens en het voertuigidentificatienummer, tenzij:
 
-- 1°. de eigenaar of houder van het voertuig uitdrukkelijk heeft geweigerd deze gegevens beschikbaar te stellen; of
+   - 1°. de eigenaar of houder van het voertuig uitdrukkelijk heeft geweigerd deze gegevens beschikbaar te stellen; of
 
-- 2°. het beschikbaar stellen van deze gegevens niet mogelijk is vanwege een technische reden.
+   - 2°. het beschikbaar stellen van deze gegevens niet mogelijk is vanwege een technische reden.
 
 3. Na acceptatie van de afmelding wordt weergegeven:
 
@@ -1276,7 +1250,7 @@ Aan een op grond van [artikel 23k van het Besluit voertuigen](https://wetten.ove
 
 7. Het keuringsrapport wordt onverwijld aan de aanvrager afgegeven als het voertuig niet aan een steekproef wordt onderworpen.
 
-8. Als het voertuig aan een steekproef wordt onderworpen, deelt het erkende bedrijf dit aan de aanvrager mede en houdt het erkende bedrijf het keuringsrapport onder zich voor een periode van ten hoogste negentig minuten, vanaf het tijdstip van afmelding.
+8. Als het voertuig aan een steekproef wordt onderworpen, deelt het erkende bedrijf dit aan de aanvrager mede en houdt het erkende bedrijf het keuringsrapport onder zich voor een periode van ten hoogste negentig minuten, vanaf het tijdstip van afmelding.
 
 ##### Artikel 72. Aantal steekproeven
 
@@ -1284,7 +1258,7 @@ Het aantal voertuigen, bedoeld in [artikel 86, eerste lid, van de wet](https://w
 
 ##### Artikel 73. Verplichtingen bij een steekproef
 
-1. Er worden gedurende negentig minuten na het tijdstip van afmelding geen wijzigingen aangebracht in de staat van het voertuig dat aan een steekproef wordt onderworpen. Er worden met betrekking tot een dergelijk voertuig ook geen metingen verricht.
+1. Er worden gedurende negentig minuten na het tijdstip van afmelding geen wijzigingen aangebracht in de staat van het voertuig dat aan een steekproef wordt onderworpen. Er worden met betrekking tot een dergelijk voertuig ook geen metingen verricht.
 
 2. Het erkende bedrijf wijst de eigenaar of houder van het voertuig dat aan een steekproef wordt onderworpen erop dat deze verplicht is het voertuig voor de uitvoering van de steekproef beschikbaar te houden.
 
@@ -1306,7 +1280,7 @@ Het aantal voertuigen, bedoeld in [artikel 86, eerste lid, van de wet](https://w
 
 2. Het erkende bedrijf draagt er zorg voor dat de eigenaar of houder van een voertuig dat aan een steekproef wordt onderworpen in het geval, bedoeld in het eerste lid, op de hoogte is gesteld van de verplichting om een nieuwe aanvraag van een keuringsrapport bij de Dienst Wegverkeer in te dienen.
 
-#### § 3.13.5. Toezicht
+##### § 3.13.5. Toezicht
 
 ##### Artikel 75. Bonus- en strafpunten
 
@@ -1332,9 +1306,9 @@ De in [artikel 4auh, zesde lid van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 79. Begripsbepalingen
 
-- **werkplaats:** perceel of enkele kadastraal aangrenzende percelen waarop een erkend bedrijf wijziging goedkeuring voertuigen zijn werkzaamheden verricht met daarop een werkruimte. De werkruimte kan bestaan uit één of meer besloten ruimten gelegen in één gebouw, dan wel in verscheidene belendende of nagenoeg belendende gebouwen, bedoeld om deel uit te maken van een werkplaats.
+- *werkplaats:* perceel of enkele kadastraal aangrenzende percelen waarop een erkend bedrijf wijziging goedkeuring voertuigen zijn werkzaamheden verricht met daarop een werkruimte. De werkruimte kan bestaan uit één of meer besloten ruimten gelegen in één gebouw, dan wel in verscheidene belendende of nagenoeg belendende gebouwen, bedoeld om deel uit te maken van een werkplaats.
 
-#### § 3.14.1. Aanvrager van de erkenning
+##### § 3.14.1. Aanvrager van de erkenning
 
 ##### Artikel 80. Aanvrager
 
@@ -1346,9 +1320,9 @@ De in [artikel 4auh, zesde lid van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 - b. Ten minste één door de Dienst Wegverkeer afgegeven geldige toestemming voor een seriematige wijziging van voertuigen.
 
-#### § 3.14.2. Eisen aan de erkenning
+##### § 3.14.2. Eisen aan de erkenning
 
-#### § 3.14.2.1. Seriematige wijziging
+##### § 3.14.2.1. Seriematige wijziging
 
 ##### Artikel 81. Seriematige wijziging
 
@@ -1372,9 +1346,9 @@ De in [artikel 4auh, zesde lid van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 - f. een omschrijving van de seriematige wijziging, waaronder in ieder geval:
 
-- 1°. overige relevante voertuiggegevens van het voertuigtype waarop de seriematige wijziging betrekking heeft;
+   - 1°. overige relevante voertuiggegevens van het voertuigtype waarop de seriematige wijziging betrekking heeft;
 
-- 2°. de wijziging die wordt aangebracht, bedoeld in [hoofdstuk 6 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=6).
+   - 2°. de wijziging die wordt aangebracht, bedoeld in [hoofdstuk 6 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=6).
 
 2. Een seriematige wijziging kan meerdere voertuigtypes, merknamen of handelsbenamingen bevatten, mits een basisvoertuig dat wordt gebruikt bij die seriematige wijziging is typegoedgekeurd op grond van de dezelfde goedkeuringscertificaten of testrapporten.
 
@@ -1384,7 +1358,7 @@ De in [artikel 4auh, zesde lid van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 2. Bij het verlenen van toestemming krijgt de seriematige wijziging een uniek WGV-nummer.
 
-#### § 3.14.2.2. Eisen aan de werkplaats
+##### § 3.14.2.2. Eisen aan de werkplaats
 
 ##### Artikel 84. Werkplaats
 
@@ -1408,7 +1382,7 @@ De in [artikel 4auh, zesde lid van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 2. De apparatuur is deugdelijk, verkeert in een goede staat van onderhoud en is, indien noodzakelijk, voorzien van geldige ijkcertificaten afgegeven door een geaccrediteerd meetinstituut.
 
-#### § 3.14.2.3. Erkenningsvoorschriften
+##### § 3.14.2.3. Erkenningsvoorschriften
 
 ##### Artikel 86. Maatregelen en procedures voor effectieve controle
 
@@ -1432,7 +1406,7 @@ Het erkende bedrijf dient voor elk gewijzigd voertuig vast te stellen dat aangeb
 
 2. De ombouwverklaring wordt onmiddellijk na de wijziging aan de Dienst Wegverkeer toegezonden.
 
-#### § 3.14.2.4. Administratie
+##### § 3.14.2.4. Administratie
 
 ##### Artikel 90. Administratie
 
@@ -1442,7 +1416,7 @@ Het erkende bedrijf dient voor elk gewijzigd voertuig vast te stellen dat aangeb
 
 - b. de administratie doelmatig en deugdelijk is, waardoor voldoende inzicht wordt geboden in de verschillende fasen die het voertuig tijdens en na fabricage van de wijziging doorloopt, en
 
-- c. de administratie omtrent geproduceerde wijzigingen in de goedkeuring van voertuigen ten minste 10 jaar beschikbaar blijft.
+- c. de administratie omtrent geproduceerde wijzigingen in de goedkeuring van voertuigen ten minste 10 jaar beschikbaar blijft.
 
 #### § 3.15. Erkenning gasinstallaties
 
@@ -1450,27 +1424,27 @@ Het erkende bedrijf dient voor elk gewijzigd voertuig vast te stellen dat aangeb
 
 1. In deze paragraaf wordt verstaan onder:
 
-- **keuring:** keuring als bedoeld in [artikel 98 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=98);
+- *keuring:* keuring als bedoeld in [artikel 98 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=98);
 
-- **keuringseisen:** voor de desbetreffende voertuigcategorie geldende goedkeuringseisen als bedoeld in [artikel 21, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=21);
+- *keuringseisen:* voor de desbetreffende voertuigcategorie geldende goedkeuringseisen als bedoeld in [artikel 21, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=21);
 
-- **opnamekaart gasinstallatie:** bewijs volgens een door de Dienst Wegverkeer vastgesteld model dat de gasinstallatie overeenkomstig deze regeling is gekeurd;
+- *opnamekaart gasinstallatie:* bewijs volgens een door de Dienst Wegverkeer vastgesteld model dat de gasinstallatie overeenkomstig deze regeling is gekeurd;
 
-- **Regelgeving keuring gasinstallatie:** editie van het boekwerk Regelgeving keuring gasinstallatie of de via de website van de Dienst Wegverkeer bekendgemaakte Regelgeving keuring gasinstallatie die door de Dienst Wegverkeer is vastgesteld en geldig is op het moment van de keuring;
+- *Regelgeving keuring gasinstallatie:* editie van het boekwerk Regelgeving keuring gasinstallatie of de via de website van de Dienst Wegverkeer bekendgemaakte Regelgeving keuring gasinstallatie die door de Dienst Wegverkeer is vastgesteld en geldig is op het moment van de keuring;
 
-- **steekproef:** steekproefsgewijze herkeuring.
+- *steekproef:* steekproefsgewijze herkeuring.
 
 2. [Artikel 1.3 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.3) is van overeenkomstige toepassing.
 
-#### § 3.15.1. Aanvrager erkenning gasinstallaties
+##### § 3.15.1. Aanvrager erkenning gasinstallaties
 
 ##### Artikel 92. Aanvrager erkenning
 
 Een erkenning gasinstallaties kan op aanvraag worden verleend aan een natuurlijke persoon of rechtspersoon, die exploitant is van een of meer keuringsplaatsen.
 
-#### § 3.15.2. Eisen en voorwaarden aan de erkenning
+##### § 3.15.2. Eisen en voorwaarden aan de erkenning
 
-#### § 3.15.2.1. Keuringsruimte en uitrusting
+##### § 3.15.2.1. Keuringsruimte en uitrusting
 
 ##### Artikel 93. Keuringsruimte
 
@@ -1482,7 +1456,7 @@ Een erkenning gasinstallaties kan op aanvraag worden verleend aan een natuurlijk
 
 Op de keuringsruimte bestemd voor het keuren van gasinstallaties zijn de [artikelen 56, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&hoofdstuk=3&paragraaf=3.13&sub-paragraaf=3.13.3&sub-paragraaf=3.13.3.1&artikel=56&z=2026-01-01&g=2026-01-01), en [57](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&hoofdstuk=3&paragraaf=3.13&sub-paragraaf=3.13.3&sub-paragraaf=3.13.3.1&artikel=57&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing, met dien verstande dat onder APK-keurmeester, bedoeld in artikel 56, wordt verstaan: LPG-technicus.
 
-#### § 3.15.2.2. Apparatuur
+##### § 3.15.2.2. Apparatuur
 
 ##### Artikel 95. Apparatuur keuringsruimte
 
@@ -1506,7 +1480,7 @@ Op de keuringsruimte bestemd voor het keuren van gasinstallaties zijn de [artike
 
 2. Op de apparatuur zijn de [artikelen 60, eerste tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&hoofdstuk=3&paragraaf=3.13&sub-paragraaf=3.13.3&sub-paragraaf=3.13.3.2&artikel=60&z=2026-01-01&g=2026-01-01), en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&hoofdstuk=3&paragraaf=3.13&sub-paragraaf=3.13.3&sub-paragraaf=3.13.3.2&artikel=61&z=2026-01-01&g=2026-01-01) van toepassing.
 
-#### § 3.15.2.3. Algemene voorschriften
+##### § 3.15.2.3. Algemene voorschriften
 
 ##### Artikel 96. Erkenningsvoorschriften
 
@@ -1522,7 +1496,7 @@ Op de keuringsruimte bestemd voor het keuren van gasinstallaties zijn de [artike
 
 Aan de verplichting als bedoeld in [artikel 23k van het Besluit voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025554&artikel=23k), wordt gevolg gegeven door de tellerstand van een motorrijtuig te verstrekken aan de Dienst Wegverkeer zoals voorgeschreven in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2026-01-01&g=2026-01-01).
 
-#### § 3.15.3. Voorschriften met betrekking tot de keuring
+##### § 3.15.3. Voorschriften met betrekking tot de keuring
 
 ##### Artikel 98. Aanwezigheid documenten
 
@@ -1586,9 +1560,9 @@ Het voertuig wordt onmiddellijk na binnenkomst in de keuringsruimte op lekkage g
 
 - e. als de keuring van de gasinstallatie de inbouw van een LPG-installatie betreft:
 
-- 1°. het merk en typegoedkeuringsnummer van de LPG-installatie;
+   - 1°. het merk en typegoedkeuringsnummer van de LPG-installatie;
 
-- 2°. de totale inhoud van de aanwezige LPG-tanks.
+   - 2°. de totale inhoud van de aanwezige LPG-tanks.
 
 3. Op de opnamekaart gasinstallatie moet schriftelijk worden vermeld:
 
@@ -1606,7 +1580,7 @@ Het voertuig wordt onmiddellijk na binnenkomst in de keuringsruimte op lekkage g
 
 6. Voor de opnamekaart gasinstallatie wordt gebruikt gemaakt van het door de Dienst Wegverkeer vastgestelde model opnamekaart gasinstallatie, zoals bekend gemaakt in de Staatscourant.
 
-#### § 3.15.4. Toezicht
+##### § 3.15.4. Toezicht
 
 ##### Artikel 103. Toezicht
 
@@ -1662,7 +1636,7 @@ Een erkend bedrijf kan een tijdelijk document aanvragen voor de voertuigen die h
 
 3. Een bevoegdheid LPG-technicus kan worden verleend aan een natuurlijk persoon die in het bezit is van een diploma LPG-technicus.
 
-4. Een bevoegdheid APK-keurmeester is twee jaar geldig en kan telkens met twee jaar worden verlengd. Een bevoegdheid LPG-technicus is vier jaar geldig en kan telkens met vier jaar worden verlengd.
+4. Een bevoegdheid APK-keurmeester is twee jaar geldig en kan telkens met twee  jaar worden verlengd. Een bevoegdheid LPG-technicus is vier jaar geldig en kan telkens met vier jaar worden verlengd.
 
 ##### Artikel 109. Examen diploma APK-keurmeester en LPG-technicus
 
@@ -1674,9 +1648,9 @@ Een erkend bedrijf kan een tijdelijk document aanvragen voor de voertuigen die h
 
 ##### Artikel 110. Verlenging bevoegdheid APK-keurmeester en LPG-technicus
 
-1. Een natuurlijk persoon aan wie een bevoegdheid APK-keurmeester is verleend, legt iedere twee jaar een toets af voor de verlenging van de bevoegdheid APK-keurmeester.
+1. Een natuurlijk persoon aan wie een bevoegdheid APK-keurmeester is verleend, legt iedere twee jaar een toets af voor de verlenging van de bevoegdheid APK-keurmeester.
 
-2. Een natuurlijk persoon aan wie een bevoegdheid LPG-technicus is verleend, legt iedere vier jaar een toets af voor de verlenging van de bevoegdheid LPG-technicus.
+2. Een natuurlijk persoon aan wie een bevoegdheid LPG-technicus is verleend, legt iedere vier jaar een toets af voor de verlenging van de bevoegdheid LPG-technicus.
 
 3. Een toets, als bedoeld in het eerste en tweede lid, wordt afgenomen overeenkomstig een reglement als bedoeld in [artikel 116, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&hoofdstuk=4&paragraaf=4.3&artikel=116&z=2026-01-01&g=2026-01-01).
 
@@ -1760,53 +1734,53 @@ In de [artikelen 2 tot en met 114](https://wetten.overheid.nl/jci1.3:c:BWBR00516
 
 ### Hoofdstuk 6. Wijziging en intrekking van andere ministeriële regelingen
 
-##### Artikel 119. Wijziging [Aanwijzing keuringsinstelling meetmiddelen Voertuigreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0008257)
+##### Artikel 119. Wijziging Aanwijzing keuringsinstelling meetmiddelen Voertuigreglement
 
-Wijzigt de Aanwijzing keuringsinstelling meetmiddelen Voertuigreglement.
+*Wijzigt de Aanwijzing keuringsinstelling meetmiddelen Voertuigreglement.*
 
-##### Artikel 120. Wijziging [Regeling gegevensverstrekking kentekenregister 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024045)
+##### Artikel 120. Wijziging Regeling gegevensverstrekking kentekenregister 2008
 
-Wijzigt de Regeling gegevensverstrekking kentekenregister 2008.
+*Wijzigt de Regeling gegevensverstrekking kentekenregister 2008.*
 
-##### Artikel 121. Wijziging [Regeling gegevensverstrekking uit het rijbewijzenregister](https://wetten.overheid.nl/jci1.3:c:BWBR0041604)
+##### Artikel 121. Wijziging Regeling gegevensverstrekking uit het rijbewijzenregister
 
-Wijzigt de Regeling gegevensverstrekking uit het rijbewijzenregister.
+*Wijzigt de Regeling gegevensverstrekking uit het rijbewijzenregister.*
 
-##### Artikel 122. Wijziging [Regeling indicatieve vaststelling reikwijdte Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027242)
+##### Artikel 122. Wijziging Regeling indicatieve vaststelling reikwijdte Dienstenwet
 
-Wijzigt de Regeling indicatieve vaststelling reikwijdte Dienstenwet.
+*Wijzigt de Regeling indicatieve vaststelling reikwijdte Dienstenwet.*
 
-##### Artikel 123. Wijziging van de [Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/jci1.3:c:BWBR0009071)
+##### Artikel 123. Wijziging van de Regeling kentekens en kentekenplaten
 
-Wijzigt de Regeling kentekens en kentekenplaten.
+*Wijzigt de Regeling kentekens en kentekenplaten.*
 
-##### Artikel 124. Wijziging [Regeling legitimatievoorschriften tenaamstelling en kentekenplaten](https://wetten.overheid.nl/jci1.3:c:BWBR0007091)
+##### Artikel 124. Wijziging Regeling legitimatievoorschriften tenaamstelling en kentekenplaten
 
-Wijzigt de Regeling legitimatievoorschriften tenaamstelling en kentekenplaten.
+*Wijzigt de Regeling legitimatievoorschriften tenaamstelling en kentekenplaten.*
 
-##### Artikel 125. Wijziging [Regeling schorsing geldigheid tenaamstelling](https://wetten.overheid.nl/jci1.3:c:BWBR0007041)
+##### Artikel 125. Wijziging Regeling schorsing geldigheid tenaamstelling
 
-Wijzigt de Regeling schorsing geldigheid tenaamstelling.
+*Wijzigt de Regeling schorsing geldigheid tenaamstelling.*
 
-##### Artikel 126. Wijziging [Regeling tachografen](https://wetten.overheid.nl/jci1.3:c:BWBR0042137)
+##### Artikel 126. Wijziging Regeling tachografen
 
-Wijzigt de Regeling tachografen.
+*Wijzigt de Regeling tachografen.*
 
-##### Artikel 127. Wijziging [Regeling taken Dienst Wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0008144)
+##### Artikel 127. Wijziging Regeling taken Dienst Wegverkeer
 
-Wijzigt de Regeling taken Dienst Wegverkeer.
+*Wijzigt de Regeling taken Dienst Wegverkeer.*
 
-##### Artikel 128. Wijziging [Regeling tenaamstelling en kentekenbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0007090)
+##### Artikel 128. Wijziging Regeling tenaamstelling en kentekenbewijzen
 
-Wijzigt de Regeling tenaamstelling en kentekenbewijzen.
+*Wijzigt de Regeling tenaamstelling en kentekenbewijzen.*
 
-##### Artikel 129. Wijziging [Regeling transitokentekens](https://wetten.overheid.nl/jci1.3:c:BWBR0020708)
+##### Artikel 129. Wijziging Regeling transitokentekens
 
-Wijzigt de Regeling transitokentekens.
+*Wijzigt de Regeling transitokentekens.*
 
-##### Artikel 130. Wijziging [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798)
+##### Artikel 130. Wijziging Regeling voertuigen
 
-Wijzigt de Regeling voertuigen.
+*Wijzigt de Regeling voertuigen.*
 
 ##### Artikel 131. Intrekking andere ministeriële regelingen
 
@@ -1838,22 +1812,8 @@ De datum waarop de verklaring omtrent het gedrag, bedoeld in [artikel 186c, derd
 
 ##### Artikel 133. Inwerkingtreding
 
-Deze regeling treedt in werking op het tijdstip waarop de Wet van 10 mei 2023 tot wijziging van de Wegenverkeerswet 1994 in verband met de modernisering van het erkenningenstelsel, het verbeteren van de handhaafbaarheid en enkele andere wijzigingen van technische aard (Stb. 2023, 195) in werking treedt.
+Deze regeling treedt in werking op het tijdstip waarop de Wet van 10 mei 2023 tot wijziging van de Wegenverkeerswet 1994 in verband met de modernisering van het erkenningenstelsel, het verbeteren van de handhaafbaarheid en enkele andere wijzigingen van technische aard (Stb. 2023, 195) in werking treedt.
 
 ##### Artikel 134. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling erkenningen wegverkeer.
-
-## Bijlage 1. behorende bij [artikel 68, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&hoofdstuk=3&paragraaf=3.13&sub-paragraaf=3.13.4&sub-paragraaf=3.13.4.1&artikel=68&z=2026-01-01&g=2026-01-01)
-
-|   | Adviespunt | Wijze van keuren |
-| --- | --- | --- |
-| 1. | De waarschuwingsinrichting van het airbagsysteem, gordelspansysteem of gordelkrachtbegrenzing-systeem van motorvoertuigen, in gebruik genomen voor 1 januari 2018, mag geen defect aangeven. | Visuele en auditieve controle. Wanneer na het starten van de motor een optisch of akoestisch waarschuwingssignaal wordt afgegeven dat het airbagsysteem, gordelspansysteem of gordelkrachtbegrenzingsysteem niet goed functioneert, wordt dit vermeld op het keuringsrapport. Indien het een motorvoertuig met een toegestane maximummassa van niet meer dan 3.500 kg betreft, wordt in geval van twijfel een rijproef uitgevoerd. |
-| 2. | Onderdelen van motorvoertuigen en aanhangwagens, in gebruik genomen voor 1 januari 2018, niet zijnde onderdelen van het brandstofsysteem, het remsysteem, de stuurbekrachtiging of het veersysteem, mogen behalve water geen overmatige vloeistoflekkage vertonen. | Visuele controle, terwijl het voertuig, met uitzondering van een landbouw- of bosbouwtrekker, zich boven een inspectieput of op een hefinrichting bevindt. In geval van overmatige vloeistoflekkage behalve water, wordt dit vermeld op het keuringsrapport. |
-| 3. | De waarschuwingsinrichting van het stabilisatiecontrolesysteem van motorvoertuigen, in gebruik genomen voor 1 januari 2018, mag geen defect aangeven. | Visuele en auditieve controle. Wanneer na het starten van de motor een optisch of akoestisch waarschuwingssignaal wordt afgegeven dat het stabilisatiecontrolesysteem niet goed functioneert, wordt dit vermeld op het keuringsrapport. Indien het een motorvoertuig met een toegestane maximummassa van niet meer dan 3.500 kg betreft, wordt in geval van twijfel een rijproef uitgevoerd. |
-| 4. | De waarschuwingsinrichting van het controlesysteem voor de bandenspanning van motorvoertuigen, in gebruik genomen voor 1 januari 2018, mag geen defect aangeven. | Visuele en auditieve controle. Wanneer na het starten van de motor een optisch of akoestisch waarschuwingssignaal wordt afgegeven dat het controlesysteem voor de bandenspanning niet goed functioneert, wordt dit vermeld op het keuringsrapport. Indien het een motorvoertuig met een toegestane maximummassa van niet meer dan 3.500 kg betreft, wordt in geval van twijfel een rijproef uitgevoerd. |
-| 5. | De waarschuwingsinrichting van de elektronische stuurbekrachtiging van motorvoertuigen, in gebruik genomen voor 1 januari 2018, mag geen defect aangeven. | Visuele en auditieve controle. Wanneer na het starten van de motor een optisch of akoestisch waarschuwingssignaal wordt afgegeven dat de elektronische stuurbekrachtiging niet goed functioneert, wordt dit vermeld op het keuringsrapport. Indien het een motorvoertuig met een toegestane maximummassa van niet meer dan 3.500 kg betreft, wordt in geval van twijfel een rijproef uitgevoerd. |
-| 6. | De waarschuwingsinrichting van het antiblokkeersysteem van motorvoertuigen, in gebruik genomen voor 1 januari 2018, mag geen defect aangeven. | Visuele en auditieve controle. Wanneer na het starten van de motor een optisch of akoestisch waarschuwingssignaal wordt afgegeven dat het antiblokkeersysteem niet goed functioneert, wordt dit vermeld op het keuringsrapport. Indien het een motorvoertuig met een toegestane maximummassa van niet meer dan 3.500 kg betreft, wordt in geval van twijfel een rijproef uitgevoerd. |
-| 7. | De waarschuwingsinrichting van het elektronisch remsysteem van motorvoertuigen, in gebruik genomen voor 1 januari 2018, mag geen defect aangeven. | Visuele en auditieve controle. Wanneer na het starten van de motor een optisch of akoestisch waarschuwingssignaal wordt afgegeven dat het elektronisch remsysteem niet goed functioneert, wordt dit vermeld op het keuringsrapport. Indien het een motorvoertuig met een toegestane maximummassa van niet meer dan 3.500 kg betreft, wordt in geval van twijfel een rijproef uitgevoerd. |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

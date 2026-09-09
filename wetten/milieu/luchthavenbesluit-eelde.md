@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 27 oktober tot vaststelling van een luchthavenbesluit voor de luchthaven Eelde (Luchthavenbesluit Eelde) [KetenID WGK002925]"
+citeertitel: "Luchthavenbesluit Eelde"
 identifier: "BWBR0051670"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-11-01"
-last_updated: "2025-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051670"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "17571963"
-version_id: "31007982"
-internal_id: "C44401891"
-label_id: "17473544"
-dtd_version: "2.0"
-original_entry_into_force: "2025-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051670/2025-11-01/0"
-intitule_bron: "Stb.2025-311"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-10-27"
-intitule_published: "2025-10-28"
-intitule_in_force: "2025-10-28"
-intitule_status: "goed"
-original_publication: "Stb.2025-311"
-original_signed_date: "2025-10-27"
-original_published_date: "2025-10-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2025-311"
-entry_into_force_date: "2025-11-01"
-jci_1_3: "jci1.3:c:BWBR0051670&z=2025-11-01&g=2025-11-01"
-jci_1_0: "1.0:c:BWBR0051670&g=2025-11-01"
-citeertitel_status: "officieel"
-short_title: "Luchthavenbesluit Eelde"
-signed_date: "2025-10-27"
-entry_into_force: "2025-11-01"
+publicatiedatum: 2025-11-01
+laatste_update: 2025-11-01
+status: geldig
+toestand: 2025-11-01
+bron: "https://wetten.overheid.nl/BWBR0051670"
+opgehaald: 2026-09-09
 ---
+
 # Besluit van 27 oktober tot vaststelling van een luchthavenbesluit voor de luchthaven Eelde (Luchthavenbesluit Eelde) [KetenID WGK002925]
-
-Op de voordracht van Onze Minister van Infrastructuur en Waterstaat van 30 juni 2025 nr. IENW/BSK-2025/254314, Hoofddirectie Bestuurlijke en Juridische Zaken;
-
-Gelet op [artikel 8.70, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.70);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 8 oktober 2025, nr. W17.25.00156/IV);
-
-Gezien het nader rapport van Onze Minister van Infrastructuur en Waterstaat van 20 oktober 2025, nr. IenW/BSK-2025/257876, Hoofddirectie Bestuurlijke en Juridische Zaken;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,53 +20,53 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- **APU:** Auxiliary Power Unit of hulpaandrijvingseenheid;
+- *APU:* Auxiliary Power Unit of hulpaandrijvingseenheid;
 
-- **bedrijfswoning:** woning in of bij een gebouw of op of bij een terrein, slechts bestemd voor het huishouden van een persoon wiens huisvesting daar, gelet op de functie van het gebouw of terrein, noodzakelijk is;
+- *bedrijfswoning:* woning in of bij een gebouw of op of bij een terrein, slechts bestemd voor het huishouden van een persoon wiens huisvesting daar, gelet op de functie van het gebouw of terrein, noodzakelijk is;
 
-- **beperkt kwetsbaar gebouw:** gebouw met een kantoor-, cel-, industrie-, sport- of logiesfunctie als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I);
+- *beperkt kwetsbaar gebouw:* gebouw met een kantoor-, cel-, industrie-, sport- of logiesfunctie als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I);
 
-- **circuitvlucht:** vliegtuigbeweging in de onmiddellijke omgeving van de luchthaven, in het bijzonder verband houdend met het starten, het oefenen voor het landen en het landen en waaronder inbegrepen het uitvoeren van touch and go's en missed approaches;
+- *circuitvlucht:* vliegtuigbeweging in de onmiddellijke omgeving van de luchthaven, in het bijzonder verband houdend met het starten, het oefenen voor het landen en het landen en waaronder inbegrepen het uitvoeren van touch and go's en missed approaches;
 
-- **exploitant:** de exploitant van de luchthaven Eelde, zijnde Groningen Airport Eelde N.V.;
+- *exploitant:* de exploitant van de luchthaven Eelde, zijnde Groningen Airport Eelde N.V.;
 
-- **extramurale opslag of verwerking:** opslag of verwerking anders dan in een volledig afgesloten gebouw;
+- *extramurale opslag of verwerking:* opslag of verwerking anders dan in een volledig afgesloten gebouw;
 
-- **gebouw:** gebouw als bedoeld in [bijlage 1.1 van de Omgevingswet](onbekend);
+- *gebouw:* gebouw als bedoeld in [bijlage 1.1 van de Omgevingswet](https://wetten.overheid.nl/BWBR0037885);
 
-- **geluidgevoelig gebouw:** gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I);
+- *geluidgevoelig gebouw:* gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I);
 
-- **handelsverkeer:** verkeersvluchten van luchtvaartmaatschappijen die open staan voor individuele boekingen voor passagiers, vracht of post, en die betreffen:
+- *handelsverkeer:* verkeersvluchten van luchtvaartmaatschappijen die open staan voor individuele boekingen voor passagiers, vracht of post, en die betreffen:
 
-- 1°. geregelde vluchten, zijnde lijnvluchten of commerciële vluchten, uitgevoerd op een vaste route volgens een gepubliceerde dienstregeling; en
+   - 1°. geregelde vluchten, zijnde lijnvluchten of commerciële vluchten, uitgevoerd op een vaste route volgens een gepubliceerde dienstregeling; en
 
-- 2°. niet-geregelde vluchten, zijnde chartervluchten in het passagiers- en vrachtvervoer of commerciële vluchten met een ongeregeld karakter;
+   - 2°. niet-geregelde vluchten, zijnde chartervluchten in het passagiers- en vrachtvervoer of commerciële vluchten met een ongeregeld karakter;
 
-- **kwetsbaar gebouw:** gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I);
+- *kwetsbaar gebouw:* gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I);
 
-- **landing:** het moment waarop een luchtvaartuig contact met de grond maakt;
+- *landing:* het moment waarop een luchtvaartuig contact met de grond maakt;
 
-- **lesvlucht:** vlucht onder leiding van een instructeur om vliegvaardigheid te verkrijgen dan wel te behouden;
+- *lesvlucht:* vlucht onder leiding van een instructeur om vliegvaardigheid te verkrijgen dan wel te behouden;
 
-- **obstakel:** object dat zich boven het maaiveld bevindt en zich niet voortbeweegt;
+- *obstakel:* object dat zich boven het maaiveld bevindt en zich niet voortbeweegt;
 
-- **oefenvlucht:** solovlucht voor het verkrijgen dan wel behouden van vliegvaardigheid;
+- *oefenvlucht:* solovlucht voor het verkrijgen dan wel behouden van vliegvaardigheid;
 
-- **Onze Minister:** de minister van Infrastructuur en Waterstaat;
+- *Onze Minister:* de minister van Infrastructuur en Waterstaat;
 
-- **overig gebouw:** gebouw, niet zijnde een woning, een beperkt kwetsbaar gebouw of een kwetsbaar gebouw;
+- *overig gebouw:* gebouw, niet zijnde een woning, een beperkt kwetsbaar gebouw of een kwetsbaar gebouw;
 
-- **positievlucht:** een vlucht zonder lading (passagiers, vracht, post) van een luchthaven om vanaf de volgende luchthaven een vlucht met lading uit te voeren;
+- *positievlucht:* een vlucht zonder lading (passagiers, vracht, post) van een luchthaven om vanaf de volgende luchthaven een vlucht met lading uit te voeren;
 
-- **proefvlucht:** vlucht die wordt uitgevoerd ter beproeving van de eigenschappen en goede werking van een luchtvaartuig of voor de levering van bewijs van het voldoen aan de luchtwaardigheidsvoorschriften;
+- *proefvlucht:* vlucht die wordt uitgevoerd ter beproeving van de eigenschappen en goede werking van een luchtvaartuig of voor de levering van bewijs van het voldoen aan de luchtwaardigheidsvoorschriften;
 
-- **spoedeisende hulpverlening:** vluchten ter bestrijding van brand, vluchten van een Search- and Rescue-dienst als bedoeld in [artikel 1 van de Regeling inzake de SAR-dienst 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006895&artikel=1), traumavluchten, ambulancevluchten, humanitaire vluchten en donorvluchten;
+- *spoedeisende hulpverlening:* vluchten ter bestrijding van brand, vluchten van een Search- and Rescue-dienst als bedoeld in [artikel 1 van de Regeling inzake de SAR-dienst 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006895&artikel=1), traumavluchten, ambulancevluchten, humanitaire vluchten en donorvluchten;
 
-- **start:** het moment waarop een luchtvaartuig contact met de grond verbreekt;
+- *start:* het moment waarop een luchtvaartuig contact met de grond verbreekt;
 
-- **straalvliegtuig:** een vliegtuig waarbij de voortstuwing direct door ten minste één straalmotor wordt verzorgd.
+- *straalvliegtuig:* een vliegtuig waarbij de voortstuwing direct door ten minste één straalmotor wordt verzorgd.
 
-- **vliegtuigbeweging:** de aankomst of het vertrek van een vliegtuig op of van de luchthaven.
+- *vliegtuigbeweging:* de aankomst of het vertrek van een vliegtuig op of van de luchthaven.
 
 ##### Artikel 2. Reikwijdte
 
@@ -106,7 +74,7 @@ Dit besluit is van toepassing op de luchthaven Eelde en de gebieden die zijn opg
 
 ##### Artikel 3. Gebruiksjaar
 
-Het gebruiksjaar van de luchthaven omvat de periode van 1 november van enig jaar tot en met 31 oktober van het daaropvolgende jaar.
+Het gebruiksjaar van de luchthaven omvat de periode van 1 november van enig jaar tot en met 31 oktober van het daaropvolgende jaar.
 
 ### Hoofdstuk 2. Luchthavenluchtverkeer
 
@@ -134,7 +102,7 @@ Het gebruiksjaar van de luchthaven omvat de periode van 1 november van enig jaar
 
 3. Het uitvoeren of doen of laten uitvoeren van circuitvluchten als onderdeel van proefvluchten met vliegtuigen met schroefaandrijving met een maximaal toegelaten totaalmassa van 6.000 kg of meer en met straalvliegtuigen vindt plaats van maandag tot en met vrijdag van 08.00 uur tot 20.00 uur, niet zijnde officiële feestdagen, met dien verstande dat voor het aantal van de bedoelde circuitvluchten een grenswaarde van 43 vluchten per jaar geldt.
 
-4. Het uitvoeren of doen of laten uitvoeren van vluchten met vliegtuigen met het doel valschermspringen te beoefenen is in de periode van 17 september tot en met 14 april alleen toegestaan:
+4. Het uitvoeren of doen of laten uitvoeren van vluchten met vliegtuigen met het doel valschermspringen te beoefenen is in de periode van 17 september tot en met 14 april alleen toegestaan:
 
 - a. op zaterdag tussen 09.00 uur en 20.00 uur;
 
@@ -146,9 +114,9 @@ Het gebruiksjaar van de luchthaven omvat de periode van 1 november van enig jaar
 
 1. De exploitant van de luchthaven draagt er zorg voor dat elektriciteitsvoorziening aan stilstaande vliegtuigen die worden ingezet ten behoeve van handelsverkeer aanwezig en van voldoende kwaliteit is.
 
-2. De exploitant van de luchthaven draagt er zorg voor dat de afhandelingsplaatsen uiterlijk 1 januari 2040 beschikken over infrastructuur en voorzieningen van voldoende kwaliteit voor de toevoer van geconditioneerde lucht aan stilstaande vliegtuigen die worden ingezet ten behoeve van handelsverkeer.
+2. De exploitant van de luchthaven draagt er zorg voor dat de afhandelingsplaatsen uiterlijk 1 januari 2040 beschikken over infrastructuur en voorzieningen van voldoende kwaliteit voor de toevoer van geconditioneerde lucht aan stilstaande vliegtuigen die worden ingezet ten behoeve van handelsverkeer.
 
-3. De exploitant van de luchthaven draagt er zorg voor dat de elektriciteit voor de elektriciteitsvoorziening en voor de toevoer van geconditioneerde lucht uiterlijk 1 januari 2030 afkomstig is van het elektriciteitsnet of ter plaatse wordt opgewekt zonder gebruikmaking van fossiele brandstoffen.
+3. De exploitant van de luchthaven draagt er zorg voor dat de elektriciteit voor de elektriciteitsvoorziening en voor de toevoer van geconditioneerde lucht uiterlijk 1 januari 2030 afkomstig is van het elektriciteitsnet of ter plaatse wordt opgewekt zonder gebruikmaking van fossiele brandstoffen.
 
 4. Bij de afhandeling van een vliegtuig aan de afhandelingsplaats draagt de gezagvoerder er zorg voor dat er geen gebruik gemaakt wordt van de in het vliegtuig aanwezige APU, voor zover de infrastructuur en voorzieningen voor de elektriciteitsvoorziening en de toevoer van geconditioneerde lucht beschikbaar en operationeel zijn.
 
@@ -234,11 +202,11 @@ Het gebruiksjaar van de luchthaven omvat de periode van 1 november van enig jaar
 
 - b. kan door Onze Minister een verklaring van geen bezwaar worden afgeven voor een woning of een geluidgevoelig gebouw, gelegen op de contour van 56 Lden of in het gebied tussen de contour van 56 Lden en de contour van 70 Lden die:
 
-- 1°. een open plek in de bestaande bebouwing opvult;
+   - 1° een open plek in de bestaande bebouwing opvult;
 
-- 2°. zal dienen ter vervanging van op die plaats reeds aanwezige bebouwing; of
+   - 2° zal dienen ter vervanging van op die plaats reeds aanwezige bebouwing; of
 
-- 3°. binnen het desbetreffende gebied wordt verplaatst naar een locatie waar de geluidbelasting ten gevolge van het luchthavenluchtverkeer minder is.
+   - 3° binnen het desbetreffende gebied wordt verplaatst naar een locatie waar de geluidbelasting ten gevolge van het luchthavenluchtverkeer minder is.
 
 4. Het derde lid, onderdeel b, aanhef en onder 3°, wordt niet eerder toegepast dan nadat de oude woning of het oude geluidgevoelige gebouw aan de bestaande functie is onttrokken.
 
@@ -326,7 +294,7 @@ De [Omzettingsregeling luchthaven Eelde](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 20. Wijziging artikel 5
 
-Wijzigt dit besluit.
+*Wijzigt dit besluit.*
 
 ##### Artikel 21. Evaluatiebepaling
 
@@ -334,68 +302,8 @@ Onze Minister zendt binnen vijf jaar na het onherroepelijk worden van dit beslui
 
 ##### Artikel 22. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 november 2025.
+Dit besluit treedt in werking met ingang van 1 november 2025.
 
 ##### Artikel 23. Citeertitel
 
 Dit besluit wordt aangehaald als: Luchthavenbesluit Eelde.
-
-## Bijlage 1. als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2025-11-01&g=2025-11-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=9&z=2025-11-01&g=2025-11-01) van het Luchthavenbesluit Eelde
-
-## Bijlage 2. als bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=10&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 3. als bedoeld in de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=10&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 4. als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=11&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 5a. als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=11&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 5b. als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=11&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 5c. als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=11&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 5d. als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=11&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 5e. als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=11&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 5f. als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=11&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 5g. als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=11&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 5h. als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=11&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 5i. als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=11&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 5j. als bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=11&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 5k. als bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=11&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 5l. als bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=11&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 5m. als bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=11&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 5n. als bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=11&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 5o. als bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=11&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 5p. als bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=11&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 5q. als bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=11&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 5r. als bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=11&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 5s. als bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=11&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 5t. als bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=11&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 5u. als bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=11&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 5v. als bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=11&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 5w. als bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=11&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 6. als bedoeld in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=11&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-## Bijlage 7. als bedoeld in [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051670&hoofdstuk=3&artikel=11&z=2025-11-01&g=2025-11-01), van het Luchthavenbesluit Eelde
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

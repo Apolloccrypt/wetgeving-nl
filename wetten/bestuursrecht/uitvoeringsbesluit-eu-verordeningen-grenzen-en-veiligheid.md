@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 27 oktober 2025, houdende regels ter uitvoering van EU-verordeningen grenzen en veiligheid en tot wijziging van het Besluit politiegegevens en het Vreemdelingenbesluit 2000 (Uitvoeringsbesluit EU-verordeningen grenzen en veiligheid) [KetenID WGK014803]"
+citeertitel: "Uitvoeringsbesluit EU-verordeningen grenzen en veiligheid"
 identifier: "BWBR0051701"
-country: "nl"
-rank: "amvb"
-publication_date: "2025-11-01"
-last_updated: "2025-10-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051701"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "17582473"
-version_id: "31025502"
-internal_id: "C44426441"
-label_id: "17483464"
-dtd_version: "2.0"
-original_entry_into_force: "2025-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051701/2025-11-01/0"
-intitule_bron: "Stb.2025-317"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-10-27"
-intitule_published: "2025-10-31"
-intitule_in_force: "2025-10-31"
-intitule_status: "goed"
-original_publication: "Stb.2025-317"
-original_signed_date: "2025-10-27"
-original_published_date: "2025-10-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2025-317"
-entry_into_force_date: "2025-11-01"
-jci_1_3: "jci1.3:c:BWBR0051701&z=2025-11-01&g=2025-11-01"
-jci_1_0: "1.0:c:BWBR0051701&g=2025-11-01"
-citeertitel_status: "officieel"
-short_title: "Uitvoeringsbesluit EU-verordeningen grenzen en veiligheid"
-signed_date: "2025-10-27"
-entry_into_force: "2025-11-01"
+publicatiedatum: 2026-06-05
+laatste_update: 2026-06-12
+status: geldig
+toestand: 2026-06-12
+bron: "https://wetten.overheid.nl/BWBR0051701"
+opgehaald: 2026-09-09
 ---
+
 # Besluit van 27 oktober 2025, houdende regels ter uitvoering van EU-verordeningen grenzen en veiligheid en tot wijziging van het Besluit politiegegevens en het Vreemdelingenbesluit 2000 (Uitvoeringsbesluit EU-verordeningen grenzen en veiligheid) [KetenID WGK014803]
-
-Op de voordracht van Onze Minister van Asiel en Migratie van 12 juli 2024, directie Wetgeving en Juridische Zaken, nr. 5607731, gedaan in overeenstemming met Onze Minister van Defensie;
-
-Gelet op de EES-verordening, Etias-verordening, de SIS-verordening grenscontroles, de SIS-verordening politiële en justitiële samenwerking in strafzaken, de SIS-verordening terugkeer, de Verordening interoperabiliteit grenzen en visa, de Verordening interoperabiliteit politiële en justitiële samenwerking, asiel en migratie en de wijziging van de VIS-verordening met het oog op de herziening van het Visuminformatiesysteem, [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048050&artikel=2) en [artikel 5 van de Uitvoeringswet EU-verordeningen grenzen en veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048050&artikel=5), [artikel 2dd van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=2dd) en [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=18) en [artikel 23, tweede lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=23);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 11 september 2024, W03.24.00177/II);
-
-Gezien het nader rapport van Onze Minister van Asiel en Migratie, van 10 oktober 2025), directie Wetgeving en Juridische Zaken, nr. 6732603, uitgebracht in overeenstemming met Onze Minister van Defensie;
-
-Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Inleidende bepalingen
 
@@ -52,9 +20,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-- –. **Schengeninformatiesysteem:** het Schengeninformatiesysteem, bedoeld in artikel 4, eerste lid, van de SIS-verordening grenscontroles en artikel 4, eerste lid, van de SIS-verordening politiële en justitiële samenwerking in strafzaken;
+- – *Schengeninformatiesysteem:* het Schengeninformatiesysteem, bedoeld in artikel 4, eerste lid, van de SIS-verordening grenscontroles en artikel 4, eerste lid, van de SIS-verordening politiële en justitiële samenwerking in strafzaken;
 
-- –. **VIS:** het Visuminformatiesysteem, bedoeld in artikel 1, eerste lid, van de VIS-verordening.
+- – *VIS:* het Visuminformatiesysteem, bedoeld in artikel 1, eerste lid, van de VIS-verordening.
 
 #### Paragraaf 2. Uitvoering SIS-verordeningen
 
@@ -64,49 +32,49 @@ In dit besluit wordt verstaan onder:
 
 - a. Onze Minister van Asiel en Migratie ten behoeve van de doelen, genoemd in:
 
-- –. artikel 34, eerste lid, onderdeel d, en tweede lid, van de SIS-verordening grenscontroles;
+   - – artikel 34, eerste lid, onderdeel d, en tweede lid, van de SIS-verordening grenscontroles;
 
-- –. artikel 44, eerste lid, onderdeel d, en tweede lid, van de SIS-verordening politiële en justitiële samenwerking in strafzaken;
+   - – artikel 44, eerste lid, onderdeel d, en tweede lid, van de SIS-verordening politiële en justitiële samenwerking in strafzaken;
 
 - b. Onze Minister van Buitenlandse Zaken ten behoeve van de doelen, genoemd in;
 
-- –. artikelen 34, eerste lid, onderdeel f, vierde lid en artikel 41, zesde lid, van de SIS-verordening grenscontroles;
+   - – artikelen 34, eerste lid, onderdeel f, vierde lid en artikel 41, zesde lid, van de SIS-verordening grenscontroles;
 
 - c. het openbaar ministerie ten behoeve van de doelen, genoemd in:
 
-- –. artikel 34, eerste lid, onderdeel c, en derde lid, van de SIS-verordening grenscontroles;
+   - – artikel 34, eerste lid, onderdeel c, en derde lid, van de SIS-verordening grenscontroles;
 
-- –. artikel 44, eerste lid, onderdeel c, en derde lid, van de SIS-verordening politiële en justitiële samenwerking in strafzaken;
+   - – artikel 44, eerste lid, onderdeel c, en derde lid, van de SIS-verordening politiële en justitiële samenwerking in strafzaken;
 
 - d. de politie ten behoeve van de doelen, genoemd in:
 
-- –. artikel 34, eerste lid, onderdelen a tot en met e, van de SIS-verordening grenscontroles;
+   - – artikel 34, eerste lid, onderdelen a tot en met e, van de SIS-verordening grenscontroles;
 
-- –. artikel 44, eerste lid, onderdelen a tot en met e, van de SIS-verordening politiële en justitiële samenwerking in strafzaken;
+   - – artikel 44, eerste lid, onderdelen a tot en met e, van de SIS-verordening politiële en justitiële samenwerking in strafzaken;
 
 - e. de Koninklijke marechaussee ten behoeve van de doelen, genoemd in:
 
-- –. artikel 34, eerste lid, onderdelen a tot en met e, van de SIS-verordening grenscontroles;
+   - – artikel 34, eerste lid, onderdelen a tot en met e, van de SIS-verordening grenscontroles;
 
-- –. artikel 44, eerste lid, onderdelen a tot en met e, van de SIS-verordening politiële en justitiële samenwerking in strafzaken;
+   - – artikel 44, eerste lid, onderdelen a tot en met e, van de SIS-verordening politiële en justitiële samenwerking in strafzaken;
 
 - f. de bijzondere opsporingsdiensten, bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2), ten behoeve van de doelen, genoemd in:
 
-- –. artikel 34, eerste lid, onderdeel c, van de SIS-verordening grenscontroles;
+   - – artikel 34, eerste lid, onderdeel c, van de SIS-verordening grenscontroles;
 
-- –. artikel 44, eerste lid, onderdeel c, van de SIS-verordening politiële en justitiële samenwerking in strafzaken;
+   - – artikel 44, eerste lid, onderdeel c, van de SIS-verordening politiële en justitiële samenwerking in strafzaken;
 
 - g. de Passagiersinformatie-eenheid, bedoeld in [artikel 5 van de Wet gebruik van passagiersgegevens voor de bestrijding van terroristische en ernstige misdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0042301&artikel=5), ten behoeve van de doelen, genoemd in:
 
-- –. artikel 34, eerste lid, onderdeel c, van de SIS-verordening grenscontroles;
+   - – artikel 34, eerste lid, onderdeel c, van de SIS-verordening grenscontroles;
 
-- –. artikel 44, eerste lid, onderdeel c, van de SIS-verordening politiële en justitiële samenwerking in strafzaken; en
+   - – artikel 44, eerste lid, onderdeel c, van de SIS-verordening politiële en justitiële samenwerking in strafzaken; en
 
 - h. de Douane ten behoeve van de doelen, genoemd in:
 
-- –. artikel 34, eerste lid, onderdeel b, van de SIS-verordening grenscontroles;
+   - – artikel 34, eerste lid, onderdeel b, van de SIS-verordening grenscontroles;
 
-- –. artikel 44, eerste lid, onderdeel b, van de SIS-verordening politiële en justitiële samenwerking in strafzaken.
+   - – artikel 44, eerste lid, onderdeel b, van de SIS-verordening politiële en justitiële samenwerking in strafzaken.
 
 2. De in het eerste lid bedoelde instanties maken een lijst met benamingen van functies openbaar, waarvoor geldt dat de personen die de functie bekleden geautoriseerd kunnen worden voor toegang tot en bevraging van het SIS ten behoeve van de in het eerste lid genoemde doelen.
 
@@ -142,7 +110,7 @@ De Minister van Asiel en Migratie en de met de uitvoering van de [Vreemdelingenw
 
 - a. vanwege de in artikel 18, 18bis, 19, 19bis, 20, 21 en 22 van die verordening omschreven doelen; en
 
-- b. Dit onderdeel is nog niet in werking getreden.
+- b. *Dit onderdeel is nog niet in werking getreden.*
 
 ##### Artikel 8. Aangewezen VIS-autoriteit
 
@@ -164,19 +132,39 @@ De in artikel 22octodecies, tweede lid, van de VIS-verordening bedoelde autorite
 
 De in artikel 29, vierde lid, van de VIS-verordening, bedoelde autoriteit die de centrale verantwoordelijkheid voor de gegevensverwerking draagt is de Minister van Buitenlandse Zaken.
 
+#### Paragraaf 5a. Uitvoering Eurodac-verordening
+
+##### Artikel 11a. Toegang tot Eurodac-gegevens
+
+De nationale autoriteiten met toegang tot Eurodac voor de invoer of wijziging van gegevens zoals bedoeld in artikel 40, tweede lid, van de Eurodac-verordening, in overeenstemming met die verordening, zijn:
+
+- a. Onze Minister van Asiel en Migratie, op grond van [artikel 28, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28);
+
+- b. De op grond van [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=46), en [artikel 47, eerste lid, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=47) aangewezen ambtenaren;
+
+- c. Onze Minister van Asiel en Migratie, op grond van de bepalingen van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&hoofdstuk=5) en [6 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&hoofdstuk=6);
+
+- d. De bij of krachtens artikel 2ff van de Vreemdelingenwet 2000 aangewezen Screeningsautoriteiten;
+
+- e. Onze Minister van Asiel en Migratie met het oog op de uitvoering van Verordening (EU) 2024/1350 van het Europees Parlement en de Raad van 14 mei 2024 tot vaststelling van een Uniekader voor hervestiging en toelating op humanitaire gronden, en tot wijziging van Verordening (EU) 2021/1147.
+
+##### Artikel 11b. Aanwijzing deskundigen Eurodac
+
+Deskundigen op het terrein van de vingerafdrukken en gezichtsopnamegegevens zoals bedoeld in de artikelen 38, vierde en vijfde lid en 44, tweede lid, van de Eurodac-verordening zijn de deskundigen als bedoeld in [artikel 8.33 van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=8.33) en deskundigen werkzaam bij de Staf Eenheid landelijke expertise en operaties als bedoeld in [artikel 3, tweede lid, onderdeel a, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=3).
+
 #### Paragraaf 6. Wijziging andere besluiten
 
-##### Artikel 12. Wijziging [Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086)
+##### Artikel 12. Wijziging Besluit politiegegevens
 
-Wijzigt het Besluit politiegegevens
+*Wijzigt het Besluit politiegegevens*
 
-##### Artikel 13. Wijziging van het [Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825)
+##### Artikel 13. Wijziging van het Vreemdelingenbesluit 2000
 
-Wijzigt het Vreemdelingenbesluit 2000
+*Wijzigt het Vreemdelingenbesluit 2000*
 
-##### Artikel 14. Wijziging van het Besluit van 4 september 2025, houdende wijziging van de [Penitentiaire maatregel](https://wetten.overheid.nl/jci1.3:c:BWBR0009398) en het [Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086) in verband met aanvullende maatregelen tegen georganiseerde criminaliteit tijdens detentie
+##### Artikel 14. Wijziging van het Besluit van 4 september 2025, houdende wijziging van de Penitentiaire maatregel en het Besluit politiegegevens in verband met aanvullende maatregelen tegen georganiseerde criminaliteit tijdens detentie
 
-Wijzigt het Besluit houdende de wijziging van de Penitentiaire maatregel en het Besluit politiegegevens.
+*Wijzigt het Besluit houdende de wijziging van de Penitentiaire maatregel en het Besluit politiegegevens.*
 
 #### Paragraaf 7. Slotbepalingen
 
@@ -187,5 +175,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip,
 ##### Artikel 16. Citeertitel
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit EU-verordeningen grenzen en veiligheid.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

@@ -1,78 +1,51 @@
 ---
 title: "Besluit van de Minister van Klimaat en Groene Groei van 11 oktober 2025, nr. WJZ/101291496, over de verstrekking van een tegemoetkoming voor schade aan particuliere woningeigenaren door bodembeweging als gevolg van de voormalige steenkoolwinning in Limburg (Besluit tegemoetkoming particuliere woningeigenaren mijnbouwschade steenkoolwinning Limburg)"
+citeertitel: "Besluit tegemoetkoming particuliere woningeigenaren mijnbouwschade steenkoolwinning Limburg"
 identifier: "BWBR0051623"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-12-22"
-last_updated: "2025-12-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051623"
+categorie: "Milieu"
 soort: "ministeriele-regeling"
-stam_id: "17554523"
-version_id: "30975542"
-internal_id: "C44642031"
-label_id: "17455784"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051623/2025-12-22/0"
-intitule_bron: "Stcrt.2025-35002"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-10-11"
-intitule_published: "2025-10-16"
-intitule_in_force: "2025-10-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-35002"
-original_signed_date: "2025-10-11"
-original_published_date: "2025-10-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-35002"
-entry_into_force_date: "2025-12-22"
-jci_1_3: "jci1.3:c:BWBR0051623&z=2025-12-22&g=2025-12-22"
-jci_1_0: "1.0:c:BWBR0051623&g=2025-12-22"
-citeertitel_status: "officieel"
-short_title: "Besluit tegemoetkoming particuliere woningeigenaren mijnbouwschade steenkoolwinning Limburg"
-signed_date: "2025-10-11"
-entry_into_force: "2025-12-22"
+publicatiedatum: 2025-12-22
+laatste_update: 2025-12-22
+status: geldig
+toestand: 2025-12-22
+bron: "https://wetten.overheid.nl/BWBR0051623"
+opgehaald: 2026-09-09
 ---
+
 # Besluit van de Minister van Klimaat en Groene Groei van 11 oktober 2025, nr. WJZ/101291496, over de verstrekking van een tegemoetkoming voor schade aan particuliere woningeigenaren door bodembeweging als gevolg van de voormalige steenkoolwinning in Limburg (Besluit tegemoetkoming particuliere woningeigenaren mijnbouwschade steenkoolwinning Limburg)
-
-Gelet op [4:81 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
-
-Inwerkingtreding voorheen door Stcrt. 2025/35002 gesteld op 1 januari 2026.
 
 ##### Artikel 1. algemene bepalingen
 
 In dit besluit wordt verstaan onder:
 
-- **acuut onveilige situatie:** een situatie in het mijnbouwschadegebied, waarin als gevolg van de bouwkundige staat van een woning een acuut gevaar bestaat voor de gezondheid of veiligheid van personen;
+- *acuut onveilige situatie:* een situatie in het mijnbouwschadegebied, waarin als gevolg van de bouwkundige staat van een woning een acuut gevaar bestaat voor de gezondheid of veiligheid van personen;
 
-- **bouwdepot:** bedrag dat door een door de minister aangewezen partij wordt beheerd, waaruit namens de minister betalingen worden gedaan voor werkzaamheden ten behoeve van herstelmaatregelen die in opdracht van de aanvrager zijn getroffen;
+- *bouwdepot:* bedrag dat door een door de minister aangewezen partij wordt beheerd, waaruit namens de minister betalingen worden gedaan voor werkzaamheden ten behoeve van herstelmaatregelen die in opdracht van de aanvrager zijn getroffen;
 
-- **Instellingsbesluit:** [Instellingsbesluit Commissie Mijnbouwschade](https://wetten.overheid.nl/jci1.3:c:BWBR0043624);
+- *Instellingsbesluit:*
+ [Instellingsbesluit Commissie Mijnbouwschade](https://wetten.overheid.nl/jci1.3:c:BWBR0043624);
 
-- **kleine mijnbouwschade:** mijnbouwschade waarvan de hoogte is vastgesteld op een bedrag tot € 10.000,–;
+- *kleine mijnbouwschade:* mijnbouwschade waarvan de hoogte is vastgesteld op een bedrag tot € 10.000,–;
 
-- **Limburg kamer van de Commissie Mijnbouwschade:** de Limburg kamer van de Commissie Mijnbouwschade, bedoeld in [artikel 2, eerste lid, onderdeel b, van het Instellingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&artikel=2);
+- *Limburg kamer van de Commissie Mijnbouwschade:* de Limburg kamer van de Commissie Mijnbouwschade, bedoeld in [artikel 2, eerste lid, onderdeel b, van het Instellingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&artikel=2);
 
-- **mijnbouwonderneming:** exploitant van een mijnbouwwerk;
+- *mijnbouwonderneming:* exploitant van een mijnbouwwerk;
 
-- **mijnbouwschade:**
+- *mijnbouwschade:*
 
-- a. fysieke schade aan woningen waarvan voldoende aannemelijk is dat deze het gevolg is van bodembeweging door de aanleg of exploitatie van een mijnbouwwerk ten behoeve van steenkoolwinning; en
+   - a. fysieke schade aan woningen waarvan voldoende aannemelijk is dat deze het gevolg is van bodembeweging door de aanleg of exploitatie van een mijnbouwwerk ten behoeve van steenkoolwinning; en
 
-- b. materiële schade die het directe gevolg is van de in onderdeel a bedoelde fysieke schade of het herstel daarvan, met in achtneming van [bijlage 2 bij het Instellingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&bijlage=2);
+   - b. materiële schade die het directe gevolg is van de in onderdeel a bedoelde fysieke schade of het herstel daarvan, met in achtneming van [bijlage 2 bij het Instellingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043624&bijlage=2);
 
-- **mijnbouwschadegebied:** gebied als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051623&bijlage=1&z=2025-12-22&g=2025-12-22);
+- *mijnbouwschadegebied:* gebied als bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051623&bijlage=1&z=2025-12-22&g=2025-12-22);
 
-- **minister:** Minister van Klimaat en Groene Groei;
+- *minister:* Minister van Klimaat en Groene Groei;
 
-- **middelgrote mijnbouwschade:** mijnbouwschade waarvan de hoogte is vastgesteld op een bedrag van € 10.000,– tot en met € 20.000,–;
+- *middelgrote mijnbouwschade:* mijnbouwschade waarvan de hoogte is vastgesteld op een bedrag van € 10.000,– tot en met € 20.000,–;
 
-- **woning:** woning als bedoeld in [artikel 1, derde lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1) die door de eigenaar gebruikt wordt als hoofdwoning en de onlosmakelijk met de hoofdwoning verbonden bijbehorende bijgebouwen, mede omvattend, indien de woning deel uitmaakt van een gebouw beheerd door een vereniging van eigenaren of een daarmee vergelijkbare rechtsvorm, het relevante aandeel van de eigenaar in de gemeenschappelijke delen van het gebouw;
+- *woning:* woning als bedoeld in [artikel 1, derde lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1) die door de eigenaar gebruikt wordt als hoofdwoning en de onlosmakelijk met de hoofdwoning verbonden bijbehorende bijgebouwen, mede omvattend, indien de woning deel uitmaakt van een gebouw beheerd door een vereniging van eigenaren of een daarmee vergelijkbare rechtsvorm, het relevante aandeel van de eigenaar in de gemeenschappelijke delen van het gebouw;
 
-- **zware mijnbouwschade:** mijnbouwschade waarvan de hoogte is vastgesteld op een bedrag hoger dan € 20.000,– of een acuut onveilige situatie;
+- *zware mijnbouwschade:* mijnbouwschade waarvan de hoogte is vastgesteld op een bedrag hoger dan € 20.000,– of een acuut onveilige situatie;
 
 ##### Artikel 2. bevoegdheid
 
@@ -96,7 +69,7 @@ In dit besluit wordt verstaan onder:
 
 - g. de rechter uitspraak heeft gedaan over de aanspraak op en de omvang van de vergoeding van de schade waar de aanvraag betrekking op heeft; of
 
-- h. de schade waar de aanvraag betrekking op heeft, is hersteld voor 1 januari 2024 of na inwerkingtreding van dit besluit.
+- h. de schade waar de aanvraag betrekking op heeft, is hersteld voor 1 januari 2024 of na inwerkingtreding van dit besluit.
 
 4. De minister beslist op een aanvraag als bedoeld in het eerste lid, voor zover relevant, met toepassing van de bepalingen van het Burgerlijk Wetboek:
 
@@ -130,7 +103,7 @@ In dit besluit wordt verstaan onder:
 
 6. In afwijking van het eerste lid ontvangt de aanvrager voor mijnbouwschade aan de gemeenschappelijke delen van een complex beheerd door een vereniging van eigenaren, of een daarmee vergelijkbare rechtsvorm, een financiële tegemoetkoming die wordt berekend naar evenredigheid van diens procentuele aandeel in die vereniging of rechtsvorm.
 
-7. In afwijking van het eerste lid ontvangt de aanvrager een financiële tegemoetkoming voor mijnbouwschade, die vanaf 1 januari 2024 tot aan de inwerkingtreding van dit besluit is hersteld.
+7. In afwijking van het eerste lid ontvangt de aanvrager een financiële tegemoetkoming voor mijnbouwschade, die vanaf 1 januari 2024 tot aan de inwerkingtreding van dit besluit is hersteld.
 
 ##### Artikel 4. acuut onveilige situatie
 
@@ -204,12 +177,8 @@ Ten behoeve van de goede uitvoering van [artikel 2, eerste lid](https://wetten.o
 
 ##### Artikel 11. inwerkingtreding
 
-Dit besluit treedt in werking op 22 december 2025 en vervalt met ingang van 1 januari 2035.
+Dit besluit treedt in werking op 22 december 2025 en vervalt met ingang van 1 januari 2035.
 
 ##### Artikel 12. citeertitel
 
 Dit besluit wordt aangehaald als: Besluit tegemoetkoming particuliere woningeigenaren mijnbouwschade steenkoolwinning Limburg.
-
-## Bijlage 1. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051623&artikel=1&z=2025-12-22&g=2025-12-22) van het Besluit tegemoetkoming particuliere woningeigenaren mijnbouwschade steenkoolwinning Limburg
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokken decentrale overheden.

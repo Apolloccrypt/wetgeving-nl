@@ -1,91 +1,45 @@
 ---
 title: "Subtaak- en ondermandaatbesluit NSA"
 identifier: "BWBR0051747"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-11-13"
-last_updated: "2025-11-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051747"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17595213"
-version_id: "31049692"
-internal_id: "C44615961"
-label_id: "17495694"
-dtd_version: "2.0"
-original_entry_into_force: "2025-11-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051747/2025-11-13/0"
-intitule_bron: "Stcrt.2025-38516"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-10-31"
-intitule_published: "2025-11-13"
-intitule_in_force: "2025-11-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-38516"
-original_signed_date: "2025-10-31"
-original_published_date: "2025-11-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-38516"
-entry_into_force_date: "2025-11-13"
-jci_1_3: "jci1.3:c:BWBR0051747&z=2025-11-13&g=2025-11-13"
-jci_1_0: "1.0:c:BWBR0051747&g=2025-11-13"
-citeertitel_status: "officieel"
-signed_date: "2025-10-31"
-entry_into_force: "2025-11-13"
+publicatiedatum: 2025-11-13
+laatste_update: 2025-11-13
+status: geldig
+toestand: 2025-11-13
+bron: "https://wetten.overheid.nl/BWBR0051747"
+opgehaald: 2026-09-09
 ---
+
 # Subtaak- en ondermandaatbesluit NSA
-
-gelet op de NATO Security Policy (Security Within the North Atlantic Treaty Organization, CM(2002)49-REV1),
-
-gelet op de Agreement between the Member States of the European Union, meeting within the Council, regarding the protection of classified information exchanged in the interest of the European Union (2011/C 202/05),
-
-gelet op de Council Decision on the security rules for protecting EU classified information (2013/488/EU),
-
-gelet op de Commission Decision on the security rules for protecting EU classified information (2015/444),
-
-gelet op de Regulations of the European Space Agency, Security Regulations (ESA/REG/004, rev.2),
-
-gelet op het [Besluit Voorschrift Informatiebeveiliging Rijksdienst Bijzondere Informatie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033507) (VIRBI),
-
-gelet op het [Besluit BVA-stelsel Rijksdienst 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044617),
-
-gelet op de door het Koninkrijk of het Ministerie van Defensie afgesloten General Security Agreements en Memoranda of Understanding inzake de uitwisseling en wederzijdse beveiliging van gerubriceerde informatie,
-
-gelet op [artikel 27, eerste lid, onder f, van het Algemeen organisatiebesluit defensie 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051326&artikel=27),
-
-gelet op het [Algemeen mandaat-, volmacht- en machtigingsbesluit Defensie 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046551),
-
-Besluit:
-
-De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
 ##### Artikel 1. Begrippen
 
 In dit besluit wordt verstaan onder:
 
-- **DCSA:** Delegated Competent Security Authority;
+- *DCSA:* Delegated Competent Security Authority;
 
-- **DSA:** Designated Security Authority;
+- *DSA:* Designated Security Authority;
 
-- **GSA:** General Security Agreement;
+- *GSA:* General Security Agreement;
 
-- **Koninkrijk:** grondgebied van Nederland, Aruba, Curaçao en Sint Maarten;
+- *Koninkrijk:* grondgebied van Nederland, Aruba, Curaçao en Sint Maarten;
 
-- **machtiging:** de bevoegdheid om in naam van de bewindspersoon handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn;
+- *machtiging:* de bevoegdheid om in naam van de bewindspersoon handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn;
 
-- **mandaat of ondermandaat:** de bevoegdheid om in naam van de bewindspersoon besluiten te nemen;
+- *mandaat of ondermandaat:* de bevoegdheid om in naam van de bewindspersoon besluiten te nemen;
 
-- **MoU:** Memorandum of Understanding;
+- *MoU:* Memorandum of Understanding;
 
-- **NSA:** National Security Authority;
+- *NSA:* National Security Authority;
 
-- **Security Clearance:** FSC en/of PSC;
+- *Security Clearance:* FSC en/of PSC;
 
-- **Volmacht of ondervolmacht:** de bevoegdheid om in naam van de bewindspersoon privaatrechtelijke rechtshandelingen te verrichten.
+- *Volmacht of ondervolmacht:* de bevoegdheid om in naam van de bewindspersoon privaatrechtelijke rechtshandelingen te verrichten.
 
 ##### Artikel 2. NSA militaire domein
 
-1. Binnen het Ministerie van Defensie heeft de Directeur Bedrijfsvoering en Evaluatie de rol van Beveiligingsautoriteit. De Beveiligingsautoriteit is belast met de taak tot optreden als de **National Security Authority** binnen het militaire domein. Waar hieronder gesproken wordt over Beveiligingsautoriteit wordt mede bedoeld zijn taak als NSA, tenzij anders verwoord.
+1. Binnen het Ministerie van Defensie heeft de Directeur Bedrijfsvoering en Evaluatie de rol van Beveiligingsautoriteit. De Beveiligingsautoriteit is belast met de taak tot optreden als de *National Security Authority* binnen het militaire domein. Waar hieronder gesproken wordt over Beveiligingsautoriteit wordt mede bedoeld zijn taak als NSA, tenzij anders verwoord.
 
 2. De Beveiligingsautoriteit stelt namens de Secretaris-Generaal het Defensie Beveiligingsbeleid op en voert toezicht uit op de uitvoering.
 
@@ -115,7 +69,7 @@ De taak tot optreden als de NSA omvat:
 
 ##### Artikel 5. Mandatering taken gespecialiseerde autoriteiten
 
-1. De Beveiligingsautoriteit is bevoegd aan functionarissen werkzaam voor de diensten, bedoeld in [artikel 1 van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=1) ondermandaat, ondervolmacht en machtiging te verlenen, respectievelijk tot het beperken of intrekken daarvan, voor het optreden binnen het militaire domein als **Security Accreditation Authority** (SAA), **National CIS Security Authority** (NCSA), **National Tempest Authority** (NTA), **National Distribution Authority** (NDA), en **Program Security Officer** (PSO).
+1. De Beveiligingsautoriteit is bevoegd aan functionarissen werkzaam voor de diensten, bedoeld in [artikel 1 van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=1) ondermandaat, ondervolmacht en machtiging te verlenen, respectievelijk tot het beperken of intrekken daarvan, voor het optreden binnen het militaire domein als *Security Accreditation Authority* (SAA), *National CIS Security Authority* (NCSA), *National Tempest Authority* (NTA), *National Distribution Authority* (NDA), en *Program Security Officer* (PSO).
 
 2. De in lid 1 van dit artikel genoemde bevoegdheden hebben mede betrekking op internationale aspecten van de beveiliging van gerubriceerde informatie en het toezicht daarop en zijn daarmee onderdeel van de NSA-taak.
 
@@ -136,5 +90,3 @@ voor deze,
 1. Dit besluit zal op de eerstvolgende dag na ondertekening in werking treden.
 
 2. Dit besluit wordt aangehaald als: Subtaak- en ondermandaatbesluit NSA.
-
-Dit besluit zal met toelichting in de Staatscourant worden geplaatst.

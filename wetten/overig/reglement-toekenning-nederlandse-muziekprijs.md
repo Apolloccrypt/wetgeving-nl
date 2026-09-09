@@ -1,53 +1,27 @@
 ---
 title: "Reglement toekenning Nederlandse Muziekprijs"
 identifier: "BWBR0051484"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-09-10"
-last_updated: "2025-09-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051484"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17519173"
-version_id: "30912412"
-internal_id: "C44289781"
-label_id: "17421134"
-dtd_version: "2.0"
-original_entry_into_force: "2025-09-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051484/2025-09-10/0"
-intitule_bron: "Stcrt.2025-30356"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-09-01"
-intitule_published: "2025-09-09"
-intitule_in_force: "2025-09-09"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-30356"
-original_signed_date: "2025-09-01"
-original_published_date: "2025-09-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-30356"
-entry_into_force_date: "2025-09-10"
-jci_1_3: "jci1.3:c:BWBR0051484&z=2025-09-10&g=2025-09-10"
-jci_1_0: "1.0:c:BWBR0051484&g=2025-09-10"
-citeertitel_status: "officieel"
-signed_date: "2025-09-01"
-entry_into_force: "2025-09-10"
+publicatiedatum: 2025-09-10
+laatste_update: 2025-09-10
+status: geldig
+toestand: 2025-09-10
+bron: "https://wetten.overheid.nl/BWBR0051484"
+opgehaald: 2026-09-09
 ---
+
 # Reglement toekenning Nederlandse Muziekprijs
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement van het Nederlands Fonds voor Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2)
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder
 
-- **de Nederlandse Muziekprijs:** een onderscheiding die tweejaarlijks namens de Minister van Onderwijs, Cultuur en Wetenschap wordt toegekend aan een musicus werkzaam in de klassieke muziek;
+- *de Nederlandse Muziekprijs:* een onderscheiding die tweejaarlijks namens de Minister van Onderwijs, Cultuur en Wetenschap wordt toegekend aan een musicus werkzaam in de klassieke muziek;
 
-- **juryprotocol:** Protocol juryleden en voorzitters prijsuitreikingen Fonds Podiumkunsten;
+- *juryprotocol:* Protocol juryleden en voorzitters prijsuitreikingen Fonds Podiumkunsten;
 
-- **solist:** solist: een instrumentalist of vocalist in de klassieke muziek.
+- *solist:* solist: een instrumentalist of vocalist in de klassieke muziek.
 
 ##### Artikel 2. Doel
 
@@ -106,5 +80,3 @@ Het [Reglement procedure Nederlandse Muziekprijs](https://wetten.overheid.nl/jci
 ##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Reglement toekenning Nederlandse Muziekprijs.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

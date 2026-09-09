@@ -1,55 +1,27 @@
 ---
 title: "Regeling tijdelijke aanstelling militairen"
 identifier: "BWBR0051757"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051757"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17596693"
-version_id: "31053482"
-internal_id: "C44790611"
-label_id: "17497114"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051757/2026-01-01/0"
-intitule_bron: "Stcrt.2025-38512"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-05-12"
-intitule_published: "2025-11-14"
-intitule_in_force: "2025-11-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-38512"
-original_signed_date: "2025-05-12"
-original_published_date: "2025-11-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-38512"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0051757&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0051757&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "2025-05-12"
-entry_into_force: "2026-01-01"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0051757"
+opgehaald: 2026-09-09
 ---
+
 # Regeling tijdelijke aanstelling militairen
-
-Gelet op [artikel 11a van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=11a);
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop het Besluit tot wijziging van het Algemeen militair ambtenarenreglement in verband met het invoeren van een nieuwe tijdelijke aanstelling als militair in het kader van het Dienjaar Defensie in werking treedt.
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **AMAR:** het [Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482);
+- *AMAR:* het [Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482);
 
-- **bevoegd gezag:** de functionaris, bedoeld in het [Mandaatbesluit toedeling uitvoerende personele bevoegdheden defensie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0039990);
+- *bevoegd gezag:* de functionaris, bedoeld in het [Mandaatbesluit toedeling uitvoerende personele bevoegdheden defensie 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0039990);
 
-- **militair:** degene die tijdelijk is aangesteld op grond van [artikel 11a van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=11a).
+- *militair:* degene die tijdelijk is aangesteld op grond van [artikel 11a van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=11a).
 
 ##### Artikel 2. Algemeen
 

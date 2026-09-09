@@ -1,50 +1,18 @@
 ---
 title: "Besluit van 3 november 2025, houdende regels over energiemarkten en energiesystemen (Energiebesluit)"
+citeertitel: "Energiebesluit"
 identifier: "BWBR0051745"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051745"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "17593193"
-version_id: "31048782"
-internal_id: "C44457141"
-label_id: "17495274"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051745/2026-01-01/0"
-intitule_bron: "Stb.2025-347"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-11-03"
-intitule_published: "2025-11-12"
-intitule_in_force: "2025-11-12"
-intitule_status: "goed"
-original_publication: "Stb.2025-347"
-original_signed_date: "2025-11-03"
-original_published_date: "2025-11-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2025-347"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0051745&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0051745&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Energiebesluit"
-signed_date: "2025-11-03"
-entry_into_force: "2026-01-01"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0051745"
+opgehaald: 2026-09-09
 ---
+
 # Besluit van 3 november 2025, houdende regels over energiemarkten en energiesystemen (Energiebesluit)
-
-Op de voordracht van Onze Minister van Klimaat en Groene Groei van 18 juni 2025, nr. WJZ / 99237560;
-
-Gelet op de [artikelen 1.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.4), [1.7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.7), [2.2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.2), [2.5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.5), [2.6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.6), [2.18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.18), [2.21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.21), [2.25, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.25), [2.34, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.34), [2.46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.46), [2.50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.50), [2.51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.51), [2.53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.53), [2.56, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.56), [2.68, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.68), [3.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.8), [3.18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.18), [3.26, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.26), [3.27, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.27), [3.36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.36), [3.40, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.40), [3.41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.41), [3.47, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.47), [3.64, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.64), [3.74](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.74), [3.75](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.75), [3.79](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.79), [3.85](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.85), [3.87, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.87), [3.90](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.90), [3.96](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.96), [3.100, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.100), [3.102](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.102), [3.103, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.103), [3.107, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.107), [3.118, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.118), [4.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=4.4), [4.22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=4.22), [5.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.12), [5.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.12), [5.27, eerste lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.27), [artikel 5 van de Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517&artikel=5) en de [artikelen 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.3), [5.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.11), en [5.12, derde lid, van Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.12);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 17 september 2025, nr. W19.25.00151/IV);
-
-Gezien het nader rapport van Onze Minister van Klimaat en Groene Groei van 28 oktober 2025, nr. WJZ / 100821074;
-
-Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -52,39 +20,40 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **beveiliging van een transmissie- of distributiesysteem:** geheel van maatregelen om het transmissie- of distributiesysteem te beschermen tegen schadelijke invloeden van buitenaf;
+- *beveiliging van een transmissie- of distributiesysteem:* geheel van maatregelen om het transmissie- of distributiesysteem te beschermen tegen schadelijke invloeden van buitenaf;
 
-- **besturing van een transmissie- of distributiesysteem:** het op een automatische manier in een bepaalde toestand brengen of houden van een transmissie- of distributiesysteem of onderdeel daarvan;
+- *besturing van een transmissie- of distributiesysteem:* het op een automatische manier in een bepaalde toestand brengen of houden van een transmissie- of distributiesysteem of onderdeel daarvan;
 
-- **eIDAS-verordening:** [verordening (EU) nr. 910/2014](32014R0910) van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van [Richtlijn 1999/93/EG](31999L0093);
+- *eIDAS-verordening:*
+ verordening (EU) nr. 910/2014 van het Europees Parlement en de Raad van 23 juli 2014 betreffende elektronische identificatie en vertrouwensdiensten voor elektronische transacties in de interne markt en tot intrekking van Richtlijn 1999/93/EG;
 
-- **erkenning als meetverantwoordelijke partij:** erkenning als meetverantwoordelijke partij als bedoeld in artikel 2.50, vierde lid, van de wet;
+- *erkenning als meetverantwoordelijke partij:* erkenning als meetverantwoordelijke partij als bedoeld in artikel 2.50, vierde lid, van de wet;
 
-- **erkenning als submeetverantwoordelijke partij:** erkenning als submeetverantwoordelijke partij als bedoeld in artikel 4.14, vierde lid;
+- *erkenning als submeetverantwoordelijke partij:* erkenning als submeetverantwoordelijke partij als bedoeld in artikel 4.14, vierde lid;
 
-- **erkend kredietbeoordelingsbureau:** een in de Europese Unie geregistreerd ratingbureau overeenkomstig [verordening (EG) nr. 1060/2009](32009R1060) van het Europees Parlement en de Raad van 16 september 2009 inzake ratingbureaus;
+- *erkend kredietbeoordelingsbureau:* een in de Europese Unie geregistreerd ratingbureau overeenkomstig verordening (EG) nr. 1060/2009 van het Europees Parlement en de Raad van 16 september 2009 inzake ratingbureaus;
 
-- **gemiddelde effectieve etmaaltemperatuur:** in een etmaal op het KNMI-weerstation De Bilt gemeten gemiddelde luchttemperatuur uitgedrukt in graden Celsius (T), gecorrigeerd voor de in dat etmaal op het KNMI-weerstation De Bilt gemeten gemiddelde windsnelheid uitgedrukt in meters per seconde (V), volgens de formule T - (V/1,5);
+- *gemiddelde effectieve etmaaltemperatuur:* in een etmaal op het KNMI-weerstation De Bilt gemeten gemiddelde luchttemperatuur uitgedrukt in graden Celsius (T), gecorrigeerd voor de in dat etmaal op het KNMI-weerstation De Bilt gemeten gemiddelde windsnelheid uitgedrukt in meters per seconde (V), volgens de formule T - (V/1,5);
 
-- **investeringsplan:** investeringsplan als bedoeld in artikel 3.34 van de wet;
+- *investeringsplan:* investeringsplan als bedoeld in artikel 3.34 van de wet;
 
-- **kwaliteitsborgingssysteem:** het geheel van samenhangende plannen, processen en procedures voor het registreren, monitoren en eventueel verbeteren van de kwaliteit van de bedrijfsvoering;
+- *kwaliteitsborgingssysteem:* het geheel van samenhangende plannen, processen en procedures voor het registreren, monitoren en eventueel verbeteren van de kwaliteit van de bedrijfsvoering;
 
-- **noodleverancier:** vergunninghouder die op aanwijzing van de Autoriteit Consument en Markt tijdelijk de levering van elektriciteit of gas voortzet aan eindafnemers met een kleine aansluiting, als bedoeld in artikel 2.25, tweede lid, van de wet;
+- *noodleverancier:* vergunninghouder die op aanwijzing van de Autoriteit Consument en Markt tijdelijk de levering van elektriciteit of gas voortzet aan eindafnemers met een kleine aansluiting, als bedoeld in artikel 2.25, tweede lid, van de wet;
 
-- **noodlevering:** tijdelijke voortzetting van de levering van elektriciteit of gas als bedoeld in artikel 2.25, derde lid, van de wet;
+- *noodlevering:* tijdelijke voortzetting van de levering van elektriciteit of gas als bedoeld in artikel 2.25, derde lid, van de wet;
 
-- **opslagjaar:** de periode tussen 06.00 uur op 1 april van enig jaar tot 06.00 uur op 1 april van het daaropvolgende jaar;
+- *opslagjaar:* de periode tussen 06.00 uur op 1 april van enig jaar tot 06.00 uur op 1 april van het daaropvolgende jaar;
 
-- **pieklevering:** het deel van de feitelijke aflevering van gas in een uur aan eindafnemers met een kleine aansluiting dat de hoeveelheid te boven gaat zoals die maximaal in een uur aan deze eindafnemers zou worden geleverd op een dag met een gemiddelde effectieve etmaaltemperatuur van -9 °C (graden Celsius);
+- *pieklevering:* het deel van de feitelijke aflevering van gas in een uur aan eindafnemers met een kleine aansluiting dat de hoeveelheid te boven gaat zoals die maximaal in een uur aan deze eindafnemers zou worden geleverd op een dag met een gemiddelde effectieve etmaaltemperatuur van -9 °C (graden Celsius);
 
-- **submeetinrichting:** specifiek meettoestel als bedoeld in artikel 2, onderdeel 78, van [verordening 2019/943](32843R2019);
+- *submeetinrichting:* specifiek meettoestel als bedoeld in artikel 2, onderdeel 78, van verordening 2019/943;
 
-- **submeetverantwoordelijke partij:** beheerder van een submeetinrichting als bedoeld in artikel 4.9, vijfde lid, niet zijnde een meetverantwoordelijke partij, die is erkend op grond artikel 4.14;
+- *submeetverantwoordelijke partij:* beheerder van een submeetinrichting als bedoeld in artikel 4.9, vijfde lid, niet zijnde een meetverantwoordelijke partij, die is erkend op grond artikel 4.14;
 
-- **vergunning:** vergunning, bedoeld in artikel 2.18, derde lid, van de wet;
+- *vergunning:* vergunning, bedoeld in artikel 2.18, derde lid, van de wet;
 
-- **wet:** Energiewet.
+- *wet:* Energiewet.
 
 ##### Artikel 1.2. gezamenlijke aansluiting
 
@@ -94,13 +63,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 1.3. definitie van energiearmoede ten behoeve van monitoring
 
-1. Onder energiearmoede wordt verstaan energiearmoede als bedoeld in artikel 2, onderdeel 52, van [richtlijn (EU) 2023/1791](32023L1791) van het Europees Parlement en de Raad van 13 september 2023 betreffende energie-efficiëntie en tot wijziging van [Verordening (EU) 2023/955](32023R0955) (herschikking).
+1. Onder energiearmoede wordt verstaan energiearmoede als bedoeld in artikel 2, onderdeel 52, van richtlijn (EU) 2023/1791 van het Europees Parlement en de Raad van 13 september 2023 betreffende energie-efficiëntie en tot wijziging van Verordening (EU) 2023/955 (herschikking).
 
 2. Het Centraal bureau voor de statistiek, genoemd in artikel 2, eerste lid, van de Wet op het Centraal bureau voor de statistiek, wordt aangewezen als de instantie, bedoeld in artikel 1.7, derde lid, van de wet.
 
 ### Hoofdstuk 2. Energiemarkten
 
-### Afdeling 2.1. Contractuele verhouding tussen eindafnemer en leverancier of actieve afnemer en marktdeelnemer die aggregeert
+#### Afdeling 2.1. Contractuele verhouding tussen eindafnemer en leverancier of actieve afnemer en marktdeelnemer die aggregeert
 
 ##### Artikel 2.1. inhoud leveringsovereenkomst en leveringsovereenkomst inzake peer-to-peer-handel
 
@@ -198,7 +167,7 @@ Een leverancier draagt er zorg voor dat bij zijn aanbod voor eindafnemers met ee
 
 Een actieve afnemer kan een vraagresponsovereenkomst beëindigen zonder inachtneming van een opzegtermijn, indien de leveringszekerheid van die actieve afnemer dat vereist.
 
-### Afdeling 2.2. Vergunning leveranciers
+#### Afdeling 2.2. Vergunning leveranciers
 
 ##### Artikel 2.10. eisen aan de vergunning
 
@@ -244,7 +213,7 @@ Een actieve afnemer kan een vraagresponsovereenkomst beëindigen zonder inachtne
 
 - c. de wijze waarop eindafnemers met een kleine aansluiting worden geïnformeerd over de overdracht.
 
-### Afdeling 2.3. Maatregelen in het kader van de leveringszekerheid
+#### Afdeling 2.3. Maatregelen in het kader van de leveringszekerheid
 
 ##### Artikel 2.12. intrekking vergunning of faillissement
 
@@ -274,17 +243,17 @@ De termijn voor het overdragen aan een andere vergunninghouder van leveringsover
 
 - b. schriftelijk de volgende informatie:
 
-- 1°. de naam, het adres, het telefoonnummer en het e-mailadres van de vergunninghouder;
+   - 1°. de naam, het adres, het telefoonnummer en het e-mailadres van de vergunninghouder;
 
-- 2°. de termijn van de levering van elektriciteit of gas;
+   - 2°. de termijn van de levering van elektriciteit of gas;
 
-- 3°. dat de eindafnemer na het besluit tot verdeling kosteloos over kan stappen;
+   - 3°. dat de eindafnemer na het besluit tot verdeling kosteloos over kan stappen;
 
-- 4°. informatie over de door de eindafnemer voor de levering verschuldigde vergoeding, bedoeld in artikel 2.25, derde lid, van de wet;
+   - 4°. informatie over de door de eindafnemer voor de levering verschuldigde vergoeding, bedoeld in artikel 2.25, derde lid, van de wet;
 
-- 5°. informatie over facturering; en
+   - 5°. informatie over facturering; en
 
-- 6°. informatie over klachtbehandeling en de wijze waarop procedures bij een instantie voor buitengerechtelijke geschilbeslechting aanhangig kunnen worden gemaakt.
+   - 6°. informatie over klachtbehandeling en de wijze waarop procedures bij een instantie voor buitengerechtelijke geschilbeslechting aanhangig kunnen worden gemaakt.
 
 ##### Artikel 2.16. wijze van restverdeling
 
@@ -328,7 +297,7 @@ De termijn voor het overdragen aan een andere vergunninghouder van leveringsover
 
 Een inkoopovereenkomst van een vergunninghouder ten behoeve van de levering van elektriciteit of gas aan eindafnemers met een kleine aansluiting bevat geen beding tot ontbinding van rechtswege van die overeenkomst ingeval aan de vergunninghouder surseance van betaling is verleend of deze failliet is verklaard, dan wel ingeval diens surseance of faillissement is aangevraagd, dan wel ingeval diens vergunning zal worden ingetrokken, noch bedingen die het de wederpartij mogelijk maken in die gevallen de verbintenis op te zeggen of de nakoming van de verbintenis op te schorten of te ontbinden of onder gewijzigde voorwaarden voort te zetten, tot het moment dat, ingeval van intrekking van een vergunning of faillissement van de vergunninghouder, alle leveringsovereenkomsten met eindafnemers met een kleine aansluiting conform artikel 2.25, eerste lid, van de wet zijn overgedragen aan een andere vergunninghouder dan wel conform artikel 2.25, derde lid, van de wet geacht worden te zijn beëindigd.
 
-### Afdeling 2.4. Overige bepalingen
+#### Afdeling 2.4. Overige bepalingen
 
 ##### Artikel 2.20. vergelijkingsinstrument
 
@@ -340,13 +309,13 @@ Een vergelijkingsinstrument als bedoeld in artikel 2.68, eerste lid, van de wet 
 
 - c. het vergelijkingsinstrument vermeldt op een duidelijk vindbare wijze:
 
-- 1°. wie de eigenaar daarvan is;
+   - 1°. wie de eigenaar daarvan is;
 
-- 2°. wie het vergelijkingsinstrument beheert en controleert;
+   - 2°. wie het vergelijkingsinstrument beheert en controleert;
 
-- 3°. hoe het aanbieden van vergelijkingsinstrument wordt bekostigd; en
+   - 3°. hoe het aanbieden van vergelijkingsinstrument wordt bekostigd; en
 
-- 4°. de duidelijke en objectieve criteria waarop de vergelijking moet worden gebaseerd;
+   - 4°. de duidelijke en objectieve criteria waarop de vergelijking moet worden gebaseerd;
 
 - d. het vergelijkingsinstrument maakt gebruik van duidelijke en ondubbelzinnige taal;
 
@@ -364,7 +333,7 @@ Een vergelijkingsinstrument als bedoeld in artikel 2.68, eerste lid, van de wet 
 
 ### Hoofdstuk 3. Beheer van elektriciteits- en gassystemen
 
-### Afdeling 3.1. Aanwijzing en inrichting systeembeheerders
+#### Afdeling 3.1. Aanwijzing en inrichting systeembeheerders
 
 #### Paragraaf 3.1.1. Aanwijzen, certificeren en erkennen van systeembeheerders
 
@@ -396,17 +365,17 @@ De Autoriteit Consument en Markt kan een erkenning als gesloten systeem als bedo
 
 - a. voor zover deze uit het oogpunt van de bescherming van vitale processen van essentieel belang zijn voor de nationale veiligheid, gegevens, hulpmiddelen of materialen voor:
 
-- 1°. de instandhouding van een transmissie- of distributiesysteem;
+   - 1°. de instandhouding van een transmissie- of distributiesysteem;
 
-- 2°. de beveiliging van een transmissie- of distributiesysteem;
+   - 2°. de beveiliging van een transmissie- of distributiesysteem;
 
-- 3°. de besturing van een transmissie- of distributiesysteem;
+   - 3°. de besturing van een transmissie- of distributiesysteem;
 
-- 4°. de bewaking van gegevens, hulpmiddelen en materialen;
+   - 4°. de bewaking van gegevens, hulpmiddelen en materialen;
 
-- 5°. de bediening van onderdelen van een transmissie- of distributiesysteem;
+   - 5°. de bediening van onderdelen van een transmissie- of distributiesysteem;
 
-- 6°. het beschikbaar stellen van gegevens ten behoeve van marktfacilitering;
+   - 6°. het beschikbaar stellen van gegevens ten behoeve van marktfacilitering;
 
 - b. werkmethoden en processen die zijn ingericht met behulp van de gegevens, hulpmiddelen of materialen, als bedoeld in onderdeel a.
 
@@ -434,7 +403,7 @@ De Autoriteit Consument en Markt kan een erkenning als gesloten systeem als bedo
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld over de maatregelen, bedoeld in het eerste en tweede lid, daarbij kan rekening worden gehouden met de verschillen tussen systeembeheerders voor elektriciteit of voor gas.
 
-### Afdeling 3.2. Taken transmissiesysteembeheerder en distributiesysteembeheerder
+#### Afdeling 3.2. Taken transmissiesysteembeheerder en distributiesysteembeheerder
 
 #### Paragraaf 3.2.1. Vrijstellingen enkelvoudige storingsreserve transmissiesysteem elektriciteit
 
@@ -444,9 +413,9 @@ In een uitvalsituatie in een transmissiesysteem voor elektriciteit met een spann
 
 - a. een transformator naar een spanning lager dan 110 kV en leidt tot een onderbreking van transport van elektriciteit van maximaal 200 MW gedurende ten hoogste:
 
-- 1°. tien minuten voor transport ten behoeve van verbruik, of
+   - 1°. tien minuten voor transport ten behoeve van verbruik, of
 
-- 2°. twee weken voor transport ten behoeve van productie of invoeding van een elektriciteitsopslagfaciliteit die rechtstreeks op de transformator is aangesloten, dan wel op het onderliggende distributiesysteem voor elektriciteit en rechtstreeks op een hoog- of middenspanningsrail op een hoogspanningsstation is aangesloten;
+   - 2°. twee weken voor transport ten behoeve van productie of invoeding van een elektriciteitsopslagfaciliteit die rechtstreeks op de transformator is aangesloten, dan wel op het onderliggende distributiesysteem voor elektriciteit en rechtstreeks op een hoog- of middenspanningsrail op een hoogspanningsstation is aangesloten;
 
 - b. een railsysteem en leidt tot een onderbreking van transport van elektriciteit van maximaal 1500 MW gedurende ten hoogste zes uur voor transport ten behoeve van productie of invoeding van een elektriciteitsopslagfaciliteit die rechtstreeks op het railsysteem is aangesloten, dan wel op het onderliggende distributiesysteem voor elektriciteit en rechtstreeks op een hoog- of middenspanningsrail op een hoogspanningsstation is aangesloten;
 
@@ -458,15 +427,15 @@ In een uitvalsituatie in een transmissiesysteem voor elektriciteit met een spann
 
 - a. een transformator naar een spanning lager dan 110 kV en leidt tot een onderbreking van transport van elektriciteit van maximaal 200 MW gedurende ten hoogste:
 
-- 1°. zes uur voor transport ten behoeve van verbruik, of
+   - 1°. zes uur voor transport ten behoeve van verbruik, of
 
-- 2°. twee weken voor transport ten behoeve van productie of invoeding van een elektriciteitsopslagfaciliteit die rechtstreeks op de transformator is aangesloten, dan wel op het onderliggende distributiesysteem voor elektriciteit en rechtstreeks op een hoog- of middenspanningsrail op een hoogspanningsstation is aangesloten;
+   - 2°. twee weken voor transport ten behoeve van productie of invoeding van een elektriciteitsopslagfaciliteit die rechtstreeks op de transformator is aangesloten, dan wel op het onderliggende distributiesysteem voor elektriciteit en rechtstreeks op een hoog- of middenspanningsrail op een hoogspanningsstation is aangesloten;
 
 - b. een railsysteem en leidt tot een onderbreking van transport van elektriciteit van maximaal:
 
-- 1°. 1000 MW gedurende ten hoogste twee uur, waarna de onderbreking maximaal 500 MW is, vervolgens lineair afneemt tot maximaal 100 MW en na zes uur is opgelost voor transport ten behoeve van verbruik, of
+   - 1°. 1000 MW gedurende ten hoogste twee uur, waarna de onderbreking maximaal 500 MW is, vervolgens lineair afneemt tot maximaal 100 MW en na zes uur is opgelost voor transport ten behoeve van verbruik, of
 
-- 2°. 1500 MW gedurende ten hoogste zes uur voor transport ten behoeve van productie of invoeding van een elektriciteitsopslagfaciliteit die rechtstreeks op het railsysteem is aangesloten, dan wel op het onderliggende distributiesysteem voor elektriciteit en rechtstreeks op een hoog- of middenspanningsrail op een hoogspanningsstation is aangesloten;
+   - 2°. 1500 MW gedurende ten hoogste zes uur voor transport ten behoeve van productie of invoeding van een elektriciteitsopslagfaciliteit die rechtstreeks op het railsysteem is aangesloten, dan wel op het onderliggende distributiesysteem voor elektriciteit en rechtstreeks op een hoog- of middenspanningsrail op een hoogspanningsstation is aangesloten;
 
 - c. een railsysteem en leidt tot een onderbreking van transport van elektriciteit van ten hoogste 2000 MW gedurende ten hoogste zes uur, voor transport ten behoeve van op een transmissiesysteem voor elektriciteit op zee aangesloten productie.
 
@@ -476,21 +445,21 @@ In een uitvalsituatie in een transmissiesysteem voor elektriciteit met een spann
 
 - a. een transformator naar een spanning lager dan 110 kV en leidt tot een onderbreking van transport van elektriciteit van maximaal 200 MW gedurende ten hoogste:
 
-- 1°. tien minuten voor transport ten behoeve van verbruik, of
+   - 1°. tien minuten voor transport ten behoeve van verbruik, of
 
-- 2°. twee weken voor transport ten behoeve van productie of invoeding van een elektriciteitsopslagfaciliteit die rechtstreeks op de transformator is aangesloten, dan wel op het onderliggende distributiesysteem voor elektriciteit en rechtstreeks op een hoog- of middenspanningsrail op een hoogspanningsstation is aangesloten ;
+   - 2°. twee weken voor transport ten behoeve van productie of invoeding van een elektriciteitsopslagfaciliteit die rechtstreeks op de transformator is aangesloten, dan wel op het onderliggende distributiesysteem voor elektriciteit en rechtstreeks op een hoog- of middenspanningsrail op een hoogspanningsstation is aangesloten ;
 
 - b. een circuit en leidt tot een onderbreking van transport van elektriciteit van maximaal:
 
-- 1°. 100 MW gedurende ten hoogste tien minuten voor transport ten behoeve van verbruik, of
+   - 1°. 100 MW gedurende ten hoogste tien minuten voor transport ten behoeve van verbruik, of
 
-- 2°. 500 MW gedurende ten hoogste twee weken voor transport ten behoeve van productie of invoeding van een elektriciteitsopslagfaciliteit die rechtstreeks op het circuit is aangesloten, dan wel op het onderliggende distributiesysteem voor elektriciteit en rechtstreeks op een hoog- of middenspanningsrail op een hoogspanningsstation is aangesloten;
+   - 2°. 500 MW gedurende ten hoogste twee weken voor transport ten behoeve van productie of invoeding van een elektriciteitsopslagfaciliteit die rechtstreeks op het circuit is aangesloten, dan wel op het onderliggende distributiesysteem voor elektriciteit en rechtstreeks op een hoog- of middenspanningsrail op een hoogspanningsstation is aangesloten;
 
 - c. een railsysteem en leidt tot een onderbreking van transport van elektriciteit van maximaal:
 
-- 1°. 500 MW gedurende ten hoogste een uur en daarna maximaal 100 MW gedurende ten hoogste vijf uur voor transport ten behoeve van verbruik, of
+   - 1°. 500 MW gedurende ten hoogste een uur en daarna maximaal 100 MW gedurende ten hoogste vijf uur voor transport ten behoeve van verbruik, of
 
-- 2°. 1500 MW gedurende ten hoogste zes uur voor transport ten behoeve van productie of invoeding van een elektriciteitsopslagfaciliteit die rechtstreeks op het railsysteem is aangesloten, dan wel op het onderliggende distributiesysteem voor elektriciteit en rechtstreeks op een hoog- of middenspanningsrail op een hoogspanningsstation is aangesloten.
+   - 2°. 1500 MW gedurende ten hoogste zes uur voor transport ten behoeve van productie of invoeding van een elektriciteitsopslagfaciliteit die rechtstreeks op het railsysteem is aangesloten, dan wel op het onderliggende distributiesysteem voor elektriciteit en rechtstreeks op een hoog- of middenspanningsrail op een hoogspanningsstation is aangesloten.
 
 ##### Artikel 3.8. vrijstelling 110 tot 220 kV tijdens onderhoud
 
@@ -498,35 +467,35 @@ In een uitvalsituatie in een transmissiesysteem voor elektriciteit met een spann
 
 - a. een transformator naar een spanning lager dan 110 kV en leidt tot een onderbreking van transport van elektriciteit van maximaal 200 MW gedurende ten hoogste:
 
-- 1°. zes uur voor transport ten behoeve van verbruik, of
+   - 1°. zes uur voor transport ten behoeve van verbruik, of
 
-- 2°. twee weken voor transport ten behoeve van productie of invoeding van een elektriciteitsopslagfaciliteit die rechtstreeks op de transformator is aangesloten, dan wel op het onderliggende distributiesysteem voor elektriciteit en rechtstreeks op een hoog- of middenspanningsrail op een hoogspanningsstation is aangesloten;
+   - 2°. twee weken voor transport ten behoeve van productie of invoeding van een elektriciteitsopslagfaciliteit die rechtstreeks op de transformator is aangesloten, dan wel op het onderliggende distributiesysteem voor elektriciteit en rechtstreeks op een hoog- of middenspanningsrail op een hoogspanningsstation is aangesloten;
 
 - b. een circuit en leidt tot een onderbreking van transport van elektriciteit van maximaal:
 
-- 1°. 100 MW gedurende ten hoogste zes uur voor transport ten behoeve van verbruik, of
+   - 1°. 100 MW gedurende ten hoogste zes uur voor transport ten behoeve van verbruik, of
 
-- 2°. 500 MW, gedurende ten hoogste twee weken voor transport ten behoeve van productie of invoeding van een elektriciteitsopslagfaciliteit die rechtstreeks op het circuit is aangesloten, dan wel op het onderliggende distributiesysteem voor elektriciteit en rechtstreeks op een hoog- of middenspanningsrail op een hoogspanningsstation is aangesloten;
+   - 2°. 500 MW, gedurende ten hoogste twee weken voor transport ten behoeve van productie of invoeding van een elektriciteitsopslagfaciliteit die rechtstreeks op het circuit is aangesloten, dan wel op het onderliggende distributiesysteem voor elektriciteit en rechtstreeks op een hoog- of middenspanningsrail op een hoogspanningsstation is aangesloten;
 
 - c. een railsysteem en leidt tot een onderbreking van transport van elektriciteit van maximaal:
 
-- 1°. 1000 MW gedurende ten hoogste twee uur, waarna de onderbreking maximaal 500 MW is, vervolgens lineair afneemt tot maximaal 100 MW en na zes uur is opgelost voor transport ten behoeve van verbruik, of
+   - 1°. 1000 MW gedurende ten hoogste twee uur, waarna de onderbreking maximaal 500 MW is, vervolgens lineair afneemt tot maximaal 100 MW en na zes uur is opgelost voor transport ten behoeve van verbruik, of
 
-- 2°. 1500 MW gedurende ten hoogste zes uur voor transport ten behoeve van productie of invoeding van een elektriciteitsopslagfaciliteit die rechtstreeks op het railsysteem is aangesloten, dan wel op het onderliggende distributiesysteem voor elektriciteit en rechtstreeks op een hoog- of middenspanningsrail op een hoogspanningsstation is aangesloten.
+   - 2°. 1500 MW gedurende ten hoogste zes uur voor transport ten behoeve van productie of invoeding van een elektriciteitsopslagfaciliteit die rechtstreeks op het railsysteem is aangesloten, dan wel op het onderliggende distributiesysteem voor elektriciteit en rechtstreeks op een hoog- of middenspanningsrail op een hoogspanningsstation is aangesloten.
 
 2. In afwijking van het eerste lid, aanhef en onderdelen b en c, is in een uitvalsituatie in een transmissiesysteem voor elektriciteit met een spanningsniveau van 110 tot 220 kV tijdens onderhoud de eis, bedoeld in artikel 3.26, eerste lid, aanhef, van de wet, niet van toepassing indien de uitvalsituatie betrekking heeft op:
 
 - a. een gesloten schakelinstallatie ten tijde van reparatie, modificatie en vervanging van dit onderdeel van het systeem en leidt tot een onderbreking van transport van elektriciteit van maximaal:
 
-- 1°. 100 MW gedurende ten hoogste 48 uur voor transport ten behoeve van verbruik, of
+   - 1°. 100 MW gedurende ten hoogste 48 uur voor transport ten behoeve van verbruik, of
 
-- 2°. 500 MW gedurende 48 uur voor transport ten behoeve van productie of invoeding van een elektriciteitsopslagfaciliteit die rechtstreeks op de schakelinstallatie is aangesloten, dan wel op het onderliggende distributiesysteem voor elektriciteit en rechtstreeks op een hoog- of middenspanningsrail op een hoogspanningsstation is aangesloten;
+   - 2°. 500 MW gedurende 48 uur voor transport ten behoeve van productie of invoeding van een elektriciteitsopslagfaciliteit die rechtstreeks op de schakelinstallatie is aangesloten, dan wel op het onderliggende distributiesysteem voor elektriciteit en rechtstreeks op een hoog- of middenspanningsrail op een hoogspanningsstation is aangesloten;
 
 - b. een gasdrukpijpkabel of een oliedrukkabel ten tijde van reparatie, modificatie of vervanging van dit onderdeel van het systeem en leidt tot een onderbreking van transport van elektriciteit van maximaal:
 
-- 1°. 100 MW gedurende ten hoogste een week voor transport ten behoeve van verbruik, of
+   - 1°. 100 MW gedurende ten hoogste een week voor transport ten behoeve van verbruik, of
 
-- 2°. 500 MW gedurende ten hoogste een week voor transport ten behoeve van productie of invoeding van een elektriciteitsopslagfaciliteit die rechtstreeks op de gasdrukpijpkabel of een oliedrukkabel is aangesloten, dan wel op het onderliggende distributiesysteem voor elektriciteit en rechtstreeks op een hoog- of middenspanningsrail op een hoogspanningsstation is aangesloten.
+   - 2°. 500 MW gedurende ten hoogste een week voor transport ten behoeve van productie of invoeding van een elektriciteitsopslagfaciliteit die rechtstreeks op de gasdrukpijpkabel of een oliedrukkabel is aangesloten, dan wel op het onderliggende distributiesysteem voor elektriciteit en rechtstreeks op een hoog- of middenspanningsrail op een hoogspanningsstation is aangesloten.
 
 ##### Artikel 3.9. vrijstelling tijdens werkzaamheden in bijzondere situaties
 
@@ -544,7 +513,7 @@ In een uitvalsituatie in een transmissiesysteem voor elektriciteit met een spann
 
 3. Onverminderd het eerste of tweede lid:
 
-- a. voert de transmissiesysteembeheerder voor elektriciteit de werkzaamheden, bedoeld in het eerste of tweede lid, uit met inachtneming van [verordening (EU) 2017/1485](32017R1485) van de Commissie tot vaststelling van richtsnoeren betreffende het beheer van elektriciteitstransmissiesystemen;
+- a. voert de transmissiesysteembeheerder voor elektriciteit de werkzaamheden, bedoeld in het eerste of tweede lid, uit met inachtneming van verordening (EU) 2017/1485 van de Commissie tot vaststelling van richtsnoeren betreffende het beheer van elektriciteitstransmissiesystemen;
 
 - b. stuurt de transmissiesysteembeheerder voor elektriciteit aangeslotenen met een transportovereenkomst voor meer dan 10 MW die door een uitvalsituatie ten gevolge van de werkzaamheden, bedoeld in het eerste of tweede lid, kunnen worden getroffen uiterlijk twee maanden voorafgaand aan de werkzaamheden schriftelijk een vooraankondiging met een globale planning van de werkzaamheden en uiterlijk tien werkdagen voorafgaand aan de werkzaamheden een schriftelijke vooraankondiging en een op de dag nauwkeurige planning van de werkzaamheden; en
 
@@ -576,7 +545,7 @@ In een uitvalsituatie in een transmissiesysteem met een spanningsniveau van 110 
 
 - d. een beschrijving van de kans op een onderbreking als bedoeld in onderdeel c;
 
-- e. een toelichting op conformiteit van de aanvraag met [Verordening (EU) 2017/1485](32017R1485) van de Commissie tot vaststelling van richtsnoeren betreffende het beheer van elektriciteitstransmissiesystemen;
+- e. een toelichting op conformiteit van de aanvraag met Verordening (EU) 2017/1485 van de Commissie tot vaststelling van richtsnoeren betreffende het beheer van elektriciteitstransmissiesystemen;
 
 - f. een voorstel voor de duur van de ontheffing en een onderbouwing daarvan;
 
@@ -598,9 +567,9 @@ Aan de ontheffing wordt de voorwaarde verbonden dat wanneer het systeemonderdeel
 
 ##### Artikel 3.15. reikwijdte en duur ontheffing
 
-1. Een ontheffing wordt verleend voor een onderdeel van het transmissiesysteem voor elektriciteit dat op 1 januari 2021 niet voldoet aan de norm, bedoeld in artikel 3.26, eerste lid, van de wet of, indien van toepassing, een vrijstelling als bedoeld in de artikelen 3.5 tot en met 3.11, voor ten hoogste de maximale omvang en duur van de onderbreking bij een uitvalsituatie met betrekking tot dat onderdeel op die datum.
+1. Een ontheffing wordt verleend voor een onderdeel van het transmissiesysteem voor elektriciteit dat op 1 januari 2021 niet voldoet aan de norm, bedoeld in artikel 3.26, eerste lid, van de wet of, indien van toepassing, een vrijstelling als bedoeld in de artikelen 3.5 tot en met 3.11, voor ten hoogste de maximale omvang en duur van de onderbreking bij een uitvalsituatie met betrekking tot dat onderdeel op die datum.
 
-2. De uitvalsituatie waarop de ontheffing betrekking heeft leidt niet tot overschrijding van de operationele veiligheidsgrenzen die zijn vastgesteld bij of krachtens [Verordening (EU) 2017/1485](32017R1485) van de Commissie tot vaststelling van richtsnoeren betreffende het beheer van elektriciteitstransmissiesystemen.
+2. De uitvalsituatie waarop de ontheffing betrekking heeft leidt niet tot overschrijding van de operationele veiligheidsgrenzen die zijn vastgesteld bij of krachtens Verordening (EU) 2017/1485 van de Commissie tot vaststelling van richtsnoeren betreffende het beheer van elektriciteitstransmissiesystemen.
 
 3. Een ontheffing, of een verlenging daarvan, wordt verleend voor ten hoogste:
 
@@ -672,7 +641,7 @@ De aanvraag, bedoeld in artikel 3.27, vierde lid, van de wet, bevat een beschrij
 
 1. Een investeringsplan als bedoeld in artikel 3.34, eerste lid, van de wet geldt voor een termijn van twee jaren of totdat er een nieuw investeringsplan is vastgesteld.
 
-2. Een transmissie- of distributiesysteembeheerder of transmissiesysteembeheerder voor elektriciteit op zee legt een ontwerpinvesteringsplan voor aan de Autoriteit Consument en Markt uiterlijk op de eerste dag na 1 januari van een even kalenderjaar die niet een zaterdag of een zondag is.
+2. Een transmissie- of distributiesysteembeheerder of transmissiesysteembeheerder voor elektriciteit op zee legt een ontwerpinvesteringsplan voor aan de Autoriteit Consument en Markt uiterlijk op de eerste dag na 1 januari van een even kalenderjaar die niet een zaterdag of een zondag is.
 
 3. Indien door onvoorziene omstandigheden binnen de termijn van twee jaren, bedoeld in het eerste lid, noodzakelijk is om een significante wijziging in de geplande uitbreidings- of vervangingsinvesteringen aan te brengen die ook binnen die termijn werking moet krijgen, wordt het investeringsplan tussentijds herzien. De transmissie- of distributiesysteembeheerder of transmissiesysteembeheerder voor elektriciteit op zee legt een ontwerpherziening van het investeringsplan zo spoedig mogelijk voor aan de Autoriteit Consument en Markt. Artikel 3.26, is van overeenkomstige toepassing.
 
@@ -796,7 +765,7 @@ De aanvraag, bedoeld in artikel 3.27, vierde lid, van de wet, bevat een beschrij
 
 5. Een distributiesysteembeheerder voor gas verstrekt aan een transmissiesysteembeheerder voor gas de informatie die nodig is om per vergunninghouder de benodigde omvang van de voorzieningen, bedoeld in het eerste lid, te bepalen.
 
-### Afdeling 3.3. Verplichtingen systeembeheerders
+#### Afdeling 3.3. Verplichtingen systeembeheerders
 
 #### Paragraaf 3.3.1. Kwaliteitsborging, calamiteiten en voorvallen transmissie- en distributiesysteem
 
@@ -980,9 +949,9 @@ Bij de vaststelling van de door de transmissie- of distributiesysteembeheerder v
 
 - c. de tarieven die gelden voor een energiegemeenschap:
 
-- 1.°. dragen op voldoende en evenwichtige wijze bij aan het delen van de totale kosten van het transmissie- of distributiesysteem voor elektriciteit;
+   - 1.° dragen op voldoende en evenwichtige wijze bij aan het delen van de totale kosten van het transmissie- of distributiesysteem voor elektriciteit;
 
-- 2°. gelden ongeacht of de energiegemeenschap, met inachtneming van artikel 2.17, tweede lid, onderdeel a, van de wet, elektriciteit levert aan zijn leden of aandeelhouders, en in overeenstemming met een door de Autoriteit Consument en Markt uitgevoerde transparante analyse van kosten en baten van gedistribueerde energiebronnen.
+   - 2°. gelden ongeacht of de energiegemeenschap, met inachtneming van artikel 2.17, tweede lid, onderdeel a, van de wet, elektriciteit levert aan zijn leden of aandeelhouders, en in overeenstemming met een door de Autoriteit Consument en Markt uitgevoerde transparante analyse van kosten en baten van gedistribueerde energiebronnen.
 
 ##### Artikel 3.44. bekostiging niet-tariefgereguleerde taken transmissiesysteembeheerder voor elektriciteit op zee
 
@@ -996,7 +965,7 @@ Een gasopslagbeheerder voert voorafgaand aan de bekendmaking, bedoeld in artikel
 
 ##### Artikel 3.46. bekendmaking indicatie tarieven en voorwaarden gasopslag
 
-De bekendmaking van de indicatie van de tarieven en voorwaarden door de gasopslagbeheerder, bedoeld in artikel. 3.100, vierde lid, van de wet, vindt jaarlijks voor 1 oktober plaats.
+De bekendmaking van de indicatie van de tarieven en voorwaarden door de gasopslagbeheerder, bedoeld in artikel. 3.100, vierde lid, van de wet, vindt jaarlijks voor 1 oktober plaats.
 
 ##### Artikel 3.47. Toegang gasopslagsystemen
 
@@ -1038,15 +1007,15 @@ De bekendmaking van de indicatie van de tarieven en voorwaarden door de gasopsla
 
 - a. een onderhoudsperiode van:
 
-- 1°. vijf dagen per kalenderjaar voor wisselstroomverbindingen;
+   - 1°. vijf dagen per kalenderjaar voor wisselstroomverbindingen;
 
-- 2°. achttien dagen per kalenderjaar voor gelijkstroomverbindingen, of
+   - 2°. achttien dagen per kalenderjaar voor gelijkstroomverbindingen, of
 
 - b. een onderhoudsperiode van ten hoogste 38 dagen ter vervanging van componenten van het transmissiesysteem voor elektriciteit op zee die van belang zijn voor beveiliging en besturing van het transmissiesysteem voor elektriciteit op zee.
 
 4. Een onderhoudsperiode als bedoeld in het derde lid, hoeft niet aaneengesloten te zijn.
 
-5. Het derde lid, aanhef en onderdeel b, is niet van toepassing op een aangeslotene met een vergunning als bedoeld in artikel 12 van de Wet windenergie op zee die is verleend voor 14 april 2022 en indien er na 14 april 2022 geen besluit is genomen door Onze Minister tot verlenging van de looptijd van die vergunning.
+5. Het derde lid, aanhef en onderdeel b, is niet van toepassing op een aangeslotene met een vergunning als bedoeld in artikel 12 van de Wet windenergie op zee die is verleend voor 14 april 2022 en indien er na 14 april 2022 geen besluit is genomen door Onze Minister tot verlenging van de looptijd van die vergunning.
 
 ##### Artikel 3.50. afstemming over planning van het onderhoud
 
@@ -1098,7 +1067,7 @@ De bekendmaking van de indicatie van de tarieven en voorwaarden door de gasopsla
 
 ### Hoofdstuk 4. Meten en gegevens
 
-### Afdeling 4.1. Erkenning meetverantwoordelijke partij
+#### Afdeling 4.1. Erkenning meetverantwoordelijke partij
 
 ##### Artikel 4.1. nadere eisen erkenning meetverantwoordelijke partij
 
@@ -1202,7 +1171,7 @@ De bekendmaking van de indicatie van de tarieven en voorwaarden door de gasopsla
 
 4. Indien beoogd wordt de erkenning over te dragen aan een reeds erkende meetverantwoordelijke partij, gaat de aanvraag, bedoeld in het tweede lid, vergezeld van een rapport over de risico’s voor de continuïteit van de verplichtingen, bedoeld in artikel 2.50, tweede lid, onderdeel b, van de wet, die verbonden zijn aan de overdracht en, indien nodig, de daarbij behorende mitigerende maatregelen.
 
-### Afdeling 4.2. Meetinrichtingen en metingen bij vraagrespons, op additionele allocatiepunten en bij onbemeten aansluitingen
+#### Afdeling 4.2. Meetinrichtingen en metingen bij vraagrespons, op additionele allocatiepunten en bij onbemeten aansluitingen
 
 ##### Artikel 4.7. op afstand uitleesbare meetinrichting voorwaarde voor onafhankelijke vraagrespons
 
@@ -1246,7 +1215,7 @@ Indien een aangeslotene elektriciteit teruglevert aan een marktdeelnemer die nie
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld over de wijze waarop de distributiesysteembeheerder die gegevens vaststelt.
 
-### Afdeling 4.3. Erkenning submeetverantwoordelijke partij
+#### Afdeling 4.3. Erkenning submeetverantwoordelijke partij
 
 ##### Artikel 4.14. erkenning en verplichtingen submeetverantwoordelijke partij
 
@@ -1310,7 +1279,7 @@ Indien een aangeslotene elektriciteit teruglevert aan een marktdeelnemer die nie
 
 2. Artikel 4.6 is van overeenkomstige toepassing op het overdragen van een erkenning als submeetverantwoordelijke partij, met dien verstande dat voor «meetverantwoordelijke partij» wordt gelezen «submeetverantwoordelijke partij».
 
-### Afdeling 4.4. Beheren en uitwisselen van gegevens
+#### Afdeling 4.4. Beheren en uitwisselen van gegevens
 
 ##### Artikel 4.18. melden incidenten
 
@@ -1330,7 +1299,7 @@ Indien een aangeslotene elektriciteit teruglevert aan een marktdeelnemer die nie
 
 ### Hoofdstuk 5. Uitvoering, toezicht en handhaving
 
-### Afdeling 5.1. Uitvoering door Autoriteit Consument en Markt
+#### Afdeling 5.1. Uitvoering door Autoriteit Consument en Markt
 
 ##### Artikel 5.1. samenwerking
 
@@ -1342,17 +1311,17 @@ Indien een aangeslotene elektriciteit teruglevert aan een marktdeelnemer die nie
 
 - c. andere instanties van betrokken lidstaten.
 
-2. De Autoriteit Consument en Markt werkt, onder meer teneinde de nationale markten op één of meer geografische gebieden als bedoeld in artikel 12, derde lid, van [verordening 715/2009](32009R0715) te integreren en samenwerking tussen een transmissiesysteembeheerder en een buitenlandse transmissiesysteembeheerder in deze gebieden aan te moedigen, samen met instellingen in andere lidstaten van de Europese Unie die op grond van nationale wettelijke regels zijn belast met de toepassing van de regels op het gebied van gas.
+2. De Autoriteit Consument en Markt werkt, onder meer teneinde de nationale markten op één of meer geografische gebieden als bedoeld in artikel 12, derde lid, van verordening 715/2009 te integreren en samenwerking tussen een transmissiesysteembeheerder en een buitenlandse transmissiesysteembeheerder in deze gebieden aan te moedigen, samen met instellingen in andere lidstaten van de Europese Unie die op grond van nationale wettelijke regels zijn belast met de toepassing van de regels op het gebied van gas.
 
 ##### Artikel 5.2. monitoring
 
 De Autoriteit Consument en Markt:
 
-- a. volgt in welke mate de elektriciteitsmarkt aan de doelstellingen, bedoeld in artikel 58 van [richtlijn 2019/944](32019L0944), voldoet;
+- a. volgt in welke mate de elektriciteitsmarkt aan de doelstellingen, bedoeld in artikel 58 van richtlijn 2019/944, voldoet;
 
-- b. volgt in welke mate de gasmarkt aan de doelstellingen, bedoeld in artikel 40 van [richtlijn 2009/73](32009L0073), voldoet;
+- b. volgt in welke mate de gasmarkt aan de doelstellingen, bedoeld in artikel 40 van richtlijn 2009/73, voldoet;
 
-- c. beoordeelt de samenhang tussen een investeringsplan als bedoeld in artikel 3.34 van de wet van een transmissiesysteembeheerder en het Uniebrede netontwikkelingsplan als bedoeld in artikel 30, eerste lid, onderdeel b, van [verordening 2019/943](32843R2019) of artikel 8, derde lid, onderdeel b, van [verordening 714/2009](32009R0714);
+- c. beoordeelt de samenhang tussen een investeringsplan als bedoeld in artikel 3.34 van de wet van een transmissiesysteembeheerder en het Uniebrede netontwikkelingsplan als bedoeld in artikel 30, eerste lid, onderdeel b, van verordening 2019/943 of artikel 8, derde lid, onderdeel b, van verordening 714/2009;
 
 - d. volgt het niveau van transparantie op de elektriciteits- en gasmarkten, met inbegrip van de groothandelsprijzen;
 
@@ -1372,11 +1341,11 @@ De Autoriteit Consument en Markt:
 
 De Autoriteit Consument en Markt publiceert:
 
-- a. jaarlijks aanbevelingen over de conformiteit van de leveringsprijzen met artikel 5 van [richtlijn 2019/944](32019L0944) en artikel 3 van [richtlijn 2009/73](32009L0073);
+- a. jaarlijks aanbevelingen over de conformiteit van de leveringsprijzen met artikel 5 van richtlijn 2019/944 en artikel 3 van richtlijn 2009/73;
 
 - b. jaarlijks de beoordelingen bedoeld in artikel 5.2, onderdeel c;
 
-- c. tot 1 januari 2036 jaarlijks een verslag met de belangrijkste marktontwikkelingen van levering op basis van een dynamische elektriciteitsprijs als bedoeld in artikel 2.9, van de wet, waaronder de ontwikkeling van het aanbod op de markt en de effecten op de facturen van de consument en de prijsvolatiliteit;
+- c. tot 1 januari 2036 jaarlijks een verslag met de belangrijkste marktontwikkelingen van levering op basis van een dynamische elektriciteitsprijs als bedoeld in artikel 2.9, van de wet, waaronder de ontwikkeling van het aanbod op de markt en de effecten op de facturen van de consument en de prijsvolatiliteit;
 
 - d. om de twee jaren aanbevelingen over de prestaties van de transmissie- en distributiesysteembeheerders voor elektriciteit met betrekking tot de ontwikkeling van een slim netwerk dat gericht is op energie-efficiëntie en de integratie van energie uit hernieuwbare bronnen;
 
@@ -1386,23 +1355,23 @@ De Autoriteit Consument en Markt publiceert:
 
 De Autoriteit Consument en Markt:
 
-- a. draagt bij aan de compatibiliteit van gegevensuitwisselingsprocessen voor de belangrijkste marktprocessen in één of meer geografische gebieden als bedoeld in artikel 34, derde lid, van [verordening 2019/943](32843R2019) of artikel 12, derde lid, van [verordening 715/2009](32009R0715);
+- a. draagt bij aan de compatibiliteit van gegevensuitwisselingsprocessen voor de belangrijkste marktprocessen in één of meer geografische gebieden als bedoeld in artikel 34, derde lid, van verordening 2019/943 of artikel 12, derde lid, van verordening 715/2009;
 
-- b. zorgt ervoor dat een transmissiesysteembeheerder voor elektriciteit ingevolge artikel 16 van [verordening 2019/943](32843R2019) zo veel mogelijk interconnectorcapaciteit beschikbaar stelt;
+- b. zorgt ervoor dat een transmissiesysteembeheerder voor elektriciteit ingevolge artikel 16 van verordening 2019/943 zo veel mogelijk interconnectorcapaciteit beschikbaar stelt;
 
 - c. draagt in voorkomend geval, met de instellingen in andere lidstaten van de Europese Unie die op grond van nationale wettelijke regels zijn aangewezen als nationale regulerende instantie, zorg voor de gezamenlijke vaststelling van niet-naleving van Unierechtelijke verplichtingen, van:
 
-- i. de ENTSB voor elektriciteit of de EU-DSB-entiteit;
+   - i. de ENTSB voor elektriciteit of de EU-DSB-entiteit;
 
-- ii. de regionale coördinatiecentra, opgericht uit hoofde van artikel 35 van [verordening 2019/943](32843R2019);
+   - ii. de regionale coördinatiecentra, opgericht uit hoofde van artikel 35 van verordening 2019/943;
 
 - d. brengt een certificeringsbeschikking voor een transmissiesysteembeheerder of een interconnectorsysteembeheerder als bedoeld in artikel 3.4, eerste of derde lid, van de wet, en alle relevante informatie in verband met dat besluit onverwijld ter kennis van de Europese Commissie.
 
-### Afdeling 5.2. Uitvoering door Onze Minister
+#### Afdeling 5.2. Uitvoering door Onze Minister
 
 ##### Artikel 5.5. strategische reserve
 
-Indien Onze Minister op grond van artikel 5.12, eerste lid, van de wet de transmissiesysteembeheerder voor elektriciteit opdraagt tot de inrichting van een strategische reserve als bedoeld in artikel 21, derde lid, van [verordening 2019/943](32843R2019), worden bij ministeriële regeling regels gesteld over, in ieder geval:
+Indien Onze Minister op grond van artikel 5.12, eerste lid, van de wet de transmissiesysteembeheerder voor elektriciteit opdraagt tot de inrichting van een strategische reserve als bedoeld in artikel 21, derde lid, van verordening 2019/943, worden bij ministeriële regeling regels gesteld over, in ieder geval:
 
 - a. het doel van de strategische reserve;
 
@@ -1414,7 +1383,7 @@ Indien Onze Minister op grond van artikel 5.12, eerste lid, van de wet de transm
 
 - e. overige regels die noodzakelijk zijn voor de inrichting van een strategische reserve.
 
-### Afdeling 5.3. Overige bepalingen
+#### Afdeling 5.3. Overige bepalingen
 
 ##### Artikel 5.6. retributies minister
 
@@ -1442,115 +1411,115 @@ Indien Onze Minister op grond van artikel 5.12, eerste lid, van de wet de transm
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
-### Afdeling 6.1. Wijziging andere besluiten
+#### Afdeling 6.1. Wijziging andere besluiten
 
-##### Artikel 6.1. wijziging [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
+##### Artikel 6.1. wijziging Arbeidsomstandighedenbesluit
 
-Wijzigt het Arbeidsomstandighedenbesluit.
+*Wijzigt het Arbeidsomstandighedenbesluit.*
 
-##### Artikel 6.2. wijziging [Asbestverwijderingsbesluit 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0019316)
+##### Artikel 6.2. wijziging Asbestverwijderingsbesluit 2005
 
-Wijzigt het Asbestverwijderingsbesluit 2005.
+*Wijzigt het Asbestverwijderingsbesluit 2005.*
 
-##### Artikel 6.3. wijziging [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330)
+##### Artikel 6.3. wijziging Besluit activiteiten leefomgeving
 
-Wijzigt het Besluit activiteiten leefomgeving.
+*Wijzigt het Besluit activiteiten leefomgeving.*
 
-##### Artikel 6.4. wijziging [Besluit beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041520)
+##### Artikel 6.4. wijziging Besluit beveiliging netwerk- en informatiesystemen
 
-Wijzigt het Besluit beveiliging netwerk- en informatiesystemen.
+*Wijzigt het Besluit beveiliging netwerk- en informatiesystemen.*
 
-##### Artikel 6.5. wijziging [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297)
+##### Artikel 6.5. wijziging Besluit bouwwerken leefomgeving
 
-Wijzigt het Besluit bouwwerken leefomgeving.
+*Wijzigt het Besluit bouwwerken leefomgeving.*
 
-##### Artikel 6.6. wijziging [Besluit doorberekening kosten ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0035712)
+##### Artikel 6.6. wijziging Besluit doorberekening kosten ACM
 
-Wijzigt het Besluit doorberekening kosten ACM.
+*Wijzigt het Besluit doorberekening kosten ACM.*
 
-##### Artikel 6.7. wijziging [Besluit energieprestatievergoeding huur](https://wetten.overheid.nl/jci1.3:c:BWBR0038456)
+##### Artikel 6.7. wijziging Besluit energieprestatievergoeding huur
 
-Wijzigt het Besluit energieprestatievergoeding huur.
+*Wijzigt het Besluit energieprestatievergoeding huur.*
 
-##### Artikel 6.8. wijziging [Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922)
+##### Artikel 6.8. wijziging Besluit energie vervoer
 
-Wijzigt het Besluit energie vervoer.
+*Wijzigt het Besluit energie vervoer.*
 
-##### Artikel 6.9. wijziging [Besluit Energy Star-etiketteringsprogramma](https://wetten.overheid.nl/jci1.3:c:BWBR0013503)
+##### Artikel 6.9. wijziging Besluit Energy Star-etiketteringsprogramma
 
-Wijzigt het Besluit Energy Star-etiketteringsprogramma.
+*Wijzigt het Besluit Energy Star-etiketteringsprogramma.*
 
-##### Artikel 6.10. wijziging [Besluit factuur, verbruiks- en indicatief kostenoverzicht energie](https://wetten.overheid.nl/jci1.3:c:BWBR0036646)
+##### Artikel 6.10. wijziging Besluit factuur, verbruiks- en indicatief kostenoverzicht energie
 
-Wijzigt het Besluit factuur, verbruiks- en indicatief kostenoverzicht energie.
+*Wijzigt het Besluit factuur, verbruiks- en indicatief kostenoverzicht energie.*
 
-##### Artikel 6.11. wijziging [Besluit gegevensverwerving CBS](https://wetten.overheid.nl/jci1.3:c:BWBR0016060)
+##### Artikel 6.11. wijziging Besluit gegevensverwerving CBS
 
-Wijzigt het Besluit gegevensverwerving CBS.
+*Wijzigt het Besluit gegevensverwerving CBS.*
 
-##### Artikel 6.12. wijziging [Besluit gemeentelijke schuldhulpverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0043850)
+##### Artikel 6.12. wijziging Besluit gemeentelijke schuldhulpverlening
 
-Wijzigt het Besluit gemeentelijke schuldhulpverlening.
+*Wijzigt het Besluit gemeentelijke schuldhulpverlening.*
 
-##### Artikel 6.13. wijziging [Besluit infrastructuur alternatieve brandstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0039567)
+##### Artikel 6.13. wijziging Besluit infrastructuur alternatieve brandstoffen
 
-Wijzigt het Besluit infrastructuur alternatieve brandstoffen.
+*Wijzigt het Besluit infrastructuur alternatieve brandstoffen.*
 
-##### Artikel 6.14. wijziging [Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835)
+##### Artikel 6.14. wijziging Besluit meetinstrumenten en marktdeelnemers
 
-Wijzigt het Besluit meetinstrumenten en marktdeelnemers.
+*Wijzigt het Besluit meetinstrumenten en marktdeelnemers.*
 
-##### Artikel 6.15. wijziging [Besluit op afstand uitleesbare meetinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0030605)
+##### Artikel 6.15. wijziging Besluit op afstand uitleesbare meetinrichtingen
 
-Wijzgt het Besluit op afstand uitleesbare meetinrichtingen.
+*Wijzgt het Besluit op afstand uitleesbare meetinrichtingen.*
 
-##### Artikel 6.16. wijziging [Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086)
+##### Artikel 6.16. wijziging Besluit politiegegevens
 
-Wijzigt het Besluit politiegegevens.
+*Wijzigt het Besluit politiegegevens.*
 
-##### Artikel 6.17. wijziging [Besluit stimulering duurzame energieproductie en klimaattransitie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735)
+##### Artikel 6.17. wijziging Besluit stimulering duurzame energieproductie en klimaattransitie
 
-Wijzigt het Besluit stimulering duurzame energieproductie en klimaattransitie.
+*Wijzigt het Besluit stimulering duurzame energieproductie en klimaattransitie.*
 
-##### Artikel 6.18. wijziging [Besluit toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0020184)
+##### Artikel 6.18. wijziging Besluit toezicht accountantsorganisaties
 
-Wijzigt het Besluit toezicht accountantsorganisaties.
+*Wijzigt het Besluit toezicht accountantsorganisaties.*
 
-##### Artikel 6.19. wijziging [Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394)
+##### Artikel 6.19. wijziging Mijnbouwbesluit
 
-Wijzigt het Mijnbouwbesluit.
+*Wijzigt het Mijnbouwbesluit.*
 
-##### Artikel 6.20. wijziging [Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278)
+##### Artikel 6.20. wijziging Omgevingsbesluit
 
-Wijzigt het Omgevingsbesluit.
+*Wijzigt het Omgevingsbesluit.*
 
-##### Artikel 6.21. wijziging [Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178)
+##### Artikel 6.21. wijziging Uitvoeringsbesluit belastingen op milieugrondslag
 
-Wijzigt het Uitvoeringsbesluit belastingen op milieugrondslag.
+*Wijzigt het Uitvoeringsbesluit belastingen op milieugrondslag.*
 
-##### Artikel 6.22. wijziging [Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007230)
+##### Artikel 6.22. wijziging Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken
 
-Wijzigt het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
+*Wijzigt het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.*
 
-### Afdeling 6.2. Overgangsrecht en samenloop
+#### Afdeling 6.2. Overgangsrecht en samenloop
 
 ##### Artikel 6.23. overgangsrecht maatregelen ter identificatie, authenticatie en autorisatie
 
-Wijzigt dit besluit.
+*Wijzigt dit besluit.*
 
 ##### Artikel 6.24. uitrol meetinrichtingen met communicatiefunctionaliteit
 
-De periode, bedoeld in artikel 7.28, eerste lid, van de wet is vanaf de inwerkingtreding van dat artikel tot 1 januari 2027.
+De periode, bedoeld in artikel 7.28, eerste lid, van de wet is vanaf de inwerkingtreding van dat artikel tot 1 januari 2027.
 
-##### Artikel 6.25. overgangsrecht wijziging [Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278)
+##### Artikel 6.25. overgangsrecht wijziging Omgevingsbesluit
 
 Op aanvragen die voor de inwerkingtreding van artikel 6.4 van dit besluit zijn ingediend is het recht dat gold onmiddellijk voor het tijdstip van inwerkingtreding van dat artikel van toepassing.
 
 ##### Artikel 6.26. samenloopbepaling beëindiging salderingsregeling voor elektriciteit
 
-Wijzigt dit besluit.
+*Wijzigt dit besluit.*
 
-### Afdeling 6.3. Slotbepalingen
+#### Afdeling 6.3. Slotbepalingen
 
 ##### Artikel 6.27. intrekken besluiten
 
@@ -1582,7 +1551,7 @@ De volgende besluiten worden ingetrokken:
 
 - m. het [Besluit uitvoering van Europese verordeningen betreffende de interne energiemarkt](https://wetten.overheid.nl/jci1.3:c:BWBR0041759);
 
-- n. het [Besluit van 2 september 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044086) tot wijziging van het Besluit factuur, verbruiks- en indicatief kostenoverzicht energie in verband met enkele aanpassingen betreffende de implementatie van [richtlijn 2012/27/EU](32012L0027) betreffende energie-efficiëntie;
+- n. het [Besluit van 2 september 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044086) tot wijziging van het Besluit factuur, verbruiks- en indicatief kostenoverzicht energie in verband met enkele aanpassingen betreffende de implementatie van richtlijn 2012/27/EU betreffende energie-efficiëntie;
 
 - o. het [Besluit vergunning levering elektriciteit aan kleinverbruikers](https://wetten.overheid.nl/jci1.3:c:BWBR0015051);
 
@@ -1599,5 +1568,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip,
 ##### Artikel 6.29. citeertitel
 
 Dit besluit wordt aangehaald als: Energiebesluit.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

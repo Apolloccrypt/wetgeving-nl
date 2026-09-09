@@ -1,50 +1,26 @@
 ---
 title: "Besluit van de inspecteur-generaal Leefomgeving en Transport van 5 november 2025, nr. ILT-2025/34978, houdende instelling van de Raad van Advies ILT (Instellingsbesluit Raad van Advies ILT) en intrekking van het Instellingsbesluit Raad van Advies ILT-IBRA van 30 september 2020, nr. ILT-2020/0930-148"
+citeertitel: "Instellingsbesluit Raad van Advies"
 identifier: "BWBR0051782"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-11-20"
-last_updated: "2025-11-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051782"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17604573"
-version_id: "31082362"
-internal_id: "C44501071"
-label_id: "17505024"
-dtd_version: "2.0"
-original_entry_into_force: "2025-11-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051782/2025-11-20/0"
-intitule_bron: "Stcrt.2025-39759"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-11-05"
-intitule_published: "2025-11-19"
-intitule_in_force: "2025-11-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-39759"
-original_signed_date: "2025-11-05"
-original_published_date: "2025-11-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-39759"
-entry_into_force_date: "2025-11-20"
-jci_1_3: "jci1.3:c:BWBR0051782&z=2025-11-20&g=2025-11-20"
-jci_1_0: "1.0:c:BWBR0051782&g=2025-11-20"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Raad van Advies"
-signed_date: "2025-11-05"
-entry_into_force: "2025-11-20"
+publicatiedatum: 2025-11-20
+laatste_update: 2025-11-20
+status: geldig
+toestand: 2025-11-20
+bron: "https://wetten.overheid.nl/BWBR0051782"
+opgehaald: 2026-09-09
 ---
-# Besluit van de inspecteur-generaal Leefomgeving en Transport van 5 november 2025, nr. ILT-2025/34978, houdende instelling van de Raad van Advies ILT (Instellingsbesluit Raad van Advies ILT) en intrekking van het Instellingsbesluit Raad van Advies ILT-IBRA van 30 september 2020, nr. ILT-2020/0930-148
 
-BESLUIT:
+# Besluit van de inspecteur-generaal Leefomgeving en Transport van 5 november 2025, nr. ILT-2025/34978, houdende instelling van de Raad van Advies ILT (Instellingsbesluit Raad van Advies ILT) en intrekking van het Instellingsbesluit Raad van Advies ILT-IBRA van 30 september 2020, nr. ILT-2020/0930-148
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **inspecteur-generaal:** de inspecteur-generaal Leefomgeving en Transport.
+- a. *inspecteur-generaal:* de inspecteur-generaal Leefomgeving en Transport.
 
-- b. **Raad van Advies:** de Raad van Advies, bedoeld in [artikel 2 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051782&artikel=2&z=2025-11-20&g=2025-11-20).
+- b. *Raad van Advies:* de Raad van Advies, bedoeld in [artikel 2 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051782&artikel=2&z=2025-11-20&g=2025-11-20).
 
 ##### Artikel 2. Instelling en taak
 
@@ -120,7 +96,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 11. Verantwoording
 
-1. De Raad van Advies biedt de inspecteur-generaal jaarlijks, vóór 1 maart van dat jaar, een verslag aan over zijn activiteiten in het daaraan voorafgaande jaar.
+1. De Raad van Advies biedt de inspecteur-generaal jaarlijks, vóór 1 maart van dat jaar, een verslag aan over zijn activiteiten in het daaraan voorafgaande jaar.
 
 2. De Raad van Advies biedt de inspecteur-generaal uiterlijk een maand voor het verstrijken van zijn benoemingstermijn een eindverslag over zijn activiteiten aan.
 
@@ -139,5 +115,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als Instellingsbesluit Raad van Advies.
-
-Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden verzonden aan betrokkenen.

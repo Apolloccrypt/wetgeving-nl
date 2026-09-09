@@ -1,58 +1,54 @@
 ---
-title: "Besluit mandaat, volmacht en machtiging bestuur huurcommissie 2024"
+title: "Besluit van de Minister van Volkshuisvesting en Ruimtelijke Ordening, van 20 augustus 2025, nr. 2025-0000493616, houdende de verlening van mandaat, volmacht en machtiging aan het bestuur van de Huurcommissie ten aanzien van de administratieve ondersteuning van de huurcommissie (Besluit mandaat, volmacht en machtiging bestuur huurcommissie 2024)"
+citeertitel: "Besluit mandaat, volmacht en machtiging bestuur huurcommissie 2024"
 identifier: "BWBR0051890"
 categorie: "Bestuursrecht"
+soort: "ministeriele-regeling"
 publicatiedatum: 2025-12-03
-laatste_update: 2026-06-02
+laatste_update: 2025-12-03
 status: geldig
+toestand: 2025-12-03
 bron: "https://wetten.overheid.nl/BWBR0051890"
+opgehaald: 2026-09-09
 ---
 
 # Besluit van de Minister van Volkshuisvesting en Ruimtelijke Ordening, van 20 augustus 2025, nr. 2025-0000493616, houdende de verlening van mandaat, volmacht en machtiging aan het bestuur van de Huurcommissie ten aanzien van de administratieve ondersteuning van de huurcommissie (Besluit mandaat, volmacht en machtiging bestuur huurcommissie 2024)
-
-Gelet op de [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315),
-
-Gelet op de [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1) en [artikel 4.6, eerste en tweede lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=4.6);
-
-Gelet op de instemming van het bestuur van de huurcommissie overeenkomstig [artikel 10:4, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **ministerie:** het Ministerie van Volkshuisvesting en Ruimtelijke Ordening;
+- a. *ministerie:* het Ministerie van Volkshuisvesting en Ruimtelijke Ordening;
 
-- b. **minister:** de Minister van Volkshuisvesting en Ruimtelijke Ordening;
+- b. *minister:* de Minister van Volkshuisvesting en Ruimtelijke Ordening;
 
-- c. **wet:** de [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315);
+- c. *wet:* de [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315);
 
-- d. **huurcommissie:** de huurcommissie, bedoeld in [artikel 3a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
+- d. *huurcommissie:* de huurcommissie, bedoeld in [artikel 3a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
-- e. **bestuur:** het bestuur van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
+- e. *bestuur:* het bestuur van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
-- f. **voorzitter:** de voorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
+- f. *voorzitter:* de voorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
-- g. **plaatsvervangend voorzitter:** de plaatsvervangend voorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
+- g. *plaatsvervangend voorzitter:* de plaatsvervangend voorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
-- h. **zittingsvoorzitter:** een zittingsvoorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
+- h. *zittingsvoorzitter:* een zittingsvoorzitter van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
-- i. **zittingslid:** een zittingslid van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
+- i. *zittingslid:* een zittingslid van de huurcommissie, bedoeld in [artikel 3a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a);
 
-- j. **administratieve ondersteuning:** de administratieve ondersteuning van de huurcommissie, bedoeld in de [artikelen 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3c) en [3h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3h) en aangeduid als dienst van de huurcommissie, overeenkomstig [artikel 1 van het Instellingsbesluit Dienst van de Huurcommissie](https://wetten.overheid.nl/jci1.3:c:BWBR0026930&artikel=1);
+- j. *administratieve ondersteuning:* de administratieve ondersteuning van de huurcommissie, bedoeld in de [artikelen 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3c) en [3h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3h) en aangeduid als dienst van de huurcommissie, overeenkomstig [artikel 1 van het Instellingsbesluit Dienst van de Huurcommissie](https://wetten.overheid.nl/jci1.3:c:BWBR0026930&artikel=1);
 
-- k. **directeur:** de uitvoerend directeur van de dienst van de huurcommissie, bedoeld in artikel 1, onder g, van het Organisatiebesluit dienst van de huurcommissie 2024;
+- k. *directeur:* de uitvoerend directeur van de dienst van de huurcommissie, bedoeld in artikel 1, onder g, van het Organisatiebesluit dienst van de huurcommissie 2024;
 
-- l. **plaatsvervangend directeur:** de plaatsvervanger van de directeur bij diens afwezigheid;
+- l. *plaatsvervangend directeur:* de plaatsvervanger van de directeur bij diens afwezigheid;
 
-- m. **strategisch manager:** manager van een of meerdere taakgebieden van de dienst van de huurcommissie, bedoeld in artikel 1, onder h, van het Organisatiebesluit dienst van de huurcommissie 2024;
+- m. *strategisch manager:* manager van een of meerdere taakgebieden van de dienst van de huurcommissie, bedoeld in artikel 1, onder h, van het Organisatiebesluit dienst van de huurcommissie 2024;
 
-- n. **teammanager:** de teammanager, bedoeld in artikel 1, onder i Organisatiebesluit dienst van de huurcommissie 2024 is de primaire lijnmanager met p-verantwoordelijkheid en daarnaast heeft de teammanager de verantwoordelijkheid voor de productie en de kwaliteit van het team;
+- n. *teammanager:* de teammanager, bedoeld in artikel 1, onder i Organisatiebesluit dienst van de huurcommissie 2024 is de primaire lijnmanager met p-verantwoordelijkheid en daarnaast heeft de teammanager de verantwoordelijkheid voor de productie en de kwaliteit van het team;
 
-- o. **managementondersteuner:** medewerker van de dienst van de huurcommissie, bedoeld in artikel 1, onder j, van het Organisatiebesluit dienst van de huurcommissie 2024;
+- o. *managementondersteuner:* medewerker van de dienst van de huurcommissie, bedoeld in artikel 1, onder j, van het Organisatiebesluit dienst van de huurcommissie 2024;
 
-- p. **functionaris:** medewerker van de Dienst van de Huurcommissie, bedoeld in artikel 1, onder k van het Organisatiebesluit dienst van de huurcommissie 2024.
+- p. *functionaris:* medewerker van de Dienst van de Huurcommissie, bedoeld in artikel 1, onder k van het Organisatiebesluit dienst van de huurcommissie 2024.
 
 ##### Artikel 2. Mandaat betreffende personeelsaangelegenheden en inrichting dienst van de huurcommissie
 
@@ -152,10 +148,8 @@ gevolgd door functieaanduiding, handtekening en naam van de functionaris.
 
 ##### Artikel 11. Slotbepalingen
 
-1. Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het besluit wordt geplaatst en heeft terugwerkende kracht tot en met 17 september 2024.
+1. Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het besluit wordt geplaatst en heeft terugwerkende kracht tot en met 17 september 2024.
 
 2. Het [Besluit mandaat, volmacht en machtiging bestuur huurcommissie 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042105) wordt ingetrokken.
 
 3. Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging bestuur huurcommissie 2024.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

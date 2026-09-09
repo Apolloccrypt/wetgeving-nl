@@ -1,74 +1,48 @@
 ---
 title: "Beleidsregel van de Inspecteur-Generaal van het onderwijs van 15 oktober 2025, nr. 51880053, houdende regels over het instemmen met afwijking van het verplichte minimum aantal uren onderwijstijd in de WPO, WEC en WVO 2020 alsmede het verlenen van ontheffing voor de toelatingsleeftijd en het uitschrijven van een 20+ leerling als bedoeld in de WEC en ontheffing voor de duur van de stage als bedoeld in het Onderwijskundig besluit WEC (Beleidsregel afwijken onderwijstijd funderend onderwijs en verlenen ontheffingen WEC 2025)"
+citeertitel: "Beleidsregel afwijken onderwijstijd funderend onderwijs en verlenen ontheffingen WEC 2025"
 identifier: "BWBR0051659"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051659"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "17566703"
-version_id: "30996012"
-internal_id: "C44389631"
-label_id: "17467814"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051659/2026-01-01/0"
-intitule_bron: "Stcrt.2025-36518"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-10-15"
-intitule_published: "2025-10-28"
-intitule_in_force: "2025-10-28"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-36518"
-original_signed_date: "2025-10-15"
-original_published_date: "2025-10-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-36518"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0051659&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0051659&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel afwijken onderwijstijd funderend onderwijs en verlenen ontheffingen WEC 2025"
-signed_date: "2025-10-15"
-entry_into_force: "2026-01-01"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0051659"
+opgehaald: 2026-09-09
 ---
+
 # Beleidsregel van de Inspecteur-Generaal van het onderwijs van 15 oktober 2025, nr. 51880053, houdende regels over het instemmen met afwijking van het verplichte minimum aantal uren onderwijstijd in de WPO, WEC en WVO 2020 alsmede het verlenen van ontheffing voor de toelatingsleeftijd en het uitschrijven van een 20+ leerling als bedoeld in de WEC en ontheffing voor de duur van de stage als bedoeld in het Onderwijskundig besluit WEC (Beleidsregel afwijken onderwijstijd funderend onderwijs en verlenen ontheffingen WEC 2025)
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=12), [artikel 14a, tweede lid, aanhef en onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14a), [artikel 25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=25), en [artikel 39, tweede en vijfde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=39), [artikel 8 van het Onderwijskundig besluit WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&artikel=8), [artikel 8, tiende lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=8) en [artikel 2.38, elfde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.38);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
-- **aanvraag afwijken onderwijstijd:** verzoek als bedoeld in [artikel 8, tiende lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=8), [artikel 2.38, elfde lid, WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.38) en de [artikelen 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=12), [14a, tweede lid, aanhef en onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14a), en [25, vijfde lid, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=25);
+- *aanvraag afwijken onderwijstijd:* verzoek als bedoeld in [artikel 8, tiende lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=8), [artikel 2.38, elfde lid, WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.38) en de [artikelen 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=12), [14a, tweede lid, aanhef en onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14a), en [25, vijfde lid, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=25);
 
-- **aanvraag afwijken toelatingsleeftijd:** verzoek toe te staan dat een kind eerder dan de vastgestelde toelatingsleeftijd wordt toegelaten tot de school als bedoeld in [artikel 39, tweede lid, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=39);
+- *aanvraag afwijken toelatingsleeftijd:* verzoek toe te staan dat een kind eerder dan de vastgestelde toelatingsleeftijd wordt toegelaten tot de school als bedoeld in [artikel 39, tweede lid, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=39);
 
-- **aanvraag maximale duur stage:** verzoek als bedoeld in [artikel 8, tweede lid, Onderwijskundig besluit WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&artikel=8);
+- *aanvraag maximale duur stage:* verzoek als bedoeld in [artikel 8, tweede lid, Onderwijskundig besluit WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&artikel=8);
 
-- **aanvraag ontheffing 20+ leerling:** verzoek tot ontheffing als bedoeld in [artikel 39, vijfde lid, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=39);
+- *aanvraag ontheffing 20+ leerling:* verzoek tot ontheffing als bedoeld in [artikel 39, vijfde lid, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=39);
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1 WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) of [artikel 1.1 WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
+- *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1 WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) of [artikel 1.1 WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
-- **handelingsdeel van het ontwikkelingsperspectief:** deel van het ontwikkelingsperspectief betreffende de individuele begeleiding als bedoeld in [artikel 40a, tweede lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=40a), [artikel 41a, tweede lid, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=41a) en [artikel 2.44, tweede lid, WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.44);
+- *handelingsdeel van het ontwikkelingsperspectief:* deel van het ontwikkelingsperspectief betreffende de individuele begeleiding als bedoeld in [artikel 40a, tweede lid, WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=40a), [artikel 41a, tweede lid, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=41a) en [artikel 2.44, tweede lid, WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.44);
 
-- **inspecteur of inspectie:** inspectie als bedoeld in [artikel 1, aanhef en onder b, Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=1);
+- *inspecteur of inspectie:* inspectie als bedoeld in [artikel 1, aanhef en onder b, Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=1);
 
-- **Instellingscode:** instellingscode van een school in de Registratie Instellingen en Opleidingen van de Dienst Uitvoering Onderwijs;
+- *Instellingscode:* instellingscode van een school in de Registratie Instellingen en Opleidingen van de Dienst Uitvoering Onderwijs;
 
-- **ontwikkelingsperspectief:** ontwikkelingsperspectief als bedoeld in [artikel 40a WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=40a), [artikel 2.44 WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.44) en [artikel 41a WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=41a);
+- *ontwikkelingsperspectief:* ontwikkelingsperspectief als bedoeld in [artikel 40a WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=40a), [artikel 2.44 WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.44) en [artikel 41a WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=41a);
 
-- **school:** school als bedoeld in [artikel 1 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), een school voor speciaal onderwijs als bedoeld in [artikel 2, tweede lid, onder f, h, j, k, m of n, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2), een school voor speciaal en voortgezet speciaal onderwijs als bedoeld in artikel 2, tweede lid onder f, h, j, k, m of n, een school voor voortgezet speciaal onderwijs als bedoeld in artikel 2 tweede lid onder f, h, j, k, m of n, van de WEC, een instelling als bedoeld in artikel 8, eerste lid, tweede en derde volzin van de WEC dan wel een school of scholengemeenschap als bedoeld in [artikel 1.1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
+- *school:* school als bedoeld in [artikel 1 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), een school voor speciaal onderwijs als bedoeld in [artikel 2, tweede lid, onder f, h, j, k, m of n, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2), een school voor speciaal en voortgezet speciaal onderwijs als bedoeld in artikel 2, tweede lid onder f, h, j, k, m of n, een school voor voortgezet speciaal onderwijs als bedoeld in artikel 2 tweede lid onder f, h, j, k, m of n, van de WEC, een instelling als bedoeld in artikel 8, eerste lid, tweede en derde volzin van de WEC dan wel een school of scholengemeenschap als bedoeld in [artikel 1.1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
-- **WEC:** [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
+- *WEC:* [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
 
-- **WPO:** [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
+- *WPO:* [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
 
-- **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
+- *WVO 2020:* [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
 ##### Artikel 2. Reikwijdte beleidsregel
 
@@ -78,9 +52,9 @@ Deze beleidsregel heeft betrekking op de wijze waarop de inspectie gebruik maakt
 
 - b. Op grond van een ingediende aanvraag afwijken toelatingsleeftijd toe te staan dat een kind in het speciaal onderwijs eerder wordt toegelaten dan de wettelijke toelatingsleeftijd;
 
-- c. op grond van een ingediende aanvraag ontheffing 20+leerling ontheffing te verlenen van het wettelijk voorschrift dat leerlingen het voortgezet speciaal onderwijs moeten verlaten aan het einde van het schooljaar waarin de leeftijd van 20 jaar bereikt is, en
+- c. op grond van een ingediende aanvraag ontheffing 20+leerling ontheffing te verlenen van het wettelijk voorschrift dat leerlingen het voortgezet speciaal onderwijs moeten verlaten aan het einde van het schooljaar waarin de leeftijd van 20 jaar bereikt is, en
 
-- d. op grond van een ingediende aanvraag maximale duur stage ontheffing te verlenen van het voorschrift dat de duur van de stage gedurende de cursusduur gemiddeld ten hoogste 50 procent bedraagt van het aantal uren waarin onderwijs wordt verzorgd.
+- d. op grond van een ingediende aanvraag maximale duur stage ontheffing te verlenen van het voorschrift dat de duur van de stage gedurende de cursusduur gemiddeld ten hoogste 50 procent bedraagt van het aantal uren waarin onderwijs wordt verzorgd.
 
 ##### Artikel 3. Aanvraag
 
@@ -104,7 +78,7 @@ Deze beleidsregel heeft betrekking op de wijze waarop de inspectie gebruik maakt
 
 - b. aanvraag maximale duur stage en een aanvraag afwijken toelatingsleeftijd: acht weken voorafgaand aan de periode waarop de aanvraag betrekking heeft;
 
-- c. aanvraag ontheffing 20+: uiterlijk 31 juli van het schooljaar waarin de leerling de leeftijd van 20 jaar heeft bereikt.
+- c. aanvraag ontheffing 20+: uiterlijk 31 juli van het schooljaar waarin de leerling de leeftijd van 20 jaar heeft bereikt.
 
 6. Een aanvraag afwijken onderwijstijd die niet tijdig is ingediend, maar die binnen een termijn van zes weken na de in de aanvraag opgenomen ingangsdatum is ingediend, wordt in behandeling genomen.
 
@@ -158,15 +132,15 @@ Deze beleidsregel heeft betrekking op de wijze waarop de inspectie gebruik maakt
 
 3. Het bevoegd gezag stuurt in aanvulling op de gegevens, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051659&artikel=3&z=2026-01-01&g=2026-01-01), de volgende gegevens mee met de aanvraag:
 
-- •. een afschrift van de stageovereenkomst als bedoeld in [artikel 9 Onderwijskundig besluit WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&artikel=9);
+- • een afschrift van de stageovereenkomst als bedoeld in [artikel 9 Onderwijskundig besluit WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&artikel=9);
 
-- •. een beschrijving van de aard van de werkzaamheden;
+- • een beschrijving van de aard van de werkzaamheden;
 
-- •. de beoogde ontheffingsomvang per schooljaar;
+- • de beoogde ontheffingsomvang per schooljaar;
 
-- •. een overzicht van het aantal weken stage voor elk van de schooljaren waarin de leerling voorafgaande aan de aanvraag al daadwerkelijk stage heeft gelopen; en
+- • een overzicht van het aantal weken stage voor elk van de schooljaren waarin de leerling voorafgaande aan de aanvraag al daadwerkelijk stage heeft gelopen; en
 
-- •. indien de onderbouwing van de aanvraag mede gebaseerd is op verklaringen van derde: de verklaringen van derden.
+- • indien de onderbouwing van de aanvraag mede gebaseerd is op verklaringen van derde: de verklaringen van derden.
 
 4. Een aanvraag kan worden toegekend indien genoegzaam is komen vast te staan dat:
 
@@ -212,9 +186,9 @@ Deze beleidsregel heeft betrekking op de wijze waarop de inspectie gebruik maakt
 
 - b. voldoende gebleken is dat dit verblijf:
 
-- 1°. voor een leerling in het uitstroomprofiel vervolgonderwijs wenselijk is ter voltooiing van zijn opleiding; of
+   - 1° voor een leerling in het uitstroomprofiel vervolgonderwijs wenselijk is ter voltooiing van zijn opleiding; of
 
-- 2°. voor een leerling in het arbeidsmarkt gerichte uitstroomprofiel wenselijk is ter voltooiing van een op verhoging van zijn arbeidsmarktgeschiktheid gerichte behandeling.
+   - 2° voor een leerling in het arbeidsmarkt gerichte uitstroomprofiel wenselijk is ter voltooiing van een op verhoging van zijn arbeidsmarktgeschiktheid gerichte behandeling.
 
 7. Indien de inspecteur na ontvangst van de aanvraag het nodig acht, kan hij op grond van [artikel 39, vijfde lid, WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=39) een rapport opvragen van de commissie voor de begeleiding dan wel aan de commissie van onderzoek. De commissie kan de betrokken leerling hiertoe aan een onderzoek onderwerpen.
 
@@ -234,7 +208,7 @@ Het [Besluit vaststelling beleidsregel inzake het instemmen met afwijking verpli
 
 ##### Artikel 10. Inwerkingtreding
 
-Deze beleidsregel wordt in de Staatscourant geplaatst en treedt in werking met ingang van 1 januari 2026.
+Deze beleidsregel wordt in de Staatscourant geplaatst en treedt in werking met ingang van 1 januari 2026.
 
 ##### Artikel 11. Citeertitel
 

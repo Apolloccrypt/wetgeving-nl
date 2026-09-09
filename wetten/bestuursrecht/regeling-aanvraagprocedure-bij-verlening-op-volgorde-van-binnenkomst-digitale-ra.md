@@ -1,44 +1,18 @@
 ---
 title: "Regeling van de Minister van Economische Zaken van 15 december 2025, nr. WJZ/102953095, tot vaststelling van regels met betrekking tot de aanvraag van vergunningen voor lokale commerciële radio-omroep (Regeling aanvraagprocedure bij verlening op volgorde van binnenkomst digitale commerciële radio-omroep DAB laag 6)"
+citeertitel: "Regeling aanvraagprocedure bij verlening op volgorde van binnenkomst digitale radio-omroep DAB laag 6"
 identifier: "BWBR0052020"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-12-24"
-last_updated: "2025-12-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052020"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "17692553"
-version_id: "31221592"
-internal_id: "C44657771"
-label_id: "17591654"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052020/2025-12-24/0"
-intitule_bron: "Stcrt.2025-44300"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-12-15"
-intitule_published: "2025-12-23"
-intitule_in_force: "2025-12-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-44300"
-original_signed_date: "2025-12-15"
-original_published_date: "2025-12-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-44300"
-entry_into_force_date: "2025-12-24"
-jci_1_3: "jci1.3:c:BWBR0052020&z=2025-12-24&g=2025-12-24"
-jci_1_0: "1.0:c:BWBR0052020&g=2025-12-24"
-citeertitel_status: "officieel"
-short_title: "Regeling aanvraagprocedure bij verlening op volgorde van binnenkomst digitale radio-omroep DAB laag 6"
-signed_date: "2025-12-15"
-entry_into_force: "2025-12-24"
+publicatiedatum: 2025-12-24
+laatste_update: 2025-12-24
+status: geldig
+toestand: 2025-12-24
+bron: "https://wetten.overheid.nl/BWBR0052020"
+opgehaald: 2026-09-09
 ---
+
 # Regeling van de Minister van Economische Zaken van 15 december 2025, nr. WJZ/102953095, tot vaststelling van regels met betrekking tot de aanvraag van vergunningen voor lokale commerciële radio-omroep (Regeling aanvraagprocedure bij verlening op volgorde van binnenkomst digitale commerciële radio-omroep DAB laag 6)
-
-Gelet op de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.8) en [3.11 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.11) en de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=11) en [12 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=12);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepaling
 
@@ -46,15 +20,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **aanvrager:** degene die een aanvraag voor een vergunning heeft ingediend;
+- *aanvrager:* degene die een aanvraag voor een vergunning heeft ingediend;
 
-- **allotment:** gebied dat gelegen is binnen de contouren zoals gevisualiseerd in de bijlage van de vergunning, inclusief het daar genoemde frequentieblok;
+- *allotment:* gebied dat gelegen is binnen de contouren zoals gevisualiseerd in de bijlage van de vergunning, inclusief het daar genoemde frequentieblok;
 
-- **minister:** Minister van Economische Zaken;
+- *minister:* Minister van Economische Zaken;
 
-- **Rijksinspectie Digitale Infrastructuur:** Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken;
+- *Rijksinspectie Digitale Infrastructuur:* Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken;
 
-- **vergunning:** vergunning voor het gebruik van 1/18e deel van de capaciteit van de frequentieruimte in het allotment waar de vergunning op ziet.
+- *vergunning:* vergunning voor het gebruik van 1/18e deel van de capaciteit van de frequentieruimte in het allotment waar de vergunning op ziet.
 
 ### Hoofdstuk 2. De aanvraag van een vergunning
 
@@ -114,17 +88,17 @@ Indien twee of meer aanvragen op dezelfde datum voldoen aan de wettelijke voorsc
 
 ### Hoofdstuk 4. Wijzigingen andere regelgeving
 
-##### Artikel 8. Wijziging [Regeling aanvraagprocedure bij verlening op volgorde van binnenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0015731)
+##### Artikel 8. Wijziging Regeling aanvraagprocedure bij verlening op volgorde van binnenkomst
 
-Wijzigt de Regeling aanvraagprocedure bij verlening op volgorde van binnenkomst.
+*Wijzigt de Regeling aanvraagprocedure bij verlening op volgorde van binnenkomst.*
 
-##### Artikel 9. Wijziging [Regeling extra vergunningen publieke mediadienst](https://wetten.overheid.nl/jci1.3:c:BWBR0036191)
+##### Artikel 9. Wijziging Regeling extra vergunningen publieke mediadienst
 
-Wijzigt de Regeling extra vergunningen publieke mediadienst.
+*Wijzigt de Regeling extra vergunningen publieke mediadienst.*
 
-##### Artikel 10. Wijziging [Tijdelijke regeling gebruiksbeperking commerciële radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213)
+##### Artikel 10. Wijziging Tijdelijke regeling gebruiksbeperking commerciële radio-omroep
 
-Wijzigt de Tijdelijke regeling gebruiksbeperking commerciële radio-omroep.
+*Wijzigt de Tijdelijke regeling gebruiksbeperking commerciële radio-omroep.*
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -135,5 +109,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanvraagprocedure bij verlening op volgorde van binnenkomst digitale radio-omroep DAB laag 6.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

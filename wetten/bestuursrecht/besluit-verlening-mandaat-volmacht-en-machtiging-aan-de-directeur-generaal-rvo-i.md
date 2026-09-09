@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, van 17 september 2025, nr. 2025-0000514186, houdende verlening van mandaat, volmacht en machtiging aan de directeur-generaal Rijksdienst voor Ondernemend Nederland in het kader van de Subsidieregeling Borgstelling MKB-kredieten Aruba, Curaçao en Sint Maarten"
+citeertitel: "Besluit verlening mandaat, volmacht en machtiging aan de directeur-generaal RVO in het kader van de Subsidieregeling Borgstelling MKB-kredieten Aruba, Curaçao en Sint Maarten"
 identifier: "BWBR0051559"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-10-04"
-last_updated: "2025-10-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051559"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "17538183"
-version_id: "30948712"
-internal_id: "C44330571"
-label_id: "17439624"
-dtd_version: "2.0"
-original_entry_into_force: "2025-10-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051559/2025-10-04/0"
-intitule_bron: "Stcrt.2025-33546"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-09-17"
-intitule_published: "2025-10-03"
-intitule_in_force: "2025-10-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-33546"
-original_signed_date: "2025-09-17"
-original_published_date: "2025-10-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-33546"
-entry_into_force_date: "2025-10-04"
-jci_1_3: "jci1.3:c:BWBR0051559&z=2025-10-04&g=2025-10-04"
-jci_1_0: "1.0:c:BWBR0051559&g=2025-10-04"
-citeertitel_status: "redactioneel"
-short_title: "Besluit verlening mandaat, volmacht en machtiging aan de directeur-generaal RVO in het kader van de Subsidieregeling Borgstelling MKB-kredieten Aruba, Curaçao en Sint Maarten"
-signed_date: "2025-09-17"
-entry_into_force: "2025-10-04"
+publicatiedatum: 2025-10-04
+laatste_update: 2025-10-04
+status: geldig
+toestand: 2025-10-04
+bron: "https://wetten.overheid.nl/BWBR0051559"
+opgehaald: 2026-09-09
 ---
+
 # Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, van 17 september 2025, nr. 2025-0000514186, houdende verlening van mandaat, volmacht en machtiging aan de directeur-generaal Rijksdienst voor Ondernemend Nederland in het kader van de Subsidieregeling Borgstelling MKB-kredieten Aruba, Curaçao en Sint Maarten
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4), [10:9, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9);
-
-Gezien de schriftelijke instemming van de directeur-generaal Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken van 15 september 2025, kenmerk 2025-0000557002;
-
-BESLUIT:
 
 ##### Artikel 1
 
@@ -68,7 +40,7 @@ Aan de directeur-generaal Rijksdienst voor Ondernemend Nederland wordt mandaat, 
 
 - a. algemene vragen;
 
-- b. verzoeken om schadevergoeding, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 5.000,– per verplichting niet te boven gaat;
+- b. verzoeken om schadevergoeding, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 5.000,– per verplichting niet te boven gaat;
 
 - c. klachten en klaagschriften als bedoeld in [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9);
 
@@ -91,5 +63,3 @@ gevolgd door de functieaanduiding, naam en handtekening van de gemandateerde, ge
 ##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

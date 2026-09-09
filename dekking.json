@@ -1,10 +1,10 @@
 {
- "gegenereerd": "2026-09-08",
+ "gegenereerd": "2026-09-09",
  "geverifieerd": true,
- "bwb_regelingen": 46897,
- "bwb_geldend": 22225,
- "site_totaal": 22427,
- "site_geldend": 22223,
+ "bwb_regelingen": 46901,
+ "bwb_geldend": 22229,
+ "site_totaal": 22431,
+ "site_geldend": 22227,
  "dekkingsgraad": 0.9999,
  "aantal_ontbrekend": 2,
  "aantal_ten_onrechte_geldig": 204,
@@ -720,7 +720,7 @@
   },
   {
    "id": "BWBR0051807",
-   "titel": "Besluit buitengewoon opsporingsambtenaar gemeente Amsterdam THOR/VTH 2025, domein II"
+   "titel": "Besluit van de Staatssecretaris van Justitie en Veiligheid van 14 november 2025 nr. BOACAT2025/200, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Amsterdam THOR"
   },
   {
    "id": "BWBR0051837",

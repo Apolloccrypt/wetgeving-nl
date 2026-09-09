@@ -1,50 +1,24 @@
 ---
 title: "Besluit directie van het CBR houdende vaststelling van een beleidsregel betreffende rijbewijskeuringen door keurend artsen"
+citeertitel: "Beleidsregel rijbewijskeuringen door keurend artsen"
 identifier: "BWBR0051976"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051976"
+categorie: "Verkeer"
 soort: "zbo"
-stam_id: "17681943"
-version_id: "31203822"
-internal_id: "C44635571"
-label_id: "17581514"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051976/2026-01-01/0"
-intitule_bron: "Stcrt.2025-40229"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-09-03"
-intitule_published: "2025-12-10"
-intitule_in_force: "2025-12-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-40229"
-original_signed_date: "2025-09-03"
-original_published_date: "2025-12-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-40229"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0051976&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0051976&g=2026-01-01"
-citeertitel_status: "redactioneel"
-short_title: "Beleidsregel rijbewijskeuringen door keurend artsen"
-signed_date: "2025-09-03"
-entry_into_force: "2026-01-01"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0051976"
+opgehaald: 2026-09-09
 ---
+
 # Besluit directie van het CBR houdende vaststelling van een beleidsregel betreffende rijbewijskeuringen door keurend artsen
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [artikel 2 van de Regeling eisen geschiktheid 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011362&artikel=2) en [artikel 100, leden 2, 3, 4 en 5 van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=100);
-
-Besluit:
 
 ### Artikel I
 
 Vastgesteld wordt de volgende beleidsregel:
 
-**CBR Beleidsregel rijbewijskeuringen door keurend artsen**
+*CBR Beleidsregel rijbewijskeuringen door keurend artsen*
 
 ### 1. Reikwijdte beleidsregel rijbewijskeuringen door keurend artsen
 
@@ -58,9 +32,47 @@ Voor de aanvraag van een verklaring van geschiktheid vraagt het CBR in bepaalde 
 
 Voor het opstellen van deze beleidsregel zijn de volgende informatiebronnen als uitgangspunten meegenomen:
 
-**Voorts zijn de volgende uitgangspunten aan de orde:**
+- – [Beleidsregel aanwijzing keurend medisch specialisten](https://wetten.overheid.nl/jci1.3:c:BWBR0037647) versie december 2018
+
+- – Wetgeving
+
+   - ○ [Wegenverkeerswet](https://wetten.overheid.nl/BWBR0006622), 01-01-2023
+
+   - ○ [Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074), 01-01-2023
+
+   - ○ [Regeling Eisen Geschiktheid 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011362), 01-07-2021
+
+   - ○ [Wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251) 01-04-2022,
+
+   - ○ [WGBO](https://wetten.overheid.nl/jci1.3:c:BWBR0007021) ([Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290), 18-02-2023- [afdeling 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&afdeling=5))
+
+   - ○ AVG, 01-07-2021
+
+   - ○ [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+
+   - ○ [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173), 2022
+
+- – Richtlijnen
+
+   - ○ [KNMG richtlijn Omgaan met medische gegevens,](https://www.knmg.nl/advies-richtlijnen/knmg-publicaties/omgaan-met-medische-gegevens)januari 2024
+
+   - ○ [KNMG - Kwaliteitskader medische zorg Staan voor kwaliteit, 23-04-2012](https://www.knmg.nl/advies-richtlijnen/dossiers/kwaliteitskader)
+
+   - ○ [Tuchtrechtbesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0008688) 01-04-2022
+
+*Voorts zijn de volgende uitgangspunten aan de orde:*
+
+- – Met verslaglegging wordt bedoeld het ingevulde vragenformulier of keuringsverslag als bedoeld in [artikel 100 van het Reglement Rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=100).
+
+- – Een keurend arts is een in Nederland geregistreerde arts, conform [artikel 100 RR](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=100), die genoemde verslaglegging doet.
+
+- – De keurend arts kan de behandelend arts zijn, dan wel een onafhankelijke arts. Bij de verslaglegging gaat het om het aanleveren van objectieve, feitelijke informatie. Om deze reden mag dus ook de eigen arts de keuring uitvoeren.
+
+- – Het uitvoeren van een keuring CDE is niet vanzelfsprekend voor iedere keurend arts. Hiervoor is een actuele samenwerking nodig met een gecertificeerde arbodienst of bedrijfsarts die bekend is met de branche vervoer en transport die zijn taken delegeert. De bedrijfsarts blijft verantwoordelijk voor de kwaliteit en de verslaglegging van de keuring, ook wanneer taken gedelegeerd worden.
 
 ### 2. Toelichting
+
+Algemeen
 
 De divisie Rijgeschiktheid van het CBR beoordeelt de rijgeschiktheid.
 
@@ -70,9 +82,15 @@ Ten behoeve van de aanvraag van een Verklaring van Geschiktheid dient betrokkene
 
 Afhankelijk van de reden van de aanvraag en/of de antwoorden die een betrokkene op een Gezondheidsverklaring invult volgt de verplichting om een vragenlijst of vragenlijsten in te laten vullen en/of een keuringsverslag op te laten stellen door een keurend arts. Ook kan het CBR de burger doorverwijzen naar een specialist voor een specialistische keuring. De vragenlijst(en), het keuringsverslag en/of het keuringsrapport worden door de arts aan het CBR bekend gemaakt. Medisch adviseurs van het CBR voeren op basis van deze informatie een beoordeling uit en nemen een besluit over de rijgeschiktheid van de betrokkene.
 
+Kwaliteit keuring
+
 Het toezicht op de kwaliteit van rijbewijskeuringen is in Nederland niet expliciet bij een instantie belegd. Klachten kunnen door burgers ingediend worden bij de aanbieder van de keuringen. In aanvulling daarop houdt de Nederlandse Zorgautoriteit toezicht op de tarieven en kan er van ernstige incidenten melding gemaakt worden bij de Inspectie Gezondheidszorg en Jeugd (IGJ). Complicerende factor daarbij is echter dat rijbewijskeuringen niet onder de definitie van zorg vallen zoals deze van toepassing is volgens de Zorgverzekeringswet. Ook het CBR heeft geen formele rol bij het toezicht houden op de kwaliteit van de keuringen. De keurend artsen en medische specialisten hebben als zelfstandig beroepsbeoefenaren hun eigen verantwoordelijkheid.
 
-Het CBR ziet aanleiding om meer regie te nemen op de (kwaliteit van de) totale keten. De verslaglegging van keuringen door externe aanbieders maakt immers onderdeel uit van de klantreis in het proces van de rijgeschiktheidsbeoordeling. Daarbij zijn veel burgers zich niet bewust van het feit dat de artsen die de keuringen uitvoeren, niet in dienst zijn van het CBR. In aanvulling daarop is de kwaliteit van de keuring belangrijk voor de medische informatie waar het CBR het besluit over de rijgeschiktheid van de burgers op baseert. Dientengevolge is het borgen van een bepaalde kwaliteit ook van belang voor de verkeersveiligheid. Voor medisch specialisten die rapportages opstellen ten behoeve van de beoordeling van rijgeschiktheid bestaat sinds 1 december 2018 reeds de beleidsregel ‘aanwijzing keurend medisch specialisten’. Voor de keuringen van 75-plussers en beroepschauffeurs bestond tot op heden echter nog geen vergelijkbare beleidsregel. Mede naar aanleiding van ontvangen klachten van burgers en berichtgeving in de media is, in samenwerking met de Nederlandse Vereniging van Rijbewijskeuringsartsen (NVVR), de Vereniging van Keuringsartsen (VVK), een verkenning gestart om de kwaliteit van deze keuringen aantoonbaar te verbeteren.
+Regie op de keten
+
+Het CBR ziet aanleiding om meer regie te nemen op de (kwaliteit van de) totale keten. De verslaglegging van keuringen door externe aanbieders maakt immers onderdeel uit van de klantreis in het proces van de rijgeschiktheidsbeoordeling. Daarbij zijn veel burgers zich niet bewust van het feit dat de artsen die de keuringen uitvoeren, niet in dienst zijn van het CBR. In aanvulling daarop is de kwaliteit van de keuring belangrijk voor de medische informatie waar het CBR het besluit over de rijgeschiktheid van de burgers op baseert. Dientengevolge is het borgen van een bepaalde kwaliteit ook van belang voor de verkeersveiligheid. Voor medisch specialisten die rapportages opstellen ten behoeve van de beoordeling van rijgeschiktheid bestaat sinds 1 december 2018 reeds de beleidsregel ‘aanwijzing keurend medisch specialisten’. Voor de keuringen van 75-plussers en beroepschauffeurs bestond tot op heden echter nog geen vergelijkbare beleidsregel. Mede naar aanleiding van ontvangen klachten van burgers en berichtgeving in de media is, in samenwerking met de Nederlandse Vereniging van Rijbewijskeuringsartsen (NVVR), de Vereniging van Keuringsartsen (VVK), een verkenning gestart om de kwaliteit van deze keuringen aantoonbaar te verbeteren.
+
+Beleidsregel, kwaliteitskader, richtlijnen
 
 Deze verkenning heeft tot resultaat gehad dat het CBR een beleidsregel ‘rijbewijskeuringen door keurend artsen’ heeft ontwikkeld en dat daarnaast een kwaliteitskader tot stand gekomen is. Dit kwaliteitskader sluit aan op de beleidsregel en schetst de kwaliteitskaders waarbinnen keuringen dienen plaats te vinden.
 
@@ -132,9 +150,15 @@ De betrokkene heeft het eerste recht om de verslaglegging van de keurend arts te
 
 De keurend arts heeft de plicht betrokkene te informeren over onderstaande rechten.
 
+Inzagerecht
+
 De betrokkene heeft het recht om de verslaglegging in te zien, voordat het naar het CBR gestuurd wordt.
 
+Correctierecht
+
 De betrokkene heeft het recht om de keurend arts te verzoeken feitelijke onjuistheden te corrigeren.
+
+Blokkeringsrecht
 
 De betrokkene heeft het recht om de keuze te maken dat de verslaglegging niet naar het CBR verzonden mag worden. De betrokkene maakt dan gebruik van het blokkeringsrecht. [Artikel 97, vierde lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=97) bepaalt dat wanneer betrokkene gebruik maakt van het blokkeringsrecht, hij een jaar lang niet in aanmerking komt voor een Verklaring van geschiktheid.
 
@@ -150,9 +174,13 @@ Bij binnenkomst is het voor de betrokkene duidelijk waar hij zich kan melden of 
 
 ### 4.5.2. Bereikbaarheid van de keurend arts/organisatie
 
+Telefonisch of digitaal
+
 De keurend arts is telefonisch of digitaal goed bereikbaar voor de betrokkene.
 
 De betrokkene krijgt binnen vijf werkdagen een reactie op het bericht dat hij heeft achtergelaten.
+
+Bereikbaarheid voor het CBR
 
 De keurend arts stelt een telefoonnummer en emailadres ter beschikking voor communicatie met medewerkers van het CBR.
 
@@ -204,6 +232,14 @@ Wanneer de betrokkene een klacht indient over de keurend arts bij het CBR, biedt
 
 Het CBR heeft ten opzichte van de keurend arts de volgende verplichtingen:
 
+- – Het CBR is beschikbaar voor inhoudelijk overleg via de artsenlijn op werkdagen van 9 tot 16 uur via 088 227 6300, zie ook [https://www.cbr.nl/nl/voor-artsen/nl/contact/intercollegiaal-overleg](https://www.cbr.nl/nl/voor-artsen/nl/contact/intercollegiaal-overleg)
+
+- – Het CBR informeert de keurend arts over procedurewijzigingen via de nieuwsbrief voor keurend artsen per email en plaatsing op [www.cbr.nl/voorartsen](http://www.cbr.nl/voorartsen).
+
+- – Wijzigingen van de beleidsregel worden pas doorgevoerd nadat consultatie heeft plaatsgevonden bij een delegatie van keurend artsen.
+
+- – Ter bevordering van de deskundigheid stelt het CBR e-learnings beschikbaar op het gebied van rijbewijskeuringen en het proces dat daarmee samenhangt.
+
 ### 8. Kwaliteitstoetsing en opvolging
 
 Het CBR vergewist zich er op verschillende manieren van of de keurend artsen aan de toepasselijke eisen voldoen. Op verzoek van het CBR werkt de keurend arts mee aan door het CBR ingestelde kwaliteitstoetsingen. Een kwaliteitstoetsing kan gestart worden in het kader van een algemene kwaliteitstoetsing of op indicatie. Een indicatie wordt gesteld op basis van meldingen, zowel intern als extern, of klachten van betrokkenen. Bij een kwaliteitstoetsing wordt objectief getoetst of de keurend arts voldoet aan de eisen gesteld in deze beleidsregel. De uitkomst van de toetsing kan leiden tot niet-vrijblijvende vervolgafspraken/maatregelen.
@@ -214,7 +250,7 @@ De uitslag van de kwaliteitstoetsing wordt altijd met de keurend arts gedeeld. E
 
 ### Artikel II
 
-Deze beleidsregel treedt in werking met ingang van 1 januari 2026.
+Deze beleidsregel treedt in werking met ingang van 1 januari 2026.
 
 ### Artikel III
 

@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Asiel en Migratie van 17 december 2025 (kenmerk 7002790/25/DP&O), houdende verlening van mandaat, volmacht en machtiging (Mandaatbesluit Ministerie van Asiel en Migratie)"
+citeertitel: "Mandaatbesluit Asiel en Migratie"
 identifier: "BWBR0051994"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-12-20"
-last_updated: "2024-07-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051994"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17687263"
-version_id: "31210372"
-internal_id: "C44643551"
-label_id: "17586314"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051994/2025-12-20/0"
-intitule_bron: "Stcrt.2025-44393"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-12-17"
-intitule_published: "2025-12-19"
-intitule_in_force: "2025-12-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-44393"
-original_signed_date: "2025-12-17"
-original_published_date: "2025-12-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-44393"
-entry_into_force_date: "2025-12-20"
-jci_1_3: "jci1.3:c:BWBR0051994&z=2025-12-20&g=2025-12-20"
-jci_1_0: "1.0:c:BWBR0051994&g=2025-12-20"
-citeertitel_status: "officieel"
-short_title: "Mandaatbesluit Asiel en Migratie"
-signed_date: "2025-12-17"
-entry_into_force: "2025-12-20"
+publicatiedatum: 2025-12-20
+laatste_update: 2025-12-20
+status: geldig
+toestand: 2025-12-20
+bron: "https://wetten.overheid.nl/BWBR0051994"
+opgehaald: 2026-09-09
 ---
+
 # Besluit van de Minister van Asiel en Migratie van 17 december 2025 (kenmerk 7002790/25/DP&O), houdende verlening van mandaat, volmacht en machtiging (Mandaatbesluit Ministerie van Asiel en Migratie)
-
-Gelet op de [Regeling voortzetting mandaat, volmacht en machtiging beleidsterreinen Justitie en Veiligheid en Asiel en Migratie](https://wetten.overheid.nl/jci1.3:c:BWBR0049965) (Stcrt. 2024, 23190) en de [Regeling voortzetting mandaat, volmacht en machtiging Ministerie van Asiel en Migratie 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051962) (Stcrt. 2025, 43601)
-
-Besluit:
 
 ##### Artikel 1
 
@@ -90,10 +64,8 @@ Vóór het tijdstip van inwerkingtreding van dit besluit van kracht zijnde manda
 
 ##### Artikel 6
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, werkt terug tot en met 2 juli 2024.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, werkt terug tot en met 2 juli 2024.
 
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Mandaatbesluit Asiel en Migratie.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

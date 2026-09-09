@@ -1,52 +1,26 @@
 ---
 title: "Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 9 oktober 2025, nr. 2025-0000572637, houdende regels voor de verstrekking van subsidies voor activiteiten in Aruba, Curaçao of Sint Maarten die een positieve bijdrage leveren aan de lokale gemeenschap (Subsidieregeling Klein Projecten Fonds) [KetenID WGK027362]"
+citeertitel: "Subsidieregeling Klein Projecten Fonds"
 identifier: "BWBR0051635"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051635"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "17557233"
-version_id: "30980832"
-internal_id: "C44368851"
-label_id: "17458414"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051635/2026-01-01/0"
-intitule_bron: "Stcrt.2025-35084"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-10-09"
-intitule_published: "2025-10-22"
-intitule_in_force: "2025-10-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-35084"
-original_signed_date: "2025-10-09"
-original_published_date: "2025-10-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-35084"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0051635&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0051635&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling Klein Projecten Fonds"
-signed_date: "2025-10-09"
-entry_into_force: "2026-01-01"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0051635"
+opgehaald: 2026-09-09
 ---
+
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 9 oktober 2025, nr. 2025-0000572637, houdende regels voor de verstrekking van subsidies voor activiteiten in Aruba, Curaçao of Sint Maarten die een positieve bijdrage leveren aan de lokale gemeenschap (Subsidieregeling Klein Projecten Fonds) [KetenID WGK027362]
-
-gelet op [artikel 3, eerste lid, van de Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=3) en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=8) en [11, tweede en derde lid, van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- –. **De Minister:** de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- – *De Minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- –. **Maatschappelijke organisatie:** een niet op winst gerichte, niet aan een overheidsinstantie statutair of feitelijk verbonden organisatie met een maatschappelijk oogmerk, beschikkend over rechtspersoonlijkheid naar burgerlijk recht, die niet door een overheidsinstantie is opgericht, dan wel die na oprichting door een overheidsinstantie geheel verzelfstandigd is.
+- – *Maatschappelijke organisatie:* een niet op winst gerichte, niet aan een overheidsinstantie statutair of feitelijk verbonden organisatie met een maatschappelijk oogmerk, beschikkend over rechtspersoonlijkheid naar burgerlijk recht, die niet door een overheidsinstantie is opgericht, dan wel die na oprichting door een overheidsinstantie geheel verzelfstandigd is.
 
 ##### Artikel 2. Subsidieverstrekking
 
@@ -62,7 +36,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Subsidieplafond en wijze van verdeling
 
-1. Het subsidieplafond bedraagt ten hoogste het bedrag dat in de begroting van Koninkrijksrelaties (Hoofdstuk IV) is opgenomen ten behoeve van het Klein Projecten Fonds.
+1. Het subsidieplafond bedraagt ten hoogste het bedrag dat in de begroting van Koninkrijksrelaties (Hoofdstuk IV) is opgenomen ten behoeve van het Klein Projecten Fonds.
 
 2. Van het beschikbare bedrag is ten hoogste:
 
@@ -76,20 +50,18 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. De aanvraag
 
-1. Onverminderd [artikel 4:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:2) en [artikel 11, derde lid, van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11) bevat de aanvraag het inschrijfnummer van de aanvrager bij de Kamer van Koophandel en Nijverheid in Aruba, de Kamer van Koophandel en Industrie in Curaçao of de Kamer van Koophandel en Industrie in Sint Maarten.
+1. Onverminderd [artikel 4:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:2) en [artikel 11, derde lid, van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11) bevat de aanvraag het inschrijfnummer van de aanvrager bij de Kamer van Koophandel en Nijverheid in Aruba, de Kamer van Koophandel en Industrie in Curaçao of de Kamer van Koophandel en Industrie in Sint Maarten.
 
-2. De aanvraag dient schriftelijk voor 1 december van het kalenderjaar waarop de aanvraag ziet te worden ingediend.
+2. De aanvraag dient schriftelijk voor 1 december van het kalenderjaar waarop de aanvraag ziet te worden ingediend.
 
 ##### Artikel 5. Horizonbepaling
 
-Deze regeling vervalt met ingang van 1 januari 2031, met dien verstande dat deze van toepassing blijft op aanvragen om subsidies die voor deze datum zijn ingediend.
+Deze regeling vervalt met ingang van 1 januari 2031, met dien verstande dat deze van toepassing blijft op aanvragen om subsidies die voor deze datum zijn ingediend.
 
 ##### Artikel 6. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2026.
+Deze regeling treedt in werking met ingang van 1 januari 2026.
 
 ##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Klein Projecten Fonds.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

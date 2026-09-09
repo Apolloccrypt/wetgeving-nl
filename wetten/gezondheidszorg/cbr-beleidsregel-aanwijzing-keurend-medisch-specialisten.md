@@ -1,50 +1,24 @@
 ---
 title: "Besluit directie van het CBR houdende vaststelling van een beleidsregel betreffende het afgeven en intrekken van aanwijzingen van keurend medisch specialisten (CBR beleidsregel aanwijzing keurend medisch specialisten)"
+citeertitel: "CBR beleidsregel aanwijzing keurend medisch specialisten"
 identifier: "BWBR0051978"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051978"
+categorie: "Gezondheidszorg"
 soort: "zbo"
-stam_id: "17683493"
-version_id: "31205842"
-internal_id: "C44637651"
-label_id: "17583374"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051978/2026-01-01/0"
-intitule_bron: "Stcrt.2025-40230"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-09-04"
-intitule_published: "2025-12-10"
-intitule_in_force: "2025-12-10"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-40230"
-original_signed_date: "2025-09-04"
-original_published_date: "2025-12-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-40230"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0051978&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0051978&g=2026-01-01"
-citeertitel_status: "redactioneel"
-short_title: "CBR beleidsregel aanwijzing keurend medisch specialisten"
-signed_date: "2025-09-04"
-entry_into_force: "2026-01-01"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0051978"
+opgehaald: 2026-09-09
 ---
+
 # Besluit directie van het CBR houdende vaststelling van een beleidsregel betreffende het afgeven en intrekken van aanwijzingen van keurend medisch specialisten (CBR beleidsregel aanwijzing keurend medisch specialisten)
-
-Gelet op de [artikelen 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [133, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=133), en [101, eerste lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=101);
-
-Besluit:
 
 ### Artikel I
 
 Vastgesteld wordt de volgende beleidsregel:
 
-**CBR Beleidsregel aanwijzing keurend medisch specialisten**
+*CBR Beleidsregel aanwijzing keurend medisch specialisten*
 
 ### 1. Kader van deze beleidsregel aanwijzing keurend medisch specialisten
 
@@ -52,13 +26,53 @@ Deze beleidsregel legt vast aan welke eisen de medisch specialisten moeten voldo
 
 De beleidsregel bevat regels over de aanmeldingsprocedure voor de aanwijzing als keurend medisch specialist, de toepasselijke vereisten, de geldigheidsduur, de wijze waarop kwaliteit van de keuringen bewaakt wordt en hoe bezwaar en beroep geregeld zijn.
 
-De medisch adviseur van het CBR heeft de bevoegdheid om in bepaalde gevallen voor de beoordeling van de rijgeschiktheid van een (aankomende) rijbewijsbezitter een rapport van een medisch specialist te verlangen ([Wegenverkeerswet](onbekend), [Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074)). Met deze beleidsregel wordt invulling gegeven aan de wijze waarop het CBR zijn bevoegdheden uitoefent tot uitvoering van:
+De medisch adviseur van het CBR heeft de bevoegdheid om in bepaalde gevallen voor de beoordeling van de rijgeschiktheid van een (aankomende) rijbewijsbezitter een rapport van een medisch specialist te verlangen ([Wegenverkeerswet](https://wetten.overheid.nl/BWBR0006622), [Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074)). Met deze beleidsregel wordt invulling gegeven aan de wijze waarop het CBR zijn bevoegdheden uitoefent tot uitvoering van:
+
+- • een onderzoek naar de geschiktheid als bedoeld in [artikel 131, eerste lid, aanhef en onderdeel c, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=131) (hierna: de Mededelingenprocedure);
+
+- • een keuring door een of meer door het CBR aangewezen artsen (in aanvulling op de vragenlijst(en) of het keuringsverslag) als bedoeld in [artikel 101, eerste lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=101) (hierna: de Gezondheidsverklaringsprocedure).
 
 Waar in de beleidsregel melding wordt gemaakt van de medisch specialist, wordt hiermee de onafhankelijk keurend medisch specialist bedoeld.
+
+Opstellen beleidsregel
 
 De eerste versie van de beleidsregel ‘Aanwijzing keurend medisch specialisten’ van het CBR is in mei 2015 gepubliceerd in de Staatscourant. Gevolgd door een herziening in december 2018. Bij het opstellen van deze versie heeft de beleidsregel een revisie ondergaan, met als doel verduidelijking en vernieuwen van deze beleidsregel. Bij deze revisie is een vertegenwoordiging van de keurend medisch specialisten betrokken geweest. De definitieve wijziging is met alle ingeschreven medisch specialisten actief gecommuniceerd. Deze versie vervangt voorgaande versies.
 
 Voor het opstellen van deze beleidsregel zijn de volgende bronnen meegenomen:
+
+- – [Beleidsregel aanwijzing keurend medisch specialisten](https://wetten.overheid.nl/jci1.3:c:BWBR0037647) versie december 2018
+
+- – Wetgeving
+
+   - ○ [Wegenverkeerswet](https://wetten.overheid.nl/BWBR0006622), 01-01-2023
+
+   - ○ [Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074), 01-01-2023
+
+   - ○ [Regeling Eisen Geschiktheid 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011362), 01-07-2021
+
+   - ○ [Wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251), 01-04-2022
+
+   - ○ [WGBO](https://wetten.overheid.nl/jci1.3:c:BWBR0007021) ([Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290), 18-02-2023- [afdeling 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&afdeling=5))
+
+   - ○ AVG, 01-07-2021
+
+   - ○ [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+
+   - ○ [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173), 2022
+
+- – Richtlijnen
+
+   - ○ [KNMG richtlijn Omgaan met medische gegevens, januari 2024](https://www.knmg.nl/actueel/publicaties/omgaan-met-medische-gegevens)
+
+   - ○ [KNMG – Kwaliteitskader medische zorg Staan voor kwaliteit, 23-04-2012](https://www.knmg.nl/advies-richtlijnen/dossiers/kwaliteitskader)
+
+   - ○ [Richtlijn Werkgroep Medisch Specialistische Rapportages (NVMSR), dec 2024](https://nvmsr.nl/wp-content/uploads/2024/12/NVMSR-Richtlijn-Richtlijn-voor-medisch-specialistische-rapportage-in-bestuurs-en-civielrechtelijk-verband-2024.pdf)
+
+   - ○ [Tuchtrechtbesluit BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0008688), 01-04-2022
+
+   - ○ [NVvP richtlijn Alcoholmisbruik in het kader van rijgeschiktheidskeuringen, juli 2020](https://richtlijnendatabase.nl/richtlijn/alcoholmisbruik_in_het_kader_van_rijgeschiktheidskeuringen/startpagina_-_alcoholmisbruik_in_het_kader_van_rijgeschiktheidskeuringen.html)
+
+   - ○ [NVvP richtlijn Drugsmisbruik in het kader van rijgeschiktheidskeuringen, februari 2022](https://richtlijnendatabase.nl/richtlijn/drugsmisbruik_in_het_kader_van_rijgeschiktheidskeuringen/startpagina_-_drugsmisbruik_in_het_kader_van_rijgeschiktheidskeuringen.html)
 
 ### 2. Toelichting
 
@@ -66,17 +80,29 @@ Binnen de divisie Rijgeschiktheid van het CBR wordt de rijgeschiktheid beoordeel
 
 Het CBR toetst het rapport van de medisch specialist aan de [Regeling eisen geschiktheid 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011362), waarin de Minister van Infrastructuur en Waterstaat de eisen met betrekking tot de rijgeschiktheid heeft opgenomen.
 
+Gezondheidsverklaringsprocedure
+
 In de gezondheidsverklaringsprocedure dient de betrokkene zelf een Gezondheidsverklaring in. Redenen voor insturen van een Gezondheidsverklaring zijn met name het afleggen van een rijexamen, vernieuwing van een verlopen of ongeldig rijbewijs en een melding van twijfel aan de rijgeschiktheid bij een geldig rijbewijs.
+
+Mededelingenprocedure
 
 De mededelingenprocedure wordt gestart na ontvangst van een mededeling. Deze kan van de politie komen, maar kan ook gebaseerd zijn op een melding van een vermoeden van ongeschiktheid door derden, zoals bijvoorbeeld een behandelend arts. Naar aanleiding van de mededeling kan een maatregel opgelegd worden (bijvoorbeeld een Educatieve Maatregel Alcohol en verkeer) of een onderzoek ingesteld worden. Betreft dit een onderzoek naar de geschiktheid, dan is een keuring door een onafhankelijk keurend medisch specialist onderdeel van de beoordeling.
 
-Wanneer in één van beide procedures een specialistische keuring noodzakelijk is, wordt hiernaar verwezen door de medisch adviseur van het CBR. Sinds 1 mei 2023 is hierbij het uitgangspunt dat, bij een verwijzing naar een onafhankelijk medisch specialist, de betrokkene de vrije keuze krijgt binnen de lijst van bij het CBR ingeschreven onafhankelijk keurend specialisten. Hiervoor worden de praktijkgegevens van de medisch specialist gedeeld op de website van het CBR. In bepaalde gevallen (een tweede onderzoek in de mededelingenprocedure, een herkeuring in de gezondheidsverklaringsprocedure, bij zeldzame ziektebeelden, bij een verwijzing voor neuropsychologisch onderzoek, etc.) verwijst de medisch adviseur van het CBR naar een specifieke medisch specialist.
+Verwijzen naar een onafhankelijk medisch specialist
+
+Wanneer in één van beide procedures een specialistische keuring noodzakelijk is, wordt hiernaar verwezen door de medisch adviseur van het CBR. Sinds 1 mei 2023 is hierbij het uitgangspunt dat, bij een verwijzing naar een onafhankelijk medisch specialist, de betrokkene de vrije keuze krijgt binnen de lijst van bij het CBR ingeschreven onafhankelijk keurend specialisten. Hiervoor worden de praktijkgegevens van de medisch specialist gedeeld op de website van het CBR. In bepaalde gevallen (een tweede onderzoek in de mededelingenprocedure, een herkeuring in de gezondheidsverklaringsprocedure, bij zeldzame ziektebeelden, bij een verwijzing voor neuropsychologisch onderzoek, etc.) verwijst de medisch adviseur van het CBR naar een specifieke medisch specialist.
 
 Doordat de betrokkene bij de meeste verwijzingen de vrije keuze heeft, heeft het CBR geen invloed op de aantallen keuringen die een medisch specialist verricht.
 
+Uitwisseling van gegevens
+
 Noodzakelijke gegevens voor de keuring (zoals bijvoorbeeld de reden van verwijzing of een eerder specialistisch rapport) worden in het artsenportaal aan de medisch specialist beschikbaar gesteld als input voor de keuring. Hierbij wordt ook een keuringsformulier klaargezet met -in specifieke gevallen- de mogelijkheid om een eigen rapportage te uploaden. Hierdoor is toegang tot het artsenportaal dus een randvoorwaarde voor de inschrijving als onafhankelijk keurend specialist.
 
+Expertise
+
 De betrokkene wordt verwezen voor een specialistische keuring. Dit betekent dat aan de medisch specialist, als expert op zijn vakgebied, een beoordeling gevraagd wordt. Het rapport dient dan ook, buiten de onderzoeksgegevens, een conclusie en een advies ten aanzien van de rijgeschiktheid te bevatten. Hierbij blijft de medisch specialist binnen de eigen professionele verantwoordelijkheid en expertise.
+
+Vergewisplicht
 
 In het kader van de vergewisplicht beoordeelt de medisch adviseur of de conclusies gedragen worden door de bevindingen en of de inhoud van het rapport consistent en concludent is. Als dat niet het geval is, wordt een aanvullende vraag gesteld aan de medisch specialist die het rapport opgesteld heeft. De medisch specialist houdt zich bij de beantwoording van deze aanvullende vraag aan zijn eigen professionele verantwoordelijkheid.
 
@@ -86,9 +112,17 @@ In het kader van de vergewisplicht beoordeelt de medisch adviseur of de conclusi
 
 De medisch specialist, die aangewezen wil worden als onafhankelijk keurend medisch specialist, meldt zich aan bij specialistenbeheer van het CBR. Op [de website van het CBR](https://www.cbr.nl/nl/voor-artsen/nl/contact/specialistenbeheer.htm) zijn het registratieformulier en de contactgegevens van specialistenbeheer hiervoor beschikbaar.
 
-Voor het verkrijgen en behouden van de aanwijzing als medisch specialist dient deze aan de vereisten in deze beleidsregel te voldoen. Specialistenbeheer controleert in het kader van de aanmeldingsprocedure of de medisch specialist voldoet aan de eisen gesteld onder 4.1.
+Voor het verkrijgen en behouden van de aanwijzing als medisch specialist dient deze aan de vereisten in deze beleidsregel te voldoen. Specialistenbeheer controleert in het kader van de aanmeldingsprocedure of de medisch specialist voldoet aan de eisen gesteld onder [4.1](https://wetten.overheid.nl/BWBR0051978).
 
 ### 3.2. Aanwijzingscriteria
+
+- – De medisch specialist voldoet aan de eisen gesteld onder [4.1](https://wetten.overheid.nl/BWBR0051978).
+
+- – De medisch specialist voldoet aan de organisatorische eisen onder [4.5](https://wetten.overheid.nl/BWBR0051978).
+
+- – Aanvullende eis mededelingenprocedure: de medisch specialist heeft minimaal 6 maanden keuringen in de gezondheidsverklaringsprocedure verricht. In deze periode heeft de medisch specialist minimaal 15 keuringen verricht. Uitzondering: een oogarts meldt zich direct aan voor beide procedures.
+
+- – Wanneer een medisch specialist keuringen in de mededelingenprocedure gaat verrichten wordt hij ingeschreven voor hetzelfde type keuringen als hij in de gezondheidsverklaringsprocedure verricht.
 
 ### 4. Wat verwachten we van de medisch specialist
 
@@ -99,6 +133,18 @@ De medisch specialist, die zich aanmeldt om keuringen te gaan verrichten, volgt 
 Voor de situaties waarvoor nog geen online training beschikbaar is, wordt de introductietraining persoonlijk gegeven. Vanwege het persoonlijke karakter van deze introductietraining is de medisch specialist niet verplicht om vervolgens ook deel te nemen aan de kennismakingsbijeenkomst. Deze eis vervalt in die gevallen.
 
 Verder stelt het CBR de volgende vereisten aan de medisch specialist:
+
+- – De medisch specialist is als arts ingeschreven in het BIG-register. Hierbij is er geen tuchtrechtelijke maatregel van toepassing waarbij de medisch specialist (tijdelijk) zijn beroep als arts niet mag uitvoeren. Evenmin is hij strafrechtelijk veroordeeld voor een feit gepleegd in het kader van zijn medisch beroep.
+
+- – De medisch specialist is als medisch specialist ingeschreven in het desbetreffende register van RGS (Registratiecommissie Geneeskundig Specialisten). Binnen zijn vakgebied is hij bekwaam ten aanzien van het terrein waarop de vraagstelling voor de keuring betrekking heeft.
+
+- – De medisch specialist heeft, voordat hij keuringen in de mededelingenprocedure gaat verrichten:
+
+   - ○ minimaal 6 maanden ervaring en minimaal 15 keuringen verricht in de gezondheidsverklaringsprocedure en heeft de introductie voor het verrichten van keuringen in de mededelingenprocedure gevolgd, of
+
+   - ○ aantoonbare kennis en ervaring op het gebied van deze keuringen, doordat hij al voor de ingang van de eerste versie van deze beleidsregel (mei 2015) ingeschreven was voor het verrichten van deze keuringen bij het CBR.
+
+- – Een uitzondering is de oogheelkundig medisch specialist: deze volgt één introductietraining voor zowel de gezondheidsverklaringsprocedure als de mededelingenprocedure. Dit onderscheid is gemaakt omdat de oogheelkundige beoordeling, in tegenstelling tot de keuringen bij andere specialismen, berust op objectieve feiten en vrijwel niet op interpretatie.
 
 ### 4.2. Vereisten keuring
 
@@ -124,11 +170,25 @@ De medisch specialist onthoudt zich van waardeoordelen tegenover de betrokkene o
 
 De rapportage van de beoordelend arts moet volgens vaste tuchtrechtspraak voldoen aan de volgende eisen:
 
+- • Het rapport vermeldt de feiten, omstandigheden en bevindingen waarop het berust.
+
+- • Uit het rapport blijkt dat de arts een geschikte onderzoeksmethode heeft gebruikt om de voorgelegde vraagstelling te beantwoorden.
+
+- • In het rapport zet de arts op inzichtelijke en consistente wijze uiteen op welke gronden de conclusies van het rapport steunen.
+
+- • Het rapport vermeldt de bronnen waarop het berust, inclusief de gebruikte literatuur en de geconsulteerde personen.
+
+- • De rapporteur blijft binnen de grenzen van zijn deskundigheid.
+
 Met dit als uitgangspunt voldoet het rapport aan onderstaande eisen:
+
+Deskundigheid
 
 De medisch specialist geeft zijn advies op grond van de actuele medische wetenschap en in zijn vakgebied algemeen aanvaarde inzichten en opvattingen. Hij doet geen uitspraken die buiten zijn vakgebied of anderszins buiten zijn competentie vallen.
 
 Uit het rapport blijkt dat de medisch specialist de beperkingen van de betrokkene baseert op zijn eigen professionele oordeel en dat hij niet slechts de door de onderzochte genoemde beperkingen heeft overgenomen. Hij toetst de mededelingen van de onderzochte op plausibiliteit en consistentie, waarna hij op basis van zijn expertise beoordeelt of de betrokkene voldoet aan de eisen gesteld in de [Regeling eisen geschiktheid 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011362).
+
+Zorgvuldigheid
 
 De specialist besteedt de nodige zorg aan een overzichtelijke opbouw en indeling van het rapport. Het rapport ziet er professioneel uit. In het rapport wordt zorg verleend aan correct, zakelijk en begrijpelijk taalgebruik.
 
@@ -136,9 +196,15 @@ Informatie van derden (bijvoorbeeld behandelend artsen of informatie vanuit het 
 
 Onnodig medisch jargon, ingewikkeld taalgebruik en het gebruik van afkortingen moeten, waar mogelijk, worden vermeden. Een rapport moet ook begrijpelijk zijn voor niet-medici, zoals de rechter bij een eventuele beroepszaak.
 
+Onbevooroordeeldheid
+
 De medisch specialist heeft een open en onbevooroordeelde attitude ten opzichte van verbale en non-verbale uitingen van de betrokkene over diens gezondheidstoestand en ten opzichte van medisch-wetenschappelijke gegevens over de aard en het beloop van ziektebeelden of syndromen. De medisch specialist onderbouwt zijn bevindingen met toetsbare redeneringen en verwijzingen.
 
+Toetsbaarheid
+
 Constateringen berusten aantoonbaar op feiten, zodat een ander op basis daarvan tot dezelfde constatering kan komen (‘repliceerbaarheid’) dan wel die constatering kan verwerpen (‘falsificeerbaarheid’). Om die reden vermeldt de expert de bronnen waarop zijn conclusies berusten. Daaronder vallen ook eventueel geraadpleegde personen of gebruikte literatuur.
+
+Relevantie en zuinigheid
 
 De medisch specialist geeft in zijn rapport alleen aan wat relevant is voor het goed beantwoorden van de vragen. Hij geeft geen overbodige beschouwingen.
 
@@ -149,6 +215,8 @@ De beschrijving van de anamnese is deugdelijk en compleet, en beperkt zich tot d
 De specialist verricht een adequaat lichamelijk en/of specialistisch (bv psychiatrisch of neurologisch) onderzoek voor zover dat relevant is voor de beantwoording van de vraagstelling.
 
 Indien de medisch specialist bevindingen doet waar niet naar wordt gevraagd maar die hij ter zake relevant vindt ten aanzien van de rijgeschiktheid, dan vermeldt hij deze in het rapport.
+
+Consistentie
 
 Het rapport vermeldt de feiten, omstandigheden en bevindingen waarop het berust.
 
@@ -162,7 +230,11 @@ Als de anamnese niet overeenkomt met vaststelbare feiten of eerder gedane anamne
 
 Indien de medisch specialist aanvullend hulponderzoek (radiologisch, neuropsychologisch of anderszins) laat verrichten, betrekt hij de uitkomsten bij zijn overwegingen en voegt hij de verslagleggingen van deze onderzoeken bij het expertiserapport.
 
+Hanteren van een algemeen aanvaardbare onderzoeksmethode
+
 Onderzoeksmethoden die (nog) niet gevalideerd of binnen de vakgroep niet algemeen geaccepteerd zijn, kunnen niet gebruikt worden bij de beoordeling van de rijgeschiktheid.
+
+Gegevensbescherming
 
 De medisch specialist dient zich te houden aan de wettelijke bepalingen inzake de bescherming van persoonsgegevens, zoals onder andere vastgelegd in de Algemene Verordening Gegevensbescherming (AVG).
 
@@ -172,15 +244,27 @@ De betrokkene heeft het eerste recht om de uitslag van de keuring te vernemen. H
 
 De specialist heeft de plicht mogelijk te maken dat de betrokkene gebruik kan maken van benoemde rechten. De specialist moet ook de inhoud en gevolgen van die rechten goed toelichten en vastleggen wat hierover besproken is.
 
+Inzagerecht
+
 De betrokkene heeft het recht om het rapport in te zien, voordat het naar het CBR gestuurd wordt.
 
 Wanneer de betrokkene gebruik maakt van het inzagerecht om mogelijk gebruik te maken van het correctie- of blokkeringsrecht, krijgt de betrokkene een duidelijke termijn van twee weken waarbinnen hij moet reageren. De specialist bespreekt duidelijk met de betrokkene wat zijn rechten en plichten met betrekking tot deze rechten zijn en wat de gevolgen kunnen zijn van een blokkade van het rapport. De specialist bespreekt dit tijdens de keuring en geeft het te volgen proces en de mogelijke gevolgen ook schriftelijk aan bij versturing van het rapport ter inzage.
 
+- – Conform [artikel 97, vierde lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=97) geldt dat de betrokkene bij gebruik van het blokkeringsrecht gedurende één jaar niet in aanmerking komt voor afgifte van een Verklaring van Geschiktheid.
+
+- – Indien zwaarwegende omstandigheden aan de orde zijn, waardoor de betrokkene redelijkerwijs niet binnen de termijn van twee weken kon reageren (bijvoorbeeld door ziekenhuisopname of detentie), kan de medisch specialist in overleg met het CBR besluiten af te wijken van de hierboven gestelde termijn.
+
+Correctierecht
+
 De betrokkene heeft het recht om de medisch specialist te verzoeken feitelijke onjuistheden te corrigeren.
+
+Blokkeringsrecht
 
 De betrokkene heeft het recht om de keuze te maken dat het rapport niet naar het CBR verzonden mag worden. Hij maakt dan gebruik van het blokkeringsrecht.
 
 [Artikel 97, vierde lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=97) bepaalt dat wanneer de betrokkene gebruik maakt van het blokkeringsrecht, hij een jaar lang niet in aanmerking komt voor een Verklaring van Geschiktheid.
+
+Formulieren
 
 [Op de website](https://www.cbr.nl/nl/voor-artsen/nl/achtergrondinformatie/inzage-correctie-en-blokkeringsrecht.htm) stelt het CBR (voorbeeld)formulieren ter beschikking, die door de medisch specialist gebruikt kunnen worden voor het afzien van het blokkeringsrecht en het gebruik van het correctie- en blokkeringsrecht.
 
@@ -198,19 +282,27 @@ De locatie is rolstoeltoegankelijk. Als dit niet zo is, stelt de medisch special
 
 ### 4.5.2. Bereikbaarheid
 
+Fysiek
+
 De keuringslocatie is fysiek goed bereikbaar, bij voorkeur ook met openbaar vervoer.
+
+Telefonisch
 
 De medisch specialist is op vaste tijden telefonisch bereikbaar voor de betrokkene. Dit is voor betrokkene en CBR inzichtelijk.
 
 Bij een goede digitale bereikbaarheid is telefonische bereikbaarheid geen vereiste.
 
+Digitaal
+
 De betrokkene krijgt binnen twee werkdagen antwoord op zijn bericht dat hij digitaal heeft achtergelaten. Kan er digitaal een afspraak gemaakt worden, dan ontvangt hij binnen twee werkdagen een bevestiging van deze afspraak.
+
+Bereikbaarheid voor het CBR
 
 De medisch specialist stelt een telefoonnummer en een emailadres ter beschikking voor communicatie vanuit specialistenbeheer en de behandelaars van het CBR.
 
 ### 4.5.3. Beschikbaarheid
 
-De medisch specialist is beschikbaar voor keuringen. De medisch specialist stelt het CBR op de hoogte wanneer hij (tijdelijk) niet beschikbaar is. Dit geldt ook wanneer de medisch specialist geen afspraken meer kan maken met de betrokkene binnen het onder 4.5.5 gestelde tijdspad.
+De medisch specialist is beschikbaar voor keuringen. De medisch specialist stelt het CBR op de hoogte wanneer hij (tijdelijk) niet beschikbaar is. Dit geldt ook wanneer de medisch specialist geen afspraken meer kan maken met de betrokkene binnen het onder [4.5.5](https://wetten.overheid.nl/BWBR0051978) gestelde tijdspad.
 
 Wijzigingen in beschikbaarheid worden doorgegeven aan specialistenbeheer van het CBR.
 
@@ -220,19 +312,45 @@ Om de betrokkene bij een vrije keuze binnen de lijst van bij het CBR ingeschreve
 
 Afspraken die gelden bij een vermelding in de specialistenzoeker:
 
+- • De specialist of organisatie kan aan specialistenbeheer doorgeven op welke keuringslocaties binnen 6 weken afspraken gemaakt kunnen worden door een klant. Deze zijn vervolgens zichtbaar in de specialistenzoeker;
+
+- • Er worden geen tarieven genoemd in de specialistenzoeker;
+
+- • Bij zoeken in de specialistenzoeker op een CBR specialisme1De CBR specialismen zijn de specialismen die een specialist binnen het rijgeschiktheidskader van het CBR kan hebben. Binnen de neurologie hebben we bijvoorbeeld de volgende CBR specialismen: neuroloog algemeen, epilepsie, OSAS, syncope, cognitieve stoornissen en narcolepsie. mag een organisatie per locatie maar één keer naar voren komen. Dit geldt ook voor dochterorganisaties;
+
+- • Bij zoeken in de specialistenzoeker op een CBR specialisme mag een individuele specialist per locatie maar één keer naar voren komen;
+
+- • De aanbieders blijven er naar streven dat op de keuringslocaties, die zichtbaar zijn op de specialistenzoeker, binnen 4 weken (zie [paragraaf 4.5.5](https://wetten.overheid.nl/BWBR0051978)) een afspraak kan worden gemaakt;
+
+- • De aanbieders geven per direct aan specialistenbeheer door als een locatie geen capaciteit meer heeft om binnen 6 weken een afspraak te plannen. Deze locatie is vervolgens niet meer zichtbaar op de specialistenzoeker totdat er weer beschikbaarheid is en deze gemeld is.
+
+Doorgeven wijzigingen
+
 Elke wijziging wordt door de specialist of organisatie zo snel mogelijk per e-mail doorgegeven aan specialistenbeheer. Dit betreft wijzigingen in adresgegevens, contactgegevens en andere gegevens die in de specialistenzoeker zichtbaar zijn. Conform bovenstaande afspraken wordt ook aan specialistenbeheer doorgegeven wanneer géén sprake van beschikbaarheid is. De specialist of organisatie geeft hierbij aan per welke datum een wijziging ingaat. Wanneer sprake is van tijdelijk niet beschikbaar zijn, geeft de organisatie of specialist zo mogelijk ook direct de datum waarop weer beschikbaarheid is door.
 
 Voor het doorgeven van de wijzigingen gebruikt de specialist het e-mailadres van specialistenbeheer: rijgeschiktheid.specialistenbeheer@cbr.nl
 
 Doorgegeven wijzigingen worden binnen 2 werkdagen verwerkt. De specialist ontvangt hiervan een bevestiging. Een aangebrachte wijziging is de volgende werkdag zichtbaar in de specialistenzoeker.
 
+Consequenties niet doorgeven wijziging in beschikbaarheid
+
+- • Wanneer het CBR zelf constateert of erop wordt geattendeerd dat een locatie zichtbaar is in de specialistenzoeker, waar niet binnen 6 weken een afspraak kan worden gemaakt op het boekingssysteem van de aanbieder én dit de volgende werkdag nog steeds het geval is, dan zal in de regel specialistenbeheer de zichtbaarheid in de specialistenzoeker voor tenminste een week annuleren en dit via e-mail bevestigen aan de aanbieder.
+
+- • De aanbieder kan op elk gewenst moment na deze ‘sluitingsweek’ aan specialistenbeheer doorgeven dat er weer capaciteit beschikbaar is om een afspraak te maken binnen 6 weken.
+
 ### 4.5.5. Tijdspad
 
-Wanneer de betrokkene contact opneemt voor het maken van een afspraak, vindt de afspraak binnen vier weken na het eerste contact plaats. Hier kan in specifieke situaties van afgeweken worden, bijvoorbeeld wanneer de vereiste periode van ongeschiktheid nog net niet verstreken is binnen deze 3 weken en de betrokkene alvast een afspraak wil maken voor daarna. Dit betreft bijvoorbeeld in geval van de vereiste recidiefvrije periode bij alcohol- of drugsmisbruik, de aanvalsvrije periode bij epilepsie en de vereiste periode van adequate behandeling bij bepaalde slaapstoornissen. Deze uitzondering geldt niet voor keuringen in het kader van de mededelingenprocedure.
+Afspraak maken
+
+Wanneer de betrokkene contact opneemt voor het maken van een afspraak, vindt de afspraak binnen vier weken na het eerste contact plaats. Hier kan in specifieke situaties van afgeweken worden, bijvoorbeeld wanneer de vereiste periode van ongeschiktheid nog net niet verstreken is binnen deze 3 weken en de betrokkene alvast een afspraak wil maken voor daarna. Dit betreft bijvoorbeeld in geval van de vereiste recidiefvrije periode bij alcohol- of drugsmisbruik, de aanvalsvrije periode bij epilepsie en de vereiste periode van adequate behandeling bij bepaalde slaapstoornissen. Deze uitzondering geldt niet voor keuringen in het kader van de mededelingenprocedure.
+
+Tijd van keuring tot rapport
 
 Volgens [artikel 133, zevende lid, van de Wegenverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=133) (mededelingenprocedure) en [artikel 102, eerste lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=102) (gezondheidsverklaringsprocedure) moet het rapport van de keuring binnen 8 weken na de keuring door het CBR zijn ontvangen.
 
 Op basis van deze beleidsregel moet het CBR het rapport binnen 4 weken na de keuring hebben ontvangen, met uitzondering van de keuringen in verband met een vermoeden van alcohol- en/of drugsmisbruik, waarvoor een ontvangsttermijn van 6 weken geldt.
+
+Aanvullende vragen
 
 Aanvullende vragen van de medisch adviseur of de jurist van het CBR worden door de medisch specialist binnen twee weken na ontvangst beantwoord. Kan de specialist, bij een aanvullende vraag van een jurist van het CBR, niet voldoen aan deze twee weken dan bespreekt de specialist dit met de desbetreffende jurist.
 
@@ -252,11 +370,33 @@ Hetzelfde geldt voor het antwoord op de aanvullende vragen van de medisch advise
 
 Het CBR heeft kennis genomen van de bestaande richtlijnen, zoals de richtlijnen voor de alcohol en drugskeuringen van de NVvP en de richtlijn ‘Medisch specialistische rapportages’ van de NVMSR (2024).
 
-Op grond van de [Regeling eisen geschiktheid 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011362) ([hoofdstuk 2](onbekend)) wordt een medisch specialistisch rapport in het kader van het onderzoek naar de rijgeschiktheid opgesteld en ondertekend door de medisch specialist. Daarbij is het (ook) toegestaan dat delen van het onderzoek onder supervisie van de medisch specialist zijn uitgevoerd door een derde.
+Op grond van de [Regeling eisen geschiktheid 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011362) ([hoofdstuk 2](https://wetten.overheid.nl/BWBR0011362)) wordt een medisch specialistisch rapport in het kader van het onderzoek naar de rijgeschiktheid opgesteld en ondertekend door de medisch specialist. Daarbij is het (ook) toegestaan dat delen van het onderzoek onder supervisie van de medisch specialist zijn uitgevoerd door een derde.
 
 Het CBR stelt, gelet op het voorgaande de volgende eisen aan het verrichten van keuringen onder supervisie:
 
+- • Het advies betreffende de geschiktheid tot het besturen van motorvoertuigen kan en mag alleen gegeven worden door de in de [REG2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011362) aangegeven specialist;
+
+- • De specialist stelt het keuringsverslag op en is daarvoor inhoudelijk verantwoordelijk;
+
+- • Delen van het onderzoek mogen onder supervisie verricht worden;
+
+- • De specialist stelt de betrokkene vooraf op de hoogte van het feit dat het onderzoek deels onder supervisie plaats zal vinden en geeft daarbij de betrokkene de mogelijkheid om óf alleen door de specialist zelf gezien te willen worden óf de afspraak binnen een bepaalde termijn kosteloos te annuleren en een afspraak bij een andere specialist te maken;
+
+- • De specialist verricht zowel de specialistische anamnese als het onderzoek mede zelf en heeft daarbij altijd kennis genomen van de meegestuurde gegevens, evenals van de resultaten en interpretatie van eventueel aanvullend onderzoek;
+
+- • De specialist die optreedt als supervisor moet redelijkerwijs aan kunnen nemen dat de persoon, die onder supervisie een deel van de keuring verricht, beschikt over de bekwaamheid die vereist is om een deel van de keuring te verrichten;
+
+- • De persoon, die delen van de keuring onder supervisie verricht, moet voldoen aan hetgeen in de toelichting van de [REG2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011362) staat: een deskundige of bekwame persoon die zelf geen arts is. Als voorbeelden kunnen worden genoemd de nurse practitioner (een verpleegkundige met een HBO masteropleiding), de technisch-oogheelkundig assistent, de coassistent (student met een doctoraal titel in opleiding tot arts) en de psycholoog;
+
+- • In de rapportage wordt de naam en functie opgenomen van de persoon, die een deel van de keuring onder supervisie verricht heeft;
+
 Het CBR is niet verantwoordelijk voor het opleiden van deze persoon. Deze verantwoordelijkheid ligt bij de specialist. Online trainingen van het CBR kunnen gevolgd worden door zowel de medisch specialist als de persoon die werkt onder supervisie van de medisch specialist;
+
+- – Op de locatie waar de keuringen plaatsvinden moet de supervisor aanwezig zijn om vragen te kunnen beantwoorden en correctief te kunnen optreden;
+
+- – Alleen bij oogheelkundige keuringen met een zeer lage complexiteit (met uitzondering van keuringen in de herkeuringsprocedure en in de mededelingenprocedure) is het toegestaan dat de keuring uitgevoerd wordt door een optometrist, waarbij de oogarts supervisie op afstand geeft. De oogarts is hierbij, als medisch specialist, professioneel verantwoordelijk voor de keuring en voert de beoordeling uit op basis van de meetwaarden en fundusfoto’s. Ook is de oogarts verantwoordelijk voor de beoordeling of de complexiteit van de aandoening aanleiding geeft tot een (extra) fysieke beoordeling door de oogarts zelf. Tot slot is de oogarts ook verantwoordelijk om de betrokkene voorafgaand aan de keuring te informeren dat de keuring door een optometrist onder supervisie op afstand wordt uitgevoerd en dat er mogelijk op indicatie een tweede afspraak bij de oogarts plaats zal moeten vinden;
+
+- – Oogheelkundige keuringen zijn de enige uitzonderingen omdat de oogheelkundige beoordeling, in tegenstelling tot beoordelingen op andere vakgebieden, berusten op feitelijke metingen die objectief en daarmee op afstand te beoordelen zijn. De optometrist is opgeleid en bevoegd tot het doen van deze onderzoeken en valt onder [wet BIG artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34), waarin staat dat zij een beschermde opleidingstitel hebben. Tot slot is in dit soort onderzoeken het fysieke aspect van de keuring met het oog op het verkrijgen van een algemene indruk van de betrokkene en het eventuele pluis/niet pluisgevoel aanzienlijk minder belangrijk dan bij onderzoeken naar ziektebeelden op andere vakgebieden.
 
 ### 4.5.8. Keuren op afstand
 
@@ -264,13 +404,25 @@ Het CBR heeft weet van de ontwikkelingen op dit gebied in de sector. Aangezien e
 
 Deze keuze is gebaseerd op meerdere punten:
 
+- – De consequentie van de beoordeling is, buiten het individuele belang voor de betrokkene, van belang voor de bevordering van de verkeersveiligheid;
+
+- – Lichamelijk onderzoek is veelvuldig een vereist onderdeel van het onderzoek;
+
+- – Bij een fysieke beoordeling kan de specialist beter gebruik maken van zijn ‘pluis-niet pluis’ gevoel, aangezien dit gevoel niet alleen op de zintuigen waarnemen en horen gebaseerd is.
+
 Een individuele uitzondering op één keuring kan worden gemaakt als fysieke aanwezigheid niet mogelijk is op voorwaarde dat het hoofd medische zaken of een van de senior medisch adviseurs van het CBR daarmee vooraf instemt.
 
 ### 4.5.9. Aanvullend onderzoek
 
 Indien aanvullend onderzoek noodzakelijk is voor de keuring, wordt dit verricht of aangevraagd door de medisch specialist. Voorbeelden van aanvullend onderzoek zijn:
 
-De tijd hiervoor is meegenomen in het tijdspad onder 4.5.5.
+- – laboratorium onderzoek bij alcohol- en drugskeuringen.
+
+- – aanvullende informatie van de behandelend arts of specialist.
+
+- – overig aanvullend onderzoek (EEG, MRI, ECG, ECHO), conform [REG2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011362).
+
+De tijd hiervoor is meegenomen in het tijdspad onder [4.5.5](https://wetten.overheid.nl/BWBR0051978).
 
 ### 4.5.10. Tolk
 
@@ -300,6 +452,10 @@ NB: in de[handleiding](https://www.cbr.nl/nl/voor-artsen/nl/handleidingen/voor-p
 
 Bij de alcohol- en drugskeuringen die door betrokkenen aan het CBR betaald worden middels een vastgesteld tarief, kan de medisch specialist een wegblijftarief – als bedoeld in [bijlage IX van de Regeling tarieven Centraal Bureau Rijvaardigheidsbewijzen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0045854&bijlage=IX)- bij het CBR in rekening brengen in de volgende situaties:
 
+- – Betrokkene komt zonder bericht niet opdagen op het tijdstip van de afspraak;
+
+- – Betrokkene zegt de afspraak binnen 48 uur voor de keuring af.
+
 Bij deze keuringen geldt: De medisch specialist kan na een nota voor een wegblijftarief pas weer een nieuwe afspraak met de betrokkene maken, nadat het CBR een nieuwe verwijzing heeft gestuurd. Het wegblijftarief dat de psychiater in rekening kan brengen, wordt elk jaar in december voor het komende jaar door specialistenbeheer van het CBR met de psychiaters gecommuniceerd.
 
 Voor de overige keuringen geldt dat een ‘wegblijftarief’ niet in rekening gebracht kan worden bij het CBR. Afhankelijk van de op voorhand vastgestelde leveringsvoorwaarden kan de specialist deze in rekening brengen bij de betrokkene.
@@ -310,7 +466,13 @@ Zowel een medisch adviseur als een jurist van de afdeling bezwaar en beroep van 
 
 Verzoek medisch adviseur (gezondheidsverklarings- en mededelingenprocedure)
 
+- – Wanneer de aanvullende vraag gesteld wordt omdat een kwalitatief onvoldoende rapportage is ontvangen (onvolledig, onvoldoende duidelijk en/of onvoldoende concludent), kunnen de kosten voor het beantwoorden van de aanvullende vraag niet bij het CBR in rekening gebracht worden.
+
+- – Wanneer een aanvullende vraag gesteld wordt omdat aanvullende informatie bij het CBR ontvangen is, of door het CBR verzuimd is deze voor de keuring beschikbaar te stellen, dan kunnen de kosten voor het beantwoorden van de aanvullende vraag bij het CBR gedeclareerd worden. Hiervoor kan maximaal het bedrag van 15 minuten toeslag voor indirecte tijd (zie NZa-tarieven) in rekening gebracht worden. Mocht dit naar het oordeel van de specialist niet toereikend zijn dan kan contact opgenomen worden met specialistenbeheer van het CBR.
+
 Verzoek jurist (bezwaar- en beroepsprocedure)
+
+- – Als het rapport van de medisch adviseur reeds is geaccepteerd, kan het CBR toch nog aanvullende medische informatie nodig hebben in het kader van bezwaar- of beroepsprocedures. Hiervoor kan maximaal het bedrag van 15 minuten toeslag voor indirecte tijd (zie NZa-tarieven) in rekening gebracht worden. Mocht dit naar het oordeel van de specialist niet toereikend zijn dan kan contact opgenomen worden met specialistenbeheer van het CBR.
 
 ### 5.4. Keuringen bij detentie in de mededelingenprocedure
 
@@ -322,7 +484,7 @@ Het CBR streeft ernaar om onderstaande bijscholingen ter beschikking te stellen 
 
 ### 6.1. Introductietrainingen gezondheidsverklarings- en mededelingenprocedure
 
-Voordat een medisch specialist keuringen gaat verrichten is hij verplicht deel te nemen aan de introductietrainingen. Zie hiervoor ook hoofdstuk 4.1. van deze beleidsregel.
+Voordat een medisch specialist keuringen gaat verrichten is hij verplicht deel te nemen aan de introductietrainingen. Zie hiervoor ook [hoofdstuk 4.1.](https://wetten.overheid.nl/BWBR0051978) van deze beleidsregel.
 
 ### 6.2. Online trainingen
 
@@ -340,9 +502,21 @@ Wanneer het CBR op basis van het functioneren van een specialist aanleiding ziet
 
 Betrokkene heeft het recht om een klacht in te dienen, dit kan zowel bij het CBR als bij de keurend medisch specialist.
 
+Klacht ingediend bij CBR
+
 De betrokkene kan bij het CBR een klacht indienen over de uitvoering van de procedure rondom de keuring. Dit betreft uitsluitend aspecten die procedureel van aard zijn, zoals:
 
-Wanneer de betrokkene een klacht indient over de medisch specialist bij het CBR, biedt het CBR hoor en wederhoor aan. De medisch specialist ontvangt van het CBR een brief over de klacht. De medisch specialist stuurt het CBR zo spoedig mogelijk, maar uiterlijk binnen 2 weken een schriftelijke reactie op de klacht. Deze reactie wordt door het CBR met de klant gedeeld.
+- • wachttijden en doorlooptijden;
+
+- • bereikbaarheid en communicatie;
+
+- • administratieve afhandeling;
+
+- • de wijze waarop de medisch specialist met de betrokkene omgaat.
+
+Wanneer de betrokkene een klacht indient over de medisch specialist bij het CBR, biedt het CBR hoor en wederhoor aan. De medisch specialist ontvangt van het CBR een brief over de klacht. De medisch specialist stuurt het CBR zo spoedig mogelijk, maar uiterlijk binnen 2 weken een schriftelijke reactie op de klacht. Deze reactie wordt door het CBR met de klant gedeeld.
+
+Klacht ingediend bij de medisch specialist
 
 Voor klachten die betrekking hebben op het professioneel of inhoudelijk handelen van de medisch specialist geldt dat deze vallen onder de verantwoordelijkheid van de medisch specialist of de organisatie waarvoor hij werkt. De medisch specialist dient hiervoor te beschikken over een klachtenregeling conform de [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173) (Wkkgz) en maakt deze procedure inzichtelijk voor betrokkenen.
 
@@ -352,6 +526,18 @@ Een samenvatting van de vereiste stappen voor de uitvoering van deze wet is gepu
 
 Het CBR heeft ten aanzien van de medisch specialist de volgende verplichtingen:
 
+- – Het CBR is beschikbaar voor overleg
+
+   - ○ Dossierinhoudelijk (artsenlijn op werkdagen van 9 tot 16 uur via 088 227 6300, zie ook [https://www.cbr.nl/nl/voor-artsen/nl/contact/intercollegiaal-overleg](https://www.cbr.nl/nl/voor-artsen/nl/contact/intercollegiaal-overleg)
+
+   - ○ Procedureel overleg (specialistenbeheer)
+
+- – Het CBR informeert de medisch specialist over procedurewijzigingen via de nieuwsbrief voor onafhankelijk specialisten (op [www.cbr.nl/voorartsen](http://www.cbr.nl/voorartsen)) en per email. Hiervoor stelt de medisch specialist een emailadres ter beschikking.
+
+- – Wijzigingen van de beleidsregel worden pas doorgevoerd nadat gelegenheid is gegeven tot consultatie door een delegatie van de medisch specialisten. Vervolgens worden de beoogde wijzigingen kenbaar gemaakt aan alle onafhankelijk keurend medisch specialisten. Hoewel een delegatie geconsulteerd wordt en de beoogde wijzigingen kenbaar worden gemaakt aan alle onafhankelijk keurend medisch specialisten, is het uiteindelijk aan het CBR om de gegeven input af te wegen en deze wel of niet over te nemen.
+
+- – Het CBR gaat zorgvuldig om met de persoonlijke gegevens van de medisch specialisten en respecteert daarbij de privacywetgeving.
+
 ### 9. Kwaliteitstoetsing
 
 Het CBR houdt op verschillende manieren toezicht op de naleving van de op de medisch specialist toepasselijke eisen. Als niet conform de gestelde eisen wordt gehandeld, kan het CBR uit eigen beweging de inschrijving beëindigen. Een van de manieren om hierop toezicht te houden is het starten van een kwaliteitstoetsing.
@@ -360,7 +546,7 @@ Op verzoek van het CBR werkt de medisch specialist mee aan door het CBR ingestel
 
 Bij een kwaliteitstoetsing wordt medisch inhoudelijk (aan de hand van de ingediende rapportages) en organisatorisch (onder andere op basis van doorlooptijden) getoetst. Ook worden klachten (over bijvoorbeeld ongewenst gedrag) meegenomen in de evaluatie. De toetsing vindt plaats aan de hand van de in deze beleidsregel gestelde eisen.
 
-De uitslag van de kwaliteitstoetsing wordt altijd met de medisch specialist gedeeld. Een evaluatie kan leiden tot een nieuwe evaluatie na een feedbackgesprek, een waarschuwing of een beëindiging van de inschrijving. Zie tevens hoofdstuk 10 en 11 van deze beleidsregel voor een nadere duiding van een waarschuwing of een beëindiging van de inschrijving.
+De uitslag van de kwaliteitstoetsing wordt altijd met de medisch specialist gedeeld. Een evaluatie kan leiden tot een nieuwe evaluatie na een feedbackgesprek, een waarschuwing of een beëindiging van de inschrijving. Zie tevens [hoofdstuk 10](https://wetten.overheid.nl/BWBR0051978) en [11](https://wetten.overheid.nl/BWBR0051978) van deze beleidsregel voor een nadere duiding van een waarschuwing of een beëindiging van de inschrijving.
 
 Welke maatregel wordt opgelegd, is afhankelijk van de zwaarte van de overtreding. Het resultaat van een steekproef wordt schriftelijk aan de keurend medisch specialist bevestigd.
 
@@ -380,6 +566,10 @@ Een tussentijdse intrekking of het stellen van aanvullende vereisten aan de insc
 
 Het CBR beëindigt de inschrijving van een medisch specialist uit eigen beweging in de volgende situaties:
 
+- a) De medisch specialist is niet bevoegd: De medisch specialist voldoet niet aan de eisen gesteld aan de medisch specialist onder [4.1](https://wetten.overheid.nl/BWBR0051978).
+
+- b) Uitschrijving naar aanleiding van de kwaliteitstoetsing: De medisch specialist voldoet niet aan de eisen gesteld onder [4.2 t/m 4.5.11](https://wetten.overheid.nl/BWBR0051978) of de bijscholingseisen onder [6](https://wetten.overheid.nl/BWBR0051978). Het medisch inhoudelijke deel van de kwaliteitstoetsing wordt uitgevoerd door een arts van het CBR.
+
 De intrekking van de inschrijving wordt schriftelijk bekend gemaakt aan de medisch specialist. In de kennisgeving staat de datum waarop de beëindiging in werking treedt.
 
 Betreft het een uitschrijving in verband met onbevoegdheid onder a, dan kunnen de kosten van eventuele nieuwe keuringen (die benodigd zijn ten gevolge van de onbevoegdheid) bij een andere medisch specialist op de onbevoegde medisch specialist verhaald worden door het CBR.
@@ -398,7 +588,7 @@ Tegen een brief met een waarschuwing kan geen bezwaarschrift worden ingediend, o
 
 ### Artikel II
 
-Deze aangepaste beleidsregel treedt in werking met ingang van 1 januari 2026. Met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel aanwijzing keurend medisch specialisten](https://wetten.overheid.nl/jci1.3:c:BWBR0037647) van 1 december 2018 vervangen.
+Deze aangepaste beleidsregel treedt in werking met ingang van 1 januari 2026. Met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel aanwijzing keurend medisch specialisten](https://wetten.overheid.nl/jci1.3:c:BWBR0037647) van 1 december 2018 vervangen.
 
 ### Artikel III
 

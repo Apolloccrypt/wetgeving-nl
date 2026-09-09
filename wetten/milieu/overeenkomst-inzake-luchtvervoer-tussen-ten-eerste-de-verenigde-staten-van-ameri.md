@@ -8,7 +8,7 @@ laatste_update: 2026-08-02
 status: geldig
 toestand: 2026-08-02
 bron: "https://wetten.overheid.nl/BWBV0005416"
-opgehaald: 2026-09-08
+opgehaald: 2026-09-09
 ---
 
 # Overeenkomst inzake luchtvervoer tussen ten eerste, de Verenigde Staten van Amerika, ten tweede, de Europese Unie en haar lidstaten, ten derde, IJsland en ten vierde, het Koninkrijk Noorwegen

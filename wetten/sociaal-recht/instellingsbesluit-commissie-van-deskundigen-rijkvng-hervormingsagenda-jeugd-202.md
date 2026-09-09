@@ -1,60 +1,34 @@
 ---
 title: "Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 12 december 2025, kenmerk 4319407-1092199-J, houdende instelling van de Commissie van Deskundigen ten behoeve van de uitvoering van de Hervormingsagenda Jeugd (Instellingsbesluit Commissie van Deskundigen Rijk|VNG Hervormingsagenda Jeugd 2027)"
+citeertitel: "Instellingsbesluit Commissie van Deskundigen Rijk|VNG Hervormingsagenda Jeugd 2027"
 identifier: "BWBR0051987"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-12-20"
-last_updated: "2025-12-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051987"
+categorie: "Gezondheidszorg"
 soort: "ministeriele-regeling"
-stam_id: "17686033"
-version_id: "31208412"
-internal_id: "C44641101"
-label_id: "17585144"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051987/2025-12-20/0"
-intitule_bron: "Stcrt.2025-43830"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-12-12"
-intitule_published: "2025-12-19"
-intitule_in_force: "2025-12-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-43830"
-original_signed_date: "2025-12-12"
-original_published_date: "2025-12-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-43830"
-entry_into_force_date: "2025-12-20"
-jci_1_3: "jci1.3:c:BWBR0051987&z=2025-12-20&g=2025-12-20"
-jci_1_0: "1.0:c:BWBR0051987&g=2025-12-20"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Commissie van Deskundigen Rijk|VNG Hervormingsagenda Jeugd 2027"
-signed_date: "2025-12-12"
-entry_into_force: "2025-12-20"
+publicatiedatum: 2025-12-20
+laatste_update: 2025-12-20
+status: geldig
+toestand: 2025-12-20
+bron: "https://wetten.overheid.nl/BWBR0051987"
+opgehaald: 2026-09-09
 ---
+
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 12 december 2025, kenmerk 4319407-1092199-J, houdende instelling van de Commissie van Deskundigen ten behoeve van de uitvoering van de Hervormingsagenda Jeugd (Instellingsbesluit Commissie van Deskundigen Rijk|VNG Hervormingsagenda Jeugd 2027)
-
-Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **Commissie:** de Commissie van Deskundigen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051987&artikel=2&z=2025-12-20&g=2025-12-20);
+- a. *Commissie:* de Commissie van Deskundigen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051987&artikel=2&z=2025-12-20&g=2025-12-20);
 
-- b. **ministerie:** het Ministerie van Volksgezondheid, Welzijn en Sport;
+- b. *ministerie:* het Ministerie van Volksgezondheid, Welzijn en Sport;
 
-- c. **Partijen:** het Rijk, vertegenwoordigd door de staatssecretaris, en gemeenten, vertegenwoordigd door de VNG;
+- c. *Partijen:* het Rijk, vertegenwoordigd door de staatssecretaris, en gemeenten, vertegenwoordigd door de VNG;
 
-- d. **Staatssecretaris:** de Staatssecretaris van Volksgezondheid, Welzijn en Sport;
+- d. *Staatssecretaris:* de Staatssecretaris van Volksgezondheid, Welzijn en Sport;
 
-- e. **VNG:** de Vereniging Nederlandse Gemeenten;
+- e. *VNG:* de Vereniging Nederlandse Gemeenten;
 
-- f. **Hervormingsagenda:** de Hervormingsagenda Jeugd 2023–2028 en de aanvullend gemaakte afspraken zoals vastgelegd in de Voorjaarsnota 2025, de Kamerbrief over voortgang beleid jeugdzorg van juni 2025 en de nog in ontwikkeling zijnde routekaart.
+- f. *Hervormingsagenda:* de Hervormingsagenda Jeugd 2023–2028 en de aanvullend gemaakte afspraken zoals vastgelegd in de Voorjaarsnota 2025, de Kamerbrief over voortgang beleid jeugdzorg van juni 2025 en de nog in ontwikkeling zijnde routekaart.
 
 ##### Artikel 2. Instelling en taak
 
@@ -62,9 +36,9 @@ In dit besluit wordt verstaan onder:
 
 2. De Commissie heeft tot taak een zwaarwegend maatgevend advies uit te brengen aan Partijen over de uitvoering van de maatregelen en de gepleegde inspanningen uit de Hervormingsagenda, mede in relatie tot de uitgavenontwikkeling. Het advies ziet op:
 
-- a. of de beweging in het jeugdstelsel die de vijf betrokken groepen – Rijk, gemeenten, aanbieders, professionals en cliëntorganisaties en jongerenvertegenwoordigers – met elkaar willen maken door de uitvoering van de voornemens en maatregelen wordt gerealiseerd;
+- a. of de beweging in het jeugdstelsel die de vijf betrokken groepen – Rijk, gemeenten, aanbieders, professionals en cliëntorganisaties en jongerenvertegenwoordigers – met elkaar willen maken door de uitvoering van de voornemens en maatregelen wordt gerealiseerd;
 
-- b. een beoordeling op basis van afspraken in de Hervormingsagenda, de inspanningen van Rijk en gemeenten en de bijbehorende opbrengsten, zowel landelijk, regionaal als voor een representatieve steekproef van gemeenten, waarbij de Commissie voor belangrijkste thema’s aandacht besteedt aan het effect van de gepleegde inspanningen en eventuele afwijkingen van de beoogde effecten. Ook beoordeelt de Commissie de inspanningen en mogelijke knelpunten van de andere groepen uit de vijfhoek – zijnde Rijk, gemeenten, aanbieders, professionals en cliëntorganisaties – alsmede andere partijen die van belang zijn voor de uitvoering van de Hervormingsagenda;
+- b. een beoordeling op basis van afspraken in de Hervormingsagenda, de inspanningen van Rijk en gemeenten en de bijbehorende opbrengsten, zowel landelijk, regionaal als voor een representatieve steekproef van gemeenten, waarbij de Commissie voor belangrijkste thema’s aandacht besteedt aan het effect van de gepleegde inspanningen en eventuele afwijkingen van de beoogde effecten. Ook beoordeelt de Commissie de inspanningen en mogelijke knelpunten van de andere groepen uit de vijfhoek – zijnde Rijk, gemeenten, aanbieders, professionals en cliëntorganisaties – alsmede andere partijen die van belang zijn voor de uitvoering van de Hervormingsagenda;
 
 - c. de wijze waarop maatregelen worden uitgevoerd in relatie tot het beoogde effect, waar deze in de praktijk goed werken en waar anderen van kunnen leren;
 
@@ -104,9 +78,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Instellingsduur
 
-1. De Commissie wordt ingesteld per 1 januari 2026 en brengt advies uit voor 1 februari 2027.
+1. De Commissie wordt ingesteld per 1 januari 2026 en brengt advies uit voor 1 februari 2027.
 
-2. De Commissie wordt opgeheven met ingang van 28 februari 2027.
+2. De Commissie wordt opgeheven met ingang van 28 februari 2027.
 
 ##### Artikel 5. Secretariaat
 
@@ -134,9 +108,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 8. Vergoeding voorzitter en andere leden
 
-1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op de hoogste trede van schaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren en de arbeidsduurfactor op 0,3 fte per maand.
+1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op de hoogste trede van schaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren en de arbeidsduurfactor op 0,3 fte per maand.
 
-2. Aan de andere leden wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op de hoogste trede van schaal 17 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren en de arbeidsduurfactor op 0,2 fte per maand.
+2. Aan de andere leden wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op de hoogste trede van schaal 17 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren en de arbeidsduurfactor op 0,2 fte per maand.
 
 ##### Artikel 9. Kosten
 
@@ -162,10 +136,8 @@ De kosten van de Commissie komen, voor zover op basis van een door de staatssecr
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Dit besluit vervalt met ingang van 28 februari 2027.
+2. Dit besluit vervalt met ingang van 28 februari 2027.
 
 ##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie van Deskundigen Rijk|VNG Hervormingsagenda Jeugd 2027.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,75 +1,71 @@
 ---
-title: "Wijzigingswet Wetboek van Strafrecht enz. (versterking strafrechtelijke aanpak ondermijnende criminaliteit II)"
+title: "Wet van 29 oktober 2025 tot wijziging van het Wetboek van Strafrecht en het Wetboek van Strafvordering en enige andere wetten in verband met verdere versterking van de strafrechtelijke aanpak van ondermijnende criminaliteit (versterking strafrechtelijke aanpak ondermijnende criminaliteit II)"
+citeertitel: "Wijzigingswet Wetboek van Strafrecht enz. (versterking strafrechtelijke aanpak ondermijnende criminaliteit II)"
 identifier: "BWBR0051727"
 categorie: "Strafrecht"
+soort: "wet"
 publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
+laatste_update: 2026-07-01
 status: geldig
+toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0051727"
+opgehaald: 2026-09-09
 ---
 
-# Wijzigingswet Wetboek van Strafrecht enz. (versterking strafrechtelijke aanpak ondermijnende criminaliteit II)
+# Wet van 29 oktober 2025 tot wijziging van het Wetboek van Strafrecht en het Wetboek van Strafvordering en enige andere wetten in verband met verdere versterking van de strafrechtelijke aanpak van ondermijnende criminaliteit (versterking strafrechtelijke aanpak ondermijnende criminaliteit II)
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+##### Artikel I
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is het wettelijk instrumentarium verder uit te breiden om de ondermijnende criminaliteit beter te kunnen bestrijden;
+*Wijzigt het Wetboek van Strafrecht.*
 
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+##### Artikel II
 
-#### Artikel I
+*Wijzigt het Wetboek van Strafvordering.*
 
-Wijzigt het Wetboek van Strafrecht.
+##### Artikel III
 
-#### Artikel II
+*Wijzigt de Opiumwet.*
 
-Wijzigt het Wetboek van Strafvordering.
+##### Artikel IV
 
-#### Artikel III
+*Wijzigt de Wet wapens en munitie.*
 
-Wijzigt de Opiumwet.
+##### Artikel V
 
-#### Artikel IV
+*Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.*
 
-Wijzigt de Wet wapens en munitie.
+##### Artikel VI
 
-#### Artikel V
+*Wijzigt de Wet op de economische delicten.*
 
-Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.
+##### Artikel VII
 
-#### Artikel VI
+*Wijzigt de Algemene wet bestuursrecht.*
 
-Wijzigt de Wet op de economische delicten.
+##### Artikel VIII
 
-#### Artikel VII
+*Wijzigt het Wetboek van Burgerlijke Rechtsvordering.*
 
-Wijzigt de Algemene wet bestuursrecht.
+##### Artikel IX
 
-#### Artikel VIII
+*Wijzigt de Wet voorkoming misbruik chemicaliën.*
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
+##### Artikel X
 
-#### Artikel IX
+*Wijzigt de Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie.*
 
-Wijzigt de Wet voorkoming misbruik chemicaliën.
+##### Artikel Xa
 
-#### Artikel X
+*Wijzigt het Burgerlijk Wetboek Boek 7.*
 
-Wijzigt de Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie.
+##### Artikel Xb
 
-#### Artikel Xa
+*Wijzigt de Omgevingswet.*
 
-Wijzigt het Burgerlijk Wetboek Boek 7.
-
-#### Artikel Xb
-
-Wijzigt de Omgevingswet.
-
-#### Artikel Xc
+##### Artikel Xc
 
 Onze Minister van Justitie en Veiligheid zendt binnen vijf jaar na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel XI
+##### Artikel XI
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

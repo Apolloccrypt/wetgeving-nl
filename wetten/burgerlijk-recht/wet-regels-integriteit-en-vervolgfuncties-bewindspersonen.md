@@ -1,63 +1,34 @@
 ---
 title: "Wet van 1 oktober 2025, houdende invoering van regels met betrekking tot de integriteit en het loopbaanvervolg van bewindspersonen, alsmede een tweetal wijzigingen van de Wet adviescollege rechtspositie politieke ambtsdragers (Wet regels integriteit en vervolgfuncties bewindspersonen)"
+citeertitel: "Wet regels integriteit en vervolgfuncties bewindspersonen"
 identifier: "BWBR0051611"
-country: "nl"
-rank: "wet"
-publication_date: "2026-02-20"
-last_updated: "2026-02-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051611"
+categorie: "Overig"
 soort: "wet"
-stam_id: "17551393"
-version_id: "30970212"
-internal_id: "C44843391"
-label_id: "17452654"
-dtd_version: "2.0"
-original_entry_into_force: "2026-02-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051611/2026-02-20/0"
-intitule_bron: "Stb.2025-269"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-10-01"
-intitule_published: "2025-10-13"
-intitule_in_force: "2026-02-17"
-intitule_status: "goed"
-original_publication: "Stb.2025-269"
-original_signed_date: "2025-10-01"
-original_published_date: "2025-10-13"
-original_effect: "nieuwe-regeling"
-original_dossier: "36549"
-original_url_id: "stb-2025-269"
-entry_into_force_date: "2026-02-20"
-jci_1_3: "jci1.3:c:BWBR0051611&z=2026-02-20&g=2026-02-20"
-jci_1_0: "1.0:c:BWBR0051611&g=2026-02-20"
-citeertitel_status: "officieel"
-short_title: "Wet regels integriteit en vervolgfuncties bewindspersonen"
-signed_date: "2025-10-01"
-entry_into_force: "2026-02-20"
+publicatiedatum: 2026-02-20
+laatste_update: 2026-02-20
+status: geldig
+toestand: 2026-02-20
+bron: "https://wetten.overheid.nl/BWBR0051611"
+opgehaald: 2026-09-09
 ---
+
 # Wet van 1 oktober 2025, houdende invoering van regels met betrekking tot de integriteit en het loopbaanvervolg van bewindspersonen, alsmede een tweetal wijzigingen van de Wet adviescollege rechtspositie politieke ambtsdragers (Wet regels integriteit en vervolgfuncties bewindspersonen)
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben dat het wenselijk is een wettelijke grondslag te creëren voor het vaststellen van een gedragscode voor bewindspersonen en regels te stellen die tot doel hebben duidelijkheid over het mogelijke loopbaanvervolg van bewindspersonen te bevorderen, alsmede een tweetal wijzigingen in de [Wet adviescolleges rechtspositie politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0045946) door te voeren;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ##### Artikel 1
 
 Voor de toepassing van deze wet wordt verstaan onder:
 
-- –. **adviescollege:** adviescollege rechtspositie politieke ambtsdragers als bedoeld in [artikel 1 van Wet adviescollege rechtspositie politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0045946&artikel=1);
+- – *adviescollege:* adviescollege rechtspositie politieke ambtsdragers als bedoeld in [artikel 1 van Wet adviescollege rechtspositie politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0045946&artikel=1);
 
-- –. **dienstverband:** aanstelling, arbeidsovereenkomst of andere titel op grond waarvan tegen betaling opgedragen taken worden verricht;
+- – *dienstverband:* aanstelling, arbeidsovereenkomst of andere titel op grond waarvan tegen betaling opgedragen taken worden verricht;
 
-- –. **bewindspersoon:** minister of staatssecretaris;
+- – *bewindspersoon:* minister of staatssecretaris;
 
-- –. **gewezen bewindspersoon:** bewindspersoon aan wie door Ons ontslag is verleend;
+- – *gewezen bewindspersoon:* bewindspersoon aan wie door Ons ontslag is verleend;
 
-- –. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- – *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- –. **voormalig ministerie:** het ministerie of de ministeries waarvoor de gewezen bewindspersoon binnen de periode van twee jaar voor zijn ontslag werkzaamheden heeft verricht.
+- – *voormalig ministerie:* het ministerie of de ministeries waarvoor de gewezen bewindspersoon binnen de periode van twee jaar voor zijn ontslag werkzaamheden heeft verricht.
 
 ##### Artikel 1a
 
@@ -97,9 +68,9 @@ De Minister-President stelt, in overeenstemming met het gevoelen van de minister
 
 - a. het risico op belangenverstrengeling, waarvan sprake kan zijn indien een bewindspersoon of een gewezen bewindspersoon:
 
-- i. gebruik kan maken van inzichten van vertrouwelijke of gevoelige aard in beleid of strategie, waaronder onaangekondigd overheidsbeleid of handelsgeheimen van concurrenten, die hij tijdens zijn ambt heeft verkregen en daarmee zijn nieuwe werkgever of opdrachtgever een concurrentievoordeel kan opleveren;
+   - i. gebruik kan maken van inzichten van vertrouwelijke of gevoelige aard in beleid of strategie, waaronder onaangekondigd overheidsbeleid of handelsgeheimen van concurrenten, die hij tijdens zijn ambt heeft verkregen en daarmee zijn nieuwe werkgever of opdrachtgever een concurrentievoordeel kan opleveren;
 
-- ii. in een positie is geweest waarbij een sterk vermoeden kan ontstaan dat zijn vervolgfunctie een beloning is geweest voor eerdere gunsten;
+   - ii. in een positie is geweest waarbij een sterk vermoeden kan ontstaan dat zijn vervolgfunctie een beloning is geweest voor eerdere gunsten;
 
 - b. het risico op schending van de geheimhoudingsplicht van bewindspersonen, bedoeld in [artikel 98 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=98);
 
@@ -161,15 +132,15 @@ De Minister-President stelt, in overeenstemming met het gevoelen van de minister
 
 ##### Artikel 5
 
-Wijzigt de Algemene pensioen- en uitkeringswet politieke ambtsdragers.
+*Wijzigt de Algemene pensioen- en uitkeringswet politieke ambtsdragers.*
 
 ##### Artikel 6
 
-Wijzigt de Wet adviescollege rechtspositie politieke ambtsdragers.
+*Wijzigt de Wet adviescollege rechtspositie politieke ambtsdragers.*
 
 ##### Artikel 7
 
-Wijzigt de Wet open overheid.
+*Wijzigt de Wet open overheid.*
 
 ##### Artikel 8
 
@@ -182,5 +153,3 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ##### Artikel 10
 
 Deze wet wordt aangehaald als: Wet regels integriteit en vervolgfuncties bewindspersonen.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

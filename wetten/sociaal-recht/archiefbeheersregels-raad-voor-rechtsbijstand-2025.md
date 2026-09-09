@@ -1,44 +1,18 @@
 ---
 title: "Regeling van het bestuur van de Raad voor Rechtsbijstand van 28 mei 2025 betreffende de archiefbeheersregels voor de Raad voor Rechtsbijstand"
+citeertitel: "Archiefbeheersregels Raad voor Rechtsbijstand 2025"
 identifier: "BWBR0051974"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-12-18"
-last_updated: "2025-12-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051974"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "17681213"
-version_id: "31202122"
-internal_id: "C44633811"
-label_id: "17580704"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051974/2025-12-18/0"
-intitule_bron: "Stcrt.2025-43307"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-05-28"
-intitule_published: "2025-12-17"
-intitule_in_force: "2025-12-17"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-43307"
-original_signed_date: "2025-05-28"
-original_published_date: "2025-12-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-43307"
-entry_into_force_date: "2025-12-18"
-jci_1_3: "jci1.3:c:BWBR0051974&z=2025-12-18&g=2025-12-18"
-jci_1_0: "1.0:c:BWBR0051974&g=2025-12-18"
-citeertitel_status: "officieel"
-short_title: "Archiefbeheersregels Raad voor Rechtsbijstand 2025"
-signed_date: "2025-05-28"
-entry_into_force: "2025-12-18"
+publicatiedatum: 2025-12-18
+laatste_update: 2025-12-18
+status: geldig
+toestand: 2025-12-18
+bron: "https://wetten.overheid.nl/BWBR0051974"
+opgehaald: 2026-09-09
 ---
+
 # Regeling van het bestuur van de Raad voor Rechtsbijstand van 28 mei 2025 betreffende de archiefbeheersregels voor de Raad voor Rechtsbijstand
-
-Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14).
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -46,37 +20,37 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **Archiefbescheiden:** archiefbescheiden als bedoeld in [artikel 1, lid c, Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1).
+- a. *Archiefbescheiden:* archiefbescheiden als bedoeld in [artikel 1, lid c, Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1).
 
-- b. **Archiefbeheer:** het geheel van werkzaamheden om archiefbescheiden in goede, geordende en toegankelijke staat te brengen en bewaren, alsmede de archiefbescheiden die daarvoor in aanmerking komen, te vernietigen dan wel over te brengen naar de archiefbewaarplaats.
+- b. *Archiefbeheer:* het geheel van werkzaamheden om archiefbescheiden in goede, geordende en toegankelijke staat te brengen en bewaren, alsmede de archiefbescheiden die daarvoor in aanmerking komen, te vernietigen dan wel over te brengen naar de archiefbewaarplaats.
 
-- c. **Archiefbewaarplaats:** archiefbewaarplaats als bedoeld in [artikel 1, lid f, Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1).
+- c. *Archiefbewaarplaats:* archiefbewaarplaats als bedoeld in [artikel 1, lid f, Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1).
 
-- d. **Commissie:** een commissie als bedoeld in [artikel 8, lid 1, Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=8).
+- d. *Commissie:* een commissie als bedoeld in [artikel 8, lid 1, Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=8).
 
-- e. **Dossier:** het geheel van archiefbescheiden ontvangen of opgemaakt door een organisatie, een persoon of een groep personen bij de behandeling van één zaak.
+- e. *Dossier:* het geheel van archiefbescheiden ontvangen of opgemaakt door een organisatie, een persoon of een groep personen bij de behandeling van één zaak.
 
-- f. **Handboek vervanging:** document waarmee de zorgdrager inzicht geeft in de aspecten van het vervangingsproces als bedoeld in [artikel 26b, Archiefregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=26b) en kan aantonen dat zorgvuldig wordt omgegaan met de bevoegdheid tot vervanging, objectieve toetsing van het vervangingsproces mogelijk maakt en onderbouwt in hoeverre de reproductie kan worden vertrouwd als accurate en volledige weergave van het origineel.
+- f. *Handboek vervanging:* document waarmee de zorgdrager inzicht geeft in de aspecten van het vervangingsproces als bedoeld in [artikel 26b, Archiefregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=26b) en kan aantonen dat zorgvuldig wordt omgegaan met de bevoegdheid tot vervanging, objectieve toetsing van het vervangingsproces mogelijk maakt en onderbouwt in hoeverre de reproductie kan worden vertrouwd als accurate en volledige weergave van het origineel.
 
-- g. **Metadata:** gegevens die context, inhoud en structuur van archiefbescheiden en hun beheer door de tijd heen beschrijven.
+- g. *Metadata:* gegevens die context, inhoud en structuur van archiefbescheiden en hun beheer door de tijd heen beschrijven.
 
-- h. **Metadataschema:** metagegevensschema als bedoeld in [artikel 17, lid 1, Archiefregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=17).
+- h. *Metadataschema:* metagegevensschema als bedoeld in [artikel 17, lid 1, Archiefregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=17).
 
-- i. **Overbrengen:** overbrenging van archiefbescheiden naar de archiefbewaarplaats als bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=12) en [13, Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=13). Na overbrenging wordt de Minister van Onderwijs, Cultuur en Wetenschap de zorgdrager en de algemene rijksarchivaris de archiefbeheerder.
+- i. *Overbrengen:* overbrenging van archiefbescheiden naar de archiefbewaarplaats als bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=12) en [13, Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=13). Na overbrenging wordt de Minister van Onderwijs, Cultuur en Wetenschap de zorgdrager en de algemene rijksarchivaris de archiefbeheerder.
 
-- j. **Register:** Een geordend bestand met informatie over personen of organisaties, een lijst waarin gegevens over personen of organisaties worden bijgehouden.
+- j. *Register:* Een geordend bestand met informatie over personen of organisaties, een lijst waarin gegevens over personen of organisaties worden bijgehouden.
 
-- k. **Selectielijst:** een lijst als bedoeld in [artikel 5, eerste lid, Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5) waarin in ieder geval wordt aangegeven welke archiefbescheiden voor vernietiging in aanmerking komen.
+- k. *Selectielijst:* een lijst als bedoeld in [artikel 5, eerste lid, Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5) waarin in ieder geval wordt aangegeven welke archiefbescheiden voor vernietiging in aanmerking komen.
 
-- l. **Vernietiging:** een proces van verwijderen of wissen van (gegevens uit) archiefbescheiden op een zodanige manier, dat deze niet weer gereconstrueerd kunnen worden.
+- l. *Vernietiging:* een proces van verwijderen of wissen van (gegevens uit) archiefbescheiden op een zodanige manier, dat deze niet weer gereconstrueerd kunnen worden.
 
-- m. **Vervanging:** het vervangen van archiefbescheiden door reproducties als bedoeld in [artikel 1, lid c, onder 4, Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1).
+- m. *Vervanging:* het vervangen van archiefbescheiden door reproducties als bedoeld in [artikel 1, lid c, onder 4, Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1).
 
-- n. **Vervreemding:** het in eigendom overdragen van archiefbescheiden als bedoeld in [artikel 8, Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=8) aan een ander overheidsorgaan of een private partij.
+- n. *Vervreemding:* het in eigendom overdragen van archiefbescheiden als bedoeld in [artikel 8, Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=8) aan een ander overheidsorgaan of een private partij.
 
-- o. **Voorziening:** een voorziening als bedoeld in [artikel 8, lid 2, Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=8).
+- o. *Voorziening:* een voorziening als bedoeld in [artikel 8, lid 2, Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=8).
 
-- p. **Zorgdrager:** zorgdrager als bedoeld in [artikel 1, lid d, Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1).
+- p. *Zorgdrager:* zorgdrager als bedoeld in [artikel 1, lid d, Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1).
 
 ### Hoofdstuk 2. Organisatie
 
@@ -148,7 +122,7 @@ Dit houdt in dat de CIO op het gebied van archiefbeheer de volgende taken en ver
 
 1. De zorgdrager ontwerpt een selectielijst waarin in ieder geval staat welke archiefbescheiden voor vernietiging in aanmerking komen.
 
-2. Het ontwerpen van een nieuwe selectielijst voldoet aan de in [artikelen 2 tot en met 5, Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=2) genoemde criteria.
+2. Het ontwerpen van een nieuwe selectielijst voldoet aan de in [artikelen 2 tot en met 5, Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=2) genoemde criteria.
 
 3. De zorgdrager betrekt bij het ontwerpen van een selectielijst in ieder geval inhoudelijk deskundigen ten aanzien van de volgende onderwerpen:
 
@@ -172,19 +146,19 @@ Dit houdt in dat de CIO op het gebied van archiefbeheer de volgende taken en ver
 
 4. Een Handboek vervanging wordt als bijlage aan het vervangingsbesluit toegevoegd.
 
-Het Handboek vervanging geeft in ieder geval inzicht in de aspecten van het vervangingsproces die zijn genoemd in [artikel 26b van de Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=26b) voor de vervanging van archiefbescheiden die voor blijvende bewaring in aanmerking komen.
+Het Handboek vervanging geeft in ieder geval inzicht in de aspecten van het vervangingsproces die zijn genoemd in [artikel 26b van de Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=26b) voor de vervanging van archiefbescheiden die voor blijvende bewaring in aanmerking komen.
 
 5. Vervanging van archiefbescheiden vindt plaats met een juiste en volledige weergave van de in de te vervangen archiefbescheiden voorkomende gegevens. De vernietiging van de vervangen originelen is een onlosmakelijk onderdeel van het vervangingsproces.
 
 6. De reproducties worden aangemerkt als archiefbescheiden.
 
-7. De zorgdrager maakt een verklaring op van de vervanging van archiefbescheiden als bedoeld in de zin van [artikel 8, Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=8).
+7. De zorgdrager maakt een verklaring op van de vervanging van archiefbescheiden als bedoeld in de zin van [artikel 8, Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=8).
 
 8. De verklaring van vervanging wordt blijvend bewaard in het archief.
 
 ##### Artikel 9. Vernietiging
 
-1. Vernietiging van archiefbescheiden vindt enkel plaats op grond van een geldige selectielijst of na vervanging van archiefbescheiden door reproducties als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0051974&hoofdstuk=4&artikel=8&z=2025-12-18&g=2025-12-18) van deze regeling.
+1. Vernietiging van archiefbescheiden vindt enkel plaats op grond van een geldige selectielijst of na vervanging van archiefbescheiden door reproducties als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0051974&hoofdstuk=4&artikel=8&z=2025-12-18&g=2025-12-18) van deze regeling.
 
 2. De proceseigenaar moet schriftelijk akkoord gaan met de voorgenomen vernietiging van archiefbescheiden die onder zijn verantwoordelijkheid vallen.
 
@@ -196,7 +170,7 @@ Het Handboek vervanging geeft in ieder geval inzicht in de aspecten van het verv
 
 - b. deze nodig zijn voor de taakuitvoering van de Raad.
 
-5. De zorgdrager maakt een verklaring op van de vernietiging van archiefbescheiden als bedoeld in de zin van [artikel 8, Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=8).
+5. De zorgdrager maakt een verklaring op van de vernietiging van archiefbescheiden als bedoeld in de zin van [artikel 8, Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=8).
 
 6. De verklaring van vernietiging wordt blijvend bewaard in het archief.
 
@@ -216,7 +190,7 @@ De geldende selectielijst moet hiervoor een grondslag bieden. Het besluit kan oo
 
 1. De archiefbescheiden worden voorafgaand aan de overbrenging in een goede, geordende en toegankelijke staat gebracht die voldoet aan de eisen van de beheerder van de archiefbewaarplaats.
 
-2. De zorgdrager bepaalt in een Besluit beperkingen openbaarheid of er beperkingen worden gesteld aan de openbaarheid van over te brengen archiefbescheiden als bedoeld in [artikel 15, eerste lid, Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15). Hiervoor geldt onderstaande:
+2. De zorgdrager bepaalt in een Besluit beperkingen openbaarheid of er beperkingen worden gesteld aan de openbaarheid van over te brengen archiefbescheiden als bedoeld in [artikel 15, eerste lid, Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15). Hiervoor geldt onderstaande:
 
 - a. voorafgaand aan het besluit moet advies worden gevraagd aan de algemene rijksarchivaris;
 
@@ -230,13 +204,13 @@ De geldende selectielijst moet hiervoor een grondslag bieden. Het besluit kan oo
 
 - f. het besluit wordt bekendgemaakt in de Staatscourant.
 
-3. De zorgdrager maakt een verklaring van overbrenging op als bedoeld in de zin van [artikel 9, lid 3, Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=9) en voegt een eventueel Besluit openbaarheid beperkingen als bijlage toe.
+3. De zorgdrager maakt een verklaring van overbrenging op als bedoeld in de zin van [artikel 9, lid 3, Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=9) en voegt een eventueel Besluit openbaarheid beperkingen als bijlage toe.
 
 4. De zorgdrager ondertekent de verklaring van overbrenging.
 
 5. De verklaring van overbrenging wordt blijvend bewaard in het archief.
 
-6. De zorgdrager dient een onderbouwd verzoek in bij de Minister van Onderwijs, Cultuur en Wetenschap voor opschorting van overbrenging (voor een periode van hoogstens 10 jaar per opschorting). De minister besluit of een machtiging voor de opschorting wordt verleend.
+6. De zorgdrager dient een onderbouwd verzoek in bij de Minister van Onderwijs, Cultuur en Wetenschap voor opschorting van overbrenging (voor een periode van hoogstens 10 jaar per opschorting). De minister besluit of een machtiging voor de opschorting wordt verleend.
 
 ##### Artikel 11. Vervreemding
 
@@ -254,11 +228,11 @@ De geldende selectielijst moet hiervoor een grondslag bieden. Het besluit kan oo
 
 - d. de algemene rijksarchivaris.
 
-3. De zorgdrager geeft aan bij het aanvragen van een machtiging, en in het besluit tot vervreemding, op welke wijze rekening is gehouden met de in [artikel 2, eerste lid, van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=2) genoemde belangen.
+3. De zorgdrager geeft aan bij het aanvragen van een machtiging, en in het besluit tot vervreemding, op welke wijze rekening is gehouden met de in [artikel 2, eerste lid, van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=2) genoemde belangen.
 
 4. Het besluit tot vervreemding wordt bekendgemaakt in de Staatscourant.
 
-5. De zorgdrager maakt een verklaring van vervreemding op als bedoeld in de zin van [artikel 8, Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=8).
+5. De zorgdrager maakt een verklaring van vervreemding op als bedoeld in de zin van [artikel 8, Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=8).
 
 6. De zorgdrager ondertekent de verklaring van vervreemding.
 
@@ -286,7 +260,7 @@ Deze regeling wordt door de Raad voor Rechtsbijstand bekendgemaakt en gepublicee
 
 ##### Artikel 15. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de bekendmaking in de Staatscourant en werkt terug tot en met 28 mei 2025.
+Deze regeling treedt in werking met ingang van de dag na de bekendmaking in de Staatscourant en werkt terug tot en met 28 mei 2025.
 
 ##### Artikel 16. Citeertitel
 

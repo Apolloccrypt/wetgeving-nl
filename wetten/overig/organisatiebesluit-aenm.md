@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Minister van Asiel en Migratie van 17 december 2025, 6935891, houdende vaststelling van de organisatie van het Ministerie van Asiel en Migratie (Organisatiebesluit Ministerie van Asiel en Migratie)"
+citeertitel: "Organisatiebesluit AenM"
 identifier: "BWBR0051998"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-12-20"
-last_updated: "2024-07-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0051998"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17687823"
-version_id: "31211312"
-internal_id: "C44644571"
-label_id: "17586874"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0051998/2025-12-20/0"
-intitule_bron: "Stcrt.2025-44392"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-12-17"
-intitule_published: "2025-12-19"
-intitule_in_force: "2025-12-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-44392"
-original_signed_date: "2025-12-17"
-original_published_date: "2025-12-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-44392"
-entry_into_force_date: "2025-12-20"
-jci_1_3: "jci1.3:c:BWBR0051998&z=2025-12-20&g=2025-12-20"
-jci_1_0: "1.0:c:BWBR0051998&g=2025-12-20"
-citeertitel_status: "officieel"
-short_title: "Organisatiebesluit AenM"
-signed_date: "2025-12-17"
-entry_into_force: "2025-12-20"
+publicatiedatum: 2025-12-20
+laatste_update: 2025-12-20
+status: geldig
+toestand: 2025-12-20
+bron: "https://wetten.overheid.nl/BWBR0051998"
+opgehaald: 2026-09-09
 ---
+
 # Besluit van de Minister van Asiel en Migratie van 17 december 2025, 6935891, houdende vaststelling van de organisatie van het Ministerie van Asiel en Migratie (Organisatiebesluit Ministerie van Asiel en Migratie)
-
-Gelet op [artikel 3, tweede lid, van het Coördinatiebesluit organisatie, bedrijfsvoering en informatiesystemen rijksdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3);
-
-Gelet op het [Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293)
-
-Besluit:
 
 ##### Artikel 1. Inleidende bepaling
 
@@ -82,10 +54,8 @@ Wijziging van dit besluit is voorbehouden aan de Minister en geschiedt op voordr
 
 ##### Artikel 6. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 2 juli 2024.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 2 juli 2024.
 
 ##### Artikel 5. Citeertitel
 
 Dit besluit wordt aangehaald als: Organisatiebesluit AenM.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
