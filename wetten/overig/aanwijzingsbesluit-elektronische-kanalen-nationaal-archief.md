@@ -1,28 +1,28 @@
 ---
-title: "Aanwijzingsbesluit elektronische kanalen Nationaal Archief"
+title: "Besluit van de algemene rijksarchivaris van 30 april 2026, nr. NA/57503035, houdende de aanwijzing van de juiste wijze van verzenden van berichten aan het Nationaal Archief in de zin van de artikelen 2:13 en 2:14 van de Algemene wet bestuursrecht (Aanwijzingsbesluit elektronische kanalen Nationaal Archief)"
+citeertitel: "Aanwijzingsbesluit elektronische kanalen Nationaal Archief"
 identifier: "BWBR0052623"
-categorie: "Overig"
+categorie: "Bestuursrecht"
+soort: "ministeriele-regeling"
 publicatiedatum: 2026-05-19
-laatste_update: 2026-05-20
+laatste_update: 2026-05-19
 status: geldig
+toestand: 2026-05-19
 bron: "https://wetten.overheid.nl/BWBR0052623"
+opgehaald: 2026-09-10
 ---
 
 # Besluit van de algemene rijksarchivaris van 30 april 2026, nr. NA/57503035, houdende de aanwijzing van de juiste wijze van verzenden van berichten aan het Nationaal Archief in de zin van de artikelen 2:13 en 2:14 van de Algemene wet bestuursrecht (Aanwijzingsbesluit elektronische kanalen Nationaal Archief)
-
-Gelet op [artikel 2:13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13), en [2:14 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:14) en [artikel 26, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=26);
-
-**Besluit:**
 
 ##### Artikel 1. Definities
 
 Dit besluit verstaat onder:
 
-- a. **bericht:** een bericht als bedoeld in [artikel 2:13, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13);
+- a. *bericht:* een bericht als bedoeld in [artikel 2:13, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13);
 
-- b. **kanaal:** een aangewezen wijze van elektronisch verzenden van berichten als bedoeld in [artikel 2:13, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13).
+- b. *kanaal:* een aangewezen wijze van elektronisch verzenden van berichten als bedoeld in [artikel 2:13, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:13).
 
-- c. **Nationaal Archief:** Nationaal Archief, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
+- c. *Nationaal Archief:* Nationaal Archief, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
 ##### Artikel 2. Algemene bepalingen
 
@@ -45,21 +45,3 @@ Dit besluit treedt in werking met ingang van de dag na bekendmaking in de Staats
 ##### Artikel 5. Citeertitel
 
 Dit besluit wordt aangehaald als: Aanwijzingsbesluit elektronische kanalen Nationaal Archief.
-
-## Bijlage 1. Kanalen Nationaal Archief
-
-Voor berichten die de verzender uit eigen beweging indient, wordt voor elk van de hierna vermelde kernomschrijving een kanaal aangewezen. Elk toegewezen kanaal heeft slechts betrekking op de daarbij genoemde kernomschrijving. Alle kanalen zijn te vinden via de website van het Nationaal Archief.
-
-| Naam officieel bericht | Specifiek kanaal |
-| --- | --- |
-| Verzoek om inzage in openbare archieven | De archieven zijn te reserveren via [https://nationaalarchief.nl/](https://nationaalarchief.nl/) |
-| Verzoek om inzage in archieven met een beperking aan de openbaarheid | Het contactformulier dat beschikbaar is via [Contact \| Nationaal Archief](https://www.nationaalarchief.nl/over-het-na/contact) |
-| Bezwaarschrift tegen een inzagebesluit | Het contactformulier dat beschikbaar is via [Een klacht, Woo-verzoek, bezwaar of AVG-verzoek indienen \| Nationaal Archief](https://www.nationaalarchief.nl/over-het-na/contact/een-klacht-woo-verzoek-bezwaar-of-avg-verzoek-indienen) |
-| Woo-verzoek | info@nationaalarchief.nl |
-| Bezwaarschriften tegen besluiten genomen door of in mandaat van de Minister van Onderwijs, Cultuur en Wetenschap (behandeling door Dienst Uitvoering Onderwijs) | [www.bezwaarschriftenocw.nl](http://www.bezwaarschriftenocw.nl/) |
-| Klachten ([hfst 9 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9)) | Het contactformulier dat beschikbaar is via [Een klacht, Woo-verzoek, bezwaar of AVG-verzoek indienen \| Nationaal Archief](https://www.nationaalarchief.nl/over-het-na/contact/een-klacht-woo-verzoek-bezwaar-of-avg-verzoek-indienen) |
-| Zienswijze indienen op voorgenomen selectielijsten | Het ‘formulier zienswijze selectielijst’ dat beschikbaar is via [Formulier zienswijze selectielijst \| Nationaal Archief](https://www.nationaalarchief.nl/archiveren/formulier-zienswijze-selectielijst) |
-| Verzoeken hoofdstuk 3 AVG / vragen over verwerking persoonsgegevens door of namens Nationaal Archief | Het contactformulier dat beschikbaar is via [Een klacht, Woo-verzoek, bezwaar of AVG-verzoek indienen \| Nationaal Archief](https://www.nationaalarchief.nl/over-het-na/contact/een-klacht-woo-verzoek-bezwaar-of-avg-verzoek-indienen) |
-| Vangnet | Het contactformulier dat beschikbaar is via [Contact \| Nationaal Archief](https://www.nationaalarchief.nl/over-het-na/contact) |
-
-Dit besluit zal met de daarbij behorende toelichting in de Staatscourant worden geplaatst.

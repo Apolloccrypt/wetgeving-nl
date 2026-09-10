@@ -1,135 +1,109 @@
 ---
 title: "Regeling controle en administratie zorgverzekeraars"
 identifier: "BWBR0052505"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-04-09"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052505"
+categorie: "Financieel recht"
 soort: "zbo"
-stam_id: "17829013"
-version_id: "31517102"
-internal_id: "C45006861"
-label_id: "17726264"
-dtd_version: "2.0"
-original_entry_into_force: "2026-04-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052505/2026-04-09/0"
-intitule_bron: "Stcrt.2026-12546"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2026-03-17"
-intitule_published: "2026-04-08"
-intitule_in_force: "2026-04-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-12546"
-original_signed_date: "2026-03-17"
-original_published_date: "2026-04-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-12546"
-entry_into_force_date: "2026-04-09"
-jci_1_3: "jci1.3:c:BWBR0052505&z=2026-04-09&g=2026-04-09"
-jci_1_0: "1.0:c:BWBR0052505&g=2026-04-09"
-citeertitel_status: "officieel"
-signed_date: "2026-03-17"
-entry_into_force: "2026-04-09"
+publicatiedatum: 2026-04-09
+laatste_update: 2026-04-09
+status: geldig
+toestand: 2026-04-09
+bron: "https://wetten.overheid.nl/BWBR0052505"
+opgehaald: 2026-09-10
 ---
+
 # Regeling controle en administratie zorgverzekeraars
-
-De Nederlandse Zorgautoriteit (NZa) houdt toezicht op de rechtmatige uitvoering van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw). Deze bevoegdheid is gebaseerd op [artikel 16, sub b, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=16) (Wmg).
-
-Ingevolge [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=27), [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36) en [artikel 68 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van de controle door zorgverzekeraars en de administratie van zorgverzekeraars.
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-Algemene risicoanalyse
+1.1. Algemene risicoanalyse
 
-1.1. Een analyse zoals bedoeld in [artikel 1, eerste lid, sub y van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=1).
+Een analyse zoals bedoeld in [artikel 1, eerste lid, sub y van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=1).
 
-Algemeen controleplan
+1.2. Algemeen controleplan
 
-1.2. Een plan van aanpak voor de uitvoering van controleactiviteiten gebaseerd op de algemene risicoanalyse.
+Een plan van aanpak voor de uitvoering van controleactiviteiten gebaseerd op de algemene risicoanalyse.
 
-Bzv
+1.3. Bzv
 
-1.3. [Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492).
+[Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492).
 
-Controleactiviteiten
+1.4. Controleactiviteiten
 
-1.4. Het geheel van onderzoek door de zorgverzekeraar op het gebied van formele controles, materiële controles, fraudeonderzoek en gepast gebruik.
+Het geheel van onderzoek door de zorgverzekeraar op het gebied van formele controles, materiële controles, fraudeonderzoek en gepast gebruik.
 
-Formele controle
+1.5. Formele controle
 
-1.5. Een onderzoek als bedoeld in [artikel 1, eerste lid, sub t, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=1).
+Een onderzoek als bedoeld in [artikel 1, eerste lid, sub t, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=1).
 
-Fouten
+1.6. Fouten
 
-1.6. Van een fout in de opgave is sprake wanneer gebleken is dat een post of een gedeelte ervan niet in overeenstemming is met hetgeen bepaald is bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), dan wel de voorschriften van het Handboek van Zorginstituut Nederland of het protocol onderzoek Zvw van de NZa.
+Van een fout in de opgave is sprake wanneer gebleken is dat een post of een gedeelte ervan niet in overeenstemming is met hetgeen bepaald is bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), dan wel de voorschriften van het Handboek van Zorginstituut Nederland of het protocol onderzoek Zvw van de NZa.
 
-Fraudeonderzoek
+1.7. Fraudeonderzoek
 
-1.7. Een onderzoek als bedoeld in [artikel 1, eerste lid, sub v, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=1).
+Een onderzoek als bedoeld in [artikel 1, eerste lid, sub v, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=1).
 
-Gepast gebruik
+1.8. Gepast gebruik
 
-1.8. Het onderzoek, waarbij de zorgverzekeraar middels formele controles en materiele controles toetst, of: De zorg die is gedeclareerd voldoet aan de wettelijke indicatievoorwaarden;
+Het onderzoek, waarbij de zorgverzekeraar middels formele controles en materiele controles toetst, of: De zorg die is gedeclareerd voldoet aan de wettelijke indicatievoorwaarden;
 
-- i). De zorg die is gedeclareerd voldoet aan de stand van wetenschap en praktijk, ook wel effectieve zorg genoemd;
+- i) De zorg die is gedeclareerd voldoet aan de stand van wetenschap en praktijk, ook wel effectieve zorg genoemd;
 
-- ii). De verzekerde redelijkerwijs is aangewezen op de zorg die is gedeclareerd, gezien zijn gezondheidstoestand (ook wel medische noodzaak genoemd).
+- ii) De verzekerde redelijkerwijs is aangewezen op de zorg die is gedeclareerd, gezien zijn gezondheidstoestand (ook wel medische noodzaak genoemd).
 
-Handboek zorgverzekeraars
+1.9. Handboek zorgverzekeraars
 
-1.9. Het 'Handboek zorgverzekeraars informatie [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) over jaar t’ van Zorginstituut Nederland waarin voorschriften over de aanlevering van de opgaven zijn opgenomen.
+Het 'Handboek zorgverzekeraars informatie [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) over jaar t’ van Zorginstituut Nederland waarin voorschriften over de aanlevering van de opgaven zijn opgenomen.
 
-Interne fraude
+1.10. Interne fraude
 
-1.10. Fraude als bedoeld in [artikel 1, lid 1, onder u, van de Rzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=1), waarbij de pleger of medepleger een medewerker is van de zorgverzekeraar, dan wel een natuurlijk persoon die op enige andere wijze werkzaamheden verrichting voor of namens de zorgverzekeraar en daar een tegenprestatie voor ontvangt.
+Fraude als bedoeld in [artikel 1, lid 1, onder u, van de Rzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=1), waarbij de pleger of medepleger een medewerker is van de zorgverzekeraar, dan wel een natuurlijk persoon die op enige andere wijze werkzaamheden verrichting voor of namens de zorgverzekeraar en daar een tegenprestatie voor ontvangt.
 
-Materiële controle
+1.11. Materiële controle
 
-1.11. Een onderzoek als bedoeld in [artikel 1, eerste lid, sub u, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=1).
+Een onderzoek als bedoeld in [artikel 1, eerste lid, sub u, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=1).
 
-Onzekerheid
+1.12. Onzekerheid
 
-1.12. Van een onzekerheid in de opgave is sprake als onvoldoende (controle-) informatie beschikbaar is om een (gedeelte van een) post als goed of fout aan te merken.
+Van een onzekerheid in de opgave is sprake als onvoldoende (controle-) informatie beschikbaar is om een (gedeelte van een) post als goed of fout aan te merken.
 
-Opgaven
+1.13. Opgaven
 
-1.13. Gegevens die de zorgverzekeraar voor de uitvoering van de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) aan Zorginstituut Nederland en NZa conform de Regeling structurele aanlevering gegevens Zorgverzekeringswet aanlevert.
+Gegevens die de zorgverzekeraar voor de uitvoering van de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) aan Zorginstituut Nederland en NZa conform de Regeling structurele aanlevering gegevens Zorgverzekeringswet aanlevert.
 
-Prestatie
+1.14. Prestatie
 
-1.14. Een prestatie zoals omschreven in [artikel 1, eerste lid, sub q van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=1).
+Een prestatie zoals omschreven in [artikel 1, eerste lid, sub q van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=1).
 
-Specifiek controleplan
+1.15. Specifiek controleplan
 
-1.15. Een plan van aanpak voor de uitvoering van detailcontroles gebaseerd op de specifieke risicoanalyse.
+Een plan van aanpak voor de uitvoering van detailcontroles gebaseerd op de specifieke risicoanalyse.
 
-Specifieke risicoanalyse
+1.16. Specifieke risicoanalyse
 
-1.16. Een analyse zoals bedoeld in [artikel 1, eerste lid, sub z van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=1).
+Een analyse zoals bedoeld in [artikel 1, eerste lid, sub z van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=1).
 
-[Rzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018715)
+1.17. Rzv
 
-1.17. [Regeling Zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715).
+[Regeling Zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715).
 
-Regeling structurele aanlevering gegevens
+1.18. Regeling structurele aanlevering gegevens
 
-1.18. [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) De [Regeling structurele aanlevering gegevens Zorgverzekeringswet en Wet langdurige zorg 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051004). Stcrt. 2025, 11412.
+[Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) De [Regeling structurele aanlevering gegevens Zorgverzekeringswet en Wet langdurige zorg 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051004). Stcrt. 2025, 11412.
 
-Signaal
+1.19. Signaal
 
-1.19. In het kader van deze regeling wordt onder signaal verstaan een uiting, in welke vorm dan ook, van (een vermoeden van) een ongewenste situatie met mogelijk nadelige gevolgen voor de uitvoering van de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of de zorgverzekering.
+In het kader van deze regeling wordt onder signaal verstaan een uiting, in welke vorm dan ook, van (een vermoeden van) een ongewenste situatie met mogelijk nadelige gevolgen voor de uitvoering van de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of de zorgverzekering.
 
-[Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078)
+1.20. Wmg
 
-1.20. [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078)
+[Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078)
 
-[Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450)
+1.21. Zvw
 
-1.21. [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
+[Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
 ##### Artikel 2. Doel van de beleidsregel
 
@@ -163,37 +137,41 @@ Deze regeling is van toepassing op verzekeraars voor zover deze zorgverzekeringe
 
 5.3. De zorgverzekeraar neemt op een voor de toezichthouder inzichtelijke wijze in zijn administratie op:
 
-- i). Hoe hij zijn controleactiviteiten heeft uitgevoerd;
+- i) Hoe hij zijn controleactiviteiten heeft uitgevoerd;
 
-- ii). Het onderwerp en object van de controleactiviteiten;
+- ii) Het onderwerp en object van de controleactiviteiten;
 
-- iii). Wat de resultaten zijn van die controleactiviteiten;
+- iii) Wat de resultaten zijn van die controleactiviteiten;
 
-- iv). Wat voor gevolgen hij heeft gegeven aan de uitkomsten van de controles.
+- iv) Wat voor gevolgen hij heeft gegeven aan de uitkomsten van de controles.
 
 5.4. De zorgverzekeraar draagt zorg voor voldoende deskundigheid ten behoeve van een goede uitoefening van zijn controleactiviteiten.
 
 ##### Artikel 6. Bepalingen over controle-aanpak
 
+Risicoanalyse
+
 6.1. De zorgverzekeraar stelt de risicoanalyse met voldoende reikwijdte en diepgang op als basis voor het controleplan. De zorgverzekeraar waarborgt daarbij voldoende inbreng van de verschillende organisatieonderdelen (zorginkoop, medisch adviseurs, coördinator fraudebestrijding).
 
 6.2. De zorgverzekeraar betrekt ten minste de volgende aspecten in de risicoanalyse:
 
-- i). alle zorgsoorten;
+- i) alle zorgsoorten;
 
-- ii). financiële belang van de schade en mogelijke risico;
+- ii) financiële belang van de schade en mogelijke risico;
 
-- iii). standpunten van het Zorginstituut Nederland (ten aanzien van de stand van wetenschap en praktijk);
+- iii) standpunten van het Zorginstituut Nederland (ten aanzien van de stand van wetenschap en praktijk);
 
-- iv). uitkomsten uit eigen onderzoek;
+- iv) uitkomsten uit eigen onderzoek;
 
-- v). signalen vanuit externe bronnen;
+- v) signalen vanuit externe bronnen;
 
-- vi). klachten van verzekerden.
+- vi) klachten van verzekerden.
 
 6.3. De zorgverzekeraar legt de totstandkoming van de risicoanalyse en de keuzes in betrokken onderwerpen op inzichtelijke wijze vast in zijn administratie.
 
 6.4. De zorgverzekeraar waarborgt dat de risicoanalyse actueel is en past daartoe tussentijds de risicoanalyse aan.
+
+Controleplan
 
 6.5. De zorgverzekeraar beschikt voor de uitvoering van de controleactiviteiten over een controleplan, gebaseerd op een risicoanalyse. De zorgverzekeraar beschrijft in het controleplan op welke wijze en met toepassing van welke instrumenten hij het controledoel zal realiseren. Specifieke bepalingen formele controle
 
@@ -202,6 +180,8 @@ Deze regeling is van toepassing op verzekeraars voor zover deze zorgverzekeringe
 6.7. De zorgverzekeraar baseert haar algemene en specifieke controleplan voor de materiële controle en fraudeonderzoek op de [Rzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018715). Om de daadwerkelijke levering van gedeclareerde zorg te beoordelen, maakt de zorgverzekeraar gebruik van de instrumenten detailcontrole en/of enquête (gericht op risicogebieden) voor zover nodig om de gestelde controledoelen te behalen.
 
 6.8. De zorgverzekeraar beschikt voor de uitvoering van detailcontroles over een specifiek controleplan, gebaseerd op een specifieke risicoanalyse.
+
+Specifieke bepalingen voor fraudeonderzoek
 
 6.9. De zorgverzekeraar legt op inzichtelijke wijze in zijn administratie vast of en in hoeverre het controleplan voldoet aan de (inrichtings)eisen van het Protocol verzekeraars & criminaliteit van het Verbond van Verzekeraars en Zorgverzekeraars Nederland.
 
@@ -217,13 +197,21 @@ Deze regeling is van toepassing op verzekeraars voor zover deze zorgverzekeringe
 
 7.2. Indien de zorgverzekeraar afwijkt van het controleplan neemt hij op inzichtelijke wijze in zijn administratie de reden van de afwijking op. De zorgverzekeraar kwantificeert de afwijking.
 
+Specifieke bepaling voor formele controle
+
 7.3. Voor de controleactiviteiten waarbij de zorgverzekeraar steunt op geprogrammeerde controles, moet de zorgverzekeraar een voldoende betrouwbare en continue werking van deze geprogrammeerde controles aantonen.
+
+Specifieke bepaling voor materiële controle
 
 7.4. De zorgverzekeraar neemt een reactie van de zorgaanbieder, als bedoeld in [artikel 7.8, lid 4, van de Rzv](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=7.8), op inzichtelijke wijze op in zijn administratie en vermeldt daarbij de wijze waarop hij de reactie van de zorgaanbieder bij de vaststelling van de definitieve uitkomsten van de detailcontrole heeft betrokken.
 
+Specifieke bepaling voor fraudeonderzoek
+
 7.5. Bij de uitvoering van fraudeonderzoek voert de zorgverzekeraar verdiepend vervolgonderzoek uit op signalen of vermoedens van fraude om vast te stellen of fraude is gepleegd.
 
-7.6. De zorgverzekeraar gebruikt bij de de controleactiviteiten ten aanzien van de transformatiemiddelen het verantwoordings- en beoordelingskader transformatieplannen en de brief ‘Herziening nadere duiding Verantwoordingskader transformatieplannen’ van 29 augustus 2025 zoals afzonderlijk door de NZa gepubliceerd op het Publicatieplatform UitvoeringsContent (PUC). Dit houdt in dat de in deze regeling opgenomen reguliere controle-eisen met betrekking tot formele en materiële controles niet van toepassing zijn op transformatiemiddelen.
+Specifieke bepaling voor transformatiemiddelen
+
+7.6. De zorgverzekeraar gebruikt bij de de controleactiviteiten ten aanzien van de transformatiemiddelen het verantwoordings- en beoordelingskader transformatieplannen en de brief ‘Herziening nadere duiding Verantwoordingskader transformatieplannen’ van 29 augustus 2025 zoals afzonderlijk door de NZa gepubliceerd op het Publicatieplatform UitvoeringsContent (PUC). Dit houdt in dat de in deze regeling opgenomen reguliere controle-eisen met betrekking tot formele en materiële controles niet van toepassing zijn op transformatiemiddelen.
 
 ##### Artikel 8. Bepalingen over vervolgacties en evaluatie
 
@@ -238,6 +226,8 @@ Deze regeling is van toepassing op verzekeraars voor zover deze zorgverzekeringe
 8.5. De zorgverzekeraar corrigeert tijdig alle door hem of door de accountant geconstateerde fouten in de opgaven. De zorgverzekeraar onderzoekt en kwantificeert tijdig de gevolgen voor de rechtmatige uitvoering van de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) van alle onzekerheden over de juistheid van de opgaven.
 
 8.6. De zorgverzekeraar treft, op basis van de evaluatie en afhankelijk van de ernst van de bevindingen, zo nodig maatregelen richting externe partijen.
+
+Specifieke bepaling voor fraudeonderzoek
 
 8.7. De zorgverzekeraar neemt op inzichtelijke wijze in zijn administratie per geval van vastgestelde fraude op welke maatregelen hij heeft getroffen. Indien de zorgverzekeraar een maatregel achterwege laat neemt de zorgverzekeraar dit feit op in zijn administratie onder vermelding van de reden waarom geen maatregel is getroffen.
 
@@ -257,10 +247,16 @@ Gelijktijdig met de inwerkingtreding van deze regeling wordt de [Nadere regel co
 
 ##### Artikel 11. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding, en citeertitel
 
+Toepasselijkheid voorafgaande regeling
+
 De [Nadere regel controle en administratie zorgverzekeraars](https://wetten.overheid.nl/jci1.3:c:BWBR0037337), met kenmerk TH/NR-006, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die regeling en die betrekking hebben op de periode waarvoor die regeling gold.
 
-Artikel I. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de regeling ingevolge [artikel 5, aanhef en onder d, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5) wordt geplaatst en werkt terug tot en met 1 januari 2024.
+Inwerkingtreding / Bekendmaking
+
+Artikel I. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de regeling ingevolge [artikel 5, aanhef en onder d, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5) wordt geplaatst en werkt terug tot en met 1 januari 2024.
 
 De regeling ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl/).
+
+Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling controle en administratie zorgverzekeraars.

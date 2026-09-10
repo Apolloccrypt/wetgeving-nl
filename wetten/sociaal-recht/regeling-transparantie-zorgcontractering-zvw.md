@@ -1,51 +1,25 @@
 ---
 title: "Regeling Transparantie zorgcontractering Zvw"
 identifier: "BWBR0052302"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-02-28"
-last_updated: "2026-02-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052302"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17760883"
-version_id: "31380082"
-internal_id: "C44845541"
-label_id: "17658934"
-dtd_version: "2.0"
-original_entry_into_force: "2026-02-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052302/2026-02-28/0"
-intitule_bron: "Stcrt.2026-4161"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2026-02-03"
-intitule_published: "2026-02-27"
-intitule_in_force: "2026-02-27"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-4161"
-original_signed_date: "2026-02-03"
-original_published_date: "2026-02-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-4161"
-entry_into_force_date: "2026-02-28"
-jci_1_3: "jci1.3:c:BWBR0052302&z=2026-02-28&g=2026-02-28"
-jci_1_0: "1.0:c:BWBR0052302&g=2026-02-28"
-citeertitel_status: "officieel"
-signed_date: "2026-02-03"
-entry_into_force: "2026-02-28"
+publicatiedatum: 2026-02-28
+laatste_update: 2026-02-28
+status: geldig
+toestand: 2026-02-28
+bron: "https://wetten.overheid.nl/BWBR0052302"
+opgehaald: 2026-09-10
 ---
+
 # Regeling Transparantie zorgcontractering Zvw
-
-Gelet op [artikel 45 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=45) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels betreffende de wijze van totstandkoming van overeenkomsten met betrekking tot zorg of tarieven en betreffende de voorwaarden in die overeenkomsten.
-
-Besluit:
 
 ##### Artikel 1. Begripsbepaling
 
 In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
-- 1. **zorgverzekeraar:** een zorgverzekeraar als bedoeld in [artikel 1, eerste lid, onderdeel d, Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1);
+- 1. *zorgverzekeraar:* een zorgverzekeraar als bedoeld in [artikel 1, eerste lid, onderdeel d, Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1);
 
-- 2. **zorgaanbieder:** een zorgaanbieder als bedoeld in [artikel 1, eerste lid, onderdeel c, onder 1°, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
+- 2. *zorgaanbieder:* een zorgaanbieder als bedoeld in [artikel 1, eerste lid, onderdeel c, onder 1°, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
 
 ##### Artikel 2. Doel van deze regeling
 
@@ -57,7 +31,7 @@ Deze regeling is van toepassing op zorgverzekeraars en zorgaanbieders en heeft b
 
 ##### Artikel 4. Bekendmaking zorginkoopbeleid en procedure van zorginkoop
 
-Zorgverzekeraars maken het zorginkoopbeleid en de procedure van de zorginkoop uiterlijk op 1 april voorafgaand aan het kalenderjaar of de kalenderjaren waarvoor de zorginkoop zal plaatsvinden bekend. Deze informatie betreft in ieder geval:
+Zorgverzekeraars maken het zorginkoopbeleid en de procedure van de zorginkoop uiterlijk op 1 april voorafgaand aan het kalenderjaar of de kalenderjaren waarvoor de zorginkoop zal plaatsvinden bekend. Deze informatie betreft in ieder geval:
 
 - 1. de verschillende fasen waaruit de zorginkoop bestaat en de termijnen waarbinnen de zorgaanbieder onderscheidenlijk de zorgverzekeraar in de verschillende fasen moet reageren;
 
@@ -73,11 +47,11 @@ Zorgverzekeraars maken het zorginkoopbeleid en de procedure van de zorginkoop ui
 
 - 7. het beleid en de procedure die van toepassing zijn in geval er sprake is van aanvullende zorginkoop, waarbij de informatie in ieder geval ingaat op:
 
-- ○. de termijnen waarbinnen de zorgaanbieder onderscheidenlijk de zorgverzekeraar in de verschillende fasen moet reageren;
+   - ○ de termijnen waarbinnen de zorgaanbieder onderscheidenlijk de zorgverzekeraar in de verschillende fasen moet reageren;
 
-- ○. de wijze waarop een verzoek tot aanvullende afspraken door een zorgaanbieder ingediend kan worden;
+   - ○ de wijze waarop een verzoek tot aanvullende afspraken door een zorgaanbieder ingediend kan worden;
 
-- ○. de minimumeisen waaraan de zorgverzekeraar een verzoek tot aanvullende afspraken toetst;
+   - ○ de minimumeisen waaraan de zorgverzekeraar een verzoek tot aanvullende afspraken toetst;
 
 - 8. een overzicht van de wijzigingen in het zorginkoopbeleid ten opzichte van het voorgaande zorginkoopbeleid.
 
@@ -95,9 +69,9 @@ Zorgverzekeraars maken het zorginkoopbeleid en de procedure van de zorginkoop ui
 
 ##### Artikel 6. Aanbieden en toelichting offerte en contractvoorstel
 
-1. In sectoren waarbij de zorgaanbieder een offerte aanbiedt, dient de zorgaanbieder uiterlijk 1 oktober voorafgaand aan het kalenderjaar of de kalenderjaren waarvoor de zorginkoop door de zorgverzekeraar plaatsvindt de eerste reële offerte aan te bieden aan de zorgverzekeraar, tenzij de zorgaanbieder en zorgverzekeraar onderling anders hebben afgesproken.
+1. In sectoren waarbij de zorgaanbieder een offerte aanbiedt, dient de zorgaanbieder uiterlijk 1 oktober voorafgaand aan het kalenderjaar of de kalenderjaren waarvoor de zorginkoop door de zorgverzekeraar plaatsvindt de eerste reële offerte aan te bieden aan de zorgverzekeraar, tenzij de zorgaanbieder en zorgverzekeraar onderling anders hebben afgesproken.
 
-2. In sectoren waarbij het proces van zorginkoop digitaal plaatsvindt biedt de zorgverzekeraar in het geval deze voornemens is een contractuele relatie aan te gaan met de zorgaanbieder, uiterlijk 1 oktober voorafgaand aan het kalenderjaar of de kalenderjaren waarvoor de zorginkoop plaatsvindt, het contractvoorstel aan.
+2. In sectoren waarbij het proces van zorginkoop digitaal plaatsvindt biedt de zorgverzekeraar in het geval deze voornemens is een contractuele relatie aan te gaan met de zorgaanbieder, uiterlijk 1 oktober voorafgaand aan het kalenderjaar of de kalenderjaren waarvoor de zorginkoop plaatsvindt, het contractvoorstel aan.
 
 3. Indien de zorgaanbieder onderscheidenlijk zorgverzekeraar door een omstandigheid die buiten diens macht ligt niet in staat is om de eerste reële offerte, respectievelijk het contractvoorstel, aan te bieden binnen de termijn genoemd in het eerste respectievelijk tweede lid, dan dient deze dat uiterlijk op het moment dat deze termijn verstrijkt gemotiveerd kenbaar te maken. In dat geval wordt, zodra dit mogelijk is, ook duidelijk gemaakt binnen welke redelijke termijn de eerste reële offerte respectievelijk het contractvoorstel wel zal worden aangeboden.
 
@@ -121,7 +95,7 @@ Zorgverzekeraars maken het zorginkoopbeleid en de procedure van de zorginkoop ui
 
 1. Indien de zorgverzekeraar een wijziging aanbrengt in het zorginkoopbeleid en/of de procedure van de zorginkoop, maakt hij dit tijdig bekend op dezelfde wijze waarop de bekendmaking van de eerdere informatie heeft plaatsgevonden.
 
-2. Wijzigingen na 1 april worden bij bekendmaking door de zorgverzekeraar gemotiveerd.
+2. Wijzigingen na 1 april worden bij bekendmaking door de zorgverzekeraar gemotiveerd.
 
 ##### Artikel 9. Intrekken oude regeling
 
@@ -133,7 +107,7 @@ De [Regeling Transparantie zorginkoopproces Zvw](https://wetten.overheid.nl/jci1
 
 ##### Artikel 11. Inwerkingtreding en citeertitel
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de regeling ingevolge [artikel 5, aanhef en onder d, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5) wordt geplaatst, voor alle contracten die ingaan op 1 januari 2027 of een latere datum.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de regeling ingevolge [artikel 5, aanhef en onder d, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5) wordt geplaatst, voor alle contracten die ingaan op 1 januari 2027 of een latere datum.
 
 De regeling ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl).
 

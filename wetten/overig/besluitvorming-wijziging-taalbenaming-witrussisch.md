@@ -1,52 +1,44 @@
 ---
 title: "Besluitvorming wijziging taalbenaming Witrussisch"
 identifier: "BWBR0052348"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-02-24"
-last_updated: "2026-02-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052348"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17777093"
-version_id: "31424882"
-internal_id: "C44893291"
-label_id: "17674954"
-dtd_version: "2.0"
-original_entry_into_force: "2026-02-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052348/2026-02-24/0"
-intitule_bron: "Stcrt.2026-7345"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2026-01-15"
-intitule_published: "2026-02-23"
-intitule_in_force: "2026-02-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-7345"
-original_signed_date: "2026-01-15"
-original_published_date: "2026-02-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-7345"
-entry_into_force_date: "2026-02-24"
-jci_1_3: "jci1.3:c:BWBR0052348&z=2026-02-24&g=2026-02-24"
-jci_1_0: "1.0:c:BWBR0052348&g=2026-02-24"
-citeertitel_status: "officieel"
-signed_date: "2026-01-15"
-entry_into_force: "2026-02-24"
+publicatiedatum: 2026-02-24
+laatste_update: 2026-02-24
+status: geldig
+toestand: 2026-02-24
+bron: "https://wetten.overheid.nl/BWBR0052348"
+opgehaald: 2026-09-10
 ---
+
 # Besluitvorming wijziging taalbenaming Witrussisch
 
 De Raad voor Rechtsbijstand,
 
-**Overwegende dat:**
+*Overwegende dat:*
 
-**Stelt vast dat:**
+- − de Adviescommissie Talen Wbtv zijn grondslag vindt in de [Regeling van de Raad voor Rechtsbijstand van 6 augustus 2015, houdende de instelling van de Adviescommissie Talen Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0036939) (Stcrt 2015, nr. 25102);
 
-**Besluit dat:**
+- − de Adviescommissie Talen Wbtv advies uitbrengt over de wettelijke competentie taalvaardigheid;
+
+- − de Raad voor Rechtsbijstand aanleiding heeft gezien om advies in te winnen bij de Adviescommissie Talen Wbtv omtrent het gebruik van de taalbenaming Witrussisch;
+
+- − de Adviescommissie Talen Wbtv op 16 december 2025 advies heeft uitgebracht.
+
+*Stelt vast dat:*
+
+- − het Witrussisch in de door de Raad voor Rechtsbijstand gehanteerde taallijst is opgenomen als spreek- en schrijftaal;
+
+- − het gebruik van de taalbenaming Witrussisch niet langer de voorkeur heeft en dat de taalbenaming Belarussisch de voorkeur geniet.
+
+*Besluit dat:*
+
+- – de taalbenaming Witrussisch wordt gewijzigd naar Belarussisch in de door de Raad voor Rechtsbijstand gehanteerde taallijst;
+
+- – het Witrussisch als niet-voorkeursnaam van het Belarussisch wordt opgenomen in de door de Raad voor Rechtsbijstand gehanteerde taallijst.
 
 ### Slotbepalingen
 
-Dit besluit wordt aangehaald als ‘**Besluitvorming wijziging taalbenaming Witrussisch’.**
+Dit besluit wordt aangehaald als ‘*Besluitvorming wijziging taalbenaming Witrussisch’.*
 
 Bekendmaking vindt plaats door publicatie in de Staatscourant.
-
-Dit besluit treedt in werking één dag na publicatie in de Staatscourant.

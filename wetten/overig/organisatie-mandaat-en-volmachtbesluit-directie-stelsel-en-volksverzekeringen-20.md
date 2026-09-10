@@ -1,18 +1,18 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit directie Stelsel en Volksverzekeringen 2026"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 29 april 2026, nr. 2026-0000120908, houdende de inrichting van de directie Stelsel en Volksverzekeringen alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Stelsel en Volksverzekeringen (Organisatie-, mandaat- en volmachtbesluit directie Stelsel en Volksverzekeringen 2026)"
+citeertitel: "Organisatie-, mandaat- en volmachtbesluit directie Stelsel en Volksverzekeringen 2026"
 identifier: "BWBR0052610"
-categorie: "Overig"
+categorie: "Sociaal recht"
+soort: "ministeriele-regeling"
 publicatiedatum: 2026-05-14
 laatste_update: 2026-05-14
 status: geldig
+toestand: 2026-05-14
 bron: "https://wetten.overheid.nl/BWBR0052610"
+opgehaald: 2026-09-10
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 29 april 2026, nr. 2026-0000120908, houdende de inrichting van de directie Stelsel en Volksverzekeringen alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Stelsel en Volksverzekeringen (Organisatie-, mandaat- en volmachtbesluit directie Stelsel en Volksverzekeringen 2026)
-
-Gelet op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&artikel=3), en [10 van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Sociale Zekerheid en Integratie 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&artikel=10);
-
-Besluit:
 
 #### § 1. Algemeen
 
@@ -20,29 +20,32 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **AIO:** Algemene Inkomensondersteuning Ouderen.
+- a. *AIO:* Algemene Inkomensondersteuning Ouderen.
 
-- b. **AKW:** [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368);
+- b. *AKW:*
+ [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368);
 
-- c. **ANW:** [Algemene Nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795);
+- c. *ANW:*
+ [Algemene Nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795);
 
-- d. **AOW:** [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221);
+- d. *AOW:*
+ [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221);
 
-- e. **BIDN:** Bureau InformatieDiensten Nederland;
+- e. *BIDN:* Bureau InformatieDiensten Nederland;
 
-- f. **BKWI:** Bureau Keteninformatisering Werk en Inkomen;
+- f. *BKWI:* Bureau Keteninformatisering Werk en Inkomen;
 
-- g. **NAU:** Nederlandse Autoriteit Uitleenmarkt;
+- g. *NAU:* Nederlandse Autoriteit Uitleenmarkt;
 
-- h. **SV:** de directie Stelsel en Volksverzekeringen van het ministerie;
+- h. *SV:* de directie Stelsel en Volksverzekeringen van het ministerie;
 
-- i. **SVB:** Sociale Verzekeringsbank;
+- i. *SVB:* Sociale Verzekeringsbank;
 
-- j. **SUWI-organisaties:** het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6), de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6) en het Inlichtingenbureau, genoemd in [artikel 63 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=63);
+- j. *SUWI-organisaties:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6), de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6) en het Inlichtingenbureau, genoemd in [artikel 63 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=63);
 
-- k. **UWV:** Uitvoeringsinstituut Werknemersverzekeringen;
+- k. *UWV:* Uitvoeringsinstituut Werknemersverzekeringen;
 
-- l. **Wet SUWI:** de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060).
+- l. *Wet SUWI:* de [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060).
 
 #### § 2. Organisatie en taken afdelingen
 
@@ -112,27 +115,27 @@ Het hoofd van de afdeling Preventie en Handhaving is verantwoordelijk voor de vo
 
 Het hoofd van de afdeling Uitvoeringsvraagstukken is verantwoordelijk voor de volgende algemene taken:
 
-- a). het periodiek informeren van de Tweede Kamer over ontwikkelingen en knelpunten in de uitvoering bij UWV en SVB via de Stand van de uitvoering;
+- a) het periodiek informeren van de Tweede Kamer over ontwikkelingen en knelpunten in de uitvoering bij UWV en SVB via de Stand van de uitvoering;
 
-- b). het inbrengen en uitbouwen van het perspectief van mensen in inkomensondersteuning in beleid en uitvoering, met bijzondere aandacht voor eenvoudigere regelingen en dienstverlening;
+- b) het inbrengen en uitbouwen van het perspectief van mensen in inkomensondersteuning in beleid en uitvoering, met bijzondere aandacht voor eenvoudigere regelingen en dienstverlening;
 
-- c). de wisselwerking van het programma Werk aan Uitvoering naar het domein van werk en inkomen en het adviseren aan hoogambtelijke en ministeriële gremia op dit terrein;
+- c) de wisselwerking van het programma Werk aan Uitvoering naar het domein van werk en inkomen en het adviseren aan hoogambtelijke en ministeriële gremia op dit terrein;
 
-- d). het intra- en interdepartementaal coördineren van de regeldrukprogramma’s voor bedrijven, burgers, professionals en mede-overheden waar deze het werkterrein van SZW raken;
+- d) het intra- en interdepartementaal coördineren van de regeldrukprogramma’s voor bedrijven, burgers, professionals en mede-overheden waar deze het werkterrein van SZW raken;
 
-- e). het ontwikkelen van een strategische visie op vereenvoudiging van het stelsel van werk en inkomen en het coördineren van de hervormingsagenda inkomenszekerheid;
+- e) het ontwikkelen van een strategische visie op vereenvoudiging van het stelsel van werk en inkomen en het coördineren van de hervormingsagenda inkomenszekerheid;
 
-- f). het borgen van kwalitatief hoogwaardig onderzoek en een eenduidige onderzoeksondersteuning, onderzoekscoördinatie en visievorming voor de directie;
+- f) het borgen van kwalitatief hoogwaardig onderzoek en een eenduidige onderzoeksondersteuning, onderzoekscoördinatie en visievorming voor de directie;
 
-- g). het trekken van lessen en de doorvertaling daarvan ten aanzien van het beleid en de uitvoering in het domein van werk en inkomen;
+- g) het trekken van lessen en de doorvertaling daarvan ten aanzien van het beleid en de uitvoering in het domein van werk en inkomen;
 
-- h). het versterken van de beleidskwaliteit binnen SZW door de coördinatie en het doorontwikkelen van het beleidskompas;
+- h) het versterken van de beleidskwaliteit binnen SZW door de coördinatie en het doorontwikkelen van het beleidskompas;
 
-- i). het samenwerken met de beleidsdirecties SZW-breed met als doel ketens en netwerken te versterken;
+- i) het samenwerken met de beleidsdirecties SZW-breed met als doel ketens en netwerken te versterken;
 
-- j). het inzetten en aanjagen van verandering met betrekking tot de vraagstukken rondom ketens;
+- j) het inzetten en aanjagen van verandering met betrekking tot de vraagstukken rondom ketens;
 
-- k). het monitoren en faciliteren van beleidsdirecties van het ministerie op het gebied van samenwerken aan onderwerpen als gegevensuitwisseling binnen de ketens met eenduidige generieke voorzieningen en spelregels.
+- k) het monitoren en faciliteren van beleidsdirecties van het ministerie op het gebied van samenwerken aan onderwerpen als gegevensuitwisseling binnen de ketens met eenduidige generieke voorzieningen en spelregels.
 
 ##### Artikel 7
 
@@ -174,7 +177,7 @@ Aan de hoofden van de afdelingen wordt mandaat en machtiging verleend met betrek
 
 ##### Artikel 10
 
-Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogte € 75.000 per overeenkomst inclusief btw. Dit geldt voor:
+Aan de hoofden van de afdelingen wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogte € 75.000 per overeenkomst inclusief btw. Dit geldt voor:
 
 - a. het organiseren en accorderen van activiteiten binnen hun eigen taakveld;
 
@@ -199,5 +202,3 @@ Bij afwezigheid of verhindering van de directeur SV worden, voor de duur van de 
 2. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
 3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Stelsel en Volksverzekeringen 2026.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

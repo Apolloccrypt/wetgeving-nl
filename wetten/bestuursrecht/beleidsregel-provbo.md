@@ -1,66 +1,41 @@
 ---
 title: "Beleidsregel van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 3 februari 2026, nr. 61729394, houdende nadere regels voor het organiseren van onderbouwklassen voor praktijkonderwijs en voorbereidend beroepsonderwijs (Beleidsregel pro/vbo)"
+citeertitel: "Beleidsregel pro/vbo"
 identifier: "BWBR0052287"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2026-02-13"
-last_updated: "2026-02-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052287"
+categorie: "Onderwijs"
 soort: "beleidsregel"
-stam_id: "17758173"
-version_id: "31375542"
-internal_id: "C44837221"
-label_id: "17656414"
-dtd_version: "2.0"
-original_entry_into_force: "2026-02-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052287/2026-02-13/0"
-intitule_bron: "Stcrt.2026-4147"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2026-02-03"
-intitule_published: "2026-02-12"
-intitule_in_force: "2026-02-12"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-4147"
-original_signed_date: "2026-02-03"
-original_published_date: "2026-02-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-4147"
-entry_into_force_date: "2026-02-13"
-jci_1_3: "jci1.3:c:BWBR0052287&z=2026-02-13&g=2026-02-13"
-jci_1_0: "1.0:c:BWBR0052287&g=2026-02-13"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel pro/vbo"
-signed_date: "2026-02-03"
-entry_into_force: "2026-02-13"
+publicatiedatum: 2026-02-13
+laatste_update: 2026-02-13
+status: geldig
+toestand: 2026-02-13
+bron: "https://wetten.overheid.nl/BWBR0052287"
+opgehaald: 2026-09-10
 ---
+
 # Beleidsregel van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 3 februari 2026, nr. 61729394, houdende nadere regels voor het organiseren van onderbouwklassen voor praktijkonderwijs en voorbereidend beroepsonderwijs (Beleidsregel pro/vbo)
-
-Gelet op [artikel 9.3 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=9.3);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
-- **bevoegd gezag:** bevoegd gezag als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
+- *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
-- **medezeggenschapsraad:** medezeggenschapsraad als bedoeld in [artikel 3 van de Wet medezeggenschap op scholen](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&artikel=3);
+- *medezeggenschapsraad:* medezeggenschapsraad als bedoeld in [artikel 3 van de Wet medezeggenschap op scholen](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&artikel=3);
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **pro:** praktijkonderwijs als bedoeld in [artikel 2.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.8);
+- *pro:* praktijkonderwijs als bedoeld in [artikel 2.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.8);
 
-- **school:** school of scholengemeenschap voor voortgezet onderwijs waar openbaar of uit de openbare kas bekostigd bijzonder onderwijs wordt verzorgd als bedoeld in de [artikelen 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.7) en [2.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.8);
+- *school:* school of scholengemeenschap voor voortgezet onderwijs waar openbaar of uit de openbare kas bekostigd bijzonder onderwijs wordt verzorgd als bedoeld in de [artikelen 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.7) en [2.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.8);
 
-- **toelaatbaarheidsverklaring:** verklaring als bedoeld in [artikel 2.30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.30);
+- *toelaatbaarheidsverklaring:* verklaring als bedoeld in [artikel 2.30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.30);
 
-- **vbo:** voorbereidend beroepsonderwijs als bedoeld in [artikel 2.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.7);
+- *vbo:* voorbereidend beroepsonderwijs als bedoeld in [artikel 2.7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.7);
 
-- **wet:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
+- *wet:*
+ [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
 
-- **zeer zwakke school:** zeer zwakke school als bedoeld in [artikel 2.94 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.94).
+- *zeer zwakke school:* zeer zwakke school als bedoeld in [artikel 2.94 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.94).
 
 ##### Artikel 2. Doel en inhoud
 
@@ -90,7 +65,7 @@ In deze beleidsregel wordt verstaan onder:
 
 ##### Artikel 4. Aanvraag
 
-1. Het bevoegd gezag van de pro-school dient een aanvraag in bij de minister voor het starten van een onderbouwklas op uiterlijk 31 maart van het daaraan voorafgaande schooljaar.
+1. Het bevoegd gezag van de pro-school dient een aanvraag in bij de minister voor het starten van een onderbouwklas op uiterlijk 31 maart van het daaraan voorafgaande schooljaar.
 
 2. De aanvraag, bedoeld in het eerste lid, omvat:
 
@@ -125,5 +100,3 @@ Deze beleidsregel treedt in werking met ingang van de dag na de datum van public
 ##### Artikel 9. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel pro/vbo.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

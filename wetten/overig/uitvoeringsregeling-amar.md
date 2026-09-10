@@ -1,43 +1,17 @@
 ---
 title: "Uitvoeringsregeling AMAR"
 identifier: "BWBR0052495"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-04"
-last_updated: "2026-04-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052495"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17826343"
-version_id: "31513592"
-internal_id: "C45000231"
-label_id: "17724054"
-dtd_version: "2.0"
-original_entry_into_force: "2026-04-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052495/2026-04-04/0"
-intitule_bron: "Stcrt.2026-12682"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2026-03-19"
-intitule_published: "2026-04-03"
-intitule_in_force: "2026-04-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-12682"
-original_signed_date: "2026-03-19"
-original_published_date: "2026-04-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-12682"
-entry_into_force_date: "2026-04-04"
-jci_1_3: "jci1.3:c:BWBR0052495&z=2026-04-04&g=2026-04-04"
-jci_1_0: "1.0:c:BWBR0052495&g=2026-04-04"
-citeertitel_status: "officieel"
-signed_date: "2026-03-19"
-entry_into_force: "2026-04-04"
+publicatiedatum: 2026-04-04
+laatste_update: 2026-04-04
+status: geldig
+toestand: 2026-04-04
+bron: "https://wetten.overheid.nl/BWBR0052495"
+opgehaald: 2026-09-10
 ---
+
 # Uitvoeringsregeling AMAR
-
-Gelet op het [Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -45,17 +19,17 @@ Besluit:
 
 Voor de toepassing van deze regeling wordt verstaan onder:
 
-- **C-OPCO:** de commandant operationeel commando;
+- *C-OPCO:* de commandant operationeel commando;
 
-- **dienverplichting:** de voor de militair geldende verplichting bedoeld in [artikel 12k van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12k) jo. [artikel 7 van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=7) of [artikel 3 van de Regeling tijdelijke aanstelling militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0051757&artikel=3);
+- *dienverplichting:* de voor de militair geldende verplichting bedoeld in [artikel 12k van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12k) jo. [artikel 7 van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=7) of [artikel 3 van de Regeling tijdelijke aanstelling militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0051757&artikel=3);
 
-- **FG-formulier:** het functioneringsgesprekformulier;
+- *FG-formulier:* het functioneringsgesprekformulier;
 
-- **HDO:** het hoofd defensieonderdeel;
+- *HDO:* het hoofd defensieonderdeel;
 
-- **Minister:** de Minister van Defensie;
+- *Minister:* de Minister van Defensie;
 
-- **POP-formulier:** het persoonlijk ontwikkelplanformulier.
+- *POP-formulier:* het persoonlijk ontwikkelplanformulier.
 
 ### Hoofdstuk 2. Aanstelling en ontslag
 
@@ -63,7 +37,7 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 ##### Artikel 2:1. Maximum leeftijdsgrens bij aanstelling
 
-Voor de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052495&bijlage=1&z=2026-04-04&g=2026-04-04) bij deze regeling opgenomen specifieke functiegroepen personeel gelden de daarbij vermelde maximum leeftijden bij de initiële aanstelling bij het beroepspersoneel.
+Voor de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052495&bijlage=1&z=2026-04-04&g=2026-04-04) bij deze regeling opgenomen specifieke functiegroepen personeel gelden de daarbij vermelde maximum leeftijden bij de initiële aanstelling bij het beroepspersoneel.
 
 ##### Artikel 2:2. Aanstelling bij het beroepspersoneel
 
@@ -73,7 +47,7 @@ Voor de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052495&bijlage=1
 
 3. In afwijking van het eerste of het tweede lid behoudt de militair, die voor aanvang van de initiële opleiding reeds was aangesteld bij het beroepspersoneel, zijn rang tenzij toepassing van een van die leden leidt tot toekenning van een hogere rang.
 
-4. De militair die bij aanstelling bij het beroepspersoneel wordt aangewezen voor het volgen van de specialistenopleiding voor officieren dan wel de specialistenopleiding voor onderofficieren, wordt bij aanstelling voor de duur van de opleiding een tijdelijke rang als bedoeld in [artikel 24b, tweede lid, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=24b) toegekend die is verbonden aan de functie welke hem na voltooiing van deze opleiding zal worden toegewezen.
+4. De militair die bij aanstelling bij het beroepspersoneel wordt aangewezen voor het volgen van de specialistenopleiding voor officieren dan wel de specialistenopleiding voor onderofficieren, wordt bij aanstelling voor de duur van de opleiding een tijdelijke rang als bedoeld in [artikel 24b, tweede lid, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=24b) toegekend die is verbonden aan de functie welke hem na voltooiing van deze opleiding zal worden toegewezen.
 
 ##### Artikel 2:3. Aanstelling bij het reservepersoneel
 
@@ -85,11 +59,11 @@ Voor de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052495&bijlage=1
 
 4. De gegadigde voor een aanstelling bij het reservepersoneel komt niet in aanmerking voor een bestemming om functies te vervullen bij het Korps Nationale Reserve indien hij reeds een bestemming heeft voor opkomst in geval van nationale rampen en crisissituaties bij een onderdeel van de krijgsmacht of daarbuiten.
 
-5. Aan een aanstelling bij het reservepersoneel wordt een proeftijd verbonden van 6 maanden indien de militair niet beschikt over eerder opgedane militaire ervaring.
+5. Aan een aanstelling bij het reservepersoneel wordt een proeftijd verbonden van 6 maanden indien de militair niet beschikt over eerder opgedane militaire ervaring.
 
 ##### Artikel 2:4. Aan de aanstelling verbonden verplichting
 
-1. De specifieke groepen personeel, bedoeld in [artikel 7, tweede lid, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=7) waarvoor een vermindering van de aan de aanstelling verbonden verplichting geldt, zijnl:
+1. De specifieke groepen personeel, bedoeld in [artikel 7, tweede lid, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=7) waarvoor een vermindering van de aan de aanstelling verbonden verplichting geldt, zijnl:
 
 - a. militairen in de stand van soldaat of korporaal die zijn ingedeeld bij de Koninklijke landmacht: gedurende de initiële opleiding en aansluitend een periode van twee jaar;
 
@@ -97,17 +71,17 @@ Voor de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052495&bijlage=1
 
 2. Bij het besluit tot wijziging van de bestemming krijgt de militair de bij die bestemming behorende dienverplichting opgelegd. Hierop wordt in mindering gebracht de bij aanstelling opgelegde dienverplichting voor zover deze is voldaan.
 
-3. Voor officieren-arts die voor 1 februari 2025 als officier-arts bij het beroepspersoneel zijn aangesteld dan wel voor 1 februari 2025 zijn geworven waarbij de aanstelling aanvangt na 1 februari 2025, blijft de aan hen opgelegde dan wel toegezegde verplichting om deel uit te maken van het beroepspersoneel gehandhaafd.
+3. Voor officieren-arts die voor 1 februari 2025 als officier-arts bij het beroepspersoneel zijn aangesteld dan wel voor 1 februari 2025 zijn geworven waarbij de aanstelling aanvangt na 1 februari 2025, blijft de aan hen opgelegde dan wel toegezegde verplichting om deel uit te maken van het beroepspersoneel gehandhaafd.
 
 #### Paragraaf 2.2. Ontslag
 
 ##### Artikel 2:5. Uiterste keuzemoment aanvraag ontslag oude diensteinderegeling
 
-1. De aanvraag, bedoeld in [artikel 39a, eerste tot met vijfde lid van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39a), moet uiterlijk drie jaar voor de datum van leeftijdsontslag op grond van de ‘oude’ diensteinderegeling zijn ingediend.
+1. De aanvraag, bedoeld in [artikel 39a, eerste tot met vijfde lid van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39a), moet uiterlijk drie jaar voor de datum van leeftijdsontslag op grond van de ‘oude’ diensteinderegeling zijn ingediend.
 
-2. De militair die vóór 1 januari 2020 een aanvraag als bedoeld in het eerste lid heeft ingediend kan de aanvraag of gehonoreerde aanvraag eenmalig intrekken tot drie jaar voor de voor hem op basis van de ‘oude’ diensteinderegeling geldende datum van leeftijdsontslag.
+2. De militair die vóór 1 januari 2020 een aanvraag als bedoeld in het eerste lid heeft ingediend kan de aanvraag of gehonoreerde aanvraag eenmalig intrekken tot drie jaar voor de voor hem op basis van de ‘oude’ diensteinderegeling geldende datum van leeftijdsontslag.
 
-3. Onder ‘oude’ diensteinderegeling wordt verstaan: de [artikelen 39a tot en met 39d van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39a) zoals die artikelen luidden vóór 1 januari 2017.
+3. Onder ‘oude’ diensteinderegeling wordt verstaan: de [artikelen 39a tot en met 39d van het Algemeen militair ambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=39a) zoals die artikelen luidden vóór 1 januari 2017.
 
 ### Hoofdstuk 3. Opleiding, functietoewijzing, bevordering en loopbaanbegeleiding
 
@@ -121,15 +95,15 @@ Het HDO draagt zorg voor vaststelling van opleidingsreglementen voor de onder he
 
 - b. het voor de cursist geldende beoordelingssysteem tijdens de initiële opleiding;
 
-- c. de bevorderingsmomenten tijdens de opleiding, met inachtneming van [artikel 24b van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=24b);
+- c. de bevorderingsmomenten tijdens de opleiding, met inachtneming van [artikel 24b van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=24b);
 
 - d. de mogelijkheid om de opleiding of een onderdeel daarvan te herhalen indien de herhaling binnen een redelijke termijn kan worden begonnen en de verwachting bestaat dat de opleiding hierdoor met goed gevolg zal worden afgerond;
 
 - e. de mogelijkheid om de opleiding via een korte voortzetting alsnog af te ronden;
 
-- f. de mogelijkheid om tijdens het volgen van de initiële opleiding een bestemmingswijziging als bedoeld in [artikel 12a van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=12a) te krijgen;
+- f. de mogelijkheid om tijdens het volgen van de initiële opleiding een bestemmingswijziging als bedoeld in [artikel 12a van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=12a) te krijgen;
 
-- g. regels voor een voordracht tot ontheffing uit een opleiding die ten minste de volgende elementen bevatten: (1) de motivering van de voordracht; (2) het gemotiveerd advies om de militair al dan niet in aanmerking te brengen voor de mogelijkheden genoemd onder d, e of f; (3) een uitspraak of de voordracht wordt dan wel mede wordt veroorzaakt door omstandigheden die komen voor rekening en risico van de militair.
+- g. regels voor een voordracht tot ontheffing uit een opleiding die ten minste de volgende elementen bevatten: (1) de motivering van de voordracht; (2) het gemotiveerd advies om de militair al dan niet in aanmerking te brengen voor de mogelijkheden genoemd onder d, e of f; (3) een uitspraak of de voordracht wordt dan wel mede wordt veroorzaakt door omstandigheden die komen voor rekening en risico van de militair.
 
 ##### Artikel 3:2. Commissie van advies bij ontheffing uit de opleiding
 
@@ -143,7 +117,7 @@ Het HDO draagt zorg voor vaststelling van opleidingsreglementen voor de onder he
 
 ##### Artikel 3:3. Vergoeding van kosten
 
-De kosten, genoemd in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=14), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=15), [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=16) en [16a, derde](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=16a) en [16bis, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=16bis), die in ieder geval voor vergoeding in aanmerking komen, zijn, voor zover zij niet rechtstreeks voor rekening komen van of rechtstreeks worden betaald door het Ministerie van Defensie:
+De kosten, genoemd in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=14), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=15), [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=16) en [16a, derde](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=16a) en [16bis, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=16bis), die in ieder geval voor vergoeding in aanmerking komen, zijn, voor zover zij niet rechtstreeks voor rekening komen van of rechtstreeks worden betaald door het Ministerie van Defensie:
 
 - a. inschrijvings-, les-, college-, practicum-, examen- en diplomagelden, met uitzondering van kosten verbonden aan het volgen van praktisch vliegonderricht;
 
@@ -155,55 +129,55 @@ Eventuele tegemoetkomingen van derden worden hierop in mindering gebracht.
 
 ##### Artikel 3:4. Informatie voortgang
 
-De militair, die een opleiding, als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=16), [16a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=16a) of [16bis van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=16bis), volgt buiten het Ministerie van Defensie, informeert het HDO schriftelijk over de voortgang van zijn opleiding, met overlegging van cijferlijsten, certificaten en diploma’s van de externe onderwijsinstelling.
+De militair, die een opleiding, als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=16), [16a](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=16a) of [16bis van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=16bis), volgt buiten het Ministerie van Defensie, informeert het HDO schriftelijk over de voortgang van zijn opleiding, met overlegging van cijferlijsten, certificaten en diploma’s van de externe onderwijsinstelling.
 
 ##### Artikel 3:5. Maximale vergoeding individuele opleidingsaanspraak militair
 
-1. De kosten, bedoeld in [artikel 16bis, tweede lid, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=16bis), worden vergoed:
+1. De kosten, bedoeld in [artikel 16bis, tweede lid, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=16bis), worden vergoed:
 
-- a. tot ten hoogste € 1.200,– wanneer de aanstelling bij het beroepspersoneel vanaf het moment van het einde van de dienverplichting tot twee jaar duurt;
+- a. tot ten hoogste € 1.200,– wanneer de aanstelling bij het beroepspersoneel vanaf het moment van het einde van de dienverplichting tot twee jaar duurt;
 
-- b. tot ten hoogste € 2.400,– wanneer de aanstelling bij het beroepspersoneel vanaf het moment van het einde van de dienverplichting twee tot vier jaar duurt;
+- b. tot ten hoogste € 2.400,– wanneer de aanstelling bij het beroepspersoneel vanaf het moment van het einde van de dienverplichting twee tot vier jaar duurt;
 
-- c. tot ten hoogste € 3.600,– wanneer de aanstelling bij het beroepspersoneel vanaf het moment van het einde van de dienverplichting vier tot zes jaar duurt;
+- c. tot ten hoogste € 3.600,– wanneer de aanstelling bij het beroepspersoneel vanaf het moment van het einde van de dienverplichting vier tot zes jaar duurt;
 
-- d. tot ten hoogste € 5.400,– wanneer de aanstelling bij het beroepspersoneel vanaf het moment van het einde van de dienverplichting zes tot acht jaar duurt;
+- d. tot ten hoogste € 5.400,– wanneer de aanstelling bij het beroepspersoneel vanaf het moment van het einde van de dienverplichting zes tot acht jaar duurt;
 
-- e. tot ten hoogste € 7.200,– wanneer de aanstelling bij het beroepspersoneel vanaf het moment van het einde van de dienverplichting langer dan acht jaar duurt;
+- e. tot ten hoogste € 7.200,– wanneer de aanstelling bij het beroepspersoneel vanaf het moment van het einde van de dienverplichting langer dan acht jaar duurt;
 
 - f. voor de militair aangesteld bij het beroepspersoneel zonder dienverplichting:
 
-- 1°. tot ten hoogste € 1.200,– wanneer de aanstelling bij het beroepspersoneel vier tot zes jaar duurt;
+   - 1° tot ten hoogste € 1.200,– wanneer de aanstelling bij het beroepspersoneel vier tot zes jaar duurt;
 
-- 2°. tot ten hoogste € 2.400,– wanneer de aanstelling bij het beroepspersoneel zes tot acht jaar duurt;
+   - 2° tot ten hoogste € 2.400,– wanneer de aanstelling bij het beroepspersoneel zes tot acht jaar duurt;
 
-- 3°. tot ten hoogste € 3.600,– wanneer de aanstelling bij het beroepspersoneel acht tot tien jaar duurt;
+   - 3° tot ten hoogste € 3.600,– wanneer de aanstelling bij het beroepspersoneel acht tot tien jaar duurt;
 
-- 4°. tot ten hoogste € 5.400,– wanneer de aanstelling bij het beroepspersoneel tien tot twaalf jaar duurt;
+   - 4° tot ten hoogste € 5.400,– wanneer de aanstelling bij het beroepspersoneel tien tot twaalf jaar duurt;
 
-- 5°. tot ten hoogste € 7.200,– wanneer de aanstelling bij het beroepspersoneel langer dan twaalf jaar duurt.
+   - 5° tot ten hoogste € 7.200,– wanneer de aanstelling bij het beroepspersoneel langer dan twaalf jaar duurt.
 
 2. In aanvulling op de vergoeding van de opleidingskosten, bedoeld in het eerste lid, wordt een extra vergoeding toegekend:
 
-- a. tot ten hoogste € 600,– indien de militair een uitzendverleden heeft van maximaal een half jaar;
+- a. tot ten hoogste € 600,– indien de militair een uitzendverleden heeft van maximaal een half jaar;
 
-- b. tot ten hoogste € 1.200,– indien de militair een uitzendverleden heeft van een half jaar of meer maar minder dan een jaar;
+- b. tot ten hoogste € 1.200,– indien de militair een uitzendverleden heeft van een half jaar of meer maar minder dan een jaar;
 
-- c. tot ten hoogste € 1.800,– indien de militair een uitzendverleden heeft van een jaar of meer maar minder dan twee jaar;
+- c. tot ten hoogste € 1.800,– indien de militair een uitzendverleden heeft van een jaar of meer maar minder dan twee jaar;
 
-- d. tot ten hoogste € 2.400,– indien de militair een uitzendverleden heeft van twee jaar of meer.
+- d. tot ten hoogste € 2.400,– indien de militair een uitzendverleden heeft van twee jaar of meer.
 
-##### Artikel 3:6. Duur terugbetalingsverplichting en drempelbedrag voor de opleidingen genoemd in de [artikelen 14 tot en met 16a van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=14)
+##### Artikel 3:6. Duur terugbetalingsverplichting en drempelbedrag voor de opleidingen genoemd in de artikelen 14 tot en met 16a van het AMAR
 
-1. Er wordt geen terugbetalingsverplichting opgelegd, wanneer de totale kosten van de opleiding minder dan € 4.000,– bedragen.
+1. Er wordt geen terugbetalingsverplichting opgelegd, wanneer de totale kosten van de opleiding minder dan € 4.000,– bedragen.
 
-2. De periode, waarover de terugbetalingsverplichting, genoemd in [artikel 16e van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=16e), geldt, is afhankelijk van de duur van de opleiding. Is de duur van de opleiding korter dan of gelijk aan zes maanden dan geldt de terugbetalingsverplichting gedurende de opleiding en aansluitend een periode van twee jaar. Is de duur van de opleiding langer dan zes maanden dan geldt de terugbetalingsverplichting gedurende de opleiding en aansluitend een periode van vier jaar.
+2. De periode, waarover de terugbetalingsverplichting, genoemd in [artikel 16e van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=16e), geldt, is afhankelijk van de duur van de opleiding. Is de duur van de opleiding korter dan of gelijk aan zes maanden dan geldt de terugbetalingsverplichting gedurende de opleiding en aansluitend een periode van twee jaar. Is de duur van de opleiding langer dan zes maanden dan geldt de terugbetalingsverplichting gedurende de opleiding en aansluitend een periode van vier jaar.
 
 3. In afwijking van het gestelde in het tweede lid geldt een terugbetalingsverplichting gedurende de opleiding en aansluitend een periode van:
 
-- a. twee jaar, indien de totale kosten van de opleiding op basis van berekening vooraf tussen de € 4.000,– en € 10.000,– bedragen;
+- a. twee jaar, indien de totale kosten van de opleiding op basis van berekening vooraf tussen de € 4.000,– en € 10.000,– bedragen;
 
-- b. zes jaar, indien de totale kosten van de opleiding op basis van berekening vooraf meer bedragen dan € 150.000,–.
+- b. zes jaar, indien de totale kosten van de opleiding op basis van berekening vooraf meer bedragen dan € 150.000,–.
 
 4. Voor een opleiding die binnen het Ministerie van Defensie wordt gevolgd en die niet aaneengesloten plaatsvindt wordt de duur van de opleiding berekend op basis van de uren dat de opleiding wordt gevolgd.
 
@@ -213,15 +187,15 @@ De militair, die een opleiding, als bedoeld in [artikel 16](https://wetten.overh
 
 7. Het bedrag van de terugbetalingsverplichting wordt naar evenredigheid verminderd naarmate de termijn na beëindiging van de opleiding, zoals bedoeld in het tweede, derde en zesde lid, is verstreken.
 
-##### Artikel 3:7. Bepaling kosten opleiding per cursist, als bedoeld in [artikel 16e, vierde lid, onder a, AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=16e)
+##### Artikel 3:7. Bepaling kosten opleiding per cursist, als bedoeld in artikel 16e, vierde lid, onder a, AMAR
 
 Voor opleidingen, die zijn gevolgd binnen het Ministerie van Defensie, worden de kosten van die opleiding per dag per cursist als volgt vastgesteld:
 
-- a. Voor opleidingen gerelateerd aan of gericht op het vervullen van functies waar de stand van soldaat of de rang van korporaal of een overeenkomstige rang aan is verbonden, € 50,– per dag vermeerderd met de militaire inkomsten per dag, behorend bij de feitelijk bekleedde stand of rang van de cursist;
+- a. Voor opleidingen gerelateerd aan of gericht op het vervullen van functies waar de stand van soldaat of de rang van korporaal of een overeenkomstige rang aan is verbonden, € 50,– per dag vermeerderd met de militaire inkomsten per dag, behorend bij de feitelijk bekleedde stand of rang van de cursist;
 
-- b. Voor opleidingen gerelateerd aan of gericht op het vervullen van functies waar een onderofficiersrang aan is verbonden, € 75,– per dag vermeerderd met de militaire inkomsten per dag, behorend bij de feitelijk bekleedde stand of rang van de cursist;
+- b. Voor opleidingen gerelateerd aan of gericht op het vervullen van functies waar een onderofficiersrang aan is verbonden, € 75,– per dag vermeerderd met de militaire inkomsten per dag, behorend bij de feitelijk bekleedde stand of rang van de cursist;
 
-- c. Voor opleidingen gerelateerd aan of gericht op het vervullen van functies waar een officiersrang aan is verbonden, € 100,– per dag vermeerderd met de militaire inkomsten per dag, behorend bij de feitelijk bekleedde stand of rang van de cursist;
+- c. Voor opleidingen gerelateerd aan of gericht op het vervullen van functies waar een officiersrang aan is verbonden, € 100,– per dag vermeerderd met de militaire inkomsten per dag, behorend bij de feitelijk bekleedde stand of rang van de cursist;
 
 verminderd met het minimumloon per dag tijdens de opleiding, vastgesteld conform hetgeen is bepaald bij en krachtens de Wet minimumloon en minimumvakantiebijslag.
 
@@ -229,9 +203,9 @@ verminderd met het minimumloon per dag tijdens de opleiding, vastgesteld conform
 
 ##### Artikel 3:8. Mandatering functietoewijzing en ontheffing uit de functie
 
-1. De in [artikel 17 van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=17) aan de Minister toegekende bevoegdheden kunnen ten hoogste worden gemandateerd aan onder het C-OPCO ressorterende hoofd van de afdeling, belast met de taken op het vlak van personeel en organisatie binnen het betreffende OPCO of een daartoe aangewezen functionaris binnen deze afdeling.
+1. De in [artikel 17 van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=17) aan de Minister toegekende bevoegdheden kunnen ten hoogste worden gemandateerd aan onder het C-OPCO ressorterende hoofd van de afdeling, belast met de taken op het vlak van personeel en organisatie binnen het betreffende OPCO of een daartoe aangewezen functionaris binnen deze afdeling.
 
-2. In afwijking van het eerste lid kunnen de in [artikel 17 van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=17) aan de Minister toegekende bevoegdheden door de Directeur Personeel & Organisatie van het Commando Landstrijdkrachten ten hoogste in ondermandaat worden verleend aan de Commandant Personeelslogistiek Commando en het Hoofd van de Sectie Functietoewijzing van het Personeelslogistiek Commando.
+2. In afwijking van het eerste lid kunnen de in [artikel 17 van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=17) aan de Minister toegekende bevoegdheden door de Directeur Personeel & Organisatie van het Commando Landstrijdkrachten ten hoogste in ondermandaat worden verleend aan de Commandant Personeelslogistiek Commando en het Hoofd van de Sectie Functietoewijzing van het Personeelslogistiek Commando.
 
 #### Paragraaf 3.3. Bevordering
 
@@ -239,7 +213,7 @@ verminderd met het minimumloon per dag tijdens de opleiding, vastgesteld conform
 
 ##### Artikel 3:9. Algemene bepaling
 
-Met inachtneming van het bepaalde in [artikel 24b van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=24b) wordt de militair tijdens de initiële opleiding bevorderd op de tijdstippen waarop hij afgeronde delen van de opleiding heeft voltooid.
+Met inachtneming van het bepaalde in [artikel 24b van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=24b) wordt de militair tijdens de initiële opleiding bevorderd op de tijdstippen waarop hij afgeronde delen van de opleiding heeft voltooid.
 
 ##### Artikel 3:10. Bevordering tijdens de opleiding tot officier bij de Koninklijke marine
 
@@ -251,57 +225,57 @@ Met inachtneming van het bepaalde in [artikel 24b van het AMAR](https://wetten.o
 
 - b. bevorderd tot sergeant-adelborst op de eerste dag van de maand volgend op de dag dat is vastgesteld dat hij heeft voldaan aan de in het examenreglement vastgestelde studievoortgang van het tweede studiejaar en de propedeuse heeft afgerond;
 
-- c. nadat met de voordracht voor benoeming tot officier is ingestemd: (1) benoemd tot luitenant ter zee der 3e klasse op de eerste dag van de maand volgend op de dag dat is vastgesteld dat hij heeft voldaan aan de in het examenreglement vastgestelde studievoortgang van het derde studiejaar; (2) benoemd tot tweede luitenant der mariniers op de eerste dag van de maand volgend op de dag dat is vastgesteld dat hij heeft voldaan aan de in het examenreglement vastgestelde studievoortgang van het derde studiejaar;
+- c. nadat met de voordracht voor benoeming tot officier is ingestemd: (1) benoemd tot luitenant ter zee der 3e klasse op de eerste dag van de maand volgend op de dag dat is vastgesteld dat hij heeft voldaan aan de in het examenreglement vastgestelde studievoortgang van het derde studiejaar; (2) benoemd tot tweede luitenant der mariniers op de eerste dag van de maand volgend op de dag dat is vastgesteld dat hij heeft voldaan aan de in het examenreglement vastgestelde studievoortgang van het derde studiejaar;
 
-- d. nadat met de voordracht is ingestemd: (1) bevorderd tot luitenant ter zee der 2e klasse op de dag dat is vastgesteld dat hij de gehele initiële opleiding tot officier succesvol heeft afgerond; (2) bevorderd tot eerste luitenant der mariniers op de dag dat is vastgesteld dat hij de gehele initiële opleiding tot officier succesvol heeft afgerond.
+- d. nadat met de voordracht is ingestemd: (1) bevorderd tot luitenant ter zee der 2e klasse op de dag dat is vastgesteld dat hij de gehele initiële opleiding tot officier succesvol heeft afgerond; (2) bevorderd tot eerste luitenant der mariniers op de dag dat is vastgesteld dat hij de gehele initiële opleiding tot officier succesvol heeft afgerond.
 
-3. De militair die is aangewezen voor een korte officiersopleiding voor luitenant ter zee der 2e klasse/eerste luitenant der mariniers wordt:
+3. De militair die is aangewezen voor een korte officiersopleiding voor luitenant ter zee der 2e klasse/eerste luitenant der mariniers wordt:
 
-- a. bevorderd tot korporaal-adelborst: (1) (HBO/WO-vooropleiding) op de eerste dag van de maand volgend op de dag dat is vastgesteld dat hij heeft voldaan aan de in het examenreglement vastgestelde studievoortgang van onderwijsperiode 2 van het eerste studiejaar; (2) (HAVO-vooropleiding) op de eerste dag van de maand volgend op de dag dat is vastgesteld dat hij heeft voldaan aan de in het examenreglement vastgestelde studievoortgang van het eerste studiejaar;
+- a. bevorderd tot korporaal-adelborst: (1) (HBO/WO-vooropleiding) op de eerste dag van de maand volgend op de dag dat is vastgesteld dat hij heeft voldaan aan de in het examenreglement vastgestelde studievoortgang van onderwijsperiode 2 van het eerste studiejaar; (2) (HAVO-vooropleiding) op de eerste dag van de maand volgend op de dag dat is vastgesteld dat hij heeft voldaan aan de in het examenreglement vastgestelde studievoortgang van het eerste studiejaar;
 
-- b. nadat met de voordracht voor benoeming tot officier is ingestemd: (1) benoemd tot luitenant ter zee der 3e klasse/tweede luitenant der mariniers op de eerste dag van de maand volgend op de dag dat is vastgesteld dat hij het theoretische deel van de opleiding succesvol heeft afgerond; (2) bevorderd tot luitenant ter zee der 2e klasse/eerste luitenant der mariniers op de dag dat hij de gehele initiële opleiding tot officier succesvol heeft afgerond.
+- b. nadat met de voordracht voor benoeming tot officier is ingestemd: (1) benoemd tot luitenant ter zee der 3e klasse/tweede luitenant der mariniers op de eerste dag van de maand volgend op de dag dat is vastgesteld dat hij het theoretische deel van de opleiding succesvol heeft afgerond; (2) bevorderd tot luitenant ter zee der 2e klasse/eerste luitenant der mariniers op de dag dat hij de gehele initiële opleiding tot officier succesvol heeft afgerond.
 
 4. De militair die bij aanstelling wordt aangewezen voor het volgen van de specialistenopleiding voor officieren wordt na afronding van de opleiding, nadat met de voordracht voor benoeming tot officier is ingestemd, benoemd tot de rang die is verbonden aan de functie die hem aansluitend aan de opleiding zal worden toegewezen.
 
 5. De militair die in het kader van de regeling ‘werk-naar-werk’ bij aanstelling wordt aangewezen voor het volgen van de opleiding tot officier wordt na afronding van de opleiding, nadat met de voordracht voor benoeming tot officier is ingestemd, benoemd tot de rang die is verbonden aan de functie die hem aansluitend aan de opleiding zal worden toegewezen.
 
-6. De militair die is aangewezen voor de opleiding tot officier wordt, nadat met de voordracht voor benoeming tot officier is ingestemd: (1) tijdelijk benoemd tot luitenant ter zee der 3e klasse bij aanvang van de opleiding; (2) bevorderd tot luitenant ter zee der 2e klasse op de dag dat is vastgesteld dat hij de gehele opleiding tot officier succesvol heeft afgerond.
+6. De militair die is aangewezen voor de opleiding tot officier wordt, nadat met de voordracht voor benoeming tot officier is ingestemd: (1) tijdelijk benoemd tot luitenant ter zee der 3e klasse bij aanvang van de opleiding; (2) bevorderd tot luitenant ter zee der 2e klasse op de dag dat is vastgesteld dat hij de gehele opleiding tot officier succesvol heeft afgerond.
 
 ##### Artikel 3:11. Bevordering tijdens de opleiding tot officier bij de Koninklijke landmacht, de Koninklijke luchtmacht en de Koninklijke marechaussee
 
-1. De militair die is bestemd om een functie te gaan vervullen waaraan een officiersrang is verbonden, bekleedt gedurende de Algemene Luitenants Opleiding (ALO) 1 de stand van soldaat der derde klasse/marechaussee der vierde klasse, tenzij in deze regeling anders is vermeld.
+1. De militair die is bestemd om een functie te gaan vervullen waaraan een officiersrang is verbonden, bekleedt gedurende de Algemene Luitenants Opleiding (ALO) 1 de stand van soldaat der derde klasse/marechaussee der vierde klasse, tenzij in deze regeling anders is vermeld.
 
 2. De militair die op grond van zijn vooropleiding in aanmerking komt voor bekorting van de in het derde en het vierde lid genoemde opleidingen wordt in afwijking daarvan, bevorderd tot de daarin genoemde rangen na te zijn geslaagd voor overeenkomende, daarin genoemde delen van de opleiding.
 
 3. De militair van de Koninklijke landmacht of de Koninklijke luchtmacht die via de korte officiersopleiding wordt opgeleid tot officier wordt bevorderd tot:
 
-- a. cadet-korporaal, op de dag dat de ALO 1 succesvol is afgerond;
+- a. cadet-korporaal, op de dag dat de ALO 1 succesvol is afgerond;
 
-- b. cadet-vaandrig, op de dag dat de ALO 1 en 2 succesvol zijn afgerond;
+- b. cadet-vaandrig, op de dag dat de ALO 1 en 2 succesvol zijn afgerond;
 
-- c. tweede luitenant, nadat de ALO 1 en 2 en de Vaktechnische Opleiding (VTO) succesvol zijn afgerond, met ingang van de dag waarop die militair zijn functie is toegewezen waaraan de rang van luitenant is verbonden;
+- c. tweede luitenant, nadat de ALO 1 en 2 en de Vaktechnische Opleiding (VTO) succesvol zijn afgerond, met ingang van de dag waarop die militair zijn functie is toegewezen waaraan de rang van luitenant is verbonden;
 
 4. De militair die via de niet-wetenschappelijke officiersopleiding wordt opgeleid tot officier Koninklijke marechaussee wordt bevorderd tot:
 
-- a. marechaussee der tweede klasse, op de dag dat de ALO 1 succesvol is afgerond;
+- a. marechaussee der tweede klasse, op de dag dat de ALO 1 succesvol is afgerond;
 
-- b. kornet, op de dag dat de ALO 1 en 2 succesvol zijn afgerond;
+- b. kornet, op de dag dat de ALO 1 en 2 succesvol zijn afgerond;
 
-- c. tweede luitenant, nadat de ALO 1 en 2 en de Vaktechnische Opleiding (VTO), waarvan een duale HBO-bacheloropleiding deel uitmaakt, succesvol zijn afgerond, met ingang van de dag waarop die militair zijn functie is toegewezen waaraan de rang van luitenant is verbonden.
+- c. tweede luitenant, nadat de ALO 1 en 2 en de Vaktechnische Opleiding (VTO), waarvan een duale HBO-bacheloropleiding deel uitmaakt, succesvol zijn afgerond, met ingang van de dag waarop die militair zijn functie is toegewezen waaraan de rang van luitenant is verbonden.
 
 5. De militair die via de militair-wetenschappelijke officiersopleiding waarvan de bachelor studie deel uitmaakt, wordt opgeleid tot officier wordt bevorderd tot:
 
-- a. cadet-korporaal/marechaussee der tweede klasse, op de dag dat de ALO 1 succesvol is afgerond;
+- a. cadet-korporaal/marechaussee der tweede klasse, op de dag dat de ALO 1 succesvol is afgerond;
 
 - b. cadet-sergeant/wachtmeester, op de dag dat de Gemeenschappelijke Officiers Opleiding(GOO) succesvol is afgerond;
 
 - c. cadet-vaandrig/kornet, op de dag waarop het derde studiejaar succesvol is afgerond;
 
-- d. tweede luitenant, nadat: (1) de volledige militair-wetenschappelijke officiersopleiding, waarvan de bachelor studie deel uitmaakt, succesvol is afgerond, met ingang van de dag waarop die militair een functie is toegewezen waaraan de rang van luitenant is verbonden, dan wel (2) met ingang van de dag gelegen 4 jaar na aanvang van de opleiding indien het voor hem geldende reguliere opleidingstraject tot dan toe binnen de normale termijnen succesvol is doorlopen.
+- d. tweede luitenant, nadat: (1) de volledige militair-wetenschappelijke officiersopleiding, waarvan de bachelor studie deel uitmaakt, succesvol is afgerond, met ingang van de dag waarop die militair een functie is toegewezen waaraan de rang van luitenant is verbonden, dan wel (2) met ingang van de dag gelegen 4 jaar na aanvang van de opleiding indien het voor hem geldende reguliere opleidingstraject tot dan toe binnen de normale termijnen succesvol is doorlopen.
 
 6. De militair die reeds is aangesteld bij het beroepspersoneel en bestemd was voor het vervullen van onderofficiersfuncties en als gevolg van een bestemmingswijziging wordt opgeleid tot officier, wordt bevorderd tot:
 
-- a. tijdelijk vaandrig/kornet, op de dag dat de verkorte ALO 1 en 2 succesvol zijn afgerond. De militair behoudt die tijdelijke rang totdat is voldaan aan [artikel 24, eerste lid, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=24);
+- a. tijdelijk vaandrig/kornet, op de dag dat de verkorte ALO 1 en 2 succesvol zijn afgerond. De militair behoudt die tijdelijke rang totdat is voldaan aan [artikel 24, eerste lid, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=24);
 
 - b. de rang behorend bij de functie die wordt toegewezen na succesvolle afronding van de opleiding.
 
@@ -319,13 +293,13 @@ De militair die bij aanstelling is bestemd voor functies als onderofficier wordt
 
 - b. korporaal/marechaussee der tweede klasse, op de dag dat de AKO/de proeve van bekwaamheid Planton/publieke service (na BPV-Ol) succesvol is afgerond en – voor zover van toepassing – aanvangt met de Vaktechnische Opleiding (VTO);
 
-- c. marechaussee der eerste klasse na het succesvol afronden van de summatieve toetsen (na LOKKMar 03);
+- c. marechaussee der eerste klasse na het succesvol afronden van de summatieve toetsen (na LOKKMar 03);
 
 - d. sergeant/wachtmeester, op de dag dat de initiële opleiding/Leergang Algemeen Opsporingsambtenaar KMar succesvol is afgerond, tenzij in deze regeling anders is bepaald.
 
 3. De militair van de Koninklijke landmacht wordt, voor zover sprake is van een aanvullende opleiding elektronica, bevorderd tot sergeant op de dag dat deze opleiding succesvol is afgerond, indien hij is bestemd om het loopbaanpatroon voor het technisch middenkader te gaan volgen.
 
-4. De militair van de Koninklijke landmacht die is bestemd om het loopbaanpatroon als algemeen militair verpleegkundige (AMV) dan wel als algemeen militair verzorgende in de gezondheidszorg (AMVIG) te gaan volgen, wordt bevorderd tot sergeant op de dag dat het eerste studiejaar van de beroepsopleiding (fase 11) succesvol is afgerond.
+4. De militair van de Koninklijke landmacht die is bestemd om het loopbaanpatroon als algemeen militair verpleegkundige (AMV) dan wel als algemeen militair verzorgende in de gezondheidszorg (AMVIG) te gaan volgen, wordt bevorderd tot sergeant op de dag dat het eerste studiejaar van de beroepsopleiding (fase 11) succesvol is afgerond.
 
 5. De militair van de Koninklijke landmacht wordt bevorderd tot sergeant op de dag waarop hij de opleiding tot onderofficier succesvol heeft afgerond, met dien verstande dat hij wordt bevorderd tot sergeant der eerste klasse indien hij bestemd is om:
 
@@ -335,7 +309,7 @@ De militair die bij aanstelling is bestemd voor functies als onderofficier wordt
 
 - c. het loopbaanpatroon voor algemeen militair verpleegkundige te volgen, direct aansluitend aan het behalen van het AMV-certificaat; of
 
-- d. het loopbaanpatroon voor algemeen militair verzorgende in de gezondheidszorg te volgen, 6 jaar na bevordering tot sergeant.
+- d. het loopbaanpatroon voor algemeen militair verzorgende in de gezondheidszorg te volgen, 6 jaar na bevordering tot sergeant.
 
 6. De militair die is aangewezen voor het volgen van de opleiding tot onderofficier-specialist, wordt bevorderd tot de rang die behoort bij de functie waartoe hij bij zijn aanstelling is bestemd, op de dag dat hij de specialistenopleiding succesvol heeft afgerond.
 
@@ -357,17 +331,17 @@ De militair die bestemd is voor functies waaraan een stand is verbonden wordt be
 
 - b. tot marinier der tweede klasse op de dag dat hij de Elementaire militaire vorming mariniers succesvol heeft afgerond;
 
-- c. tot matroos der eerste klasse als hij bestemd is voor functies bij de subdienstgroep bijzondere diensten wasser, op de dag dat hij de praktische bedrijfsintroductie succesvol heeft afgerond, maar niet eerder dan 3 maanden nadat de bevordering tot matroos der tweede klasse heeft plaatsgevonden;
+- c. tot matroos der eerste klasse als hij bestemd is voor functies bij de subdienstgroep bijzondere diensten wasser, op de dag dat hij de praktische bedrijfsintroductie succesvol heeft afgerond, maar niet eerder dan 3 maanden nadat de bevordering tot matroos der tweede klasse heeft plaatsgevonden;
 
-- d. tot matroos der eerste klasse op de dag dat hij de praktische bedrijfsintroductie succesvol heeft afgerond, maar niet eerder dan 8 maanden nadat de bevordering tot matroos der tweede klasse heeft plaatsgevonden;
+- d. tot matroos der eerste klasse op de dag dat hij de praktische bedrijfsintroductie succesvol heeft afgerond, maar niet eerder dan 8 maanden nadat de bevordering tot matroos der tweede klasse heeft plaatsgevonden;
 
 - e. tot marinier der eerste klasse op de dag dat hij de gehele initiële opleiding succesvol heeft afgerond;
 
-- f. tot matroos der eerste klasse met terugwerkende kracht tot de datum gelegen 8 maanden nadat de bevordering tot matroos der tweede klasse heeft plaatsgevonden, eventueel vermeerderd met de duur van de verlenging indien de praktische bedrijfsintroductie door oorzaken behorend tot het risicogebied van de organisatie niet binnen de gestelde termijn van 8 maanden werd afgerond;
+- f. tot matroos der eerste klasse met terugwerkende kracht tot de datum gelegen 8 maanden nadat de bevordering tot matroos der tweede klasse heeft plaatsgevonden, eventueel vermeerderd met de duur van de verlenging indien de praktische bedrijfsintroductie door oorzaken behorend tot het risicogebied van de organisatie niet binnen de gestelde termijn van 8 maanden werd afgerond;
 
-- g. tot matroos der eerste klasse als hij bestemd is voor functies bij de subdienstgroep bijzondere diensten wasser, met terugwerkende kracht tot de datum gelegen 3 maanden nadat de bevordering tot matroos der tweede klasse heeft plaatsgevonden, eventueel vermeerderd met de duur van de verlenging indien de praktische bedrijfsintroductie door oorzaken behorend tot het risicogebied van de organisatie niet binnen de gestelde termijn van 3 maanden werd afgerond;
+- g. tot matroos der eerste klasse als hij bestemd is voor functies bij de subdienstgroep bijzondere diensten wasser, met terugwerkende kracht tot de datum gelegen 3 maanden nadat de bevordering tot matroos der tweede klasse heeft plaatsgevonden, eventueel vermeerderd met de duur van de verlenging indien de praktische bedrijfsintroductie door oorzaken behorend tot het risicogebied van de organisatie niet binnen de gestelde termijn van 3 maanden werd afgerond;
 
-- h. tot matroos der eerste klasse eerder dan de minimale termijn van 8 maanden indien sprake is van uitzonderlijk goed functioneren.
+- h. tot matroos der eerste klasse eerder dan de minimale termijn van 8 maanden indien sprake is van uitzonderlijk goed functioneren.
 
 ##### Artikel 3:16. Bevordering tijdens de opleiding tot soldaat bij de Koninklijke landmacht en de Koninklijke luchtmacht
 
@@ -391,17 +365,17 @@ Aan de militair die tijdens een door hem te volgen functie- of loopbaanopleiding
 
 2. De militair die is aangewezen voor een loopbaanopleiding tot officier wordt – nadat met de voordracht is ingestemd – bevorderd:
 
-- a. tot tijdelijk luitenant ter zee der 3e klasse op de dag dat hij het theoretische deel van die loopbaanopleiding succesvol heeft afgerond;
+- a. tot tijdelijk luitenant ter zee der 3e klasse op de dag dat hij het theoretische deel van die loopbaanopleiding succesvol heeft afgerond;
 
-- b. tot luitenant ter zee der 2e klasse op de dag dat hij de gehele loopbaanopleiding succesvol heeft afgerond.
+- b. tot luitenant ter zee der 2e klasse op de dag dat hij de gehele loopbaanopleiding succesvol heeft afgerond.
 
 #### Paragraaf 3.3.3. Bevorderingen van militairen door ervaringsopbouw
 
 ##### Artikel 3:19. Ervaringsopbouw
 
-1. Om voor een bevordering als bedoeld in [artikel 24, zevende lid, onder b van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=24), in aanmerking te komen, dient de militair respectievelijk in de stand van soldaat dan wel de rang van korporaal / marechaussee der eerste klasse, sergeant/wachtmeester of tweede luitenant relevante ervaring tijdens een functievervulling te hebben verworven waarbij er door de commandant geen bezwaren tegen de voorgenomen bevordering zijn geuit.
+1. Om voor een bevordering als bedoeld in [artikel 24, zevende lid, onder b van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=24), in aanmerking te komen, dient de militair respectievelijk in de stand van soldaat dan wel de rang van korporaal / marechaussee der eerste klasse, sergeant/wachtmeester of tweede luitenant relevante ervaring tijdens een functievervulling te hebben verworven waarbij er door de commandant geen bezwaren tegen de voorgenomen bevordering zijn geuit.
 
-2. De in het eerste lid bedoelde ervaring wordt aanwezig geacht indien de militair gedurende een voor zijn aanstellingscategorie en functieniveau vastgestelde periode op voldoende wijze heeft gefunctioneerd. Daarbij wordt rekening gehouden met de bekwaamheid en geschiktheid van de militair als bedoeld in [artikel 20, derde lid, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=20). De duur van de hiervoor bedoelde periode kan in geval van onvoldoende functioneren worden verlengd met maximaal één jaar.
+2. De in het eerste lid bedoelde ervaring wordt aanwezig geacht indien de militair gedurende een voor zijn aanstellingscategorie en functieniveau vastgestelde periode op voldoende wijze heeft gefunctioneerd. Daarbij wordt rekening gehouden met de bekwaamheid en geschiktheid van de militair als bedoeld in [artikel 20, derde lid, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=20). De duur van de hiervoor bedoelde periode kan in geval van onvoldoende functioneren worden verlengd met maximaal één jaar.
 
 3. Gedurende de periode dat de militair is geschorst dan wel in militaire detentie doorbrengt vindt geen ervaringsopbouw plaats. Indien de militair door ziekte of buitengewoon verlof niet in staat is geweest zijn functie daadwerkelijk te vervullen, dan wel er gedurende een aanmerkelijk gedeelte van de aangegeven periode sprake is geweest van overwegende bemerkingen op het functioneren, kan de duur van de periode als bedoeld in de eerste zin van het tweede lid worden verlengd met maximaal een half jaar.
 
@@ -439,21 +413,21 @@ De militair wordt bevorderd tot sergeant/wachtmeester der eerste klasse met inga
 
 3. De functionele chef houdt in beginsel binnen twee maanden na aanvang van zijn functievervulling een functie-introductiegesprek met de medewerkers van wie hij de functionele chef is geworden. In dit gesprek komen eventueel al gemaakte afspraken met de militair eveneens aan de orde.
 
-4. De functionele chef draagt zorg voor verslaglegging van het functie-introductiegesprek. Daarbij kan gebruik worden gemaakt van het als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052495&bijlage=2&z=2026-04-04&g=2026-04-04) gevoegde FG-formulier.
+4. De functionele chef draagt zorg voor verslaglegging van het functie-introductiegesprek. Daarbij kan gebruik worden gemaakt van het als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052495&bijlage=2&z=2026-04-04&g=2026-04-04) gevoegde FG-formulier.
 
 ##### Artikel 3:26. Functioneringsgesprek
 
 1. De functionele chef nodigt ten minste twee weken voordat het functioneringsgesprek wordt gehouden, de militair hiervoor uit.
 
-2. Tijdens het functioneringsgesprek komen in ieder geval de in [artikel 28, zesde lid, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=28) genoemde onderwerpen aan de orde. Daarnaast kunnen zowel door de militair als door de functionele chef te bespreken onderwerpen worden ingebracht.
+2. Tijdens het functioneringsgesprek komen in ieder geval de in [artikel 28, zesde lid, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=28) genoemde onderwerpen aan de orde. Daarnaast kunnen zowel door de militair als door de functionele chef te bespreken onderwerpen worden ingebracht.
 
-3. Een samenvatting van het gesprek, de gemaakte afspraken en aandachtspunten voor de komende periode ten aanzien de taakuitvoering en eventueel door de militair of de functionele chef, met instemming van de militair, ingebrachte nadere informatie, worden door de functionele chef vastgelegd in het externe gedeelte van het als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052495&bijlage=2&z=2026-04-04&g=2026-04-04) gevoegde FG-formulier. Wanneer de functionele chef of de militair meer informatie willen vastleggen wordt hiervoor het interne gedeelte van het FG-formulier gebruikt, dat alleen voor de functionele chef en de militair is bestemd.
+3. Een samenvatting van het gesprek, de gemaakte afspraken en aandachtspunten voor de komende periode ten aanzien de taakuitvoering en eventueel door de militair of de functionele chef, met instemming van de militair, ingebrachte nadere informatie, worden door de functionele chef vastgelegd in het externe gedeelte van het als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052495&bijlage=2&z=2026-04-04&g=2026-04-04) gevoegde FG-formulier. Wanneer de functionele chef of de militair meer informatie willen vastleggen wordt hiervoor het interne gedeelte van het FG-formulier gebruikt, dat alleen voor de functionele chef en de militair is bestemd.
 
 4. Het interne gedeelte van het FG-formulier blijft in bezit van de militair en de functionele chef. De functionele chef draagt zorg voor vernietiging van zijn exemplaar bij beëindiging van de dienstverhouding. Het externe deel van het FG-formulier wordt opgelegd in het persoonsdossier van de militair.
 
 ##### Artikel 3:27. Loopbaangesprek en POP-formulier
 
-1. De afspraken die worden gemaakt tijdens een loopbaangesprek, worden vastgelegd in het als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052495&bijlage=3&z=2026-04-04&g=2026-04-04) gevoegde POP-formulier.
+1. De afspraken die worden gemaakt tijdens een loopbaangesprek, worden vastgelegd in het als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052495&bijlage=3&z=2026-04-04&g=2026-04-04) gevoegde POP-formulier.
 
 2. Ook wanneer een loopbaangesprek niet leidt tot overeenstemming over de te maken afspraken tussen de militair en de loopbaanbegeleider, wordt dit vastgelegd in het POP-formulier.
 
@@ -461,11 +435,11 @@ De militair wordt bevorderd tot sergeant/wachtmeester der eerste klasse met inga
 
 4. Vastgelegde afspraken zijn bindend, ook wanneer de militair een andere functie wordt toegewezen, wordt ingedeeld bij een ander OPCO of wordt tewerkgesteld bij een ander defensieonderdeel.
 
-5. De C-OPCO is, op grond van [artikel 28a, vierde lid, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=28a), bevoegd de afspraken in het POP-formulier vast te stellen. De C-OPCO kan deze bevoegdheid ten hoogste mandateren aan het onder de Directeur Personeel & Organisatie ressorterende hoofd van de afdeling, belast met de taken op het vlak van personeel en organisatie binnen het betreffende OPCO.
+5. De C-OPCO is, op grond van [artikel 28a, vierde lid, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=28a), bevoegd de afspraken in het POP-formulier vast te stellen. De C-OPCO kan deze bevoegdheid ten hoogste mandateren aan het onder de Directeur Personeel & Organisatie ressorterende hoofd van de afdeling, belast met de taken op het vlak van personeel en organisatie binnen het betreffende OPCO.
 
-6. In afwijking van het vijfde lid kan de Directeur Personeel & Organisatie van het Commando Landstrijdkrachten de in [artikel 28a, vierde lid, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=28a) verleende bevoegdheid ten hoogste in mandaat verlenen aan de Commandant Personeelslogistiek Commando en het Hoofd van de Sectie Loopbaanbegeleiding van het Personeelslogistiek Commando.
+6. In afwijking van het vijfde lid kan de Directeur Personeel & Organisatie van het Commando Landstrijdkrachten de in [artikel 28a, vierde lid, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=28a) verleende bevoegdheid ten hoogste in mandaat verlenen aan de Commandant Personeelslogistiek Commando en het Hoofd van de Sectie Loopbaanbegeleiding van het Personeelslogistiek Commando.
 
-##### Artikel 3:28. Instelling adviescommissie ex [artikel 28a, zevende lid, AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=28a)
+##### Artikel 3:28. Instelling adviescommissie ex artikel 28a, zevende lid, AMAR
 
 1. Ingesteld wordt een commissie, die, op aanvraag van de militair, adviseert over een mogelijke oplossing wanneer afspraken in het kader van de persoonlijke ontwikkeling niet worden nagekomen en, naar de mening van de militair, geen passend alternatief wordt geboden.
 
@@ -477,9 +451,9 @@ De militair wordt bevorderd tot sergeant/wachtmeester der eerste klasse met inga
 
 ##### Artikel 3:29. Beoordelingen
 
-1. Voor het opstellen van een beoordeling wordt gebruik gemaakt van het in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052495&bijlage=4&z=2026-04-04&g=2026-04-04) opgenomen beoordelingsformulier.
+1. Voor het opstellen van een beoordeling wordt gebruik gemaakt van het in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052495&bijlage=4&z=2026-04-04&g=2026-04-04) opgenomen beoordelingsformulier.
 
-2. Het beoordelingstijdvak, genoemd in [artikel 28b, vijfde lid, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=28b), kan niet een deel van een periode omvatten waarover reeds een beoordeling is vastgesteld en tijdens dat tijdvak moet in beginsel één functioneringsgesprek hebben plaatsgevonden.
+2. Het beoordelingstijdvak, genoemd in [artikel 28b, vijfde lid, van het AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=28b), kan niet een deel van een periode omvatten waarover reeds een beoordeling is vastgesteld en tijdens dat tijdvak moet in beginsel één functioneringsgesprek hebben plaatsgevonden.
 
 3. De aanvraag van een militair om een beoordeling op te maken, kan worden afgewezen, indien over de militair minder dan een jaar geleden, te rekenen van de datum van de aanvraag, een beoordeling is vastgesteld.
 
@@ -491,7 +465,7 @@ De militair wordt bevorderd tot sergeant/wachtmeester der eerste klasse met inga
 
 ##### Artikel 4:1. Intrekking
 
-De Voorlopige Voorziening Uitvoeringsregeling AMAR van 11 februari 2011, met nummer BS2011003759, wordt ingetrokken.
+De Voorlopige Voorziening Uitvoeringsregeling AMAR van 11 februari 2011, met nummer BS2011003759, wordt ingetrokken.
 
 ##### Artikel 4:2. Inwerkingtreding
 
@@ -500,39 +474,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 4:3. Citeertitel
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling AMAR, afgekort URAMAR.
-
-## Bijlage 1
-
-Specifieke functiegroepen met maximum leeftijden bij aanstelling ([art. 5a, tweede lid, AMAR](https://wetten.overheid.nl/jci1.3:c:BWBR0003482&artikel=5a) en [art. 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0052495&hoofdstuk=2&paragraaf=2.1&artikel=2:1&z=2026-04-04&g=2026-04-04) URAMAR)
-
-| categorie | maximumleeftijd bij aanstelling |
-| --- | --- |
-| soldaat CLAS/CLSK | 28 |
-| marechaussee | 28 |
-| korporaal CLAS/CLSK | 28 |
-| matroos/marinier | 28 |
-| onderofficier | 30 |
-| onderofficier KMar | 30 |
-| officier | 30 |
-| officier meerjarige opleiding1 | 30 |
-| officier vlieger | 30 |
-| officier vlieger meerjarige opleiding1 | 25 |
-| officier specialistenopleiding2 | 37 |
-| officier algemeen militair arts | 37 |
-| officier huisarts, tandarts en apotheker | 37 |
-
-1 Als meerjarige opleiding worden aangemerkt de militair-wetenschappelijke opleiding aan de NLDA, de opleiding aan de NLDA tot officier-gevechtsleider of officier-luchtverkeersleider bij het CLSK en de opleiding aan de NLDA en de Politieacademie tot officier bij de KMar.
-
-2 Een specialistenopleiding is een initiële opleiding aan de NLDA van maximaal tien weken voor specifieke categorieën HBO- en WO-opgeleide aspirant-officieren.
-
-## Bijlage 2. Functioneringsgespreksformulier ([artikel 3:26](https://wetten.overheid.nl/jci1.3:c:BWBR0052495&hoofdstuk=3&paragraaf=3.4&artikel=3:26&z=2026-04-04&g=2026-04-04), DFE 030)
-
-DFE 030 is beschikbaar via selfservice op Peoplesoft. Het streven is uitsluitend van de selfservice modaliteit gebruik te maken. Wanneer geen toegang tot deze service bestaat, kan de papieren versie van het formulier worden ingevuld en voor registratie aan de afdeling P&O worden aangeboden. Zie ook de toelichting in het formulier.
-
-## Bijlage 3. POP-formulier ([artikel 3:27](https://wetten.overheid.nl/jci1.3:c:BWBR0052495&hoofdstuk=3&paragraaf=3.4&artikel=3:27&z=2026-04-04&g=2026-04-04))
-
-## Bijlage 4. Beoordelingsformulier ([artikel 3:29](https://wetten.overheid.nl/jci1.3:c:BWBR0052495&hoofdstuk=3&paragraaf=3.4&artikel=3:29&z=2026-04-04&g=2026-04-04), DFE 012)
-
-DFE 012 is beschikbaar via selfservice op Peoplesoft. Het streven is uitsluitend van de selfservice modaliteit gebruik te maken. Wanneer geen toegang tot deze service bestaat, kan de papieren versie van het formulier worden ingevuld en voor registratie aan de afdeling P&O worden aangeboden. Zie ook de toelichting in het formulier.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

@@ -1,42 +1,23 @@
 ---
 title: "Circulaire met betrekking tot de bewaking en beveiliging van personen, objecten en diensten 2026"
 identifier: "BWBR0052355"
-country: "nl"
-rank: "circulaire"
-publication_date: "2026-02-24"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052355"
+categorie: "Overig"
 soort: "circulaire"
-stam_id: "17778363"
-version_id: "31430192"
-internal_id: "C44898631"
-label_id: "17676834"
-dtd_version: "2.0"
-original_entry_into_force: "2026-02-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052355/2026-02-24/0"
-intitule_bron: "Stcrt.2026-7168"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2026-02-23"
-intitule_in_force: "2026-02-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-7168"
-original_published_date: "2026-02-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-7168"
-entry_into_force_date: "2026-02-24"
-jci_1_3: "jci1.3:c:BWBR0052355&z=2026-02-24&g=2026-02-24"
-jci_1_0: "1.0:c:BWBR0052355&g=2026-02-24"
-citeertitel_status: "redactioneel"
-entry_into_force: "2026-02-24"
+publicatiedatum: 2026-02-24
+laatste_update: 2026-02-24
+status: geldig
+toestand: 2026-02-24
+bron: "https://wetten.overheid.nl/BWBR0052355"
+opgehaald: 2026-09-10
 ---
+
 # Circulaire met betrekking tot de bewaking en beveiliging van personen, objecten en diensten 2026
 
-Hierbij treft u de Circulaire bewaken en beveiligen van personen, objecten en diensten 2026 (nr. 7040030) aan (hierna: circulaire bewaken en beveiligen). Deze Circulaire vervangt de [Circulaire met betrekking tot de bewaking en beveiliging van personen, objecten en diensten 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048378) (nr. 47052981Stcrt. 2023, 18756.).
+Hierbij treft u de Circulaire bewaken en beveiligen van personen, objecten en diensten 2026 (nr. 7040030) aan (hierna: circulaire bewaken en beveiligen). Deze Circulaire vervangt de [Circulaire met betrekking tot de bewaking en beveiliging van personen, objecten en diensten 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048378) (nr. 47052981Stcrt. 2023, 18756.).
 
 De transitie van het stelsel bewaken en beveiligen naar het nieuwe stelsel beveiligen van personen is reeds ingezet, waardoor het stelsel de aankomende tijd nog aan verandering onderhevig zal zijn. De circulaire wordt (tussentijds) geactualiseerd naar gelang veranderingen worden doorgevoerd die leiden tot wijziging van (meerdere) (werk)afspraken of -processen.
 
-In deze geactualiseerde Circulaire worden de beleidskaders en werkafspraken ten aanzien van het taakveld bewaken en beveiligen, op basis van de huidige wet- en regelgeving op dit terrein, weergegeven. Nieuw in de circulaire zijn de paragrafen over het stelsel beveiligen van personen (waaronder: eenduidig gezag ten aanzien van personen, triage en toetsingskader en exclusiviteit van persoonsgerichte maatregelen in het stelsel beveiligen van personen), systeemverantwoordelijkheid, Landelijk Coördinatiecentrum Bewaken en Beveiligen (LCC), de Kwaliteitsmonitor en evaluatiefunctie, het tijdelijk Adviesorgaan Stelsel Bewaken en Beveiligen en het Kenniscentrum Bewaken en Beveiligen. Deze circulaire bewaken en beveiligen treedt daags na publicatie in werking en werkt terug tot en met 1 januari 2026. De [Circulaire met betrekking tot de bewaking en beveiliging van personen, objecten en diensten 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048378) (nr. 47052982Stcrt. 2023, 18756.) wordt gelijktijdig ingetrokken.
+In deze geactualiseerde Circulaire worden de beleidskaders en werkafspraken ten aanzien van het taakveld bewaken en beveiligen, op basis van de huidige wet- en regelgeving op dit terrein, weergegeven. Nieuw in de circulaire zijn de paragrafen over het stelsel beveiligen van personen (waaronder: eenduidig gezag ten aanzien van personen, triage en toetsingskader en exclusiviteit van persoonsgerichte maatregelen in het stelsel beveiligen van personen), systeemverantwoordelijkheid, Landelijk Coördinatiecentrum Bewaken en Beveiligen (LCC), de Kwaliteitsmonitor en evaluatiefunctie, het tijdelijk Adviesorgaan Stelsel Bewaken en Beveiligen en het Kenniscentrum Bewaken en Beveiligen. Deze circulaire bewaken en beveiligen treedt daags na publicatie in werking en werkt terug tot en met 1 januari 2026. De [Circulaire met betrekking tot de bewaking en beveiliging van personen, objecten en diensten 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048378) (nr. 47052982Stcrt. 2023, 18756.) wordt gelijktijdig ingetrokken.
 
 ### 1. Inleiding
 
@@ -52,15 +33,15 @@ De circulaire is bedoeld om houvast te bieden aan organisaties en professionals 
 
 Het taakveld is gebaseerd op een beperkte hoeveelheid wet- en regelgeving en bestaat verder uit (werk)afspraken tussen de betrokken organisaties; de Minister van Justitie en Veiligheid (gemandateerd aan de NCTV: hierna NCTV3Wanneer het een taak van de Minister van Justitie en Veiligheid betreft die niet gemandateerd is aan de NCTV wordt de aanduiding Minister van Justitie en Veiligheid gebruikt (m.u.v. het wettelijk kader waarin de letterlijke wetteksten zijn gebruikt).), het Openbaar Ministerie (hierna: OM), de politie, de Koninklijke Marechaussee (hierna: KMar) en de inlichtingen- en veiligheidsdiensten. De circulaire is het enige document waarin de toepassing van wetgeving, de instructies voor de taakuitvoering en de bijbehorende beleidskaders en werkafspraken worden beschreven die gelden vanaf de dag dat de circulaire van kracht is. Deze circulaire biedt geen uitputtend overzicht van alle (details in de) (werk)afspraken, dan wel de (overige) taken en bevoegdheden van de bij het taakveld betrokken organisaties. In de circulaire zijn (werk)afspraken beschreven die landelijk geïmplementeerd zijn.
 
-Vanaf publicatie van deze circulaire vervangt deze circulaire de ‘[circulaire met betrekking tot bewaking en beveiliging van personen, objecten en diensten 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048378)’ van 1 juli 2023 (kenmerk 18756).
+Vanaf publicatie van deze circulaire vervangt deze circulaire de ‘[circulaire met betrekking tot bewaking en beveiliging van personen, objecten en diensten 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048378)’ van 1 juli 2023 (kenmerk 18756).
 
 De vorige circulaire diende om verschillende redenen aangepast te worden.
 
-Sinds de vaststelling van de vorige circulaire heeft een groot versterkingstraject plaatsgevonden om het stelsel toekomstbestendig te maken en fundamenteel te vernieuwen tot het stelsel beveiligen van personen. De eerste versterkingstrajecten waren gestart in het kader van het brede offensief tegen ondermijnende criminaliteit (BOTOC) en waren verder onder meer gebaseerd op de aanbevelingen van de Commissie Bos (2021)4Kamerstukken II 2021/22, 2021D40044.. Mede naar aanleiding van het rapport van de Onderzoeksraad voor Veiligheid (OvV): **“Bewaken en Beveiligen. Lessen uit drie beveiligingssituaties”** (maart 2023)5Kamerstukken II 2022/23, 29 911, nr. 390 en Kamerstukken II 2022/23, 29 911, nr. 395. heeft het kabinet besloten tot een fundamentele vernieuwing van het stelsel. De OvV concludeerde dat het stelsel bewaken en beveiligen niet goed was voorbereid op een dreiging vanuit de zware, georganiseerde criminaliteit. Het kabinet constateerde dat de reeds ingezette verbeteringen binnen de bestaande (wettelijke) kaders niet afdoende waren en een fundamentele herziening van het stelsel noodzakelijk was. In de kabinetsreactie6Kamerstukken II 2022/23, 29 911, nr. 395. op het OvV-rapport is op hoofdlijnen de afbakening van het nieuwe stelsel geschetst. Dit is inmiddels nader uitgewerkt, zodat er duidelijkheid is over welke personen onder het nieuwe stelsel vallen en hoe dit aansluit op de verantwoordelijkheden van het lokale gezag (lokaal domein).
+Sinds de vaststelling van de vorige circulaire heeft een groot versterkingstraject plaatsgevonden om het stelsel toekomstbestendig te maken en fundamenteel te vernieuwen tot het stelsel beveiligen van personen. De eerste versterkingstrajecten waren gestart in het kader van het brede offensief tegen ondermijnende criminaliteit (BOTOC) en waren verder onder meer gebaseerd op de aanbevelingen van de Commissie Bos (2021)4Kamerstukken II 2021/22, 2021D40044.. Mede naar aanleiding van het rapport van de Onderzoeksraad voor Veiligheid (OvV): *“Bewaken en Beveiligen. Lessen uit drie beveiligingssituaties”* (maart 2023)5Kamerstukken II 2022/23, 29 911, nr. 390 en Kamerstukken II 2022/23, 29 911, nr. 395. heeft het kabinet besloten tot een fundamentele vernieuwing van het stelsel. De OvV concludeerde dat het stelsel bewaken en beveiligen niet goed was voorbereid op een dreiging vanuit de zware, georganiseerde criminaliteit. Het kabinet constateerde dat de reeds ingezette verbeteringen binnen de bestaande (wettelijke) kaders niet afdoende waren en een fundamentele herziening van het stelsel noodzakelijk was. In de kabinetsreactie6Kamerstukken II 2022/23, 29 911, nr. 395. op het OvV-rapport is op hoofdlijnen de afbakening van het nieuwe stelsel geschetst. Dit is inmiddels nader uitgewerkt, zodat er duidelijkheid is over welke personen onder het nieuwe stelsel vallen en hoe dit aansluit op de verantwoordelijkheden van het lokale gezag (lokaal domein).
 
-Inmiddels heeft de overdracht plaatsgevonden van in aanmerking komende te beveiligen personen van het OM naar de NCTV. Voor de overgang van het gezag in nieuwe casuïstiek is een triageproces ingericht (zie paragraaf 2.3.3).
+Inmiddels heeft de overdracht plaatsgevonden van in aanmerking komende te beveiligen personen van het OM naar de NCTV. Voor de overgang van het gezag in nieuwe casuïstiek is een triageproces ingericht (zie [paragraaf 2.3.3](https://wetten.overheid.nl/BWBR0052355)).
 
-De hierboven genoemde versterkingstrajecten zijn in voortgangsbrieven7Kamerstukken II 2021/22, 29 911, nr. 335; Kamerstukken II 2021/22, 29 911, nr. 336; Kamerstukken II 2021/22, 29 911, nr. 347; Kamerstukken II 2022/23, 29 911, nr. 378; Kamerstukken II 2023/24 29 911, nr. 426; Kamerstukken II 2024/25 29 911, nr. 455 en Kamerstukken II 2024/25 29 911 nr. 475. met de Tweede Kamer gedeeld en worden in deze circulaire geborgd.
+De hierboven genoemde versterkingstrajecten zijn in voortgangsbrieven7Kamerstukken II 2021/22, 29 911, nr. 335; Kamerstukken II 2021/22, 29 911, nr. 336; Kamerstukken II 2021/22, 29 911, nr. 347; Kamerstukken II 2022/23, 29 911, nr. 378; Kamerstukken II 2023/24 29 911, nr. 426; Kamerstukken II 2024/25 29 911, nr. 455 en Kamerstukken II 2024/25 29 911 nr. 475. met de Tweede Kamer gedeeld en worden in deze circulaire geborgd.
 
 ### 1.2. Relevante wet- en regelgeving
 
@@ -77,6 +58,18 @@ In de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788) zijn de
 Het bewaken en beveiligen van personen, objecten en diensten maakt onderdeel uit van de politietaak. De politie heeft als taak in ondergeschiktheid aan het gezag en in overeenstemming met de geldende rechtsregels te zorgen voor de daadwerkelijke handhaving van de rechtsorde en het verlenen van hulp aan hen die deze behoeven ([artikel 3 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=3)). De handhaving van de rechtsorde bestaat uit de handhaving van de openbare orde en de strafrechtelijke handhaving van de rechtsorde.
 
 Op grond van [artikel 4 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4) heeft de KMar de volgende taken in het kader van het bewaken en beveiligen van personen, objecten en diensten:
+
+- – Het waken over de veiligheid van de leden van het Koninklijk Huis, waaronder wordt verstaan het bewaken en beveiligen van de koninklijke paleizen en woonhuizen van leden van het Koninklijk Huis;
+
+- – Het bewaken en beveiligen van personen, objecten en diensten als onderdeel van de uitvoering van de politietaak ten behoeve van Nederlandse en andere strijdkrachten, alsmede internationale militaire hoofdkwartieren, en ten aanzien van tot die strijdkrachten en hoofdkwartieren behorende personen;
+
+- – Het bewaken en beveiligen van personen, objecten en diensten als onderdeel van de uitvoering van de politietaak op de luchthaven Schiphol en op de andere door de Minister van Justitie en Veiligheid en de Minister van Defensie aangewezen luchtvaartterreinen, alsmede de beveiliging van de burgerluchtvaart;
+
+- – Het bewaken en beveiligen van personen, objecten en diensten als onderdeel van de uitvoering van de politietaak op plaatsen onder beheer van de Minister van Defensie, op verboden plaatsen die krachtens de Wet bescherming staatsgeheimen ten behoeve van de landsverdediging zijn aangewezen en van de ambtswoning van de minister-president;
+
+- – Het bewaken en beveiligen van objecten en diensten als onderdeel van de in opdracht van Onze Minister en Onze Minister van Defensie ten behoeve van De Nederlandsche Bank N.V. te verrichten beveiligingswerkzaamheden; en
+
+- – De assistentieverlening aan de politie bij het bewaken en beveiligen van objecten en diensten en het waken over de veiligheid van door de Minister van Justitie en Veiligheid aangewezen personen.
 
 Naast deze taken in het kader van bewaken en beveiligen op grond van [artikel 4 Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4) kan de KMar eveneens personen, objecten en diensten in het lokaal domein bewaken en beveiligen in bijstand aan de politie op grond van [artikel 57 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=57).
 
@@ -102,15 +95,31 @@ De [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) en het
 
 ### 1.3. Betrokken organisaties in het taakveld bewaken en beveiligen
 
+Gezagen
+
 De gezagen binnen het taakveld bewaken en beveiligen zijn de NCTV, de HOvJ’s en de burgemeesters. De gezagen zijn verantwoordelijk voor het opdragen van veiligheidsmaatregelen op basis van dreiging en risico, op basis van een advies door de politie en/of de KMar.
+
+Uitvoeringsorganisaties
 
 De politie en de KMar zijn de uitvoeringsorganisaties binnen het taakveld bewaken en beveiligen. De KMar voert beveiligingsopdrachten uit op basis van haar eigen politietaak of in bijstand of assistentieverlening aan de politie. De uitvoering is zo georganiseerd dat de politie en de KMar, vanuit synergie en gelijkwaardigheid, de beveiligingsopdrachten effectief en efficiënt kunnen uitvoeren en waar nodig andere (private) partijen kunnen betrekken. De uitvoeringsorganisaties adviseren met betrekking tot de benodigde veiligheidsmaatregelen en trekken in gezamenlijkheid op om de intake en uitvoering van nieuwe opdrachten van het gezag vorm te geven in een gezamenlijk coördinatiecentrum.
 
-Ten behoeve van de taakuitvoering in het taakveld bewaken en beveiligen wordt ook informatie verzameld over dreiging en risico ten aanzien van personen, objecten en diensten. De inlichtingen- en veiligheidsdiensten en opsporings- en intelligenceorganisaties van de politie en KMar zijn verantwoordelijk voor het opstellen van de (dreigings)informatieproducten. In hoofdstuk 3 wordt nader ingegaan op deze producten en de rol van het gezag om de verkregen informatie te analyseren en te vertalen naar een adequaat niveau van weerstand.
+Ten behoeve van de taakuitvoering in het taakveld bewaken en beveiligen wordt ook informatie verzameld over dreiging en risico ten aanzien van personen, objecten en diensten. De inlichtingen- en veiligheidsdiensten en opsporings- en intelligenceorganisaties van de politie en KMar zijn verantwoordelijk voor het opstellen van de (dreigings)informatieproducten. In [hoofdstuk 3](https://wetten.overheid.nl/BWBR0052355) wordt nader ingegaan op deze producten en de rol van het gezag om de verkregen informatie te analyseren en te vertalen naar een adequaat niveau van weerstand.
+
+Publiek-private samenwerking
 
 Uitvoeringsorganisaties kunnen publiek-private samenwerkingen aangaan. Private partijen kunnen, vanwege hun specifieke expertise, ingezet worden op bepaalde taken binnen een beveiligingsconcept, gebaseerd op het benodigde weerstandsniveau. Deels kan dit structureel, deels biedt de inzet van deze private partijen de mogelijkheid fluctuaties in werklast op te vangen. Naast extra capaciteit, kan dit ook de kwaliteit van het beveiligingsconcept vergroten. Met het betrekken van de expertise en capaciteit vanuit de private sector, worden de mogelijkheden om een breed palet aan beveiligingsconcepten te ontwikkelen ook verruimd.
 
 Bij de inzet van private organisaties, zijnde onderdeel van het beveiligingsconcept binnen het taakveld (niet zijnde private maatregelen in het kader van de werkgeversverantwoordelijkheid), gelden vier principiële uitgangspunten:
+
+- • Het geweldsmonopolie blijft bij de overheid;
+
+- • De uitvoering van hun taken valt onder regie van en is ondersteunend aan de uitvoeringsorganisaties, met instemming van het bevoegde gezag;
+
+- • De particuliere beveiliging voldoet aan certificerings- en opleidingseisen die door het bevoegde gezag worden gesteld;
+
+- • Gegevensverstrekking voldoet aan de wettelijke vereisten.
+
+Andere organisaties
 
 Ook werkgevers en overkoepelende instanties zijn relevante organisaties. Vaak zijn dit de beveiligingsambtenaren (BVA’s) van departementen of vergelijkbare functionarissen van private organisaties. Zij beschikken vaak ook over relevante informatie aangaande dreiging en risico of geven uitvoering aan de werkgeversverantwoordelijkheid.
 
@@ -118,9 +127,19 @@ Ook werkgevers en overkoepelende instanties zijn relevante organisaties. Vaak zi
 
 Er zijn veel verschillende organisaties betrokken die ieder hun eigen rollen, taken en verantwoordelijkheden hebben binnen het taakveld bewaken en beveiligen. Zij zijn daarbij van elkaar afhankelijk en gezamenlijk verantwoordelijk voor het resultaat. Effectieve samenwerking en afstemming tussen deze organisaties is dan ook noodzakelijk voor een goede werking van het taakveld bewaken en beveiligen. Om de samenhang binnen het taakveld en de samenwerking tussen organisaties te borgen, is de governance op landelijk niveau zo georganiseerd dat het voorziet in krachtige en integrale sturing op strategie, operatie, kwaliteit en innovatie.
 
+Dg-overleg bewaken en beveiligen
+
+9
+
+Tijdens de transitie van het stelsel was het DG-overleg tijdelijk de ‘stuurgroep transitie’.
+
 In het Dg-overleg zitten de verschillende directeuren-generaal van betrokken departementen en organisaties, namelijk de NCTV, Directoraat-generaal Politie en Veiligheidsregio’s (DGPenV), Directoraat-generaal Rechtspleging en Rechtshandhaving (DGRR), Directoraat-generaal AIVD en Directoraat-generaal Beleid van Defensie. Indien er thema’s besproken worden die het OM raken in de gezagsrol voor het lokaal domein of de opsporing sluit het OM aan. Indien er thema’s besproken worden in relatie tot getuigenbescherming/kroongetuigen sluit het Directoraat-generaal ondermijning (DGO) aan. Het Dg-overleg besluit (formeel) over beleidsvraagstukken die geen onderdeel uitmaken van de operationele aansturing door het gezag (NCTV, HOvJ en burgemeesters), maar randvoorwaardelijk voor het functioneren van het taakveld bewaken en beveiligen zijn. Het Dg-overleg kan ook als escalatieniveau dienen voor zaken die het eigenaarschap of beheer van de betrokken organisaties betreft. Het Dg-overleg borgt daarmee de reguliere verantwoordelijkheidslijnen (beleidsmatig, beheersmatig en politiek-bestuurlijk) binnen de departementen. De NCTV is voorzitter van het Dg-overleg.
 
+Vierhoek Bewaken en Beveiligen
+
 De Vierhoek Bewaken en Beveiligen – bestaande uit de NCTV of zijn plaatsvervanger, een lid van het College van procureurs-generaal, een vertegenwoordiger van de korpsleiding van de politie en de commandant van de KMar of zijn aangewezen plaatsvervanger – is het overleg dat richting geeft aan de strategische doorontwikkeling van het taakveld bewaken en beveiligen. De NCTV is voorzitter van de Vierhoek. In de Vierhoek wordt niet overlegd over zaken die het eigenaarschap, het beheer, de inrichting of de verwerkingsverantwoordelijkheid van de betrokken organisaties betreft.
+
+Uitvoeringsorgaan Bewaken en Beveiligen
 
 De coördinatie en aansturing van het taakveld bewaken en beveiligen ligt bij het uitvoeringsorgaan waarin de organisaties op directeursniveau zijn vertegenwoordigd, onder voorzitterschap van een directeur van de NCTV. Vanwege de verscheidenheid aan taken en vraagstukken, bestaat het uitvoeringsorgaan uit twee ‘tafels’: een Strategische tafel en een (operationele) Sturingstafel.
 
@@ -128,13 +147,21 @@ De Strategische tafel een overleg op directeurenniveau – bestaande uit vertege
 
 De Sturingstafel – bestaande uit de NCTV, het OM, de politie en de KMar – heeft als aandachtsgebied de overkoepelende sturing op actuele en toekomstige operationele vraagstukken en de kwaliteitsborging in de operatie. Daarbij maakt de sturingstafel gebruik van het dashboard bewaken en beveiligen, waarin alle voor de sturing benodigde informatie over de ingezette en beschikbare capaciteit geactualiseerd beschikbaar is.
 
+Landelijk Tactisch Overleg
+
 Het Landelijk Tactisch Overleg (LTO) ressorteert onder de Sturingstafel van het Uitvoeringsorgaan Bewaken en Beveiligen. In het LTO zijn de NCTV, OM, politie en KMar vertegenwoordigd. Het LTO focust op de operatie en is het landelijke overleg waar operationele vraagstukken en specifieke casuïstiek binnen het taakveld bij elkaar komen voor landelijke afstemming. Waar nodig zorgt het LTO dat besluiten worden voorbereid en voorgelegd aan de Sturingstafel – afgestemd en voorzien van advies. Wanneer vraagstukken geagendeerd worden voor de Sturingstafel dan wel geëscaleerd worden naar de Sturingstafel, gebeurt dit via het LTO en met medeweten van alle LTO deelnemers.
+
+Overleg Strategische Adviseurs
 
 Het Overleg Strategische Adviseurs ressorteert onder de Strategische tafel van het uitvoeringsorgaan Bewaken en Beveiligen en heeft als primaire taak het overleg inhoudelijk voor te bereiden en daarvoor de samenhang dan wel voortgang te bewaken van de afgesproken acties.
 
+Bestuurssecretariaat
+
 Ter ondersteuning van de vierhoek en het uitvoeringsorgaan, is bij de NCTV een bestuurssecretariaat ingericht. Dit bestuurssecretariaat bereidt de overleggremia inhoudelijk voor en voert het secretariaat.
 
-Binnen het taakveld bewaken en beveiligen zijn verschillende kennis- en adviesfuncties ingericht. Deze zijn beschreven in hoofdstuk 6.
+Kennis, wetenschap en innovatie
+
+Binnen het taakveld bewaken en beveiligen zijn verschillende kennis- en adviesfuncties ingericht. Deze zijn beschreven in [hoofdstuk 6](https://wetten.overheid.nl/BWBR0052355).
 
 ### 2. Taakveld bewaken en beveiligen en afbakening stelsel beveiligen van personen
 
@@ -142,17 +169,29 @@ Binnen het taakveld bewaken en beveiligen zijn verschillende kennis- en adviesfu
 
 Het taakveld bewaken en beveiligen van personen, objecten en diensten omvat:
 
+- a) het stelsel beveiligen van personen ([paragraaf 2.3](https://wetten.overheid.nl/BWBR0052355));
+
+- b) het lokaal domein ([paragraaf 2.4](https://wetten.overheid.nl/BWBR0052355));
+
+- c) het bewaken en beveiligen van objecten en diensten ([paragraaf 2.5](https://wetten.overheid.nl/BWBR0052355)).
+
 Het taakveld heeft dezelfde reikwijdte als voorheen het stelsel bewaken en beveiligen.
 
-Het stelsel beveiligen van personen omvat de personen op de limitatieve lijst10De limitatieve lijst is ten opzichte van de circulaire 2023 onveranderd. (zie paragraaf 2.3.2) maar de lijst is niet alleen leidend zijn voor opname in het stelsel beveiligen van personen. Voor opname in het stelsel beveiligen van personen, buiten de limitatieve lijst, is namelijk de ernst van de dreiging gericht op het leven van een persoon bepalend.
+Stelsel beveiligen van personen
+
+Het stelsel beveiligen van personen omvat de personen op de limitatieve lijst10De limitatieve lijst is ten opzichte van de circulaire 2023 onveranderd. (zie [paragraaf 2.3.2](https://wetten.overheid.nl/BWBR0052355)) maar de lijst is niet alleen leidend zijn voor opname in het stelsel beveiligen van personen. Voor opname in het stelsel beveiligen van personen, buiten de limitatieve lijst, is namelijk de ernst van de dreiging gericht op het leven van een persoon bepalend.
 
 Het doel van het stelsel beveiligen van personen is om weerstand te bieden tegen ernstige dreiging gericht op de fysieke integriteit van personen. De dreiging tegen de persoon moet in beginsel herleidbaar zijn tot één van de vier dreigingsfenomenen die de democratische rechtsstaat en samenleving raken. Dit zijn (1) georganiseerde, ondermijnende criminaliteit, (2) terrorisme en extremisme, (3) statelijke actoren en (4) gefixeerde eenlingen.
 
 In het stelsel beveiligen van personen is daarmee sprake van een – verruimde – aanwijzing door de NCTV van personen in het stelsel.
 
-Opname in het stelsel (naast de limitatieve lijst) wordt geëffectueerd via het zogenaamde triageproces. Het triageproces moet ertoe leiden dat personen tegen wie een ernstige dreiging bestaat die past binnen de criteria van het daarvoor ontwikkelde toetsingskader door de NCTV worden aangewezen, waarmee het gezag van de HOvJ van rechtswege overgaat naar de NCTV (zie paragraaf 2.3.3). Dat betekent dat in die gevallen waarin naar het oordeel van de HOvJ van het betrokken arrondissementsparket sprake is van een zodanige dreiging tegen een persoon, deze door de NCTV aangewezen dient te worden, de betrokken HOvJ deze persoon via het triageproces zal aandragen bij de NCTV.
+Opname in het stelsel (naast de limitatieve lijst) wordt geëffectueerd via het zogenaamde triageproces. Het triageproces moet ertoe leiden dat personen tegen wie een ernstige dreiging bestaat die past binnen de criteria van het daarvoor ontwikkelde toetsingskader door de NCTV worden aangewezen, waarmee het gezag van de HOvJ van rechtswege overgaat naar de NCTV (zie [paragraaf 2.3.3](https://wetten.overheid.nl/BWBR0052355)). Dat betekent dat in die gevallen waarin naar het oordeel van de HOvJ van het betrokken arrondissementsparket sprake is van een zodanige dreiging tegen een persoon, deze door de NCTV aangewezen dient te worden, de betrokken HOvJ deze persoon via het triageproces zal aandragen bij de NCTV.
+
+Lokaal domein
 
 Er kunnen buiten het stelsel beveiligen van personen in het lokaal domein veiligheidsmaatregelen (met uitzondering van persoonsgerichte maatregelen) worden getroffen ten aanzien van personen. Dat gebeurt dan onder gezag van de HOvJ.
+
+Bewaken en beveiligen van objecten en diensten
 
 Daarnaast kunnen in het taakveld maatregelen worden getroffen met het oog op het bewaken en beveiligen van objecten en diensten. Voor de objecten en diensten die op grond van [artikel 4 Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4) door de KMar bewaakt en beveiligd worden, gebeurt dat onder gezag van de NCTV. Voor alle andere objecten, ook de objecten die door de minister zijn aangewezen op grond van [artikel 16, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=16), geldt dat dit gebeurt onder het gezag van de burgemeester of van de HOvJ.
 
@@ -160,13 +199,21 @@ Daarnaast kunnen in het taakveld maatregelen worden getroffen met het oog op het
 
 De hieronder beschreven uitgangspunten zijn bepalend voor het taakveld.
 
+Gelaagde verantwoordelijkheidsverdeling
+
 Personen in Nederland zijn in eerste instantie zelf verantwoordelijk voor hun veiligheid. Ze mogen daarbij rekenen op hulp van de organisaties waar zij deel van uitmaken of werkzaam voor zijn. Werkgevers zijn wettelijk verplicht maatregelen te treffen om te voorkomen dat de veiligheid van medewerkers in gevaar komt als gevolg van hun werkzaamheden. De overheid kan aanvullende veiligheidsmaatregelen nemen als een persoon of de organisatie waar hij deel van uitmaakt of waarvoor hij werkt, redelijkerwijs op eigen kracht geen, of onvoldoende, weerstand kan bieden tegen de dreiging en het risico. De kostenverdeling volgt de verantwoordelijkheidsverdeling.
 
-De overheid heeft een zorgplicht om haar burgers te beschermen.11Kamerstukken II 2024/25, 29 911, nr. 475. In Europese verdragen is de minimumgrens van deze zorgplicht beschreven. Ten aanzien van veiligheid wordt de zorgplicht van de overheid primair ontleend aan artikel 2 van het EVRM: “Het recht van een ieder op leven wordt beschermd door de wet”. Volgens het Europees Hof voor de Rechten van de Mens (EHRM) heeft de Staat hiermee de positieve verplichting tot het realiseren van een effectief wettelijk en bestuurlijk (handhavings)kader ter bescherming van het recht op leven. Overheden behoren maatregelen te treffen binnen het kader van hun bevoegdheid, die redelijkerwijs verwacht mogen worden ter vermijding van de verwezenlijking van het gevaar.
+Zorgplicht
+
+De overheid heeft een zorgplicht om haar burgers te beschermen.11Kamerstukken II 2024/25, 29 911, nr. 475. In Europese verdragen is de minimumgrens van deze zorgplicht beschreven. Ten aanzien van veiligheid wordt de zorgplicht van de overheid primair ontleend aan artikel 2 van het EVRM: “Het recht van een ieder op leven wordt beschermd door de wet”. Volgens het Europees Hof voor de Rechten van de Mens (EHRM) heeft de Staat hiermee de positieve verplichting tot het realiseren van een effectief wettelijk en bestuurlijk (handhavings)kader ter bescherming van het recht op leven. Overheden behoren maatregelen te treffen binnen het kader van hun bevoegdheid, die redelijkerwijs verwacht mogen worden ter vermijding van de verwezenlijking van het gevaar.
 
 Hiervoor is een uitgebreid systeem ontwikkeld, met een breed palet aan bevoegdheden en instrumenten om invulling te geven aan de generieke zorgplicht om het recht op leven te beschermen. Voor bepaalde onderwerpen en/of type dreigingen zijn specifieke systemen of instrumenten.
 
+Absolute veiligheid kan niet worden gegarandeerd
+
 Bij het nemen van veiligheidsmaatregelen is altijd sprake van risicobeheersing, niet van risico-uitsluiting. De mate van veiligheid die kan worden geboden, is een uitkomst van een zorgvuldige afweging door deskundigen, op dreiging, risico en het niveau van maatregelen. Desondanks zal er altijd een restrisico zijn, aangezien incidenten niet zijn uit te sluiten; een garantie op veiligheid bestaat niet.
+
+Veiligheid staat centraal met oog voor de te beveiligen persoon
 
 Bij het beslissen over veiligheidsmaatregelen staat de veiligheid van de persoon, het object of de dienst centraal. Veiligheidsmaatregelen kunnen variëren van lichte maatregelen zoals extra toezicht, tot zware maatregelen zoals persoonsbeveiliging en objectbeveiliging. Veiligheidsmaatregelen zijn erop gericht om met zo min mogelijk impact zoveel mogelijk weerstand te creëren tegen de dreiging en het risico.
 
@@ -174,23 +221,53 @@ Veiligheidsmaatregelen hebben altijd impact op de te beveiligen persoon, het obj
 
 Bij het bepalen van het pakket aan veiligheidsmaatregelen is het benodigde weerstandsniveau tegen de dreiging leidend. Welke veiligheidsmaatregelen passend en mogelijk zijn, vergt een zorgvuldige afweging waarbij veiligheid en maatwerk leidend zijn. Het is niet realistisch en uitvoerbaar om voor alle te beveiligen personen alle aspecten in het dagelijks leven te voorzien van maatregelen in de periode dat deze nodig zijn. Het oneindig blijven uitbreiden van de (beveiligings)capaciteit is niet reëel, omdat dit uiteindelijk ten koste gaat van andere essentiële onderdelen van het bredere veiligheidsdomein. Daartoe is de overheid ook niet gehouden. Het pakket dat de overheid aanbiedt betreft derhalve een (maatwerk)aanbod en is niet onderhandelbaar. Volledig ongestoord functioneren gedurende de periode dat veiligheidsmaatregelen noodzakelijk zijn, is onmogelijk; veiligheidsmaatregelen gaan altijd gepaard met nadelige neveneffecten en beperken altijd de bewegingsvrijheid in meer of mindere mate. Er wordt steeds zorgvuldig afgewogen hoe op een proportionele manier onderscheid gemaakt kan worden. Dit betekent dat voor de ene persoon meer – of een ander type – activiteiten mogelijk worden gemaakt, dan voor een ander persoon. Ook vindt de afweging plaats of beveiliging alleen geldt tijdens (bepaalde) werkactiviteiten of dat ook privéactiviteiten mogelijk gemaakt moeten worden.
 
+Proportionaliteit van de maatregelen
+
 De inschatting van de dreiging, het risico en de analyse daarvan is leidend voor het vaststellen van het benodigde weerstandsniveau. Op deze wijze wordt ervoor gezorgd dat adequate veiligheidsmaatregelen kunnen worden getroffen en deze, wanneer mogelijk, weer worden afgebouwd. De geconstateerde (concrete/potentiële) dreiging en de getroffen veiligheidsmaatregelen dienen periodiek te worden getoetst om te beoordelen of voorzetting van de veiligheidsmaatregelen nog opportuun is. Uitgangspunt is dat, zodra het weerstandniveau het toelaat, de afbouw van veiligheidsmaatregelen wordt uitgevoerd en zo spoedig mogelijk teruggegaan wordt naar een normale situatie zonder overheidsbemoeienis.
+
+Medewerking van de te beveiligen persoon is essentieel
 
 Om het benodigde weerstandniveau te bereiken, is medewerking van de te beveiligen persoon essentieel. De gedragingen van de te beveiligen persoon (en diens gezinsleden) dragen in grote mate bij aan diens veiligheid. Wanneer een persoon niet of onvoldoende meewerkt aan zijn/haar eigen beveiliging, kan een situatie ontstaan dat de overheid niet, of niet goed, haar aanvullende verantwoordelijkheid kan nemen. Dit kan leiden tot ineffectief optreden en veiligheidsrisico’s voor de te beveiligen persoon, de omgeving en medewerkers die belast zijn met de uitvoering van de veiligheidsmaatregelen. Doorslaggevende criteria voor de uitvoering van veiligheidsmaatregelen zijn de operationele uitvoerbaarheid en de vraag of die uitvoering verantwoord is vanuit het oogpunt van de veiligheid van de medewerkers die belast zijn met de uitvoering van de specifieke maatregel.
 
-Het taakveld bewaken en beveiligen dient als een lerend systeem te functioneren om blijvend te kunnen meebewegen met ontwikkelingen binnen de samenleving en adequaat te kunnen reageren op dreigingen en risico’s. Het goed functioneren van het systeem vraagt derhalve om continue kwaliteitsontwikkeling, kennisborging en monitoring daarop. Het beschermen van personen betreft mensenwerk. Daarom is de focus op continue verbetering cruciaal en moet een lerende cultuur in alle lagen van de betrokken organisaties ingebed zijn, waarin professionals elkaar (multidisciplinair) motiveren en aansporen om processen te verbeteren. De ervaringen en inzichten van te beveiligen personen worden actief betrokken bij de doorontwikkeling van het systeem. In hoofdstuk 6 zal verder worden ingegaan op het taakveld als lerend systeem.
+Bewaken en beveiligen als lerend taakveld
+
+Het taakveld bewaken en beveiligen dient als een lerend systeem te functioneren om blijvend te kunnen meebewegen met ontwikkelingen binnen de samenleving en adequaat te kunnen reageren op dreigingen en risico’s. Het goed functioneren van het systeem vraagt derhalve om continue kwaliteitsontwikkeling, kennisborging en monitoring daarop. Het beschermen van personen betreft mensenwerk. Daarom is de focus op continue verbetering cruciaal en moet een lerende cultuur in alle lagen van de betrokken organisaties ingebed zijn, waarin professionals elkaar (multidisciplinair) motiveren en aansporen om processen te verbeteren. De ervaringen en inzichten van te beveiligen personen worden actief betrokken bij de doorontwikkeling van het systeem. In [hoofdstuk 6](https://wetten.overheid.nl/BWBR0052355) zal verder worden ingegaan op het taakveld als lerend systeem.
 
 ### 2.3. Het stelsel beveiligen van personen
 
 Het doel van het stelsel beveiligen van personen is om weerstand te bieden tegen een ernstige dreiging gericht op de fysieke integriteit van personen. Het stelsel geeft uitvoering aan de taak van de overheid om te zorgen voor de veiligheid van haar burgers, wanneer er sprake is van ernstige dreiging die tegen het leven gericht is. Het gaat hier – behoudens uitzonderingen waarin de dreiging (nog) niet herleidbaar is en/of waarin acute noodmaatregelen noodzakelijk zijn – om personen die bedreigd worden door in ieder geval één van de vier dreigingsfenomenen die de democratische rechtsstaat en samenleving raken. Dit zijn; (1) georganiseerde, ondermijnende criminaliteit, (2) terrorisme en extremisme, (3) statelijke actoren en (4) gefixeerde eenlingen.
 
+Te beveiligen personen in het stelsel beveiligen van personen
+
 De personen in het stelsel beveiligen van personen zijn onder te verdelen in drie groepen.
 
+- 1) Personen op de limitatieve lijst of die volgen uit de wet
+
+   - • De NCTV is van meet af aan gezag en daarmee verantwoordelijk voor de maatregelen met het oog op de beveiliging van een persoon, wanneer dat uit de wet volgt (leden van het Koninklijk Huis) of wanneer de persoon (een functie vervult die) is opgenomen op de limitatieve lijst.
+
+- 2) Personen die worden aangewezen na triage
+
+   - • Daarnaast is er de groep personen die door de NCTV wordt aangewezen, nadat de betrokken HOvJ de persoon heeft aangedragen voor opname in het stelsel beveiligen van personen via het triageproces.
+
+   - • In het geval van een triageprocedure is de NCTV niet eerder het gezag dan na de aanwijzing zoals bedoeld in [artikel 42 Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=42). Als gezag bepaalt de NCTV de maatregelen die de politie of de KMar in assistentieverlening aan de politie uitvoeren ter bescherming van de aangewezen persoon. Dat kunnen in het stelsel ook persoonsgerichte maatregelen zijn maar dat is afhankelijk van (onder andere) de ernst en de waarschijnlijkheid van de dreiging en het benodigde weerstandsniveau.
+
+- 3) Personen die worden aangewezen (buiten triage) vanwege noodzaak persoonsgerichte maatregelen
+
+   - • Er kunnen uitzonderlijke gevallen zijn waarin naar het oordeel van de HOvJ tijdelijk (vanwege een bepaald hoog risicomoment), of vanwege directe noodzaak daartoe, persoonsgerichte maatregelen moeten worden getroffen. In die uitzonderlijke gevallen vindt onmiddellijke aanwijzing van de desbetreffende persoon plaats door de NCTV, na hierom door (of namens) de HOvJ telefonisch te zijn verzocht. Bij dit verzoek wordt de op dat moment beschikbare en relevante informatie gedeeld. De inzet van de persoonsgerichte maatregelen vindt vervolgens plaats onder gezag van de NCTV, buiten het triageproces om. Hierover zijn werkafspraken gemaakt.
+
 Indien een casus voldoet aan de criteria van aard en ernst van de dreiging voor opname in het stelsel wordt de casus door de HOvJ zo snel mogelijk voorgedragen voor triage.
+
+Te beveiligen persoon en kerngezin
 
 Binnen het stelsel beveiligen van personen is het van belang dat niet alleen de te beveiligen persoon, maar indien noodzakelijk ook diens directe gezinsleden tijdig en adequaat beschermd worden tegen eventuele dreigingen. Door tegelijkertijd, met de aanwijzing door de NCTV van de te beveiligen persoon, ook de leden van het bijbehorende kerngezin aan te wijzen, wordt voorkomen dat ten aanzien van het kerngezin meerdere gezagen verantwoordelijk zijn voor maatregelen die veelal op dezelfde locatie geëffectueerd moeten worden.
 
 Onder het begrip 'kerngezin' wordt verstaan: de gezinsleden die op dezelfde locatie samenwonen met de te beveiligen persoon. Het kerngezin omvat de volgende personen:
+
+- • Levensgezel: Dit betreft de echtgenoot, partner of andere persoon/huisgenoot met wie de te beveiligen persoon een samenlevingsverband (huwelijk, relatie of samenwonend) heeft en die op hetzelfde adres als de te beveiligen persoon woont.
+
+- • Inwonende kinderen: Hieronder vallen alle kinderen (inclusief stief- en adoptiekinderen) van de te beveiligen persoon en/of van de levensgezel van de te beveiligen persoon, ongeacht hun leeftijd, zolang zij op hetzelfde adres wonen als de te beveiligen persoon.
+
+- • Inwonende familieleden: Andere familieleden van de te beveiligen persoon die op hetzelfde adres wonen als de te beveiligen persoon.
 
 Deze definitie richt zich specifiek op inwonende gezinsleden die door hun fysieke nabijheid aan dezelfde dreiging (zouden kunnen) blootstaan als de te beveiligen persoon, ook als er geen sprake is van ernstige, directe dreiging op deze inwonende gezinsleden. De verantwoordelijkheid voor de veiligheid voor deze kerngezinsleden gaat automatisch over met het gezag wanneer de te beveiligen persoon door de NCTV wordt aangewezen, omdat de gezinsleden dan ook door de NCTV worden aangewezen. Dit geldt eveneens bij een eventuele terugkeer van het gezag naar de HOvJ. Dit houdt in dat zodra de te beveiligen persoon wordt aangewezen, de NCTV ook vanaf dat moment verantwoordelijkheid draagt voor de veiligheid van het kerngezin en alle veiligheidsmaatregelen die daarvoor worden getroffen.
 
@@ -208,6 +285,12 @@ In het stelsel beveiligen van personen is er een eenduidig gezag over de politie
 
 Zoals eerder aangegeven maken de personen op de zogenoemde limitatieve lijst deel uit van het stelsel beveiligen van personen12Op de limitatieve lijst staan ook objecten en diensten. Die maken geen onderdeel uit van het stelsel beveiligen van personen. Zie 2.5 voor de maatregelen ten aanzien van objecten en diensten.. Op deze limitatieve lijst staan de volgende personen/groepen van personen:
 
+- • Personen ten aanzien van wie door de aard en/of herkomst van de dreiging en de functie van de persoon in beginsel de kans aanwezig is dat de nationale of internationale democratische rechtsorde wordt geschaad en/of de veiligheid van de Staat in het geding is;
+
+- • Bepaalde buitenlandse personen in Nederland;
+
+- • Enkele functionarissen in dienst van de Rijksoverheid of werkzaam in de (straf)rechtspleging.
+
 De limitatieve lijst is onderverdeeld in twee categorieën. In Categorie I staan de personen waarvoor de Rijksoverheid als eerstverantwoordelijke standaard veiligheidsmaatregelen treft, dus ook in de gevallen waarin geen sprake is van dreiging en risico. In Categorie II staan de personen waarvoor de Rijksoverheid als eerstverantwoordelijke veiligheidsmaatregelen treft op basis van dreiging en risico.
 
 ### 2.3.3. Triage en toetsingskader
@@ -220,15 +303,23 @@ Uitgangspunt in hSet triageproces is dat het merendeel van de door het OM aanged
 
 Anders dan bij de personen die al aangewezen zijn door de plaatsing op de limitatieve lijst, geldt voor de gevallen waarin door de HOvJ een persoon wordt aangedragen voor opname in het stelsel, dat de betrokken HOvJ het gezag is en blijft totdat de persoon wordt aangewezen en daarmee wordt opgenomen in het stelsel. De HOvJ is derhalve ook gedurende het triageproces het verantwoordelijke gezag en bepaalt de (spoed)maatregelen die door de politie of de KMar getroffen dienen te worden.
 
+Triageproces – directe opname en triagetafel
+
 Het triageproces omvat het proces vanaf het aandragen van casuïstiek door het OM en eindigt bij de beoordeling van een casus door de NCTV.
 
 De beoordeling of een casus stelselwaardig is, wordt toegelicht op een intakeformulier – getekend door de HOvJ – dat wordt verstuurd naar de NCTV. Op het intakeformulier staat aangegeven of een casus wordt voorgedragen voor directe opname of ter bespreking aan de triagetafel.
 
+Directe opname
+
 De HOvJ toetst de casus aan de criteria uit het toetsingskader. Alleen als de casus voldoet aan de criteria ‘ernstige dreiging op het leven gericht’ in combinatie met één van de vier dreigingsfenomenen’ kan de casus worden aangedragen voor directe opname.
+
+Triagetafel
 
 Indien een casus niet voldoet aan de criteria (ernstige dreiging in combinatie met één van de dreigingsfenomenen) maar de dreiging toch aanleiding geeft voor eventuele opname in het stelsel, kan de casus op basis van professioneel inzicht van politie en/of KMar en het OM worden aangedragen ter bespreking aan de triagetafel.
 
 Het uitgangspunt van de triagetafel is om te bepalen onder welk gezag maatregelen genomen dienen te worden. Het uiteindelijke oordeel over het opnemen van een casus in het stelsel – door aanwijzing van een persoon- kan enkel door de NCTV worden gegeven. Agendering van casuïstiek in het triageproces, en dus ook aan de triagetafel, geschiedt uitsluitend door de partij die het gezag heeft. Het OM voert het secretariaat van het triageproces en zit de triagetafel voor.
+
+Proces na directe opname of opname na bespreking aan de triagetafel
 
 De NCTV formaliseert de aanwijzing van een te beveiligen persoon tot opname in het stelsel, door in het oordeelsformulier aan te geven dat de NCTV akkoord is met de opname van de te beveiligen persoon in het stelsel beveiligen van personen. Het oordeel aangaande opname in het stelsel zal ordentelijk worden vastgelegd en beargumenteerd met afwegingen, waaronder op basis van welke informatie het besluit is genomen. Met het versturen van het oordeelsformulier wordt het OM geïnformeerd over het oordeel en daarmee de aanwijzing van de NCTV. De HOvJ zal na ontvangst van het oordeelsformulier het overdrachtsdossier verzenden aan de NCTV.
 
@@ -236,21 +327,47 @@ Na deze aanwijzing is de NCTV het bevoegd gezag. In het triageproces is de werka
 
 Indien een door de HOvJ aangedragen casus in de directe of indirecte lijn niet door de NCTV wordt opgenomen en de HOvJ desondanks van oordeel blijft dat de casus thuishoort bij de NCTV, geldt de volgende (operationele) escalatie: de landelijk Coördinerend HOvJ zoekt afstemming met de directeur van de NCTV. De laatste escalatietrede is de portefeuille houdend procureur-generaal in afstemming met de NCTV.
 
-**Toetsingskader voor triage**
+*Toetsingskader voor triage*
 
 Het triageproces start met het oordeel van de HOvJ dat een casus stelselwaardig is. Die beoordeling wordt gedaan aan de hand van de criteria die zijn vastgelegd in het toetsingskader voor triage.
 
 Dat toetsingskader bevat drie kernelementen:
 
+- a) **Ernstige dreiging**
+
+- b) **Dreiging afkomstig uit één van de dreigingsfenomenen**
+
+- c) **Professioneel inzicht**
+
+Ad a) Ernstige dreiging
+
 Een persoon komt in aanmerking voor directe opname in het stelsel indien er sprake is van een ernstige dreiging gericht op zijn fysieke integriteit. Ernstige dreiging is geoperationaliseerd als er naar het oordeel van de HOvJ sprake is van:
+
+- • het (mede)plegen van geweldsdelicten met een strafmaximum van 6 jaar of meer;
+
+- • het plegen van het misdrijf tegen het leven gericht als bedoeld in [artikel 285 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=285), waarbij tevens sprake is van antecedenten met betrekking tot ernstige vormen van geweldpleging, deelname aan een gewelddadige groepering of de aanwezigheid van een psychische stoornis bij de dreigende actor.
 
 In alle gevallen dient de ernstige dreiging vallend binnen één van bovengenoemde twee artikelen direct of indirect tegen het leven gericht te zijn. Dit betekent dat voor directe voordracht de dreiger of de dreigende actor bekend moet zijn om vast te kunnen stellen of de dreiging valt onder artikel 285 van het Wetboek van Strafrecht en of er tevens sprake is van de genoemde factoren. Bij de operationalisering van de ernst van de dreiging worden de criteria toegepast die in het lokaal domein bewaken en beveiligen worden gehanteerd om de ernst van de dreiging vast te stellen.
 
+Ad b) Dreiging afkomstig uit één van de dreigingsfenomenen
+
 De dreiging moet afkomstig zijn uit één van de vier vastgestelde dreigingsfenomenen. Deze worden voor de toepassing in het triageproces als volgt gedefinieerd:
+
+- 1. *Georganiseerde ondermijnende criminaliteit* Bij georganiseerde, ondermijnende criminaliteit gaat het om misdrijven die worden gepleegd in georganiseerd verband, waarbij financieel of materieel gewin het hoofddoel is. Deze misdrijven gaan vaak gepaard met intimidatie, bedreiging en/of geweld. De ondermijnende werking van deze vorm van criminaliteit ligt in de verwevenheid van de onder- en bovenwereld, met als effect dat het functioneren van de democratische rechtsorde en het vertrouwen daarin wordt aangetast. De dreigende actor in dit fenomeen is een crimineel samenwerkingsverband (CSV), en/of een individu dat aangestuurd wordt en/of onderdeel uitmaakt van een CSV. Om te bepalen of een dreigende actor tot een CSV behoort, kunnen (indien aanwezig) uitspraken van eerdere rechtelijke procedures worden gebruikt, waarin bijvoorbeeld de mate van geweldsbereidheid van het CSV of de impact op de rechtsorde is vastgesteld. Indien deze niet voorhanden zijn zal op basis van bij de (opsporings)diensten en/of OM beschikbare informatie aannemelijk worden gemaakt dat de dreigende actor een concrete dreiging vormt.
+
+- 2. *Terrorisme en extremisme* Terrorisme is het uit ideologische motieven (voorbereiden van het) plegen van op mensenlevens gericht geweld, of het veroorzaken van maatschappij-ontwrichtende schade, met als doel (een deel van) de bevolking ernstige vrees aan te jagen, maatschappelijke veranderingen te bewerkstelligen en/of politieke besluitvorming te beïnvloeden. Extremisme is het uit ideologische motieven bereid zijn om niet-gewelddadige en/of gewelddadige activiteiten te verrichten die de democratische rechtsorde ondermijnen. De dreigende actor betreft een terroristische of extremistische groepering, en/of individuen die door deze groeperingen worden geïnspireerd dan wel aangestuurd.
+
+- 3. *Statelijke dreiging* Onder statelijke dreiging valt elke activiteit die erop is gericht al dan niet met geweld het leven van een individueel persoon of groep personen te beïnvloeden en/of verstoren, en die (buiten de eigen landsgrenzen) wordt ondernomen door een buitenlandse overheid of proxy namens een buitenlandse overheid. Statelijke dreiging gaat over activiteiten van of namens buitenlandse overheden, gericht op personen of organisaties die zij als dreiging of tegenstander zien. Deze activiteiten variëren (niet uitsluitend) van spionage, omkoping, intimidatie, bedreiging, mishandeling, ontvoering tot moord. De dreigende actor betreft een statelijke actor. Hieronder kunnen buitenlandse overheden of overheidsorganisaties vallen, waaronder ook buitenlandse inlichtingendiensten, en hun proxy’s. Proxy’s kunnen bestaan uit bedrijven, groeperingen of individuen die door een buitenlandse overheid worden ingezet om haar doelen te bereiken.
+
+- 4. *Gefixeerde eenling* Een gefixeerde eenling is een individu dat een buitensporige fixatie heeft op een persoon of onderwerp, vermoedelijk psychische problemen heeft, en vanuit een persoonlijk motief dusdanig problematisch gedrag vertoont in de vorm van communicaties en/of toenaderingen richting een persoon of personen, dat dit kan uitmonden in een gewelddadige daad, in voorkomend geval met als gevolg maatschappelijke ontwrichting of (zeer grote) onrust.
+
+Ad c) Professioneel inzicht
 
 Als een casus niet voldoet aan de bovengenoemde afgebakende criteria voor directe opname in het stelsel beveiligen van personen (ernstige dreiging in combinatie met één van de dreigingsfenomenen), maar de dreiging toch aanleiding geeft voor eventuele opname in het stelsel, kan de casus worden aangedragen ter bespreking aan de triagetafel. Dit is alleen mogelijk wanneer op basis van het professioneel inzicht van de politie en/of de KMar én na beoordeling van de beschikbare informatie door de HOvJ, er voldoende reden is om de casus ter bespreking voor te leggen.
 
 Deze flexibiliteit is belangrijk om in te kunnen spelen op dreigingssituaties die niet altijd binnen de strikt afgebakende criteria voor directe opname in het stelsel (ernstige dreiging in combinatie met één van de vier dreigingsfenomenen) passen. Zelfs als een casus niet direct of evident onder ernstige dreiging valt en/of niet afkomstig is van een van de fenomenen, kan deze op basis van professioneel inzicht van de politie, de KMar en/of het OM toch worden aangedragen voor de triagetafel, indien de beschikbare informatie hiertoe aanleiding geeft.
+
+Toepassing van het toetsingskader
 
 Het toetsingskader wordt in het triageproces toegepast met de invulling van het zogenaamde intakeformulier. Dit formulier operationaliseert de vastgestelde criteria door middel van specifieke vragen over de context van de dreiging en de kenmerken van de bedreigde persoon in relatie tot de dreiging, die voor de beslissing over de opname in het stelsel op het moment van invullen beschikbaar is.
 
@@ -272,17 +389,21 @@ De NCTV bepaalt, met inachtneming van de geldende grondslagen, welke informatie 
 
 Daarnaast hebben de politie en de KMar op grond van [artikel 16 Wet Politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=16) een zelfstandige verantwoordelijkheid om het lokaal gezag te informeren.
 
+Driehoeksoverleggen en vierhoeksoverleggen
+
 In het driehoeksoverleg overleggen de burgemeester en de officier van justitie regelmatig samen met de politie over de taakuitvoering van de politie en over het beleid ten aanzien van de taakuitvoering ([artikel 13, eerste lid, Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=13)). Wanneer het door de burgemeester, de officier van justitie, de NCTV of de politie nodig wordt geacht kan de NCTV hierbij aansluiten, wanneer sprake is van een stelselcasus in de betreffende gemeente. Dit wordt een vierhoeksoverleg genoemd. De KMar kan eveneens deelnemen aan een vierhoeksoverleg wanneer zij betrokken is bij de taakuitvoering.
 
 ### 2.4. Het lokaal domein
 
 Het taakveld bewaken en beveiligen van personen, objecten en diensten omvat het stelsel beveiligen van personen, het lokaal domein en het bewaken en beveiligen van objecten en diensten.
 
-In het lokaal domein neemt het lokale gezag zelf besluiten over aanvullende veiligheidsmaatregelen om een dreiging in de richting van personen, objecten of diensten af te wenden dan wel ernstige schending van de fysieke integriteit te voorkomen. Zoals beschreven in de algemene uitgangspunten voor het taakveld (paragraaf 2.2) is er sprake van een gelaagde verantwoordelijkheidsverdeling.
+In het lokaal domein neemt het lokale gezag zelf besluiten over aanvullende veiligheidsmaatregelen om een dreiging in de richting van personen, objecten of diensten af te wenden dan wel ernstige schending van de fysieke integriteit te voorkomen. Zoals beschreven in de algemene uitgangspunten voor het taakveld ([paragraaf 2.2](https://wetten.overheid.nl/BWBR0052355)) is er sprake van een gelaagde verantwoordelijkheidsverdeling.
 
 ### 2.4.1. Waken over de veiligheid van personen in het lokaal domein
 
 Indien een persoon niet wordt opgenomen in het stelsel omdat niet aan de criteria wordt voldaan, maar er gelet op de dreiging wel veiligheidsmaatregelen nodig zijn, dan worden deze getroffen onder verantwoordelijkheid van de HOvJ. De HOvJ beoordeelt, op advies van de politie, in hoeverre de persoon en/of zijn werkgever in staat is weerstand te bieden aan de dreiging. Ook in het lokaal domein staat het voorkomen van ernstige schending van de fysieke integriteit van de bedreigde persoon centraal.
+
+Proces lokaal domein
 
 Wanneer bij de politie of de KMar een melding van een dreiging binnenkomt of aangifte van een dreiging wordt gedaan, wordt deze dreiging ter kennis gebracht van de afdeling Regionale Conflict en Crisisbeheersing (RCCB) van de politie. Bij de RCCB vindt een eerste weging plaats of de dreiging op persoon, object, of dienst voldoet aan de criteria van ernstige dreiging en in aanmerking komt voor het taakveld bewaken en beveiligen. Is dit niet het geval, dan valt deze casus onder de reguliere basispolitiezorg. Indien de casus voldoet aan de criteria van ernstige dreiging wordt de casus gemeld aan de adviseur bewaken, beveiligen en crisisbeheersing (adviseur BB&C) van het OM en vindt er overleg plaats. In de instructie bewaken en beveiligen zijn door het OM kaders opgesteld met betrekking tot welke casuïstiek altijd voorgelegd dient te worden aan de adviseur BB&C.
 
@@ -304,11 +425,15 @@ Indien een HOvJ wordt bedreigd dan is de HOvJ van diens woonplaats verantwoordel
 
 ### 2.5. Bewaken en beveiligen van objecten en diensten
 
+Bewaken en beveiligen van objecten en diensten onder lokaal gezag
+
 De burgemeester is op grond van zijn verantwoordelijkheid voor de openbare orde verantwoordelijk voor de bewaking en beveiliging van objecten en diensten. Indien er sprake is van strafrechtelijke handhaving van de rechtsorde, zoals in geval van een concrete dreiging waarbij veiligheidsmaatregelen worden genomen ter voorkoming van strafbare feiten, dan valt de bewaking en beveiliging van objecten en diensten onder verantwoordelijkheid van de HOvJ.
 
 Ook de uitvoering van bewakings- en beveiligingsmaatregelen van (aangewezen) objecten en diensten op de limitatieve lijst geschiedt onder gezag van de burgemeester, voor zover het de handhaving van de openbare orde betreft, of de HOvJ, voor zover het de strafrechtelijke handhaving van de rechtsorde betreft. De NCTV stelt daarbij (periodiek) het dreigingsniveau vast ten behoeve van het monitoren en eventueel het op- en afschalen van maatregelen. De NCTV geeft op basis van het dreigingsbeeld een advies aan het betreffende lokale gezag voor het treffen van veiligheidsmaatregelen ten aanzien van objecten en diensten. Het lokale gezag is verantwoordelijk voor het al dan niet opvolgen van deze adviezen.
 
 De maatregelen ten aanzien van de beveiliging van personen dienen in balans te zijn met de maatregelen die worden getroffen bij de objecten (woonhuis, werkplek) waar de betreffende persoon zich regelmatig bevindt. In uitzondering op de regel is de NCTV het gezag over maatregelen aan objecten zoals veel bezochte locaties van de te beveiligen personen in het stelsel, zoals de woning en de werkplek van de te beveiligen persoon uitsluitend met het oog op het waken over de veiligheid van deze persoon.
+
+Bewaken en beveiligen van objecten en diensten onder gezag van de NCTV
 
 Bij de objecten en diensten zijn er ook specifieke objecten en diensten die door de KMar onder direct gezag van de NCTV bewaakt en beveiligd worden op grond van [artikel 4, eerste lid sub a), e) en h](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4)) in combinatie met artikel 4, derde lid [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788). Het gaat daarbij om de koninklijke paleizen, het terrein van de ambtswoning van de minister-president en beveiligingswerkzaamheden ten behoeve De Nederlandsche Bank N.V. De NCTV is in deze gevallen altijd het gezag en bepaalt de maatregelen die getroffen worden.
 
@@ -330,6 +455,8 @@ Het werkproces is op hoofdlijnen geüniformeerd binnen de diverse organisaties. 
 
 ### 3.1. Informatie over dreiging en risico
 
+Dreigingsniveaus
+
 Voor het vaststellen van het dreigingsniveau wordt een dreigingsinschatting opgesteld. Hiervoor wordt een inschatting gemaakt van de ‘ernst’ van de dreiging en de ‘waarschijnlijkheid’ dat de dreiging gaat worden uitgevoerd. Daarbij wordt gebruik gemaakt van speciaal ontwikkelde tabellen met een dubbele kwalificering. Daardoor ontstaat een differentiatie in dreigingsniveaus en is maatwerk mogelijk. Op basis van de inschatting wordt gefundeerd overwogen ten aanzien van welke personen, objecten en diensten veiligheidsmaatregelen nodig zijn.
 
 De inschatting ten behoeve van het gezag wordt, in de vorm van een dreigingsinschatting, dreigingsmelding of een dreigings- of risicoanalyse – afhankelijk van de aard – gevraagd en ongevraagd vervaardigd door politie, KMar of de inlichtingen- en veiligheidsdiensten. Voor sommige objecten voorziet de intelligenceorganisatie van de KMar in eigen dreigingsinschattingen (krachtens [artikel 4, eerste lid, onder a, b, c, e en h, Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=4)). Andere partijen, zoals werkgevers of BVA’s van departementen, kunnen eveneens informatie leveren aan deze organisaties ten behoeve van het informatiebeeld van de voor hen relevante personen, objecten en diensten.
@@ -342,19 +469,33 @@ Bij het delen van informatie geldt dat het belang van bewaken en beveiligen neve
 
 Met het oog op de bepaling van een adequaat weerstandsniveau kan het gezag in contact treden met de politie, de KMar en de inlichtingen- en veiligheidsdiensten ten behoeve van verduidelijking van de verstrekte (dreigings)informatieproducten. Het gezag kan indien nodig, verzoeken medewerking te verlenen aan het verstrekken en (gedeeltelijk) verwerken van informatie conform wettelijke kaders. Tevens heeft de NCTV (als systeemverantwoordelijke) een beleidsverantwoordelijkheid dat de uitwisseling van relevante informatie – die bij de diensten, bij de politie en de KMar aanwezig is – tot stand komt en optimaal verloopt, waardoor de relevante informatie ook bij de uitvoering van de maatregelen betrokken kan worden.
 
+Melding van de dreiging
+
 Dit betreft een melding van een concrete of voorstelbare dreiging tegen een persoon, object of dienst zonder waardering van de ernst en waarschijnlijkheid. Een melding van een dreiging kan op verschillende manieren bekend worden zoals bijvoorbeeld via een melding of aangifte, vanuit de opsporing, via intelligence of een melding van de inlichtingen- en veiligheidsdiensten en tot slot uit informatie van ketenpartners. Informatie omtrent dreigingen wordt gevraagd en ongevraagd (zo nodig spoedshalve) verstrekt aan het gezag door de politie, KMar en inlichtingen- en veiligheidsdiensten. In de doorverstrekking van melding wordt aandacht besteed aan zowel de bedreigde, als de dreiger (indien bekend).
 
+Informatierapport dreiging (IRD)
+
 Dit product is bedoeld om bij concrete en voorstelbare dreigingen zoveel als mogelijk beschikbare informatie bijeen te brengen en zo een eerste indruk te geven van de situatie. Op basis van het IRD kan het gezag besluiten dat een DI moet worden opgemaakt en kan het gezag besluiten, indien nodig, de eerste (spoed)maatregelen te treffen. Een IRD wordt in beginsel uitsluitend in opdracht van het gezag opgesteld.
+
+Signaalrapportage
 
 Een signaalrapport is een informatierapport waarmee een signaal ter alertering wordt afgegeven op een specifiek onderwerp, indien dit een relatie heeft met het taakveld bewaken en beveiligen. Dit rapport wordt eigenstandig opgesteld vanuit de intelligenceorganisatie van de politie. Dat doen zij indien er een specifieke trend, methodiek of andere van belang zijnde ontwikkeling vanuit een dreigingsfenomeen bekend wordt en als deze van invloed kan zijn op de dreiging, op meerdere te beveiligen personen en/of de uitvoering van maatregelen, zoals persoonsbeveiliging.
 
 Met een signaalrapport kunnen het gezag en organisaties binnen het taakveld bewaken en beveiligen geïnformeerd worden, waarbij een aantal scenario’s kan worden geschetst.
 
+Dreigingsinschatting (DI)
+
 Een dreigingsinschatting is een product waarin de ernst en waarschijnlijkheid van de concrete, dan wel voorstelbare dreiging tegen een persoon, object of dienst wordt ingeschat. De inschatting is gebaseerd op feiten of omstandigheden met betrekking tot een dreiging en de ernst en waarschijnlijkheid van het manifesteren van de dreiging. Waar mogelijk worden signalen en contextinformatie vanuit betrokkenen (bijvoorbeeld de bedreigde persoon of hun naasten) daarin meegewogen. Dreigingsinschattingen worden voor het taakveld bewaken en beveiligen opgesteld. Zij worden gevraagd en ongevraagd verstrekt aan het gezag door opsporings-, inlichtingen- en veiligheidsdiensten.
+
+Dreigingsanalyse (DA)
 
 Een dreigingsanalyse is een uitgebreide analyse van concrete (voorspelbare) en potentiële (voorstelbare) dreiging tegen één of meer bepaalde personen, objecten of diensten. De analyse is gebaseerd op feiten en omstandigheden met betrekking tot de dreiging en de ernst en waarschijnlijkheid van het manifesteren van de dreiging. Dreigingsanalyses voor het stelsel beveiligen van personen worden op verzoek van het gezag opgesteld door de intelligenceorganisatie van de politie, de intelligenceorganisatie van de KMar en de inlichtingen- en veiligheidsdiensten. Voor het lokaal domein kan een HOvJ de intelligenceorganisatie van de politie, de intelligenceorganisatie van de KMar en de inlichtingen- en veiligheidsdiensten verzoeken een dreigingsanalyse op te stellen.
 
+Risicoanalyse (RA)
+
 Een risicoanalyse is een uitgebreide analyse waarin het belang, de concrete en voorstelbare dreiging en de weerstand in onderlinge samenhang worden beoordeeld en inzicht wordt gegeven in de risico’s die een persoon, object of dienst loopt. In een risicoanalyse wordt aangegeven wat het belang van de persoon, object of dienst is en wordt de concrete en voorstelbare dreiging tegen de persoon, het object of de dienst beschreven. Daarna wordt in de vorm van scenario’s beschreven in hoeverre de bestaande weerstand voldoende is om de geschetste dreiging te weerstaan. Het risico is vervolgens de mate waarin de weerstand tekortschiet tegen een bepaalde dreiging. De AIVD ontvangt hiervoor informatie van de andere diensten (bijvoorbeeld politie en MIVD).
+
+Weerstandsanalyse (WA)
 
 Een weerstandsanalyse (WA) is een uitgebreide analyse van de weerstand rondom een bepaald persoon, object of dienst. Een WA is standaard onderdeel van een reguliere risicoanalyse (RA), maar kan ook als zelfstandig product worden opgesteld. In een weerstandsanalyse wordt aan de hand van vooraf bepaalde scenario’s bezien in hoeverre de fysieke (veiligheids)maatregelen die op dat moment getroffen zijn, weerstand bieden tegen voorstelbare dreigingen in deze scenario’s. Weerstandsanalyses kunnen zowel voor het stelsel als voor het lokaal domein worden opgesteld en worden respectievelijk door de NCTV of de HOvJ verzocht. De AIVD stelt deze weerstandsanalyses op.
 
@@ -387,6 +528,12 @@ De verwerking van gegevens in het LCC en de verstrekking van gegevens vanuit het
 Er is een gezamenlijke ‘werkwijze nationale evenementen’, opgesteld door politie en NCTV. Een nationaal evenement is een evenement dat bezocht wordt door personen die zijn opgenomen in het stelsel beveiligen van personen, én waarbij het nationaal belang centraal staat, én het karakter van het evenement een specifieke of verhoogde druk op de bewaking en beveiliging geeft. Het aanmerken van een evenement als nationaal evenement geschiedt door de Minister van Justitie en Veiligheid op advies van de NCTV. In algemene zin wordt hier terughoudend mee omgegaan.
 
 De werkwijze omvat onder andere:
+
+- • Een geïntegreerd dreigingsbeeld op basis van de landelijke en lokale dreigingsinschattingen;
+
+- • Een transparante en toetsbare risicoafweging aan de hand van een landelijke lijst dreigingsscenario’s;
+
+- • Een integraal bewakings- en beveiligingsplan met de maatregelen inclusief de beveiligingsringen. Dit plan bevat het basispakket aan maatregelen en de eventuele extra gewenste maatregelen die voortvloeien uit de uitgewerkte scenario’s.
 
 Veiligheidsmaatregelen ten aanzien van de locatie, objecten en de openbare orde worden genomen onder bevoegdheid van het betrokken gezag. Met de burgemeester en de HOvJ participeert de NCTV in het gezagsoverleg met betrekking tot het nationale evenement over de te nemen veiligheidsmaatregelen. De NCTV is het gezag met betrekking tot de fysieke veiligheid van de aanwezige personen in het stelsel beveiligen van personen, en daarmee opdrachtgever van de politie of de KMar die uitvoering geeft aan de persoonsbeveiliging en -begeleiding. De NCTV geeft bij nationale evenementen altijd advies over de samenhang en de afstemming tussen de betrokken partijen in het bewaking- en beveiligingsproces, ongeacht het dreigingsniveau, en maakt deel uit van de daartoe relevante overleggen ter voorbereiding van deze evenementen.
 
@@ -430,7 +577,7 @@ De Inspectie kan ook geen toezicht houden op de rechtmatigheid van de uitvoering
 
 ### 6.3. Tijdelijk adviesorgaan
 
-Per 1 oktober 2024 is een tijdelijk, onafhankelijk Adviesorgaan ingesteld voor het taakveld bewaken en beveiligen. Tot de wettelijke instelling van een structureel Adviescollege adviseert het adviesorgaan de Minister van Justitie en Veiligheid over de kwaliteit van het functioneren en doorontwikkeling van het taakveld, en het stelsel beveiligen van personen als onderdeel daarvan in het bijzonder. De taak van het adviesorgaan is binnen het bestaande beleidskader te adviseren over de uitvoering en uitwerking van het taakveld bewaken en beveiligen. Met ‘uitvoering van beleid’ wordt niet alleen de transitie naar het nieuwe stelsel beveiligen van personen bedoeld, maar ook het effect van het functioneren van alle organisaties binnen het gehele taakveld bewaken en beveiligen. Verder is het aan het adviesorgaan om onafhankelijk de thema’s en onderzoeksonderwerpen te formuleren waarover zij wil adviseren.
+Per 1 oktober 2024 is een tijdelijk, onafhankelijk Adviesorgaan ingesteld voor het taakveld bewaken en beveiligen. Tot de wettelijke instelling van een structureel Adviescollege adviseert het adviesorgaan de Minister van Justitie en Veiligheid over de kwaliteit van het functioneren en doorontwikkeling van het taakveld, en het stelsel beveiligen van personen als onderdeel daarvan in het bijzonder. De taak van het adviesorgaan is binnen het bestaande beleidskader te adviseren over de uitvoering en uitwerking van het taakveld bewaken en beveiligen. Met ‘uitvoering van beleid’ wordt niet alleen de transitie naar het nieuwe stelsel beveiligen van personen bedoeld, maar ook het effect van het functioneren van alle organisaties binnen het gehele taakveld bewaken en beveiligen. Verder is het aan het adviesorgaan om onafhankelijk de thema’s en onderzoeksonderwerpen te formuleren waarover zij wil adviseren.
 
 ### 6.4. Kenniscentrum bewaken en beveiligen
 

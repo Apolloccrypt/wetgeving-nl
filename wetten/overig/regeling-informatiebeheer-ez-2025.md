@@ -1,44 +1,18 @@
 ---
 title: "Besluit van de Minister van Economische Zaken van 15 december 2025 kenmerk 102292336 tot vaststelling van de Regeling voor het informatiebeheer van het Ministerie van Economische Zaken (Regeling informatiebeheer EZ 2025)"
+citeertitel: "Regeling informatiebeheer EZ 2025"
 identifier: "BWBR0052022"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-12-25"
-last_updated: "2025-12-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052022"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17693173"
-version_id: "31222412"
-internal_id: "C44658591"
-label_id: "17592424"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052022/2025-12-25/0"
-intitule_bron: "Stcrt.2025-44295"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-12-15"
-intitule_published: "2025-12-24"
-intitule_in_force: "2025-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-44295"
-original_signed_date: "2025-12-15"
-original_published_date: "2025-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-44295"
-entry_into_force_date: "2025-12-25"
-jci_1_3: "jci1.3:c:BWBR0052022&z=2025-12-25&g=2025-12-25"
-jci_1_0: "1.0:c:BWBR0052022&g=2025-12-25"
-citeertitel_status: "officieel"
-short_title: "Regeling informatiebeheer EZ 2025"
-signed_date: "2025-12-15"
-entry_into_force: "2025-12-25"
+publicatiedatum: 2025-12-25
+laatste_update: 2025-12-25
+status: geldig
+toestand: 2025-12-25
+bron: "https://wetten.overheid.nl/BWBR0052022"
+opgehaald: 2026-09-10
 ---
+
 # Besluit van de Minister van Economische Zaken van 15 december 2025 kenmerk 102292336 tot vaststelling van de Regeling voor het informatiebeheer van het Ministerie van Economische Zaken (Regeling informatiebeheer EZ 2025)
-
-Gelet op [artikel 23, eerste lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=23) en [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14),
-
-Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
@@ -46,11 +20,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **archiefbescheiden:** archiefbescheiden als bedoeld in [artikel 1 onder c. van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
+- *archiefbescheiden:* archiefbescheiden als bedoeld in [artikel 1 onder c. van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1);
 
-- **hoofden van dienst:** hoofden van dienst genoemd in het [Besluit mandaat, volmacht en machtiging EZ 2025](onbekend).
+- *hoofden van dienst:* hoofden van dienst genoemd in het Besluit mandaat, volmacht en machtiging EZ 2025.
 
-- **minister:** Minister van Economische Zaken;
+- *minister:* Minister van Economische Zaken;
 
 ### Hoofdstuk 2. Reikwijdte, verantwoordelijkheden en bevoegdheden
 
@@ -58,15 +32,15 @@ In deze regeling wordt verstaan onder:
 
 1. De regeling geldt voor de taken, verantwoordelijkheden en bevoegdheden van de Minister van Economische Zaken ongeacht waar deze taken worden uitgevoerd.
 
-2. De regeling is van toepassing op alle organisatieonderdelen van het Ministerie van Economische Zaken vermeld in de [Bijlage Organisatie van het Ministerie van Economische Zaken bij het Besluit mandaat, volmacht en machtiging EZ 2025](onbekend).
+2. De regeling is van toepassing op alle organisatieonderdelen van het Ministerie van Economische Zaken vermeld in de Bijlage Organisatie van het Ministerie van Economische Zaken bij het Besluit mandaat, volmacht en machtiging EZ 2025.
 
 ##### Artikel 3. Plaatsvervangend secretaris-generaal en Chief Information Officer
 
 1. De plaatsvervangend secretaris-generaal is verantwoordelijk voor aangelegenheden op het gebied van de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376), voor zover niet behorend tot een hoofd van dienst.
 
-2. De plaatsvervangend secretaris-generaal stelt selectielijsten als bedoeld in [artikel 5, tweede lid, onderdeel b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5) vast.
+2. De plaatsvervangend secretaris-generaal stelt selectielijsten als bedoeld in [artikel 5, tweede lid, onderdeel b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5) vast.
 
-3. De plaatsvervangend secretaris-generaal is bevoegd om, in overleg met het betreffende hoofd van dienst, beperkingen te stellen aan de openbaarheid bij de overbrenging als bedoeld in [artikel 15 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15).
+3. De plaatsvervangend secretaris-generaal is bevoegd om, in overleg met het betreffende hoofd van dienst, beperkingen te stellen aan de openbaarheid bij de overbrenging als bedoeld in [artikel 15 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15).
 
 4. De plaatsvervangend secretaris-generaal vervult de rol van Chief Information Officer (CIO) zoals bedoeld in het Besluit CIO-stelsel Rijksdienst 2021;
 
@@ -84,13 +58,13 @@ In deze regeling wordt verstaan onder:
 
 4. Het hoofd van dienst zorgt in overleg met de plaatsvervangend secretaris-generaal voor een voorziening voor de informatie bij:
 
-- •. het opheffen, samenvoegen en het splitsen van overheidsorganen;
+- • het opheffen, samenvoegen en het splitsen van overheidsorganen;
 
-- •. het overdragen van taken aan een ander overheidsorgaan;
+- • het overdragen van taken aan een ander overheidsorgaan;
 
-- •. het instellen van tijdelijke overheidsorganen;
+- • het instellen van tijdelijke overheidsorganen;
 
-- •. het tijdelijk ter beschikking stellen van informatie aan een rechtspersoon gedurende een zo beperkt mogelijke termijn.
+- • het tijdelijk ter beschikking stellen van informatie aan een rechtspersoon gedurende een zo beperkt mogelijke termijn.
 
 5. In het informatieoverzicht worden mutaties bijgehouden zoals van vernietiging, overbrenging en overdracht van gegevens.
 
@@ -128,19 +102,19 @@ In deze regeling wordt verstaan onder:
 
 Het hoofd van dienst zorgt door middel van een overzicht van taken en werkprocessen ervoor dat van archiefbescheiden kan worden vastgesteld:
 
-- •. wanneer, door wie en uit hoofde van welke taak of werkproces het door het ministerie werd ontvangen of opgemaakt;
+- • wanneer, door wie en uit hoofde van welke taak of werkproces het door het ministerie werd ontvangen of opgemaakt;
 
-- •. de inhoud, structuur en verschijningsvorm bij het ontvangen of de creatie ervan door het ministerie;
+- • de inhoud, structuur en verschijningsvorm bij het ontvangen of de creatie ervan door het ministerie;
 
-- •. het gedrag van digitale bestanden;
+- • het gedrag van digitale bestanden;
 
-- •. de samenhang met andere ontvangen en opgemaakte archiefbescheiden;
+- • de samenhang met andere ontvangen en opgemaakte archiefbescheiden;
 
-- •. de met betrekking tot de archiefbescheiden uitgevoerde beheeractiviteiten; en
+- • de met betrekking tot de archiefbescheiden uitgevoerde beheeractiviteiten; en
 
-- •. de besturingsprogrammatuur of toepassingsprogrammatuur waarmee de archiefbescheiden worden bewaard of beheerd;
+- • de besturingsprogrammatuur of toepassingsprogrammatuur waarmee de archiefbescheiden worden bewaard of beheerd;
 
-- •. de functionele eisen voor de aspecten genoemd in de eerste twee opsommingstekens.
+- • de functionele eisen voor de aspecten genoemd in de eerste twee opsommingstekens.
 
 ##### Artikel 9. Overzicht en logische ordening
 
@@ -190,9 +164,9 @@ Het hoofd van dienst zorgt ervoor dat de informatiesystemen de toegankelijke sta
 
 2. Het hoofd van dienst voert een risicoanalyse uit en neemt daarbij de privacywetgeving en de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) in acht.
 
-3. Het hoofd van dienst neemt [artikel 2 eerste lid van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=2) in acht.
+3. Het hoofd van dienst neemt [artikel 2 eerste lid van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=2) in acht.
 
-4. In het besluit tot vervanging van archiefbescheiden wordt inzicht verschaft in het vervangingsproces zoals bedoeld in [artikel 26b van de Archiefregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=26b).
+4. In het besluit tot vervanging van archiefbescheiden wordt inzicht verschaft in het vervangingsproces zoals bedoeld in [artikel 26b van de Archiefregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=26b).
 
 ##### Artikel 15. Open standaarden en bestandsformaten
 
@@ -206,7 +180,7 @@ Gebruikmaking van compressietechniek is slechts toegestaan, voor zover daarbij n
 
 1. Archiefbescheiden worden overgezet op nieuwe dragers, zodra het gevaar dreigt dat de informatie verloren gaat dan wel onleesbaar of niet waarneembaar wordt als gevolg van veroudering of het in onbruik raken van het type drager.
 
-2. Bij het overzetten naar nieuwe informatiedragers blijft de relatie tussen de archiefbescheiden in stand om de context en de authenticiteit zoals bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052022&hoofdstuk=3&artikel=8&z=2025-12-25&g=2025-12-25) van deze regeling te waarborgen.
+2. Bij het overzetten naar nieuwe informatiedragers blijft de relatie tussen de archiefbescheiden in stand om de context en de authenticiteit zoals bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052022&hoofdstuk=3&artikel=8&z=2025-12-25&g=2025-12-25) van deze regeling te waarborgen.
 
 3. Het hoofd van dienst laat bewaken dat bestandsformaten, dragers en authenticiteitsbewijzen worden ondersteund.
 
@@ -228,9 +202,9 @@ Gebruikmaking van compressietechniek is slechts toegestaan, voor zover daarbij n
 
 2. De bewaartermijnen van archiefbescheiden worden voorzien van grondslagen.
 
-3. De bewaartermijnen worden vastgelegd in selectielijsten zoals bedoeld in [artikel 5 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5).
+3. De bewaartermijnen worden vastgelegd in selectielijsten zoals bedoeld in [artikel 5 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5).
 
-4. De selectielijsten voldoen aan de vereisten van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=5) en [artikel 2 eerste lid van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=2).
+4. De selectielijsten voldoen aan de vereisten van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=5) en [artikel 2 eerste lid van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=2).
 
 ##### Artikel 20. Vernietigen
 
@@ -275,5 +249,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 26. Citeertitel
 
 Dit besluit wordt aangehaald als: Regeling informatiebeheer EZ 2025.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

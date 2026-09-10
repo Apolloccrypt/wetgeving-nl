@@ -1,38 +1,16 @@
 ---
 title: "Statuten Mondriaan Fonds 2026"
 identifier: "BWBR0052335"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-02-20"
-last_updated: "2026-02-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052335"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17768383"
-version_id: "31414372"
-internal_id: "C44881951"
-label_id: "17666394"
-dtd_version: "2.0"
-original_entry_into_force: "2026-02-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052335/2026-02-20/0"
-intitule_bron: "Stcrt.2026-7151"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2026-02-10"
-intitule_published: "2026-02-20"
-intitule_in_force: "2026-02-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-7151"
-original_signed_date: "2026-02-10"
-original_published_date: "2026-02-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-7151"
-entry_into_force_date: "2026-02-20"
-jci_1_3: "jci1.3:c:BWBR0052335&z=2026-02-20&g=2026-02-20"
-jci_1_0: "1.0:c:BWBR0052335&g=2026-02-20"
-citeertitel_status: "redactioneel"
-signed_date: "2026-02-10"
-entry_into_force: "2026-02-20"
+publicatiedatum: 2026-02-20
+laatste_update: 2026-02-20
+status: geldig
+toestand: 2026-02-20
+bron: "https://wetten.overheid.nl/BWBR0052335"
+opgehaald: 2026-09-10
 ---
+
 # Statuten Mondriaan Fonds 2026
 
 ### Statuten
@@ -41,21 +19,21 @@ entry_into_force: "2026-02-20"
 
 In deze statuten hebben de volgende begrippen de daarachter vermelde betekenissen:
 
-- **‘directie’** betekent bestuur van de Stichting;
+- *‘directie’* betekent bestuur van de Stichting;
 
-- **‘Raad van Toezicht’** betekent de Raad van Toezicht van de stichting;
+- *‘Raad van Toezicht’* betekent de Raad van Toezicht van de stichting;
 
-- **‘schriftelijk’** betekent bij brief, e-mail, of bij boodschap die via een ander gangbaar communicatiemiddel wordt overgebracht en op schrift kan worden ontvangen;
+- *‘schriftelijk’* betekent bij brief, e-mail, of bij boodschap die via een ander gangbaar communicatiemiddel wordt overgebracht en op schrift kan worden ontvangen;
 
-- **‘stichting’** betekent Stichting Mondriaan Fonds, stimuleringsfonds voor beeldende kunst en cultureel erfgoed;
+- *‘stichting’* betekent Stichting Mondriaan Fonds, stimuleringsfonds voor beeldende kunst en cultureel erfgoed;
 
-- **‘minister’** betekent de minister die het cultuurbeleid in zijn portefeuille heeft, thans de Minister van Onderwijs, Cultuur en Wetenschap;
+- *‘minister’* betekent de minister die het cultuurbeleid in zijn portefeuille heeft, thans de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **'hij'** betekent tevens iedere andere genderaanduiding die door de betreffende persoon als geëigend wordt ervaren.
+- *'hij'* betekent tevens iedere andere genderaanduiding die door de betreffende persoon als geëigend wordt ervaren.
 
 ##### Artikel 2. Naam en zetel
 
-1. De stichting draagt de naam: **Stichting Mondriaan Fonds, stimuleringsfonds voor beeldende kunst en cultureel erfgoed**. De verkorte naam van de stichting luidt: Mondriaan Fonds.
+1. De stichting draagt de naam: *Stichting Mondriaan Fonds, stimuleringsfonds voor beeldende kunst en cultureel erfgoed*. De verkorte naam van de stichting luidt: Mondriaan Fonds.
 
 2. Zij heeft haar zetel in de gemeente Amsterdam.
 

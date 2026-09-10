@@ -1,51 +1,25 @@
 ---
 title: "Tijdelijke regeling vervroegd uittreden 2026"
 identifier: "BWBR0052492"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-03"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052492"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17825863"
-version_id: "31510762"
-internal_id: "C44996121"
-label_id: "17723054"
-dtd_version: "2.0"
-original_entry_into_force: "2026-04-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052492/2026-04-03/0"
-intitule_bron: "Stcrt.2026-12550"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2026-03-25"
-intitule_published: "2026-04-02"
-intitule_in_force: "2026-04-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-12550"
-original_signed_date: "2026-03-25"
-original_published_date: "2026-04-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-12550"
-entry_into_force_date: "2026-04-03"
-jci_1_3: "jci1.3:c:BWBR0052492&z=2026-04-03&g=2026-04-03"
-jci_1_0: "1.0:c:BWBR0052492&g=2026-04-03"
-citeertitel_status: "officieel"
-signed_date: "2026-03-25"
-entry_into_force: "2026-04-03"
+publicatiedatum: 2026-04-03
+laatste_update: 2026-04-03
+status: geldig
+toestand: 2026-04-03
+bron: "https://wetten.overheid.nl/BWBR0052492"
+opgehaald: 2026-09-10
 ---
+
 # Tijdelijke regeling vervroegd uittreden 2026
-
-Gelet op [artikel 168 van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=168);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **diensttijd:** de diensttijd, bedoeld in [artikel 8, vijfde lid, van de Inkomstenregeling burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&artikel=8);
+- *diensttijd:* de diensttijd, bedoeld in [artikel 8, vijfde lid, van de Inkomstenregeling burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&artikel=8);
 
-- **RVU-ontslag:** een ontslag op aanvraag op grond van [artikel 113, eerste lid, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=113) om gebruik te maken van de Tijdelijke regeling vervroegd uittreden 2026.
+- *RVU-ontslag:* een ontslag op aanvraag op grond van [artikel 113, eerste lid, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=113) om gebruik te maken van de Tijdelijke regeling vervroegd uittreden 2026.
 
 ##### Artikel 2. Voorwaarden RVU-ontslag
 
@@ -57,11 +31,11 @@ In deze regeling wordt verstaan onder:
 
 - c. tot de datum van het RVU-ontslag en over de afgelopen tien jaar werkzaamheden heeft verricht, waarbij jaarlijks regelmatig sprake was van:
 
-- 1°. een arbeidsverrichting tijdens een nachtdienst als bedoeld in [artikel 30a, onder e, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=30a);
+   - 1°. een arbeidsverrichting tijdens een nachtdienst als bedoeld in [artikel 30a, onder e, van het Burgerlijk ambtenarenreglement defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0006040&artikel=30a);
 
-- 2°. munitieruimen als bedoeld in [artikel 4, eerste lid, onder categorie A, van de Inkomstenregeling burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&artikel=4); of
+   - 2°. munitieruimen als bedoeld in [artikel 4, eerste lid, onder categorie A, van de Inkomstenregeling burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&artikel=4); of
 
-- 3°. bezwarende arbeidsomstandigheden als bedoeld in [artikel 5, eerste lid, onder b, van de Inkomstenregeling burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&artikel=5).
+   - 3°. bezwarende arbeidsomstandigheden als bedoeld in [artikel 5, eerste lid, onder b, van de Inkomstenregeling burgerlijke ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0039881&artikel=5).
 
 2. De aanvraag voor een RVU-ontslag wordt uiterlijk vier maanden voor de beoogde ontslagdatum ingediend bij het bevoegd gezag.
 
@@ -87,10 +61,8 @@ Op de ambtenaar aan wie RVU-ontslag is verleend, is [artikel 9 van de Inkomstenr
 
 ##### Artikel 5. Inwerkingtreding
 
-Deze regeling treedt in werking op de dag na de datum van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2026 en vervalt op 31 december 2026.
+Deze regeling treedt in werking op de dag na de datum van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2026 en vervalt op 31 december 2026.
 
 ##### Artikel 6. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke regeling vervroegd uittreden 2026.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

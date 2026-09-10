@@ -1,45 +1,17 @@
 ---
 title: "Werkwijze geschilbeslechting energie 2026"
 identifier: "BWBR0052180"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052180"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17732743"
-version_id: "31292862"
-internal_id: "C44739681"
-label_id: "17631404"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052180/2026-01-01/0"
-intitule_bron: "Stcrt.2026-293"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-10-30"
-intitule_published: "2026-01-02"
-intitule_in_force: "2026-01-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-293"
-original_signed_date: "2025-10-30"
-original_published_date: "2026-01-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-293"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0052180&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0052180&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "2025-10-30"
-entry_into_force: "2026-01-01"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0052180"
+opgehaald: 2026-09-10
 ---
+
 # Werkwijze geschilbeslechting energie 2026
-
-Gelet op [artikel 5.4 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.4) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=7) en [12w van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12w);
-
-Besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### afdeling Eerste. – algemeen
 
@@ -47,19 +19,20 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 In deze werkwijze wordt verstaan onder:
 
-- a. **Awb:** [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- a. *Awb:*
+ [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- b. **ACM:** de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
+- b. *ACM:* de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
 
-- c. **geschil:** een geschil als bedoeld in [artikel 5.4 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.4);
+- c. *geschil:* een geschil als bedoeld in [artikel 5.4 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.4);
 
-- d. **klacht:** een klacht omvat een aanvraag om een besluit te nemen op grond van [artikel 5.4 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.4);
+- d. *klacht:* een klacht omvat een aanvraag om een besluit te nemen op grond van [artikel 5.4 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.4);
 
-- e. **klager:** een natuurlijk persoon of rechtspersoon die bij de ACM een klacht indient;
+- e. *klager:* een natuurlijk persoon of rechtspersoon die bij de ACM een klacht indient;
 
-- f. **systeembeheerder:** een systeembeheerder als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1);
+- f. *systeembeheerder:* een systeembeheerder als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1);
 
-- g. **derde:** een natuurlijk persoon of rechtspersoon, niet zijnde de klager of systeembeheerder.
+- g. *derde:* een natuurlijk persoon of rechtspersoon, niet zijnde de klager of systeembeheerder.
 
 ##### Artikel 2. – Algemene bepaling
 
@@ -77,9 +50,9 @@ In deze werkwijze wordt verstaan onder:
 
 3. De klager verschaft:
 
-- a). afschriften van de correspondentie, waaronder in ieder geval een afschrift van de brief waarin de klager de systeembeheerder het geschil voorlegt en – indien de klager hierover beschikt – de schriftelijke reactie van de systeembeheerder daarop;
+- a) afschriften van de correspondentie, waaronder in ieder geval een afschrift van de brief waarin de klager de systeembeheerder het geschil voorlegt en – indien de klager hierover beschikt – de schriftelijke reactie van de systeembeheerder daarop;
 
-- b). overige gegevens en andere bescheiden die voor de beslissing op de klacht nodig zijn en waarover de klager beschikt of redelijkerwijs de beschikking kan krijgen.
+- b) overige gegevens en andere bescheiden die voor de beslissing op de klacht nodig zijn en waarover de klager beschikt of redelijkerwijs de beschikking kan krijgen.
 
 4. Indien de klager wordt vertegenwoordigd, verschaft de vertegenwoordiger een afschrift van de stukken waaruit de bevoegdheid van de natuurlijk persoon blijkt om op te treden namens de andere natuurlijke persoon, de rechtspersoon of de Staat. Als voorbeeld van stukken worden genoemd: machtigingen, actuele uittreksels van de Kamer van Koophandel, mandaatbesluiten en statuten.
 
@@ -109,7 +82,7 @@ De ACM zendt binnen vijf dagen na ontvangst van de klacht een ontvangstbevestigi
 
 ##### Artikel 7. – Termijnen
 
-1. De ACM beslist conform [artikel 5.4, tweede lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.4) binnen twee dan wel vier maanden na ontvangst van de klacht, met dien verstande dat deze beslistermijn wordt verlengd met de periode dat de behandeling van de klacht is opgeschort voor het herstel van verzuimen.
+1. De ACM beslist conform [artikel 5.4, tweede lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.4) binnen twee dan wel vier maanden na ontvangst van de klacht, met dien verstande dat deze beslistermijn wordt verlengd met de periode dat de behandeling van de klacht is opgeschort voor het herstel van verzuimen.
 
 2. Indien nader onderzoek of een hoorzitting nodig is, bedraagt de beslistermijn vier maanden.
 
@@ -143,11 +116,11 @@ De ACM zendt binnen vijf dagen na ontvangst van de klacht een ontvangstbevestigi
 
 3. De termijn voor het indienen van de zienswijze is drie weken na dagtekening van een daartoe strekkend verzoek van de ACM. Indien de ACM hiertoe gelet op de aard van het geschil aanleiding ziet, wordt de termijn beperkt tot twee weken.
 
-4. De systeembeheerder verstrekt bij de zienswijze, voor zover niet reeds door klager verstrekt, op grond van [artikel 5.23 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.23) de benodigde gegevens en bescheiden voor behandeling van de klacht:
+4. De systeembeheerder verstrekt bij de zienswijze, voor zover niet reeds door klager verstrekt, op grond van [artikel 5.23 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.23) de benodigde gegevens en bescheiden voor behandeling van de klacht:
 
-- a). afschriften van correspondentie;
+- a) afschriften van correspondentie;
 
-- b). overige gegevens en bescheiden die voor de beslissing op de klacht nodig zijn en waarover de klager beschikt of redelijkerwijs de beschikking kan krijgen.
+- b) overige gegevens en bescheiden die voor de beslissing op de klacht nodig zijn en waarover de klager beschikt of redelijkerwijs de beschikking kan krijgen.
 
 5. Indien sprake is van vertegenwoordiging overlegt de vertegenwoordiger een machtiging en de bijbehorende actuele uittreksels van de Kamer van Koophandel waaruit de bevoegdheid blijkt.
 
@@ -199,7 +172,7 @@ De ACM zendt binnen vijf dagen na ontvangst van de klacht een ontvangstbevestigi
 
 - c. de klacht buiten behandeling wordt gesteld.
 
-2. De ACM is niet bevoegd om op grond van [artikel 5.4 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.4) op de klacht te beslissen indien:
+2. De ACM is niet bevoegd om op grond van [artikel 5.4 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=5.4) op de klacht te beslissen indien:
 
 - a. geen sprake is van een geschil met een systeembeheerder, of
 
@@ -235,25 +208,25 @@ beslist de ACM zo spoedig mogelijk dienovereenkomstig.
 
 Dit is uitsluitend mogelijk per:
 
-- –. post via Postbus 16326, 2500 BH Den Haag, of
+- – post via Postbus 16326, 2500 BH Den Haag, of
 
-- –. mail via acm-post@acm.nl.
+- – mail via acm-post@acm.nl.
 
 2. Correspondentie tussen de ACM en een partij, als ook door een partij ingediende gegevens of bescheiden, zendt de ACM door aan de wederpartij, tenzij
 
-- –. het bepaalde bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0052180&afdeling=Zesde&artikel=16&z=2026-01-01&g=2026-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0052180&afdeling=Derde&artikel=7&z=2026-01-01&g=2026-01-01) zich tegen doorzending verzet, of
+- – het bepaalde bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0052180&afdeling=Zesde&artikel=16&z=2026-01-01&g=2026-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0052180&afdeling=Derde&artikel=7&z=2026-01-01&g=2026-01-01) zich tegen doorzending verzet, of
 
-- –. [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052180&afdeling=Vierde&artikel=11&z=2026-01-01&g=2026-01-01), van toepassing is.
+- – [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052180&afdeling=Vierde&artikel=11&z=2026-01-01&g=2026-01-01), van toepassing is.
 
 ##### Artikel 16. – Vertrouwelijkheid
 
-1. De klager, de systeembeheerder of een derde die gegevens of bescheiden indient, geeft bij indiening hiervan concreet en per document gemotiveerd aan welke onderdelen hij als (i) vertrouwelijk jegens een ieder en (ii) als vertrouwelijk jegens de andere partij of partijen beschouwt. De partij dient gemotiveerd de reden voor vertrouwelijke behandeling aan te geven.
+1. De klager, de systeembeheerder of een derde die gegevens of bescheiden indient, geeft bij indiening hiervan concreet en per document gemotiveerd aan welke onderdelen hij als (i) vertrouwelijk jegens een ieder en (ii) als vertrouwelijk jegens de andere partij of partijen beschouwt. De partij dient gemotiveerd de reden voor vertrouwelijke behandeling aan te geven.
 
 2. In een geval als beschreven in het eerste lid worden de volgende versies ingediend:
 
-- –. een voor de ACM bestemde versie, getiteld ‘Versie ACM’, waarin de onderdelen die hij als vertrouwelijk aanmerkt, zijn opgenomen, en
+- – een voor de ACM bestemde versie, getiteld ‘Versie ACM’, waarin de onderdelen die hij als vertrouwelijk aanmerkt, zijn opgenomen, en
 
-- –. een voor de partijen bestemde versie, getiteld ‘Versie (naam partij)’, waarin de onderdelen die hij als vertrouwelijk aanmerkt onleesbaar zijn gemaakt of op zichtbare wijze zijn weggelaten.
+- – een voor de partijen bestemde versie, getiteld ‘Versie (naam partij)’, waarin de onderdelen die hij als vertrouwelijk aanmerkt onleesbaar zijn gemaakt of op zichtbare wijze zijn weggelaten.
 
 Indien deze voor de partijen bestemde versie niet tevens geschikt is voor openbaarmaking, dient dit te worden vermeld.
 
@@ -273,9 +246,9 @@ Dit besluit wordt aangehaald als: Werkwijze geschilbeslechting energie 2026.
 
 ##### Artikel 19. – Inwerkingtreding en intrekking
 
-1. De Werkwijze geschilbeslechting energie 2026 treedt in werking met ingang van 1 januari 2026.
+1. De Werkwijze geschilbeslechting energie 2026 treedt in werking met ingang van 1 januari 2026.
 
-2. Op de datum van inwerkingtreding wordt de ‘[Werkwijze geschilbeslechting energie](https://wetten.overheid.nl/jci1.3:c:BWBR0033415)’ van 1 april 2013 ingetrokken.
+2. Op de datum van inwerkingtreding wordt de ‘[Werkwijze geschilbeslechting energie](https://wetten.overheid.nl/jci1.3:c:BWBR0033415)’ van 1 april 2013 ingetrokken.
 
 ##### Artikel 20. – Overgangsrecht
 

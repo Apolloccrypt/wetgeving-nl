@@ -1,43 +1,17 @@
 ---
 title: "Toezichtbeleid Erkenninghouders, Keurmeesters en Technici RDW"
 identifier: "BWBR0052068"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052068"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17703123"
-version_id: "31242852"
-internal_id: "C44681561"
-label_id: "17603934"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052068/2026-01-01/0"
-intitule_bron: "Stcrt.2025-41444"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-11-12"
-intitule_published: "2025-12-05"
-intitule_in_force: "2025-12-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-41444"
-original_signed_date: "2025-11-12"
-original_published_date: "2025-12-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-41444"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0052068&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0052068&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "2025-11-12"
-entry_into_force: "2026-01-01"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0052068"
+opgehaald: 2026-09-10
 ---
+
 # Toezichtbeleid Erkenninghouders, Keurmeesters en Technici RDW
-
-Gelet op de [Wegenverkeerswet 1994](onbekend), het [Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671), het [Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951), het [Besluit voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025554), de [Regeling erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051669), de [Regeling tachografen](https://wetten.overheid.nl/jci1.3:c:BWBR0042137) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ### Hoofdstuk 1. Definities
 
@@ -45,57 +19,57 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder:
 
-- **Aanvrager:** de natuurlijke persoon die namens hemzelf of als tekenbevoegde van een rechtspersoon een erkenning of een overname van een erkenning aanvraagt bij de RDW.
+- *Aanvrager:* de natuurlijke persoon die namens hemzelf of als tekenbevoegde van een rechtspersoon een erkenning of een overname van een erkenning aanvraagt bij de RDW.
 
-- **Attentie:** een brief of opmerking in een rapportage om u bewust te maken van een bepaalde situatie zodat u maatregelen kunt nemen om te voorkomen dat u een overtreding begaat of om een overtreding ongedaan te maken. Dit heeft geen gevolgen voor uw erkenning.
+- *Attentie:* een brief of opmerking in een rapportage om u bewust te maken van een bepaalde situatie zodat u maatregelen kunt nemen om te voorkomen dat u een overtreding begaat of om een overtreding ongedaan te maken. Dit heeft geen gevolgen voor uw erkenning.
 
-- **Aanwijzing:** een concrete aanwijzing die wordt gegeven of een maatregel die wordt genomen ter voorkoming van een overtreding, om een bepaald doel te bereiken of een situatie te beheersen. Onderneemt u geen of niet voldoende actie dan kan dit gevolgen hebben voor uw erkenning.
+- *Aanwijzing:* een concrete aanwijzing die wordt gegeven of een maatregel die wordt genomen ter voorkoming van een overtreding, om een bepaald doel te bereiken of een situatie te beheersen. Onderneemt u geen of niet voldoende actie dan kan dit gevolgen hebben voor uw erkenning.
 
-- **Bedrijfsadres:** het officiële adres waar uw bedrijf is gevestigd. Dit adres wordt geregistreerd bij de Kamer van Koophandel (KvK) als bezoekadres en dient in beginsel als de formele locatie voor de activiteiten die u uitvoert ten behoeve van de specifieke erkenning.
+- *Bedrijfsadres:* het officiële adres waar uw bedrijf is gevestigd. Dit adres wordt geregistreerd bij de Kamer van Koophandel (KvK) als bezoekadres en dient in beginsel als de formele locatie voor de activiteiten die u uitvoert ten behoeve van de specifieke erkenning.
 
-- **CVO:** Certificaat van Overeenstemming
+- *CVO:* Certificaat van Overeenstemming
 
-- **Erkenning:** de door de RDW verleende toestemming om handelingen als bedoeld in [artikel 4aud van de Wegenverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aud) alsmede handelingen met betrekking tot tachografen te mogen verrichten.
+- *Erkenning:* de door de RDW verleende toestemming om handelingen als bedoeld in [artikel 4aud van de Wegenverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aud) alsmede handelingen met betrekking tot tachografen te mogen verrichten.
 
-- **Erkenninghouder:** de natuurlijke persoon of rechtspersoon aan wie een erkenning is verleend.
+- *Erkenninghouder:* de natuurlijke persoon of rechtspersoon aan wie een erkenning is verleend.
 
-- **Fraude:** het plegen of trachten te plegen van valsheid in geschrifte, bedrog, benadeling van rechthebbenden of verduistering met het doel een betaling of ander voordeel te verkrijgen waarop hij geen recht heeft of kan hebben.
+- *Fraude:* het plegen of trachten te plegen van valsheid in geschrifte, bedrog, benadeling van rechthebbenden of verduistering met het doel een betaling of ander voordeel te verkrijgen waarop hij geen recht heeft of kan hebben.
 
-- **Intrekking:** een verleende erkenning geheel of gedeeltelijk beëindigen wegens het niet naleven van wettelijke voorschriften of erkenningsvoorwaarden.
+- *Intrekking:* een verleende erkenning geheel of gedeeltelijk beëindigen wegens het niet naleven van wettelijke voorschriften of erkenningsvoorwaarden.
 
-- **Kentekenplaat:** als kentekenplaat wordt beschouwd: een plaat die op een kentekenplaat lijkt. Dit houdt in dat een plaat met een formaat gelijkend aan een kentekenplaat en voorzien van een kenteken of van een combinatie van cijfers en letters die op een kenteken lijkt, een kentekenplaat is. Ongeacht of de plaat voorzien is van de benodigde merken, lamineercode en EU-logo en ongeacht de kleur en het materiaal van de plaat.
+- *Kentekenplaat:* als kentekenplaat wordt beschouwd: een plaat die op een kentekenplaat lijkt. Dit houdt in dat een plaat met een formaat gelijkend aan een kentekenplaat en voorzien van een kenteken of van een combinatie van cijfers en letters die op een kenteken lijkt, een kentekenplaat is. Ongeacht of de plaat voorzien is van de benodigde merken, lamineercode en EU-logo en ongeacht de kleur en het materiaal van de plaat.
 
-- **Keurmeester:** de natuurlijke persoon die beschikt over het diploma APK keurmeester van de Stichting VAM (IBKI) en aan wie de bevoegdheid is verleend voertuigen aan een keuring te onderwerpen als bedoeld in [artikel 4aue van de Wegenverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aue).
+- *Keurmeester:* de natuurlijke persoon die beschikt over het diploma APK keurmeester van de Stichting VAM (IBKI) en aan wie de bevoegdheid is verleend voertuigen aan een keuring te onderwerpen als bedoeld in [artikel 4aue van de Wegenverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aue).
 
-- **LPG-technicus:** de natuurlijke persoon die beschikt over het diploma LPG-technicus van de Stichting VAM (IBKI) en aan wie de bevoegdheid is verleend om gasinstallaties die in voertuigen zijn ingebouwd te keuren als bedoeld in [artikel 4aue van de Wegenverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aue).
+- *LPG-technicus:* de natuurlijke persoon die beschikt over het diploma LPG-technicus van de Stichting VAM (IBKI) en aan wie de bevoegdheid is verleend om gasinstallaties die in voertuigen zijn ingebouwd te keuren als bedoeld in [artikel 4aue van de Wegenverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aue).
 
-- **Medewerkingsplicht:** de verplichting als bedoeld in [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) (Awb) om medewerking te verlenen die een toezichthouder redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden als bedoeld in [artikel 5:15 tot en met 5:19 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15).
+- *Medewerkingsplicht:* de verplichting als bedoeld in [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) (Awb) om medewerking te verlenen die een toezichthouder redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden als bedoeld in [artikel 5:15 tot en met 5:19 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15).
 
-- **RDW:** de publiekrechtelijke rechtspersoon Dienst Wegverkeer.
+- *RDW:* de publiekrechtelijke rechtspersoon Dienst Wegverkeer.
 
-- **Sanctie:** een maatregel die wordt opgelegd bij overtreding van de erkenningsregels of het toezichtbeleid van de RDW.
+- *Sanctie:* een maatregel die wordt opgelegd bij overtreding van de erkenningsregels of het toezichtbeleid van de RDW.
 
-- **Sanctietoets:** een maatregel die wordt opgelegd aan een keurmeester of technicus bij het overschrijden van de maximale cusumstand van 10 punten. Bij het behalen van de toets wordt uw bevoegdheid om te keuren weer vrijgezet.
+- *Sanctietoets:* een maatregel die wordt opgelegd aan een keurmeester of technicus bij het overschrijden van de maximale cusumstand van 10 punten. Bij het behalen van de toets wordt uw bevoegdheid om te keuren weer vrijgezet.
 
-- **Schorsing:** een verleende erkenning gedurende een bepaalde termijn opschorten wegens het niet naleven van wettelijke voorschriften of erkenningsvoorwaarden. De schorsing kan worden opgeheven door binnen de gestelde termijn aantoonbaar te voldoen aan de eisen en voorwaarden van de erkenning.
+- *Schorsing:* een verleende erkenning gedurende een bepaalde termijn opschorten wegens het niet naleven van wettelijke voorschriften of erkenningsvoorwaarden. De schorsing kan worden opgeheven door binnen de gestelde termijn aantoonbaar te voldoen aan de eisen en voorwaarden van de erkenning.
 
-- **Second opinion:** de herkeuring tachografen en gasinstallaties.
+- *Second opinion:* de herkeuring tachografen en gasinstallaties.
 
-- **Steekproef:** de steekproefsgewijze herkeuring APK als bedoeld in [artikel 86 van de Wegenverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=86), de steekproefsgewijze herkeuring Tachograaf als bedoeld in [artikel 5:1 van de Regeling tachografen](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&artikel=5:1) of de steekproefsgewijze herkeuring Gasinstallatie.
+- *Steekproef:* de steekproefsgewijze herkeuring APK als bedoeld in [artikel 86 van de Wegenverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=86), de steekproefsgewijze herkeuring Tachograaf als bedoeld in [artikel 5:1 van de Regeling tachografen](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&artikel=5:1) of de steekproefsgewijze herkeuring Gasinstallatie.
 
-- **Tachograaftechnicus:** de natuurlijke persoon die beschikt over het diploma Tachograaftechnicus van de Stichting VAM (IBKI) en aan wie de bevoegdheid is verleend voertuigen van een tachograaf te voorzien als bedoeld in [artikel 2:5 van de Regeling tachografen](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&artikel=2:5).
+- *Tachograaftechnicus:* de natuurlijke persoon die beschikt over het diploma Tachograaftechnicus van de Stichting VAM (IBKI) en aan wie de bevoegdheid is verleend voertuigen van een tachograaf te voorzien als bedoeld in [artikel 2:5 van de Regeling tachografen](https://wetten.overheid.nl/jci1.3:c:BWBR0042137&artikel=2:5).
 
-- **Toezicht:** de werkzaamheden die een toezichthouder verricht om na te gaan of wet- en regelgeving wordt nageleefd.
+- *Toezicht:* de werkzaamheden die een toezichthouder verricht om na te gaan of wet- en regelgeving wordt nageleefd.
 
-- **Toezichthouders:** de daartoe aangewezen ambtenaren van de RDW.
+- *Toezichthouders:* de daartoe aangewezen ambtenaren van de RDW.
 
-- **Verjaringstermijn:** is een termijn die vanaf een bepaald moment begint te lopen. Na afloop van deze termijn is er sprake van verjaring.
+- *Verjaringstermijn:* is een termijn die vanaf een bepaald moment begint te lopen. Na afloop van deze termijn is er sprake van verjaring.
 
-- **Verscherpt toezicht:** intensiever toezicht op de naleving van wet- en regelgeving gericht op verbetering van de naleving. Verscherpt toezicht kan bestaan uit één of meerdere extra bezoeken naar aanleiding van een constatering. Verscherpt toezicht kan ook bestaan uit extra controles van de data van de RDW.
+- *Verscherpt toezicht:* intensiever toezicht op de naleving van wet- en regelgeving gericht op verbetering van de naleving. Verscherpt toezicht kan bestaan uit één of meerdere extra bezoeken naar aanleiding van een constatering. Verscherpt toezicht kan ook bestaan uit extra controles van de data van de RDW.
 
-- **Verstrekkingsvoorbehoud:** door het plaatsen van een verstrekkingsvoorbehoud wordt de tenaamstellingscode niet door de RDW naar de kentekenhouder gestuurd. Een verstrekkingsvoorbehoud kan worden geplaatst door de erkenninghouder Voorbehoud en Verplichtingen die eigenaar is van het voertuig. Deze ontvangt de tenaamstellingscode van de RDW.
+- *Verstrekkingsvoorbehoud:* door het plaatsen van een verstrekkingsvoorbehoud wordt de tenaamstellingscode niet door de RDW naar de kentekenhouder gestuurd. Een verstrekkingsvoorbehoud kan worden geplaatst door de erkenninghouder Voorbehoud en Verplichtingen die eigenaar is van het voertuig. Deze ontvangt de tenaamstellingscode van de RDW.
 
-- **Waarschuwing:** een maatregel die bedoeld is om een bepaalde situatie te regelen, herstellen of voorkomen, zonder dat het direct gevolgen heeft voor de erkenning.
+- *Waarschuwing:* een maatregel die bedoeld is om een bepaalde situatie te regelen, herstellen of voorkomen, zonder dat het direct gevolgen heeft voor de erkenning.
 
 ##### Artikel 1.2
 
@@ -141,17 +115,17 @@ De [hoofdstukken 5 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR005206
 
 17. Naast het toezichtbeleid dat is beschreven in dit document, zijn de volgende beleidsregels en documenten onlosmakelijk onderdeel van het toezichtbeleid van de RDW:
 
-- a). de beleidsregel toepassing Wet bevordering integriteitsbeoordelingen door het openbaar bestuur door het openbaar bestuur (Bibob) door de Dienst Wegverkeer;
+- a) de beleidsregel toepassing Wet bevordering integriteitsbeoordelingen door het openbaar bestuur door het openbaar bestuur (Bibob) door de Dienst Wegverkeer;
 
-- b). de beleidsregel inzake bestuurlijke boete (per 1 juli 2026);
+- b) de beleidsregel inzake bestuurlijke boete (per 1 juli 2026);
 
-- c). de beleidsregel inzake last onder dwangsom;
+- c) de beleidsregel inzake last onder dwangsom;
 
-- d). de Informatiemap voor de Voertuigbranche;
+- d) de Informatiemap voor de Voertuigbranche;
 
-- e). de Toelichting inrichting keuringsruimte, werkplaats en apparatuur;
+- e) de Toelichting inrichting keuringsruimte, werkplaats en apparatuur;
 
-- f). het Certification Practice Statement1Het Certification Practice Statement is opgesteld als raamwerk voor de toepassing van certificaten die worden uitgegeven door de RDW..
+- f) het Certification Practice Statement1Het Certification Practice Statement is opgesteld als raamwerk voor de toepassing van certificaten die worden uitgegeven door de RDW..
 
 18. U heeft als RDW-erkenninghouder een eigen wettelijke taak en verwerkt persoonsgegevens in opdracht van de burger. Daarmee zijn de verplichtingen die gelden voor verwerkingsverantwoordelijken op basis van de AVG op u van toepassing. Dit betekent onder andere dat u datalekken moet registreren en indien nodig melden bij de Autoriteit Persoonsgegevens.
 
@@ -161,15 +135,15 @@ De [hoofdstukken 5 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR005206
 
 2. De RDW bezoekt uw bedrijf mede naar aanleiding van:
 
-- a). een steekproef na een melding door middel van datacommunicatie tussen de RDW en de erkenninghouder, of een steekproef op andere wijze;
+- a) een steekproef na een melding door middel van datacommunicatie tussen de RDW en de erkenninghouder, of een steekproef op andere wijze;
 
-- b). risico gestuurd toezicht;
+- b) risico gestuurd toezicht;
 
-- c). administratieve controle/ registercontrole;
+- c) administratieve controle/ registercontrole;
 
-- d). een externe melding van bijvoorbeeld de Belastingdienst, een voertuigeigenaar of de politie;
+- d) een externe melding van bijvoorbeeld de Belastingdienst, een voertuigeigenaar of de politie;
 
-- e). Mystery guest en/of Mystery vehicle.
+- e) Mystery guest en/of Mystery vehicle.
 
 3. De RDW kondigt de bezoeken in beginsel kort van tevoren aan.
 
@@ -177,7 +151,7 @@ De [hoofdstukken 5 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR005206
 
 5. De RDW heeft het recht om uw bedrijf onaangekondigd te bezoeken om toezicht uit te oefenen. U bent verplicht om uw werkzaamheden binnen de door de toezichthouder opgegeven tijd af te ronden of over te dragen zodat u of een daartoe bevoegde medewerker de toezichthouder te woord kan staan.
 
-6. Voor de erkenningen bedoeld in de [hoofdstukken 12 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0052068&hoofdstuk=12&z=2026-01-01&g=2026-01-01) geldt dat de toezichthouder verspreid over verschillende dagen maximaal (in totaal) drie pogingen doet om het bezoek aan te kondigen. Kan een bezoek niet aangekondigd worden dan bezoekt de toezichthouder uw bedrijf onaangekondigd. Is bij uw bedrijf niemand aanwezig om medewerking aan de controle te verlenen dan ontvangt u een formulier waarop u door het invullen van maximaal drie telefoonnummers verklaart dat u of een door u aangewezen persoon in de toekomst door het bellen van (een van) telefoonnummers binnen 15 minuten medewerking kan verlenen aan het toezicht. Het niet invullen en binnen de daarvoor gestelde termijn terugsturen naar de RDW van dit formulier of het aanbrengen van wijzigingen of toevoegingen op het formulier, kan leiden tot een schorsing van uw erkenning(en) voor de duur van zes weken. Na ontvangst van het ingevulde en ondertekende formulier zal de toezichthouder uw bedrijf onaangekondigd bezoeken. Als medewerking dan niet binnen 15 minuten na het bellen van de opgegeven telefoonnummers mogelijk is, beschouwt de RDW dit als geen medewerking verlenen aan toezicht en kan uw erkenning voor de duur van 6 weken worden ingetrokken.
+6. Voor de erkenningen bedoeld in de [hoofdstukken 12 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0052068&hoofdstuk=12&z=2026-01-01&g=2026-01-01) geldt dat de toezichthouder verspreid over verschillende dagen maximaal (in totaal) drie pogingen doet om het bezoek aan te kondigen. Kan een bezoek niet aangekondigd worden dan bezoekt de toezichthouder uw bedrijf onaangekondigd. Is bij uw bedrijf niemand aanwezig om medewerking aan de controle te verlenen dan ontvangt u een formulier waarop u door het invullen van maximaal drie telefoonnummers verklaart dat u of een door u aangewezen persoon in de toekomst door het bellen van (een van) telefoonnummers binnen 15 minuten medewerking kan verlenen aan het toezicht. Het niet invullen en binnen de daarvoor gestelde termijn terugsturen naar de RDW van dit formulier of het aanbrengen van wijzigingen of toevoegingen op het formulier, kan leiden tot een schorsing van uw erkenning(en) voor de duur van zes weken. Na ontvangst van het ingevulde en ondertekende formulier zal de toezichthouder uw bedrijf onaangekondigd bezoeken. Als medewerking dan niet binnen 15 minuten na het bellen van de opgegeven telefoonnummers mogelijk is, beschouwt de RDW dit als geen medewerking verlenen aan toezicht en kan uw erkenning voor de duur van 6 weken worden ingetrokken.
 
 ##### Artikel 2.3. Frequentie van toezicht
 
@@ -203,27 +177,27 @@ De [hoofdstukken 5 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR005206
 
 1. Een overtreding kan onder andere worden vastgesteld:
 
-- a). tijdens een controlebezoek;
+- a) tijdens een controlebezoek;
 
-- b). tijdens een steekproefcontrole;
+- b) tijdens een steekproefcontrole;
 
-- c). naar aanleiding van een administratieve-/ registercontrole;
+- c) naar aanleiding van een administratieve-/ registercontrole;
 
-- d). naar aanleiding van een klacht;
+- d) naar aanleiding van een klacht;
 
-- e). naar aanleiding van een melding door onder andere:
+- e) naar aanleiding van een melding door onder andere:
 
-- •. Douane;
+   - • Douane;
 
-- •. Politie;
+   - • Politie;
 
-- •. Belastingdienst;
+   - • Belastingdienst;
 
-- •. Inspectie Leefomgeving en Transport (ILT);
+   - • Inspectie Leefomgeving en Transport (ILT);
 
-- •. Ministerie van Infrastructuur en Waterstaat (IenW);
+   - • Ministerie van Infrastructuur en Waterstaat (IenW);
 
-- •. andere overheden.
+   - • andere overheden.
 
 2. Een overtreding is ondergebracht in vier categorieën, te weten:
 
@@ -239,17 +213,17 @@ Voor sommige erkenningen of overtredingen geldt een ander stroomschema. Als dat 
 
 6. De volgende overtredingen van categorie IV zijn voor alle erkenningen hetzelfde. De overtredingen zijn:
 
-- •. Het ondermijnen van toezicht zoals:
+- • Het ondermijnen van toezicht zoals:
 
-- −. het niet verlenen van toegang tot uw bedrijf;
+   - − het niet verlenen van toegang tot uw bedrijf;
 
-- −. het weigeren om medewerking te verlenen;
+   - − het weigeren om medewerking te verlenen;
 
-- −. verbaal en/of (fysiek) geweld of de dreiging daarmee;
+   - − verbaal en/of (fysiek) geweld of de dreiging daarmee;
 
-- −. intimidatie in welke vorm dan ook.
+   - − intimidatie in welke vorm dan ook.
 
-- •. Fraude.
+- • Fraude.
 
 In de hoofdstukken die betrekking hebben op uw specifieke erkenning of bevoegdheid kunnen voorbeelden staan van categorie IV overtredingen die behoren bij die erkenning.
 
@@ -261,25 +235,25 @@ In de hoofdstukken die betrekking hebben op uw specifieke erkenning of bevoegdhe
 
 2. De RDW kent de volgende sancties:
 
-- a). Waarschuwing
+- a) Waarschuwing
 
-- b). Intrekking voor bepaalde tijd
+- b) Intrekking voor bepaalde tijd
 
-- c). Intrekking voor onbepaalde tijd
+- c) Intrekking voor onbepaalde tijd
 
-- d). Last onder dwangsom
+- d) Last onder dwangsom
 
-- e). Bestuursdwang
+- e) Bestuursdwang
 
-- f). Bestuurlijke boete
+- f) Bestuurlijke boete
 
 3. Een sanctie als bedoeld in het tweede lid onder a en b kan in combinatie met verscherpt toezicht worden opgelegd. Verscherpt toezicht wordt in ieder geval opgelegd als er sprake is van:
 
-- a). de kans op herhaling van een overtreding van dezelfde categorie;
+- a) de kans op herhaling van een overtreding van dezelfde categorie;
 
-- b). twee (2) overtredingen van categorie I en/of II; of
+- b) twee (2) overtredingen van categorie I en/of II; of
 
-- c). om na te gaan of u gemaakte afspraken voor verbetering van uw processen bent nagekomen.
+- c) om na te gaan of u gemaakte afspraken voor verbetering van uw processen bent nagekomen.
 
 4. Een sanctie als bedoeld in het tweede lid onder b kan worden opgelegd voor een periode van vier weken, zes weken, twaalf weken of zes maanden.
 
@@ -347,9 +321,9 @@ Het voorwaardelijke deel van de intrekking en de sanctie ten gevolge van de nieu
 
 5. Uw aanvraag voor een erkenning wordt afgewezen als in de 12 weken daarvoor eenzelfde erkenning is ingetrokken. Is eenzelfde erkenning in de 30 maanden vóór uw aanvraag twee keer of vaker ingetrokken dan kunt u pas weer een aanvraag doen vanaf 6 maanden na de laatste intrekking.
 
-**Stroomschema**
+Stroomschema
 
-**Stroomschema inzake overtredingen van tellerstanden behorend bij de erkenningen tenaamstellen voertuigen bedrijfsvoorraad of importeursvoorraad, de erkenning export, de erkenning bedrijfsvoorraad en de erkenning inschrijven met onderzoek:**
+*Stroomschema inzake overtredingen van tellerstanden behorend bij de erkenningen tenaamstellen voertuigen bedrijfsvoorraad of importeursvoorraad, de erkenning export, de erkenning bedrijfsvoorraad en de erkenning inschrijven met onderzoek:*
 
 ### Hoofdstuk 4. Zienswijze, bezwaar en beroep
 
@@ -415,13 +389,13 @@ Dit hoofdstuk is van toepassing bij alle erkenningen. U moet dus naast dit hoofd
 
 2. In de volgende gevallen moet u (opnieuw) een geldige VOG overleggen:
 
-- a). Bij aanvraag van de Basiserkenning;
+- a) Bij aanvraag van de Basiserkenning;
 
-- b). Na afgifte van de Basiserkenning elke drie jaar;
+- b) Na afgifte van de Basiserkenning elke drie jaar;
 
-- c). Bij toetreding van een nieuw lid tot het bestuur van een rechtspersoon;
+- c) Bij toetreding van een nieuw lid tot het bestuur van een rechtspersoon;
 
-- d). Wanneer daar aanleiding toe bestaat als gevolg van een melding van een overheidsinstantie, een rechterlijke uitspraak of berichtgeving in de media die van invloed kan zijn op de verleende Basiserkenning en/of specifieke erkenning.
+- d) Wanneer daar aanleiding toe bestaat als gevolg van een melding van een overheidsinstantie, een rechterlijke uitspraak of berichtgeving in de media die van invloed kan zijn op de verleende Basiserkenning en/of specifieke erkenning.
 
 3. De aangeleverde VOG moet origineel zijn en mag niet ouder zijn dan twee maanden na de datum waarop deze door Dienst Justis is afgegeven.
 
@@ -433,13 +407,13 @@ De verklaring moet in het Nederlands zijn geschreven of een goede vertaling in h
 
 6. Indien één of meerdere niet in Nederland woonachtige bestuurders toetreden tot de rechtspersoon, dient voor die (niet in Nederland woonachtige) bestuurder een verklaring als bedoeld in het vierde lid te worden overgelegd. Er hoeft in dat geval geen nieuwe VOG voor de gehele rechtspersoon te worden overgelegd, daar deze nieuwe, niet in Nederland woonachtige bestuurder niet kan worden gescreend bij de afgifte van een VOG). U moet dit zelf onmiddellijk nadat de bestuurder is toegetreden melden aan de RDW.
 
-##### Artikel 5.4. [Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798)
+##### Artikel 5.4. Bibob
 
 Zie hiervoor de Beleidsregel toepassing Wet bevordering integriteitsbeoordelingen door het openbaar bestuur(Bibob) door de Dienst Wegverkeer.
 
 ##### Artikel 5.5. Bestuurlijke boete, last onder dwangsom, last onder bestuursdwang
 
-Zie hiervoor de Beleidsregel van De Dienst Wegverkeer over bestuurlijke boetes, last onder dwangsom en last onder bestuursdwang in het kader van de [Wegenverkeerswet](onbekend).
+Zie hiervoor de Beleidsregel van De Dienst Wegverkeer over bestuurlijke boetes, last onder dwangsom en last onder bestuursdwang in het kader van de [Wegenverkeerswet](https://wetten.overheid.nl/BWBR0006622).
 
 ### Hoofdstuk 6. Erkenninghouder APK
 
@@ -447,7 +421,7 @@ Zie hiervoor de Beleidsregel van De Dienst Wegverkeer over bestuurlijke boetes, 
 
 Met deze erkenning levert u een bijdrage aan de kwaliteit van het Nederlandse wagenpark. Deze erkenning brengt dus een grote verantwoordelijkheid met zich mee. Daarom houdt de RDW toezicht op uw erkenning APK.
 
-De erkenningen APK 1 (motorrijtuigen of aanhangwagens met een toegestane maximummassa van meer dan 3.500 kg.), APK 2 (motorrijtuigen met een toegestane maximummassa van minder dan 3.500 kg.) en APK 3 (landbouwvoertuigen) mogen alleen worden uitgevoerd op de keuringsplaats.
+De erkenningen APK 1 (motorrijtuigen of aanhangwagens met een toegestane maximummassa van meer dan 3.500 kg.), APK 2 (motorrijtuigen met een toegestane maximummassa van minder dan 3.500 kg.) en APK 3 (landbouwvoertuigen) mogen alleen worden uitgevoerd op de keuringsplaats.
 
 U bent verantwoordelijk voor de keuringen en andere handelingen die de keurmeester uitvoert. De keurmeester werkt onder uw leiding en namens uw bedrijf. Ook als de keurmeester een fout maakt, kunt u daarvoor verantwoordelijk worden gehouden. Dit kan gevolgen hebben voor uw erkenning APK.
 
@@ -455,11 +429,11 @@ U bent verantwoordelijk voor de keuringen en andere handelingen die de keurmeest
 
 Voor de aanvraag en het behouden van de erkenning APK moet u blijvend beschikken over:
 
-- a). een actuele inschrijving in het handelsregister van de Kamer van Koophandel waaruit blijkt dat u exploitant bent van een onderneming die bedrijfsmatig voertuigen inspecteert, keurt of onderhoudt.
+- a) een actuele inschrijving in het handelsregister van de Kamer van Koophandel waaruit blijkt dat u exploitant bent van een onderneming die bedrijfsmatig voertuigen inspecteert, keurt of onderhoudt.
 
-- b). een keuringsruimte die aan de eisen voldoet waarin een door de RDW erkend keurmeester voertuigen voor APK mag keuren.
+- b) een keuringsruimte die aan de eisen voldoet waarin een door de RDW erkend keurmeester voertuigen voor APK mag keuren.
 
-- c). de juiste en in deugdelijke staat verkerende apparatuur, meetmiddelen en gereedschappen zoals vermeld in de wettelijke regelingen en Toelichting inrichting keuringsruimte, werkplaats en apparatuur.
+- c) de juiste en in deugdelijke staat verkerende apparatuur, meetmiddelen en gereedschappen zoals vermeld in de wettelijke regelingen en Toelichting inrichting keuringsruimte, werkplaats en apparatuur.
 
 ##### Artikel 6.3. Voorschriften
 
@@ -475,11 +449,11 @@ Voor de aanvraag en het behouden van de erkenning APK moet u blijvend beschikken
 
 6. Als een voertuig de keuringsruimte verlaat voordat de steekproef kan worden uitgevoerd, dan:
 
-- a). geeft u geen keuringsrapport af,
+- a) geeft u geen keuringsrapport af,
 
-- b). wijst u de klant er op dat de goedkeuring vervalt, en
+- b) wijst u de klant er op dat de goedkeuring vervalt, en
 
-- c). meldt het verlaten van het voertuig direct telefonisch bij het ACN kantoor te Zwolle van de RDW (tel.nr. 088 008 74 77) en niet pas bij aankomst van de steekproefcontroleur.
+- c) meldt het verlaten van het voertuig direct telefonisch bij het ACN kantoor te Zwolle van de RDW (tel.nr. 088 008 74 77) en niet pas bij aankomst van de steekproefcontroleur.
 
 Het nakomen van de verplichtingen maakt de overtreding niet ongedaan.
 
@@ -529,13 +503,13 @@ Het nakomen van de verplichtingen maakt de overtreding niet ongedaan.
 
 5. U heeft geen of onvoldoende medewerking verleend, zoals:
 
-- a). Het voertuig was niet aanwezig;
+- a) Het voertuig was niet aanwezig;
 
-- b). De keurmeester was niet aanwezig;
+- b) De keurmeester was niet aanwezig;
 
-- c). U heeft de vereiste apparatuur niet ter beschikking gesteld;
+- c) U heeft de vereiste apparatuur niet ter beschikking gesteld;
 
-- d). Tijdens de steekproef zonder toestemming van de RDW-medewerker wijzigingen aanbrengen of aan laten brengen aan het voertuig.
+- d) Tijdens de steekproef zonder toestemming van de RDW-medewerker wijzigingen aanbrengen of aan laten brengen aan het voertuig.
 
 6. Er is onbevoegd gebruik gemaakt van het authenticatiemiddel van de keurmeester.
 
@@ -543,7 +517,7 @@ Het nakomen van de verplichtingen maakt de overtreding niet ongedaan.
 
 8. Een onbevoegde heeft een keuringsrapport ondertekend.
 
-**Stroomschema**
+Stroomschema
 
 ### Hoofdstuk 7. Erkenning tachografen
 
@@ -561,11 +535,11 @@ U bent verantwoordelijk voor de handelingen die de tachograaftechnicus uitvoert.
 
 Voor het aanvragen en behouden van de erkenning Tachografen moet u blijvend beschikken over:
 
-- a). Een actuele inschrijving in het handelsregister van de Kamer van Koophandel waaruit blijkt dat u exploitant bent van een onderneming waar u voertuigen onderhoudt en repareert;
+- a) Een actuele inschrijving in het handelsregister van de Kamer van Koophandel waaruit blijkt dat u exploitant bent van een onderneming waar u voertuigen onderhoudt en repareert;
 
-- b). een werkplaats die voldoet aan de arbo-eisen, goed verwarmd, behoorlijk af te sluiten en goed verlicht is;
+- b) een werkplaats die voldoet aan de arbo-eisen, goed verwarmd, behoorlijk af te sluiten en goed verlicht is;
 
-- c). de juiste en in deugdelijke staat verkerende apparatuur, meetmiddelen en gereedschappen zoals vermeld in de wettelijke regelingen en Toelichting inrichting keuringsruimte, werkplaats en apparatuur.
+- c) de juiste en in deugdelijke staat verkerende apparatuur, meetmiddelen en gereedschappen zoals vermeld in de wettelijke regelingen en Toelichting inrichting keuringsruimte, werkplaats en apparatuur.
 
 ##### Artikel 7.3. Voorschriften
 
@@ -603,11 +577,11 @@ Voor het aanvragen en behouden van de erkenning Tachografen moet u blijvend besc
 
 17. U controleert of het nieuwe installatieplaatje voldoet aan de gestelde eisen en deze brengt u direct na de melding van goedkeuring op het voertuig aan, maar niet voordat door de RDW is meegedeeld dat:
 
-- a). de melding niet leidt tot een steekproefsgewijze controle; of
+- a) de melding niet leidt tot een steekproefsgewijze controle; of
 
-- b). de melding leidt tot een steekproefsgewijze controle, maar dat deze steekproef niet binnen 90 minuten na de melding wordt begonnen; of
+- b) de melding leidt tot een steekproefsgewijze controle, maar dat deze steekproef niet binnen 90 minuten na de melding wordt begonnen; of
 
-- c). de melding leidt tot een steekproefsgewijze controle en deze controle heeft geleid tot goedkeuring van de desbetreffende werkzaamheden.
+- c) de melding leidt tot een steekproefsgewijze controle en deze controle heeft geleid tot goedkeuring van de desbetreffende werkzaamheden.
 
 ##### Artikel 7.4. Toezicht
 
@@ -627,7 +601,7 @@ Voor het aanvragen en behouden van de erkenning Tachografen moet u blijvend besc
 
 8. U draagt er zorg voor dat vanaf het moment dat een steekproef wordt aangekondigd totdat de steekproef is beëindigd, het voertuig en de tachograaftechnicus die de werkzaamheden heeft uitgevoerd, blijvend aanwezig in de werkplaats zijn. Als er in afwachting van de steekproef geen ruimte is om het voertuig in de werkplaats beschikbaar te houden dan is het toegestaan dat het voertuig geplaatst wordt in de onmiddellijke nabijheid van de werkplaats.
 
-9. Als ondanks alle genomen maatregelen een voertuig toch de werkplaats verlaat, voordat de steekproef kon worden uitgevoerd, dan meldt u dit direct telefonisch bij het ACN kantoor te Zwolle van de RDW (tel.nr. 088 008 74 77) en niet pas bij aankomst van de steekproefcontroleur. Het nakomen van de verplichtingen maakt de overtreding niet ongedaan.
+9. Als ondanks alle genomen maatregelen een voertuig toch de werkplaats verlaat, voordat de steekproef kon worden uitgevoerd, dan meldt u dit direct telefonisch bij het ACN kantoor te Zwolle van de RDW (tel.nr. 088 008 74 77) en niet pas bij aankomst van de steekproefcontroleur. Het nakomen van de verplichtingen maakt de overtreding niet ongedaan.
 
 10. U stelt de steekproefcontroleur in staat om binnen 15 minuten na aankomst met de uitvoering van het technische gedeelte van de steekproef te beginnen. Deze tijd is uitdrukkelijk niet bedoeld om de tachograaftechnicus van elders, buiten de werkplaats, te (laten) komen.
 
@@ -671,13 +645,13 @@ Voor het aanvragen en behouden van de erkenning Tachografen moet u blijvend besc
 
 2. U heeft geen of onvoldoende medewerking verleend tijdens een steekproef. Hieronder wordt in ieder geval verstaan dat:
 
-- a). het voertuig niet aanwezig is;
+- a) het voertuig niet aanwezig is;
 
-- b). de tachograaftechnicus niet aanwezig is bij de steekproefcontrole;
+- b) de tachograaftechnicus niet aanwezig is bij de steekproefcontrole;
 
-- c). de vereiste apparatuur niet ter beschikking is gesteld;
+- c) de vereiste apparatuur niet ter beschikking is gesteld;
 
-- d). tijdens de steekproef zonder toestemming van de RDW-medewerker wijzigingen aanbrengen of aan laten brengen aan het voertuig.
+- d) tijdens de steekproef zonder toestemming van de RDW-medewerker wijzigingen aanbrengen of aan laten brengen aan het voertuig.
 
 3. U heeft het voertuig en/of de werkzaamheden niet gemeld aan de RDW.
 
@@ -705,9 +679,9 @@ Voor het aanvragen en behouden van de erkenning Tachografen moet u blijvend besc
 
 2. U heeft opzettelijk parameters aangepast die afwijken van de kalibratiegegevens.
 
-**Stroomschema**
+Stroomschema
 
-**Stroomschema**
+Stroomschema
 
 ### Hoofdstuk 8. Erkenning gasinstallaties
 
@@ -723,13 +697,13 @@ U bent verantwoordelijk voor de keuringen en andere handelingen die de LPG-techn
 
 Voor het aanvragen en behouden van de erkenning Gasinstallatie moet u blijvend beschikken over:
 
-- a). een geldige bevoegdheid als technicus gasinstallaties. U beschikt hier zelf over of iemand van uw personeel;
+- a) een geldige bevoegdheid als technicus gasinstallaties. U beschikt hier zelf over of iemand van uw personeel;
 
-- b). een actuele inschrijving in het handelsregister van de Kamer van Koophandel waaruit blijkt dat u voertuigen inspecteert, keurt of onderhoudt;
+- b) een actuele inschrijving in het handelsregister van de Kamer van Koophandel waaruit blijkt dat u voertuigen inspecteert, keurt of onderhoudt;
 
-- c). een keuringsruimte die voldoet aan de arbo-eisen, goed verwarmd, behoorlijk af te sluiten en goed verlicht is;
+- c) een keuringsruimte die voldoet aan de arbo-eisen, goed verwarmd, behoorlijk af te sluiten en goed verlicht is;
 
-- d). de juiste en in deugdelijke staat verkerende apparatuur, meetmiddelen en gereedschappen zoals vermeld in de wettelijke regelingen en Toelichting inrichting keuringsruimte, werkplaats en apparatuur.
+- d) de juiste en in deugdelijke staat verkerende apparatuur, meetmiddelen en gereedschappen zoals vermeld in de wettelijke regelingen en Toelichting inrichting keuringsruimte, werkplaats en apparatuur.
 
 ##### Artikel 8.3. Voorschriften
 
@@ -757,7 +731,7 @@ Voor het aanvragen en behouden van de erkenning Gasinstallatie moet u blijvend b
 
 3. U draagt er zorg voor dat vanaf het moment dat een steekproef wordt aangekondigd totdat de steekproef is beëindigd, het voertuig en de LPG-technicus die de werkzaamheden heeft uitgevoerd, blijvend aanwezig in de keuringsruimte zijn. Als er in afwachting van de steekproef geen ruimte is om het voertuig in de keuringsruimte beschikbaar te houden dan is het toegestaan dat het voertuig geplaatst wordt in de onmiddellijke nabijheid van de keuringsruimte. Hierbij is in ieder geval niet toegestaan dat het voertuig zich buiten de keuringsplaats bevindt.
 
-4. Als ondanks alle genomen maatregelen een voertuig toch de keuringsruimte verlaat, voordat de steekproef kon worden uitgevoerd, dan meldt u dit direct telefonisch bij het ACN kantoor te Zwolle (tel.nr. 088 008 74 77) van de RDW en niet pas bij aankomst van de steekproefcontroleur. U geeft geen opnamekaart gasinstallatie af en wijst de klant erop dat de goedkeuring vervalt. Het nakomen van deze verplichtingen maakt de overtreding niet ongedaan.
+4. Als ondanks alle genomen maatregelen een voertuig toch de keuringsruimte verlaat, voordat de steekproef kon worden uitgevoerd, dan meldt u dit direct telefonisch bij het ACN kantoor te Zwolle (tel.nr. 088 008 74 77) van de RDW en niet pas bij aankomst van de steekproefcontroleur. U geeft geen opnamekaart gasinstallatie af en wijst de klant erop dat de goedkeuring vervalt. Het nakomen van deze verplichtingen maakt de overtreding niet ongedaan.
 
 5. U stelt de steekproefcontroleur in staat om binnen 15 minuten na aankomst met de uitvoering van het technische gedeelte van de steekproef te beginnen. Deze tijd is uitdrukkelijk niet bedoeld om de LPG-technicus van elders, buiten de keuringsruimte, te (laten) komen.
 
@@ -789,13 +763,13 @@ Er zijn geen voorbeelden van categorie II overtredingen.
 
 3. U heeft geen of onvoldoende medewerking verleend tijdens een steekproef. Hieronder wordt in ieder geval verstaan dat:
 
-- a). het voertuig niet aanwezig is;
+- a) het voertuig niet aanwezig is;
 
-- b). de LPG-technicus niet aanwezig is bij de steekproefcontrole;
+- b) de LPG-technicus niet aanwezig is bij de steekproefcontrole;
 
-- c). de vereiste apparatuur niet ter beschikking is gesteld;
+- c) de vereiste apparatuur niet ter beschikking is gesteld;
 
-- d). onbevoegd gebruik van het authenticatiemiddel.
+- d) onbevoegd gebruik van het authenticatiemiddel.
 
 4. U heeft gebruik gemaakt of onder uw verantwoording is gebruik gemaakt van niet-gecertificeerde apparatuur.
 
@@ -805,7 +779,7 @@ Er zijn geen voorbeelden van categorie II overtredingen.
 
 7. U heeft of onder uw verantwoording is een gasinstallatie in een voertuig gekeurd en afgemeld terwijl de minimaal vereiste hefhoogte van de hefinrichting niet wordt bereikt.
 
-**Stroomschema**
+Stroomschema
 
 ### Hoofdstuk 9. Erkenning boordcomputer taxi
 
@@ -821,13 +795,13 @@ Uitbreiding of wijziging van een erkenning is niet mogelijk indien een overtredi
 
 Voor het aanvragen en behouden van de erkenning Boordcomputer Taxi moet u blijvend beschikken over:
 
-- a). een actuele inschrijving in het handelsregister van de Kamer van Koophandel waaruit blijkt dat u bedrijfsmatig voertuigen inspecteert, keurt of onderhoudt;
+- a) een actuele inschrijving in het handelsregister van de Kamer van Koophandel waaruit blijkt dat u bedrijfsmatig voertuigen inspecteert, keurt of onderhoudt;
 
-- b). een werkplaats met een administratieve ruimte;
+- b) een werkplaats met een administratieve ruimte;
 
-- c). een werkplaats is verwarmd, overdekt, goed verlicht en goed af te sluiten. Een voertuig in de werkplaats moet van alle kanten goed bereikbaar zijn;
+- c) een werkplaats is verwarmd, overdekt, goed verlicht en goed af te sluiten. Een voertuig in de werkplaats moet van alle kanten goed bereikbaar zijn;
 
-- d). de juiste en in deugdelijke staat verkerende apparatuur, meetmiddelen en gereedschappen zoals vermeld in de wettelijke regelingen en Toelichting inrichting keuringsruimte, werkplaats en apparatuur.
+- d) de juiste en in deugdelijke staat verkerende apparatuur, meetmiddelen en gereedschappen zoals vermeld in de wettelijke regelingen en Toelichting inrichting keuringsruimte, werkplaats en apparatuur.
 
 ##### Artikel 9.3. Voorschriften
 
@@ -883,15 +857,15 @@ De RDW kent bij verlening van een toestemming een WGV-nummer toe. De erkenning b
 
 Voor het aanvragen en behouden van een WGV-erkenning moet u blijvend beschikken over:
 
-- a). een actuele inschrijving in het handelsregister van de Kamer van Koophandel waaruit blijkt dat u exploitant bent van een onderneming die bedrijfsmatig wijzigingen uitvoert aan de goedkeuring van voertuigen. In afwijking van [artikel 2.1, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0052068&hoofdstuk=2&artikel=2.1&z=2026-01-01&g=2026-01-01) van deze beleidsregel overlegt u een met het bewijs van inschrijving in het handelsregister gelijkwaardig document, afgegeven in het land van vestiging voor zover uw bedrijf is gevestigd in het buitenland;
+- a) een actuele inschrijving in het handelsregister van de Kamer van Koophandel waaruit blijkt dat u exploitant bent van een onderneming die bedrijfsmatig wijzigingen uitvoert aan de goedkeuring van voertuigen. In afwijking van [artikel 2.1, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0052068&hoofdstuk=2&artikel=2.1&z=2026-01-01&g=2026-01-01) van deze beleidsregel overlegt u een met het bewijs van inschrijving in het handelsregister gelijkwaardig document, afgegeven in het land van vestiging voor zover uw bedrijf is gevestigd in het buitenland;
 
-- b). een werkplaats die voldoet aan de eisen van wet- en regelgeving, waaronder een doelmatige inspectieput of hefinrichting, verlichting, verwarming en afsluitbaarheid;
+- b) een werkplaats die voldoet aan de eisen van wet- en regelgeving, waaronder een doelmatige inspectieput of hefinrichting, verlichting, verwarming en afsluitbaarheid;
 
-- c). de juiste en in deugdelijke staat verkerende apparatuur, meetmiddelen en gereedschappen zoals bepaald in wet- en regelgeving en beleid, inclusief waar nodig een geldig ijkcertificaat;
+- c) de juiste en in deugdelijke staat verkerende apparatuur, meetmiddelen en gereedschappen zoals bepaald in wet- en regelgeving en beleid, inclusief waar nodig een geldig ijkcertificaat;
 
-- d). ten minste één geldige toestemming tot seriematige wijziging.
+- d) ten minste één geldige toestemming tot seriematige wijziging.
 
-- e). een adequaat systeem van maatregelen en procedures voor een effectieve controle van de werkzaamheden.
+- e) een adequaat systeem van maatregelen en procedures voor een effectieve controle van de werkzaamheden.
 
 ##### Artikel 10.3. Voorschriften
 
@@ -949,15 +923,15 @@ Voor het aanvragen en behouden van een WGV-erkenning moet u blijvend beschikken 
 
 Voorbeelden hiervan zijn:
 
-- a). u heeft de ombouwverklaring volledig en tijdig verzonden, maar bent vergeten te ondertekenen;
+- a) u heeft de ombouwverklaring volledig en tijdig verzonden, maar bent vergeten te ondertekenen;
 
-- b). u heeft een typefout gemaakt in de voertuiggegevens (bijv. één cijfer verkeerd in chassisnummer), maar de gegevens zijn correct traceerbaar via overige gegevens;
+- b) u heeft een typefout gemaakt in de voertuiggegevens (bijv. één cijfer verkeerd in chassisnummer), maar de gegevens zijn correct traceerbaar via overige gegevens;
 
-- c). u heeft het dossier enkele dagen te laat gearchiveerd, terwijl de RDW de ombouwverklaring al heeft ontvangen;
+- c) u heeft het dossier enkele dagen te laat gearchiveerd, terwijl de RDW de ombouwverklaring al heeft ontvangen;
 
-- d). u heeft een oud formulier voor de ombouwverklaring gebruikt, terwijl alle verplichte gegevens correct zijn ingevuld;
+- d) u heeft een oud formulier voor de ombouwverklaring gebruikt, terwijl alle verplichte gegevens correct zijn ingevuld;
 
-- e). u heeft bij digitale archivering de verkeerde bestandsnaam of een verkeerd dossiernummer gebruikt, zonder dat inhoud ontbreekt.
+- e) u heeft bij digitale archivering de verkeerde bestandsnaam of een verkeerd dossiernummer gebruikt, zonder dat inhoud ontbreekt.
 
 ##### Artikel 10.8. Voorbeelden van categorie II overtredingen
 
@@ -1019,11 +993,11 @@ Voorbeelden hiervan zijn:
 
 Als erkenninghouder tenaamstellen voertuigen voor derden kunt u met uw landelijk dekkend netwerk van loketten, diensten voor derden aanbieden. Hierbij vervult u een loketfunctie voor burgers en bedrijven voor de volgende RDW diensten:
 
-- a). Het tenaamstellen van kentekens
+- a) Het tenaamstellen van kentekens
 
-- b). Het schorsen van voertuigverplichtingen
+- b) Het schorsen van voertuigverplichtingen
 
-- c). Het opheffen van de schorsing van voertuigverplichtingen
+- c) Het opheffen van de schorsing van voertuigverplichtingen
 
 U heeft de mogelijkheid om de registratie ten aanzien van voertuigverplichtingen te wijzigen. Deze erkenning brengt dus een grote verantwoordelijkheid met zich mee. Daarom houdt de RDW toezicht op uw erkenning.
 
@@ -1031,15 +1005,15 @@ U heeft de mogelijkheid om de registratie ten aanzien van voertuigverplichtingen
 
 Voor het aanvragen en behouden van de erkenning tenaamstelling moet:
 
-- a). u blijvend beschikken over een actuele inschrijving in het handelsregister van de Kamer van Koophandel;
+- a) u blijvend beschikken over een actuele inschrijving in het handelsregister van de Kamer van Koophandel;
 
-- b). u bij de aanvraag van de erkenning voorzien in een loket in ten minste 80% van de gemeenten met meer dan 10.000 inwoners. In gemeenten waar u geen loket heeft, voorziet u in een loket in de naastgelegen gemeente. Vanaf 2 jaar na verlening van de erkenning voorziet u in ten minste 90% van de gemeenten met meer dan 10.000 inwoners in een loket. Bij gemeenten met minder dan 10.000 inwoners, moet in de naastgelegen gemeente een loket zijn;
+- b) u bij de aanvraag van de erkenning voorzien in een loket in ten minste 80% van de gemeenten met meer dan 10.000 inwoners. In gemeenten waar u geen loket heeft, voorziet u in een loket in de naastgelegen gemeente. Vanaf 2 jaar na verlening van de erkenning voorziet u in ten minste 90% van de gemeenten met meer dan 10.000 inwoners in een loket. Bij gemeenten met minder dan 10.000 inwoners, moet in de naastgelegen gemeente een loket zijn;
 
-- c). u blijvend beschikken over een kwaliteitsmanagementsysteem. De wijze waarop het kwaliteitsmanagementsysteem is geïmplementeerd, wordt omschreven in een kwaliteitshandboek. In het kwaliteitsmanagementsysteem wordt in ieder geval invulling gegeven aan de gestelde voorschriften over de landelijke dekking, omgaan met gegevens, de gebruikersidentificatie, de opleiding van de personen die de transacties uitvoeren en de beveiligingsrichtlijnen;
+- c) u blijvend beschikken over een kwaliteitsmanagementsysteem. De wijze waarop het kwaliteitsmanagementsysteem is geïmplementeerd, wordt omschreven in een kwaliteitshandboek. In het kwaliteitsmanagementsysteem wordt in ieder geval invulling gegeven aan de gestelde voorschriften over de landelijke dekking, omgaan met gegevens, de gebruikersidentificatie, de opleiding van de personen die de transacties uitvoeren en de beveiligingsrichtlijnen;
 
-- d). u de goede toegankelijkheid van uw loketten garanderen. U heeft hiertoe aantoonbare voorzieningen of maatregelen getroffen waardoor uw loketten toegankelijk zijn voor mindervaliden;
+- d) u de goede toegankelijkheid van uw loketten garanderen. U heeft hiertoe aantoonbare voorzieningen of maatregelen getroffen waardoor uw loketten toegankelijk zijn voor mindervaliden;
 
-- e). u zorgt voor een zekerheidsstelling ter grootte van de (geschatte) omzet van de (te verlenen) tenaamstellingen en schorsingen over 2 maanden. Onder omzet wordt verstaan het totale bedrag dat u aan de RDW verschuldigd bent. Een voorbeeld van een zekerheidsstelling is een bankgarantie.
+- e) u zorgt voor een zekerheidsstelling ter grootte van de (geschatte) omzet van de (te verlenen) tenaamstellingen en schorsingen over 2 maanden. Onder omzet wordt verstaan het totale bedrag dat u aan de RDW verschuldigd bent. Een voorbeeld van een zekerheidsstelling is een bankgarantie.
 
 ##### Artikel 11.3. Voorschriften
 
@@ -1053,23 +1027,23 @@ Voor het aanvragen en behouden van de erkenning tenaamstelling moet:
 
 5. U draagt er zorg voor dat u op een uniforme en door de RDW voorgeschreven wijze aansluit en aangesloten blijft op de RDW ICT infrastructuur met geschikte datacommunicatieapparatuur, waarbij voldaan wordt aan de eisen en voorwaarden die de RDW daaraan stelt. Deze zijn dat:
 
-- a). u beschikt over een door de RDW verstrekt certificaat om een vertrouwde communicatie verbinding met de RDW tot stand te kunnen brengen;
+- a) u beschikt over een door de RDW verstrekt certificaat om een vertrouwde communicatie verbinding met de RDW tot stand te kunnen brengen;
 
-- b). u elke onder uw certificaat uitgevoerde transactie kunt herleiden tot de medewerker die de transactie volgens het systeem heeft uitgevoerd. Het vereiste beveiligingsniveau is daarbij minimaal gelijk aan het niveau van een gebruikersnaam en wachtwoord combinatie;
+- b) u elke onder uw certificaat uitgevoerde transactie kunt herleiden tot de medewerker die de transactie volgens het systeem heeft uitgevoerd. Het vereiste beveiligingsniveau is daarbij minimaal gelijk aan het niveau van een gebruikersnaam en wachtwoord combinatie;
 
-- c). u de gebruikersidentificatie (bijvoorbeeld medewerkers ID) meestuurt bij iedere transactie;
+- c) u de gebruikersidentificatie (bijvoorbeeld medewerkers ID) meestuurt bij iedere transactie;
 
-- d). u het loket waar de transactie wordt uitgevoerd als een uniek gegeven (locatie ID) meestuurt bij iedere transactie.
+- d) u het loket waar de transactie wordt uitgevoerd als een uniek gegeven (locatie ID) meestuurt bij iedere transactie.
 
 6. De gegevens en informatie die u in het kader van de uitvoering van de diensten van deze erkenning verwerkt dan wel waar u inzage in heeft, gebruikt u uitsluitend voor de verlening van de desbetreffende dienst. Dit geldt voor u als erkenninghouder, uw loketten en andere, onder uw verantwoordelijkheid vallende en door u ingezette partijen.
 
 7. U voldoet aan de volgende beveiligingseisen:
 
-- a). u zorgt ervoor dat de documenten met gevoelige informatie die zijn achtergebleven bij een loket, direct na de transactie worden vernietigd. Wanneer dit niet mogelijk is dan vernietigt u de documenten zo snel mogelijk na de transactie maar in elk geval dezelfde dag;
+- a) u zorgt ervoor dat de documenten met gevoelige informatie die zijn achtergebleven bij een loket, direct na de transactie worden vernietigd. Wanneer dit niet mogelijk is dan vernietigt u de documenten zo snel mogelijk na de transactie maar in elk geval dezelfde dag;
 
-- b). u beschikt over beveiligingsrichtlijnen voor medewerkers, waaronder instructies veilig gebruik applicaties, veilig gebruik wachtwoorden, omgang met RDW informatie en herkenning/melding van beveiligingsincidenten. Deze richtlijnen zijn aan de medewerkers van de loketten bekend gemaakt;
+- b) u beschikt over beveiligingsrichtlijnen voor medewerkers, waaronder instructies veilig gebruik applicaties, veilig gebruik wachtwoorden, omgang met RDW informatie en herkenning/melding van beveiligingsincidenten. Deze richtlijnen zijn aan de medewerkers van de loketten bekend gemaakt;
 
-- c). veiligheidsincidenten met betrekking tot de transacties meldt u onmiddellijk aan de RDW.
+- c) veiligheidsincidenten met betrekking tot de transacties meldt u onmiddellijk aan de RDW.
 
 8. U bent verplicht om de RDW leges afzonderlijk op de factuur voor de klant te vermelden. U mag voor het uitvoeren van de tenaamstellings- en schorsingshandelingen naast de leges die u verschuldigd bent aan de RDW, kosten in rekening brengen aan de klant tot het maximaal vastgestelde bedrag dat als zodanig is gepubliceerd in de [Regeling tarieven van de RDW](https://wetten.overheid.nl/jci1.3:c:BWBR0051875).
 
@@ -1079,7 +1053,7 @@ Voor het aanvragen en behouden van de erkenning tenaamstelling moet:
 
 11. Jaarlijks, binnen 2 maanden na afronding van het kalenderjaar, laat u een door u aangewezen registeraccountant (RA) een rapport verstrekken aan de RDW waarin staat aangegeven of u voldoet aan de eisen en voorschriften zoals vermeld in dit hoofdstuk.
 
-12. Het rapport van de accountant over het voorgaande kalenderjaar dient ieder jaar uiterlijk op 1 april door de RDW te zijn ontvangen.
+12. Het rapport van de accountant over het voorgaande kalenderjaar dient ieder jaar uiterlijk op 1 april door de RDW te zijn ontvangen.
 
 13. U bent verantwoordelijk voor de kwaliteit van de dienstverlening en draagt er zorg voor dat de medewerkers die de transacties verrichten aantoonbare kennis hebben op het gebied van documentherkenning en identiteitsvaststelling. Ter ondersteuning hierbij stelt de RDW een e-learning module aan u beschikbaar over documentherkenning en identiteitsvaststelling
 
@@ -1093,15 +1067,15 @@ Voor het aanvragen en behouden van de erkenning tenaamstelling moet:
 
 2. U stelt de relevante administratie binnen de door de RDW gestelde termijn ter beschikking aan de RDW. Dit houdt onder andere in dat:
 
-- a). u een door u aangewezen registeraccountant (RA) een rapport laat verstrekken aan de RDW waarin met voldoende toelichting staat aangegeven of u voldoet aan de criteria zoals vermeld onder dit hoofdstuk. Een steekproefomvang van minimaal 5% van de loketten, verspreid door heel Nederland en verschillend in omvang gedaan is. Deze omvang is bedoeld om met een redelijke mate van zekerheid vast te kunnen stellen of u voldoet aan de gestelde voorschriften.
+- a) u een door u aangewezen registeraccountant (RA) een rapport laat verstrekken aan de RDW waarin met voldoende toelichting staat aangegeven of u voldoet aan de criteria zoals vermeld onder dit hoofdstuk. Een steekproefomvang van minimaal 5% van de loketten, verspreid door heel Nederland en verschillend in omvang gedaan is. Deze omvang is bedoeld om met een redelijke mate van zekerheid vast te kunnen stellen of u voldoet aan de gestelde voorschriften.
 
-- b). criteria zoals de landelijke dekking in zijn geheel worden gecontroleerd. Als uit het rapport van de accountant blijkt dat u aan één of meerdere criteria niet voldoet, dan moet u binnen de door de RDW aangegeven termijn aantoonbaar maatregelen treffen om dit te herstellen, zodat u wel voldoet aan de gestelde eisen en voorschriften. Uiteindelijk kan het niet voldoen aan de eisen en voorschriften gevolgen hebben voor uw erkenning.
+- b) criteria zoals de landelijke dekking in zijn geheel worden gecontroleerd. Als uit het rapport van de accountant blijkt dat u aan één of meerdere criteria niet voldoet, dan moet u binnen de door de RDW aangegeven termijn aantoonbaar maatregelen treffen om dit te herstellen, zodat u wel voldoet aan de gestelde eisen en voorschriften. Uiteindelijk kan het niet voldoen aan de eisen en voorschriften gevolgen hebben voor uw erkenning.
 
-- c). u naar aanleiding van een schriftelijk verzoek van de RDW binnen één week na dagtekening van dat verzoek het loket aanspreekt waar een handeling is uitgevoerd die niet in lijn is met de afspraken. RDW ontvangt hiervan een terugkoppeling.
+- c) u naar aanleiding van een schriftelijk verzoek van de RDW binnen één week na dagtekening van dat verzoek het loket aanspreekt waar een handeling is uitgevoerd die niet in lijn is met de afspraken. RDW ontvangt hiervan een terugkoppeling.
 
-- d). u op verzoek van de RDW een actueel Excel bestand van loketten met minimaal kolommen met locatie ID, plaatsnaam, straatnaam met huisnummer en postcode kunt overleggen. De RDW kan hiermee een controle uitvoeren of u (nog) voldoet aan de landelijke dekkingseis.
+- d) u op verzoek van de RDW een actueel Excel bestand van loketten met minimaal kolommen met locatie ID, plaatsnaam, straatnaam met huisnummer en postcode kunt overleggen. De RDW kan hiermee een controle uitvoeren of u (nog) voldoet aan de landelijke dekkingseis.
 
-- e). u op verzoek van de RDW kunt aantonen dat een zekerheidsstelling ter grootte van de omzet over 2 maanden (te weten 1 facturerings- plus 1 betaaltermijn) aanwezig is.
+- e) u op verzoek van de RDW kunt aantonen dat een zekerheidsstelling ter grootte van de omzet over 2 maanden (te weten 1 facturerings- plus 1 betaaltermijn) aanwezig is.
 
 3. Als de RDW op basis van geconstateerde fouten u aangeeft direct passende maatregelen te nemen om het geconstateerde te herstellen dan wel herhaling te voorkomen dan dient u hier gehoor aan te geven. U bent verplicht om de genomen maatregelen op verzoek aan de RDW te tonen.
 
@@ -1139,6 +1113,8 @@ Voorbeelden van overtredingen zijn:
 
 - 13. Uit het rapport van de registeraccountant blijkt dat u aan één of meerdere criteria niet voldoet en u heeft niet binnen de door de RDW aangegeven termijn aantoonbaar maatregelen heeft getroffen zodat u wel voldoet aan de gestelde eisen en voorschriften.
 
+Stroomschema
+
 ### Hoofdstuk 12. Erkenning tenaamstellen voertuigen bedrijfsvoorraad of importeursvoorraad
 
 ##### Artikel 12.1. Algemeen
@@ -1151,13 +1127,13 @@ U controleert het legitimatiebewijs, stelt een machtiging of wilsverklaring op, 
 
 Voor de aanvraag en het behouden van de erkenning tenaamstellen voertuigen bedrijfsvoorraad of importeursvoorraad moet u blijvend beschikken over:
 
-- a). een actuele inschrijving in het handelsregister van de Kamer van Koophandel waaruit blijkt dat u handelsactiviteiten met betrekking tot voertuigen verricht;
+- a) een actuele inschrijving in het handelsregister van de Kamer van Koophandel waaruit blijkt dat u handelsactiviteiten met betrekking tot voertuigen verricht;
 
-- b). uw bedrijf is gevestigd in Nederland;
+- b) uw bedrijf is gevestigd in Nederland;
 
-- c). een goed afsluitbare voorziening op uw bedrijfsadres die voldoende bescherming biedt tegen inbraak, diefstal en brand en niet eenvoudig verplaatst kan worden voor het bewaren van de ondertekende wilsverklaringen en machtigingen. Dit mag ook een digitale opslagmogelijkheid zijn die dusdanig beveiligd is dat onbevoegden geen toegang hebben tot de digitale bewaarplaats, er een recente back-up beschikbaar is, de back-up beveiligd is zodat onbevoegden geen toegang hebben tot de gegevens, de wilsverklaring goed leesbaar is, de handtekening duidelijk herkenbaar is;
+- c) een goed afsluitbare voorziening op uw bedrijfsadres die voldoende bescherming biedt tegen inbraak, diefstal en brand en niet eenvoudig verplaatst kan worden voor het bewaren van de ondertekende wilsverklaringen en machtigingen. Dit mag ook een digitale opslagmogelijkheid zijn die dusdanig beveiligd is dat onbevoegden geen toegang hebben tot de digitale bewaarplaats, er een recente back-up beschikbaar is, de back-up beveiligd is zodat onbevoegden geen toegang hebben tot de gegevens, de wilsverklaring goed leesbaar is, de handtekening duidelijk herkenbaar is;
 
-- d). een printer die A-4 formaat kan printen. De printer gebruikt u voor het printen van de digitale machtigingen/wilsverklaringen, tenaamstellingsverslagen en vrijwaringsbewijzen.
+- d) een printer die A-4 formaat kan printen. De printer gebruikt u voor het printen van de digitale machtigingen/wilsverklaringen, tenaamstellingsverslagen en vrijwaringsbewijzen.
 
 ##### Artikel 12.3. Deelerkenning tenaamstellen voertuigen bedrijfsvoorraad of importeursvoorraad
 
@@ -1241,13 +1217,13 @@ De erkenning mag alleen vanaf een adres dat is gelegen in Nederland worden uitge
 
 Voor de aanvraag en het behouden van de erkenning Export moet u blijvend beschikken over:
 
-- a). een actuele inschrijving in het handelsregister van de Kamer van Koophandel (KvK) waaruit blijkt dat u de registratie export regelt.
+- a) een actuele inschrijving in het handelsregister van de Kamer van Koophandel (KvK) waaruit blijkt dat u de registratie export regelt.
 
-- b). een bedrijfsadres dat in Nederland is gelegen waar u klanten kunt ontvangen. Hier doet u de registratie van export en bewaart u uw administratie.
+- b) een bedrijfsadres dat in Nederland is gelegen waar u klanten kunt ontvangen. Hier doet u de registratie van export en bewaart u uw administratie.
 
-- c). een goedgekeurde kluis. De kluis is geschikt voor opslag van blanco kentekenbewijzen deel II (A-4 formaat) en voldoet aantoonbaar minimaal aan de Europese norm EN 14 450 Securitylevel 1.
+- c) een goedgekeurde kluis. De kluis is geschikt voor opslag van blanco kentekenbewijzen deel II (A-4 formaat) en voldoet aantoonbaar minimaal aan de Europese norm EN 14 450 Securitylevel 1.
 
-- d). een goed werkende printer waarmee u A4-formaat papier kan printen.
+- d) een goed werkende printer waarmee u A4-formaat papier kan printen.
 
 ##### Artikel 13.3. Deelerkenning Export
 
@@ -1361,21 +1337,21 @@ Gebruikers van het handelaarskentekenbewijs zijn in twee categorieën ingedeeld:
 
 - 1. Voor bedrijven die een handelaarskenteken bezitten maar die GEEN erkenning bedrijfsvoorraad, erkenning inschrijven zonder onderzoek of erkenning inschrijven met onderzoek hebben, geldt dat u heeft aangetoond dat u exploitant bent van een onderneming waarin reparaties, herstelwerkzaamheden of poetswerkzaamheden aan voertuigen kunnen worden uitgevoerd. U mag uw handelaarskentekenbewijs alleen gebruiken voor:
 
-- a). het halen en brengen van voertuigen voor herstel of poetsen;
+   - a) het halen en brengen van voertuigen voor herstel of poetsen;
 
-- b). het beoordelen of het herstel goed is uitgevoerd.
+   - b) het beoordelen of het herstel goed is uitgevoerd.
 
 - 2. Voor de bedrijven die een handelaarskenteken bezitten en die WEL een erkenning bedrijfsvoorraad, een erkenning inschrijven zonder onderzoek of een erkenning inschrijven met onderzoek hebben, geldt dat u het handelaarskenteken alleen mag gebruiken voor voertuigen uit uw bedrijfsvoorraad of importeursvoorraad. Dit betekent dat u het handelaarskentekenbewijs alleen mag gebruiken voor:
 
-- a). een proefrit ten behoeve van verkoop van het voertuig waarop het handelaarskenteken gevoerd wordt;
+   - a) een proefrit ten behoeve van verkoop van het voertuig waarop het handelaarskenteken gevoerd wordt;
 
-- b). het ophalen of brengen van een voertuig dat is bestemd voor verhuur of lease en dat in uw bedrijfsvoorraad is opgenomen;
+   - b) het ophalen of brengen van een voertuig dat is bestemd voor verhuur of lease en dat in uw bedrijfsvoorraad is opgenomen;
 
-- c). het ophalen van een voertuig in Nederland, België of Luxemburg dat u aantoonbaar heeft gekocht voor uw eigen bedrijfsvoorraad of importeursvoorraad;
+   - c) het ophalen van een voertuig in Nederland, België of Luxemburg dat u aantoonbaar heeft gekocht voor uw eigen bedrijfsvoorraad of importeursvoorraad;
 
-- d). het aantoonbaar afleveren van een voertuig uit uw bedrijfsvoorraad in Nederland, België of Luxemburg dat u aantoonbaar gaat verkopen;
+   - d) het aantoonbaar afleveren van een voertuig uit uw bedrijfsvoorraad in Nederland, België of Luxemburg dat u aantoonbaar gaat verkopen;
 
-- e). het aantoonbaar halen en brengen van een voertuig dat in uw bedrijfsvoorraad is of importeursvoorraad is opgenomen naar bijvoorbeeld de autospuiter, poetser of garage.
+   - e) het aantoonbaar halen en brengen van een voertuig dat in uw bedrijfsvoorraad is of importeursvoorraad is opgenomen naar bijvoorbeeld de autospuiter, poetser of garage.
 
 ##### Artikel 14.2. Deelerkenning Handelaarskenteken
 
@@ -1393,9 +1369,9 @@ Gebruikers van het handelaarskentekenbewijs zijn in twee categorieën ingedeeld:
 
 Voor de aanvraag en het behouden van de erkenning handelaarskenteken moet u blijvend beschikken over:
 
-- a). een actuele inschrijving in het handelsregister van de Kamer van Koophandel waaruit blijkt dat uw bedrijf in Nederland is gevestigd en u voertuigen bedrijfsmatig in- en verkoopt, verhuurt of in lease geeft aan anderen (als u ook een erkenning bedrijfsvoorraad, een erkenning inschrijven met onderzoek of een erkenning zonder onderzoek heeft) of waaruit blijkt dat u voertuigen repareert, hersteld of poetst in opdracht van iemand anders (als u geen erkenning bedrijfsvoorraad heeft);
+- a) een actuele inschrijving in het handelsregister van de Kamer van Koophandel waaruit blijkt dat uw bedrijf in Nederland is gevestigd en u voertuigen bedrijfsmatig in- en verkoopt, verhuurt of in lease geeft aan anderen (als u ook een erkenning bedrijfsvoorraad, een erkenning inschrijven met onderzoek of een erkenning zonder onderzoek heeft) of waaruit blijkt dat u voertuigen repareert, hersteld of poetst in opdracht van iemand anders (als u geen erkenning bedrijfsvoorraad heeft);
 
-- b). een goed afsluitbare voorziening op uw bedrijfsadres die voldoende bescherming biedt tegen inbraak, diefstal en brand en niet eenvoudig verplaatst kan worden voor het bewaren van uw handelaarskentekenbewijs en de bijbehorende kentekenplaten.
+- b) een goed afsluitbare voorziening op uw bedrijfsadres die voldoende bescherming biedt tegen inbraak, diefstal en brand en niet eenvoudig verplaatst kan worden voor het bewaren van uw handelaarskentekenbewijs en de bijbehorende kentekenplaten.
 
 Beschikt u niet over een erkenning bedrijfsvoorraad, een erkenning inschrijven met onderzoek of een erkenning inschrijven zonder onderzoek dan moet u naast de eisen die gesteld worden onder a en b, op dit bedrijfsadres ook een overdekte en af te sluiten ruimte hebben waar u onder alle weersomstandigheden de werkzaamheden waarvoor u het handelaarskenteken heeft, kunt uitvoeren.
 
@@ -1403,7 +1379,7 @@ Beschikt u niet over een erkenning bedrijfsvoorraad, een erkenning inschrijven m
 
 1. U gebruikt het handelaarskenteken uitsluitend voor het doel dat u aan de RDW heeft opgegeven.
 
-2. U heeft alleen handelaarskentekenplaten in bezit die voldoen aan de eisen die gesteld worden in de [bijlage bij de Regeling kentekens en kentekenplaten](onbekend).
+2. U heeft alleen handelaarskentekenplaten in bezit die voldoen aan de eisen die gesteld worden in de [bijlage bij de Regeling kentekens en kentekenplaten](https://wetten.overheid.nl/BWBR0009071).
 
 3. U heeft het handelaarskenteken voor motorvoertuigen verzekerd.
 
@@ -1499,9 +1475,9 @@ De erkenning bedrijfsvoorraad kan ook worden aangevraagd door de Domeinen Roeren
 
 Voor de aanvraag en het behouden van de erkenning bedrijfsvoorraad moet u blijvend beschikken over:
 
-- a). een actuele inschrijving in het handelsregister van de Kamer van Koophandel waaruit blijkt dat uw bedrijf in Nederland is gevestigd en u voertuigen in- en verkoopt of die bestemd zijn om te verhuren of leasen;
+- a) een actuele inschrijving in het handelsregister van de Kamer van Koophandel waaruit blijkt dat uw bedrijf in Nederland is gevestigd en u voertuigen in- en verkoopt of die bestemd zijn om te verhuren of leasen;
 
-- b). een locatie voor het stallen van uw bedrijfsvoorraadvoertuigen niet zijnde de openbare weg. Is deze locatie niet gelegen op uw bezoekadres dan overlegt u een koop- of huurovereenkomst waaruit blijkt dat u uw voertuigen daar kunt stallen.
+- b) een locatie voor het stallen van uw bedrijfsvoorraadvoertuigen niet zijnde de openbare weg. Is deze locatie niet gelegen op uw bezoekadres dan overlegt u een koop- of huurovereenkomst waaruit blijkt dat u uw voertuigen daar kunt stallen.
 
 Bent u een verzekeringsmaatschappij dan kunt u de erkenning bedrijfsvoorraad aanvragen om voertuigen die als gestolen in het Kentekenregister gemeld staan in uw bedrijfsvoorraad op te nemen om uw verzekerde schadeloos te stellen. Om de erkenning bedrijfsvoorraad aan te vragen en te behouden moet u blijvend beschikken over een geldige vergunning als bedoeld in [artikel 2:27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:27), [2.36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:36), of [2:40, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:40).
 
@@ -1617,11 +1593,11 @@ Met deze erkenning kunt u voertuigen die voorgoed buiten gebruik worden gesteld 
 
 Voor de aanvraag en het behouden van de erkenning demontage moet u blijvend beschikken over:
 
-- a). een actuele inschrijving in het handelsregister van de Kamer van Koophandel waaruit blijkt dat uw bedrijf is gevestigd in Nederland en u voertuigen inneemt of inkoopt die bestemd zijn om te demonteren;
+- a) een actuele inschrijving in het handelsregister van de Kamer van Koophandel waaruit blijkt dat uw bedrijf is gevestigd in Nederland en u voertuigen inneemt of inkoopt die bestemd zijn om te demonteren;
 
-- b). een omgevingsvergunning als bedoeld in [artikel 3.153](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.153) of [3.186 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.186); of
+- b) een omgevingsvergunning als bedoeld in [artikel 3.153](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.153) of [3.186 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.186); of
 
-- c). als er geen vergunning als bedoeld in onderdeel b vereist is, een bewijs waaruit blijkt dat de melding aan het Omgevingsloket als bedoeld in [artikel 4.574, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.574) is gedaan.
+- c) als er geen vergunning als bedoeld in onderdeel b vereist is, een bewijs waaruit blijkt dat de melding aan het Omgevingsloket als bedoeld in [artikel 4.574, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.574) is gedaan.
 
 ##### Artikel 16.3. Deelerkenning Demontage
 
@@ -1693,13 +1669,13 @@ Met deze erkenning kunt u snel inschrijvingen aanvragen voor nieuwe en ongebruik
 
 Voor de aanvraag en het behouden van de erkenning Inschrijven zonder onderzoek moet u blijvend beschikken over:
 
-- a). een actuele inschrijving in het handelsregister van de Kamer van Koophandel waaruit blijkt dat uw bedrijf in Nederland is gevestigd en u bedrijfsmatig aanvragen voor de inschrijving van voertuigen indient;
+- a) een actuele inschrijving in het handelsregister van de Kamer van Koophandel waaruit blijkt dat uw bedrijf in Nederland is gevestigd en u bedrijfsmatig aanvragen voor de inschrijving van voertuigen indient;
 
-- b). een afschrift van de aan u afgegeven geldige vergunning als bedoeld in [artikel 8 ‘Wet op de Belasting personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=8)’. Dit is echter alleen nodig als u de inschrijving wil aanvragen van BPM-plichtige voertuigen;
+- b) een afschrift van de aan u afgegeven geldige vergunning als bedoeld in [artikel 8 ‘Wet op de Belasting personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=8)’. Dit is echter alleen nodig als u de inschrijving wil aanvragen van BPM-plichtige voertuigen;
 
-- c). een afschrift van uw overeenkomst met Stichting Auto Recycling Nederland (ARN). Deze overeenkomst moet geldig zijn. Dit is echter alleen nodig voor personenauto’s en lichte bedrijfsauto’s;
+- c) een afschrift van uw overeenkomst met Stichting Auto Recycling Nederland (ARN). Deze overeenkomst moet geldig zijn. Dit is echter alleen nodig voor personenauto’s en lichte bedrijfsauto’s;
 
-- d). een locatie voor het stallen van uw importeursvoorraad niet zijnde de openbare weg. Is deze locatie niet gelegen op uw bezoekadres dan overlegt u een koop- of huurovereenkomst waaruit blijkt dat u uw voertuigen daar kunt stallen.
+- d) een locatie voor het stallen van uw importeursvoorraad niet zijnde de openbare weg. Is deze locatie niet gelegen op uw bezoekadres dan overlegt u een koop- of huurovereenkomst waaruit blijkt dat u uw voertuigen daar kunt stallen.
 
 ##### Artikel 17.3. Deelerkenning Inschrijven zonder onderzoek
 
@@ -1735,11 +1711,11 @@ Voor de aanvraag en het behouden van de erkenning Inschrijven zonder onderzoek m
 
 1. Naast de periodieke controlebezoeken, houdt de RDW toezicht door middel van administratieve bezoeken en steekproeven
 
-2. Bij een **administratieve controle** vraagt de RDW maximaal 10 CVO’s per maand bij u op, waarbij de omvang evenredig is naar het aantal aanvragen. Hiermee controleren wij de aanwezigheid en doen wij een controle tussen het kentekenregister en het (e)CVO. Als er onregelmatigheden worden aangetroffen dan kan een sanctie worden opgelegd. De RDW behoudt zich het recht voor om wanneer daar aanleiding toe is, bijvoorbeeld ingeval van een melding van een andere instantie, maandelijks meerdere (e)CVO’s op te vragen en/of meer dan 10 aanvragen per keer te controleren.
+2. Bij een *administratieve controle* vraagt de RDW maximaal 10 CVO’s per maand bij u op, waarbij de omvang evenredig is naar het aantal aanvragen. Hiermee controleren wij de aanwezigheid en doen wij een controle tussen het kentekenregister en het (e)CVO. Als er onregelmatigheden worden aangetroffen dan kan een sanctie worden opgelegd. De RDW behoudt zich het recht voor om wanneer daar aanleiding toe is, bijvoorbeeld ingeval van een melding van een andere instantie, maandelijks meerdere (e)CVO’s op te vragen en/of meer dan 10 aanvragen per keer te controleren.
 
-Sinds 1 januari 2016 vindt de inschrijving van een voertuig zonder afzonderlijk onderzoek plaats op basis van het (e)CVO. De RDW zal op basis van een digitaal aangeleverd CVO een voertuig inschrijven en dit digitale CVO met behulp van controleprocessen toetsen op juistheid en echtheid. In geval van twijfel kan de RDW ter controle alsnog het papieren CVO opvragen. Indien uit de controle afwijkingen in het CVO worden geconstateerd, is de aanvraag niet ingediend met het juiste CVO. Indien het digitale CVO niet bij de RDW aanwezig is, zullen alle gegevens van het CVO aan de RDW moeten worden opgegeven via de daarvoor bestemde applicatie. In deze situatie zal de RDW het CVO bij u opvragen om de aanwezigheid van het CVO en de juistheid van de aangeleverde gegevens te kunnen toetsen.
+Sinds 1 januari 2016 vindt de inschrijving van een voertuig zonder afzonderlijk onderzoek plaats op basis van het (e)CVO. De RDW zal op basis van een digitaal aangeleverd CVO een voertuig inschrijven en dit digitale CVO met behulp van controleprocessen toetsen op juistheid en echtheid. In geval van twijfel kan de RDW ter controle alsnog het papieren CVO opvragen. Indien uit de controle afwijkingen in het CVO worden geconstateerd, is de aanvraag niet ingediend met het juiste CVO. Indien het digitale CVO niet bij de RDW aanwezig is, zullen alle gegevens van het CVO aan de RDW moeten worden opgegeven via de daarvoor bestemde applicatie. In deze situatie zal de RDW het CVO bij u opvragen om de aanwezigheid van het CVO en de juistheid van de aangeleverde gegevens te kunnen toetsen.
 
-3. **Steekproeven** worden gehouden wanneer bij een administratieve controle één of meer onregelmatigheden worden aangetroffen. Hierop worden in de periode van enkele maanden 3 fysieke steekproeven gehouden. Een steekproef is als volgt ingericht. Na de aanvraag van een inschrijving ontvangt de aanvrager binnen 24 uur een terugmelding dat het voertuig in de steekproef is gevallen. Hierbij neemt een medewerker van de RDW telefonisch contact op met de aanvrager waarna deze aangeeft waar en op welk dagdeel het voertuig binnen vijf werkdagen kan worden gecontroleerd. De RDW kijkt intern of er een Toezichthouder Bedrijven beschikbaar is en neemt opnieuw telefonisch contact op met de aanvrager om aan te geven of de steekproef doorgang zal vinden. Eerst op dit moment telt de controle als steekproef. Vervolgens vindt de afgesproken fysieke controle plaats. De aanvrager is er voor verantwoordelijk dat het voertuig en het bijbehorende (e)CVO kunnen worden gecontroleerd.
+3. *Steekproeven* worden gehouden wanneer bij een administratieve controle één of meer onregelmatigheden worden aangetroffen. Hierop worden in de periode van enkele maanden 3 fysieke steekproeven gehouden. Een steekproef is als volgt ingericht. Na de aanvraag van een inschrijving ontvangt de aanvrager binnen 24 uur een terugmelding dat het voertuig in de steekproef is gevallen. Hierbij neemt een medewerker van de RDW telefonisch contact op met de aanvrager waarna deze aangeeft waar en op welk dagdeel het voertuig binnen vijf werkdagen kan worden gecontroleerd. De RDW kijkt intern of er een Toezichthouder Bedrijven beschikbaar is en neemt opnieuw telefonisch contact op met de aanvrager om aan te geven of de steekproef doorgang zal vinden. Eerst op dit moment telt de controle als steekproef. Vervolgens vindt de afgesproken fysieke controle plaats. De aanvrager is er voor verantwoordelijk dat het voertuig en het bijbehorende (e)CVO kunnen worden gecontroleerd.
 
 Bij de controle wordt tevens nagegaan of bij de aanvraag de juiste gegevens zijn verstrekt. De Toezichthouder Bedrijven kijkt aan de hand van het (e)CVO en de bij de aanvraag verschafte gegevens of het VIN, het typegoedkeuringsnummer en de extensie, merk, variant en uitvoering overeenkomen met het voertuig. Ook kijkt de Toezichthouder Bedrijven of de gegevens op het (e)CVO overeenkomen met de gegevens die bij de aanvraag zijn verstrekt.
 
@@ -1773,6 +1749,8 @@ Bij de controle wordt tevens nagegaan of bij de aanvraag de juiste gegevens zijn
 
 Er zijn geen voorbeelden van categorie III overtredingen.
 
+Stroomschema
+
 ### Hoofdstuk 18. Erkenning inschrijven voertuigen met onderzoek
 
 ##### Artikel 18.1. Algemeen
@@ -1783,11 +1761,11 @@ Met deze erkenning kunt u online inschrijvingen aanvragen van door de RDW te bep
 
 Voor de aanvraag en het behouden van de erkenning inschrijven met onderzoek moet u blijvend beschikken over:
 
-- a). een actuele inschrijving in het handelsregister van de Kamer van Koophandel waaruit blijkt dat uw bedrijf in Nederland is gevestigd en u bedrijfsmatig aanvragen voor de inschrijving van voertuigen indient;
+- a) een actuele inschrijving in het handelsregister van de Kamer van Koophandel waaruit blijkt dat uw bedrijf in Nederland is gevestigd en u bedrijfsmatig aanvragen voor de inschrijving van voertuigen indient;
 
-- b). een locatie voor het stallen van uw bedrijfsvoorraadvoertuigen niet zijnde de openbare weg. Is deze locatie niet gelegen op uw bezoekadres dan overlegt u een koop- of huurovereenkomst waaruit blijkt dat u uw voertuigen daar kunt stallen;
+- b) een locatie voor het stallen van uw bedrijfsvoorraadvoertuigen niet zijnde de openbare weg. Is deze locatie niet gelegen op uw bezoekadres dan overlegt u een koop- of huurovereenkomst waaruit blijkt dat u uw voertuigen daar kunt stallen;
 
-- c). een goed afsluitbare voorziening op uw bedrijfsadres die voldoende bescherming biedt tegen inbraak, diefstal en brand en niet eenvoudig verplaatst kan worden voor het bewaren van de buitenlandse kentekenbewijzen.
+- c) een goed afsluitbare voorziening op uw bedrijfsadres die voldoende bescherming biedt tegen inbraak, diefstal en brand en niet eenvoudig verplaatst kan worden voor het bewaren van de buitenlandse kentekenbewijzen.
 
 ##### Artikel 18.3. Deelerkenning Inschrijven met onderzoek
 
@@ -1805,17 +1783,17 @@ Voor de aanvraag en het behouden van de erkenning inschrijven met onderzoek moet
 
 1. U vraagt alleen een inschrijving aan voor de volgende voertuigcategorieën:
 
-- a). personenauto (M1);
+- a) personenauto (M1);
 
-- b). lichte bedrijfsauto (N1);
+- b) lichte bedrijfsauto (N1);
 
-- c). lichte aanhangwagen (O2);
+- c) lichte aanhangwagen (O2);
 
-- d). twee of driewieler (L1e-L7e).
+- d) twee of driewieler (L1e-L7e).
 
 2. Het voertuig moet een complete of voltooide Europese typegoedkeuring hebben en daarmee overeenkomen.
 
-3. De personen- of bedrijfsauto (M1 of N1) heeft een maximumconstructiesnelheid van meer dan 25 km per uur.
+3. De personen- of bedrijfsauto (M1 of N1) heeft een maximumconstructiesnelheid van meer dan 25 km per uur.
 
 4. Het voertuig heeft geen schade of herstelde schade.
 
@@ -1867,9 +1845,9 @@ Als erkenninghouder foliefabrikant kunt u folie voor Nederlandse kentekenplaten 
 
 Voor de aanvraag en het behouden van de erkenning foliefabrikant moet u blijvend beschikken over:
 
-- a). een actuele inschrijving in het handelsregister van KvK of in een gelijkwaardig buitenlands register in het land van vestiging, waaruit blijkt dat u exploitant bent van een productieplaats waar u folie vervaardigd. In afwijking van [artikel 2.1, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0052068&hoofdstuk=2&artikel=2.1&z=2026-01-01&g=2026-01-01) van deze beleidsregel overlegt u een met het bewijs van inschrijving in het handelsregister gelijkwaardig document, afgegeven in het land van vestiging voor zover uw bedrijf is gevestigd in het buitenland.
+- a) een actuele inschrijving in het handelsregister van KvK of in een gelijkwaardig buitenlands register in het land van vestiging, waaruit blijkt dat u exploitant bent van een productieplaats waar u folie vervaardigd. In afwijking van [artikel 2.1, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0052068&hoofdstuk=2&artikel=2.1&z=2026-01-01&g=2026-01-01) van deze beleidsregel overlegt u een met het bewijs van inschrijving in het handelsregister gelijkwaardig document, afgegeven in het land van vestiging voor zover uw bedrijf is gevestigd in het buitenland.
 
-- b). een goed afsluitbare ruimte, welke voldoende bescherming biedt om beschadiging, diefstal of achteruitgang van de folie te voorkomen.
+- b) een goed afsluitbare ruimte, welke voldoende bescherming biedt om beschadiging, diefstal of achteruitgang van de folie te voorkomen.
 
 ##### Artikel 19.3. Voorschriften
 
@@ -1919,11 +1897,11 @@ Als erkenninghouder lamineerder kunt u blanco-kentekenplaten fabriceren en lever
 
 Voor de aanvraag en het behouden van de erkenning lamineerder moet u blijvend beschikken over:
 
-- a). een actuele inschrijving in het handelsregister van KvK of in een gelijkwaardig buitenlands register in het land van vestiging, waaruit blijkt dat u exploitant bent van een productieplaats waar u blanco-kentekenplaten vervaardigd. In afwijking van [artikel 2.1, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0052068&hoofdstuk=2&artikel=2.1&z=2026-01-01&g=2026-01-01) van deze beleidsregel overlegt u een met het bewijs van inschrijving in het handelsregister gelijkwaardig document, afgegeven in het land van vestiging voor zover uw bedrijf is gevestigd in het buitenland;
+- a) een actuele inschrijving in het handelsregister van KvK of in een gelijkwaardig buitenlands register in het land van vestiging, waaruit blijkt dat u exploitant bent van een productieplaats waar u blanco-kentekenplaten vervaardigd. In afwijking van [artikel 2.1, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0052068&hoofdstuk=2&artikel=2.1&z=2026-01-01&g=2026-01-01) van deze beleidsregel overlegt u een met het bewijs van inschrijving in het handelsregister gelijkwaardig document, afgegeven in het land van vestiging voor zover uw bedrijf is gevestigd in het buitenland;
 
-- b). een overdekte, goed af te sluiten, verlichte en verwarmde ruimte voor de productie;
+- b) een overdekte, goed af te sluiten, verlichte en verwarmde ruimte voor de productie;
 
-- c). een goed afsluitbare ruimte op de productieplaats die voldoende bescherming biedt tegen inbraak, diefstal en brand waarin de grondstoffen, blanco-kentekenplaten, en afgekeurde blanco-kentekenplaten kunnen worden bewaard.
+- c) een goed afsluitbare ruimte op de productieplaats die voldoende bescherming biedt tegen inbraak, diefstal en brand waarin de grondstoffen, blanco-kentekenplaten, en afgekeurde blanco-kentekenplaten kunnen worden bewaard.
 
 ##### Artikel 20.3. Voorschriften
 
@@ -1959,15 +1937,15 @@ Voor de aanvraag en het behouden van de erkenning lamineerder moet u blijvend be
 
 16. U bewaart de volgende bescheiden gedurende twee jaar:
 
-- a). leveringsdocument folie van foliefabrikant;
+- a) leveringsdocument folie van foliefabrikant;
 
-- b). rapport van vernietiging afgekeurde folie;
+- b) rapport van vernietiging afgekeurde folie;
 
-- c). rapport van vernietiging afgekeurde blanco-kentekenplaten;
+- c) rapport van vernietiging afgekeurde blanco-kentekenplaten;
 
-- d). registratie blanco-kentekenplaten die door u zijn doorgeleverd;
+- d) registratie blanco-kentekenplaten die door u zijn doorgeleverd;
 
-- e). registratie blanco-kentekenplaten die u van een andere erkende lamineerder heeft ontvangen.
+- e) registratie blanco-kentekenplaten die u van een andere erkende lamineerder heeft ontvangen.
 
 ##### Artikel 20.4. Toezicht
 
@@ -2033,11 +2011,11 @@ Als erkenninghouder kentekenplaatfabrikant kunt u kentekenplaten fabriceren en a
 
 1. Voor de aanvraag en het behouden van de erkenning kentekenplaatfabrikant moet u blijvend beschikken over:
 
-- a). een actuele inschrijving in het handelsregister van KvK waaruit blijkt dat u exploitant bent van een productieplaats waar kentekenplaten kunnen worden vervaardigd;
+- a) een actuele inschrijving in het handelsregister van KvK waaruit blijkt dat u exploitant bent van een productieplaats waar kentekenplaten kunnen worden vervaardigd;
 
-- b). een overdekte, goed af te sluiten, verlichte en verwarmde ruimte en afsluitbare voorziening waarin de halffabricaten, kentekenplaten, en afgekeurde kentekenplaten kunnen worden bewaard, moet in de ruimte aanwezig zijn. Dit kan bijvoorbeeld een kast zijn die op slot kan. De afsluitbare voorziening is niet voorzien van wieltjes en is ook niet draagbaar;
+- b) een overdekte, goed af te sluiten, verlichte en verwarmde ruimte en afsluitbare voorziening waarin de halffabricaten, kentekenplaten, en afgekeurde kentekenplaten kunnen worden bewaard, moet in de ruimte aanwezig zijn. Dit kan bijvoorbeeld een kast zijn die op slot kan. De afsluitbare voorziening is niet voorzien van wieltjes en is ook niet draagbaar;
 
-- c). een matrijzenset, een pers, een apparaat voor het plaatsen van een keurmerk en een hotprintmachine of verfwals op de productieplaats. Deze zijn in goede staat van onderhoud en goed functionerend.
+- c) een matrijzenset, een pers, een apparaat voor het plaatsen van een keurmerk en een hotprintmachine of verfwals op de productieplaats. Deze zijn in goede staat van onderhoud en goed functionerend.
 
 ##### Artikel 21.3. Voorschriften
 
@@ -2237,11 +2215,11 @@ Als APK-keurmeester vervult u een belangrijke rol in het waarborgen van de verke
 
 De keuringsbevoegdheid APK- keurmeester bestaat uit drie categorieën:
 
-- •. voertuigen met een toegestane maximale massa meer dan 3.500 kg (APK 1);
+- • voertuigen met een toegestane maximale massa meer dan 3.500 kg (APK 1);
 
-- •. voertuigen met een toegestane maximale massa tot en met 3.500 kg (APK 2);
+- • voertuigen met een toegestane maximale massa tot en met 3.500 kg (APK 2);
 
-- •. Landbouwvoertuigen (APK 3).
+- • Landbouwvoertuigen (APK 3).
 
 ##### Artikel 23.2. Eisen en voorwaarden
 
@@ -2289,7 +2267,7 @@ De keuringsbevoegdheid APK- keurmeester bestaat uit drie categorieën:
 
 9. Gedurende de steekproef worden geen wijzigingen in of aan het voertuig aangebracht zonder toestemming van de steekproefcontroleur of tijdens een herkeuring in beroep zonder toestemming van de Toezichthouder Bedrijven van de RDW.
 
-10. Als ondanks alle genomen maatregelen een voertuig toch de keuringsruimte verlaat, voordat de steekproef kon worden uitgevoerd, dan meldt u dit direct telefonisch bij het ACN kantoor te Zwolle (tel.nr. 088 008 74 77) van de RDW en niet pas bij aankomst van de steekproefcontroleur. U geeft geen keuringsrapport af en wijst de klant erop dat de goedkeuring vervalt. Het nakomen van deze verplichtingen maakt de overtreding niet ongedaan.
+10. Als ondanks alle genomen maatregelen een voertuig toch de keuringsruimte verlaat, voordat de steekproef kon worden uitgevoerd, dan meldt u dit direct telefonisch bij het ACN kantoor te Zwolle (tel.nr. 088 008 74 77) van de RDW en niet pas bij aankomst van de steekproefcontroleur. U geeft geen keuringsrapport af en wijst de klant erop dat de goedkeuring vervalt. Het nakomen van deze verplichtingen maakt de overtreding niet ongedaan.
 
 11. Uw afwezigheid, het ontbreken van het voertuig of apparatuur, of het niet ondertekenen van het steekproefcontrolerapport wordt als overtreding aangemerkt.
 
@@ -2317,13 +2295,13 @@ De keuringsbevoegdheid APK- keurmeester bestaat uit drie categorieën:
 
 4. U heeft geen of onvoldoende medewerking aan het toezicht verleend, zoals onder andere dat:
 
-- a). het voertuig niet aanwezig was.
+- a) het voertuig niet aanwezig was.
 
-- b). u als verantwoordelijk keurmeester niet aanwezig was.
+- b) u als verantwoordelijk keurmeester niet aanwezig was.
 
-- c). u de vereiste apparatuur niet ter beschikking heeft gesteld;
+- c) u de vereiste apparatuur niet ter beschikking heeft gesteld;
 
-- d). u tijdens de steekproef zonder toestemming van de RDW-medewerker wijzigingen heeft aangebracht of aan laten brengen aan het voertuig.
+- d) u tijdens de steekproef zonder toestemming van de RDW-medewerker wijzigingen heeft aangebracht of aan laten brengen aan het voertuig.
 
 5. U heeft iemand anders onbevoegd gebruik laten maken van uw authenticatiemiddel
 
@@ -2337,21 +2315,21 @@ De keuringsbevoegdheid APK- keurmeester bestaat uit drie categorieën:
 
 1. Het ondermijnen van toezicht zoals:
 
-- –. het niet verlenen van toegang tot uw bedrijf;
+- – het niet verlenen van toegang tot uw bedrijf;
 
-- –. het weigeren om medewerking te verlenen;
+- – het weigeren om medewerking te verlenen;
 
-- –. verbaal en/of (fysiek) geweld of de dreiging daarmee;
+- – verbaal en/of (fysiek) geweld of de dreiging daarmee;
 
-- –. intimidatie in welke vorm dan ook.
+- – intimidatie in welke vorm dan ook.
 
 2. Fraude.
 
 Bij een overtreding van categorie IV wordt uw keuringsbevoegdheid ingetrokken voor 12 maanden, in combinatie met een sanctietoets.
 
-**Stroomschema**
+Stroomschema
 
-**Stroomschema**
+Stroomschema
 
 ### Hoofdstuk 24. Bevoegdheid tachograaf technicus
 
@@ -2401,13 +2379,13 @@ Als Tachograaftechnicus kunt u werkzaamheden verrichten voor installeren, contro
 
 14. U controleert of het nieuwe installatieplaatje voldoet aan de gestelde eisen en deze brengt u direct na de melding van goedkeuring op het voertuig aan, maar niet voordat u het oude installatieplaatje heeft verwijderd en door de RDW is meegedeeld dat:
 
-- a). de melding niet leidt tot een steekproefsgewijze controle; of
+- a) de melding niet leidt tot een steekproefsgewijze controle; of
 
-- b). de melding leidt tot een steekproefsgewijze controle, maar dat deze steekproef niet binnen 90 minuten na de melding wordt begonnen; of
+- b) de melding leidt tot een steekproefsgewijze controle, maar dat deze steekproef niet binnen 90 minuten na de melding wordt begonnen; of
 
-- c). leidt tot een steekproefsgewijze controle en deze controle heeft geleid tot goedkeuring van de desbetreffende werkzaamheden; of
+- c) leidt tot een steekproefsgewijze controle en deze controle heeft geleid tot goedkeuring van de desbetreffende werkzaamheden; of
 
-- d). zonder toestemming van de RDW-medewerker wijzigingen aanbrengen of aan laten brengen aan het voertuig.
+- d) zonder toestemming van de RDW-medewerker wijzigingen aanbrengen of aan laten brengen aan het voertuig.
 
 15. U vult indien nodig een zegelverbrekingsformulier of CoU in.
 
@@ -2431,7 +2409,7 @@ Als Tachograaftechnicus kunt u werkzaamheden verrichten voor installeren, contro
 
 9. Gedurende de steekproef worden geen wijzigingen in of aan het voertuig aangebracht zonder toestemming van de steekproefcontroleur of tijdens een second opinion zonder toestemming van de Toezichthouder Bedrijven van de RDW.
 
-10. Als ondanks alle genomen maatregelen een voertuig toch de keuringsruimte verlaat, voordat de steekproef kon worden uitgevoerd, dan meldt u dit direct telefonisch bij het ACN kantoor te Zwolle (tel.nr. 088 008 74 77) van de RDW en niet pas bij aankomst van de steekproefcontroleur. U geeft geen keuringsrapport af en wijst de klant erop dat de goedkeuring vervalt. Het nakomen van deze verplichtingen maakt de overtreding niet ongedaan.
+10. Als ondanks alle genomen maatregelen een voertuig toch de keuringsruimte verlaat, voordat de steekproef kon worden uitgevoerd, dan meldt u dit direct telefonisch bij het ACN kantoor te Zwolle (tel.nr. 088 008 74 77) van de RDW en niet pas bij aankomst van de steekproefcontroleur. U geeft geen keuringsrapport af en wijst de klant erop dat de goedkeuring vervalt. Het nakomen van deze verplichtingen maakt de overtreding niet ongedaan.
 
 11. Uw afwezigheid, het ontbreken van het voertuig of apparatuur, of het niet ondertekenen van het steekproefcontrolerapport wordt als overtreding aangemerkt.
 
@@ -2463,9 +2441,9 @@ Als Tachograaftechnicus kunt u werkzaamheden verrichten voor installeren, contro
 
 4. U heeft geen of onvoldoende medewerking verleend tijdens een steekproef. Hieronder wordt in ieder geval verstaan dat:
 
-- a). het voertuig is niet aanwezig; of
+- a) het voertuig is niet aanwezig; of
 
-- b). u niet aanwezig was bij de steekproefcontrole.
+- b) u niet aanwezig was bij de steekproefcontrole.
 
 5. U heeft het voertuig en/of de werkzaamheden niet afgemeld.
 
@@ -2491,21 +2469,21 @@ Als Tachograaftechnicus kunt u werkzaamheden verrichten voor installeren, contro
 
 3. Het ondermijnen van toezicht zoals:
 
-- –. het niet verlenen van toegang tot uw bedrijf;
+- – het niet verlenen van toegang tot uw bedrijf;
 
-- –. het weigeren om medewerking te verlenen;
+- – het weigeren om medewerking te verlenen;
 
-- –. verbaal en/of (fysiek) geweld of de dreiging daarmee;
+- – verbaal en/of (fysiek) geweld of de dreiging daarmee;
 
-- –. intimidatie in welke vorm dan ook.
+- – intimidatie in welke vorm dan ook.
 
 4. Fraude.
 
 Bij een overtreding van categorie IV wordt de keuringsbevoegdheid ingetrokken voor 12 maanden, in combinatie met een sanctietoets.
 
-**Stroomschema**
+Stroomschema
 
-**Stroomschema**
+Stroomschema
 
 ### Hoofdstuk 25. Bevoegdheid LPG-technicus
 
@@ -2549,7 +2527,7 @@ Als LPG-technicus kunt u LPG-gasinstallaties keuren in voertuigen die in Nederla
 
 3. Vanaf het moment dat een steekproef wordt aangekondigd totdat de steekproef is beëindigd bent u als LPG-technicus, het voertuig en de opnamekaart blijvend aanwezig in de keuringsruimte. Als er in afwachting van de steekproef geen ruimte is om het voertuig in de keuringsruimte beschikbaar te houden dan is het toegestaan dat het voertuig geplaatst wordt in de onmiddellijke nabijheid van de keuringsruimte. Hierbij is in ieder geval niet toegestaan dat het voertuig zich buiten de keuringsplaats bevindt.
 
-4. Als ondanks alle genomen maatregelen een voertuig toch de keuringsruimte verlaat, voordat de steekproef kon worden uitgevoerd, dan meldt u dit direct telefonisch bij het ACN kantoor te Zwolle (tel.nr. 088 008 74 77) van de RDW en niet pas bij aankomst van de steekproefcontroleur. U geeft geen opnamekaart gasinstallatie af en wijst de klant erop dat de goedkeuring vervalt. Het nakomen van deze verplichtingen maakt de overtreding niet ongedaan.
+4. Als ondanks alle genomen maatregelen een voertuig toch de keuringsruimte verlaat, voordat de steekproef kon worden uitgevoerd, dan meldt u dit direct telefonisch bij het ACN kantoor te Zwolle (tel.nr. 088 008 74 77) van de RDW en niet pas bij aankomst van de steekproefcontroleur. U geeft geen opnamekaart gasinstallatie af en wijst de klant erop dat de goedkeuring vervalt. Het nakomen van deze verplichtingen maakt de overtreding niet ongedaan.
 
 5. U stelt de steekproefcontroleur in staat om binnen 15 minuten na aankomst met de uitvoering van het technische gedeelte van de steekproef te beginnen. Deze periode van 15 minuten is uitdrukkelijk niet bedoeld om van elders, buiten de keuringsruimte, te komen.
 
@@ -2585,13 +2563,13 @@ Er zijn geen voorbeelden van categorie II overtredingen.
 
 1. Het ondermijnen van toezicht zoals:
 
-- −. het niet verlenen van toegang tot de keuringsruitme;
+- − het niet verlenen van toegang tot de keuringsruitme;
 
-- −. het weigeren om medewerking te verlenen;
+- − het weigeren om medewerking te verlenen;
 
-- −. verbaal en/of (fysiek) geweld of de dreiging daarmee;
+- − verbaal en/of (fysiek) geweld of de dreiging daarmee;
 
-- −. intimidatie in welke vorm dan ook.
+- − intimidatie in welke vorm dan ook.
 
 2. Fraude.
 
@@ -2601,11 +2579,11 @@ Bij een overtreding van categorie IV wordt de keuringsbevoegdheid ingetrokken vo
 
 ##### Artikel 26.1
 
-De [beleidsregel Toezichtbeleidsbrief erkenninghouders 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044636), kenmerk 2020, 64805, en alle bijbehorende gewijzigde bijlagen worden met ingang van 1 januari 2026 ingetrokken.
+De [beleidsregel Toezichtbeleidsbrief erkenninghouders 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044636), kenmerk 2020, 64805, en alle bijbehorende gewijzigde bijlagen worden met ingang van 1 januari 2026 ingetrokken.
 
 ##### Artikel 26.2
 
-Deze beleidsregel treedt in werking met ingang 1 januari 2026.
+Deze beleidsregel treedt in werking met ingang 1 januari 2026.
 
 ##### Artikel 26.3
 

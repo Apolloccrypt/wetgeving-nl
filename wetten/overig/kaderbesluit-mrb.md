@@ -1,56 +1,58 @@
 ---
 title: "Besluit van de Staatssecretaris van Financiën van 22 december 2025, nr. 2025-27599 over de motorrijtuigenbelasting (Kaderbesluit mrb)"
+citeertitel: "Kaderbesluit mrb"
 identifier: "BWBR0052084"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052084"
+categorie: "Belastingrecht"
 soort: "ministeriele-regeling"
-stam_id: "17708893"
-version_id: "31256512"
-internal_id: "C44696471"
-label_id: "17608404"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052084/2026-01-01/0"
-intitule_bron: "Stcrt.2025-40567"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-12-22"
-intitule_published: "2025-12-24"
-intitule_in_force: "2025-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-40567"
-original_signed_date: "2025-12-22"
-original_published_date: "2025-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-40567"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0052084&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0052084&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Kaderbesluit mrb"
-signed_date: "2025-12-22"
-entry_into_force: "2026-01-01"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0052084"
+opgehaald: 2026-09-10
 ---
+
 # Besluit van de Staatssecretaris van Financiën van 22 december 2025, nr. 2025-27599 over de motorrijtuigenbelasting (Kaderbesluit mrb)
 
-**De Staatssecretaris van Financiën,**
+*De Staatssecretaris van Financiën,*
 
-**Gelet op artikel 4.81 van de Algemene wet bestuursrecht en artikel 63 van de Algemene wet inzake rijksbelastingen en de Wet op de motorrijtuigenbelasting 1994.**
+*Gelet op artikel 4.81 van de Algemene wet bestuursrecht en artikel 63 van de Algemene wet inzake rijksbelastingen en de Wet op de motorrijtuigenbelasting 1994.*
 
-**Besluit:**
+*Besluit:*
 
 ### 1. Inleiding
 
 In dit besluit zijn beleidsregels opgenomen voor de motorrijtuigenbelasting.
 
-Dit besluit vervangt het [besluit van 18 oktober 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0050576), nr. 2024-563809 (Stcrt. 2024, 34330), dat hiermee wordt ingetrokken.
+Dit besluit vervangt het [besluit van 18 oktober 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0050576), nr. 2024-563809 (Stcrt. 2024, 34330), dat hiermee wordt ingetrokken.
 
 De wijzigingen betreffen:
 
+- – In de onderdelen 2.2., 2.3. en 2.3.1. wordt het kwarttarief voor kampeerauto’s vervangen door het halftarief.
+
+- – De verwijzing naar het wetsartikel uit de [Wet personenvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) in de onderdelen 3.6. en 3.6.2 is geactualiseerd.
+
+- – Onderdeel 4 is aangepast.
+
+- – Tot slot zijn er redactionele wijzigingen.
+
 ### 1.1. Gebruikte begrippen en afkortingen
+
+| wet: | Wet op de motorrijtuigenbelasting 1994 |
+| --- | --- |
+| uitvoeringsbesluit: | Uitvoeringsbesluit motorrijtuigenbelasting 1994 |
+| uitvoeringsregeling: | Uitvoeringsregeling motorrijtuigenbelasting 1994 |
+| Richtlijn: | De richtlijn 1999/62/EG van het Europees parlement en de Raad van de Europese Unie van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen |
+| B/CAP: | Belastingdienst/Centrale administratieve processen |
+| AWR: | Algemene wet inzake rijksbelastingen |
+| Wet OB: | Wet op de omzetbelasting 1968 |
+| Wet personenvervoer: | Wet personenvervoer 2000 |
+| Besluit personenvervoer: | Besluit personenvervoer 2000 |
+| Wp-vergunning: | een vergunning afgegeven op grond van de Wet personenvervoer 2000 |
+| Wegenverkeerswet: | Wegenverkeerswet 1994 |
+| mrb: | motorrijtuigenbelasting |
+| bpm: | belasting van personenauto’s en motorrijwielen |
+| ondernemer: | ondernemer in de zin van artikel 7 van de Wet op de omzetbelasting 1968 |
 
 ### 2. Bijzondere tarieven
 
@@ -58,47 +60,79 @@ De wijzigingen betreffen:
 
 Een maatschap kan ondernemer zijn. Omdat een maatschap geen rechtspersoon is, kan het kenteken van een (bestel)auto niet op naam van de maatschap staan. Volgens de ondernemersregeling wordt het lage bestelautotarief toegekend aan de kentekenhouder. Het is niet de bedoeling van de wetgever om maatschappen die ondernemer zijn uit te sluiten van de ondernemersregeling. Dit geldt eveneens voor de firmanten van een vennootschap onder firma.
 
-In verband hiermee keur ik met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) het volgende goed. Een maat of firmant kan op verzoek als ondernemer worden aangemerkt als een bestelauto die op naam van de maat of de firmant staat meer dan bijkomstig wordt gebruikt ten behoeve van de onderneming van de maatschap of firma waaraan hij deelneemt.
+Goedkeuring
+
+In verband hiermee keur ik met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) het volgende goed. Een maat of firmant kan op verzoek als ondernemer worden aangemerkt als een bestelauto die op naam van de maat of de firmant staat meer dan bijkomstig wordt gebruikt ten behoeve van de onderneming van de maatschap of firma waaraan hij deelneemt.
 
 Voor toepassing van de ondernemersregeling is de maat of firmant op wiens naam het kenteken is gesteld degene die de verplichtingen moet nakomen. Als niet langer aan de voorwaarden en beperkingen van de ondernemersregeling wordt voldaan, is de kentekenhouder het voor de auto van toepassing zijnde tarief verschuldigd.
 
 ### 2.2. Kermis- en circuswoonwagens
 
-Een woonwagen is een personenauto waarvan de binnenruimte vaste voorzieningen bevat voor bewoning. Het begrip woonwagen valt per 1 juli 2006 onder de definitie van kampeerauto ([artikel 23a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23a)). Dat wil zeggen dat de personenauto vaste voorzieningen bevat voor het koken, het slapen, het vervoer en het verblijf van personen. Voor deze motorrijtuigen kan het kampeerautotarief worden verleend. Dat geldt ook voor een tot woonwagen omgebouwde vrachtauto. Dus in beginsel ook voor een tot kermis- of circuswoonwagen omgebouwde vrachtauto.
+Een woonwagen is een personenauto waarvan de binnenruimte vaste voorzieningen bevat voor bewoning. Het begrip woonwagen valt per 1 juli 2006 onder de definitie van kampeerauto ([artikel 23a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23a)). Dat wil zeggen dat de personenauto vaste voorzieningen bevat voor het koken, het slapen, het vervoer en het verblijf van personen. Voor deze motorrijtuigen kan het kampeerautotarief worden verleend. Dat geldt ook voor een tot woonwagen omgebouwde vrachtauto. Dus in beginsel ook voor een tot kermis- of circuswoonwagen omgebouwde vrachtauto.
 
-Mede gelet op het bijzondere karakter van het kermis- en circusbedrijf, keur ik met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed, dat voor kermis- en circuswoonwagens de verschuldigde belasting de helft van het zogenoemde vrachtautotarief bedraagt. De houder van de auto moet daartoe een verzoek bij de B/CAP indienen.
+Goedkeuring
+
+Mede gelet op het bijzondere karakter van het kermis- en circusbedrijf, keur ik met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed, dat voor kermis- en circuswoonwagens de verschuldigde belasting de helft van het zogenoemde vrachtautotarief bedraagt. De houder van de auto moet daartoe een verzoek bij de B/CAP indienen.
+
+Voorwaarden:
 
 Voor deze goedkeuring gelden de volgende voorwaarden.
 
-Als het kenteken van het motorrijtuig niet op naam van de kermis- of circusexploitant is gesteld, moet de kermis- of circusexploitant door de B/CAP aangemerkt worden als ‘afwijkend houder’ ([artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=8)). De kermis- of circusexploitant moet daartoe een verzoek doen. Als de auto niet in eigendom is verkregen, kan niet aan de eis worden voldaan dat de auto behoort tot het ondernemingsvermogen van de houder. In plaats daarvan moet de kermis- of circusexploitant aantonen dat het motorrijtuig gehuurd of geleased is en wordt gebruikt in het kader van zijn kermis- of circusonderneming.
+- – Het betreft een motorrijtuig met een toegestane maximummassa van meer dan 3.500 kg;
+
+- – De in het kentekenregister opgenomen houder is kermis- of circusexploitant en ondernemer in de zin van de [Wet OB](https://wetten.overheid.nl/jci1.3:c:BWBR0002629);
+
+- – Het motorrijtuig behoort tot het ondernemingsvermogen van de houder als kermis- of circusexploitant;
+
+- – Het motorrijtuig wordt uitsluitend gebruikt in de uitoefening van het kermis- of circusbedrijf.
+
+Als het kenteken van het motorrijtuig niet op naam van de kermis- of circusexploitant is gesteld, moet de kermis- of circusexploitant door de B/CAP aangemerkt worden als ‘afwijkend houder’ ([artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=8)). De kermis- of circusexploitant moet daartoe een verzoek doen. Als de auto niet in eigendom is verkregen, kan niet aan de eis worden voldaan dat de auto behoort tot het ondernemingsvermogen van de houder. In plaats daarvan moet de kermis- of circusexploitant aantonen dat het motorrijtuig gehuurd of geleased is en wordt gebruikt in het kader van zijn kermis- of circusonderneming.
 
 Het bovenstaande betekent dat deze goedkeuring niet meer van toepassing is, als het motorrijtuig aan een ander wordt verkocht, de tenaamstelling in het kentekenregister wordt gewijzigd, of het huur-/leasecontract wordt beëindigd. Als de nieuwe houder eveneens een kermis- of circusexploitant is, moet een nieuw verzoek bij de B/CAP worden ingediend.
 
 ### 2.3. Kampeerauto’s
 
-Een kampeerauto is gedefinieerd als een personenauto waarvan de binnenruimte is ingericht voor het vervoer en verblijf van personen en is voorzien van een vaste kook- en slaapgelegenheid ([artikel 23a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23a)). De binnenruimte is de ruimte achter de in de achterste stand geplaatste zitplaatsen van de bestuurder en de bijrijder. Voor een kampeerauto geldt een zelfstandig tarief dat de helft is van het tarief van een personenauto. Dit tarief is van toepassing op een kampeerauto als wordt voldaan aan de voorwaarden genoemd in het uitvoeringsbesluit ([artikel 5aa van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=5aa)).
+Een kampeerauto is gedefinieerd als een personenauto waarvan de binnenruimte is ingericht voor het vervoer en verblijf van personen en is voorzien van een vaste kook- en slaapgelegenheid ([artikel 23a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23a)). De binnenruimte is de ruimte achter de in de achterste stand geplaatste zitplaatsen van de bestuurder en de bijrijder. Voor een kampeerauto geldt een zelfstandig tarief dat de helft is van het tarief van een personenauto. Dit tarief is van toepassing op een kampeerauto als wordt voldaan aan de voorwaarden genoemd in het uitvoeringsbesluit ([artikel 5aa van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=5aa)).
 
 ### 2.3.1. Autobus met kampeervoorziening
 
-Een autobus is gedefinieerd als een motorrijtuig op drie of meer wielen dat is ingericht voor personenvervoer en wel voor het vervoer van meer dan acht personen, de bestuurder daaronder niet begrepen ([artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=2), onderdeel **e**, van de wet).
+Een autobus is gedefinieerd als een motorrijtuig op drie of meer wielen dat is ingericht voor personenvervoer en wel voor het vervoer van meer dan acht personen, de bestuurder daaronder niet begrepen ([artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=2), onderdeel *e*, van de wet).
 
-Een motorrijtuig kan voldoen aan de inrichtingseisen die zijn gesteld aan een autobus. Hierop is het tarief voor een autobus van toepassing ([artikel 25c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=25c)). Een dergelijk motorrijtuig kan tevens voorzieningen bevatten als zijn voorgeschreven voor een kampeerauto ([artikel 23a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23a)).
+Een motorrijtuig kan voldoen aan de inrichtingseisen die zijn gesteld aan een autobus. Hierop is het tarief voor een autobus van toepassing ([artikel 25c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=25c)). Een dergelijk motorrijtuig kan tevens voorzieningen bevatten als zijn voorgeschreven voor een kampeerauto ([artikel 23a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23a)).
 
-In dit verband keur ik met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) onder de volgende voorwaarden goed, dat als een motorrijtuig voldoet aan de inrichtingseisen die zijn gesteld aan een autobus en de voorzieningen bevat als zijn voorgeschreven voor een kampeerauto, de helft van het tarief voor een autobus verschuldigd is.
+Goedkeuring
+
+In dit verband keur ik met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) onder de volgende voorwaarden goed, dat als een motorrijtuig voldoet aan de inrichtingseisen die zijn gesteld aan een autobus en de voorzieningen bevat als zijn voorgeschreven voor een kampeerauto, de helft van het tarief voor een autobus verschuldigd is.
+
+Voorwaarde:
 
 Voor deze goedkeuring geldt de voorwaarde dat het motorrijtuig op grond van de wegenverkeerswetgeving als autobus is goedgekeurd.
 
 ### 2.4. Combinatie trekker/oplegger
 
-Voor een motorrijtuig kan een bijzonder tarief of vrijstelling motorrijtuigenbelasting worden verleend ([artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=30) en [72 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72)). Onder motorrijtuig wordt verstaan een personenauto, bestelauto, motorrijwiel en/of vrachtauto.
+Voor een motorrijtuig kan een bijzonder tarief of vrijstelling motorrijtuigenbelasting worden verleend ([artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=30) en [72 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72)). Onder motorrijtuig wordt verstaan een personenauto, bestelauto, motorrijwiel en/of vrachtauto.
 
 Voor vrachtauto’s met een koppelinrichting voor het voortbewegen van een aanhangwagen of oplegger, wordt de verschuldigde motorrijtuigenbelasting berekend over de toegestane maximum massa van de vrachtauto en de hoogste toegestane maximum massa van de aanhangwagen of oplegger die aan de vrachtauto kan worden gekoppeld. Een oplegger of aanhangwagen wordt dus niet afzonderlijk in de heffing betrokken.
 
 Voor de toepassing van een bijzonder tarief of vrijstelling is vereist dat het motorrijtuig voor specifieke doeleinden moet worden gebruikt of een specifieke inrichting moet hebben. Een trekker zal hier in het algemeen niet aan voldoen. Dit zou betekenen dat vrachtautocombinaties bestaande uit een trekker met een specifieke oplegger niet voor een bijzonder tarief of vrijstelling in aanmerking kunnen komen.
 
-Ik keur met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) onder de volgende voorwaarden goed, dat voor de toepassing van het bijzondere tarief en de vrijstelling onder het begrip motorrijtuig, mede de combinatie van een trekker met een specifieke oplegger wordt verstaan.
+Goedkeuring
+
+Ik keur met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) onder de volgende voorwaarden goed, dat voor de toepassing van het bijzondere tarief en de vrijstelling onder het begrip motorrijtuig, mede de combinatie van een trekker met een specifieke oplegger wordt verstaan.
+
+Voorwaarden:
 
 Voor deze goedkeuring gelden de volgende voorwaarden:
+
+- – De combinatie van de trekker en oplegger(s) moet voldoen aan de voor het bijzondere tarief of de vrijstelling gestelde voorwaarden en beperkingen ([artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=30) en [72 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72));
+
+- – In het verzoek om toepassing van het bijzonder tarief of vrijstelling moeten de kentekens van de trekker met de bijbehorende oplegger(s) worden vermeld;
+
+- – De houder verklaart dat de trekker uitsluitend wordt gebruikt voor het voortbewegen van de in het verzoek vermelde oplegger(s). Het is toegestaan dat de trekker zonder oplegger wordt gebruikt om een oplegger op te halen;
+
+- – Het bijzondere tarief of de vrijstelling geldt alleen voor de in de beschikking geduide combinatie van trekker en oplegger(s);
+
+- – De trekker en de oplegger hebben dezelfde houder, dit moet blijken uit een gelijke tenaamstelling van de beide kentekenbewijzen ([artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=8) (afwijkend houderschap) kan hierbij van toepassing zijn).
 
 Deze goedkeuring geldt niet voor vrachtauto’s met een (willekeurige) aanhangwagen.
 
@@ -106,9 +140,13 @@ Deze goedkeuring geldt niet voor vrachtauto’s met een (willekeurige) aanhangwa
 
 ### 3.1. Motorrijtuigen ingericht en uitsluitend gebruikt voor aanleg en onderhoud van wegen
 
-Onder voorwaarden wordt vrijstelling van motorrijtuigenbelasting verleend voor motorrijtuigen die zijn ingericht en uitsluitend worden gebruikt voor de aanleg en het onderhoud van wegen ([artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72), eerste lid, onderdeel **j**, van de wet en [artikel 19 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=19)).
+Onder voorwaarden wordt vrijstelling van motorrijtuigenbelasting verleend voor motorrijtuigen die zijn ingericht en uitsluitend worden gebruikt voor de aanleg en het onderhoud van wegen ([artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72), eerste lid, onderdeel *j*, van de wet en [artikel 19 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=19)).
 
 De vrijstelling wordt verleend als de houder van het motorrijtuig:
+
+- – zich bezighoudt met de aanleg en het onderhoud van wegen; en
+
+- – een verklaring overlegt dat het motorrijtuig is ingericht en uitsluitend wordt gebruikt voor de aanleg en het onderhoud van wegen.
 
 ### 3.1.1. Inrichting
 
@@ -116,59 +154,107 @@ Een motorrijtuig voor de wegenbouw moet als zodanig zijn ingericht en uitsluiten
 
 Dit betekent dat:
 
+- – het motorrijtuig zelf één der machines is die de weg aanleggen en onderhouden; en
+
+- – het motorrijtuig rechtstreeks voor het verrichten van de eigenlijke wegenbouwwerkzaamheden moet dienen. Motorrijtuigen die ook andere mogelijkheden van gebruik hebben dan enkel aanleg en onderhoud van wegen, kunnen dus niet onder de vrijstelling worden begrepen. Ook al wordt dat motorrijtuig uitsluitend gebruikt voor de genoemde aanleg en onderhoud.
+
 De inrichting is leidend. De inrichting moet zodanig zijn dat deze alleen dient voor de aanleg en onderhoud van wegen.
 
-In afwijking van het bovenstaande keur ik met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) het volgende goed.
+Goedkeuring
+
+In afwijking van het bovenstaande keur ik met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) het volgende goed.
+
+- 1. Motorrijtuigen die zijn voorzien van een vaste inrichting die bestaat uit apparatuur om ter plaatse meetwerkzaamheden aan de weg te verrichten om te bepalen welk onderhoud van bestaande wegen noodzakelijk is, voldoen aan de voorwaarden met betrekking tot de inrichting voor toepassing van de vrijstelling.
+
+- 2. Apparatuur die buiten het motorrijtuig direct de weg aanlegt of bewerkt, wordt tot de vaste inrichtingen van het motorrijtuig gerekend, als:
+
+   - – deze apparatuur rechtstreeks verbonden is met een motorrijtuig dat is voorzien van een specifieke inrichting om (reinigings)materialen naar en van deze apparatuur te verplaatsen;
+
+   - – de bewerkingsfunctie buiten het motorrijtuig daarmee samen kan worden uitgevoerd;
+
+   - – zonder deze voorziening de apparatuur geen zelfstandige functie heeft.
 
 Voor toepassing van de vrijstelling geldt bij beide goedkeuringen dat het motorrijtuig uitsluitend voor de aanleg en het onderhoud van wegen wordt gebruikt.
 
 Dit betekent dat de volgende motorrijtuigen wel onder de vrijstelling vallen:
 
+- – een plateau- of ladderwagen uitsluitend gebruikt voor de aanleg en het onderhoud van openbare verlichting aan wegen;
+
+- – een asfalt/teer-sproeiwagen met vaste inrichting en uitsluitend gebruikt voor de aanleg en het onderhoud van wegen;
+
+- – een vrachtauto met een vaste inrichting bedoeld en uitsluitend gebruikt voor het verrichten van metingen rechtstreeks aan de weg;
+
+- – een straal-/zuigwagen met een vaste inrichting en uitsluitend gebruikt voor het verwijderen van onderdelen van wegen, zoals wegmarkeringen; en
+
+- – een asfaltzaagauto en een emulsiewagen.
+
 ### 3.1.2. Lenen, verhuren of leasen
 
 De houder van het motorrijtuig moet zich bezighouden met de aanleg en het onderhoud van wegen. Dit betekent dat als wegen worden aangelegd en onderhouden met geleende, gehuurde of geleasete motorrijtuigen, de houder van deze motorrijtuigen niet in aanmerking komt voor de vrijstelling.
 
-Ik keur met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) onder de volgende voorwaarden goed, dat de vrijstelling desondanks van toepassing is op geleende, gehuurde of geleasete motorrijtuigen.
+Goedkeuring
+
+Ik keur met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) onder de volgende voorwaarden goed, dat de vrijstelling desondanks van toepassing is op geleende, gehuurde of geleasete motorrijtuigen.
+
+Voorwaarden:
 
 Voor deze goedkeuring gelden de volgende voorwaarden:
+
+- – het motorrijtuig wordt feitelijk gebruikt door een bedrijf dat zich bezighoudt met de aanleg en het onderhoud van wegen ([artikel 19 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=19)); en
+
+- – de Inspecteur heeft de feitelijke gebruiker aangemerkt als zogenaamde afwijkend houder ([artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=8), eerste lid, onderdeel *a*, van de wet). Als er geen verzoek om afwijkend houderschap wordt gedaan of de Inspecteur een daartoe strekkend verzoek niet kan inwilligen, is de vrijstelling niet van toepassing en is de uitlener, verhuurder dan wel het leasebedrijf als houder de belasting verschuldigd.
 
 ### 3.2. Vuilnisauto’s
 
-Onder voorwaarden wordt vrijstelling van motorrijtuigenbelasting verleend voor motorrijtuigen die zijn ingericht en uitsluitend worden gebruikt als vuilniswagen ([artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72), eerste lid, onderdeel **h**, van de wet, [artikel 17 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=17)). De vrijstelling voor vuilniswagens is ook van toepassing op motorrijtuigen waarmee chemisch afval wordt opgehaald (chemokar) en motorrijtuigen die zijn ingericht en uitsluitend worden gebruikt voor het ledigen van ondergrondse huisvuilcontainers.
+Onder voorwaarden wordt vrijstelling van motorrijtuigenbelasting verleend voor motorrijtuigen die zijn ingericht en uitsluitend worden gebruikt als vuilniswagen ([artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72), eerste lid, onderdeel *h*, van de wet, [artikel 17 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=17)). De vrijstelling voor vuilniswagens is ook van toepassing op motorrijtuigen waarmee chemisch afval wordt opgehaald (chemokar) en motorrijtuigen die zijn ingericht en uitsluitend worden gebruikt voor het ledigen van ondergrondse huisvuilcontainers.
 
 ### 3.2.1. Verhuren of leasen van vuilnisauto’s
 
-Voor toepassing van de vrijstelling moet het motorrijtuig in het kentekenregister op naam van een openbaar lichaam staan ingeschreven, of op naam van een bedrijf dat zich bezighoudt met werkzaamheden waarbij deze motorrijtuigen worden ingezet ([artikel 17 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=17)).
+Voor toepassing van de vrijstelling moet het motorrijtuig in het kentekenregister op naam van een openbaar lichaam staan ingeschreven, of op naam van een bedrijf dat zich bezighoudt met werkzaamheden waarbij deze motorrijtuigen worden ingezet ([artikel 17 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=17)).
 
 Als een vuilniswagen wordt verhuurd of geleased door een bedrijf dat niet zelf die werkzaamheden uitvoert, wordt veelal niet aan die eis voldaan, omdat het kenteken op naam van het verhuur- dan wel leasebedrijf is gesteld.
 
-Ik keur met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) onder voorwaarden goed, dat de vrijstelling desondanks van toepassing is op verhuurde of geleasete vuilniswagens.
+Goedkeuring
+
+Ik keur met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) onder voorwaarden goed, dat de vrijstelling desondanks van toepassing is op verhuurde of geleasete vuilniswagens.
+
+Voorwaarden:
 
 Voor deze goedkeuring gelden de volgende voorwaarden:
 
+- – het motorrijtuig wordt feitelijk gebruikt door een openbaar lichaam of bedrijf zoals bedoeld in [artikel 17 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=17); en
+
+- – de Inspecteur heeft de feitelijke gebruiker aangemerkt als zogenoemde afwijkend houder ([artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=8), eerste lid, onderdeel *a*, van de wet). Als er geen verzoek om afwijkend houderschap wordt gedaan of de Inspecteur een daartoe strekkend verzoek niet kan inwilligen, is de vrijstelling niet van toepassing en is de verhuurder dan wel het leasebedrijf als houder de belasting verschuldigd.
+
 ### 3.3. Straatveegwagens
 
-Onder voorwaarden wordt vrijstelling van motorrijtuigenbelasting verleend voor motorrijtuigen die zijn ingericht en uitsluitend worden gebruikt als straatveegwagen ([artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72), eerste lid, onderdeel **h**, van de wet, [artikel 17 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=17)). De vrijstelling is alleen van toepassing op motorrijtuigen die uitsluitend worden gebruikt voor veegwerkzaamheden op wegen. De techniek heeft echter de methoden van schoonmaken van wegen veranderd.
+Onder voorwaarden wordt vrijstelling van motorrijtuigenbelasting verleend voor motorrijtuigen die zijn ingericht en uitsluitend worden gebruikt als straatveegwagen ([artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72), eerste lid, onderdeel *h*, van de wet, [artikel 17 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=17)). De vrijstelling is alleen van toepassing op motorrijtuigen die uitsluitend worden gebruikt voor veegwerkzaamheden op wegen. De techniek heeft echter de methoden van schoonmaken van wegen veranderd.
 
-Ik keur met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed, dat ook andere technieken van schoonmaken van wegen onder de vrijstelling kunnen vallen, bijvoorbeeld een zogenaamde zoab-cleaner.
+Goedkeuring
+
+Ik keur met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed, dat ook andere technieken van schoonmaken van wegen onder de vrijstelling kunnen vallen, bijvoorbeeld een zogenaamde zoab-cleaner.
 
 ### 3.4. Dierenambulances; vervoer van overleden dieren
 
-Er geldt een vrijstelling van motorrijtuigen die zijn ingericht en uitsluitend worden gebruikt voor het vervoer van zieke of gewonde dieren en die als zodanig uiterlijk herkenbaar zijn ([artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=71), eerste lid, onderdeel **c**, van de wet). De vrijstelling is dus niet gekoppeld aan het motorrijtuig zelf, maar aan de aard van het gebruik daarvan.
+Er geldt een vrijstelling van motorrijtuigen die zijn ingericht en uitsluitend worden gebruikt voor het vervoer van zieke of gewonde dieren en die als zodanig uiterlijk herkenbaar zijn ([artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=71), eerste lid, onderdeel *c*, van de wet). De vrijstelling is dus niet gekoppeld aan het motorrijtuig zelf, maar aan de aard van het gebruik daarvan.
 
-Ik keur met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed, dat de vrijstelling voor dierenambulances ook kan worden verleend of gecontinueerd als incidenteel bijvoorbeeld een overleden huisdier of een als gevolg van een aanrijding overleden (wild) dier wordt vervoerd. Ook is het incidenteel vervoeren van zwerfdieren toegestaan. De vrijstelling kan ook worden verleend of gecontinueerd als dierenambulances worden ingezet voor hulp van in nood geraakte dieren, zoals in geval van uitgebroken, beklemde of te water geraakte dieren.
+Goedkeuring
+
+Ik keur met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed, dat de vrijstelling voor dierenambulances ook kan worden verleend of gecontinueerd als incidenteel bijvoorbeeld een overleden huisdier of een als gevolg van een aanrijding overleden (wild) dier wordt vervoerd. Ook is het incidenteel vervoeren van zwerfdieren toegestaan. De vrijstelling kan ook worden verleend of gecontinueerd als dierenambulances worden ingezet voor hulp van in nood geraakte dieren, zoals in geval van uitgebroken, beklemde of te water geraakte dieren.
 
 ### 3.5. Motorrijtuigen voor het vervoer van zieken en gewonden
 
-In de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324) is een vrijstelling van motorrijtuigenbelasting opgenomen voor ambulances die aan bepaalde voorwaarden voldoen ([artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=71), eerste lid, onderdeel **a**, van de wet en [artikel 8 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=8)).
+In de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324) is een vrijstelling van motorrijtuigenbelasting opgenomen voor ambulances die aan bepaalde voorwaarden voldoen ([artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=71), eerste lid, onderdeel *a*, van de wet en [artikel 8 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=8)).
 
 ### 3.5.1. Andere motorrijtuigen in gebruik bij ambulancediensten
 
 De ambulancebranche maakt naast ambulances steeds meer gebruik van andersoortige motorrijtuigen voor het verlenen van spoedeisende medische hulpverlening. Het gaat dan om personenauto's of motoren waarmee medisch personeel naar de plaats van het ongeluk kan rijden of motorrijtuigen van waaruit spoedeisende medische hulpverlening kan worden gecoördineerd.
 
-Ik keur in dit verband met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) het volgende goed. Onder ambulances worden tevens begrepen andere motorrijtuigen, inclusief motorrijwielen, dan ambulances mits deze uitsluitend worden gebruikt voor het verlenen of coördineren van spoedeisende medische hulpverlening. Deze motorrijtuigen moeten daarbij aan de volgende eis voldoen:
+Goedkeuring
 
-Het motorrijtuig wordt gebruikt door de regionale Ambulancevoorziening, bedoeld in [artikel 4 van de Wet ambulancezorgvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&artikel=4) of door de noodhulpteams van het Rode Kruis die een convenant hebben afgesloten met de Geneeskundige Hulpverleningsorganisatie in de Regio (GHOR) voor het verlenen van hulp als genoemd in het model Grootschalige Geneeskundige Bijstand.
+Ik keur in dit verband met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) het volgende goed. Onder ambulances worden tevens begrepen andere motorrijtuigen, inclusief motorrijwielen, dan ambulances mits deze uitsluitend worden gebruikt voor het verlenen of coördineren van spoedeisende medische hulpverlening. Deze motorrijtuigen moeten daarbij aan de volgende eis voldoen:
+
+Het motorrijtuig wordt gebruikt door de regionale Ambulancevoorziening, bedoeld in [artikel 4 van de Wet ambulancezorgvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&artikel=4) of door de noodhulpteams van het Rode Kruis die een convenant hebben afgesloten met de Geneeskundige Hulpverleningsorganisatie in de Regio (GHOR) voor het verlenen van hulp als genoemd in het model Grootschalige Geneeskundige Bijstand.
 
 Voor motorrijtuigen die niet uitsluitend worden ingezet voor bovengenoemde taken maar overigens wel voldoen aan de genoemde eis, wordt geen vrijstelling van belasting verleend. Dit geldt ook voor multifunctioneel ingerichte motorrijtuigen die worden ingezet bij rampen en calamiteiten, zoals de zogenoemde geneeskundige (GNK)-voertuigen en commandovoertuigen, die dienen voor het vervoer van mensen en materieel en daarvoor speciaal zijn ingericht.
 
@@ -176,57 +262,111 @@ Voor motorrijtuigen die niet uitsluitend worden ingezet voor bovengenoemde taken
 
 Organisaties die zich richten op het voorkomen van de verdrinkingsdood zetten motorrijtuigen in voor het redden van drenkelingen. Deze motorrijtuigen kwalificeren niet als ambulances.
 
-Ik keur met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) en vooruitlopend op wijziging van de wetgeving goed dat onder ambulances tevens worden begrepen personenauto’s, bestelauto’s, motorrijwielen en vrachtauto’s die worden ingezet door organisaties, die zich richten op het voorkomen van de verdrinkingsdood, voor het redden van drenkelingen.
+Goedkeuring
+
+Ik keur met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) en vooruitlopend op wijziging van de wetgeving goed dat onder ambulances tevens worden begrepen personenauto’s, bestelauto’s, motorrijwielen en vrachtauto’s die worden ingezet door organisaties, die zich richten op het voorkomen van de verdrinkingsdood, voor het redden van drenkelingen.
+
+Voorwaarden:
 
 Ik verbind hieraan de volgende cumulatieve voorwaarden.
 
-De voorwaarden die in [artikel 27 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=27) worden gesteld aan het vrijstellingsverzoek zijn van overeenkomstige toepassing.
+- a. De personenauto, de bestelauto, het motorrijwiel of vrachtauto is ingericht voor de verzorging en/of het vervoer van drenkelingen en is voorzien van: Deze voorzieningen moeten permanent en gebruiksklaar op het motorrijtuig zijn aangebracht.
+
+   - – een duidelijk zichtbaar blauw zwaai- of knipperlicht;
+
+   - – een tweetonige of drietonige hoorn;
+
+   - – binnen de branche voorgeschreven striping;
+
+   - – een mobilofoon of vergelijkbare installatie;
+
+   - – voorzieningen voor de verzorging en/of het vervoer van drenkelingen.
+
+- b. De personenauto, de bestelauto, het motorrijwiel of vrachtauto is geregistreerd op naam van een organisatie die krachtens haar statuten ten doel heeft het voorkomen van de verdrinkingsdood en is aangewezen als hulpverleningsdienst als bedoeld in [artikel 1, Regeling optische en geluidssignalen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025357&artikel=1);
+
+- c. de personenauto, de bestelauto, het motorrijwiel of vrachtauto wordt nagenoeg uitsluitend gebruikt voor activiteiten gericht op het redden van drenkelingen.
+
+De voorwaarden die in [artikel 27 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=27) worden gesteld aan het vrijstellingsverzoek zijn van overeenkomstige toepassing.
 
 ### 3.6. Taxivervoer
 
-Voor personenauto’s die geheel of nagenoeg geheel (meer dan 90%) zijn bestemd voor taxivervoer of openbaar vervoer geldt een vrijstelling ([artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72), eerste lid, onderdeel **n**, van de wet). Met taxivervoer wordt bedoeld het vervoer dat als zodanig in de [Wet personenvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) wordt aangegeven: het personenvervoer met een personenauto tegen betaling, niet zijnde openbaar vervoer ([artikel 1, van de Wet personenvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=1)). Een van de voorwaarden voor de vrijstelling is een op grond van de Wet personenvervoer afgegeven vergunning.
+Voor personenauto’s die geheel of nagenoeg geheel (meer dan 90%) zijn bestemd voor taxivervoer of openbaar vervoer geldt een vrijstelling ([artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72), eerste lid, onderdeel *n*, van de wet). Met taxivervoer wordt bedoeld het vervoer dat als zodanig in de [Wet personenvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) wordt aangegeven: het personenvervoer met een personenauto tegen betaling, niet zijnde openbaar vervoer ([artikel 1, van de Wet personenvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=1)). Een van de voorwaarden voor de vrijstelling is een op grond van de Wet personenvervoer afgegeven vergunning.
 
 ### 3.6.1. Van Wp-vergunningplicht uitgezonderd vervoer
 
-Bepaalde vormen van vervoer van personen die overeenkomsten vertonen met taxivervoer zijn uitgezonderd van de Wp-vergunningplicht ([artikel 2, van het Besluit personenvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=2)). Het gaat dan bijvoorbeeld om werknemersvervoer, vervoer door onderwijsinstellingen ten behoeve van hun leerlingen, vervoer door tehuizen, verpleeginrichtingen e.d. ten behoeve van hun vaste bewoners en huisartsenvervoer. In beginsel komt een personenauto waarmee dit soort vervoer, waarvoor de vergunningplicht niet geldt, wordt verricht niet voor de vrijstelling in aanmerking. Wanneer echter dit soort vervoer wordt verricht met een auto waarvoor op grond van de [Wet personenvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) een vergunning is afgegeven en de bestuurder (tevens) in dienst is van de Wp-vergunninghouder, staat dit vervoer de vrijstelling niet in de weg, mits ook aan de andere voorwaarden op grond van [artikel 23 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=23) is voldaan.
+Bepaalde vormen van vervoer van personen die overeenkomsten vertonen met taxivervoer zijn uitgezonderd van de Wp-vergunningplicht ([artikel 2, van het Besluit personenvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=2)). Het gaat dan bijvoorbeeld om werknemersvervoer, vervoer door onderwijsinstellingen ten behoeve van hun leerlingen, vervoer door tehuizen, verpleeginrichtingen e.d. ten behoeve van hun vaste bewoners en huisartsenvervoer. In beginsel komt een personenauto waarmee dit soort vervoer, waarvoor de vergunningplicht niet geldt, wordt verricht niet voor de vrijstelling in aanmerking. Wanneer echter dit soort vervoer wordt verricht met een auto waarvoor op grond van de [Wet personenvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) een vergunning is afgegeven en de bestuurder (tevens) in dienst is van de Wp-vergunninghouder, staat dit vervoer de vrijstelling niet in de weg, mits ook aan de andere voorwaarden op grond van [artikel 23 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=23) is voldaan.
 
 ### 3.6.2. Vrijwilligersvervoersprojecten
 
-De [Wet personenvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) is niet van toepassing op vervoer van personen per auto, anders dan openbaar vervoer, indien de som van de betalingen voor dat vervoer de kosten van de auto en eventuele bijkomende kosten voor dat vervoer niet te boven gaat tenzij het vervoer wordt verricht in de uitoefening van een beroep of bedrijf ([art. 2, lid 5, Wet Personenvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=2)). Personenauto’s die bijv. worden ingezet voor vrijwilligersvervoer (bijv. buurtbussen voor ouderen) en waarvoor van de klant slechts een kleine bijdrage wordt gevraagd hoeven op grond van de Wet personenvervoer niet te voldoen aan de vergunningplicht. Omdat er geen vergunningplicht is, ontbreekt er voor instellingen die met een of meer personenauto’s dit soort vervoer (tegen betaling) verrichten het recht op vrijstelling van motorrijtuigenbelasting.
+De [Wet personenvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) is niet van toepassing op vervoer van personen per auto, anders dan openbaar vervoer, indien de som van de betalingen voor dat vervoer de kosten van de auto en eventuele bijkomende kosten voor dat vervoer niet te boven gaat tenzij het vervoer wordt verricht in de uitoefening van een beroep of bedrijf ([art. 2, lid 5, Wet Personenvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=2)). Personenauto’s die bijv. worden ingezet voor vrijwilligersvervoer (bijv. buurtbussen voor ouderen) en waarvoor van de klant slechts een kleine bijdrage wordt gevraagd hoeven op grond van de Wet personenvervoer niet te voldoen aan de vergunningplicht. Omdat er geen vergunningplicht is, ontbreekt er voor instellingen die met een of meer personenauto’s dit soort vervoer (tegen betaling) verrichten het recht op vrijstelling van motorrijtuigenbelasting.
 
-Ik keur met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed, dat een dergelijke instelling op verzoek toch voor vrijstelling van de motorrijtuigenbelasting in aanmerking komt. Ik stel hierbij de volgende aanvullende voorwaarden.
+Goedkeuring
+
+Ik keur met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed, dat een dergelijke instelling op verzoek toch voor vrijstelling van de motorrijtuigenbelasting in aanmerking komt. Ik stel hierbij de volgende aanvullende voorwaarden.
+
+- 1. In plaats van de vereiste vergunning c.q. het vergunningsbewijs zoals bedoeld in de [Wet personenvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0011470), wordt een schriftelijke verklaring van de instelling overgelegd. In deze verklaring is het volgende opgenomen:
+
+   - a. het vervoer kan als taxivervoer als bedoeld in de [Wet personenvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) worden aangemerkt ([artikel 1 van de Wet personenvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=1));
+
+   - b. het vervoer wordt verricht door vrijwilligers, die daarvoor geen vergoeding ontvangen die als loon in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) kan worden aangemerkt.
+
+- 2. De instelling voert een administratie waaruit op eenvoudige wijze de kosten en opbrengsten van dat vervoer kunnen worden opgemaakt.
+
+- 3. De instelling die dat vervoer verricht, is zowel rechtspersoon als ondernemer in de zin van de [Wet OB](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) en is als zodanig bekend bij de Belastingdienst.
+
+- 4. Vóórdat met de auto de weg wordt gebruikt, is de instelling voor die auto in het bezit van een beschikking van de inspecteur waarmee de vrijstelling wordt verleend. De inspecteur verleent deze beschikking per auto en voor een kalenderjaar of zoveel korter als de instelling in dat jaar houder is. Om de vrijstelling te verlengen moet de instelling aan de inspecteur schriftelijk verklaren dat de betreffende auto nog voor de vrijstelling in aanmerking komt.
+
+- 5. De instelling voldoet de belasting op aangifte als het vervoer niet (meer) voldoet aan het hiervoor onder de onderdelen 1a en 1b gestelde, of op andere gronden niet meer in aanmerking voor vrijstelling komt.
 
 ### 3.7. Oldtimers; museumbussen
 
-Er geldt een vrijstelling voor autobussen die 40 jaar of ouder zijn. Daarnaast is voor autobussen met een datum eerste toelating van vóór 1 januari 1988, maar die nog geen 40 jaar oud zijn een overgangsregeling van toepassing. Onder voorwaarden is dan een kwart van het gewone tarief verschuldigd met een maximum genoemd in [artikel 84a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=84a).
+Er geldt een vrijstelling voor autobussen die 40 jaar of ouder zijn. Daarnaast is voor autobussen met een datum eerste toelating van vóór 1 januari 1988, maar die nog geen 40 jaar oud zijn een overgangsregeling van toepassing. Onder voorwaarden is dan een kwart van het gewone tarief verschuldigd met een maximum genoemd in [artikel 84a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=84a).
 
-Voor autobussen geldt, zowel voor de vrijstelling van 40 jaar en ouder als voor de groep die in aanmerking komt voor de overgangsregeling, de voorwaarde, dat het motorrijtuig niet bedrijfsmatig wordt gebruikt ([artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72), eerste lid, aanhef en onderdeel **b**, en [artikel 84a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=84a), derde lid, onderdeel **d**, van de wet).
+Voor autobussen geldt, zowel voor de vrijstelling van 40 jaar en ouder als voor de groep die in aanmerking komt voor de overgangsregeling, de voorwaarde, dat het motorrijtuig niet bedrijfsmatig wordt gebruikt ([artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72), eerste lid, aanhef en onderdeel *b*, en [artikel 84a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=84a), derde lid, onderdeel *d*, van de wet).
 
-Ik keur met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) onder de volgende cumulatieve voorwaarden goed, dat de vrijstelling en de overgangsregeling voor oldtimers mede wordt toegepast wanneer een autobus uit een museum als onderdeel van een verzameling wordt verhuurd.
+Goedkeuring
+
+Ik keur met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) onder de volgende cumulatieve voorwaarden goed, dat de vrijstelling en de overgangsregeling voor oldtimers mede wordt toegepast wanneer een autobus uit een museum als onderdeel van een verzameling wordt verhuurd.
+
+Voorwaarden:
 
 Voor deze goedkeuring gelden de volgende voorwaarden:
 
+- 1. het incidenteel vervoer van personen tegen betaling voldoet aan de beperkingen zoals genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=2), onderdeel *g*, van het Besluit personenvervoer;
+
+- 2. de opbrengst komt ten goede aan de instandhouding van de verzameling; en
+
+- 3. wanneer de overgangsregeling van toepassing is mag met de autobus geen gebruik van de weg worden gemaakt in de maanden december, januari en februari.
+
 Het incidenteel vervoeren van personen tegen betaling moet blijken uit de op grond van het [Besluit personenvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0011982) afgegeven vergunning en de administratie van de houder. De daarin genoemde beperking behelst dat het vervoer met vervoermiddelen die in gebruik zijn als onderdeel van een historische verzameling, niet commercieel van aard is dan wel een geringe weerslag heeft op de vervoersmarkt. De aanwending van de opbrengst moet blijken uit de administratie van de houder.
 
-Het museum moet vooraf een verzoek om vrijstelling indienen bij de inspecteur ([artikel 27 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=27)). Bij het verzoek moet een afschrift worden overgelegd van de notariële stichtings- c.q. verenigingsakte met de statuten, waaruit de doelstelling blijkt.
+Het museum moet vooraf een verzoek om vrijstelling indienen bij de inspecteur ([artikel 27 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=27)). Bij het verzoek moet een afschrift worden overgelegd van de notariële stichtings- c.q. verenigingsakte met de statuten, waaruit de doelstelling blijkt.
 
 ### 3.8. Motorrijtuigen voor het vervoer van een stoffelijk overschot
 
-In de wet is een vrijstelling van mrb opgenomen voor motorrijtuigen die zijn ingericht en uitsluitend worden gebruikt voor het vervoer van een stoffelijk overschot ([artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=71), eerste lid, onderdeel **b**, van de wet en [artikel 9 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=9)). In de praktijk doet zich incidenteel de situatie voor dat de lijkauto voor andere binnen de uitvaartbranche voorkomende doeleinden dan het vervoer van een stoffelijk overschot wordt gebruikt. Bijvoorbeeld als de uitvaartondernemer een stoffelijk overschot van een ziekenhuis naar een rouwcentrum brengt en vervolgens op de terugweg langs de woning rijdt om een uitvaart te regelen.
+In de wet is een vrijstelling van mrb opgenomen voor motorrijtuigen die zijn ingericht en uitsluitend worden gebruikt voor het vervoer van een stoffelijk overschot ([artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=71), eerste lid, onderdeel *b*, van de wet en [artikel 9 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=9)). In de praktijk doet zich incidenteel de situatie voor dat de lijkauto voor andere binnen de uitvaartbranche voorkomende doeleinden dan het vervoer van een stoffelijk overschot wordt gebruikt. Bijvoorbeeld als de uitvaartondernemer een stoffelijk overschot van een ziekenhuis naar een rouwcentrum brengt en vervolgens op de terugweg langs de woning rijdt om een uitvaart te regelen.
 
-Ik keur met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed dat de vrijstelling ook van toepassing is als de lijkauto incidenteel wordt gebruikt voor andere doeleinden in het kader van de uitvaartonderneming.
+Goedkeuring
+
+Ik keur met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed dat de vrijstelling ook van toepassing is als de lijkauto incidenteel wordt gebruikt voor andere doeleinden in het kader van de uitvaartonderneming.
 
 ### 3.9. Transito- en exportkenteken
 
-Het transitokenteken is een kenteken dat maximaal 14 dagen geldig is en biedt de oplossing voor het tijdelijke vervoer over de weg van ongekentekende of in het buitenland gekentekende motorrijtuigen. Met dit kenteken kunnen kentekenplichtige motorrijtuigen legaal over de weg door Nederland gereden worden.
+Transitokenteken
 
-Nadat een motorrijtuig bij de RDW is aangemeld voor export, wordt deze uit het Nederlands kentekenregister geschreven en is deze niet langer tenaamgesteld. Vanaf dat moment mag gedurende 14 dagen met gebruikmaking van een exportkenteken over de openbare weg worden gereden om het motorrijtuig over te brengen naar het buitenland.
+Het transitokenteken is een kenteken dat maximaal 14 dagen geldig is en biedt de oplossing voor het tijdelijke vervoer over de weg van ongekentekende of in het buitenland gekentekende motorrijtuigen. Met dit kenteken kunnen kentekenplichtige motorrijtuigen legaal over de weg door Nederland gereden worden.
 
-Ik keur met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed, dat van deze tijdelijke kentekens geen motorrijtuigenbelasting wordt geheven.
+Exportkenteken
+
+Nadat een motorrijtuig bij de RDW is aangemeld voor export, wordt deze uit het Nederlands kentekenregister geschreven en is deze niet langer tenaamgesteld. Vanaf dat moment mag gedurende 14 dagen met gebruikmaking van een exportkenteken over de openbare weg worden gereden om het motorrijtuig over te brengen naar het buitenland.
+
+Goedkeuring
+
+Ik keur met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed, dat van deze tijdelijke kentekens geen motorrijtuigenbelasting wordt geheven.
 
 ### 3.10. In het buitenland gekentekend motorrijtuig
 
-Het [uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311) kent een aantal vrijstellingsregelingen voor het gebruik van een motorrijtuig met buitenlands kenteken door een Nederlands ingezetene. De vrijstellingen van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=25) (buitenlandse werkgever) en [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=26) (buitenlands bedrijf) worden bij beschikking verleend en zijn persoons- en motorrijtuiggebonden. Een dergelijke beschikking is niet verplicht maar geeft belanghebbende zekerheid vooraf.
+Het [uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311) kent een aantal vrijstellingsregelingen voor het gebruik van een motorrijtuig met buitenlands kenteken door een Nederlands ingezetene. De vrijstellingen van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=25) (buitenlandse werkgever) en [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=26) (buitenlands bedrijf) worden bij beschikking verleend en zijn persoons- en motorrijtuiggebonden. Een dergelijke beschikking is niet verplicht maar geeft belanghebbende zekerheid vooraf.
 
 Als de omstandigheden waarvoor de vrijstelling is verleend wijzigen, is de beschikking niet langer geldig. Dergelijke wijzigingen moeten worden doorgegeven aan de inspecteur, wat ook in de bijlage bij de beschikking staat vermeld. Het kan bijvoorbeeld gaan om vervanging van het motorrijtuig waarvoor de vrijstelling is verleend door een ander niet in Nederland geregistreerd motorrijtuig.
 
@@ -234,15 +374,23 @@ Het niet hebben van een (geldige) beschikking betekent niet zonder meer dat er v
 
 ### 3.11. Politie- en brandweermotorrijtuigen
 
-Onder voorwaarden wordt een vrijstelling van mrb verleend voor motorrijtuigen die uitsluitend worden gebruikt door de politie of de brandweer op grond van [artikel 72, lid 1, onderdelen c en d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72) en [artikel 14, leden 1 en 2 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=14).
+Onder voorwaarden wordt een vrijstelling van mrb verleend voor motorrijtuigen die uitsluitend worden gebruikt door de politie of de brandweer op grond van [artikel 72, lid 1, onderdelen c en d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72) en [artikel 14, leden 1 en 2 van het uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=14).
 
 ### 3.11.1. Politie- en brandweermotorrijtuigen en (afwijkend) houderschap
 
-Voor de toepassing van de vrijstelling geldt dat het motorrijtuig moet staan geregistreerd op naam van een politie- of brandweer-instantie ([artikel 14 uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=14)).
+Voor de toepassing van de vrijstelling geldt dat het motorrijtuig moet staan geregistreerd op naam van een politie- of brandweer-instantie ([artikel 14 uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&artikel=14)).
 
 Het komt voor dat een motorrijtuig uitsluitend wordt gebruikt door een politie- of brandweer-instantie, maar niet staat geregistreerd op naam van de politie of brandweer in het kentekenregister. Dit kan voorkomen als bijvoorbeeld motorrijtuigen worden geleased (of gehuurd). In dat geval wordt niet aan de voorwaarden voor toepassing van de vrijstelling voldaan. Dit acht ik onwenselijk in die gevallen dat de politie- of brandweer-instantie als (afwijkend) houder van het motorrijtuig staat geregistreerd. Om die reden keur ik het volgende goed.
 
+Goedkeuring
+
 Ik keur op basis van een redelijke wetstoepassing goed dat de vrijstelling van toepassing is voor zover een politie-instantie of brandweer-instantie (afwijkend) houder is van het motorrijtuig.
+
+Voorwaarden:
+
+- • De politie- of brandweer-instantie dient gezamenlijk met de kentekenhouder een verzoek om afwijkend houderschap ([artikel 8, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=8)) in bij de inspecteur;
+
+- • Aan de overige voorwaarden voor de vrijstelling dient te worden voldaan.
 
 ### 4. Verzoek om bijzonder tarief of vrijstelling
 
@@ -250,83 +398,141 @@ De toepassing van het merendeel van de bijzondere tarieven of vrijstellingen vin
 
 Er zijn situaties waarin het voor de houder niet mogelijk is dit verzoek in te dienen voor de aanvang van het tijdvak. Bijvoorbeeld in de situatie waarbij sprake is van aanvang van het houderschap door tenaamstelling. Een verzoek kan dan pas worden ingediend vanaf het moment dat de tenaamstelling heeft plaatsgevonden. Hierdoor kan er niet tijdig een beroep worden gedaan op de betreffende regeling. Dat vind ik onwenselijk.
 
-Ik keur met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed, dat een verzoek om toepassing van het bijzonder tarief of de vrijstelling wordt toegekend met ingang van het begin van het eerste (verkorte) tijdvak, mits dat verzoek is ingediend binnen 30 dagen na aanvang van het houderschap. Wordt het verzoek na deze periode van 30 dagen ontvangen, dan vindt toekenning van de toepassing van het bijzonder tarief of de vrijstelling plaats vanaf het moment van indiening van het verzoek, conform de [wettelijke regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006324).
+Goedkeuring
+
+Ik keur met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed, dat een verzoek om toepassing van het bijzonder tarief of de vrijstelling wordt toegekend met ingang van het begin van het eerste (verkorte) tijdvak, mits dat verzoek is ingediend binnen 30 dagen na aanvang van het houderschap. Wordt het verzoek na deze periode van 30 dagen ontvangen, dan vindt toekenning van de toepassing van het bijzonder tarief of de vrijstelling plaats vanaf het moment van indiening van het verzoek, conform de [wettelijke regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006324).
 
 ### 5. Oldtimers
 
 ### 5.1. Overgangsregeling oldtimers
 
-Onder voorwaarden kunnen houders van personenauto’s, bestelauto’s, motorrijwielen, vrachtauto’s en autobussen gebruik maken van de overgangsregeling voor oldtimers (hierna: OVR). Om in aanmerking te komen voor de OVR moet het motorrijtuig vóór 1 januari 1988 voor het eerst in gebruik zijn genomen, maar nog geen 40 jaar oud zijn. Hierbij gelden er aanvullende vereisten voor personenauto’s, bestelauto’s, vrachtauto’s en autobussen. Ingeval van een:
+Onder voorwaarden kunnen houders van personenauto’s, bestelauto’s, motorrijwielen, vrachtauto’s en autobussen gebruik maken van de overgangsregeling voor oldtimers (hierna: OVR). Om in aanmerking te komen voor de OVR moet het motorrijtuig vóór 1 januari 1988 voor het eerst in gebruik zijn genomen, maar nog geen 40 jaar oud zijn. Hierbij gelden er aanvullende vereisten voor personenauto’s, bestelauto’s, vrachtauto’s en autobussen. Ingeval van een:
 
-Als een belastingplichtige deelneemt aan de OVR, betaalt hij in plaats van het reguliere tarief voor de motorrijtuigenbelasting, een kwarttarief tot maximaal het in [artikel 84a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=84a), genoemde bedrag. De belangrijkste voorwaarde voor deelname aan de OVR is dat met het motorrijtuig in de maanden januari, februari en december (wintermaanden) geen gebruik mag worden gemaakt van de openbare weg. Wordt in de wintermaanden toch gebruikgemaakt van de weg, dan kan de inspecteur de belasting naheffen die zonder toepassing van de OVR over het gehele kalenderjaar verschuldigd zou zijn (artikel 84a, negende lid, van de wet).
+- – personenauto of bestelauto mag het motorrijtuig alleen bestemd zijn om te rijden op benzine;
 
-Als wordt geconstateerd dat in de wintermaanden gebruik is gemaakt van de openbare weg met een motorrijtuig waarvoor de OVR van toepassing is, berekent de inspecteur de na te heffen belasting niet over het gehele kalenderjaar, maar over een periode van 1 januari van dat kalenderjaar tot en met de maand waarin het weggebruik is geconstateerd.
+- – vrachtauto of autobus mag het motorrijtuig niet-bedrijfsmatig gebruikt worden.
+
+Als een belastingplichtige deelneemt aan de OVR, betaalt hij in plaats van het reguliere tarief voor de motorrijtuigenbelasting, een kwarttarief tot maximaal het in [artikel 84a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=84a), genoemde bedrag. De belangrijkste voorwaarde voor deelname aan de OVR is dat met het motorrijtuig in de maanden januari, februari en december (wintermaanden) geen gebruik mag worden gemaakt van de openbare weg. Wordt in de wintermaanden toch gebruikgemaakt van de weg, dan kan de inspecteur de belasting naheffen die zonder toepassing van de OVR over het gehele kalenderjaar verschuldigd zou zijn (artikel 84a, negende lid, van de wet).
+
+Als wordt geconstateerd dat in de wintermaanden gebruik is gemaakt van de openbare weg met een motorrijtuig waarvoor de OVR van toepassing is, berekent de inspecteur de na te heffen belasting niet over het gehele kalenderjaar, maar over een periode van 1 januari van dat kalenderjaar tot en met de maand waarin het weggebruik is geconstateerd.
 
 Vanaf de eerstvolgende maand is de belasting verschuldigd naar het reguliere tarief. Voor het volgende kalenderjaar kan weer een verzoek tot deelname aan de OVR worden ingediend.
 
 ### 5.2. Evenementenregeling
 
-Wanneer de tenaamstelling van een motorrijtuig in het kentekenregister geschorst is, is er geen motorrijtuigenbelasting verschuldigd. Er mag met het motorrijtuig geen gebruik van de weg worden gemaakt. Op grond van [artikel 23, eerste lid, onderdeel b, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=23), mag gedurende de tijd dat de tenaamstelling geschorst is met een voertuig van 15 jaar of ouder op de weg worden gereden als sprake is van een door de inspecteur als zodanig aangemerkte ‘bijzondere gelegenheid’.
+Wanneer de tenaamstelling van een motorrijtuig in het kentekenregister geschorst is, is er geen motorrijtuigenbelasting verschuldigd. Er mag met het motorrijtuig geen gebruik van de weg worden gemaakt. Op grond van [artikel 23, eerste lid, onderdeel b, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=23), mag gedurende de tijd dat de tenaamstelling geschorst is met een voertuig van 15 jaar of ouder op de weg worden gereden als sprake is van een door de inspecteur als zodanig aangemerkte ‘bijzondere gelegenheid’.
+
+Goedkeuring
 
 Er kan worden deelgenomen aan de Evenementenregeling als aan de volgende voorwaarden wordt voldaan.
 
-Onder ‘bijzondere gelegenheid’ wordt in dit kader verstaan een speciaal evenement of een festiviteit waarbij het gebruik van een motorrijtuig van 15 jaar en ouder tot doel heeft om het motorrijtuig als zodanig aan het publiek te tonen. Voorbeelden van een bijzondere gelegenheid zijn: herdenkingen, corso's, symbolische optochten. Onder een ‘bijzondere gelegenheid’ wordt niet verstaan een gebeurtenis met een persoonlijk karakter, zoals een huwelijksfeest. De inspecteur deelt zijn beslissing op het verzoek schriftelijk aan de verzoeker mee. De organisator maakt aan de doelgroep bekend dat het evenement als bijzondere gelegenheid wordt aangemerkt. De deelnemers schrijven zich voor een of meerdere dagen in bij de organisator en verzoeken aan hem om hun inschrijving te melden bij de inspecteur. De organisator stuurt een lijst met deelnemers plus hun gegevens aan de inspecteur. De inspecteur moet deze gegevens uiterlijk 1 werkdag voor het evenement in bezit hebben. De inspecteur stuurt geen bevestiging. Wanneer een motorrijtuig op verzoek van de houder is aangemeld bij de inspecteur door de organisator van het evenement, en niet ten minste één werkdag vóór de aanvang van het evenement door de organisator weer is afgemeld, worden het evenement en de aangemelde dagen in mindering gebracht op het aan deze goedkeuring verbonden maximale aantal evenementen en dagen per jaar voor dat motorrijtuig, ongeacht de vraag of op de aangemelde dagen met het motorrijtuig daadwerkelijk gebruik is gemaakt van de weg. De deelnemers hoeven tijdens het evenement geen bewijs in het motorrijtuig aanwezig te hebben. De deelnemers houden per kenteken zelf bij hoe vaak zij zich in het kalenderjaar al hebben aangemeld voor een evenement en voor hoeveel dagen.
+Voorwaarden:
 
-Wanneer niet aan de voorwaarden wordt voldaan, bijvoorbeeld omdat er toch van de weg gebruik gemaakt wordt, terwijl de inspecteur de gelegenheid niet als bijzondere gelegenheid heeft aangemerkt, of omdat het maximale aantal gelegenheden of aantal dagen voor het motorrijtuig is overschreden, kan de te weinig betaalde belasting worden nageheven op grond van [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=35).
+- – Het gebruik van de openbare weg vindt plaats in het kader van een door de inspecteur als zodanig aangemerkte ‘bijzondere gelegenheid’.
 
-Als gebruik wordt gemaakt van het overgangsrecht oldtimers ([artikel 84a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=84a)), mag met het motorrijtuig geen gebruik van de weg worden gemaakt in de maanden januari, februari en december (hierna: wintermaanden). Hierop is slechts één uitzondering mogelijk, namelijk de dag waarop het motorrijtuig wordt onderworpen aan de Algemene Periodieke Keuring (APK). Op grond van de huidige wet- en regelgeving is het dus niet mogelijk deel te nemen aan de evenementenregeling, ook niet als de tenaamstelling van het motorrijtuig geschorst wordt.
+- – Het gebruik heeft een incidenteel karakter. Een goedkeuring kan dan ook per kalenderjaar per motorrijtuig slechts worden verleend voor de aanmelding van maximaal 8 dagen verdeeld over maximaal 4 bijzondere gelegenheden. Het aantal dagen en bijzondere gelegenheden wordt gerekend in volgorde van binnenkomst van het verzoek.
 
-Ik keur vooruitlopend op wijziging van de wetgeving goed dat een motorrijtuig waarop het overgangsrecht oldtimers als bedoeld in [artikel 84a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=84a) van toepassing is, gedurende de wintermaanden deel kan nemen aan de Evenementenregeling.
+- – Tijdens het gebruik van de weg is voor het motorrijtuig een verzekering voor wettelijke aansprakelijkheid, zoals bedoeld in [artikel 2 van de Wet aansprakelijkheidsverzekering motorvoertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=2), van kracht.
+
+- – De organisator vraagt bij de inspecteur om een evenement als bijzondere gelegenheid aan te merken. Dit gebeurt uiterlijk 2 maanden vóór het evenement.
+
+Onder ‘bijzondere gelegenheid’ wordt in dit kader verstaan een speciaal evenement of een festiviteit waarbij het gebruik van een motorrijtuig van 15 jaar en ouder tot doel heeft om het motorrijtuig als zodanig aan het publiek te tonen. Voorbeelden van een bijzondere gelegenheid zijn: herdenkingen, corso's, symbolische optochten. Onder een ‘bijzondere gelegenheid’ wordt niet verstaan een gebeurtenis met een persoonlijk karakter, zoals een huwelijksfeest. De inspecteur deelt zijn beslissing op het verzoek schriftelijk aan de verzoeker mee. De organisator maakt aan de doelgroep bekend dat het evenement als bijzondere gelegenheid wordt aangemerkt. De deelnemers schrijven zich voor een of meerdere dagen in bij de organisator en verzoeken aan hem om hun inschrijving te melden bij de inspecteur. De organisator stuurt een lijst met deelnemers plus hun gegevens aan de inspecteur. De inspecteur moet deze gegevens uiterlijk 1 werkdag voor het evenement in bezit hebben. De inspecteur stuurt geen bevestiging. Wanneer een motorrijtuig op verzoek van de houder is aangemeld bij de inspecteur door de organisator van het evenement, en niet ten minste één werkdag vóór de aanvang van het evenement door de organisator weer is afgemeld, worden het evenement en de aangemelde dagen in mindering gebracht op het aan deze goedkeuring verbonden maximale aantal evenementen en dagen per jaar voor dat motorrijtuig, ongeacht de vraag of op de aangemelde dagen met het motorrijtuig daadwerkelijk gebruik is gemaakt van de weg. De deelnemers hoeven tijdens het evenement geen bewijs in het motorrijtuig aanwezig te hebben. De deelnemers houden per kenteken zelf bij hoe vaak zij zich in het kalenderjaar al hebben aangemeld voor een evenement en voor hoeveel dagen.
+
+Wanneer niet aan de voorwaarden wordt voldaan, bijvoorbeeld omdat er toch van de weg gebruik gemaakt wordt, terwijl de inspecteur de gelegenheid niet als bijzondere gelegenheid heeft aangemerkt, of omdat het maximale aantal gelegenheden of aantal dagen voor het motorrijtuig is overschreden, kan de te weinig betaalde belasting worden nageheven op grond van [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=35).
+
+Samenloop met het overgangsrecht oldtimers
+
+Als gebruik wordt gemaakt van het overgangsrecht oldtimers ([artikel 84a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=84a)), mag met het motorrijtuig geen gebruik van de weg worden gemaakt in de maanden januari, februari en december (hierna: wintermaanden). Hierop is slechts één uitzondering mogelijk, namelijk de dag waarop het motorrijtuig wordt onderworpen aan de Algemene Periodieke Keuring (APK). Op grond van de huidige wet- en regelgeving is het dus niet mogelijk deel te nemen aan de evenementenregeling, ook niet als de tenaamstelling van het motorrijtuig geschorst wordt.
+
+Goedkeuring
+
+Ik keur vooruitlopend op wijziging van de wetgeving goed dat een motorrijtuig waarop het overgangsrecht oldtimers als bedoeld in [artikel 84a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=84a) van toepassing is, gedurende de wintermaanden deel kan nemen aan de Evenementenregeling.
+
+Voorwaarden:
 
 Voor deze goedkeuring gelden de volgende voorwaarden.
+
+- – Voor het motorrijtuig is [artikel 84a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=84a) van toepassing;
+
+- – Voor het motorrijtuig kan tijdens de wintermaanden maximaal 2 dagen gebruik worden gemaakt van de Evenementenregeling. Ook indien het motorrijtuig van houder wisselt, blijft deze beperking gelden.
 
 De tenaamstelling van het motorrijtuig hoeft niet geschorst te worden om deel te kunnen nemen aan een ‘bijzondere gelegenheid’.
 
 ### 5.3. Toepassing oldtimervrijstelling voor vrachtauto’s en autobussen na OVR
 
-Motorrijtuigen die ten minste 40 jaar geleden voor het eerst in gebruik zijn genomen, kunnen worden vrijgesteld van belasting ([artikel 72, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72)). Voor vrachtauto’s of autobussen geldt als aanvullende voorwaarde dat deze niet-bedrijfsmatig worden gebruikt. Hiervoor dient een verklaring te worden overgelegd. Wordt voor een vrachtauto of autobus de overgangsregeling voor oldtimers (al toegepast, dan heeft de houder bij aanvang van de OVR deze verklaring al overgelegd ([artikel 84a, derde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=84a)).
+Motorrijtuigen die ten minste 40 jaar geleden voor het eerst in gebruik zijn genomen, kunnen worden vrijgesteld van belasting ([artikel 72, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72)). Voor vrachtauto’s of autobussen geldt als aanvullende voorwaarde dat deze niet-bedrijfsmatig worden gebruikt. Hiervoor dient een verklaring te worden overgelegd. Wordt voor een vrachtauto of autobus de overgangsregeling voor oldtimers (al toegepast, dan heeft de houder bij aanvang van de OVR deze verklaring al overgelegd ([artikel 84a, derde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=84a)).
 
 Om onnodige en onwenselijke lastenverzwaring voor de houder te voorkomen kan de inspecteur de ‘oldtimervrijstelling’ automatisch toekennen na beëindiging van de OVR. De houder van het motorrijtuig wordt door de inspecteur geïnformeerd over de toekenning van de vrijstelling en de geldende vereisten.
 
-**Dit beleidsonderdeel is tot stand gekomen naar aanleiding van het kennisgroepstandpunt KG:013:2023:11, dat eerder is gepubliceerd op de website kennisgroepen.belastingdienst.nl.**
+*Dit beleidsonderdeel is tot stand gekomen naar aanleiding van het kennisgroepstandpunt KG:013:2023:11, dat eerder is gepubliceerd op de website kennisgroepen.belastingdienst.nl.*
 
 ### 6. Toegestane maximummassa bij afsleeptrekkers
 
-De toegestane maximummassa van een vrachtauto die is voorzien van een koppelinrichting is de toegestane maximummassa van de vrachtauto als deze niet zou zijn voorzien van een koppelinrichting, verhoogd met de hoogste toegestane maximum massa van een aanhangwagen waarmee de vrachtauto kan worden verbonden ([artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=2), onderdeel **m**, van de wet).
+De toegestane maximummassa van een vrachtauto die is voorzien van een koppelinrichting is de toegestane maximummassa van de vrachtauto als deze niet zou zijn voorzien van een koppelinrichting, verhoogd met de hoogste toegestane maximum massa van een aanhangwagen waarmee de vrachtauto kan worden verbonden ([artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=2), onderdeel *m*, van de wet).
 
 Een afsleeptrekker is een vrachtauto waarmee gestrande motorrijtuigen kunnen worden vervoerd naar bijvoorbeeld een herstelbedrijf, waarbij tijdens het vervoer de achterste wielen van het te vervoeren motorrijtuig op de weg blijven. Afsleeptrekkers trekken doorgaans geen aanhangwagens, maar andere (vracht)auto's.
 
-In dit verband keur ik met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) onder de volgende voorwaarden goed, dat de motorrijtuigenbelasting voor afsleeptrekkers kan worden beperkt tot de toegestane maximummassa van de afsleeptrekker zelf. De heffing van een afsleeptrekker geschiedt alsof het motorrijtuig niet is voorzien van een koppelinrichting.
+Goedkeuring
+
+In dit verband keur ik met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) onder de volgende voorwaarden goed, dat de motorrijtuigenbelasting voor afsleeptrekkers kan worden beperkt tot de toegestane maximummassa van de afsleeptrekker zelf. De heffing van een afsleeptrekker geschiedt alsof het motorrijtuig niet is voorzien van een koppelinrichting.
+
+Voorwaarden:
 
 Voor deze goedkeuring gelden de volgende voorwaarden;
+
+- a. Wanneer het motorrijtuig oorspronkelijk is voorzien van een koppelschotel voor het vervoeren van opleggers moet deze permanent verwijderd zijn; en
+
+- b. Het motorrijtuig wordt slechts gebruikt voor het slepen van andere motorrijtuigen en niet voor het vervoeren van goederen of het voortbewegen van een aanhangwagen.
 
 Om voor deze goedkeuring in aanmerking te komen moet de houder zelf een verzoek bij de B/CAP indienen.
 
 ### 7. Einde beschikkingsmacht
 
-De motorrijtuigenbelasting wordt geheven van degene die bij de aanvang van het tijdvak het motorrijtuig houdt ([artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=6)). Een motorrijtuig wordt gehouden door degene op wiens naam het voor het motorrijtuig opgegeven kenteken is gesteld in het kentekenregister als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), eerste lid, onderdeel **i**, van de Wegenverkeerswet ([artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=7), eerste lid, onderdeel **a**, van de wet). Teruggaaf van motorrijtuigenbelasting wordt verleend over het nog niet verstreken deel van het lopende tijdvak en over de nog niet aangevangen tijdvakken op het tijdstip waarop het motorrijtuig van houder wisselt dan wel het houderschap daarvan wordt beëindigd ([artikel 18, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=18)). Wanneer het kenteken niet meer op naam is gesteld wordt er geen belasting geheven.
+De motorrijtuigenbelasting wordt geheven van degene die bij de aanvang van het tijdvak het motorrijtuig houdt ([artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=6)). Een motorrijtuig wordt gehouden door degene op wiens naam het voor het motorrijtuig opgegeven kenteken is gesteld in het kentekenregister als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), eerste lid, onderdeel *i*, van de Wegenverkeerswet ([artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=7), eerste lid, onderdeel *a*, van de wet). Teruggaaf van motorrijtuigenbelasting wordt verleend over het nog niet verstreken deel van het lopende tijdvak en over de nog niet aangevangen tijdvakken op het tijdstip waarop het motorrijtuig van houder wisselt dan wel het houderschap daarvan wordt beëindigd ([artikel 18, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=18)). Wanneer het kenteken niet meer op naam is gesteld wordt er geen belasting geheven.
 
 Als de belastingplichtige de beschikkingsmacht over het motorrijtuig heeft verloren kan geen teruggaaf van motorrijtuigenbelasting worden verleend. Omdat het kenteken van het motorrijtuig nog steeds op naam van de belanghebbende staat, blijft er nog steeds sprake van een formeel houderschap.
 
-Ik keur met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed, dat wanneer er wel sprake is van een formeel houderschap, maar de belastingplichtige dit houderschap feitelijk niet kan genieten omdat hij de beschikkingsmacht over het motorrijtuig verloren heeft, in de hierna genoemde gevallen en onder de daarna gestelde voorwaarden en beperkingen, de heffing van motorrijtuigenbelasting achterwege kan blijven en/of teruggaaf verleend kan worden.
+Goedkeuring
+
+Ik keur met toepassing van [artikel 63 van de AWR](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed, dat wanneer er wel sprake is van een formeel houderschap, maar de belastingplichtige dit houderschap feitelijk niet kan genieten omdat hij de beschikkingsmacht over het motorrijtuig verloren heeft, in de hierna genoemde gevallen en onder de daarna gestelde voorwaarden en beperkingen, de heffing van motorrijtuigenbelasting achterwege kan blijven en/of teruggaaf verleend kan worden.
+
+- 1. Het motorrijtuig is gestolen of wordt vermist;
+
+- 2. Het motorrijtuig is technisch total loss; of
+
+- 3. Het motorrijtuig is verbeurd verklaard.
 
 Ad 1: In de situatie dat het motorrijtuig is gestolen of wordt vermist gelden de volgende voorwaarden:
 
+- – de diefstal of vermissing is bij de politie gemeld; en
+
+- – de diefstal of vermissing is door de politie gemeld in het kentekenregister.
+
 Ad 2: In de situatie dat het motorrijtuig total loss is verklaard, gelden de volgende voorwaarden:
 
+- – de belastingplichtige moet aan de hand van bescheiden aantonen dat het motorrijtuig technisch total loss is; en
+
+- – de belastingplichtige verkeert in de onmogelijkheid het kentekenbewijs ongeldig te laten verklaren.
+
 Ad 3: In de situatie dat het motorrijtuig verbeurd is verklaard, gelden de volgende voorwaarden:
+
+- – de belastingplichtige moet aan de hand van een vonnis van de strafrechter aantonen dat het motorrijtuig verbeurd verklaard is ([artikel 33, Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=33)); en
+
+- – de belastingplichtige verkeert in de onmogelijkheid het kentekenbewijs ongeldig te laten verklaren.
 
 ### 8. Betaling
 
 ### 8.1. Tijdstip betaling
 
-De motorrijtuigenbelasting moet zijn betaald bij de aanvang van het tijdvak ([artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=15)). De belastingplichtige is verantwoordelijk voor het tijdig betalen van de motorrijtuigenbelasting voor het verstrijken van de hiervoor genoemde termijn. De Belastingdienst stuurt uit serviceoverwegingen een brief met betaalinformatie aan de belastingplichtige. In deze brief wordt een uiterste betaaldatum vermeld die na de datum van aanvang van het betreffende tijdvak kan liggen.
+De motorrijtuigenbelasting moet zijn betaald bij de aanvang van het tijdvak ([artikel 15, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=15)). De belastingplichtige is verantwoordelijk voor het tijdig betalen van de motorrijtuigenbelasting voor het verstrijken van de hiervoor genoemde termijn. De Belastingdienst stuurt uit serviceoverwegingen een brief met betaalinformatie aan de belastingplichtige. In deze brief wordt een uiterste betaaldatum vermeld die na de datum van aanvang van het betreffende tijdvak kan liggen.
 
-Ik keur goed dat, in de gevallen waarin de belastingplichtige een brief met betaalinformatie heeft ontvangen waarin een uiterste betaaldatum is vermeld die ligt na de datum van aanvang van het betreffende tijdvak, de belasting in afwijking van [artikel 15, eerste lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=15), pas op deze latere datum hoeft te zijn betaald.
+Goedkeuring
 
-In de gevallen waarin de brief met betaalinformatie niet op het adres van de belastingplichtige is ontvangen of aangeboden dan wel de brief met betaalinformatie de belastingplichtige niet heeft bereikt, keur ik goed dat belanghebbende binnen 30 dagen na aanvang van het tijdvak de verschuldigde belasting betaalt.
+Ik keur goed dat, in de gevallen waarin de belastingplichtige een brief met betaalinformatie heeft ontvangen waarin een uiterste betaaldatum is vermeld die ligt na de datum van aanvang van het betreffende tijdvak, de belasting in afwijking van [artikel 15, eerste lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=15), pas op deze latere datum hoeft te zijn betaald.
 
-Als gebruik wordt gemaakt van de overgangsregeling voor oldtimers ([artikel 84a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=84a)) kan geen beroep worden gedaan op deze goedkeuringen. De betaling moet in dat geval te allen tijde voor aanvang van het tijdvak (1 januari) binnen zijn.
+In de gevallen waarin de brief met betaalinformatie niet op het adres van de belastingplichtige is ontvangen of aangeboden dan wel de brief met betaalinformatie de belastingplichtige niet heeft bereikt, keur ik goed dat belanghebbende binnen 30 dagen na aanvang van het tijdvak de verschuldigde belasting betaalt.
+
+Als gebruik wordt gemaakt van de overgangsregeling voor oldtimers ([artikel 84a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=84a)) kan geen beroep worden gedaan op deze goedkeuringen. De betaling moet in dat geval te allen tijde voor aanvang van het tijdvak (1 januari) binnen zijn.
 
 ### 9. Naheffing
 
@@ -334,37 +540,39 @@ Als gebruik wordt gemaakt van de overgangsregeling voor oldtimers ([artikel 84a,
 
 Een bedrijf dat beschikt over een erkenning bedrijfsvoorraad kan gebruik maken van de handelaarsregeling. Daarmee is het onder andere mogelijk om met motorrijtuigen die zijn opgenomen in de bedrijfsvoorraad, gebruik te maken van de weg. Tijdens dit gebruik moeten de motorrijtuigen zijn voorzien van de groene handelaarskentekenplaten. Toepassen van de handelaarsregeling heeft als voordeel dat voor de motorrijtuigen die zijn opgenomen in de bedrijfsvoorraad niet afzonderlijk belasting hoeft te worden voldaan.
 
-Omdat met gebruikmaking van deze regeling afwisselend met verschillende motorrijtuigen uit de bedrijfsvoorraad gebruik van de weg kan worden gemaakt, is het tarief voor deze faciliteit in [artikel 67 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=67) bij fictie vastgesteld op de belasting die verschuldigd is voor een personenauto met een eigen massa van 1.000 kg, over een tijdvak van drie maanden. Gewicht, brandstof of type van het onderliggende motorrijtuig zijn dan ook niet van belang voor de hoogte van de belasting.
+Omdat met gebruikmaking van deze regeling afwisselend met verschillende motorrijtuigen uit de bedrijfsvoorraad gebruik van de weg kan worden gemaakt, is het tarief voor deze faciliteit in [artikel 67 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=67) bij fictie vastgesteld op de belasting die verschuldigd is voor een personenauto met een eigen massa van 1.000 kg, over een tijdvak van drie maanden. Gewicht, brandstof of type van het onderliggende motorrijtuig zijn dan ook niet van belang voor de hoogte van de belasting.
 
-Als niet aan de voorwaarden van de handelaarsregeling is voldaan, kan er een naheffingsaanslag/boetebeschikking worden opgelegd ([artikel 69, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=69)). Er wordt geen rekening gehouden met kenmerken en omstandigheden van het motorrijtuig waarmee de voorwaarden van de handelaarsregeling zijn geschonden. Ook als voor dit motorrijtuig een nihiltarief of vrijstelling van toepassing zou zijn wanneer deze niet in de bedrijfsvoorraad zou zijn opgenomen, kan er alsnog een naheffing worden opgelegd naar het handelaarskentekentarief.
+Als niet aan de voorwaarden van de handelaarsregeling is voldaan, kan er een naheffingsaanslag/boetebeschikking worden opgelegd ([artikel 69, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=69)). Er wordt geen rekening gehouden met kenmerken en omstandigheden van het motorrijtuig waarmee de voorwaarden van de handelaarsregeling zijn geschonden. Ook als voor dit motorrijtuig een nihiltarief of vrijstelling van toepassing zou zijn wanneer deze niet in de bedrijfsvoorraad zou zijn opgenomen, kan er alsnog een naheffing worden opgelegd naar het handelaarskentekentarief.
 
-**Dit beleidsonderdeel is tot stand gekomen naar aanleiding van het kennisgroepstandpunt KG:013:2024:4, dat eerder is gepubliceerd op de website kennisgroepen.belastingdienst.nl**
+*Dit beleidsonderdeel is tot stand gekomen naar aanleiding van het kennisgroepstandpunt KG:013:2024:4, dat eerder is gepubliceerd op de website kennisgroepen.belastingdienst.nl*
 
 ### 9.2. Geen naheffing bij weggebruik tijdens schorsing vrijgesteld motorrijtuig
 
-Bij een constatering dat met een motorrijtuig tijdens een schorsing (als bedoeld in [hoofdstuk IV, paragraaf 6, Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&paragraaf=6)) gebruik van de weg wordt gemaakt, wordt de niet-betaalde belasting voor dit motorrijtuig nageheven.
+Bij een constatering dat met een motorrijtuig tijdens een schorsing (als bedoeld in [hoofdstuk IV, paragraaf 6, Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&paragraaf=6)) gebruik van de weg wordt gemaakt, wordt de niet-betaalde belasting voor dit motorrijtuig nageheven.
 
-Wanneer er een vrijstelling van toepassing is, is over de genoemde periode geen belasting verschuldigd en kan er ook geen naheffingsaanslag worden opgelegd. Ten overvloede, als niet (meer) wordt voldaan aan de voorwaarden van de vrijstelling kan een naheffingsaanslag op basis van [artikel 76, Wet MRB 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=76) worden opgelegd.
+Wanneer er een vrijstelling van toepassing is, is over de genoemde periode geen belasting verschuldigd en kan er ook geen naheffingsaanslag worden opgelegd. Ten overvloede, als niet (meer) wordt voldaan aan de voorwaarden van de vrijstelling kan een naheffingsaanslag op basis van [artikel 76, Wet MRB 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=76) worden opgelegd.
 
-**Dit beleidsonderdeel is tot stand gekomen naar aanleiding van het kennisgroepstandpunt KG:013:2024:3, dat eerder is gepubliceerd op de website kennisgroepen.belastingdienst.nl.**
+*Dit beleidsonderdeel is tot stand gekomen naar aanleiding van het kennisgroepstandpunt KG:013:2024:3, dat eerder is gepubliceerd op de website kennisgroepen.belastingdienst.nl.*
 
 ### 9.3. Geen naheffing bij weggebruik tijdens schorsing motorrijtuig OVR
 
-Bij een constatering dat met een motorrijtuig tijdens een schorsing (als bedoeld in [hoofdstuk IV, paragraaf 6, Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&paragraaf=6)) gebruik van de weg wordt gemaakt, wordt de niet-betaalde belasting voor dit motorrijtuig nageheven. [Artikel 35, Wet MRB 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=35) geeft aan dat de na te heffen belasting wordt berekend over een tijdsduur van vier aaneensluitende tijdvakken van drie maanden met als laatste tijdvak dat waarin gebruik van de weg is gemaakt.
+Bij een constatering dat met een motorrijtuig tijdens een schorsing (als bedoeld in [hoofdstuk IV, paragraaf 6, Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&paragraaf=6)) gebruik van de weg wordt gemaakt, wordt de niet-betaalde belasting voor dit motorrijtuig nageheven. [Artikel 35, Wet MRB 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=35) geeft aan dat de na te heffen belasting wordt berekend over een tijdsduur van vier aaneensluitende tijdvakken van drie maanden met als laatste tijdvak dat waarin gebruik van de weg is gemaakt.
 
-Voor een motorrijtuig dat gebruik maakt van de overgangsregeling oldtimers geldt echter een tijdvak van een kalenderjaar. De belasting wordt berekend op basis van [artikel 84a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=84a) en voor aanvang van het kalenderjaar betaald (artikel 84a, derde lid, onder e, van de wet). Een eventuele schorsing resulteert niet in een gedeeltelijke teruggave van belasting (artikel 84a, tiende lid, juncto [artikel 19, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=19)). Wanneer in de maanden maart tot en met november van een kalenderjaar met een geschorst motorrijtuig gebruik van de weg wordt geconstateerd kan derhalve ook niet worden nageheven. Voor de OVR is de verschuldigde belasting immers al voor aanvang van het tijdvak (kalenderjaar) betaald.
+Voor een motorrijtuig dat gebruik maakt van de overgangsregeling oldtimers geldt echter een tijdvak van een kalenderjaar. De belasting wordt berekend op basis van [artikel 84a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=84a) en voor aanvang van het kalenderjaar betaald (artikel 84a, derde lid, onder e, van de wet). Een eventuele schorsing resulteert niet in een gedeeltelijke teruggave van belasting (artikel 84a, tiende lid, juncto [artikel 19, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=19)). Wanneer in de maanden maart tot en met november van een kalenderjaar met een geschorst motorrijtuig gebruik van de weg wordt geconstateerd kan derhalve ook niet worden nageheven. Voor de OVR is de verschuldigde belasting immers al voor aanvang van het tijdvak (kalenderjaar) betaald.
 
-Ten overvloede, als in januari, februari of december gebruik van de weg wordt gemaakt, wordt niet voldaan aan de voorwaarden van de OVR en kan wel een naheffingsaanslag op basis van[artikel 84a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=84a) worden opgelegd.
+Ten overvloede, als in januari, februari of december gebruik van de weg wordt gemaakt, wordt niet voldaan aan de voorwaarden van de OVR en kan wel een naheffingsaanslag op basis van[artikel 84a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=84a) worden opgelegd.
 
-**Dit beleidsonderdeel is tot stand gekomen naar aanleiding van het kennisgroepstandpunt KG:013:2024:3, dat eerder is gepubliceerd op de website kennisgroepen.belastingdienst.nl.**
+*Dit beleidsonderdeel is tot stand gekomen naar aanleiding van het kennisgroepstandpunt KG:013:2024:3, dat eerder is gepubliceerd op de website kennisgroepen.belastingdienst.nl.*
 
 ### 10. Ingetrokken regelingen
 
 Het volgende besluit is ingetrokken met ingang van de inwerkingtreding van dit besluit:
 
+- – [besluit van 18 oktober 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0050354), nr. 2024-12840 (Stcrt. 2024, 34330).
+
 ### 11. Inwerkingtreding
 
-Dit besluit treedt in werking op 1 januari 2026.
+Dit besluit treedt in werking op 1 januari 2026.
 
 ### 12. Citeertitel
 

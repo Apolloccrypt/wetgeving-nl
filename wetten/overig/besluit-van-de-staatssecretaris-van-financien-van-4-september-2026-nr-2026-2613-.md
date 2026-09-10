@@ -9,7 +9,7 @@ laatste_update: 2026-09-05
 status: geldig
 toestand: 2026-09-05
 bron: "https://wetten.overheid.nl/BWBR0053081"
-opgehaald: 2026-09-09
+opgehaald: 2026-09-10
 ---
 
 # Besluit van de Staatssecretaris van Financiën van 4 september 2026, nr. 2026-2613 over het beleid met betrekking tot het inkomen uit sparen en beleggen (Box 3-besluit)

@@ -8,7 +8,7 @@ laatste_update: 2026-08-02
 status: geldig
 toestand: 2026-08-02
 bron: "https://wetten.overheid.nl/BWBV0005417"
-opgehaald: 2026-09-09
+opgehaald: 2026-09-10
 ---
 
 # Aanvullende Overeenkomst tussen ten eerste, de Europese Unie en zijn lidstaten, ten tweede, IJsland en ten derde, het Koninkrijk Noorwegen met betrekking tot de toepassing van de Overeenkomst inzake luchtvervoer tussen ten eerste, de Verenigde Staten van Amerika, ten tweede, de Europese Unie en haar lidstaten, ten derde, IJsland en ten vierde, het Koninkrijk Noorwegen

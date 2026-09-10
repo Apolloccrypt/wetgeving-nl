@@ -1,22 +1,18 @@
 ---
-title: "Besluit beperking openbaarheid archief C-dossiers van het Ministerie van Justitie, (1856) 1953-2005 (2012), toegangsnummer 2.09.92"
+title: "Besluit tot het stellen van beperkingen aan de openbaarheid van het archief van het Ministerie van Justitie, C-dossiers (1856) 1953–2005 (2012), (1856) 1953–2005 (2012), toegangsnummer 2.09.92."
+citeertitel: "Besluit beperking openbaarheid archief C-dossiers van het Ministerie van Justitie, (1856) 1953-2005 (2012), toegangsnummer 2.09.92"
 identifier: "BWBR0052587"
 categorie: "Overig"
+soort: "ministeriele-regeling"
 publicatiedatum: 2026-05-01
 laatste_update: 2026-05-01
 status: geldig
+toestand: 2026-05-01
 bron: "https://wetten.overheid.nl/BWBR0052587"
+opgehaald: 2026-09-10
 ---
 
-# Besluit tot het stellen van beperkingen aan de openbaarheid van het archief van het Ministerie van Justitie, C-dossiers (1856) 1953–2005 (2012), (1856) 1953–2005 (2012), toegangsnummer 2.09.92
-
-Gelet op [artikel 15, tweede en vierde lid van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15),
-
-Gelet op het [besluit van 17 oktober 2023 van de Minister van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0048798), met kenmerk 3177126,
-
-Gehoord hebbende de Minister van Justitie en Veiligheid,
-
-Besluit:
+# Besluit tot het stellen van beperkingen aan de openbaarheid van het archief van het Ministerie van Justitie, C-dossiers (1856) 1953–2005 (2012), (1856) 1953–2005 (2012), toegangsnummer 2.09.92.
 
 ##### Artikel 1
 

@@ -1,34 +1,18 @@
 ---
-title: "Besluit buitengewoon opsporingsambtenaar gemeente Gouda 2026"
+title: "Besluit van de Staatssecretaris van Justitie en Veiligheid van 8 mei 2026, nr. BOACAT2026/031, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Gouda"
+citeertitel: "Besluit buitengewoon opsporingsambtenaar gemeente Gouda 2026"
 identifier: "BWBR0052622"
 categorie: "Bestuursrecht"
+soort: "ministeriele-regeling"
 publicatiedatum: 2026-07-22
 laatste_update: 2026-07-22
 status: geldig
+toestand: 2026-07-22
 bron: "https://wetten.overheid.nl/BWBR0052622"
+opgehaald: 2026-09-10
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 8 mei 2026, nr. BOACAT2026/031, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Gouda
-
-Gelezen het verzoek van gemeente Gouda van 24 maart 2026 en de adviezen van de hoofdofficier van Justitie van het arrondissementsparket Den Haag en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
-
-Gelet op:
-
-[artikel 142, eerste lid, aanhef en onder b en derde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142);
-
-[artikel 7, negende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7);
-
-[artikel 55b van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55b);
-
-[artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36), en [artikel 41, tweede lid, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=41);
-
-[artikel 17, eerste lid, aanhef en onder 2, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17);
-
-de [Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0041447);
-
-de [Beleidsregels buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0039766).
-
-Besluit:
 
 ##### Artikel 1
 
@@ -40,7 +24,7 @@ De personen, werkzaam in de functie van medewerker handhaving domein 1 in dienst
 
 ##### Artikel 3
 
-1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein I, Openbare Ruimte, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
+1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein I, Openbare Ruimte, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/BWBR0041447).
 
 2. De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.
 
@@ -62,7 +46,7 @@ De buitengewoon opsporingsambtenaar kan de in [artikel 7, lid 1 van de politiewe
 
 ##### Artikel 7
 
-1. De gemeente Gouda brengt jaarlijks, voor 1 april, verslag uit over:
+1. De gemeente Gouda brengt jaarlijks, voor 1 april, verslag uit over:
 
 - a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052622&artikel=2&z=2026-07-22&g=2026-07-22) genoemde functie;
 
@@ -80,12 +64,10 @@ Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven akt
 
 ##### Artikel 9
 
-Het [Besluit buitengewoon opsporingsambtenaar gemeente Gouda 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045441) nr. BOACAT2021/031 (I) zal vervallen op 22 juli 2026.
+Het [Besluit buitengewoon opsporingsambtenaar gemeente Gouda 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045441) nr. BOACAT2021/031 (I) zal vervallen op 22 juli 2026.
 
-Dit besluit treedt in werking met ingang van 22 juli 2026 en vervalt met ingang van 22 juli 2031.
+Dit besluit treedt in werking met ingang van 22 juli 2026 en vervalt met ingang van 22 juli 2031.
 
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar gemeente Gouda 2026.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

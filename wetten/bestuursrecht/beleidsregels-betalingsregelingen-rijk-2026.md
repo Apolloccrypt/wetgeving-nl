@@ -1,44 +1,18 @@
 ---
 title: "Beleidsregels van de Staatssecretaris van Justitie en Veiligheid, de Minister van Infrastructuur en Waterstaat, de voorzitter van het CAK, de voorzitter van de Autoriteit online Terroristisch en Kinderpornografisch Materiaal, het bestuur van de Nederlandse Emissieautoriteit, de secretaris-generaal van het Ministerie van Financiën, de Directeur-Generaal Dienst Uitvoering Onderwijs, de Directeur-Generaal van de Rijksdienst voor Ondernemend Nederland, de waarnemend inspecteur-generaal Inspectie Justitie en Veiligheid, de Inspecteur-Generaal Nederlandse Voedsel- en Warenautoriteit, de Inspecteur-Generaal van de Rijksinspectie Digitale Infrastructuur en de Raad van Bestuur van het Uitvoeringsinstituut Werknemersverzekeringen, van 1 november 2025, nr. 6815099, betreffende betalingsregelingen bij rijksincassovorderingen (Beleidsregels betalingsregelingen Rijk 2026)"
+citeertitel: "Beleidsregels betalingsregelingen Rijk 2026"
 identifier: "BWBR0052067"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052067"
+categorie: "Arbeidsrecht"
 soort: "beleidsregel"
-stam_id: "17702703"
-version_id: "31240212"
-internal_id: "C44678881"
-label_id: "17601804"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052067/2026-01-01/0"
-intitule_bron: "Stcrt.2025-42773"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-11-01"
-intitule_published: "2025-12-19"
-intitule_in_force: "2025-12-19"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-42773"
-original_signed_date: "2025-11-01"
-original_published_date: "2025-12-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-42773"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0052067&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0052067&g=2026-01-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregels betalingsregelingen Rijk 2026"
-signed_date: "2025-11-01"
-entry_into_force: "2026-01-01"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0052067"
+opgehaald: 2026-09-10
 ---
+
 # Beleidsregels van de Staatssecretaris van Justitie en Veiligheid, de Minister van Infrastructuur en Waterstaat, de voorzitter van het CAK, de voorzitter van de Autoriteit online Terroristisch en Kinderpornografisch Materiaal, het bestuur van de Nederlandse Emissieautoriteit, de secretaris-generaal van het Ministerie van Financiën, de Directeur-Generaal Dienst Uitvoering Onderwijs, de Directeur-Generaal van de Rijksdienst voor Ondernemend Nederland, de waarnemend inspecteur-generaal Inspectie Justitie en Veiligheid, de Inspecteur-Generaal Nederlandse Voedsel- en Warenautoriteit, de Inspecteur-Generaal van de Rijksinspectie Digitale Infrastructuur en de Raad van Bestuur van het Uitvoeringsinstituut Werknemersverzekeringen, van 1 november 2025, nr. 6815099, betreffende betalingsregelingen bij rijksincassovorderingen (Beleidsregels betalingsregelingen Rijk 2026)
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluiten:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -46,37 +20,37 @@ Besluiten:
 
 In deze beleidsregels wordt verstaan onder:
 
-- –. **ATKM:** Autoriteit online Terroristisch en Kinderpornografisch Materiaal als bedoeld in [artikel 2, eerste lid, van de Uitvoeringswet verordening terroristische online-inhoud](https://wetten.overheid.nl/jci1.3:c:BWBR0048064&artikel=2);
+- – *ATKM:* Autoriteit online Terroristisch en Kinderpornografisch Materiaal als bedoeld in [artikel 2, eerste lid, van de Uitvoeringswet verordening terroristische online-inhoud](https://wetten.overheid.nl/jci1.3:c:BWBR0048064&artikel=2);
 
-- –. **betalingsplichtige:** persoon die één of meerdere vorderingen als bedoeld in [artikel 1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0052067&paragraaf=1&artikel=1:3&z=2026-01-01&g=2026-01-01) moet voldoen;
+- – *betalingsplichtige:* persoon die één of meerdere vorderingen als bedoeld in [artikel 1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0052067&paragraaf=1&artikel=1:3&z=2026-01-01&g=2026-01-01) moet voldoen;
 
-- –. **betalingsregeling:** afspraak tussen het CJIB en de betalingsplichtige tot verlening van uitstel van betaling of het toestaan van betaling in termijnen met betrekking tot één vordering als bedoeld in [artikel 1:3, onder a, b, c, d, e, f, g, h, i, j of k](https://wetten.overheid.nl/jci1.3:c:BWBR0052067&paragraaf=1&artikel=1:3&z=2026-01-01&g=2026-01-01), dan wel een combinatie van vorderingen als bedoeld in artikel 1:3;
+- – *betalingsregeling:* afspraak tussen het CJIB en de betalingsplichtige tot verlening van uitstel van betaling of het toestaan van betaling in termijnen met betrekking tot één vordering als bedoeld in [artikel 1:3, onder a, b, c, d, e, f, g, h, i, j of k](https://wetten.overheid.nl/jci1.3:c:BWBR0052067&paragraaf=1&artikel=1:3&z=2026-01-01&g=2026-01-01), dan wel een combinatie van vorderingen als bedoeld in artikel 1:3;
 
-- –. **CAK:** CAK als bedoeld in [artikel 6.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1);
+- – *CAK:* CAK als bedoeld in [artikel 6.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1);
 
-- –. **CJIB:** Centraal Justitieel Incassobureau, onderdeel van het Ministerie van Justitie en Veiligheid;
+- – *CJIB:* Centraal Justitieel Incassobureau, onderdeel van het Ministerie van Justitie en Veiligheid;
 
-- –. **DFEI:** Dienst Financieel-Economische Integriteit, toezichthouder binnen het Ministerie van Financiën die toezicht houdt op de naleving van de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282), en het toezicht uitvoert op de naleving van voorschriften ten aanzien van de registers van de Kamer van Koophandel en die opsporingstaken uitvoert ten aanzien van economische delicten op grond van de [Wet Economische Delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063);
+- – *DFEI:* Dienst Financieel-Economische Integriteit, toezichthouder binnen het Ministerie van Financiën die toezicht houdt op de naleving van de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282), en het toezicht uitvoert op de naleving van voorschriften ten aanzien van de registers van de Kamer van Koophandel en die opsporingstaken uitvoert ten aanzien van economische delicten op grond van de [Wet Economische Delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063);
 
-- –. **DUO:** Dienst Uitvoering Onderwijs, onderdeel van het Ministerie van Onderwijs, Cultuur en Wetenschap en organisatie die in opdracht van het Ministerie van Sociale Zaken en Werkgelegenheid taken uitvoert op het terrein van inburgering;
+- – *DUO:* Dienst Uitvoering Onderwijs, onderdeel van het Ministerie van Onderwijs, Cultuur en Wetenschap en organisatie die in opdracht van het Ministerie van Sociale Zaken en Werkgelegenheid taken uitvoert op het terrein van inburgering;
 
-- –. **incasso:** het met of zonder dwangbevel verhalen van een openstaande vordering op inkomsten, tegoeden, roerende of onroerende goederen dan wel andere liquide of liquideerbare middelen van de betalingsplichtige;
+- – *incasso:* het met of zonder dwangbevel verhalen van een openstaande vordering op inkomsten, tegoeden, roerende of onroerende goederen dan wel andere liquide of liquideerbare middelen van de betalingsplichtige;
 
-- –. **inning:** het verzenden van één of meerdere aanschrijvingen tot betaling van een vordering dan wel het treffen van een betalingsregeling zonder de toepassing van incassomaatregelen;
+- – *inning:* het verzenden van één of meerdere aanschrijvingen tot betaling van een vordering dan wel het treffen van een betalingsregeling zonder de toepassing van incassomaatregelen;
 
-- –. **Inspectie JenV:** Inspectie Justitie en Veiligheid, zelfstandig toezichthouder binnen het Ministerie van Justitie en Veiligheid, die verantwoordelijk is voor het toezicht op de kwaliteit van de taakuitvoering van de uitvoeringsorganisaties binnen de domeinen van de ministeries Justitie en Veiligheid en Asiel en Migratie en van een aantal specifieke marktpartijen via haar, en toezicht houdt op de naleving van de [Wet kwaliteit incassodienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0046685) en de [Wet experiment gesloten coffeeshopketen](https://wetten.overheid.nl/jci1.3:c:BWBR0042818);
+- – *Inspectie JenV:* Inspectie Justitie en Veiligheid, zelfstandig toezichthouder binnen het Ministerie van Justitie en Veiligheid, die verantwoordelijk is voor het toezicht op de kwaliteit van de taakuitvoering van de uitvoeringsorganisaties binnen de domeinen van de ministeries Justitie en Veiligheid en Asiel en Migratie en van een aantal specifieke marktpartijen via haar, en toezicht houdt op de naleving van de [Wet kwaliteit incassodienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0046685) en de [Wet experiment gesloten coffeeshopketen](https://wetten.overheid.nl/jci1.3:c:BWBR0042818);
 
-- –. **NEa:** Nederlandse Emissieautoriteit, waarvan het bestuur een zelfstandig bestuursorgaan is en de werkorganisatie een agentschap van het Ministerie van Klimaat en Groene Groei, die in opdracht van de ministeries van Klimaat en Groene Groei, Infrastructuur en Waterstaat, en Financiën taken uitvoert en toezicht houdt op marktinstrumenten die bijdragen aan een klimaatneutrale samenleving;
+- – *NEa:* Nederlandse Emissieautoriteit, waarvan het bestuur een zelfstandig bestuursorgaan is en de werkorganisatie een agentschap van het Ministerie van Klimaat en Groene Groei, die in opdracht van de ministeries van Klimaat en Groene Groei, Infrastructuur en Waterstaat, en Financiën taken uitvoert en toezicht houdt op marktinstrumenten die bijdragen aan een klimaatneutrale samenleving;
 
-- –. **NVWA:** Nederlandse Voedsel- en Warenautoriteit, onderdeel van het Ministerie van Landbouw, Visserij, en Voedselzekerheid en Natuur, die in opdracht van dat ministerie en het Ministerie van Volksgezondheid, Welzijn en Sport toezicht houdt op het gebied van voedselveiligheid, productveiligheid, tabaks- en alcoholontmoediging, diergezondheid, dierenwelzijn, plantgezondheid en natuur;
+- – *NVWA:* Nederlandse Voedsel- en Warenautoriteit, onderdeel van het Ministerie van Landbouw, Visserij, en Voedselzekerheid en Natuur, die in opdracht van dat ministerie en het Ministerie van Volksgezondheid, Welzijn en Sport toezicht houdt op het gebied van voedselveiligheid, productveiligheid, tabaks- en alcoholontmoediging, diergezondheid, dierenwelzijn, plantgezondheid en natuur;
 
-- –. **RDI:** Rijksinspectie Digitale Infrastructuur, onderdeel van het Ministerie van Economische Zaken, die in opdracht van dat ministerie toezicht houdt op wet- en regelgeving op het gebied van telecommunicatie;
+- – *RDI:* Rijksinspectie Digitale Infrastructuur, onderdeel van het Ministerie van Economische Zaken, die in opdracht van dat ministerie toezicht houdt op wet- en regelgeving op het gebied van telecommunicatie;
 
-- –. **RDW:** Dienst Wegverkeer als bedoeld in [artikel 4a, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4a), die ter uitvoering van de [Wet vrachtwagenheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0047082) en de [Wet tijdelijke tolheffing Blankenburgverbinding en ViA15](https://wetten.overheid.nl/jci1.3:c:BWBR0037517) mandaat, volmacht en machtiging heeft ontvangen van de Minister van Infrastructuur en Waterstaat;
+- – *RDW:* Dienst Wegverkeer als bedoeld in [artikel 4a, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4a), die ter uitvoering van de [Wet vrachtwagenheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0047082) en de [Wet tijdelijke tolheffing Blankenburgverbinding en ViA15](https://wetten.overheid.nl/jci1.3:c:BWBR0037517) mandaat, volmacht en machtiging heeft ontvangen van de Minister van Infrastructuur en Waterstaat;
 
-- –. **RVO:** Rijksdienst voor Ondernemend Nederland, onderdeel van het Ministerie van Economische Zaken;
+- – *RVO:* Rijksdienst voor Ondernemend Nederland, onderdeel van het Ministerie van Economische Zaken;
 
-- –. **UWV:** Uitvoeringsinstituut Werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5).
+- – *UWV:* Uitvoeringsinstituut Werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5).
 
 ##### Artikel 1:2. Reikwijdte
 
@@ -90,159 +64,159 @@ Het CJIB kan betalingsregelingen treffen met betrekking tot:
 
 - a. vorderingen die door de DUO aan het CJIB ter inning en incasso zijn overgedragen en voortkomen uit:
 
-- 1°. de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453);
+   - 1°. de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453);
 
-- 2°. de [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438);
+   - 2°. de [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438);
 
-- 3°. de [Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188);
+   - 3°. de [Les- en cursusgeldwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004188);
 
-- 4°. de [Subsidieregeling lerarenbeurs](https://wetten.overheid.nl/jci1.3:c:BWBR0039319);
+   - 4°. de [Subsidieregeling lerarenbeurs](https://wetten.overheid.nl/jci1.3:c:BWBR0039319);
 
-- 5°. de [Regeling tegemoetkoming studiekosten onderwijsmasteropleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0038481), zoals die regeling luidde op 31 oktober 2018;
+   - 5°. de [Regeling tegemoetkoming studiekosten onderwijsmasteropleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0038481), zoals die regeling luidde op 31 oktober 2018;
 
-- 6°. de [Regeling subsidie korte scholingstrajecten vo](https://wetten.overheid.nl/jci1.3:c:BWBR0039979);
+   - 6°. de [Regeling subsidie korte scholingstrajecten vo](https://wetten.overheid.nl/jci1.3:c:BWBR0039979);
 
-- 7°. de [Subsidieregeling cultuurbegeleider primair en speciaal onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0040011);
+   - 7°. de [Subsidieregeling cultuurbegeleider primair en speciaal onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0040011);
 
-- 8°. de [Subsidieregeling instructiebeurs mbo](https://wetten.overheid.nl/jci1.3:c:BWBR0050886);
+   - 8°. de [Subsidieregeling instructiebeurs mbo](https://wetten.overheid.nl/jci1.3:c:BWBR0050886);
 
-- 9°. de [Subsidieregeling post-initiële leergang bewegingsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0041608);
+   - 9°. de [Subsidieregeling post-initiële leergang bewegingsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0041608);
 
-- 10°. de [Subsidieregeling tweede lerarenopleiding](https://wetten.overheid.nl/jci1.3:c:BWBR0043210);
+   - 10°. de [Subsidieregeling tweede lerarenopleiding](https://wetten.overheid.nl/jci1.3:c:BWBR0043210);
 
-- 11°. de bestuurlijke boete ingevolge [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=23), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=24) en [54 van de Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=54);
+   - 11°. de bestuurlijke boete ingevolge [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=23), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=24) en [54 van de Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=54);
 
-- 12°. de terugbetaling lening ingevolge de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=21) en [54 Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=54);
+   - 12°. de terugbetaling lening ingevolge de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=21) en [54 Wet inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044770&artikel=54);
 
 - b. vorderingen die door het CAK aan het CJIB ter inning en incasso zijn overgedragen en voortkomen uit bestuurlijke boetes en bestuursrechtelijke premies als bedoeld in [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=9b), [9c](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=9c), [18d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18d), [18e](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18e) en [18f van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18f);
 
 - c. vorderingen die door de NVWA aan het CJIB ter inning en incasso zijn overgedragen en voortkomen uit bestuurlijke boetes en herstelsancties op grond van:
 
-- 1°. de [Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458);
+   - 1°. de [Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458);
 
-- 2°. de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+   - 2°. de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- 3°. de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505);
+   - 3°. de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505);
 
-- 4°. de [Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755);
+   - 4°. de [Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755);
 
-- 5°. de [Plantgezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194);
+   - 5°. de [Plantgezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194);
 
-- 6°. de [Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302);
+   - 6°. de [Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302);
 
-- 7°. de [Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416);
+   - 7°. de [Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416);
 
-- 8°. de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969);
+   - 8°. de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969);
 
-- 9°. de [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250);
+   - 9°. de [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250);
 
-- 10°. de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670);
+   - 10°. de [Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670);
 
-- 11°. de [Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552);
+   - 11°. de [Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552);
 
-- 12°. de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705);
+   - 12°. de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705);
 
 - d. vorderingen die door de RVO aan het CJIB ter incasso zijn overgedragen en voortkomen uit:
 
-- 1°. het Europees Garantiefonds voor de Landbouw (ELGF);
+   - 1°. het Europees Garantiefonds voor de Landbouw (ELGF);
 
-- 2°. het Europees Maritiem, Visserij en Aquacultuur Fonds (EMFAF);
+   - 2°. het Europees Maritiem, Visserij en Aquacultuur Fonds (EMFAF);
 
-- 3°. het Europees Landbouwfonds voor Plattelandsontwikkeling (ELFPO);
+   - 3°. het Europees Landbouwfonds voor Plattelandsontwikkeling (ELFPO);
 
-- 4°. de [Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919);
+   - 4°. de [Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919);
 
-- 5°. de [Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789);
+   - 5°. de [Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789);
 
-- 6°. de [Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252);
+   - 6°. de [Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252);
 
-- 7°. de [Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054);
+   - 7°. de [Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054);
 
-- 8°. de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885);
+   - 8°. de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885);
 
-- 9°. de Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantensoorten (CITES);
+   - 9°. de Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantensoorten (CITES);
 
-- 10°. de [Verordening (EU) nr. 1143/2014](32014R1143) van het Europees Parlement en de Raad van 22 oktober 2014 betreffende de preventie en beheersing van de introductie en verspreiding van invasieve uitheemse soorten (PbEU 2014, L 317);
+   - 10°. de Verordening (EU) nr. 1143/2014 van het Europees Parlement en de Raad van 22 oktober 2014 betreffende de preventie en beheersing van de introductie en verspreiding van invasieve uitheemse soorten (PbEU 2014, L 317);
 
-- 11°. de [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250);
+   - 11°. de [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250);
 
-- 12°. de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705).
+   - 12°. de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705).
 
 - e. terugvorderingen of bestuurlijke boetes die door het UWV aan het CJIB ter incasso zijn overgedragen en voortkomen uit:
 
-- 1°. de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043);
+   - 1°. de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043);
 
-- 2°. de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
+   - 2°. de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
 
-- 3°. de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008);
+   - 3°. de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008);
 
-- 4°. de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
+   - 4°. de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
 
-- 5°. de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394);
+   - 5°. de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394);
 
-- 6°. de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
+   - 6°. de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
 
-- 7°. wetten betreffende arbeidsongeschiktheidsverzekeringen;
+   - 7°. wetten betreffende arbeidsongeschiktheidsverzekeringen;
 
 - f. vorderingen die door de RDI aan het CJIB ter inning en incasso zijn overgedragen en voortkomen uit bestuurlijke boetes en herstelsancties op grond van:
 
-- 1°. de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+   - 1°. de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- 2°. de [Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714);
+   - 2°. de [Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714);
 
-- 3°. de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517);
+   - 3°. de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517);
 
-- 4°. de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
+   - 4°. de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
 
-- 5°. de [Waarborgwet](https://wetten.overheid.nl/jci1.3:c:BWBR0042284);
+   - 5°. de [Waarborgwet](https://wetten.overheid.nl/jci1.3:c:BWBR0042284);
 
-- 6°. de [Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728);
+   - 6°. de [Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728);
 
-- 7°. de [Wet ruimtevaartactiviteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0021418);
+   - 7°. de [Wet ruimtevaartactiviteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0021418);
 
 - g. vorderingen die door de RDW aan het CJIB ter inning en incasso zijn overgedragen en voortkomen uit bestuurlijke boetes als bedoeld in:
 
-- 1°. [artikel 12, eerste lid, van de Wet tijdelijke tolheffing Blankenburgverbinding en ViA15](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&artikel=12);
+   - 1°. [artikel 12, eerste lid, van de Wet tijdelijke tolheffing Blankenburgverbinding en ViA15](https://wetten.overheid.nl/jci1.3:c:BWBR0037517&artikel=12);
 
-- 2°. [artikel 15, eerste lid, van de Wet vrachtwagenheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=15);
+   - 2°. [artikel 15, eerste lid, van de Wet vrachtwagenheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=15);
 
 - h. vorderingen die door de ATKM aan het CJIB ter inning en incasso zijn overgedragen en voortkomen uit:
 
-- 1°. de [Uitvoeringswet verordening terroristische online inhoud](https://wetten.overheid.nl/jci1.3:c:BWBR0048064);
+   - 1°. de [Uitvoeringswet verordening terroristische online inhoud](https://wetten.overheid.nl/jci1.3:c:BWBR0048064);
 
-- 2°. de [Wet bestuursrechtelijke aanpak online kinderpornografisch materiaal](https://wetten.overheid.nl/jci1.3:c:BWBR0049813);
+   - 2°. de [Wet bestuursrechtelijke aanpak online kinderpornografisch materiaal](https://wetten.overheid.nl/jci1.3:c:BWBR0049813);
 
 - i. vorderingen die door de DFEI aan het CJIB ter inning en incasso zijn overgedragen en voortkomen uit bestuurlijke boetes en lasten onder dwangsom op grond van:
 
-- 1°. [artikel 5:20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), in samenhang met [artikel 5:32, eerste lid, Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32);
+   - 1°. [artikel 5:20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), in samenhang met [artikel 5:32, eerste lid, Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32);
 
-- 2°. de [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777);
+   - 2°. de [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777);
 
-- 3°. de [Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies](https://wetten.overheid.nl/jci1.3:c:BWBR0046156);
+   - 3°. de [Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies](https://wetten.overheid.nl/jci1.3:c:BWBR0046156);
 
-- 4°. de [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573);
+   - 4°. de [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573);
 
-- 5°. de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282);
+   - 5°. de [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282);
 
-- 6°. de [Wet ter voorkoming van witwassen en financiering van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824);
+   - 6°. de [Wet ter voorkoming van witwassen en financiering van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824);
 
 - j. vorderingen die door de NEa aan het CJIB ter inning en incasso zijn overgedragen en voortkomen uit bestuurlijke boetes of lasten onder dwangsom op grond van:
 
-- 1°. de [Tijdelijke wet inframarginale elektriciteitsheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0050059);
+   - 1°. de [Tijdelijke wet inframarginale elektriciteitsheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0050059);
 
-- 2°. de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245);
+   - 2°. de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245);
 
 - k. vorderingen die door de Inspectie JenV aan het CJIB ter inning en incasso zijn overgedragen en voortkomen uit:
 
-- 1°. de [Wet kwaliteit incassodienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0046685);
+   - 1°. de [Wet kwaliteit incassodienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0046685);
 
-- 2°. de [Wet experiment gesloten coffeeshopketen](https://wetten.overheid.nl/jci1.3:c:BWBR0042818);
+   - 2°. de [Wet experiment gesloten coffeeshopketen](https://wetten.overheid.nl/jci1.3:c:BWBR0042818);
 
 - l. vorderingen die voortkomen uit:
 
-- 1°. geldelijke sancties inhoudende de verplichting tot betaling van een geldsom als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), [36e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36e), [36f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36f), en [77h, vierde lid, onder d of e, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77h) of [artikel 257a, tweede lid, onder d, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a) dan wel geldelijke sancties die zijn opgelegd in het buitenland en die in Nederland ten uitvoer worden gelegd op grond van de Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie of de Wet overdracht tenuitvoerlegging strafvonnissen;
+   - 1°. geldelijke sancties inhoudende de verplichting tot betaling van een geldsom als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), [36e](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36e), [36f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=36f), en [77h, vierde lid, onder d of e, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77h) of [artikel 257a, tweede lid, onder d, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257a) dan wel geldelijke sancties die zijn opgelegd in het buitenland en die in Nederland ten uitvoer worden gelegd op grond van de Wet wederzijdse erkenning en tenuitvoerlegging geldelijke sancties en beslissingen tot confiscatie of de Wet overdracht tenuitvoerlegging strafvonnissen;
 
-- 2°. administratieve sancties als bedoeld in [artikel 1, eerste lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=1).
+   - 2°. administratieve sancties als bedoeld in [artikel 1, eerste lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=1).
 
 #### Paragraaf 2. Verzoeken om betalingsregelingen
 
@@ -272,7 +246,7 @@ Bij de beoordeling van een verzoek om een betalingsregeling betrekt het CJIB zo 
 
 - c. de betalingsregeling zich over een voor het CJIB niet redelijke termijn uitstrekt;
 
-- d. het totaal aan openstaande vorderingen niet meer dan € 75 bedraagt.
+- d. het totaal aan openstaande vorderingen niet meer dan € 75 bedraagt.
 
 2. Het CJIB kan een verzoek om een betalingsregeling afwijzen indien:
 
@@ -412,7 +386,7 @@ Het CJIB kan bij de verdeling en bestemming van ontvangen bedragen afwijken van 
 
 ##### Artikel 6:2. Gevolg voortijdige beëindiging betalingsregeling
 
-Indien de betalingsregeling voortijdig wordt beëindigd, wordt de betalingsplichtige in de gelegenheid gesteld om binnen 30 dagen het totaal openstaande bedrag aan vorderingen in één keer te voldoen, tenzij:
+Indien de betalingsregeling voortijdig wordt beëindigd, wordt de betalingsplichtige in de gelegenheid gesteld om binnen 30 dagen het totaal openstaande bedrag aan vorderingen in één keer te voldoen, tenzij:
 
 - a. sprake is van een situatie als bedoeld in [artikel 6:1, eerste lid, onder d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0052067&paragraaf=6&artikel=6:1&z=2026-01-01&g=2026-01-01); of
 
@@ -430,10 +404,8 @@ De [Beleidsregels betalingsregelingen Rijk 2025](https://wetten.overheid.nl/jci1
 
 ##### Artikel 7:2. Inwerkingtreding
 
-Deze beleidsregels treden in werking met ingang van 1 januari 2026.
+Deze beleidsregels treden in werking met ingang van 1 januari 2026.
 
 ##### Artikel 7:3. Citeertitel
 
 Deze beleidsregels worden aangehaald als: Beleidsregels betalingsregelingen Rijk 2026.
-
-Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.

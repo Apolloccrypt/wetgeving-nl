@@ -1,68 +1,43 @@
 ---
 title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 maart 2026, nr. WJZ/1787349, houdende regels voor subsidieverstrekking voor de instandhouding van monumenten met een woonfunctie op Bonaire, Sint Eustatius en Saba (Subsidieregeling instandhouding woonhuis-monumenten Caribisch Nederland 2026)"
+citeertitel: "Subsidieregeling instandhouding woonhuis-monumenten Caribisch Nederland 2026"
 identifier: "BWBR0052497"
-country: "nl"
-rank: "ministeriele_regeling_bes"
-publication_date: "2026-04-08"
-last_updated: "2026-04-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052497"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling-BES"
-stam_id: "17827313"
-version_id: "31514242"
-internal_id: "C45000891"
-label_id: "17724644"
-dtd_version: "2.0"
-original_entry_into_force: "2026-04-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052497/2026-04-08/0"
-intitule_bron: "Stcrt.2026-12180"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2026-03-24"
-intitule_published: "2026-04-07"
-intitule_in_force: "2026-04-07"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-12180"
-original_signed_date: "2026-03-24"
-original_published_date: "2026-04-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-12180"
-entry_into_force_date: "2026-04-08"
-jci_1_3: "jci1.3:c:BWBR0052497&z=2026-04-08&g=2026-04-08"
-jci_1_0: "1.0:c:BWBR0052497&g=2026-04-08"
-citeertitel_status: "officieel"
-short_title: "Subsidieregeling instandhouding woonhuis-monumenten Caribisch Nederland 2026"
-signed_date: "2026-03-24"
-entry_into_force: "2026-04-08"
+publicatiedatum: 2026-04-08
+laatste_update: 2026-04-08
+status: geldig
+toestand: 2026-04-08
+bron: "https://wetten.overheid.nl/BWBR0052497"
+opgehaald: 2026-09-10
 ---
+
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 24 maart 2026, nr. WJZ/1787349, houdende regels voor subsidieverstrekking voor de instandhouding van monumenten met een woonfunctie op Bonaire, Sint Eustatius en Saba (Subsidieregeling instandhouding woonhuis-monumenten Caribisch Nederland 2026)
-
-Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **beschermd stads- of dorpsgezicht:** beschermd stads- of dorpsgezicht als bedoeld in [artikel 1, onder e, van de Monumentenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028429&artikel=1);
+- *beschermd stads- of dorpsgezicht:* beschermd stads- of dorpsgezicht als bedoeld in [artikel 1, onder e, van de Monumentenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028429&artikel=1);
 
-- **bestuurscollege:** het bestuurscollege van het desbetreffende openbare lichaam Bonaire, Sint Eustatius of Saba;
+- *bestuurscollege:* het bestuurscollege van het desbetreffende openbare lichaam Bonaire, Sint Eustatius of Saba;
 
-- **bouwkundig inspectierapport:** rapport dat de technische staat van het monument of beschermd monument beschrijft, en dat is opgesteld door een ter zake deskundige persoon of instantie;
+- *bouwkundig inspectierapport:* rapport dat de technische staat van het monument of beschermd monument beschrijft, en dat is opgesteld door een ter zake deskundige persoon of instantie;
 
-- **instandhoudingskosten:** kosten van werkzaamheden, maatregelen en voorzieningen en andere kosten die volgens de Leidraad als subsidiabel zijn aangemerkt;
+- *instandhoudingskosten:* kosten van werkzaamheden, maatregelen en voorzieningen en andere kosten die volgens de Leidraad als subsidiabel zijn aangemerkt;
 
-- **instandhoudingswerkzaamheden:** werkzaamheden, maatregelen en voorzieningen die noodzakelijk zijn voor het herstel van het monument of beschermd monument en waarvoor op grond van deze regeling subsidie is of kan worden verleend;
+- *instandhoudingswerkzaamheden:* werkzaamheden, maatregelen en voorzieningen die noodzakelijk zijn voor het herstel van het monument of beschermd monument en waarvoor op grond van deze regeling subsidie is of kan worden verleend;
 
-- **kaderregeling:** [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
+- *kaderregeling:*
+ [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
 
-- **leidraad:** Leidraad subsidiabele instandhoudingskosten, opgenomen als [bijlage bij de Subsidieregeling instandhouding monumenten](onbekend);
+- *leidraad:* Leidraad subsidiabele instandhoudingskosten, opgenomen als [bijlage bij de Subsidieregeling instandhouding monumenten](https://wetten.overheid.nl/BWBR0032075);
 
-- **monument:** onroerend monument als bedoeld in [artikel 1, onder a, van de Monumentenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028429&artikel=1);
+- *monument:* onroerend monument als bedoeld in [artikel 1, onder a, van de Monumentenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028429&artikel=1);
 
-- **beschermd monument:** onroerend monument als bedoeld in [artikel 1, onder d, van de Monumentenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028429&artikel=1);
+- *beschermd monument:* onroerend monument als bedoeld in [artikel 1, onder d, van de Monumentenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028429&artikel=1);
 
-- **particuliere eigenaar:** natuurlijk persoon die het recht van eigendom of een ander zakelijk recht heeft op een monument of beschermd monument.
+- *particuliere eigenaar:* natuurlijk persoon die het recht van eigendom of een ander zakelijk recht heeft op een monument of beschermd monument.
 
 ##### Artikel 2. Toepassing Kaderregeling
 
@@ -78,21 +53,21 @@ De minister kan aan particuliere eigenaren van een monument als bedoeld in [arti
 
 2. In afwijking van de [artikelen 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.2), en [4.3, eerste lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.3) zijn, in combinatie met instandhoudingskosten die worden gemaakt na een besluit tot subsidieverlening, ook de instandhoudingskosten subsidiabel ten aanzien van de voorbereiding van de aanvraag, bestaande uit aanbestedingskosten, leges voor de toestemming van het bestuurscollege voor de instandhoudingswerkzaamheden, en kosten voor inspectie, onderzoek, planvorming of rapporten.
 
-3. Het subsidiebedrag is gelijk aan de subsidiabele instandhoudingskosten, met een maximum van $ 100.000 per monument of beschermd monument.
+3. Het subsidiebedrag is gelijk aan de subsidiabele instandhoudingskosten, met een maximum van $ 100.000 per monument of beschermd monument.
 
 ##### Artikel 5. Subsidieplafond
 
 Voor subsidieverstrekking op grond van deze regeling is ten hoogste een bedrag beschikbaar van:
 
-- a. voor Bonaire: $ 550.000;
+- a. voor Bonaire: $ 550.000;
 
-- b. voor Sint Eustatius: $ 275.000;
+- b. voor Sint Eustatius: $ 275.000;
 
-- c. voor Saba: $ 275.000.
+- c. voor Saba: $ 275.000.
 
 ##### Artikel 6. Aanvraag subsidie
 
-1. De subsidie kan voor alle drie eilanden worden aangevraagd van 1 september 2026 tot en met 30 september 2026 (UTC-4).
+1. De subsidie kan voor alle drie eilanden worden aangevraagd van 1 september 2026 tot en met 30 september 2026 (UTC-4).
 
 2. De aanvraag kan digitaal worden ingediend met gebruikmaking van het aanvraagformulier dat daartoe op de website van de Rijksdienst voor het Cultureel Erfgoed beschikbaar is gesteld.
 
@@ -106,13 +81,13 @@ Voor subsidieverstrekking op grond van deze regeling is ten hoogste een bedrag b
 
 - d. een schriftelijke verklaring van het bestuurscollege van het desbetreffende openbare lichaam, waaruit blijkt dat:
 
-- 1°. de onroerende zaak waarvoor subsidie wordt gevraagd een monument of een beschermd monument is, en tot welke categorie als bedoeld in [artikel 8, eerste lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0052497&artikel=8&z=2026-04-08&g=2026-04-08), het monument behoort;
+   - 1°. de onroerende zaak waarvoor subsidie wordt gevraagd een monument of een beschermd monument is, en tot welke categorie als bedoeld in [artikel 8, eerste lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0052497&artikel=8&z=2026-04-08&g=2026-04-08), het monument behoort;
 
-- 2°. de aanvrager van de subsidie een particuliere eigenaar van het monument of beschermd monument is;
+   - 2°. de aanvrager van de subsidie een particuliere eigenaar van het monument of beschermd monument is;
 
-- 3°. het monument of beschermd monument een woonfunctie heeft; en
+   - 3°. het monument of beschermd monument een woonfunctie heeft; en
 
-- 4°. de voor het verrichten van de activiteiten waarvoor subsidie wordt gevraagd vereiste toestemmingen zijn verleend; en
+   - 4°. de voor het verrichten van de activiteiten waarvoor subsidie wordt gevraagd vereiste toestemmingen zijn verleend; en
 
 - e. indien de technische staat van het monument of beschermd monument en de noodzaak van de instandhoudingswerkzaamheden onvoldoende blijken uit het bouwkundig inspectierapport: aanvullende documenten waaruit de technische staat nauwkeurig blijkt en de noodzaak van de instandhoudingswerkzaamheden voldoende wordt onderbouwd.
 
@@ -126,7 +101,7 @@ In aanvulling op de [artikelen 4:25](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 - a. indien de aanvraag niet voldoet aan een of meer van de vereisten, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052497&artikel=6&z=2026-04-08&g=2026-04-08);
 
-- b. indien van de kosten waarvoor subsidie wordt gevraagd minder dan $ 25.000 subsidiabel is;
+- b. indien van de kosten waarvoor subsidie wordt gevraagd minder dan $ 25.000 subsidiabel is;
 
 - c. voor zover de subsidie naar het oordeel van de minister niet noodzakelijk is voor de instandhouding van het monument of beschermd monument;
 

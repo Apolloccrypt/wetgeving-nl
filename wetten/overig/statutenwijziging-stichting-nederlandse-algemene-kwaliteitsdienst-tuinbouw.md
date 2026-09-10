@@ -1,38 +1,19 @@
 ---
 title: "Statutenwijziging Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw"
 identifier: "BWBR0052315"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-02-20"
-last_updated: "2026-02-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052315"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17762833"
-version_id: "31388012"
-internal_id: "C44855041"
-label_id: "17661024"
-dtd_version: "2.0"
-original_entry_into_force: "2026-02-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052315/2026-02-20/0"
-intitule_bron: "Stcrt.2026-7253"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2026-02-20"
-intitule_in_force: "2026-02-20"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-7253"
-original_published_date: "2026-02-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-7253"
-entry_into_force_date: "2026-02-20"
-jci_1_3: "jci1.3:c:BWBR0052315&z=2026-02-20&g=2026-02-20"
-jci_1_0: "1.0:c:BWBR0052315&g=2026-02-20"
-citeertitel_status: "redactioneel"
-entry_into_force: "2026-02-20"
+publicatiedatum: 2026-02-20
+laatste_update: 2026-02-20
+status: geldig
+toestand: 2026-02-20
+bron: "https://wetten.overheid.nl/BWBR0052315"
+opgehaald: 2026-09-10
 ---
+
 # Statutenwijziging Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw
 
-**Naktuinbouw**
+*Naktuinbouw*
 
 ### Algemeen
 
@@ -40,7 +21,7 @@ entry_into_force: "2026-02-20"
 
 De Stichting draagt de naam:
 
-“**Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw**”, bij afkorting Naktuinbouw; zij is gevestigd te Roelofarendsveen (gemeente Kaag en Braassem).
+“*Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw*”, bij afkorting Naktuinbouw; zij is gevestigd te Roelofarendsveen (gemeente Kaag en Braassem).
 
 ##### Artikel 2
 
@@ -212,7 +193,7 @@ De Stichting stelt zich ten doel:
 
 ##### Artikel 9
 
-Een aankoop, vervreemding en bezwaring van een onroerende zaak, en ook het aangaan van een verbintenis, waarmede zijdens de Stichting een prestatie gemoeid is van een bedrag, dat € 150.000,– te boven gaat, zal slechts kunnen plaatshebben met instemming van het Bestuur.
+Een aankoop, vervreemding en bezwaring van een onroerende zaak, en ook het aangaan van een verbintenis, waarmede zijdens de Stichting een prestatie gemoeid is van een bedrag, dat € 150.000,– te boven gaat, zal slechts kunnen plaatshebben met instemming van het Bestuur.
 
 ##### Artikel 10
 

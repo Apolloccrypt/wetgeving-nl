@@ -1,38 +1,38 @@
 ---
-title: "Beleidsregel boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (taxivervoer) 2026"
+title: "HERDRUK Beleidsregel van de Minister van Infrastructuur en Waterstaat en de Minister van Sociale Zaken en Werkgelegenheid, van 17 februari 2026, nr. ILT-2025/544208, over vaststelling van boetebedragen voor overtredingen van de Arbeidstijdenwet met betrekking tot taxivervoer (Beleidsregel boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (taxivervoer) 2026)"
+citeertitel: "Beleidsregel boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (taxivervoer) 2026"
 identifier: "BWBR0052432"
 categorie: "Arbeidsrecht"
+soort: "beleidsregel"
 publicatiedatum: 2026-03-18
-laatste_update: 2026-05-01
+laatste_update: 2026-03-18
 status: geldig
+toestand: 2026-03-18
 bron: "https://wetten.overheid.nl/BWBR0052432"
+opgehaald: 2026-09-10
 ---
 
 # HERDRUK Beleidsregel van de Minister van Infrastructuur en Waterstaat en de Minister van Sociale Zaken en Werkgelegenheid, van 17 februari 2026, nr. ILT-2025/544208, over vaststelling van boetebedragen voor overtredingen van de Arbeidstijdenwet met betrekking tot taxivervoer (Beleidsregel boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (taxivervoer) 2026)
-
-Gelet op [artikel 10:7, zesde lid, tweede volzin, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=10:7) en [artikel 5:46, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:46);
-
-BESLUITEN:
 
 ##### Artikel 1. Definities
 
 In deze beleidsregel wordt verstaan onder:
 
-- **eerste bedrijfsinspectie:** bedrijfsinspectie die geen tweede bedrijfsinspectie of volgende bedrijfsinspectie is;
+- *eerste bedrijfsinspectie:* bedrijfsinspectie die geen tweede bedrijfsinspectie of volgende bedrijfsinspectie is;
 
-- **eerste transportinspectie:** transportinspectie die geen tweede of volgende transportinspectie is;
+- *eerste transportinspectie:* transportinspectie die geen tweede of volgende transportinspectie is;
 
-- **taxivervoer:** taxivervoer als bedoeld in [artikel 1 van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=1);
+- *taxivervoer:* taxivervoer als bedoeld in [artikel 1 van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=1);
 
-- **tweede bedrijfsinspectie:** bedrijfsinspectie die plaatsvindt binnen vijf jaar na een eerste bedrijfsinspectie, waarbij de eerste bedrijfsinspectie heeft geresulteerd in de oplegging van een bestuurlijke boete die onherroepelijk is op de datum waarop de huidige bedrijfsinspectie aanvangt;
+- *tweede bedrijfsinspectie:* bedrijfsinspectie die plaatsvindt binnen vijf jaar na een eerste bedrijfsinspectie, waarbij de eerste bedrijfsinspectie heeft geresulteerd in de oplegging van een bestuurlijke boete die onherroepelijk is op de datum waarop de huidige bedrijfsinspectie aanvangt;
 
-- **tweede transportinspectie:** transportinspectie die plaatsvindt binnen vijf jaar na een eerste transportinspectie waarbij de eerste transportinspectie heeft geresulteerd in de oplegging van een bestuurlijke boete die onherroepelijk is op de datum waarop de transportinspectie aanvangt;
+- *tweede transportinspectie:* transportinspectie die plaatsvindt binnen vijf jaar na een eerste transportinspectie waarbij de eerste transportinspectie heeft geresulteerd in de oplegging van een bestuurlijke boete die onherroepelijk is op de datum waarop de transportinspectie aanvangt;
 
-- **volgende bedrijfsinspectie:** bedrijfsinspectie die plaatsvindt binnen vijf jaar na twee of meer bedrijfsinspecties, waarbij ten minste twee van deze bedrijfsinspecties hebben geresulteerd in de oplegging van een bestuurlijke boete en deze bestuurlijke boetes onherroepelijk zijn op de datum waarop de bedrijfsinspectie aanvangt;
+- *volgende bedrijfsinspectie:* bedrijfsinspectie die plaatsvindt binnen vijf jaar na twee of meer bedrijfsinspecties, waarbij ten minste twee van deze bedrijfsinspecties hebben geresulteerd in de oplegging van een bestuurlijke boete en deze bestuurlijke boetes onherroepelijk zijn op de datum waarop de bedrijfsinspectie aanvangt;
 
-- **volgende transportinspectie:** transportinspectie die plaatsvindt binnen vijf jaar na twee of meer transportinspecties, waarbij ten minste twee van deze transportinspecties hebben geresulteerd in de oplegging van een bestuurlijke boete en deze bestuurlijke boetes onherroepelijk zijn op de datum waarop de transportinspectie aanvangt;
+- *volgende transportinspectie:* transportinspectie die plaatsvindt binnen vijf jaar na twee of meer transportinspecties, waarbij ten minste twee van deze transportinspecties hebben geresulteerd in de oplegging van een bestuurlijke boete en deze bestuurlijke boetes onherroepelijk zijn op de datum waarop de transportinspectie aanvangt;
 
-- **zelfstandige:** persoon als bedoeld in [artikel 2:7 van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=2:7).
+- *zelfstandige:* persoon als bedoeld in [artikel 2:7 van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=2:7).
 
 ##### Artikel 2. Toepassingsgebied
 
@@ -122,76 +122,3 @@ Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgif
 ##### Artikel 11. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (taxivervoer) 2026.
-
-## Bijlage 1. Tarieflijst boetenormbedragen bestuurlijke boete taxivervoer (boetecatalogus) (bijlage als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052432&artikel=3&z=2026-03-18&g=2026-03-18) van de Beleidsregel boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (taxivervoer) 2026)
-
-Voor de toepassing van deze boetecatalogus wordt verstaan onder:
-
-- **Atw:** [Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671);
-
-- **Atbv:** [Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386);
-
-- **Rgbct:** [Regeling gebruik boordcomputer en boordcomputerkaarten](https://wetten.overheid.nl/jci1.3:c:BWBR0028974);
-
-- **Bp 2000:** [Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982);
-
-- **Wg:** werkgever
-
-- **Zs:** zelfstandige
-
-- **Vv:** vervoerder
-
-| Feitcode | Overtreden bepaling | Omschrijving overtreding | Norm- adressaat | Boete in € | Direct beboetbaar bij transport inspectie |
-| --- | --- | --- | --- | --- | --- |
-| **1. REGISTRATIE EN BEWAARPLICHT** | **1. REGISTRATIE EN BEWAARPLICHT** | **1. REGISTRATIE EN BEWAARPLICHT** | **1. REGISTRATIE EN BEWAARPLICHT** | **1. REGISTRATIE EN BEWAARPLICHT** | **1. REGISTRATIE EN BEWAARPLICHT** |
-| A 4.3 (1) wg | [art. 4:3, eerste lid, Atw](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:3) | Het niet voeren van een deugdelijke registratie door een werkgever ter zake van de arbeids- en rusttijden welke het toezicht op de naleving van deze [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671) en de daarop berustende bepalingen mogelijk maakt | Werkgever | 2.100,– | Nee |
-| **A** 4.3 (1) zs | [Art. 4:3, eerste lid, Atw](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=4:3) | Het niet voeren van een deugdelijke registratie door een persoon als bedoeld in [art. 2:7, eerste lid, **Atw**](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=2:7) ter zake van de arbeids- en rusttijden welke het toezicht op de naleving van deze wet en de daarop berustende bepalingen mogelijk maakt | Zelfstandige | 1.300,– | Nee |
-| **2. BOORDCOMPUTER TAXI** | **2. BOORDCOMPUTER TAXI** | **2. BOORDCOMPUTER TAXI** | **2. BOORDCOMPUTER TAXI** | **2. BOORDCOMPUTER TAXI** | **2. BOORDCOMPUTER TAXI** |
-| B 2.4:2 (15) zs | [art. 2.4:2, eerste lid, Atbv](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.4:2) | Geen of incorrect gebruik gemaakt van het controlemiddel | Zelfstandige | 1.300,– | Ja |
-| B 2.4:2 (15) wg | [art. 2.4:2, eerste lid, Atbv](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.4:2) | Geen of incorrect gebruik gemaakt van het controlemiddel | Werkgever | 2.100,– | Ja |
-| B 2.4:2 (16) wg | [art. 2.4:2, tweede lid, Atbv](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.4:2) jo art. 18, eerste lid, RGBCT | Niet voldoen aan registratieverplichtingen vervoerder en bestuurder ingeval van storing dan wel wanneer het controlemiddel buiten gebruik is | Werkgever | 2.100,– | Ja |
-| B 2.4:2 | [art. 2.4:2, tweede lid, Atbv](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.4:2) jo [art. 18, eerste](https://wetten.overheid.nl/jci1.3:c:BWBR0028974&artikel=18) | Niet voldoen aan registratieverplichtingen | Zelfstandige | 1.300,– | Ja |
-| (16) zs | lid, [RGBCT](https://wetten.overheid.nl/jci1.3:c:BWBR0028974) | vervoerder en bestuurder ingeval van storing dan wel wanneer het controlemidddel buiten gebruik is |   |   |   |
-| **B**2.4:2 (17) vv | [art. 79, vierde lid, Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=79) en [art. 83b, tweede lid aanhef en onder c, Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=83). | Niet voldoen aan registratieverplichting vervoerder middels het controlemiddel | Vervoerder | 2.100,– | Ja |
-| B 2.4:2 (17) zs | [Art. 79, vierde lid, Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=79) en [art. 83b, tweede lid aanhef en onder c, Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=83b). | Niet voldoen aan registratieverplichting vervoerder middels het controlemiddel | Zelfstandige | 1.300,– | Ja |
-| B 2.4:2 (18) zs | [art. 80, vierde lid, Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=80), jo [art. 16, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028974&artikel=16) en [art. 19, eerste, tweede en derde lid, RGBCT](https://wetten.overheid.nl/jci1.3:c:BWBR0028974&artikel=19) | Niet overbrengen gegevens door vervoerder, zelfstandige en bestuurder | Zelfstandige | 450,– | Nee |
-| B 2.4:2 (18) | [art. 80, vierde lid, Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=80), jo [art. 16, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028974&artikel=16) en [art. 19, eerste, tweede en derde **lid,** RGBCT](https://wetten.overheid.nl/jci1.3:c:BWBR0028974&artikel=19) | Niet overbrengen gegevens door vervoerder, zelfstandige en bestuurder | Werkgever | 900,– | Nee |
-| B 2.4:2 (19) | [art. 83, achtste lid en onder b, Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=83) | Onjuist gebruik keuringskaart, i.v.m. [art. 10 Regeling erkenning werkplaatsen boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&artikel=10) | Erkenninghouder | 1.100,– | Ja |
-| **B**2.4:2 (20) | [art. 83, achtste lid en onder b, Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=83) | Onjuiste melding [art. 15, tweede lid RGBCT](https://wetten.overheid.nl/jci1.3:c:BWBR0028974&artikel=15) | Erkenninghouder | 500,– | Ja |
-| B 2.4:2 (21) | [art. 83, achtste lid en onder b, Bp 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=83) jo [art. 15, vierde lid, RGBCT](https://wetten.overheid.nl/jci1.3:c:BWBR0028974&artikel=15) | Niet terugsturen ingetrokken keuringskaart | Erkenninghouder | 500,– | Ja |
-| **3. ONVOLDOENDE DAGELIJKSE RUSTTIJD VAN MINDER DAN 10 UUR, INDIEN VERKORTING NIET IS TOEGESTAAN** | **3. ONVOLDOENDE DAGELIJKSE RUSTTIJD VAN MINDER DAN 10 UUR, INDIEN VERKORTING NIET IS TOEGESTAAN** | **3. ONVOLDOENDE DAGELIJKSE RUSTTIJD VAN MINDER DAN 10 UUR, INDIEN VERKORTING NIET IS TOEGESTAAN** | **3. ONVOLDOENDE DAGELIJKSE RUSTTIJD VAN MINDER DAN 10 UUR, INDIEN VERKORTING NIET IS TOEGESTAAN** | **3. ONVOLDOENDE DAGELIJKSE RUSTTIJD VAN MINDER DAN 10 UUR, INDIEN VERKORTING NIET IS TOEGESTAAN** | **3. ONVOLDOENDE DAGELIJKSE RUSTTIJD VAN MINDER DAN 10 UUR, INDIEN VERKORTING NIET IS TOEGESTAAN** |
-| B 2.5:1 (la) | [art. 2.5:1, zesde lid en onder a, Atbv](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.5:1) | Indien verkorting niet is toegestaan; dagelijkse rust minder dan 10 uur | Werkgever/ Zelfstandige | 100,– | Ja |
-| B 2.5:1 (2a) | [art. 2.5:1, zesde lid en onder a, Atbv](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.5:1) | Indien verkorting niet is toegestaan; dagelijkse rust minder dan 9 uur | Werkgever/ Zelfstandige | 200,– | Ja |
-| B 2.5:1 (3a) | [art. 2.5:1, zesde lid en onder a, Atbv](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.5:1) | Indien verkorting niet is toegestaan; dagelijkse rust minder dan 8 uur | Werkgever/ Zelfstandige | 550,– + 100,– per uur te kort | Ja |
-| **4. ONVOLDOENDE DAGELIJKSE RUSTTIJD VAN MINDER DAN 8 UUR, INDIEN VERKORTING IS TOEGESTAAN** | **4. ONVOLDOENDE DAGELIJKSE RUSTTIJD VAN MINDER DAN 8 UUR, INDIEN VERKORTING IS TOEGESTAAN** | **4. ONVOLDOENDE DAGELIJKSE RUSTTIJD VAN MINDER DAN 8 UUR, INDIEN VERKORTING IS TOEGESTAAN** | **4. ONVOLDOENDE DAGELIJKSE RUSTTIJD VAN MINDER DAN 8 UUR, INDIEN VERKORTING IS TOEGESTAAN** | **4. ONVOLDOENDE DAGELIJKSE RUSTTIJD VAN MINDER DAN 8 UUR, INDIEN VERKORTING IS TOEGESTAAN** | **4. ONVOLDOENDE DAGELIJKSE RUSTTIJD VAN MINDER DAN 8 UUR, INDIEN VERKORTING IS TOEGESTAAN** |
-| B 2.5:1 (4a) | [art. 2.5:1, zesde lid en onder a, Atbv](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.5:1) | Indien verkorting is toegestaan; dagelijkse rust minder dan 8 uur | Werkgever/ Zelfstandige | 100,– | Ja |
-| B 2.5:1 (6a) | [art. 2.5:1, zesde lid en onder a, Atbv](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.5:1) | Indien verkorting is toegestaan; dagelijkse rust minder dan 7 uur | Werkgever/ Zelfstandige | 550,– + 100,– per uur te kort | Ja |
-| **5. ONVOLDOENDE WEKELIJKSE RUSTTIJD VAN MINDER DAN 72 UUR** | **5. ONVOLDOENDE WEKELIJKSE RUSTTIJD VAN MINDER DAN 72 UUR** | **5. ONVOLDOENDE WEKELIJKSE RUSTTIJD VAN MINDER DAN 72 UUR** | **5. ONVOLDOENDE WEKELIJKSE RUSTTIJD VAN MINDER DAN 72 UUR** | **5. ONVOLDOENDE WEKELIJKSE RUSTTIJD VAN MINDER DAN 72 UUR** | **5. ONVOLDOENDE WEKELIJKSE RUSTTIJD VAN MINDER DAN 72 UUR** |
-| B 2.5:1 (16) T | [art. 2.5:1, zesde lid en onder b, Atbv](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.5:1) | Wekelijkse rust tussen de 72 en 36 uur. | Werkgever/ Zelfstandige | 75,– | Ja |
-| B 2.5:1 (17) T | [art. 2.5:1, zesde lid en onder b, Atbv](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.5:1) | Wekelijkse rust minder dan 36 uur. | Werkgever/ Zelfstandige | 150,– | Ja |
-| **6.PAUZE** | **6.PAUZE** | **6.PAUZE** | **6.PAUZE** | **6.PAUZE** | **6.PAUZE** |
-| B 2.5:6 (7) | [art. 2.5:6, eerste lid, Atbv](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.5:6) | Bestuurder handelt niet conform [art. 5.4, tweede en derde lid, Atw](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=5:4) (Pauze) | Werkgever/ Zelfstandige | 100,– | Ja |
-| **7. ARBEIDSTIJDEN** | **7. ARBEIDSTIJDEN** | **7. ARBEIDSTIJDEN** | **7. ARBEIDSTIJDEN** | **7. ARBEIDSTIJDEN** | **7. ARBEIDSTIJDEN** |
-| B 2.5:7 (1) | [art. 2.5:7, zesde lid, Atbv](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.5:7) | arbeidstijd van meer dan 60 uren per week, meer dan 12 uren per dienst of meer dan gemiddeld 48 uren per week in elke periode van 16 aaneengesloten weken. | Werkgever/ Zelfstandige | 200,– | N.V.T. |
-
-## Bijlage 2. Overtredingen waarvoor direct een bestuurlijke boete wordt opgelegd alsmede waarvoor eerst wordt gewaarschuwd (bijlage als bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052432&artikel=3&z=2026-03-18&g=2026-03-18), van de Beleidsregel boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (taxivervoer) 2026)
-
-Voor de toepassing van deze bijlage wordt verstaan onder:
-
-### Transportinspectie
-
-Bij een transportinspectie wordt voor de volgende overtredingen direct een bestuurlijke boete opgelegd:
-
-De overtredingen ter zake van rusttijden:
-
-De overtredingen ten aanzien van registratiemiddelen:
-
-Bij een transportinspectie wordt voor de volgende overtredingen eerst gewaarschuwd: De overtredingen ter zake van pauzenormen;
-
-De overtredingen ter zake van de wekelijkse rusttijd, indien cumulatie van het normbedrag, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052432&bijlage=1&z=2026-03-18&g=2026-03-18) van deze beleidsregel, leidt tot een KI of BI.
-
-### Bedrijfsinspectie
-
-Bij een bedrijfsinspectie worden de meest belangrijke inbreuken en de heel belangrijke inbreuken direct beboet bij een eerste bedrijfsinspectie. Voor de overige overtredingen wordt eerst een waarschuwing gegeven. Bij een tweede bedrijfsinspectie worden tevens de belangrijke inbreuken direct beboet, voor de kleine inbreuken wordt nog een waarschuwing gegeven. Vanaf een volgende bedrijfsinspectie worden alle overtredingen direct beboet.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

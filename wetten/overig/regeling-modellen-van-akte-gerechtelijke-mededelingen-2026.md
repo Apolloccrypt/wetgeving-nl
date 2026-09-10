@@ -1,18 +1,18 @@
 ---
-title: "Regeling modellen van akte gerechtelijke mededelingen 2026"
+title: "Regeling van de Minister van Justitie en Veiligheid van 13 maart 2026 nr. 6849024, houdende vaststelling van modellen van akte ten behoeve van de kennisgeving van gerechtelijke mededelingen 2026 (Regeling modellen van akte gerechtelijke mededelingen 2026)"
+citeertitel: "Regeling modellen van akte gerechtelijke mededelingen 2026"
 identifier: "BWBR0052474"
 categorie: "Overig"
+soort: "ministeriele-regeling"
 publicatiedatum: 2026-05-01
 laatste_update: 2026-05-01
 status: geldig
+toestand: 2026-05-01
 bron: "https://wetten.overheid.nl/BWBR0052474"
+opgehaald: 2026-09-10
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 13 maart 2026 nr. 6849024, houdende vaststelling van modellen van akte ten behoeve van de kennisgeving van gerechtelijke mededelingen 2026 (Regeling modellen van akte gerechtelijke mededelingen 2026)
-
-Gelet op de [artikelen 36h, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36h), en [36i, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=36i) en [artikel 3 van het Besluit kennisgeving gerechtelijke mededelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018895&artikel=3),
-
-Besluit:
 
 ### Hoofdstuk I. Digitale akten
 
@@ -28,9 +28,9 @@ Besluit:
 
 - a. ‘uitsturende autoriteit’; en
 
-- b. ‘nr. gerechtelijke mededeling’; en
+- b. ‘nr. gerechtelijke mededeling’; en
 
-- c. ‘nr. betekeningsopdracht’; en
+- c. ‘nr. betekeningsopdracht’; en
 
 - d. ‘betreft’; en
 
@@ -80,21 +80,21 @@ Indien sprake is van een zitting, worden de volgende bestanddelen opgenomen:
 
 - a. Hetzij bij uitreiking aan de geadresseerde, zijnde een natuurlijk persoon:
 
-  - 1°. ‘De brief is uitgereikt aan de geadresseerde.’
+   - 1°. ‘De brief is uitgereikt aan de geadresseerde.’
 
 - b. Hetzij bij uitreiking aan degene die is aangetroffen op het adres van de geadresseerde, niet zijnde de geadresseerde natuurlijke persoon:
 
-  - 1°. ‘De brief is uitgereikt aan een ander op het vermelde adres, die heeft toegezegd de brief onmiddellijk aan de geadresseerde te overhandigen.’
+   - 1°. ‘De brief is uitgereikt aan een ander op het vermelde adres, die heeft toegezegd de brief onmiddellijk aan de geadresseerde te overhandigen.’
 
 - c. Hetzij bij uitreiking aan de geadresseerde, zijnde een rechtspersoon:
 
-  - 1°. ‘De brief is uitgereikt aan een bestuurder van geadresseerde.’; hetzij
+   - 1°. ‘De brief is uitgereikt aan een bestuurder van geadresseerde.’; hetzij
 
-  - 2°. ‘De brief is uitgereikt aan een door geadresseerde gemachtigde persoon.’
+   - 2°. ‘De brief is uitgereikt aan een door geadresseerde gemachtigde persoon.’
 
 - d. Hetzij bij uitreiking aan degene die is aangetroffen op het adres van de geadresseerde, niet zijnde de bestuurder of een gemachtigde persoon van de geadresseerde rechtspersoon:
 
-  - 1°. ‘De brief is uitgereikt aan een werknemer van geadresseerde die zich bereid verklaart de brief te bezorgen aan de bestuurder of gemachtigde persoon van geadresseerde.’
+   - 1°. ‘De brief is uitgereikt aan een werknemer van geadresseerde die zich bereid verklaart de brief te bezorgen aan de bestuurder of gemachtigde persoon van geadresseerde.’
 
 2. Indien er is uitgereikt aan een ander dan de geadresseerde, wordt tevens opgenomen:
 
@@ -118,29 +118,29 @@ Indien sprake is van een zitting, worden de volgende bestanddelen opgenomen:
 
 - a. Hetzij bij een poging tot uitreiking aan een natuurlijk persoon:
 
-  - 1°. ‘Geadresseerde weigert de brief in ontvangst te nemen.’; hetzij
+   - 1°. ‘Geadresseerde weigert de brief in ontvangst te nemen.’; hetzij
 
-  - 2°. ‘Geadresseerde woont niet (meer) op het vermelde adres.’; hetzij
+   - 2°. ‘Geadresseerde woont niet (meer) op het vermelde adres.’; hetzij
 
-  - 3°. ‘Het is onduidelijk of het vermelde adres bestaat.’; hetzij
+   - 3°. ‘Het is onduidelijk of het vermelde adres bestaat.’; hetzij
 
-  - 4°. ‘Geadresseerde is niet aanwezig op het vermelde adres.’; hetzij
+   - 4°. ‘Geadresseerde is niet aanwezig op het vermelde adres.’; hetzij
 
-  - 5°. ‘Er is niemand aanwezig of bereid om de brief aan te nemen.’; hetzij
+   - 5°. ‘Er is niemand aanwezig of bereid om de brief aan te nemen.’; hetzij
 
-  - 6°. ‘Geadresseerde is niet aanwezig ondanks gemaakte afspraak.’.
+   - 6°. ‘Geadresseerde is niet aanwezig ondanks gemaakte afspraak.’.
 
 - b. Hetzij bij een poging tot uitreiking aan een rechtspersoon:
 
-  - 1°. ‘Bestuurder, gemachtigde of werknemer weigert de brief in ontvangst te nemen.’; hetzij
+   - 1°. ‘Bestuurder, gemachtigde of werknemer weigert de brief in ontvangst te nemen.’; hetzij
 
-  - 2°. ‘Geadresseerde is niet (meer) op het vermelde adres gevestigd.’; hetzij
+   - 2°. ‘Geadresseerde is niet (meer) op het vermelde adres gevestigd.’; hetzij
 
-  - 3°. ‘Het is onduidelijk of het vermelde adres bestaat.’; hetzij
+   - 3°. ‘Het is onduidelijk of het vermelde adres bestaat.’; hetzij
 
-  - 4°. ‘Er is niemand aanwezig op het vermelde adres.’; hetzij
+   - 4°. ‘Er is niemand aanwezig op het vermelde adres.’; hetzij
 
-  - 5°. ‘Er is niemand aanwezig ondanks gemaakte afspraak.’.
+   - 5°. ‘Er is niemand aanwezig ondanks gemaakte afspraak.’.
 
 2. Indien meerdere pogingen tot uitreiking zijn gedaan worden tevens de volgende bestanddelen opgenomen:
 
@@ -176,28 +176,8 @@ De [Regeling modellen van akte gerechtelijke mededelingen Hoge Raad](https://wet
 
 ##### Artikel 9. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 mei 2026.
+Deze regeling treedt in werking met ingang van 1 mei 2026.
 
 ##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling modellen van akte gerechtelijke mededelingen 2026.
-
-## Bijlage 1
-
-## Bijlage 2
-
-## Bijlage 3
-
-## Bijlage 4
-
-## Bijlage 5
-
-## Bijlage 6
-
-## Bijlage 7
-
-## Bijlage 8
-
-## Bijlage 9
-
-Deze regeling zal met toelichting in de Staatscourant worden geplaatst.

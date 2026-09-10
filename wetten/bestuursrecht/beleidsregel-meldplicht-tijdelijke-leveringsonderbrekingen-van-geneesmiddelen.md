@@ -1,56 +1,30 @@
 ---
 title: "Beleidsregel van de Minister van Volksgezondheid, Welzijn en Sport van 1 december 2025, kenmerk 4299709-1091532-GMT, over de meldplicht tijdelijke leveringsonderbrekingen van geneesmiddelen (Beleidsregel meldplicht tijdelijke leveringsonderbrekingen van geneesmiddelen)"
+citeertitel: "Beleidsregel meldplicht tijdelijke leveringsonderbrekingen van geneesmiddelen"
 identifier: "BWBR0052168"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2026-04-01"
-last_updated: "2026-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052168"
+categorie: "Gezondheidszorg"
 soort: "beleidsregel"
-stam_id: "17730843"
-version_id: "31290012"
-internal_id: "C44736201"
-label_id: "17629374"
-dtd_version: "2.0"
-original_entry_into_force: "2026-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052168/2026-04-01/0"
-intitule_bron: "Stcrt.2025-42045"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-12-01"
-intitule_published: "2025-12-05"
-intitule_in_force: "2025-12-05"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-42045"
-original_signed_date: "2025-12-01"
-original_published_date: "2025-12-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-42045"
-entry_into_force_date: "2026-04-01"
-jci_1_3: "jci1.3:c:BWBR0052168&z=2026-04-01&g=2026-04-01"
-jci_1_0: "1.0:c:BWBR0052168&g=2026-04-01"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel meldplicht tijdelijke leveringsonderbrekingen van geneesmiddelen"
-signed_date: "2025-12-01"
-entry_into_force: "2026-04-01"
+publicatiedatum: 2026-04-01
+laatste_update: 2026-04-01
+status: geldig
+toestand: 2026-04-01
+bron: "https://wetten.overheid.nl/BWBR0052168"
+opgehaald: 2026-09-10
 ---
+
 # Beleidsregel van de Minister van Volksgezondheid, Welzijn en Sport van 1 december 2025, kenmerk 4299709-1091532-GMT, over de meldplicht tijdelijke leveringsonderbrekingen van geneesmiddelen (Beleidsregel meldplicht tijdelijke leveringsonderbrekingen van geneesmiddelen)
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [artikel 49, zevende lid, onderdeel a, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=49).
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In aanvulling op [artikel 1, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) wordt in deze beleidsregel verstaan onder:
 
-- **afnemer:** groothandelaren wanneer geneesmiddelen via diens groothandelsactiviteiten bij de apotheek komen, een apotheek wanneer geneesmiddelen door de handelsvergunninghouder direct worden afgeleverd aan de apotheek zonder tussenkomst van groothandelaren, of anderen die bevoegd zijn om geneesmiddelen ter hand te stellen;
+- *afnemer:* groothandelaren wanneer geneesmiddelen via diens groothandelsactiviteiten bij de apotheek komen, een apotheek wanneer geneesmiddelen door de handelsvergunninghouder direct worden afgeleverd aan de apotheek zonder tussenkomst van groothandelaren, of anderen die bevoegd zijn om geneesmiddelen ter hand te stellen;
 
-- **inspectie:** Inspectie Gezondheidszorg en Jeugd;
+- *inspectie:* Inspectie Gezondheidszorg en Jeugd;
 
-- **meldpunt:** het Meldpunt Geneesmiddelentekorten en -defecten;
+- *meldpunt:* het Meldpunt Geneesmiddelentekorten en -defecten;
 
-- **registratienummer:** een door het College toegekend Register Verpakte Geneesmiddelen (RVG)-nummer of een door het Bureau toegekend registratienummer (EU-).
+- *registratienummer:* een door het College toegekend Register Verpakte Geneesmiddelen (RVG)-nummer of een door het Bureau toegekend registratienummer (EU-).
 
 ##### Artikel 2. Reikwijdte
 
@@ -90,6 +64,4 @@ Deze beleidsregel wordt aangehaald als: Beleidsregel meldplicht tijdelijke lever
 
 ##### Artikel 6. Inwerkingtreding
 
-Deze beleidsregel treedt in werking met ingang van 1 april 2026.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
+Deze beleidsregel treedt in werking met ingang van 1 april 2026.

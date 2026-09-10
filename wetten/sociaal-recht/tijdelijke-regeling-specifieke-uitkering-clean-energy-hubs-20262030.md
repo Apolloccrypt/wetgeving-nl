@@ -1,40 +1,40 @@
 ---
-title: "Tijdelijke regeling specifieke uitkering Clean Energy Hubs 2026–2030"
+title: "Tijdelijke Regeling van de Minister van Infrastructuur en Waterstaat van 23 april 2026, nr. IENW/BSK-2026/68755, houdende regels voor het verstrekken van een specifieke uitkering ter stimulering van de realisatie van Clean Energy Hubs (Tijdelijke regeling specifieke uitkering Clean Energy Hubs 2026–2030) [KetenID WGK028222]"
+citeertitel: "Tijdelijke regeling specifieke uitkering Clean Energy Hubs 2026–2030"
 identifier: "BWBR0052580"
 categorie: "Sociaal recht"
+soort: "ministeriele-regeling"
 publicatiedatum: 2026-05-01
 laatste_update: 2026-05-01
 status: geldig
+toestand: 2026-05-01
 bron: "https://wetten.overheid.nl/BWBR0052580"
+opgehaald: 2026-09-10
 ---
 
 # Tijdelijke Regeling van de Minister van Infrastructuur en Waterstaat van 23 april 2026, nr. IENW/BSK-2026/68755, houdende regels voor het verstrekken van een specifieke uitkering ter stimulering van de realisatie van Clean Energy Hubs (Tijdelijke regeling specifieke uitkering Clean Energy Hubs 2026–2030) [KetenID WGK028222]
-
-Gelet op de [artikelen 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4), en [5, onderdelen a tot en met h, van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5) en [artikel 2, derde lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2);
-
-BESLUIT:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **Clean Energy Hub:** een openbaar toegankelijke tank-, laad- of bunkerfaciliteit voor de weg of binnenvaart die minimaal één hernieuwbare brandstof en minimaal één zero-emissie energiedrager aanbiedt;
+- *Clean Energy Hub:* een openbaar toegankelijke tank-, laad- of bunkerfaciliteit voor de weg of binnenvaart die minimaal één hernieuwbare brandstof en minimaal één zero-emissie energiedrager aanbiedt;
 
-- **compensabele btw:** verschuldigde omzetbelasting die op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) in aanmerking komt voor compensatie;
+- *compensabele btw:* verschuldigde omzetbelasting die op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) in aanmerking komt voor compensatie;
 
-- **goederenvervoer corridorprovincie:** Limburg, Noord-Brabant, Zeeland, Zuid-Holland, Noord-Holland en Gelderland;
+- *goederenvervoer corridorprovincie:* Limburg, Noord-Brabant, Zeeland, Zuid-Holland, Noord-Holland en Gelderland;
 
-- **learning community:** samenwerkingsverband waarin het Ministerie van Infrastructuur en Waterstaat, de goederenvervoer corridorprovincies en de niet-goederenvervoer corridorprovincies samenwerken aan de uitrol van Clean Energy Hubs;
+- *learning community:* samenwerkingsverband waarin het Ministerie van Infrastructuur en Waterstaat, de goederenvervoer corridorprovincies en de niet-goederenvervoer corridorprovincies samenwerken aan de uitrol van Clean Energy Hubs;
 
-- **niet-goederenvervoer corridorprovincie:** Utrecht, Flevoland, Overijssel, Drenthe, Groningen en Friesland;
+- *niet-goederenvervoer corridorprovincie:* Utrecht, Flevoland, Overijssel, Drenthe, Groningen en Friesland;
 
-- **minister:** Minister van Infrastructuur en Waterstaat;
+- *minister:* Minister van Infrastructuur en Waterstaat;
 
-- **verrekenbare btw:** verschuldigde omzetbelasting die op grond van de [Wet op de Omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) in aanmerking komt voor verrekening;
+- *verrekenbare btw:* verschuldigde omzetbelasting die op grond van de [Wet op de Omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629) in aanmerking komt voor verrekening;
 
-- **voertuigcategorie:** voertuigcategorie als bedoeld in [Verordening (EU) 2018/858](32018R0858);
+- *voertuigcategorie:* voertuigcategorie als bedoeld in Verordening (EU) 2018/858;
 
-- **zwaar wegtransport:** voertuigen met een toegestane maximummassa van meer dan 3.500 kg, die vallen onder de voertuigcategorieën M2, M3, N2 en N3.
+- *zwaar wegtransport:* voertuigen met een toegestane maximummassa van meer dan 3.500 kg, die vallen onder de voertuigcategorieën M2, M3, N2 en N3.
 
 ##### Artikel 2. Toepasselijkheid Kaderbesluit subsidies I en M
 
@@ -68,19 +68,19 @@ Deze regeling heeft tot doel provincies te stimuleren de realisatie van Clean En
 
 ##### Artikel 6. Uitkeringsplafond, hoogte en wijze van verdeling
 
-1. Het uitkeringsplafond bedraagt € 20.790.000, inclusief compensabele btw.
+1. Het uitkeringsplafond bedraagt € 20.790.000, inclusief compensabele btw.
 
-2. De minister verdeelt het bedrag tussen de goederenvervoer corridorprovincies en de niet-goederenvervoer corridorprovincies, waarbij maximaal € 2.000.000 per goederenvervoer corridorprovincie beschikbaar is en maximaal € 1.361.050 per niet-goederenvervoer corridorprovincie voor de gehele looptijd van deze regeling.
+2. De minister verdeelt het bedrag tussen de goederenvervoer corridorprovincies en de niet-goederenvervoer corridorprovincies, waarbij maximaal € 2.000.000 per goederenvervoer corridorprovincie beschikbaar is en maximaal € 1.361.050 per niet-goederenvervoer corridorprovincie voor de gehele looptijd van deze regeling.
 
 3. Met betrekking tot de uitvoering van de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052580&artikel=4&z=2026-05-01&g=2026-05-01), genoemde activiteiten is sprake van een cofinanciering door de provincies van 50%.
 
-4. In aanvulling op het tweede lid bedraagt de uitkering voor de goederenvervoer corridorprovincie Gelderland naast het maximale bedrag, genoemd in het tweede lid, een bedrag van € 623.700 voor de activiteiten, genoemd in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052580&artikel=4&z=2026-05-01&g=2026-05-01), en de kosten, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052580&artikel=5&z=2026-05-01&g=2026-05-01).
+4. In aanvulling op het tweede lid bedraagt de uitkering voor de goederenvervoer corridorprovincie Gelderland naast het maximale bedrag, genoemd in het tweede lid, een bedrag van € 623.700 voor de activiteiten, genoemd in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052580&artikel=4&z=2026-05-01&g=2026-05-01), en de kosten, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052580&artikel=5&z=2026-05-01&g=2026-05-01).
 
 ##### Artikel 7. Aanvraag
 
 1. De minister kan op aanvraag een uitkering verstrekken.
 
-2. Een aanvraag kan worden ingediend in de periode van 1 mei 2026, 9:00 uur, tot en met 31 december 2026, 12:00 uur.
+2. Een aanvraag kan worden ingediend in de periode van 1 mei 2026, 9:00 uur, tot en met 31 december 2026, 12:00 uur.
 
 3. Een aanvraag bevat in ieder geval de volgende gegevens:
 
@@ -116,7 +116,7 @@ Deze regeling heeft tot doel provincies te stimuleren de realisatie van Clean En
 
 1. Ontvangers met hoofdvaarwegen, te weten alle provincies met uitzondering van Drenthe, dienen ten minste 50% van het uitkeringsplafond in te zetten voor de realisatie van openbaar toegankelijke Clean Energy Hubs ten behoeve van verduurzaming van de binnenvaart.
 
-2. Indien de uitkering op 1 juni 2028 nog niet volledig is benut, kan een ontvanger dit gedeelte van de uitkering, in afwijking van het eerste lid, alsnog ook inzetten voor de realisatie van openbaar toegankelijke Clean Energy Hubs ten behoeve van de verduurzaming van zwaar wegtransport.
+2. Indien de uitkering op 1 juni 2028 nog niet volledig is benut, kan een ontvanger dit gedeelte van de uitkering, in afwijking van het eerste lid, alsnog ook inzetten voor de realisatie van openbaar toegankelijke Clean Energy Hubs ten behoeve van de verduurzaming van zwaar wegtransport.
 
 ##### Artikel 10. Bevoorschotting en betaling
 
@@ -130,7 +130,7 @@ Gelijktijdig met de beschikking tot verlening van de uitkering verleent de minis
 
 ##### Artikel 12. Vaststelling
 
-1. De minister stelt de uitkering vast op 31 december van het jaar waarin de laatste verantwoording, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0052580&artikel=11&z=2026-05-01&g=2026-05-01), heeft plaatsgevonden.
+1. De minister stelt de uitkering vast op 31 december van het jaar waarin de laatste verantwoording, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0052580&artikel=11&z=2026-05-01&g=2026-05-01), heeft plaatsgevonden.
 
 2. De uitkering kan op een lager bedrag worden vastgesteld, indien:
 
@@ -144,12 +144,10 @@ Gelijktijdig met de beschikking tot verlening van de uitkering verleent de minis
 
 ##### Artikel 13. Inwerkingtreding en horizonbepaling
 
-1. Deze regeling treedt in werking met ingang van 1 mei 2026.
+1. Deze regeling treedt in werking met ingang van 1 mei 2026.
 
-2. Deze regeling vervalt op 1 mei 2031, met dien verstande dat zij van toepassing blijft op uitkeringen die voor die datum zijn aangevraagd, verleend of vastgesteld.
+2. Deze regeling vervalt op 1 mei 2031, met dien verstande dat zij van toepassing blijft op uitkeringen die voor die datum zijn aangevraagd, verleend of vastgesteld.
 
 ##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke regeling specifieke uitkering Clean Energy Hubs 2026–2030.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

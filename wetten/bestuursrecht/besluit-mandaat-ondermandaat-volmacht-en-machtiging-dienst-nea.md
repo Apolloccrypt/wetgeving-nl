@@ -1,15 +1,15 @@
 ---
 title: "Besluit van het bestuur van de Nederlandse Emissieautoriteit van 11 november 2021, houdende de verlening van mandaat, ondermandaat, volmacht en machtiging voor de directeur-bestuurder en de functionarissen van de Nederlandse Emissieautoriteit (Besluit mandaat, ondermandaat, volmacht en machtiging Dienst NEa)"
-citeertitel: "Besluit mandaat, ondermandaat, volmacht en machtiging Dienst NEa"
+citeertitel: "Besluit mandaat, ondermandaat, volmacht en machtiging dienst NEa"
 identifier: "BWBR0045879"
 categorie: "Bestuursrecht"
 soort: "zbo"
 publicatiedatum: 2021-11-24
-laatste_update: 2025-11-21
+laatste_update: 2026-09-10
 status: geldig
-toestand: 2025-11-21
+toestand: 2026-09-10
 bron: "https://wetten.overheid.nl/BWBR0045879"
-opgehaald: 2026-09-01
+opgehaald: 2026-09-10
 ---
 
 # Besluit van het bestuur van de Nederlandse Emissieautoriteit van 11 november 2021, houdende de verlening van mandaat, ondermandaat, volmacht en machtiging voor de directeur-bestuurder en de functionarissen van de Nederlandse Emissieautoriteit (Besluit mandaat, ondermandaat, volmacht en machtiging Dienst NEa)
@@ -20,17 +20,25 @@ opgehaald: 2026-09-01
 
 In dit besluit wordt verstaan onder:
 
-- a. *afdelingshoofden:* de afdelingshoofden van de Dienst Nederlandse Emissieautoriteit;
+- a. *afdelingshoofden:* de afdelingshoofden van de dienst NEa;
 
 - b. *bedrag:* het bedrag inclusief de verschuldigde omzetbelasting (BTW);
 
-- c. *bestuur:* het bestuur van de Nederlandse Emissieautoriteit;
+- c. *bestuur:* het bestuur van de NEa;
 
-- d. *directeur-bestuurder:* de directeur-bestuurder van de Nederlandse Emissieautoriteit;
+- d. *directeur-bestuurder:* de directeur-bestuurder van de NEa;
 
-- e. *P&O-aangelegenheden:* aangelegenheden op het gebied van personeel, organisatie en formatie en het daarmee samenhangende budget;
+- e. *dienst NEa:* de buitendienst NEa die bestaat uit ambtenaren die het bestuur ondersteunen in de uitvoering van de wettelijk toegekende en de gemandateerde taken;
 
-- f. *teammanagers:* de teammanagers van de Dienst Nederlandse Emissieautoriteit.
+- f. *f. NEa:* de Nederlandse Emissieautoriteit;
+
+- g. *g. P&O-aangelegenheden:* de aangelegenheden op het gebied van personeel, organisatie en formatie en het daarmee samenhangende budget;
+
+- h. *plaatsvervangend directeur:* de plaatsvervangend directeur van de dienst NEa;
+
+- i. *teammanagers:* de teammanagers van de dienst NEa;
+
+- j. *voorzitter:* de voorzitter van het bestuur.
 
 #### § 2. Taakverdeling
 
@@ -38,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 1. Aan de afdelingshoofden wordt, ieder voor zich, mandaat, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op hun werkterrein, met uitzondering van de P&O-aangelegenheden, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 143.000 niet te boven gaat.
 
-2. Aan de afdelingshoofden wordt tevens, ieder voor zich, voor de onder hen ressorterende medewerkers volmacht en machtiging verleend voor:
+2. Onverkort het eerste lid, wordt aan de afdelingshoofden, ieder voor zich, voor de onder hen ressorterende medewerkers volmacht en machtiging verleend voor:
 
 - a. het verlenen van verlof en kort buitengewoon verlof;
 
@@ -100,7 +108,11 @@ medewerkers, volmacht en machtiging verleend voor:
 
 ##### Artikel 3
 
-Aan de directeur-bestuurder wordt mandaat, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op het werkterrein van de Nederlandse Emissieautoriteit, waaronder begrepen de P&O-aangelegenheden van de Dienst Nederlandse Emissieautoriteit.
+1. Aan de directeur-bestuurder wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden waarvoor een minister mandaat, volmacht of machtiging heeft verleend aan het bestuur.
+
+2. Onverkort het bepaalde in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045879&paragraaf=2&artikel=2&z=2026-09-10&g=2026-09-10) en [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0045879&paragraaf=2&artikel=2b&z=2026-09-10&g=2026-09-10), wordt aan de directeur-bestuurder mandaat, volmacht en machtiging verleend voor P&O-aangelegenheden van de dienst NEa.
+
+3. Aan de directeur-bestuurder wordt machtiging verleend om de door het bestuur genomen besluiten te ondertekenen.
 
 ##### Artikel 4
 
@@ -116,7 +128,9 @@ Aan het bestuur is voorbehouden: het nemen van besluiten, het verrichten van pri
 
 1. De uit dit besluit voor de afdelingshoofden voortvloeiende bevoegdheden gaan in geval van hun afwezigheid over op de overige afdelingshoofden.
 
-2. De uit dit besluit voor de directeur-bestuurder voortvloeiende bevoegdheden gaan in zijn afwezigheid over op een door hem aan te wijzen afdelingshoofd.
+2. De bevoegdheden van de directeur-bestuurder op grond van [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045879&paragraaf=2&artikel=3&z=2026-09-10&g=2026-09-10), gaan in geval van zijn afwezigheid over op de plaatsvervangend directeur.
+
+3. De bevoegdheid van de directeur-bestuurder om besluiten van het bestuur te ondertekenen bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045879&paragraaf=2&artikel=3&z=2026-09-10&g=2026-09-10), gaat in geval van zijn afwezigheid over op de voorzitter.
 
 #### § 4. Slotbepalingen
 

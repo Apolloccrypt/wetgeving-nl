@@ -1,43 +1,18 @@
 ---
 title: "Beleidsregel van het Commissariaat voor de Media over de procedure tot aanwijzing van lokale publieke media-instellingen (Beleidsregel aanwijzingsprocedure lokale publieke media-instellingen 2025)"
+citeertitel: "Beleidsregel aanwijzingsprocedure lokale publieke media-instellingen 2025"
 identifier: "BWBR0052024"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-12-25"
-last_updated: "2025-12-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052024"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17694023"
-version_id: "31223682"
-internal_id: "C44659891"
-label_id: "17593234"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052024/2025-12-25/0"
-intitule_bron: "Stcrt.2025-44440"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2025-12-24"
-intitule_in_force: "2025-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-44440"
-original_published_date: "2025-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-44440"
-entry_into_force_date: "2025-12-25"
-jci_1_3: "jci1.3:c:BWBR0052024&z=2025-12-25&g=2025-12-25"
-jci_1_0: "1.0:c:BWBR0052024&g=2025-12-25"
-citeertitel_status: "officieel"
-short_title: "Beleidsregel aanwijzingsprocedure lokale publieke media-instellingen 2025"
-entry_into_force: "2025-12-25"
+publicatiedatum: 2025-12-25
+laatste_update: 2025-12-25
+status: geldig
+toestand: 2025-12-25
+bron: "https://wetten.overheid.nl/BWBR0052024"
+opgehaald: 2026-09-10
 ---
+
 # Beleidsregel van het Commissariaat voor de Media over de procedure tot aanwijzing van lokale publieke media-instellingen (Beleidsregel aanwijzingsprocedure lokale publieke media-instellingen 2025)
-
-Gelet op de [artikelen 2.61 tot en met 2.69 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.61), de [artikelen 5 tot en met 9 van de Mediaregeling 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025040&artikel=5) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81),
-
-Gelet op het wetsvoorstel tot wijziging van de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028) in verband met de versterking van de uitvoering van de publieke mediaopdracht op lokaal niveau,
-
-Besluit:
 
 ### I. Begripsbepalingen
 
@@ -45,33 +20,33 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder:
 
-- a. **wet:** de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028);
+- a. *wet:* de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028);
 
-- b. **besluit:** het [Mediabesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025036);
+- b. *besluit:* het [Mediabesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025036);
 
-- c. **regeling:** de [Mediaregeling 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025040);
+- c. *regeling:* de [Mediaregeling 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025040);
 
-- d. **het Commissariaat:** het Commissariaat voor de Media;
+- d. *het Commissariaat:* het Commissariaat voor de Media;
 
-- e. **aanvraag:** de aanvraag voor een aanwijzing als bedoeld in [artikel 2.65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.65);
+- e. *aanvraag:* de aanvraag voor een aanwijzing als bedoeld in [artikel 2.65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.65);
 
-- f. **aanwijzingsperiode:** een periode van vijf jaar als bedoeld in [artikel 2.65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.65);
+- f. *aanwijzingsperiode:* een periode van vijf jaar als bedoeld in [artikel 2.65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.65);
 
-- g. **aanwijzingsprocedure:** de gehele procedure van aanwijzing van een lokale publieke media-instelling voor de verzorging van de publieke mediadiensten op lokaal niveau als bedoeld in [artikel 2.61, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.61);
+- g. *aanwijzingsprocedure:* de gehele procedure van aanwijzing van een lokale publieke media-instelling voor de verzorging van de publieke mediadiensten op lokaal niveau als bedoeld in [artikel 2.61, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.61);
 
-- h. **gebiedsuitbreiding:** aanwijzing van een lokale publieke media-instelling in meer gemeenten dan waarvoor de lokale publieke media-instelling reeds was aangewezen;
+- h. *gebiedsuitbreiding:* aanwijzing van een lokale publieke media-instelling in meer gemeenten dan waarvoor de lokale publieke media-instelling reeds was aangewezen;
 
-- i. **fusie:** het samengaan van lokale publieke media-instellingen, die voorheen zelfstandig waren, tot één media-instelling;
+- i. *fusie:* het samengaan van lokale publieke media-instellingen, die voorheen zelfstandig waren, tot één media-instelling;
 
-- j. **pbo:** het programmabeleid bepalend orgaan als bedoeld in [artikel 2.61, tweede lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.61);
+- j. *pbo:* het programmabeleid bepalend orgaan als bedoeld in [artikel 2.61, tweede lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.61);
 
-- k. **wijziging van de gemeentelijke indeling:** instelling en opheffing van gemeenten alsmede wijziging van gemeentegrenzen die naar verwachting het inwonertal van ten minste één van de betrokken gemeenten met 10% of meer zal doen toe- of afnemen;
+- k. *wijziging van de gemeentelijke indeling:* instelling en opheffing van gemeenten alsmede wijziging van gemeentegrenzen die naar verwachting het inwonertal van ten minste één van de betrokken gemeenten met 10% of meer zal doen toe- of afnemen;
 
-- l. **lichte samenvoeging:** samenvoeging van gemeenten, waarbij één of meerdere gemeenten opgaan in een gemeente die niet wordt opgeheven;
+- l. *lichte samenvoeging:* samenvoeging van gemeenten, waarbij één of meerdere gemeenten opgaan in een gemeente die niet wordt opgeheven;
 
-- m. **grenscorrectie:** een wijziging van een gemeentegrens die naar verwachting het inwonertal van geen van de betrokken gemeenten met 10% of meer zal doen toe- of afnemen;
+- m. *grenscorrectie:* een wijziging van een gemeentegrens die naar verwachting het inwonertal van geen van de betrokken gemeenten met 10% of meer zal doen toe- of afnemen;
 
-- n. **hernieuwde aanwijzing:** aanwijzing van een lokale publieke media-instelling voor een aanwijzingsperiode aansluitend op de voorgaande aanwijzingsperiode in de gemeente(n), waarvoor de lokale publieke media-instelling reeds is aangewezen.
+- n. *hernieuwde aanwijzing:* aanwijzing van een lokale publieke media-instelling voor een aanwijzingsperiode aansluitend op de voorgaande aanwijzingsperiode in de gemeente(n), waarvoor de lokale publieke media-instelling reeds is aangewezen.
 
 ### II. Aanvragen algemeen
 
@@ -153,11 +128,11 @@ Stukken die in aanvulling of ter wijziging van de initiële aanvraag buiten het 
 
 2. Bij de beoordeling van het criterium genoemd in het eerste lid, sub c, dient de gemeenteraad in ieder geval te beoordelen of:
 
-- •. de belangrijkste maatschappelijke, culturele, geestelijke en godsdienstige stromingen binnen de desbetreffende gemeente vertegenwoordigd zijn binnen het pbo;
+- • de belangrijkste maatschappelijke, culturele, geestelijke en godsdienstige stromingen binnen de desbetreffende gemeente vertegenwoordigd zijn binnen het pbo;
 
-- •. de pbo-leden afgevaardigden zijn van instellingen of organisaties die actief zijn binnen de stroming die het desbetreffende pbo-lid vertegenwoordigt;
+- • de pbo-leden afgevaardigden zijn van instellingen of organisaties die actief zijn binnen de stroming die het desbetreffende pbo-lid vertegenwoordigt;
 
-- •. ieder lid maximaal één van die stromingen vertegenwoordigt.
+- • ieder lid maximaal één van die stromingen vertegenwoordigt.
 
 3. Bij het uitbrengen van het advies aan het Commissariaat, dient de gemeenteraad mee te sturen:
 

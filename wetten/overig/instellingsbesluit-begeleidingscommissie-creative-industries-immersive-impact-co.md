@@ -1,58 +1,34 @@
 ---
 title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 13 maart 2026, nr. 62201047, houdende de instelling van de Begeleidingscommissie Creative Industries Immersive Impact Coalition (CIIIC) (Instellingsbesluit Begeleidingscommissie Creative Industries Immersive Impact Coalition (CIIIC))"
+citeertitel: "Instellingsbesluit Begeleidingscommissie Creative Industries Immersive Impact Coalition (CIIIC)"
 identifier: "BWBR0052491"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-04"
-last_updated: "2026-04-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052491"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "17825683"
-version_id: "31510472"
-internal_id: "C44995831"
-label_id: "17722924"
-dtd_version: "2.0"
-original_entry_into_force: "2026-04-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052491/2026-04-04/0"
-intitule_bron: "Stcrt.2026-12533"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2026-03-13"
-intitule_published: "2026-04-02"
-intitule_in_force: "2026-04-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-12533"
-original_signed_date: "2026-03-13"
-original_published_date: "2026-04-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-12533"
-entry_into_force_date: "2026-04-04"
-jci_1_3: "jci1.3:c:BWBR0052491&z=2026-04-04&g=2026-04-04"
-jci_1_0: "1.0:c:BWBR0052491&g=2026-04-04"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Begeleidingscommissie Creative Industries Immersive Impact Coalition (CIIIC)"
-signed_date: "2026-03-13"
-entry_into_force: "2026-04-04"
+publicatiedatum: 2026-04-04
+laatste_update: 2026-04-04
+status: geldig
+toestand: 2026-04-04
+bron: "https://wetten.overheid.nl/BWBR0052491"
+opgehaald: 2026-09-10
 ---
-# Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 13 maart 2026, nr. 62201047, houdende de instelling van de Begeleidingscommissie Creative Industries Immersive Impact Coalition (CIIIC) (Instellingsbesluit Begeleidingscommissie Creative Industries Immersive Impact Coalition (CIIIC))
 
-Besluit:
+# Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 13 maart 2026, nr. 62201047, houdende de instelling van de Begeleidingscommissie Creative Industries Immersive Impact Coalition (CIIIC) (Instellingsbesluit Begeleidingscommissie Creative Industries Immersive Impact Coalition (CIIIC))
 
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-- a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap (OCW);
+- a. *minister:* Minister van Onderwijs, Cultuur en Wetenschap (OCW);
 
-- b. **Begeleidingscommissie:** Begeleidingscommissie, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052491&artikel=2&z=2026-04-04&g=2026-04-04);
+- b. *Begeleidingscommissie:* Begeleidingscommissie, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052491&artikel=2&z=2026-04-04&g=2026-04-04);
 
-- c. **uitvoerende organisaties:** Nederlandse Organisatie voor Wetenschappelijk Onderzoek/Regieorgaan SIA (NWO), Stimuleringsfonds Creatieve Industrie (SCI), Nederlandse organisatie voor toegepast-natuurwetenschappelijk onderzoek (TNO), Rijksdienst voor Ondernemend Nederland (RvO) en Topconsortium voor kennis en innovatie CLICKNL;
+- c. *uitvoerende organisaties:* Nederlandse Organisatie voor Wetenschappelijk Onderzoek/Regieorgaan SIA (NWO), Stimuleringsfonds Creatieve Industrie (SCI), Nederlandse organisatie voor toegepast-natuurwetenschappelijk onderzoek (TNO), Rijksdienst voor Ondernemend Nederland (RvO) en Topconsortium voor kennis en innovatie CLICKNL;
 
-- d. **programmadirecteur:** de door CLICKNL aangestelde programmadirecteur, genoemd in de beschrijving van de bestuurlijke structuur zoals die gepubliceerd is op [www.rijksoverheid.nl](http://www.rijksoverheid.nl) en [www.ciiic.nl](http://www.ciiic.nl);
+- d. *programmadirecteur:* de door CLICKNL aangestelde programmadirecteur, genoemd in de beschrijving van de bestuurlijke structuur zoals die gepubliceerd is op [www.rijksoverheid.nl](http://www.rijksoverheid.nl) en [www.ciiic.nl](http://www.ciiic.nl);
 
-- e. **programmateam:** het programmateam, bedoeld in de beschrijving van de bestuurlijke structuur;
+- e. *programmateam:* het programmateam, bedoeld in de beschrijving van de bestuurlijke structuur;
 
-- f. **adviesraad:** de adviesraad, bedoeld in de beschrijving van de bestuurlijke structuur.
+- f. *adviesraad:* de adviesraad, bedoeld in de beschrijving van de bestuurlijke structuur.
 
 ##### Artikel 2
 
@@ -171,5 +147,3 @@ Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Begeleidingscommissie Creative Industries Immersive Impact Coalition (CIIIC).
-
-Dit besluit zal in de Staatscourant worden geplaatst.

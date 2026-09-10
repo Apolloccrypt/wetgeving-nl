@@ -1,72 +1,42 @@
 ---
 title: "Besluit van de Staatssecretaris Langdurige en Maatschappelijke Zorg, van 12 januari 2026, 4299382-1091493-DMO, houdende de vaststelling van regels betreffende het toekennen van het Valys Standaard Persoonlijk Kilometerbudget voor aanvragers zonder bewijsdocument"
+citeertitel: "Indicatieprotocol Valys Standaard Persoonlijk Kilometerbudget (PKB) zonder bewijsdocument (Valys-vervoer)"
 identifier: "BWBR0052201"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2026-01-23"
-last_updated: "2026-01-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052201"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "17737003"
-version_id: "31340362"
-internal_id: "C44791091"
-label_id: "17635404"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052201/2026-01-23/0"
-intitule_bron: "Stcrt.2026-1501"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2026-01-12"
-intitule_published: "2026-01-22"
-intitule_in_force: "2026-01-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-1501"
-original_signed_date: "2026-01-12"
-original_published_date: "2026-01-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-1501"
-entry_into_force_date: "2026-01-23"
-jci_1_3: "jci1.3:c:BWBR0052201&z=2026-01-23&g=2026-01-23"
-jci_1_0: "1.0:c:BWBR0052201&g=2026-01-23"
-citeertitel_status: "officieel"
-short_title: "Indicatieprotocol Valys Standaard Persoonlijk Kilometerbudget (PKB) zonder bewijsdocument (Valys-vervoer)"
-signed_date: "2026-01-12"
-entry_into_force: "2026-01-23"
+publicatiedatum: 2026-01-23
+laatste_update: 2026-01-23
+status: geldig
+toestand: 2026-01-23
+bron: "https://wetten.overheid.nl/BWBR0052201"
+opgehaald: 2026-09-10
 ---
+
 # Besluit van de Staatssecretaris Langdurige en Maatschappelijke Zorg, van 12 januari 2026, 4299382-1091493-DMO, houdende de vaststelling van regels betreffende het toekennen van het Valys Standaard Persoonlijk Kilometerbudget voor aanvragers zonder bewijsdocument
-
-gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [artikel 13 van de Mandaatregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&artikel=13),
-
-namens de Minister van Volksgezondheid, Welzijn en Sport, en voor de uitvoering van Argonaut
-
-Advies B.V.,
-
-besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
-- •. **Valys-taxivervoer:** bovenregionaal sociaal-recreatief taxivervoer (meer dan 25 kilometer of vijf OV-zones in Nederland) voor mensen met een mobiliteitsbeperking;
+- • *Valys-taxivervoer:* bovenregionaal sociaal-recreatief taxivervoer (meer dan 25 kilometer of vijf OV-zones in Nederland) voor mensen met een mobiliteitsbeperking;
 
-- •. **Valys-pashouder:** een persoon die vanwege een bovenregionale sociaal-recreatieve reisbehoefte een taxipas voor Valys heeft ontvangen;
+- • *Valys-pashouder:* een persoon die vanwege een bovenregionale sociaal-recreatieve reisbehoefte een taxipas voor Valys heeft ontvangen;
 
-- •. **Valys-vervoerpas:** de (fysieke) pas die aan de chauffeur getoond moet worden;
+- • *Valys-vervoerpas:* de (fysieke) pas die aan de chauffeur getoond moet worden;
 
-- •. **indicatiebesluit:** besluit als bedoeld in artikel 4.1, onderdeel d, van de Algemene Voorwaarden van Transvision B.V., betreffende de organisatie en het (laten) uitvoeren van bovenregionaal Valys-vervoer ten behoeve van personen met een mobiliteitsbeperking;
+- • *indicatiebesluit:* besluit als bedoeld in artikel 4.1, onderdeel d, van de Algemene Voorwaarden van Transvision B.V., betreffende de organisatie en het (laten) uitvoeren van bovenregionaal Valys-vervoer ten behoeve van personen met een mobiliteitsbeperking;
 
-- •. **Valys Standaard PKB (persoonlijk kilometerbudget):** het door het Ministerie van VWS jaarlijks vastgestelde aantal kilometers dat een Valys-pashouder met Standaard PKB met de Valys-taxi mag reizen tegen gereduceerd tarief;
+- • *Valys Standaard PKB (persoonlijk kilometerbudget):* het door het Ministerie van VWS jaarlijks vastgestelde aantal kilometers dat een Valys-pashouder met Standaard PKB met de Valys-taxi mag reizen tegen gereduceerd tarief;
 
-- •. **openbaar vervoer:** personenvervoer dat openbaar toegankelijk is;
+- • *openbaar vervoer:* personenvervoer dat openbaar toegankelijk is;
 
-- •. **reizigersassistentie:** een daartoe getrainde assistent die de reiziger op een trein- en/of busstation helpt bij het in- en uitstappen;
+- • *reizigersassistentie:* een daartoe getrainde assistent die de reiziger op een trein- en/of busstation helpt bij het in- en uitstappen;
 
-- •. **chronisch:** feitelijk blijvend, langdurig bestaand en een belemmering vormend voor het dagelijks leven;
+- • *chronisch:* feitelijk blijvend, langdurig bestaand en een belemmering vormend voor het dagelijks leven;
 
-- •. **bovenregionaal:** een reisafstand van minimaal 25 kilometer;
+- • *bovenregionaal:* een reisafstand van minimaal 25 kilometer;
 
-- •. **bewijsdocument:** een document dat aantoont dat de aanvrager op andere gronden in aanmerking komt voor Valys, zoals een Wmo-vervoersindicatie, Wmo-(rij)hulpmiddel, passagiers-gehandicaptenparkeerkaart (GPK-P) of OV-Begeleiderskaart.
+- • *bewijsdocument:* een document dat aantoont dat de aanvrager op andere gronden in aanmerking komt voor Valys, zoals een Wmo-vervoersindicatie, Wmo-(rij)hulpmiddel, passagiers-gehandicaptenparkeerkaart (GPK-P) of OV-Begeleiderskaart.
 
 ##### Artikel 2. Indienen van de aanvraag
 
@@ -94,7 +64,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - d. alle vereiste documenten zijn bijgevoegd;
 
-- e. de eigen bijdrage van € 50 (incl. btw) is voldaan.
+- e. de eigen bijdrage van € 50 (incl. btw) is voldaan.
 
 2. Bij de aanvraag worden de volgende documenten overgelegd:
 
@@ -104,7 +74,7 @@ In deze beleidsregel wordt verstaan onder:
 
 3. Argonaut Advies beoordeelt de aanvraag op basis van de bijgevoegde medische of functionele gegevens. Deze gegevens mogen maximaal zes maanden oud zijn. Als deze gegevens leiden tot een indicatiebesluit, dan vervalt de eis dat de medische gegevens niet ouder zijn dan zes maanden. Als uit medische gegevens ouder dan zes maanden een afwijzing waarschijnlijk is, dan wordt de aanvrager de kans geboden om recente medische gegevens te leveren. De verantwoordelijkheid voor het aanleveren van deze gegevens ligt bij de aanvrager.
 
-4. Indien de aanvraag onvolledig is, krijgt de aanvrager 31 dagen om aan te vullen. Wordt dit nagelaten, dan wordt de aanvraag niet in behandeling genomen. Tegen een besluit om een aanvraag niet in behandeling te nemen, kan bezwaar worden gemaakt overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052201&artikel=7&z=2026-01-23&g=2026-01-23).
+4. Indien de aanvraag onvolledig is, krijgt de aanvrager 31 dagen om aan te vullen. Wordt dit nagelaten, dan wordt de aanvraag niet in behandeling genomen. Tegen een besluit om een aanvraag niet in behandeling te nemen, kan bezwaar worden gemaakt overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052201&artikel=7&z=2026-01-23&g=2026-01-23).
 
 ##### Artikel 4. Criteria voor toekenning
 
@@ -176,4 +146,4 @@ Deze beleidsregel treedt in werking met ingang van de dag na plaatsing in de Sta
 
 ##### Artikel 10. Citeertitel
 
-Deze beleidsregel wordt aangehaald als ‘**Indicatieprotocol Valys Standaard Persoonlijk Kilometerbudget (PKB) zonder bewijsdocument (Valys-vervoer)**’.
+Deze beleidsregel wordt aangehaald als ‘*Indicatieprotocol Valys Standaard Persoonlijk Kilometerbudget (PKB) zonder bewijsdocument (Valys-vervoer)*’.

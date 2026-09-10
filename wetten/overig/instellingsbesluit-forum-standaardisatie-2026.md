@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 10 februari 2026, 2025-0000610431, tot instelling van het Forum Standaardisatie (Instellingsbesluit Forum Standaardisatie 2026)"
+citeertitel: "Instellingsbesluit Forum Standaardisatie 2026"
 identifier: "BWBR0052374"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-03-03"
-last_updated: "2026-03-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052374"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "17787973"
-version_id: "31452572"
-internal_id: "C44923611"
-label_id: "17685794"
-dtd_version: "2.0"
-original_entry_into_force: "2026-03-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052374/2026-03-03/0"
-intitule_bron: "Stcrt.2026-7008"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2026-02-10"
-intitule_published: "2026-03-02"
-intitule_in_force: "2026-03-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-7008"
-original_signed_date: "2026-02-10"
-original_published_date: "2026-03-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-7008"
-entry_into_force_date: "2026-03-03"
-jci_1_3: "jci1.3:c:BWBR0052374&z=2026-03-03&g=2026-03-03"
-jci_1_0: "1.0:c:BWBR0052374&g=2026-03-03"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit Forum Standaardisatie 2026"
-signed_date: "2026-02-10"
-entry_into_force: "2026-03-03"
+publicatiedatum: 2026-03-03
+laatste_update: 2026-03-03
+status: geldig
+toestand: 2026-03-03
+bron: "https://wetten.overheid.nl/BWBR0052374"
+opgehaald: 2026-09-10
 ---
+
 # Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 10 februari 2026, 2025-0000610431, tot instelling van het Forum Standaardisatie (Instellingsbesluit Forum Standaardisatie 2026)
-
-Overwegende dat het wenselijk is de taken, werkwijze, samenstelling en vergoeding van het Forum Standaardisatie en het Bureau Forum Standaardisatie vanaf het jaar 2026 vast te leggen,
-
-Gelet op de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=1) en [2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2);
-
-BESLUIT:
 
 ##### Artikel 1. Taken Forum Standaardisatie
 
@@ -48,35 +20,35 @@ BESLUIT:
 
 2. Het Forum Standaardisatie heeft tot taak:
 
-- a). Het ambtshalve en op verzoek uitbrengen van advies aan de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Economische Zaken over de bevordering van interoperabiliteit, toekomstbestendige gegevensopslag, en leveranciersonafhankelijkheid door middel van het gebruik en de adoptie van open standaarden;
+- a) Het ambtshalve en op verzoek uitbrengen van advies aan de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Economische Zaken over de bevordering van interoperabiliteit, toekomstbestendige gegevensopslag, en leveranciersonafhankelijkheid door middel van het gebruik en de adoptie van open standaarden;
 
-- b). het uitbrengen van advies bij het aanwijzen van wettelijk verplicht toe te passen standaarden, en bij wijzigingen van de betrokken standaarden;
+- b) het uitbrengen van advies bij het aanwijzen van wettelijk verplicht toe te passen standaarden, en bij wijzigingen van de betrokken standaarden;
 
-- c). het ambtshalve en op verzoek uitbrengen van advies aan de Minister die het aangaat of een van beide kamers der Staten-Generaal, over de uitvoering van beleid op het gebied van interoperabiliteit en standaardisatie;
+- c) het ambtshalve en op verzoek uitbrengen van advies aan de Minister die het aangaat of een van beide kamers der Staten-Generaal, over de uitvoering van beleid op het gebied van interoperabiliteit en standaardisatie;
 
-- d). het doen van voorstellen aan het Overheidsbreed Beleidsoverleg Digitale Overheid voor het opnemen van open standaarden op de lijst met standaarden, waarbij voor overheidsorganisaties het ‘pas toe of leg uit’-regime geldt, evenals het doen van voorstellen voor gebruiksafspraken in de vorm van streefbeeldafspraken;
+- d) het doen van voorstellen aan het Overheidsbreed Beleidsoverleg Digitale Overheid voor het opnemen van open standaarden op de lijst met standaarden, waarbij voor overheidsorganisaties het ‘pas toe of leg uit’-regime geldt, evenals het doen van voorstellen voor gebruiksafspraken in de vorm van streefbeeldafspraken;
 
-- e). het uitvoeren en onderhouden van de procedures voor toetsing van standaarden en het beheer van de lijsten met standaarden.
+- e) het uitvoeren en onderhouden van de procedures voor toetsing van standaarden en het beheer van de lijsten met standaarden.
 
-- f). het bevorderen van de adoptie en het gebruik van open standaarden met een publiek, maatschappelijk en privaat belang en meerwaarde, door het geven van voorlichting en het organiseren van netwerkbijeenkomsten, rondetafelgesprekken en platformoverleggen voor overheden en bedrijven, en het tot stand brengen van samenwerking met en tussen relevante partners van de overheid en uit het bedrijfsleven;
+- f) het bevorderen van de adoptie en het gebruik van open standaarden met een publiek, maatschappelijk en privaat belang en meerwaarde, door het geven van voorlichting en het organiseren van netwerkbijeenkomsten, rondetafelgesprekken en platformoverleggen voor overheden en bedrijven, en het tot stand brengen van samenwerking met en tussen relevante partners van de overheid en uit het bedrijfsleven;
 
-- g). het periodiek toetsen en het publiceren van de naleving van overheidsbrede afspraken over het gebruik van open standaarden aan de hand van een jaarlijkse monitor, en een halfjaarlijkse meting van het gebruik van informatieveiligheidsstandaarden;
+- g) het periodiek toetsen en het publiceren van de naleving van overheidsbrede afspraken over het gebruik van open standaarden aan de hand van een jaarlijkse monitor, en een halfjaarlijkse meting van het gebruik van informatieveiligheidsstandaarden;
 
-- h). het aanspreken van achterblijvende partijen, onder meer via het Overheidsbreed Beleidsoverleg Digitale Overheid, op het gebruik van de ‘pas toe of leg uit’-standaarden en het naleven van het ‘pas toe of leg uit’-beleid.
+- h) het aanspreken van achterblijvende partijen, onder meer via het Overheidsbreed Beleidsoverleg Digitale Overheid, op het gebruik van de ‘pas toe of leg uit’-standaarden en het naleven van het ‘pas toe of leg uit’-beleid.
 
-- i). het doen van voorstellen voor het verweven van standaardisatie- en open standaarden beleid in reeds bestaande kaders;
+- i) het doen van voorstellen voor het verweven van standaardisatie- en open standaarden beleid in reeds bestaande kaders;
 
-- j). het functioneel inzichtelijk maken van de samenhang tussen sectoroverstijgende open standaarden die relevantie hebben voor de digitale overheid, het in kaart brengen van mogelijke synergie tussen open standaarden/toepassingsgebieden, het doen van onderzoek naar ontbrekende of achterblijvende open standaarden en standaardisatieactiviteiten en een bijdrage te leveren aan standaardisatie in relatie tot generieke digitale voorzieningen;
+- j) het functioneel inzichtelijk maken van de samenhang tussen sectoroverstijgende open standaarden die relevantie hebben voor de digitale overheid, het in kaart brengen van mogelijke synergie tussen open standaarden/toepassingsgebieden, het doen van onderzoek naar ontbrekende of achterblijvende open standaarden en standaardisatieactiviteiten en een bijdrage te leveren aan standaardisatie in relatie tot generieke digitale voorzieningen;
 
-- k). het volgen en in beeld brengen van de ontwikkeling van standaarden met een publiek, maatschappelijk en privaat belang;
+- k) het volgen en in beeld brengen van de ontwikkeling van standaarden met een publiek, maatschappelijk en privaat belang;
 
-- l). het uitvoeren van verkenningen naar en adviseren over informatieveiligheid, semantiek, multidisciplinair en open werken, digitaal toegankelijke, eenduidige en herkenbare overheidsdienstverlening, en nieuwe ontwikkelingen als gevolg van innovaties;
+- l) het uitvoeren van verkenningen naar en adviseren over informatieveiligheid, semantiek, multidisciplinair en open werken, digitaal toegankelijke, eenduidige en herkenbare overheidsdienstverlening, en nieuwe ontwikkelingen als gevolg van innovaties;
 
-- m). het leveren van inbreng over Nederlandse standpunten ten aanzien van internationale en Europese ontwikkelingen op het gebied van standaardisatie van elektronische gegevensuitwisseling met een publiek, maatschappelijk en privaat belang en meerwaarde;
+- m) het leveren van inbreng over Nederlandse standpunten ten aanzien van internationale en Europese ontwikkelingen op het gebied van standaardisatie van elektronische gegevensuitwisseling met een publiek, maatschappelijk en privaat belang en meerwaarde;
 
-- n). het participeren in publiek-private samenwerkingsverbanden en stimuleren van samenwerking in de keten door het bevorderen van generieke open standaarden voor sectoren;
+- n) het participeren in publiek-private samenwerkingsverbanden en stimuleren van samenwerking in de keten door het bevorderen van generieke open standaarden voor sectoren;
 
-- o). Het voorafgaand aan de inkoop of ontwikkeling van werken, leveringen of diensten met een ICT component, geven van zwaarwegend advies aan aanbestedende diensten over de te gebruiken verplichte standaarden.
+- o) Het voorafgaand aan de inkoop of ontwikkeling van werken, leveringen of diensten met een ICT component, geven van zwaarwegend advies aan aanbestedende diensten over de te gebruiken verplichte standaarden.
 
 ##### Artikel 2. Werkwijze Forum Standaardisatie
 
@@ -148,7 +120,7 @@ die werkzaamheden over aan het archief van het Ministerie van Binnenlandse Zaken
 
 1. Het [Instellingsbesluit Forum Standaardisatie 2022-2026](https://wetten.overheid.nl/jci1.3:c:BWBR0047650) wordt ingetrokken;
 
-2. Het Besluit houdende vaststelling van een vergoeding voor de voorzitter en leden van het Forum Standaardisatie 7 juli 2006/Nr. ET/IT/6048743 wordt ingetrokken.
+2. Het Besluit houdende vaststelling van een vergoeding voor de voorzitter en leden van het Forum Standaardisatie 7 juli 2006/Nr. ET/IT/6048743 wordt ingetrokken.
 
 ##### Artikel 8. Evaluatie
 
@@ -160,6 +132,4 @@ Dit besluit wordt aangehaald als: Instellingsbesluit Forum Standaardisatie 2026.
 
 ##### Artikel 10. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2026.
-
-Dit besluit zal met toelichting in de Staatscourant worden geplaatst.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2026.

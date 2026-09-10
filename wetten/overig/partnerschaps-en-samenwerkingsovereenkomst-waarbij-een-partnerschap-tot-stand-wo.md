@@ -1,96 +1,19 @@
 ---
 title: "Partnerschaps- en Samenwerkingsovereenkomst waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Republiek Oezbekistan, anderzijds"
 identifier: "BWBV0001350"
-categorie: "Overig"
+categorie: "Internationaal recht"
+soort: "verdrag"
 publicatiedatum: 1999-07-01
-laatste_update: 2026-07-14
+laatste_update: 1999-07-01
 status: geldig
+toestand: 1999-07-01
 bron: "https://wetten.overheid.nl/BWBV0001350"
+opgehaald: 2026-09-10
 ---
 
 # Partnerschaps- en Samenwerkingsovereenkomst waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Republiek Oezbekistan, anderzijds
 
-Het Koninkrijk België,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-Ierland,
-
-de Italiaanse Republiek,
-
-het Groothertogdom Luxemburg,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk
-
-de Portugese Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-Partijen bij het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal en het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033),
-
-hierna „Lid-Staten” te noemen, en
-
-De Europese Gemeenschap, de Europese Gemeenschap voor Kolen en Staal, en de Europese Gemeenschap voor Atoomenergie,
-
-hierna „de Gemeenschap” te noemen, enerzijds,
-
-en de Republiek Oezbekistan, anderzijds,
-
-Gelet op de banden tussen de Gemeenschap, haar Lid-Staten en de Republiek Oezbekistan, en hun gemeenschappelijke waarden,
-
-Erkennende dat de Gemeenschap en de Republiek Oezbekistan deze banden wensen te verstevigen en partnerschap en samenwerking tot stand willen brengen om te komen tot versterking en verbreding van de betrekkingen die in het verleden zijn aangeknoopt, inzonderheid bij de op 18 december 1989 ondertekende Overeenkomst tussen de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie en de Unie van Socialistische Sovjetrepublieken inzake handel en commerciële en economische samenwerking,
-
-Gelet op de verbintenis van de Gemeenschap en haar Lid-Staten en van de Republiek Oezbekistan tot versterking van de politieke en economische vrijheden, die de grondslag van het partnerschap vormen,
-
-Erkennende in die context dat de ondersteuning van de onafhankelijkheid, de soevereiniteit en de territoriale onschendbaarheid van de Republiek Oezbekistan zal bijdragen aan het waarborgen van vrede en stabiliteit in Europa,
-
-Gelet op de verbintenis van de partijen tot bevordering van internationale vrede en veiligheid en de vreedzame oplossing van geschillen, alsmede tot samenwerking op dit gebied in het kader van de Verenigde Naties en de Organisatie voor Veiligheid en Samenwerking in Europa (OVSE),
-
-Gelet op de vaste verbintenis van de Gemeenschap en haar Lid-Staten en van de Republiek Oezbekistan tot volledige uitvoering van alle beginselen en bepalingen die zijn vervat in de Slotakte van de Conferentie over Veiligheid en Samenwerking in Europa (CVSE), de Slotdocumenten van de vervolgvergaderingen van Madrid en Wenen, het Document van de CVSE-Conferentie van Bonn betreffende economische samenwerking, het Handvest van Parijs voor een Nieuw Europa en het CVSE-Document van Helsinki 1992, „Uitdagingen van het Veranderingsproces”, en andere fundamentele documenten van de OVSE,
-
-Overtuigd van het allesoverheersende belang van de beginselen van de rechtsstaat en eerbiediging van de mensenrechten, inzonderheid de rechten van minderheden, de totstandbrenging van een meerpartijenstelsel met vrije en democratische verkiezingen, en economische liberalisering om een markteconomie tot stand te brengen,
-
-Van oordeel zijnde dat de volledige uitvoering van deze Partnerschaps- en samenwerkingsovereenkomst zowel zal afhangen van, als zal bijdragen tot de voortzetting en verwezenlijking van hervormingen in de Republiek Oezbekistan op politiek, economisch en juridisch vlak, en de invoering van de factoren die vereist zijn voor samenwerking, met name op grond van de conclusies van de CVSE-Conferentie van Bonn,
-
-Verlangende het proces van regionale samenwerking op de door deze Overeenkomst bestreken gebieden met de buurlanden te stimuleren om welvaart en stabiliteit in deze regio te bevorderen,
-
-Verlangende regelmatige politieke dialoog over bilaterale, regionale en internationale vraagstukken van wederzijds belang tot stand te brengen en te bevorderen,
-
-Erkennende en ondersteunende de wens van de Republiek Oezbekistan om nauwe samenwerking met de Europese instellingen tot stand te brengen,
-
-Gelet op de noodzaak investeringen in de Republiek Oezbekistan te bevorderen, onder andere in de energiesector, en in deze context op het belang dat de Gemeenschap en haar Lid-Staten hechten aan eerlijke voorwaarden voor doorvoer voor de export van energieprodukten; bevestigende de gehechtheid van de Gemeenschap en haar Lid-Staten en van de Republiek Oezbekistan aan het Europees Energiehandvest, en aan de volledige tenuitvoerlegging van het [Verdrag inzake het Energiehandvest](https://wetten.overheid.nl/jci1.3:c:BWBV0001155) en het [Protocol bij het Energiehandvestverdrag betreffende energie-efficiëntie en daarmee samenhangende milieu-aspecten](onbekend),
-
-Rekening houdende met het feit dat de Gemeenschap bereid is zorg te dragen voor passende economische samenwerking en technische bijstand,
-
-Rekening houdende met het nut van de Overeenkomst voor het bevorderen van geleidelijke toenadering tussen de Republiek Oezbekistan en een uitgestrekter gebied van samenwerking in Europa en naburige regio's, en haar geleidelijke integratie in het open internationaal systeem,
-
-Gelet op de verbintenis van de partijen tot liberalisering van de handel op grond van de regels van de Wereldhandelsorganisatie (WTO), en ervan overtuigd dat de toetreding van de Republiek Oezbekistan tot de WTO het mogelijk zal maken hun onderlinge handelsbetrekkingen te intensiveren,
-
-Zich ervan bewust zijnde dat het noodzakelijk is om verbetering te brengen in de voorwaarden voor bedrijfsleven en investeringen, en de voorwaarden op terreinen als vestiging van vennootschappen, arbeid, dienstverlening en kapitaalverkeer,
-
-Ervan overtuigd zijnde dat deze Overeenkomst een nieuw klimaat zal scheppen voor de economische betrekkingen tussen de partijen, en vooral voor de ontwikkeling van handel en investeringen, die onontbeerlijk zijn voor economische herstructurering en technologische modernisering,
-
-Verlangende nauwe samenwerking op het gebied van milieubescherming tot stand te brengen, rekening houdend met de onderlinge afhankelijkheid van de partijen op dit terrein,
-
-Erkennende dat samenwerking ten behoeve van de preventie van en de controle op illegale immigratie een van de hoofddoelstellingen van deze overeenkomst vormt,
-
-Verlangende culturele samenwerking tot stand te brengen en de doorstroming van informatie te verbeteren,
-
-Zijn als volgt overeengekomen:
+*Het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Republiek Oostenrijk de Portugese Republiek, de Republiek Finland, het Koninkrijk Zweden het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Partijen bij het Verdrag tot oprichting van de Europese Gemeenschap, het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie, hierna „Lid-Staten” te noemen, en De Europese Gemeenschap, de Europese Gemeenschap voor Kolen en Staal, en de Europese Gemeenschap voor Atoomenergie, hierna „de Gemeenschap” te noemen, enerzijds, en de Republiek Oezbekistan, anderzijds, Gelet op de banden tussen de Gemeenschap, haar Lid-Staten en de Republiek Oezbekistan, en hun gemeenschappelijke waarden, Erkennende dat de Gemeenschap en de Republiek Oezbekistan deze banden wensen te verstevigen en partnerschap en samenwerking tot stand willen brengen om te komen tot versterking en verbreding van de betrekkingen die in het verleden zijn aangeknoopt, inzonderheid bij de op 18 december 1989 ondertekende Overeenkomst tussen de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie en de Unie van Socialistische Sovjetrepublieken inzake handel en commerciële en economische samenwerking, Gelet op de verbintenis van de Gemeenschap en haar Lid-Staten en van de Republiek Oezbekistan tot versterking van de politieke en economische vrijheden, die de grondslag van het partnerschap vormen, Erkennende in die context dat de ondersteuning van de onafhankelijkheid, de soevereiniteit en de territoriale onschendbaarheid van de Republiek Oezbekistan zal bijdragen aan het waarborgen van vrede en stabiliteit in Europa, Gelet op de verbintenis van de partijen tot bevordering van internationale vrede en veiligheid en de vreedzame oplossing van geschillen, alsmede tot samenwerking op dit gebied in het kader van de Verenigde Naties en de Organisatie voor Veiligheid en Samenwerking in Europa (OVSE), Gelet op de vaste verbintenis van de Gemeenschap en haar Lid-Staten en van de Republiek Oezbekistan tot volledige uitvoering van alle beginselen en bepalingen die zijn vervat in de Slotakte van de Conferentie over Veiligheid en Samenwerking in Europa (CVSE), de Slotdocumenten van de vervolgvergaderingen van Madrid en Wenen, het Document van de CVSE-Conferentie van Bonn betreffende economische samenwerking, het Handvest van Parijs voor een Nieuw Europa en het CVSE-Document van Helsinki 1992, „Uitdagingen van het Veranderingsproces”, en andere fundamentele documenten van de OVSE, Overtuigd van het allesoverheersende belang van de beginselen van de rechtsstaat en eerbiediging van de mensenrechten, inzonderheid de rechten van minderheden, de totstandbrenging van een meerpartijenstelsel met vrije en democratische verkiezingen, en economische liberalisering om een markteconomie tot stand te brengen, Van oordeel zijnde dat de volledige uitvoering van deze Partnerschaps- en samenwerkingsovereenkomst zowel zal afhangen van, als zal bijdragen tot de voortzetting en verwezenlijking van hervormingen in de Republiek Oezbekistan op politiek, economisch en juridisch vlak, en de invoering van de factoren die vereist zijn voor samenwerking, met name op grond van de conclusies van de CVSE-Conferentie van Bonn, Verlangende het proces van regionale samenwerking op de door deze Overeenkomst bestreken gebieden met de buurlanden te stimuleren om welvaart en stabiliteit in deze regio te bevorderen, Verlangende regelmatige politieke dialoog over bilaterale, regionale en internationale vraagstukken van wederzijds belang tot stand te brengen en te bevorderen, Erkennende en ondersteunende de wens van de Republiek Oezbekistan om nauwe samenwerking met de Europese instellingen tot stand te brengen, Gelet op de noodzaak investeringen in de Republiek Oezbekistan te bevorderen, onder andere in de energiesector, en in deze context op het belang dat de Gemeenschap en haar Lid-Staten hechten aan eerlijke voorwaarden voor doorvoer voor de export van energieprodukten; bevestigende de gehechtheid van de Gemeenschap en haar Lid-Staten en van de Republiek Oezbekistan aan het Europees Energiehandvest, en aan de volledige tenuitvoerlegging van het Verdrag inzake het Energiehandvest en het Protocol bij het Energiehandvestverdrag betreffende energie-efficiëntie en daarmee samenhangende milieu-aspecten, Rekening houdende met het feit dat de Gemeenschap bereid is zorg te dragen voor passende economische samenwerking en technische bijstand, Rekening houdende met het nut van de Overeenkomst voor het bevorderen van geleidelijke toenadering tussen de Republiek Oezbekistan en een uitgestrekter gebied van samenwerking in Europa en naburige regio's, en haar geleidelijke integratie in het open internationaal systeem, Gelet op de verbintenis van de partijen tot liberalisering van de handel op grond van de regels van de Wereldhandelsorganisatie (WTO), en ervan overtuigd dat de toetreding van de Republiek Oezbekistan tot de WTO het mogelijk zal maken hun onderlinge handelsbetrekkingen te intensiveren, Zich ervan bewust zijnde dat het noodzakelijk is om verbetering te brengen in de voorwaarden voor bedrijfsleven en investeringen, en de voorwaarden op terreinen als vestiging van vennootschappen, arbeid, dienstverlening en kapitaalverkeer, Ervan overtuigd zijnde dat deze Overeenkomst een nieuw klimaat zal scheppen voor de economische betrekkingen tussen de partijen, en vooral voor de ontwikkeling van handel en investeringen, die onontbeerlijk zijn voor economische herstructurering en technologische modernisering, Verlangende nauwe samenwerking op het gebied van milieubescherming tot stand te brengen, rekening houdend met de onderlinge afhankelijkheid van de partijen op dit terrein, Erkennende dat samenwerking ten behoeve van de preventie van en de controle op illegale immigratie een van de hoofddoelstellingen van deze overeenkomst vormt, Verlangende culturele samenwerking tot stand te brengen en de doorstroming van informatie te verbeteren, Zijn als volgt overeengekomen:*
 
 ##### Artikel 1
 
@@ -98,19 +21,19 @@ Er wordt een partnerschap tot stand gebracht tussen de Gemeenschap en haar Lid-S
 
 Dit partnerschap heeft ten doel:
 
-- –. de onafhankelijkheid en soevereiniteit van de Republiek Oezbekistan te steunen;
+- – de onafhankelijkheid en soevereiniteit van de Republiek Oezbekistan te steunen;
 
-- –. de inspanningen van de Republiek Oezbekistan om haar democratie te consolideren, haar economie te ontwikkelen en de overgang naar een markteconomie te voltooien, te ondersteunen;
+- – de inspanningen van de Republiek Oezbekistan om haar democratie te consolideren, haar economie te ontwikkelen en de overgang naar een markteconomie te voltooien, te ondersteunen;
 
-- –. een passend kader voor de politieke dialoog tussen de Partijen tot stand te brengen met het oog op de ontwikkeling van politieke betrekkingen ;
+- – een passend kader voor de politieke dialoog tussen de Partijen tot stand te brengen met het oog op de ontwikkeling van politieke betrekkingen ;
 
-- –. handel en investeringen en harmonische economische betrekkingen tussen de Partijen te bevorderen en aldus hun duurzame economische ontwikkeling te stimuleren ;
+- – handel en investeringen en harmonische economische betrekkingen tussen de Partijen te bevorderen en aldus hun duurzame economische ontwikkeling te stimuleren ;
 
-- –. de grondslag te leggen voor samenwerking op het gebied van wetgeving en voor economische, sociale, financiële, civiele wetenschappelijke, technologische en culturele samenwerking;
+- – de grondslag te leggen voor samenwerking op het gebied van wetgeving en voor economische, sociale, financiële, civiele wetenschappelijke, technologische en culturele samenwerking;
 
-- –. bijstand te verlenen bij de opbouw van een op de rechtsstaat gebaseerde civiele maatschappij in Oezbekistan.
+- – bijstand te verlenen bij de opbouw van een op de rechtsstaat gebaseerde civiele maatschappij in Oezbekistan.
 
-## TITEL I. ALGEMENE BEGINSELEN
+### TITEL I. ALGEMENE BEGINSELEN
 
 ##### Artikel 2
 
@@ -120,17 +43,17 @@ Eerbiediging van de democratische beginselen, de beginselen van het volkenrecht 
 
 De partijen zijn van oordeel dat het voor hun toekomstige welvaart en stabiliteit noodzakelijk is dat de nieuwe onafhankelijke staten die als gevolg van de ontbinding van de Unie van Socialistische Sovjetrepublieken zijn ontstaan, hierna „onafhankelijke staten" te noemen, de onderlinge samenwerking in stand houden en ontwikkelen overeenkomstig de beginselen van de Slotakte van Helsinki en het volkenrecht en in een geest van goede nabuurschap en alles in het werk stellen om dit proces te stimuleren.
 
-## TITEL II. POLITIEKE DIALOOG
+### TITEL II. POLITIEKE DIALOOG
 
 ##### Artikel 4
 
 Tussen de partijen wordt een regelmatige politieke dialoog tot stand gebracht, die zij voornemens zijn te ontwikkelen en te intensiveren. Deze dialoog begeleidt en consolideert het proces waarbij de Gemeenschap en de Republiek Oezbekistan nader tot elkaar komen, ondersteunt de politieke en economische veranderingen die in dat land aan de gang zijn en draagt bij tot de totstandkoming van nieuwe vormen van samenwerking. De politieke dialoog strekt ertoe
 
-- –. de banden van de Republiek Oezbekistan met de Gemeenschap en haar Lid-Staten, en aldus met de gemeenschap van democratische naties als geheel, te versterken; de economische convergentie die door middel van deze Overeenkomst wordt bewerkstelligd, zal leiden tot hechtere politieke betrekkingen;
+- – de banden van de Republiek Oezbekistan met de Gemeenschap en haar Lid-Staten, en aldus met de gemeenschap van democratische naties als geheel, te versterken; de economische convergentie die door middel van deze Overeenkomst wordt bewerkstelligd, zal leiden tot hechtere politieke betrekkingen;
 
-- –. de standpunten over internationale vraagstukken van wederzijds belang nader tot elkaar te brengen en aldus meer veiligheid en stabiliteit in de regio te bewerkstelligen;
+- – de standpunten over internationale vraagstukken van wederzijds belang nader tot elkaar te brengen en aldus meer veiligheid en stabiliteit in de regio te bewerkstelligen;
 
-- –. ervoor te zorgen dat de partijen streven naar samenwerking voor aangelegenheden op het gebied van de naleving van de democratische beginselen, de eerbiediging, bescherming en bevordering van de mensenrechten, vooral die van minderheden, waarbij zo nodig over relevante kwesties overleg wordt gepleegd.
+- – ervoor te zorgen dat de partijen streven naar samenwerking voor aangelegenheden op het gebied van de naleving van de democratische beginselen, de eerbiediging, bescherming en bevordering van de mensenrechten, vooral die van minderheden, waarbij zo nodig over relevante kwesties overleg wordt gepleegd.
 
 Deze dialoog kan op regionaal vlak plaatsvinden.
 
@@ -142,37 +65,37 @@ Op ministerieel niveau vindt de politieke dialoog plaats in het kader van de kra
 
 De partijen voorzien in andere procedures en regelingen voor politieke dialoog, met name in de volgende vormen:
 
-- –. regelmatige vergaderingen tussen vertegenwoordigers van de Gemeenschap en haar Lid-Staten, enerzijds, en vertegenwoordigers van de Republiek Oezbekistan, anderzijds, op het niveau van hoge ambtenaren;
+- – regelmatige vergaderingen tussen vertegenwoordigers van de Gemeenschap en haar Lid-Staten, enerzijds, en vertegenwoordigers van de Republiek Oezbekistan, anderzijds, op het niveau van hoge ambtenaren;
 
-- –. het optimaal gebruik maken van diplomatieke kanalen tussen de partijen, met inbegrip van passende contacten op bilateraal en multilateraal vlak, onder meer bij de Verenigde Naties, vergaderingen van de OVSE en elders;
+- – het optimaal gebruik maken van diplomatieke kanalen tussen de partijen, met inbegrip van passende contacten op bilateraal en multilateraal vlak, onder meer bij de Verenigde Naties, vergaderingen van de OVSE en elders;
 
-- –. alle andere middelen, waaronder vergaderingen van deskundigen, die bijdragen tot het consolideren en ontwikkelen van deze dialoog.
+- – alle andere middelen, waaronder vergaderingen van deskundigen, die bijdragen tot het consolideren en ontwikkelen van deze dialoog.
 
 ##### Artikel 7
 
 Op parlementair niveau vindt de politieke dialoog plaats in het kader van het krachtens artikel 83 opgerichte Parlementair Samenwerkingscomité.
 
-## TITEL III. HANDEL IN GOEDEREN
+### TITEL III. HANDEL IN GOEDEREN
 
 ##### Artikel 8
 
 1. De partijen passen ten aanzien van elkaar de meestbegunstigingsclausule toe op alle gebieden die verband houden met:
 
-- –. de douanerechten en heffingen bij invoer en bij uitvoer, met inbegrip van de wijze van invordering van dergelijke rechten en heffingen,
+- – de douanerechten en heffingen bij invoer en bij uitvoer, met inbegrip van de wijze van invordering van dergelijke rechten en heffingen,
 
-- –. de bepalingen betreffende de douaneafhandeling, de doorvoer, de opslag in entrepot en de overslag van goederen,
+- – de bepalingen betreffende de douaneafhandeling, de doorvoer, de opslag in entrepot en de overslag van goederen,
 
-- –. de belastingen en alle andere interne heffingen die direct of indirect op de ingevoerde goederen van toepassing zijn,
+- – de belastingen en alle andere interne heffingen die direct of indirect op de ingevoerde goederen van toepassing zijn,
 
-- –. de wijzen van betaling en de overdracht van de betaalde bedragen,
+- – de wijzen van betaling en de overdracht van de betaalde bedragen,
 
-- –. de voorschriften met betrekking tot de verkoop, de aankoop, het vervoer, de distributie en het gebruik van goederen op de binnenlandse markt.
+- – de voorschriften met betrekking tot de verkoop, de aankoop, het vervoer, de distributie en het gebruik van goederen op de binnenlandse markt.
 
 2. De bepalingen van lid 1 zijn niet van toepassing op:
 
 - a. voordelen die met het oog op de oprichting van een douane-unie of vrijhandelszone of na de oprichting van een dergelijke unie of zone worden toegekend;
 
-- b. voordelen die aan bepaalde landen worden toegekend krachtens de [GATT](onbekend) en andere internationale regelingen ten gunste van ontwikkelingslanden;
+- b. voordelen die aan bepaalde landen worden toegekend krachtens de [GATT](https://wetten.overheid.nl/BWBV0001160) en andere internationale regelingen ten gunste van ontwikkelingslanden;
 
 - c. voordelen die aan buurlanden worden toegekend ten einde het grensverkeer te vereenvoudigen.
 
@@ -214,7 +137,7 @@ Goederen worden tegen marktprijzen tussen de Partijen verhandeld.
 
 5. Bij de keuze van de in het kader van dit artikel toe te passen maatregelen geven de overeenkomstsluitende partijen de voorkeur aan maatregelen die het bereiken van de doelstellingen van deze Overeenkomst het minst in de weg staan.
 
-6. Geen enkele bepaling van dit artikel belet de partijen anti-dumpingmaatregelen of compenserende maatregelen te nemen overeenkomstig artikel VI van de GATT, de [overeenkomst inzake de toepassing van artikel VI van de GATT](onbekend), de Overeenkomst inzake de interpretatie en de toepassing van de artikelen VI, XVI en XXIII van de GATT of daarmee verband houdende interne wetgeving.
+6. Geen enkele bepaling van dit artikel belet de partijen anti-dumpingmaatregelen of compenserende maatregelen te nemen overeenkomstig artikel VI van de GATT, de [overeenkomst inzake de toepassing van artikel VI van de GATT](https://wetten.overheid.nl/BWBV0001160), de Overeenkomst inzake de interpretatie en de toepassing van de artikelen VI, XVI en XXIII van de GATT of daarmee verband houdende interne wetgeving.
 
 ##### Artikel 14
 
@@ -240,7 +163,7 @@ De contactgroep wisselt op gezette tijden informatie uit over alle zaken in verb
 
 De handel in kernmaterialen worden geregeld bij een tussen de Europese Gemeenschap voor Atoomenergie en de Republiek Oezbekistan te sluiten specifieke overeenkomst.
 
-## TITEL IV. BEPALINGEN INZAKE HET HANDELSVERKEER EN DE INVESTERINGEN
+### TITEL IV. BEPALINGEN INZAKE HET HANDELSVERKEER EN DE INVESTERINGEN
 
 ### HOOFDSTUK I. ARBEIDSVOORWAARDEN
 
@@ -330,11 +253,11 @@ De bepalingen van deze overeenkomst vormen voor een partij geen beletsel de maat
 
 - a. leden van het hogere kader van een organisatie die in de eerste plaats leiding geven aan de organisatie, onder het algemene toezicht en volgens instructies van, in hoofdzaak, de raad van bestuur of de aandeelhouders of daarmee gelijkgestelde personen. Deze personeelsleden
 
-  - –. geven leiding aan de organisatie of een afdeling of onderafdeling daarvan;
+   - – geven leiding aan de organisatie of een afdeling of onderafdeling daarvan;
 
-  - –. houden toezicht op en controleren de werkzaamheden van andere toezichthoudende, hooggespecialiseerde of leidinggevende werknemers;
+   - – houden toezicht op en controleren de werkzaamheden van andere toezichthoudende, hooggespecialiseerde of leidinggevende werknemers;
 
-  - –. zijn persoonlijk bevoegd werknemers in dienst te nemen en te ontslaan of de indienstneming of het ontslag van werknemers of andere maatregelen in het kader van het personeelsbeleid aan te bevelen;
+   - – zijn persoonlijk bevoegd werknemers in dienst te nemen en te ontslaan of de indienstneming of het ontslag van werknemers of andere maatregelen in het kader van het personeelsbeleid aan te bevelen;
 
 - b. binnen een organisatie werkzame personen die beschikken over bijzondere kennis die van wezenlijk belang is voor de dienstverlening van het bedrijf, de onderzoeksuitrusting, de technische werkzaamheden of het management. Afgezien van de voor het functioneren van de betrokken vennootschap vereiste specifieke kennis, kan deze kennis bestaan in de bekwaamheid bepaalde werkzaamheden uit te voeren of een bepaald beroep uit te oefenen waarvoor specifieke technische vaardigheden vereist zijn, met inbegrip van het lidmaatschap van een erkende beroepsgroep;
 
@@ -420,15 +343,15 @@ Voor de toepassing van de hoofdstukken II, III en IV van deze titel wordt geen r
 
 Onverminderd de voorwaarden van artikel 27 kan geen enkele bepaling van hoofdstukken II, III en IV worden geïnterpreteerd als zou zij het recht verschaffen:
 
-- –. aan onderdanen van de Lid-Staten, respectievelijk de Republiek Oezbekistan, zich op het grondgebied van de Republiek Oezbekistan, respectievelijk de Gemeenschap, te begeven of daar te verblijven in ongeacht welke hoedanigheid en met name als aandeelhouder of partner, beheerder of werknemer van een vennootschap dan wel als verstrekker of ontvanger van diensten;
+- – aan onderdanen van de Lid-Staten, respectievelijk de Republiek Oezbekistan, zich op het grondgebied van de Republiek Oezbekistan, respectievelijk de Gemeenschap, te begeven of daar te verblijven in ongeacht welke hoedanigheid en met name als aandeelhouder of partner, beheerder of werknemer van een vennootschap dan wel als verstrekker of ontvanger van diensten;
 
-- –. aan dochterondernemingen of filialen van Oezbeekse vennootschappen in de Gemeenschap tot het op het grondgebied van de Gemeenschap in dienst nemen of hebben van onderdanen van de Republiek Oezbekistan;
+- – aan dochterondernemingen of filialen van Oezbeekse vennootschappen in de Gemeenschap tot het op het grondgebied van de Gemeenschap in dienst nemen of hebben van onderdanen van de Republiek Oezbekistan;
 
-- –. aan dochterondernemingen of filialen van communautaire vennootschappen in de Republiek Oezbekistan tot het op het grondgebied van de Republiek Oezbekistan in dienst nemen of hebben van onderdanen van de Lid-Staten;
+- – aan dochterondernemingen of filialen van communautaire vennootschappen in de Republiek Oezbekistan tot het op het grondgebied van de Republiek Oezbekistan in dienst nemen of hebben van onderdanen van de Lid-Staten;
 
-- –. aan Oezbeekse vennootschappen dan wel dochterondernemingen of filialen van Oezbeekse vennootschappen in de Gemeenschap tot het namens of onder het toezicht van andere personen laten optreden van Oezbeekse onderdanen door middel van tijdelijke arbeidsovereenkomsten;
+- – aan Oezbeekse vennootschappen dan wel dochterondernemingen of filialen van Oezbeekse vennootschappen in de Gemeenschap tot het namens of onder het toezicht van andere personen laten optreden van Oezbeekse onderdanen door middel van tijdelijke arbeidsovereenkomsten;
 
-- –. aan communautaire vennootschappen dan wel dochterondernemingen of filialen van communautaire vennootschappen in de Republiek Oezbekistan tot het door middel van tijdelijke arbeidsovereenkomsten voorzien in arbeidskrachten welke onderdanen van Lid-Staten zijn.
+- – aan communautaire vennootschappen dan wel dochterondernemingen of filialen van communautaire vennootschappen in de Republiek Oezbekistan tot het door middel van tijdelijke arbeidsovereenkomsten voorzien in arbeidskrachten welke onderdanen van Lid-Staten zijn.
 
 ### HOOFDSTUK V. BETALINGS- EN KAPITAALVERKEER
 
@@ -454,7 +377,7 @@ Onverminderd de voorwaarden van artikel 27 kan geen enkele bepaling van hoofdstu
 
 2. Tegen het einde van het vijfde jaar na de inwerkingtreding van de Overeenkomst, treedt de Republiek Oezbekistan toe tot de multilaterale overeenkomsten betreffende intellectuele, industriële en commerciële eigendomsrechten bedoeld in punt 1 van bijlage V waarbij de Lid-Staten partij zijn of welke de facto door de Lid-Staten worden toegepast in overeenstemming met de desbetreffende bepalingen van die overeenkomsten.
 
-## TITEL V. SAMENWERKING OP HET GEBIED VAN DE WETGEVING
+### TITEL V. SAMENWERKING OP HET GEBIED VAN DE WETGEVING
 
 ##### Artikel 42
 
@@ -464,19 +387,19 @@ Onverminderd de voorwaarden van artikel 27 kan geen enkele bepaling van hoofdstu
 
 3. De Gemeenschap verstrekt de Republiek Oezbekistan technische bijstand bij de tenuitvoerlegging van deze maatregelen; die bijstand kan met name omvatten:
 
-- –. de uitwisseling van deskundigen,
+- – de uitwisseling van deskundigen,
 
-- –. het verstrekken van tijdige informatie, vooral over relevante wetgeving,
+- – het verstrekken van tijdige informatie, vooral over relevante wetgeving,
 
-- –. de organisatie van seminars,
+- – de organisatie van seminars,
 
-- –. opleiding van personeel dat betrokken is bij het opstellen en toepassen van de wetgeving,
+- – opleiding van personeel dat betrokken is bij het opstellen en toepassen van de wetgeving,
 
-- –. steun bij de vertaling van communautaire wetgeving in de desbetreffende sectoren.
+- – steun bij de vertaling van communautaire wetgeving in de desbetreffende sectoren.
 
 4. De partijen zoeken naar methoden om de toepassing van hun respectieve concurrentievoorschriften, voor zover de onderlinge handel erdoor wordt beïnvloed, te coördineren.
 
-## TITEL VI. ECONOMISCHE SAMENWERKING
+### TITEL VI. ECONOMISCHE SAMENWERKING
 
 ##### Artikel 43
 
@@ -496,31 +419,31 @@ De partijen werken samen teneinde ervoor te zorgen dat de internationale handel 
 
 Tot dergelijke samenwerking behoren specifieke kwesties die van direct belang zijn voor de bevordering van de handel, inzonderheid met het oog op het verlenen van bijstand aan de Republiek Oezbekistan bij het aanpassen van haar wet- en regelgeving aan de WTO-regels ten einde zo spoedig mogelijk te voldoen aan de voorwaarden om tot de WTO toe te treden. Zulke specifieke kwesties zijn onder meer:
 
-- –. het opstellen van beleid inzake de handel en aanverwante zaken, met inbegrip van betalingen en verrekeningssystemen,
+- – het opstellen van beleid inzake de handel en aanverwante zaken, met inbegrip van betalingen en verrekeningssystemen,
 
-- –. het opstellen van relevante wetgeving.
+- – het opstellen van relevante wetgeving.
 
 ##### Artikel 45. Industriële samenwerking
 
 1. Bij de samenwerking wordt in het bijzonder de bevordering nagestreefd van:
 
-- –. de ontwikkeling van commerciële banden tussen het bedrijfsleven aan beide zijden;
+- – de ontwikkeling van commerciële banden tussen het bedrijfsleven aan beide zijden;
 
-- –. de deelneming van de Gemeenschap aan de inspanningen van de Republiek Oezbekistan om haar industrie te herstructureren;
+- – de deelneming van de Gemeenschap aan de inspanningen van de Republiek Oezbekistan om haar industrie te herstructureren;
 
-- –. de verbetering van de bedrijfsvoering;
+- – de verbetering van de bedrijfsvoering;
 
-- –. de verbetering van de kwaliteit van industrieprodukten;
+- – de verbetering van de kwaliteit van industrieprodukten;
 
-- –. de ontwikkeling van een efficiënte produktie- en verwerkingscapaciteit in de grondstoffensector;
+- – de ontwikkeling van een efficiënte produktie- en verwerkingscapaciteit in de grondstoffensector;
 
-- –. de uitwerking van passende handelsvoorschriften en -praktijken, met inbegrip van produktmarketing;
+- – de uitwerking van passende handelsvoorschriften en -praktijken, met inbegrip van produktmarketing;
 
-- –. de milieubescherming;
+- – de milieubescherming;
 
-- –. de omschakeling van de defensie;
+- – de omschakeling van de defensie;
 
-- –. de opleiding van leidinggevend personeel.
+- – de opleiding van leidinggevend personeel.
 
 2. De bepalingen van dit artikel laten de tenuitvoerlegging van de op vennootschappen toepasselijke concurrentievoorschriften van de Gemeenschap onverlet.
 
@@ -530,15 +453,15 @@ Tot dergelijke samenwerking behoren specifieke kwesties die van direct belang zi
 
 2. De samenwerking is in het bijzonder gericht op de volgende doelstellingen:
 
-- –. het door de Lid-Staten en de Republiek Oezbekistan sluiten van de passende overeenkomsten voor de bevordering en bescherming van investeringen;
+- – het door de Lid-Staten en de Republiek Oezbekistan sluiten van de passende overeenkomsten voor de bevordering en bescherming van investeringen;
 
-- –. het door de Lid-Staten en de Republiek Oezbekistan sluiten van de passende overeenkomsten ter voorkoming van dubbele belastingheffing;
+- – het door de Lid-Staten en de Republiek Oezbekistan sluiten van de passende overeenkomsten ter voorkoming van dubbele belastingheffing;
 
-- –. het tot stand brengen van gunstige voorwaarden voor buitenlandse investeringen in de Oezbeekse economie;
+- – het tot stand brengen van gunstige voorwaarden voor buitenlandse investeringen in de Oezbeekse economie;
 
-- –. de vaststelling van degelijke handelswetten en -voorwaarden, en de uitwisseling van informatie over wettelijke en bestuursrechtelijke handelwijzen op investeringsgebied;
+- – de vaststelling van degelijke handelswetten en -voorwaarden, en de uitwisseling van informatie over wettelijke en bestuursrechtelijke handelwijzen op investeringsgebied;
 
-- –. de uitwisseling van informatie over investeringsmogelijkheden in de vorm van onder andere handelsbeurzen, tentoonstellingen, handelsweken en andere evenementen.
+- – de uitwisseling van informatie over investeringsmogelijkheden in de vorm van onder andere handelsbeurzen, tentoonstellingen, handelsweken en andere evenementen.
 
 ##### Artikel 47. Overheidsopdrachten
 
@@ -550,11 +473,11 @@ De partijen werken samen met het oog op de vaststelling van voorwaarden voor de 
 
 2. Daartoe worden via samenwerking in het kader van technische-bijstandsprojecten de volgende doelstellingen nagestreefd:
 
-- –. de bevordering van nuttige samenwerking met de op deze gebieden gespecialiseerde organisaties en instellingen,
+- – de bevordering van nuttige samenwerking met de op deze gebieden gespecialiseerde organisaties en instellingen,
 
-- –. de bevordering van de toepassing van communautaire technische voorschriften en Europese normen en procedures voor conformiteitsbeoordeling,
+- – de bevordering van de toepassing van communautaire technische voorschriften en Europese normen en procedures voor conformiteitsbeoordeling,
 
-- –. de uitwisseling van praktische en technische informatie met betrekking tot de kwaliteitsbeheersing.
+- – de uitwisseling van praktische en technische informatie met betrekking tot de kwaliteitsbeheersing.
 
 ##### Artikel 49. Mijnbouw en grondstoffen
 
@@ -562,17 +485,17 @@ De partijen werken samen met het oog op de vaststelling van voorwaarden voor de 
 
 2. De samenwerking heeft vooral betrekking op:
 
-- –. de uitwisseling van informatie over de vooruitzichten voor de sectoren mijnbouw en non-ferrometalen;
+- – de uitwisseling van informatie over de vooruitzichten voor de sectoren mijnbouw en non-ferrometalen;
 
-- –. de vaststelling van een juridisch kader voor de samenwerking;
+- – de vaststelling van een juridisch kader voor de samenwerking;
 
-- –. met de handel verband houdende aangelegenheden;
+- – met de handel verband houdende aangelegenheden;
 
-- –. de vaststelling en tenuitvoerlegging van milieuwetgeving;
+- – de vaststelling en tenuitvoerlegging van milieuwetgeving;
 
-- –. de opleiding;
+- – de opleiding;
 
-- –. de veiligheid in de mijnindustrie.
+- – de veiligheid in de mijnindustrie.
 
 ##### Artikel 50. Samenwerking op het gebied van wetenschap en technologie
 
@@ -580,11 +503,11 @@ De partijen werken samen met het oog op de vaststelling van voorwaarden voor de 
 
 2. De samenwerking op het gebied van wetenschappen en technologie heeft betrekking op:
 
-- –. de uitwisseling van wetenschappelijke en technische informatie,
+- – de uitwisseling van wetenschappelijke en technische informatie,
 
-- –. gezamenlijke O & TO-activiteiten,
+- – gezamenlijke O & TO-activiteiten,
 
-- –. opleidingsactiviteiten en programma's ter bevordering van de mobiliteit ten behoeve van aan beide zijden bij O & TO betrokken wetenschappers, onderzoekers en technici.
+- – opleidingsactiviteiten en programma's ter bevordering van de mobiliteit ten behoeve van aan beide zijden bij O & TO betrokken wetenschappers, onderzoekers en technici.
 
 De activiteiten welke in het kader van de samenwerking betrekking hebben op onderwijs en/of opleiding, dienen plaats te hebben in overeenstemming met de bepalingen van artikel 51.
 
@@ -600,23 +523,23 @@ Bij de uitvoering van dergelijke samenwerkingsactiviteiten wordt bijzondere aand
 
 2. De samenwerking wordt in het bijzonder gericht op de volgende terreinen:
 
-- –. de modernisering van het hoger onderwijs en de opleidingsstelsels in de Republiek Oezbekistan met inbegrip van de systemen voor de certificatie van instellingen voor hoger onderwijs en diploma's in het hoger onderwijs;
+- – de modernisering van het hoger onderwijs en de opleidingsstelsels in de Republiek Oezbekistan met inbegrip van de systemen voor de certificatie van instellingen voor hoger onderwijs en diploma's in het hoger onderwijs;
 
-- –. de opleiding van leidinggevend personeel in de openbare en de particuliere sector alsook van hogere ambtenaren op vast te stellen prioritaire terreinen;
+- – de opleiding van leidinggevend personeel in de openbare en de particuliere sector alsook van hogere ambtenaren op vast te stellen prioritaire terreinen;
 
-- –. de samenwerking tussen onderwijsinstellingen onderling en tussen onderwijsinstellingen en ondernemingen;
+- – de samenwerking tussen onderwijsinstellingen onderling en tussen onderwijsinstellingen en ondernemingen;
 
-- –. de mobiliteit van onderwijzend personeel, afgestudeerden, administratief personeel, jonge wetenschappers en onderzoekers, en jongeren in het algemeen;
+- – de mobiliteit van onderwijzend personeel, afgestudeerden, administratief personeel, jonge wetenschappers en onderzoekers, en jongeren in het algemeen;
 
-- –. de bevordering van het onderwijs op het gebied van Europese studies in de relevante instellingen;
+- – de bevordering van het onderwijs op het gebied van Europese studies in de relevante instellingen;
 
-- –. het aanleren van communautaire talen;
+- – het aanleren van communautaire talen;
 
-- –. de postuniversitaire opleiding van conferentietolken;
+- – de postuniversitaire opleiding van conferentietolken;
 
-- –. de opleiding van journalisten;
+- – de opleiding van journalisten;
 
-- –. de opleiding van opleiders.
+- – de opleiding van opleiders.
 
 3. De mogelijke deelneming van een partij aan de respectieve programma's op onderwijs- en opleidingsgebied van de andere partij zou kunnen worden overwogen in overeenstemming met hun respectieve procedures, en er zullen dan eventueel institutionele kaders en samenwerkingsprojecten worden opgezet in aansluiting op de deelneming van de Republiek Oezbekistan aan het TEMPUS-programma van de Gemeenschap.
 
@@ -630,79 +553,79 @@ De samenwerking op dit terrein is gericht op de landbouwhervorming, de modernise
 
 2. De samenwerking spitst zich onder andere toe op het opstellen en uitwerken van een energiebeleid en strekt zich onder meer over de volgende terreinen uit:
 
-- –. verbetering van het beheer en de regulering van de energiesector in overeenstemming met de eisen van een markteconomie;
+- – verbetering van het beheer en de regulering van de energiesector in overeenstemming met de eisen van een markteconomie;
 
-- –. verbetering van de energievoorziening, met inbegrip van de continuïteit van de energievoorziening, op een wijze die uit economisch en milieu-oogpunt verantwoord is;
+- – verbetering van de energievoorziening, met inbegrip van de continuïteit van de energievoorziening, op een wijze die uit economisch en milieu-oogpunt verantwoord is;
 
-- –. de bevordering van energiebesparing en een efficiënt energiegebruik en de tenuitvoerlegging van het Protocol bij het Energiehandvestverdrag betreffende energie-efficiëntie en daarmee samenhangende milieu-aspecten;
+- – de bevordering van energiebesparing en een efficiënt energiegebruik en de tenuitvoerlegging van het Protocol bij het Energiehandvestverdrag betreffende energie-efficiëntie en daarmee samenhangende milieu-aspecten;
 
-- –. de modernisering van de energie-infrastructuur;
+- – de modernisering van de energie-infrastructuur;
 
-- –. verbetering van de technologieën bij de levering en het eindverbruik van de verschillende vormen van energie;
+- – verbetering van de technologieën bij de levering en het eindverbruik van de verschillende vormen van energie;
 
-- –. het beheer en de technische opleiding in de energiesector;
+- – het beheer en de technische opleiding in de energiesector;
 
-- –. vervoer en doorvoer van energiematerialen en -produkten;
+- – vervoer en doorvoer van energiematerialen en -produkten;
 
-- –. de totstandbrenging van de institutionele, wettelijke, fiscale en andere voorwaarden die nodig zijn om verhoogde handel en investeringen in energie te stimuleren;
+- – de totstandbrenging van de institutionele, wettelijke, fiscale en andere voorwaarden die nodig zijn om verhoogde handel en investeringen in energie te stimuleren;
 
-- –. de ontwikkeling van hydro-elektrische en andere duurzame energiebronnen.
+- – de ontwikkeling van hydro-elektrische en andere duurzame energiebronnen.
 
 3. De partijen wisselen relevante informatie uit over investeringsprojecten in de energiesector, met name betreffende de produktie van energiebronnen en de aanleg en renovatie van olie- en gaspijpleidingen of andere middelen om energieprodukten te vervoeren. De Partijen hechten groot belang aan samenwerking met betrekking tot investeringen in de energiesector en de wijze waarop die samenwerking geregeld wordt. Zij werken samen met het oog op een zo efficiënt mogelijke uitvoering van de bepalingen van titel IV en artikel 46, met betrekking tot investeringen in de energiesector.
 
 ##### Artikel 54. Milieu en volksgezondheid
 
-1. Met inachtneming van het Europese Energiehandvest, de Verklaring van de in 1993 in Luzern gehouden Conferentie, de Verklaring van de in oktober 1995 in Sofia gehouden Conferentie en het [Energiehandvestverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001155), inzonderheid [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001155&artikel=19), en het [Protocol bij het Energiehandvestverdrag betreffende energie-efficiëntie en daarmee samenhangende milieu-aspecten](onbekend), ontwikkelen en versterken partijen hun samenwerking op het gebied van het milieu en de volksgezondheid.
+1. Met inachtneming van het Europese Energiehandvest, de Verklaring van de in 1993 in Luzern gehouden Conferentie, de Verklaring van de in oktober 1995 in Sofia gehouden Conferentie en het [Energiehandvestverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001155), inzonderheid [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001155&artikel=19), en het [Protocol bij het Energiehandvestverdrag betreffende energie-efficiëntie en daarmee samenhangende milieu-aspecten](https://wetten.overheid.nl/BWBV0001155), ontwikkelen en versterken partijen hun samenwerking op het gebied van het milieu en de volksgezondheid.
 
 2. De samenwerking beoogt bestrijding van het milieubederf en met name:
 
-- –. daadwerkelijke controle van de verontreinigingsniveaus en beoordeling van het milieu; informatiesysteem met betrekking tot de milieutoestand;
+- – daadwerkelijke controle van de verontreinigingsniveaus en beoordeling van het milieu; informatiesysteem met betrekking tot de milieutoestand;
 
-- –. bestrijding van lokale, regionale en grensoverschrijdende lucht- en waterverontreiniging;
+- – bestrijding van lokale, regionale en grensoverschrijdende lucht- en waterverontreiniging;
 
-- –. ecologisch herstel;
+- – ecologisch herstel;
 
-- –. duurzame, doeltreffende en uit milieu-oogpunt doelmatige energieproduktie en -gebruik;
+- – duurzame, doeltreffende en uit milieu-oogpunt doelmatige energieproduktie en -gebruik;
 
-- –. de veiligheid van industriële installaties;
+- – de veiligheid van industriële installaties;
 
-- –. de classificatie en veilige behandeling van chemische produkten;
+- – de classificatie en veilige behandeling van chemische produkten;
 
-- –. verbetering van de kwaliteit van het water;
+- – verbetering van de kwaliteit van het water;
 
-- –. beperking, recycling en veilige verwijdering van afval; tenuitvoerlegging van het [Verdrag van Bazel](https://wetten.overheid.nl/jci1.3:c:BWBV0002081);
+- – beperking, recycling en veilige verwijdering van afval; tenuitvoerlegging van het [Verdrag van Bazel](https://wetten.overheid.nl/jci1.3:c:BWBV0002081);
 
-- –. onderzoek van de milieu-effecten van de landbouw, bodemerosie en chemische verontreiniging;
+- – onderzoek van de milieu-effecten van de landbouw, bodemerosie en chemische verontreiniging;
 
-- –. de bescherming van bossen;
+- – de bescherming van bossen;
 
-- –. de instandhouding van de biodiversiteit, beschermde gebieden en duurzaam gebruik en beheer van biologische rijkdommen;
+- – de instandhouding van de biodiversiteit, beschermde gebieden en duurzaam gebruik en beheer van biologische rijkdommen;
 
-- –. planning van het landgebruik, met inbegrip van nieuwbouwplanning en stadsplanning;
+- – planning van het landgebruik, met inbegrip van nieuwbouwplanning en stadsplanning;
 
-- –. toepassing van economische en fiscale instrumenten;
+- – toepassing van economische en fiscale instrumenten;
 
-- –. onderzoek van klimaatsveranderingen op aarde;
+- – onderzoek van klimaatsveranderingen op aarde;
 
-- –. milieu-opvoeding en -bewustmaking;
+- – milieu-opvoeding en -bewustmaking;
 
-- –. tenuitvoerlegging van het [Verdrag van Espoo inzake milieu-effectrapportage in grensoverschrijdend verband](https://wetten.overheid.nl/jci1.3:c:BWBV0002731).
+- – tenuitvoerlegging van het [Verdrag van Espoo inzake milieu-effectrapportage in grensoverschrijdend verband](https://wetten.overheid.nl/jci1.3:c:BWBV0002731).
 
 3. De samenwerking vindt met name plaats via:
 
-- –. opstelling van plannen voor rampen en andere noodsituaties;
+- – opstelling van plannen voor rampen en andere noodsituaties;
 
-- –. uitwisseling van informatie en deskundigen, onder meer op het gebied van de overdracht van schone technologieën en het veilige en uit milieu-oogpunt verantwoorde gebruik van biotechnologieën;
+- – uitwisseling van informatie en deskundigen, onder meer op het gebied van de overdracht van schone technologieën en het veilige en uit milieu-oogpunt verantwoorde gebruik van biotechnologieën;
 
-- –. gezamenlijke onderzoeksactiviteiten;
+- – gezamenlijke onderzoeksactiviteiten;
 
-- –. aanpassing van wetgeving aan communautaire normen;
+- – aanpassing van wetgeving aan communautaire normen;
 
-- –. samenwerking in regionaal verband, met inbegrip van samenwerking in het kader van het Europees Milieu-agentschap en op internationaal niveau;
+- – samenwerking in regionaal verband, met inbegrip van samenwerking in het kader van het Europees Milieu-agentschap en op internationaal niveau;
 
-- –. ontwikkeling van strategieën, vooral in verband met wereldomvattende en klimatologische kwesties en tevens met het oog op de totstandbrenging van duurzame ontwikkeling;
+- – ontwikkeling van strategieën, vooral in verband met wereldomvattende en klimatologische kwesties en tevens met het oog op de totstandbrenging van duurzame ontwikkeling;
 
-- –. milieu-effectstudies.
+- – milieu-effectstudies.
 
 4. De partijen streven ernaar hun samenwerking inzake volksgezondheidsvraagstukken uit te breiden, met name via technische bijstand inzake het voorkomen en bestrijden van infectieziekten en de bescherming van moeders en jonge kinderen.
 
@@ -714,47 +637,47 @@ De samenwerking beoogt onder meer de herstructurering en modernisering van de ve
 
 De samenwerking omvat onder meer:
 
-- –. de modernisering van het beheer en de exploitatie van het wegvervoer, de spoorwegen, havens, luchthavens en stadsvervoersystemen voor passagiers;
+- – de modernisering van het beheer en de exploitatie van het wegvervoer, de spoorwegen, havens, luchthavens en stadsvervoersystemen voor passagiers;
 
-- –. de modernisering en ontwikkeling van de spoorweg-, waterweg-, weg-, haven-, luchthaven-, en luchtvaartinfrastructuur, inclusief de modernisering van de belangrijkste verbindingen van gemeenschappelijk belang en de transeuropese verbindingen voor voornoemde vervoertakken, met name die welke verband houden met het TRACECA-project;
+- – de modernisering en ontwikkeling van de spoorweg-, waterweg-, weg-, haven-, luchthaven-, en luchtvaartinfrastructuur, inclusief de modernisering van de belangrijkste verbindingen van gemeenschappelijk belang en de transeuropese verbindingen voor voornoemde vervoertakken, met name die welke verband houden met het TRACECA-project;
 
-- –. de bevordering en ontwikkeling van het multimodale vervoer;
+- – de bevordering en ontwikkeling van het multimodale vervoer;
 
-- –. de bevordering van gezamenlijke onderzoeks- en ontwikkelingsprogramma's;
+- – de bevordering van gezamenlijke onderzoeks- en ontwikkelingsprogramma's;
 
-- –. de totstandbrenging van het wettelijk en institutioneel kader voor beleidsontwikkeling en -uitvoering, inclusief privatisering van de vervoersector.
+- – de totstandbrenging van het wettelijk en institutioneel kader voor beleidsontwikkeling en -uitvoering, inclusief privatisering van de vervoersector.
 
 ##### Artikel 56. Post en telecommunicatie
 
 Binnen de grenzen van hun respectieve bevoegdheden verruimen en versterken partijen hun samenwerking op de volgende terreinen:
 
-- –. de uitstippeling van strategieën en richtsnoeren voor de ontwikkeling van de sector telecommunicatie en de post;
+- – de uitstippeling van strategieën en richtsnoeren voor de ontwikkeling van de sector telecommunicatie en de post;
 
-- –. de ontwikkeling van de beginselen van een tariefbeleid en marketing op het gebied van telecommunicatie en post;
+- – de ontwikkeling van de beginselen van een tariefbeleid en marketing op het gebied van telecommunicatie en post;
 
-- –. de overdracht van technologie en know-how, ook op het terrein van Europese technische normen en certificatiesystemen;
+- – de overdracht van technologie en know-how, ook op het terrein van Europese technische normen en certificatiesystemen;
 
-- –. de bevordering van de ontwikkeling van projecten voor telecommunicatie en post en het aantrekken van investeringen;
+- – de bevordering van de ontwikkeling van projecten voor telecommunicatie en post en het aantrekken van investeringen;
 
-- –. verhoging van de efficiëntie en kwaliteit van telecommunicatie en post, onder meer via de liberalisatie van de activiteiten in subsectoren;
+- – verhoging van de efficiëntie en kwaliteit van telecommunicatie en post, onder meer via de liberalisatie van de activiteiten in subsectoren;
 
-- –. de geavanceerde toepassing van telecommunicatie, met name op het gebied van de elektronische overdracht van kapitaal;
+- – de geavanceerde toepassing van telecommunicatie, met name op het gebied van de elektronische overdracht van kapitaal;
 
-- –. beheer van telecommunicatienetwerken en hun „optimalisering";
+- – beheer van telecommunicatienetwerken en hun „optimalisering";
 
-- –. een passende regelgevingsbasis voor de verstrekking van telecommunicatie- en postdiensten en voor het gebruik van een radiofrequentiespectrum;
+- – een passende regelgevingsbasis voor de verstrekking van telecommunicatie- en postdiensten en voor het gebruik van een radiofrequentiespectrum;
 
-- –. opleiding op het gebied van telecommunicatie en post met het oog op exploitatie onder marktvoorwaarden.
+- – opleiding op het gebied van telecommunicatie en post met het oog op exploitatie onder marktvoorwaarden.
 
 ##### Artikel 57. Financiële dienstverlening en fiscale instellingen
 
 1. De samenwerking beoogt met name vergemakkelijking van het betrekken van de Republiek Oezbekistan bij algemeen erkende onderlinge verrekeningssystemen. De technische bijstand is toegespitst op:
 
-- –. de ontwikkeling van een effectenmarkt en een obligatiemarkt;
+- – de ontwikkeling van een effectenmarkt en een obligatiemarkt;
 
-- –. de ontwikkeling van moderne bancaire diensten, de ontwikkeling van een gemeenschappelijke markt van kredietmiddelen, het betrekken van de Republiek Oezbekistan bij een algemeen erkend onderling verrekeningssysteem;
+- – de ontwikkeling van moderne bancaire diensten, de ontwikkeling van een gemeenschappelijke markt van kredietmiddelen, het betrekken van de Republiek Oezbekistan bij een algemeen erkend onderling verrekeningssysteem;
 
-- –. de ontwikkeling van het verzekeringswezen, hetgeen onder meer een gunstig kader zal vormen voor de deelneming van communautaire maatschappijen aan de totstandbrenging van joint ventures in de verzekeringssector in de Republiek Oezbekistan alsmede de ontwikkeling van de exportkredietverzekering.
+- – de ontwikkeling van het verzekeringswezen, hetgeen onder meer een gunstig kader zal vormen voor de deelneming van communautaire maatschappijen aan de totstandbrenging van joint ventures in de verzekeringssector in de Republiek Oezbekistan alsmede de ontwikkeling van de exportkredietverzekering.
 
 Deze samenwerking draagt met name bij tot de bevordering van het aanknopen van betrekkingen tussen de Partijen in de sector financiële dienstverlening.
 
@@ -766,17 +689,17 @@ Erkennende dat privatisering van fundamenteel belang is voor duurzaam economisch
 
 Technische bijstand is onder andere gericht op:
 
-- –. de verdere ontwikkeling van een institutionele basis binnen de regering van de Republiek Oezbekistan met het oog op omschrijving en beheer van het privatiseringsproces;
+- – de verdere ontwikkeling van een institutionele basis binnen de regering van de Republiek Oezbekistan met het oog op omschrijving en beheer van het privatiseringsproces;
 
-- –. de verdere ontwikkeling van de privatiseringsstrategie van de regering van de Republiek Oezbekistan, met inbegrip van het wettelijke kader, en de uitvoeringsmechanismen;
+- – de verdere ontwikkeling van de privatiseringsstrategie van de regering van de Republiek Oezbekistan, met inbegrip van het wettelijke kader, en de uitvoeringsmechanismen;
 
-- –. het bevorderen van een marktgerichte aanpak inzake het bezit en gebruik van land, en landprivatisering;
+- – het bevorderen van een marktgerichte aanpak inzake het bezit en gebruik van land, en landprivatisering;
 
-- –. de herstructurering van ondernemingen die nog niet gereed zijn voor privatisering;
+- – de herstructurering van ondernemingen die nog niet gereed zijn voor privatisering;
 
-- –. de ontwikkeling van particuliere ondernemingen, met name in het midden- en kleinbedrijf;
+- – de ontwikkeling van particuliere ondernemingen, met name in het midden- en kleinbedrijf;
 
-- –. de ontwikkeling van beleggingsfondsen voor privatiseringsregelingen.
+- – de ontwikkeling van beleggingsfondsen voor privatiseringsregelingen.
 
 Doel van deze samenwerking is onder meer bij te dragen aan het bevorderen van investeringen van de Gemeenschap in de Republiek Oezbekistan.
 
@@ -794,25 +717,25 @@ Zij moedigen tevens directe contacten aan tussen de respectieve regio's en de op
 
 De samenwerking omvat met name:
 
-- –. vorming en opleiding op het gebied van gezondheids- en veiligheidszaken waarbij specifieke aandacht wordt besteed aan de sectoren van bedrijvigheid met grote risico's;
+- – vorming en opleiding op het gebied van gezondheids- en veiligheidszaken waarbij specifieke aandacht wordt besteed aan de sectoren van bedrijvigheid met grote risico's;
 
-- –. de ontwikkeling en bevordering van preventieve maatregelen ter bestrijding van beroepsziekten en andere met het beroep samenhangende aandoeningen;
+- – de ontwikkeling en bevordering van preventieve maatregelen ter bestrijding van beroepsziekten en andere met het beroep samenhangende aandoeningen;
 
-- –. de voorkoming van risico's van het zich voordoen van ernstige ongevallen en het beheer van giftige chemische stoffen;
+- – de voorkoming van risico's van het zich voordoen van ernstige ongevallen en het beheer van giftige chemische stoffen;
 
-- –. onderzoek ter ontwikkeling van fundamentele kennis omtrent de werkomgeving en de gezondheid en veiligheid van werknemers.
+- – onderzoek ter ontwikkeling van fundamentele kennis omtrent de werkomgeving en de gezondheid en veiligheid van werknemers.
 
 2. Op het gebied van de werkgelegenheid omvat de samenwerking met name technische bijstand met het oog op:
 
-- –. optimalisering van de arbeidsmarkt;
+- – optimalisering van de arbeidsmarkt;
 
-- –. modernisering van de arbeidsbemiddelings- en adviseringsdiensten;
+- – modernisering van de arbeidsbemiddelings- en adviseringsdiensten;
 
-- –. planning en beheer van de herstructureringsprogramma's;
+- – planning en beheer van de herstructureringsprogramma's;
 
-- –. stimulering van de ontwikkeling van lokale werkgelegenheid;
+- – stimulering van de ontwikkeling van lokale werkgelegenheid;
 
-- –. uitwisseling van informatie over programma's inzake een flexibele arbeid, inclusief programma's die het oprichten van eigen ondernemingen en het ondernemerschap bevorderen.
+- – uitwisseling van informatie over programma's inzake een flexibele arbeid, inclusief programma's die het oprichten van eigen ondernemingen en het ondernemerschap bevorderen.
 
 3. Partijen besteden bijzondere aandacht aan samenwerking op het gebied van de sociale bescherming die onder meer samenwerking bij het plannen en ten uitvoer leggen van hervormingen van de sociale bescherming in de Republiek Oezbekistan omvat.
 
@@ -822,17 +745,17 @@ Deze hervormingen beogen de ontwikkeling in de Republiek Oezbekistan van aan mar
 
 Partijen verhogen en ontwikkelen hun samenwerking die omvat:
 
-- –. bevordering van het toerisme;
+- – bevordering van het toerisme;
 
-- –. bevordering van de informatiestroom;
+- – bevordering van de informatiestroom;
 
-- –. overdracht van know-how;
+- – overdracht van know-how;
 
-- –. bestudering van de mogelijkheden voor gezamenlijke acties;
+- – bestudering van de mogelijkheden voor gezamenlijke acties;
 
-- –. samenwerking tussen officiële vreemdelingenverkeersorganen, met inbegrip van de voorbereiding van promotiemateriaal;
+- – samenwerking tussen officiële vreemdelingenverkeersorganen, met inbegrip van de voorbereiding van promotiemateriaal;
 
-- –. opleiding voor de ontwikkeling van het toerisme.
+- – opleiding voor de ontwikkeling van het toerisme.
 
 ##### Artikel 62. Midden- en kleinbedrijf
 
@@ -840,11 +763,11 @@ Partijen verhogen en ontwikkelen hun samenwerking die omvat:
 
 2. De samenwerking omvat technische bijstand, met name op de volgende terreinen:
 
-- –. de ontwikkeling van een wettelijk kader voor het midden- en kleinbedrijf;
+- – de ontwikkeling van een wettelijk kader voor het midden- en kleinbedrijf;
 
-- –. de ontwikkeling van een passende infrastructuur ter ondersteuning van het midden- en kleinbedrijf; ter bevordering van communicatie tussen MKB's, zowel in Oezbekistan zelf als daarbuiten; en teneinde MKB's de nodige vaardigheden inzake financieringstechnieken bij te brengen;
+- – de ontwikkeling van een passende infrastructuur ter ondersteuning van het midden- en kleinbedrijf; ter bevordering van communicatie tussen MKB's, zowel in Oezbekistan zelf als daarbuiten; en teneinde MKB's de nodige vaardigheden inzake financieringstechnieken bij te brengen;
 
-- –. opleiding op het gebied van marketing, boekhouding en produktkwaliteitsbeheersing.
+- – opleiding op het gebied van marketing, boekhouding en produktkwaliteitsbeheersing.
 
 ##### Artikel 63. Informatie en communicatie
 
@@ -860,19 +783,19 @@ Partijen werken nauw samen met het oog op de verwezenlijking van verenigbaarheid
 
 2. De samenwerking omvat in het bijzonder de volgende elementen:
 
-- –. uitwisseling van informatie;
+- – uitwisseling van informatie;
 
-- –. verbetering van de werkmethoden;
+- – verbetering van de werkmethoden;
 
-- –. invoering van een gecombineerde nomenclatuur en het enig administratief document;
+- – invoering van een gecombineerde nomenclatuur en het enig administratief document;
 
-- –. het op elkaar aansluiten van de doorvoersystemen van de Gemeenschap en de Republiek Oezbekistan;
+- – het op elkaar aansluiten van de doorvoersystemen van de Gemeenschap en de Republiek Oezbekistan;
 
-- –. vereenvoudiging van controles op en formaliteiten bij het goederenvervoer;
+- – vereenvoudiging van controles op en formaliteiten bij het goederenvervoer;
 
-- –. steun bij de invoering van moderne douane-informatiesystemen;
+- – steun bij de invoering van moderne douane-informatiesystemen;
 
-- –. de organisatie van studiebijeenkomsten en opleidingsperioden.
+- – de organisatie van studiebijeenkomsten en opleidingsperioden.
 
 Waar nodig wordt technische bijstand verstrekt.
 
@@ -884,11 +807,11 @@ De samenwerking op dit gebied beoogt de ontwikkeling van een efficiënt statisti
 
 Partijen werken met name op de volgende terreinen samen:
 
-- –. aanpassing van het statistisch systeem van Oezbekistan aan internationale methoden, normen en classificaties;
+- – aanpassing van het statistisch systeem van Oezbekistan aan internationale methoden, normen en classificaties;
 
-- –. uitwisseling van statistische gegevens;
+- – uitwisseling van statistische gegevens;
 
-- –. het leveren van de nodige statistische macro- en micro-economische gegevens om economische hervormingen uit te voeren en te beheren.
+- – het leveren van de nodige statistische macro- en micro-economische gegevens om economische hervormingen uit te voeren en te beheren.
 
 De bijdrage van de Gemeenschap om dit doel te verwezenlijken, bestaat in het leveren van technische bijstand aan de Republiek Oezbekistan.
 
@@ -898,13 +821,13 @@ Partijen vergemakkelijken het proces van economische hervorming en de coördinat
 
 De Gemeenschap verstrekt technische bijstand om:
 
-- –. de Republiek Oezbekistan bij te staan in haar economisch hervormingsproces door het verstrekken van deskundige en technische adviezen;
+- – de Republiek Oezbekistan bij te staan in haar economisch hervormingsproces door het verstrekken van deskundige en technische adviezen;
 
-- –. samenwerking tussen economen aan te moedigen ten einde de overdracht van know-how voor de uitstippeling van economisch beleid te bespoedigen en te zorgen voor ruime verspreiding van onderzoek dat voor het beleid van belang kan zijn;
+- – samenwerking tussen economen aan te moedigen ten einde de overdracht van know-how voor de uitstippeling van economisch beleid te bespoedigen en te zorgen voor ruime verspreiding van onderzoek dat voor het beleid van belang kan zijn;
 
-- –. het vermogen van de Republiek Oezbekistan tot het ontwikkelen van economische modellen te verbeteren.
+- – het vermogen van de Republiek Oezbekistan tot het ontwikkelen van economische modellen te verbeteren.
 
-## TITEL VII. SAMENWERKING OP HET GEBIED VAN DEMOCRATIE EN MENSENRECHTEN
+### TITEL VII. SAMENWERKING OP HET GEBIED VAN DEMOCRATIE EN MENSENRECHTEN
 
 ##### Artikel 68
 
@@ -912,29 +835,29 @@ De Partijen werken samen in alle kwesties betreffende de instelling of versterki
 
 Deze samenwerking krijgt gestalte in programma's voor technische bijstand onder meer op het gebied van het opstellen van relevante wet- en regelgeving; de uitvoering van deze wetgeving; het functioneren van het gerecht; de rol van de staat op juridisch gebied; de werking van het kiesstelsel. Zo nodig valt ook opleiding hieronder. De partijen bevorderen contacten en uitwisselingen tussen hun nationale, regionale en gerechtelijke autoriteiten, parlementsleden, en non-gouvernementele organisaties.
 
-## TITEL VIII. SAMENWERKING BIJ DE PREVENTIE VAN ILLEGALE ACTIVITEITEN EN DE PREVENTIE VAN EN CONTROLE OP ILLEGALE IMMIGRATIE
+### TITEL VIII. SAMENWERKING BIJ DE PREVENTIE VAN ILLEGALE ACTIVITEITEN EN DE PREVENTIE VAN EN CONTROLE OP ILLEGALE IMMIGRATIE
 
 ##### Artikel 69
 
 De Partijen werken samen bij het voorkomen van illegale activiteiten zoals:
 
-- –. illegale activiteiten in de economische sfeer, inclusief corruptie;
+- – illegale activiteiten in de economische sfeer, inclusief corruptie;
 
-- –. illegale transacties betreffende diverse goederen, inclusief industrie-afval, sluikhandel in wapens;
+- – illegale transacties betreffende diverse goederen, inclusief industrie-afval, sluikhandel in wapens;
 
-- –. namaak;
+- – namaak;
 
 Samenwerking op bovengenoemde terreinen is gebaseerd op wederzijds overleg en nauwe interactie. Technische en administratieve bijstand kan worden verstrekt, onder meer op de volgende terreinen:
 
-- –. het opstellen van nationale wetgeving in de sfeer van preventie van illegale activiteiten;
+- – het opstellen van nationale wetgeving in de sfeer van preventie van illegale activiteiten;
 
-- –. het opzetten van informatiecentra;
+- – het opzetten van informatiecentra;
 
-- –. het vergroten van de efficiëntie van instellingen die werkzaam zijn op het gebied van de preventie van illegale activiteiten;
+- – het vergroten van de efficiëntie van instellingen die werkzaam zijn op het gebied van de preventie van illegale activiteiten;
 
-- –. het opleiden van personeel en het ontwikkeling1)[Red: Lees: ontwikkelen.] van onderzoeksinfrastructuur;
+- – het opleiden van personeel en het ontwikkeling1)[Red: Lees: ontwikkelen.] van onderzoeksinfrastructuur;
 
-- –. het uitwerken van wederzijds aanvaardbare maatregelen om illegale activiteiten te verhinderen.
+- – het uitwerken van wederzijds aanvaardbare maatregelen om illegale activiteiten te verhinderen.
 
 ##### Artikel 70. Het witwassen van geld
 
@@ -950,9 +873,9 @@ Partijen werken in het kader van hun respectieve bevoegdheden samen aan verhogin
 
 1. De Lid-Staten van de Europese Unie en de Republiek Oezbekistan komen overeen samen te werken op het gebied van de preventie van en controle op illegale immigratie. Hiertoe:
 
-- –. zal de Republiek Oezbekistan haar onderdanen die illegaal aanwezig zijn op het grondgebied van een Lid-Staat op verzoek van deze Lid-Staat en zonder verdere formaliteiten opnieuw opnemen;
+- – zal de Republiek Oezbekistan haar onderdanen die illegaal aanwezig zijn op het grondgebied van een Lid-Staat op verzoek van deze Lid-Staat en zonder verdere formaliteiten opnieuw opnemen;
 
-- –. zal elke Lid-Staat zijn onderdanen, zoals gedefinieerd voor communautaire doeleinden, die illegaal aanwezig zijn op het grondgebied van de Republiek Oezbekistan op verzoek van Oezbekistan en zonder verdere formaliteiten opnieuw opnemen.
+- – zal elke Lid-Staat zijn onderdanen, zoals gedefinieerd voor communautaire doeleinden, die illegaal aanwezig zijn op het grondgebied van de Republiek Oezbekistan op verzoek van Oezbekistan en zonder verdere formaliteiten opnieuw opnemen.
 
 Hiertoe zullen de Lid-Staten en de Republiek Oezbekistan hun onderdanen van passende identiteitsdocumenten voorzien.
 
@@ -960,13 +883,13 @@ Hiertoe zullen de Lid-Staten en de Republiek Oezbekistan hun onderdanen van pass
 
 3. De Samenwerkingsraad onderzoekt welke gezamenlijke inspanningen gedaan kunnen worden voor de preventie van en de controle op illegale immigratie.
 
-## TITEL IX. CULTURELE SAMENWERKING
+### TITEL IX. CULTURELE SAMENWERKING
 
 ##### Artikel 73
 
 Partijen verbinden zich ertoe culturele samenwerking te bevorderen en te vergemakkelijken. In voorkomend geval kunnen de culturele samenwerkingsprogramma's van de Gemeenschap of de programma's van een of meer Lid-Staten het voorwerp van samenwerking vormen en kunnen verdere activiteiten van wederzijds belang worden ontwikkeld.
 
-## TITEL X. FINANCIËLE SAMENWERKING OP HET GEBIED VAN TECHNISCHE BIJSTAND
+### TITEL X. FINANCIËLE SAMENWERKING OP HET GEBIED VAN TECHNISCHE BIJSTAND
 
 ##### Artikel 74
 
@@ -984,7 +907,7 @@ De doelstellingen en terreinen van de financiële steun van de Gemeenschap worde
 
 Om optimaal profijt te kunnen trekken uit de beschikbare middelen zorgen partijen ervoor dat de technische bijstandsbijdragen van de Gemeenschap worden toegekend in nauwe coördinatie met die uit andere financieringsbronnen, zoals de Lid-Staten, andere landen en internationale organisaties, zoals de Internationale Bank voor Herstel en Ontwikkeling en de Europese Bank voor Wederopbouw en Ontwikkeling.
 
-## TITEL XI. INSTITUTIONELE, ALGEMENE EN SLOTBEPALINGEN
+### TITEL XI. INSTITUTIONELE, ALGEMENE EN SLOTBEPALINGEN
 
 ##### Artikel 78
 
@@ -1012,7 +935,7 @@ De Samenwerkingsraad kan besluiten ieder ander speciaal comité of lichaam dat h
 
 ##### Artikel 82
 
-Bij het onderzoek van ongeacht welke kwestie die zich voordoet in het kader van de Overeenkomst met betrekking tot een bepaling betreffende een artikel van de [GATT](onbekend)/[WTO](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) houdt de Samenwerkingsraad zoveel mogelijk rekening met de algemeen gebruikelijke interpretatie van het artikel van de GATT/WTO in kwestie door de leden van de WTO.
+Bij het onderzoek van ongeacht welke kwestie die zich voordoet in het kader van de Overeenkomst met betrekking tot een bepaling betreffende een artikel van de [GATT](https://wetten.overheid.nl/BWBV0001160)/[WTO](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) houdt de Samenwerkingsraad zoveel mogelijk rekening met de algemeen gebruikelijke interpretatie van het artikel van de GATT/WTO in kwestie door de leden van de WTO.
 
 ##### Artikel 83
 
@@ -1040,13 +963,13 @@ Het Parlementaire Samenwerkingscomité mag aanbevelingen doen aan de Samenwerkin
 
 2. Binnen de grenzen van hun respectieve bevoegdheden zetten beide partijen zich in om:
 
-- –. arbitrage aan te moedigen bij geschillen die voortkomen uit handels- en samenwerkingstransacties tussen economische subjecten van de Gemeenschap en de Republiek Oezbekistan;
+- – arbitrage aan te moedigen bij geschillen die voortkomen uit handels- en samenwerkingstransacties tussen economische subjecten van de Gemeenschap en de Republiek Oezbekistan;
 
-- –. overeen te komen dat wanneer een geschil ter arbitrage wordt voorgelegd elke partij bij het geschil, behalve wanneer de regels van de arbitrage-instantie die door beide partijen is gekozen anders bepalen, haar eigen arbiter kiest, ongeacht diens nationaliteit en dat de voorzittende derde arbiter of de enige arbiter een ingezetene van een derde staat mag zijn;
+- – overeen te komen dat wanneer een geschil ter arbitrage wordt voorgelegd elke partij bij het geschil, behalve wanneer de regels van de arbitrage-instantie die door beide partijen is gekozen anders bepalen, haar eigen arbiter kiest, ongeacht diens nationaliteit en dat de voorzittende derde arbiter of de enige arbiter een ingezetene van een derde staat mag zijn;
 
-- –. hun economische subjecten aan te bevelen in onderling overleg de wetgeving te kiezen die van toepassing is op hun contracten;
+- – hun economische subjecten aan te bevelen in onderling overleg de wetgeving te kiezen die van toepassing is op hun contracten;
 
-- –. aan te moedigen dat een beroep wordt gedaan op de arbitragevoorschriften die zijn uitgewerkt door de Commissie van de Verenigde Naties inzake Internationaal Handelsrecht (Uncitral) en arbitrage door een andere instantie of staat die het [verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005176) hebben ondertekend over de erkenning en tenuitvoerlegging van buitenlandse arbitrale uitspraken dat op 10 juni 1958 in New York werd gesloten.
+- – aan te moedigen dat een beroep wordt gedaan op de arbitragevoorschriften die zijn uitgewerkt door de Commissie van de Verenigde Naties inzake Internationaal Handelsrecht (Uncitral) en arbitrage door een andere instantie of staat die het [verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005176) hebben ondertekend over de erkenning en tenuitvoerlegging van buitenlandse arbitrale uitspraken dat op 10 juni 1958 in New York werd gesloten.
 
 ##### Artikel 87
 
@@ -1064,9 +987,9 @@ Niets in de Overeenkomst zal een Overeenkomstsluitende Partij beletten maatregel
 
 1. Op de door de Overeenkomst bestreken terreinen en onverminderd eventueel daarin neergelegde bijzondere bepalingen geldt het volgende:
 
-- –. de regelingen die de Republiek Oezbekistan ten opzichte van de Gemeenschap toepast zullen geen aanleiding geven tot discriminatie tussen de Lid-Staten, hun onderdanen dan wel hun bedrijven of firma's;
+- – de regelingen die de Republiek Oezbekistan ten opzichte van de Gemeenschap toepast zullen geen aanleiding geven tot discriminatie tussen de Lid-Staten, hun onderdanen dan wel hun bedrijven of firma's;
 
-- –. de regelingen die de Gemeenschap ten opzichte van de Republiek Oezbekistan toepast zullen geen aanleiding geven tot discriminatie tussen onderdanen van de Republiek Oezbekistan dan wel bedrijven of firma's uit de Republiek Oezbekistan.
+- – de regelingen die de Gemeenschap ten opzichte van de Republiek Oezbekistan toepast zullen geen aanleiding geven tot discriminatie tussen onderdanen van de Republiek Oezbekistan dan wel bedrijven of firma's uit de Republiek Oezbekistan.
 
 2. Het bepaalde in lid 1 doet geen afbreuk aan het recht van de Overeenkomstsluitende Partijen om de ter zake doende bepalingen van hun belastingwetgeving toe te passen op belastingplichtingen, die niet in dezelfde situatie verkeren ten aanzien van hun vaste woonplaats.
 
@@ -1145,191 +1068,5 @@ Bij haar inwerkingtreding vervangt deze Overeenkomst, wat de betrekkingen tussen
 ##### Artikel 102
 
 Indien de bepalingen van bepaalde onderdelen van deze Overeenkomst in afwachting van de voltooiing van de procedures die noodzakelijk zijn voor de inwerkingtreding van deze Overeenkomst in werking treden door middel van een Interimovereenkomst tussen de Gemeenschap en de Republiek Oezbekistan, komen de overeenkomstsluitende partijen overeen dat de term „datum van inwerkingtreding van de overeenkomst" in dat geval betekent de datum van inwerkingtreding van de Interimovereenkomst.
-
-##### Artikel 1. Definities
-
-Voor de toepassing van dit protocol wordt verstaan onder:
-
-- a. douanewetgeving: de op het grondgebied van overeenkomstsluitende partijen geldende voorschriften betreffende de invoer, de uitvoer en de doorvoer van goederen en de plaatsing van goederen onder een douaneregeling, met inbegrip van verboden, beperkingen en controlemaatregelen;
-
-- b. verzoekende autoriteit: een bevoegde administratieve autoriteit die hiertoe door een overeenkomstsluitende partij is aangewezen en die een verzoek om administratieve bijstand in douanezaken indient;
-
-- c. aangezochte autoriteit: een bevoegde administratieve autoriteit die hiertoe door een overeenkomstsluitende partij is aangewezen en die een verzoek om administratieve bijstand in douanezaken ontvangt;
-
-- d. persoonlijke gegevens: informatie betreffende een geïdentificeerde of identificeerbare persoon.
-
-##### Artikel 2. Werkingssfeer
-
-1. De overeenkomstsluitende partijen verlenen elkaar, binnen hun bevoegdheden, bijstand, op de wijze en onder de voorwaarden vastgesteld in dit protocol, bij de preventie, de opsporing en het onderzoek van overtredingen van de douanewetgeving.
-
-2. De bijstand in douanezaken waarin dit protocol voorziet, geldt voor elke administratieve autoriteit van de overeenkomstsluitende partijen die bevoegd is voor de toepassing van dit protocol. De bijstand in douanezaken doet geen afbreuk aan de regels betreffende de wederzijdse bijstand in strafzaken en geldt niet voor informatie die is verkregen krachtens bevoegdheden die op verzoek van de rechterlijke autoriteiten worden uitgeoefend, tenzij deze autoriteiten hiermee instemmen.
-
-##### Artikel 3. Bijstand op verzoek
-
-1. Op aanvraag van de verzoekende autoriteit verschaft de aangezochte autoriteit eerstgenoemde alle ter zake dienende informatie die deze nodig heeft voor de correcte toepassing van de douanewetgeving, met inbegrip van informatie betreffende vastgestelde of voorgenomen transacties die op deze wetgeving inbreuk maken of zouden kunnen maken.
-
-2. Op aanvraag van de verzoekende autoriteit deelt de aangezochte autoriteit haar mede of goederen die uit het grondgebied van een der overeenkomstsluitende partijen zijn uitgevoerd, op regelmatige wijze in de andere partij zijn ingevoerd, onder vermelding, in voorkomend geval, van de douaneregeling waaronder deze goederen zijn geplaatst.
-
-3. Op aanvraag van de verzoekende autoriteit zorgt de aangezochte autoriteit, binnen het kader van haar wetgeving, ervoor dat toezicht wordt gehouden op:
-
-- a. natuurlijke personen of rechtspersonen ten aanzien waarvan een gegrond vermoeden bestaat dat zij de douanewetgeving overtreden of overtreden hebben;
-
-- b. de plaats waar voorraden goederen op zodanige wijze zijn bijeengebracht dat er redenen zijn om aan te nemen dat zij bestemd zijn voor transacties die in strijd zijn met de douanewetgeving;
-
-- c. goederenbewegingen waarover wordt medegedeeld dat zij aanleiding kunnen geven tot overtredingen van de douanewetgeving;
-
-- d. vervoermiddelen ten aanzien waarvan een gegrond vermoeden bestaat dat zij voor het plegen van inbreuken op de douanewetgeving werden gebruikt, worden gebruikt of zouden kunnen worden gebruikt.
-
-##### Artikel 4. Bijstand op eigen initiatief
-
-De overeenkomstsluitende partijen verlenen elkaar, voorzover hun wetten, voorschriften en andere rechtsinstrumenten dat toelaten, zonder voorafgaand verzoek bijstand indien zij zulks noodzakelijk achten voor de correcte toepassing van de douanewetgeving, in het bijzonder bij het verkrijgen van informatie omtrent:
-
-- –. transacties die een inbreuk vormen of lijken te vormen op deze wetgeving en die van belang kunnen zijn voor een andere overeenkomstsluitende partij;
-
-- –. nieuwe middelen of methoden die bij dergelijke transacties worden gebruikt;
-
-- –. goederen waarvan bekend is dat zij het voorwerp vormen van een overtreding van de douanewetgeving;
-
-- –. natuurlijke personen of rechtspersonen ten aanzien waarvan er gegronde redenen zijn om aan te nemen dat zij de douanewetgeving overtreden of hebben overtreden;
-
-- –. vervoermiddelen ten aanzien waarvan een gegrond vermoeden bestaat dat zij voor het plegen van inbreuken op de douanewetgeving werden gebruikt, worden gebruikt of zouden kunnen worden gebruikt.
-
-##### Artikel 5. Afgifte van documenten/Kennisgeving van besluiten
-
-Op aanvraag van de verzoekende autoriteit neemt de aangezochte autoriteit, overeenkomstig haar eigen wetgeving, de nodige maatregelen voor:
-
-- –. de afgifte van alle documenten,
-
-- –. de kennisgeving van alle besluiten,
-
-waarop het bepaalde in dit protocol van toepassing is, aan een geadresseerde die op haar grondgebied verblijft of gevestigd is. In dergelijk geval is artikel 6, lid 3, van toepassing wat het verzoek zelf betreft.
-
-##### Artikel 6. Vorm en inhoud van verzoeken om bijstand
-
-1. Verzoeken in het kader van dit protocol worden schriftelijk gedaan en gaan vergezeld van de bescheiden die voor de behandeling ervan noodzakelijk zijn. In spoedeisende gevallen kunnen verzoeken mondeling worden gedaan, mits zij onmiddellijk schriftelijk worden bevestigd.
-
-2. De overeenkomstig het bepaalde in lid 1 ingediende verzoeken bevatten de hierna volgende gegevens:
-
-- a. de naam van de verzoekende autoriteit;
-
-- b. de gevraagde maatregel;
-
-- c. het onderwerp en de reden van het verzoek;
-
-- d. de relevante wetten, regels en andere rechtsvoorschriften;
-
-- e. zo nauwkeurig en volledig mogelijke informatie betreffende de natuurlijke personen of rechtspersonen waarop het onderzoek betrekking heeft;
-
-- f. een overzicht van de relevante feiten en het reeds uitgevoerde onderzoek, behalve in de in artikel 5 bedoelde gevallen.
-
-3. De verzoeken worden ingediend in een officiële taal van de aangezochte autoriteit of in een voor deze aanvaardbare taal.
-
-4. Indien een verzoek niet in de juiste vorm wordt gedaan, kan om correctie of aanvulling worden verzocht. Er kunnen echter reeds conservatoire maatregelen worden genomen.
-
-##### Artikel 7. Behandeling van verzoeken
-
-1. De aangezochte autoriteit behandelt verzoeken om bijstand, binnen de grenzen van haar bevoegdheden en de haar beschikbare middelen, alsof zij voor eigen rekening of in opdracht van een andere autoriteit van dezelfde overeenkomstsluitende partij handelde, door reeds beschikbare informatie te verstrekken en het nodige onderzoek te verrichten of te doen verrichten. Deze bepaling is ook van toepassing op de administratieve dienst waaraan het verzoek door de aangezochte autoriteit werd gericht indien deze laatste niet tot zelfstandig handelen bevoegd is.
-
-2. Verzoeken om bijstand worden behandeld overeenkomstig de wetten, regels en andere rechtsvoorschriften van de aangezochte overeenkomstsluitende partij.
-
-3. Gemachtigde ambtenaren van een overeenkomstsluitende partij kunnen met instemming van de andere betrokken overeenkomstsluitende partij en onder de voorwaarden die laatstgenoemde stelt, van de diensten van de aangezochte autoriteit of van een andere autoriteit die onder de aangezochte autoriteit ressorteert, informatie over transacties waarbij de douanewetgeving wordt of zou kunnen worden overtreden verkrijgen die de verzoekende autoriteit nodig heeft ter uitvoering van het bepaalde in dit protocol.
-
-4. Ambtenaren van een overeenkomstsluitende partij kunnen, met instemming van de andere betrokken overeenkomstsluitende partij, en onder de voorwaarden die laatstgenoemde stelt, aanwezig zijn bij onderzoek dat op het grondgebied van laatstgenoemde wordt verricht. Zij dragen geen uniform en geen wapens.
-
-##### Artikel 8. Vorm waarin de informatie dient te worden verstrekt
-
-1. De aangezochte autoriteit deelt de uitslag van het ingestelde onderzoek aan de verzoekende autoriteit mede in de vorm van bescheiden, voor echt gewaarmerkte afschriften van bescheiden, rapporten en dergelijke.
-
-2. De in lid 1 bedoelde bescheiden kunnen worden vervangen door informatie die, in ongeacht welke vorm, met behulp van systemen voor automatische gegevensverwerking voor hetzelfde doel wordt verstrekt.
-
-##### Artikel 9. Uitzonderingen op de verplichting tot het verlenen van bijstand
-
-1. De overeenkomstsluitende partijen kunnen de in dit protocol bedoelde bijstand weigeren wanneer het verlenen daarvan:
-
-- a. de soevereiniteit van de Republiek Oezbekistan of die van een Lid-Staat die uit hoofde van dit protocol om bijstand is gevraagd zou kunnen aantasten;
-
-- b. de openbare orde, veiligheid of andere wezenlijke belangen, in het bijzonder de in artikel 10, lid 2, genoemde gevallen, zou kunnen aantasten;
-
-- c. de toepassing inhoudt van deviezen- of belastingvoorschriften andere dan voorschriften inzake douanerechten; of
-
-- d. de schending zou inhouden van een industrieel geheim, een handelsgeheim of een beroepsgeheim.
-
-2. Wanneer de verzoekende autoriteit om een vorm van bijstand verzoekt die zij desgevraagd zelf niet zou kunnen verlenen, vermeldt zij dit in haar verzoek. De aangezochte autoriteit bepaalt zelf hoe zij op een dergelijk verzoek reageert.
-
-3. Indien bijstand wordt geweigerd, dienen het daartoe strekkende besluit en de redenen ervan onverwijld aan de verzoekende autoriteit te worden medegedeeld.
-
-##### Artikel 10. Het uitwisselen van gegevens en geheimhouding
-
-1. Alle informatie, in welke vorm dan ook, die ter uitvoering van dit protocol is verstrekt, heeft een vertrouwelijk karakter, of is voor beperkte verspreiding bestemd, afhankelijk van de van toepassing zijnde voorschriften van elk van de overeenkomstsluitende partijen, en valt onder de geheimhoudingsplicht. Op deze informatie is de wetgeving van toepassing die op soortgelijke informatie van de ontvangende overeenkomstsluitende partij van toepassing is. Tevens zijn de ter zake geldende bepalingen van toepassing waaraan de communautaire instellingen zijn onderworpen.
-
-2. Persoonlijke gegevens mogen alleen worden verstrekt wanneer de ontvangende overeenkomstsluitende partij zich ertoe verbindt deze gegevens een op zijn minst equivalente bescherming te geven als die welke in dat specifieke geval wordt toegepast door de overeenkomstsluitende partij die de gegevens verstrekt.
-
-3. De verkregen informatie mag uitsluitend worden gebruikt voor de in dit protocol omschreven doeleinden. Een partij mag deze informatie slechts voor andere doeleinden gebruiken na schriftelijke toestemming van de administratieve autoriteit die ze heeft verstrekt. Voorts gelden voor deze informatie de door deze autoriteit vastgestelde beperkingen.
-
-4. Het bepaalde in lid 3 vormt geen beletsel voor het gebruik van informatie in gerechtelijke of administratieve procedures die achteraf worden ingesteld wegens niet-naleving van de douanewetgeving. De bevoegde autoriteit die de informatie heeft verstrekt wordt van een dergelijk gebruik in kennis gesteld.
-
-5. De overeenkomstsluitende partijen kunnen de overeenkomstig het bepaalde in dit protocol verkregen informatie en geraadpleegde bescheiden als bewijsmateriaal gebruiken in hun rapporten, getuigenverklaringen en in gerechtelijke procedures.
-
-##### Artikel 11. Deskundigen en getuigen
-
-1. Een onder een aangezochte autoriteit ressorterende ambtenaar kan worden gemachtigd, binnen de beperkingen van de hem verleende machtiging, in het rechtsgebied van de andere overeenkomstsluitende partij als getuige of deskundige op te treden in gerechtelijke of administratieve procedures die betrekking hebben op aangelegenheden waarop dit protocol van toepassing is en daarbij de voor deze procedures noodzakelijk voorwerpen, bescheiden of voor echt gewaarmerkte afschriften van bescheiden voor te leggen. In de convocatie dient uitdrukkelijk te worden vermeld over welk onderwerp en in welke functie of hoedanigheid de betrokken ambtenaar zal worden ondervraagd.
-
-2. De gemachtigde ambtenaar geniet de door bestaande wetgeving aan ambtenaren van de verzoekende autoriteit op haar grondgebied verleende bescherming.
-
-##### Artikel 12. Kosten van de bijstand
-
-De partijen brengen elkaar geen kosten in rekening voor uitgaven die ter uitvoering van dit protocol zijn gemaakt, met uitzondering, in voorkomend geval, van de uitgaven voor deskundigen, getuigen, tolken en vertalers die niet in overheidsdienst zijn.
-
-##### Artikel 13. Tenuitvoerlegging
-
-1. De centrale douane-autoriteiten van de Republiek Oezbekistan, enerzijds, en de bevoegde diensten van de Commissie van de Europese Gemeenschappen en, in voorkomend geval, de douane autoriteiten van de Lid-Staten, anderzijds, zijn belast met de uitvoering van dit Protocol. Deze instanties stellen alle praktische maatregelen en regelingen voor de toepassing van dit protocol vast, met inachtneming van de voorschriften op het gebied van de gegevensbescherming. Zij kunnen de bevoegde instanties aanbevelingen doen voor wijzigingen die huns inziens in dit protocol dienen te worden aangebracht.
-
-2. De overeenkomstsluitende partijen raadplegen elkaar en stellen elkaar vervolgens in kennis van alle uitvoeringsbepalingen die overeenkomstig de bepalingen van dit protocol worden genomen.
-
-##### Artikel 14. Complementariteit
-
-Onverminderd artikel 10 doet geen overeenkomst inzake wederzijdse bijstand die tussen een of meer Lid-Staten en de Republiek Oezbekistan gesloten is afbreuk aan de communautaire voorschriften betreffende de uitwisseling tussen de bevoegde diensten van de Commissie van de Europese Gemeenschap en de douaneautoriteiten van de Lid-Staten van informatie over douanezaken die voor de Gemeenschap van belang kan zijn.
-
-De gevolgmachtigden van:
-
-Het Koninkrijk België,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-Ierland,
-
-de Italiaanse Republiek,
-
-het Groothertogdom Luxemburg,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Portugese Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-Verdragsluitende partijen bij het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal en het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033),
-
-hierna „de Lid-Staten” te noemen, en van
-
-de Europese Gemeenschap, de Europese Gemeenschap voor Kolen en Staal en de Europese Gemeenschap voor Atoomenergie, hierna „de Gemeenschap” te noemen, enerzijds, en
-
-de gevolmachtigden van de Republiek Oezbekistan anderzijds,
-
-bijeengekomen te Florence, op 21.06.1996, voor de ondertekening van de Partnerschaps- en samenwerkingsovereenkomst waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Republiek Oezbekistan, anderzijds, hierna „de Partnerschaps- en samenwerkingsovereenkomst” te noemen, hebben de volgende teksten aangenomen:
 
 GEDAAN te Florence, de eenentwintigste juni negentienhonderd zesennegentig.

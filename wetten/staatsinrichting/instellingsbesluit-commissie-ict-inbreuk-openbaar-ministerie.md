@@ -1,32 +1,34 @@
 ---
-title: "Instellingsbesluit Commissie ICT-inbreuk openbaar ministerie"
+title: "Besluit van de Minister van Justitie en Veiligheid en het College van procureurs-generaal van 28 januari 2026, nr. 6789396, tot instelling van de Commissie ICT-inbreuk openbaar ministerie (Instellingsbesluit Commissie ICT-inbreuk openbaar ministerie)"
+citeertitel: "Instellingsbesluit Commissie ICT-inbreuk openbaar ministerie"
 identifier: "BWBR0052266"
 categorie: "Overig"
-publicatiedatum: 2026-07-22
-laatste_update: 2026-07-24
+soort: "ministeriele-regeling"
+publicatiedatum: 2026-02-06
+laatste_update: 2026-07-22
 status: geldig
+toestand: 2026-07-22
 bron: "https://wetten.overheid.nl/BWBR0052266"
+opgehaald: 2026-09-10
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid en het College van procureurs-generaal van 28 januari 2026, nr. 6789396, tot instelling van de Commissie ICT-inbreuk openbaar ministerie (Instellingsbesluit Commissie ICT-inbreuk openbaar ministerie)
-
-Besluiten:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** de Minister van Justitie en Veiligheid;
+- a. *minister:* de Minister van Justitie en Veiligheid;
 
-- b. **college:** het College van procureurs-generaal;
+- b. *college:* het College van procureurs-generaal;
 
-- c. **commissie:** de commissie zoals bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052266&artikel=2&z=2026-07-22&g=2026-07-22);
+- c. *commissie:* de commissie zoals bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052266&artikel=2&z=2026-07-22&g=2026-07-22);
 
 ##### Artikel 2. Instelling en taak
 
 1. Er is een Commissie ICT-inbreuk openbaar ministerie.
 
-2. De commissie heeft tot taak het onderzoeken van de ICT-inbreuk bij het openbaar ministerie zoals gemanifesteerd op 17 juli 2025. Daarbij worden in elk geval de volgende elementen betrokken:
+2. De commissie heeft tot taak het onderzoeken van de ICT-inbreuk bij het openbaar ministerie zoals gemanifesteerd op 17 juli 2025. Daarbij worden in elk geval de volgende elementen betrokken:
 
 - a. een terugblik op het incident;
 
@@ -88,7 +90,7 @@ De commissie wordt vier weken nadat het eindrapport is uitgebracht opgeheven.
 
 2. De commissie is bevoegd om zich voor het inwinnen van inlichtingen rechtstreeks te wenden tot personen en instellingen en hen te verzoeken om alle medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van het onderzoek.
 
-3. Het Ministerie van Justitie en Veiligheid en het openbaar ministerie verlenen de commissie de verlangde medewerking en toegang tot alle informatie die zij nodig heeft, daarbij het in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052266&artikel=7&z=2026-07-22&g=2026-07-22) bedoelde protocol in acht nemend.
+3. Het Ministerie van Justitie en Veiligheid en het openbaar ministerie verlenen de commissie de verlangde medewerking en toegang tot alle informatie die zij nodig heeft, daarbij het in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052266&artikel=7&z=2026-07-22&g=2026-07-22) bedoelde protocol in acht nemend.
 
 4. Ambtenaren van het Ministerie van Justitie en Veiligheid en het openbaar ministerie zijn verplicht om de leden van de commissie de verlangde medewerking te verlenen, voor zover deze samenhangt met hun ambtelijke taak en dit zonder schending van hun ambtsgeheim kan geschieden.
 
@@ -126,10 +128,8 @@ De commissie brengt haar eindrapport uit aan de minister en het college.
 
 ##### Artikel 12. Inwerkingtreding en verval
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt terug tot en met 1 december 2025 en vervalt op 1 oktober 2026.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt terug tot en met 1 december 2025 en vervalt op 1 oktober 2026.
 
 ##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie ICT-inbreuk openbaar ministerie.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

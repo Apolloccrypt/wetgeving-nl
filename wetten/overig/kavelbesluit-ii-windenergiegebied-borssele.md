@@ -4,11 +4,11 @@ identifier: "BWBR0037801"
 categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 2016-04-09
-laatste_update: 2016-04-09
+laatste_update: 2026-01-31
 status: geldig
-toestand: 2016-04-09
+toestand: 2026-01-31
 bron: "https://wetten.overheid.nl/BWBR0037801"
-opgehaald: 2026-08-24
+opgehaald: 2026-09-10
 ---
 
 # Kavelbesluit II windenergiegebied Borssele
@@ -31,7 +31,7 @@ Gelet op de [artikelen 3 tot en met 7 van de Wet windenergie op zee](https://wet
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-*‘s-Gravenhage, 24 maart 2016*
+*‘s-Gravenhage, 24 maart 2016*
 
 *De Minister van Economische Zaken,*
 
@@ -57,7 +57,7 @@ In opdracht van
 
 ### 1.1. Nut en noodzaak
 
-Op grond van richtlijn 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen1PbEG 2009, L 140 (verder: richtlijn hernieuwbare energie) dient Nederland ervoor te zorgen dat zijn aandeel energie uit hernieuwbare bronnen in 2020 minstens gelijk is aan 14%.
+Op grond van richtlijn 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen1PbEG 2009, L 140 (verder: richtlijn hernieuwbare energie) dient Nederland ervoor te zorgen dat zijn aandeel energie uit hernieuwbare bronnen in 2020 minstens gelijk is aan 14%.
 
 De Europese doelen voor 2020 zijn:
 
@@ -73,7 +73,7 @@ In het Energieakkoord voor duurzame groei3SER, Energieakkoord voor duurzame groe
 
 Daarnaast is in het Energieakkoord afgesproken dat het kabinet zorg draagt voor een robuust wettelijk kader om de opschaling van windenergie op zee mogelijk te maken. Kortere doorlooptijden en kostenreductie zijn daarbij belangrijke uitgangspunten. De [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752) voorziet hierin door een nieuw stelsel van uitgifte van kavels in windenergiegebieden ([paragraaf 1.2](https://wetten.overheid.nl/BWBR0037801)).
 
-In de brief aan de Tweede Kamer van 26 september 20144Kamerstukken I/II 2014/15, 33 561, A/nr. 11 (herdruk) is de routekaart aangeboden. In de routekaart is uiteengezet hoe de doelstelling voor windenergie op zee – zoals afgesproken in het Energieakkoord – tijdig gerealiseerd wordt. Gelet op kosteneffectieve en snelle realisatie is in de brief aan de Tweede Kamer aangegeven om te beginnen met het uitgeven van kavels in windenergiegebied Borssele voor 1.400 MW operationeel vermogen.
+In de brief aan de Tweede Kamer van 26 september 20144Kamerstukken I/II 2014/15, 33 561, A/nr. 11 (herdruk) is de routekaart aangeboden. In de routekaart is uiteengezet hoe de doelstelling voor windenergie op zee – zoals afgesproken in het Energieakkoord – tijdig gerealiseerd wordt. Gelet op kosteneffectieve en snelle realisatie is in de brief aan de Tweede Kamer aangegeven om te beginnen met het uitgeven van kavels in windenergiegebied Borssele voor 1.400 MW operationeel vermogen.
 
 Daarnaast is in de brief aan de Tweede Kamer aangegeven dat een gecoördineerde netaansluiting leidt tot lagere maatschappelijke kosten en een kleinere impact op de leefomgeving.5DNV GL Publieksversie review ‘Netontwerp en uitrolstrategie TenneT Wind op Zee’ en ECN Publieksversie validatie DNV GL Document ‘Review – Netontwerp en uitrolstrategie TenneT Wind op Zee Het uitgangspunt van de routekaart is dat windenergie op zee het meest kosteneffectief gerealiseerd kan worden door het realiseren van een net op zee, dat aansluit op het bestaande hoogspanningsnet op land. Het net op zee bestaat uit:
 
@@ -87,13 +87,13 @@ Op grond van de [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWB
 
 Ter realisering van de opgaven voor duurzame energie voorziet de [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752) in een nieuw uitgiftestelsel. Het uitgiftestelsel omvat een aantal stappen en besluiten die genomen moeten worden voordat nieuwe windparken op zee gebouwd mogen worden. De wet bepaalt dat windparken op zee alleen gebouwd mogen worden op locaties (kavels) die zijn vastgelegd in een kavelbesluit.
 
-Kavels worden uitsluitend vastgelegd binnen een gebied dat is aangewezen in een nationaal waterplan. Het windenergiegebied Borssele is aangewezen in het eerste Nationaal Waterplan (2009–2015). Deze aanwijzing is in het huidige Nationaal Waterplan (2016–2021)7Kamerstukken II, 2015/16, 31 710, nr. 45 gehandhaafd. In het kavelbesluit wordt bepaald waar en onder welke voorwaarden een windpark gebouwd en geëxploiteerd mag worden. Eén van de voorwaarden is de bandbreedte voor de toe te passen turbines en funderingstechnieken. Het windpark moet worden aangesloten op het net op zee, dat door TenneT wordt gerealiseerd en geëxploiteerd.
+Kavels worden uitsluitend vastgelegd binnen een gebied dat is aangewezen in een nationaal waterplan. Het windenergiegebied Borssele is aangewezen in het eerste Nationaal Waterplan (2009–2015). Deze aanwijzing is in het huidige Nationaal Waterplan (2016–2021)7Kamerstukken II, 2015/16, 31 710, nr. 45 gehandhaafd. In het kavelbesluit wordt bepaald waar en onder welke voorwaarden een windpark gebouwd en geëxploiteerd mag worden. Eén van de voorwaarden is de bandbreedte voor de toe te passen turbines en funderingstechnieken. Het windpark moet worden aangesloten op het net op zee, dat door TenneT wordt gerealiseerd en geëxploiteerd.
 
 Het kavelbesluit bepaalt niet wie het recht heeft om op die locatie een windpark te bouwen en te exploiteren. Dat gebeurt door het verlenen van een vergunning op grond van de [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752). Alleen de houder van die vergunning heeft het recht om op de locatie van de kavel een windpark te bouwen en te exploiteren.
 
 ### 1.3. Ontwikkelingen: voorbereidingsbesluiten
 
-Op 14 juli 2015 zijn op grond van [artikel 9 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=9) de voorbereidingsbesluiten voor kavels I, II, III en IV gepubliceerd in de Staatscourant (2015, nr. 19981). De voorbereidingsbesluiten vervallen op het moment dat met betrekking tot de kavels een besluit tot instellen van de veiligheidszone op grond van [artikel 6.10 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.10) vastgesteld wordt.
+Op 14 juli 2015 zijn op grond van [artikel 9 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=9) de voorbereidingsbesluiten voor kavels I, II, III en IV gepubliceerd in de Staatscourant (2015, nr. 19981). De voorbereidingsbesluiten vervallen op het moment dat met betrekking tot de kavels een besluit tot instellen van de veiligheidszone op grond van [artikel 6.10 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.10) vastgesteld wordt.
 
 ### 2. Wet- en regelgeving
 
@@ -131,7 +131,7 @@ Voor het overige is de [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR002545
 
 Op basis van de [Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458) is een beleidsplan (Nationaal Waterplan (2016–2021)) vastgesteld. Dit is voor wat betreft de ruimtelijke aspecten ervan een structuurvisie in de zin van de [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449). Het bevat de hoofdlijnen van het Noordzeebeleid en schept ruimte voor een operationeel vermogen van 4.450 MW windenergie op de Noordzee in 2023.
 
-Bij de vaststelling van het Nationaal Waterplan 2009–2015 zijn de windenergiegebieden Borssele (344 km2) en IJmuiden (1.170 km2) aangewezen. Bij een partiële herziening van het Nationaal Waterplan (2009–2015) vanwege de aanwijzing van de gebieden Hollandse Kust en Ten Noorden van de Waddeneilanden voor het onderdeel windenergie op zee8Kamerstukken I/II 2014/15, 33 561, A/nr. 11 (herdruk) zijn in 2014 de gebieden voor de Hollandse Kust (1.210 km²) en Ten Noorden van de Waddeneilanden (200 km2 aangewezen. Deze herziening wordt de Rijksstructuurvisie Windenergie op Zee genoemd. Deze aanwijzingen zijn in het huidige Nationaal Waterplan (2016–2021) gehandhaafd.
+Bij de vaststelling van het Nationaal Waterplan 2009–2015 zijn de windenergiegebieden Borssele (344 km2) en IJmuiden (1.170 km2) aangewezen. Bij een partiële herziening van het Nationaal Waterplan (2009–2015) vanwege de aanwijzing van de gebieden Hollandse Kust en Ten Noorden van de Waddeneilanden voor het onderdeel windenergie op zee8Kamerstukken I/II 2014/15, 33 561, A/nr. 11 (herdruk) zijn in 2014 de gebieden voor de Hollandse Kust (1.210 km²) en Ten Noorden van de Waddeneilanden (200 km2 aangewezen. Deze herziening wordt de Rijksstructuurvisie Windenergie op Zee genoemd. Deze aanwijzingen zijn in het huidige Nationaal Waterplan (2016–2021) gehandhaafd.
 
 Uit het Nationaal Waterplan (2016–2021) volgt dat het kabinet in de ruimtelijke afweging prioriteit geeft aan activiteiten van nationaal belang, zijnde scheepvaart, olie- en gaswinning, CO2-opslag, windenergie, zandwinning en -suppletie en defensie boven andere activiteiten. In de gebieden die zijn aangemerkt voor activiteiten van nationaal belang mogen andere activiteiten dit gebruik niet belemmeren. Wanneer activiteiten van nationaal belang stapelen in hetzelfde gebied, is het uitgangspunt dat gestreefd wordt naar gecombineerd en ruimte-efficiënt gebruik, mits de eerste vergunninghouder daarbij geen onevenredige schade of hinder ondervindt.
 
@@ -143,7 +143,7 @@ Het Noordzeebeleid is uitgewerkt in de Beleidsnota Noordzee. De Beleidsnota Noor
 
 Op grond van [artikel 3, vierde lid, van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=3) komt het kavelbesluit tot stand via de uniforme openbare voorbereidingsprocedure van [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) (Awb). Dit artikellid bepaalt voorts dat zienswijzen kunnen worden ingediend door een ieder.
 
-Op 7 augustus 2015 is het ontwerp van het kavelbesluit ter inzage gelegd. Gedurende zes weken konden zienswijzen worden ingediend.
+Op 7 augustus 2015 is het ontwerp van het kavelbesluit ter inzage gelegd. Gedurende zes weken konden zienswijzen worden ingediend.
 
 ### 3.1.1. Zienswijzen
 
@@ -159,9 +159,9 @@ In onderdeel D, categorie D22.2, kolom 4, van de [bijlage bij het Besluit milieu
 
 Het MER ten behoeve van kavelbesluiten in het windenergiegebied Borssele is opgesteld in opdracht van de Minister van Economische Zaken, in overeenstemming met de Minister van Infrastructuur en Milieu. Op grond van [artikel 7.24, lid 4, aanhef en onder a, van de Wm](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=7.24) wordt de uitgebreide m.e.r.-procedure gevolgd. Omdat significante effecten op Natura 2000-gebieden bij het realiseren van dit windpark in windenergiegebied Borssele niet op voorhand is uit te sluiten is ook een Passende Beoordeling opgesteld.
 
-Tijdens de m.e.r.-procedure kon gedurende de terinzagelegging van de Notitie Reikwijdte en Detailniveau van 24 oktober 2014 tot en met 4 december 2014 een zienswijze worden ingediend. In die zelfde periode is de Belgische overheid betrokken in het kader van het ESPOO verdrag9Verdrag inzake milieu-effectrapportage in grensoverschrijdend verband en zijn de betrokken bestuursorganen en wettelijk adviseurs geraadpleegd. Ook is de Commissie voor de m.e.r. om advies gevraagd. Binnen de inspraaktermijn zijn in totaal elf unieke zienswijzen en één reactie ontvangen. Het advies van de Commissie van de m.e.r. is integraal overgenomen. De reikwijdte en detailniveau van het MER zijn in april 2015 vastgesteld.
+Tijdens de m.e.r.-procedure kon gedurende de terinzagelegging van de Notitie Reikwijdte en Detailniveau van 24 oktober 2014 tot en met 4 december 2014 een zienswijze worden ingediend. In die zelfde periode is de Belgische overheid betrokken in het kader van het ESPOO verdrag9Verdrag inzake milieu-effectrapportage in grensoverschrijdend verband en zijn de betrokken bestuursorganen en wettelijk adviseurs geraadpleegd. Ook is de Commissie voor de m.e.r. om advies gevraagd. Binnen de inspraaktermijn zijn in totaal elf unieke zienswijzen en één reactie ontvangen. Het advies van de Commissie van de m.e.r. is integraal overgenomen. De reikwijdte en detailniveau van het MER zijn in april 2015 vastgesteld.
 
-Op 13 oktober 2015 is het advies van de Commissie voor de m.e.r.10Commissie voor de m.e.r. project 2965. http://www.commissiemer.nl/advisering/afgerondeadviezen/2965 ontvangen over het MER van de kavels I en II. De Commissie is van oordeel dat alle informatie in beide MER’en aanwezig is om het milieubelang een volwaardige plaats te geven in de besluitvorming over de kavelbesluiten. In het advies is wel aangegeven dat de toelichting in het kavelbesluit over de effecten op de grote meeuwensoorten verduidelijkt moet worden. De tekst in het kavelbesluit is hierop aangepast. Daarnaast zijn er enkele aanbevelingen geformuleerd die in acht zullen worden genomen bij de nog op te stellen milieueffectrapporten voor windparken op de Noordzee.
+Op 13 oktober 2015 is het advies van de Commissie voor de m.e.r.10Commissie voor de m.e.r. project 2965. http://www.commissiemer.nl/advisering/afgerondeadviezen/2965 ontvangen over het MER van de kavels I en II. De Commissie is van oordeel dat alle informatie in beide MER’en aanwezig is om het milieubelang een volwaardige plaats te geven in de besluitvorming over de kavelbesluiten. In het advies is wel aangegeven dat de toelichting in het kavelbesluit over de effecten op de grote meeuwensoorten verduidelijkt moet worden. De tekst in het kavelbesluit is hierop aangepast. Daarnaast zijn er enkele aanbevelingen geformuleerd die in acht zullen worden genomen bij de nog op te stellen milieueffectrapporten voor windparken op de Noordzee.
 
 ### 3.3. Afstemming en draagvlak
 
@@ -175,7 +175,7 @@ Op grond van internationale verdragen heeft er ook afstemming plaatsgevonden met
 
 ### 4.1. Kenmerken windenergiegebied Borssele
 
-In de routekaart is uiteengezet hoe de doelstelling voor windenergie op zee – zoals afgesproken in het Energieakkoord – tijdig gerealiseerd kan worden. Hierbij is het tempo waarmee de doelstelling gehaald kan worden de belangrijkste bepalende factor. Omdat zo snel mogelijk moet worden begonnen met de uitrol, kan dat logischerwijs alleen in een gebied dat al was aangewezen in het nationaal waterplan. Windenergiegebied Borssele is aangewezen in het Nationaal Waterplan (2009–2015), daarom wordt hier gestart.11Kamerstukken I/II, 2014/15, 33 561, A/nr. 11 (herdruk), p.9. Met de ontwikkeling van het windenergiegebied IJmuiden Ver zijn vanwege de verdere ligging hogere kosten gemoeid.
+In de routekaart is uiteengezet hoe de doelstelling voor windenergie op zee – zoals afgesproken in het Energieakkoord – tijdig gerealiseerd kan worden. Hierbij is het tempo waarmee de doelstelling gehaald kan worden de belangrijkste bepalende factor. Omdat zo snel mogelijk moet worden begonnen met de uitrol, kan dat logischerwijs alleen in een gebied dat al was aangewezen in het nationaal waterplan. Windenergiegebied Borssele is aangewezen in het Nationaal Waterplan (2009–2015), daarom wordt hier gestart.11Kamerstukken I/II, 2014/15, 33 561, A/nr. 11 (herdruk), p.9. Met de ontwikkeling van het windenergiegebied IJmuiden Ver zijn vanwege de verdere ligging hogere kosten gemoeid.
 
 ### 4.1.1. Ligging
 
@@ -227,7 +227,7 @@ Het gebied ligt dermate ver weg van de kust dat de meeste kustbroedende soorten 
 
 Op grond van de [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755) wordt TenneT aangewezen als de netbeheerder van het net op zee. In de routekaart windenergie op zee is aangegeven dat TenneT deze aansluiting zal realiseren door gestandaardiseerde platforms van 700 MW, die elk met twee 220 kV-kabels verbonden worden op het landelijke hoogspanningsnet. De windturbines van de windparken worden rechtstreeks op een platform aangesloten, waarbij TenneT twee windparken op een platform combineert. Op deze manier kunnen in een windpark windturbines opgesteld worden met een gezamenlijk vermogen van minimaal 342 en maximaal 380 MW. Bij de verkaveling wordt rekening gehouden met de technische kenmerken van het net op zee van TenneT zoals naar verwachting wordt vastgelegd in het ontwikkelkader op basis van de Elektriciteitswet 1998, de benodigde ruimte daarvoor en de totaal beschikbare oppervlakte van het windenergiegebied Borssele (344 km2).
 
-In zijn brief van d.d. 19 mei 2015 heeft de minister van Economische Zaken16Kamerstukken II 2014/15, 33 561, nr. 19. bekend gemaakt binnen het windenergiegebied Borssele ruimte te geven voor een innovatiekavel bestaande uit twee windturbineposities, met een maximum vermogen van in totaal 20 MW. Dit innovatiekavel (kavel V) is gesitueerd aan de noordzijde van kavel III. De twee windturbines sluiten via een aparte kabel aan op platform Beta.
+In zijn brief van d.d. 19 mei 2015 heeft de minister van Economische Zaken16Kamerstukken II 2014/15, 33 561, nr. 19. bekend gemaakt binnen het windenergiegebied Borssele ruimte te geven voor een innovatiekavel bestaande uit twee windturbineposities, met een maximum vermogen van in totaal 20 MW. Dit innovatiekavel (kavel V) is gesitueerd aan de noordzijde van kavel III. De twee windturbines sluiten via een aparte kabel aan op platform Beta.
 
 Op basis hiervan wordt het gebied verkaveld in vijf kavels. De vijf deelgebieden samen bieden op deze wijze ruimte voor circa 1.400 MW. De verkaveling is schematisch weergegeven in onderstaande figuur.
 
@@ -361,7 +361,7 @@ Uit het MER blijkt voorts dat de effecten op vogels en vleermuizen beperkt moete
 
 De voorkeursbandbreedte en de mitigerende maatregelen vormen gezamenlijk het voorkeursalternatief. Die voorkeursbandbreedte en mitigerende maatregelen worden vastgelegd in de voorschriften bij het kavelbesluit. Binnen het voorkeursalternatief zijn de effecten voor twee inrichtingsalternatieven inzichtelijk gemaakt, namelijk een alternatief uitgaande van de ondergrens van de bandbreedte (95 4 MW turbines) en een alternatief uitgaande van de bovengrens van de bandbreedte (38 10 MW turbines).
 
-In het concept MER voor kavel II, dat voor tussentijds advies is voorgelegd aan de Commissie m.e.r., zijn de effecten beoordeeld van een windpark met 350 MW aan opgesteld vermogen. Deze 350 MW is gebaseerd op aansluiting op een platform met een capaciteit van 700 MW, zodat dus twee kavels van 350 MW aangesloten kunnen worden. Inmiddels is duidelijk dat het plaatsen van meer dan 350 MW is toegestaan, met een maximum van 380 MW aan opgesteld vermogen. Meer dan 350 MW per kavel kan leiden tot schaalvoordelen en een optimaal gebruik van het net op zee, wat leidt tot lagere kosten per kWh.21‘Er zal echter standaard maximaal 350 MW aansluit- en transportcapaciteit worden aangeboden per kavel. TenneT heeft wel de intentie om de elektriciteit van meer dan 350 MW af te nemen, maar kan dit niet garanderen.’ (TK 2014–2015 33 561, nr. 19)
+In het concept MER voor kavel II, dat voor tussentijds advies is voorgelegd aan de Commissie m.e.r., zijn de effecten beoordeeld van een windpark met 350 MW aan opgesteld vermogen. Deze 350 MW is gebaseerd op aansluiting op een platform met een capaciteit van 700 MW, zodat dus twee kavels van 350 MW aangesloten kunnen worden. Inmiddels is duidelijk dat het plaatsen van meer dan 350 MW is toegestaan, met een maximum van 380 MW aan opgesteld vermogen. Meer dan 350 MW per kavel kan leiden tot schaalvoordelen en een optimaal gebruik van het net op zee, wat leidt tot lagere kosten per kWh.21‘Er zal echter standaard maximaal 350 MW aansluit- en transportcapaciteit worden aangeboden per kavel. TenneT heeft wel de intentie om de elektriciteit van meer dan 350 MW af te nemen, maar kan dit niet garanderen.’ (TK 2014–2015 33 561, nr. 19)
 
 In een addendum bij het MER is onderzocht wat de effecten zijn als de bovengrens van het opgesteld vermogen van kavel II 380 MW bedraagt.
 
@@ -383,7 +383,7 @@ Windparken mogen alleen gebouwd worden in gebieden die daarvoor zijn aangewezen 
 
 ### 6.2.2. Gevolgen
 
-Uit het MER volgt dat het windpark maximaal 27,2% van de tijd gedurende de zomermaanden (1 mei – 30 september) in de dag periode (07.00 uur – 21.00 uur), vanaf het dichtstbijzijnde punt op land (Westkapelle) zichtbaar is. De zichtbaarheid wordt voornamelijk bepaald door de weersomstandigheden en vrijwel niet door de grootte van de turbine. Buiten deze periode is het zichtbaarheidspercentage lager. Ook is dit percentage lager op andere zichtlocaties, die verder van het windpark af liggen, zoals Domburg (11,5%) en Knokke-Heist (10,6%).
+Uit het MER volgt dat het windpark maximaal 27,2% van de tijd gedurende de zomermaanden (1 mei – 30 september) in de dag periode (07.00 uur – 21.00 uur), vanaf het dichtstbijzijnde punt op land (Westkapelle) zichtbaar is. De zichtbaarheid wordt voornamelijk bepaald door de weersomstandigheden en vrijwel niet door de grootte van de turbine. Buiten deze periode is het zichtbaarheidspercentage lager. Ook is dit percentage lager op andere zichtlocaties, die verder van het windpark af liggen, zoals Domburg (11,5%) en Knokke-Heist (10,6%).
 
 ### 6.2.3. Afweging
 
@@ -451,7 +451,7 @@ Het uitgevoerde vooronderzoek geeft geen aanleiding om nadere voorschriften op t
 
 ### 6.6.1. Beleid
 
-De Noordzee heeft een belangrijke sociaal-culturele en historische betekenis voor Nederland en is een bron van kennis. In de Visie Erfgoed en Ruimte22Rijksdienst voor het Cultureel Erfgoed, Ministerie van Onderwijs, Cultuur en Wetenschap, Kiezen voor karakter, Visie Erfgoed en Ruimte, 15 juni 2011. is als doelstelling voor de Noordzee opgenomen om het cultureel erfgoed goed te positioneren bij ruimtelijke ontwikkelingen op de Noordzee. Het rijksbeleid, zoals verwoord in de Beleidsnota Noordzee (2016–2021), is gebaseerd op de uitgangspunten van het Verdrag van Valetta (ook wel verdrag van Malta genoemd), dat strekt tot bescherming van het archeologische erfgoed als bron van het Europese gemeenschappelijke geheugen en als middel voor geschiedkundige en wetenschappelijke studie. In het bijzonder gaat het om het streven naar het zoveel mogelijk behouden van archeologische waarden in de bodem (in situ), een meldplicht voor archeologische vondsten, het meewegen van het archeologisch belang in de ruimtelijke ordening en het waarborgen dat milieueffectrapportages en de daaruit voortvloeiende beslissingen rekening houden met archeologische vindplaatsen en hun context. Tenslotte is het uitgangspunt dat de kosten voor het eventueel benodigde archeologisch onderzoek door de verstoorder moeten worden gedragen (het ‘verstoorder betaalt’-principe).
+De Noordzee heeft een belangrijke sociaal-culturele en historische betekenis voor Nederland en is een bron van kennis. In de Visie Erfgoed en Ruimte22Rijksdienst voor het Cultureel Erfgoed, Ministerie van Onderwijs, Cultuur en Wetenschap, Kiezen voor karakter, Visie Erfgoed en Ruimte, 15 juni 2011. is als doelstelling voor de Noordzee opgenomen om het cultureel erfgoed goed te positioneren bij ruimtelijke ontwikkelingen op de Noordzee. Het rijksbeleid, zoals verwoord in de Beleidsnota Noordzee (2016–2021), is gebaseerd op de uitgangspunten van het Verdrag van Valetta (ook wel verdrag van Malta genoemd), dat strekt tot bescherming van het archeologische erfgoed als bron van het Europese gemeenschappelijke geheugen en als middel voor geschiedkundige en wetenschappelijke studie. In het bijzonder gaat het om het streven naar het zoveel mogelijk behouden van archeologische waarden in de bodem (in situ), een meldplicht voor archeologische vondsten, het meewegen van het archeologisch belang in de ruimtelijke ordening en het waarborgen dat milieueffectrapportages en de daaruit voortvloeiende beslissingen rekening houden met archeologische vindplaatsen en hun context. Tenslotte is het uitgangspunt dat de kosten voor het eventueel benodigde archeologisch onderzoek door de verstoorder moeten worden gedragen (het ‘verstoorder betaalt’-principe).
 
 Indien bij de oprichting van een windpark of bij andere werkzaamheden met betrekking tot windturbines in de Nederlandse EEZ een monument dan wel een vermoedelijk monument in de zin van de [Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471) wordt gevonden, zijn op grond van [artikel 6.16f van het Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&artikel=6.16f) de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=53), [56](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=56), [58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=58), en [59 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=59) van overeenkomstige toepassing. Deze artikelen voorzien in bescherming van (vermoedelijke) monumenten in de zin van de Monumentenwet.
 
@@ -1134,7 +1134,7 @@ Om de gunstige staat van instandhouding van de ruige dwergvleermuis niet in het 
 
 Tot dusverre is alleen het verhogen van de zogenaamde *cut-in windspeed* een maatregel gebleken die effectief is in het verminderen van het aantal aanvaringslachtoffers41http://www.eurobats.org/sites/default/files/documents/pdf/Meeting_of_Parties/MoP7.Record.Annex8-Res7.5-WindturbinesandBatPopulations_adopted.pdf. Onder deze *cut-in windspeed*moet het aantal rotaties van de rotor verlaagd worden tot minder dan 1 per minuut. De meest gebruikte methode om dit te bewerkstelligen is het uit de wind draaien van de windturbinebladen, ook wel ‘*pitch*’ of ‘*feathering*’ genoemd. Uit de literatuur blijkt dat met het verhogen van de *cut-in windspeed* een reductie van het aantal aanvaringsslachtoffers tussen de 50 en 90% mogelijk is. De effectiviteit is hierbij sterk afhankelijk van de mate waarin de maatregel is afgestemd op het soortspecifieke voorkomen en gedrag van vleermuizen op de projectlocatie. Dat wil zeggen dat de effectiviteit hoger zal zijn als de *cut-in windspeed* wordt verhoogd naar een voor die vleermuissoort relevante windsnelheid. In dit besluit wordt daarom de maatregel aangepast op de aanwezigheid van vleermuizen, en meer specifiek de ruige dwergvleermuis, op de Noordzee om zodoende een hoge effectiviteit te behalen.
 
-Uit onderzoeksgegevens42Lagerveld *et al*. (2014) Monitoring bat activity in offshore wind farms OWEZ and PAWP in 2013. IMARES Report C165/14; Jonge Poerkink et al. (2012) Pilot study Bat activity in the Dutch offshore wind farm OWEZ and PAWP. IMARES report number C026/13 / tFC reportnumber 20120402. op de Noordzee blijkt dat de meeste activiteit van de ruige dwergvleermuis, in het najaar plaats vindt, tussen half augustus tot eind september. Tachtig tot negentig procent van de activiteit wordt gemeten op nachten bij windsnelheden van kleiner of gelijk aan 5 m/s. Ongeveer één uur na zonsondergang worden de vleermuizen op zee waargenomen. De activiteit piekt vervolgens tussen 2 à 4 uur na zonsondergang waarna de activiteit weer afneemt. Daarom is gekozen voor een maatregel waar de *cut-in windspeed* van de turbines wordt verhoogd naar 5,0 m/s op ashoogte gedurende de periode van 15 augustus tot en met 30 september tussen 1 uur na zonsondergang tot 2 uur voor zonsopkomst. Beneden deze windsnelheid moet het aantal rotaties per minuut per windturbine tot minder dan 1 worden gebracht.
+Uit onderzoeksgegevens42Lagerveld *et al*. (2014) Monitoring bat activity in offshore wind farms OWEZ and PAWP in 2013. IMARES Report C165/14; Jonge Poerkink et al. (2012) Pilot study Bat activity in the Dutch offshore wind farm OWEZ and PAWP. IMARES report number C026/13 / tFC reportnumber 20120402. op de Noordzee blijkt dat de meeste activiteit van de ruige dwergvleermuis, in het najaar plaats vindt, tussen half augustus tot eind september. Tachtig tot negentig procent van de activiteit wordt gemeten op nachten bij windsnelheden van kleiner of gelijk aan 5 m/s. Ongeveer één uur na zonsondergang worden de vleermuizen op zee waargenomen. De activiteit piekt vervolgens tussen 2 à 4 uur na zonsondergang waarna de activiteit weer afneemt. Daarom is gekozen voor een maatregel waar de *cut-in windspeed* van de turbines wordt verhoogd naar 5,0 m/s op ashoogte gedurende de periode van 15 augustus tot en met 30 september tussen 1 uur na zonsondergang tot 2 uur voor zonsopkomst. Beneden deze windsnelheid moet het aantal rotaties per minuut per windturbine tot minder dan 1 worden gebracht.
 
 Met deze maatregel wordt tevens uitwerking gegeven aan het verdrag van Bonn, en meer specifiek de overeenkomst ‘*Eurobats*’, waarin lidstaten wordt aanbevolen om mitigerende maatregelen te nemen bij windparken ter bescherming van (migrerende) vleermuizen.
 
@@ -1198,7 +1198,7 @@ Het aanleggen en in gebruik nemen van windparken kan risico’s van negatieve ef
 
 ### I. Inleiding
 
-Op 7 augustus 2015 zijn de ontwerpkavelbesluiten I en II Windenergiegebied Borssele gepubliceerd op de website van het Bureau Energieprojecten en is een kennisgeving hierover gepubliceerd in de Staatscourant. Tot en met donderdag 17 september 2015 was een ieder in de gelegenheid een zienswijze in te dienen op de ontwerpbesluiten. Overheden konden een reactie geven.
+Op 7 augustus 2015 zijn de ontwerpkavelbesluiten I en II Windenergiegebied Borssele gepubliceerd op de website van het Bureau Energieprojecten en is een kennisgeving hierover gepubliceerd in de Staatscourant. Tot en met donderdag 17 september 2015 was een ieder in de gelegenheid een zienswijze in te dienen op de ontwerpbesluiten. Overheden konden een reactie geven.
 
 In aanvulling op de bovengenoemde kennisgeving is een aantal overheden en instanties afzonderlijk geïnformeerd. Het betreft:
 
@@ -1216,7 +1216,7 @@ De zienswijze van het Vlaamse Gewest heeft geen betrekking op de ontwerpkavelbes
 
 Waar hier door een indiener op gewezen is, is de opmaak van de betreffende paragraaf, voetnoot of lijst aangepast.
 
-Op 13 oktober 2015 is het advies van de Commissie voor de m.e.r.49Commissie voor de m.e.r. project 2965. http://www.commissiemer.nl/advisering/afgerondeadviezen/2965 ontvangen over het MER van de kavels I en II. De Commissie is van oordeel dat alle informatie in beide MER’en aanwezig is om het milieubelang een volwaardige plaats te geven in de besluitvorming over de kavelbesluiten. In het advies is wel aangegeven dat de toelichting in het kavelbesluit over de effecten op de grote meeuwen verduidelijkt moet worden. De tekst in het kavelbesluit is hierop aangepast.
+Op 13 oktober 2015 is het advies van de Commissie voor de m.e.r.49Commissie voor de m.e.r. project 2965. http://www.commissiemer.nl/advisering/afgerondeadviezen/2965 ontvangen over het MER van de kavels I en II. De Commissie is van oordeel dat alle informatie in beide MER’en aanwezig is om het milieubelang een volwaardige plaats te geven in de besluitvorming over de kavelbesluiten. In het advies is wel aangegeven dat de toelichting in het kavelbesluit over de effecten op de grote meeuwen verduidelijkt moet worden. De tekst in het kavelbesluit is hierop aangepast.
 
 ### II. Zienswijzen en reactie van privépersonen, bedrijven, Nederlandse en Belgische overheden.
 
@@ -1498,7 +1498,7 @@ Delta
 
 *Z*: Indiener vraagt zich af of de ondergrens van de 4 MW turbine en het rapport van de Commissie voor de m.e.r. daadwerkelijk zijn doorgevoerd.
 
-*A*: In [paragraaf 7.3.3](https://wetten.overheid.nl/BWBR0037801) zijn inderdaad de worst case analyses opgenomen van de uiterste bandbreedte. Op basis van de resultaten is de bandbreedte ingeperkt naar een voorkeursbandbreedte. De effecten als gevolg van de voorkeursbandbreedte zijn nader beschreven in het addendum. Het gaat hierbij onder andere om de doorberekening van de effecten van windturbines met een ondergrens van 4 MW en maximaal 380 MW opgesteld vermogen Bij het beoordelen van de effecten bij gebruik van 4 MW turbines (en groter) is rekening gehouden met het rapport van de Commissie voor de m.e.r. (Tussentijds toetsingsadvies over het concept-milieueffectrapport 30 april 2015 / rapportnummer 2965-56). Rekening houdend met het advies van de Commissie voor de m.e.r. is voor de toetsing van de effecten ervan uitgegaan dat met grote zekerheid (95%) moet kunnen worden vastgesteld dat de huidige bruinvispopulatie als gevolg van de aanleg van de 10 windparken op zee van het SER-akkoord met niet meer dan 5% afneemt. [Voorschrift 4, tweede lid](https://wetten.overheid.nl/BWBR0037801) waarin limieten worden opgelegd aan de onderwatergeluidsproductie als gevolg van hei-activiteiten is dus enerzijds gebaseerd op effecten van maximaal 95 turbines (4 MW, 380 opgesteld vermogen) en anderzijds op een maximale populatiereductie van 5%.
+*A*: In [paragraaf 7.3.3](https://wetten.overheid.nl/BWBR0037801) zijn inderdaad de worst case analyses opgenomen van de uiterste bandbreedte. Op basis van de resultaten is de bandbreedte ingeperkt naar een voorkeursbandbreedte. De effecten als gevolg van de voorkeursbandbreedte zijn nader beschreven in het addendum. Het gaat hierbij onder andere om de doorberekening van de effecten van windturbines met een ondergrens van 4 MW en maximaal 380 MW opgesteld vermogen Bij het beoordelen van de effecten bij gebruik van 4 MW turbines (en groter) is rekening gehouden met het rapport van de Commissie voor de m.e.r. (Tussentijds toetsingsadvies over het concept-milieueffectrapport 30 april 2015 / rapportnummer 2965-56). Rekening houdend met het advies van de Commissie voor de m.e.r. is voor de toetsing van de effecten ervan uitgegaan dat met grote zekerheid (95%) moet kunnen worden vastgesteld dat de huidige bruinvispopulatie als gevolg van de aanleg van de 10 windparken op zee van het SER-akkoord met niet meer dan 5% afneemt. [Voorschrift 4, tweede lid](https://wetten.overheid.nl/BWBR0037801) waarin limieten worden opgelegd aan de onderwatergeluidsproductie als gevolg van hei-activiteiten is dus enerzijds gebaseerd op effecten van maximaal 95 turbines (4 MW, 380 opgesteld vermogen) en anderzijds op een maximale populatiereductie van 5%.
 
 *Z*: Indiener verzoekt expliciet op te nemen dat er in de exploitatiefase van het windpark geen beperkingen of voorschriften zullen gelden op basis van geluid. Tevens verzoekt indiener expliciet op te nemen dat geluidsnormen voor de constructiefase ook cumulatief gelden, dus ook wanneer er tegelijkertijd wordt gewerkt.
 
@@ -1790,9 +1790,13 @@ In dit besluit wordt verstaan onder:
 
 - • *heiplan:* plan waarin de vergunninghouder uiteenzet op welke wijze de funderingspalen worden geheid, welke mitigerende geluid beperkende maatregelen worden genomen en op welke wijze het geluidsniveau wordt gemeten en gerapporteerd;
 
-- • *massale vogeltrek:* een vogeldichtheid van 500 vogels op rotorhoogte per kilometer per uur;
+- • *migratieperiode (najaar – vogels):* vogeltrek in de periode van 15 augustus tot en met 30 november;
+
+- • *migratieperiode (voorjaar – vogels):* vogeltrek in de periode van 15 februari tot en met 31 mei;
 
 - • *monitorings- en evaluatieprogramma:* programma waarin de activiteiten zijn beschreven die door of namens de overheid worden uitgevoerd om de leemtes in kennis vast te stellen;
+
+- • *nacht:* de periode tussen 18:00 uur in de avond tot 06:00 uur in de ochtend, volgens de Midden-Europese Tijd;
 
 - • *nominaal vermogen:* het maximale vermogen van de productie-installatie dat onder normale condities benut kan worden voor de productie van hernieuwbare elektriciteit en dat door de leverancier gegarandeerd wordt bij continu gebruik;
 
@@ -1808,13 +1812,15 @@ In dit besluit wordt verstaan onder:
 
 - • *tiplaagte:* de ashoogte min de halve rotordiameter;
 
-- • *vergunninghouder:* houder van een vergunning op grond van [artikel 12 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=12);
-
 - • *transect:* het rechthoekige oppervlak dat als basis dient voor het bepalen van de vogeldichtheid tijdens de vogeltrek. De hoogte hiervan is de rotordiameter. De lengte bedraagt 1 km;
 
-- • *wiek:* rotorblad;
+- • *vergunninghouder:* houder van een vergunning op grond van [artikel 12 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=12);
 
-- • *windpark:* een samenstel van voorzieningen waarmee elektriciteit met behulp van wind wordt geproduceerd, waarbij onder een samenstel van voorzieningen wordt verstaan alle aanwezige middelen die onderling met elkaar zijn verbonden voor de productie van elektriciteit met behulp van wind;
+- • *voorspelde massale vogeltrek:* een korte tijdspanne tijdens migratieperiodes in de nacht waarop de omstandigheden zodanig zijn dat er sprake is van een voorspelde piek in de verplaatsing van het aantal trekvogels, gebaseerd op het voorspellingsmodel;
+
+- • *voorspellingsmodel:* een door of namens de Rijksoverheid te beheren model dat een signaal afgeeft wanneer massale vogeltrek wordt voorspeld;
+
+- • *wiek:* rotorblad;
 
 - • *zeeniveau of Mean Sea Level (MSL):* de gemiddelde hoogte van de zeespiegel (het vlak van de zee), als alle variaties die het gevolg zijn van de getijden worden weggemiddeld.
 
@@ -2099,21 +2105,23 @@ In dit besluit wordt verstaan onder:
 
    - h) de vergunninghouder spant zich in om in een zo kort mogelijk aaneengesloten periode onderwatergeluid te produceren.
 
-- 3. Maatregelen ter beperking van aanvaringsslachtoffers onder vogels op rotorhoogte bij massale vogeltrek:
+- 3. Maatregelen ter beperking van aanvaringsslachtoffers onder vogels op rotorhoogte gedurende migratieperiodes:
 
-   - a) in nachten (tussen zonsondergang en zonsopkomst), gedurende de periode waarin daadwerkelijk sprake is van massale vogeltrek, wordt het aantal rotaties per minuut per windturbine tot minder dan 1 gebracht;
+   - a) Tijdens migratieperiodes brengt de vergunninghouder het aantal rotaties per minuut per windturbine terug tot minder dan twee tijdens het tijdvak in de nacht waarin sprake is van voorspelde massale vogeltrek.
 
-   - b) ten behoeve van de uitvoering van het voorschrift, bedoeld in onderdeel a, wordt het controlesysteem van de windturbines gekoppeld aan een systeem dat de daadwerkelijke vogeltrek waarneemt;
+   - b) Het in onderdeel a van dit lid bedoelde tijdvak waarin sprake is van voorspelde massale vogeltrek wordt bij besluit van de Minister van Klimaat en Groene Groei vastgesteld. De Minister van Klimaat en Groene Groei baseert het besluit op het signaal van het voorspellingsmodel. De Minister van Klimaat en Groene Groei betrekt bij het besluit een advies van de landelijk netbeheerder en kan een advies van vogeldeskundigen betrekken. Het besluit wordt op een zodanig moment bekend gemaakt dat de vergunninghouder redelijkerwijs kan voldoen aan onderdeel a van dit lid.
 
-   - c) de vergunninghouder beschrijft in een planop basis van welk relevant transect de vogeldichtheid wordt bepaald en dient dit plan uiterlijk 8 weken voorafgaand aan de start van de bouw in bij de minister van Economische Zaken;
+   - c) De vergunninghouder is verplicht zonder financiële tegenprestatie mee te werken aan de plaatsing en installatie van apparatuur op, in of aan de door de Minister van Klimaat en Groene Groei aan te wijzen turbines ter uitvoering van de maatregel zoals bedoeld in onderdeel a van dit lid. Dit betreft mede het ter beschikking stellen van bevestigingsconstructies aan de aangewezen turbines. Voor de plaatsing en installatie van de apparatuur zal een overeenkomst worden gesloten met de vergunninghouder, waarbij zoveel mogelijk rekening wordt gehouden met de operationele werkzaamheden in het windpark.
 
-   - d) de in onderdeel b van dit voorschrift beschreven koppeling wordt volgens het in onderdeel c genoemde plan uitgevoerd;
+   - d) De vergunninghouder is verplicht zonder financiële tegenprestatie mee te werken aan toegang ten behoeve van het beheer en onderhoud van de apparatuur zoals bedoeld in onderdeel c van dit lid. Voor het beheer en onderhoud van de apparatuur zal een overeenkomst worden gesloten met de vergunninghouder, waarbij zoveel mogelijk rekening wordt gehouden met de operationele werkzaamheden in het windpark.
 
-   - e) de vergunninghouder geeft jaarlijks op 1 juli en 1 januari in een rapportage naar de minister van Economische Zaken aan hoe en op welke wijze aan dit voorschrift uitvoering is gegeven.
+   - e) De in onderdeel a van dit lid bedoelde tijdvakken zullen in totaal niet meer dan 60 uur per jaar betreffen, gerekend van najaar tot najaar.
+
+   - f) De Minister van Klimaat en Groene Groei evalueert periodiek de in dit lid bedoelde stilstandsvoorziening.
 
 - 4. Maatregelen voor het voorkomen van aanvaringsslachtoffers van vleermuizen op rotorhoogte:
 
-   - a) de cut-in windspeed van de turbines bedraagt gedurende de periode van 15 augustus tot en met 30 september tussen 1 uur na zonsondergang tot 2 uur voor zonsopkomst 5,0 m/s op ashoogte;
+   - a) de cut-in windspeed van de turbines bedraagt gedurende de periode van 15 augustus tot en met 30 september tussen 1 uur na zonsondergang tot 2 uur voor zonsopkomst 5,0 m/s op ashoogte;
 
    - b) bij een windsnelheid van minder dan 5,0 m/s op ashoogte brengt de vergunninghouder in de periode, bedoeld in onderdeel a, het aantal rotaties per minuut per windturbine omlaag tot minder dan 1;
 
@@ -2161,7 +2169,7 @@ De vergunninghouder verwijdert het windpark uiterlijk binnen twee jaar nadat de 
 
 ### Voorschrift 7. Financiële zekerheid
 
-- 1. Uiterlijk op het moment dat RVO bewijs heeft ontvangen dat er Garanties van Oorsprong (GvO) zijn afgegeven over de geleverde stroom stelt de vergunninghouder zich garant door middel van een bankgarantie aan de Staat voor een bedrag van € 120.000 per geïnstalleerde MW ten bate van de verwijdering van het windpark.
+- 1. Uiterlijk op het moment dat RVO bewijs heeft ontvangen dat er Garanties van Oorsprong (GvO) zijn afgegeven over de geleverde stroom stelt de vergunninghouder zich garant door middel van een bankgarantie aan de Staat voor een bedrag van € 120.000 per geïnstalleerde MW ten bate van de verwijdering van het windpark.
 
 - 2. De vergunninghouder verhoogt het in lid 1 genoemde bedrag jaarlijks met 2% als gevolg van indexatie gedurende een periode van 12 jaar na afgifte van de bankgarantie.
 
@@ -2193,7 +2201,7 @@ In de directe omgeving van kavel II gaat het om de volgende rustgebieden:
 
 Bij deze gebieden zijn de volgende voorwaarden beschreven:
 
-- • Buiten de winterrustgebieden blijven (in ieder geval geen toegang in de periode 15 december – 1 april) en op ruime afstand (>1.500 m, of zoveel als minimaal haalbaar) van de rustgebieden varen om effecten in de rand-zone van het rustgebied te minimaliseren.
+- • Buiten de winterrustgebieden blijven (in ieder geval geen toegang in de periode 15 december – 1 april) en op ruime afstand (>1.500 m, of zoveel als minimaal haalbaar) van de rustgebieden varen om effecten in de rand-zone van het rustgebied te minimaliseren.
 
 - • Minimaal 1.200 m afstand van vaste rustgebieden voor zeehonden (zandplaten bij Middelplaat, Bollen van de Ooster en Hinderplaat). Wanneer dit niet mogelijk is, dient in ieder geval verstoring van pups te worden voorkomen.
 

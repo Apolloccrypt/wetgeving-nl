@@ -7,7 +7,7 @@ laatste_update: 2025-10-24
 status: geldig
 toestand: 2025-10-24
 bron: "https://wetten.overheid.nl/BWBV0007162"
-opgehaald: 2026-07-29
+opgehaald: 2026-09-10
 ---
 
 # Versterkte Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Oezbekistan, anderzijds
@@ -1532,7 +1532,7 @@ Elke Partij ziet erop toe dat de procedures waarin het op 19 juni 1970 te Washi
 
 Elke Partij beschermt kwekersrechten overeenkomstig het Internationaal Verdrag tot bescherming van kweekproducten, aangenomen door de Diplomatieke Conferentie op 2 december 1961 (hierna het „UPOV-Verdrag” genoemd), zoals laatstelijk herzien in Genève op 19 maart 1991, met inbegrip van de facultatieve uitzondering op het kwekersrecht als bedoeld in artikel 15, lid 2, van het UPOV-Verdrag. De Partijen werken samen om die rechten te bevorderen en te handhaven.
 
-#### AFDELING 3. HANDHAVING VAN INTELLECTUELE-EIGENDOMSRECHTEN ONDERAFDELING
+#### AFDELING 3. HANDHAVING VAN INTELLECTUELE-EIGENDOMSRECHTEN
 
 #### ONDERAFDELING 1. CIVIELRECHTELIJKE EN ADMINISTRATIEVE HANDHAVING
 

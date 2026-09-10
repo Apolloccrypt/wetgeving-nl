@@ -2,19 +2,16 @@
 title: "Subsidieregeling pakket rechtsbijstand herstelregelingen kinderopvangtoeslag 2026"
 identifier: "BWBR0052594"
 categorie: "Sociaal recht"
+soort: "zbo"
 publicatiedatum: 2026-05-02
-laatste_update: 2026-05-05
+laatste_update: 2026-05-02
 status: geldig
+toestand: 2026-05-02
 bron: "https://wetten.overheid.nl/BWBR0052594"
+opgehaald: 2026-09-10
 ---
 
 # Subsidieregeling pakket rechtsbijstand herstelregelingen kinderopvangtoeslag 2026
-
-gelet op [artikel 37b van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37b), waarin is bepaald dat het bestuur van de raad voor Rechtsbijstand subsidie kan verstrekken ten behoeve van de verlening van rechtsbijstand voor bijzondere doeleinden en projecten,
-
-besluit:
-
-de volgende subsidieregeling vast te stellen.
 
 ### Hoofdstuk I. Algemeen
 
@@ -22,67 +19,71 @@ de volgende subsidieregeling vast te stellen.
 
 In deze subsidieregeling wordt verstaan onder:
 
-- a. **advocaat:** de advocaat die op basis van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052594&hoofdstuk=III&artikel=7&z=2026-05-02&g=2026-05-02) van deze regeling is toegelaten tot deze subsidieregeling;
+- a. *advocaat:* de advocaat die op basis van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052594&hoofdstuk=III&artikel=7&z=2026-05-02&g=2026-05-02) van deze regeling is toegelaten tot deze subsidieregeling;
 
-- b. **Awb:** [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- b. *Awb:*
+ [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- c. **bestuur:** het bestuur van de raad, als bedoeld in [artikel 3 van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=3);
+- c. *bestuur:* het bestuur van de raad, als bedoeld in [artikel 3 van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=3);
 
-- d. **bezwaarschriftenadviescommissie:** de adviescommissie als bedoeld in de Instellingsregeling Bezwaarschriftenadviescommissie hersteloperatie toeslagen;
+- d. *bezwaarschriftenadviescommissie:* de adviescommissie als bedoeld in de Instellingsregeling Bezwaarschriftenadviescommissie hersteloperatie toeslagen;
 
-- e. **Bvr:** [Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018);
+- e. *Bvr:*
+ [Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018);
 
-- f. **Commissie Werkelijke Schade:** Commissie aanvullende schadevergoeding werkelijke schade als bedoeld in de Instellingsregeling Commissie aanvullende schadevergoeding werkelijke schade;
+- f. *Commissie Werkelijke Schade:* Commissie aanvullende schadevergoeding werkelijke schade als bedoeld in de Instellingsregeling Commissie aanvullende schadevergoeding werkelijke schade;
 
-- g. **deskundige:** een letselschadedeskundige die staat ingeschreven in minimaal een van de registers van het NIVRE, NLK, LSA of ASP een medisch deskundige die staat ingeschreven in het BIG-register of een rekenkundige;1Nederlands Instituut van Register Experts (NIVRE), Nationaal Keurmerk Letselschade (NKL), Vereniging van Letselschade Advocaten (LSA), Vereniging van Advocaten voor Slachtoffers van Personenschade (ASP) en Beroepen in de Individuele Gezondheidszorg (BIG).
+- g. *deskundige:* een letselschadedeskundige die staat ingeschreven in minimaal een van de registers van het NIVRE, NLK, LSA of ASP een medisch deskundige die staat ingeschreven in het BIG-register of een rekenkundige;1Nederlands Instituut van Register Experts (NIVRE), Nationaal Keurmerk Letselschade (NKL), Vereniging van Letselschade Advocaten (LSA), Vereniging van Advocaten voor Slachtoffers van Personenschade (ASP) en Beroepen in de Individuele Gezondheidszorg (BIG).
 
-- h. **ex-partner:** de ex-partner die in aanmerking komt voor de compensatie bedoeld in [artikel 2.14h, eerste lid, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.14h) en aan wie deze is toegekend;
+- h. *ex-partner:* de ex-partner die in aanmerking komt voor de compensatie bedoeld in [artikel 2.14h, eerste lid, van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.14h) en aan wie deze is toegekend;
 
-- i. **individuele berekening:** een schadecompensatieroute waarbij de aanvullende schade preciezer berekend wordt;
+- i. *individuele berekening:* een schadecompensatieroute waarbij de aanvullende schade preciezer berekend wordt;
 
-- j. **kind:** eigen kind als bedoeld in [artikel 4, tweede lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=4);
+- j. *kind:* eigen kind als bedoeld in [artikel 4, tweede lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=4);
 
-- k. **mediation:** het bemiddelen in een geschil waarbij een neutrale bemiddelingsdeskundige de onderhandelingen tussen de rechtzoekende en de Dienst Toeslagen begeleidt teneinde vanuit hun belangen tot gezamenlijk gedragen en voor ieder van hen optimale resultaten te komen die worden vastgelegd in een overeenkomst in het geval van het bereiken van overeenstemming;
+- k. *mediation:* het bemiddelen in een geschil waarbij een neutrale bemiddelingsdeskundige de onderhandelingen tussen de rechtzoekende en de Dienst Toeslagen begeleidt teneinde vanuit hun belangen tot gezamenlijk gedragen en voor ieder van hen optimale resultaten te komen die worden vastgelegd in een overeenkomst in het geval van het bereiken van overeenstemming;
 
-- l. **overleden aanvrager:** overleden aanvrager zoals bedoeld in [artikel 1.1 Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=1.1)
+- l. *overleden aanvrager:* overleden aanvrager zoals bedoeld in [artikel 1.1 Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=1.1)
 
-- m. **nabestaande:** de partner als bedoeld in [artikel 2.9a Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.9a) of het kind als bedoeld in [artikel 2.9b Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.9b);
+- m. *nabestaande:* de partner als bedoeld in [artikel 2.9a Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.9a) of het kind als bedoeld in [artikel 2.9b Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.9b);
 
-- n. **ouder:** de ouder als bedoeld in [artikel 1.1 van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.1) en die aanvrager was van de kinderopvangtoeslag;
+- n. *ouder:* de ouder als bedoeld in [artikel 1.1 van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.1) en die aanvrager was van de kinderopvangtoeslag;
 
-- o. **oudergesprek:** een inhoudelijk gesprek tussen de ouder en een medewerker van de Dienst Toeslagen om de situatie van de ouder in beeld te brengen en de voor de toepassing van een herstelregeling kinderopvangtoeslag benodigde feiten te vergaren;
+- o. *oudergesprek:* een inhoudelijk gesprek tussen de ouder en een medewerker van de Dienst Toeslagen om de situatie van de ouder in beeld te brengen en de voor de toepassing van een herstelregeling kinderopvangtoeslag benodigde feiten te vergaren;
 
-- p. **pleegkind:** pleegkind als bedoeld in [artikel 4, derde lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=4) of een kind dat met een pleegkind wordt gelijkgesteld krachtens artikel 4, vierde lid, van die wet;
+- p. *pleegkind:* pleegkind als bedoeld in [artikel 4, derde lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=4) of een kind dat met een pleegkind wordt gelijkgesteld krachtens artikel 4, vierde lid, van die wet;
 
-- q. **raad:** de raad voor Rechtsbijstand, als bedoeld in [artikel 2 van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=2);
+- q. *raad:* de raad voor Rechtsbijstand, als bedoeld in [artikel 2 van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=2);
 
-- r. **rechtsbijstand:** rechtskundige bijstand door een advocaat aan een ouder, een nabestaande, de ex-partner, het kind, het pleegkind of voormalig pleegkind of een rechtzoekende na peildatum ter zake van aanspraak op een herstelregeling kinderopvangtoeslag bij de Dienst Toeslagen;
+- r. *rechtsbijstand:* rechtskundige bijstand door een advocaat aan een ouder, een nabestaande, de ex-partner, het kind, het pleegkind of voormalig pleegkind of een rechtzoekende na peildatum ter zake van aanspraak op een herstelregeling kinderopvangtoeslag bij de Dienst Toeslagen;
 
-- s. **rechtzoekende:** de ouder, de nabestaande of een rechtzoekende na peildatum die aanspraak maakt op een tegemoetkoming of compensatie in het kader van de herstelregelingen kinderopvangtoeslag bij de Dienst Toeslagen en daarbij aanspraak maakt op de rechtsbijstand van een advocaat;
+- s. *rechtzoekende:* de ouder, de nabestaande of een rechtzoekende na peildatum die aanspraak maakt op een tegemoetkoming of compensatie in het kader van de herstelregelingen kinderopvangtoeslag bij de Dienst Toeslagen en daarbij aanspraak maakt op de rechtsbijstand van een advocaat;
 
-- t. **rechtzoekende na peildatum:** de ouder die aanspraak maakt op een tegemoetkoming of compensatie in het kader van de herstelregelingen kinderopvangtoeslag bij de Dienst Toeslagen en daarbij aanspraak maakt op de rechtsbijstand van een advocaat, maar zich na de datum van 31 december 2023 als gedupeerde heeft gemeld;
+- t. *rechtzoekende na peildatum:* de ouder die aanspraak maakt op een tegemoetkoming of compensatie in het kader van de herstelregelingen kinderopvangtoeslag bij de Dienst Toeslagen en daarbij aanspraak maakt op de rechtsbijstand van een advocaat, maar zich na de datum van 31 december 2023 als gedupeerde heeft gemeld;
 
-- u. **regeling:** subsidieregeling pakket rechtsbijstand herstelregelingen kinderopvangtoeslag 2026;
+- u. *regeling:* subsidieregeling pakket rechtsbijstand herstelregelingen kinderopvangtoeslag 2026;
 
-- v. **schadecompensatieroute:** een procedure gericht op aanvullende schadecompensatie;
+- v. *schadecompensatieroute:* een procedure gericht op aanvullende schadecompensatie;
 
-- w. **toevoeging:** de toevoeging ten behoeve van rechtsbijstand zoals bedoeld onder ‘r’ van dit artikel;
+- w. *toevoeging:* de toevoeging ten behoeve van rechtsbijstand zoals bedoeld onder ‘r’ van dit artikel;
 
-- x. **vergoeding:** de op grond van deze regeling vast te stellen subsidie;
+- x. *vergoeding:* de op grond van deze regeling vast te stellen subsidie;
 
-- y. **vooraankondiging/voorlopige beslissing:** de mededeling aan de ouder van de voorlopige uitkomst van de integrale beoordeling op basis van de herstelregelingen kinderopvangtoeslag als bedoeld in [artikel 6.7 Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=6.7);
+- y. *vooraankondiging/voorlopige beslissing:* de mededeling aan de ouder van de voorlopige uitkomst van de integrale beoordeling op basis van de herstelregelingen kinderopvangtoeslag als bedoeld in [artikel 6.7 Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=6.7);
 
-- z. **voormalig pleegkind ouder:** pleegkind als bedoeld in [artikel 2.11, tweede lid Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.11);
+- z. *voormalig pleegkind ouder:* pleegkind als bedoeld in [artikel 2.11, tweede lid Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.11);
 
-- aa. **voormalig pleegkind ex-partner:** pleegkind als bedoeld in [artikel 2.11b, tweede lid Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.11b);
+- aa. *voormalig pleegkind ex-partner:* pleegkind als bedoeld in [artikel 2.11b, tweede lid Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.11b);
 
-- bb. **werkelijke schade:** de werkelijk geleden schade die overeenkomstig het civiele schadevergoedingsrecht hoger is dan een bedrag als bedoeld in [artikel 2.3, eerste tot en met het zevende lid, Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.3) of [artikel 2.6, derde lid, Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.6);
+- bb. *werkelijke schade:* de werkelijk geleden schade die overeenkomstig het civiele schadevergoedingsrecht hoger is dan een bedrag als bedoeld in [artikel 2.3, eerste tot en met het zevende lid, Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.3) of [artikel 2.6, derde lid, Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.6);
 
-- cc. **Wht:** [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436);
+- cc. *Wht:*
+ [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436);
 
-- dd. **Wrb:** [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368);
+- dd. *Wrb:*
+ [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368);
 
-- ee. **Zienswijze:** reactie van de ouder op de vooraankondiging als bedoeld onder ‘y’.
+- ee. *Zienswijze:* reactie van de ouder op de vooraankondiging als bedoeld onder ‘y’.
 
 ##### Artikel 2. Doel
 
@@ -116,7 +117,7 @@ Deze regeling heeft tot doel subsidie te verstrekken uitsluitend ten behoeve van
 
 - b. 10 punten, voor zaken waarin zes uur of meer rechtsbijstand wordt verleend.
 
-2. Voor de rechtsbijstand aan de rechtzoekende over het toekennen van een forfaitair bedrag van € 30.000,– als bedoeld in [artikel 2.7, eerste of tweede lid, van de Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.7), wordt een vergoeding toegekend van:
+2. Voor de rechtsbijstand aan de rechtzoekende over het toekennen van een forfaitair bedrag van € 30.000,– als bedoeld in [artikel 2.7, eerste of tweede lid, van de Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.7), wordt een vergoeding toegekend van:
 
 - a. 2 punten voor de rechtsbijstand bij het verzoek tot herbeoordeling;
 
@@ -128,41 +129,41 @@ Deze regeling heeft tot doel subsidie te verstrekken uitsluitend ten behoeve van
 
 4. Voor de rechtsbijstand verleend aan de rechtzoekende ten behoeve van bezwaar tegen de beschikking inzake het verzoek tot herstel, wordt een vergoeding toegekend van 20 punten.
 
-- a. In het geval een mediationtraject tijdens de bezwaarprocedure inzake het verzoek tot herstel wordt ingezet en de mediation met een door beide partijen ondertekende overeenkomst definitief wordt afgerond, wordt voor de rechtsbijstand verleend aan de rechtzoekende tijdens het mediationtraject, een vergoeding toegekend van 20 punten.
+5. - a. In het geval een mediationtraject tijdens de bezwaarprocedure inzake het verzoek tot herstel wordt ingezet en de mediation met een door beide partijen ondertekende overeenkomst definitief wordt afgerond, wordt voor de rechtsbijstand verleend aan de rechtzoekende tijdens het mediationtraject, een vergoeding toegekend van 20 punten.
 
 - b. Indien het mediationtraject niet tot een door beide partijen ondertekende overeenkomst leidt, wordt voor de rechtsbijstand, verleend tijdens het mediationtraject, een vergoeding toegekend van 5 punten.
 
-- a. Voor de rechtsbijstand verleend aan de rechtzoekende bij een aanvraag tot vergoeding van werkelijke schade als bedoeld in deze regeling wordt een vergoeding toegekend van:
+6. - a. Voor de rechtsbijstand verleend aan de rechtzoekende bij een aanvraag tot vergoeding van werkelijke schade als bedoeld in deze regeling wordt een vergoeding toegekend van:
 
-  - i. 4 punten voor verzoeken waarin minder dan 7 uur rechtsbijstand wordt verleend;
+   - i. 4 punten voor verzoeken waarin minder dan 7 uur rechtsbijstand wordt verleend;
 
-  - ii. 10 punten voor verzoeken waarin tussen 7 uur en 14 uur rechtsbijstand wordt verleend;
+   - ii. 10 punten voor verzoeken waarin tussen 7 uur en 14 uur rechtsbijstand wordt verleend;
 
-  - iii. 20 punten voor verzoeken waarin 14 uur of meer rechtsbijstand wordt verleend.
+   - iii. 20 punten voor verzoeken waarin 14 uur of meer rechtsbijstand wordt verleend.
 
-- b. Indien het advies van een deskundige wordt ingeroepen kan de advocaat een vergoeding vragen voor de factuur van de deskundige tot maximaal € 3.000,– inclusief btw.
+- b. Indien het advies van een deskundige wordt ingeroepen kan de advocaat een vergoeding vragen voor de factuur van de deskundige tot maximaal € 3.000,– inclusief btw.
 
 7. Voor de rechtsbijstand verleend aan de rechtzoekende bij het bezwaar tegen de beschikking van de Dienst Toeslagen op het verzoek tot vergoeding van de werkelijke schade wordt een vergoeding toegekend van 20 punten.
 
 8. Voor de rechtsbijstand verleend aan de ex-partner bij een verzoek tot aanvullende schadecompensatie en voor rechtsbijstand verleend bij het bezwaar tegen de beschikking van de Minister van Financiën of de Dienst Toeslagen op de aanvraag tot aanvullende schadecompensatie is het zesde en zevende lid van dit artikel van overeenkomstige toepassing.
 
-- a. Voor de rechtsbijstand verleend aan de rechtzoekende in de schadecompensatieroute MijnHerstel wordt een vergoeding toegekend van:
+9. - a. Voor de rechtsbijstand verleend aan de rechtzoekende in de schadecompensatieroute MijnHerstel wordt een vergoeding toegekend van:
 
-  - i. 10 punten voor minder dan 14 uur rechtsbijstand;
+   - i. 10 punten voor minder dan 14 uur rechtsbijstand;
 
-  - ii. 20 punten voor rechtsbijstand tussen de 14 uur en 20 uur;
+   - ii. 20 punten voor rechtsbijstand tussen de 14 uur en 20 uur;
 
-  - iii. 25 punten voor meer dan 20 uur rechtsbijstand.
+   - iii. 25 punten voor meer dan 20 uur rechtsbijstand.
 
 - b. Voor de rechtsbijstand verleend aan de rechtzoekende in een schadecompensatieroute anders dan MijnHerstel wordt een vergoeding toegekend van:
 
-  - i. 4 punten voor minder dan 7 uur rechtsbijstand;
+   - i. 4 punten voor minder dan 7 uur rechtsbijstand;
 
-  - ii. 10 punten voor rechtsbijstand tussen 7 uur en 14 uur;
+   - ii. 10 punten voor rechtsbijstand tussen 7 uur en 14 uur;
 
-  - iii. 20 punten voor meer dan 14 uur rechtsbijstand.
+   - iii. 20 punten voor meer dan 14 uur rechtsbijstand.
 
-- c. Voor de rechtsbijstand verleend ten behoeve van de individuele berekening worden 15 punten toegekend. Indien het advies van een deskundige wordt ingeroepen kan de advocaat een vergoeding vragen voor de factuur van de deskundige tot maximaal € 3.000,– inclusief btw.
+- c. Voor de rechtsbijstand verleend ten behoeve van de individuele berekening worden 15 punten toegekend. Indien het advies van een deskundige wordt ingeroepen kan de advocaat een vergoeding vragen voor de factuur van de deskundige tot maximaal € 3.000,– inclusief btw.
 
 10. Voor de rechtsbijstand aan de rechtzoekende en diens partner als bedoeld in [artikel 4.1, eerste lid Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=4.1), wordt, voor overneming of betaling van privaatrechtelijke schulden, een vergoeding toegekend van:
 
@@ -180,9 +181,9 @@ Deze regeling heeft tot doel subsidie te verstrekken uitsluitend ten behoeve van
 
 14. Voor rechtsbijstand aan een kind, pleegkind of voormalig pleegkind van een overleden ouder of een overleden ex-partner bij het beroep tegen een beslissing op bezwaar als bedoeld in het derde lid van dit artikel wordt een vergoeding toegekend van 20 punten.
 
-15. Voor de rechtsbijstand bij het hoger beroep tegen een uitspraak in beroep als bedoeld in het twaalfde, dertiende en veertiende lid van dit artikel wordt een vergoeding toegekend van 20 punten.
+15. Voor de rechtsbijstand bij het hoger beroep tegen een uitspraak in beroep als bedoeld in het twaalfde, dertiende en veertiende lid van dit artikel wordt een vergoeding toegekend van 20 punten.
 
-- a. Voor de rechtsbijstand als bedoeld in het tweede lid, onderdeel b en c, het derde, het vierde, het zevende, het achtste en het tiende lid, onder b en c, en het elfde lid, wordt de vergoeding behorend bij deze fasen, verlaagd tot 4 punten in de gevallen dat slechts een pro forma bezwaar is ingesteld en geen substantiële werkzaamheden zijn verricht.
+16. - a. Voor de rechtsbijstand als bedoeld in het tweede lid, onderdeel b en c, het derde, het vierde, het zevende, het achtste en het tiende lid, onder b en c, en het elfde lid, wordt de vergoeding behorend bij deze fasen, verlaagd tot 4 punten in de gevallen dat slechts een pro forma bezwaar is ingesteld en geen substantiële werkzaamheden zijn verricht.
 
 - b. Voor de rechtsbijstand als bedoeld in het twaalfde, dertiende, veertiende en vijftiende lid van dit artikel wordt de vergoeding behorend bij deze fasen, verlaagd tot 4 punten in de gevallen dat slechts een pro forma beroep is ingesteld en geen substantiële werkzaamheden zijn verricht.
 
@@ -200,9 +201,9 @@ Deze regeling heeft tot doel subsidie te verstrekken uitsluitend ten behoeve van
 
 1. Voor vergoeding van de kosten in verband met het reizen ten behoeve van de verlening van rechtsbijstand tijdens een oudergesprek, een mediationgesprek alsmede de zitting van de bezwaarschriftenadviescommissie, alsmede gesprekken die als doel hebben het bereiken van een VSO, alsmede de zitting in het kader van een procedure over de schadecompensatie, alsmede de zitting bij de rechtbank, alsmede de zitting bij de Afdeling bestuursrechtspraak van de Raad van State is [artikel 25 Bvr](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=25) van overeenkomstige toepassing.
 
-2. Voor het tijdverlet in verband met het reizen ten behoeve van de verlening van rechtsbijstand onder toevoegingen afgegeven vóór 1 januari 2022, zoals bedoeld in het eerste lid, wordt een vergoeding toegekend van een half punt per volle gereisde 60 kilometer.
+2. Voor het tijdverlet in verband met het reizen ten behoeve van de verlening van rechtsbijstand onder toevoegingen afgegeven vóór 1 januari 2022, zoals bedoeld in het eerste lid, wordt een vergoeding toegekend van een half punt per volle gereisde 60 kilometer.
 
-3. Voor het tijdverlet in verband met het reizen ten behoeve van de verlening van rechtsbijstand onder toevoegingen afgegeven op of na 1 januari 2022, zoals bedoeld in het eerste lid, wordt een vergoeding toegekend van een half punt per volle gereisde 50 kilometer.
+3. Voor het tijdverlet in verband met het reizen ten behoeve van de verlening van rechtsbijstand onder toevoegingen afgegeven op of na 1 januari 2022, zoals bedoeld in het eerste lid, wordt een vergoeding toegekend van een half punt per volle gereisde 50 kilometer.
 
 4. Als een reis zoals bedoeld in het eerste, tweede en derde lid wordt afgelegd ten behoeve van de verlening van rechtsbijstand aan meerdere rechtzoekenden op dezelfde locatie, wordt in verband met deze reis slechts eenmaal de kilometervergoeding en reisverlet toegekend.
 
@@ -224,7 +225,7 @@ Deze regeling heeft tot doel subsidie te verstrekken uitsluitend ten behoeve van
 
 ##### Artikel 7. Voorwaarden tot deelname voor advocaten
 
-1. Deze regeling is van toepassing op advocaten die voldoen aan de in de bijlage onder I genoemde deelnamecriteria.
+1. Deze regeling is van toepassing op advocaten die voldoen aan de in de [bijlage onder I](https://wetten.overheid.nl/BWBR0052594) genoemde deelnamecriteria.
 
 2. Advocaten kunnen een gemotiveerd verzoek tot deelname indienen bij de raad.
 
@@ -244,7 +245,7 @@ Deze regeling heeft tot doel subsidie te verstrekken uitsluitend ten behoeve van
 
 6. De advocaat kan voor de werkzaamheden als genoemd in het tweede tot en met het vijftiende lid van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052594&hoofdstuk=II&artikel=4&z=2026-05-02&g=2026-05-02), een separate aanvraag indienen voor de in dat artikel genoemde werkzaamheden. Voor deze aanvraag voor rechtsbijstand gebruikt de advocaat een gestandaardiseerd aanvraagformulier ‘Aanvraag vervolgtoevoeging rechtsbijstand herstelregelingen Kinderopvangtoeslag’ en voegt hierbij een afschrift van de bestreden beslissing waarop de betreffende aanvraag voor rechtsbijstand ziet, voor zover van toepassing.
 
-- a. Indien een advocaat rechtsbijstand verleent aan twee of meer nabestaanden, zijnde kinderen van dezelfde overleden ouder, wordt vanaf het tweede kind een toeslag toegekend van 3.5 punt per kind.
+7. - a. Indien een advocaat rechtsbijstand verleent aan twee of meer nabestaanden, zijnde kinderen van dezelfde overleden ouder, wordt vanaf het tweede kind een toeslag toegekend van 3.5 punt per kind.
 
 - b. Indien het, gelet op de belangen van de nabestaanden als bedoeld onder a, naar het oordeel van de raad niet mogelijk is dat deze nabestaanden door één en dezelfde advocaat worden bijgestaan, kunnen voor verschillende nabestaanden afzonderlijke toevoegingen worden verstrekt.
 
@@ -268,44 +269,32 @@ Het kenniscentrum van de raad zal een monitor opzetten waarmee de toepassing van
 
 ##### Artikel 12. Inwerkingtreding en vervaldatum
 
-1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 maart 2021.
+1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 maart 2021.
 
 2. In afwijking van het eerste lid geldt het volgende:
 
-- a. [Artikel 4, derde lid, veertiende lid, vijftiende lid en zeventiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052594&hoofdstuk=II&artikel=4&z=2026-05-02&g=2026-05-02) voor zover deze betrekking hebben op het derde en veertiende lid, treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 1 oktober 2023;
+- a. [Artikel 4, derde lid, veertiende lid, vijftiende lid en zeventiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052594&hoofdstuk=II&artikel=4&z=2026-05-02&g=2026-05-02) voor zover deze betrekking hebben op het derde en veertiende lid, treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 1 oktober 2023;
 
-- b. [Artikel 4, vijfde lid en negende lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0052594&hoofdstuk=II&artikel=4&z=2026-05-02&g=2026-05-02), treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 1 juni 2023;
+- b. [Artikel 4, vijfde lid en negende lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0052594&hoofdstuk=II&artikel=4&z=2026-05-02&g=2026-05-02), treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 1 juni 2023;
 
-- c. [Artikel 4, negende lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0052594&hoofdstuk=II&artikel=4&z=2026-05-02&g=2026-05-02), treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 2 december 2025;
+- c. [Artikel 4, negende lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0052594&hoofdstuk=II&artikel=4&z=2026-05-02&g=2026-05-02), treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 2 december 2025;
 
-- d. [Artikel 4, tiende lid en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052594&hoofdstuk=II&artikel=4&z=2026-05-02&g=2026-05-02) voor zover deze betrekking heeft op het tiende lid onderdeel b en c, en het vijftiende en zestiende lid voor wat betreft meerdere zittingen en zeventiende lid voor zover deze terug voeren naar het tiende lid onderdeel b en c, treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 29 oktober 2021;
+- d. [Artikel 4, tiende lid en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052594&hoofdstuk=II&artikel=4&z=2026-05-02&g=2026-05-02) voor zover deze betrekking heeft op het tiende lid onderdeel b en c, en het vijftiende en zestiende lid voor wat betreft meerdere zittingen en zeventiende lid voor zover deze terug voeren naar het tiende lid onderdeel b en c, treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 29 oktober 2021;
 
-- e. [Artikel 4, elfde lid en het dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052594&hoofdstuk=II&artikel=4&z=2026-05-02&g=2026-05-02) voor zover deze betrekking heeft op het elfde lid, vijftiende en zestiende lid voor wat betreft meerdere zittingen en het zeventiende lid voor zover deze terug voeren naar het elfde lid, treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 15 juli 2023;
+- e. [Artikel 4, elfde lid en het dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052594&hoofdstuk=II&artikel=4&z=2026-05-02&g=2026-05-02) voor zover deze betrekking heeft op het elfde lid, vijftiende en zestiende lid voor wat betreft meerdere zittingen en het zeventiende lid voor zover deze terug voeren naar het elfde lid, treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 15 juli 2023;
 
 - f. [Artikel 4, negende lid onder c, en het zestiende en twintigste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052594&hoofdstuk=II&artikel=4&z=2026-05-02&g=2026-05-02), treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst;
 
 - g. Voor rechtsbijstand verleend aan een nabestaande geldt deze regeling met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst;
 
-- h. Voor rechtsbijstand verleend aan een rechtzoekende na peildatum geldt deze regeling vanaf 1 oktober 2023.
+- h. Voor rechtsbijstand verleend aan een rechtzoekende na peildatum geldt deze regeling vanaf 1 oktober 2023.
 
-3. Deze regeling vervalt op 31 december 2031.
+3. Deze regeling vervalt op 31 december 2031.
 
 ##### Artikel 13. Intrekking
 
-De [subsidieregeling pakket rechtsbijstand herstelregeling kinderopvangtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0048817) die op 31 oktober 2023 is gepubliceerd (Staatscourant 2023, 29583) wordt bij deze ingetrokken.
+De [subsidieregeling pakket rechtsbijstand herstelregeling kinderopvangtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0048817) die op 31 oktober 2023 is gepubliceerd (Staatscourant 2023, 29583) wordt bij deze ingetrokken.
 
 ##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: subsidieregeling pakket rechtsbijstand herstelregelingen kinderopvangtoeslag 2026
-
-## Bijlage
-
-### Deelname- en matchingscriteria voor de advocaat
-
-### I. Deelnamecriteria
-
-Voor deelname aan deze regeling gelden de volgende voorwaarden:
-
-### II. Matchingscriteria
-
-Ten behoeve van een zo goed mogelijke matching met de rechtzoekende vermeldt de advocaat bij zijn deelnameverzoek:

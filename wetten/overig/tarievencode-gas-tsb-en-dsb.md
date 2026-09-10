@@ -1,22 +1,24 @@
 ---
-title: "Tarievencode gas TSB en DSB"
+title: "Besluit van de Autoriteit Consument en Markt van 5 februari 2026, kenmerk ACM/UIT/666064, op grond van artikel 3.121 van de Energiewet, en artikel 12f van de Gaswet juncto artikel 7.42, tweede lid, van de Energiewet over de tariefregulering van gas bij de TSB en de DSBs (Tarievencode gas TSB en DSB)"
+citeertitel: "Tarievencode gas TSB en DSB"
 identifier: "BWBR0052341"
 categorie: "Overig"
-publicatiedatum: 2026-05-28
-laatste_update: 2026-05-29
+soort: "zbo"
+publicatiedatum: 2026-02-21
+laatste_update: 2026-05-28
 status: geldig
+toestand: 2026-05-28
 bron: "https://wetten.overheid.nl/BWBR0052341"
+opgehaald: 2026-09-10
 ---
 
 # Besluit van de Autoriteit Consument en Markt van 5 februari 2026, kenmerk ACM/UIT/666064, op grond van artikel 3.121 van de Energiewet, en artikel 12f van de Gaswet juncto artikel 7.42, tweede lid, van de Energiewet over de tariefregulering van gas bij de TSB en de DSBs (Tarievencode gas TSB en DSB)
-
-Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
 ##### Artikel 1.1
 
-Deze code bevat de algemene tariefbeginselen voor het onderscheiden van de tarieven, de toedeling van kostensoorten aan deze tarieven en de wijze waarop de kostensoorten in aanmerking worden genomen, bedoeld in [artikel 3.107, vierde lid van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.107), alsmede kostenverdeling zoals beschreven in NC-TAR, voor zover die betrekking hebben op gas.
+Deze code bevat de algemene tariefbeginselen voor het onderscheiden van de tarieven, de toedeling van kostensoorten aan deze tarieven en de wijze waarop de kostensoorten in aanmerking worden genomen, bedoeld in [artikel 3.107, vierde lid van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.107), alsmede kostenverdeling zoals beschreven in NC-TAR, voor zover die betrekking hebben op gas.
 
 ##### Artikel 1.2
 
@@ -24,15 +26,15 @@ Deze code bevat de algemene tariefbeginselen voor het onderscheiden van de tarie
 
 2. In deze code wordt verstaan onder:
 
-- a. **distributiesysteem:** distributiesysteem voor gas als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1);
+- a. *distributiesysteem:* distributiesysteem voor gas als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1);
 
-- b. **distributiesysteembeheerder:** distributiesysteembeheerder voor gas als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1);
+- b. *distributiesysteembeheerder:* distributiesysteembeheerder voor gas als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1);
 
-- c. **transmissiesysteem:** transmissiesysteem voor gas als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1);
+- c. *transmissiesysteem:* transmissiesysteem voor gas als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1);
 
-- d. **transmissiesysteembeheerder:** transmissiesysteembeheerder voor gas als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1);
+- d. *transmissiesysteembeheerder:* transmissiesysteembeheerder voor gas als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1);
 
-- e. **aangeslotene:** aangeslotene als bedoeld in [artikel 1.1 van de Energie](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1) alsmede degene die om een aansluiting heeft verzocht.
+- e. *aangeslotene:* aangeslotene als bedoeld in [artikel 1.1 van de Energie](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1) alsmede degene die om een aansluiting heeft verzocht.
 
 ##### Artikel 1.3
 
@@ -44,11 +46,11 @@ Indien een aansluit- en transportovereenkomst met de distributiesysteembeheerder
 
 ##### Artikel 2.1
 
-Dit hoofdstuk bevat de door distributiesysteembeheerders jegens aangeslotenen, te hanteren tariefstructuren, bedoeld in [artikel 3.107, lid 4 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.107).
+Dit hoofdstuk bevat de door distributiesysteembeheerders jegens aangeslotenen, te hanteren tariefstructuren, bedoeld in [artikel 3.107, lid 4 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.107).
 
 ##### Artikel 2.2
 
-1. Per onroerende zaak als bedoeld in [artikel 16, onderdelen a t/m d van de Wet waardering onroerende zaak](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=16) is er sprake van één aansluiting.
+1. Per onroerende zaak als bedoeld in [artikel 16, onderdelen a t/m d van de Wet waardering onroerende zaak](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=16) is er sprake van één aansluiting.
 
 2. In afwijking van het eerste lid is er sprake van verschillende aansluitingen indien er sprake is van installaties of samenstel van installaties op een onroerende zaak die afzonderlijk met het distributiesysteem zijn verbonden en die niet warmtezijdig en ook niet anderszins met elkaar verbonden zijn.
 
@@ -56,65 +58,65 @@ Dit hoofdstuk bevat de door distributiesysteembeheerders jegens aangeslotenen, t
 
 ##### Artikel 2.3
 
-1. Kleine aansluitingen met een gegarandeerde leveringsdruk van 23,4 mbar of een niet-gegarandeerde leveringsdruk groter dan 23,4 mbar en kleiner dan of gelijk aan 100 mbar worden op grond van de aansluitcapaciteit ingedeeld in vier aansluittariefcategorieën:
+1. Kleine aansluitingen met een gegarandeerde leveringsdruk van 23,4 mbar of een niet-gegarandeerde leveringsdruk groter dan 23,4 mbar en kleiner dan of gelijk aan 100 mbar worden op grond van de aansluitcapaciteit ingedeeld in vier aansluittariefcategorieën:
 
-- a. aansluitcapaciteit kleiner dan of gelijk aan 10 m3(n)/uur;
+- a. aansluitcapaciteit kleiner dan of gelijk aan 10 m3(n)/uur;
 
-- b. aansluitcapaciteit groter dan 10 m3(n)/uur en kleiner dan of gelijk aan 16 m3(n)/uur;
+- b. aansluitcapaciteit groter dan 10 m3(n)/uur en kleiner dan of gelijk aan 16 m3(n)/uur;
 
-- c. aansluitcapaciteit groter dan 16 m3(n)/uur en kleiner dan of gelijk aan 25 m3(n)/uur;
+- c. aansluitcapaciteit groter dan 16 m3(n)/uur en kleiner dan of gelijk aan 25 m3(n)/uur;
 
-- d. aansluitcapaciteit groter dan 25 m3(n)/uur en kleiner dan of gelijk aan 40 m3(n)/uur.
+- d. aansluitcapaciteit groter dan 25 m3(n)/uur en kleiner dan of gelijk aan 40 m3(n)/uur.
 
-2. Kleine aansluitingen met een gegarandeerde leveringsdruk groter dan 23,4 mbar en kleiner dan of gelijk aan 100 mbar of een niet-gegarandeerde leveringsdruk groter dan 100 mbar en kleiner dan of gelijk aan 8 bar worden op grond van de aansluitcapaciteit ingedeeld in vier aansluittariefcategorieën:
+2. Kleine aansluitingen met een gegarandeerde leveringsdruk groter dan 23,4 mbar en kleiner dan of gelijk aan 100 mbar of een niet-gegarandeerde leveringsdruk groter dan 100 mbar en kleiner dan of gelijk aan 8 bar worden op grond van de aansluitcapaciteit ingedeeld in vier aansluittariefcategorieën:
 
-- a. aansluitcapaciteit kleiner dan of gelijk aan 10 m3(n)/uur;
+- a. aansluitcapaciteit kleiner dan of gelijk aan 10 m3(n)/uur;
 
-- b. aansluitcapaciteit groter dan 10 m3(n)/uur en kleiner dan of gelijk aan 16 m3(n)/uur;
+- b. aansluitcapaciteit groter dan 10 m3(n)/uur en kleiner dan of gelijk aan 16 m3(n)/uur;
 
-- c. aansluitcapaciteit groter dan 16 m3(n)/uur en kleiner dan of gelijk aan 25 m3(n)/uur;
+- c. aansluitcapaciteit groter dan 16 m3(n)/uur en kleiner dan of gelijk aan 25 m3(n)/uur;
 
-- d. aansluitcapaciteit groter dan 25 m3(n)/uur en kleiner dan of gelijk aan 40 m3(n)/uur.
+- d. aansluitcapaciteit groter dan 25 m3(n)/uur en kleiner dan of gelijk aan 40 m3(n)/uur.
 
 ##### Artikel 2.4
 
-1. Grote aansluitingen met een gegarandeerde leveringsdruk van 23,4 mbar worden op grond van de aansluitcapaciteit ingedeeld in drie aansluittariefcategorieën:
+1. Grote aansluitingen met een gegarandeerde leveringsdruk van 23,4 mbar worden op grond van de aansluitcapaciteit ingedeeld in drie aansluittariefcategorieën:
 
-- a. aansluitcapaciteit groter dan 40 m3(n)/uur en kleiner dan of gelijk aan 100 m3(n)/uur;
+- a. aansluitcapaciteit groter dan 40 m3(n)/uur en kleiner dan of gelijk aan 100 m3(n)/uur;
 
-- b. aansluitcapaciteit groter dan 100 m3(n)/uur en kleiner dan of gelijk aan 400 m3(n)/uur;
+- b. aansluitcapaciteit groter dan 100 m3(n)/uur en kleiner dan of gelijk aan 400 m3(n)/uur;
 
-- c. aansluitcapaciteit groter dan 400 m3(n)/uur en kleiner dan of gelijk aan 650 m3(n)/uur.
+- c. aansluitcapaciteit groter dan 400 m3(n)/uur en kleiner dan of gelijk aan 650 m3(n)/uur.
 
-2. Grote aansluitingen met een niet-gegarandeerde leveringsdruk groter dan 23,4 mbar en kleiner dan of gelijk aan 100 mbar worden op grond van de aansluitcapaciteit ingedeeld in drie aansluittariefcategorieën:
+2. Grote aansluitingen met een niet-gegarandeerde leveringsdruk groter dan 23,4 mbar en kleiner dan of gelijk aan 100 mbar worden op grond van de aansluitcapaciteit ingedeeld in drie aansluittariefcategorieën:
 
-- a. aansluitcapaciteit groter dan 40 m3(n)/uur en kleiner dan of gelijk aan 100 m3(n)/uur;
+- a. aansluitcapaciteit groter dan 40 m3(n)/uur en kleiner dan of gelijk aan 100 m3(n)/uur;
 
-- b. aansluitcapaciteit groter dan 100 m3(n)/uur en kleiner dan of gelijk aan 400 m3(n)/uur;
+- b. aansluitcapaciteit groter dan 100 m3(n)/uur en kleiner dan of gelijk aan 400 m3(n)/uur;
 
-- c. aansluitcapaciteit groter dan 400 m3(n)/uur en kleiner dan of gelijk aan 650 m3(n)/uur.
+- c. aansluitcapaciteit groter dan 400 m3(n)/uur en kleiner dan of gelijk aan 650 m3(n)/uur.
 
-3. Grote aansluitingen met een gegarandeerde leveringsdruk groter dan 23,4 mbar en kleiner dan of gelijk aan 100 mbar worden op grond van de aansluitcapaciteit ingedeeld in vier aansluittariefcategorieën:
+3. Grote aansluitingen met een gegarandeerde leveringsdruk groter dan 23,4 mbar en kleiner dan of gelijk aan 100 mbar worden op grond van de aansluitcapaciteit ingedeeld in vier aansluittariefcategorieën:
 
-- a. aansluitcapaciteit groter dan 40 m3(n)/uur en kleiner dan of gelijk aan 100 m3(n)/uur;
+- a. aansluitcapaciteit groter dan 40 m3(n)/uur en kleiner dan of gelijk aan 100 m3(n)/uur;
 
-- b. aansluitcapaciteit groter dan 100 m3(n)/uur en kleiner dan of gelijk aan 400 m3(n)/uur;
+- b. aansluitcapaciteit groter dan 100 m3(n)/uur en kleiner dan of gelijk aan 400 m3(n)/uur;
 
-- c. aansluitcapaciteit groter dan 400 m3(n)/uur en kleiner dan of gelijk aan 1.600 m3(n)/uur; en
+- c. aansluitcapaciteit groter dan 400 m3(n)/uur en kleiner dan of gelijk aan 1.600 m3(n)/uur; en
 
-- d. aansluitcapaciteit groter dan 1.600 m3(n)/uur.
+- d. aansluitcapaciteit groter dan 1.600 m3(n)/uur.
 
-4. Grote aansluitingen met een niet-gegarandeerde leveringsdruk groter dan 100 mbar en kleiner dan of gelijk aan 8 bar worden op grond van de aansluitcapaciteit ingedeeld in vier aansluittariefcategorieën:
+4. Grote aansluitingen met een niet-gegarandeerde leveringsdruk groter dan 100 mbar en kleiner dan of gelijk aan 8 bar worden op grond van de aansluitcapaciteit ingedeeld in vier aansluittariefcategorieën:
 
-- a. aansluitcapaciteit groter dan 40 m3(n)/uur en kleiner dan of gelijk aan 100 m3(n)/uur;
+- a. aansluitcapaciteit groter dan 40 m3(n)/uur en kleiner dan of gelijk aan 100 m3(n)/uur;
 
-- b. aansluitcapaciteit groter dan 100 m3(n)/uur en kleiner dan of gelijk aan 400 m3(n)/uur;
+- b. aansluitcapaciteit groter dan 100 m3(n)/uur en kleiner dan of gelijk aan 400 m3(n)/uur;
 
-- c. aansluitcapaciteit groter dan 400 m3(n)/uur en kleiner dan of gelijk aan 1.600 m3(n)/uur; en
+- c. aansluitcapaciteit groter dan 400 m3(n)/uur en kleiner dan of gelijk aan 1.600 m3(n)/uur; en
 
-- d. aansluitcapaciteit groter dan 1.600 m3 (n)/uur.
+- d. aansluitcapaciteit groter dan 1.600 m3 (n)/uur.
 
-5. Grote aansluitingen met een leveringsdruk groter dan 8 bar worden op grond van de aansluitcapaciteit ingedeeld in één aansluittariefcategorie: aansluitcapaciteit groter dan 40 m3(n)/uur.
+5. Grote aansluitingen met een leveringsdruk groter dan 8 bar worden op grond van de aansluitcapaciteit ingedeeld in één aansluittariefcategorie: aansluitcapaciteit groter dan 40 m3(n)/uur.
 
 5a. In afwijking van bovenstaande, worden alle invoedingsaansluitingen, ongeacht aansluitcapaciteit gezien als een separate aansluittariefcategorie.
 
@@ -132,7 +134,7 @@ Dit hoofdstuk bevat de door distributiesysteembeheerders jegens aangeslotenen, t
 
 1. Voor het leveren van de aansluitdienst brengt de distributiesysteembeheerder de aansluitvergoeding in rekening bij de aangeslotene.
 
-2. De distributiesysteembeheerder onderscheidt bij het in rekening brengen van de aansluitvergoeding uitsluitend de aansluittariefcategorieën zoals vermeld in de [artikelen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2026-05-28&g=2026-05-28) en [2.4.](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.4&z=2026-05-28&g=2026-05-28)
+2. De distributiesysteembeheerder onderscheidt bij het in rekening brengen van de aansluitvergoeding uitsluitend de aansluittariefcategorieën zoals vermeld in de [artikelen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2026-05-28&g=2026-05-28) en [2.4.](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.4&z=2026-05-28&g=2026-05-28)
 
 3. De aansluitvergoeding wordt bepaald door de aansluittariefcategorie.
 
@@ -140,37 +142,37 @@ Dit hoofdstuk bevat de door distributiesysteembeheerders jegens aangeslotenen, t
 
 1. De aansluitvergoeding dient ter dekking van de kosten die de distributiesysteembeheerder maakt voor het leveren van de aansluitdienst. Deze kosten zijn te onderscheiden in:
 
-- a. kosten voor het voorzien van een nieuwe aansluiting als bedoeld in [artikel 3.40 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.40).
+- a. kosten voor het voorzien van een nieuwe aansluiting als bedoeld in [artikel 3.40 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.40).
 
-- b. kosten voor het beheren en onderhouden van een aansluiting als bedoeld in [artikel 3.41 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.41).
+- b. kosten voor het beheren en onderhouden van een aansluiting als bedoeld in [artikel 3.41 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.41).
 
-2. Met betrekking tot de in het eerste lid genoemde kosten geldt dat slechts de kosten in aanmerking worden genomen van werkzaamheden en benodigdheden die rechtstreeks met het voorzien van en het beheren en onderhoud van de aansluiting zijn gemoeid, waarbij de distributiesysteembeheerder uitgaat van de aansluittariefcategorieën zoals genoemd in de [artikelen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2026-05-28&g=2026-05-28) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.4&z=2026-05-28&g=2026-05-28) en van gemiddelde kosten van de standaardaansluiting in elk van die aansluittariefcategorieën.
+2. Met betrekking tot de in het eerste lid genoemde kosten geldt dat slechts de kosten in aanmerking worden genomen van werkzaamheden en benodigdheden die rechtstreeks met het voorzien van en het beheren en onderhoud van de aansluiting zijn gemoeid, waarbij de distributiesysteembeheerder uitgaat van de aansluittariefcategorieën zoals genoemd in de [artikelen 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2026-05-28&g=2026-05-28) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.4&z=2026-05-28&g=2026-05-28) en van gemiddelde kosten van de standaardaansluiting in elk van die aansluittariefcategorieën.
 
 ##### Artikel 2.8
 
 1. De aansluitvergoeding voor een aansluiting ten behoeve van afname of invoeding van gas bestaat uit twee componenten:
 
-- a. Een eenmalige aansluitvergoeding ter dekking van de kosten genoemd in [artikel 2.7, eerste lid onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2026-05-28&g=2026-05-28).
+- a. Een eenmalige aansluitvergoeding ter dekking van de kosten genoemd in [artikel 2.7, eerste lid onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2026-05-28&g=2026-05-28).
 
-- b. Een periodieke aansluitvergoeding ter dekking van de kosten genoemd in [artikel 2.7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2026-05-28&g=2026-05-28).
+- b. Een periodieke aansluitvergoeding ter dekking van de kosten genoemd in [artikel 2.7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.7&z=2026-05-28&g=2026-05-28).
 
-2. Indien op schriftelijk verzoek van de aangeslotene wordt afgeweken van de standaardaansluiting, bijvoorbeeld door middel van het aanleggen van een meerstraatsaansluiting of het plaatsen van een extra scheidingsafsluiter, brengt de distributiesysteembeheerder de meerkosten daarvan aanvullend op de standaard eenmalige aansluitvergoeding in rekening bij de aangeslotene, met inachtneming van de systematiek van voorcalculatie zoals beschreven in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.10&z=2026-05-28&g=2026-05-28).
+2. Indien op schriftelijk verzoek van de aangeslotene wordt afgeweken van de standaardaansluiting, bijvoorbeeld door middel van het aanleggen van een meerstraatsaansluiting of het plaatsen van een extra scheidingsafsluiter, brengt de distributiesysteembeheerder de meerkosten daarvan aanvullend op de standaard eenmalige aansluitvergoeding in rekening bij de aangeslotene, met inachtneming van de systematiek van voorcalculatie zoals beschreven in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.10&z=2026-05-28&g=2026-05-28).
 
-3. Voor aansluitingen met een aansluitcapaciteit groter dan 1.600 m3(n)/uur en voor aansluitingen op extra hoge druk, en voor invoedaansluitingen geldt een eenmalige en een periodieke aansluitvergoeding die zijn gebaseerd op de voorcalculatorische projectkosten genoemd in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.10&z=2026-05-28&g=2026-05-28).
+3. Voor aansluitingen met een aansluitcapaciteit groter dan 1.600 m3(n)/uur en voor aansluitingen op extra hoge druk, en voor invoedaansluitingen geldt een eenmalige en een periodieke aansluitvergoeding die zijn gebaseerd op de voorcalculatorische projectkosten genoemd in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.10&z=2026-05-28&g=2026-05-28).
 
 ##### Artikel 2.9
 
-1. Bij wijziging van een aansluiting op verzoek van de aangeslotene brengt de distributiesysteembeheerder een eenmalige bijdrage in rekening bij de aangeslotene tot een maximum van de eenmalige aansluitvergoeding genoemd in [artikel 2.8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2026-05-28&g=2026-05-28) plus eventueel en met inachtneming van de systematiek van voorcalculatie genoemd in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.10&z=2026-05-28&g=2026-05-28) een eenmalige bijdrage voor het verwijderen dan wel fysiek afschakelen van de bestaande aansluiting.
+1. Bij wijziging van een aansluiting op verzoek van de aangeslotene brengt de distributiesysteembeheerder een eenmalige bijdrage in rekening bij de aangeslotene tot een maximum van de eenmalige aansluitvergoeding genoemd in [artikel 2.8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2026-05-28&g=2026-05-28) plus eventueel en met inachtneming van de systematiek van voorcalculatie genoemd in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.10&z=2026-05-28&g=2026-05-28) een eenmalige bijdrage voor het verwijderen dan wel fysiek afschakelen van de bestaande aansluiting.
 
-2. Bij het verwijderen van een aansluiting op verzoek brengt de distributiesysteembeheerder kosten voor het verwijderen van de aansluiting via een eenmalige bijdrage in rekening bij de verzoeker, met inachtneming van de systematiek van voorcalculatie genoemd in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.10&z=2026-05-28&g=2026-05-28).
+2. Bij het verwijderen van een aansluiting op verzoek brengt de distributiesysteembeheerder kosten voor het verwijderen van de aansluiting via een eenmalige bijdrage in rekening bij de verzoeker, met inachtneming van de systematiek van voorcalculatie genoemd in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.10&z=2026-05-28&g=2026-05-28).
 
-3. Voor het fysiek afschakelen van de aansluiting brengt de distributiesysteembeheerder een eenmalige bijdrage in rekening bij de aangeslotene, met inachtneming van de systematiek van voorcalculatie genoemd in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.10&z=2026-05-28&g=2026-05-28), voor zover het afschakelen samenhangt met een verzoek van of specifieke gedraging door de aangeslotene.
+3. Voor het fysiek afschakelen van de aansluiting brengt de distributiesysteembeheerder een eenmalige bijdrage in rekening bij de aangeslotene, met inachtneming van de systematiek van voorcalculatie genoemd in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.10&z=2026-05-28&g=2026-05-28), voor zover het afschakelen samenhangt met een verzoek van of specifieke gedraging door de aangeslotene.
 
-4. Indien de distributiesysteembeheerder en de aangeslotene een nieuwe aansluitovereenkomst voor een reeds aangelegde en eerder beheerde aansluiting aangaan, brengt de distributiesysteembeheerder de eventuele kosten voor het fysiek inschakelen van de aansluiting via een eenmalige bijdrage in rekening bij de aangeslotene, met inachtneming van de systematiek van voorcalculatie genoemd in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.10&z=2026-05-28&g=2026-05-28).
+4. Indien de distributiesysteembeheerder en de aangeslotene een nieuwe aansluitovereenkomst voor een reeds aangelegde en eerder beheerde aansluiting aangaan, brengt de distributiesysteembeheerder de eventuele kosten voor het fysiek inschakelen van de aansluiting via een eenmalige bijdrage in rekening bij de aangeslotene, met inachtneming van de systematiek van voorcalculatie genoemd in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.10&z=2026-05-28&g=2026-05-28).
 
 ##### Artikel 2.10
 
-De hoogte van de in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2026-05-28&g=2026-05-28) en [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.9&z=2026-05-28&g=2026-05-28) bedoelde voorcalculaties voor eenmalige werkzaamheden baseert de distributiesysteembeheerder op de voorcalculatorische projectkosten, met toepassing van de standaardofferte voor werkzaamheden bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.11&z=2026-05-28&g=2026-05-28)
+De hoogte van de in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2026-05-28&g=2026-05-28) en [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.9&z=2026-05-28&g=2026-05-28) bedoelde voorcalculaties voor eenmalige werkzaamheden baseert de distributiesysteembeheerder op de voorcalculatorische projectkosten, met toepassing van de standaardofferte voor werkzaamheden bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.11&z=2026-05-28&g=2026-05-28)
 
 ##### Artikel 2.11
 
@@ -194,7 +196,7 @@ De hoogte van de in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR005234
 
 ##### Artikel 2.12
 
-1. Met betrekking tot elk van de werkzaamheden “verwijderen van een aansluiting”, “fysiek afschakelen van een aansluiting” en “fysiek inschakelen van een aansluiting” bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.9&z=2026-05-28&g=2026-05-28), kan de distributiesysteembeheerder op de standaardofferte zoals omschreven in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.11&z=2026-05-28&g=2026-05-28) volstaan met het uitsplitsen van kosten naar de drie verzamelposten:
+1. Met betrekking tot elk van de werkzaamheden “verwijderen van een aansluiting”, “fysiek afschakelen van een aansluiting” en “fysiek inschakelen van een aansluiting” bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.9&z=2026-05-28&g=2026-05-28), kan de distributiesysteembeheerder op de standaardofferte zoals omschreven in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.11&z=2026-05-28&g=2026-05-28) volstaan met het uitsplitsen van kosten naar de drie verzamelposten:
 
 - a. materiaal, gereedschap, transport en opslag;
 
@@ -204,21 +206,21 @@ De hoogte van de in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR005234
 
 ##### Artikel 2.13
 
-1. De onder [artikel 2.8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2026-05-28&g=2026-05-28) genoemde eenmalige aansluitvergoeding is opgebouwd uit twee componenten:
+1. De onder [artikel 2.8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2026-05-28&g=2026-05-28) genoemde eenmalige aansluitvergoeding is opgebouwd uit twee componenten:
 
-- a. een vast tarief ter dekking van de kosten voor het voorzien van en in bedrijf nemen van een nieuwe aansluiting, met een lengte van maximaal 25 meter;
+- a. een vast tarief ter dekking van de kosten voor het voorzien van en in bedrijf nemen van een nieuwe aansluiting, met een lengte van maximaal 25 meter;
 
-- b. een vast tarief per meter ter dekking van de meerkosten van de aanleg als direct gevolg van het langer zijn van de aansluitleiding dan de in onderdeel a van dit artikel genoemde 25 meter.
+- b. een vast tarief per meter ter dekking van de meerkosten van de aanleg als direct gevolg van het langer zijn van de aansluitleiding dan de in onderdeel a van dit artikel genoemde 25 meter.
 
 2. De distributiesysteembeheerder specificeert de componenten bedoeld in het eerste lid afzonderlijk op de factuur aan de aangeslotene.
 
-3. De periodieke aansluitvergoeding, bedoeld in [artikel 2.8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2026-05-28&g=2026-05-28) bestaat uit een vast tarief.
+3. De periodieke aansluitvergoeding, bedoeld in [artikel 2.8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2026-05-28&g=2026-05-28) bestaat uit een vast tarief.
 
 ##### Artikel 2.14
 
-1. Ten behoeve van het bepalen van de vergoeding voor de meerlengte bedoeld in [artikel 2.13, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.13&z=2026-05-28&g=2026-05-28) geldt dat:
+1. Ten behoeve van het bepalen van de vergoeding voor de meerlengte bedoeld in [artikel 2.13, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.13&z=2026-05-28&g=2026-05-28) geldt dat:
 
-- a. de meerlengte is voor kleine aansluitingen ten behoeve van afname van gas, gemaximeerd op 1,3 maal de afstand tot het dichtstbijzijnde punt in het distributiesysteem met een voor die aansluiting geschikte druk en voldoende capaciteit gemeten in rechte lijn vanaf het overdrachtspunt.
+- a. de meerlengte is voor kleine aansluitingen ten behoeve van afname van gas, gemaximeerd op 1,3 maal de afstand tot het dichtstbijzijnde punt in het distributiesysteem met een voor die aansluiting geschikte druk en voldoende capaciteit gemeten in rechte lijn vanaf het overdrachtspunt.
 
 - b. de bepaling van de lengte van de aansluitleiding geschiedt ten opzichte van het distributiesysteem zoals dat bestaat op het moment van aanleg van de aansluiting.
 
@@ -230,11 +232,11 @@ De hoogte van de in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR005234
 
 - c. indien het punt waarop wordt aangesloten in het distributiesysteem of een bestaande aansluiting waarop wordt aangesloten onder of aan de openbare weg ligt, wordt gemeten tot aan het hart van de openbare weg ter plaatse.
 
-3. Voor kleine aansluitingen, ten behoeve van afname van gas, waarbij sprake is van een geveldoorvoer, stelt de distributiesysteembeheerder, in afwijking van het tweede lid, onderdeel a, de lengte van de aansluitleiding gelijk aan vier meter plus de lengte van het tracé tussen de gevel en het punt waarop wordt aangesloten in het distributiesysteem of, indien van toepassing, vier meter plus de lengte van het tracé tussen de gevel en de bestaande aansluiting waarop wordt aangesloten.
+3. Voor kleine aansluitingen, ten behoeve van afname van gas, waarbij sprake is van een geveldoorvoer, stelt de distributiesysteembeheerder, in afwijking van het tweede lid, onderdeel a, de lengte van de aansluitleiding gelijk aan vier meter plus de lengte van het tracé tussen de gevel en het punt waarop wordt aangesloten in het distributiesysteem of, indien van toepassing, vier meter plus de lengte van het tracé tussen de gevel en de bestaande aansluiting waarop wordt aangesloten.
 
 ##### Artikel 2.15
 
-1. De kosten voor straatwerk op de openbare weg en voor straatwerk op het perceel van onroerende zaken van derden die ten behoeve van de aansluiting wordt doorkruist, worden gedekt door middel van een standaard opslag in de aansluitvergoedingen bedoeld in de [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.13&z=2026-05-28&g=2026-05-28).
+1. De kosten voor straatwerk op de openbare weg en voor straatwerk op het perceel van onroerende zaken van derden die ten behoeve van de aansluiting wordt doorkruist, worden gedekt door middel van een standaard opslag in de aansluitvergoedingen bedoeld in de [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.13&z=2026-05-28&g=2026-05-28).
 
 2. De standaard opslag is gebaseerd op de gemiddelde kosten van:
 
@@ -246,29 +248,29 @@ De hoogte van de in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR005234
 
 ##### Artikel 2.16
 
-1. In het geval dat op een bestaande aansluiting een nieuwe aansluiting wordt gemaakt, zodat een deel van de bestaande aansluiting in een distributiesysteem verandert, restitueert de distributiesysteembeheerder onder de volgende voorwaarden aan de “eerst aangeslotene” een deel van de voor de aanleg van de bestaande aansluiting betaalde eenmalige aansluitvergoeding, genoemd in [artikel 2.8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2026-05-28&g=2026-05-28):
+1. In het geval dat op een bestaande aansluiting een nieuwe aansluiting wordt gemaakt, zodat een deel van de bestaande aansluiting in een distributiesysteem verandert, restitueert de distributiesysteembeheerder onder de volgende voorwaarden aan de “eerst aangeslotene” een deel van de voor de aanleg van de bestaande aansluiting betaalde eenmalige aansluitvergoeding, genoemd in [artikel 2.8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2026-05-28&g=2026-05-28):
 
-- a. Deze restitutieregeling is niet van toepassing op kleine aansluitingen, die zijn aangelegd voor 1 januari 2011.
+- a. Deze restitutieregeling is niet van toepassing op kleine aansluitingen, die zijn aangelegd voor 1 januari 2011.
 
-- b. Deze restitutieregeling is niet van toepassing op grote aansluitingen, die zijn aangelegd voor 1 januari 2020
+- b. Deze restitutieregeling is niet van toepassing op grote aansluitingen, die zijn aangelegd voor 1 januari 2020
 
-- c. Deze restitutieregeling is niet van toepassing op grote aansluitingen, met een aansluitcapaciteit groter dan 1.600 m3(n)/uur
+- c. Deze restitutieregeling is niet van toepassing op grote aansluitingen, met een aansluitcapaciteit groter dan 1.600 m3(n)/uur
 
 - d. Gedurende de eerste zeven jaar wordt de restitutie op initiatief van de distributiesysteembeheerder verstrekt. Na zeven jaar wordt de restitutie verstrekt indien de aangeslotene hiertoe een schriftelijk, met bewijsstukken ondersteund, verzoek bij de distributiesysteembeheerder indient.
 
-2. De hoogte van de restitutie genoemd in het eerste lid wordt berekend als 1/39-deel van de restlevensduur van het tot distributiesysteem te verworden deel van de bestaande aansluitleiding vermenigvuldigd met de restitutiebasis. De restlevensduur is daarbij gelijk aan 39 jaar minus de ouderdom van de bestaande aansluiting, dan wel nul jaar indien de bestaande aansluiting ouder is dan 39 jaar.
+2. De hoogte van de restitutie genoemd in het eerste lid wordt berekend als 1/39-deel van de restlevensduur van het tot distributiesysteem te verworden deel van de bestaande aansluitleiding vermenigvuldigd met de restitutiebasis. De restlevensduur is daarbij gelijk aan 39 jaar minus de ouderdom van de bestaande aansluiting, dan wel nul jaar indien de bestaande aansluiting ouder is dan 39 jaar.
 
 3. De ouderdom bedoeld in het tweede lid wordt bepaald ten opzichte van het moment van eerste registratie van de bestaande aansluiting.
 
-4. De restitutiebasis als bedoeld in het tweede lid is gelijk aan de lengte van het tot distributiesysteem te verworden deel van de bestaande aansluitleiding vermenigvuldigd met het destijds voor de aanleg van de bestaande aansluitleiding in rekening gebrachte tarief genoemd in [artikel 2.13, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.13&z=2026-05-28&g=2026-05-28) (meerlengte aansluitleiding), met een maximum van het deel van de destijds voor de aanleg in rekening gebrachte aansluitvergoeding bedoeld in [artikel 2.8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2026-05-28&g=2026-05-28) dat betrekking heeft op de vergoeding van meerlengte bedoeld in artikel 2.13, eerste lid, onderdeel b.
+4. De restitutiebasis als bedoeld in het tweede lid is gelijk aan de lengte van het tot distributiesysteem te verworden deel van de bestaande aansluitleiding vermenigvuldigd met het destijds voor de aanleg van de bestaande aansluitleiding in rekening gebrachte tarief genoemd in [artikel 2.13, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.13&z=2026-05-28&g=2026-05-28) (meerlengte aansluitleiding), met een maximum van het deel van de destijds voor de aanleg in rekening gebrachte aansluitvergoeding bedoeld in [artikel 2.8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2026-05-28&g=2026-05-28) dat betrekking heeft op de vergoeding van meerlengte bedoeld in artikel 2.13, eerste lid, onderdeel b.
 
 ##### Artikel 2.17
 
-1. Na aanleg van een nieuwe aansluiting als bedoeld in [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.16&z=2026-05-28&g=2026-05-28), is artikel 2.16 van overeenkomstige toepassing op deze nieuwe aansluiting.
+1. Na aanleg van een nieuwe aansluiting als bedoeld in [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.16&z=2026-05-28&g=2026-05-28), is artikel 2.16 van overeenkomstige toepassing op deze nieuwe aansluiting.
 
-2. De termijnen bedoeld in [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.16&z=2026-05-28&g=2026-05-28), in onderdelen a en b zijn bedoeld ten opzichte van het moment van eerste registratie van de aansluiting.
+2. De termijnen bedoeld in [artikel 2.16](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.16&z=2026-05-28&g=2026-05-28), in onderdelen a en b zijn bedoeld ten opzichte van het moment van eerste registratie van de aansluiting.
 
-3. Voor aansluitingen die op grond van [artikel 2.16, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.16&z=2026-05-28&g=2026-05-28) niet zijn uitgesloten van toepassing van de restitutieregeling, heeft de distributiesysteembeheerder de plicht om de “eerstaangeslotene” op de hoogte te stellen van het maken van een nieuwe aansluiting op de bestaande aansluiting, onder expliciete verwijzing naar de restitutieregeling.
+3. Voor aansluitingen die op grond van [artikel 2.16, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.2&artikel=2.16&z=2026-05-28&g=2026-05-28) niet zijn uitgesloten van toepassing van de restitutieregeling, heeft de distributiesysteembeheerder de plicht om de “eerstaangeslotene” op de hoogte te stellen van het maken van een nieuwe aansluiting op de bestaande aansluiting, onder expliciete verwijzing naar de restitutieregeling.
 
 4. De eerstaangeslotene bedoeld in het derde lid, is de aangeslotene op wiens naam de bestaande aansluiting staat in het aansluitingenregister.
 
@@ -302,37 +304,37 @@ De hoogte van de in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR005234
 
 ##### Artikel 2.20
 
-1. De transporttarieven dienen ter dekking van de kosten van het door de distributiesysteembeheerder beheerde distributiesysteem voor zover deze kosten ten grondslag liggen aan de wettelijke taken van de distributiesysteembeheerder ten aanzien van het distributiesysteem als bedoeld in [artikel 3.25 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.25), met uitzondering van de taken bedoeld in [artikel 3.40 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.40) en met uitzondering van de taken bedoeld in [lid 1, lid 2a en lid 3 van artikel 3.41 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.41).
+1. De transporttarieven dienen ter dekking van de kosten van het door de distributiesysteembeheerder beheerde distributiesysteem voor zover deze kosten ten grondslag liggen aan de wettelijke taken van de distributiesysteembeheerder ten aanzien van het distributiesysteem als bedoeld in [artikel 3.25 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.25), met uitzondering van de taken bedoeld in [artikel 3.40 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.40) en met uitzondering van de taken bedoeld in [lid 1, lid 2a en lid 3 van artikel 3.41 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.41).
 
 2. De kosten, die worden bepaald conform de vigerende Regulatorische Accountingregels voor Regionale Netbeheerders Elektriciteit en Gas worden ingedeeld in twee categorieën:
 
 - a. de transportonafhankelijke kosten, zijnde alle kosten die geen directe relatie hebben met de benodigde transportcapaciteit of het transportvolume. Dit zijn:
 
-  - 1°. administratiekosten;
+   - 1°. administratiekosten;
 
-  - 2°. kosten voor dataverwerking, alsmede de kosten voor allocatie, reconciliatie en validatie;
+   - 2°. kosten voor dataverwerking, alsmede de kosten voor allocatie, reconciliatie en validatie;
 
-  - 3°. kosten voor marktfacilitering (kosten voor het beheer van het aansluitingenregister en het afhandelen van switch- en verhuisberichten);
+   - 3°. kosten voor marktfacilitering (kosten voor het beheer van het aansluitingenregister en het afhandelen van switch- en verhuisberichten);
 
-  - 4°. factureringskosten;
+   - 4°. factureringskosten;
 
-  - 5°. kosten voor kwaliteitsbewaking van het gas;
+   - 5°. kosten voor kwaliteitsbewaking van het gas;
 
-  - 6°. kosten voor gebouwen en magazijnen niet behorende bij de distributiesysteem;
+   - 6°. kosten voor gebouwen en magazijnen niet behorende bij de distributiesysteem;
 
-  - 7°. Kosten voor het opstellen van transportcontracten.
+   - 7°. Kosten voor het opstellen van transportcontracten.
 
 - b. de transportafhankelijke kosten, zijnde alle kosten die een directe relatie hebben met de benodigde transportcapaciteit of het transportvolume. Dit zijn:
 
-  - 1°. kosten inkoop bij andere systeembeheerders;
+   - 1°. kosten inkoop bij andere systeembeheerders;
 
-  - 2°. kosten voor het distributiesysteem;
+   - 2°. kosten voor het distributiesysteem;
 
-  - 3°. kosten voor instandhouding van het distributiesysteem;
+   - 3°. kosten voor instandhouding van het distributiesysteem;
 
-  - 4°. kosten voor handhaving drukniveau;
+   - 4°. kosten voor handhaving drukniveau;
 
-  - 5°. kosten voor gebouwen en magazijnen behorende bij het distributiesysteem.
+   - 5°. kosten voor gebouwen en magazijnen behorende bij het distributiesysteem.
 
 #### § 2.4. De tariefstructuur van de transporttarieven voor kleinverbruikers
 
@@ -350,17 +352,17 @@ De transporttarieven voor kleinverbruikers bestaan uit de volgende componenten:
 
 2. Ten behoeve van de indeling bedoeld in het eerste lid stelt de distributiesysteembeheerder de aansluitcapaciteit gelijk aan de maximumcapaciteit van de geïnstalleerde gasmeter.
 
-3. De maximumcapaciteit, bedoeld in het tweede lid, is per type gasmeter bij een meetdruk lager dan of gelijk aan 200 mbar als volgt:
+3. De maximumcapaciteit, bedoeld in het tweede lid, is per type gasmeter bij een meetdruk lager dan of gelijk aan 200 mbar als volgt:
 
-- a. G6: 10 m3(n)/uur
+- a. G6: 10 m3(n)/uur
 
-- b. G10: 16 m3(n)/uur
+- b. G10: 16 m3(n)/uur
 
-- c. G16: 25 m3(n)/uur
+- c. G16: 25 m3(n)/uur
 
-- d. G25: 40 m3(n)/uur
+- d. G25: 40 m3(n)/uur
 
-4. De maximumcapaciteit, bedoeld in het tweede lid, is per type gasmeter bij een meetdruk hoger dan 200 mbar gelijk aan de in het derde lid genoemde maximumcapaciteit, gecorrigeerd voor de meetdruk, volgens de formule:
+4. De maximumcapaciteit, bedoeld in het tweede lid, is per type gasmeter bij een meetdruk hoger dan 200 mbar gelijk aan de in het derde lid genoemde maximumcapaciteit, gecorrigeerd voor de meetdruk, volgens de formule:
 
 Cn = C*(P/Pn)
 
@@ -374,33 +376,33 @@ Waarin:
 
 5. Voor kleinverbruik worden de volgende zes transporttariefcategorieën onderscheiden:
 
-- a. aansluitcapaciteit kleiner dan of gelijk aan 10 m3(n)/uur en standaardjaarverbruik kleiner dan of gelijk aan 500 m3(n; 35,17);
+- a. aansluitcapaciteit kleiner dan of gelijk aan 10 m3(n)/uur en standaardjaarverbruik kleiner dan of gelijk aan 500 m3(n; 35,17);
 
-- b. aansluitcapaciteit kleiner dan of gelijk aan 10 m3(n)/uur en standaardjaarverbruik groter dan 500 m3(n; 35,17) en kleiner dan of gelijk aan 4.000 m3(n; 35,17);
+- b. aansluitcapaciteit kleiner dan of gelijk aan 10 m3(n)/uur en standaardjaarverbruik groter dan 500 m3(n; 35,17) en kleiner dan of gelijk aan 4.000 m3(n; 35,17);
 
-- c. aansluitcapaciteit kleiner dan of gelijk aan 10 m3(n)/uur en standaardjaarverbruik groter dan 4.000 m3(n; 35,17);
+- c. aansluitcapaciteit kleiner dan of gelijk aan 10 m3(n)/uur en standaardjaarverbruik groter dan 4.000 m3(n; 35,17);
 
-- d. aansluitcapaciteit groter dan 10 m3(n)/uur en kleiner dan of gelijk aan 16 m3(n)/uur;
+- d. aansluitcapaciteit groter dan 10 m3(n)/uur en kleiner dan of gelijk aan 16 m3(n)/uur;
 
-- e. aansluitcapaciteit groter dan 16 m3(n)/uur en kleiner dan of gelijk aan 25 m3(n)/uur;
+- e. aansluitcapaciteit groter dan 16 m3(n)/uur en kleiner dan of gelijk aan 25 m3(n)/uur;
 
-- f. aansluitcapaciteit groter dan 25 m3(n)/uur en kleiner dan of gelijk aan 40 m3(n)/uur.
+- f. aansluitcapaciteit groter dan 25 m3(n)/uur en kleiner dan of gelijk aan 40 m3(n)/uur.
 
-6. Bij de transporttariefcategorieën bedoeld in het vijfde lid, onderdelen a t/m f horen respectievelijk de volgende rekencapaciteiten:
+6. Bij de transporttariefcategorieën bedoeld in het vijfde lid, onderdelen a t/m f horen respectievelijk de volgende rekencapaciteiten:
 
-- a. 1,5 m3(n; 35,17)/uur;
+- a. 1,5 m3(n; 35,17)/uur;
 
-- b. 3 m3(n; 35,17)/uur;
+- b. 3 m3(n; 35,17)/uur;
 
-- c. 6 m3(n; 35,17)/uur;
+- c. 6 m3(n; 35,17)/uur;
 
-- d. 10 m3(n; 35,17)/uur;
+- d. 10 m3(n; 35,17)/uur;
 
-- e. 16 m3(n; 35,17)/uur;
+- e. 16 m3(n; 35,17)/uur;
 
-- f. 25 m3(n; 35,17)/uur.
+- f. 25 m3(n; 35,17)/uur.
 
-7. Voor de in [artikel 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.4&artikel=2.21&z=2026-05-28&g=2026-05-28) genoemde tariefcomponenten wordt uitgegaan van een waarde voor de transportcapaciteit die voor onbepaalde tijd geldt.
+7. Voor de in [artikel 2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.4&artikel=2.21&z=2026-05-28&g=2026-05-28) genoemde tariefcomponenten wordt uitgegaan van een waarde voor de transportcapaciteit die voor onbepaalde tijd geldt.
 
 ##### Artikel 2.23
 
@@ -410,9 +412,9 @@ De procedure voor indeling van een kleine aansluiting in een andere afnemersgroe
 
 - b. de distributiesysteembeheerder beoordeelt het verzoek, binnen vijf werkdagen na de dag van ontvangst van het verzoek, aan de hand van de volgende criteria:
 
-  - 1°. kan de gevraagde transportcapaciteit geleverd worden op de aansluiting;
+   - 1°. kan de gevraagde transportcapaciteit geleverd worden op de aansluiting;
 
-  - 2°. indien het een verzoek tot neerwaartse bijstelling behelst dan mag er gedurende de afgelopen 12 maanden geen bijstelling opwaarts hebben plaatsgevonden;
+   - 2°. indien het een verzoek tot neerwaartse bijstelling behelst dan mag er gedurende de afgelopen 12 maanden geen bijstelling opwaarts hebben plaatsgevonden;
 
 - c. de distributiesysteembeheerder doet de kleinverbruiker uiterlijk op de tiende werkdag na de dag van ontvangst van het verzoek schriftelijk verslag van zijn bevindingen. Bij honorering van het verzoek wordt de afnemer zonodig geadviseerd om contact op te nemen met zijn meetverantwoordelijke;
 
@@ -422,7 +424,7 @@ De procedure voor indeling van een kleine aansluiting in een andere afnemersgroe
 
 - f. vanaf de eerste dag van de maand volgend op de maand dat de distributiesysteembeheerder van de meetverantwoordelijke vernomen heeft dat de metercapaciteit naar boven is bijgesteld, geldt voor de tariefstelling de hogere transporttariefcategorie, mits deze gereedmelding voor de 15e van de maand bij de distributiesysteembeheerder ontvangen is. Bij gereedmelding na de 15e van de maand gaat de aangepaste tariefstelling een maand later in werking;
 
-- g. indien de metercapaciteit gedurende de afgelopen 12 maanden niet naar boven is bijgesteld, geldt voor de tariefstelling vanaf de eerste dag van de maand volgend op de maand dat de distributiesysteembeheerder van de meetverantwoordelijke vernomen heeft dat de metercapaciteit naar beneden is bijgesteld de lagere transporttariefcategorie, mits deze gereedmelding voor de 15e van de maand bij de distributiesysteembeheerder ontvangen is. Bij gereedmelding na de 15e van de maand gaat de aangepaste tariefstelling een maand later in werking.
+- g. indien de metercapaciteit gedurende de afgelopen 12 maanden niet naar boven is bijgesteld, geldt voor de tariefstelling vanaf de eerste dag van de maand volgend op de maand dat de distributiesysteembeheerder van de meetverantwoordelijke vernomen heeft dat de metercapaciteit naar beneden is bijgesteld de lagere transporttariefcategorie, mits deze gereedmelding voor de 15e van de maand bij de distributiesysteembeheerder ontvangen is. Bij gereedmelding na de 15e van de maand gaat de aangepaste tariefstelling een maand later in werking.
 
 ##### Artikel 2.24
 
@@ -434,7 +436,7 @@ De procedure voor indeling van een kleine aansluiting in een andere afnemersgroe
 
 1. Het transportafhankelijke tarief voor kleinverbruikers dekt de totale op basis van capaciteit aan deze aansluitingen toegerekende transportafhankelijke kosten. Het transportafhankelijke tarief wordt op basis van dagevenredigheid in rekening gebracht.
 
-2. Het transportafhankelijke tarief wordt berekend door de totale op basis van capaciteit aan kleinverbruikaansluitingen toegerekende transportafhankelijke kosten te delen door de som van het aantal aansluitingen per transporttariefcategorie vermenigvuldigd met de respectievelijke rekencapaciteiten overeenkomstig [artikel 2.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.4&artikel=2.22&z=2026-05-28&g=2026-05-28).
+2. Het transportafhankelijke tarief wordt berekend door de totale op basis van capaciteit aan kleinverbruikaansluitingen toegerekende transportafhankelijke kosten te delen door de som van het aantal aansluitingen per transporttariefcategorie vermenigvuldigd met de respectievelijke rekencapaciteiten overeenkomstig [artikel 2.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.4&artikel=2.22&z=2026-05-28&g=2026-05-28).
 
 3. Het transportafhankelijke tarief is een bedrag per kubieke meter Groningen gas per uur [m3(n; 35,17)/uur] voor de periode van een jaar.
 
@@ -460,19 +462,19 @@ De transporttarieven voor profielverbruikers bestaan uit de volgende componenten
 
 2. Ten behoeve van de indeling bedoeld in het eerste lid stelt de distributiesysteembeheerder de aansluitcapaciteit gelijk aan de maximumcapaciteit van de geïnstalleerde gasmeter.
 
-3. De maximumcapaciteit, bedoeld in het tweede lid, is per type gasmeter bij een meetdruk lager dan of gelijk aan 200 mbar als volgt:
+3. De maximumcapaciteit, bedoeld in het tweede lid, is per type gasmeter bij een meetdruk lager dan of gelijk aan 200 mbar als volgt:
 
-- a. G40: 65 m3(n)/uur;
+- a. G40: 65 m3(n)/uur;
 
-- b. G65: 100 m3(n)/uur;
+- b. G65: 100 m3(n)/uur;
 
-- c. G100: 160 m3(n)/uur;
+- c. G100: 160 m3(n)/uur;
 
-- d. G160: 250 m3(n)/uur;
+- d. G160: 250 m3(n)/uur;
 
-- e. G250 en hoger: 400 m3(n)/uur en hoger.
+- e. G250 en hoger: 400 m3(n)/uur en hoger.
 
-4. De maximumcapaciteit, bedoeld in het tweede lid, is per type gasmeter bij een meetdruk hoger dan 200 mbar gelijk aan de in het derde lid genoemde maximumcapaciteit, gecorrigeerd voor de meetdruk, volgens de formule:
+4. De maximumcapaciteit, bedoeld in het tweede lid, is per type gasmeter bij een meetdruk hoger dan 200 mbar gelijk aan de in het derde lid genoemde maximumcapaciteit, gecorrigeerd voor de meetdruk, volgens de formule:
 
 Cn = C*(P/Pn)
 
@@ -486,29 +488,29 @@ Waarin:
 
 5. Voor profielverbruikaansluitingen worden de volgende vijf transporttariefcategorieën onderscheiden:
 
-- a. aansluitcapaciteit groter dan 40 m3(n)/uur en kleiner dan of gelijk aan 65 m3(n)/uur;
+- a. aansluitcapaciteit groter dan 40 m3(n)/uur en kleiner dan of gelijk aan 65 m3(n)/uur;
 
-- b. aansluitcapaciteit groter dan 65 m3(n)/uur en kleiner dan of gelijk aan 100 m3(n)/uur;
+- b. aansluitcapaciteit groter dan 65 m3(n)/uur en kleiner dan of gelijk aan 100 m3(n)/uur;
 
-- c. aansluitcapaciteit groter dan 100 m3(n)/uur en kleiner dan of gelijk aan 160 m3(n)/uur;
+- c. aansluitcapaciteit groter dan 100 m3(n)/uur en kleiner dan of gelijk aan 160 m3(n)/uur;
 
-- d. aansluitcapaciteit groter dan 160 m3(n)/uur en kleiner dan of gelijk aan 250 m3(n)/uur;
+- d. aansluitcapaciteit groter dan 160 m3(n)/uur en kleiner dan of gelijk aan 250 m3(n)/uur;
 
-- e. aansluitcapaciteit groter dan 250 m3(n)/uur.
+- e. aansluitcapaciteit groter dan 250 m3(n)/uur.
 
-6. Bij de transporttariefcategorieën bedoeld in het vijfde lid, onderdelen a t/m f horen respectievelijk de volgende rekencapaciteiten:
+6. Bij de transporttariefcategorieën bedoeld in het vijfde lid, onderdelen a t/m f horen respectievelijk de volgende rekencapaciteiten:
 
-- a. 40 m3(n; 35,17)/uur;
+- a. 40 m3(n; 35,17)/uur;
 
-- b. 65 m3(n; 35,17)/uur;
+- b. 65 m3(n; 35,17)/uur;
 
-- c. 100 m3(n; 35,17)/uur;
+- c. 100 m3(n; 35,17)/uur;
 
-- d. 160 m3(n; 35,17)/uur;
+- d. 160 m3(n; 35,17)/uur;
 
-- e. 250 m3(n; 35,17)/uur.
+- e. 250 m3(n; 35,17)/uur.
 
-7. Voor de componenten bedoeld in [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2026-05-28&g=2026-05-28) wordt uitgegaan van een waarde voor de transportcapaciteit die voor onbepaalde tijd geldt.
+7. Voor de componenten bedoeld in [artikel 2.27](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.5&artikel=2.27&z=2026-05-28&g=2026-05-28) wordt uitgegaan van een waarde voor de transportcapaciteit die voor onbepaalde tijd geldt.
 
 ##### Artikel 2.29
 
@@ -518,9 +520,9 @@ De procedure voor indeling van een profielverbruikaansluiting in een andere tran
 
 - b. de distributiesysteembeheerder beoordeelt het verzoek, binnen vijf werkdagen na de dag van ontvangst van het verzoek, aan de hand van de volgende criteria:
 
-  - 1°. kan de gevraagde transportcapaciteit geleverd worden op de aansluiting;
+   - 1°. kan de gevraagde transportcapaciteit geleverd worden op de aansluiting;
 
-  - 2°. indien het een verzoek tot neerwaartse bijstelling behelst dan mag er gedurende de afgelopen 12 maanden geen bijstelling opwaarts hebben plaatsgevonden;
+   - 2°. indien het een verzoek tot neerwaartse bijstelling behelst dan mag er gedurende de afgelopen 12 maanden geen bijstelling opwaarts hebben plaatsgevonden;
 
 - c. de distributiesysteembeheerder doet de profielverbruiker uiterlijk op de tiende werkdag na de dag van ontvangst van het verzoek schriftelijk verslag van zijn bevindingen. Bij honorering van het verzoek wordt de profielverbruiker zonodig geadviseerd om contact op te nemen met zijn meetverantwoordelijke;
 
@@ -530,7 +532,7 @@ De procedure voor indeling van een profielverbruikaansluiting in een andere tran
 
 - f. vanaf de eerste dag van de maand volgend op de maand dat de distributiesysteembeheerder van de meetverantwoordelijke vernomen heeft dat de metercapaciteit naar boven is bijgesteld, geldt voor de tariefstelling de hogere transporttariefcategorie, mits deze gereedmelding voor de 15e van de maand bij de distributiesysteembeheerder ontvangen is. Bij gereedmelding na de 15e van de maand gaat de aangepaste tariefstelling een maand later in werking;
 
-- g. indien de metercapaciteit gedurende de afgelopen 12 maanden niet naar boven is bijgesteld, geldt voor de tariefstelling vanaf de eerste dag van de maand volgend op de maand dat de distributiesysteembeheerder van de meetverantwoordelijke heeft vernomen dat de metercapaciteit naar beneden is bijgesteld de lagere transporttariefcategorie, mits deze gereedmaking voor de 15e van de maand bij de distributiesysteembeheerder ontvangen is. Bij gereedmelding na de 15e van de maand gaat de aangepaste tariefstelling een maand later in werking.
+- g. indien de metercapaciteit gedurende de afgelopen 12 maanden niet naar boven is bijgesteld, geldt voor de tariefstelling vanaf de eerste dag van de maand volgend op de maand dat de distributiesysteembeheerder van de meetverantwoordelijke heeft vernomen dat de metercapaciteit naar beneden is bijgesteld de lagere transporttariefcategorie, mits deze gereedmaking voor de 15e van de maand bij de distributiesysteembeheerder ontvangen is. Bij gereedmelding na de 15e van de maand gaat de aangepaste tariefstelling een maand later in werking.
 
 ##### Artikel 2.30
 
@@ -542,7 +544,7 @@ De procedure voor indeling van een profielverbruikaansluiting in een andere tran
 
 1. Het transportafhankelijke tarief voor profielverbruikers dekt de totale op basis van capaciteit aan profielverbruikaansluitingen toegerekende transportafhankelijke kosten.
 
-2. Het transportafhankelijke verbruikerstarief wordt berekend door de totale op basis van capaciteit aan profielverbruikaansluitingen toegerekende transportafhankelijke kosten te delen door de som van het aantal profielverbruikaansluitingen per transporttariefcategorie vermenigvuldigd met de respectievelijke rekencapaciteiten overeenkomstig [artikel 2.28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.5&artikel=2.28&z=2026-05-28&g=2026-05-28).
+2. Het transportafhankelijke verbruikerstarief wordt berekend door de totale op basis van capaciteit aan profielverbruikaansluitingen toegerekende transportafhankelijke kosten te delen door de som van het aantal profielverbruikaansluitingen per transporttariefcategorie vermenigvuldigd met de respectievelijke rekencapaciteiten overeenkomstig [artikel 2.28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.5&artikel=2.28&z=2026-05-28&g=2026-05-28).
 
 3. Het transportafhankelijke tarief is een bedrag per kubieke meter Groningen gas m3(n;35,17)/uur voor de periode van een jaar.
 
@@ -560,7 +562,7 @@ De transporttarieven voor telemetrieverbruikers bestaan uit de volgende componen
 
 ##### Artikel 2.33
 
-1. Voor de in [artikel 2.32](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.6&artikel=2.32&z=2026-05-28&g=2026-05-28) genoemde componenten wordt uitgegaan van een waarde voor de gecontracteerde transportcapaciteit die voor onbepaalde tijd geldt.
+1. Voor de in [artikel 2.32](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.6&artikel=2.32&z=2026-05-28&g=2026-05-28) genoemde componenten wordt uitgegaan van een waarde voor de gecontracteerde transportcapaciteit die voor onbepaalde tijd geldt.
 
 2. Onder gecontracteerde transportcapaciteit wordt verstaan de capaciteit (herleid naar m3(n; 35,17)/uur) die een telemetrieverbruiker verwacht op enig moment in een kalenderjaar maximaal gedurende één uur nodig te hebben voor de betreffende aansluiting.
 
@@ -594,7 +596,7 @@ De transporttarieven voor telemetrieverbruikers bestaan uit de volgende componen
 
 1. Indien een telemetrieverbruiker met de distributiesysteembeheerder een afschakelbaar transportcontract heeft afgesloten en afschakeling daadwerkelijk heeft plaatsgevonden dan kent de distributiesysteembeheerder hem gedurende twaalf maanden vanaf de maand dat de afschakeling heeft plaatsgevonden een korting toe.
 
-2. De distributiesysteembeheerder berekent de korting, als bedoeld in [artikel 2.36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.6&artikel=2.36&z=2026-05-28&g=2026-05-28) per m3(n; 35,17)/uur door het quotiënt te nemen van de duur van de afschakelingen, uitgedrukt in dagen, en 365 en dat te vermenigvuldigen met het transportafhankelijke tarief. De korting is onafhankelijk van de duur van de afschakeling op een dag.
+2. De distributiesysteembeheerder berekent de korting, als bedoeld in [artikel 2.36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.6&artikel=2.36&z=2026-05-28&g=2026-05-28) per m3(n; 35,17)/uur door het quotiënt te nemen van de duur van de afschakelingen, uitgedrukt in dagen, en 365 en dat te vermenigvuldigen met het transportafhankelijke tarief. De korting is onafhankelijk van de duur van de afschakeling op een dag.
 
 3. Indien een afnemer met een afschakelbaar transportcontract een verzoek tot afschakeling niet opvolgt, brengt de distributiesysteembeheerder een additioneel tarief in rekening bij deze afnemer.
 
@@ -620,17 +622,17 @@ De transporttarieven voor telemetrieverbruikers bestaan uit de volgende componen
 
 ##### Artikel 2.38
 
-In situaties als bedoeld in [artikel 7.49 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=7.49), hanteert de distributiesysteembeheerder een periodieke aansluitvergoeding die gebaseerd is op de kosten van het beheer en onderhoud van alleen het aansluitpunt.
+In situaties als bedoeld in [artikel 7.49 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=7.49), hanteert de distributiesysteembeheerder een periodieke aansluitvergoeding die gebaseerd is op de kosten van het beheer en onderhoud van alleen het aansluitpunt.
 
 #### § 2.7. Onvoorzien
 
 ##### Artikel 2.40
 
-Indien distributiesysteembeheerders door faillissement van een leverancier als gevolg van toepassing van het leveranciersmodel, zoals beschreven in [paragraaf 2.2.5 Leveranciersmodel, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&paragraaf=2.2.5) tariefinkomsten derven, mogen zij deze gederfde inkomsten gezamenlijk met alle kleinverbruikers verrekenen, waarbij elke kleinverbruiker een gelijk bedrag in rekening wordt gebracht.
+Indien distributiesysteembeheerders door faillissement van een leverancier als gevolg van toepassing van het leveranciersmodel, zoals beschreven in [paragraaf 2.2.5 Leveranciersmodel, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&paragraaf=2.2.5) tariefinkomsten derven, mogen zij deze gederfde inkomsten gezamenlijk met alle kleinverbruikers verrekenen, waarbij elke kleinverbruiker een gelijk bedrag in rekening wordt gebracht.
 
 ##### Artikel 2.41
 
-De in [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.7&artikel=2.40&z=2026-05-28&g=2026-05-28) bedoelde verrekening heeft ten hoogste betrekking op de gederfde tariefinkomsten gedurende
+De in [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.7&artikel=2.40&z=2026-05-28&g=2026-05-28) bedoelde verrekening heeft ten hoogste betrekking op de gederfde tariefinkomsten gedurende
 
 - a. drie maanden voorafgaand aan de datum waarop de leverancier in staat van faillissement is verklaard; dit is de datum waarop melding wordt gemaakt van het betreffende faillissement in de Nederlandse Staatscourant; of, indien dit eerder is, drie maanden voorafgaand aan de datum waarop de beschikking tot intrekking van de vergunning is genomen; en
 
@@ -638,19 +640,19 @@ De in [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2
 
 ##### Artikel 2.42
 
-Het moment van de in [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.7&artikel=2.40&z=2026-05-28&g=2026-05-28) bedoelde verrekening is twee jaar na het jaar waarin de vergunninghouder in staat van faillissement is verklaard. De distributiesysteembeheerder dient dit verzoek tot correctie voor gederfde transporttariefinkomsten te doen met het tariefvoorstel voor het betreffende jaar. Daarbij moet de distributiesysteembeheerder aan de Autoriteit Consument en Markt een overzicht overleggen, voorzien van een goedkeurende accountantsverklaring, van de gederfde tariefinkomsten.
+Het moment van de in [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.7&artikel=2.40&z=2026-05-28&g=2026-05-28) bedoelde verrekening is twee jaar na het jaar waarin de vergunninghouder in staat van faillissement is verklaard. De distributiesysteembeheerder dient dit verzoek tot correctie voor gederfde transporttariefinkomsten te doen met het tariefvoorstel voor het betreffende jaar. Daarbij moet de distributiesysteembeheerder aan de Autoriteit Consument en Markt een overzicht overleggen, voorzien van een goedkeurende accountantsverklaring, van de gederfde tariefinkomsten.
 
 ##### Artikel 2.43
 
-De te verrekenen gederfde tariefinkomsten bedragen ten hoogste de overeenkomstig [paragraaf 8.2 van de Informatiecode elektriciteit en gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&paragraaf=8.2) vastgestelde verplichting over de overeenkomstig [artikel 2.41](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.7&artikel=2.41&z=2026-05-28&g=2026-05-28) vastgestelde periode minus de over die periode door distributiesysteembeheerders van de [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.7&artikel=2.40&z=2026-05-28&g=2026-05-28) bedoelde leverancier ontvangen afdrachten.
+De te verrekenen gederfde tariefinkomsten bedragen ten hoogste de overeenkomstig [paragraaf 8.2 van de Informatiecode elektriciteit en gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037934&paragraaf=8.2) vastgestelde verplichting over de overeenkomstig [artikel 2.41](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.7&artikel=2.41&z=2026-05-28&g=2026-05-28) vastgestelde periode minus de over die periode door distributiesysteembeheerders van de [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.7&artikel=2.40&z=2026-05-28&g=2026-05-28) bedoelde leverancier ontvangen afdrachten.
 
 ##### Artikel 2.44
 
-Indien een distributiesysteembeheerder, als bedoeld in [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.7&artikel=2.40&z=2026-05-28&g=2026-05-28) gederfde inkomsten verrekent, dient deze distributiesysteembeheerder in het jaar van het einde van het faillissement van de betreffende vergunninghouder een verklaring van de curator bij de Autoriteit Consument en Markt te overleggen van de uitkomsten van het faillissement. Het einde van een faillissement is de dag waarop het einde van een faillissement wordt gepubliceerd in de Staatscourant.
+Indien een distributiesysteembeheerder, als bedoeld in [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.7&artikel=2.40&z=2026-05-28&g=2026-05-28) gederfde inkomsten verrekent, dient deze distributiesysteembeheerder in het jaar van het einde van het faillissement van de betreffende vergunninghouder een verklaring van de curator bij de Autoriteit Consument en Markt te overleggen van de uitkomsten van het faillissement. Het einde van een faillissement is de dag waarop het einde van een faillissement wordt gepubliceerd in de Staatscourant.
 
 ##### Artikel 2.45
 
-Inkomsten die de distributiesysteembeheerder alsnog hebben kunnen verhalen op de failliete boedel worden op gelijke wijze als bij de verrekening onder [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.7&artikel=2.40&z=2026-05-28&g=2026-05-28) gezamenlijk in mindering gebracht op de tarieven twee jaar na het jaar van het einde van het faillissement.
+Inkomsten die de distributiesysteembeheerder alsnog hebben kunnen verhalen op de failliete boedel worden op gelijke wijze als bij de verrekening onder [artikel 2.40](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=2&paragraaf=2.7&artikel=2.40&z=2026-05-28&g=2026-05-28) gezamenlijk in mindering gebracht op de tarieven twee jaar na het jaar van het einde van het faillissement.
 
 ### Hoofdstuk 3. Transmissiesysteembeheerder
 
@@ -658,13 +660,13 @@ Inkomsten die de distributiesysteembeheerder alsnog hebben kunnen verhalen op de
 
 ##### Artikel 3.1
 
-1. De toegestane inkomsten van de transmissiesysteembeheerder als bedoeld in artikel 3, onder 11, van NC-TAR bestaan uit enerzijds de inkomsten zoals jaarlijks vastgesteld ten behoeve van [artikel 3.110 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.110) en anderzijds uit de inkomsten verkregen met de uitvoering van de taak als bedoeld in [artikel 3.64 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.64)
+1. De toegestane inkomsten van de transmissiesysteembeheerder als bedoeld in artikel 3, onder 11, van NC-TAR bestaan uit enerzijds de inkomsten zoals jaarlijks vastgesteld ten behoeve van [artikel 3.110 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.110) en anderzijds uit de inkomsten verkregen met de uitvoering van de taak als bedoeld in [artikel 3.64 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.64)
 
 2. De capaciteitsgebaseerde entry- en exittarieven worden vastgesteld op een hoogte, zodanig dat het somproduct van de capaciteitsgebaseerde entry- en exittarieven en de voorspelde gecontracteerde capaciteit per entry- en exitpunt overeenkomt met de toegestane inkomsten van de transmissiesysteembeheerder, als bedoeld in het eerste lid.
 
 3. De transmissiesysteembeheerder genereert geen inkomsten middels op commodity gebaseerde tarieven.
 
-4. De kosten voor de uitvoering van de taak bedoeld in [artikel 3.64 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.64) worden geïnd via de tarieven zoals beschreven in [paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=3&paragraaf=3.4&z=2026-05-28&g=2026-05-28).
+4. De kosten voor de uitvoering van de taak bedoeld in [artikel 3.64 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.64) worden geïnd via de tarieven zoals beschreven in [paragraaf 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=3&paragraaf=3.4&z=2026-05-28&g=2026-05-28).
 
 #### § 3.2. Tariefstructuur voor transport
 
@@ -672,24 +674,24 @@ Inkomsten die de distributiesysteembeheerder alsnog hebben kunnen verhalen op de
 
 1. De entry- en exittarieven worden uitgedrukt in euro per gecontracteerde entry- of exitcapaciteit per looptijd van het contract, waarbij de gecontracteerde capaciteit is uitgedrukt in kWh/uur.
 
-2. De entry- en exittarieven worden afgeleid van de referentieprijs als bedoeld in artikel 3, sub 1, van NC-TAR, die van toepassing is op het betreffende entry- of exitpunt.
+2. De entry- en exittarieven worden afgeleid van de referentieprijs als bedoeld in artikel 3, sub 1, van NC-TAR, die van toepassing is op het betreffende entry- of exitpunt.
 
 ##### Artikel 3.3
 
-1. De niet-aangepaste referentieprijs is de referentieprijs voor aanpassingen als bedoeld in artikel 6, vierde lid, van NC-TAR.
+1. De niet-aangepaste referentieprijs is de referentieprijs voor aanpassingen als bedoeld in artikel 6, vierde lid, van NC-TAR.
 
 2. De niet-aangepaste referentieprijs wordt als volgt berekend:
 
 Waarbij:
 
-|   | de niet-aangepaste referentieprijs van toepassing op een entrypunt uitgedrukt in euro/kWh/uur/jaar is; |
+|  | de niet-aangepaste referentieprijs van toepassing op een entrypunt uitgedrukt in euro/kWh/uur/jaar is; |
 | --- | --- |
-|   | de niet-aangepaste referentieprijs van toepassing op een exitpunt uitgedrukt in euro/kWh/uur/jaar is; |
-| **V** | het procentuele aandeel van de inkomsten uit transmissiediensten, van de transmissiesysteembeheerder dat moet worden geïnd via de entrytarieven is, zoals vastgesteld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2026-05-28&g=2026-05-28); |
-| **TI** | de inkomsten uit transmissiediensten van de transmissiesysteembeheerder uitgedrukt in euro is; |
-| **CAPi** | de voorspelde gecontracteerde capaciteit op entry- of exitpunt **i** uitgedrukt in kWh/uur/jaar is; |
-| **EN** | de verzameling entrypunten is; en |
-| **EX** | de verzameling exitpunten is. |
+|  | de niet-aangepaste referentieprijs van toepassing op een exitpunt uitgedrukt in euro/kWh/uur/jaar is; |
+| V | het procentuele aandeel van de inkomsten uit transmissiediensten, van de transmissiesysteembeheerder dat moet worden geïnd via de entrytarieven is, zoals vastgesteld in artikel 3.4; |
+| TI | de inkomsten uit transmissiediensten van de transmissiesysteembeheerder uitgedrukt in euro is; |
+| CAPi | de voorspelde gecontracteerde capaciteit op entry- of exitpunt i uitgedrukt in kWh/uur/jaar is; |
+| EN | de verzameling entrypunten is; en |
+| EX | de verzameling exitpunten is. |
 
 ##### Artikel 3.4
 
@@ -697,27 +699,27 @@ De verdeling van de inkomsten uit transmissiediensten over entry- en exitcapacit
 
 ##### Artikel 3.5
 
-1. De niet-aangepaste referentieprijzen worden op grondslag van artikel 6, vierde lid, van NC-TAR aangepast door een korting toe te passen op de niet-aangepaste referentieprijzen die van toepassing zijn op een entrypunt van een LNG-systeem en een korting toe te passen op de niet-aangepaste referentieprijzen die van toepassing zijn op een entrypunt van of een exitpunt naar een opslaginstallatie en door de niet-aangepaste referentieprijzen die van toepassing zijn op alle entry- en exitpunten te herschalen. Voor deze aanpassingen gelden de volgende formules:
+1. De niet-aangepaste referentieprijzen worden op grondslag van artikel 6, vierde lid, van NC-TAR aangepast door een korting toe te passen op de niet-aangepaste referentieprijzen die van toepassing zijn op een entrypunt van een LNG-systeem en een korting toe te passen op de niet-aangepaste referentieprijzen die van toepassing zijn op een entrypunt van of een exitpunt naar een opslaginstallatie en door de niet-aangepaste referentieprijzen die van toepassing zijn op alle entry- en exitpunten te herschalen. Voor deze aanpassingen gelden de volgende formules:
 
 Waarbij:
 
-| **∆TI** | het inkomstenverlies als gevolg van de korting op de niet-aangepaste referentieprijzen van toepassing op entrypunten van een LNG-systeem en als gevolg van de korting op de niet-aangepaste referentieprijzen van toepassing op entrypunten van en exitpunten naar een gasopslagsystemen uitgedrukt in euro is; |
+| ∆TI | het inkomstenverlies als gevolg van de korting op de niet-aangepaste referentieprijzen van toepassing op entrypunten van een LNG-systeem en als gevolg van de korting op de niet-aangepaste referentieprijzen van toepassing op entrypunten van en exitpunten naar een gasopslagsystemen uitgedrukt in euro is; |
 | --- | --- |
-| **GKopslag** | de procentuele korting op de niet-aangepaste referentieprijzen van toepassing op entrypunten van en exitpunten naar een gasopslagsystemen is, zoals vastgesteld in het tweede lid; |
-| **GKLNG** | de procentuele korting op de niet-aangepaste referentieprijzen van toepassing op entrypunten van een LNG-systeem, zoals is vastgesteld in het derde lid; |
-|   | de niet-aangepaste referentieprijs van toepassing op een entrypunt uitgedrukt in euro/kWh/uur/jaar is; |
-| **ENLNG** | de verzameling van entrypunten van LNG-systeem is; |
-| **ENopslag** | de verzameling van entrypunten van gasopslagsystemen is waarvoor lid 4 niet van toepassing is; |
-| **CAPi** | de voorspelde gecontracteerde capaciteit op entry- of exitpunt i uitgedrukt in kWh/uur/jaar is; |
-|   | de niet-aangepaste referentieprijs van toepassing op een exitpunt uitgedrukt in euro/kWh/uur/jaar is; |
-| **EXopslag** | de verzameling van entrypunten van gasopslagsystemen is, waarvoor lid 4 niet van toepassing is; |
+| GKopslag | de procentuele korting op de niet-aangepaste referentieprijzen van toepassing op entrypunten van en exitpunten naar een gasopslagsystemen is, zoals vastgesteld in het tweede lid; |
+| GKLNG | de procentuele korting op de niet-aangepaste referentieprijzen van toepassing op entrypunten van een LNG-systeem, zoals is vastgesteld in het derde lid; |
+|  | de niet-aangepaste referentieprijs van toepassing op een entrypunt uitgedrukt in euro/kWh/uur/jaar is; |
+| ENLNG | de verzameling van entrypunten van LNG-systeem is; |
+| ENopslag | de verzameling van entrypunten van gasopslagsystemen is waarvoor lid 4 niet van toepassing is; |
+| CAPi | de voorspelde gecontracteerde capaciteit op entry- of exitpunt i uitgedrukt in kWh/uur/jaar is; |
+|  | de niet-aangepaste referentieprijs van toepassing op een exitpunt uitgedrukt in euro/kWh/uur/jaar is; |
+| EXopslag | de verzameling van entrypunten van gasopslagsystemen is, waarvoor lid 4 niet van toepassing is; |
 | c | de constante voor herschaling van de niet-aangepaste referentieprijzen is; |
-| **TI** | de inkomsten uit transmissiediensten van de transmissiesysteembeheerder uitgedrukt in euro is; |
-|   | de referentieprijs zonder korting, van toepassing op alle entrypunten niet zijnde de entrypunten waarvoor het tarief of geldt, uitgedrukt in euro/kWh/uur/jaar is; |
-|   | de referentieprijs inclusief LNG-korting van toepassing op een entrypunt van een LNG-systeem uitgedrukt in euro/kWh/uur/jaar is; |
-|   | de referentieprijs inclusief gasopslagkorting van toepassing op een entrypunt van een gasopslagsystemen, waarvoor lid 4 niet van toepassing is, uitgedrukt in euro/kWh/uur/jaar is; |
-|   | de referentieprijs zonder korting van toepassing op alle exitpunten niet zijnde een exitpunt naar een gasopslagsystemen uitgedrukt in euro/kWh/uur/jaar is; en |
-|   | de referentieprijs inclusief gasopslagkorting van toepassing op een exitpunt naar een gasopslagsystemen waarvoor lid 4 niet van toepassing is, uitgedrukt in euro/kWh/uur/jaar is. |
+| TI | de inkomsten uit transmissiediensten van de transmissiesysteembeheerder uitgedrukt in euro is; |
+|  | de referentieprijs zonder korting, van toepassing op alle entrypunten niet zijnde de entrypunten waarvoor het tarief of geldt, uitgedrukt in euro/kWh/uur/jaar is; |
+|  | de referentieprijs inclusief LNG-korting van toepassing op een entrypunt van een LNG-systeem uitgedrukt in euro/kWh/uur/jaar is; |
+|  | de referentieprijs inclusief gasopslagkorting van toepassing op een entrypunt van een gasopslagsystemen, waarvoor lid 4 niet van toepassing is, uitgedrukt in euro/kWh/uur/jaar is; |
+|  | de referentieprijs zonder korting van toepassing op alle exitpunten niet zijnde een exitpunt naar een gasopslagsystemen uitgedrukt in euro/kWh/uur/jaar is; en |
+|  | de referentieprijs inclusief gasopslagkorting van toepassing op een exitpunt naar een gasopslagsystemen waarvoor lid 4 niet van toepassing is, uitgedrukt in euro/kWh/uur/jaar is. |
 
 2. De procentuele korting op de niet-aangepaste referentieprijzen van toepassing op entrypunten van en exitpunten naar een gasopslagsysteem als bedoeld in het eerste lid is 75%.
 
@@ -727,23 +729,23 @@ Waarbij:
 
 respectievelijk
 
-, zoals bedoeld in lid 1.
+, zoals bedoeld in lid 1.
 
-5. In afwijking van het voorgaande lid kan de gasopslagkorting worden toegekend indien de betreffende beheerder van de gasopslagsystemen met de transmissiesysteembeheerder een overeenkomst heeft gesloten waarin afspraken zijn gemaakt die waarborgen dat er slechts gasopslagkorting toegekend wordt voor zover de gasopslagsystemen wordt gebruikt als gasopslag en er derhalve geen sprake is van transport van gas tussen rechtstreeks verbonden systemen zoals bedoeld in overweging 4 van de considerans en artikel 9 van NC-TAR.
+5. In afwijking van het voorgaande lid kan de gasopslagkorting worden toegekend indien de betreffende beheerder van de gasopslagsystemen met de transmissiesysteembeheerder een overeenkomst heeft gesloten waarin afspraken zijn gemaakt die waarborgen dat er slechts gasopslagkorting toegekend wordt voor zover de gasopslagsystemen wordt gebruikt als gasopslag en er derhalve geen sprake is van transport van gas tussen rechtstreeks verbonden systemen zoals bedoeld in overweging 4 van de considerans en artikel 9 van NC-TAR.
 
 ##### Artikel 3.6
 
-1. De reserveringsprijzen voor standaard jaar-, kwartaal-, maand-, dag- en within-day-capaciteitsproducten worden berekend als bepaald in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2026-05-28&g=2026-05-28).
+1. De reserveringsprijzen voor standaard jaar-, kwartaal-, maand-, dag- en within-day-capaciteitsproducten worden berekend als bepaald in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2026-05-28&g=2026-05-28).
 
 2. Voor binnenlandse entry- en exitpunten wordt de te betalen prijs voor jaar-, kwartaal-, maand-, dag- en within-day-capaciteitsproducten op dezelfde wijze berekend als de berekeningswijze als bedoeld in het eerste lid.
 
-3. In aanvulling daarop geldt voor binnenlandse exitpunten die de verbinding vormen tussen het transmissiesysteem en een distributiesysteem dat de te betalen prijs die van toepassing is voor op grond van [artikel 2.1.2d](onbekend) of [2.1.2e van de Transportcode gas TSB](onbekend) door een balanceringsverantwoordelijke met erkenning LB in een bepaald systeemgebied en een bepaalde maand gecontracteerde exitcapaciteit wordt afgeleid van de te betalen prijs voor jaar-, kwartaal- en maandcapaciteitsproducten, als bepaald in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2026-05-28&g=2026-05-28).
+3. In aanvulling daarop geldt voor binnenlandse exitpunten die de verbinding vormen tussen het transmissiesysteem en een distributiesysteem dat de te betalen prijs die van toepassing is voor op grond van [artikel 2.1.2d](https://wetten.overheid.nl/BWBR0052323) of [2.1.2e van de Transportcode gas TSB](https://wetten.overheid.nl/BWBR0052323) door een balanceringsverantwoordelijke met erkenning LB in een bepaald systeemgebied en een bepaalde maand gecontracteerde exitcapaciteit wordt afgeleid van de te betalen prijs voor jaar-, kwartaal- en maandcapaciteitsproducten, als bepaald in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0052341&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2026-05-28&g=2026-05-28).
 
 ##### Artikel 3.7
 
 1. De reserveringsprijs voor vaste jaarcapaciteitsproducten is gelijk aan de referentieprijs. De reserveringsprijs voor een jaarcapaciteitsproduct, dat meerdere kalenderjaren beslaat, is gelijk aan het gewogen gemiddelde van de referentieprijzen van de twee betreffende kalenderjaren, waarbij het gewicht bepaald wordt door het aantal maanden per kalenderjaar.
 
-2. De reserveringsprijzen voor kwartaal-, maand-, dag- en within-day-capaciteitsproducten komen tot stand door multiplicatoren en seizoensfactoren toe te passen op de referentieprijzen overeenkomstig artikel 14 en 15 van NC-TAR.
+2. De reserveringsprijzen voor kwartaal-, maand-, dag- en within-day-capaciteitsproducten komen tot stand door multiplicatoren en seizoensfactoren toe te passen op de referentieprijzen overeenkomstig artikel 14 en 15 van NC-TAR.
 
 3. De multiplicator als bedoeld in het tweede lid is:
 
@@ -759,65 +761,69 @@ respectievelijk
 
 | Kwartaal | Seizoensfactoren Kwartaalcapaciteitsproducten |
 | --- | --- |
-| **Januari – maart** | 1,482 |
-| **April – juni** | 0,784 |
-| **Juli – september** | 0,629 |
-| **Oktober – december** | 1,105 |
+| Januari – maart | 1,482 |
+| April – juni | 0,784 |
+| Juli – september | 0,629 |
+| Oktober – december | 1,105 |
 
 5. De seizoensfactoren als bedoeld in het tweede lid voor maand-, dag- en within-day-capaciteitsproducten zijn:
 
 | Maand | Seizoensfactoren dag- en within-day-capaciteitsproducten | Seizoensfactoren maandcapaciteitsproducten |
 | --- | --- | --- |
-| **Januari** | 1,773 | 1,715 |
-| **Februari** | 1,585 | 1,533 |
-| **Maart** | 1,239 | 1,199 |
-| **April** | 0,924 | 0,894 |
-| **Mei** | 0,819 | 0,792 |
-| **Juni** | 0,688 | 0,665 |
-| **Juli** | 0,649 | 0,628 |
-| **Augustus** | 0,618 | 0,597 |
-| **September** | 0,686 | 0,663 |
-| **Oktober** | 0,787 | 0,761 |
-| **November** | 1,168 | 1,130 |
-| **December** | 1,472 | 1,424 |
+| Januari | 1,773 | 1,715 |
+| Februari | 1,585 | 1,533 |
+| Maart | 1,239 | 1,199 |
+| April | 0,924 | 0,894 |
+| Mei | 0,819 | 0,792 |
+| Juni | 0,688 | 0,665 |
+| Juli | 0,649 | 0,628 |
+| Augustus | 0,618 | 0,597 |
+| September | 0,686 | 0,663 |
+| Oktober | 0,787 | 0,761 |
+| November | 1,168 | 1,130 |
+| December | 1,472 | 1,424 |
 
 ##### Artikel 3.8
 
-1. De te betalen prijs voor op grond van [artikel 2.1.2d van de Transportcode gas TSB](onbekend) door een balanceringsverantwoordelijke met erkenning LB in een bepaald systeemgebied in een bepaalde maand gecontracteerde exitcapaciteit ten behoeve van profielverbruikers wordt bepaald door:
+1. De te betalen prijs voor op grond van [artikel 2.1.2d van de Transportcode gas TSB](https://wetten.overheid.nl/BWBR0052323) door een balanceringsverantwoordelijke met erkenning LB in een bepaald systeemgebied in een bepaalde maand gecontracteerde exitcapaciteit ten behoeve van profielverbruikers wordt bepaald door:
 
 - a. Allereerst te bepalen met welke combinatie van jaar-, kwartaal- en maandcapaciteitsproducten de standaardcapaciteit profielverbruikers zo goedkoop mogelijk kan worden gecontracteerd. Dit resulteert voor elke maand van de standaardcapaciteit profielverbruikers in een verhouding tussen respectievelijk jaar-, kwartaal- en maandcapaciteitsproducten.
 
-- b. Vervolgens wordt de te betalen prijs voor door een balanceringsverantwoordelijke met erkenning LB gecontracteerde exitcapaciteit ten behoeve van profielverbruikers in een bepaald systeemgebied in een bepaalde maand afgeleid van de verhouding tussen jaar-, kwartaal- en maandcapaciteitsproducten bepaald overeenkomstig onderdeel a en de te betalen prijs voor jaar-, kwartaal- en maandcapaciteitsproducten op grond van de volgende formule: Waarbij:
+- b. Vervolgens wordt de te betalen prijs voor door een balanceringsverantwoordelijke met erkenning LB gecontracteerde exitcapaciteit ten behoeve van profielverbruikers in een bepaald systeemgebied in een bepaalde maand afgeleid van de verhouding tussen jaar-, kwartaal- en maandcapaciteitsproducten bepaald overeenkomstig onderdeel a en de te betalen prijs voor jaar-, kwartaal- en maandcapaciteitsproducten op grond van de volgende formule: Waarbij: De te betalen prijs voor door een balanceringsverantwoordelijke met erkenning LB gecontracteerde exitcapaciteit ten behoeve van profielverbruikers in systeemgebied *i* in maand *m* is;
+ Het aandeel van de standaardcapaciteit profielverbruikers in de maand *m* dat als maandcapaciteitsproduct is gecontracteerd is;
+ *Ti,m*
+ De te betalen prijs voor een maandcapaciteitsproduct in systeemgebied *i* in maand *m* is;
+ Het aandeel van de standaardcapaciteit profielverbruikers in maand m dat als kwartaalcapaciteitsproduct gecontracteerd is;
+ *d(m)*
+ Een functie die het aantal dagen in maand m uitdrukt is;
+ *d(kwm)*
+ Een functie die het aantal dagen in het kwartaal van de maand m uitdrukt is;
+ De te betalen prijs voor het kwartaalcapaciteitsproduct dat de maand *m* omvat is;
+ Het aandeel van de standaardcapaciteit profielverbruikers in maand *m* dat als jaarcapaciteitsproduct is gecontracteerd is;
+ *d(j)*
+ Een functie die het aantal dagen in jaar j uitdrukt is; en
+ *Ti,j*
+ De te betalen prijs voor het jaarcapaciteitsproduct in systeemgebied i in maand m is.
 
-|   | De te betalen prijs voor door een balanceringsverantwoordelijke met erkenning LB gecontracteerde exitcapaciteit ten behoeve van profielverbruikers in systeemgebied **i** in maand **m** is; |
-| --- | --- |
-|   | Het aandeel van de standaardcapaciteit profielverbruikers in de maand **m** dat als maandcapaciteitsproduct is gecontracteerd is; |
-| **Ti,m** | De te betalen prijs voor een maandcapaciteitsproduct in systeemgebied **i** in maand **m** is; |
-|   | Het aandeel van de standaardcapaciteit profielverbruikers in maand m dat als kwartaalcapaciteitsproduct gecontracteerd is; |
-| **d(m)** | Een functie die het aantal dagen in maand m uitdrukt is; |
-| **d(kwm)** | Een functie die het aantal dagen in het kwartaal van de maand m uitdrukt is; |
-|   | De te betalen prijs voor het kwartaalcapaciteitsproduct dat de maand **m** omvat is; |
-|   | Het aandeel van de standaardcapaciteit profielverbruikers in maand **m** dat als jaarcapaciteitsproduct is gecontracteerd is; |
-| **d(j)** | Een functie die het aantal dagen in jaar j uitdrukt is; en |
-| **Ti,j** | De te betalen prijs voor het jaarcapaciteitsproduct in systeemgebied i in maand m is. |
-
-2. De te betalen prijs voor op grond van [artikel 2.1.2e van de Transportcode gas TSB](onbekend) door een balanceringsverantwoordelijke met erkenning LB in een bepaald systeemgebied in een bepaalde maand gecontracteerde exitcapaciteit ten behoeve van telemetrieverbruikers wordt bepaald door:
+2. De te betalen prijs voor op grond van [artikel 2.1.2e van de Transportcode gas TSB](https://wetten.overheid.nl/BWBR0052323) door een balanceringsverantwoordelijke met erkenning LB in een bepaald systeemgebied in een bepaalde maand gecontracteerde exitcapaciteit ten behoeve van telemetrieverbruikers wordt bepaald door:
 
 - a. Allereerst te bepalen met welke combinatie van jaar-, kwartaal- en maandcapaciteitsproducten de plancapaciteit telemetrieverbruikers zo goedkoop mogelijk kan worden gecontracteerd. Dit resulteert voor elke maand van de plancapaciteit telemetrieverbruikers in een verhouding tussen respectievelijk jaar-, kwartaal- en maandcapaciteitsproducten.
 
-- b. Vervolgens wordt de te betalen prijs voor door een balanceringsverantwoordelijke met erkenning LB gecontracteerde exitcapaciteit ten behoeve van telemetrieverbruikers in een bepaald systeemgebied in een bepaalde maand afgeleid van de verhouding tussen jaar-, kwartaal- en maandcapaciteitsproducten bepaald overeenkomstig onderdeel a en de te betalen prijs voor jaar-, kwartaal- en maandcapaciteitsproducten op grond van de volgende formule: Waarbij:
-
-|   | De te betalen prijs voor door een balanceringsverantwoordelijke met erkenning LB gecontracteerde exitcapaciteit ten behoeve van telemetrieverbruikers in systeemgebied **i** in maand **m** is; |
-| --- | --- |
-|   | Het aandeel van de plancapaciteit telemetrieverbruikers in de maand **m** dat als maandcapaciteitsproduct is gecontracteerd is; |
-| **Ti,m** | De te betalen prijs voor een maandcapaciteitsproduct in systeemgebied **i** in maand **m** is; |
-|   | Het aandeel van de plancapaciteit telemetrieverbruikers in maand m dat als kwartaalcapaciteitsproduct gecontracteerd is; |
-| **d(m)** | Een functie die het aantal dagen in maand m uitdrukt is; |
-| **d(kwm)** | Een functie de het aantal dagen in het kwartaal van de maand m uitdrukt is; |
-|   | De te betalen prijs voor het kwartaalcapaciteitsproduct dat de maand **m** omvat is; |
-|   | Het aandeel van de plancapaciteit telemetrieverbruikers in maand **m** dat als jaarcapaciteitsproduct gecontracteerd is; |
-| **d(j)** | Een functie die het aantal dagen in jaar j uitdrukt is; en |
-| **Ti,j** | De te betalen prijs voor he jaarcapaciteitsproduct in systeemgebied i in maand m is. |
+- b. Vervolgens wordt de te betalen prijs voor door een balanceringsverantwoordelijke met erkenning LB gecontracteerde exitcapaciteit ten behoeve van telemetrieverbruikers in een bepaald systeemgebied in een bepaalde maand afgeleid van de verhouding tussen jaar-, kwartaal- en maandcapaciteitsproducten bepaald overeenkomstig onderdeel a en de te betalen prijs voor jaar-, kwartaal- en maandcapaciteitsproducten op grond van de volgende formule: Waarbij: De te betalen prijs voor door een balanceringsverantwoordelijke met erkenning LB gecontracteerde exitcapaciteit ten behoeve van telemetrieverbruikers in systeemgebied *i* in maand *m* is;
+ Het aandeel van de plancapaciteit telemetrieverbruikers in de maand *m* dat als maandcapaciteitsproduct is gecontracteerd is;
+ *Ti,m*
+ De te betalen prijs voor een maandcapaciteitsproduct in systeemgebied *i* in maand *m* is;
+ Het aandeel van de plancapaciteit telemetrieverbruikers in maand m dat als kwartaalcapaciteitsproduct gecontracteerd is;
+ *d(m)*
+ Een functie die het aantal dagen in maand m uitdrukt is;
+ *d(kwm)*
+ Een functie de het aantal dagen in het kwartaal van de maand m uitdrukt is;
+ De te betalen prijs voor het kwartaalcapaciteitsproduct dat de maand *m* omvat is;
+ Het aandeel van de plancapaciteit telemetrieverbruikers in maand *m* dat als jaarcapaciteitsproduct gecontracteerd is;
+ *d(j)*
+ Een functie die het aantal dagen in jaar j uitdrukt is; en
+ *Ti,j*
+ De te betalen prijs voor he jaarcapaciteitsproduct in systeemgebied i in maand m is.
 
 ##### Artikel 3.9
 
@@ -827,32 +833,74 @@ respectievelijk
 
 - b. Op het tarief uit onderdeel a voor dat punt op basis van de berekende afschakelkans vastgestelde kortingspercentage toe te passen. Gebaseerd op de afschakelkans zijn kortingspercentages vastgesteld:
 
-  - ○. Voor de volgende entry- en exitpunten is de korting voor afschakelbare capaciteit per richting, op basis van de berekende afschakelkans, vastgesteld
+   - ○ Voor de volgende entry- en exitpunten is de korting voor afschakelbare capaciteit per richting, op basis van de berekende afschakelkans, vastgesteld ID
+ Netwerkpunt
+ Korting entry
+ Korting exit
+ 300131
+ HILVARENBEEK (FLUXYS)
+ 97,39%
+ 64,36%
+ 301114
+ GRIJPSKERK (NAM – UGS)
+ 31,78%
+ 0,01%
+ 301116
+ NORG (NAM – UGS)
+ 0,01%
+ 5,77%
+ 301320
+ ZUIDWENDING (UGS)
+ 62,50%
+ 37,40%
+ 301345
+ ROTTERDAM (GATE)
+ 23,59%
+ 0,01%
+ 301348
+ BERGERMEER (TAQA-UGS)
+ 51,20%
+ 50,48%
+ 301360
+ OUDE STATENZIJL (ETZEL-EKB-H)
+ 0,01%
+ 15,25%
+ 301391
+ OUDE STATENZIJL (SEFE STORAGE)
+ 0,01%
+ 95,73%
+ 301400
+ OUDE STATENZIJL (ETZEL-CRYSTAL-H)
+ 0,01%
+ 33,33%
+ 301401
+ OUDE STATENZIJL (ETZEL-FREYA-H)
+ 0,01%
+ 49,36%
+ 301453
+ OUDE STATENZIJL (EWE JEMGUM)
+ 0,01%
+ 71,90%
+ 301546
+ VIP BENE
+ 98,32%
+ 0,01%
+ 301568
+ VIP TTF-THE-L
+ 7,02%
+ 0,01%
+ 301576
+ VIP BENE-L
+ 0,09%
+ 0,01%
 
-| ID | Netwerkpunt | Korting entry | Korting exit |
-| --- | --- | --- | --- |
-| 300131 | HILVARENBEEK (FLUXYS) | 97,39% | 64,36% |
-| 301114 | GRIJPSKERK (NAM – UGS) | 31,78% | 0,01% |
-| 301116 | NORG (NAM – UGS) | 0,01% | 5,77% |
-| 301320 | ZUIDWENDING (UGS) | 62,50% | 37,40% |
-| 301345 | ROTTERDAM (GATE) | 23,59% | 0,01% |
-| 301348 | BERGERMEER (TAQA-UGS) | 51,20% | 50,48% |
-| 301360 | OUDE STATENZIJL (ETZEL-EKB-H) | 0,01% | 15,25% |
-| 301391 | OUDE STATENZIJL (SEFE STORAGE) | 0,01% | 95,73% |
-| 301400 | OUDE STATENZIJL (ETZEL-CRYSTAL-H) | 0,01% | 33,33% |
-| 301401 | OUDE STATENZIJL (ETZEL-FREYA-H) | 0,01% | 49,36% |
-| 301453 | OUDE STATENZIJL (EWE JEMGUM) | 0,01% | 71,90% |
-| 301546 | VIP BENE | 98,32% | 0,01% |
-| 301568 | VIP TTF-THE-L | 7,02% | 0,01% |
-| 301576 | VIP BENE-L | 0,09% | 0,01% |
+   - ○ Voor alle andere entry- en exitpunten geldt een kortingspercentage van ‘0.01%’.
 
-  - ○. Voor alle andere entry- en exitpunten geldt een kortingspercentage van ‘0.01%’.
-
-2. De te betalen prijs voor entry- en exitcapaciteit in de vorm van wheelingcapaciteit als bedoeld in [artikel 2.1.2h van de Transportcode gas TSB](onbekend), wordt berekend door:
+2. De te betalen prijs voor entry- en exitcapaciteit in de vorm van wheelingcapaciteit als bedoeld in [artikel 2.1.2h van de Transportcode gas TSB](https://wetten.overheid.nl/BWBR0052323), wordt berekend door:
 
 - a. Het entry- en exittarief te bepalen dat een systeemgebruiker verschuldigd is voor het contracteren van zowel vaste entry- als exitcapaciteit op het betreffende entry- en exitpunt voor dezelfde capaciteitsproducten; en
 
-- b. Op de waarde berekend op grond van onderdeel a een korting van 94% toe te passen.
+- b. Op de waarde berekend op grond van onderdeel a een korting van 94% toe te passen.
 
 ##### Artikel 3.10
 
@@ -864,21 +912,21 @@ respectievelijk
 
 4. In de volgende gevallen wordt voor een overschrijding van de gecontracteerde capaciteit geen tarief berekend:
 
-- a. In geval er sprake is van een volgens [2.1.2b van de Transportcode gas TSB](onbekend) gecontracteerde exitcapaciteit;
+- a. In geval er sprake is van een volgens [2.1.2b van de Transportcode gas TSB](https://wetten.overheid.nl/BWBR0052323) gecontracteerde exitcapaciteit;
 
-- b. Indien wordt voldaan aan de voorwaarden uit [paragraaf 2.1.9 van de Transportcode gas TSB](onbekend);
+- b. Indien wordt voldaan aan de voorwaarden uit [paragraaf 2.1.9 van de Transportcode gas TSB](https://wetten.overheid.nl/BWBR0052323);
 
-- c. In het geval een overschrijding het gevolg is van een volgens [artikel 4.1.4.4 van de Transportcode gas TSB](onbekend) gegeven instructie door de transmissiesysteembeheerder;
+- c. In het geval een overschrijding het gevolg is van een volgens [artikel 4.1.4.4 van de Transportcode gas TSB](https://wetten.overheid.nl/BWBR0052323) gegeven instructie door de transmissiesysteembeheerder;
 
-- d. In het geval overschrijding van de gecontracteerde entry- of exitcapaciteit het gevolg is van een aanwijzing van de transmissiesysteembeheerder als bedoeld in [artikel 4.4.6 van de Transportcode gas TSB](onbekend).
+- d. In het geval overschrijding van de gecontracteerde entry- of exitcapaciteit het gevolg is van een aanwijzing van de transmissiesysteembeheerder als bedoeld in [artikel 4.4.6 van de Transportcode gas TSB](https://wetten.overheid.nl/BWBR0052323).
 
-#### § 3.4. Tariefstructuur voor pieklevering van gas conform [artikel 3.64 Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.64)
+#### § 3.4. Tariefstructuur voor pieklevering van gas conform artikel 3.64 Energiewet
 
 ##### Artikel 3.11
 
-1. De transmissiesysteembeheerder treft voorzieningen ten behoeve van de pieklevering, zoals bedoeld in [artikel 3.64 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.64). De omschrijving van de dienst is opgenomen in [artikel 2.1.1 van de Takencode gas TSB](onbekend).
+1. De transmissiesysteembeheerder treft voorzieningen ten behoeve van de pieklevering, zoals bedoeld in [artikel 3.64 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.64). De omschrijving van de dienst is opgenomen in [artikel 2.1.1 van de Takencode gas TSB](https://wetten.overheid.nl/BWBR0052339).
 
-2. De in het eerste lid genoemde taak bestaat uit deeltaken die kwalificeren als een transmissiedienst en uit deeltaken die kwalificeren als een niet-transmissiedienst, als bedoeld in artikel 4, eerste en vierde lid, van NC-TAR;
+2. De in het eerste lid genoemde taak bestaat uit deeltaken die kwalificeren als een transmissiedienst en uit deeltaken die kwalificeren als een niet-transmissiedienst, als bedoeld in artikel 4, eerste en vierde lid, van NC-TAR;
 
 - a. De deeltaken die kwalificeren als transmissiedienst betreft de entry- en exitcapaciteit die de transmissiesysteembeheerder zelf reserveert ten behoeve van de piekleveringstaak.
 
@@ -888,11 +936,11 @@ respectievelijk
 
 4. Een leverancier van eindafnemers met een kleine aansluiting voor gas betaalt de hem toe te rekenen bedragen aan de transmissiesysteembeheerder.
 
-5. Van lid 3 en 4 van dit artikel kan worden afgeweken wanneer de leverancier van eindafnemers met een kleine aansluiting met een balanceringsverantwoordelijke is overeengekomen dat de kosten voor de voorzieningen ten behoeve van de pieklevering in rekening gebracht kunnen worden bij de balanceringsverantwoordelijke.
+5. Van lid 3 en 4 van dit artikel kan worden afgeweken wanneer de leverancier van eindafnemers met een kleine aansluiting met een balanceringsverantwoordelijke is overeengekomen dat de kosten voor de voorzieningen ten behoeve van de pieklevering in rekening gebracht kunnen worden bij de balanceringsverantwoordelijke.
 
 ##### Artikel 3.12
 
-1. De transmissiesysteembeheerder berekent het tarief voor de pieklevering van gas aan de hand van een door de Autoriteit Consument en Markt, overeenkomstig [artikel 3.112 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.112), goedgekeurde berekeningsmethode voor een maatwerktarief. De transmissiesysteembeheerder legt het voorstel voor de berekeningsmethode ter goedkeuring aan de ACM voor.
+1. De transmissiesysteembeheerder berekent het tarief voor de pieklevering van gas aan de hand van een door de Autoriteit Consument en Markt, overeenkomstig [artikel 3.112 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.112), goedgekeurde berekeningsmethode voor een maatwerktarief. De transmissiesysteembeheerder legt het voorstel voor de berekeningsmethode ter goedkeuring aan de ACM voor.
 
 2. Het voorstel van de transmissiesysteembeheerder bevat in ieder geval de volgende elementen:
 
@@ -902,7 +950,7 @@ respectievelijk
 
 - c. het aandeel van de toegestane inkomsten dat wordt verwacht via de piekleveringstarieven te worden geïnd;
 
-- d. de wijze waarop de bijbehorende inkomsten uit het piekleveringstarief worden gereconcilieerd als bedoeld in artikel 17, lid 3, van [Verordening (EU) 2017/460](32017R0460);
+- d. de wijze waarop de bijbehorende inkomsten uit het piekleveringstarief worden gereconcilieerd als bedoeld in artikel 17, lid 3, van Verordening (EU) 2017/460;
 
 - e. een indicatie van de piekleveringstarieven die de systeemgebruikers aan wie deze dienst toekomt moeten betalen.
 
@@ -923,5 +971,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 4.3
 
 Dit besluit wordt aangehaald als: Tarievencode gas TSB en DSB.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

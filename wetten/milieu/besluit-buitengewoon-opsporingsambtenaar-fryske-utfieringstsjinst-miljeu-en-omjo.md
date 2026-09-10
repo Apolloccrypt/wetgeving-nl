@@ -6,10 +6,11 @@ categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2021-09-10
 laatste_update: 2023-06-03
-status: geldig
+status: vervallen
+vervallen_op: 2026-09-09
 toestand: 2023-06-03
 bron: "https://wetten.overheid.nl/BWBR0045596"
-opgehaald: 2026-09-01
+opgehaald: 2026-09-10
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 1 september 2021 nr. BOACAT2021/026, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Fryske Utfieringstsjinst Miljeu en Omjouwing (FUMO)

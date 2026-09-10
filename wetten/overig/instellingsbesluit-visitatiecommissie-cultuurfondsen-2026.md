@@ -1,52 +1,26 @@
 ---
 title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 16 december 2025, nr.1783837, tot instelling van een commissie voor de visitaties van de Rijkscultuurfondsen ex artikel 9 van de Wet op het specifiek cultuurbeleid (Instellingsbesluit visitatiecommissie 2026)"
+citeertitel: "Instellingsbesluit visitatiecommissie cultuurfondsen 2026"
 identifier: "BWBR0052057"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-12-30"
-last_updated: "2025-12-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052057"
+categorie: "Onderwijs"
 soort: "ministeriele-regeling"
-stam_id: "17700653"
-version_id: "31235142"
-internal_id: "C44673221"
-label_id: "17599534"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052057/2025-12-30/0"
-intitule_bron: "Stcrt.2025-44523"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-12-16"
-intitule_published: "2025-12-29"
-intitule_in_force: "2025-12-29"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-44523"
-original_signed_date: "2025-12-16"
-original_published_date: "2025-12-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-44523"
-entry_into_force_date: "2025-12-30"
-jci_1_3: "jci1.3:c:BWBR0052057&z=2025-12-30&g=2025-12-30"
-jci_1_0: "1.0:c:BWBR0052057&g=2025-12-30"
-citeertitel_status: "officieel"
-short_title: "Instellingsbesluit visitatiecommissie cultuurfondsen 2026"
-signed_date: "2025-12-16"
-entry_into_force: "2025-12-30"
+publicatiedatum: 2025-12-30
+laatste_update: 2025-12-30
+status: geldig
+toestand: 2025-12-30
+bron: "https://wetten.overheid.nl/BWBR0052057"
+opgehaald: 2026-09-10
 ---
+
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 16 december 2025, nr.1783837, tot instelling van een commissie voor de visitaties van de Rijkscultuurfondsen ex artikel 9 van de Wet op het specifiek cultuurbeleid (Instellingsbesluit visitatiecommissie 2026)
-
-Gelet op [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **visitatiecommissie:** als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052057&artikel=2&z=2025-12-30&g=2025-12-30).
+- b. *visitatiecommissie:* als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052057&artikel=2&z=2025-12-30&g=2025-12-30).
 
 ##### Artikel 2. Instelling en taak
 
@@ -90,7 +64,7 @@ De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden d
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst.
 
-2. Dit besluit vervalt met ingang van 1 januari 2027.
+2. Dit besluit vervalt met ingang van 1 januari 2027.
 
 ##### Artikel 8. Citeertitel
 

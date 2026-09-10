@@ -1,53 +1,29 @@
 ---
 title: "Instellingsbesluit Commissie advisering bezwaarschriften Defensie"
 identifier: "BWBR0052025"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2025-12-25"
-last_updated: "2025-12-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052025"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17694403"
-version_id: "31224512"
-internal_id: "C44661201"
-label_id: "17593414"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052025/2025-12-25/0"
-intitule_bron: "Stcrt.2025-44423"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-12-16"
-intitule_published: "2025-12-24"
-intitule_in_force: "2025-12-24"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-44423"
-original_signed_date: "2025-12-16"
-original_published_date: "2025-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-44423"
-entry_into_force_date: "2025-12-25"
-jci_1_3: "jci1.3:c:BWBR0052025&z=2025-12-25&g=2025-12-25"
-jci_1_0: "1.0:c:BWBR0052025&g=2025-12-25"
-citeertitel_status: "officieel"
-signed_date: "2025-12-16"
-entry_into_force: "2025-12-25"
+publicatiedatum: 2025-12-25
+laatste_update: 2025-12-25
+status: geldig
+toestand: 2025-12-25
+bron: "https://wetten.overheid.nl/BWBR0052025"
+opgehaald: 2026-09-10
 ---
-# Instellingsbesluit Commissie advisering bezwaarschriften Defensie
 
-Besluit:
+# Instellingsbesluit Commissie advisering bezwaarschriften Defensie
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **het bestuursorgaan:** de Minister onderscheidenlijk de Staatssecretaris van Defensie;
+- a. *het bestuursorgaan:* de Minister onderscheidenlijk de Staatssecretaris van Defensie;
 
-- b. **de commissie:** de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052025&artikel=2&z=2025-12-25&g=2025-12-25);
+- b. *de commissie:* de commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052025&artikel=2&z=2025-12-25&g=2025-12-25);
 
-- c. **de minister:** de Minister van Defensie;
+- c. *de minister:* de Minister van Defensie;
 
-- d. **het ministerie:** het Ministerie van Defensie.
+- d. *het ministerie:* het Ministerie van Defensie.
 
 ##### Artikel 2. Instelling en taak
 
@@ -123,7 +99,7 @@ De (plaatsvervangend) voorzitter, leden en secretaris van de commissie zijn geho
 
 ##### Artikel 8. Intrekking
 
-Het [besluit van 1 juli 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010572), houdende instelling van de Commissie Advisering Bezwaarschriften Defensie, wordt ingetrokken.
+Het [besluit van 1 juli 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010572), houdende instelling van de Commissie Advisering Bezwaarschriften Defensie, wordt ingetrokken.
 
 ##### Artikel 9. Inwerkingtreding
 

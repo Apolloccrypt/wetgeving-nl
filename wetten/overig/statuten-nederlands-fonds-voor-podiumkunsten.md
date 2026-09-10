@@ -1,35 +1,16 @@
 ---
 title: "Statuten Nederlands Fonds voor Podiumkunsten"
 identifier: "BWBR0052188"
-country: "nl"
-rank: "zbo"
-publication_date: "2025-12-23"
-last_updated: "2025-12-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052188"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17733983"
-version_id: "31297042"
-internal_id: "C44746421"
-label_id: "17632714"
-dtd_version: "2.0"
-original_entry_into_force: "2025-12-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052188/2025-12-23/0"
-intitule_bron: "Stcrt.2026-1407"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2026-01-16"
-intitule_in_force: "2026-01-16"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-1407"
-original_published_date: "2026-01-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-1407"
-entry_into_force_date: "2025-12-23"
-jci_1_3: "jci1.3:c:BWBR0052188&z=2025-12-23&g=2025-12-23"
-jci_1_0: "1.0:c:BWBR0052188&g=2025-12-23"
-citeertitel_status: "redactioneel"
-entry_into_force: "2025-12-23"
+publicatiedatum: 2025-12-23
+laatste_update: 2025-12-23
+status: geldig
+toestand: 2025-12-23
+bron: "https://wetten.overheid.nl/BWBR0052188"
+opgehaald: 2026-09-10
 ---
+
 # Statuten Nederlands Fonds voor Podiumkunsten
 
 ### Statuten
@@ -40,21 +21,21 @@ entry_into_force: "2025-12-23"
 
 In de statuten wordt verstaan onder:
 
-- a. **bestuur:** het bestuur van de stichting;
+- a. *bestuur:* het bestuur van de stichting;
 
-- b. **Minister:** de Minister van Onderwijs, Cultuur en Wetenschap;
+- b. *Minister:* de Minister van Onderwijs, Cultuur en Wetenschap;
 
-- c. **raad van toezicht:** de raad van toezicht van de stichting;
+- c. *raad van toezicht:* de raad van toezicht van de stichting;
 
-- d. **schriftelijk:** bij brief, e-mail, of bij boodschap die via een ander gangbaar communicatiemiddel wordt overgebracht en op schrift kan worden ontvangen.
+- d. *schriftelijk:* bij brief, e-mail, of bij boodschap die via een ander gangbaar communicatiemiddel wordt overgebracht en op schrift kan worden ontvangen.
 
-- e. **stichting:** Stichting Nederlands Fonds voor de Podiumkunsten.
+- e. *stichting:* Stichting Nederlands Fonds voor de Podiumkunsten.
 
 ### Naam en zetel
 
 ##### Artikel 2
 
-1. De stichting draagt de naam: **Stichting Nederlands Fonds voor Podiumkunsten**.
+1. De stichting draagt de naam: *Stichting Nederlands Fonds voor Podiumkunsten*.
 
 2. Zij heeft haar zetel in de gemeente: ’s-Gravenhage.
 
@@ -126,7 +107,7 @@ In de statuten wordt verstaan onder:
 
 2. Het bestuur kan zich bij besluitvorming over aanvragen laten adviseren door een of meerdere adviescolleges. De adviseurs worden benoemd en ontslagen door het bestuur op basis van een door het bestuur opgestelde profielschets.
 
-3. Het bestuur is bevoegd te besluiten tot het aangaan van overeenkomsten tot verkrijging, vervreemding en bezwaring van registergoederen, en tot het aangaan van overeenkomsten waarbij de stichting zich als borg of hoofdelijk medeschuldenaar verbindt, zich voor een derde sterk maakt of zich tot zekerheidstelling voor een schuld van een ander verbindt en tot vertegenwoordiging van de stichting ter zake van deze handelingen. De in de vorige volzin omschreven besluiten zijn onderworpen aan de voorafgaande goedkeuring van de raad van toezicht als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0052188&artikel=9&z=2025-12-23&g=2025-12-23).
+3. Het bestuur is bevoegd te besluiten tot het aangaan van overeenkomsten tot verkrijging, vervreemding en bezwaring van registergoederen, en tot het aangaan van overeenkomsten waarbij de stichting zich als borg of hoofdelijk medeschuldenaar verbindt, zich voor een derde sterk maakt of zich tot zekerheidstelling voor een schuld van een ander verbindt en tot vertegenwoordiging van de stichting ter zake van deze handelingen. De in de vorige volzin omschreven besluiten zijn onderworpen aan de voorafgaande goedkeuring van de raad van toezicht als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0052188&artikel=9&z=2025-12-23&g=2025-12-23).
 
 4. Bestuurders doen aan de raad van toezicht opgaven van hun nevenfuncties, waaronder bestuursfuncties, commissariaten en adviseurschappen. Een bestuurder dient melding te doen van zakelijke banden tussen de stichting en een andere rechtspersoon of onderneming waarmee de betreffende bestuurder, direct dan wel indirect, persoonlijk is betrokken.
 
@@ -164,7 +145,7 @@ Onder belet wordt in deze statuten in ieder geval verstaan de omstandigheid dat
 
 ##### Artikel 8
 
-1. Het bestuur doet een voorstel aan de raad van toezicht omtrent de besluitvorming en de werkwijze van het bestuur waarin begrepen de wijze waarop vergaderingen worden gehouden en de informatievoorziening aan de raad van toezicht. In dat kader wordt bepaald met welke taak iedere bestuurder meer in het bijzonder zal zijn belast. Deze regels en taakverdeling worden schriftelijk vastgelegd in een bestuursreglement, welk bestuursreglement wordt vastgesteld door de raad van toezicht, met inachtneming van het bepaalde in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0052188&artikel=18&z=2025-12-23&g=2025-12-23). Doet het bestuur geen voorstel voor een bestuursreglement, dan is de raad van toezicht bevoegd het bestuursreglement vast te stellen, met inachtneming van het bepaalde in artikel 18.
+1. Het bestuur doet een voorstel aan de raad van toezicht omtrent de besluitvorming en de werkwijze van het bestuur waarin begrepen de wijze waarop vergaderingen worden gehouden en de informatievoorziening aan de raad van toezicht. In dat kader wordt bepaald met welke taak iedere bestuurder meer in het bijzonder zal zijn belast. Deze regels en taakverdeling worden schriftelijk vastgelegd in een bestuursreglement, welk bestuursreglement wordt vastgesteld door de raad van toezicht, met inachtneming van het bepaalde in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0052188&artikel=18&z=2025-12-23&g=2025-12-23). Doet het bestuur geen voorstel voor een bestuursreglement, dan is de raad van toezicht bevoegd het bestuursreglement vast te stellen, met inachtneming van het bepaalde in artikel 18.
 
 2. De bestuurder die een direct of indirect persoonlijk belang heeft dat tegenstrijdig is met het belang van de stichting en de met haar verbonden onderneming of organisatie, meldt dit terstond aan de voorzitter van de raad van toezicht en verschaft daarover alle relevante informatie.
 
@@ -204,9 +185,9 @@ Wanneer hierdoor geen bestuursbesluit kan worden genomen, wordt het besluit geno
 
 - k. de aanvraag van faillissement en surseance van betaling van de stichting;
 
-- l. het aangaan van overeenkomsten die een waarde van vijfhonderdduizend euro (€ 500.000,00) te boven gaan.
+- l. het aangaan van overeenkomsten die een waarde van vijfhonderdduizend euro (€ 500.000,00) te boven gaan.
 
-2. De raad van toezicht kan bepalen dat een in het eerste lid bedoeld besluit niet aan zijn goedkeuring is onderworpen, indien het daarmee gemoeide belang een door de raad van toezicht te bepalen en schriftelijk aan het bestuur op te geven waarde niet te boven gaat. Evenmin is een besluit aan de goedkeuring onderworpen wanneer dit voortvloeit uit een van de goedgekeurde plannen genoemd in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052188&artikel=6&z=2025-12-23&g=2025-12-23).
+2. De raad van toezicht kan bepalen dat een in het eerste lid bedoeld besluit niet aan zijn goedkeuring is onderworpen, indien het daarmee gemoeide belang een door de raad van toezicht te bepalen en schriftelijk aan het bestuur op te geven waarde niet te boven gaat. Evenmin is een besluit aan de goedkeuring onderworpen wanneer dit voortvloeit uit een van de goedgekeurde plannen genoemd in [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052188&artikel=6&z=2025-12-23&g=2025-12-23).
 
 3. De raad van toezicht is bevoegd ook andere besluiten dan die in dit artikel zijn genoemd aan zijn goedkeuring te onderwerpen. Deze besluiten dienen duidelijk omschreven te worden en schriftelijk aan het bestuur te worden meegedeeld.
 
@@ -216,7 +197,7 @@ Wanneer hierdoor geen bestuursbesluit kan worden genomen, wordt het besluit geno
 
 ##### Artikel 10
 
-Het bestuur beslist over het verlenen van subsidie met inachtneming van een door het bestuur vast te stellen reglement als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0052188&artikel=18&z=2025-12-23&g=2025-12-23).
+Het bestuur beslist over het verlenen van subsidie met inachtneming van een door het bestuur vast te stellen reglement als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0052188&artikel=18&z=2025-12-23&g=2025-12-23).
 
 ### Raad van toezicht
 
@@ -274,7 +255,7 @@ Onder belet wordt in deze statuten verstaan de omstandigheid dat het lid van de 
 
 5. De leden van de raad van toezicht doen opgave aan de raad van toezicht van hun nevenfuncties, waaronder, maar niet beperkt tot, bestuursfuncties, commissariaten en adviseurschappen. Indien en voor zover hiervan sprake is, dient een lid van de raad van toezicht melding te doen van zakelijke banden tussen de stichting en een andere rechtspersoon of onderneming waarmee het betreffende lid, direct dan wel indirect, persoonlijk is betrokken.
 
-6. De raad van toezicht stelt in een reglement regels vast omtrent de besluitvorming en werkwijze van de raad van toezicht, in aanvulling op hetgeen daaromtrent in deze statuten is bepaald. Het bepaalde in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0052188&artikel=18&z=2025-12-23&g=2025-12-23) is van overeenkomstige toepassing.
+6. De raad van toezicht stelt in een reglement regels vast omtrent de besluitvorming en werkwijze van de raad van toezicht, in aanvulling op hetgeen daaromtrent in deze statuten is bepaald. Het bepaalde in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0052188&artikel=18&z=2025-12-23&g=2025-12-23) is van overeenkomstige toepassing.
 
 7. De voorzitter van de raad van toezicht bespreekt ten minste eenmaal per jaar met de Minister de algemene lijnen van het gevoerde en in de toekomst te voeren beleid.
 
@@ -336,7 +317,7 @@ Indien deze afwezig is voorzien de aanwezige bestuurders en leden van de raad va
 
 5. De jaarrekening wordt ondertekend door de bestuurders en leden van de raad van toezicht. Ontbreekt de ondertekening van één of meer van hen, dan wordt daarvan onder opgave van reden melding gemaakt.
 
-6. De raad van toezicht benoemt een registeraccountant, nadat het bestuur is gehoord hieromtrent, en verleent aan een accountant opdracht tot onderzoek van de jaarrekening en formuleert de opdracht daartoe. Het bepaalde in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) is zoveel mogelijk van overeenkomstige toepassing.
+6. De raad van toezicht benoemt een registeraccountant, nadat het bestuur is gehoord hieromtrent, en verleent aan een accountant opdracht tot onderzoek van de jaarrekening en formuleert de opdracht daartoe. Het bepaalde in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) is zoveel mogelijk van overeenkomstige toepassing.
 
 7. Onverminderd het bepaalde bij of krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376), of een daarvoor in de plaats gekomen regeling, is het bestuur verplicht de in de voorgaande leden bedoelde boeken, bescheiden en andere gegevensdragers gedurende zeven jaren te bewaren.
 
@@ -348,7 +329,7 @@ Indien deze afwezig is voorzien de aanwezige bestuurders en leden van de raad va
 
 1. Het bestuur stelt de jaarrekening vast en legt deze ter goedkeuring over aan de raad van toezicht.
 
-2. De raad van toezicht keurt de jaarrekening goed. De in dit lid bedoelde goedkeuring vindt niet plaats zolang de raad van toezicht niet met de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0052188&artikel=16&z=2025-12-23&g=2025-12-23) bedoelde accountant over diens bevindingen van gedachten heeft gewisseld.
+2. De raad van toezicht keurt de jaarrekening goed. De in dit lid bedoelde goedkeuring vindt niet plaats zolang de raad van toezicht niet met de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0052188&artikel=16&z=2025-12-23&g=2025-12-23) bedoelde accountant over diens bevindingen van gedachten heeft gewisseld.
 
 3. Na goedkeuring van de jaarrekening besluit de raad van toezicht omtrent het verlenen van kwijting aan de bestuurders voor de uitoefening van hun taak, voor zover van die taakuitoefening blijkt uit de jaarrekening of uit informatie die anderszins voorafgaand aan de vaststelling van de jaarrekening aan de raad van toezicht is verstrekt. De reikwijdte van een verleende kwijting is onderworpen aan beperkingen op grond van de wet.
 

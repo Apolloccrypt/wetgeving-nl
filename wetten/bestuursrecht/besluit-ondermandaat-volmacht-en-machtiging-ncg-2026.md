@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de Algemeen directeur van de Dienst Nationaal Coördinator Groningen van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties van 2 maart 2026, kenmerk NCG50710624, houdende verlening van ondermandaat, volmacht en machtiging voor de Dienst Nationaal Coördinator Groningen (Besluit ondermandaat, volmacht en machtiging NCG 2026)"
+citeertitel: "Besluit ondermandaat, volmacht en machtiging NCG 2026"
 identifier: "BWBR0052420"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-03-12"
-last_updated: "2026-03-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052420"
+categorie: "Staatsinrichting en bestuur"
 soort: "ministeriele-regeling"
-stam_id: "17797313"
-version_id: "31471692"
-internal_id: "C44950011"
-label_id: "17695044"
-dtd_version: "2.0"
-original_entry_into_force: "2026-03-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052420/2026-03-12/0"
-intitule_bron: "Stcrt.2026-9268-n1"
-intitule_effect: "wijziging"
-intitule_signed: "2026-03-02"
-intitule_published: "2026-03-11"
-intitule_in_force: "2026-03-11"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-9268-n1"
-original_signed_date: "2026-03-02"
-original_published_date: "2026-03-11"
-original_effect: "wijziging"
-original_url_id: "stcrt-2026-9268-n1"
-entry_into_force_date: "2026-03-12"
-jci_1_3: "jci1.3:c:BWBR0052420&z=2026-03-12&g=2026-03-12"
-jci_1_0: "1.0:c:BWBR0052420&g=2026-03-12"
-citeertitel_status: "officieel"
-short_title: "Besluit ondermandaat, volmacht en machtiging NCG 2026"
-signed_date: "2026-03-02"
-entry_into_force: "2026-03-12"
+publicatiedatum: 2026-03-12
+laatste_update: 2026-03-12
+status: geldig
+toestand: 2026-03-12
+bron: "https://wetten.overheid.nl/BWBR0052420"
+opgehaald: 2026-09-10
 ---
+
 # Besluit van de Algemeen directeur van de Dienst Nationaal Coördinator Groningen van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties van 2 maart 2026, kenmerk NCG50710624, houdende verlening van ondermandaat, volmacht en machtiging voor de Dienst Nationaal Coördinator Groningen (Besluit ondermandaat, volmacht en machtiging NCG 2026)
-
-Gelet op de instemming van de secretaris-generaal van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties van 20 februari 2026, kenmerk 2026-0000072006;
-
-Gelet op artikelen 6.5 en 6.6 van het Mandaatbesluit BZK 2025
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -48,31 +20,31 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- –. **afdeling:** organisatieonderdeel onder leiding van een manager;
+- – *afdeling:* organisatieonderdeel onder leiding van een manager;
 
-- –. **Algemeen directeur:** de algemeen directeur van de Dienst Nationaal Coördinator Groningen;
+- – *Algemeen directeur:* de algemeen directeur van de Dienst Nationaal Coördinator Groningen;
 
-- –. **besluit:** dit Besluit ondermandaat, volmacht en machtiging NCG 2026;
+- – *besluit:* dit Besluit ondermandaat, volmacht en machtiging NCG 2026;
 
-- –. **bijzonder projectleider:** een door de Algemeen directeur aangewezen functionaris voor het leiden van een niet-alledaags project;
+- – *bijzonder projectleider:* een door de Algemeen directeur aangewezen functionaris voor het leiden van een niet-alledaags project;
 
-- –. **directeur:** de directeur Dienstverlening, de directeur Bedrijfsvoering, de directeur Eemsdelta of de directeur Stad & Ommeland van de Dienst Nationaal Coördinator Groningen;
+- – *directeur:* de directeur Dienstverlening, de directeur Bedrijfsvoering, de directeur Eemsdelta of de directeur Stad & Ommeland van de Dienst Nationaal Coördinator Groningen;
 
-- –. **manager:** een onder een directeur ressorterende leidinggevende van een afdeling van de Dienst Nationaal Coördinator Groningen;
+- – *manager:* een onder een directeur ressorterende leidinggevende van een afdeling van de Dienst Nationaal Coördinator Groningen;
 
-- –. **P&O-aangelegenheden:** de aangelegenheden op het gebied van personeel, organisatie en formatie en het daarmee samenhangende budget;
+- – *P&O-aangelegenheden:* de aangelegenheden op het gebied van personeel, organisatie en formatie en het daarmee samenhangende budget;
 
-- –. **projectleider:** een door een directeur of manager aangewezen functionaris om de rol van projectleider te vervullen met betrekking tot een project;
+- – *projectleider:* een door een directeur of manager aangewezen functionaris om de rol van projectleider te vervullen met betrekking tot een project;
 
-- –. **projectmanager:** een door een directeur of manager aangewezen functionaris om de rol van projectmanager te vervullen met betrekking tot een project;
+- – *projectmanager:* een door een directeur of manager aangewezen functionaris om de rol van projectmanager te vervullen met betrekking tot een project;
 
-- –. **programmamanager:** een door een directeur of manager aangewezen functionaris om de rol van programmamanager te vervullen met betrekking tot een programma;
+- – *programmamanager:* een door een directeur of manager aangewezen functionaris om de rol van programmamanager te vervullen met betrekking tot een programma;
 
-- –. **regiodirectie:** een organisatieonderdeel onder leiding van de directeur Eemsdelta of de directeur Stad & Ommeland;
+- – *regiodirectie:* een organisatieonderdeel onder leiding van de directeur Eemsdelta of de directeur Stad & Ommeland;
 
-- –. **teamleider:** een onder een manager ressorterende leidinggevende;
+- – *teamleider:* een onder een manager ressorterende leidinggevende;
 
-- –. **werkterrein:** de taken binnen het eigen organisatieonderdeel.
+- – *werkterrein:* de taken binnen het eigen organisatieonderdeel.
 
 ##### Artikel 2
 
@@ -84,7 +56,7 @@ Aan de Algemeen directeur is voorbehouden: het nemen van besluiten, het verricht
 
 ##### Artikel 3. Kaders bij ieder mandaat
 
-1. Ondermandaten, volmachten en machtigingen worden begrensd met een maximale (meerjarige) financiële verplichting als bepaald [bijlage 1 bij het Mandaatbesluit BZK 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1)
+1. Ondermandaten, volmachten en machtigingen worden begrensd met een maximale (meerjarige) financiële verplichting als bepaald [bijlage 1 bij het Mandaatbesluit BZK 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&bijlage=1)
 
 2. Dit mandaat wordt uitgeoefend met inachtneming van de aanwijzingen van de Algemeen directeur, zoals vastgelegd in de toelichting bij dit Ondermandaatbesluit.
 
@@ -110,7 +82,7 @@ Aan de Algemeen directeur is voorbehouden: het nemen van besluiten, het verricht
 
 - f. het afnemen van de eed en belofte.
 
-4. Aan de directeuren wordt ondermandaat, volmacht en machtiging verleend om klachten als bedoeld in [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9) en die hun organisatieonderdeel betreffen te behandelen, een en ander in afstemming met de klachtencoördinator en met inachtneming van het Voorschrift interne klachtenbehandeling van NCG.
+4. Aan de directeuren wordt ondermandaat, volmacht en machtiging verleend om klachten als bedoeld in [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9) en die hun organisatieonderdeel betreffen te behandelen, een en ander in afstemming met de klachtencoördinator en met inachtneming van het Voorschrift interne klachtenbehandeling van NCG.
 
 ##### Artikel 5. Managers
 
@@ -138,7 +110,7 @@ Aan de Algemeen directeur is voorbehouden: het nemen van besluiten, het verricht
 
 - g. het accorderen van aanvragen voor binnenlandse en buitenlandse dienstreizen en het goedkeuren van reiskostendeclaraties binnen en buiten de Europese Unie;
 
-- h. het verlenen van vakantie en van kortdurend verlof, bedoeld in de hoofdstukken 4, 5 en 14 van de CAO Rijk en in de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008);
+- h. het verlenen van vakantie en van kortdurend verlof, bedoeld in de hoofdstukken 4, 5 en 14 van de CAO Rijk en in de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008);
 
 - i. het verlenen van zwangerschaps-, bevallings- en ouderschapsverlof;
 
@@ -238,8 +210,8 @@ De directeur Dienstverlening treedt op als plaatsvervanger van de Algemeen direc
 
 ##### Artikel 12. Inwerkingtreding en overig
 
-1. Dit besluit treedt in werking de dag na uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 augustus 2025.
+1. Dit besluit treedt in werking de dag na uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 augustus 2025.
 
-2. Besluiten of handelingen die zijn genomen of verricht krachtens het [Besluit Ondermandaat NCG 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043960) door of namens de Minister van Economische Zaken en Klimaat in de periode van 2 juli 2024 tot en met 31 juli 2025 worden aangemerkt als besluiten of handelingen namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+2. Besluiten of handelingen die zijn genomen of verricht krachtens het [Besluit Ondermandaat NCG 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043960) door of namens de Minister van Economische Zaken en Klimaat in de periode van 2 juli 2024 tot en met 31 juli 2025 worden aangemerkt als besluiten of handelingen namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 3. Dit besluit wordt aangehaald als Besluit ondermandaat, volmacht en machtiging NCG 2026.

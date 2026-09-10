@@ -1,38 +1,16 @@
 ---
 title: "Regeling verantwoording bbaz 2025 compartiment 2"
 identifier: "BWBR0052503"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-04-09"
-last_updated: "2026-04-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052503"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17828593"
-version_id: "31516492"
-internal_id: "C45003151"
-label_id: "17725964"
-dtd_version: "2.0"
-original_entry_into_force: "2026-04-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052503/2026-04-09/0"
-intitule_bron: "Stcrt.2026-12796"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2026-03-24"
-intitule_published: "2026-04-08"
-intitule_in_force: "2026-04-08"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-12796"
-original_signed_date: "2026-03-24"
-original_published_date: "2026-04-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-12796"
-entry_into_force_date: "2026-04-09"
-jci_1_3: "jci1.3:c:BWBR0052503&z=2026-04-09&g=2026-04-09"
-jci_1_0: "1.0:c:BWBR0052503&g=2026-04-09"
-citeertitel_status: "officieel"
-signed_date: "2026-03-24"
-entry_into_force: "2026-04-09"
+publicatiedatum: 2026-04-09
+laatste_update: 2026-04-09
+status: geldig
+toestand: 2026-04-09
+bron: "https://wetten.overheid.nl/BWBR0052503"
+opgehaald: 2026-09-10
 ---
+
 # Regeling verantwoording bbaz 2025 compartiment 2
 
 Gelet op de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=61), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62) en [68, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van informatie die benodigd is om de beschikbaarheidbijdrage academische zorg (bbaz) te kunnen vaststellen.
@@ -40,6 +18,18 @@ Gelet op de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artik
 ### 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
+
+- *Academische zorg:* Het uitvoeren van topreferente zorg en innovatieve zorg, en de ontwikkeling van nieuwe vormen van diagnostiek en behandeling. De omschrijving van academische zorg is opgenomen in [onderdeel B van de bijlage bij het Besluit beschikbaarheidbijdrage WMG](https://wetten.overheid.nl/BWBR0031971) (Stb. 2012, 396).
+
+- *Beschikbaarheidbijdrage:* Een bijdrage als bedoeld in [artikel 56a van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a).
+
+- *Beschikbaarheidbijdrage academische zorg (BBAZ):* Een beschikbaarheidbijdrage zoals bedoeld in de Beleidsregel beschikbaarheidbijdrage academische zorg 2025.
+
+- *Ontvangers* De ontvangers van de bbaz die op basis van de toegangscriteria zoals opgenomen in artikel 5 van de Beleidsregel beschikbaarheidbijdrage academische zorg 2025 recht hebben op een beschikbaarheidbijdrage uit compartiment 2.
+
+- *Ontwikkeling en Innovatie* Ontwikkeling en Innovatie hebben betrekking op het bedenken, uitproberen, systematisch uittesten en verspreiden van nieuwe behandelingen en vormen van diagnostiek. Het betreft uitsluitend die vormen van ontwikkeling en innovatie die steunen op fundamenteel wetenschappelijk onderzoek.
+
+- *Vast deel bbaz* Het vaste deel van de bbaz is het deel van de beschikbaarheidbijdrage dat de kosten dekt voor het in stand houden van de kennis en infrastructuur voor het continue kunnen leveren van academische zorg.
 
 ### 2. Doel van de regeling
 
@@ -57,6 +47,8 @@ Deze regeling is van toepassing op de ontvangers van de beschikbaarheidbijdrage 
 
 De procedure voor het verantwoordingsjaar 2025 is als volgt:
 
+- 1. Uiterlijk 31 augustus 2026: de ontvanger levert de informatie zoals opgenomen in [artikel 4.2.1](https://wetten.overheid.nl/BWBR0052503) aan de NZa aan.
+
 ### 4.2. Verantwoording
 
 De jaarlijkse verantwoording voor de ontvangers van de bbaz in compartiment 2 heeft uitsluitend betrekking op het vaste deel van de beschikbaarheidbijdrage academische zorg. De verantwoording ziet daarom uitsluitend toe op het onderdeel Ontwikkeling en Innovatie.
@@ -65,13 +57,51 @@ De jaarlijkse verantwoording voor de ontvangers van de bbaz in compartiment 2 he
 
 De verantwoording van ontwikkeling en innovatie (O&I) ziet er als volgt uit:
 
+- 1. De ontvanger levert uiterlijk 31 augustus 2026 de volgende gegevens aan: *Kwantitatief* *Kwalitatief*
+
+   - a. Een verantwoordingsformulier: Een formulier waarin een specificatie van kosten voor ontwikkeling en innovatie is opgenomen, onderverdeeld naar de volgende kostencategorieën:
+
+      - i. Personeelskosten
+
+      - ii. Overige personeelskosten
+
+      - iii. Facilitair
+
+      - iv. Materiële kosten
+
+      - v. Kapitaallasten
+
+   - b. Een inhoudelijke omschrijving van de onderzoeksgebieden en activiteiten die gedurende het jaar zijn uitgevoerd uit hoofde van de bbaz, uitgesplitst naar de thema’s die opgenomen in de oorspronkelijke begroting van de ontvanger. Deze kwalitatieve toelichting dient te worden opgenomen in een separaat document.
+
+   - c. Een inhoudelijke toelichting bij ‘significante afwijkingen’. In het geval dat op het niveau van de hoofdcategorieën zoals opgenomen in het verantwoordingsformulier afwijkingen ten opzichte van de begroting voorkomen van meer dan 10% dient een inhoudelijke toelichting te worden opgenomen over de aard van deze afwijkingen.
+
+- 2. De NZa stelt vast dat elke ontvanger de informatie compleet heeft aangeleverd.
+
+- 3. Indien blijkt dat de beschikbaar gestelde middelen niet volledig kunnen worden verantwoord behoudt de NZa zich het recht voor de niet bestede middelen terug te vorderen.
+
 ### 5. Normenkader bij het verantwoordingsformulier
 
-Het verantwoordingsformulier, uitgesplitst naar de kostencategorieën zoals beschreven in 4.2.1 van deze nadere regel dient gebruikt te worden bij de verantwoording. De ontvanger is verantwoordelijk voor het opstellen van de verantwoording en neemt hierbij de volgende punten in acht:
+Het verantwoordingsformulier, uitgesplitst naar de kostencategorieën zoals beschreven in [4.2.1](https://wetten.overheid.nl/BWBR0052503) van deze nadere regel dient gebruikt te worden bij de verantwoording. De ontvanger is verantwoordelijk voor het opstellen van de verantwoording en neemt hierbij de volgende punten in acht:
+
+- 1. De kosten die in de verantwoording zijn opgenomen dienen betrekking te hebben op het jaar 2025.
+
+- 2. De kosten die in de verantwoording zijn opgenomen dienen betrekking te hebben op onderzoek of innovatie.
+
+- 3. De kosten in de verantwoording dienen te worden opgenomen op basis van de gerealiseerde kosten1Met gerealiseerde kosten wordt bedoeld de kosten zoals deze zouden worden opgenomen op basis van de richtlijnen jaarverslaggeving in de jaarrekeningcontrole met inachtneming van artikel 5.2. met uitzondering van de volgende kostenposten:
+
+   - i) Overige personeelskosten; voor de overige personeelskosten dient een opslag van 3% op de verantwoorde personeelskosten2Onder de personeelskosten zoals opgenomen in de verantwoording vallen de personeelskosten inclusief sociale lasten en pensioenlasten. Voor de definities van de begrippen wordt aangesloten bij de definities zoals deze worden gehanteerd binnen de jaarrekeningcontrole op basis van de richtlijnen jaarverslaggeving (RJ) en Nederlandse wet- en regelgeving. te worden opgenomen in het verantwoordingsformulier.
+
+   - ii) Facilitair; voor de categorie facilitair dient de ontvanger een percentage van de door de NZa goedgekeurde begroting toe te rekenen aan de bbaz. De begroting en het percentage dat hiervoor als uitgangspunt moet worden gebruikt dient de ontvanger jaarlijks af te stemmen met de NZa.
+
+   - iii) Materiële kosten; Onder de post materiële kosten dient de ontvanger, naast de gerealiseerde kosten, een post op te nemen voor standaard ICT werkplekken. Hiervoor dient de ontvanger een bedrag op te nemen ter hoogte van 5,1% van de personeelskosten.
+
+   - iv) Kapitaallasten; Voor de kapitaallasten dient de ontvanger een percentage van de door de NZa goedgekeurde begroting toe te rekenen aan de bbaz. De begroting en het percentage dat hiervoor als uitgangspunt moet worden gebruikt dient de ontvanger jaarlijks af te stemmen met de NZa.
+
+- 4. Van de gerealiseerde kosten is het de ontvanger niet toegestaan om kosten op te nemen die reeds vergoed worden via een andere subsidie- of overige opbrengstenstroom.
 
 ### 6. Controleverklaring bij het verantwoordingsformulier
 
-Bij het verantwoordingsformulier zoals gespecificeerd in paragraaf 4.2.1.1. onder a dient de ontvanger een controleverklaring aan te leveren zoals gespecificeerd in het Controleprotocol Beschikbaarheidbijdrage academische zorg – Compartiment 2.
+Bij het verantwoordingsformulier zoals gespecificeerd in [paragraaf 4.2.1.1. onder a](https://wetten.overheid.nl/BWBR0052503) dient de ontvanger een controleverklaring aan te leveren zoals gespecificeerd in het Controleprotocol Beschikbaarheidbijdrage academische zorg – Compartiment 2.
 
 ### 7. Intrekken en vervallen oude regeling
 
@@ -79,14 +109,16 @@ Gelijktijdig met de inwerkingtreding van de Regeling Verantwoording bbaz 2025 co
 
 ### 8. Toepasselijkheid voorgaande regeling, bekendmaking, inwerkingtreding en citeertitel
 
+Toepasselijkheid voorgaande regeling
+
 De [Regeling Verantwoording bbaz 2024 compartiment 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051059), blijft van toepassing op gedragingen (handelen en nalaten) van zorgaanbieders die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
+
+Inwerkingtreding / bekendmaking
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de regeling ingevolge [artikel 5, aanhef en onder d, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5) wordt geplaatst.
 
 De regeling ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl).
 
+Citeertitel
+
 Deze regeling wordt aangehaald als: Regeling verantwoording bbaz 2025 compartiment 2.
-
-## Bijlage 1. Controleprotocol compartiment 2 bbaz 2025
-
-Gepubliceerd op [www.nza.nl](http://www.nza.nl).

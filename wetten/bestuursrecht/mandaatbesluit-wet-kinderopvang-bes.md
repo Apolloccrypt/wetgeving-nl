@@ -1,48 +1,18 @@
 ---
 title: "Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 10 december 2025, nr. 2025-0000280468, tot het verlenen van mandaat en machtiging aan de Inspecteur-Generaal van de Inspectie van het Onderwijs tot het opleggen van een tijdelijk verbod tot exploitatie en het opstellen van een advies inzake het schorsen of intrekken van een vergunning als bedoeld in de Wet kinderopvang BES (Mandaatbesluit Wet kinderopvang BES)"
+citeertitel: "Mandaatbesluit Wet kinderopvang BES"
 identifier: "BWBR0052105"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-01-03"
-last_updated: "2026-01-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052105"
+categorie: "Bestuursrecht"
 soort: "ministeriele-regeling"
-stam_id: "17720813"
-version_id: "31275452"
-internal_id: "C44717201"
-label_id: "17619374"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052105/2026-01-03/0"
-intitule_bron: "Stcrt.2026-29"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-12-10"
-intitule_published: "2026-01-02"
-intitule_in_force: "2026-01-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-29"
-original_signed_date: "2025-12-10"
-original_published_date: "2026-01-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-29"
-entry_into_force_date: "2026-01-03"
-jci_1_3: "jci1.3:c:BWBR0052105&z=2026-01-03&g=2026-01-03"
-jci_1_0: "1.0:c:BWBR0052105&g=2026-01-03"
-citeertitel_status: "officieel"
-short_title: "Mandaatbesluit Wet kinderopvang BES"
-signed_date: "2025-12-10"
-entry_into_force: "2026-01-03"
+publicatiedatum: 2026-01-03
+laatste_update: 2026-01-03
+status: geldig
+toestand: 2026-01-03
+bron: "https://wetten.overheid.nl/BWBR0052105"
+opgehaald: 2026-09-10
 ---
+
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 10 december 2025, nr. 2025-0000280468, tot het verlenen van mandaat en machtiging aan de Inspecteur-Generaal van de Inspectie van het Onderwijs tot het opleggen van een tijdelijk verbod tot exploitatie en het opstellen van een advies inzake het schorsen of intrekken van een vergunning als bedoeld in de Wet kinderopvang BES (Mandaatbesluit Wet kinderopvang BES)
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) en [10:4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4) en [artikel 5.13 van de Wet kinderopvang BES](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=5.13),
-
-**Handelende met instemming van de Minister van Onderwijs, Cultuur en Wetenschap,**
-
-**Gezien de schriftelijke instemming van de Inspecteur-Generaal van de Inspectie van het Onderwijs van 2 december 2025.**
-
-**BESLUIT:**
 
 ##### Artikel 1. Mandaat- en machtiging verlening
 
@@ -62,17 +32,17 @@ De Inspecteur-Generaal van de Inspectie van het Onderwijs en de onder hem ressor
 
 De Staatssecretaris van Sociale Zaken en Werkgelegenheid,
 
-**namens deze,**
+*namens deze,*
 
-**[handtekening van de (onder)gemandateerde functionaris]**
+*[handtekening van de (onder)gemandateerde functionaris]*
 
-**[naam van de (onder)gemandateerde functionaris],**
+*[naam van de (onder)gemandateerde functionaris],*
 
-**[functie van de (onder)gemandateerde functionaris].**
+*[functie van de (onder)gemandateerde functionaris].*
 
 ##### Artikel 4. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst en werkt terug tot en met 1 januari 2026.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst en werkt terug tot en met 1 januari 2026.
 
 ##### Artikel 5. Citeertitel
 

@@ -1,36 +1,37 @@
 ---
-title: "Subsidieregeling CEWIN 2026"
+title: "Regeling van de Minister van Langdurige Zorg, Jeugd en Sport van 30 april 2026, kenmerk 4377537-1097784-DMO, houdende regels voor de subsidiering van activiteiten voor de collectieve erkenning van Indische, Molukse, Papoea en Chinees-Indonesische gemeenschappen in Nederland (Subsidieregeling CEWIN 2026) [KetenID WGK028397]"
+citeertitel: "Subsidieregeling CEWIN 2026"
 identifier: "BWBR0052601"
 categorie: "Overig"
+soort: "ministeriele-regeling"
 publicatiedatum: 2026-05-05
-laatste_update: 2026-05-06
+laatste_update: 2026-05-05
 status: geldig
+toestand: 2026-05-05
 bron: "https://wetten.overheid.nl/BWBR0052601"
+opgehaald: 2026-09-10
 ---
 
 # Regeling van de Minister van Langdurige Zorg, Jeugd en Sport van 30 april 2026, kenmerk 4377537-1097784-DMO, houdende regels voor de subsidiering van activiteiten voor de collectieve erkenning van Indische, Molukse, Papoea en Chinees-Indonesische gemeenschappen in Nederland (Subsidieregeling CEWIN 2026) [KetenID WGK028397]
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **contextgebonden zorg:** zorg die uitgaat van een cultuursensitieve benadering en waarbij rekening gehouden wordt met persoonlijke oorlogs- en geweldservaringen;
+- *contextgebonden zorg:* zorg die uitgaat van een cultuursensitieve benadering en waarbij rekening gehouden wordt met persoonlijke oorlogs- en geweldservaringen;
 
-- **de-minimisverklaring:** verklaring als bedoeld in artikel 7, vierde lid, van de de-minimisverordening;
+- *de-minimisverklaring:* verklaring als bedoeld in artikel 7, vierde lid, van de de-minimisverordening;
 
-- **de-minimisverordening:** [Verordening (EU) nr. 2023/2831](32023R2831) van de Commissie van 13 december 2023 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun;
+- *de-minimisverordening:*
+ Verordening (EU) nr. 2023/2831 van de Commissie van 13 december 2023 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun;
 
-- **educatief materiaal:** hulpmiddelen en leermiddelen om kennisoverdracht bij leerlingen en scholieren te ondersteunen;
+- *educatief materiaal:* hulpmiddelen en leermiddelen om kennisoverdracht bij leerlingen en scholieren te ondersteunen;
 
-- **huisvestingslasten:** kosten voor huur, rente en afschrijvingen;
+- *huisvestingslasten:* kosten voor huur, rente en afschrijvingen;
 
-- **minister:** Minister van Langdurige Zorg, Jeugd en Sport;
+- *minister:* Minister van Langdurige Zorg, Jeugd en Sport;
 
-- **omroepprogramma’s:** films of documentaires ontwikkeld door of in samenwerking met de Nederlandse publieke of commerciële oproep.
+- *omroepprogramma’s:* films of documentaires ontwikkeld door of in samenwerking met de Nederlandse publieke of commerciële oproep.
 
 ##### Artikel 2. Doel van de regeling
 
@@ -68,15 +69,15 @@ Deze regeling heeft als doel om initiatieven aan te moedigen uit de Indische, Mo
 
 ##### Artikel 6. Hoogte van de subsidie en subsidiabele bedrag
 
-1. De subsidie bedraagt ten hoogste € 20.000 per jaar met een maximum van € 40.000 over een periode van twee jaar.
+1. De subsidie bedraagt ten hoogste € 20.000 per jaar met een maximum van € 40.000 over een periode van twee jaar.
 
-2. Subsidies van minder dan € 6.000 worden niet verstrekt.
+2. Subsidies van minder dan € 6.000 worden niet verstrekt.
 
 3. Subsidie wordt enkel verstrekt indien het bedrag voor reis- en verblijfskosten niet hoger is dan 10% van het totale subsidiabele bedrag.
 
 ##### Artikel 7. Subsidieplafond en wijze van verdeling
 
-1. Het subsidieplafond bedraagt voor het jaar 2026 € 500.000.
+1. Het subsidieplafond bedraagt voor het jaar 2026 € 500.000.
 
 2. De minister verdeelt het ingevolge het subsidieplafond beschikbare bedrag door middel van loting.
 
@@ -86,7 +87,7 @@ Deze regeling heeft als doel om initiatieven aan te moedigen uit de Indische, Mo
 
 2. De aanvrager gebruikt door de minister vastgestelde formulieren voor de aanvraag tot verlening, de begroting, het activiteitenplan en de de-minimisverklaring.
 
-3. De aanvraag tot verlening voor het subsidiejaar 2026 kan worden ingediend in de periode van maandag 1 juni 2026 9.00 uur tot en met vrijdag 26 juni 2026 13.00 uur.
+3. De aanvraag tot verlening voor het subsidiejaar 2026 kan worden ingediend in de periode van maandag 1 juni 2026 9.00 uur tot en met vrijdag 26 juni 2026 13.00 uur.
 
 4. De minister besluit binnen dertien weken na afloop van de periode waarin aanvragen kunnen worden ingediend.
 
@@ -104,9 +105,9 @@ De activiteiten starten uiterlijk 6 maanden na afloop van de in [artikel 8, derd
 
 ##### Artikel 11. Vaststelling bij subsidies boven de € 25.000
 
-1. Indien een verleende subsidie € 25.000 of meer bedraagt, vraagt de aanvrager vaststelling van de subsidie aan binnen 22 weken na afloop van het boekjaar waarvoor de subsidie is verleend.
+1. Indien een verleende subsidie € 25.000 of meer bedraagt, vraagt de aanvrager vaststelling van de subsidie aan binnen 22 weken na afloop van het boekjaar waarvoor de subsidie is verleend.
 
-2. De aanvrager toont bij een subsidie van meer dan € 25.000 aan de hand van een verklaring inzake werkelijke kosten en opbrengsten aan dat de activiteiten zijn verricht en dat is voldaan aan de verleende subsidie verbonden verplichtingen.
+2. De aanvrager toont bij een subsidie van meer dan € 25.000 aan de hand van een verklaring inzake werkelijke kosten en opbrengsten aan dat de activiteiten zijn verricht en dat is voldaan aan de verleende subsidie verbonden verplichtingen.
 
 ##### Artikel 12. Hardheidsclausule
 
@@ -118,6 +119,4 @@ Deze regeling wordt aangehaald als: Subsidieregeling CEWIN 2026.
 
 ##### Artikel 14. Inwerkingtreding en vervaldatum
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte in de Staatscourant waarin deze regeling wordt geplaatst en vervalt met ingang van 1 januari 2031.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte in de Staatscourant waarin deze regeling wordt geplaatst en vervalt met ingang van 1 januari 2031.

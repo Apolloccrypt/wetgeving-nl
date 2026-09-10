@@ -8,7 +8,7 @@ laatste_update: 2026-01-31
 status: geldig
 toestand: 2026-01-31
 bron: "https://wetten.overheid.nl/BWBR0049193"
-opgehaald: 2026-09-09
+opgehaald: 2026-09-10
 ---
 
 # Kavelbesluit kavel Alpha windenergiegebied IJmuiden Ver

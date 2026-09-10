@@ -1,50 +1,52 @@
 ---
 title: "Regeling aanlevering declaratiegegevens door ziektekostenverzekeraars"
 identifier: "BWBR0052586"
-categorie: "Overig"
+categorie: "Financieel recht"
+soort: "zbo"
 publicatiedatum: 2026-04-30
-laatste_update: 2026-05-02
+laatste_update: 2026-04-30
 status: geldig
+toestand: 2026-04-30
 bron: "https://wetten.overheid.nl/BWBR0052586"
+opgehaald: 2026-09-10
 ---
 
 # Regeling aanlevering declaratiegegevens door ziektekostenverzekeraars
-
-Gelet op [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62) jo. [65](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=65) en [artikel 68 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68) (Wmg) is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van informatieverstrekking door ziektekostenverzekeraars aan de NZa.
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
-- **BSN:** burgerservicenummer als bedoeld in de [Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428);
+- *BSN:* burgerservicenummer als bedoeld in de [Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428);
 
-- **Declaratiegegevens:** informatie-elementen over de declaratie;
+- *Declaratiegegevens:* informatie-elementen over de declaratie;
 
-- **Declaratieset:** set met declaratiegegevens en/of set met verzekerdengegevens en/of set met gegevens betreffende het persoonsgebonden budget als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052586&artikel=4&z=2026-04-30&g=2026-04-30) van deze regeling;
+- *Declaratieset:* set met declaratiegegevens en/of set met verzekerdengegevens en/of set met gegevens betreffende het persoonsgebonden budget als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052586&artikel=4&z=2026-04-30&g=2026-04-30) van deze regeling;
 
-- **Gegevensaanleverstandaard:** procesbeschrijving waarin op uniforme wijze is vastgelegd hoe en volgens welk proces de declaratieset moet worden ingediend bij de NZa;
+- *Gegevensaanleverstandaard:* procesbeschrijving waarin op uniforme wijze is vastgelegd hoe en volgens welk proces de declaratieset moet worden ingediend bij de NZa;
 
-- **Informatie-elementen:** de data die de NZa uitvraagt op item niveau;
+- *Informatie-elementen:* de data die de NZa uitvraagt op item niveau;
 
-- **NZa:** Nederlandse Zorgautoriteit als bedoeld in [artikel 1 lid 1 sub l van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1);
+- *NZa:* Nederlandse Zorgautoriteit als bedoeld in [artikel 1 lid 1 sub l van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1);
 
-- **Gegevens betreffende het persoonsgebonden budget (pgb):** informatie-elementen over het persoonsgebonden budget;
+- *Gegevens betreffende het persoonsgebonden budget (pgb):* informatie-elementen over het persoonsgebonden budget;
 
-- **Privacy Verzend Module (PVM):** software waarmee privacygevoelige databestanden via ZorgTTP op een beveiligde manier verstuurd kunnen worden aan de NZa;
+- *Privacy Verzend Module (PVM):* software waarmee privacygevoelige databestanden via ZorgTTP op een beveiligde manier verstuurd kunnen worden aan de NZa;
 
-- **Schadelast:** schadebedrag behorend bij de declaraties met betrekking tot de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), aanvullende verzekeringen en de [Wet langdurende zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
+- *Schadelast:* schadebedrag behorend bij de declaraties met betrekking tot de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), aanvullende verzekeringen en de [Wet langdurende zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
-- **Vektis:** uitvoeringsorgaan van Zorgverzekeraars Nederland welke voor de ziektekostenverzekeraars declaratiegegevens verwerkt;
+- *Vektis:* uitvoeringsorgaan van Zorgverzekeraars Nederland welke voor de ziektekostenverzekeraars declaratiegegevens verwerkt;
 
-- **Verzekerdengegevens:** informatie-elementen over verzekerden over wie declaraties zijn ingediend bij de ziektekostenverzekeraars;
+- *Verzekerdengegevens:* informatie-elementen over verzekerden over wie declaraties zijn ingediend bij de ziektekostenverzekeraars;
 
-- **Wmg:** [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+- *Wmg:*
+ [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
 
-- **Zorgaanbieder:** zorgaanbieder als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1);
+- *Zorgaanbieder:* zorgaanbieder als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1);
 
-- **ZorgTTP:** Onafhankelijke derde partij die voor de NZa de pseudonimisering uitvoert van aangeleverde declaratiegegevens;
+- *ZorgTTP:* Onafhankelijke derde partij die voor de NZa de pseudonimisering uitvoert van aangeleverde declaratiegegevens;
 
-- **Ziektekostenverzekeraar(s):** ziektekostenverzekeraar(s) als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
+- *Ziektekostenverzekeraar(s):* ziektekostenverzekeraar(s) als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
 
 ##### Artikel 2. Doel van de regeling
 
@@ -52,103 +54,103 @@ Deze regeling verplicht ziektekostenverzekeraars periodiek declaratiegegevens bi
 
 ##### Artikel 3. Reikwijdte
 
-Deze regeling is van toepassing op ziektekostenverzekeraars als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052586&artikel=1&z=2026-04-30&g=2026-04-30) van deze regeling.
+Deze regeling is van toepassing op ziektekostenverzekeraars als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052586&artikel=1&z=2026-04-30&g=2026-04-30) van deze regeling.
 
 ##### Artikel 4. Declaratieset
 
 1. De navolgende declaratiesets worden onderscheiden:
 
-- –. verzekerdengegevens;
+- – verzekerdengegevens;
 
-- –. declaratieset BASIC;
+- – declaratieset BASIC;
 
-- –. declaratieset dure geneesmiddelen;
+- – declaratieset dure geneesmiddelen;
 
-- –. declaratieset farmaceutische zorg;
+- – declaratieset farmaceutische zorg;
 
-- –. declaratieset geestelijke gezondheidszorg;
+- – declaratieset geestelijke gezondheidszorg;
 
-- –. declaratieset huisartsenzorg en ketenzorg;
+- – declaratieset huisartsenzorg en ketenzorg;
 
-- –. declaratieset hulpmiddelen;
+- – declaratieset hulpmiddelen;
 
-- –. declaratieset kraamzorg en integrale geboortezorg;
+- – declaratieset kraamzorg en integrale geboortezorg;
 
-- –. declaratieset langdurige zorg;
+- – declaratieset langdurige zorg;
 
-- –. declaratieset mondzorg;
+- – declaratieset mondzorg;
 
-- –. declaratieset mondzorg [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
+- – declaratieset mondzorg [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
-- –. declaratieset medisch-specialistische zorg;
+- – declaratieset medisch-specialistische zorg;
 
-- –. declaratieset paramedische hulp;
+- – declaratieset paramedische hulp;
 
-- –. declaratieset verloskunde;
+- – declaratieset verloskunde;
 
-- –. declaratieset vervoer;
+- – declaratieset vervoer;
 
-- –. declaratieset wijkverpleging, zintuiglijk gehandicaptenzorg, eerstelijnsverblijf, geneeskundige zorg aan specifieke patiëntgroepen en [Wet zorg en dwang](https://wetten.overheid.nl/jci1.3:c:BWBR0040632);
+- – declaratieset wijkverpleging, zintuiglijk gehandicaptenzorg, eerstelijnsverblijf, geneeskundige zorg aan specifieke patiëntgroepen en [Wet zorg en dwang](https://wetten.overheid.nl/jci1.3:c:BWBR0040632);
 
-- –. bedragen toegekend persoonsgebonden budget.
+- – bedragen toegekend persoonsgebonden budget.
 
-De informatie-elementen die in een declaratieset zijn opgenomen worden in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052586&bijlage=1&z=2026-04-30&g=2026-04-30) (Overzicht informatie-elementen) bij deze regeling gespecificeerd. Bijlage 1 is een integraal onderdeel van deze regeling.
+De informatie-elementen die in een declaratieset zijn opgenomen worden in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052586&bijlage=1&z=2026-04-30&g=2026-04-30) (Overzicht informatie-elementen) bij deze regeling gespecificeerd. Bijlage 1 is een integraal onderdeel van deze regeling.
 
 2. Voordat een declaratieset met BSN informatie-elementen aan de NZa wordt aangeleverd wordt het BSN gepseudonimiseerd. Pseudonimisering gebeurt door bestanden aan ZorgTTP te versturen middels de daarvoor ingerichte Privacy Verzend Module van ZorgTTP.
 
 ##### Artikel 5. Aanlevering declaratieset
 
-1. **Aanleverplicht declaratieset**
+1. *Aanleverplicht declaratieset*
 
 De ziektekostenverzekeraar is verplicht, al dan niet door tussenkomst van een derde partij als Vektis, van alle gedeclareerde prestaties die worden gerekend tot de schadelast, de declaratieset aan de NZa aan te leveren.
 
-2. **Frequentie aanlevering**
+2. *Frequentie aanlevering*
 
-De in dit lid genoemde declaratiesets worden per kwartaal binnen 2 maanden na afloop van het betreffende kwartaal aan de NZa aangeleverd:
+De in dit lid genoemde declaratiesets worden per kwartaal binnen 2 maanden na afloop van het betreffende kwartaal aan de NZa aangeleverd:
 
-- –. verzekerdengegevens;
+- – verzekerdengegevens;
 
-- –. declaratieset BASIC;
+- – declaratieset BASIC;
 
-- –. declaratieset dure geneesmiddelen;
+- – declaratieset dure geneesmiddelen;
 
-- –. declaratieset farmaceutische zorg;
+- – declaratieset farmaceutische zorg;
 
-- –. declaratieset huisartsenzorg en ketenzorg;
+- – declaratieset huisartsenzorg en ketenzorg;
 
-- –. declaratieset hulpmiddelen;
+- – declaratieset hulpmiddelen;
 
-- –. declaratieset kraamzorg en integrale geboortezorg;
+- – declaratieset kraamzorg en integrale geboortezorg;
 
-- –. declaratieset langdurige zorg;
+- – declaratieset langdurige zorg;
 
-- –. declaratieset mondzorg;
+- – declaratieset mondzorg;
 
-- –. declaratieset mondzorg [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
+- – declaratieset mondzorg [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
 
-- –. declaratieset medisch-specialistische zorg;
+- – declaratieset medisch-specialistische zorg;
 
-- –. declaratieset paramedische hulp;
+- – declaratieset paramedische hulp;
 
-- –. declaratieset verloskunde;
+- – declaratieset verloskunde;
 
-- –. declaratieset vervoer;
+- – declaratieset vervoer;
 
-- –. declaratieset wijkverpleging, zintuiglijk gehandicaptenzorg, eerstelijnsverblijf, geneeskundige zorg aan specifieke patiëntgroepen en [Wet zorg en dwang](https://wetten.overheid.nl/jci1.3:c:BWBR0040632);
+- – declaratieset wijkverpleging, zintuiglijk gehandicaptenzorg, eerstelijnsverblijf, geneeskundige zorg aan specifieke patiëntgroepen en [Wet zorg en dwang](https://wetten.overheid.nl/jci1.3:c:BWBR0040632);
 
-- –. bedragen toegekend persoonsgebonden budget.
+- – bedragen toegekend persoonsgebonden budget.
 
-3. De in dit lid genoemde declaratiesets worden maandelijks binnen 1 maand na afloop van de betreffende kalendermaand aan de NZa aangeleverd:
+3. De in dit lid genoemde declaratiesets worden maandelijks binnen 1 maand na afloop van de betreffende kalendermaand aan de NZa aangeleverd:
 
-- –. declaratieset geestelijke gezondheidszorg.
+- – declaratieset geestelijke gezondheidszorg.
 
-4. **Omvang aanlevering**
+4. *Omvang aanlevering*
 
 Iedere declaratieset bevat de declaratiegegevens en/of verzekerdengegevens en /of gegevens betreffende het persoonsgebonden budget over zowel het lopende jaar (t) als het jaar daarvoor (t-1). De declaratieset over het eerste kwartaal van jaar (t) bevat ook gegevens over het jaar (t-2). De declaratieset medisch-specialistische zorg bevat gegevens over het lopende jaar (t), jaar (t-1) en jaar (t-2).
 
 ##### Artikel 6. Wijze van aanlevering
 
-1. De aanlevering bij de NZa vindt uitsluitend plaats op een wijze die voldoet aan gegevensaanleverstandaard als opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052586&bijlage=2&z=2026-04-30&g=2026-04-30) (gegevensaanleverstandaard).
+1. De aanlevering bij de NZa vindt uitsluitend plaats op een wijze die voldoet aan gegevensaanleverstandaard als opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052586&bijlage=2&z=2026-04-30&g=2026-04-30) (gegevensaanleverstandaard).
 
 2. De aangeleverde declaratieset(s) wordt/worden, indien ingediend via ZorgTTP, via de Privacy Verzend Module gecontroleerd of de ingediende declaratieset kan worden verwerkt door ZorgTTP.
 
@@ -162,18 +164,16 @@ Gelijktijdig met de inwerkingtreding van deze regeling wordt de [Regeling aanlev
 
 ##### Artikel 8. Toepasselijkheid voorafgaande regeling, inwerkingtreding/bekendmaking en citeertitel
 
+Toepasselijkheid voorafgaande regeling
+
 De [Regeling aanlevering declaratiegegevens door ziektekostenverzekeraars, met kenmerk NR/REG-2425](https://wetten.overheid.nl/jci1.3:c:BWBR0050285), blijft van toepassing op gedragingen (handelen en nalaten) van zorgverzekeraars die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de regeling ingevolge [artikel 5, aanhef en onder d, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5) wordt geplaatst.
+Inwerkingtreding/ Bekendmaking
+
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de regeling ingevolge [artikel 5, aanhef en onder d, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5) wordt geplaatst.
 
 De regeling ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl).
 
+Citeertitel
+
 Deze regeling wordt aangehaald als: Regeling aanlevering declaratiegegevens door ziektekostenverzekeraars.
-
-## Bijlage 1. Overzicht informatie-elementen
-
-Niet opgenomen.
-
-## Bijlage 2. Gegevensaanleverstandaard
-
-Niet opgenomen.

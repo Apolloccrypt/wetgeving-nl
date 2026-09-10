@@ -2,17 +2,16 @@
 title: "Besluit routinematige vervanging archiefbescheiden Raad voor Rechtsbijstand 2026"
 identifier: "BWBR0052618"
 categorie: "Sociaal recht"
+soort: "zbo"
 publicatiedatum: 2026-05-19
-laatste_update: 2026-05-20
+laatste_update: 2026-05-19
 status: geldig
+toestand: 2026-05-19
 bron: "https://wetten.overheid.nl/BWBR0052618"
+opgehaald: 2026-09-10
 ---
 
 # Besluit routinematige vervanging archiefbescheiden Raad voor Rechtsbijstand 2026
-
-Gelet op [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7), [artikel 6, lid 1 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=6) en [artikel 26b van de Archiefregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=26b).
-
-Besluit:
 
 ##### Artikel 1. Vervangen en vernietigen van de archiefbescheiden
 

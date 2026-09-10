@@ -1,39 +1,17 @@
 ---
 title: "Besluit van de Staatssecretaris van Financiën van 20 januari 2026, nr. 2025-15294, over de verantwoordelijkheid, taakomschrijving, werkterrein en werkwijze van de Coördinatiegroep verrekenprijzen (Instelbesluit CGVP 2026)"
+citeertitel: "Instelbesluit CGVP 2026"
 identifier: "BWBR0052264"
-country: "nl"
-rank: "beleidsregel"
-publication_date: "2026-02-03"
-last_updated: "2026-02-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052264"
+categorie: "Overig"
 soort: "beleidsregel"
-stam_id: "17752973"
-version_id: "31364872"
-internal_id: "C44822621"
-label_id: "17651394"
-dtd_version: "2.0"
-original_entry_into_force: "2026-02-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052264/2026-02-03/0"
-intitule_bron: "Stcrt.2026-2199"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2026-01-20"
-intitule_published: "2026-02-02"
-intitule_in_force: "2026-02-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-2199"
-original_signed_date: "2026-01-20"
-original_published_date: "2026-02-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-2199"
-entry_into_force_date: "2026-02-03"
-jci_1_3: "jci1.3:c:BWBR0052264&z=2026-02-03&g=2026-02-03"
-jci_1_0: "1.0:c:BWBR0052264&g=2026-02-03"
-citeertitel_status: "officieel"
-short_title: "Instelbesluit CGVP 2026"
-signed_date: "2026-01-20"
-entry_into_force: "2026-02-03"
+publicatiedatum: 2026-02-03
+laatste_update: 2026-02-03
+status: geldig
+toestand: 2026-02-03
+bron: "https://wetten.overheid.nl/BWBR0052264"
+opgehaald: 2026-09-10
 ---
+
 # Besluit van de Staatssecretaris van Financiën van 20 januari 2026, nr. 2025-15294, over de verantwoordelijkheid, taakomschrijving, werkterrein en werkwijze van de Coördinatiegroep verrekenprijzen (Instelbesluit CGVP 2026)
 
 Gelet op [artikel 4.81 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en voor zover het de uitleg en toepassing van het arm’s-lengthbeginsel betreft: de [artikelen 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8b), [8ba-8bd](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8ba), [29b-29h](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29b), [34f](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=34f), [34g](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=34g) en [35 Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=35) en de [Wet Minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111);
@@ -44,31 +22,81 @@ Besluit:
 
 Binnen de Belastingdienst is de Coördinatiegroep Verrekenprijzen (CGVP) actief. Dit besluit bevat de verantwoordelijkheid, de taakomschrijving, het werkterrein en de werkwijze van de CGVP.
 
-Het besluit is een actualisatie van het [besluit van 30 april 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040891), nr. DGB20018/4380. Het besluit is aangepast als gevolg van een uitbreiding van de verantwoordelijkheid van de CGVP met het borgen van de eenheid van beleid en uitvoering van de uitleg en toepassing van het arm’s-Lengthbeginsel in:
+Het besluit is een actualisatie van het [besluit van 30 april 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040891), nr. DGB20018/4380. Het besluit is aangepast als gevolg van een uitbreiding van de verantwoordelijkheid van de CGVP met het borgen van de eenheid van beleid en uitvoering van de uitleg en toepassing van het arm’s-Lengthbeginsel in:
+
+- i) de wet- en regelgeving over het tegengaan van mismatches bij toepassing van het arm’s-lengthbeginsel ([artikel 8ba-8bd](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8ba) en [35 Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=35)) en
+
+- ii) de [Wet Minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111).
 
 Daarnaast bevat het besluit een redactionele modernisering. Hiermee is geen inhoudelijke wijziging beoogd.
 
 ### 1.1. Gebruikte begrippen en afkortingen
 
+| Behandelteam IFZ | Behandelteam Internationale Fiscale Zekerheid |
+| --- | --- |
+| CGVP | Coördinatiegroep verrekenprijzen |
+| Verrekenprijzen | Verrekenprijzen als bedoeld in artikel 8b Wet Vpb 1969 |
+| Wet Vpb 1969 | Wet op de vennootschapsbelasting 1969 |
+
 ### 2. Instelling CGVP
 
-De CGVP is ingesteld op 1 maart 1998 bij besluit van 23 maart 1998, nr. DGO98-2533.
+De CGVP is ingesteld op 1 maart 1998 bij besluit van 23 maart 1998, nr. DGO98-2533.
 
 ### 3. Verantwoordelijkheid van de CGVP
 
 De CGVP is binnen de Belastingdienst verantwoordelijk voor de eenheid van beleid en uitvoering van de wet- en regelgeving over de volgende onderwerpen:
 
+- − Verrekenprijzen als bedoeld in [artikel 8b Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8b). Hieronder wordt met name verstaan de uitleg en toepassing van het arm’s-lengthbeginsel in relatie tot transacties tussen gelieerde partijen en de winstallocatie tussen hoofdhuis en vaste inrichting.
+
+- − De aan verrekenprijzen gerelateerde (aanvullende) documentatieverplichtingen als bedoeld in de [artikelen 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8b), [29b-29h](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29b), [34f](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=34f), [34g Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=34g).
+
+- − Het tegengaan van mismatches bij toepassing van het zakelijkheidsbeginsel als bedoeld in de [artikelen 8ba-8bd](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8ba) en [35 van de Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=35) voor zover het de uitleg en toepassing van het arm’s-lengthbeginsel betreft.1De verantwoordelijkheid voor de uitleg van de artikelen 8ba-8bd en 35 van de Wet Vpb 1969 in het algemeen ligt bij de kennisgroep bijzondere winstbepalingen Vpb.
+
+- − De [Wet Minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111) voor zover het de uitleg en toepassing van het arm’s-lengthbeginsel betreft.2De verantwoordelijkheid voor de uitleg van de Wet Minimumbelasting 2024 in het algemeen ligt bij de sub-kennisgroep Pijler 2.
+
 ### 4. Taakomschrijving van de CGVP
 
-Ter uitoefening van haar verantwoordelijkheid heeft de CGVP de volgende taken met betrekking tot onderwerpen vermeld in onderdeel 3 voor zover het de uitleg en toepassing van het arm’s-lengthbeginsel betreft:
+Ter uitoefening van haar verantwoordelijkheid heeft de CGVP de volgende taken met betrekking tot onderwerpen vermeld in [onderdeel 3](https://wetten.overheid.nl/BWBR0052264) voor zover het de uitleg en toepassing van het arm’s-lengthbeginsel betreft:
+
+- − Het coördineren van de uitvoering van de wet- en regelgeving.
+
+- − Het functioneren als kenniscentrum binnen de Belastingdienst.
+
+- − Het zijn van aanspreekpunt voor de (kantoren van de) Belastingdienst en het Ministerie van Financiën.
+
+- − Het adviseren en ondersteunen van het Directoraat-generaal Belastingdienst en het Directoraat-generaal Fiscale Zaken over het landelijke beleid.
+
+- − Het adviseren en ondersteunen van het Directoraat-generaal Belastingdienst en het Directoraat-generaal Fiscale Zaken bij internationaal overleg, internationale beleidsvorming, technische assistentie en onderwijs aan buitenlandse belastingautoriteiten en internationale organisaties.
+
+- − Het ondersteunen van de internationale gegevensuitwisseling, inclusief de analyse en beoordeling van de bij de internationale gegevensuitwisseling ontvangen informatie (waaronder landenrapporten).
+
+- − Het in voorkomende gevallen adviseren en ondersteunen van de Nederlandse bevoegde autoriteit voor het voeren van Mutual agreement procedures.3Zie Besluit Onderlinge overlegprocedures onderdeel 5.3.
 
 ### 5. Werkterrein van de CGVP
 
 Het werkterrein van de CGVP betreft onder meer (geen limitatieve opsomming) de beoordeling of de uitvoering van:
 
+- − de onderwerpen die worden benoemd in het [Verrekenprijsbesluit 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046839) en alle opvolgende versies;
+
+- − transacties tussen gelieerde lichamen waarbij een standpuntbepaling precedentwerking kan hebben of opgevat kan worden als (een begin van) beleid;
+
+- − transacties tussen gelieerde lichamen die mogelijk kunnen leiden tot grondslaguitholling of winstverschuiving;
+
+- − verrekenprijsonderzoeken, zowel wanneer transacties met binnenlandse als met buitenlandse concernonderdelen plaatsvinden (waaronder begrepen de beslissing wel of geen onderzoek in te stellen);
+
+- − overdrachten van activiteiten, activa (waaronder immateriële vaste activa) en passiva binnen concernverband, waaronder zogenaamde ‘business restructurings’, inclusief de daarbij behorende waarderingsproblematiek;
+
+- − verzoeken van belastingplichtigen aan de inspecteur om een corresponderende correctie op het gebied van verrekenprijzen aan te brengen naar aanleiding van een (voorgenomen) correctie die aangebracht is bij een gelieerd lichaam in een andere Staat;
+
+- − verzoeken om zekerheid vooraf over de omvang van de documentatieverplichting van [art. 8b, derde lid Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8b);
+
+- − vragen over de uitleg of interpretatie van [artikel 29b-29h](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29b), [34f](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=34f), [34g Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=34g) over aanvullende documentatieverplichtingen (landenrapport, groepsdossier en lokaal dossier). Daarnaast beoordeelt de CGVP deze documentatie;
+
+- − toepassing van de [artikelen 8ba-8bd](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8ba) en [35 Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=35) en de [Wet Minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111), voor zover het de uitleg en toepassing van het arm’s-lengthbeginsel betreft.
+
 ### 6. Werkwijze van de CGVP
 
-Medewerkers van de Belastingdienst melden bij de CGVP gevallen waarbij een standpuntbepaling precedentwerking kan hebben of opgevat kan worden als (een begin van) beleid en de gevallen een relatie hebben met de verantwoordelijkheid van de CGVP (zie onderdeel 3) in het algemeen of haar werkterrein (zie onderdeel 5) in het bijzonder. De CGVP ondersteunt de medewerkers bij de behandeling van het aangemelde geval en geeft zo nodig bindend advies.
+Medewerkers van de Belastingdienst melden bij de CGVP gevallen waarbij een standpuntbepaling precedentwerking kan hebben of opgevat kan worden als (een begin van) beleid en de gevallen een relatie hebben met de verantwoordelijkheid van de CGVP (zie [onderdeel 3](https://wetten.overheid.nl/BWBR0052264)) in het algemeen of haar werkterrein (zie [onderdeel 5](https://wetten.overheid.nl/BWBR0052264)) in het bijzonder. De CGVP ondersteunt de medewerkers bij de behandeling van het aangemelde geval en geeft zo nodig bindend advies.
 
 Een uitzondering op deze werkwijze geldt wanneer een geval onderdeel is van een verzoek tot vooroverleg waarvoor het Behandelteam IFZ is aangewezen als eerste behandelaar op grond van het [Besluit vooroverleg rulings met een internationaal karakter](https://wetten.overheid.nl/jci1.3:c:BWBR0042342). Bij een dergelijk geval stemt het Behandelteam IFZ met de CGVP de mogelijke beleidsmatige aspecten af die samenhangen met het verzoek en die nog niet eerder als beleid zijn gepubliceerd.
 
@@ -89,6 +117,8 @@ Het Country-by-Country Reporting team van de CGVP is te bereiken via: CBC-report
 ### 8. Ingetrokken regeling
 
 Het volgende besluit is ingetrokken met ingang van de inwerkingtreding van dit besluit:
+
+- − Het [besluit van 30 april 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040891), nr. 2018/4380 (Stcrt. 2018, 26876).
 
 ### 9. Inwerkingtreding
 

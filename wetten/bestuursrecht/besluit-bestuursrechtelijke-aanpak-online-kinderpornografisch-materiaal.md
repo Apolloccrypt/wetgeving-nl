@@ -1,30 +1,25 @@
 ---
-title: "Besluit bestuursrechtelijke aanpak online kinderpornografisch materiaal"
+title: "Besluit van 16 april 2026, houdende regels voor de openbaar te maken gegevens in geval van openbaarmaking van een bestuurlijke boete of last onder dwangsom en het behoud van kinderpornografisch materiaal, alsmede vaststelling van het tijdstip van inwerkingtreding van de artikelen 9 en 12 van de Wet bestuursrechtelijke aanpak online kinderpornografisch materiaal (Besluit bestuursrechtelijke aanpak online kinderpornografisch materiaal) [KetenID WGK027195]"
+citeertitel: "Besluit bestuursrechtelijke aanpak online kinderpornografisch materiaal"
 identifier: "BWBR0052573"
 categorie: "Bestuursrecht"
+soort: "AMvB"
 publicatiedatum: 2026-04-25
-laatste_update: 2026-04-30
+laatste_update: 2026-04-25
 status: geldig
+toestand: 2026-04-25
 bron: "https://wetten.overheid.nl/BWBR0052573"
+opgehaald: 2026-09-10
 ---
 
 # Besluit van 16 april 2026, houdende regels voor de openbaar te maken gegevens in geval van openbaarmaking van een bestuurlijke boete of last onder dwangsom en het behoud van kinderpornografisch materiaal, alsmede vaststelling van het tijdstip van inwerkingtreding van de artikelen 9 en 12 van de Wet bestuursrechtelijke aanpak online kinderpornografisch materiaal (Besluit bestuursrechtelijke aanpak online kinderpornografisch materiaal) [KetenID WGK027195]
-
-Op de voordracht van Onze Minister van Justitie en Veiligheid van 10 oktober 2025, directie Wetgeving en Juridische Zaken, nr. 6784255;
-
-Gelet op de [artikelen 9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&artikel=9), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&artikel=12) en [17 van de Wet bestuursrechtelijke aanpak voor online kinderpornografisch materiaal](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&artikel=17);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 10 december 2025, nr. W16.25.00308/II);
-
-Gezien het nader rapport van Onze Minister van Justitie en Veiligheid van 7 april 2026, directie Wetgeving en Juridische Zaken, nr. 7316212;
-
-Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
-- –. **wet:** [Wet bestuursrechtelijke aanpak online kinderpornografisch materiaal](https://wetten.overheid.nl/jci1.3:c:BWBR0049813).
+- – *wet:*
+ [Wet bestuursrechtelijke aanpak online kinderpornografisch materiaal](https://wetten.overheid.nl/jci1.3:c:BWBR0049813).
 
 ##### Artikel 2. Plaats en duur openbaarmaking
 
@@ -52,7 +47,7 @@ De Autoriteit beëindigt de plaatsing van de beschikking, bedoeld in [artikel 2,
 
 1. De Autoriteit bewaart het kinderpornografisch materiaal waarover zij de beschikking heeft gekregen in het kader van de uitvoering van de taken, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&artikel=2), en de daarbij behorende persoonsgegevens, waaronder de gegevens, bedoeld in [artikel 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&artikel=10), voor zover die gegevens noodzakelijk zijn in verband met de strafvordering of de bestuursrechtelijke procedure, niet langer dan voor die doeleinden noodzakelijk is en ieder geval niet langer dan een jaar nadat een door de Autoriteit genomen besluit naar aanleiding van het betreffende kinderpornografisch materiaal onherroepelijk is geworden.
 
-2. De Autoriteit bewaart het kinderpornografisch materiaal waarover zij de beschikking heeft gekregen in het kader van de uitvoering van de taken, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&artikel=2), en de daarbij behorende persoonsgegevens, waaronder de gegevens, bedoeld in [artikel 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&artikel=10), voor zover die gegevens noodzakelijk zijn in verband met de taak, bedoeld in artikel 2, eerste lid, onder b, van de wet, niet langer dan voor die taak noodzakelijk en ieder geval niet langer dan 20 jaar.
+2. De Autoriteit bewaart het kinderpornografisch materiaal waarover zij de beschikking heeft gekregen in het kader van de uitvoering van de taken, bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&artikel=2), en de daarbij behorende persoonsgegevens, waaronder de gegevens, bedoeld in [artikel 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049813&artikel=10), voor zover die gegevens noodzakelijk zijn in verband met de taak, bedoeld in artikel 2, eerste lid, onder b, van de wet, niet langer dan voor die taak noodzakelijk en ieder geval niet langer dan 20 jaar.
 
 3. Ten aanzien van de persoonsgegevens, bedoeld in het eerste en tweede lid, voorziet de Autoriteit in informatiebeveiligingsbeleid waarin is vastgelegd op welke wijze invulling wordt gegeven aan de daarvoor geldende normen, waaronder in ieder geval de meest recente door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties vastgestelde richtlijnen voor informatiebeveiliging bij de rijksoverheid.
 
@@ -69,5 +64,3 @@ De Autoriteit beëindigt de plaatsing van de beschikking, bedoeld in [artikel 2,
 ##### Artikel 7. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit bestuursrechtelijke aanpak online kinderpornografisch materiaal.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

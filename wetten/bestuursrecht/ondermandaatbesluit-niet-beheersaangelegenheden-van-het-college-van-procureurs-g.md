@@ -1,44 +1,18 @@
 ---
 title: "Besluit van het College van procureurs-generaal houdende verlening van ondermandaat, volmacht en machtiging ten aanzien van aangelegenheden van het Openbaar Ministerie die niet het beheer van het Openbaar Ministerie betreffen (Ondermandaatbesluit niet-beheersaangelegenheden van het College van procureurs-generaal 2017)"
+citeertitel: "Ondermandaatbesluit niet-beheersaangelegenheden van het College van procureurs-generaal 2026"
 identifier: "BWBR0052482"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-04-02"
-last_updated: "2026-04-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052482"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17824383"
-version_id: "31508152"
-internal_id: "C44993211"
-label_id: "17721654"
-dtd_version: "2.0"
-original_entry_into_force: "2026-04-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052482/2026-04-02/0"
-intitule_bron: "Stcrt.2026-12366"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2026-03-24"
-intitule_published: "2026-04-01"
-intitule_in_force: "2026-04-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-12366"
-original_signed_date: "2026-03-24"
-original_published_date: "2026-04-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-12366"
-entry_into_force_date: "2026-04-02"
-jci_1_3: "jci1.3:c:BWBR0052482&z=2026-04-02&g=2026-04-02"
-jci_1_0: "1.0:c:BWBR0052482&g=2026-04-02"
-citeertitel_status: "officieel"
-short_title: "Ondermandaatbesluit niet-beheersaangelegenheden van het College van procureurs-generaal 2026"
-signed_date: "2026-03-24"
-entry_into_force: "2026-04-02"
+publicatiedatum: 2026-04-02
+laatste_update: 2026-04-02
+status: geldig
+toestand: 2026-04-02
+bron: "https://wetten.overheid.nl/BWBR0052482"
+opgehaald: 2026-09-10
 ---
+
 # Besluit van het College van procureurs-generaal houdende verlening van ondermandaat, volmacht en machtiging ten aanzien van aangelegenheden van het Openbaar Ministerie die niet het beheer van het Openbaar Ministerie betreffen (Ondermandaatbesluit niet-beheersaangelegenheden van het College van procureurs-generaal 2017)
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9), en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12) en het [Mandaatbesluit niet-beheersaangelegenheden Openbaar Ministerie 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039392) (**Stcrt.** 2025, nr. 26092);
-
-Besluit:
 
 ##### Artikel 1. (de hoofdofficier van justitie en de hoofdadvocaat-generaal)
 
@@ -50,7 +24,7 @@ Besluit:
 
 - c. het beslissen op klachten als bedoeld in [titel 9.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1) ten aanzien van onder hen ressorterende medewerkers.
 
-2. Aan de hoofden van de parketten wordt volmacht verleend voor het toekennen van schadevergoeding ter hoogte van maximaal € 10.000,– naar aanleiding van buitengerechtelijke verzoeken om schadevergoeding in verband met strafvorderlijk optreden dat aan het Openbaar Ministerie kan worden toegerekend.
+2. Aan de hoofden van de parketten wordt volmacht verleend voor het toekennen van schadevergoeding ter hoogte van maximaal € 10.000,– naar aanleiding van buitengerechtelijke verzoeken om schadevergoeding in verband met strafvorderlijk optreden dat aan het Openbaar Ministerie kan worden toegerekend.
 
 3. Het ondermandaat en de volmacht ten aanzien van de in het eerste lid, onder a en b, en het tweede lid genoemde aangelegenheden kan slechts één hiërarchisch niveau worden doorgegeven.
 
@@ -160,7 +134,7 @@ Indien een krachtens mandaat te nemen besluit belangrijke politieke, bestuurlijk
 
 ##### Artikel 10
 
-Met inwerkingtreding van dit besluit wordt ingetrokken het [Ondermandaatbesluit niet-beheersaangelegenheden van het College van procureurs-generaal 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039928) van 21 augustus 2017.
+Met inwerkingtreding van dit besluit wordt ingetrokken het [Ondermandaatbesluit niet-beheersaangelegenheden van het College van procureurs-generaal 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039928) van 21 augustus 2017.
 
 ##### Artikel 11
 
@@ -169,5 +143,3 @@ Dit besluit treedt in werking de dag na bekendmaking in de Staatscourant.
 ##### Artikel 12
 
 Dit besluit wordt aangehaald als: Ondermandaatbesluit niet-beheersaangelegenheden van het College van procureurs-generaal 2026.
-
-Dit besluit zal met toelichting in de Staatscourant worden geplaatst.

@@ -9,7 +9,7 @@ status: vervallen
 vervallen_op: 2026-09-04
 toestand: 2018-01-01
 bron: "https://wetten.overheid.nl/BWBR0040215"
-opgehaald: 2026-09-09
+opgehaald: 2026-09-10
 ---
 
 # Beleidsregel toezichtkader zorgplicht zorgverzekeraars Zvw

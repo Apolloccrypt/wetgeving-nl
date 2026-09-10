@@ -1,56 +1,18 @@
 ---
 title: "Regeling van het bestuur van ZorgOnderzoek Nederland, houdende vaststelling van de Algemene subsidiebepalingen ZonMw (Algemene subsidiebepalingen ZonMw)"
+citeertitel: "Algemene Subsidiebepalingen ZonMw"
 identifier: "BWBR0052106"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-01-03"
-last_updated: "2026-01-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052106"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "17720933"
-version_id: "31276252"
-internal_id: "C44718051"
-label_id: "17620044"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052106/2026-01-03/0"
-intitule_bron: "Stcrt.2026-27"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-12-15"
-intitule_published: "2026-01-02"
-intitule_in_force: "2026-01-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-27"
-original_signed_date: "2025-12-15"
-original_published_date: "2026-01-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-27"
-entry_into_force_date: "2026-01-03"
-jci_1_3: "jci1.3:c:BWBR0052106&z=2026-01-03&g=2026-01-03"
-jci_1_0: "1.0:c:BWBR0052106&g=2026-01-03"
-citeertitel_status: "officieel"
-short_title: "Algemene Subsidiebepalingen ZonMw"
-signed_date: "2025-12-15"
-entry_into_force: "2026-01-03"
+publicatiedatum: 2026-01-03
+laatste_update: 2026-01-03
+status: geldig
+toestand: 2026-01-03
+bron: "https://wetten.overheid.nl/BWBR0052106"
+opgehaald: 2026-09-10
 ---
+
 # Regeling van het bestuur van ZorgOnderzoek Nederland, houdende vaststelling van de Algemene subsidiebepalingen ZonMw (Algemene subsidiebepalingen ZonMw)
-
-Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&artikel=3), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&artikel=9) en [11 van de Wet op de organisatie ZorgOnderzoek Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&artikel=11);
-
-Besluit vast te stellen de volgende Algemene subsidiebepalingen ZonMw:
-
-Deze Regeling bevat regels voor subsidiebesluiten die door of namens het bestuur van ZonMw worden genomen.
-
-Op de subsidiebesluiten van ZonMw is verder onder meer de volgende wet- en regelgeving van toepassing:
-
-de [Algemene wet Bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) (Awb);
-
-de geldende [Aanwijzingen voor Subsidieverstrekking](https://wetten.overheid.nl/jci1.3:c:BWBR0027023) en
-
-de geldende Nederlandse Gedragscode Wetenschappelijke Integriteit, de geldende Gedragscode Biosecurity, de geldende Code Openheid Dierproeven en de overige op de website van ZonMw [www.zonmw.nl](http://www.zonmw.nl) genoemde geldende gedragscodes.
-
-Deze Regeling kan buiten toepassing zijn ingeval ZonMw financieringsinstrumenten uitvoert die geheel of gedeeltelijk door een andere worden opdrachtgever gefinancierd. Dat is het geval wanneer dat met die andere partij is afgesproken en in de subsidieoproep wordt vermeld welke regels wel van toepassing zijn.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -58,63 +20,65 @@ Deze Regeling kan buiten toepassing zijn ingeval ZonMw financieringsinstrumenten
 
 In deze Algemene subsidiebepalingen ZonMw en de Toelichting behorende daarbij wordt verstaan onder:
 
-- **activiteit(en):** activiteit(en) verricht door een begunstigde ter verwezenlijking van de doelstellingen van ZonMw, met het oog waarop de subsidie kan worden verstrekt;
+- *activiteit(en):* activiteit(en) verricht door een begunstigde ter verwezenlijking van de doelstellingen van ZonMw, met het oog waarop de subsidie kan worden verstrekt;
 
-- **aanvrager:** een Nederlandse rechtspersoon of in geval van een persoonsgebonden subsidie een natuurlijk persoon die de subsidie aanvraagt en ontvangt, als bedoeld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0052106&hoofdstuk=1&artikel=1.3&z=2026-01-03&g=2026-01-03);
+- *aanvrager:* een Nederlandse rechtspersoon of in geval van een persoonsgebonden subsidie een natuurlijk persoon die de subsidie aanvraagt en ontvangt, als bedoeld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0052106&hoofdstuk=1&artikel=1.3&z=2026-01-03&g=2026-01-03);
 
-- **Awb:** [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- *Awb:*
+ [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- **bestuur:** het bestuur van ZonMw;
+- *bestuur:* het bestuur van ZonMw;
 
-- **cofinanciering:** bijdrage van een private of publieke partij, in natura of in geld, aan een door ZonMw gesubsidieerd project;
+- *cofinanciering:* bijdrage van een private of publieke partij, in natura of in geld, aan een door ZonMw gesubsidieerd project;
 
-- **incidentele subsidie:** buitenwettelijke subsidie in incidentele gevallen als bedoeld in [artikel 4:23, derde lid, onder d, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23);
+- *incidentele subsidie:* buitenwettelijke subsidie in incidentele gevallen als bedoeld in [artikel 4:23, derde lid, onder d, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23);
 
-- **Nederland:** het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint Eustatius en Saba en Aruba, Curaçao en Sint Maarten;
+- *Nederland:* het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint Eustatius en Saba en Aruba, Curaçao en Sint Maarten;
 
-- **penvoerder:** de door een samenwerkingsverband aangewezen penvoerende (rechts)persoon die deelneemt aan dat samenwerkingsverband;
+- *penvoerder:* de door een samenwerkingsverband aangewezen penvoerende (rechts)persoon die deelneemt aan dat samenwerkingsverband;
 
-- **programma:** een samenhangend geheel van projecten, experimenten, onderzoek en ontwikkeling op het gebied van gezondheid, preventie en zorg, gericht op praktijkvraagstukken; als bedoeld in de [Wet ZON](https://wetten.overheid.nl/jci1.3:c:BWBR0009385);
+- *programma:* een samenhangend geheel van projecten, experimenten, onderzoek en ontwikkeling op het gebied van gezondheid, preventie en zorg, gericht op praktijkvraagstukken; als bedoeld in de [Wet ZON](https://wetten.overheid.nl/jci1.3:c:BWBR0009385);
 
-- **project:** een in tijd en middelen begrensde activiteit of een samenhangend geheel van activiteiten, gericht op (een) specifiek eindresulta(a)t(en) en betrekking hebbend op de beleids- en praktijktoepassingen als bedoeld in de [Wet ZON](https://wetten.overheid.nl/jci1.3:c:BWBR0009385), uitgevoerd door éen of meerdere subsidieontvangers;
+- *project:* een in tijd en middelen begrensde activiteit of een samenhangend geheel van activiteiten, gericht op (een) specifiek eindresulta(a)t(en) en betrekking hebbend op de beleids- en praktijktoepassingen als bedoeld in de [Wet ZON](https://wetten.overheid.nl/jci1.3:c:BWBR0009385), uitgevoerd door éen of meerdere subsidieontvangers;
 
-- **projectleider:** persoon in dienst van de (hoofd)subsidieontvanger die het project vertegenwoordigt en die verantwoordelijk is voor de inhoudelijke en financiële voortgang daarvan. Ingeval er sprake is van een externe projectleider, dan is de inzet daarvan voor de duur van het project vastgelegd in een overeenkomst met de (hoofd)subsidieontvanger.
+- *projectleider:* persoon in dienst van de (hoofd)subsidieontvanger die het project vertegenwoordigt en die verantwoordelijk is voor de inhoudelijke en financiële voortgang daarvan. Ingeval er sprake is van een externe projectleider, dan is de inzet daarvan voor de duur van het project vastgelegd in een overeenkomst met de (hoofd)subsidieontvanger.
 
-- **publicaties:** publicaties zijn het middel waarmee een subsidieontvanger de resultaten van het gesubsidieerde project verspreidt en vindbaar maakt voor verder onderzoek, beleid en innovatie. Publicaties kunnen de vorm hebben van onder meer:
+- *publicaties:* publicaties zijn het middel waarmee een subsidieontvanger de resultaten van het gesubsidieerde project verspreidt en vindbaar maakt voor verder onderzoek, beleid en innovatie. Publicaties kunnen de vorm hebben van onder meer:
 
-- a. een (wetenschappelijk) artikel, boek, adviesrapport, een website, of andere vormen van communicatie.;
+   - a. een (wetenschappelijk) artikel, boek, adviesrapport, een website, of andere vormen van communicatie.;
 
-- b. een vermelding in een andere publicatie of in een metadatacatalogus of bij een product, middels een persistent identifier en/of een gedetailleerde omschrijving met vermelding van vindplaats (metadata).
+   - b. een vermelding in een andere publicatie of in een metadatacatalogus of bij een product, middels een persistent identifier en/of een gedetailleerde omschrijving met vermelding van vindplaats (metadata).
 
-- **resultaten:** alle uitkomsten, materialen, processen, of (uit/be)vindingen die binnen een project worden gegenereerd, zoals:
+- *resultaten:* alle uitkomsten, materialen, processen, of (uit/be)vindingen die binnen een project worden gegenereerd, zoals:
 
-- a. producten die in het project zijn ontwikkeld, bijvoorbeeld een publicatie, protocol, methode, infrastructuur, training, website, kennisagenda, evaluatierapport, (beleids)richtlijn, etc.;
+   - a. producten die in het project zijn ontwikkeld, bijvoorbeeld een publicatie, protocol, methode, infrastructuur, training, website, kennisagenda, evaluatierapport, (beleids)richtlijn, etc.;
 
-- b. data en andere middelen die voor de uitvoering van de activiteiten zijn gebruikt, bijvoorbeeld research software, (biologische) materialen, beeld- en geluidsopnamen, methoden, protocollen, instrumenten, diensten, infrastructuren, etc.
+   - b. data en andere middelen die voor de uitvoering van de activiteiten zijn gebruikt, bijvoorbeeld research software, (biologische) materialen, beeld- en geluidsopnamen, methoden, protocollen, instrumenten, diensten, infrastructuren, etc.
 
-- **samenwerkingsverband:** een groep zonder rechtspersoonlijkheid waarin meerdere aanvragers samenwerken bij de uitvoering van subsidiabele activiteiten. Een samenwerkingsverband bestaat uit minimaal 2 aanvragers die juridisch en financieel onafhankelijk zijn van elkaar. Bij een samenwerkingsverband zijn alle deelnemers aanvrager. Alle deelnemers zijn voor het eigen deel verantwoordelijk voor de subsidie.
+- *samenwerkingsverband:* een groep zonder rechtspersoonlijkheid waarin meerdere aanvragers samenwerken bij de uitvoering van subsidiabele activiteiten. Een samenwerkingsverband bestaat uit minimaal 2 aanvragers die juridisch en financieel onafhankelijk zijn van elkaar. Bij een samenwerkingsverband zijn alle deelnemers aanvrager. Alle deelnemers zijn voor het eigen deel verantwoordelijk voor de subsidie.
 
-- **samenwerkingsovereenkomst:** een schriftelijke afspraak van de deelnemers van een samenwerkingsverband. In de overeenkomst staan in ieder geval de taken, verantwoordelijkheden, financiële bijdragen van iedere deelnemer en wie van de deelnemers in het samenwerkingsverband penvoerder is.
+- *samenwerkingsovereenkomst:* een schriftelijke afspraak van de deelnemers van een samenwerkingsverband. In de overeenkomst staan in ieder geval de taken, verantwoordelijkheden, financiële bijdragen van iedere deelnemer en wie van de deelnemers in het samenwerkingsverband penvoerder is.
 
-- **staatssteun:** Volgens artikel 107 lid 1 van het Verdrag betreffende de Werking van de Europese Unie (VWEU): **Steunmaatregelen van de staten of in welke vorm ook met staatsmiddelen bekostigd, die de mededinging door begunstiging van bepaalde ondernemingen of bepaalde producties vervalsen of dreigen te vervalsen, zijn onverenigbaar met de interne markt, voor zover deze steun het handelsverkeer tussen de lidstaten ongunstig beïnvloedt.**
+- *staatssteun:* Volgens artikel 107 lid 1 van het Verdrag betreffende de Werking van de Europese Unie (VWEU): *Steunmaatregelen van de staten of in welke vorm ook met staatsmiddelen bekostigd, die de mededinging door begunstiging van bepaalde ondernemingen of bepaalde producties vervalsen of dreigen te vervalsen, zijn onverenigbaar met de interne markt, voor zover deze steun het handelsverkeer tussen de lidstaten ongunstig beïnvloedt.*
 
-- **subsidieaanvraag:** schriftelijk verzoek aan ZonMw om een besluit te nemen dat in elk geval een inhoudelijke beschrijving van het project alsmede een projectbegroting bevat;
+- *subsidieaanvraag:* schriftelijk verzoek aan ZonMw om een besluit te nemen dat in elk geval een inhoudelijke beschrijving van het project alsmede een projectbegroting bevat;
 
-- **subsidieoproep:** nadere regels als bedoeld in [artikel 1.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052106&hoofdstuk=1&artikel=1.2&z=2026-01-03&g=2026-01-03), die zien op het verstrekken van subsidie;
+- *subsidieoproep:* nadere regels als bedoeld in [artikel 1.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052106&hoofdstuk=1&artikel=1.2&z=2026-01-03&g=2026-01-03), die zien op het verstrekken van subsidie;
 
-- **Subsidieaanvrager:** elke bij de subsidieaanvraag betrokken partij die aanspraak maakt op subsidie/financiële middelen van ZonMw;
+- *Subsidieaanvrager:* elke bij de subsidieaanvraag betrokken partij die aanspraak maakt op subsidie/financiële middelen van ZonMw;
 
-- **subsidieplafond:** het bedrag dat ten hoogste beschikbaar is voor de verstrekking van subsidies op basis van een subsidieoproep;
+- *subsidieplafond:* het bedrag dat ten hoogste beschikbaar is voor de verstrekking van subsidies op basis van een subsidieoproep;
 
-- **subsidievaststelling:** een besluit van ZonMw waarin is opgenomen op welk bedrag de subsidieontvanger definitief recht heeft.
+- *subsidievaststelling:* een besluit van ZonMw waarin is opgenomen op welk bedrag de subsidieontvanger definitief recht heeft.
 
-- **subsidieverlening:** een besluit van ZonMw waarin is opgenomen op welk bedrag de subsidieontvanger voorlopig recht heeft en aan welke opgelegde verplichtingen deze wordt gehouden, mits de gesubsidieerde activiteit(en) daadwerkelijk worden verricht;
+- *subsidieverlening:* een besluit van ZonMw waarin is opgenomen op welk bedrag de subsidieontvanger voorlopig recht heeft en aan welke opgelegde verplichtingen deze wordt gehouden, mits de gesubsidieerde activiteit(en) daadwerkelijk worden verricht;
 
-- **subsidieverstrekking:** verlening, dan wel ingeval de subsidie direct wordt vastgesteld, vaststelling;
+- *subsidieverstrekking:* verlening, dan wel ingeval de subsidie direct wordt vastgesteld, vaststelling;
 
-- **Wet ZON:** [Wet op de organisatie ZorgOnderzoek Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0009385);
+- *Wet ZON:*
+ [Wet op de organisatie ZorgOnderzoek Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0009385);
 
-- **ZonMw:** de organisatie ZorgOnderzoek Nederland/Medische Wetenschappen.
+- *ZonMw:* de organisatie ZorgOnderzoek Nederland/Medische Wetenschappen.
 
 ##### Artikel 1.2. Grondslag en reikwijdte
 
@@ -170,7 +134,7 @@ Subsidie wordt aangevraagd door:
 
 - a. Een Nederlandse rechtspersoon;
 
-- b. Een onderneming die wordt gedreven in de vorm van een eenmanszaak, een maatschap, een commanditaire vennootschap of een vennootschap onder firma, mits er sprake is van een subsidiebedrag tot en met € 50.000 en in dit de subsidieoproep is bepaald;
+- b. Een onderneming die wordt gedreven in de vorm van een eenmanszaak, een maatschap, een commanditaire vennootschap of een vennootschap onder firma, mits er sprake is van een subsidiebedrag tot en met € 50.000 en in dit de subsidieoproep is bepaald;
 
 - c. een natuurlijk persoon, indien sprake is van een persoonsgebonden subsidievorm.
 
@@ -280,13 +244,13 @@ Voor een aanvraag tot verlening van een subsidie wordt gebruik gemaakt van het d
 
 - c. de gevraagde subsidiehoogte;
 
-- d. voor projecten met een aangevraagd subsidiebedrag van meer dan € 25.000: een samenvatting van het projectvoorstel die op de website van ZonMw gepubliceerd zal worden;
+- d. voor projecten met een aangevraagd subsidiebedrag van meer dan € 25.000: een samenvatting van het projectvoorstel die op de website van ZonMw gepubliceerd zal worden;
 
-- e. voor projecten met een aangevraagd subsidiebedrag van meer dan € 125.000: het bovenstaande en een samenvatting van de begroting;
+- e. voor projecten met een aangevraagd subsidiebedrag van meer dan € 125.000: het bovenstaande en een samenvatting van de begroting;
 
-- f. voor projecten met een aangevraagd subsidiebedrag van meer dan € 125.000 tot ten hoogste € 500.000: al het bovenstaande en hetzij een letter of commitment, een concept samenwerkingsovereenkomst dan wel samenwerkingsovereenkomst, voor zover dat is bepaald in de subsidieoproep en er sprake is van een samenwerkingsverband;
+- f. voor projecten met een aangevraagd subsidiebedrag van meer dan € 125.000 tot ten hoogste € 500.000: al het bovenstaande en hetzij een letter of commitment, een concept samenwerkingsovereenkomst dan wel samenwerkingsovereenkomst, voor zover dat is bepaald in de subsidieoproep en er sprake is van een samenwerkingsverband;
 
-- g. voor projecten met een aangevraagd subsidiebedrag van meer dan € 500.000: al het bovenstaande en hetzij een letter of commitment, een concept samenwerkingsovereenkomst dan wel samenwerkingsovereenkomst, voor zover dat is bepaald in de subsidieoproep en er sprake is van een samenwerkingsverband.
+- g. voor projecten met een aangevraagd subsidiebedrag van meer dan € 500.000: al het bovenstaande en hetzij een letter of commitment, een concept samenwerkingsovereenkomst dan wel samenwerkingsovereenkomst, voor zover dat is bepaald in de subsidieoproep en er sprake is van een samenwerkingsverband.
 
 - h. Het inschrijfnummer in de Kamer van Koophandel van alle betrokken partijen bij de aanvraag die subsidie wensen te verkrijgen of deelnemen aan de uit te voeren activiteiten voor eigen rekening.
 
@@ -296,9 +260,9 @@ Voor een aanvraag tot verlening van een subsidie wordt gebruik gemaakt van het d
 
 - b. een verklaring omtrent cofinanciering in de vorm van een letter of commitment, voor zover er sprake is van cofinanciering.
 
-4. Onverminderd het tweede lid, wordt een samenvatting van het projectvoorstel, die op de website van ZonMw gepubliceerd zal worden, ingediend indien de gevraagde subsidiehoogte tussen € 25.000 tot en met € 125.000 ligt.
+4. Onverminderd het tweede lid, wordt een samenvatting van het projectvoorstel, die op de website van ZonMw gepubliceerd zal worden, ingediend indien de gevraagde subsidiehoogte tussen € 25.000 tot en met € 125.000 ligt.
 
-5. Onverminderd het tweede lid wordt, indien de gevraagde subsidiehoogte vanaf € 125.000 tot en met € 500.000 ligt, ingediend:
+5. Onverminderd het tweede lid wordt, indien de gevraagde subsidiehoogte vanaf € 125.000 tot en met € 500.000 ligt, ingediend:
 
 - a. een samenvatting van de begroting;
 
@@ -306,7 +270,7 @@ Voor een aanvraag tot verlening van een subsidie wordt gebruik gemaakt van het d
 
 - c. een letter of commitment, voor zover er sprake is van een samenwerkingsverband.
 
-6. Onverminderd het tweede lid wordt, indien de gevraagde subsidiehoogte meer dan € 500.000 bedraagt, ingediend:
+6. Onverminderd het tweede lid wordt, indien de gevraagde subsidiehoogte meer dan € 500.000 bedraagt, ingediend:
 
 - a. een samenvatting van de begroting;
 
@@ -336,21 +300,21 @@ Op verzoek van ZonMw leggen alle aanvragers een volledig en recent overzicht van
 
 ZonMw verstrekt uitsluitend:
 
-- a. indien de subsidie evenveel of minder dan € 25.000 bedraagt:
+- a. indien de subsidie evenveel of minder dan € 25.000 bedraagt:
 
-- 1°. een subsidie die zonder voorafgaande verlening direct wordt vastgesteld op een bedrag waarvan de hoogte door ZonMw bij de vaststelling wordt genoemd, of
+   - 1° een subsidie die zonder voorafgaande verlening direct wordt vastgesteld op een bedrag waarvan de hoogte door ZonMw bij de vaststelling wordt genoemd, of
 
-- 2°. een subsidie die ambtshalve wordt vastgesteld tot ten hoogste het bedrag waarvan de hoogte door ZonMw bij de verlening is genoemd,
+   - 2° een subsidie die ambtshalve wordt vastgesteld tot ten hoogste het bedrag waarvan de hoogte door ZonMw bij de verlening is genoemd,
 
-- b. indien de subsidie meer dan € 25.000 bedraagt, of ten hoogste € 125.000 en de te subsidiëren activiteiten uit meetbare prestatie-eenheden bestaan: een subsidie die wordt vastgesteld op een bedrag per gerealiseerde prestatie-eenheid waarvan de hoogte door ZonMw bij de verlening is genoemd, voor ten hoogste het maximum aantal prestatie-eenheden dat door ZonMw bij de verlening is genoemd,
+- b. indien de subsidie meer dan € 25.000 bedraagt, of ten hoogste € 125.000 en de te subsidiëren activiteiten uit meetbare prestatie-eenheden bestaan: een subsidie die wordt vastgesteld op een bedrag per gerealiseerde prestatie-eenheid waarvan de hoogte door ZonMw bij de verlening is genoemd, voor ten hoogste het maximum aantal prestatie-eenheden dat door ZonMw bij de verlening is genoemd,
 
-- c. indien de subsidie meer dan € 25.000 bedraagt, of ten hoogste € 125.000, en de te subsidiëren activiteiten niet uit meetbare prestatie-eenheden bestaan:
+- c. indien de subsidie meer dan € 25.000 bedraagt, of ten hoogste € 125.000, en de te subsidiëren activiteiten niet uit meetbare prestatie-eenheden bestaan:
 
-- 1°. indien naar het oordeel van ZonMw voldoende zekerheid bestaat over de kosten en opbrengsten: een subsidie waarbij op basis van een activiteitenverslag wordt aangetoond dat de te subsidiëren activiteiten hebben plaatsgevonden overeenkomstig de aan de verleende subsidie verbonden verplichtingen,
+   - 1° indien naar het oordeel van ZonMw voldoende zekerheid bestaat over de kosten en opbrengsten: een subsidie waarbij op basis van een activiteitenverslag wordt aangetoond dat de te subsidiëren activiteiten hebben plaatsgevonden overeenkomstig de aan de verleende subsidie verbonden verplichtingen,
 
-- 2°. indien naar het oordeel van ZonMw onvoldoende zekerheid bestaat over de kosten en opbrengsten: een subsidie waarbij op basis van een verklaring inzake werkelijke kosten en opbrengsten wordt aangetoond dat de te subsidiëren activiteiten hebben plaatsgevonden overeenkomstig de aan de verleende subsidie verbonden verplichtingen,
+   - 2° indien naar het oordeel van ZonMw onvoldoende zekerheid bestaat over de kosten en opbrengsten: een subsidie waarbij op basis van een verklaring inzake werkelijke kosten en opbrengsten wordt aangetoond dat de te subsidiëren activiteiten hebben plaatsgevonden overeenkomstig de aan de verleende subsidie verbonden verplichtingen,
 
-- d. indien de subsidie meer dan € 125.000 bedraagt, en de te subsidiëren activiteiten niet uit meetbare prestatie-eenheden bestaan: een subsidie waarbij wordt aangetoond dat de te subsidiëren activiteiten hebben plaatsgevonden overeenkomstig de aan de verleende subsidie verbonden verplichtingen, en waarbij tevens rekening en verantwoording wordt afgelegd omtrent de met de gesubsidieerde activiteiten samenhangende kosten en opbrengsten.
+- d. indien de subsidie meer dan € 125.000 bedraagt, en de te subsidiëren activiteiten niet uit meetbare prestatie-eenheden bestaan: een subsidie waarbij wordt aangetoond dat de te subsidiëren activiteiten hebben plaatsgevonden overeenkomstig de aan de verleende subsidie verbonden verplichtingen, en waarbij tevens rekening en verantwoording wordt afgelegd omtrent de met de gesubsidieerde activiteiten samenhangende kosten en opbrengsten.
 
 ##### Artikel 3.2. Verlening
 
@@ -566,15 +530,15 @@ Indien de activiteiten waarvoor de subsidie is verstrekt, geheel of gedeeltelijk
 
 1. In de subsidieoproep kan ZonMw verplichtingen als bedoeld in [artikel 4:39, eerste lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:39), aan de subsidieverlening verbinden, ter bevordering van:
 
-- A. Gebruikersgerichte kennisbenutting;
+- A Gebruikersgerichte kennisbenutting;
 
-- B. Diversiteit en gelijkwaardige participatie;
+- B Diversiteit en gelijkwaardige participatie;
 
-- C. Vindbare en herbruikbare kennis;
+- C Vindbare en herbruikbare kennis;
 
-- D. Duurzaamheid;
+- D Duurzaamheid;
 
-- E. Proefdierwijs beleid.
+- E Proefdierwijs beleid.
 
 2. De verplichtingen, bedoeld in het eerste lid, kunnen alleen gaan over de wijze waarop, of de middelen waarmee, de gesubsidieerde activiteit wordt verricht.
 
@@ -584,13 +548,13 @@ Indien de activiteiten waarvoor de subsidie is verstrekt, geheel of gedeeltelijk
 
 1. ZonMw kan in de subsidieoproep dan wel bij het besluit tot subsidieverlening bepalen dat ambtshalve voorschotten kunnen worden verstrekt.
 
-2. Als een subsidie tot en met € 25.000:
+2. Als een subsidie tot en met € 25.000:
 
 - a. direct wordt vastgesteld, wordt het gehele subsidiebedrag in één keer betaald;
 
 - b. wordt verleend, wordt daarbij een voorschot van 100% ambtshalve verstrekt en betaald.
 
-3. Voorschotten voor subsidies vanaf € 25.000,00 worden ambtshalve verstrekt en betaald volgens de subsidieoproep, of in de beschikking tot subsidieverlening opgenomen bedragen en termijnen.
+3. Voorschotten voor subsidies vanaf € 25.000,00 worden ambtshalve verstrekt en betaald volgens de subsidieoproep, of in de beschikking tot subsidieverlening opgenomen bedragen en termijnen.
 
 4. ZonMw continueert de bevoorschotting op basis van de ontvangst en goedkeuring van de voortgangsrapportage. Als de voortgang onvoldoende is, kan de bevoorschotting (tijdelijk) worden stopgezet. Het bevoorschottingsschema kan worden aangepast als de voortgangsrapportage daartoe aanleiding geeft.
 
@@ -608,7 +572,7 @@ Voor een aanvraag tot vaststelling van een subsidie wordt gebruik gemaakt van he
 
 ##### Artikel 6.2. Aanvraagtermijn subsidievaststelling
 
-1. Een aanvraag tot vaststelling van een subsidie boven € 25.000 wordt ingediend binnen 22 weken nadat de activiteiten waarvoor subsidie wordt gevraagd, zijn verricht.
+1. Een aanvraag tot vaststelling van een subsidie boven € 25.000 wordt ingediend binnen 22 weken nadat de activiteiten waarvoor subsidie wordt gevraagd, zijn verricht.
 
 2. ZonMw kan vrijstelling of ontheffing verlenen van de termijnen, bedoeld in het eerste en tweede lid.
 
@@ -616,7 +580,7 @@ Voor een aanvraag tot vaststelling van een subsidie wordt gebruik gemaakt van he
 
 ##### Artikel 6.3. Subsidies tot en met € 25.000 die direct worden vastgesteld
 
-1. Subsidies tot en met € 25.000 worden door ZonMw:
+1. Subsidies tot en met € 25.000 worden door ZonMw:
 
 - a. direct vastgesteld; of
 
@@ -668,7 +632,7 @@ Voor een aanvraag tot vaststelling van een subsidie wordt gebruik gemaakt van he
 
 2. ZonMw kan de subsidieontvanger verplichten om het financieel verslag vergezeld te doen gaan van een rapport van feitelijke bevindingen omtrent de naleving van de aan de subsidie verbonden verplichtingen door de subsidieontvanger.
 
-3. Een verschil tussen het financieel verslag en de begroting van ten minste 20% van een afzonderlijke begrotingspost wordt toegelicht, tenzij het verschil met die begrotingspost lager is dan € 25.000.
+3. Een verschil tussen het financieel verslag en de begroting van ten minste 20% van een afzonderlijke begrotingspost wordt toegelicht, tenzij het verschil met die begrotingspost lager is dan € 25.000.
 
 4. Indien de activiteiten waarvoor de subsidie is verleend geheel zijn verricht en volledig is voldaan aan de verplichtingen die verbonden zijn aan de verleende subsidie, wordt de subsidie vastgesteld op het bedrag dat bestaat uit de gerealiseerde kosten verminderd met de gerealiseerde bijdragen van derden en de begrote eigen bijdrage of de gerealiseerde eigen bijdrage indien deze hoger is dan de begrote eigen bijdrage tot ten hoogste het in de verleningsbeschikking genoemde bedrag.
 
@@ -678,11 +642,11 @@ Voor een aanvraag tot vaststelling van een subsidie wordt gebruik gemaakt van he
 
 ##### Artikel 6.8. Controle rechtmatige besteding van de subsidie
 
-1. In geval van een subsidie van meer dan € 125.000 is de subsidieontvanger verplicht om bij de aanvraag tot subsidievaststelling een controleverklaring, opgesteld door een onafhankelijke accountant, aan te leveren bij de kosten en opbrengsten opgenomen in het jaaroverzicht met de volgens de ZonMw-administratie afgesloten projecten.
+1. In geval van een subsidie van meer dan € 125.000 is de subsidieontvanger verplicht om bij de aanvraag tot subsidievaststelling een controleverklaring, opgesteld door een onafhankelijke accountant, aan te leveren bij de kosten en opbrengsten opgenomen in het jaaroverzicht met de volgens de ZonMw-administratie afgesloten projecten.
 
 2. De controleprotocollen Subsidieverantwoording ZonMw zijn van overeenkomstige toepassing en geven nadere regels.
 
-3. Naast een controleverklaring kan bij een subsidie van meer dan € 125.000 ZonMw de subsidieontvanger verzoeken om een rapport over de feitelijke bevindingen te verstrekken.
+3. Naast een controleverklaring kan bij een subsidie van meer dan € 125.000 ZonMw de subsidieontvanger verzoeken om een rapport over de feitelijke bevindingen te verstrekken.
 
 4. De subsidieontvanger levert de controleverklaring binnen 13 weken na de einddatum van het gesubsidieerde project aan.
 

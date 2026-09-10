@@ -1,127 +1,123 @@
 ---
-title: "Fiscale verzamelwet 2026"
+title: "Wet van 4 december 2025 tot wijziging van enkele belastingwetten en enige andere wetten (Fiscale verzamelwet 2026)"
+citeertitel: "Fiscale verzamelwet 2026"
 identifier: "BWBR0052046"
-categorie: "Overig"
-publicatiedatum: 2026-03-21
-laatste_update: 2026-03-21
+categorie: "Belastingrecht"
+soort: "wet"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-07-01
 status: geldig
+toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052046"
+opgehaald: 2026-09-10
 ---
 
-# Fiscale verzamelwet 2026
+# Wet van 4 december 2025 tot wijziging van enkele belastingwetten en enige andere wetten (Fiscale verzamelwet 2026)
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+##### Artikel I
 
-Alzo Wij in overweging genomen hebben dat het in het kader van het fiscale beleid voor het jaar 2026 wenselijk is in een aantal belastingwetten en enige andere wetten wijzigingen aan te brengen;
+*Wijzigt de Wet inkomstenbelasting 2001.*
 
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+##### Artikel II
 
-#### Artikel I
+*Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.*
 
-Wijzigt de Wet inkomstenbelasting 2001.
+##### Artikel III
 
-#### Artikel II
+*Wijzigt de Wet op de loonbelasting 1964.*
 
-Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
+##### Artikel IV
 
-#### Artikel III
+*Wijzigt de Wet op de vennootschapsbelasting 1969.*
 
-Wijzigt de Wet op de loonbelasting 1964.
+##### Artikel V
 
-#### Artikel IV
+*Wijzigt de Wet op de omzetbelasting 1968.*
 
-Wijzigt de Wet op de vennootschapsbelasting 1969.
+##### Artikel VI
 
-#### Artikel V
+*Wijzigt de Wet belastingen op milieugrondslag.*
 
-Wijzigt de Wet op de omzetbelasting 1968.
+##### Artikel VII
 
-#### Artikel VI
+*Wijzigt de Algemene douanewet.*
 
-Wijzigt de Wet belastingen op milieugrondslag.
+##### Artikel VIII
 
-#### Artikel VII
+*Wijzigt de Algemene wet inkomensafhankelijke regelingen.*
 
-Wijzigt de Algemene douanewet.
+##### Artikel VIIIa
 
-#### Artikel VIII
+*Wijzigt de Gemeentewet.*
 
-Wijzigt de Algemene wet inkomensafhankelijke regelingen.
+##### Artikel IX
 
-#### Artikel VIIIa
+*Wijzigt de Provinciewet.*
 
-Wijzigt de Gemeentewet.
+##### Artikel X
 
-#### Artikel IX
+*Wijzigt de Algemene wet inzake rijksbelastingen.*
 
-Wijzigt de Provinciewet.
+##### Artikel XI
 
-#### Artikel X
+*Wijzigt de Invorderingswet 1990.*
 
-Wijzigt de Algemene wet inzake rijksbelastingen.
+##### Artikel XII
 
-#### Artikel XI
+*Wijzigt de Overige fiscale maatregelen 2018.*
 
-Wijzigt de Invorderingswet 1990.
+##### Artikel XIII
 
-#### Artikel XII
+*Wijzigt de Overige fiscale maatregelen 2020.*
 
-Wijzigt de Overige fiscale maatregelen 2018.
+##### Artikel XIV
 
-#### Artikel XIII
+*Wijzigt de Wet compensatie wegens selectie aan de poort.*
 
-Wijzigt de Overige fiscale maatregelen 2020.
+##### Artikel XV
 
-#### Artikel XIV
+*Wijzigt het Belastingplan 2025.*
 
-Wijzigt de Wet compensatie wegens selectie aan de poort.
+##### Artikel XVI
 
-#### Artikel XV
+*Wijzigt de Wet aanpak fraude toeslagen en fiscaliteit.*
 
-Wijzigt het Belastingplan 2025.
+##### Artikel XVIa
 
-#### Artikel XVI
+*Wijzigt de Pensioenwet.*
 
-Wijzigt de Wet aanpak fraude toeslagen en fiscaliteit.
+##### Artikel XVIb
 
-#### Artikel XVIa
+*Wijzigt de Wet verplichte beroepspensioenregeling.*
 
-Wijzigt de Pensioenwet.
+##### Artikel XVII
 
-#### Artikel XVIb
+Aan een op basis van [artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=III&z=2026-07-01&g=2026-07-01), ingevolge [artikel 18g, tweede lid, aanhef en onderdelen d en e, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18g) vast te stellen algemene maatregel van bestuur kan terugwerkende kracht worden verleend tot en met 1 juli 2023.
 
-Wijzigt de Wet verplichte beroepspensioenregeling.
+##### Artikel XVIII
 
-#### Artikel XVII
+1. Deze wet treedt in werking met ingang van 1 januari 2026, met dien verstande dat:
 
-Aan een op basis van [artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=III&z=2026-03-21&g=2026-03-21), ingevolge [artikel 18g, tweede lid, aanhef en onderdelen d en e, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18g) vast te stellen algemene maatregel van bestuur kan terugwerkende kracht worden verleend tot en met 1 juli 2023.
+- a. [artikel I, onderdeel H, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=I&z=2026-07-01&g=2026-07-01), terugwerkt tot en met 1 januari 2023;
 
-#### Artikel XVIII
+- b. [artikel I, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=I&z=2026-07-01&g=2026-07-01), en [artikel III, onderdelen aA, cA en A](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=III&z=2026-07-01&g=2026-07-01), terugwerken tot en met 1 juli 2023;
 
-1. Deze wet treedt in werking met ingang van 1 januari 2026, met dien verstande dat:
+- c. [artikel I, onderdelen C en J, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=I&z=2026-07-01&g=2026-07-01), terugwerkt tot en met 25 april 2025;
 
-- a. [artikel I, onderdeel H, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=I&z=2026-03-21&g=2026-03-21), terugwerkt tot en met 1 januari 2023;
+- d. [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=IV&z=2026-07-01&g=2026-07-01) voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2026;
 
-- b. [artikel I, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=I&z=2026-03-21&g=2026-03-21), en [artikel III, onderdelen aA, cA en A](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=III&z=2026-03-21&g=2026-03-21), terugwerken tot en met 1 juli 2023;
+- e. [artikel VI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=VI&z=2026-07-01&g=2026-07-01), terugwerkt tot en met 6 februari 2018;
 
-- c. [artikel I, onderdelen C en J, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=I&z=2026-03-21&g=2026-03-21), terugwerkt tot en met 25 april 2025;
+- f. [artikel VI, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=VI&z=2026-07-01&g=2026-07-01), terugwerkt tot en met 1 januari 2024;
 
-- d. [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=IV&z=2026-03-21&g=2026-03-21) voor het eerst toepassing vindt met betrekking tot boekjaren die aanvangen op of na 1 januari 2026;
+- g. [artikel X, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=X&z=2026-07-01&g=2026-07-01), voor het eerst toepassing vindt op beboetbare gedragingen die zijn begaan op of na 1 januari 2026.
 
-- e. [artikel VI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=VI&z=2026-03-21&g=2026-03-21), terugwerkt tot en met 6 februari 2018;
+2. In afwijking van het eerste lid treden de [artikelen I, onderdeel O](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=I&z=2026-07-01&g=2026-07-01), [VIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=VIIIa&z=2026-07-01&g=2026-07-01) en [XV](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=XV&z=2026-07-01&g=2026-07-01) in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-- f. [artikel VI, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=VI&z=2026-03-21&g=2026-03-21), terugwerkt tot en met 1 januari 2024;
+3. In afwijking van het eerste lid treedt [artikel XI, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=XI&z=2026-07-01&g=2026-07-01), in werking op het tijdstip waarop het bij koninklijke boodschap van 6 oktober 2023 ingediende voorstel van wet tot wijziging van de Wet allocatie arbeidskrachten door intermediairs en enige andere wetten in verband met de invoering van regels voor het verlenen van toelating voor het ter beschikking stellen van arbeidskrachten ([Wet toelating terbeschikkingstelling van arbeidskrachten](https://wetten.overheid.nl/jci1.3:c:BWBR0051817)) (Kamerstukken ) tot wet is of wordt verheven en die wet in werking treedt, met dien verstande dat het in [artikel XI, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=XI&z=2026-07-01&g=2026-07-01), van deze wet opgenomen [artikel 34a, eerste lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34a) eerst toepassing vindt met betrekking tot belastingtijdvakken die zijn aangevangen op of na dat tijdstip.
 
-- g. [artikel X, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=X&z=2026-03-21&g=2026-03-21), voor het eerst toepassing vindt op beboetbare gedragingen die zijn begaan op of na 1 januari 2026.
+4. In afwijking van het eerste lid treedt [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=XIII&z=2026-07-01&g=2026-07-01) in werking met ingang van de dag waarop [artikel I, onderdeel D, van de Wet modernisering elektronisch bestuurlijk verkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0048252&artikel=I) in werking treedt.
 
-2. In afwijking van het eerste lid treden de [artikelen I, onderdeel O](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=I&z=2026-03-21&g=2026-03-21), [VIIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=VIIIa&z=2026-03-21&g=2026-03-21) en [XV](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=XV&z=2026-03-21&g=2026-03-21) in werking op een bij koninklijk besluit te bepalen tijdstip.
-
-3. In afwijking van het eerste lid treedt [artikel XI, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=XI&z=2026-03-21&g=2026-03-21), in werking op het tijdstip waarop het bij koninklijke boodschap van 6 oktober 2023 ingediende voorstel van wet tot wijziging van de Wet allocatie arbeidskrachten door intermediairs en enige andere wetten in verband met de invoering van regels voor het verlenen van toelating voor het ter beschikking stellen van arbeidskrachten ([Wet toelating terbeschikkingstelling van arbeidskrachten](https://wetten.overheid.nl/jci1.3:c:BWBR0051817)) (Kamerstukken 36 446) tot wet is of wordt verheven en die wet in werking treedt, met dien verstande dat het in [artikel XI, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=XI&z=2026-03-21&g=2026-03-21), van deze wet opgenomen [artikel 34a, eerste lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=34a) eerst toepassing vindt met betrekking tot belastingtijdvakken die zijn aangevangen op of na dat tijdstip.
-
-4. In afwijking van het eerste lid treedt [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0052046&artikel=XIII&z=2026-03-21&g=2026-03-21) in werking met ingang van de dag waarop [artikel I, onderdeel D, van de Wet modernisering elektronisch bestuurlijk verkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0048252&artikel=I) in werking treedt.
-
-#### Artikel XIX
+##### Artikel XIX
 
 Deze wet wordt aangehaald als: Fiscale verzamelwet 2026.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.

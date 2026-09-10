@@ -1,52 +1,18 @@
 ---
 title: "Besluit van 12 februari 2026, houdende invoering van regels met betrekking tot het loopbaanvervolg van bewindspersonen (Besluit regels vervolgfuncties bewindspersonen) [KetenID: WGK026980]"
+citeertitel: "Besluit regels vervolgfuncties bewindspersonen"
 identifier: "BWBR0052295"
-country: "nl"
-rank: "amvb"
-publication_date: "2026-02-20"
-last_updated: "2026-02-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052295"
+categorie: "Overig"
 soort: "AMvB"
-stam_id: "17759833"
-version_id: "31378162"
-internal_id: "C44842721"
-label_id: "17657834"
-dtd_version: "2.0"
-original_entry_into_force: "2026-02-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052295/2026-02-20/0"
-intitule_bron: "Stb.2026-33"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2026-02-12"
-intitule_published: "2026-02-17"
-intitule_in_force: "2026-02-17"
-intitule_status: "goed"
-original_publication: "Stb.2026-33"
-original_signed_date: "2026-02-12"
-original_published_date: "2026-02-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "stb-2026-33"
-entry_into_force_date: "2026-02-20"
-jci_1_3: "jci1.3:c:BWBR0052295&z=2026-02-20&g=2026-02-20"
-jci_1_0: "1.0:c:BWBR0052295&g=2026-02-20"
-citeertitel_status: "officieel"
-short_title: "Besluit regels vervolgfuncties bewindspersonen"
-signed_date: "2026-02-12"
-entry_into_force: "2026-02-20"
+publicatiedatum: 2026-02-20
+laatste_update: 2026-02-20
+status: geldig
+toestand: 2026-02-20
+bron: "https://wetten.overheid.nl/BWBR0052295"
+opgehaald: 2026-09-10
 ---
+
 # Besluit van 12 februari 2026, houdende invoering van regels met betrekking tot het loopbaanvervolg van bewindspersonen (Besluit regels vervolgfuncties bewindspersonen) [KetenID: WGK026980]
-
-Op de voordracht van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 19 november 2025, nr. 2025-0000643515;
-
-Gelet op de [artikelen 2, dertiende en veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051611&artikel=2), [3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051611&artikel=3), en [4, vijfde lid, van de Wet regels integriteit en vervolgfuncties bewindspersonen](https://wetten.overheid.nl/jci1.3:c:BWBR0051611&artikel=4);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 4 februari, nr. W04.25.00347/I);
-
-Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 9 februari 2026, nr. 2026-0000052806;
-
-Hebben goedgevonden en verstaan:
-
-Treedt in werking op het tijdstip waarop de Wet regels integriteit en vervolgfuncties bewindspersonen in werking treedt.
 
 ##### Artikel 1
 
@@ -85,5 +51,3 @@ Dit besluit treedt in werking op het tijdstip dat de [Wet regels integriteit en 
 ##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit regels vervolgfuncties bewindspersonen.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.

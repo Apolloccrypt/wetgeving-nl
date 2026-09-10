@@ -1,43 +1,17 @@
 ---
 title: "Vervangingsregeling CBR 2026"
 identifier: "BWBR0052518"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-04-14"
-last_updated: "2026-04-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052518"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17834223"
-version_id: "31523672"
-internal_id: "C45016511"
-label_id: "17731434"
-dtd_version: "2.0"
-original_entry_into_force: "2026-04-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052518/2026-04-14/0"
-intitule_bron: "Stcrt.2026-13810"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2026-03-24"
-intitule_published: "2026-04-13"
-intitule_in_force: "2026-04-13"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-13810"
-original_signed_date: "2026-03-24"
-original_published_date: "2026-04-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-13810"
-entry_into_force_date: "2026-04-14"
-jci_1_3: "jci1.3:c:BWBR0052518&z=2026-04-14&g=2026-04-14"
-jci_1_0: "1.0:c:BWBR0052518&g=2026-04-14"
-citeertitel_status: "officieel"
-signed_date: "2026-03-24"
-entry_into_force: "2026-04-14"
+publicatiedatum: 2026-04-14
+laatste_update: 2026-04-14
+status: geldig
+toestand: 2026-04-14
+bron: "https://wetten.overheid.nl/BWBR0052518"
+opgehaald: 2026-09-10
 ---
+
 # Vervangingsregeling CBR 2026
-
-Gelet op de Regeling volmacht en machtiging CBR 2026, de Regeling mandaat CBR 2026 en de [Regeling volmacht personele aangelegenheden CBR 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049656);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -45,11 +19,11 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **bevoegdheid:** een mandaat, machtiging en/of volmacht zoals bedoeld in de Regeling volmacht en machtiging CBR 2026, de Regeling mandaat CBR 2026 en/of de [Regeling volmacht personele aangelegenheden CBR 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049656) dan wel opvolgende regelingen;
+- a. *bevoegdheid:* een mandaat, machtiging en/of volmacht zoals bedoeld in de Regeling volmacht en machtiging CBR 2026, de Regeling mandaat CBR 2026 en/of de [Regeling volmacht personele aangelegenheden CBR 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049656) dan wel opvolgende regelingen;
 
-- b. **bevoegde:** degene die een bevoegdheid bezit of conform de regelingen genoemd bij a aangewezen is om een bevoegdheid uit te oefenen;
+- b. *bevoegde:* degene die een bevoegdheid bezit of conform de regelingen genoemd bij a aangewezen is om een bevoegdheid uit te oefenen;
 
-- c. **vervanger:** degene die conform deze regeling wordt aangewezen om een bevoegde te vervangen bij het uitoefenen van een bevoegdheid.
+- c. *vervanger:* degene die conform deze regeling wordt aangewezen om een bevoegde te vervangen bij het uitoefenen van een bevoegdheid.
 
 #### § 2. Vervanging
 
@@ -61,7 +35,7 @@ Besluit:
 
 3. Van deze vervangingsregeling wordt geen gebruik gemaakt indien de aard van de bevoegdheid zich verzet tegen uitoefening van die bevoegdheid bij vervanging.
 
-| 1 | Bevoegde zoals beschreven in de regelingen | Vervanger ten aanzien van de Regeling mandaat en de Regeling volmacht en machtiging | Vervanger ten aanzien van de [Regeling personele aangelegenheden](https://wetten.overheid.nl/jci1.3:c:BWBR0049656) |
+| 1 | Bevoegde zoals beschreven in de regelingen | Vervanger ten aanzien van de Regeling mandaat en de Regeling volmacht en machtiging | Vervanger ten aanzien van de Regeling personele aangelegenheden |
 | --- | --- | --- | --- |
 | 2 | Directie | Directielid, manager BBJZ, manager F&C | Directielid, manager BBJZ, manager F&C |
 | 3 | Directielid | Ander directielid, manager BBJZ, manager F&C | Ander directielid, manager BBJZ, manager F&C |
@@ -74,23 +48,23 @@ Besluit:
 
 2. In afwijking van het eerste lid wordt een direct leidinggevende vervangen door een onder deze direct ressorterende leidinggevende voor zover het gaat om:
 
-- •. Inhuur uitzendkrachten;
+- • Inhuur uitzendkrachten;
 
-- •. Aangaan stage-contracten;
+- • Aangaan stage-contracten;
 
-- •. Toekennen reguliere periodieken;
+- • Toekennen reguliere periodieken;
 
-- •. Toekennen verloven;
+- • Toekennen verloven;
 
-- •. Toekennen Arbo middelen;
+- • Toekennen Arbo middelen;
 
-- •. Beslissingen over nevenwerkzaamheden;
+- • Beslissingen over nevenwerkzaamheden;
 
-- •. Beslissingen over thuiswerken;
+- • Beslissingen over thuiswerken;
 
-- •. Beslissingen over tijdelijke fixatie op sociale gronden; en
+- • Beslissingen over tijdelijke fixatie op sociale gronden; en
 
-- •. Het afnemen van de eed en belofte.
+- • Het afnemen van de eed en belofte.
 
 #### § 3. Overgangs- en slotbepalingen
 
@@ -105,5 +79,3 @@ Deze regeling treedt in werking op de dag na publicatie daarvan in de Staatscour
 ##### Artikel 6. Citeertitel
 
 Deze regeling wordt aangehaald als: Vervangingsregeling CBR 2026.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

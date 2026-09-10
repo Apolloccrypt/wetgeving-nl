@@ -1,42 +1,18 @@
 ---
 title: "Besluit van het bestuur van ZonMw van 21 november 2025 en de Raad van Bestuur van Zorginstituut Nederland van 11 november 2025, kenmerk 2025026005, tot vaststelling van het reglement van de Commissie Onderzoek Passende zorg 2025 (Reglement Commissie Onderzoek Passende Zorg 2025)"
+citeertitel: "Reglement Commissie Onderzoek Passende Zorg 2025"
 identifier: "BWBR0052386"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-03-03"
-last_updated: "2026-03-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052386"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "17792423"
-version_id: "31457522"
-internal_id: "C44928761"
-label_id: "17690404"
-dtd_version: "2.0"
-original_entry_into_force: "2026-03-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052386/2026-03-03/0"
-intitule_bron: "Stcrt.2026-8207"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-11-21"
-intitule_published: "2026-03-02"
-intitule_in_force: "2026-03-02"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-8207"
-original_signed_date: "2025-11-21"
-original_published_date: "2026-03-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-8207"
-entry_into_force_date: "2026-03-03"
-jci_1_3: "jci1.3:c:BWBR0052386&z=2026-03-03&g=2026-03-03"
-jci_1_0: "1.0:c:BWBR0052386&g=2026-03-03"
-citeertitel_status: "officieel"
-short_title: "Reglement Commissie Onderzoek Passende Zorg 2025"
-signed_date: "2025-11-21"
-entry_into_force: "2026-03-03"
+publicatiedatum: 2026-03-03
+laatste_update: 2026-03-03
+status: geldig
+toestand: 2026-03-03
+bron: "https://wetten.overheid.nl/BWBR0052386"
+opgehaald: 2026-09-10
 ---
-# Besluit van het bestuur van ZonMw van 21 november 2025 en de Raad van Bestuur van Zorginstituut Nederland van 11 november 2025, kenmerk 2025026005, tot vaststelling van het reglement van de Commissie Onderzoek Passende zorg 2025 (Reglement Commissie Onderzoek Passende Zorg 2025)
 
-Gelet op [artikel 4.1, eerste lid, van het Bestuursreglement ZonMw 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042194&artikel=4.1) en [artikel 5.6 van het Bestuursreglement Zorginstituut Nederland 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&artikel=5);
+# Besluit van het bestuur van ZonMw van 21 november 2025 en de Raad van Bestuur van Zorginstituut Nederland van 11 november 2025, kenmerk 2025026005, tot vaststelling van het reglement van de Commissie Onderzoek Passende zorg 2025 (Reglement Commissie Onderzoek Passende Zorg 2025)
 
 ### Hoofdstuk 1. Algemeen
 
@@ -44,59 +20,59 @@ Gelet op [artikel 4.1, eerste lid, van het Bestuursreglement ZonMw 2019](https:/
 
 Dit reglement verstaat onder:
 
-- –. **beheersmaatregel:** maatregel ter waarborging van advisering zonder vooringenomenheid;
+- – *beheersmaatregel:* maatregel ter waarborging van advisering zonder vooringenomenheid;
 
-- –. **bestuur van ZonMw:** het bestuur van ZorgOnderzoek Nederland en het bestuur van het domein Medische Wetenschappen van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek;
+- – *bestuur van ZonMw:* het bestuur van ZorgOnderzoek Nederland en het bestuur van het domein Medische Wetenschappen van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek;
 
-- –. **bureau:** de medewerkers van ZonMw en het Zorginstituut die belast zijn met de uitvoering van werkzaamheden ten behoeve van de commissie;
+- – *bureau:* de medewerkers van ZonMw en het Zorginstituut die belast zijn met de uitvoering van werkzaamheden ten behoeve van de commissie;
 
-- –. **commissie:** de Commissie Onderzoek Passende Zorg;
+- – *commissie:* de Commissie Onderzoek Passende Zorg;
 
-- –. **kennisvraag:** een onderzoeksvraag gericht op het verkrijgen van toepasbare kennis voor passende zorg;
+- – *kennisvraag:* een onderzoeksvraag gericht op het verkrijgen van toepasbare kennis voor passende zorg;
 
-- –. **KPPZ:** het kaderprogramma Passende Zorg;
+- – *KPPZ:* het kaderprogramma Passende Zorg;
 
-- –. **leden:** de leden van de Commissie Onderzoek Passende Zorg;
+- – *leden:* de leden van de Commissie Onderzoek Passende Zorg;
 
-- –. **Minister van VWS:** de Minister van Volksgezondheid, Welzijn en Sport;
+- – *Minister van VWS:* de Minister van Volksgezondheid, Welzijn en Sport;
 
-- –. **NWO:** de Nederlandse Organisatie voor Wetenschappelijk Onderzoek als bedoeld in [artikel 2 van de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=2);
+- – *NWO:* de Nederlandse Organisatie voor Wetenschappelijk Onderzoek als bedoeld in [artikel 2 van de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=2);
 
-- –. **overheidsorganisaties:** Zorginstituut Nederland, het Ministerie van Volksgezondheid, Welzijn en Sport, de Inspectie Gezondheidszorg en Jeugd en de Nederlandse Zorgautoriteit;
+- – *overheidsorganisaties:* Zorginstituut Nederland, het Ministerie van Volksgezondheid, Welzijn en Sport, de Inspectie Gezondheidszorg en Jeugd en de Nederlandse Zorgautoriteit;
 
-- –. **persoonlijk belang:** ieder belang dat niet behoort tot de belangen die de commissie uit hoofde van de haar opgedragen taak behoort te behartigen;
+- – *persoonlijk belang:* ieder belang dat niet behoort tot de belangen die de commissie uit hoofde van de haar opgedragen taak behoort te behartigen;
 
-- –. **projectgroep:** groep bestaande uit de aanvrager, projectleider, bestuurlijk verantwoordelijke en andere leden die het in de aanvraag voorgestelde onderzoek uitvoeren;
+- – *projectgroep:* groep bestaande uit de aanvrager, projectleider, bestuurlijk verantwoordelijke en andere leden die het in de aanvraag voorgestelde onderzoek uitvoeren;
 
-- –. **Raad van Bestuur van het Zorginstituut:** de Raad van Bestuur van het Zorginstituut als bedoeld in [artikel 1 van het Bestuursreglement Zorginstituut Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&artikel=1);
+- – *Raad van Bestuur van het Zorginstituut:* de Raad van Bestuur van het Zorginstituut als bedoeld in [artikel 1 van het Bestuursreglement Zorginstituut Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&artikel=1);
 
-- –. **ronde:** de beoordelingscyclus lopend van de ontvangst van een kennisvraag of studiesynopsis tot en met het besluit over de subsidieaanvraag;
+- – *ronde:* de beoordelingscyclus lopend van de ontvangst van een kennisvraag of studiesynopsis tot en met het besluit over de subsidieaanvraag;
 
-- –. **secretaris:** de secretaris dan wel de plaatsvervangend secretaris die deel uitmaakt van het bureau en belast is met de ondersteuning van de commissie;
+- – *secretaris:* de secretaris dan wel de plaatsvervangend secretaris die deel uitmaakt van het bureau en belast is met de ondersteuning van de commissie;
 
-- –. **selectiecriteria:** door ZonMw vastgestelde criteria op basis waarvan kennisvragen, studiesynopsissen en subsidieaanvragen worden getoetst;
+- – *selectiecriteria:* door ZonMw vastgestelde criteria op basis waarvan kennisvragen, studiesynopsissen en subsidieaanvragen worden getoetst;
 
-- –. **studiesynopsis:** een beknopte schriftelijke samenvatting van het onderzoeksvoorstel;
+- – *studiesynopsis:* een beknopte schriftelijke samenvatting van het onderzoeksvoorstel;
 
-- –. **Vezo:** veelbelovende zorg;
+- – *Vezo:* veelbelovende zorg;
 
-- –. **ViO:** Vergoeding in Onderzoek;
+- – *ViO:* Vergoeding in Onderzoek;
 
-- –. **voorbewerkingsformulier:** een format dat gebruikt wordt om kennisvragen, studiesynopsissen of subsidieaanvragen op gestructureerde wijze voor te bereiden, ter ondersteuning van de advisering door de commissie;
+- – *voorbewerkingsformulier:* een format dat gebruikt wordt om kennisvragen, studiesynopsissen of subsidieaanvragen op gestructureerde wijze voor te bereiden, ter ondersteuning van de advisering door de commissie;
 
-- –. **voorzitter:** de voorzitter van de commissie, dan wel de plaatsvervangend voorzitter van de commissie;
+- – *voorzitter:* de voorzitter van de commissie, dan wel de plaatsvervangend voorzitter van de commissie;
 
-- –. **Wet ZON:** de [Wet op de organisatie ZorgOnderzoek Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0009385);
+- – *Wet ZON:* de [Wet op de organisatie ZorgOnderzoek Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0009385);
 
-- –. **ZE&GG:** Zorgevaluatie & Gepast Gebruik;
+- – *ZE&GG:* Zorgevaluatie & Gepast Gebruik;
 
-- –. **ZON:** de organisatie ZorgOnderzoek Nederland als bedoeld in [artikel 2 van de Wet ZON](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&artikel=2);
+- – *ZON:* de organisatie ZorgOnderzoek Nederland als bedoeld in [artikel 2 van de Wet ZON](https://wetten.overheid.nl/jci1.3:c:BWBR0009385&artikel=2);
 
-- –. **ZonMw:** het samenwerkingsverband tussen de organisatie ZorgOnderzoek Nederland en het domein Medische Wetenschappen van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek;
+- – *ZonMw:* het samenwerkingsverband tussen de organisatie ZorgOnderzoek Nederland en het domein Medische Wetenschappen van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek;
 
-- –. **het Zorginstituut:** Zorginstituut Nederland, zoals genoemd in [artikel 58, eerste lid, van de Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
+- – *het Zorginstituut:* Zorginstituut Nederland, zoals genoemd in [artikel 58, eerste lid, van de Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
 
-- –. **Zvw:** de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
+- – *Zvw:* de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
 ### Hoofdstuk 2. Instelling en samenstelling van de commissie
 
@@ -336,10 +312,8 @@ Voor de overige vragen om advies stemt de commissie haar werkwijze af op de aard
 
 ##### Artikel 6.1. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 12 november 2025.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 12 november 2025.
 
 ##### Artikel 6.2. Citeertitel
 
 Dit besluit wordt aangehaald als Reglement Commissie Onderzoek Passende Zorg 2025.
-
-Dit reglement zal met de toelichting in de Staatscourant worden geplaatst.

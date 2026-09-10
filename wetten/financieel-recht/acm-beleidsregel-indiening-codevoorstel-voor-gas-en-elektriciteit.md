@@ -1,43 +1,17 @@
 ---
 title: "ACM beleidsregel indiening codevoorstel voor gas en elektriciteit"
 identifier: "BWBR0052081"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052081"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17708663"
-version_id: "31254592"
-internal_id: "C44693991"
-label_id: "17607434"
-dtd_version: "2.0"
-original_entry_into_force: "2026-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052081/2026-01-01/0"
-intitule_bron: "Stcrt.2025-41829"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-11-27"
-intitule_published: "2025-12-22"
-intitule_in_force: "2025-12-22"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-41829"
-original_signed_date: "2025-11-27"
-original_published_date: "2025-12-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-41829"
-entry_into_force_date: "2026-01-01"
-jci_1_3: "jci1.3:c:BWBR0052081&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBR0052081&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "2025-11-27"
-entry_into_force: "2026-01-01"
+publicatiedatum: 2026-01-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBR0052081"
+opgehaald: 2026-09-10
 ---
+
 # ACM beleidsregel indiening codevoorstel voor gas en elektriciteit
-
-Gelet op de [artikel 3.121, eerste lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.121) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81),
-
-Besluit:
 
 #### Paragraaf 1. – Algemeen
 
@@ -45,11 +19,11 @@ Besluit:
 
 In deze richtsnoeren wordt verstaan onder:
 
-- –. **ACM:** de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingwet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
+- – *ACM:* de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingwet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
 
-- –. **Code:** de door ACM goedgekeurde methoden of voorwaarden op grond van [artikel 3.121, eerste lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.121);
+- – *Code:* de door ACM goedgekeurde methoden of voorwaarden op grond van [artikel 3.121, eerste lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.121);
 
-- –. **Codevoorstel:** een voorstel voor of aanvulling of wijziging van methoden of voorwaarden van de gezamenlijke systeembeheerders als bedoeld in [artikel 3:120, eerste lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.120).
+- – *Codevoorstel:* een voorstel voor of aanvulling of wijziging van methoden of voorwaarden van de gezamenlijke systeembeheerders als bedoeld in [artikel 3:120, eerste lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.120).
 
 #### Paragraaf 2. – Het codevoorstel
 
@@ -97,6 +71,4 @@ De [Richtsnoeren Indiening codevoorstel](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 6. – Inwerkingtreding
 
-Dit besluit treedt in werking op 1 januari 2026.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+Dit besluit treedt in werking op 1 januari 2026.

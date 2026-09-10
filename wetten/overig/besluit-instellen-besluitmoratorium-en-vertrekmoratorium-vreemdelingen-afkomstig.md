@@ -1,50 +1,18 @@
 ---
 title: "Besluit van de Minister van Asiel en Migratie van 18 maart 2026, nummer 7273172 tot het instellen van een besluitmoratorium en vertrekmoratorium voor vreemdelingen afkomstig uit Iran"
+citeertitel: "Besluit instellen besluitmoratorium en vertrekmoratorium vreemdelingen afkomstig uit Iran"
 identifier: "BWBR0052445"
-country: "nl"
-rank: "ministeriele_regeling"
-publication_date: "2026-03-24"
-last_updated: "2026-03-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052445"
+categorie: "Overig"
 soort: "ministeriele-regeling"
-stam_id: "17818233"
-version_id: "31493762"
-internal_id: "C44973781"
-label_id: "17715404"
-dtd_version: "2.0"
-original_entry_into_force: "2026-03-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052445/2026-03-24/0"
-intitule_bron: "Stcrt.2026-11864"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2026-03-18"
-intitule_published: "2026-03-23"
-intitule_in_force: "2026-03-23"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-11864"
-original_signed_date: "2026-03-18"
-original_published_date: "2026-03-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-11864"
-entry_into_force_date: "2026-03-24"
-jci_1_3: "jci1.3:c:BWBR0052445&z=2026-03-24&g=2026-03-24"
-jci_1_0: "1.0:c:BWBR0052445&g=2026-03-24"
-citeertitel_status: "redactioneel"
-short_title: "Besluit instellen besluitmoratorium en vertrekmoratorium vreemdelingen afkomstig uit Iran"
-signed_date: "2026-03-18"
-entry_into_force: "2026-03-24"
+publicatiedatum: 2026-03-24
+laatste_update: 2026-03-24
+status: geldig
+toestand: 2026-03-24
+bron: "https://wetten.overheid.nl/BWBR0052445"
+opgehaald: 2026-09-10
 ---
+
 # Besluit van de Minister van Asiel en Migratie van 18 maart 2026, nummer 7273172 tot het instellen van een besluitmoratorium en vertrekmoratorium voor vreemdelingen afkomstig uit Iran
-
-Gelet op [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43), en [artikel 45, vierde lid, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45);
-
-Overwegende dat naar verwachting voor een korte periode onzekerheid zal bestaan over de algemene veiligheidssituatie in Iran, en op grond daarvan redelijkerwijs niet kan worden beslist of de aanvraag, zoals bedoeld in [artikel 28 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28), op een van de gronden genoemd in [artikel 29 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) kan worden ingewilligd;
-
-Dat als gevolg hiervan een besluitmoratorium wordt ingesteld met ingang van de dag van inwerkingtreding van onderhavig besluit en voor de duur van zes maanden, voor asielaanvragen van vreemdelingen afkomstig uit Iran;
-
-Dat in deze situatie voor vreemdelingen afkomstig uit Iran tevens een vertrekmoratorium wordt ingesteld, eveneens voor de duur van zes maanden.
-
-Besluit:
 
 ##### Artikel 1
 

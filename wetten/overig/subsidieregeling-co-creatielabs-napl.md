@@ -1,78 +1,84 @@
 ---
-title: "Subsidieregeling co-creatielabs NAPL"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 21 april 2026, nr. HO&S/63327145, houdende regels voor de subsidieverstrekking ten behoeve van het inrichten van co-creatielabs in het kader van de Nationale Aanpak Professionalisering Leraren (Subsidieregeling co-creatielabs NAPL)"
+citeertitel: "Subsidieregeling co-creatielabs NAPL"
 identifier: "BWBR0052599"
-categorie: "Overig"
+categorie: "Onderwijs"
+soort: "ministeriele-regeling"
 publicatiedatum: 2026-05-05
 laatste_update: 2026-05-05
 status: geldig
+toestand: 2026-05-05
 bron: "https://wetten.overheid.nl/BWBR0052599"
+opgehaald: 2026-09-10
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 21 april 2026, nr. HO&S/63327145, houdende regels voor de subsidieverstrekking ten behoeve van het inrichten van co-creatielabs in het kader van de Nationale Aanpak Professionalisering Leraren (Subsidieregeling co-creatielabs NAPL)
-
-Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **aanbodanalyse:** beeld van reeds bestaand professionaliseringsaanbod dat aansluit op de vraagarticulatie;
+- *aanbodanalyse:* beeld van reeds bestaand professionaliseringsaanbod dat aansluit op de vraagarticulatie;
 
-- **co-creatielab:** interdisciplinaire werkplaats waarin op gelijkwaardige basis wordt samengewerkt aan de systematische ontwikkeling van leerarrangementen gericht op de professionele ontwikkeling van leraren.
+- *co-creatielab:* interdisciplinaire werkplaats waarin op gelijkwaardige basis wordt samengewerkt aan de systematische ontwikkeling van leerarrangementen gericht op de professionele ontwikkeling van leraren.
 
-- **DUS-I:** Dienst Uitvoering Subsidies aan Instellingen;
+- *DUS-I:* Dienst Uitvoering Subsidies aan Instellingen;
 
-- **educatieve alliantie:** samenwerkingsverband, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052599&bijlage=1&z=2026-05-05&g=2026-05-05) bij deze regeling;
+- *educatieve alliantie:* samenwerkingsverband, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052599&bijlage=1&z=2026-05-05&g=2026-05-05) bij deze regeling;
 
-- **educatief consortium:** samenwerkingsverband als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052599&artikel=11&z=2026-05-05&g=2026-05-05);
+- *educatief consortium:* samenwerkingsverband als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052599&artikel=11&z=2026-05-05&g=2026-05-05);
 
-- **instellingsbestuur:** instellingsbestuur als bedoeld in [artikel 1.1, onderdeel j, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
+- *instellingsbestuur:* instellingsbestuur als bedoeld in [artikel 1.1, onderdeel j, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
 
-- **hogeronderwijsinstelling:** bekostigde instelling als bedoeld in [artikel 1.1, onderdeel g, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
+- *hogeronderwijsinstelling:* bekostigde instelling als bedoeld in [artikel 1.1, onderdeel g, van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
 
-- **Kaderregeling:** [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
+- *Kaderregeling:*
+ [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
 
-- **leerarrangement:** samenhangend geheel van formele en informele leeractiviteiten ten behoeve van de professionalisering van leraren, dat past binnen de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052599&bijlage=2&z=2026-05-05&g=2026-05-05) omschreven ontwikkelpaden en dat voldoet aan de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052599&bijlage=3&z=2026-05-05&g=2026-05-05) gestelde kwaliteitscriteria;
+- *leerarrangement:* samenhangend geheel van formele en informele leeractiviteiten ten behoeve van de professionalisering van leraren, dat past binnen de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052599&bijlage=2&z=2026-05-05&g=2026-05-05) omschreven ontwikkelpaden en dat voldoet aan de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052599&bijlage=3&z=2026-05-05&g=2026-05-05) gestelde kwaliteitscriteria;
 
-- **leraar:** persoon als bedoeld in [artikel 2.1, onderdelen a, b c of e van het Besluit bekwaamheidseisen onderwijspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0018692&artikel=2.1);
+- *leraar:* persoon als bedoeld in [artikel 2.1, onderdelen a, b c of e van het Besluit bekwaamheidseisen onderwijspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0018692&artikel=2.1);
 
-- **lerarenopleiding:** op basis van de [WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) bekostigde bachelor- of masteropleiding die leidt tot het verkrijgen van een bevoegdheid om onderwijs te geven als bedoeld in de [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280) of de [WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) of die ertoe leidt dat een docent voldoet aan de bekwaamheidseisen voor benoeming of tewerkstelling van docenten als bedoeld in [artikel 4.2.1, tweede lid, onderdeel b, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.1);
+- *lerarenopleiding:* op basis van de [WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) bekostigde bachelor- of masteropleiding die leidt tot het verkrijgen van een bevoegdheid om onderwijs te geven als bedoeld in de [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), de [Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280) of de [WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) of die ertoe leidt dat een docent voldoet aan de bekwaamheidseisen voor benoeming of tewerkstelling van docenten als bedoeld in [artikel 4.2.1, tweede lid, onderdeel b, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.1);
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **onderwijsregio:** onderwijsregio als bedoeld in [artikel 1 van de Subsidieregeling Landelijk dekkend netwerk onderwijsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=1) waarvoor op basis van die regeling subsidie wordt verstrekt;
+- *onderwijsregio:* onderwijsregio als bedoeld in [artikel 1 van de Subsidieregeling Landelijk dekkend netwerk onderwijsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0049781&artikel=1) waarvoor op basis van die regeling subsidie wordt verstrekt;
 
-- **ontwikkelpaden:** in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052599&bijlage=2&z=2026-05-05&g=2026-05-05) opgenomen kaders voor professionaliseringstrajecten die door leraren kunnen worden gebruikt om zich te ontwikkelen van start- naar vakbekwaam, of van vakbekwaam naar expert;
+- *ontwikkelpaden:* in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052599&bijlage=2&z=2026-05-05&g=2026-05-05) opgenomen kaders voor professionaliseringstrajecten die door leraren kunnen worden gebruikt om zich te ontwikkelen van start- naar vakbekwaam, of van vakbekwaam naar expert;
 
-- **penvoerder:** penvoerder van een educatief consortium als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052599&artikel=5&z=2026-05-05&g=2026-05-05);
+- *penvoerder:* penvoerder van een educatief consortium als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052599&artikel=5&z=2026-05-05&g=2026-05-05);
 
-- **private opleider:** opleider die geen bekostigd onderwijs aanbiedt in de zin van [artikel 2.1.1 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.1), [artikel 2.1.2 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.2) of een bekostigde instelling is in de zin van [artikel 1.1, onder g van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
+- *private opleider:* opleider die geen bekostigd onderwijs aanbiedt in de zin van [artikel 2.1.1 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.1), [artikel 2.1.2 WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.1.2) of een bekostigde instelling is in de zin van [artikel 1.1, onder g van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1);
 
-- **Realisatie-Eenheid:** organisatieonderdeel van het Ministerie van Onderwijs, Cultuur en Wetenschap, opgericht in samenwerking met onderwijsraden, lerarenopleidingen en werknemersorganisaties, met de opdracht zorg te dragen voor de vorming van een landelijk dekkend netwerk van onderwijsregio’s en hier regie op te voeren;
+- *Realisatie-Eenheid:* organisatieonderdeel van het Ministerie van Onderwijs, Cultuur en Wetenschap, opgericht in samenwerking met onderwijsraden, lerarenopleidingen en werknemersorganisaties, met de opdracht zorg te dragen voor de vorming van een landelijk dekkend netwerk van onderwijsregio’s en hier regie op te voeren;
 
-- **sectoren:** primair onderwijs, voortgezet onderwijs en middelbaar beroepsonderwijs als bedoeld in de [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), [WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) en [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
+- *sectoren:* primair onderwijs, voortgezet onderwijs en middelbaar beroepsonderwijs als bedoeld in de [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), [WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) en [WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
 
-- **school:** school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) of [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
+- *school:* school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) of [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1);
 
-- **schoolleider:** directeur als bedoeld in [artikel 32 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=32), [artikel 29 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=29), of directeur en rector als bedoeld in [artikel 7.23 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.23);
+- *schoolleider:* directeur als bedoeld in [artikel 32 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=32), [artikel 29 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=29), of directeur en rector als bedoeld in [artikel 7.23 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.23);
 
-- **schoolbestuur:** bevoegd gezag als bedoeld in [artikel 1 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), [artikel 1.1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1) of in [artikel 1.1.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
+- *schoolbestuur:* bevoegd gezag als bedoeld in [artikel 1 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1), [artikel 1.1 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1) of in [artikel 1.1.1 van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
-- **vraagarticulatie:** voortdurend proces van afstemming binnen een onderwijsregio waarin professionaliseringsbehoeften van leraren, scholen en schoolbesturen worden gesignaleerd, verkend en doorgrond, waarbij het resultaat van dit proces de basis vormt voor het ontwikkelen, testen en evalueren van professionaliseringstrajecten in een co-creatielab;
+- *vraagarticulatie:* voortdurend proces van afstemming binnen een onderwijsregio waarin professionaliseringsbehoeften van leraren, scholen en schoolbesturen worden gesignaleerd, verkend en doorgrond, waarbij het resultaat van dit proces de basis vormt voor het ontwikkelen, testen en evalueren van professionaliseringstrajecten in een co-creatielab;
 
-- **WHW:** [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
+- *WHW:*
+ [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
 
-- **WEB:** [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
+- *WEB:*
+ [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625);
 
-- **WEC:** [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
+- *WEC:*
+ [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549);
 
-- **WPO:** [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
+- *WPO:*
+ [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
 
-- **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
+- *WVO 2020:*
+ [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing Kaderregeling subsidies OCW, SZW en VWS
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603), met uitzondering van [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.3).
 
@@ -84,9 +90,9 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - b. het voor eenieder kosteloos toegankelijk maken van ontwikkelde en getoetste leerarrangementen als bedoeld in onderdeel a en de overige kennis die door uitvoering van de in onderdeel a bedoelde activiteiten is opgedaan:
 
-  - 1°. via een digitaal platform; en
+   - 1°. via een digitaal platform; en
 
-  - 2°. binnen het educatief consortium en met andere educatieve consortia door middel van deelname aan minimaal drie door de Realisatie-Eenheid te organiseren bijeenkomsten; en
+   - 2°. binnen het educatief consortium en met andere educatieve consortia door middel van deelname aan minimaal drie door de Realisatie-Eenheid te organiseren bijeenkomsten; en
 
 - c. het verrichten van onderzoek dat bijdraagt aan kennisdeling als bedoeld onder b, en dat aansluit bij een landelijk onderzoek naar het functioneren van co-creatielabs.
 
@@ -112,7 +118,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 ##### Artikel 4. Hoogte van de subsidie
 
-De subsidie voor de activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052599&artikel=3&z=2026-05-05&g=2026-05-05), bestaat uit een vast bedrag van € 2.700.000 per aanvraag.
+De subsidie voor de activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052599&artikel=3&z=2026-05-05&g=2026-05-05), bestaat uit een vast bedrag van € 2.700.000 per aanvraag.
 
 ##### Artikel 5. Penvoerder
 
@@ -136,11 +142,11 @@ De subsidie voor de activiteiten, bedoeld in [artikel 3, eerste lid](https://wet
 
 ##### Artikel 6. Subsidieplafond
 
-Voor subsidieverstrekking op grond van deze regeling is in 2026 een bedrag van € 27.000.000,– beschikbaar.
+Voor subsidieverstrekking op grond van deze regeling is in 2026 een bedrag van € 27.000.000,– beschikbaar.
 
 ##### Artikel 7. Algemene bepalingen subsidieaanvraag
 
-1. Op grond van deze regeling kan subsidie worden aangevraagd van 17 augustus 2026 om 9:00 uur tot en met 4 september 2026 om 13:00 uur.
+1. Op grond van deze regeling kan subsidie worden aangevraagd van 17 augustus 2026 om 9:00 uur tot en met 4 september 2026 om 13:00 uur.
 
 2. Aanvragen die buiten de in het eerste lid bedoelde aanvraagronde worden ingediend, worden afgewezen.
 
@@ -190,13 +196,13 @@ Voor subsidieverstrekking op grond van deze regeling is in 2026 een bedrag van �
 
 1. In aanvulling op [artikel 3.5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.5) kan in de begroting voor wat betreft de personele kosten worden gekozen uit vier functies met een vast integraal uurtarief inclusief opslag voor overhead en administratie:
 
-- a. secretarieel of administratief medewerker € 67;
+- a. secretarieel of administratief medewerker € 67;
 
-- b. projectmedewerker € 93;
+- b. projectmedewerker € 93;
 
-- c. projectleider, leraar of onderzoeker € 117; en
+- c. projectleider, leraar of onderzoeker € 117; en
 
-- d. (associate) practor, lector, of hoogleraar € 138.
+- d. (associate) practor, lector, of hoogleraar € 138.
 
 2. Voor de begroting wordt gebruikgemaakt van het hiervoor door DUS-I beschikbaar gestelde format.
 
@@ -240,11 +246,11 @@ Onverminderd de [artikelen 4:25](https://wetten.overheid.nl/jci1.3:c:BWBR0005537
 
 Aan de subsidieontvanger worden de volgende verplichtingen opgelegd:
 
-- a. De activiteiten waarvoor op basis van deze regeling subsidie wordt verstrekt, worden uitgevoerd in de periode van 1 september 2026 tot en met 31 augustus 2029;
+- a. De activiteiten waarvoor op basis van deze regeling subsidie wordt verstrekt, worden uitgevoerd in de periode van 1 september 2026 tot en met 31 augustus 2029;
 
-- b. De penvoerder zendt binnen 13 weken na de afronding van het project, doch uiterlijk binnen 13 weken na het verstrijken van de subsidieperiode, een eindrapportage aan de minister over de subsidiabele periode, bedoeld in onderdeel a;
+- b. De penvoerder zendt binnen 13 weken na de afronding van het project, doch uiterlijk binnen 13 weken na het verstrijken van de subsidieperiode, een eindrapportage aan de minister over de subsidiabele periode, bedoeld in onderdeel a;
 
-- c. De penvoerder zendt op uiterlijk 15 oktober 2027 een voortgangsrapportage over de periode 1 september 2026 tot en met 31 augustus 2027 en op uiterlijk 15 oktober 2028 een voortgangsrapportage over de periode 1 september 2027 tot en met 31 augustus 2028 aan de minister;
+- c. De penvoerder zendt op uiterlijk 15 oktober 2027 een voortgangsrapportage over de periode 1 september 2026 tot en met 31 augustus 2027 en op uiterlijk 15 oktober 2028 een voortgangsrapportage over de periode 1 september 2027 tot en met 31 augustus 2028 aan de minister;
 
 - d. De penvoerder voert met betrekking tot de financiering van de kosten en inkomsten uit economische activiteiten een gescheiden boekhouding, indien de penvoerder naast niet- economische activiteiten ook economische activiteiten verricht;
 
@@ -310,46 +316,8 @@ De minister kan deze regeling in bijzondere gevallen buiten toepassing verklaren
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 1 januari 2031, met dien verstande dat de regeling van toepassing blijft ten aanzien van de subsidies die voor die datum op grond van de regeling zijn verstrekt.
+2. Deze regeling vervalt met ingang van 1 januari 2031, met dien verstande dat de regeling van toepassing blijft ten aanzien van de subsidies die voor die datum op grond van de regeling zijn verstrekt.
 
 ##### Artikel 22. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling co-creatielabs NAPL.
-
-## Bijlage 1. behorend bij de Subsidieregeling co-creatielabs NAPL
-
-### Educatieve allianties en deelnemende hogeronderwijsinstellingen
-
-## Bijlage 2. behorend bij de Subsidieregeling co-creatielabs NAPL
-
-### Ontwikkelpaden en specialismen
-
-In bekwaamheid van leraren kunnen we drie niveaus onderscheiden: startbekwaam, vakbekwaam en expert. Aan het einde van zijn initiële opleiding is een leraar startbekwaam en wettelijk bevoegd om les te geven. Via ontwikkelpaden kan een leraar een volgend niveau bereiken. Vakbekwame leraren hebben een breder en effectiever handelingsrepertoire dan de startbekwame leraar en kunnen autonomer handelen en lesgeven in complexere onderwijssituaties. Waar vakbekwaamheid ontwikkeling in de breedte is, gaat het bij het expertniveau om ontwikkeling in de diepte in een specifiek domein, zoals curriculumontwikkeling. Als zodanig bieden ontwikkelpaden leraren inzicht in waar ze staan in hun professionele ontwikkeling, waar ze naartoe kunnen groeien en via welke route. De ontwikkelpaden schrijven geen vaste routes voor en worden modulair opgebouwd (in leerarrangementen).
-
-Voor een volledige omschrijving van de ontwikkelpaden wordt verwezen naar [www.napl.nl](http://www.napl.nl/).
-
-1 Een specialisatie kan typerend zijn voor één sector, maar ook voor twee of alle drie (po, vo, mbo). Een specialisatie kan generiek zijn en sectorspecifiek worden uitgewerkt.
-
-## Bijlage 3. behorend bij de Subsidieregeling co-creatielabs NAPL
-
-### Kwaliteitskader
-
-Het kwaliteitskader bestaat uit kwaliteitsstandaarden. De kwaliteitsstandaarden zijn gebaseerd op de visie van NAPL op de kwaliteit van de leerarrangementen.
-
-### Samenhang met ontwikkelpaden
-
-Ontwikkelpaden bieden leraren inzicht in waar ze staan in hun professionele ontwikkeling, waar ze naartoe kunnen groeien en via welke route. De ontwikkelpaden schrijven geen vaste routes voor en worden modulair opgebouwd (in leerarrangementen). Leraren ontwikkelen zich binnen een ontwikkelpad door te werken aan leeruitkomsten. De volgende fasering wordt onderscheiden: van start bekwaam naar vakbekwaam en van vakbekwaam naar expert leraar. Een leraar ontwikkelt zich, in een ontwikkelpad, door een of meerdere leerarrangementen in de loop van tijd te volgen of het hele ontwikkelpad (te stapelen). Er wordt geen vaste route voorgeschreven voor het aantal leerarrangementen per ontwikkelpad. Vorm moet inhoud volgen en de leerarrangementen (die samen optellen tot een ontwikkelpad) moeten een samenhangend geheel vormen, met logische onderwijskundige opbouw.
-
-Om de samenhang van een ontwikkelpad te bewaken wordt uitgegaan van maximaal 6–10 aanbieders. Er is voor leraren vrije keuze om te kiezen voor een passende aanbieder.Een aanbieder baseert zich op de ontwikkelpaden van NAPL en het aanbod voldoet aan het kwaliteitskader.Een aanbieder kan ervoor kiezen om een of meerdere leerarrangementen, of alle leerarrangementen van een ontwikkelpad als geheel aan te bieden. Het moet altijd duidelijk zijn voor leraren hoe een leerarrangement zich verhoudt tot het gehele ontwikkelpad.
-
-### Kwaliteitsstandaarden
-
-1 Met leeruitkomsten wordt bedoeld wat een deelnemende leraar geacht wordt te weten, te begrijpen en te kunnen toepassen na afronding van een leerperiode. Aanbieders kunnen er voor kiezen om met andere terminologie te gaan werken zoals leerdoelen, eindkwalificaties of microcredentials.
-
-### Kenmerken van effectieve professionalisering
-
-Er is veel wetenschappelijk onderzoek naar kenmerken van effectieve professionalisering, binnen het onderwijsdomein en daarbuiten. Leerarrangement moeten daarom aansluiten op de kenmerken van effectieve professionalisering. Aanbieders van leerarrangementen schrijven hiervoor een theory of change.
-
-Het kwaliteitskader kent de volgende kenmerken van effectieve professionalisering:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

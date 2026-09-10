@@ -2,23 +2,16 @@
 title: "Regeling kwaliteitscriteria en opleidings- en trainingsvereisten van de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba"
 identifier: "BWBR0052577"
 categorie: "Overig"
+soort: "ministeriele-regeling"
 publicatiedatum: 2010-09-01
-laatste_update: 2026-05-08
+laatste_update: 2010-09-01
 status: geldig
+toestand: 2010-09-01
 bron: "https://wetten.overheid.nl/BWBR0052577"
+opgehaald: 2026-09-10
 ---
 
 # Regeling kwaliteitscriteria en opleidings- en trainingsvereisten van de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba
-
-Overwegende:
-
-dat op grond van [artikel 41, eerste lid, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=41) de landen onderling een regeling treffen die kwaliteitscriteria en opleidings- en trainingsvereisten voor ambtenaren van politie bevat;
-
-dat deze regeling in elk van de landen wordt vastgesteld bij landsbesluit, houdende algemene maatregelen, respectievelijk algemene maatregel van bestuur,
-
-Gelet op [artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38) en [artikel 41, eerste lid, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=41);
-
-Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
@@ -26,49 +19,49 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. **ambtenaar:** de ambtenaar van politie, bedoeld in [artikel 3 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3), en de aspirant;
+- a. *ambtenaar:* de ambtenaar van politie, bedoeld in [artikel 3 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3), en de aspirant;
 
-- b. **ambtenaar van politie aangesteld voor de uitvoering van de politietaak:** de ambtenaar, bedoeld in [artikel 3, onder a, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3), met uitzondering van de aspirant;
+- b. *ambtenaar van politie aangesteld voor de uitvoering van de politietaak:* de ambtenaar, bedoeld in [artikel 3, onder a, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3), met uitzondering van de aspirant;
 
-- c. **ambtenaar van politie aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie:**de ambtenaar, bedoeld in [artikel 3, onder b, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3);
+- c. *ambtenaar van politie aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie:*de ambtenaar, bedoeld in [artikel 3, onder b, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3);
 
-- d. **aspirant:** degene die door het bevoegd gezag is aangesteld als aspirant en die is toegelaten tot de basisopleiding;
+- d. *aspirant:* degene die door het bevoegd gezag is aangesteld als aspirant en die is toegelaten tot de basisopleiding;
 
-- e. **betrouwbaarheidsonderzoek:** een onderzoek ter bepaling of bedenkingen bestaan tegen vervulling van de functie door een bepaalde persoon;
+- e. *betrouwbaarheidsonderzoek:* een onderzoek ter bepaling of bedenkingen bestaan tegen vervulling van de functie door een bepaalde persoon;
 
-- f. **bevoegd gezag:** het bij landsverordening of bij wet aangewezen gezag, bedoeld in [artikel 45, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=45);
+- f. *bevoegd gezag:* het bij landsverordening of bij wet aangewezen gezag, bedoeld in [artikel 45, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=45);
 
-- g. **competentiegerichte eindtermen:** als zodanig omschreven kwaliteiten op het gebied van kennis, inzicht, vaardigheden, houding en ervaring waarover degene die het onderwijstraject op een bepaald kwalificatieniveau voltooit, met het oog op het maatschappelijk en beroepsmatig functioneren dient te beschikken, en die in voorkomende gevallen betekenis hebben voor de doorstroming naar vervolgonderwijs;
+- g. *competentiegerichte eindtermen:* als zodanig omschreven kwaliteiten op het gebied van kennis, inzicht, vaardigheden, houding en ervaring waarover degene die het onderwijstraject op een bepaald kwalificatieniveau voltooit, met het oog op het maatschappelijk en beroepsmatig functioneren dient te beschikken, en die in voorkomende gevallen betekenis hebben voor de doorstroming naar vervolgonderwijs;
 
-- h. **geleider:** de ambtenaar van politie, bedoeld in [artikel 3 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3), die toestemming heeft van de korpsbeheerder om dienst te doen met een politiespeurhond, politiesurveillancehond of een hond die bedoeld is om in te zetten bij het optreden van een aanhoudings- en ondersteuningseenheid;
+- h. *geleider:* de ambtenaar van politie, bedoeld in [artikel 3 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3), die toestemming heeft van de korpsbeheerder om dienst te doen met een politiespeurhond, politiesurveillancehond of een hond die bedoeld is om in te zetten bij het optreden van een aanhoudings- en ondersteuningseenheid;
 
-- i. **geweldmiddel:** het geweldmiddel, bedoeld in [artikel 1, eerste lid, van de Ambtsinstructie voor de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028717&artikel=1);
+- i. *geweldmiddel:* het geweldmiddel, bedoeld in [artikel 1, eerste lid, van de Ambtsinstructie voor de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028717&artikel=1);
 
-- j. **justitiële documentatie:** bij of krachtens landsverordening of bij of krachtens wet omschreven gegevens omtrent natuurlijke personen of rechtspersonen inzake de toepassing van het strafrecht of de strafvordering;
+- j. *justitiële documentatie:* bij of krachtens landsverordening of bij of krachtens wet omschreven gegevens omtrent natuurlijke personen of rechtspersonen inzake de toepassing van het strafrecht of de strafvordering;
 
-- k. **Onze Minister:** Onze Minister van Justitie van Curaçao, Onze Minister van Justitie van Sint Maarten of Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- k. *Onze Minister:* Onze Minister van Justitie van Curaçao, Onze Minister van Justitie van Sint Maarten of Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- l. **Onze Ministers:** Onze Minister van Justitie van Curaçao, Onze Minister van Justitie van Sint Maarten en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties gezamenlijk;
+- l. *Onze Ministers:* Onze Minister van Justitie van Curaçao, Onze Minister van Justitie van Sint Maarten en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties gezamenlijk;
 
-- m. **politiegegevens:** de gegevens, bedoeld in artikel 1, onder a, van de onderlinge regeling tussen Curaçao, Sint Maarten en Nederland betreffende de verwerking van politiegegevens, bedoeld in de [artikelen 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=39), en [57 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=57);
+- m. *politiegegevens:* de gegevens, bedoeld in artikel 1, onder a, van de onderlinge regeling tussen Curaçao, Sint Maarten en Nederland betreffende de verwerking van politiegegevens, bedoeld in de [artikelen 39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=39), en [57 van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=57);
 
-- n. **rijkswet:** de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba;
+- n. *rijkswet:* de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba;
 
-- o. **toets aanhoudings- en zelfverdedigingsvaardigheden:** de door Onze Ministers samengestelde toets ter beoordeling van aanhoudings- en zelfverdedigingsvaardigheden;
+- o. *toets aanhoudings- en zelfverdedigingsvaardigheden:* de door Onze Ministers samengestelde toets ter beoordeling van aanhoudings- en zelfverdedigingsvaardigheden;
 
-- p. **toets geweldsbeheersing:** de door Onze Ministers samengestelde toets ter beoordeling van de kennis op het gebied van geweldbeheersing;
+- p. *toets geweldsbeheersing:* de door Onze Ministers samengestelde toets ter beoordeling van de kennis op het gebied van geweldbeheersing;
 
-- q. **toets schietvaardigheid:** de door Onze Ministers samengestelde toets ter beoordeling van de schietvaardigheid;
+- q. *toets schietvaardigheid:* de door Onze Ministers samengestelde toets ter beoordeling van de schietvaardigheid;
 
-- r. **toetser:** de ambtenaar van politie die heeft voldaan aan de daartoe strekkende opleiding en is gecertificeerd om de toets geweldbeheersing, de toets aanhoudings- en zelfverdedigingsvaardigheden of de toets schietvaardigheid af te nemen;
+- r. *toetser:* de ambtenaar van politie die heeft voldaan aan de daartoe strekkende opleiding en is gecertificeerd om de toets geweldbeheersing, de toets aanhoudings- en zelfverdedigingsvaardigheden of de toets schietvaardigheid af te nemen;
 
-- s. **verklaring omtrent het gedrag:** een verklaring van een bij landsverordening of bij wet aangewezen instantie dat uit een onderzoek met betrekking tot het gedrag van de betrokkene, gelet op het doel waarvoor de afgifte is gevraagd, niet is gebleken van bezwaren tegen die betrokkene.
+- s. *verklaring omtrent het gedrag:* een verklaring van een bij landsverordening of bij wet aangewezen instantie dat uit een onderzoek met betrekking tot het gedrag van de betrokkene, gelet op het doel waarvoor de afgifte is gevraagd, niet is gebleken van bezwaren tegen die betrokkene.
 
-- t. **vertrouwensfunctie:** een door Onze Minister aangewezen functie die de mogelijkheid biedt de nationale veiligheid te schaden;
+- t. *vertrouwensfunctie:* een door Onze Minister aangewezen functie die de mogelijkheid biedt de nationale veiligheid te schaden;
 
-- u. **vrijwillige ambtenaar:** de ambtenaar, bedoeld in [artikel 3, onder c, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3);
+- u. *vrijwillige ambtenaar:* de ambtenaar, bedoeld in [artikel 3, onder c, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=3);
 
-- v. **vrijwillige ambtenaar in opleiding:** degene die door het bevoegd gezag is aangesteld tot vrijwillige ambtenaar in opleiding en die is toegelaten tot de opleiding tot vrijwillige ambtenaar van politie.
+- v. *vrijwillige ambtenaar in opleiding:* degene die door het bevoegd gezag is aangesteld tot vrijwillige ambtenaar in opleiding en die is toegelaten tot de opleiding tot vrijwillige ambtenaar van politie.
 
 ### Hoofdstuk 2. Aanstellingseisen
 
@@ -380,43 +373,43 @@ Voor een keuring komen in aanmerking honden die:
 
 - a. voor alle politiespeurhonden met uitzondering van de politiespeurhonden menselijke geur:
 
-  - 1. gehoorzaamheid van de politiespeurhond aan de geleider;
+   - 1. gehoorzaamheid van de politiespeurhond aan de geleider;
 
-  - 2. een goede samenwerking van de politiespeurhond met de geleider;
+   - 2. een goede samenwerking van de politiespeurhond met de geleider;
 
-  - 3. het niet agressief zijn ten opzichte van mensen en dieren, en
+   - 3. het niet agressief zijn ten opzichte van mensen en dieren, en
 
-  - 4. de vaardigheid van het kunnen nemen van alle hindernissen die voor een goed functioneren in de praktijk geen belemmering mogen zijn;
+   - 4. de vaardigheid van het kunnen nemen van alle hindernissen die voor een goed functioneren in de praktijk geen belemmering mogen zijn;
 
 - b. voor de speurtaak van de politiespeurhonden menselijke geur:
 
-  - 1. het zelfstandig willen en kunnen zoeken van kleine en grote voorwerpen met menselijke geur;
+   - 1. het zelfstandig willen en kunnen zoeken van kleine en grote voorwerpen met menselijke geur;
 
-  - 2. het opsporen en lokaliseren van een persoon, en
+   - 2. het opsporen en lokaliseren van een persoon, en
 
-  - 3. het speuren over gecombineerde terreinen;
+   - 3. het speuren over gecombineerde terreinen;
 
 - c. voor de geuridentificatietaak van de politiespeurhond menselijke geur: het uitvoeren van een tweetal geuridentificatieproeven, zoals in het keuringsreglement omschreven;
 
 - d. voor de politiespeurhond verdovende middelen:
 
-  - 1. het zelfstandig willen en kunnen zoeken van verdovende middelen, en
+   - 1. het zelfstandig willen en kunnen zoeken van verdovende middelen, en
 
-  - 2. het vermogen om binnen een redelijke tijd alleen die soorten verdovende middelen, die in het keuringsreglement zijn aangewezen, op te sporen;
+   - 2. het vermogen om binnen een redelijke tijd alleen die soorten verdovende middelen, die in het keuringsreglement zijn aangewezen, op te sporen;
 
 - e. voor de politiespeurhond explosieven:
 
-  - 1. het zelfstandig willen en kunnen zoeken naar explosieven, wapens en munitie, en
+   - 1. het zelfstandig willen en kunnen zoeken naar explosieven, wapens en munitie, en
 
-  - 2. het vermogen om binnen redelijke tijd explosieven, wapens en munitie op te sporen en te lokaliseren;
+   - 2. het vermogen om binnen redelijke tijd explosieven, wapens en munitie op te sporen en te lokaliseren;
 
 - f. voor de politiespeurhond stoffelijke resten: het zelfstandig willen en kunnen zoeken naar stoffelijke resten van mensen;
 
 - g. voor de politiespeurhond brandversnellende middelen:
 
-  - 1. het zelfstandig willen en kunnen zoeken naar brandversnellende middelen, en
+   - 1. het zelfstandig willen en kunnen zoeken naar brandversnellende middelen, en
 
-  - 2. het vermogen om binnen een redelijke tijd alleen die brandversnellende middelen, die in het keuringsreglement zijn aangewezen, op te sporen.
+   - 2. het vermogen om binnen een redelijke tijd alleen die brandversnellende middelen, die in het keuringsreglement zijn aangewezen, op te sporen.
 
 5. De verdovende middelen, bedoeld in het vierde lid, onderdeel d, onder 2°, worden geplaatst en verborgen in kleine hoeveelheden, op locaties en in verpakkingen overeenkomstig de praktijk.
 
@@ -559,5 +552,3 @@ Voor een keuring komen in aanmerking honden die:
 ##### Artikel 7.16
 
 Deze regeling wordt aangehaald als: Regeling kwaliteitscriteria en opleidings- en trainingsvereisten van de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba.
-
-Deze regeling wordt binnen 30 dagen na ondertekening geplaatst in de Staatscourant en de Curaçaosche Courant.

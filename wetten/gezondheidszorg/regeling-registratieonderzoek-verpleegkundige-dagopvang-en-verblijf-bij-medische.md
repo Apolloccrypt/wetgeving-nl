@@ -2,39 +2,40 @@
 title: "Regeling registratieonderzoek verpleegkundige dagopvang en verblijf bij medische kindzorg"
 identifier: "BWBR0052608"
 categorie: "Gezondheidszorg"
+soort: "zbo"
 publicatiedatum: 2026-05-08
 laatste_update: 2026-05-08
 status: geldig
+toestand: 2026-05-08
 bron: "https://wetten.overheid.nl/BWBR0052608"
+opgehaald: 2026-09-10
 ---
 
 # Regeling registratieonderzoek verpleegkundige dagopvang en verblijf bij medische kindzorg
-
-Gelet op [artikelen 36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), [62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62), en [68 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68) (Wmg), is de Nederlandse Zorgautoriteit (NZa), bevoegd tot het stellen van regels op het gebied van verpleegkundige dagopvang en verblijf bij medische kindzorg.
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
-- **Medische kindzorg:** Medische kindzorg is zorg aan kinderen tot achttien jaar waarbij sprake is van behoefte aan zorg zoals verpleegkundigen plegen te bieden in verband met geneeskundige zorg of een hoog risico daarop. Tevens is bij deze kinderen sprake van een behoefte aan permanent toezicht of 24-uurs zorg in de nabijheid in combinatie met verpleegkundig technische handelingen.
+- *Medische kindzorg:* Medische kindzorg is zorg aan kinderen tot achttien jaar waarbij sprake is van behoefte aan zorg zoals verpleegkundigen plegen te bieden in verband met geneeskundige zorg of een hoog risico daarop. Tevens is bij deze kinderen sprake van een behoefte aan permanent toezicht of 24-uurs zorg in de nabijheid in combinatie met verpleegkundig technische handelingen.
 
-- **Zorgaanbieder:** De natuurlijke persoon of rechtspersoon als bedoeld in [artikel 1 aanhef en onder c van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
+- *Zorgaanbieder:* De natuurlijke persoon of rechtspersoon als bedoeld in [artikel 1 aanhef en onder c van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
 
-- **Registratieonderzoek:** Het in deze regeling opgenomen registratieonderzoek verpleegkundige dagopvang en verblijf bij medische kindzorg.
+- *Registratieonderzoek:* Het in deze regeling opgenomen registratieonderzoek verpleegkundige dagopvang en verblijf bij medische kindzorg.
 
 ##### Artikel 2. Doel van de regeling
 
-Deze regeling beoogt voorschriften te stellen die een zorgaanbieder in acht moet nemen bij het registratieonderzoek (zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052608&artikel=1&z=2026-05-08&g=2026-05-08) van deze regeling). De voorschriften zijn van toepassing op de zorgaanbieders die zijn geselecteerd en daarmee onderdeel uitmaken van het registratieonderzoek. De voorschriften hebben betrekking op:
+Deze regeling beoogt voorschriften te stellen die een zorgaanbieder in acht moet nemen bij het registratieonderzoek (zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052608&artikel=1&z=2026-05-08&g=2026-05-08) van deze regeling). De voorschriften zijn van toepassing op de zorgaanbieders die zijn geselecteerd en daarmee onderdeel uitmaken van het registratieonderzoek. De voorschriften hebben betrekking op:
 
-- •. registratie van gegevens; en
+- • registratie van gegevens; en
 
-- •. de aanlevering van die gegevens.
+- • de aanlevering van die gegevens.
 
 Het registratieonderzoek wordt uitgevoerd ten behoeve van een verbetering van de prestatiestructuur voor de medische kindzorg met een verblijfs- en dagopvangcomponent.
 
 ##### Artikel 3. Reikwijdte
 
-Deze regeling is van toepassing op geselecteerde zorgaanbieders die verpleegkundige dagopvang en/of verblijf binnen de medische kindzorg, zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052608&artikel=1&z=2026-05-08&g=2026-05-08) van deze regeling, leveren.
+Deze regeling is van toepassing op geselecteerde zorgaanbieders die verpleegkundige dagopvang en/of verblijf binnen de medische kindzorg, zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052608&artikel=1&z=2026-05-08&g=2026-05-08) van deze regeling, leveren.
 
 ##### Artikel 4. Selectie van zorgaanbieders
 
@@ -42,41 +43,41 @@ Deze regeling is van toepassing op geselecteerde zorgaanbieders die verpleegkund
 
 2. De geselecteerde zorgaanbieders worden hiervan op de hoogte gebracht door middel van een schrijven van de NZa.
 
-- a. De NZa heeft voor het registratieonderzoek de zorgaanbieders geselecteerd die de twee gereguleerde medische kindzorg prestaties leveren die op locatie geleverd worden. Dit zijn de prestaties ‘Verpleegkundige dagopvang medische kindzorg’ en ‘Verblijf medische kindzorg’ genoemd in de Beleidsregel verpleegkundige dagopvang en verblijf bij medische kindzorg.
+3. - a. De NZa heeft voor het registratieonderzoek de zorgaanbieders geselecteerd die de twee gereguleerde medische kindzorg prestaties leveren die op locatie geleverd worden. Dit zijn de prestaties ‘Verpleegkundige dagopvang medische kindzorg’ en ‘Verblijf medische kindzorg’ genoemd in de Beleidsregel verpleegkundige dagopvang en verblijf bij medische kindzorg.
 
-- b. Daarnaast dienen de aanbieders, om geselecteerd te zijn, de zorg ‘aanzienlijk’ te leveren. Daarvoor is een omzet van meer dan € 30.000,00 als ondergrens genomen.
+- b. Daarnaast dienen de aanbieders, om geselecteerd te zijn, de zorg ‘aanzienlijk’ te leveren. Daarvoor is een omzet van meer dan € 30.000,00 als ondergrens genomen.
 
 4. De geselecteerde zorgaanbieders moeten redelijkerwijs aan de onderstaande eisen voldoen:
 
-- •. de zorgaanbieder moet de gegevens aan kunnen leveren conform het speciaal voor deze uitvraag opgestelde invulformat ‘Mkz Uitvraag nieuwe prestaties’ ([bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052608&bijlage=1&z=2026-05-08&g=2026-05-08) bij deze regeling);
+- • de zorgaanbieder moet de gegevens aan kunnen leveren conform het speciaal voor deze uitvraag opgestelde invulformat ‘Mkz Uitvraag nieuwe prestaties’ ([bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052608&bijlage=1&z=2026-05-08&g=2026-05-08) bij deze regeling);
 
-- •. de zorgaanbieder levert medische kindzorg in (een deel van) de registratieperiode.
+- • de zorgaanbieder levert medische kindzorg in (een deel van) de registratieperiode.
 
 ##### Artikel 5. Registratie van gegevens
 
-Geselecteerde zorgaanbieders zijn op grond van deze regeling verplicht om de gegevens, zoals opgenomen in het invulformat ‘Mkz Uitvraag nieuwe prestaties’ ([bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052608&bijlage=1&z=2026-05-08&g=2026-05-08) bij deze regeling) te registreren.
+Geselecteerde zorgaanbieders zijn op grond van deze regeling verplicht om de gegevens, zoals opgenomen in het invulformat ‘Mkz Uitvraag nieuwe prestaties’ ([bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052608&bijlage=1&z=2026-05-08&g=2026-05-08) bij deze regeling) te registreren.
 
 ##### Artikel 6. Aanleveren van gegevens
 
 1. De geselecteerde zorgaanbieders leveren de geregistreerde gegevens aan bij de NZa.
 
-2. De geregistreerde gegevens worden in .csv format (Excel) aangeleverd. Er wordt gebruik gemaakt van het invulformat ‘Mkz Uitvraag nieuwe prestaties’ ([bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052608&bijlage=1&z=2026-05-08&g=2026-05-08) bij deze regeling).
+2. De geregistreerde gegevens worden in .csv format (Excel) aangeleverd. Er wordt gebruik gemaakt van het invulformat ‘Mkz Uitvraag nieuwe prestaties’ ([bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052608&bijlage=1&z=2026-05-08&g=2026-05-08) bij deze regeling).
 
 3. De gegevens worden aangeleverd via het uitwisselprogramma Zivver ([www.zivver.com](http://www.zivver.com)). In het schrijven van de NZa aan de geselecteerde zorgaanbieders wordt uitgelegd hoe een zorgaanbieder toegang krijgt tot Zivver.
 
-4. **Registratieperiode**
+4. *Registratieperiode*
 
-De gegevens worden voor de periode van 1 mei 2026 tot en met 30 april 2027 geregistreerd (hierna: de registratieperiode).
+De gegevens worden voor de periode van 1 mei 2026 tot en met 30 april 2027 geregistreerd (hierna: de registratieperiode).
 
-5. **Aanlevertermijnen**
+5. *Aanlevertermijnen*
 
-De gegevens worden gedurende de registratieperiode per kwartaal aan de NZa verstrekt. Aanlevering dient uiterlijk binnen vier weken na de laatste dag van het afgesloten kwartaal te gebeuren. Zie hiervoor ook de hieronder opgenomen Aanleverkalender (Tabel 1).
+De gegevens worden gedurende de registratieperiode per kwartaal aan de NZa verstrekt. Aanlevering dient uiterlijk binnen vier weken na de laatste dag van het afgesloten kwartaal te gebeuren. Zie hiervoor ook de hieronder opgenomen Aanleverkalender (Tabel 1).
 
-6. **Wijzigingen in afgesloten kwartaal**
+6. *Wijzigingen in afgesloten kwartaal*
 
-Indien er wijzigingen in een voorgaand kwartaal hebben plaatsgevonden, kunnen deze gegevens opnieuw worden aangeleverd in een volgend kwartaal. Dit geldt niet voor het laatste kwartaal van de registratieperiode. Zie hiervoor ook de hieronder opgenomen Aanleverkalender (Tabel 1).
+Indien er wijzigingen in een voorgaand kwartaal hebben plaatsgevonden, kunnen deze gegevens opnieuw worden aangeleverd in een volgend kwartaal. Dit geldt niet voor het laatste kwartaal van de registratieperiode. Zie hiervoor ook de hieronder opgenomen Aanleverkalender (Tabel 1).
 
-7. De in artikel 6.5 genoemde termijnen kunnen afwijken, wanneer daarvoor schriftelijk uitstel is aangevraagd door de zorgaanbieder, en uitstel is verleend door de NZa.
+7. De in artikel 6.5 genoemde termijnen kunnen afwijken, wanneer daarvoor schriftelijk uitstel is aangevraagd door de zorgaanbieder, en uitstel is verleend door de NZa.
 
 | Registratie en aanlevering van kwartaal | Deadline aanlevering | (indien nodig) Deadline heraanlevering voorgaand kwartaal |
 | --- | --- | --- |
@@ -91,12 +92,12 @@ Deze regeling voorziet zoveel mogelijk in de betrouwbaarheid van de uitkomsten v
 
 ##### Artikel 8. Bekendmaking, inwerkingtreding en citeertitel
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de regeling ingevolge [artikel 5, aanhef en onder d, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), wordt geplaatst, met uitzondering van de [bijlage ‘Mkz Uitvraag nieuwe prestaties’](https://wetten.overheid.nl/jci1.3:c:BWBR0052608&bijlage=1&z=2026-05-08&g=2026-05-08), die uitsluitend ter inzage wordt gelegd bij de NZa en te raadplegen is op [www.nza.nl](http://www.nza.nl), en werkt terug tot en met 1 mei 2026.
+Inwerkingtreding / Bekendmaking
+
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de regeling ingevolge [artikel 5, aanhef en onder d, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), wordt geplaatst, met uitzondering van de [bijlage ‘Mkz Uitvraag nieuwe prestaties’](https://wetten.overheid.nl/jci1.3:c:BWBR0052608&bijlage=1&z=2026-05-08&g=2026-05-08), die uitsluitend ter inzage wordt gelegd bij de NZa en te raadplegen is op [www.nza.nl](http://www.nza.nl), en werkt terug tot en met 1 mei 2026.
 
 De regeling ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl).
 
+Citeertitel
+
 De regeling wordt aangehaald als: Regeling registratieonderzoek verpleegkundige dagopvang en verblijf bij medische kindzorg.
-
-## Bijlage 1. Mkz Uitvraag nieuwe prestaties
-
-Ligt ter inzage bij de NZa en is gepubliceerd op www.nza.nl.

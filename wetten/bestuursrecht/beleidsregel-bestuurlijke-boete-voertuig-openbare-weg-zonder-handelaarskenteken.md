@@ -2,32 +2,31 @@
 title: "Beleidsregel bestuurlijke boete voertuig openbare weg zonder handelaarskenteken"
 identifier: "BWBR0052171"
 categorie: "Bestuursrecht"
+soort: "zbo"
 publicatiedatum: 2026-07-01
-laatste_update: 2026-07-15
+laatste_update: 2026-07-01
 status: vervallen
+vervallen_op: 2026-07-07
+toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052171"
-gecontroleerd: 2026-07-29
+opgehaald: 2026-09-10
 ---
 
 # Beleidsregel bestuurlijke boete voertuig openbare weg zonder handelaarskenteken
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [artikel 169](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=169) en [174d van de Wegenverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=174d);
-
-Besluit:
 
 ##### Artikel 1. Definities
 
 In deze beleidsregel wordt verstaan onder:
 
-- **erkenninghouder:** Het erkende bedrijf als bedoeld in [artikel 4aua, eerste lid van de Wegverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aua) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=2), [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=5), [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=6) of [artikel 8 van het Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=8).
+- *erkenninghouder:* Het erkende bedrijf als bedoeld in [artikel 4aua, eerste lid van de Wegverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aua) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=2), [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=5), [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=6) of [artikel 8 van het Besluit erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051671&artikel=8).
 
-- **handelaarskenteken:** kenteken als bedoeld in [artikel 3 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=3).
+- *handelaarskenteken:* kenteken als bedoeld in [artikel 3 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=3).
 
-- **overtreding:** het zich op de openbare weg, zoals bedoeld in [artikel 1, eerste lid, sub b, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), bevinden van een voertuig dat in de bedrijfsvoorraad of importeursvoorraad is opgenomen en niet is voorzien van een handelaarskenteken.
+- *overtreding:* het zich op de openbare weg, zoals bedoeld in [artikel 1, eerste lid, sub b, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1), bevinden van een voertuig dat in de bedrijfsvoorraad of importeursvoorraad is opgenomen en niet is voorzien van een handelaarskenteken.
 
-- **natuurlijk persoon:** eenmanszaak of vennootschap onder firma waarbij firmanten geen rechtspersoon zijn.
+- *natuurlijk persoon:* eenmanszaak of vennootschap onder firma waarbij firmanten geen rechtspersoon zijn.
 
-- **rechtspersoon:** alle rechtsvormen die geen natuurlijk persoon zijn.
+- *rechtspersoon:* alle rechtsvormen die geen natuurlijk persoon zijn.
 
 ##### Artikel 2. Reikwijdte van deze beleidsregel
 
@@ -39,7 +38,7 @@ Deze beleidsregel heeft betrekking op de bestuurlijke boete bij constatering van
 
 2. Bij constatering van een overtreding van [artikel 10, zesde lid van de Regeling erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&artikel=10) (erkenning bedrijfsvoorraad), [artikel 17, tiende lid van de Regeling erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&artikel=17) (erkenning inschrijven zonder onderzoek), [artikel 19, zesde lid van de Regeling erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&artikel=19) (erkenning inschrijven met onderzoek) en [artikel 24, vijfde lid van de Regeling erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&artikel=24) (erkenning demontage) terwijl de schriftelijke waarschuwing minder dan 18 maanden geleden is gegeven wordt een bestuurlijke boete opgelegd.
 
-3. Bij de eerste overtreding bedraagt de boete voor een natuurlijke persoon € 425,– en voor een rechtspersoon € 850,–.
+3. Bij de eerste overtreding bedraagt de boete voor een natuurlijke persoon € 425,– en voor een rechtspersoon € 850,–.
 
 4. Wanneer toepassing wordt gegeven aan [artikel 174d, zesde lid van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=174d), wordt ook een voornemen tot intrekking van de erkenning bedrijfsvoorraad, de erkenning inschrijven met onderzoek of de erkenning inschrijven zonder onderzoek aan de erkenninghouder verstuurd.
 
@@ -69,6 +68,4 @@ Deze beleidsregel wordt aangehaald als ‘Beleidsregel bestuurlijke boete voertu
 
 ##### Artikel 7. Inwerkingtreding
 
-Deze beleidsregel treedt in werking met ingang 1 juli 2026.
-
-Deze beleidsregel zal in de Staatscourant worden geplaatst.
+Deze beleidsregel treedt in werking met ingang 1 juli 2026.

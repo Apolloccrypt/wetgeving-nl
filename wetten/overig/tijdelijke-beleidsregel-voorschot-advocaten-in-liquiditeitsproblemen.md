@@ -1,50 +1,49 @@
 ---
-title: "Tijdelijke beleidsregel voorschot advocaten in liquiditeitsproblemen"
+title: "Besluit van het bestuur van de Raad voor Rechtsbijstand, d.d. 11 december 2025, houdende de bekendmaking van een tijdelijke beleidsregel tot verlening van een voorschot aan advocaten die in liquiditeitsproblemen zijn gekomen door vertraging in de afhandeling van aanvragen of procedures door een bestuursorgaan of een gerechtelijke instantie (Tijdelijke beleidsregel voorschot advocaten in liquiditeitsproblemen)"
+citeertitel: "Tijdelijke beleidsregel voorschot advocaten in liquiditeitsproblemen"
 identifier: "BWBR0052545"
-categorie: "Overig"
+categorie: "Bestuursrecht"
+soort: "zbo"
 publicatiedatum: 2026-04-17
-laatste_update: 2026-04-18
+laatste_update: 2026-04-17
 status: geldig
+toestand: 2026-04-17
 bron: "https://wetten.overheid.nl/BWBR0052545"
+opgehaald: 2026-09-10
 ---
 
 # Besluit van het bestuur van de Raad voor Rechtsbijstand, d.d. 11 december 2025, houdende de bekendmaking van een tijdelijke beleidsregel tot verlening van een voorschot aan advocaten die in liquiditeitsproblemen zijn gekomen door vertraging in de afhandeling van aanvragen of procedures door een bestuursorgaan of een gerechtelijke instantie (Tijdelijke beleidsregel voorschot advocaten in liquiditeitsproblemen)
 
-Gelet op de [artikelen 7, eerste lid onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=7), [artikel 37, vierde lid van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37), [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=35) en [artikel 36 van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=36), juncto [4:81, eerste lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
-
-De volgende beleidsregel vast te stellen:
-
 ### Hoofdstuk I. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
-- a. **advocaat:** de advocaat als bedoeld in de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=9a) en [9j van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=9j), die is ingeschreven bij de Raad als bedoeld in [artikel 14 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=14);
+- a. *advocaat:* de advocaat als bedoeld in de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=9a) en [9j van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=9j), die is ingeschreven bij de Raad als bedoeld in [artikel 14 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=14);
 
-- b. **bestuur:** het bestuur van de Raad als bedoeld in [artikel 3, eerste lid van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=3);
+- b. *bestuur:* het bestuur van de Raad als bedoeld in [artikel 3, eerste lid van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=3);
 
-- c. **Bvr:** het [Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018);
+- c. *Bvr:* het [Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018);
 
-- d. **kantoor:** kantoor van de advocaat als bedoeld in [artikel 12 van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=12);
+- d. *kantoor:* kantoor van de advocaat als bedoeld in [artikel 12 van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=12);
 
-- e. **Raad:** de Raad voor Rechtsbijstand als bedoeld in [Hoofdstuk II van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II);
+- e. *Raad:* de Raad voor Rechtsbijstand als bedoeld in [Hoofdstuk II van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&hoofdstuk=II);
 
-- f. **toevoeging:** de toevoeging als bedoeld in [artikel 1 van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=1);
+- f. *toevoeging:* de toevoeging als bedoeld in [artikel 1 van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=1);
 
-- g. **voorschot:** het kwartaalvoorschot als bedoeld in [artikel 35, eerste lid Bvr](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=35);
+- g. *voorschot:* het kwartaalvoorschot als bedoeld in [artikel 35, eerste lid Bvr](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=35);
 
-- h. **Wrb:** [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368).
+- h. *Wrb:*
+ [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368).
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Deze beleidsregel heeft tot doel om in uitzonderlijke gevallen in afwijking van het [Bvr](https://wetten.overheid.nl/jci1.3:c:BWBR0011018) een tijdelijk hoger voorschot te kunnen verlenen aan advocaten die als gevolg van vertragingen in de afhandeling van aanvragen of procedures door een bestuursorgaan of een gerechtelijke instantie in liquiditeitsproblemen zijn gekomen.
 
 ### Hoofdstuk 2. Aanvrager en aanvraag
 
-#### Artikel 3. Voorwaarden aanvrager
+##### Artikel 3. Voorwaarden aanvrager
 
 1. Het bestuur kan in afwijking van [artikel 35, eerste lid Bvr](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=35) in de eerste maand van elk kwartaal een voorschot verlenen aan de advocaat die voldoet aan de volgende voorwaarden:
 
@@ -68,7 +67,7 @@ Deze beleidsregel heeft tot doel om in uitzonderlijke gevallen in afwijking van 
 
 - d. toevoegingsvergoedingen heeft gecedeerd aan een derde.
 
-#### Artikel 4. Wijze van indienen aanvraag
+##### Artikel 4. Wijze van indienen aanvraag
 
 1. De advocaat dient de aanvraag tot verlening van een voorschot bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052545&hoofdstuk=2&artikel=3&z=2026-04-17&g=2026-04-17) per e-mail in bij de Raad.
 
@@ -78,13 +77,13 @@ Deze beleidsregel heeft tot doel om in uitzonderlijke gevallen in afwijking van 
 
 ### Hoofdstuk 3. Financiele bepalingen
 
-#### Artikel 5. Hoogte van het voorschot
+##### Artikel 5. Hoogte van het voorschot
 
 1. In afwijking van [artikel 35, tweede lid Bvr](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=35) is de hoogte van het kwartaalvoorschot gelijk aan 75 procent van het door de minister vast te stellen normbedrag vermenigvuldigd met een vierde deel van het aantal toevoegingen dat aan de advocaat is afgegeven in de periode van de eerste dag van de maand van het jaar voorafgaand aan de maand waarin het verzoek wordt gedaan tot de eerste dag van de maand in de maand waarin het verzoek wordt gedaan.
 
 2. In afwijking van [artikel 35, vierde lid, eerste volzin Bvr](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=35) bedraagt het voorschot ten hoogste 75 procent van het door de minister te bepalen bedrag.
 
-#### Artikel 6. Duur van het voorschot
+##### Artikel 6. Duur van het voorschot
 
 1. Het voorschot wordt toegekend voor een periode van één jaar (vier kwartalen).
 
@@ -94,14 +93,12 @@ Deze beleidsregel heeft tot doel om in uitzonderlijke gevallen in afwijking van 
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 7. Inwerkingtreding en geldigheidsduur
+##### Artikel 7. Inwerkingtreding en geldigheidsduur
 
 1. Deze beleidsregel treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze beleidsregel vervalt op 1 januari 2028.
+2. Deze beleidsregel vervalt op 1 januari 2028.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Tijdelijke beleidsregel voorschot advocaten in liquiditeitsproblemen.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

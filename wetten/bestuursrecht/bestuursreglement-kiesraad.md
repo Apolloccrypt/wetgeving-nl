@@ -1,59 +1,35 @@
 ---
 title: "Bestuursreglement Kiesraad"
 identifier: "BWBR0052263"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-02-04"
-last_updated: "2026-02-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052263"
+categorie: "Bestuursrecht"
 soort: "zbo"
-stam_id: "17752803"
-version_id: "31364412"
-internal_id: "C44822161"
-label_id: "17651074"
-dtd_version: "2.0"
-original_entry_into_force: "2026-02-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052263/2026-02-04/0"
-intitule_bron: "Stcrt.2026-2858"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-12-03"
-intitule_published: "2026-02-03"
-intitule_in_force: "2026-02-03"
-intitule_status: "goed"
-original_publication: "Stcrt.2026-2858"
-original_signed_date: "2025-12-03"
-original_published_date: "2026-02-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2026-2858"
-entry_into_force_date: "2026-02-04"
-jci_1_3: "jci1.3:c:BWBR0052263&z=2026-02-04&g=2026-02-04"
-jci_1_0: "1.0:c:BWBR0052263&g=2026-02-04"
-citeertitel_status: "officieel"
-signed_date: "2025-12-03"
-entry_into_force: "2026-02-04"
+publicatiedatum: 2026-02-04
+laatste_update: 2026-02-04
+status: geldig
+toestand: 2026-02-04
+bron: "https://wetten.overheid.nl/BWBR0052263"
+opgehaald: 2026-09-10
 ---
-# Bestuursreglement Kiesraad
 
-gelet op [artikel A 7 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=A_7):
+# Bestuursreglement Kiesraad
 
 ##### Artikel 1. (begripsbepalingen)
 
 In dit bestuursreglement wordt verstaan onder:
 
-- **Buitengewoon lid:** buitengewoon lid van de Kiesraad als bedoeld in [artikel A 5 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=A_5);
+- *Buitengewoon lid:* buitengewoon lid van de Kiesraad als bedoeld in [artikel A 5 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=A_5);
 
-- **Bureau:** het ondersteunend bureau als bedoeld in [artikel A 8 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=A_8);
+- *Bureau:* het ondersteunend bureau als bedoeld in [artikel A 8 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=A_8);
 
-- **Kiesraad:** de Kiesraad, zoals ingesteld op grond van [artikel A 2 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=A_2). Voor zover in de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) een afzonderlijke taak is opgedragen aan een deel van de (leden van de) Kiesraad, geldt dit deel ook als de Kiesraad;
+- *Kiesraad:* de Kiesraad, zoals ingesteld op grond van [artikel A 2 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=A_2). Voor zover in de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) een afzonderlijke taak is opgedragen aan een deel van de (leden van de) Kiesraad, geldt dit deel ook als de Kiesraad;
 
-- **Kwaliteitsbewakende taken:** de taken en bevoegdheden, bedoeld in de [artikelen A 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=A_12) (procesaanwijzing), [A 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=A_13) (opstellen rapportage van bevindingen), [Ea 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Ea_10) (beheersaanwijzing), [Ea 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Ea_11) (onderbreken van het gebruik van uitslagprogrammatuur) en [Ea 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Ea_12) (opstellen rapportage van bevindingen) van de Kieswet;
+- *Kwaliteitsbewakende taken:* de taken en bevoegdheden, bedoeld in de [artikelen A 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=A_12) (procesaanwijzing), [A 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=A_13) (opstellen rapportage van bevindingen), [Ea 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Ea_10) (beheersaanwijzing), [Ea 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Ea_11) (onderbreken van het gebruik van uitslagprogrammatuur) en [Ea 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Ea_12) (opstellen rapportage van bevindingen) van de Kieswet;
 
-- **Lid:** lid van de Kiesraad als bedoeld in [artikel A 5 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=A_5);
+- *Lid:* lid van de Kiesraad als bedoeld in [artikel A 5 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=A_5);
 
-- **Secretaris-directeur:** de secretaris als bedoeld in [artikel A 8 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=A_8);
+- *Secretaris-directeur:* de secretaris als bedoeld in [artikel A 8 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=A_8);
 
-- **Voorzitter:** lid, tevens voorzitter van de Kiesraad als bedoeld in [artikel A 5 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=A_5).
+- *Voorzitter:* lid, tevens voorzitter van de Kiesraad als bedoeld in [artikel A 5 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=A_5).
 
 ##### Artikel 2. (functies en benoemingsperiode)
 
@@ -87,11 +63,11 @@ In dit bestuursreglement wordt verstaan onder:
 
 4. Het in het derde lid bedoelde vereiste geldt niet indien er sprake is van:
 
-- a). een wettelijk voorgeschreven zitting als centraal stembureau; of
+- a) een wettelijk voorgeschreven zitting als centraal stembureau; of
 
-- b). andere besluitvorming die binnen een wettelijk voorgeschreven termijn moet plaatsvinden; of
+- b) andere besluitvorming die binnen een wettelijk voorgeschreven termijn moet plaatsvinden; of
 
-- c). de uitoefening van de kwaliteitsbewakende taken.
+- c) de uitoefening van de kwaliteitsbewakende taken.
 
 5. Bij een wettelijk voorgeschreven zitting komt de Kiesraad in een fysieke vergadering bijeen. Andere vergaderingen zijn zo veel mogelijk fysiek. Op voorstel van de voorzitter kan een vergadering digitaal of hybride (met fysiek of digitaal aanwezige leden) worden gehouden of kan besluitvorming over een concreet voorstel via e-mail worden georganiseerd, tenzij een of meer leden hiertegen bezwaar maken.
 
@@ -117,13 +93,13 @@ In dit bestuursreglement wordt verstaan onder:
 
 2. Het verslag bevat ten minste:
 
-- a). een opgave van de ter vergadering aanwezige personen;
+- a) een opgave van de ter vergadering aanwezige personen;
 
-- b). een vermelding van de datum, de plaats en de behandelde onderwerpen;
+- b) een vermelding van de datum, de plaats en de behandelde onderwerpen;
 
-- c). een beknopte weergave van de gevoerde discussie en
+- c) een beknopte weergave van de gevoerde discussie en
 
-- d). een lijst van de genomen besluiten.
+- d) een lijst van de genomen besluiten.
 
 3. Een lid dat zich niet kan verenigen met een genomen besluit, kan daarvan een met redenen omklede aantekening in het verslag doen opnemen. Indien het besluit de vaststelling van een advies betreft, kan een lid met een afwijkend standpunt hiervan een aantekening in het advies doen opnemen, dan wel een afzonderlijke nota bij het advies voegen. Indien het een per e-mail genomen besluit betreft, kan een lid een met redenen omklede aantekening in het verslag van de volgende vergadering doen opnemen.
 

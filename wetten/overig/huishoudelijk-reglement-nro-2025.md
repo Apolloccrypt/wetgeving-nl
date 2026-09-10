@@ -1,41 +1,17 @@
 ---
 title: "Huishoudelijk reglement NRO 2025"
 identifier: "BWBR0052364"
-country: "nl"
-rank: "zbo"
-publication_date: "2026-02-26"
-last_updated: "2026-02-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBR0052364"
+categorie: "Overig"
 soort: "zbo"
-stam_id: "17780793"
-version_id: "31442782"
-internal_id: "C44912181"
-label_id: "17678934"
-dtd_version: "2.0"
-original_entry_into_force: "2025-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBR0052364/2026-02-26/0"
-intitule_bron: "Stcrt.2025-25755"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2025-07-09"
-intitule_published: "2025-08-01"
-intitule_in_force: "2025-08-01"
-intitule_status: "goed"
-original_publication: "Stcrt.2025-25755"
-original_signed_date: "2025-07-09"
-original_published_date: "2025-08-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "stcrt-2025-25755"
-entry_into_force_date: "2025-08-01"
-jci_1_3: "jci1.3:c:BWBR0052364&z=2026-02-26&g=2026-02-26"
-jci_1_0: "1.0:c:BWBR0052364&g=2026-02-26"
-citeertitel_status: "officieel"
-signed_date: "2025-07-09"
-entry_into_force: "2025-08-01"
+publicatiedatum: 2025-08-01
+laatste_update: 2026-02-26
+status: geldig
+toestand: 2026-02-26
+bron: "https://wetten.overheid.nl/BWBR0052364"
+opgehaald: 2026-09-10
 ---
-# Huishoudelijk reglement NRO 2025
 
-Vastgesteld door de raad van bestuur van NWO op 9 juli 2025
+# Huishoudelijk reglement NRO 2025
 
 ### 1. Inleiding
 
@@ -43,45 +19,45 @@ Vastgesteld door de raad van bestuur van NWO op 9 juli 2025
 
 In dit huishoudelijk reglement wordt verstaan onder:
 
-- a. **Bestuursreglement:** het geldende [NWO bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039246);
+- a. *Bestuursreglement:* het geldende [NWO bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039246);
 
-- b. **Bevoegdhedenregeling:** de geldende [NWO bevoegdhedenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045229);
+- b. *Bevoegdhedenregeling:* de geldende [NWO bevoegdhedenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045229);
 
-- c. **Directeur:** de directeur van NRO zoals bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=5.1) jo. [6.4 van het Bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=6.4) en artikel 6 lid 1 van het Convenant;
+- c. *Directeur:* de directeur van NRO zoals bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=5.1) jo. [6.4 van het Bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=6.4) en artikel 6 lid 1 van het Convenant;
 
-- d. **Convenant:** het door het Ministerie van Onderwijs, Cultuur en Wetenschap (OCW) en NWO op 8 juni 2020 gesloten Convenant Nationaal Regieorgaan Onderwijsonderzoek 2020–2030;
+- d. *Convenant:* het door het Ministerie van Onderwijs, Cultuur en Wetenschap (OCW) en NWO op 8 juni 2020 gesloten Convenant Nationaal Regieorgaan Onderwijsonderzoek 2020–2030;
 
-- e. **Kennisbenuttingsraad:** raad ten behoeve van het beleid en de activiteiten voor kennisbenutting en communicatie zoals bedoeld in artikel 3 aanhef en onder f van het Convenant;
+- e. *Kennisbenuttingsraad:* raad ten behoeve van het beleid en de activiteiten voor kennisbenutting en communicatie zoals bedoeld in artikel 3 aanhef en onder f van het Convenant;
 
-- f. **Mandaat:** de bevoegdheid om namens de raad van bestuur of een, ten opzichte van de gemandateerde, hoger gelegen orgaan van NWO besluiten te nemen. De mandaatgever blijft zelf bevoegd;
+- f. *Mandaat:* de bevoegdheid om namens de raad van bestuur of een, ten opzichte van de gemandateerde, hoger gelegen orgaan van NWO besluiten te nemen. De mandaatgever blijft zelf bevoegd;
 
-- g. **Stuurgroep:** het bestuur van het regieorgaan als bedoeld in artikel 4 van het Convenant;
+- g. *Stuurgroep:* het bestuur van het regieorgaan als bedoeld in artikel 4 van het Convenant;
 
-- h. **Programmaraad voor Wetenschappelijk Onderwijsonderzoek (Prowo):** raad ten behoeve van de programmering van onderzoek zoals bedoeld in artikel 3 aanhef en onder d van het Convenant;
+- h. *Programmaraad voor Wetenschappelijk Onderwijsonderzoek (Prowo):* raad ten behoeve van de programmering van onderzoek zoals bedoeld in artikel 3 aanhef en onder d van het Convenant;
 
-- i. **Raad van bestuur:** de raad van bestuur van NWO, zoals bedoeld in [artikel 2 van het Bestuursreglement](onbekend);
+- i. *Raad van bestuur:* de raad van bestuur van NWO, zoals bedoeld in [artikel 2 van het Bestuursreglement](https://wetten.overheid.nl/BWBR0039246);
 
-- j. **Regieorgaan:** een orgaan zoals bedoeld in [artikel 5 van het Bestuursreglement](onbekend), belast met een specifieke NWO-activiteit;
+- j. *Regieorgaan:* een orgaan zoals bedoeld in [artikel 5 van het Bestuursreglement](https://wetten.overheid.nl/BWBR0039246), belast met een specifieke NWO-activiteit;
 
-- k. **NRO:** het Nationaal Regieorgaan Onderwijsonderzoek;
+- k. *NRO:* het Nationaal Regieorgaan Onderwijsonderzoek;
 
-- l. **NWO:** de Nederlandse Organisatie voor Wetenschappelijk Onderzoek, zoals genoemd in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=2);
+- l. *NWO:* de Nederlandse Organisatie voor Wetenschappelijk Onderzoek, zoals genoemd in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=2);
 
-- m. **Wet:** de [Wet op de Nederlandse Organisatie voor Wetenschappelijk Onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0004191).
+- m. *Wet:* de [Wet op de Nederlandse Organisatie voor Wetenschappelijk Onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0004191).
 
 ##### Artikel 1.2. – Juridische grondslag
 
-1. Zoals vastgelegd in artikel 3 aanhef en onder h, van het Convenant stelt het NRO een huishoudelijk reglement op voor het uitvoeren van de programma’s.
+1. Zoals vastgelegd in artikel 3 aanhef en onder h, van het Convenant stelt het NRO een huishoudelijk reglement op voor het uitvoeren van de programma’s.
 
-2. Dit huishoudelijk reglement is een reglement zoals bedoeld in [artikel 6.5 van het Bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=6.5). In dit huishoudelijk reglement legt de Stuurgroep zijn relatie vast met de Prowo en de Kennisbenuttingsraad.
+2. Dit huishoudelijk reglement is een reglement zoals bedoeld in [artikel 6.5 van het Bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=6.5). In dit huishoudelijk reglement legt de Stuurgroep zijn relatie vast met de Prowo en de Kennisbenuttingsraad.
 
 3. Indien en voor zover een bepaling uit dit huishoudelijk reglement in strijd is met enige wettelijke bepaling, het [Bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039246) en/of de [Bevoegdhedenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045229) blijft de betreffende bepaling buiten werking.
 
-4. Dit huishoudelijk reglement is op 27 juni 2025 vastgesteld door de Stuurgroep en is op 9 juli 2025 vastgesteld door de raad van bestuur.
+4. Dit huishoudelijk reglement is op 27 juni 2025 vastgesteld door de Stuurgroep en is op 9 juli 2025 vastgesteld door de raad van bestuur.
 
 ##### Artikel 1.3. – Citeertitel en inwerkingtreding
 
-Dit huishoudelijk reglement kan worden aangehaald als ‘Huishoudelijk reglement NRO 2025’ en treedt in werking op 1 augustus 2025.
+Dit huishoudelijk reglement kan worden aangehaald als ‘Huishoudelijk reglement NRO 2025’ en treedt in werking op 1 augustus 2025.
 
 ##### Artikel 1.4. – Intrekking oude reglement
 
@@ -105,7 +81,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 1. De Stuurgroep ziet toe op het strategisch, inhoudelijk en bedrijfseconomisch functioneren van het NRO.
 
-2. In overeenstemming met artikel 4, vijfde lid, van het Convenant neemt de Stuurgroep besluiten omtrent:
+2. In overeenstemming met artikel 4, vijfde lid, van het Convenant neemt de Stuurgroep besluiten omtrent:
 
 - a. het goedkeuren van het meerjarenplan van het NRO dat een visie, een strategie en een meerjarenbegroting omvat;
 
@@ -121,9 +97,9 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 3. De Stuurgroep draagt er zorg voor dat de Prowo en de Kennisbenuttingsraad hun beleid en werkzaamheden rond het bevorderen van het gebruik van kennis uit onderwijsonderzoek met elkaar afstemmen.
 
-4. De directeur ondertekent de in het tweede lid van dit artikel bedoelde besluiten namens de Stuurgroep. De directeur kan hiervoor ondermandaat verlenen. Daarbij draagt hij er zorg voor dat het ondermandaat is opgenomen in het register zoals bedoeld in [artikel 6.4 van de Bevoegdhedenregeling](onbekend).
+4. De directeur ondertekent de in het tweede lid van dit artikel bedoelde besluiten namens de Stuurgroep. De directeur kan hiervoor ondermandaat verlenen. Daarbij draagt hij er zorg voor dat het ondermandaat is opgenomen in het register zoals bedoeld in [artikel 6.4 van de Bevoegdhedenregeling](https://wetten.overheid.nl/BWBR0051342).
 
-5. Bij de ondertekening neemt de directeur, dan wel de ondergemandateerde, het bepaalde in [artikel 6.5 van de Bevoegdhedenregeling](onbekend) in acht, waarin staat bepaald dat de ondertekenaar van een besluit onder zijn handtekening zijn naam en functie vermeldt en aangeeft namens wie of welk orgaan het besluit is genomen.
+5. Bij de ondertekening neemt de directeur, dan wel de ondergemandateerde, het bepaalde in [artikel 6.5 van de Bevoegdhedenregeling](https://wetten.overheid.nl/BWBR0051342) in acht, waarin staat bepaald dat de ondertekenaar van een besluit onder zijn handtekening zijn naam en functie vermeldt en aangeeft namens wie of welk orgaan het besluit is genomen.
 
 ##### Artikel 3.2. – Samenstelling en benoeming Stuurgroep
 
@@ -169,13 +145,13 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 2. Elk lid van de Stuurgroep handelt integer en transparant, met inachtneming van de algemene beginselen van goede trouw. Hij of zij vermijdt elke vorm of schijn van vooringenomenheid.
 
-3. Elk lid van de Stuurgroep handelt – waar van toepassing – met inachtneming van de Code omgang met persoonlijke belangen en de Code Advisering, Strategie en Beleid.
+3. Elk lid van de Stuurgroep handelt – waar van toepassing – met inachtneming van de Code omgang met persoonlijke belangen en de Code Advisering, Strategie en Beleid.
 
 4. Indien een lid van de Stuurgroep een direct of indirect persoonlijk belang heeft bij enig door de Stuurgroep te nemen besluit, neemt dit lid ten aanzien daarvan niet deel aan de beraadslaging en besluitvorming.
 
-5. Indien uit de Code omgang met persoonlijke belangen voortvloeit dat een of meer leden zijn uitgesloten van deelname aan de besluitvorming inzake subsidiebesluiten zoals bedoeld in [artikel 6.3, vierde lid, van het Bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=6.3), en dit leidt tot de situatie dat het in [artikel 3.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=3.3&z=2026-02-26&g=2026-02-26), van dit huishoudelijk reglement bedoelde quorum niet kan worden bereikt, treedt de stemprocedure in werking. Deze procedure ziet niet op de hele vergadering, maar op de desbetreffende delen daarvan.
+5. Indien uit de Code omgang met persoonlijke belangen voortvloeit dat een of meer leden zijn uitgesloten van deelname aan de besluitvorming inzake subsidiebesluiten zoals bedoeld in [artikel 6.3, vierde lid, van het Bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=6.3), en dit leidt tot de situatie dat het in [artikel 3.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=3.3&z=2026-02-26&g=2026-02-26), van dit huishoudelijk reglement bedoelde quorum niet kan worden bereikt, treedt de stemprocedure in werking. Deze procedure ziet niet op de hele vergadering, maar op de desbetreffende delen daarvan.
 
-6. De stemprocedure houdt in dat het bepaalde in [artikel 3.3., zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=3.3&z=2026-02-26&g=2026-02-26), van dit huishoudelijk reglement buiten werking wordt gesteld. Alleen de leden die geen enkel persoonlijk belang hebben bij het desbetreffende deel van de vergadering nemen deel aan de besluitvorming. Ook de (vice-)voorzitter neemt slechts deel aan de besluitvorming indien de (vice-)voorzitter geen enkel persoonlijk belang heeft bij het desbetreffende deel van de vergadering.
+6. De stemprocedure houdt in dat het bepaalde in [artikel 3.3., zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=3.3&z=2026-02-26&g=2026-02-26), van dit huishoudelijk reglement buiten werking wordt gesteld. Alleen de leden die geen enkel persoonlijk belang hebben bij het desbetreffende deel van de vergadering nemen deel aan de besluitvorming. Ook de (vice-)voorzitter neemt slechts deel aan de besluitvorming indien de (vice-)voorzitter geen enkel persoonlijk belang heeft bij het desbetreffende deel van de vergadering.
 
 7. Aan de stemprocedure moeten minimaal drie leden deelnemen die unaniem besluiten. Indien dit minimum niet wordt bereikt of indien er geen unanimiteit wordt bereikt, moet de besluitvorming op het desbetreffende onderdeel in de eerstvolgende vergadering van de raad van bestuur plaatsvinden.
 
@@ -183,29 +159,29 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 ##### Artikel 4.1. – Taken, verantwoordelijkheden en bevoegdheden Prowo
 
-1. In overeenstemming met artikel 5, derde lid, van het Convenant heeft de Prowo tot taak het inrichten van programma’s en procedures voor de verdeling van financiële middelen. De Prowo doet dit met inachtneming van de door de Stuurgroep vastgestelde meerjarenbegroting.
+1. In overeenstemming met artikel 5, derde lid, van het Convenant heeft de Prowo tot taak het inrichten van programma’s en procedures voor de verdeling van financiële middelen. De Prowo doet dit met inachtneming van de door de Stuurgroep vastgestelde meerjarenbegroting.
 
-2. In overeenstemming met artikel 5, vijfde lid, van het Convenant neemt de Prowo besluiten omtrent:
+2. In overeenstemming met artikel 5, vijfde lid, van het Convenant neemt de Prowo besluiten omtrent:
 
 - a. het (doen) opstellen en het vaststellen van een meerjarig en samenhangend financieringsprogramma voor onderzoek;
 
 - b. het (doen) opstellen van aanvullende programma’s als daarvoor financiering aanwezig is;
 
-- c. het vaststellen van de inhoud van de Call for proposals zoals bedoeld in [artikel 2.1.2 van de NWO Subsidieregeling 2024](onbekend);
+- c. het vaststellen van de inhoud van de Call for proposals zoals bedoeld in [artikel 2.1.2 van de NWO Subsidieregeling 2024](https://wetten.overheid.nl/BWBR0050166);
 
-- d. Onverminderd het bepaalde in [artikel 6.3, vierde lid, van het Bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=6.3) en [artikel 6.1, tweede lid, sub e, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=6.1&z=2026-02-26&g=2026-02-26), van dit huishoudelijk reglement, neemt het Prowo de besluiten inzake de toewijzing, de afwijzing, de wijziging en vaststelling van subsidies.
+- d. Onverminderd het bepaalde in [artikel 6.3, vierde lid, van het Bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=6.3) en [artikel 6.1, tweede lid, sub e, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=6.1&z=2026-02-26&g=2026-02-26), van dit huishoudelijk reglement, neemt het Prowo de besluiten inzake de toewijzing, de afwijzing, de wijziging en vaststelling van subsidies.
 
 - e. het instellen van beoordelingscommissies, programmacommissies en begeleidingscommissies, indien noodzakelijk.
 
-3. De Prowo kan beslissingen nemen aangaande (overheids)opdrachten ten behoeve van de in lid 2 aan hem gemandateerde bevoegdheden, met inachtneming van het inkoop- en aanbestedingsbeleid van NWO.
+3. De Prowo kan beslissingen nemen aangaande (overheids)opdrachten ten behoeve van de in lid 2 aan hem gemandateerde bevoegdheden, met inachtneming van het inkoop- en aanbestedingsbeleid van NWO.
 
-4. De Prowo stelt jaarlijks – binnen de daarvoor door de Stuurgroep vastgestelde kaders – een jaarplan op dat hij ter accordering aan de Stuurgroep voorlegt. Hierin legt hij achteraf verantwoording af aan de Stuurgroep over zijn beleid en de bereikte resultaten en biedt hij tevens een vooruitblik op die in het komende jaar.
+4. De Prowo stelt jaarlijks – binnen de daarvoor door de Stuurgroep vastgestelde kaders – een jaarplan op dat hij ter accordering aan de Stuurgroep voorlegt. Hierin legt hij achteraf verantwoording af aan de Stuurgroep over zijn beleid en de bereikte resultaten en biedt hij tevens een vooruitblik op die in het komende jaar.
 
 5. Voor zover de Prowo in de uitvoering van zijn taken beleid vaststelt of anderszins besluiten neemt betreffende het bevorderen van het benutten van kennis uit onderzoek, dan stemt de Prowo dit af met de Kennisbenuttingsraad en vice versa.
 
-6. De directeur ondertekent de in het tweede en derde lid van dit artikel bedoelde besluiten namens de Prowo. De directeur kan hiervoor ondermandaat verlenen. Daarbij draagt de directeur er zorg voor dat het ondermandaat is opgenomen in het register zoals bedoeld in [artikel 6.4 van de Bevoegdhedenregeling](onbekend).
+6. De directeur ondertekent de in het tweede en derde lid van dit artikel bedoelde besluiten namens de Prowo. De directeur kan hiervoor ondermandaat verlenen. Daarbij draagt de directeur er zorg voor dat het ondermandaat is opgenomen in het register zoals bedoeld in [artikel 6.4 van de Bevoegdhedenregeling](https://wetten.overheid.nl/BWBR0045229).
 
-7. Bij de ondertekening neemt de directeur, dan wel de ondergemandateerde, het bepaalde in [artikel 6.5 van de Bevoegdhedenregeling](onbekend) in acht, waarin staat bepaald dat de ondertekenaar van een besluit onder zijn handtekening diens naam en functie vermeldt en aangeeft namens wie of welk orgaan het besluit is genomen.
+7. Bij de ondertekening neemt de directeur, dan wel de ondergemandateerde, het bepaalde in [artikel 6.5 van de Bevoegdhedenregeling](https://wetten.overheid.nl/BWBR0045229) in acht, waarin staat bepaald dat de ondertekenaar van een besluit onder zijn handtekening diens naam en functie vermeldt en aangeeft namens wie of welk orgaan het besluit is genomen.
 
 ##### Artikel 4.2. – Samenstelling en benoeming Prowo
 
@@ -253,9 +229,9 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 3. Besluiten inzake het in behandeling nemen van een subsidieaanvraag, alsmede besluiten inzage de toekenning, afwijzing, wijziging, intrekking en vaststelling van subsidies nemen de leden van de Prowo met inachtneming van de Code omgang met persoonlijke belangen.
 
-4. Indien uit de Code omgang met persoonlijke belangen voortvloeit dat een of meer leden zijn uitgesloten van deelname aan de besluitvorming over subsidies, en dit leidt tot de situatie dat het in [artikel 4.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=4.3&z=2026-02-26&g=2026-02-26), van dit huishoudelijk reglement bedoelde quorum niet kan worden bereikt, dan treedt de stemprocedure in werking. Deze procedure ziet niet op de hele vergadering van de Prowo, maar op de desbetreffende delen daarvan.
+4. Indien uit de Code omgang met persoonlijke belangen voortvloeit dat een of meer leden zijn uitgesloten van deelname aan de besluitvorming over subsidies, en dit leidt tot de situatie dat het in [artikel 4.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=4.3&z=2026-02-26&g=2026-02-26), van dit huishoudelijk reglement bedoelde quorum niet kan worden bereikt, dan treedt de stemprocedure in werking. Deze procedure ziet niet op de hele vergadering van de Prowo, maar op de desbetreffende delen daarvan.
 
-5. De stemprocedure houdt in dat het bepaalde in [artikel 4.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=4.3&z=2026-02-26&g=2026-02-26), van dit huishoudelijk reglement buiten werking wordt gesteld. Alleen de leden van de Prowo die geen enkel persoonlijk belang hebben bij het desbetreffende deel van de vergadering nemen deel aan de besluitvorming. Ook de (vice)voorzitter neemt slechts deel aan de besluitvorming indien de (vice)voorzitter geen enkel persoonlijk belang heeft bij het desbetreffende deel van de vergadering.
+5. De stemprocedure houdt in dat het bepaalde in [artikel 4.3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=4.3&z=2026-02-26&g=2026-02-26), van dit huishoudelijk reglement buiten werking wordt gesteld. Alleen de leden van de Prowo die geen enkel persoonlijk belang hebben bij het desbetreffende deel van de vergadering nemen deel aan de besluitvorming. Ook de (vice)voorzitter neemt slechts deel aan de besluitvorming indien de (vice)voorzitter geen enkel persoonlijk belang heeft bij het desbetreffende deel van de vergadering.
 
 6. Aan de stemprocedure moeten minimaal drie leden deelnemen die unaniem besluiten. Indien dit minimum niet wordt bereikt of indien er geen unanimiteit wordt bereikt, moet de besluitvorming op het desbetreffende onderdeel in de eerstvolgende vergadering van de Stuurgroep plaatsvinden.
 
@@ -275,13 +251,13 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 - c. kennisbenutting: stimuleren dat kennis uit onderzoek in de klas, de school en het onderwijssysteem gebruikt wordt.
 
-4. De Kennisbenuttingsraad kan beslissingen nemen aangaande (overheids)opdrachten ten behoeve van de in lid 2 aan haar gemandateerde bevoegdheden, met inachtneming van het inkoop- en aanbestedingsbeleid van NWO.
+4. De Kennisbenuttingsraad kan beslissingen nemen aangaande (overheids)opdrachten ten behoeve van de in lid 2 aan haar gemandateerde bevoegdheden, met inachtneming van het inkoop- en aanbestedingsbeleid van NWO.
 
-5. De Kennisbenuttingsraad stelt jaarlijks – binnen de door de stuurgroep vastgestelde kaders – een jaarplan op ten aanzien van het kennisbenuttingsbeleid dat hij ter accordering aan de Stuurgroep voorlegt. Hierin legt hij achteraf verantwoording af aan de Stuurgroep over zijn beleid en de bereikte resultaten voor kennisbenutting en communicatie en biedt hij tevens een vooruitblik op die in het komende jaar.
+5. De Kennisbenuttingsraad stelt jaarlijks – binnen de door de stuurgroep vastgestelde kaders – een jaarplan op ten aanzien van het kennisbenuttingsbeleid dat hij ter accordering aan de Stuurgroep voorlegt. Hierin legt hij achteraf verantwoording af aan de Stuurgroep over zijn beleid en de bereikte resultaten voor kennisbenutting en communicatie en biedt hij tevens een vooruitblik op die in het komende jaar.
 
 6. De Kennisbenuttingsraad stemt zijn beleid en werkzaamheden rond het bevorderen van het benutten van kennis uit onderzoek af met de Prowo en vice versa.
 
-7. De directeur ondertekent de in het derde en het vierde lid van dit artikel bedoelde besluiten namens de Kennisbenuttingsraad. De directeur kan hiervoor ondermandaat verlenen. Daarbij draagt hij er zorg voor dat het ondermandaat is opgenomen in het register zoals bedoeld in [artikel 6.4 van de Bevoegdhedenregeling](onbekend).
+7. De directeur ondertekent de in het derde en het vierde lid van dit artikel bedoelde besluiten namens de Kennisbenuttingsraad. De directeur kan hiervoor ondermandaat verlenen. Daarbij draagt hij er zorg voor dat het ondermandaat is opgenomen in het register zoals bedoeld in [artikel 6.4 van de Bevoegdhedenregeling](https://wetten.overheid.nl/BWBR0045229).
 
 ##### Artikel 5.2. – Samenstelling en benoeming Kennisbenuttingsraad
 
@@ -289,7 +265,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 2. De Kennisbenuttingsraad heeft een tripartiete samenstelling, waarin onderwijsveld, onderwijsbeleid en wetenschap zijn vertegenwoordigd.
 
-3. [Artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=3.4&z=2026-02-26&g=2026-02-26) van dit huishoudelijk reglement is van overeenkomstige toepassing op de leden van de Kennisbenuttingsraad.
+3. [Artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=3.4&z=2026-02-26&g=2026-02-26) van dit huishoudelijk reglement is van overeenkomstige toepassing op de leden van de Kennisbenuttingsraad.
 
 4. De Kennisbenuttingsraad vormt een adequate afspiegeling van het werkterrein. Er wordt gestreefd naar een evenwichtige man-vrouwverdeling, overeenkomstig het door NWO ter zake gevoerde beleid.
 
@@ -327,13 +303,13 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 ##### Artikel 6.1. – Taken, verantwoordelijkheden en bevoegdheden directeur NRO
 
-1. De taken, verantwoordelijkheden en bevoegdheden van de directeur zijn vastgelegd in artikel 6.5 van het Convenant. De bevoegdheden zijn nader uitgewerkt in [artikel 3.4. van de Bevoegdhedenregeling](onbekend).
+1. De taken, verantwoordelijkheden en bevoegdheden van de directeur zijn vastgelegd in artikel 6.5 van het Convenant. De bevoegdheden zijn nader uitgewerkt in [artikel 3.4. van de Bevoegdhedenregeling](https://wetten.overheid.nl/BWBR0045229).
 
-2. De directeur beschikt over dezelfde bevoegdheden als de domeindirecteur, zoals vastgesteld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045730&artikel=4.1) en [4.2 van het Domeinreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0045730&artikel=4.2). Dit houdt in dat de directeur bevoegd is om namens de Stuurgroep dan wel de Prowo de in die artikelen omschreven bevoegdheden uit te voeren.
+2. De directeur beschikt over dezelfde bevoegdheden als de domeindirecteur, zoals vastgesteld in de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045730&artikel=4.1) en [4.2 van het Domeinreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0045730&artikel=4.2). Dit houdt in dat de directeur bevoegd is om namens de Stuurgroep dan wel de Prowo de in die artikelen omschreven bevoegdheden uit te voeren.
 
 3. Over aangelegenheden met betrekking tot de bedrijfsvoering legt de directeur verantwoording af aan de portefeuillehouder bedrijfsvoering en financiën van de raad van bestuur.
 
-4. Onverminderd [artikel 4.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=4.1&z=2026-02-26&g=2026-02-26), en [artikel 5.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=5.1&z=2026-02-26&g=2026-02-26), van dit huishoudelijk reglement is de directeur bevoegd om beslissingen te nemen aangaande (overheids)opdrachten tot een waarde van € 100.000,00. Zulks met inachtneming van het inkoop- en aanbestedingsbeleid van NWO.
+4. Onverminderd [artikel 4.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=4.1&z=2026-02-26&g=2026-02-26), en [artikel 5.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=5.1&z=2026-02-26&g=2026-02-26), van dit huishoudelijk reglement is de directeur bevoegd om beslissingen te nemen aangaande (overheids)opdrachten tot een waarde van € 100.000,00. Zulks met inachtneming van het inkoop- en aanbestedingsbeleid van NWO.
 
 ### 7. Advisering aan de Stuurgroep inzake strategie en beleid
 
@@ -341,7 +317,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 1. De Stuurgroep kan een of meer adviesraden instellen, die haar adviseert over voor het NRO relevante ontwikkelingen in samenleving en wetenschap.
 
-2. Het besluit tot instelling van een adviesraad regelt de samenstelling, taak, werkwijze en duur van de raad, zoals bepaald [artikel 8.1 van het Bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=8.1).
+2. Het besluit tot instelling van een adviesraad regelt de samenstelling, taak, werkwijze en duur van de raad, zoals bepaald [artikel 8.1 van het Bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=8.1).
 
 3. Een lid van een adviesraad handelt overeenkomstig de Code Advisering, Strategie en Beleid.
 
@@ -355,15 +331,15 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 - b. een jury.
 
-2. Een commissie als genoemd in het eerste lid heeft tot taak om de binnen het betreffende subsidie-instrument ingediende aanvragen te beoordelen met inachtneming van de in Call for proposals en – waar van toepassing – de in de [NWO Subsidieregeling 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0050166) neergelegde procedure en criteria.
+2. Een commissie als genoemd in het eerste lid heeft tot taak om de binnen het betreffende subsidie-instrument ingediende aanvragen te beoordelen met inachtneming van de in Call for proposals en – waar van toepassing – de in de [NWO Subsidieregeling 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0050166) neergelegde procedure en criteria.
 
-3. Het besluit tot instelling van een commissie als bedoeld in het eerste lid regelt de samenstelling, taak, werkwijze en duur van de commissie, zoals bepaald in [artikel 8.1 van het Bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=8.1).
+3. Het besluit tot instelling van een commissie als bedoeld in het eerste lid regelt de samenstelling, taak, werkwijze en duur van de commissie, zoals bepaald in [artikel 8.1 van het Bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=8.1).
 
 4. Een commissie heeft een tripartiete samenstelling, waarin onderwijsveld, onderwijsbeleid en wetenschap zijn vertegenwoordigd.
 
 5. Bij de samenstelling van een commissie als bedoeld in het eerste lid streeft de Prowo naar een evenwichtige man-vrouw verdeling. Voor subsidievormen die meerdere wetenschapsdisciplines betreffen streeft de Prowo tevens naar een brede expertise.
 
-6. [Artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=3.4&z=2026-02-26&g=2026-02-26) van dit huishoudelijk reglement is van overeenkomstige toepassing op de leden van een commissie als genoemd in het eerste lid.
+6. [Artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=3.4&z=2026-02-26&g=2026-02-26) van dit huishoudelijk reglement is van overeenkomstige toepassing op de leden van een commissie als genoemd in het eerste lid.
 
 7. Een commissie als bedoeld in het eerste lid brengt een schriftelijk en deugdelijk gemotiveerd advies uit aan de Prowo.
 
@@ -377,7 +353,7 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 2. Een voorbereidingscommissie fungeert onder verantwoordelijkheid van het instellende orgaan c.q. de gezamenlijk instellende organen.
 
-3. Overeenkomstig [artikel 8.1 van het Bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=8.1) regelt het besluit tot instelling van de voorbereidingscommissie zoals genoemd in het eerste lid van dit artikel de samenstelling, de taak, de werkwijze en de duur van deze commissie.
+3. Overeenkomstig [artikel 8.1 van het Bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=8.1) regelt het besluit tot instelling van de voorbereidingscommissie zoals genoemd in het eerste lid van dit artikel de samenstelling, de taak, de werkwijze en de duur van deze commissie.
 
 4. Een commissie heeft een tripartiete samenstelling, waarin onderwijsveld, onderwijsbeleid en wetenschap zijn vertegenwoordigd.
 
@@ -395,13 +371,13 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 3. De Prowo, dan wel de instellende organen, kunnen aan een programmacommissie beslissingsbevoegdheid mandateren en met betrekking tot de uitoefening van deze bevoegdheid nadere richtlijnen uitvaardigen.
 
-4. Een besluit tot instelling van een programmacommissie regelt de samenstelling, de taak, de werkwijze en de duur van deze commissie alsmede de omvang van de eventueel toegekende beslissingsbevoegdheid door de Prowo. Een en ander met inachtneming van het bepaalde in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=8.1) en [8.2 van het Bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=8.2).
+4. Een besluit tot instelling van een programmacommissie regelt de samenstelling, de taak, de werkwijze en de duur van deze commissie alsmede de omvang van de eventueel toegekende beslissingsbevoegdheid door de Prowo. Een en ander met inachtneming van het bepaalde in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=8.1) en [8.2 van het Bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=8.2).
 
 5. Een commissie heeft een tripartiete samenstelling, waarin onderwijsveld, onderwijsbeleid en wetenschap zijn vertegenwoordigd.
 
-6. [Artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=3.4&z=2026-02-26&g=2026-02-26) van dit huishoudelijk reglement is van overeenkomstige toepassing op de leden van een commissie als genoemd in het eerste lid.
+6. [Artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=3.4&z=2026-02-26&g=2026-02-26) van dit huishoudelijk reglement is van overeenkomstige toepassing op de leden van een commissie als genoemd in het eerste lid.
 
-7. Een programmacommissie kan ook optreden als beoordelingscommissie, zoals bedoeld in [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=7.1&z=2026-02-26&g=2026-02-26) van dit huishoudelijk reglement, voor de aanvragen die in het kader van het programma worden ingediend, tenzij zij beslissingsbevoegdheid heeft. In dat geval worden de aanvragen beoordeeld door de Prowo.
+7. Een programmacommissie kan ook optreden als beoordelingscommissie, zoals bedoeld in [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=7.1&z=2026-02-26&g=2026-02-26) van dit huishoudelijk reglement, voor de aanvragen die in het kader van het programma worden ingediend, tenzij zij beslissingsbevoegdheid heeft. In dat geval worden de aanvragen beoordeeld door de Prowo.
 
 8. Een programmacommissie vergadert zo dikwijls als zij dit wenselijk acht, doch tenminste tweemaal per jaar.
 
@@ -413,9 +389,9 @@ Het Nationaal Regieorgaan Onderwijsonderzoek werkt aan de verbetering en vernieu
 
 1. De Prowo kan, al dan niet gezamenlijk met andere organen, na de toekenning van één of meer onderzoeksprojecten binnen een programma een begeleidingscommissie instellen: een commissie van deskundigen die de uitvoering van de projecten monitort, de uitvoerders van feedback voorziet en toeziet op de kwaliteit van tussen en eindproducten.
 
-2. Overeenkomstig [artikel 8.1 van het Bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=8.1) regelt het besluit tot instelling van de begeleidingscommissie zoals genoemd in het eerste lid de samenstelling, de taak, de werkwijze en de duur van deze commissie.
+2. Overeenkomstig [artikel 8.1 van het Bestuursreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0039246&artikel=8.1) regelt het besluit tot instelling van de begeleidingscommissie zoals genoemd in het eerste lid de samenstelling, de taak, de werkwijze en de duur van deze commissie.
 
-3. [Artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=3.4&z=2026-02-26&g=2026-02-26) van dit huishoudelijk reglement is van overeenkomstige toepassing op de leden van een begeleidingscommissie.
+3. [Artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052364&artikel=3.4&z=2026-02-26&g=2026-02-26) van dit huishoudelijk reglement is van overeenkomstige toepassing op de leden van een begeleidingscommissie.
 
 4. Een commissie heeft een tripartiete samenstelling, waarin onderwijsveld, onderwijsbeleid en wetenschap zijn vertegenwoordigd.
 
