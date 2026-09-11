@@ -1,402 +1,308 @@
 ---
 title: "Internationale Overeenkomst inzake de vereenvoudiging en harmonisatie van douaneprocedures"
 identifier: "BWBV0001015"
-country: "nl"
-rank: "verdrag"
-publication_date: "2006-02-03"
-last_updated: "1973-05-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001015"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10002330963"
-version_id: "10002342722"
-internal_id: "C10008354961"
-label_id: "10002322604"
-dtd_version: "2.0"
-original_entry_into_force: "2006-02-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001015/2006-02-03/0"
-intitule_bron: "Trb.2001-162"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1977-06-08"
-intitule_published: "2001-10-01"
-intitule_in_force: "2006-04-04"
-intitule_status: "goed"
-original_publication: "Trb.2001-162"
-original_signed_date: "1977-06-08"
-original_published_date: "2001-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2001-162"
-entry_into_force_date: "2006-02-03"
-jci_1_3: "jci1.3:c:BWBV0001015&z=2006-02-03&g=2006-02-03"
-jci_1_0: "1.0:c:BWBV0001015&g=2006-02-03"
-citeertitel_status: "redactioneel"
-signed_date: "1977-06-08"
-entry_into_force: "2006-02-03"
+publicatiedatum: 2006-02-03
+laatste_update: 2006-02-03
+status: geldig
+toestand: 2006-02-03
+bron: "https://wetten.overheid.nl/BWBV0001015"
+opgehaald: 2026-09-11
 ---
+
 # Internationale Overeenkomst inzake de vereenvoudiging en harmonisatie van douaneprocedures
 
-**Preambule**
+*The Contracting Parties to the present Convention established under the auspices of the Customs Co-operation Council, Endeavouring to eliminate divergence between the Customs procedures and practices of Contracting Parties that can hamper international trade and other international exchanges, Desiring to contribute effectively to the development of such trade and exchanges by simplifying and harmonizing Customs procedures and practices and by fostering international co-operation, Noting that the significant benefits of facilitation of international trade may be achieved without compromising appropriate standards of Customs control, Recognizing that such simplification and harmonization can be accomplished by applying, in particular, the following principles: – the implementation of programmes aimed at continuously modernizing Customs procedures and practices and thus enhancing efficiency and effectiveness, – the application of Customs procedures and practices in a predictable, consistent and transparent manner, – the provision to interested parties of all the necessary information regarding Customs laws, regulations, administrative guidelines, procedures and practices, – the adoption of modern techniques such as risk management and audit-based controls, and the maximum practicable use of information technology, – co-operation wherever appropriate with other national authorities, other Customs administrations and the trading communities, – the implementation of relevant international standards, – the provision to affected parties of easily accessible processes of administrative and judicial review, Convinced that an international instrument incorporating the above objectives and principles that Contracting Parties undertake to apply would lead to the high degree of simplification and harmonization of Customs procedures and practices which is an essential aim of the Customs Co-operation Council, and so make a major contribution to facilitation of international trade, Have agreed as follows:*
 
-De Partijen bij deze Overeenkomst, tot stand gekomen onder auspiciën van de Internationale Douaneraad,
+### CHAPTER I. Definitions
 
-Verlangende de verschillen tussen de douaneprocedures en -praktijken van de Overeenkomstsluitende Partijen die het internationale handelsverkeer en andere internationale betrekkingen kunnen belemmeren weg te nemen,
+##### Article 1
 
-Wensende daadwerkelijk bij te dragen tot de ontwikkeling van dit handelsverkeer en deze betrekkingen door de douaneprocedures en -praktijken te vereenvoudigen en te harmoniseren en de internationale samenwerking te bevorderen,
+For the purposes of this Convention:
 
-Opmerkende dat de aanzienlijke voordelen die een vereenvoudiging van het internationale handelsverkeer met zich brengt, kunnen worden verkregen zonder de kwaliteit van de douanecontroles in het gedrang te brengen,
+- a) “Standard” means a provision the implementation of which is recognized as necessary for the achievement of harmonization and simplification of Customs procedures and practices;
 
-Erkennende dat deze vereenvoudiging en harmonisatie gerealiseerd kunnen worden door toepassing van, in het bijzonder, de hierna volgende beginselen:
+- b) “Transitional Standard” means a Standard in the General Annex for which a longer period for implementation is permitted;
 
-tenuitvoerlegging van programma's die in een voortdurende modernisering van de douaneprocedures en -praktijken voorzien en, zodoende, de doelmatigheid en doeltreffendheid daarvan bevorderen,
+- c) “Recommended Practice” means a provision in a Specific Annex which is recognized as constituting progress towards the harmonization and the simplification of Customs procedures and practices, the widest possible application of which is considered to be desirable;
 
-toepassing van douaneprocedures en -praktijken op een voorspelbare, consistente en transparante wijze,
+- d) “National legislation” means laws, regulations and other measures imposed by a competent authority of a Contracting Party and applicable throughout the territory of the Contracting Party concerned, or treaties in force by which that Party is bound;
 
-beschikbaar stellen aan belanghebbenden van alle noodzakelijke informatie in verband met de douanewetgeving, voorschriften en de administratieve richtlijnen, procedures en praktijken,
+- e) “General Annex” means the set of provisions applicable to all the Customs procedures and practices referred to in this Convention;
 
-toepassing van moderne technieken, zoals risicomanagement en accountantscontroles, en een zo intensief mogelijk gebruik van systemen voor automatische gegevensverwerking,
+- f) “Specific Annex” means a set of provisions applicable to one or more Customs procedures and practices referred to in this Convention;
 
-samenwerking, waar dienstig, met andere nationale autoriteiten, andere douanediensten en het bedrijfsleven,
+- g) “Guidelines” means a set of explanations of the provisions of the General Annex, Specific Annexes and Chapters therein which indicate some of the possible courses of action to be followed in applying the Standards, Transitional Standards and Recommended Practices, and in particular describing best practices and recommending examples of greater facilities;
 
-toepassing van relevante internationale normen,
+- h) “Permanent Technical Committee” means the Permanent Technical Committee of the Council;
 
-beschikbaar stellen aan belanghebbenden van eenvoudige administratieve en juridische beroepsprocedures,
+- ij) “Council” means the Organization set up by the Convention establishing a Customs Co-operation Council, done at Brussels on 15 December 1950;
 
-Ervan overtuigd dat de invoering van een internationaal instrument waarin de vermelde doelstellingen en beginselen zijn neergelegd en dat door de Overeenkomstsluitende Partijen wordt toegepast een aanmerkelijke vereenvoudiging en harmonisatie van de douaneprocedures en -praktijken – een fundamentele doelstelling van de Internationale Douaneraad – ten gevolge zou hebben en, zodoende, in belangrijke mate zou bijdragen tot de vereenvoudiging van het internationale handelsverkeer,
+- k) “Customs or Economic Union” means a Union constituted by, and composed of, States which has competence to adopt its own regulations that are binding on those States in respect of matters governed by this Convention, and has competence to decide, in accordance with its internal procedures, to sign, ratify or accede to this Convention.
 
-Zijn als volgt overeengekomen:
+### CHAPTER II. SCOPE AND STRUCTURE
 
-De Franse tekst, de Engelse tekst en de vertaling van de Overeenkomst, met Bijlagen, zijn oorspronkelijk gepubliceerd in Trb. 1975/92. De Overeenkomst is in werking getreden op 8 september 1977, zie Trb. 1977/116. De Overeenkomst is gewijzigd op 26 juni 1999 door Trb. 2001/162. Door de inwerkingtreding op 3 februari 2006 van de wijziging van 26 juni 1999 is de oorspronkelijke Overeenkomst op 3 februari 2006 buiten werking getreden, zie Trb. 2006/270.
+### Scope of the Convention
 
-### HOOFDSTUK I. Definities
+##### Article 2
 
-##### Artikel 1
+Each Contracting Party undertakes to promote the simplification and harmonization of Customs procedures and, to that end, to conform, in accordance with the provisions of this Convention, to the Standards, Transitional Standards and Recommended Practices in the Annexes to this Convention. However, nothing shall prevent a Contracting Party from granting facilities greater than those provided for therein, and each Contracting Party is recommended to grant such greater facilities as extensively as possible.
 
-In deze Overeenkomst wordt verstaan onder:
+##### Article 3
 
-- a. „Norm”: voorschrift waarvan wordt erkend dat de algemene toepassing ervan noodzakelijk is voor de harmonisatie en vereenvoudiging van de douaneprocedures en -praktijken;
+The provisions of this Convention shall not preclude the application of national legislation with regard to either prohibitions or restrictions on goods which are subject to Customs control.
 
-- b. „Overgangsnorm: norm in de algemene bijlage waarvoor een langere implementatietermijn is toegestaan;
+### Structure of the Convention
 
-- c. „Aanbeveling”: voorschrift in een specifieke bijlage waarvan wordt erkend dat het bijdraagt tot de harmonisatie en vereenvoudiging van de douaneprocedures en -praktijken en waarvan de zo algemeen mogelijke toepassing wenselijk wordt geacht;
+##### Article 4
 
-- d. „Nationale wetgeving”: de door een bevoegde autoriteit van een Overeenkomstsluitende Partij opgelegde wetten, voorschriften en andere maatregelen die van toepassing zijn op het grondgebied van deze Overeenkomstsluitende Partij of de vigerende verdragen die voor deze Partij bindend zijn;
+1. The Convention comprises a Body, a General Annex and Specific Annexes.
 
-- e. „Algemene bijlage”: het geheel van voorschriften dat op alle in deze Overeenkomst bedoelde douaneprocedures en -praktijken van toepassing is;
+2. The General Annex and each Specific Annex to this Convention consist, in principle, of Chapters which subdivide an Annex and comprise:
 
-- f. „Specifieke bijlage”: het geheel van voorschriften dat op een of meer van de in deze Overeenkomst bedoelde douaneprocedures en -praktijken van toepassing is;
+- a) definitions; and
 
-- g. „Richtlijnen”: toelichtingen op de bepalingen van de algemene bijlage, de specifieke bijlagen en de hoofdstukken daarvan, waarin aanwijzigingen voor de toepassing van de normen, overgangsnormen en aanbevelingen zijn opgenomen en waarin, in het bijzonder, de beste werkmethoden zijn aangegeven en concrete verdere vereenvoudigingen worden aanbevolen;
+- b) Standards, some of which in the General Annex are Transitional Standards.
 
-- h. „Permanent Technisch Comité”: het Permanent Technisch Comité van de Raad;
+3. Each Specific Annex also contains Recommended Practices.
 
-- ij. „Raad”: de organisatie die is ingesteld bij de Overeenkomst tot oprichting van de Internationale Douaneraad, ondertekend te Brussel op 15 december 1950;
+4. Each Annex is accompanied by Guidelines, the texts of which are not binding upon Contracting Parties.
 
-- k. „Douane-Unie of Economische Unie”: een door een aantal staten opgerichte en uit een aantal staten bestaande unie die bevoegd is voor het vaststellen van haar eigen regelgeving die bindend is voor deze staten op de gebieden waarop deze Overeenkomst van toepassing is en die gemachtigd is, overeenkomstig haar interne procedures, te besluiten deze Overeenkomst te ondertekenen, te ratificeren of tot deze Overeenkomst toe te treden.
+##### Article 5
 
-### HOOFDSTUK II. TOEPASSINGSGEBIED EN STRUCTUUR
+For the purposes of this Convention, any Specific Annex(es) or Chapter(s) therein to which a Contracting Party is bound shall be construed to be an integral part of the Convention, and in relation to that Contracting Party any reference to the Convention shall be deemed to include a reference to such Annex(es) or Chapter(s).
 
-#### Toepassingsgebied van de Overeenkomst
+### CHAPTER III. MANAGEMENT OF THE CONVENTION
 
-##### Artikel 2
+### Management Committee
 
-Elke Overeenkomstsluitende Partij verbindt zich ertoe de vereenvoudiging en de harmonisatie van de douaneprocedures te bevorderen en, te dien einde, zich overeenkomstig de bepalingen van deze Overeenkomst te conformeren aan de normen, overgangsnormen en aanbevelingen in de bijlagen bij deze Overeenkomst. Geen enkele bepaling van deze Overeenkomst vormt voor een Overeenkomstsluitende Partij evenwel een beletsel verdergaande vereenvoudigingen toe te passen dan die waarin deze Overeenkomst voorziet en elke Overeenkomstsluitende Partij wordt aanbevolen dergelijke verdergaande vereenvoudigingen in zoverre mogelijk in te voeren.
+##### Article 6
 
-##### Artikel 3
+1. There shall be established a Management Committee to consider the implementation of this Convention, any measures to secure uniformity in the interpretation and application thereof, and any amendments proposed thereto.
 
-De bepalingen van deze Overeenkomst laten onverlet de toepassing van nationale wetgeving ten aanzien van verboden of beperkingen die van toepassing zijn op goederen die aan douanecontrole zijn onderworpen.
+2. The Contracting Parties shall be members of the Management Committee.
 
-#### Structuur van de Overeenkomst
+3. The competent administration of any entity qualified to become a Contracting Party to this Convention under the provisions of Article 8 or of any Member of the World Trade Organization shall be entitled to attend the sessions of the Management Committee as an observer. The status and rights of such Observers shall be determined by a Council Decision. The aforementioned rights cannot be exercised before the entry into force of the Decision.
 
-##### Artikel 4
+4. The Management Committee may invite the representatives of international governmental and non-governmental organizations to attend the sessions of the Management Committee as observers.
 
-1. De Overeenkomst omvat een dispositief, een algemene bijlage en specifieke bijlagen.
+5. The Management Committee:
 
-2. De algemene bijlage en elke specifieke bijlage bij deze Overeenkomst bestaan in beginsel uit hoofdstukken die de onderverdelingen vormen van een bijlage en omvatten:
+- a) shall recommend to the Contracting Parties:
 
-- a. definities;
+   - (i) amendments to the Body of this Convention;
 
-- b. normen, waarvan sommige die zich in de algemene bijlage bevinden overgangsnormen zijn.
+   - (ii) amendments to the General Annex, the Specific Annexes and Chapters therein and the incorporation of new Chapters to the General Annex; and
 
-3. Elke specifieke bijlage bevat bovendien een aantal aanbevelingen.
+   - (iii) the incorporation of new Specific Annexes and new Chapters to Specific Annexes;
 
-4. Elke bijlage gaat vergezeld van richtlijnen waarvan de tekst niet bindend is voor de Overeenkomstsluitende Partijen.
+- b) may decide to amend Recommended Practices or to incorporate new Recommended Practices to Specific Annexes or Chapters therein in accordance with Article 16;
 
-##### Artikel 5
+- c) shall consider implementation of the provisions of this Convention in accordance with Article 13, paragraph 4;
 
-Voor de toepassing van deze Overeenkomst worden alle specifieke bijlagen of hoofdstukken daarvan die een Overeenkomstsluitende Partij binden, geacht integrerend deel uit te maken van de Overeenkomst. Voor deze Overeenkomstsluitende Partij wordt elke verwijzing naar de Overeenkomst geacht een verwijzing naar dergelijke bijlagen of hoofdstukken te omvatten.
+- d) shall review and update the Guidelines;
 
-### HOOFDSTUK III. BEHEER VAN DE OVERKOMST
+- e) shall consider any other issues of relevance to this Convention that may be referred to it;
 
-#### Comité van beheer
+- f) shall inform the Permanent Technical Committee and the Council of its decisions.
 
-##### Artikel 6
+6. The competent administrations of the Contracting Parties shall communicate to the Secretary General of the Council proposals under paragraph 5 a), b), c) or d) of this Article and the reasons therefor, together with any requests for the inclusion of items on the Agenda of the sessions of the Management Committee. The Secretary General of the Council shall bring proposals to the attention of the competent administrations of the Contracting Parties and of the observers referred to in paragraphs 2, 3 and 4 of this Article.
 
-1. Er wordt een Comité van beheer ingesteld dat toezicht houdt op de tenuitvoerlegging van deze Overeenkomst en dat alle maatregelen om de uniforme interpretatie en toepassing daarvan te waarborgen en alle voorgestelde wijzigingen daarvan onderzoekt.
+7. The Management Committee shall meet at least once each year. It shall annually elect a Chairman and Vice-Chairman. The Secretary General of the Council shall circulate the invitation and the draft Agenda to the competent administrations of the Contracting Parties and to the observers referred to in paragraphs 2, 3 and 4 of this Article at least six weeks before the Management Committee meets.
 
-2. De Overeenkomstsluitende Partijen hebben zitting in het Comité van beheer.
+8. Where a decision cannot be arrived at by consensus, matters before the Management Committee shall be decided by voting of the Contracting Parties present. Proposals under paragraph 5 a), b) or c) of this Article shall be approved by a two-thirds majority of the votes cast. All other matters shall be decided by the Management Committee by a majority of the votes cast.
 
-3. De bevoegde diensten van elke entiteit die voldoet aan de in artikel 8 vastgestelde voorwaarden om partij te worden bij deze Overeenkomst en van elk lid van de Wereldhandelsorganisatie hebben het recht de zittingen van het Comité van beheer als waarnemer bij te wonen. De status en de rechten van deze waarnemers worden bij besluit van de Raad vastgesteld. Deze rechten kunnen niet worden uitgeoefend voor de datum van inwerkingtreding van dit besluit.
+9. Where Article 8, paragraph 5 of this Convention applies, the Customs or Economic Unions which are Contracting Parties shall have, in case of voting, only a number of votes equal to the total votes allotted to their Members which are Contracting Parties.
 
-4. Het Comité van beheer kan de vertegenwoordigers van internationale gouvernementele en niet-gouvernementele organisaties uitnodigen de zittingen van het Comité van beheer als waarnemers bij te wonen.
+10. Before the closure of its session, the Management Committee shall adopt a report. This report shall be transmitted to the Council and to the Contracting Parties and observers mentioned in paragraphs 2, 3 and 4.
 
-5. Het Comité van beheer:
+11. In the absence of relevant provisions in this Article, the Rules of Procedure of the Council shall be applicable, unless the Management Committee decides otherwise.
 
-- a. doet de Overeenkomstsluitende Partijen aanbevelingen voor:
+##### Article 7
 
-- i. wijzigingen in het dispositief van deze Overeenkomst;
+For the purpose of voting in the Management Committee, there shall be separate voting on each Specific Annex and each Chapter of a Specific Annex.
 
-- ii. wijzigingen in de algemene bijlagen, de specifieke bijlagen en de hoofdstukken daarvan en de opneming van nieuwe hoofdstukken in de algemene bijlage;
+- a) Each Contracting Party shall be entitled to vote on matters relating to the interpretation, application or amendment of the Body and General Annex of the Convention.
 
-- iii. de toevoeging van nieuwe specifieke bijlagen en de opneming van nieuwe hoofdstukken in specifieke bijlagen;
+- b) As regards matters concerning a Specific Annex or Chapter of a Specific Annex that is already in force, only those Contracting Parties that have accepted that Specific Annex or Chapter therein shall have the right to vote.
 
-- b. kan besluiten aanbevelingen te wijzigen of nieuwe aanbevelingen in specifieke bijlagen of hoofdstukken daarvan op te nemen overeenkomstig het bepaalde in artikel 16;
+- c) Each Contracting Party shall be entitled to vote on drafts of new Specific Annexes or new Chapters of a Specific Annex.
 
-- c. houdt toezicht op de implementatie van deze Overeenkomst volgens het bepaalde in artikel 13, lid 4;
+### CHAPTER IV. CONTRACTING PARTY
 
-- d. draagt zorg voor de herziening en bijwerking van de richtlijnen;
+### Ratification of the Convention
 
-- e. onderzoekt alle andere aan de orde gestelde problemen in verband met deze Overeenkomst;
+##### Article 8
 
-- f. geeft het Permanent technisch comité en de Raad kennis van zijn besluiten.
+1. Any Member of the Council and any Member of the United Nations or its specialized agencies may become a Contracting Party to this Convention:
 
-6. De bevoegde diensten van de Overeenkomstsluitende Partijen geven de Secretaris-Generaal van de Raad kennis van de overeenkomstig het bepaalde in lid 5, onder a, b c of d, van dit artikel gedane voorstellen en van de redenen welke daaraan ten grondslag liggen, tezamen met eventuele verzoeken tot opneming van bepaalde punten op de agenda van de zittingen van het Comité van beheer. De Secretaris-Generaal van de Raad brengt de voorstellen onder de aandacht van de bevoegde diensten van de Overeenkomstsluitende Partijen en van de in de leden 2,3 en 4 van dit artikel bedoelde waarnemers.
+- a) by signing it without reservation of ratification;
 
-7. Het Comité van beheer komt minstens eenmaal per jaar bijeen. Het kiest jaarlijks een voorzitter en een vice-voorzitter. De Secretaris-Generaal van de Raad doet de bevoegde diensten van de Overeenkomstsluitende Partijen en de in de leden 2, 3 en 4 van dit artikel bedoelde waarnemers minstens zes weken vóór de bijeenkomst van het Comité van beheer de uitnodiging en de ontwerp-agenda van de vergadering toekomen.
+- b) by depositing an instrument of ratification after signing it subject to ratification; or
 
-8. Wanneer een besluit niet bij consensus kan worden genomen, worden de aan het Comité van beheer voorgelegde zaken door de aanwezige Overeenkomstsluitende Partijen bij stemming beslist. De in lid 5, onder a, b en c, van dit artikel bedoelde voorstellen worden met een tweederde meerderheid van de uitgebrachte stemmen aangenomen. Over alle andere aan het Comité van beheer voorgelegde zaken wordt met een meerderheid van de uitgebrachte stemmen beslist.
+- c) by acceding to it.
 
-9. In de gevallen waarin artikel 8, lid 5, van deze Overeenkomst van toepassing is, beschikken de douane-unies en economische unies die partij zijn bij de Overeenkomst over een aantal stemmen dat gelijk is aan het totale aantal stemmen dat is toegewezen aan hun leden die partij zijn bij de Overeenkomst.
+2. This Convention shall be open until 30th June 1974 for signature at the Headquarters of the Council in Brussels by the Members referred to in paragraph 1 of this Article. Thereafter, it shall be open for accession by such Members.
 
-10. Vóór de zitting wordt gesloten, keurt het Comité van beheer een verslag goed. Dit verslag wordt aan de Raad, de Overeenkomstsluitende Partijen en de in de leden 2,3 en 4 bedoelde waarnemers toegezonden.
+3. Any Contracting Party shall, at the time of signing, ratifying or acceding to this Convention, specify which if any of the Specific Annexes or Chapters therein it accepts. It may subsequently notify the depositary that it accepts one or more Specific Annexes or Chapters therein.
 
-11. Behoudens specifieke bepalingen in dit artikel, is het reglement van orde van de Raad van toepassing, tenzij het Comité van beheer anders beslist.
+4. Contracting Parties accepting any new Specific Annex or any new Chapter of a Specific Annex shall notify the depositary in accordance with paragraph 3 of this Article.
 
-##### Artikel 7
+5. - a) Any Customs or Economic Union may become, in accordance with paragraphs 1, 2 and 3 of this Article, a Contracting Party to this Convention. Such Customs or Economic Union shall inform the depositary of its competence with respect to the matters governed by this Convention. Such Customs or Economic Union shall also inform the depositary of any substantial modification in the extent of its competence.
 
-Bij stemming in het Comité van beheer wordt over elke specifieke bijlage en elk hoofdstuk van een specifieke bijlage afzonderlijk gestemd.
+- b) A Customs or Economic Union which is a Contracting Party to this Convention shall, for the matters within its competence, exercise in its own name the rights, and fulfil the responsibilities, which the Convention confers on the Members of such a Union which are Contracting Parties to this Convention. In such a case, the Members of such a Union shall not be entitled to individually exercise these rights, including the right to vote.
 
-- a. Elke Overeenkomstsluitende Partij heeft het recht te stemmen over zaken die verband houden met de interpretatie, toepassing of wijziging van het dispositief en de algemene bijlage bij de Overeenkomst.
+##### Article 9
 
-- b. Over zaken die verband houden met een specifieke bijlage of een hoofdstuk van een specifieke bijlage die reeds van toepassing zijn, mag enkel worden gestemd door Overeenkomstsluitende Partijen die de betrokken specifieke bijlage of het hoofdstuk van de betrokken specifieke bijlage hebben aanvaard.
+1. Any Contracting Party which ratifies this Convention or accedes thereto shall be bound by any amendments to this Convention, including the General Annex, which have entered into force at the date of deposit of its instrument of ratification or accession.
 
-- c. Elke Overeenkomstsluitende Partij heeft het recht te stemmen over ontwerpen van nieuwe specifieke bijlagen of nieuwe hoofdstukken van een specifieke bijlage.
+2. Any Contracting Party which accepts a Specific Annex or Chapter therein shall be bound by any amendments to the Standards contained in that Specific Annex or Chapter which have entered into force at the date on which it notifies its acceptance to the depositary. Any Contracting Party which accepts a Specific Annex or Chapter therein shall be bound by any amendments to the Recommended Practices contained therein, which have entered into force at the date on which it notifies its acceptance to the depositary, unless it enters reservations against one or more of those Recommended Practices in accordance with Article 12 of this Convention.
 
-### HOOFDSTUK IV. OVEREENKOMSTSLUITENDE PARTIJ
+### Application of the Convention
 
-#### Ratificatie van de Overeenkomst
+##### Article 10
 
-##### Artikel 8
+1. Any Contracting Party may, at the time of signing this Convention without reservation of ratification or of depositing its instrument of ratification or accession, or at any time thereafter, declare by notification given to the depositary that this Convention shall extend to all or any of the territories for whose international relations it is responsible. Such notification shall take effect three months after the date of the receipt thereof by the depositary. However, this Convention shall not apply to the territories named in the notification before this Convention has entered into force for the Contracting Party concerned.
 
-1. Elk lid van de Raad en elk lid van de Verenigde Naties of de gespecialiseerde organisaties daarvan kan partij worden bij deze Overeenkomst door:
+2. Any Contracting Party which has made a notification under paragraph 1 of this Article extending this Convention to any territory for whose international relations it is responsible may notify the depositary, under the procedure of Article 19 of this Convention, that the territory in question will no longer apply this Convention.
 
-- a. ondertekening zonder voorbehoud van ratificatie;
+##### Article 11
 
-- b. neerlegging van een akte van ratificatie na ondertekening onder voorbehoud van ratificatie; of
+For the application of this Convention, a Customs or Economic Union that is a Contracting Party shall notify to the Secretary General of the Council the territories which form the Customs or Economic Union, and these territories are to be taken as a single territory.
 
-- c. toetreding.
+### Acceptance of the provisions and reservations
 
-2. Deze Overeenkomst staat tot en met 30 juni 1974 open voor ondertekening in de zetel van de Raad te Brussel door de in lid 1 van dit artikel bedoelde leden. Na de genoemde datum kunnen deze leden tot de Overeenkomst toetreden.
+##### Article 12
 
-3. Elke Overeenkomstsluitende Partij deelt op het tijdstip van ondertekening of ratificatie van of toetreding tot deze Overeenkomst mede welke specifieke bijlagen of hoofdstukken daarvan zij aanvaardt. Deze Partij kan de depositaris vervolgens mededelen dat zij één of meer specifieke bijlagen of hoofdstukken daarvan aanvaardt.
+1. All Contracting Parties are hereby bound by the General Annex.
 
-4. Overeenkomstsluitende Partijen die een nieuwe specifieke bijlage of een nieuw hoofdstuk van een specifieke bijlage aanvaarden, geven daarvan kennis aan de depositaris overeenkomstig het bepaalde in lid 3 van dit artikel.
+2. A Contracting Party may accept one or more of the Specific Annexes or one or more of the Chapters therein. A Contracting Party which accepts a Specific Annex or Chapter(s) therein shall be bound by all the Standards therein. A Contracting Party which accepts a Specific Annex or Chapter(s) therein shall be bound by all the Recommended Practices therein unless, at the time of acceptance or at any time thereafter, it notifies the depositary of the Recommended Practice(s) in respect of which it enters reservations, stating the differences existing between the provisions of its national legislation and those of the Recommended Practice(s) concerned. Any Contracting Party which has entered reservations may withdraw them, in whole or in part, at any time by notification to the depositary specifying the date on which such withdrawal takes effect.
 
-- a. Elke douane-unie of economische unie kan overeenkomstig het bepaalde in de leden 1, 2 en 3 van dit artikel Partij worden bij deze Overeenkomst. De betrokken douane-unie of economische unie deelt de depositaris mede over welke bevoegdheden zij beschikt op de gebieden waarop deze Overeenkomst van toepassing is. Deze douane-unie of economische unie stelt de depositaris bovendien in kennis van elke belangrijke wijziging in de reikwijdte van haar bevoegdheden.
+3. Each Contracting Party bound by a Specific Annex or Chapter(s) therein shall examine the possibility of withdrawing any reservations to the Recommended Practices entered under the terms of paragraph 2 and notify the Secretary General of the Council of the results of that review at the end of every three-year period commencing from the date of the entry into force of this Convention for that Contracting Party, specifying the provisions of its national legislation which, in its opinion, are contrary to the withdrawal of the reservations.
 
-- b. Een douane-unie of economische unie die Partij is bij deze Overeenkomst oefent voor aangelegenheden die onder haar bevoegdheid vallen in eigen naam de rechten uit en vervult de taken die uit de Overeenkomst voortvloeien voor de leden van een dergelijke unie die Partij zijn bij deze Overeenkomst. In dergelijk geval zijn de leden van een dergelijke Unie niet gemachtigd deze rechten, met inbegrip van het stemrecht, individueel uit te oefenen.
+### Implementation of the provisions
 
-##### Artikel 9
+##### Article 13
 
-1. Elke Overeenkomstsluitende Partij die deze Overeenkomst ratificeert of tot deze Overeenkomst toetreedt, is gebonden door alle wijzigingen van deze Overeenkomst, met inbegrip van de algemene bijlage, die van kracht waren op de datum waarop zij haar akte van ratificatie of toetreding heeft neergelegd.
+1. Each Contracting Party shall implement the Standards in the General Annex and in the Specific Annex(es) or Chapter(s) therein that it has accepted within 36 months after such Annex(es) or Chapter(s) have entered into force for that Contracting Party.
 
-2. Elke Overeenkomstsluitende Partij die een specifieke bijlage of hoofdstuk daarvan aanvaardt, is gebonden door alle wijzigingen van de in die specifieke bijlage of het hoofdstuk daarvan opgenomen normen die van kracht waren op de datum waarop zij de depositaris kennis heeft gegeven van haar aanvaarding. Elke Overeenkomstsluitende Partij die een specifieke bijlage of een hoofdstuk daarvan aanvaardt, is gebonden door alle wijzigingen van de daarin opgenomen aanbevelingen die van kracht waren op de datum waarop zij de depositaris kennis heeft gegeven van haar aanvaarding, tenzij deze Partij overeenkomstig artikel 12 van deze Overeenkomst voorbehoud maakt ten aanzien van één of meer van deze aanbevelingen.
+2. Each Contracting Party shall implement the Transitional Standards in the General Annex within 60 months of the date that the General Annex has entered into force for that Contracting Party.
 
-#### Toepassing van de Overeenkomst
+3. Each Contracting Party shall implement the Recommended Practices in the Specific Annex(es) or Chapter(s) therein that it has accepted within 36 months after such Specific Annex(es) or Chapter(s) have entered into force for that Contracting Party, unless reservations have been entered as to one or more of those Recommended Practices.
 
-##### Artikel 10
+4. - a) Where the periods provided for in paragraph 1 or 2 of this Article would, in practice, be insufficient for any Contracting Party to implement the provisions of the General Annex, that Contracting Party may request the Management Committee, before the end of the period referred to in paragraph 1 or 2 of this Article, to provide an extension of that period. In making the request, the Contracting Party shall state the provision(s) of the General Annex with regard to which an extension of the period is required and the reasons for such request.
 
-1. Elke Overeenkomstsluitende Partij kan bij de ondertekening van deze Overeenkomst zonder voorbehoud van ratificatie of bij de neerlegging van haar akte van ratificatie of toetreding dan wel op enig later tijdstip, door middel van een kennisgeving aan de depositaris verklaren dat het toepassingsgebied van deze Overeenkomst zich uitstrekt tot alle gebieden waarvan de internationale betrekkingen tot haar bevoegdheid behoren. Deze kennisgeving wordt van kracht drie maanden na de datum waarop zij door de depositaris is ontvangen. Deze Overeenkomst is echter niet op de in de kennisgeving genoemde gebieden van toepassing voor de datum waarop deze Overeenkomst voor de betrokken Overeenkomstsluitende Partij in werking treedt.
+- b) In exceptional circumstances, the Management Committee may decide to grant such an extension. Any decision by the Management Committee granting such an extension shall state the exceptional circumstances justifying the decision and the extension shall in no case be more than one year. At the expiry of the period of extension, the Contracting Party shall notify the depositary of the implementation of the provisions with regard to which the extension was granted.
 
-2. Een Overeenkomstsluitende Partij die overeenkomstig het bepaalde in lid 1 van dit artikel een kennisgeving heeft gedaan waarbij het toepassingsgebied van deze Overeenkomst wordt uitgebreid tot een gebied waarvan de internationale betrekkingen tot haar bevoegdheid behoren, kan de depositaris volgens de procedure van artikel 19 van deze Overeenkomst mededelen dat het betrokken gebied deze Overeenkomst niet langer toepast.
+### Settlement of disputes
 
-##### Artikel 11
+##### Article 14
 
-Voor de toepassing van deze Overeenkomst deelt een douane-unie of economische unie die Partij is bij deze Overeenkomst de Secretaris-generaal van de Raad mede welke gebieden deel uitmaken van de douane-unie of de economische unie. Deze gebieden dienen als één enkel gebied te worden beschouwd.
+1. Any dispute between two or more Contracting Parties concerning the interpretation or application of this Convention shall so far as possible be settled by negotiation between them.
 
-#### Aanvaarding van de bepalingen en voorbehouden
+2. Any dispute which is not settled by negotiation shall be referred by the Contracting Parties in dispute to the Management Committee which shall thereupon consider the dispute and make recommendations for its settlement.
 
-##### Artikel 12
+3. The Contracting Parties in dispute may agree in advance to accept the recommendations of the Management Committee as binding.
 
-1. Alle Overeenkomstsluitende Partijen zijn gebonden door de algemene bijlage.
+### Amendments to the Convention
 
-2. Een Overeenkomstsluitende Partij kan één of meer van de specifieke bijlagen of één of meer van de daarin opgenomen hoofdstukken aanvaarden. Een Overeenkomstsluitende Partij die een specifieke bijlage of één of meer hoofdstukken daarvan aanvaardt, is gebonden door al de daarin vastgestelde normen. Een Overeenkomstsluitende Partij die een specifieke bijlage of één of meer hoofdstukken daarvan aanvaardt, is gebonden door al de daarin vastgestelde aanbevelingen, tenzij deze Partij, op het tijdstip van aanvaarding of op een later tijdstip, de depositaris mededeelt ten aanzien van welke aanbeveling(en) zij voorbehoud maakt, met vermelding van de punten waarop de bepalingen van haar nationale wetgeving van de betrokken aanbeveling afwijken. Een Overeenkomstsluitende Partij die een voorbehoud heeft gemaakt, kan dit te allen tijde geheel of ten dele intrekken door middel van een kennisgeving aan de depositaris waarin de datum is vermeld waarop deze intrekking van kracht wordt.
+##### Article 15
 
-3. Elke Overeenkomstsluitende Partij die gebonden is door een specifieke bijlage of één of meer hoofdstukken daarvan, onderzoekt de mogelijkheid tot intrekking van de overeenkomstig lid 2 gemaakte voorbehouden ten aanzien van bepaalde aanbevelingen en brengt de resultaten van dat onderzoek aan het einde van elke periode van drie jaar, te beginnen op de datum waarop deze Overeenkomst voor de betrokken Overeenkomstsluitende Partij in werking treedt, ter kennis van het Secretariaat-generaal van de Raad, met vermelding van de bepalingen van haar nationale wetgeving die naar haar oordeel de intrekking van deze voorbehouden in de weg staan.
+1. The text of any amendment recommended to the Contracting Parties by the Management Committee in accordance with Article 6, paragraph 5 a) (i) and (ii) shall be communicated by the Secretary General of the Council to all Contracting Parties and to those Members of the Council that are not Contracting Parties.
 
-#### Implementatie van de bepalingen
+2. Amendments to the Body of the Convention shall enter into force for all Contracting Parties twelve months after deposit of the instruments of acceptance by those Contracting Parties present at the session of the Management Committee during which the amendments were recommended, provided that no objection is lodged by any of the Contracting Parties within a period of twelve months from the date of communication of such amendments.
 
-##### Artikel 13
+3. Any recommended amendment to the General Annex or the Specific Annexes or Chapters therein shall be deemed to have been accepted six months after the date the recommended amendment was communicated to Contracting Parties, unless:
 
-1. Elke Overeenkomstsluitende Partij implementeert de normen in de algemene bijlage en de specifieke bijlage(n) of hoofdstuk(ken) daarvan die zij heeft aanvaard binnen 36 maanden na de datum waarop deze bijlage(n) of één of meer hoofdstukken daarvan voor de betrokken Overeenkomstsluitende Partij in werking zijn getreden.
+- a) there has been an objection by a Contracting Party or, in the case of a Specific Annex or Chapter, by a Contracting Party bound by that Specific Annex or Chapter; or
 
-2. Elke Overeenkomstsluitende Partij implementeert de overgangsnormen in de algemene bijlage binnen 60 maanden na de datum waarop de algemene bijlage voor de betrokken Overeenkomstsluitende Partij in werking is getreden.
+- b) a Contracting Party informs the Secretary General of the Council that, although it intends to accept the recommended amendment, the conditions necessary for such acceptance are not yet fulfilled.
 
-3. Elke Overeenkomstsluitende Partij implementeert de aanbevelingen in de specifieke bijlage(n) of één of meer hoofdstukken daarvan die zij heeft aanvaard binnen 36 maanden na de datum waarop deze specifieke bijlage(n) of één of meer hoofdstukken daarvan voor de betrokken Overeenkomstsluitende Partij in werking zijn getreden, tenzij ten aanzien van één of meer van deze aanbevelingen voorbehoud is gemaakt.
+4. If a Contracting Party sends the Secretary General of the Council a communication as provided for in paragraph 3 b) of this Article, it may, so long as it has not notified the Secretary General of the Council of its acceptance of the recommended amendment, submit an objection to that amendment within a period of eighteen months following the expiry of the six-month period referred to in paragraph 3 of this Article.
 
-- a. Wanneer de termijnen waarin de leden l en 2 van dit artikel voorzien voor een Overeenkomstsluitende Partij in de praktijk ontoereikend zijn om de bepalingen van de algemene bijlage te implementeren, dan kan deze Overeenkomstsluitende Partij het Comité van beheer vóór het einde van de in de leden 1 en 2 van dit artikel bedoelde termijn om verlenging van deze termijn verzoeken. De Overeenkomstsluitende Partij vermeldt in haar verzoek de bepaling(en) van de algemene bijlage waarvoor om verlenging van de termijn wordt verzocht, evenals de redenen van haar verzoek.
+5. If an objection to the recommended amendment is notified in accordance with the terms of paragraph 3 a) or 4 of this Article, the amendment shall be deemed not to have been accepted and shall be of no effect.
 
-- b. In uitzonderlijke omstandigheden kan het Comité van beheer besluiten een dergelijke verlenging toe te staan. In elk besluit van het Comité van beheer waarbij een dergelijke verlenging wordt toegestaan, worden de bijzondere omstandigheden vermeld die het besluit rechtvaardigen. De verlenging bedraagt in geen geval meer dan één jaar. Aan het einde van de verlengingstermijn stelt de Overeenkomstsluitende Partij de depositaris in kennis van de implementatie van de bepalingen waarvoor de verlenging werd toegestaan.
+6. If any Contracting Party has sent a communication in accordance with paragraph 3 b) of this Article, the amendment shall be deemed to have been accepted on the earlier of the following two dates:
 
-#### Geschillenbeslechting
+- a) the date by which all the Contracting Parties which sent such communications have notified the Secretary General of the Council of their acceptance of the recommended amendment, provided that, if all the acceptances were notified before the expiry of the period of six months referred to in paragraph 3 of this Article, that date shall be taken to be the date of expiry of the said six-month period;
 
-##### Artikel 14
+- b) the date of expiry of the eighteen-month period referred to in paragraph 4 of this Article.
 
-1. Alle geschillen tussen twee of meer Overeenkomstsluitende Partijen in verband met de interpretatie of de toepassing van deze Overeenkomst worden in zoverre mogelijk onderling geregeld.
+7. Any amendment to the General Annex or the Specific Annexes or Chapters therein deemed to be accepted shall enter into force either six months after the date on which it was deemed to be accepted or, if a different period is specified in the recommended amendment, on the expiry of that period after the date on which the amendment was deemed to be accepted.
 
-2. Geschillen die niet onderling geregeld kunnen worden, worden door de litigerende Overeenkomstsluitende Partijen voorgelegd aan het Comité van beheer dat het geschil onderzoekt en aanbevelingen doet voor de beslechting daarvan.
+8. The Secretary General of the Council shall, as soon as possible, notify the Contracting Parties to this Convention of any objection to the recommended amendment made in accordance with paragraph 3 a), and of any communication received in accordance with paragraph 3 b), of this Article. The Secretary General of the Council shall subsequently inform the Contracting Parties whether the Contracting Party or Parties which have sent such a communication raise an objection to the recommended amendment or accept it.
 
-3. De litigerende Overeenkomstsluitende Partijen kunnen vooraf overeenkomen de aanbevelingen van het Comité van beheer als bindend te aanvaarden.
+##### Article 16
 
-#### Wijziging van de Overeenkomst
+1. Notwithstanding the amendment procedure laid down in Article 15 of this Convention, the Management Committee in accordance with Article 6 may decide to amend any Recommended Practice or to incorporate new Recommended Practices to any Specific Annex or Chapter therein. Each Contracting Party shall be invited by the Secretary General of the Council to participate in the deliberations of the Management Committee. The text of any such amendment or new Recommended Practice so decided upon shall be communicated by the Secretary General of the Council to the Contracting Parties and those Members of the Council that are not Contracting Parties to this Convention.
 
-##### Artikel 15
+2. Any amendment or incorporation of new Recommended Practices decided upon under paragraph 1 of this Article shall enter into force six months after their communication by the Secretary General of the Council. Each Contracting Party bound by a Specific Annex or Chapter therein forming the subject of such amendments or incorporation of new Recommended Practices shall be deemed to have accepted those amendments or new Recommended Practices unless it enters a reservation under the procedure of Article 12 of this Convention.
 
-1. De tekst van elke wijziging die de Overeenkomstsluitende Partijen door het Comité van beheer wordt aanbevolen overeenkomstig artikel 6, lid 5, onder a, i en ii, wordt door de Secretaris-generaal van de Raad ter kennis gebracht van alle Overeenkomstsluitende Partijen en van de leden van de Raad die geen Overeenkomstsluitende Partij zijn.
+### Duration of accession
 
-2. Wijzigingen in het dispositief van de Overeenkomst treden voor alle Overeenkomstsluitende Partijen in werking twaalf maanden na de neerlegging van de akten van aanvaarding door de Overeenkomstsluitende Partijen die aanwezig waren bij de zitting van het Comité van beheer tijdens welke de wijzigingen werden aanbevolen, op voorwaarde dat geen van de Overeenkomstsluitende Partijen bezwaar aantekent binnen twaalf maanden na de datum waarop deze wijzigingen zijn medegedeeld.
+##### Article 17
 
-3. Een aanbevolen wijziging van de algemene bijlage of van de specifieke bijlagen of hoofdstukken daarvan, wordt geacht te zijn aanvaard zes maanden na de datum waarop de aanbevolen wijziging de Overeenkomstsluitende Partijen ter kennis werd gebracht, tenzij:
+1. This Convention is of unlimited duration but any Contracting Party may denounce it at any time after the date of its entry into force under Article 18 thereof.
 
-- a. bezwaar is aangetekend door een Overeenkomstsluitende Partij of, wanneer het gaat om een specifieke bijlage of een hoofdstuk daarvan, een Overeenkomstsluitende Partij die door deze specifieke bijlage of dat hoofdstuk gebonden is; of
+2. The denunciation shall be notified by an instrument in writing, deposited with the depositary.
 
-- b. een Overeenkomstsluitende Partij de Secretaris-generaal van de Raad ervan in kennis stelt dat, hoewel zij voornemens is de aanbevolen wijziging te aanvaarden, de voorwaarden voor een dergelijke aanvaarding nog niet zijn vervuld.
+3. The denunciation shall take effect six months after the receipt of the instrument of denunciation by the depositary.
 
-4. Indien een Overeenkomstsluitende Partij de Secretaris-generaal van de Raad een kennisgeving doet als bedoeld in lid 3, onder b), van dit artikel, kan deze Partij, zolang zij de Secretaris-generaal van de Raad niet in kennis heeft gesteld van haar aanvaarding van de aanbevolen wijziging, tegen deze wijziging bezwaar aantekenen binnen een termijn van achttien maanden volgende op het verstrijken van de in lid 3 van dit artikel bedoelde periode van zes maanden.
+4. The provisions of paragraphs 2 and 3 of this Article shall also apply in respect of the Specific Annexes or Chapters therein, for which any Contracting Party may withdraw its acceptance at any time after the date of the entry into force.
 
-5. Wanneer een bezwaar tegen een aanbevolen wijziging overeenkomstig het bepaalde in lid 3 onder a), of lid 4 van dit artikel wordt medegedeeld, wordt de wijziging geacht niet te zijn aanvaard en sorteert deze geen effect.
+5. Any Contracting Party which withdraws its acceptance of the General Annex shall be deemed to have denounced the Convention. In this case, the provisions of paragraphs 2 and 3 also apply.
 
-6. Indien een Overeenkomstsluitende Partij een kennisgeving in de zin van het bepaalde in lid 3, onder b), van dit artikel heeft gedaan, wordt de wijziging geacht te zijn aanvaard op de vroegste van de volgende twee data:
+### CHAPTER V. FINAL PROVISIONS
 
-- a. de datum waarop alle Overeenkomstsluitende Partijen die dergelijke kennisgevingen hebben gedaan de Secretaris-Generaal van de Raad in kennis hebben gesteld van hun aanvaarding van de aanbevolen wijziging, op voorwaarde dat, indien alle aanvaardingen vóór het verstrijken van de in lid 3 van dit artikel bedoelde termijn van zes maanden werden medegedeeld, deze datum wordt aangenomen als de datum waarop de genoemde termijn van zes maanden verstrijkt;
+### Entry into force of the Convention
 
-- b. de dat waarop de in lid 4 van dit artikel bedoelde termijn van achttien maanden verstrijkt.
+##### Article 18
 
-7. Elke wijziging van de algemene bijlage of van de specifieke bijlagen of hoofdstukken daarvan die geacht wordt te zijn aanvaard, wordt van kracht, hetzij zes maanden na de datum waarop zij werd geacht te zijn aanvaard, hetzij, indien in de aanbevolen wijziging een andere termijn is vermeld, bij het verstrijken van die termijn na de datum waarop de wijziging werd geacht te zijn aanvaard.
+1. This Convention shall enter into force three months after five of the entities referred to in paragraphs 1 and 5 of Article 8 thereof have signed the Convention without reservation of ratification or have deposited their instruments of ratification or accession.
 
-8. De Secretaris-generaal van de Raad stelt de Overeenkomstsluitende Partijen zo spoedig mogelijk in kennis van elk bezwaar dat overeenkomstig lid 3, onder a), tegen de aanbevolen wijziging is aangetekend en van elke overeenkomstig lid 3, onder b), van dit artikel ontvangen kennisgeving. De Secretaris-generaal van de Raad deelt de Overeenkomstsluitende Partijen vervolgens mede of de Overeenkomstsluitende Partij of Partijen die een dergelijke kennisgeving hebben gedaan, bezwaar aantekenen tegen de aanbevolen wijziging of deze aanvaarden.
+2. This Convention shall enter into force for any Contracting Party three months after it has become a Contracting Party in accordance with the provisions of Article 8.
 
-##### Artikel 16
+3. Any Specific Annex or Chapter therein to this Convention shall enter into force three months after five Contracting Parties have accepted that Specific Annex or that Chapter.
 
-1. In afwijking van de in artikel 15 van deze Overeenkomst vastgestelde wijzigingsprocedure kan het Comité van beheer overeenkomstig artikel 6 besluiten een aanbeveling te wijzigen of in een specifieke bijlage of hoofdstuk daarvan nieuwe aanbevelingen op te nemen. Elke Overeenkomstsluitende Partij wordt door de Secretaris-generaal van de Raad uitgenodigd aan de besprekingen in het Comité van beheer deel te nemen. De tekst van een dergelijke wijziging of nieuwe aanbeveling waarover aldus is beslist, wordt door de Secretaris-generaal van de Raad ter kennis gebracht van de Overeenkomstsluitende Partijen en van de leden van de Raad die geen Partij zijn bij deze Overeenkomst.
+4. After any Specific Annex or Chapter therein has entered into force in accordance with paragraph 3 of this Article, that Specific Annex or Chapter therein shall enter into force for any Contracting Party three months after it has notified its acceptance. No Specific Annex or Chapter therein shall, however, enter into force for a Contracting Party before this Convention has entered into force for that Contracting Party.
 
-2. Een wijziging of opneming van een nieuwe aanbeveling waarover overeenkomstig lid 1 van dit artikel is beslist, wordt van kracht zes maanden nadat de Secretaris-generaal van de Raad daarvan kennis heeft gegeven. Elke Overeenkomstsluitende Partij die gebonden is door een specifieke bijlage of een hoofdstuk daarvan waarin dergelijke wijzigingen zijn aangebracht of nieuwe aanbevelingen zijn opgenomen, wordt geacht deze wijzigingen of nieuwe aanbevelingen te hebben aanvaard, tenzij deze Overeenkomstsluitende Partij voorbehoud maakt volgens de procedure van artikel 12 van de Overeenkomst.
+### Depositary of the Convention
 
-#### Duur van de toetreding
+##### Article 19
 
-##### Artikel 17
+1. This Convention, all signatures with or without reservation of ratification and all instruments of ratification or accession shall be deposited with the Secretary General of the Council.
 
-1. Deze Overeenkomst wordt voor onbepaalde tijd gesloten. Een Overeenkomstsluitende Partij kan deze Overeenkomst na de datum van inwerkingtreding evenwel te allen tijde opzeggen overeenkomstig het bepaalde in artikel 18.
+2. The depositary shall:
 
-2. Van deze opzegging wordt schriftelijk kennis gegeven door middel van een akte die bij de depositaris wordt neergelegd.
+- a) receive and keep custody of the original texts of this Convention;
 
-3. De opzegging wordt van kracht zes maanden na de datum van ontvangst van de in lid 2 bedoelde akte door de depositaris.
+- b) prepare certified copies of the original texts of this Convention and transmit them to the Contracting Parties and those Members of the Council that are not Contracting Parties and the Secretary General of the United Nations;
 
-4. De bepalingen van de leden 2 en 3 van dit artikel zijn eveneens van toepassing op de specifieke bijlagen of hoofdstukken daarvan, ten aanzien waarvan een Overeenkomstsluitende Partij haar aanvaarding na de datum van inwerkingtreding te allen tijde kan intrekken.
+- c) receive any signature with or without reservation of ratification, ratification or accession to this Convention and receive and keep custody of any instruments, notifications and communications relating to it;
 
-5. Een Overeenkomstsluitende Partij die haar aanvaarding van de algemene bijlage intrekt, wordt geacht de Overeenkomst te hebben opgezegd. In dit geval zijn de bepalingen van de leden 2 en 3 eveneens van toepassing.
+- d) examine whether the signature or any instrument, notification or communication relating to this Convention is in due and proper form and, if need be, bring the matter to the attention of the Contracting Party in question;
 
-### HOOFDSTUK V. SLOTBEPALING
+- e) notify the Contracting Parties, those Members of the Council that are not Contracting Parties, and the Secretary General of the United Nations of:
 
-#### Inwerkingtreding van de Overeenkomst
+   - – signatures, ratifications, accessions and acceptances of Annexes and Chapters under Article 8 of this Convention;
 
-##### Artikel 18
+   - – new Chapters of the General Annex and new Specific Annexes or Chapters therein which the Management Committee decides to recommend to incorporate in this Convention;
 
-1. Deze Overeenkomst treedt in werking drie maanden na de datum waarop vijf van de in artikel 8, lid 1 en lid 5, bedoelde entiteiten de Overeenkomst zonder voorbehoud van ratificatie hebben ondertekend of hun akten van ratificatie of toetreding hebben neergelegd.
+   - – the date of entry into force of this Convention, of the General Annex and of each Specific Annex or Chapter therein in accordance with Article 18 of this Convention;
 
-2. Deze Overeenkomst treedt voor een Overeenkomstsluitende Partij in werking drie maanden na de datum waarop deze Partij Overeenkomstsluitende Partij is geworden overeenkomstig het bepaalde in artikel 8.
+   - – notifications received in accordance with Articles 8, 10, 11,12 and 13 of this Convention;
 
-3. Een specifieke bijlage of hoofdstuk daarvan bij deze Overeenkomst treedt in werking drie maanden na de datum waarop vijf Overeenkomstsluitende Partijen de betrokken specifieke bijlage of het hoofdstuk daarvan hebben aanvaard.
+   - – withdrawals of acceptances of Annexes/Chapters by Contracting Parties;
 
-4. Na de inwerkingtreding van een specifieke bijlage of hoofdstuk daarvan overeenkomstig het bepaalde in lid 3 van dit artikel, worden deze specifieke bijlage of dit hoofdstuk voor een Overeenkomstsluitende Partij van kracht drie maanden nadat deze Partij kennis heeft gegeven van haar aanvaarding. Geen enkele specifieke bijlage of hoofdstuk daarvan wordt evenwel voor een Overeenkomstsluitende Partij van kracht voor de datum waarop deze Overeenkomst voor die Overeenkomstsluitende Partij in werking is getreden.
+   - – denunciations under Article 17 of this Convention; and
 
-#### Depositaris van de Overeenkomst
+   - – any amendment accepted in accordance with Article 15 of this Convention and the date of its entry into force.
 
-##### Artikel 19
+3. In the event of any difference appearing between a Contracting Party and the depositary as to the performance of the latter's functions, the depositary or that Contracting Party shall bring the question to the attention of the other Contracting Parties and the signatories or, as the case may be, the Management Committee or the Council.
 
-1. Deze Overeenkomst, alle ondertekeningen met of zonder voorbehoud van ratificatie en alle akten van ratificatie of toetreding worden bij de Secretaris-generaal van de Raad neergelegd.
+### Registration and authentic texts
 
-2. De depositaris:
+##### Article 20
 
-- a. ontvangt en bewaart de originele teksten van deze Overeenkomst;
-
-- b. maakt voor echt gewaarmerkte afschriften van de originele teksten van de Overeenkomst en doet deze aan de Overeenkomstsluitende Partijen, de leden van de Raad die geen Overeenkomstsluitende Partij zijn en de Secretaris-generaal van de Verenigde Naties toekomen;
-
-- c. neemt alle ondertekeningen met of zonder voorbehoud van ratificatie, ratificatie van of toetredingen tot deze Overeenkomst in ontvangst en neemt alle daarmee verband houdende akten en instrumenten, kennisgevingen en mededelingen in ontvangst en bewaart deze;
-
-- d. onderzoekt of alle ondertekeningen, akten en instrumenten, kennisgevingen en mededelingen met betrekking tot deze Overeenkomst aan de voorschriften voldoen en brengt indien nodig de kwestie onder de aandacht van de betrokken Overeenkomstsluitende Partij;
-
-- e. geeft de Overeenkomstsluitende Partijen, de leden van de Raad die geen Overeenkomstsluitende Partij zijn en de Secretaris-generaal van de Verenigde Naties kennis van: – ondertekeningen, ratificaties, toetredingen en aanvaardingen van bijlagen en hoofdstukken overeenkomstig artikel 8 van deze Overeenkomst; – nieuwe hoofdstukken van de algemene bijlage en nieuwe specifieke bijlagen of hoofdstukken daarvan, waarvoor het Comité van beheer besluit een aanbeveling tot opneming in deze Overeenkomst te doen; – de datum van inwerkingtreding van deze Overeenkomst, van de algemene bijlage en van elke specifieke bijlage of hoofdstuk daarvan overeenkomstig artikel 18 van deze Overeenkomst; – kennisgevingen die werden ontvangen overeenkomstig de artikelen 8, 10, 11, 12 en 13 van deze overeenkomst; – de intrekking van aanvaardingen van bijlagen/hoofdstukken door Overeenkomstsluitende Partijen; – opzeggingen overeenkomstig artikel 17 van deze Overeenkomst; en – krachtens artikel 15 van deze Overeenkomst aanvaarde wijzigingen evenals de data van inwerkingtreding van deze wijzigingen.
-
-3. In het geval dat tussen een Overeenkomstsluitende Partij en de depositaris een verschil van mening ontstaat over de wijze waarop laatstgenoemde zijn taken vervult, brengt de depositaris of de betrokken Overeenkomstsluitende Partij de kwestie onder de aandacht van de andere Overeenkomstsluitende Partijen en de ondertekenaars dan wel, naar gelang het geval, het Comité van beheer of de Raad.
-
-#### Registratie en authentieke teksten
-
-##### Artikel 20
-
-Overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) wordt deze Overeenkomst op verzoek van de Secretaris-generaal van de Raad bij het Secretariaat van de Verenigde Naties geregistreerd.
-
-### HOOFDSTUK 1. ALGEMENE BEGINSELEN
-
-### HOOFDSTUK 2. DEFINITIES
-
-### HOOFDSTUK 3. VRIJMAKING EN ANDERE DOUANEFORMALITEITEN
-
-#### Bevoegde douanekantoren
-
-#### De aangever
-
-#### De goederenaangifte
-
-#### Overlegging, geldigmaking en controle van de goederenaangifte
-
-#### Bijzondere procedures voor gevolmachtigden
-
-#### Onderzoek van de goederen
-
-#### Fouten
-
-#### Vrijgave van goederen
-
-#### Afstand of vernietiging van goederen
-
-### HOOFDSTUK 4. RECHTEN EN HEFFINGEN
-
-#### A. Vaststelling, invordering en betaling van rechten en heffingen
-
-#### B. Uitstel van betaling van rechten en heffingen
-
-#### C. Terugbetaling van rechten en heffingen
-
-### HOOFDSTUK 5. ZEKERHEIDSTELLING
-
-### HOOFDSTUK 6. DOUANECONTROLE
-
-### HOOFDSTUK 7. TOEPASSING VAN INFORMATIETECHNOLOGIE
-
-### HOOFDSTUK 8. BETREKKINGEN TUSSEN DE DOUANE EN DERDEN
-
-### HOOFDSTUK 9. INFORMATIE, BESLUITEN EN BESCHIKKINGEN VAN DE DOUANE
-
-#### A. Algemene informatie
-
-#### B. Specifieke informatie
-
-#### C. Besluiten en beschikkingen
-
-### HOOFDSTUK 10. BEROEP IN DOUANEZAKEN
-
-#### A. Recht op beroep
-
-#### B. Vorm en motivering van het beroep
-
-#### C. Behandeling van het beroep
+In accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), this Convention shall be registered with the Secretariat of the United Nations at the request of the Secretary General of the Council.

@@ -1,62 +1,19 @@
 ---
 title: "Protocol, opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie, bij de Overeenkomst aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen"
 identifier: "BWBV0001528"
-country: "nl"
-rank: "verdrag"
-publication_date: "2002-10-17"
-last_updated: "2002-10-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001528"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000617783"
-version_id: "10000635922"
-internal_id: "C10006988381"
-label_id: "10000617934"
-original_entry_into_force: "2002-10-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001528/2002-10-17/0"
-intitule_bron: "Trb.1996-330"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-03-28"
-intitule_published: "1996-12-05"
-intitule_in_force: "2002-10-04"
-intitule_status: "goed"
-original_publication: "Trb.1996-330"
-original_signed_date: "2002-03-28"
-original_published_date: "1996-12-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1996-330"
-entry_into_force_date: "2002-10-17"
-jci_1_3: "jci1.3:c:BWBV0001528&z=2002-10-17&g=2002-10-17"
-jci_1_0: "1.0:c:BWBV0001528&g=2002-10-17"
-citeertitel_status: "officieel"
-signed_date: "2002-03-28"
-entry_into_force: "2002-10-17"
+publicatiedatum: 2002-10-17
+laatste_update: 2002-10-17
+status: geldig
+toestand: 2002-10-17
+bron: "https://wetten.overheid.nl/BWBV0001528"
+opgehaald: 2026-09-11
 ---
+
 # Protocol, opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie, bij de Overeenkomst aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen
 
-De Hoge Verdragsluitende Partijen bij dit Protocol, Lid-Staten van de Europese Unie,
-
-Onder verwijzing naar de akte van de Raad van de Europese Unie van de zevenentwintigste september negentienhonderd zesennegentig,
-
-Wensend ervoor te zorgen dat hun strafwetgeving doeltreffend bijdraagt tot de bescherming van de financiële belangen van de Europese Gemeenschappen,
-
-Erkennend het belang dat de [Overeenkomst van 26 juli 1995 aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen](https://wetten.overheid.nl/jci1.3:c:BWBV0001473) heeft met het oog op de bestrijding van fraude met betrekking tot de communautaire ontvangsten en uitgaven,
-
-Zich ervan bewust dat de financiële belangen van de Europese Gemeenschappen geschaad of bedreigd kunnen worden door andere strafbare feiten, met name daden van omkoping welke begaan kunnen worden tegen of door nationale zowel als communautaire ambtenaren, die belast zijn met de inning, het beheer of de besteding van communautaire middelen waarop zij controle uitoefenen,
-
-Overwegende dat bij dergelijke daden van omkoping personen van verschillende nationaliteit en in dienst van verschillende openbare instanties of instellingen betrokken kunnen zijn en dat het, ter wille van een doeltreffend optreden tegen dergelijke internationaal vertakte operaties, van belang is dat het laakbare karakter ervan in het strafrecht van de Lid-Staten volgens vergelijkbare maatstaven wordt beoordeeld,
-
-Constaterend dat in verscheidene Lid-Staten de strafwetgeving inzake ambtsdelicten in het algemeen en omkoping in het bijzonder alleen betrekking heeft op handelingen die door of tegen hun nationale ambtenaren worden verricht, en niet of slechts in uitzonderlijke gevallen ook op gedragingen waarbij communautaire ambtenaren of ambtenaren van andere Lid-Staten betrokken zijn,
-
-Ervan overtuigd dat de nationale wetgevingen moeten worden aangepast voor zover zij daden van omkoping waardoor de financiële belangen van de Europese Gemeenschappen worden of kunnen worden geschaad en waarbij communautaire ambtenaren of ambtenaren van andere Lid-Staten betrokken zijn, niet strafbaar stellen,
-
-Ervan overtuigd dat deze aanpassing van de nationale wetgevingen ten aanzien van communautaire ambtenaren voorts niet beperkt mag blijven tot daden van actieve of passieve omkoping, maar ook moet gelden voor andere strafbare feiten die ten koste gaan of kunnen gaan van de ontvangsten of uitgaven van de Europese Gemeenschappen, met inbegrip van feiten gepleegd door of tegen personen die met de hoogste verantwoordelijkheden zijn bekleed,
-
-Overwegende voorts dat inzake bevoegdheden en onderlinge samenwerking moet worden voorzien in passende regels, waaronder eventueel opheffing van immuniteit, onverminderd de juridische voorwaarden voor de concrete toepassing ervan,
-
-Overwegende tenslotte dat de relevante bepalingen van de [Overeenkomst van 26 juli 1995 aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen](https://wetten.overheid.nl/jci1.3:c:BWBV0001473) toepasselijk moeten worden gemaakt op de in dit Protocol bedoelde strafbare feiten,
-
-Hebben overeenstemming bereikt omtrent de volgende bepalingen:
+*De Hoge Verdragsluitende Partijen bij dit Protocol, Lid-Staten van de Europese Unie, Onder verwijzing naar de akte van de Raad van de Europese Unie van de zevenentwintigste september negentienhonderd zesennegentig, Wensend ervoor te zorgen dat hun strafwetgeving doeltreffend bijdraagt tot de bescherming van de financiële belangen van de Europese Gemeenschappen, Erkennend het belang dat de Overeenkomst van 26 juli 1995 aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen heeft met het oog op de bestrijding van fraude met betrekking tot de communautaire ontvangsten en uitgaven, Zich ervan bewust dat de financiële belangen van de Europese Gemeenschappen geschaad of bedreigd kunnen worden door andere strafbare feiten, met name daden van omkoping welke begaan kunnen worden tegen of door nationale zowel als communautaire ambtenaren, die belast zijn met de inning, het beheer of de besteding van communautaire middelen waarop zij controle uitoefenen, Overwegende dat bij dergelijke daden van omkoping personen van verschillende nationaliteit en in dienst van verschillende openbare instanties of instellingen betrokken kunnen zijn en dat het, ter wille van een doeltreffend optreden tegen dergelijke internationaal vertakte operaties, van belang is dat het laakbare karakter ervan in het strafrecht van de Lid-Staten volgens vergelijkbare maatstaven wordt beoordeeld, Constaterend dat in verscheidene Lid-Staten de strafwetgeving inzake ambtsdelicten in het algemeen en omkoping in het bijzonder alleen betrekking heeft op handelingen die door of tegen hun nationale ambtenaren worden verricht, en niet of slechts in uitzonderlijke gevallen ook op gedragingen waarbij communautaire ambtenaren of ambtenaren van andere Lid-Staten betrokken zijn, Ervan overtuigd dat de nationale wetgevingen moeten worden aangepast voor zover zij daden van omkoping waardoor de financiële belangen van de Europese Gemeenschappen worden of kunnen worden geschaad en waarbij communautaire ambtenaren of ambtenaren van andere Lid-Staten betrokken zijn, niet strafbaar stellen, Ervan overtuigd dat deze aanpassing van de nationale wetgevingen ten aanzien van communautaire ambtenaren voorts niet beperkt mag blijven tot daden van actieve of passieve omkoping, maar ook moet gelden voor andere strafbare feiten die ten koste gaan of kunnen gaan van de ontvangsten of uitgaven van de Europese Gemeenschappen, met inbegrip van feiten gepleegd door of tegen personen die met de hoogste verantwoordelijkheden zijn bekleed, Overwegende voorts dat inzake bevoegdheden en onderlinge samenwerking moet worden voorzien in passende regels, waaronder eventueel opheffing van immuniteit, onverminderd de juridische voorwaarden voor de concrete toepassing ervan, Overwegende tenslotte dat de relevante bepalingen van de Overeenkomst van 26 juli 1995 aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen toepasselijk moeten worden gemaakt op de in dit Protocol bedoelde strafbare feiten, Hebben overeenstemming bereikt omtrent de volgende bepalingen:*
 
 ##### Artikel 1. Definities
 
@@ -64,15 +21,15 @@ Voor de toepassing van dit Protocol bij de [Overeenkomst aangaande de beschermin
 
 - 1. Wanneer een Lid-Staat echter strafvervolging instelt tegen een ambtenaar van een andere Lid-Staat, behoeft deze de definitie van „nationaal ambtenaar” alleen toe te passen voor zover dat verenigbaar is met zijn nationale recht;
 
-- a. wordt onder „ambtenaar” verstaan, een „communautair” of een „nationaal” ambtenaar, met inbegrip van elke nationale ambtenaar van een andere Lid-Staat;
+   - a. wordt onder „ambtenaar” verstaan, een „communautair” of een „nationaal” ambtenaar, met inbegrip van elke nationale ambtenaar van een andere Lid-Staat;
 
-- b. wordt onder „communautair ambtenaar” verstaan: Met ambtenaren van de Europese Gemeenschappen worden gelijkgesteld de leden van de organen die overeenkomstig de Verdragen tot oprichting van de Europese Gemeenschappen in het leven zijn geroepen, alsook de personeelsleden van deze organen, voor zover het Statuut van de ambtenaren van de Europese Gemeenschappen of de regeling welke van toepassing is op de andere personeelsleden van de Europese Gemeenschappen niet voor hen geldt;
+   - b. wordt onder „communautair ambtenaar” verstaan: Met ambtenaren van de Europese Gemeenschappen worden gelijkgesteld de leden van de organen die overeenkomstig de Verdragen tot oprichting van de Europese Gemeenschappen in het leven zijn geroepen, alsook de personeelsleden van deze organen, voor zover het Statuut van de ambtenaren van de Europese Gemeenschappen of de regeling welke van toepassing is op de andere personeelsleden van de Europese Gemeenschappen niet voor hen geldt;
 
-- –. eenieder die bij overeenkomst is aangesteld in de hoedanigheid van ambtenaar of ander personeelslid in de zin van het Statuut van de ambtenaren van de Europese Gemeenschappen of van de regeling welke van toepassing is op de andere personeelsleden van de Europese Gemeenschappen;
+      - – eenieder die bij overeenkomst is aangesteld in de hoedanigheid van ambtenaar of ander personeelslid in de zin van het Statuut van de ambtenaren van de Europese Gemeenschappen of van de regeling welke van toepassing is op de andere personeelsleden van de Europese Gemeenschappen;
 
-- –. eenieder die door de Lid-Staten of door een overheids- of particuliere instelling ter beschikking van de Europese Gemeenschappen is gesteld om daar functies uit te oefenen die overeenstemmen met de functies die worden uitgeoefend door ambtenaren of andere personeelsleden van de Europese Gemeenschappen;
+      - – eenieder die door de Lid-Staten of door een overheids- of particuliere instelling ter beschikking van de Europese Gemeenschappen is gesteld om daar functies uit te oefenen die overeenstemmen met de functies die worden uitgeoefend door ambtenaren of andere personeelsleden van de Europese Gemeenschappen;
 
-- c. wordt de term „nationaal ambtenaar” uitgelegd overeenkomstig de definitie van „ambtenaar” of „overheidspersoon” in de zin van het nationale recht van de Lid-Staat waar de betrokkene die hoedanigheid heeft voor de toepassing van het strafrecht van die Lid-Staat.
+   - c. wordt de term „nationaal ambtenaar” uitgelegd overeenkomstig de definitie van „ambtenaar” of „overheidspersoon” in de zin van het nationale recht van de Lid-Staat waar de betrokkene die hoedanigheid heeft voor de toepassing van het strafrecht van die Lid-Staat.
 
 - 2. wordt onder „[Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001473)” verstaan: de Overeenkomst die op 26 juli 1995 is vastgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie, aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen.1)PBEG nr. C 316 van 27.11.1995, blz. 49.
 
@@ -98,7 +55,7 @@ Voor de toepassing van dit Protocol bij de [Overeenkomst aangaande de beschermin
 
 4. De vorige leden laten de in elke Lid-Staat van toepassing zijnde bepalingen inzake de strafrechtelijke procedure en de vaststelling van de bevoegde gerechten, onverlet.
 
-5. Dit Protocol is van toepassing onverminderd de bepalingen van de Verdragen tot oprichting van de Europese Gemeenschappen, van het [Protocol betreffende de voorrechten en immuniteiten van de Europese Gemeenschappen](onbekend), van de Statuten van het Hof van Justitie, en van de teksten ter uitvoering daarvan, betreffende de opheffing van de immuniteiten.
+5. Dit Protocol is van toepassing onverminderd de bepalingen van de Verdragen tot oprichting van de Europese Gemeenschappen, van het [Protocol betreffende de voorrechten en immuniteiten van de Europese Gemeenschappen](https://wetten.overheid.nl/BWBV0001507), van de Statuten van het Hof van Justitie, en van de teksten ter uitvoering daarvan, betreffende de opheffing van de immuniteiten.
 
 ##### Artikel 5. Sancties
 
@@ -126,11 +83,11 @@ Voor de toepassing van dit Protocol bij de [Overeenkomst aangaande de beschermin
 
 2. Op dit Protocol zijn tevens de volgende bepalingen van de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001473) van toepassing:
 
-- –. [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001473&artikel=7), met dien verstande dat verklaringen in de zin van artikel 7, lid 2, van de Overeenkomst ook voor dit Protocol gelden, tenzij bij de in artikel 9, lid 2, bedoelde kennisgeving anders wordt bepaald,
+- – [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001473&artikel=7), met dien verstande dat verklaringen in de zin van artikel 7, lid 2, van de Overeenkomst ook voor dit Protocol gelden, tenzij bij de in artikel 9, lid 2, bedoelde kennisgeving anders wordt bepaald,
 
-- –. [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001473&artikel=9),
+- – [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001473&artikel=9),
 
-- –. [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001473&artikel=10).
+- – [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001473&artikel=10).
 
 ##### Artikel 8. Hof van Justitie
 

@@ -1,56 +1,19 @@
 ---
 title: "Overeenkomst, opgesteld op grond van Artikel K.3 van het Verdrag betreffende de Europese Unie, aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen"
 identifier: "BWBV0001473"
-country: "nl"
-rank: "verdrag"
-publication_date: "2002-10-17"
-last_updated: "2002-10-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001473"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000425943"
-version_id: "10000434022"
-internal_id: "C10006988041"
-label_id: "10000426124"
-original_entry_into_force: "2002-10-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001473/2002-10-17/0"
-intitule_bron: "Trb.1995-289"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-02-16"
-intitule_published: "1995-12-21"
-intitule_in_force: "2002-10-09"
-intitule_status: "goed"
-original_publication: "Trb.1995-289"
-original_signed_date: "2001-02-16"
-original_published_date: "1995-12-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1995-289"
-entry_into_force_date: "2002-10-17"
-jci_1_3: "jci1.3:c:BWBV0001473&z=2002-10-17&g=2002-10-17"
-jci_1_0: "1.0:c:BWBV0001473&g=2002-10-17"
-citeertitel_status: "officieel"
-signed_date: "2001-02-16"
-entry_into_force: "2002-10-17"
+publicatiedatum: 2002-10-17
+laatste_update: 2002-10-17
+status: geldig
+toestand: 2002-10-17
+bron: "https://wetten.overheid.nl/BWBV0001473"
+opgehaald: 2026-09-11
 ---
+
 # Overeenkomst, opgesteld op grond van Artikel K.3 van het Verdrag betreffende de Europese Unie, aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen
 
-De Hoge Verdragsluitende Partijen bij deze Overeenkomst, de Lid-Staten van de Europese Unie,
-
-Onder verwijzing naar de Akte van de Raad van de Europese Unie van 26 juli 1995,
-
-Wensend ervoor te zorgen dat hun strafwetgeving doeltreffend bijdraagt tot de bescherming van de financiële belangen van de Europese Gemeenschappen,
-
-Constaterend dat fraude met betrekking tot de ontvangsten en uitgaven van de Europese Gemeenschappen veelal het nationale kader overschrijdt en vaak wordt gepleegd door georganiseerde criminele groepen,
-
-Ervan overtuigd dat het voor de bescherming van de financiële belangen van de Europese Gemeenschappen noodzakelijk is dat frauduleuze gedragingen welke die belangen schaden, strafrechtelijk worden vervolgd en dat hiertoe een gemeenschappelijke definitie wordt vastgesteld,
-
-Ervan overtuigd dat deze gedragingen strafbaar moeten worden gesteld met doeltreffende, evenredige en afschrikkende strafrechtelijke sancties – onverminderd de mogelijkheid om in bepaalde gevallen andere sancties op te leggen – en dat, ten minste in ernstige gevallen, in vrijheidsstraffen moet worden voorzien die aanleiding kunnen geven tot uitlevering.
-
-Erkennend dat ondernemingen een belangrijke rol spelen op terreinen die door de Europese Gemeenschappen worden gefinancierd en dat personen die in een bedrijf over beslissingsbevoegdheid beschikken, in bepaalde omstandigheden niet mogen ontsnappen aan strafrechtelijke aansprakelijkheid,
-
-Vastbesloten om samen de fraude waardoor de financiële belangen van de Europese Gemeenschappen worden geschaad, te bestrijden, door verplichtingen op zich te nemen ten aanzien van hun rechtsmacht en op het gebied van uitlevering en wederzijdse strafrechtelijke samenwerking,
-
-Hebben overeenstemming bereikt omtrent de volgende bepalingen:
+*De Hoge Verdragsluitende Partijen bij deze Overeenkomst, de Lid-Staten van de Europese Unie, Onder verwijzing naar de Akte van de Raad van de Europese Unie van 26 juli 1995, Wensend ervoor te zorgen dat hun strafwetgeving doeltreffend bijdraagt tot de bescherming van de financiële belangen van de Europese Gemeenschappen, Constaterend dat fraude met betrekking tot de ontvangsten en uitgaven van de Europese Gemeenschappen veelal het nationale kader overschrijdt en vaak wordt gepleegd door georganiseerde criminele groepen, Ervan overtuigd dat het voor de bescherming van de financiële belangen van de Europese Gemeenschappen noodzakelijk is dat frauduleuze gedragingen welke die belangen schaden, strafrechtelijk worden vervolgd en dat hiertoe een gemeenschappelijke definitie wordt vastgesteld, Ervan overtuigd dat deze gedragingen strafbaar moeten worden gesteld met doeltreffende, evenredige en afschrikkende strafrechtelijke sancties – onverminderd de mogelijkheid om in bepaalde gevallen andere sancties op te leggen – en dat, ten minste in ernstige gevallen, in vrijheidsstraffen moet worden voorzien die aanleiding kunnen geven tot uitlevering. Erkennend dat ondernemingen een belangrijke rol spelen op terreinen die door de Europese Gemeenschappen worden gefinancierd en dat personen die in een bedrijf over beslissingsbevoegdheid beschikken, in bepaalde omstandigheden niet mogen ontsnappen aan strafrechtelijke aansprakelijkheid, Vastbesloten om samen de fraude waardoor de financiële belangen van de Europese Gemeenschappen worden geschaad, te bestrijden, door verplichtingen op zich te nemen ten aanzien van hun rechtsmacht en op het gebied van uitlevering en wederzijdse strafrechtelijke samenwerking, Hebben overeenstemming bereikt omtrent de volgende bepalingen:*
 
 ##### Artikel 1. Algemene bepalingen
 
@@ -58,19 +21,19 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
 - a. wat de uitgaven betreft, elke opzettelijke handeling of elk opzettelijk nalaten waarbij:
 
-- –. valse, onjuiste of onvolledige verklaringen of documenten worden gebruikt of overgelegd, met als gevolg dat middelen afkomstig van de algemene begroting van de Europese Gemeenschappen of van de door of voor de Europese Gemeenschappen beheerde begrotingen, wederrechtelijk worden ontvangen of achtergehouden;
+   - – valse, onjuiste of onvolledige verklaringen of documenten worden gebruikt of overgelegd, met als gevolg dat middelen afkomstig van de algemene begroting van de Europese Gemeenschappen of van de door of voor de Europese Gemeenschappen beheerde begrotingen, wederrechtelijk worden ontvangen of achtergehouden;
 
-- –. met hetzelfde gevolg, in strijd met een specifieke verplichting informatie wordt achtergehouden;
+   - – met hetzelfde gevolg, in strijd met een specifieke verplichting informatie wordt achtergehouden;
 
-- –. deze middelen worden misbruikt door ze voor andere doelen aan te wenden dan die waarvoor zij oorspronkelijk zijn toegekend;
+   - – deze middelen worden misbruikt door ze voor andere doelen aan te wenden dan die waarvoor zij oorspronkelijk zijn toegekend;
 
 - b. wat de ontvangsten betreft, elke opzettelijke handeling of elk opzettelijk nalaten waarbij:
 
-- –. valse, onjuiste of onvolledige verklaringen of documenten worden gebruikt of overgelegd, met als gevolg dat de middelen van de algemene begroting van de Europese Gemeenschappen of van de door of voor de Europese Gemeenschappen beheerde begrotingen wederrechtelijk worden verminderd;
+   - – valse, onjuiste of onvolledige verklaringen of documenten worden gebruikt of overgelegd, met als gevolg dat de middelen van de algemene begroting van de Europese Gemeenschappen of van de door of voor de Europese Gemeenschappen beheerde begrotingen wederrechtelijk worden verminderd;
 
-- –. met hetzelfde gevolg, in strijd met een specifieke verplichting informatie wordt achtergehouden;
+   - – met hetzelfde gevolg, in strijd met een specifieke verplichting informatie wordt achtergehouden;
 
-- –. met hetzelfde gevolg, van een rechtmatig verkregen voordeel misbruik wordt gemaakt.
+   - – met hetzelfde gevolg, van een rechtmatig verkregen voordeel misbruik wordt gemaakt.
 
 2. Onder voorbehoud van artikel 2, lid 2, neemt elke Lid-Staat de nodige en passende maatregelen om het bepaalde in lid 1 in nationaal strafrecht om te zetten, zodat de daarin bedoelde gedragingen als strafbare feiten worden aangemerkt.
 
@@ -94,11 +57,11 @@ Elke Lid-Staat treft de nodige maatregelen opdat ondernemingshoofden of personen
 
 1. Elke Lid-Staat neemt de nodige maatregelen om zijn rechtsmacht te vestigen ten aanzien van de overeenkomstig de artikelen 1 en 2, lid 1, strafbaar gestelde feiten waarbij
 
-- –. de fraude, deelneming aan, of poging tot fraude waardoor de financiële belangen van de Europese Gemeenschappen worden geschaad, geheel of gedeeltelijk op zijn grondgebied is begaan of waarbij het voordeel uit de fraude op zijn grondgebied is verkregen;
+- – de fraude, deelneming aan, of poging tot fraude waardoor de financiële belangen van de Europese Gemeenschappen worden geschaad, geheel of gedeeltelijk op zijn grondgebied is begaan of waarbij het voordeel uit de fraude op zijn grondgebied is verkregen;
 
-- –. een persoon op zijn grondgebied opzettelijk deelneemt aan of aanzet tot het begaan van dergelijke fraude op het grondgebied van een andere Staat;
+- – een persoon op zijn grondgebied opzettelijk deelneemt aan of aanzet tot het begaan van dergelijke fraude op het grondgebied van een andere Staat;
 
-- –. de dader een eigen onderdaan is, met dien verstande dat zijn nationale recht kan bepalen dat de gedraging ook strafbaar moet zijn in de Lid-Staat waar de feiten zijn begaan.
+- – de dader een eigen onderdaan is, met dien verstande dat zijn nationale recht kan bepalen dat de gedraging ook strafbaar moet zijn in de Lid-Staat waar de feiten zijn begaan.
 
 2. Elke Lid-Staat kan bij de kennisgeving als bedoeld in artikel 11, lid 2, verklaren dat hij de bepaling van lid 1, derde streepje, van het onderhavige artikel niet toepast.
 

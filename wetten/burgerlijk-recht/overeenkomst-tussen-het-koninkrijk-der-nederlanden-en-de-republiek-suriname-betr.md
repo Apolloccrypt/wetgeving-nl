@@ -1,49 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname betreffende de wederzijdse erkenning en de tenuitvoerlegging van rechterlijke beslissingen en authentieke akten in burgerlijke zaken"
 identifier: "BWBV0001018"
-country: "nl"
-rank: "verdrag"
-publication_date: "1979-01-10"
-last_updated: "1979-01-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001018"
+categorie: "Burgerlijk recht"
 soort: "verdrag"
-stam_id: "10002496023"
-version_id: "10002489242"
-internal_id: "C10008421171"
-label_id: "10002485604"
-dtd_version: "2.0"
-original_entry_into_force: "1979-01-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001018/1979-01-10/0"
-intitule_bron: "Trb.1976-144"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1979-01-10"
-intitule_published: "1976-09-29"
-intitule_in_force: "1979-01-26"
-intitule_status: "goed"
-original_publication: "Trb.1976-144"
-original_signed_date: "1979-01-10"
-original_published_date: "1976-09-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1976-144"
-entry_into_force_date: "1979-01-10"
-jci_1_3: "jci1.3:c:BWBV0001018&z=1979-01-10&g=1979-01-10"
-jci_1_0: "1.0:c:BWBV0001018&g=1979-01-10"
-citeertitel_status: "redactioneel"
-signed_date: "1979-01-10"
-entry_into_force: "1979-01-10"
+publicatiedatum: 1979-01-10
+laatste_update: 1979-01-10
+status: geldig
+toestand: 1979-01-10
+bron: "https://wetten.overheid.nl/BWBV0001018"
+opgehaald: 2026-09-11
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname betreffende de wederzijdse erkenning en de tenuitvoerlegging van rechterlijke beslissingen en authentieke akten in burgerlijke zaken
 
-De Regering van het Koninkrijk der Nederlanden,
-
-en
-
-de Regering van de Republiek Suriname,
-
-Overwegende, dat het in verband met de volledige onafhankelijkwording van Suriname wenselijk is voorzieningen te treffen om de wederzijdse erkenning en tenuitvoerlegging van rechterlijke beslissingen en authentieke akten in burgerlijke zaken mogelijk te doen blijven;
-
-Zijn overeengekomen als volgt:
+*De Regering van het Koninkrijk der Nederlanden, en de Regering van de Republiek Suriname, Overwegende, dat het in verband met de volledige onafhankelijkwording van Suriname wenselijk is voorzieningen te treffen om de wederzijdse erkenning en tenuitvoerlegging van rechterlijke beslissingen en authentieke akten in burgerlijke zaken mogelijk te doen blijven; Zijn overeengekomen als volgt:*
 
 ### HOOFDSTUK I. Toepassingsgebied van de Overeenkomst
 

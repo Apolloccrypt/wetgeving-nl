@@ -1,52 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Volksrepubliek Bangladesh inzake bevordering en wederzijdse bescherming van investeringen"
 identifier: "BWBV0001207"
-country: "nl"
-rank: "verdrag"
-publication_date: "1996-06-01"
-last_updated: "1996-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001207"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000228273"
-version_id: "10000236292"
-internal_id: "C10006986081"
-label_id: "10000228474"
-original_entry_into_force: "1996-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001207/1996-06-01/0"
-intitule_bron: "Trb.1995-10"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-12-13"
-intitule_published: "1995-01-18"
-intitule_in_force: "1996-05-29"
-intitule_status: "goed"
-original_publication: "Trb.1995-10"
-original_signed_date: "1995-12-13"
-original_published_date: "1995-01-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1995-10"
-entry_into_force_date: "1996-06-01"
-jci_1_3: "jci1.3:c:BWBV0001207&z=1996-06-01&g=1996-06-01"
-jci_1_0: "1.0:c:BWBV0001207&g=1996-06-01"
-citeertitel_status: "officieel"
-signed_date: "1995-12-13"
-entry_into_force: "1996-06-01"
+publicatiedatum: 1996-06-01
+laatste_update: 1996-06-01
+status: geldig
+toestand: 1996-06-01
+bron: "https://wetten.overheid.nl/BWBV0001207"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Volksrepubliek Bangladesh inzake bevordering en wederzijdse bescherming van investeringen
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-De Regering van de Volksrepubliek Bangladesh,
-
-hierna te noemen de Verdragsluitende Partijen,
-
-Geleid door de wens de van oudsher bestaande vriendschapsbanden tussen hun landen te versterken, de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door de onderdanen van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij betreft,
-
-In het besef dat overeenstemming omtrent de aan deze investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en De Regering van de Volksrepubliek Bangladesh, hierna te noemen de Verdragsluitende Partijen, Geleid door de wens de van oudsher bestaande vriendschapsbanden tussen hun landen te versterken, de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door de onderdanen van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij betreft, In het besef dat overeenstemming omtrent de aan deze investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -54,23 +21,23 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - a. “investeringen": alle soorten vermogensbestanddelen en in het bijzonder, doch niet uitsluitend:
 
-- i. roerende en onroerende zaken, alsmede alle andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
+   - i. roerende en onroerende zaken, alsmede alle andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
 
-- ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en gezamenlijke ondernemingen;
+   - ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en gezamenlijke ondernemingen;
 
-- iii. recht op geld, op andere vermogensbestanddelen of op elke prestatie die economische waarde heeft;
+   - iii. recht op geld, op andere vermogensbestanddelen of op elke prestatie die economische waarde heeft;
 
-- iv. rechten op het gebied van de intellectuele eigendom, rechten betreffende technische werkwijzen, goodwill en know-how;
+   - iv. rechten op het gebied van de intellectuele eigendom, rechten betreffende technische werkwijzen, goodwill en know-how;
 
-- v. rechten verleend krachtens het publiekrecht, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen.
+   - v. rechten verleend krachtens het publiekrecht, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen.
 
 - b. “onderdanen" met betrekking tot elk van beide Verdragsluitende Partijen:
 
-- i. natuurlijke personen die de nationaliteit van die Verdragsluitende Partij hebben in overeenstemming met haar recht;
+   - i. natuurlijke personen die de nationaliteit van die Verdragsluitende Partij hebben in overeenstemming met haar recht;
 
-- ii. onverminderd het bepaalde in iii hieronder, rechtspersonen die zijn opgericht overeenkomstig het recht van die Verdragsluitende Partij;
+   - ii. onverminderd het bepaalde in iii hieronder, rechtspersonen die zijn opgericht overeenkomstig het recht van die Verdragsluitende Partij;
 
-- iii. rechtspersonen, waar ook gevestigd, die, al dan niet rechtstreeks, onder toezicht staan van onderdanen van die Verdragsluitende Partij.
+   - iii. rechtspersonen, waar ook gevestigd, die, al dan niet rechtstreeks, onder toezicht staan van onderdanen van die Verdragsluitende Partij.
 
 - c. “grondgebied": de zeegebieden grenzend aan de kust van de betrokken Staat, voor zover die Staat overeenkomstig het internationale recht soevereine rechten of rechtsmacht in deze gebieden uitoefent.
 
@@ -172,10 +139,10 @@ TEN BLIJKE WAARVAN de ondertekenende vertegenwoordigers, daartoe naar behoren ge
 
 GEDAAN te Dhaka op 1 november 1994 in tweevoud in de Nederlandse, de Bengalese en de Engelse taal, zijnde de drie teksten gelijkelijk authentiek. In geval van verschil in uitlegging is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) R. A. VORNIS
 
-**Voor de Regering van de Volksrepubliek Bangladesh**
+*Voor de Regering van de Volksrepubliek Bangladesh*
 
 (w.g.) HASNAT ABDUL HYE

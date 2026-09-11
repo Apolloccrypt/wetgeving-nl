@@ -1,53 +1,19 @@
 ---
 title: "Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Macedonische Regering inzake luchtdiensten tussen en via hun respectieve grondgebieden"
 identifier: "BWBV0001281"
-country: "nl"
-rank: "verdrag"
-publication_date: "1997-11-01"
-last_updated: "1997-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001281"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10001409323"
-version_id: "10001478892"
-internal_id: "C10006988791"
-label_id: "10001409654"
-dtd_version: "2.0"
-original_entry_into_force: "1997-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001281/1997-11-01/0"
-intitule_bron: "Trb.1997-52"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-03-08"
-intitule_published: "1997-02-28"
-intitule_in_force: "1997-10-03"
-intitule_status: "goed"
-original_publication: "Trb.1997-52"
-original_signed_date: "1997-03-08"
-original_published_date: "1997-02-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1997-52"
-entry_into_force_date: "1997-11-01"
-jci_1_3: "jci1.3:c:BWBV0001281&z=1997-11-01&g=1997-11-01"
-jci_1_0: "1.0:c:BWBV0001281&g=1997-11-01"
-citeertitel_status: "redactioneel"
-signed_date: "1997-03-08"
-entry_into_force: "1997-11-01"
+publicatiedatum: 1997-11-01
+laatste_update: 1997-11-01
+status: geldig
+toestand: 1997-11-01
+bron: "https://wetten.overheid.nl/BWBV0001281"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Macedonische Regering inzake luchtdiensten tussen en via hun respectieve grondgebieden
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Macedonische Regering, waarvan de Staten hierna de Verdragsluitende Partijen worden genoemd,
-
-Partij zijnde bij het Verdrag inzake de internationale burgerluchtvaart, op 7 december 1944 te Chicago voor ondertekening opengesteld,
-
-Geleid door de wens bij te dragen aan de vooruitgang van de internationale burgerluchtvaart,
-
-Geleid door de wens een verdrag te sluiten met het doel luchtdiensten tussen en via hun respectieve grondgebieden in te stellen,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Macedonische Regering, waarvan de Staten hierna de Verdragsluitende Partijen worden genoemd, Partij zijnde bij het Verdrag inzake de internationale burgerluchtvaart, op 7 december 1944 te Chicago voor ondertekening opengesteld, Geleid door de wens bij te dragen aan de vooruitgang van de internationale burgerluchtvaart, Geleid door de wens een verdrag te sluiten met het doel luchtdiensten tussen en via hun respectieve grondgebieden in te stellen, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -71,9 +37,9 @@ Tenzij het zinsverband anders vereist, hebben in dit Verdrag en de Bijlage daarb
 
 - i. onder „tarief" wordt verstaan: elk bedrag dat door de luchtvaartmaatschappijen, rechtstreeks of via hun agenten, in rekening wordt gebracht of zal worden gebracht aan alle natuurlijke personen of rechtspersonen voor het vervoer van passagiers (en hun bagage) en vracht (post uitgezonderd), daarbij inbegrepen:
 
-- I. de voorwaarden betreffende het beschikbaar zijn en het van toepassing zijn van een tarief, en
+   - I. de voorwaarden betreffende het beschikbaar zijn en het van toepassing zijn van een tarief, en
 
-- II. de heffingen en voorwaarden voor alle bij zulk vervoer bijkomende diensten die door de luchtvaartmaatschappijen worden aangeboden;
+   - II. de heffingen en voorwaarden voor alle bij zulk vervoer bijkomende diensten die door de luchtvaartmaatschappijen worden aangeboden;
 
 - j. onder „verandering van luchtvaartuig" wordt verstaan: de exploitatie van een van de overeengekomen diensten door een aangewezen luchtvaartmaatschappij op zodanige wijze dat op een of meer delen van de route wordt gevlogen met luchtvaartuigen met een andere capaciteit dan die welke op een ander deel worden gebruikt;
 
@@ -319,10 +285,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun 
 
 GEDAAN te Skopje op 6 februari 1997, in de Nederlandse, de Macedonische en de Engelse taal. In geval van verschillen tussen de teksten is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) H. HEIJNEN
 
-**Voor de Macedonische Regering**
+*Voor de Macedonische Regering*
 
 (w.g.) D. BUZLEVSKI

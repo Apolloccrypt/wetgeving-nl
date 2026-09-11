@@ -1,18 +1,18 @@
 ---
-title: "Beleidsregel uitgifte rechten schelpdieren"
+title: "Beleidsregel van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 29 juni 2026, nr. WJZ/22549150, houdende regels die zien op het verlenen van rechten voor het vissen en kweken van schelpdieren (Beleidsregel uitgifte rechten schelpdieren) [KetenID WGK26249]"
+citeertitel: "Beleidsregel uitgifte rechten schelpdieren"
 identifier: "BWBR0052843"
-categorie: "Overig"
+categorie: "Milieu"
+soort: "beleidsregel"
 publicatiedatum: 2026-07-16
-laatste_update: 2026-07-21
+laatste_update: 2026-07-16
 status: geldig
+toestand: 2026-07-16
 bron: "https://wetten.overheid.nl/BWBR0052843"
+opgehaald: 2026-09-11
 ---
 
 # Beleidsregel van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 29 juni 2026, nr. WJZ/22549150, houdende regels die zien op het verlenen van rechten voor het vissen en kweken van schelpdieren (Beleidsregel uitgifte rechten schelpdieren) [KetenID WGK26249]
-
-Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), de [artikelen 7, eerste lid en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=7), en [21, eerste en tweede lid, onderdeel a, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=21), [11 van het Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=11), [6d, eerste lid, van het Reglement zee- en kustvisserij 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003144&artikel=6d) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=36), [77a](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=77a) en [77b van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=77b);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -22,7 +22,7 @@ Besluit:
 
 2. Deze beleidsregel is van toepassing op het verlenen van schriftelijke toestemming, ontheffing, vrijstelling, vergunning en het afsluiten van een huurovereenkomst, voor het vissen op schelpdieren als bedoeld in [Bijlage 1 bij de Uitvoeringsregeling Visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&bijlage=1) in de visserijzone of de kustwateren, bedoeld in [artikel 1, vierde lid, onderdeel a, respectievelijk onderdeel c, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=1), of in het Grevelingen- en Veerse meer.
 
-3. Deze beleidsregel is niet van toepassing op de rechten, bedoeld in het tweede lid, die verleend zijn voor 26 oktober 2023 en op het verlengen van deze rechten.
+3. Deze beleidsregel is niet van toepassing op de rechten, bedoeld in het tweede lid, die verleend zijn voor 26 oktober 2023 en op het verlengen van deze rechten.
 
 #### § 2. Verlenen rechten voor nieuwe activiteiten
 
@@ -54,11 +54,11 @@ Besluit:
 
 - g. de rechten, genoemd in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052843&paragraaf=1&artikel=1&z=2026-07-16&g=2026-07-16), voor:
 
-  - i. visserijactiviteiten in de Waddenzee;
+   - i. visserijactiviteiten in de Waddenzee;
 
-  - ii. het vissen op kokkels, strandschelpen, zwaardscheden en mesheften; en
+   - ii. het vissen op kokkels, strandschelpen, zwaardscheden en mesheften; en
 
-  - iii. visserijactiviteiten in het Grevelingen- of Veerse meer.
+   - iii. visserijactiviteiten in het Grevelingen- of Veerse meer.
 
 5. De Minister verleent alleen een schriftelijke toestemming als bedoeld in de [artikelen 7, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=7), en [21, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=21), en verhuurt alleen een visrecht als bedoeld in [paragraaf 5 van hoofdstuk V van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&paragraaf=5), voor het vissen op schelpdieren, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052843&paragraaf=1&artikel=1&z=2026-07-16&g=2026-07-16), waarvoor een vergunning, vrijstelling of ontheffing nodig is, indien hij op grond van deze beleidsregel voor deze activiteit een vergunning, vrijstelling of ontheffing verleent.
 
@@ -72,15 +72,15 @@ Besluit:
 
 - c. de visserijactiviteit niet plaatsvindt in een gebied waar:
 
-  - •. scheepvaartroutes liggen;
+   - • scheepvaartroutes liggen;
 
-  - •. vaargeulbeheer plaatsvindt;
+   - • vaargeulbeheer plaatsvindt;
 
-  - •. zandsuppleties zijn gepland;
+   - • zandsuppleties zijn gepland;
 
-  - •. kabels en leidingen liggen; of
+   - • kabels en leidingen liggen; of
 
-  - •. oefenterreinen van het Ministerie van Defensie liggen.
+   - • oefenterreinen van het Ministerie van Defensie liggen.
 
 - d. de effecten op de natuur en nabijgelegen locaties en, indien de activiteit een vervolg is op een experiment, de uitkomsten van het experiment in een monitoringsplan in kaart zijn gebracht; en
 
@@ -92,7 +92,7 @@ Besluit:
 
 - b. de sociaaleconomische positie van deze sector.
 
-3. De Minister beslist voor 1 maart op een aanvraag die is ingediend voor het einde van het vorige jaar en voor 1 september op een aanvraag die is ingediend voor 1 juli van het desbetreffende jaar.
+3. De Minister beslist voor 1 maart op een aanvraag die is ingediend voor het einde van het vorige jaar en voor 1 september op een aanvraag die is ingediend voor 1 juli van het desbetreffende jaar.
 
 4. Naar gelang er fysieke en ecologische ruimte is, worden de rechten, bedoeld in het eerste lid, als volgt verleend:
 
@@ -132,15 +132,15 @@ Besluit:
 
 - f. het experiment vindt niet plaats in een gebied waar:
 
-  - •. scheepvaartroutes liggen;
+   - • scheepvaartroutes liggen;
 
-  - •. vaargeulbeheer plaatsvindt;
+   - • vaargeulbeheer plaatsvindt;
 
-  - •. zandsuppleties zijn gepland;
+   - • zandsuppleties zijn gepland;
 
-  - •. kabels en leidingen liggen; of
+   - • kabels en leidingen liggen; of
 
-  - •. oefenterreinen van het Ministerie van Defensie liggen.
+   - • oefenterreinen van het Ministerie van Defensie liggen.
 
 2. [Artikel 3, tweede tot en met vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052843&paragraaf=2&artikel=3&z=2026-07-16&g=2026-07-16), zijn van overeenkomstige toepassing. In aanvulling hierop betrekt de Minister bij de beoordeling van de wenselijkheid van de voorgenomen visserijactiviteit, bedoeld in artikel 3, tweede lid, het belang van de betreffende sector bij het experiment.
 
@@ -206,11 +206,11 @@ Besluit:
 
 ##### Artikel 7. Intrekking
 
-De beleidsregel Duurzame eiwitten uit Nederlandse schelpdieren (Kamerstukken II 2023/24, 29 675, nr. 225) wordt ingetrokken.
+De beleidsregel Duurzame eiwitten uit Nederlandse schelpdieren (Kamerstukken II 2023/24, 29 675, nr. 225) wordt ingetrokken.
 
 ##### Artikel 8. Inwerkingtreding
 
-Deze beleidsregel treedt in werking met ingang van 1 juli 2026. Indien de Staatscourant waarin deze beleidsregel wordt geplaatst, wordt uitgegeven na 1 juli 2026 treedt hij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst, en werkt hij terug tot en met 1 juli 2026.
+Deze beleidsregel treedt in werking met ingang van 1 juli 2026. Indien de Staatscourant waarin deze beleidsregel wordt geplaatst, wordt uitgegeven na 1 juli 2026 treedt hij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst, en werkt hij terug tot en met 1 juli 2026.
 
 ##### Artikel 9. Citeertitel
 

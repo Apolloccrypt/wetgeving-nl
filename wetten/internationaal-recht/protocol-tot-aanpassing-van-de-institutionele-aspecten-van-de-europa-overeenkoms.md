@@ -1,88 +1,18 @@
 ---
 title: "Protocol tot aanpassing van de institutionele aspecten van de Europa-Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en Roemenië, anderzijds, teneinde rekening te houden met de toetreding van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot de Europese Unie"
 identifier: "BWBV0001412"
-country: "nl"
-rank: "verdrag"
-publication_date: "1999-06-28"
-last_updated: "1999-06-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001412"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002003293"
-version_id: "10002091362"
-internal_id: "C10006992281"
-label_id: "10002003394"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001412/1999-06-28/0"
-intitule_bron: "Trb.1999-159"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-10-14"
-intitule_published: "1999-08-23"
-intitule_status: "nogniet"
-original_publication: "Trb.1999-159"
-original_signed_date: "1999-10-14"
-original_published_date: "1999-08-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1999-159"
-jci_1_3: "jci1.3:c:BWBV0001412&z=1999-06-28&g=1999-06-28"
-jci_1_0: "1.0:c:BWBV0001412&g=1999-06-28"
-citeertitel_status: "redactioneel"
-signed_date: "1999-10-14"
-entry_into_force: "1999-08-23"
+laatste_update: 1999-06-28
+status: geldig
+toestand: 1999-06-28
+bron: "https://wetten.overheid.nl/BWBV0001412"
+opgehaald: 2026-09-11
 ---
+
 # Protocol tot aanpassing van de institutionele aspecten van de Europa-Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en Roemenië, anderzijds, teneinde rekening te houden met de toetreding van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot de Europese Unie
 
-Het Koninkrijk België,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-Ierland,
-
-de Italiaanse Republiek,
-
-het Groothertogdom Luxemburg,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Portugese Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland
-
-die partij zijn bij het Verdrag tot oprichting van de Europese Gemeenschap, het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie,
-
-hierna „de lidstaten" te noemen, en
-
-De Europese Gemeenschap, de Europese Gemeenschap voor Kolen en Staal en de Europese Gemeenschap voor Atoomenergie,
-
-hierna „de Gemeenschap" te noemen,
-
-enerzijds,
-
-en Roemenië
-
-anderzijds,
-
-Gelet op de Europa-overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en Roemenië, anderzijds, die op 1 februari 1993 te Brussel werd ondertekend en op 1 februari 1995 in werking is getreden, hierna „de Europa-overeenkomst" te noemen,
-
-Overwegende dat de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden op 1 januari 1995 lid zijn geworden van de Europese Unie,
-
-Besloten hebbende om in onderling overleg de in de Europa-overeenkomst aan te brengen aanpassingen van de institutionele aspecten vast te stellen, in verband met de toetreding van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden,
-
-Hebben overeenstemming bereikt omtrent de volgende bepalingen:
+*Het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland die partij zijn bij het Verdrag tot oprichting van de Europese Gemeenschap, het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie, hierna „de lidstaten" te noemen, en De Europese Gemeenschap, de Europese Gemeenschap voor Kolen en Staal en de Europese Gemeenschap voor Atoomenergie, hierna „de Gemeenschap" te noemen, enerzijds, en Roemenië anderzijds, Gelet op de Europa-overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en Roemenië, anderzijds, die op 1 februari 1993 te Brussel werd ondertekend en op 1 februari 1995 in werking is getreden, hierna „de Europa-overeenkomst" te noemen, Overwegende dat de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden op 1 januari 1995 lid zijn geworden van de Europese Unie, Besloten hebbende om in onderling overleg de in de Europa-overeenkomst aan te brengen aanpassingen van de institutionele aspecten vast te stellen, in verband met de toetreding van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden, Hebben overeenstemming bereikt omtrent de volgende bepalingen:*
 
 ##### Artikel 1
 

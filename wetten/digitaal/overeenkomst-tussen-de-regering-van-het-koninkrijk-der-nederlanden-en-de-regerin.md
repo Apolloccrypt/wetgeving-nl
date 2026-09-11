@@ -1,51 +1,19 @@
 ---
 title: "Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek inzake de uitwisseling van beschermde en gerubriceerde gegevens"
 identifier: "BWBV0001055"
-country: "nl"
-rank: "verdrag"
-publication_date: "1995-05-01"
-last_updated: "1995-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001055"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002373613"
-version_id: "10002378662"
-internal_id: "C10006976441"
-label_id: "10002363364"
-dtd_version: "2.0"
-original_entry_into_force: "1995-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001055/1995-05-01/0"
-intitule_bron: "Trb.1992-139"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-07-28"
-intitule_published: "1992-09-24"
-intitule_in_force: "1995-06-16"
-intitule_status: "goed"
-original_publication: "Trb.1992-139"
-original_signed_date: "1992-07-28"
-original_published_date: "1992-09-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1992-139"
-entry_into_force_date: "1995-05-01"
-jci_1_3: "jci1.3:c:BWBV0001055&z=1995-05-01&g=1995-05-01"
-jci_1_0: "1.0:c:BWBV0001055&g=1995-05-01"
-citeertitel_status: "redactioneel"
-signed_date: "1992-07-28"
-entry_into_force: "1995-05-01"
+publicatiedatum: 1995-05-01
+laatste_update: 1995-05-01
+status: geldig
+toestand: 1995-05-01
+bron: "https://wetten.overheid.nl/BWBV0001055"
+opgehaald: 2026-09-11
 ---
+
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek inzake de uitwisseling van beschermde en gerubriceerde gegevens
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van de Franse Republiek
-
-hierna te noemen „Partijen",
-
-geleid door de wens de beveiliging te verzekeren van beschermde en gerubriceerde gegevens die worden uitgewisseld of ontwikkeld in het kader van de onderlinge samenwerking, met name in het kader van de Overeenkomst inzake de samenwerking op het gebied van defensiematerieel, gesloten op 5 juni 1984 tussen de Minister van Defensie van het Koninkrijk der Nederlanden en de Minister van Defensie van de Franse Republiek, goedgekeurd bij notawisseling van 1 en 8 februari 1985,
-
-zijn de volgende bepalingen overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek hierna te noemen „Partijen", geleid door de wens de beveiliging te verzekeren van beschermde en gerubriceerde gegevens die worden uitgewisseld of ontwikkeld in het kader van de onderlinge samenwerking, met name in het kader van de Overeenkomst inzake de samenwerking op het gebied van defensiematerieel, gesloten op 5 juni 1984 tussen de Minister van Defensie van het Koninkrijk der Nederlanden en de Minister van Defensie van de Franse Republiek, goedgekeurd bij notawisseling van 1 en 8 februari 1985, zijn de volgende bepalingen overeengekomen:*
 
 ##### Artikel 1
 
@@ -69,9 +37,9 @@ Voor vertaalde of vermenigvuldigde beschermde of gerubriceerde gegevens gelden e
 
 Beschermde of gerubriceerde gegevens kunnen slechts worden bekendgemaakt aan personen die voldoen aan de volgende voorwaarden:
 
-- -. zij moeten daarvan kennisnemen uit hoofde van hun functie of betrekking;
+- - zij moeten daarvan kennisnemen uit hoofde van hun functie of betrekking;
 
-- -. zij hebben een verklaring van geen bezwaar ontvangen van de verantwoordelijke nationale autoriteit, overeenkomstig de procedures als beschreven in de nationale regelgeving van de Partij waaronder zij ressorteren.
+- - zij hebben een verklaring van geen bezwaar ontvangen van de verantwoordelijke nationale autoriteit, overeenkomstig de procedures als beschreven in de nationale regelgeving van de Partij waaronder zij ressorteren.
 
 Een bedrijf of instelling kan niet deelnemen aan voorbereidende studies of worden betrokken in de uitvoering van een overeenkomst, aanbesteding, contract of onderaannemingscontract, inhoudende omgang met of ontwikkeling van beschermde of gerubriceerde gegevens, indien het niet tevoren op het vereiste niveau bevoegd is verklaard door de bevoegde nationale autoriteit conform de nationale regelgeving. De bevoegdverklaring wordt slechts afgegeven na een onderzoek dat met name strekt tot vaststelling van de fysieke geschiktheid van het bedrijf of de instelling om de voorschriften terzake van de beveiliging van beschermde of gerubriceerde gegevens na te leven.
 
@@ -106,9 +74,9 @@ De autoriteiten verantwoordelijk voor de beveiliging in het kader van deze Overe
 | voor de Franse Republiek : en | de Premier Ministre, Secrétariat General de, la Défense Nationale |
 | --- | --- |
 | voor het Koninkrijk der Nederlanden: | de Minister van Binnenlandse Zaken, |
-| De autoriteiten bevoegd voor de toepassing van deze Overeenkomst zijn: |   |
+| De autoriteiten bevoegd voor de toepassing van deze Overeenkomst zijn: |  |
 | voor de Franse Republiek: | ieder der Ministers, conform zijn bevoegdheden |
-| een |   |
+| een |  |
 | voor het Koninkrijk der Nederlanden: | ieder der Ministers, conform zijn bevoegdheden. |
 
 ##### Artikel 11
@@ -141,10 +109,10 @@ TEN BLIJKE WAARVAN de vertegenwoordigers van beide Regeringen, daartoe naar beho
 
 GEDAAN in tweevoud, te Parijs op 28 juli 1992, elk in de Nederlandse en de Franse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor de Regering van het Koninkrijk der Nederlanden:**
+*Voor de Regering van het Koninkrijk der Nederlanden:*
 
 (w.g.) J. A. F. M. FÖRSTER
 
-**Voor de Regering van de Franse Republiek:**
+*Voor de Regering van de Franse Republiek:*
 
 (w.g.) Y. SILLARD

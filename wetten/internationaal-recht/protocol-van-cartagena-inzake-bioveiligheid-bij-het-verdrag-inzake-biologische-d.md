@@ -1,500 +1,455 @@
 ---
 title: "Protocol van Cartagena inzake bioveiligheid bij het Verdrag inzake biologische diversiteit"
 identifier: "BWBV0001513"
-country: "nl"
-rank: "verdrag"
-publication_date: "2003-09-11"
-last_updated: "2003-09-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001513"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000034143"
-version_id: "10000035582"
-internal_id: "C10006991151"
-label_id: "10000034664"
-original_entry_into_force: "2003-09-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001513/2003-09-11/0"
-intitule_bron: "Trb.2000-100"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-01-08"
-intitule_published: "2000-09-08"
-intitule_in_force: "2003-09-05"
-intitule_status: "goed"
-original_publication: "Trb.2001-170"
-original_signed_date: "2002-01-08"
-original_published_date: "2001-10-10"
-original_effect: "structuurwijziging"
-original_url_id: "trb-2001-170"
-entry_into_force_date: "2003-09-11"
-jci_1_3: "jci1.3:c:BWBV0001513&z=2003-09-11&g=2003-09-11"
-jci_1_0: "1.0:c:BWBV0001513&g=2003-09-11"
-citeertitel_status: "officieel"
-signed_date: "2002-01-08"
-entry_into_force: "2003-09-11"
+publicatiedatum: 2003-09-11
+laatste_update: 2003-09-11
+status: geldig
+toestand: 2003-09-11
+bron: "https://wetten.overheid.nl/BWBV0001513"
+opgehaald: 2026-09-11
 ---
+
 # Protocol van Cartagena inzake bioveiligheid bij het Verdrag inzake biologische diversiteit
 
-De Partijen bij dit Protocol,
+*The Parties to this Protocol, Being Parties to the Convention on Biological Diversity, hereinafter referred to as “the Convention”, Recalling Article 19, paragraphs 3 and 4, and Articles 8 (g) and 17 of the Convention, Recalling also decision II/5 of 17 November 1995 of the Conference of the Parties to the Convention to develop a Protocol on biosafety, specifically focusing on transboundary movement of any living modified organism resulting from modern biotechnology that may have adverse effect on the conservation and sustainable use of biological diversity, setting out for consideration, in particular, appropriate procedures for advance informed agreement, Reaffirming the precautionary approach contained in Principle 15 of the Rio Declaration on Environment and Development, Aware of the rapid expansion of modern biotechnology and the growing public concern over its potential adverse effects on biological diversity, taking also into account risks to human health, Recognizing that modern biotechnology has great potential for human well-being if developed and used with adequate safety measures for the environment and human health, Recognizing also the crucial importance to humankind of centres of origin and centres of genetic diversity, Taking into account the limited capabilities of many countries, particularly developing countries, to cope with the nature and scale of known and potential risks associated with living modified organisms, Recognizing that trade and environment agreements should be mutually supportive with a view to achieving sustainable development, Emphasizing that this Protocol shall not be interpreted as implying a change in the rights and obligations of a Party under any existing international agreements, Understanding that the above recital is not intended to subordinate this Protocol to other international agreements, Have agreed as follows:*
 
-Partijen bij het [Verdrag inzake biologische diversiteit](https://wetten.overheid.nl/jci1.3:c:BWBV0001136), hierna „het Verdrag” te noemen,
+##### Article 1. Objective
 
-Herinnerend aan [artikel 19, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=19), [artikel 8, onder g](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=8), en [artikel 17 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=17),
+In accordance with the precautionary approach contained in Principle 15 of the Rio Declaration on Environment and Development, the objective of this Protocol is to contribute to ensuring an adequate level of protection in the field of the safe transfer, handling and use of living modified organisms resulting from modern biotechnology that may have adverse effects on the conservation and sustainable use of biological diversity, taking also into account risks to human health, and specifically focusing on transboundary movements.
 
-Tevens herinnerend aan besluit II/5 van 17 november 1995 van de Conferentie van de Partijen bij het Verdrag betreffende de ontwikkeling van een Protocol inzake bioveiligheid, waarbij met name de nadruk ligt op de grensoverschrijdende verplaatsing van gemodificeerde levende organismen, voortgekomen uit de moderne biotechnologie, die nadelige gevolgen kunnen hebben voor het behoud en het duurzame gebruik van de biologische diversiteit en waarin met name wordt gestreefd naar passende procedures voor voorafgaande geïnformeerde instemming,
+##### Article 2. General provisions
 
-Opnieuw bevestigende de voorzorgbenadering die is opgenomen in Beginsel 15 van de Verklaring van Rio inzake milieu en ontwikkeling,
+1. Each Party shall take necessary and appropriate legal, administrative and other measures to implement its obligations under this Protocol.
 
-Zich bewust van de snelle expansie van de moderne biotechnologie en de toenemende bezorgdheid bij het publiek over de mogelijke schadelijke gevolgen daarvan voor de biologische diversiteit, mede rekening houdend met de risico's voor de gezondheid van de mens,
+2. The Parties shall ensure that the development, handling, transport, use, transfer and release of any living modified organisms are undertaken in a manner that prevents or reduces the risks to biological diversity, taking also into account risks to human health.
 
-Erkennende dat de moderne biotechnologie grote mogelijkheden voor het welzijn van de mens biedt, mits deze met afdoende veiligheidsmaatregelen voor het milieu en de gezondheid van de mens wordt ontwikkeld en gebruikt,
+3. Nothing in this Protocol shall affect in any way the sovereignty of States over their territorial sea established in accordance with international law, and the sovereign rights and the jurisdiction which States have in their exclusive economic zones and their continental shelves in accordance with international law, and the exercise by ships and aircraft of all States of navigational rights and freedoms as provided for in international law and as ref.ected in relevant international instruments.
 
-Tevens erkennende de cruciale betekenis voor de mensheid van centra van oorsprong en centra van genetische diversiteit,
+4. Nothing in this Protocol shall be interpreted as restricting the right of a Party to take action that is more protective of the conservation and sustainable use of biological diversity than that called for in this Protocol, provided that such action is consistent with the objective and the provisions of this Protocol and is in accordance with that Party's other obligations under international law.
 
-Rekening houdende met de beperkte mogelijkheden van veel landen, met name ontwikkelingslanden, om het hoofd te bieden aan de aard en de omvang van de bekende en potentiële risico's geassocieerd met gemodificeerde levende organismen,
+5. The Parties are encouraged to take into account, as appropriate, available expertise, instruments and work undertaken in international forums with competence in the area of risks to human health.
 
-Erkennende dat overeenkomsten inzake handel en milieu elkaar moeten ondersteunen teneinde tot een duurzame ontwikkeling te komen,
+##### Article 3. Use of terms
 
-Benadrukkende dat dit Protocol niet mag worden geïnterpreteerd als een verandering in de rechten en verplichtingen van een Partij krachtens bestaande internationale overeenkomsten,
+For the purposes of this Protocol:
 
-Overwegende dat deze preambule niet bedoeld is om dit Protocol ondergeschikt te maken aan andere internationale overeenkomsten,
+- a) “Conference of the Parties” means the Conference of the Parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001136);
 
-Zijn het volgende overeengekomen:
+- b) “Contained use” means any operation, undertaken within a facility, installation or other physical structure, which involves living modified organisms that are controlled by specific measures that effectively limit their contact with, and their impact on, the external environment;
 
-##### Artikel 1. Doel
+- c) “Export” means intentional transboundary movement from one Party to another Party;
 
-Overeenkomstig de voorzorgbenadering die is opgenomen in Beginsel 15 van de Verklaring van Rio inzake milieu en ontwikkeling heeft dit Protocol als doel bij te dragen tot een afdoend beschermingsniveau op het gebied van de veilige overdracht, de veilige behandeling en het veilige gebruik van gemodificeerde levende organismen, voortgekomen uit de moderne biotechnologie, die nadelige gevolgen kunnen hebben voor het behoud en het duurzame gebruik van de biologische diversiteit, waarbij ook rekening wordt gehouden met de risico's voor de gezondheid van de mens en specifiek de nadruk ligt op grensoverschrijdende verplaatsingen.
+- d) “Exporter” means any legal or natural person, under the jurisdiction of the Party of export, who arranges for a living modified organism to be exported;
 
-##### Artikel 2. Algemene bepalingen
+- e) “Import” means intentional transboundary movement into one Party from another Party;
 
-1. Elke Partij neemt de nodige en passende wettelijke, bestuursrechtelijke en andere maatregelen om aan haar verplichtingen krachtens dit Protocol te voldoen.
+- f) “Importer” means any legal or natural person, under the jurisdiction of the Party of import, who arranges for a living modified organism to be imported;
 
-2. De Partijen waarborgen dat de ontwikkeling, de behandeling, het vervoer, het gebruik, de overdracht en de introductie van gemodificeerde levende organismen op zodanige wijze gebeuren dat risico's voor de biologische diversiteit, mede rekening houdend met de risico's voor de gezondheid van de mens, worden voorkomen of beperkt.
+- g) “Living modified organism” means any living organism that possesses a novel combination of genetic material obtained through the use of modern biotechnology;
 
-3. Niets in dit Protocol doet op enigerlei wijze afbreuk aan de soevereiniteit van Staten over hun territoriale wateren, vastgesteld overeenkomstig het internationale recht, aan de soevereine rechten en de jurisdictie die de Staten overeenkomstig het internationale recht in hun exclusieve economische zone en op hun continentale plat hebben, of aan de uitoefening door schepen en luchtvaartuigen van alle Staten van het recht op en de vrijheid van navigatie, zoals bepaald in het internationale recht en neergelegd in de desbetreffende internationale instrumenten.
+- h) “Living organism” means any biological entity capable of transferring or replicating genetic material, including sterile organisms, viruses and viroids;
 
-4. Niets in dit Protocol wordt geïnterpreteerd als een beperking van het recht van een Partij om maatregelen te nemen die het behoud en het duurzame gebruik van de biologische diversiteit meer beschermen dan in dit Protocol wordt bepaald, mits deze maatregelen verenigbaar zijn met het doel en de bepalingen van dit Protocol en in overeenstemming zijn met andere verplichtingen van die Partij krachtens het internationale recht.
+- i) “Modern biotechnology” means the application of:
 
-5. De Partijen worden aangemoedigd waar mogelijk rekening te houden met de beschikbare deskundigheid, instrumenten en werkzaamheden in het kader van internationale organen met bevoegdheden op het gebied van risico's voor de gezondheid van de mens.
+   - a) In vitro nucleic acid techniques, including recombinant deoxyribonucleic acid (DNA) and direct injection of nucleic acid into cells or organelles, or
 
-##### Artikel 3. Gebruikte termen
+   - b) Fusion of cells beyond the taxonomic family, that overcome natural physiological reproductive or recombination barriers and that are not techniques used in traditional breeding and selection;
 
-Voor de toepassing van dit Protocol wordt verstaan onder:
+- j) “Regional economic integration organization” means an organization constituted by sovereign States of a given region, to which its member States have transferred competence in respect of matters governed by this Protocol and which has been duly authorized, in accordance with its internal procedures, to sign, ratify, accept, approve or accede to it;
 
-- a. „Conferentie van de Partijen”: de Conferentie van de Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136);
+- k) “Transboundary movement” means the movement of a living modified organism from one Party to another Party, save that for the purposes of [Articles 17](https://wetten.overheid.nl/BWBV0001513) and [24](https://wetten.overheid.nl/BWBV0001513) transboundary movement extends to movement between Parties and non-Parties.
 
-- b. „ingeperkt gebruik”: elke activiteit, uitgevoerd binnen een inrichting, een installatie of een andere fysieke constructie, waarbij gemodificeerde levende organismen betrokken zijn die worden beheerst door specifieke maatregelen waardoor hun contact met en effecten op het buitenmilieu op effectieve wijze worden beperkt;
+##### Article 4. Scope
 
-- c. „uitvoer”: een doelbewuste grensoverschrijdende verplaatsing vanuit een Partij naar een andere Partij;
+This Protocol shall apply to the transboundary movement, transit, handling and use of all living modified organisms that may have adverse effects on the conservation and sustainable use of biological diversity, taking also into account risks to human health.
 
-- d. „uitvoerder”: een natuurlijke of rechtspersoon, onder jurisdictie van de Partij van uitvoer, die de uitvoer van een veranderd levend organisme regelt;
+##### Article 5. Pharmaceuticals
 
-- e. „invoer”: een doelbewuste grensoverschrijdende verplaatsing naar een Partij vanuit een andere Partij;
+Notwithstanding [Article 4](https://wetten.overheid.nl/BWBV0001513) and without prejudice to any right of a Party to subject all living modified organisms to risk assessment prior to the making of decisions on import, this Protocol shall not apply to the transboundary movement of living modified organisms which are pharmaceuticals for humans that are addressed by other relevant international agreements or organisations.
 
-- f. „invoerder”: een natuurlijke of rechtspersoon, onder de jurisdictie van de Partij van invoer, die de invoer van een veranderd levend organisme regelt;
+##### Article 6. Transit and contained use
 
-- g. „veranderd levend organisme”: een levend organisme dat een nieuwe combinatie van genetisch materiaal bezit, die is verkregen door het gebruik van moderne biotechnologie;
+1. Notwithstanding [Article 4](https://wetten.overheid.nl/BWBV0001513) and without prejudice to any right of a Party of transit to regulate the transport of living modified organisms through its territory and make available to the Biosafety Clearing-House, any decision of that Party, subject to [Article 2, paragraph 3](https://wetten.overheid.nl/BWBV0001513), regarding the transit through its territory of a specific living modified organism, the provisions of this Protocol with respect to the advance informed agreement procedure shall not apply to living modified organisms in transit.
 
-- h. „levend organisme”: een biologische entiteit die in staat is genetisch materiaal over te dragen of te repliceren, met inbegrip van steriele organismen, virussen en viroïden;
+2. Notwithstanding [Article 4](https://wetten.overheid.nl/BWBV0001513) and without prejudice to any right of a Party to subject all living modified organisms to risk assessment prior to decisions on import and to set standards for contained use within its jurisdiction, the provisions of this Protocol with respect to the advance informed agreement procedure shall not apply to the transboundary movement of living modified organisms destined for contained use undertaken in accordance with the standards of the Party of import.
 
-- i. „moderne biotechnologie”: de toepassing van:
+##### Article 7. Application of the advance informed agreement procedure
 
-- a. **in-vitro** technieken met nucleïnezuur, met inbegrip van recombinant deoxyribonucleïnezuur (DNA) en de directe injectie van nucleïnezuur in cellen of organellen, of
+1. Subject to [Articles 5](https://wetten.overheid.nl/BWBV0001513) and [6](https://wetten.overheid.nl/BWBV0001513), the advance informed agreement procedure in [Articles 8 to 10](https://wetten.overheid.nl/BWBV0001513) and [12](https://wetten.overheid.nl/BWBV0001513) shall apply prior to the first intentional transboundary movement of living modified organisms for intentional introduction into the environment of the Party of import.
 
-- b. fusie van cellen die niet tot dezelfde taxonomische familie behoren, waardoor natuurlijke fysiologische barrières voor reproductie of recombinatie worden overwonnen en die niet behoren tot de technieken die bij traditionele kweek en selectie worden gebruikt;
+2. “Intentional introduction into the environment” in paragraph 1 above, does not refer to living modified organisms intended for direct use as food or feed, or for processing.
 
-- j. „regionale organisatie voor economische integratie”: een door soevereine Staten in een bepaalde regio opgerichte organisatie, waaraan haar lidstaten bevoegdheden hebben overgedragen ten aanzien van de in dit Protocol geregelde aangelegenheden en die, in overeenstemming met haar interne procedures, naar behoren gemachtigd is dit Protocol te ondertekenen, te bekrachtigen, te aanvaarden, goed te keuren dan wel hiertoe toe te treden;
+3. [Article 11](https://wetten.overheid.nl/BWBV0001513) shall apply prior to the first transboundary movement of living modified organisms intended for direct use as food or feed, or for processing.
 
-- k. „grensoverschrijdende verplaatsing”: de verplaatsing van een veranderd levend organisme vanuit een Partij naar een andere Partij, met uitzondering van grensoverschrijdende verplaatsing in de zin van de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=17&z=2003-09-11&g=2003-09-11) en [24](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=24&z=2003-09-11&g=2003-09-11) waaronder tevens verplaatsingen tussen Partijen en Staten die geen Partij zijn vallen.
+4. The advance informed agreement procedure shall not apply to the intentional transboundary movement of living modified organisms identified in a decision of the Conference of the Parties serving as the meeting of the Parties to this Protocol as being not likely to have adverse effects on the conservation and sustainable use of biological diversity, taking also into account risks to human health.
 
-##### Artikel 4. Werkingssfeer
+##### Article 8. Notification
 
-Dit Protocol is van toepassing op de grensoverschrijdende verplaatsing, de doorvoer, de behandeling en het gebruik van alle gemodificeerde levende organismen die nadelige gevolgen kunnen hebben voor het behoud en het duurzame gebruik van de biologische diversiteit, waarbij ook rekening wordt gehouden met de risico's voor de gezondheid van de mens.
+1. The Party of export shall notify, or require the exporter to ensure notification to, in writing, the competent national authority of the Party of import prior to the intentional transboundary movement of a living modified organism that falls within the scope of [Article 7, paragraph 1](https://wetten.overheid.nl/BWBV0001513). The notification shall contain, at a minimum, the information specified in [Annex I](https://wetten.overheid.nl/BWBV0001513).
 
-##### Artikel 5. Geneesmiddelen
+2. The Party of export shall ensure that there is a legal requirement for the accuracy of information provided by the exporter.
 
-Niettegenstaande [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=4&z=2003-09-11&g=2003-09-11) en onverminderd enig recht van een Partij om alle gemodificeerde levende organismen aan een risicobeoordeling te onderwerpen alvorens een besluit over invoer te nemen, is dit Protocol niet van toepassing op de grensoverschrijdende verplaatsing van gemodificeerde levende organismen die geneesmiddelen voor de mens zijn die onder andere relevante internationale overeenkomsten of organisaties vallen.
+##### Article 9. Acknowledgement of receipt of notification
 
-##### Artikel 6. Doorvoer en ingeperkt gebruik
+1. The Party of import shall acknowledge receipt of the notification, in writing, to the notifier within ninety days of its receipt.
 
-1. Niettegenstaande [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=4&z=2003-09-11&g=2003-09-11) en onverminderd enig recht van een Partij van doorvoer om het vervoer van gemodificeerde levende organismen over haar grondgebied te reguleren en om een besluit van deze Partij met inachtneming van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=2&z=2003-09-11&g=2003-09-11), inzake de doorvoer van een specifiek veranderd levend organisme over haar grondgebied ter beschikking te stellen van het uitwisselingcentrum voor bioveiligheid, zijn de bepalingen van dit Protocol ten aanzien van de procedure voor voorafgaande geïnformeerde instemming niet van toepassing op gemodificeerde levende organismen in doorvoer.
+2. The acknowledgement shall state:
 
-2. Niettegenstaande [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=4&z=2003-09-11&g=2003-09-11) en onverminderd enig recht van een Partij om alle gemodificeerde levende organismen aan een risicobeoordeling te onderwerpen alvorens een besluit over invoer te nemen en normen voor ingeperkt gebruik binnen haar jurisdictie vast te stellen, zijn de bepalingen van dit Protocol ten aanzien van de procedure voor voorafgaande geïnformeerde instemming niet van toepassing op de grensoverschrijdende verplaatsing van gemodificeerde levende organismen die bestemd zijn voor ingeperkt gebruik dat in overeenstemming met de normen van de Partij van invoer plaatsvindt.
+- a) The date of receipt of the notification;
 
-##### Artikel 7. Toepassing van de procedure voor voorafgaande geïnformeerde instemming
+- b) Whether the notification, prima facie, contains the information referred to in [Article 8](https://wetten.overheid.nl/BWBV0001513);
 
-1. Met inachtneming van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=5&z=2003-09-11&g=2003-09-11) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=6&z=2003-09-11&g=2003-09-11) is de procedure voor voorafgaande geïnformeerde instemming in de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=8&z=2003-09-11&g=2003-09-11) en [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=12&z=2003-09-11&g=2003-09-11) van toepassing vóór de eerste doelbewuste grensoverschrijdende verplaatsing van gemodificeerde levende organismen voor de doelbewuste introductie in het milieu van de Partij van invoer.
+- c) Whether to proceed according to the domestic regulatory framework of the Party of import or according to the procedure specified in [Article 10](https://wetten.overheid.nl/BWBV0001513).
 
-2. Onder „doelbewuste introductie in het milieu” in het eerste lid vallen niet gemodificeerde levende organismen die bedoeld zijn om rechtstreeks als voedingsmiddel of diervoeder of voor be- of verwerking te worden gebruikt.
+3. The domestic regulatory framework referred to in paragraph 2 c) above, shall be consistent with this Protocol.
 
-3. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=11&z=2003-09-11&g=2003-09-11) is van toepassing vóór de eerste doelbewuste grensoverschrijdende verplaatsing van gemodificeerde levende organismen die bedoeld zijn om rechtstreeks als voedingsmiddel of diervoeder of voor be- of verwerking te worden gebruikt.
+4. A failure by the Party of import to acknowledge receipt of a notification shall not imply its consent to an intentional transboundary movement.
 
-4. De procedure voor voorafgaande geïnformeerde instemming is niet van toepassing op de doelbewuste grensoverschrijdende verplaatsing van gemodificeerde levende organismen waarvan in een besluit van de Conferentie van de Partijen die als Vergadering van de Partijen bij dit Protocol fungeert wordt gespecificeerd dat het niet waarschijnlijk is dat ze nadelige gevolgen hebben voor het behoud en het duurzame gebruik van de biologische diversiteit, waarbij ook rekening wordt gehouden met de risico's voor de gezondheid van de mens.
+##### Article 10. Decision procedure
 
-##### Artikel 8. Kennisgeving
+1. Decisions taken by the Party of import shall be in accordance with [Article 15](https://wetten.overheid.nl/BWBV0001513).
 
-1. De Partij van uitvoer zorgt voor of verplicht de uitvoerder te zorgen voor een schriftelijke kennisgeving aan de bevoegde nationale instantie van de Partij van invoer alvorens een binnen het toepassingsgebied van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=7&z=2003-09-11&g=2003-09-11), vallende doelbewuste grensoverschrijdende verplaatsing van een veranderd levend organisme plaatsvindt. De kennisgeving bevat minimaal de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&bijlage=I&z=2003-09-11&g=2003-09-11) gespecificeerde informatie.
+2. The Party of import shall, within the period of time referred to in [Article 9](https://wetten.overheid.nl/BWBV0001513), inform the notifier, in writing, whether the intentional transboundary movement may proceed:
 
-2. De Partij van uitvoer zorgt ervoor dat de uitvoerder wettelijk verplicht is de juiste informatie te verstrekken.
+- a) Only after the Party of import has given its written consent; or
 
-##### Artikel 9. Bevestiging van de ontvangst van een kennisgeving
+- b) After no less than ninety days without a subsequent written consent.
 
-1. De Partij van invoer bevestigt binnen negentig dagen na ontvangst schriftelijk de ontvangst van de kennisgeving aan de kennisgever.
+3. Within two hundred and seventy days of the date of receipt of notification, the Party of import shall communicate, in writing, to the notifier and to the Biosafety Clearing-House the decision referred to in paragraph 2 a) above:
 
-2. In de ontvangstbevestiging worden vermeld:
+- a) Approving the import, with or without conditions, including how the decision will apply to subsequent imports of the same living modified organism;
 
-- a. de datum waarop de kennisgeving ontvangen is;
+- b) Prohibiting the import;
 
-- b. of de kennisgeving op het eerste gezicht de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=8&z=2003-09-11&g=2003-09-11) bedoelde informatie bevat;
+- c) Requesting additional relevant information in accordance with its domestic regulatory framework or [Annex I](https://wetten.overheid.nl/BWBV0001513); in calculating the time within which the Party of import is to respond, the number of days it has to wait for additional relevant information shall not be taken into account; or
 
-- c. of de procedure volgens het nationale regelgevende kader van de Partij van invoer of de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=10&z=2003-09-11&g=2003-09-11) vermelde procedure wordt gevolgd.
+- d) Informing the notifier that the period specified in this paragraph is extended by a defined period of time.
 
-3. Het in het tweede lid, onder c, bedoelde nationale regelgevende kader dient verenigbaar te zijn met dit Protocol.
+4. Except in a case in which consent is unconditional, a decision under paragraph 3 above, shall set out the reasons on which it is based.
 
-4. Wanneer de Partij van invoer verzuimt de ontvangst van een kennisgeving te bevestigen, houdt dit niet in dat zij met een doelbewuste grensoverschrijdende verplaatsing instemt.
+5. A failure by the Party of import to communicate its decision within two hundred and seventy days of the date of receipt of the notification shall not imply its consent to an intentional transboundary movement.
 
-##### Artikel 10. Besluitvormingsprocedure
+6. Lack of scientific certainty due to insufficient relevant scientific information and knowledge regarding the extent of the potential adverse effects of a living modified organism on the conservation and sustainable use of biological diversity in the Party of import, taking also into account risks to human health, shall not prevent that Party from taking a decision, as appropriate, with regard to the import of the living modified organism in question as referred to in paragraph 3 above, in order to avoid or minimize such potential adverse effects.
 
-1. Besluiten van de Partij van invoer worden overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=15&z=2003-09-11&g=2003-09-11) genomen.
+7. The Conference of the Parties serving as the meeting of the Parties shall, at its first meeting, decide upon appropriate procedures and mechanisms to facilitate decision-making by Parties of import.
 
-2. De Partij van invoer deelt de kennisgever binnen de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=9&z=2003-09-11&g=2003-09-11) bedoelde termijn schriftelijk mee of de doelbewuste grensoverschrijdende verplaatsing mag plaatsvinden:
+##### Article 11. Procedure for living modified organisms intended for direct use as food or feed, or for processing
 
-- a. uitsluitend nadat de Partij van invoer schriftelijk toestemming heeft verleend; of
+1. A Party that makes a final decision regarding domestic use, including placing on the market, of a living modified organism that may be subject to transboundary movement for direct use as food or feed, or for processing shall, within fifteen days of making that decision, inform the Parties through the Biosafety Clearing-House. This information shall contain, at a minimum, the information specified in [Annex II](https://wetten.overheid.nl/BWBV0001513). The Party shall provide a copy of the information, in writing, to the national focal point of each Party that informs the Secretariat in advance that it does not have access to the Biosafety Clearing-House. This provision shall not apply to decisions regarding field trials.
 
-- b. na minimaal negentig dagen zonder verdere schriftelijke toestemming.
+2. The Party making a decision under paragraph 1 above, shall ensure that there is a legal requirement for the accuracy of information provided by the applicant.
 
-3. Binnen tweehonderdzeventig dagen na de datum waarop de kennisgeving is ontvangen, deelt de Partij van invoer de kennisgever en het uitwisselingcentrum voor bioveiligheid schriftelijk het in het tweede lid, onder a, bedoelde besluit mee:
+3. Any Party may request additional information from the authority identified in [paragraph b) of Annex II](https://wetten.overheid.nl/BWBV0001513).
 
-- a. waarbij de invoer al dan niet onder voorwaarden wordt goedgekeurd, terwijl tevens de wijze wordt vermeld waarop het besluit van toepassing is op de latere invoer van hetzelfde gemodificeerde levende organisme;
+4. A Party may take a decision on the import of living modified organisms intended for direct use as food or feed, or for processing, under its domestic regulatory framework that is consistent with the objective of this Protocol.
 
-- b. waarbij de invoer wordt verboden;
+5. Each Party shall make available to the Biosafety Clearing-House copies of any national laws, regulations and guidelines applicable to the import of living modified organisms intended for direct use as food or feed, or for processing, if available.
 
-- c. waarbij om aanvullende relevante informatie overeenkomstig het nationale regelgevende kader of [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&bijlage=I&z=2003-09-11&g=2003-09-11) wordt gevraagd; bij de berekening van de termijn waarbinnen de Partij van invoer moet reageren, wordt het aantal dagen dat zij op aanvullende relevante informatie moet wachten niet meegerekend; of
+6. A developing country Party or a Party with an economy in transition may, in the absence of the domestic regulatory framework referred to in paragraph 4 above, and in exercise of its domestic jurisdiction, declare through the Biosafety Clearing-House that its decision prior to the first import of a living modified organism intended for direct use as food or feed, or for processing, on which information has been provided under paragraph 1 above, will be taken according to the following:
 
-- d. waarbij de kennisgever wordt meegedeeld dat de in dit lid gespecificeerde termijn met een bepaalde periode wordt verlengd.
+- a) A risk assessment undertaken in accordance with [Annex III](https://wetten.overheid.nl/BWBV0001513); and
 
-4. Behalve wanneer onvoorwaardelijke toestemming wordt verleend, worden bij een besluit krachtens het derde lid de redenen vermeld waarop het is gebaseerd.
+- b) A decision made within a predictable timeframe, not exceeding two hundred and seventy days.
 
-5. Wanneer de Partij van invoer verzuimt haar besluit binnen tweehonderdzeventig dagen na de datum waarop de kennisgeving is ontvangen mee te delen, houdt dit niet in dat zij met een doelbewuste grensoverschrijdende verplaatsing instemt.
+7. Failure by a Party to communicate its decision according to paragraph 6 above, shall not imply its consent or refusal to the import of a living modified organism intended for direct use as food or feed, or for processing, unless otherwise specified by the Party.
 
-6. Wanneer er door onvoldoende relevante wetenschappelijke informatie en kennis geen wetenschappelijke zekerheid is over de omvang van de potentiële nadelige gevolgen van een veranderd levend organisme voor het behoud en het duurzame gebruik van de biologische diversiteit in de Partij van invoer, waarbij ook rekening wordt gehouden met de risico's voor de gezondheid van de mens, weerhoudt dat die Partij er niet van eventueel een in het derde lid bedoeld besluit te nemen over de invoer van het desbetreffende gemodificeerde levende organisme teneinde dergelijke potentiële nadelige gevolgen te vermijden of tot een minimum te beperken.
+8. Lack of scientific certainty due to insufficient relevant scientific information and knowledge regarding the extent of the potential adverse effects of a living modified organism on the conservation and sustainable use of biological diversity in the Party of import, taking also into account risks to human health, shall not prevent that Party from taking a decision, as appropriate, with regard to the import of that living modified organism intended for direct use as food or feed, or for processing, in order to avoid or minimize such potential adverse effects.
 
-7. De Conferentie van de Partijen die als Vergadering van de Partijen fungeert zal tijdens haar eerste Vergadering een besluit nemen over geschikte procedures en mechanismen om de besluitvorming door de Partijen van invoer te vergemakkelijken.
+9. A Party may indicate its needs for financial and technical assistance and capacity-building with respect to living modified organisms intended for direct use as food or feed, or for processing. Parties shall cooperate to meet these needs in accordance with [Articles 22](https://wetten.overheid.nl/BWBV0001513) and [28](https://wetten.overheid.nl/BWBV0001513).
 
-##### Artikel 11. Procedure voor gemodificeerde levende organismen die bedoeld zijn om rechtstreeks als voedingsmiddel of diervoeder of voor be- of verwerking te worden gebruikt
+##### Article 12. Review of decisions
 
-1. Een Partij die een definitief besluit neemt over het binnenlandse gebruik, met inbegrip van het op de markt brengen, van een veranderd levend organisme dat kan worden onderworpen aan een grensoverschrijdende verplaatsing om rechtstreeks als voedingsmiddel of diervoeder of voor be- of verwerking te worden gebruikt, stelt de Partijen hiervan binnen vijftien dagen na het nemen van dat besluit via het uitwisselingcentrum voor bioveiligheid in kennis. Hierbij wordt minimaal de in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&bijlage=II&z=2003-09-11&g=2003-09-11) gespecificeerde informatie verstrekt. De Partij verstrekt schriftelijk een afschrift van deze informatie aan het nationale contactpunt van elke Partij die het Secretariaat vooraf meedeelt dat zij geen toegang heeft tot het uitwisselingcentrum voor bioveiligheid. Deze bepaling is niet van toepassing op besluiten inzake veldproeven.
+1. A Party of import may, at any time, in light of new scientific information on potential adverse effects on the conservation and sustainable use of biological diversity, taking also into account the risks to human health, review and change a decision regarding an intentional transboundary movement. In such case, the Party shall, within thirty days, inform any notifier that has previously notified movements of the living modified organism referred to in such decision, as well as the Biosafety Clearing-House, and shall set out the reasons for its decision.
 
-2. De Partij die een in het eerste lid bedoeld besluit neemt, zorgt ervoor dat de aanvrager wettelijk verplicht is de juiste informatie te verstrekken
+2. A Party of export or a notifier may request the Party of import to review a decision it has made in respect of it under [Article 10](https://wetten.overheid.nl/BWBV0001513) where the Party of export or the notifier considers that:
 
-3. Elke Partij mag aanvullende informatie vragen aan de in [Bijlage II, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&bijlage=II&z=2003-09-11&g=2003-09-11), bedoelde instantie.
+- a) A change in circumstances has occurred that may inf.uence the outcome of the risk assessment upon which the decision was based; or
 
-4. Een Partij kan krachtens haar nationale regelgevende kader dat verenigbaar is met de doelstelling van dit Protocol, een besluit nemen over de invoer van gemodificeerde levende organismen die bedoeld zijn om rechtstreeks als voedingsmiddel of diervoeder of voor be- of verwerking te worden gebruikt.
+- b) Additional relevant scientific or technical information has become available.
 
-5. Elke Partij verstrekt het uitwisselingcentrum voor bioveiligheid afschriften van alle nationale wetten, voorschriften en richtsnoeren die van toepassing zijn op de invoer van gemodificeerde levende organismen die bedoeld zijn om rechtstreeks als voedingsmiddel of diervoeder of voor be- of verwerking te worden gebruikt, indien deze beschikbaar zijn.
+3. The Party of import shall respond in writing to such a request within ninety days and set out the reasons for its decision.
 
-6. Een Partij die een ontwikkelingsland is of een Partij met een economie in overgang kan, wanneer zij geen nationaal regelgevend kader als bedoeld in het vierde lid heeft, bij de uitoefening van haar nationale jurisdictie via het uitwisselingcentrum voor bioveiligheid verklaren dat haar besluit vóór de eerste invoer van een veranderd levend organisme dat bedoeld is om rechtstreeks als voedingsmiddel of diervoeder of voor be- of verwerking te worden gebruikt, waarover overeenkomstig het eerste lid informatie is verstrekt, zal worden genomen:
+4. The Party of import may, at its discretion, require a risk assessment for subsequent imports.
 
-- a. aan de hand van een overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=15&z=2003-09-11&g=2003-09-11) uitgevoerde risicobeoordeling; en
+##### Article 13. Simplified procedure
 
-- b. binnen een voorzienbare termijn van maximaal tweehonderdzeventig dagen.
+1. A Party of import may, provided that adequate measures are applied to ensure the safe intentional transboundary movement of living modified organisms in accordance with the objective of this Protocol, specify in advance to the Biosafety Clearing-House:
 
-7. Wanneer een Partij verzuimt haar besluit overeenkomstig het zesde lid mee te delen, houdt dit niet in dat zij toestemming verleent of weigert voor de invoer van een veranderd levend organisme dat bedoeld is om rechtstreeks als voedingsmiddel of diervoeder of voor be- of verwerking te worden gebruikt, tenzij door de Partij anderszins wordt vermeld.
+- a) Cases in which intentional transboundary movement to it may take place at the same time as the movement is notified to the Party of import; and
 
-8. Wanneer er door onvoldoende relevante wetenschappelijke informatie en kennis geen wetenschappelijke zekerheid is over de omvang van de potentiële nadelige gevolgen van een veranderd levend organisme voor het behoud en het duurzame gebruik van de biologische diversiteit in de Partij van invoer, waarbij ook rekening wordt gehouden met de risico's voor de gezondheid van de mens, weerhoudt dat die Partij er niet van eventueel een besluit te nemen over de invoer van dat gemodificeerde levende organisme dat bedoeld is om rechtstreeks als voedingsmiddel of diervoeder of voor be- of verwerking te worden gebruikt, teneinde dergelijke potentiële nadelige gevolgen te vermijden of tot een minimum te beperken.
+- b) Imports of living modified organisms to it to be exempted from the advance informed agreement procedure.
 
-9. Een Partij kan aangeven wat haar behoeften zijn aan financiële en technische bijstand en bij de capaciteitsvorming ten aanzien van gemodificeerde levende organismen die bedoeld zijn om rechtstreeks als voedingsmiddel of diervoeder of voor be- of verwerking te worden gebruikt. De Partijen werken samen om overeenkomstig de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=22&z=2003-09-11&g=2003-09-11) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=28&z=2003-09-11&g=2003-09-11) in deze behoeften te voorzien.
+Notifications under subparagraph a) above, may apply to subsequent similar movements to the same Party.
 
-##### Artikel 12. Herziening van besluiten
+2. The information relating to an intentional transboundary movement that is to be provided in the notifications referred to in paragraph 1 (a) above, shall be the information specified in [Annex I](https://wetten.overheid.nl/BWBV0001513).
 
-1. Een Partij van invoer kan op elk moment in het licht van nieuwe wetenschappelijke informatie over de potentiële nadelige gevolgen voor het behoud en het duurzame gebruik van de biologische diversiteit, waarbij ook rekening wordt gehouden met de risico's voor de gezondheid van de mens, een besluit over een doelbewuste grensoverschrijdende verplaatsing herzien en wijzigen. In dat geval brengt de Partij binnen dertig dagen elke kennisgever die eerder kennisgeving heeft gedaan van verplaatsingen van het in dat besluit bedoelde gemodificeerde levende organisme, en het uitwisselingcentrum voor bioveiligheid op de hoogte en vermeldt zij daarbij de redenen voor haar besluit.
+##### Article 14. Bilateral, regional and multilateral agreements and arrangements
 
-2. Een Partij van uitvoer of een kennisgever kan de Partij van invoer verzoeken een krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=10&z=2003-09-11&g=2003-09-11) genomen besluit dat op hem/haar betrekking heeft, te herzien wanneer de Partij van uitvoer of de kennisgever van mening is dat:
+1. Parties may enter into bilateral, regional and multilateral agreements and arrangements regarding intentional transboundary movements of living modified organisms, consistent with the objective of this Protocol and provided that such agreements and arrangements do not result in a lower level of protection than that provided for by the Protocol.
 
-- a. zich een wijziging in de omstandigheden heeft voorgedaan die invloed kan hebben op het resultaat van de risicobeoordeling waarop het besluit gebaseerd was; of
+2. The Parties shall inform each other, through the Biosafety Clearing-House, of any such bilateral, regional and multilateral agreements and arrangements that they have entered into before or after the date of entry into force of this Protocol.
 
-- b. aanvullende relevante wetenschappelijke of technische informatie beschikbaar is gekomen.
+3. The provisions of this Protocol shall not affect intentional transboundary movements that take place pursuant to such agreements and arrangements as between the parties to those agreements or arrangements.
 
-3. De Partij van invoer reageert schriftelijk binnen negentig dagen op een dergelijk verzoek en vermeldt de redenen van haar besluit.
+4. Any Party may determine that its domestic regulations shall apply with respect to specific imports to it and shall notify the Biosafety Clearing-House of its decision.
 
-4. De Partij van invoer kan naar eigen goeddunken een risicobeoordeling voor latere invoer verplicht stellen.
+##### Article 15. Risk assessment
 
-##### Artikel 13. Vereenvoudigde procedure
+1. Risk assessments undertaken pursuant to this Protocol shall be carried out in a scientifically sound manner, in accordance with [Annex III](https://wetten.overheid.nl/BWBV0001513) and taking into account recognized risk assessment techniques. Such risk assessments shall be based, at a minimum, on information provided in accordance with [Article 8](https://wetten.overheid.nl/BWBV0001513) and other available scientific evidence in order to identify and evaluate the possible adverse effects of living modified organisms on the conservation and sustainable use of biological diversity, taking also into account risks to human health.
 
-1. Een Partij van invoer kan, mits afdoende maatregelen worden toegepast om te zorgen voor een veilige doelbewuste grensoverschrijdende verplaatsing van gemodificeerde levende organismen overeenkomstig het doel van dit Protocol, vooraf bij het uitwisselingcentrum voor bioveiligheid specificeren:
+2. The Party of import shall ensure that risk assessments are carried out for decisions taken under [Article 10](https://wetten.overheid.nl/BWBV0001513). It may require the exporter to carry out the risk assessment.
 
-- a. de gevallen waarin een doelbewuste grensoverschrijdende verplaatsing naar haar grondgebied mag plaatsvinden zodra kennisgeving van de verplaatsing aan haar wordt gedaan; en
+3. The cost of risk assessment shall be borne by the notifier if the Party of import so requires.
 
-- b. de gevallen van invoer van gemodificeerde levende organismen naar haar grondgebied die wordt vrijgesteld van de procedure voor voorafgaande geïnformeerde instemming.
+##### Article 16. Risk management
 
-Kennisgevingen overeenkomstig a kunnen ook gelden voor latere vergelijkbare verplaatsingen naar dezelfde Partij.
+1. The Parties shall, taking into account[Article 8 (g) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=8), establish and maintain appropriate mechanisms, measures and strategies to regulate, manage and control risks identified in the risk assessment provisions of this Protocol associated with the use, handling and transboundary movement of living modified organisms.
 
-2. De informatie over een doelbewuste grensoverschrijdende verplaatsing die in de in het eerste lid, onder a, bedoelde kennisgevingen moet worden verstrekt, is de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&bijlage=I&z=2003-09-11&g=2003-09-11) gespecificeerde informatie.
+2. Measures based on risk assessment shall be imposed to the extent necessary to prevent adverse effects of the living modified organism on the conservation and sustainable use of biological diversity, taking also into account risks to human health, within the territory of the Party of import.
 
-##### Artikel 14. Bilaterale, regionale en multilaterale akkoorden en regelingen
+3. Each Party shall take appropriate measures to prevent unintentional transboundary movements of living modified organisms, including such measures as requiring a risk assessment to be carried out prior to the first release of a living modified organism.
 
-1. De Partijen kunnen bilaterale, regionale en multilaterale akkoorden en regelingen sluiten voor de doelbewuste grensoverschrijdende verplaatsing van gemodificeerde levende organismen die verenigbaar zijn met het doel van dit Protocol, mits deze akkoorden en regelingen niet leiden tot een lager beschermingsniveau dan door het Protocol wordt geboden.
+4. Without prejudice to paragraph 2 above, each Party shall endeavour to ensure that any living modified organism, whether imported or locally developed, has undergone an appropriate period of observation that is commensurate with its life-cycle or generation time before it is put to its intended use.
 
-2. De Partijen stellen elkaar via het uitwisselingcentrum voor bioveiligheid in kennis van de bilaterale, regionale en multilaterale akkoorden en regelingen die zij voor of na de datum van inwerkingtreding van dit Protocol hebben gesloten.
+5. Parties shall cooperate with a view to:
 
-3. De bepalingen van dit Protocol hebben geen gevolgen voor doelbewuste grensoverschrijdende verplaatsingen die krachtens dergelijke akkoorden en regelingen tussen de Partijen bij die akkoorden en regelingen plaatsvinden.
+- a) Identifying living modified organisms or specific traits of living modified organisms that may have adverse effects on the conservation and sustainable use of biological diversity, taking also into account risks to human health; and
 
-4. Een Partij kan bepalen dat haar nationale regelingen gelden voor specifieke gevallen van invoer naar haar grondgebied en stelt het uitwisselingcentrum voor bioveiligheid van haar besluit op de hoogte.
+- b) Taking appropriate measures regarding the treatment of such living modified organisms or specific traits.
 
-##### Artikel 15. Risicobeoordeling
+##### Article 17. Unintentional transboundary movements and emergency measures
 
-1. Krachtens dit Protocol uitgevoerde risicobeoordelingen worden op een wetenschappelijk verantwoorde wijze overeenkomstig [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&bijlage=III&z=2003-09-11&g=2003-09-11) en rekening houdend met erkende technieken voor risicobeoordeling uitgevoerd. Bij deze risicobeoordelingen wordt minimaal uitgegaan van de overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=8&z=2003-09-11&g=2003-09-11) verstrekte informatie en andere beschikbare wetenschappelijke gegevens teneinde de mogelijke nadelige gevolgen van gemodificeerde levende organismen voor het behoud en het duurzame gebruik van de biologische diversiteit vast te stellen en te beoordelen, waarbij ook rekening wordt gehouden met de risico's voor de gezondheid van de mens.
+1. Each Party shall take appropriate measures to notify affected or potentially affected States, the Biosafety Clearing-House and, where appropriate, relevant international organizations, when it knows of an occurrence under its jurisdiction resulting in a release that leads, or may lead, to an unintentional transboundary movement of a living modified organism that is likely to have significant adverse effects on the conservation and sustainable use of biological diversity, taking also into account risks to human health in such States. The notification shall be provided as soon as the Party knows of the above situation.
 
-2. De Partij van invoer zorgt ervoor dat voor krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=10&z=2003-09-11&g=2003-09-11) genomen besluiten risicobeoordelingen worden uitgevoerd. Zij kan de exporteur ertoe verplichten de risicobeoordeling uit te voeren.
+2. Each Party shall, no later than the date of entry into force of this Protocol for it, make available to the Biosafety Clearing-House the relevant details setting out its point of contact for the purposes of receiving notifications under this Article.
 
-3. De kosten van de risicobeoordeling worden, indien de Partij van invoer dit vereist, gedragen door de kennisgever.
+3. Any notification arising from paragraph 1 above, should include:
 
-##### Artikel 16. Risicobeheer
+- a) Available relevant information on the estimated quantities and relevant characteristics and/or traits of the living modified organism;
 
-1. De Partijen creëren en handhaven, rekening houdend met [artikel 8, onder g, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=8), adequate mechanismen, maatregelen en strategieën voor het reguleren, beheren en beheersen van de risico's die verbonden zijn aan het gebruik, de behandeling en de grensoverschrijdende verplaatsing van gemodificeerde levende organismen, die worden gesignaleerd in het kader van de bepalingen van dit Protocol inzake risicobeoordeling.
+- b) Information on the circumstances and estimated date of the release, and on the use of the living modified organism in the originating Party;
 
-2. Op het grondgebied van de Partij van invoer worden voorzover nodig op risicobeoordeling gebaseerde maatregelen opgelegd teneinde nadelige gevolgen van het gemodificeerde levende organisme voor het behoud en het duurzame gebruik van de biologische diversiteit te voorkomen, waarbij ook rekening wordt gehouden met de risico's voor de gezondheid van de mens.
+- c) Any available information about the possible adverse effects on the conservation and sustainable use of biological diversity, taking also into account risks to human health, as well as available information about possible risk management measures;
 
-3. Elke Partij neemt de nodige maatregelen om onbedoelde grensoverschrijdende verplaatsingen van gemodificeerde levende organismen te voorkomen, met inbegrip van bijvoorbeeld maatregelen waarbij de uitvoering van een risicobeoordeling vóór de eerste introductie van een veranderd levend organisme verplicht wordt gesteld.
+- d) Any other relevant information; and
 
-4. Onverminderd het tweede lid tracht elke Partij ervoor te zorgen dat elk veranderd levend organisme, ongeacht of het is ingevoerd of lokaal is ontwikkeld, alvorens voor het beoogde doel te worden gebruikt gedurende een afdoende periode die in overeenstemming is met zijn levenscyclus of generatietijd, is geobserveerd.
+- e) A point of contact for further information.
 
-5. De Partijen werken samen teneinde:
+4. In order to minimize any significant adverse effects on the conservation and sustainable use of biological diversity, taking also into account risks to human health, each Party, under whose jurisdiction the release of the living modified organism referred to in paragraph 1 above, occurs, shall immediately consult the affected or potentially affected States to enable them to determine appropriate responses and initiate necessary action, including emergency measures.
 
-- a. gemodificeerde levende organismen of specifieke eigenschappen van gemodificeerde levende organismen te identificeren die nadelige gevolgen kunnen hebben voor het behoud en het duurzame gebruik van de biologische diversiteit, waarbij ook rekening wordt gehouden met de risico's voor de gezondheid van de mens; en
+##### Article 18. Handling, transport, packaging and identification
 
-- b. passende maatregelen te nemen ten aanzien van de behandeling van dergelijke gemodificeerde levende organismen of specifieke eigenschappen.
+1. In order to avoid adverse effects on the conservation and sustainable use of biological diversity, taking also into account risks to human health, each Party shall take necessary measures to require that living modified organisms that are subject to intentional transboundary movement within the scope of this Protocol are handled, packaged and transported under conditions of safety, taking into consideration relevant international rules and standards.
 
-##### Artikel 17. Onbedoelde grensoverschrijdende verplaatsingen en noodmaatregelen
+2. Each Party shall take measures to require that documentation accompanying:
 
-1. Elke Partij neemt afdoende maatregelen om de betrokken of mogelijkerwijs betrokken Staten, het uitwisselingcentrum voor bioveiligheid en indien van toepassing betrokken internationale organisaties in kennis te stellen, wanneer zij op de hoogte is van een gebeurtenis onder haar jurisdictie die een introductie tot gevolg heeft die leidt of kan leiden tot een onbedoelde grensoverschrijdende verplaatsing van een veranderd levend organisme waarvan aanzienlijke nadelige gevolgen kunnen worden verwacht voor het behoud en het duurzame gebruik van de biologische diversiteit in deze Staten, waarbij ook rekening wordt gehouden met de risico's voor de gezondheid van de mens. De kennisgeving wordt verstrekt zodra de Partij van deze situatie op de hoogte is.
+- a) Living modified organisms that are intended for direct use as food or feed, or for processing, clearly identifies that they “may contain" living modified organisms and are not intended for intentional introduction into the environment, as well as a contact point for further information. The Conference of the Parties serving as the meeting of the Parties to this Protocol shall take a decision on the detailed requirements for this purpose, including specification of their identity and any unique identification, no later than two years after the date of entry into force of this Protocol;
 
-2. Elke Partij verstrekt het uitwisselingcentrum voor bioveiligheid uiterlijk op de datum van inwerkingtreding van dit Protocol voor die Partij de relevante gegevens van zijn contactpunt voor de ontvangst van kennisgevingen krachtens dit artikel.
+- b) Living modified organisms that are destined for contained use clearly identifies them as living modified organisms; and specifies any requirements for the safe handling, storage, transport and use, the contact point for further information, including the name and address of the individual and institution to whom the living modified organisms are consigned; and
 
-3. Een uit het eerste lid voortvloeiende kennisgeving bevat:
+- c) Living modified organisms that are intended for intentional introduction into the environment of the Party of import and any other living modified organisms within the scope of the Protocol, clearly identifies them as living modified organisms; specifies the identity and relevant traits and/or characteristics, any requirements for the safe handling, storage, transport and use, the contact point for further information and, as appropriate, the name and address of the importer and exporter; and contains a declaration that the movement is in conformity with the requirements of this Protocol applicable to the exporter.
 
-- a. de beschikbare relevante informatie over de geraamde hoeveelheden en de relevante kenmerken en/of eigenschappen van het gemodificeerde levende organisme;
+3. The Conference of the Parties serving as the meeting of the Parties to this Protocol shall consider the need for and modalities of developing standards with regard to identification, handling, packaging and transport practices, in consultation with other relevant international bodies.
 
-- b. informatie over de omstandigheden en de geraamde datum van de introductie en over het gebruik van het gemodificeerde levende organisme in de Partij van herkomst;
+##### Article 19. Competent national authorities and national focal points
 
-- c. alle beschikbare informatie over de mogelijke nadelige gevolgen voor het behoud en het duurzame gebruik van de biologische diversiteit, waarbij ook rekening wordt gehouden met de risico's voor de gezondheid van de mens, alsmede de beschikbare informatie over mogelijke maatregelen ten behoeve van riscicobeheer;
+1. Each Party shall designate one national focal point to be responsible on its behalf for liaison with the Secretariat. Each Party shall also designate one or more competent national authorities, which shall be responsible for performing the administrative functions required by this Protocol and which shall be authorized to act on its behalf with respect to those functions. A Party may designate a single entity to fulfil the functions of both focal point and competent national authority.
 
-- d. alle andere relevante informatie; en
+2. Each Party shall, no later than the date of entry into force of this Protocol for it, notify the Secretariat of the names and addresses of its focal point and its competent national authority or authorities. Where a Party designates more than one competent national authority, it shall convey to the Secretariat, with its notification thereof, relevant information on the respective responsibilities of those authorities. Where applicable, such information shall, at a minimum, specify which competent authority is responsible for which type of living modified organism. Each Party shall forthwith notify the Secretariat of any changes in the designation of its national focal point or in the name and address or responsibilities of its competent national authority or authorities.
 
-- e. de gegevens van een contactpunt voor nadere informatie.
+3. The Secretariat shall forthwith inform the Parties of the notifications it receives under paragraph 2 above, and shall also make such information available through the Biosafety Clearing-House.
 
-4. Om eventuele aanzienlijke nadelige gevolgen voor het behoud en het duurzame gebruik van de biologische diversiteit, waarbij ook rekening wordt gehouden met de risico's voor de gezondheid van de mens, tot een minimum te beperken raadpleegt elke Partij onder wier jurisdictie de in het eerste lid bedoelde introductie van het gemodificeerde levende organisme plaatsvindt, onmiddellijk de betrokken of mogelijkerwijs betrokken Staten teneinde hen in staat te stellen een afdoende reactie te bepalen en de nodige maatregelen, met inbegrip van noodmaatregelen, te nemen.
+##### Article 20. Information sharing and the biosafety clearing-house
 
-##### Artikel 18. Behandeling, vervoer, verpakking en identificatie
+1. A Biosafety Clearing-House is hereby established as part of the clearing-house mechanism under [Article 18, paragraph 3, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=18), in order to:
 
-1. Teneinde nadelige gevolgen voor het behoud en het duurzame gebruik van de biologische diversiteit, waarbij ook rekening wordt gehouden met de risico's voor de gezondheid van de mens, te voorkomen neemt elke Partij de nodige maatregelen om verplicht te stellen dat gemodificeerde levende organismen die aan doelbewuste grensoverschrijdende verplaatsing binnen de werkingssfeer van dit Protocol worden onderworpen, onder veilige omstandigheden worden behandeld, verpakt en vervoerd, waarbij rekening wordt gehouden met relevante internationale voorschriften en normen.
+- a) Facilitate the exchange of scientific, technical, environmental and legal information on, and experience with, living modified organisms; and
 
-2. Elke Partij neemt maatregelen om verplicht te stellen dat documentatie:
+- b) Assist Parties to implement the Protocol, taking into account the special needs of developing country Parties, in particular the least developed and small island developing States among them, and countries with economies in transition as well as countries that are centres of origin and centres of genetic diversity.
 
-- a. die gemodificeerde levende organismen vergezelt die bedoeld zijn om rechtstreeks als voedingsmiddel of diervoeder of voor be- of verwerking te worden gebruikt, duidelijk vermeldt dat zij gemodificeerde levende organismen „kunnen bevatten" en niet voor doelbewuste introductie in het milieu bestemd zijn, alsmede de gegevens van een contactpunt voor nadere informatie. De Conferentie van de Partijen die als de Vergadering van de Partijen bij dit Protocol fungeert, neemt uiterlijk twee jaar na de datum van inwerkingtreding van dit Protocol een besluit over de gedetailleerde voorschriften dienaangaande, met inbegrip van de specificatie van hun identiteit en iedere unieke identificatie;
+2. The Biosafety Clearing-House shall serve as a means through which information is made available for the purposes of paragraph 1 above. It shall provide access to information made available by the Parties relevant to the implementation of the Protocol. It shall also provide access, where possible, to other international biosafety information exchange mechanisms.
 
-- b. die gemodificeerde levende organismen vergezelt die bestemd zijn voor ingeperkt gebruik, duidelijk vermeldt dat het gemodificeerde levende organismen zijn en alle voorschriften voor de veilige behandeling, de veilige opslag, het veilige vervoer en het veilige gebruik vermeldt, alsmede de gegevens van het contactpunt voor nadere informatie, met inbegrip van de naam en het adres van de persoon en de instelling aan wie de gemodificeerde levende organismen zijn verzonden; en
+3. Without prejudice to the protection of confidential information, each Party shall make available to the Biosafety Clearing-House any information required to be made available to the Biosafety Clearing-House under this Protocol, and:
 
-- c. die gemodificeerde levende organismen vergezelt die bestemd zijn voor de doelbewuste introductie in het milieu van de Partij van invoer, alsmede alle andere gemodificeerde levende organismen die binnen de werkingssfeer van dit Protocol vallen, duidelijk vermeldt dat het gemodificeerde levende organismen zijn; de identiteit en relevante eigenschappen en/of kenmerken vermeldt, alle voorschriften voor de veilige behandeling, de veilige opslag, het veilige vervoer en het veilige gebruik, alsmede de gegevens van het contactpunt voor nadere informatie en indien van toepassing de naam en het adres van de invoerder en de uitvoerder; en een verklaring bevat dat de verplaatsing voldoet aan de voorschriften van dit Protocol die op de uitvoerder van toepassing zijn.
+- a) Any existing laws, regulations and guidelines for implementation of the Protocol, as well as information required by the Parties for the advance informed agreement procedure;
 
-3. De Conferentie van de Partijen die als de Vergadering van de Partijen bij dit Protocol fungeert, beziet in overleg met andere relevante internationale organen in hoeverre het noodzakelijk is normen voor de identificatie, de behandeling, de verpakking en het vervoer te ontwikkelen en hoe dit moet gebeuren.
+- b) Any bilateral, regional and multilateral agreements and arrangements;
 
-##### Artikel 19. Bevoegde nationale instanties en nationale contactpunten
+- c) Summaries of its risk assessments or environmental reviews of living modified organisms generated by its regulatory process, and carried out in accordance with [Article 15](https://wetten.overheid.nl/BWBV0001513), including, where appropriate, relevant information regarding products thereof, namely, processed materials that are of living modified organism origin, containing detectable novel combinations of replicable genetic material obtained through the use of modern biotechnology;
 
-1. Elke Partij wijst één nationaal contactpunt aan dat namens haar verantwoordelijk is voor de contacten met het Secretariaat. Elke Partij wijst tevens een of meer bevoegde nationale instanties aan die verantwoordelijk zijn voor de uitvoering van de administratieve taken waartoe dit Protocol verplicht en die worden gemachtigd om ten aanzien van deze taken namens haar op te treden. Een Partij kan één instantie aanwijzen om de taken van zowel contactpunt als bevoegde nationale instantie te vervullen.
+- d) Its final decisions regarding the importation or release of living modified organisms; and
 
-2. Elke Partij stelt uiterlijk op de datum van inwerkingtreding van dit Protocol voor die Partij het Secretariaat in kennis van de namen en adressen van haar contactpunt en haar bevoegde nationale instantie of instanties. Wanneer een Partij meer dan een bevoegde nationale instantie aanwijst, verstrekt zij het Secretariaat tegelijk met de kennisgeving daarvan relevante informatie over de respectieve taken van deze instanties. Waar van toepassing wordt in deze informatie minimaal gespecificeerd welke bevoegde instantie verantwoordelijk is voor welke soorten gemodificeerde levende organismen. Elke Partij stelt het Secretariaat onmiddellijk in kennis van eventuele wijzigingen in de aanwijzing van haar nationale contactpunt of in de naam, het adres of de taken van haar bevoegde nationale instanties of instanties.
+- e) Reports submitted by it pursuant to [Article 33](https://wetten.overheid.nl/BWBV0001513), including those on implementation of the advance informed agreement procedure.
 
-3. Het Secretariaat stelt de Partijen onmiddellijk in kennis van de kennisgevingen die het krachtens het tweede lid ontvangt en stelt deze informatie ook ter beschikking via het uitwisselingcentrum voor bioveiligheid.
+4. The modalities of the operation of the Biosafety Clearing-House, including reports on its activities, shall be considered and decided upon by the Conference of the Parties serving as the meeting of the Parties to this Protocol at its first meeting, and kept under review thereafter.
 
-##### Artikel 20. Gemeenschappelijk gebruik van informatie en het uitwisselingscentrum voor bioveiligheid
+##### Article 21. Confidential information
 
-1. Als onderdeel van het uitwisselingmechanisme overeenkomstig [artikel 18, derde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=18) wordt een uitwisselingcentrum voor bioveiligheid opgericht teneinde:
+1. The Party of import shall permit the notifier to identify information submitted under the procedures of this Protocol or required by the Party of import as part of the advance informed agreement procedure of the Protocol that is to be treated as confidential. Justification shall be given in such cases upon request.
 
-- a. de uitwisseling van wetenschappelijke, technische, milieukundige en juridische informatie over en ervaring met gemodificeerde levende organismen te vergemakkelijken; en
+2. The Party of import shall consult the notifier if it decides that information identified by the notifier as confidential does not qualify for such treatment and shall, prior to any disclosure, inform the notifier of its decision, providing reasons on request, as well as an opportunity for consultation and for an internal review of the decision prior to disclosure.
 
-- b. de Partijen te helpen bij de tenuitvoerlegging van het Protocol, rekening houdend met de speciale behoeften van Partijen die ontwikkelingslanden zijn, met name de minst ontwikkelde landen en de kleine eilandstaten in ontwikkeling, en de landen met een economie in overgang alsmede de landen die centra van oorsprong en centra van genetische diversiteit zijn.
+3. Each Party shall protect confidential information received under this Protocol, including any confidential information received in the context of the advance informed agreement procedure of the Protocol. Each Party shall ensure that it has procedures to protect such information and shall protect the confidentiality of such information in a manner no less favourable than its treatment of confidential information in connection with domestically produced living modified organisms.
 
-2. Het uitwisselingcentrum voor bioveiligheid fungeert als middel voor de uitwisseling van informatie met het oog op de in het eerste lid genoemde doelen. Het zorgt voor toegang tot informatie die relevant is voor de tenuitvoerlegging van het Protocol en door de Partijen is verstrekt. Tevens zorgt het waar mogelijk voor toegang tot andere internationale mechanismen voor de uitwisseling van informatie over bioveiligheid.
+4. The Party of import shall not use such information for a commercial purpose, except with the written consent of the notifier.
 
-3. Onverminderd de bescherming van vertrouwelijke informatie verstrekt elke Partij het uitwisselingcentrum voor bioveiligheid alle informatie die krachtens dit Protocol aan het uitwisselingcentrum voor bioveiligheid moet worden verstrekt, en:
+5. If a notifier withdraws or has withdrawn a notification, the Party of import shall respect the confidentiality of commercial and industrial information, including research and development information as well as information on which the Party and the notifier disagree as to its confidentiality.
 
-- a. alle bestaande wetten, voorschriften en richtsnoeren voor de tenuitvoerlegging van het Protocol, alsmede de informatie die voor de procedure voor voorafgaande geïnformeerde instemming door de Partijen wordt gevraagd;
+6. Without prejudice to paragraph 5 above, the following information shall not be considered confidential:
 
-- b. alle bilaterale, regionale en multilaterale akkoorden en regelingen;
+- a) The name and address of the notifier;
 
-- c. samenvattingen van haar risicobeoordelingen of milieuanalyses van gemodificeerde levende organismen die krachtens haar regelgeving en overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=15&z=2003-09-11&g=2003-09-11) zijn uitgevoerd, eventueel met inbegrip van relevante informatie over producten daarvan, namelijk be- of verwerkte materialen die afkomstig zijn van gemodificeerde levende organismen en detecteerbare nieuwe combinaties van repliceerbaar genetisch materiaal bevatten, verkregen door het gebruik van de moderne biotechnologie;
+- b) A general description of the living modified organism or organisms;
 
-- d. haar definitieve besluiten over de invoer of introductie van gemodificeerde levende organismen; en
+- c) A summary of the risk assessment of the effects on the conservation and sustainable use of biological diversity, taking also into account risks to human health; and
 
-- e. door haar overeenkomstig [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=33&z=2003-09-11&g=2003-09-11) ingediende verslagen, met inbegrip van verslagen over de invoering van de procedure voor voorafgaande geïnformeerde instemming.
+- d) Any methods and plans for emergency response.
 
-4. De werkwijze van het uitwisselingcentrum voor bioveiligheid, met inbegrip van de rapportage over zijn activiteiten, wordt door de Conferentie van de Partijen die als Vergadering van de Partijen bij dit Protocol fungeert, tijdens haar eerste Vergadering besproken en vastgesteld en vervolgens periodiek getoetst.
+##### Article 22. Capacity-building
 
-##### Artikel 21. Vertrouwelijke informatie
+1. The Parties shall cooperate in the development and/or strengthening of human resources and institutional capacities in biosafety, including biotechnology to the extent that it is required for biosafety, for the purpose of the effective implementation of this Protocol, in developing country Parties, in particular the least developed and small island developing States among them, and in Parties with economies in transition, including through existing global, regional, subregional and national institutions and organizations and, as appropriate, through facilitating private sector involvement.
 
-1. De Partij van invoer staat de kennisgever toe aan te geven welke informatie die krachtens de procedures van dit Protocol wordt ingediend of door de Partij van invoer als onderdeel van de procedure voor voorafgaande geïnformeerde instemming van het Protocol wordt vereist, als vertrouwelijk dient te worden behandeld. In dergelijke gevallen wordt op verzoek een motivering gegeven.
+2. For the purposes of implementing paragraph 1 above, in relation to cooperation, the needs of developing country Parties, in particular the least developed and small island developing States among them, for financial resources and access to and transfer of technology and know-how in accordance with the relevant provisions of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001136), shall be taken fully into account for capacity-building in biosafety. Cooperation in capacity-building shall, subject to the different situation, capabilities and requirements of each Party, include scientific and technical training in the proper and safe management of biotechnology, and in the use of risk assessment and risk management for biosafety, and the enhancement of technological and institutional capacities in biosafety. The needs of Parties with economies in transition shall also be taken fully into account for such capacity-building in biosafety.
 
-2. De Partij van invoer raadpleegt de kennisgever als zij besluit dat door de kennisgever als vertrouwelijk aangeduide informatie niet voor deze behandeling in aanmerking komt, en stelt de kennisgever vóór bekendmaking daarvan van haar besluit op de hoogte, waarbij zij op verzoek haar redenen vermeldt en de mogelijkheid biedt voor overleg en een interne toetsing van het besluit alvorens tot bekendmaking over te gaan.
+##### Article 23. Public awareness and participation
 
-3. Elke Partij beschermt krachtens dit Protocol ontvangen vertrouwelijke informatie, met inbegrip van vertrouwelijke informatie die in het kader van de procedure voor voorafgaande geïnformeerde instemming van het Protocol wordt ontvangen. Elke Partij zorgt ervoor dat zij procedures heeft om deze informatie te beschermen en beschermt de vertrouwelijkheid van deze informatie op een manier die niet minder gunstig is dan de wijze waarop zij vertrouwelijke informatie behandelt die verband houdt met in het binnenland geproduceerde gemodificeerde levende organismen.
+1. The Parties shall:
 
-4. De Partij van invoer gebruikt deze informatie niet voor commerciële doeleinden, tenzij de kennisgever daarmee schriftelijk heeft ingestemd.
+- a) Promote and facilitate public awareness, education and participation concerning the safe transfer, handling and use of living modified organisms in relation to the conservation and sustainable use of biological diversity, taking also into account risks to human health. In doing so, the Parties shall cooperate, as appropriate, with other States and international bodies;
 
-5. Indien een kennisgever een kennisgeving intrekt of heeft ingetrokken, neemt de Partij van invoer de vertrouwelijkheid van commerciële en industriële informatie in acht, met inbegrip van informatie over onderzoek en ontwikkeling en informatie ten aanzien waarvan de Partij en de kennisgever het niet over de vertrouwelijkheid eens zijn.
+- b) Endeavour to ensure that public awareness and education encompass access to information on living modified organisms identified in accordance with this Protocol that may be imported.
 
-6. Onverminderd het vijfde lid wordt de volgende informatie niet als vertrouwelijk beschouwd:
+2. The Parties shall, in accordance with their respective laws and regulations, consult the public in the decision-making process regarding living modified organisms and shall make the results of such decisions available to the public, while respecting confidential information in accordance with [Article 21](https://wetten.overheid.nl/BWBV0001513).
 
-- a. de naam en het adres van de kennisgever;
+3. Each Party shall endeavour to inform its public about the means of public access to the Biosafety Clearing-House.
 
-- b. een algemene beschrijving van het (de) gemodificeerde levende organisme(n);
+##### Article 24. Non-Parties
 
-- c. een samenvatting van de risicobeoordeling van de gevolgen voor het behoud en het duurzame gebruik van de biologische diversiteit, waarbij ook rekening wordt gehouden met de risico's voor de gezondheid van de mens; en
+1. Transboundary movements of living modified organisms between Parties and non-Parties shall be consistent with the objective of this Protocol. The Parties may enter into bilateral, regional and multilateral agreements and arrangements with non-Parties regarding such transboundary movements.
 
-- d. methoden en plannen voor noodmaatregelen.
+2. The Parties shall encourage non-Parties to adhere to this Protocol and to contribute appropriate information to the Biosafety Clearing-House on living modified organisms released in, or moved into or out of, areas within their national jurisdictions.
 
-##### Artikel 22. Capaciteitsvorming
+##### Article 25. Illegal transboundary movements
 
-1. De Partijen werken samen bij de ontwikkeling en/of versterking van de mankracht en de institutionele capaciteiten op het gebied van de bioveiligheid, met inbegrip van de biotechnologie voorzover deze nodig is voor de bioveiligheid, met het oog op de effectieve tenuitvoerlegging van dit Protocol in Partijen die ontwikkelingslanden zijn, met name de minstontwikkelde landen en de kleine eilandstaten in ontwikkeling, en de landen met een economie in overgang, onder andere via bestaande mondiale, regionale, subregionale en nationale instellingen en organisaties en indien van toepassing door de betrokkenheid van de particuliere sector te bevorderen.
+1. Each Party shall adopt appropriate domestic measures aimed at preventing and, if appropriate, penalizing transboundary movements of living modified organisms carried out in contravention of its domestic measures to implement this Protocol. Such movements shall be deemed illegal transboundary movements.
 
-2. Voor de uitvoering van het eerste lid in verband met samenwerking wordt bij de capaciteitsvorming op het gebied van de bioveiligheid volledig rekening gehouden met de behoeften van Partijen die ontwikkelingslanden zijn, met name de minstontwikkelde landen en de kleine eilandstaten in ontwikkeling, aan financiële middelen en toegang tot en overdracht van technologie en knowhow overeenkomstig de desbetreffende bepalingen van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136). Onder samenwerking op het gebied van capaciteitsvorming vallen, met inachtneming van de verschillen in de situatie, de mogelijkheden en de behoeften van elke Partij, de wetenschappelijke en technische opleiding voor een juist en veilig beheer van de biotechnologie en voor het gebruik van risicobeoordeling en risicobeheer voor de bioveiligheid en de bevordering van technologische en institutionele capaciteiten voor de bioveiligheid. Voor deze capaciteitsvorming op het gebied van de bioveiligheid wordt ook volledig rekening gehouden met de behoeften van Partijen met een economie in overgang.
+2. In the case of an illegal transboundary movement, the affected Party may request the Party of origin to dispose, at its own expense, of the living modified organism in question by repatriation or destruction, as appropriate.
 
-##### Artikel 23. Bewustmaking en participatie van het publiek
+3. Each Party shall make available to the Biosafety Clearing-House information concerning cases of illegal transboundary movements pertaining to it.
 
-1. De Partijen:
+##### Article 26. Socio-economic considerations
 
-- a. bevorderen en vergemakkelijken de bewustmaking, educatie en participatie van het publiek inzake de veilige overdracht, de veilige behandeling en het veilige gebruik van gemodificeerde levende organismen in verband met het behoud en het duurzame gebruik van de biologische diversiteit, waarbij ook rekening wordt gehouden met de risico's voor de gezondheid van de mens. Daarbij werken de Partijen waar mogelijk samen met andere Staten en internationale organen;
+1. The Parties, in reaching a decision on import under this Protocol or under its domestic measures implementing the Protocol, may take into account, consistent with their international obligations, socio-economic considerations arising from the impact of living modified organisms on the conservation and sustainable use of biological diversity, especially with regard to the value of biological diversity to indigenous and local communities.
 
-- b. trachten ervoor te zorgen dat in het kader van de bewustmaking en educatie van het publiek toegang wordt gegeven tot informatie over de overeenkomstig dit Protocol geïdentificeerde gemodificeerde levende organismen die kunnen worden ingevoerd.
+2. The Parties are encouraged to cooperate on research and information exchange on any socio-economic impacts of living modified organisms, especially on indigenous and local communities.
 
-2. De Partijen raadplegen overeenkomstig hun respectieve wetten en voorschriften het publiek bij het besluitvormingsproces inzake **gemodificeerde** levende organismen en stellen de resultaten van die besluiten met inachtneming van de vertrouwelijkheid van informatie overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=21&z=2003-09-11&g=2003-09-11) ter beschikking van het publiek.
+##### Article 27. Liability and redress
 
-3. Elke Partij streeft ernaar haar publiek voor te lichten over de middelen voor toegang van het publiek tot het uitwisselingcentrum inzake bioveiligheid.
+The Conference of the Parties serving as the meeting of the Parties to this Protocol shall, at its first meeting, adopt a process with respect to the appropriate elaboration of international rules and procedures in the field of liability and redress for damage resulting from transboundary movements of living modified organisms, analysing and taking due account of the ongoing processes in international law on these matters, and shall endeavour to complete this process within four years.
 
-##### Artikel 24. Staten die geen Partij zijn
+##### Article 28. Financial mechanism and resources
 
-1. Grensoverschrijdende verplaatsingen van gemodificeerde levende organismen tussen Partijen en Staten die geen Partij zijn, dienen verenigbaar te zijn met het doel van dit Protocol. De Partijen kunnen voor dergelijke grensoverschrijdende verplaatsingen bilaterale, regionale en multilaterale akkoorden en regelingen sluiten met Staten die geen Partij zijn.
+1. In considering financial resources for the implementation of this Protocol, the Parties shall take into account the provisions of [Article 20 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=20).
 
-2. De Partijen bevorderen dat Staten die geen Partij zijn, zich aan dit Protocol houden en het uitwisselingcentrum voor bioveiligheid relevante informatie verstrekken over gemodificeerde levende organismen die worden geïntroduceerd in of worden verplaatst naar of uit gebieden die onder hun nationale jurisdictie vallen.
+2. The financial mechanism established in [Article 21 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=21) shall, through the institutional structure entrusted with its operation, be the financial mechanism for this Protocol.
 
-##### Artikel 25. Illegale grensoverschrijdende verplaatsing
+3. Regarding the capacity-building referred to in [Article 22](https://wetten.overheid.nl/BWBV0001513) of this Protocol, the Conference of the Parties serving as the meeting of the Parties to this Protocol, in providing guidance with respect to the financial mechanism referred to in paragraph 2 above, for consideration by the Conference of the Parties, shall take into account the need for financial resources by developing country Parties, in particular the least developed and the small island developing States among them.
 
-1. Elke Partij neemt passende nationale maatregelen om grensoverschrijdende verplaatsingen van gemodificeerde levende organismen die strijdig zijn met haar nationale maatregelen tot tenuitvoerlegging van dit Protocol, te voorkomen en indien nodig te bestraffen. Dergelijke verplaatsingen worden geacht illegale grensoverschrijdende verplaatsingen te zijn.
+4. In the context of paragraph 1 above, the Parties shall also take into account the needs of the developing country Parties, in particular the least developed and the small island developing States among them, and of the Parties with economies in transition, in their efforts to identify and implement their capacity-building requirements for the purposes of the implementation of this Protocol.
 
-2. Bij een illegale grensoverschrijdende verplaatsing kan de benadeelde Partij de Partij van herkomst verzoeken op eigen kosten de betrokken gemodificeerde levende organismen te verwijderen door ze terug te nemen of eventueel te vernietigen.
+5. The guidance to the financial mechanism of the Convention in relevant decisions of the Conference of the Parties, including those agreed before the adoption of this Protocol, shall apply, *mutatis mutandis*, to the provisions of this Article.
 
-3. Elke Partij verstrekt het uitwisselingcentrum voor bioveiligheid informatie over illegale grensoverschrijdende verplaatsingen die haar betreffen.
+6. The developed country Parties may also provide, and the developing country Parties and the Parties with economies in transition avail themselves of, financial and technological resources for the implementation of the provisions of this Protocol through bilateral, regional and multilateral channels.
 
-##### Artikel 26. Sociaal-economische overwegingen
+##### Article 29. Conference of the Parties serving as the meeting of the Parties to this Protocol
 
-1. De Partijen kunnen bij het nemen van een besluit over invoer krachtens dit Protocol of krachtens hun nationale maatregelen tot tenuitvoerlegging van dit Protocol, in overeenstemming met hun internationale verplichtingen rekening houden met sociaal-economische overwegingen die voortvloeien uit de gevolgen van gemodificeerde levende organismen voor het behoud en het duurzame gebruik van de biologische diversiteit, met name gelet op de waarde van de biologische diversiteit voor autochtone en lokale gemeenschappen.
+1. The Conference of the Parties shall serve as the meeting of the Parties to this Protocol.
 
-2. De Partijen worden aangemoedigd tot samenwerking bij onderzoek en uitwisseling van informatie op het gebied van sociaal-economische gevolgen van gemodificeerde levende organismen, met name voor autochtone en lokale gemeenschappen.
+2. Parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) that are not Parties to this Protocol may participate as observers in the proceedings of any meeting of the Conference of the Parties serving as the meeting of the Parties to this Protocol. When the Conference of the Parties serves as the meeting of the Parties to this Protocol, decisions under this Protocol shall be taken only by those that are Parties to it.
 
-##### Artikel 27. Aansprakelijkheid en schadeloosstelling
+3. When the Conference of the Parties serves as the meeting of the Parties to this Protocol, any member of the bureau of the Conference of the Parties representing a Party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) but, at that time, not a Party to this Protocol, shall be substituted by a member to be elected by and from among the Parties to this Protocol.
 
-De Conferentie van de Partijen die als Vergadering van de Partijen bij dit Protocol fungeert, start tijdens haar eerste vergadering een proces voor de uitwerking van passende internationale voorschriften en procedures op het gebied van aansprakelijkheid en schadeloosstelling voor schade die voortvloeit uit de grensoverschrijdende verplaatsing van gemodificeerde levende organismen, waarbij een analyse wordt gemaakt van en voldoende rekening wordt gehouden met de ontwikkelingen binnen het internationale recht op dit gebied, en tracht dit proces binnen vier jaar af te ronden.
+4. The Conference of the Parties serving as the meeting of the Parties to this Protocol shall keep under regular review the implementation of this Protocol and shall make, within its mandate, the decisions necessary to promote its effective implementation. It shall perform the functions assigned to it by this Protocol and shall:
 
-##### Artikel 28. Financiële mechanismen en middelen
+- a) Make recommendations on any matters necessary for the implementation of this Protocol;
 
-1. Bij de bestudering van financiële middelen voor de tenuitvoerlegging van dit Protocol houden de Partijen rekening met de bepalingen van [artikel 20 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=20).
+- b) Establish such subsidiary bodies as are deemed necessary for the implementation of this Protocol;
 
-2. Het bij [artikel 21 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=21) vastgestelde financiële mechanisme is via de institutionele structuur die met het functioneren daarvan belast is, het financiële mechanisme voor dit Protocol.
+- c) Seek and utilize, where appropriate, the services and cooperation of, and information provided by, competent international organizations and intergovernmental and non-governmental bodies;
 
-3. Ten aanzien van de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=22&z=2003-09-11&g=2003-09-11) van dit Protocol bedoelde capaciteitsvorming houdt de Conferentie van de Partijen die als Vergadering van de Partijen bij dit Protocol fungeert, bij het geven van richtsnoeren voor het in het tweede lid bedoelde financiële mechanisme, ter overweging door de Conferentie van de Partijen, rekening met de behoefte aan financiële middelen van Partijen die ontwikkelingslanden zijn, met name de minstontwikkelde landen en de kleine eilandstaten in ontwikkeling.
+- d) Establish the form and the intervals for transmitting the information to be submitted in accordance with [Article 33](https://wetten.overheid.nl/BWBV0001513) of this Protocol and consider such information as well as reports submitted by any subsidiary body;
 
-4. In het kader van het eerste lid houden de Partijen eveneens rekening met de behoeften van de Partijen die ontwikkelingslanden zijn, met name de minstontwikkelde landen en de kleine eilandstaten in ontwikkeling, en van de Partijen met een economie in overgang wanneer zij trachten hun behoeften aan capaciteitsvorming met het oog op de tenuitvoerlegging van dit Protocol te bepalen en daaraan te voldoen.
+- e) Consider and adopt, as required, amendments to this Protocol and its [annexes](https://wetten.overheid.nl/BWBV0001513), as well as any additional annexes to this Protocol, that are deemed necessary for the implementation of this Protocol; and
 
-5. De richtsnoeren voor het financiële mechanisme van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) in relevante besluiten van de Conferentie van de Partijen, met inbegrip van degene die vóór de vaststelling van dit Protocol zijn goedgekeurd, zijn van overeenkomstige toepassing op de bepalingen van dit artikel.
+- f) Exercise such other functions as may be required for the implementation of this Protocol.
 
-6. Door de Partijen die ontwikkelde landen zijn en aan de Partijen die ontwikkelingslanden zijn en de Partijen met een economie in overgang kunnen ook langs bilaterale, regionale en multilaterale kanalen financiële en technologische middelen voor de tenuitvoerlegging van de bepalingen van dit Protocol ter beschikking worden gesteld.
+5. The rules of procedure of the Conference of the Parties and financial rules of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) shall be applied, mutatis mutandis, under this Protocol, except as may be otherwise decided by consensus by the Conference of the Parties serving as the meeting of the Parties to this Protocol.
 
-##### Artikel 29. Conferentie van de Partijen die als vergadering van de Partijen bij dit Protocol fungeert
+6. The first meeting of the Conference of the Parties serving as the meeting of the Parties to this Protocol shall be convened by the Secretariat in conjunction with the first meeting of the Conference of the Parties that is scheduled after the date of the entry into force of this Protocol. Subsequent ordinary meetings of the Conference of the Parties serving as the meeting of the Parties to this Protocol shall be held in conjunction with ordinary meetings of the Conference of the Parties, unless otherwise decided by the Conference of the Parties serving as the meeting of the Parties to this Protocol.
 
-1. De Conferentie van de Partijen fungeert als Vergadering van de Partijen bij dit Protocol.
+7. Extraordinary meetings of the Conference of the Parties serving as the meeting of the Parties to this Protocol shall be held at such other times as may be deemed necessary by the Conference of the Parties serving as the meeting of the Parties to this Protocol, or at the written request of any Party, provided that, within six months of the request being communicated to the Parties by the Secretariat, it is supported by at least one third of the Parties.
 
-2. Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) die geen Partij bij dit Protocol zijn, kunnen als waarnemer deelnemen aan de werkzaamheden van elke vergadering van de Conferentie van de Partijen die als Vergadering van de Partijen bij dit Protocol fungeert. Wanneer de Conferentie van de Partijen als Vergadering van de Partijen bij dit Protocol fungeert, worden besluiten krachtens dit Protocol uitsluitend genomen door de Partijen bij dit Protocol.
+8. The United Nations, its specialized agencies and the International Atomic Energy Agency, as well as any State member thereof or observers thereto not party to the Convention, may be represented as observers at meetings of the Conference of the Parties serving as the meeting of the Parties to this Protocol. Any body or agency, whether national or international, governmental or non-governmental, that is qualified in matters covered by this Protocol and that has informed the Secretariat of its wish to be represented at a meeting of the Conference of the Parties serving as a meeting of the Parties to this Protocol as an observer, may be so admitted, unless at least one third of the Parties present object. Except as otherwise provided in this Article, the admission and participation of observers shall be subject to the rules of procedure, as referred to in paragraph 5 above.
 
-3. Wanneer de Conferentie van de Partijen als Vergadering van de Partijen bij dit Protocol fungeert, wordt elk lid van het bureau van de Conferentie van de Partijen dat een Partij bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) vertegenwoordigt die op dat moment geen Partij bij dit Protocol is, vervangen door een lid dat door en uit de Partijen bij dit Protocol wordt gekozen.
+##### Article 30. Subsidiary bodies
 
-4. De Conferentie van de Partijen die als Vergadering van de Partijen bij dit Protocol fungeert, toetst geregeld de tenuitvoerlegging van dit Protocol en neemt binnen haar mandaat de besluiten die nodig zijn om de effectieve tenuitvoerlegging daarvan te bevorderen. Zij vervult de functies die haar bij dit Protocol zijn toegewezen en:
+1. Any subsidiary body established by or under the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) may, upon a decision by the Conference of the Parties serving as the meeting of the Parties to this Protocol, serve the Protocol, in which case the meeting of the Parties shall specify which functions that body shall exercise.
 
-- a. doet aanbevelingen inzake alle aangelegenheden die voor de tenuitvoerlegging van dit Protocol nodig zijn;
+2. Parties to the Convention that are not Parties to this Protocol may participate as observers in the proceedings of any meeting of any such subsidiary bodies. When a subsidiary body of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) serves as a subsidiary body to this Protocol, decisions under the Protocol shall be taken only by the Parties to the Protocol.
 
-- b. stelt hulporganen in voorzover deze nodig worden geacht voor de tenuitvoerlegging van dit Protocol;
+3. When a subsidiary body of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) exercises its functions with regard to matters concerning this Protocol, any member of the bureau of that subsidiary body representing a Party to the Convention but, at that time, not a Party to the Protocol, shall be substituted by a member to be elected by and from among the Parties to the Protocol.
 
-- c. verzoekt om en gebruikt naar behoefte de diensten van, de samenwerking met en informatie van bevoegde internationale organisaties en intergouvernementele en niet-gouvernementele organen;
+##### Article 31. Secretariat
 
-- d. stelt de vorm en de regelmaat vast voor de indiening van de informatie die overeenkomstig [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&artikel=33&z=2003-09-11&g=2003-09-11) van dit Protocol dient te worden verstrekt en onderzoekt deze informatie en de door hulporganen ingediende verslagen;
+1. The Secretariat established by [Article 24 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=24) shall serve as the secretariat to this Protocol.
 
-- e. onderzoekt en aanvaardt indien nodig wijzigingen van dit Protocol en de [Bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBV0001513&bijlage=I&z=2003-09-11&g=2003-09-11) daarvan, alsmede aanvullende Bijlagen van dit Protocol die voor de tenuitvoerlegging van dit Protocol nodig worden geacht; en
+2. [Article 24, paragraph 1, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=24) on the functions of the Secretariat shall apply, mutatis mutandis, to this Protocol.
 
-- f. vervult alle andere functies die voor de tenuitvoerlegging van dit Protocol nodig kunnen zijn.
+3. To the extent that they are distinct, the costs of the secretariat services for this Protocol shall be met by the Parties hereto. The Conference of the Parties serving as the meeting of the Parties to this Protocol shall, at its first meeting, decide on the necessary budgetary arrangements to this end.
 
-5. Het reglement van orde van de Conferentie van de Partijen en het financieel reglement van het Verdrag zijn van overeenkomstige toepassing op dit Protocol, tenzij door de Conferentie van de Partijen die als Vergadering van de Partijen bij dit Protocol fungeert bij consensus anderszins wordt besloten.
+##### Article 32. Relationship with the Convention
 
-6. De eerste vergadering van de Conferentie van de Partijen die als Vergadering van de Partijen bij dit Protocol fungeert, wordt door het Secretariaat belegd tegelijkertijd met de eerste vergadering van de Conferentie van de Partijen die na de datum van inwerkingtreding van dit Protocol wordt gehouden. Latere gewone vergaderingen van de Conferentie van de Partijen die als Vergadering van de Partijen bij dit Protocol fungeert, worden in combinatie met gewone vergaderingen van de Conferentie van de Partijen gehouden, tenzij door de Conferentie van de Partijen die als Vergadering van de Partijen bij dit Protocol fungeert anders wordt besloten.
+Except as otherwise provided in this Protocol, the provisions of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) relating to its protocols shall apply to this Protocol.
 
-7. Buitengewone vergaderingen van de Conferentie van de Partijen die als Vergadering van de Partijen bij dit Protocol fungeert, worden gehouden op andere tijdstippen die door de Conferentie van de Partijen die als Vergadering van de Partijen bij dit Protocol fungeert, nodig worden geacht of op schriftelijk verzoek van een Partij, mits het verzoek binnen zes maanden na de mededeling daarvan aan de Partijen door het Secretariaat door minimaal een derde van de Partijen wordt gesteund.
+##### Article 33. Monitoring and reporting
 
-8. De Verenigde Naties, haar gespecialiseerde organisaties en de Internationale Organisatie voor Atoomenergie, alsmede elke lidstaat daarvan of waarnemer daarbij die geen Partij bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) is, kunnen als waarnemer worden vertegenwoordigd op de Vergaderingen van de Conferentie van de Partijen die als Vergadering van de Partijen bij dit Protocol fungeert. Elke andere instelling of organisatie, nationaal of internationaal, gouvernementeel of niet-gouvernementeel, die bevoegd is op gebieden die onder dit Protocol vallen en het Secretariaat haar wens te kennen heeft gegeven op een Vergadering van de Conferentie van de Partijen die als Vergadering van de Partijen bij dit Protocol fungeert, als waarnemer te zijn vertegenwoordigd, kan als zodanig worden toegelaten, tenzij ten minste een derde van de Partijen hiertegen bezwaar maakt. Tenzij in dit artikel anders is bepaald, geldt voor de toelating en de deelneming van waarnemers het in het vijfde lid bedoelde reglement van orde.
+Each Party shall monitor the implementation of its obligations under this Protocol, and shall, at intervals to be determined by the Conference of the Parties serving as the meeting of the Parties to this Protocol, report to the Conference of the Parties serving as the meeting of the Parties to this Protocol on measures that it has taken to implement the Protocol.
 
-##### Artikel 30. Hulporganen
+##### Article 34. Compliance
 
-1. Bij of krachtens het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) ingestelde hulporganen kunnen na een besluit van de Conferentie van de Partijen die als Vergadering van de Partijen bij dit Protocol fungeert ten behoeve van het Protocol fungeren en in dat geval bepaalt de Vergadering van de Partijen welke functies dat orgaan uitoefent.
+The Conference of the Parties serving as the meeting of the Parties to this Protocol shall, at its first meeting, consider and approve cooperative procedures and institutional mechanisms to promote compliance with the provisions of this Protocol and to address cases of non-compliance. These procedures and mechanisms shall include provisions to offer advice or assistance, where appropriate. They shall be separate from, and without prejudice to, the dispute settlement procedures and mechanisms established by [Article 27 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=27).
 
-2. Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) die geen Partij bij dit Protocol zijn, kunnen als waarnemer deelnemen aan de werkzaamheden van vergaderingen van deze hulporganen. Wanneer een hulporgaan van het Verdrag fungeert als hulporgaan van dit Protocol, worden besluiten krachtens het Protocol uitsluitend door Partijen bij het Protocol genomen.
+##### Article 35. Assessment and review
 
-3. Wanneer een hulporgaan van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) zijn functies uitoefent met betrekking tot zaken die verband houden met dit Protocol, wordt elk lid van het bureau van dat hulporgaan dat een Partij bij het Verdrag vertegenwoordigt die op dat tijdstip geen Partij bij het Protocol is, vervangen door een lid dat door en uit de Partijen bij het Protocol wordt gekozen.
+The Conference of the Parties serving as the meeting of the Parties to this Protocol shall undertake, five years after the entry into force of this Protocol and at least every five years thereafter, an evaluation of the effectiveness of the Protocol, including an assessment of its procedures and annexes.
 
-##### Artikel 31. Secretariaat
+##### Article 36. Signature
 
-1. Het bij [artikel 24 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=24) ingestelde Secretariaat fungeert als Secretariaat van dit Protocol.
+This Protocol shall be open for signature at the United Nations Office at Nairobi by States and regional economic integration organizations from 15 to 26 May 2000, and at United Nations Headquarters in New York from 5 June 2000 to 4 June 2001.
 
-2. [Artikel 24, eerste lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=24) inzake de taken van het Secretariaat is van overeenkomstige toepassing op dit Protocol.
+##### Article 37. Entry into force
 
-3. Voorzover zij te onderscheiden zijn, worden de kosten van de diensten van het Secretariaat voor dit Protocol door de Partijen bij het Protocol gedragen. De Conferentie van de Partijen die als Vergadering van de Partijen bij dit Protocol fungeert, besluit tijdens haar eerste vergadering over de daartoe benodigde budgettaire bepalingen.
+1. This Protocol shall enter into force on the ninetieth day after the date of deposit of the fiftieth instrument of ratification, acceptance, approval or accession by States or regional economic integration organizations that are Parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001136).
 
-##### Artikel 32. Verhouding met het Verdrag
+2. This Protocol shall enter into force for a State or regional economic integration organization that ratifies, accepts or approves this Protocol or accedes thereto after its entry into force pursuant to paragraph 1 above, on the ninetieth day after the date on which that State or regional economic integration organization deposits its instrument of ratification, acceptance, approval or accession, or on the date on which the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) enters into force for that State or regional economic integration organization, whichever shall be the later.
 
-Tenzij in dit Protocol anderszins wordt bepaald, zijn de bepalingen van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) inzake zijn Protocollen van toepassing op dit Protocol.
+3. For the purposes of paragraphs 1 and 2 above, any instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by member States of such organization.
 
-##### Artikel 33. Toezicht en rapportage
+##### Article 38. Reservations
 
-Elke Partij houdt toezicht op de tenuitvoerlegging van haar verplichtingen krachtens dit Protocol en brengt met een regelmaat die wordt bepaald door de Conferentie van de Partijen die als Vergadering van de Partijen bij dit Protocol fungeert, verslag uit bij de Conferentie van de Partijen die als Vergadering van de Partijen bij dit Protocol fungeert over de maatregelen die zij voor de tenuitvoerlegging van het Protocol heeft genomen.
+No reservations may be made to this Protocol.
 
-##### Artikel 34. Naleving
+##### Article 39. Withdrawal
 
-De Conferentie van de Partijen die als Vergadering van de Partijen bij dit Protocol fungeert, overweegt en aanvaardt tijdens haar eerste vergadering samenwerkingsprocedures en institutionele mechanismen om de naleving van de bepalingen van dit Protocol te bevorderen en gevallen van niet-naleving aan de orde te stellen. Deze procedures en mechanismen omvatten bepalingen om waar nodig advies of bijstand aan te bieden. Ze maken geen deel uit van en doen geen afbreuk aan de in [artikel 27 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=27) vastgestelde procedures en mechanismen voor de regeling van geschillen.
+1. At any time after two years from the date on which this Protocol has entered into force for a Party, that Party may withdraw from the Protocol by giving written notification to the Depositary.
 
-##### Artikel 35. Evaluatie en toetsing
+2. Any such withdrawal shall take place upon expiry of one year after the date of its receipt by the Depositary, or on such later date as may be specified in the notification of the withdrawal.
 
-De Conferentie van de Partijen die als Vergadering van de Partijen bij dit Protocol fungeert, voert vijf jaar na de inwerkingtreding van dit Protocol en vervolgens om de vijf jaar een evaluatie van de effectiviteit van het Protocol uit, met inbegrip van een evaluatie van de procedures en de Bijlagen daarvan.
+##### Article 40. Authentic texts
 
-##### Artikel 36. Ondertekening
-
-Dit Protocol staat open voor ondertekening op het kantoor van de Verenigde Naties te Nairobi voor alle Staten en regionale organisaties voor economische integratie van 15 tot en met 26 mei 2000 en op de zetel van de Verenigde Naties te New York van 5 juni 2000 tot en met 4 juni 2001.
-
-##### Artikel 37. Inwerkingtreding
-
-1. Dit Protocol treedt in werking op de negentigste dag na de datum van nederlegging van de vijftigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding door Staten of regionale organisaties voor economische integratie die Partij zijn bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136).
-
-2. Voor een Staat of regionale organisatie voor economische integratie die dit Protocol bekrachtigt, aanvaardt of goedkeurt dan wel daartoe toetreedt na zijn inwerkingtreding overeenkomstig het eerste lid, treedt dit Protocol in werking op de negentigste dag na de datum waarop die Staat of regionale organisatie voor economische integratie zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding heeft nedergelegd of op de datum waarop het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) voor die Staat of regionale organisatie voor economische integratie in werking treedt, indien deze datum later valt.
-
-3. Voor de toepassing van het eerste en tweede lid wordt een door een regionale organisatie voor economische integratie nedergelegde akte niet meegeteld naast de door lidstaten van die organisatie nedergelegde akten.
-
-##### Artikel 38. Voorbehouden
-
-Ten aanzien van dit Protocol kan geen enkel voorbehoud worden gemaakt.
-
-##### Artikel 39. Opzegging
-
-1. Na het verstrijken van twee jaar na de datum waarop dit Protocol voor een Partij in werking is getreden, kan die Partij het Protocol te allen tijde opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris.
-
-2. De opzegging wordt van kracht na het verstrijken van een jaar na de datum waarop de Depositaris de kennisgeving van opzegging heeft ontvangen of op enige latere in bedoelde kennisgeving vermelde datum.
-
-##### Artikel 40. Authentieke teksten
-
-Het oorspronkelijke exemplaar van dit Protocol, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
+The original of this Protocol, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized to that effect, have signed this Protocol.
 

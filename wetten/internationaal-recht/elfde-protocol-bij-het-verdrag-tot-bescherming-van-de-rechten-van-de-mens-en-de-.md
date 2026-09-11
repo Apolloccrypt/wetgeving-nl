@@ -1,119 +1,85 @@
 ---
 title: "Elfde Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, betreffende herstructurering van het bij dat Verdrag ingestelde controlemechanisme"
 identifier: "BWBV0001271"
-country: "nl"
-rank: "verdrag"
-publication_date: "1998-11-01"
-last_updated: "1998-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001271"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002384833"
-version_id: "10002390772"
-internal_id: "C10006986651"
-label_id: "10002374484"
-dtd_version: "2.0"
-original_entry_into_force: "1998-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001271/1998-11-01/0"
-intitule_bron: "Trb.1994-141"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-01-21"
-intitule_published: "1994-07-01"
-intitule_in_force: "1998-04-17"
-intitule_status: "goed"
-original_publication: "Trb.1994-141"
-original_signed_date: "1997-01-21"
-original_published_date: "1994-07-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1994-141"
-entry_into_force_date: "1998-11-01"
-jci_1_3: "jci1.3:c:BWBV0001271&z=1998-11-01&g=1998-11-01"
-jci_1_0: "1.0:c:BWBV0001271&g=1998-11-01"
-citeertitel_status: "redactioneel"
-signed_date: "1997-01-21"
-entry_into_force: "1998-11-01"
+publicatiedatum: 1998-11-01
+laatste_update: 1998-11-01
+status: geldig
+toestand: 1998-11-01
+bron: "https://wetten.overheid.nl/BWBV0001271"
+opgehaald: 2026-09-11
 ---
+
 # Elfde Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, betreffende herstructurering van het bij dat Verdrag ingestelde controlemechanisme
 
-De Lidstaten van de Raad van Europa die dit Protocol bij het op 4 november 1950 te Rome ondertekende [Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) (hierna te noemen „het Verdrag”), hebben ondertekend,
+*The member States of the Council of Europe, signatories to this Protocol to the Convention for the Protection of Human Rights and Fundamental Freedoms, signed at Rome on 4 November 1950 (hereinafter referred to as “the Convention”), Considering the urgent need to restructure the control machinery established by the Convention in order to maintain and improve the efficiency of its protection of human rights and fundamental freedoms, mainly in view of the increase in the number of applications and the growing membership of the Council of Europe; Considering that it is therefore desirable to amend certain provisions of the Convention with a view, in particular, to replacing the existing European Commission and Court of Human Rights with a new permanent Court; Having regard to Resolution No. 1 adopted at the European Ministerial Conference on Human Rights, held in Vienna on 19 and 20 March 1985; Having regard to Recommendation 1194 (1992), adopted by the Parliamentary Assembly of the Council of Europe on 6 October 1992; Having regard to the decision taken on reform of the Convention control machinery by the Heads of State and Government of the Council of Europe member States in the Vienna Declaration on 9 October 1993; Have agreed as follows:*
 
-Overwegende dat het dringend noodzakelijk is het bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) ingestelde controlemechanisme te herstructureren, teneinde de doeltreffendheid van de bescherming van de rechten van de mens en de fundamentele vrijheden door het Verdrag te handhaven en te verbeteren, voornamelijk gezien de toeneming van het aantal verzoekschriften en het groeiend aantal leden van de Raad van Europa,
+##### Article I
 
-Overwegende dat het derhalve wenselijk is enkele bepalingen van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) te wijzigen teneinde, met name, de bestaande Europese Commissie en het bestaande Europese Hof voor de Rechten van de Mens te vervangen door een nieuw permanent Hof,
+*Wijzigt het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden; Rome, 04-11-1950*
 
-Gelet op Resolutie nr. 1, aangenomen op de Europese Ministeriële Conferentie inzake de rechten van de mens, gehouden te Wenen op 19 en 20 maart 1985,
+##### Article 2
 
-Gelet op Aanbeveling 1194 (1992), aangenomen door de Parlementaire Vergadering van de Raad van Europa op 6 oktober 1992,
+1. *Wijzigt het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden; Rome, 04-11-1950*
 
-Gelet op het besluit inzake hervorming van het controlemechanisme van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001000), genomen door de staatshoofden en regeringsleiders van de Lidstaten van de Raad van Europa in de Verklaring van Wenen van 9 oktober 1993,
+2. *Wijzigt het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden; Rome, 04-11-1950*
 
-Zijn het volgende overeengekomen:
+3. *Wijzigt het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden; Rome, 04-11-1950*
 
-##### Artikel 1
+4. *Wijzigt het Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden; Parijs, 20-03-1952*
 
-Wijzigt het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden; Rome, 04-11-1950
+5. *Wijzigt het Vierde Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden; Straatsburg, 16-09-1963*
 
-##### Artikel 2
+6. *Wijzigt het Zesde Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden; Straatsburg, 28-04-1983*
 
-1. Wijzigt het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden; Rome, 04-11-1950
+7. *Wijzigt het Zevende Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden; Straatsburg, 22-11-1984*
 
-2. Wijzigt het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden; Rome, 04-11-1950
+8. Protocol No. 9 shall be repealed.
 
-3. Wijzigt het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden; Rome, 04-11-1950
+##### Article 3
 
-4. Wijzigt het Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden; Parijs, 20-03-1952
+1. This Protocol shall be open for signature by member States of the Council of Europe signatories to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001000), which may express their consent to be bound by
 
-5. Wijzigt het Vierde Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden; Straatsburg, 16-09-1963
+- a) signature without reservation as to ratification, acceptance or approval; or
 
-6. Wijzigt het Zesde Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden; Straatsburg, 28-04-1983
+- b) signature subject to ratification, acceptance or approval, followed by ratification, acceptance or approval.
 
-7. Wijzigt het Zevende Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden; Straatsburg, 22-11-1984
+2. The instruments of ratification, acceptance or approval shall be deposited with the Secretary General of the Council of Europe.
 
-8. Het Negende Protocol wordt ingetrokken.
+##### Article 4
 
-##### Artikel 3
+This Protocol shall enter into force on the first day of the month following the expiration of a period of one year after the date on which all Parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) have expressed their consent to be bound by the Protocol in accordance with the provisions of Article 3. The election of new judges may take place, and any further necessary steps may be taken to establish the new Court, in accordance with the provisions of this Protocol from the date on which all Parties to the Convention have expressed their consent to be bound by the Protocol.
 
-1. Dit Protocol staat open voor ondertekening door de Lidstaten van de Raad van Europa die het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) hebben ondertekend, die blijk kunnen geven van het feit dat zij ermede instemmen te worden gebonden door middel van:
+##### Article 5
 
-- a. ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, of
+1. Without prejudice to the provisions in paragraphs 3 and 4 below, the terms of office of the judges, members of the Commission, Registrar and Deputy Registrar shall expire at the date of entry into force of this Protocol.
 
-- b. ondertekening onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, gevolgd door bekrachtiging, aanvaarding of goedkeuring.
+2. Applications pending before the Commission which have not been declared admissible at the date of the entry into force of this Protocol shall be examined by the Court in accordance with the provisions of this Protocol.
 
-2. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+3. Applications which have been declared admissible at the date of entry into force of this Protocol shall continue to be dealt with by members of the Commission within a period of one year thereafter. Any applications the examination of which has not been completed within the aforesaid period shall be transmitted to the Court which shall examine them as admissible cases in accordance with the provisions of this Protocol.
 
-##### Artikel 4
+4. With respect to applications in which the Commission, after the entry into force of this Protocol, has adopted a report in accordance with former Article 31 of the Convention, the report shall be transmitted to the parties, who shall not be at liberty to publish it. In accordance with the provisions applicable prior to the entry into force of this Protocol, a case may be referred to the Court. The panel of the Grand Chamber shall determine whether one of the Chambers or the Grand Chamber shall decide the case. If the case is decided by a Chamber, the decision of the Chamber shall be final. Cases not referred to the Court shall be dealt with by the Committee of Ministers acting in accordance with the provisions of former Article 32 of the Convention.
 
-Dit Protocol treedt in werking op de eerste dag van de maand die volgt na het verstrijken van een tijdvak van een jaar na de datum waarop alle Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) hun instemming door dit Protocol te worden gebonden tot uitdrukking hebben gebracht overeenkomstig bepalingen van artikel 3. De verkiezing van nieuwe rechters kan plaatsvinden en alle noodzakelijke stappen voor de instelling van het nieuwe Hof kunnen worden ondernomen, in overeenstemming met de bepalingen van dit Protocol, vanaf de datum waarop alle Partijen bij het Verdrag hun instemming door dit Protocol te worden gebonden tot uitdrukking hebben gebracht.
+5. Cases pending before the Court which have not been decided at the date of entry into force of this Protocol shall be transmitted to the Grand Chamber of the Court, which shall examine them in accordance with the provisions of this Protocol.
 
-##### Artikel 5
+6. Cases pending before the Committee of Ministers which have not been decided under former Article 32 of the Convention at the date of entry into force of this Protocol shall be completed by the Committee of Ministers acting in accordance with that Article.
 
-1. Onverminderd de bepalingen van het derde en vierde lid hieronder, eindigt de ambtstermijn van de rechters, de leden van de Commissie, de griffier en de plaatsvervangend griffier op de datum van inwerkingtreding van dit Protocol.
+##### Article 6
 
-2. Verzoekschriften die bij de Commissie aanhangig zijn en die op de datum van inwerkingtreding van dit Protocol nog niet ontvankelijk zijn verklaard, worden door het Hof behandeld in overeenstemming met de bepalingen van dit Protocol.
+Where a High Contracting Party had made a declaration recognising the competence of the Commission or the jurisdiction of the Court under former Article 25 or 46 of the Convention with respect to matters arising after or based on facts occurring subsequent to any such declaration, this limitation shall remain valid for the jurisdiction of the Court under this Protocol.
 
-3. Verzoekschriften die op de datum van inwerkingtreding van dit Protocol ontvankelijk zijn verklaard, worden gedurende een jaar nadien afgehandeld door leden van de Commissie. Verzoekschriften die gedurende deze termijn niet zijn afgehandeld, worden doorgezonden naar het Hof, dat ze als ontvankelijke verzoekschriften behandelt in overeenstemming met de bepalingen van dit Protocol.
+##### Article 7
 
-4. Ten aanzien van verzoekschriften waarvoor de Commissie, na de inwerkingtreding van dit Protocol, een rapport heeft aangenomen in overeenstemming met het oude artikel 31 van het Verdrag, wordt het rapport toegezonden aan de partijen, die niet de vrijheid hebben dit openbaar te maken. In overeenstemming met de bepalingen die vóór de inwerkingtreding van dit Protocol van toepassing waren, kan een zaak worden verwezen naar het Hof. Het college van de Grote Kamer beslist of één van de Kamers dan wel de Grote Kamer in de zaak uitspraak zal doen. Indien een Kamer uitspraak doet, geldt de uitspraak van de Kamer als einduitspraak. Zaken die niet naar het Hof worden verwezen, worden behandeld door het Comité van Ministers, dat handelt in overeenstemming met de bepalingen van het oude artikel 32 van het Verdrag.
+The Secretary General of the Council of Europe shall notify the member States of the Council of
 
-5. Zaken die bij het Hof aanhangig zijn en die op de datum van inwerkingtreding van dit Protocol nog niet zijn afgehandeld, worden doorgezonden naar de Grote Kamer van het Hof, die ze behandelt in overeenstemming met de bepalingen van dit Protocol.
+- a) any signature;
 
-6. Zaken die bij het Comité van Ministers aanhangig zijn en die op de datum van inwerkingtreding van dit Protocol nog niet zijn afgehandeld ingevolge het oude artikel 32 van het Verdrag, worden door het Comité van Ministers afgedaan in overeenstemming met dat artikel.
+- b) the deposit of any instrument of ratification, acceptance or approval;
 
-##### Artikel 6
+- c) the date of entry into force of this Protocol or of any of its provisions in accordance with Article 4; and
 
-Wanneer een Hoge Verdragsluitende Partij door middel van een verklaring ingevolge het oude artikel 25 of het oude artikel 46 van het Verdrag slechts de bevoegdheid van de Commissie of de rechtsmacht van het Hof heeft erkend ten aanzien van zaken die zijn ontstaan na of zijn gebaseerd op feiten die zich hebben voorgedaan na bedoelde verklaring, blijft deze beperking gelden voor de rechtsmacht van het Hof op grond van dit Protocol.
-
-##### Artikel 7
-
-De Secretaris-Generaal van de Raad van Europa stelt de Lidstaten van de Raad van Europa in kennis van:
-
-- a. iedere ondertekening;
-
-- b. de nederlegging van iedere akte van bekrachtiging, aanvaarding of goedkeuring;
-
-- c. de datum van inwerkingtreding van dit Protocol of één van de bepalingen daarvan in overeenstemming met artikel 4, en
-
-- d. iedere andere handeling, kennisgeving of mededeling met betrekking tot dit Protocol.
+- d) any other act, notification or communication relating to this Protocol.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Protocol.
 

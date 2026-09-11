@@ -9,7 +9,7 @@ laatste_update: 2026-08-26
 status: geldig
 toestand: 2026-08-26
 bron: "https://wetten.overheid.nl/BWBR0007816"
-opgehaald: 2026-09-10
+opgehaald: 2026-09-11
 ---
 
 # Besluit van 22 december 1995, houdende regels ten aanzien van de inkomsten van militairen

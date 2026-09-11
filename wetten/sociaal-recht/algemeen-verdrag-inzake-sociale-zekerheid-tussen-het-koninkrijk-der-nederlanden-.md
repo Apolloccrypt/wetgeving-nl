@@ -1,425 +1,409 @@
 ---
 title: "Algemeen Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko"
 identifier: "BWBV0001011"
-country: "nl"
-rank: "verdrag"
-publication_date: "2022-06-01"
-last_updated: "2022-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001011"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10001937943"
-version_id: "10002026442"
-internal_id: "C10006982031"
-label_id: "10001938474"
-dtd_version: "2.0"
-original_entry_into_force: "1973-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001011/2022-06-01/0"
-intitule_bron: "Trb.1972-34"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1972-06-19"
-intitule_published: "1972-03-15"
-intitule_in_force: "1973-08-31"
-intitule_status: "goed"
-original_publication: "Trb.1972-34"
-original_signed_date: "1972-06-19"
-original_published_date: "1972-03-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1972-34"
-entry_into_force_date: "1973-01-01"
-jci_1_3: "jci1.3:c:BWBV0001011&z=2022-06-01&g=2022-06-01"
-jci_1_0: "1.0:c:BWBV0001011&g=2022-06-01"
-citeertitel_status: "redactioneel"
-signed_date: "1972-06-19"
-entry_into_force: "1973-01-01"
+publicatiedatum: 1973-01-01
+laatste_update: 2022-06-01
+status: geldig
+toestand: 2022-06-01
+bron: "https://wetten.overheid.nl/BWBV0001011"
+opgehaald: 2026-09-11
 ---
+
 # Algemeen Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko
 
-Het Koninkrijk der Nederlanden
+*Le Royaume des Pays-Bas et le Royaume du Maroc, Animés du désir de régler les rapports en matière de sécurité sociale entre les deux Etats, Sont convenus de ce qui suit:*
 
-en
+### TITRE I. Dispositions générales
 
-het Koninkrijk Marokko,
+##### Article I
 
-Geleid door de wens de betrekkingen tussen beide Staten op het gebied van de sociale zekerheid te regelen,
+1. La présente Convention s'applique
 
-Zijn het volgende overeengekomen:
+- a) aux Pays-Bas: aux législations concernant l'assurance maladie (prestations en espèces et en nature en cas de maladie et de maternité); l'assurance incapacité de travail (assurance invalidité); l'assurance vieillesse; l'assurance des survivants; l'assurance chômage; les allocations familiales; l'aide sociale et les autres prestations à charge des fonds publics.
 
-## TITEL I. Algemene bepalingen
+- b) au Maroc:
 
-##### Artikel 1
+   - – à la législation sur le régime de sécurité sociale;
 
-1. Dit Verdrag is van toepassing:
+   - – à la législation sur les accidents du travail et les maladies professionnelles;
 
-- a). in Nederland: op de wettelijke regelingen betreffende de ziekteverzekering (uitkeringen en verstrekkingen bij ziekte en moederschap); de arbeidsongeschiktheidsverzekering; de ouderdomsverzekering; de nabestaandenverzekering; de werkloosheidsverzekering; de kinderbijslagen; de bijstand en de overige uitkeringen ten laste van de publieke middelen.
+   - – à la législation sur l’assurance maladie obligatoire pour les salariés du secteur privé et prévue par le code de la couverture médicale de base ;
 
-- b). in Marokko op:
+   - – aux dispositions législatives, réglementaires ou statutaires agréées par l’autorité publique relatives à des régimes particuliers de sécurité sociale en tant qu’elles couvrent des salariés ou assimilés et qu’elles concernent des risques et prestations courants de la législation sur les régimes de sécurité sociale.»
 
-- –. de wettelijke regelingen betreffende de sociale zekerheid;
+2. La présente Convention s'appliquera également à tous les actes législatifs ou réglementaires qui modifieront ou compléteront les législations énumérées au paragraphe premier du présent article.
 
-- –. de wettelijke regelingen betreffende arbeidsongevallen en beroepsziekten;
+Toutefois elle ne s'appliquera:
 
-- –. de wettelijke regelingen betreffende de verplichte ziektekostenverzekering voor loontrekkenden in de particuliere sector en voorzien in de wet op de basisziektekostenverzekering;
+- a) aux actes législatifs ou réglementaires couvrant une branche nouvelle de la sécurité sociale que si un arrangement intervient à cet effet entre les parties contractantes;
 
-- –. de door de overheid goedgekeurde wettelijke, reglementaire of statutaire bepalingen betreffende bijzondere stelsels van sociale zekerheid, voor zover deze van toepassing zijn op loontrekkenden of met hen gelijkgestelden en voor zover zij betrekking hebben op gebruikelijke risico’s en prestaties welke in de wettelijke regelingen betreffende de sociale zekerheid geregeld worden.
+- b) aux actes législatifs ou réglementaires qui étendront les régimes existants à de nouvelles catégories de bénéficiaires que s'il n'y a pas à cet égard opposition de la partie qui modifie sa législation, notifiée au gouvernement de l'autre partie, dans un délai de trois mois à dater de la publication officielle desdits textes.
 
-2. Dit Verdrag is eveneens van toepassing op alle wetten of regelingen, waarbij de wettelijke regelingen, genoemd in het eerste lid van dit artikel, worden gewijzigd of aangevuld.
+3. Pour l’application de la présente Convention  :
 
-Het is evenwel slechts van toepassing:
+en ce qui concerne le Maroc : le terme territoire désigne le territoire du Maroc et les zones sur lesquelles le Maroc exerce sa juridiction ou ses droits souverains y compris la mer territoriale et au-delà de celle-ci, la zone économique exclusive et les zones adjacentes aux eaux territoriales du Maroc, aux fins de l’exploitation et de l’exploration des ressources naturelles des fonds marins, de leur sous-sol (plateau continental) et des eaux sur-jacentes;
 
-- a). op wetten of regelingen welke betrekking hebben op een nieuwe tak van sociale zekerheid, indien daartoe een nadere overeenkomst tussen de Verdragsluitende Partijen wordt gesloten;
+en ce qui concerne les Pays-Bas: le territoire de la partie européenne des Pays-Bas et les zones adjacentes aux eaux territoriales de cette partie, y compris la mer territoriale et au-delà de celle-ci, la zone économique exclusive et les zones sur lesquelles le Royaume des Pays-Bas exerce sa juridiction ou ses droits souverains aux fins de l’exploitation et de l’exploration des ressources naturelles des fonds marins, de leur sous-sol (plateau continental) et des eaux sur-jacentes.
 
-- b). op wetten of regelingen welke de werking van de bestaande regelingen uitbreiden tot nieuwe groepen van rechthebbenden, indien de Partij welke haar wettelijke regelingen wijzigt, daartegen niet binnen drie maanden na de officiële bekendmaking van bedoelde teksten bezwaar maakt bij de Regering van de andere Partij.
+##### Article 2
 
-3. Voor de toepassing van dit Verdrag wordt:
+1. À moins qu'il n'en soit autrement disposé par la présente Convention, la présente Convention s'applique aux travailleurs salariés ou assimilés qui sont ou ont été soumis à la législation de l'une des parties contractantes et qui sont des ressortissants de l'une des parties, ainsi qu'aux membres de leurs familles et à leurs survivants.
 
-wat betreft Marokko, onder de term „grondgebied” verstaan het grondgebied van Marokko en de gebieden waarin Marokko rechtsmacht of soevereine rechten uitoefent, met inbegrip van de territoriale zee en daarbuiten de exclusieve economische zone en de gebieden die grenzen aan de territoriale wateren van Marokko, met het oog op de exploitatie en exploratie van natuurlijke rijkdommen op de zeebodem, de ondergrond daarvan (continentaal plat) en de wateren daarboven;
+2. Les dispositions de la présente Convention ne sont applicables ni aux agents diplomatiques et consulaires de carrière, ni aux fonctionnaires appartenant au cadre des chancelleries.
 
-wat betreft Nederland, het grondgebied van het Europese deel van Nederland en de gebieden grenzend aan de territoriale wateren van deze partij, met inbegrip van de territoriale zee en daarbuiten de exclusieve economische zone en de gebieden waarin het Koninkrijk der Nederlanden rechtsmacht of soevereine rechten uitoefent met het oog op de exploitatie en exploratie van natuurlijke rijkdommen op de zeebodem, de ondergrond daarvan (continentaal plat) en de wateren daarboven.
+3. L'application des dispositions de la présente Convention aux gens de mer est subordonnée à la conclusion d'un accord particulier.
 
-##### Artikel 2
+##### Article 3
 
-1. Tenzij in dit Verdrag anders wordt bepaald, is dit Verdrag van toepassing op de werknemers of de met hen gelijkgestelden op wie de wettelijke regelingen van een van de Verdragsluitende Partijen van toepassing zijn of geweest zijn en die onderdaan zijn van een van de Partijen, alsmede op hun gezinsleden en hun nabestaanden.
+A moins qu'il n'en soit autrement disposé par la présente Convention les ressortissants de l'une des parties contractantes auxquelles cette Convention est applicable, sont soumis aux obligations et sont admis au bénéfice des législations de l'autre partie dans les mêmes conditions que les ressortissants de cette partie.
 
-2. De bepalingen van dit Verdrag zijn niet van toepassing op diplomatieke en consulaire beroepsambtenaren, noch op kanselarijbeambten.
+##### Article 4
 
-3. De toepassing van dit Verdrag op zeelieden is afhankelijk van een daartoe te sluiten bijzondere overeenkomst.
+En vue de l'acquisition, du maintien ou du recouvrement du droit aux prestations, lorsqu'un travailleur salarié ou assimilé a été soumis successivement ou alternativement à la législation des deux parties contractantes, les périodes d'emploi ou d'assurance accomplies en vertu de la législation de chacune des parties contractantes ainsi que les périodes reconnues équivalentes sont totalisées, pour autant qu'elles ne se superposent pas.
 
-##### Artikel 3
+##### Article 5
 
-Tenzij in dit Verdrag anders wordt bepaald, zijn onderdanen van een der Verdragsluitende Partijen op wie dit Verdrag van toepassing is, onder dezelfde voorwaarden als de onderdanen van de andere Partij onderworpen aan de verplichtingen en gerechtigd tot de voordelen, voortvloeiende uit de wettelijke regelingen van die andere Partij.
+1. Sous réserve des dispositions des [articles 26](https://wetten.overheid.nl/BWBV0001011), [35a](https://wetten.overheid.nl/BWBV0001011), [35b](https://wetten.overheid.nl/BWBV0001011) et [35d](https://wetten.overheid.nl/BWBV0001011) ci-dessous, les prestations en espèces d’invalidité, de vieillesse, ou de survivants, les allocations de décès et les allocations familiales acquises au titre de la législation de l’une des Parties Contractantes ne peuvent subir aucune réduction, ni modification, ni suspension, ni suppression, ni confiscation du fait que le bénéficiaire ou l’enfant réside sur le territoire de la Partie Contractante autre que celui où se trouve l’institution débitrice.
 
-##### Artikel 4
+2. Le paragraphe précédent est aussi applicable aux prestations en vertu de la loi sur l'assurance incapacité de travail des travailleurs indépendants (WAZ).
 
-Wanneer een werknemer of een met hem gelijkgestelde achtereenvolgens of afwisselend aan de wettelijke regelingen van beide Verdragsluitende Partijen onderworpen is geweest, worden met het oog op het verkrijgen, het behoud of het herstel van het recht op prestaties, de tijdvakken van arbeid of van verzekering welke krachtens de wettelijke regelingen van elk der Verdragsluitende Partijen zijn vervuld, alsmede de daarmede gelijkgestelde tijdvakken voor zover zij niet samenvallen, samengeteld.
+3. Les paragraphes précédents sont également applicables aux personnes non ressortissantes de l'une des parties contractantes.
 
-##### Artikel 5
+### TITRE II. Dispositions déterminant la législation applicable
 
-1. Onder voorbehoud van de bepalingen van de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=III&hoofdstuk=5&artikel=26&z=2022-06-01&g=2022-06-01), [35a](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=V&artikel=35a&z=2022-06-01&g=2022-06-01), [35b](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=V&artikel=35b&z=2022-06-01&g=2022-06-01) en 35d kunnen de uitkeringen bij arbeidsongeschiktheid, bij ouderdom of aan nabestaanden, de uitkeringen bij overlijden en de kinderbijslagen verkregen op grond van de wettelijke regelingen van een van de Verdragsluitende Partijen, op generlei wijze worden verminderd, gewijzigd, geschorst, ingetrokken of verbeurd verklaard op grond van het feit dat de rechthebbende of het kind woont op het grondgebied van een andere Verdragsluitende Partij dan die op het grondgebied waarvan het orgaan dat de uitkering verschuldigd is, zich bevindt.
+##### Article 6
 
-2. Het voorgaande lid is eveneens van toepassing op de uitkeringen uit hoofde van de Wet op de arbeidsongeschiktheidsverzekering zelfstandigen (WAZ).
+1. Pour l'application des dispositions déterminant la législation applicable contenues dans le titre II, et à moins que la présente Convention n'en dispose autrement, le travailleur salarié ou assimilé est exclusivement soumis à la législation d'une seule Partie.
 
-3. De voorgaande leden zijn eveneens van toepassing op personen die geen onderdanen zijn van een van de Verdragsluitende Partijen.
+2. Sous réserve des dispositions des articles 7 à 9, les travailleurs salariés ou assimilés occupés sur le territoire de l'une des Parties Contractantes sont soumis à la législation de cette Partie, même s'ils résident habituellement sur le territoire de l'autre Partie ou si leur employeur ou l'entreprise qui les occupe a son domicile ou son siège sur le territoire de l'autre Partie.
 
-## TITEL II. Bepalingen ter vaststelling van de toe te passen wettelijke regelingen
+3. Les travailleurs salariés ou assimilés qui sont occupés à bord d'un navire ou d'un aéronef au service d'une entreprise qui a son siège sur le territoire de l'une des Parties Contractantes sont soumis à la législation de cette Partie, même s'ils résident habituellement sur le territoire de l'autre Partie.
 
-##### Artikel 6
+4. Si en vertu des dispositions de ce titre, un travailleur est soumis à la législation d'une Partie Contractante sur le territoire de laquelle il ne réside pas, cette législation lui est applicable comme s'il résidait sur le territoire de cette Partie.
 
-1. Voor de toepassing van het in titel II bepaalde ter vaststelling van de toe te passen wettelijke regelingen, zijn op de werknemer of de met hem gelijkgestelde uitsluitend de wettelijke regelingen van een der Partijen van toepassing, tenzij in dit Verdrag iets anders wordt bepaald.
+##### Article 7
 
-2. Onverminderd het bepaalde in de artikelen 7 tot en met 9, zijn op werknemers of met hen gelijkgestelden die werkzaam zijn op het grondgebied van een der Verdragsluitende Partijen, de wettelijke regelingen van deze Partij van toepassing, zelfs indien zij gewoonlijk op het grondgebied van de andere Partij wonen of indien de woonplaats van hun werkgever of het hoofdkantoor van de onderneming waarbij zij werkzaam zijn, zich op het grondgebied van de andere Partij bevindt.
+Les règles énoncées à l'article précédent comportent les exceptions suivantes:
 
-3. Op werknemers of met hen gelijkgestelden die werkzaam zijn aan boord van een schip of een luchtvaartuig en die in dienst zijn van een onderneming die op het grondgebied van een Verdragsluitende Partij is gevestigd, zijn de wettelijke regelingen van deze Partij van toepassing, zelfs indien zij gewoonlijk op het grondgebied van de andere Partij wonen.
+- a) les travailleurs salariés ou assimilés, occupés dans un pays autre que celui de leur résidence habituelle par une entreprise ayant dans le pays de cette résidence un établissement dont les intéressés relèvent normalement, demeurent soumis aux législations en vigueur dans le pays de leur lieu de travail habituel, pour autant que leur occupation sur le territoire du deuxième pays ne se prolonge pas au delà de douze mois; dans le cas où cette occupation, se prolongeant pour des motifs imprévisibles au delà de la durée primitivement prévue, excéderait douze mois, l'application des législations en vigueur dans le pays du lieu de travail habituel pourra exceptionnellement être reconduite pour une durée de douze mois au maximum, avec l'accord de l'autorité compétente du pays du lieu de travail temporaire;
 
-4. Indien, krachtens het in deze titel bepaalde, op een werknemer van toepassing zijn de wettelijke regelingen van een Verdragsluitende Partij op het grondgebied waarvan hij niet woont, zijn deze wettelijke regelingen op hem van toepassing alsof hij op het grondgebied van deze Partij woonde.
+- b) les travailleurs salariés ou assimilés des transports internationaux occupés en qualité de personnel ambulant au service d'une entreprise ayant son siège sur le territoire de l'une des parties contractantes sont soumis à la législation de la partie contractante sur le territoire de laquelle l'entreprise a son siège; toutefois, s'ils sont occupés par une succursale ou une représentation permanente que ladite entreprise possède sur le territoire de l'autre partie ils sont soumis à la législation de cette dernière partie.
 
-##### Artikel 7
+##### Article 8
 
-Op de in het vorige artikel neergelegde regels gelden de volgende uitzonderingen:
+1. Sans préjudice des dispositions du paragraphe 2 de l'article 2, les dispositions de l'article 6 sont applicables aux travailleurs salariés ou assimilés occupés dans les postes diplomatiques ou consulaires des parties contractantes ou qui sont au service personnel d'agents de ces postes.
 
-- a). op werknemers of met hen gelijkgestelden die in een ander land dan waarin zij wonen, zijn tewerkgesteld door een onderneming welke in het land van hun woonplaats een inrichting heeft waaraan zij normaal verbonden zijn, blijven de wettelijke regelingen van het land waar zij plegen te werken van toepassing, voor zover hun tewerkstelling op het grondgebied van het andere land niet langer dan twaalf maanden duurt; ingeval deze tewerkstelling, zo zij om onvoorziene redenen de aanvankelijk voorziene duur zou overschrijden, langer dan twaalf maanden duurt, kunnen met toestemming van de bevoegde autoriteit van het land waar de tijdelijke werkzaamheden worden verricht, bij wijze van uitzondering, de wettelijke regelingen van het land waar zij plegen te werken voor een tweede tijdvak van ten hoogste twaalf maanden van toepassing blijven;
+2. Toutefois, les travailleurs visés au paragraphe premier du présent article qui sont des ressortissants de la partie contractante représentée par la mission diplomatique ou le poste consulaire en question peuvent opter, dans un délai de six mois après le commencement de leur emploi ou de l'entrée en vigueur de la présente Convention, pour l'application de la législation de l'Etat représenté. L'option n'a pas un effet rétroactif; elle ne peut être exercée qu'une seule fois.
 
-- b). op werknemers of met hen gelijkgestelden die als rijdend, varend of vliegend personeel bij het internationale vervoer werkzaam zijn in dienst van een onderneming welke op het grondgebied van een der Verdragsluitende Partijen is gevestigd, zijn de wettelijke regelingen van de Verdragsluitende Partij op het grondgebied waarvan de onderneming is gevestigd, van toepassing; indien zij evenwel werkzaam zijn bij een filiaal of een vaste vertegenwoordiging van die onderneming op het grondgebied van de andere Partij, zijn op hen de wettelijke regelingen van laatstbedoelde Partij van toepassing.
+##### Article 9
 
-##### Artikel 8
+Les autorités compétentes des parties contractantes peuvent prévoir, d'un commun accord, pour certains travailleurs ou groupes de travailleurs des exceptions aux dispositions des articles 6 à 8 de la présente Convention, quant à la législation applicable.
 
-1. Onverminderd het bepaalde in het tweede lid van artikel 2 is artikel 6 van toepassing op werknemers of met hen gelijkgestelden die bij de diplomatieke of consulaire vertegenwoordigingen der Verdragsluitende Partijen werkzaam zijn of in persoonlijke dienst van ambtenaren van deze vertegenwoordigingen zijn.
+### TITRE III. Dispositions particulières
 
-2. De in het eerste lid van dit artikel bedoelde werknemers die onderdaan zijn van de Verdragsluitende Partij welke door de desbetreffende diplomatieke of consulaire vertegenwoordiging wordt vertegenwoordigd, mogen evenwel, binnen een termijn van zes maanden na de aanvang van hun werkzaamheden of de inwerkingtreding van dit Verdrag, kiezen voor toepassing van de wettelijke regelingen van de vertegenwoordigde Staat. De keuze heeft geen terugwerkende kracht en kan slechts eenmaal worden gedaan.
+### CHAPITRE 1. Maladie et maternité
 
-##### Artikel 9
+##### Article 10
 
-De bevoegde autoriteiten van de Verdragsluitende Partijen kunnen voor bepaalde werknemers of groepen werknemers met betrekking tot de toepasselijke wettelijke regelingen in gemeen overleg uitzonderingen vaststellen op de artikelen 6 tot en met 8 van dit Verdrag.
+1. Le travailleur salarié ou assimilé ayant accompli des périodes d'assurance au titre de la législation de l'une des Parties Contractantes et qui se rend sur le territoire de l'autre Partie a droit, pour lui-même et les membres de sa famille qui se trouvent sur ledit territoire, aux prestations de l'assurance maladie-maternité prévues par la législation de la dernière Partie pour autant qu'il remplit les conditions requises par la législation de cette Partie, compte tenu de la totalisation des périodes visées à l'article 4 de la présente Convention.
 
-## TITEL III. Bijzondere bepalingen
+2. Si le travailleur salarié ou assimilé qui était assuré en vertu de la législation de l'une des Parties Contractantes s'est rendu sur le territoire de l'autre Partie et ne remplit pas les conditions requises pour bénéficier des prestations en vertu de la législation de la dernière Partie, et lorsque ce travailleur a encore droit à prestations en vertu de la législation de la première Partie ou qu'il aurait ce droit s'il se trouvait sur le territoire de cette Partie, il conserve ce droit. Dans ce cas, ce travailleur et les membres de sa famille bénéficient des prestations en nature, lorsque leur état vient à nécessiter immédiatement ces prestations. Les [paragraphes 2, 3, 4 et 5 de l’article 11](https://wetten.overheid.nl/BWBV0001011) sont applicables par analogie.
 
-### HOOFDSTUK I. Ziekte en moederschap
+##### Article 11
 
-##### Artikel 10
+1. *Vervallen.*
 
-1. De werknemer of de met hem gelijkgestelde die tijdvakken van verzekering heeft vervuld krachtens de wettelijke regelingen van een der Verdragsluitende Partijen en zich naar het grondgebied van de andere Partij begeeft, heeft voor zichzelf en voor zijn gezinsleden die zich op dat grondgebied bevinden, recht op de prestaties ingevolge de ziekte- en moederschapsverzekering, als voorzien in de wettelijke regelingen van laatstbedoelde Partij, voor zover hij aan de door de wettelijke regelingen van deze Partij gestelde voorwaarden voldoet, de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=I&artikel=4&z=2022-06-01&g=2022-06-01) van dit Verdrag bedoelde samentelling van tijdvakken in aanmerking genomen.
+2. Un travailleur salarié ou assimilé, admis au bénéfice des prestations à la charge d'une institution de l'une des Parties Contractantes, qui réside sur le territoire de ladite Partie conserve ce bénéfice, lorsqu'il transfère sa résidence sur le territoire de l'autre Partie Contractante. Toutefois, avant le transfert, le travailleur doit obtenir l'autorisation de l'institution compétente. L'autorisation ne peut être refusée que si le déplacement de l'intéressé est de nature à compromettre son état de santé ou l'application d'un traitement médical.
 
-2. Indien de werknemer of de met hem gelijkgestelde die ingevolge de wettelijke regelingen van een der Verdragsluitende Partijen verzekerd was, zich naar het grondgebied van de andere Partij heeft begeven en niet aan de gestelde voorwaarden voldoet om de prestaties krachtens de wettelijke regelingen van de laatstgenoemde Partij te ontvangen, en wanneer deze werknemer nog recht heeft op prestaties ingevolge de wettelijke regelingen van de eerstgenoemde Partij of hierop recht zou hebben indien hij zich op het grondgebied van die Partij bevond, behoudt hij dit recht. In dat geval ontvangen deze werknemer en zijn gezinsleden verstrekkingen wanneer hun toestand deze verstrekkingen onmiddellijk noodzakelijk maakt. Het [tweede, derde, vierde en vijfde lid van artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=III&hoofdstuk=I&artikel=11&z=2022-06-01&g=2022-06-01) zijn op overeenkomstige wijze van toepassing.
+3. Lorsqu'un travailleur salarié ou assimilé a droit aux prestations conformément aux dispositions du paragraphe précédent, les prestations en nature sont servies à la charge de l'institution compétente par l’institution du lieu de résidence selon les dispositions de la législation appliquée par ladite institution, en particulier en ce qui concerne l'étendue et les modalités du service des prestations en nature: toutefois la durée du service de ces prestations est celle prévue par la législation de l'Etat compétent.
 
-##### Artikel 11
+4. Dans les cas prévus au paragraphe 2 du présent article, l'octroi des prothèses, du grand appareillage et d'autres prestations en nature d'une grande importance est subordonné - sauf en cas d'urgence absolue - à la condition que l'institution compétente en donne l'autorisation. Avec l'approbation des autorités compétentes des Parties Contractantes les organismes de liaison prévus dans l'arrangement administratif pour l'application de la présente Convention établissent une liste des prestations en nature auxquelles le présent paragraphe est applicable.
 
-1. Vervallen.
+5. Lors d’un séjour ou dans le cas d’un transfert de résidence sur le territoire de l’autre Partie Contractante, les prestations en espèces sont servies par l’institution compétente selon les dispositions de la législation qu’elle applique.
 
-2. Een werknemer of een met hem gelijkgestelde die recht op prestaties heeft verkregen ten laste van een orgaan van een der Verdragsluitende Partijen, en die woont op het grondgebied van bedoelde Partij, behoudt dat recht wanneer hij zijn woonplaats naar het grondgebied van de andere Verdragsluitende Partij overbrengt. Voor de overbrenging moet de werknemer echter de toestemming hebben ontvangen van het bevoegde orgaan. De toestemming kan slechts worden geweigerd indien verplaatsing van de betrokkene nadelig is voor zijn gezondheidstoestand of voor de toepassing van een geneeskundige behandeling.
+6. En ce qui concerne les prestations en nature, les dispositions des paragraphes précédents sont applicables par analogie aux membres de la famille du travailleur salarié ou assimilé.
 
-3. Wanneer een werknemer of een met hem gelijkgestelde overeenkomstig het in het voorgaande lid bepaalde recht heeft op prestaties, worden de verstrekkingen ten laste van het bevoegde orgaan verleend door het orgaan van de woonplaats volgens de bepalingen van de door het genoemde orgaan toegepaste wettelijke regeling, in het bijzonder met betrekking tot de omvang en de wijze van toepassing van de verstrekkingen: voor de duur van deze verstrekkingen is echter de wettelijke regeling van de bevoegde Staat bepalend.
+##### Article 12
 
-4. In de in het tweede lid van dit artikel bedoelde gevallen is voor de toekenning van protheses, hulpmiddelen van grotere omvang en andere verstrekkingen van groot belang – behalve bij onmiskenbare spoedgevallen – de toestemming van het bevoegde orgaan vereist. Met goedkeuring van de bevoegde autoriteiten van de Verdragsluitende Partijen stellen de in het Administratief Akkoord voor de toepassing van dit Verdrag bedoelde verbindingsorganen een lijst op van de verstrekkingen waarop dit lid van toepassing is.
+1. Le travailleur salarié ou assimilé qui réside sur le territoire d'une Partie Contractante autre que l'Etat compétent et satisfait aux conditions requises par la législation de l'Etat compétent pour avoir droit aux prestations, compte tenu, le cas échéant, des dispositions de l'article 4, bénéficie sur le territoire de la Partie Contractante où il réside:
 
-5. Tijdens een verblijf of in het geval van het overbrengen van de woonplaats naar het grondgebied van de andere Verdragsluitende Partij worden de uitkeringen betaald door het bevoegde orgaan overeenkomstig de wettelijke regelingen die dit orgaan toepast.
+- a) des prestations en nature, servies à la charge de l'institution compétente, par l'institution du lieu de résidence, selon les dispositions de la législation que cette dernière institution applique, comme s'il y était affilié;
 
-6. Met betrekking tot verstrekkingen is het in de voorgaande leden bepaalde van overeenkomstige toepassing op de gezinsleden van de werknemer of de met hem gelijkgestelde.
+- b) des prestations en espèces, servies par l'institution compétente, selon les dispositions de la législation qu'elle applique, comme s'il résidait sur le territoire de l'Etat compétent.
 
-##### Artikel 12
+2. En ce qui concerne le bénéfice des prestations en nature, les dispositions du paragraphe précédent sont applicables par analogie aux membres de la famille qui résident sur le territoire d'une Partie Contractante autre que l'Etat compétent. Toutefois, lorsque les membres de la famille ont droit aux prestations en vertu de la législation de la Partie Contractante sur le territoire de laquelle ils résident, les dispositions du présent article ne leur sont pas applicables.
 
-1. De werknemer of de met hem gelijkgestelde die woont op het grondgebied van een Verdragsluitende Partij die niet de bevoegde Staat is en die voldoet aan de door de wettelijke regelingen van de bevoegde Staat gestelde voorwaarden om recht te hebben op prestaties, met inachtneming van, in voorkomend geval, het onder artikel 4 bepaalde, ontvangt op het grondgebied van de Overeenkomstsluitende Partij waar hij woont:
+##### Article 13
 
-- a. verstrekkingen, verleend ten laste van het bevoegde orgaan door het orgaan van de woonplaats, overeenkomstig de wettelijke regelingen die op dit laatstgenoemde orgaan van toepassing zijn, alsof hij hierbij was aangesloten;
+1. Lorsque le titulaire de pensions dues au titres des législations des deux Parties Contractantes a droit aux prestations en nature au titre de la législation de la Partie Contractante sur le territoire de laquelle il réside, compte tenu, le cas échéant, des dispositions de l'article 4, ces prestations sont servies à ce titulaire et aux membres de sa famille par l'institution du lieu de résidence et à la charge de cette institution, comme s'il était titulaire d'une pension due au titre de la seule législation de cette dernière Partie.
 
-- b. uitkeringen, betaald door het bevoegde orgaan, overeenkomstig de wettelijke regelingen die op dit orgaan van toepassing zijn, alsof hij op het grondgebied van de bevoegde Staat woonde.
+2. Lorsque le titulaire d'une pension due au titre de la législation d'une Partie Contractante ou de pensions dues au titre des législations des deux Parties Contractantes, n'a pas droit aux prestations en nature au titre de la législation de la Partie Contractante sur le territoire de laquelle il réside, il bénéficie néanmoins de ces prestations, ainsi que les membres de sa famille, pour autant qu'il ait droit auxdites prestations en vertu de la législation de la première Partie, compte tenu, le cas échéant, des dispositions de l'article 4, ou qu'il y aurait droit, s'il résidait sur le territoire de cette Partie. Les prestations en nature sont servies par l'institution du lieu de résidence, selon les dispositions de la législation qu'elle applique, comme si l'intéressé avait droit auxdites prestations en vertu de cette législation, mais la charge en incombe à l'institution compétente.
 
-2. Met betrekking tot het ontvangen van verstrekkingen is het in het vorige lid bepaalde van overeenkomstige toepassing op gezinsleden die wonen op het grondgebied van een Verdragsluitende Partij die niet de bevoegde Staat is. Wanneer de gezinsleden echter recht hebben op prestaties krachtens de wettelijke regelingen van de Verdragsluitende Partij op het grondgebied waarvan zij wonen, is het in dit artikel bepaalde op hen niet van toepassing.
+3. Lorsque le titulaire d'une pension due au titre de la législation d'une Partie Contractante ou de pensions dues au titre des législations des deux Parties Contractantes réside sur le territoire de l'Etat compétent, les membres de sa famille qui résident sur le territoire de l'autre Partie Contractante bénéficient des prestations en nature comme si le titulaire résidait sur le même territoire qu'eux. Ces prestations sont servies par l'institution du lieu de résidence des membres de la famille, selon les dispositions de la législation qu'elle applique, comme s'ils avaient droit audites prestations en vertu de cette législation, mais la charge en incombe à l'institution compétente.
 
-##### Artikel 13
+4. Si les membres de la famille visées au paragraphe précédent transfèrent leur résidence sur le territoire de la Partie Contractante où réside le titulaire, ils bénéficient des prestations, selon les dispositions de la législation de cette Partie, même s'ils ont déjà bénéficié des prestations pour le même cas de maladie ou de maternité avant le transfert de leur résidence.
 
-1. Wanneer de pensioengerechtigde aan wie krachtens de wettelijke regelingen van beide Verdragsluitende Partijen pensioenen zijn verschuldigd, recht heeft op verstrekkingen krachtens de wettelijke regelingen van de Verdragsluitende Partij op het grondgebied waarvan hij woont, met inachtneming van, in voorkomend geval, het in artikel 4 bepaalde, worden deze verstrekkingen aan deze pensioengerechtigde en zijn gezinsleden verleend door het orgaan van de woonplaats en ten laste van dit orgaan, alsof hij uitsluitend pensioengerechtigd was krachtens de wettelijke regelingen van deze laatste Partij.
+5. *Vervallen.*
 
-2. Wanneer de pensioengerechtigde aan wie krachtens de wettelijke regelingen van een Verdragsluitende Partij een pensioen is verschuldigd of aan wie krachtens de wettelijke regelingen van beide Verdragsluitende Partijen pensioenen zijn verschuldigd, geen recht heeft op verstrekkingen krachtens de wettelijke regelingen van de Verdragsluitende Partij op het grondgebied waarvan hij woont, ontvangen hij en zijn gezinsleden desalniettemin deze verstrekkingen, voor zover hij, met inachtneming van, in voorkomend geval, het in artikel 4 bepaalde, krachtens de wettelijke regelingen van de eerstgenoemde Partij recht heeft op de genoemde verstrekkingen, of daarop recht zou hebben, indien hij op het grondgebied van deze Partij woonde. De verstrekkingen worden verleend door het orgaan van de woonplaats, overeenkomstig de door dit orgaan toegepaste wettelijke regelingen, alsof de betrokkene krachtens deze wettelijke regelingen recht zou hebben op de genoemde verstrekkingen, maar deze komen ten laste van het bevoegde orgaan.
+6. *Vervallen.*
 
-3. Wanneer de pensioengerechtigde aan wie krachtens de wettelijke regelingen van een Verdragsluitende Partij een pensioen is verschuldigd of aan wie krachtens de wettelijke regelingen van beide Verdragsluitende Partijen pensioenen zijn verschuldigd, op het grondgebied van de bevoegde Staat woont, ontvangen zijn gezinsleden die op het grondgebied van de andere Verdragsluitende Partij wonen verstrekkingen alsof de pensioengerechtigde op hetzelfde grondgebied woonde als zij. Deze verstrekkingen worden verleend door het orgaan van de woonplaats van de gezinsleden, overeenkomstig de door dit orgaan toegepaste wettelijke regelingen, alsof zij krachtens deze wettelijke regelingen recht hadden op de genoemde verstrekkingen, maar deze komen ten laste van het bevoegde orgaan.
+La durée de service de ces prestations est celle prévue par la législation de l'Etat compétent. Les dispositions de l'article 11, paragraphe 4 sont applicables par analogie.
 
-4. Indien de in het vorige lid bedoelde gezinsleden hun woonplaats overbrengen naar het grondgebied van de Verdragsluitende Partij waar de pensioengerechtigde woont, ontvangen zij de prestaties volgens de wettelijke regelingen van die Partij, zelfs indien zij voor overbrenging van hun woonplaats reeds voor hetzelfde geval van ziekte of moederschap prestaties hebben ontvangen.
+7. Si la législation d'une Partie Contractante prévoit des retenues de cotisation à la charge du titulaire de pension pour la garantie des prestations en nature, l'institution de cette Partie, qui est débitrice d'une pension, est autorisée à opérer ces retenues lorsque la charge des prestations en nature incombe à une institution de ladite Partie en vertu du présent article.
 
-5. Vervallen.
+8. Les dispositions du présent article ne sont pas applicables aux membres de la famille qui ont un droit propre aux prestations en nature en vertu de la législation de la Partie Contractante sur le territoire de laquelle ils résident.
 
-6. Vervallen.
+##### Article 14
 
-7. Indien de wettelijke regelingen van een Verdragsluitende Partij voorzien in inhouding van premies ten laste van de pensioengerechtigde om de verstrekkingen te waarborgen, is het orgaan van deze Partij, dat een pensioen verschuldigd is, gemachtigd tot deze inhoudingen over te gaan, wanneer de verstrekkingen krachtens dit lid ten laste komen van een orgaan van de genoemde Partij.
+*Vervallen*
 
-8. Het in dit artikel bepaalde is niet van toepassing op de gezinsleden die zelf recht hebben op verstrekkingen krachtens de wettelijke regelingen van de Verdragsluitende Partij op het grondgebied waarvan zij wonen.
+##### Article 15
 
-##### Artikel 14
+1. Les prestations en nature servies en vertu des dispositions de ce chapitre font l'objet d'un remboursement de la part des institutions compétentes ou des institutions du lieu de résidence, selon le cas, à celles qui les ont servies.
 
-Vervallen
+2. Les remboursements sont déterminés et effectués selon les modalités à fixer par un arrangement administratif, soit sur justification des dépenses effectives, soit sur la base d'un forfait.
 
-##### Artikel 15
+### CHAPITRE 2. Invalidité
 
-1. De krachtens de bepalingen van de in dit hoofdstuk verleende verstrekkingen worden door de bevoegde organen of de organen van de woonplaats, al naar gelang het geval, vergoed aan de organen die de verstrekkingen hebben verleend.
+##### Article 16
 
-2. De vergoedingen worden vastgesteld en vinden plaats overeenkomstig de in een administratief akkoord vast te stellen regels, hetzij aan de hand van de werkelijke kosten, hetzij op basis van een vast bedrag.
+1. Les prestations en espèces sont liquidées, conformément aux dispositions de la législation qui était applicable à l'intéressé au moment où est survenue l'incapacité de travail suivie d'invalidité et sont supportées par l'institution compétente aux termes de cette législation.
 
-### HOOFDSTUK 2. Invaliditeit
+2. S'il résulte de l'application du paragraphe précédent que les prestations sont dues par la législation marocaine, les périodes d'assurance accomplies préalablement sous la législation néerlandaise sont considérées comme des périodes d'assurance marocaine, pour la détermination du montant des prestations.
 
-##### Artikel 16
+##### Article 17
 
-1. De uitkeringen worden vastgesteld overeenkomstig de wettelijke regelingen welke op het tijdstip waarop de arbeidsongeschiktheid met daaropvolgende invaliditeit is ontstaan, op de belanghebbende van toepassing waren en komen ten laste van het volgens deze wettelijke regelingen bevoegde orgaan.
+Si, compte tenu de la totalisation des périodes d'assurance visée à l'article 4 de la présente Convention l'intéressé ne satisfait pas aux conditions pour l'octroi d'une prestation en espèces d'invalidité de la législation qui lui est applicable au moment où est survenue l'incapacité de travail suivie d'invalidité et lorsqu'il a encore droit à prestations en vertu de la législation de la partie contractante sur le territoire de laquelle il était assuré immédiatement avant, ou qu'il aurait ce droit s'il se trouvait sur ledit territoire, il bénéficie de ces prestations dans le pays où il s'est rendu. Ces prestations sont à la charge de l'institution de la partie visée ci-dessus conformément aux dispositions de la législation de celle-ci.
 
-2. Indien toepassing van het vorige lid tot gevolg heeft dat de uitkeringen krachtens de Marokkaanse wettelijke regelingen verschuldigd zijn, worden verzekeringstijdvakken welke voordien krachtens de Nederlandse wettelijke regelingen zijn vervuld, voor de vaststelling van het bedrag van de uitkeringen als Marokkaanse verzekeringstijdvakken beschouwd.
+##### Article 18
 
-##### Artikel 17
+1. Si, après suspension de la pension ou de la prestation d'invalidité, l'assuré recouvre son droit, le service des prestations est repris par l'organisme débiteur de la pension ou de la prestation primitivement accordée lorsque l'état d'invalidité est imputable à la maladie ayant motivé l'attribution de cette pension ou prestation.
 
-Indien, rekening houdend met de samentelling van de verzekeringstijdvakken als bedoeld in artikel 4 van dit Verdrag, de belanghebbende niet voldoet aan de voorwaarden voor toekenning van een invaliditeitsuitkering ingevolge de wettelijke regelingen welke ten tijde van het intreden van de arbeidsongeschiktheid met daaropvolgende invaliditeit op hem van toepassing waren, terwijl hij nog recht heeft op uitkeringen krachtens de wettelijke regelingen van de Verdragsluitende Partij op het grondgebied waarvan hij onmiddellijk daaraan voorafgaande verzekerd was, of hij daarop recht zou hebben indien hij zich op genoemd grondgebied bevond, ontvangt hij deze uitkeringen in het land waarheen hij zich heeft begeven. Deze uitkeringen komen ten laste van het orgaan van bovenbedoelde Partij, overeenkomstig de wettelijke regelingen van deze Partij.
+2. Si, après suppression de la pension ou de la prestation d'invalidité, l'état de l'assuré justifie l'octroi d'une nouvelle pension ou prestation, cette dernière pension ou prestation est liquidée suivant les règles fixées à l'article 16.
 
-##### Artikel 18
+### CHAPITRE 3. Vieillesse et décès
 
-1. Indien de verzekerde na schorsing van het invaliditeitspensioen of de invaliditeitsuitkering zijn recht herkrijgt, hervat het orgaan dat het oorspronkelijk toegekende pensioen of de oorspronkelijk toegekende uitkering verschuldigd was, de uitbetaling wanneer de invaliditeit is toe te schrijven aan de ziekte welke geleid heeft tot toekenning van dit pensioen of die uitkering.
+##### Article 19
 
-2. Indien de toestand van de verzekerde na intrekking van het invaliditeitspensioen of de invaliditeitsuitkering, de hernieuwde toekenning van een pensioen of een uitkering rechtvaardigt, wordt laatstgenoemd pensioen of laatstgenoemde uitkering overeenkomstig artikel 16 vastgesteld.
+Les prestations auxquelles un assuré qui a été soumis à la législation des deux parties contractantes peut prétendre en vertu de la législation marocaine sont liquidées de la manière suivante:
 
-### HOOFDSTUK 3. Ouderdom en overlijden
+- a) L'institution marocaine détermine, d'après sa propre législation, si l'intéressé réunit les conditions requises pour avoir droit aux prestations prévues par cette législation, compte tenu de la totalisation des périodes visée à l'article 4 de la présente Convention.
 
-##### Artikel 19
+- b) Si le droit est acquis en vertu de l'alinéa précédent, ladite institution détermine, pour ordre, le montant de la prestation à laquelle l'intéressé aurait droit si toutes les périodes d'assurance, totalisées suivant les modalités visées à l'article 4 de la présente Convention, avaient été accomplies exclusivement sous sa propre législation; sur la base dudit montant, l'institution fixe le montant dû au prorata de la durée des périodes accomplies sous ladite législation avant la réalisation du risque par rapport à la durée totale des périodes d'assurance accomplies ou reconnues équivalentes en vertu des législations des parties contractantes; ce montant constitue la prestation due à l'intéressé par l'institution marocaine.
 
-De uitkeringen waarop een verzekerde die aan de wettelijke regelingen van beide Verdragsluitende Partijen onderworpen is geweest, krachtens de Marokkaanse wettelijke regelingen aanspraak kan maken, worden op de volgende wijze vastgesteld:
+##### Article 20
 
-- a). het Marokkaanse orgaan bepaalt, overeenkomstig de eigen wettelijke regelingen, of de belanghebbende, de in artikel 4 van dit Verdrag bedoelde samentelling van tijdvakken in aanmerking genomen, voldoet aan de voorwaarden om aanspraak te kunnen maken op de in die wettelijke regelingen bedoelde uitkeringen;
+Les institutions néerlandaises calculent les pensions de vieillesse directement et exclusivement en fonction des périodes d'assurance accomplies en vertu de leur propre législation.
 
-- b). indien krachtens de vorige alinea recht op uitkering bestaat, berekent bedoeld orgaan eerst het bedrag van de uitkering, waarop de belanghebbende recht zou hebben, indien alle tijdvakken van verzekering, samengeteld op de in artikel 4 van dit Verdrag aangegeven wijze, uitsluitend krachtens de eigen wettelijke regelingen zouden zijn vervuld; op basis van genoemd bedrag stelt het orgaan het bedrag van de verschuldigde uitkering vast naar verhouding van de duur van de tijdvakken welke vóór de verzekerde gebeurtenis volgens bedoelde wettelijke regelingen zijn vervuld, tot de gezamenlijke duur van de tijdvakken van verzekering of daarmee gelijkgestelde tijdvakken welke krachtens de wettelijke regelingen van beide Verdragsluitende Partijen zijn vervuld; dit bedrag vormt de uitkering welke door het Marokkaanse orgaan aan de belanghebbende verschuldigd is.
+##### Article 21
 
-##### Artikel 20
+1. La réduction visée à l'article 13, paragraphe 1 de l'AOW (Loi générale sur l'assurance vieillesse) n'est pas applicable aux périodes antérieures à la date d'entrée en vigueur de la présente Convention, durant lesquelles, entre sa 15e et sa 65e année, la conjointe ou la veuve n'était pas assurée en vertu de la législation précitée tout en résidant durant le mariage sur le territoire du Royaume du Maroc, pour autant que ces périodes coïncident avec les périodes d'assurance accomplies par son mari sous cette législation.
 
-De Nederlandse organen berekenen de ouderdomspensioenen rechtstreeks en uitsluitend op basis van de krachtens de eigen wettelijke regelingen vervulde tijdvakken van verzekering.
+2. La réduction visée à l'article 13, paragraphe 2 de l'AOW n'est pas applicable aux périodes antérieures à la date d'entrée en vigueur de la présente Convention, durant lesquelles la conjointe du titulaire, entre sa 15e et sa 65e année, n'était pas assuré en vertu de la législation précitée tout en résidant pendant le mariage sur le territoire du Royaume du Maroc, pour autant que ces périodes coïncident avec les périodes d'assurance accomplies par son mari sous cette législation.
 
-##### Artikel 21
+3. Par dérogation aux dispositions de l'article 45, paragraphe 1 de l'AOW et de l'article 47, paragraphe 1 de l'AWW (Loi générale sur l'assurance des veuves et des orphelins), le conjoint d'un travailleur salarié soumis au régime d'assurance obligatoire, résidant sur le territoire du Royaume du Maroc, est autorisé à s'assurer volontairement en vertu de ces législations seulement pour les périodes postérieures à la date d'entrée en vigueur de la présente Convention durant lesquelles le travailleur salarié est soumis à l'assurance obligatoire en vertu de ces législations. Cette autorisation prend fin à partir du jour où se termine la période d'assurance obligatoire du travailleur salarié. Toutefois, cette autorisation ne prend pas fin lorsque l'assurance obligatoire du travailleur salarié a été interrompue par suite du décès du travailleur et lorsque le conjoint susmentionné ne bénéficie que d'une pension en vertu de l'AWW. En tout état de cause, l'autorisation d'assurance volontaire prend fin à partir du jour où l'assuré volontaire atteint l'âge de 65 ans.
 
-1. De in artikel 13, eerste lid, van de AOW (Algemene Ouderdomswet) bedoelde korting is niet van toepassing op de voor de datum van inwerkingtreding van dit Verdrag gelegen tijdvakken gedurende welke de echtgenote of weduwe na het bereiken van de 15-jarige leeftijd en voor het bereiken van de 65-jarige leeftijd niet verzekerd was krachtens de voornoemde wettelijke regeling terwijl zij, gedurende haar huwelijk, op het grondgebied van het Koninkrijk Marokko woonde, voor zover deze tijdvakken overeenkomen met de door haar echtgenoot krachtens deze wettelijke regeling vervulde tijdvakken van verzekering.
+La cotisation au titre de l'assurance volontaire susvisée due par ledit conjoint d'un travailleur salarié qui était soumis à l'assurance obligatoire AOW/AWW immédiatement avant la date d'entrée en vigueur de la présente Convention, est fixée conformément aux dispositions relatives à la fixation de la cotisation d'assurance obligatoire, étant entendue que les revenus du conjoint sont, dans ce cas, censés avoir été perçus aux Pays-Bas.
 
-2. De in artikel 13, tweede lid, van de AOW bedoelde korting is niet van toepassing op de voor de datum van inwerkingtreding van dit Verdrag gelegen tijdvakken gedurende welke de echtgenote van de rechthebbende na het bereiken van de 15-jarige leeftijd en voor het bereiken van de 65-jarige leeftijd niet verzekerd was krachtens de voornoemde wettelijke regeling terwijl zij, gedurende haar huwelijk, op het grondgebied van het Koninkrijk Marokko woonde, voor zover deze tijdvakken overeenkomen met de door haar echtgenoot krachtens deze wettelijke regeling vervulde tijdvakken van verzekering.
+Pour ledit conjoint d'un travailleur salarié devenu assuré obligatoire à la date d'entrée en vigueur de la présente Convention ou postérieurement à cette date, la cotisation est fixée conformément aux dispositions relatives à la fixation de la cotisation d'assurance volontaire en vertu de l'AOW et de l'AWW.
 
-3. In afwijking van het bepaalde in artikel 45, eerste lid, van de AOW en in artikel 47, eerste lid, van de AWW (Algemene Weduwen- en Wezenwet), is de op het grondgebied van het Koninkrijk Marokko wonende echtgenoot van een werknemer die onderworpen is aan het stelsel van verplichte verzekering uitsluitend bevoegd zich krachtens deze wettelijke regelingen vrijwillig te verzekeren over tijdvakken gelegen na de datum van inwerkingtreding van dit Verdrag, gedurende welke de werknemer krachtens deze wettelijke regelingen verplicht verzekerd is. Deze bevoegdheid eindigt op de dag waarop het tijdvak van verplichte verzekering van de werknemer eindigt. Deze bevoegdheid eindigt echter niet wanneer de verplichte verzekering van de werknemer onderbroken is ten gevolge van het overlijden van de werknemer en wanneer de bovengenoemde echtgenoot slechts een pensioen ontvangt krachtens de AWW. In ieder geval eindigt de bevoegdheid zich vrijwillig te verzekeren op de dag waarop de vrijwillig verzekerde de leeftijd van 65 jaar bereikt.
+4. L'autorisation visée au paragraphe précédent n'est accordée que:
 
-De premie voor de bovengenoemde vrijwillige verzekering, verschuldigd door de echtgenoot van een werknemer die onmiddellijk voorafgaand aan de datum van inwerkingtreding van dit Verdrag volgens de AOW en de AWW verplicht verzekerd was, wordt vastgesteld overeenkomstig het bepaalde met betrekking tot de vaststelling van de premie voor de verplichte verzekering, met dien verstande dat de inkomsten van de echtgenoot in dit geval geacht worden in Nederland te zijn ontvangen.
+- – si ledit conjoint du travailleur salarié a notifié à la Sociale Verzekeringsbank, dans un délai d'un an au plus suivant le début de la période d'assurance obligatoire de ce dernier, son intention de cotiser volontairement:
 
-De premie voor de echtgenoot van een werknemer die op of na de datum van inwerkingtreding van dit Verdrag verplicht verzekerde is geworden, wordt vastgesteld overeenkomstig het bepaalde met betrekking tot de vaststelling van de premie voor de vrijwillige verzekering ingevolge de AOW en de AWW.
+- – si ledit conjoint d'un travailleur salarié, devenu assuré obligatoire à la date d'entrée en vigueur de la présente Convention ou immédiatement avant cette date, a notifié à la Sociale Verzekeringsbank dans un délai d'un an au plus qui prend cours à la date d'entrée en vigueur de ladite modification son intention de cotiser volontairement.
 
-4. De in het voorgaande lid bedoelde bevoegdheid wordt slechts verleend:
+5. Les dispositions visées aux paragraphes 1, 2 et 3 ne sont pas applicables aux périodes qui coïncident avec les périodes prises en considération pour le calcul d'une pension due au titre de la législation d'un autre Etat que les Pays-Bas en matière d'assurance vieillesse ni aux périodes pendant lesquelles l'intéressé a bénéficié d'une pension de vieillesse en vertu d'une telle législation.
 
-- –. indien de genoemde echtgenoot van de werknemer de Sociale Verzekeringsbank binnen een termijn van ten hoogste een jaar, volgend op het begin van het tijdvak van verplichte verzekering van laatstgenoemde in kennis heeft gesteld van zijn voornemen vrijwillig premie te betalen;
+##### Article 22
 
-- –. indien de genoemde echtgenoot van de werknemer, die op de datum van inwerkingtreding van dit Verdrag of onmiddellijk voorafgaand aan die datum verplicht verzekerde is geworden, de Sociale Verzekeringsbank binnen een termijn van ten hoogste een jaar, te rekenen vanaf de datum van inwerkingtreding van de genoemde wijziging, in kennis heeft gesteld van zijn voornemen vrijwillig premie te betalen.
+1. Lorsqu'au moment de son décès un travailleur auquel s'applique la présente Convention est assuré en vertu de la législation marocaine et qu'il a accompli des périodes d'assurance sous la législation néerlandaise concernant les prestations de survivants, sa veuve a droit à une pension au titre de cette dernière législation.
 
-5. De in het eerste, tweede en derde lid bedoelde bepalingen zijn niet van toepassing op de tijdvakken die samenvallen met tijdvakken die in aanmerking worden genomen voor de berekening van een pensioen dat is verschuldigd ingevolge de wettelijke regeling inzake ouderdomsverzekering van een andere Staat dan Nederland en evenmin op tijdvakken gedurende welke de betrokkene een ouderdomspensioen heeft genoten ingevolge een dergelijke wettelijke regeling.
+2. Le montant de la pension, visée au paragraphe précédent, est calculé sur la base du rapport existant entre la durée d'assurance effective individuelle du défunt sous la législation néerlandaise concernant les prestations de survivants et la durée d'assurance maximale possible sous cette législation pour le même assuré.
 
-##### Artikel 22
+##### Article 23
 
-1. Wanneer een werknemer op wie dit Verdrag van toepassing is, op het tijdstip van zijn overlijden verzekerd is krachtens de Marokkaanse wettelijke regelingen, en tijdvakken van verzekering volgens de Nederlandse wettelijke regelingen inzake uitkeringen aan nagelaten betrekkingen heeft vervuld, kan zijn weduwe op een pensioen krachtens laatstgenoemde wettelijke regelingen aanspraak maken.
+La pension de veuve est éventuellement répartie entre les bénéficiaires dans les conditions prévues par le statut personnel de l'assuré. Les modalités d'application du présent article seront fixées par un arrangement administratif.
 
-2. Het bedrag van het pensioen, bedoeld in het vorige lid, wordt berekend op basis van de verhouding welke bestaat tussen de werkelijke individuele verzekeringsduur van de overledene volgens de Nederlandse wettelijke regelingen inzake uitkeringen aan nagelaten betrekkingen en de voor dezelfde verzekerde maximaal mogelijke verzekeringsduur volgens deze wettelijke regelingen.
+### CHAPITRE 4. Accidents du travail et maladies professionnelles
 
-##### Artikel 23
+##### Article 24
 
-Het weduwenpensioen wordt eventueel tussen de rechthebbenden verdeeld naar de omstandigheden bepaald door de persoonlijke rechtstoestand van de verzekerde. De wijze van toepassing van dit artikel zal in een administratief akkoord worden geregeld.
+Le travailleur admis au bénéfice des prestations en nature doit, avant de transférer sa résidence, obtenir l'autorisation de l'institution débitrice desdites prestations. Cette institution ne peut refuser l'autorisation que si le déplacement de l'intéressé est de nature à compromettre son état de santé ou l'application d'un traitement médical.
 
-### HOOFDSTUK 4. Arbeidsongevallen en beroepsziekten
+##### Article 25
 
-##### Artikel 24
+En cas de transfert de résidence, l'octroi des prothèses, du grand appareillage et d'autres prestations en nature d'une grande importance est subordonné, sauf en cas d'urgence absolue, à la condition que l'institution d'affiliation en donne l'autorisation.
 
-De werknemer die recht op verstrekkingen heeft verkregen moet, alvorens van woonplaats te veranderen, toestemming hebben van het orgaan dat die verstrekkingen verschuldigd is. Dit orgaan mag deze toestemming alleen weigeren, indien verandering van woonplaats van de betrokkene nadelig is voor zijn gezondheidstoestand of voor het ondergaan van een geneeskundige behandeling.
+### CHAPITRE 5. Allocations familiales
 
-##### Artikel 25
+##### Article 26
 
-Bij verandering van woonplaats worden prothesen, hulpmiddelen van grotere omvang en andere belangrijke verstrekkingen, behalve in onmiskenbare spoedgevallen, slechts verschaft als het orgaan waarbij de belanghebbende is aangesloten, daartoe machtiging heeft verleend.
+1. Sous réserve des dispositions des [articles 35b](https://wetten.overheid.nl/BWBV0001011) et [35d](https://wetten.overheid.nl/BWBV0001011), les allocations familiales dues en vertu de la législation néerlandaise à un bénéficiaire dont les enfants résident au Maroc sont payés directement à la personne qui a la charge de ces enfants au Maroc.
 
-### HOOFDSTUK 5. Kinderbijslag
+2. Sous réserve des dispositions de[l’article 35d](https://wetten.overheid.nl/BWBV0001011), les allocations familiales dues en vertu de la législation marocaine à un travailleur dont les enfants résident aux Pays-Bas sont payés directement à la personne qui a la charge de ces enfants aux Pays-Bas.
 
-##### Artikel 26
+3. Les modalités d'application du présent article seront fixées par un arrangement administratif.
 
-1. Onder voorbehoud van de bepalingen van de [artikelen 35b](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=V&artikel=35b&z=2022-06-01&g=2022-06-01) en 35d, wordt de kinderbijslag die krachtens de Nederlandse wettelijke regelingen verschuldigd is aan een rechthebbende wiens kinderen in Marokko wonen, rechtstreeks uitbetaald aan degene die in Marokko met de zorg voor deze kinderen is belast.
+### CHAPITRE 6. Chômage
 
-2. Onder voorbehoud van de bepalingen van artikel 35d, wordt de kinderbijslag die krachtens de Marokkaanse wettelijke regelingen verschuldigd is aan een werknemer wiens kinderen in Nederland wonen, rechtstreeks uitbetaald aan degene die in Nederland met de zorg voor deze kinderen is belast.
+##### Article 27
 
-3. De wijze van toepassing van dit artikel zal in een administratief akkoord geregeld worden.
+Le travailleur salarié ou assimilé d'une des parties contractantes qui s'est rendu sur le territoire de l'autre partie a droit, aussi longtemps qu'il se trouve sur ledit territoire, aux prestations de chômage prévues par la législation de la seconde partie contractante, aux conditions suivantes:
 
-### HOOFDSTUK 6. Werkloosheid
+- a) être admis au travail conformément aux dispositions de la législation concernant le placement des travailleurs étrangers;
 
-##### Artikel 27
+- b) satisfaire aux conditions requises par la législation de la seconde partie contractante, compte tenu de la totalisation des périodes visées à l'article 4 de la présente Convention.
 
-De werknemer of de met hem gelijkgestelde van een der Verdragsluitende Partijen die zich naar het grondgebied van de andere Partij heeft begeven, heeft, zolang hij zich op bedoeld grondgebied bevindt, recht op werkloosheidsuitkering ingevolge de wettelijke regelingen van laatstbedoelde Partij, onder de volgende voorwaarden:
+### CHAPITRE 7. Aide sociale
 
-- a). tewerkgesteld zijn overeenkomstig de wettelijke regelingen inke de tewerkstelling van buitenlandse werknemers;
+##### Article 27a
 
-- b). voldoen aan de door de wettelijke regelingen van laatstbedoelde Partij gestelde voorwaarden, de in artikel 4 van dit Verdrag bedoelde samentelling van tijdvakken in aanmerking genomen.
+Les ressortissants marocains résidant sur le territoire des Pays-Bas ont droit aussi longtemps qu'ils se trouvent sur ledit territoire aux prestations d'aide sociale ou à d'autres prestations à charge des fonds publics prévues par la législation néerlandaise conformément aux conditions requises par cette législation.
 
-### HOOFDSTUK 7. Bijstand
+### TITRE IV. Dispositions diverses
 
-##### Artikel 27a
+##### Article 28
 
-Marokkaanse onderdanen die op het grondgebied van Nederland wonen, hebben even lang als zij zich op genoemd grondgebied bevinden, recht op de in de Nederlandse wettelijke regelingen bedoelde bijstandsuitkeringen of andere uitkeringen ten laste van de publieke middelen overeenkomstig de in die wettelijke regelingen vereiste voorwaarden.
+Les autorités compétentes:
 
-## TITEL IV. Diverse bepalingen
+- 1. prennent tout arrangement administratif nécessaire à l'application de la présente Convention, notamment relatif à la vérification des données nécessaires pour déterminer la légitimité des prestations en espèce et en nature en vertu des législations visées à l'article 1.
 
-##### Artikel 28
+- 2. se communiqueront toutes informations concernant les mesures prises pour l'application de la présente Convention;
 
-De bevoegde autoriteiten:
+- 3. se communiqueront toutes informations concernant les modifications de leur législation susceptibles de modifier son application.
 
-1. treffen de administratieve regelingen welke voor de uitvoering van dit Verdrag nodig zijn, in het bijzonder regelingen inzake de verificatie van de gegevens benodigd voor de vaststelling van de rechtmatigheid van uitkeringen en verstrekkingen uit hoofde van de in artikel 1 bedoelde wettelijke regelingen.
+##### Article 29
 
-2. verstrekken elkaar alle inlichtingen omtrent de ter uitvoering van dit Verdrag genomen maatregelen;
+1. Pour l'application de la présente Convention les autorités et les institutions chargées de l'exécution de la présente Convention se prêteront leurs bons offices et agiront comme s'il s'agissait de l'application de leur propre législation.
 
-3. verstrekken elkaar alle inlichtingen omtrent de wijzigingen in hun wettelijke regelingen, waardoor de uitvoering van dit Verdrag kan worden gewijzigd.
+2. Les institutions et les autorités de chacune des parties contractantes peuvent aux fins de l'application de la présente Convention, communiquer directement les unes avec les autres, ainsi qu'avec les personnes intéressées ou leurs mandataires.
 
-##### Artikel 29
+##### Article 30
 
-1. Bij de toepassing van dit Verdrag zijn de autoriteiten en de met de uitvoering van dit Verdrag belaste organen elkaar behulpzaam en handelen zij als betrof het de toepassing van hun eigen wettelijke regelingen.
+1. Le bénéfice des exemptions ou réductions de taxes, de droits de timbre, de greffe ou d'enregistrement, prévu par la législation de l'une des parties contractantes pour les pièces ou documents à produire en application de la législation de cette partie, est étendu aux pièces et documents analogues à produire en application de la législation de l'autre partie contractante ou de la présente Convention.
 
-2. Bij de toepassing van dit Verdrag kunnen de organen en de autoriteiten van elk der Verdragsluitende Partijen zich rechtstreeks met elkaar en met de belanghebbenden of hun gemachtigden in verbinding stellen.
+2. Tous actes, documents et pièces quelconques à produire pour l'exécution de la présente Convention sont dispensés du visa de légalisation des autorités diplomatiques et consulaires et des droits de chancellerie.
 
-##### Artikel 30
+##### Article 31
 
-1. De vrijstelling of verlaging van rechten, zegelrechten, griffie- of registratierechten, waarin bij de wettelijke regelingen van een der Verdragsluitende Partijen is voorzien voor bescheiden of documenten welke ter uitvoering van de wettelijke regelingen van deze Partij moeten worden overgelegd, geldt eveneens voor overeenkomstige bescheiden en documenten welke ter uitvoering van de wettelijke regelingen van de andere Verdragsluitende Partij of van dit Verdrag dienen te worden overgelegd.
+1. Les institutions correspondront, aux fins de l'application de la présente Convention, directement entre elles dans la langue française.
 
-2. Alle akten, documenten en bescheiden van welke aard ook welke ter uitvoering van dit Verdrag moeten worden overgelegd, zijn vrijgesteld van legalisatie door diplomatieke of consulaire autoriteiten en van kanselarijrechten.
+2. Les institutions et les autorités de l'une des parties contractantes ne peuvent rejeter les requêtes ou autres documents qui leur sont adressés du fait qu'ils sont rédigés dans la langue officielle de l'autre partie contractante.
 
-##### Artikel 31
+##### Article 32
 
-1. Voor de toepassing van dit Verdrag voeren de organen rechtstreeks briefwisseling met elkaar in de Franse taal.
+Les demandes, déclarations ou recours qui auraient dû être présentés aux fins de l'application de la législation de l'une des parties contractantes, dans un délai déterminé auprès d'une autorité, d'une institution ou d'un autre organisme de cette partie, sont recevables s'ils sont présentés dans le même délai auprès d'une autorité, d'une institution ou d'un autre organisme correspondant de l'autre partie contractante. Dans ce cas, l'autorité, l'institution ou l'organisme ainsi saisi transmet, sans retard, ces demandes, déclarations ou recours, après y avoir annoté la date de réception, à l'autorité, l'institution ou l'organisme compétent de la première partie soit directement, soit par l'intermédiaire des autorités compétentes des parties contractantes.
 
-2. De organen en autoriteiten van een Verdragsluitende Partij mogen verzoekschriften of andere documenten welke hun toegezonden worden, niet afwijzen op grond van het feit dat deze in de officiële taal van de andere Verdragsluitende Partij zijn gesteld.
+##### Article 33
 
-##### Artikel 32
+1. Les institutions d'une partie contractante qui, en vertu de la présente Convention, sont débitrices de prestations en espèces au regard des bénéficiaires se trouvant sur le territoire de l'autre partie contractante s'en libèrent valablement dans la monnaie de la première partie; quand elles sont débitrices de sommes au regard d'institutions se trouvant sur le territoire de l'autre partie contractante, elles sont tenues de les liquider dans la monnaie de cette dernière partie.
 
-Aanvragen, verklaringen of beroepschriften welke ter uitvoering van de wettelijke regelingen van een der Verdragsluitende Partijen binnen een bepaalde termijn moeten worden ingediend bij een autoriteit, orgaan of ander lichaam van deze Partij, zijn ontvankelijk indien zij binnen dezelfde termijn bij een overeenkomstige autoriteit, orgaan of ander lichaam van de andere Verdragsluitende Partij worden ingediend. In dat geval zal de autoriteit, het orgaan of het lichaam waarop aldus een beroep wordt gedaan deze aanvragen, verklaringen of beroepschriften, na daarop de datum van ontvangst te hebben vermeld, onverwijld doen toekomen aan de bevoegde autoriteit, het bevoegde orgaan of het bevoegde lichaam van eerstbedoelde Partij, hetzij rechtstreeks, hetzij door bemiddeling van de bevoegde autoriteiten van de Verdragsluitende Partijen.
+2. Les transferts de sommes que comporte l'exécution de la présente Convention auront lieu conformément aux accords ou aux règles en cette matière en vigueur entre les deux parties contractantes au moment du transfert.
 
-##### Artikel 33
+##### Article 34
 
-1. De organen van een Verdragsluitende Partij welke op grond van dit Verdrag uitkeringen verschuldigd zijn aan rechthebbenden die zich op het grondgebied van de andere Verdragsluitende Partij bevinden, kunnen het verschuldigde rechtens voldoen in de valuta van eerstbedoelde Partij; wanneer zij gelden verschuldigd zijn aan organen welke zich op het grondgebied van de andere Verdragsluitende Partij bevinden, moeten zij die gelden betalen in de valuta van deze Partij.
+1. Tout différend entre les parties contractantes concernant l'interprétation ou l'application de la présente Convention fera l'objet de négociations directes entre les autorités compétentes des parties contractantes.
 
-2. Overmaking van gelden, voortvloeiende uit de toepassing van dit Verdrag, heeft plaats krachtens de overeenkomsten en regelen welke terzake op het tijdstip van overmaking tussen beide Verdragsluitende Partijen van kracht zijn.
+2. Si le différend ne peut être ainsi résolu dans un délai de six mois à dater du début des négociations, il sera soumis à une commission arbitrale dont la composition et la procédure seront déterminées par un accord entre les gouvernements des parties contractantes. La commission arbitrale devra résoudre le différend selon les principes fondamentaux et l'esprit de la présente Convention. Ses décisions seront obligatoires et définitives.
 
-##### Artikel 34
+##### Article 34a
 
-1. Over elk geschil tussen de Verdragsluitende Partijen met betrekking tot de uitlegging of toepassing van dit Verdrag, zal rechtstreeks tussen de bevoegde autoriteiten van de Verdragsluitende Partijen worden onderhandeld.
+Les modalités particulières d'application des législations des Parties Contractantes sont mentionnées dans un Protocole Final qui constitue une partie intégrante de la présente Convention.
 
-2. Indien het geschil op deze wijze niet binnen zes maanden na de aanvang van de onderhandelingen kan worden opgelost, wordt het voorgelegd aan een scheidsrechterlijke commissie, waarvan de samenstelling en de procedure in een overeenkomst tussen de regeringen van de Verdragsluitende Partijen worden vastgelegd.
+### TITRE V. Dispositions transitoires et finales
 
-De scheidsrechterlijke commissie moet het geschil volgens de grondbeginselen en in de geest van dit Verdrag beslechten. Haar beslissingen zijn bindend en niet vatbaar voor beroep.
+##### Article 35
 
-##### Artikel 34a
+1. La présente Convention n'ouvre aucun droit au paiement de prestations pour une période antérieure à la date de son entrée en vigueur.
 
-De nadere bepalingen voor de toepassing van de wettelijke regelingen van de Verdragsluitende Partijen zijn vermeld in een Slotprotocol dat een integrerend bestanddeel van dit Verdrag vormt.
+2. Toute période d'assurance accomplie en vertu de la législation de l'une des parties contractantes avant la date d'entrée en vigueur de la présente Convention est prise en considération pour la détermination du droit aux prestations s'ouvrant conformément aux dispositions de la présente Convention.
 
-## TITEL V. Overgangs- en slotbepalingen
+3. Sous réserve des dispositions du paragraphe premier du présent article, une pension ou rente est due en vertu de la présente Convention, même si elle se rapporte à un événement antérieur à la date de son entrée en vigueur. A cet effet, toute pension ou rente qui n'a pas été liquidée ou qui a été suspendue à cause de la nationalité de l'intéressé ou en raison de sa résidence sur le territoire de l'autre partie contractante, sera, à la demande de l'intéressé, liquidée ou rétablie à partir de l'entrée en vigueur de la présente Convention.
 
-##### Artikel 35
+4. Quant aux droits résultant de l'application du paragraphe précédent, les dispositions prévues par les législations ides parties contractantes en ce qui concerne la déchéance et la prescription des droits ne sont pas opposables aux intéressés, si la demande en est présentée dans un délai de deux ans à compter de l'entrée en vigueur de la présente Convention. Si la demande est présentée après l'expiration de ce délai le droit aux prestations qui n'est pas frappé de déchéance ou qui n'est pas prescrit est acquis à partir de la date de la demande à moins que les dispositions plus favorables de la législation d'une partie contractante ne soient applicables.
 
-1. Aan dit Verdrag kan geen enkel recht op betaling van uitkeringen worden ontleend voor een tijdvak dat aan zijn inwerkingtreding voorafgaat.
+##### Article 35a
 
-2. Voor het vaststellen van het recht op uitkeringen overeenkomstig de bepalingen van dit Verdrag wordt elk tijdvak van verzekering, vóór de datum van inwerkingtreding van dit Verdrag krachtens de wettelijke regelingen van een der Verdragsluitende Partijen vervuld, in aanmerking genomen.
+En dérogation au premier paragraphe de[l’article 5](https://wetten.overheid.nl/BWBV0001011) de la présente Convention, les dispositions suivantes s’appliquent pour les prestations suivantes :
 
-3. Onverminderd het bepaalde in het eerste lid van dit artikel is krachtens dit Verdrag een pensioen of rente verschuldigd, zelfs indien dat pensioen of die rente betrekking heeft op een gebeurtenis vóór de datum van inwerkingtreding van dit Verdrag. Te dien einde wordt elk pensioen of elke rente welke niet is uitbetaald of waarvan de betaling is geschorst in verband met de nationaliteit van de belanghebbende, dan wel in verband met het feit dat hij zijn woonplaats heeft op het grondgebied van de andere Verdragsluitende Partij, op verzoek van de belanghebbende uitbetaald of hervat met ingang van de datum van inwerkingtreding van dit Verdrag.
+- a) les prestations en espèces de survivants (ANW) dues en vertu de la législation néerlandaise pour les bénéficiaires qui résident habituellement au Maroc dont le droit s’ouvre à partir du 1er octobre 2016 sont réduites d’un taux fixe de 10% du montant servi aux Pays-Bas durant toute la période d’ouverture de droit;
 
-4. Ten aanzien van de uit de toepassing van het vorige lid voortvloeiende rechten zijn de bepalingen van de wettelijke regelingen der Verdragsluitende Partijen met betrekking tot het verlies en de verjaring van rechten niet op de belanghebbende van toepassing, indien het desbetreffende verzoek binnen een termijn van twee jaar na de datum van inwerkingtreding van dit Verdrag wordt ingediend. Indien het verzoek na afloop van deze termijn wordt ingediend, wordt het recht op uitkering dat niet vervallen verklaard of verjaard is, verworven met ingang van de datum waarop het verzoek is ingediend, tenzij gunstiger bepalingen van de wettelijke regelingen van een Verdragsluitende Partij van toepassing zijn.
+- b) les prestations d’invalidité partielle basées sur le revenu minimum (WGA-vervolguitkering) dues en vertu de la législation néerlandaise pour les bénéficiaires qui résident habituellement au Maroc dont le droit s’ouvre à partir du 1er octobre 2016 sont réduites d’un taux fixe de 10% du montant servi aux Pays-Bas durant toute la période d’ouverture de droit;
 
-##### Artikel 36
+- c) les suppléments (Toeslagenwet) dans le cadre de l’allocation d’invalidité partielle basée sur le revenu minimum (WGA-vervolguitkering) pour les bénéficiaires dus en vertu de la législation néerlandaise qui résident habituellement au Maroc sont réduits selon le barème de réduction suivant :
 
-Vervallen
+   - – pour les bénéficiaires dont le droit s’ouvre pendant la période du 1er octobre 2016 au 31 décembre 2016 : réduction d’un taux fixe de 10% du montant servi aux Pays-Bas durant toute la période d’ouverture des droits;
 
-##### Artikel 37
+   - – pour les bénéficiaires dont le droit s’ouvre pendant la période du 1er janvier 2017 au 31 décembre 2017 : réduction d’un taux fixe de 20% du montant servi aux Pays-Bas durant toute la période d’ouverture des droits;
 
-Dit Verdrag treedt in werking op de eerste dag van de tweede maand volgende op die waarin de Regeringen van beide Verdragsluitende Partijen elkaar hebben medegedeeld dat de grondwettelijke procedures voor de inwerkingtreding van het Verdrag in hun onderscheiden landen zijn vervuld.
+   - – pour les bénéficiaires dont le droit s’ouvre pendant la période du 1er janvier 2018 au 31 décembre 2018 : réduction d’un taux fixe de 30% du montant servi aux Pays-Bas durant toute la période d’ouverture des droits;
 
-##### Artikel 38
+   - – pour les bénéficiaires dont le droit s’ouvre pendant la période du 1er janvier 2019 et toutes les années suivantes : réduction d’un taux fixe de 40% du montant servi aux Pays-Bas durant toute la période d’ouverture des droits;
 
-Dit Verdrag wordt voor onbepaalde tijd gesloten. Het kan door elk van de Verdragsluitende Partijen worden opgezegd. Opzegging dient te geschieden uiterlijk zes maanden vóór het einde van het lopende kalenderjaar; het Verdrag houdt alsdan op van kracht te zijn aan het einde van dat jaar.
+- d) les dispositions des alinéas a) à c) visées ci-dessus, ne s’appliquent pas aux bénéficiaires qui ont déjà droit à ces prestations le 30 septembre 2016 inclus, aussi longtemps qu’ils continuent de résider au Maroc et dans la mesure où ils continueront à répondre sans interruption aux autres conditions pour avoir droit à ces prestations en vertu de la loi néerlandaise;
 
-##### Artikel 39
+- e) un transfert de résidence habituelle du ou vers le Maroc est considéré comme ouvrant un droit.
 
-1. Bij opzegging van dit Verdrag wordt elk recht dat met toepassing van dit Verdrag is verkregen, gehandhaafd.
+Les dispositions des paragraphes a) à c) s’appliquent au bénéficiaire qui transfère sa résidence habituelle au Maroc après le 30 septembre 2016.
 
-2. Aanspraken op grond van tijdvakken, vervuld vóór de datum, waarop de opzegging van kracht is geworden, worden niet door de opzegging teniet gedaan; het behoud ervan zal voor het tijdvak na de opzegging in onderlinge overeenstemming worden vastgesteld of bij gebreke daarvan door de eigen wettelijke regelingen van het betrokken orgaan.
+##### Article 35b
 
-##### 1. Toepassing van de Nederlandse wettelijke regelingen inzake de ziektekostenverzekering
+a). En dérogation au premier paragraphe de l’article 5 de la présente Convention, les allocations familiales dues en vertu de la législation néerlandaise pour les enfants qui résident habituellement au Maroc sont réduites pour les bénéficiaires selon le barème de réduction suivant :
 
-a. Ten aanzien van het recht op verstrekkingen krachtens de Nederlandse wettelijke regelingen dient onder rechthebbende op de verstrekkingen voor de toepassing van [hoofdstuk 1 van titel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=III&hoofdstuk=I&z=2016-10-01&g=2016-10-01) van het Verdrag te worden verstaan de persoon die verzekerd of medeverzekerd is ingevolge de verzekering als bedoeld in de Nederlandse Ziekenfondswet.
+- – pour les enfants dont le droit s’ouvre pendant la période du 2 octobre 2016 au 1er janvier 2017 sont réduites d’un taux fixe de 10% du montant servi aux Pays-Bas durant toute la période d’ouverture des droits;
 
-b. Voor de toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=III&hoofdstuk=I&artikel=13&z=2016-10-01&g=2016-10-01) van het Verdrag zijn gelijkgesteld met pensioenen krachtens de in [artikel 1, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=I&artikel=1&z=2016-10-01&g=2016-10-01), van het Verdrag bedoelde wettelijke regelingen (arbeidsongeschiktheidsverzekering, respectievelijk ouderdomsverzekering):
+- – pour les enfants dont le droit s’ouvre pendant la période du 2 janvier 2017 au 1er janvier 2018 sont réduites d’un taux fixe de 20% du montant servi aux Pays-Bas durant toute la période d’ouverture des droits;
 
-- –. pensioenen ingevolge de wet van 6 januari 1966 houdende een nieuwe regeling van de pensioenen van de burgerlijke ambtenaren en hun nabestaanden (Algemene burgerlijke pensioenwet);
+- – pour les enfants dont le droit s’ouvre pendant la période du 2 janvier 2018 au 1er janvier 2019 sont réduites d’un taux fixe de 30% du montant servi aux Pays-Bas durant toute la période d’ouverture des droits;
 
-- –. pensioenen ingevolge de wet van 6 oktober 1966 houdende een nieuwe regeling van de pensioenen van de militairen en hun nabestaanden (Algemene militaire pensioenwet);
+- – pour les enfants dont le droit s’ouvre pendant la période du 2 janvier 2019 au 1er janvier 2021 inclus sont réduites d’un taux fixe de 40% du montant servi aux Pays-Bas durant toute la période d’ouverture des droits.
 
-- –. pensioenen ingevolge de wet van 15 februari 1967 houdende een nieuwe regeling van de pensioenen van het spoorwegpersoneel en hun nabestaanden (Spoorwegpensioenwet);
+b). Les dispositions du premier paragraphe ne s’appliquent pas à la personne qui est déjà bénéficiaire d’allocations familiales en date du 1er octobre 2016 inclus au plus tard en vertu de la loi néerlandaise, aussi longtemps que l’enfant continue de résider au Maroc et dans la mesure où le bénéficiaire et l’enfant continueront à répondre sans interruption aux autres conditions pour avoir droit aux allocations familiales en vertu de la loi néerlandaise.
 
-- –. pensioenen ingevolge het reglement betreffende de dienstvoorwaarden van de Nederlandse Spoorwegen (R.D.V. 1964 N.S.);
+c). Les dispositions du paragraphe a) seront appliquées au bénéficiaire pour l’enfant dont la résidence habituelle a été transférée au Maroc après le 1er octobre 2016.
 
-- –. een uitkering of pensioen ter zake van pensionering vóór de 65-jarige leeftijd ingevolge een pensioenregeling die ten doel heeft de verzorging van werknemers en gewezen werknemers bij ouderdom;
+##### Article 35c
 
-- –. een uitkering ingevolge een van rijkswege, dan wel bij of krachtens collectieve arbeidsovereenkomst vastgestelde regeling ter zake van vervroegde uittreding uit het arbeidsproces of een door de Ziekenfondsraad aan te wijzen regeling.
+a). Une personne qui a besoin de prestations en nature lors d’un séjour temporaire sur le territoire de l’autre Partie Contractante en vertu des dispositions des [paragraphes 1 et 6 de l’article 11](https://wetten.overheid.nl/BWBV0001011) et des [paragraphes 5 et 6 de l’article 13](https://wetten.overheid.nl/BWBV0001011) de la Convention générale bénéficie de ces prestations jusqu’au 31 décembre 2020.
 
-c. De in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=III&hoofdstuk=I&artikel=10&z=2016-10-01&g=2016-10-01), van het Verdrag bedoelde werknemer of de met hem gelijkgestelde of zijn gezinsleden en de in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=III&hoofdstuk=I&artikel=12&z=2016-10-01&g=2016-10-01), van het Verdrag bedoelde gezinsleden en de in [artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=III&hoofdstuk=I&artikel=13&z=2016-10-01&g=2016-10-01), van het Verdrag bedoelde rechthebbende op een of meer pensioenen of renten, of zijn gezinsleden, die op Nederlands grondgebied wonen, zijn niet verzekerd krachtens de Algemene Wet Bijzondere Ziektekosten (AWBZ).
+b). Une personne qui lors d’un séjour temporaire sur le territoire de l’autre Partie Contractante bénéficie des prestations en nature conformément au paragraphe a) au 31 décembre 2020, conserve ce droit pendant ce séjour jusqu’à la date de fin du traitement médical sans toutefois excéder une durée maximale d’un an.
 
-d. Indien een verzekerde krachtens de Zorgverzekeringswet tijdens zijn tijdelijk verblijf in Marokko onmiddellijk de in deze wet voorziene verstrekkingen nodig heeft, na een van de gevallen voorzien in artikel 55 van deze wet, is de beperking van de werelddekking voorzien in de Zorgverzekeringswet niet van toepassing. De kosten van deze verstrekkingen worden aan hem terugbetaald overeenkomstig de bepalingen van voornoemde wet bij de toepassing van artikel 55 ervan.
+c). Les dispositions des [articles 10](https://wetten.overheid.nl/BWBV0001011), [11](https://wetten.overheid.nl/BWBV0001011), [13](https://wetten.overheid.nl/BWBV0001011) et [14](https://wetten.overheid.nl/BWBV0001011) de la Convention générale applicables avant le 1er janvier 2021 restent applicables pour les cas prévus dans les paragraphes précédents du présent article.
 
-##### 2. Toepassing van de Marokkaanse wettelijke regelingen met betrekking tot het verlenen van verstrekkingen in geval van ziekte en moederschap
+##### Article 35d
 
-In afwachting van de inwerkingtreding van een wettelijke regeling inzake de ziekteverzekering (verstrekkingen) in Marokko, stellen de bevoegde autoriteiten van de Verdragsluitende Partijen in een interim-akkoord de volgende elementen vast:
+a). En dérogation au premier paragraphe de l’article 5, une personne n’a plus droit aux allocations familiales d’une Partie Contractante en vertu de la présente convention pour les enfants qui résident sur le territoire de l’autre Partie Contractante à partir du 2 janvier 2021.
 
-- a. de verstrekkingen die worden beschouwd als verstrekkingen krachtens de Marokkaanse wettelijke regelingen;
+b). Les dispositions du paragraphe a) susvisé ne s’appliquent pas à la personne qui en date du 1er janvier 2021 est bénéficiaire d’allocations familiales pour des enfants qui résident sur le territoire de l’autre Partie Contractante, aussi longtemps que l’enfant continue de résider sur le territoire de la Partie Contractante où l’enfant se trouve en date du 1er janvier 2021 et dans la mesure où le bénéficiaire et l’enfant continueront à répondre sans interruption aux autres conditions pour avoir droit aux allocations familiales.
 
-- b. de in Marokko wonende personen die worden beschouwd als gezinsleden van een verzekerde en
+c). Un transfert de résidence habituelle de l’enfant du territoire d’une Partie Contractante vers le territoire de l’autre Partie Contractante après le 1er janvier 2021 met fin à ce droit aux allocations familiales en vertu de la présente Convention. Toutefois, ils bénéficient de ces allocations s’ils remplissent les conditions requises par la législation de la Partie de leur résidence.
 
-- c. de wijze van berekening van de kosten van verstrekkingen die door het Nederlandse orgaan dienen te worden vergoed aan de „Caisse Nationale de Sécurité Sociale" – C.N.S.S. – (Nationaal Fonds voor Sociale Zekerheid).
+##### Article 36
 
-##### 3. Toepassing van de Nederlandse wettelijke regelingen inzake de ouderdomsverzekering
+*Vervallen*
 
-a. De in artikel 21, derde lid, van het Verdrag bedoelde bevoegdheid zich vrijwillig te verzekeren is voorbehouden aan de eerste echtgenoot van de verzekerde:
+##### Article 37
 
-- –. hetzij op de datum van inwerkingtreding van dit Verdrag, indien deze persoon onmiddellijk voorafgaand aan de datum van inwerkingtreding van dit Verdrag onderworpen was aan het stelsel van verplichte verzekering ingevolge de AOW/AWW;
+La présente Convention entrera en vigueur le premier jour du deuxième mois suivant le mois au cours duquel les gouvernements des parties contractantes se seront communiqués que les procédures constitutionnelles pour l'entrée en vigueur de la Convention ont été accomplies dans leurs pays respectifs.
 
-- –. hetzij op de datum waarop deze persoon verplicht verzekerde ingevolge de AOW/AWW is geworden, indien deze datum de datum is van inwerkingtreding van dit Verdrag, of indien deze datum valt na de datum van inwerkingtreding van dit Verdrag.
+##### Article 38
 
-b. Het eerste en het tweede lid van artikel 21 van het Verdrag zijn slechts van toepassing op de echtgenoot die zich vrijwillig heeft verzekerd krachtens het derde lid van artikel 21 van het Verdrag.
+La présente Convention est conclue pour une durée indéterminée. Elle peut être dénoncée par chacune des parties contractantes. La dénonciation devra être notifiée au plus tard six mois avant la fin de l'année civile en cours; la Convention cessera alors d'être en vigueur à la fin de cette année.
+
+##### Article 39
+
+1. En cas de dénonciation de la présente Convention tout droit acquis en application de ses dispositions sera maintenu.
+
+2. Les droits en cours d'acquisition relatifs aux périodes accomplies antérieurement à la date à laquelle la dénonciation a pris effet ne s'éteignent pas du fait de la dénonciation; leur maintien sera déterminé d'un commun accord pour la période postérieure ou, à défaut d'un tel accord, par la législation propre à l'institution intéressée.
 
 EN FOI DE QUOI les soussignés, dûment autorisés à cet effet, ont signé la présente Convention.
 
 FAIT à Rabat, le 14 février 1972, en double exemplaire, en langue française.
 
-**Pour le Royaume des Pays-Bas,**
+*Pour le Royaume des Pays-Bas,*
 
 (s.) C. VREEDE
 
@@ -427,127 +411,7 @@ Cornelis Vreede
 
 Ambassadeur du Royaume des Pays-Bas
 
-**Pour le Royaume du Maroc,**
-
-(s.) ARSALANE EL JADIDI
-
-Arsalane El Jadidi
-
-Ministre du Travail, des Affaires Sociales, de la Jeunesse et des Sports
-
-##### Artikel 35a
-
-In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=I&artikel=5&z=2022-06-01&g=2022-06-01), van dit Verdrag, zijn de volgende bepalingen van toepassing op de volgende prestaties:
-
-- a. ANW-uitkeringen die krachtens de Nederlandse wettelijke regelingen verschuldigd zijn aan rechthebbenden die gewoonlijk in Marokko wonen en van wie het recht op of na 1 oktober 2016 aanvangt op deze uitkeringen, worden verlaagd met een vast percentage van 10% van het in Nederland toegekende bedrag voor de gehele periode waarin aanspraak kan worden gemaakt;
-
-- b. WGA-vervolguitkeringen die krachtens de Nederlandse wettelijke regelingen verschuldigd zijn aan rechthebbenden die gewoonlijk in Marokko wonen en van wie het recht op of na 1 oktober 2016 aanvangt op deze uitkeringen, worden verlaagd met een vast percentage van 10% van het in Nederland toegekende bedrag voor de gehele periode waarin aanspraak kan worden gemaakt;
-
-- c. Toeslagen krachtens de Toeslagenwet in het kader van de WGA-vervolguitkeringen die krachtens de Nederlandse wettelijke regelingen verschuldigd zijn aan de rechthebbenden die gewoonlijk in Marokko wonen, worden verlaagd conform de volgende schaal:
-
-- –. voor rechthebbenden van wie het recht aanvangt in de periode van 1 oktober 2016 tot en met 31 december 2016: verlaging met een vast percentage van 10% van het in Nederland toegekende bedrag voor de gehele periode waarin aanspraak kan worden gemaakt;
-
-- –. voor rechthebbenden van wie het recht aanvangt in de periode van 1 januari 2017 tot en met 31 december 2017: verlaging met een vast percentage van 20% van het in Nederland toegekende bedrag voor de gehele periode waarin aanspraak kan worden gemaakt;
-
-- –. voor rechthebbenden van wie het recht aanvangt in de periode van 1 januari 2018 tot en met 31 december 2018: verlaging met een vast percentage van 30% van het in Nederland toegekende bedrag voor de gehele periode waarin aanspraak kan worden gemaakt;
-
-- –. voor rechthebbenden van wie het recht aanvangt in de periode vanaf 1 januari 2019 en alle jaren daarna aanvangt: verlaging met een vast percentage van 40% van het in Nederland toegekende bedrag voor de gehele periode waarin aanspraak kan worden gemaakt;
-
-- d. de bepalingen van de bovenstaande onderdelen a tot en met c zijn niet van toepassing op rechthebbenden die op 30 september 2016 reeds aanspraak kunnen maken op deze prestaties, zo lang zij in Marokko blijven wonen en voor zover zij zonder onderbreking blijven voldoen aan de andere voorwaarden voor het recht op deze prestaties krachtens de Nederlandse wettelijke regelingen;
-
-- e. het overbrengen van de gebruikelijke woonplaats van of naar Marokko wordt beschouwd als het doen ontstaan van een recht.
-
-De bepalingen van de onderdelen a tot en met c zijn van toepassing op rechthebbenden die na 30 september 2016 hun gebruikelijke woonplaats overbrengen naar Marokko.
-
-##### Artikel 35b
-
-a. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=I&artikel=5&z=2022-06-01&g=2022-06-01), van dit Verdrag wordt de kinderbijslag die krachtens de Nederlandse wettelijke regelingen verschuldigd is voor kinderen die gewoonlijk in Marokko wonen voor de rechthebbenden verlaagd conform de volgende schaal:
-
-- –. voor kinderen voor wie het recht in de periode van 2 oktober 2016 tot en met 1 januari 2017 aanvangt: verlaging met een vast percentage van 10% van het in Nederland toegekende bedrag voor de gehele periode waarin aanspraak kan worden gemaakt;
-
-- –. voor kinderen voor wie het recht in de periode van 2 januari 2017 tot en met 1 januari 2018 aanvangt: verlaging met een vast percentage van 20% van het in Nederland toegekende bedrag voor de gehele periode waarin aanspraak kan worden gemaakt;
-
-- –. voor kinderen voor wie het recht in de periode van 2 januari 2018 tot en met 1 januari 2019 aanvangt: verlaging met een vast percentage van 30% van het in Nederland toegekende bedrag voor de gehele periode waarin aanspraak kan worden gemaakt;
-
-- –. voor kinderen voor wie het recht in de periode van 2 januari 2019 tot en met 1 januari 2021 aanvangt: verlaging met een vast percentage van 40% van het in Nederland toegekende bedrag voor de gehele periode waarin aanspraak kan worden gemaakt.
-
-b. De bepalingen van het eerste lid zijn niet van toepassing op personen die uiterlijk op 1 oktober 2016 kinderbijslag ontvangen krachtens de Nederlandse wettelijke regelingen, zolang het kind in Marokko blijft wonen en voor zover de rechthebbende en het kind zonder onderbreking blijven voldoen aan de andere voorwaarden voor het recht op kinderbijslag krachtens de Nederlandse wettelijke regelingen.
-
-Het overbrengen van de gebruikelijke woonplaats van of naar Marokko wordt beschouwd als het doen ontstaan van een recht.
-
-c. De bepalingen van onderdeel a zijn op een rechthebbende van toepassing voor een kind wiens gebruikelijke woonplaats na 1 oktober 2016 naar Marokko is overgebracht.
-
-##### Artikel 35c
-
-a. Een persoon die verstrekkingen nodig heeft tijdens een tijdelijk verblijf op het grondgebied van de andere Verdragsluitende Partij krachtens de bepalingen van [artikel 11, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=III&hoofdstuk=I&artikel=11&z=2022-06-01&g=2022-06-01), en [artikel 13, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=III&hoofdstuk=I&artikel=13&z=2022-06-01&g=2022-06-01), van het Algemeen Verdrag ontvangt deze prestaties tot en met 31 december 2020.
-
-b. Een persoon die tijdens een tijdelijk verblijf op het grondgebied van de andere Verdragsluitende Partij op 31 december 2020 verstrekkingen ontvangt in overeenstemming met onderdeel a, blijft gedurende dit verblijf dit recht behouden tot en met de datum waarop de medische behandeling wordt beëindigd, evenwel met een maximale duur van één jaar.
-
-c. De bepalingen van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=III&hoofdstuk=I&artikel=10&z=2022-06-01&g=2022-06-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=III&hoofdstuk=I&artikel=11&z=2022-06-01&g=2022-06-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=III&hoofdstuk=I&artikel=13&z=2022-06-01&g=2022-06-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=III&hoofdstuk=I&artikel=14&z=2022-06-01&g=2022-06-01) van het Algemeen Verdrag die vóór 1 januari 2021 van toepassing zijn, blijven van toepassing voor de gevallen voorzien in de voorgaande leden van dit artikel.
-
-##### Artikel 35d
-
-a. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=I&artikel=5&z=2022-06-01&g=2022-06-01), heeft een persoon geen recht meer op kinderbijslag van een Verdragsluitende Partij uit hoofde van dit Verdrag voor kinderen die per 2 januari 2021 op het grondgebied van de andere Verdragsluitende Partij wonen.
-
-b. De bepalingen van het bovenstaande lid a zijn niet van toepassing op een persoon die op 1 januari 2021 kinderbijslag ontvangt voor kinderen die op het grondgebied van de andere Verdragsluitende Partij wonen, zolang het kind blijft wonen op het grondgebied van de andere Verdragsluitende Partij waar het kind zich bevindt op 1 januari 2021 en voor zover de rechthebbende en het kind zonder onderbreking blijven voldoen aan de andere voorwaarden voor het recht op kinderbijslag.
-
-c. Het overbrengen van de gebruikelijke woonplaats van het kind van het grondgebied van de ene Verdragsluitende Partij naar het grondgebied van de andere Verdragsluitende Partij na 1 januari 2021 maakt een einde aan het recht op kinderbijslag krachtens dit Verdrag. Zij ontvangen deze kinderbijslag echter indien zij voldoen aan de voorwaarden die worden gesteld door de wetgeving van de Partij waar zij wonen.
-
-##### 1. Toepassing van de Nederlandse wettelijke regelingen inzake de ziektekostenverzekering
-
-a. Ten aanzien van het recht op verstrekkingen krachtens de Nederlandse wettelijke regelingen dient onder rechthebbende op de verstrekkingen voor de toepassing van [hoofdstuk 1 van titel III](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=III&hoofdstuk=I&z=2022-06-01&g=2022-06-01) van het Verdrag te worden verstaan de persoon die verzekerd of medeverzekerd is ingevolge de verzekering als bedoeld in de Nederlandse Ziekenfondswet.
-
-b. Voor de toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=III&hoofdstuk=I&artikel=13&z=2022-06-01&g=2022-06-01) van het Verdrag zijn gelijkgesteld met pensioenen krachtens de in [artikel 1, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=I&artikel=1&z=2022-06-01&g=2022-06-01), van het Verdrag bedoelde wettelijke regelingen (arbeidsongeschiktheidsverzekering, respectievelijk ouderdomsverzekering):
-
-- –. pensioenen ingevolge de wet van 6 januari 1966 houdende een nieuwe regeling van de pensioenen van de burgerlijke ambtenaren en hun nabestaanden (Algemene burgerlijke pensioenwet);
-
-- –. pensioenen ingevolge de wet van 6 oktober 1966 houdende een nieuwe regeling van de pensioenen van de militairen en hun nabestaanden (Algemene militaire pensioenwet);
-
-- –. pensioenen ingevolge de wet van 15 februari 1967 houdende een nieuwe regeling van de pensioenen van het spoorwegpersoneel en hun nabestaanden (Spoorwegpensioenwet);
-
-- –. pensioenen ingevolge het reglement betreffende de dienstvoorwaarden van de Nederlandse Spoorwegen (R.D.V. 1964 N.S.);
-
-- –. een uitkering of pensioen ter zake van pensionering vóór de 65-jarige leeftijd ingevolge een pensioenregeling die ten doel heeft de verzorging van werknemers en gewezen werknemers bij ouderdom;
-
-- –. een uitkering ingevolge een van rijkswege, dan wel bij of krachtens collectieve arbeidsovereenkomst vastgestelde regeling ter zake van vervroegde uittreding uit het arbeidsproces of een door de Ziekenfondsraad aan te wijzen regeling.
-
-c. De in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=III&hoofdstuk=I&artikel=10&z=2022-06-01&g=2022-06-01), van het Verdrag bedoelde werknemer of de met hem gelijkgestelde of zijn gezinsleden en de in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=III&hoofdstuk=I&artikel=12&z=2022-06-01&g=2022-06-01), van het Verdrag bedoelde gezinsleden en de in [artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&titeldeel=III&hoofdstuk=I&artikel=13&z=2022-06-01&g=2022-06-01), van het Verdrag bedoelde rechthebbende op een of meer pensioenen of renten, of zijn gezinsleden, die op Nederlands grondgebied wonen, zijn niet verzekerd krachtens de Algemene Wet Bijzondere Ziektekosten (AWBZ).
-
-d. Indien een verzekerde krachtens de Zorgverzekeringswet tijdens zijn tijdelijk verblijf in Marokko onmiddellijk de in deze wet voorziene verstrekkingen nodig heeft, na een van de gevallen voorzien in artikel 55 van deze wet, is de beperking van de werelddekking voorzien in de Zorgverzekeringswet niet van toepassing. De kosten van deze verstrekkingen worden aan hem terugbetaald overeenkomstig de bepalingen van voornoemde wet bij de toepassing van artikel 55 ervan.
-
-##### 2. Toepassing van de Marokkaanse wettelijke regelingen met betrekking tot het verlenen van verstrekkingen in geval van ziekte en moederschap
-
-In afwachting van de inwerkingtreding van een wettelijke regeling inzake de ziekteverzekering (verstrekkingen) in Marokko, stellen de bevoegde autoriteiten van de Verdragsluitende Partijen in een interim-akkoord de volgende elementen vast:
-
-- a. de verstrekkingen die worden beschouwd als verstrekkingen krachtens de Marokkaanse wettelijke regelingen;
-
-- b. de in Marokko wonende personen die worden beschouwd als gezinsleden van een verzekerde en
-
-- c. de wijze van berekening van de kosten van verstrekkingen die door het Nederlandse orgaan dienen te worden vergoed aan de „Caisse Nationale de Sécurité Sociale" – C.N.S.S. – (Nationaal Fonds voor Sociale Zekerheid).
-
-##### 3. Toepassing van de Nederlandse wettelijke regelingen inzake de ouderdomsverzekering
-
-a. De in artikel 21, derde lid, van het Verdrag bedoelde bevoegdheid zich vrijwillig te verzekeren is voorbehouden aan de eerste echtgenoot van de verzekerde:
-
-- –. hetzij op de datum van inwerkingtreding van dit Verdrag, indien deze persoon onmiddellijk voorafgaand aan de datum van inwerkingtreding van dit Verdrag onderworpen was aan het stelsel van verplichte verzekering ingevolge de AOW/AWW;
-
-- –. hetzij op de datum waarop deze persoon verplicht verzekerde ingevolge de AOW/AWW is geworden, indien deze datum de datum is van inwerkingtreding van dit Verdrag, of indien deze datum valt na de datum van inwerkingtreding van dit Verdrag.
-
-b. Het eerste en het tweede lid van artikel 21 van het Verdrag zijn slechts van toepassing op de echtgenoot die zich vrijwillig heeft verzekerd krachtens het derde lid van artikel 21 van het Verdrag.
-
-EN FOI DE QUOI les soussignés, dûment autorisés à cet effet, ont signé la présente Convention.
-
-FAIT à Rabat, le 14 février 1972, en double exemplaire, en langue française.
-
-**Pour le Royaume des Pays-Bas,**
-
-(s.) C. VREEDE
-
-Cornelis Vreede
-
-Ambassadeur du Royaume des Pays-Bas
-
-**Pour le Royaume du Maroc,**
+*Pour le Royaume du Maroc,*
 
 (s.) ARSALANE EL JADIDI
 

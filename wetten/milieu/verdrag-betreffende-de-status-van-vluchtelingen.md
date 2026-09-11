@@ -1,485 +1,371 @@
 ---
 title: "Verdrag betreffende de status van vluchtelingen"
 identifier: "BWBV0001002"
-country: "nl"
-rank: "verdrag"
-publication_date: "1956-08-01"
-last_updated: "1956-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001002"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002358833"
-version_id: "10002363212"
-internal_id: "C10006988911"
-label_id: "10002349204"
-dtd_version: "2.0"
-original_entry_into_force: "1956-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001002/1956-08-01/0"
-intitule_bron: "Trb.1951-131"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1956-05-03"
-intitule_published: "1951-10-29"
-intitule_in_force: "1957-02-14"
-intitule_status: "goed"
-original_publication: "Trb.1951-131"
-original_signed_date: "1956-05-03"
-original_published_date: "1951-10-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1951-131"
-entry_into_force_date: "1956-08-01"
-jci_1_3: "jci1.3:c:BWBV0001002&z=1956-08-01&g=1956-08-01"
-jci_1_0: "1.0:c:BWBV0001002&g=1956-08-01"
-citeertitel_status: "redactioneel"
-signed_date: "1956-05-03"
-entry_into_force: "1956-08-01"
+publicatiedatum: 1956-08-01
+laatste_update: 1956-08-01
+status: geldig
+toestand: 1956-08-01
+bron: "https://wetten.overheid.nl/BWBV0001002"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag betreffende de status van vluchtelingen
 
-**Preambule**
+*Preamble The High Contracting Parties, Considering that the Charter of the United Nations and the Universal Declaration of Human Rights approved on 10 December 1948 by the General Assembly have affirmed the principle that human beings shall enjoy fundamental rights and freedoms without discrimination, Considering that the United Nations has, on various occasions, manifested its profound concern for refugees and endeavoured to assure refugees the widest possible exercise of these fundamental rights and freedoms, Considering that it is desirable to revise and consolidate previous international agreements relating to the status of refugees and to extend the scope of and the protection accorded by such instruments by means of a new agreement, Considering that the grant of asylum may place unduly heavy burdens on certain countries, and that a satisfactory solution of a problem of which the United Nations has recognized the international scope and nature cannot therefore be achieved without international co-operation, Expressing the wish that all States, recognizing the social and humanitarian nature of the problem of refugees, will do everything within their power to prevent this problem from becoming a cause of tension between States, Noting that the United Nations High Commissioner for Refugees is charged with the task of supervising international conventions providing for the protection of refugees, and recognizing that the effective co-ordination of measures taken to deal with this problem will depend upon the co-operation of States with the High Commissioner, Have agreed as follows:*
 
-De HOGE VERDRAGSLUITENDE PARTIJEN,
+### CHAPTER I. General Provisions
 
-OVERWEGENDE, dat het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) en de op 10 December 1948 door de Algemene Vergadering goedgekeurde [Universele Verklaring van de Rechten van de Mens](https://wetten.overheid.nl/jci1.3:c:BWBV0001008) het beginsel hebben bevestigd, dat de menselijke wezens, zonder onderscheid, de fundamentele rechten van de mens en vrijheden dienen te genieten,
+##### Article 1. Definition of the Term "Refugee"
 
-OVERWEGENDE, dat de Verenigde Naties bij verschillende gelegenheden blijk hebben gegeven van haar grote bezorgdheid voor de vluchtelingen en er naar gestreefd hebben de uitoefening van deze fundamentele rechten en vrijheden door de vluchtelingen in de grootst mogelijke mate te verzekeren,
+A. For the purposes of the present Convention, the term "refugee" shall apply to any person who:
 
-OVERWEGENDE, dat het gewenst is de vroegere internationale overeenkomsten betreffende de status van vluchtelingen te herzien en te bevestigen en aan de toepassing van die overeenkomsten en aan de daarbij verleende bescherming uitbreiding te geven door middel van een nieuwe overeenkomst,
+- (1) Has been considered a refugee under the Arrangements of 12 May 1926 and 30 June 1928 or under the Conventions of 28 October 1933 and 10 February 1938, the Protocol of 14 September 1939 or the Constitution of the International Refugee Organization; Decisions of non-eligibility taken by the International Refugee Organization during the period of its activities shall not prevent the status of refugee being accorded to persons who fulfil the conditions of paragraph 2 of this section;
 
-OVERWEGENDE, dat het verlenen van asyl voor bepaalde landen onevenredig grote lasten kan medebrengen en dat derhalve een bevredigende oplossing van een vraagstuk waarvan de Verenigde Naties de internationale omvang en het internationale karakter hebben erkend, niet zonder internationale solidariteit kan worden bereikt,
+- (2) As a result of events occurring before 1 January 1951 and owing to well-founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group or political opinion, is outside the country of his nationality and is unable or, owing to such fear, is unwilling to avail himself of the protection of that country; or who, not having a nationality and being outside the country of his former habitual residence as a result of such events, is unable or, owing to such fear, is unwilling to return to it.
 
-DE WENS TOT UITDRUKKING BRENGENDE, dat alle Staten, het sociale en humanitaire karakter van het vluchtelingenvraagstuk erkennende, al het mogelijke zullen doen om te voorkomen, dat dit vraagstuk een oorzaak van spanningen tussen Staten wordt,
+In the case of a person who has more than one nationality, the term "the country of his nationality" shall mean each of the countries of which he is a national, and a person shall not be deemed to be lacking the protection of the country of his nationality if, without any valid reason based on well-founded fear, he has not availed himself of the protection of one of the countries of which he is a national.
 
-ER VAN KENNIS NEMENDE, dat de Hoge Commissaris van de Verenigde Naties voor de Vluchtelingen belast is met het toezicht op de toepassing van internationale verdragen welke voorzien in de bescherming van vluchtelingen, en erkennende, dat de doeltreffende coördinatie van de maatregelen welke worden genomen om dit vraagstuk op te lossen, zal afhangen van de samenwerking van de Staten met de Hoge Commissaris,
+B. - (1) For the purposes of this Convention, the words "events occurring before 1 January 1951" in article 1, section A, shall be understood to mean either
 
-ZIJN HET VOLGENDE OVEREENGEKOMEN:
+   - (a) "events occurring in Europe before 1 January 1951"; or
 
-### HOOFDSTUK I. Algemene bepalingen
+   - (b) "events occurring in Europe or elsewhere before 1 January 1951"; and each Contracting State shall make a declaration at the time of signature, ratification or accession, specifying which of these meanings it applies for the purpose of its obligations under this Convention.
 
-##### Artikel 1. Definitie van de term „vluchteling"
+- (2) Any Contracting State which has adopted alternative (*a*) may at any time extend its obligations by adopting alternative (*b*) by means of a notification addressed to the Secretary-General of the United Nations.
 
-A. Voor de toepassing van dit Verdrag geldt als „vluchteling" elke persoon:
+C. This Convention shall cease to apply to any person falling under the terms of section A if:
 
-- (1). Die krachtens de Regelingen van 12 Mei 1926 en 30 Juni 1928 of krachtens de Overeenkomsten van 28 October 1933 en 10 Februari 1938, het Protocol van 14 September 1939 of het Statuut van de Internationale Vluchtelingenorganisatie als vluchteling werd beschouwd. De door de Internationale Vluchtelingenorganisatie gedurende haar mandaat genomen beslissingen waarbij personen niet in aanmerking werden gebracht voor de bescherming en de hulp van die organisatie, vormen geen belemmering voor het verlenen van de status van vluchteling aan personen die aan de voorwaarden van lid 2 van deze afdeling voldoen;
+- (1) He has voluntarily re-availed himself of the protection of the country of his nationality; or
 
-- (2). Die, ten gevolge van gebeurtenissen welke vóór 1 Januari 1951 hebben plaats gevonden, en uit gegronde vrees voor vervolging wegens zijn ras, godsdienst, nationaliteit, het behoren tot een bepaalde sociale groep of zijn politieke overtuiging, zich bevindt buiten het land waarvan hij de nationaliteit bezit, en die de bescherming van dat land niet kan of, uit hoofde van bovenbedoelde vrees, niet wil inroepen, of die, indien hij geen nationaliteit bezit en ten gevolge van bovenbedoelde gebeurtenissen verblijft buiten het land waar hij vroeger zijn gewone verblijfplaats had, daarheen niet kan of, uit hoofde van bovenbedoelde vrees, niet wil terugkeren.
+- (2) Having lost his nationality, he has voluntarily reacquired it; or
 
-Indien een persoon meer dan één nationaliteit bezit, betekent de term „het land waarvan hij de nationaliteit bezit" elk van de landen waarvan hij de nationaliteit bezit. Een persoon wordt niet geacht van de bescherming van het land waarvan hij de nationaliteit bezit, verstoken te zijn, indien hij, zonder geldige redenen ingegeven door gegronde vrees, de bescherming van één van de landen waarvan hij de nationaliteit bezit, niet inroept.
+- (3) He has acquired a new nationality, and enjoys the protection of the country of his new nationality; or
 
-- (1). Voor de toepassing van dit Verdrag betekenen in artikel 1, afdeling A, de woorden „gebeurtenissen welke vóór 1 Januari 1951 hebben plaats gevonden" hetzij elke Verdragsluitende Staat zal bij de ondertekening, bekrachtiging of toetreding een verklaring afleggen, waarin wordt te kennen gegeven, welke van deze omschrijvingen hij voornemens is toe te passen met betrekking tot zijn verplichtingen krachtens dit Verdrag.
+- (4) He has voluntarily re-established himself in the country which he left or outside which he remained owing to fear of persecution; or
 
-- (a). „gebeurtenissen welke vóór 1 Januari 1951 in Europa hebben plaats gevonden"; hetzij
+- (5) He can no longer, because the circumstances in connexion with which he has been recognized as a refugee have ceased to exist, continue to refuse to avail himself of the protection of the country of his nationality; Provided that this paragraph shall not apply to a refugee falling under section A (1) of this article who is able to invoke compelling reasons arising out of previous persecution for refusing to avail himself of the protection of the country of nationality;
 
-- (b). „gebeurtenissen welke vóór 1 Januari 1951 in Europa of elders hebben plaats gevonden";
+- (6) Being a person who has no nationality he is, because the circumstances in connexion with which he has been recognized as a refugee have ceased to exist, able to return to the country of his former habitual residence; Provided that this paragraph shall not apply to a refugee falling under section A (1) of this article who is able to invoke compelling reasons arising out of previous persecution for refusing to return to the country of his former habitual residence.
 
-- (2). Elke Verdragsluitende Staat die de omschrijving **(a)** heeft aanvaard, kan te allen tijde door middel van een kennisgeving aan de Secretaris-Generaal van de Verenigde Naties zijn verplichtingen uitbreiden door omschrijving **(b)** te aanvaarden.
+D. This Convention shall not apply to persons who are at present receiving from organs or agencies of the United Nations other than the United Nations High Commissioner for Refugees protection or assistance.
 
-C. Dit Verdrag houdt op van toepassing te zijn op elke persoon die valt onder de bepalingen van afdeling A, indien:
+When such protection or assistance has ceased for any reason, without the position of such persons being definitively settled in accordance with the relevant resolutions adopted by the General Assembly of the United Nations, these persons shall *ipso facto* be entitled to the benefits of this Convention.
 
-- (1). Hij vrijwillig wederom de bescherming inroept van het land waarvan hij de nationaliteit bezit;
+E. This Convention shall not apply to a person who is recognized by the competent authorities of the country in which he has taken residence as having the rights and obligations which are attached to the possession of the nationality of that country.
 
-- (2). Hij, indien hij zijn nationaliteit had verloren, deze vrijwillig heeft herkregen;
+F. The provisions of this Convention shall not apply to any person with respect to whom there are serious reasons for considering that:
 
-- (3). Hij een nieuwe nationaliteit heeft verkregen en de bescherming geniet van het land waarvan hij de nieuwe nationaliteit bezit;
+- (a) he has committed a crime against peace, a war crime, or a crime against humanity, as defined in the international instruments drawn up to make provision in respect of such crimes;
 
-- (4). Hij zich vrijwillig opnieuw heeft gevestigd in het land dat hij had verlaten of waarbuiten hij uit vrees voor vervolging verblijf hield;
+- (b) he has committed a serious non-political crime outside the country of refuge prior to his admission to that country as a refugee;
 
-- (5). Hij niet langer kan blijven weigeren de bescherming van het land waarvan hij de nationaliteit bezit, in te roepen, omdat de omstandigheden in verband waarmede hij was erkend als vluchteling, hebben opgehouden te bestaan; Met dien verstande echter, dat dit lid niet van toepassing is op een vluchteling die onder lid 1 van afdeling A van dit artikel valt, en die dwingende redenen, voortvloeiende uit vroegere vervolging, kan aanvoeren om te weigeren de bescherming van het land waarvan hij de nationaliteit bezit, in te roepen;
+- (c) he has been guilty of acts contrary to the purposes and principles of the United Nations.
 
-- (6). Hij, indien hij geen nationaliteit bezit, kan terugkeren naar het land waar hij vroeger zijn gewone verblijfplaats had, omdat de omstandigheden in verband waarmede hij was erkend als vluchteling, hebben opgehouden te bestaan; Met dien verstande echter, dat dit lid niet van toepassing is op een vluchteling die onder lid 1 van afdeling A van dit artikel valt, en die dwingende redenen, voortvloeiende uit vroegere vervolging, kan aanvoeren om te weigeren naar het land waar hij vroeger zijn gewone verblijfplaats had, terug te keren.
+##### Article 2. General Obligations
 
-D. Dit Verdrag is niet van toepassing op personen die thans bescherming of bijstand genieten van andere organen of instellingen van de Verenigde Naties dan van de Hoge Commissaris van de Verenigde Naties voor de Vluchtelingen.
+Every refugee has duties to the country in which he finds himself, which require in particular that he conform to its laws and regulations as well as to measures taken for the maintenance of public order.
 
-Wanneer deze bescherming of bijstand om welke reden ook is opgehouden, zonder dat de positie van zodanige personen definitief geregeld is in overeenstemming met de desbetreffende resoluties van de Algemene Vergadering van de Verenigde Naties, zullen deze personen van rechtswege onder dit Verdrag vallen.
+##### Article 3. Non-discrimination
 
-E. Dit Verdrag is niet van toepassing op een persoon die door de bevoegde autoriteiten van het land waar hij zich heeft gevestigd, beschouwd wordt de rechten en verplichtingen te hebben, aan het bezit van de nationaliteit van dat land verbonden.
+The Contracting States shall apply the provisions of this Convention to refugees without discrimination as to race, religion or country of origin.
 
-F. De bepalingen van dit Verdrag zijn niet van toepassing op een persoon ten aanzien van wie er ernstige redenen zijn om te veronderstellen, dat:
+##### Article 4. Religion
 
-- (a). hij een misdrijf tegen de vrede, een oorlogsmisdrijf of een misdrijf tegen de menselijkheid heeft begaan, zoals omschreven in de internationale overeenkomsten welke zijn opgesteld om bepalingen met betrekking tot deze misdrijven in het leven te roepen;
+The Contracting States shall accord to refugees within their territories treatment at least as favourable as that accorded to their nationals with respect to freedom to practice their religion and freedom as regards the religious education of their children.
 
-- (b). hij een ernstig, niet-politiek misdrijf heeft begaan buiten het land van toevlucht, voordat hij tot dit land als vluchteling is toegelaten;
+##### Article 5. Rights granted apart from this Convention
 
-- (c). hij zich schuldig heeft gemaakt aan handelingen welke in strijd zijn met de doelstellingen en beginselen van de Verenigde Naties.
+Nothing in this Convention shall be deemed to impair any rights and benefits granted by a Contracting State to refugees apart from this Convention.
 
-##### Artikel 2. Algemene verplichtingen
+##### Article 6. The Term "in the same circumstances"
 
-Elke vluchteling heeft plichten tegenover het land waarin hij zich bevindt. Deze plichten brengen in het bijzonder mede, dat de vluchteling zich houdt zowel aan de wetten en voorschriften als aan de maatregelen, genomen voor de handhaving van de openbare orde.
+For the purpose of this Convention, the term "in the same circumstances" implies that any requirements (including requirements as to length and conditions of sojourn or residence) which the particular individual would have to fulfil for the enjoyment of the right in question, if he were not a refugee, must be fulfilled by him, with the exception of requirements which by their nature a refugee is incapable of fulfilling.
 
-##### Artikel 3. Non-discriminatie
+##### Article 7. Exemption from Reciprocity
 
-De Verdragsluitende Staten zullen zonder onderscheid naar ras, godsdienst of land van herkomst de bepalingen van dit Verdrag op vluchtelingen toepassen.
+1. Except where this Convention contains more favourable provisions, a Contracting State shall accord to refugees the same treatment as is accorded to aliens generally.
 
-##### Artikel 4. Godsdienst
+2. After a period of three years' residence, all refugees shall enjoy exemption from legislative reciprocity in the territory of the Contracting States.
 
-De Verdragsluitende Staten zullen de vluchtelingen op hun grondgebied ten minste even gunstig behandelen als hun onderdanen, wat betreft de vrijheid tot uitoefening van hun godsdienst en de vrijheid ten aanzien van de godsdienstige opvoeding van hun kinderen.
+3. Each Contracting State shall continue to accord to refugees the rights and benefits to which they were already entitled, in the absence of reciprocity, at the date of entry into force of this Convention for that State.
 
-##### Artikel 5. Rechten onafhankelijk van dit Verdrag verleend
+4. The Contracting States shall consider favourably the possibility of according to refugees, in the absence of reciprocity, rights and benefits beyond those to which they are entitled according to paragraphs 2 and 3, and to extending exemption from reciprocity to refugees who do not fulfil the conditions provided for in paragraphs 2 and 3.
 
-Geen der bepalingen van dit Verdrag maakt inbreuk op de rechten en voordelen, welke door een Verdragsluitende Staat onafhankelijk van dit Verdrag aan vluchtelingen zijn verleend.
+5. The provisions of paragraphs 2 and 3 apply both to the rights and benefits referred to in articles 13, 18, 19, 21 and 22 of this Convention and to rights and benefits for which this Convention does not provide.
 
-##### Artikel 6. De term ,,onder dezelfde omstandigheden"
+##### Article 8. Exemption from Exceptional Measures
 
-Voor de toepassing van dit Verdrag houdt de term „onder dezelfde omstandigheden" in, dat een vluchteling voor de uitoefening van een recht moet voldoen aan alle eisen (waaronder begrepen die betreffende de duur van en de voorwaarden voor tijdelijk verblijf of vestiging) waaraan hij zou moeten voldoen indien hij geen vluchteling was, met uitzondering van de eisen waaraan, wegens hun aard, een vluchteling niet kan voldoen.
+With regard to exceptional measures which may be taken against the person, property or interests of nationals of a foreign State, the Contracting States shall not apply such measures to a refugee who is formally a national of the said State solely on account of such nationality. Contracting States which, under their legislation, are prevented from applying the general principle expressed in this article, shall, in appropriate cases, grant exemptions in favour of such refugees.
 
-##### Artikel 7. Vrijstelling van de voorwaarde van wederkerigheid
+##### Article 9. Provisional Measures
 
-- 1. Behoudens de gevallen dat dit Verdrag gunstiger bepalingen bevat, zal een Verdragsluitende Staat vluchtelingen op dezelfde wijze behandelen als vreemdelingen in het algemeen.
+Nothing in this Convention shall prevent a Contracting State, in time of war or other grave and exceptional circumstances, from taking provisionally measures which it considers to be essential to the national security in the case of a particular person, pending a determination by the Contracting State that that person is in fact a refugee and that the continuance of such measures is necessary in his case in the interests of national security.
 
-- 2. Na een driejarig verblijf genieten alle vluchtelingen vrijstelling van de voorwaarde van wettelijke wederkerigheid op het grondgebied van de Verdragsluitende Staten.
+##### Article 10. Continuity of Residence
 
-- 3. Elke Verdragsluitende Staat zal aan vluchtelingen de rechten en voordelen blijven toekennen waarop dezen, bij het ontbreken van de voorwaarde van wederkerigheid, reeds recht hadden op de datum van inwerkingtreding van dit Verdrag voor die Staat.
+1. Where a refugee has been forcibly displaced during the Second World War and removed to the territory of a Contracting State, and is resident there, the period of such enforced sojourn shall be considered to have been lawful residence within that territory.
 
-- 4. De Verdragsluitende Staten zullen in welwillende overweging nemen om aan vluchtelingen, bij het ontbreken van de voorwaarde van wederkerigheid, rechten en voordelen te verlenen buiten die waarop zij krachtens lid 2 en 3 aanspraak kunnen maken, alsmede om de vrijstelling van de voorwaarde van wederkerigheid uit te strekken tot vluchtelingen die niet aan de in lid 2 en 3 bedoelde voorwaarden voldoen.
+2. Where a refugee has been forcibly displaced during the Second World War from the territory of a Contracting State and has, prior to the date of *entry into* force of this Convention, returned there for the purpose of taking up residence, the period of residence before and after such enforced displacement shall be regarded as one uninterrupted period for any purposes for which uninterrupted residence is required.
 
-- 5. De bepalingen van lid 2 en 3 zijn zowel van toepassing op de rechten en voordelen, bedoeld in de artikelen 13, 18, 19, 21 en 22 van dit Verdrag, als op de rechten en voordelen, waarin dit Verdrag niet voorziet.
+##### Article 11. Refugee Seamen
 
-##### Artikel 8. Vrijstelling van buitengewone maatregelen
+In the case of refugees regularly serving as crew members on board a ship flying the flag of a Contracting State, that State shall give sympathetic consideration to their establishment on its territory and the issue of travel documents to them or their temporary admission to its territory particularly with a view to facilitating their establishment in another country.
 
-De Verdragsluitende Staten zullen de buitengewone maatregelen welke kunnen worden, genomen tegen de persoon, de goederen of de belangen van onderdanen van een vreemde Staat, niet enkel op grond van de nationaliteit toepassen op een vluchteling die formeel een onderdaan is van die Staat. De Verdragsluitende Staten die krachtens hun wetgeving niet het in dit artikel neergelegde algemene beginsel kunnen toepassen, zullen in de daarvoor in aanmerking komende gevallen vrijstelling ten gunste van zodanige vluchtelingen verlenen.
+### CHAPTER II. Juridical Status
 
-##### Artikel 9. Voorlopige maatregelen
+##### Article 12. Personal Status
 
-Geen der bepalingen van dit Verdrag vormt een belemmering voor een Verdragsluitende Staat om, in tijd van oorlog of andere ernstige en buitengewone omstandigheden, ten aanzien van een bepaald persoon de voorlopige maatregelen te nemen, welke deze Staat noodzakelijk acht voor zijn nationale veiligheid, in afwachting van de vaststelling door de Verdragsluitende Staat, dat die persoon werkelijk een vluchteling is en dat de handhaving van die maatregelen te zijnen aanzien noodzakelijk is in het belang van de nationale veiligheid.
+1. The personal status of a refugee shall be governed by the law of the country of his domicile or, if he has no domicile, by the law of the country of his residence.
 
-##### Artikel 10. Ononderbroken verblijf
+2. Rights previously acquired by a refugee and dependent on personal status, more particularly rights attaching to marriage, shall be respected by a Contracting State, subject to compliance, if this be necessary, with the formalities required by the law of that State, provided that the right in question is one which would have been recognized by the law of that State had he not become a refugee.
 
-1. Wanneer een vluchteling gedurende de Tweede Wereldoorlog is gedeporteerd en overgebracht naar het grondgebied van een Verdragsluitende Staat en aldaar verblijft, wordt de periode van een zodanig gedwongen tijdelijk verblijf beschouwd als rechtmatig verblijf op dat grondgebied.
+##### Article 13. Movable and Immovable Property
 
-2. Wanneer een vluchteling gedurende de Tweede Wereldoorlog is gedeporteerd uit het grondgebied van een Verdragsluitende Staat en vóór de datum van inwerkingtreding van dit Verdrag daarheen is teruggekeerd teneinde aldaar te verblijven, wordt de periode van verblijf vóór en na deze gedwongen verplaatsing, voor alle doeleinden waarvoor ononderbroken verblijf is vereist, beschouwd als één enkele ononderbroken periode.
+The Contracting States shall accord to a refugee treatment as favourable as possible and, in any event, not less favourable than that accorded to aliens generally in the same circumstances, as regards the acquisition of movable and immovable property and other rights pertaining thereto, and to leases and other contracts relating to movable and immovable property.
 
-##### Artikel 11. Vluchtelingen-zeelieden
+##### Article 14. Artistic Rights and Industrial Property
 
-Indien vluchtelingen geregeld als schepeling dienst doen aan boord van een schip dat de vlag voert van een Verdragsluitende Staat, zal die Staat in welwillende overweging nemen om hen toe te staan zich op zijn grondgebied te vestigen en om hun reisdocumenten te verstrekken of hen tijdelijk toe te laten op zijn grondgebied, in het bijzonder teneinde hun vestiging in een ander land te vergemakkelijken.
+In respect of the protection of industrial property, such as inventions, designs or models, trade marks, trade names, and of rights in literary, artistic and scientific works, a refugee shall be accorded in the country in which he has his habitual residence the same protection as is accorded to nationals of that country. In the territory of any other Contracting State, he shall be accorded the same protection as is accorded in that territory to nationals of the country in which he has his habitual residence.
 
-### HOOFDSTUK II. Juridische status
+##### Article 15. Right of Association
 
-##### Artikel 12. Persoonlijke staat
+As regards non-political and non-profit-making associations and trade unions the Contracting States shall accord to refugees lawfully staying in their territory the most favourable treatment accorded to nationals of a foreign country, in the same circumstances.
 
-1. De persoonlijke staat van een vluchteling wordt beheerst door de wet van het land van zijn woonplaats, of, indien hij geen woonplaats heeft, van het land van zijn verblijf.
+##### Article 16. Access to Courts
 
-2. De rechten welke een vluchteling vroeger heeft verkregen en welke uit de persoonlijke staat voortvloeien, in het bijzonder de rechten, voortvloeiende uit het huwelijk, zullen door een Verdragsluitende Staat worden geëerbiedigd, behoudens dat, zo nodig, de vluchteling de door de wet van die Staat vereiste formaliteiten moet vervullen. Deze bepaling is alleen van toepassing op rechten welke door de wet van die Staat zouden zijn erkend indien de betrokkene geen vluchteling was geworden.
+1. A refugee shall have free access to the courts of law on the territory of all Contracting States.
 
-##### Artikel 13. Roerende en onroerende goederen
+2. A refugee shall enjoy in the Contracting State in which he has his habitual residence the same treatment as a national in matters pertaining to access to the Courts, including legal assistance and exemption from *cautio judicatum solvi.*
 
-De Verdragsluitende Staten zullen een vluchteling zo gunstig mogelijk behandelen en in elk geval niet minder gunstig dan vreemdelingen in het algemeen onder dezelfde omstandigheden, wat betreft het verkrijgen van roerende en onroerende goederen en andere daarop betrekking hebbende rechten, alsmede huur en andere overeenkomsten betreffende roerende en onroerende goederen.
+3. A refugee shall be accorded in the matters referred to in paragraph 2 in countries other than that in which he has his habitual residence the treatment granted to a national of the country of his habitual residence.
 
-##### Artikel 14. Auteursrechten en industriële eigendom
+### CHAPTER III. Gainful Employment
 
-Wat betreft de bescherming van de industriële eigendom, zoals uitvindingen, ontwerpen en modellen, handelsmerken, handelsnamen en de rechten op werken van letterkunde, kunst en wetenschap, geniet een vluchteling in het land waar hij zijn gewone verblijfplaats heeft, dezelfde bescherming als de onderdanen van dat land. Op het grondgebied van elke andere Verdragsluitende Staat geniet hij dezelfde bescherming als op dat grondgebied wordt verleend aan de onderdanen van het land waar hij zijn gewone verblijfplaats heeft.
+##### Article 17. Wage-earning Employment
 
-##### Artikel 15. Recht van vereniging
+1. The Contracting States shall accord to refugees lawfully staying in their territory the most favourable treatment accorded to nationals of a foreign country in the same circumstances, as regards the right to engage in wage-earning employment.
 
-Wat betreft niet-politieke verenigingen, verenigingen zonder het oogmerk om winst te maken en vakverenigingen, zullen de Verdragsluitende Staten aan de rechtmatig op hun grondgebied verblijvende vluchtelingen de meest gunstige behandeling verlenen, welke wordt toegekend aan onderdanen van een vreemd land onder dezelfde omstandigheden.
+2. In any case, restrictive measures imposed on aliens or the employment of aliens for the protection of the national labour market shall not be applied to a refugee who was already exempt from them at the date of entry into force of this Convention for the Contracting State concerned, or who fulfils one of the following conditions:
 
-##### Artikel 16. Rechtsingang
+- (a) He has completed three years' residence in the country;
 
-1. Een vluchteling heeft het genot van rechtsingang op het grondgebied van alle Verdragsluitende Staten.
+- (b) He has a spouse possessing the nationality of the country of residence. A refugee may not invoke the benefit of this provision if he has abandoned his spouse;
 
-2. Een vluchteling geniet in de Verdragsluitende Staat waar hij zijn gewone verblijfplaats heeft, dezelfde behandeling als een onderdaan, wat betreft rechtsingang, waaronder begrepen rechtsbijstand en vrijstelling van de **cautio judicatum solvi.**
+- (c) He has one or more children possessing the nationality of the country of residence.
 
-3. In andere Verdragsluitende Staten dan die waar hij zijn gewone verblijfplaats heeft, geniet een vluchteling, wat betreft de in lid 2 bedoelde aangelegenheden, dezelfde behandeling als een onderdaan van het land waar hij zijn gewone verblijfplaats heeft.
+3. The Contracting States shall give sympathetic consideration to assimilating the rights of all refugees with regard to wage-earning employment to those of nationals, and in particular of those refugees who have entered their territory pursuant to programmes of labour recruitment or under immigration schemes.
 
-### HOOFDSTUK III. Winstgevende arbeid
+##### Article 18. Self-employment
 
-##### Artikel 17. Loonarbeid
+The Contracting States shall accord to a refuges lawfully in their territory treatment as favourable as possible and, in any event, not less favourable than that accorded to aliens generally in the same circumstances, as regards the right to engage on his own account in agriculture, industry, handicrafts and commerce and to establish commercial and industrial companies.
 
-1. De Verdragsluitende Staten zullen aan de rechtmatig op hun grondgebied verblijvende vluchtelingen de meest gunstige behandeling verlenen, welke wordt toegekend aan onderdanen van een vreemd land onder dezelfde omstandigheden, wat betreft het recht om loonarbeid te verrichten.
+##### Article 19. Liberal Professions
 
-2. In geen geval zullen de beperkende maatregelen welke voor vreemdelingen of voor de tewerkstelling van vreemdelingen ter bescherming van de nationale arbeidsmarkt gelden, worden toegepast op een vluchteling die er reeds van was vrijgesteld op de datum van inwerkingtreding van dit Verdrag voor de betrokken Verdragsluitende Staat, of die aan één van de volgende voorwaarden voldoet:
+1. Each Contracting State shall accord to refugees lawfully staying in their territory who hold diplomas recognized by the competent authorities of that State, and who are desirous of practising a liberal profession, treatment as favourable as possible and, in any event, not less favourable than that accorded to aliens generally in the same circumstances.
 
-- (a). dat hij reeds drie jaren in het land verblijft;
+2. The Contracting States shall use their best endeavours consistently with their laws and constitutions to secure the settlement of such refugees in the territories, other than the metropolitan territory, for whose international relations they are responsible.
 
-- (b). dat hij gehuwd is met een persoon, die de nationaliteit bezit van het land waar hij verblijft. Een vluchteling kan zich niet op deze bepaling beroepen ingeval hij de bedoelde persoon heeft verlaten;
+### CHAPTER IV. Welfare
 
-- (c). dat hij één of meer kinderen heeft, die de nationaliteit bezitten van het land waar hij verblijft.
+##### Article 20. Rationing
 
-3. De Verdragsluitende Staten zullen in welwillende overweging nemen, de rechten van alle vluchtelingen met betrekking tot loonarbeid gelijk te stellen met die van hun onderdanen en in het bijzonder van die vluchtelingen die hun grondgebied zijn binnengekomen ingevolge programma's van aanwerving van arbeidskrachten of ingevolge immigratieplannen.
+Where a rationing system exists, which applies to the population at large and regulates the general distribution of products in short supply, refugees shall be accorded the same treatment as nationals.
 
-##### Artikel 18. Zelfstandige beroepen
+##### Article 21. Housing
 
-De Verdragsluitende Staten zullen een rechtmatig op hun grondgebied verblijvende vluchteling zo gunstig mogelijk behandelen en in elk geval niet minder gunstig dan vreemdelingen in het algemeen onder dezelfde omstandigheden, wat betreft het recht om voor eigen rekening in landbouw, industrie, ambacht en handel werkzaam te zijn en commerciële of industriële vennootschappen op te richten.
+As regards housing, the Contracting States, in so far as the matter is regulated by laws or regulations or is subject to the control of public authorities, shall accord to refugees lawfully staying in their territory treatment as favourable as possible and, in any event, not less favourable than that accorded to aliens generally in the same circumstances.
 
-##### Artikel 19. Vrije beroepen
+##### Article 22. Public Education
 
-1. Elke Verdragsluitende Staat zal de rechtmatig op zijn grondgebied verblijvende vluchtelingen die houders zijn van diploma's welke door de bevoegde autoriteiten van die Staat worden erkend, en die een vrij beroep wensen uit te oefenen, zo gunstig mogelijk behandelen en in elk geval niet minder gunstig dan vreemdelingen in het algemeen onder dezelfde omstandigheden.
+1. The Contracting States shall accord to refugees the same treatment as is accorded to nationals with respect to elementary education.
 
-2. De Verdragsluitende Staten zullen al het mogelijke doen, overeenkomstig hun wetten en grondwetten, om de vestiging van zodanige vluchtelingen in gebieden buiten het moederland, voor welker internationale betrekkingen zij verantwoordelijk zijn, te verzekeren.
+2. The Contracting States shall accord to refugees treatment as favourable as possible, and, in any event, not less favourable than that accorded to aliens generally in the same circumstances, with respect to education other than elementary education and, in particular, as regards access to studies, the recognition of foreign school certificates, diplomas and degrees, the remission of fees and charges and the award of scholarships.
 
-### HOOFDSTUK IV. Welzijn
+##### Article 23. Public Relief
 
-##### Artikel 20. Distributie
+The Contracting States shall accord to refugees lawfully staying in their territory the same treatment with respect to public relief and assistance as is accorded to their nationals.
 
-Wanneer een distributie-stelsel bestaat, dat op de gehele bevolking van toepassing is en de algemene verdeling van schaarse goederen regelt, zullen de vluchtelingen op dezelfde wijze worden behandeld als de onderdanen.
+##### Article 24. Labour Legislation and Social Security
 
-##### Artikel 21. Huisvesting
+1. The Contracting States shall accord to refugees lawfully staying in their territory the same treatment as is accorded to nationals in respect of the following matters:
 
-Wat de huisvesting betreft, zullen de Verdragsluitende Staten, voor zover deze aangelegenheid geregeld is bij de wet of door voorschriften dan wel onderworpen is aan overheidstoezicht, de rechtmatig op hun grondgebied verblijvende vluchtelingen zo gunstig mogelijk behandelen en in elk geval niet minder gunstig dan vreemdelingen in het algemeen onder dezelfde omstandigheden.
+- (a) In so far as such matters are governed by laws or regulations or are subject to the control of administrative authorities: remuneration, including family allowances where these form part of remuneration, hours of work, overtime arrangements, holidays with pay, restrictions on home work, minimum age of employment, apprenticeship and training, women's work and the work of young persons, and the enjoyment of the benefits of collective bargaining;
 
-##### Artikel 22. Openbaar onderwijs
+- (b) Social security (legal provisions in respect of employment injury, occupational diseases, maternity, sickness, disability, old age, death, unemployment, family responsibilities and any other contingency which, according to national laws or regulations, is covered by a social security scheme), subject to the following limitations:
 
-1. De Verdragsluitende Staten zullen, wat het lager onderwijs betreft, de vluchtelingen op dezelfde wijze behandelen als de onderdanen.
+   - (i) There may be appropriate arrangements for the maintenance of acquired rights and rights in course of acquisition;
 
-2. De Verdragsluitende Staten zullen de vluchtelingen zo gunstig mogelijk behandelen en in elk geval niet minder gunstig dan vreemdelingen in het algemeen onder dezelfde omstandigheden, wat betreft de andere categorieën van onderwijs dan lager onderwijs en, in het bijzonder, wat betreft de toelating tot de studie, de erkenning van buitenlandse schoolcertificaten, universitaire diploma's en graden, de vermindering van studiegelden en de toekenning van beurzen.
+   - (ii) National laws or regulations of the country of residence may prescribe special arrangements concerning benefits or portions of benefits which are payable wholly out of public funds, and concerning allowances paid to persons who do not fulfil the contribution conditions prescribed for the award of a normal pension.
 
-##### Artikel 23. Ondersteuning van overheidswege
+2. The right to compensation for the death of a refugee resulting from employment injury or from occupational disease shall not be affected by the fact that the residence of the beneficiary is outside the territory of the Contracting State.
 
-De Verdragsluitende Staten zullen de rechtmatig op hun grondgebied verblijvende vluchtelingen, wat de ondersteuning en bijstand van overheidswege ter voorziening in het levensonderhoud betreft, op dezelfde wijze als hun onderdanen behandelen.
+3. The Contracting States shall extend to refugees the benefits of agreements concluded between them, or which may be concluded between them in the future, concerning the maintenance of acquired rights and rights in the process of acquisition in regard to social security, subject only to the conditions which apply to nationals of the States signatory to the agreements in question.
 
-##### Artikel 24. Arbeidswetgeving en sociale zekerheid
+4. The Contracting States will give sympathetic consideration to extending to refugees so far as possible the benefits of similar agreements which may at any time be in force between such Contracting States and noncontracting States.
 
-1. De Verdragsluitende Staten zullen de rechtmatig op hun grondgebied verblijvende vluchtelingen op dezelfde wijze behandelen als de onderdanen, wat de volgende aangelegenheden betreft:
+### CHAPTER V. Administrative Measures
 
-- (a). Voor zover deze aangelegenheden zijn geregeld bij de wet of door voorschriften dan wel onderworpen zijn aan overheidstoezicht: beloning, niet inbegrip van gezinsuitkeringen welke daarvan deel uitmaken, werktijden, overwerk, betaald verlof, beperking van huisarbeid, minimum-leeftijd voor arbeid in loondienst, leerlingenstelsel en vakopleiding, arbeid van vrouwen en jeugdige personen, en aanspraken uit collectieve arbeidsovereenkomsten;
+##### Article 25. Administrative Assistance
 
-- (b). Sociale zekerheid (wettelijke voorschriften betreffende arbeidsongevallen, beroepsziekten, moederschap, ziekte, invaliditeit, ouderdom, overlijden, werkloosheid, gezinslasten en elk ander risico dat, overeenkomstig de nationale wetgeving, valt onder een stelsel van sociale zekerheid), behoudens:
+1. When the exercise of a right by a refugee would normally require the assistance of authorities of a foreign country to whom he cannot have recourse, the Contracting States in whose territory he is residing shall arrange that such assistance be afforded to him by their own authorities or by an international authority.
 
-- i). Passende regelingen voor de handhaving van verkregen rechten en van rechten welker verkrijging een aanvang heeft genomen;
+2. The authority or authorities mentioned in paragraph 1 shall deliver or cause to be delivered under their supervision to refugees such documents or certifications as would normally be delivered to aliens by or through their national authorities,
 
-- ii). Bijzondere, door de nationale wetgeving van het land van verblijf voorgeschreven regelingen betreffende uitkeringen of gedeeltelijke uitkeringen, geheel betaalbaar uit openbare geldmiddelen, alsmede uitkeringen, gedaan aan hen die niet voldoen aan de voor de toekenning van een normale uitkering gestelde voorwaarden inzake bijdragen.
+3. Documents or certifications so delivered shall stand in the stead of the official instruments delivered to aliens by or through their national authorities, and shall be given credence in the absence of proof to the contrary.
 
-2. Het recht op schadeloosstelling wegens het overlijden van een vluchteling, veroorzaakt door een arbeidsongeval of een beroepsziekte, wordt niet aangetast door het feit, dat de rechthebbende buiten het grondgebied van de Verdragsluitende Staat is gevestigd.
+4. Subject to such exceptional treatment as may be granted to indigent persons, fees may be charged for the services mentioned herein, but such fees shall be moderate and commensurate with those charged to nationals for similar services.
 
-3. De Verdragsluitende Staten zullen de voordelen van tussen hen gesloten of nog te sluiten overeenkomsten betreffende de handhaving van verkregen rechten of van rechten welker verkrijging een aanvang heeft genomen op het gebied van sociale zekerheid, uitstrekken tot vluchtelingen, voor zover deze voldoen aan de voorwaarden, gesteld aan de onderdanen van de Staten die partij zijn bij de overeenkomsten in kwestie.
+5. The provisions of this article shall be without prejudice to articles 27 and 28.
 
-4. De Verdragsluitende Staten zullen in welwillende overweging nemen om, voor zover mogelijk, de voordelen van soortgelijke overeenkomsten welke van kracht zijn of zullen worden tussen deze Verdragsluitende Staten en niet-Verdragsluitende Staten, uit te strekken tot vluchtelingen.
+##### Article 26. Freedom of Movement
 
-### HOOFDSTUK V. Administratieve maatregelen
+Each Contracting State shall accord to refugees lawfully in its territory the right to choose their place of residence and to move freely within its territory, subject to any regulations applicable to aliens generally in the same circumstances.
 
-##### Artikel 25. Administratieve bijstand
+##### Article 27. Identity Papers
 
-1. Wanneer de uitoefening van een recht door een vluchteling normaal de medewerking zou vereisen van buitenlandse autoriteiten op wie hij geen beroep kan doen, zullen de Verdragsluitende Staten op wier grondgebied hij verblijft, zorg dragen, dat zodanige medewerking hem wordt verleend door hun eigen autoriteiten of door een internationale autoriteit.
+The Contracting States shall issue identity papers to any refugee in their territory who does not possess a valid travel document.
 
-2. De in lid 1 bedoelde autoriteit of autoriteiten zullen aan vluchtelingen de documenten of verklaringen verstrekken of onder haar toezicht doen verstrekken, welke normaal aan vreemdelingen zouden worden verstrekt door of door tussenkomst van hun nationale autoriteiten.
+##### Article 28. Travel Documents
 
-3. De aldus verstrekte documenten of verklaringen zullen strekken tot vervanging van de officiële bewijsstukken welke aan vreemdelingen door of door tussenkomst van hun nationale autoriteiten worden afgegeven, en zullen geloof verdienen behoudens tegenbewijs.
+1. The Contracting States shall issue to refugees lawfully staying in their territory travel documents for the purpose of travel outside their territory, unless compelling reasons of national security or public order otherwise require, and the provisions of the Schedule to this Convention shall apply with respect to such documents. The Contracting States may issue such a travel document to any other refugee in their territory; they shall in particular give sympathetic consideration to the issue of such a travel document to refugees in their territory who are unable to obtain a travel document from the country of their lawful residence.
 
-4. Onverminderd de uitzonderingen welke ten gunste van behoeftigen worden toegestaan, mogen de in dit artikel genoemde diensten worden belast; maar deze heffingen moeten matig zijn en evenredig aan die welke aan de onderdanen voor soortgelijke diensten worden opgelegd.
+2. Travel documents issued to refugees under previous international agreements by parties thereto shall be recognized and treated by the Contracting States in the same way as if they had been issued pursuant to this article.
 
-5. De bepalingen van dit artikel doen geen afbreuk aan de artikelen 27 en 28.
+##### Article 29. Fiscal Charges
 
-##### Artikel 26. Bewegingsvrijheid
+1. The Contracting States shall not impose upon refugees duties, charges or taxes, of any description whatsoever, other or higher than those which are or may be levied on their nationals in similar situations.
 
-Elke Verdragsluitende Staat zal aan de rechtmatig op zijn grondgebied vertoevende vluchtelingen het recht verlenen er hun verblijf te kiezen en zich vrij op dat grondgebied te bewegen, onverminderd de voorschriften welke op vreemdelingen in het algemeen van toepassing zijn onder dezelfde omstandigheden.
+2. Nothing in the above paragraph shall prevent the application to refugees of the laws and regulations concerning charges in respect of the issue to aliens of administrative documents including identity papers.
 
-##### Artikel 27. Identiteitspapieren
+##### Article 30. Transfer of Assets
 
-De Verdragsluitende Staten zullen identiteitspapieren verstrekken aan elke vluchteling op hun grondgebied, die niet in het bezit is van een geldig reisdocument.
+1. A Contracting State shall, in conformity with its laws and regulations, permit refugees to transfer assets which they have brought into its territory, to another country where they have been admitted for the purposes of resettlement.
 
-##### Artikel 28. Reisdocumenten
+2. A Contracting State shall give sympathetic consideration to the application of refugees for permission to transfer assets wherever they may be and which are necessary for their resettlement in another country to which they have been admitted.
 
-1. De Verdragsluitende Staten zullen aan de rechtmatig op hun grondgebied verblijvende vluchtelingen reisdocumenten verstrekken voor het reizen buiten dat grondgebied, tenzij dwingende redenen van nationale veiligheid of openbare orde zich daartegen verzetten; de bepalingen van de Bijlage van dit Verdrag zijn van toepassing op deze documenten. De Verdragsluitende Staten kunnen een zodanig reisdocument verstrekken aan elke andere vluchteling op hun grondgebied; in het bijzonder zullen zij in welwillende overweging nemen, een zodanig reisdocument te verstrekken aan vluchtelingen op hun grondgebied, die niet in staat zijn een reisdocument te verkrijgen van het land van hun rechtmatig verblijf.
+##### Article 31. Refugees unlawfully in the Country of Refuge
 
-2. De reisdocumenten welke krachtens vroegere internationale overeenkomsten door partijen daarbij aan vluchtelingen zijn verstrekt, zullen door de Verdragsluitende Staten worden erkend en behandeld alsof zij krachtens dit artikel aan de vluchtelingen waren verstrekt.
+1. The Contracting States shall not impose penalties, on account of their illegal entry or presence, on refugees who, coming directly from a territory where their life or freedom was threatened in the sense of article 1, enter or are present in their territory without authorization, provided they present themselves without delay to the authorities and show good cause for their illegal entry or presence.
 
-##### Artikel 29. Fiscale lasten
+2. The Contracting States shall not apply to the movements of such refugees restrictions other than those which are necessary and such restrictions shall only be applied until their status in the country is regularized or they obtain admission into another country. The Contracting States shall allow such refugees a reasonable period and all the necessary facilities to obtain admission into another country.
 
-1. De Verdragsluitende Staten zullen vluchtelingen niet aan andere of hogere rechten, heffingen of belastingen, van welke benaming ook, onderwerpen dan die welke worden of kunnen worden geheven ten aanzien van hun onderdanen in soortgelijke omstandigheden.
+##### Article 32. Expulsion
 
-2. Geen der bepalingen van het voorgaand lid vormt een belemmering voor de toepassing op vluchtelingen van de wetten en voorschriften betreffende de heffingen met betrekking tot de verstrekking aan vreemdelingen van administratieve documenten, waaronder begrepen identiteitspapieren.
+1. The Contracting States shall not expel a refugee lawfully in their territory save on grounds of national security or public order.
 
-##### Artikel 30. Transfer van activa
+2. The expulsion of such a refugee shall be only in pursuance of a decision reached in accordance with due process of law. Except where compelling reasons of national security otherwise require, the refugee shall be allowed to submit evidence to clear himself, and to appeal to and be represented for the purpose before competent authority or a person or persons specially designated by the competent authority.
 
-1. Elke Verdragsluitende Staat zal, overeenkomstig zijn wetten en voorschriften, aan vluchtelingen toestaan de activa welke zij binnen zijn grondgebied hebben gebracht, over te maken naar een ander land waar zij zijn toegelaten om zich opnieuw te vestigen.
+3. The Contracting States shall allow such a refugee a reasonable period within which to seek legal admission into another country. The Contracting States reserve the right to apply during that period such internal measures as they may deem necessary.
 
-2. Elke Verdragsluitende Staat zal de verzoeken in welwillende overweging nemen, welke worden ingediend door vluchtelingen om toestemming te verkrijgen alle andere activa over te maken, welke noodzakelijk zijn voor hun nieuwe vestiging in een ander land waar zij zijn toegelaten.
+##### Article 33. Prohibition of Expulsion or Return ("Refoulement")
 
-##### Artikel 31. Illegale vluchtelingen in het land van toevlucht
+1. No Contracting State shall expel or return ("refouler") a refugee in any manner whatsoever to the frontiers of territories where his life or freedom would be threatened on account of his race, religion, nationality, membership of a particular social group or political opinion.
 
-1. De Verdragsluitende Staten zullen geen strafsancties, op grond van onrechtmatige binnenkomst of onrechtmatig verblijf, toepassen op vluchtelingen die, rechtstreeks komend van een grondgebied waar hun leven of vrijheid in de zin van artikel 1 werd bedreigd, zonder toestemming hun grondgebied binnenkomen of zich aldaar bevinden, mits zij zich onverwijld bij de autoriteiten melden en deze overtuigen, dat zij geldige redenen hebben voor hun onrechtmatige binnenkomst of onrechtmatige aanwezigheid.
+2. The benefit of the present provision may not, however, be claimed by a refugee whom there are reasonable grounds for regarding as a danger to the security of the country in which he is, or who, having been convicted by a final judgement of a particularly serious crime, constitutes a danger to the community of that country.
 
-2. De Verdragsluitende Staten zullen de bewegingsvrijheid van zodanige vluchtelingen niet verder beperken dan noodzakelijk; deze beperkingen zullen alleen worden toegepast totdat hun status in het land van toevlucht is geregeld of totdat zij er in geslaagd zijn toegelaten te worden in een ander land. De Verdragsluitende Staten zullen aan deze vluchtelingen een redelijk uitstel, alsmede de nodige faciliteiten, verlenen teneinde toelating te verkrijgen in een ander land.
+##### Article 34. Naturalization
 
-##### Artikel 32. Uitzetting
+The Contracting States shall as far as possible facilitate the assimilation and naturalization of refugees. They shall in particular make every effort to expedite naturalization proceedings and to reduce as far as possible the charges and costs of such proceedings.
 
-1. De Verdragsluitende Staten zullen een rechtmatig op hun grondgebied vertoevende vluchteling niet uitzetten behoudens om redenen van nationale veiligheid of openbare orde.
+### CHAPTER VI. Executory and Transitory Provisions
 
-2. De uitzetting van een zodanige vluchteling zal alleen mogen plaats vinden ter uitvoering van een besluit dat is genomen in overeenstemming met de wettelijk voorziene procedure. Behoudens indien dwingende redenen van nationale veiligheid zich daartegen verzetten, is het de vluchteling toegestaan bewijs over te leggen om zich vrij te pleiten, alsmede zich te wenden tot een bevoegde autoriteit en zich te dien einde te doen vertegenwoordigen bij die autoriteit of bij één of meer speciaal door die bevoegde autoriteit aangewezen personen.
+##### Article 35. Co-operation of the National Authorities with the United Nations
 
-3. De Verdragsluitende Staten zullen een zodanige vluchteling een redelijk uitstel gunnen teneinde hem in staat te stellen te pogen in een ander land rechtmatig toegelaten te worden. De Verdragsluitende Staten behouden het recht, gedurende dat uitstel, zodanige interne maatregelen toe te passen als zij noodzakelijk achten.
+1. The Contracting States undertake to co-operate with the Office of the United Nations High Commissioner for Refugees, or any other agency of the United Nations which may succeed it, in the exercise of its functions, and shall in particular facilitate its duty of supervising the application of the provisions of this Convention.
 
-##### Artikel 33. Verbod tot uitzetting of terugleiding („refoulement" )
+2. In order to enable the Office of the High Commissioner or any other agency of the United Nations which may succeed it, to make reports to the competent organs of the United Nations, the Contracting States undertake to provide them in the appropriate form with information and statistical data requested concerning:
 
-1. Geen der Verdragsluitende Staten zal, op welke wijze ook, een vluchteling uitzetten of terugleiden naar de grenzen van een grondgebied waar zijn leven of vrijheid bedreigd zou worden op grond van zijn ras, godsdienst, nationaliteit, het behoren tot een bepaalde sociale groep of zijn politieke overtuiging.
+- (a) the condition of refugees,
 
-2. Op de voordelen van deze bepaling kan evenwel geen aanspraak worden gemaakt door een vluchteling ten aanzien van wie er ernstige redenen bestaan hem te beschouwen als een gevaar voor de veiligheid van het land waar hij zich bevindt, of die, bij gewijsde veroordeeld wegens een bijzonder ernstig misdrijf, een gevaar oplevert voor de gemeenschap van dat land.
+- (b) the implementation of this Convention, and
 
-##### Artikel 34. Naturalisatie
+- (c) laws, regulations and decrees which are, or may hereafter be, in force relating to refugees.
 
-De Verdragsluitende Staten zullen, voor zover mogelijk, de assimilatie en naturalisatie van vluchtelingen vergemakkelijken. Zij zullen in het bijzonder er naar streven de naturalisatie-procedure te bespoedigen en de tarieven en kosten van deze procedure zoveel mogelijk te verminderen.
+##### Article 36. Information on National Legislation
 
-### HOOFDSTUK VI. Uitvoerings- en overgangsbepalingen
+The Contracting States shall communicate to the Secretary-General of the United Nations the laws and regulations which they may adopt to ensure the application of this Convention.
 
-##### Artikel 35. Samenwerking van de nationale autoriteiten met de Verenigde Naties
+##### Article 37. Relation to Previous Conventions
 
-1. De Verdragsluitende Staten verbinden zich om met het Bureau van de Hoge Commissaris van de Verenigde Naties voor de Vluchtelingen, of elke andere organisatie van de Verenigde Naties die het mocht opvolgen, samen te werken in de uitoefening van zijn functie en zullen in het bijzonder zijn taak om toe te zien op de toepassing van de bepalingen van dit Verdrag vergemakkelijken.
+Without prejudice to article 28, paragraph 2, of this Convention, this Convention replaces, as between parties to it, the Arrangements of 5 July 1922, 31 May 1924, 12 May 1926, 30 June 1928 and 30 July 1935, the Conventions of 28 October 1933 and 10 February 1938, the Protocol of 14 September 1939 and the Agreement of 15 October 1946.
 
-2. Teneinde het Bureau van de Hoge Commissaris of elke andere organisatie van de Verenigde Naties die het mocht opvolgen, in staat te stellen rapporten in te dienen bij de bevoegde organen van de Verenigde Naties, verbinden de Verdragsluitende Staten zich om aan eerstgenoemde organisaties in de daarvoor in aanmerking komende vorm de gevraagde inlichtingen en statistische gegevens te verschaffen betreffende:
+### CHAPTER VII. Final Clauses
 
-- (a). de status van vluchtelingen;
+##### Article 38. Settlement of Disputes
 
-- (b). de tenuitvoerlegging van dit Verdrag;
+Any dispute between parties to this Convention relating to its interpretation or application, which cannot be settled by other means, shall be referred to the International Court of Justice at the request of any one of the parties to the dispute.
 
-- (c). de wetten, voorschriften en besluiten, welke met betrekking tot vluchtelingen van kracht zijn of van kracht zullen worden.
+##### Article 39. Signature, Ratification and Accession
 
-##### Artikel 36. Inlichtingen betreffende de nationale wetten en voorschriften
+1. This Convention shall be opened for signature at Geneva on 28 July 1951 and shall thereafter be deposited with the Secretary-General of the United Nations. It shall be open for signature at the European Office of the United Nations from 28 July to 31 August 1951 and shall be re-opened for signature at the Headquarters of the United Nations from 17 September 1951 to 31 December 1952.
 
-De Verdragsluitende Staten zullen aan de Secretaris-Generaal van de Verenigde Naties mededeling doen van de wetten en voorschriften, welke zij mochten aannemen om de toepassing van dit Verdrag te verzekeren.
+2. This Convention shall be open for signature on behalf of all States Members of the United Nations, and also on behalf of any other State invited to attend the Conference of Plenipotentiaries on the Status of Refugees and Stateless Persons or to which an invitation to sign will have been addressed by the General Assembly. It shall be ratified and the instruments of ratification shall be deposited with the Secretary-General of the United Nations.
 
-##### Artikel 37. Betrekking tot vroegere overeenkomsten
+3. This Convention shall be open from 28 July 1951 for accession by the States referred to in paragraph 2 of this article. Accession shall be effected by the deposit of an instrument of accession with the Secretary-General of the United Nations.
 
-Onverminderd de bepalingen van artikel 28, lid 2, vervangt dit Verdrag tussen de daarbij aangesloten partijen de Regelingen van 5 Juli 1922, 31 Mei 1924, 12 Mei 1926, 30 Juni 1928 en 30 Juli 1935, de Overeenkomsten van 28 October 1933 en 10 Februari 1938, het Protocol van 14 September 1939 en de Overeenkomst van 15 October 1946.
+##### Article 40. Territorial Application Clause
 
-### HOOFDSTUK VII. Slotbepalingen
+1. Any State may, at the time of signature, ratification or accession, declare that this Convention shall extend to all or any of the territories for the international relations of which it is responsible. Such a declaration shall take effect when the Convention enters into force for the State concerned.
 
-##### Artikel 38. Beslechting van geschillen
+2. At any time thereafter any such extension shall be made by notification addressed to the Secretary-General of the United Nations and shall take effect as from the ninetieth day after the day of receipt by the Secretary-General of the United Nations of this notification, or as from the date of entry into force of the Convention for the State concerned, whichever is the later.
 
-Elk geschil tussen partijen bij dit Verdrag betreffende de uitlegging of toepassing daarvan, hetwelk niet op andere wijze kan worden beslecht, zal op verzoek van één van de partijen bij het geschil worden voorgelegd aan het Internationale Gerechtshof.
+3. With respect to those territories to which this Convention is not extended at the time of signature, ratification or accession, each State concerned shall consider the possibility of taking the necessary steps in order to extend the application of this Convention to such territories, subject, where necessary for constitutional reasons, to the consent of the Governments of such territories.
 
-##### Artikel 39. Ondertekening, bekrachtiging en toetreding
+##### Article 41. Federal Clause
 
-1. Dit Verdrag staat op 28 Juli 1951 te Genève open voor ondertekening en zal nadien worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties. Het zal op het Europees Bureau van de Verenigde Naties voor ondertekening; openstaan van 28 Juli tot 31 Augustus 1951, terwijl het opnieuw voor ondertekening zal worden opengesteld op de Zetel van de Verenigde Naties van 17 September 1951 tot 31 December 1952.
+In the case of a Federal or non-unitary State, the following provisions shall apply:
 
-2. Dit Verdrag staat voor ondertekening open voor alle Staten-Leden van de Verenigde Naties, alsmede voor elke andere Staat die werd uitgenodigd voor de Diplomatieke Conferentie betreffende de status van vluchtelingen en staatloze personen, dan wel tot wie de Algemene Vergadering een uitnodiging tot ondertekenen zal hebben gericht. Het zal worden bekrachtigd en de akten van bekrachtiging zullen worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
+- (a) With respect to those articles of this Convention that come within the legislative jurisdiction of the federal legislative authority, the obligations of the Federal Government shall to this extent be the same as those of Parties which are not Federal States;
 
-3. Dit Verdrag staat van 28 Juli 1951 af open voor toetreding door de Staten, bedoeld in lid 2 van dit artikel. Toetreding zal plaats vinden door de neder legging van een akte van toetreding bij de Secretaris-Generaal van de Verenigde Naties.
+- (b) With respect to those articles of this Convention that come within the legislative jurisdiction of constitutional States provinces or cantons which are not, under the constitutional system of the federation, bound to take legislative action, the Federal Government shall bring such articles with a favourable recommendation to the notice of the appropriate authorities of states, provinces or cantons at the earliest possible moment.
 
-##### Artikel 40. Territoriale toepassingsclausule
+- (c) A Federal State Party to this Convention shall, at the request of any other Contracting State transmitted through the Secretary-General of the United Nations, supply a statement of the law and practice of the Federation and its constituent units in regard to any particular provision of the Convention showing the extent to which effect has been given to that provision by legislative or other action.
 
-1. Iedere Staat mag bij de ondertekening, bekrachtiging of toetreding verklaren, dat dit Verdrag eveneens van toepassing is op het geheel of een deel der grondgebieden voor welker internationale betrekkingen die Staat verantwoordelijk is. Een zodanige verklaring zal van kracht worden op het ogenblik van inwerkingtreding van het Verdrag voor de betrokken Staat.
+##### Article 42. Reservations
 
-2. Te allen tijde nadien zal een zodanige uitbreiding geschieden door middel van een tot de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving en van kracht worden op de negentigste dag, volgend op de datum waarop de Secretaris-Generaal van de Verenigde Naties de kennisgeving heeft ontvangen of op de datum van inwerkingtreding van het Verdrag voor de betrokken Staat, indien deze datum later is.
+1. At the time of signature, ratification or accession, any State may make reservations to articles of the Convention other than to articles 1, 3, 4, 16 (1), 33, 36 - 46 inclusive.
 
-3. Wat betreft de grondgebieden waarop dit Verdrag bij de ondertekening, bekrachtiging of toetreding niet van toepassing is, zal elke betrokken Staat de mogelijkheid onderzoeken om zo spoedig mogelijk de nodige maatregelen te nemen teneinde de toepassing van dit Verdrag uit te breiden tot bedoelde gebieden, behoudens de toestemming der regeringen van deze gebieden, in de gevallen waarin zulks om constitutionele redenen vereist mocht zijn.
+2. Any State making a reservation in accordance with paragraph 1 of this article may at any time withdraw the reservation by a communication to that effect addressed to the Secretary-General of the United Nations.
 
-##### Artikel 41. Federale clausule
+##### Article 43. Entry into force
 
-In het geval van een federale of niet-eenheidsstaat, zijn de volgende bepalingen van toepassing:
+1. This Convention shall come into force on the ninetieth day following the day of deposit of the sixth instrument of ratification or accession.
 
-- (a). Wat betreft de artikelen van dit Verdrag, welke vallen binnen de wetgevende bevoegdheid van de federale wetgevende macht zullen de verplichtingen van de federale Regering in dit opzicht dezelfde zijn als die van de Partijen die geen federale Staten zijn;
+2. For each State ratifying or acceding to the Convention after the deposit of the sixth instrument of ratification or accession, the Convention shall enter into force on the ninetieth day following the date of deposit by such State of its instrument of ratification or accession.
 
-- (b). Wat betreft de artikelen van dit Verdrag, welke vallen binnen de wetgevende bevoegdheid van de samenstellende staten, provincies of kantons, die krachtens het constitutionele stelsel van de federatie niet gehouden zijn wetgevende maatregelen te nemen, zal de federale Regering bedoelde artikelen zo spoedig mogelijk met een gunstige aanbeveling ter kennis brengen van de bevoegde autoriteiten der staten, provincies of kantons;
+##### Article 44. Denunciation
 
-- (c). Een federale Staat die partij is bij dit Verdrag, zal, op het door tussenkomst van de Secretaris-Generaal van de Verenigde Naties overgebrachte verzoek van enige andere Verdragsluitende Staat, een verklaring verstrekken van de in de federatie en haar samenstellende delen geldende wetten en gebruiken met betrekking tot enige bepaling van het Verdrag, waaruit blijkt in hoeverre door een wettelijke of andere maatregel uitvoering is gegeven aan die bepaling.
+1. Any Contracting State may denounce this Convention at any time by a notification addressed to the Secretary-General of the United Nations.
 
-##### Artikel 42. Voorbehouden
+2. Such denunciation shall take effect for the Contracting State concerned one year from the date upon which it is received by the Secretary-General of the United Nations.
 
-1. Bij de ondertekening, bekrachtiging of toetreding mag elke Staat voorbehouden ten aanzien van artikelen van dit Verdrag maken, met uitzondering van de artikelen 1, 3, 4, 16 (1), 33, 36 tot en met 46.
+3. Any State which has made a declaration or notification under article 40 may, at any time thereafter, by a notification to the Secretary-General of the United Nations, declare that the Convention shall cease to extend to such territory one year after the date of receipt of the notification by the Secretary-General.
 
-2. Elke Verdragsluitende Staat die overeenkomstig lid 1 van dit artikel een voorbehoud maakt, kan het voorbehoud te allen tijde intrekken door middel van een daartoe strekkende mededeling aan de Secretaris-Generaal van de Verenigde Naties.
+##### Article 45. Revision
 
-##### Artikel 43. Inwerkingtreding
+1. Any Contracting State may request revision of this Convention at any time by a notification addressed to the Secretary-General of the United Nations.
 
-1. Dit Verdrag zal in werking treden op de negentigste dag, volgend op de datum van nederlegging van de zesde akte van bekrachtiging of toetreding.
+2. The General Assembly of the United Nations shall recommend the steps, if any, to be taken in respect of such request.
 
-2. Voor elke Staat die na de nederlegging van de zesde akte van bekrachtiging of toetreding het Verdrag bekrachtigt of daartoe toetreedt, zal het Verdrag in werking treden op de negentigste dag, volgend op de datum van de nederlegging door die Staat van zijn akte van bekrachtiging of toetreding.
+##### Article 46. Notifications by the Secretary-General of the United Nations
 
-##### Artikel 44. Opzegging
+The Secretary-General of the United Nations shall inform all Members of the United Nations and non-member States referred to in article 39:
 
-1. Elke Verdragsluitende Partij mag dit Verdrag te allen tijde opzeggen door middel van een tot de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving.
+- (a) Of declarations and notifications in accordance with section B of article 1;
 
-2. De opzegging zal voor de betrokken Staat van kracht worden één jaar na de datum waarop de kennisgeving door de Secretaris-Generaal van de Verenigde Naties is ontvangen.
+- (b) Of signatures, ratifications and accessions in accordance with article 39;
 
-3. Elke Staat die op grond van artikel 40 een verklaring of een kennisgeving heeft gedaan, mag, te allen tijde nadien, door middel van een kennisgeving aan de Secretaris-Generaal van de Verenigde Naties, verklaren, dat één jaar nadat de Secretaris-Generaal deze kennisgeving heeft ontvangen, het Verdrag niet langer van toepassing zal zijn op het in de kennisgeving aangegeven grondgebied.
+- (c) Of declarations and notifications in accordance with article 40;
 
-##### Artikel 45. Herziening
+- (d) Of reservations and withdrawals in accordance with article 42;
 
-1. Elke Verdragsluitende Staat mag te allen tijde, door middel van een kennisgeving aan de Secretaris-Generaal van de Verenigde Naties, om herziening van dit Verdrag verzoeken.
+- (e) Of the date on which this Convention will come into force in accordance with article 43;
 
-2. De Algemene Vergadering van de Verenigde Naties zal aanbevelen welke stappen, zo nodig, naar aanleiding van dit verzoek dienen te worden genomen.
+- (f) Of denunciations and notifications in accordance with article 44;
 
-##### Artikel 46. Kennisgevingen door de Secretaris-Generaal van de Verenigde Naties
-
-De Secretaris-Generaal van de Verenigde Naties zal aan alle Staten-Leden van de Verenigde Naties en aan de niet-Leden, bedoeld in artikel 39, mededeling doen van:
-
-- (a). de verklaringen en kennisgevingen overeenkomstig afdeling B van artikel 1;
-
-- (b). de ondertekeningen, bekrachtigingen en toetredingen overeenkomstig artikel 39;
-
-- (c). de verklaringen en kennisgevingen overeenkomstig artikel 40;
-
-- (d). de voorbehouden, gemaakt of ingetrokken overeenkomstig artikel 42;
-
-- (e). de datum waarop dit Verdrag in werking treedt overeenkomstig artikel 43;
-
-- (f). de opzeggingen en kennisgevingen overeenkomstig artikel 44;
-
-- (g). de verzoeken tot herziening overeenkomstig artikel 45.
-
-##### Paragraaf 1
-
-1. Het in artikel 28 van dit Verdrag bedoelde reisdocument zal overeenkomen met het als bijlage hieraan gehecht model.
-
-2. Het document zal in twee talen worden opgesteld, waarvan één de Engelse of de Franse taal moet zijn.
-
-##### Paragraaf 2
-
-Onverminderd de in het land van afgifte geldende voorschriften, mogen kinderen worden vermeld in het reisdocument van één der ouders, of, in bijzondere omstandigheden, van een andere volwassen vluchteling.
-
-##### Paragraaf 3
-
-De terzake van de afgifte van het document te heffen rechten mogen niet het laagste, voor de nationale paspoorten geldend tarief overschrijden.
-
-##### Paragraaf 4
-
-Behoudens in bijzondere of uitzonderingsgevallen, zal het document geldig moeten zijn voor het grootst mogelijke aantal landen.
-
-##### Paragraaf 5
-
-De geldigheidsduur van het document zal, ter keuze van de autoriteit die het afgeeft, één of twee jaar zijn.
-
-##### Paragraaf 6
-
-1. De vernieuwing of de verlenging van de geldigheidsduur van het document behoort tot de bevoegdheid van de autoriteit die het heeft afgegeven, zolang de houder zich niet rechtmatig op een ander grondgebied heeft gevestigd en rechtmatig verblijft op het grondgebied van genoemde autoriteit. De afgifte van een nieuw document behoort, onder dezelfde voorwaarden, tot de bevoegdheid van de autoriteit die het vorige document heeft afgegeven.
-
-2. De speciaal voor dit doel gemachtigde diplomatieke of consulaire vertegenwoordigers zijn bevoegd de geldigheid van de door hun onderscheiden regeringen verstrekte reisdocumenten voor de duur van ten hoogste zes maanden te verlengen.
-
-3. De Verdragsluitende Staten zullen in welwillende overweging nemen, de geldigheidsduur van reisdocumenten te hernieuwen of te verlengen of nieuwe documenten te verstrekken aan de niet langer rechtmatig op hun grondgebied verblijvende vluchtelingen die niet in staat zijn een reisdocument te verkrijgen van het land van hun regelmatig verblijf.
-
-##### Paragraaf 7
-
-De Verdragsluitende Staten zullen de geldigheid erkennen van de overeenkomstig de bepalingen van artikel 28 van dit Verdrag verstrekte reisdocumenten.
-
-##### Paragraaf 8
-
-De bevoegde autoriteiten van het land waarheen de vluchteling zich wenst te begeven, zullen, indien zij bereid zijn hem toe te laten en ingeval een visum vereist is, een visum plaatsen op het document waarvan hij de houder is.
-
-##### Paragraaf 9
-
-1. De Verdragsluitende Staten verbinden zich, transit-visa te verstrekken aan vluchtelingen die het visum voor het land van uiteindelijke bestemming hebben verkregen.
-
-2. De verstrekking van zodanige visa kan worden geweigerd op gronden waarop weigering van een visum aan elke andere vreemdeling terecht zou geschieden.
-
-##### Paragraaf 10
-
-De rechten wegens de afgifte van visa voor vertrek, toelating of transit mogen niet het laagste, voor visa op vreemde paspoorten geldend tarief overschrijden.
-
-##### Paragraaf 11
-
-Ingeval een vluchteling zich rechtmatig op het grondgebied van een andere Verdragsluitende Staat heeft gevestigd, berust de verantwoordelijkheid voor de afgifte van een nieuw reisdocument, overeenkomstig de bepalingen en voorwaarden van artikel 28, bij de bevoegde autoriteit van dat grondgebied; de vluchteling is gerechtigd zich daartoe tot die autoriteit te wenden.
-
-##### Paragraaf 12
-
-De autoriteit die een nieuw reisdocument afgeeft, is verplicht het oude document in te trekken en terug te zenden naar het land van afgifte, indien in dat document is vermeld, dat het behoort te worden teruggezonden; is zulks niet het geval, dan zal de autoriteit die het nieuwe document afgeeft, het oude intrekken en vernietigen.
-
-##### Paragraaf 13
-
-1. Elk der Verdragsluitende Staten verbindt zich, aan de houder van een door deze Staat overeenkomstig artikel 28 van dit Verdrag verstrekt reisdocument toe te staan te allen tijde gedurende de geldigheidsduur van het document op het grondgebied van die Staaf terug te keren.
-
-2. Onverminderd de bepalingen van het voorgaand lid, mag een Verdragsluitende Staat eisen, dat de houder van het document zich onderwerpt aan alle formaliteiten welke voorgeschreven mochten zijn met betrekking tot het verlaten van of het terugkeren naar het grondgebied van die Staat.
-
-3. De Verdragsluitende Staten behouden zich de bevoegdheid voor, in uitzonderingsgevallen, of in de gevallen waarin aan een vluchteling voor een bepaalde tijd verblijf is toegestaan, bij de verstrekking van het document de periode gedurende welke de vluchteling mag terugkeren, te beperken tot een termijn van niet minder dan 3 maanden.
-
-##### Paragraaf 14
-
-Slechts met uitzondering van het bepaalde in paragraaf 13, doen de bepalingen van deze Bijlage op geen wijze afbreuk aan de wetten en voorschriften, regelende de voorwaarden voor doorlating naar, transit door, verblijf of vestiging op en vertrek uit de grondgebieden van de Verdragsluitende Staten.
-
-##### Paragraaf 15
-
-Noch de afgifte van het document, noch de daarop gestelde aantekeningen bepalen of beïnvloeden de status van de houder, in het bijzonder wat zijn nationaliteit betreft.
-
-##### Paragraaf 16
-
-De afgifte van het document geeft de houder generlei recht op de bescherming van de diplomatieke of consulaire vertegenwoordigers van het land van afgifte en verleent aan deze vertegenwoordigers niet het recht tot bescherming.
+- (g) Of requests for revision in accordance with article 45.
 
 IN FAITH WHEREOF the undersigned, duly authorized, have signed this Convention on behalf of their respective Governments,
 

@@ -1,50 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Belarus inzake internationaal vervoer over de weg"
 identifier: "BWBV0001202"
-country: "nl"
-rank: "verdrag"
-publication_date: "1996-01-01"
-last_updated: "1996-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001202"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000369733"
-version_id: "10000377752"
-internal_id: "C10006987911"
-label_id: "10000369904"
-original_entry_into_force: "1996-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001202/1996-01-01/0"
-intitule_bron: "Trb.1995-141"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-11-17"
-intitule_published: "1995-06-07"
-intitule_in_force: "1995-12-07"
-intitule_status: "goed"
-original_publication: "Trb.1995-141"
-original_signed_date: "1995-11-17"
-original_published_date: "1995-06-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1995-141"
-entry_into_force_date: "1996-01-01"
-jci_1_3: "jci1.3:c:BWBV0001202&z=1996-01-01&g=1996-01-01"
-jci_1_0: "1.0:c:BWBV0001202&g=1996-01-01"
-citeertitel_status: "officieel"
-signed_date: "1995-11-17"
-entry_into_force: "1996-01-01"
+publicatiedatum: 1996-01-01
+laatste_update: 1996-01-01
+status: geldig
+toestand: 1996-01-01
+bron: "https://wetten.overheid.nl/BWBV0001202"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Belarus inzake internationaal vervoer over de weg
 
-Het Koninkrijk der Nederlanden
-
-en
-
-De Republiek Belarus,
-
-hierna te noemen de Verdragsluitende Partijen,
-
-Geleid door de wens, in het belang van hun economische betrekkingen, de ontwikkeling te bevorderen van het vervoer van goederen en personen over de weg in, naar en vanuit hun landen en in doorvoer over hun grondgebied,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en De Republiek Belarus, hierna te noemen de Verdragsluitende Partijen, Geleid door de wens, in het belang van hun economische betrekkingen, de ontwikkeling te bevorderen van het vervoer van goederen en personen over de weg in, naar en vanuit hun landen en in doorvoer over hun grondgebied, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Toepassingsgebied
 
@@ -58,13 +27,13 @@ Dit Verdrag doet geen afbreuk aan de rechten en verplichtingen van de Verdragslu
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
-- 1. „vervoerder": een persoon (met inbegrip van een rechtspersoon) die in een der Verdragsluitende Partijen gevestigd is en die overeenkomstig de desbetreffende nationale wetten en voorschriften in het land van vestiging wettig is toegelaten tot de markt voor het internationaal vervoer van goederen of personen over de weg tegen betaling of voor eigen rekening;
+- 1 „vervoerder": een persoon (met inbegrip van een rechtspersoon) die in een der Verdragsluitende Partijen gevestigd is en die overeenkomstig de desbetreffende nationale wetten en voorschriften in het land van vestiging wettig is toegelaten tot de markt voor het internationaal vervoer van goederen of personen over de weg tegen betaling of voor eigen rekening;
 
-- 2. „voertuig": een motorvoertuig of combinatie van voertuigen waarvan ten minste het motorvoertuig is geregistreerd in een der Verdragsluitende Partijen en dat uitsluitend wordt gebruikt en is uitgerust voor het vervoer van goederen of het vervoer van personen per bus;
+- 2 „voertuig": een motorvoertuig of combinatie van voertuigen waarvan ten minste het motorvoertuig is geregistreerd in een der Verdragsluitende Partijen en dat uitsluitend wordt gebruikt en is uitgerust voor het vervoer van goederen of het vervoer van personen per bus;
 
-- 3. „cabotage": het verrichten van vervoersdiensten binnen het grondgebied van een Verdragsluitende Partij door een in de andere Verdragsluitende Partij gevestigde vervoerder;
+- 3 „cabotage": het verrichten van vervoersdiensten binnen het grondgebied van een Verdragsluitende Partij door een in de andere Verdragsluitende Partij gevestigde vervoerder;
 
-- 4. „vervoer": het rijden met beladen of onbeladen voertuigen over de weg, ook indien het voertuig, de aanhangwagen of de oplegger voor een deel van de rit gebruik maakt van spoor- of waterwegen.
+- 4 „vervoer": het rijden met beladen of onbeladen voertuigen over de weg, ook indien het voertuig, de aanhangwagen of de oplegger voor een deel van de rit gebruik maakt van spoor- of waterwegen.
 
 ##### Artikel 3. Toegang tot de markt
 
@@ -78,23 +47,23 @@ op grond van vergunningen, die worden afgegeven door de bevoegde autoriteiten va
 
 2. In geen geval zijn vergunningen vereist voor de onderstaande soorten vervoer of voor ritten met onbeladen voertuigen gemaakt in verband met zulk vervoer:
 
-- –. vervoer van post als openbare dienst;
+- – vervoer van post als openbare dienst;
 
-- –. vervoer van voertuigen die zijn beschadigd of onklaar geraakt;
+- – vervoer van voertuigen die zijn beschadigd of onklaar geraakt;
 
-- –. vervoer van goederen in motorvoertuigen waarvan het toegestane gewicht in beladen toestand, met inbegrip van dat van aanhangwagens, niet meer is dan 6 ton of waarvan het toegestane gewicht aan lading, met inbegrip van dat van aanhangwagens, niet meer is dan 3,5 ton;
+- – vervoer van goederen in motorvoertuigen waarvan het toegestane gewicht in beladen toestand, met inbegrip van dat van aanhangwagens, niet meer is dan 6 ton of waarvan het toegestane gewicht aan lading, met inbegrip van dat van aanhangwagens, niet meer is dan 3,5 ton;
 
-- –. vervoer van medische goederen en uitrusting of andere goederen vereist in noodgevallen, met name bij natuurrampen;
+- – vervoer van medische goederen en uitrusting of andere goederen vereist in noodgevallen, met name bij natuurrampen;
 
-- –. verhuizingen verricht door vervoerders met speciaal personeel en speciale uitrusting voor dit doel;
+- – verhuizingen verricht door vervoerders met speciaal personeel en speciale uitrusting voor dit doel;
 
-- –. vervoer van kunstwerken en kunstvoorwerpen voor beurzen en tentoonstellingen;
+- – vervoer van kunstwerken en kunstvoorwerpen voor beurzen en tentoonstellingen;
 
-- –. vervoer van racepaarden in speciale voertuigen;
+- – vervoer van racepaarden in speciale voertuigen;
 
-- –. vervoer van requisieten, toebehoren en dieren voor theater- en circusvoorstellingen, muziekuitvoeringen en sportmanifestaties en voor radio-opnamen en film- of televisieprodukties;
+- – vervoer van requisieten, toebehoren en dieren voor theater- en circusvoorstellingen, muziekuitvoeringen en sportmanifestaties en voor radio-opnamen en film- of televisieprodukties;
 
-- –. begrafenisvervoer.
+- – begrafenisvervoer.
 
 3. Een vervoerder mag naast het in het eerste lid van dit artikel genoemde vervoer cabotage verrichten, indien hij daartoe speciale toestemming heeft verkregen van de bevoegde autoriteiten van elke Verdragsluitende Partij.
 
@@ -136,19 +105,19 @@ In geval van overtreding van de bepalingen van dit Verdrag door een vervoerder v
 
 5. De Gemengde Commissie besteedt bijzondere aandacht aan de volgende onderwerpen:
 
-- –. de harmonische ontwikkeling van het vervoer tussen de Verdragsluitende Partijen, met inachtneming van onder meer de daarbij betrokken milieuaspecten;
+- – de harmonische ontwikkeling van het vervoer tussen de Verdragsluitende Partijen, met inachtneming van onder meer de daarbij betrokken milieuaspecten;
 
-- –. de coördinatie van het beleid inzake het wegvervoer, de vervoerswetgeving en de uitvoering daarvan door de Verdragsluitende Partijen op nationaal en internationaal niveau;
+- – de coördinatie van het beleid inzake het wegvervoer, de vervoerswetgeving en de uitvoering daarvan door de Verdragsluitende Partijen op nationaal en internationaal niveau;
 
-- –. de formulering van mogelijke oplossingen ter voorlegging aan de onderscheiden nationale autoriteiten indien zich problemen voordoen, met name op het terrein van belastingen, sociale aangelegenheden, douanezaken en milieuaangelegenheden, met inbegrip van aangelegenheden de openbare orde betreffende;
+- – de formulering van mogelijke oplossingen ter voorlegging aan de onderscheiden nationale autoriteiten indien zich problemen voordoen, met name op het terrein van belastingen, sociale aangelegenheden, douanezaken en milieuaangelegenheden, met inbegrip van aangelegenheden de openbare orde betreffende;
 
-- –. de uitwisseling van ter zake dienende gegevens;
+- – de uitwisseling van ter zake dienende gegevens;
 
-- –. de methode voor het vaststellen van gewichten en afmetingen van voertuigen, beladen of onbeladen;
+- – de methode voor het vaststellen van gewichten en afmetingen van voertuigen, beladen of onbeladen;
 
-- –. de bevordering van de samenwerking tussen vervoersondernemingen en -instellingen van de Verdragsluitende Partijen;
+- – de bevordering van de samenwerking tussen vervoersondernemingen en -instellingen van de Verdragsluitende Partijen;
 
-- –. de bevordering van intermodaal vervoer, met inbegrip van alle vraagstukken betreffende de toegang tot de markt.
+- – de bevordering van intermodaal vervoer, met inbegrip van alle vraagstukken betreffende de toegang tot de markt.
 
 ##### Artikel 9. Wijziging
 
@@ -168,10 +137,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Verdra
 
 GEDAAN in tweevoud te Minsk, de 10e april 1995 in de Nederlandse, de Engelse en de Belarussische taal, zijnde alle teksten gelijkelijk authentiek. In geval van strijdigheden is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 (w.g.) A. JORRITSMA-LEBBINK
 
-**Voor de Regering van de Republiek Belarus,**
+*Voor de Regering van de Republiek Belarus,*
 
 (w.g.) A. V. LOEKASJOV

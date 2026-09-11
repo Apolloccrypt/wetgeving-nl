@@ -1,48 +1,19 @@
 ---
 title: "Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake de wederzijdse beveiliging van gerubriceerde gegevens"
 identifier: "BWBV0001515"
-country: "nl"
-rank: "verdrag"
-publication_date: "2002-03-01"
-last_updated: "2002-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001515"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000505663"
-version_id: "10000523732"
-internal_id: "C10006991721"
-label_id: "10000505844"
-original_entry_into_force: "2002-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001515/2002-03-01/0"
-intitule_bron: "Trb.2001-100"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-01-17"
-intitule_published: "2001-05-31"
-intitule_in_force: "2002-03-11"
-intitule_status: "goed"
-original_publication: "Trb.2001-100"
-original_signed_date: "2002-01-17"
-original_published_date: "2001-05-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2001-100"
-entry_into_force_date: "2002-03-01"
-jci_1_3: "jci1.3:c:BWBV0001515&z=2002-03-01&g=2002-03-01"
-jci_1_0: "1.0:c:BWBV0001515&g=2002-03-01"
-citeertitel_status: "officieel"
-signed_date: "2002-01-17"
-entry_into_force: "2002-03-01"
+publicatiedatum: 2002-03-01
+laatste_update: 2002-03-01
+status: geldig
+toestand: 2002-03-01
+bron: "https://wetten.overheid.nl/BWBV0001515"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake de wederzijdse beveiliging van gerubriceerde gegevens
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van de Bondsrepubliek Duitsland
-
-Geleid door de wens, de beveiliging te verzekeren van gerubriceerde gegevens die tussen de bevoegde instanties van de twee Staten worden uitgewisseld of die door Duitse of Nederlandse industriële bedrijven en inrichtingen in het kader van overheidsopdrachten worden overgedragen;
-
-zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland Geleid door de wens, de beveiliging te verzekeren van gerubriceerde gegevens die tussen de bevoegde instanties van de twee Staten worden uitgewisseld of die door Duitse of Nederlandse industriële bedrijven en inrichtingen in het kader van overheidsopdrachten worden overgedragen; zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsbepaling
 
@@ -50,21 +21,21 @@ zijn het volgende overeengekomen:
 
 - a. In de Bondsrepubliek Duitsland: feiten, goederen of informatie, in welke vorm dan ook, ten aanzien waarvan geheimhouding in het algemeen belang is vereist. Zij worden overeenkomstig de vereiste mate van beveiliging door een officiële instelling of op last daarvan gerubriceerd. Een gerubriceerd gegeven is
 
-- 1. STRENG GEHEIM, indien kennis nemen door niet gerechtigden het voortbestaan of vitale belangen van de Bondsrepubliek Duitsland of van een van haar deelstaten („Länder") in gevaar kan brengen,
+   - 1. STRENG GEHEIM, indien kennis nemen door niet gerechtigden het voortbestaan of vitale belangen van de Bondsrepubliek Duitsland of van een van haar deelstaten („Länder") in gevaar kan brengen,
 
-- 2. GEHEIM, indien kennis nemen door niet gerechtigden de veiligheid van de Bondsrepubliek Duitsland of van een van haar deelstaten („Länder") in gevaar kan brengen of ernstige schade aan haar belangen kan veroorzaken,
+   - 2. GEHEIM, indien kennis nemen door niet gerechtigden de veiligheid van de Bondsrepubliek Duitsland of van een van haar deelstaten („Länder") in gevaar kan brengen of ernstige schade aan haar belangen kan veroorzaken,
 
-- 3. VS-VERTRAULICH, indien kennis nemen door niet gerechtigden schadelijk kan zijn voor de belangen van de Bondsrepubliek Duitsland of van een van haar deelstaten („Länder"),
+   - 3. VS-VERTRAULICH, indien kennis nemen door niet gerechtigden schadelijk kan zijn voor de belangen van de Bondsrepubliek Duitsland of van een van haar deelstaten („Länder"),
 
-- 4. VS-NUR FÜR DEN DIENSTGEBRAUCH, indien kennis nemen door niet gerechtigden nadelig kan zijn voor de belangen van de Bondsrepubliek Duitsland of van een van haar deelstaten („Länder").
+   - 4. VS-NUR FÜR DEN DIENSTGEBRAUCH, indien kennis nemen door niet gerechtigden nadelig kan zijn voor de belangen van de Bondsrepubliek Duitsland of van een van haar deelstaten („Länder").
 
 - b. In het Koninkrijk der Nederlanden: gegevens waarvan de geheimhouding door het belang van de Staat of van zijn bondgenoten wordt geboden. Deze gegevens worden aangemerkt als staatsgeheim en voorzien van de merking „Stg" gevolgd door een rubricering. Een staatsgeheim is
 
-- 1. ZEER GEHEIM, indien kennis nemen door niet gerechtigden zeer ernstige schade aan de veiligheid of andere gewichtige belangen van de Staat of zijn bondgenoten kan veroorzaken,
+   - 1. ZEER GEHEIM, indien kennis nemen door niet gerechtigden zeer ernstige schade aan de veiligheid of andere gewichtige belangen van de Staat of zijn bondgenoten kan veroorzaken,
 
-- 2. GEHEIM, indien kennis nemen door niet gerechtigden ernstige schade aan de veiligheid of andere gewichtige belangen van de Staat of zijn bondgenoten kan veroorzaken,
+   - 2. GEHEIM, indien kennis nemen door niet gerechtigden ernstige schade aan de veiligheid of andere gewichtige belangen van de Staat of zijn bondgenoten kan veroorzaken,
 
-- 3. CONFIDENTIEEL, indien kennis nemen door niet gerechtigden schade aan de veiligheid of andere gewichtige belangen van de Staat of zijn bondgenoten kan veroorzaken.
+   - 3. CONFIDENTIEEL, indien kennis nemen door niet gerechtigden schade aan de veiligheid of andere gewichtige belangen van de Staat of zijn bondgenoten kan veroorzaken.
 
 2. Dientengevolge komen de Verdragsluitende Partijen overeen dat de volgende rubriceringen vergelijkbaar zijn:
 
@@ -121,15 +92,15 @@ Indien een Verdragsluitende Partij voornemens is een gerubriceerde opdracht te p
 
 3. In de in het tweede lid genoemde gevallen is vereist dat
 
-- –. degene die de gerubriceerde gegevens vervoert tot kennisneming van de inhoud van gerubriceerde gegevens met een vergelijkbare rubricering is gemachtigd;
+- – degene die de gerubriceerde gegevens vervoert tot kennisneming van de inhoud van gerubriceerde gegevens met een vergelijkbare rubricering is gemachtigd;
 
-- –. bij de verzendende instelling een lijst van de verzonden gerubriceerde gegevens berust; een exemplaar van deze lijst moet de ontvanger worden overhandigd ter doorzending naar de bevoegde instantie;
+- – bij de verzendende instelling een lijst van de verzonden gerubriceerde gegevens berust; een exemplaar van deze lijst moet de ontvanger worden overhandigd ter doorzending naar de bevoegde instantie;
 
-- –. de gerubriceerde gegevens volgens de voorschriften voor binnenlandse verzending zijn verpakt;
+- – de gerubriceerde gegevens volgens de voorschriften voor binnenlandse verzending zijn verpakt;
 
-- –. de overdracht van de gerubriceerde gegevens tegen afgifte van een ontvangstbewijs geschiedt;
+- – de overdracht van de gerubriceerde gegevens tegen afgifte van een ontvangstbewijs geschiedt;
 
-- –. degene die de gerubriceerde gegevens vervoert een door de vanwege de verzendende of ontvangende instelling bevoegde veiligheids-autoriteit afgegeven koerierspas bij zich draagt.
+- – degene die de gerubriceerde gegevens vervoert een door de vanwege de verzendende of ontvangende instelling bevoegde veiligheids-autoriteit afgegeven koerierspas bij zich draagt.
 
 4. Voor de verzending van gerubriceerde gegevens van aanzienlijke omvang leggen de bevoegde instanties per geval vast: de wijze waarop het vervoer moet plaatsvinden, de route van het vervoer en de wijze waarop het ter beveiliging zal worden begeleid.
 
@@ -185,13 +156,13 @@ De Verdragsluitende Partijen stellen elkaar ervan in kennis welke instanties voo
 
 GEDAAN te Berlijn op 18 april 2001, in twee originele exemplaren, in de Nederlandse en de Duitse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) NIKOLAOS VAN DAM
 
 Dr. Nikolaos van Dam
 
-**Voor de Regering van de Bondsrepubliek Duitsland**
+*Voor de Regering van de Bondsrepubliek Duitsland*
 
 (w.g.) GERHARD WESTDICKENBERG
 

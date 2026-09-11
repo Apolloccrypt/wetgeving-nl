@@ -1,47 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Letland inzake luchtdiensten tussen en via hun onderscheiden grondgebieden"
 identifier: "BWBV0001121"
-country: "nl"
-rank: "verdrag"
-publication_date: "1994-03-01"
-last_updated: "1994-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001121"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002193293"
-version_id: "10002271592"
-internal_id: "C10006977771"
-label_id: "10002183624"
-dtd_version: "2.0"
-original_entry_into_force: "1994-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001121/1994-03-01/0"
-intitule_bron: "Trb.1993-63"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-02-10"
-intitule_published: "1993-05-03"
-intitule_in_force: "1994-02-11"
-intitule_status: "goed"
-original_publication: "Trb.1993-63"
-original_signed_date: "1994-02-10"
-original_published_date: "1993-05-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1993-63"
-entry_into_force_date: "1994-03-01"
-jci_1_3: "jci1.3:c:BWBV0001121&z=1994-03-01&g=1994-03-01"
-jci_1_0: "1.0:c:BWBV0001121&g=1994-03-01"
-citeertitel_status: "redactioneel"
-signed_date: "1994-02-10"
-entry_into_force: "1994-03-01"
+publicatiedatum: 1994-03-01
+laatste_update: 1994-03-01
+status: geldig
+toestand: 1994-03-01
+bron: "https://wetten.overheid.nl/BWBV0001121"
+opgehaald: 2026-09-11
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Letland inzake luchtdiensten tussen en via hun onderscheiden grondgebieden
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Letland, partij zijnde bij het Verdrag inzake de internationale burgerluchtvaart, op 7 december 1944 te Chicago voor ondertekening opengesteld,
-
-Geleid door de wens bij te dragen aan de vooruitgang van de internationale burgerluchtvaart,
-
-Geleid door de wens een overeenkomst te sluiten met het doel geregelde luchtdiensten in te stellen tussen en via hun onderscheiden grondgebieden,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Letland, partij zijnde bij het Verdrag inzake de internationale burgerluchtvaart, op 7 december 1944 te Chicago voor ondertekening opengesteld, Geleid door de wens bij te dragen aan de vooruitgang van de internationale burgerluchtvaart, Geleid door de wens een overeenkomst te sluiten met het doel geregelde luchtdiensten in te stellen tussen en via hun onderscheiden grondgebieden, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -65,9 +37,9 @@ Tenzij het zinsverband anders vereist, hebben in deze Overeenkomst en de Bijlage
 
 - i. onder „tarief wordt verstaan: elk bedrag in rekening gebracht of in rekening te brengen door de luchtvaartmaatschappijen, rechtstreeks of via hun agenten, aan alle natuurlijke personen of rechtspersonen voor het vervoer door de lucht van passagiers (en hun bagage) en vracht (post uitgezonderd), daarbij inbegrepen:
 
-- i. de voorwaarden betreffende het beschikbaar zijn en het van toepassing zijn van een tarief, en
+   - i. de voorwaarden betreffende het beschikbaar zijn en het van toepassing zijn van een tarief, en
 
-- ii. de heffingen en voorwaarden voor alle bij zulk vervoer bijkomende diensten die door of namens de luchtvaartmaatschappijen worden aangeboden;
+   - ii. de heffingen en voorwaarden voor alle bij zulk vervoer bijkomende diensten die door of namens de luchtvaartmaatschappijen worden aangeboden;
 
 - j. onder „verandering van luchtvaartuig" wordt verstaan: de exploitatie van een van de overeengekomen diensten door een aangewezen luchtvaartmaatschappij op zulk een wijze dat op een of meer delen van de route wordt gevlogen met luchtvaartuigen met een andere capaciteit dan die welke op een ander deel worden gebruikt,
 
@@ -287,40 +259,14 @@ Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst slechts van toe
 
 Deze Overeenkomst treedt in werking op de eerste dag van de tweede maand die volgt op de datum waarop de Overeenkomstsluitende Partijen elkaar schriftelijk ervan in kennis hebben gesteld dat aan de daarvoor constitutioneel vereiste formaliteiten in hun onderscheiden landen is voldaan.
 
-##### 1
-
-De aangewezen luchtvaartmaatschappijen van de Republiek Letland hebben het recht luchtdiensten te exploiteren op de hieronder aangegeven routes:
-
-punten in Letland - tussenliggende punten - punten in Nederland - verder gelegen punten, in beide richtingen.
-
-##### 2
-
-De aangewezen luchtvaartmaatschappijen van het Koninkrijk der Nederlanden hebben het recht luchtdiensten te exploiteren op de hieronder aangegeven routes:
-
-punten in Nederland - tussenliggende punten - punten in Letland - verder gelegen punten, in beide richtingen.
-
-##### 3
-
-Elk punt of alle punten op de omschreven routes kan of kunnen, naar keuze van elke aangewezen luchtvaartmaatschappij, op een vlucht of op alle vluchten worden overgeslagen.
-
-##### 4
-
-Het is de aangewezen luchtvaartmaatschappijen van de Overeenkomstsluitende Partijen toegestaan vluchten te exploiteren op de hierboven omschreven routes, zonder beperkingen ten aanzien van frequentie en type luchtvaartuig, ongeacht de indeling.
-
-##### 5
-
-De aangewezen luchtvaartmaatschappij(en) van elke Overeenkomstsluitende Partij kunnen alle tussenliggende en verder gelegen punten aandoen zonder de uitoefening van vijfde-vrijheidsverkeersrechten.
-
-De eventuele uitoefening van vijfde-vrijheidsverkeersrechten kan worden overeengekomen door de luchtvaartautoriteiten van de twee Overeenkomstsluitende Partijen.
-
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun onderscheiden Regeringen, deze Overeenkomst hebben ondertekend.
 
 GEDAAN te Riga op 25 maart 1993 in twee exemplaren in de Nederlandse, de Letse en de Engelse taal. In geval van onderlinge verschillen is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) J. R. H. MAIJ-WEGGEN
 
-**Voor de Regering van de Republiek Letland**
+*Voor de Regering van de Republiek Letland*
 
 (w.g.) A. GUTMANIS

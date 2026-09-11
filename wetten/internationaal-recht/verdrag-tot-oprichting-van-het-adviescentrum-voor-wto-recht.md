@@ -1,229 +1,196 @@
 ---
 title: "Verdrag tot oprichting van het Adviescentrum voor WTO-recht"
 identifier: "BWBV0001451"
-country: "nl"
-rank: "verdrag"
-publication_date: "2001-07-15"
-last_updated: "2001-07-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001451"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000264003"
-version_id: "10000327852"
-internal_id: "C10006991511"
-label_id: "10000264294"
-original_entry_into_force: "2001-07-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001451/2001-07-15/0"
-intitule_bron: "Trb.2000-5"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-09-30"
-intitule_published: "2000-01-31"
-intitule_in_force: "2001-11-12"
-intitule_status: "goed"
-original_publication: "Trb.2000-5"
-original_signed_date: "2000-09-30"
-original_published_date: "2000-01-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2000-5"
-entry_into_force_date: "2001-07-15"
-jci_1_3: "jci1.3:c:BWBV0001451&z=2001-07-15&g=2001-07-15"
-jci_1_0: "1.0:c:BWBV0001451&g=2001-07-15"
-citeertitel_status: "officieel"
-signed_date: "2000-09-30"
-entry_into_force: "2001-07-15"
+publicatiedatum: 2001-07-15
+laatste_update: 2001-07-15
+status: geldig
+toestand: 2001-07-15
+bron: "https://wetten.overheid.nl/BWBV0001451"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tot oprichting van het Adviescentrum voor WTO-recht
 
-De Partijen bij dit Verdrag
+*The Parties to this Agreement – Noting that the Agreement Establishing the World Trade Organisation (hereinafter referred to as the “WTO”) created a complex legal system and elaborate procedures for the settlement of disputes; – Noting further that developing countries, in particular the least developed among them, and the countries with economies in transition have limited expertise in WTO law and the management of complex trade disputes and their ability to acquire such expertise is subject to severe financial and institutional constraints; – Recognising that a proper balance of rights and obligations under the Agreement Establishing the WTO can only be maintained if all Members of the WTO have a full understanding of their rights and obligations thereunder and an equal opportunity to resort to the WTO dispute settlement procedures; – Recognising further that the credibility and acceptability of the WTO dispute settlement procedures can only be ensured if all Members of the WTO can effectively participate in it; – Resolved, therefore, to create a source of legal training, expertise and advice on WTO law readily accessible to developing countries, in particular the least developed among them, and countries with economies in transition; Have agreed as follows:*
 
-Vaststellend dat de [Overeenkomst tot oprichting van de Wereldhandelsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) (hierna te noemen de „WTO”) een complex juridisch stelsel en uitvoerige procedures voor geschillenregeling tot stand heeft gebracht;
+##### Article 1. Establishment of the Advisory Centre on WTO Law
 
-Voorts vaststellend dat ontwikkelingslanden, in het bijzonder de minstontwikkelde landen, en de landen met overgangseconomieën beperkte deskundigheid inzake WTO-recht en het behandelen van complexe handelsgeschillen bezitten en dat hun vermogen om zulke deskundigheid te verwerven onderhevig is aan aanzienlijke financiële en institutionele beperkingen;
+The Advisory Centre on WTO Law (hereinafter referred to as the “Centre") is hereby established.
 
-Erkennend dat een juist evenwicht tussen rechten en verplichtingen uit hoofde van de [Overeenkomst tot oprichting van de WTO](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) slechts gehandhaafd kan worden indien alle Leden van de WTO volledig inzicht hebben in hun daaruit voortvloeiende rechten en plichten en gelijke mogelijkheden om gebruik te maken van de WTO-procedures voor geschillenbeslechting;
+##### Article 2. Objectives and Functions of the Centre
 
-Voorts erkennend dat de geloofwaardigheid en aanvaardbaarheid van de WTO-procedures voor geschillenbeslechting slechts kunnen worden gewaarborgd indien alle Leden van de WTO daadwerkelijk daaraan kunnen deelnemen;
+1. The purpose of the Centre is to provide legal training, support and advice on WTO law and dispute settlement procedures to developing countries, in particular to the least developed among them, and to countries with economies in transition.
 
-Derhalve vastbesloten een bron te scheppen voor rechtskundig onderricht, deskundigheid en advies inzake WTO-recht die eenvoudig toegankelijk is voor ontwikkelingslanden, in het bijzonder de minstontwikkelde landen, en landen met overgangseconomieën;
+2. To this end, the Centre shall:
 
-Zijn het volgende overeengekomen:
+- – Provide legal advice on WTO law;
 
-##### Artikel 1. Oprichting van het Adviescentrum voor WTO-recht
+- – Provide support to parties and third parties in WTO dispute settlement proceedings;
 
-Het Adviescentrum voor WTO-recht (hierna te noemen het „Centrum") wordt hierbij opgericht.
+- – Train government officials in WTO law through seminars on WTO law and jurisprudence, internships and other appropriate means; and
 
-##### Artikel 2. Doelstellingen en taken van het Centrum
+- – Perform any other functions assigned to it by the General Assembly.
 
-1. Doel van het Centrum is het geven van rechtskundig onderricht, bijstand en advies inzake WTO-recht en -procedures voor geschillenbeslechting aan ontwikkelingslanden, in het bijzonder de minstontwikkelde landen, en aan landen met overgangseconomieën.
+##### Article 3. Structure of the Centre
 
-2. Hiertoe:
+1. The Centre shall have a General Assembly, a Management Board and an Executive Director.
 
-- –. verstrekt het Centrum rechtskundig advies inzake WTO-recht;
+2. The General Assembly shall consist of the representatives of the Members of the Centre and the representatives of the least developed countries listed in Annex III to this Agreement. The General Assembly shall meet at least twice a year to:
 
-- –. verleent het bijstand aan partijen en aan derden bij procedures voor geschillenbeslechting;
+- – Evaluate the performance of the Centre;
 
-- –. onderricht het overheidsfunctionarissen door middel van seminars over WTO-recht en -rechtspraak, stages en andere geëigende middelen; en
+- – Elect the Management Board;
 
-- –. verricht het alle andere taken die het door de Algemene Vergadering opgedragen krijgt.
+- – Adopt regulations proposed by the Management Board;
 
-##### Artikel 3. Structuur van het Centrum
+- – Adopt the annual budget proposed by the Management Board; and
 
-1. Het Centrum heeft een Algemene Vergadering, een Bestuur en een Uitvoerend Directeur.
+- – Perform the functions assigned to it under other provisions of this Agreement.
 
-2. De Algemene Vergadering bestaat uit de vertegenwoordigers van de Leden van het Centrum en de vertegenwoordigers van de minstontwikkelde landen vermeld in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=III&z=2001-07-15&g=2001-07-15) bij dit Verdrag. De Algemene Vergadering komt ten minste tweemaal per jaar bijeen om:
+The General Assembly shall adopt its rules of procedure.
 
-- –. het functioneren van het Centrum te evalueren;
+3. The Management Board shall consist of four members, a representative of the least developed countries and the Executive Director. The persons serving on the Management Board shall serve in their personal capacity and shall be selected on the basis of their professional qualifications in the field of WTO law or international trade relations and development.
 
-- –. het Bestuur te kiezen;
+4. The members of the Management Board and the representative of the least developed countries on the Management Board shall be appointed by the General Assembly. The Executive Director shall serve ex officio on the Management Board. The group of Members listed in [Annex I](https://wetten.overheid.nl/BWBV0001451) to this Agreement and the three groups of Members listed in [Annex II](https://wetten.overheid.nl/BWBV0001451) to this Agreement may each nominate one member of the Management Board for appointment by the General Assembly. The least developed countries listed in [Annex III](https://wetten.overheid.nl/BWBV0001451) to this Agreement may nominate their representative on the Management Board for appointment by the General Assembly.
 
-- –. door het Bestuur voorgestelde voorschriften aan te nemen;
+5. The Management Board shall report to the General Assembly. The Management Board shall meet as often as necessary to:
 
-- –. de door het Bestuur voorgestelde jaarlijkse begroting aan te nemen;
+- – Take the decisions necessary to ensure the efficient and effective operation of the Centre in accordance with this Agreement;
 
-- –. de taken te verrichten die haar uit hoofde van andere bepalingen van dit Verdrag worden opgedragen.
+- – Prepare the annual budget for the Centre for approval by the General Assembly;
 
-De Algemene Vergadering neemt haar procedureregels aan.
+- – Decide on appeals by Members to whom legal support in a dispute settlement proceeding has been denied;
 
-3. Het Bestuur bestaat uit vier leden, een vertegenwoordiger van de minstontwikkelde landen en de Uitvoerend Directeur. De personen die zitting hebben in het Bestuur doen dit op persoonlijke titel en worden gekozen op grond van hun beroepskwalificaties op het gebied van WTO-recht of internationale handelsbetrekkingen en ontwikkeling.
+- – Supervise the administration of the Centre's endowment fund;
 
-4. De leden van het Bestuur en de vertegenwoordiger van de minstontwikkelde landen in het Bestuur worden benoemd door de Algemene Vergadering. De Uitvoerend Directeur maakt ex officio deel uit van het Bestuur. De groep van Leden vermeld in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=I&z=2001-07-15&g=2001-07-15) bij dit Verdrag en de drie groepen Leden vermeld in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=II&z=2001-07-15&g=2001-07-15) bij dit Verdrag kunnen elk een lid van het Bestuur voordragen voor benoeming door de Algemene Vergadering. De minstontwikkelde landen vermeld in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=III&z=2001-07-15&g=2001-07-15) bij dit Verdrag kunnen hun vertegenwoordiger in het Bestuur voordragen voor benoeming door de Algemene Vergadering.
+- – Appoint an external auditor;
 
-5. Het Bestuur legt verantwoording af aan de Algemene Vergadering. Het Bestuur vergadert zo dikwijls als nodig om:
+- – Appoint the Executive Director in consultation with Members;
 
-- –. de beslissingen te nemen die nodig zijn om het doelmatig en doeltreffend functioneren van het Centrum te waarborgen in overeenstemming met dit Verdrag;
+- – Propose for adoption by the General Assembly regulations on:
 
-- –. de jaarlijkse begroting voor het Centrum voor te bereiden voor goedkeuring door de Algemene Vergadering;
+   - – The procedures of the Management Board;
 
-- –. te beslissen over het beroep door Leden aan wie rechtskundige bijstand bij een procedure voor geschillenbeslechting is geweigerd;
+   - – The duties and conditions of service of the Executive Director, the staff of the Centre and consultants contracted by the Centre; and
 
-- –. toezicht te houden op de administratie van het dotatiefonds van het Centrum;
+   - – The administration and investment policy of the Centre's endowment fund;
 
-- –. een externe accountant aan te wijzen;
+- – Perform the functions assigned to it under other provisions of this Agreement.
 
-- –. de Uitvoerend Directeur te benoemen in overleg met de Leden;
+6. The Executive Director shall report to the Management Board and shall be invited to participate in all its meetings. The Executive Director shall:
 
-- –. voor aanneming door de Algemene Vergadering voorstellen te doen voor voorschriften inzake:
+- – Manage the Centre's day-to-day operations;
 
-- –. de procedures van het Bestuur;
+- – Hire, direct and dismiss the staff of the Centre in accordance with the staff regulations adopted by the General Assembly;
 
-- –. de taken en arbeidsvoorwaarden van de Uitvoerend Directeur, het personeel van het Centrum en door het Centrum gecontracteerde adviseurs; en
+- – Contract and supervise consultants;
 
-- –. de administratie en het investeringsbeleid van het dotatiefonds van het Centrum;
+- – Submit to the Management Board and the General Assembly an independently audited statement of receipts and expenditures relating to the budget during the preceding fiscal year; and
 
-- –. de taken te vervullen die ingevolge andere bepalingen van dit Verdrag aan het Bestuur worden toegewezen.
+- – Represent the Centre externally.
 
-6. De Uitvoerend Directeur legt verantwoording af aan het Bestuur en wordt uitgenodigd deel te nemen aan alle vergaderingen daarvan. De Uitvoerend Directeur:
+##### Article 4. Decision-Making
 
-- –. leidt de dagelijkse gang van zaken van het Centrum;
+1. The General Assembly shall take its decisions by consensus. A proposal considered for adoption at a meeting of the General Assembly shall be deemed to have been adopted by consensus if no formal objections are raised against it during the meeting by any Member of the Centre. This provision shall apply mutatis mutandis also to decisions by the Management Board.
 
-- –. neemt het personeel van het Centrum in dienst, geeft het leiding en ontslaat het in overeenstemming met het door de Algemene Vergadering aangenomen personeelsreglement;
+2. If the Chairperson of the General Assembly or the Management Board determines that a decision cannot be arrived at by consensus, the Chairperson may decide to submit the matter to a vote by the General Assembly. In such a case, the General Assembly shall take its decision by a majority of four-fifth of the Members present and voting. Each Member shall have one vote. A simple majority of the Members of the Centre shall constitute the quorum for any meeting of the General Assembly during which a matter is submitted to a vote.
 
-- –. contracteert en houdt toezicht op adviseurs;
+3. In the case of decisions on amendments the procedures set out in [paragraph 1 of Article 11](https://wetten.overheid.nl/BWBV0001451) of this Agreement shall apply.
 
-- –. dient bij het Bestuur en de Algemene Vergadering een door een onafhankelijke accountant goedgekeurde opgave in van inkomsten en uitgaven betreffende de begroting over het voorgaande belastingjaar; en
+##### Article 5. Financial Structure of the Centre
 
-- –. vertegenwoordigt het Centrum naar buiten.
+1. An endowment fund shall be created with the contributions made by Members in accordance with [paragraph 2 of Article 6](https://wetten.overheid.nl/BWBV0001451) of this Agreement.
 
-##### Artikel 4. Besluitvorming
+2. The Centre shall charge fees for legal services in accordance with the schedule of fees set out in [Annex IV](https://wetten.overheid.nl/BWBV0001451) to this Agreement.
 
-1. De Algemene Vergadering besluit bij consensus. Een voorstel waarvan aanneming wordt overwogen tijdens een vergadering van de Algemene Vergadering wordt geacht bij consensus te zijn aangenomen indien er tijdens de vergadering geen formele bezwaren tegen zijn ingebracht door een Lid van het Centrum. Deze bepaling is van overeenkomstige toepassing op besluiten van het Bestuur.
+3. The annual budget of the Centre shall be funded by the revenues from the Centre's endowment fund, the fees for services rendered by the Centre and any voluntary contributions made by governments, international organisations or private sponsors.
 
-2. Indien de Voorzitter van de Algemene Vergadering of het Bestuur vaststelt dat geen beslissing kan worden genomen bij consensus, kan de Voorzitter besluiten de zaak in stemming te brengen in de Algemene Vergadering. In een dergelijk geval neemt de Algemene Vergadering haar beslissing met een meerderheid van vier vijfde van de aanwezige Leden die hun stem uitbrengen. Elk Lid heeft één stem. Een enkelvoudige meerderheid van de Leden van het Centrum vormt het quorum voor elke vergadering van de Algemene Vergadering waarin een zaak in stemming wordt gebracht.
+4. The Centre shall have an external auditor.
 
-3. In het geval van beslissingen over wijzigingen zijn de procedures weergegeven in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&artikel=11&z=2001-07-15&g=2001-07-15), van dit Verdrag van toepassing.
+##### Article 6. Rights and Obligations of Members
 
-##### Artikel 5. Financiële structuur van het Centrum
+1. Each developing country Member and each Member with an economy in transition listed in [Annex II](https://wetten.overheid.nl/BWBV0001451) to this Agreement is entitled to the services of the Centre in accordance with the regulations adopted by the General Assembly and the schedule of fees set out in [Annex IV](https://wetten.overheid.nl/BWBV0001451). Each Member may request that the support in WTO dispute settlement proceedings be provided in any of the three official languages of the WTO.
 
-1. Een dotatiefonds wordt opgericht van de door Leden in overeenstemming met [Artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&artikel=6&z=2001-07-15&g=2001-07-15), van dit Verdrag betaalde bijdragen.
+2. Each Member that has accepted this Agreement shall promptly pay a one-time contribution to the Centre's endowment fund and/or annual contributions during the first five years of operation of the Centre in accordance with the scale of contributions set out in [Annexes I](https://wetten.overheid.nl/BWBV0001451) and [II](https://wetten.overheid.nl/BWBV0001451) to this Agreement. Each Member that has acceded to this Agreement shall make contributions in accordance with the provisions of its instrument of accession.
 
-2. Het Centrum brengt vergoedingen in rekening voor rechtskundige diensten in overeenstemming met het vergoedingenschema weergegeven in [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=IV&z=2001-07-15&g=2001-07-15) bij dit Verdrag.
+3. Each Member shall promptly pay the fees for the services rendered by the Centre.
 
-3. De jaarlijkse begroting van het Centrum wordt gefinancierd uit de inkomsten uit het dotatiefonds van het Centrum, de vergoedingen voor door het Centrum verleende diensten en alle vrijwillige bijdragen van regeringen, internationale organisaties of particuliere sponsors.
+4. If the Management Board determines that a Member is in default of any of its obligations under paragraph 2 or 3 of this Article, it may decide to bar that Member from the exercise of its rights under paragraph 1 of this Article.
 
-4. Het Centrum heeft een externe accountant.
+5. Nothing in this Agreement shall be construed to imply any financial liability for any Member beyond the liabilities arising from paragraphs 2 and 3 of this Article.
 
-##### Artikel 6. Rechten en verplichtingen van de Leden
+##### Article 7. Rights of Least Developed Countries
 
-1. Elk ontwikkelingsland dat Lid is en elk Lid met een overgangseconomie vermeld in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=II&z=2001-07-15&g=2001-07-15) bij dit Verdrag heeft recht op de diensten van het Centrum in overeenstemming met de voorschriften aangenomen door de Algemene Vergadering en het vergoedingenschema weergegeven in [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=IV&z=2001-07-15&g=2001-07-15). Elk Lid kan verzoeken om bijstand bij WTO-procedures voor geschillenbeslechting in een der drie officiële talen van de WTO.
+The least developed countries listed in [Annex III](https://wetten.overheid.nl/BWBV0001451) shall be accorded at their request the services of the Centre in accordance with the regulations adopted by the General Assembly and the schedule of fees set out in [Annex IV](https://wetten.overheid.nl/BWBV0001451). Each of these countries may request that the support in WTO dispute settlement proceedings be provided in any of the three official languages of the WTO.
 
-2. Elk Lid dat dit Verdrag heeft aanvaard betaalt terstond een eenmalige bijdrage aan het dotatiefonds van het Centrum en/of jaarlijkse bijdragen gedurende de eerste vijf jaar waarin het Centrum werkzaam is in overeenstemming met de schaal van bijdragen weergegeven in de [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=I&z=2001-07-15&g=2001-07-15) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=II&z=2001-07-15&g=2001-07-15) bij dit Verdrag. Elk Lid dat is toegetreden tot dit Verdrag betaalt bijdragen in overeenstemming met zijn akte van toetreding.
+##### Article 8. Priorities in the Allocation of Support in WTO Dispute Settlement Proceedings
 
-3. Elk Lid betaalt terstond de vergoedingen voor de door het Centrum verleende diensten.
+If two countries entitled to support in WTO dispute settlement proceedings are involved in the same proceeding, support shall be granted in accordance with the following priorities: First, least developed countries; second, Members that have accepted this Agreement; third, Members that acceded to this Agreement. The General Assembly shall adopt regulations on the allocation of support in WTO dispute settlement proceedings that reflect these priorities.
 
-4. Indien het Bestuur bepaalt dat een Lid in gebreke is inzake een van zijn verplichtingen ingevolge het tweede of derde lid van dit artikel, kan hij besluiten dat Lid uit te sluiten van de uitoefening van zijn rechten ingevolge het eerste lid van dit artikel.
+##### Article 9. Co-operation with Other International Organisations
 
-5. Niets in dit Verdrag wordt zo uitgelegd dat het enige financiële aansprakelijkheid inhoudt voor enig Lid buiten de aansprakelijkheden voortvloeiend uit het tweede of derde lid van dit artikel.
+The Centre shall co-operate with the World Trade Organisation and other international organisations with a view to furthering the objectives of this Agreement.
 
-##### Artikel 7. Rechten van de minstontwikkelde landen
+##### Article 10. Legal Status of the Centre
 
-Aan de minstontwikkelde landen vermeld in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=III&z=2001-07-15&g=2001-07-15) worden op hun verzoek de diensten van het Centrum verleend in overeenstemming met de voorschriften aangenomen door de Algemene Vergadering en het in [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=IV&z=2001-07-15&g=2001-07-15) weergegeven vergoedingenschema. Elk van deze landen kan verzoeken om bijstand bij WTO-procedures voor geschillenbeslechting in een der drie officiële talen van de WTO.
+1. The Centre shall have legal personality. It shall have in particular the capacity to contract, to acquire and dispose of immovable and movable property and to institute legal proceedings.
 
-##### Artikel 8. Voorrang bij het toewijzen van bijstand bij WTO-procedures voor geschillenbeslechting
+2. The Centre shall be located in Geneva, Switzerland.
 
-Indien twee landen die recht hebben op bijstand bij WTO-procedures voor geschillenbeslechting betrokken zijn bij dezelfde procedure, wordt bijstand toegekend in overeenstemming met de volgende voorrangsregel: Ten eerste, de minstontwikkelde landen; ten tweede, Leden die dit Verdrag hebben aanvaard; ten derde, Leden die tot dit Verdrag zijn toegetreden. De Algemene Vergadering neemt voorschriften aan inzake het toekennen van bijstand bij WTO-procedures voor geschillenbeslechting overeenkomstig deze voorrangsregel.
+3. The Centre shall seek to conclude an agreement with the Swiss Confederation on the status, privileges and immunities of the Centre. The agreement may be signed by the Chairperson of the General Assembly subject to the approval by the General Assembly. The agreement may provide that the Swiss Confederation shall accord to the Centre, its Executive Director and its staff the status, privileges and immunities that the Swiss Confederation accords to permanent diplomatic missions and their members or to international organisations and their staff.
 
-##### Artikel 9. Samenwerking met andere internationale organisaties
+##### Article 11. Amendment, Withdrawal and Termination
 
-Het Centrum werkt samen met de Wereldhandelsorganisatie en andere internationale organisaties ten behoeve van de realisatie van de doelstellingen van dit Verdrag.
+1. Any Member of the Centre and the Management Board may submit to the General Assembly a proposal to amend a provision of this Agreement. The proposal shall be promptly notified to all Members. The General Assembly may decide to submit the proposal to Members for acceptance. The amendment shall take effect on the 30th day following the date on which the depositary has received the instruments of acceptance of all Members.
 
-##### Artikel 10. Rechtspositie van het Centrum
+2. If the financial situation of the Centre so requires, any Member of the Centre and the Management Board may submit to the General Assembly a proposal to amend the scale of contributions set out in Annexes I and II to this Agreement and the schedule of fees set out in [Annex IV](https://wetten.overheid.nl/BWBV0001451) to this Agreement. The amendment shall take effect on the 30th day following the date on which the General Assembly adopted it by unanimous decision.
 
-1. Het Centrum heeft rechtspersoonlijkheid. Het heeft met name de bevoegdheid overeenkomsten te sluiten, onroerende en roerende zaken te verkrijgen en te vervreemden en rechtsvorderingen in te stellen.
+3. Paragraphs 1 and 2 of this Article are without prejudice to the obligation of the Management Board to modify [Annexes II](https://wetten.overheid.nl/BWBV0001451) and [IV](https://wetten.overheid.nl/BWBV0001451) in accordance with the Notes contained therein.
 
-2. Het Centrum is gevestigd in Genève, Zwitserland.
+4. Any Member may at any time withdraw from this Agreement by giving written notice to the Depositary. The Depositary shall inform the Executive Director of the Centre and the Members of the Centre of such a notice. The withdrawal shall become effective on the 30th day following the date on which the notice has been received by the Depositary. The obligation to pay the fees for services rendered by the Centre in accordance with [paragraph 3 of Article 6](https://wetten.overheid.nl/BWBV0001451) of this Agreement is unaffected by the withdrawal. The withdrawing Member shall not be entitled to a reimbursement of its contributions to the Centre's endowment fund.th day following the date on which the notice has been received by the Depositary. The obligation to pay the fees for services rendered by the Centre in accordance with [paragraph 3 of Article 6](https://wetten.overheid.nl/BWBV0001451) of this Agreement is unaffected by the withdrawal. The withdrawing Member shall not be entitled to a reimbursement of its contributions to the Centre's endowment fund.
 
-3. Het Centrum streeft naar het sluiten van een akkoord met de Zwitserse Bondsstaat inzake de status, voorrechten en immuniteiten van het Centrum. Het akkoord kan worden ondertekend door de Voorzitter van de Algemene Vergadering onder voorbehoud van goedkeuring door de Algemene Vergadering. Het akkoord kan bepalen dat de Zwitserse Bondsstaat aan het Centrum, zijn Uitvoerend Directeur en zijn personeel de status, voorrechten en immuniteiten verleent die de Zwitserse Bondsstaat verleent aan permanente diplomatieke vertegenwoordigingen en hun leden of aan internationale organisaties en hun personeel.
+5. The General Assembly may decide to terminate this Agreement. Upon the termination, the Centre's assets shall be distributed among the present and former Members of the Centre in proportion to the total of each Member's contributions to the endowment fund and/or the annual budget of the Centre.
 
-##### Artikel 11. Herziening, terugtrekking en beëindiging
+##### Article 12. Transitional Arrangements
 
-1. Elk lid van het Centrum en het Bestuur kan aan de Algemene Vergadering een voorstel voorleggen tot wijziging van een bepaling van dit Verdrag. Van het voorstel wordt terstond kennisgeving gedaan aan alle Leden. De Algemene Vergadering kan besluiten het voorstel ter aanneming voor te leggen aan de Leden. De wijziging wordt van kracht op de dertigste dag volgend op de datum waarop de depositaris de akten van aanvaarding van alle Leden heeft ontvangen.
+1. During the Centre's first five years of operation the annual budget of the Centre shall be funded by the annual contributions made by the Members in accordance with [paragraph 2 of Article 6](https://wetten.overheid.nl/BWBV0001451) of this Agreement and [Annex I](https://wetten.overheid.nl/BWBV0001451) to this Agreement. During this period the revenues from the endowment fund and from the fees for services rendered shall accrue to the endowment fund.
 
-2. Indien de financiële situatie van het Centrum dit vereist, kan elk Lid van het Centrum en het Bestuur aan de Algemene Vergadering een voorstel voorleggen tot wijziging van de schaal van bijdragen weergegeven in de [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=I&z=2001-07-15&g=2001-07-15) en II en het vergoedingenschema weergegeven in [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=IV&z=2001-07-15&g=2001-07-15) bij dit Verdrag. De wijziging wordt van kracht op de dertigste dag volgend op de datum waarop de Algemene Vergadering haar heeft aangenomen bij eenparig besluit.
+2. During the Centre's first five years of operation the Management Board shall have five members. The Members listed in [Annex I](https://wetten.overheid.nl/BWBV0001451) to this Agreement may nominate two persons to serve on the Management Board during that period.
 
-3. Het eerste en tweede lid van dit artikel laten onverlet de verplichting van het Bestuur de Bijlagen II en [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=IV&z=2001-07-15&g=2001-07-15) te wijzigen in overeenstemming met de daarin opgenomen Noten.
+3. The obligation of a Member to make annual contributions during the Centre's first five years of operation in accordance with [paragraph 2 of Article 6](https://wetten.overheid.nl/BWBV0001451) of this Agreement and [Annex I](https://wetten.overheid.nl/BWBV0001451) to this Agreement shall not be affected by the withdrawal of that Member from this Agreement.
 
-4. Elk Lid kan zich te allen tijde uit dit Verdrag terugtrekken bij schriftelijke kennisgeving gedaan aan de Depositaris. De Depositaris doet aan de Uitvoerend Directeur van het Centrum en de Leden van het Centrum mededeling van een dergelijke kennisgeving. De terugtrekking wordt van kracht op de dertigste dag volgend op de datum waarop de kennisgeving door de Depositaris is ontvangen. De verplichting tot betaling van de vergoedingen voor door het Centrum verleende diensten in overeenstemming met [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&artikel=6&z=2001-07-15&g=2001-07-15), van dit Verdrag blijft bij terugtrekking in stand. Het zich terugtrekkende Lid heeft geen recht op terugbetaling van zijn bijdragen aan het dotatiefonds van het Centrum.
+##### Article 13. Acceptance and Entry into Force
 
-5. De Algemene Vergadering kan besluiten dit Verdrag te beëindigen. Bij de beëindiging worden de vermogensbestanddelen van het Centrum verdeeld onder de Leden van dat tijdstip en voormalige Leden van het Centrum naar evenredigheid van het totaal van de bijdragen van elk Lid aan het doteringsfonds en/of de jaarlijkse begroting van het Centrum.
+1. Any State or separate customs territory listed in [Annex I](https://wetten.overheid.nl/BWBV0001451), [II](https://wetten.overheid.nl/BWBV0001451) or [III](https://wetten.overheid.nl/BWBV0001451) to this Agreement may become a Member of the Centre by accepting this Agreement, by signature or by signature subject to ratification, acceptance or approval, during the third Ministerial Conference of the WTO to be held at Seattle from 30 November to 3 December 1999, and thereafter until 31 March 2000. The instrument of ratification, acceptance or approval shall be deposited no later than 30 September 2002.
 
-##### Artikel 12. Overgangsregelingen
+2. This Agreement shall enter into force on the 30th day following the date upon which all of the following conditions are met:
 
-1. Gedurende de eerste vijf jaar waarin het Centrum werkzaam is, wordt de jaarlijkse begroting van het Centrum gefinancierd uit de jaarlijkse bijdragen van de Leden in overeenstemming met [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&artikel=6&z=2001-07-15&g=2001-07-15), van dit Verdrag en [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=I&z=2001-07-15&g=2001-07-15) bij dit Verdrag. Gedurende dit tijdvak vloeien de inkomsten uit het doteringsfonds en uit de vergoedingen voor verleende diensten naar het doteringsfonds.
+- – The twentieth instrument of ratification, acceptance or approval or signature not subject to ratification, acceptance or approval has been deposited;
 
-2. Gedurende de eerste vijf jaar waarin het Centrum werkzaam is, heeft het Bestuur vijf leden. De Leden vermeld in de lijst in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=I&z=2001-07-15&g=2001-07-15) bij dit Verdrag kunnen twee personen aanwijzen om gedurende dat tijdvak zitting te nemen in het Bestuur.
+- – The total of the one-time contributions to the Centre's endowment fund that the States or customs territories which have accepted this Agreement are obliged to make in accordance with [paragraph 2 of Article 6](https://wetten.overheid.nl/BWBV0001451) of this Agreement and [Annexes I](https://wetten.overheid.nl/BWBV0001451) and [II](https://wetten.overheid.nl/BWBV0001451) to this Agreement exceeds six million US dollars; and
 
-3. De verplichting van een Lid tot het voldoen van jaarlijkse bijdragen gedurende de eerste vijf jaar waarin het Centrum werkzaam is in overeenstemming met [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&artikel=6&z=2001-07-15&g=2001-07-15), van dit Verdrag en [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=I&z=2001-07-15&g=2001-07-15) bij dit Verdrag blijft bij de terugtrekking van dat Lid uit dit Verdrag in stand.
+- – The total of the annual contributions that the States or customs territories which have accepted this Agreement are obliged to make in accordance with [paragraph 2 of Article 6](https://wetten.overheid.nl/BWBV0001451) of this Agreement and [Annex I](https://wetten.overheid.nl/BWBV0001451) to this Agreement exceeds six million US dollars.
 
-##### Artikel 13. Aanvaarding en inwerkingtreding
+3. For each signatory of this Agreement that deposits its instrument of ratification, acceptance or approval after the date on which the conditions set out in paragraph 2 of this Article are met the Agreement shall enter into force on the 30th day following the date on which the instrument of ratification, acceptance or approval has been deposited. th day following the date on which the instrument of ratification, acceptance or approval has been deposited.
 
-1. Elke Staat of elk afzonderlijk douanegebied vermeld in de [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=I&z=2001-07-15&g=2001-07-15), [II](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=II&z=2001-07-15&g=2001-07-15) of III bij dit Verdrag kan Lid van het Centrum worden door aanvaarding van dit Verdrag, door ondertekening of ondertekening onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, tijdens de derde Ministeriële Conferentie van de WTO, te houden in Seattle van 30 november tot 3 december 1999, en nadien tot 31 maart 2000. De akte van bekrachtiging, aanvaarding of goedkeuring wordt niet later nedergelegd dan 30 september 2002.
+##### Article 14. Reservations
 
-2. Dit Verdrag treedt in werking op de dertigste dag volgend op de datum waarop aan alle navolgende voorwaarden is voldaan:
+No reservations may be made in respect of any provision of this Agreement.
 
-- –. de twintigste akte van bekrachtiging, aanvaarding of goedkeuring of ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring is nedergelegd;
+##### Article 15. Annexes
 
-- –. het totaal van de eenmalige bijdragen aan het dotatiefonds van het Centrum dat de staten of douanegebieden die dit Verdrag hebben aanvaard verplicht zijn te voldoen in overeenstemming met [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&artikel=6&z=2001-07-15&g=2001-07-15), van dit Verdrag en de [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=I&z=2001-07-15&g=2001-07-15) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=II&z=2001-07-15&g=2001-07-15) bij dit Verdrag is hoger dan zes miljoen US dollar; en
+The Annexes to this Agreement constitute an integral part of this Agreement.
 
-- –. het totaal van de jaarlijkse bijdragen dat de Staten of douanegebieden die dit Verdrag hebben aanvaard verplicht zijn te voldoen in overeenstemming met [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&artikel=6&z=2001-07-15&g=2001-07-15), van dit Verdrag en [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001451&bijlage=I&z=2001-07-15&g=2001-07-15) bij dit Verdrag is hoger dan zes miljoen US dollar.
+##### Article 16. Accession
 
-3. Voor elke ondertekenaar van dit Verdrag die zijn akte van bekrachtiging, aanvaarding of goedkeuring nederlegt na de datum waarop aan de in het tweede lid van dit artikel weergegeven voorwaarden is voldaan, treedt het Verdrag in werking op de dertigste dag volgend op de datum waarop de akte van bekrachtiging, aanvaarding of goedkeuring is nedergelegd.
+Any Member of the WTO and any State or separate customs territory in process of acceding to the WTO may become a Member of the Centre by acceding to this Agreement on terms and conditions agreed between it and the Centre. Accessions shall be effected by an instrument of accession approved by the General Assembly. The General Assembly shall approve the instrument of accession only if the Management Board advises it that the accession would cause neither financial nor operational problems for the Centre. This Agreement shall enter into force for the acceding Member of the WTO or for the State or separate customs territory in process of acceding to the WTO on the 30th day following the date on which the instrument of accession was deposited with the depositary.
 
-##### Artikel 14. Voorbehouden
+##### Article 17. Depositary and Registration
 
-Geen voorbehouden kunnen worden gemaakt ten aanzien van enige bepaling van dit Verdrag.
+1. This Agreement shall be deposited with the Government of the Kingdom of the Netherlands.
 
-##### Artikel 15. Bijlagen
-
-De Bijlagen bij dit Verdrag vormen een integrerend onderdeel van dit Verdrag.
-
-##### Artikel 16. Toetreding
-
-Elk Lid van de WTO en elke Staat die, of elk afzonderlijk douanegebied dat, bezig is met toetreding kan Lid worden van het Centrum door toe te treden tot dit Verdrag met voorwaarden overeengekomen tussen dat Lid, die Staat of dat gebied en het Centrum. Toetredingen komen tot stand bij een akte van toetreding goedgekeurd door de Algemene Vergadering. De Algemene Vergadering keurt de akte van toetreding slechts goed indien het Bestuur haar adviseert dat de toetreding voor het Centrum noch financiële noch operationele problemen zal veroorzaken. Dit Verdrag treedt voor het toetredende Lid van de WTO of voor de Staat die, of het afzonderlijk douanegebied dat, bezig is met toetreding tot de WTO in werking op de dertigste dag volgend op de datum waarop de akte van toetreding bij de depositaris is nedergelegd.
-
-##### Artikel 17. Depositaris en registratie
-
-1. Dit Verdrag wordt nedergelegd bij de Regering van het Koninkrijk der Nederlanden.
-
-2. Dit Verdrag wordt geregistreerd in overeenstemming met de bepalingen van [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
+2. This Agreement shall be registered in accordance with the provisions of [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
 DONE at Seattle, this thirtieth day of November one thousand nine hundred ninety-nine, in a single copy, in the English, French and Spanish languages, each text being equally authentic.

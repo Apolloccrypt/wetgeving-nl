@@ -1,55 +1,29 @@
 ---
 title: "Briefwisseling tussen de bevoegde autoriteiten van het Koninkrijk der Nederlanden en de Helleense Republiek inzake artikel 36, derde lid, van EEG-Verordening nr. 1408/71"
 identifier: "BWBV0001091"
-country: "nl"
-rank: "verdrag"
-publication_date: "1992-01-01"
-last_updated: "1992-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001091"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002246403"
-version_id: "10002290072"
-internal_id: "C10006986641"
-label_id: "10002236464"
-dtd_version: "2.0"
-original_entry_into_force: "1992-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001091/1992-01-01/0"
-intitule_bron: "Trb.1994-184"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-06-30"
-intitule_published: "1994-09-02"
-intitule_in_force: "1994-09-02"
-intitule_status: "goed"
-original_publication: "Trb.1994-184"
-original_signed_date: "1993-06-30"
-original_published_date: "1994-09-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1994-184"
-entry_into_force_date: "1992-01-01"
-jci_1_3: "jci1.3:c:BWBV0001091&z=1992-01-01&g=1992-01-01"
-jci_1_0: "1.0:c:BWBV0001091&g=1992-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "1993-06-30"
-entry_into_force: "1992-01-01"
+publicatiedatum: 1992-01-01
+laatste_update: 1992-01-01
+status: geldig
+toestand: 1992-01-01
+bron: "https://wetten.overheid.nl/BWBV0001091"
+opgehaald: 2026-09-11
 ---
+
 # Briefwisseling tussen de bevoegde autoriteiten van het Koninkrijk der Nederlanden en de Helleense Republiek inzake artikel 36, derde lid, van EEG-Verordening nr. 1408/71
 
-Having regard to Article 36, paragraph 3 of Regulation (EEC) No 1408/71 of the Council of 14 June 1971 on the application of social security schemes to workers and self-employed persons, as well as their families, moving within the Community, and to the Articles 93, paragraph 6,94., paragraph 6, and 95, paragraph 6 of Regulation (EEC) No 574/72 of 21 March 1972 fixing the procedure for implementing Regulation (EEC) No 1408/71,
-
-Wishing to ease the administrative task of the Dutch and the Greek institutions by making use of the possibility offered by Regulations (EEC) Nos 1408/71 and 574/72 to agree upon other methods of assessing the amounts to be refunded;
-
-Have agreed upon the following:
+*Having regard to Article 36, paragraph 3 of Regulation (EEC) No 1408/71 of the Council of 14 June 1971 on the application of social security schemes to workers and self-employed persons, as well as their families, moving within the Community, and to the Articles 93, paragraph 6,94., paragraph 6, and 95, paragraph 6 of Regulation (EEC) No 574/72 of 21 March 1972 fixing the procedure for implementing Regulation (EEC) No 1408/71, Wishing to ease the administrative task of the Dutch and the Greek institutions by making use of the possibility offered by Regulations (EEC) Nos 1408/71 and 574/72 to agree upon other methods of assessing the amounts to be refunded; Have agreed upon the following:*
 
 ##### Article 1
 
 Contrary to Article 93 of Regulation (EEC) No 574/72 the Greek competent institution shall refund the costs of benefits in kind that have been provided,
 
-- a). according to Article 19, paragraph 1, of Regulation (EEC) No 1408/71 to employed or self-employed persons, other than seafaring people, who reside in the Netherlands, by a lump-sum which is based on 80% of the average yearly costs pro capita;
+- a) according to Article 19, paragraph 1, of Regulation (EEC) No 1408/71 to employed or self-employed persons, other than seafaring people, who reside in the Netherlands, by a lump-sum which is based on 80% of the average yearly costs pro capita;
 
-- b). according to Article 19, paragraph 2, of Regulation (EEC) No 1408/71 to members of the families of employed or self-employed persons, who reside in the Netherlands, by a lump-sum which is based on 80% of the average yearly costs pro capita;
+- b) according to Article 19, paragraph 2, of Regulation (EEC) No 1408/71 to members of the families of employed or self-employed persons, who reside in the Netherlands, by a lump-sum which is based on 80% of the average yearly costs pro capita;
 
-- c). according to Article 29, paragraph 1, of Regulation (EEC) No 1408/71 to in the Netherlands residing members of the families of the holders of pension rights who reside in Greece, by a lump-sum which is based on 80% of the average yearly costs pro capita.
+- c) according to Article 29, paragraph 1, of Regulation (EEC) No 1408/71 to in the Netherlands residing members of the families of the holders of pension rights who reside in Greece, by a lump-sum which is based on 80% of the average yearly costs pro capita.
 
 ##### Article 2
 

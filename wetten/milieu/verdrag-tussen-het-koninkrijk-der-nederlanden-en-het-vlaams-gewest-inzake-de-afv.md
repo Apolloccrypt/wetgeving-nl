@@ -1,60 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Vlaams Gewest inzake de afvoer van het water van de Maas"
 identifier: "BWBV0001232"
-country: "nl"
-rank: "verdrag"
-publication_date: "1996-07-01"
-last_updated: "1996-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001232"
+categorie: "Milieu"
 soort: "verdrag"
-stam_id: "10000606483"
-version_id: "10000624702"
-internal_id: "C10006986231"
-label_id: "10000606814"
-original_entry_into_force: "1996-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001232/1996-07-01/0"
-intitule_bron: "Trb.1995-50"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-06-28"
-intitule_published: "1995-02-15"
-intitule_in_force: "1996-09-13"
-intitule_status: "goed"
-original_publication: "Trb.1995-50"
-original_signed_date: "1996-06-28"
-original_published_date: "1995-02-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1995-50"
-entry_into_force_date: "1996-07-01"
-jci_1_3: "jci1.3:c:BWBV0001232&z=1996-07-01&g=1996-07-01"
-jci_1_0: "1.0:c:BWBV0001232&g=1996-07-01"
-citeertitel_status: "officieel"
-signed_date: "1996-06-28"
-entry_into_force: "1996-07-01"
+publicatiedatum: 1996-07-01
+laatste_update: 1996-07-01
+status: geldig
+toestand: 1996-07-01
+bron: "https://wetten.overheid.nl/BWBV0001232"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Vlaams Gewest inzake de afvoer van het water van de Maas
 
-Het Koninkrijk der Nederlanden
-
-en
-
-het Vlaams Gewest,
-
-hierna te noemen de Partijen,
-
-Wensend een nadere regeling te treffen voor:
-
-De wateraftappingen uit de Maas via de Zuid-Willemsvaart te Maastricht;
-
-De vermindering van de waterverliezen van de Maas in geval van lage afvoeren;
-
-De samenwerking bij het onderzoek en de ontwikkeling van de Gemeenschappelijke Maas;
-
-en
-
-De compensatie van de zoetwaterverliezen van de Kreekraksluizen;
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en het Vlaams Gewest, hierna te noemen de Partijen, Wensend een nadere regeling te treffen voor: De wateraftappingen uit de Maas via de Zuid-Willemsvaart te Maastricht; De vermindering van de waterverliezen van de Maas in geval van lage afvoeren; De samenwerking bij het onderzoek en de ontwikkeling van de Gemeenschappelijke Maas; en De compensatie van de zoetwaterverliezen van de Kreekraksluizen; Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
@@ -140,53 +99,17 @@ Door Partijen schriftelijk overeengekomen wijzigingen van dit Verdrag treden in 
 
 Dit Verdrag treedt in werking op de eerste dag van de maand volgend op de dag waarop Partijen elkaar schriftelijk hebben meegedeeld dat aan de onderscheiden constitutionele vereisten is voldaan.
 
-##### 1
-
-Bij een Maasafvoer tussen 100 m3/s en 60 m3/s (aanloopfase) is het Nederlandse en het Vlaamse gebruik elk ten hoogste 25 m3/s.
-
-##### 2
-
-Bij een Maasafvoer tussen 60 m3/s en 30 m3/s (alarmfase) verzekeren Partijen een minimale afvoer van 10 m3/s over de stuw te Borgharen. Partijen voeren in deze fase gelijkopgaande besparingen door op het in punt 1 bedoelde Nederlandse en Vlaamse gebruik.
-
-##### 3
-
-Bij een Maasafvoer beneden 30 m3/s (crisisfase) verdelen Partijen deze afvoer door verdergaande gelijkopgaande besparingen op het Nederlandse en het Vlaamse gebruik gelijkelijk over het Nederlandse gebruik, het Vlaamse gebruik en de Gemeenschappelijke Maas. Ingeval op het grondgebied van één der Partijen een noodsituatie met betrekking tot de watervoorziening van of uit de Maas dreigt te ontstaan, vindt in de in artikel 5 bedoelde Werkgroep onverwijld overleg plaats over operationele maatregelen om de situatie te verbeteren.
-
-##### 4
-
-Partijen brengen elkaar binnen één jaar na het inwerkingtreden van dit Verdrag hun draaiboek met de besparingsmaatregelen voor de alarmfase en de crisisfase ter kennis. Deze besparingsmaatregelen kunnen onder meer bestaan uit zuinig schutten, het afdichten van lekken in kunstwerken, het terugpompen van schutwater bij sluizen en het verminderen van de watertoevoer naar de land-, tuin- en bosbouw, naar de industrie en naar de waterleidingbedrijven door vermeerderd gebruik van spaarbekkens. Partijen brengen elkaar wijzigingen in het draaiboek zo spoedig mogelijk ter kennis.
-
-##### 1
-
-Het in artikel 6 van dit Verdrag genoemde gerecht bestaat uit drie scheidsmannen, van wie elke Partij er één benoemt. De twee aldus gekozen scheidsmannen bereiken overeenstemming over de derde scheidsman. Deze derde scheidsman mag geen onderdaan zijn van, niet in dienst zijn van en niet zijn gewone verblijfplaats hebben in het Koninkrijk der Nederlanden of het Koninkrijk België. Elk van de Partijen wijst een scheidsman aan binnen een termijn van dertig dagen vanaf de datum waarop één der Partijen van de andere Partij een diplomatieke nota heeft ontvangen waarin om een scheidsrechterlijke beslissing wordt verzocht. Over de derde scheidsman wordt binnen een volgende termijn van dertig dagen overeenstemming bereikt. Indien één der Partijen haar eigen scheidsman niet aanwijst binnen de termijn van dertig dagen of indien over de derde scheidsman niet binnen de genoemde termijn overeenstemming is bereikt, kan de President van het Internationale Gerechtshof door één der Partijen worden verzocht een scheidsman of scheidsmannen te benoemen.
-
-##### 2
-
-Het gerecht regelt zijn eigen werkwijze.
-
-##### 3
-
-Het gerecht beslist bij meerderheid van stemmen.
-
-##### 4
-
-De kosten van het gerecht worden door beide Partijen, elk voor de helft, gedragen. Elke Partij draagt de kosten van zijn vertegenwoordiging in het geding.
-
-##### 5
-
-Het gerecht kan in elke stand van het geding, na Partijen te hebben gehoord, de conservatoire maatregelen voorschrijven die het noodzakelijk acht, of reeds voorgeschreven conservatoire maatregelen intrekken. Zodanige maatregelen lopen niet vooruit op beslissingen in het geding zelf.
-
 TEN BLIJKE WAARVAN de vertegenwoordigers van de Regeringen der Partijen, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend.
 
 OPGEMAAKT in Antwerpen, op 17 januari 1995, in twee originele exemplaren.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 (w.g.) H. A. F. M. O. VAN MIERLO
 
 (w.g.) A. JORRITSMA-LEBBINK
 
-**Voor het Vlaams Gewest,**
+*Voor het Vlaams Gewest,*
 
 (w.g.) L. VAN DEN BRANDE
 

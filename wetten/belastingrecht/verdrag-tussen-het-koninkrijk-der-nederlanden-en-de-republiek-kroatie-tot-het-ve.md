@@ -1,598 +1,516 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Kroatië tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen"
 identifier: "BWBV0001453"
-country: "nl"
-rank: "verdrag"
-publication_date: "2001-04-06"
-last_updated: "2001-04-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001453"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10000298603"
-version_id: "10000306992"
-internal_id: "C10009548901"
-label_id: "10000299174"
-dtd_version: "2.0"
-original_entry_into_force: "2001-04-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001453/2001-04-06/0"
-intitule_bron: "Trb.2000-64"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-10-12"
-intitule_published: "2000-07-05"
-intitule_in_force: "2001-04-06"
-intitule_status: "goed"
-original_publication: "Trb.2000-64"
-original_signed_date: "2000-10-12"
-original_published_date: "2000-07-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2000-64"
-entry_into_force_date: "2001-04-06"
-jci_1_3: "jci1.3:c:BWBV0001453&z=2001-04-06&g=2001-04-06"
-jci_1_0: "1.0:c:BWBV0001453&g=2001-04-06"
-citeertitel_status: "officieel"
-signed_date: "2000-10-12"
-entry_into_force: "2001-04-06"
+publicatiedatum: 2001-04-06
+laatste_update: 2001-04-06
+status: geldig
+toestand: 2001-04-06
+bron: "https://wetten.overheid.nl/BWBV0001453"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Kroatië tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen
 
-De Regering van het Koninkrijk der Nederlanden
+*The Government of the Kingdom of the Netherlands, and the Government of the Republic of Croatia Desiring that an agreement for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and on capital be concluded by both States, Have agreed as follows:*
 
-en
+### CHAPTER I. SCOPE OF THE AGREEMENT
 
-De Regering van de Republiek Kroatië,
+##### Article 1. Personal scope
 
-Geleid door de wens dat een Verdrag tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen wordt gesloten tussen beide Staten,
+This Agreement shall apply to persons who are residents of one or both of the Contracting States.
 
-Zijn het volgende overeengekomen:
+##### Article 2. Taxes covered
 
-### HOOFDSTUK I. REIKWIJDTE VAN HET VERDRAG
+1. This Agreement shall apply to taxes on income and on capital imposed on behalf of a Contracting State or of its political subdivisions or local authorities, irrespective of the manner in which they are levied.
 
-##### Artikel 1. Personen op wie het verdrag van toepassing is
+2. There shall be regarded as taxes on income and on capital all taxes imposed on total income, on total capital, or on elements of income or of capital, including taxes on gains from the alienation of movable or immovable property, taxes on the total amounts of wages or salaries paid by enterprises, as well as taxes on capital appreciation.
 
-Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide Verdragsluitende Staten.
+3. The existing taxes to which the Agreement shall apply are in particular:
 
-##### Artikel 2. Belastingen waarop het verdrag van toepassing is
+- a) in the Netherlands: (hereinafter referred to as “Netherlands tax”).
 
-1. Dit Verdrag is van toepassing op belastingen naar het inkomen en naar het vermogen die, ongeacht de wijze van heffing, worden geheven ten behoeve van een Verdragsluitende Staat of van de staatkundige onderdelen of plaatselijke publiekrechtelijke lichamen daarvan.
+   - – de inkomstenbelasting (income tax),
 
-2. Als belastingen naar het inkomen en naar het vermogen worden beschouwd alle belastingen die worden geheven naar het gehele inkomen, naar het gehele vermogen of naar bestanddelen van het inkomen of van het vermogen, waaronder begrepen belastingen naar voordelen verkregen uit de vervreemding van roerende of onroerende goederen, belastingen naar het totale bedrag van de door ondernemingen betaalde lonen of salarissen, alsmede belastingen naar waardevermeerdering
+   - – de loonbelasting (wages tax),
 
-3. De bestaande belastingen waarop het Verdrag van toepassing is, zijn met name:
+   - – de vennootschapsbelasting (company tax) including the Government share in the net profits of the exploitation of natural resources levied pursuant to the Mijnwet 1810 (the Mining Act of 1810) with respect to concessions issued from 1967, or pursuant to the Mijnwet Continentaal Plat 1965 (the Netherlands Continental Shelf Mining Act of 1965),
 
-- a. in Kroatië:
+   - – de dividendbelasting (dividend tax),
 
-- –. de winstbelasting (porez na dobit),
+   - – de vermogensbelasting (capital tax),
 
-- –. de inkomstenbelasting (porez na dohodak),
+- b) in Croatia: (hereinafter referred to as “Croatian tax”).
 
-- –. (hierna te noemen: „Kroatische belasting”);
+   - – porez na dobit (the profit tax),
 
-- b. in Nederland:
+   - – porez na dohodak (the income tax),
 
-- –. de inkomstenbelasting,
+4. The Agreement shall apply also to any identical or substantially similar taxes which are imposed after the date of signature of the Agreement in addition to, or in place of, the existing taxes. The competent authorities of the Contracting States shall notify each other of any substantial changes which have been made in their respective taxation laws.
 
-- –. de loonbelasting,
+### CHAPTER II. DEFINITIONS
 
-- –. de vennootschapsbelasting, daaronder begrepen het aandeel van de Regering in de netto winsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de Mijnwet 1810 met betrekking tot concessies uitgegeven vanaf 1967, of geheven krachtens de Mijnwet continentaal plat 1965,
+##### Article 3. General definitions
 
-- –. de dividendbelasting,
+1. For the purposes of this Agreement, unless the context otherwise requires:
 
-- –. de vermogensbelasting,
+- a) the term “Croatia” means the territory of the Republic of Croatia as well as those maritime areas adjacent to the outer limit of territorial sea, including seabed and sub-soil thereof, over which the Republic of Croatia in accordance with international law and the laws of the Republic of Croatia exercises its sovereign rights and jurisdiction;
 
-- –. (hierna te noemen: „Nederlandse belasting”).
+- b) the term “a Contracting State” means the Republic of Croatia (Croatia) or Kingdom of the Netherlands (the Netherlands), as the context requires; the term “Contracting States” means the Republic of Croatia (Croatia) and Kingdom of the Netherlands (Netherlands);
 
-4. Het Verdrag is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die na de datum van ondertekening van het Verdrag naast of in de plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de Verdragsluitende Staten doen elkaar mededeling van alle wezenlijke wijzigingen die in hun onderscheiden belastingwetgevingen zijn aangebracht.
+- c) the term “the Netherlands” means the part of the Kingdom of the Netherlands that is situated in Europe, including its territorial sea, and any area beyond the territorial sea within which the Netherlands, in accordance with international law, exercises jurisdiction or sovereign rights with respect to the sea bed, its sub-soil and its superjacent waters, and their natural resources;
 
-### HOOFDSTUK II. BEGRIPSBEPALINGEN
+- d) the term “person” includes an individual, a company and any other body of persons;
 
-##### Artikel 3. Algemene begripsbepalingen
+- e) the term “company” means any body corporate or any entity that is treated as a body corporate for tax purposes;
 
-1. Voor de toepassing van dit Verdrag, tenzij de context anders vereist:
+- f) the terms “enterprise of a Contracting State” and “enterprise of the other Contracting State” mean respectively an enterprise carried on by a resident of a Contracting State and an enterprise carried on by a resident of the other Contracting State;
 
-- a. betekent de uitdrukking „een Verdragsluitende Staat” de Republiek Kroatië (Kroatië) of het Koninkrijk der Nederlanden (Nederland), al naar de context vereist; betekent de uitdrukking „Verdragsluitende Staten” de Republiek Kroatië (Kroatië) en het Koninkrijk der Nederlanden (Nederland);
+- g) the term “international traffic” means any transport by a ship, a boat engaged in inland waterways transport or aircraft operated by an enterprise that has its place of effective management in a Contracting State, except when the ship, boat or aircraft is operated solely between places in the other Contracting State;
 
-- b. betekent de uitdrukking „Kroatië” het grondgebied van de Republiek Kroatië alsmede haar zeegebieden buiten de territoriale zee, met inbegrip van de zeebodem en de ondergrond daarvan, waarover de Republiek Kroatië in overeenstemming met het internationale recht en het recht van de Republiek Kroatië haar soevereine rechten uitoefent en rechtsbevoegdheid heeft;
+- h) the term “national” means:
 
-- c. betekent de uitdrukking „Nederland” het deel van het Koninkrijk der Nederlanden dat in Europa is gelegen, met inbegrip van zijn territoriale zee en elk gebied buiten de territoriale zee waarbinnen Nederland, in overeenstemming met het internationale recht, rechtsbevoegdheid heeft of soevereine rechten uitoefent met betrekking tot de zeebodem, de ondergrond daarvan en de daarboven gelegen wateren, en hun natuurlijke rijkdommen;
+   - (i) any individual possessing the nationality of a Contracting State;
 
-- d. omvat de uitdrukking „persoon” een natuurlijke persoon, een lichaam en elke andere vereniging van personen;
+   - (ii) any legal person, partnership or association deriving its status as such from the laws in force in a Contracting State;
 
-- e. betekent de uitdrukking „lichaam” elke rechtspersoon of elke eenheid die voor de belastingheffing als een rechtspersoon wordt behandeld;
+- i) the term “competent authority” means:
 
-- f. betekenen de uitdrukkingen „onderneming van een Verdragsluitende Staat” en „onderneming van de andere Verdragsluitende Staat” onderscheidenlijk een onderneming uitgeoefend door een inwoner van een Verdragsluitende Staat en een onderneming uitgeoefend door een inwoner van de andere Verdragsluitende Staat;
+   - (i) in Croatia the Minister of Finance or his duly authorised representative;
 
-- g. betekent de uitdrukking „internationaal verkeer” alle vervoer met een schip, een boot die dient voor het vervoer in de binnenwateren of luchtvaartuig, geëxploiteerd door een onderneming waarvan de plaats van de werkelijke leiding in een Verdragsluitende Staat is gelegen, behalve wanneer het schip, de boot of het luchtvaartuig uitsluitend wordt geëxploiteerd tussen plaatsen die in de andere Verdragsluitende Staat zijn gelegen;
+   - (ii) in the Netherlands the Minister of Finance or his duly authorised representative.
 
-- h. betekent de uitdrukking „onderdaan”:
+2. As regards the application of the Agreement at any time by a Contracting State any term not defined therein shall, unless the context otherwise requires, have the meaning which it has at that time under the law of that State for the purposes of the taxes to which the Agreement applies, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State.
 
-- i. iedere natuurlijke persoon die de nationaliteit van een Verdragsluitende Staat bezit;
+##### Article 4. Resident
 
-- ii. iedere rechtspersoon, vennootschap of vereniging die zijn/haar rechtspositie als zodanig ontleent aan de wetgeving die in een Verdragsluitende Staat van kracht is;
+1. For the purposes of this Agreement, the term “resident of a Contracting State” means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a similar nature, and also includes that State and any political subdivision or local authority thereof. This term, however, does not include any person who is liable to tax in that State in respect only of income from sources in that State or capital situated therein.
 
-- i. betekent de uitdrukking „bevoegde autoriteit”:
+2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
 
-- i. in Kroatië de Minister van Financiën of zijn bevoegde vertegenwoordiger;
+- a) he shall be deemed to be a resident only of the State in which he has a permanent home available to him; if he has a permanent home available to him in both States, he shall be deemed to be a resident of the State with which his personal and economic relations are closer (centre of vital interests);
 
-- ii. in Nederland de Minister van Financiën of zijn bevoegde vertegenwoordiger.
+- b) if the State in which he has his centre of vital interests cannot be determined, or if he has not a permanent home available to him in either State, he shall be deemed to be a resident only of the State in which he has an habitual abode;
 
-2. Voor de toepassing van het Verdrag op enig moment door een Verdragsluitende Staat heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking op dat moment heeft volgens de wetgeving van die Staat met betrekking tot de belastingen waarop het Verdrag van toepassing is, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van die Staat prevaleert boven een betekenis die volgens andere wetgeving van die Staat aan die uitdrukking wordt gegeven.
+- c) if he has an habitual abode in both States or in neither of them, he shall be deemed to be a resident only of the State of which he is a national;
 
-##### Artikel 4. Inwoner
+- d) if he is a national of both States or of neither of them, the competent authorities of the Contracting States shall settle the question by mutual agreement.
 
-1. Voor de toepassing van dit Verdrag betekent de uitdrukking „inwoner van een Verdragsluitende Staat” iedere persoon die, ingevolge de wetgeving van die Staat, aldaar aan belasting is onderworpen op grond van zijn woonplaats, verblijf, plaats van leiding of enige andere soortgelijke omstandigheid, en met inbegrip van die Staat en een staatkundig onderdeel of plaatselijk publiekrechtelijk lichaam daarvan. Deze uitdrukking omvat echter niet een persoon die in die Staat slechts aan belasting is onderworpen ter zake van inkomsten uit bronnen in die Staat of van vermogen dat in die Staat is gelegen.
+3. Where by reason of the provisions of paragraph 1 a person other than an individual is a resident of both Contracting States, then it shall be deemed to be a resident only of the State in which its place of effective management is situated.
 
-2. Indien een natuurlijke persoon ingevolge de bepalingen van het eerste lid inwoner van beide Verdragsluitende Staten is, wordt zijn positie als volgt bepaald:
+##### Article 5. Permanent establishment
 
-- a. hij wordt geacht slechts inwoner te zijn van de Staat waarin hij een duurzaam tehuis tot zijn beschikking heeft; indien hij in beide Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waarmede zijn persoonlijke en economische betrekkingen het nauwst zijn (middelpunt van de levensbelangen);
+1. For the purposes of this Agreement, the term “permanent establishment” means a fixed place of business through which the business of an enterprise is wholly or partly carried on.
 
-- b. indien niet kan worden bepaald in welke Staat hij het middelpunt van zijn levensbelangen heeft, of indien hij in geen van de Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht slechts inwoner te zijn van de Staat waarin hij gewoonlijk verblijft;
+2. The term “permanent establishment” includes especially:
 
-- c. indien hij in beide Staten of in geen van beide gewoonlijk verblijft, wordt hij geacht slechts inwoner te zijn van de Staat waarvan hij onderdaan is;
+- a) a place of management;
 
-- d. indien hij onderdaan is van beide Staten of van geen van beide, regelen de bevoegde autoriteiten van de Verdragsluitende Staten de aangelegenheid in onderlinge overeenstemming.
+- b) a branch;
 
-3. Indien een andere dan een natuurlijke persoon ingevolge de bepalingen van het eerste lid inwoner van beide Verdragsluitende Staten is, wordt hij geacht slechts inwoner te zijn van de Staat waar zijn plaats van werkelijke leiding is gelegen.
+- c) an office;
 
-##### Artikel 5. Vaste inrichting
+- d) a factory;
 
-1. Voor de toepassing van dit Verdrag betekent de uitdrukking „vaste inrichting” een vaste bedrijfsinrichting door middel waarvan de werkzaamheden van een onderneming geheel of gedeeltelijk worden uitgeoefend.
+- e) a workshop, and
 
-2. De uitdrukking „vaste inrichting” omvat in het bijzonder:
+- f) a mine, an oil or gas well, a quarry or any other place of extraction of natural resources.
 
-- a. een plaats waar leiding wordt gegeven;
+3. A building site or construction or installation project, or supervisory activities in connection therewith and which are carried out at that site or project, constitute a permanent establishment only if they last more than twelve months.
 
-- b. een filiaal;
+4. Notwithstanding the preceding provisions of this Article, the term “permanent establishment” shall be deemed not to include:
 
-- c. een kantoor;
+- a) the use of facilities solely for the purpose of storage, display or delivery of goods or merchandise belonging to the enterprise;
 
-- d. een fabriek;
+- b) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of storage, display or delivery;
 
-- e. een werkplaats, en
+- c) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of processing by another enterprise;
 
-- f. een mijn, een olie- of gasbron, een (steen)groeve of een andere plaats waar natuurlijke rijkdommen worden gewonnen.
+- d) the maintenance of a fixed place of business solely for the purpose of purchasing goods or merchandise or of collecting information, for the enterprise;
 
-3. Een plaats van uitvoering van een bouwwerk of van constructie- of montagewerkzaamheden of toezichthoudende werkzaamheden die daarmee verband houden en die worden uitgeoefend op die plaats van uitvoering of van de werkzaamheden, vormen alleen een vaste inrichting indien de duur ervan twaalf maanden overschrijdt.
+- e) the maintenance of a fixed place of business solely for the purpose of carrying on, for the enterprise, any other activity of a preparatory or auxiliary character;
 
-4. Niettegenstaande de voorgaande bepalingen van dit artikel wordt de uitdrukking „vaste inrichting” niet geacht te omvatten:
+- f) the maintenance of a fixed place of business solely for any combination of activities mentioned in sub-paragraphs a) to e), provided that the overall activity of the fixed place of business resulting from this combination is of a preparatory or auxiliary character.
 
-- a. het gebruik maken van inrichtingen, uitsluitend voor opslag, uitstalling of aflevering van aan de onderneming toebehorende goederen of koopwaar;
+5. Notwithstanding the provisions of paragraphs 1 and 2, where a person – other than an agent of an independent status to whom paragraph 6 applies – is acting on behalf of an enterprise and has, and habitually exercises, in a Contracting State an authority to conclude contracts in the name of the enterprise, that enterprise shall be deemed to have a permanent establishment in that State in respect of any activities which that person undertakes for the enterprise, unless the activities of such person are limited to those mentioned in paragraph 4 which, if exercised through a fixed place of business, would not make this fixed place of business a permanent establishment under the provisions of that paragraph.
 
-- b. het aanhouden van een voorraad van aan de onderneming toebehorende goederen of koopwaar, uitsluitend voor opslag, uitstalling of aflevering;
+6. An enterprise shall not be deemed to have a permanent establishment in a Contracting State merely because it carries on business in that State through a broker, general commission agent or any other agent of an independent status, provided that such persons are acting in the ordinary course of their business.
 
-- c. het aanhouden van een voorraad van aan de onderneming toebehorende goederen of koopwaar, uitsluitend voor bewerking of verwerking door een andere onderneming;
+7. The fact that a company which is a resident of a Contracting State controls or is controlled by a company which is a resident of the other Contracting State, or which carries on business in that other State (whether through a permanent establishment or otherwise), shall not of itself constitute either company a permanent establishment of the other.
 
-- d. het aanhouden van een vaste bedrijfsinrichting, uitsluitend om voor de onderneming goederen of koopwaar aan te kopen of inlichtingen in te winnen;
+### CHAPTER III. TAXATION OF INCOME
 
-- e. het aanhouden van een vaste bedrijfsinrichting, uitsluitend om voor de onderneming enige andere werkzaamheid uit te oefenen die van voorbereidende aard is of het karakter van hulpwerkzaamheid heeft;
+##### Article 6. Income from immovable property
 
-- f. het aanhouden van een vaste bedrijfsinrichting, uitsluitend voor een combinatie van de in de letters a) tot en met e) genoemde werkzaamheden, mits het totaal van de werkzaamheden van de vaste bedrijfsinrichting dat uit deze combinatie voortvloeit van voorbereidende aard is of het karakter van hulpwerkzaamheid heeft.
+1. Income derived by a resident of a Contracting State from immovable property (including income from agriculture or forestry) situated in the other Contracting State may be taxed in that other State.
 
-5. Indien een persoon – niet zijnde een onafhankelijke vertegenwoordiger waarop het zesde lid van toepassing is – voor een onderneming werkzaam is, en een machtiging bezit om namens de onderneming overeenkomsten af te sluiten en dit recht in een Verdragsluitende Staat gewoonlijk uitoefent, wordt die onderneming, niettegenstaande de bepalingen van het eerste en tweede lid, geacht in die Staat een vaste inrichting te hebben met betrekking tot de werkzaamheden die die persoon voor de onderneming verricht, tenzij de werkzaamheden van die persoon beperkt blijven tot die werkzaamheden genoemd in het vierde lid, die, indien zij worden uitgeoefend door middel van een vaste bedrijfsinrichting, deze vaste bedrijfsinrichting op grond van de bepalingen van dat lid niet tot een vaste inrichting zouden maken.
+2. The term “immovable property” shall have the meaning which it has under the law of the Contracting State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources; ships, boats and aircraft shall not be regarded as immovable property.
 
-6. Een onderneming wordt niet geacht een vaste inrichting in een Verdragsluitende Staat te bezitten alleen op grond van de omstandigheid dat zij in die Staat zaken doet door bemiddeling van een makelaar, commissionair of enige andere onafhankelijke vertegenwoordiger, mits deze personen in de normale uitoefening van hun bedrijf handelen.
+3. The provisions of paragraph 1 shall apply to income derived from the direct use, letting, or use in any other form of immovable property.
 
-7. De omstandigheid dat een lichaam dat inwoner is van een Verdragsluitende Staat, een lichaam beheerst of door een lichaam wordt beheerst dat inwoner is van de andere Verdragsluitende Staat of dat in die andere Staat zaken doet (hetzij door middel van een vaste inrichting, hetzij op andere wijze), bestempelt een van beide lichamen niet tot een vaste inrichting van het andere.
+4. The provisions of paragraphs 1 and 3 shall also apply to the income from immovable property of an enterprise and to income from immovable property used for the performance of independent personal services.
 
-### HOOFDSTUK III. BELASTINGHEFFING NAAR HET INKOMEN
+##### Article 7. Business profits
 
-##### Artikel 6. Inkomsten uit onroerende zaken
+1. The profits of an enterprise of a Contracting State shall be taxable only in that State unless the enterprise carries on business in the other Contracting State through a permanent establishment situated therein. If the enterprise carries on business as aforesaid, the profits of the enterprise may be taxed in the other State but only so much of them as is attributable to that permanent establishment.
 
-1. Inkomsten verkregen door een inwoner van een Verdragsluitende Staat uit onroerende zaken (waaronder begrepen voordelen uit landbouw- of bosbedrijven) die in de andere Verdragsluitende Staat zijn gelegen mogen in die andere Staat worden belast.
+2. Subject to the provisions of paragraph 3, where an enterprise of a Contracting State carries on business in the other Contracting State through a permanent establishment situated therein, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment.
 
-2. De uitdrukking „onroerende zaken” heeft de betekenis welke die uitdrukking heeft volgens de wetgeving van de Verdragsluitende Staat waarin de desbetreffende zaken zijn gelegen. De uitdrukking omvat in ieder geval de zaken die bij de onroerende zaken behoren, levende en dode have van landbouw- en bosbedrijven, rechten waarop de bepalingen van het privaatrecht betreffende de grondeigendom van toepassing zijn, vruchtgebruik van onroerende zaken en rechten op veranderlijke of vaste vergoedingen ter zake van de exploitatie, of concessie tot exploitatie, van minerale aardlagen, bronnen en andere natuurlijke rijkdommen; schepen, boten en luchtvaartuigen worden niet als onroerende zaken beschouwd.
+3. In determining the profits of a permanent establishment, there shall be allowed as deductions expenses which are incurred for the purposes of the permanent establishment, including executive and general administrative expenses so incurred, whether in the State in which the permanent establishment is situated or elsewhere.
 
-3. De bepalingen van het eerste lid zijn van toepassing op de inkomsten verkregen uit de rechtstreekse exploitatie, uit het verhuren of verpachten, of uit elke andere vorm van exploitatie van onroerende zaken.
+4. Insofar as it has been customary in a Contracting State to determine the profits to be attributed to a permanent establishment on the basis of an apportionment of the total profits of the enterprise to its various parts, nothing in paragraph 2 shall preclude that Contracting State from determining the profits to be taxed by such an apportionment as may be customary; the method of apportionment adopted shall, however, be such that the result shall be in accordance with the principles contained in this Article.
 
-4. De bepalingen van het eerste en derde lid zijn ook van toepassing op inkomsten uit onroerende zaken van een onderneming en op inkomsten uit onroerende zaken die worden gebruikt voor het verrichten van zelfstandige arbeid.
+5. No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
 
-##### Artikel 7. Winst uit onderneming
+6. For the purposes of the preceding paragraphs, the profits to be attributed to the permanent establishment shall be determined by the same method year by year unless there is good and sufficient reason to the contrary.
 
-1. De voordelen van een onderneming van een Verdragsluitende Staat zijn slechts in die Staat belastbaar, tenzij de onderneming in de andere Verdragsluitende Staat haar bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting. Indien de onderneming aldus haar bedrijf uitoefent, mogen de voordelen van de onderneming in de andere Staat worden belast, maar slechts in zoverre als zij aan die vaste inrichting kunnen worden toegerekend.
+7. Where profits include items of income which are dealt with separately in other Articles of this Agreement, then the provisions of those Articles shall not be affected by the provisions of this Article.
 
-2. Onverminderd de bepalingen van het derde lid worden, indien een onderneming van een Verdragsluitende Staat in de andere Verdragsluitende Staat haar bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting, in elk van de Verdragsluitende Staten aan die vaste inrichting de voordelen toegerekend die zij geacht zou kunnen worden te behalen, indien zij een zelfstandige onderneming zou zijn die dezelfde of soortgelijke werkzaamheden zou uitoefenen onder dezelfde of soortgelijke omstandigheden en die geheel onafhankelijk transacties zou aangaan met de onderneming waarvan zij een vaste inrichting is.
+##### Article 8. International transport
 
-3. Bij het bepalen van de voordelen van een vaste inrichting worden in aftrek toegelaten kosten, daaronder begrepen kosten van de leiding en algemene beheerskosten, die ten behoeve van de vaste inrichting zijn gemaakt, hetzij in de Staat waarin de vaste inrichting is gevestigd, hetzij elders.
+1. Profits from the operation of ships, boats engaged in inland waterways transport or aircraft in international traffic shall be taxable only in the Contracting State in which the place of effective management of the enterprise is situated.
 
-4. Voor zover het in een Verdragsluitende Staat gebruikelijk is de aan de vaste inrichting toe te rekenen voordelen te bepalen op basis van een verdeling van de totale winst van de onderneming over haar verschillende delen, belet het tweede lid die Verdragsluitende Staat niet de te belasten voordelen te bepalen volgens de gebruikelijke verdeling; de gevolgde methode van verdeling moet echter zodanig zijn, dat het resultaat in overeenstemming is met de in dit artikel neergelegde beginselen.
+2. If the place of effective management of a shipping enterprise is aboard a ship or boat, then it shall be deemed to be situated in the Contracting State in which the home harbour of the ship or boat is situated or, if there is no such home harbour, in the Contracting State of which the operator of the ship or boat is a resident.
 
-5. Er worden geen voordelen aan een vaste inrichting toegerekend enkel op grond van de aankoop door die vaste inrichting van goederen of koopwaar voor de onderneming.
+3. The provisions of paragraph 1 shall also apply to profits from the participation in a pool, a joint business or an international operating agency.
 
-6. Voor de toepassing van de voorgaande leden worden de aan de vaste inrichting toe te rekenen voordelen van jaar tot jaar volgens dezelfde methode bepaald, tenzij er een goede en genoegzame reden bestaat hiervan af te wijken.
+4. For the purpose of this Article, profits derived by an enterprise of a Contracting State from the operation in international traffic of ships, boats engaged in inland waterways transport and aircraft include:
 
-7. Indien in de voordelen bestanddelen zijn begrepen die afzonderlijk in andere artikelen van dit Verdrag worden behandeld, laten de bepalingen van dit artikel de bepalingen van die artikelen onverlet.
+- a) interest on sums generated directly from the operation of ships, boats and aircraft in international traffic provided that such interest is incidental to the operation; and
 
-##### Artikel 8. Internationaal vervoer
+- b) by that enterprise, provided that such charter or rental is incidental to the operation by that enterprise of ships, boats and aircraft in international traffic.
 
-1. Voordelen uit de exploitatie van schepen, boten die dienen voor het vervoer in de binnenwateren of luchtvaartuigen in internationaal verkeer zijn slechts belastbaar in de Verdragsluitende Staat waar de plaats van de werkelijke leiding van de onderneming is gelegen.
+   - (i) profits derived from the charter or rental of ships, boats and aircraft, on a bareboat basis,
 
-2. Indien de plaats van de werkelijke leiding van een zeescheepvaartonderneming zich aan boord van een schip of boot bevindt, wordt deze plaats geacht te zijn gelegen in de Verdragsluitende Staat waar de thuishaven van het schip of boot is gelegen, of, indien er geen thuishaven is, in de Verdragsluitende Staat waarvan de exploitant van het schip of boot inwoner is.
+   - (ii) profits derived from the rental of containers and related equipment,
 
-3. De bepalingen van het eerste lid zijn ook van toepassing op voordelen uit de deelneming in een „pool”, een gemeenschappelijke onderneming of een internationaal opererend agentschap.
+##### Article 9. Associated enterprises
 
-4. Voor de toepassing van dit artikel omvatten voordelen verkregen door een onderneming van een Verdragsluitende Staat uit de exploitatie van schepen, boten die dienen voor het vervoer in de binnenwateren en luchtvaartuigen in internationaal verkeer, mede:
+1. Where
 
-- a. interest op bedragen voortgekomen uit de exploitatie van schepen, boten en luchtvaartuigen in internationaal verkeer mits deze interest voortvloeit uit de exploitatie; en
+- a) an enterprise of a Contracting State participates directly or indirectly in the management, control or capital of an enterprise of the other Contracting State, or
 
-- b.
+- b) the same persons participate directly or indirectly in the management, control or capital of an enterprise of a Contracting State and an enterprise of the other Contracting State,
 
-- i. voordelen verkregen uit het charteren of verhuren van schepen, boten en luchtvaartuigen op basis van verhuur zonder bemanning;
+and in either case conditions are made or imposed between the two enterprises in their commercial or financial relations which differ from those which would be made between independent enterprises, then any profits which would, but for those conditions, have accrued to one of the enterprises, but, by reason of those conditions, have not so accrued, may be included in the profits of that enterprise and taxed accordingly. It is understood, however, that the fact that associated enterprises have concluded arrangements, such as cost-sharing arrangements or general services agreements, for or based on the allocation of executive, general administrative, technical and commercial expenses, research and development expenses and other similar expenses, is not in itself a condition as meant in the preceding sentence.
 
-- ii. voordelen verkregen uit de verhuur van containers en daarmee verband houdende uitrusting,
+2. Where a Contracting State includes in the profits of an enterprise of that State – and taxes accordingly – profits on which an enterprise of the other Contracting State has been charged to tax in that other State and the profits so included are profits which would have accrued to the enterprise of the first-mentioned State if the conditions made between the two enterprises had been those which would have been made between independent enterprises, then that other State shall make an appropriate adjustment to the amount of the tax charged therein on those profits. In determining such adjustment, due regard shall be had to the other provisions of this Agreement and the competent authorities of the Contracting States shall if necessary consult each other.
 
-door die onderneming, mits die charter of verhuur voortvloeit uit de exploitatie door die onderneming van schepen, boten en luchtvaartuigen in internationaal verkeer.
+##### Article 10. Dividends
 
-##### Artikel 9. Gelieerde ondernemingen
+1. Dividends paid by a company which is a resident of a Contracting State to a resident of the other Contracting State may be taxed in that other State.
 
-1. Indien
+2. However, such dividends may also be taxed in the Contracting State of which the company paying the dividends is a resident and according to the law of that State, but if the beneficial owner of the dividends is a resident of the other Contracting State, the tax so charged shall not exceed 15 per cent of the gross amount of the dividends.
 
-- a. een onderneming van een Verdragsluitende Staat onmiddellijk of middellijk deelneemt aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van de andere Verdragsluitende Staat, of
+3. Notwithstanding the provisions of paragraph 2 the Contracting State of which the company is a resident shall not levy a tax on dividends paid by that company, if the beneficial owner of the dividends is a company the capital of which is wholly or partly divided into shares and which is a resident of the other Contracting State and holds directly at least 10 per cent of the capital of the company paying the dividends.
 
-- b. dezelfde personen onmiddellijk of middellijk deelnemen aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van een Verdragsluitende Staat en een onderneming van de andere Verdragsluitende Staat,
+4. The competent authorities of the Contracting States shall by mutual agreement settle the mode of application of paragraphs 2 and 3.
 
-en in het ene of in het andere geval tussen de beide ondernemingen in hun handelsbetrekkingen of financiële betrekkingen voorwaarden worden overeengekomen of opgelegd, die afwijken van die welke zouden worden overeengekomen tussen onafhankelijke ondernemingen, mogen alle voordelen die een van de ondernemingen zonder deze voorwaarden zou hebben behaald, maar ten gevolge van die voorwaarden niet heeft behaald, worden begrepen in de voordelen van die onderneming en dienovereenkomstig worden belast. Het is echter wel te verstaan, dat de omstandigheid dat gelieerde ondernemingen overeenkomsten hebben afgesloten, zoals „costsharing”-overeenkomsten of algemene dienstverleningsovereenkomsten, voor of gebaseerd op de toerekening van de kosten van de leiding, de algemene beheerskosten, de technische en zakelijke kosten, kosten voor onderzoek en ontwikkeling en andere soortgelijke kosten, op zichzelf geen voorwaarde is als bedoeld in de voorgaande zin.
+5. The provisions of paragraphs 2 and 3 shall not affect the taxation of the company in respect of the profits out of which the dividends are paid.
 
-2. Indien een Verdragsluitende Staat in de voordelen van een onderneming van die Staat voordelen begrijpt – en dienovereenkomstig belast – ter zake waarvan een onderneming van de andere Verdragsluitende Staat in die andere Staat in de belastingheffing is betrokken en deze voordelen bestaan uit voordelen welke de onderneming van de eerstgenoemde Staat zou hebben behaald indien tussen de beide ondernemingen zodanige voorwaarden zouden zijn overeengekomen als die welke tussen onafhankelijke ondernemingen zouden zijn overeengekomen, zal die andere Staat het bedrag aan belasting dat in die Staat over die voordelen is geheven, dienovereenkomstig aanpassen. Bij de vaststelling van deze aanpassing wordt rekening gehouden met de overige bepalingen van dit Verdrag en plegen de bevoegde autoriteiten van de Verdragsluitende Staten zo nodig met elkaar overleg.
+6. The term “dividends” as used in this Article means income from shares, “jouissance” shares or “jouissance” rights, mining shares, founders' shares or other rights participating in profits, as well as income from debt-claims participating in profits and income from other corporate rights which is subjected to the same taxation treatment as income from shares by the laws of the State of which the company making the distribution is a resident.
 
-##### Artikel 10. Dividenden
+7. The provisions of paragraphs 1, 2 and 3 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of [Article 7](https://wetten.overheid.nl/BWBV0001453) or [Article 14](https://wetten.overheid.nl/BWBV0001453), as the case may be, shall apply.
 
-1. Dividenden betaald door een lichaam dat inwoner is van een Verdragsluitende Staat aan een inwoner van de andere Verdragsluitende Staat, mogen in die andere Staat worden belast.
+8. Where a company which is a resident of a Contracting State derives profits or income from the other Contracting State, that other State may not impose any tax on the dividends paid by the company, except insofar as such dividends are paid to a resident of that other State or insofar as the holding in respect of which the dividends are paid is effectively connected with a permanent establishment or a fixed base situated in that other State, nor subject the company's undistributed profits to a tax on the company's undistributed profits, even if the dividends paid or the undistributed profits consist wholly or partly of profits or income arising in such other State.
 
-2. Deze dividenden mogen echter ook in de Verdragsluitende Staat waarvan het lichaam dat de dividenden betaalt inwoner is, overeenkomstig de wetgeving van die Staat worden belast, maar indien de uiteindelijk gerechtigde tot de dividenden een inwoner van de andere Verdragsluitende Staat is, mag de aldus geheven belasting 15 percent van het brutobedrag van de dividenden niet overschrijden.
+9. The provisions of paragraph 3 shall not apply if the relation between the two companies has been arranged or is maintained for the main purpose or one of the main purposes to take advantage of this paragraph. In case a Contracting State intends to apply this paragraph, its competent authority shall in advance consult with the competent authority of the other Contracting State.
 
-3. Niettegenstaande de bepalingen van het tweede lid, heft de Verdragsluitende Staat waarvan het lichaam inwoner is geen belasting over de door dat lichaam betaalde dividenden, indien de uiteindelijk gerechtigde tot de dividenden een lichaam is waarvan het kapitaal geheel of gedeeltelijk in aandelen is verdeeld, dat inwoner is van de andere Verdragsluitende Staat en dat onmiddellijk ten minste 10 percent bezit van het kapitaal van het lichaam dat de dividenden betaalt.
+##### Article 11. Interest
 
-4. De bevoegde autoriteiten van de Verdragsluitende Staten regelen in onderlinge overeenstemming de wijze van toepassing van het tweede en het derde lid.
+1. Interest arising in a Contracting State and paid to a resident of the other Contracting State shall be taxable only in that other State if such resident is the beneficial owner of the interest.
 
-5. De bepalingen van het tweede en het derde lid laten onverlet de belastingheffing van het lichaam ter zake van de winst waaruit de dividenden worden betaald.
+2. The competent authorities of the Contracting States shall by mutual agreement settle the mode in which the State in which the interest arises abandons its taxation.
 
-6. De uitdrukking „dividenden”, zoals gebezigd in dit artikel, betekent inkomsten uit aandelen, winstaandelen of winstbewijzen, mijnaandelen, oprichtersaandelen of andere rechten die aanspraak geven op een aandeel in de winst, alsmede inkomsten uit schuldvorderingen die aanspraak geven op een aandeel in de winst en inkomsten uit andere vennootschappelijke rechten die door de wetgeving van de Staat waarvan het lichaam dat de uitdeling doet inwoner is, op dezelfde wijze aan de belastingheffing worden onderworpen als inkomsten uit aandelen.
+3. The term “interest” as used in this Article means income from debt-claims of every kind, whether or not secured by mortgage, but not carrying a right to participate in the debtor's profits, and in particular income from government securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures. Penalty charges for late payment shall not be regarded as interest for the purpose of this Article.
 
-7. De bepalingen van het eerste, tweede lid en derde lid zijn niet van toepassing indien de uiteindelijk gerechtigde tot de dividenden, die inwoner is van een Verdragsluitende Staat, in de andere Verdragsluitende Staat waarvan het lichaam dat de dividenden betaalt inwoner is, een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting, of in die andere Staat zelfstandige arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort. In dat geval zijn, naar gelang van het geval, de bepalingen van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=7&z=2001-04-06&g=2001-04-06) of [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=14&z=2001-04-06&g=2001-04-06) van toepassing.
+4. The provisions of paragraph 1 shall not apply if the beneficial owner of the interest, being a resident of a Contracting State, carries on business in the other Contracting State in which the interest arises, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein and the debt-claim in respect of which the interest is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of [Article 7](https://wetten.overheid.nl/BWBV0001453) or [Article 14](https://wetten.overheid.nl/BWBV0001453), as the case may be, shall apply.
 
-8. Indien een lichaam dat inwoner is van een Verdragsluitende Staat, voordelen of inkomsten verkrijgt uit de andere Verdragsluitende Staat, mag die andere Staat geen belasting heffen op de dividenden die door het lichaam worden betaald, behalve voor zover deze dividenden worden betaald aan een inwoner van die andere Staat of voor zover het aandelenbezit uit hoofde waarvan de dividenden worden betaald, tot het bedrijfsvermogen van een in die andere Staat gevestigde vaste inrichting of tot het beroepsvermogen van een aldaar gevestigd vast middelpunt behoort, noch de niet-uitgedeelde winst van het lichaam onderwerpen aan een belasting op niet-uitgedeelde winst van het lichaam, zelfs indien de betaalde dividenden of de niet-uitgedeelde winst geheel of gedeeltelijk bestaan uit voordelen of inkomsten die uit die andere Staat afkomstig zijn.
+5. Interest shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the interest, whether he is a resident of a Contracting State or not, has in a Contracting State a permanent establishment or a fixed base in connection with which the indebtedness on which the interest is paid was incurred, and such interest is borne by such permanent establishment or fixed base, then such interest shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
-9. De bepalingen van het derde lid zijn niet van toepassing indien de verhouding tussen de twee lichamen is opgezet of in stand wordt gehouden met het voornaamste doel of een van de voornaamste doelen de voordelen van dit lid te genieten. In geval een Verdragsluitende Staat voornemens is om dit lid toe te passen, overlegt de bevoegde autoriteit van tevoren met de bevoegde autoriteit van de andere Verdragsluitende Staat.
+6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the interest, having regard to the debt-claim for which it is paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Agreement.
 
-##### Artikel 11. Interest
+##### Article 12. Royalties
 
-1. Interest afkomstig uit een Verdragsluitende Staat en betaald aan een inwoner van de andere Verdragsluitende Staat is slechts in die andere Staat belastbaar indien die inwoner de uiteindelijk gerechtigde tot de interest is.
+1. Royalties arising in a Contracting State and paid to a resident of the other Contracting State shall be taxable only in that other State if such resident is the beneficial owner of the royalties.
 
-2. De bevoegde autoriteiten van de Verdragsluitende Staten regelen in onderlinge overeenstemming de wijze waarop de Staat waaruit de interest afkomstig is van zijn belastingheffing afziet.
+2. The competent authorities of the Contracting State shall by mutual agreement settle the mode in which the State in which the royalties arise abandons its taxation.
 
-3. De uitdrukking „interest”, zoals gebezigd in dit artikel, betekent inkomsten uit schuldvorderingen van welke aard ook, al dan niet verzekerd door hypotheek, doch geen aanspraak gevend op een aandeel in de winst van de schuldenaar, en in het bijzonder inkomsten uit overheidsleningen en inkomsten uit obligaties of schuldbewijzen, waaronder begrepen de aan zodanige leningen, obligaties of schuldbewijzen verbonden premies en prijzen. In rekening gebrachte boete voor te late betaling wordt voor de toepassing van dit artikel niet als interest aangemerkt.
+3. The term “royalties” as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work including cinematograph films, any patent, trade mark, design or model, plan, secret formula or process, or for information concerning industrial, commercial or scientific experience.
 
-4. De bepalingen van het eerste lid zijn niet van toepassing indien de uiteindelijk gerechtigde tot de interest, die inwoner is van een Verdragsluitende Staat, in de andere Verdragsluitende Staat waaruit de interest afkomstig is een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting, of in die andere Staat zelfstandige arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en de vordering uit hoofde waarvan de interest wordt betaald, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort. In dat geval zijn, naar gelang van het geval, de bepalingen van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=7&z=2001-04-06&g=2001-04-06) of [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=14&z=2001-04-06&g=2001-04-06) van toepassing.
+4. The provisions of paragraph 1 shall not apply if the beneficial owner of the royalties, being a resident of a Contracting State, carries on business in the other Contracting State in which the royalties arise, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the royalties are paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of [Article 7](https://wetten.overheid.nl/BWBV0001453) or [Article 14](https://wetten.overheid.nl/BWBV0001453), as the case may be, shall apply.
 
-5. Interest wordt geacht uit een Verdragsluitende Staat afkomstig te zijn indien de schuldenaar een inwoner is van die Staat. Indien evenwel de persoon die de interest betaalt, of hij inwoner van een Verdragsluitende Staat is of niet, in een Verdragsluitende Staat een vaste inrichting of een vast middelpunt heeft, waarvoor de schuld ter zake waarvan de interest wordt betaald, was aangegaan, en deze interest ten laste komt van die vaste inrichting of van dat vaste middelpunt, wordt deze interest geacht afkomstig te zijn uit de Staat waar de vaste inrichting of het vaste middelpunt is gevestigd.
+5. Royalties shall be deemed to arise in a Contracting State when the payer is a resident of that State. Where, however, the person paying the royalties, whether he is a resident of a Contracting State or not, has in a Contracting State permanent establishment or a fixed base in connection with which the liability to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
-6. Indien, wegens een bijzondere verhouding tussen de schuldenaar en de uiteindelijk gerechtigde of tussen hen beiden en een derde, het bedrag van de betaalde interest, gelet op de schuldvordering ter zake waarvan deze wordt betaald, hoger is dan het bedrag dat zonder zulk een verhouding door de schuldenaar en de uiteindelijk gerechtigde zou zijn overeengekomen, zijn de bepalingen van dit artikel slechts op het laatstbedoelde bedrag van toepassing. In dat geval blijft het daarboven uitgaande deel van het betaalde bedrag belastbaar overeenkomstig de wetgeving van elk van de Verdragsluitende Staten, zulks met inachtneming van de overige bepalingen van dit Verdrag.
+6. Where, by reason of a special relationship between the payer and the beneficial owner or between both of them and some other person, the amount of the royalties, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the beneficial owner in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In such case, the excess part of the payments shall remain taxable according to the laws of each Contracting State, due regard being had to the other provisions of this Agreement.
 
-##### Artikel 12. Royalty's
+##### Article 13. Capital gains
 
-1. Royalty's afkomstig uit een Verdragsluitende Staat en betaald aan een inwoner van de andere Verdragsluitende Staat zijn slechts in die andere Staat belastbaar indien die inwoner de uiteindelijk gerechtigde tot de royalty's is.
+1. Gains derived by a resident of a Contracting State from the alienation of immovable property referred to in [Article 6](https://wetten.overheid.nl/BWBV0001453) and situated in the other Contracting State may be taxed in that other State.
 
-2. De bevoegde autoriteiten van de Verdragsluitende Staten regelen in onderlinge overeenstemming de wijze waarop de Staat waaruit de royalty's afkomstig zijn van zijn belastingheffing afziet.
+2. Gains from the alienation of movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or of movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing independent personal services, including such gains from the alienation of such a permanent establishment (alone or with the whole enterprise) or of such fixed base, may be taxed in that other State.
 
-3. De uitdrukking „royalty's”, zoals gebezigd in dit artikel, betekent vergoedingen van welke aard ook voor het gebruik van, of voor het recht van gebruik van, een auteursrecht op een werk op het gebied van letterkunde, kunst of wetenschap, waaronder begrepen bioscoopfilms, van een octrooi, een fabrieks- of handelsmerk, een tekening of model, een plan, een geheim recept of een geheime werkwijze, of voor inlichtingen omtrent ervaringen op het gebied van nijverheid, handel of wetenschap.
+3. Gains from the alienation of ships, boats engaged in inland waterways transport or aircraft operated in international traffic or movable property pertaining to the operation of such ships, boats or aircraft, shall be taxable only in the Contracting State in which the place of effective management of the enterprise is situated. For the purposes of this paragraph the provisions of [paragraph 2 of Article 8](https://wetten.overheid.nl/BWBV0001453) shall apply.
 
-4. De bepalingen van het eerste lid zijn niet van toepassing, indien de uiteindelijk gerechtigde tot de royalty's, die inwoner is van een Verdragsluitende Staat, in de andere Verdragsluitende Staat waaruit de royalty's afkomstig zijn een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting, of in die andere Staat zelfstandige arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en het recht of de zaak uit hoofde waarvan de royalty's worden betaald, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort. In dat geval zijn, naar gelang van het geval, de bepalingen van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=7&z=2001-04-06&g=2001-04-06) of [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=14&z=2001-04-06&g=2001-04-06) van toepassing.
+4. Gains from the alienation of any property other than that referred to in paragraphs 1, 2 and 3, shall be taxable only in the Contracting State of which the alienator is a resident.
 
-5. Royalty's worden geacht uit een Verdragsluitende Staat afkomstig te zijn indien de schuldenaar een inwoner is van die Staat. Indien evenwel de persoon die de royalty's betaalt, ongeacht of hij inwoner van een Verdragsluitende Staat is of niet, in een Verdragsluitende Staat een vaste inrichting of een vast middelpunt heeft, waarvoor de verplichting tot het betalen van de royalty's was aangegaan, en deze royalty's ten laste komen van die vaste inrichting of van dat vaste middelpunt, worden deze royalty's geacht afkomstig te zijn uit de Staat waar de vaste inrichting of het vaste middelpunt is gevestigd.
+5. The provisions of paragraph 4 shall not affect the right of each of the Contracting States to levy according to its own law a tax on gains from the alienation of shares or “jouissance” rights in a company, the capital of which is wholly or partly divided into shares and which under the laws of that State is a resident of that State, derived by an individual who is a resident of the other Contracting State and has been a resident of the first-mentioned State in the course of the last ten years preceding the alienation of the shares or “jouissance” rights.
 
-6. Indien, wegens een bijzondere verhouding tussen de schuldenaar en de uiteindelijk gerechtigde of tussen hen beiden en een derde, het bedrag van de royalty's, gelet op het gebruik, het recht of de inlichtingen waarvoor zij worden betaald, hoger is dan het bedrag dat zonder zulk een verhouding door de schuldenaar en de uiteindelijk gerechtigde zou zijn overeengekomen, zijn de bepalingen van dit artikel slechts op het laatstbedoelde bedrag van toepassing. In dat geval blijft het daarboven uitgaande deel van het betaalde bedrag belastbaar overeenkomstig de wetgeving van elk van de Verdragsluitende Staten, zulks met inachtneming van de overige bepalingen van dit Verdrag.
+##### Article 14. Independent personal services
 
-##### Artikel 13. Vermogenswinsten
+1. Income derived by an individual who is a resident of a Contracting State in respect of professional services or other activities of an independent character shall be taxable only in that State except in one of the following circumstances, where such income may also be taxed in the other Contracting State:
 
-1. Voordelen verkregen door een inwoner van een Verdragsluitende Staat uit de vervreemding van onroerende zaken zoals bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=6&z=2001-04-06&g=2001-04-06) en die zijn gelegen in de andere Verdragsluitende Staat, mogen in die andere Staat worden belast.
+- a) if he has a fixed base regularly available to him in the other Contracting State for the purpose of performing his activities. In that case only so much of the income may be taxed in that other State as is attributable to that fixed base;
 
-2. Voordelen verkregen uit de vervreemding van roerende goederen die deel uitmaken van het bedrijfsvermogen van een vaste inrichting die een onderneming van een Verdragsluitende Staat in de andere Verdragsluitende Staat heeft, of van roerende goederen die behoren tot een vast middelpunt dat een inwoner van een Verdragsluitende Staat in de andere Verdragsluitende Staat tot zijn beschikking heeft voor het verrichten van zelfstandige arbeid, waaronder begrepen voordelen verkregen uit de vervreemding van de vaste inrichting (alleen of met de gehele onderneming) of van het vaste middelpunt, mogen in die andere Staat worden belast.
+- b) if his stay in the other Contracting State is for a period or periods exceeding in the aggregate 183 days in any twelve month period commencing or ending in the fiscal year concerned. In that case only so much of the income may be taxed in that other State as is derived from his activities performed in that other State.
 
-3. Voordelen uit de vervreemding van schepen, boten die dienen voor het vervoer in de binnenwateren of luchtvaartuigen die in internationaal verkeer worden geëxploiteerd of van roerende goederen die worden gebruikt bij de exploitatie van deze schepen, boten of luchtvaartuigen, zijn slechts belastbaar in de Verdragsluitende Staat waar de plaats van de werkelijke leiding van de onderneming is gelegen. Voor de toepassing van dit lid zijn de bepalingen van het [tweede lid van artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=8&z=2001-04-06&g=2001-04-06) van toepassing.
+2. The term “professional services” includes especially independent scientific, literary, artistic, educational or teaching activities as well as the independent activities of physicians, lawyers, engineers, architects, dentists and accountants.
 
-4. Voordelen verkregen uit de vervreemding van alle andere goederen dan die bedoeld in het eerste, tweede en derde lid zijn slechts belastbaar in de Verdragsluitende Staat waarvan de vervreemder inwoner is.
+##### Article 15. Dependent personal services
 
-5. De bepalingen van het vierde lid laten onverlet het recht van elk van de Verdragsluitende Staten overeenkomstig zijn eigen wetgeving belasting te heffen over voordelen die uit de vervreemding van aandelen of winstbewijzen in een lichaam waarvan het kapitaal geheel of ten dele in aandelen is verdeeld en dat volgens de wetgeving van die Staat inwoner is van die Staat, worden verkregen door een natuurlijke persoon die inwoner is van de andere Verdragsluitende Staat en die in de loop van de laatste tien jaren voorafgaande aan de vervreemding van de aandelen of winstbewijzen inwoner van de eerstgenoemde Staat is geweest.
+1. Subject to the provisions of [Articles 16](https://wetten.overheid.nl/BWBV0001453), [18](https://wetten.overheid.nl/BWBV0001453) and [19](https://wetten.overheid.nl/BWBV0001453), salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
 
-##### Artikel 14. Zelfstandige arbeid
+2. Notwithstanding the provisions of paragraph 1, remuneration derived by a resident of a Contracting State in respect of an employment exercised in the other Contracting State shall be taxable only in the first-mentioned State if:
 
-1. Voordelen verkregen door een natuurlijke persoon die inwoner is van een Verdragsluitende Staat in de uitoefening van een vrij beroep of ter zake van andere werkzaamheden van zelfstandige aard zijn slechts in die Staat belastbaar behalve onder een van de volgende omstandigheden waarin zodanige voordelen ook in de andere Verdragsluitende Staat mogen worden belast:
+- a) the recipient is present in the other State for a period or periods not exceeding in the aggregate 183 days in any twelve month period commencing or ending in the fiscal year concerned, and
 
-- a. indien hij in de andere Verdragsluitende Staat voor het verrichten van zijn werkzaamheden geregeld over een vast middelpunt beschikt. In dat geval mogen de voordelen slechts in die andere Staat worden belast in zoverre als zij kunnen worden toegerekend aan dat vaste middelpunt;
+- b) the remuneration is paid by, or on behalf of, an employer who is not a resident of the other State, and
 
-- b. indien hij in de andere Verdragsluitende Staat verblijft gedurende een tijdvak of tijdvakken, die in een tijdvak van twaalf maanden beginnend of eindigend in het desbetreffende belastingjaar een totaal van 183 dagen te boven gaan. In dat geval mogen de voordelen slechts in die andere Staat worden belast in zoverre als zij worden verkregen uit zijn in die andere Staat verrichte activiteiten.
+- c) the remuneration is not borne by a permanent establishment or a fixed base which the employer has in the other State.
 
-2. De uitdrukking „vrij beroep” omvat in het bijzonder zelfstandige werkzaamheden op het gebied van wetenschap, letterkunde, kunst, opvoeding of onderwijs, alsmede de zelfstandige werkzaamheden van artsen, advocaten, technici, architecten, tandartsen en accountants.
+3. Notwithstanding the preceding provisions of this Article, remuneration derived by a resident of a Contracting State in respect of an employment exercised aboard a ship, a boat engaged in inland waterways transport or aircraft operated in international traffic, shall be taxable only in that State.
 
-##### Artikel 15. Niet-zelfstandige arbeid
+##### Article 16. Directors' fees
 
-1. Onverminderd de bepalingen van de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=16&z=2001-04-06&g=2001-04-06), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=18&z=2001-04-06&g=2001-04-06) en [19](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=19&z=2001-04-06&g=2001-04-06), zijn salarissen, lonen en andere soortgelijke beloningen, verkregen door een inwoner van een Verdragsluitende Staat ter zake van een dienstbetrekking slechts in die Staat belastbaar, tenzij de dienstbetrekking in de andere Verdragsluitende Staat wordt uitgeoefend. Indien de dienstbetrekking aldaar wordt uitgeoefend, mag de ter zake daarvan verkregen beloning in die andere Staat worden belast.
+Directors' fees or other remuneration derived by a resident of a Contracting State in his capacity as a member of the board of directors or any other similar body of a company which is a resident of the other Contracting State may be taxed in that other State.
 
-2. Niettegenstaande de bepalingen van het eerste lid is de beloning verkregen door een inwoner van een Verdragsluitende Staat ter zake van een in de andere Verdragsluitende Staat uitgeoefende dienstbetrekking slechts in de eerstgenoemde Staat belastbaar, indien:
+##### Article 17. Artistes and sportsmen
 
-- a. de genieter in de andere Staat verblijft gedurende een tijdvak of tijdvakken, die in een tijdvak van twaalf maanden beginnend of eindigend in het desbetreffende belastingjaar een totaal van 183 dagen niet te boven gaan, en
+1. Notwithstanding the provisions of [Articles 14](https://wetten.overheid.nl/BWBV0001453) and [15](https://wetten.overheid.nl/BWBV0001453), income derived by a resident of a Contracting State as an entertainer, such as a theatre, motion picture, radio or television artiste, or a musician, or as a sportsman, from his personal activities as such exercises in the other Contracting State, may be taxed in that other State.
 
-- b. de beloning wordt betaald door of namens een werkgever die geen inwoner van de andere Staat is, en
+2. Where income in respect of personal activities exercised by an entertainer or a sportsman in his capacity as such accrues not to the entertainer or sportsman himself but to another person, that income may, notwithstanding the provisions of [Articles 7](https://wetten.overheid.nl/BWBV0001453), [14](https://wetten.overheid.nl/BWBV0001453) and [15](https://wetten.overheid.nl/BWBV0001453), be taxed in the Contracting State in which the activities of the entertainer or sportsman are exercised.
 
-- c. de beloning niet ten laste komt van een vaste inrichting die, of van een vast middelpunt dat de werkgever in de andere Staat heeft.
+##### Article 18. Pensions and annuities
 
-3. Niettegenstaande de voorgaande bepalingen van dit artikel is de beloning verkregen door een inwoner van een Verdragsluitende Staat ter zake van een dienstbetrekking uitgeoefend aan boord van een schip, een boot die dient voor het vervoer in de binnenwateren of luchtvaartuig dat in internationaal verkeer wordt geëxploiteerd, slechts in die Staat belastbaar.
+1. Subject to the provisions of [paragraph 2 of Article 19](https://wetten.overheid.nl/BWBV0001453), pensions and other similar remuneration paid to a resident of a Contracting State in consideration of past employment and any annuity shall be taxable only in that State.
 
-##### Artikel 16. Directeursbeloningen
+2. The term “annuity” means a stated sum payable periodically at stated times during life or during a specified or ascertainable period of time under an obligation to make the payments in return for adequate and full consideration in money or money's worth.
 
-Directeursbeloningen of andere beloningen verkregen door een inwoner van een Verdragsluitende Staat in zijn hoedanigheid van lid van de raad van beheer of van een soortgelijk orgaan van een lichaam dat inwoner is van de andere Verdragsluitende Staat, mogen in die andere Staat worden belast.
+##### Article 19. Government service and social security payments
 
-##### Artikel 17. Artiesten en sportbeoefenaars
+1. - a) Salaries, wages and other similar remuneration, other than a pension, paid by a Contracting State or a political subdivision or a local authority thereof to an individual in respect of services rendered to that State or subdivision or authority may be taxed in that State.
 
-1. Niettegenstaande de bepalingen van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=14&z=2001-04-06&g=2001-04-06) en [15](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=15&z=2001-04-06&g=2001-04-06), mogen voordelen of inkomsten, verkregen door een inwoner van een Verdragsluitende Staat als artiest, zoals een toneelspeler, film-, radio-, of televisie-artiest of een musicus, of als sportbeoefenaar, uit zijn persoonlijke werkzaamheden als zodanig die worden verricht in de andere Verdragsluitende Staat, worden belast in die andere Staat.
+- b) However, such salaries, wages and other similar remuneration shall be taxable only in the other Contracting State if the services are rendered in that State and the individual is a resident of that State who:
 
-2. Indien voordelen of inkomsten ter zake van persoonlijke werkzaamheden die door een artiest of een sportbeoefenaar in die hoedanigheid worden verricht, niet aan de artiest of sportbeoefenaar zelf toekomen, maar aan een andere persoon, mogen die voordelen of inkomsten, niettegenstaande de bepalingen van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=7&z=2001-04-06&g=2001-04-06), [14](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=14&z=2001-04-06&g=2001-04-06) en [15](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=15&z=2001-04-06&g=2001-04-06), worden belast in de Verdragsluitende Staat waarin de werkzaamheden van de artiest of sportbeoefenaar worden verricht.
+   - (i) is a national of that State; or
 
-##### Artikel 18. Pensioenen en lijfrenten
+   - (ii) did not become a resident of that State solely for the purpose of rendering the services.
 
-1. Onverminderd de bepalingen van [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=19&z=2001-04-06&g=2001-04-06), zijn pensioenen en andere soortgelijke beloningen betaald aan een inwoner van een Verdragsluitende Staat ter zake van een vroegere dienstbetrekking alsmede lijfrenten slechts in die Staat belastbaar.
+2. - a) Any pension paid by, or out of funds created by, a Contracting State or a political subdivision or a local authority thereof to an individual in respect of services rendered to that State or subdivision or authority may be taxed in that State.
 
-2. De uitdrukking „lijfrente” betekent een vaste som periodiek betaalbaar op vaste tijdstippen, hetzij gedurende het leven, hetzij gedurende een vastgesteld of voor vaststelling vatbaar tijdvak, ingevolge een verbintenis tot het doen van betalingen, welke tegenover een voldoende en volledige tegenprestatie in geld of geldswaarde staat.
+- b) However, such pension shall be taxable only in the other Contracting State if the individual is a resident of, and a national of, that State.
 
-##### Artikel 19. Overheidsfuncties en sociale-zekerheidsuitkeringen
+3. Any pension and other payment paid out under the provisions of a social security system of a Contracting State to a resident of the other Contracting State may be taxed in the first-mentioned State.
 
-- a. Salarissen, lonen en andere soortgelijke beloningen, niet zijnde pensioenen, betaald door een Verdragsluitende Staat of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten bewezen aan die Staat of dat onderdeel of dat publiekrechtelijk lichaam, mogen in die Staat worden belast.
+4. The provisions of [Articles 15](https://wetten.overheid.nl/BWBV0001453), [16](https://wetten.overheid.nl/BWBV0001453), [17](https://wetten.overheid.nl/BWBV0001453) and [18](https://wetten.overheid.nl/BWBV0001453) shall apply to salaries, wages and other similar remuneration and to pensions in respect of services rendered in connection with a business carried on by a Contracting State or a political subdivision or a local authority thereof.
 
-- b. Deze salarissen, lonen en andere soortgelijke beloningen zijn echter slechts in de andere Verdragsluitende Staat belastbaar, indien de diensten in die Staat worden bewezen en de natuurlijke persoon inwoner is van die Staat, en:
+##### Article 20. Students
 
-- i. onderdaan is van die Staat; of
+Payments which a student or business apprentice who is or was immediately before visiting a Contracting State a resident of the other Contracting State and who is present in the first-mentioned State solely for the purpose of his education or training receives for the purpose of his maintenance, education or training shall not be taxed in that State, provided that such payments arise from sources outside that State.
 
-- ii. niet uitsluitend voor het verrichten van de diensten inwoner van die Staat werd.
+##### Article 21. Other income
 
-- a. Pensioenen, betaald door, of uit fondsen in het leven geroepen door, een Verdragsluitende Staat of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten bewezen aan die Staat of dat onderdeel of dat publiekrechtelijk lichaam mogen in die Staat worden belast.
+1. Items of income of a resident of a Contracting State, wherever arising, not dealt with in the foregoing Articles of this Agreement shall be taxable only in that State.
 
-- b. Deze pensioenen zijn echter slechts in de andere Verdragsluitende Staat belastbaar, indien de natuurlijke persoon inwoner en onderdaan is van die Staat.
+2. The provisions of paragraph 1 shall not apply to income, other than income from immovable property as defined in [paragraph 2 of Article 6](https://wetten.overheid.nl/BWBV0001453), if the recipient of such income, being a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the right or property in respect of which the income is paid is effectively connected with such permanent establishment or fixed base. In such case the provisions of [Article 7](https://wetten.overheid.nl/BWBV0001453) or [Article 14](https://wetten.overheid.nl/BWBV0001453), as the case may be, shall apply.
 
-3. Elk pensioen en elke andere vergoeding, uitbetaald krachtens de bepalingen van een publiekrechtelijke regeling inzake sociale zekerheid van een Verdragsluitende Staat aan een inwoner van de andere Verdragsluitende Staat, mogen in de eerstgenoemde Staat worden belast.
+### CHAPTER IV. TAXATION OF CAPITAL
 
-4. De bepalingen van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=15&z=2001-04-06&g=2001-04-06), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=16&z=2001-04-06&g=2001-04-06), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=17&z=2001-04-06&g=2001-04-06) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=18&z=2001-04-06&g=2001-04-06), zijn van toepassing op salarissen, lonen en andere soortgelijke beloningen en op pensioenen ter zake van diensten bewezen in het kader van een op winst gericht bedrijf, uitgeoefend door een Verdragsluitende Staat of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan.
+##### Article 22. Capital
 
-##### Artikel 20. Studenten
+1. Capital represented by immovable property referred to in [Article 6](https://wetten.overheid.nl/BWBV0001453), owned by a resident of a Contracting State and situated in the other Contracting State, may be taxed in that other State.
 
-Vergoedingen die een student of een voor een beroep of bedrijf in opleiding zijnde persoon, die inwoner is of onmiddellijk voorafgaande aan zijn bezoek aan een Verdragsluitende Staat inwoner was van de andere Verdragsluitende Staat en die uitsluitend voor zijn studie of opleiding in de eerstbedoelde Staat verblijft, ontvangt ten behoeve van zijn onderhoud, studie of opleiding, zijn in die Staat niet belastbaar, mits deze betalingen aan hem worden gedaan uit bronnen buiten die Staat.
+2. Capital represented by movable property forming part of the business property of a permanent establishment which an enterprise of a Contracting State has in the other Contracting State or by movable property pertaining to a fixed base available to a resident of a Contracting State in the other Contracting State for the purpose of performing independent personal services, may be taxed in that other State.
 
-##### Artikel 21. Overige inkomsten
+3. Capital represented by ships, boats engaged in inland waterways transport and aircraft operated in international traffic and by movable property pertaining to the operation of such ships, boats and aircraft, shall be taxable only in the Contracting State in which the place of effective management of the enterprise is situated. For the purposes of this paragraph the provisions of [paragraph 2 of Article 8](https://wetten.overheid.nl/BWBV0001453) shall apply.
 
-1. Bestanddelen van het inkomen van een inwoner van een Verdragsluitende Staat, van waaruit ook afkomstig, die niet in de voorgaande artikelen van dit Verdrag zijn behandeld, zijn slechts in die Staat belastbaar.
+4. All other elements of capital of a resident of a Contracting State shall be taxable only in that State.
 
-2. De bepalingen van het eerste lid zijn niet van toepassing op inkomsten, niet zijnde inkomsten uit onroerende zaken zoals omschreven in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=6&z=2001-04-06&g=2001-04-06), indien de genieter van die inkomsten, die inwoner is van een Verdragsluitende Staat, in de andere Verdragsluitende Staat een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting, of in die andere Staat zelfstandige arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en het recht of de zaak ter zake waarvan de inkomsten worden betaald, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort. In dat geval zijn, naar gelang van het geval, de bepalingen van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=7&z=2001-04-06&g=2001-04-06) of [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=14&z=2001-04-06&g=2001-04-06) van toepassing.
+### CHAPTER V. ELIMINATION OF DOUBLE TAXATION
 
-### HOOFDSTUK IV. BELASTINGHEFFING NAAR HET VERMOGEN
+##### Article 23. Elimination of double taxation
 
-##### Artikel 22. Vermogen
+1. In the case of a resident of Croatia, double taxation shall be avoided as follows:
 
-1. Vermogen bestaande uit onroerende zaken, zoals bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=6&z=2001-04-06&g=2001-04-06), dat een inwoner van een Verdragsluitende Staat bezit en dat is gelegen in de andere Verdragsluitende Staat, mag in die andere Staat worden belast.
+Where a resident of Croatia derives income or owns capital which, in accordance with the provisions of this Agreement, may be taxed in the Netherlands, Croatia shall allow:
 
-2. Vermogen bestaande uit roerende goederen die deel uitmaken van het bedrijfsvermogen van een vaste inrichting die een onderneming van een Verdragsluitende Staat in de andere Verdragsluitende Staat heeft, of uit roerende goederen die behoren tot een vast middelpunt dat een inwoner van een Verdragsluitende Staat in de andere Verdragsluitende Staat tot zijn beschikking heeft voor het verrichten van zelfstandige arbeid, mag in die andere Staat worden belast.
+- a) as a deduction from the tax on the income of that resident, an amount equal to the income tax paid in the Netherlands;
 
-3. Vermogen bestaande uit schepen, boten die dienen voor het vervoer in de binnenwateren en luchtvaartuigen die in internationaal verkeer worden geëxploiteerd alsmede uit roerende goederen die worden gebruikt bij de exploitatie van deze schepen, boten en luchtvaartuigen, zijn slechts belastbaar in de Verdragsluitende Staat waar de plaats van de werkelijke leiding van de onderneming is gelegen. Voor de toepassing van dit lid zijn de bepalingen van het [tweede lid van artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=8&z=2001-04-06&g=2001-04-06) van toepassing.
+- b) as a deduction from the tax on the capital of that resident, an amount equal to the capital tax paid in the Netherlands. Such deduction in either case shall not, however, exceed that part of the tax paid, as computed before the deduction is given, which is attributable, as the case may be, to the income or the capital which may be taxed in the Netherlands.
 
-4. Alle andere bestanddelen van het vermogen van een inwoner van een Verdragsluitende Staat zijn slechts in die Staat belastbaar.
+2. Where in accordance with any provision of the Agreement income derived or capital owned by a resident of Croatia is exempt from tax in Croatia, Croatia may nevertheless, in calculating the amount of tax on the remaining income or capital of such resident, take into account the exempted income or capital.
 
-### HOOFDSTUK V. VERMIJDING VAN DUBBELE BELASTING
+3. In the case of a resident of the Netherlands, double taxation shall be avoided as follows:
 
-##### Artikel 23. Vermijding van dubbele belasting
+- a) The Netherlands, when imposing tax on its residents, may include in the basis upon which such taxes are imposed the items of income or capital which, according to the provisions of this Agreement, may be taxed in Croatia;
 
-1. In het geval van een inwoner van Kroatië wordt dubbele belasting als volgt vermeden:
+- b) However, where a resident of the Netherlands derives items of income which according to [Article 6](https://wetten.overheid.nl/BWBV0001453), [Article 7](https://wetten.overheid.nl/BWBV0001453), [paragraph 7 of Article 10](https://wetten.overheid.nl/BWBV0001453), [paragraph 4 of Article 11](https://wetten.overheid.nl/BWBV0001453), [paragraph 4 of Article 12](https://wetten.overheid.nl/BWBV0001453), [paragraphs 1 and 2 of Article 13](https://wetten.overheid.nl/BWBV0001453), [Article 14](https://wetten.overheid.nl/BWBV0001453), [paragraph 1 of Article 15](https://wetten.overheid.nl/BWBV0001453), [paragraphs 1 (subparagraph a), 2 (subparagraph a) and 3 of Article 19](https://wetten.overheid.nl/BWBV0001453) and [paragraph 2 of Article 21](https://wetten.overheid.nl/BWBV0001453) of this Agreement may be taxed in Croatia and are included in the basis referred to in subparagraph a) of this paragraph, the Netherlands shall exempt such items of income by allowing a reduction of its tax. This reduction shall be computed in conformity with the provisions of Netherlands law for the avoidance of double taxation. For that purpose the said items of income shall be deemed to be included in the total amount of the items of income which are exempt from Netherlands tax under those provisions;
 
-Indien een inwoner van Kroatië inkomen verkrijgt of vermogen bezit, dat volgens de bepalingen van dit Verdrag in Nederland mag worden belast, verleent Kroatië:
+- c) Further, the Netherlands shall allow a deduction from the Netherlands tax so computed for the items of income or capital which according to [paragraph 2 of Article 10](https://wetten.overheid.nl/BWBV0001453), [paragraph 5 of Article 13](https://wetten.overheid.nl/BWBV0001453), [Article 16](https://wetten.overheid.nl/BWBV0001453), [Article 17](https://wetten.overheid.nl/BWBV0001453) and [paragraphs 1 and 2 of Article 22](https://wetten.overheid.nl/BWBV0001453) of this Agreement may be taxed in Croatia to the extent that these items are included in the basis referred to in subparagraph a) of this paragraph. The amount of this deduction shall be equal to the tax paid in Croatia on these items of income or capital, but shall not exceed the amount of the reduction which would be allowed if the items of income or capital so included were the sole items of income or capital which are exempt from Netherlands tax under the provisions of Netherlands law for the avoidance of double taxation;
 
-- a. een aftrek op de belasting naar het inkomen van die inwoner, gelijk aan het bedrag van de in Nederland betaalde inkomstenbelasting;
+- d) Notwithstanding the provisions of subparagraph b) of this paragraph, the Netherlands shall allow a deduction from the Netherlands tax for the tax paid in Croatia on items of income which according to [Article 7](https://wetten.overheid.nl/BWBV0001453), [paragraph 7 of Article 10](https://wetten.overheid.nl/BWBV0001453), [paragraph 4 of Article 11](https://wetten.overheid.nl/BWBV0001453), [paragraph 4 of Article 12](https://wetten.overheid.nl/BWBV0001453), [Article 14](https://wetten.overheid.nl/BWBV0001453) and [paragraph 2 of Article 21](https://wetten.overheid.nl/BWBV0001453) of this Agreement may be taxed in Croatia to the extent that these items are included in the basis referred to in subparagraph a) of this paragraph, if and insofar as the Netherlands under the provisions of Netherlands law for the avoidance of double taxation allows a deduction from the Netherlands tax of the tax levied in another country on such items of income. For the computation of this deduction the provisions of subparagraph c) of this paragraph shall apply accordingly.
 
-- b. een aftrek op de belasting naar het vermogen van die inwoner, gelijk aan het bedrag van de in Nederland betaalde vermogensbelasting.
+### CHAPTER VI. SPECIAL PROVISIONS
 
-Deze aftrek bedraagt echter in geen geval meer dan het gedeelte van de verschuldigde belasting, zoals berekend voordat de aftrek is verleend, dat, naar gelang van het geval, toerekenbaar is aan het inkomen of het vermogen dat in Nederland mag worden belast.
+##### Article 24. Offshore activities
 
-2. Indien door een inwoner van Kroatië verkregen inkomen of door hem bezeten vermogen volgens een bepaling van het Verdrag in Kroatië van belasting is vrijgesteld, dan mag Kroatië niettemin bij de berekening van het bedrag van de belasting over het resterende inkomen of vermogen van die inwoner, het vrijgestelde inkomen of vermogen in aanmerking nemen.
+1. The provisions of this Article shall apply notwithstanding any other provisions of this Agreement. However, this Article shall not apply where offshore activities of a person constitute for that person a permanent establishment under the provisions of [Article 5](https://wetten.overheid.nl/BWBV0001453) or a fixed base under the provisions of [Article 14](https://wetten.overheid.nl/BWBV0001453).
 
-3. In het geval van een inwoner van Nederland wordt dubbele belasting als volgt vermeden:
+2. In this Article the term “offshore activities” means activities which are carried on offshore in connection with the exploration or exploitation of the sea bed and its sub-soil and their natural resources, situated in a Contracting State.
 
-- a. Nederland is bevoegd bij het heffen van belasting van zijn inwoners in de grondslag waarnaar de belasting wordt geheven, de bestanddelen van het inkomen of het vermogen te begrijpen die overeenkomstig de bepalingen van dit Verdrag in Kroatië mogen worden belast;
+3. An enterprise of a Contracting State which carries on offshore activities in the other Contracting State shall, subject to paragraph 4 of this Article, be deemed to be carrying on, in respect of those activities, business in that other State through a permanent establishment situated therein, unless the offshore activities in question are carried on in the other State for a period or periods not exceeding in the aggregate 30 days in any period of twelve months.
 
-- b. indien echter een inwoner van Nederland bestanddelen van het inkomen verkrijgt die volgens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=6&z=2001-04-06&g=2001-04-06), [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=7&z=2001-04-06&g=2001-04-06), [artikel 10, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=10&z=2001-04-06&g=2001-04-06), [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=11&z=2001-04-06&g=2001-04-06), [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=12&z=2001-04-06&g=2001-04-06), [artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=13&z=2001-04-06&g=2001-04-06), [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=14&z=2001-04-06&g=2001-04-06), [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=15&z=2001-04-06&g=2001-04-06), [artikel 19, eerste lid (onderdeel a), tweede lid (onderdeel a) en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=19&z=2001-04-06&g=2001-04-06) en [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=21&z=2001-04-06&g=2001-04-06), van dit Verdrag in Kroatië mogen worden belast en die in de in het derde lid, onderdeel a) bedoelde grondslag zijn begrepen, stelt Nederland deze inkomensbestanddelen vrij door een vermindering van zijn belasting toe te staan. Deze vermindering wordt berekend overeenkomstig de bepalingen in de Nederlandse wetgeving tot het vermijden van dubbele belasting. Te dien einde worden genoemde inkomensbestanddelen geacht te zijn begrepen in het totale bedrag van de bestanddelen van het inkomen die ingevolge die bepalingen van Nederlandse belasting zijn vrijgesteld;
+For the purposes of this paragraph:
 
-- c. Nederland verleent voorts een aftrek op de aldus berekende Nederlandse belasting voor die bestanddelen van het inkomen of het vermogen die volgens [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=10&z=2001-04-06&g=2001-04-06), [artikel 13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=13&z=2001-04-06&g=2001-04-06), [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=16&z=2001-04-06&g=2001-04-06), [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=17&z=2001-04-06&g=2001-04-06) en [artikel 22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=IV&artikel=22&z=2001-04-06&g=2001-04-06), van dit Verdrag in Kroatië mogen worden belast, in zoverre deze bestanddelen in de in het derde lid, onderdeel a) bedoelde grondslag zijn begrepen. Het bedrag van deze aftrek is gelijk aan de in Kroatië over deze bestanddelen van het inkomen of het vermogen betaalde belasting, maar bedraagt niet meer dan het bedrag van de vermindering die zou zijn verleend indien de aldus in het inkomen of het vermogen begrepen bestanddelen van het inkomen of het vermogen de enige bestanddelen van het inkomen of het vermogen zouden zijn geweest die uit hoofde van de bepalingen in de Nederlandse wetgeving tot het vermijden van dubbele belasting van Nederlandse belasting zijn vrijgesteld;
+- a) where an enterprise carrying on offshore activities in the other Contracting State is associated with another enterprise and that other enterprise continues, as part of the same project, the same offshore activities that are or were being carried on by the first-mentioned enterprise, and the afore-mentioned activities carried on by both enterprises – when added together – exceed a period of 30 days, then each enterprise shall be deemed to be carrying on its activities for a period exceeding 30 days in a twelve months-period;
 
-- d. niettegenstaande de bepalingen van het derde lid, onderdeel b) verleent Nederland een aftrek op de Nederlandse belasting voor de in Kroatië betaalde belasting op bestanddelen van het inkomen die volgens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=7&z=2001-04-06&g=2001-04-06), [artikel 10, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=10&z=2001-04-06&g=2001-04-06), [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=11&z=2001-04-06&g=2001-04-06), [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=12&z=2001-04-06&g=2001-04-06), [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=14&z=2001-04-06&g=2001-04-06) en [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=21&z=2001-04-06&g=2001-04-06), van dit Verdrag in Kroatië mogen worden belast, voor zover deze bestanddelen in de in het derde lid, onderdeel a) bedoelde grondslag zijn begrepen, indien en voor zover Nederland uit hoofde van de bepalingen in de Nederlandse wetgeving tot het vermijden van dubbele belasting een aftrek verleent op de Nederlandse belasting voor de in een ander land over die bestanddelen van het inkomen geheven belasting. Voor de berekening van deze aftrek vinden de bepalingen van het derde lid, onderdeel c) overeenkomstige toepassing.
+- b) an enterprise shall be regarded as associated with another enterprise if one holds directly or indirectly at least one third of the capital of the other enterprise or if a person holds directly or indirectly at least one third of the capital of both enterprises.
 
-### HOOFDSTUK VI. BIJZONDERE BEPALINGEN
+4. However, for the purposes of paragraph 3 of this Article the term “offshore activities” shall be deemed not to include:
 
-##### Artikel 24. Werkzaamheden buitengaats
+- a) one or any combination of the activities mentioned in [paragraph 4 of Article 5](https://wetten.overheid.nl/BWBV0001453);
 
-1. De bepalingen van dit artikel vinden toepassing niettegenstaande enigerlei andere bepalingen van dit Verdrag. Dit artikel is echter niet van toepassing indien werkzaamheden buitengaats van een persoon voor die persoon een vaste inrichting vormen ingevolge de bepalingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=II&artikel=5&z=2001-04-06&g=2001-04-06) of een vast middelpunt ingevolge de bepalingen van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=14&z=2001-04-06&g=2001-04-06).
+- b) towing or anchor handling by ships primarily designed for that purpose and any other activities performed by such ships;
 
-2. In dit artikel betekent de uitdrukking „werkzaamheden buitengaats” werkzaamheden die buitengaats worden verricht in verband met de exploratie of exploitatie van de in een Verdragsluitende Staat gelegen zeebodem en de ondergrond daarvan en hun natuurlijke rijkdommen.
+- c) the transport of supplies or personnel by ships or aircraft in international traffic.
 
-3. Een onderneming van een Verdragsluitende Staat die in de andere Verdragsluitende Staat werkzaamheden buitengaats verricht wordt, onder voorbehoud van het bepaalde in het vierde lid van dit artikel, geacht ter zake van die werkzaamheden in de andere Staat een bedrijf uit te oefenen door middel van een aldaar gevestigde vaste inrichting, tenzij de desbetreffende werkzaamheden buitengaats in de andere Staat worden verricht gedurende een tijdvak of tijdvakken die in een tijdvak van twaalf maanden een totaal van 30 dagen niet te boven gaan.
+5. A resident of a Contracting State who carries on offshore activities in the other Contracting State, which consist of professional services or other activities of an independent character, shall be deemed to be performing those activities from a fixed base in the other Contracting State if the offshore activities in question last for a continuous period of 30 days or more.
 
-Voor de toepassing van dit lid wordt:
+6. Salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment connected with offshore activities carried on through a permanent establishment in the other Contracting State may, to the extent that the employment is exercised offshore in that other State, be taxed in that other State.
 
-- a. indien een onderneming die in de andere Verdragsluitende Staat werkzaamheden buitengaats verricht en die is gelieerd aan een andere onderneming, welke andere onderneming als onderdeel van hetzelfde project dezelfde werkzaamheden buitengaats voortzet die worden of werden uitgevoerd door de eerstbedoelde onderneming, en de hiervoor bedoelde door beide ondernemingen verrichte activiteiten bij elkaar opgeteld een tijdvak van 30 dagen te boven gaan, iedere onderneming geacht haar werkzaamheden uit te oefenen gedurende een tijdvak dat 30 dagen in een tijdvak van twaalf maanden te boven gaat;
+7. Where documentary evidence is produced that tax has been paid in Croatia on the items of income which may be taxed in Croatia according to [Article 7](https://wetten.overheid.nl/BWBV0001453) and [Article 14](https://wetten.overheid.nl/BWBV0001453) in connection with respectively paragraph 3 and paragraph 5 of this Article, and to paragraph 6 of this Article, the Netherlands shall allow a reduction of its tax which shall be computed in conformity with the rules laid down in [paragraph 3 (subparagraph b) of Article 23](https://wetten.overheid.nl/BWBV0001453).
 
-- b. een onderneming geacht gelieerd te zijn aan een andere onderneming indien de een onmiddellijk of middellijk ten minste een derde deel van het kapitaal van de andere onderneming bezit of indien een persoon onmiddellijk of middellijk ten minste een derde deel van het kapitaal van beide ondernemingen bezit.
+##### Article 25. Non-discrimination
 
-4. Voor de toepassing van het derde lid van dit artikel wordt de uitdrukking „werkzaamheden buitengaats” evenwel geacht niet te omvatten:
+1. Nationals of a Contracting State shall not be subjected in the other Contracting State to any taxation or any requirement connected therewith, which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances, in particular with respect to residence, are or may be subjected. This provision shall, notwithstanding the provisions of [Article 1](https://wetten.overheid.nl/BWBV0001453), also apply to persons who are not residents of one or both of the Contracting States.
 
-- a. een van de activiteiten of een combinatie daarvan als genoemd in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=II&artikel=5&z=2001-04-06&g=2001-04-06);
+2. The taxation on a permanent establishment which an enterprise of a Contracting State has in the other Contracting State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities. This provision shall not be construed as obliging a Contracting State to grant to residents of the other Contracting State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
 
-- b. sleep- of ankerwerkzaamheden door schepen die in de eerste plaats voor dat doel zijn ontworpen alsmede andere door zulke schepen verrichte activiteiten;
+3. Except where the provisions of [paragraph 1 of Article 9](https://wetten.overheid.nl/BWBV0001453), [paragraph 6 of Article 11](https://wetten.overheid.nl/BWBV0001453), or [paragraph 6 of Article 12](https://wetten.overheid.nl/BWBV0001453), apply, interest, royalties and other disbursements paid by an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable profits of such enterprise, be deductible under the same conditions as if they had been paid to a resident of the first-mentioned State. Similarly, any debts of an enterprise of a Contracting State to a resident of the other Contracting State shall, for the purpose of determining the taxable capital of such enterprise, be deductible under the same conditions as if they had been contracted to a resident of the first-mentioned State.
 
-- c. het vervoer van voorraden of personeel door schepen of luchtvaartuigen in internationaal verkeer.
+4. Enterprises of a Contracting State, the capital of which is wholly or partly owned or controlled, directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of the first-mentioned State are or may be subjected.
 
-5. Een inwoner van een Verdragsluitende Staat die in het kader van een vrij beroep of van andere werkzaamheden van zelfstandige aard in de andere Verdragsluitende Staat werkzaamheden buitengaats verricht, wordt geacht deze werkzaamheden te verrichten vanuit een vast middelpunt in de andere Verdragsluitende Staat indien de desbetreffende werkzaamheden buitengaats een aaneengesloten tijdvak van 30 dagen of meer beslaan.
+5. The provisions of this Article shall, notwithstanding the provisions of [Article 2](https://wetten.overheid.nl/BWBV0001453), apply to taxes of every kind and description.
 
-6. Salarissen, lonen en andere soortgelijke beloningen verkregen door een inwoner van een Verdragsluitende Staat ter zake van een dienstbetrekking in verband met werkzaamheden buitengaats die worden verricht door middel van een vaste inrichting in de andere Verdragsluitende Staat, mogen, voor zover de dienstbetrekking in die andere Staat buitengaats wordt uitgeoefend, in die andere Staat worden belast.
+##### Article 26. Mutual agreement procedure
 
-7. Indien aan de hand van bewijsstukken wordt aangetoond dat in Kroatië belasting is betaald over de bestanddelen van het inkomen die ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=7&z=2001-04-06&g=2001-04-06) en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=14&z=2001-04-06&g=2001-04-06) in verband met het derde onderscheidenlijk het vijfde lid van dit artikel en ingevolge het zesde lid van dit artikel in Kroatië mogen worden belast, verleent Nederland een vermindering van zijn belasting, die wordt berekend overeenkomstig de regels die zijn neergelegd in [artikel 23, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=V&artikel=23&z=2001-04-06&g=2001-04-06).
+1. Where a person considers that the action of one or both of the Contracting States result or will result for him in taxation not in accordance with the provisions of this Agreement, he may, irrespective of the remedies provided by the domestic law of those States, present his case to the competent authority of the Contracting State of which he is a resident or, if his case comes under [paragraph 1 of Article 25](https://wetten.overheid.nl/BWBV0001453), to that of the Contracting State of which he is a national. The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Agreement.
 
-##### Artikel 25. Non-discriminatie
+2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at a satisfactory solution, to resolve the case by mutual agreement with the competent authority of the other Contracting State, with a view to the avoidance of taxation which is not in accordance with the Agreement. Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting State.
 
-1. Onderdanen van een Verdragsluitende Staat worden in de andere Verdragsluitende Staat niet aan enige belastingheffing of daarmede verband houdende verplichting onderworpen, die anders of zwaarder is dan de belastingheffing en daarmede verband houdende verplichtingen waaraan onderdanen van die andere Staat onder dezelfde omstandigheden, in het bijzonder de woonstaat betreffende, zijn of kunnen worden onderworpen. Deze bepaling is, niettegenstaande het bepaalde in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=I&artikel=1&z=2001-04-06&g=2001-04-06), ook van toepassing op personen die geen inwoners zijn van een of van beide Verdragsluitende Staten.
+3. The competent authorities of the Contracting State shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Agreement. They may also consult together for the elimination of double taxation in cases not provided for in the Agreement.
 
-2. De belastingheffing van een vaste inrichting die een onderneming van een Verdragsluitende Staat in de andere Verdragsluitende Staat heeft, is in die andere Staat niet ongunstiger dan de belastingheffing van ondernemingen van die andere Staat die dezelfde werkzaamheden uitoefenen. Deze bepaling mag niet aldus worden uitgelegd, dat zij een Verdragsluitende Staat verplicht aan inwoners van de andere Verdragsluitende Staat bij de belastingheffing de persoonlijke aftrekken, tegemoetkomingen en verminderingen uit hoofde van de samenstelling van het gezin of gezinslasten te verlenen, die eerstbedoelde Staat aan zijn eigen inwoners verleent.
+4. The competent authorities of the Contracting States may communicate with each other directly for the purpose of reaching an agreement in the sense of the preceding paragraphs.
 
-3. Behalve indien de bepalingen van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=9&z=2001-04-06&g=2001-04-06), [artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=11&z=2001-04-06&g=2001-04-06), of [artikel 12, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=12&z=2001-04-06&g=2001-04-06), van toepassing zijn, zijn interest, royalty's en andere uitgaven betaald door een onderneming van een Verdragsluitende Staat aan een inwoner van de andere Verdragsluitende Staat, bij de vaststelling van de belastbare winst van die onderneming onder dezelfde voorwaarden aftrekbaar als wanneer zij betaald waren aan een inwoner van de eerstbedoelde Staat. Zo ook zijn alle schulden van een onderneming van een Verdragsluitende Staat aan een inwoner van de andere Verdragsluitende Staat bij de vaststelling van het belastbare vermogen van die onderneming onder dezelfde voorwaarden aftrekbaar als wanneer zij waren aangegaan met een inwoner van de eerstbedoelde Staat.
+5. If after the procedures of paragraph 1 to 4 any dispute arising as to the interpretation or application of the Agreement in a particular case cannot be resolved by the competent authorities of the Contracting State in a mutual agreement procedure, the case may, if both competent authorities agree, be resolved through an arbitration board created by the competent authorities and supplemented by independent persons and according to internationally accepted arbitration procedures. These procedures shall by mutual agreement be established between the competent authorities of both Contracting States. The decision of the arbitration board shall be binding on both Contracting States and the taxpayer or taxpayers involved with respect to that case.
 
-4. Ondernemingen van een Verdragsluitende Staat, waarvan het kapitaal geheel of gedeeltelijk, onmiddellijk of middellijk, in het bezit is van of wordt beheerst door een of meer inwoners van de andere Verdragsluitende Staat, worden in de eerstbedoelde Staat niet aan enige belastingheffing of daarmede verband houdende verplichting onderworpen, die anders of zwaarder is dan de belastingheffing en daarmede verband houdende verplichtingen, waaraan andere soortgelijke ondernemingen van de eerstbedoelde Staat zijn of kunnen worden onderworpen.
+This paragraph will only apply after the competent authorities of both Contracting States have established the above-mentioned procedures.
 
-5. De bepalingen van dit artikel zijn, niettegenstaande de bepalingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=I&artikel=2&z=2001-04-06&g=2001-04-06), van toepassing op belastingen van elke soort en benaming.
+##### Article 27. Exchange of information
 
-##### Artikel 26. Regeling voor onderling overleg
+1. The competent authorities of the Contracting States shall exchange such information as is necessary for carrying out the provisions of this Agreement or of the domestic laws of the Contracting States concerning taxes covered by the Agreement insofar as the taxation thereunder is not contrary to the Agreement. The exchange of information is not restricted by [Article 1](https://wetten.overheid.nl/BWBV0001453). Any information received by a Contracting State shall be treated as secret in the same manner as information obtained under the domestic laws of that State and shall be disclosed only to persons or authorities (including courts and administrative bodies) concerned with the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by the Agreement. Such persons or authorities shall use the information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions.
 
-1. Indien een persoon van oordeel is dat de maatregelen van een of van beide Verdragsluitende Staten voor hem leiden of zullen leiden tot een belastingheffing die niet in overeenstemming is met de bepalingen van dit Verdrag, kan hij, ongeacht de rechtsmiddelen waarin de nationale wetgeving van die Staten voorziet, zijn geval voorleggen aan de bevoegde autoriteit van de Verdragsluitende Staat waarvan hij inwoner is, of, indien zijn geval valt onder [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=VI&artikel=25&z=2001-04-06&g=2001-04-06), aan die van de Verdragsluitende Staat waarvan hij onderdaan is. Het geval moet worden voorgelegd binnen drie jaar nadat de maatregel die leidt tot een belastingheffing die niet in overeenstemming is met de bepalingen van het Verdrag, voor het eerst te zijner kennis is gebracht.
+2. The Contracting States may release to the arbitration board, established under the provisions of [paragraph 5 of Article 26](https://wetten.overheid.nl/BWBV0001453), such information as is necessary for carrying out the arbitration procedure. Such release of information shall be subject to the provisions of [Article 29](https://wetten.overheid.nl/BWBV0001453). The members of the arbitration board shall be subject to the limitations on disclosure described in paragraph 1 of this Article with respect to any information so released.
 
-2. De bevoegde autoriteit tracht, indien het bezwaar haar gegrond voorkomt en indien zij niet zelf in staat is tot een bevredigende oplossing te komen, de aangelegenheid in onderlinge overeenstemming met de bevoegde autoriteit van de andere Verdragsluitende Staat te regelen teneinde een belastingheffing die niet in overeenstemming is met het Verdrag, te vermijden. De overeengekomen regeling wordt uitgevoerd niettegenstaande de verjaringstermijnen in de nationale wetgeving van de Verdragsluitende Staten.
+##### Article 28. Assistance in recovery
 
-3. De bevoegde autoriteiten van de Verdragsluitende Staten trachten moeilijkheden of twijfelpunten die mochten rijzen met betrekking tot de uitlegging of de toepassing van het Verdrag in onderlinge overeenstemming op te lossen. Zij kunnen ook met elkaar overleg plegen teneinde dubbele belasting ongedaan te maken in gevallen die niet in het Verdrag zijn geregeld.
+1. The States agree to lend each other assistance and support with a view to the collection, in accordance with their respective laws or administrative practice, of the taxes to which this Agreement shall apply and of any increases, surcharges, overdue payments, interests and costs pertaining to the said taxes.
 
-4. De bevoegde autoriteiten van de Verdragsluitende Staten kunnen zich rechtstreeks met elkaar in verbinding stellen teneinde een overeenstemming als bedoeld in de voorgaande leden te bereiken.
+2. At the request of the applicant State the requested State shall recover tax claims of the first-mentioned State in accordance with the law and administrative practice for the recovery of its own tax claims. However, such claims do not enjoy any priority in the requested State and cannot be recovered by imprisonment for debt of the debtor. The requested State is not obliged to take any executory measures which are not provided for in the laws of the applicant State.
 
-5. Wanneer na de regelingen van het eerste tot en met het vierde lid een geschil dat is gerezen met betrekking tot de uitlegging of toepassing van het Verdrag in een bepaald geval niet opgelost kan worden door de bevoegde autoriteiten van de Verdragsluitende Staten in een procedure voor onderling overleg, kan het geval, indien beide bevoegde autoriteiten daarmee instemmen, worden opgelost door middel van een arbitragecommissie, die in het leven wordt geroepen door de bevoegde autoriteiten en die wordt aangevuld met onafhankelijke personen, volgens internationaal geaccepteerde arbitrageprocedures. Deze procedures zullen in onderling overleg tussen de bevoegde autoriteiten van beide Verdragsluitende Staten worden vastgesteld. De beslissing van de arbitragecommissie is voor dat geval bindend voor beide Verdragsluitende Staten en de betrokken belastingplichtige of belastingplichtigen.
+3. The provisions of paragraph 2 shall apply only to tax claims which form the subject of an instrument permitting their enforcement in the applicant State and, unless otherwise agreed between the competent authorities, which are not contested.
 
-Dit lid is slechts van toepassing nadat de bevoegde autoriteiten van beide Verdragsluitende Staten de bovengenoemde procedures hebben vastgesteld.
+However, where the claim relates to a liability to tax of a person as a non resident of the applicant State, paragraph 2 shall only apply, unless otherwise agreed between the competent authorities, where the claim may no longer be contested.
 
-##### Artikel 27. Uitwisseling van inlichtingen
+4. The obligation to provide assistance in the recovery of tax claims concerning a deceased person or his estate is limited to the value of the estate or the property acquired by each beneficiary of the estate, according to whether the claim is to be recovered from the estate or from the beneficiaries thereof.
 
-1. De bevoegde autoriteiten van de Verdragsluitende Staten wisselen de inlichtingen uit die nodig zijn voor het uitvoeren van de bepalingen van dit Verdrag of van de nationale wetgeving van de Verdragsluitende Staten met betrekking tot de belastingen waarop het Verdrag van toepassing is, voor zover de heffing van die belastingen niet in strijd is met het Verdrag. De uitwisseling van inlichtingen wordt niet beperkt door [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=I&artikel=1&z=2001-04-06&g=2001-04-06). Alle door een Verdragsluitende Staat ontvangen inlichtingen worden op dezelfde wijze geheim gehouden als inlichtingen die volgens de nationale wetgeving van die Staat zijn verkregen en worden alleen ter kennis gebracht van personen of autoriteiten (daaronder begrepen rechterlijke instanties en administratiefrechtelijke lichamen) die betrokken zijn bij de vaststelling of invordering van, de tenuitvoerlegging of vervolging ter zake van, of de beslissing in beroepszaken betrekking hebbende op de belastingen waarop het Verdrag van toepassing is. Deze personen of autoriteiten mogen van de inlichtingen alleen voor deze doeleinden gebruik maken. Zij mogen de inlichtingen bekendmaken in openbare rechtszittingen of in rechterlijke beslissingen.
+5. The requested State shall not be obliged to accede to the request:
 
-2. De Verdragsluitende Staten kunnen aan de arbitragecommissie, ingesteld volgens de bepalingen van [artikel 26, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=VI&artikel=26&z=2001-04-06&g=2001-04-06), de inlichtingen verstrekken die nodig zijn om de arbitrageprocedure te volbrengen. Deze inlichtingen worden verstrekt met inachtneming van de bepalingen van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=VI&artikel=29&z=2001-04-06&g=2001-04-06). De leden van de arbitragecommissie zijn met betrekking tot de aldus verstrekte inlichtingen onderworpen aan de beperkingen van openbaarmaking als omschreven in het eerste lid van dit artikel.
+- a) if the applicant State has not pursued all means available in its own territory, except where recourse to such means would give rise to disproportionate difficulty;
 
-##### Artikel 28. Bijstand bij invordering
+- b) if and insofar as it considers the tax claim to be contrary to the provisions of this Agreement or of any other agreement to which both of the States are parties.
 
-1. De Staten komen overeen elkaar hulp en bijstand te verlenen, in overeenstemming met hun onderscheiden wetgeving of administratieve praktijk, bij de invordering van de belastingen waarop dit Verdrag van toepassing is en de op genoemde belastingen betrekking hebbende verhogingen, boetes, betalingen wegens termijnoverschrijdingen, interest en kosten.
+6. The request for administrative assistance in the recovery of a tax claim shall be accompanied by:
 
-2. Op verzoek van de verzoekende Staat vordert de aangezochte Staat belastingvorderingen van de eerstgenoemde Staat in overeenkomstig de wetgeving en de administratieve praktijk met betrekking tot de invordering van zijn eigen belastingvorderingen. Deze vorderingen genieten echter geen voorrang in de aangezochte Staat en kunnen niet worden ingevorderd door middel van in hechtenis nemen wegens schuld van de schuldenaar. De aangezochte Staat is niet verplicht invorderingsmaatregelen te nemen waarin de wetgeving van de verzoekende Staat niet voorziet.
+- a) a declaration that the tax claim concerns a tax covered by the Agreement and that the conditions of paragraph 3 are met;
 
-3. De bepalingen van het tweede lid zijn slechts van toepassing op belastingvorderingen die onderwerp zijn van een executoriale titel in de verzoekende Staat en die, tenzij anders overeengekomen tussen de bevoegde autoriteiten, niet worden bestreden.
+- b) an official copy of the instrument permitting enforcement in the applicant State;
 
-Indien de vordering echter een belastingverplichting betreft van een persoon die geen inwoner van de verzoekende Staat is, is het tweede lid slechts van toepassing indien de vordering niet langer kan worden bestreden, tenzij anders overeengekomen tussen de bevoegde autoriteiten.
+- c) any other document required for recovery;
 
-4. De verplichting om bijstand te verlenen bij het invorderen van belastingvorderingen betreffende een overledene of zijn nalatenschap is beperkt tot de waarde van de nalatenschap of van de goederen verkregen door iedere begunstigde van de nalatenschap, afhankelijk van de vraag of de belastingvordering dient te worden ingevorderd uit de nalatenschap of bij de begunstigden daarvan.
+- d) where appropriate, a certified copy confirming any related decision emanating from an administrative body or a public court.
 
-5. De aangezochte Staat is niet verplicht het verzoek in te willigen:
+7. The applicant State shall indicate the amounts of the tax claim to be recovered in both the currency of the applicant State and the currency of the requested State. The rate of exchange to be used for the purpose of the preceding sentence is the last selling price settled on the most representative exchange market or markets of the applicant State. Each amount recovered by the requested State shall be transferred to the applicant State in the currency of the requested State. The transfer shall be carried out within a period of a month from the date of the recovery.
 
-- a. indien de verzoekende Staat niet alle op zijn eigen grondgebied beschikbare middelen heeft aangewend, tenzij aanwending van die middelen zou leiden tot onevenredige moeilijkheden;
+8. At the request of the applicant State, the requested State shall, with a view to the recovery of an amount of tax, take measures of conservancy even if the claim is contested or is not yet the subject of an instrument permitting enforcement, in so far as such is permitted by the laws and administrative practice of the requested State.
 
-- b. indien en voor zover hij de belastingvordering in strijd acht met de bepalingen van dit Verdrag of met enig ander verdrag waarbij beide Staten partij zijn.
+9. The instrument permitting enforcement in the applicant State shall, where appropriate and in accordance with the provisions in force in the requested State, be accepted, recognised, supplemented or replaced as soon as possible after the date of the receipt of the request for assistance by an instrument permitting enforcement in the requested State.
 
-6. Het verzoek om administratieve bijstand bij invordering van een belastingvordering gaat vergezeld van:
+10. Questions concerning any period beyond which a tax claim cannot be enforced shall be governed by the law of the applicant State. The request for assistance in the recovery shall give particulars concerning that period.
 
-- a. een verklaring dat de belastingvordering een belasting betreft waarop het Verdrag van toepassing is en dat aan de voorwaarden van het derde lid van dit artikel is voldaan;
+11. Acts of recovery carried out by the requested State in pursuance of a request for assistance, which, according to the laws of that State, would have the effect of suspending or interrupting the period mentioned in paragraph 10, shall also have this effect under the laws of the applicant State. The requested State shall inform the applicant State about such acts.
 
-- b. een officieel afschrift van de executoriale titel in de verzoekende Verdragsluitende Staat;
+12. The requested State may allow deferral of payment or payment by installments, if its laws or administrative practice permit it to do so in similar circumstances; but it shall first inform the applicant State.
 
-- c. ieder ander document dat vereist is voor invordering;
+13. The competent authorities of the Contracting States shall by common agreement prescribe rules concerning minimum amounts of tax claims subject to a request for assistance.
 
-- d. indien van toepassing, een gewaarmerkt afschrift van een op de belastingvordering betrekking hebbende beslissing genomen door een administratief lichaam of een openbare rechterlijke instantie.
+14. The States shall reciprocally waive any restitution of costs resulting from the respective assistance and support which they lend each other in applying this Agreement. The applicant State shall in any event remain responsible towards the requested State for the pecuniary consequences of acts of recovery which have been found unjustified in respect of the reality of the tax claim concerned or of the validity of the instrument permitting enforcement in the applicant State.
 
-7. De verzoekende Staat vermeldt de bedragen van de verschuldigde belasting die moet worden ingevorderd, zowel in de munteenheid van de verzoekende Staat als in de munteenheid van de aangezochte Staat. De wisselkoers die met het oog op de voorafgaande volzin moet worden gebruikt, is de laatste verkoopprijs vastgesteld op de meest representatieve wisselmarkt of -markten van de verzoekende Staat. Ieder bedrag dat door de aangezochte Staat wordt ingevorderd, wordt naar de verzoekende Staat overgemaakt in de munteenheid van de aangezochte Staat. De overmaking geschiedt binnen een termijn van een maand na de datum van de invordering.
+##### Article 29. Limitation of articles 27 and 28
 
-8. Op verzoek van de verzoekende Staat neemt de aangezochte Staat met het oog op de invordering van een belastingbedrag conservatoire maatregelen, zelfs indien de vordering wordt bestreden of nog niet invorderbaar is, voor zover dit is toegestaan volgens de wetgeving en de administratieve praktijk van de aangezochte Staat.
+In no case shall the provisions of [Articles 27](https://wetten.overheid.nl/BWBV0001453) and [28](https://wetten.overheid.nl/BWBV0001453) be construed so as to impose on a Contracting State the obligation:
 
-9. De executoriale titel in de verzoekende Staat wordt, indien passend en in overeenstemming met de in de aangezochte Staat van kracht zijnde bepalingen, zo spoedig mogelijk na de datum van ontvangst van het verzoek om bijstand aanvaard, erkend of aangevuld, dan wel vervangen door een executoriale titel in de aangezochte Staat.
+- a) to carry out administrative measures at variance with the laws and administrative practice of that or of the other Contracting State;
 
-10. Vragen betreffende het tijdvak waarbuiten niet langer kan worden ingevorderd worden beheerst door de wetgeving van de verzoekende Staat. Het verzoek om bijstand bij invordering geeft bijzonderheden aangaande dat tijdvak.
+- b) to supply information which is not obtainable under the laws or in the normal course of the administration of that or of the other Contracting State;
 
-11. Invorderingsdaden, verricht door de aangezochte Staat ingevolge een verzoek om bijstand die overeenkomstig de wetgeving van die Staat een schorsing of onderbreking van het in het tiende lid bedoelde tijdvak tot gevolg zouden hebben, worden geacht hetzelfde gevolg te hebben voor de toepassing van de wetgeving van de verzoekende Staat. De aangezochte Staat doet de verzoekende Staat mededeling van zodanige daden.
+- c) to supply information which would disclose any trade, business, industrial, commercial, or professional secret or trade process, or information, the disclosure of which would be contrary to public policy (ordre public).
 
-12. De aangezochte Staat kan uitstel van betaling of betaling in termijnen toestaan indien zijn wetgeving of zijn administratieve praktijk dit toestaat in soortgelijke omstandigheden; hij doet echter eerst de verzoekende Staat hiervan mededeling.
+##### Article 30. Members of diplomatic missions and consular posts
 
-13. De bevoegde autoriteiten van de Verdragsluitende Staten stellen in onderlinge overeenstemming regels vast betreffende het minimumbedrag van belastingvorderingen waarop een verzoek om bijstand betrekking kan hebben.
+1. Nothing in this Agreement shall affect the fiscal privileges of members of diplomatic missions or consular posts under the general rules of international law or under the provisions of special agreements.
 
-14. De Staten zien wederzijds af van de terugbetaling van kosten die voortvloeien uit de onderscheiden hulp en bijstand die zij elkaar verlenen bij de toepassing van dit Verdrag. De verzoekende Staat zal in ieder geval verantwoordelijk blijven jegens de aangezochte Staat voor de geldelijke gevolgen van de invorderingsdaden die onterecht zijn gebleken ten aanzien van de realiteit van de betrokken belastingvordering of van de rechtsgeldigheid van de executoriale titel in de verzoekende Staat.
+2. For the purposes of the Agreement an individual, who is a member of a diplomatic mission or consular post of a Contracting State in the other Contracting State or in a third State and who is a national of the sending State, shall be deemed to be a resident of the sending State if he is submitted therein to the same obligations in respect of taxes on income and on capital as are residents of that State.
 
-##### Artikel 29. Beperking van de [Artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=VI&artikel=27&z=2001-04-06&g=2001-04-06) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=VI&artikel=28&z=2001-04-06&g=2001-04-06)
+3. The Agreement shall not apply to international organisations, organs and officials thereof and members of a diplomatic mission or consular post of a third State, being present in a Contracting State, if they are not subjected therein to the same obligations in respect of taxes on income or on capital as are residents of that State.
 
-In geen geval worden de bepalingen van de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=VI&artikel=27&z=2001-04-06&g=2001-04-06) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=VI&artikel=28&z=2001-04-06&g=2001-04-06) aldus uitgelegd dat zij een Verdragsluitende Staat de verplichting opleggen:
+##### Article 31. Territorial extension
 
-- a. administratieve maatregelen te nemen die in strijd zijn met de wetgeving of de administratieve praktijk van die of van de andere Verdragsluitende Staat;
+1. This Agreement may be extended, either in its entirety or with any necessary modifications, to either or both of the countries of the Netherlands Antilles and Aruba, if the country concerned imposes taxes substantially similar in character to those to which the Agreement applies. Any such extension shall take effect from such date and be subject to such modifications and conditions, including conditions as to termination, as may be specified and agreed in notes to be exchanged through diplomatic channels.
 
-- b. inlichtingen te verstrekken die niet verkrijgbaar zijn volgens de wetgeving of in de normale gang van zaken in de administratie van die of van de andere Verdragsluitende Staat;
+2. Unless otherwise agreed the termination of the Agreement shall not also terminate any extension of the Agreement to any country to which it has been extended under this Article.
 
-- c. inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde (ordre public).
+### CHAPTER VII. FINAL PROVISIONS
 
-##### Artikel 30. Leden van diplomatieke vertegenwoordigingen en consulaire posten
+##### Article 32. Entry into force
 
-1. De bepalingen van dit Verdrag tasten in geen enkel opzicht de fiscale voorrechten aan die leden van diplomatieke vertegenwoordigingen of consulaire posten ontlenen aan de algemene regels van het volkenrecht of aan de bepalingen van bijzondere verdragen.
+1. This Agreement shall enter into force on the thirtieth day after the date of receipt of the latest notification through diplomatic channels in writing indicating the completion of internal legal procedures necessary in each country for the entry into force of the Agreement. This Agreement shall have effect with respect to income derived or accrued and capital owned during the taxable years and periods beginning on or after the first day of January in the calendar year next following that in which the Agreement enters into force.
 
-2. Voor de toepassing van het Verdrag wordt een natuurlijke persoon, die deel uitmaakt van een diplomatieke vertegenwoordiging of consulaire post van een Verdragsluitende Staat in de andere Verdragsluitende Staat of in een derde Staat en die onderdaan is van de zendstaat, geacht inwoner van de zendstaat te zijn, indien hij daarin aan dezelfde verplichtingen ter zake van belastingen naar het inkomen en naar het vermogen is onderworpen als inwoners van die Staat.
+2. As regards relations between the Netherlands and Croatia, the [Convention between the Kingdom of the Netherlands and the Socialist Federal Republic of Yugoslavia for the avoidance of double taxation with respect to taxes on income and on capital](https://wetten.overheid.nl/BWBV0006315), signed at Belgrado on February 22, 1982, shall terminate upon the entry into force of this Agreement. However, the provisions of that Convention shall continue to have effect for taxable years and periods which are expired before the time of which the provisions of this Agreement shall be effective.
 
-3. Het Verdrag is niet van toepassing op internationale organisaties, hun organen en functionarissen, noch op leden van een diplomatieke vertegenwoordiging of consulaire post van een derde Staat die in een Verdragsluitende Staat verblijven, indien zij in die Staat niet aan dezelfde verplichtingen ter zake van belastingen naar het inkomen en naar het vermogen zijn onderworpen als inwoners van die Staat.
+##### Article 33. Denunciation
 
-##### Artikel 31. Uitbreiding tot andere gebieden
-
-1. Dit Verdrag kan hetzij in zijn geheel, hetzij met de noodzakelijke wijzigingen, worden uitgebreid tot elk van de landen of beide landen van de Nederlandse Antillen of Aruba, indien het desbetreffende land belastingen heft die in wezen gelijksoortig zijn aan de belastingen waarop het Verdrag van toepassing is. Zulk een uitbreiding wordt van kracht met ingang van een datum en met inachtneming van wijzigingen en voorwaarden, daaronder begrepen voorwaarden ten aanzien van de beëindiging, nader vast te stellen en overeen te komen bij diplomatieke notawisseling.
-
-2. Tenzij anders overeengekomen, brengt de beëindiging van het Verdrag niet met zich mede, dat tevens de uitbreiding van het Verdrag tot enig land waartoe zij ingevolge dit artikel is uitgebreid, wordt beëindigd.
-
-### HOOFDSTUK VII. SLOTBEPALINGEN
-
-##### Artikel 32. Inwerkingtreding
-
-1. Dit Verdrag treedt in werking dertig dagen na de datum van ontvangst van de laatste schriftelijke mededeling, langs diplomatieke weg, aangevend dat de nationale wettelijke procedures voor de inwerkingtreding van het Verdrag in elke Staat zijn vervuld. Dit Verdrag is van toepassing met betrekking tot ontvangen of behaalde inkomsten en bezeten vermogen tijdens de belastingjaren en -tijdvakken die aanvangen op of na 1 januari van het kalenderjaar dat volgt op dat waarin het Verdrag in werking treedt.
-
-2. Wat betreft de betrekkingen tussen Kroatië en Nederland zal de op 22 februari 1982 te Belgrado ondertekende [Overeenkomst tussen het Koninkrijk der Nederlanden en de Socialistische Federatieve Republiek Joegoslavië tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en naar het vermogen](onbekend) worden beëindigd met de inwerkingtreding van dit Verdrag. De bepalingen van de Overeenkomst blijven echter van toepassing voor belastingjaren en -tijdvakken die zijn verstreken voor het tijdstip waarop de bepalingen van dit Verdrag toepassing vinden.
-
-##### Artikel 33. Opzegging
-
-Dit Verdrag blijft voor onbepaalde tijd van kracht, maar elk van de Verdragsluitende Staten mag, op of voor de dertigste dag van juni in enig kalenderjaar dat aanvangt na het verstrijken van een periode van vijf jaar na de datum van haar inwerkingtreding, langs diplomatieke weg schriftelijke kennisgeving van opzegging aan de andere Verdragsluitende Staat geven. In dat geval houdt het Verdrag op van toepassing te zijn met betrekking tot inkomsten ontvangen of behaald en bezeten vermogen tijdens de belastingjaren en -tijdvakken die aanvangen op of na 1 januari in het kalenderjaar dat volgt op dat waarin de kennisgeving van opzegging wordt gegeven.
-
-Bij de ondertekening van het Verdrag tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen, heden tussen het Koninkrijk der Nederlanden en de Republiek Kroatië gesloten, zijn de ondergetekenden overeengekomen dat de volgende bepalingen een integrerend deel van het Verdrag vormen.
-
-##### I. Ad [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=II&artikel=4&z=2001-04-06&g=2001-04-06)
-
-Een natuurlijke persoon die aan boord van een schip woont zonder een werkelijke woonplaats in een van de Verdragsluitende Staten te hebben, wordt geacht inwoner te zijn van de Verdragsluitende Staat waarin het schip zijn thuishaven heeft.
-
-##### II. Ad [Artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=II&artikel=5&z=2001-04-06&g=2001-04-06), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=6&z=2001-04-06&g=2001-04-06), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=7&z=2001-04-06&g=2001-04-06), [13](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=13&z=2001-04-06&g=2001-04-06) en [24](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=VI&artikel=24&z=2001-04-06&g=2001-04-06)
-
-Het is wel te verstaan dat rechten tot exploratie en exploitatie van natuurlijke rijkdommen worden beschouwd als onroerende zaken die zijn gelegen in de Verdragsluitende Staat op wiens zeebodem en ondergrond daarvan deze rechten betrekking hebben, alsmede dat deze rechten geacht worden te behoren tot de activa van een vaste inrichting in die Staat. Voorts is het wel te verstaan dat de hiervoor genoemde rechten ook omvatten rechten op belangen bij, of voordelen uit vermogensbestanddelen die voortvloeien uit die exploratie of exploitatie.
-
-##### III. Ad [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=7&z=2001-04-06&g=2001-04-06)
-
-Met betrekking tot [artikel 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=7&z=2001-04-06&g=2001-04-06), geldt dat, indien een onderneming van een Verdragsluitende Staat in de andere Verdragsluitende Staat goederen of koopwaar verkoopt of een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting, de voordelen van die vaste inrichting niet worden bepaald op basis van het totale bedrag ontvangen door de onderneming, doch slechts op basis van dat deel van de inkomsten van de onderneming dat aan de werkelijke werkzaamheden van de vaste inrichting voor die verkopen of die bedrijfsuitoefening is toe te rekenen. Met name bij overeenkomsten betreffende het toezicht op, de levering, installatie of constructie van nijverheids- en handelsuitrusting of wetenschappelijke uitrusting of gebouwen alsmede bij openbare werken, worden, indien de onderneming een vaste inrichting heeft, de voordelen van die vaste inrichting niet bepaald op basis van het totale bedrag van de overeenkomst, doch slechts op basis van dat deel van de overeenkomst dat werkelijk wordt uitgevoerd door de vaste inrichting in de Verdragsluitende Staat waar de vaste inrichting is gevestigd. De voordelen die betrekking hebben op dat deel van de overeenkomst, dat wordt uitgevoerd door het hoofdkantoor van de onderneming, zijn slechts belastbaar in de Verdragsluitende Staat waarvan de onderneming inwoner is.
-
-##### IV. Ad [Artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=10&z=2001-04-06&g=2001-04-06), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=11&z=2001-04-06&g=2001-04-06) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=12&z=2001-04-06&g=2001-04-06)
-
-Indien aan de bron belasting is geheven die het belastingbedrag dat ingevolge de bepalingen van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=10&z=2001-04-06&g=2001-04-06), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=11&z=2001-04-06&g=2001-04-06) of [12](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=12&z=2001-04-06&g=2001-04-06) mag worden geheven te boven gaat, moeten verzoeken om teruggaaf van het daarboven uitgaande belastingbedrag worden ingediend bij de bevoegde autoriteit van de Staat die de belasting heeft geheven, binnen een tijdvak van drie jaar na afloop van het kalenderjaar waarin de belasting is geheven.
-
-##### V. Ad [Artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=10&z=2001-04-06&g=2001-04-06) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=13&z=2001-04-06&g=2001-04-06)
-
-Het is wel te verstaan dat inkomsten die worden ontvangen in verband met de (gedeeltelijke) liquidatie van een lichaam of een inkoop van eigen aandelen door een lichaam worden behandeld als inkomsten uit aandelen en niet als vermogenswinsten.
-
-##### VI. Ad [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=16&z=2001-04-06&g=2001-04-06)
-
-Het is wel te verstaan dat de uitdrukking „lid van de raad van beheer of van een soortgelijk orgaan van een lichaam” betekent:
-
-- 1. in de situatie van Kroatië een „raad van beheer” (clan Upravnog odbora) of een „raad van commissarissen” (clan Nadzornog odbora);
-
-- 2. in de situatie van Nederland een „bestuurder” of een „commissaris”.
-
-Het is wel te verstaan dat „bestuurder” of „commissaris” van een Nederlands lichaam betrekking heeft op personen die als zodanig zijn benoemd door de algemene vergadering van aandeelhouders of door enig ander bevoegd orgaan van dat lichaam, en die zijn belast met de algemene leiding van het lichaam, onderscheidenlijk met het toezicht daarop.
-
-##### VII. Ad [Artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=18&z=2001-04-06&g=2001-04-06) en [23](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=V&artikel=23&z=2001-04-06&g=2001-04-06)
-
-1. Niettegenstaande de bepalingen van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=III&artikel=18&z=2001-04-06&g=2001-04-06), van het Verdrag, mogen pensioenen en andere soortgelijke beloningen alsmede lijfrenten zoals bedoeld in dat lid, afkomstig uit een Verdragsluitende Staat en betaald aan een inwoner van de andere Verdragsluitende Staat, ook worden belast in de eerstgenoemde Staat overeenkomstig de wetgeving van die Staat maar alleen ingeval het totale bruto bedrag van zo'n pensioen, andere soortgelijke beloning en lijfrente in enig kalenderjaar 12.000 Nederlandse guldens of het equivalent in Kroatische valuta overschrijdt.
-
-2. De bepalingen van het eerste lid zijn ook van toepassing, indien deze beloningen geen periodiek karakter dragen of indien in plaats van het recht op lijfrenten een afkoopsom wordt betaald.
-
-3. In geval pensioenen en andere soortgelijke beloningen alsmede lijfrenten in overeenstemming met de bepalingen van het eerste en tweede lid, naar gelang van het geval, mogen worden belast in de Verdragsluitende Staat waaruit zij afkomstig zijn, past de andere Verdragsluitende Staat, met het doel dubbele belasting te vermijden, naar gelang van het geval, de bepalingen van [artikel 23, eerste en tweede lid respectievelijk derde lid, onderdelen a) en c)](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=V&artikel=23&z=2001-04-06&g=2001-04-06) van het Verdrag toe.
-
-##### VIII. Ad [Artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=V&artikel=23&z=2001-04-06&g=2001-04-06)
-
-Het is wel te verstaan dat voor de berekening van de aftrek vermeld in [artikel 23, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=V&artikel=23&z=2001-04-06&g=2001-04-06), de waarde van de in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=IV&artikel=22&z=2001-04-06&g=2001-04-06), bedoelde vermogensbestanddelen wordt verminderd met de waarde van de schulden verzekerd door hypotheek op dat vermogen en dat de waarde van de in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001453&hoofdstuk=IV&artikel=22&z=2001-04-06&g=2001-04-06), bedoelde vermogensbestanddelen wordt verminderd met de waarde van de tot de vaste inrichting of het vaste middelpunt behorende schulden.
+This Agreement shall remain in force indefinitely but either of the Contracting States may, on or before the thirtieth day of June in any calendar year beginning after the expiration of a period of five years from the date of its entry into force, give written notice of denunciation to the other Contracting State through diplomatic channels. In such event this Agreement shall cease to have effect with respect to income derived or accrued and capital owned during the taxable years and periods beginning on or after the first day of January in the calendar year next following that in which the notice of denunciation is given.
 
 IN WITNESS WHEREOF the undersigned, duly authorised thereto, have signed this Agreement.
 
 DONE at Zagreb this 23rd day of May, 2000, in duplicate, in the Netherlands, Croatian and English languages, the three texts being equally authentic. In case there is any divergence of interpretation between the Netherlands and the Croatian texts, the English text shall prevail.
 
-**For the Kingdom of the Netherlands**
+*For the Kingdom of the Netherlands*
 
 (sd.) G. ZALM
 
-**For the Republic of Croatia**
+*For the Republic of Croatia*
 
 (sd.) M. CRKVENAC

@@ -1,62 +1,19 @@
 ---
 title: "Verdrag inzake wederzijdse administratieve bijstand ten behoeve van de juiste toepassing van de douanewetgeving en de voorkoming, opsporing en bestrijding van inbreuken op de douanewetgeving tussen de Regering van het Koninkrijk der Nederlanden en de Macedonische Regering"
 identifier: "BWBV0001454"
-country: "nl"
-rank: "verdrag"
-publication_date: "2002-05-01"
-last_updated: "2002-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001454"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10000378113"
-version_id: "10000386492"
-internal_id: "C10006991671"
-label_id: "10000378594"
-original_entry_into_force: "2002-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001454/2002-05-01/0"
-intitule_bron: "Trb.2000-56"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-10-30"
-intitule_published: "2000-06-05"
-intitule_in_force: "2004-02-06"
-intitule_status: "goed"
-original_publication: "Trb.2000-56"
-original_signed_date: "2000-10-30"
-original_published_date: "2000-06-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2000-56"
-entry_into_force_date: "2002-05-01"
-jci_1_3: "jci1.3:c:BWBV0001454&z=2002-05-01&g=2002-05-01"
-jci_1_0: "1.0:c:BWBV0001454&g=2002-05-01"
-citeertitel_status: "officieel"
-signed_date: "2000-10-30"
-entry_into_force: "2002-05-01"
+publicatiedatum: 2002-05-01
+laatste_update: 2002-05-01
+status: geldig
+toestand: 2002-05-01
+bron: "https://wetten.overheid.nl/BWBV0001454"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag inzake wederzijdse administratieve bijstand ten behoeve van de juiste toepassing van de douanewetgeving en de voorkoming, opsporing en bestrijding van inbreuken op de douanewetgeving tussen de Regering van het Koninkrijk der Nederlanden en de Macedonische Regering
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Macedonische Regering,
-
-hun Staten hierna te noemen de Verdragsluitende Partijen,
-
-Gelet op het belang van een juiste vaststelling van de douanerechten en andere belastingen die bij invoer of uitvoer worden geïnd en van het waarborgen van een juiste handhaving van verboden, beperkingen en controlemaatregelen;
-
-Overwegende dat inbreuken op de douanewetgeving de economische, fiscale, sociale en culturele belangen en de volksgezondheids- en handelsbelangen van de Verdragsluitende Partijen schaden;
-
-Overwegende dat de grensoverschrijdende handel in verdovende middelen en psychotrope stoffen, gevaarlijke stoffen, bedreigde diersoorten en giftig afval een gevaar voor de samenleving vormt;
-
-Erkennende de noodzaak van internationale samenwerking ter zake van aangelegenheden die verband houden met de toepassing en handhaving van de douanewetgeving van de Verdragsluitende Partijen;
-
-Ervan overtuigd dat het optreden tegen inbreuken op de douanewetgeving doeltreffender kan worden door middel van nauwe samenwerking tussen hun douaneadministraties op basis van duidelijke wettelijke bepalingen;
-
-Gelet op de van belang zijnde instrumenten van de Internationale Douaneraad, in het bijzonder de Aanbeveling inzake wederzijdse administratieve bijstand van 5 december 1953;
-
-Tevens gelet op verdragen die verboden, beperkingen en bijzondere controlemaatregelen met betrekking tot bepaalde goederen bevatten, in het bijzonder het [Verdrag van de Verenigde Naties tegen de sluikhandel in verdovende middelen en psychotrope stoffen](https://wetten.overheid.nl/jci1.3:c:BWBV0001103) van 20 december 1988;
-
-zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Macedonische Regering, hun Staten hierna te noemen de Verdragsluitende Partijen, Gelet op het belang van een juiste vaststelling van de douanerechten en andere belastingen die bij invoer of uitvoer worden geïnd en van het waarborgen van een juiste handhaving van verboden, beperkingen en controlemaatregelen; Overwegende dat inbreuken op de douanewetgeving de economische, fiscale, sociale en culturele belangen en de volksgezondheids- en handelsbelangen van de Verdragsluitende Partijen schaden; Overwegende dat de grensoverschrijdende handel in verdovende middelen en psychotrope stoffen, gevaarlijke stoffen, bedreigde diersoorten en giftig afval een gevaar voor de samenleving vormt; Erkennende de noodzaak van internationale samenwerking ter zake van aangelegenheden die verband houden met de toepassing en handhaving van de douanewetgeving van de Verdragsluitende Partijen; Ervan overtuigd dat het optreden tegen inbreuken op de douanewetgeving doeltreffender kan worden door middel van nauwe samenwerking tussen hun douaneadministraties op basis van duidelijke wettelijke bepalingen; Gelet op de van belang zijnde instrumenten van de Internationale Douaneraad, in het bijzonder de Aanbeveling inzake wederzijdse administratieve bijstand van 5 december 1953; Tevens gelet op verdragen die verboden, beperkingen en bijzondere controlemaatregelen met betrekking tot bepaalde goederen bevatten, in het bijzonder het Verdrag van de Verenigde Naties tegen de sluikhandel in verdovende middelen en psychotrope stoffen van 20 december 1988; zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. Begripsomschrijvingen
 
@@ -314,68 +271,14 @@ Dit Verdrag treedt in werking op de eerste dag van de tweede maand nadat de Verd
 
 De Verdragsluitende Partijen komen bijeen om dit Verdrag te heroverwegen, op verzoek of na het verstrijken van vijf jaar vanaf de inwerkingtreding ervan, tenzij zij elkaar schriftelijk ervan in kennis stellen dat een dergelijke heroverweging niet nodig is.
 
-##### 1
-
-Persoonsgegevens die automatisch worden verwerkt dienen:
-
-- a. op eerlijke en rechtmatige wijze te worden verkregen en verwerkt;
-
-- b. te worden opgeslagen voor bepaalde en wettige doeleinden en niet te worden gebruikt op een wijze die niet verenigbaar is met deze doeleinden;
-
-- c. toereikend, terzake dienend en niet te uitvoerig te zijn in verhouding tot de doeleinden waarvoor zij zijn opgeslagen;
-
-- d. nauwkeurig te zijn en waar nodig te worden geactualiseerd;
-
-- e. te worden bewaard in een vorm die identificatie van de personen op wie de gegevens betrekking hebben niet langer mogelijk maakt dan nodig is voor het doel waarvoor deze gegevens zijn opgeslagen.
-
-##### 2
-
-Persoonsgegevens waaruit ras, politieke opvattingen of religieuze of andere overtuigingen blijken, alsmede persoonsgegevens inzake gezondheid of seksualiteit mogen niet automatisch worden verwerkt, tenzij de nationale wetgeving voldoende beveiliging biedt. Hetzelfde geldt voor persoonsgegevens inzake strafrechtelijke veroordelingen.
-
-##### 3
-
-Passende beveiligingsmaatregelen dienen te worden getroffen ter bescherming van in geautomatiseerde gegevensbestanden opgeslagen persoonsgegevens tegen ongeoorloofde vernietiging of onbedoeld verloren gaan, alsmede tegen ongeoorloofde toegang, wijziging of verspreiding.
-
-##### 4
-
-Iedereen dient in staat te worden gesteld om:
-
-- a. het bestaan van een geautomatiseerd bestand met persoonsgegevens, de belangrijkste doeleinden daarvan, alsmede de identiteit en gewoonlijke verblijfplaats of het belangrijkste zakelijke adres van de beheerder van het bestand vast te stellen;
-
-- b. met redelijke tussenpozen en zonder buitensporige vertraging of kosten een bevestiging te krijgen of op hem betrekking hebbende persoonsgegevens zijn opgeslagen in het geautomatiseerde gegevensbestand en van die gegevens kennis te nemen in een begrijpelijke vorm;
-
-- c. verbetering c.q. verwijdering van deze gegevens te bewerkstelligen indien deze zijn verwerkt in strijd met de bepalingen van de nationale wetgeving inzake de uitvoering van de grondbeginselen omschreven onder [punt 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001454&hoofdstuk=I&artikel=1&z=2002-05-01&g=2002-05-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBV0001454&artikel=2&z=2002-05-01&g=2002-05-01) van deze Bijlage;
-
-- d. een rechtsmiddel te kunnen aanwenden indien een verzoek om bevestiging c.q. kennisgeving, verbetering of verwijdering als bedoeld onder b en c van dit beginsel niet wordt ingewilligd.
-
-##### 5
-
-1. Uitzonderingen op het in de [beginselen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001454&hoofdstuk=I&artikel=1&z=2002-05-01&g=2002-05-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBV0001454&hoofdstuk=II&artikel=2&z=2002-05-01&g=2002-05-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0001454&artikel=4&z=2002-05-01&g=2002-05-01) van deze Bijlage bepaalde zijn niet toegestaan, tenzij deze binnen de in dit beginsel vastgestelde grenzen vallen.
-
-2. Een afwijking van het in de [beginselen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001454&hoofdstuk=I&artikel=1&z=2002-05-01&g=2002-05-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBV0001454&artikel=2&z=2002-05-01&g=2002-05-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0001454&artikel=2&z=2002-05-01&g=2002-05-01) van deze Bijlage bepaalde is toegestaan indien een dergelijke afwijking is voorzien in de wetgeving van de Verdragsluitende Partij en een noodzakelijke maatregel vormt in een democratische samenleving in het belang van:
-
-- a. bescherming van de staatsveiligheid, de openbare veiligheid, de monetaire belangen van de staat of de misdaadbestrijding;
-
-- b. bescherming van de persoon op wie gegevens betrekking hebben of de rechten en vrijheden van anderen.
-
-3. De wetgeving kan voorzien in beperkingen in de uitoefening van de in de [onderdelen b, c en d van beginsel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001454&artikel=4&z=2002-05-01&g=2002-05-01) van deze Bijlage genoemde rechten met betrekking tot geautomatiseerde bestanden met persoonsgegevens die worden gebruikt voor de statistiek of wetenschappelijk onderzoek, waarbij duidelijk geen risico bestaat van een inbreuk op de privacy van de personen op wie de gegevens betrekking hebben.
-
-##### 6
-
-Elke Verdragsluitende Partij streeft naar vaststelling van passende sancties en rechtsmiddelen voor schending van bepalingen van nationale wetgeving ter uitvoering van de in deze Bijlage beschreven grondbeginselen.
-
-##### 7
-
-De bepalingen van deze Bijlage mogen niet zodanig worden uitgelegd dat daardoor de mogelijkheid voor een Verdragsluitende Partij om personen op wie de gegevens betrekking hebben een ruimere mate van bescherming toe te kennen dan bepaald in deze Bijlage, wordt beperkt of anderszins wordt aangetast.
-
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend.
 
 GEDAAN te 's-Gravenhage op 27 april 2000, in tweevoud in de Nederlandse, de Macedonische en de Engelse taal, zijnde alle tekstengelijkelijk authentiek. In geval van verschil in interpretatie is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) G. H. O. VAN MAANEN
 
-**Voor de Macedonische Regering**
+*Voor de Macedonische Regering*
 
 (w.g.) DRAGAN DARAVELSKI

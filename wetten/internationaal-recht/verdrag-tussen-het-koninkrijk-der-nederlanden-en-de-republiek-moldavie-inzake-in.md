@@ -1,50 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Moldavië inzake internationaal vervoer over de weg"
 identifier: "BWBV0001284"
-country: "nl"
-rank: "verdrag"
-publication_date: "1997-12-01"
-last_updated: "1997-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001284"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000246523"
-version_id: "10000254482"
-internal_id: "C10006987701"
-label_id: "10000246654"
-original_entry_into_force: "1997-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001284/1997-12-01/0"
-intitule_bron: "Trb.1996-332"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-04-09"
-intitule_published: "1996-12-05"
-intitule_in_force: "1997-10-24"
-intitule_status: "goed"
-original_publication: "Trb.1996-332"
-original_signed_date: "1997-04-09"
-original_published_date: "1996-12-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1996-332"
-entry_into_force_date: "1997-12-01"
-jci_1_3: "jci1.3:c:BWBV0001284&z=1997-12-01&g=1997-12-01"
-jci_1_0: "1.0:c:BWBV0001284&g=1997-12-01"
-citeertitel_status: "officieel"
-signed_date: "1997-04-09"
-entry_into_force: "1997-12-01"
+publicatiedatum: 1997-12-01
+laatste_update: 1997-12-01
+status: geldig
+toestand: 1997-12-01
+bron: "https://wetten.overheid.nl/BWBV0001284"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Moldavië inzake internationaal vervoer over de weg
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Republiek Moldavië
-
-hierna te noemen de Verdragsluitende Partijen,
-
-Geleid door de wens, in het belang van hun economische betrekkingen, de ontwikkeling te bevorderen van het vervoer van goederen en personen over de weg in, naar en vanuit hun landen en in doorvoer over hun grondgebied,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Republiek Moldavië hierna te noemen de Verdragsluitende Partijen, Geleid door de wens, in het belang van hun economische betrekkingen, de ontwikkeling te bevorderen van het vervoer van goederen en personen over de weg in, naar en vanuit hun landen en in doorvoer over hun grondgebied, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Toepassingsgebied
 
@@ -168,10 +137,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN in tweevoud te Kishinau, de 29e oktober 1990, in de Nederlandse, Moldavische en Engelse taal, zijnde beide exemplaren gelijkelijk authentiek. In geval van verschil in uitlegging, is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 (w.g.) G. ZALM
 
-**Voor de Republiek Moldavië,**
+*Voor de Republiek Moldavië,*
 
 (w.g.) M. POPOV

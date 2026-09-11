@@ -2,17 +2,16 @@
 title: "Deelregeling Internationale Werkreis voor Individuen Fonds Podiumkunsten"
 identifier: "BWBR0052641"
 categorie: "Overig"
+soort: "zbo"
 publicatiedatum: 2026-05-27
-laatste_update: 2026-05-28
+laatste_update: 2026-05-27
 status: geldig
+toestand: 2026-05-27
 bron: "https://wetten.overheid.nl/BWBR0052641"
+opgehaald: 2026-09-11
 ---
 
 # Deelregeling Internationale Werkreis voor Individuen Fonds Podiumkunsten
-
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2);
-
-Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
@@ -20,27 +19,27 @@ Besluit:
 
 In deze Deelregeling wordt verstaan onder:
 
-- **bestuur:** de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
+- *bestuur:* de raad van bestuur van de stichting Nederlands Fonds voor Podiumkunsten;
 
-- **Fonds Podiumkunsten:** de stichting Nederlands Fonds voor Podiumkunsten;
+- *Fonds Podiumkunsten:* de stichting Nederlands Fonds voor Podiumkunsten;
 
-- **podiumkunstenaar:** een natuurlijk persoon die meerderjarig is, artistiek uitvoerend dan wel artistiek scheppend actief is in de professionele podiumkunsten en in die hoedanigheid aantoonbaar geïntegreerd en volledig actief is in de professionele podiumkunstpraktijk in Nederland;
+- *podiumkunstenaar:* een natuurlijk persoon die meerderjarig is, artistiek uitvoerend dan wel artistiek scheppend actief is in de professionele podiumkunsten en in die hoedanigheid aantoonbaar geïntegreerd en volledig actief is in de professionele podiumkunstpraktijk in Nederland;
 
-- **activiteit:** een doelgerichte, tijdelijk in het buitenland plaatsvindende activiteit die rechtstreeks bijdraagt aan de artistiek-inhoudelijke oriëntatie dan wel de verdieping van vakinhoudelijke expertise van een podiumkunstenaar, waaronder begrepen, maar niet beperkt tot, het bijwonen van een conferentie, deelname aan internationale netwerkbijeenkomsten die openstaan voor niet-leden van het netwerk, bezoek aan een internationaal festival anders dan gericht op verkoop of optreden, het bijwonen van lezingen of workshops of een panelgesprek;
+- *activiteit:* een doelgerichte, tijdelijk in het buitenland plaatsvindende activiteit die rechtstreeks bijdraagt aan de artistiek-inhoudelijke oriëntatie dan wel de verdieping van vakinhoudelijke expertise van een podiumkunstenaar, waaronder begrepen, maar niet beperkt tot, het bijwonen van een conferentie, deelname aan internationale netwerkbijeenkomsten die openstaan voor niet-leden van het netwerk, bezoek aan een internationaal festival anders dan gericht op verkoop of optreden, het bijwonen van lezingen of workshops of een panelgesprek;
 
-- **artistiek scheppend:** betrekking hebbend op het maakproces van een artistiek werk. Hieronder worden verstaan functies die primair verantwoordelijk zijn voor de inhoudelijke en artistieke totstandkoming van het werk. Tot deze functies behoren in ieder geval, maar niet uitsluitend: componist, theaterauteur, librettist en choreograaf;
+- *artistiek scheppend:* betrekking hebbend op het maakproces van een artistiek werk. Hieronder worden verstaan functies die primair verantwoordelijk zijn voor de inhoudelijke en artistieke totstandkoming van het werk. Tot deze functies behoren in ieder geval, maar niet uitsluitend: componist, theaterauteur, librettist en choreograaf;
 
-- **artistiek uitvoerend:** betrekking hebbend op het tonen van artistiek werk. Hieronder worden verstaan functies die primair verantwoordelijk zijn voor het tonen van het werk. Tot deze functies behoren in ieder geval, maar niet uitsluitend: acteur, danser, musicus, zanger, dirigent, circusartiest, of performer in interdisciplinair werk;
+- *artistiek uitvoerend:* betrekking hebbend op het tonen van artistiek werk. Hieronder worden verstaan functies die primair verantwoordelijk zijn voor het tonen van het werk. Tot deze functies behoren in ieder geval, maar niet uitsluitend: acteur, danser, musicus, zanger, dirigent, circusartiest, of performer in interdisciplinair werk;
 
-- **Nederland:** het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten;
+- *Nederland:* het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten;
 
-- **Caribisch deel van het Koninkrijk der Nederlanden:** Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten;
+- *Caribisch deel van het Koninkrijk der Nederlanden:* Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten;
 
-- **Europees Nederland:** Het deel van het Koninkrijk der Nederlanden dat geografisch is gelegen op het Europese continent;
+- *Europees Nederland:* Het deel van het Koninkrijk der Nederlanden dat geografisch is gelegen op het Europese continent;
 
-- **Buitenland:** alle landen buiten Nederland;
+- *Buitenland:* alle landen buiten Nederland;
 
-- **Europa:** het Europese continent dat bestaat uit de Europese staten die geheel of gedeeltelijk gelegen zijn op het Europese continent, begrensd door de Atlantische Oceaan in het westen, de Noordelijke IJszee in het noorden, de Middellandse Zee in het zuiden en in het oosten doorgaans door het Oeralgebergte, de Oeralrivier, de Kaspische Zee en de Kaukasus.
+- *Europa:* het Europese continent dat bestaat uit de Europese staten die geheel of gedeeltelijk gelegen zijn op het Europese continent, begrensd door de Atlantische Oceaan in het westen, de Noordelijke IJszee in het noorden, de Middellandse Zee in het zuiden en in het oosten doorgaans door het Oeralgebergte, de Oeralrivier, de Kaspische Zee en de Kaukasus.
 
 ##### Artikel 1.2. Doel
 
@@ -54,7 +53,7 @@ In deze Deelregeling wordt verstaan onder:
 
 2. De subsidie kan worden verstrekt in twee vormen:
 
-- a. een subsidie voor het bijwonen van of deelnemen aan activiteiten als bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=1&artikel=1.1&z=2026-05-27&g=2026-05-27);
+- a. een subsidie voor het bijwonen van of deelnemen aan activiteiten als bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=1&artikel=1.1&z=2026-05-27&g=2026-05-27);
 
 - b. een subsidie voor het bijwonen van uitvoeringen van eigen werk.
 
@@ -72,7 +71,7 @@ In deze Deelregeling wordt verstaan onder:
 
 ##### Artikel 1.5. Geografische aanvulling
 
-In aanvulling op [artikel 1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=1&artikel=1.3&z=2026-05-27&g=2026-05-27), wordt voor de toepassing van deze Deelregeling mede als buitenland aangemerkt:
+In aanvulling op [artikel 1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=1&artikel=1.3&z=2026-05-27&g=2026-05-27), wordt voor de toepassing van deze Deelregeling mede als buitenland aangemerkt:
 
 - a. het Caribisch deel van het Koninkrijk der Nederlanden, indien de aanvrager woonachtig is in Europees Nederland;
 
@@ -82,13 +81,13 @@ In aanvulling op [artikel 1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 1.6. Wie kan aanvragen
 
-1. De subsidie als bedoeld in [artikel 1.3, lid 2 aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=1&artikel=1.3&z=2026-05-27&g=2026-05-27) kan uitsluitend worden aangevraagd door een podiumkunstenaar als bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=1&artikel=1.1&z=2026-05-27&g=2026-05-27).
+1. De subsidie als bedoeld in [artikel 1.3, lid 2 aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=1&artikel=1.3&z=2026-05-27&g=2026-05-27) kan uitsluitend worden aangevraagd door een podiumkunstenaar als bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=1&artikel=1.1&z=2026-05-27&g=2026-05-27).
 
-2. De subsidie als bedoeld in [artikel 1.3, lid 2 aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=1&artikel=1.3&z=2026-05-27&g=2026-05-27) kan uitsluitend worden aangevraagd door een podiumkunstenaar die artistiek scheppend actief is als bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=1&artikel=1.1&z=2026-05-27&g=2026-05-27), voor diens werk in die hoedanigheid.
+2. De subsidie als bedoeld in [artikel 1.3, lid 2 aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=1&artikel=1.3&z=2026-05-27&g=2026-05-27) kan uitsluitend worden aangevraagd door een podiumkunstenaar die artistiek scheppend actief is als bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=1&artikel=1.1&z=2026-05-27&g=2026-05-27), voor diens werk in die hoedanigheid.
 
 ##### Artikel 1.7. Weigeringsgronden
 
-1. Het bestuur weigert, onverminderd het bepaalde in [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), de subsidie:
+1. Het bestuur weigert, onverminderd het bepaalde in [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), de subsidie:
 
 - a. als de aanvrager een rechtspersoon, een vennootschap onder firma of eenmanszaak is;
 
@@ -106,27 +105,27 @@ In aanvulling op [artikel 1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:B
 
 - h. als hetgeen waarvoor subsidie wordt aangevraagd reeds op grond van een andere subsidieregeling van Fonds Podiumkunsten wordt gesubsidieerd of geacht wordt gesubsidieerd te zijn;
 
-- i. als de aanvraag eerder wordt ingediend dan 16 weken vóór de eerste activiteit waarvoor subsidie wordt aangevraagd;
+- i. als de aanvraag eerder wordt ingediend dan 16 weken vóór de eerste activiteit waarvoor subsidie wordt aangevraagd;
 
 - j. als de aanvraag later wordt ingediend dan vier weken vóór de eerste activiteit waarvoor subsidie wordt aangevraagd;
 
 - k. als de aanvraag betrekking heeft op:
 
-  - i. het verrichten van regies, choreografieën, dirigentschappen, optredens en daarmee vergelijkbare uitvoerende opdrachten, waarbij de aanvrager dan wel als primair maker, dan wel in een gastrol optreedt;
+   - i. het verrichten van regies, choreografieën, dirigentschappen, optredens en daarmee vergelijkbare uitvoerende opdrachten, waarbij de aanvrager dan wel als primair maker, dan wel in een gastrol optreedt;
 
-  - ii. het bijwonen van netwerkbijeenkomsten en de aanvrager lid is van het organiserende netwerk;
+   - ii. het bijwonen van netwerkbijeenkomsten en de aanvrager lid is van het organiserende netwerk;
 
-  - iii. het bijwonen van of deelnemen aan activiteiten waarbij de verkoop van eigen werk een onderdeel vormt;
+   - iii. het bijwonen van of deelnemen aan activiteiten waarbij de verkoop van eigen werk een onderdeel vormt;
 
-  - iv. het bijwonen van of deelnemen aan activiteiten die gericht zijn op promotionele doeleinden; of
+   - iv. het bijwonen van of deelnemen aan activiteiten die gericht zijn op promotionele doeleinden; of
 
-  - v. deelname aan trainingen, opleidingen of cursussen die zijn gericht op omscholing.
+   - v. deelname aan trainingen, opleidingen of cursussen die zijn gericht op omscholing.
 
 - l. als de aanvraag niet voldoet aan het bepaalde in deze regeling.
 
 2. Het bestuur kan de subsidie weigeren:
 
-- a. als de reisafstand hemelsbreed minder dan 600 kilometer bedraagt en de reis- en transportkosten worden gemaakt door middel van vervoer per vliegtuig, terwijl er alternatieve vervoersmogelijkheden voorhanden zijn;
+- a. als de reisafstand hemelsbreed minder dan 600 kilometer bedraagt en de reis- en transportkosten worden gemaakt door middel van vervoer per vliegtuig, terwijl er alternatieve vervoersmogelijkheden voorhanden zijn;
 
 - b. als de aanvrager in de voorgaande twee jaar niet heeft voldaan aan een of meer aan een subsidie verbonden voorwaarden of verplichtingen, waaronder in ieder geval begrepen het juist en tijdig uitvoeren van de gesubsidieerde activiteiten, het tijdig melden van relevante wijzigingen in de uitvoering en het juist en tijdig verantwoorden van de activiteiten;
 
@@ -140,7 +139,7 @@ In aanvulling op [artikel 1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:B
 
 2. Een aanvraag wordt alleen in behandeling genomen als het volledig ingevulde aanvraagformulier is ontvangen door Fonds Podiumkunsten en vergezeld gaat van de op het formulier vermelde bijlagen.
 
-3. Een complete aanvraag voor een subsidie als bedoeld in [artikel 1.3, lid 2 aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=1&artikel=1.3&z=2026-05-27&g=2026-05-27) bevat:
+3. Een complete aanvraag voor een subsidie als bedoeld in [artikel 1.3, lid 2 aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=1&artikel=1.3&z=2026-05-27&g=2026-05-27) bevat:
 
 - a. een omschrijving van de professionele werkpraktijk van de aanvrager;
 
@@ -150,23 +149,23 @@ In aanvulling op [artikel 1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:B
 
 - d. een schriftelijke bevestiging waarmee wordt aangetoond dat de aanvrager minimaal een concrete afspraak heeft staan die verbonden is aan de activiteiten; en
 
-- e. een specificatie van de subsidiabele kosten als bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=2&artikel=2.4&z=2026-05-27&g=2026-05-27), alsmede ondersteunende documenten waaruit de in de specificatie opgenomen kosten blijken.
+- e. een specificatie van de subsidiabele kosten als bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=2&artikel=2.4&z=2026-05-27&g=2026-05-27), alsmede ondersteunende documenten waaruit de in de specificatie opgenomen kosten blijken.
 
-4. Een complete aanvraag voor een subsidie als bedoeld in [artikel 1.3, lid 2 aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=1&artikel=1.3&z=2026-05-27&g=2026-05-27) bevat:
+4. Een complete aanvraag voor een subsidie als bedoeld in [artikel 1.3, lid 2 aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=1&artikel=1.3&z=2026-05-27&g=2026-05-27) bevat:
 
-- a. een omschrijving van de professionele werkpraktijk van de aanvrager;
+- a een omschrijving van de professionele werkpraktijk van de aanvrager;
 
-- b. de motivatie van de aanvrager voor het bijwonen van de uitvoeringen. De motivatie bevat wat de verwachting is van de reis en wat het bezoek gaat bijdragen aan de artistiek-inhoudelijke oriëntatie;
+- b de motivatie van de aanvrager voor het bijwonen van de uitvoeringen. De motivatie bevat wat de verwachting is van de reis en wat het bezoek gaat bijdragen aan de artistiek-inhoudelijke oriëntatie;
 
-- c. een uitnodiging van een buitenlandse organisatie waaruit blijkt dat de aanvrager in zijn of haar hoedanigheid van scheppend kunstenaar is uitgenodigd voor het bijwonen van diens eigen werk, waarbij de uitnodiging rechtstreeks en op naam van de aanvrager is gesteld;
+- c een uitnodiging van een buitenlandse organisatie waaruit blijkt dat de aanvrager in zijn of haar hoedanigheid van scheppend kunstenaar is uitgenodigd voor het bijwonen van diens eigen werk, waarbij de uitnodiging rechtstreeks en op naam van de aanvrager is gesteld;
 
-- d. een omschrijving waaruit blijkt dat de aanvrager tijdens het verblijf in het buitenland een werkzaamheid ontplooit die direct verband houdt met het bijwonen van de uitvoeringen, zoals het repeteren van het werk, het geven van een lezing of workshop, waarvoor diens aanwezigheid vereist is; en
+- d een omschrijving waaruit blijkt dat de aanvrager tijdens het verblijf in het buitenland een werkzaamheid ontplooit die direct verband houdt met het bijwonen van de uitvoeringen, zoals het repeteren van het werk, het geven van een lezing of workshop, waarvoor diens aanwezigheid vereist is; en
 
-- e. een specificatie van de subsidiabele kosten als bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=2&artikel=2.4&z=2026-05-27&g=2026-05-27), alsmede ondersteunende documenten waaruit de in de specificatie opgenomen kosten blijken.
+- e een specificatie van de subsidiabele kosten als bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=2&artikel=2.4&z=2026-05-27&g=2026-05-27), alsmede ondersteunende documenten waaruit de in de specificatie opgenomen kosten blijken.
 
 ##### Artikel 2.2. Beoordeling
 
-1. Een aanvraag voor een subsidie als bedoeld in [artikel 1.3, lid 2 aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=1&artikel=1.3&z=2026-05-27&g=2026-05-27) komt voor subsidie in aanmerking wanneer er naar het oordeel van het bestuur sprake van is dat:
+1. Een aanvraag voor een subsidie als bedoeld in [artikel 1.3, lid 2 aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=1&artikel=1.3&z=2026-05-27&g=2026-05-27) komt voor subsidie in aanmerking wanneer er naar het oordeel van het bestuur sprake van is dat:
 
 - a. de activiteit bijdraagt aan de artistiek-inhoudelijke oriëntatie of verdieping van vakinhoudelijke expertise van de aanvrager;
 
@@ -174,7 +173,7 @@ In aanvulling op [artikel 1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:B
 
 - c. de specificatie van de kosten realistisch en marktconform is.
 
-2. Een aanvraag voor een subsidie als bedoeld in [artikel 1.3, lid 2 aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=1&artikel=1.3&z=2026-05-27&g=2026-05-27) komt voor subsidie in aanmerking wanneer er naar het oordeel van het bestuur sprake van is dat:
+2. Een aanvraag voor een subsidie als bedoeld in [artikel 1.3, lid 2 aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=1&artikel=1.3&z=2026-05-27&g=2026-05-27) komt voor subsidie in aanmerking wanneer er naar het oordeel van het bestuur sprake van is dat:
 
 - a. de aanvrager is uitgenodigd om een uitvoering bij te wonen van een of meer van diens werken die op het moment van de aanvraag gerealiseerd zijn;
 
@@ -184,7 +183,7 @@ In aanvulling op [artikel 1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 2.3. Verdeling budget
 
-1. Het bestuur verleent de subsidie op volgorde van ontvangst van de complete aanvragen als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=2&artikel=2.1&z=2026-05-27&g=2026-05-27) en die voor subsidie in aanmerking komen als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=2&artikel=2.2&z=2026-05-27&g=2026-05-27), totdat het vastgestelde subsidieplafond voor het desbetreffende kalenderjaar is bereikt. Bij een incomplete aanvraag geldt als ontvangstdatum de datum en het tijdstip waarop de aanvullende informatie is ontvangen en de aanvraag daarmee compleet is als bedoeld in [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5).
+1. Het bestuur verleent de subsidie op volgorde van ontvangst van de complete aanvragen als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=2&artikel=2.1&z=2026-05-27&g=2026-05-27) en die voor subsidie in aanmerking komen als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=2&artikel=2.2&z=2026-05-27&g=2026-05-27), totdat het vastgestelde subsidieplafond voor het desbetreffende kalenderjaar is bereikt. Bij een incomplete aanvraag geldt als ontvangstdatum de datum en het tijdstip waarop de aanvullende informatie is ontvangen en de aanvraag daarmee compleet is als bedoeld in [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5).
 
 2. Als het subsidieplafond dreigt te worden overschreden of wordt overschreden als gevolg van een aantal aanvragen met dezelfde ontvangstdatum, dan worden deze aanvragen gerangschikt op basis van het tijdstip van ontvangst.
 
@@ -194,7 +193,7 @@ Voor zover noodzakelijk en adequaat in relatie tot het doel waarmee de subsidie 
 
 - a. reiskosten over land met openbaar vervoer in tweede klasse;
 
-- b. reiskosten over land met eigen vervoer op basis van 0,48 euro per kilometer;
+- b. reiskosten over land met eigen vervoer op basis van 0,48 euro per kilometer;
 
 - c. kosten die gemaakt worden voor het huren van een vervoersmiddel voor vervoer over land;
 
@@ -208,11 +207,11 @@ Voor zover noodzakelijk en adequaat in relatie tot het doel waarmee de subsidie 
 
 ##### Artikel 2.5. Subsidiehoogte
 
-1. De hoogte van de subsidie bedraagt maximaal 2.500 euro per aanvraag wanneer de activiteiten dan wel de uitvoeringen binnen Europa of binnen het Caribisch deel van het Koninkrijk der Nederlanden plaatsvinden.
+1. De hoogte van de subsidie bedraagt maximaal 2.500 euro per aanvraag wanneer de activiteiten dan wel de uitvoeringen binnen Europa of binnen het Caribisch deel van het Koninkrijk der Nederlanden plaatsvinden.
 
-2. De hoogte van de subsidie bedraagt maximaal 4.000 euro per aanvraag wanneer de activiteiten dan wel de uitvoeringen buiten Europa plaatsvinden.
+2. De hoogte van de subsidie bedraagt maximaal 4.000 euro per aanvraag wanneer de activiteiten dan wel de uitvoeringen buiten Europa plaatsvinden.
 
-3. In afwijking van lid 1 bedraagt de hoogte van de subsidie maximaal 4.000 euro wanneer de activiteiten dan wel de uitvoeringen plaatsvinden buiten het Caribisch deel van het Koninkrijk der Nederlanden en de aanvrager gevestigd is in het Caribisch deel van het Koninkrijk der Nederlanden.
+3. In afwijking van lid 1 bedraagt de hoogte van de subsidie maximaal 4.000 euro wanneer de activiteiten dan wel de uitvoeringen plaatsvinden buiten het Caribisch deel van het Koninkrijk der Nederlanden en de aanvrager gevestigd is in het Caribisch deel van het Koninkrijk der Nederlanden.
 
 4. De hoogte van de subsidie wordt door het bestuur bepaald op basis van de bij de aanvraag overlegde stukken.
 
@@ -222,7 +221,7 @@ Voor zover noodzakelijk en adequaat in relatie tot het doel waarmee de subsidie 
 
 ##### Artikel 2.6. Besluit
 
-Het bestuur informeert de aanvrager binnen 8 weken schriftelijk over zijn besluit. De beslistermijn vangt aan op de dag na die waarop de complete aanvraag als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=2&artikel=2.1&z=2026-05-27&g=2026-05-27) van deze Deelregeling is ontvangen.
+Het bestuur informeert de aanvrager binnen 8 weken schriftelijk over zijn besluit. De beslistermijn vangt aan op de dag na die waarop de complete aanvraag als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052641&paragraaf=2&artikel=2.1&z=2026-05-27&g=2026-05-27) van deze Deelregeling is ontvangen.
 
 #### Paragraaf 3. Verplichtingen en verantwoording
 
@@ -267,5 +266,3 @@ Deze Deelregeling treedt in werking met ingang van de dag na de datum van uitgif
 ##### Artikel 4.3. Citeertitel
 
 Deze Deelregeling wordt aangehaald als: Deelregeling Internationale Werkreis voor Individuen Fonds Podiumkunsten.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

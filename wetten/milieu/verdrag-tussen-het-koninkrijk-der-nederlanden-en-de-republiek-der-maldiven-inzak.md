@@ -1,49 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek der Maldiven inzake luchtdiensten tussen en via hun onderscheiden grondgebieden"
 identifier: "BWBV0001132"
-country: "nl"
-rank: "verdrag"
-publication_date: "1995-02-01"
-last_updated: "1995-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001132"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002431573"
-version_id: "10002432302"
-internal_id: "C10006986691"
-label_id: "10002421254"
-dtd_version: "2.0"
-original_entry_into_force: "1995-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001132/1995-02-01/0"
-intitule_bron: "Trb.1994-147"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-06-23"
-intitule_published: "1994-07-13"
-intitule_in_force: "1995-01-05"
-intitule_status: "goed"
-original_publication: "Trb.1994-147"
-original_signed_date: "1994-06-23"
-original_published_date: "1994-07-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1994-147"
-entry_into_force_date: "1995-02-01"
-jci_1_3: "jci1.3:c:BWBV0001132&z=1995-02-01&g=1995-02-01"
-jci_1_0: "1.0:c:BWBV0001132&g=1995-02-01"
-citeertitel_status: "redactioneel"
-signed_date: "1994-06-23"
-entry_into_force: "1995-02-01"
+publicatiedatum: 1995-02-01
+laatste_update: 1995-02-01
+status: geldig
+toestand: 1995-02-01
+bron: "https://wetten.overheid.nl/BWBV0001132"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek der Maldiven inzake luchtdiensten tussen en via hun onderscheiden grondgebieden
 
-The Government of the Kingdom of the Netherlands and
-
-the Government of the Republic of Maldives, hereinafter referred to as the Contracting Parties;
-
-being parties to the [Convention on International Civil Aviation](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) opened for signature at Chicago on 7 December 1944;
-
-desiring to contribute to the progress of international civil aviation;
-
-desiring to conclude an Agreement for the purpose of establishing air services between and beyond their respective territories, have agreed as follows:
+*The Government of the Kingdom of the Netherlands and the Government of the Republic of Maldives, hereinafter referred to as the Contracting Parties; being parties to the Convention on International Civil Aviation opened for signature at Chicago on 7 December 1944; desiring to contribute to the progress of international civil aviation; desiring to conclude an Agreement for the purpose of establishing air services between and beyond their respective territories, have agreed as follows:*
 
 ##### Article 1. Definitions
 
@@ -67,9 +37,9 @@ For the purpose of this Agreement and its Annex, unless the context otherwise re
 
 - i. the term "tariff" means any amount charged or to be charged by airlines, directly or through their agents, to any person or entity for the carriage of passengers (and their baggage) and cargo (excluding mail) in air transportation, including:
 
-- I. the conditions governing the availability and applicability of a tariff, and
+   - I. the conditions governing the availability and applicability of a tariff, and
 
-- II. the charges and conditions for any services ancillary to such carriage which are offered by airlines;
+   - II. the charges and conditions for any services ancillary to such carriage which are offered by airlines;
 
 - j. the term "change of aircraft" means the operation of one of the agreed services by a designated airline in such a way that one or more sectors of the route are flown by aircraft different in capacity from those used on another sector.
 
@@ -277,10 +247,10 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their resp
 
 DONE in duplicate at The Hague on 23 June 1994, in the English language, both duplicates being equally authentic.
 
-**For the Government of the Kingdom of the Netherlands**
+*For the Government of the Kingdom of the Netherlands*
 
 (s.d.) P. H. KOOIJMANS
 
-**For the Government of the Republic of Maldives**
+*For the Government of the Republic of Maldives*
 
 (s.d.) SALAH SHIHAB

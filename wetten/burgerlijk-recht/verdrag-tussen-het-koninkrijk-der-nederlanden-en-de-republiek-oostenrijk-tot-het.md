@@ -1,49 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen van nalatenschappen en verkrijgingen krachtens erfrecht en van schenkingen"
 identifier: "BWBV0001567"
-country: "nl"
-rank: "verdrag"
-publication_date: "2003-01-01"
-last_updated: "2003-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001567"
+categorie: "Burgerlijk recht"
 soort: "verdrag"
-stam_id: "10000383313"
-version_id: "10000391522"
-internal_id: "C10009552311"
-label_id: "10000383584"
-dtd_version: "2.0"
-original_entry_into_force: "2003-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001567/2003-01-01/0"
-intitule_bron: "Trb.2002-27"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-12-27"
-intitule_published: "2002-02-11"
-intitule_in_force: "2003-01-06"
-intitule_status: "goed"
-original_publication: "Trb.2002-27"
-original_signed_date: "2002-12-27"
-original_published_date: "2002-02-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2002-27"
-entry_into_force_date: "2003-01-01"
-jci_1_3: "jci1.3:c:BWBV0001567&z=2003-01-01&g=2003-01-01"
-jci_1_0: "1.0:c:BWBV0001567&g=2003-01-01"
-citeertitel_status: "officieel"
-signed_date: "2002-12-27"
-entry_into_force: "2003-01-01"
+publicatiedatum: 2003-01-01
+laatste_update: 2003-01-01
+status: geldig
+toestand: 2003-01-01
+bron: "https://wetten.overheid.nl/BWBV0001567"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen van nalatenschappen en verkrijgingen krachtens erfrecht en van schenkingen
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van de Republiek Oostenrijk,
-
-Geleid door de wens dat door beide Staten een verdrag wordt gesloten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen van nalatenschappen en verkrijgingen krachtens erfrecht en van schenkingen,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Oostenrijk, Geleid door de wens dat door beide Staten een verdrag wordt gesloten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen van nalatenschappen en verkrijgingen krachtens erfrecht en van schenkingen, Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. REIKWIJDTE VAN HET VERDRAG
 
@@ -87,15 +57,15 @@ Dit Verdrag is van toepassing:
 
 - f. betekent de uitdrukking „onderdaan”
 
-- i. iedere natuurlijke persoon die de nationaliteit van een Verdragsluitende Staat bezit;
+   - i. iedere natuurlijke persoon die de nationaliteit van een Verdragsluitende Staat bezit;
 
-- ii. iedere rechtspersoon, vennootschap en andere vereniging die zijn of haar rechtspositie als zodanig ontleent aan de wetgeving die in een Verdragsluitende Staat van kracht is;
+   - ii. iedere rechtspersoon, vennootschap en andere vereniging die zijn of haar rechtspositie als zodanig ontleent aan de wetgeving die in een Verdragsluitende Staat van kracht is;
 
 - g. betekent de uitdrukking „bevoegde autoriteit”
 
-- i. in Nederland: de Minister van Financiën of zijn bevoegde vertegenwoordiger;
+   - i. in Nederland: de Minister van Financiën of zijn bevoegde vertegenwoordiger;
 
-- ii. in Oostenrijk: de Bondsminister van Financiën of zijn bevoegde vertegenwoordiger.
+   - ii. in Oostenrijk: de Bondsminister van Financiën of zijn bevoegde vertegenwoordiger.
 
 2. Voor de toepassing van het Verdrag door een Verdragsluitende Staat heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens het recht van die Staat met betrekking tot de belastingen waarop het Verdrag van toepassing is.
 
@@ -337,10 +307,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe gemachtigd, dit Verdrag hebben on
 
 GEDAAN te 's-Gravenhage, de 26e november 2001 in tweevoud in de Nederlandse en de Duitse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) J. J. VAN AARTSEN
 
-**Voor de Republiek Oostenrijk**
+*Voor de Republiek Oostenrijk*
 
 (w.g.) B. M. FERRERO-WALDNER

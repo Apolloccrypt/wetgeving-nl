@@ -1,57 +1,21 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko inzake de overbrenging van gevonniste personen"
 identifier: "BWBV0001425"
-country: "nl"
-rank: "verdrag"
-publication_date: "2001-05-01"
-last_updated: "2001-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001425"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10001412773"
-version_id: "10001482492"
-internal_id: "C10006992161"
-label_id: "10001413254"
-dtd_version: "2.0"
-original_entry_into_force: "2001-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001425/2001-05-01/0"
-intitule_bron: "Trb.1999-198"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-12-30"
-intitule_published: "1999-12-21"
-intitule_in_force: "2001-05-10"
-intitule_status: "goed"
-original_publication: "Trb.1999-198"
-original_signed_date: "1999-12-30"
-original_published_date: "1999-12-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1999-198"
-entry_into_force_date: "2001-05-01"
-jci_1_3: "jci1.3:c:BWBV0001425&z=2001-05-01&g=2001-05-01"
-jci_1_0: "1.0:c:BWBV0001425&g=2001-05-01"
-citeertitel_status: "redactioneel"
-signed_date: "1999-12-30"
-entry_into_force: "2001-05-01"
+publicatiedatum: 2001-05-01
+laatste_update: 2001-05-01
+status: geldig
+toestand: 2001-05-01
+bron: "https://wetten.overheid.nl/BWBV0001425"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko inzake de overbrenging van gevonniste personen
 
-Het Koninkrijk der Nederlanden
+*Het Koninkrijk der Nederlanden en het Koninkrijk Marokko, Geleid door de wens de vriendschappelijke betrekkingen en de samenwerking tussen beide Staten te bevorderen en met name de justitiële samenwerking te bevorderen; Ernaar strevend vraagstukken met betrekking tot de overbrenging van gevonniste personen in onderlinge overeenstemming te regelen; Ernaar strevend gevonniste personen de mogelijkheid te bieden hun vrijheidsbenemende straf of maatregel in hun land te ondergaan, teneinde hun resocialisatie te bevorderen; Vastbesloten elkaar, overeenkomstig de regels en voorwaarden bepaald in dit Verdrag, wederzijds in zo ruim mogelijke mate samenwerking te verlenen bij de overbrenging van personen die zijn veroordeeld tot een vrijheidsbenemende straf of maatregel; Zijn de volgende bepalingen overeengekomen:*
 
-en
-
-het Koninkrijk Marokko,
-
-Geleid door de wens de vriendschappelijke betrekkingen en de samenwerking tussen beide Staten te bevorderen en met name de justitiële samenwerking te bevorderen;
-
-Ernaar strevend vraagstukken met betrekking tot de overbrenging van gevonniste personen in onderlinge overeenstemming te regelen;
-
-Ernaar strevend gevonniste personen de mogelijkheid te bieden hun vrijheidsbenemende straf of maatregel in hun land te ondergaan, teneinde hun resocialisatie te bevorderen;
-
-Vastbesloten elkaar, overeenkomstig de regels en voorwaarden bepaald in dit Verdrag, wederzijds in zo ruim mogelijke mate samenwerking te verlenen bij de overbrenging van personen die zijn veroordeeld tot een vrijheidsbenemende straf of maatregel;
-
-Zijn de volgende bepalingen overeengekomen:
-
-## TITEL I. OVERBRENGING VAN GEVONNISTE EN GEDETINEERDE PERSONEN
+### TITEL I. OVERBRENGING VAN GEVONNISTE EN GEDETINEERDE PERSONEN
 
 ### Hoofdstuk 1. Algemene beginselen
 
@@ -235,7 +199,7 @@ De met toepassing van dit Verdrag verzonden stukken en documenten zijn vrijgeste
 
 2. De Staat van tenuitvoerlegging kan in geen geval vergoeding eisen van de door hem bij de tenuitvoerlegging van de straf en bij de bewaking van de gevonniste persoon gemaakte kosten.
 
-## TITEL II. REGELING VAN GESCHILLEN
+### TITEL II. REGELING VAN GESCHILLEN
 
 ##### Artikel 23
 
@@ -243,7 +207,7 @@ De met toepassing van dit Verdrag verzonden stukken en documenten zijn vrijgeste
 
 2. Er wordt een gemengde adviserende werkgroep ingesteld, bestaande uit vertegenwoordigers van de Ministeries van Buitenlandse Zaken en van Justitie, die op verzoek van een van beide staten vergadert, teneinde het regelen van problemen die uit de toepassing van dit Verdrag zouden kunnen voortvloeien, te vergemakkelijken.
 
-## TITEL III. SLOTBEPALINGEN
+### TITEL III. SLOTBEPALINGEN
 
 #### Voorlopige toepassing en inwerkingtreding
 
@@ -279,7 +243,7 @@ TEN BLIJKE WAARVAN de vertegenwoordigers van beide Staten, daartoe naar behoren 
 
 GEDAAN te Rabat, op 30 november 1999, in twee exemplaren, in de Nederlandse, Arabische en de Franse taal, zijnde de drie teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 H.M. Ambassadeur
 
@@ -287,7 +251,7 @@ Hendrik Jan van Pesch
 
 (w.g.) H. J. VAN PESCH
 
-**Voor het Koninkrijk Marokko**
+*Voor het Koninkrijk Marokko*
 
 De Minister van Justitie
 

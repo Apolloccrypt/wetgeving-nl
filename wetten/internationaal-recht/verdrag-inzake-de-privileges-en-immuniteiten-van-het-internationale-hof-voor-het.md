@@ -1,80 +1,49 @@
 ---
 title: "Verdrag inzake de privileges en immuniteiten van het Internationale Hof voor het recht van de zee"
 identifier: "BWBV0001382"
-country: "nl"
-rank: "verdrag"
-publication_date: "2001-12-30"
-last_updated: "2001-12-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001382"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000394883"
-version_id: "10000403172"
-internal_id: "C10006989771"
-label_id: "10000395284"
-original_entry_into_force: "2001-12-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001382/2001-12-30/0"
-intitule_bron: "Trb.1998-246"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-03-25"
-intitule_published: "1998-11-06"
-intitule_in_force: "2002-01-31"
-intitule_status: "goed"
-original_publication: "Trb.1998-246"
-original_signed_date: "1999-03-25"
-original_published_date: "1998-11-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1998-246"
-entry_into_force_date: "2001-12-30"
-jci_1_3: "jci1.3:c:BWBV0001382&z=2001-12-30&g=2001-12-30"
-jci_1_0: "1.0:c:BWBV0001382&g=2001-12-30"
-citeertitel_status: "officieel"
-signed_date: "1999-03-25"
-entry_into_force: "2001-12-30"
+publicatiedatum: 2001-12-30
+laatste_update: 2001-12-30
+status: geldig
+toestand: 2001-12-30
+bron: "https://wetten.overheid.nl/BWBV0001382"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag inzake de privileges en immuniteiten van het Internationale Hof voor het recht van de zee
 
-The States Parties to the present Agreement,
-
-Considering that the [United Nations Convention on the Law of the Sea](https://wetten.overheid.nl/jci1.3:c:BWBV0003172) establishes the International Tribunal for the Law of the Sea,
-
-Recognizing that the Tribunal should enjoy such legal capacity, privileges and immunities as are necessary for the exercise of its functions,
-
-Recalling that the Statute of the Tribunal provides, in article 10, that the Members of the Tribunal, when engaged on the business of the Tribunal, shall enjoy diplomatic privileges and immunities,
-
-Recognizing that persons participating in proceedings and officials of the Tribunal should enjoy such privileges and immunities as are necessary for the independent exercise of their functions in connection with the Tribunal,
-
-Have agreed as follows:
+*The States Parties to the present Agreement, Considering that the United Nations Convention on the Law of the Sea establishes the International Tribunal for the Law of the Sea, Recognizing that the Tribunal should enjoy such legal capacity, privileges and immunities as are necessary for the exercise of its functions, Recalling that the Statute of the Tribunal provides, in article 10, that the Members of the Tribunal, when engaged on the business of the Tribunal, shall enjoy diplomatic privileges and immunities, Recognizing that persons participating in proceedings and officials of the Tribunal should enjoy such privileges and immunities as are necessary for the independent exercise of their functions in connection with the Tribunal, Have agreed as follows:*
 
 ##### Article 1. Use of terms
 
 For the purposes of this Agreement:
 
-- a). “Convention” means the [United Nations Convention on the Law of the Sea](https://wetten.overheid.nl/jci1.3:c:BWBV0003172) of 10 December 1982;
+- a) “Convention” means the [United Nations Convention on the Law of the Sea](https://wetten.overheid.nl/jci1.3:c:BWBV0003172) of 10 December 1982;
 
-- b). “Statute” means the [Statute of the International Tribunal for the Law of the Sea](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&bijlage=VI) in annex VI to the Convention;
+- b) “Statute” means the [Statute of the International Tribunal for the Law of the Sea](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&bijlage=VI) in annex VI to the Convention;
 
-- c). “States Parties” means States Parties to this Agreement;
+- c) “States Parties” means States Parties to this Agreement;
 
-- d). “Tribunal” means the International Tribunal for the Law of the Sea;
+- d) “Tribunal” means the International Tribunal for the Law of the Sea;
 
-- e). “Member of the Tribunal” means an elected member of the Tribunal or a person chosen under [article 17 of the Statute](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=17) for the purpose of a particular case;
+- e) “Member of the Tribunal” means an elected member of the Tribunal or a person chosen under [article 17 of the Statute](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=17) for the purpose of a particular case;
 
-- f). “Registrar” means the Registrar of the Tribunal and includes any official of the Tribunal acting as Registrar;
+- f) “Registrar” means the Registrar of the Tribunal and includes any official of the Tribunal acting as Registrar;
 
-- g). “officials of the Tribunal” means the Registrar and other members of the staff of the Registry;
+- g) “officials of the Tribunal” means the Registrar and other members of the staff of the Registry;
 
-- h). “Vienna Convention” means the [Vienna Convention on Diplomatic Relations](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) of 18 April 1961.
+- h) “Vienna Convention” means the [Vienna Convention on Diplomatic Relations](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) of 18 April 1961.
 
 ##### Article 2. Juridical personality of the Tribunal
 
 The Tribunal shall possess juridical personality. It shall have the capacity:
 
-- a). to contract;
+- a) to contract;
 
-- b). to acquire and dispose of immovable and movable property;
+- b) to acquire and dispose of immovable and movable property;
 
-- c). to institute legal proceedings.
+- c) to institute legal proceedings.
 
 ##### Article 3. Inviolability of the premises of the Tribunal
 
@@ -138,11 +107,11 @@ In the event that the Tribunal considers it desirable to sit or otherwise exerci
 
 1. Without being restricted by financial controls, regulations or financial moratoriums of any kind, while carrying out its activities:
 
-- a). the Tribunal may hold funds, currency of any kind or gold and operate accounts in any currency;
+- a) the Tribunal may hold funds, currency of any kind or gold and operate accounts in any currency;
 
-- b). the Tribunal shall be free to transfer its funds, gold or its currency from one country to another or within any country and to convert any currency held by it into any other currency;
+- b) the Tribunal shall be free to transfer its funds, gold or its currency from one country to another or within any country and to convert any currency held by it into any other currency;
 
-- c). the Tribunal may receive, hold, negotiate, transfer, convert or otherwise deal with bonds and other financial securities.
+- c) the Tribunal may receive, hold, negotiate, transfer, convert or otherwise deal with bonds and other financial securities.
 
 2. In exercising its rights under paragraph 1, the Tribunal shall pay due regard to any representations made by any State Party insofar as it is considered that effect can be given to such representations without detriment to the interests of the Tribunal.
 
@@ -168,63 +137,63 @@ In the event that the Tribunal considers it desirable to sit or otherwise exerci
 
 2. Other officials of the Tribunal shall enjoy in any country where they may be on the business of the Tribunal, or in any country through which they may pass on such business, such privileges, immunities and facilities as are necessary for the independent exercise of their functions. In particular, they shall be accorded:
 
-- a). immunity from personal arrest or detention and from seizure of their personal baggage;
+- a) immunity from personal arrest or detention and from seizure of their personal baggage;
 
-- b). the right to import free of duty their furniture and effects at the time of first taking up their post in the country in question and to re-export the same free of duty to their country of permanent residence;
+- b) the right to import free of duty their furniture and effects at the time of first taking up their post in the country in question and to re-export the same free of duty to their country of permanent residence;
 
-- c). exemption from inspection of personal baggage, unless there are serious grounds for believing that the baggage contains articles not for personal use or articles the import or export of which is prohibited by the law or controlled by the quarantine regulations of the State Party concerned; an inspection in such a case shall be conducted in the presence of the official concerned;
+- c) exemption from inspection of personal baggage, unless there are serious grounds for believing that the baggage contains articles not for personal use or articles the import or export of which is prohibited by the law or controlled by the quarantine regulations of the State Party concerned; an inspection in such a case shall be conducted in the presence of the official concerned;
 
-- d). immunity from legal process in respect of words spoken or written and all acts done by them in discharging their functions, which immunity shall continue even after they have ceased to exercise their functions;
+- d) immunity from legal process in respect of words spoken or written and all acts done by them in discharging their functions, which immunity shall continue even after they have ceased to exercise their functions;
 
-- e). immunity from national service obligations;
+- e) immunity from national service obligations;
 
-- f). together with members of their families forming part of their household, exemption from immigration restrictions or alien registration;
+- f) together with members of their families forming part of their household, exemption from immigration restrictions or alien registration;
 
-- g). the same privileges in respect of currency and exchange facilities as are accorded to the officials of comparable rank forming part of diplomatic missions to the Government concerned;
+- g) the same privileges in respect of currency and exchange facilities as are accorded to the officials of comparable rank forming part of diplomatic missions to the Government concerned;
 
-- h). together with members of their families forming part of their household, the same repatriation facilities in time of international crises as are accorded to diplomatic agents under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
+- h) together with members of their families forming part of their household, the same repatriation facilities in time of international crises as are accorded to diplomatic agents under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
 3. The officials of the Tribunal shall be required to have insurance coverage against third-party risks in respect of vehicles owned or operated by them, as required by the laws and regulations of the State in which the vehicle is operated.
 
 4. The Tribunal shall communicate to all States Parties the categories of officials to which the provisions of this article shall apply. The names of the officials included in these categories shall from time to time be communicated to all States Parties.
 
-##### Article 15. Experts appointed under [article 289 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=289)
+##### Article 15. Experts appointed under article 289 of the Convention
 
 Experts appointed under [article 289 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=289) shall be accorded, during the period of their missions, including the time spent on journeys in connection with their missions, such privileges, immunities and facilities as are necessary for the independent exercise of their functions. In particular, they shall be accorded:
 
-- a). immunity from personal arrest or detention and from seizure of their personal baggage;
+- a) immunity from personal arrest or detention and from seizure of their personal baggage;
 
-- b). exemption from inspection of personal baggage, unless there are serious grounds for believing that the baggage contains articles not for personal use or articles the import or export of which is prohibited by law or controlled by the quarantine regulations of the State Party concerned; an inspection in such a case shall be conducted in the presence of the expert concerned;
+- b) exemption from inspection of personal baggage, unless there are serious grounds for believing that the baggage contains articles not for personal use or articles the import or export of which is prohibited by law or controlled by the quarantine regulations of the State Party concerned; an inspection in such a case shall be conducted in the presence of the expert concerned;
 
-- c). immunity from legal process in respect of words spoken or written and acts done by them in discharging their functions, which immunity shall continue even after they have ceased to exercise their functions;
+- c) immunity from legal process in respect of words spoken or written and acts done by them in discharging their functions, which immunity shall continue even after they have ceased to exercise their functions;
 
-- d). inviolability of documents and papers;
+- d) inviolability of documents and papers;
 
-- e). exemption from immigration restrictions or alien registration;
+- e) exemption from immigration restrictions or alien registration;
 
-- f). the same facilities in respect of currency and exchange restrictions as are accorded to representatives of foreign Governments on temporary official missions;
+- f) the same facilities in respect of currency and exchange restrictions as are accorded to representatives of foreign Governments on temporary official missions;
 
-- g). such experts shall be accorded the same repatriation facilities in time of international crises as are accorded to diplomatic agents under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
+- g) such experts shall be accorded the same repatriation facilities in time of international crises as are accorded to diplomatic agents under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
 ##### Article 16. Agents, counsel and advocates
 
 1. Agents, counsel and advocates before the Tribunal shall be accorded, during the period of their missions, including the time spent on journeys in connection with their missions, the privileges, immunities and facilities necessary for the independent exercise of their functions. In particular, they shall be accorded:
 
-- a). immunity from personal arrest or detention and from seizure of their personal baggage;
+- a) immunity from personal arrest or detention and from seizure of their personal baggage;
 
-- b). exemption from inspection of personal baggage, unless there are serious grounds for believing that the baggage contains articles not for personal use or articles the import or export of which is prohibited by law or controlled by the quarantine regulations of the State Party concerned; an inspection in such a case shall be conducted in the presence of the agent, counsel or advocate concerned;
+- b) exemption from inspection of personal baggage, unless there are serious grounds for believing that the baggage contains articles not for personal use or articles the import or export of which is prohibited by law or controlled by the quarantine regulations of the State Party concerned; an inspection in such a case shall be conducted in the presence of the agent, counsel or advocate concerned;
 
-- c). immunity from legal process in respect of words spoken or written and all acts done by them in discharging their functions, which immunity shall continue even after they have ceased to exercise their functions;
+- c) immunity from legal process in respect of words spoken or written and all acts done by them in discharging their functions, which immunity shall continue even after they have ceased to exercise their functions;
 
-- d). inviolability of documents and papers;
+- d) inviolability of documents and papers;
 
-- e). the right to receive papers or correspondence by courier or in sealed bags;
+- e) the right to receive papers or correspondence by courier or in sealed bags;
 
-- f). exemption from immigration restrictions or alien registration;
+- f) exemption from immigration restrictions or alien registration;
 
-- g). the same facilities in respect of their personal baggage and in respect of currency or exchange restrictions as are accorded to representatives of foreign Governments on temporary official missions;
+- g) the same facilities in respect of their personal baggage and in respect of currency or exchange restrictions as are accorded to representatives of foreign Governments on temporary official missions;
 
-- h). the same repatriation facilities in time of international crises as are accorded to diplomatic agents under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
+- h) the same repatriation facilities in time of international crises as are accorded to diplomatic agents under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
 2. Upon receipt of notification from parties to proceedings before the Tribunal as to the appointment of an agent, counsel or advocate, a certification of the status of such representative shall be provided under the signature of the Registrar and limited to a period reasonably required for the proceedings.
 
@@ -282,9 +251,9 @@ Insofar as the provisions of this Agreement and the provisions of any special ag
 
 1. The Tribunal shall make suitable provisions for the settlement of:
 
-- a). disputes arising out of contracts and other disputes of a private law character to which the Tribunal is a party;
+- a) disputes arising out of contracts and other disputes of a private law character to which the Tribunal is a party;
 
-- b). disputes involving any person referred to in this Agreement who by reason of his official position enjoys immunity, if such immunity has not been waived.
+- b) disputes involving any person referred to in this Agreement who by reason of his official position enjoys immunity, if such immunity has not been waived.
 
 2. All disputes arising out of the interpretation or application of this Agreement shall be referred to an arbitral tribunal unless the parties have agreed to another mode of settlement. If a dispute arises between the Tribunal and a State Party which is not settled by consultation, negotiation or other agreed mode of settlement within three months following a request by one of the parties to the dispute, it shall at the request of either party be referred for final decision to a panel of three arbitrators: one to be chosen by the Tribunal, one to be chosen by the State Party and the third, who shall be Chairman of the panel, to be chosen by the first two arbitrators. If either party has failed to make its appointment of an arbitrator within two months of the appointment of an arbitrator by the other party, the Secretary-General of the United Nations shall make such appointment. Should the first two arbitrators fail to agree upon the appointment of the third arbitrator within three months following the appointment of the first two arbitrators the third arbitrator shall be chosen by the Secretary-General of the United Nations upon the request of the Tribunal or the State Party.
 

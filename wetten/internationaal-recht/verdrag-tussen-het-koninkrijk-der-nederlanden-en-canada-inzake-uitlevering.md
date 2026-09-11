@@ -1,49 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en Canada inzake uitlevering"
 identifier: "BWBV0001047"
-country: "nl"
-rank: "verdrag"
-publication_date: "1991-12-01"
-last_updated: "1991-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001047"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002497613"
-version_id: "10002490882"
-internal_id: "C10006984771"
-label_id: "10002487204"
-dtd_version: "2.0"
-original_entry_into_force: "1991-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001047/1991-12-01/0"
-intitule_bron: "Trb.1989-169"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-10-24"
-intitule_published: "1989-11-29"
-intitule_in_force: "1991-11-29"
-intitule_status: "goed"
-original_publication: "Trb.1989-169"
-original_signed_date: "1991-10-24"
-original_published_date: "1989-11-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1989-169"
-entry_into_force_date: "1991-12-01"
-jci_1_3: "jci1.3:c:BWBV0001047&z=1991-12-01&g=1991-12-01"
-jci_1_0: "1.0:c:BWBV0001047&g=1991-12-01"
-citeertitel_status: "redactioneel"
-signed_date: "1991-10-24"
-entry_into_force: "1991-12-01"
+publicatiedatum: 1991-12-01
+laatste_update: 1991-12-01
+status: geldig
+toestand: 1991-12-01
+bron: "https://wetten.overheid.nl/BWBV0001047"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en Canada inzake uitlevering
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van Canada,
-
-Elkanders rechtsinstellingen eerbiedigend en geleid door de wens de samenwerking tussen beide landen bij de bestrijding van de misdaad doeltreffender te maken door een regeling te treffen voor de uitlevering van delinquenten,
-
-komen het volgende overeen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van Canada, Elkanders rechtsinstellingen eerbiedigend en geleid door de wens de samenwerking tussen beide landen bij de bestrijding van de misdaad doeltreffender te maken door een regeling te treffen voor de uitlevering van delinquenten, komen het volgende overeen:*
 
 ##### Artikel 1. Verplichting tot uitlevering
 
@@ -111,21 +81,21 @@ Uitlevering kan worden geweigerd:
 
 - a. in alle gevallen:
 
-- (i). gegevens betreffende het signalement, de identiteit, de verblijfplaats en de nationaliteit van de opgeëiste persoon;
+   - (i) gegevens betreffende het signalement, de identiteit, de verblijfplaats en de nationaliteit van de opgeëiste persoon;
 
-- (ii). een door een rechterlijk ambtenaar of overheidsfunctionaris opgestelde verklaring betreffende het strafbare feit ter zake waarvan om uitlevering wordt verzocht, onder vermelding van de plaats en het tijdstip waarop het is gepleegd, de aard van het feit en de wettelijke bepalingen waarin het delict is omschreven, alsmede de toepasselijke straf;
+   - (ii) een door een rechterlijk ambtenaar of overheidsfunctionaris opgestelde verklaring betreffende het strafbare feit ter zake waarvan om uitlevering wordt verzocht, onder vermelding van de plaats en het tijdstip waarop het is gepleegd, de aard van het feit en de wettelijke bepalingen waarin het delict is omschreven, alsmede de toepasselijke straf;
 
 - b. in geval van een persoon die wordt verdacht van een strafbaar feit:
 
-- (i). het origineel of een voor eensluidend gewaarmerkt afschrift van het bevel tot aanhouding, uitgevaardigd in de verzoekende Staat;
+   - (i) het origineel of een voor eensluidend gewaarmerkt afschrift van het bevel tot aanhouding, uitgevaardigd in de verzoekende Staat;
 
-- (ii). ter ondersteuning van verzoeken van het Koninkrijk der Nederlanden, bewijsmateriaal dat verwijzing naar de terechtzitting van de opgeëiste persoon zou rechtvaardigen. Daartoe worden originelen of voor eensluidend gewaarmerkte afschriften van bewijsstukken, verklaringen en samenvattingen van verklaringen, processen-verbaal of enig ander stuk, ongeacht of deze onder ede of belofte zijn afgelegd of opgemaakt, en ongeacht of deze in het Koninkrijk der Nederlanden of elders zijn verkregen, als bewijsmiddel erkend ten bewijze van de feiten die zij bevatten, indien een rechter-commissaris verklaart dat zij naar Nederlands recht toelaatbaar bewijs vormen en zij aan de uitvaardiging van het bevel tot aanhouding ten grondslag lagen.
+   - (ii) ter ondersteuning van verzoeken van het Koninkrijk der Nederlanden, bewijsmateriaal dat verwijzing naar de terechtzitting van de opgeëiste persoon zou rechtvaardigen. Daartoe worden originelen of voor eensluidend gewaarmerkte afschriften van bewijsstukken, verklaringen en samenvattingen van verklaringen, processen-verbaal of enig ander stuk, ongeacht of deze onder ede of belofte zijn afgelegd of opgemaakt, en ongeacht of deze in het Koninkrijk der Nederlanden of elders zijn verkregen, als bewijsmiddel erkend ten bewijze van de feiten die zij bevatten, indien een rechter-commissaris verklaart dat zij naar Nederlands recht toelaatbaar bewijs vormen en zij aan de uitvaardiging van het bevel tot aanhouding ten grondslag lagen.
 
 - c. In geval van een persoon die wordt gezocht voor de tenuitvoerlegging van een vonnis:
 
-- (i). het origineel of een voor eensluidend gewaarmerkt afschrift van het vonnis of een ander stuk waaruit de veroordeling en de opgelegde straf blijken;
+   - (i) het origineel of een voor eensluidend gewaarmerkt afschrift van het vonnis of een ander stuk waaruit de veroordeling en de opgelegde straf blijken;
 
-- (ii). indien een gedeelte van de straf reeds is ondergaan, een verklaring van een overheidsfunctionaris waarin het gedeelte dat nog moet worden ondergaan, is vermeld.
+   - (ii) indien een gedeelte van de straf reeds is ondergaan, een verklaring van een overheidsfunctionaris waarin het gedeelte dat nog moet worden ondergaan, is vermeld.
 
 - d. ter ondersteuning van verzoeken van Canada met betrekking tot een persoon die is veroordeeld, doch aan wie nog geen straf is opgelegd, het origineel of een voor eensluidend gewaarmerkt afschrift van het bevel tot aanhouding en het origineel of een voor eensluidend gewaarmerkt afschrift van een stuk waaruit blijkt dat de betrokkene is veroordeeld en dat een straf zal worden opgelegd.
 

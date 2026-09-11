@@ -1,90 +1,59 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Albanië inzake luchtdiensten tussen en via hun onderscheiden grondgebieden"
 identifier: "BWBV0001285"
-country: "nl"
-rank: "verdrag"
-publication_date: "1998-07-01"
-last_updated: "1998-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001285"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000155483"
-version_id: "10000155932"
-internal_id: "C10006987611"
-label_id: "10000155844"
-original_entry_into_force: "1998-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001285/1998-07-01/0"
-intitule_bron: "Trb.1996-286"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-04-23"
-intitule_published: "1996-10-18"
-intitule_in_force: "1998-06-17"
-intitule_status: "goed"
-original_publication: "Trb.1996-286"
-original_signed_date: "1997-04-23"
-original_published_date: "1996-10-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1996-286"
-entry_into_force_date: "1998-07-01"
-jci_1_3: "jci1.3:c:BWBV0001285&z=1998-07-01&g=1998-07-01"
-jci_1_0: "1.0:c:BWBV0001285&g=1998-07-01"
-citeertitel_status: "officieel"
-signed_date: "1997-04-23"
-entry_into_force: "1998-07-01"
+publicatiedatum: 1998-07-01
+laatste_update: 1998-07-01
+status: geldig
+toestand: 1998-07-01
+bron: "https://wetten.overheid.nl/BWBV0001285"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Albanië inzake luchtdiensten tussen en via hun onderscheiden grondgebieden
 
-The Kingdom of the Netherlands and
-
-the Republic of Albania,
-
-being parties to the Convention on International Civil Aviation opened for signature at Chicago on 7 December 1944;
-
-desiring to contribute to the progress of international civil aviation;
-
-desiring to conclude an Agreement for the purpose of establishing air services between and beyond their respective territories;
-
-have agreed as follows:
+*The Kingdom of the Netherlands and the Republic of Albania, being parties to the Convention on International Civil Aviation opened for signature at Chicago on 7 December 1944; desiring to contribute to the progress of international civil aviation; desiring to conclude an Agreement for the purpose of establishing air services between and beyond their respective territories; have agreed as follows:*
 
 ##### Article 1. Definitions
 
 For the purpose of this Agreement and its Annex, unless the context otherwise requires:
 
-- a). the term “the Convention” means the Convention on International Civil Aviation, opened for signature at Chicago on 7 December 1944, and includes any Annex adopted under Article 90 of that Convention and any amendment of the Annexes or the Convention under Articles 90 and 94 thereof, insofar as those Annexes and amendments have become effective for, or been ratified by both Contracting Parties;
+- a) the term “the Convention” means the Convention on International Civil Aviation, opened for signature at Chicago on 7 December 1944, and includes any Annex adopted under Article 90 of that Convention and any amendment of the Annexes or the Convention under Articles 90 and 94 thereof, insofar as those Annexes and amendments have become effective for, or been ratified by both Contracting Parties;
 
-- b). the term “aeronautical authorities” means: for the Kingdom of the Netherlands the Minister of Transport, Public Works and Water Management; for the Republic of Albania the Minister of Industry, Transport and Trade; or in either case any person or body authorized to perform any functions at present exercised by the said Minister;
+- b) the term “aeronautical authorities” means: for the Kingdom of the Netherlands the Minister of Transport, Public Works and Water Management; for the Republic of Albania the Minister of Industry, Transport and Trade; or in either case any person or body authorized to perform any functions at present exercised by the said Minister;
 
-- c). the term “designated airline” means an airline which has been designated and authorized in accordance with Article 4 of this Agreement;
+- c) the term “designated airline” means an airline which has been designated and authorized in accordance with Article 4 of this Agreement;
 
-- d). the term “territory” in relation to a State has the meaning assigned to it in Article 2 of the Convention;
+- d) the term “territory” in relation to a State has the meaning assigned to it in Article 2 of the Convention;
 
-- e). the terms “air service”, “international air service”, “airline” and “stop for non-traffic purposes” have the meaning respectively assigned to them in Article 96 of the Convention;
+- e) the terms “air service”, “international air service”, “airline” and “stop for non-traffic purposes” have the meaning respectively assigned to them in Article 96 of the Convention;
 
-- f). the terms “agreed service” and “specified route” mean international air service pursuant to [Article 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001285&artikel=2&z=1998-07-01&g=1998-07-01) of this Agreement and the route specified in the appropriate Section of the Annex to this Agreement respectively;
+- f) the terms “agreed service” and “specified route” mean international air service pursuant to [Article 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001285&artikel=2&z=1998-07-01&g=1998-07-01) of this Agreement and the route specified in the appropriate Section of the Annex to this Agreement respectively;
 
-- g). the term “stores” means articles of a readily consumable nature for use or sale on board an aircraft during flight, including commissary supplies;
+- g) the term “stores” means articles of a readily consumable nature for use or sale on board an aircraft during flight, including commissary supplies;
 
-- h). the term “Agreement” means this Agreement, its Annex drawn up in application thereof, and any amendments to the Agreement or to the Annex;
+- h) the term “Agreement” means this Agreement, its Annex drawn up in application thereof, and any amendments to the Agreement or to the Annex;
 
-- i). the term “tariff” means any amount charged or to be charged by airlines, directly or through their agents, to any person or entity for the carriage of passengers (and their baggage) and cargo (excluding mail) in air transportation, including:
+- i) the term “tariff” means any amount charged or to be charged by airlines, directly or through their agents, to any person or entity for the carriage of passengers (and their baggage) and cargo (excluding mail) in air transportation, including:
 
-- I). the conditions governing the availability and applicability of a tariff, and
+   - I) the conditions governing the availability and applicability of a tariff, and
 
-- II). the charges and conditions for any services ancillary to such carriage which are offered by airlines;
+   - II) the charges and conditions for any services ancillary to such carriage which are offered by airlines;
 
-- j). the term “change of aircraft” means the operation of one of the agreed services by a designated airline in such a way that one or more sectors of the route are flown by aircraft different in capacity from those used on another sector;
+- j) the term “change of aircraft” means the operation of one of the agreed services by a designated airline in such a way that one or more sectors of the route are flown by aircraft different in capacity from those used on another sector;
 
-- k). the term “Computer Reservation System” (CRS) means a computerized system containing information about airline schedules, seat availability, fares and related services and through which reservations can be made and/or tickets can be issued and which makes some or all of these facilities available to travel agents.
+- k) the term “Computer Reservation System” (CRS) means a computerized system containing information about airline schedules, seat availability, fares and related services and through which reservations can be made and/or tickets can be issued and which makes some or all of these facilities available to travel agents.
 
 ##### Article 2. Grant of Rights
 
-1. Each Contracting Party grants to the other Contracting Party except as otherwise specified in the Annex the following rights for the conduct of international air transportation by the designated airline of the other Contracting Party:
+1. Each Contracting Party grants to the other Contracting Party except as otherwise specified in the [Annex](https://wetten.overheid.nl/BWBV0001285) the following rights for the conduct of international air transportation by the designated airline of the other Contracting Party:
 
-- a). the right to fly across its territory without landing;
+- a) the right to fly across its territory without landing;
 
-- b). the right to make stops in its territory for non-traffic purposes; and
+- b) the right to make stops in its territory for non-traffic purposes; and
 
-- c). while operating an agreed service on a specified route, the right to make stops in its territory for the purpose of taking up and discharging international traffic in passengers, cargo and mail, separately or in combination.
+- c) while operating an agreed service on a specified route, the right to make stops in its territory for the purpose of taking up and discharging international traffic in passengers, cargo and mail, separately or in combination.
 
 2. Nothing in paragraph 1 of this Article shall be deemed to grant the right for one Contracting Party's airline to participate in air transportation between points in the territory of the other Contracting Party.
 
@@ -92,9 +61,9 @@ For the purpose of this Agreement and its Annex, unless the context otherwise re
 
 1. Each designated airline may on any or all flights on the agreed services and at its option, change aircraft in the territory of the other Contracting Party or at any point along the specified routes, provided that:
 
-- a). aircraft used beyond the point of change of aircraft shall be scheduled in coincidence with the inbound or outbound aircraft, as the case may be;
+- a) aircraft used beyond the point of change of aircraft shall be scheduled in coincidence with the inbound or outbound aircraft, as the case may be;
 
-- b). in the case of change of aircraft in the territory of the other Contracting Party and when more than one aircraft is operated beyond the point of change, not more than one such aircraft may be of equal size and none may be larger than the aircraft used on the third and fourth freedom sector.
+- b) in the case of change of aircraft in the territory of the other Contracting Party and when more than one aircraft is operated beyond the point of change, not more than one such aircraft may be of equal size and none may be larger than the aircraft used on the third and fourth freedom sector.
 
 2. For the purpose of change of aircraft operations, a designated airline may use its own equipment and, subject to national regulations, leased equipment, and may operate under commercial arrangements with another airline.
 
@@ -102,7 +71,7 @@ For the purpose of this Agreement and its Annex, unless the context otherwise re
 
 ##### Article 4. Designation and Authorization
 
-1. Each Contracting Party shall have the right by written notification through diplomatic channels to the other Contracting Party to designate an airline to operate air services on the routes specified in the Annex and to substitute another airline for an airline previously designated.
+1. Each Contracting Party shall have the right by written notification through diplomatic channels to the other Contracting Party to designate an airline to operate air services on the routes specified in the [Annex](https://wetten.overheid.nl/BWBV0001285) and to substitute another airline for an airline previously designated.
 
 2. On receipt of such notification, each Contracting Party shall, without delay, grant to the airline so designated by the other Contracting Party the appropriate operating authorizations subject to the provisions of this Article.
 
@@ -114,13 +83,13 @@ For the purpose of this Agreement and its Annex, unless the context otherwise re
 
 1. The Contracting Parties shall have the right to withhold the authorizations referred to in [Article 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001285&artikel=4&z=1998-07-01&g=1998-07-01) with respect to an airline designated by the other Contracting Party, to revoke or suspend such authorizations or impose conditions:
 
-- a). in the event of failure by such airline to qualify before the aeronautical authorities of that Contracting Party under the laws and regulations normally and reasonably applied by these authorities in conformity with the Convention;
+- a) in the event of failure by such airline to qualify before the aeronautical authorities of that Contracting Party under the laws and regulations normally and reasonably applied by these authorities in conformity with the Convention;
 
-- b). in the event of failure by such airline to comply with the laws and regulations of that Contracting Party;
+- b) in the event of failure by such airline to comply with the laws and regulations of that Contracting Party;
 
-- c). in the event that they are not satisfied that substantial ownership and effective control of the airline are vested in the Contracting Party designating the airline or in its nationals or in both;
+- c) in the event that they are not satisfied that substantial ownership and effective control of the airline are vested in the Contracting Party designating the airline or in its nationals or in both;
 
-- d). in case the airline otherwise fails to operate in accordance with the conditions prescribed under this Agreement.
+- d) in case the airline otherwise fails to operate in accordance with the conditions prescribed under this Agreement.
 
 2. Unless immediate action is essential to prevent further infringement of the laws and regulations referred to above, the rights enumerated in paragraph 1 of this Article shall be exercised only after consultations with the aeronautical authorities of the other Contracting Party. Unless otherwise agreed by the Contracting Parties, such consultations shall begin within a period of sixty (60) days from the date of receipt of the request.
 
@@ -148,9 +117,9 @@ In the event of the period for submission being reduced, as provided for in para
 
 1. The designated airlines of both Contracting Parties shall be allowed:
 
-- a). to establish in the territory of the other Contracting Party offices for the promotion of air transportation and sale of air tickets as well as other facilities required for the provision of air transportation;
+- a) to establish in the territory of the other Contracting Party offices for the promotion of air transportation and sale of air tickets as well as other facilities required for the provision of air transportation;
 
-- b). in the territory of the other Contracting Party to engage directly and, at that airline's discretion, through its agents in the sale of air transportation.
+- b) in the territory of the other Contracting Party to engage directly and, at that airline's discretion, through its agents in the sale of air transportation.
 
 2. The designated airline of one Contracting Party shall be allowed to bring in and maintain in the territory of the other Contracting Party its managerial, commercial, operational and technical staff as it may require in connection with the provision of air transportation.
 
@@ -238,29 +207,29 @@ Each Contracting Party, however, reserves the right to refuse to recognize, for 
 
 1. The Contracting Parties agree that:
 
-- a). the interest of consumers of air transport products will be protected from any misuse of such information including misleading presentation thereof;
+- a) the interest of consumers of air transport products will be protected from any misuse of such information including misleading presentation thereof;
 
-- b). the designated airline of a Contracting Party and the airline's agents will have unrestricted and non-discriminatory access to and use of CRS's in the territory of the other Contracting Party;
+- b) the designated airline of a Contracting Party and the airline's agents will have unrestricted and non-discriminatory access to and use of CRS's in the territory of the other Contracting Party;
 
-- c). in this respect the CRS Code of Conduct adopted by the EEC shall prevail in the territory of the Netherlands, whereas in the territory of the Republic of Albania the prevailing code of conduct shall be applicable.
+- c) in this respect the CRS Code of Conduct adopted by the EEC shall prevail in the territory of the Netherlands, whereas in the territory of the Republic of Albania the prevailing code of conduct shall be applicable.
 
 2. A Contracting Party guarantees to the CRS chosen as its primary system by the designated airline of the other Contracting Party free and unimpaired access in its territory. Neither Contracting Party shall, in its territory, impose or permit to be imposed on the CRS of the designated airline of the other Contracting Party more stringent requirements than those imposed on the CRS of its own designated airline, such as with respect to:
 
-- a). the operation and sale of the CRS services including CRS display and editing rules, and
+- a) the operation and sale of the CRS services including CRS display and editing rules, and
 
-- b). the access to and use of communications facilities, selection and use of technical hardware and software or the installation of hardware.
+- b) the access to and use of communications facilities, selection and use of technical hardware and software or the installation of hardware.
 
 ##### Article 17. Consultation and Amendment
 
 1. In a spirit of close cooperation the aeronautical authorities of the Contracting Parties shall consult each other from time to time with a view to ensuring the implementation of, and satisfactory compliance with, the provisions of this Agreement.
 
-2. Either Contracting Party may request consultations with a view to modify the present Agreement or its Annex. These consultations shall begin within sixty (60) days from the date of the receipt of the request by the other Contracting Party, unless otherwise agreed.
+2. Either Contracting Party may request consultations with a view to modify the present Agreement or its [Annex](https://wetten.overheid.nl/BWBV0001285). These consultations shall begin within sixty (60) days from the date of the receipt of the request by the other Contracting Party, unless otherwise agreed.
 
 Such consultations may be conducted through discussion or by correspondence.
 
 3. Any modification to the present Agreement agreed upon by the Contracting Parties, shall come into force on the date on which the Contracting Parties have informed each other in writing of the completion of their respective constitutional requirements.
 
-4. Any modification of the Annex to the present Agreement shall be agreed upon in writing between the aeronautical authorities and shall take effect on a date to be determined by the said authorities.
+4. Any modification of the [Annex](https://wetten.overheid.nl/BWBV0001285) to the present Agreement shall be agreed upon in writing between the aeronautical authorities and shall take effect on a date to be determined by the said authorities.
 
 ##### Article 18. Settlement of Disputes
 
@@ -298,10 +267,10 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their resp
 
 DONE in duplicate at The Hague, 25 September 1996, in the English language, each version being equally authentic.
 
-**For the Kingdom of the Netherlands**
+*For the Kingdom of the Netherlands*
 
 (sd.) J. W. WECK
 
-**For the Republic of Albania**
+*For the Republic of Albania*
 
 (sd.) S. PANARITI

@@ -1,48 +1,19 @@
 ---
 title: "Verdrag inzake technische en financiële samenwerking tussen het Koninkrijk der Nederlanden en Georgië"
 identifier: "BWBV0001419"
-country: "nl"
-rank: "verdrag"
-publication_date: "2000-04-05"
-last_updated: "2000-04-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001419"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000564883"
-version_id: "10000582972"
-internal_id: "C10006991811"
-label_id: "10000565084"
-original_entry_into_force: "2000-04-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001419/2000-04-05/0"
-intitule_bron: "Trb.1999-124"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-11-15"
-intitule_published: "1999-07-16"
-intitule_in_force: "2000-10-30"
-intitule_status: "goed"
-original_publication: "Trb.1999-124"
-original_signed_date: "1999-11-15"
-original_published_date: "1999-07-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1999-124"
-entry_into_force_date: "2000-04-05"
-jci_1_3: "jci1.3:c:BWBV0001419&z=2000-04-05&g=2000-04-05"
-jci_1_0: "1.0:c:BWBV0001419&g=2000-04-05"
-citeertitel_status: "officieel"
-signed_date: "1999-11-15"
-entry_into_force: "2000-04-05"
+publicatiedatum: 2000-04-05
+laatste_update: 2000-04-05
+status: geldig
+toestand: 2000-04-05
+bron: "https://wetten.overheid.nl/BWBV0001419"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag inzake technische en financiële samenwerking tussen het Koninkrijk der Nederlanden en Georgië
 
-De Regering van het Koninkrijk der Nederlanden en de Bevoegde Autoriteit van Georgië (hierna te noemen „de Partijen"
-
-Opnieuw de vriendschappelijke betrekkingen tussen de beide landen en hun volken bevestigend;
-
-Indachtig het feit dat respect voor de democratische grondbeginselen, de algemene grondbeginselen van het volkenrecht en de mensenrechten de basis vormen voor de betrekkingen tussen de twee landen;
-
-Geleid door de wens samen te werken met het doel de economische en sociale gevolgen van de structurele aanpassing van de Georgische economie te verzachten en de sociale en economische omstandigheden in Georgië te verbeteren teneinde de ontwikkeling van een vrijemarkteconomie te bevorderen door middel van projecten en programma's en met dat oogmerk, in aanvulling op de inspanningen van Georgië, een juridisch en administratief kader te scheppen voor de tewerkstelling van personeelsleden en de invoer van middelen vanuit het Koninkrijk der Nederlanden in Georgië;
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Bevoegde Autoriteit van Georgië (hierna te noemen „de Partijen" Opnieuw de vriendschappelijke betrekkingen tussen de beide landen en hun volken bevestigend; Indachtig het feit dat respect voor de democratische grondbeginselen, de algemene grondbeginselen van het volkenrecht en de mensenrechten de basis vormen voor de betrekkingen tussen de twee landen; Geleid door de wens samen te werken met het doel de economische en sociale gevolgen van de structurele aanpassing van de Georgische economie te verzachten en de sociale en economische omstandigheden in Georgië te verbeteren teneinde de ontwikkeling van een vrijemarkteconomie te bevorderen door middel van projecten en programma's en met dat oogmerk, in aanvulling op de inspanningen van Georgië, een juridisch en administratief kader te scheppen voor de tewerkstelling van personeelsleden en de invoer van middelen vanuit het Koninkrijk der Nederlanden in Georgië; Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
@@ -60,21 +31,21 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - 1. „middelen": onder andere voor Georgië om niet verkregen door of namens het Koninkrijk der Nederlanden in het kader van de projecten en programma's.
 
-- a. vermogen;
+   - a. vermogen;
 
-- b. goederen, verbruiksartikelen, machines en uitrusting;
+   - b. goederen, verbruiksartikelen, machines en uitrusting;
 
-- c. diensten;
+   - c. diensten;
 
-- d. immateriële rechten, met inbegrip van intellectuele eigendomsrechten;
+   - d. immateriële rechten, met inbegrip van intellectuele eigendomsrechten;
 
 - 2. „personeelsleden": personen die geen staatsburgers of vaste ingezetenen zijn van Georgië: met betrekking tot wie de in artikel 5 beschreven procedure is voltooid.
 
-- a. tewerkgesteld door het Koninkrijk der Nederlanden; of
+   - a. tewerkgesteld door het Koninkrijk der Nederlanden; of
 
-- b. tewerkgesteld door ondernemingen of instellingen waarmee het Koninkrijk der Nederlanden of Georgië een overeenkomst heeft gesloten voor de uitvoering van de projecten en programma's; of
+   - b. tewerkgesteld door ondernemingen of instellingen waarmee het Koninkrijk der Nederlanden of Georgië een overeenkomst heeft gesloten voor de uitvoering van de projecten en programma's; of
 
-- c. tewerkgesteld door Georgië als suppletie-deskundigen;
+   - c. tewerkgesteld door Georgië als suppletie-deskundigen;
 
 - 3. „gezinsleden": partners van de personeelsleden en familieleden die afhankelijk zijn van de personeelsleden en deel uitmaken van hun huishouden.
 
@@ -176,10 +147,10 @@ Georgië deelt het Koninkrijk der Nederlanden binnen een maand schriftelijk mee 
 
 GEDAAN te 's-Gravenhage op 23 juni 1999, in tweevoud in de Nederlandse, de Georgische en de Engelse taal. In geval van verschil in interpretatie is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) W. KOK
 
-**Voor de Bevoegde Autoriteit van Georgië**
+*Voor de Bevoegde Autoriteit van Georgië*
 
 (w.g.) E. SHEVARDNADZE

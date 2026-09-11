@@ -1,53 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Jemen inzake geregelde luchtdiensten tussen en via hun onderscheiden grondgebieden"
 identifier: "BWBV0001120"
-country: "nl"
-rank: "verdrag"
-publication_date: "1998-06-24"
-last_updated: "1998-06-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001120"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10001600843"
-version_id: "10001679172"
-internal_id: "C10006977521"
-label_id: "10001601104"
-dtd_version: "2.0"
-original_entry_into_force: "1998-06-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001120/1998-06-24/0"
-intitule_bron: "Trb.1994-60"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-02-01"
-intitule_published: "1994-03-16"
-intitule_in_force: "1998-07-22"
-intitule_status: "goed"
-original_publication: "Trb.1994-60"
-original_signed_date: "1994-02-01"
-original_published_date: "1994-03-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1994-60"
-entry_into_force_date: "1998-06-24"
-jci_1_3: "jci1.3:c:BWBV0001120&z=1998-06-24&g=1998-06-24"
-jci_1_0: "1.0:c:BWBV0001120&g=1998-06-24"
-citeertitel_status: "redactioneel"
-signed_date: "1994-02-01"
-entry_into_force: "1998-06-24"
+publicatiedatum: 1998-06-24
+laatste_update: 1998-06-24
+status: geldig
+toestand: 1998-06-24
+bron: "https://wetten.overheid.nl/BWBV0001120"
+opgehaald: 2026-09-11
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Jemen inzake geregelde luchtdiensten tussen en via hun onderscheiden grondgebieden
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Republiek Jemen,
-
-partij zijnde bij het Verdrag inzake de internationale burgerluchtvaart, op 7 december 1944 te Chicago voor ondertekening opengesteld,
-
-Geleid door de wens bij te dragen aan de vooruitgang van de internationale burgerluchtvaart,
-
-Geleid door de wens een overeenkomst te sluiten met het doel geregelde luchtdiensten in te stellen tussen en via hun onderscheiden grondgebieden,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Republiek Jemen, partij zijnde bij het Verdrag inzake de internationale burgerluchtvaart, op 7 december 1944 te Chicago voor ondertekening opengesteld, Geleid door de wens bij te dragen aan de vooruitgang van de internationale burgerluchtvaart, Geleid door de wens een overeenkomst te sluiten met het doel geregelde luchtdiensten in te stellen tussen en via hun onderscheiden grondgebieden, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -71,9 +37,9 @@ Tenzij het zinsverband anders vereist, hebben in deze Overeenkomst en de Bijlage
 
 - i. onder „tarief" wordt verstaan: elk bedrag in rekening gebracht of in rekening te brengen door de luchtvaartmaatschappijen, rechtstreeks of via hun agenten, aan alle natuurlijke personen of rechtspersonen voor het vervoer door de lucht van passagiers (en hun bagage) en vracht (post uitgezonderd), daarbij inbegrepen:
 
-- I. de voorwaarden betreffende het beschikbaar zijn en het van toepassing zijn van een tarief, en
+   - I. de voorwaarden betreffende het beschikbaar zijn en het van toepassing zijn van een tarief, en
 
-- II. de heffingen en voorwaarden voor alle bij zulk vervoer bijkomende diensten die door of namens de luchtvaartmaatschappijen worden aangeboden;
+   - II. de heffingen en voorwaarden voor alle bij zulk vervoer bijkomende diensten die door of namens de luchtvaartmaatschappijen worden aangeboden;
 
 ##### Artikel 2. Verlening van rechten
 
@@ -253,7 +219,7 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun 
 
 GEDAAN te Sana'a op 1 februari 1994 in de Nederlandse, de Arabische en de Engelse taal, zijnde de drie teksten gelijkelijk authentiek. In geval van verschillen is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 de Minister van Buitenlandse Zaken,
 
@@ -261,7 +227,7 @@ de Minister van Buitenlandse Zaken,
 
 Dr. P. H. Kooijmans
 
-**Voor de Regering van de Republiek Jemen,**
+*Voor de Regering van de Republiek Jemen,*
 
 de Voorzitter van de Civil Aviation and Meteorology Authority,
 

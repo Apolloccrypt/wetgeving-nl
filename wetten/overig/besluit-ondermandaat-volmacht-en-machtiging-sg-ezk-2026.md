@@ -1,18 +1,18 @@
 ---
-title: "Besluit ondermandaat, volmacht en machtiging SG EZK 2026"
+title: "Besluit van de van de secretaris-generaal van het Ministerie van Economische Zaken en Klimaat van 19 mei 2026, nr. WJZ/106344637, tot verlening van ondermandaat, volmacht en machtiging (Besluit ondermandaat, volmacht en machtiging SG EZK 2026)"
+citeertitel: "Besluit ondermandaat, volmacht en machtiging SG EZK 2026"
 identifier: "BWBR0052648"
-categorie: "Overig"
+categorie: "Milieu"
+soort: "ministeriele-regeling"
 publicatiedatum: 2026-05-28
 laatste_update: 2026-05-28
 status: geldig
+toestand: 2026-05-28
 bron: "https://wetten.overheid.nl/BWBR0052648"
+opgehaald: 2026-09-11
 ---
 
 # Besluit van de van de secretaris-generaal van het Ministerie van Economische Zaken en Klimaat van 19 mei 2026, nr. WJZ/106344637, tot verlening van ondermandaat, volmacht en machtiging (Besluit ondermandaat, volmacht en machtiging SG EZK 2026)
-
-Gelet op [artikel 13 van het Besluit mandaat, volmacht en machtiging EZK 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&artikel=13);
-
-Besluit:
 
 ##### Artikel 1
 
@@ -32,7 +32,7 @@ Aan de plaatsvervangend secretaris-generaal van het Ministerie van Economische Z
 
 - g. het toekennen van financiële tegemoetkomingen op grond van het VWNW;
 
-- h. het toekennen van schadeloosstellingen, vergoedingen en overige geldelijke tegemoetkomingen boven een bedrag van € 10.000;
+- h. het toekennen van schadeloosstellingen, vergoedingen en overige geldelijke tegemoetkomingen boven een bedrag van € 10.000;
 
 - i. het opleggen van straffen als bedoeld in hoofdstuk 15 van de CAO Rijk;
 
@@ -56,10 +56,8 @@ Het [Besluit ondermandaat, volmacht en machtiging plaatsvervangend secretaris-ge
 
 ##### Artikel 6
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 augustus 2025.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 augustus 2025.
 
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging SG EZK 2026.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

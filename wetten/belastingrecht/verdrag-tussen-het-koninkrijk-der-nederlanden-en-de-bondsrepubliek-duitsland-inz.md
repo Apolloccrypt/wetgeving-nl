@@ -1,49 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de wederzijdse administratieve bijstand bij de invordering van belastingschulden en de uitreiking van documenten"
 identifier: "BWBV0001478"
-country: "nl"
-rank: "verdrag"
-publication_date: "2001-06-23"
-last_updated: "2001-06-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001478"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10000187013"
-version_id: "10000187382"
-internal_id: "C10009546361"
-label_id: "10000187314"
-dtd_version: "2.0"
-original_entry_into_force: "2001-06-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001478/2001-06-23/0"
-intitule_bron: "Trb.1999-113"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-05-21"
-intitule_published: "1999-07-02"
-intitule_in_force: "2001-06-22"
-intitule_status: "goed"
-original_publication: "Trb.1999-113"
-original_signed_date: "1999-05-21"
-original_published_date: "1999-07-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1999-113"
-entry_into_force_date: "2001-06-23"
-jci_1_3: "jci1.3:c:BWBV0001478&z=2001-06-23&g=2001-06-23"
-jci_1_0: "1.0:c:BWBV0001478&g=2001-06-23"
-citeertitel_status: "officieel"
-signed_date: "1999-05-21"
-entry_into_force: "2001-06-23"
+publicatiedatum: 2001-06-23
+laatste_update: 2001-06-23
+status: geldig
+toestand: 2001-06-23
+bron: "https://wetten.overheid.nl/BWBV0001478"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de wederzijdse administratieve bijstand bij de invordering van belastingschulden en de uitreiking van documenten
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Bondsrepubliek Duitsland
-
-Geleid door de wens om elkaar bij de invordering van belastingvorderingen en bij de uitreiking van documenten administratieve bijstand te verlenen,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland Geleid door de wens om elkaar bij de invordering van belastingvorderingen en bij de uitreiking van documenten administratieve bijstand te verlenen, Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. REIKWIJDTE VAN HET VERDRAG
 
@@ -61,27 +31,27 @@ Zijn het volgende overeengekomen:
 
 - a. in Duitsland:
 
-- –. die Einkommensteuer (de inkomstenbelasting),
+   - – die Einkommensteuer (de inkomstenbelasting),
 
-- –. die Körperschaftsteuer (de vennootschapsbelasting),
+   - – die Körperschaftsteuer (de vennootschapsbelasting),
 
-- –. die Vermögensteuer (de vermogensbelasting),
+   - – die Vermögensteuer (de vermogensbelasting),
 
-- –. die Gewerbesteuer (de ondernemingsbelasting),
+   - – die Gewerbesteuer (de ondernemingsbelasting),
 
-- –. der Solidaritätszuschlag auf die Einkommensteuer und die Körperschaftsteuer (de solidariteitstoeslag op de inkomstenbelasting en op de vennootschapsbelasting);
+   - – der Solidaritätszuschlag auf die Einkommensteuer und die Körperschaftsteuer (de solidariteitstoeslag op de inkomstenbelasting en op de vennootschapsbelasting);
 
 - b. in Nederland:
 
-- –. de inkomstenbelasting,
+   - – de inkomstenbelasting,
 
-- –. de loonbelasting,
+   - – de loonbelasting,
 
-- –. de vennootschapsbelasting, daaronder begrepen het aandeel van de Staat in de netto winsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de Mijnwet 1810 met betrekking tot concessies uitgegeven vanaf 1967, of geheven krachtens de Mijnwet continentaal plat 1965,
+   - – de vennootschapsbelasting, daaronder begrepen het aandeel van de Staat in de netto winsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de Mijnwet 1810 met betrekking tot concessies uitgegeven vanaf 1967, of geheven krachtens de Mijnwet continentaal plat 1965,
 
-- –. de dividendbelasting,
+   - – de dividendbelasting,
 
-- –. de vermogensbelasting.
+   - – de vermogensbelasting.
 
 2. Het Verdrag is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die na de ondertekening van het Verdrag naast of in de plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de Verdragsluitende Staten doen elkaar mededeling van alle van betekenis zijnde wijzigingen die in hun respectievelijke belastingwetgevingen zijn aangebracht.
 
@@ -109,15 +79,15 @@ Zijn het volgende overeengekomen:
 
 - h. betekent de uitdrukking „onderdaan”:
 
-- aa. met betrekking tot de Bondsrepubliek Duitsland alle Duitsers in de zin van de Grondwet van de Bondsrepubliek Duitsland en alle rechtspersonen, vennootschappen en verenigingen van personen, die hun rechtspositie als zodanig ontlenen aan de wetgeving die in de Bondsrepubliek Duitsland van kracht is;
+   - aa. met betrekking tot de Bondsrepubliek Duitsland alle Duitsers in de zin van de Grondwet van de Bondsrepubliek Duitsland en alle rechtspersonen, vennootschappen en verenigingen van personen, die hun rechtspositie als zodanig ontlenen aan de wetgeving die in de Bondsrepubliek Duitsland van kracht is;
 
-- bb. met betrekking tot Nederland alle natuurlijke personen die de Nederlandse nationaliteit bezitten en alle rechtspersonen, vennootschappen en verenigingen van personen, die hun rechtspositie als zodanig ontlenen aan de wetgeving die in Nederland van kracht is;
+   - bb. met betrekking tot Nederland alle natuurlijke personen die de Nederlandse nationaliteit bezitten en alle rechtspersonen, vennootschappen en verenigingen van personen, die hun rechtspositie als zodanig ontlenen aan de wetgeving die in Nederland van kracht is;
 
 - i. betekent de uitdrukking „bevoegde autoriteit”:
 
-- aa. voor de Bondsrepubliek Duitsland, het „Bundesministerium der Finanzen” of de autoriteit waaraan het zijn bevoegdheden heeft gedelegeerd;
+   - aa. voor de Bondsrepubliek Duitsland, het „Bundesministerium der Finanzen” of de autoriteit waaraan het zijn bevoegdheden heeft gedelegeerd;
 
-- bb. voor Nederland, de Minister van Financiën of zijn bevoegde vertegenwoordiger.
+   - bb. voor Nederland, de Minister van Financiën of zijn bevoegde vertegenwoordiger.
 
 2. Voor de toepassing van het Verdrag door een Verdragsluitende Staat heeft, tenzij het zinsverband anders vereist, elke in het Verdrag niet omschreven uitdrukking de betekenis die die uitdrukking heeft volgens de wetgeving van die Verdragsluitende Staat met betrekking tot de belastingen waarop het Verdrag van toepassing is. Tot de wetgeving van de Verdragsluitende Staten behoort ook de tussen de beide Staten bestaande Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot het vermijden van dubbele belasting op het gebied van belastingen van het inkomen en van het vermogen alsmede van verscheidene andere belastingen en tot het regelen van andere aangelegenheden op belastinggebied of een verdrag dat daarvoor in de plaats treedt.
 
@@ -291,10 +261,10 @@ Dit Verdrag geldt voor onbepaalde tijd; het kan evenwel door elk van de Verdrags
 
 GEDAAN te 's-Gravenhage op 21 mei 1999, in de Nederlandse en in de Duitse taal, in twee originelen, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) J. D. VAN DEN BERG
 
-**Voor de Bondsrepubliek Duitsland**
+*Voor de Bondsrepubliek Duitsland*
 
 (w.g.) E. VON PUTTKAMER

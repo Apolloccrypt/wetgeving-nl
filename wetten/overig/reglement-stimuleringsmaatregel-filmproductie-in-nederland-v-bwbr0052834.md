@@ -2,23 +2,16 @@
 title: "Reglement Stimuleringsmaatregel Filmproductie in Nederland van de Stichting Nederlands Fonds voor de Film"
 identifier: "BWBR0052834"
 categorie: "Overig"
+soort: "zbo"
 publicatiedatum: 2026-07-01
-laatste_update: 2026-07-17
+laatste_update: 2026-07-01
 status: geldig
+toestand: 2026-07-01
 bron: "https://wetten.overheid.nl/BWBR0052834"
+opgehaald: 2026-09-11
 ---
 
 # Reglement Stimuleringsmaatregel Filmproductie in Nederland van de Stichting Nederlands Fonds voor de Film
-
-gelet op het bepaalde in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
-
-gelet op [artikel 10, lid 4, van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10),
-
-met goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap van **23 juni 2026**,
-
-besluit:
-
-De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 #### – definities –
 
@@ -26,83 +19,83 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 In dit reglement wordt verstaan onder:
 
-- **animatiefilm:** een filmproductie met een vertoningsduur van tenminste 60 minuten primair bestemd voor bioscoopuitbreng die een kunstmatige filmtechniek hanteert waarbij door het na elkaar afspelen van verschillende stilstaande beelden de illusie van beweging ontstaat;
+- *animatiefilm:* een filmproductie met een vertoningsduur van tenminste 60 minuten primair bestemd voor bioscoopuitbreng die een kunstmatige filmtechniek hanteert waarbij door het na elkaar afspelen van verschillende stilstaande beelden de illusie van beweging ontstaat;
 
-- **bestuur:** het bestuur van het Fonds;
+- *bestuur:* het bestuur van het Fonds;
 
-- **bioscoopuitbreng:** de landelijke distributie van een filmproductie, die na de première – voorafgaand aan de non-theatrical release – in een periode van tenminste 12 weken en in een significant aantal bioscopen of filmtheaters voor een betalend publiek in Nederland wordt uitgebracht;
+- *bioscoopuitbreng:* de landelijke distributie van een filmproductie, die na de première – voorafgaand aan de non-theatrical release – in een periode van tenminste 12 weken en in een significant aantal bioscopen of filmtheaters voor een betalend publiek in Nederland wordt uitgebracht;
 
-- **code diversiteit & inclusie:** de gedragscode gericht op een gelijkwaardige en toegankelijke cultuursector voor makers, producenten, filmprofessionals en publiek, zoals van tijd tot tijd gepubliceerd op de website van het Fonds;
+- *code diversiteit & inclusie:* de gedragscode gericht op een gelijkwaardige en toegankelijke cultuursector voor makers, producenten, filmprofessionals en publiek, zoals van tijd tot tijd gepubliceerd op de website van het Fonds;
 
-- **completion bond:** de verzekering die waarborgt dat de filmproductie zal worden afgemaakt en opgeleverd onder de in de verzekeringspolis opgenomen (budgettaire) voorwaarden, of dat – als de productie zou worden gestaakt – de tot dan toe gemaakte productiekosten worden terugbetaald;
+- *completion bond:* de verzekering die waarborgt dat de filmproductie zal worden afgemaakt en opgeleverd onder de in de verzekeringspolis opgenomen (budgettaire) voorwaarden, of dat – als de productie zou worden gestaakt – de tot dan toe gemaakte productiekosten worden terugbetaald;
 
-- **DAC-landenlijst:** de door de Development Assistance Committee (DAC) van de OESO opgestelde lijst met landen die ontwikkelingshulp ontvangen;
+- *DAC-landenlijst:* de door de Development Assistance Committee (DAC) van de OESO opgestelde lijst met landen die ontwikkelingshulp ontvangen;
 
-- **DCP:** de digitaal opgeslagen kopie van de filmproductie (digital cinema package), die in een bioscoop kan worden vertoond;
+- *DCP:* de digitaal opgeslagen kopie van de filmproductie (digital cinema package), die in een bioscoop kan worden vertoond;
 
-- **documentairefilm:** een non-fictie filmproductie met een vertoningsduur van tenminste 70 minuten primair bestemd voor bioscoopuitbreng die een aspect van de werkelijkheid belicht waarbij de eigen visie van de regisseur wordt vormgegeven met creatieve gebruikmaking van filmische middelen in een persoonlijke stijl;
+- *documentairefilm:* een non-fictie filmproductie met een vertoningsduur van tenminste 70 minuten primair bestemd voor bioscoopuitbreng die een aspect van de werkelijkheid belicht waarbij de eigen visie van de regisseur wordt vormgegeven met creatieve gebruikmaking van filmische middelen in een persoonlijke stijl;
 
-- **eindexploitant:** een marktpartij die via vertoningen in bioscopen- of filmtheaters, publieke of commerciële omroepkanalen dan wel op basis van een verdienmodel van abonnementen, advertenties of transacties filmproducties en andere audiovisuele werken openbaar maakt;
+- *eindexploitant:* een marktpartij die via vertoningen in bioscopen- of filmtheaters, publieke of commerciële omroepkanalen dan wel op basis van een verdienmodel van abonnementen, advertenties of transacties filmproducties en andere audiovisuele werken openbaar maakt;
 
-- **Fair practice code:** de gedragscode voor ondernemen en werken in kunst, cultuur en creatieve industrie, zoals van tijd tot tijd gepubliceerd op de website van het Fonds;
+- *Fair practice code:* de gedragscode voor ondernemen en werken in kunst, cultuur en creatieve industrie, zoals van tijd tot tijd gepubliceerd op de website van het Fonds;
 
-- **filmdistributeur:** een rechtspersoon die op continue basis bedrijfsactiviteiten ontplooit met als hoofddoel de distributie en exploitatie van filmproducties in de bioscoop en via andere distributiekanalen. De rechtspersoon is ten tijde van de aanvraag en gedurende minimaal twee jaar daarvoor gevestigd en actief geweest in Nederland, een lidstaat van de Europese Unie, of in een Staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte, of in Zwitserland;
+- *filmdistributeur:* een rechtspersoon die op continue basis bedrijfsactiviteiten ontplooit met als hoofddoel de distributie en exploitatie van filmproducties in de bioscoop en via andere distributiekanalen. De rechtspersoon is ten tijde van de aanvraag en gedurende minimaal twee jaar daarvoor gevestigd en actief geweest in Nederland, een lidstaat van de Europese Unie, of in een Staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte, of in Zwitserland;
 
-- **filmplan:** het plan van de aanvrager tot uitvoering van een met elkaar samenhangend geheel van activiteiten dat bestaat uit het financieren, het tot stand brengen en (doen) exploiteren van een filmproductie;
+- *filmplan:* het plan van de aanvrager tot uitvoering van een met elkaar samenhangend geheel van activiteiten dat bestaat uit het financieren, het tot stand brengen en (doen) exploiteren van een filmproductie;
 
-- **filmproductie:** een animatiefilm, of een documentairefilm of een speelfilm, al dan niet tot stand gebracht in de vorm van een internationale coproductie, primair bestemd voor bioscoopuitbreng;
+- *filmproductie:* een animatiefilm, of een documentairefilm of een speelfilm, al dan niet tot stand gebracht in de vorm van een internationale coproductie, primair bestemd voor bioscoopuitbreng;
 
-- **filmprofessional/filmbedrijf:** een natuurlijk persoon of onderneming met gedegen kennis en ervaring op het gebied van filmproductie;
+- *filmprofessional/filmbedrijf:* een natuurlijk persoon of onderneming met gedegen kennis en ervaring op het gebied van filmproductie;
 
-- **Financieel & Productioneel Protocol Stimuleringsmaatregel:** het protocol waarin specifieke financiële en productionele vereisten die het Fonds in dit reglement aan filmproducties stelt, zijn opgenomen;
+- *Financieel & Productioneel Protocol Stimuleringsmaatregel:* het protocol waarin specifieke financiële en productionele vereisten die het Fonds in dit reglement aan filmproducties stelt, zijn opgenomen;
 
-- **het Fonds:** Stichting Nederlands Fonds voor de Film;
+- *het Fonds:* Stichting Nederlands Fonds voor de Film;
 
-- **governance code cultuur:** normatief kader voor goed bestuur en toezicht in culturele organisaties, zoals van tijd tot tijd gepubliceerd op de website van het Fonds;
+- *governance code cultuur:* normatief kader voor goed bestuur en toezicht in culturele organisaties, zoals van tijd tot tijd gepubliceerd op de website van het Fonds;
 
-- **internationale coproductie:** een grensoverstijgende filmproductie in de vorm van een animatiefilm, documentairefilm of speelfilm, primair bestemd voor bioscoopuitbreng waarbij Nederland één van de landen van herkomst van de coproducenten is en die voldoet aan de criteria van het Verdrag van de Raad van Europa inzake de Cinematografische Coproductie, of voldoet aan de criteria van door Nederland met andere staten afgesloten bilaterale verdragen voor filmproducties, of door het Fonds met andere buitenlandse filmfondsen afgesloten overeenkomsten gericht op internationale coproductie;
+- *internationale coproductie:* een grensoverstijgende filmproductie in de vorm van een animatiefilm, documentairefilm of speelfilm, primair bestemd voor bioscoopuitbreng waarbij Nederland één van de landen van herkomst van de coproducenten is en die voldoet aan de criteria van het Verdrag van de Raad van Europa inzake de Cinematografische Coproductie, of voldoet aan de criteria van door Nederland met andere staten afgesloten bilaterale verdragen voor filmproducties, of door het Fonds met andere buitenlandse filmfondsen afgesloten overeenkomsten gericht op internationale coproductie;
 
-- **kwalificatietoets:** het in de bijlage bij dit reglement opgenomen overzicht van productiekosten die kwalificeren als grondslag voor een bijdrage op grond van dit reglement en de voorwaarden waaronder deze daarvoor kwalificeren;
+- *kwalificatietoets:* het in de bijlage bij dit reglement opgenomen overzicht van productiekosten die kwalificeren als grondslag voor een bijdrage op grond van dit reglement en de voorwaarden waaronder deze daarvoor kwalificeren;
 
-- **majoritair (co)producent:** een producent van een in de Nederlandse bioscoop en/of filmtheater uit te brengen majoritaire filmproductie, die risicodragend investeert, hoofdverantwoordelijk en in doorslaggevende mate beslissingsbevoegd is en die een meerderheid van de financiering van de filmproductie bijeen heeft gebracht (of zal brengen);
+- *majoritair (co)producent:* een producent van een in de Nederlandse bioscoop en/of filmtheater uit te brengen majoritaire filmproductie, die risicodragend investeert, hoofdverantwoordelijk en in doorslaggevende mate beslissingsbevoegd is en die een meerderheid van de financiering van de filmproductie bijeen heeft gebracht (of zal brengen);
 
-- **majoritaire filmproductie:** een (internationale) filmproductie waarbij de Nederlandse producent een majoritair (co)producent is en de filmproductie, op basis van de samenstelling van het artistieke team, als Nederlands aan te merken is;
+- *majoritaire filmproductie:* een (internationale) filmproductie waarbij de Nederlandse producent een majoritair (co)producent is en de filmproductie, op basis van de samenstelling van het artistieke team, als Nederlands aan te merken is;
 
-- **mediabedrijf:** een rechtspersoon die zich bezighoudt met het verspreiden dan wel doen verspreiden van audiovisuele media-inhoud aan het algemene publiek of delen daarvan;
+- *mediabedrijf:* een rechtspersoon die zich bezighoudt met het verspreiden dan wel doen verspreiden van audiovisuele media-inhoud aan het algemene publiek of delen daarvan;
 
-- **minoritair coproducent:** een productiemaatschappij van een in de Nederlandse bioscoop en/of filmtheaters uit te brengen (internationale) coproductie, die risicodragend investeert maar in beperkte mate, te weten primair voor het Nederlandse deel van de filmproductie, beslissingsbevoegd en verantwoordelijk is en die een minderheid van de financiering van de filmproductie bijeen heeft gebracht (of zal brengen);
+- *minoritair coproducent:* een productiemaatschappij van een in de Nederlandse bioscoop en/of filmtheaters uit te brengen (internationale) coproductie, die risicodragend investeert maar in beperkte mate, te weten primair voor het Nederlandse deel van de filmproductie, beslissingsbevoegd en verantwoordelijk is en die een minderheid van de financiering van de filmproductie bijeen heeft gebracht (of zal brengen);
 
-- **minoritaire coproductie:** een internationale filmproductie waarbij de Nederlandse producent een minoritaire coproducent is;
+- *minoritaire coproductie:* een internationale filmproductie waarbij de Nederlandse producent een minoritaire coproducent is;
 
-- **non theatrical release:** alle mogelijke vormen van distributie van een filmproductie, uitgezonderd die via bioscopen en filmtheaters, waaronder in ieder geval wordt begrepen de distributie op DVD en Blu ray, via televisie, Video On Demand, pay per view- en online distributiekanalen;
+- *non theatrical release:* alle mogelijke vormen van distributie van een filmproductie, uitgezonderd die via bioscopen en filmtheaters, waaronder in ieder geval wordt begrepen de distributie op DVD en Blu ray, via televisie, Video On Demand, pay per view- en online distributiekanalen;
 
-- **onafhankelijkheidstoets:** het in een bijlage van dit reglement opgenomen puntensysteem om de onafhankelijkheid van een filmproductie te bepalen;
+- *onafhankelijkheidstoets:* het in een bijlage van dit reglement opgenomen puntensysteem om de onafhankelijkheid van een filmproductie te bepalen;
 
-- **openbaarmaking:** het aan het publiek bekend maken middels vertoning van een filmproductie;
+- *openbaarmaking:* het aan het publiek bekend maken middels vertoning van een filmproductie;
 
-- **open orders:** nog niet gefactureerde productiekosten;
+- *open orders:* nog niet gefactureerde productiekosten;
 
-- **overbruggingskrediet:** een gegarandeerd financieel krediet ten behoeve van de totstandkoming van een filmproductie dat beschikbaar is gesteld door een derde gedurende de gehele productieperiode van waaruit productiekosten in afwachting van de betalingstermijnen van financiers worden voorgefinancierd;
+- *overbruggingskrediet:* een gegarandeerd financieel krediet ten behoeve van de totstandkoming van een filmproductie dat beschikbaar is gesteld door een derde gedurende de gehele productieperiode van waaruit productiekosten in afwachting van de betalingstermijnen van financiers worden voorgefinancierd;
 
-- **picture lock:** de door producent en regisseur definitief vastgestelde montageversie van de filmproductie, op basis waarvan de verdere nabewerking plaatsvindt;
+- *picture lock:* de door producent en regisseur definitief vastgestelde montageversie van de filmproductie, op basis waarvan de verdere nabewerking plaatsvindt;
 
-- **producent:** de natuurlijke persoon die de productiemaatschappij rechtsgeldig vertegenwoordigt en binnen de organisatie van de productiemaatschappij beleidsmatig, bedrijfsmatig en inhoudelijk eindverantwoordelijk is;
+- *producent:* de natuurlijke persoon die de productiemaatschappij rechtsgeldig vertegenwoordigt en binnen de organisatie van de productiemaatschappij beleidsmatig, bedrijfsmatig en inhoudelijk eindverantwoordelijk is;
 
-- **productiekosten:** de kosten gemoeid met de realisering van een filmproductie;
+- *productiekosten:* de kosten gemoeid met de realisering van een filmproductie;
 
-- **productiemaatschappij:** een rechtspersoon die op continue basis bedrijfsactiviteiten ontplooit met als hoofddoel de productie en exploitatie van filmproducties en/of mediaproducties. De rechtspersoon is ten tijde van de aanvraag gedurende minimaal twee jaar daarvoor gevestigd en actief geweest in Nederland, een lidstaat van de Europese Unie, of in een Staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte, of in Zwitserland;
+- *productiemaatschappij:* een rechtspersoon die op continue basis bedrijfsactiviteiten ontplooit met als hoofddoel de productie en exploitatie van filmproducties en/of mediaproducties. De rechtspersoon is ten tijde van de aanvraag gedurende minimaal twee jaar daarvoor gevestigd en actief geweest in Nederland, een lidstaat van de Europese Unie, of in een Staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte, of in Zwitserland;
 
-- **puntensysteem:** de in de bijlage bij dit reglement opgenomen puntentelling voor het bepalen of de aanvraag in aanmerking komt voor een bijdrage en om de rangorde te bepalen waarin aanvragen in aanmerking kunnen komen voor een bijdrage op grond van dit reglement;
+- *puntensysteem:* de in de bijlage bij dit reglement opgenomen puntentelling voor het bepalen of de aanvraag in aanmerking komt voor een bijdrage en om de rangorde te bepalen waarin aanvragen in aanmerking kunnen komen voor een bijdrage op grond van dit reglement;
 
-- **referentiefilm:** filmproductie met een productiebudget van tenminste 500.000 euro met een bioscoopuitbreng in Nederland;
+- *referentiefilm:* filmproductie met een productiebudget van tenminste 500.000 euro met een bioscoopuitbreng in Nederland;
 
-- **speelfilm:** een filmproductie in het genre fictie met een vertoningsduur van tenminste 60 minuten, die primair bestemd is voor bioscoopuitbreng;
+- *speelfilm:* een filmproductie in het genre fictie met een vertoningsduur van tenminste 60 minuten, die primair bestemd is voor bioscoopuitbreng;
 
-- **subsidie:** de aanspraak op financiële middelen, door een bestuursorgaan verstrekt met het oog op bepaalde activiteiten van de aanvrager, anders dan als betaling voor aan het bestuursorgaan geleverde goederen of diensten;
+- *subsidie:* de aanspraak op financiële middelen, door een bestuursorgaan verstrekt met het oog op bepaalde activiteiten van de aanvrager, anders dan als betaling voor aan het bestuursorgaan geleverde goederen of diensten;
 
-- **territorium:** grondgebied dat meerdere landen beslaat, maar op het vlak van verkoop en distributie van filmproducties een eenheid vormt;
+- *territorium:* grondgebied dat meerdere landen beslaat, maar op het vlak van verkoop en distributie van filmproducties een eenheid vormt;
 
-- **uitvoeringsovereenkomst:** de overeenkomst tussen het Fonds en de ontvanger van een subsidie als bedoeld in [artikel 4:36 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:36) ter uitvoering van het besluit tot verlening van die bijdrage.
+- *uitvoeringsovereenkomst:* de overeenkomst tussen het Fonds en de ontvanger van een subsidie als bedoeld in [artikel 4:36 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:36) ter uitvoering van het besluit tot verlening van die bijdrage.
 
 #### – doel en toepasselijkheid –
 
@@ -134,9 +127,9 @@ In dit reglement wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Om in aanmerking te komen voor een subsidie in de zin van dit reglement dient de filmproductie, onverminderd het bepaalde in Europese staatsteun regelgeving, tenminste aan **drie** van de volgende kenmerken te voldoen:
+1. Om in aanmerking te komen voor een subsidie in de zin van dit reglement dient de filmproductie, onverminderd het bepaalde in Europese staatsteun regelgeving, tenminste aan *drie* van de volgende kenmerken te voldoen:
 
-**speelfilm:**
+*speelfilm:*
 
 - a. het scenario waarop de filmproductie is gebaseerd speelt zich in overwegende mate af in Nederland, of in een andere lidstaat van de Europese Unie, of in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of in Zwitserland;
 
@@ -158,7 +151,7 @@ In dit reglement wordt verstaan onder:
 
 - j. de filmproductie draagt bij aan de ontsluiting en grensoverschrijdende promotie van de Nederlandse of Europese filmcultuur en de diversiteit daarvan.
 
-**animatiefilm:**
+*animatiefilm:*
 
 aan tenminste drie van de voor speelfilm genoemde kenmerken, met dien verstande dat in plaats van scenario ook ‘story board’ wordt gelezen en in plaats van scenarist ook ‘de ontwerper van het story board’, waarbij:
 
@@ -168,13 +161,13 @@ het onder c. genoemde kenmerk ook van toepassing is indien de hoofdkarakters een
 
 het onder i. genoemde kenmerk ook van toepassing is indien een herkenningspunt op herkenbare wijze is geanimeerd.
 
-**documentairefilm:**
+*documentairefilm:*
 
 aan tenminste drie van de voor speelfilm genoemde kenmerken, met dien verstande dat in plaats van scenario ‘documentairescript’ wordt gelezen en in plaats van scenarist ‘de schrijver van het documentairescript’, en dat in plaats van personages zoals benoemd in kenmerk c. ook geportretteerde personen wordt gelezen.
 
 2. Voor een filmproductie, waarvoor van een ander (Nederlands) bestuursorgaan en/of van het Fonds een subsidie is ontvangen, kan slechts een zodanig bedrag aan subsidie worden verleend dat het totaal aan staatssteun niet meer bedraagt dan 50% van de productiekosten
 
-3. Voor een internationale coproductie als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=1&z=2026-07-01&g=2026-07-01), die door meer dan één lidstaat van de EU wordt gefinancierd, kan het in het tweede lid genoemde percentage aan staatssteun maximaal 60% van het productiebudget bedragen.
+3. Voor een internationale coproductie als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=1&z=2026-07-01&g=2026-07-01), die door meer dan één lidstaat van de EU wordt gefinancierd, kan het in het tweede lid genoemde percentage aan staatssteun maximaal 60% van het productiebudget bedragen.
 
 4. Voor een ‘moeilijke’ film of een grensoverschrijdende filmproductie waarbij landen uit de DAC-landenlijst van de OESO betrokken zijn en die derhalve beperkte commerciële waarde hebben, kan een hoger percentage worden verleend dan het in het tweede en derde lid genoemde percentage, mits de producent en eventueel de regisseur bij de aanvraag een schriftelijke visie hebben gevoegd waaruit naar het oordeel van het bestuur blijkt dat de filmproductie:
 
@@ -212,7 +205,7 @@ aan tenminste drie van de voor speelfilm genoemde kenmerken, met dien verstande 
 
 6. Indien het bestuur constateert dat een aanvraag onvolledig is ingediend stelt het bestuur de aanvrager in de gelegenheid de aanvraag binnen vijf werkdagen aan te vullen. Indien de aanvrager er niet in slaagt om de aanvraag binnen de gestelde termijn aan te vullen, dan wordt de aanvraag niet in behandeling genomen. Indien de aanvraag binnen de gestelde termijn volledig is ingediend, dan geldt de initiële datum van indiening als de datum van aanvraag.
 
-7. Een aanvraag wordt ingediend bij het bestuur. Het bestuur besluit op de aanvraag binnen 13 weken na de sluitingsdatum van de betreffende aanvraagronde.
+7. Een aanvraag wordt ingediend bij het bestuur. Het bestuur besluit op de aanvraag binnen 13 weken na de sluitingsdatum van de betreffende aanvraagronde.
 
 8. Voor zover de aanvrager voor de dekking van de begrote productiekosten tevens een subsidie heeft aangevraagd bij andere Nederlandse of buitenlandse bestuursorganen, doet hij daarvan melding in de aanvraag, onder vermelding van het betreffende bestuursorgaan en de stand van zaken met betrekking tot de beoordeling van die aanvraag of aanvragen.
 
@@ -224,7 +217,7 @@ aan tenminste drie van de voor speelfilm genoemde kenmerken, met dien verstande 
 
 12. De aanvrager legt bij de aanvraag een verklaring over waaruit blijkt dat hij en de eventueel andere betrokken producenten over de exclusieve (optie op de), voor de filmproductie noodzakelijke verfilmings- en exploitatierechten beschikken.
 
-13. Een aanvrager legt bij de aanvraag een schriftelijke toelichting over waaruit blijkt in welke mate de filmproductie waarvoor een aanvraag wordt gedaan aantoonbaar bijdraagt aan het realiseren van de doelstellingen als genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=2&z=2026-07-01&g=2026-07-01).
+13. Een aanvrager legt bij de aanvraag een schriftelijke toelichting over waaruit blijkt in welke mate de filmproductie waarvoor een aanvraag wordt gedaan aantoonbaar bijdraagt aan het realiseren van de doelstellingen als genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=2&z=2026-07-01&g=2026-07-01).
 
 14. Een aanvrager legt bij de aanvraag de onafhankelijkheidstoets over waaruit blijkt dat de filmproductie waarvoor een aanvraag wordt gedaan een onafhankelijke filmproductie betreft.
 
@@ -238,11 +231,11 @@ aan tenminste drie van de voor speelfilm genoemde kenmerken, met dien verstande 
 
 1. Uitsluitend aanvragen voor filmproducties, die voldoen aan de gestelde voorwaarden van dit reglement en het vereiste minimumaantal punten behalen op grond van het puntensysteem komen in aanmerking voor een subsidie. Het vereiste minimumaantal punten wordt jaarlijks, voor het daarop volgende kalenderjaar, door het bestuur vastgesteld en gepubliceerd op de website van het Fonds [www.filmfonds.nl](http://www.filmfonds.nl/).
 
-2. Uitsluitend aanvragen voor speelfilms en animatiefilms waarvan de **productiekosten tenminste 1.000.000 euro** bedragen komen in aanmerking voor een subsidie. Indien de aanvraag een documentairefilm betreft, bedragen de productiekosten **tenminste 250.000 euro**. De (extra) kosten ter verduurzaming van het productieproces vallen onder productiekosten.
+2. Uitsluitend aanvragen voor speelfilms en animatiefilms waarvan de *productiekosten tenminste 1.000.000 euro* bedragen komen in aanmerking voor een subsidie. Indien de aanvraag een documentairefilm betreft, bedragen de productiekosten *tenminste 250.000 euro*. De (extra) kosten ter verduurzaming van het productieproces vallen onder productiekosten.
 
 3. Uitsluitend aanvragen voor filmproducties met een bioscoopuitbreng in tenminste Nederland dan wel, in het geval van een minoritaire coproductie, zoals een internationale coproductie, een bioscoopuitbreng in het land van de hoofdproducent en daarnaast een (non) theatrical release in Nederland, komen in aanmerking voor een subsidie.
 
-4. Een subsidie op grond van dit reglement wordt uitsluitend verleend ter tegemoetkoming in de productiekosten die kwalificeren volgens de kwalificatietoets en aantoonbaar in Nederland zijn besteed en indien deze **tenminste 150.000 euro** voor een speel- of animatiefilm of **100.000 euro voor**een documentairefilm bedragen.
+4. Een subsidie op grond van dit reglement wordt uitsluitend verleend ter tegemoetkoming in de productiekosten die kwalificeren volgens de kwalificatietoets en aantoonbaar in Nederland zijn besteed en indien deze *tenminste 150.000 euro* voor een speel- of animatiefilm of *100.000 euro voor*een documentairefilm bedragen.
 
 5. Alle in dit reglement genoemde subsidies en productiekosten zijn exclusief BTW.
 
@@ -254,7 +247,7 @@ aan tenminste drie van de voor speelfilm genoemde kenmerken, met dien verstande 
 
 - c. aannemelijk is dat verlening van de subsidie noodzakelijk is voor de totstandkoming van de filmproductie;
 
-- d. aannemelijk is dat de filmproductie overeenkomstig het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=2&z=2026-07-01&g=2026-07-01), neergelegde doel gerealiseerd kan worden conform de in de aanvraag begrote uitgaven en dat de begrote uitgaven redelijk, kostenefficiënt en marktconform zijn;
+- d. aannemelijk is dat de filmproductie overeenkomstig het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=2&z=2026-07-01&g=2026-07-01), neergelegde doel gerealiseerd kan worden conform de in de aanvraag begrote uitgaven en dat de begrote uitgaven redelijk, kostenefficiënt en marktconform zijn;
 
 - e. het bij de aanvraag overgelegde financieringsplan haalbaar en solide is en waaruit blijkt dat tenminste twee, niet aan elkaar gelieerde financiers, naast het Fonds bijdragen aan de financiering van de filmproductie;
 
@@ -264,7 +257,7 @@ aan tenminste drie van de voor speelfilm genoemde kenmerken, met dien verstande 
 
 - h. de subsidie niet ter dekking dient van kosten die zijn gemaakt in de periode van ontwikkeling;
 
-- i. in geval de aanvraag betreft een internationale coproductie, deze voldoet aan de definitie in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=1&z=2026-07-01&g=2026-07-01);
+- i. in geval de aanvraag betreft een internationale coproductie, deze voldoet aan de definitie in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=1&z=2026-07-01&g=2026-07-01);
 
 - j. aannemelijk is dat de aanvrager aan de in dit reglement vermelde verplichtingen kan voldoen;
 
@@ -292,7 +285,7 @@ aan tenminste drie van de voor speelfilm genoemde kenmerken, met dien verstande 
 
 1. Indien het bestuur besluit tot verlening van de subsidie, worden bij het bepalen van de hoogte daarvan de door de aanvrager begrote en door het Fonds goedgekeurde productiekosten als grondslag genomen.
 
-2. De hoogte van de subsidie wordt bepaald door de door het Fonds goedgekeurde productiekosten die kwalificeren via de kwalificatietoets te vermenigvuldigen met **35%.** Dit subsidiebedrag wordt bij de subsidieverlening vermeerderd met **ten hoogste 10%** om eventuele noodzakelijke extra kwalificerende uitgaven gedurende de (post)productie te kunnen dekken.
+2. De hoogte van de subsidie wordt bepaald door de door het Fonds goedgekeurde productiekosten die kwalificeren via de kwalificatietoets te vermenigvuldigen met *35%.* Dit subsidiebedrag wordt bij de subsidieverlening vermeerderd met *ten hoogste 10%* om eventuele noodzakelijke extra kwalificerende uitgaven gedurende de (post)productie te kunnen dekken.
 
 3. De door het Fonds goedgekeurde kwalificerende productiekosten kunnen hooguit 80% van het totaal aan productiekosten bedragen.
 
@@ -302,7 +295,7 @@ aan tenminste drie van de voor speelfilm genoemde kenmerken, met dien verstande 
 
 ##### Artikel 9
 
-Het bestuur kan zich over de toets aan de vereisten zoals genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=7&z=2026-07-01&g=2026-07-01) laten adviseren door ad hoc adviseurs. Op hen is van toepassing artikel 7 van het huishoudelijk reglement van het Fonds. Het bestuur betrekt het advies van de ad hoc adviseurs bij zijn besluit over de aanvraag.
+Het bestuur kan zich over de toets aan de vereisten zoals genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=7&z=2026-07-01&g=2026-07-01) laten adviseren door ad hoc adviseurs. Op hen is van toepassing artikel 7 van het huishoudelijk reglement van het Fonds. Het bestuur betrekt het advies van de ad hoc adviseurs bij zijn besluit over de aanvraag.
 
 #### – weigeringsgronden –
 
@@ -312,27 +305,27 @@ Onverminderd het bepaalde in de [Algemene wet bestuursrecht](https://wetten.over
 
 - 1.
 
-  - a. de aanvrager niet voldoet dan wel niet zal voldoen aan de vereisten, criteria en bepalingen genoemd in dit reglement;
+   - a. de aanvrager niet voldoet dan wel niet zal voldoen aan de vereisten, criteria en bepalingen genoemd in dit reglement;
 
-  - b. een mediabedrijf, direct of indirect, een zwaarwegend belang heeft in de aanvrager dan wel in de filmproductie;
+   - b. een mediabedrijf, direct of indirect, een zwaarwegend belang heeft in de aanvrager dan wel in de filmproductie;
 
-  - c. de aanvragende productiemaatschappij of één van de verantwoordelijke producenten in het verleden ernstig in gebreke is gebleven bij een eerdere fondsaanvraag of ter zake sprake is geweest van verwijtbaar handelen van de aanvragende productiemaatschappij of de betreffende producent;
+   - c. de aanvragende productiemaatschappij of één van de verantwoordelijke producenten in het verleden ernstig in gebreke is gebleven bij een eerdere fondsaanvraag of ter zake sprake is geweest van verwijtbaar handelen van de aanvragende productiemaatschappij of de betreffende producent;
 
-  - d. een aanvraag op grond van dit reglement wordt ingediend voor een filmproductie, waarvoor reeds een aanvraag op grond van dit reglement is ingediend en waarop het bestuur nog geen beslissing heeft genomen;
+   - d. een aanvraag op grond van dit reglement wordt ingediend voor een filmproductie, waarvoor reeds een aanvraag op grond van dit reglement is ingediend en waarop het bestuur nog geen beslissing heeft genomen;
 
-  - e. de financiële positie, ondanks de in [artikel 6, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=6&z=2026-07-01&g=2026-07-01), bedoelde verklaringen, dermate onzeker is dat deze bedreigend is voor de stabiliteit en solvabiliteit van de aanvrager of de betreffende filmproductie;
+   - e. de financiële positie, ondanks de in [artikel 6, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=6&z=2026-07-01&g=2026-07-01), bedoelde verklaringen, dermate onzeker is dat deze bedreigend is voor de stabiliteit en solvabiliteit van de aanvrager of de betreffende filmproductie;
 
-  - f. verlening van de gevraagde subsidie ertoe zou leiden dat aan de aanvrager op grond van dit reglement in een kalenderjaar voor een totaalbedrag groter dan 3 miljoen euro aan subsidies voor filmproducties wordt verleend;
+   - f. verlening van de gevraagde subsidie ertoe zou leiden dat aan de aanvrager op grond van dit reglement in een kalenderjaar voor een totaalbedrag groter dan 3 miljoen euro aan subsidies voor filmproducties wordt verleend;
 
-  - g. verlening van de subsidie niet van toepassing is op de filmproductie waarvoor een subsidie wordt aangevraagd;
+   - g. verlening van de subsidie niet van toepassing is op de filmproductie waarvoor een subsidie wordt aangevraagd;
 
-  - h. de noodzaak voor een subsidie onvoldoende is aangetoond;
+   - h. de noodzaak voor een subsidie onvoldoende is aangetoond;
 
-  - i. de onafhankelijkheid van de filmproductie zoals omschreven in [artikel 7 lid 6 sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=7&z=2026-07-01&g=2026-07-01) van dit regelement onvoldoende is aangetoond;
+   - i. de onafhankelijkheid van de filmproductie zoals omschreven in [artikel 7 lid 6 sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=7&z=2026-07-01&g=2026-07-01) van dit regelement onvoldoende is aangetoond;
 
-  - j. de aanvrager niet dezelfde is als de productiemaatschappij, die in het kader van een ander reglement van het Fonds reeds een subsidie voor realisering van dezelfde filmproductie heeft ontvangen;
+   - j. de aanvrager niet dezelfde is als de productiemaatschappij, die in het kader van een ander reglement van het Fonds reeds een subsidie voor realisering van dezelfde filmproductie heeft ontvangen;
 
-  - k. toewijzing van de aanvraag zou leiden tot overschrijding van de door het bestuur vastgestelde subsidieplafonds.
+   - k. toewijzing van de aanvraag zou leiden tot overschrijding van de door het bestuur vastgestelde subsidieplafonds.
 
 - 2. Een aanvraag die een filmproductie betreft waarvoor al twee keer eerder op grond van dit reglement een aanvraag is ingediend en die niet door het bestuur is gehonoreerd, wordt niet meer in behandeling genomen.
 
@@ -364,9 +357,9 @@ Onverminderd het bepaalde in de [Algemene wet bestuursrecht](https://wetten.over
 
 - a. vóór de eerste opnamedag, maar uiterlijk zes maanden na verlening van de subsidie, de ter zake van de financiering en exploitatie van de filmproductie waarvoor een subsidie is verleend definitieve schriftelijke overeenkomsten met alle bij de financiering van de filmproductie betrokken partijen over te leggen. Hieruit blijkt dat naar het oordeel van het bestuur elk van deze partijen zich onvoorwaardelijk heeft verbonden tot het haar betreffende aandeel in de financiering ten behoeve van de realisering van de filmproductie overeenkomstig de bij de aanvraag overgelegde gegevens en op voorwaarden die verenigbaar zijn met de voorwaarden die zijn verbonden aan de verlening van de subsidie en dit reglement;
 
-- b. ervoor te zorgen dat de opnamen, of in het geval van een animatiefilm de uitvoering, van de filmproductie waarvoor de subsidie is verleend, niet eerder starten dan nadat door het Fonds is bericht dat de aanvrager heeft voldaan aan de verplichtingen, zoals bedoeld in dit lid onder a.), en – indien van toepassing – de aanbieder van de completion bond definitieve dekking heeft verleend voor de voortbrenging en voltooiing van de filmproductie waarvoor een subsidie is verleend én – indien het betreft een internationale coproductie die voldoet aan de criteria van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=1&z=2026-07-01&g=2026-07-01) – de goedkeurende verklaring uit elk van de landen van herkomst in de zin van artikel 5 van het Verdrag van de Raad van Europa inzake de Cinematografische Coproductie aan het Fonds is overgelegd;
+- b. ervoor te zorgen dat de opnamen, of in het geval van een animatiefilm de uitvoering, van de filmproductie waarvoor de subsidie is verleend, niet eerder starten dan nadat door het Fonds is bericht dat de aanvrager heeft voldaan aan de verplichtingen, zoals bedoeld in dit lid onder a.), en – indien van toepassing – de aanbieder van de completion bond definitieve dekking heeft verleend voor de voortbrenging en voltooiing van de filmproductie waarvoor een subsidie is verleend én – indien het betreft een internationale coproductie die voldoet aan de criteria van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=1&z=2026-07-01&g=2026-07-01) – de goedkeurende verklaring uit elk van de landen van herkomst in de zin van artikel 5 van het Verdrag van de Raad van Europa inzake de Cinematografische Coproductie aan het Fonds is overgelegd;
 
-- c. het bestuur voorafgaand in kennis te stellen van het moment waarop de opnamen, of in het geval van animatie, de uitvoering van de filmproductie waarvoor een subsidie is verleend, starten en ervoor te zorgen dat de filmproductie 24 maanden na de ondertekening van de uitvoeringsovereenkomst gereed en openbaar is gemaakt.
+- c. het bestuur voorafgaand in kennis te stellen van het moment waarop de opnamen, of in het geval van animatie, de uitvoering van de filmproductie waarvoor een subsidie is verleend, starten en ervoor te zorgen dat de filmproductie 24 maanden na de ondertekening van de uitvoeringsovereenkomst gereed en openbaar is gemaakt.
 
 - d. de subsidie uit inkomsten die worden verkregen uit exploitatie van de filmproductie aan het Fonds terug te betalen.
 
@@ -400,13 +393,13 @@ Onverminderd het bepaalde in de [Algemene wet bestuursrecht](https://wetten.over
 
 - d. met betrekking tot de uitvoering van de filmproductie wijzigingen zijn opgetreden ten opzichte van de aanvraag en/of zich bijzondere omstandigheden voordoen.
 
-7. De verplichting van het tweede lid onder b.) is niet van toepassing op aanvragen waarvoor op grond van [artikel 7 lid 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=7&z=2026-07-01&g=2026-07-01) door het bestuur ontheffing is verleend.
+7. De verplichting van het tweede lid onder b.) is niet van toepassing op aanvragen waarvoor op grond van [artikel 7 lid 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=7&z=2026-07-01&g=2026-07-01) door het bestuur ontheffing is verleend.
 
 #### – verplichtingen uitvoeringsovereenkomst –
 
 ##### Artikel 14
 
-1. Nadat de in [artikel 13, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=13&z=2026-07-01&g=2026-07-01), bedoelde overeenkomsten en stukken door het bestuur zijn ontvangen, dienen de ontvanger van de subsidie en het bestuur een uitvoeringsovereenkomst te tekenen.
+1. Nadat de in [artikel 13, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=13&z=2026-07-01&g=2026-07-01), bedoelde overeenkomsten en stukken door het bestuur zijn ontvangen, dienen de ontvanger van de subsidie en het bestuur een uitvoeringsovereenkomst te tekenen.
 
 2. In de uitvoeringsovereenkomst worden de aan de subsidie verbonden nadere verplichtingen vastgelegd, waaronder:
 
@@ -416,21 +409,21 @@ Onverminderd het bepaalde in de [Algemene wet bestuursrecht](https://wetten.over
 
 - c. de wijze waarop de met exploitatie van de filmproductie te genereren opbrengsten worden verdeeld tussen (indien van toepassing) het Fonds, andere financiers en de rechthebbenden;
 
-- d. dat de ontvanger van de subsidie iedere partij waarbij hij diensten betrekt die op grond van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=8&z=2026-07-01&g=2026-07-01), medebepalend zijn voor de hoogte van de subsidie de Verklaring Uitvoerenden en Leveranciers (VUL) schriftelijk laat verklaren dat deze partij:
+- d. dat de ontvanger van de subsidie iedere partij waarbij hij diensten betrekt die op grond van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=8&z=2026-07-01&g=2026-07-01), medebepalend zijn voor de hoogte van de subsidie de Verklaring Uitvoerenden en Leveranciers (VUL) schriftelijk laat verklaren dat deze partij:
 
-  - (i). belastingplichtig in Nederland te zijn en dat over de winst die wordt behaald met de verrichte diensten, belasting wordt betaald in Nederland;
+   - (i) belastingplichtig in Nederland te zijn en dat over de winst die wordt behaald met de verrichte diensten, belasting wordt betaald in Nederland;
 
-  - (ii). haar vaste verblijfplaats te hebben in Nederland dan wel in Nederland een permanente vestiging te hebben en vanuit daar aantoonbaar economische activiteiten verricht;
+   - (ii) haar vaste verblijfplaats te hebben in Nederland dan wel in Nederland een permanente vestiging te hebben en vanuit daar aantoonbaar economische activiteiten verricht;
 
-  - (iii). de diensten zelf te verrichten indien en voor zover opgevoerd als besteed in Nederland, en;
+   - (iii) de diensten zelf te verrichten indien en voor zover opgevoerd als besteed in Nederland, en;
 
-  - (iv). het Fonds desgewenst inzage te geven dan wel toegang te geven tot haar administratie voor zover zulks door het Fonds noodzakelijk wordt geacht met het oog op de verantwoording en de vaststelling van de verleende subsidie.
+   - (iv) het Fonds desgewenst inzage te geven dan wel toegang te geven tot haar administratie voor zover zulks door het Fonds noodzakelijk wordt geacht met het oog op de verantwoording en de vaststelling van de verleende subsidie.
 
 #### – verplichtingen besteding –
 
 ##### Artikel 15
 
-1. Met inachtneming van [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=7&z=2026-07-01&g=2026-07-01), is de ontvanger van de subsidie
+1. Met inachtneming van [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=7&z=2026-07-01&g=2026-07-01), is de ontvanger van de subsidie
 
 verplicht 100% van de Productiekosten, die door de aanvrager bij de aanvraag zijn aangemerkt als besteding aan filmprofessionals en filmbedrijven in Nederland, aantoonbaar in Nederland uit te geven. Het deel van de productiekosten dat in Nederland wordt uitgegeven, wordt, evenals de besteding in mogelijke andere territoria, in overeenstemming met de hierbij behorende financieringsafspraken, separaat aangegeven in de ingediende productiebegroting.
 
@@ -452,11 +445,11 @@ verplicht 100% van de Productiekosten, die door de aanvrager bij de aanvraag zij
 
 - a. toont aan, op in de beschikking tot verlening van de subsidie aangegeven wijze, dat de filmproductie is gerealiseerd en dat is voldaan aan alle verplichtingen verbonden aan de subsidie;
 
-- b. legt aan het Fonds een actueel en waarheidsgetrouw overzicht over van alle opbrengsten, uitgaven en de territoriale besteding, waaronder een opgave van de op grond van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=8&z=2026-07-01&g=2026-07-01) bedoelde uitgaven die medebepalend zijn voor de hoogte van de subsidie;
+- b. legt aan het Fonds een actueel en waarheidsgetrouw overzicht over van alle opbrengsten, uitgaven en de territoriale besteding, waaronder een opgave van de op grond van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=8&z=2026-07-01&g=2026-07-01) bedoelde uitgaven die medebepalend zijn voor de hoogte van de subsidie;
 
 - c. informeert het Fonds adequaat en schriftelijk over de première, de kosten, het publieksbereik via alle eindexploitanten en de opbrengsten die door distributie en exploitatie van de filmproductie, waarvoor een subsidie is verleend, worden voortgebracht;
 
-- d. is verplicht onverminderd het bepaalde in [artikel 4:45 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:45) een DCP van de filmproductie waarvoor een subsidie is verleend op te leveren.
+- d. is verplicht onverminderd het bepaalde in [artikel 4:45 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:45) een DCP van de filmproductie waarvoor een subsidie is verleend op te leveren.
 
 2. De ontvanger van de subsidie is verplicht een financieel verslag in te dienen inzake werkelijk gerealiseerde kosten en opbrengsten van de filmproductie.
 
@@ -468,13 +461,13 @@ verplicht 100% van de Productiekosten, die door de aanvrager bij de aanvraag zij
 
 - c. de door de ontvanger van de subsidie en, in geval het een internationale coproductie betreft, door de producenten uit de landen van herkomst ontvangen financiering van derden.
 
-4. Het financiële verslag voldoet aan de eisen bedoeld in [artikel 17, eerste lid, sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=17&z=2026-07-01&g=2026-07-01), en sluit aan op de indeling van de begroting en het financieringsplan die voorafgaand aan de verlening van de subsidie of bij de ondertekening van de uitvoeringsovereenkomst zijn overgelegd en door het Fonds zijn goedgekeurd volgens het Financieel & Productioneel Protocol Stimuleringsmaatregel van het Fonds. Belangrijke verschillen tussen financieel verslag en begroting en/of financieringsplan worden toegelicht.
+4. Het financiële verslag voldoet aan de eisen bedoeld in [artikel 17, eerste lid, sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=17&z=2026-07-01&g=2026-07-01), en sluit aan op de indeling van de begroting en het financieringsplan die voorafgaand aan de verlening van de subsidie of bij de ondertekening van de uitvoeringsovereenkomst zijn overgelegd en door het Fonds zijn goedgekeurd volgens het Financieel & Productioneel Protocol Stimuleringsmaatregel van het Fonds. Belangrijke verschillen tussen financieel verslag en begroting en/of financieringsplan worden toegelicht.
 
-5. De ontvanger van de subsidie is verplicht om het financieel verslag te voorzien van een verklaring van de accountant als bedoeld in [artikel 393, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), voor zover niet anders is overeengekomen in de uitvoeringsovereenkomst. Deze accountant volgt het Handboek Financiële Verantwoording van het Fonds.
+5. De ontvanger van de subsidie is verplicht om het financieel verslag te voorzien van een verklaring van de accountant als bedoeld in [artikel 393, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), voor zover niet anders is overeengekomen in de uitvoeringsovereenkomst. Deze accountant volgt het Handboek Financiële Verantwoording van het Fonds.
 
 6. Vertegenwoordigers van het Fonds hebben op eerste verzoek inzage in de administratie die betrekking heeft op de filmproductie waarvoor de subsidie is verleend.
 
-7. Onverminderd het in dit artikel bepaalde kan het Fonds na verlening van de subsidie op elk door het Fonds gewenst moment controleren of aan de verplichtingen verbonden aan de subsidie is voldaan. Deze controle kan zich ook richten op de in [artikel 14, tweede lid sub d](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=14&z=2026-07-01&g=2026-07-01).) genoemde derden en, in geval de verlening van de subsidie een internationale coproductie betreft, op de daarbij betrokken coproducenten.
+7. Onverminderd het in dit artikel bepaalde kan het Fonds na verlening van de subsidie op elk door het Fonds gewenst moment controleren of aan de verplichtingen verbonden aan de subsidie is voldaan. Deze controle kan zich ook richten op de in [artikel 14, tweede lid sub d](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=14&z=2026-07-01&g=2026-07-01).) genoemde derden en, in geval de verlening van de subsidie een internationale coproductie betreft, op de daarbij betrokken coproducenten.
 
 #### – vaststelling –
 
@@ -482,13 +475,13 @@ verplicht 100% van de Productiekosten, die door de aanvrager bij de aanvraag zij
 
 1. Binnen vier maanden na eerste openbaarmaking van de filmproductie dient de ontvanger van de subsidie een aanvraag tot vaststelling in, tenzij een andere termijn is vastgelegd in de uitvoeringsovereenkomst. Indien deze termijn wordt overschreden, is het bestuur bevoegd de verleende subsidie ambtshalve vast te stellen.
 
-2. De aanvraag tot vaststelling gaat vergezeld van de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=17&z=2026-07-01&g=2026-07-01) en in de uitvoeringsovereenkomst genoemde bescheiden.
+2. De aanvraag tot vaststelling gaat vergezeld van de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=17&z=2026-07-01&g=2026-07-01) en in de uitvoeringsovereenkomst genoemde bescheiden.
 
 3. De ontvanger van de subsidie is verplicht op verzoek van het Fonds alle overige bescheiden en inlichtingen te verstrekken die het Fonds noodzakelijk acht voor het vaststellen van de subsidie.
 
 4. De ontvanger van de subsidie draagt er zorg voor dat zijn accountant medewerking verleent aan een eventueel onderzoek door of vanwege het Fonds naar de door de accountant van de aanvrager verrichte (controle) werkzaamheden. De kosten die zijn gemoeid met de medewerking van de accountant, komen voor rekening van de ontvanger van de subsidie.
 
-5. Het bestuur stelt de hoogte van de subsidie op grond van de aantoonbaar in Nederland bestede en kwalificerende productiekosten uiterlijk 22 weken na de in het eerste lid bedoelde indieningtermijn vast. Het bedrag waarop de subsidie wordt vastgesteld kan niet hoger zijn dan het bedrag van de verleende subsidie.
+5. Het bestuur stelt de hoogte van de subsidie op grond van de aantoonbaar in Nederland bestede en kwalificerende productiekosten uiterlijk 22 weken na de in het eerste lid bedoelde indieningtermijn vast. Het bedrag waarop de subsidie wordt vastgesteld kan niet hoger zijn dan het bedrag van de verleende subsidie.
 
 #### – betaling –
 
@@ -506,7 +499,7 @@ verplicht 100% van de Productiekosten, die door de aanvrager bij de aanvraag zij
 
 Het bestuur kan, zolang de subsidie niet is vastgesteld, de verlening van de subsidie intrekken of ten nadele van de ontvanger wijzigen, indien één van de in [artikel, 4:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48) genoemde gevallen of omstandigheden zich voordoet, waaronder:
 
-- a. de omstandigheid dat de ontvanger van de subsidie niet heeft voldaan aan de verplichtingen verbonden aan de subsidie, waaronder maar niet beperkt tot, de verplichtingen zoals bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=13&z=2026-07-01&g=2026-07-01), dan wel tekort is geschoten in de nakoming van de verplichtingen voortvloeiend uit de verlening van de subsidie;
+- a. de omstandigheid dat de ontvanger van de subsidie niet heeft voldaan aan de verplichtingen verbonden aan de subsidie, waaronder maar niet beperkt tot, de verplichtingen zoals bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0052834&artikel=13&z=2026-07-01&g=2026-07-01), dan wel tekort is geschoten in de nakoming van de verplichtingen voortvloeiend uit de verlening van de subsidie;
 
 - b. als het bestuur constateert dat substantiële wijzigingen zijn opgetreden ten opzichte van de bij de aanvraag dan wel bij de totstandkoming van de uitvoeringsovereenkomst overgelegde gegevens;
 
@@ -528,118 +521,12 @@ Het bestuur evalueert tenminste éénmaal in de vier jaar de effecten van de uit
 
 2. Het bestuur kan om zwaarwegende redenen afwijken van dit reglement, voor zover dergelijke afwijkingen verenigbaar zijn met het beoordelingskader voor staatssteun aan de filmsector, zoals dat wordt gehanteerd door de Europese Commissie.
 
-3. Dit reglement is in werking getreden met ingang van 20 mei 2014. Per 1 juli 2026 zijn wijzigingen in het reglement doorgevoerd met goedkeuring van de Raad van Toezicht op 4 juni 2026.
+3. Dit reglement is in werking getreden met ingang van 20 mei 2014. Per 1 juli 2026 zijn wijzigingen in het reglement doorgevoerd met goedkeuring van de Raad van Toezicht op 4 juni 2026.
 
-4. Dit reglement treedt in werking met ingang van 1 juli 2026.
+4. Dit reglement treedt in werking met ingang van 1 juli 2026.
 
-5. Het [reglement, geldend vanaf 1 januari 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050650), is per 1 juli 2026 ingetrokken. Op alle aanvragen die door het Fonds voor 1 juli 2026 zijn ontvangen blijft het reglement zoals deze gold tot 1 juli 2026 van toepassing.
+5. Het [reglement, geldend vanaf 1 januari 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050650), is per 1 juli 2026 ingetrokken. Op alle aanvragen die door het Fonds voor 1 juli 2026 zijn ontvangen blijft het reglement zoals deze gold tot 1 juli 2026 van toepassing.
 
 6. Dit reglement wordt aangehaald als Reglement Stimuleringsmaatregel Filmproductie in Nederland van de Stichting Nederlands Fonds voor de Film.
 
 7. Dit reglement wordt bekendgemaakt middels kennisgeving in de Staatscourant en op de website van het Nederlands Fonds voor de Film ([www.filmfonds.nl](http://www.filmfonds.nl)).
-
-## Bijlage 1. Kwalificatietoets
-
-De productie-uitgaven die in aanmerking worden genomen voor de berekening van de subsidie zijn beperkt. Deze uitgaven hebben uitsluitend betrekking op de kosten die gemaakt worden voor de realisering van de filmproductie en hebben derhalve als doel de voltooiing van de productie. Productie-uitgaven komen enkel in aanmerking als ze realistisch, kostenefficiënt en marktconform zijn en er daarbij geen sprake is van deferments, conform de bepalingen in het Financieel & Productioneel Protocol Stimuleringsmaatregel.
-
-De kosten voor technische filmapparatuur (bijv. camera's, licht- en geluidsapparatuur) kwalificeren mits rechtstreeks gekocht, geleased of gehuurd in Nederland. Van de aanschafwaarde van duurzame productiemiddelen (waaronder begrepen – maar niet beperkt tot – computers, monitoren, harde schijven, software, camera’s, licht- en geluidsapparatuur) kan slechts een percentage als productiekosten worden opgevoerd dat afhankelijk is van de periode waarbinnen die duurzame productiemiddelen ten behoeve van de internationale coproductie worden gebruikt; bij een gebruik daarvan gedurende 30 dagen of minder, kan 5% van de aanschafwaarde (exclusief BTW) van het betreffende duurzame productiemiddel aan productiekosten worden opgevoerd; dat laatstbedoelde percentage bedraagt 10% bij een gebruik van meer dan 30 dagen.
-
-De volgende kosten komen in ieder geval niet in aanmerking voor een bijdrage op grond van dit reglement:
-
-- •. kosten samenhangend met de onderneming van de aanvrager of betrokken coproducenten zelf, waaronder salariskosten, kosten voor de inrichting en huur of hypotheeklasten van het productiekantoor, secretariële ondersteuning, post, telefonie, internet en gsm, koeriers, en andere administratieve kosten en bureaumateriaal, met uitzondering van (markconform begrote) leidinggevende of specialistische functies binnen het uitvoerende productieproces noodzakelijk voor de totstandkoming van de filmproductie;
-
-- •. taxikosten, aankoop brandstof, kilometerdeclaraties
-
-- •. quitclaimvergoedingen, tenzij opgevoerd via een factuur met specificatie van het figuratiebureau;
-
-- •. representatie, reis-en verblijfkosten met uitzondering van hotelovernachtingen en openbaar vervoer over land in het kader van duurzaamheid;
-
-- •. financierings- en accountantskosten;
-
-- •. juridische en fiscale kosten;
-
-- •. onvoorziene kosten, voor zover deze meer bedragen dan 5% van de kwalificerende productiekosten (bij de verantwoording moet blijken dat deze kosten ook daadwerkelijk zijn besteed aan productiekosten die kwalificeren);
-
-- •. de overhead;
-
-- •. de producers’ fee, voor zover deze meer bedraagt dan 7.5% van de kwalificerende productiekosten;
-
-- •. de reeds gemaakte ontwikkelingskosten;
-
-- •. alle rechtenvergoedingen die worden voldaan voor het gebruik van niet speciaal voor de filmproductie vervaardigde rechten (zoals boek- en format rechten, bestaande muziek en beeld opnamen en -werken).
-
-Productiekosten die kwalificeren kunnen in aanmerking komen voor een subsidie indien deze productiekosten aantoonbaar **rechtstreeks** zijn besteed bij **niet gelieerde binnenlandse belastingplichtigen**.
-
-**Niet gelieerd** wil zeggen dat geen van de bij de filmproductie betrokken producenten, noch hun aandeelhouders, bestuurders, beleidsbepalende personen, noch ondernemingen waarover zij controle hebben, een belangrijke mate van zeggenschap hebben over de binnenlandse belastingplichtige of ter beoordeling van het bestuur anderszins nauw gelieerd zijn aan de binnenlandse belastingplichtige.
-
-**Rechtstreeks** wil zeggen dat de binnenlandse belastingplichtige de geleverde diensten of goederen die in aanmerking worden genomen voor de berekening van de subsidie op zijn beurt niet heeft uitbesteed aan buitenlandse belastingplichtigen.
-
-**Binnenlandse belastingplichtigen**zijn rechtspersonen, personenvennootschappen en natuurlijke personen die aantoonbaar in Nederland hun vaste verblijfplaats hebben danwel in Nederland een permanente vestiging hebben en vanuit daar aantoonbaar economische activiteiten verrichten, hetgeen onder meer dient te blijken uit een inschrijving bij het Handelsregister van een Kamer van Koophandel, een bankrekening bij een bankvestiging in Nederland, met gebruikelijke facturering vanuit Nederland en – zulks ter beoordeling van het bestuur – niet in Nederland zijn gevestigd c.q. een vestiging hebben met als enige doel het voldoen aan de omschrijving van binnenlandse belastingplichtige.
-
-## Bijlage 2. Puntensysteem
-
-Op de Film Production Incentive is een puntensysteem van toepassing. Met behulp hiervan wordt vastgesteld in hoeverre de filmproductie bijdraagt aan de versterking van de filmsector en filmcultuur in Nederland, aan de ontwikkeling van creatief en technisch talent en aan de promotie van Nederland als productielocatie in binnen- en buitenland.
-
-Om voor subsidie in aanmerking te komen, heb je een **minimaal aantal punten van 75** nodig. Daarnaast geldt het volgende:
-
-### 1. Creatief talent en bepalende crew gedurende het gehele filmproductie proces
-
-Op dit onderdeel kunnen maximaal 75 punten worden behaald op basis van de inzet van creatieve talenten en de invulling van andere bepalende functies binnen het productieproces.
-
-Een natuurlijk persoon komt slechts eenmaal voor een bepaalde functie op de lijst in aanmerking, met uitzondering van de functies **director**en **screenwriter**en de functies **sound designer** en **re recording mixer**. Diegene die de functie uitvoert draagt de eindverantwoordelijkheid op die positie en heeft bij eerdere filmproducties een aantoonbare gelijke functie vervuld. Ze dienen hun vaste verblijfplaats (domicilie) aantoonbaar in Nederland1Inclusief Bonaire, St Eustatius en Saba te hebben en vanuit daar aantoonbaar economische activiteiten te verrichten en/of een aantoonbare, sterke relatie te hebben met de Nederlandse filmcultuur.
-
-Om een beroep op de regeling te kunnen doen zijn minimaal twee hoofdfuncties (1.1 tot en met 1.13,
-
-of in het geval van de categorie speelfilm 1.1 tot met 1.18) vereist. In het geval van een filmproductie met een minderheidsaandeel in de financiering vanuit Nederland waarbij de kwalificerende productiekosten die in Nederland worden besteed ten minste 1 miljoen bedragen is minimaal één hoofdfunctie vereist en kunnen daarnaast andere functies meetellen indien deze hoofdverantwoordelijk zijn voor de uitvoering van het Nederlandse deel van de productie. In het geval van een animatiefilm met een minderheidsaandeel in de financiering vanuit Nederland tellen de functies mee indien deze hoofdverantwoordelijk zijn voor het Nederlandse deel van de productie.
-
-In de categorie speelfilm kunnen maximaal 10 punten worden behaald met overige crewleden (1 punt per crewlid) die overwegend, of in verhouding tot een bepaald percentage van het totaal aantal draaidagen, die functie hebben vervuld. In de categorie animatiefilm kunnen extra punten worden behaald op grond van de specifieke animatietechniek.
-
-Indien er sprake is van een Nederlandse minoritaire coproductie dan mag het subtotaal aan behaalde punten in dit onderdeel vermenigvuldigd worden met twee, zij het gemaximeerd tot 75 punten.
-
-### 2. Productie en financiering
-
-Dit onderdeel richt zich op productionele en financiële elementen die van toepassing zijn op de betreffende categorie. Op dit onderdeel kunnen maximaal 75 punten worden behaald.
-
-Bij speelfilm betreffen de onderdelen 2.1 tot en met 2.3 het laatste stadium van de realisering, namelijk de postproductie. Deze punten worden toegekend indien deze bestedingen in belangrijke mate in Nederland plaatsvinden. Voor 2.1 is dat een minimaal bedrag aan visuele effecten. Voor 2.2 en 2.3 is dat een minimaal percentage van het betreffende budget voor beeld- of geluidsnabewerking.
-
-Indien er sprake is van een Nederlandse minoritaire coproductie dan mag het subtotaal aan behaalde punten op 2.1, 2.2. en 2.3 vermenigvuldigd worden met anderhalf, zij het gemaximeerd tot 75 punten.
-
-Onderdeel 2.4 betreft de mate van financiering, die op het moment van aanvraag al bevestigd is door buitenlandse financiers in de vorm van schriftelijke bestuursbesluiten of onvoorwaardelijke financiële toezeggingen waarmee zij zichzelf verbinden aan de filmproductie. In het **Financieel & Productioneel Protocol Stimuleringsmaatregel** staat beschreven waar toezeggingen bij aanvraag aan moeten voldoen om te kwalificeren.
-
-### 3. Internationale status en bioscoopsucces
-
-Op dit onderdeel kunnen maximaal 10 punten worden behaald.
-
-De punten kunnen worden toegekend wanneer de regisseur en/of scenarist en/of producent namens de aanvragende productiemaatschappij in de voorgaande tien jaar met eerder eigen werk is/zijn geselecteerd voor festivals/podia of is/zijn onderscheiden met specifieke prijzen, die vallen binnen het overzicht van podia en prijzen in het **Financieel & Productioneel Protocol Stimuleringsmaatregel,**of als een eerdere eigen filmproductie in diezelfde periode een groot bioscoopsucces in de Nederlandse bioscopen is geweest. Een speelfilm of lange animatiefilm wordt als groot bioscoopsucces aangemerkt als de film 300.000 of meer bioscoopbezoekers heeft getrokken. Een documentaire wordt als groot bioscoopsucces aangemerkt als de film 20.000 of meer bioscoopbezoekers heeft getrokken.
-
-Maccs box, het formele registratiesysteem van bioscopen en filmtheaters is daarvoor bepalend.
-
-De punten gelden zowel voor (een) betrokken Nederlandse als buitenlandse regisseur en/of scenarist. Voor de producent geldt een eerdere filmproductie van dezelfde aanvragende productiemaatschappij waarvoor de producent als hoofdproducent eindverantwoordelijk was.
-
-### 4. De impact
-
-Op dit onderdeel kunnen maximaal 40 punten worden behaald.
-
-Om de impact van een filmproductie te bepalen kunnen punten toegewezen worden als het project in zijn geheel bijdraagt aan de doelstelling van de regeling.
-
-### 4.1. multiplier effect (20 punten)
-
-Om bij onderdeel 4.1. te bepalen of de subsidie een significante impact zal hebben op de productieactiviteit in Nederland, wordt gekeken naar de verhouding tussen de Nederlandse bestedingen en de beoogde Incentivebijdrage van een filmproductie, de zogenaamde ‘multiplier’. Het gaat hier specifiek om bestedingen in Nederland waaronder Bonaire, St. Eustatius en Saba. Bestedingen op Curaçao, Aruba en St. Maarten worden niet gezien als uitgaven in Nederland.
-
-De berekening die daarvoor gehanteerd wordt is: Nederlandse uitgaven minus subsidiebedragen van het Fonds op grond van de deelreglementen ontwikkeling en realisering in Nederland, gedeeld door de incentivesubsidie. Bij de beoordeling van de multiplier worden revolverende middelen gezien als eigen investering van de producent. Filmproducties die voldoen aan de in de puntentelling opgenomen percentages komen in aanmerking voor toekenning van de punten op dit onderdeel:
-
-### 4.2. diversiteit & gender gelijkheid (10 punten)
-
-Om meer diversiteit binnen de Nederlandse filmsector te stimuleren, worden 5 punten toegekend indien tenminste twee van de drie functies van regisseur, scenarist, producent worden bekleed door een persoon die zich identificeert als vrouw, en 5 punten wanneer de Bechdeltest qua vrouwelijke representatie kan worden vastgesteld. Dit houdt in dat er in de film minimaal twee vrouwelijke rollen zijn, die beide een naam hebben, met elkaar praten en het gesprek over iets anders gaat dan een man. De aanvrager dient aan te geven uit welke scène en op welke pagina van het script dit blijkt. En dat dient ook bij realisering in stand te blijven.
-
-### 4.3. duurzaamheid (10 punten)
-
-De bijdrage aan de verduurzaming van het filmproces kan ook extra punten opleveren. Daarvoor moeten de ecologische voetafdruk van de filmproductie zijn berekend en is de inzet om te voldoen aan de minimumvereisten van de ecologische standaard.
-
-### 2.1. Puntensysteem – Categorie Speelfilm
-
-### 2.2. Puntensysteem – Categorie Documentaire
-
-### 2.3. Puntensysteem – Categorie Animatiefilm
-
-## Bijlage 3. Onafhankelijkheidstoets filmproductie

@@ -1,58 +1,19 @@
 ---
 title: "Verdrag inzake de samenwerking op het gebied van cultuur, onderwijs, wetenschappen en welzijn tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap in het Koninkrijk België"
 identifier: "BWBV0001274"
-country: "nl"
-rank: "verdrag"
-publication_date: "1997-03-01"
-last_updated: "1997-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001274"
+categorie: "Onderwijs"
 soort: "verdrag"
-stam_id: "10000245793"
-version_id: "10000253752"
-internal_id: "C10006986101"
-label_id: "10000245934"
-original_entry_into_force: "1997-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001274/1997-03-01/0"
-intitule_bron: "Trb.1995-52 HERDRUK"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-01-27"
-intitule_published: "1995-02-15"
-intitule_in_force: "1997-02-28"
-intitule_status: "goed"
-original_publication: "Trb.1995-52 HERDRUK"
-original_signed_date: "1997-01-27"
-original_published_date: "1995-02-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1995-52 HERDRUK"
-entry_into_force_date: "1997-03-01"
-jci_1_3: "jci1.3:c:BWBV0001274&z=1997-03-01&g=1997-03-01"
-jci_1_0: "1.0:c:BWBV0001274&g=1997-03-01"
-citeertitel_status: "officieel"
-signed_date: "1997-01-27"
-entry_into_force: "1997-03-01"
+publicatiedatum: 1997-03-01
+laatste_update: 1997-03-01
+status: geldig
+toestand: 1997-03-01
+bron: "https://wetten.overheid.nl/BWBV0001274"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag inzake de samenwerking op het gebied van cultuur, onderwijs, wetenschappen en welzijn tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap in het Koninkrijk België
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Vlaamse Gemeenschap in het Koninkrijk België,
-
-hierna te noemen de „Verdragsluitende Partijen",
-
-Gelet op hun verbondenheid op het gebied van geschiedenis en cultuur alsmede hun gemeenschappelijke taal,
-
-Gelet op het Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake de Nederlandse Taalunie,
-
-Gelet op hun gemeenschappelijke belangen, inzonderheid in Europa,
-
-Geleid door de wil de culturele samenwerking in de ruimste zin te bevorderen en te ontwikkelen alsmede in dit kader internationaal gezamenlijk op te treden,
-
-Ervan overtuigd dat deze samenwerking zal bijdragen tot meer wederzijds begrip en vriendschap,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap in het Koninkrijk België, hierna te noemen de „Verdragsluitende Partijen", Gelet op hun verbondenheid op het gebied van geschiedenis en cultuur alsmede hun gemeenschappelijke taal, Gelet op het Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake de Nederlandse Taalunie, Gelet op hun gemeenschappelijke belangen, inzonderheid in Europa, Geleid door de wil de culturele samenwerking in de ruimste zin te bevorderen en te ontwikkelen alsmede in dit kader internationaal gezamenlijk op te treden, Ervan overtuigd dat deze samenwerking zal bijdragen tot meer wederzijds begrip en vriendschap, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -116,13 +77,13 @@ TEN BLIJKE WAARVAN de vertegenwoordigers van de Regeringen der Verdragsluitende 
 
 OPGEMAAKT in Antwerpen, op 17 januari 1995, in twee originele exemplaren.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) J. M. M. RITZEN
 
 (w.g.) M. PATIJN
 
-**Voor de Vlaamse Gemeenschap in het Koninkrijk België**
+*Voor de Vlaamse Gemeenschap in het Koninkrijk België*
 
 (w.g.) H. WECKX
 

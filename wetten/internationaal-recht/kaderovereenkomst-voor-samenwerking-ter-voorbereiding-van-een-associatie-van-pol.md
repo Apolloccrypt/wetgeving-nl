@@ -1,104 +1,21 @@
 ---
 title: "Kaderovereenkomst voor samenwerking ter voorbereiding van een associatie van politieke en economische aard tussen de Europese Gemeenschap en haar Lid-Staten, enerzijds, en de Republiek Chili, anderzijds, als einddoel"
 identifier: "BWBV0001351"
-country: "nl"
-rank: "verdrag"
-publication_date: "1999-02-01"
-last_updated: "1999-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001351"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000405303"
-version_id: "10000413892"
-internal_id: "C10006988021"
-label_id: "10000406004"
-original_entry_into_force: "1999-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001351/1999-02-01/0"
-intitule_bron: "Trb.1996-291"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-07-17"
-intitule_published: "1996-10-29"
-intitule_in_force: "1999-04-06"
-intitule_status: "goed"
-original_publication: "Trb.1996-291"
-original_signed_date: "1998-07-17"
-original_published_date: "1996-10-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1996-291"
-entry_into_force_date: "1999-02-01"
-jci_1_3: "jci1.3:c:BWBV0001351&z=1999-02-01&g=1999-02-01"
-jci_1_0: "1.0:c:BWBV0001351&g=1999-02-01"
-citeertitel_status: "officieel"
-signed_date: "1998-07-17"
-entry_into_force: "1999-02-01"
+publicatiedatum: 1999-02-01
+laatste_update: 1999-02-01
+status: geldig
+toestand: 1999-02-01
+bron: "https://wetten.overheid.nl/BWBV0001351"
+opgehaald: 2026-09-11
 ---
+
 # Kaderovereenkomst voor samenwerking ter voorbereiding van een associatie van politieke en economische aard tussen de Europese Gemeenschap en haar Lid-Staten, enerzijds, en de Republiek Chili, anderzijds, als einddoel
 
-Het Koninkrijk België,
+*Het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Partijen bij het Verdrag tot oprichting van de Europese Gemeenschap en het Verdrag van de Europese Unie, hierna aangeduid als „de Lid-Staten van de Europese Gemeenschap”, De Europese Gemeenschap, hierna aangeduid als „de Gemeenschap”, enerzijds, en De Republiek Chili, hierna aangeduid als „Chili”, anderzijds, Overwegende dat zij een cultureel erfgoed gemeen hebben en dat tussen hen nauwe historische, politieke en economische banden bestaan; Overwegende dat de op 20 december 1990 ondertekende Kaderovereenkomst voor Samenwerking tussen de Europese Economische Gemeenschap en Chili een essentiële bijdrage heeft geleverd tot versterking van al deze banden; Overwegende dat zij de eerbiediging van de democratische beginselen en de fundamentele mensenrechten, zoals vermeld in de Universele Verklaring van de Rechten van de Mens, ten volle onderschrijven; Overwegende dat beide Partijen groot belang hechten aan de waarden en beginselen die zijn vervat in de Slotverklaring van de Sociale Top die in maart 1995 in Kopenhagen heeft plaatsgevonden; Rekening houdende met het streven van beide Partijen om een duurzame ontwikkeling te verzekeren en tevens met de noodzaak het milieu in stand te houden en te beschermen; Overwegende dat zij de markteconomie zijn toegedaan en bevestigend dat zij vastbesloten zijn de regels van een vrije internationale handel volgens de normen van de Wereldhandelsorganisatie (WHO) te handhaven en te versterken, daarbij in het bijzonder wijzend op het belang van een open vorm van regionalisme; Overwegende dat beide Partijen belang hebben bij de totstandkoming van nieuwe contractuele banden ten einde hun samenwerking te versterken en uit te breiden, de onderlinge handel te intensiveren en diversifiëren en de investeringsstromen te verhogen; Overwegende dat beide Partijen bezield zijn van de politieke wil om, als einddoel, een associatie van politieke en economische aard tussen de Europese Gemeenschap en haar Lid-Staten en Chili op te richten, op basis van diepgaande politieke samenwerking, geleidelijke en wederzijdse liberalisering van het gehele handelsverkeer, met inachtneming van de gevoeligheid van bepaalde produkten en overeenkomstig de regels van de Wereldhandelsorganisatie, en tenslotte bevordering van investeringen en verdieping van de samenwerking; Rekening houdende met de termen van de gezamenlijke verklaring over de politieke dialoog, waarin beide Partijen zijn overeengekomen een versterkte politieke dialoog aan te gaan om zich meer te kunnen concentreren op punten van gemeenschappelijk belang, ten einde hun betrekkingen in een lange-termijnperspectief te plaatsen, Hebben besloten deze overeenkomst te sluiten:*
 
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-Ierland,
-
-de Italiaanse Republiek,
-
-het Groothertogdom Luxemburg,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Portugese Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-Partijen bij het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) en het [Verdrag van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507), hierna aangeduid als „de Lid-Staten van de Europese Gemeenschap”,
-
-De Europese Gemeenschap,
-
-hierna aangeduid als „de Gemeenschap”,
-
-enerzijds, en
-
-De Republiek Chili,
-
-hierna aangeduid als „Chili”,
-
-anderzijds,
-
-Overwegende dat zij een cultureel erfgoed gemeen hebben en dat tussen hen nauwe historische, politieke en economische banden bestaan;
-
-Overwegende dat de op 20 december 1990 ondertekende Kaderovereenkomst voor Samenwerking tussen de Europese Economische Gemeenschap en Chili een essentiële bijdrage heeft geleverd tot versterking van al deze banden;
-
-Overwegende dat zij de eerbiediging van de democratische beginselen en de fundamentele mensenrechten, zoals vermeld in de [Universele Verklaring van de Rechten van de Mens](https://wetten.overheid.nl/jci1.3:c:BWBV0001008), ten volle onderschrijven;
-
-Overwegende dat beide Partijen groot belang hechten aan de waarden en beginselen die zijn vervat in de Slotverklaring van de Sociale Top die in maart 1995 in Kopenhagen heeft plaatsgevonden;
-
-Rekening houdende met het streven van beide Partijen om een duurzame ontwikkeling te verzekeren en tevens met de noodzaak het milieu in stand te houden en te beschermen;
-
-Overwegende dat zij de markteconomie zijn toegedaan en bevestigend dat zij vastbesloten zijn de regels van een vrije internationale handel volgens de normen van de Wereldhandelsorganisatie (WHO) te handhaven en te versterken, daarbij in het bijzonder wijzend op het belang van een open vorm van regionalisme;
-
-Overwegende dat beide Partijen belang hebben bij de totstandkoming van nieuwe contractuele banden ten einde hun samenwerking te versterken en uit te breiden, de onderlinge handel te intensiveren en diversifiëren en de investeringsstromen te verhogen;
-
-Overwegende dat beide Partijen bezield zijn van de politieke wil om, als einddoel, een associatie van politieke en economische aard tussen de Europese Gemeenschap en haar Lid-Staten en Chili op te richten, op basis van diepgaande politieke samenwerking, geleidelijke en wederzijdse liberalisering van het gehele handelsverkeer, met inachtneming van de gevoeligheid van bepaalde produkten en overeenkomstig de regels van de Wereldhandelsorganisatie, en tenslotte bevordering van investeringen en verdieping van de samenwerking;
-
-Rekening houdende met de termen van de gezamenlijke verklaring over de politieke dialoog, waarin beide Partijen zijn overeengekomen een versterkte politieke dialoog aan te gaan om zich meer te kunnen concentreren op punten van gemeenschappelijk belang, ten einde hun betrekkingen in een lange-termijnperspectief te plaatsen,
-
-Hebben besloten deze overeenkomst te sluiten:
-
-## TITEL I. AARD EN TOEPASSINGSGEBIED
+### TITEL I. AARD EN TOEPASSINGSGEBIED
 
 ##### Artikel 1. Grondslag van de overeenkomst
 
@@ -110,7 +27,7 @@ De eerbiediging van de democratische beginselen en de fundamentele mensenrechten
 
 2. Met het oog op de verwezenlijking van deze doelstellingen bestrijkt deze overeenkomst de gebieden politieke dialoog, handel, economie en samenwerking, alsook andere sectoren van gemeenschappelijk belang, ten einde de betrekkingen tussen de Partijen en hun respectieve instellingen te intensiveren.
 
-## TITEL II. POLITIEKE DIALOOG
+### TITEL II. POLITIEKE DIALOOG
 
 ##### Artikel 3
 
@@ -118,7 +35,7 @@ De eerbiediging van de democratische beginselen en de fundamentele mensenrechten
 
 2. De ministeriële dialoog waarin de gezamenlijke verklaring voorziet zal plaatsvinden binnen de bij artikel 33 van deze overeenkomst ingestelde raad of in andere, in onderlinge overeenstemming aan te wijzen fora op hetzelfde niveau.
 
-## TITEL III. HANDELSGEBIED: HANDELSSAMENWERKING EN VOORBEREIDING VAN DE HANDELSLIBERALISERING
+### TITEL III. HANDELSGEBIED: HANDELSSAMENWERKING EN VOORBEREIDING VAN DE HANDELSLIBERALISERING
 
 ##### Artikel 4. Oogmerken
 
@@ -158,9 +75,9 @@ De samenwerking zal hoofdzakelijk bestaan uit:
 
 - a. verstrekking van technische bijstand aan Chili op het gebied van standaardisering, erkenning, certificatie en metrologie om op deze gebieden een systeem en structuren op te zetten die verenigbaar zijn met:
 
-- –. de internationale normen,
+   - – de internationale normen,
 
-- –. de essentiële vereisten voor bescherming van de veiligheid en gezondheid van de mens, het voortbestaan van planten en dieren, bescherming van de consument en behoud van het milieu;
+   - – de essentiële vereisten voor bescherming van de veiligheid en gezondheid van de mens, het voortbestaan van planten en dieren, bescherming van de consument en behoud van het milieu;
 
 - b. de samenwerking zal beogen de totstandkoming van een Kaderovereenkomst van wederzijdse erkenning te vergemakkelijken wanneer de betreffende sectoren daarvoor technisch rijp zijn;
 
@@ -216,7 +133,7 @@ De Partijen komen overeen te streven naar meer overeenstemming in hun methoden o
 
 4. De Partijen overwegen de mogelijkheid in deze sector jaarlijks overleg te plegen.
 
-## TITEL IV. ECONOMISCHE SAMENWERKING
+### TITEL IV. ECONOMISCHE SAMENWERKING
 
 ##### Artikel 12. Oogmerken
 
@@ -410,7 +327,7 @@ In dit kader zal bijzondere aandacht worden besteed aan behoud van de ecosysteme
 
 2. De samenwerking zal worden uitgevoerd via maatregelen zoals wederzijdse uitwisseling van informatie, technische bijstand, wetenschappelijke en technologische experimenten.
 
-## TITEL V. ANDERE SAMENWERKINGSGEBIEDEN
+### TITEL V. ANDERE SAMENWERKINGSGEBIEDEN
 
 ##### Artikel 22. Oogmerken en toepassingsgebieden
 
@@ -534,7 +451,7 @@ De Partijen komen overeen dat de samenwerking op dit gebied zal plaatsvinden met
 
 De Partijen erkennen de waarde van internationale samenwerking voor het bevorderen van rechtvaardige en duurzame ontwikkelingsprocessen en komen overeen programma's voor samenwerking met derde landen op gebieden en sectoren van gemeenschappelijk belang aan te moedigen.
 
-## TITEL VI. MIDDELEN VOOR DE TENUITVOERLEGGING VAN DE SAMENWERKING
+### TITEL VI. MIDDELEN VOOR DE TENUITVOERLEGGING VAN DE SAMENWERKING
 
 ##### Artikel 32
 
@@ -542,7 +459,7 @@ De Partijen erkennen de waarde van internationale samenwerking voor het bevorder
 
 2. De Partijen moedigen de Europese Investeringsbank aan zijn actie in Chili te versterken, overeenkomstig zijn procedures en criteria voor financiering.
 
-## TITEL VII. INSTITUTIONEEL KADER
+### TITEL VII. INSTITUTIONEEL KADER
 
 ##### Artikel 33
 
@@ -600,7 +517,7 @@ De Gezamenlijke Raad kan besluiten tot de oprichting van andere organen om hem b
 
 In het kader van hun bevoegdheden verbinden de Partijen zich overleg te plegen op alle in deze overeenkomst genoemde gebieden. De procedure voor het in de voorgaande alinea bedoelde overleg wordt vastgesteld in het huishoudelijk reglement van de Gemengde Commissie.
 
-## TITEL VIII. SLOTBEPALINGEN
+### TITEL VIII. SLOTBEPALINGEN
 
 ##### Artikel 39. Definitie van de Partijen
 
@@ -645,43 +562,5 @@ In eerste instantie moet de keuze vallen op maatregelen die de werking van deze 
 ##### Artikel 44. Authentieke teksten
 
 Deze overeenkomst is opgesteld in twee exemplaren in de Duitse, de Deense, de Spaanse, de Franse, de Finse, de Griekse, de Nederlandse, de Engelse, de Italiaanse, de Portugese en de Zweedse taal, zijnde alle teksten gelijkelijk authentiek.
-
-##### 1. Inleiding
-
-De Europese Unie en Chili,
-
-- –. zich bewust van hun gemeenschappelijk cultureel erfgoed en van de nauwe historische, politieke en economische banden die hen verenigen;
-
-- –. geleid door hun gehechtheid aan de democratische waarden en andermaal bevestigend dat de eerbiediging van de mensenrechten, de individuele vrijheden en de beginselen van de rechtsstaat, grondslag van democratische samenlevingen, het binnenlands en buitenlands beleid van de landen van de Europese Unie en van Chili bepaalt en het uitgangspunt is van hun gemeenschappelijk voornemen;
-
-- –. geleid door de wens om vrede en veiligheid in de wereld te versterken, overeenkomstig de beginselen van het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143), en vastbesloten de beginselen betreffende voorkoming of vreedzame oplossing van internationale conflicten toe te passen;
-
-- –. bevestigend dat zij belang stellen in de regionale integratie als instrument ter bevordering van een duurzame, harmonische ontwikkeling van hun volkeren, gebaseerd op beginselen van sociale vooruitgang en solidariteit tussen hun leden;
-
-- –. zich baserend op de bevoorrechte betrekkingen die zijn gecreëerd bij de Kaderovereenkomst voor Samenwerking tussen de Europese Gemeenschap en de Republiek Chili,
-
-hebben besloten hun wederkerige betrekkingen in een lange-termijnperspectief te plaatsen.
-
-##### 2. Oogmerken
-
-Rekening houdend met de conclusies die de Raad van de Europese Unie op basis van de mededeling „Naar een verdieping van de betrekkingen tussen de Europese Unie en Chili", op 17 juli 1995 heeft aangenomen, bevestigen de Partijen hun voornemen een overeenkomst te sluiten waarin zij uiting zouden geven aan hun politieke wil om als einddoel tot een associatie van politieke en economische aard te komen.
-
-Te dien einde zijn de Partijen overeengekomen een versterkte politieke dialoog in te stellen om nauwer overleg over kwesties van gemeenschappelijk belang mogelijk te maken, met name door middel van coördinatie van de respectieve standpunten in de bevoegde multilaterale fora. Deze dialoog zou samen met andere gesprekspartners uit de regio kunnen worden gehouden ofwel, indien mogelijk, als verlengstuk van andere reeds bestaande politieke dialogen.
-
-##### 3. Mechanismen voor de dialoog
-
-Ten einde deze politieke dialoog over bilaterale en internationale aangelegenheden van wederzijds belang te entameren en tot ontwikkeling te brengen, komen de Partijen het volgende overeen:
-
-- a. de president van de Republiek Chili en de hoogste autoriteit van de Europese Unie komen geregeld bijeen op vergaderingen waarvan de nadere details door de Partijen zullen worden vastgesteld;
-
-- b. er vinden geregeld bijeenkomsten plaats op het niveau van de Ministers van Buitenlandse Zaken, volgens modaliteiten die door de Partijen zullen worden vastgesteld;
-
-- c. over kwesties van wederzijds belang worden geregeld ontmoetingen gehouden wanneer de Partijen zulks nodig achten om hun betrekkingen te versterken;
-
-- d. op gezette tijden worden vergaderingen belegd tussen hoge ambtenaren van beide Partijen.
-
-##### 4
-
-De Europese Unie en Chili komen overeen dat deze gezamenlijke verklaring het begin van een nauwere en diepere betrekking inluidt.
 
 GEDAAN te Florence, de eenentwintigste juni negentienhonderd zesennegentig.

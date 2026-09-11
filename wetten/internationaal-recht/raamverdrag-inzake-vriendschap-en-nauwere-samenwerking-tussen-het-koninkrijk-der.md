@@ -1,67 +1,19 @@
 ---
 title: "Raamverdrag inzake vriendschap en nauwere samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Suriname"
 identifier: "BWBV0001175"
-country: "nl"
-rank: "verdrag"
-publication_date: "1995-05-01"
-last_updated: "1995-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001175"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002306783"
-version_id: "10002316582"
-internal_id: "C10006976271"
-label_id: "10002296824"
-dtd_version: "2.0"
-original_entry_into_force: "1995-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001175/1995-05-01/0"
-intitule_bron: "Trb.1992-103"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-03-15"
-intitule_published: "1992-07-21"
-intitule_in_force: "1995-04-19"
-intitule_status: "goed"
-original_publication: "Trb.1992-103"
-original_signed_date: "1995-03-15"
-original_published_date: "1992-07-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1992-103"
-entry_into_force_date: "1995-05-01"
-jci_1_3: "jci1.3:c:BWBV0001175&z=1995-05-01&g=1995-05-01"
-jci_1_0: "1.0:c:BWBV0001175&g=1995-05-01"
-citeertitel_status: "redactioneel"
-signed_date: "1995-03-15"
-entry_into_force: "1995-05-01"
+publicatiedatum: 1995-05-01
+laatste_update: 1995-05-01
+status: geldig
+toestand: 1995-05-01
+bron: "https://wetten.overheid.nl/BWBV0001175"
+opgehaald: 2026-09-11
 ---
+
 # Raamverdrag inzake vriendschap en nauwere samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Suriname
 
-Hare Majesteit de Koningin der Nederlanden
-
-en
-
-Zijne Excellentie de President van de Republiek Suriname,
-
-zich baserend op het Protocol van conclusies van besprekingen tussen de Regeringen van beide Staten inzake nauwere samenwerking, zoals op 16 november 1991 te Bonaire tot stand gekomen;
-
-gelet op de Overeenkomst betreffende ontwikkelingssamenwerking van 25 november 1975 cum annexis en de andere tussen beide Staten gesloten verdragen;
-
-indachtig de historische, vriendschappelijke en bijzondere betrekkingen tussen beide Staten, onder andere tot uiting komend in het grote aantal personen van Surinaamse herkomst dat in het Koninkrijk der Nederlanden verblijft;
-
-overwegende dat beide Staten streven naar een voortdurende verbetering van de omstandigheden waaronder hun volkeren leven en werken;
-
-herbevestigend de beginselen van de democratie en de rechtsstaat en van eerbiediging, handhaving en bevordering van de fundamentele rechten en vrijheden van de mens, zoals die zijn vervat in:
-
-de Universele Verklaring van de Rechten van de Mens van 10 december 1948;
-
-het Internationaal Verdrag van 19 december 1966 inzake burgerrechten en politieke rechten (met Facultatief Protocol);
-
-het Internationaal Verdrag van 19 december 1966 inzake economische, sociale en culturele rechten; en
-
-het Internationaal Verdrag van 7 maart 1966 inzake de uitbanning van alle vormen van rassendiscriminatie;
-
-vastbesloten op deze grondslag samen te werken teneinde sterker te staan tegen de gevaren die de ontwikkeling en het voortbestaan van de democratie en de rechtsstaat, de economische, sociale en culturele ontwikkeling van de samenleving en daarmee het welzijn van hun volkeren kunnen bedreigen;
-
-hebben overeenstemming bereikt over dit Raamverdrag inzake vriendschap en nauwere samenwerking, waarin de hoofdlijnen van een samenhangend stelsel van nauwere betrekkingen tussen beide Staten op basis van wederzijds respect en vertrouwen, souvereiniteit en gelijkwaardigheid worden vastgelegd:
+*Hare Majesteit de Koningin der Nederlanden en Zijne Excellentie de President van de Republiek Suriname, zich baserend op het Protocol van conclusies van besprekingen tussen de Regeringen van beide Staten inzake nauwere samenwerking, zoals op 16 november 1991 te Bonaire tot stand gekomen; gelet op de Overeenkomst betreffende ontwikkelingssamenwerking van 25 november 1975 cum annexis en de andere tussen beide Staten gesloten verdragen; indachtig de historische, vriendschappelijke en bijzondere betrekkingen tussen beide Staten, onder andere tot uiting komend in het grote aantal personen van Surinaamse herkomst dat in het Koninkrijk der Nederlanden verblijft; overwegende dat beide Staten streven naar een voortdurende verbetering van de omstandigheden waaronder hun volkeren leven en werken; herbevestigend de beginselen van de democratie en de rechtsstaat en van eerbiediging, handhaving en bevordering van de fundamentele rechten en vrijheden van de mens, zoals die zijn vervat in: - de Universele Verklaring van de Rechten van de Mens van 10 december 1948; - het Internationaal Verdrag van 19 december 1966 inzake burgerrechten en politieke rechten (met Facultatief Protocol); - het Internationaal Verdrag van 19 december 1966 inzake economische, sociale en culturele rechten; en - het Internationaal Verdrag van 7 maart 1966 inzake de uitbanning van alle vormen van rassendiscriminatie; vastbesloten op deze grondslag samen te werken teneinde sterker te staan tegen de gevaren die de ontwikkeling en het voortbestaan van de democratie en de rechtsstaat, de economische, sociale en culturele ontwikkeling van de samenleving en daarmee het welzijn van hun volkeren kunnen bedreigen; hebben overeenstemming bereikt over dit Raamverdrag inzake vriendschap en nauwere samenwerking, waarin de hoofdlijnen van een samenhangend stelsel van nauwere betrekkingen tussen beide Staten op basis van wederzijds respect en vertrouwen, souvereiniteit en gelijkwaardigheid worden vastgelegd:*
 
 ##### Artikel 1. Grondbeginselen
 
@@ -83,11 +35,11 @@ hebben overeenstemming bereikt over dit Raamverdrag inzake vriendschap en nauwer
 
 2. De samenwerking richt zich in het bijzonder op:
 
-- -. de instandhouding en versterking van de democratie en de rechtsstaat;
+- - de instandhouding en versterking van de democratie en de rechtsstaat;
 
-- -. de structurele versterking van het overheidsapparaat; en
+- - de structurele versterking van het overheidsapparaat; en
 
-- -. de bevordering van economische ontwikkeling en sociale rechtvaardigheid.
+- - de bevordering van economische ontwikkeling en sociale rechtvaardigheid.
 
 3. Samenwerking op specifieke terreinen wordt waar nodig vastgelegd in nadere overeenkomsten of accoorden.
 
@@ -105,15 +57,15 @@ hebben overeenstemming bereikt over dit Raamverdrag inzake vriendschap en nauwer
 
 2. In het kader van de bevordering van economische ontwikkeling en sociale rechtvaardigheid werken de Regeringen van beide Staten samen ten behoeve van de uitvoering van een programma van aanpassing en structurele hervorming van de Surinaamse economie gericht op herstel, groei en een rechtvaardige welvaartsverdeling. De Republiek Suriname zal de eigen middelen en inkomsten zoveel mogelijk opvoeren teneinde naar vermogen aan genoemd programma bij te dragen. De Regeringen van beide Staten zullen in de aanzet van genoemd programma ertoe overgaan nader overeen te komen bedragen ten laste van de uit hoofde van de Overeenkomst betreffende ontwikkelingssamenwerking van 25 november 1975 beschikbare middelen te bestemmen voor:
 
-- -. een investeringsprogramma voor rehabilitatie en verbetering van de infrastructuur;
+- - een investeringsprogramma voor rehabilitatie en verbetering van de infrastructuur;
 
-- -. een sociaal programma waaronder begrepen financiële bijdragen aan een sociaal fonds, om ongewenste sociale effecten bij de aanpassing en structurele hervorming van de economie zo goed mogelijk op te vangen;
+- - een sociaal programma waaronder begrepen financiële bijdragen aan een sociaal fonds, om ongewenste sociale effecten bij de aanpassing en structurele hervorming van de economie zo goed mogelijk op te vangen;
 
-- -. investeringen in sociale sectoren, onder andere ten behoeve van onderwijs, gezondheidszorg en volkshuisvesting;
+- - investeringen in sociale sectoren, onder andere ten behoeve van onderwijs, gezondheidszorg en volkshuisvesting;
 
-- -. een programma ter stimulering van de particuliere productie waaronder begrepen betalingsbalanssteun en financiële bijdragen aan een investeringsfonds; en
+- - een programma ter stimulering van de particuliere productie waaronder begrepen betalingsbalanssteun en financiële bijdragen aan een investeringsfonds; en
 
-- -. wederopbouw en ontwikkeling van het binnenland. Bovendien kunnen in verband met de versnelde uitvoering van de overeengekomen nauwere samenwerking en met inachtneming van artikel 2, lid 7, verdragsmiddelen van de Overeenkomst betreffende ontwikkelingssamenwerking van 25 november 1975 worden aangewend ten behoeve van de versterking van de democratie en de rechtsstaat.
+- - wederopbouw en ontwikkeling van het binnenland. Bovendien kunnen in verband met de versnelde uitvoering van de overeengekomen nauwere samenwerking en met inachtneming van artikel 2, lid 7, verdragsmiddelen van de Overeenkomst betreffende ontwikkelingssamenwerking van 25 november 1975 worden aangewend ten behoeve van de versterking van de democratie en de rechtsstaat.
 
 De verdeling van dat deel van de middelen dat nu reeds wordt toegewezen aan bovengenoemde categorieën wordt neergelegd in een protocol.
 
@@ -181,11 +133,11 @@ Zonodig zal daarbij worden aangegeven welke verdere werkzaamheden wenselijk word
 
 5. Het scheidsgerecht doet uitspraak op basis van het internationaal recht, zoals dat onder meer blijkt uit:
 
-- -. verdragen die door beide Partijen zijn bekrachtigd, in het bijzonder dit Raam verdrag;
+- - verdragen die door beide Partijen zijn bekrachtigd, in het bijzonder dit Raam verdrag;
 
-- -. internationaal gewoonterecht zoals blijkend uit algemene statenpraktijk;
+- - internationaal gewoonterecht zoals blijkend uit algemene statenpraktijk;
 
-- -. algemene beginselen van volkenrecht.
+- - algemene beginselen van volkenrecht.
 
 6. Het scheidsgerecht kan in ieder stadium van de procedure een minnelijke schikking van het geschil ter goedkeuring aan Partijen voorleggen.
 
@@ -217,7 +169,7 @@ TEN BLIJKE WAARVAN de ondergetekenden dit Raamverdrag hebben ondertekend.
 
 GEDAAN TE 's-Gravenhage op 18 juni 1992 in twee exemplaren, in de Nederlandse taal.
 
-**Voor het Koninkrijk der Nederlanden, daartoe gevolmachtigd door Hare Majesteit de Koningin,**
+*Voor het Koninkrijk der Nederlanden, daartoe gevolmachtigd door Hare Majesteit de Koningin,*
 
 De Minister-President:
 
@@ -231,7 +183,7 @@ De Minister van Buitenlandse Zaken:
 
 (H. van den Broek)
 
-**Voor de Republiek Suriname,**
+*Voor de Republiek Suriname,*
 
 De President:
 
@@ -239,7 +191,7 @@ De President:
 
 (R. R. Venetiaan
 
-**De Minister van Buitenlandse Zaken:**
+*De Minister van Buitenlandse Zaken:*
 
 (w.g.) S. CH. MUNGRA
 

@@ -1,18 +1,18 @@
 ---
-title: "Besluit aanwijzing toezichthouders Cyberbeveiligingswet en Wet weerbaarheid kritieke entiteiten"
+title: "Besluit van de Minister van Infrastructuur en Waterstaat van 3 juli 2026, nr. IENW/BSK-2026/105816 tot aanwijzing van toezichthouders die zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de Cyberbeveiligingswet en de Wet weerbaarheid kritieke entiteiten (Besluit aanwijzing toezichthouders Cyberbeveiligingswet en Wet weerbaarheid kritieke entiteiten)"
+citeertitel: "Besluit aanwijzing toezichthouders Cyberbeveiligingswet en Wet weerbaarheid kritieke entiteiten"
 identifier: "BWBR0052823"
-categorie: "Overig"
+categorie: "Milieu"
+soort: "ministeriele-regeling"
 publicatiedatum: 2026-07-13
-laatste_update: 2026-07-14
+laatste_update: 2026-07-13
 status: geldig
+toestand: 2026-07-13
 bron: "https://wetten.overheid.nl/BWBR0052823"
+opgehaald: 2026-09-11
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 3 juli 2026, nr. IENW/BSK-2026/105816 tot aanwijzing van toezichthouders die zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de Cyberbeveiligingswet en de Wet weerbaarheid kritieke entiteiten (Besluit aanwijzing toezichthouders Cyberbeveiligingswet en Wet weerbaarheid kritieke entiteiten)
-
-Gelet op artikel 68, eerste lid, van de Cyberbeveiligingswet en artikel 36, eerste lid, van de Wet weerbaarheid kritieke entiteiten;
-
-BESLUIT:
 
 ##### Artikel 1
 
@@ -21,5 +21,3 @@ De ambtenaren van de Inspectie Leefomgeving en Transport worden aangewezen als a
 ##### Artikel 2
 
 De ambtenaren van de Nederlandse Voedsel- en Warenautoriteit worden aangewezen als ambtenaren belast met het toezicht op de naleving van het bepaalde bij of krachtens de Cyberbeveiligingswet voor de sector drinkwater, subsector verpakt water.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

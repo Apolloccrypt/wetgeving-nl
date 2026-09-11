@@ -2,27 +2,24 @@
 title: "Instellingsbesluit Commissie Toekomst Rijksdienst"
 identifier: "BWBR0052839"
 categorie: "Overig"
+soort: "ministeriele-regeling"
 publicatiedatum: 2026-07-15
-laatste_update: 2026-07-17
+laatste_update: 2026-07-15
 status: geldig
+toestand: 2026-07-15
 bron: "https://wetten.overheid.nl/BWBR0052839"
+opgehaald: 2026-09-11
 ---
 
 # Instellingsbesluit Commissie Toekomst Rijksdienst
-
-Gelet op de noodzaak om de toekomst van de Rijksdienst te onderzoeken en hierover advies uit te brengen,
-
-Gelet op de bevoegdheid om commissies in te stellen ter ondersteuning van het kabinetsbeleid,
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a). **Commissie:** Commissie Toekomst Rijksdienst; en
+- a) *Commissie:* Commissie Toekomst Rijksdienst; en
 
-- b). **Minister:** Minister-President, Minister van Algemene Zaken.
+- b) *Minister:* Minister-President, Minister van Algemene Zaken.
 
 ##### Artikel 2. Instelling
 
@@ -46,19 +43,19 @@ De Commissie is belast met de uitvoering van een doorlichting op het functionere
 
 6. De Commissie bestaat uit:
 
-- •. Mevrouw H. Verhagen, voorzitter en tevens lid
+- • Mevrouw H. Verhagen, voorzitter en tevens lid
 
-- •. Mevrouw L. van Geest, lid
+- • Mevrouw L. van Geest, lid
 
-- •. Mevrouw D.T.H. Starmans, lid
+- • Mevrouw D.T.H. Starmans, lid
 
-- •. De heer D. Knibbe, lid
+- • De heer D. Knibbe, lid
 
-- •. De heer T. Overmans, lid
+- • De heer T. Overmans, lid
 
 ##### Artikel 5. Instellingsduur
 
-1. De Commissie wordt ingesteld met ingang van de datum van inwerkingtreding van dit besluit en wordt opgeheven per 31 december 2026.
+1. De Commissie wordt ingesteld met ingang van de datum van inwerkingtreding van dit besluit en wordt opgeheven per 31 december 2026.
 
 2. De Commissie brengt uiterlijk aan het einde van de in het eerste lid bedoelde periode een adviesrapport uit aan de Minister.
 
@@ -112,10 +109,8 @@ Verslagen en andere producten die door of namens de Commissie worden vervaardigd
 
 ##### Artikel 11. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, werkt terug tot en met 26 juni 2026 en vervalt op 1 januari 2027.
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, werkt terug tot en met 26 juni 2026 en vervalt op 1 januari 2027.
 
 ##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Toekomst Rijksdienst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

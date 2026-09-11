@@ -1,53 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Voorbereidende Commissie voor de Organisatie voor het Verbod van Chemische Wapens betreffende de zetel van de Commissie"
 identifier: "BWBV0001113"
-country: "nl"
-rank: "verdrag"
-publication_date: "1994-02-23"
-last_updated: "1994-02-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001113"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002059553"
-version_id: "10002147362"
-internal_id: "C10006977641"
-label_id: "10002049784"
-dtd_version: "2.0"
-original_entry_into_force: "1994-02-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001113/1994-02-23/0"
-intitule_bron: "Trb.1994-22"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-12-08"
-intitule_published: "1994-01-21"
-intitule_in_force: "1994-04-08"
-intitule_status: "goed"
-original_publication: "Trb.1994-22"
-original_signed_date: "1993-12-08"
-original_published_date: "1994-01-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1994-22"
-entry_into_force_date: "1994-02-23"
-jci_1_3: "jci1.3:c:BWBV0001113&z=1994-02-23&g=1994-02-23"
-jci_1_0: "1.0:c:BWBV0001113&g=1994-02-23"
-citeertitel_status: "redactioneel"
-signed_date: "1993-12-08"
-entry_into_force: "1994-02-23"
+publicatiedatum: 1994-02-23
+laatste_update: 1994-02-23
+status: geldig
+toestand: 1994-02-23
+bron: "https://wetten.overheid.nl/BWBV0001113"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Voorbereidende Commissie voor de Organisatie voor het Verbod van Chemische Wapens betreffende de zetel van de Commissie
 
-Het Koninkrijk der Nederlanden
-
-en
-
-De Voorbereidende Commissie voor de Organisatie voor het Verbod van Chemische Wapens
-
-In aanmerking nemend dat het Koninkrijk der Nederlanden het Verdrag tot verbod van de ontwikkeling, de produktie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens, gedaan te Parijs op 14 januari 1993, heeft ondertekend;
-
-Gelet op de Resolutie inzake de oprichting van de Voorbereidende Commissie voor de Organisatie voor het Verbod van Chemische Wapens, die bepalingen omvat betreffende de rechtspositie, voorrechten en immuniteiten van de Commissie, haar Uitvoerend Secretaris en functionarissen;
-
-Overwegend dat voor de vestiging van de zetel van de Commissie op het grondgebied van het Koninkrijk der Nederlanden ('s-Gravenhage) een verdrag dient te worden gesloten;
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en De Voorbereidende Commissie voor de Organisatie voor het Verbod van Chemische Wapens In aanmerking nemend dat het Koninkrijk der Nederlanden het Verdrag tot verbod van de ontwikkeling, de produktie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens, gedaan te Parijs op 14 januari 1993, heeft ondertekend; Gelet op de Resolutie inzake de oprichting van de Voorbereidende Commissie voor de Organisatie voor het Verbod van Chemische Wapens, die bepalingen omvat betreffende de rechtspositie, voorrechten en immuniteiten van de Commissie, haar Uitvoerend Secretaris en functionarissen; Overwegend dat voor de vestiging van de zetel van de Commissie op het grondgebied van het Koninkrijk der Nederlanden ('s-Gravenhage) een verdrag dient te worden gesloten; Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -159,11 +125,11 @@ Voorrechten en immuniteiten van de Uitvoerend Secretaris, de Plaatsvervangend Ui
 
 - d. Functionarissen in rangen lager dan P5 en functionarissen die de Nederlandse nationaliteit hebben, genieten:
 
-- i. voorrechten en immuniteiten overeenkomstig artikel VI van het Verdrag nopens de voorrechten en immuniteiten van de gespecialiseerde organisaties van 21 november 1947; in het bijzonder genieten zij, overeenkomstig de geldende regelingen, vrijstelling van invoerrechten en -belastingen, behalve betalingen voor diensten, ten aanzien van hun meubilair en persoonlijke eigendommen, en het recht meubilair en persoonlijke eigendommen uit te voeren met vrijstelling van uitvoerrechten bij beëindiging van hun werkzaamheden in Nederland;
+   - i. voorrechten en immuniteiten overeenkomstig artikel VI van het Verdrag nopens de voorrechten en immuniteiten van de gespecialiseerde organisaties van 21 november 1947; in het bijzonder genieten zij, overeenkomstig de geldende regelingen, vrijstelling van invoerrechten en -belastingen, behalve betalingen voor diensten, ten aanzien van hun meubilair en persoonlijke eigendommen, en het recht meubilair en persoonlijke eigendommen uit te voeren met vrijstelling van uitvoerrechten bij beëindiging van hun werkzaamheden in Nederland;
 
-- ii. onschendbaarheid van al hun officiële stukken en documenten;
+   - ii. onschendbaarheid van al hun officiële stukken en documenten;
 
-- iii. immuniteit van inspectie van officiële bagage.
+   - iii. immuniteit van inspectie van officiële bagage.
 
 ##### Artikel 12. Voorrechten en immuniteiten van vertegenwoordigers bij de Commissie
 
@@ -201,7 +167,7 @@ Deskundigen genieten in de uitoefening van hun functies die verband houden met d
 
 1. In aanmerking genomen dat de Commissie haar eigen regelingen voor sociale zekerheid heeft vastgesteld, worden de Commissie en de functionarissen op wie bedoelde regelingen van toepassing zijn, vrijgesteld van alle verplichte bijdragen aan Nederlandse organisaties voor sociale zekerheid. Hieruit volgt dat zij niet vallen onder de Nederlandse regelingen voor sociale zekerheid.
 
-2. De bepalingen van het eerste lid van dit artikel zijn **mutatis mutandis** van toepassing op gezinsleden die deel uitmaken van het huishouden van personen bedoeld in het eerste lid, tenzij zij in Nederland in dienst zijn bij een andere werkgever dan de Commissie, of binnen dat huishouden behoren tot het huishoudelijk personeel.
+2. De bepalingen van het eerste lid van dit artikel zijn *mutatis mutandis* van toepassing op gezinsleden die deel uitmaken van het huishouden van personen bedoeld in het eerste lid, tenzij zij in Nederland in dienst zijn bij een andere werkgever dan de Commissie, of binnen dat huishouden behoren tot het huishoudelijk personeel.
 
 ##### Artikel 16. Tewerkstelling
 
@@ -249,10 +215,10 @@ Dit Verdrag wordt beëindigd ingeval de zetel buiten het grondgebied van Nederla
 
 GEDAAN te 's-Gravenhage op 8 december 1993 in twee exemplaren in de Nederlandse, de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) P. H. KOOIJMANS
 
-**Voor de Voorbereidende Commissie voor de Organisatie voor het Verbod van Chemische Wapens**
+*Voor de Voorbereidende Commissie voor de Organisatie voor het Verbod van Chemische Wapens*
 
 (w.g.) IAN R. KENYON

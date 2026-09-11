@@ -1,53 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oezbekistan inzake luchtdiensten tussen en via hun onderscheiden grondgebieden"
 identifier: "BWBV0001201"
-country: "nl"
-rank: "verdrag"
-publication_date: "1996-07-01"
-last_updated: "1996-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001201"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10001408063"
-version_id: "10001477632"
-internal_id: "C10006988761"
-label_id: "10001408394"
-dtd_version: "2.0"
-original_entry_into_force: "1996-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001201/1996-07-01/0"
-intitule_bron: "Trb.1995-274"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-11-16"
-intitule_published: "1995-11-29"
-intitule_in_force: "1996-06-07"
-intitule_status: "goed"
-original_publication: "Trb.1995-274"
-original_signed_date: "1995-11-16"
-original_published_date: "1995-11-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1995-274"
-entry_into_force_date: "1996-07-01"
-jci_1_3: "jci1.3:c:BWBV0001201&z=1996-07-01&g=1996-07-01"
-jci_1_0: "1.0:c:BWBV0001201&g=1996-07-01"
-citeertitel_status: "redactioneel"
-signed_date: "1995-11-16"
-entry_into_force: "1996-07-01"
+publicatiedatum: 1996-07-01
+laatste_update: 1996-07-01
+status: geldig
+toestand: 1996-07-01
+bron: "https://wetten.overheid.nl/BWBV0001201"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oezbekistan inzake luchtdiensten tussen en via hun onderscheiden grondgebieden
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Republiek Oezbekistan,
-
-Partij zijnde bij het Verdrag inzake de internationale burgerluchtvaart, op 7 december 1944 te Chicago voor ondertekening opengesteld,
-
-Geleid door de wens bij te dragen aan de vooruitgang van de internationale burgerluchtvaart,
-
-Geleid door de wens een verdrag te sluiten met het doel luchtdiensten in te stellen tussen en via hun onderscheiden grondgebieden,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Republiek Oezbekistan, Partij zijnde bij het Verdrag inzake de internationale burgerluchtvaart, op 7 december 1944 te Chicago voor ondertekening opengesteld, Geleid door de wens bij te dragen aan de vooruitgang van de internationale burgerluchtvaart, Geleid door de wens een verdrag te sluiten met het doel luchtdiensten in te stellen tussen en via hun onderscheiden grondgebieden, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -71,9 +37,9 @@ Tenzij het zinsverband anders vereist, hebben in dit Verdrag en de Bijlage daarb
 
 - i. onder „tarief" wordt verstaan: elk bedrag dat door de luchtvaartmaatschappijen, rechtstreeks of via hun agenten, in rekening wordt gebracht of zal worden gebracht aan alle natuurlijke personen of rechtspersonen voor het vervoer door de lucht van passagiers (en hun bagage) en vracht (post uitgezonderd), daarbij inbegrepen:
 
-- I. de voorwaarden betreffende het beschikbaar zijn en het van toepassing zijn van een tarief, en
+   - I. de voorwaarden betreffende het beschikbaar zijn en het van toepassing zijn van een tarief, en
 
-- II. de heffingen en voorwaarden voor alle bij zulk vervoer bijkomende diensten die door de luchtvaartmaatschappijen worden aangeboden;
+   - II. de heffingen en voorwaarden voor alle bij zulk vervoer bijkomende diensten die door de luchtvaartmaatschappijen worden aangeboden;
 
 - j. onder „verandering van luchtvaartuig" wordt verstaan: de exploitatie van een van de overeengekomen diensten door een aangewezen luchtvaartmaatschappij op zodanige wijze dat op een of meer delen van de route wordt gevlogen met luchtvaartuigen met een andere capaciteit dan die welke op een ander deel worden gebruikt;
 
@@ -295,10 +261,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun 
 
 GEDAAN te Tasjkent op 17 oktober 1995, in tweevoud in de Nederlandse, de Oezbeekse en de Engelse taal, zijnde alle versies gelijkelijk authentiek. In geval van onderlinge verschillen is de Engelse versie doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) J. C. F. VON MÜHLEN
 
-**Voor de Republiek Oezbekistan**
+*Voor de Republiek Oezbekistan*
 
 (w.g.) G. M. RAFIKOV

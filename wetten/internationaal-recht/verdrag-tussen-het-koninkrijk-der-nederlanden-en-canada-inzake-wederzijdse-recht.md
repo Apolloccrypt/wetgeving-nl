@@ -1,49 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en Canada inzake wederzijdse rechtshulp in strafzaken"
 identifier: "BWBV0001049"
-country: "nl"
-rank: "verdrag"
-publication_date: "1992-05-01"
-last_updated: "1992-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001049"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002496953"
-version_id: "10002490262"
-internal_id: "C10006976561"
-label_id: "10002486584"
-dtd_version: "2.0"
-original_entry_into_force: "1992-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001049/1992-05-01/0"
-intitule_bron: "Trb.1991-85"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-03-16"
-intitule_published: "1991-06-10"
-intitule_in_force: "1992-04-29"
-intitule_status: "goed"
-original_publication: "Trb.1991-85"
-original_signed_date: "1992-03-16"
-original_published_date: "1991-06-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1991-85"
-entry_into_force_date: "1992-05-01"
-jci_1_3: "jci1.3:c:BWBV0001049&z=1992-05-01&g=1992-05-01"
-jci_1_0: "1.0:c:BWBV0001049&g=1992-05-01"
-citeertitel_status: "redactioneel"
-signed_date: "1992-03-16"
-entry_into_force: "1992-05-01"
+publicatiedatum: 1992-05-01
+laatste_update: 1992-05-01
+status: geldig
+toestand: 1992-05-01
+bron: "https://wetten.overheid.nl/BWBV0001049"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en Canada inzake wederzijdse rechtshulp in strafzaken
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van Canada,
-
-Geleid door de wens de samenwerking tussen de twee landen bij de opsporing, vervolging en bestrijding van misdaden doeltreffender te maken door voorzieningen te treffen voor wederzijdse rechtshulp in strafzaken,
-
-zijn overeengekomen als volgt:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van Canada, Geleid door de wens de samenwerking tussen de twee landen bij de opsporing, vervolging en bestrijding van misdaden doeltreffender te maken door voorzieningen te treffen voor wederzijdse rechtshulp in strafzaken, zijn overeengekomen als volgt:*
 
 ##### Artikel 1. Begripsomschrijvingen
 

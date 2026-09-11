@@ -1,80 +1,47 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Europese Politiedienst (Europol) betreffende de zetel van Europol"
 identifier: "BWBV0001354"
-country: "nl"
-rank: "verdrag"
-publication_date: "1998-11-01"
-last_updated: "1998-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001354"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000635093"
-version_id: "10000653262"
-internal_id: "C10006990081"
-label_id: "10000635374"
-original_entry_into_force: "1998-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001354/1998-11-01/0"
-intitule_bron: "Trb.1998-241"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-10-15"
-intitule_published: "1998-10-22"
-intitule_in_force: "1998-10-22"
-intitule_status: "goed"
-original_publication: "Trb.1998-241"
-original_signed_date: "1998-10-15"
-original_published_date: "1998-10-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1998-241"
-entry_into_force_date: "1998-11-01"
-jci_1_3: "jci1.3:c:BWBV0001354&z=1998-11-01&g=1998-11-01"
-jci_1_0: "1.0:c:BWBV0001354&g=1998-11-01"
-citeertitel_status: "officieel"
-signed_date: "1998-10-15"
-entry_into_force: "1998-11-01"
+publicatiedatum: 1998-11-01
+laatste_update: 1998-11-01
+status: geldig
+toestand: 1998-11-01
+bron: "https://wetten.overheid.nl/BWBV0001354"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Europese Politiedienst (Europol) betreffende de zetel van Europol
 
-The Kingdom of the Netherlands
-
-and
-
-the European Police Office
-
-Having regard to the conclusion of the European Council of 29 October 1993 that Europol shall be established in the Netherlands;
-
-Whereas the [Europol Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001323) entered into force on 1 October, 1998;
-
-With reference to [article 37 of the Europol Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=37);
-
-Have agreed as follows:
+*The Kingdom of the Netherlands and the European Police Office Having regard to the conclusion of the European Council of 29 October 1993 that Europol shall be established in the Netherlands; Whereas the Europol Convention entered into force on 1 October, 1998; With reference to article 37 of the Europol Convention; Have agreed as follows:*
 
 ##### Article I. Definitions
 
 In this Agreement:
 
-- a). “Convention” means the [Convention based on Article K.3 of the Treaty on European Union, on the establishment of a European Police Office](https://wetten.overheid.nl/jci1.3:c:BWBV0001323);
+- a) “Convention” means the [Convention based on Article K.3 of the Treaty on European Union, on the establishment of a European Police Office](https://wetten.overheid.nl/jci1.3:c:BWBV0001323);
 
-- b). “Europol” means the European Police Office;
+- b) “Europol” means the European Police Office;
 
-- c). “Protocol” means the [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001343) concluded on 241)[Red: Bedoeld is 19.] June 1997 in accordance with [article 41, paragraph 1 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=41);
+- c) “Protocol” means the [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001343) concluded on 241)[Red: Bedoeld is 19.] June 1997 in accordance with [article 41, paragraph 1 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=41);
 
-- d). “Government” means the Government of the Kingdom of the Netherlands;
+- d) “Government” means the Government of the Kingdom of the Netherlands;
 
-- e). “Host State authorities” means such State, municipal or other authorities of the Kingdom of the Netherlands as may be appropriate in the context of and in accordance with the laws and customs applicable in the Kingdom of the Netherlands;
+- e) “Host State authorities” means such State, municipal or other authorities of the Kingdom of the Netherlands as may be appropriate in the context of and in accordance with the laws and customs applicable in the Kingdom of the Netherlands;
 
-- f). “Headquarters” means the area, any building, land or facilities ancillary thereto, irrespective of ownership, used by Europol on a permanent basis or from time to time to carry out its official functions;
+- f) “Headquarters” means the area, any building, land or facilities ancillary thereto, irrespective of ownership, used by Europol on a permanent basis or from time to time to carry out its official functions;
 
-- g). “Staff” means the Director, Deputy Directors and the employees of Europol as referred to in [Article 30 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=30), with the exception of the local staff as referred to in Article 3 of the Staff Regulations;
+- g) “Staff” means the Director, Deputy Directors and the employees of Europol as referred to in [Article 30 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=30), with the exception of the local staff as referred to in Article 3 of the Staff Regulations;
 
-- h). “Director” means the Director of Europol referred to in [Article 29 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=29);
+- h) “Director” means the Director of Europol referred to in [Article 29 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=29);
 
-- i). “Organs of Europol” means the Management Board as referred to in [Article 28 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=28), the Financial Controller as referred to in [Article 35, paragraph 7 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=35), and the Financial Committee as referred to in [Article 35, paragraph 8 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=35);
+- i) “Organs of Europol” means the Management Board as referred to in [Article 28 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=28), the Financial Controller as referred to in [Article 35, paragraph 7 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=35), and the Financial Committee as referred to in [Article 35, paragraph 8 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=35);
 
-- j). “Board” means the Management Board referred to in [Article 28 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=28);
+- j) “Board” means the Management Board referred to in [Article 28 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=28);
 
-- k). “Joint Supervisory Body” means the body as referred to in [Article 24 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=24);
+- k) “Joint Supervisory Body” means the body as referred to in [Article 24 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=24);
 
-- l). “Archives of Europol” means all records, correspondence, documents, manuscripts, computer and media data, photographs, film, video and sound recordings belonging to or held by Europol or any of its Staff, and any other similar material which the Director and the Government may agree shall form part of the Archives of Europol.
+- l) “Archives of Europol” means all records, correspondence, documents, manuscripts, computer and media data, photographs, film, video and sound recordings belonging to or held by Europol or any of its Staff, and any other similar material which the Director and the Government may agree shall form part of the Archives of Europol.
 
 ##### Article II. Application of the Protocol
 
@@ -124,21 +91,21 @@ Europol may install and use a wireless transmitter with the consent of the Gover
 
 2. Within the scope of its official activities, Europol shall be exempt from:
 
-- a). motor vehicle tax;
+- a) motor vehicle tax;
 
-- b). tax on passenger motor vehicles and motorcycles (BPM);
+- b) tax on passenger motor vehicles and motorcycles (BPM);
 
-- c). value added tax paid on goods and services supplied on a recurring basis or involving considerable expenditure;
+- c) value added tax paid on goods and services supplied on a recurring basis or involving considerable expenditure;
 
-- d). excise duties included in the price of alcoholic beverages and hydrocarbons such as fuel oils and motor fuels;
+- d) excise duties included in the price of alcoholic beverages and hydrocarbons such as fuel oils and motor fuels;
 
-- e). import taxes and duties;
+- e) import taxes and duties;
 
-- f). real property transfer tax;
+- f) real property transfer tax;
 
-- g). insurance tax;
+- g) insurance tax;
 
-- h). any other taxes and duties of a substantially similar character as the taxes provided for in this paragraph, imposed by the Netherlands subsequently to the date of signature of this Agreement.
+- h) any other taxes and duties of a substantially similar character as the taxes provided for in this paragraph, imposed by the Netherlands subsequently to the date of signature of this Agreement.
 
 3. The exemption provided for in paragraphs 2, sub c, d, f, g and h of this Article may be granted by way of a refund.
 
@@ -154,9 +121,9 @@ Europol shall be entitled to display its flag, emblem and markings on the Headqu
 
 1. The Government shall facilitate, if necessary, the entry, stay and departure of the persons listed below and members of the family forming part of the household for purposes of official business:
 
-- a). Staff;
+- a) Staff;
 
-- b). other persons, not being European Union citizens, on request of the Director.
+- b) other persons, not being European Union citizens, on request of the Director.
 
 2. This Article shall not prevent the requirement of reasonable evidence to establish that persons claiming the treatment provided for in this Article come within the classes described in paragraph 1.
 
@@ -166,13 +133,13 @@ Europol shall be entitled to display its flag, emblem and markings on the Headqu
 
 1. Staff of Europol shall enjoy within and with respect to the Kingdom of the Netherlands the following privileges:
 
-- a). freedom to acquire and maintain within the Kingdom of the Netherlands or elsewhere foreign currency accounts and other movable, and, under the same conditions applicable to nationals of the Kingdom of the Netherlands, immovable property; and the termination of their employment with Europol the right to take their funds out of the Kingdom of the Netherlands through authorised channels without prohibition or restrictions;
+- a) freedom to acquire and maintain within the Kingdom of the Netherlands or elsewhere foreign currency accounts and other movable, and, under the same conditions applicable to nationals of the Kingdom of the Netherlands, immovable property; and the termination of their employment with Europol the right to take their funds out of the Kingdom of the Netherlands through authorised channels without prohibition or restrictions;
 
-- b). the same protection and repatriation facilities with respect to themselves, and members of the family forming part of the household, as accorded in time of international crisis to members having comparable rank, of the staff of diplomatic missions established in the Kingdom of the Netherlands;
+- b) the same protection and repatriation facilities with respect to themselves, and members of the family forming part of the household, as accorded in time of international crisis to members having comparable rank, of the staff of diplomatic missions established in the Kingdom of the Netherlands;
 
-- c). exemption, with respect to themselves, and members of the family forming part of the household, from immigration restrictions and alien registration;
+- c) exemption, with respect to themselves, and members of the family forming part of the household, from immigration restrictions and alien registration;
 
-- d). in accordance with the regulations in force, exemption from import taxes and duties, in respect of the import of their furniture and personal effects, at the time of first taking up their position in the Netherlands; however, no exemption shall be accorded in respect of taxes and duties which represent charges for specific services.
+- d) in accordance with the regulations in force, exemption from import taxes and duties, in respect of the import of their furniture and personal effects, at the time of first taking up their position in the Netherlands; however, no exemption shall be accorded in respect of taxes and duties which represent charges for specific services.
 
 2. Besides the privileges mentioned in paragraph 1, the Director and the members of the family forming part of his household shall enjoy within and with respect to the Kingdom of the Netherlands, the privileges, exemptions and facilities granted in accordance with the [Vienna Convention on Diplomatic Relations](https://wetten.overheid.nl/jci1.3:c:BWBV0004345), of 18 April 1961, to heads of diplomatic missions.
 
@@ -180,39 +147,39 @@ Europol shall be entitled to display its flag, emblem and markings on the Headqu
 
 4. Members of the Organs of Europol shall enjoy, while exercising their functions and in the course of their journeys to and from the place of meeting, within and with respect to the Kingdom of the Netherlands the following privileges:
 
-- a). the same facilities as regards monetary and exchange regulations and as regards their personal luggage as are accorded to the officials of foreign governments on temporary official missions;
+- a) the same facilities as regards monetary and exchange regulations and as regards their personal luggage as are accorded to the officials of foreign governments on temporary official missions;
 
-- b). the same protection and repatriation facilities as accorded in time of international crisis to members having comparable rank, of the staff of diplomatic missions established in the Kingdom of the Netherlands;
+- b) the same protection and repatriation facilities as accorded in time of international crisis to members having comparable rank, of the staff of diplomatic missions established in the Kingdom of the Netherlands;
 
-- c). the right, for the purpose of all communications with Europol, to use codes and to dispatch or receive papers, correspondence or other official material by courier or in sealed bags.
+- c) the right, for the purpose of all communications with Europol, to use codes and to dispatch or receive papers, correspondence or other official material by courier or in sealed bags.
 
 5. Members of the Joint Supervisory Body shall enjoy within and with respect to the Kingdom of the Netherlands, while exercising their functions and in the course of their journeys to and from the place of meeting, the following privileges and immunities:
 
-- a). immunity from legal process of any kind in respect of words spoken or written, and of acts performed by them, in the exercise of their official functions, such immunity to continue notwithstanding that the persons concerned may have ceased to be members of the Joint Supervisory Body;
+- a) immunity from legal process of any kind in respect of words spoken or written, and of acts performed by them, in the exercise of their official functions, such immunity to continue notwithstanding that the persons concerned may have ceased to be members of the Joint Supervisory Body;
 
-- b). inviolability of all their official papers, documents and other official materials;
+- b) inviolability of all their official papers, documents and other official materials;
 
-- c). the same facilities as regards monetary and exchange regulations and as regards their personal luggage as are accorded to the officials of foreign governments on temporary official missions;
+- c) the same facilities as regards monetary and exchange regulations and as regards their personal luggage as are accorded to the officials of foreign governments on temporary official missions;
 
-- d). the same protection and repatriation facilities as accorded in time of international crisis to members, having comparable rank, of the staff of diplomatic missions established in the Kingdom of the Netherlands;
+- d) the same protection and repatriation facilities as accorded in time of international crisis to members, having comparable rank, of the staff of diplomatic missions established in the Kingdom of the Netherlands;
 
-- e). the right, for the purpose of all communications with Europol, to use codes and to dispatch or receive papers, correspondence or other official material by courier or in sealed bags.
+- e) the right, for the purpose of all communications with Europol, to use codes and to dispatch or receive papers, correspondence or other official material by courier or in sealed bags.
 
 6. Experts, together with representatives of third States and international organisations with which Europol has established a relationship pursuant to [Article 42 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=42) or who have been invited by the Board or the Director on official business, shall enjoy within and with respect to the Kingdom of the Netherlands the following privileges and immunities so far as may be necessary for the effective exercise of their functions and during their journeys in connection with service on such missions, committees or other subsidiary bodies, and during attendance at such meetings:
 
-- a). immunity from legal process of any kind in respect of words spoken or written, and of acts performed by them, in the exercise of their official functions, such immunity to continue notwithstanding that the persons concerned may no longer be employed on missions for, serving on committees of, or acting as consultants for Europol, or may no longer be present at the Headquarters or attending meetings convened by Europol;
+- a) immunity from legal process of any kind in respect of words spoken or written, and of acts performed by them, in the exercise of their official functions, such immunity to continue notwithstanding that the persons concerned may no longer be employed on missions for, serving on committees of, or acting as consultants for Europol, or may no longer be present at the Headquarters or attending meetings convened by Europol;
 
-- b). inviolability of all their official papers, documents and other official materials;
+- b) inviolability of all their official papers, documents and other official materials;
 
-- c). the same immunities and facilities with respect to their personal luggage as are accorded to members, having comparable rank, of the staff of diplomatic missions established in the kingdom of the Netherlands;
+- c) the same immunities and facilities with respect to their personal luggage as are accorded to members, having comparable rank, of the staff of diplomatic missions established in the kingdom of the Netherlands;
 
-- d). the same privileges with respect to currency and exchange restrictions as are accorded to representatives of foreign governments on temporary official missions;
+- d) the same privileges with respect to currency and exchange restrictions as are accorded to representatives of foreign governments on temporary official missions;
 
-- e). the same protection and repatriation facilities as are accorded in time of international crisis to members, having comparable rank, of the staff or diplomatic missions established in the Kingdom of the Netherlands;
+- e) the same protection and repatriation facilities as are accorded in time of international crisis to members, having comparable rank, of the staff or diplomatic missions established in the Kingdom of the Netherlands;
 
-- f). the right, for the purpose of all communications with Europol, to use codes and to dispatch or receive papers, correspondence or other official material by courier or in sealed bags;
+- f) the right, for the purpose of all communications with Europol, to use codes and to dispatch or receive papers, correspondence or other official material by courier or in sealed bags;
 
-- g). if necessary, exemption from alien restrictions and alien registration.
+- g) if necessary, exemption from alien restrictions and alien registration.
 
 ##### Article XIII. Exemptions to immunities
 
@@ -226,13 +193,13 @@ Host State Authorities shall - if so requested by the Director - take all reason
 
 1. Europol shall promptly notify the Government of:
 
-- a). the list of members of the organs, the Joint Supervisory Body and the Joint Audit Committee and shall revise such list from time to time as may be necessary;
+- a) the list of members of the organs, the Joint Supervisory Body and the Joint Audit Committee and shall revise such list from time to time as may be necessary;
 
-- b). the appointment of Staff, their arrival and their final departure, or the termination of their functions with Europol;
+- b) the appointment of Staff, their arrival and their final departure, or the termination of their functions with Europol;
 
-- c). the arrival and final departure of members of the family forming part of the household of the persons referred to in subparagraph b, of this Article and, where appropriate, the fact that a person has ceased to form part of the household;
+- c) the arrival and final departure of members of the family forming part of the household of the persons referred to in subparagraph b, of this Article and, where appropriate, the fact that a person has ceased to form part of the household;
 
-- d). the arrival and final departure of domestic employees of persons referred to in subparagraph b, of this Article and, where appropriate, the fact that they are leaving the employ of such persons.
+- d) the arrival and final departure of domestic employees of persons referred to in subparagraph b, of this Article and, where appropriate, the fact that they are leaving the employ of such persons.
 
 2. The Government shall issue to the Staff as referred to in Article XII, paragraph 1, sub a, and members of the family forming part of the household and the domestic employees of Staff an identification card bearing the photograph of the holder. This card shall serve to identify the holder in relation to the Host State authorities.
 
@@ -240,7 +207,7 @@ Host State Authorities shall - if so requested by the Director - take all reason
 
 1. Provided Europol establishes its own social security scheme or adheres to a social security scheme offering coverage comparable to the coverage under Netherlands legislation, Europol and its Staff to whom the aforementioned scheme applies shall be exempt from all social security provisions in the Netherlands, unless the Staff to whom the aforementioned scheme applies take up a gainful activity in the Netherlands.
 
-2. The provisions of paragraph 1 shall apply **mutatis mutandis** to members of the family forming part of the household of the persons referred to in paragraph 1, unless they are employed otherwise than by Europol or self-employed in the Netherlands or unless they receive Netherlands social security benefit.
+2. The provisions of paragraph 1 shall apply *mutatis mutandis* to members of the family forming part of the household of the persons referred to in paragraph 1, unless they are employed otherwise than by Europol or self-employed in the Netherlands or unless they receive Netherlands social security benefit.
 
 ##### Article XVII. Employment
 
@@ -290,10 +257,10 @@ This Agreement shall cease to be in force by mutual consent of Europol and the G
 
 DONE at The Hague on 15 October 1998, in two copies in the English and the French languages, each text being equally authentic.
 
-**For the Kingdom of the Netherlands**
+*For the Kingdom of the Netherlands*
 
 (sd.) J. J. JONKER ROELANTS
 
-**For the European Police Office**
+*For the European Police Office*
 
 (sd.) J. STORBECK

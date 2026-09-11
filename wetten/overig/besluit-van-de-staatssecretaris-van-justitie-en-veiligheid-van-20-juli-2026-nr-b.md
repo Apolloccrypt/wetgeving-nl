@@ -9,7 +9,7 @@ laatste_update: 2026-09-10
 status: geldig
 toestand: 2026-09-10
 bron: "https://wetten.overheid.nl/BWBR0052940"
-opgehaald: 2026-09-10
+opgehaald: 2026-09-11
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 20 juli 2026 nr. BOACAT2026/046, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Fryske Utfieringstsjinst Miljeu en Omjouwing (FUMO)

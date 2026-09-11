@@ -1,36 +1,36 @@
 ---
-title: "Besluit mogelijkheid ACM toekenning IMSI-nummers t.b.v. identificatie gebruiksrelaties bepaalde categorieën besloten netwerken"
+title: "Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 7 juli 2026, nr. DGED/DE/107033049, houdende de mogelijkheid voor de Autoriteit Consument en Markt tot toekenning van IMSI-nummers ten behoeve van de identificatie van gebruiksrelaties voor bepaalde categorieën besloten netwerken"
+citeertitel: "Besluit mogelijkheid ACM toekenning IMSI-nummers t.b.v. identificatie gebruiksrelaties bepaalde categorieën besloten netwerken"
 identifier: "BWBR0052836"
-categorie: "Overig"
+categorie: "Milieu"
+soort: "ministeriele-regeling"
 publicatiedatum: 2026-07-11
-laatste_update: 2026-07-17
+laatste_update: 2026-07-11
 status: geldig
+toestand: 2026-07-11
 bron: "https://wetten.overheid.nl/BWBR0052836"
+opgehaald: 2026-09-11
 ---
 
 # Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 7 juli 2026, nr. DGED/DE/107033049, houdende de mogelijkheid voor de Autoriteit Consument en Markt tot toekenning van IMSI-nummers ten behoeve van de identificatie van gebruiksrelaties voor bepaalde categorieën besloten netwerken
-
-Gelet op de [artikelen 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.1) en [4.2, eerste en zesde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.2);
-
-Besluit:
 
 ##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-- **besloten elektronisch communicatienetwerk:** elektronisch communicatienetwerk als bedoeld in [artikel 1, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0052836&artikel=1&z=2026-07-11&g=2026-07-11), van het nummerplan;
+- *besloten elektronisch communicatienetwerk:* elektronisch communicatienetwerk als bedoeld in [artikel 1, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0052836&artikel=1&z=2026-07-11&g=2026-07-11), van het nummerplan;
 
-- **nummer:** nummer als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052836&artikel=2&z=2026-07-11&g=2026-07-11), van het nummerplan.
+- *nummer:* nummer als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052836&artikel=2&z=2026-07-11&g=2026-07-11), van het nummerplan.
 
-- **nummerplan:** Nummerplan voor identiteitsnummers ten behoeve van internationale mobiliteit (IMSI-nummers);
+- *nummerplan:* Nummerplan voor identiteitsnummers ten behoeve van internationale mobiliteit (IMSI-nummers);
 
-- **perceelgebonden elektronisch communicatienetwerk:** draadloos elektronisch communicatienetwerk op land voor communicatie binnen een bedrijf of organisatie, of binnen meerdere bedrijven of organisaties die met elkaar samenwerken voor de exploitatie van één gezamenlijk draadloos elektronisch communicatienetwerk, waarbij het beoogde verzorgingsgebied zich beperkt tot de percelen en daarop gevestigde of te vestigen opstallen die het bedrijf, de organisatie of de samenwerkende bedrijven of organisaties in eigendom hebben, of waarop zij anderszins het recht hebben om deze te gebruiken voor functionele doeleinden;
+- *perceelgebonden elektronisch communicatienetwerk:* draadloos elektronisch communicatienetwerk op land voor communicatie binnen een bedrijf of organisatie, of binnen meerdere bedrijven of organisaties die met elkaar samenwerken voor de exploitatie van één gezamenlijk draadloos elektronisch communicatienetwerk, waarbij het beoogde verzorgingsgebied zich beperkt tot de percelen en daarop gevestigde of te vestigen opstallen die het bedrijf, de organisatie of de samenwerkende bedrijven of organisaties in eigendom hebben, of waarop zij anderszins het recht hebben om deze te gebruiken voor functionele doeleinden;
 
-- **virtueel elektronisch communicatienetwerk:** elektronisch communicatienetwerk:
+- *virtueel elektronisch communicatienetwerk:* elektronisch communicatienetwerk:
 
-  - a. met geen of een gedeeltelijk zelfstandig beheer over voorzieningen voor het routeren of het transport van signalen;
+   - a. met geen of een gedeeltelijk zelfstandig beheer over voorzieningen voor het routeren of het transport van signalen;
 
-  - b. waarbij het routeren of het transport van signalen, voor zover gebruik wordt gemaakt van een ander, niet virtueel, elektronisch communicatienetwerk, in aanzienlijke mate is gescheiden van het routeren of het transport van signalen voor andere toepassingen over dat andere elektronische communicatienetwerk.
+   - b. waarbij het routeren of het transport van signalen, voor zover gebruik wordt gemaakt van een ander, niet virtueel, elektronisch communicatienetwerk, in aanzienlijke mate is gescheiden van het routeren of het transport van signalen voor andere toepassingen over dat andere elektronische communicatienetwerk.
 
 ##### Artikel 2
 
@@ -55,5 +55,3 @@ In dit besluit wordt verstaan onder:
 ##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

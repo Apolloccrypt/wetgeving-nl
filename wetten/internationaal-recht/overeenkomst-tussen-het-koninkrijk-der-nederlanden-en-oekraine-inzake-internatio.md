@@ -1,51 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en Oekraïne inzake internationaal vervoer over de weg"
 identifier: "BWBV0001102"
-country: "nl"
-rank: "verdrag"
-publication_date: "1995-01-01"
-last_updated: "1995-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001102"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002244953"
-version_id: "10002288682"
-internal_id: "C10006977831"
-label_id: "10002235074"
-dtd_version: "2.0"
-original_entry_into_force: "1995-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001102/1995-01-01/0"
-intitule_bron: "Trb.1993-144"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-09-07"
-intitule_published: "1993-10-13"
-intitule_in_force: "1994-12-11"
-intitule_status: "goed"
-original_publication: "Trb.1993-144"
-original_signed_date: "1993-09-07"
-original_published_date: "1993-10-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1993-144"
-entry_into_force_date: "1995-01-01"
-jci_1_3: "jci1.3:c:BWBV0001102&z=1995-01-01&g=1995-01-01"
-jci_1_0: "1.0:c:BWBV0001102&g=1995-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "1993-09-07"
-entry_into_force: "1995-01-01"
+publicatiedatum: 1995-01-01
+laatste_update: 1995-01-01
+status: geldig
+toestand: 1995-01-01
+bron: "https://wetten.overheid.nl/BWBV0001102"
+opgehaald: 2026-09-11
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en Oekraïne inzake internationaal vervoer over de weg
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van Oekraïne,
-
-hierna te noemen de Overeenkomstsluitende Partijen,
-
-Geleid door de wens, in het belang van hun economische betrekkingen, de ontwikkeling te bevorderen van het vervoer van goederen en personen over de weg in, naar en vanuit hun landen en in doorvoer over hun grondgebied,
-
-Zijn overeengekomen als volgt:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van Oekraïne, hierna te noemen de Overeenkomstsluitende Partijen, Geleid door de wens, in het belang van hun economische betrekkingen, de ontwikkeling te bevorderen van het vervoer van goederen en personen over de weg in, naar en vanuit hun landen en in doorvoer over hun grondgebied, Zijn overeengekomen als volgt:*
 
 ##### Artikel 1. Toepassingsgebied
 
@@ -77,13 +45,13 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 2. In geen geval zijn vergunningen vereist voor de onderstaande soorten vervoer of voor ritten met onbeladen voertuigen gemaakt in verband met zulk vervoer:
 
-- •. vervoer van post als openbare dienst;
+- • vervoer van post als openbare dienst;
 
-- •. vervoer van voertuigen die zijn beschadigd of onklaar geraakt;
+- • vervoer van voertuigen die zijn beschadigd of onklaar geraakt;
 
-- •. vervoer van goederen in motorvoertuigen waarvan het toegestane gewicht in beladen toestand, met inbegrip van dat van aanhangwagens, niet meer is dan 6 ton of waarvan het toegestane gewicht aan lading, met inbegrip van dat van aanhangwagens, niet meer is dan 3,5 ton;
+- • vervoer van goederen in motorvoertuigen waarvan het toegestane gewicht in beladen toestand, met inbegrip van dat van aanhangwagens, niet meer is dan 6 ton of waarvan het toegestane gewicht aan lading, met inbegrip van dat van aanhangwagens, niet meer is dan 3,5 ton;
 
-- •. vervoer van medische goederen en uitrusting of andere goederen vereist in noodgevallen, met name bij natuurrampen.
+- • vervoer van medische goederen en uitrusting of andere goederen vereist in noodgevallen, met name bij natuurrampen.
 
 3. Een vervoerder mag niet onder de noemer cabotage vervoer verrichten van personen of goederen tussen twee plaatsen op het grondgebied van de andere Overeenkomstsluitende Partij, tenzij hij daartoe speciale toestemming heeft verkregen van de bevoegde autoriteiten of een andere gemachtigde organisatie van die Overeenkomstsluitende Partij.
 
@@ -125,19 +93,19 @@ In geval van overtreding van de bepalingen van deze Overeenkomst door een vervoe
 
 5. De Gemengde Commissie besteedt bijzondere aandacht aan de volgende onderwerpen:
 
-- -. de harmonische ontwikkeling van het vervoer tussen de twee landen, met inachtneming van onder meer de daarbij betrokken milieuaspecten;
+- - de harmonische ontwikkeling van het vervoer tussen de twee landen, met inachtneming van onder meer de daarbij betrokken milieuaspecten;
 
-- -. de coördinatie van het beleid inzake het wegvervoer, de vervoerswetgeving en de uitvoering daarvan door de Overeenkomstsluitende Partijen op nationaal en internationaal niveau;
+- - de coördinatie van het beleid inzake het wegvervoer, de vervoerswetgeving en de uitvoering daarvan door de Overeenkomstsluitende Partijen op nationaal en internationaal niveau;
 
-- -. de formulering van mogelijke oplossingen ter voorlegging aan de onderscheiden nationale autoriteiten indien zich problemen voordoen, met name op het terrein van belastingen, sociale aangelegenheden, douanezaken en milieuaangelegenheden, met inbegrip van aangelegenheden de openbare orde betreffende;
+- - de formulering van mogelijke oplossingen ter voorlegging aan de onderscheiden nationale autoriteiten indien zich problemen voordoen, met name op het terrein van belastingen, sociale aangelegenheden, douanezaken en milieuaangelegenheden, met inbegrip van aangelegenheden de openbare orde betreffende;
 
-- -. de uitwisseling van ter zake dienende gegevens;
+- - de uitwisseling van ter zake dienende gegevens;
 
-- -. de methode voor het vaststellen van gewichten en afmetingen;
+- - de methode voor het vaststellen van gewichten en afmetingen;
 
-- -. de bevordering van de samenwerking tussen vervoersondernemingen en -instellingen;
+- - de bevordering van de samenwerking tussen vervoersondernemingen en -instellingen;
 
-- -. de bevordering van multimodaal vervoer, met inbegrip van alle vraagstukken betreffende de toegang tot de markt.
+- - de bevordering van multimodaal vervoer, met inbegrip van alle vraagstukken betreffende de toegang tot de markt.
 
 ##### Artikel 9. Wijziging
 
@@ -157,10 +125,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, deze Overe
 
 GEDAAN in tweevoud te Kiev, 7 september 1993 in de Nederlandse, de Oekraïense en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. Ingeval van verschillen tussen de teksten is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) J. R. H. MAIJ-WEGGEN
 
-**Voor de Regering van Oekraïne**
+*Voor de Regering van Oekraïne*
 
 (w.g.) OREST KLYMPUSH

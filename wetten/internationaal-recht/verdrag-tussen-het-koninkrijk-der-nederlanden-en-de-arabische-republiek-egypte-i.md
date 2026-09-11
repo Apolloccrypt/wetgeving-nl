@@ -1,52 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Arabische Republiek Egypte inzake de bevordering en de wederzijdse bescherming van investeringen"
 identifier: "BWBV0001252"
-country: "nl"
-rank: "verdrag"
-publication_date: "1998-03-01"
-last_updated: "1998-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001252"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000379383"
-version_id: "10000387452"
-internal_id: "C10006987941"
-label_id: "10000379544"
-original_entry_into_force: "1998-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001252/1998-03-01/0"
-intitule_bron: "Trb.1996-66"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-09-15"
-intitule_published: "1996-02-20"
-intitule_in_force: "1998-02-16"
-intitule_status: "goed"
-original_publication: "Trb.1996-66"
-original_signed_date: "1996-09-15"
-original_published_date: "1996-02-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1996-66"
-entry_into_force_date: "1998-03-01"
-jci_1_3: "jci1.3:c:BWBV0001252&z=1998-03-01&g=1998-03-01"
-jci_1_0: "1.0:c:BWBV0001252&g=1998-03-01"
-citeertitel_status: "officieel"
-signed_date: "1996-09-15"
-entry_into_force: "1998-03-01"
+publicatiedatum: 1998-03-01
+laatste_update: 1998-03-01
+status: geldig
+toestand: 1998-03-01
+bron: "https://wetten.overheid.nl/BWBV0001252"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Arabische Republiek Egypte inzake de bevordering en de wederzijdse bescherming van investeringen
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Arabische Republiek Egypte,
-
-hierna te noemen de Verdragsluitende Partijen,
-
-Geleid door de wens hun van oudsher bestaande vriendschapsbanden te versterken en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door de onderdanen van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij betreft,
-
-In het besef dat overeenstemming omtrent de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Arabische Republiek Egypte, hierna te noemen de Verdragsluitende Partijen, Geleid door de wens hun van oudsher bestaande vriendschapsbanden te versterken en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door de onderdanen van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij betreft, In het besef dat overeenstemming omtrent de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -54,21 +21,21 @@ Voor de toepassing van dit Verdrag:
 
 - a. wordt onder de term „investeringen” verstaan: alle soorten vermogensbestanddelen, al dan niet rechtstreeks in het bezit of onder zeggenschap van een onderdaan van een van beide Verdragsluitende Partijen, en in het bijzonder, doch niet uitsluitend:
 
-- i. roerende en onroerende zaken, alsmede alle andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
+   - i. roerende en onroerende zaken, alsmede alle andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
 
-- ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en gezamenlijke ondernemingen;
+   - ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en gezamenlijke ondernemingen;
 
-- iii. aanspraken op geld, op andere vermogensbestanddelen of op iedere prestatie die economische waarde heeft;
+   - iii. aanspraken op geld, op andere vermogensbestanddelen of op iedere prestatie die economische waarde heeft;
 
-- iv. rechten op het gebied van de intellectuele eigendom, technische werkwijzen, goodwill en know-how;
+   - iv. rechten op het gebied van de intellectuele eigendom, technische werkwijzen, goodwill en know-how;
 
-- v. rechten verleend krachtens het publiekrecht of bij overeenkomst, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen;
+   - v. rechten verleend krachtens het publiekrecht of bij overeenkomst, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen;
 
 - b. omvat de term „onderdanen” met betrekking tot elk van beide Verdragsluitende Partijen:
 
-- i. natuurlijke personen die de nationaliteit van die Verdragsluitende Partij hebben;
+   - i. natuurlijke personen die de nationaliteit van die Verdragsluitende Partij hebben;
 
-- ii. rechtspersonen die zijn opgericht krachtens het recht van die Verdragsluitende Partij;
+   - ii. rechtspersonen die zijn opgericht krachtens het recht van die Verdragsluitende Partij;
 
 - c. omvat de term „grondgebied” mede de zeegebieden grenzend aan de kust van de betrokken Staat, voor zover die Staat overeenkomstig het internationale recht soevereine rechten of rechtsmacht in deze gebieden uitoefent.
 
@@ -108,9 +75,9 @@ De Verdragsluitende Partijen waarborgen dat betalingen die verband houden met ee
 
 - b. gelden nodig
 
-- i. voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindprodukten, of
+   - i. voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindprodukten, of
 
-- ii. om kapitaalgoederen te vervangen ten einde de continuïteit van een investering te waarborgen;
+   - ii. om kapitaalgoederen te vervangen ten einde de continuïteit van een investering te waarborgen;
 
 - c. bijkomende gelden nodig voor de ontwikkeling van een investering;
 
@@ -146,13 +113,13 @@ Indien de investeringen van een onderdaan van de ene Verdragsluitende Partij ver
 
 1. Elke Verdragsluitende Partij stemt er hierbij mee in juridische geschillen die ontstaan tussen die Verdragsluitende Partij en een onderdaan van de andere Verdragsluitende Partij betreffende een investering van die onderdaan op het grondgebied van de eerstbedoelde Verdragsluitende Partij voor te leggen, naar keuze van de betrokken onderdaan, aan:
 
-- –. het Internationale Centrum voor de Beslechting van Investeringsgeschillen ter beslechting door bemiddeling of arbitrage krachtens het Verdrag inzake de beslechting van investeringsgeschillen tussen Staten en onderdanen van andere Staten, dat op 18 maart 1965 te Washington D.C. werd opengesteld voor ondertekening. Een rechtspersoon die onderdaan is van de ene Verdragsluitende Partij en die, voordat een dergelijk geschil ontstaat, onder toezicht staat van onderdanen van de andere Verdragsluitende Partij, wordt in overeenstemming met artikel 25, tweede lid, letter b, van het Verdrag voor de toepassing van het Verdrag behandeld als onderdaan van de andere Verdragsluitende Partij;
+- – het Internationale Centrum voor de Beslechting van Investeringsgeschillen ter beslechting door bemiddeling of arbitrage krachtens het Verdrag inzake de beslechting van investeringsgeschillen tussen Staten en onderdanen van andere Staten, dat op 18 maart 1965 te Washington D.C. werd opengesteld voor ondertekening. Een rechtspersoon die onderdaan is van de ene Verdragsluitende Partij en die, voordat een dergelijk geschil ontstaat, onder toezicht staat van onderdanen van de andere Verdragsluitende Partij, wordt in overeenstemming met artikel 25, tweede lid, letter b, van het Verdrag voor de toepassing van het Verdrag behandeld als onderdaan van de andere Verdragsluitende Partij;
 
-- –. één scheidsman of scheidsgerecht ad hoc, ingesteld overeenkomstig het arbitragereglement van de Commissie inzake Internationaal Handelsrecht van de Verenigde Naties (UNCITRAL);
+- – één scheidsman of scheidsgerecht ad hoc, ingesteld overeenkomstig het arbitragereglement van de Commissie inzake Internationaal Handelsrecht van de Verenigde Naties (UNCITRAL);
 
-- –. het Regionale Centrum voor Internationale Handelsarbitrage te Caïro;
+- – het Regionale Centrum voor Internationale Handelsarbitrage te Caïro;
 
-- –. het Hof van Arbitrage van de Internationale Kamer van Koophandel te Parijs.
+- – het Hof van Arbitrage van de Internationale Kamer van Koophandel te Parijs.
 
 2. De arbitrale beslissingen zijn onherroepelijk en bindend voor de partijen bij het conflict. Elke partij verplicht zich ertoe de beslissingen ten uitvoer te leggen in overeenstemming met haar nationale recht.
 
@@ -202,10 +169,10 @@ TEN BLIJKE WAARVAN de ondertekenende vertegenwoordigers, daartoe naar behoren ge
 
 GEDAAN in tweevoud te Kaïro op 17 januari 1996 in de Nederlandse, de Arabische en de Engelse taal, zijnde de drie teksten gelijkelijk authentiek. In geval van verschil in uitlegging is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g) A. VAN DOK-VAN WEELE
 
-**Voor de Arabische Republiek Egypte**
+*Voor de Arabische Republiek Egypte*
 
 (w.g.) NAWAL EL-TATAWI

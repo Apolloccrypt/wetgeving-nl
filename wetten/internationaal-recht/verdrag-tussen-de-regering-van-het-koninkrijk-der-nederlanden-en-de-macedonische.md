@@ -1,52 +1,19 @@
 ---
 title: "Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Macedonische Regering inzake de bevordering en de wederzijdse bescherming van investeringen"
 identifier: "BWBV0001388"
-country: "nl"
-rank: "verdrag"
-publication_date: "1999-06-01"
-last_updated: "1999-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001388"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000415253"
-version_id: "10000423332"
-internal_id: "C10006989821"
-label_id: "10000415444"
-original_entry_into_force: "1999-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001388/1999-06-01/0"
-intitule_bron: "Trb.1998-203"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-04-20"
-intitule_published: "1998-08-18"
-intitule_in_force: "1999-05-28"
-intitule_status: "goed"
-original_publication: "Trb.1998-203"
-original_signed_date: "1999-04-20"
-original_published_date: "1998-08-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1998-203"
-entry_into_force_date: "1999-06-01"
-jci_1_3: "jci1.3:c:BWBV0001388&z=1999-06-01&g=1999-06-01"
-jci_1_0: "1.0:c:BWBV0001388&g=1999-06-01"
-citeertitel_status: "officieel"
-signed_date: "1999-04-20"
-entry_into_force: "1999-06-01"
+publicatiedatum: 1999-06-01
+laatste_update: 1999-06-01
+status: geldig
+toestand: 1999-06-01
+bron: "https://wetten.overheid.nl/BWBV0001388"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Macedonische Regering inzake de bevordering en de wederzijdse bescherming van investeringen
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Macedonische Regering
-
-(hun Staten hierna te noemen „de Verdragsluitende Staten”),
-
-Geleid door de wens de van oudsher bestaande vriendschapsbanden tussen hun landen te versterken en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat betreft investeringen door de onderdanen van de ene Verdragsluitende Staat op het grondgebied van de andere Verdragsluitende Staat,
-
-In het besef dat overeenstemming omtrent de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Staten zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Macedonische Regering (hun Staten hierna te noemen „de Verdragsluitende Staten”), Geleid door de wens de van oudsher bestaande vriendschapsbanden tussen hun landen te versterken en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat betreft investeringen door de onderdanen van de ene Verdragsluitende Staat op het grondgebied van de andere Verdragsluitende Staat, In het besef dat overeenstemming omtrent de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Staten zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -54,29 +21,29 @@ Voor de toepassing van dit Verdrag:
 
 - a. wordt onder de term „investeringen” verstaan: alle soorten vermogensbestanddelen en in het bijzonder, doch niet uitsluitend:
 
-- i. roerende en onroerende zaken, alsmede andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
+   - i. roerende en onroerende zaken, alsmede andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
 
-- ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en joint ventures;
+   - ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en joint ventures;
 
-- iii. aanspraken op geld, op andere vermogensbestanddelen of op iedere prestatie die economische waarde heeft;
+   - iii. aanspraken op geld, op andere vermogensbestanddelen of op iedere prestatie die economische waarde heeft;
 
-- iv. rechten op het gebied van de intellectuele eigendom, technische werkwijzen, goodwill en know-how;
+   - iv. rechten op het gebied van de intellectuele eigendom, technische werkwijzen, goodwill en know-how;
 
-- v. rechten verleend krachtens het publiekrecht of bij overeenkomst, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen;
+   - v. rechten verleend krachtens het publiekrecht of bij overeenkomst, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen;
 
 - b. omvat de term „onderdanen” met betrekking tot elk van de Verdragsluitende Staten:
 
-- i. natuurlijke personen die de nationaliteit van die Verdragsluitende Staat hebben;
+   - i. natuurlijke personen die de nationaliteit van die Verdragsluitende Staat hebben;
 
-- ii. rechtspersonen die zijn opgericht krachtens het recht van die Verdragsluitende Staat;
+   - ii. rechtspersonen die zijn opgericht krachtens het recht van die Verdragsluitende Staat;
 
-- iii. rechtspersonen die niet zijn opgericht krachtens het recht van die Verdragsluitende Staat, maar die onder al dan niet rechtstreeks toezicht staan van natuurlijke personen zoals omschreven onder i of van rechtspersonen zoals omschreven onder ii;
+   - iii. rechtspersonen die niet zijn opgericht krachtens het recht van die Verdragsluitende Staat, maar die onder al dan niet rechtstreeks toezicht staan van natuurlijke personen zoals omschreven onder i of van rechtspersonen zoals omschreven onder ii;
 
 - c. omvat het grondgebied van de Verdragsluitende Staten respectievelijk:
 
-- i. het Nederlandse grondgebied, met inbegrip van alle aan de territoriale zee grenzende gebieden waarin de Nederlandse Verdragsluitende Staat, overeenkomstig het internationale recht, rechtsmacht of soevereine rechten uitoefent met betrekking tot de zeebodem, de ondergrond daarvan en de wateren boven de zeebodem, en hun natuurlijke rijkdommen;
+   - i. het Nederlandse grondgebied, met inbegrip van alle aan de territoriale zee grenzende gebieden waarin de Nederlandse Verdragsluitende Staat, overeenkomstig het internationale recht, rechtsmacht of soevereine rechten uitoefent met betrekking tot de zeebodem, de ondergrond daarvan en de wateren boven de zeebodem, en hun natuurlijke rijkdommen;
 
-- ii. het Macedonische grondgebied, zijnde land, wateren en lucht, waarover de Macedonische Verdragsluitende Staat overeenkomstig het internationale recht soevereine rechten en rechtsmacht uitoefent.
+   - ii. het Macedonische grondgebied, zijnde land, wateren en lucht, waarover de Macedonische Verdragsluitende Staat overeenkomstig het internationale recht soevereine rechten en rechtsmacht uitoefent.
 
 - d. wordt onder de term „opbrengsten” verstaan: het geld dat een investering heeft opgebracht en in het bijzonder doch niet uitsluitend winst, interest, dividenden, vergoedingen met betrekking tot licenties, alsmede andere soortgelijke vergoedingen.
 
@@ -114,9 +81,9 @@ De Verdragsluitende Staten waarborgen dat betalingen die verband houden met een 
 
 - b. gelden nodig
 
-- i. voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindproducten, of
+   - i. voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindproducten, of
 
-- ii. om kapitaalgoederen te vervangen teneinde de continuïteit van investering te waarborgen;
+   - ii. om kapitaalgoederen te vervangen teneinde de continuïteit van investering te waarborgen;
 
 - c. bijkomende gelden nodig voor de ontwikkeling van een investering;
 
@@ -172,7 +139,7 @@ Elk van beide Verdragsluitende Staten kan aan de andere Staat voorstellen overle
 
 4. Indien in de in het tweede en derde lid van dit artikel bedoelde gevallen de President van het Internationale Gerechtshof verhinderd is genoemde functie uit te oefenen, of onderdaan is van een van beide Verdragsluitende Staten, wordt de Vice-President verzocht de noodzakelijke benoemingen te verrichten. Indien de Vice-President verhinderd is de genoemde functie uit te oefenen, of onderdaan is van een van beide Staten, wordt het lid van het Gerechtshof dat de hoogste anciënniteit heeft, beschikbaar is en geen onderdaan is van een der Staten, verzocht de noodzakelijke benoeming te verrichten.
 
-5. Het scheidsgerecht doet uitspraak op basis van eerbiediging van het recht. Alvorens uitspraak te doen, kan het scheidsgerecht in elke stand van het geding een minnelijke schikking van het geschil aan de Staten voorstellen. De voorgaande bepalingen doen geen afbreuk aan regeling van het geschil **ex aequo et bono**, indien de Staten dit overeenkomen.
+5. Het scheidsgerecht doet uitspraak op basis van eerbiediging van het recht. Alvorens uitspraak te doen, kan het scheidsgerecht in elke stand van het geding een minnelijke schikking van het geschil aan de Staten voorstellen. De voorgaande bepalingen doen geen afbreuk aan regeling van het geschil *ex aequo et bono*, indien de Staten dit overeenkomen.
 
 6. Tenzij de Staten anders beslissen, stelt het scheidsgerecht zijn eigen procedureregels vast.
 
@@ -200,10 +167,10 @@ TEN BLIJKE WAARVAN de ondergetekende vertegenwoordigers, daartoe naar behoren ge
 
 GEDAAN in tweevoud te Skopje op 07-07-1998, in de Nederlandse, de Macedonische en de Engelse taal, zijnde de drie teksten authentiek. In geval van verschil in interpretatie is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden:**
+*Voor de Regering van het Koninkrijk der Nederlanden:*
 
 (w.g.) M. A. STIBBE
 
-**Voor de Macedonische Regering:**
+*Voor de Macedonische Regering:*
 
 (w.g.) DRAGOLJUB ARSOVSKI

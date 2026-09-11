@@ -1,76 +1,45 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Nepal inzake luchtdiensten"
 identifier: "BWBV0001379"
-country: "nl"
-rank: "verdrag"
-publication_date: "1999-03-15"
-last_updated: "1999-03-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001379"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000445323"
-version_id: "10000453522"
-internal_id: "C10006989861"
-label_id: "10000445634"
-original_entry_into_force: "1999-03-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001379/1999-03-15/0"
-intitule_bron: "Trb.1998-173"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-03-15"
-intitule_published: "1998-07-02"
-intitule_in_force: "2004-05-19"
-intitule_status: "goed"
-original_publication: "Trb.1998-173"
-original_signed_date: "1999-03-15"
-original_published_date: "1998-07-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1998-173"
-entry_into_force_date: "1999-03-15"
-jci_1_3: "jci1.3:c:BWBV0001379&z=1999-03-15&g=1999-03-15"
-jci_1_0: "1.0:c:BWBV0001379&g=1999-03-15"
-citeertitel_status: "officieel"
-signed_date: "1999-03-15"
-entry_into_force: "1999-03-15"
+publicatiedatum: 1999-03-15
+laatste_update: 1999-03-15
+status: geldig
+toestand: 1999-03-15
+bron: "https://wetten.overheid.nl/BWBV0001379"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Nepal inzake luchtdiensten
 
-The Kingdom of the Netherlands
-
-and
-
-His Majesty's Government of Nepal, hereinafter referred to as the “Contracting Parties";
-
-Being Parties to the Convention on International Civil Aviation and the International Air Services Transit Agreement opened for signature at Chicago on the 7th day of December 1944, and
-
-Desiring to promote their mutual relations in the field of civil aviation and to conclude an agreement for the purpose of establishing air services between and beyond their respective territories;
-
-Have agreed as follows:
+*The Kingdom of the Netherlands and His Majesty's Government of Nepal, hereinafter referred to as the “Contracting Parties"; Being Parties to the Convention on International Civil Aviation and the International Air Services Transit Agreement opened for signature at Chicago on the 7th day of December 1944, and Desiring to promote their mutual relations in the field of civil aviation and to conclude an agreement for the purpose of establishing air services between and beyond their respective territories; Have agreed as follows:*
 
 ##### Article 1. Definitions
 
 For the purpose of this Agreement, unless the context otherwise requires, the term:
 
-- a). “Convention" means the Convention on International Civil Aviation opened for signature at Chicago on the seventh day of December, 1944, and includes any Annexes adopted under Article 90 of the Convention and any amendment of the Annexes or the Convention under Article 90 and 94 thereof so far as those Annexes and amendments have become effective for or been ratified by both Contracting Parties;
+- a) “Convention" means the Convention on International Civil Aviation opened for signature at Chicago on the seventh day of December, 1944, and includes any Annexes adopted under Article 90 of the Convention and any amendment of the Annexes or the Convention under Article 90 and 94 thereof so far as those Annexes and amendments have become effective for or been ratified by both Contracting Parties;
 
-- b). “Aeronautical Authorities" means in the case of Nepal, the Director General of the Department of Civil Aviation, and in the case of the Netherlands, The Minister of Transport, Public Works and Water Management of the Netherlands, or, in both cases, any authority or person empowered to perform the functions presently exercised by the said authorities;
+- b) “Aeronautical Authorities" means in the case of Nepal, the Director General of the Department of Civil Aviation, and in the case of the Netherlands, The Minister of Transport, Public Works and Water Management of the Netherlands, or, in both cases, any authority or person empowered to perform the functions presently exercised by the said authorities;
 
-- c). “Designated Airline" means an airline which has been designated and authorized in accordance with Article 5 of this Agreement;
+- c) “Designated Airline" means an airline which has been designated and authorized in accordance with Article 5 of this Agreement;
 
-- d). “Territory" has the meaning assigned to it in Article 2 of the Convention;
+- d) “Territory" has the meaning assigned to it in Article 2 of the Convention;
 
-- e). “Air Service", “international air service", “airline" and “stop for non-traffic purposes" have the meanings respectively assigned to them in Article 96 of the Convention;
+- e) “Air Service", “international air service", “airline" and “stop for non-traffic purposes" have the meanings respectively assigned to them in Article 96 of the Convention;
 
-- f). “Tariffs" means the prices to be paid for the carriage of passengers, baggage and cargo and the conditions under which those prices apply, including prices and conditions for agency and other ancillary services, but excluding remuneration and conditions for the carriage of mail;
+- f) “Tariffs" means the prices to be paid for the carriage of passengers, baggage and cargo and the conditions under which those prices apply, including prices and conditions for agency and other ancillary services, but excluding remuneration and conditions for the carriage of mail;
 
-- g). “Route Schedule" means the schedule of routes annexed to this Agreement and any amendments thereto as agreed in accordance with the provisions of Articles 19 of this Agreement. The route schedule shall form an integral part of this Agreement;
+- g) “Route Schedule" means the schedule of routes annexed to this Agreement and any amendments thereto as agreed in accordance with the provisions of Articles 19 of this Agreement. The route schedule shall form an integral part of this Agreement;
 
-- h). “Agreement" means this Agreement, its Annexes drawn up in application thereof, and any amendments thereto;
+- h) “Agreement" means this Agreement, its Annexes drawn up in application thereof, and any amendments thereto;
 
-- i). “Laws and Regulations" of a Contracting Party means the laws and regulations at any time in force of that Contracting Party;
+- i) “Laws and Regulations" of a Contracting Party means the laws and regulations at any time in force of that Contracting Party;
 
-- j). “Change of Aircraft" means the operation of one of the agreed services by a designated airline in such a way that one of more sectors of the route are flown by aircraft different in capacity from those used on another sector;
+- j) “Change of Aircraft" means the operation of one of the agreed services by a designated airline in such a way that one of more sectors of the route are flown by aircraft different in capacity from those used on another sector;
 
-- k). “Computer Reservation System" (CRS) means a computerized system containing information about airline schedules, seat availability, fares and related services and through which reservations can be made and/or tickets can be issued and which makes some or all of these facilities available to travel agents.
+- k) “Computer Reservation System" (CRS) means a computerized system containing information about airline schedules, seat availability, fares and related services and through which reservations can be made and/or tickets can be issued and which makes some or all of these facilities available to travel agents.
 
 ##### Article 2. Applicability of the Chicago Convention
 
@@ -80,9 +49,9 @@ The provisions of the Agreement shall be subject to the provisions of the Conven
 
 1. Each Contracting Party grants to the other Contracting Party the following rights for the purpose of operating international air services by the airline designated by the other Contracting Party:
 
-- a). to fly across its territory without landing;
+- a) to fly across its territory without landing;
 
-- b). to make stops in said territory for non-traffic purposes.
+- b) to make stops in said territory for non-traffic purposes.
 
 2. Each Contracting Party grants to the other Contracting Party the rights specified in this Agreement for the purpose of establishing scheduled international air services on the routes specified in the appropriate Section of the Schedule annexed to this Agreement. Such services and routes are hereafter called “the agreed services" and “the specified routes" respectively.
 
@@ -96,9 +65,9 @@ While operating agreed services on a specified route the airlines designated by 
 
 1. Each designated airline may on any or all flights on the agreed services and at its option, change aircraft in the territory of the other Contracting Party or at any point along the specified routes, provided that:
 
-- a). aircraft used beyond the point of change of aircraft shall be scheduled in coincidence with the inbound or outbound aircraft, as the case may be;
+- a) aircraft used beyond the point of change of aircraft shall be scheduled in coincidence with the inbound or outbound aircraft, as the case may be;
 
-- b). in the case of change of aircraft in the territory of the other Contracting Party and when more than one aircraft is operated beyond the point of change, not more than one such aircraft may be of equal size and none may be larger than the aircraft used on the third and fourth freedom sector.
+- b) in the case of change of aircraft in the territory of the other Contracting Party and when more than one aircraft is operated beyond the point of change, not more than one such aircraft may be of equal size and none may be larger than the aircraft used on the third and fourth freedom sector.
 
 2. For the purpose of change of aircraft operations, a designated airline may use its own equipment and, subject to national regulations, leased equipment, and may operate under commercial arrangements with another airline.
 
@@ -118,13 +87,13 @@ While operating agreed services on a specified route the airlines designated by 
 
 1. The Aeronautical Authorities of each Contracting Party shall have the right to revoke an operating authorization or to withhold the authorization referred to in Article 5 of this Agreement with respect to an airline designated by the other Contracting Party, or to revoke or suspend such authorizations or impose conditions:
 
-- a). in the event of failure by such airline to qualify before the Aeronautical Authorities of that Contracting Party under the laws and regulations normally and reasonably applied by these authorities in conformity with the Convention;
+- a) in the event of failure by such airline to qualify before the Aeronautical Authorities of that Contracting Party under the laws and regulations normally and reasonably applied by these authorities in conformity with the Convention;
 
-- b). in the event of failure by such airline to comply with the laws and regulations of that Contracting Party;
+- b) in the event of failure by such airline to comply with the laws and regulations of that Contracting Party;
 
-- c). in the event that they are not satisfied that substantial ownership and effective control of the airline are vested in the Contracting Party designating the airline or in its nationals; and
+- c) in the event that they are not satisfied that substantial ownership and effective control of the airline are vested in the Contracting Party designating the airline or in its nationals; and
 
-- d). in the case the airline otherwise fails to operate in accordance with the conditions prescribed under this Agreement.
+- d) in the case the airline otherwise fails to operate in accordance with the conditions prescribed under this Agreement.
 
 2. Unless immediate action is essential to prevent infringement of the laws and regulations referred to above, the rights enumerated in paragraph 1 of this Article shall be exercised only after consultations with the Aeronautical Authorities of the other Contracting Party in conformity with Article 19 of this Agreement.
 
@@ -222,25 +191,25 @@ The provisions of this paragraph cannot be interpreted in such a way that a Cont
 
 1. The Contracting Parties agree that:
 
-- a). the interest of consumers of air transport products will be protected from any misuse of such information including misleading presentation thereof;
+- a) the interest of consumers of air transport products will be protected from any misuse of such information including misleading presentation thereof;
 
-- b). the designated airline of a Contracting Party and the airline's agents will have unrestricted and non-discriminatory access to and use of CRS's in the territory of the other Contracting Party;
+- b) the designated airline of a Contracting Party and the airline's agents will have unrestricted and non-discriminatory access to and use of CRS's in the territory of the other Contracting Party;
 
-- c). in this respect the CRS Code of Conduct applicable in the Netherlands shall prevail in the territory of the Netherlands, whereas in the territory of Nepal the applicable rules and regulations shall prevail.
+- c) in this respect the CRS Code of Conduct applicable in the Netherlands shall prevail in the territory of the Netherlands, whereas in the territory of Nepal the applicable rules and regulations shall prevail.
 
 2. Each Contracting Party guarantees to the other Contracting Party free and unimpaired access in its territory to the CRS's chosen as its primary system by the designated airline of the Contracting Parties. Neither Contracting Party shall, in its territory, impose or permit to be imposed on the CRS of the designated airline of the other Contracting Party more stringent requirements than those imposed on the CRS of its own designated airline, such as with respect to:
 
-- a). the operation and sale of the CRS services including CRS display and editing rules, and
+- a) the operation and sale of the CRS services including CRS display and editing rules, and
 
-- b). the access to and use of communications facilities, selection and use of technical hardware and software or the installation of hardware.
+- b) the access to and use of communications facilities, selection and use of technical hardware and software or the installation of hardware.
 
 ##### Article 17. Airline Representation and Commercial Activities
 
 1. The designated airlines of both Contracting Parties shall be allowed:
 
-- a). to establish in the territory of the other Contracting Party offices for the promotion of air transportation and sale of air tickets (including the right to sell and to issue any ticket and/or airwaybill, both its own tickets/airwaybills and of any other carrier) as well as other facilities required for the provision of air transportation;
+- a) to establish in the territory of the other Contracting Party offices for the promotion of air transportation and sale of air tickets (including the right to sell and to issue any ticket and/or airwaybill, both its own tickets/airwaybills and of any other carrier) as well as other facilities required for the provision of air transportation;
 
-- b). in the territory of the other Contracting Party to engage directly and, at that airline's discretion, through its agents in the sale of air transportation.
+- b) in the territory of the other Contracting Party to engage directly and, at that airline's discretion, through its agents in the sale of air transportation.
 
 2. The designated airline of one Contracting Party shall be allowed, on the basis of reciprocity, to bring into and to maintain in the territory of the other Contracting Party their representatives and commercial, operational and technical staff as required in connection with the provision of air transportation.
 
@@ -292,7 +261,7 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their resp
 
 DONE, in duplicate at Schiphol Airport, on this tenth day of June 1998, in the English language.
 
-**For the Kingdom of the Netherlands**
+*For the Kingdom of the Netherlands*
 
 (sd.) A. JORRITSMA-LEBBINK
 
@@ -302,7 +271,7 @@ Minister of Transport, Public
 
 Works and Water Management
 
-**For His Majesty's Government of Nepal**
+*For His Majesty's Government of Nepal*
 
 (sd.) ANANDA PRASAD DHUNGANA
 

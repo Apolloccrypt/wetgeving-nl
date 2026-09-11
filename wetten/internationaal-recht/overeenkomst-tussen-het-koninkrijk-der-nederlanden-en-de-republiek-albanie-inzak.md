@@ -1,48 +1,20 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Albanië inzake de bevordering en de wederzijdse bescherming van investeringen"
+citeertitel: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Albanië inzake de bevordering en de wederzijdse bescherming van investeringen; Tirana, 15-04-1994"
 identifier: "BWBV0001184"
-country: "nl"
-rank: "verdrag"
-publication_date: "1995-09-01"
-last_updated: "1995-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001184"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10001671763"
-version_id: "10001749902"
-internal_id: "C10006986531"
-label_id: "10001671944"
-dtd_version: "2.0"
-original_entry_into_force: "1995-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001184/1995-09-01/0"
-intitule_bron: "Trb.1994-145"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-05-02"
-intitule_published: "1994-07-13"
-intitule_in_force: "1995-08-10"
-intitule_status: "goed"
-original_publication: "Trb.1994-145"
-original_signed_date: "1995-05-02"
-original_published_date: "1994-07-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1994-145"
-entry_into_force_date: "1995-09-01"
-jci_1_3: "jci1.3:c:BWBV0001184&z=1995-09-01&g=1995-09-01"
-jci_1_0: "1.0:c:BWBV0001184&g=1995-09-01"
-citeertitel_status: "redactioneel"
-short_title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Albanië inzake de bevordering en de wederzijdse bescherming van investeringen; Tirana, 15-04-1994"
-signed_date: "1995-05-02"
-entry_into_force: "1995-09-01"
+publicatiedatum: 1995-09-01
+laatste_update: 1995-09-01
+status: geldig
+toestand: 1995-09-01
+bron: "https://wetten.overheid.nl/BWBV0001184"
+opgehaald: 2026-09-11
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Albanië inzake de bevordering en de wederzijdse bescherming van investeringen
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Albanië, hierna te noemen de Overeenkomstsluitende Partijen,
-
-Geleid door de wens de van oudsher tussen hun landen bestaande vriendschapsbanden te versterken, de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door de onderdanen van de ene Overeenkomstsluitende Partij op het grondgebied van de andere Overeenkomstsluitende Partij betreft,
-
-In het besef dat overeenstemming omtrent de aan dergelijke buitenlandse investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Overeenkomstsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Albanië, hierna te noemen de Overeenkomstsluitende Partijen, Geleid door de wens de van oudsher tussen hun landen bestaande vriendschapsbanden te versterken, de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door de onderdanen van de ene Overeenkomstsluitende Partij op het grondgebied van de andere Overeenkomstsluitende Partij betreft, In het besef dat overeenstemming omtrent de aan dergelijke buitenlandse investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Overeenkomstsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -50,33 +22,33 @@ Voor de toepassing van deze Overeenkomst omvat de term:
 
 - a. „investeringen": alle soorten vermogensbestanddelen en in het bijzonder, doch niet uitsluitend:
 
-- i. roerende en onroerende zaken, alsmede alle andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
+   - i. roerende en onroerende zaken, alsmede alle andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
 
-- ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en gezamenlijke ondernemingen;
+   - ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en gezamenlijke ondernemingen;
 
-- iii. recht op geld, op andere vermogensbestanddelen of op iedere prestatie die economische waarde heeft;
+   - iii. recht op geld, op andere vermogensbestanddelen of op iedere prestatie die economische waarde heeft;
 
-- iv. rechten op het gebied van de intellectuele eigendom, met inbegrip van rechten betreffende technische werkwijzen, goodwill en know-how;
+   - iv. rechten op het gebied van de intellectuele eigendom, met inbegrip van rechten betreffende technische werkwijzen, goodwill en know-how;
 
-- v. rechten verleend krachtens het publiekrecht, met inbegrip van rechten tot het opsporen, exploreren en winnen van natuurlijke rijkdommen;
+   - v. rechten verleend krachtens het publiekrecht, met inbegrip van rechten tot het opsporen, exploreren en winnen van natuurlijke rijkdommen;
 
 - b. „onderdanen":
 
-- i.
+   - i.
 
-- -. met betrekking tot het Koninkrijk der Nederlanden, iedere natuurlijke persoon die zijn nationaliteit heeft in overeenstemming met zijn recht;
+      - - met betrekking tot het Koninkrijk der Nederlanden, iedere natuurlijke persoon die zijn nationaliteit heeft in overeenstemming met zijn recht;
 
-- -. met betrekking tot de Republiek Albanië, iedere natuurlijke persoon die haar staatsburgerschap bezit in overeenstemming met haar recht;
+      - - met betrekking tot de Republiek Albanië, iedere natuurlijke persoon die haar staatsburgerschap bezit in overeenstemming met haar recht;
 
-- ii. met betrekking tot elk van beide Overeenkomstsluitende Partijen, rechtspersonen die zijn opgericht krachtens het recht van die Overeenkomstsluitende Partij;
+   - ii. met betrekking tot elk van beide Overeenkomstsluitende Partijen, rechtspersonen die zijn opgericht krachtens het recht van die Overeenkomstsluitende Partij;
 
-- iii. met betrekking tot elk van beide Overeenkomstsluitende Partijen, rechtspersonen die niet zijn opgericht krachtens het recht van die Overeenkomstsluitende Partij, maar die, direct of indirect, onder toezicht staan van natuurlijke personen zoals omschreven onder i. of van rechtspersonen zoals omschreven onder ii. hierboven
+   - iii. met betrekking tot elk van beide Overeenkomstsluitende Partijen, rechtspersonen die niet zijn opgericht krachtens het recht van die Overeenkomstsluitende Partij, maar die, direct of indirect, onder toezicht staan van natuurlijke personen zoals omschreven onder i. of van rechtspersonen zoals omschreven onder ii. hierboven
 
 - c. „grondgebied": De term „grondgebied" omvat eveneens de zeegebieden grenzend aan de kust van de betrokken Staat, voor zover die Staat overeenkomstig het internationale recht soevereine rechten of rechtsmacht in deze gebieden uitoefent.
 
-- i. met betrekking tot het Koninkrijk der Nederlanden, het grondgebied dat het Koninkrijk der Nederlanden vormt;
+   - i. met betrekking tot het Koninkrijk der Nederlanden, het grondgebied dat het Koninkrijk der Nederlanden vormt;
 
-- ii. met betrekking tot de Republiek Albanië, het grondgebied dat de Republiek Albanië vormt;
+   - ii. met betrekking tot de Republiek Albanië, het grondgebied dat de Republiek Albanië vormt;
 
 ##### Artikel 2
 
@@ -112,9 +84,9 @@ De Overeenkomstsluitende Partijen waarborgen dat betalingen die verband houden m
 
 - b. gelden nodig
 
-- i. voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindprodukten, of
+   - i. voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindprodukten, of
 
-- ii. om kapitaalgoederen te vervangen ten einde de continuïteit van een investering te waarborgen;
+   - ii. om kapitaalgoederen te vervangen ten einde de continuïteit van een investering te waarborgen;
 
 - c. bijkomende gelden, nodig voor de ontwikkeling van een investering;
 
@@ -202,10 +174,10 @@ TEN BLIJKE WAARVAN de ondergetekende vertegenwoordigers, daartoe naar behoren ge
 
 GEDAAN in tweevoud te Tirana op 15 april 1994 in de Nederlandse, de Albanese en de Engelse taal, zijnde de drie teksten gelijkelijk authentiek. In geval van verschil in uitlegging is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden:**
+*Voor de Regering van het Koninkrijk der Nederlanden:*
 
 (w.g.) G. C. M. VAN PALLANDT
 
-**Voor de Regering van de Republiek Albanië:**
+*Voor de Regering van de Republiek Albanië:*
 
 (w.g.) S. BELORTAJA

@@ -1,38 +1,35 @@
 ---
-title: "Mandaatbesluit Subsidieregeling start-ups Big Chemistry"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 12 mei 2026, nr. 63288589, houdende de verlening van mandaat, volmacht en machtiging aan de Ontwikkelingsmaatschappij Oost-Nederland N.V. (Oost NL) in verband met de uitvoering van de Subsidieregeling start-ups Big Chemistry (Mandaatbesluit Subsidieregeling start-ups Big Chemistry)"
+citeertitel: "Mandaatbesluit Subsidieregeling start-ups Big Chemistry"
 identifier: "BWBR0052640"
-categorie: "Overig"
+categorie: "Onderwijs"
+soort: "ministeriele-regeling"
 publicatiedatum: 2026-05-27
 laatste_update: 2026-05-27
 status: geldig
+toestand: 2026-05-27
 bron: "https://wetten.overheid.nl/BWBR0052640"
+opgehaald: 2026-09-11
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 12 mei 2026, nr. 63288589, houdende de verlening van mandaat, volmacht en machtiging aan de Ontwikkelingsmaatschappij Oost-Nederland N.V. (Oost NL) in verband met de uitvoering van de Subsidieregeling start-ups Big Chemistry (Mandaatbesluit Subsidieregeling start-ups Big Chemistry)
-
-Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3) en [10:4, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4);
-
-Gelet op de Uitvoeringsovereenkomst voor de uitvoering door Oost NL van de Subsidieregeling start-ups Big Chemistry, kenmerk 63255588, en de instemming van Oost NL met de verlening van het mandaat, de volmacht en de machtiging;
-
-Besluit:
-
-Treedt in werking op het tijdstip waarop de Subsidieregeling start-ups Big Chemistry in werking treedt.
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- **algemeen directeur:** algemeen directeur van de Ontwikkelingsmaatschappij Oost-Nederland N.V.;
+- *algemeen directeur:* algemeen directeur van de Ontwikkelingsmaatschappij Oost-Nederland N.V.;
 
-- **beoordelingscommissie:** beoordelingscommissie als bedoeld in [bijlage 1 van de subsidieregeling](onbekend);
+- *beoordelingscommissie:* beoordelingscommissie als bedoeld in bijlage 1 van de subsidieregeling;
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **subsidieregeling:** [Subsidieregeling start-ups Big Chemistry](onbekend).
+- *subsidieregeling:*
+ Subsidieregeling start-ups Big Chemistry.
 
 ##### Artikel 2. Mandaatverlening en voorwaarden
 
-1. Ter uitvoering van de [subsidieregeling](onbekend) wordt aan de algemeen directeur mandaat, volmacht en machtiging verleend voor het:
+1. Ter uitvoering van de subsidieregeling wordt aan de algemeen directeur mandaat, volmacht en machtiging verleend voor het:
 
 - a. vaststellen van een aanvraagformulier, inclusief begrotingsformat;
 
@@ -58,7 +55,7 @@ In dit besluit wordt verstaan onder:
 
 5. Bezwaarschriften, ingediend in relatie tot de in het eerste lid bedoelde besluiten, worden behandeld conform de [Regeling behandelingen bezwaarschriften OCW](https://wetten.overheid.nl/jci1.3:c:BWBR0023195). [Artikel 13, tweede lid, van het Organisatie- en mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13) is daarbij van overeenkomstige toepassing.
 
-6. Verzoeken op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), die verband houden met de uitvoering van de [subsidieregeling](onbekend), worden door de minister afgehandeld overeenkomstig [artikel 14b van het Organisatie- en mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14b). De algemeen directeur en het hoofd van de afdeling Open Overheid van de directie Wetgeving en Juridische zaken van het Ministerie van Onderwijs, Cultuur en Wetenschap stemmen daartoe een passende werkwijze af.
+6. Verzoeken op grond van de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754), die verband houden met de uitvoering van de subsidieregeling, worden door de minister afgehandeld overeenkomstig [artikel 14b van het Organisatie- en mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14b). De algemeen directeur en het hoofd van de afdeling Open Overheid van de directie Wetgeving en Juridische zaken van het Ministerie van Onderwijs, Cultuur en Wetenschap stemmen daartoe een passende werkwijze af.
 
 7. Het in het eerste lid bedoelde mandaat omvat tevens de behandeling van klachten in de zin van [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9). Ten aanzien van onderzoeken en vragen van de Nationale ombudsman is [artikel 12, eerste lid, aanhef en onder c, van het Organisatie- en mandaatbesluit OCW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=12) evenwel onverkort van toepassing.
 
@@ -90,6 +87,4 @@ Dit besluit wordt aangehaald als: Mandaatbesluit Subsidieregeling start-ups Big 
 
 ##### Artikel 6. Inwerkingtreding en vervaldatum
 
-Dit besluit treedt in werking op het tijdstip waarop de [subsidieregeling](onbekend) in werking treedt.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+Dit besluit treedt in werking op het tijdstip waarop de subsidieregeling in werking treedt.

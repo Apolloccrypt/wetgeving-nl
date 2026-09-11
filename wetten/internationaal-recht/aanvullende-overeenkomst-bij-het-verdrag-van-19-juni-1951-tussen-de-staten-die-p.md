@@ -1,56 +1,19 @@
 ---
 title: "Aanvullende Overeenkomst bij het Verdrag van 19 juni 1951 tussen de Staten die Partij zijn bij het Noord-Atlantisch Verdrag nopens de rechtspositie van hun krijgsmachten met betrekking tot de in het Koninkrijk der Nederlanden gestationeerde Duitse strijdkrachten"
 identifier: "BWBV0001445"
-country: "nl"
-rank: "verdrag"
-publication_date: "2000-09-01"
-last_updated: "2000-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001445"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10001018943"
-version_id: "10001048852"
-internal_id: "C10006990271"
-label_id: "10001019554"
-original_entry_into_force: "2000-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001445/2000-09-01/0"
-intitule_bron: "Trb.1998-124"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-07-12"
-intitule_published: "1998-05-19"
-intitule_in_force: "2000-08-10"
-intitule_status: "goed"
-original_publication: "Trb.1998-124"
-original_signed_date: "2000-07-12"
-original_published_date: "1998-05-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1998-124"
-entry_into_force_date: "2000-09-01"
-jci_1_3: "jci1.3:c:BWBV0001445&z=2000-09-01&g=2000-09-01"
-jci_1_0: "1.0:c:BWBV0001445&g=2000-09-01"
-citeertitel_status: "officieel"
-signed_date: "2000-07-12"
-entry_into_force: "2000-09-01"
+publicatiedatum: 2000-09-01
+laatste_update: 2000-09-01
+status: geldig
+toestand: 2000-09-01
+bron: "https://wetten.overheid.nl/BWBV0001445"
+opgehaald: 2026-09-11
 ---
+
 # Aanvullende Overeenkomst bij het Verdrag van 19 juni 1951 tussen de Staten die Partij zijn bij het Noord-Atlantisch Verdrag nopens de rechtspositie van hun krijgsmachten met betrekking tot de in het Koninkrijk der Nederlanden gestationeerde Duitse strijdkrachten
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Bondsrepubliek Duitsland,
-
-Gelet op het Noord-Atlantisch Verdrag van 4 april 1949,
-
-Indachtig hun Verdrag inzake de stationering van strijdkrachten van de Bondsrepubliek Duitsland in het Koninkrijk der Nederlanden van 6 oktober 1997,
-
-Ingevolge het Verdrag tussen de Staten die partij zijn bij het Noord-Atlantisch Verdrag nopens de rechtspositie van hun krijgsmachten van 19 juni 1951,
-
-In overeenstemming met de Nederlands-Duitse notawisseling van 18 maart 1993,
-
-Geleid door de wens voor het verblijf van de Bundeswehr, haar leden en hun gezinsleden in het Koninkrijk der Nederlanden aanvullende regelingen te treffen die vergelijkbaar zijn met die welke voor het Nederlandse militaire personeel, de leden van de civiele dienst van de Nederlandse strijdkrachten en hun gezinsleden in de Bondsrepubliek Duitsland gelden,
-
-zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland, Gelet op het Noord-Atlantisch Verdrag van 4 april 1949, Indachtig hun Verdrag inzake de stationering van strijdkrachten van de Bondsrepubliek Duitsland in het Koninkrijk der Nederlanden van 6 oktober 1997, Ingevolge het Verdrag tussen de Staten die partij zijn bij het Noord-Atlantisch Verdrag nopens de rechtspositie van hun krijgsmachten van 19 juni 1951, In overeenstemming met de Nederlands-Duitse notawisseling van 18 maart 1993, Geleid door de wens voor het verblijf van de Bundeswehr, haar leden en hun gezinsleden in het Koninkrijk der Nederlanden aanvullende regelingen te treffen die vergelijkbaar zijn met die welke voor het Nederlandse militaire personeel, de leden van de civiele dienst van de Nederlandse strijdkrachten en hun gezinsleden in de Bondsrepubliek Duitsland gelden, zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Doel van de Overeenkomst
 
@@ -80,13 +43,13 @@ Indien een lid van de Bundeswehr overlijdt of het grondgebied van het Koninkrijk
 
 - b. tot de bevordering en waarborging van de veiligheid van Nederlanders, van leden van de Bundeswehr en hun gezinsleden en van niet tot deze categorieën behorende Duitse onderdanen, alsmede tot de bescherming van hun eigendommen.
 
-- a. In het kader van de in het eerste en tweede lid van dit artikel bedoelde samenwerking verzekeren de Nederlandse autoriteiten en de autoriteiten van de Bundeswehr door het nemen van passende maatregelen een nauw en wederkerig contact. Persoonlijke gegevens worden uitsluitend doorgegeven voor de in het NAVO-Status Verdrag en deze Overeenkomst gestelde doeleinden. Beperkingen van de toepassingsmogelijkheden op grond van de wetgeving van de Overeenkomstsluitende Staat die de gegevens verstrekt, worden in acht genomen.
+3. - a. In het kader van de in het eerste en tweede lid van dit artikel bedoelde samenwerking verzekeren de Nederlandse autoriteiten en de autoriteiten van de Bundeswehr door het nemen van passende maatregelen een nauw en wederkerig contact. Persoonlijke gegevens worden uitsluitend doorgegeven voor de in het NAVO-Status Verdrag en deze Overeenkomst gestelde doeleinden. Beperkingen van de toepassingsmogelijkheden op grond van de wetgeving van de Overeenkomstsluitende Staat die de gegevens verstrekt, worden in acht genomen.
 
 - b. Dit lid verplicht een Overeenkomstsluitende Staat er niet toe maatregelen te nemen die in strijd zijn met zijn wetgeving of die indruisen tegen zijn zwaarwegende belangen met betrekking tot de bescherming van de staatsveiligheid of de openbare veiligheid.
 
 4. De Nederlandse autoriteiten en de Duitse autoriteiten nemen alle administratieve maatregelen die nodig zijn voor de uitvoering van het NAVO-Status Verdrag en van deze Overeenkomst en sluiten te dien einde, indien nodig, administratieve of andere overeenkomsten.
 
-- a. Bij de uitvoering van de bepalingen op het gebied van de verzorging, neergelegd in het NAVO-Status Verdrag en in deze Overeenkomst, kennen de Nederlandse autoriteiten de Bundeswehr een zodanige behandeling toe als nodig is voor een bevredigende vervulling van hun taak ten aanzien van de verdediging.
+5. - a. Bij de uitvoering van de bepalingen op het gebied van de verzorging, neergelegd in het NAVO-Status Verdrag en in deze Overeenkomst, kennen de Nederlandse autoriteiten de Bundeswehr een zodanige behandeling toe als nodig is voor een bevredigende vervulling van hun taak ten aanzien van de verdediging.
 
 - b. Bij het doen gelden van de rechten die hun krachtens de onder a bedoelde regelingen zijn toegekend, houden de autoriteiten van de Bundeswehr, teneinde te geraken tot een redelijke afweging van hun behoeften en die van het Koninkrijk der Nederlanden, met de Nederlandse openbare en particuliere belangen naar behoren rekening.
 
@@ -134,15 +97,15 @@ Indien een lid van de Bundeswehr overlijdt of het grondgebied van het Koninkrijk
 
 3. Een burgervliegbrevet, afgegeven door Duitse autoriteiten aan een lid van de Bundeswehr of aan een gezinslid, machtigt de houder tot het besturen van particuliere luchtvaartuigen in het Koninkrijk der Nederlanden, indien dit brevet beantwoordt aan de Normen en Aanbevolen Werkwijzen van de Internationale Burgerluchtvaartorganisatie.
 
-- a. De autoriteiten van de Bundeswehr zien erop toe dat personen die dienstvaartuigen besturen als bedoeld in het eerste lid van dit artikel, bij het bevaren van binnenwateren voldoende kennis bezitten van het te bevaren traject en van de terzake geldende rivierpolitiereglementen.
+4. - a. De autoriteiten van de Bundeswehr zien erop toe dat personen die dienstvaartuigen besturen als bedoeld in het eerste lid van dit artikel, bij het bevaren van binnenwateren voldoende kennis bezitten van het te bevaren traject en van de terzake geldende rivierpolitiereglementen.
 
 - b. Tot het besturen van niet-militaire binnenvaartuigen van de Bundeswehr machtigen slechts bewijzen van bekwaamheid die zijn afgegeven door de bevoegde Nederlandse civiele autoriteit op grond van de in het Koninkrijk der Nederlanden geldende voorschriften. De in het kader van internationale overeenkomsten toepasselijke voorschriften blijven onverminderd van kracht.
 
-- a. De autoriteiten van de Bundeswehr trekken rijbewijzen die op het grondgebied van het Koninkrijk der Nederlanden geldig zijn ingevolge het eerste lid van dit artikel, of verklaringen bedoeld in het tweede lid van dit artikel in, indien er gerede twijfel bestaat aangaande de betrouwbaarheid of de geschiktheid van de houder voor het besturen van motorvoertuigen. Zij nemen verzoeken van de Nederlandse autoriteiten om intrekking van zulke rijbewijzen of verklaringen in welwillende overweging. Rijbewijzen of verklaringen kunnen opnieuw worden afgegeven wegens dringende militaire redenen of om de houder in de gelegenheid te stellen het grondgebied van het Koninkrijk der Nederlanden te verlaten. De autoriteiten van de Bundeswehr stellen de Nederlandse autoriteiten in kennis van iedere intrekking op grond van deze paragraaf en van ieder geval waarin na een zodanige intrekking een rijbewijs of verklaring opnieuw is afgegeven.
+5. - a. De autoriteiten van de Bundeswehr trekken rijbewijzen die op het grondgebied van het Koninkrijk der Nederlanden geldig zijn ingevolge het eerste lid van dit artikel, of verklaringen bedoeld in het tweede lid van dit artikel in, indien er gerede twijfel bestaat aangaande de betrouwbaarheid of de geschiktheid van de houder voor het besturen van motorvoertuigen. Zij nemen verzoeken van de Nederlandse autoriteiten om intrekking van zulke rijbewijzen of verklaringen in welwillende overweging. Rijbewijzen of verklaringen kunnen opnieuw worden afgegeven wegens dringende militaire redenen of om de houder in de gelegenheid te stellen het grondgebied van het Koninkrijk der Nederlanden te verlaten. De autoriteiten van de Bundeswehr stellen de Nederlandse autoriteiten in kennis van iedere intrekking op grond van deze paragraaf en van ieder geval waarin na een zodanige intrekking een rijbewijs of verklaring opnieuw is afgegeven.
 
 - b. In gevallen waarin Nederlandse rechtbanken rechtsmacht uitoefenen in overeenstemming met artikel VII van het NAVO-Status Verdrag en de artikelen 12, 13 en 14 van deze Overeenkomst blijven de bepalingen van de Nederlandse strafwetgeving inzake de ontzegging van de rijbevoegdheid van toepassing met betrekking tot rijbewijzen bedoeld in het tweede lid van dit artikel. Van de ontzegging van de rijbevoegdheid wordt melding gemaakt in het rijbewijs, dat in het bezit van de houder wordt gelaten.
 
-- a. Het gestelde in het vijfde lid, onder a, is van overeenkomstige toepassing op de in het derde lid bedoelde vliegbrevetten.
+6. - a. Het gestelde in het vijfde lid, onder a, is van overeenkomstige toepassing op de in het derde lid bedoelde vliegbrevetten.
 
 - b. Op verzoek van de Nederlandse autoriteiten treffen de autoriteiten van de Bundeswehr de nodige maatregelen tegen houders van vliegbrevetten welke ingevolge het eerste lid van dit artikel geldig zijn op het grondgebied van het Koninkrijk der Nederlanden die de luchtverkeersvoorschriften niet in acht hebben genomen.
 
@@ -204,7 +167,7 @@ Indien de officiële verklaring het feit als „strafbaar naar Duits recht" aanm
 
 3. Indien de bevoegde Nederlandse autoriteiten wegens de bijzondere omstandigheden in een afzonderlijk geval van oordeel zijn dat wezenlijke belangen van de Nederlandse rechtspleging de uitoefening van rechtsmacht door Nederlandse autoriteiten gebieden, kunnen zij de afstand van rechtsmacht, gedaan ingevolge het eerste lid van dit artikel, herroepen door een officiële verklaring die zij aan de bevoegde Duitse autoriteiten overleggen binnen eenentwintig dagen na ontvangst van de kennisgeving bedoeld in het tweede lid van dit artikel. De Nederlandse autoriteiten kunnen deze verklaring ook vóór de ontvangst van bedoelde kennisgeving afgeven.
 
-- a. De bevoegde Duitse autoriteiten kunnen met toestemming van de Nederlandse autoriteiten bepaalde strafzaken ten aanzien waarvan rechtsmacht bij de Bondsrepubliek Duitsland berust, voor onderzoek, berechting en uitspraak overdragen aan de Nederlandse rechtbanken of autoriteiten.
+4. - a. De bevoegde Duitse autoriteiten kunnen met toestemming van de Nederlandse autoriteiten bepaalde strafzaken ten aanzien waarvan rechtsmacht bij de Bondsrepubliek Duitsland berust, voor onderzoek, berechting en uitspraak overdragen aan de Nederlandse rechtbanken of autoriteiten.
 
 - b. De Nederlandse autoriteiten kunnen met toestemming van de Duitse autoriteiten bepaalde strafzaken ten aanzien waarvan rechtsmacht bij het Koninkrijk der Nederlanden berust, voor onderzoek, berechting en uitspraak overdragen aan de Duitse autoriteiten.
 
@@ -242,17 +205,17 @@ Het doorgeven van persoonsgegevens vindt uitsluitend plaats om de Bundeswehr in 
 
 ##### Artikel 17. Bewaring
 
-- a. Indien rechtsmacht wordt uitgeoefend door de Duitse autoriteiten, berust de bewaring van leden van de Bundeswehr en van gezinsleden bij de Duitse autoriteiten.
+1. - a. Indien rechtsmacht wordt uitgeoefend door de Duitse autoriteiten, berust de bewaring van leden van de Bundeswehr en van gezinsleden bij de Duitse autoriteiten.
 
 - b. Indien rechtsmacht wordt uitgeoefend door de Nederlandse autoriteiten, berust de bewaring van leden van de Bundeswehr en van gezinsleden bij de autoriteiten van het Koninkrijk der Nederlanden overeenkomstig het tweede en derde lid.
 
-- a. Indien de arrestatie is verricht door de Nederlandse autoriteiten, wordt de gearresteerde persoon overgegeven aan de Duitse autoriteiten, indien deze autoriteiten hierom verzoeken.
+2. - a. Indien de arrestatie is verricht door de Nederlandse autoriteiten, wordt de gearresteerde persoon overgegeven aan de Duitse autoriteiten, indien deze autoriteiten hierom verzoeken.
 
 - b. Indien de arrestatie is verricht door de Duitse autoriteiten of indien de gearresteerde persoon aan hen is overgegeven overeenkomstig het tweede lid, onder a.,
 
-- –. kunnen zij de bewaring te allen tijde overdragen aan de Nederlandse autoriteiten;
+   - – kunnen zij de bewaring te allen tijde overdragen aan de Nederlandse autoriteiten;
 
-- –. nemen zij een door de Nederlandse autoriteiten in bepaalde gevallen gedaan verzoek om overdracht van de bewaring in welwillende overweging.
+   - – nemen zij een door de Nederlandse autoriteiten in bepaalde gevallen gedaan verzoek om overdracht van de bewaring in welwillende overweging.
 
 - c. In geval van strafbare feiten, uitsluitend gericht tegen de veiligheid van het Koninkrijk der Nederlanden, berust de bewaring bij de Nederlandse autoriteiten overeenkomstig eventueel daartoe met de Duitse autoriteiten te treffen regelingen.
 
@@ -260,13 +223,13 @@ Het doorgeven van persoonsgegevens vindt uitsluitend plaats om de Bundeswehr in 
 
 ##### Artikel 18. Aanwezigheid bij terechtzitting en opsporingshandelingen
 
-- a. Indien rechtsmacht in strafzaken wordt uitgeoefend door een Nederlandse rechtbank of autoriteit over een lid van de Bundeswehr of over een gezinslid, heeft een vertegenwoordiger van de Bondsrepubliek Duitsland het recht bij de terechtzitting aanwezig te zijn. Indien een strafbaar feit uitsluitend is gericht tegen de veiligheid van het Koninkrijk der Nederlanden of tegen eigendommen die zich in het Koninkrijk der Nederlanden bevinden dan wel tegen een Nederlander of tegen een persoon die zich op het grondgebied van het Koninkrijk der Nederlanden bevindt en rechtsmacht op het grondgebied van het Koninkrijk der Nederlanden wordt uitgeoefend door een rechtbank of een autoriteit van de Bondsrepubliek Duitsland, heeft een Nederlandse vertegenwoordiger het recht bij de terechtzitting aanwezig te zijn.
+1. - a. Indien rechtsmacht in strafzaken wordt uitgeoefend door een Nederlandse rechtbank of autoriteit over een lid van de Bundeswehr of over een gezinslid, heeft een vertegenwoordiger van de Bondsrepubliek Duitsland het recht bij de terechtzitting aanwezig te zijn. Indien een strafbaar feit uitsluitend is gericht tegen de veiligheid van het Koninkrijk der Nederlanden of tegen eigendommen die zich in het Koninkrijk der Nederlanden bevinden dan wel tegen een Nederlander of tegen een persoon die zich op het grondgebied van het Koninkrijk der Nederlanden bevindt en rechtsmacht op het grondgebied van het Koninkrijk der Nederlanden wordt uitgeoefend door een rechtbank of een autoriteit van de Bondsrepubliek Duitsland, heeft een Nederlandse vertegenwoordiger het recht bij de terechtzitting aanwezig te zijn.
 
 - b. In het onder a bepaalde
 
-- –. worden onder de uitdrukking „eigendommen die zich in het Koninkrijk der Nederlanden bevinden" niet begrepen eigendommen welke toebehoren aan de Bundeswehr, haar leden en hun gezinsleden;
+   - – worden onder de uitdrukking „eigendommen die zich in het Koninkrijk der Nederlanden bevinden" niet begrepen eigendommen welke toebehoren aan de Bundeswehr, haar leden en hun gezinsleden;
 
-- –. wordt onder de uitdrukking „een persoon die zich op het grondgebied van het Koninkrijk der Nederlanden bevindt" niet begrepen een lid van de Bundeswehr of een gezinslid.
+   - – wordt onder de uitdrukking „een persoon die zich op het grondgebied van het Koninkrijk der Nederlanden bevindt" niet begrepen een lid van de Bundeswehr of een gezinslid.
 
 - c. Het onder a bepaalde is niet van toepassing indien de aanwezigheid van een nationale vertegenwoordiger niet verenigbaar is met de veiligheidseisen van de staat welke rechtsmacht uitoefent die niet tevens veiligheidseisen van de andere staat zijn.
 
@@ -296,7 +259,7 @@ Indien leden van de Bundeswehr en gezinsleden tijdelijk verhinderd zijn een niet
 
 1. De autoriteiten van de Bundeswehr werken naar vermogen mede aan de tenuitvoerlegging van in kracht van gewijsde gegane rechterlijke uitspraken en andere executoriale titels (vollstreckbarer Titel) van Nederlandse rechtbanken en autoriteiten in niet-strafrechtelijke procedures.
 
-- a. Een Nederlandse autoriteit of rechtbank kan in een niet-strafrechtelijke procedure leden van de Bundeswehr of gezinsleden slechts gijzelen ter verzekering van de naleving van een gerechtelijke of administratieve beslissing waaraan de betrokkene op verwijtbare wijze geen gevolg heeft gegeven of geeft. Gijzeling kan niet worden gelast ten aanzien van enig handelen of nalaten in de uitoefening van de dienst. Een officiële verklaring van de hoogste bevoegde Duitse autoriteit dat het handelen of nalaten was geschied in de uitoefening van de dienst, is bindend voor Nederlandse instanties. In andere gevallen houden de bevoegde Nederlandse instanties naar behoren rekening met het standpunt van de hoogste bevoegde Duitse autoriteit dat hogere belangen zich tegen gijzeling verzetten.
+2. - a. Een Nederlandse autoriteit of rechtbank kan in een niet-strafrechtelijke procedure leden van de Bundeswehr of gezinsleden slechts gijzelen ter verzekering van de naleving van een gerechtelijke of administratieve beslissing waaraan de betrokkene op verwijtbare wijze geen gevolg heeft gegeven of geeft. Gijzeling kan niet worden gelast ten aanzien van enig handelen of nalaten in de uitoefening van de dienst. Een officiële verklaring van de hoogste bevoegde Duitse autoriteit dat het handelen of nalaten was geschied in de uitoefening van de dienst, is bindend voor Nederlandse instanties. In andere gevallen houden de bevoegde Nederlandse instanties naar behoren rekening met het standpunt van de hoogste bevoegde Duitse autoriteit dat hogere belangen zich tegen gijzeling verzetten.
 
 - b. Gijzeling op grond van dit lid kan slechts plaatsvinden nadat de autoriteiten van de Bundeswehr hebben gezorgd voor vervanging van betrokkene, indien zij zulks noodzakelijk achten. De autoriteiten van de Bundeswehr nemen onverwijld alle noodzakelijke en redelijkerwijs aanvaardbare maatregelen hiertoe en verlenen de Nederlandse autoriteiten die verantwoordelijk zijn voor de tenuitvoerlegging van een beslissing ingevolge dit lid alle medewerking die in hun vermogen ligt.
 
@@ -342,7 +305,7 @@ Voor zover in enige bepaling van het NAVO-Status Verdrag of van deze Overeenkoms
 
 2. Geen schadeloosstelling wordt betaald in geval van schade aan openbare wegen, bruggen, bevaarbare waterwegen en andere openbare verkeerswerken, voortvloeiende uit het gebruik daarvan door de Bundeswehr voor normale verkeersdoeleinden.
 
-- a. Het Koninkrijk der Nederlanden doet afstand van al zijn vorderingen op de Bondsrepubliek Duitsland ter zake van verlies van of schade aan eigendommen van het Koninkrijk der Nederlanden die uitsluitend voor het gebruik van de Bundeswehr ter beschikking zijn gesteld. Deze afstand is niet van toepassing op schade die opzettelijk of door grove nalatigheid is veroorzaakt. Deze afstand is ook niet van toepassing op schade aan eigendommen van de Nederlandse Spoorwegen of de Nederlandse posterijen.
+3. - a. Het Koninkrijk der Nederlanden doet afstand van al zijn vorderingen op de Bondsrepubliek Duitsland ter zake van verlies van of schade aan eigendommen van het Koninkrijk der Nederlanden die uitsluitend voor het gebruik van de Bundeswehr ter beschikking zijn gesteld. Deze afstand is niet van toepassing op schade die opzettelijk of door grove nalatigheid is veroorzaakt. Deze afstand is ook niet van toepassing op schade aan eigendommen van de Nederlandse Spoorwegen of de Nederlandse posterijen.
 
 - b. De bepalingen van artikel VIII, tweede lid, onder f, van het NAVO-Status Verdrag zijn niet van toepassing op verlies van of schade aan eigendommen van de Nederlandse Spoorwegen of de Nederlandse posterijen noch op schade aan Nederlandse wegen.
 
@@ -352,17 +315,17 @@ Voor zover in enige bepaling van het NAVO-Status Verdrag of van deze Overeenkoms
 
 6. De aansprakelijkheid van de Bundeswehr wordt niet beïnvloed door de omstandigheid dat zij onttrokken is aan de Nederlandse voorschriften. Indien de Nederlandse strijdkrachten dezelfde vrijstellingen genieten, behoeft alleen schadeloosstelling te worden betaald indien en voor zover schadeloosstelling dient te worden betaald voor schade veroorzaakt door de Nederlandse strijdkrachten.
 
-- a. Indien ten gevolge van een voorval aan een derde schade is toegebracht die met toepassing van artikel VIII, vijfde lid, van het NAVO-Status Verdrag wordt afgewikkeld en er ten gevolge van hetzelfde voorval eveneens schade is toegebracht aan de Bondsrepubliek Duitsland, worden, indien de derde aansprakelijk is voor het vergoeden van die schade, de vordering van de Bondsrepubliek Duitsland en de vordering van de derde gecompenseerd.
+7. - a. Indien ten gevolge van een voorval aan een derde schade is toegebracht die met toepassing van artikel VIII, vijfde lid, van het NAVO-Status Verdrag wordt afgewikkeld en er ten gevolge van hetzelfde voorval eveneens schade is toegebracht aan de Bondsrepubliek Duitsland, worden, indien de derde aansprakelijk is voor het vergoeden van die schade, de vordering van de Bondsrepubliek Duitsland en de vordering van de derde gecompenseerd.
 
 - b. Het Koninkrijk der Nederlanden maakt in overeenstemming met administratieve overeenkomsten en op verzoek van de Bondsrepubliek Duitsland namens de Bondsrepubliek Duitsland vorderingen geldend tegen in het Koninkrijk der Nederlanden verblijvende personen, welke vorderingen voortvloeien uit schade die aldaar aan de Bondsrepubliek Duitsland is toegebracht; dit is niet van toepassing op contractuele vorderingen. De kosten die het Koninkrijk der Nederlanden bij het geldend maken van vorderingen maakt, worden, voor zover zij de algemene administratieve kosten te boven gaan, door de Bondsrepubliek Duitsland vergoed.
 
-- a. Behalve in gevallen waarin het niet mogelijk is vast te stellen of de Nederlandse krijgsmacht of de Bundeswehr voor het verlies of de schade verantwoordelijk is, verstrekt de Bundeswehr een verklaring inzake de in artikel VIII, achtste lid, van het NAVO-Status Verdrag bedoelde vragen; zij neemt op verzoek van de Nederlandse autoriteiten een zodanige verklaring opnieuw in beschouwing indien gedurende het onderzoek van een vordering een Nederlandse autoriteit of een Nederlandse rechtbank tot het inzicht mocht komen dat er omstandigheden bestaan die tot een ander oordeel zouden kunnen leiden dan in de verklaring is neergelegd.
+8. - a. Behalve in gevallen waarin het niet mogelijk is vast te stellen of de Nederlandse krijgsmacht of de Bundeswehr voor het verlies of de schade verantwoordelijk is, verstrekt de Bundeswehr een verklaring inzake de in artikel VIII, achtste lid, van het NAVO-Status Verdrag bedoelde vragen; zij neemt op verzoek van de Nederlandse autoriteiten een zodanige verklaring opnieuw in beschouwing indien gedurende het onderzoek van een vordering een Nederlandse autoriteit of een Nederlandse rechtbank tot het inzicht mocht komen dat er omstandigheden bestaan die tot een ander oordeel zouden kunnen leiden dan in de verklaring is neergelegd.
 
 - b. Indien er een verschil van mening blijft bestaan dat niet kan worden opgelost door middel van nadere besprekingen tussen de twee partijen op hoger niveau, wordt de procedure gevolgd die is neergelegd in artikel VIII, achtste lid, van het NAVO-Status Verdrag.
 
 - c. De Nederlandse autoriteiten of rechtbanken nemen hun beslissingen op grond van de verklaring onderscheidenlijk de beslissing van de arbiter.
 
-- a. De bepalingen van artikel VIII van het NAVO-Status Verdrag en van dit artikel zijn van toepassing op schades die zijn veroorzaakt of worden geacht te zijn veroorzaakt na de inwerkingtreding van deze Overeenkomst.
+9. - a. De bepalingen van artikel VIII van het NAVO-Status Verdrag en van dit artikel zijn van toepassing op schades die zijn veroorzaakt of worden geacht te zijn veroorzaakt na de inwerkingtreding van deze Overeenkomst.
 
 - b. Schades die zijn veroorzaakt vóór de inwerkingtreding van deze Overeenkomst of die worden geacht voordien te zijn veroorzaakt, worden behandeld in overeenstemming met de regelingen die tot dat tijdstip van toepassing waren.
 
@@ -410,11 +373,11 @@ Voor zover in enige bepaling van het NAVO-Status Verdrag of van deze Overeenkoms
 
 - d. betaalt de Bondsrepubliek Duitsland aan het Koninkrijk der Nederlanden terug:
 
-- –. alle uitgaven die volgens de Nederlandse wetgeving met betrekking tot aanschaffingen voor de openbare dienst ten laste komen van het Koninkrijk der Nederlanden, met dien verstande dat uitgaven ten gevolge van een buitenrechtelijk akkoord alleen worden terugbetaald indien de Bundeswehr in het sluiten van het akkoord heeft toegestemd;
+   - – alle uitgaven die volgens de Nederlandse wetgeving met betrekking tot aanschaffingen voor de openbare dienst ten laste komen van het Koninkrijk der Nederlanden, met dien verstande dat uitgaven ten gevolge van een buitenrechtelijk akkoord alleen worden terugbetaald indien de Bundeswehr in het sluiten van het akkoord heeft toegestemd;
 
-- –. onverschuldigde betalingen gedaan met toestemming van de Bundeswehr;
+   - – onverschuldigde betalingen gedaan met toestemming van de Bundeswehr;
 
-- –. uitgaven voortvloeiende uit maatregelen door de Nederlandse autoriteiten in noodgevallen genomen ter bescherming van de belangen van de Bundeswehr, voor zover deze uitgaven niet ten laste gebracht kunnen worden van de leverancier;
+   - – uitgaven voortvloeiende uit maatregelen door de Nederlandse autoriteiten in noodgevallen genomen ter bescherming van de belangen van de Bundeswehr, voor zover deze uitgaven niet ten laste gebracht kunnen worden van de leverancier;
 
 - e. stellen de autoriteiten van de Bundeswehr de noodzakelijke geldmiddelen zo tijdig beschikbaar, dat de betalingen op de vervaldagen kunnen plaatsvinden;
 
@@ -424,7 +387,7 @@ Voor zover in enige bepaling van het NAVO-Status Verdrag of van deze Overeenkoms
 
 ##### Artikel 33. Behoefte aan onroerende goederen
 
-- a. In de behoeften van de Bundeswehr aan onroerende goederen wordt voorzien in overeenstemming met het NAVO-Status Verdrag en de bepalingen van deze Overeenkomst.
+1. - a. In de behoeften van de Bundeswehr aan onroerende goederen wordt voorzien in overeenstemming met het NAVO-Status Verdrag en de bepalingen van deze Overeenkomst.
 
 - b. De behoeften van de Bundeswehr aan onroerende goederen worden door middel van periodiek in te dienen schema's ter kennis gebracht van de Nederlandse autoriteiten. Buiten deze schema's delen de autoriteiten van de Bundeswehr slechts in noodgevallen hun behoeften aan onroerende goederen mede. Deze mededelingen behelzen door de Bundeswehr vastgestelde gedetailleerde gegevens die in het bijzonder betrekking hebben op de bij benadering aangegeven ligging van het gebied, de omvang, het voorgestelde gebruik, de geschatte duur van de behoefte en de data waarop de onroerende goederen ter beschikking moeten worden gesteld.
 
@@ -468,11 +431,11 @@ Voor zover in enige bepaling van het NAVO-Status Verdrag of van deze Overeenkoms
 
 - f. betaalt de Bondsrepubliek Duitsland aan het Koninkrijk der Nederlanden terug:
 
-- –. alle uitgaven, indien de Bundeswehr daarmee heeft ingestemd;
+   - – alle uitgaven, indien de Bundeswehr daarmee heeft ingestemd;
 
-- –. onverschuldigde betalingen gedaan met toestemming van de Bundeswehr;
+   - – onverschuldigde betalingen gedaan met toestemming van de Bundeswehr;
 
-- –. uitgaven voortvloeiende uit maatregelen door de Nederlandse autoriteiten in noodgevallen genomen ter bescherming van de belangen van de Bundeswehr, voor zover deze uitgaven niet ten laste kunnen worden gebracht van de aannemer;
+   - – uitgaven voortvloeiende uit maatregelen door de Nederlandse autoriteiten in noodgevallen genomen ter bescherming van de belangen van de Bundeswehr, voor zover deze uitgaven niet ten laste kunnen worden gebracht van de aannemer;
 
 - g. stellen de autoriteiten van de Bundeswehr de noodzakelijke geldmiddelen zo tijdig beschikbaar dat de betalingen op de vervaldagen kunnen plaatsvinden;
 
@@ -538,7 +501,7 @@ De arbeidswetgeving, zoals die geldt voor burgerpersoneel in dienst bij de Neder
 
 ##### Artikel 41. Verkeersvoorschriften
 
-- a. De Bundeswehr, haar leden en gezinsleden zijn, onder voorbehoud van goedkeuring van de bevoegde Nederlandse autoriteiten, gerechtigd het Koninkrijk der Nederlanden binnen te komen met voertuigen, vaartuigen en luchtvaartuigen en zich daarin binnen en boven het grondgebied van het Koninkrijk der Nederlanden te verplaatsen; transporten en andere verplaatsingen die vallen binnen het kader van de Nederlandse wettelijke bepalingen, met inbegrip van deze Overeenkomst en andere internationale overeenkomsten waarbij het Koninkrijk der Nederlanden en de Bondsrepubliek partij zijn, alsmede daarmee verband houdende technische akkoorden en procedures, worden geacht te zijn goedgekeurd. Voor zover bijzondere en uitzonderlijke vergunningen en ontheffingen van de wettelijke bepalingen inzake het vervoer van gevaarlijke stoffen zijn vereist voor militaire verplaatsingen en transporten, worden deze verkregen door de bevoegde diensten van de Nederlandse strijdkrachten.
+1. - a. De Bundeswehr, haar leden en gezinsleden zijn, onder voorbehoud van goedkeuring van de bevoegde Nederlandse autoriteiten, gerechtigd het Koninkrijk der Nederlanden binnen te komen met voertuigen, vaartuigen en luchtvaartuigen en zich daarin binnen en boven het grondgebied van het Koninkrijk der Nederlanden te verplaatsen; transporten en andere verplaatsingen die vallen binnen het kader van de Nederlandse wettelijke bepalingen, met inbegrip van deze Overeenkomst en andere internationale overeenkomsten waarbij het Koninkrijk der Nederlanden en de Bondsrepubliek partij zijn, alsmede daarmee verband houdende technische akkoorden en procedures, worden geacht te zijn goedgekeurd. Voor zover bijzondere en uitzonderlijke vergunningen en ontheffingen van de wettelijke bepalingen inzake het vervoer van gevaarlijke stoffen zijn vereist voor militaire verplaatsingen en transporten, worden deze verkregen door de bevoegde diensten van de Nederlandse strijdkrachten.
 
 - b. De bevoegde diensten van de Nederlandse strijdkrachten coördineren de behartiging van de militaire belangen van de Bundeswehr in verkeerszaken bij de civiele autoriteiten. Zij coördineren tevens de uitvoering van militaire verkeersbewegingen met elkaar en met het civiele verkeer. De aard en de omvang van die coördinatie wordt geregeld tussen de autoriteiten van de Bundeswehr en de Nederlandse strijdkrachten. Indien zulke regelingen niet worden getroffen, meldt de Bundeswehr militaire bewegingen over de weg en per spoor aan de bevoegde diensten van de Nederlandse strijdkrachten. Ten aanzien van het militaire luchtverkeer zijn de gewone procedures van toepassing.
 
@@ -546,7 +509,7 @@ De arbeidswetgeving, zoals die geldt voor burgerpersoneel in dienst bij de Neder
 
 3. De Bundeswehr, haar leden en gezinsleden nemen, tenzij in deze Overeenkomst anders is bepaald, de Nederlandse verkeersvoorschriften in acht, met inbegrip van de voorschriften inzake het gedrag op de plaats van een ongeval, alsmede de voorschriften inzake het vervoer van gevaarlijke stoffen. Op de naleving van deze voorschriften wordt toegezien door de bevoegde autoriteiten. Teneinde de controle op de naleving van deze voorschriften te vergemakkelijken, kan dit toezicht gezamenlijk worden uitgevoerd. De uitvoering van dit toezicht kan middels lokale afspraken worden geregeld. Bestaande afspraken blijven van kracht, tenzij deze worden herzien.
 
-- a. De Bundeswehr mag van de Nederlandse wegenverkeersvoorschriften afwijken in overeenstemming met de Nederlandse wetgeving. In geval van toekomstige wijzigingen in de Nederlandse wegenverkeerswetten of -voorschriften, vinden afwijkingen wegens militaire noodzaak plaats in overeenstemming met de tussen de autoriteiten van de Bundeswehr en de bevoegde Nederlandse autoriteiten overeengekomen procedures.
+4. - a. De Bundeswehr mag van de Nederlandse wegenverkeersvoorschriften afwijken in overeenstemming met de Nederlandse wetgeving. In geval van toekomstige wijzigingen in de Nederlandse wegenverkeerswetten of -voorschriften, vinden afwijkingen wegens militaire noodzaak plaats in overeenstemming met de tussen de autoriteiten van de Bundeswehr en de bevoegde Nederlandse autoriteiten overeengekomen procedures.
 
 - b. Het rijden op wegen met motorrijtuigen en aanhangwagens waarvan de afmetingen, de asdruk, het totaalgewicht of het aantal de door de Nederlandse wegenverkeersvoorschriften gestelde beperkingen overschrijden, geschiedt slechts met toestemming van de bevoegde Nederlandse militaire autoriteiten. De toestemming van de bevoegde Nederlandse militaire autoriteiten is niet vereist in geval van ongevallen, rampen, of de noodtoestand, dan wel krachtens voorafgaande overeenstemming tussen de betrokken autoriteiten.
 
@@ -580,11 +543,11 @@ De Bundeswehr kan veldpostkantoren voor het post- en telegraafverkeer van haar l
 
 - e. tijdelijke inrichtingen voor telecommunicatie van allerlei aard voor oefeningsdoeleinden, manoeuvres en noodgevallen, overeenkomstig de met de Nederlandse autoriteiten overeengekomen procedures, aanleggen, gebruiken en in stand houden.
 
-- a. De Bundeswehr kan met toestemming van de Nederlandse autoriteiten buiten de onroerende goederen die zij gebruikt lijnverbindingen en de daartoe bestemde apparatuur installeren, gebruiken en in stand houden, indien
+3. - a. De Bundeswehr kan met toestemming van de Nederlandse autoriteiten buiten de onroerende goederen die zij gebruikt lijnverbindingen en de daartoe bestemde apparatuur installeren, gebruiken en in stand houden, indien
 
-- –. daarvoor dwingende redenen van militaire veiligheid bestaan, of
+   - – daarvoor dwingende redenen van militaire veiligheid bestaan, of
 
-- –. de Nederlandse autoriteiten ofwel niet in staat zijn tot, ofwel afzien van de beschikbaarstelling van de gevraagde inrichtingen.
+   - – de Nederlandse autoriteiten ofwel niet in staat zijn tot, ofwel afzien van de beschikbaarstelling van de gevraagde inrichtingen.
 
 - b. Bij administratieve overeenkomsten wordt een procedure vastgesteld die het mogelijk maakt de toestemming van de Nederlandse autoriteiten snel te verkrijgen.
 
@@ -604,13 +567,13 @@ De Bundeswehr kan veldpostkantoren voor het post- en telegraafverkeer van haar l
 
 - e. Indien radio-installaties van de Bundeswehr radio-installaties die buiten het grondgebied van het Koninkrijk der Nederlanden zijn gevestigd ernstig storen of door dergelijke installaties zelf ernstig worden gestoord, handelen de Nederlandse autoriteiten overeenkomstig de bepalingen van het op dat moment van kracht zijnde Internationale Verdrag betreffende de Telecommunicatie en het daarbij behorende radioreglement.
 
-- a. Bij de installatie en het in bedrijf hebben van inrichtingen voor telecommunicatie neemt de Bundeswehr de bepalingen van het Internationale Verdrag betreffende de telecommunicatie van Nairobi van 6 november 1982 of een eventueel daarvoor in de plaats tredende overeenkomst in acht, alsmede de overige internationale overeenkomsten die het Koninkrijk der Nederlanden op het gebied van de telecommunicatie binden.
+7. - a. Bij de installatie en het in bedrijf hebben van inrichtingen voor telecommunicatie neemt de Bundeswehr de bepalingen van het Internationale Verdrag betreffende de telecommunicatie van Nairobi van 6 november 1982 of een eventueel daarvoor in de plaats tredende overeenkomst in acht, alsmede de overige internationale overeenkomsten die het Koninkrijk der Nederlanden op het gebied van de telecommunicatie binden.
 
 - b. De Bundeswehr is evenwel niet gebonden aan de onder a genoemde bepalingen voor zover de Nederlandse strijdkrachten daarvan op grond van Nederlandse voorschriften zijn vrijgesteld.
 
 - c. Bij het in de toekomst aangaan van internationale overeenkomsten op het gebied van de telecommunicatie houden de Nederlandse autoriteiten, na overleg met de Bundeswehr, voldoende rekening met de behoeften van de Bundeswehr op het gebied van de telecommunicatie.
 
-- a. De Bundeswehr neemt alle maatregelen die redelijkerwijs van haar kunnen worden verwacht om storing van de Nederlandse telecommunicatiediensten door inrichtingen voor telecommunicatie of andere elektrische installaties van de Bundeswehr te voorkomen of op te heffen.
+8. - a. De Bundeswehr neemt alle maatregelen die redelijkerwijs van haar kunnen worden verwacht om storing van de Nederlandse telecommunicatiediensten door inrichtingen voor telecommunicatie of andere elektrische installaties van de Bundeswehr te voorkomen of op te heffen.
 
 - b. De Nederlandse autoriteiten nemen, binnen het kader van de Nederlandse voorschriften, alle maatregelen die redelijkerwijs van hen verwacht kunnen worden om storing van de telecommunicatiediensten van de Bundeswehr door Nederlandse inrichtingen voor telecommunicatie of andere elektrische installaties te voorkomen of op te heffen.
 
@@ -642,9 +605,9 @@ De leden van de Bundeswehr en hun gezinsleden kunnen zelfstandig kosteloos gebru
 
 1. Behalve in het geval dat de verdachte Nederlander is, is noch artikel 14 van deze Overeenkomst, noch artikel VII, eerste, tweede en derde lid, van het NAVO-Status Verdrag van toepassing op een voor de inwerkingtreding van deze Overeenkomst gepleegd strafbaar feit waarvan een lid van de Bundeswehr wordt verdacht, indien vóór dat tijdstip:
 
-- –. de strafprocedure met betrekking tot een zodanig strafbaar feit is aangevangen of beëindigd door een autoriteit van de Bondsrepubliek Duitsland die rechtsmacht uitoefent, of
+- – de strafprocedure met betrekking tot een zodanig strafbaar feit is aangevangen of beëindigd door een autoriteit van de Bondsrepubliek Duitsland die rechtsmacht uitoefent, of
 
-- –. het recht tot vervolging van het strafbare feit krachtens het Duitse recht is verjaard door het verstrijken van een bepaalde termijn.
+- – het recht tot vervolging van het strafbare feit krachtens het Duitse recht is verjaard door het verstrijken van een bepaalde termijn.
 
 2. Bij het bepalen van de strafmaat ten aanzien van een voor de inwerkingtreding van deze Overeenkomst gepleegd strafbaar feit houdt de Nederlandse rechtbank of autoriteit naar behoren rekening met de straf voorzien in de Duitse wetgeving waaraan de verdachte onderworpen was op het moment van het plegen van het strafbare feit, indien blijkt dat deze straf lichter is dan die welke is voorgeschreven in de Nederlandse wetgeving.
 
@@ -678,10 +641,10 @@ Wat het Koninkrijk der Nederlande betreft, geldt deze Overeenkomst uitsluitend v
 
 GEDAAN te Bergen, op 6 oktober 1997, in twee originele exemplaren, elk in de Nederlandse en in de Duitse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden**,
+*Voor het Koninkrijk der Nederlanden*,
 
 (w.g.) A. P. VAN WALSUM
 
-**Voor de Bondsrepubliek Duitsland**,
+*Voor de Bondsrepubliek Duitsland*,
 
 (w.g.) P. HARTMANN

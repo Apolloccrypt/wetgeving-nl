@@ -1,55 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oezbekistan inzake wederzijdse administratieve bijstand in douanezaken"
 identifier: "BWBV0001446"
-country: "nl"
-rank: "verdrag"
-publication_date: "2000-08-23"
-last_updated: "2000-08-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001446"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10000425503"
-version_id: "10000433812"
-internal_id: "C10008429361"
-label_id: "10000425914"
-dtd_version: "2.0"
-original_entry_into_force: "2000-08-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001446/2000-08-23/0"
-intitule_bron: "Trb.2000-17"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-07-19"
-intitule_published: "2000-03-01"
-intitule_in_force: "2000-08-28"
-intitule_status: "goed"
-original_publication: "Trb.2000-17"
-original_signed_date: "2000-07-19"
-original_published_date: "2000-03-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2000-17"
-entry_into_force_date: "2000-08-23"
-jci_1_3: "jci1.3:c:BWBV0001446&z=2000-08-23&g=2000-08-23"
-jci_1_0: "1.0:c:BWBV0001446&g=2000-08-23"
-citeertitel_status: "officieel"
-signed_date: "2000-07-19"
-entry_into_force: "2000-08-23"
+publicatiedatum: 2000-08-23
+laatste_update: 2000-08-23
+status: geldig
+toestand: 2000-08-23
+bron: "https://wetten.overheid.nl/BWBV0001446"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oezbekistan inzake wederzijdse administratieve bijstand in douanezaken
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Oezbekistan, hierna te noemen de Verdragsluitende Partijen,
-
-Gelet op het belang van een juiste vaststelling van de douanerechten en andere belastingen die bij invoer of uitvoer worden geïnd en van het waarborgen van een juiste handhaving van verboden, beperkingen en controlemaatregelen;
-
-Overwegende dat inbreuken op de douanewetgeving hun economische, fiscale, sociale en culturele belangen en hun handelsbelangen schaden;
-
-Overwegende dat de grensoverschrijdende handel in verdovende middelen en psychotrope stoffen, gevaarlijke stoffen, bedreigde diersoorten en giftig afval een gevaar voor de samenleving vormt;
-
-Erkennende de noodzaak van internationale samenwerking ter zake van aangelegenheden die verband houden met de toepassing en handhaving van hun douanewetgeving;
-
-Ervan overtuigd dat het optreden tegen inbreuken op de douanewetgeving doeltreffender kan worden door middel van nauwe samenwerking tussen hun douane-administraties op basis van duidelijke wettelijke bepalingen;
-
-Gelet op de van belang zijnde instrumenten van de Internationale Douaneraad, in het bijzonder de Aanbeveling inzake wederzijdse administratieve bijstand van 5 december 1953;
-
-zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Oezbekistan, hierna te noemen de Verdragsluitende Partijen, Gelet op het belang van een juiste vaststelling van de douanerechten en andere belastingen die bij invoer of uitvoer worden geïnd en van het waarborgen van een juiste handhaving van verboden, beperkingen en controlemaatregelen; Overwegende dat inbreuken op de douanewetgeving hun economische, fiscale, sociale en culturele belangen en hun handelsbelangen schaden; Overwegende dat de grensoverschrijdende handel in verdovende middelen en psychotrope stoffen, gevaarlijke stoffen, bedreigde diersoorten en giftig afval een gevaar voor de samenleving vormt; Erkennende de noodzaak van internationale samenwerking ter zake van aangelegenheden die verband houden met de toepassing en handhaving van hun douanewetgeving; Ervan overtuigd dat het optreden tegen inbreuken op de douanewetgeving doeltreffender kan worden door middel van nauwe samenwerking tussen hun douane-administraties op basis van duidelijke wettelijke bepalingen; Gelet op de van belang zijnde instrumenten van de Internationale Douaneraad, in het bijzonder de Aanbeveling inzake wederzijdse administratieve bijstand van 5 december 1953; zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. BEGRIPSOMSCHRIJVINGEN
 
@@ -277,10 +241,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN te 's-Gravenhage op 11 februari 2000, in tweevoud in de Nederlandse, de Oezbeekse en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschil in interpretatie is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) D. E. WITTEVEEN
 
-**Voor de Regering van de Republiek Oezbekistan**
+*Voor de Regering van de Republiek Oezbekistan*
 
 (w.g.) S. RAIMOV

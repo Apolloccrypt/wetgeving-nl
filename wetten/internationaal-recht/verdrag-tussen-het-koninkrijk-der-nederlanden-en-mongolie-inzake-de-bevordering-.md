@@ -1,82 +1,49 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en Mongolië inzake de bevordering en de wederzijdse bescherming van investeringen"
 identifier: "BWBV0001203"
-country: "nl"
-rank: "verdrag"
-publication_date: "1996-06-01"
-last_updated: "1996-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001203"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000332623"
-version_id: "10000340642"
-internal_id: "C10006987901"
-label_id: "10000332814"
-original_entry_into_force: "1996-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001203/1996-06-01/0"
-intitule_bron: "Trb.1995-156"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-11-20"
-intitule_published: "1995-06-23"
-intitule_in_force: "1996-05-01"
-intitule_status: "goed"
-original_publication: "Trb.1995-156"
-original_signed_date: "1995-11-20"
-original_published_date: "1995-06-23"
-original_effect: "structuurwijziging"
-original_url_id: "trb-1995-156"
-entry_into_force_date: "1996-06-01"
-jci_1_3: "jci1.3:c:BWBV0001203&z=1996-06-01&g=1996-06-01"
-jci_1_0: "1.0:c:BWBV0001203&g=1996-06-01"
-citeertitel_status: "officieel"
-signed_date: "1995-11-20"
-entry_into_force: "1996-06-01"
+publicatiedatum: 1996-06-01
+laatste_update: 1996-06-01
+status: geldig
+toestand: 1996-06-01
+bron: "https://wetten.overheid.nl/BWBV0001203"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en Mongolië inzake de bevordering en de wederzijdse bescherming van investeringen
 
-The Government of the Kingdom of the Netherlands
-
-and
-
-the Government of Mongolia,
-
-hereinafter referred to as the Contracting Parties,
-
-Desiring to strengthen the traditional ties of friendship between their countries, to extend and intensify the economic relations between them particularly with respect to investments by the nationals of one Contracting Party in the territory of the other Contracting Party,
-
-Recognizing that agreement upon the treatment to be accorded to such investments will stimulate the flow of capital and technology and the economic development of the Contracting Parties and that fair and equitable treatment of investment is desirable,
-
-Have agreed as follows:
+*The Government of the Kingdom of the Netherlands and the Government of Mongolia, hereinafter referred to as the Contracting Parties, Desiring to strengthen the traditional ties of friendship between their countries, to extend and intensify the economic relations between them particularly with respect to investments by the nationals of one Contracting Party in the territory of the other Contracting Party, Recognizing that agreement upon the treatment to be accorded to such investments will stimulate the flow of capital and technology and the economic development of the Contracting Parties and that fair and equitable treatment of investment is desirable, Have agreed as follows:*
 
 ##### Article 1
 
 For the purposes of the present Agreement:
 
-- a). the term “investments” shall comprise every kind of asset and more particularly, though not exclusively:
+- a) the term “investments” shall comprise every kind of asset and more particularly, though not exclusively:
 
-- (i). movable and immovable property as well as any other rights in rem in respect of every kind of asset;
+   - (i) movable and immovable property as well as any other rights in rem in respect of every kind of asset;
 
-- (ii). rights derived from shares, bonds and other kinds of interests in companies and joint ventures;
+   - (ii) rights derived from shares, bonds and other kinds of interests in companies and joint ventures;
 
-- (iii). title to money, to other assets or to any performance having an economic value;
+   - (iii) title to money, to other assets or to any performance having an economic value;
 
-- (iv). rights in the field of intellectual property, technical processes, goodwill and know-how;
+   - (iv) rights in the field of intellectual property, technical processes, goodwill and know-how;
 
-- (v). rights granted under public law, including rights to prospect, explore, extract and win natural resources.
+   - (v) rights granted under public law, including rights to prospect, explore, extract and win natural resources.
 
-- b). the term “nationals” shall comprise with regard to either Contracting Party:
+- b) the term “nationals” shall comprise with regard to either Contracting Party:
 
-- (i). natural persons having the nationality of that Contracting Party;
+   - (i) natural persons having the nationality of that Contracting Party;
 
-- (ii). legal persons constituted under the law of that Contracting Party;
+   - (ii) legal persons constituted under the law of that Contracting Party;
 
-- (iii). legal persons not constituted under the law of that Contracting Party but controlled, directly or indirectly, by natural persons as defined in (i) or by legal persons as defined in (ii) above.
+   - (iii) legal persons not constituted under the law of that Contracting Party but controlled, directly or indirectly, by natural persons as defined in (i) or by legal persons as defined in (ii) above.
 
-- c). the term “territory” shall mean:
+- c) the term “territory” shall mean:
 
-- (i). with respect to Mongolia, the territory over which Mongolia has sovereignty or jurisdiction;
+   - (i) with respect to Mongolia, the territory over which Mongolia has sovereignty or jurisdiction;
 
-- (ii). with respect to the Kingdom of the Netherlands, the territory which constitutes the Kingdom of the Netherlands including also the maritime areas adjacent to the coast, to the extent to which the Kingdom of the Netherlands exercises sovereign rights or jurisdiction in those areas according to international law.
+   - (ii) with respect to the Kingdom of the Netherlands, the territory which constitutes the Kingdom of the Netherlands including also the maritime areas adjacent to the coast, to the extent to which the Kingdom of the Netherlands exercises sovereign rights or jurisdiction in those areas according to international law.
 
 ##### Article 2
 
@@ -92,11 +59,11 @@ Subject to its right to exercise powers conferred by its laws or regulations, ea
 
 3. For the purpose of the treatment mentioned in paragraph 1 there shall not be taken into account any special fiscal advantages accorded by that Party:
 
-- a). under an agreement for the avoidance of double taxation;
+- a) under an agreement for the avoidance of double taxation;
 
-- b). by virtue of its participation in a customs union, economic union or similar institution;
+- b) by virtue of its participation in a customs union, economic union or similar institution;
 
-- c). on the basis of reciprocity with a third State.
+- c) on the basis of reciprocity with a third State.
 
 4. Each Contracting Party shall observe any obligation it may have entered into with regard to investments of nationals of the other Contracting Party.
 
@@ -106,33 +73,33 @@ Subject to its right to exercise powers conferred by its laws or regulations, ea
 
 The Contracting Parties shall guarantee that payments relating to an investment may be transferred. The transfers shall be made in a freely convertible currency, without restriction or delay. Such transfers include in particular though not exclusively:
 
-- a). profits, interest, dividends and other current income;
+- a) profits, interest, dividends and other current income;
 
-- b). funds necessary
+- b) funds necessary
 
-- (i). for the acquisition of raw or auxiliary materials, semi-fabricated or finished products, or
+   - (i) for the acquisition of raw or auxiliary materials, semi-fabricated or finished products, or
 
-- (ii). to replace capital assets in order to safeguard the continuity of an investment;
+   - (ii) to replace capital assets in order to safeguard the continuity of an investment;
 
-- c). additional funds necessary for the development of an investment;
+- c) additional funds necessary for the development of an investment;
 
-- d). funds in repayment of loans;
+- d) funds in repayment of loans;
 
-- e). royalties or fees;
+- e) royalties or fees;
 
-- f). earnings of natural persons;
+- f) earnings of natural persons;
 
-- g). the proceeds of sale or liquidation of the investment.
+- g) the proceeds of sale or liquidation of the investment.
 
 ##### Article 5
 
 Neither Contracting Party shall take any measures depriving, directly or indirectly, nationals of the other Contracting Party of their investments unless the following conditions are complied with:
 
-- a). the measures are taken in the public interest and under due process of law;
+- a) the measures are taken in the public interest and under due process of law;
 
-- b). the measures are not discriminatory or contrary to any undertaking which the Contracting Party which takes such measures may have given;
+- b) the measures are not discriminatory or contrary to any undertaking which the Contracting Party which takes such measures may have given;
 
-- c). the measures are taken against just compensation. Such compensation shall represent the genuine value of the investments affected, shall include interest at a normal commercial rate until the date of payment and shall, in order to be effective for the claimants, be paid and made transferable, without delay, to the country designated by the claimants concerned and in the currency of the country of which the claimants are nationals or in any freely convertible currency accepted by the claimants.
+- c) the measures are taken against just compensation. Such compensation shall represent the genuine value of the investments affected, shall include interest at a normal commercial rate until the date of payment and shall, in order to be effective for the claimants, be paid and made transferable, without delay, to the country designated by the claimants concerned and in the currency of the country of which the claimants are nationals or in any freely convertible currency accepted by the claimants.
 
 ##### Article 6
 
@@ -188,10 +155,10 @@ IN WITNESS WHEREOF, the undersigned representatives, duly authorized thereto, ha
 
 DONE in duplicate at The Hague on 9 March 1995, in the English language, both duplicates being equally authentic.
 
-**For the Government of the Kingdom of the Netherlands:**
+*For the Government of the Kingdom of the Netherlands:*
 
 (sd.) W. KOK
 
-**For the Government of Mongolia:**
+*For the Government of Mongolia:*
 
 (sd.) P. JASRAY

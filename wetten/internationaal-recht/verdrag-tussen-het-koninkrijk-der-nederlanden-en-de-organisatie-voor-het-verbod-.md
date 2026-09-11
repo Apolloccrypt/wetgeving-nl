@@ -1,63 +1,25 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Organisatie voor het Verbod van Chemische Wapens (OVCW) betreffende de zetel van de OVCW"
 identifier: "BWBV0001293"
-country: "nl"
-rank: "verdrag"
-publication_date: "1997-06-07"
-last_updated: "1997-06-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001293"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000656723"
-version_id: "10000675022"
-internal_id: "C10009088291"
-label_id: "10000657134"
-dtd_version: "2.0"
-original_entry_into_force: "1997-06-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001293/1997-06-07/0"
-intitule_bron: "Trb.1997-114"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-06-06"
-intitule_published: "1997-06-05"
-intitule_in_force: "1997-07-04"
-intitule_status: "goed"
-original_publication: "Trb.1997-114"
-original_signed_date: "1997-06-06"
-original_published_date: "1997-06-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1997-114"
-entry_into_force_date: "1997-06-07"
-jci_1_3: "jci1.3:c:BWBV0001293&z=1997-06-07&g=1997-06-07"
-jci_1_0: "1.0:c:BWBV0001293&g=1997-06-07"
-citeertitel_status: "officieel"
-signed_date: "1997-06-06"
-entry_into_force: "1997-06-07"
+publicatiedatum: 1997-06-07
+laatste_update: 1997-06-07
+status: geldig
+toestand: 1997-06-07
+bron: "https://wetten.overheid.nl/BWBV0001293"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Organisatie voor het Verbod van Chemische Wapens (OVCW) betreffende de zetel van de OVCW
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Organisatie voor het Verbod van Chemische Wapens
-
-Overwegende dat het [Verdrag tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens](onbekend) ter oprichting van de Organisatie voor het Verbod van Chemische Wapens in werking is getreden op 29 april 1997,
-
-Overwegende dat krachtens [artikel VIII, derde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001193&artikel=VIII) de zetel van de Organisatie voor het Verbod van Chemische Wapens zal worden gevestigd te 's-Gravenhage, het Koninkrijk der Nederlanden,
-
-Gelet op de bepalingen van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001193) betreffende de rechtspositie, voorrechten en immuniteiten van de Organisatie voor het Verbod van Chemische Wapens en haar organen, alsmede de voorrechten en immuniteiten van de Delegatieleiders, plaatsvervangers en adviseurs verbonden aan de Delegatieleiders, Permanente Vertegenwoordigers, leden van de Permanente Vertegenwoordigingen, afgevaardigden van de Staten die Partij zijn, en de Directeur-Generaal en de personeelsleden van de Organisatie voor het Verbod van Chemische Wapens,
-
-Mede gelet op de bepalingen in de Bijlagen 2 en 3 van de Resolutie inzake de oprichting van de Voorbereidende Commissie voor de Organisatie voor het Verbod van Chemische Wapens,
-
-Overwegende dat voor de vestiging van de zetel van de Organisatie voor het Verbod van Chemische Wapens op het grondgebied van het Koninkrijk der Nederlanden ('s-Gravenhage) een verdrag dient te worden gesloten;
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Organisatie voor het Verbod van Chemische Wapens Overwegende dat het Verdrag tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens ter oprichting van de Organisatie voor het Verbod van Chemische Wapens in werking is getreden op 29 april 1997, Overwegende dat krachtens artikel VIII, derde lid, van het Verdrag de zetel van de Organisatie voor het Verbod van Chemische Wapens zal worden gevestigd te 's-Gravenhage, het Koninkrijk der Nederlanden, Gelet op de bepalingen van het Verdrag betreffende de rechtspositie, voorrechten en immuniteiten van de Organisatie voor het Verbod van Chemische Wapens en haar organen, alsmede de voorrechten en immuniteiten van de Delegatieleiders, plaatsvervangers en adviseurs verbonden aan de Delegatieleiders, Permanente Vertegenwoordigers, leden van de Permanente Vertegenwoordigingen, afgevaardigden van de Staten die Partij zijn, en de Directeur-Generaal en de personeelsleden van de Organisatie voor het Verbod van Chemische Wapens, Mede gelet op de bepalingen in de Bijlagen 2 en 3 van de Resolutie inzake de oprichting van de Voorbereidende Commissie voor de Organisatie voor het Verbod van Chemische Wapens, Overwegende dat voor de vestiging van de zetel van de Organisatie voor het Verbod van Chemische Wapens op het grondgebied van het Koninkrijk der Nederlanden ('s-Gravenhage) een verdrag dient te worden gesloten; Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
 In dit Verdrag wordt verstaan onder:
 
-- a. „het Verdrag”: het [Verdrag tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens](onbekend) van 13 januari 1993;
+- a. „het Verdrag”: het [Verdrag tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens](https://wetten.overheid.nl/BWBV0001193) van 13 januari 1993;
 
 - b. „OVCW”: de Organisatie voor het Verbod van Chemische Wapens;
 
@@ -71,7 +33,7 @@ In dit Verdrag wordt verstaan onder:
 
 - g. „Directeur-Generaal”: de Directeur-Generaal bedoeld in [artikel VIII, eenenveertigste lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001193&artikel=VIII);
 
-- h. „Staat die Partij is”: een Staat die Partij is bij het [Verdrag](onbekend);
+- h. „Staat die Partij is”: een Staat die Partij is bij het [Verdrag](https://wetten.overheid.nl/BWBV0001193);
 
 - i. „Delegatieleider”: het bij de Vergadering van de Staten die Partij zijn, en/of de Uitvoerende Raad geaccrediteerde hoofd van de delegatie van een Staat die Partij is;
 
@@ -87,17 +49,17 @@ In dit Verdrag wordt verstaan onder:
 
 - o. „Functionarissen van de OVCW”: de Directeur-Generaal en alle personeelsleden van het Technisch Secretariaat van de OVCW, behalve die welke plaatselijk zijn aangeworven en op basis van een uurtarief worden uitbetaald;
 
-- p. „Inspecteurs op dienstreis”: leden van een inspectieteam als bedoeld in het [Verdrag](onbekend) ([paragraaf 17 van Afdeling I van de Verificatiebijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0001193&artikel=17)) die in het bezit zijn van een door de Directeur-Generaal uitgegeven inspectiemandaat om een inspectie uit te voeren in overeenstemming met het Verdrag;
+- p. „Inspecteurs op dienstreis”: leden van een inspectieteam als bedoeld in het [Verdrag](https://wetten.overheid.nl/BWBV0001193) ([paragraaf 17 van Afdeling I van de Verificatiebijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0001193&artikel=17)) die in het bezit zijn van een door de Directeur-Generaal uitgegeven inspectiemandaat om een inspectie uit te voeren in overeenstemming met het Verdrag;
 
 - q. „Door de OVCW bijeengeroepen vergaderingen”: alle vergaderingen van een van de organen of ondersteunende organen van de OVCW of internationale conferenties of andere door de OVCW bijeengeroepen of onder haar auspiciën gehouden bijeenkomsten;
 
-- r. „Eigendom”: alle eigendommen, bezittingen en fondsen, behorend tot de OVCW of gehouden of beheerd door de OVCW in het kader van haar functies krachtens het [Verdrag](onbekend), alsmede alle inkomsten van de OVCW;
+- r. „Eigendom”: alle eigendommen, bezittingen en fondsen, behorend tot de OVCW of gehouden of beheerd door de OVCW in het kader van haar functies krachtens het [Verdrag](https://wetten.overheid.nl/BWBV0001193), alsmede alle inkomsten van de OVCW;
 
-- s. „Monsters”: monsters zoals omschreven in het [Verdrag](onbekend);
+- s. „Monsters”: monsters zoals omschreven in het [Verdrag](https://wetten.overheid.nl/BWBV0001193);
 
 - t. „Archieven van de OVCW”: alle dossiers, correspondentie, documenten, manuscripten, computer- en mediagegevens, foto's, films en video- en geluidsopnamen die de OVCW of haar personeel in het kader van een officiële functie bezit of onder zich heeft, en al het overige materiaal waarover de Directeur-Generaal en de Regering eventueel overeenkomen dat het deel uitmaakt van de archieven van de OVCW;
 
-- u. „Het Verdrag van Wenen”: het [Verdrag van Wenen inzake Diplomatiek Verkeer](onbekend) van 18 april 1961.
+- u. „Het Verdrag van Wenen”: het [Verdrag van Wenen inzake Diplomatiek Verkeer](https://wetten.overheid.nl/BWBV0004345) van 18 april 1961.
 
 ##### Artikel 2. Rechtspersoonlijkheid
 
@@ -371,7 +333,7 @@ De status van vertegenwoordigers en functionarissen van Staten die geen partij z
 
 2. Alle door de OVCW opgerichte of beheerde voorzorgsfondsen genieten in het Koninkrijk der Nederlanden rechtspersoonlijkheid indien de OVCW dit wenst en genieten dezelfde vrijstellingen, voorrechten en immuniteiten als de OVCW zelf.
 
-3. De bepalingen van het eerste lid van dit artikel zijn **mutatis mutandis** van toepassing op echtgenoten en de ten laste komende familieleden die deel uitmaken van het huishouden van personen bedoeld in het eerste lid van dit artikel, tenzij zij in het Koninkrijk der Nederlanden in dienst zijn bij een andere werkgever dan de OVCW, of uitkeringen ingevolge het Nederlandse stelsel van sociale zekerheid ontvangen.
+3. De bepalingen van het eerste lid van dit artikel zijn *mutatis mutandis* van toepassing op echtgenoten en de ten laste komende familieleden die deel uitmaken van het huishouden van personen bedoeld in het eerste lid van dit artikel, tenzij zij in het Koninkrijk der Nederlanden in dienst zijn bij een andere werkgever dan de OVCW, of uitkeringen ingevolge het Nederlandse stelsel van sociale zekerheid ontvangen.
 
 ##### Artikel 23. Tewerkstelling
 
@@ -441,56 +403,12 @@ De gelijktijdig met dit Verdrag gesloten Afzonderlijke Regeling is een integrere
 
 2. Ten aanzien van het Koninkrijk der Nederlanden is dit Verdrag alleen van toepassing op het Koninkrijk in Europa.
 
-##### 1. Artikel 11, tweede lid, letter c: „aanzienlijke uitgaven"
-
-Voor het doel van de vrijstelling van BTW op voor de officiële activiteiten van de OVCW benodigde goederen en diensten die aanzienlijke uitgaven met zich meebrengen wordt onder „aanzienlijke uitgaven" overeenkomstig de bestaande bepalingen verstaan een bedrag boven de drempel van Hfl. 500 per factuur.
-
-##### 2. Artikel 11, vierde lid: „de met de Regering overeengekomen voorwaarden”
-
-De Regering maakt bij deze de voorwaarden bekend waaronder de verworven of ingevoerde goederen als bedoeld in artikel 11, vierde lid, kunnen worden verkocht, weggegeven of op andere wijze kunnen worden vervreemd.
-
-a. In beginsel kent de Regering de OVCW een vaste periode van vijf jaar toe voor de verlaging van de waarde bij verkoop/vervreemding met het oog op de vrijstellingen van heffingen en belastingen van alle roerende zaken, behalve motorvoertuigen, tot nul. Na deze periode van vijf jaar kunnen zaken vrij van belastingen en heffingen worden verkocht. Deze „verlaging” van de waarde van alle goederen tot de waarde nul in de periode van vijf jaar wordt bereikt in tranches van 10 procent per zes maanden. Indien echter de lokale marktwaarde van bovengenoemde zaken daalt tot onder het aldus berekende bedrag, geldt het lagere bedrag.
-
-b. Voorts wordt overeengekomen dat de OVCW in beginsel het recht heeft te allen tijde haar goederen te verkopen aan een persoon of rechtspersoon die in het Koninkrijk der Nederlanden recht heeft op vrijstelling van belastingen en/of heffingen op die goederen. Te gelegener tijd verschaft de Regering informatie over de vereiste vaste procedure voor de behandeling van de vrijstelling in die gevallen, niet alleen voor motorvoertuigen maar ook voor andere goederen.
-
-c. In het geval van motorvoertuigen kent de Regering aan de OVCW de volgende rechten toe:
-
-- i. motorvoertuigen die belastingvrij van binnen de Europese Unie zijn ingevoerd, mogen twee jaar na verkrijging worden verkocht, op voorwaarde dat deze voertuigen worden verkocht aan ondernemers die de vaste procedures met betrekking tot de BTW in het Koninkrijk der Nederlanden in acht moeten nemen; en
-
-- ii. motorvoertuigen die vrij van heffingen en belastingen van buiten de Europese Unie zijn ingevoerd, mogen twee jaar na verkrijging worden verkocht, op voorwaarde dat deze voertuigen worden verkocht aan ondernemers die de vaste procedures met betrekking tot de BTW en invoerheffingen in het Koninkrijk der Nederlanden in acht moeten nemen.
-
-d. Met betrekking tot apparatuur voor gegevensverwerking en communicatie kent de Regering aan de OVCW een vaste periode van vijf jaar toe voor de vermindering van de waarde tot nul als hierboven beschreven onder a. Na een periode van twee jaar heeft de OVCW ook het recht de apparatuur te verkopen aan ondernemers die de vaste procedures met betrekking tot de BTW en/of invoerheffingen in het Koninkrijk der Nederlanden in acht moeten nemen. Als in de praktijk blijkt dat de OVCW bepaalde apparatuur niet meer nodig heeft binnen de periode van twee jaar en deze nog aan een ondernemer kan worden verkocht, is de Regering bereid een oplossing op ad hoc-basis aan te bieden. Indien de lokale marktwaarde van bovengenoemde zaken daalt tot onder het aldus berekende bedrag, geldt dit lagere bedrag.
-
-e. Overeengekomen wordt dat de OVCW ook het recht heeft om op elk moment zonder betaling van belastingen en/of heffingen onder vrijstelling gekochte goederen te vervreemden door uitvoer naar een land buiten de Europese Unie of deze zaken te vernietigen.
-
-f. De OVCW brengt de Regering op de hoogte van de vervreemding van onder vrijstelling gekochte goederen. De procedure voor de kennisgeving aan de Regering is zodanig dat de administratieve last zo klein mogelijk is.
-
-##### 3. Functionarissen van de OVCW
-
-a. Onverminderd het bepaalde in artikel 18 van het Zetelverdrag worden functionarissen van de OVCW die geen Nederlands staatsburger of permanent ingezetene van het Koninkrijk der Nederlanden zijn, voor zover het de heffing van Nederlandse inkomstenbelasting betreft, alleen belast over het in Nederland buiten het kader van de functie bij de OVCW verdiende binnenlands inkomen in de zin van de artikelen 48 en 49 van de Wet op de Inkomstenbelasting 1964. Ten aanzien van de vermogensbelasting wordt alleen binnenlands vermogen in de zin van artikel 12 en 13 van de Wet op de Vermogensbelasting 1964 belast. In dit opzicht worden de betrokken functionarissen hetzelfde behandeld als leden van diplomatieke zendingen.
-
-b. Functionarissen van de OVCW met de rang P-5 en hoger wordt vrijstelling van BTW verleend krachtens artikel 33 juncto artikel 36 van Belastingregeling voor het Koninkrijk, die verband houdt met de Algemene wet inzake rijksbelastingen 1959. De voorwaarde van wederkerigheid hoeft niet te worden vervuld.
-
-c. Functionarissen van de OVCW die in aanmerking komen voor de in het Verdrag van Wenen vervatte voorrechten en immuniteiten, krijgen vrijstelling van alle belastingen en heffingen wanneer zij in de Europese Unie een motorvoertuig voor particulier gebruik aanschaffen of invoeren. Na betaling van belastingen en heffingen over de restwaarde van een dergelijk voertuig, of nadat het voertuig buiten de Europese Unie is verkocht, kan een volgend voertuig belastingvrij worden gekocht. Deze vrijstelling geldt ook voor motorrijtuigenbelasting en accijnzen op motorbrandstoffen. Functionarissen in rang P-5 en hoger met inwonende echtgenote genieten eveneens vrijstelling van alle belastingen met betrekking tot een tweede motorvoertuig overeenkomstig de geldende regelingen.
-
-d. Functionarissen van de OVCW die in aanmerking komen voor de in het Verdrag van Wenen vervatte voorrechten en immuniteiten, wordt diplomatieke vrijstelling verleend van gemeentelijke belastingen met inbegrip van de gebruikerscomponent van de onroerende zaakbelasting.
-
-e. Functionarissen van de OVCW genieten overeenkomstig de geldende regelingen ontheffing van invoerheffingen en belastingen, behalve betalingen voor diensten, met betrekking tot hun meubilair en persoonlijke bezittingen en hebben het recht hun meubilair en persoonlijke bezittingen bij beëindiging van hun functie in Nederland vrij van heffingen uit te voeren. Persoonlijke bezittingen omvatten mede een redelijk aantal auto's die bij de huishouding in gebruik zijn geweest en ouder zijn dan zes maanden.
-
-f. Wanneer de regelingen betreffende diplomatiek personeel of internationale functionarissen die worden geacht dezelfde status te hebben als functionarissen van de OVCW worden gewijzigd, worden de op functionarissen van de OVCW toepasselijke regelingen eveneens gewijzigd.
-
-##### 4. Aanvullende bepaling
-
-a. Indien en voor zover de Regering in de toekomst met een intergouvernementele organisatie een verdrag aangaat waarin voorwaarden zijn vervat die voor die organisatie gunstiger zijn dan de vergelijkbare voorwaarden van dit Verdrag, kent de Regering deze gunstigere voorwaarden ook toe aan de OVCW of aan een ieder die krachtens dit Verdrag recht heeft op voorrechten en immuniteiten.
-
-b. De Regering stelt de OVCW in kennis van de keuze van het kantoor dat door het Ministerie van Buitenlandse Zaken wordt aangewezen als officieel en primair verantwoordelijk aanspreekpunt ten aanzien van alle aangelegenheden met betrekking tot dit Verdrag. De OVCW wordt onverwijld op de hoogte gebracht van deze aanwijzing en van eventuele wijzigingen ter zake.
-
 GEDAAN te 's-Gravenhage op 22 mei 1997 in twee exemplaren in de Arabische, de Chinese, de Engelse, de Franse, de Nederlandse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) D. J. VAN DEN BERG
 
-**Voor de Organisatie voor het Verbod van Chemische Wapens**
+*Voor de Organisatie voor het Verbod van Chemische Wapens*
 
 (w.g.) J. M. BUSTANI

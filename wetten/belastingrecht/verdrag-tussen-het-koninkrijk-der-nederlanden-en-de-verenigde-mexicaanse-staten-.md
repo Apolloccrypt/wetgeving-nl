@@ -1,49 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Mexicaanse Staten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen"
 identifier: "BWBV0001142"
-country: "nl"
-rank: "verdrag"
-publication_date: "2009-12-31"
-last_updated: "2009-12-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001142"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10002236633"
-version_id: "10002287592"
-internal_id: "C10009595851"
-label_id: "10002227144"
-dtd_version: "2.0"
-original_entry_into_force: "1994-10-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001142/2009-12-31/0"
-intitule_bron: "Trb.1993-160"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-10-13"
-intitule_published: "1993-11-05"
-intitule_in_force: "1994-10-21"
-intitule_status: "goed"
-original_publication: "Trb.1993-160"
-original_signed_date: "1994-10-13"
-original_published_date: "1993-11-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1993-160"
-entry_into_force_date: "1994-10-13"
-jci_1_3: "jci1.3:c:BWBV0001142&z=2009-12-31&g=2009-12-31"
-jci_1_0: "1.0:c:BWBV0001142&g=2009-12-31"
-citeertitel_status: "redactioneel"
-signed_date: "1994-10-13"
-entry_into_force: "1994-10-13"
+publicatiedatum: 1994-10-13
+laatste_update: 2009-12-31
+status: geldig
+toestand: 2009-12-31
+bron: "https://wetten.overheid.nl/BWBV0001142"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Mexicaanse Staten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van de Verenigde Mexicaanse Staten,
-
-Geleid door de wens een verdrag te sluiten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Mexicaanse Staten, Geleid door de wens een verdrag te sluiten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. REIKWIJDTE VAN HET VERDRAG
 
@@ -57,19 +27,19 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van de Staten
 
 - a. in Nederland: (hierna te noemen: „Nederlandse belasting”);
 
-- –. de inkomstenbelasting;
+   - – de inkomstenbelasting;
 
-- –. de loonbelasting;
+   - – de loonbelasting;
 
-- –. de vennootschapsbelasting, daaronder begrepen het aandeel van de Regering in de nettowinsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de Mijnbouwwet;
+   - – de vennootschapsbelasting, daaronder begrepen het aandeel van de Regering in de nettowinsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de Mijnbouwwet;
 
-- –. de dividendbelasting;
+   - – de dividendbelasting;
 
 - b. in Mexico: (hierna te noemen: „Mexicaanse belasting”).
 
-- –. de inkomstenbelasting (el impuesto sobre la renta);
+   - – de inkomstenbelasting (el impuesto sobre la renta);
 
-- –. de forfaitaire bedrijfsbelasting (el impuesto empresarial a tasa única);
+   - – de forfaitaire bedrijfsbelasting (el impuesto empresarial a tasa única);
 
 2. Dit Verdrag is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen naar het inkomen die na de datum van ondertekening van het Verdrag naast of in de plaats van de bestaande belastingen worden geheven door een van de Staten, de staatkundige onderdelen of plaatselijke publiekrechtelijke lichamen daarvan. De bevoegde autoriteiten van de Staten doen elkaar mededeling van alle wezenlijke wijzigingen die in hun onderscheiden belastingwetgevingen zijn aangebracht.
 
@@ -95,15 +65,15 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van de Staten
 
 - h. betekent de uitdrukking „onderdanen":
 
-- 1. alle natuurlijke personen die de nationaliteit van een van de Staten bezitten;
+   - 1. alle natuurlijke personen die de nationaliteit van een van de Staten bezitten;
 
-- 2. alle rechtspersonen, vennootschappen en verenigingen die hun rechtspositie als zodanig ontlenen aan de wetgeving die in een van de Staten van kracht is;
+   - 2. alle rechtspersonen, vennootschappen en verenigingen die hun rechtspositie als zodanig ontlenen aan de wetgeving die in een van de Staten van kracht is;
 
 - i. betekent de uitdrukking „bevoegde autoriteit":
 
-- 1. in Nederland de Minister van Financiën of zijn bevoegde vertegenwoordiger;
+   - 1. in Nederland de Minister van Financiën of zijn bevoegde vertegenwoordiger;
 
-- 2. in Mexico het Ministerie van Financiën en Publieke Schuld.
+   - 2. in Mexico het Ministerie van Financiën en Publieke Schuld.
 
 2. Voor de toepassing van het Verdrag door een van de Staten op enig moment heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking op dat moment heeft volgens de wetgeving van die Staat met betrekking tot de belastingen waarop het Verdrag van toepassing is, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van die Staat prevaleert boven een betekenis die volgens andere wetgeving van die Staat aan die uitdrukking wordt gegeven.
 
@@ -243,9 +213,9 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van de Staten
 
 - a. 5 percent van het brutobedrag van de interest in gevallen van interest:
 
-- i. betaald over elke lening van welke soort dan ook die verstrekt is door een bank of enige andere financiële instelling, met inbegrip van investeringsbanken en spaarbanken, en verzekeringsmaatschappijen;
+   - i. betaald over elke lening van welke soort dan ook die verstrekt is door een bank of enige andere financiële instelling, met inbegrip van investeringsbanken en spaarbanken, en verzekeringsmaatschappijen;
 
-- ii. betaald over obligaties en waardepapieren die in wezenlijke mate en regelmatig worden verhandeld aan een erkende effectenbeurs;
+   - ii. betaald over obligaties en waardepapieren die in wezenlijke mate en regelmatig worden verhandeld aan een erkende effectenbeurs;
 
 - b. 10 percent van het brutobedrag van de interest in alle andere gevallen.
 
@@ -345,15 +315,15 @@ Directeursbeloningen en andere soortgelijke beloningen verkregen door een inwone
 
 ##### Artikel 19. Overheidsfuncties
 
-- a. Beloningen, niet zijnde pensioenen, betaald door een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon terzake van diensten bewezen aan die Staat of dat onderdeel of dat publiekrechtelijk lichaam, zijn slechts in die Staat belastbaar.
+1. - a. Beloningen, niet zijnde pensioenen, betaald door een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon terzake van diensten bewezen aan die Staat of dat onderdeel of dat publiekrechtelijk lichaam, zijn slechts in die Staat belastbaar.
 
 - b. Deze beloningen zijn echter slechts in de andere Staat belastbaar, indien de diensten in die Staat worden bewezen en de natuurlijke persoon inwoner is van die Staat, die:
 
-- 1. onderdaan is van die Staat; of
+   - 1. onderdaan is van die Staat; of
 
-- 2. niet uitsluitend voor het verrichten van de diensten inwoner van die Staat werd.
+   - 2. niet uitsluitend voor het verrichten van de diensten inwoner van die Staat werd.
 
-- a. Pensioenen, betaald door, of uit fondsen in het leven geroepen door, een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten bewezen aan die Staat of dat onderdeel of dat publiekrechtelijk lichaam, zijn slechts in die Staat belastbaar.
+2. - a. Pensioenen, betaald door, of uit fondsen in het leven geroepen door, een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten bewezen aan die Staat of dat onderdeel of dat publiekrechtelijk lichaam, zijn slechts in die Staat belastbaar.
 
 - b. Deze pensioenen zijn echter slechts in de andere Staat belastbaar, indien de natuurlijke persoon inwoner en onderdaan is van die Staat.
 
@@ -477,13 +447,13 @@ zal de bevoegde autoriteit van de eerstbedoelde Staat de bevoegde autoriteit van
 
 De bepalingen van dit Verdrag tasten in geen enkel opzicht de fiscale voorrechten aan die diplomatieke of consulaire ambtenaren ontlenen aan de algemene regels van het volkenrecht of aan de bepalingen van bijzondere overeenkomsten.
 
-### HOOFDSTUK VI. SLOTBEPALINGEN
-
 ##### Artikel 28. Uitbreiding tot andere gebieden
 
 1. Dit Verdrag kan, hetzij in haar geheel, hetzij met de noodzakelijke wijzigingen, worden uitgebreid tot de Nederlandse Antillen of Aruba of beide, indien het betrokken land belastingen heft die in wezen gelijksoortig zijn aan de belastingen waarop het Verdrag van toepassing is. Zulk een uitbreiding wordt van kracht met ingang van een datum en met inachtneming van wijzigingen en voorwaarden, waaronder begrepen voorwaarden ten aanzien van de beëindiging, nader vast te stellen en overeen te komen bij diplomatieke-notawisseling.
 
 2. Ten zij anders is overeengekomen, brengt de beëindiging van het Verdrag niet met zich mede, dat tevens de uitbreiding van het Verdrag tot enig land waartoe zij ingevolge dit artikel is uitgebreid, wordt beëindigd.
+
+### HOOFDSTUK VI. SLOTBEPALINGEN
 
 ##### Artikel 29. Inwerkingtreding
 
@@ -493,162 +463,20 @@ De bepalingen van dit Verdrag tasten in geen enkel opzicht de fiscale voorrechte
 
 3. De bestaande Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Mexicaanse Staten inzake het vermijden van dubbele belasting naar het inkomen verkregen uit de exploitatie van schepen in het internationale verkeer, welke tot stand is gekomen bij briefwisseling van 18 oktober 1984 te 's-Gravenhage, eindigt bij het in werking treden van dit Verdrag. De bepalingen van de genoemde Overeenkomst blijven evenwel van toepassing totdat de bepalingen van dit Verdrag, in overeenstemming met de bepalingen van het tweede lid van dit artikel, van kracht worden.
 
-##### I. Algemeen
-
-De voordelen uit dit Verdrag zijn niet van toepassing op lichamen of andere personen die geheel of gedeeltelijk van belasting zijn vrijgesteld uit hoofde van een bijzondere regeling krachtens de wetten of bestuurlijke praktijken van een van de Staten. Een bijzondere regeling als bedoeld in de eerste volzin van deze bepaling wordt uitsluitend als zodanig beschouwd nadat de bevoegde autoriteiten van de Staten in onderling overleg hebben besloten dat hiervan sprake is.
-
-##### II. Ad [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=I&artikel=1&z=2009-12-31&g=2009-12-31), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=11&z=2009-12-31&g=2009-12-31) en [23](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=V&artikel=23&z=2009-12-31&g=2009-12-31)
-
-Het is wel verstaan dat voor de toepassing van dit Verdrag een pensioenfonds dat als zodanig erkend is in een van de Staten en waarvan het inkomen in het algemeen is vrijgesteld van belasting in die Staat, beschouwd zal worden als inwoner van die Staat. Als zulk een pensioenfonds zal worden beschouwd in het geval van Nederland elk pensioenfonds dat erkend is en volgens wettelijke bepalingen onder toezicht staat en in het geval van Mexico elk op grond van artikel 28 van de Mexicaanse wet op de inkomstenbelasting in het leven geroepen pensioenfonds.
-
-##### III. Ad [artikel 3, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=II&artikel=3&z=2009-12-31&g=2009-12-31)
-
-Het is wel verstaan dat de uitdrukkingen „Nederland” en „Mexico” de exclusieve economische zone omvatten waarbinnen Nederland of Mexico, naar gelang het geval, soevereine rechten mogen uitoefenen in overeenstemming met hun nationale recht en het internationale recht, indien Nederland of Mexico in hun wetgeving zulk een zone hebben aangemerkt of zullen aanmerken en daarbinnen heffingsrechten uitoefenen of zullen uitoefenen.
-
-##### IV. Ad [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=II&artikel=4&z=2009-12-31&g=2009-12-31)
-
-1. Voor de toepassing van artikel 4, derde lid, is de plaats van de werkelijke leiding de plaats waar de belangrijke besluiten op bestuurlijk en commercieel gebied die nodig zijn voor het uitoefenen van het bedrijf van het lichaam hoofdzakelijk worden genomen. De reden voor de keuze van de plaats van de werkelijke leiding wordt in dit opzicht niet in aanmerking genomen. De plaats van de werkelijke leiding als bedoeld in artikel 4, derde lid, is gewoonlijk de plaats waar de persoon of groep van personen met de hoogste senioriteit (een raad van beheer bijvoorbeeld) zijn besluiten neemt; de plaats waar de maatregelen die het lichaam als geheel neemt, worden vastgesteld.
-
-2. Wanneer een raad van beheer de belangrijke besluiten op bestuurlijk en commercieel gebied die nodig zijn voor het uitoefenen van het bedrijf van het lichaam formaliseert tijdens in een van de Staten gehouden bijeenkomsten, maar de besluiten hoofdzakelijk worden genomen in de andere Staat, is de plaats van de werkelijke leiding in die andere Staat gelegen.
-
-##### V. Ad [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=II&artikel=4&z=2009-12-31&g=2009-12-31)
-
-Een natuurlijke persoon die aan boord van een schip woont zonder een werkelijke woonplaats in een van de Staten te hebben, wordt geacht inwoner te zijn van de Staat waarin het schip zijn thuishaven heeft.
-
-##### VI. Ad [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=II&artikel=5&z=2009-12-31&g=2009-12-31)
-
-Het is wel te verstaan dat een persoon die hoofdzakelijk onderhandelt over essentiële onderdelen van een overeenkomst namens een onderneming wordt geacht de bevoegdheid namens die onderneming overeenkomsten te sluiten in de zin van deze bepaling uit te oefenen, zelfs al dient de overeenkomst nog door een andere persoon te worden goedgekeurd of formeel te worden ondertekend.
-
-##### VII. Ad [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=7&z=2009-12-31&g=2009-12-31)
-
-1. Met betrekking tot [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=7&z=2009-12-31&g=2009-12-31), kunnen voordelen behaald met de verkoop van goederen of koopwaar van dezelfde of soortgelijke aard als die welke worden verkocht, of met andere bedrijfsactiviteiten van dezelfde of soortgelijke aard als die welke worden verricht door middel van een vaste inrichting, worden geacht toerekenbaar te zijn aan die vaste inrichting, indien wordt aangetoond dat tot deze transactie is overgegaan teneinde in de Staat waarin de vaste inrichting is gevestigd belastingheffing te vermijden. Tenzij door de belastingplichtige voldoende tegenbewijs wordt geleverd, wordt zulk een vermijding van belastingheffing aangenomen in gevallen waarin het proces van de verkoop voor het merendeel uitgevoerd is door de vaste inrichting.
-
-2. Het is wel te verstaan dat in het geval van voordelen uit toezicht, leverings-, installatie- of constructiewerkzaamheden alleen dat deel daarvan aan een vaste inrichting is toe te rekenen dat voortvloeit uit functies verricht in, vermogensbestanddelen gebruikt en risico’s aangegaan door of door middel van de vaste inrichting.
-
-##### VIII. Ad [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=7&z=2009-12-31&g=2009-12-31), [12](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=12&z=2009-12-31&g=2009-12-31) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=14&z=2009-12-31&g=2009-12-31)
-
-Vergoedingen, van welke aard ook, voor technische diensten, waaronder begrepen studies of toezichthoudende werkzaamheden van wetenschappelijke, geologische of technische aard, of voor contracten inzake bouw- en constructiewerkzaamheden met inbegrip van de daartoe behorende blauwdrukken, dan wel voor diensten van raadgevende of toezichthoudende aard worden aangemerkt als vergoedingen waarop de bepalingen van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=7&z=2009-12-31&g=2009-12-31) of [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=14&z=2009-12-31&g=2009-12-31), naar gelang van het geval, van toepassing zijn, in zoverre als zulke vergoedingen niet beschouwd kunnen worden als beloningen voor de overdracht van inlichtingen omtrent ervaringen op het gebied van nijverheid, handel of wetenschap („know-how”).
-
-##### IX. Ad [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=9&z=2009-12-31&g=2009-12-31)
-
-Het is wel verstaan, dat de omstandigheid dat gelieerde ondernemingen overeenkomsten hebben afgesloten, zoals „cost-sharing”-overeenkomsten of algemene dienstverleningsovereenkomsten, voor of gebaseerd op de toerekening van de kosten van de leiding, de algemene beheerskosten, de technische en zakelijke kosten, kosten voor onderzoek en ontwikkeling en andere soortgelijke kosten, op zichzelf geen voorwaarde is als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=9&z=2009-12-31&g=2009-12-31).
-
-##### X. Ad [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=10&z=2009-12-31&g=2009-12-31)
-
-Niettegenstaande de bepalingen van [artikel 10, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=10&z=2009-12-31&g=2009-12-31), zijn, zolang een lichaam dat inwoner is van Nederland, op grond van de Wet op de vennootschapsbelasting en toekomstige wijzigingen daarop, niet aan de Nederlandse vennootschapsbelasting wordt onderworpen ter zake van dividenden ontvangen van een lichaam dat inwoner is van Mexico, de dividenden welke zijn genoemd in dit onderdeel slechts belastbaar in die Staat waarvan de ontvanger van de dividenden inwoner is.
-
-##### XI. Ad [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=10&z=2009-12-31&g=2009-12-31), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=11&z=2009-12-31&g=2009-12-31) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=12&z=2009-12-31&g=2009-12-31)
-
-Indien aan de bron belasting is geheven die het belastingbedrag dat ingevolge de bepalingen van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=10&z=2009-12-31&g=2009-12-31),[11](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=11&z=2009-12-31&g=2009-12-31) of [12](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=12&z=2009-12-31&g=2009-12-31) mag worden geheven te boven gaat, moeten verzoeken om teruggaaf van het daarboven uitgaande belastingbedrag worden ingediend bij de bevoegde autoriteit van de Staat die de belasting heeft geheven, binnen een tijdvak van drie jaren na afloop van het kalenderjaar waarin de belasting is geheven.
-
-##### XII. Ad [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=11&z=2009-12-31&g=2009-12-31)
-
-1. Voor de toepassing van het Verdrag betekent de uitdrukking „erkende effectenbeurs”:
-
-- a. in het geval van Nederland effectenbeurzen die zijn erkend op grond van artikel 16 van de Wet Toezicht Effectenverkeer;
-
-- b. in het geval van Mexico effectenbeurzen die voldoen aan de voorwaarden van de Wet op de Effectenbeurs (Mercado de Valores) van 2 januari 1975;
-
-- c. elke andere effectenbeurs waarover de bevoegde autoriteiten van de beide Staten overeenstemming bereiken.
-
-2. Ingeval een Staat voornemens is de in [artikel 11, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=11&z=2009-12-31&g=2009-12-31), genoemde voordelen te ontzeggen in verband met het vereiste van „in wezenlijke mate en regelmatig worden verhandeld”, als genoemd in punt ii van dat onderdeel, zal zijn bevoegde autoriteit eerst overleg plegen met de bevoegde autoriteit van de andere Staat teneinde in onderlinge overeenstemming vast te stellen of de bepaling van dat onderdeel van toepassing is.
-
-3. De bepalingen van [artikel 11, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=11&z=2009-12-31&g=2009-12-31), zijn van toepassing, in geval van Nederland, op de Nederlandse Financieringsmaatschappij voor Ontwikkelingslanden N.V. en de Nederlandse Investeringsbank voor Ontwikkelingslanden N.V. en, in geval van Mexico, op de Banco Nacional de Comercio Exterior, S.N.C., Nacional Financiera, S.N.C., en Banco Nacional de Obras y Servicios, S.N.C. De bevoegde autoriteiten kunnen in onderling overleg andere agentschappen of instanties aanwijzen, waarop deze bepalingen in elk geval van toepassing zijn.
-
-4. Met betrekking tot [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=11&z=2009-12-31&g=2009-12-31), wordt verduidelijkt dat onder de uitdrukking „interest” tevens de volgende bestanddelen van het inkomen zijn begrepen:
-
-- a. commissieloon met betrekking tot geleende gelden;
-
-- b. betalingen om een lening aan te gaan of als waarborg voor geleende gelden alsmede om als steller van zekerheid op te treden;
-
-- c. betalingen verkregen uit factoringovereenkomsten;
-
-- d. inkomsten verkregen uit de vervreemding van kredieten;
-
-- e. inkomsten verkregen uit financiële instrumenten wanneer er een onderliggende schuld is;
-
-- f. inkomsten verkregen uit de vervreemding na aftrek van waardepapieren die een schuld vertegenwoordigen.
-
-##### XIII. Ad [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=11&z=2009-12-31&g=2009-12-31) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=12&z=2009-12-31&g=2009-12-31)
-
-Het is wel verstaan dat voor de toepassing van [artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=11&z=2009-12-31&g=2009-12-31), en van [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=12&z=2009-12-31&g=2009-12-31), indien een lening door het hoofdkantoor van een onderneming van een van de Staten is afgesloten en slechts een gedeelte van die lening kan worden toegerekend aan een vaste inrichting van die onderneming in de andere Staat, of indien een contract op grond waarvan royalty's worden betaald, is gesloten door het hoofdkantoor en slechts een deel van dat contract toegerekend kan worden aan de vaste inrichting, zulk een lening of contract voor dat gedeelte beschouwd wordt als een schuldvordering of een overeenkomst van de vaste inrichting.
-
-##### XIV. Ad [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=13&z=2009-12-31&g=2009-12-31)
-
-1. Voor de toepassing van [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=13&z=2009-12-31&g=2009-12-31), zijn voordelen verkregen uit de vervreemding van aandelen van een lichaam dat inwoner is van een van de Staten slechts in de andere Staat belastbaar indien:
-
-- A. de vervreemding van aandelen plaatsvindt tussen leden van dezelfde groep lichamen voor zover de door de vervreemder ontvangen beloning bestaat uit aandelen of andere rechten in het kapitaal van de verkrijger of een ander lichaam dat onmiddellijk of middellijk 80 percent of meer van de stemrechten en waarde van de verkrijger bezit en inwoner is van een van de Staten of van een land waarmee Mexico een verdrag inzake de uitgebreide uitwisseling van inlichtingen in de zin van Bijlage 10 bij de administratieve belastingvoorschriften (Resolución Miscelánea Fiscal) heeft, evenwel uitsluitend indien aan de volgende voorwaarden wordt voldaan: Niettegenstaande het voorgaande, indien de contanten of andere beloningen dan aandelen of andere rechten worden ontvangen, mag het bedrag van het voordeel (beperkt tot het bedrag aan contanten of andere beloningen dan aandelen of andere rechten die worden ontvangen) worden belast in de Staat waarvan het lichaam waarvan de aandelen worden vervreemd inwoner is.
-
-- a. de verkrijger is een lichaam dat inwoner is van een van de Staten of van een land waarmee Mexico een verdrag inzake de uitgebreide uitwisseling van inlichtingen in de zin van Bijlage 10 bij de administratieve belastingvoorschriften (Resolución Miscelánea Fiscal) heeft;
-
-- b. voor en vlak na de overdracht is de vervreemder of de verkrijger onmiddellijk of middellijk in het bezit van 80 percent of meer van de stemrechten en waarde van de ander, of een lichaam dat inwoner is van een van de Staten of van een land waarmee Mexico een verdrag inzake de uitgebreide uitwisseling van inlichtingen in de zin van Bijlage 10 bij de administratieve belastingvoorschriften (Resolución Miscelánea Fiscal) heeft, is onmiddellijk of middellijk in het bezit (via lichamen die inwoner zijn van een van deze Staten) van 80 percent of meer van de stemrechten en waarde van elk van hen; en
-
-- c. ten behoeve van het bepalen van het voordeel uit een eventuele volgende vervreemding,
-
-- i. worden de oorspronkelijke kosten van de aandelen voor de verkrijger bepaald op basis van de kosten die de vervreemder had gemaakt, vermeerderd met eventuele contanten of andere beloningen anders dan aandelen of andere betaalde rechten; of
-
-- ii. wordt het voordeel vastgesteld via een andere methode die in wezen hetzelfde resultaat oplevert.
-
-- B. de voordelen zijn verkregen door een verzekeringsmaatschappij of een erkend pensioenfonds als omschreven in [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&artikel=II&z=2009-12-31&g=2009-12-31) van het Protocol.
-
-- C. de vervreemding plaatsvindt via een erkende effectenbeurs. Echter: mag het voordeel behaald uit de vervreemding worden belast in de Staat waarvan het lichaam waarvan de aandelen worden vervreemd inwoner is.
-
-- a. wanneer een inwoner van een van de Staten middellijk of onmiddellijk in het bezit was van 10 percent of meer van de aandelen van een lichaam in de andere Staat en deze inwoner in een tijdvak van 24 maanden 10 percent of meer van de aandelen vervreemdt door middel van een of meerdere gelijktijdige of opeenvolgende transacties via een erkende effectenbeurs; of
-
-- b. wanneer de vervreemding wordt uitgevoerd binnen de erkende effectenbeurs door middel van een transactie die dergelijke inwoners verhindert een ander aanbod te aanvaarden dan die welke ontvangen worden voor en gedurende het tijdvak waarin de vervreemding plaatsvindt,
-
-2. De uitdrukking „erkende effectenbeurs” zoals genoemd in onderdeel C van het eerste lid van dit artikel heeft de betekenis zoals omschreven in [artikel XII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&artikel=XII&z=2009-12-31&g=2009-12-31), van het Protocol.
-
-TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Verdrag hebben ondertekend.
-
-GEDAAN te 's-Gravenhage, de 27 september 1993, in tweevoud in de Nederlandse en de Spaanse taal, zijnde de twee teksten gelijkelijk authentiek.
-
-**Voor de Regering van het Koninkrijk der Nederlanden,**
-
-(w.g.) R. F. M. LUBBERS
-
-(w.g.) M. J. J. VAN AMELSVOORT
-
-**Voor de Regering van de Verenigde Mexicaanse Staten,**
-
-(w.g.) F. SOLANA-MORALES
-
-### HOOFDSTUK VI. SLOTBEPALINGEN
-
 ##### Artikel 30. Beëindiging
 
 Dit Verdrag blijft van kracht totdat zij door een van de Verdragsluitende Partijen wordt beëindigd. Elk van de Partijen kan het Verdrag langs diplomatieke weg beëindigen door ten minste zes maanden voor het einde van enig kalenderjaar na het verstrijken van een periode van vijf jaren na de datum van inwerkingtreding van het Verdrag kennis te geven van de beëindiging. In dat geval houdt het Verdrag op van toepassing te zijn voor belastingjaren en -tijdvakken die aanvangen na het einde van het kalenderjaar waarin kennis van de beëindiging is gegeven.
 
-##### XV. Ad [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=16&z=2009-12-31&g=2009-12-31)
-
-Het is wel verstaan dat met „bestuurder” of „commissaris”, in geval van Nederland, of „administrador” of „comisario”, in geval van Mexico, personen zijn bedoeld die als zodanig zijn benoemd door de algemene vergadering van aandeelhouders of door enig ander bevoegd orgaan van het lichaam en die belast zijn met de algemene leiding van het lichaam, onderscheidenlijk met het toezicht daarop.
-
-##### XVI. Ad [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=19&z=2009-12-31&g=2009-12-31)
-
-Het is wel verstaan dat de bepalingen van [artikel 19, eerste lid, onderdeel a, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=III&artikel=19&z=2009-12-31&g=2009-12-31), Nederland niet beletten de bepalingen van [artikel 22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=IV&artikel=22&z=2009-12-31&g=2009-12-31), toe te passen.
-
-##### XVII. Ad [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=V&artikel=24&z=2009-12-31&g=2009-12-31)
-
-Indien na 11 oktober 2007, in een Verdrag tot het vermijden van dubbele belasting gesloten tussen Mexico en een derde Staat, Mexico instemt met een bepaling inzake arbitrage die in wezen gelijk is aan de bepaling inzake arbitrage in het OESO-modelverdrag inzake belastingen, is een dergelijke bepaling automatisch van toepassing tussen Nederland en Mexico vanaf de datum waarop het Verdrag tussen Mexico en de derde Staat in werking treedt.
-
-##### XVIII. Ad [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=V&artikel=23&z=2009-12-31&g=2009-12-31)
-
-Het is wel verstaan dat de bepalingen van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=V&artikel=25&z=2009-12-31&g=2009-12-31) van dit Verdrag een „overeenkomst voor een brede uitwisseling van informatie” vormen met het oog op het doen van een geconsolideerde belastingaangifte in overeenstemming met de bepalingen van de Mexicaanse wet op de inkomstenbelasting. In dit verband is het wel verstaan dat een lichaam dat inwoner van Mexico is en waarvan het kapitaal geheel of hoofdzakelijk in handen is van inwoners van Nederland, gerechtigd is in Mexico de bepalingen inzake fiscale consolidatie toe te passen met betrekking tot zijn gelieerde ondernemingen die in Mexico gevestigd zijn, in gelijke mate als, in overeenstemming met de Mexicaanse wetgeving, een lichaam dat inwoner van Mexico is en waarvan het kapitaal geheel of hoofdzakelijk in handen is van inwoners van Mexico, gerechtigd is tot die bepalingen.
-
-##### XIX. Ad [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=V&artikel=25&z=2009-12-31&g=2009-12-31)
-
-De bevoegde autoriteiten kunnen door middel van een Memorandum van Overeenstemming de reikwijdte van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0001142&hoofdstuk=V&artikel=25&z=2009-12-31&g=2009-12-31) van het Verdrag uitbreiden tot inkomensgerelateerde regelingen.
-
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Verdrag hebben ondertekend.
 
 GEDAAN te 's-Gravenhage, de 27 september 1993, in tweevoud in de Nederlandse en de Spaanse taal, zijnde de twee teksten gelijkelijk authentiek.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 (w.g.) R. F. M. LUBBERS
 
 (w.g.) M. J. J. VAN AMELSVOORT
 
-**Voor de Regering van de Verenigde Mexicaanse Staten,**
+*Voor de Regering van de Verenigde Mexicaanse Staten,*
 
 (w.g.) F. SOLANA-MORALES

@@ -1,56 +1,31 @@
 ---
 title: "Protocol bij het Noord-Atlantisch Verdrag betreffende de toetreding van de Tsjechische Republiek"
 identifier: "BWBV0001362"
-country: "nl"
-rank: "verdrag"
-publication_date: "1998-12-04"
-last_updated: "1998-12-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001362"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000341883"
-version_id: "10000368292"
-internal_id: "C10006989601"
-label_id: "10000341954"
-original_entry_into_force: "1998-12-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001362/1998-12-04/0"
-intitule_bron: "Trb.1998-82"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-12-04"
-intitule_published: "1998-04-23"
-intitule_in_force: "1998-12-24"
-intitule_status: "goed"
-original_publication: "Trb.1998-82"
-original_signed_date: "1998-12-04"
-original_published_date: "1998-04-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1998-82"
-entry_into_force_date: "1998-12-04"
-jci_1_3: "jci1.3:c:BWBV0001362&z=1998-12-04&g=1998-12-04"
-jci_1_0: "1.0:c:BWBV0001362&g=1998-12-04"
-citeertitel_status: "officieel"
-signed_date: "1998-12-04"
-entry_into_force: "1998-12-04"
+publicatiedatum: 1998-12-04
+laatste_update: 1998-12-04
+status: geldig
+toestand: 1998-12-04
+bron: "https://wetten.overheid.nl/BWBV0001362"
+opgehaald: 2026-09-11
 ---
+
 # Protocol bij het Noord-Atlantisch Verdrag betreffende de toetreding van de Tsjechische Republiek
 
-De Partijen bij het op 4 april 1949 te Washington ondertekende [Noord-Atlantisch Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005760),
+*The Parties to the North Atlantic Treaty, signed at Washington on April 4, 1949, Being satisfied that the security of the North Atlantic area will be enhanced by the accession of the Czech Republic to that Treaty, Agree as follows:*
 
-Ervan overtuigd dat de veiligheid van het Noord-Atlantisch gebied door de toetreding van de Tsjechische Republiek tot dat Verdrag verhoogd zal worden,
+##### Article I
 
-Komen als volgt overeen:
+Upon the entry into force of this Protocol, the Secretary General of the North Atlantic Treaty Organization shall, on behalf of all the Parties, communicate to the Government of the Czech Republic an invitation to accede to the [North Atlantic Treaty](https://wetten.overheid.nl/jci1.3:c:BWBV0005760). In accordance with [Article 10 of the Treaty](https://wetten.overheid.nl/jci1.3:c:BWBV0005760&artikel=10), the Czech Republic shall become a Party on the date when it deposits its instrument of accession with the Government of the United States of America.
 
-##### Artikel I
+##### Article II
 
-Bij de inwerkingtreding van dit Protocol zal de Secretaris-Generaal van de Noord-Atlantische Verdragsorganisatie uit naam van alle Partijen aan de Regering van de Tsjechische Republiek een uitnodiging doen toekomen, tot het [Noord-Atlantisch Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005760) toe te treden. In overeenstemming met [artikel 10 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005760&artikel=10) wordt de Tsjechische Republiek partij op de dag waarop zij een akte van toetreding nederlegt bij de Regering van de Verenigde Staten van Amerika.
+The present Protocol shall enter into force when each of the Parties to the [North Atlantic Treaty](https://wetten.overheid.nl/jci1.3:c:BWBV0005760) has notified the Government of the United States of America of its acceptance thereof. The Government of the United States of America shall inform all the Parties to the North Atlantic Treaty of the date of receipt of each such notification and of the date of the entry into force of the present Protocol.
 
-##### Artikel II
+##### Article III
 
-Dit Protocol treedt in werking wanneer elk der Partijen bij het [Noord-Atlantisch Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005760) aan de Regering van de Verenigde Staten van Amerika mededeling heeft gedaan dat zij het Protocol aanvaardt. De Regering van de Verenigde Staten van Amerika stelt alle Partijen bij het Noord-Atlantisch Verdrag in kennis van de datum van ontvangst van iedere mededeling van aanvaarding en van de datum van inwerkingtreding van dit Protocol.
-
-##### Artikel III
-
-Dit Protocol, waarvan de Engelse en de Franse tekst gelijkelijk authentiek zijn, wordt in het archief van de Regering van de Verenigde Staten van Amerika nedergelegd. Behoorlijk gewaarmerkte afschriften worden door die Regering aan de Regeringen van alle Partijen bij het [Noord-Atlantisch Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005760) toegezonden.
+The present Protocol, of which the English and French texts are equally authentic, shall be deposited in the archives of the Government of the United States of America. Duly certified copies thereof shall be transmitted by that Government to the Governments of all the Parties to the [North Atlantic Treaty](https://wetten.overheid.nl/jci1.3:c:BWBV0005760).
 
 IN WITNESS WHEREOF, the undersigned plenipotentiaries have signed the present Protocol.
 

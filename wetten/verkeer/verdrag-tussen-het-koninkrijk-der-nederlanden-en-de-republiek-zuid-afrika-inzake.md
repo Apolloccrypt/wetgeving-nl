@@ -1,44 +1,18 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Zuid-Afrika inzake scheepvaart"
 identifier: "BWBV0001213"
-country: "nl"
-rank: "verdrag"
-publication_date: "1995-04-21"
-last_updated: "1995-04-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001213"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10001832363"
-version_id: "10001920572"
-internal_id: "C10006988851"
-label_id: "10001832604"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001213/1995-04-21/0"
-intitule_bron: "Trb.1995-183"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-03-07"
-intitule_published: "1995-07-26"
-intitule_status: "nogniet"
-original_publication: "Trb.1995-183"
-original_signed_date: "1996-03-07"
-original_published_date: "1995-07-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1995-183"
-jci_1_3: "jci1.3:c:BWBV0001213&z=1995-04-21&g=1995-04-21"
-jci_1_0: "1.0:c:BWBV0001213&g=1995-04-21"
-citeertitel_status: "redactioneel"
-signed_date: "1996-03-07"
-entry_into_force: "1995-07-26"
+laatste_update: 1995-04-21
+status: geldig
+toestand: 1995-04-21
+bron: "https://wetten.overheid.nl/BWBV0001213"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Zuid-Afrika inzake scheepvaart
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van de Republiek Zuid-Afrika,
-
-hierna te noemen de Verdragsluitende Partijen, met het oog op de verdere ontwikkeling van de vriendschappelijke betrekkingen tussen het Koninkrijk der Nederlanden en de Regering van de Republiek Zuid-Afrika en de versterking van de samenwerking op het gebied van de scheepvaart, overeenkomstig de beginselen van soevereine gelijkheid en wederzijds voordeel, komen het volgende overeen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Zuid-Afrika, hierna te noemen de Verdragsluitende Partijen, met het oog op de verdere ontwikkeling van de vriendschappelijke betrekkingen tussen het Koninkrijk der Nederlanden en de Regering van de Republiek Zuid-Afrika en de versterking van de samenwerking op het gebied van de scheepvaart, overeenkomstig de beginselen van soevereine gelijkheid en wederzijds voordeel, komen het volgende overeen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -190,10 +164,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun 
 
 GEDAAN te Pretoria op 21 april 1995.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) E. ROËLL
 
-**Voor de Regering van de Republiek Zuid-Afrika**
+*Voor de Regering van de Republiek Zuid-Afrika*
 
 (w.g.) M. MAHARAJ

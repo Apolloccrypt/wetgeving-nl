@@ -1,52 +1,19 @@
 ---
 title: "Overeenkomst opgesteld op basis van Artikel K.3, lid 2, onder c), van het Verdrag betreffende de Europese Unie ter bestrijding van corruptie waarbij ambtenaren van de Europese Gemeenschappen of van de lidstaten van de Europese Unie betrokken zijn"
 identifier: "BWBV0001526"
-country: "nl"
-rank: "verdrag"
-publication_date: "2005-09-28"
-last_updated: "1997-05-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001526"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000387383"
-version_id: "10000395542"
-internal_id: "C10006989761"
-label_id: "10000387564"
-original_entry_into_force: "2005-09-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001526/2005-09-28/0"
-intitule_bron: "Trb.1997-249"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-03-28"
-intitule_published: "1997-09-11"
-intitule_in_force: "2005-12-30"
-intitule_status: "goed"
-original_publication: "Trb.1997-249"
-original_signed_date: "2002-03-28"
-original_published_date: "1997-09-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1997-249"
-entry_into_force_date: "2005-09-28"
-jci_1_3: "jci1.3:c:BWBV0001526&z=2005-09-28&g=2005-09-28"
-jci_1_0: "1.0:c:BWBV0001526&g=2005-09-28"
-citeertitel_status: "officieel"
-signed_date: "2002-03-28"
-entry_into_force: "2005-09-28"
+publicatiedatum: 2005-09-28
+laatste_update: 2005-09-28
+status: geldig
+toestand: 2005-09-28
+bron: "https://wetten.overheid.nl/BWBV0001526"
+opgehaald: 2026-09-11
 ---
+
 # Overeenkomst opgesteld op basis van Artikel K.3, lid 2, onder c), van het Verdrag betreffende de Europese Unie ter bestrijding van corruptie waarbij ambtenaren van de Europese Gemeenschappen of van de lidstaten van de Europese Unie betrokken zijn
 
-De Hoge Verdragsluitende Partijen bij deze Overeenkomst, lidstaten van de Europese Unie,
-
-Verwijzend naar de akte van de Raad van de Europese Unie van 26 mei 1997,
-
-Overwegende dat de lidstaten de verbetering van de justitiële samenwerking bij de bestrijding van corruptie als een aangelegenheid van gemeenschappelijk belang beschouwen, die valt onder de bij [titel VI van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&titeldeel=VI) ingestelde samenwerking;
-
-Overwegende dat de Raad bij de akte van 27 september 1996 een Protocol heeft opgesteld in het bijzonder ter bestrijding van daden van corruptie die de financiële belangen van de Europese Gemeenschappen schaden of kunnen schaden en waarbij nationale ambtenaren of ambtenaren van de Europese Gemeenschappen betrokken zijn;
-
-Overwegende dat, ter verbetering van de justitiële samenwerking in strafzaken tussen de lidstaten, verder moet worden gegaan dan het bovengenoemd Protocol door een Overeenkomst op te stellen betreffende daden van corruptie in het algemeen waarbij ambtenaren van de Europese Gemeenschappen of ambtenaren van de lidstaten betrokken zijn,
-
-Strevend naar een samenhangende en doeltreffende toepassing van de onderhavige Overeenkomst op het gehele grondgebied van de Europese Unie,
-
-Hebben overeenstemming bereikt omtrent de volgende bepalingen:
+*De Hoge Verdragsluitende Partijen bij deze Overeenkomst, lidstaten van de Europese Unie, Verwijzend naar de akte van de Raad van de Europese Unie van 26 mei 1997, Overwegende dat de lidstaten de verbetering van de justitiële samenwerking bij de bestrijding van corruptie als een aangelegenheid van gemeenschappelijk belang beschouwen, die valt onder de bij titel VI van het Verdrag ingestelde samenwerking; Overwegende dat de Raad bij de akte van 27 september 1996 een Protocol heeft opgesteld in het bijzonder ter bestrijding van daden van corruptie die de financiële belangen van de Europese Gemeenschappen schaden of kunnen schaden en waarbij nationale ambtenaren of ambtenaren van de Europese Gemeenschappen betrokken zijn; Overwegende dat, ter verbetering van de justitiële samenwerking in strafzaken tussen de lidstaten, verder moet worden gegaan dan het bovengenoemd Protocol door een Overeenkomst op te stellen betreffende daden van corruptie in het algemeen waarbij ambtenaren van de Europese Gemeenschappen of ambtenaren van de lidstaten betrokken zijn, Strevend naar een samenhangende en doeltreffende toepassing van de onderhavige Overeenkomst op het gehele grondgebied van de Europese Unie, Hebben overeenstemming bereikt omtrent de volgende bepalingen:*
 
 ##### Artikel 1. Definities
 
@@ -56,9 +23,9 @@ Voor de toepassing van deze Overeenkomst
 
 - b. wordt onder „communautair ambtenaar” verstaan: De leden van organen die overeenkomstig de Verdragen tot oprichting van de Europese Gemeenschappen zijn ingesteld en het personeel van dergelijke organen worden behandeld als ambtenaren van de Europese Gemeenschappen, voorzover het Statuut van de ambtenaren van de Europese Gemeenschappen of de Regeling welke van toepassing is op de andere personeelsleden van de Europese Gemeenschappen niet op hen van toepassing zijn;
 
-- –. een ieder die bij overeenkomst is aangesteld in de hoedanigheid van ambtenaar of ander personeelslid in de zin van het Statuut van de ambtenaren van de Europese Gemeenschappen of van de Regeling welke van toepassing is op de andere personeelsleden van de Europese Gemeenschappen;
+   - – een ieder die bij overeenkomst is aangesteld in de hoedanigheid van ambtenaar of ander personeelslid in de zin van het Statuut van de ambtenaren van de Europese Gemeenschappen of van de Regeling welke van toepassing is op de andere personeelsleden van de Europese Gemeenschappen;
 
-- –. een ieder die door de lidstaten of door een overheids- of particuliere instelling ter beschikking van de Europese Gemeenschappen is gesteld om daar functies uit te oefenen die overeenstemmen met de functies die worden uitgeoefend door ambtenaren of andere personeelsleden van de Europese Gemeenschappen.
+   - – een ieder die door de lidstaten of door een overheids- of particuliere instelling ter beschikking van de Europese Gemeenschappen is gesteld om daar functies uit te oefenen die overeenstemmen met de functies die worden uitgeoefend door ambtenaren of andere personeelsleden van de Europese Gemeenschappen.
 
 - c. wordt de term „nationaal ambtenaar” uitgelegd overeenkomstig de definitie van „ambtenaar” of „overheidspersoon” in de zin van het nationaal recht van de lidstaat waar de betrokkene die hoedanigheid heeft voor de toepassing van zijn strafrecht. Wanneer evenwel door een lidstaat strafvervolging wordt ingesteld waarbij een ambtenaar van een andere lidstaat is betrokken, is eerstgenoemde lidstaat slechts gehouden de definitie van „nationaal ambtenaar” toe te passen voorzover die verenigbaar is met zijn nationaal recht.
 
@@ -82,7 +49,7 @@ Voor de toepassing van deze Overeenkomst
 
 3. De leden 1 en 2 zijn van toepassing onverminderd de bepalingen betreffende de strafvordering en de vaststelling van de rechterlijke bevoegdheid die van toepassing zijn in de afzonderlijke lidstaten.
 
-4. Deze Overeenkomst is van toepassing onverminderd de bepalingen van de Verdragen tot oprichting van de Europese Gemeenschappen, het[Protocol betreffende de voorrechten en immuniteiten van de Europese Gemeenschappen](onbekend), het [Statuut van het Hof van Justitie](onbekend), alsmede de uitvoeringsbesluiten betreffende de opheffing van de immuniteiten.
+4. Deze Overeenkomst is van toepassing onverminderd de bepalingen van de Verdragen tot oprichting van de Europese Gemeenschappen, het[Protocol betreffende de voorrechten en immuniteiten van de Europese Gemeenschappen](https://wetten.overheid.nl/BWBV0001507), het [Statuut van het Hof van Justitie](https://wetten.overheid.nl/BWBV0001507), alsmede de uitvoeringsbesluiten betreffende de opheffing van de immuniteiten.
 
 ##### Artikel 5. Sancties
 

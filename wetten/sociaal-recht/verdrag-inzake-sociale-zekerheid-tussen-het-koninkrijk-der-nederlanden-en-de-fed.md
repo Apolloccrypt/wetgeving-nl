@@ -1,50 +1,20 @@
 ---
 title: "Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en de Federatieve Republiek Brazilië"
 identifier: "BWBV0001477"
-country: "nl"
-rank: "verdrag"
-publication_date: "2002-03-07"
-last_updated: "2002-03-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001477"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10001469863"
-version_id: "10001548282"
-internal_id: "C10006993741"
-label_id: "10001470304"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001477/2002-03-07/0"
-intitule_bron: "Trb.2002-79"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-05-01"
-intitule_published: "2002-04-17"
-intitule_status: "nogniet"
-original_publication: "Trb.2002-79"
-original_signed_date: "2001-05-01"
-original_published_date: "2002-04-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2002-79"
-jci_1_3: "jci1.3:c:BWBV0001477&z=2002-03-07&g=2002-03-07"
-jci_1_0: "1.0:c:BWBV0001477&g=2002-03-07"
-citeertitel_status: "redactioneel"
-signed_date: "2001-05-01"
-entry_into_force: "2002-04-17"
+laatste_update: 2002-03-07
+status: geldig
+toestand: 2002-03-07
+bron: "https://wetten.overheid.nl/BWBV0001477"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en de Federatieve Republiek Brazilië
 
-Het Koninkrijk der Nederlanden
+*Het Koninkrijk der Nederlanden en de Federatieve Republiek Brazilië, hierna te noemen de Verdragsluitende Partijen, Geleid door de wens bepalingen vast te stellen die de betrekkingen tussen de twee landen op het gebied van sociale zekerheid regelen, Vastbesloten een Verdrag inzake sociale zekerheid te sluiten onder de hierna bepaalde voorwaarden:*
 
-en
-
-de Federatieve Republiek Brazilië,
-
-hierna te noemen de Verdragsluitende Partijen,
-
-Geleid door de wens bepalingen vast te stellen die de betrekkingen tussen de twee landen op het gebied van sociale zekerheid regelen,
-
-Vastbesloten een Verdrag inzake sociale zekerheid te sluiten onder de hierna bepaalde voorwaarden:
-
-## TITEL I. ALGEMENE BEPALINGEN
+### TITEL I. ALGEMENE BEPALINGEN
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -54,27 +24,27 @@ Vastbesloten een Verdrag inzake sociale zekerheid te sluiten onder de hierna bep
 
 - b. Onder „bevoegde autoriteit " wordt verstaan:
 
-- –. in de Federatieve Republiek Brazilië: de Minister van Sociale Zekerheid en Sociale Bijstand;
+   - – in de Federatieve Republiek Brazilië: de Minister van Sociale Zekerheid en Sociale Bijstand;
 
-- –. in het Koninkrijk der Nederlanden: de Minister van Sociale Zaken en Werkgelegenheid;
+   - – in het Koninkrijk der Nederlanden: de Minister van Sociale Zaken en Werkgelegenheid;
 
 - c. Onder „bevoegd ministerie" wordt verstaan: het orgaan dat verantwoordelijk is voor de formulering van het Verdrag in overeenstemming met zijn wetgeving:
 
-- –. in de Federatieve Republiek Brazilië: het Ministerie van Sociale Zekerheid en Sociale Bijstand;
+   - – in de Federatieve Republiek Brazilië: het Ministerie van Sociale Zekerheid en Sociale Bijstand;
 
-- –. in het Koninkrijk der Nederlanden: het Ministerie van Sociale Zaken en Werkgelegenheid;
+   - – in het Koninkrijk der Nederlanden: het Ministerie van Sociale Zaken en Werkgelegenheid;
 
 - d. Onder „bevoegd orgaan" wordt verstaan: het orgaan dat verantwoordelijk is voor de uitvoering van de wetgeving van de Verdragsluitende Partij:
 
-- –. in de Federatieve Republiek Brazilië: het Nationale Instituut voor de Sociale Zekerheid – INSS;
+   - – in de Federatieve Republiek Brazilië: het Nationale Instituut voor de Sociale Zekerheid – INSS;
 
-- –. in het Koninkrijk der Nederlanden: het Uitvoeringsinstituut Werknemersverzekeringen met betrekking tot de in artikel 2, sub-paragraaf B, onder a, b en c bedoelde wetgeving; en Sociale Verzekeringsbank met betrekking tot de in artikel 2, sub-paragraaf B, onder d, e en f bedoelde wetgeving;
+   - – in het Koninkrijk der Nederlanden: het Uitvoeringsinstituut Werknemersverzekeringen met betrekking tot de in artikel 2, sub-paragraaf B, onder a, b en c bedoelde wetgeving; en Sociale Verzekeringsbank met betrekking tot de in artikel 2, sub-paragraaf B, onder d, e en f bedoelde wetgeving;
 
 - e. Onder „verbindingsorgaan" wordt verstaan: het orgaan dat verantwoordelijk is voor het informeren van de betrokken Verdragsluitende Partijen, alsmede voor de documenten- en berichtenstroom tussen de Verdragsluitende Partijen:
 
-- –. in de Federatieve Republiek Brazilië: het Nationale Instituut voor Sociale Zekerheid - INSS;
+   - – in de Federatieve Republiek Brazilië: het Nationale Instituut voor Sociale Zekerheid - INSS;
 
-- –. in het Koninkrijk der Nederlanden: het Uitvoeringsinstituut Werknemersverzekeringen met betrekking tot de in artikel 2, sub-paragraaf B, onder a, b en c bedoelde wetgeving; en de Sociale Verzekeringsbank met betrekking tot de in artikel 2, sub-paragraaf B, onder d, e en f bedoelde wetgeving, en met betrekking tot de administratie van ingevolge artikel 8 en artikel 12 gedetacheerde werknemers;
+   - – in het Koninkrijk der Nederlanden: het Uitvoeringsinstituut Werknemersverzekeringen met betrekking tot de in artikel 2, sub-paragraaf B, onder a, b en c bedoelde wetgeving; en de Sociale Verzekeringsbank met betrekking tot de in artikel 2, sub-paragraaf B, onder d, e en f bedoelde wetgeving, en met betrekking tot de administratie van ingevolge artikel 8 en artikel 12 gedetacheerde werknemers;
 
 - f. Onder „rechthebbende" wordt voor de toepassing van dit Verdrag verstaan: een persoon die sociale zekerheid geniet, de verzekerde of een gezinslid als zodanig omschreven in de toepasselijke wetgeving van elke Verdragsluitende Partij bij dit Verdrag;
 
@@ -90,31 +60,31 @@ Dit Verdrag is van toepassing:
 
 - A. – In de Federatieve Republiek Brazilië, op de wetgeving van het Algemene Regiem van Sociale Zekerheid met betrekking tot de volgende uitkeringen:
 
-- a. uittreding vanwege: arbeidsongeschiktheid; leeftijd; jaren van betaling van premie of bijdrage (dienstjaren);
+   - a. uittreding vanwege: arbeidsongeschiktheid; leeftijd; jaren van betaling van premie of bijdrage (dienstjaren);
 
-- b. uitkeringen wegens overlijden;
+   - b. uitkeringen wegens overlijden;
 
-- c. ziekte-uitkeringen;
+   - c. ziekte-uitkeringen;
 
-- d. gezinstoelage;
+   - d. gezinstoelage;
 
-- e. moederschapstoelage.
+   - e. moederschapstoelage.
 
 - B. – In het Koninkrijk der Nederlanden, op de Nederlandse wetgeving inzake de volgende takken van sociale zekerheid:
 
-- a. ziekte-uitkeringen (uitkeringen bij ziekte en moederschap);
+   - a. ziekte-uitkeringen (uitkeringen bij ziekte en moederschap);
 
-- b. arbeidsongeschiktheidsuitkeringen voor werknemers;
+   - b. arbeidsongeschiktheidsuitkeringen voor werknemers;
 
-- c. arbeidsongeschiktheidsuitkeringen voor zelfstandigen;
+   - c. arbeidsongeschiktheidsuitkeringen voor zelfstandigen;
 
-- d. ouderdomspensioenen;
+   - d. ouderdomspensioenen;
 
-- e. nabestaandenpensioenen;
+   - e. nabestaandenpensioenen;
 
-- f. kinderbijslagen; en voor de toepassing van Titel II van het Verdrag tevens de wetgeving inzake:
+   - f. kinderbijslagen; en voor de toepassing van Titel II van het Verdrag tevens de wetgeving inzake:
 
-- g. werkloosheidsuitkeringen.
+   - g. werkloosheidsuitkeringen.
 
 ##### Artikel 3. Personele werkingssfeer
 
@@ -134,7 +104,7 @@ De volgende personen die wonen op het grondgebied van een Verdragsluitende Parti
 
 Bepalingen van de wetgeving die uitsluitend omdat de rechthebbende of een lid van zijn gezin buiten het grondgebied van een Verdragsluitende Partij woont of verblijft, betaling van uitkeringen beperken, zijn niet van toepassing indien de rechthebbende of dit gezinslid woont of verblijft op het grondgebied van de andere Verdragsluitende Partij.
 
-## TITEL II. REGELINGEN INZAKE TOEPASSELIJKE WETGEVING
+### TITEL II. REGELINGEN INZAKE TOEPASSELIJKE WETGEVING
 
 ### HOOFDSTUK I
 
@@ -184,7 +154,7 @@ Een persoon die als werknemer werkzaam is aan boord van een schip en op het gron
 
 De bevoegde autoriteiten van beide Verdragsluitende Partijen of de door de bevoegde autoriteiten aangewezen lichamen kunnen ten behoeve van de betrokkenen uitzonderingen op de bepalingen van de artikelen 6 tot en met 11 overeenkomen.
 
-## TITEL III. UITKERINGEN
+### TITEL III. UITKERINGEN
 
 ### HOOFDSTUK I. BEPALINGEN INZAKE BRAZILIË
 
@@ -218,7 +188,7 @@ Indien de wetgeving van Brazilië vereist dat voor het toekennen van het recht o
 
 3. Het bevoegde orgaan van Nederland stelt de arbeidsongeschiktheidsuitkering rechtstreeks en uitsluitend vast op basis van de Nederlandse Wet op de Arbeidsongeschiktheidsverzekering of de Nederlandse Wet Arbeidsongeschiktheidsverzekering Zelfstandigen.
 
-## TITEL IV. HANDHAVING
+### TITEL IV. HANDHAVING
 
 ##### Artikel 17. Verificatie van aanvragen en betalingen
 
@@ -256,7 +226,7 @@ Het bevoegde orgaan van een Verdragsluitende Staat kan, binnen de grenzen van zi
 
 2. Het desbetreffende bevoegde orgaan identificeert de aanvrager, de rechthebbende of het lid van zijn gezin op basis van het officiële identiteitsbewijs. Het bevoegde orgaan stelt het bevoegde orgaan van de andere Verdragsluitende Partij door een gewaarmerkte kopie van het officiële identiteitsbewijs toe te zenden ervan in kennis dat de identiteit van de aanvrager, de rechthebbende of het lid van zijn gezin is geverifieerd.
 
-## TITEL V. OVERIGE BEPALINGEN, OVERGANGS- EN SLOTBEPALINGEN
+### TITEL V. OVERIGE BEPALINGEN, OVERGANGS- EN SLOTBEPALINGEN
 
 ### HOOFDSTUK I
 
@@ -348,11 +318,11 @@ TEN BLIJKE waarvan de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN te Brasília op 7 maart 2002, in tweevoud, in de Nederlandse en de Portugese taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) G. YBEMA
 
-**Voor de Federatieve Republiek Brazilië**
+*Voor de Federatieve Republiek Brazilië*
 
 (w.g.) CELSO LAFER
 

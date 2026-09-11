@@ -1,53 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Wereldgezondheidsorganisatie inzake de Eenheid in Bilthoven van het Regionaal Bureau voor Europa van de Wereldgezondheidsorganisatie"
 identifier: "BWBV0001157"
-country: "nl"
-rank: "verdrag"
-publication_date: "1994-12-22"
-last_updated: "1994-12-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001157"
+categorie: "Gezondheidszorg"
 soort: "verdrag"
-stam_id: "10001640773"
-version_id: "10001718932"
-internal_id: "C10006986421"
-label_id: "10001640974"
-dtd_version: "2.0"
-original_entry_into_force: "1994-12-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001157/1994-12-22/0"
-intitule_bron: "Trb.1994-219"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-12-22"
-intitule_published: "1994-10-17"
-intitule_in_force: "1995-01-25"
-intitule_status: "goed"
-original_publication: "Trb.1994-219"
-original_signed_date: "1994-12-22"
-original_published_date: "1994-10-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1994-219"
-entry_into_force_date: "1994-12-22"
-jci_1_3: "jci1.3:c:BWBV0001157&z=1994-12-22&g=1994-12-22"
-jci_1_0: "1.0:c:BWBV0001157&g=1994-12-22"
-citeertitel_status: "redactioneel"
-signed_date: "1994-12-22"
-entry_into_force: "1994-12-22"
+publicatiedatum: 1994-12-22
+laatste_update: 1994-12-22
+status: geldig
+toestand: 1994-12-22
+bron: "https://wetten.overheid.nl/BWBV0001157"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Wereldgezondheidsorganisatie inzake de Eenheid in Bilthoven van het Regionaal Bureau voor Europa van de Wereldgezondheidsorganisatie
 
-The Government of the Kingdom of the Netherlands and
-
-The World Health Organization (hereinafter referred to as the "Contracting Parties"),
-
-Considering the Agreement between the Government of the Netherlands and the World Health Organization of 13 June 19901)[Red.: De tekst van dit Verdrag ligt ter inzage op de Directie Verdragen van het Ministerie van Buitenlandse Zaken.],
-
-Taking into account that the Agreement provides for the establishment of a Unit of the Regional Office for Europe of the World Health Organization, at Bilthoven, the Netherlands,
-
-Bearing in mind that Article VI of the aforesaid Agreement provides that the legal status, privileges and immunities of the Unit shall be governed by the Convention on the Privileges and Immunities of the Specialized Agencies, and Annex VII, adopted by the First World Health Assembly on 17 July 1948, and that individual or specific privileges, not covered by this Convention, make further provisions necessary;
-
-Desiring, therefore, to conclude an Agreement for the purpose of determining such individual or specific privileges to be granted by the Government of the Kingdom of the Netherlands with respect to the Unit of the Regional Office for Europe of the WHO;
-
-Have agreed as follows:
+*The Government of the Kingdom of the Netherlands and The World Health Organization (hereinafter referred to as the "Contracting Parties"), Considering the Agreement between the Government of the Netherlands and the World Health Organization of 13 June 19901)[Red.: De tekst van dit Verdrag ligt ter inzage op de Directie Verdragen van het Ministerie van Buitenlandse Zaken.], Taking into account that the Agreement provides for the establishment of a Unit of the Regional Office for Europe of the World Health Organization, at Bilthoven, the Netherlands, Bearing in mind that Article VI of the aforesaid Agreement provides that the legal status, privileges and immunities of the Unit shall be governed by the Convention on the Privileges and Immunities of the Specialized Agencies, and Annex VII, adopted by the First World Health Assembly on 17 July 1948, and that individual or specific privileges, not covered by this Convention, make further provisions necessary; Desiring, therefore, to conclude an Agreement for the purpose of determining such individual or specific privileges to be granted by the Government of the Kingdom of the Netherlands with respect to the Unit of the Regional Office for Europe of the WHO; Have agreed as follows:*
 
 ##### Article 1. Definitions
 
@@ -107,17 +73,17 @@ With respect to section 10 of the Convention, the following shall also apply:
 
 - 1. In respect of taxes and duties the Unit shall:
 
-- a). enjoy exemption from stock-exchange tax, insurance tax and tax on capital duty;
+   - a) enjoy exemption from stock-exchange tax, insurance tax and tax on capital duty;
 
-- b). be granted exemption from motor vehicle tax in respect of its motor vehicles used for its official activities. In order to apply this exemption the Unit shall file a request for each purchase to which this exemption is applicable;
+   - b) be granted exemption from motor vehicle tax in respect of its motor vehicles used for its official activities. In order to apply this exemption the Unit shall file a request for each purchase to which this exemption is applicable;
 
-- c). be exempt from value-added tax paid on any goods, including motor vehicles, or services of substantial value, which are necessary for its official activities. Such claims for exemption will be made only in respect of goods or services supplied on a recurring basis or involving considerable expenditure;
+   - c) be exempt from value-added tax paid on any goods, including motor vehicles, or services of substantial value, which are necessary for its official activities. Such claims for exemption will be made only in respect of goods or services supplied on a recurring basis or involving considerable expenditure;
 
-- d). be exempt from excise duty included in the price of alcoholic beverages and hydrocarbons such as fuel oils and motor fuels purchased by the Unit and necessary for its official activities;
+   - d) be exempt from excise duty included in the price of alcoholic beverages and hydrocarbons such as fuel oils and motor fuels purchased by the Unit and necessary for its official activities;
 
-- e). enjoy exemption from real property-transfer tax for the obtainment of the accommodation of the premises of the Unit provided that the activities performed from this real property are within the scope of the official functions of the Unit;
+   - e) enjoy exemption from real property-transfer tax for the obtainment of the accommodation of the premises of the Unit provided that the activities performed from this real property are within the scope of the official functions of the Unit;
 
-- f). be exempt from the Tax on Private Passenger Vehicles and Motorcycles (Belasting van personenauto's en motorrijwielen, BPM) with respect to motor vehicles for its official activities.
+   - f) be exempt from the Tax on Private Passenger Vehicles and Motorcycles (Belasting van personenauto's en motorrijwielen, BPM) with respect to motor vehicles for its official activities.
 
 - 2. The exemptions provided for in sub-paragraphs c and d above may be granted by way of a refund. The exemptions provided for in paragraph 1 shall apply in accordance with the regulations in force.
 
@@ -131,21 +97,21 @@ With respect to section 13(a) of the Convention, the immunity of representatives
 
 1. With respect to section 19 of the Convention, the following shall also apply:
 
-- a). the immunity referred to in paragraph (a) thereof shall apply, even after staff members have left the service of the Unit. This immunity shall not apply in case of a motor-traffic offence committed by a staff member nor in the case of a civil action by a third party for damage arising from an accident caused by a motor vehicle belonging to or driven by him or her;
+- a) the immunity referred to in paragraph (a) thereof shall apply, even after staff members have left the service of the Unit. This immunity shall not apply in case of a motor-traffic offence committed by a staff member nor in the case of a civil action by a third party for damage arising from an accident caused by a motor vehicle belonging to or driven by him or her;
 
-- b). staff members shall enjoy inviolability of all their official papers and documents;
+- b) staff members shall enjoy inviolability of all their official papers and documents;
 
-- c). staff members who are non-residents shall, in accordance with the regulations in force, have relief from duties and taxes (except payments for services) in respect of import of their furniture and personal effects, including motor vehicles, at the time of first taking up their post in the Netherlands and the right on the termination of their function in the Netherlands to export with relief from duties and taxes their furniture and personal effects, subject, in both cases, to the conditions agreed with the Government and the regulations in force applicable to international organizations situated within the territory of the Kingdom of the Netherlands;
+- c) staff members who are non-residents shall, in accordance with the regulations in force, have relief from duties and taxes (except payments for services) in respect of import of their furniture and personal effects, including motor vehicles, at the time of first taking up their post in the Netherlands and the right on the termination of their function in the Netherlands to export with relief from duties and taxes their furniture and personal effects, subject, in both cases, to the conditions agreed with the Government and the regulations in force applicable to international organizations situated within the territory of the Kingdom of the Netherlands;
 
-- d). The Director and his Deputy shall, together with members of the family forming part of his or her household, not being servants, enjoy the privileges and immunities to which a head of a diplomatic mission in the Kingdom of the Netherlands is entitled, unless he or she is either a Netherlands national or a permanent resident of the Netherlands;
+- d) The Director and his Deputy shall, together with members of the family forming part of his or her household, not being servants, enjoy the privileges and immunities to which a head of a diplomatic mission in the Kingdom of the Netherlands is entitled, unless he or she is either a Netherlands national or a permanent resident of the Netherlands;
 
-- e). Staff members of rank P.5 and above shall enjoy the same privileges and immunities as those accorded to diplomatic agents of comparable rank of diplomatic missions established in the Kingdom of the Netherlands, unless he or she is either a Netherlands national or a permanent resident in the Netherlands;
+- e) Staff members of rank P.5 and above shall enjoy the same privileges and immunities as those accorded to diplomatic agents of comparable rank of diplomatic missions established in the Kingdom of the Netherlands, unless he or she is either a Netherlands national or a permanent resident in the Netherlands;
 
-- f). The members of the family referred to in sub-paragraph d of this Article shall not, when they practise a professional or commercial activity for personal profit, enjoy immunity from administrative and civil jurisdiction in respect of acts performed in the course of or in connection with such activities. However, the immunity with regard to the execution of the judgment shall stand unless waived in accordance with section 22 of the Convention;
+- f) The members of the family referred to in sub-paragraph d of this Article shall not, when they practise a professional or commercial activity for personal profit, enjoy immunity from administrative and civil jurisdiction in respect of acts performed in the course of or in connection with such activities. However, the immunity with regard to the execution of the judgment shall stand unless waived in accordance with section 22 of the Convention;
 
-- g). With regard to activities referred to in sub-paragraph f of this Article, the persons concerned shall neither enjoy any fiscal privilege nor exemption from the Netherlands social security provisions;
+- g) With regard to activities referred to in sub-paragraph f of this Article, the persons concerned shall neither enjoy any fiscal privilege nor exemption from the Netherlands social security provisions;
 
-- h). Except insofar as additional immunities may be granted by the Netherlands Government, the Director who is a Netherlands national or permanently resident in the Netherlands, shall enjoy only immunity from jurisdiction and inviolability in respect of official acts performed in the exercise of his or her functions for the Unit.
+- h) Except insofar as additional immunities may be granted by the Netherlands Government, the Director who is a Netherlands national or permanently resident in the Netherlands, shall enjoy only immunity from jurisdiction and inviolability in respect of official acts performed in the exercise of his or her functions for the Unit.
 
 2. In the event that the Unit operates a system for the payment of pensions and annuities to its former staff members and their dependants, the exemption from Dutch income tax for salaries and emoluments paid by the Unit shall not apply to such pensions and annuities.
 
@@ -159,9 +125,9 @@ With respect to section 18 of the Convention, the following shall also apply:
 
 - 1. The Unit shall notify the Ministry of Foreign Affairs of:
 
-- a. the arrival of a Director and staff members with the Unit, as well as their final departure or the termination of their functions with the Unit;
+   - a. the arrival of a Director and staff members with the Unit, as well as their final departure or the termination of their functions with the Unit;
 
-- b. the arrival and final departure of members of the family forming part of the household of the persons referred to in sub-paragraph a and, where appropriate, the fact that a person becomes or ceases to be a member of the family.
+   - b. the arrival and final departure of members of the family forming part of the household of the persons referred to in sub-paragraph a and, where appropriate, the fact that a person becomes or ceases to be a member of the family.
 
 - 2. The privileges and immunities granted to the respective categories of persons referred to under paragraph 1 of this Article shall be implemented upon arrival of such persons and shall be repealed two weeks after notification to the Ministry that either the person has terminated his or her function with the Unit, or has ceased to be a member of the family of a person referred to under paragraph 1, sub-paragraph a. In any case, privileges and immunities shall be repealed immediately after final departure of the persons concerned.
 
@@ -169,7 +135,7 @@ With respect to section 18 of the Convention, the following shall also apply:
 
 1. The Unit and its staff members shall be exempt from social security provisions in force in the Netherlands, unless the staff member takes up a gainful activity in the Netherlands.
 
-2. The provisions of paragraph 1 of this Article shall apply, **mutatis mutandis,**to family members forming part of the households of the persons referred to in paragraph 1, unless they are employed in the Netherlands by an employer other than the WHO or are in the domestic service of the aforesaid household.
+2. The provisions of paragraph 1 of this Article shall apply, *mutatis mutandis,*to family members forming part of the households of the persons referred to in paragraph 1, unless they are employed in the Netherlands by an employer other than the WHO or are in the domestic service of the aforesaid household.
 
 ##### Article 13. General provisions
 
@@ -195,8 +161,8 @@ DONE at Copenhagen on 12 September 1994 in duplicate, in the English language.
 
 (sd.) E. G. TERPSTRA
 
-**For the Government of the Kingdom of the Netherlands**
+*For the Government of the Kingdom of the Netherlands*
 
 (sd.) H. NAKAJIMA
 
-**For the World Health Organization**
+*For the World Health Organization*

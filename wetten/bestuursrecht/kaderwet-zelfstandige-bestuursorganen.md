@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0020495"
-opgehaald: 2026-08-10
+opgehaald: 2026-09-11
 ---
 
 # Wet van 2 november 2006, houdende regels betreffende zelfstandige bestuursorganen (Kaderwet zelfstandige bestuursorganen)
@@ -68,7 +68,9 @@ Alle wetten, koninklijke besluiten en ministeriële regelingen, houdende
 
 - b. wijziging van bevoegdheden van Onze Minister jegens een zelfstandig bestuursorgaan, of
 
-- c. wijziging van verplichtingen die een zelfstandig bestuursorgaan jegens Onze Minister in acht dient te nemen, worden mede door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties ondertekend.
+- c. wijziging van verplichtingen die een zelfstandig bestuursorgaan jegens Onze Minister in acht dient te nemen,
+
+worden mede door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties ondertekend.
 
 ##### Artikel 7
 

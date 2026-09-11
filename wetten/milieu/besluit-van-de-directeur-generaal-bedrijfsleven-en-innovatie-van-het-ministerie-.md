@@ -9,7 +9,7 @@ laatste_update: 2026-09-05
 status: geldig
 toestand: 2026-09-05
 bron: "https://wetten.overheid.nl/BWBR0053083"
-opgehaald: 2026-09-10
+opgehaald: 2026-09-11
 ---
 
 # Besluit van de directeur-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat van 30 juli tot verlening van ondermandaat, volmacht en machtiging voor het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat (Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat 2026)

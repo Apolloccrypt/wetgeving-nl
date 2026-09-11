@@ -2,2173 +2,2124 @@
 title: "Statuut van Rome inzake het Internationaal Strafhof"
 identifier: "BWBV0001489"
 categorie: "Internationaal recht"
-publicatiedatum: 2024-06-13
-laatste_update: 2026-05-20
+soort: "verdrag"
+publicatiedatum: 2002-07-01
+laatste_update: 2024-06-13
 status: geldig
+toestand: 2024-06-13
 bron: "https://wetten.overheid.nl/BWBV0001489"
+opgehaald: 2026-09-11
 ---
 
 # Statuut van Rome inzake het Internationaal Strafhof
 
-Preambule
+*Preamble The States Parties to this Statute, Conscious that all peoples are united by common bonds, their cultures pieced together in a shared heritage, and concerned that this delicate mosaic may be shattered at any time, Mindful that during this century millions of children, women and men have been victims of unimaginable atrocities that deeply shock the conscience of humanity, Recognizing that such grave crimes threaten the peace, security and well-being of the world, Affirming that the most serious crimes of concern to the international community as a whole must not go unpunished and that their effective prosecution must be ensured by taking measures at the national level and by enhancing international cooperation, Determined to put an end to impunity for the perpetrators of these crimes and thus to contribute to the prevention of such crimes, Recalling that it is the duty of every State to exercise its criminal jurisdiction over those responsible for international crimes, Reaffirming the Purposes and Principles of the Charter of the United Nations, and in particular that all States shall refrain from the threat or use of force against the territorial integrity or political independence of any State, or in any other manner inconsistent with the Purposes of the United Nations, Emphasizing in this connection that nothing in this Statute shall be taken as authorizing any State Party to intervene in an armed conflict or in the internal affairs of any State, Determined to these ends and for the sake of present and future generations, to establish an independent permanent International Criminal Court in relationship with the United Nations system, with jurisdiction over the most serious crimes of concern to the international community as a whole, Emphasizing that the International Criminal Court established under this Statute shall be complementary to national criminal jurisdictions, Resolved to guarantee lasting respect for and the enforcement of international justice, Have agreed as follows:*
 
-De Staten die Partij zijn bij dit Statuut,
+## PART 1. ESTABLISHMENT OF THE COURT
 
-Zich bewust van het feit dat alle volken verenigd zijn door gemeenschappelijke banden, en hun culturen zijn samengebracht in een gemeenschappelijk erfgoed, en bezorgd dat dit broze mozaïek ieder moment uiteen kan vallen,
+##### Article 1. The Court
 
-Indachtig het feit dat in de loop van deze eeuw miljoenen kinderen, vrouwen en mannen het slachtoffer zijn geweest van onvoorstelbare wreedheden die het geweten van de mensheid hevig schokken,
+An International Criminal Court (“the Court”) is hereby established. It shall be a permanent institution and shall have the power to exercise its jurisdiction over persons for the most serious crimes of international concern, as referred to in this Statute, and shall be complementary to national criminal jurisdictions. The jurisdiction and functioning of the Court shall be governed by the provisions of this Statute.
 
-Erkennend dat dergelijke zware misdrijven een gevaar vormen voor de vrede, de veiligheid en het welzijn van de wereld,
+##### Article 2. Relationship of the Court with the United Nations
 
-Bevestigend dat de ernstigste misdrijven die de gehele internationale gemeenschap met zorg vervullen niet onbestraft dienen te blijven en dat een doeltreffende vervolging daarvan verzekerd dient te worden door het treffen van maatregelen op nationaal niveau en door het versterken van internationale samenwerking,
+The Court shall be brought into relationship with the United Nations through an agreement to be approved by the Assembly of States Parties to this Statute and thereafter concluded by the President of the Court on its behalf.
 
-Vastbesloten een einde te maken aan de straffeloosheid van de daders van deze misdrijven en daardoor bij te dragen aan het voorkomen van dergelijke misdrijven,
+##### Article 3. Seat of the Court
 
-In herinnering brengend dat het de plicht is van elke Staat om zijn rechtsmacht in strafzaken uit te oefenen over degenen die verantwoordelijk zijn voor internationale misdrijven,
+1. The seat of the Court shall be established at The Hague in the Netherlands (“the host State”).
 
-Opnieuw bevestigend de doeleinden en beginselen van het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143), en meer in het bijzonder het feit dat alle Staten zich dienen te onthouden van de dreiging met of het gebruik van geweld tegen de territoriale integriteit of politieke onafhankelijkheid van een Staat, of van op enige andere wijze die onverenigbaar is met de doeleinden van de Verenigde Naties,
+2. The Court shall enter into a headquarters agreement with the host State, to be approved by the Assembly of States Parties and thereafter concluded by the President of the Court on its behalf.
 
-Benadrukkend in dit verband dat niets in dit Statuut dient te worden beschouwd als een machtiging aan een Staat die Partij is om te interveniëren in een gewapend conflict of in de binnenlandse aangelegenheden van een Staat,
+3. The Court may sit elsewhere, whenever it considers it desirable, as provided in this Statute.
 
-Vastbesloten hiertoe, alsmede in het belang van huidige en toekomstige generaties, een onafhankelijk permanent Internationaal Strafhof verbonden met het systeem van de Verenigde Naties op te richten, met rechtsmacht ten aanzien van de ernstigste misdrijven die de gehele internationale gemeenschap met zorg vervullen,
+##### Article 4. Legal status and powers of the Court
 
-Benadrukkend dat het krachtens dit Statuut opgerichte Internationaal Strafhof complementair zal zijn aan de nationale jurisdicties in strafzaken,
+1. The Court shall have international legal personality. It shall also have such legal capacity as may be necessary for the exercise of its functions and the fulfilment of its purposes.
 
-Vastbesloten een duurzame eerbiediging en handhaving van internationale gerechtigheid te waarborgen,
+2. The Court may exercise its functions and powers, as provided in this Statute, on the territory of any State Party and, by special agreement, on the territory of any other State.
 
-Zijn als volgt overeengekomen:
+## PART 2. JURISDICTION, ADMISSIBILITY AND APPLICABLE LAW
 
-## DEEL 1. OPRICHTING VAN HET HOF
+##### Article 5. Crimes within the jurisdiction of the Court
 
-##### Artikel 1. Het Hof
+1. The jurisdiction of the Court shall be limited to the most serious crimes of concern to the international community as a whole. The Court has jurisdiction in accordance with this Statute with respect to the following crimes:
 
-Een Internationaal Strafhof („het Hof”) wordt hierbij opgericht. Het is een permanente instelling met de bevoegdheid rechtsmacht uit te oefenen over personen ter zake van de meest ernstige misdrijven van internationaal belang in de zin van dit Statuut, die complementair is aan de nationale jurisdicties in strafzaken. De rechtsmacht en werkwijze van het Hof worden geregeerd door de bepalingen van dit Statuut.
+- a) The crime of genocide;
 
-##### Artikel 2. Relatie van het Hof met de Verenigde Naties
+- b) Crimes against humanity;
 
-De relatie van het Hof met de Verenigde Naties wordt geregeld door middel van een overeenkomst die dient te worden goedgekeurd door de Vergadering van de Staten die Partij zijn bij dit Statuut, en daarna door de President van het Hof namens het Hof wordt gesloten.
+- c) War crimes;
 
-##### Artikel 3. Zetel van het Hof
+- d) The crime of aggression.
 
-1. De zetel van het Hof wordt gevestigd te Den Haag, Nederland („het Gastland”).
+2. *Vervallen.*
 
-2. Het Hof sluit met het Gastland een zetelovereenkomst, die dient te worden goedgekeurd door de Vergadering van de Staten die Partij zijn, en daarna door de President van het Hof in naam van het Hof wordt gesloten.
+##### Article 6. Genocide
 
-3. Het Hof is bevoegd elders zitting te houden wanneer het dit wenselijk acht, overeenkomstig het in dit Statuut bepaalde.
+For the purpose of this Statute, “genocide” means any of the following acts committed with intent to destroy, in whole or in part, a national, ethnical, racial or religious group, as such:
 
-##### Artikel 4. Rechtspersoonlijkheid en bevoegdheden van het Hof
+- a) Killing members of the group;
 
-1. Het Hof bezit internationale rechtspersoonlijkheid. Tevens bezit het de handelingsbevoegdheid die benodigd is voor de uitoefening van zijn taken en de verwezenlijking van zijn doelstellingen.
+- b) Causing serious bodily or mental harm to members of the group;
 
-2. Het Hof kan zijn taken en bevoegdheden uitoefenen op de wijze bepaald in dit Statuut op het grondgebied van een Staat die Partij is, alsmede, krachtens een daartoe strekkende overeenkomst, op het grondgebied van een andere Staat.
+- c) Deliberately inflicting on the group conditions of life calculated to bring about its physical destruction in whole or in part;
 
-## DEEL 2. RECHTSMACHT, ONTVANKELIJKHEID EN TOEPASSELIJK RECHT
+- d) Imposing measures intended to prevent births within the group;
 
-##### Artikel 5. Misdrijven waarover het Hof rechtsmacht heeft
+- e) Forcibly transferring children of the group to another group.
 
-1. De rechtsmacht van het Hof is beperkt tot de meest ernstige misdrijven die de internationale gemeenschap in haar geheel aangaan. Het Hof heeft overeenkomstig het Statuut rechtsmacht ter zake van de volgende misdrijven:
+##### Article 7. Crimes against humanity
 
-- a. het misdrijf genocide;
+1. For the purpose of this Statute, “crime against humanity” means any of the following acts when committed as part of a widespread or systematic attack directed against any civilian population, with knowledge of the attack:
 
-- b. misdrijven tegen de menselijkheid;
+- a) Murder;
 
-- c. oorlogsmisdrijven;
+- b) Extermination;
 
-- d. het misdrijf agressie.
+- c) Enslavement;
 
-2. Vervallen.
+- d) Deportation or forcible transfer of population;
 
-##### Artikel 6. Genocide
+- e) Imprisonment or other severe deprivation of physical liberty in violation of fundamental rules of international law;
 
-Voor de toepassing van dit Statuut wordt verstaan onder genocide elk van de volgende handelingen gepleegd met de bedoeling een nationale, etnische of godsdienstige groep, dan wel een groep behorend tot een bepaald ras, als zodanig geheel of gedeeltelijk te vernietigen:
+- f) Torture;
 
-- a. het doden van leden van de groep;
+- g) Rape, sexual slavery, enforced prostitution, forced pregnancy, enforced sterilization, or any other form of sexual violence of comparable gravity;
 
-- b. het toebrengen van ernstig lichamelijk of geestelijk letsel aan leden van de groep;
+- h) Persecution against any identifiable group or collectivity on political, racial, national, ethnic, cultural, religious, gender as defined in paragraph 3, or other grounds that are universally recognized as impermissible under international law, in connection with any act referred to in this paragraph or any crime within the jurisdiction of the Court;
 
-- c. het opzettelijk aan de groep opleggen van levensvoorwaarden gericht op haar gehele of gedeeltelijke lichamelijke vernietiging;
+- i) Enforced disappearance of persons;
 
-- d. het opleggen van maatregelen bedoeld om geboorten binnen de groep te voorkomen;
+- j) The crime of apartheid;
 
-- e. het onder dwang overbrengen van kinderen van de groep naar een andere groep.
+- k) Other inhumane acts of a similar character intentionally causing great suffering, or serious injury to body or to mental or physical health.
 
-##### Artikel 7. Misdrijven tegen de menselijkheid
+2. For the purpose of paragraph 1:
 
-1. Voor de toepassing van dit Statuut wordt verstaan onder misdrijf tegen de menselijkheid elk van de volgende handelingen, indien gepleegd als onderdeel van een wijdverbreide of stelselmatige aanval gericht tegen een burgerbevolking, met kennis van de aanval:
+- a) “Attack directed against any civilian population” means a course of conduct involving the multiple commission of acts referred to in paragraph 1 against any civilian population, pursuant to or in furtherance of a State or organizational policy to commit such attack;
 
-- a. moord;
+- b) “Extermination” includes the intentional infliction of conditions of life, *inter alia* the deprivation of access to food and medicine, calculated to bring about the destruction of part of a population;
 
-- b. uitroeiing;
+- c) “Enslavement” means the exercise of any or all of the powers attaching to the right of ownership over a person and includes the exercise of such power in the course of trafficking in persons, in particular women and children;
 
-- c. slavernij;
+- d) “Deportation or forcible transfer of population” means forced displacement of the persons concerned by expulsion or other coercive acts from the area in which they are lawfully present, without grounds permitted under international law;
 
-- d. deportatie of onder dwang overbrengen van bevolking;
+- e) “Torture” means the intentional infliction of severe pain or suffering, whether physical or mental, upon a person in the custody or under the control of the accused; except that torture shall not include pain or suffering arising only from, inherent in or incidental to, lawful sanctions;
 
-- e. gevangenneming of andere ernstige beroving van de lichamelijke vrijheid in strijd met fundamentele regels van internationaal recht;
+- f) “Forced pregnancy” means the unlawful confinement of a woman forcibly made pregnant, with the intent of affecting the ethnic composition of any population or carrying out other grave violations of international law. This definition shall not in any way be interpreted as affecting national laws relating to pregnancy;
 
-- f. marteling;
+- g) “Persecution” means the intentional and severe deprivation of fundamental rights contrary to international law by reason of the identity of the group or collectivity;
 
-- g. verkrachting, seksuele slavernij, gedwongen prostitutie, gedwongen zwangerschap, gedwongen sterilisatie, of enige andere vorm van seksueel geweld van vergelijkbare ernst;
+- h) “The crime of apartheid” means inhumane acts of a character similar to those referred to in paragraph 1, committed in the context of an institutionalized regime of systematic oppression and domination by one racial group over any other racial group or groups and committed with the intention of maintaining that regime;
 
-- h. vervolging van een identificeerbare groep of collectiviteit op politieke gronden, omdat deze tot een bepaald ras of een bepaalde nationaliteit behoort, op etnische, culturele of godsdienstige gronden, of op grond van geslacht, zoals nader omschreven in het derde lid, of op andere gronden die universeel zijn erkend als ontoelaatbaar krachtens internationaal recht, in verband met een in dit lid bedoelde handeling of enig ander misdrijf waarover het Hof rechtsmacht heeft;
+- i) “Enforced disappearance of persons” means the arrest, detention or abduction of persons by, or with the authorization, support or acquiescence of, a State or a political organization, followed by a refusal to acknowledge that deprivation of freedom or to give information on the fate or whereabouts of those persons, with the intention of removing them from the protection of the law for a prolonged period of time.
 
-- i. gedwongen verdwijning van personen;
+3. For the purpose of this Statute, it is understood that the term “gender” refers to the two sexes, male and female, within the context of society. The term “gender” does not indicate any meaning different from the above.
 
-- j. apartheid;
+##### Article 8. War crimes
 
-- k. andere onmenselijke handelingen van vergelijkbare aard waardoor opzettelijk ernstig lijden of ernstig lichamelijk letsel of schade aan de geestelijke of lichamelijke gezondheid wordt veroorzaakt.
+1. The Court shall have jurisdiction in respect of war crimes in particular when committed as part of a plan or policy or as part of a large-scale commission of such crimes.
 
-2. Voor de toepassing van het eerste lid:
+2. For the purpose of this Statute, “war crimes” means:
 
-- a. betekent „aanval gericht tegen een burgerbevolking” een wijze van optreden die met zich brengt het meermalen plegen van in het eerste lid bedoelde handelingen tegen een burgerbevolking ter uitvoering of voortzetting van het beleid van een Staat of organisatie, dat het plegen van een dergelijke aanval tot doel heeft;
+- a) Grave breaches of the Geneva Conventions of 12 August 1949, namely, any of the following acts against persons or property protected under the provisions of the relevant Geneva Convention:
 
-- b. omvat „uitroeiing” het opzettelijk opleggen van levensvoorwaarden, onder andere de onthouding van toegang tot voedsel en geneesmiddelen, gericht op de vernietiging van een deel van een bevolking;
+   - (i) Wilful killing;
 
-- c. betekent „slavernij” de uitoefening op een persoon van een of alle bevoegdheden verbonden aan het recht van eigendom, met inbegrip van de uitoefening van dergelijke bevoegdheid en bij mensenhandel, in het bijzonder handel in vrouwen en kinderen;
+   - (ii) Torture or inhuman treatment, including biological experiments;
 
-- d. betekent „deportatie of onder dwang overbrengen van bevolking” het onder dwang verplaatsen van personen door verdrijving of andere dwangmaatregelen uit het gebied waarin zij zich rechtmatig bevinden zonder dat daartoe krachtens internationaal recht gronden zijn;
+   - (iii) Wilfully causing great suffering, or serious injury to body or health;
 
-- e. betekent „marteling” het opzettelijk veroorzaken van ernstige pijn of ernstig lijden, hetzij lichamelijk, hetzij geestelijk, bij een persoon die zich in gevangenschap of in de macht bevindt van degene die beschuldigd wordt, met dien verstande dat onder marteling niet wordt verstaan pijn of lijden dat louter het gevolg is van, inherent is aan of samenhangt met rechtmatige sancties;
+   - (iv) Extensive destruction and appropriation of property, not justified by military necessity and carried out unlawfully and wantonly;
 
-- f. betekent „gedwongen zwangerschap” de onrechtmatige gevangenschap van een vrouw die onder dwang zwanger is gemaakt, met de opzet de etnische samenstelling van een bevolking te beïnvloeden of andere ernstige schendingen van internationaal recht te plegen. Deze definitie mag in geen geval worden uitgelegd als een aantasting van nationale wetgeving met betrekking tot zwangerschap;
+   - (v) Compelling a prisoner of war or other protected person to serve in the forces of a hostile Power;
 
-- g. betekent „vervolging” het opzettelijk en in ernstige mate ontnemen van fundamentele rechten in strijd met het internationaal recht op grond van de identiteit van de groep of collectiviteit;
+   - (vi) Wilfully depriving a prisoner of war or other protected person of the rights of fair and regular trial;
 
-- h. betekent „apartheid” onmenselijke handelingen van een vergelijkbare aard als de in het eerste lid bedoelde handelingen, gepleegd in het kader van een geïnstitutionaliseerd regime van systematische onderdrukking en overheersing door een groep van een bepaald ras van een of meer groepen van een ander ras en begaan met de opzet dat regime in stand te houden;
+   - (vii) Unlawful deportation or transfer or unlawful confinement;
 
-- i. betekent „gedwongen verdwijning van personen” het arresteren, gevangen houden of afvoeren van personen door of met de machtiging, ondersteuning of bewilliging van een Staat of politieke organisatie, gevolgd door een weigering een dergelijke vrijheidsontneming te erkennen of informatie te verstrekken over het lot of de verblijfplaats van die personen, met de opzet hen langdurig buiten de bescherming van de wet te plaatsen.
+   - (viii) Taking of hostages.
 
-3. Voor de toepassing van dit Statuut verwijst het begrip geslacht naar de beide geslachten, zowel het mannelijk als het vrouwelijk geslacht, in de context van de samenleving. Onder geslacht wordt niets anders verstaan dan hetgeen hiervoor is bepaald.
+- b) Other serious violations of the laws and customs applicable in international armed conflict, within the established framework of international law, namely, any of the following acts:
 
-##### Artikel 8. Oorlogsmisdrijven
+   - (i) Intentionally directing attacks against the civilian population as such or against individual civilians not taking direct part in hostilities;
 
-1. Het Hof heeft rechtsmacht ter zake van oorlogsmisdrijven in het bijzonder wanneer deze worden gepleegd als onderdeel van een plan of beleid of als onderdeel van het op grote schaal plegen van dergelijke misdrijven.
+   - (ii) Intentionally directing attacks against civilian objects, that is, objects which are not military objectives;
 
-2. Voor de toepassing van dit Statuut wordt verstaan onder oorlogsmisdrijven:
+   - (iii) Intentionally directing attacks against personnel, installations, material, units or vehicles involved in a humanitarian assistance or peacekeeping mission in accordance with the [Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143), as long as they are entitled to the protection given to civilians or civilian objects under the international law of armed conflict;
 
-- a. ernstige inbreuken op de Verdragen van Genève van 12 augustus 1949, namelijk een van de volgende handelingen tegen personen of goederen die ingevolge de bepalingen van het desbetreffende Verdrag van Genève zijn beschermd:
+   - (iv) Intentionally launching an attack in the knowledge that such attack will cause incidental loss of life or injury to civilians or damage to civilian objects or widespread, long-term and severe damage to the natural environment which would be clearly excessive in relation to the concrete and direct overall military advantage anticipated;
 
-  - i. opzettelijk doden;
+   - (v) Attacking or bombarding, by whatever means, towns, villages, dwellings or buildings which are undefended and which are not military objectives;
 
-  - ii. marteling of onmenselijke behandeling, met inbegrip van biologische experimenten;
+   - (vi) Killing or wounding a combatant who, having laid down his arms or having no longer means of defence, has surrendered at discretion;
 
-  - iii. opzettelijk veroorzaken van ernstig lijden, zwaar lichamelijk letsel of ernstige schade aan de gezondheid;
+   - (vii) Making improper use of a flag of truce, of the flag or of the military insignia and uniform of the enemy or of the United Nations, as well as of the distinctive emblems of the Geneva Conventions, resulting in death or serious personal injury;
 
-  - iv. grootschalige wederrechtelijke en moedwillige vernietiging en toeëigening van goederen zonder militaire noodzaak;
+   - (viii) The transfer, directly or indirectly, by the Occupying Power of parts of its own civilian population into the territory it occupies, or the deportation or transfer of all or parts of the population of the occupied territory within or outside this territory;
 
-  - v. een krijgsgevangene of andere beschermde persoon dwingen dienst te nemen bij de strijdkrachten van een vijandige mogendheid;
+   - (ix) Intentionally directing attacks against buildings dedicated to religion, education, art, science or charitable purposes, historic monuments, hospitals and places where the sick and wounded are collected, provided they are not military objectives;
 
-  - vi. een krijgsgevangene of andere beschermde persoon opzettelijk het recht op een eerlijke en rechtmatige berechting onthouden;
+   - (x) Subjecting persons who are in the power of an adverse party to physical mutilation or to medical or scientific experiments of any kind which are neither justified by the medical, dental or hospital treatment of the person concerned nor carried out in his or her interest, and which cause death to or seriously endanger the health of such person or persons;
 
-  - vii. onrechtmatige deportatie of verplaatsing of onrechtmatige opsluiting;
+   - (xi) Killing or wounding treacherously individuals belonging to the hostile nation or army;
 
-  - viii. gijzelneming.
+   - (xii) Declaring that no quarter will be given;
 
-- b. Andere ernstige schendingen van de wetten en gebruiken die toepasselijk zijn in een internationaal gewapend conflict binnen het gevestigde kader van het internationale recht, namelijk een van de volgende handelingen:
+   - (xiii) Destroying or seizing the enemy's property unless such destruction or seizure be imperatively demanded by the necessities of war;
 
-  - i. opzettelijk aanvallen richten op de burger-bevolking als zodanig of op individuele burgers die niet rechtstreeks aan vijandelijkheden deelnemen;
+   - (xiv) Declaring abolished, suspended or inadmissible in a court of law the rights and actions of the nationals of the hostile party;
 
-  - ii. opzettelijk aanvallen richten op burgerobjecten, dat wil zeggen objecten die geen militair doel zijn;
+   - (xv) Compelling the nationals of the hostile party to take part in the operations of war directed against their own country, even if they were in the belligerent's service before the commencement of the war;
 
-  - iii. opzettelijk aanvallen richten op personeel, installaties, materieel, eenheden of voertuigen betrokken bij humanitaire hulpverlening of vredesmissies overeenkomstig het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143), zolang deze recht hebben op de bescherming die aan burgers of burgerobjecten wordt verleend krachtens het internationale recht inzake gewapende conflicten;
+   - (xvi) Pillaging a town or place, even when taken by assault;
 
-  - iv. opzettelijk een aanval inzetten in de wetenschap dat een dergelijke aanval bijkomstige verliezen aan levens of letsel onder burgers zal veroorzaken of schade aan burgerobjecten of omvangrijke, langdurige en ernstige schade aan het milieu zal aanrichten, die duidelijk buitensporig zou zijn in verhouding tot het te verwachten concrete en directe algehele militaire voordeel;
+   - (xvii) Employing poison or poisoned weapons;
 
-  - v. aanvallen of bombarderen met wat voor middelen ook van steden, dorpen, woningen of gebouwen, die niet worden verdedigd en geen militair doelwit zijn;
+   - (xviii) Employing asphyxiating, poisonous or other gases, and all analogous liquids, materials or devices;
 
-  - vi. een combattant doden of verwonden die zijn wapens heeft neergelegd of zich niet meer kan verdedigen, en zich onvoorwaardelijk heeft overgegeven;
+   - (xix) Employing bullets which expand or flatten easily in the human body, such as bullets with a hard envelope which does not entirely cover the core or is pierced with incisions;
 
-  - vii. op ongepaste wijze gebruik maken van een witte vlag, van de vlag of militaire onderscheidingstekens en uniform van de vijand of van de Verenigde Naties, alsmede van emblemen van de Verdragen van Genève, de dood of ernstig lichamelijk letsel ten gevolge hebbende;
+   - (xx) Employing weapons, projectiles and material and methods of warfare which are of a nature to cause superfluous injury or unnecessary suffering or which are inherently indiscriminate in violation of the international law of armed conflict, provided that such weapons, projectiles and material and methods of warfare are the subject of a comprehensive prohibition and are included in an annex to this Statute, by an amendment in accordance with the relevant provisions set forth in [articles 121](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=13&artikel=121&z=2024-06-13&g=2024-06-13) and [123](https://wetten.overheid.nl/BWBV0001489);
 
-  - viii. rechtstreekse of indirecte verplaatsing door de bezettende mogendheid van delen van haar eigen burgerbevolking naar het bezette grondgebied, of de deportatie of het verplaatsen van de gehele of een deel van de bevolking van het bezette grondgebied binnen dat grondgebied of daarbuiten;
+   - (xxi) Committing outrages upon personal dignity, in particular humiliating and degrading treatment;
 
-  - ix. opzettelijk aanvallen richten op gebouwen bestemd voor godsdienst, onderwijs, kunst, wetenschap of charitatieve doeleinden, historische monumenten, ziekenhuizen en plaatsen waar zieken en gewonden worden samengebracht, mits deze geen militair doelwit zijn;
+   - (xxii) Committing rape, sexual slavery, enforced prostitution, forced pregnancy, as defined in [article 7, paragraph 2 f)](https://wetten.overheid.nl/BWBV0001489), enforced sterilization, or any other form of sexual violence also constituting a grave breach of the Geneva Conventions;
 
-  - x. personen die zich in de macht van een tegenpartij bevinden, onderwerpen aan lichamelijke verminking of medische of wetenschappelijke experimenten van welke aard ook, die niet worden gerechtvaardigd door de geneeskundige of tandheelkundige behandeling van de betrokken persoon of door diens behandeling in het ziekenhuis noch in zijn belang worden uitgevoerd, en die de dood ten gevolge hebben of de gezondheid van die persoon of personen ernstig in gevaar brengen;
+   - (xxiii) Utilizing the presence of a civilian or other protected person to render certain points, areas or military forces immune from military operations;
 
-  - xi. op verraderlijke wijze doden of verwonden van personen die behoren tot de vijandige natie of het vijandige leger;
+   - (xxiv) Intentionally directing attacks against buildings, material, medical units and transport, and personnel using the distinctive emblems of the Geneva Conventions in conformity with international law;
 
-  - xii. verklaren dat geen kwartier zal worden verleend;
+   - (xxv) Intentionally using starvation of civilians as a method of warfare by depriving them of objects indispensable to their survival, including wilfully impeding relief supplies as provided for under the Geneva Conventions;
 
-  - xiii. vernietiging of inbeslagneming van goederen van de vijand tenzij deze vernietiging of inbeslagneming dringend vereist is als gevolg van dwingende oorlogsomstandigheden;
+   - (xxvi) Conscripting or enlisting children under the age of fifteen years into the national armed forces or using them to participate actively in hostilities;
 
-  - xiv. verklaren dat de rechten en handelingen van onderdanen van de vijandelijke partij vervallen, geschorst of in rechte niet-ontvankelijk zijn;
+   - (xxvii) Employing weapons, which use microbial or other biological agents, or toxins, whatever their origin or method of production;
 
-  - xv. onderdanen van de vijandige partij dwingen deel te nemen aan oorlogshandelingen gericht tegen hun eigen land, ook als zij voor de aanvang van de oorlog in dienst van de oorlogvoerende partij waren;
+   - (xxviii) Employing weapons the primary effect of which is to injure by fragments which in the human body escape detection by X-rays;
 
-  - xvi. een stad of plaats plunderen, ook wanneer deze bij een aanval wordt ingenomen;
+   - (xxix) Employing laser weapons specifically designed, as their sole combat function or as one of their combat functions, to cause permanent blindness to unenhanced vision, that is to the naked eye or to the eye with corrective eyesight devices.
 
-  - xvii. gebruik van gif of giftige wapens;
+- c) In the case of an armed conflict not of an international character, serious violations of article 3 common to the four Geneva Conventions of 12 August 1949, namely, any of the following acts committed against persons taking no active part in the hostilities, including members of armed forces who have laid down their arms and those placed *hors de combat* by sickness, wounds, detention or any other cause:
 
-  - xviii. gebruik van verstikkende, giftige of andere gassen en overige soortgelijke vloeistoffen, materialen of apparaten;
+   - (i) Violence to life and person, in particular murder of all kinds, mutilation, cruel treatment and torture;
 
-  - xix. gebruik van kogels die in het menselijk lichaam gemakkelijk in omvang toenemen of platter en breder worden, zoals kogels met een harde mantel die de kern gedeeltelijk onbedekt laat of voorzien is van inkepingen;
+   - (ii) Committing outrages upon personal dignity, in particular humiliating and degrading treatment;
 
-  - xx. gebruik van wapens, projectielen en materieel en methoden van oorlogvoering die de eigenschap hebben overbodig letsel of nodeloos lijden te veroorzaken of die van zichzelf geen onderscheid maken waardoor zij in strijd zijn met het internationale recht inzake gewapende conflicten, mits dergelijke wapens, projectielen en materieel en methoden van oorlogvoering vallen onder een algeheel verbod en zijn opgenomen in een bijlage bij dit Statuut, krachtens een amendement overeenkomstig de desbetreffende bepalingen in de [artikelen 121](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=13&artikel=121&z=2024-06-13&g=2024-06-13) en [123](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=13&artikel=123&z=2024-06-13&g=2024-06-13);
+   - (iii) Taking of hostages;
 
-  - xxi. wandaden begaan tegen de persoonlijke waardigheid, in het bijzonder vernederende en onterende behandeling;
+   - (iv) The passing of sentences and the carrying out of executions without previous judgement pronounced by a regularly constituted court, affording all judicial guarantees which are generally recognized as indispensable.
 
-  - xxii. verkrachting, seksuele slavernij, gedwongen prostitutie, gedwongen zwangerschap zoals gedefinieerd in [artikel 7, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=7&z=2024-06-13&g=2024-06-13), gedwongen sterilisatie of elke andere vorm van seksueel geweld die eveneens een ernstige inbreuk op de Verdragen van Genève oplevert;
+- d) Paragraph 2 c) applies to armed conflicts not of an international character and thus does not apply to situations of internal disturbances and tensions, such as riots, isolated and sporadic acts of violence or other acts of a similar nature.
 
-  - xxiii. gebruikmaken van de aanwezigheid van een burger of een andere beschermde persoon teneinde bepaalde punten, gebieden of strijdkrachten te vrijwaren van militaire operaties;
+- e) Other serious violations of the laws and customs applicable in armed conflicts not of an international character, within the established framework of international law, namely, any of the following acts:
 
-  - xxiv. opzettelijk aanvallen richten op gebouwen, materieel, medische eenheden en transport, alsmede personeel dat gebruik maakt van de emblemen van de Verdragen van Genève overeenkomstig internationaal recht;
+   - (i) Intentionally directing attacks against the civilian population as such or against individual civilians not taking direct part in hostilities;
 
-  - xxv. opzettelijk gebruikmaken van uithongering van burgers als methode van oorlogvoering door hun voorwerpen te onthouden die onontbeerlijk zijn voor hun overleving, waaronder het opzettelijk belemmeren van de aanvoer van hulpgoederen zoals voorzien in de Verdragen van Genève;
+   - (ii) Intentionally directing attacks against buildings, material, medical units and transport, and personnel using the distinctive emblems of the Geneva Conventions in conformity with international law;
 
-  - xxvi. kinderen beneden de leeftijd van vijftien jaar bij de nationale strijdkrachten onder de wapenen roepen of in militaire dienst nemen dan wel hen gebruiken voor actieve deelname aan vijandelijkheden;
+   - (iii) Intentionally directing attacks against personnel, installations, material, units or vehicles involved in a humanitarian assistance or peacekeeping mission in accordance with the [Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143), as long as they are entitled to the protection given to civilians or civilian objects under the international law of armed conflict;
 
-  - xxvii. gebruik van wapens die gebruik maken van microbiologische of andere biologische middelen, of gifstoffen, ongeacht hun herkomst of de wijze van productie;
+   - (iv) Intentionally directing attacks against buildings dedicated to religion, education, art, science or charitable purposes, historic monuments, hospitals and places where the sick and wounded are collected, provided they are not military objectives;
 
-  - xxviii. gebruik van wapens met als voornaamste gevolg het veroorzaken van verwondingen door fragmenten die in het menselijk lichaam niet met röntgenstralen kunnen worden ontdekt;
+   - (v) Pillaging a town or place, even when taken by assault;
 
-  - xxix. gebruik van laserwapens die speciaal zodanig zijn ontworpen dat hun enige gevechtsfunctie of een van hun gevechtsfuncties is het veroorzaken van blijvende blindheid bij onversterkt gezichtsvermogen, dat wil zeggen aan het blote oog of het oog met een corrigerende bril of lens.
+   - (vi) Committing rape, sexual slavery, enforced prostitution, forced pregnancy, as defined in [article 7, paragraph 2 f)](https://wetten.overheid.nl/BWBV0001489), enforced sterilization, and any other form of sexual violence also constituting a serious violation of article 3 common to the four Geneva Conventions;
 
-- c. In geval van een gewapend conflict dat niet internationaal van aard is, ernstige schendingen van gemeenschappelijk artikel 3 van de vier Verdragen van Genève van 12 augustus 1949, namelijk een van de volgende handelingen begaan tegen personen die niet actief deelnemen aan de vijandelijkheden, waaronder leden van strijdkrachten die hun wapens hebben neergelegd en degenen die buiten gevecht zijn gesteld door ziekte, verwondingen, gevangenschap of andere oorzaken:
+   - (vii) Conscripting or enlisting children under the age of fifteen years into armed forces or groups or using them to participate actively in hostilities;
 
-  - i. geweld tegen het leven en de persoon, in het bijzonder alle misdrijven tegen het leven gericht, verminking, wrede behandeling en marteling;
+   - (viii) Ordering the displacement of the civilian population for reasons related to the conflict, unless the security of the civilians involved or imperative military reasons so demand;
 
-  - ii. wandaden begaan tegen de persoonlijke waardigheid, in het bijzonder vernederende en onterende behandeling;
+   - (ix) Killing or wounding treacherously a combatant adversary;
 
-  - iii. gijzelneming;
+   - (x) Declaring that no quarter will be given;
 
-  - iv. het uitspreken van veroordelingen en tenuitvoerleggen van executies zonder voorafgaand vonnis uitgesproken door een rechtmatig samengesteld gerecht dat alle gerechtelijke waarborgen biedt die algemeen als onmisbaar worden erkend.
+   - (xi) Subjecting persons who are in the power of another party to the conflict to physical mutilation or to medical or scientific experiments of any kind which are neither justified by the medical, dental or hospital treatment of the person concerned nor carried out in his or her interest, and which cause death to or seriously endanger the health of such person or persons;
 
-- d. Het tweede lid, onder c, geldt voor gewapende conflicten die niet internationaal van aard zijn en geldt derhalve niet voor gevallen van interne onlusten en spanningen, zoals oproer, geïsoleerde en sporadische gewelddadigheden of andere handelingen van vergelijkbare aard.
+   - (xii) Destroying or seizing the property of an adversary unless such destruction or seizure be imperatively demanded by the necessities of the conflict;
 
-- e. Andere ernstige schendingen van de wetten en gebruiken die gelden ingeval van gewapende conflicten die niet internationaal van aard zijn, binnen het gevestigde kader van internationaal recht, namelijk een van de volgende handelingen:
+   - (xiii) Employing poison or poisoned weapons;
 
-  - i. opzettelijk aanvallen richten op de burgerbevolking als zodanig of op individuele burgers die niet rechtstreeks aan vijandelijkheden deelnemen;
+   - (xiv) Employing asphyxiating, poisonous or other gases, and all analogous liquids, materials or devices;
 
-  - ii. opzettelijk aanvallen richten op gebouwen, materieel, medische eenheden en transport, en personeel dat gebruik maakt van de emblemen van de Verdragen van Genève overeenkomstig internationaal recht;
+   - (xv) Employing bullets which expand or flatten easily in the human body, such as bullets with a hard envelope which does not entirely cover the core or is pierced with incisions;
 
-  - iii. opzettelijk aanvallen richten op personeel, installaties, materieel, eenheden of voertuigen betrokken bij humanitaire hulpverlening of vredesmissies overeenkomstig het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143), zolang deze recht hebben op de bescherming die aan burgers of burgerobjecten wordt verleend krachtens het recht inzake gewapende conflicten;
+   - (xvi) Employing weapons, which use microbial or other biological agents, or toxins, whatever their origin or method of production;
 
-  - iv. opzettelijk aanvallen richten op gebouwen bestemd voor godsdienst, onderwijs, kunst, wetenschap of charitatieve doeleinden, historische monumenten, ziekenhuizen en plaatsen waar zieken en gewonden worden samengebracht, mits deze geen militair doelwit zijn;
+   - (xvii) Employing weapons the primary effect of which is to injure by fragments which in the human body escape detection by X-rays;
 
-  - v. een stad of plaats plunderen, ook wanneer deze bij een aanval wordt ingenomen;
+   - (xviii) Employing laser weapons specifically designed, as their sole combat function or as one of their combat functions, to cause permanent blindness to unenhanced vision, that is to the naked eye or to the eye with corrective eyesight devices;
 
-  - vi. verkrachting, seksuele slavernij, gedwongen prostitutie, gedwongen zwangerschap zoals gedefinieerd in [artikel 7, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=7&z=2024-06-13&g=2024-06-13), gedwongen sterilisatie of elke andere vorm van seksueel geweld die eveneens een ernstige schending zijn van gemeenschappelijk artikel 3 van de vier Verdragen van Genève;
+   - (xix) Intentionally using starvation of civilians as a method of warfare by depriving them of objects indispensable to their survival, including willfully impeding relief supplies.
 
-  - vii. kinderen beneden de leeftijd van vijftien jaar bij strijdkrachten of groepen onder de wapenen roepen of in militaire dienst nemen dan wel hen gebruiken voor actieve deelname aan vijandelijkheden;
+- f) Paragraph 2 e) applies to armed conflicts not of an international character and thus does not apply to situations of internal disturbances and tensions, such as riots, isolated and sporadic acts of violence or other acts of a similar nature. It applies to armed conflicts that take place in the territory of a State when there is protracted armed conflict between governmental authorities and organized armed groups or between such groups.
 
-  - viii. verplaatsing bevelen van de burgerbevolking om redenen die verband houden met het conflict, tenzij de veiligheid van de betrokken burgers of dwingende militaire redenen dit vereisen;
+3. Nothing in paragraph 2 c) and e) shall affect the responsibility of a Government to maintain or re-establish law and order in the State or to defend the unity and territorial integrity of the State, by all legitimate means.
 
-  - ix. op verraderlijke wijze doden of verwonden van een strijdende tegenstander;
+##### Article 8 bis. Crime of aggression
 
-  - x. verklaren dat geen kwartier zal worden verleend;
+1. For the purpose of this Statute, “crime of aggression” means the planning, preparation, initiation or execution, by a person in a position effectively to exercise control over or to direct the political or military action of a State, of an act of aggression which, by its character, gravity and scale, constitutes a manifest violation of the Charter of the United Nations.
 
-  - xi. personen die zich in de macht van een andere partij bij het conflict bevinden onderwerpen aan lichamelijke verminking of aan geneeskundige of wetenschappelijke experimenten van welke aard ook, die niet gerechtvaardigd worden door de geneeskundige of tandheelkundige behandeling van de betrokken persoon of door diens behandeling in het ziekenhuis, noch in zijn belang worden uitgevoerd, en die de dood ten gevolge hebben of de gezondheid van die persoon of personen ernstig in gevaar brengen;
+2. For the purpose of paragraph 1, “act of aggression” means the use of armed force by a State against the sovereignty, territorial integrity or political independence of another State, or in any other manner inconsistent with the Charter of the United Nations. Any of the following acts, regardless of a declaration of war, shall, in accordance with United Nations General Assembly resolution 3314 (XXIX) of 14 December 1974, qualify as an act of aggression:
 
-  - xii. vernietiging of inbeslagneming van goederen van een tegenstander tenzij deze vernietiging of inbeslagneming dringend vereist is als gevolg van de dwingende omstandigheden van het conflict;
+- a) The invasion or attack by the armed forces of a State of the territory of another State, or any military occupation, however temporary, resulting from such invasion or attack, or any annexation by the use of force of the territory of another State or part thereof;
 
-  - xiii. gebruik van gif of giftige wapens;
+- b) Bombardment by the armed forces of a State against the territory of another State or the use of any weapons by a State against the territory of another State;
 
-  - xiv. gebruik van verstikkende, giftige of andere gassen en alle soortgelijke vloeistoffen, materialen of apparaten;
+- c) The blockade of the ports or coasts of a State by the armed forces of another State;
 
-  - xv. gebruik van kogels die in het menselijk lichaam gemakkelijk in omvang toenemen of platter worden, zoals kogels met een harde mantel die de kern gedeeltelijk onbedekt laat of voorzien is van inkepingen;
+- d) An attack by the armed forces of a State on the land, sea or air forces, or marine and air fleets of another State;
 
-  - xvi. gebruik van wapens die gebruik maken van microbiologische of andere biologische middelen, of gifstoffen, ongeacht hun herkomst of de wijze van productie;
+- e) The use of armed forces of one State which are within the territory of another State with the agreement of the receiving State, in contravention of the conditions provided for in the agreement or any extension of their presence in such territory beyond the termination of the agreement;
 
-  - xvii. gebruik van wapens met als voornaamste gevolg het veroorzaken van verwondingen door fragmenten die in het menselijk lichaam niet met röntgenstralen kunnen worden ontdekt;
+- f) The action of a State in allowing its territory, which it has placed at the disposal of another State, to be used by that other State for perpetrating an act of aggression against a third State;
 
-  - xviii. gebruik van laserwapens die speciaal zodanig zijn ontworpen dat hun enige gevechtsfunctie of een van hun gevechtsfuncties is het veroorzaken van blijvende blindheid bij onversterkt gezichtsvermogen, dat wil zeggen aan het blote oog of het oog met een corrigerende bril of lens;
+- g) The sending by or on behalf of a State of armed bands, groups, irregulars or mercenaries, which carry out acts of armed force against another State of such gravity as to amount to the acts listed above, or its substantial involvement therein.
 
-  - xix. opzettelijk gebruikmaken van uithongering van burgers als methode van oorlogsvoering door hun voorwerpen te onthouden die onontbeerlijk zijn voor hun overleving, waaronder het opzettelijk belemmeren van de aanvoer van hulpgoederen.
+##### Article 9. Elements of Crimes
 
-- f. Het tweede lid, onder e, geldt voor gewapende conflicten die niet internationaal van aard zijn en geldt derhalve niet voor gevallen van interne onlusten en spanningen zoals oproer, geïsoleerde en sporadische gewelddadigheden of andere handelingen van vergelijkbare aard. Het geldt voor gewapende conflicten die plaatsvinden op het grondgebied van een Staat in het geval van een langdurig gewapend conflict tussen overheidsautoriteiten en georganiseerde gewapende groepen of tussen deze groepen onderling.
+1. Elements of Crimes shall assist the Court in the interpretation and application of [articles 6](https://wetten.overheid.nl/BWBV0001489), [7](https://wetten.overheid.nl/BWBV0001489), [8](https://wetten.overheid.nl/BWBV0001489) and [8 bis](https://wetten.overheid.nl/BWBV0001489). They shall be adopted by a two-thirds majority of the members of the Assembly of States Parties.
 
-3. Het tweede lid, onder c en e, laat onverlet de verantwoordelijkheid van een regering om de openbare orde in de Staat te handhaven of te herstellen of om de eenheid en territoriale integriteit van de Staat met alle legitieme middelen te verdedigen.
+2. Amendments to the Elements of Crimes may be proposed by:
 
-##### Artikel 9. Elementen van Misdrijven
+- a) Any State Party;
 
-1. Elementen van misdrijven helpen het Hof bij de interpretatie en toepassing van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=6&z=2024-06-13&g=2024-06-13), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=7&z=2024-06-13&g=2024-06-13), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=8&z=2024-06-13&g=2024-06-13) en [8 bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=8_bis&z=2024-06-13&g=2024-06-13). Zij worden aangenomen met een tweederde meerderheid van de leden van de Vergadering van de Staten die Partij zijn.
+- b) The judges acting by an absolute majority;
 
-2. Wijzigingen in de elementen van misdrijven kunnen worden voorgesteld door:
+- c) The Prosecutor.
 
-- a. een Staat die Partij is;
+Such amendments shall be adopted by a two-thirds majority of the members of the Assembly of States Parties.
 
-- b. de rechters optredende bij absolute meerderheid;
+3. The Elements of Crimes and amendments thereto shall be consistent with this Statute.
 
-- c. de Aanklager.
+##### Article 10
 
-Deze wijzigingen worden aangenomen met een tweederde meerderheid van de leden van de Vergadering van de Staten die Partij zijn.
+Nothing in this Part shall be interpreted as limiting or prejudicing in any way existing or developing rules of international law for purposes other than this Statute.
 
-3. De elementen van misdrijven en wijzigingen daarop dienen in overeenstemming te zijn met dit Statuut.
+##### Article 11. Jurisdiction ratione temporis
 
-##### Artikel 10
+1. The Court has jurisdiction only with respect to crimes committed after the entry into force of this Statute.
 
-Niets in dit deel wordt zodanig uitgelegd dat daarmee, op welke wijze dan ook, een beperking zou worden aangebracht in of inbreuk zou worden gemaakt op bestaande of in ontwikkeling zijnde regels van internationaal recht, anders dan voor de doeleinden van dit Statuut.
+2. If a State becomes a Party to this Statute after its entry into force, the Court may exercise its jurisdiction only with respect to crimes committed after the entry into force of this Statute for that State, unless that State has made a declaration under [article 12, paragraph 3](https://wetten.overheid.nl/BWBV0001489).
 
-##### Artikel 11. Rechtsmacht ratione temporis
+##### Article 12. Preconditions to the exercise of jurisdiction
 
-1. Het Hof bezit alleen rechtsmacht met betrekking tot misdrijven die zijn begaan na inwerkingtreding van dit Statuut.
+1. A State which becomes a Party to this Statute thereby accepts the jurisdiction of the Court with respect to the crimes referred to in [article 5](https://wetten.overheid.nl/BWBV0001489).
 
-2. Indien een Staat Partij wordt bij dit Statuut na de inwerkingtreding daarvan, is het Hof slechts bevoegd zijn rechtsmacht uit te oefenen met betrekking tot misdrijven die zijn begaan na de inwerkingtreding van dit Statuut voor die Staat, tenzij die Staat een verklaring ingevolge [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=12&z=2024-06-13&g=2024-06-13), heeft afgelegd.
+2. In the case of [article 13, paragraph a) or c)](https://wetten.overheid.nl/BWBV0001489), the Court may exercise its jurisdiction if one or more of the following States are Parties to this Statute or have accepted the jurisdiction of the Court in accordance with paragraph 3:
 
-##### Artikel 12. Voorwaarden voor de uitoefening van rechtsmacht
+- a) The State on the territory of which the conduct in question occurred or, if the crime was committed on board a vessel or aircraft, the State of registration of that vessel or aircraft;
 
-1. Een Staat die Partij wordt bij dit Statuut aanvaardt daardoor de rechtsmacht van het Hof met betrekking tot de misdrijven bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2024-06-13&g=2024-06-13).
+- b) The State of which the person accused of the crime is a national.
 
-2. In het geval bedoeld in [artikel 13, onder a of c](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=13&z=2024-06-13&g=2024-06-13), is het Hof bevoegd zijn rechtsmacht uit te oefenen indien een of meer van de volgende Staten partij zijn bij dit Statuut of de rechtsmacht van het Hof hebben aanvaard overeenkomstig het derde lid:
+3. If the acceptance of a State which is not a Party to this Statute is required under paragraph 2, that State may, by declaration lodged with the Registrar, accept the exercise of jurisdiction by the Court with respect to the crime in question. The accepting State shall cooperate with the Court without any delay or exception in accordance with [Part 9](https://wetten.overheid.nl/BWBV0001489).
 
-- a. de Staat op wiens grondgebied de desbetreffende gedragingen plaatsvonden of, indien het misdrijf werd begaan aan boord van een schip of luchtvaartuig, de Staat van registratie van dat schip of luchtvaartuig;
+##### Article 13. Exercise of jurisdiction
 
-- b. de Staat waarvan de persoon die van het misdrijf wordt beschuldigd onderdaan is.
+The Court may exercise its jurisdiction with respect to a crime referred to in [article 5](https://wetten.overheid.nl/BWBV0001489) in accordance with the provisions of this Statute if:
 
-3. Indien de aanvaarding door een Staat die geen partij is bij dit Statuut is vereist ingevolge het tweede lid, kan die Staat, door middel van een verklaring die bij de Griffier wordt neergelegd, de uitoefening van rechtsmacht door het Hof aanvaarden met betrekking tot het desbetreffende misdrijf. De Staat die de uitoefening van rechtsmacht aanvaardt werkt zonder vertraging of uitzondering samen met het Hof overeenkomstig [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2024-06-13&g=2024-06-13).
+- a) A situation in which one or more of such crimes appears to have been committed is referred to the Prosecutor by a State Party in accordance with [article 14](https://wetten.overheid.nl/BWBV0001489);
 
-##### Artikel 13. Uitoefening van rechtsmacht
+- b) A situation in which one or more of such crimes appears to have been committed is referred to the Prosecutor by the Security Council acting under [Chapter VII of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&hoofdstuk=VII); or
 
-Het Hof is bevoegd zijn rechtsmacht uit te oefenen met betrekking tot een misdrijf bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2024-06-13&g=2024-06-13) overeenkomstig de bepalingen van dit Statuut, indien:
+- c) The Prosecutor has initiated an investigation in respect of such a crime in accordance with [article 15](https://wetten.overheid.nl/BWBV0001489).
 
-- a. een situatie waarin een of meer van deze misdrijven lijken te zijn begaan, overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=14&z=2024-06-13&g=2024-06-13) bij de Aanklager wordt aangegeven door een Staat die Partij is;
+##### Article 14. Referral of a situation by a State Party
 
-- b. een situatie waarin een of meer van deze misdrijven lijken te zijn begaan, bij de Aanklager wordt aangegeven door de Veiligheidsraad, handelend krachtens [Hoofdstuk VII van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&hoofdstuk=VII); of
+1. A State Party may refer to the Prosecutor a situation in which one or more crimes within the jurisdiction of the Court appear to have been committed requesting the Prosecutor to investigate the situation for the purpose of determining whether one or more specific persons should be charged with the commission of such crimes.
 
-- c. de Aanklager een onderzoek heeft geopend met betrekking tot dit misdrijf overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=15&z=2024-06-13&g=2024-06-13).
+2. As far as possible, a referral shall specify the relevant circumstances and be accompanied by such supporting documentation as is available to the State referring the situation.
 
-##### Artikel 14. Aangiften van een situatie door een Staat die Partij is
+##### Article 15. Prosecutor
 
-1. Een Staat die Partij is kan een situatie waarin een of meer misdrijven lijken te zijn begaan waarover het Hof rechtsmacht heeft aangeven bij de Aanklager waarbij de Aanklager wordt verzocht de situatie te onderzoeken teneinde vast te stellen of een of meer specifieke personen in staat van beschuldiging dienen te worden gesteld wegens het begaan van deze misdrijven.
+1. The Prosecutor may initiate investigations *proprio motu* on the basis of information on crimes within the jurisdiction of the Court.
 
-2. Voorzover mogelijk worden bij de aangifte de relevante omstandigheden vermeld, vergezeld van alle ondersteunende documenten die ter beschikking staan van de Staat die de aangifte doet.
+2. The Prosecutor shall analyse the seriousness of the information received. For this purpose, he or she may seek additional information from States, organs of the United Nations, intergovernmental or non-governmental organizations, or other reliable sources that he or she deems appropriate, and may receive written or oral testimony at the seat of the Court.
 
-##### Artikel 15. De Aanklager
+3. If the Prosecutor concludes that there is a reasonable basis to proceed with an investigation, he or she shall submit to the Pre-Trial Chamber a request for authorization of an investigation, together with any supporting material collected. Victims may make representations to the Pre-Trial Chamber, in accordance with the Rules of Procedure and Evidence.
 
-1. De Aanklager is bevoegd eigener beweging een onderzoek te openen op grond van informatie over misdrijven waarover het Hof rechtsmacht bezit.
+4. If the Pre-Trial Chamber, upon examination of the request and the supporting material, considers that there is a reasonable basis to proceed with an investigation, and that the case appears to fall within the jurisdiction of the Court, it shall authorize the commencement of the investigation, without prejudice to subsequent determinations by the Court with regard to the jurisdiction and admissibility of a case.
 
-2. De Aanklager onderzoekt de ernst van de ontvangen informatie. Hiertoe is hij bevoegd aanvullende informatie te verzoeken van Staten, organen van de Verenigde Naties, intergouvernementele of niet-gouvernementele organisaties, of van andere betrouwbare bronnen die daarvoor naar zijn mening in aanmerking komen, en is hij bevoegd schriftelijke of mondelinge getuigenverklaringen in ontvangst te nemen op de zetel van het Hof.
+5. The refusal of the Pre-Trial Chamber to authorize the investigation shall not preclude the presentation of a subsequent request by the Prosecutor based on new facts or evidence regarding the same situation.
 
-3. Indien de Aanklager concludeert dat er een redelijke basis is om tot een onderzoek over te gaan, dient hij een verzoek in bij de Kamer van vooronderzoek voor een machtiging daartoe, onder overlegging van het vergaarde ondersteunende materiaal. Slachtoffers kunnen hun visie kenbaar maken bij de Kamer van vooronderzoek overeenkomstig het Reglement van proces- en bewijsvoering.
+6. If, after the preliminary examination referred to in paragraphs 1 and 2, the Prosecutor concludes that the information provided does not constitute a reasonable basis for an investigation, he or she shall inform those who provided the information. This shall not preclude the Prosecutor from considering further information submitted to him or her regarding the same situation in the light of new facts or evidence.
 
-4. Indien de Kamer van vooronderzoek, na kennisneming van het verzoek en het ondersteunende materiaal, van oordeel is dat er een redelijke basis is om over te gaan tot een onderzoek en dat de zaak naar het zich laat aanzien binnen de rechtsmacht van het Hof valt, verleent de Kamer van vooronderzoek machtiging voor de opening van het onderzoek, ongeacht latere beslissingen van het Hof met betrekking tot de rechtsmacht en de ontvankelijkheid van een zaak.
+##### Article 15 bis. Exercise of jurisdiction over the crime of aggression (State referral, proprio motu)
 
-5. De weigering door de Kamer van vooronderzoek om machtiging te verlenen voor een onderzoek vormt geen beletsel voor de indiening door de Aanklager van een later verzoek dat gebaseerd is op nieuwe feiten of bewijs met betrekking tot dezelfde situatie.
+1. The Court may exercise jurisdiction over the crime of aggression in accordance with [article 13, paragraphs (a) and (c)](https://wetten.overheid.nl/BWBV0001489), subject to the provisions of this article.
 
-6. Indien de Aanklager na het voorbereidend onderzoek bedoeld in het eerste en tweede lid concludeert dat de verstrekte informatie geen redelijke basis voor een onderzoek oplevert, stelt hij degenen die de informatie hebben verstrekt daarvan in kennis. Dit belet de Aanklager niet nadere informatie die aan hem wordt overgelegd met betrekking tot dezelfde situatie in het licht van nieuwe feiten of bewijs in overweging te nemen.
+2. The Court may exercise jurisdiction only with respect to crimes of aggression committed one year after the ratification or acceptance of the amendments by thirty States Parties.
 
-##### Artikel 16. Opschorting van onderzoek of vervolging
+3. The Court shall exercise jurisdiction over the crime of aggression in accordance with this article, subject to a decision to be taken after 1 January 2017 by the same majority of States Parties as is required for the adoption of an amendment to the Statute.
 
-Geen onderzoek of vervolging kan worden aangevangen of voortgezet krachtens dit Statuut gedurende een periode van 12 maanden nadat de Veiligheidsraad bij resolutie die krachtens [Hoofdstuk VII van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&hoofdstuk=VII) is aangenomen, een verzoek daartoe tot het Hof heeft gericht; het verzoek kan door de Raad worden hernieuwd onder dezelfde voorwaarden.
+4. The Court may, in accordance with [article 12](https://wetten.overheid.nl/BWBV0001489), exercise jurisdiction over a crime of aggression, arising from an act of aggression committed by a State Party, unless that State Party has previously declared that it does not accept such jurisdiction by lodging a declaration with the Registrar. The withdrawal of such a declaration may be effected at any time and shall be considered by the State Party within three years.
 
-##### Artikel 17. Vragen met betrekking tot ontvankelijkheid
+5. In respect of a State that is not a party to this Statute, the Court shall not exercise its jurisdiction over the crime of aggression when committed by that State’s nationals or on its territory.
 
-1. Gelet op het tiende lid van de Preambule en [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=1&artikel=1&z=2024-06-13&g=2024-06-13) besluit het Hof tot niet-ontvankelijkheid van een zaak indien:
+6. Where the Prosecutor concludes that there is a reasonable basis to proceed with an investigation in respect of a crime of aggression, he or she shall first ascertain whether the Security Council has made a determination of an act of aggression committed by the State concerned. The Prosecutor shall notify the Secretary-General of the United Nations of the situation before the Court, including any relevant information and documents.
 
-- a. in de zaak onderzoek of vervolging plaatsvindt door een Staat die ter zake rechtsmacht heeft, tenzij de Staat niet bereid of niet bij machte is het onderzoek of de vervolging daadwerkelijk uit te voeren;
+7. Where the Security Council has made such a determination, the Prosecutor may proceed with the investigation in respect of a crime of aggression.
 
-- b. in de zaak een onderzoek is verricht door een Staat die ter zake rechtsmacht heeft en de Staat besloten heeft de betrokken persoon niet te vervolgen, tenzij het besluit het gevolg was van het niet bereid of niet bij machte zijn van de Staat de vervolging daadwerkelijk uit te voeren;
+8. Where no such determination is made within six months after the date of notification, the Prosecutor may proceed with the investigation in respect of a crime of aggression, provided that the Pre-Trial Division has authorized the commencement of the investigation in respect of a crime of aggression in accordance with the procedure contained in [article 15](https://wetten.overheid.nl/BWBV0001489), and the Security Council has not decided otherwise in accordance with [article 16](https://wetten.overheid.nl/BWBV0001489).
 
-- c. de betrokken persoon reeds terecht heeft gestaan voor gedragingen waarop de klacht betrekking heeft, en terechtstaan voor het Hof niet is toegestaan ingevolge [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=20&z=2024-06-13&g=2024-06-13);
+9. A determination of an act of aggression by an organ outside the Court shall be without prejudice to the Court’s own findings under this Statute.
 
-- d. de zaak niet voldoende ernstig is om verdere stappen van het Hof te rechtvaardigen.
+10. This article is without prejudice to the provisions relating to the exercise of jurisdiction with respect to other crimes referred to in [article 5](https://wetten.overheid.nl/BWBV0001489).
 
-2. Bij de vaststelling of sprake is van het ontbreken van bereidheid in een bepaalde zaak beoordeelt het Hof, met inachtneming van de in het internationale recht erkende beginselen van een behoorlijke rechtsgang, of een of meer van de volgende omstandigheden zich voordoen:
+##### Article 15 ter. Exercise of jurisdiction over the crime of aggression (Security Council referral)
 
-- a. tot de procedure werd of wordt overgegaan of het nationale besluit werd genomen teneinde de betrokken persoon af te schermen tegen strafrechtelijke aansprakelijkheid voor misdrijven waarover het Hof rechtsmacht bezit als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2024-06-13&g=2024-06-13);
+1. The Court may exercise jurisdiction over the crime of aggression in accordance with [article 13, paragraph (b)](https://wetten.overheid.nl/BWBV0001489), subject to the provisions of this article.
 
-- b. er is sprake van ongerechtvaardigde vertraging in de procedure die, onder de omstandigheden, niet verenigbaar is met het voornemen de betrokken persoon terecht te doen staan;
+2. The Court may exercise jurisdiction only with respect to crimes of aggression committed one year after the ratification or acceptance of the amendments by thirty States Parties.
 
-- c. de procedure werd of wordt niet gevoerd op een onafhankelijke of onpartijdige wijze en vond of vindt plaats op een wijze die, onder de omstandigheden, niet verenigbaar is met het voornemen om de betrokken persoon terecht te doen staan.
+3. The Court shall exercise jurisdiction over the crime of aggression in accordance with this article, subject to a decision to be taken after 1 January 2017 by the same majority of States Parties as is required for the adoption of an amendment to the Statute.
 
-3. Bij de bepaling of in een afzonderlijk geval sprake is van onmacht, gaat het Hof na of de Staat vanwege een algehele of substantiële ineenstorting of niet-beschikbaarheid van zijn nationale rechterlijke organisatie, niet bij machte is de verdachte of het noodzakelijke bewijs en de noodzakelijke getuigenverklaringen in handen te krijgen of anderszins niet bij machte is tot het voeren van zijn procedure.
+4. A determination of an act of aggression by an organ outside the Court shall be without prejudice to the Court’s own findings under this Statute.
 
-##### Artikel 18. Voorafgaande beslissingen met betrekking tot ontvankelijkheid
+5. This article is without prejudice to the provisions relating to the exercise of jurisdiction with respect to other crimes referred to in [article 5](https://wetten.overheid.nl/BWBV0001489).
 
-1. Wanneer aangifte is gedaan van een situatie bij het Hof ingevolge [artikel 13, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=13&z=2024-06-13&g=2024-06-13), en de Aanklager heeft bepaald dat er een redelijke basis is om een onderzoek te openen, of de Aanklager opent een onderzoek ingevolge artikel 13, onder c, en [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=15&z=2024-06-13&g=2024-06-13), stelt de Aanklager alle Staten die Partij zijn hiervan in kennis, alsmede die Staten die, de beschikbare informatie in aanmerking nemende, normaliter rechtsmacht zouden uitoefenen ter zake van de betrokken misdrijven. De Aanklager is bevoegd de kennisgeving op vertrouwelijke basis aan deze Staten te verstrekken en de omvang van de aan Staten te verstrekken informatie te beperken als de Aanklager dit noodzakelijk acht ter bescherming van personen, of teneinde vernietiging van bewijsmateriaal te voorkomen of personen het vluchten te beletten.
+##### Article 16. Deferral of investigation or prosecution
 
-2. Binnen een maand na ontvangst van die kennisgeving kan een Staat het Hof meedelen dat hij een onderzoek instelt of heeft ingesteld met betrekking tot zijn onderdanen of anderen waarover hij rechtsmacht bezit inzake strafbare handelingen die misdrijven kunnen opleveren als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2024-06-13&g=2024-06-13) en betrekking hebben op de informatie die is verstrekt in de aan Staten gerichte kennisgeving. Op verzoek van die Staat besluit de Aanklager tot opschorting ten gunste van het onderzoek van de Staat naar die personen, tenzij de Kamer van vooronderzoek op verzoek van de Aanklager besluit tot machtiging voor het onderzoek.
+No investigation or prosecution may be commenced or proceeded with under this Statute for a period of 12 months after the Security Council, in a resolution adopted under[Chapter VII of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&hoofdstuk=VII), has requested the Court to that effect; that request may be renewed by the Council under the same conditions.
 
-3. De opschorting door de Aanklager ten behoeve van het onderzoek van een Staat staat open voor herziening zes maanden na de datum van de opschorting of telkens wanneer er sprake is van een belangrijke verandering in de omstandigheden gegrond op het niet bereid of bij machte zijn van de Staat om het onderzoek daadwerkelijk uit te voeren.
+##### Article 17. Issues of admissibility
 
-4. De betrokken Staat of de Aanklager is bevoegd tegen een beslissing van de Kamer van vooronderzoek in beroep te gaan bij de Kamer van beroep overeenkomstig [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=8&artikel=82&z=2024-06-13&g=2024-06-13). Het beroep kan in een verkorte procedure worden behandeld.
+1. Having regard to [paragraph 10 of the Preamble](https://wetten.overheid.nl/BWBV0001489) and [article 1](https://wetten.overheid.nl/BWBV0001489), the Court shall determine that a case is inadmissible where:
 
-5. Wanneer de Aanklager tot opschorting heeft besloten ten behoeve van een onderzoek overeenkomstig het tweede lid, is de Aanklager bevoegd de betrokken Staat te verzoeken hem periodiek te informeren over de vooruitgang van zijn onderzoek en de daaropvolgende vervolging. Staten die Partij zijn dienen onverwijld aan deze verzoeken te voldoen.
+- a) The case is being investigated or prosecuted by a State which has jurisdiction over it, unless the State is unwilling or unable genuinely to carry out the investigation or prosecution;
 
-6. Hangende een beslissing van de Kamer van vooronderzoek of telkens wanneer de Aanklager ingevolge dit artikel tot opschorting heeft besloten ten behoeve van een onderzoek, is de Aanklager bevoegd, bij wijze van uitzondering, de Kamer van vooronderzoek om machtiging te verzoeken tot het verrichten van noodzakelijke onderzoekshandelingen teneinde bewijsmateriaal veilig te stellen, wanneer zich een eenmalige gelegenheid voordoet om belangrijk bewijsmateriaal te verkrijgen of wanneer een aanzienlijk risico bestaat dat dergelijk bewijs nadien niet meer beschikbaar is.
+- b) The case has been investigated by a State which has jurisdiction over it and the State has decided not to prosecute the person concerned, unless the decision resulted from the unwillingness or inability of the State genuinely to prosecute;
 
-7. Een Staat die een beslissing van de Kamer van vooronderzoek ingevolge dit artikel heeft aangevochten, is bevoegd de ontvankelijkheid van een zaak ingevolge [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=19&z=2024-06-13&g=2024-06-13) te betwisten op grond van aanvullende relevante feiten of een wezenlijke wijziging in de omstandigheden.
+- c) The person concerned has already been tried for conduct which is the subject of the complaint, and a trial by the Court is not permitted under [article 20, paragraph 3](https://wetten.overheid.nl/BWBV0001489);
 
-##### Artikel 19. Betwisting van de rechtsmacht van het Hof of de ontvankelijkheid van een zaak
+- d) The case is not of sufficient gravity to justify further action by the Court.
 
-1. Het Hof overtuigt zich ervan dat het rechtsmacht bezit over elke zaak die bij hem is aangebracht. Het Hof is ambtshalve bevoegd de ontvankelijkheid van een zaak overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2024-06-13&g=2024-06-13) vast te stellen.
+2. In order to determine unwillingness in a particular case, the Court shall consider, having regard to the principles of due process recognized by international law, whether one or more of the following exist, as applicable:
 
-2. De ontvankelijkheid van een zaak op de gronden bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2024-06-13&g=2024-06-13) of de rechtsmacht van het Hof kunnen worden betwist door:
+- a) The proceedings were or are being undertaken or the national decision was made for the purpose of shielding the person concerned from criminal responsibility for crimes within the jurisdiction of the Court referred to in [article 5](https://wetten.overheid.nl/BWBV0001489);
 
-- a. een verdachte of een persoon tegen wie een bevel tot aanhouding of een oproep tot verschijnen is uitgevaardigd ingevolge [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=58&z=2024-06-13&g=2024-06-13);
+- b) There has been an unjustified delay in the proceedings which in the circumstances is inconsistent with an intent to bring the person concerned to justice;
 
-- b. een Staat die rechtsmacht bezit over een zaak op grond van het feit dat hij in de zaak een onderzoek verricht of heeft verricht of vervolging instelt of heeft ingesteld; of
+- c) The proceedings were not or are not being conducted independently or impartially, and they were or are being conducted in a manner which, in the circumstances, is inconsistent with an intent to bring the person concerned to justice.
 
-- c. een Staat wiens aanvaarding van rechtsmacht is vereist ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=12&z=2024-06-13&g=2024-06-13).
+3. In order to determine inability in a particular case, the Court shall consider whether, due to a total or substantial collapse or unavailability of its national judicial system, the State is unable to obtain the accused or the necessary evidence and testimony or otherwise unable to carry out its proceedings.
 
-3. De Aanklager is bevoegd het Hof te verzoeken om een beslissing met betrekking tot een vraag over rechtsmacht of ontvankelijkheid. In procedures die betrekking hebben op rechtsmacht of ontvankelijkheid kunnen zowel zij die aangifte hebben gedaan van de situatie ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=13&z=2024-06-13&g=2024-06-13), als slachtoffers hun opvattingen aan het Hof kenbaar maken.
+##### Article 18. Preliminary rulings regarding admissibility
 
-4. De ontvankelijkheid van een zaak of de rechtsmacht van het Hof kan slechts eenmaal worden betwist door een persoon of Staat als bedoeld in het tweede lid. De betwisting dient te geschieden voor of bij de aanvang van de terechtzitting. In uitzonderlijke omstandigheden is het Hof bevoegd toestemming te verlenen tot het meerdere malen naar voren brengen van de betwisting of betwisting toestaan op een later tijdstip dan bij de aanvang van de terechtzitting. Betwisting van de ontvankelijkheid van een zaak bij de aanvang van een terechtzitting of op een later tijdstip met toestemming van het Hof mag alleen worden gebaseerd op [artikel 17, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2024-06-13&g=2024-06-13).
+1. When a situation has been referred to the Court pursuant to [article 13 a)](https://wetten.overheid.nl/BWBV0001489) and the Prosecutor has determined that there would be a reasonable basis to commence an investigation, or the Prosecutor initiates an investigation pursuant to [articles 13 c)](https://wetten.overheid.nl/BWBV0001489) and [15](https://wetten.overheid.nl/BWBV0001489), the Prosecutor shall notify all States Parties and those States which, taking into account the information available, would normally exercise jurisdiction over the crimes concerned. The Prosecutor may notify such States on a confidential basis and, where the Prosecutor believes it necessary to protect persons, prevent destruction of evidence or prevent the absconding of persons, may limit the scope of the information provided to States.
 
-5. Een Staat als bedoeld in het tweede lid, onder b en c, maakt zijn bezwaren in een zo vroeg mogelijk stadium kenbaar.
+2. Within one month of receipt of that notification, a State may inform the Court that it is investigating or has investigated its nationals or others within its jurisdiction with respect to criminal acts which may constitute crimes referred to in [article 5](https://wetten.overheid.nl/BWBV0001489) and which relate to the information provided in the notification to States. At the request of that State, the Prosecutor shall defer to the State's investigation of those persons unless the Pre-Trial Chamber, on the application of the Prosecutor, decides to authorize the investigation.
 
-6. Voorafgaand aan de bevestiging van de tenlastelegging dient elke betwisting van de ontvankelijkheid van een zaak of van de rechtsmacht van het Hof te worden verwezen naar de Kamer van vooronderzoek. Na bevestiging van de tenlastelegging wordt de betwisting verwezen naar de Kamer van berechting. Tegen besluiten met betrekking tot rechtsmacht of ontvankelijkheid kan in beroep worden gegaan bij de Kamer van beroep overeenkomstig [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=8&artikel=82&z=2024-06-13&g=2024-06-13).
+3. The Prosecutor's deferral to a State's investigation shall be open to review by the Prosecutor six months after the date of deferral or at any time when there has been a significant change of circumstances based on the State's unwillingness or inability genuinely to carry out the investigation.
 
-7. Indien een betwisting plaatsvindt door een Staat bedoeld in het tweede lid, onder b of c, schort de Aanklager het onderzoek op totdat het Hof een beslissing neemt overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2024-06-13&g=2024-06-13).
+4. The State concerned or the Prosecutor may appeal to the Appeals Chamber against a ruling of the Pre-Trial Chamber, in accordance with [article 82](https://wetten.overheid.nl/BWBV0001489). The appeal may be heard on an expedited basis.
 
-8. Hangende een beslissing van het Hof is de Aanklager bevoegd het Hof te verzoeken hem machtiging te verlenen:
+5. When the Prosecutor has deferred an investigation in accordance with paragraph 2, the Prosecutor may request that the State concerned periodically inform the Prosecutor of the progress of its investigations and any subsequent prosecutions. States Parties shall respond to such requests without undue delay.
 
-- a. de noodzakelijke onderzoekshandelingen te verrichten van het soort bedoeld in [artikel 18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=18&z=2024-06-13&g=2024-06-13);
+6. Pending a ruling by the Pre-Trial Chamber, or at any time when the Prosecutor has deferred an investigation under this article, the Prosecutor may, on an exceptional basis, seek authority from the Pre-Trial Chamber to pursue necessary investigative steps for the purpose of preserving evidence where there is a unique opportunity to obtain important evidence or there is a significant risk that such evidence may not be subsequently available.
 
-- b. een verklaring of getuigenis van een getuige op te nemen of het vergaren en onderzoeken van bewijs te voltooien dat was aangevangen voordat een betwisting plaatsvond; en
+7. A State which has challenged a ruling of the Pre-Trial Chamber under this article may challenge the admissibility of a case under [article 19](https://wetten.overheid.nl/BWBV0001489) on the grounds of additional significant facts or significant change of circumstances.
 
-- c. in samenwerking met de betrokken Staten, personen ten aanzien van wie de Aanklager reeds om een bevel tot aanhouding ingevolge [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=58&z=2024-06-13&g=2024-06-13) heeft verzocht, het vluchten te beletten.
+##### Article 19. Challenges to the jurisdiction of the Court or the admissibility of a case
 
-9. De betwisting doet geen afbreuk aan de geldigheid van een handeling verricht door de Aanklager of aan een opdracht of bevel gegeven door het Hof voordat de betwisting plaatsvond.
+1. The Court shall satisfy itself that it has jurisdiction in any case brought before it. The Court may, on its own motion, determine the admissibility of a case in accordance with [article 17](https://wetten.overheid.nl/BWBV0001489).
 
-10. Indien het Hof heeft besloten dat een zaak niet-ontvankelijk is ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2024-06-13&g=2024-06-13), is de Aanklager bevoegd een verzoek in te dienen tot herziening van het besluit wanneer hij volledig overtuigd is van het feit dat nieuwe feiten aan het licht zijn gekomen die de grondslag ontkrachten waarop voordien de zaak niet ontvankelijk was bevonden ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2024-06-13&g=2024-06-13).
+2. Challenges to the admissibility of a case on the grounds referred to in [article 17](https://wetten.overheid.nl/BWBV0001489) or challenges to the jurisdiction of the Court may be made by:
 
-11. Indien de Aanklager, gelet op het bedoelde in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2024-06-13&g=2024-06-13), een onderzoek opschort, heeft de Aanklager het recht de betrokken Staat te verzoeken informatie over de procedure te verschaffen aan de Aanklager. Die informatie wordt op verzoek van de betrokken Staat vertrouwelijk behandeld. Indien de Aanklager daarna besluit een onderzoek voort te zetten, stelt hij de Staat daarvan in kennis ten gunste van wiens procedure hij zijn onderzoek heeft opgeschort.
+- a) An accused or a person for whom a warrant of arrest or a summons to appear has been issued under [article 58](https://wetten.overheid.nl/BWBV0001489);
 
-##### Artikel 20. Ne bis in idem
+- b) A State which has jurisdiction over a case, on the ground that it is investigating or prosecuting the case or has investigated or prosecuted; or
 
-1. Behoudens hetgeen in dit Statuut is bepaald, staat niemand voor het Hof terecht ter zake van gedragingen die de grondslag vormden van misdrijven waarvoor de betrokkene door het Hof is veroordeeld of vrijgesproken.
+- c) A State from which acceptance of jurisdiction is required under [article 12](https://wetten.overheid.nl/BWBV0001489).
 
-2. Niemand staat terecht voor een ander gerecht ter zake van een misdrijf bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2024-06-13&g=2024-06-13) waarvoor de betrokkene reeds door het Hof is veroordeeld of vrijgesproken.
+3. The Prosecutor may seek a ruling from the Court regarding a question of jurisdiction or admissibility. In proceedings with respect to jurisdiction or admissibility, those who have referred the situation under [article 13](https://wetten.overheid.nl/BWBV0001489), as well as victims, may also submit observations to the Court.
 
-3. Niemand die voor een ander gerecht heeft terechtgestaan ter zake van gedragingen die ook ingevolge de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=6&z=2024-06-13&g=2024-06-13), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=7&z=2024-06-13&g=2024-06-13), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=8&z=2024-06-13&g=2024-06-13) of [8 bis](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=8_bis&z=2024-06-13&g=2024-06-13) verboden zijn, staat voor het Hof terecht voor dezelfde gedragingen, tenzij de procedure bij het andere gerecht:
+4. The admissibility of a case or the jurisdiction of the Court may be challenged only once by any person or State referred to in paragraph 2. The challenge shall take place prior to or at the commencement of the trial. In exceptional circumstances, the Court may grant leave for a challenge to be brought more than once or at a time later than the commencement of the trial. Challenges to the admissibility of a case, at the commencement of a trial, or subsequently with the leave of the Court, may be based only on [article 17, paragraph 1 c)](https://wetten.overheid.nl/BWBV0001489).
 
-- a. diende ter afscherming van de betrokkene tegen strafrechtelijke aansprakelijkheid ter zake van misdrijven waarover het Hof rechtsmacht bezit; of
+5. A State referred to in paragraph 2 b) and c) shall make a challenge at the earliest opportunity.
 
-- b. anderszins niet op onafhankelijke of onpartijdige wijze verliep overeenkomstig de in het internationale recht erkende normen voor een behoorlijke rechtsgang en plaatsvond op een wijze die, onder de omstandigheden, niet verenigbaar was met het voornemen om de betrokkene terecht te doen staan.
+6. Prior to the confirmation of the charges, challenges to the admissibility of a case or challenges to the jurisdiction of the Court shall be referred to the Pre-Trial Chamber. After confirmation of the charges, they shall be referred to the Trial Chamber. Decisions with respect to jurisdiction or admissibility may be appealed to the Appeals Chamber in accordance with [article 82](https://wetten.overheid.nl/BWBV0001489).
 
-##### Artikel 21. Toepasselijk recht
+7. If a challenge is made by a State referred to in paragraph 2 b) or c), the Prosecutor shall suspend the investigation until such time as the Court makes a determination in accordance with [article 17](https://wetten.overheid.nl/BWBV0001489).
 
-1. Het Hof past toe:
+8. Pending a ruling by the Court, the Prosecutor may seek authority from the Court:
 
-- a. in de eerste plaats, dit Statuut, de Elementen van misdrijven en zijn Reglement van proces- en bewijsvoering;
+- a) To pursue necessary investigative steps of the kind referred to in [article 18, paragraph 6](https://wetten.overheid.nl/BWBV0001489);
 
-- b. in de tweede plaats, indien van toepassing, toepasselijke verdragen en de beginselen en regels van internationaal recht, waaronder de gevestigde beginselen van het internationaal recht inzake gewapende conflicten;
+- b) To take a statement or testimony from a witness or complete the collection and examination of evidence which had begun prior to the making of the challenge; and
 
-- c. bij gebreke daarvan, algemene rechtsbeginselen die door het Hof worden ontleend aan de nationale wetten van rechtsstelsels van de wereld, waaronder, indien van toepassing, nationale wetten van Staten die normaliter rechtsmacht zouden uitoefenen ter zake van het misdrijf, mits die beginselen niet onverenigbaar zijn met dit Statuut en met internationaal recht en internationaal erkende normen en maatstaven.
+- c) In cooperation with the relevant States, to prevent the absconding of persons in respect of whom the Prosecutor has already requested a warrant of arrest under [article 58](https://wetten.overheid.nl/BWBV0001489).
 
-2. Het Hof is bevoegd beginselen en rechtsregels toe te passen overeenkomstig de interpretatie die het in zijn voorgaande beslissingen daaraan gaf.
+9. The making of a challenge shall not affect the validity of any act performed by the Prosecutor or any order or warrant issued by the Court prior to the making of the challenge.
 
-3. De toepassing en interpretatie van het recht ingevolge dit artikel dient verenigbaar te zijn met internationaal erkende mensenrechten, waarbij geen nadelig onderscheid mag worden gemaakt op zulke gronden als geslacht, zoals gedefinieerd in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=7&z=2024-06-13&g=2024-06-13), leeftijd, ras, huidskleur, taal, godsdienst of geloof, politieke of andere opvatting, nationale, etnische of maatschappelijke oorsprong, bezit, geboorte of andere status.
+10. If the Court has decided that a case is inadmissible under [article 17](https://wetten.overheid.nl/BWBV0001489), the Prosecutor may submit a request for a review of the decision when he or she is fully satisfied that new facts have arisen which negate the basis on which the case had previously been found inadmissible under article 17.
 
-## DEEL 3. ALGEMENE BEGINSELEN VAN STRAFRECHT
+11. If the Prosecutor, having regard to the matters referred to in [article 17](https://wetten.overheid.nl/BWBV0001489), defers an investigation, the Prosecutor may request that the relevant State make available to the Prosecutor information on the proceedings. That information shall, at the request of the State concerned, be confidential. If the Prosecutor thereafter decides to proceed with an investigation, he or she shall notify the State to which deferral of the proceedings has taken place.
 
-##### Artikel 22. Nullum crimen sine lege
+##### Article 20. Ne bis in idem
 
-1. Niemand zal krachtens dit Statuut strafrechtelijk aansprakelijk zijn tenzij het desbetreffende feit op het tijdstip waarop het plaatsvindt een misdrijf oplevert waarover het Hof rechtsmacht bezit.
+1. Except as provided in this Statute, no person shall be tried before the Court with respect to conduct which formed the basis of crimes for which the person has been convicted or acquitted by the Court.
 
-2. De definitie van een misdrijf wordt strikt geïnterpreteerd en niet verruimd naar analogie. In geval van dubbelzinnigheid wordt de definitie uitgelegd in het voordeel van de persoon ten aanzien van wie een onderzoek plaatsvindt of die vervolgd of veroordeeld wordt.
+2. No person shall be tried by another court for a crime referred to in [article 5](https://wetten.overheid.nl/BWBV0001489) for which that person has already been convicted or acquitted by the Court.
 
-3. Dit artikel laat onverlet de aanmerking van feiten als strafbaar naar internationaal recht los van dit Statuut.
+3. No person who has been tried by another court for conduct also proscribed under [article 6](https://wetten.overheid.nl/BWBV0001489), [7](https://wetten.overheid.nl/BWBV0001489), [8](https://wetten.overheid.nl/BWBV0001489) or [8 bis](https://wetten.overheid.nl/BWBV0001489) shall be tried by the Court with respect to the same conduct unless the proceedings in the other court:
 
-##### Artikel 23. Nulla poena sine lege
+- a) Were for the purpose of shielding the person concerned from criminal responsibility for crimes within the jurisdiction of the Court; or
 
-Een door het Hof veroordeelde persoon kan uitsluitend worden gestraft overeenkomstig dit Statuut.
+- b) Otherwise were not conducted independently or impartially in accordance with the norms of due process recognized by international law and were conducted in a manner which, in the circumstances, was inconsistent with an intent to bring the person concerned to justice.
 
-##### Artikel 24. Geen terugwerkende kracht ratione personae
+##### Article 21. Applicable law
 
-1. Niemand is strafrechtelijk aansprakelijk krachtens dit Statuut ter zake van een feit dat plaatsvond voor de inwerkingtreding van het Statuut.
+1. The Court shall apply:
 
-2. Ingeval van een wijziging van het op een bepaalde zaak toepasselijke recht voordat een definitieve uitspraak wordt gewezen, wordt het voor de aan een onderzoek onderworpen, vervolgde of veroordeelde persoon gunstigste recht toegepast.
+- a) In the first place, this Statute, Elements of Crimes and its Rules of Procedure and Evidence;
 
-##### Artikel 25. Individuele strafrechtelijke aansprakelijkheid
+- b) In the second place, where appropriate, applicable treaties and the principles and rules of international law, including the established principles of the international law of armed conflict;
 
-1. Het Hof bezit krachtens dit Statuut rechtsmacht over natuurlijke personen.
+- c) Failing that, general principles of law derived by the Court from national laws of legal systems of the world including, as appropriate, the national laws of States that would normally exercise jurisdiction over the crime, provided that those principles are not inconsistent with this Statute and with international law and internationally recognized norms and standards.
 
-2. Een persoon die een misdrijf begaat waarover het Hof rechtsmacht bezit is persoonlijk aansprakelijk en strafbaar overeenkomstig dit Statuut.
+2. The Court may apply principles and rules of law as interpreted in its previous decisions.
 
-3. Overeenkomstig dit Statuut is een persoon strafrechtelijk aansprakelijk en strafbaar voor een misdrijf waarover het Hof rechtsmacht bezit, indien die persoon:
+3. The application and interpretation of law pursuant to this article must be consistent with internationally recognized human rights, and be without any adverse distinction founded on grounds such as gender as defined in [article 7, paragraph 3](https://wetten.overheid.nl/BWBV0001489), age, race, colour, language, religion or belief, political or other opinion, national, ethnic or social origin, wealth, birth or other status.
 
-- a. een dergelijk misdrijf begaat als individu, gezamenlijk met, of door middel van een andere persoon, ongeacht of die andere persoon strafrechtelijk aansprakelijk is;
+## PART 3. GENERAL PRINCIPLES OF CRIMINAL LAW
 
-- b. opdracht geeft tot, verzoekt om of beweegt tot het begaan van een dergelijk misdrijf dat feitelijk plaatsvindt of waartoe een poging wordt gedaan;
+##### Article 22. Nullum crimen sine lege
 
-- c. teneinde het begaan van een dergelijk misdrijf te vergemakkelijken, hulp biedt, medewerking verleent of anderszins bijstand biedt bij het begaan daarvan of een poging tot het begaan, met inbegrip van het verschaffen van de middelen tot het begaan;
+1. A person shall not be criminally responsible under this Statute unless the conduct in question constitutes, at the time it takes place, a crime within the jurisdiction of the Court.
 
-- d. op andere wijze meewerkt aan het begaan of een poging tot het begaan van een dergelijk misdrijf door een groep personen die handelt met een gemeenschappelijk doel. Deze medewerking dient opzettelijk te zijn en dient:
+2. The definition of a crime shall be strictly construed and shall not be extended by analogy. In case of ambiguity, the definition shall be interpreted in favour of the person being investigated, prosecuted or convicted.
 
-  - i. te worden verleend met het doel de criminele activiteit of het criminele doel van de groep te bevorderen, terwijl een dergelijke activiteit of doel het begaan van een misdrijf betekent waarover het Hof rechtsmacht bezit; of
+3. This article shall not affect the characterization of any conduct as criminal under international law independently of this Statute.
 
-  - ii. te worden verleend met kennis van de bedoeling van de groep om het misdrijf te begaan;
+##### Article 23. Nulla poena sine lege
 
-- e. met betrekking tot het misdrijf genocide, rechtstreeks en openlijk anderen aanzet tot het plegen van genocide;
+A person convicted by the Court may be punished only in accordance with this Statute.
 
-- f. een poging doet een dergelijk misdrijf te begaan door stappen te nemen waardoor de uitvoering van het misdrijf wezenlijk in gang wordt gezet, maar het misdrijf niet wordt voltrokken ten gevolge van omstandigheden die onafhankelijk zijn van de bedoelingen van de persoon. Een persoon die echter de poging tot het begaan van het misdrijf staakt of anderszins de voltrekking van het misdrijf verhindert, is niet strafbaar krachtens dit Statuut ter zake van de poging tot het begaan van dat misdrijf, indien die persoon volledig en vrijwillig van het misdadig doel heeft afgezien.
+##### Article 24. Non-retroactivity ratione personae
 
-3. bis. Met betrekking tot het misdrijf agressie zijn de bepalingen van dit artikel uitsluitend van toepassing op personen die in de positie verkeren daadwerkelijk controle uit te oefenen over of leiding te geven aan het politieke of militaire optreden van een Staat.
+1. No person shall be criminally responsible under this Statute for conduct prior to the entry into force of the Statute.
 
-4. Geen van de bepalingen van dit Statuut met betrekking tot individuele strafrechtelijke aansprakelijkheid is van invloed op de aansprakelijkheid van Staten krachtens internationaal recht.
+2. In the event of a change in the law applicable to a given case prior to a final judgement, the law more favourable to the person being investigated, prosecuted or convicted shall apply.
 
-##### Artikel 26. Uitsluiting van rechtsmacht over personen beneden de achttien jaar
+##### Article 25. Individual criminal responsibility
 
-Het Hof bezit geen rechtsmacht over een persoon wiens leeftijd lager was dan achttien jaar ten tijde van het vermeende begaan van een misdrijf.
+1. The Court shall have jurisdiction over natural persons pursuant to this Statute.
 
-##### Artikel 27. Irrelevantie van officiële hoedanigheid
+2. A person who commits a crime within the jurisdiction of the Court shall be individually responsible and liable for punishment in accordance with this Statute.
 
-1. Dit Statuut geldt gelijkelijk ten aanzien van een ieder zonder enig onderscheid op grond van de officiële hoedanigheid. In het bijzonder ontheft de officiële hoedanigheid als staatshoofd of regeringsleider, lid van een regering of parlement, gekozen vertegenwoordiger of ambtenaar een persoon nimmer van strafrechtelijke aansprakelijkheid krachtens dit Statuut en evenmin vormt dit op zichzelf en zonder meer een grond voor strafvermindering.
+3. In accordance with this Statute, a person shall be criminally responsible and liable for punishment for a crime within the jurisdiction of the Court if that person:
 
-2. Immuniteit of bijzondere procedurele regels die mogelijk verbonden zijn aan de officiële hoedanigheid van een persoon, krachtens nationaal of internationaal recht, vormen voor het Hof geen beletsel voor het uitoefenen van zijn rechtsmacht over deze persoon.
+- a) Commits such a crime, whether as an individual, jointly with another or through another person, regardless of whether that other person is criminally responsible;
 
-##### Artikel 28. Aansprakelijkheid van bevelhebbers en andere meerderen
+- b) Orders, solicits or induces the commission of such a crime which in fact occurs or is attempted;
 
-In aanvulling op andere gronden voor strafrechtelijke aansprakelijkheid krachtens dit Statuut voor misdrijven waarover het Hof rechtsmacht bezit:
+- c) For the purpose of facilitating the commission of such a crime, aids, abets or otherwise assists in its commission or its attempted commission, including providing the means for its commission;
 
-- a. is een militair bevelhebber of persoon die daadwerkelijk als militair bevelhebber optreedt, strafrechtelijk aansprakelijk voor misdrijven waarover het Hof rechtsmacht bezit, wanneer die zijn begaan door strijdkrachten onder zijn daadwerkelijk bevel en leiding of, afhankelijk van de omstandigheden, onder zijn daadwerkelijke gezag en leiding, als gevolg van zijn nalaten behoorlijk leiding te geven aan die strijdkrachten, indien:
+- d) In any other way contributes to the commission or attempted commission of such a crime by a group of persons acting with a common purpose. Such contribution shall be intentional and shall either:
 
-  - i. die militaire bevelhebber of persoon kennis had van het feit dat de strijdkrachten deze misdrijven begingen of op het punt stonden deze te begaan, dan wel wegens de omstandigheden op dat moment kennis daarvan had dienen te hebben; en
+   - (i) Be made with the aim of furthering the criminal activity or criminal purpose of the group, where such activity or purpose involves the commission of a crime within the jurisdiction of the Court; or
 
-  - ii. die militaire bevelhebber of persoon naliet alle noodzakelijke en redelijke maatregelen te treffen die binnen zijn macht lagen om het begaan daarvan te verhinderen of te beperken of de zaak voor te leggen aan de bevoegde autoriteiten voor onderzoek en vervolging.
+   - (ii) Be made in the knowledge of the intention of the group to commit the crime;
 
-- b. is een meerdere voor wat betreft de verhouding tussen een meerdere en andere dan onder a bedoelde ondergeschikten, strafrechtelijk aansprakelijk voor misdrijven waarover het Hof rechtsmacht bezit, indien deze zijn begaan door ondergeschikten die onder zijn daadwerkelijk gezag en leiding stonden, als gevolg van zijn nalaten behoorlijk leiding te geven aan deze ondergeschikten, indien:
+- e) In respect of the crime of genocide, directly and publicly incites others to commit genocide;
 
-  - i. de meerdere kennis had van, dan wel bewust geen acht geslagen heeft op informatie die duidelijk aangaf dat de ondergeschikten deze misdrijven begingen of op het punt stonden deze te begaan;
+- f) Attempts to commit such a crime by taking action that commences its execution by means of a substantial step, but the crime does not occur because of circumstances independent of the person's intentions. However, a person who abandons the effort to commit the crime or otherwise prevents the completion of the crime shall not be liable for punishment under this Statute for the attempt to commit that crime if that person completely and voluntarily gave up the criminal purpose.
 
-  - ii. de misdrijven activiteiten betroffen binnen het bereik van de daadwerkelijke aansprakelijkheid en leiding van de meerdere; en
+3 bis. In respect of the crime of aggression, the provisions of this article shall apply only to persons in a position effectively to exercise control over or to direct the political or military action of a State.
 
-  - iii. de meerdere naliet alle noodzakelijke en redelijke maatregelen te treffen die binnen zijn macht lagen om het begaan van de misdrijven te verhinderen of te beperken of de zaak voor te leggen aan de bevoegde autoriteiten voor onderzoek en vervolging.
+4. No provision in this Statute relating to individual criminal responsibility shall affect the responsibility of States under international law.
 
-##### Artikel 29. Niet-toepasselijkheid van verjaring
+##### Article 26. Exclusion of jurisdiction over persons under eighteen
 
-Misdrijven waarover het Hof rechtsmacht bezit verjaren niet.
+The Court shall have no jurisdiction over any person who was under the age of 18 at the time of the alleged commission of a crime.
 
-##### Artikel 30. Element van de geestesgesteldheid
+##### Article 27. Irrelevance of official capacity
 
-1. Tenzij anders bepaald is een persoon alleen strafrechtelijk aansprakelijk en strafbaar ter zake van een misdrijf waarover het Hof rechtsmacht bezit, indien de materiële bestanddelen begaan zijn met opzet en wetenschap.
+1. This Statute shall apply equally to all persons without any distinction based on official capacity. In particular, official capacity as a Head of State or Government, a member of a Government or parliament, an elected representative or a government official shall in no case exempt a person from criminal responsibility under this Statute, nor shall it, in and of itself, constitute a ground for reduction of sentence.
 
-2. Voor de toepassing van dit artikel handelt een persoon met opzet indien:
+2. Immunities or special procedural rules which may attach to the official capacity of a person, whether under national or international law, shall not bar the Court from exercising its jurisdiction over such a person.
 
-- a. die persoon met betrekking tot gedragingen, de bedoeling heeft tot de gedragingen over te gaan;
+##### Article 28. Responsibility of commanders and other superiors
 
-- b. die persoon met betrekking tot een gevolg, de bedoeling heeft dat gevolg teweeg te brengen of zich ervan bewust is dat het gevolg zich bij een normale gang van zaken zal voordoen.
+In addition to other grounds of criminal responsibility under this Statute for crimes within the jurisdiction of the Court:
 
-3. Voor de toepassing van dit artikel betekent „wetenschap" het zich ervan bewust zijn dat een omstandigheid bestaat of dat een gevolg zich bij een normale gang van zaken zal voordoen. „Wetenschap hebben" en „welbewust" worden dienovereenkomstig uitgelegd.
+- a) A military commander or person effectively acting as a military commander shall be criminally responsible for crimes within the jurisdiction of the Court committed by forces under his or her effective command and control, or effective authority and control as the case may be, as a result of his or her failure to exercise control properly over such forces, where:
 
-##### Artikel 31. Strafuitsluitingsgronden
+   - (i) That military commander or person either knew or, owing to the circumstances at the time, should have known that the forces were committing or about to commit such crimes; and
 
-1. Naast de overige in dit Statuut opgenomen strafuitsluitingsgronden is een persoon niet strafrechtelijk aansprakelijk indien, ten tijde van de gedragingen van die persoon:
+   - (ii) That military commander or person failed to take all necessary and reasonable measures within his or her power to prevent or repress their commission or to submit the matter to the competent authorities for investigation and prosecution.
 
-- a. de persoon lijdt aan een geestesziekte of een geestelijke stoornis die die persoon het vermogen de wederrechtelijkheid of aard van zijn gedragingen te beseffen, of het vermogen zijn gedragingen te beheersen teneinde de wettelijke vereisten na te leven, ontneemt;
+- b) With respect to superior and subordinate relationships not described in paragraph a), a superior shall be criminally responsible for crimes within the jurisdiction of the Court committed by subordinates under his or her effective authority and control, as a result of his or her failure to exercise control properly over such subordinates, where:
 
-- b. de persoon zich in een staat van intoxicatie bevindt, die het vermogen van die persoon om de wederrechtelijkheid of de aard van zijn gedragingen te beseffen, of het vermogen zijn gedragingen te beheersen teneinde de wettelijke vereisten na te leven, vernietigt, tenzij de persoon vrijwillig in een staat van intoxicatie is geraakt onder zodanige omstandigheden dat de persoon kennis had van of geen acht sloeg op het risico dat hij, als gevolg van de intoxicatie, waarschijnlijk zou overgaan tot gedragingen die een misdrijf vormen waarover het Hof rechtsmacht bezit;
+   - (i) The superior either knew, or consciously disregarded information which clearly indicated, that the subordinates were committing or about to commit such crimes;
 
-- c. de persoon redelijk handelt ter verdediging van zichzelf of van een andere persoon, of, bij oorlogsmisdrijven, van goederen die van essentieel belang zijn voor het overleven van de persoon of van een andere persoon of voor de instandhouding van goederen die van essentieel belang zijn voor het volbrengen van een militaire missie, tegen een dreigend en wederrechtelijk gebruik van geweld op een wijze die evenredig is aan de mate van gevaar voor de persoon of de andere persoon of de beschermde goederen. Het feit dat de persoon betrokken was bij een door strijdkrachten uitgevoerde defensieve operatie vormt op zichzelf geen strafuitsluitingsgrond ingevolge deze paragraaf;
+   - (ii) The crimes concerned activities that were within the effective responsibility and control of the superior; and
 
-- d. het feit waarvan gesteld wordt dat het een misdrijf vormt waarover het Hof rechtsmacht bezit, voortgevloeid is uit dwang als gevolg van een onmiddellijke doodsdreiging voor de persoon of een andere persoon of een dreiging van voortdurend of dreigend ernstig lichamelijk letsel, en de persoon noodzakelijkerwijs en redelijk handelt teneinde deze dreiging af te wenden, mits de persoon niet de bedoeling heeft groter letsel toe te brengen dan het letsel wat hij tracht te voorkomen. Een dergelijke dreiging kan:
+   - (iii) The superior failed to take all necessary and reasonable measures within his or her power to prevent or repress their commission or to submit the matter to the competent authorities for investigation and prosecution.
 
-  - i. worden veroorzaakt door andere personen; of
+##### Article 29. Non-applicability of statute of limitations
 
-  - ii. worden gevormd door andere omstandigheden waarop die persoon geen invloed kan uitoefenen.
+The crimes within the jurisdiction of the Court shall not be subject to any statute of limitations.
 
-2. Het Hof stelt de toepasselijkheid vast van de in dit Statuut bepaalde strafuitsluitingsgronden in de voorliggende zaak.
+##### Article 30. Mental element
 
-3. Ter terechtzitting is het Hof bevoegd een andere strafuitsluitingsgrond te overwegen dan de in het eerste lid vermelde gronden, wanneer deze grond is ontleend aan het in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=21&z=2024-06-13&g=2024-06-13) beschreven toepasselijke recht. De procedure voor de overweging of een dergelijke grond bestaat wordt geregeld in het Reglement voor de proces- en bewijsvoering.
+1. Unless otherwise provided, a person shall be criminally responsible and liable for punishment for a crime within the jurisdiction of the Court only if the material elements are committed with intent and knowledge.
 
-##### Artikel 32. Dwaling ten aanzien van de feiten of dwaling ten aanzien van het recht
+2. For the purposes of this article, a person has intent where:
 
-1. Dwaling ten aanzien van de feiten is slechts een strafuitsluitingsgrond, indien daardoor het bestanddeel van de geestesgesteldheid wordt tenietgedaan dat voor het misdrijf is vereist.
+- a) In relation to conduct, that person means to engage in the conduct;
 
-2. Dwaling ten aanzien van het recht bij de vraag of een bepaalde vorm van gedragingen een misdrijf is waarover het Hof rechtsmacht bezit, is geen strafuitsluitingsgrond. Dwaling ten aanzien van het recht kan echter een strafuitsluitingsgrond zijn, indien daardoor het bestanddeel van de geestesgesteldheid wordt tenietgedaan dat voor dit misdrijf is vereist, of als bepaald in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=3&artikel=33&z=2024-06-13&g=2024-06-13).
+- b) In relation to a consequence, that person means to cause that consequence or is aware that it will occur in the ordinary course of events.
 
-##### Artikel 33. Bevelen van meerderen en wettelijk voorschrift
+3. For the purposes of this article, “knowledge” means awareness that a circumstance exists or a consequence will occur in the ordinary course of events. “Know” and “knowingly” shall be construed accordingly.
 
-1. Het feit dat een misdrijf waarover het Hof rechtsmacht heeft door een persoon is gepleegd krachtens een bevel van een regering of van een meerdere, militair of burger, ontheft die persoon niet van strafrechtelijke aansprakelijkheid, tenzij:
+##### Article 31. Grounds for excluding criminal responsibility
 
-- a. de persoon wettelijk verplicht was bevelen van de desbetreffende regering of meerdere op te volgen;
+1. In addition to other grounds for excluding criminal responsibility provided for in this Statute, a person shall not be criminally responsible if, at the time of that person's conduct:
 
-- b. de persoon geen kennis had van het feit dat het bevel onwettig was; en
+- a) The person suffers from a mental disease or defect that destroys that person's capacity to appreciate the unlawfulness or nature of his or her conduct, or capacity to control his or her conduct to conform to the requirements of law;
 
-- c. het bevel niet onmiskenbaar onwettig was.
+- b) The person is in a state of intoxication that destroys that person's capacity to appreciate the unlawfulness or nature of his or her conduct, or capacity to control his or her conduct to conform to the requirements of law, unless the person has become voluntarily intoxicated under such circumstances that the person knew, or disregarded the risk, that, as a result of the intoxication, he or she was likely to engage in conduct constituting a crime within the jurisdiction of the Court;
 
-2. Voor de toepassing van dit artikel zijn bevelen om genocide of misdrijven tegen de menselijkheid te plegen onmiskenbaar onwettig.
+- c) The person acts reasonably to defend himself or herself or another person or, in the case of war crimes, property which is essential for the survival of the person or another person or property which is essential for accomplishing a military mission, against an imminent and unlawful use of force in a manner proportionate to the degree of danger to the person or the other person or property protected. The fact that the person was involved in a defensive operation conducted by forces shall not in itself constitute a ground for excluding criminal responsibility under this subparagraph;
 
-## DEEL 4. SAMENSTELLING EN DAGELIJKS BESTUUR VAN HET HOF
+- d) The conduct which is alleged to constitute a crime within the jurisdiction of the Court has been caused by duress resulting from a threat of imminent death or of continuing or imminent serious bodily harm against that person or another person, and the person acts necessarily and reasonably to avoid this threat, provided that the person does not intend to cause a greater harm than the one sought to be avoided. Such a threat may either be:
 
-##### Artikel 34. Organen van het Hof
+   - (i) Made by other persons; or
 
-Het Hof bestaat uit de volgende organen:
+   - (ii) Constituted by other circumstances beyond that person's control.
 
-- a. Het Presidium;
+2. The Court shall determine the applicability of the grounds for excluding criminal responsibility provided for in this Statute to the case before it.
 
-- b. Een Afdeling Beroep, een Afdeling Berechting en een Afdeling Vooronderzoek;
+3. At trial, the Court may consider a ground for excluding criminal responsibility other than those referred to in paragraph 1 where such a ground is derived from applicable law as set forth in [article 21](https://wetten.overheid.nl/BWBV0001489). The procedures relating to the consideration of such a ground shall be provided for in the Rules of Procedure and Evidence.
 
-- c. Het Parket van de Aanklager;
+##### Article 32. Mistake of fact or mistake of law
 
-- d. De Griffie.
+1. A mistake of fact shall be a ground for excluding criminal responsibility only if it negates the mental element required by the crime.
 
-##### Artikel 35. Aanstelling van rechters
+2. A mistake of law as to whether a particular type of conduct is a crime within the jurisdiction of the Court shall not be a ground for excluding criminal responsibility. A mistake of law may, however, be a ground for excluding criminal responsibility if it negates the mental element required by such a crime, or as provided for in [article 33](https://wetten.overheid.nl/BWBV0001489).
 
-1. Alle rechters worden gekozen als full-time-leden van het Hof en zijn beschikbaar om op die basis werkzaam te zijn vanaf de aanvang van hun ambtstermijn.
+##### Article 33. Superior orders and prescription of law
 
-2. De rechters die deel uitmaken van het Presidium zijn op full-time-basis werkzaam zodra zij zijn gekozen.
+1. The fact that a crime within the jurisdiction of the Court has been committed by a person pursuant to an order of a Government or of a superior, whether military or civilian, shall not relieve that person of criminal responsibility unless:
 
-3. Het Presidium is bevoegd, afhankelijk van de werklast van het Hof en in overleg met zijn leden, periodiek te beslissen in hoeverre nodig is dat de overige rechters op full-time-basis werkzaam zijn. Een dergelijke regeling doet geen afbreuk aan het in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=40&z=2024-06-13&g=2024-06-13) bepaalde.
+- a) The person was under a legal obligation to obey orders of the Government or the superior in question;
 
-4. De financiële regelingen voor niet op full-time-basis werkzame rechters worden overeenkomstig [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=49&z=2024-06-13&g=2024-06-13) getroffen.
+- b) The person did not know that the order was unlawful; and
 
-##### Artikel 36. Kwalificaties, voordracht en verkiezing van rechters
+- c) The order was not manifestly unlawful.
 
-1. Onverminderd het in het tweede lid bepaalde bestaat het Hof uit 18 rechters.
+2. For the purposes of this article, orders to commit genocide or crimes against humanity are manifestly unlawful.
 
-- a. Het Presidium, optredend namens het Hof, is bevoegd voor te stellen het in het eerste lid vermelde aantal rechters te verhogen onder opgave van redenen waarom dit noodzakelijk en passend wordt geacht. De Griffier doet alle Staten die Partij zijn een dergelijk voorstel onverwijld toekomen.
+## PART 4. COMPOSITION AND ADMINISTRATION OF THE COURT
 
-- b. Beraad over een dergelijk voorstel vindt plaats in een overeenkomstig [artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=11&artikel=112&z=2024-06-13&g=2024-06-13) bijeen te roepen bijeenkomst van de Vergadering van Staten die Partij zijn. Het voorstel wordt geacht te zijn aanvaard indien het wordt goedgekeurd in de vergadering bij een tweederde meerderheid van de leden van de Vergadering van Staten die Partij zijn; het wordt van kracht op de door de Vergadering van Staten die Partij zijn vastgestelde datum.
+##### Article 34. Organs of the Court
 
-- c.
+The Court shall be composed of the following organs:
 
-  - i. Wanneer een voorstel tot verhoging van het aantal rechters eenmaal is aanvaard ingevolge het onder b bepaalde, vindt verkiezing van de nader toe te voegen rechters plaats in de eerstvolgende bijeenkomst van de Vergadering van Staten die Partij zijn overeenkomstig het derde tot en met het achtste lid, en [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=37&z=2024-06-13&g=2024-06-13);
+- a) The Presidency;
 
-  - ii. Wanneer een voorstel tot verhoging van het aantal rechters eenmaal is aanvaard en wordt uitgevoerd ingevolge het onder b en c, onderdeel ii., bepaalde, staat het het Presidium daarna te allen tijde vrij, indien de werklast van het Hof dit rechtvaardigt, een vermindering van het aantal rechters voor te stellen, mits het aantal rechters niet minder wordt dan het in het eerste lid vermelde aantal. Het voorstel wordt behandeld overeenkomstig de procedure vermeld onder a en b. Indien het voorstel wordt aanvaard, wordt het aantal rechters geleidelijk verminderd naar gelang de ambtstermijn van de zittende rechters afloopt, totdat het vereiste aantal is bereikt.
+- b) An Appeals Division, a Trial Division and a Pre-Trial Division;
 
-- a. De rechters worden gekozen uit personen van hoog zedelijk aanzien, die onpartijdig en integer zijn en de in hun respectieve Staten vereiste kwalificaties hebben voor benoeming tot de hoogste functies bij de rechterlijke macht.
+- c) The Office of the Prosecutor;
 
-- b. Elke kandidaat voor verkiezing in het Hof:
+- d) The Registry.
 
-  - i. bezit gebleken bekwaamheid in het strafrecht en strafprocesrecht en de vereiste relevante ervaring in strafzaken als rechter, aanklager, advocaat, of in een andere, vergelijkbare hoedanigheid; of
+##### Article 35. Service of judges
 
-  - ii. bezit gebleken bekwaamheid op relevante gebieden van internationaal recht zoals internationaal humanitair recht en mensenrechten en een ruime professionele ervaring op juridisch gebied, relevant voor het werk van de rechters van het Hof;
+1. All judges shall be elected as full-time members of the Court and shall be available to serve on that basis from the commencement of their terms of office.
 
-- c. voor verkiezing in het Hof dient een kandidaat een uitstekende kennis te bezitten van ten minste een van de werktalen van het Hof en deze taal vloeiend te spreken.
+2. The judges composing the Presidency shall serve on a full-time basis as soon as they are elected.
 
-- a. Alle Staten die Partij zijn bij dit Statuut kunnen kandidaten voorstellen voor verkiezing in het Hof: Voordrachten gaan vergezeld van een opgave waarin zo gedetailleerd als nodig wordt aangegeven op welke wijze de kandidaat voldoet aan de vereisten van het derde lid.
+3. The Presidency may, on the basis of the workload of the Court and in consultation with its members, decide from time to time to what extent the remaining judges shall be required to serve on a full-time basis. Any such arrangement shall be without prejudice to the provisions of [article 40](https://wetten.overheid.nl/BWBV0001489).
 
-  - i. door middel van de procedure voor voordracht van kandidaten voor benoeming tot de hoogste functies bij de rechterlijke macht in de betrokken Staat; of
+4. The financial arrangements for judges not required to serve on a full-time basis shall be made in accordance with [article 49](https://wetten.overheid.nl/BWBV0001489).
 
-  - ii. door middel van de procedure die voor voordracht van kandidaten voor het Internationale Hof van Justitie is voorzien in het Statuut van dat Hof.
+##### Article 36. Qualifications, nomination and election of judges
 
-- b. Voor elke verkiezing kan elke Staat die Partij is één kandidaat voordragen, die niet noodzakelijkerwijs onderdaan van die Staat hoeft te zijn, maar wel onderdaan is van een Staat die Partij is.
+1. Subject to the provisions of paragraph 2, there shall be 18 judges of the Court.
 
-- c. Waar nodig kan de vergadering van Staten die Partij zijn besluiten tot instelling van een Voordrachtsadviescommissie. Alsdan worden de samenstelling en het mandaat van de commissie vastgesteld door de Vergadering van Staten die Partij zijn.
+2. - a) The Presidency, acting on behalf of the Court, may propose an increase in the number of judges specified in paragraph 1, indicating the reasons why this is considered necessary and appropriate. The Registrar shall promptly circulate any such proposal to all States Parties.
 
-5. Ten behoeve van de verkiezing worden twee lijsten met kandidaten opgesteld:
+- b) Any such proposal shall then be considered at a meeting of the Assembly of States Parties to be convened in accordance with [article 112](https://wetten.overheid.nl/BWBV0001489). The proposal shall be considered adopted if approved at the meeting by a vote of two thirds of the members of the Assembly of States Parties and shall enter into force at such time as decided by the Assembly of States Parties.
 
-- Lijst A, houdende de namen van kandidaten met de kwalificaties bedoeld in het derde lid, onder b, onderdeel i.; en
+- c)
 
-- Lijst B, houdende de namen van kandidaten met de kwalificaties bedoeld in het derde lid, onder b, onderdeel ii.
+   - (i) Once a proposal for an increase in the number of judges has been adopted under subparagraph b), the election of the additional judges shall take place at the next session of the Assembly of States Parties in accordance with paragraphs 3 to 8, and [article 37, paragraph 2](https://wetten.overheid.nl/BWBV0001489);
 
-Een kandidaat die beschikt over voldoende kwalificaties voor beide lijsten heeft de keuze op welke lijst hij wenst te worden opgenomen. Bij de eerste verkiezing voor het Hof worden ten minste negen rechters gekozen van lijst A en ten minste vijf rechters van lijst B. Volgende verkiezingen worden zodanig ingericht dat dezelfde verhouding tussen rechters van de ene en de andere lijst wordt geëerbiedigd.
+   - (ii) Once a proposal for an increase in the number of judges has been adopted and brought into effect under subparagraphs b) and c) (i), it shall be open to the Presidency at any time thereafter, if the workload of the Court justifies it, to propose a reduction in the number of judges, provided that the number of judges shall not be reduced below that specified in paragraph 1. The proposal shall be dealt with in accordance with the procedure laid down in subparagraphs a) and b). In the event that the proposal is adopted, the number of judges shall be progressively decreased as the terms of office of serving judges expire, until the necessary number has been reached.
 
-- a. De rechters worden gekozen door middel van een geheime stemming in een bijeenkomst van de Vergadering van Staten die Partij zijn, daartoe bijeengeroepen ingevolge [artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=11&artikel=112&z=2024-06-13&g=2024-06-13). Onverminderd het zevende lid zijn de personen die in het Hof worden gekozen de 18 kandidaten die het grootste aantal stemmen en een tweederde meerderheid krijgen van de aanwezige Staten die Partij zijn en hun stem uitbrengen.
+3. - a) The judges shall be chosen from among persons of high moral character, impartiality and integrity who possess the qualifications required in their respective States for appointment to the highest judicial offices.
 
-- b. Indien bij de eerste stemming geen voldoende aantal rechters is gekozen, vinden opeenvolgende stemmingen plaats overeenkomstig de procedures bedoeld in het onder a bepaalde totdat de resterende plaatsen zijn vervuld.
+- b) Every candidate for election to the Court shall:
 
-7. Geen twee rechters mogen onderdaan zijn van dezelfde Staat. Een persoon die ten behoeve van het lidmaatschap van het Hof als onderdaan van meer dan een Staat kan worden beschouwd, wordt geacht onderdaan te zijn van de Staat waarin die persoon gewoonlijk zijn burger- en politieke rechten uitoefent.
+   - (i) Have established competence in criminal law and procedure, and the necessary relevant experience, whether as judge, prosecutor, advocate or in other similar capacity, in criminal proceedings; or
 
-- a. De Staten die Partij zijn dienen bij de keuze van rechters rekening te houden met de behoefte, bij de samenstelling van het Hof, aan:
+   - (ii) Have established competence in relevant areas of international law such as international humanitarian law and the law of human rights, and extensive experience in a professional legal capacity which is of relevance to the judicial work of the Court;
 
-  - i. vertegenwoordiging van de voornaamste rechtsstelsels van de wereld;
+- c) Every candidate for election to the Court shall have an excellent knowledge of and be fluent in at least one of the working languages of the Court.
 
-  - ii. een billijke geografische vertegenwoordiging; en
+4. - a) Nominations of candidates for election to the Court may be made by any State Party to this Statute, and shall be made either: Nominations shall be accompanied by a statement in the necessary detail specifying how the candidate fulfils the requirements of paragraph 3.
 
-  - iii. een billijke vertegenwoordiging van vrouwelijke en mannelijke rechters.
+   - (i) By the procedure for the nomination of candidates for appointment to the highest judicial offices in the State in question; or
 
-- b. De Staten die Partij zijn dienen ook rekening te houden met de wenselijkheid rechters op te nemen, die beschikken over juridische deskundigheid ten aanzien van bepaalde onderwerpen, waaronder in ieder geval geweld tegen vrouwen of kinderen.
+   - (ii) By the procedure provided for the nomination of candidates for the International Court of Justice in the Statute of that Court.
 
-- a. Onverminderd het onder b bepaalde is de ambtstermijn van rechters negen jaar, en onverminderd het onder c en in [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=37&z=2024-06-13&g=2024-06-13), bepaalde zijn zij niet herkiesbaar.
+- b) Each State Party may put forward one candidate for any given election who need not necessarily be a national of that State Party but shall in any case be a national of a State Party.
 
-- b. Bij de eerste verkiezing wordt een derde van de gekozen rechters door loting aangewezen voor een ambtstermijn van drie jaar; een derde van de gekozen rechters wordt door loting aangewezen voor een ambtstermijn van zes jaar, terwijl de ambtstermijn van de overige rechters negen jaar zal zijn.
+- c) The Assembly of States Parties may decide to establish, if appropriate, an Advisory Committee on nominations. In that event, the Committee's composition and mandate shall be established by the Assembly of States Parties.
 
-- c. Een rechter die ingevolge het onder b bepaalde is aangewezen voor een ambtstermijn van drie jaar komt in aanmerking voor herverkiezing voor een volledige ambtstermijn.
+5. For the purposes of the election, there shall be two lists of candidates:
 
-10. Niettegenstaande het negende lid blijft een rechter die overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=39&z=2024-06-13&g=2024-06-13) is aangewezen om zitting te hebben in een Kamer van berechting of Kamer van beroep, in functie teneinde het onderzoek in eerste aanleg of in beroep te voltooien, waarvan de behandeling bij die kamer reeds is aangevangen.
+- List A containing the names of candidates with the qualifications specified in paragraph 3 b) (i); and
 
-##### Artikel 37. Rechterlijke vacatures
+- List B containing the names of candidates with the qualifications specified in paragraph 3 b) (ii).
 
-1. Teneinde in de vacature te voorzien vindt een verkiezing plaats overeenkomstig [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=36&z=2024-06-13&g=2024-06-13).
+A candidate with sufficient qualifications for both lists may choose on which list to appear. At the first election to the Court, at least nine judges shall be elected from list A and at least five judges from list B. Subsequent elections shall be so organized as to maintain the equivalent proportion on the Court of judges qualified on the two lists.
 
-2. Een rechter die gekozen is teneinde in een vacature te voorzien blijft in functie voor het resterende deel van de ambtstermijn van zijn voorganger en komt, indien die periode drie jaar of minder bedraagt, in aanmerking voor herverkiezing voor een volledige ambtstermijn ingevolge [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=36&z=2024-06-13&g=2024-06-13).
+6. - a) The judges shall be elected by secret ballot at a meeting of the Assembly of States Parties convened for that purpose under [article 112](https://wetten.overheid.nl/BWBV0001489). Subject to paragraph 7, the persons elected to the Court shall be the 18 candidates who obtain the highest number of votes and a two-thirds majority of the States Parties present and voting.
 
-##### Artikel 38. Het Presidium
+- b) In the event that a sufficient number of judges is not elected on the first ballot, successive ballots shall be held in accordance with the procedures laid down in subparagraph a) until the remaining places have been filled.
 
-1. De President en de Eerste en Tweede Vice-President worden door de rechters gekozen bij absolute meerderheid. Zij bekleden hun ambt gedurende een ambtstermijn van drie jaar of tot het einde van hun respectieve ambtstermijnen als rechter, indien deze eerder eindigen. Zij zijn eenmaal herkiesbaar.
+7. No two judges may be nationals of the same State. A person who, for the purposes of membership of the Court, could be regarded as a national of more than one State shall be deemed to be a national of the State in which that person ordinarily exercises civil and political rights.
 
-2. De Eerste Vice-President vervangt de President in het geval de President niet beschikbaar of gewraakt is. De tweede Vice-President vervangt de President in het geval zowel de President als de Eerste Vice-President niet beschikbaar of gewraakt zijn.
+8. - a) The States Parties shall, in the selection of judges, take into account the need, within the membership of the Court, for:
 
-3. De President vormt, samen met de Eerste en Tweede Vice-President, het Presidium, dat verantwoordelijk is voor:
+   - (i) The representation of the principal legal systems of the world;
 
-- a. het adequate dagelijks bestuur van het Hof, met uitzondering van het Parket van de Aanklager; en
+   - (ii) Equitable geographical representation; and
 
-- b. de overige taken die aan het Presidium zijn opgedragen overeenkomstig dit Statuut.
+   - (iii) A fair representation of female and male judges.
 
-4. De vervulling van zijn taken ingevolge het derde lid, onder a, draagt het Presidium zorg voor coördinatie en streeft naar overeenstemming met de Aanklager over alle zaken van gemeenschappelijk belang.
+- b) States Parties shall also take into account the need to include judges with legal expertise on specific issues, including, but not limited to, violence against women or children.
 
-##### Artikel 39. Kamers
+9. - a) Subject to subparagraph b), judges shall hold office for a term of nine years and, subject to subparagraph c) and to [article 37, paragraph 2](https://wetten.overheid.nl/BWBV0001489), shall not be eligible for re-election.
 
-1. Zo spoedig mogelijk na de verkiezing van de rechters vormt het Hof de afdelingen vermeld in [artikel 34, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=34&z=2024-06-13&g=2024-06-13). De Afdeling Beroep bestaat uit de President en vier andere rechters, de Afdeling Berechting bestaat uit ten minste zes rechters en de Afdeling Vooronderzoek uit ten minste zes rechters. De indeling van rechters bij de afdelingen vindt plaats op basis van de aard van de taken die door elke afdeling dienen te worden vervuld en de kwalificaties en ervaring van de voor het Hof gekozen rechters, opdat elke afdeling beschikt over een passende combinatie van deskundigheid op het gebied van het straf- en strafprocesrecht en het internationaal recht. De Afdelingen van Berechting en Vooronderzoek zijn overwegend samengesteld uit rechters met ervaring op het gebied van strafprocedures.
+- b) At the first election, one third of the judges elected shall be selected by lot to serve for a term of three years; one third of the judges elected shall be selected by lot to serve for a term of six years; and the remainder shall serve for a term of nine years.
 
-- a. De rechterlijke taken van het Hof worden in elke afdeling uitgeoefend door kamers.
+- c) A judge who is selected to serve for a term of three years under subparagraph b) shall be eligible for re-election for a full term.
 
-- b. Onverminderd de vervanging van een rechter, overeenkomstig het Reglement van proces- en bewijsvoering,
+10. Notwithstanding paragraph 9, a judge assigned to a Trial or Appeals Chamber in accordance with [article 39](https://wetten.overheid.nl/BWBV0001489) shall continue in office to complete any trial or appeal the hearing of which has already commenced before that Chamber.
 
-  - i. Bestaat de Kamer van beroep uit alle rechters van de Afdeling Beroep;
+##### Article 37. Judicial vacancies
 
-  - ii. Worden de taken van de Kamer van berechting uitgeoefend door drie rechters van de Afdeling Berechting;
+1. In the event of a vacancy, an election shall be held in accordance with [article 36](https://wetten.overheid.nl/BWBV0001489) to fill the vacancy.
 
-  - iii. Worden de taken van de Kamer van vooronderzoek uitgeoefend door drie rechters van de Afdeling Vooronderzoek of door een alleenzittende rechter van die afdeling overeenkomstig dit Statuut en het Reglement van proces- en bewijsvoering.
+2. A judge elected to fill a vacancy shall serve for the remainder of the predecessor's term and, if that period is three years or less, shall be eligible for re-election for a full term under [article 36](https://wetten.overheid.nl/BWBV0001489).
 
-- c. Niets in dit lid belet de gelijktijdige samenstelling van meer dan een Kamer van berechting of vooronderzoek indien een efficiënte verdeling van de werklast van het Hof dit vereist.
+##### Article 38. The Presidency
 
-- a. Rechters ingedeeld bij de Afdelingen Berechting en Vooronderzoek hebben in die afdelingen zitting voor de duur van drie jaar, en na afloop van die termijn tot na de voltooiing van de zaak waarvan de behandeling bij de betrokken afdeling reeds is aangevangen.
+1. The President and the First and Second Vice-Presidents shall be elected by an absolute majority of the judges. They shall each serve for a term of three years or until the end of their respective terms of office as judges, whichever expires earlier. They shall be eligible for re-election once.
 
-- b. Rechters ingedeeld bij de Afdeling Beroep hebben in die afdeling zitting gedurende hun gehele ambtstermijn.
+2. The First Vice-President shall act in place of the President in the event that the President is unavailable or disqualified. The Second Vice-President shall act in place of the President in the event that both the President and the First Vice-President are unavailable or disqualified.
 
-4. Rechters ingedeeld bij de Afdeling Beroep hebben alleen in die afdeling zitting. Niets in dit artikel belet echter de tijdelijke detachering van rechters van de Afdeling Berechting bij de Afdeling Vooronderzoek of omgekeerd, indien het Presidium van oordeel is dat een efficiënte verdeling van de werklast van het Hof dit vereist, mits een rechter die heeft deelgenomen aan de fase van vooronderzoek van een zaak in geen geval in aanmerking komt voor zitting in de Kamer van berechting die die zaak behandelt.
+3. The President, together with the First and Second Vice-Presidents, shall constitute the Presidency, which shall be responsible for:
 
-##### Artikel 40. Onafhankelijkheid van de rechters
+- a) The proper administration of the Court, with the exception of the Office of the Prosecutor; and
 
-1. De rechters zijn onafhankelijk in de uitoefening van hun taken.
+- b) The other functions conferred upon it in accordance with this Statute.
 
-2. Rechters onthouden zich van alle activiteiten waarvan aannemelijk is dat zij hun rechterlijke taken in de weg staan of het vertrouwen in hun onafhankelijkheid aantasten.
+4. In discharging its responsibility under paragraph 3 a), the Presidency shall coordinate with and seek the concurrence of the Prosecutor on all matters of mutual concern.
 
-3. Rechters die op full-time-basis werkzaam dienen te zijn op de zetel van het Hof onthouden zich van alle andere beroepsmatige bezigheden.
+##### Article 39. Chambers
 
-4. Over vragen met betrekking tot de toepassing van het tweede en derde lid wordt door de rechters beslist bij absolute meerderheid. Wanneer een dergelijke vraag een bepaalde rechter betreft, neemt die rechter geen deel aan de beslissing.
+1. As soon as possible after the election of the judges, the Court shall organize itself into the divisions specified in [article 34, paragraph b)](https://wetten.overheid.nl/BWBV0001489). The Appeals Division shall be composed of the President and four other judges, the Trial Division of not less than six judges and the Pre-Trial Division of not less than six judges. The assignment of judges to divisions shall be based on the nature of the functions to be performed by each division and the qualifications and experience of the judges elected to the Court, in such a way that each division shall contain an appropriate combination of expertise in criminal law and procedure and in international law. The Trial and Pre-Trial Divisions shall be composed predominantly of judges with criminal trial experience.
 
-##### Artikel 41. Verschoning en wraking van rechters
+2. - a) The judicial functions of the Court shall be carried out in each division by Chambers.
 
-1. Het Presidium mag, op verzoek van een rechter, die rechter toestaan zich te verschonen van uitoefening van een functie krachtens dit Statuut overeenkomstig het Reglement van proces- en bewijsvoering.
+- b) Without prejudice to the replacement of a judge, as provided for in the Rules of Procedure and Evidence,
 
-- a. Een rechter neemt niet deel aan een zaak waarin redelijkerwijs twijfel kan rijzen aan zijn onpartijdigheid op welke grond dan ook. Een rechter wordt overeenkomstig dit lid in een zaak gewraakt, onder meer indien die rechter voordien in enigerlei hoedanigheid betrokken was bij die zaak bij het Hof of bij een daarmee samenhangende strafvervolging op nationaal niveau waarbij de persoon tegen wie een onderzoek loopt of die vervolgd wordt, betrokken is. Tevens wordt de rechter gewraakt op andere gronden, als bepaald in het Reglement van proces- of bewijsvoering.
+   - (i) The Appeals Chamber shall be composed of all the judges of the Appeals Division;
 
-- b. De Aanklager of de persoon tegen wie een onderzoek loopt of die vervolgd wordt is bevoegd om wraking van een rechter te verzoeken ingevolge dit lid.
+   - (ii) The functions of the Trial Chamber shall be carried out by three judges of the Trial Division;
 
-- c. Over vragen met betrekking tot de wraking van een rechter wordt door de rechters beslist bij absolute meerderheid. De rechter die gewraakt wordt heeft het recht de kwestie toe te lichten, maar neemt geen deel aan de beslissing.
+   - (iii) The functions of the Pre-Trial Chamber shall be carried out either by three judges of the Pre-Trial Division or by a single judge of that division in accordance with this Statute and the Rules of Procedure and Evidence;
 
-##### Artikel 42. Het Parket van de Aanklager
+- c) Nothing in this paragraph shall preclude the simultaneous constitution of more than one Trial Chamber or Pre-Trial Chamber when the efficient management of the Court's workload so requires.
 
-1. Het Parket van de Aanklager treedt onafhankelijk op, als afzonderlijk orgaan van het Hof. Het is verantwoordelijk voor de ontvangst van klachten en aangiften en van alle onderbouwde informatie over misdrijven binnen de rechtsmacht van het Hof, voor bestudering daarvan en voor het uitvoering geven aan onderzoek en vervolging voor het Hof. Een lid van het Parket vraagt om noch handelt volgens aanwijzingen van een externe bron.
+3. - a) Judges assigned to the Trial and Pre-Trial Divisions shall serve in those divisions for a period of three years, and thereafter until the completion of any case the hearing of which has already commenced in the division concerned.
 
-2. De Aanklager is hoofd van het Parket. De Aanklager heeft het volledige gezag over het beheer en het dagelijks bestuur van het Parket, met inbegrip van het personeel, de voorzieningen en andere middelen. De Aanklager wordt bijgestaan door een of meer Substituut-Aanklagers, die gerechtigd zijn tot het uitvoeren van alle handelingen die krachtens dit Statuut van de Aanklager worden verlangd. De Aanklager en Substituut-Aanklagers dienen van verschillende nationaliteiten te zijn. Zij vervullen hun functie op full-time-basis.
+- b) Judges assigned to the Appeals Division shall serve in that division for their entire term of office.
 
-3. De Aanklager en Substituut-Aanklagers dienen personen van hoog zedelijk aanzien te zijn, in hoge mate bekwaam op het gebied van en met uitgebreide praktische ervaring in de vervolging of de berechting in strafzaken. Zij dienen te beschikken over een uitstekende kennis van ten minste een van de werktalen van het Hof en die taal vloeiend te spreken.
+4. Judges assigned to the Appeals Division shall serve only in that division. Nothing in this article shall, however, preclude the temporary attachment of judges from the Trial Division to the Pre-Trial Division or vice versa, if the Presidency considers that the efficient management of the Court's workload so requires, provided that under no circumstances shall a judge who has participated in the pre-trial phase of a case be eligible to sit on the Trial Chamber hearing that case.
 
-4. De Aanklager wordt gekozen bij geheime stemming bij absolute meerderheid van de leden van de Vergadering van Staten die Partij zijn. De Substituut-Aanklagers worden op eenzelfde wijze gekozen uit een door de Aanklager verstrekte lijst van kandidaten. Voor elke functie van Substituut-Aanklager draagt de Aanklager drie kandidaten voor. Tenzij bij hun verkiezing wordt besloten tot een kortere termijn, bedraagt de ambtstermijn van de Aanklager en de Substituut-Aanklagers negen jaar en zijn zij niet herkiesbaar.
+##### Article 40. Independence of the judges
 
-5. De Aanklager en de Substituut-Aanklagers onthouden zich van alle activiteiten waarvan aannemelijk is dat zij zijn taken als Aanklager in de weg staan of het vertrouwen in zijn onafhankelijkheid aantasten. Zij onthouden zich van alle andere beroepsmatige bezigheden.
+1. The judges shall be independent in the performance of their functions.
 
-6. Het Presidium is bevoegd de Aanklager of een Substituut-Aanklager, op zijn verzoek, toe te staan zich te verschonen van optreden in een bepaalde zaak.
+2. Judges shall not engage in any activity which is likely to interfere with their judicial functions or to affect confidence in their independence.
 
-7. De Aanklager noch een Substituut-Aanklager neemt deel aan de behandeling van een zaak waarin hun onpartijdigheid redelijkerwijs kan worden betwijfeld op welke grond dan ook. Zij worden overeenkomstig dit lid gewraakt in een zaak, onder meer indien zij voordien in enigerlei hoedanigheid betrokken waren bij die zaak voor het Hof of bij een daarmee samenhangende strafvervolging op nationaal niveau waarbij de persoon betrokken is tegen wie een onderzoek loopt of die vervolgd wordt.
+3. Judges required to serve on a full-time basis at the seat of the Court shall not engage in any other occupation of a professional nature.
 
-8. Over vragen met betrekking tot de wraking van de Aanklager of een Substituut-Aanklager wordt beslist door de Kamer van beroep.
+4. Any question regarding the application of paragraphs 2 and 3 shall be decided by an absolute majority of the judges. Where any such question concerns an individual judge, that judge shall not take part in the decision.
 
-- a. De persoon tegen wie een onderzoek loopt of die vervolgd wordt is te allen tijde bevoegd te verzoeken om wraking van de Aanklager of een Substituut-Aanklager op de gronden vermeld in dit artikel;
+##### Article 41. Excusing and disqualification of judges
 
-- b. De Aanklager of de Substituut-Aanklager, indien van toepassing, heeft het recht de kwestie toe te lichten.
+1. The Presidency may, at the request of a judge, excuse that judge from the exercise of a function under this Statute, in accordance with the Rules of Procedure and Evidence.
 
-9. De Aanklager benoemt adviseurs met juridische deskundigheid ten aanzien van bepaalde onderwerpen, waaronder in ieder geval seksueel geweld en seksistisch geweld en geweld tegen kinderen.
+2. - a) A judge shall not participate in any case in which his or her impartiality might reasonably be doubted on any ground. A judge shall be disqualified from a case in accordance with this paragraph if, *inter alia*, that judge has previously been involved in any capacity in that case before the Court or in a related criminal case at the national level involving the person being investigated or prosecuted. A judge shall also be disqualified on such other grounds as may be provided for in the Rules of Procedure and Evidence.
 
-##### Artikel 43. De Griffie
+- b) The Prosecutor or the person being investigated or prosecuted may request the disqualification of a judge under this paragraph.
 
-1. De Griffie is belast met de niet-gerechtelijke aspecten van het dagelijks bestuur en de bediening van het Hof, onverminderd de taken en bevoegdheden van de Aanklager overeenkomstig [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=42&z=2024-06-13&g=2024-06-13).
+- c) Any question as to the disqualification of a judge shall be decided by an absolute majority of the judges. The challenged judge shall be entitled to present his or her comments on the matter, but shall not take part in the decision.
 
-2. Aan het hoofd van de Griffie staat de Griffier, de hoogste bestuurlijke functionaris van het Hof. De Griffier oefent zijn taken uit onder gezag van de President van het Hof.
+##### Article 42. The Office of the Prosecutor
 
-3. De Griffier en de Substituut-Griffier dienen personen van hoog zedelijk aanzien te zijn, in hoge mate bekwaam en met een uitstekende kennis van ten minste een van de werktalen van het Hof en die taal vloeiend te spreken.
+1. The Office of the Prosecutor shall act independently as a separate organ of the Court. It shall be responsible for receiving referrals and any substantiated information on crimes within the jurisdiction of the Court, for examining them and for conducting investigations and prosecutions before the Court. A member of the Office shall not seek or act on instructions from any external source.
 
-4. De rechters kiezen de Griffier bij absolute meerderheid bij geheime stemming, daarbij rekening houdend met aanbevelingen van de Vergadering van Staten die Partij zijn. Indien de noodzaak daartoe ontstaat en op aanbeveling van de Griffier kiezen de rechters op dezelfde wijze een Substituut-Griffier.
+2. The Office shall be headed by the Prosecutor. The Prosecutor shall have full authority over the management and administration of the Office, including the staff, facilities and other resources thereof. The Prosecutor shall be assisted by one or more Deputy Prosecutors, who shall be entitled to carry out any of the acts required of the Prosecutor under this Statute. The Prosecutor and the Deputy Prosecutors shall be of different nationalities. They shall serve on a full-time basis.
 
-5. De ambtstermijn van de Griffier is vijf jaar, hij is eenmaal herkiesbaar en werkt op full-time-basis. De Substituut-Griffier wordt benoemd voor een ambtstermijn van vijf jaar of voor zoveel korter als de rechters bij absolute meerderheid besluiten; de Substituut-Griffier kan worden gekozen met dien verstande dat hij zal worden opgeroepen zijn taak uit te oefenen wanneer dat nodig is.
+3. The Prosecutor and the Deputy Prosecutors shall be persons of high moral character, be highly competent in and have extensive practical experience in the prosecution or trial of criminal cases. They shall have an excellent knowledge of and be fluent in at least one of the working languages of the Court.
 
-6. De Griffier roept binnen de Griffie een Afdeling voor Slachtoffers en Getuigen in het leven. Deze Afdeling treft, in overleg met het Parket van de Aanklager, beschermende maatregelen en beveiligingsregelingen, draagt zorg voor advies en andere passende bijstand aan getuigen, aan slachtoffers die voor het Hof verschijnen en aan anderen die in gevaar zijn vanwege door dergelijke getuigen afgelegde getuigenverklaringen. De Afdeling dient te beschikken over personeel met deskundigheid op het gebied van trauma's, met inbegrip van trauma's in verband met seksuele geweldsmisdrijven.
+4. The Prosecutor shall be elected by secret ballot by an absolute majority of the members of the Assembly of States Parties. The Deputy Prosecutors shall be elected in the same way from a list of candidates provided by the Prosecutor. The Prosecutor shall nominate three candidates for each position of Deputy Prosecutor to be filled. Unless a shorter term is decided upon at the time of their election, the Prosecutor and the Deputy Prosecutors shall hold office for a term of nine years and shall not be eligible for re-election.
 
-##### Artikel 44. Personeel
+5. Neither the Prosecutor nor a Deputy Prosecutor shall engage in any activity which is likely to interfere with his or her prosecutorial functions or to affect confidence in his or her independence. They shall not engage in any other occupation of a professional nature.
 
-1. De Aanklager en de Griffier dragen zorg voor de benoeming van voor hun respectieve afdelingen vereist gekwalificeerd personeel. In het geval van de Aanklager omvat dit mede de benoeming van personen die met onderzoek worden belast.
+6. The Presidency may excuse the Prosecutor or a Deputy Prosecutor, at his or her request, from acting in a particular case.
 
-2. Bij de aanstelling van personeel waarborgen de Aanklager en de Griffier de hoogste normen van doelmatigheid, bekwaamheid en integriteit, en houden daarbij voorzover mogelijk rekening met de criteria vermeld in [artikel 36, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=36&z=2024-06-13&g=2024-06-13).
+7. Neither the Prosecutor nor a Deputy Prosecutor shall participate in any matter in which their impartiality might reasonably be doubted on any ground. They shall be disqualified from a case in accordance with this paragraph if, *inter alia*, they have previously been involved in any capacity in that case before the Court or in a related criminal case at the national level involving the person being investigated or prosecuted.
 
-3. De Griffier stelt met instemming van het Presidium en de Aanklager een Personeelsreglement voor, waarin mede de voorwaarden zijn vervat voor benoeming, honorering en ontslag van het personeel van het Hof. Het Reglement wordt goedgekeurd door de Vergadering van Staten die Partij zijn.
+8. Any question as to the disqualification of the Prosecutor or a Deputy Prosecutor shall be decided by the Appeals Chamber.
 
-4. Het Hof is in uitzonderlijke omstandigheden bevoegd gebruik te maken van de deskundigheid van medewerkers die om niet ter beschikking worden gesteld door Staten die Partij zijn, intergouvernementele of niet-gouvernementele organisaties, die de organen van het Hof bij het werk assisteren. De Aanklager is bevoegd een dergelijk aanbod te aanvaarden namens het Parket. Deze om niet ter beschikking gestelde medewerkers worden ingezet overeenkomstig de richtlijnen die door de Vergadering van Staten die Partij zijn worden vastgesteld.
+- a) The person being investigated or prosecuted may at any time request the disqualification of the Prosecutor or a Deputy Prosecutor on the grounds set out in this article;
 
-##### Artikel 45. Plechtige gelofte
+- b) The Prosecutor or the Deputy Prosecutor, as appropriate, shall be entitled to present his or her comments on the matter;
 
-Voordat zij hun respectieve taken krachtens dit Statuut aanvaarden, leggen rechters, de Aanklager, de Substituut-Aanklagers, de Griffier en de Substituut-Griffier ieder een gelofte af in een openbare zitting dat zij hun respectieve functies onpartijdig en gewetensvol zullen uitoefenen.
+9. The Prosecutor shall appoint advisers with legal expertise on specific issues, including, but not limited to, sexual and gender violence and violence against children.
 
-##### Artikel 46. Ontzetting uit het ambt
+##### Article 43. The Registry
 
-1. Een rechter, de Aanklager, een Substituut-Aanklager, de Griffier of de Substituut-Griffier wordt uit zijn ambt ontzet indien een beslissing hiertoe wordt genomen overeenkomstig het tweede lid, in gevallen waarin die persoon:
+1. The Registry shall be responsible for the non-judicial aspects of the administration and servicing of the Court, without prejudice to the functions and powers of the Prosecutor in accordance with [article 42](https://wetten.overheid.nl/BWBV0001489).
 
-- a. zich schuldig blijkt te hebben gemaakt aan ernstig wangedrag of aan ernstig plichtsverzuim krachtens dit Statuut, zoals bepaald in het Reglement van proces- en bewijsvoering; of
+2. The Registry shall be headed by the Registrar, who shall be the principal administrative officer of the Court. The Registrar shall exercise his or her functions under the authority of the President of the Court.
 
-- b. niet in staat is de krachtens dit Statuut vereiste taken uit te oefenen.
+3. The Registrar and the Deputy Registrar shall be persons of high moral character, be highly competent and have an excellent knowledge of and be fluent in at least one of the working languages of the Court.
 
-2. Een beslissing tot ontzetting uit het ambt van een rechter, de Aanklager of een Substituut-Aanklager ingevolge het eerste lid wordt genomen door de Vergadering van Staten die Partij zijn, bij geheime stemming:
+4. The judges shall elect the Registrar by an absolute majority by secret ballot, taking into account any recommendation by the Assembly of States Parties. If the need arises and upon the recommendation of the Registrar, the judges shall elect, in the same manner, a Deputy Registrar.
 
-- a. in het geval van een rechter, bij een tweederde meerderheid van de Staten die Partij zijn, overeenkomstig een aanbeveling die door de overige rechters is aanvaard bij een tweederde meerderheid;
+5. The Registrar shall hold office for a term of five years, shall be eligible for re-election once and shall serve on a full-time basis. The Deputy Registrar shall hold office for a term of five years or such shorter term as may be decided upon by an absolute majority of the judges, and may be elected on the basis that the Deputy Registrar shall be called upon to serve as required.
 
-- b. in het geval van de Aanklager, bij absolute meerderheid van de Staten die Partij zijn;
+6. The Registrar shall set up a Victims and Witnesses Unit within the Registry. This Unit shall provide, in consultation with the Office of the Prosecutor, protective measures and security arrangements, counselling and other appropriate assistance for witnesses, victims who appear before the Court, and others who are at risk on account of testimony given by such witnesses. The Unit shall include staff with expertise in trauma, including trauma related to crimes of sexual violence.
 
-- c. in het geval van een Substituut-Aanklager, bij absolute meerderheid van de Staten die Partij zijn, op aanbeveling van de Aanklager.
+##### Article 44. Staff
 
-3. Een besluit over de ontzetting uit het ambt van de Griffier of Substituut-Griffier wordt genomen bij absolute meerderheid van de rechters.
+1. The Prosecutor and the Registrar shall appoint such qualified staff as may be required to their respective offices. In the case of the Prosecutor, this shall include the appointment of investigators.
 
-4. Een rechter, Aanklager, Substituut-Aanklager, Griffier of Substituut-Griffier wiens gedrag of bekwaamheid om de krachtens dit Statuut vereiste taken van het ambt uit te oefenen wordt betwist ingevolge dit artikel, krijgt volledig de gelegenheid bewijs aan te voeren en te verkrijgen en zijn standpunt kenbaar te maken overeenkomstig het Reglement van proces- en bewijsvoering. De persoon in kwestie neemt niet anderszins deel aan de behandeling van de zaak.
+2. In the employment of staff, the Prosecutor and the Registrar shall ensure the highest standards of efficiency, competency and integrity, and shall have regard, *mutatis mutandis*, to the criteria set forth in [article 36, paragraph 8](https://wetten.overheid.nl/BWBV0001489).
 
-##### Artikel 47. Disciplinaire maatregelen
+3. The Registrar, with the agreement of the Presidency and the Prosecutor, shall propose Staff Regulations which include the terms and conditions upon which the staff of the Court shall be appointed, remunerated and dismissed. The Staff Regulations shall be approved by the Assembly of States Parties.
 
-Een rechter, Aanklager, Substituut-Aanklager, Griffier of Substituut-Griffier die zich schuldig heeft gemaakt aan wangedrag van minder ernstige aard dan dat bedoeld in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=46&z=2024-06-13&g=2024-06-13), wordt onderworpen aan disciplinaire maatregelen overeenkomstig het Reglement van proces- en bewijsvoering.
+4. The Court may, in exceptional circumstances, employ the expertise of gratis personnel offered by States Parties, intergovernmental organizations or non-governmental organizations to assist with the work of any of the organs of the Court. The Prosecutor may accept any such offer on behalf of the Office of the Prosecutor. Such gratis personnel shall be employed in accordance with guidelines to be established by the Assembly of States Parties.
 
-##### Artikel 48. Voorrechten en immuniteiten
+##### Article 45. Solemn undertaking
 
-1. Het Hof geniet op het grondgebied van elke Staat die Partij is de voorrechten en immuniteiten die noodzakelijk zijn voor de vervulling van zijn taken.
+Before taking up their respective duties under this Statute, the judges, the Prosecutor, the Deputy Prosecutors, the Registrar and the Deputy Registrar shall each make a solemn undertaking in open court to exercise his or her respective functions impartially and conscientiously.
 
-2. De rechters, de Aanklager, de Substituut-Aanklagers en de Griffier genieten bij de uitoefening van of met betrekking tot de werkzaamheden van het Hof dezelfde voorrechten en immuniteiten als aan hoofden van diplomatieke missies worden verleend, en zij blijven na afloop van hun ambtstermijn immuniteit genieten ten aanzien van elke juridische procedure met betrekking tot het door hen gesproken of geschreven woord en door hen in hun officiële hoedanigheid verrichte handelingen.
+##### Article 46. Removal from office
 
-3. De Substituut-Griffier, het personeel van het Parket van de Aanklager en het personeel van de Griffie genieten de voorrechten en immuniteiten en faciliteiten vereist voor de uitoefening van hun functie overeenkomstig de overeenkomst inzake de voorrechten en immuniteiten van het Hof.
+1. A judge, the Prosecutor, a Deputy Prosecutor, the Registrar or the Deputy Registrar shall be removed from office if a decision to this effect is made in accordance with paragraph 2, in cases where that person:
 
-4. Raadslieden, deskundigen, getuigen en alle andere personen die aanwezig dienen te zijn op de zetel van het Hof worden behandeld op de wijze die noodzakelijk is voor het behoorlijk functioneren van het Hof overeenkomstig de overeenkomst inzake voorrechten en immuniteiten van het Hof.
+- a) Is found to have committed serious misconduct or a serious breach of his or her duties under this Statute, as provided for in the Rules of Procedure and Evidence; or
 
-5. De voorrechten en immuniteiten van:
+- b) Is unable to exercise the functions required by this Statute.
 
-- a. een rechter of de Aanklager kunnen worden opgeheven bij absolute meerderheid van de rechters;
+2. A decision as to the removal from office of a judge, the Prosecutor or a Deputy Prosecutor under paragraph 1 shall be made by the Assembly of States Parties, by secret ballot:
 
-- b. de Griffier kunnen worden opgeheven door het Presidium;
+- a) In the case of a judge, by a two-thirds majority of the States Parties upon a recommendation adopted by a two-thirds majority of the other judges;
 
-- c. de Substituut-Aanklagers en het personeel van het Parket van de Aanklager kunnen worden opgeheven door de Aanklager;
+- b) In the case of the Prosecutor, by an absolute majority of the States Parties;
 
-- d. de Substituut-Griffier en het personeel van de Griffie kunnen worden opgeheven door de Griffier.
+- c) In the case of a Deputy Prosecutor, by an absolute majority of the States Parties upon the recommendation of the Prosecutor.
 
-##### Artikel 49. Salarissen, toelagen en onkostenvergoedingen
+3. A decision as to the removal from office of the Registrar or Deputy Registrar shall be made by an absolute majority of the judges.
 
-De rechters, de Aanklager, de Substituut-Aanklagers, de Griffier en de Substituut-Griffier ontvangen de salarissen, toelagen en onkostenvergoedingen die door de Vergadering van Staten die Partij zijn worden vastgesteld. Deze salarissen en toelagen worden gedurende hun ambtstermijn niet verlaagd.
+4. A judge, Prosecutor, Deputy Prosecutor, Registrar or Deputy Registrar whose conduct or ability to exercise the functions of the office as required by this Statute is challenged under this article shall have full opportunity to present and receive evidence and to make submissions in accordance with the Rules of Procedure and Evidence. The person in question shall not otherwise participate in the consideration of the matter.
 
-##### Artikel 50. Officiële talen en werktalen
+##### Article 47. Disciplinary measures
 
-1. De officiële talen van het Hof zijn Arabisch, Chinees, Engels, Frans, Russisch en Spaans. De vonnissen van het Hof, alsmede andere beslissingen ter oplossing van fundamentele kwesties die aan het Hof zijn voorgelegd, worden gepubliceerd in de officiële talen. Het Presidium beslist overeenkomstig de criteria vastgelegd in het Reglement van proces- en bewijsvoering welke beslissingen kunnen worden beschouwd als een oplossing van fundamentele kwesties ten behoeve van de toepassing van dit lid.
+A judge, Prosecutor, Deputy Prosecutor, Registrar or Deputy Registrar who has committed misconduct of a less serious nature than that set out in [article 46, paragraph 1](https://wetten.overheid.nl/BWBV0001489), shall be subject to disciplinary measures, in accordance with the Rules of Procedure and Evidence.
 
-2. De werktalen van het Hof zijn Engels en Frans. Het Reglement van proces- en bewijsvoering bepaalt in welke gevallen andere officiële talen als werktaal mogen worden gebruikt.
+##### Article 48. Privileges and immunities
 
-3. Op verzoek van een partij in een procedure of een Staat die toestemming heeft gekregen zich in een procedure te voegen, verleent het Hof toestemming voor het gebruik van een andere taal dan Engels of Frans door een dergelijke partij of Staat, mits het Hof zulks voldoende gerechtvaardigd acht.
+1. The Court shall enjoy in the territory of each State Party such privileges and immunities as are necessary for the fulfilment of its purposes.
 
-##### Artikel 51. Reglement van proces- en bewijsvoering
+2. The judges, the Prosecutor, the Deputy Prosecutors and the Registrar shall, when engaged on or with respect to the business of the Court, enjoy the same privileges and immunities as are accorded to heads of diplomatic missions and shall, after the expiry of their terms of office, continue to be accorded immunity from legal process of every kind in respect of words spoken or written and acts performed by them in their official capacity.
 
-1. Het Reglement van proces- en bewijsvoering wordt van kracht nadat het is aangenomen bij tweederde meerderheid van de leden van de Vergadering van Staten die Partij zijn.
+3. The Deputy Registrar, the staff of the Office of the Prosecutor and the staff of the Registry shall enjoy the privileges and immunities and facilities necessary for the performance of their functions, in accordance with the agreement on the privileges and immunities of the Court.
 
-2. Wijzigingen in het Reglement van proces- en bewijsvoering kunnen worden voorgesteld door:
+4. Counsel, experts, witnesses or any other person required to be present at the seat of the Court shall be accorded such treatment as is necessary for the proper functioning of the Court, in accordance with the agreement on the privileges and immunities of the Court.
 
-- a. elke Staat die Partij is;
+5. The privileges and immunities of:
 
-- b. een absolute meerderheid van rechters; of
+- a) A judge or the Prosecutor may be waived by an absolute majority of the judges;
 
-- c. de Aanklager.
+- b) The Registrar may be waived by the Presidency;
 
-Wijzigingen treden in werking na te zijn aangenomen bij tweederde meerderheid van de leden van de Vergadering van Staten die Partij zijn.
+- c) The Deputy Prosecutors and staff of the Office of the Prosecutor may be waived by the Prosecutor;
 
-3. Na aanneming van het Reglement van proces- en bewijsvoering kunnen de rechters in dringende gevallen, wanneer het Reglement niet voorziet in een bepaalde situatie die zich voor het Hof voordoet, bij tweederde meerderheid voorlopige regels opstellen die worden toegepast tot hun aanneming, wijziging of verwerping in de eerstvolgende gewone of buitengewone zitting van de Vergadering van Staten die Partij zijn.
+- d) The Deputy Registrar and staff of the Registry may be waived by the Registrar.
 
-4. Het Reglement van proces- en bewijsvoering, wijzigingen daarin en elke voorlopige regel dienen in overeenstemming met dit Statuut te zijn. Wijzigingen in het Reglement van proces- en bewijsvoering alsmede voorlopige regels worden niet met terugwerkende kracht toegepast ten nadele van de persoon tegen wie een onderzoek loopt of die wordt vervolgd of is veroordeeld.
+##### Article 49. Salaries, allowances and expenses
 
-5. Ingeval het Statuut en het Reglement van proces- en bewijsvoering met elkaar in strijd zijn, gaat het Statuut voor.
+The judges, the Prosecutor, the Deputy Prosecutors, the Registrar and the Deputy Registrar shall receive such salaries, allowances and expenses as may be decided upon by the Assembly of States Parties. These salaries and allowances shall not be reduced during their terms of office.
 
-##### Artikel 52. Huishoudelijk reglement van het Hof
+##### Article 50. Official and working languages
 
-1. De rechters stellen overeenkomstig dit Statuut en het Reglement van proces- en bewijsvoering, bij absolute meerderheid het huishoudelijk reglement vast dat noodzakelijk is voor het dagelijks functioneren van het Hof.
+1. The official languages of the Court shall be Arabic, Chinese, English, French, Russian and Spanish. The judgements of the Court, as well as other decisions resolving fundamental issues before the Court, shall be published in the official languages. The Presidency shall, in accordance with the criteria established by the Rules of Procedure and Evidence, determine which decisions may be considered as resolving fundamental issues for the purposes of this paragraph.
 
-2. De Aanklager en de Griffier worden geraadpleegd bij de uitwerking van het huishoudelijk reglement en wijzigingen daarin.
+2. The working languages of the Court shall be English and French. The Rules of Procedure and Evidence shall determine the cases in which other official languages may be used as working languages.
 
-3. Het huishoudelijk reglement en wijzigingen daarin treden in werking zodra zij zijn aangenomen tenzij de rechters anders besluiten. Onmiddellijk na aanneming worden zij voor commentaar gestuurd aan de Staten die Partij zijn. Indien er binnen zes maanden geen bezwaren zijn van een meerderheid van Staten die Partij zijn, blijven zij van kracht.
+3. At the request of any party to a proceeding or a State allowed to intervene in a proceeding, the Court shall authorize a language other than English or French to be used by such a party or State, provided that the Court considers such authorization to be adequately justified.
 
-## DEEL 5. OPSPORINGSONDERZOEK EN VERVOLGING
+##### Article 51. Rules of Procedure and Evidence
 
-##### Artikel 53. Opening van een opsporingsonderzoek
+1. The Rules of Procedure and Evidence shall enter into force upon adoption by a two-thirds majority of the members of the Assembly of States Parties.
 
-1. De Aanklager opent na evaluatie van de informatie die hem ter beschikking is gesteld, een opsporingsonderzoek tenzij hij besluit dat geen redelijke basis aanwezig is om krachtens dit Statuut tot vervolging over te gaan. Bij de beslissing of een onderzoek wordt geopend, gaat de Aanklager na of:
+2. Amendments to the Rules of Procedure and Evidence may be proposed by:
 
-- a. de informatie waarover de Aanklager beschikt een redelijke basis vormt om aan te nemen dat een misdrijf waarover het Hof rechtsmacht bezit is of wordt gepleegd;
+- a) Any State Party;
 
-- b. de zaak ontvankelijk is of zou zijn ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2024-06-13&g=2024-06-13); en
+- b) The judges acting by an absolute majority; or
 
-- c. de ernst van het misdrijf en de belangen van de slachtoffers in aanmerking genomen, er niettemin gegronde redenen zijn om aan te nemen dat een onderzoek niet in het belang van een goede rechtsbedeling zou zijn.
+- c) The Prosecutor.
 
-Indien de Aanklager besluit dat geen redelijke basis aanwezig is om tot vervolging over te gaan en dit besluit louter gebaseerd is op het onder c hierboven bepaalde, stelt hij de Kamer van vooronderzoek hiervan in kennis.
+Such amendments shall enter into force upon adoption by a two-thirds majority of the members of the Assembly of States Parties.
 
-2. Indien de Aanklager na onderzoek tot de slotsom komt dat niet voldoende grondslag bestaat voor een vervolging omdat:
+3. After the adoption of the Rules of Procedure and Evidence, in urgent cases where the Rules do not provide for a specific situation before the Court, the judges may, by a two-thirds majority, draw up provisional Rules to be applied until adopted, amended or rejected at the next ordinary or special session of the Assembly of States Parties.
 
-- a. niet voldoende juridische of feitelijke grondslag aanwezig is om een bevel tot aanhouding of dagvaarding ingevolge [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=58&z=2024-06-13&g=2024-06-13) te vragen;
+4. The Rules of Procedure and Evidence, amendments thereto and any provisional Rule shall be consistent with this Statute. Amendments to the Rules of Procedure and Evidence as well as provisional Rules shall not be applied retroactively to the detriment of the person who is being investigated or prosecuted or who has been convicted.
 
-- b. de zaak niet-ontvankelijk is ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=17&z=2024-06-13&g=2024-06-13); of
+5. In the event of conflict between the Statute and the Rules of Procedure and Evidence, the Statute shall prevail.
 
-- c. vervolging niet in het belang van de goede rechtsbedeling is, alle omstandigheden in aanmerking genomen, met inbegrip van de ernst van het misdrijf, de belangen van slachtoffers en de leeftijd of zwakke gezondheid van de beschuldigde, en diens rol in het misdrijf waarop de beschuldiging betrekking heeft;
+##### Article 52. Regulations of the Court
 
-stelt de Aanklager de Kamer van vooronderzoek en de Staat die ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=14&z=2024-06-13&g=2024-06-13) aangifte heeft gedaan of de Veiligheidsraad in een zaak krachtens [artikel 13, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=13&z=2024-06-13&g=2024-06-13), in kennis van zijn conclusie en de redenen voor de conclusie.
+1. The judges shall, in accordance with this Statute and the Rules of Procedure and Evidence, adopt, by an absolute majority, the Regulations of the Court necessary for its routine functioning.
 
-- a. Op verzoek van de Staat die ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=14&z=2024-06-13&g=2024-06-13) aangifte heeft gedaan of de Veiligheidsraad ingevolge [artikel 13, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=13&z=2024-06-13&g=2024-06-13), kan de Kamer van vooronderzoek een beslissing van de Aanklager ingevolge het eerste of tweede lid om geen vervolging in te stellen herzien en de Aanklager verzoeken die beslissing te heroverwegen.
+2. The Prosecutor and the Registrar shall be consulted in the elaboration of the Regulations and any amendments thereto.
 
-- b. De Kamer van vooronderzoek is bovendien ambtshalve bevoegd een beslissing van de Aanklager om geen vervolging in te stellen te herzien, indien deze louter gebaseerd is op het eerste lid, onder c, of het tweede lid, onder c. In een dergelijk geval wordt de beslissing van de Aanklager eerst na bevestiging van kracht door de Kamer van vooronderzoek.
+3. The Regulations and any amendments thereto shall take effect upon adoption unless otherwise decided by the judges. Immediately upon adoption, they shall be circulated to States Parties for comments. If within six months there are no objections from a majority of States Parties, they shall remain in force.
 
-4. De Aanklager is te allen tijde bevoegd de beslissing om een onderzoek of vervolging in te stellen in heroverweging te nemen op grond van nieuwe feiten of informatie.
+## PART 5. INVESTIGATION AND PROSECUTION
 
-##### Artikel 54. Taken en bevoegdheden van de Aanklager met betrekking tot het opsporingsonderzoek
+##### Article 53. Initiation of an investigation
 
-1. De Aanklager dient:
+1. The Prosecutor shall, having evaluated the information made available to him or her, initiate an investigation unless he or she determines that there is no reasonable basis to proceed under this Statute. In deciding whether to initiate an investigation, the Prosecutor shall consider whether:
 
-- a. teneinde de waarheid vast te stellen, alle feiten en bewijsmiddelen bij het opsporingsonderzoek te betrekken, voorzover relevant voor de beoordeling van de vraag of sprake is van strafrechtelijke aansprakelijkheid ingevolge dit Statuut, en daarbij bezwarende en ontlastende omstandigheden gelijkelijk te onderzoeken;
+- a) The information available to the Prosecutor provides a reasonable basis to believe that a crime within the jurisdiction of the Court has been or is being committed;
 
-- b. passende maatregelen te treffen teneinde te waarborgen dat misdrijven waarover het Hof rechtsmacht bezit doelmatig worden onderzocht en vervolgd en daarbij de belangen en persoonlijke omstandigheden van slachtoffers en getuigen te respecteren, met inbegrip van leeftijd, geslacht, zoals gedefinieerd in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=7&z=2024-06-13&g=2024-06-13), en gezondheid, en daarbij in aanmerking te nemen de aard van het misdrijf, in het bijzonder wanneer het seksueel geweld, seksistisch geweld of geweld tegen kinderen betreft; en
+- b) The case is or would be admissible under[article 17](https://wetten.overheid.nl/BWBV0001489); and
 
-- c. volledig de rechten van personen ingevolge dit Statuut te eerbiedigen.
+- c) Taking into account the gravity of the crime and the interests of victims, there are nonetheless substantial reasons to believe that an investigation would not serve the interests of justice.
 
-2. De Aanklager is bevoegd een onderzoek uit te voeren op het grondgebied van een Staat:
+If the Prosecutor determines that there is no reasonable basis to proceed and his or her determination is based solely on subparagraph c) above, he or she shall inform the Pre-Trial Chamber.
 
-- a. overeenkomstig de bepalingen van [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2024-06-13&g=2024-06-13); of
+2. If, upon investigation, the Prosecutor concludes that there is not a sufficient basis for a prosecution because:
 
-- b. daartoe gemachtigd door de Kamer van vooronderzoek ingevolge [artikel 57, derde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=57&z=2024-06-13&g=2024-06-13).
+- a) There is not a sufficient legal or factual basis to seek a warrant or summons under [article 58](https://wetten.overheid.nl/BWBV0001489);
 
-3. De Aanklager is bevoegd:
+- b) The case is inadmissible under [article 17](https://wetten.overheid.nl/BWBV0001489); or
 
-- a. bewijsmiddelen te vergaren en te onderzoeken;
+- c) A prosecution is not in the interests of justice, taking into account all the circumstances, including the gravity of the crime, the interests of victims and the age or infirmity of the alleged perpetrator, and his or her role in the alleged crime; the Prosecutor shall inform the Pre-Trial Chamber and the State making a referral under [article 14](https://wetten.overheid.nl/BWBV0001489) or the Security Council in a case under [article 13](https://wetten.overheid.nl/BWBV0001489), paragraph b), of his or her conclusion and the reasons for the conclusion.
 
-- b. de aanwezigheid te verzoeken van personen tegen wie een onderzoek loopt, van slachtoffers en van getuigen en hen ondervragen;
+3. - a) At the request of the State making a referral under [article 14](https://wetten.overheid.nl/BWBV0001489) or the Security Council under [article 13, paragraph b)](https://wetten.overheid.nl/BWBV0001489), the Pre-Trial Chamber may review a decision of the Prosecutor under paragraph 1 or 2 not to proceed and may request the Prosecutor to reconsider that decision.
 
-- c. van een Staat of intergouvernementele organisatie medewerking te verzoeken of een regeling overeenkomstig zijn, respectievelijk haar, desbetreffende bevoegdheid en/of mandaat;
+- b) In addition, the Pre-Trial Chamber may, on its own initiative, review a decision of the Prosecutor not to proceed if it is based solely on paragraph 1 c) or 2 c). In such a case, the decision of the Prosecutor shall be effective only if confirmed by the Pre-Trial Chamber.
 
-- d. regelingen te treffen of overeenkomsten te sluiten die niet onverenigbaar zijn met dit Statuut, voorzover vereist om de medewerking van een Staat, een intergouvernementele organisatie of een persoon te vergemakkelijken;
+4. The Prosecutor may, at any time, reconsider a decision whether to initiate an investigation or prosecution based on new facts or information.
 
-- e. overeen te komen in geen enkele fase van het proces stukken of informatie bekend te maken die de Aanklager verkrijgt op voorwaarde van vertrouwelijkheid en louter om nieuwe bewijsmiddelen te verzamelen, tenzij degene die de informatie heeft gegeven toestemming verleent; en
+##### Article 54. Duties and powers of the Prosecutor with respect to investigations
 
-- f. de vereiste maatregelen te treffen of daarom te verzoeken teneinde de vertrouwelijkheid van informatie, de bescherming van een persoon of de instandhouding van bewijsmiddelen te verzekeren.
+1. The Prosecutor shall:
 
-##### Artikel 55. Rechten van personen gedurende een onderzoek
+- a) In order to establish the truth, extend the investigation to cover all facts and evidence relevant to an assessment of whether there is criminal responsibility under this Statute, and, in doing so, investigate incriminating and exonerating circumstances equally;
 
-1. Ten aanzien van een opsporingsonderzoek ingevolge dit Statuut wordt een persoon:
+- b) Take appropriate measures to ensure the effective investigation and prosecution of crimes within the jurisdiction of the Court, and in doing so, respect the interests and personal circumstances of victims and witnesses, including age, gender as defined in [article 7, paragraph 3](https://wetten.overheid.nl/BWBV0001489), and health, and take into account the nature of the crime, in particular where it involves sexual violence, gender violence or violence against children; and
 
-- a. niet gedwongen een voor zichzelf belastende verklaring af te leggen of schuld te bekennen;
+- c) Fully respect the rights of persons arising under this Statute.
 
-- b. niet onderworpen aan enigerlei vorm van dwang, druk of bedreiging, marteling of enigerlei andere vorm van wrede, onmenselijke of vernederende behandeling of bestraffing; en
+2. The Prosecutor may conduct investigations on the territory of a State:
 
-- c. indien ondervraging plaatsvindt in een andere taal dan een taal die de persoon volledig begrijpt en spreekt, kosteloos bijstand verleend door een bevoegde tolk en krijgt hij de vertalingen die noodzakelijk zijn om aan de vereisten van billijkheid te voldoen;
+- a) In accordance with the provisions of [Part 9](https://wetten.overheid.nl/BWBV0001489); or
 
-- d. niet onderworpen aan willekeurige aanhouding, vasthouding of vrijheidsbeneming, behoudens op de gronden en overeenkomstig de procedures, vastgesteld in het Statuut.
+- b) As authorized by the Pre-Trial Chamber under [article 57, paragraph 3 d)](https://wetten.overheid.nl/BWBV0001489).
 
-2. Wanneer er gronden zijn om aan te nemen dat een persoon een misdrijf heeft begaan waarover het Hof rechtsmacht bezit en die persoon zal worden ondervraagd door de Aanklager of door nationale autoriteiten op grond van een verzoek gedaan ingevolge [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2024-06-13&g=2024-06-13) van dit Statuut, wordt die persoon, alvorens te worden ondervraagd, geïnformeerd dat hij tevens de volgende rechten heeft:
+3. The Prosecutor may:
 
-- a. het recht in kennis te worden gesteld, alvorens te worden ondervraagd, van het bestaan van gronden om aan te nemen dat hij een misdrijf heeft gepleegd waarover het Hof rechtsmacht bezit;
+- a) Collect and examine evidence;
 
-- b. het recht tot zwijgen, zonder dat zulks meeweegt bij het vaststellen van schuld of onschuld;
+- b) Request the presence of and question persons being investigated, victims and witnesses;
 
-- c. het recht op rechtsbijstand naar eigen keuze, of, indien hij geen rechtsbijstand geniet, deze toegevoegd te krijgen, in alle gevallen waarin het belang van de rechtsbedeling dit eist; dit is kosteloos in die gevallen waarin betrokkene niet over voldoende middelen beschikt om daarin zelf te voorzien;
+- c) Seek the cooperation of any State or intergovernmental organization or arrangement in accordance with its respective competence and/or mandate;
 
-- d. het recht te worden ondervraagd in aanwezigheid van een raadsman tenzij hij daarvan vrijwillig afstand heeft gedaan.
+- d) Enter into such arrangements or agreements, not inconsistent with this Statute, as may be necessary to facilitate the cooperation of a State, intergovernmental organization or person;
 
-##### Artikel 56. Rol van de Kamer van vooronderzoek in geval waarin de gelegenheid bewijsmiddelen te vergaren zich niet nogmaals zal voordoen
+- e) Agree not to disclose, at any stage of the proceedings, documents or information that the Prosecutor obtains on the condition of confidentiality and solely for the purpose of generating new evidence, unless the provider of the information consents; and
 
-- a. Wanneer de Aanklager van oordeel is dat een onderzoek een eenmalige gelegenheid biedt om een getuige een getuigenis of een verklaring af te laten leggen of bewijs te onderzoeken, te vergaren of te toetsen, dat misschien in een later stadium niet meer beschikbaar is voor een onderzoek ter terechtzitting, stelt de Aanklager de Kamer van vooronderzoek hiervan in kennis.
+- f) Take necessary measures, or request that necessary measures be taken, to ensure the confidentiality of information, the protection of any person or the preservation of evidence.
 
-- b. In dat geval is de Kamer van vooronderzoek bevoegd, op verzoek van de Aanklager, alle maatregelen te treffen, vereist om de doelmatigheid en zuiverheid van de procedure te verzekeren en, in het bijzonder, de rechten van de verdediging te beschermen.
+##### Article 55. Rights of persons during an investigation
 
-- c. Tenzij de Kamer van vooronderzoek anders beslist, verstrekt de Aanklager de relevante informatie aan de persoon die is aangehouden of verschenen op een oproep in verband met het onderzoek vermeld onder a, teneinde in de zaak te worden gehoord.
+1. In respect of an investigation under this Statute, a person:
 
-2. De maatregelen in het eerste lid, onder b, bestaan onder andere uit:
+- a) Shall not be compelled to incriminate himself or herself or to confess guilt;
 
-- a. aanbevelingen doen of bevelen uitvaardigen met betrekking tot de te volgen procedure;
+- b) Shall not be subjected to any form of coercion, duress or threat, to torture or to any other form of cruel, inhuman or degrading treatment or punishment;
 
-- b. bepalen dat een proces-verbaal van de procedure wordt gemaakt;
+- c) Shall, if questioned in a language other than a language the person fully understands and speaks, have, free of any cost, the assistance of a competent interpreter and such translations as are necessary to meet the requirements of fairness; and
 
-- c. een deskundige benoemen voor bijstand;
+- d) Shall not be subjected to arbitrary arrest or detention, and shall not be deprived of his or her liberty except on such grounds and in accordance with such procedures as are established in this Statute.
 
-- d. toestemming verlenen aan een raadsman voor een persoon die is aangehouden of voor het Hof is verschenen naar aanleiding van een oproeping, om deel te nemen, of, wanneer nog geen aanhouding of verschijning heeft plaatsgevonden of geen raadsman is aangewezen, het benoemen van een andere raadsman om de belangen van de verdediging waar te nemen en te vertegenwoordigen;
+2. Where there are grounds to believe that a person has committed a crime within the jurisdiction of the Court and that person is about to be questioned either by the Prosecutor, or by national authorities pursuant to a request made under [Part 9](https://wetten.overheid.nl/BWBV0001489), that person shall also have the following rights of which he or she shall be informed prior to being questioned:
 
-- e. een van de leden of, indien noodzakelijk, een andere beschikbare rechter van de Afdeling Vooronderzoek of de Afdeling Berechting als waarnemer aanwijzen en aanbevelingen doen of bevelen uitvaardigen met betrekking tot de vergaring en de veiligstelling van bewijsmiddelen en het ondervragen van personen;
+- a) To be informed, prior to being questioned, that there are grounds to believe that he or she has committed a crime within the jurisdiction of the Court;
 
-- f. alle andere stappen te nemen die vereist zijn voor het vergaren of veiligstellen van bewijsmiddelen.
+- b) To remain silent, without such silence being a consideration in the determination of guilt or innocence;
 
-- a. Wanneer de Aanklager niet om maatregelen ingevolge dit artikel heeft verzocht doch de Kamer van vooronderzoek meent dat die maatregelen vereist zijn voor de veiligstelling van bewijsmiddelen die zij essentieel acht voor de verdediging ter terechtzitting, pleegt zij overleg met de Aanklager over de vraag of deze goede redenen heeft voor het achterwege laten van een verzoek om de maatregelen. Indien de Kamer van vooronderzoek na dit overleg tot de slotsom komt dat het achterwege laten door de Aanklager van een verzoek om dergelijke maatregelen ongerechtvaardigd is, is de Kamer van vooronderzoek ambtshalve bevoegd dergelijke maatregelen te treffen.
+- c) To have legal assistance of the person's choosing, or, if the person does not have legal assistance, to have legal assistance assigned to him or her, in any case where the interests of justice so require, and without payment by the person in any such case if the person does not have sufficient means to pay for it; and
 
-- b. De Aanklager heeft het recht van beroep tegen een ambtshalve beslissing van de Kamer van vooronderzoek ingevolge deze paragraaf. Het beroep wordt versneld behandeld.
+- d) To be questioned in the presence of counsel unless the person has voluntarily waived his or her right to counsel.
 
-4. De toelaatbaarheid van bewijsmiddelen die ingevolge dit artikel zijn veiliggesteld of vergaard ten behoeve van het onderzoek ter terechtzitting, of van het proces-verbaal daarvan, wordt op de terechtzitting beheerst door [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=69&z=2024-06-13&g=2024-06-13)en krijgt het daaraan door de Kamer van berechting toegekende gewicht.
+##### Article 56. Role of the Pre-Trial Chamber in relation to a unique investigative opportunity
 
-##### Artikel 57. Taken en bevoegdheden van de Kamer van vooronderzoek
+1. - a) Where the Prosecutor considers an investigation to present a unique opportunity to take testimony or a statement from a witness or to examine, collect or test evidence, which may not be available subsequently for the purposes of a trial, the Prosecutor shall so inform the Pre-Trial Chamber.
 
-1. Tenzij dit Statuut anders bepaalt, vervult de Kamer van vooronderzoek zijn taken overeenkomstig het in dit artikel bepaalde.
+- b) In that case, the Pre-Trial Chamber may, upon request of the Prosecutor, take such measures as may be necessary to ensure the efficiency and integrity of the proceedings and, in particular, to protect the rights of the defence.
 
-- a. Beslissingen van de Kamer van vooronderzoek ingevolge de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=15&z=2024-06-13&g=2024-06-13), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=18&z=2024-06-13&g=2024-06-13), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=19&z=2024-06-13&g=2024-06-13), [54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=54&z=2024-06-13&g=2024-06-13), [61, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=61&z=2024-06-13&g=2024-06-13), en [72](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=72&z=2024-06-13&g=2024-06-13) worden genomen door een meerderheid van zijn rechters.
+- c) Unless the Pre-Trial Chamber orders otherwise, the Prosecutor shall provide the relevant information to the person who has been arrested or appeared in response to a summons in connection with the investigation referred to in subparagraph (a), in order that he or she may be heard on the matter.
 
-- b. In alle overige gevallen vervult een alleenzittende rechter van de Kamer van vooronderzoek de in dit Statuut voorziene taken, tenzij dit anders is geregeld in het Reglement van proces- en bewijsvoering of door een meerderheid van de Kamer van vooronderzoek.
+2. The measures referred to in paragraph 1 (b) may include:
 
-3. Naast zijn overige taken ingevolge dit Statuut is de Kamer van vooronderzoek bevoegd om:
+- a) Making recommendations or orders regarding procedures to be followed;
 
-- a. op verzoek van de Aanklager de voor een onderzoek vereiste bevelen uit te vaardigen;
+- b) Directing that a record be made of the proceedings;
 
-- b. op verzoek van een persoon die is aangehouden of verschenen ingevolge op een bevel overeenkomstig [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=58&z=2024-06-13&g=2024-06-13), de bevelen uit te vaardigen, met inbegrip van maatregelen als vermeld in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=56&z=2024-06-13&g=2024-06-13), of de samenwerking te verlangen ingevolge [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2024-06-13&g=2024-06-13) vereist om de persoon terzijde te staan bij de voorbereiding van zijn verdediging;
+- c) Appointing an expert to assist;
 
-- c. waar dit noodzakelijk is, zorg te dragen voor de bescherming en de eerbiediging van de persoonlijke levenssfeer van slachtoffers en getuigen, de veiligstelling van bewijsmiddelen, de bescherming van personen die aangehouden of verschenen zijn op een bevel, en de bescherming van informatie die de nationale veiligheid betreft;
+- d) Authorizing counsel for a person who has been arrested, or appeared before the Court in response to a summons, to participate, or where there has not yet been such an arrest or appearance or counsel has not been designated, appointing another counsel to attend and represent the interests of the defence;
 
-- d. de Aanklager te machtigen om bepaalde onderzoeksmaatregelen te treffen binnen het grondgebied van een Staat die Partij is zonder de samenwerking van die Staat te hebben verzekerd ingevolge [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2024-06-13&g=2024-06-13), indien, telkens wanneer dit mogelijk is rekening houdend met de zienswijze van de betrokken Staat, de Kamer van vooronderzoek in dat geval heeft bepaald dat de Staat kennelijk niet bij machte is uitvoering te geven aan een rechtshulpverzoek ten gevolge van niet-beschikbaarheid van een autoriteit of een onderdeel in zijn rechtsstelsel bevoegd tot het uitvoering geven aan een verzoek tot samenwerking ingevolge Deel 9;
+- e) Naming one of its members or, if necessary, another available judge of the Pre-Trial or Trial Division to observe and make recommendations or orders regarding the collection and preservation of evidence and the questioning of persons;
 
-- e. wanneer een bevel tot aanhouding of tot verschijning is uitgevaardigd ingevolge [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=58&z=2024-06-13&g=2024-06-13), en met inachtneming van de zwaarte van het bewijs en de rechten van de betrokken partijen zoals voorzien in dit Statuut en het Reglement van proces- en bewijsvoering, rechtshulp te vragen aan Staten ingevolge [artikel 93, eerste lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2024-06-13&g=2024-06-13), om beschermende maatregelen te treffen ter fine van verbeurdverklaring die uiteindelijk vooral slachtoffers ten goede zullen komen.
+- f) Taking such other action as may be necessary to collect or preserve evidence.
 
-##### Artikel 58. Uitvaardiging door de Kamer van vooronderzoek van een bevel tot aanhouding of een oproep tot verschijning
+3. - a) Where the Prosecutor has not sought measures pursuant to this article but the Pre-Trial Chamber considers that such measures are required to preserve evidence that it deems would be essential for the defence at trial, it shall consult with the Prosecutor as to whether there is good reason for the Prosecutor's failure to request the measures. If upon consultation, the Pre-Trial Chamber concludes that the Prosecutor's failure to request such measures is unjustified, the Pre-Trial Chamber may take such measures on its own initiative.
 
-1. Nadat het opsporingsonderzoek is geopend vaardigt de Kamer van vooronderzoek op verzoek van de Aanklager een bevel tot aanhouding van een persoon uit, indien de Kamer van vooronderzoek na bestudering van het verzoek en de bewijsmiddelen of overige door de Aanklager overgelegde informatie ervan overtuigd is dat:
+- b) A decision of the Pre-Trial Chamber to act on its own initiative under this paragraph may be appealed by the Prosecutor. The appeal shall be heard on an expedited basis.
 
-- a. redelijke gronden aanwezig zijn om aan te nemen dat de persoon een misdrijf heeft begaan waarover het Hof rechtsmacht bezit; en
+4. The admissibility of evidence preserved or collected for trial pursuant to this article, or the record thereof, shall be governed at trial by [article 69](https://wetten.overheid.nl/BWBV0001489), and given such weight as determined by the Trial Chamber.
 
-- b. de aanhouding van de persoon noodzakelijk lijkt teneinde:
+##### Article 57. Functions and powers of the Pre-Trial Chamber
 
-  - i. te verzekeren dat de persoon ter terechtzitting zal verschijnen;
+1. Unless otherwise provided in this Statute, the Pre-Trial Chamber shall exercise its functions in accordance with the provisions of this article.
 
-  - ii. te voorkomen dat de persoon het onderzoek of de gerechtelijke procedure zal belemmeren of in gevaar brengen, of
+2. - a) Orders or rulings of the Pre-Trial Chamber issued under [articles 15](https://wetten.overheid.nl/BWBV0001489), [18](https://wetten.overheid.nl/BWBV0001489), [19](https://wetten.overheid.nl/BWBV0001489), [54, paragraph 2](https://wetten.overheid.nl/BWBV0001489), [61, paragraph 7](https://wetten.overheid.nl/BWBV0001489), and [72](https://wetten.overheid.nl/BWBV0001489) must be concurred in by a majority of its judges.
 
-  - iii. de persoon te beletten voort te gaan met het begaan van dat misdrijf of een aanverwant misdrijf waarover het Hof rechtsmacht bezit en dat voortvloeit uit dezelfde omstandigheden.
+- b) In all other cases, a single judge of the Pre-Trial Chamber may exercise the functions provided for in this Statute, unless otherwise provided for in the Rules of Procedure and Evidence or by a majority of the Pre-Trial Chamber.
 
-2. Het verzoek van de Aanklager vermeldt:
+3. In addition to its other functions under this Statute, the Pre-Trial Chamber may:
 
-- a. de naam van de persoon en alle overige informatie relevant voor diens identificatie;
+- a) At the request of the Prosecutor, issue such orders and warrants as may be required for the purposes of an investigation;
 
-- b. een specifieke verwijzing naar de misdrijven waarover het Hof rechtsmacht bezit en die de persoon beweerdelijk heeft begaan;
+- b) Upon the request of a person who has been arrested or has appeared pursuant to a summons under [article 58](https://wetten.overheid.nl/BWBV0001489), issue such orders, including measures such as those described in [article 56](https://wetten.overheid.nl/BWBV0001489), or seek such cooperation pursuant to [Part 9](https://wetten.overheid.nl/BWBV0001489) as may be necessary to assist the person in the preparation of his or her defence;
 
-- c. een beknopte beschrijving van de feiten die beweerdelijk die misdrijven vormen;
+- c) Where necessary, provide for the protection and privacy of victims and witnesses, the preservation of evidence, the protection of persons who have been arrested or appeared in response to a summons, and the protection of national security information;
 
-- d. een samenvatting van de bewijsmiddelen en de overige informatie die redelijke gronden vormen om aan te nemen dat de persoon die misdrijven heeft begaan; en
+- d) Authorize the Prosecutor to take specific investigative steps within the territory of a State Party without having secured the cooperation of that State under [Part 9](https://wetten.overheid.nl/BWBV0001489) if, whenever possible having regard to the views of the State concerned, the Pre-Trial Chamber has determined in that case that the State is clearly unable to execute a request for cooperation due to the unavailability of any authority or any component of its judicial system competent to execute the request for cooperation under Part 9.
 
-- e. de reden waarom de Aanklager meent dat de aanhouding van de persoon noodzakelijk is.
+- e) Where a warrant of arrest or a summons has been issued under [article 58](https://wetten.overheid.nl/BWBV0001489), and having due regard to the strength of the evidence and the rights of the parties concerned, as provided for in this Statute and the Rules of Procedure and Evidence, seek the cooperation of States pursuant to [article 93, paragraph 1 k)](https://wetten.overheid.nl/BWBV0001489), to take protective measures for the purpose of forfeiture, in particular for the ultimate benefit of victims.
 
-3. Het bevel tot aanhouding vermeldt:
+##### Article 58. Issuance by the Pre-Trial Chamber of a warrant of arrest or a summons to appear
 
-- a. de naam van de persoon en alle overige informatie relevant voor diens identificatie;
+1. At any time after the initiation of an investigation, the Pre-Trial Chamber shall, on the application of the Prosecutor, issue a warrant of arrest of a person if, having examined the application and the evidence or other information submitted by the Prosecutor, it is satisfied that:
 
-- b. een specifieke verwijzing naar de misdrijven waarover het Hof rechtsmacht bezit en waarvoor de aanhouding van de persoon wordt verzocht; en
+- a) There are reasonable grounds to believe that the person has committed a crime within the jurisdiction of the Court; and
 
-- c. een beknopte beschrijving van de feiten die beweerdelijk die misdrijven vormen.
+- b) The arrest of the person appears necessary:
 
-4. Het bevel tot aanhouding blijft van kracht totdat door het Hof anders wordt beslist.
+   - (i) To ensure the person's appearance at trial,
 
-5. Op basis van het bevel tot aanhouding is het Hof ingevolge [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2024-06-13&g=2024-06-13) bevoegd de voorlopige aanhouding of de aanhouding en overdracht van de persoon te verzoeken.
+   - (ii) To ensure that the person does not obstruct or endanger the investigation or the court proceedings, or
 
-6. De Aanklager is bevoegd de Kamer van vooronderzoek te verzoeken het bevel tot aanhouding te wijzigen door een wijziging in of een toevoeging aan de daarin vermelde misdrijven. De Kamer van vooronderzoek wijzigt het bevel dienovereenkomstig, indien hij ervan overtuigd is dat redelijke gronden aanwezig zijn om aan te nemen dat de persoon de gewijzigde of toegevoegde misdrijven heeft begaan.
+   - (iii) Where applicable, to prevent the person from continuing with the commission of that crime or a related crime which is within the jurisdiction of the Court and which arises out of the same circumstances.
 
-7. Als alternatief voor een verzoek om een bevel tot aanhouding is de Aanklager bevoegd een verzoek in te dienen om de Kamer van vooronderzoek te vragen een oproep tot verschijning van de persoon uit te vaardigen. Indien de Kamer van vooronderzoek ervan overtuigd is dat redelijke gronden aanwezig zijn om aan te nemen dat de persoon het beweerde misdrijf heeft begaan en dat een oproep tot verschijning voldoende is om de verschijning van de persoon te verzekeren, vaardigt hij het bevel uit, met of zonder vrijheidsbeperkende voorwaarden (niet zijnde hechtenis) indien het nationale recht daarin voorziet, tot verschijning van de persoon. Het bevel vermeldt:
+2. The application of the Prosecutor shall contain:
 
-- a. de naam van de persoon en alle overige informatie relevant voor diens identificatie;
+- a) The name of the person and any other relevant identifying information;
 
-- b. de datum die is vastgesteld voor de verschijning van de persoon;
+- b) A specific reference to the crimes within the jurisdiction of the Court which the person is alleged to have committed;
 
-- c. een specifieke verwijzing naar de misdrijven waarover het Hof rechtsmacht bezit en die de persoon beweerdelijk heeft begaan; en
+- c) A concise statement of the facts which are alleged to constitute those crimes;
 
-- d. een beknopte beschrijving van de feiten die beweerdelijk het misdrijf vormen.
+- d) A summary of the evidence and any other information which establish reasonable grounds to believe that the person committed those crimes; and
 
-Het bevel wordt aan de persoon betekend.
+- e) The reason why the Prosecutor believes that the arrest of the person is necessary.
 
-##### Artikel 59. Aanhoudingsprocedure in de Staat van bewaring
+3. The warrant of arrest shall contain:
 
-1. Een Staat die Partij is en een verzoek heeft ontvangen voor de voorlopige aanhouding of voor aanhouding en overdracht onderneemt onmiddellijk stappen voor de aanhouding van de betrokken persoon overeenkomstig zijn wetgeving en het in [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2024-06-13&g=2024-06-13) bepaalde.
+- a) The name of the person and any other relevant identifying information;
 
-2. Een aangehouden persoon wordt onverwijld geleid voor de bevoegde gerechtelijke autoriteit in de Staat van bewaring, die overeenkomstig het recht van die Staat vaststelt of:
+- b) A specific reference to the crimes within the jurisdiction of the Court for which the person's arrest is sought; and
 
-- a. het bevel tot aanhouding die persoon betreft;
+- c) A concise statement of the facts which are alleged to constitute those crimes.
 
-- b. de persoon is aangehouden overeenkomstig de juiste procedure; en
+4. The warrant of arrest shall remain in effect until otherwise ordered by the Court.
 
-- c. de rechten van de persoon zijn geëerbiedigd.
+5. On the basis of the warrant of arrest, the Court may request the provisional arrest or the arrest and surrender of the person under [Part 9](https://wetten.overheid.nl/BWBV0001489).
 
-3. In afwachting van de overdracht heeft de aangehouden persoon het recht een verzoek tot voorlopige invrijheidsstelling in te dienen bij de bevoegde autoriteit in de Staat van bewaring.
+6. The Prosecutor may request the Pre-Trial Chamber to amend the warrant of arrest by modifying or adding to the crimes specified therein. The Pre-Trial Chamber shall so amend the warrant if it is satisfied that there are reasonable grounds to believe that the person committed the modified or additional crimes.
 
-4. Bij een beslissing op een dergelijk verzoek overweegt de bevoegde autoriteit in de Staat van bewaring of, gezien de ernst van de beweerde misdrijven, dringende en uitzonderlijke omstandigheden aanwezig zijn die een voorlopige invrijheidstelling rechtvaardigen, en of noodzakelijke waarborgen bestaan om te verzekeren dat de Staat van bewaring zijn verplichting tot overdracht van die persoon aan het Hof kan nakomen. Het staat de bevoegde autoriteit van de Staat van bewaring niet vrij te overwegen of het bevel tot aanhouding op de juiste wijze is uitgevaardigd overeenkomstig [artikel 58, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=58&z=2024-06-13&g=2024-06-13).
+7. As an alternative to seeking a warrant of arrest, the Prosecutor may submit an application requesting that the Pre-Trial Chamber issue a summons for the person to appear. If the Pre-Trial Chamber is satisfied that there are reasonable grounds to believe that the person committed the crime alleged and that a summons is sufficient to ensure the person's appearance, it shall issue the summons, with or without conditions restricting liberty (other than detention) if provided for by national law, for the person to appear. The summons shall contain:
 
-5. De Kamer van vooronderzoek wordt in kennis gesteld van elk verzoek tot voorlopige invrijheidstelling en doet aanbevelingen aan de bevoegde autoriteit in de Staat van bewaring. De bevoegde autoriteit in de Staat van bewaring betrekt deze aanbevelingen volledig in haar overwegingen, met inbegrip van alle aanbevelingen met betrekking tot maatregelen ter voorkoming van ontvluchting van de persoon, alvorens haar beslissing te nemen.
+- a) The name of the person and any other relevant identifying information;
 
-6. Indien de persoon voorlopige invrijheidstelling wordt verleend, is de Kamer van vooronderzoek bevoegd te verzoeken dat regelmatig verslag wordt gedaan van de stand van zaken van de voorlopige invrijheidstelling.
+- b) The specified date on which the person is to appear;
 
-7. Op een bevel tot overdracht, uit te voeren door de Staat van bewaring, wordt de persoon zo spoedig mogelijk ter beschikking gesteld aan het Hof.
+- c) A specific reference to the crimes within the jurisdiction of the Court which the person is alleged to have committed; and
 
-##### Artikel 60. Inleidende procedure voor het Hof
+- d) A concise statement of the facts which are alleged to constitute the crime.
 
-1. Na overdracht van de persoon aan het Hof of na diens verschijning voor het Hof uit vrije wil of ingevolge een bevel overtuigt de Kamer van vooronderzoek zich ervan dat de persoon op de hoogte is gesteld van de misdrijven die hij beweerdelijk heeft begaan en van zijn rechten ingevolge dit Statuut, met inbegrip van het recht om een verzoek tot voorlopige invrijheidstelling in te dienen in afwachting van de terechtzitting.
+The summons shall be served on the person.
 
-2. Een persoon voor wie een bevel tot aanhouding geldt is bevoegd een verzoek in te dienen tot voorlopige invrijheidstelling in afwachting van de terechtzitting. Indien de Kamer van vooronderzoek ervan overtuigd is dat aan de voorwaarden vermeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=58&z=2024-06-13&g=2024-06-13), is voldaan, blijft de persoon in hechtenis. Indien de Kamer van vooronderzoek daar niet van overtuigd is, stelt de Kamer van vooronderzoek de persoon met of zonder voorwaarden in vrijheid.
+##### Article 59. Arrest proceedings in the custodial State
 
-3. De Kamer van vooronderzoek neemt regelmatig haar beslissing inzake de invrijheidstelling of hechtenis van de persoon in heroverweging en kan dit op elk tijdstip doen waarop de Aanklager of de persoon hierom verzoekt. Bij deze heroverweging is de Kamer bevoegd zijn beslissing met betrekking tot hechtenis, invrijheidstelling of voorwaarden van invrijheidstelling te wijzigen, indien hij ervan overtuigd is dat gewijzigde omstandigheden dit vereisen.
+1. A State Party which has received a request for provisional arrest or for arrest and surrender shall immediately take steps to arrest the person in question in accordance with its laws and the provisions of [Part 9](https://wetten.overheid.nl/BWBV0001489).
 
-4. De Kamer van vooronderzoek draagt er zorg voor dat een persoon niet in hechtenis wordt gehouden gedurende een onredelijk lange periode voorafgaand aan de terechtzitting als gevolg van ongerechtvaardigde vertraging door de Aanklager. Indien een dergelijke vertraging zich voordoet, overweegt het Hof de invrijheidstelling van de persoon met of zonder voorwaarden.
+2. A person arrested shall be brought promptly before the competent judicial authority in the custodial State which shall determine, in accordance with the law of that State, that:
 
-5. Indien vereist, is de Kamer van vooronderzoek bevoegd een bevel tot medebrenging uit te vaardigen ter verzekering van de aanwezigheid van een persoon die in vrijheid is gesteld.
+- a) The warrant applies to that person;
 
-##### Artikel 61. Bevestiging van de tenlastegelegde feiten voorafgaande aan de terechtzitting
+- b) The person has been arrested in accordance with the proper process; and
 
-1. Onverminderd het in het tweede lid bepaalde houdt de Kamer van vooronderzoek binnen redelijke tijd na de overdracht of de vrijwillige verschijning van de persoon voor het Hof een hoorzitting ter bevestiging van de tenlastegelegde feiten op grond waarvan de Aanklager voornemens is een terechtzitting te doen plaatsvinden. De hoorzitting wordt gehouden in aanwezigheid van de Aanklager en de in staat van beschuldiging gestelde persoon, alsmede zijn raadsman.
+- c) The person's rights have been respected.
 
-2. De Kamer van vooronderzoek is op verzoek van de Aanklager of ambtshalve bevoegd een hoorzitting te houden in afwezigheid van de in staat van beschuldiging gestelde persoon teneinde de tenlastegelegde feiten te bevestigen op grond waarvan de Aanklager voornemens is een terechtzitting te doen plaatsvinden, wanneer de persoon:
+3. The person arrested shall have the right to apply to the competent authority in the custodial State for interim release pending surrender.
 
-- a. afstand heeft gedaan van zijn recht om aanwezig te zijn; of
+4. In reaching a decision on any such application, the competent authority in the custodial State shall consider whether, given the gravity of the alleged crimes, there are urgent and exceptional circumstances to justify interim release and whether necessary safeguards exist to ensure that the custodial State can fulfil its duty to surrender the person to the Court. It shall not be open to the competent authority of the custodial State to consider whether the warrant of arrest was properly issued in accordance with [article 58, paragraph 1 a) and b)](https://wetten.overheid.nl/BWBV0001489).
 
-- b. gevlucht is of niet kan worden gevonden, terwijl alle redelijke stappen zijn ondernomen om zijn verschijning voor het Hof te verzekeren en de persoon op de hoogte te stellen van de tenlastegelegde feiten en van het feit dat een hoorzitting zal worden gehouden ter bevestiging van de tenlastegelegde feiten.
+5. The Pre-Trial Chamber shall be notified of any request for interim release and shall make recommendations to the competent authority in the custodial State. The competent authority in the custodial State shall give full consideration to such recommendations, including any recommendations on measures to prevent the escape of the person, before rendering its decision.
 
-In dat geval wordt de persoon vertegenwoordigd door een raadsman wanneer de Kamer van vooronderzoek vaststelt dat het in het belang van een goede rechtsbedeling is.
+6. If the person is granted interim release, the Pre-Trial Chamber may request periodic reports on the status of the interim release.
 
-3. Binnen redelijke tijd voor de hoorzitting:
+7. Once ordered to be surrendered by the custodial State, the person shall be delivered to the Court as soon as possible.
 
-- a. ontvangt de persoon een afschrift van het document waarin de tenlastegelegde feiten staan vermeld op grond waarvan de Aanklager voornemens is de persoon terecht te doen staan; en
+##### Article 60. Initial proceedings before the Court
 
-- b. wordt de persoon op de hoogte gesteld van de bewijsmiddelen waarop de Aanklager voornemens is zich op de hoorzitting te baseren.
+1. Upon the surrender of the person to the Court, or the person's appearance before the Court voluntarily or pursuant to a summons, the Pre-Trial Chamber shall satisfy itself that the person has been informed of the crimes which he or she is alleged to have committed, and of his or her rights under this Statute, including the right to apply for interim release pending trial.
 
-De Kamer van vooronderzoek is bevoegd bevelen uit te vaardigen met betrekking tot de openbaarmaking van informatie voor het doel van de hoorzitting.
+2. A person subject to a warrant of arrest may apply for interim release pending trial. If the Pre-Trial Chamber is satisfied that the conditions set forth in [article 58, paragraph 1](https://wetten.overheid.nl/BWBV0001489), are met, the person shall continue to be detained. If it is not so satisfied, the Pre-Trial Chamber shall release the person, with or without conditions.
 
-4. Voorafgaande aan de hoorzitting is de Aanklager bevoegd het onderzoek voort te zetten en de tenlastegelegde feiten te wijzigen of in te trekken. De persoon zal op redelijke termijn voor de hoorzitting in kennis worden gesteld van wijzigingen in of intrekking van de tenlastegelegde feiten. In het geval van intrekking van de tenlastegelegde feiten stelt de Aanklager de Kamer van vooronderzoek in kennis van de redenen voor de intrekking.
+3. The Pre-Trial Chamber shall periodically review its ruling on the release or detention of the person, and may do so at any time on the request of the Prosecutor or the person. Upon such review, it may modify its ruling as to detention, release or conditions of release, if it is satisfied that changed circumstances so require.
 
-5. Tijdens de hoorzitting onderbouwt de Aanklager elk tenlastegelegd feit met voldoende bewijs voor de vaststelling van substantiële gronden om aan te nemen dat de persoon het tenlastegelegde misdrijf heeft begaan. De Aanklager is bevoegd zich te baseren op documentair bewijs of op een samenvatting van de bewijsmiddelen en behoeft niet de getuigen op te roepen die geacht worden ter terechtzitting een verklaring af te leggen.
+4. The Pre-Trial Chamber shall ensure that a person is not detained for an unreasonable period prior to trial due to inexcusable delay by the Prosecutor. If such delay occurs, the Court shall consider releasing the person, with or without conditions.
 
-6. Op de hoorzitting is de persoon bevoegd:
+5. If necessary, the Pre-Trial Chamber may issue a warrant of arrest to secure the presence of a person who has been released.
 
-- a. bezwaar te maken tegen de tenlastegelegde feiten;
+##### Article 61. Confirmation of the charges before trial
 
-- b. het bewijs dat door de Aanklager is geleverd te betwisten; en
+1. Subject to the provisions of paragraph 2, within a reasonable time after the person's surrender or voluntary appearance before the Court, the Pre-Trial Chamber shall hold a hearing to confirm the charges on which the Prosecutor intends to seek trial. The hearing shall be held in the presence of the Prosecutor and the person charged, as well as his or her counsel.
 
-- c. bewijs te leveren.
+2. The Pre-Trial Chamber may, upon request of the Prosecutor or on its own motion, hold a hearing in the absence of the person charged to confirm the charges on which the Prosecutor intends to seek trial when the person has:
 
-7. De Kamer van vooronderzoek stelt op basis van de hoorzitting vast of voldoende bewijsmiddelen aanwezig zijn voor de vaststelling van substantiële gronden om aan te nemen dat de persoon alle tenlastegelegde misdrijven heeft begaan. Gebaseerd op zijn vaststelling besluit de Kamer van vooronderzoek tot:
+- a) Waived his or her right to be present; or
 
-- a. bevestiging van die tenlastegelegde feiten ten aanzien waarvan hij heeft vastgesteld dat voldoende bewijsmiddelen aanwezig zijn; en verwijzing van de persoon naar een Kamer van berechting om terecht te staan ter zake van de bevestigde tenlastegelegde feiten;
+- b) Fled or cannot be found and all reasonable steps have been taken to secure his or her appearance before the Court and to inform the person of the charges and that a hearing to confirm those charges will be held.
 
-- b. afwijzing van de bevestiging van die tenlastegelegde feiten ten aanzien waarvan hij heeft vastgesteld dat onvoldoende bewijs aanwezig is;
+In that case, the person shall be represented by counsel where the Pre-Trial Chamber determines that it is in the interests of justice.
 
-- c. verdaging van de hoorzitting en een verzoek aan de Aanklager om te overwegen:
+3. Within a reasonable time before the hearing, the person shall:
 
-  - i. nader bewijs te verstrekken of nader onderzoek uit te voeren met betrekking tot een bepaald tenlastegelegd feit; of
+- a) Be provided with a copy of the document containing the charges on which the Prosecutor intends to bring the person to trial; and
 
-  - ii. een tenlastegelegd feit te wijzigen omdat de overgelegde bewijsmiddelen een ander misdrijf blijken op te leveren waarover het Hof rechtsmacht bezit.
+- b) Be informed of the evidence on which the Prosecutor intends to rely at the hearing.
 
-8. Wanneer de Kamer van vooronderzoek weigert een tenlastegelegd feit te bevestigen, belet dit de Aanklager niet een nader verzoek om bevestiging te doen indien het verzoek wordt onderbouwd met aanvullende bewijsmiddelen.
+The Pre-Trial Chamber may issue orders regarding the disclosure of information for the purposes of the hearing.
 
-9. Nadat de tenlastegelegde feiten zijn bevestigd en voordat de terechtzitting is begonnen, is de Aanklager bevoegd met toestemming van de Kamer van vooronderzoek en na kennisgeving aan de beschuldigde, de tenlastegelegde feiten te wijzigen. Indien de Aanklager aanvullende punten aan de tenlastegelegde feiten wenst toe te voegen of ernstiger tenlastegelegde feiten daarvoor in de plaats te stellen, dient een hoorzitting te worden gehouden ingevolge dit artikel om die tenlastegelegde feiten te bevestigen. Na aanvang van de terechtzitting is de Aanklager bevoegd met toestemming van de Kamer van berechting de tenlastegelegde feiten in te trekken.
+4. Before the hearing, the Prosecutor may continue the investigation and may amend or withdraw any charges. The person shall be given reasonable notice before the hearing of any amendment to or withdrawal of charges. In case of a withdrawal of charges, the Prosecutor shall notify the Pre-Trial Chamber of the reasons for the withdrawal.
 
-10. Een bevel tot aanhouding dat voordien is uitgevaardigd, houdt op van kracht te zijn voorzover het tenlastegelegde feiten betreft die niet door de Kamer van vooronderzoek zijn bevestigd of die door de Aanklager zijn ingetrokken.
+5. At the hearing, the Prosecutor shall support each charge with sufficient evidence to establish substantial grounds to believe that the person committed the crime charged. The Prosecutor may rely on documentary or summary evidence and need not call the witnesses expected to testify at the trial.
 
-11. Wanneer de tenlastegelegde feiten eenmaal zijn bevestigd overeenkomstig dit artikel, stelt het Presidium een Kamer van berechting samen die ingevolge het achtste lid en [artikel 64, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=64&z=2024-06-13&g=2024-06-13), verantwoordelijk is voor de daaropvolgende procesvoering en die bevoegd is alle taken van de Kamer van vooronderzoek te vervullen voorzover die in die fase relevant en toepasselijk zijn.
+6. At the hearing, the person may:
 
-## DEEL 6. DE TERECHTZITTING
+- a) Object to the charges;
 
-##### Artikel 62. Plaats van terechtzitting
+- b) Challenge the evidence presented by the Prosecutor; and
 
-Tenzij anders wordt besloten vindt de terechtzitting plaats waar de zetel van het Hof is gevestigd.
+- c) Present evidence.
 
-##### Artikel 63. Terechtzitting in aanwezigheid van de beschuldigde
+7. The Pre-Trial Chamber shall, on the basis of the hearing, determine whether there is sufficient evidence to establish substantial grounds to believe that the person committed each of the crimes charged. Based on its determination, the Pre-Trial Chamber shall:
 
-1. De beschuldigde woont de terechtzitting bij.
+- a) Confirm those charges in relation to which it has determined that there is sufficient evidence, and commit the person to a Trial Chamber for trial on the charges as confirmed;
 
-2. Indien de beschuldigde, die voor het Hof aanwezig is, de terechtzitting blijft verstoren, is de Kamer van berechting bevoegd de beschuldigde te verwijderen en ervoor te zorgen dat hij als waarnemer de terechtzitting kan volgen en de raadsman van buiten de rechtszaal instructies kan geven, zonodig door middel van het gebruik van communicatietechnologie. Dergelijke maatregelen worden alleen in uitzonderlijke omstandigheden getroffen, nadat andere redelijke alternatieven ongeschikt zijn gebleken, en slechts voor zolang dit strikt noodzakelijk is.
+- b) Decline to confirm those charges in relation to which it has determined that there is insufficient evidence;
 
-##### Artikel 64. Taken en bevoegdheden van de Kamer van berechting
+- c) Adjourn the hearing and request the Prosecutor to consider:
 
-1. De in dit artikel vermelde taken en bevoegdheden van de Kamer van berechting worden uitgeoefend overeenkomstig dit Statuut en het Reglement van proces- en bewijsvoering.
+   - (i) Providing further evidence or conducting further investigation with respect to a particular charge; or
 
-2. De Kamer van berechting draagt er zorg voor dat een terechtzitting eerlijk en onverwijld verloopt en wordt geleid met volledige eerbiediging van de rechten van de beschuldigde en passende inachtneming van de bescherming van slachtoffers en getuigen.
+   - (ii) Amending a charge because the evidence submitted appears to establish a different crime within the jurisdiction of the Court.
 
-3. Bij aanwijzing van een zaak voor terechtzitting overeenkomstig dit Statuut dient de ter behandeling van de zaak aangewezen Kamer van berechting:
+8. Where the Pre-Trial Chamber declines to confirm a charge, the Prosecutor shall not be precluded from subsequently requesting its confirmation if the request is supported by additional evidence.
 
-- a. overleg te plegen met de partijen en de procedures te bepalen voor een eerlijk en onverwijld verloop van de procedure;
+9. After the charges are confirmed and before the trial has begun, the Prosecutor may, with the permission of the Pre-Trial Chamber and after notice to the accused, amend the charges. If the Prosecutor seeks to add additional charges or to substitute more serious charges, a hearing under this article to confirm those charges must be held. After commencement of the trial, the Prosecutor may, with the permission of the Trial Chamber, withdraw the charges.
 
-- b. de op de terechtzitting te gebruiken taal of talen vast te stellen;
+10. Any warrant previously issued shall cease to have effect with respect to any charges which have not been confirmed by the Pre-Trial Chamber or which have been withdrawn by the Prosecutor.
 
-- c. onverminderd de overige relevante bepalingen van dit Statuut, zorg te dragen voor openbaarmaking van nog niet eerder openbaar gemaakte documenten of informatie, zodanig ruim voor de aanvang van de terechtzitting dat een passende voorbereiding voor de terechtzitting mogelijk is.
+11. Once the charges have been confirmed in accordance with this article, the Presidency shall constitute a Trial Chamber which, subject to paragraph 9 and to [article 64, paragraph 4](https://wetten.overheid.nl/BWBV0001489), shall be responsible for the conduct of subsequent proceedings and may exercise any function of the Pre-Trial Chamber that is relevant and capable of application in those proceedings.
 
-4. De Kamer van berechting is bevoegd, indien vereist voor zijn doeltreffend en eerlijk functioneren, voorafgaande vragen naar de Kamer van vooronderzoek te verwijzen of, indien vereist, naar een andere beschikbare rechter van de Afdeling Vooronderzoek.
+## PART 6. THE TRIAL
 
-5. Na kennisgeving aan partijen is de Kamer van berechting, zonodig bevoegd te bepalen dat feiten die aan verschillende beschuldigden ten laste gelegd zijn, zullen worden gevoegd of gesplitst.
+##### Article 62. Place of trial
 
-6. Bij de uitoefening van zijn taken voorafgaand aan of in de loop van een terechtzitting is de Kamer van berechting bevoegd, zonodig:
+Unless otherwise decided, the place of the trial shall be the seat of the Court.
 
-- a. alle in [artikel 61, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=61&z=2024-06-13&g=2024-06-13), vermelde taken van de Kamer van vooronderzoek uit te oefenen;
+##### Article 63. Trial in the presence of the accused
 
-- b. de aanwezigheid van getuigen alsook hun verklaringen te verlangen evenals de productie van documenten en ander bewijs door zonodig de bijstand in te roepen van Staten zoals voorzien in dit Statuut;
+1. The accused shall be present during the trial.
 
-- c. zorg te dragen voor de bescherming van vertrouwelijke informatie;
+2. If the accused, being present before the Court, continues to disrupt the trial, the Trial Chamber may remove the accused and shall make provision for him or her to observe the trial and instruct counsel from outside the courtroom, through the use of communications technology, if required. Such measures shall be taken only in exceptional circumstances after other reasonable alternatives have proved inadequate, and only for such duration as is strictly required.
 
-- d. de productie te gelasten van bewijsmiddelen in aanvulling op het bewijs dat reeds voor de terechtzitting is vergaard of tijdens de terechtzitting door partijen naar voren is gebracht;
+##### Article 64. Functions and powers of the Trial Chamber
 
-- e. zorg te dragen voor de bescherming van de beschuldigde, getuigen en slachtoffers; en
+1. The functions and powers of the Trial Chamber set out in this article shall be exercised in accordance with this Statute and the Rules of Procedure and Evidence.
 
-- f. te beslissen over alle overige relevante zaken.
+2. The Trial Chamber shall ensure that a trial is fair and expeditious and is conducted with full respect for the rights of the accused and due regard for the protection of victims and witnesses.
 
-7. De terechtzitting is openbaar. De Kamer van berechting is echter bevoegd te bepalen dat bijzondere omstandigheden vereisen dat bepaalde onderdelen van de procedure achter gesloten deuren moeten plaatsvinden vanwege het in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=68&z=2024-06-13&g=2024-06-13) bepaalde of ter bescherming van vertrouwelijke of gevoelige informatie die als bewijsmiddel zal dienen.
+3. Upon assignment of a case for trial in accordance with this Statute, the Trial Chamber assigned to deal with the case shall:
 
-- a. Bij de aanvang van de terechtzitting laat de Kamer van berechting aan de beschuldigde de tenlastegelegde feiten voorlezen, die voordien door de Kamer van vooronderzoek zijn bevestigd. De Kamer van berechting overtuigt zich ervan dat de beschuldigde de aard van de tenlastegelegde feiten begrijpt. Hij geeft hem de gelegenheid om schuld te bekennen overeenkomstig [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=65&z=2024-06-13&g=2024-06-13) of zich onschuldig te verklaren.
+- a) Confer with the parties and adopt such procedures as are necessary to facilitate the fair and expeditious conduct of the proceedings;
 
-- b. Ter terechtzitting is de rechter die als voorzitter optreedt bevoegd aanwijzingen te geven ten aanzien van de procedure, mede ter verzekering dat deze op eerlijke en onpartijdige wijze verloopt. Onverminderd aanwijzingen van de rechter die als voorzitter optreedt, kunnen de partijen bewijs overleggen overeenkomstig het in dit Statuut bepaalde.
+- b) Determine the language or languages to be used at trial; and
 
-9. De Kamer van berechting heeft onder meer de bevoegdheid op verzoek van een partij of ambtshalve:
+- c) Subject to any other relevant provisions of this Statute, provide for disclosure of documents or information not previously disclosed, sufficiently in advance of the commencement of the trial to enable adequate preparation for trial.
 
-- a. te beslissen of bewijs toelaatbaar of relevant is; en
+4. The Trial Chamber may, if necessary for its effective and fair functioning, refer preliminary issues to the Pre-Trial Chamber or, if necessary, to another available judge of the Pre-Trial Division.
 
-- b. alle vereiste maatregelen te treffen teneinde een hoorzitting ordelijk te doen verlopen.
+5. Upon notice to the parties, the Trial Chamber may, as appropriate, direct that there be joinder or severance in respect of charges against more than one accused.
 
-10. De Kamer van berechting zorgt ervoor dat een volledig proces-verbaal van de terechtzitting wordt gemaakt, dat het verloop van de handelingen ter terechtzitting nauwkeurig weergeeft en wordt gehouden en bewaard door de Griffier.
+6. In performing its functions prior to trial or during the course of a trial, the Trial Chamber may, as necessary:
 
-##### Artikel 65. Procedure in geval van bekentenis
+- a) Exercise any functions of the Pre-Trial Chamber referred to in [article 61, paragraph 11](https://wetten.overheid.nl/BWBV0001489);
 
-1. Wanneer de beschuldigde schuld bekent overeenkomstig [artikel 64, achtste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=64&z=2024-06-13&g=2024-06-13), beslist de Kamer van berechting of:
+- b) Require the attendance and testimony of witnesses and production of documents and other evidence by obtaining, if necessary, the assistance of States as provided in this Statute;
 
-- a. de beschuldigde de aard en de gevolgen van zijn bekentenis begrijpt;
+- c) Provide for the protection of confidential information;
 
-- b. de bekentenis door de beschuldigde vrijwillig is gedaan na voldoende overleg met de raadsman voor de verdediging; en
+- d) Order the production of evidence in addition to that already collected prior to the trial or presented during the trial by the parties;
 
-- c. de bekentenis wordt ondersteund door de feiten in de zaak, zoals deze blijken uit:
+- e) Provide for the protection of the accused, witnesses and victims; and
 
-  - i. de tenlastegelegde feiten die door de Aanklager naar voren zijn gebracht en door de beschuldigde bekend;
+- f) Rule on any other relevant matters.
 
-  - ii. materiaal dat door de Aanklager is overgelegd ter aanvulling op de tenlastegelegde feiten, dat door de beschuldigde is aanvaard; en
+7. The trial shall be held in public. The Trial Chamber may, however, determine that special circumstances require that certain proceedings be in closed session for the purposes set forth in [article 68](https://wetten.overheid.nl/BWBV0001489), or to protect confidential or sensitive information to be given in evidence.
 
-  - iii. elk overig bewijs, zoals de verklaringen van getuigen, dat door de Aanklager of de beschuldigde naar voren is gebracht.
+8. - a) At the commencement of the trial, the Trial Chamber shall have read to the accused the charges previously confirmed by the Pre-Trial Chamber. The Trial Chamber shall satisfy itself that the accused understands the nature of the charges. It shall afford him or her the opportunity to make an admission of guilt in accordance with [article 65](https://wetten.overheid.nl/BWBV0001489) or to plead not guilty.
 
-2. Wanneer de Kamer van berechting ervan overtuigd is dat het in het eerste lid bedoelde is vastgesteld, beschouwt de Kamer van berechting de bekentenis in samenhang met het overige aanvullende bewijs als voldoende grond voor alle wezenlijke feiten die vereist zijn als bewijs voor het misdrijf waarop de bekentenis betrekking heeft, en kan hij de beschuldigde voor dat misdrijf veroordelen.
+- b) At the trial, the presiding judge may give directions for the conduct of proceedings, including to ensure that they are conducted in a fair and impartial manner. Subject to any directions of the presiding judge, the parties may submit evidence in accordance with the provisions of this Statute.
 
-3. Wanneer de Kamer van berechting er niet van overtuigd is dat voldoende grond bestaat voor alle in het eerste lid bedoelde feiten, beschouwt hij de bekentenis als niet gedaan, in welk geval hij gelast de terechtzitting voort te zetten volgens de in dit Statuut bepaalde normale procedures voor terechtzitting en naar een andere Kamer van berechting kan verwijzen.
+9. The Trial Chamber shall have, *inter alia*, the power on application of a party or on its own motion to:
 
-4. Wanneer de Kamer van berechting van oordeel is dat aanvulling van de feiten in de zaak noodzakelijk is in het belang van de rechtspleging, in het bijzonder in het belang van de slachtoffers, is de Kamer van berechting bevoegd:
+- a) Rule on the admissibility or relevance of evidence; and
 
-- a. de Aanklager te verzoeken om aanvullende bewijsmiddelen te overleggen, met inbegrip van getuigenverklaringen; of
+- b) Take all necessary steps to maintain order in the course of a hearing.
 
-- b. te gelasten dat de terechtzitting volgens de in dit Statuut bepaalde normale procedures voor terechtzitting wordt voortgezet, in welk geval de Kamer van berechting de bekentenis als niet gedaan beschouwt en hij de zaak kan verwijzen naar een andere Kamer van berechting.
+10. The Trial Chamber shall ensure that a complete record of the trial, which accurately reflects the proceedings, is made and that it is maintained and preserved by the Registrar.
 
-5. Mondeling overleg tussen de Aanklager en de verdediging over een wijziging in de tenlastegelegde feiten, de bekentenis of de op te leggen straf voor het Hof is niet bindend.
+##### Article 65. Proceedings on an admission of guilt
 
-##### Artikel 66. Vermoeden van onschuld
+1. Where the accused makes an admission of guilt pursuant to [article 64, paragraph 8 a)](https://wetten.overheid.nl/BWBV0001489), the Trial Chamber shall determine whether:
 
-1. Een ieder wordt verondersteld onschuldig te zijn totdat zijn schuld voor het Hof is bewezen overeenkomstig het toepasselijke recht.
+- a) The accused understands the nature and consequences of the admission of guilt;
 
-2. De plicht de schuld van de beschuldigde te bewijzen rust op de Aanklager.
+- b) The admission is voluntarily made by the accused after sufficient consultation with defence counsel; and
 
-3. Teneinde de beschuldigde te veroordelen, dient het Hof buiten iedere redelijke twijfel overtuigd te zijn van de schuld van de beschuldigde.
+- c) The admission of guilt is supported by the facts of the case that are contained in:
 
-##### Artikel 67. Rechten van de beschuldigde
+   - (i) The charges brought by the Prosecutor and admitted by the accused;
 
-1. Bij de vaststelling van een tenlastegelegd feit heeft de beschuldigde recht op een openbare zitting met inachtneming van het in dit Statuut bepaalde, die op eerlijke en onpartijdige wijze wordt gehouden, en op de volgende minimumwaarborgen, op basis gelijke voet met de Aanklager:
+   - (ii) Any materials presented by the Prosecutor which supplement the charges and which the accused accepts; and
 
-- a. onverwijld en in detail op de hoogte te worden gesteld van de aard, de reden en de inhoud van het hem tenlastegelegde, in een taal die hij volledig begrijpt en spreekt;
+   - (iii) Any other evidence, such as the testimony of witnesses, presented by the Prosecutor or the accused.
 
-- b. te beschikken over voldoende tijd en faciliteiten voor de voorbereiding van de verdediging en vrijelijke en vertrouwelijke communicatie met de raadsman van zijn keuze;
+2. Where the Trial Chamber is satisfied that the matters referred to in paragraph 1 are established, it shall consider the admission of guilt, together with any additional evidence presented, as establishing all the essential facts that are required to prove the crime to which the admission of guilt relates, and may convict the accused of that crime.
 
-- c. terecht te staan zonder buitensporige vertraging;
+3. Where the Trial Chamber is not satisfied that the matters referred to in paragraph 1 are established, it shall consider the admission of guilt as not having been made, in which case it shall order that the trial be continued under the ordinary trial procedures provided by this Statute and may remit the case to another Trial Chamber.
 
-- d. onverminderd het bepaalde in [artikel 63, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=63&z=2024-06-13&g=2024-06-13), aanwezig te zijn ter terechtzitting, verweer te voeren in persoon of door middel van door hem gekozen rechtsbijstand, op de hoogte te worden gesteld van dit recht wanneer hij geen rechtsbijstand heeft en rechtsbijstand toegewezen te krijgen door het Hof in alle gevallen waarin het belang van de rechtspleging dit vereist, en zonder betaling indien de beschuldigde niet over voldoende middelen beschikt;
+4. Where the Trial Chamber is of the opinion that a more complete presentation of the facts of the case is required in the interests of justice, in particular the interests of the victims, the Trial Chamber may:
 
-- e. getuigen à charge te ondervragen of te doen ondervragen en de verschijning en ondervraging te bewerkstelligen van getuigen à decharge op dezelfde voorwaarden als gelden voor getuigen à charge; de beschuldigde is tevens gerechtigd verweermiddelen aan te voeren en ander krachtens dit Statuut toelaatbaar bewijs naar voren te brengen;
+- a) Request the Prosecutor to present additional evidence, including the testimony of witnesses; or
 
-- f. kosteloos bijstand te krijgen van een bevoegde tolk en de vertalingen die noodzakelijk zijn om te voldoen aan de vereisten van eerlijkheid, indien een onderdeel van de procedure of een document dat aan het Hof wordt overgelegd niet is gesteld in een taal die de beschuldigde volledig begrijpt en spreekt;
+- b) Order that the trial be continued under the ordinary trial procedures provided by this Statute, in which case it shall consider the admission of guilt as not having been made and may remit the case to another Trial Chamber.
 
-- g. niet te worden gedwongen te getuigen of schuld te bekennen en te kunnen blijven zwijgen zonder dat dit meeweegt bij het vaststellen van schuld of onschuld;
+5. Any discussions between the Prosecutor and the defence regarding modification of the charges, the admission of guilt or the penalty to be imposed shall not be binding on the Court.
 
-- h. buiten eedsverband een mondelinge of schriftelijke verklaring ten behoeve van zijn verdediging af te leggen; en
+##### Article 66. Presumption of innocence
 
-- i. niet te worden onderworpen aan een omkering van de bewijslast of aan enige plicht tot tegenbewijs.
+1. Everyone shall be presumed innocent until proved guilty before the Court in accordance with the applicable law.
 
-2. Naast enige andere ingevolge dit Statuut bepaalde openbaarmaking, stelt de Aanklager de verdediging in een zo vroeg mogelijk stadium in kennis van bewijsmiddelen die zich in het bezit of in de macht van de Aanklager bevinden en waarvan hij meent dat deze de onschuld van de beschuldigde aantonen of daartoe bijdragen of dat deze de schuld van de beschuldigde verlichten, of die de geloofwaardigheid kunnen aantasten van bewijs waarop de vervolging steunt. Het Hof beslist in gevallen waarin twijfel bestaat over de toepassing van dit lid.
+2. The onus is on the Prosecutor to prove the guilt of the accused.
 
-##### Artikel 68. Bescherming van slachtoffers en getuigen en hun deelname aan de procedure
+3. In order to convict the accused, the Court must be convinced of the guilt of the accused beyond reasonable doubt.
 
-1. Het Hof treft passende maatregelen ter bescherming van de veiligheid, het lichamelijk en geestelijk welzijn, de waardigheid en de persoonlijke levenssfeer van slachtoffers en getuigen. Daarbij neemt het Hof alle relevante factoren in aanmerking, met inbegrip van leeftijd, geslacht zoals gedefinieerd in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=7&z=2024-06-13&g=2024-06-13), en gezondheid, en de aard van het misdrijf, in het bijzonder doch daartoe niet beperkt, wanneer het misdrijf seksueel geweld of seksistisch geweld of geweld tegen kinderen betreft. De Aanklager treft dergelijke maatregelen in het bijzonder tijdens het onderzoek en de vervolging van dergelijke misdrijven. De maatregelen mogen geen afbreuk doen aan of in strijd zijn met de rechten van de beschuldigde en een eerlijke en onpartijdige terechtzitting.
+##### Article 67. Rights of the accused
 
-2. Als uitzondering op het in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=67&z=2024-06-13&g=2024-06-13) vastgelegde beginsel dat hoorzittingen openbaar zijn, kunnen de Kamers van het Hof, ter bescherming van slachtoffers en getuigen of een beschuldigde, een deel van het proces in een besloten zitting doen plaatsvinden of toestaan dat bewijs wordt geleverd met behulp van elektronische of andere bijzondere middelen. In het bijzonder wordt dit soort maatregelen getroffen in geval van slachtoffers van seksueel geweld of een kind dat slachtoffer of getuige is, tenzij het Hof, alle omstandigheden in aanmerking genomen, in het bijzonder de zienswijze van het slachtoffer of de getuige, anders heeft bepaald.
+1. In the determination of any charge, the accused shall be entitled to a public hearing, having regard to the provisions of this Statute, to a fair hearing conducted impartially, and to the following minimum guarantees, in full equality:
 
-3. Waar de persoonlijke belangen van de slachtoffers in het geding zijn, staat het Hof toe dat hun zienswijze en belangen naar voren worden gebracht en in overweging worden genomen in daartoe door het Hof als passend bepaalde stadia van het proces en op een wijze die geen afbreuk doet aan of onverenigbaar is met de rechten van de beschuldigde en een eerlijk en onpartijdig proces. Dergelijke zienswijze en belangen kunnen naar voren worden gebracht door de wettelijke vertegenwoordigers van de slachtoffers indien het Hof dit passend acht, overeenkomstig het Reglement van proces- en bewijsvoering.
+- a) To be informed promptly and in detail of the nature, cause and content of the charge, in a language which the accused fully understands and speaks;
 
-4. De Afdeling voor Slachtoffers en Getuigen is bevoegd advies uit te brengen aan de Aanklager en aan het Hof ten aanzien van passende beschermende maatregelen, beveiligingsregelingen, advies en bijstand als bedoeld in [artikel 43, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=43&z=2024-06-13&g=2024-06-13).
+- b) To have adequate time and facilities for the preparation of the defence and to communicate freely with counsel of the accused's choosing in confidence;
 
-5. Wanneer openbaarmaking van bewijs of informatie krachtens dit Statuut de veiligheid van een getuige of van zijn gezins- en familieleden ernstig in gevaar kan brengen, is de Aanklager bevoegd ten behoeve van de onderdelen van het proces die voor de aanvang van de terechtzitting plaatsvinden, na te laten dat bewijs of die informatie te geven en in plaats daarvan een samenvatting te verstrekken. Dit soort maatregelen wordt getroffen op een wijze die geen afbreuk doet aan of onverenigbaar is met de rechten van de beschuldigde en een eerlijk en onpartijdig proces.
+- c) To be tried without undue delay;
 
-6. Een Staat is bevoegd een verzoek in te dienen tot het treffen van maatregelen die noodzakelijk zijn ter bescherming van zijn beambten of agenten en ter bescherming van vertrouwelijke of gevoelige informatie.
+- d) Subject to [article 63, paragraph 2](https://wetten.overheid.nl/BWBV0001489), to be present at the trial, to conduct the defence in person or through legal assistance of the accused's choosing, to be informed, if the accused does not have legal assistance, of this right and to have legal assistance assigned by the Court in any case where the interests of justice so require, and without payment if the accused lacks sufficient means to pay for it;
 
-##### Artikel 69. Bewijs
+- e) To examine, or have examined, the witnesses against him or her and to obtain the attendance and examination of witnesses on his or her behalf under the same conditions as witnesses against him or her. The accused shall also be entitled to raise defences and to present other evidence admissible under this Statute;
 
-1. Alvorens een getuigenverklaring af te leggen, dient elke getuige overeenkomstig het Reglement van proces- en bewijsvoering een gelofte af te leggen ten aanzien van de waarheidsgetrouwheid van het door hem te leveren bewijs.
+- f) To have, free of any cost, the assistance of a competent interpreter and such translations as are necessary to meet the requirements of fairness, if any of the proceedings of or documents presented to the Court are not in a language which the accused fully understands and speaks;
 
-2. De getuigenverklaring wordt ter terechtzitting in persoon afgelegd behoudens voorzover de in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=68&z=2024-06-13&g=2024-06-13) of in het Reglement van proces- en bewijsvoering vermelde maatregelen zijn getroffen. Het Hof is ook bevoegd toe te staan dat een getuige een verklaring aflegt door middel van het direct gesproken woord of een bandopname, door gebruikmaking van video- of audiotechnologie, alsmede door de overlegging van documenten of schriftelijke transcripties overeenkomstig dit Statuut en het Reglement van proces- en bewijsvoering. Deze maatregelen mogen geen afbreuk doen aan of in strijd zijn met de rechten van de beschuldigde.
+- g) Not to be compelled to testify or to confess guilt and to remain silent, without such silence being a consideration in the determination of guilt or innocence;
 
-3. De partijen kunnen overeenkomstig [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=64&z=2024-06-13&g=2024-06-13) bewijsmiddelen overleggen die voor de zaak relevant zijn. Ten behoeve van de waarheidsvinding is het Hof bevoegd overlegging te verzoeken van ieder bewijsmiddel.
+- h) To make an unsworn oral or written statement in his or her defence; and
 
-4. Het Hof is bevoegd te beslissen of een bewijsmiddel relevant of toelaatbaar is, waarbij het onder meer in aanmerking neemt de bewijskracht van het bewijsmiddel en de afbreuk die dit bewijsmiddel kan doen aan een eerlijk proces of een eerlijke beoordeling van de getuigenverklaring, overeenkomstig het Reglement van proces- en bewijsvoering.
+- i) Not to have imposed on him or her any reversal of the burden of proof or any onus of rebuttal.
 
-5. Het Hof dient bijzondere rechten op vertrouwelijkheid te eerbiedigen en in acht te nemen als voorzien in het Reglement van proces- en bewijsvoering.
+2. In addition to any other disclosure provided for in this Statute, the Prosecutor shall, as soon as practicable, disclose to the defence evidence in the Prosecutor's possession or control which he or she believes shows or tends to show the innocence of the accused, or to mitigate the guilt of the accused, or which may affect the credibility of prosecution evidence. In case of doubt as to the application of this paragraph, the Court shall decide.
 
-6. Feiten van algemene bekendheid behoeven geen bewijs en behoren van rechtswege tot de kennisneming van het Hof.
+##### Article 68. Protection of the victims and witnesses and their participation in the proceedings
 
-7. Bewijs verkregen door schending van dit Statuut of internationaal erkende mensenrechten is ontoelaatbaar, indien:
+1. The Court shall take appropriate measures to protect the safety, physical and psychological well-being, dignity and privacy of victims and witnesses. In so doing, the Court shall have regard to all relevant factors, including age, gender as defined in [article 7, paragraph 3](https://wetten.overheid.nl/BWBV0001489), and health, and the nature of the crime, in particular, but not limited to, where the crime involves sexual or gender violence or violence against children. The Prosecutor shall take such measures particularly during the investigation and prosecution of such crimes. These measures shall not be prejudicial to or inconsistent with the rights of the accused and a fair and impartial trial.
 
-- a. de schending ernstige twijfel doet rijzen ten aanzien van de betrouwbaarheid van het bewijsmiddel; of
+2. As an exception to the principle of public hearings provided for in [article 67](https://wetten.overheid.nl/BWBV0001489), the Chambers of the Court may, to protect victims and witnesses or an accused, conduct any part of the proceedings *in camera* or allow the presentation of evidence by electronic or other special means. In particular, such measures shall be implemented in the case of a victim of sexual violence or a child who is a victim or a witness, unless otherwise ordered by the Court, having regard to all the circumstances, particularly the views of the victim or witness.
 
-- b. de toelating van het bewijsmiddel in strijd zou zijn met de integriteit van de procedure en deze ernstig zou schaden.
+3. Where the personal interests of the victims are affected, the Court shall permit their views and concerns to be presented and considered at stages of the proceedings determined to be appropriate by the Court and in a manner which is not prejudicial to or inconsistent with the rights of the accused and a fair and impartial trial. Such views and concerns may be presented by the legal representatives of the victims where the Court considers it appropriate, in accordance with the Rules of Procedure and Evidence.
 
-8. Wanneer het Hof beslist over relevantie of de toelaatbaarheid van bewijsmiddel dat door een Staat is vergaard, doet het Hof geen uitspraak over de toepassing van het nationale recht van die Staat.
+4. The Victims and Witnesses Unit may advise the Prosecutor and the Court on appropriate protective measures, security arrangements, counselling and assistance as referred to in [article 43, paragraph 6](https://wetten.overheid.nl/BWBV0001489).
 
-##### Artikel 70. Misdrijven gericht tegen de rechtspleging
+5. Where the disclosure of evidence or information pursuant to this Statute may lead to the grave endangerment of the security of a witness or his or her family, the Prosecutor may, for the purposes of any proceedings conducted prior to the commencement of the trial, withhold such evidence or information and instead submit a summary thereof. Such measures shall be exercised in a manner which is not prejudicial to or inconsistent with the rights of the accused and a fair and impartial trial.
 
-1. Het Hof heeft rechtsmacht ter zake van de volgende misdrijven tegen de rechtspleging van het Hof wanneer deze opzettelijk worden begaan:
+6. A State may make an application for necessary measures to be taken in respect of the protection of its servants or agents and the protection of confidential or sensitive information.
 
-- a. het afleggen van een valse getuigenverklaring wanneer ingevolge [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=69&z=2024-06-13&g=2024-06-13), de verplichting bestaat de waarheid te spreken;
+##### Article 69. Evidence
 
-- b. het leveren van bewijs waarvan de partij weet dat het vals of vervalst is;
+1. Before testifying, each witness shall, in accordance with the Rules of Procedure and Evidence, give an undertaking as to the truthfulness of the evidence to be given by that witness.
 
-- c. het door middel van omkoping beïnvloeden van een getuige, het belemmeren van de verschijning van een getuige of van het vrijelijk afleggen van een getuigenverklaring, het wraak nemen op een getuige wegens het afleggen van een verklaring of het beschadigen, vernietigen, onbruikbaar maken of wegmaken van enige bewijsmiddel dan wel het vervalsen daarvan of het belemmeren van de vrijelijke bewijsgaring;
+2. The testimony of a witness at trial shall be given in person, except to the extent provided by the measures set forth in [article 68](https://wetten.overheid.nl/BWBV0001489) or in the Rules of Procedure and Evidence. The Court may also permit the giving of *viva voce* (oral) or recorded testimony of a witness by means of video or audio technology, as well as the introduction of documents or written transcripts, subject to this Statute and in accordance with the Rules of Procedure and Evidence. These measures shall not be prejudicial to or inconsistent with the rights of the accused.
 
-- d. het hinderen, intimideren of door middel van omkoping beïnvloeden van een beambte van het Hof teneinde deze te dwingen of over te halen zijn bediening niet of onjuist te vervullen;
+3. The parties may submit evidence relevant to the case, in accordance with [article 64](https://wetten.overheid.nl/BWBV0001489). The Court shall have the authority to request the submission of all evidence that it considers necessary for the determination of the truth.
 
-- e. het wraak nemen op een beambte van het Hof wegens de taken die door deze of een andere beambte zijn vervuld;
+4. The Court may rule on the relevance or admissibility of any evidence, taking into account, *inter alia*, the probative value of the evidence and any prejudice that such evidence may cause to a fair trial or to a fair evaluation of the testimony of a witness, in accordance with the Rules of Procedure and Evidence.
 
-- f. het als beambte van het Hof in samenhang met zijn bediening vragen om steekpenningen of het aannemen daarvan.
+5. The Court shall respect and observe privileges on confidentiality as provided for in the Rules of Procedure and Evidence.
 
-2. Het Hof oefent rechtsmacht uit over misdrijven ingevolge dit artikel overeenkomstig de in het Reglement van proces- en bewijsvoering bepaalde beginselen en procedure. De voorwaarden voor verlening van internationale rechtshulp aan het Hof met betrekking tot de procedures ingevolge dit artikel worden bepaald door de nationale wetgeving van de Staat waaraan een verzoek wordt gericht.
+6. The Court shall not require proof of facts of common knowledge but may take judicial notice of them.
 
-3. Bij veroordeling is het Hof bevoegd een gevangenisstraf op te leggen van ten hoogste vijf jaar of een boete overeenkomstig het Reglement van proces- en bewijsvoering, of beide.
+7. Evidence obtained by means of a violation of this Statute or internationally recognized human rights shall not be admissible if:
 
-- a. Elke Staat die Partij is breidt de werking van zijn strafrecht, waarbij misdrijven tegen de integriteit van zijn eigen opsporing en rechtspleging strafbaar worden gesteld, uit tot misdrijven tegen de rechtspleging als bedoeld in dit artikel, die begaan zijn op zijn grondgebied of door een van zijn onderdanen;
+- a) The violation casts substantial doubt on the reliability of the evidence; or
 
-- b. Op verzoek van het Hof, legt een Staat die Partij is de zaak ter vervolging voor aan zijn bevoegde autoriteiten wanneer hij dit passend vindt.
+- b) The admission of the evidence would be antithetical to and would seriously damage the integrity of the proceedings.
 
-##### Artikel 71. Sancties op wangedrag ten overstaan van het Hof
+8. When deciding on the relevance or admissibility of evidence collected by a State, the Court shall not rule on the application of the State's national law.
 
-1. Het Hof is bevoegd aan personen die voor het Hof verschijnen en zich misdragen, bijvoorbeeld door verstoring van de procesvoering of moedwillige weigering de aanwijzingen van het Hof op te volgen, bij wijze van sanctie een administratieve maatregel anders dan vrijheidsbeneming op te leggen, zoals tijdelijke of blijvende verwijdering uit de rechtszaal, een boete of een andere, in het Reglement van proces- en bewijsvoering voorziene, vergelijkbare maatregel.
+##### Article 70. Offences against the administration of justice
 
-2. De procedures die gelden voor het opleggen van de in het eerste lid bedoelde maatregelen worden bepaald bij het Reglement van proces- en bewijsvoering.
+1. The Court shall have jurisdiction over the following offences against its administration of justice when committed intentionally:
 
-##### Artikel 72. Bescherming van informatie met betrekking tot de nationale veiligheid
+- a) Giving false testimony when under an obligation pursuant to [article 69, paragraph 1](https://wetten.overheid.nl/BWBV0001489), to tell the truth;
 
-1. Dit artikel geldt voor elk geval waarin de openbaarmaking van de informatie of documenten van een Staat, naar de mening van die Staat zijn nationale veiligheidsbelangen zou schaden. Deze gevallen omvatten mede die zaken die vallen binnen de reikwijdte van [artikel 56, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=56&z=2024-06-13&g=2024-06-13), [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=61&z=2024-06-13&g=2024-06-13), [artikel 64, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=64&z=2024-06-13&g=2024-06-13), [artikel 67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=67&z=2024-06-13&g=2024-06-13), [artikel 68, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=68&z=2024-06-13&g=2024-06-13), [artikel 87, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=87&z=2024-06-13&g=2024-06-13) en [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2024-06-13&g=2024-06-13), alsmede gevallen die zich voordoen in enig ander stadium van de procedure wanneer een dergelijke openbaarmaking aan de orde kan zijn.
+- b) Presenting evidence that the party knows is false or forged;
 
-2. Dit artikel geldt tevens wanneer een persoon aan wie is verzocht informatie of bewijs te verschaffen heeft geweigerd dit te doen of de zaak naar de Staat heeft verwezen op grond van het feit dat openbaarmaking de nationale veiligheidsbelangen van een Staat zou schaden en de betrokken Staat bevestigt dat openbaarmaking zijn nationale veiligheidsbelangen zou schaden.
+- c) Corruptly influencing a witness, obstructing or interfering with the attendance or testimony of a witness, retaliating against a witness for giving testimony or destroying, tampering with or interfering with the collection of evidence;
 
-3. Niets in dit artikel doet afbreuk aan de vereisten van vertrouwelijkheid ingevolge [artikel 54, derde lid, onder e en f](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=54&z=2024-06-13&g=2024-06-13), of aan de toepassing van [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=73&z=2024-06-13&g=2024-06-13).
+- d) Impeding, intimidating or corruptly influencing an official of the Court for the purpose of forcing or persuading the official not to perform, or to perform improperly, his or her duties;
 
-4. Indien een Staat ter kennis komt dat informatie of documenten van de Staat in enig stadium van de procedure waarschijnlijk of zeker worden openbaargemaakt en hij is van oordeel dat openbaarmaking zijn nationale veiligheidsbelangen zou schaden, heeft die Staat het recht tussenbeide te komen teneinde overeenkomstig dit artikel een oplossing voor het geschilpunt te verkrijgen.
+- e) Retaliating against an official of the Court on account of duties performed by that or another official;
 
-5. Indien, naar het oordeel van een Staat, openbaarmaking van informatie zijn nationale veiligheidsbelangen zou schaden, onderneemt deze Staat alle redelijke stappen om, in samenwerking met de Aanklager, de verdediging of de Kamer van vooronderzoek respectievelijk de Kamer van berechting naar gelang het geval, te trachten tot schikking van de zaak te komen. Dergelijke stappen kunnen mede omvatten:
+- f) Soliciting or accepting a bribe as an official of the Court in connection with his or her official duties.
 
-- a. wijziging of verduidelijking van het verzoek;
+2. The principles and procedures governing the Court's exercise of jurisdiction over offences under this article shall be those provided for in the Rules of Procedure and Evidence. The conditions for providing international cooperation to the Court with respect to its proceedings under this article shall be governed by the domestic laws of the requested State.
 
-- b. een beslissing van het Hof over de relevantie van de informatie of het bewijsmiddel waarom is verzocht, of een beslissing over de vraag of het bewijsmiddel, hoewel relevant, zou kunnen worden verkregen of is verkregen van een andere bron dan de aangezochte Staat;
+3. In the event of conviction, the Court may impose a term of imprisonment not exceeding five years, or a fine in accordance with the Rules of Procedure and Evidence, or both.
 
-- c. het verkrijgen van informatie of een bewijsmiddel van een andere bron of in een andere vorm; of
+4. - a) Each State Party shall extend its criminal laws penalizing offences against the integrity of its own investigative or judicial process to offences against the administration of justice referred to in this article, committed on its territory, or by one of its nationals;
 
-- d. overeenstemming over de voorwaarden waaronder de bijstand zou kunnen worden verleend, met inbegrip van, onder meer, het verstrekken van samenvattingen of bewerkte documenten, beperkingen ten aanzien van de openbaarmaking, procedure met gesloten deuren of bij afwezigheid van de andere partij, of andere krachtens het Statuut en het Reglement van Proces- en Bewijsvoering toegestane beschermende maatregelen.
+- b) Upon request by the Court, whenever it deems it proper, the State Party shall submit the case to its competent authorities for the purpose of prosecution. Those authorities shall treat such cases with diligence and devote sufficient resources to enable them to be conducted effectively.
 
-6. Als alle redelijke stappen zijn ondernomen om de zaak door onderlinge samenwerking te schikken en de Staat van oordeel is dat geen middelen of voorwaarden bestaan met behulp waarvan de informatie of documenten verschaft of openbaargemaakt zouden kunnen worden zonder zijn nationale veiligheidsbelangen te schaden, stelt de Staat de Aanklager of het Hof in kennis van de precieze redenen voor zijn besluit, tenzij een dergelijke opgave onontkoombaar uitmondt in schade aan de nationale veiligheidsbelangen van de Staat.
+##### Article 71. Sanctions for misconduct before the Court
 
-7. Daarna, indien het Hof het bewijs relevant en noodzakelijk acht ter vaststelling van de schuld of onschuld van de beschuldigde, is het Hof bevoegd de volgende stappen te ondernemen.
+1. The Court may sanction persons present before it who commit misconduct, including disruption of its proceedings or deliberate refusal to comply with its directions, by administrative measures other than imprisonment, such as temporary or permanent removal from the courtroom, a fine or other similar measures provided for in the Rules of Procedure and Evidence.
 
-- a. Wanneer openbaarmaking van de informatie of het document wordt verzocht krachtens een verzoek om samenwerking overeenkomstig [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2024-06-13&g=2024-06-13) of de in het tweede lid vermelde omstandigheden, en de Staat een beroep heeft gedaan op de grond tot weigering als bedoeld in [artikel 93, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2024-06-13&g=2024-06-13):
+2. The procedures governing the imposition of the measures set forth in paragraph 1 shall be those provided for in the Rules of Procedure and Evidence.
 
-  - i. is het Hof bevoegd, alvorens tot de slotsom te komen als bedoeld in het zevende lid, onder a, onderdeel ii., te verzoeken om aanvullend overleg teneinde de opmerkingen van de Staat in overweging te nemen, waaronder hoorzittingen met gesloten deuren en bij afwezigheid van de andere partij;
+##### Article 72. Protection of national security information
 
-  - ii. indien het Hof tot de slotsom komt dat de aangezochte Staat, door zich te beroepen op de grond tot weigering ingevolge [artikel 93, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2024-06-13&g=2024-06-13), in de omstandigheden van het geval, niet handelt overeenkomstig zijn verplichtingen ingevolge dit Statuut, is het Hof bevoegd de zaak te verwijzen overeenkomstig [artikel 87, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=87&z=2024-06-13&g=2024-06-13), onder opgave van de redenen voor zijn besluit;
+1. This article applies in any case where the disclosure of the information or documents of a State would, in the opinion of that State, prejudice its national security interests. Such cases include those falling within the scope of [article 56, paragraphs 2 and 3](https://wetten.overheid.nl/BWBV0001489), [article 61, paragraph 3](https://wetten.overheid.nl/BWBV0001489), [article 64, paragraph 3](https://wetten.overheid.nl/BWBV0001489), [article 67, paragraph 2](https://wetten.overheid.nl/BWBV0001489), [article 68, paragraph 6](https://wetten.overheid.nl/BWBV0001489), [article 87, paragraph 6](https://wetten.overheid.nl/BWBV0001489) and [article 93](https://wetten.overheid.nl/BWBV0001489), as well as cases arising at any other stage of the proceedings where such disclosure may be at issue.
 
-  - iii. is het Hof bevoegd tijdens de terechtzitting van de beschuldigde ten aanzien van het al dan niet bestaan van een feit de onder de omstandigheden passende conclusie te trekken.
+2. This article shall also apply when a person who has been requested to give information or evidence has refused to do so or has referred the matter to the State on the ground that disclosure would prejudice the national security interests of a State and the State concerned confirms that it is of the opinion that disclosure would prejudice its national security interests.
 
-- b. In alle andere omstandigheden is het Hof bevoegd:
+3. Nothing in this article shall prejudice the requirements of confidentiality applicable under [article 54, paragraph 3 e) and f)](https://wetten.overheid.nl/BWBV0001489), or the application of [article 73](https://wetten.overheid.nl/BWBV0001489).
 
-  - i. bevel te geven tot openbaarmaking; of
+4. If a State learns that information or documents of the State are being, or are likely to be, disclosed at any stage of the proceedings, and it is of the opinion that disclosure would prejudice its national security interests, that State shall have the right to intervene in order to obtain resolution of the issue in accordance with this article.
 
-  - ii. voorzover het Hof de openbaarmaking niet gelast, tijdens de terechtzitting van de beschuldigde ten aanzien van het al dan niet bestaan van een feit de onder de omstandigheden passende conclusie te trekken.
+5. If, in the opinion of a State, disclosure of information would prejudice its national security interests, all reasonable steps will be taken by the State, acting in conjunction with the Prosecutor, the defence or the Pre-Trial Chamber or Trial Chamber, as the case may be, to seek to resolve the matter by cooperative means. Such steps may include:
 
-##### Artikel 73. Informatie of documenten van derden
+- a) Modification or clarification of the request;
 
-Indien een Staat die Partij is door het Hof wordt verzocht documen-ten of informatie te verstrekken die hij in bewaring, in bezit of onder zijn toezicht heeft, die hem zijn toevertrouwd door een Staat, een inter-gouvernementele organisatie of een internationale organisatie, verzoekt hij degene van wie die documenten of informatie afkomstig zijn om toestemming tot openbaarmaking daarvan. Indien het afkomstig is van een Staat die Partij is, verleent deze toestemming tot openbaarmaking van de informatie of documenten of verplicht hij zich de kwestie van openbaarmaking met het Hof op te lossen overeenkomstig het bepaalde in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=72&z=2024-06-13&g=2024-06-13). Indien de documenten of informatie afkomstig zijn van een derde, niet-zijnde een Staat die Partij is, en deze weigert toestemming tot openbaarmaking te verlenen, stelt de aangezochte Staat het Hof ervan in kennis dat hij niet in staat is de documenten of de informatie te verschaffen ten gevolge van een reeds daarvoor bestaande verplichting tot vertrouwelijkheid tegenover degene van wie het afkomstig is.
+- b) A determination by the Court regarding the relevance of the information or evidence sought, or a determination as to whether the evidence, though relevant, could be or has been obtained from a source other than the requested State;
 
-##### Artikel 74. Eisen te stellen aan de beslissing
+- c) Obtaining the information or evidence from a different source or in a different form; or
 
-1. Alle rechters van de Kamer van berechting dienen in elk stadium van de terechtzitting en tijdens de beraadslagingen aanwezig te zijn. Het Presidium mag, van geval tot geval, een of meer reserve-rechters, voorzover beschikbaar, aanwijzen om in elk stadium van de terechtzitting aanwezig te zijn en een lid van de Kamer van berechting te vervangen indien dat lid niet in staat is aan de behandeling te blijven deelnemen.
+- d) Agreement on conditions under which the assistance could be provided including, among other things, providing summaries or redactions, limitations on disclosure, use of *in camera* or *ex parte* proceedings, or other protective measures permissible under the Statute and the Rules of Procedure and Evidence.
 
-2. De beslissing van de Kamer van berechting is gebaseerd op zijn beoordeling van het bewijs en de volledige procedure. De beslissing beperkt zich tot de in de tenlastelegging omschreven feiten en omstandigheden en alle wijzigingen daarin. Het Hof kan zijn beslissing alleen baseren op bewijsmiddelen die aan hem zijn voorgelegd en ter terechtzitting besproken.
+6. Once all reasonable steps have been taken to resolve the matter through cooperative means, and if the State considers that there are no means or conditions under which the information or documents could be provided or disclosed without prejudice to its national security interests, it shall so notify the Prosecutor or the Court of the specific reasons for its decision, unless a specific description of the reasons would itself necessarily result in such prejudice to the State's national security interests.
 
-3. De rechters trachten tot eenstemmigheid te komen in hun beslissing, bij gebreke waarvan de beslissing wordt genomen bij meerderheid van de rechters.
+7. Thereafter, if the Court determines that the evidence is relevant and necessary for the establishment of the guilt or innocence of the accused, the Court may undertake the following actions:
 
-4. De beraadslagingen van de Kamer van berechting blijven geheim.
+- a) Where disclosure of the information or document is sought pursuant to a request for cooperation under [Part 9](https://wetten.overheid.nl/BWBV0001489) or the circumstances described in paragraph 2, and the State has invoked the ground for refusal referred to in [article 93, paragraph 4](https://wetten.overheid.nl/BWBV0001489):
 
-5. De beslissing wordt schriftelijk vastgelegd en omvat een volledig, met redenen omkleed verslag van de bevindingen van de Kamer van berechting inzake het bewijs en de conclusies. De Kamer van berechting spreekt één beslissing uit. Wanneer de beslissing niet eenstemmig is, vermeldt de beslissing van de Kamer van berechting de zienswijzen van de meerderheid en van de minderheid. De beslissing of een samenvatting daarvan wordt in een openbare zitting voorgelezen.
+   - (i) The Court may, before making any conclusion referred to in subparagraph 7 a) (ii), request further consultations for the purpose of considering the State's representations, which may include, as appropriate, hearings *in camera* and *ex parte*;
 
-##### Artikel 75. Herstelbetalingen aan slachtoffers
+   - (ii) If the Court concludes that, by invoking the ground for refusal under [article 93, paragraph 4](https://wetten.overheid.nl/BWBV0001489), in the circumstances of the case, the requested State is not acting in accordance with its obligations under this Statute, the Court may refer the matter in accordance with [article 87, paragraph 7](https://wetten.overheid.nl/BWBV0001489), specifying the reasons for its conclusion; and
 
-1. Het Hof stelt beginselen vast met betrekking tot herstelbetalingen aan of ten aanzien van slachtoffers, met inbegrip van restitutie, schadeloosstelling en rehabilitatie. Op basis daarvan is het Hof bevoegd in zijn beslissing, op verzoek of ambtshalve in uitzonderlijke omstandigheden, de reikwijdte en omvang te bepalen van schade, verlies en letsel veroorzaakt aan of ten aanzien van slachtoffers en vermeldt het Hof de beginselen waarop zijn handelen is gegrond.
+   - (iii) The Court may make such inference in the trial of the accused as to the existence or non-existence of a fact, as may be appropriate in the circumstances; or
 
-2. Het Hof is bevoegd een rechtstreeks bevel te richten tot een veroordeelde persoon, waarin passende herstelbetalingen zijn omschreven aan of ten aanzien van slachtoffers, met inbegrip van restitutie, schadeloosstelling en rehabilitatie. Waar het Hof dit gepast acht, is het bevoegd te gelasten dat de toekenning van herstelbetalingen geschiedt via het in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=7&artikel=79&z=2024-06-13&g=2024-06-13) bedoelde Trustfonds.
+- b) In all other circumstances:
 
-3. Alvorens een bevel uit te vaardigen ingevolge dit artikel, is het Hof bevoegd gelegenheid te geven tot het kenbaar maken van opvattingen door of uit naam van de veroordeelde persoon, de slachtoffers, andere belanghebbenden of belanghebbende Staten, waarmee het rekening zal houden.
+   - (i) Order disclosure; or
 
-4. Bij de uitoefening van de ingevolge dit artikel verleende bevoegdheid is het Hof bevoegd, nadat een persoon is veroordeeld voor een misdrijf waarover het Hof rechtsmacht bezit, te bepalen of het, om uitvoering te geven aan een bevel dat het ingevolge dit artikel bevoegd is te geven, noodzakelijk is te verzoeken om maatregelen ingevolge [artikel 93, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2024-06-13&g=2024-06-13).
+   - (ii) To the extent it does not order disclosure, make such inference in the trial of the accused as to the existence or non-existence of a fact, as may be appropriate in the circumstances.
 
-5. Een Staat die Partij is geeft uitvoering aan een beslissing ingevolge dit artikel overeenkomstig het bepaalde in [artikel 109](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=10&artikel=109&z=2024-06-13&g=2024-06-13).
+##### Article 73. Third-party information or documents
 
-6. Niets in dit artikel doet afbreuk aan de rechten van slachtoffers krachtens nationaal of internationaal recht.
+If a State Party is requested by the Court to provide a document or information in its custody, possession or control, which was disclosed to it in confidence by a State, intergovernmental organization or international organization, it shall seek the consent of the originator to disclose that document or information. If the originator is a State Party, it shall either consent to disclosure of the information or document or undertake to resolve the issue of disclosure with the Court, subject to the provisions of [article 72](https://wetten.overheid.nl/BWBV0001489). If the originator is not a State Party and refuses to consent to disclosure, the requested State shall inform the Court that it is unable to provide the document or information because of a pre-existing obligation of confidentiality to the originator.
 
-##### Artikel 76. Einduitspraak
+##### Article 74. Requirements for the decision
 
-1. In geval van veroordeling beraadslaagt de Kamer van berechting over de passende einduitspraak en houdt daarbij rekening met het bewijs en de conclusies die tijdens de terechtzitting naar voren zijn gebracht en relevant zijn voor de einduitspraak.
+1. All the judges of the Trial Chamber shall be present at each stage of the trial and throughout their deliberations. The Presidency may, on a case-by-case basis, designate, as available, one or more alternate judges to be present at each stage of the trial and to replace a member of the Trial Chamber if that member is unable to continue attending.
 
-2. Behoudens wanneer artikel 65 van toepassing is en voor het einde van de terechtzitting is de Kamer van berechting ambtshalve bevoegd een nadere zitting te houden, en dient hij, wanneer de Aanklager of de beschuldigde dit verzoekt, deze te houden, teneinde kennis te nemen van aanvullend bewijs of aanvullende conclusies die relevant zijn voor de einduitspraak, overeenkomstig het Reglement van proces- en bewijsvoering.
+2. The Trial Chamber's decision shall be based on its evaluation of the evidence and the entire proceedings. The decision shall not exceed the facts and circumstances described in the charges and any amendments to the charges. The Court may base its decision only on evidence submitted and discussed before it at the trial.
 
-3. Indien het tweede lid van toepassing is neemt het Hof kennis van de opvattingen ingevolge [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=75&z=2024-06-13&g=2024-06-13) tijdens de in het tweede lid vermelde nadere zitting en, indien noodzakelijk, in de loop van aanvullende zittingen.
+3. The judges shall attempt to achieve unanimity in their decision, failing which the decision shall be taken by a majority of the judges.
 
-4. De einduitspraak wordt in het openbaar uitgesproken en, waar mogelijk, in aanwezigheid van de beschuldigde.
+4. The deliberations of the Trial Chamber shall remain secret.
 
-## DEEL 7. STRAFFEN
+5. The decision shall be in writing and shall contain a full and reasoned statement of the Trial Chamber's findings on the evidence and conclusions. The Trial Chamber shall issue one decision. When there is no unanimity, the Trial Chamber's decision shall contain the views of the majority and the minority. The decision or a summary thereof shall be delivered in open court.
 
-##### Artikel 77. Toepasselijke straffen
+##### Article 75. Reparations to victims
 
-1. Onverminderd [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=10&artikel=110&z=2024-06-13&g=2024-06-13) is het Hof bevoegd een van de volgende straffen op te leggen aan een persoon die veroordeeld is wegens een in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2024-06-13&g=2024-06-13) van dit Statuut bedoeld misdrijf:
+1. The Court shall establish principles relating to reparations to, or in respect of, victims, including restitution, compensation and rehabilitation. On this basis, in its decision the Court may, either upon request or on its own motion in exceptional circumstances, determine the scope and extent of any damage, loss and injury to, or in respect of, victims and will state the principles on which it is acting.
 
-- a. gevangenisstraf voor een bepaald aantal jaren, van ten hoogste 30 jaar; of
+2. The Court may make an order directly against a convicted person specifying appropriate reparations to, or in respect of, victims, including restitution, compensation and rehabilitation.
 
-- b. levenslange gevangenisstraf wanneer de buitengewone ernst van het misdrijf en de specifieke omstandigheden van de veroordeelde persoon dit rechtvaardigen.
+Where appropriate, the Court may order that the award for reparations be made through the Trust Fund provided for in [article 79](https://wetten.overheid.nl/BWBV0001489).
 
-2. Naast gevangenisstraf, is het Hof bevoegd op te leggen:
+3. Before making an order under this article, the Court may invite and shall take account of representations from or on behalf of the convicted person, victims, other interested persons or interested States.
 
-- a. een geldboete volgens de maatstaven bepaald in het Reglement van proces- en bewijsvoering;
+4. In exercising its power under this article, the Court may, after a person is convicted of a crime within the jurisdiction of the Court, determine whether, in order to give effect to an order which it may make under this article, it is necessary to seek measures under [article 93, paragraph 1](https://wetten.overheid.nl/BWBV0001489).
 
-- b. verbeurdverklaring van opbrengsten, goederen en vermogensbestanddelen die direct of indirect door dat misdrijf zijn verkregen, onverminderd de rechten van derden te goeder trouw.
+5. A State Party shall give effect to a decision under this article as if the provisions of [article 109](https://wetten.overheid.nl/BWBV0001489) were applicable to this article.
 
-##### Artikel 78. Strafoplegging
+6. Nothing in this article shall be interpreted as prejudicing the rights of victims under national or international law.
 
-1. Overeenkomstig het Reglement van proces- en bewijsvoering houdt het Hof bij de strafoplegging rekening met factoren als de ernst van het misdrijf en de specifieke omstandigheden van de veroordeelde persoon.
+##### Article 76. Sentencing
 
-2. Bij de oplegging van een einduitspraak tot gevangenisstraf brengt het Hof de tijd in mindering die overeenkomstig een bevel van het Hof in hechtenis is doorgebracht. Het Hof kan de tijd in mindering brengen die anderszins in hechtenis is doorgebracht in verband met gedragingen die ten grondslag liggen aan het misdrijf.
+1. In the event of a conviction, the Trial Chamber shall consider the appropriate sentence to be imposed and shall take into account the evidence presented and submissions made during the trial that are relevant to the sentence.
 
-3. Wanneer een persoon voor meer dan een misdrijf is veroordeeld wijst het Hof een einduitspraak voor elk misdrijf en bepaalt het in een gevoegde einduitspraak waarin de totale duur van de gevangenisstraf wordt vermeld. Deze duur is niet korter dan de hoogste afzonderlijk opgelegde straf en niet langer dan 30 jaar gevangenisstraf of levenslange gevangenisstraf overeenkomstig [artikel 77, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=7&artikel=77&z=2024-06-13&g=2024-06-13).
+2. Except where [article 65](https://wetten.overheid.nl/BWBV0001489) applies and before the completion of the trial, the Trial Chamber may on its own motion and shall, at the request of the Prosecutor or the accused, hold a further hearing to hear any additional evidence or submissions relevant to the sentence, in accordance with the Rules of Procedure and Evidence.
 
-##### Artikel 79. Trustfonds
+3. Where paragraph 2 applies, any representations under [article 75](https://wetten.overheid.nl/BWBV0001489) shall be heard during the further hearing referred to in paragraph 2 and, if necessary, during any additional hearing.
 
-1. Bij besluit van de Vergadering van Staten die Partij zijn wordt een Trustfonds gevormd ten behoeve van slachtoffers van misdrijven waarover het Hof rechtsmacht bezit, en van hun gezins- en familieleden.
+4. The sentence shall be pronounced in public and, wherever possible, in the presence of the accused.
 
-2. Het Hof is bevoegd te gelasten dat gelden en andere goederen die op bevel van het Hof door middel van boetes of verbeurdverklaring zijn verzameld, naar het Trustfonds worden overgemaakt.
+## PART 7. PENALTIES
 
-3. Het Trustfonds wordt beheerd overeenkomstig de door de Vergadering van Staten die Partij zijn te bepalen criteria.
+##### Article 77. Applicable penalties
 
-##### Artikel 80. Toepasselijkheid van nationale straffen en wetten
+1. Subject to [article 110](https://wetten.overheid.nl/BWBV0001489), the Court may impose one of the following penalties on a person convicted of a crime referred to in article 5 of this Statute:
 
-Het in dit Deel van het Statuut bepaalde doet geen afbreuk aan de toepasselijkheid van nationale straffen en wetten noch aan het recht van Staten die niet hebben voorzien in straffen zoals in dit Deel zijn voorgeschreven.
+- a) Imprisonment for a specified number of years, which may not exceed a maximum of 30 years; or
 
-## DEEL 8. BEROEP EN HERZIENING
+- b) A term of life imprisonment when justified by the extreme gravity of the crime and the individual circumstances of the convicted person.
 
-##### Artikel 81. Beroep tegen een einduitspraak
+2. In addition to imprisonment, the Court may order:
 
-1. Tegen een beslissing ingevolge [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=74&z=2024-06-13&g=2024-06-13) kan beroep worden ingesteld overeenkomstig het Reglement van proces- en bewijsvoering.
+- a) A fine under the criteria provided for in the Rules of Procedure and Evidence;
 
-- a. De Aanklager is bevoegd beroep in te stellen op een van de volgende gronden:
+- b) A forfeiture of proceeds, property and assets derived directly or indirectly from that crime, without prejudice to the rights of bona fide third parties.
 
-  - i. een procedurefout,
+##### Article 78. Determination of the sentence
 
-  - ii. feitelijke dwaling, of
+1. In determining the sentence, the Court shall, in accordance with the Rules of Procedure and Evidence, take into account such factors as the gravity of the crime and the individual circumstances of the convicted person.
 
-  - iii. rechtsdwaling;
+2. In imposing a sentence of imprisonment, the Court shall deduct the time, if any, previously spent in detention in accordance with an order of the Court. The Court may deduct any time otherwise spent in detention in connection with conduct underlying the crime.
 
-- b. De veroordeelde of de Aanklager namens hem, is bevoegd beroep in te stellen op een van de volgende gronden:
+3. When a person has been convicted of more than one crime, the Court shall pronounce a sentence for each crime and a joint sentence specifying the total period of imprisonment. This period shall be no less than the highest individual sentence pronounced and shall not exceed 30 years imprisonment or a sentence of life imprisonment in conformity with [article 77, paragraph 1 b)](https://wetten.overheid.nl/BWBV0001489).
 
-  - i. een procedurefout,
+##### Article 79. Trust Fund
 
-  - ii. feitelijke dwaling,
+1. A Trust Fund shall be established by decision of the Assembly of States Parties for the benefit of victims of crimes within the jurisdiction of the Court, and of the families of such victims.
 
-  - iii. rechtsdwaling, of
+2. The Court may order money and other property collected through fines or forfeiture to be transferred, by order of the Court, to the Trust Fund.
 
-  - iv. andere gronden die de eerlijkheid en de betrouwbaarheid van de procedure of de beslissing aantasten.
+3. The Trust Fund shall be managed according to criteria to be determined by the Assembly of States Parties.
 
-- a. Overeenkomstig het Reglement van proces- en bewijsvoering zijn de Aanklager en de veroordeelde bevoegd om beroep in te stellen tegen een einduitspraak, op grond van onevenredigheid tussen het misdrijf en de einduitspraak;
+##### Article 80. Non-prejudice to national application of penalties and national laws
 
-- b. Indien het Hof op een beroep tegen een einduitspraak gronden aanneemt om de veroordeling geheel of gedeeltelijk te vernietigen, is het Hof bevoegd de Aanklager en de veroordeelde uit te nodigen gronden te ontwikkelen ingevolge [artikel 81, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=8&artikel=81&z=2024-06-13&g=2024-06-13), en een beslissing te nemen over veroordeling overeenkomstig [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=8&artikel=83&z=2024-06-13&g=2024-06-13);
+Nothing in this Part affects the application by States of penalties prescribed by their national law, nor the law of States which do not provide for penalties prescribed in this Part.
 
-- c. Dezelfde procedure geldt, indien het Hof op een beroep dat alleen de veroordeling betreft gronden aanneemt tot vermindering van de straf ingevolge het tweede lid, onder a.
+## PART 8. APPEAL AND REVISION
 
-- a. Tenzij de Kamer van berechting anders beveelt, blijft een veroordeelde hangende een beroep in hechtenis;
+##### Article 81. Appeal against decision of acquittal or conviction or against sentence
 
-- b. Wanneer de tijd die een veroordeelde in bewaring heeft doorgebracht de opgelegde gevangenisstraf te boven gaat, wordt hij in vrijheid gesteld, met dien verstande dat de invrijheidstelling, indien de Aanklager eveneens beroep heeft ingesteld, kan zijn onderworpen aan de hierna onder c vermelde voorwaarden;
+1. A decision under [article 74](https://wetten.overheid.nl/BWBV0001489) may be appealed in accordance with the Rules of Procedure and Evidence as follows:
 
-- c. In geval van vrijspraak wordt de beschuldigde onmiddellijk in vrijheid gesteld met inachtneming van het volgende:
+- a) The Prosecutor may make an appeal on any of the following grounds:
 
-  - i. in buitengewone omstandigheden, met inachtneming van het concrete vluchtgevaar, de ernst van het tenlastegelegde misdrijf en de slagingskans van het beroep, is de Kamer van berechting bevoegd op verzoek van de Aanklager de hechtenis hangende het hoger beroep te doen voortduren;
+   - (i) Procedural error,
 
-  - ii. tegen een beslissing van de Kamer van berechting ingevolge het bepaalde onder c, onderdeel ii. kan beroep worden ingesteld overeenkomstig het Reglement van proces en bewijsvoering.
+   - (ii) Error of fact, or
 
-4. Onverminderd het derde lid, onder a en b, wordt de tenuitvoerlegging van de uitspraak geschorst gedurende de beroepstermijn en voor de duur van de afdoening in beroep.
+   - (iii) Error of law;
 
-##### Artikel 82. Beroep tegen andere beslissingen
+- b) The convicted person, or the Prosecutor on that person's behalf, may make an appeal on any of the following grounds:
 
-1. Elk van beide partijen is bevoegd beroep in te stellen tegen de volgende beslissingen overeenkomstig het Reglement van proces- en bewijsvoering:
+   - (i) Procedural error,
 
-- a. een beslissing ten aanzien van de rechtsmacht of ontvankelijkheid;
+   - (ii) Error of fact,
 
-- b. een beslissing tot invrijheidstelling van de verdachte of beschuldigde of weigering daarvan;
+   - (iii) Error of law, or
 
-- c. een ambtshalve beslissing van de Kamer van vooronderzoek ingevolge [artikel 56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=56&z=2024-06-13&g=2024-06-13);
+   - (iv) Any other ground that affects the fairness or reliability of the proceedings or decision.
 
-- d. een beslissing die waagt van een punt dat van aanmerkelijke invloed kan zijn op een eerlijk en vlot verloop van de procedure of op de uitkomst van de terechtzitting, en waarvoor naar het oordeel van de Kamer van vooronderzoek of de Kamer van berechting een onmiddellijke uitspraak van de Kamer van beroep de voortgang van de procedure in belangrijke mate kan bevorderen.
+2. - a) A sentence may be appealed, in accordance with the Rules of Procedure and Evidence, by the Prosecutor or the convicted person on the ground of disproportion between the crime and the sentence;
 
-2. De betrokken Staat of de Aanklager, met instemming van de Kamer van vooronderzoek is bevoegd beroep in te stellen tegen een beslissing van de Kamer van vooronderzoek ingevolge [artikel 57, derde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=57&z=2024-06-13&g=2024-06-13). Het beroep wordt behandeld volgens een verkorte procedure.
+- b) If on an appeal against sentence the Court considers that there are grounds on which the conviction might be set aside, wholly or in part, it may invite the Prosecutor and the convicted person to submit grounds under [article 81, paragraph 1 a) or b)](https://wetten.overheid.nl/BWBV0001489), and may render a decision on conviction in accordance with [article 83](https://wetten.overheid.nl/BWBV0001489);
 
-3. Aanwending van beroep heeft geen schorsende werking tenzij de Kamer van beroep, overeenkomstig het Reglement van proces- en bewijsvoering anders bepaalt.
+- c) The same procedure applies when the Court, on an appeal against conviction only, considers that there are grounds to reduce the sentence under paragraph 2 a).
 
-4. Een wettelijk vertegenwoordiger van de slachtoffers, de veroordeelde of een eigenaar te goeder trouw op wiens recht nadelig inbreuk wordt gemaakt door een bevel ingevolge [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=75&z=2024-06-13&g=2024-06-13) is bevoegd beroep in te stellen tegen het bevel tot herstelbetalingen, overeenkomstig het Reglement van proces- en bewijsvoering.
+3. - a) Unless the Trial Chamber orders otherwise, a convicted person shall remain in custody pending an appeal;
 
-##### Artikel 83. Beroepsprocedure
+- b) When a convicted person's time in custody exceeds the sentence of imprisonment imposed, that person shall be released, except that if the Prosecutor is also appealing, the release may be subject to the conditions under subparagraph c) below;
 
-1. De Kamer van beroep oefent alle bevoegdheden uit van de Kamer van berechting ter zake van procesvoering ingevolge [artikel 81](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=8&artikel=81&z=2024-06-13&g=2024-06-13) en dit artikel.
+- c) In case of an acquittal, the accused shall be released immediately, subject to the following:
 
-2. Indien de Kamer van beroep vaststelt dat de procedure waartegen beroep is ingesteld, oneerlijk is verlopen waardoor de betrouwbaarheid van de uitspraak is aangetast of dat de uitspraak waartegen beroep is ingesteld inhoudelijk is aangetast door feitelijke of rechtsdwaling of door een procedurefout, is hij bevoegd:
+   - (i) Under exceptional circumstances, and having regard, *inter alia*, to the concrete risk of flight, the seriousness of the offence charged and the probability of success on appeal, the Trial Chamber, at the request of the Prosecutor, may maintain the detention of the person pending appeal;
 
-- a. de uitspraak te vernietigen of te wijzigen; of
+   - (ii) A decision by the Trial Chamber under subparagraph c) (i) may be appealed in accordance with the Rules of Procedure and Evidence.
 
-- b. een nieuwe terechtzitting te gelasten voor een andere Kamer van beroep.
+4. Subject to the provisions of paragraph 3 a) and b), execution of the decision or sentence shall be suspended during the period allowed for appeal and for the duration of the appeal proceedings.
 
-Hiertoe is de Kamer van beroep bevoegd een vraagpunt van feitelijke aard terug te verwijzen naar de oorspronkelijke Kamer van berechting teneinde dit af te doen, of zelf bewijsvoering te doen plaatsvinden teneinde op dat punt te beslissen. Indien tegen de uitspraak alleen door de veroordeelde beroep is ingesteld of namens hem door de Aanklager, kan de uitspraak niet in zijn nadeel worden herzien.
+##### Article 82. Appeal against other decisions
 
-3. Indien de Kamer van beroep op een beroep tegen een uitspraak vaststelt dat de uitspraak niet in evenredige verhouding staat tot het misdrijf, is de Kamer van beroep bevoegd de uitspraak overeenkomstig [Deel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=7&z=2024-06-13&g=2024-06-13) te wijzigen.
+1. Either party may appeal any of the following decisions in accordance with the Rules of Procedure and Evidence:
 
-4. De uitspraak van de Kamer van beroep wordt bij meerderheid van de rechters en in openbare zitting gewezen. De uitspraak is met redenen omkleed. Bij het ontbreken van eenstemmigheid vermeldt de uitspraak van de Kamer van beroep de zienswijzen van de meerderheid en van de minderheid, met dien verstande dat elke rechter bevoegd is een uiteenzetting van zijn individuele of afwijkende oordeel over een rechtsvraag toe te voegen.
+- a) A decision with respect to jurisdiction or admissibility;
 
-5. De Kamer van beroep is bevoegd zijn uitspraak bij verstek te wijzen.
+- b) A decision granting or denying release of the person being investigated or prosecuted;
 
-##### Artikel 84. Herziening van einduitspraken
+- c) A decision of the Pre-Trial Chamber to act on its own initiative under [article 56, paragraph 3](https://wetten.overheid.nl/BWBV0001489);
 
-1. De veroordeelde of, na diens overlijden, echtgenoten, kinderen, ouders of een ten tijde van het overlijden van de beschuldigde in leven zijnde persoon die van de beschuldigde uitdrukkelijke schriftelijke aanwijzingen heeft gekregen tot het instellen van een dergelijke vordering, of de Aanklager namens de persoon, is respectievelijk zijn bevoegd de Kamer van beroep te verzoeken om herziening van de einduitspraak waarbij de veroordeling werd uitgesproken of de straf werd opgelegd, op grond van het feit dat:
+- d) A decision that involves an issue that would significantly affect the fair and expeditious conduct of the proceedings or the outcome of the trial, and for which, in the opinion of the Pre-Trial or Trial Chamber, an immediate resolution by the Appeals Chamber may materially advance the proceedings.
 
-- a. nieuw bewijs is ontdekt dat:
+2. A decision of the Pre-Trial Chamber under [article 57, paragraph 3 d)](https://wetten.overheid.nl/BWBV0001489), may be appealed against by the State concerned or by the Prosecutor, with the leave of the Pre-Trial Chamber. The appeal shall be heard on an expedited basis.
 
-  - i. niet beschikbaar was ten tijde van de terechtzitting en deze niet-beschikbaarheid niet geheel of gedeeltelijk te wijten was aan de partij die het verzoek doet; en
+3. An appeal shall not of itself have suspensive effect unless the Appeals Chamber so orders, upon request, in accordance with the Rules of Procedure and Evidence.
 
-  - ii. van voldoende belang is om, indien de juistheid ervan tijdens de terechtzitting zou zijn vastgesteld, waarschijnlijk tot een andere uitspraak te hebben geleid;
+4. A legal representative of the victims, the convicted person or a bona fide owner of property adversely affected by an order under [article 75](https://wetten.overheid.nl/BWBV0001489) may appeal against the order for reparations, as provided in the Rules of Procedure and Evidence.
 
-- b. thans pas is ontdekt dat beslissend bewijs dat op de terechtzitting in aanmerking is genomen en waarop de veroordeling is gebaseerd, onwaar, vals of vervalst was;
+##### Article 83. Proceedings on appeal
 
-- c. een of meer rechters die deelnamen aan de veroordeling of bevestiging van de tenlastegelegde feiten zich in die zaak schuldig heeft of hebben gemaakt aan ernstig wangedrag of ernstig plichtsverzuim van voldoende gewicht om de ontzetting van die rechter of rechters uit hun ambt ingevolge [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=46&z=2024-06-13&g=2024-06-13) te rechtvaardigen.
+1. For the purposes of proceedings under [article 81](https://wetten.overheid.nl/BWBV0001489) and this article, the Appeals Chamber shall have all the powers of the Trial Chamber.
 
-2. De Kamer van beroep wijst het verzoek af indien hij dit ongegrond acht. Indien hij vaststelt dat het verzoek een nadere beoordeling verdient, is hij, waar dit in aanmerking komt bevoegd:
+2. If the Appeals Chamber finds that the proceedings appealed from were unfair in a way that affected the reliability of the decision or sentence, or that the decision or sentence appealed from was materially affected by error of fact or law or procedural error, it may:
 
-- a. de oorspronkelijke Kamer van berechting opnieuw bijeen te roepen;
+- a) Reverse or amend the decision or sentence; or
 
-- b. een nieuwe Kamer van berechting samen te stellen; of
+- b) Order a new trial before a different Trial Chamber.
 
-- c. de kennisneming van de zaak aan zich te houden,
+For these purposes, the Appeals Chamber may remand a factual issue to the original Trial Chamber for it to determine the issue and to report back accordingly, or may itself call evidence to determine the issue. When the decision or sentence has been appealed only by the person convicted, or the Prosecutor on that person's behalf, it cannot be amended to his or her detriment.
 
-teneinde, na de partijen te hebben gehoord op de in het Reglement van proces- en bewijsvoering vermelde wijze, vast te stellen of de uitspraak herzien dient te worden.
+3. If in an appeal against sentence the Appeals Chamber finds that the sentence is disproportionate to the crime, it may vary the sentence in accordance with [Part 7](https://wetten.overheid.nl/BWBV0001489).
 
-##### Artikel 85. Schadevergoeding ten behoeve van aangehouden of veroordeelde personen
+4. The judgement of the Appeals Chamber shall be taken by a majority of the judges and shall be delivered in open court. The judgement shall state the reasons on which it is based. When there is no unanimity, the judgement of the Appeals Chamber shall contain the views of the majority and the minority, but a judge may deliver a separate or dissenting opinion on a question of law.
 
-1. Een ieder die het slachtoffer is geworden van onrechtmatige aanhouding of hechtenis heeft een afdwingbaar recht op schadevergoeding.
+5. The Appeals Chamber may deliver its judgement in the absence of the person acquitted or convicted.
 
-2. Wanneer een persoon bij onherroepelijke beslissing voor een strafbaar feit is veroordeeld en zijn veroordeling daarna nietig is verklaard op grond van het feit dat uit een nieuw of een nieuw ontdekt feit overtuigend blijkt dat sprake is van een rechterlijke dwaling, wordt de persoon die als gevolg van die veroordeling straf heeft ondergaan schadeloos gesteld overeenkomstig het daarvoor geldend recht, tenzij wordt bewezen dat het niet tijdig bekend worden van het onbekende feit geheel of gedeeltelijk aan hem is te wijten.
+##### Article 84. Revision of conviction or sentence
 
-3. In buitengewone omstandigheden, wanneer het Hof vaststelt dat er overtuigende feiten zijn die er op wijzen dat sprake was van een ernstige en duidelijke rechterlijke dwaling, is het bevoegd ambtshalve overeenkomstig de maatstaven van het Reglement van proces- en bewijsvoering schadevergoeding toe te kennen aan een persoon die uit hechtenis is vrijgelaten na een onherroepelijke beslissing tot vrijspraak of na beëindiging van de zaak op dezelfde grond.
+1. The convicted person or, after death, spouses, children, parents or one person alive at the time of the accused's death who has been given express written instructions from the accused to bring such a claim, or the Prosecutor on the person's behalf, may apply to the Appeals Chamber to revise the final judgement of conviction or sentence on the grounds that:
 
-## DEEL 9. INTERNATIONALE SAMENWERKING EN WEDERZIJDSE RECHTSHULP
+- a) New evidence has been discovered that:
 
-##### Artikel 86. Algemene verplichting tot samenwerking
+   - (i) Was not available at the time of trial, and such unavailability was not wholly or partially attributable to the party making application; and
 
-Staten die Partij zijn verlenen overeenkomstig het in dit Statuut bepaalde het Hof volledige samenwerking bij zijn onderzoek naar en vervolging van misdrijven waarover het Hof rechtsmacht bezit.
+   - (ii) Is sufficiently important that had it been proved at trial it would have been likely to have resulted in a different verdict;
 
-##### Artikel 87. Verzoeken om samenwerking: algemene bepalingen
+- b) It has been newly discovered that decisive evidence, taken into account at trial and upon which the conviction depends, was false, forged or falsified;
 
-- a. Het Hof is bevoegd aan Staten die Partij zijn te verzoeken om samenwerking. De verzoeken worden overgebracht langs diplomatieke of elke andere passende weg die daartoe door iedere Staat die Partij is kan worden opgegeven bij bekrachtiging, aanvaarding, goedkeuring of toetreding. Iedere Staat die Partij is kan later die opgave overeenkomstig het Reglement van proces- en bewijsvoering wijzigen.
+- c) One or more of the judges who participated in conviction or confirmation of the charges has committed, in that case, an act of serious misconduct or serious breach of duty of sufficient gravity to justify the removal of that judge or those judges from office under [article 46](https://wetten.overheid.nl/BWBV0001489).
 
-- b. Onverminderd het onder a bepaalde, kunnen verzoeken ook worden overgebracht via de Internationale Organisatie van Politie in strafzaken of een andere daarvoor in aanmerking komende regionale organisatie.
+2. The Appeals Chamber shall reject the application if it considers it to be unfounded. If it determines that the application is meritorious, it may, as appropriate:
 
-2. Verzoeken om samenwerking en de documenten ter ondersteuning van het verzoek worden gesteld in of gaan vergezeld van een vertaling in een officiële taal van de aangezochte Staat of in een van de werktalen van het Hof overeenkomstig de keuze die door die Staat werd gedaan bij bekrachtiging, aanvaarding, goedkeuring of toetreding.
+- a) Reconvene the original Trial Chamber;
 
-Deze keuze kan overeenkomstig het Reglement van proces- en bewijsvoering later worden gewijzigd.
+- b) Constitute a new Trial Chamber; or
 
-3. De aangezochte Staat behandelt een verzoek om samenwerking en de documenten ter ondersteuning van het verzoek vertrouwelijk behoudens voorzover openbaarmaking daarvan onontkoombaar is ter inwilliging van het verzoek.
+- c) Retain jurisdiction over the matter,
 
-4. Met betrekking tot een verzoek om rechtshulp ingevolge [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2024-06-13&g=2024-06-13) is het Hof bevoegd alle maatregelen te treffen, met inbegrip van maatregelen ter bescherming van informatie, die noodzakelijk zijn om de veiligheid of het lichamelijke of geestelijke welzijn van slachtoffers, mogelijke getuigen en hun gezins- en familieleden te waarborgen. Het Hof is bevoegd te verzoeken dat alle ingevolge [Deel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&z=2024-06-13&g=2024-06-13) ter beschikking gestelde informatie wordt verstrekt en behandeld op een wijze die de veiligheid of het lichamelijke of geestelijke welzijn van slachtoffers, mogelijke getuigen en hun gezins- en familieleden beschermt.
+with a view to, after hearing the parties in the manner set forth in the Rules of Procedure and Evidence, arriving at a determination on whether the judgement should be revised.
 
-- a. Het Hof is bevoegd een Staat die geen partij is bij dit Statuut uit te nodigen rechtshulp ingevolge dit Deel te verlenen op basis van een ad hoc-regeling, van een overeenkomst met die Staat of op andere toereikende gronden.
+##### Article 85. Compensation to an arrested or convicted person
 
-- b. Wanneer een Staat die geen partij is bij dit Statuut en die een ad hoc-regeling of overeenkomst met het Hof is aangegaan, nalaat mee te werken aan verzoeken ingevolge een dergelijke regeling of overeenkomst, is het Hof bevoegd de Vergadering van Staten die Partij zijn daarvan in kennis te stellen of de Veiligheidsraad, wanneer de Veiligheidsraad de zaak heeft aangegeven bij het Hof.
+1. Anyone who has been the victim of unlawful arrest or detention shall have an enforceable right to compensation.
 
-6. Het Hof is bevoegd intergouvernementele organisaties te verzoeken informatie of documenten te verstrekken. Het Hof is ook bevoegd andere vormen van samenwerking en rechtshulp te verzoeken die worden overeengekomen met een dergelijke organisatie en in overeenstemming zijn met haar bevoegdheid of mandaat.
+2. When a person has by a final decision been convicted of a criminal offence, and when subsequently his or her conviction has been reversed on the ground that a new or newly discovered fact shows conclusively that there has been a miscarriage of justice, the person who has suffered punishment as a result of such conviction shall be compensated according to law, unless it is proved that the non-disclosure of the unknown fact in time is wholly or partly attributable to him or her.
 
-7. Wanneer een Staat die Partij is nalaat te voldoen aan een rechtshulpverzoek in strijd met het in dit Statuut bepaalde, ten gevolge waarvan deze het Hof verhindert zijn taken en bevoegdheden krachtens dit Statuut uit te oefenen, is het Hof bevoegd een uitspraak te doen met die strekking en de zaak te verwijzen naar de Vergadering van Staten die Partij zijn of, wanneer de Veiligheidsraad de zaak heeft aangegeven bij het Hof, naar de Veiligheidsraad.
+3. In exceptional circumstances, where the Court finds conclusive facts showing that there has been a grave and manifest miscarriage of justice, it may in its discretion award compensation, according to the criteria provided in the Rules of Procedure and Evidence, to a person who has been released from detention following a final decision of acquittal or a termination of the proceedings for that reason.
 
-##### Artikel 88. Beschikbaarheid van procedures naar nationaal recht
+## PART 9. INTERNATIONAL COOPERATION AND JUDICIAL ASSISTANCE
 
-Staten die Partij zijn dragen er zorg voor dat ingevolge hun nationale recht procedures beschikbaar zijn voor alle vormen van samenwerking die in dit Deel zijn voorzien.
+##### Article 86. General obligation to cooperate
 
-##### Artikel 89. Overdracht van personen aan het Hof
+States Parties shall, in accordance with the provisions of this Statute, cooperate fully with the Court in its investigation and prosecution of crimes within the jurisdiction of the Court.
 
-1. Het Hof is bevoegd een verzoek tot aanhouding en overdracht van een persoon, tezamen met het in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=91&z=2024-06-13&g=2024-06-13) vermelde materiaal ter ondersteuning van het verzoek, tot elke Staat te richten op het grondgebied waarvan die persoon kan worden aangetroffen en verzoekt die Staat om samenwerking bij de aanhouding en overdracht van die persoon. Staten die Partij zijn voldoen overeenkomstig het in dit Deel bepaalde en de procedure ingevolge hun nationaal recht, aan verzoeken tot aanhouding en overdracht.
+##### Article 87. Requests for cooperation: general provisions
 
-2. Indien de persoon om wiens overdracht wordt verzocht dit voor een nationale rechtbank aanvecht op grond van het in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=20&z=2024-06-13&g=2024-06-13) omschreven beginsel, raadpleegt de aangezochte Staat onverwijld het Hof teneinde vast te stellen of met betrekking tot de ontvankelijkheid een relevante uitspraak bestaat. Indien de zaak ontvankelijk is, willigt de aangezochte Staat het verzoek in. Indien een uitspraak over de ontvankelijkheid hangende is, is de aangezochte Staat bevoegd de inwilliging van het verzoek tot overdracht van de persoon aan te houden totdat het Hof heeft beslist over de ontvankelijkheid.
+1. - a) The Court shall have the authority to make requests to States Parties for cooperation. The requests shall be transmitted through the diplomatic channel or any other appropriate channel as may be designated by each State Party upon ratification, acceptance, approval or accession. Subsequent changes to the designation shall be made by each State Party in accordance with the Rules of Procedure and Evidence.
 
-- a. Een Staat die Partij is verleent overeenkomstig zijn nationaal procesrecht toestemming tot vervoer over zijn grondgebied van een persoon die door een andere Staat aan het Hof wordt overgedragen, behoudens wanneer doorvoer door die Staat de overdracht zou belemmeren of vertragen;
+- b) When appropriate, without prejudice to the provisions of subparagraph a), requests may also be transmitted through the International Criminal Police Organization or any appropriate regional organization.
 
-- b. Een verzoek tot doorvoer van het Hof wordt overeenkomstig [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=87&z=2024-06-13&g=2024-06-13) overgebracht. Het verzoek tot doorvoer bevat:
+2. Requests for cooperation and any documents supporting the request shall either be in or be accompanied by a translation into an official language of the requested State or one of the working languages of the Court, in accordance with the choice made by that State upon ratification, acceptance, approval or accession.
 
-  - i. een signalement van de persoon die wordt vervoerd;
+Subsequent changes to this choice shall be made in accordance with the Rules of Procedure and Evidence.
 
-  - ii. een korte uiteenzetting van de feiten van de zaak en hun juridische kwalificatie; en
+3. The requested State shall keep confidential a request for cooperation and any documents supporting the request, except to the extent that the disclosure is necessary for execution of the request.
 
-  - iii. het bevel tot aanhouding en het bevel tot overdracht;
+4. In relation to any request for assistance presented under this Part, the Court may take such measures, including measures related to the protection of information, as may be necessary to ensure the safety or physical or psychological well-being of any victims, potential witnesses and their families. The Court may request that any information that is made available under this Part shall be provided and handled in a manner that protects the safety and physical or psychological well-being of any victims, potential witnesses and their families.
 
-- c. Een persoon die wordt vervoerd wordt in hechtenis gehouden tijdens de duur van doorvoer;
+5. - a) The Court may invite any State not party to this Statute to provide assistance under this Part on the basis of an ad hoc arrangement, an agreement with such State or any other appropriate basis.
 
-- d. Geen toestemming is vereist indien de persoon door de lucht wordt vervoerd en geen landing is voorzien op het grondgebied van de Staat van doorvoer;
+- b) Where a State not party to this Statute, which has entered into an ad hoc arrangement or an agreement with the Court, fails to cooperate with requests pursuant to any such arrangement or agreement, the Court may so inform the Assembly of States Parties or, where the Security Council referred the matter to the Court, the Security Council.
 
-- e. Indien een onvoorziene landing plaatsvindt op het grondgebied van de Staat van doorvoer, is die Staat bevoegd een verzoek tot doorvoer van het Hof te verlangen, als voorzien in het onder b bepaalde. De Staat van doorvoer houdt de persoon die wordt vervoerd in hechtenis tot het verzoek om doorvoer is ontvangen en de doorvoer is geschied; met dien verstande dat de hechtenis van toepassing van dit lid niet langer mag duren dan 96 uur na de onvoorziene landing, tenzij het verzoek binnen die termijn is ontvangen.
+6. The Court may ask any intergovernmental organization to provide information or documents. The Court may also ask for other forms of cooperation and assistance which may be agreed upon with such an organization and which are in accordance with its competence or mandate.
 
-4. Indien de opgeëiste persoon wordt vervolgd of een straf uitzit in de aangezochte Staat wegens een ander misdrijf dan dat waarvoor overdracht aan het Hof wordt verzocht, pleegt de aangezochte Staat nadat hij heeft besloten het verzoek in te willigen, overleg met het Hof.
+7. Where a State Party fails to comply with a request to cooperate by the Court contrary to the provisions of this Statute, thereby preventing the Court from exercising its functions and powers under this Statute, the Court may make a finding to that effect and refer the matter to the Assembly of States Parties or, where the Security Council referred the matter to the Court, to the Security Council.
 
-##### Artikel 90. Concurrerende verzoeken
+##### Article 88. Availability of procedures under national law
 
-1. Een Staat die Partij is en een verzoek van het Hof ontvangt tot overdracht van een persoon ingevolge [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=89&z=2024-06-13&g=2024-06-13), stelt, indien hij ook van een andere Staat een verzoek ontvangt tot uitlevering van dezelfde persoon voor dezelfde gedragingen die de grondslag vormen voor het misdrijf waarvoor het Hof de overdracht van de persoon verlangt, het Hof en de verzoekende Staat van dat feit in kennis.
+States Parties shall ensure that there are procedures available under their national law for all of the forms of cooperation which are specified under this Part.
 
-2. Wanneer de verzoekende Staat een Staat is die Partij is, verleent de aangezochte Staat voorrang aan het verzoek van het Hof indien:
+##### Article 89. Surrender of persons to the Court
 
-- a. het Hof ingevolge de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=18&z=2024-06-13&g=2024-06-13) en [19](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=19&z=2024-06-13&g=2024-06-13) de beslissing heeft genomen dat de zaak waarvoor overdracht wordt verlangd ontvankelijk is en bij die beslissing rekening is gehouden met het gevoerde onderzoek of de vervolging die door de verzoekende Staat is verricht met betrekking tot zijn verzoek tot uitlevering; of
+1. The Court may transmit a request for the arrest and surrender of a person, together with the material supporting the request outlined in [article 91](https://wetten.overheid.nl/BWBV0001489), to any State on the territory of which that person may be found and shall request the cooperation of that State in the arrest and surrender of such a person. States Parties shall, in accordance with the provisions of this Part and the procedure under their national law, comply with requests for arrest and surrender.
 
-- b. het Hof de onder a vermelde beslissing neemt overeenkomstig de kennisgeving aan de aangezochte Staat ingevolge het eerste lid.
+2. Where the person sought for surrender brings a challenge before a national court on the basis of the principle of *ne bis in idem* as provided in [article 20](https://wetten.overheid.nl/BWBV0001489), the requested State shall immediately consult with the Court to determine if there has been a relevant ruling on admissibility. If the case is admissible, the requested State shall proceed with the execution of the request. If an admissibility ruling is pending, the requested State may postpone the execution of the request for surrender of the person until the Court makes a determination on admissibility. If the case is admissible, the requested State shall proceed with the execution of the request. If an admissibility ruling is pending, the requested State may postpone the execution of the request for surrender of the person until the Court makes a determination on admissibility.
 
-3. Wanneer geen beslissing ingevolge het tweede lid, onder a, is genomen, kan de aangezochte Staat, naar eigen inzicht, hangende de beslissing van het Hof ingevolge het tweede lid, onder b, de behandeling van het verzoek tot uitlevering van de verzoekende Staat voortzetten, maar hij levert de persoon niet uit totdat het Hof heeft beslist dat de zaak niet-ontvankelijk is. Het Hof neemt zijn beslissing volgens een verkorte procedure.
+3. - a) A State Party shall authorize, in accordance with its national procedural law, transportation through its territory of a person being surrendered to the Court by another State, except where transit through that State would impede or delay the surrender.
 
-4. Indien de verzoekende Staat geen partij is bij dit Statuut, geeft de aangezochte Staat, indien deze geen internationale verplichting heeft tot uitlevering van de persoon aan de verzoekende Staat, voorrang aan het verzoek van het Hof tot overdracht, indien het Hof heeft beslist dat de zaak ontvankelijk is.
+- b) A request by the Court for transit shall be transmitted in accordance with [article 87](https://wetten.overheid.nl/BWBV0001489). The request for transit shall contain:
 
-5. Wanneer het Hof heeft beslist dat een zaak ingevolge het vierde lid niet-ontvankelijk is, kan de aangezochte Staat naar eigen inzicht de behandeling van het verzoek tot uitlevering van de verzoekende Staat voortzetten.
+   - (i) A description of the person being transported;
 
-6. In gevallen waarin het vierde lid van toepassing is met uitzondering van het feit dat de aangezochte Staat een bestaande internationale verplichting heeft tot uitlevering van de persoon aan de verzoekende Staat die geen partij is bij dit Statuut, beslist de aangezochte Staat of hij de persoon aan het Hof zal overdragen danwel de persoon zal uitleveren aan de verzoekende Staat. Bij zijn besluit houdt de aangezochte Staat rekening met alle relevante factoren, waaronder:
+   - (ii) A brief statement of the facts of the case and their legal characterization; and
 
-- a. de respectieve data van de verzoeken;
+   - (iii) The warrant for arrest and surrender;
 
-- b. de belangen van de verzoekende Staat met inbegrip van, waar dit ter zake doende is, het feit of het misdrijf op zijn grondgebied is begaan en de nationaliteit van de slachtoffers en van de persoon wiens overdracht wordt verlangd; en
+- c) A person being transported shall be detained in custody during the period of transit;
 
-- c. de mogelijkheid van een latere overdracht door het Hof en de verzoekende Staat.
+- d) No authorization is required if the person is transported by air and no landing is scheduled on the territory of the transit State;
 
-7. Wanneer een Staat die Partij is van het Hof een verzoek tot overdracht van een persoon ontvangt, tevens een verzoek ontvangt van een Staat tot uitlevering van dezelfde persoon voor andere gedragingen dan die welke het misdrijf opleveren waarvoor het Hof overdracht van de persoon verlangt:
+- e) If an unscheduled landing occurs on the territory of the transit State, that State may require a request for transit from the Court as provided for in subparagraph (b). The transit State shall detain the person being transported until the request for transit is received and the transit is effected, provided that detention for purposes of this subparagraph may not be extended beyond 96 hours from the unscheduled landing unless the request is received within that time.
 
-- a. dient de aangezochte Staat, indien deze geen bestaande internationale verplichting heeft tot uitlevering van de persoon aan de verzoekende Staat, voorrang te geven aan het verzoek van het Hof;
+4. If the person sought is being proceeded against or is serving a sentence in the requested State for a crime different from that for which surrender to the Court is sought, the requested State, after making its decision to grant the request, shall consult with the Court.
 
-- b. dient de aangezochte Staat, indien deze geen bestaande internationale verplichting heeft tot uitlevering van de persoon aan de verzoekende Staat, te beslissen of hij de persoon overdraagt aan het Hof of de persoon uitlevert aan de verzoekende Staat. Bij zijn besluit neemt de aangezochte Staat alle relevante factoren in overweging, waaronder de factoren vermeld in het zesde lid, waarbij speciale aandacht wordt besteed aan de desbetreffende aard en de ernst van de gedragingen in kwestie.
+##### Article 90. Competing requests
 
-8. Wanneer overeenkomstig een kennisgeving ingevolge dit artikel het Hof heeft beslist dat een zaak niet-ontvankelijk is en daarna uitlevering aan de verzoekende Staat wordt geweigerd, stelt de aangezochte Staat het Hof van deze beslissing in kennis.
+1. A State Party which receives a request from the Court for the surrender of a person under [article 89](https://wetten.overheid.nl/BWBV0001489) shall, if it also receives a request from any other State for the extradition of the same person for the same conduct which forms the basis of the crime for which the Court seeks the person's surrender, notify the Court and the requesting State of that fact.
 
-##### Artikel 91. Inhoud van het verzoek tot aanhouding en overdracht
+2. Where the requesting State is a State Party, the requested State shall give priority to the request from the Court if:
 
-1. Een verzoek tot aanhouding en overdracht wordt schriftelijk gedaan. In dringende gevallen kan een verzoek worden gedaan via elk communicatiemiddel dat daarvan een schriftelijke vastlegging kan opleveren mits het verzoek wordt bevestigd langs de in [artikel 87, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=87&z=2024-06-13&g=2024-06-13), vermelde weg.
+- a) The Court has, pursuant to [article 18](https://wetten.overheid.nl/BWBV0001489) or [19](https://wetten.overheid.nl/BWBV0001489), made a determination that the case in respect of which surrender is sought is admissible and that determination takes into account the investigation or prosecution conducted by the requesting State in respect of its request for extradition; or
 
-2. In het geval van een verzoek tot aanhouding en overdracht van een persoon tegen wie een bevel tot aanhouding is uitgevaardigd door de Kamer van vooronderzoek ingevolge [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=58&z=2024-06-13&g=2024-06-13), bevat het verzoek of wordt het ondersteund door:
+- b) The Court makes the determination described in subparagraph a) pursuant to the requested State's notification under paragraph 1.
 
-- a. het signalement van de opgeëiste persoon, dat toereikend is voor diens identificatie en informatie met betrekking tot de plaats waar die persoon zich waarschijnlijk bevindt;
+3. Where a determination under paragraph 2 a) has not been made, the requested State may, at its discretion, pending the determination of the Court under paragraph 2 b), proceed to deal with the request for extradition from the requesting State but shall not extradite the person until the Court has determined that the case is inadmissible. The Court's determination shall be made on an expedited basis.
 
-- b. een kopie van het bevel tot aanhouding; en
+4. If the requesting State is a State not Party to this Statute the requested State, if it is not under an international obligation to extradite the person to the requesting State, shall give priority to the request for surrender from the Court, if the Court has determined that the case is admissible.
 
-- c. de vereiste documenten, verklaringen of informatie om te voldoen aan de procedure van overdracht in de aangezochte Staat geldende vereisten, met dien verstande dat die vereisten niet zwaarder mogen zijn dan die welke gelden voor verzoeken tot uitlevering ingevolge verdragen of regelingen tussen de aangezochte Staat en andere Staten en, zo mogelijk, minder zwaar dienen te zijn, gelet op de bijzondere aard van het Hof.
+5. Where a case under paragraph 4 has not been determined to be admissible by the Court, the requested State may, at its discretion, proceed to deal with the request for extradition from the requesting State.
 
-3. Wanneer een verzoek tot aanhouding en overdracht een persoon betreft die reeds is veroordeeld, bevat het verzoek of wordt het ondersteund door:
+6. In cases where paragraph 4 applies except that the requested State is under an existing international obligation to extradite the person to the requesting State not Party to this Statute, the requested State shall determine whether to surrender the person to the Court or extradite the person to the requesting State. In making its decision, the requested State shall consider all the relevant factors, including but not limited to:
 
-- a. een kopie van elk bevel tot aanhouding met betrekking tot die persoon;
+- a) The respective dates of the requests;
 
-- b. een kopie van veroordelende einduitspraak; en
+- b) The interests of the requesting State including, where relevant, whether the crime was committed in its territory and the nationality of the victims and of the person sought; and
 
-- c. informatie om aan te tonen dat de opgeëiste persoon degene is die in veroordelende einduitspraak wordt bedoeld; en
+- c) The possibility of subsequent surrender between the Court and the requesting State.
 
-- d. indien de opgeëiste persoon is veroordeeld, een kopie van de opgelegde einduitspraak en, in geval van een veroordeling tot gevangenisstraf, een verklaring ten aanzien van de tijd die reeds is uitgezeten en de tijd die nog moet worden uitgezeten.
+7. Where a State Party which receives a request from the Court for the surrender of a person also receives a request from any State for the extradition of the same person for conduct other than that which constitutes the crime for which the Court seeks the person's surrender:
 
-4. Op verzoek van het Hof pleegt een Staat die Partij is met het Hof overleg, hetzij in het algemeen, hetzij met betrekking tot een bepaalde zaak, over vereisten ingevolge zijn nationale recht die ingevolge het tweede lid, onder c, van toepassing kunnen zijn. Bij dit overleg geeft de Staat die Partij is het Hof advies over de specifieke vereisten van zijn nationale recht.
+- a) The requested State shall, if it is not under an existing international obligation to extradite the person to the requesting State, give priority to the request from the Court;
 
-##### Artikel 92. Voorlopige aanhouding
+- b) The requested State shall, if it is under an existing international obligation to extradite the person to the requesting State, determine whether to surrender the person to the Court or to extradite the person to the requesting State. In making its decision, the requested State shall consider all the relevant factors, including but not limited to those set out in paragraph 6, but shall give special consideration to the relative nature and gravity of the conduct in question.
 
-1. In dringende gevallen is het Hof bevoegd de voorlopige aanhouding van de opgeëiste persoon te verzoeken, hangende de indiening van het verzoek tot overdracht en de in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=91&z=2024-06-13&g=2024-06-13) vermelde documenten die het verzoek dienen te ondersteunen.
+8. Where pursuant to a notification under this article, the Court has determined a case to be inadmissible, and subsequently extradition to the requesting State is refused, the requested State shall notify the Court of this decision.
 
-2. Het verzoek tot voorlopige aanhouding wordt gedaan via een communicatiemiddel dat daarvan een schriftelijke vastlegging kan opleveren en bevat:
+##### Article 91. Contents of request for arrest and surrender
 
-- a. het signalement van de opgeëiste persoon, dat toereikend is voor diens identificatie en informatie met betrekking tot de plaats waar die persoon zich waarschijnlijk bevindt;
+1. A request for arrest and surrender shall be made in writing. In urgent cases, a request may be made by any medium capable of delivering a written record, provided that the request shall be confirmed through the channel provided for in [article 87, paragraph 1 a)](https://wetten.overheid.nl/BWBV0001489).
 
-- b. een beknopt overzicht van de misdrijven waarvan aanhouding van de persoon wordt verzocht en van de feiten die beweerdelijk die misdrijven opleveren, met inbegrip van, zo mogelijk, de datum en plaats van het misdrijf;
+2. In the case of a request for the arrest and surrender of a person for whom a warrant of arrest has been issued by the Pre-Trial Chamber under [article 58](https://wetten.overheid.nl/BWBV0001489), the request shall contain or be supported by:
 
-- c. een verklaring over het bestaan van een bevel tot aanhouding of een veroordelende einduitspraak ten aanzien van de opgeëiste persoon; en
+- a) Information describing the person sought, sufficient to identify the person, and information as to that person's probable location;
 
-- d. een verklaring dat een verzoek tot overdracht van de opgeëiste persoon zal volgen.
+- b) A copy of the warrant of arrest; and
 
-3. Een persoon die voorlopig is aangehouden kan uit hechtenis worden vrijgelaten indien de aangezochte Staat geen verzoek tot overdracht noch de in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=91&z=2024-06-13&g=2024-06-13) vermelde documenten ter ondersteuning van het verzoek heeft ontvangen binnen de in het Reglement van proces- en bewijsvoering vastgelegde termijnen. De persoon kan echter instemmen met overdracht voor afloop van deze termijn indien dit mogelijk is ingevolge het recht van de aangezochte Staat. In dit geval gaat de aangezochte Staat zo spoedig mogelijk over tot overdracht van de persoon aan het Hof.
+- c) Such documents, statements or information as may be necessary to meet the requirements for the surrender process in the requested State, except that those requirements should not be more burdensome than those applicable to requests for extradition pursuant to treaties or arrangements between the requested State and other States and should, if possible, be less burdensome, taking into account the distinct nature of the Court.
 
-4. Het feit dat de opgeëiste persoon overeenkomstig het derde lid uit hechtenis is vrijgelaten doet geen afbreuk aan de latere aanhouding en overdracht van die persoon indien het verzoek tot overdracht en de documenten ter ondersteuning van het verzoek op een later tijdstip worden aangeboden.
+3. In the case of a request for the arrest and surrender of a person already convicted, the request shall contain or be supported by:
 
-##### Artikel 93. Andere vormen van samenwerking
+- a) A copy of any warrant of arrest for that person;
 
-1. Staten die Partij zijn voldoen overeenkomstig het in dit Deel bepaalde en ingevolge procedures van nationaal recht aan verzoeken van het Hof om de volgende rechtshulp te verlenen met betrekking tot onderzoek of vervolging:
+- b) A copy of the judgement of conviction;
 
-- a. de identificatie en lokalisering van personen of goederen;
+- c) Information to demonstrate that the person sought is the one referred to in the judgement of conviction; and
 
-- b. bewijsgaring, met inbegrip van getuigenverklaringen onder ede en het leveren van bewijs, met inbegrip van verklaringen van deskundigen en door het Hof benodigde rapporten;
+- d) If the person sought has been sentenced, a copy of the sentence imposed and, in the case of a sentence for imprisonment, a statement of any time already served and the time remaining to be served.
 
-- c. het ondervragen van een persoon tegen wie een onderzoek loopt of die wordt vervolgd;
+4. Upon the request of the Court, a State Party shall consult with the Court, either generally or with respect to a specific matter, regarding any requirements under its national law that may apply under paragraph 2 c). During the consultations, the State Party shall advise the Court of the specific requirements of its national law.
 
-- d. de betekening van documenten, met inbegrip van gerechtelijke documenten;
+##### Article 92. Provisional arrest
 
-- e. de vergemakkelijking van de vrijwillige verschijning van personen voor het Hof als getuigen of deskundigen;
+1. In urgent cases, the Court may request the provisional arrest of the person sought, pending presentation of the request for surrender and the documents supporting the request as specified in [article 91](https://wetten.overheid.nl/BWBV0001489).
 
-- f. de tijdelijke overbrenging van personen zoals voorzien in het zevende lid;
+2. The request for provisional arrest shall be made by any medium capable of delivering a written record and shall contain:
 
-- g. een gerechtelijke plaatsopneming of onderzoek van locaties, met inbegrip van het opgraven van lijken en onderzoek van plaatsen waar zich graven bevinden;
+- a) Information describing the person sought, sufficient to identify the person, and information as to that person's probable location;
 
-- h. het uitvoeren van huiszoekingen en inbeslagnemingen;
+- b) A concise statement of the crimes for which the person's arrest is sought and of the facts which are alleged to constitute those crimes, including, where possible, the date and location of the crime;
 
-- i. het verstrekken van verslagen en documenten, met inbegrip van officiële akten en documenten;
+- c) A statement of the existence of a warrant of arrest or a judgement of conviction against the person sought; and
 
-- j. de bescherming van slachtoffers en getuigen en instandhouding van bewijs;
+- d) A statement that a request for surrender of the person sought will follow.
 
-- k. de identificatie, opsporing en bevriezing of inbeslagneming van de door middel van het misdrijf verkregen opbrengst, goederen en vermogensbestanddelen en de bij misdrijven gebruikte hulpmiddelen, ten behoeve van een eventuele verbeurdverklaring, zonder dat hiermee afbreuk wordt gedaan aan de rechten van derden te goeder trouw; en
+3. A person who is provisionally arrested may be released from custody if the requested State has not received the request for surrender and the documents supporting the request as specified in [article 91](https://wetten.overheid.nl/BWBV0001489) within the time limits specified in the Rules of Procedure and Evidence. However, the person may consent to surrender before the expiration of this period if permitted by the law of the requested State. In such a case, the requested State shall proceed to surrender the person to the Court as soon as possible.
 
-- l. elke andere vorm van rechtshulp die niet is verboden bij de wet van de aangezochte Staat, teneinde het onderzoek en de vervolging van misdrijven waarover het Hof rechtsmacht heeft te vergemakkelijken.
+4. The fact that the person sought has been released from custody pursuant to paragraph 3 shall not prejudice the subsequent arrest and surrender of that person if the request for surrender and the documents supporting the request are delivered at a later date.
 
-2. Het Hof heeft de bevoegdheid te waarborgen dat een getuige of deskundige die voor het Hof verschijnt niet door het Hof zal worden vervolgd, in hechtenis gehouden of onderworpen aan enigerlei beperking van zijn persoonlijke vrijheid met betrekking tot een handelen of nalaten voorafgaande aan het vertrek van die persoon uit de aangezochte Staat.
+##### Article 93. Other forms of cooperation
 
-3. Indien de uitvoering van een bijzondere maatregel terzake van rechtshulp omschreven in een verzoek dat ingevolge het eerste lid is ingediend in de aangezochte Staat verboden is op grond van een bestaand, fundamenteel, algemeen geldend rechtsbeginsel, pleegt de aangezochte Staat onverwijld overleg met het Hof teneinde te trachten de zaak op te lossen. Bij dit overleg dient te worden overwogen of de rechtshulp op een andere wijze of onder voorwaarden kan worden verleend. Indien dit overleg niet leidt tot oplossing van de zaak, wijzigt het Hof het verzoek voorzover dit noodzakelijk is.
+1. States Parties shall, in accordance with the provisions of this Part and under procedures of national law, comply with requests by the Court to provide the following assistance in relation to investigations or prosecutions:
 
-4. Overeenkomstig [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=72&z=2024-06-13&g=2024-06-13) kan een Staat die Partij is een verzoek om rechtshulp slechts geheel of gedeeltelijk weigeren, indien het verzoek het overleggen van documenten of de openbaarmaking van bewijs betreft waarbij zijn nationale veiligheid in het geding is.
+- a) The identification and whereabouts of persons or the location of items;
 
-5. Alvorens een verzoek om rechtshulp ingevolge het eerste lid, onder l, te weigeren, overweegt de aangezochte Staat of de rechtshulp onder bepaalde voorwaarden kan worden verleend of dat de rechtshulp op een later tijdstip of op andere wijze kan worden verleend, met dien verstande dat indien het Hof of de Aanklager de rechtshulp onder voorwaarden aanvaardt, het Hof of de Aanklager zich daaraan dient te houden.
+- b) The taking of evidence, including testimony under oath, and the production of evidence, including expert opinions and reports necessary to the Court;
 
-6. Indien een verzoek om rechtshulp wordt geweigerd, stelt de aangezochte Staat die Partij is het Hof of de Aanklager onverwijld in kennis van de redenen voor een dergelijke weigering.
+- c) The questioning of any person being investigated or prosecuted;
 
-- a. Het Hof is bevoegd de tijdelijke overbrenging te verzoeken voor identificatiedoeleinden of ter verkrijging van getuigenverklaringen of andere rechtshulp van een persoon die in hechtenis verkeert. De persoon kan worden overgebracht indien aan de volgende voorwaarden is voldaan:
+- d) The service of documents, including judicial documents;
 
-  - i. de persoon geeft vrijelijk zijn toestemming voor de overbrenging na omtrent de gevolgen daarvan behoorlijk te zijn ingelicht; en
+- e) Facilitating the voluntary appearance of persons as witnesses or experts before the Court;
 
-  - ii. de aangezochte Staat stemt in met de overbrenging, onder de voorwaarden die die Staat en het Hof overeen kunnen komen.
+- f) The temporary transfer of persons as provided in paragraph 7;
 
-- b. De persoon die wordt overgebracht blijft in hechtenis. Wanneer het doel van de overbrenging is vervuld, zendt het Hof de persoon onverwijld terug naar de aangezochte Staat.
+- g) The examination of places or sites, including the exhumation and examination of grave sites;
 
-- a. Het Hof draagt zorg voor de vertrouwelijkheid van documenten en informatie behoudens voorzover vereist voor het onderzoek en de in het verzoek vermelde procedure.
+- h) The execution of searches and seizures;
 
-- b. De aangezochte Staat kan, wanneer dit noodzakelijk is, documenten of informatie aan de Aanklager verstrekken op basis van vertrouwelijkheid. De Aanklager is bevoegd deze in dat geval slechts te gebruiken om nieuw bewijs te verkrijgen.
+- i) The provision of records and documents, including official records and documents;
 
-- c. De aangezochte Staat kan, uit eigen beweging of op verzoek van de Aanklager, in een later stadium toestemming geven tot openbaarmaking van die documenten of informatie. Deze kunnen in dat geval worden aangewend als bewijs ingevolge het bepaalde in de [Delen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&z=2024-06-13&g=2024-06-13) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&z=2024-06-13&g=2024-06-13) en overeenkomstig het Reglement van proces- en bewijsvoering.
+- j) The protection of victims and witnesses and the preservation of evidence;
 
-- a.
+- k) The identification, tracing and freezing or seizure of proceeds, property and assets and instrumentalities of crimes for the purpose of eventual forfeiture, without prejudice to the rights of bona fide third parties; and
 
-  - i. In het geval dat een Staat die Partij is concurrerende verzoeken, anders dan tot overdracht of uitlevering, ontvangt van het Hof en van een andere Staat ingevolge een internationale verplichting, tracht de Staat die Partij is in overleg met het Hof en de andere Staat, aan beide verzoeken te voldoen, waarbij zo nodig het ene of het andere verzoek wordt uitgesteld of aan de inwilliging daarvan voorwaarden worden verbonden.
+- l) Any other type of assistance which is not prohibited by the law of the requested State, with a view to facilitating the investigation and prosecution of crimes within the jurisdiction of the Court.
 
-  - ii. Indien zulks onmogelijk blijkt, wordt de concurrentie van verzoeken opgelost overeenkomstig de in [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=90&z=2024-06-13&g=2024-06-13) vastgelegde beginselen.
+2. The Court shall have the authority to provide an assurance to a witness or an expert appearing before the Court that he or she will not be prosecuted, detained or subjected to any restriction of personal freedom by the Court in respect of any act or omission that preceded the departure of that person from the requested State.
 
-- b. Indien echter het verzoek van het Hof informatie, goederen of personen betreft die zich bevinden in de feitelijke macht van een derde Staat of een internationale organisatie ingevolge een internationale overeenkomst, stellen de aangezochte Staten het Hof daarvan in kennis en richt het Hof zijn verzoek tot de derde Staat of de internationale organisatie.
+3. Where execution of a particular measure of assistance detailed in a request presented under paragraph 1, is prohibited in the requested State on the basis of an existing fundamental legal principle of general application, the requested State shall promptly consult with the Court to try to resolve the matter. In the consultations, consideration should be given to whether the assistance can be rendered in another manner or subject to conditions. If after consultations the matter cannot be resolved, the Court shall modify the request as necessary.
 
-- a. Het Hof is bevoegd op verzoek samenwerking en rechtshulp te verlenen aan een Staat die Partij is en een onderzoek uitvoert naar of een onderzoek ter zitting houdt ter zake van gedragingen die een misdrijf opleveren waarover het Hof rechtsmacht bezit of die een ernstig misdrijf opleveren ingevolge het nationale recht van de verzoekende Staat.
+4. In accordance with [article 72](https://wetten.overheid.nl/BWBV0001489), a State Party may deny a request for assistance, in whole or in part, only if the request concerns the production of any documents or disclosure of evidence which relates to its national security.
 
-- b.
+5. Before denying a request for assistance under paragraph 1 (l), the requested State shall consider whether the assistance can be provided subject to specified conditions, or whether the assistance can be provided at a later date or in an alternative manner, provided that if the Court or the Prosecutor accepts the assistance subject to conditions, the Court or the Prosecutor shall abide by them.
 
-  - i. De onder a voorziene rechtshulp omvat, onder meer:
+6. If a request for assistance is denied, the requested State Party shall promptly inform the Court or the Prosecutor of the reasons for such denial.
 
-    - 1. de overdracht van verklaringen, documenten of andere vormen van bewijs die zijn verkregen in de loop van een door het Hof gehouden onderzoek of een terechtzitting; en
+7. - a) The Court may request the temporary transfer of a person in custody for purposes of identification or for obtaining testimony or other assistance. The person may be transferred if the following conditions are fulfilled:
 
-    - 2. het ondervragen van personen die zich in hechtenis bevinden ingevolge bevel van het Hof;
+   - (i) The person freely gives his or her informed consent to the transfer; and
 
-  - ii. In geval van rechtshulp ingevolge het onder b, onderdeel i., onder 1, bepaalde:
+   - (ii) The requested State agrees to the transfer, subject to such conditions as that State and the Court may agree.
 
-    - 1. indien de documenten of andere vormen van bewijs zijn verkregen met rechtshulp van een Staat, is voor een dergelijke overdracht de toestemming van die Staat vereist;
+- b) The person being transferred shall remain in custody. When the purposes of the transfer have been fulfilled, the Court shall return the person without delay to the requested State.
 
-    - 2. indien de verklaringen, documenten of andere vormen van bewijs zijn verstrekt door een getuige of een deskundige, geldt voor een dergelijke overdracht het bepaalde in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=68&z=2024-06-13&g=2024-06-13).
+8. - a) The Court shall ensure the confidentiality of documents and information, except as required for the investigation and proceedings described in the request.
 
-- c. Het Hof is bevoegd onder de in dit lid vermelde voorwaarden te voldoen aan een rechtshulpverzoek ingevolge dit lid van een Staat die geen partij is bij dit Statuut.
+- b) The requested State may, when necessary, transmit documents or information to the Prosecutor on a confidential basis. The Prosecutor may then use them solely for the purpose of generating new evidence.
 
-##### Artikel 94. Uitstel van inwilliging van een verzoek hangende een lopend onderzoek of vervolging
+- c) The requested State may, on its own motion or at the request of the Prosecutor, subsequently consent to the disclosure of such documents or information. They may then be used as evidence pursuant to the provisions of [Parts 5](https://wetten.overheid.nl/BWBV0001489) and [6](https://wetten.overheid.nl/BWBV0001489) and in accordance with the Rules of Procedure and Evidence.
 
-1. Indien de onmiddellijke inwilliging van een verzoek een lopend onderzoek of vervolging in een andere zaak dan die waarop het verzoek betrekking heeft zou belemmeren, kan de aangezochte Staat de inwilliging van het verzoek opschorten gedurende een bepaalde met het Hof overeengekomen tijd. Het uitstel dient echter niet langer te zijn dan noodzakelijk ter voltooiing van het desbetreffende onderzoek of de vervolging in de aangezochte Staat. Alvorens een beslissing tot opschorting te nemen overweegt de aangezochte Staat of de rechtshulp onmiddellijk onder bepaalde voorwaarden kan worden verleend.
+9. - a)
 
-2. Indien een beslissing tot opschorting wordt genomen ingevolge het eerste lid, is de Aanklager echter bevoegd te verzoeken om maatregelen tot de instandhouding van bewijs ingevolge [artikel 93, eerste lid, onder j](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2024-06-13&g=2024-06-13).
+   - (i) In the event that a State Party receives competing requests, other than for surrender or extradition, from the Court and from another State pursuant to an international obligation, the State Party shall endeavour, in consultation with the Court and the other State, to meet both requests, if necessary by postponing or attaching conditions to one or the other request.
 
-##### Artikel 95. Uitstel van inwilliging van een verzoek bij betwisting van ontvankelijkheid
+   - (ii) Failing that, competing requests shall be resolved in accordance with the principles established in [article 90](https://wetten.overheid.nl/BWBV0001489).
 
-Onverminderd het bepaalde in [artikel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=5&artikel=53&z=2024-06-13&g=2024-06-13), kan in het geval waarin het Hof een betwisting van ontvankelijkheid ingevolge de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=18&z=2024-06-13&g=2024-06-13) of [19](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=19&z=2024-06-13&g=2024-06-13) onderzoekt, de aangezochte Staat de inwilliging van een verzoek ingevolge dit Deel uitstellen, hangende een beslissing door het Hof, tenzij het Hof uitdrukkelijk heeft bepaald dat de Aanklager kan voortgaan met het vergaren van dat bewijs ingevolge de artikelen 18 of 19.
+- b) Where, however, the request from the Court concerns information, property or persons which are subject to the control of a third State or an international organization by virtue of an international agreement, the requested States shall so inform the Court and the Court shall direct its request to the third State or international organization.
 
-##### Artikel 96. Inhoud van een verzoek om andere vormen van rechtshulp ingevolge [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2024-06-13&g=2024-06-13)
+10. - a) The Court may, upon request, cooperate with and provide assistance to a State Party conducting an investigation into or trial in respect of conduct which constitutes a crime within the jurisdiction of the Court or which constitutes a serious crime under the national law of the requesting State.
 
-1. Een verzoek om andere vormen van rechtshulp als bedoeld in [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2024-06-13&g=2024-06-13) wordt schriftelijk gedaan. In dringende gevallen kan een verzoek worden gedaan via elk communicatiemiddel dat daarvan een schriftelijke vastlegging kan opleveren, mits het verzoek bevestigd wordt langs de in [artikel 87, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=87&z=2024-06-13&g=2024-06-13), onder a, vermelde weg.
+- b)
 
-2. Het verzoek bevat, waar toepasselijk, of wordt ondersteund door het volgende:
+   - (i) The assistance provided under subparagraph a) shall include, *inter alia*:
 
-- a. een beknopt overzicht van het doel van het verzoek en de verzochte rechtshulp, met inbegrip van de juridische basis en de gronden voor het verzoek;
+      - a) The transmission of statements, documents or other types of evidence obtained in the course of an investigation or a trial conducted by the Court; and
 
-- b. zo gedetailleerd mogelijke informatie over de plaats of identificatie van een persoon of plaats die moet worden gevonden of geïdentificeerd teneinde het mogelijk te maken de verzochte rechtshulp te verlenen;
+      - b) The questioning of any person detained by order of the Court;
 
-- c. een beknopt overzicht van de essentiële feiten waarop het verzoek is gestoeld;
+   - (ii) In the case of assistance under subparagraph b) (i) a):
 
-- d. de redenen voor en nadere gegevens omtrent de te volgen procedure of in acht te nemen vereisten;
+      - a) If the documents or other types of evidence have been obtained with the assistance of a State, such transmission shall require the consent of that State;
 
-- e. de informatie die is vereist ingevolge het recht van de aangezochte Staat ter inwilliging van het verzoek; en
+      - b) If the statements, documents or other types of evidence have been provided by a witness or expert, such transmission shall be subject to the provisions of [article 68](https://wetten.overheid.nl/BWBV0001489).
 
-- f. alle overige informatie die ter zake doende is teneinde het mogelijk te maken de verzochte rechtshulp te verlenen.
+- c) The Court may, under the conditions set out in this paragraph, grant a request for assistance under this paragraph from a State which is not a Party to this Statute.
 
-3. Op verzoek van het Hof pleegt een Staat die Partij is met het Hof overleg, hetzij in het algemeen, hetzij met betrekking tot een bepaalde zaak, over vereisten ingevolge zijn nationale recht die ingevolge het tweede lid, onder e, van toepassing kunnen zijn. Tijdens het overleg geeft de Staat die Partij is het Hof advies over de specifieke vereisten van zijn nationale recht.
+##### Article 94. Postponement of execution of a request in respect of ongoing investigation or prosecution
 
-4. Het in dit artikel bepaalde geldt, waar van toepassing, eveneens ten aanzien van een aan het Hof gericht rechtshulpverzoek.
+1. If the immediate execution of a request would interfere with an ongoing investigation or prosecution of a case different from that to which the request relates, the requested State may postpone the execution of the request for a period of time agreed upon with the Court. However, the postponement shall be no longer than is necessary to complete the relevant investigation or prosecution in the requested State. Before making a decision to postpone, the requested State should consider whether the assistance may be immediately provided subject to certain conditions.
 
-##### Artikel 97. Overleg
+2. If a decision to postpone is taken pursuant to paragraph 1, the Prosecutor may, however, seek measures to preserve evidence, pursuant to [article 93, paragraph 1 j)](https://wetten.overheid.nl/BWBV0001489).
 
-Wanneer een Staat die Partij is een verzoek ingevolge dit Deel ontvangt in verband waarmee de Staat problemen signaleert die de inwilliging van het verzoek kunnen belemmeren of verhinderen, pleegt die Staat onverwijld overleg met het Hof teneinde de zaak op te lossen. Dergelijke problemen kunnen onder meer omvatten:
+##### Article 95. Postponement of execution of a request in respect of an admissibility challenge
 
-- a. onvoldoende informatie van inwilliging van het verzoek;
+Where there is an admissibility challenge under consideration by the Court pursuant to [article 18](https://wetten.overheid.nl/BWBV0001489) or [19](https://wetten.overheid.nl/BWBV0001489), the requested State may postpone the execution of a request under this Part pending a determination by the Court, unless the Court has specifically ordered that the Prosecutor may pursue the collection of such evidence pursuant to article 18 or 19.
 
-- b. in het geval van een verzoek tot overdracht, het feit dat ondanks uiterste inspanningen de opgeëiste persoon niet kan worden gelokaliseerd of dat uit het verrichte onderzoek is gebleken dat de persoon in de Staat van hechtenis klaarblijkelijk niet de in het bevel genoemde persoon is; of
+##### Article 96. Contents of request for other forms of assistance under article 93
 
-- c. het feit dat inwilliging van het verzoek in zijn huidige vorm voor de aangezochte Staat zou meebrengen dat deze in strijd zou handelen met een reeds eerder bestaande verplichting op grond van een verdrag die de Staat is aangegaan ten opzichte van een andere Staat.
+1. A request for other forms of assistance referred to in [article 93](https://wetten.overheid.nl/BWBV0001489) shall be made in writing. In urgent cases, a request may be made by any medium capable of delivering a written record, provided that the request shall be confirmed through the channel provided for in [article 87, paragraph 1 a)](https://wetten.overheid.nl/BWBV0001489).
 
-##### Artikel 98. Samenwerking bij afstand van immuniteit en toestemming tot overdracht
+2. The request shall, as applicable, contain or be supported by the following:
 
-1. Het Hof is niet bevoegd een verzoek tot overdracht of rechtshulp te handhaven wanneer dit voor de aangezochte Staat zou meebrengen dat deze handelt op een wijze die niet verenigbaar is met zijn verplichtingen ingevolge internationaal recht ten aanzien van de staats- of diplomatieke immuniteit van een persoon of de goederen van een derde Staat, tenzij het Hof eerst de samenwerking van die derde Staat kan verkrijgen tot het afstand doen van de immuniteit.
+- a) A concise statement of the purpose of the request and the assistance sought, including the legal basis and the grounds for the request;
 
-2. Het Hof is niet bevoegd een verzoek tot overdracht te handhaven wanneer dit van de aangezochte Staat zou meebrengen dat deze handelt op een wijze die onverenigbaar is met zijn verplichtingen ingevolge internationale overeenkomsten ten gevolge waarvan de toestemming van een zendstaat is vereist van overdracht aan het Hof van een persoon van die Staat, tenzij het Hof eerst de samenwerking van de zendstaat kan verkrijgen voor het verlenen van toestemming van overdracht.
+- b) As much detailed information as possible about the location or identification of any person or place that must be found or identified in order for the assistance sought to be provided;
 
-##### Artikel 99. Inwilliging van verzoeken ingevolge de [artikelen 93](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2024-06-13&g=2024-06-13) en [96](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=96&z=2024-06-13&g=2024-06-13)
+- c) A concise statement of the essential facts underlying the request;
 
-1. Een verzoek om rechtshulp wordt ingewilligd overeenkomstig de toepasselijke procedure ingevolge het recht van de aangezochte Staat en, tenzij het krachtens dat recht is verboden, op de wijze die in het verzoek is aangegeven, met inbegrip van het volgen van de daarin uiteengezette procedures of het toestaan aan in het verzoek vermelde personen aanwezig te zijn en te helpen bij de uitvoering.
+- d) The reasons for and details of any procedure or requirement to be followed;
 
-2. In geval van een dringend verzoek worden de documenten of het bewijs in antwoord daarop, op verzoek van het Hof, met spoed verzonden.
+- e) Such information as may be required under the law of the requested State in order to execute the request; and
 
-3. Antwoorden van de aangezochte Staat worden overgebracht in hun oorspronkelijke taal en vorm.
+- f) Any other information relevant in order for the assistance sought to be provided.
 
-4. Onverminderd de overige artikelen in dit Deel, is de Aanklager, wanneer dit noodzakelijk is voor een succesvolle uitvoering van een verzoek dat kan worden ingewilligd zonder dwangmaatregelen, met inbegrip van met name ondervraging van of het afnemen van getuigenverklaringen van een persoon op vrijwillige basis, met inbegrip van de inwilliging daarvan buiten aanwezigheid van de autoriteiten van de aangezochte Staat indien dit essentieel is voor inwilliging van het verzoek, en het onderzoek van een openbare locatie of andere openbare plaats zonder dat er iets in wordt gewijzigd, bevoegd aan een dergelijk verzoek direct op het grondgebied van een Staat als volgt uitvoering te geven:
+3. Upon the request of the Court, a State Party shall consult with the Court, either generally or with respect to a specific matter, regarding any requirements under its national law that may apply under paragraph 2 e). During the consultations, the State Party shall advise the Court of the specific requirements of its national law.
 
-- a. wanneer de aangezochte Staat die Partij is een Staat is op wiens grondgebied het misdrijf beweerdelijk is gepleegd en de ontvankelijkheid ingevolge de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=18&z=2024-06-13&g=2024-06-13) of [19](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=19&z=2024-06-13&g=2024-06-13) is vastgesteld, is de Aanklager bevoegd aan een dergelijk verzoek direct uitvoering te geven na overleg, in alle gevallen waarin dit mogelijk is, met de aangezochte Staat die Partij is;
+4. The provisions of this article shall, where applicable, also apply in respect of a request for assistance made to the Court.
 
-- b. in andere gevallen, is de Aanklager bevoegd aan een dergelijk verzoek uitvoering te geven na overleg met de aangezochte Staat die Partij is en met inachtneming van redelijke voorwaarden of zorgen die door die Staat die Partij is naar voren zijn gebracht. Wanneer de aangezochte Staat die Partij is problemen signaleert bij de inwilliging van een verzoek ingevolge dit onderdeel pleegt deze onverwijld overleg met het Hof teneinde de zaak op te lossen.
+##### Article 97. Consultations
 
-5. Bepalingen die een persoon die door het Hof wordt gehoord of ondervraagd het recht geven ingevolge [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=6&artikel=72&z=2024-06-13&g=2024-06-13) een beroep te doen op beperkingen die zijn bedoeld om te verhinderen dat vertrouwelijke informatie met betrekking tot de nationale verdediging of veiligheid wordt openbaargemaakt, gelden ook voor de inwilliging van verzoeken tot rechtshulp ingevolge dit artikel.
+Where a State Party receives a request under this Part in relation to which it identifies problems which may impede or prevent the execution of the request, that State shall consult with the Court without delay in order to resolve the matter. Such problems may include, *inter alia*:
 
-##### Artikel 100. Kosten
+- a) Insufficient information to execute the request;
 
-1. De gewone kosten voor inwilliging van een verzoek op het grondgebied van de aangezochte Staat worden gedragen door die Staat, behoudens de volgende kosten, die worden gedragen door het Hof:
+- b) In the case of a request for surrender, the fact that despite best efforts, the person sought cannot be located or that the investigation conducted has determined that the person in the requested State is clearly not the person named in the warrant; or
 
-- a. kosten verbonden aan de reizen en de veiligheid van getuigen en deskundigen of de overdracht ingevolge [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=93&z=2024-06-13&g=2024-06-13) van personen in hechtenis;
+- c) The fact that execution of the request in its current form would require the requested State to breach a pre-existing treaty obligation undertaken with respect to another State.
 
-- b. kosten van vertaling, vertolking en transcriptie:
+##### Article 98. Cooperation with respect to waiver of immunity and consent to surrender
 
-- c. reis- en verblijfkosten van rechters, de Aanklager, de Substituut-Aanklager, de Griffier, de Substituut-Griffier en personeel van organen van het Hof;
+1. The Court may not proceed with a request for surrender or assistance which would require the requested State to act inconsistently with its obligations under international law with respect to the State or diplomatic immunity of a person or property of a third State, unless the Court can first obtain the cooperation of that third State for the waiver of the immunity.
 
-- d. kosten van deskundigenadviezen of -rapporten waarom het Hof heeft verzocht;
+2. The Court may not proceed with a request for surrender which would require the requested State to act inconsistently with its obligations under international agreements pursuant to which the consent of a sending State is required to surrender a person of that State to the Court, unless the Court can first obtain the cooperation of the sending State for the giving of consent for the surrender.
 
-- e. kosten verbonden aan het vervoer van een persoon die aan het Hof wordt overgedragen door een Staat van hechtenis; en
+##### Article 99. Execution of requests under articles 93 and 96
 
-- f. na overleg, buitengewone kosten die uit de inwilliging van een verzoek kunnen voortvloeien.
+1. Requests for assistance shall be executed in accordance with the relevant procedure under the law of the requested State and, unless prohibited by such law, in the manner specified in the request, including following any procedure outlined therein or permitting persons specified in the request to be present at and assist in the execution process.
 
-2. Het in het eerste lid bepaalde geldt, waar van toepassing, voor verzoeken aan het Hof van Staten die Partij zijn. In dat geval draagt het Hof de gewone kosten van uitvoering.
+2. In the case of an urgent request, the documents or evidence produced in response shall, at the request of the Court, be sent urgently.
 
-##### Artikel 101. Specialiteitsbeginsel
+3. Replies from the requested State shall be transmitted in their original language and form.
 
-1. Een persoon die ingevolge dit Statuut aan het Hof is overgedragen wordt niet vervolgd, gestraft of in hechtenis gehouden voor gedragingen begaan voorafgaand aan de overdracht, anders dan de gedragingen of de gedragslijn die de grondslag vormen respectievelijk vormt van de misdrijven waarvoor die persoon is overgedragen.
+4. Without prejudice to other articles in this Part, where it is necessary for the successful execution of a request which can be executed without any compulsory measures, including specifically the interview of or taking evidence from a person on a voluntary basis, including doing so without the presence of the authorities of the requested State Party if it is essential for the request to be executed, and the examination without modification of a public site or other public place, the Prosecutor may execute such request directly on the territory of a State as follows:
 
-2. Het Hof is bevoegd de Staat die de persoon aan het Hof heeft overgedragen, te verzoeken afstand te doen van het in het eerste lid bepaalde, en verstrekt zo nodig aanvullende informatie overeenkomstig [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=91&z=2024-06-13&g=2024-06-13). Staten die Partij zijn hebben de bevoegdheid aan het Hof te verklaren afstand te doen en dienen te streven naar het doen van afstand.
+- a) When the State Party requested is a State on the territory of which the crime is alleged to have been committed, and there has been a determination of admissibility pursuant to [article 18](https://wetten.overheid.nl/BWBV0001489) or [19](https://wetten.overheid.nl/BWBV0001489), the Prosecutor may directly execute such request following all possible consultations with the requested State Party;
 
-##### Artikel 102. Gebruik van termen
+- b) In other cases, the Prosecutor may execute such request following consultations with the requested State Party and subject to any reasonable conditions or concerns raised by that State Party. Where the requested State Party identifies problems with the execution of a request pursuant to this subparagraph it shall, without delay, consult with the Court to resolve the matter.
 
-Van toepassing van dit Statuut:
+5. Provisions allowing a person heard or examined by the Court under [article 72](https://wetten.overheid.nl/BWBV0001489) to invoke restrictions designed to prevent disclosure of confidential information connected with national security shall also apply to the execution of requests for assistance under this article.
 
-- a. betekent „overdracht" het ter beschikking stellen van een persoon door een Staat aan het Hof ingevolge dit Statuut.
+##### Article 100. Costs
 
-- b. betekent „uitlevering" het ter beschikking stellen van een persoon door een Staat aan een andere Staat, zoals voorzien bij verdrag, conventie of nationale wetgeving.
+1. The ordinary costs for execution of requests in the territory of the requested State shall be borne by that State, except for the following, which shall be borne by the Court:
 
-## DEEL 10. TENUITVOERLEGGING
+- a) Costs associated with the travel and security of witnesses and experts or the transfer under [article 93](https://wetten.overheid.nl/BWBV0001489) of persons in custody;
 
-##### Artikel 103. Rol van Staten bij de tenuitvoerlegging van uitspraken tot gevangenisstraf
+- b) Costs of translation, interpretation and transcription;
 
-- a. Een uitspraak tot gevangenisstraf wordt ondergaan in de Staat die door het Hof wordt aangewezen uit een lijst van Staten die het Hof te kennen hebben gegeven bereid te zijn veroordeelden te aanvaarden.
+- c) Travel and subsistence costs of the judges, the Prosecutor, the Deputy Prosecutors, the Registrar, the Deputy Registrar and staff of any organ of the Court;
 
-- b. Op het moment waarop een Staat zich bereid verklaart veroordeelden te aanvaarden kan een Staat voorwaarden aan zijn aanvaarding verbinden, goedgekeurd door het Hof en in overeenstemming met dit Deel.
+- d) Costs of any expert opinion or report requested by the Court;
 
-- c. Een in een bepaalde zaak aangewezen Staat deelt het Hof onverwijld mee of hij de aanwijzing van het Hof aanvaardt.
+- e) Costs associated with the transport of a person being surrendered to the Court by a custodial State; and
 
-- a. De Staat van tenuitvoerlegging stelt het Hof in kennis van alle omstandigheden, met inbegrip van de toepassing van ingevolge het eerste lid overeengekomen voorwaarden, die de voorwaarden of de duur van de gevangenisstraf concreet zouden kunnen beïnvloeden. Het Hof wordt ten minste 45 dagen tevoren in kennis gesteld van dergelijke bekende of voorzienbare omstandigheden. Gedurende deze periode onderneemt de Staat van tenuitvoerlegging geen stappen die afbreuk zouden kunnen doen aan zijn verplichtingen ingevolge [artikel 110](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=10&artikel=110&z=2024-06-13&g=2024-06-13).
+- f) Following consultations, any extraordinary costs that may result from the execution of a request.
 
-- b. Indien het Hof de onder a vermelde omstandigheden niet kan aanvaarden, stelt het de Staat van tenuitvoerlegging daarvan in kennis en handelt het vervolgens overeenkomstig [artikel 104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=10&artikel=104&z=2024-06-13&g=2024-06-13).
+2. The provisions of paragraph 1 shall, as appropriate, apply to requests from States Parties to the Court. In that case, the Court shall bear the ordinary costs of execution.
 
-3. Bij de uitoefening van zijn recht een aanwijzing te doen ingevolge het eerste lid neemt het Hof het volgende in aanmerking:
+##### Article 101. Rule of speciality
 
-- a. het beginsel dat Staten die Partij zijn de verantwoordelijkheid van tenuitvoerlegging van uitspraken tot gevangenisstraf dienen te dragen in overeenstemming met de beginselen van een evenredige verdeling als voorzien in het Reglement van proces- en bewijsvoering;
+1. A person surrendered to the Court under this Statute shall not be proceeded against, punished or detained for any conduct committed prior to surrender, other than the conduct or course of conduct which forms the basis of the crimes for which that person has been surrendered.
 
-- b. de toepassing van algemeen ingevolge internationale verdragen aanvaarde maatstaven van behandeling van gevangenen;
+2. The Court may request a waiver of the requirements of paragraph 1 from the State which surrendered the person to the Court and, if necessary, the Court shall provide additional information in accordance with [article 91](https://wetten.overheid.nl/BWBV0001489). States Parties shall have the authority to provide a waiver to the Court and should endeavour to do so.
 
-- c. de mening van de veroordeelde; en
+##### Article 102. Use of terms
 
-- d. de nationaliteit van de veroordeelde;
+For the purposes of this Statute:
 
-- e. alle overige factoren met betrekking tot de omstandigheden van het misdrijf of de veroordeelde, of de doelmatige tenuitvoerlegging van de uitspraak die relevant kunnen zijn bij de aanwijzing van de Staat van tenuitvoerlegging.
+- a) “surrender” means the delivering up of a person by a State to the Court, pursuant to this Statute.
 
-4. Indien geen Staat wordt aangewezen ingevolge het eerste lid, wordt de opgelegde gevangenisstraf ondergaan in een gevangenisinstelling die door het Gastland ter beschikking is gesteld overeenkomstig de voorwaarden vermeld in de zetelovereenkomst als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=1&artikel=3&z=2024-06-13&g=2024-06-13). In dat geval worden de kosten voortvloeiend uit de tenuitvoerlegging van de uitspraak waarbij gevangenisstraf is opgelegd gedragen door het Hof.
+- b) “extradition” means the delivering up of a person by one State to another as provided by treaty, convention or national legislation.
 
-##### Artikel 104. Wijziging in de aanwijzing van de Staat van tenuitvoerlegging
+## PART 10. ENFORCEMENT
 
-1. Het Hof is te allen tijde bevoegd te besluiten een veroordeelde over te brengen naar een gevangenis van een andere Staat.
+##### Article 103. Role of States in enforcement of sentences of imprisonment
 
-2. Een veroordeelde kan te allen tijde het Hof verzoeken te worden overgebracht uit de Staat van tenuitvoerlegging.
+1. - a) A sentence of imprisonment shall be served in a State designated by the Court from a list of States which have indicated to the Court their willingness to accept sentenced persons.
 
-##### Artikel 105. Tenuitvoerlegging van de uitspraak
+- b) At the time of declaring its willingness to accept sentenced persons, a State may attach conditions to its acceptance as agreed by the Court and in accordance with this Part.
 
-1. Onverminderd de voorwaarden die een Staat overeenkomstig [artikel 103, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=10&artikel=103&z=2024-06-13&g=2024-06-13), kan hebben gesteld, is de uitspraak waarbij gevangenisstraf is opgelegd bindend voor de Staten die Partij zijn, en mogen zij deze in geen geval wijzigen.
+- c) A State designated in a particular case shall promptly inform the Court whether it accepts the Court's designation.
 
-2. Alleen het Hof heeft het recht te beslissen over een verzoek tot beroep of herziening. De Staat van tenuitvoerlegging belet een veroordeelde niet een verzoek daartoe te doen.
+2. - a) The State of enforcement shall notify the Court of any circumstances, including the exercise of any conditions agreed under paragraph 1, which could materially affect the terms or extent of the imprisonment. The Court shall be given at least 45 days' notice of any such known or foreseeable circumstances. During this period, the State of enforcement shall take no action that might prejudice its obligations under [article 110](https://wetten.overheid.nl/BWBV0001489).
 
-##### Artikel 106. Toezicht op de tenuitvoerlegging van uitspraken tot en voorwaarden van gevangenisstraf
+- b) Where the Court cannot agree to the circumstances referred to in subparagraph a), it shall notify the State of enforcement and proceed in accordance with [article 104, paragraph 1](https://wetten.overheid.nl/BWBV0001489).
 
-1. De tenuitvoerlegging van een uitspraak tot gevangenisstraf is onderworpen aan het toezicht van het Hof en dient in overeenstemming te zijn met in wijde kring aanvaarde maatstaven voor de behandeling van gevangenen krachtens internationale verdragen.
+3. In exercising its discretion to make a designation under paragraph 1, the Court shall take into account the following:
 
-2. De voorwaarden van gevangenisstraf zijn onderworpen aan het recht van de Staat van tenuitvoerlegging en dienen verenigbaar te zijn met in wijde kring aanvaarde beginselen ingevolge internationale verdragen voor de behandeling van gevangenen; in geen geval zijn die voorwaarden gunstiger of ongunstiger dan die welke gelden voor gevangenen die voor vergelijkbare misdrijven in de Staat van tenuitvoerlegging veroordeeld zijn.
+- a) The principle that States Parties should share the responsibility for enforcing sentences of imprisonment, in accordance with principles of equitable distribution, as provided in the Rules of Procedure and Evidence;
 
-3. Mededelingen tussen een veroordeelde en het Hof worden niet belemmerd en zijn vertrouwelijk.
+- b) The application of widely accepted international treaty standards governing the treatment of prisoners;
 
-##### Artikel 107. Overbrenging van de persoon nadat de uitspraak is tenuitvoergelegd
+- c) The views of the sentenced person;
 
-1. Nadat de uitspraak is tenuitvoergelegd kan een persoon die geen onderdaan is van de Staat van tenuitvoerlegging, overeenkomstig het recht van de Staat van tenuitvoerlegging worden overgebracht naar een Staat die verplicht is hem toe te laten, of naar een andere Staat die erin toestemt hem toe te laten, waarbij rekening wordt gehouden met de wensen van de persoon die naar die Staat wordt overgebracht, tenzij de Staat van tenuitvoerlegging de persoon toestemming geeft om op zijn grondgebied te blijven.
+- d) The nationality of the sentenced person;
 
-2. Indien geen Staat de kosten draagt die voortvloeien uit de overbrenging van de persoon naar een andere Staat ingevolge het eerste lid, worden die kosten gedragen door het Hof.
+- e) Such other factors regarding the circumstances of the crime or the person sentenced, or the effective enforcement of the sentence, as may be appropriate in designating the State of enforcement.
 
-3. Onverminderd het bepaalde in [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=10&artikel=108&z=2024-06-13&g=2024-06-13) kan de Staat van tenuitvoerlegging de persoon ook overeenkomstig zijn nationale recht uitleveren of op andere wijze overleveren aan de Staat die om de uitlevering of overdracht van de persoon heeft verzocht ten behoeve van een terechtzitting of de tenuitvoerlegging van een uitspraak.
+4. If no State is designated under paragraph 1, the sentence of imprisonment shall be served in a prison facility made available by the host State, in accordance with the conditions set out in the headquarters agreement referred to in [article 3, paragraph 2](https://wetten.overheid.nl/BWBV0001489). In such a case, the costs arising out of the enforcement of a sentence of imprisonment shall be borne by the Court.
 
-##### Artikel 108. Beperking van de vervolging of de bestraffing van andere misdrijven
+##### Article 104. Change in designation of State of enforcement
 
-1. Een veroordeelde die in hechtenis is van de Staat van tenuitvoerlegging wordt niet blootgesteld aan vervolging, bestraffing of uitlevering aan een derde Staat voor gedragingen begaan voorafgaand aan de terbeschikkingstelling van die persoon aan de Staat van tenuitvoerlegging, tenzij deze vervolging, bestraffing of uitlevering door het Hof is goedgekeurd op verzoek van de Staat van tenuitvoerlegging.
+1. The Court may, at any time, decide to transfer a sentenced person to a prison of another State.
 
-2. Het Hof beslist over de zaak na de mening van de veroordeelde te hebben gehoord.
+2. A sentenced person may, at any time, apply to the Court to be transferred from the State of enforcement.
 
-3. Het eerste lid houdt op van toepassing te zijn indien de veroordeelde vrijwillig meer dan 30 dagen verblijft op het grondgebied van de Staat van tenuitvoerlegging nadat hij zijn volledige door het Hof opgelegde straf heeft ondergaan, of naar het grondgebied van die Staat terugkeert nadat hij dit heeft verlaten.
+##### Article 105. Enforcement of the sentence
 
-##### Artikel 109. Tenuitvoerlegging van boetes en maatregelen ter verbeurdverklaring
+1. Subject to conditions which a State may have specified in accordance with [article 103, paragraph 1 b)](https://wetten.overheid.nl/BWBV0001489), the sentence of imprisonment shall be binding on the States Parties, which shall in no case modify it.
 
-1. Staten die Partij zijn geven uitvoering aan door het Hof krachtens [Deel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=7&z=2024-06-13&g=2024-06-13) bevolen boetes of verbeurdverklaringen, onverminderd de rechten van derden te goeder trouw, een en ander overeenkomstig de ingevolge hun nationale recht geldende procedure.
+2. The Court alone shall have the right to decide any application for appeal and revision. The State of enforcement shall not impede the making of any such application by a sentenced person.
 
-2. Indien een Staat die Partij is niet in staat is uitvoering te geven aan een bevel tot verbeurdverklaring, treft hij maatregelen tot verhaal van de waarde van de opbrengsten, goederen of vermogensbestanddelen waarvan het Hof de verbeurdverklaring heeft bevolen, onverminderd de rechten van derden te goeder trouw.
+##### Article 106. Supervision of enforcement of sentences and conditions of imprisonment
 
-3. Goederen of de opbrengsten van de verkoop van onroerend goed of, waar dit van toepassing is, de verkoop van andere goederen die door een Staat die Partij is worden verkregen als gevolg van zijn tenuitvoerlegging van een uitspraak van het Hof, worden aan het Hof overgemaakt.
+1. The enforcement of a sentence of imprisonment shall be subject to the supervision of the Court and shall be consistent with widely accepted international treaty standards governing treatment of prisoners.
 
-##### Artikel 110. Heroverweging door het Hof inzake strafvermindering
+2. The conditions of imprisonment shall be governed by the law of the State of enforcement and shall be consistent with widely accepted international treaty standards governing treatment of prisoners; in no case shall such conditions be more or less favourable than those available to prisoners convicted of similar offences in the State of enforcement.
 
-1. De Staat van tenuitvoerlegging stelt de persoon niet in vrijheid voordat de door het Hof opgelegde duur van de uitspraak is verstreken.
+3. Communications between a sentenced person and the Court shall be unimpeded and confidential.
 
-2. Alleen het Hof heeft het recht te beslissen over een mogelijke strafvermindering, en het beslist daarover na de persoon te hebben gehoord.
+##### Article 107. Transfer of the person upon completion of sentence
 
-3. Wanneer de persoon tweederde van de einduitspraak heeft ondergaan of, 25 jaar in geval van levenslange gevangenisstraf, heroverweegt het Hof de uitspraak om te bepalen of dit dient te worden verminderd. Eerder vindt geen heroverweging plaats.
+1. Following completion of the sentence, a person who is not a national of the State of enforcement may, in accordance with the law of the State of enforcement, be transferred to a State which is obliged to receive him or her, or to another State which agrees to receive him or her, taking into account any wishes of the person to be transferred to that State, unless the State of enforcement authorizes the person to remain in its territory.
 
-4. Bij een heroverweging ingevolge het derde lid is het Hof bevoegd de straf te verminderen, indien het vaststelt dat een of meer van de volgende factoren aanwezig zijn:
+2. If no State bears the costs arising out of transferring the person to another State pursuant to paragraph 1, such costs shall be borne by the Court.
 
-- a. vroegtijdige en voortdurende bereidheid van de persoon om het Hof samenwerking te verlenen bij zijn onderzoeken en vervolgingen;
+3. Subject to the provisions of [article 108](https://wetten.overheid.nl/BWBV0001489), the State of enforcement may also, in accordance with its national law, extradite or otherwise surrender the person to a State which has requested the extradition or surrender of the person for purposes of trial or enforcement of a sentence.
 
-- b. vrijwillige samenwerking van de persoon om de tenuitvoerlegging van de uitspraken en bevelen van het Hof in andere zaken mogelijk te maken, en in het bijzonder door samenwerking te verlenen bij het traceren van vermogensbestanddelen terzake waarvan bevelen tot boetes, verbeurdverklaringen of herstelbetalingen gelden die ten behoeve van slachtoffers kunnen worden aangewend; of
+##### Article 108. Limitation on the prosecution or punishment of other offences
 
-- c. andere factoren die op een duidelijke en significante verandering in de omstandigheden wijzen die voldoende is om een strafvermindering te rechtvaardigen, zoals voorzien in het Reglement van proces- en bewijsvoering.
+1. A sentenced person in the custody of the State of enforcement shall not be subject to prosecution or punishment or to extradition to a third State for any conduct engaged in prior to that person's delivery to the State of enforcement, unless such prosecution, punishment or extradition has been approved by the Court at the request of the State of enforcement.
 
-5. Indien het Hof bij zijn eerste heroverweging ingevolge het derde lid vaststelt dat het niet passend is de straf te verminderen, heroverweegt het daarna de kwestie van strafvermindering met de tussenpozen en onder toepassing van de maatstaven waarin het Reglement van proces- en bewijsvoering voorziet.
+2. The Court shall decide the matter after having heard the views of the sentenced person.
 
-##### Artikel 111. Ontsnapping
+3. Paragraph 1 shall cease to apply if the sentenced person remains voluntarily for more than 30 days in the territory of the State of enforcement after having served the full sentence imposed by the Court, or returns to the territory of that State after having left it.
 
-Indien een veroordeelde uit hechtenis ontsnapt en vlucht uit de Staat van tenuitvoerlegging kan die Staat, na overleg met het Hof, verzoeken om overdracht van de persoon door de Staat waarin de persoon zich bevindt ingevolge bestaande bilaterale of multilaterale akkoorden, of kan hij aan het Hof verzoeken om overdracht van de persoon te vragen. Het Hof is bevoegd te bepalen dat de persoon ter beschikking wordt gesteld aan de Staat waarin hij de straf onderging of aan een andere door het Hof aangewezen Staat.
+##### Article 109. Enforcement of fines and forfeiture measures
 
-## DEEL 11. VERGADERING VAN STATEN DIE PARTIJ ZIJN
+1. States Parties shall give effect to fines or forfeitures ordered by the Court under [Part 7](https://wetten.overheid.nl/BWBV0001489), without prejudice to the rights of bona fide third parties, and in accordance with the procedure of their national law.
 
-##### Artikel 112. Vergadering van Staten die Partij zijn
+2. If a State Party is unable to give effect to an order for forfeiture, it shall take measures to recover the value of the proceeds, property or assets ordered by the Court to be forfeited, without prejudice to the rights of bona fide third parties.
 
-1. Een Vergadering van Staten die Partij zijn bij dit Statuut wordt hierbij ingesteld. Elke Staat die Partij is heeft één vertegenwoordiger in de Vergadering, die zich kan doen vergezellen door plaatsvervangers en adviseurs. Andere Staten, die dit Statuut of de Slotakte hebben ondertekend kunnen als waarnemers de Vergadering bijwonen.
+3. Property, or the proceeds of the sale of real property or, where appropriate, the sale of other property, which is obtained by a State Party as a result of its enforcement of a judgement of the Court shall be transferred to the Court.
 
-2. De Vergadering dient:
+##### Article 110. Review by the Court concerning reduction of sentence
 
-- a. aanbevelingen van de Voorbereidende Commissie te behandelen en, voorzover dit in aanmerking komt, aan te nemen;
+1. The State of enforcement shall not release the person before expiry of the sentence pronounced by the Court.
 
-- b. inzicht te verstrekken in het beheer aan het Presidium, de Aanklager en de Griffier met betrekking tot het dagelijks bestuur van het Hof;
+2. The Court alone shall have the right to decide any reduction of sentence, and shall rule on the matter after having heard the person.
 
-- c. de rapporten en activiteiten van het ingevolge het derde lid opgerichte Bureau te behandelen en in verband daarmee passende stappen te ondernemen;
+3. When the person has served two thirds of the sentence, or 25 years in the case of life imprisonment, the Court shall review the sentence to determine whether it should be reduced. Such a review shall not be conducted before that time.
 
-- d. de begroting voor het Hof te behandelen en daarover te beslissen;
+4. In its review under paragraph 3, the Court may reduce the sentence if it finds that one or more of the following factors are present:
 
-- e. te beslissen over een eventuele wijziging overeenkomstig [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=36&z=2024-06-13&g=2024-06-13) van het aantal rechters;
+- a) The early and continuing willingness of the person to cooperate with the Court in its investigations and prosecutions;
 
-- f. vragen te behandelen inzake niet-samenwerking, ingevolge [artikel 87, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=9&artikel=87&z=2024-06-13&g=2024-06-13);
+- b) The voluntary assistance of the person in enabling the enforcement of the judgements and orders of the Court in other cases, and in particular providing assistance in locating assets subject to orders of fine, forfeiture or reparation which may be used for the benefit of victims; or
 
-- g. alle overige taken uit te oefenen die in overeenstemming zijn met dit Statuut of het Reglement van proces en bewijsvoering.
+- c) Other factors establishing a clear and significant change of circumstances sufficient to justify the reduction of sentence, as provided in the Rules of Procedure and Evidence.
 
-- a. De Vergadering beschikt over een Bureau dat bestaat uit een President, twee Vice-Presidenten en 18 leden die voor een ambtstermijn van drie jaar door de Vergadering worden gekozen.
+5. If the Court determines in its initial review under paragraph 3 that it is not appropriate to reduce the sentence, it shall thereafter review the question of reduction of sentence at such intervals and applying such criteria as provided for in the Rules of Procedure and Evidence.
 
-- b. Het Bureau dient te beantwoorden aan maatstaven van evenredige vertegenwoordiging, waarbij in het bijzonder rekening wordt gehouden met een billijke geografische verdeling en het adequaat verdisconteren van de voornaamste rechtsstelsels van de wereld.
+##### Article 111. Escape
 
-- c. Het Bureau vergadert zo vaak als nodig is, doch ten minste eens per jaar. Het staat de Vergadering ter zijde bij de vervulling van haar taken.
+If a convicted person escapes from custody and flees the State of enforcement, that State may, after consultation with the Court, request the person's surrender from the State in which the person is located pursuant to existing bilateral or multilateral arrangements, or may request that the Court seek the person's surrender, in accordance with Part 9. It may direct that the person be delivered to the State in which he or she was serving the sentence or to another State designated by the Court.
 
-4. De Vergadering kan de hulporganen instellen die zij noodzakelijk acht, waaronder een onafhankelijk toezichthoudende instelling ter inspectie, evaluatie en onderzoek van het Hof teneinde de doeltreffendheid en de financieel verantwoorde aanwending daarvan te bevorderen.
+## PART 11. ASSEMBLY OF STATES PARTIES
 
-5. De President van het Hof, de Aanklager en de Griffier of hun vertegenwoordigers kunnen, waar dit passend is, deelnemen aan bijeenkomsten van de Vergadering en van het Bureau.
+##### Article 112. Assembly of States Parties
 
-6. De Vergadering komt eens per jaar bijeen op de zetel van het Hof of op het Hoofdkantoor van de Verenigde Naties en houdt, wanneer de omstandigheden dit vereisen, speciale zittingen. Behoudens voorzover dit Statuut anders bepaalt worden speciale zittingen door het Bureau ambtshalve bijeengeroepen of op verzoek van een derde van de Staten die Partij zijn.
+1. An Assembly of States Parties to this Statute is hereby established. Each State Party shall have one representative in the Assembly who may be accompanied by alternates and advisers. Other States which have signed this Statute or the Final Act may be observers in the Assembly.
 
-7. Elke Staat die Partij is heeft één stem. Getracht wordt beslissingen in de Vergadering en in het Bureau bij consensus te nemen. Indien geen consensus kan worden bereikt, worden, tenzij dit Statuut anders bepaalt:
+2. The Assembly shall:
 
-- a. beslissingen over inhoudelijke kwesties goedgekeurd bij een tweederde meerderheid van degenen die aanwezig zijn en hun stem uitbrengen, met dien verstande dat een absolute meerderheid van Staten die Partij zijn het quorum vormt voor stemming;
+- a) Consider and adopt, as appropriate, recommendations of the Preparatory Commission;
 
-- b. beslissingen over procedurekwesties genomen bij een gewone meerderheid van de aanwezige Staten die Partij zijn en hun stem uitbrengen.
+- b) Provide management oversight to the Presidency, the Prosecutor and the Registrar regarding the administration of the Court;
 
-8. Een Staat die Partij is en die zijn financiële bijdragen in de kosten van het Hof niet op tijd heeft betaald, heeft geen stem in de Vergadering en in het Bureau indien het bedrag van de achterstallige betaling gelijk is aan of hoger dan het bedrag van de bijdragen dat over de twee volle voorafgaande jaren verschuldigd is. Niettemin kan de Vergadering een dergelijke Staat die Partij is toestaan zijn stem in de Vergadering en in het Bureau uit te brengen indien zij ervan overtuigd is dat het uitblijven van de betaling te wijten is aan omstandigheden buiten de macht van de Staat die Partij is.
+- c) Consider the reports and activities of the Bureau established under paragraph 3 and take appropriate action in regard thereto;
 
-9. De Vergadering stelt haar eigen huishoudelijk reglement vast.
+- d) Consider and decide the budget for the Court;
 
-10. De officiële en werktalen van de Vergadering zijn die van de Algemene Vergadering van de Verenigde Naties.
+- e) Decide whether to alter, in accordance with [article 36](https://wetten.overheid.nl/BWBV0001489), the number of judges;
 
-## DEEL 12. FINANCIERING
+- f) Consider pursuant to [article 87, paragraphs 5 and 7](https://wetten.overheid.nl/BWBV0001489), any question relating to non-cooperation;
 
-##### Artikel 113. Financiële regelingen
+- g) Perform any other function consistent with this Statute or the Rules of Procedure and Evidence.
 
-Tenzij uitdrukkelijk anders bepaald, zijn op alle financiële zaken in verband met het Hof en de bijeenkomsten van de Vergadering van Staten die Partij zijn, met inbegrip van haar Bureau en hulporganen, dit Statuut en de financiële regelingen en regels aangenomen door de Vergadering van Staten die Partij zijn, van toepassing.
+3. - a) The Assembly shall have a Bureau consisting of a President, two Vice-Presidents and 18 members elected by the Assembly for three-year terms.
 
-##### Artikel 114. Betaling van kosten
+- b) The Bureau shall have a representative character, taking into account, in particular, equitable geographical distribution and the adequate representation of the principal legal systems of the world.
 
-Kosten van het Hof en de Vergadering van Staten die Partij zijn, met inbegrip van haar Bureau en hulporganen, worden betaald uit de fondsen van het Hof.
+- c) The Bureau shall meet as often as necessary, but at least once a year. It shall assist the Assembly in the discharge of its responsibilities.
 
-##### Artikel 115. Fondsen van het Hof en van de Vergadering van Staten die Partij zijn
+4. The Assembly may establish such subsidiary bodies as may be necessary, including an independent oversight mechanism for inspection, evaluation and investigation of the Court, in order to enhance its efficiency and economy.
 
-De kosten van het Hof en de Vergadering van Staten die Partij zijn, met inbegrip van haar Bureau en hulporganen, als voorzien in de door de Vergadering van Staten die Partij zijn vastgestelde begroting, worden gefinancierd uit de volgende bronnen:
+5. The President of the Court, the Prosecutor and the Registrar or their representatives may participate, as appropriate, in meetings of the Assembly and of the Bureau.
 
-- a. vastgestelde bijdragen van de Staten die Partij zijn;
+6. The Assembly shall meet at the seat of the Court or at the Headquarters of the United Nations once a year and, when circumstances so require, hold special sessions. Except as otherwise specified in this Statute, special sessions shall be convened by the Bureau on its own initiative or at the request of one third of the States Parties.
 
-- b. fondsen verschaft door de Verenigde Naties, afhankelijk van de goedkeuring van de Algemene Vergadering, in het bijzonder met betrekking tot de kosten die zijn gemaakt ten gevolge van aangiften door de Veiligheidsraad.
+7. Each State Party shall have one vote. Every effort shall be made to reach decisions by consensus in the Assembly and in the Bureau. If consensus cannot be reached, except as otherwise provided in the Statute:
 
-##### Artikel 116. Vrijwillige bijdragen
+- a) Decisions on matters of substance must be approved by a two-thirds majority of those present and voting provided that an absolute majority of States Parties constitutes the quorum for voting;
 
-Onverminderd [artikel 115](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=12&artikel=115&z=2024-06-13&g=2024-06-13) is het Hof bevoegd vrijwillige bijdragen van Regeringen, internationale organisaties, particulieren, ondernemingen en andere lichamen, te ontvangen en aan te wenden als aanvullende fondsen, overeenkomstig de desbetreffende maatstaven die zijn aangenomen door de Vergadering van Staten die Partij zijn.
+- b) Decisions on matters of procedure shall be taken by a simple majority of States Parties present and voting.
 
-##### Artikel 117. Vaststelling van bijdragen
+8. A State Party which is in arrears in the payment of its financial contributions towards the costs of the Court shall have no vote in the Assembly and in the Bureau if the amount of its arrears equals or exceeds the amount of the contributions due from it for the preceding two full years. The Assembly may, nevertheless, permit such a State Party to vote in the Assembly and in the Bureau if it is satisfied that the failure to pay is due to conditions beyond the control of the State Party.
 
-De bijdragen van Staten die Partij zijn worden vastgesteld overeenkomstig een overeengekomen schaal van vaststelling, gebaseerd op de door de Verenigde Naties voor haar normale begroting aangenomen schaal die is aangepast overeenkomstig de beginselen waarop die schaal is gebaseerd.
+9. The Assembly shall adopt its own rules of procedure.
 
-##### Artikel 118. Jaarlijkse controle
+10. The official and working languages of the Assembly shall be those of the General Assembly of the United Nations.
 
-De documenten, boeken en rekeningen van het Hof, met inbegrip van zijn jaarrekeningen, worden jaarlijks gecontroleerd door een onafhankelijke accountant.
+## PART 12. FINANCING
 
-## DEEL 13. SLOTBEPALINGEN
+##### Article 113. Financial Regulations
 
-##### Artikel 119. Geschillenbeslechting
+Except as otherwise specifically provided, all financial matters related to the Court and the meetings of the Assembly of States Parties, including its Bureau and subsidiary bodies, shall be governed by this Statute and the Financial Regulations and Rules adopted by the Assembly of States Parties.
 
-1. Elk geschil met betrekking tot de rechterlijke taken van het Hof wordt beslecht door de beslissing van het Hof.
+##### Article 114. Payment of expenses
 
-2. Elk ander geschil tussen twee of meer Staten die Partij zijn met betrekking tot de interpretatie of toepassing van dit Statuut dat niet binnen drie maanden na de aanvang daarvan door onderhandelingen is beslecht, wordt verwezen naar de Vergadering van Staten die Partij zijn. De Vergadering kan zelf trachten het geschil te beslechten of aanbevelingen doen inzake andere middelen ter beslechting van het geschil, met inbegrip van verwijzing naar het Internationaal Gerechtshof overeenkomstig het Statuut van dat Hof.
+Expenses of the Court and the Assembly of States Parties, including its Bureau and subsidiary bodies, shall be paid from the funds of the Court.
 
-##### Artikel 120. Voorbehouden
+##### Article 115. Funds of the Court and of the Assembly of States Parties
 
-Geen voorbehouden kunnen worden gemaakt ter zake van dit Statuut.
+The expenses of the Court and the Assembly of States Parties, including its Bureau and subsidiary bodies, as provided for in the budget decided by the Assembly of States Parties, shall be provided by the following sources:
 
-##### Artikel 121. Wijzigingen
+- a) Assessed contributions made by States Parties;
 
-1. Na het verstrijken van een periode van zeven jaar na de inwerkingtreding van dit Statuut kan een Staat die Partij is wijzigingen daarin voorstellen. De tekst van een voorgestelde wijziging wordt aan de Secretaris-Generaal van de Verenigde Naties voorgelegd, die deze onverwijld aan alle Staten die Partij zijn toezendt.
+- b) Funds provided by the United Nations, subject to the approval of the General Assembly, in particular in relation to the expenses incurred due to referrals by the Security Council.
 
-2. Niet eerder dan drie maanden na de datum van kennisgeving beslist de Vergadering van Staten die Partij zijn in haar volgende bijeenkomst bij meerderheid van hen die aanwezig zijn en hun stem uitbrengen of zij het voorstel in behandeling nemen. De Vergadering kan het voorstel rechtstreeks afhandelen of een Herzieningsconferentie bijeenroepen indien de zaak in kwestie dit wettigt.
+##### Article 116. Voluntary contributions
 
-3. De aanneming van een wijziging in een bijeenkomst van de Vergadering van Staten die Partij zijn of in een Herzieningsconferentie waarover geen consensus kan worden bereikt, vereist een tweederde meerderheid van Staten die Partij zijn.
+Without prejudice to [article 115](https://wetten.overheid.nl/BWBV0001489), the Court may receive and utilize, as additional funds, voluntary contributions from Governments, international organizations, individuals, corporations and other entities, in accordance with relevant criteria adopted by the Assembly of States Parties.
 
-4. Behoudens het vijfde lid, wordt een wijziging voor alle Staten die Partij zijn van kracht een jaar nadat zevenachtste van hen hun akten van bekrachtiging of aanvaarding bij de Secretaris-Generaal van de Verenigde Naties heeft neergelegd.
+##### Article 117. Assessment of contributions
 
-5. Een wijziging in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2024-06-13&g=2024-06-13), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=6&z=2024-06-13&g=2024-06-13), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=7&z=2024-06-13&g=2024-06-13) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=8&z=2024-06-13&g=2024-06-13) van dit Statuut wordt voor die Staten die Partij zijn en de wijziging hebben aanvaard van kracht een jaar na de nederlegging van hun akten van bekrachtiging of aanvaarding. Ten aanzien van een Staat die Partij is en de wijziging niet heeft aanvaard, oefent het Hof zijn rechtsmacht niet uit met betrekking tot een misdrijf waarop de wijziging betrekking heeft indien dit is gepleegd door onderdanen van die Staat die Partij is of op het grondgebied daarvan.
+The contributions of States Parties shall be assessed in accordance with an agreed scale of assessment, based on the scale adopted by the United Nations for its regular budget and adjusted in accordance with the principles on which that scale is based.
 
-6. Indien een wijziging door zevenachtste van de Staten die Partij zijn is aanvaard overeenkomstig het vierde lid, kan een Staat die Partij is en de wijziging niet heeft aanvaard dit Statuut met onmiddellijke ingang opzeggen, onverminderd [artikel 127, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=13&artikel=127&z=2024-06-13&g=2024-06-13), doch onder toepassing van artikel 127, tweede lid, door een kennisgeving binnen een jaar nadat die wijziging van kracht werd.
+##### Article 118. Annual audit
 
-7. De Secretaris-Generaal van de Verenigde Naties stelt alle Staten die Partij zijn in kennis van een wijziging die in een bijeenkomst van de Vergadering van Staten die Partij zijn of in een Herzieningsconferentie is aangenomen.
+The records, books and accounts of the Court, including its annual financial statements, shall be audited annually by an independent auditor.
 
-##### Artikel 122. Wijzigingen in bepalingen van institutionele aard
+## PART 13. FINAL CLAUSES
 
-1. Wijzigingen in bepalingen van het Statuut die van louter institutionele aard zijn, te weten [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=35&z=2024-06-13&g=2024-06-13), [artikel 36, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=36&z=2024-06-13&g=2024-06-13), [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=37&z=2024-06-13&g=2024-06-13), [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=38&z=2024-06-13&g=2024-06-13), [artikel 39, eerste lid (eerste twee volzinnen), tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=39&z=2024-06-13&g=2024-06-13), [artikel 42, vierde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=42&z=2024-06-13&g=2024-06-13), [artikel 43, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=43&z=2024-06-13&g=2024-06-13), en de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=44&z=2024-06-13&g=2024-06-13), [46](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=46&z=2024-06-13&g=2024-06-13), [47](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=47&z=2024-06-13&g=2024-06-13) en [49](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=49&z=2024-06-13&g=2024-06-13) kunnen te allen tijde door iedere Staat die Partij is worden voorgesteld, onverminderd [artikel 121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=13&artikel=121&z=2024-06-13&g=2024-06-13). De tekst van een voorgestelde wijziging wordt voorgelegd aan de Secretaris-Generaal van de Verenigde Naties of aan degene die daartoe door de Vergadering van Staten die Partij zijn is aangewezen, die deze onverwijld toezendt aan alle Staten die Partij zijn en aan anderen die deelnemen aan de Vergadering.
+##### Article 119. Settlement of disputes
 
-2. Wijzigingen ingevolge dit artikel waarover geen consensus kan worden bereikt worden aangenomen door de Vergadering van Staten die Partij zijn of door een Herzieningsconferentie bij een tweederde meerderheid van Staten die Partij zijn. Dergelijke wijzigingen treden voor alle Staten die Partij zijn in werking zes maanden nadat deze door de Vergadering of, door de Conferentie zijn aangenomen.
+1. Any dispute concerning the judicial functions of the Court shall be settled by the decision of the Court.
 
-##### Artikel 123. Herziening van het Statuut
+2. Any other dispute between two or more States Parties relating to the interpretation or application of this Statute which is not settled through negotiations within three months of their commencement shall be referred to the Assembly of States Parties. The Assembly may itself seek to settle the dispute or may make recommendations on further means of settlement of the dispute, including referral to the International Court of Justice in conformity with the Statute of that Court.
 
-1. Zeven jaar na de inwerkingtreding van dit Statuut roept de Secretaris-Generaal van de Verenigde Naties een Herzieningsconferentie bijeen teneinde wijzigingen in dit Statuut te behandelen. Een dergelijke herziening kan de lijst van misdrijven vervat in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2024-06-13&g=2024-06-13) omvatten, maar is niet tot deze lijst beperkt. De Conferentie staat open voor degenen die deelnemen aan de Vergadering van Staten die Partij zijn en op dezelfde voorwaarden.
+##### Article 120. Reservations
 
-2. Daarna roept, op verzoek van een Staat die Partij is en ten behoeve van de in het eerste lid vermelde doeleinden, de Secretaris-Generaal van de Verenigde Naties, na goedkeuring door een meerderheid van Staten die Partij zijn, een Herzieningsconferentie bijeen.
+No reservations may be made to this Statute.
 
-3. Het in [artikel 121, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=13&artikel=121&z=2024-06-13&g=2024-06-13), bepaalde geldt voor de aanvaarding en de inwerkingtreding van alle wijzigingen in het Statuut die in een Herzieningsconferentie worden behandeld.
+##### Article 121. Amendments
 
-##### Artikel 124. Overgangsbepaling
+1. After the expiry of seven years from the entry into force of this Statute, any State Party may propose amendments thereto. The text of any proposed amendment shall be submitted to the Secretary-General of the United Nations, who shall promptly circulate it to all States Parties.
 
-Niettegenstaande het bepaalde in [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=12&z=2024-06-13&g=2024-06-13), kan een Staat, wanneer deze partij wordt bij het Statuut, verklaren dat hij gedurende een periode van zeven jaar na de inwerkingtreding van dit Statuut van betrokken Staat, de rechtsmacht van het Hof niet aanvaardt met betrekking tot de categorie misdrijven vermeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=8&z=2024-06-13&g=2024-06-13), wanneer een misdrijf beweerdelijk is gepleegd door zijn onderdanen of op zijn grondgebied. Een verklaring ingevolge dit artikel kan te allen tijde worden ingetrokken. Het in dit artikel bepaalde wordt herzien op de Herzieningsconferentie die bijeengeroepen wordt overeenkomstig [artikel 123, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=13&artikel=123&z=2024-06-13&g=2024-06-13).
+2. No sooner than three months from the date of notification, the Assembly of States Parties, at its next meeting, shall, by a majority of those present and voting, decide whether to take up the proposal. The Assembly may deal with the proposal directly or convene a Review Conference if the issue involved so warrants.
 
-##### Artikel 125. Ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding
+3. The adoption of an amendment at a meeting of the Assembly of States Parties or at a Review Conference on which consensus cannot be reached shall require a two-thirds majority of States Parties.
 
-1. Dit Statuut staat open voor ondertekening voor alle Staten in Rome, op het Hoofdkantoor van de Voedsel- en Landbouworganisatie der Verenigde Naties, op 17 juli 1998. Daarna blijft het open voor ondertekening in Rome, op het Ministerie van Buitenlandse Zaken van Italië tot 17 oktober 1998. Na die datum blijft het Statuut open voor ondertekening in New York, op het Hoofdkantoor van de Verenigde Naties tot 31 december 2000.
+4. Except as provided in paragraph 5, an amendment shall enter into force for all States Parties one year after instruments of ratification or acceptance have been deposited with the Secretary-General of the United Nations by seven-eighths of them.
 
-2. Dit Statuut is onderworpen aan bekrachtiging, aanvaarding of goedkeuring door de Staten die het ondertekenen. Akten van bekrachtiging, aanvaarding of goedkeuring dienen te worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
+5. Any amendment to [articles 5](https://wetten.overheid.nl/BWBV0001489), [6](https://wetten.overheid.nl/BWBV0001489), [7](https://wetten.overheid.nl/BWBV0001489) and [8](https://wetten.overheid.nl/BWBV0001489) of this Statute shall enter into force for those States Parties which have accepted the amendment one year after the deposit of their instruments of ratification or acceptance. In respect of a State Party which has not accepted the amendment, the Court shall not exercise its jurisdiction regarding a crime covered by the amendment when committed by that State Party's nationals or on its territory.
 
-3. Dit Statuut staat open voor toetreding door alle Staten. Akten van toetreding dienen te worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
+6. If an amendment has been accepted by seven-eighths of States Parties in accordance with paragraph 4, any State Party which has not accepted the amendment may withdraw from this Statute with immediate effect, notwithstanding [article 127, paragraph 1](https://wetten.overheid.nl/BWBV0001489), but subject to article 127, paragraph 2, by giving notice no later than one year after the entry into force of such amendment.
 
-##### Artikel 126. Inwerkingtreding
+7. The Secretary-General of the United Nations shall circulate to all States Parties any amendment adopted at a meeting of the Assembly of States Parties or at a Review Conference.
 
-1. Dit Statuut treedt in werking op de eerste dag van de maand na de zestigste dag volgend op de datum van nederlegging van de zestigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding bij de Secretaris-Generaal van de Verenigde Naties.
+##### Article 122. Amendments to provisions of an institutional nature
 
-2. Voor elke Staat die dit Statuut bekrachtigt, aanvaardt, goedkeurt of daartoe toetreedt na nederlegging van de zestigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, treedt het Statuut in werking op de eerste dag van de maand na de zestigste dag volgend op de nederlegging door die Staat van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
+1. Amendments to provisions of this Statute which are of an exclusively institutional nature, namely, [article 35](https://wetten.overheid.nl/BWBV0001489), [article 36, paragraphs 8 and 9](https://wetten.overheid.nl/BWBV0001489), [article 37](https://wetten.overheid.nl/BWBV0001489), [article 38](https://wetten.overheid.nl/BWBV0001489), [article 39, paragraphs 1 (first two sentences), 2 and 4](https://wetten.overheid.nl/BWBV0001489), [article 42, paragraphs 4 to 9](https://wetten.overheid.nl/BWBV0001489), [article 43, paragraphs 2 and 3](https://wetten.overheid.nl/BWBV0001489), and [articles 44](https://wetten.overheid.nl/BWBV0001489), [46](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=46&z=2024-06-13&g=2024-06-13), [47](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=4&artikel=47&z=2024-06-13&g=2024-06-13) and [49](https://wetten.overheid.nl/BWBV0001489), may be proposed at any time, notwithstanding [article 121, paragraph 1](https://wetten.overheid.nl/BWBV0001489), by any State Party. The text of any proposed amendment shall be submitted to the Secretary-General of the United Nations or such other person designated by the Assembly of States Parties who shall promptly circulate it to all States Parties and to others participating in the Assembly.
 
-##### Artikel 127. Terugtrekking
+2. Amendments under this article on which consensus cannot be reached shall be adopted by the Assembly of States Parties or by a Review Conference, by a two-thirds majority of States Parties. Such amendments shall enter into force for all States Parties six months after their adoption by the Assembly or, as the case may be, by the Conference.
 
-1. Een Staat die Partij is kan dit Statuut door een schriftelijke kennisgeving gericht aan de Secretaris-Generaal van de Verenigde Naties opzeggen. De opzegging treedt in werking een jaar na de datum van ontvangst van de kennisgeving, tenzij de kennisgeving een latere datum vermeldt.
+##### Article 123. Review of the Statute
 
-2. Een Staat wordt niet vanwege zijn opzegging ontslagen van de verplichtingen ingevolge dit Statuut uit de tijd waarin de Staat partij was bij het Statuut, met inbegrip van alle financiële verplichtingen die kunnen zijn ontstaan. Zijn opzegging is niet van invloed op de samenwerking met het Hof in verband met strafrechtelijk onderzoek en procedures ten aanzien waarvan de Staat die zich terugtrekt de plicht had rechtshulp te verlenen en die voor de datum waarop de opzegging in werking trad zijn aangevangen, noch heeft de opzegging op enigerlei wijze nadelige invloed op de voortgezette behandeling van een zaak die reeds voor de datum waarop de opzegging van kracht werd aan de kennisneming van het Hof was onderworpen.
+1. Seven years after the entry into force of this Statute the Secretary-General of the United Nations shall convene a Review Conference to consider any amendments to this Statute. Such review may include, but is not limited to, the list of crimes contained in [article 5](https://wetten.overheid.nl/BWBV0001489). The Conference shall be open to those participating in the Assembly of States Parties and on the same conditions.
 
-##### Artikel 128. Authentieke teksten
+2. At any time thereafter, at the request of a State Party and for the purposes set out in paragraph 1, the Secretary-General of the United Nations shall, upon approval by a majority of States Parties, convene a Review Conference.
 
-Het origineel van dit Statuut, waarvan de Arabische, Chinese, Engelse, Franse, Russische en Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die een gewaarmerkt afschrift daarvan aan alle Staten toezendt.
+3. The provisions of [article 121, paragraphs 3 to 7](https://wetten.overheid.nl/BWBV0001489), shall apply to the adoption and entry into force of any amendment to the Statute considered at a Review Conference.
 
-IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Statute.
+##### Article 124. Transitional Provision
 
-DONE at Rome, this 17th day of July 1998.
+Notwithstanding [article 12, paragraphs 1 and 2](https://wetten.overheid.nl/BWBV0001489), a State, on becoming a party to this Statute, may declare that, for a period of seven years after the entry into force of this Statute for the State concerned, it does not accept the jurisdiction of the Court with respect to the category of crimes referred to in [article 8](https://wetten.overheid.nl/BWBV0001489) when a crime is alleged to have been committed by its nationals or on its territory. A declaration under this article may be withdrawn at any time. The provisions of this article shall be reviewed at the Review Conference convened in accordance with [article 123, paragraph 1](https://wetten.overheid.nl/BWBV0001489).
 
-##### Artikel 8 bis. Het misdrijf agressie
+##### Article 125. Signature, ratification, acceptance, approval or accession
 
-1. Voor de toepassing van dit Statuut wordt verstaan onder het „misdrijf agressie”: het plannen, voorbereiden, in gang zetten of uitvoeren, door een persoon die in de positie verkeert daadwerkelijk controle uit te oefenen over of leiding te geven aan het politieke of militaire optreden van een Staat, van een daad van agressie die door zijn aard, ernst en schaal een onmiskenbare schending vormt van het Handvest van de Verenigde Naties.
+1. This Statute shall be open for signature by all States in Rome, at the headquarters of the Food and Agriculture Organization of the United Nations, on 17 July 1998. Thereafter, it shall remain open for signature in Rome at the Ministry of Foreign Affairs of Italy until 17 October 1998. After that date, the Statute shall remain open for signature in New York, at United Nations Headquarters, until 31 December 2000.
 
-2. Voor de toepassing van het eerste lid wordt verstaan onder „daad van agressie”: het gebruik van wapengeweld door een Staat tegen de soevereiniteit, territoriale integriteit of politieke onafhankelijkheid van een andere Staat, of op enige andere wijze die onverenigbaar is met het Handvest van de Verenigde Naties. Elk van de volgende handelingen wordt, ongeacht of er een oorlogsverklaring is, in overeenstemming met resolutie 3314 (XXIX) van de Algemene Vergadering van de Verenigde Naties van 14 december 1974, als een daad van agressie aangemerkt:
+2. This Statute is subject to ratification, acceptance or approval by signatory States. Instruments of ratification, acceptance or approval shall be deposited with the Secretary-General of the United Nations.
 
-- a. de invasie of aanval door de strijdkrachten van een Staat van respectievelijk op het grondgebied van een andere Staat, of een militaire bezetting, ook als deze van tijdelijke aard is, die het gevolg is van een dergelijke invasie of aanval, of de annexatie door middel van geweld van het grondgebied van een andere Staat of deel daarvan;
+3. This Statute shall be open to accession by all States. Instruments of accession shall be deposited with the Secretary-General of the United Nations.
 
-- b. het bombarderen door de strijdkrachten van een Staat van het grondgebied van een andere Staat of het gebruik van enig wapen door een Staat tegen het grondgebied van een andere Staat;
+##### Article 126. Entry into force
 
-- c. de blokkade van de havens of kusten van een Staat door de strijdkrachten van een andere Staat;
+1. This Statute shall enter into force on the first day of the month after the 60th day following the date of the deposit of the 60th instrument of ratification, acceptance, approval or accession with the Secretary-General of the United Nations.
 
-- d. een aanval door de strijdkrachten van een Staat op de land-, zee- of luchtstrijdkrachten of de zee- en luchtvloot van een andere Staat;
+2. For each State ratifying, accepting, approving or acceding to this Statute after the deposit of the 60th instrument of ratification, acceptance, approval or accession, the Statute shall enter into force on the first day of the month after the 60th day following the deposit by such State of its instrument of ratification, acceptance, approval or accession.
 
-- e. de inzet van strijdkrachten van een Staat die met instemming van een andere Staat aanwezig zijn op het grondgebied van die Staat, in strijd met de voorwaarden vervat in de daarop betrekking hebbende overeenkomst of een verlenging van hun aanwezigheid op dit grondgebied na het verstrijken van de overeenkomst;
+##### Article 127. Withdrawal
 
-- f. het feit dat een Staat toestaat dat zijn grondgebied, dat hij aan een andere Staat ter beschikking heeft gesteld, door die andere Staat wordt gebruikt om een daad van agressie te plegen tegen een derde Staat;
+1. A State Party may, by written notification addressed to the Secretary-General of the United Nations, withdraw from this Statute. The withdrawal shall take effect one year after the date of receipt of the notification, unless the notification specifies a later date.
 
-- g. het sturen door of namens een Staat van gewapende bendes, groepen, ongeordende troepen of huurlingen, die met wapengeweld gepaard gaande handelingen plegen tegen een andere Staat die zo ernstig zijn dat zij gelijkstaan met de hierboven genoemde handelingen, of die daar in aanzienlijke mate bij betrokken zijn.
+2. A State shall not be discharged, by reason of its withdrawal, from the obligations arising from this Statute while it was a Party to the Statute, including any financial obligations which may have accrued. Its withdrawal shall not affect any cooperation with the Court in connection with criminal investigations and proceedings in relation to which the withdrawing State had a duty to cooperate and which were commenced prior to the date on which the withdrawal became effective, nor shall it prejudice in any way the continued consideration of any matter which was already under consideration by the Court prior to the date on which the withdrawal became effective.
 
-##### Artikel 15 bis. Uitoefening van rechtsmacht ter zake van het misdrijf agressie (Aangifte door een Staat, eigener beweging)
+##### Article 128. Authentic texts
 
-1. Het Hof is bevoegd rechtsmacht uit te oefenen ter zake van het misdrijf agressie in overeenstemming met [artikel 13, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=13&z=2024-06-13&g=2024-06-13), met inachtneming van de bepalingen van dit artikel.
-
-2. Het Hof is uitsluitend bevoegd rechtsmacht uit te oefenen ter zake van misdrijven van agressie die zijn gepleegd een jaar na de bekrachtiging of aanvaarding van de wijzigingen door dertig Staten die Partij zijn.
-
-3. Het Hof oefent rechtsmacht ter zake van het misdrijf agressie uit in overeenstemming met dit artikel, met inachtneming van een besluit dat na 1 januari 2017 wordt genomen door dezelfde meerderheid van Staten die Partij zijn als nodig is voor het aannemen van een wijziging van het Statuut.
-
-4. Het Hof is in overeenstemming met [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=12&z=2024-06-13&g=2024-06-13) bevoegd rechtsmacht ter zake van een misdrijf van agressie uit te oefenen dat voortvloeit uit een daad van agressie gepleegd door een Staat die Partij is, tenzij deze Staat die Partij is vooraf heeft verklaard dat hij een dergelijke rechtsmacht niet aanvaardt door het neerleggen van een verklaring bij de Griffier. Deze verklaring kan te allen tijde worden ingetrokken en wordt door de Staat die Partij is binnen drie jaar overwogen.
-
-5. Ten aanzien van een Staat die geen Partij is bij dit Statuut, oefent het Hof zijn rechtsmacht niet uit ter zake van het misdrijf agressie wanneer dit misdrijf door onderdanen van die Staat of op zijn grondgebied wordt gepleegd.
-
-6. Indien de Aanklager concludeert dat er een redelijke basis is om tot een onderzoek naar een misdrijf van agressie over te gaan, vergewist hij of zij zich er eerst van of de Veiligheidsraad heeft vastgesteld dat de betreffende Staat een daad van agressie heeft gepleegd. De Aanklager stelt de Secretaris-Generaal van de Verenigde Naties in kennis van de situatie voor het Hof, met inbegrip van relevante informatie en documenten.
-
-7. Indien de Veiligheidsraad een daad van agressie heeft vastgesteld, kan de Aanklager overgaan tot het onderzoek met betrekking tot een misdrijf van agressie.
-
-8. Indien een dergelijke vaststelling niet binnen zes maanden na de datum van kennisgeving is geschied, kan de Aanklager overgaan tot het onderzoek naar een misdrijf van agressie op voorwaarde dat de Afdeling Vooronderzoek toestemming heeft gegeven voor het aanvangen van het onderzoek naar een misdrijf van agressie in overeenstemming met de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=15&z=2024-06-13&g=2024-06-13) vervatte procedure en de Veiligheidsraad niet anderszins heeft besloten in overeenstemming met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=16&z=2024-06-13&g=2024-06-13).
-
-9. Het vaststellen van een daad van agressie door een orgaan buiten het Hof laat de eigen bevindingen van het Hof uit hoofde van dit Statuut onverlet.
-
-10. Dit artikel laat de bepalingen met betrekking tot het uitoefenen van rechtsmacht ter zake van andere in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2024-06-13&g=2024-06-13), genoemde misdrijven onverlet.
-
-##### Artikel 15 ter. Uitoefening van rechtsmacht ter zake van het misdrijf agressie (Aangifte door de Veiligheidsraad)
-
-1. Het Hof is bevoegd rechtsmacht uit te oefenen ter zake van het misdrijf agressie in overeenstemming met [artikel 13, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=13&z=2024-06-13&g=2024-06-13), met inachtneming van de bepalingen van dit artikel.
-
-2. Het Hof is uitsluitend bevoegd rechtsmacht uit te oefenen ter zake van misdrijven van agressie die zijn gepleegd een jaar na de bekrachtiging of aanvaarding van de wijzigingen door dertig Staten die Partij zijn.
-
-3. Het Hof oefent rechtsmacht ter zake van het misdrijf agressie uit in overeenstemming met dit artikel, met inachtneming van een besluit dat na 1 januari 2017 wordt genomen door dezelfde meerderheid van Staten die Partij zijn als nodig is voor het aannemen van een wijziging van het Statuut.
-
-4. Het vaststellen van een daad van agressie door een orgaan buiten het Hof laat de eigen bevindingen van het Hof uit hoofde van dit Statuut onverlet.
-
-5. Dit artikel laat de bepalingen met betrekking tot het uitoefenen van rechtsmacht ter zake van andere in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001489&deel=2&artikel=5&z=2024-06-13&g=2024-06-13), genoemde misdrijven onverlet.
-
-## DEEL 3. ALGEMENE BEGINSELEN VAN STRAFRECHT
-
-## DEEL 4. SAMENSTELLING EN DAGELIJKS BESTUUR VAN HET HOF
-
-## DEEL 5. OPSPORINGSONDERZOEK EN VERVOLGING
-
-## DEEL 6. DE TERECHTZITTING
-
-## DEEL 7. STRAFFEN
-
-## DEEL 8. BEROEP EN HERZIENING
-
-## DEEL 9. INTERNATIONALE SAMENWERKING EN WEDERZIJDSE RECHTSHULP
-
-## DEEL 10. TENUITVOERLEGGING
-
-## DEEL 11. VERGADERING VAN STATEN DIE PARTIJ ZIJN
-
-## DEEL 12. FINANCIERING
-
-## DEEL 13. SLOTBEPALINGEN
+The original of this Statute, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations, who shall send certified copies thereof to all States.
 
 IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Statute.
 

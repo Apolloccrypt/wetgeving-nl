@@ -1,55 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Litouwen inzake de export en handhaving van socialezekerheidsuitkeringen"
 identifier: "BWBV0001573"
-country: "nl"
-rank: "verdrag"
-publication_date: "2004-08-01"
-last_updated: "2004-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001573"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10001467113"
-version_id: "10001545312"
-internal_id: "C10009138451"
-label_id: "10001467334"
-dtd_version: "2.0"
-original_entry_into_force: "2004-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001573/2004-08-01/0"
-intitule_bron: "Trb.2003-13"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-02-01"
-intitule_published: "2003-01-21"
-intitule_in_force: "2004-07-15"
-intitule_status: "goed"
-original_publication: "Trb.2003-13"
-original_signed_date: "2003-02-01"
-original_published_date: "2003-01-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2003-13"
-entry_into_force_date: "2004-08-01"
-jci_1_3: "jci1.3:c:BWBV0001573&z=2004-08-01&g=2004-08-01"
-jci_1_0: "1.0:c:BWBV0001573&g=2004-08-01"
-citeertitel_status: "redactioneel"
-signed_date: "2003-02-01"
-entry_into_force: "2004-08-01"
+publicatiedatum: 2004-08-01
+laatste_update: 2004-08-01
+status: geldig
+toestand: 2004-08-01
+bron: "https://wetten.overheid.nl/BWBV0001573"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Litouwen inzake de export en handhaving van socialezekerheidsuitkeringen
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Republiek Litouwen,
-
-Hierna te noemen de Verdragsluitende Partijen,
-
-Geleid door de wens betrekkingen tot stand te brengen op het gebied van sociale zekerheid;
-
-Geleid door de wens de samenwerking tussen de twee Staten te regelen om de toepassing van de wetgeving van het ene land in het andere te waarborgen;
-
-Zijn het volgende overeengekomen:
-
-Opgeschort per 1 mei 2010 (Trb. 2016/121).
+*Het Koninkrijk der Nederlanden en de Republiek Litouwen, Hierna te noemen de Verdragsluitende Partijen, Geleid door de wens betrekkingen tot stand te brengen op het gebied van sociale zekerheid; Geleid door de wens de samenwerking tussen de twee Staten te regelen om de toepassing van de wetgeving van het ene land in het andere te waarborgen; Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -201,10 +165,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN te Vilnius, op 12 december 2002, in tweevoud, in de Nederlandse, de Litouwse en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschil in interpretatie is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) P. R. J. DUMORÉ
 
-**Voor de Republiek Litouwen**
+*Voor de Republiek Litouwen*
 
 (w.g.) V. BLINKEVICIŪTE

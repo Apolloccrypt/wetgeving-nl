@@ -1,167 +1,139 @@
 ---
 title: "Tweede Aanvullend Protocol bij het Europees Verdrag betreffende uitlevering"
 identifier: "BWBV0001026"
-country: "nl"
-rank: "verdrag"
-publication_date: "1982-01-12"
-last_updated: "1982-01-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001026"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002519823"
-version_id: "10002506162"
-internal_id: "C10006980581"
-label_id: "10002509394"
-dtd_version: "2.0"
-original_entry_into_force: "1982-01-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001026/1982-01-12/0"
-intitule_bron: "Trb.1979-120"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1982-01-12"
-intitule_published: "1979-08-14"
-intitule_in_force: "1983-04-22"
-intitule_status: "goed"
-original_publication: "Trb.1979-120"
-original_signed_date: "1982-01-12"
-original_published_date: "1979-08-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1979-120"
-entry_into_force_date: "1982-01-12"
-jci_1_3: "jci1.3:c:BWBV0001026&z=1982-01-12&g=1982-01-12"
-jci_1_0: "1.0:c:BWBV0001026&g=1982-01-12"
-citeertitel_status: "redactioneel"
-signed_date: "1982-01-12"
-entry_into_force: "1982-01-12"
+publicatiedatum: 1982-01-12
+laatste_update: 1982-01-12
+status: geldig
+toestand: 1982-01-12
+bron: "https://wetten.overheid.nl/BWBV0001026"
+opgehaald: 2026-09-11
 ---
+
 # Tweede Aanvullend Protocol bij het Europees Verdrag betreffende uitlevering
 
-De Lid-Staten van de Raad van Europa die dit Protocol hebben ondertekend,
+*The member States of the Council of Europe, signatory to this Protocol, Desirous of facilitating the application of the European Convention on Extradition opened for signature in Paris on 13 December 1957 (hereinafter referred to as “the Convention”) in the field of fiscal offences; Considering it also desirable to supplement the Convention in certain other respects, Have agreed as follows:*
 
-Verlangende de toepassing van het [Europees Verdrag betreffende uitlevering](https://wetten.overheid.nl/jci1.3:c:BWBV0001010), opengesteld voor ondertekening te Parijs op 13 december 1957, (hierna te noemen „het Verdrag”) te vergemakkelijken op het gebied van fiscale delicten;
+### CHAPTER I
 
-Overwegende dat het eveneens wenselijk is het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001010) in bepaalde andere opzichten aan te vullen,
+##### Article 1
 
-Zijn als volgt overeengekomen:
+*Wijzigt het Europees Verdrag betreffende uitlevering; Parijs, 13-12-1957.*
 
-### HOOFDSTUK I
+### CHAPTER II
 
-##### Artikel 1
+##### Article 2
 
-Wijzigt het Europees Verdrag betreffende uitlevering; Parijs, 13-12-1957.
+*Wijzigt het Europees Verdrag betreffende uitlevering; Parijs, 13-12-1957.*
 
-### HOOFDSTUK II
+### CHAPTER III
 
-##### Artikel 2
+##### Article 3
 
-Wijzigt het Europees Verdrag betreffende uitlevering; Parijs, 13-12-1957.
+The[Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001010) shall be supplemented by the following provisions:
 
-### HOOFDSTUK III
+*“Judgments in absentia*
 
-##### Artikel 3
+- 1. When a Contracting Party requests from another Contracting Party the extradition of a person for the purpose of carrying out a sentence or detention order imposed by a decision rendered against him in absentia, the requested Party may refuse to extradite for this purpose if, in its opinion, the proceedings leading to the judgment did not satisfy the minimum rights of defence recognised as due to everyone charged with criminal offence. However, extradition shall be granted if the requesting Party gives an assurance considered sufficient to guarantee to the person claimed the right to a retrial which safeguards the rights of defence. This decision will authorise the requesting Party either to enforce the judgment in question if the convicted person does not make an opposition or, if he does, to take proceedings against the person extradited.
 
-Het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001010) wordt aangevuld met de volgende bepalingen:
+- 2. When the requested Party informs the person whose extradition has been requested of the judgment rendered against him in absentia, the requesting Party shall not regard this communication as a formal notification for the purposes of the criminal procedure in that State.”
 
-**„Verstekvonnissen**
+### CHAPTER IV
 
-- 1. Wanneer een Verdragsluitende Partij een andere Verdragsluitende Partij om de uitlevering van een persoon verzoekt ten einde een strafvonnis of een bevel tot vrijheidsbeneming ten uitvoer te leggen dat bij verstek is gewezen, kan de aangezochte Partij weigeren hiertoe uit te leveren wanneer naar haar oordeel bij het strafproces de rechten van de verdediging niet in acht zijn genomen die tenminste aan een ieder, tegen wie een strafvervolging wordt ingesteld, behoren toe te komen. Niettemin dient uitlevering te worden toegestaan als de verzoekende Partij een verzekering geeft die voldoende wordt geacht om de opgeëiste persoon het recht te waarborgen op een nieuw proces waarin de rechten van de verdediging worden gegarandeerd. Deze beslissing geeft de verzoekende Partij de bevoegdheid om hetzij het desbetreffende vonnis ten uitvoer te leggen indien de veroordeelde persoon geen verzet doet, hetzij een strafproces tegen de uitgeleverde persoon aan te vangen indien deze wel verzet doet.
+##### Article 4
 
-- 2. Wanneer de aangezochte Partij de persoon wiens uitlevering is verzocht, in kennis stelt van een tegen hem gewezen verstekvonnis mag de verzoekende Partij deze mededeling niet beschouwen als een betekening met het oog op de strafrechtelijke procedure in die Staat.”
+The [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001010) shall be supplemented by the following provisions:
 
-### HOOFDSTUK IV
+*“Amnesty*
 
-##### Artikel 4
+Extradition shall not be granted for an offence in respect of which an amnesty has been declared in the requested State and which that State had competence to prosecute under its own criminal law.”
 
-Het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001010) wordt aangevuld met de volgende bepalingen:
+### CHAPTER V
 
-**„Amnestie**
+##### Article 5
 
-Uitlevering wordt niet toegestaan voor een strafbaar feit met betrekking waartoe amnestie is verleend in de aangezochte Staat en met betrekking waartoe die Staat krachtens haar eigen strafwetgeving bevoegd was een strafvervolging in te stellen.”
+*Wijzigt het Europees Verdrag betreffende uitlevering; Parijs, 13-12-1957.*
 
-### HOOFDSTUK V
+### CHAPTER VI
 
-##### Artikel 5
+##### Article 6
 
-Wijzigt het Europees Verdrag betreffende uitlevering; Parijs, 13-12-1957.
+1. This Protocol shall be open to signature by the member States of the Council of Europe which have signed the Convention. It shall be subject to ratification, acceptance or approval. Instruments of ratification, acceptance or approval shall be deposited with the Secretary General of the Council of Europe.
 
-### HOOFDSTUK VI
+2. The Protocol shall enter into force 90 days after the date of the deposit of the third instrument of ratification, acceptance or approval.
 
-##### Artikel 6
+3. In respect of a signatory State ratifying, accepting or approving subsequently, the Protocol shall enter into force 90 days after the date of the deposit of its instrument of ratification, acceptance or approval.
 
-1. Dit Protocol staat open voor ondertekening door de Lid-Staten van de Raad van Europa die het Verdrag hebben ondertekend. Het dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+4. A member State of the Council of Europe may not ratify, accept or approve this Protocol without having, simultaneously or previously, ratified the Convention.
 
-2. Het Protocol treedt in werking 90 dagen na de datum van nederlegging van de derde akte van bekrachtiging, aanvaarding of goedkeuring.
+##### Article 7
 
-3. Ten aanzien van elke ondertekenende Staat die het daarna bekrachtigt, aanvaardt of goedkeurt treedt het in werking binnen 90 dagen na de datum van nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring.
+1. Any State which has acceded to the Convention may accede to this Protocol after the Protocol has entered into force.
 
-4. Een Lid-Staat van de Raad van Europa kan dit Protocol niet bekrachtigen, aanvaarden of goedkeuren zonder tegelijkertijd of eerder het Verdrag te hebben bekrachtigd.
+2. Such accession shall be effected by depositing with the Secretary General of the Council of Europe an instrument of accession which shall take effect 90 days after the date of its deposit.
 
-##### Artikel 7
+##### Article 8
 
-1. Iedere Staat die tot het Verdrag is toegetreden kan tot dit Protocol toetreden, nadat dit in werking is getreden.
+1. Any State may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, specify the territory or territories to which this Protocol shall apply.
 
-2. De toetreding geschiedt door nederlegging bij de Secretaris-Generaal van de Raad van Europa van een akte van toetreding, die van kracht wordt 90 dagen na de datum van nederlegging.
+2. Any State may, when depositing its instrument of ratification, acceptance, approval or accession or at any later date, by declaration addressed to the Secretary General of the Council of Europe, extend this Protocol to any other territory or territories specified in the declaration and for whose international relations it is responsible or on whose behalf it is authorised to give undertakings.
 
-##### Artikel 8
+3. Any declaration made in pursuance of the preceding paragraph may, in respect of any territory mentioned in such declaration, be withdrawn by means of a notification addressed to the Secretary General of the Council of Europe. Such withdrawal shall take effect six months after the date of receipt by the Secretary General of the Council of Europe of the notification.
 
-1. Een Staat kan op het ogenblik van ondertekening of op dat van nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding het grondgebied of de grondgebieden aanwijzen, waarop dit Protocol van toepassing zal zijn.
+##### Article 9
 
-2. Een Staat kan bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, of op ieder tijdstip daarna door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring, de toepassing van dit Protocol uitbreiden tot ieder ander in de verklaring aangewezen grondgebied, voor de internationale betrekkingen waarvan hij verantwoordelijk is, of waarvoor hij bevoegd is verbintenissen aan te gaan.
+1. Reservations made by a State to a provision of the[Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001010)shall be applicable also to this Protocol, unless that State otherwise declares at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession.
 
-3. Iedere verklaring, afgelegd krachtens het voorgaande lid, kan, wat betreft ieder in die verklaring aangewezen grondgebied, worden ingetrokken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal van de Raad van Europa.
+2. Any State may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, declare that it reserves the right:
 
-##### Artikel 9
+- a. not to accept Chapter I;
 
-1. Voorbehouden, door een Staat ten aanzien van een bepaling van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001010) gemaakt, zijn eveneens van toepassing op dit Protocol, tenzij die Staat bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding het tegendeel verklaart.
+- b. not to accept Chapter II, or to accept it only in respect of certain offences or certain categories of the offences referred to in Article 2;
 
-2. Een Staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat hij zich het recht voorbehoudt om:
+- c. not to accept Chapter III, or to accept only paragraph 1 of Article 3;
 
-- a. Hoofdstuk I niet te aanvaarden;
+- d. not to accept Chapter IV;
 
-- b. Hoofdstuk II niet te aanvaarden, of dit slechts te aanvaarden met betrekking tot bepaalde strafbare feiten of categorieën strafbare feiten, bedoeld in artikel 2;
+- e. not to accept Chapter V.
 
-- c. Hoofdstuk III niet te aanvaarden, of slechts het eerste lid van artikel 3 te aanvaarden;
+3. Any Contracting Party may withdraw a reservation it has made in accordance with the foregoing paragraph by means of a declaration addressed to the Secretary General of the Council of Europe which shall become effective as from the date of its receipt.
 
-- d. Hoofdstuk IV niet te aanvaarden;
+4. A Contracting Party which has applied to this Protocol a reservation made in respect of a provision of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001010) or which has made a reservation in respect of a provision of this Protocol may not claim the application of that provision by another Contracting Party; it may, however, if its reservation is partial or conditional, claim the application of that provision in so far as it has itself accepted it.
 
-- e. Hoofdstuk V niet te aanvaarden.
+5. No other reservation may be made to the provisions of this Protocol.
 
-3. Een Verdragsluitende Partij kan een voorbehoud dat zij krachtens het voorgaande lid heeft gemaakt, intrekken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring, die van kracht wordt op de datum van ontvangst daarvan.
+##### Article 10
 
-4. Een Verdragsluitende Partij die een met betrekking tot een bepaling van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001010) gemaakt voorbehoud op dit Protocol heeft toegepast, of die een voorbehoud met betrekking tot een bepaling van dit Protocol heeft gemaakt, kan de toepassing van die bepaling door een andere Verdragsluitende Partij niet verlangen; zij kan echter, indien haar voorbehoud gedeeltelijk of voorwaardelijk is, de toepassing van die bepaling verlangen voor zover zij haar zelf heeft aanvaard.
+The European Committee on Crime Problems of the Council of Europe shall be kept informed regarding the application of this Protocol and shall do whatever is needful to facilitate a friendly settlement of any difficulty which may arise out of its execution.
 
-5. Op de bepalingen van dit Protocol is geen ander voorbehoud toegestaan.
+##### Article 11
 
-##### Artikel 10
+1. Any Contracting Party may, in so far as it is concerned, denounce this Protocol by means of a notification addressed to the Secretary General of the Council of Europe.
 
-De Europese Commissie voor Strafrechtelijke Vraagstukken van de Raad van Europa wordt op de hoogte gehouden van de toepassing van dit Protocol en vergemakkelijkt, voor zover nodig, een minnelijke schikking van iedere moeilijkheid die ten gevolge van de toepassing van dit Protocol mocht ontstaan.
+2. Such denunciation shall take effect six months after the date of receipt by the Secretary General of such notification.
 
-##### Artikel 11
+3. Denunciation of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001010) entails automatically denunciation of this Protocol.
 
-1. Een Verdragsluitende Partij kan dit Protocol wat haar betreft opzeggen door middel van een kennisgeving, gericht aan de Secretaris-Generaal van de Raad van Europa.
+##### Article 12
 
-2. De opzegging wordt van kracht zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
+The Secretary General of the Council of Europe shall notify the member States of the Council and any State which has acceded to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001010) of:
 
-3. Opzegging van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001010) heeft automatisch opzegging van dit Protocol ten gevolge.
+- a. any signature of this Protocol;
 
-##### Artikel 12
+- b. any deposit of an instrument of ratification, acceptance, approval or accession;
 
-De Secretaris-Generaal van de Raad van Europa geeft de Lid-Staten van de Raad en iedere Staat die tot het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001010)is toegetreden kennis van:
+- c. any date of entry into force of this Protocol in accordance with Articles 6 and 7;
 
-- a. iedere ondertekening van dit Protocol;
+- d. any declaration received in pursuance of the provisions of paragraphs 2 and 3 of Article 8;
 
-- b. de nederlegging van iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
+- e. any declaration received in pursuance of the provisions of paragraph 1 of Article 9;
 
-- c. iedere datum van inwerkingtreding van dit Protocol overeenkomstig de artikelen 6 en 7;
+- f. any reservation made in pursuance of the provisions of paragraph 2 of Article 9;
 
-- d. iedere verklaring, ontvangen krachtens de bepalingen van het tweede en het derde lid van artikel 8;
+- g. the withdrawal of any reservation carried out in pursuance of the provisions of paragraph 3 of Article 9;
 
-- e. iedere verklaring, ontvangen krachtens de bepalingen van het eerste lid van artikel 9;
-
-- f. ieder voorbehoud, gemaakt krachtens de bepalingen van het tweede lid van artikel 9;
-
-- g. de intrekking van voorbehouden, verricht krachtens de bepalingen van het derde lid van artikel 9;
-
-- h. iedere kennisgeving, ontvangen krachtens de bepalingen van artikel 11 en de datum waarop de desbetreffende opzegging van kracht wordt.
+- h. any notification received in pursuance of the provisions of Article 11 and the date on which denunciation takes effect.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Protocol.
 

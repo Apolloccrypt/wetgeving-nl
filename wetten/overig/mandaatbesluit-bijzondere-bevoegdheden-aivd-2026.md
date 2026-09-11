@@ -1,38 +1,37 @@
 ---
-title: "Mandaatbesluit (bijzondere) bevoegdheden AIVD 2026"
+title: "Besluit van de directeur-generaal van de Algemene Inlichtingen- en Veiligheidsdienst van 12 juni 2026, inzake mandatering van het verlenen van toestemming voor de uitoefening van bevoegdheden door de Algemene Inlichtingen- en Veiligheidsdienst (Mandaatbesluit (bijzondere) bevoegdheden AIVD 2026)"
+citeertitel: "Mandaatbesluit (bijzondere) bevoegdheden AIVD 2026"
 identifier: "BWBR0052818"
 categorie: "Overig"
+soort: "ministeriele-regeling"
 publicatiedatum: 2026-07-11
-laatste_update: 2026-07-14
+laatste_update: 2026-07-11
 status: geldig
+toestand: 2026-07-11
 bron: "https://wetten.overheid.nl/BWBR0052818"
+opgehaald: 2026-09-11
 ---
 
 # Besluit van de directeur-generaal van de Algemene Inlichtingen- en Veiligheidsdienst van 12 juni 2026, inzake mandatering van het verlenen van toestemming voor de uitoefening van bevoegdheden door de Algemene Inlichtingen- en Veiligheidsdienst (Mandaatbesluit (bijzondere) bevoegdheden AIVD 2026)
-
-gelet op [artikel 5.7, eerste lid, van het Mandaatbesluit BZK 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051453&artikel=5.7);
-
-gelet op de [artikelen 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=38), [40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=40), [41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=41), [42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=42), [50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=50), [72, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=72) en [73, tweede lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=73);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- **dienst:** Algemene Inlichtingen- en Veiligheidsdienst;
+- *dienst:* Algemene Inlichtingen- en Veiligheidsdienst;
 
-- **directeur:** directeur Inlichtingen of diens plaatsvervanger, dan wel directeur Operatiën;
+- *directeur:* directeur Inlichtingen of diens plaatsvervanger, dan wel directeur Operatiën;
 
-- **directeur-generaal:** directeur-generaal van de dienst, of diens plaatsvervanger;
+- *directeur-generaal:* directeur-generaal van de dienst, of diens plaatsvervanger;
 
-- **minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- *minister:* Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- **teamhoofd:** een leidinggevende, team- of afdelingshoofd, ressorterend onder een unithoofd;
+- *teamhoofd:* een leidinggevende, team- of afdelingshoofd, ressorterend onder een unithoofd;
 
-- **unithoofd:** een leidinggevende ressorterend onder een directeur;
+- *unithoofd:* een leidinggevende ressorterend onder een directeur;
 
-- **wet:** [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896).
+- *wet:*
+ [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896).
 
 ##### Artikel 2. Toepassingsbereik
 
@@ -62,7 +61,7 @@ De directeur, het unithoofd en het teamhoofd hebben mandaat om toestemming te ve
 
 2. De directeur, het unithoofd en het teamhoofd hebben mandaat om toestemming te verlenen voor een verlengingsaanvraag tot de inzet van natuurlijke personen die onder verantwoordelijkheid en onder instructie van de dienst zijn belast met het gericht gegevens verzamelen omtrent personen en organisaties die voor de taakuitvoering van de dienst van belang kunnen zijn.
 
-3. In afwijking van het eerste en tweede lid, wordt de toestemming voor de inzet van een natuurlijke persoon, die behoort tot een categorie als bedoeld in de bijlage bij dit besluit, verleend door de in deze bijlage aangewezen functionaris. Deze bijlage is niet openbaar.
+3. In afwijking van het eerste en tweede lid, wordt de toestemming voor de inzet van een natuurlijke persoon, die behoort tot een categorie als bedoeld in de [bijlage](https://wetten.overheid.nl/BWBR0052818) bij dit besluit, verleend door de in deze bijlage aangewezen functionaris. Deze bijlage is niet openbaar.
 
 4. De directeur en het unithoofd hebben mandaat om toestemming te verlenen voor de inzet van natuurlijke personen die onder verantwoordelijkheid en onder instructie van de dienst belast zijn met het bevorderen of treffen van maatregelen ter bescherming van door de dienst te behartigen belangen.
 
@@ -121,9 +120,3 @@ Dit mandaatbesluit treedt in werking met ingang van de dag na de datum van uitgi
 ##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Mandaatbesluit (bijzondere) bevoegdheden AIVD 2026.
-
-## Bijlage
-
-Niet opgenomen.
-
-Een afschrift van dit besluit zal aan de minister worden gezonden. Dit besluit zal in de Staatscourant worden geplaatst.

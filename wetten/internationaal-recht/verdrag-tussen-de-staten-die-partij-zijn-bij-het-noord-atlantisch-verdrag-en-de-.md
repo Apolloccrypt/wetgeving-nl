@@ -1,102 +1,49 @@
 ---
 title: "Verdrag tussen de Staten die Partij zijn bij het Noord-Atlantisch Verdrag en de overige Staten die deelnemen aan het Partnerschap voor de Vrede nopens de rechtspositie van hun krijgsmachten"
 identifier: "BWBV0001297"
-country: "nl"
-rank: "verdrag"
-publication_date: "1997-07-26"
-last_updated: "1997-07-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001297"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000035063"
-version_id: "10000056352"
-internal_id: "C10006987541"
-label_id: "10000035234"
-original_entry_into_force: "1997-07-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001297/1997-07-26/0"
-intitule_bron: "Trb.1996-74"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-06-26"
-intitule_published: "1996-03-12"
-intitule_in_force: "1997-08-29"
-intitule_status: "goed"
-original_publication: "Trb.1996-74"
-original_signed_date: "1997-06-26"
-original_published_date: "1996-03-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1996-74"
-entry_into_force_date: "1997-07-26"
-jci_1_3: "jci1.3:c:BWBV0001297&z=1997-07-26&g=1997-07-26"
-jci_1_0: "1.0:c:BWBV0001297&g=1997-07-26"
-citeertitel_status: "officieel"
-signed_date: "1997-06-26"
-entry_into_force: "1997-07-26"
+publicatiedatum: 1997-07-26
+laatste_update: 1997-07-26
+status: geldig
+toestand: 1997-07-26
+bron: "https://wetten.overheid.nl/BWBV0001297"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen de Staten die Partij zijn bij het Noord-Atlantisch Verdrag en de overige Staten die deelnemen aan het Partnerschap voor de Vrede nopens de rechtspositie van hun krijgsmachten
 
-De Staten die Partij zijn bij het op 4 april 1949 te Washington tot stand gekomen [Noord-Atlantisch Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005760), enerzijds, en de Staten die ingaan op de uitnodiging voor het Partnerschap voor de Vrede, die op 10 januari 1994 is uitgegaan en ondertekend door de staatshoofden en regeringsleiders van de lidstaten van de Noordatlantische Verdragsorganisatie, en die het Raamwerkdocument van het Partnerschap voor de Vrede onderschrijven, anderzijds;
+*The States Parties to the North Atlantic Treaty done in Washington on 4 April 1949 and the States which accept the invitation to Partnership for Peace issued and signed by the Heads of State and Government of the member States of the North Atlantic Treaty Organisation in Brussels on 10 January 1994 and which subscribe to the Partnership for Peace Framework Document; Constituting together the States participating in the Partnership for Peace; Considering that the forces of one State Party to the present Agreement may be sent and received, by arrangement, into the territory of another State Party; Bearing in mind that the decisions to send and to receive forces will continue to be the subject of separate arrangements between the States Parties concerned; Desiring, however, to define the status of such forces while in the territory of another State Party; Recalling the Agreement between the States Parties to the North Atlantic Treaty regarding the status of their forces done at London on 19 June 1951; Have agreed as follows:*
 
-Tezamen de aan het Partnerschap voor de Vrede deelnemende Staten vormend;
+##### Article I
 
-Overwegende dat krachtens overeenkomsten krijgsmachten van een Staat die Partij is bij dit Verdrag kunnen worden uitgezonden naar en ontvangen op het grondgebied van een andere Staat die Partij is;
+Except as otherwise provided for in the present Agreement and any additional protocol in respect to its own Parties, all States Parties to the present Agreement shall apply the provisions of the [Agreement between Parties to the North Atlantic Treaty regarding the status of their forces](https://wetten.overheid.nl/jci1.3:c:BWBV0004785), done at London on 19 June 1951, hereinafter referred to as the NATO SOFA, as if all State Parties to the present Agreement were Parties to the NATO SOFA.
 
-Voor ogen houdende dat beslissingen om krijgsmachten uit te zenden en te ontvangen het onderwerp zullen blijven van afzonderlijke overeenkomsten tussen de betrokken Staten die Partij zijn;
+##### Article II
 
-Verlangende echter de rechtspositie van die krijgsmachten te bepalen, wanneer deze zich bevinden op het grondgebied van een andere Staat die Partij is;
+1. In addition to the area to which the [NATO SOFA](https://wetten.overheid.nl/jci1.3:c:BWBV0004785) applies the present Agreement shall apply to the territory of all States Parties to the present Agreement which are not Parties to the NATO SOFA.
 
-In herinnering roepend het [Verdrag tussen de Staten die Partij zijn bij het Noord-Atlantisch Verdrag nopens de rechtspositie van hun krijgsmachten](https://wetten.overheid.nl/jci1.3:c:BWBV0004785), ondertekend te Londen op 19 juni 1951;
+2. For the purposes of the present Agreement, references in the [NATO SOFA](https://wetten.overheid.nl/jci1.3:c:BWBV0004785) to the [North Atlantic Treaty](https://wetten.overheid.nl/jci1.3:c:BWBV0005760) area shall be deemed also to include the territories referred to in paragraph 1 of the present Article, and references to the North Atlantic Treaty shall be deemed to include the Partnership for Peace.
 
-Zijn het volgende overeengekomen:
+##### Article III
 
-##### Artikel I
+For purposes of implementing the present Agreement with respect to matters involving Parties that are not Parties to the [NATO SOFA](https://wetten.overheid.nl/jci1.3:c:BWBV0004785), provisions of the NATO SOFA that provide for requests to be submitted, or differences to be referred to the North Atlantic Council, the Chairman of the North Atlantic Council Deputies or an arbitrator shall be construed to require the Parties concerned to negotiate between or among themselves without recourse to any outside jurisdiction.
 
-Tenzij in dit Verdrag of in enig aanvullend protocol aangaande de eigen Partijen anders is bepaald, passen alle Staten die Partij zijn bij dit Verdrag de bepalingen van het [Verdrag tussen de Staten die Partij zijn bij het Noord-Atlantisch Verdrag nopens de rechtspositie van hun krijgsmachten](https://wetten.overheid.nl/jci1.3:c:BWBV0004785), ondertekend te Londen op 19 juni 1951, hierna te noemen het NAVO Status-verdrag, toe als waren alle Staten die Partij zijn bij dit Verdrag Partij bij het NAVO-Status-verdrag.
+##### Article IV
 
-##### Artikel II
+The present Agreement may be supplemented or otherwise modified in accordance with international law.
 
-1. Dit Verdrag is, behalve op het gebied waarop het [NAVO Status-verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004785) van toepassing is, ook van toepassing op het grondgebied van alle Staten die Partij zijn bij dit Verdrag en die geen Partij zijn bij het NAVO Status-verdrag.
+##### Article V
 
-2. Voor de toepassing van dit Verdrag worden verwijzingen in het [NAVO Status-verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004785) naar het werkingsgebied van het Noord-Atlantisch Verdrag geacht tevens de grondgebieden te omvatten waarnaar wordt verwezen in het eerste lid van dit artikel en worden verwijzingen naar het [Noord-Atlantisch Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005760) geacht tevens het Partnerschap voor de Vrede te omvatten.
+1. The present Agreement shall be open for signature by any State that is either a contracting Party to the [NATO SOFA](https://wetten.overheid.nl/jci1.3:c:BWBV0004785), or that accepts the invitation to the Partnership for Peace and subscribes to the Partnership for Peace Framework Document.
 
-##### Artikel III
+2. The present Agreement shall be subject to ratification, acceptance or approval. Instruments of ratification, acceptance or approval shall be deposited with the Government of the United States of America, which shall notify all signatory States of each such deposit.
 
-Voor de uitvoering van dit Verdrag ten aanzien van aangelegenheden waarbij Partijen betrokken zijn die geen Partij zijn bij het [NAVO Status-verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004785), worden de bepalingen van het NAVO Status-verdrag waarin wordt bepaald dat verzoeken of geschillen moeten worden voorgelegd aan de Noordatlantische Raad, aan de Voorzitter van de Noordatlantische Raadsafgevaardigden of aan een scheidsman, zodanig geïnterpreteerd dat van de betrokken Partijen wordt verlangd onderling of met elkaar onderhandelingen te voeren zonder zich tot een externe rechterlijke instantie te wenden.
+3. Thirty days after three signatory States, at least one of which is a Party to the [NATO SOFA](https://wetten.overheid.nl/jci1.3:c:BWBV0004785) and one of which has accepted the invitation to the Partnership for Peace and subscribed to the Partnership for Peace Framework Document, have deposited their instruments of ratification, acceptance or approval, the present Agreement shall enter into force in respect of those States. It shall enter into force in respect of each other signatory State thirty days after the date of deposit of its instrument.
 
-##### Artikel IV
+##### Article VI
 
-Dit Verdrag mag worden aangevuld of anderszins worden gewijzigd overeenkomstig het internationale recht.
-
-##### Artikel V
-
-1. Dit Verdrag staat ter ondertekening open voor alle Staten die hetzij Partij zijn bij het [NAVO Status-verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004785), hetzij op de uitnodiging voor het Partnerschap voor de Vrede ingaan en het Raamwerkdocument van het Partnerschap voor de Vrede onderschrijven.
-
-2. Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Regering van de Verenigde Staten van Amerika, die van elke nederlegging mededeling doet aan alle ondertekenende Staten.
-
-3. Dertig dagen nadat drie ondertekenende Staten, waarvan er ten minste één Partij is bij het [NAVO Status-verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004785) en één op de uitnodiging voor het Partnerschap voor de Vrede is ingegaan en het Raamwerkdocument van het Partnerschap voor de Vrede heeft onderschreven, hun akte van bekrachtiging, aanvaarding of goedkeuring hebben nedergelegd, treedt dit Verdrag voor die Staten in werking. Voor elke andere ondertekenende Staat treedt het Verdrag in werking dertig dagen na de datum van nederlegging van het desbetreffende instrument.
-
-##### Artikel VI
-
-Dit Verdrag kan door elke Partij worden opgezegd door middel van een schriftelijke kennisgeving van opzegging aan de Regering van de Verenigde Staten van Amerika, die alle ondertekenende Staten van elke opzegging mededeling zal doen. De opzegging wordt van kracht één jaar na ontvangst van de kennisgeving van opzegging door de Regering van de Verenigde Staten. Behoudens de regeling van uitstaande vorderingen ontstaan vóór de dag waarop de opzegging van kracht wordt, is dit Verdrag na afloop van de termijn van één jaar niet meer van kracht voor de opzeggende Partij, maar blijft het van kracht voor de overige Partijen.
-
-De Staten die Partij zijn bij dit Aanvullend Protocol bij het Verdrag tussen de Staten die Partij zijn bij het Noord-Atlantisch Verdrag en de overige Staten die deelnemen aan het Partnerschap voor de Vrede nopens de rechtspositie van hun krijgsmachten, hierna te noemen het Verdrag;
-
-Overwegende dat in de nationale wetgeving van sommige Partijen bij het Verdrag niet in de doodstraf is voorzien;
-
-Zijn het volgende overeengekomen:
-
-##### Artikel I
-
-Elke Staat die Partij is bij dit Aanvullend Protocol zal, voor zover deze overeenkomstig de bepalingen van het Verdrag rechtsmacht heeft, niet een doodvonnis ten uitvoer leggen met betrekking tot leden van de krijgsmachten of het daarbij behorende burgerpersoneel, noch op hun gezinsleden afkomstig uit een andere Staat die Partij is bij dit Aanvullend Protocol.
-
-##### Artikel II
-
-1. Dit Protocol staat ter ondertekening open voor alle Staten die het Verdrag hebben ondertekend.
-
-2. Dit Protocol dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Regering van de Verenigde Staten van Amerika, die van elke nederlegging mededeling doet aan alle ondertekenende Staten.
-
-3. Dit Protocol treedt in werking dertig dagen na de datum van nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring door drie ondertekenende Staten, waarvan er ten minste één Partij is bij het [NAVO Status-verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004785) en één is ingegaan op de uitnodiging om zich aan te sluiten bij het Partnerschap voor de Vrede en het Raamwerkdocument van het Partnerschap voor de Vrede heeft onderschreven.
-
-4. Voor elke andere ondertekenende Staat treedt dit Protocol in werking op de datum van nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring bij de Regering van de Verenigde Staten van Amerika.
+The present Agreement may be denounced by any Party to this Agreement by giving written notification of denunciation to the Government of the United States of America, which will notify all signatory States of each such notification. The denunciation shall take effect one year after receipt of the notification by the Government of the United States of America. After the expiration of this period of one year, the present Agreement shall cease to be in force as regards the Party that denounces it, except for the settlement of outstanding claims that arose before the day on which the denunciation takes effect, but shall continue to be in force for the remaining Parties.
 
 IN WITNESS WHEREOF, the undersigned, being duly authorised by their respective Governments, have signed this Agreement.
 

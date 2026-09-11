@@ -1,50 +1,52 @@
 ---
-title: "Subsidieregeling start-ups Big Chemistry"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 12 mei 2026, nr. 63286153, houdende regels voor de subsidieverstrekking aan startende ondernemingen in het kader van het Nationaal Groeifondsproject Big Chemistry (Subsidieregeling start-ups Big Chemistry)"
+citeertitel: "Subsidieregeling start-ups Big Chemistry"
 identifier: "BWBR0052638"
-categorie: "Overig"
+categorie: "Onderwijs"
+soort: "ministeriele-regeling"
 publicatiedatum: 2026-05-27
 laatste_update: 2026-05-27
 status: geldig
+toestand: 2026-05-27
 bron: "https://wetten.overheid.nl/BWBR0052638"
+opgehaald: 2026-09-11
 ---
 
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 12 mei 2026, nr. 63286153, houdende regels voor de subsidieverstrekking aan startende ondernemingen in het kader van het Nationaal Groeifondsproject Big Chemistry (Subsidieregeling start-ups Big Chemistry)
-
-Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
-
-**Besluit:**
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-- **aanvrager:** startende onderneming die subsidie aanvraagt op grond van deze regeling;
+- *aanvrager:* startende onderneming die subsidie aanvraagt op grond van deze regeling;
 
-- **AGVV:** [Verordening (EU) nr. 651/2014](32014R0651) van de Europese Commissie van 17 juni 2014, waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU 2014, L 187/1);
+- *AGVV:*
+ Verordening (EU) nr. 651/2014 van de Europese Commissie van 17 juni 2014, waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU 2014, L 187/1);
 
-- **Big Chemistry:** Nationaal Groeifondsproject Big Chemistry dat zich richt op een nieuwe aanpak van moleculair onderzoek die chemie verbindt met big data en kunstmatige intelligentie;
+- *Big Chemistry:* Nationaal Groeifondsproject Big Chemistry dat zich richt op een nieuwe aanpak van moleculair onderzoek die chemie verbindt met big data en kunstmatige intelligentie;
 
-- **kaderregeling:** [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
+- *kaderregeling:*
+ [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603);
 
-- **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- **project:** geheel van activiteiten waarvoor subsidie wordt gevraagd op grond van deze regeling;
+- *project:* geheel van activiteiten waarvoor subsidie wordt gevraagd op grond van deze regeling;
 
-- **startende onderneming:** startende onderneming als bedoeld in artikel 22, tweede lid, van de AGVV;
+- *startende onderneming:* startende onderneming als bedoeld in artikel 22, tweede lid, van de AGVV;
 
-- **toepassingsgebied:**
+- *toepassingsgebied:*
 
-  - a. polymeren;
+   - a. polymeren;
 
-  - b. emulsies en surfactanten;
+   - b. emulsies en surfactanten;
 
-  - c. coatings en colloïden;
+   - c. coatings en colloïden;
 
-  - d. smaak- en geurstoffen; of
+   - d. smaak- en geurstoffen; of
 
-  - e. lijmen en elektrolyten.
+   - e. lijmen en elektrolyten.
 
-##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing Kaderregeling subsidies OCW, SZW en VWS
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
@@ -54,37 +56,37 @@ De minister kan aan een startende onderneming subsidie verstrekken voor activite
 
 - a. gericht zijn op technologische ontwikkeling, validatie en demonstratie en betrekking hebben op:
 
-  - 1°. ontwikkeling, integratie en verfijning van technologie, processen of prototypes;
+   - 1°. ontwikkeling, integratie en verfijning van technologie, processen of prototypes;
 
-  - 2°. technische validatie en verificatie van lab-, pilot- of pre-demonstratieactiviteiten;
+   - 2°. technische validatie en verificatie van lab-, pilot- of pre-demonstratieactiviteiten;
 
-  - 3°. demonstratie van technische haalbaarheid;
+   - 3°. demonstratie van technische haalbaarheid;
 
 - b. gericht zijn op probleemvalidatie en oplossingsvalidatie en betrekking hebben op:
 
-  - 1°. het aantonen van technische haalbaarheid;
+   - 1°. het aantonen van technische haalbaarheid;
 
-  - 2°. het aantonen van economische haalbaarheid in een toepassingscontext;
+   - 2°. het aantonen van economische haalbaarheid in een toepassingscontext;
 
 - c. gericht zijn op het beschermen en onderzoeken van intellectueel eigendom en betrekking hebben op:
 
-  - 1°. octrooionderzoek en freedom-to-operate-analyses;
+   - 1°. octrooionderzoek en freedom-to-operate-analyses;
 
-  - 2°. opstellen en indienen van octrooiaanvragen;
+   - 2°. opstellen en indienen van octrooiaanvragen;
 
-  - 3°. juridische ondersteuning ten behoeve van het beschermen en onderhouden van intellectueel eigendom.
+   - 3°. juridische ondersteuning ten behoeve van het beschermen en onderhouden van intellectueel eigendom.
 
 ##### Artikel 4. Subsidieplafond en aanvraagrondes
 
-1. Voor subsidieverstrekking op grond van deze regeling is in totaal een bedrag van € 1.500.000 beschikbaar.
+1. Voor subsidieverstrekking op grond van deze regeling is in totaal een bedrag van € 1.500.000 beschikbaar.
 
-2. Op grond van deze regeling kan subsidie worden aangevraagd in de eerste aanvraagronde van 27 mei 2026 tot en met 31 december 2026 voor een project met een maximale looptijd van 24 maanden.
+2. Op grond van deze regeling kan subsidie worden aangevraagd in de eerste aanvraagronde van 27 mei 2026 tot en met 31 december 2026 voor een project met een maximale looptijd van 24 maanden.
 
-3. Het subsidieplafond voor de aanvraagronde bedoeld in het vorige lid bedraagt € 1.500.000.
+3. Het subsidieplafond voor de aanvraagronde bedoeld in het vorige lid bedraagt € 1.500.000.
 
 ##### Artikel 5. Hoogte van de subsidie
 
-1. De subsidie bedraagt per aanvraag ten minste € 125.000 en ten hoogste € 200.000.
+1. De subsidie bedraagt per aanvraag ten minste € 125.000 en ten hoogste € 200.000.
 
 2. De subsidie bedraagt ten hoogste 90% van de kosten van het project die op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0052638&artikel=6&z=2026-05-27&g=2026-05-27) voor subsidie in aanmerking komen.
 
@@ -92,27 +94,27 @@ De minister kan aan een startende onderneming subsidie verstrekken voor activite
 
 ##### Artikel 6. Subsidiabele kosten
 
-1. Voor subsidie komen uitsluitend de volgende kosten in aanmerking, voor zover deze noodzakelijk zijn voor het project en aantoonbaar en direct gerelateerd zijn aan de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052638&artikel=3&z=2026-05-27&g=2026-05-27):
+1. Voor subsidie komen uitsluitend de volgende kosten in aanmerking, voor zover deze noodzakelijk zijn voor het project en aantoonbaar en direct gerelateerd zijn aan de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052638&artikel=3&z=2026-05-27&g=2026-05-27):
 
 - a. personeelskosten voor onderzoekers, technici en ander ondersteunend personeel, voor zover het desbetreffende personeel zich met het project bezighoudt;
 
 - b. materiële kosten, inhoudende:
 
-  - 1°. kosten voor grondstoffen, materialen en hulpmiddelen; of
+   - 1°. kosten voor grondstoffen, materialen en hulpmiddelen; of
 
-  - 2°. kosten voor huur of gebruik van laboratoria, testfaciliteiten, apparatuur en infrastructuur;
+   - 2°. kosten voor huur of gebruik van laboratoria, testfaciliteiten, apparatuur en infrastructuur;
 
 - c. externe kosten, inhoudende:
 
-  - 1°. kosten van inhuur van gespecialiseerde expertise, advisering of ondersteuning die noodzakelijk is voor technologische ontwikkeling of technische validatie;
+   - 1°. kosten van inhuur van gespecialiseerde expertise, advisering of ondersteuning die noodzakelijk is voor technologische ontwikkeling of technische validatie;
 
-  - 2°. kosten van externe partijen die bijdragen aan probleemvalidatie of technische of economische haalbaarheidsstudies;
+   - 2°. kosten van externe partijen die bijdragen aan probleemvalidatie of technische of economische haalbaarheidsstudies;
 
-  - 3°. kosten voor het beschermen van intellectueel eigendom, voor zover deze betrekking hebben op de in artikel 3, onderdeel c, bedoelde activiteiten; of
+   - 3°. kosten voor het beschermen van intellectueel eigendom, voor zover deze betrekking hebben op de in artikel 3, onderdeel c, bedoelde activiteiten; of
 
 - d. kosten voor de controleverklaring bij het in [artikel 7.8, eerste lid, van de kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.8) bedoelde financiële verslag.
 
-2. De kosten, bedoeld in het eerste lid, onderdeel c, subonderdeel 3°, zijn subsidiabel tot een maximum van € 10.000 per project.
+2. De kosten, bedoeld in het eerste lid, onderdeel c, subonderdeel 3°, zijn subsidiabel tot een maximum van € 10.000 per project.
 
 3. Wanneer de kosten, bedoeld in het eerste lid, niet voor hun volledige levensduur voor het project worden gebruikt, worden alleen de afschrijvingskosten overeenstemmend met de looptijd van het project, berekend volgens algemeen erkende boekhoudkundige beginselen, als subsidiabele kosten beschouwd.
 
@@ -170,7 +172,7 @@ De minister kan aan een startende onderneming subsidie verstrekken voor activite
 
 - e. draagt het project bij aan kennisdeling, versterking van het ecosysteem en het borgen van intellectueel eigendom en kennisoverdracht.
 
-2. De beoordelingscriteria zijn uitgewerkt in het beoordelingskader dat als bijlage bij deze regeling is gevoegd.
+2. De beoordelingscriteria zijn uitgewerkt in het beoordelingskader dat als [bijlage](https://wetten.overheid.nl/BWBR0052638) bij deze regeling is gevoegd.
 
 3. Subsidie wordt slechts verleend indien alle criteria met ten minste een voldoende worden beoordeeld.
 
@@ -192,7 +194,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 1. De minister besluit binnen 13 weken na ontvangst van de aanvraag tot subsidieverlening.
 
-2. In de beschikking tot verlening van subsidie wordt een voorschot toegekend van ten hoogste 80 procent van het toegekende subsidiebedrag. Het resterende bedrag wordt toegekend na vaststelling van de subsidie.
+2. In de beschikking tot verlening van subsidie wordt een voorschot toegekend van ten hoogste 80 procent van het toegekende subsidiebedrag. Het resterende bedrag wordt toegekend na vaststelling van de subsidie.
 
 ##### Artikel 12. Verplichtingen subsidie
 
@@ -224,76 +226,8 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-2. Deze regeling vervalt met ingang van 1 januari 2031 met dien verstande dat de regeling van toepassing blijft op subsidies die zijn verleend op grond van deze regeling.
+2. Deze regeling vervalt met ingang van 1 januari 2031 met dien verstande dat de regeling van toepassing blijft op subsidies die zijn verleend op grond van deze regeling.
 
 ##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling start-ups Big Chemistry.
-
-## Bijlage. Beoordelingscriteria aanvragen
-
-**Deze bijlage hoort bij artikel 9 van de Subsidieregeling start-ups Big Chemistry.**
-
-De Subsidieregeling start-ups Big Chemistry (hierna: subsidieregeling) regelt dat aanvragers binnen een aanvraagperiode een aanvraag kunnen doen voor daarvoor in aanmerking komende activiteiten. De subsidieregeling omschrijft in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052638&artikel=4&z=2026-05-27&g=2026-05-27) de activiteiten die in aanmerking komen voor subsidie.
-
-De minister beoordeelt subsidieaanvragen op grond van een aantal beoordelingscriteria, die in de subsidieregeling zijn opgenomen in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0052638&artikel=9&z=2026-05-27&g=2026-05-27). In deze bijlage zijn de beoordelingscriteria nader uitgewerkt en uitgelegd.
-
-Om de besluitvorming zorgvuldig voor te bereiden wordt onder verantwoordelijkheid van de uitvoerder van de subsidieregeling, de Regionale Ontwikkelingsmaatschappij Oost NL, een groep van deskundige partijen samengesteld om de aanvragen te toetsen aan de beoordelingscriteria die in deze regeling zijn vastgesteld. In deze bijlage wordt de groep aangeduid als de beoordelingscommissie. De leden van deze commissie conformeren zich aan de **Code persoonlijke belangen** van NWO.
-
-Een aanvraag wordt beoordeeld aan de hand van vijf beoordelingscriteria; A tot en met E. Criterium A toetst of de activiteiten waarvoor subsidie wordt aangevraagd aansluiten bij het doel van de regeling en zich richten op de toepassingsgebieden als gedefinieerd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052638&artikel=1&z=2026-05-27&g=2026-05-27) van de regeling. Dit criterium kan met ‘ja’ of ‘nee’ worden beoordeeld. Als een aanvraag niet aan criterium A voldoet wordt de aanvraag direct afgewezen zonder verdere inhoudelijke beoordeling op de overige criteria.
-
-Als een aanvraag aan criterium A voldoet wordt de kwaliteit van een aanvraag beoordeeld aan de hand van beoordelingscriterium B tot en met E. Voor ieder van deze beoordelingscriteria kan een puntentotaal van 50 worden behaald, en ieder afzonderlijk criterium moet ten minste met een voldoende worden beoordeeld. Een voldoende wordt gehaald met een puntenaantal van ten minste 30. De totale score van een aanvraag die voor subsidie in aanmerking komt bedraagt derhalve minimaal 120 punten, evenredig verdeeld over de vier beoordelingscriteria. Een onvoldoende voor een beoordelingscriterium kan niet worden gecompenseerd met een goed of zeer goed op een ander beoordelingscriterium. Aan het geheel van activiteiten kan een score van maximaal 200 punten worden toegekend.
-
-### Criterium A. Bijdrage aan het Programma Big Chemistry
-
-Voor dit criterium wordt beoordeeld of de activiteiten waarvoor subsidie wordt aangevraagd aansluiten bij het doel van de regeling en zich richten op de toepassingsgebieden als gedefinieerd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052638&artikel=1&z=2026-05-27&g=2026-05-27) van de regeling.
-
-De activiteiten binnen een project dienen een bijdrage te leveren aan het ontwikkelen, combineren en toepassen van (experimentele) chemie met automatisering of kunstmatige intelligentie. Het gaat daarbij om de integratie van technologische reactieplatforms voor parallelle of seriële experimenten, robothulpmiddelen voor lab-automatisering, dan wel de ontwikkeling van op de chemie toegespitste artificiële intelligentie-modellen. De activiteiten richten zich op een of meerdere toepassingsgebieden, op een manier of met een doelstelling als hieronder toegelicht.
-
-### Criterium B. Innovatie & integrale aanpak
-
-**Score: Aan dit criterium kunnen maximaal 50 punten worden toegekend.**
-
-Bij dit criterium wordt het innovatieve karakter van het project en de mate waarin een geïntegreerde aanpak wordt toegepast beoordeeld, zowel inhoudelijk als organisatorisch.
-
-De mate van technologische en methodologische innovatie wordt beoordeeld op basis van:
-
-De mate van integraliteit wordt beoordeeld op basis van:
-
-### Criterium C. Economisch, technologisch en organisatorisch toekomstperspectief
-
-**Score: Aan dit criterium kunnen maximaal 50 punten worden toegekend.**
-
-Dit criterium beoordeelt de uitvoeringsgereedheid van het project, de technologische en economische haalbaarheid, en de mate waarin het project bijdraagt aan een solide toekomstperspectief voor opschaling, marktintroductie en duurzame bedrijfsvoering.
-
-De uitvoeringsgereedheid wordt beoordeeld op basis van:
-
-De technologische haalbaarheid wordt beoordeeld op basis van:
-
-De economische haalbaarheid en het marktperspectief worden beoordeeld op basis van:
-
-De financiële haalbaarheid wordt beoordeeld op basis van:
-
-### Criterium D. – Duurzame ontwikkeling & maatschappelijke impact
-
-**Score: Aan dit criterium kunnen maximaal 50 punten worden toegekend.**
-
-Dit criterium beoordeelt de mate waarin het project bijdraagt aan duurzame ontwikkeling en maatschappelijke waarde creatie binnen de chemische en maakindustrie.
-
-De duurzaamheidsbijdrage wordt beoordeeld op basis van:
-
-De bijdrage aan gezondheid, veiligheid en welzijn wordt beoordeeld op basis van:
-
-De maatschappelijke en economische meerwaarde wordt beoordeeld op basis van:
-
-De lange termijn impact en opschaalbaarheid worden beoordeeld op basis van:
-
-### Criterium E. – Ecosysteem, kennisdeling & IP-strategie
-
-**Score: Aan dit criterium kunnen maximaal 50 punten worden toegekend.**
-
-Bij dit criterium wordt beoordeeld in welke mate het project bijdraagt aan versterking van het Nederlandse innovatiesysteem binnen Big Chemistry, door middel van kennisdeling, samenwerking en effectieve omgang met intellectueel eigendom.
-
-De kwaliteit van kennisdeling en ecosysteemvorming wordt beoordeeld op basis van:
-
-De strategie voor intellectueel eigendom, waaronder inbegrepen bedrijfsgeheimen (hierna: IP), en kennisoverdracht wordt beoordeeld op basis van:

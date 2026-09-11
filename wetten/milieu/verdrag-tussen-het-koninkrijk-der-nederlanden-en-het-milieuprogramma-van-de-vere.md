@@ -1,82 +1,43 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Milieuprogramma van de Verenigde Naties betreffende de zetel van het coördinatiekantoor van het Wereldomvattend Programma van actie tot bescherming van het mariene milieu tegen activiteiten die op het land plaatsvinden"
 identifier: "BWBV0001315"
-country: "nl"
-rank: "verdrag"
-publication_date: "2002-02-15"
-last_updated: "2002-02-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001315"
+categorie: "Milieu"
 soort: "verdrag"
-stam_id: "10000616253"
-version_id: "10000634432"
-internal_id: "C10007608381"
-label_id: "10000616494"
-original_entry_into_force: "1998-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001315/2002-02-15/0"
-intitule_bron: "Trb.1997-326"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-11-24"
-intitule_published: "1997-12-31"
-intitule_in_force: "1997-12-31"
-intitule_status: "goed"
-original_publication: "Trb.1997-326"
-original_signed_date: "1997-11-24"
-original_published_date: "1997-12-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1997-326"
-entry_into_force_date: "1998-01-01"
-jci_1_3: "jci1.3:c:BWBV0001315&z=2002-02-15&g=2002-02-15"
-jci_1_0: "1.0:c:BWBV0001315&g=2002-02-15"
-citeertitel_status: "officieel"
-signed_date: "1997-11-24"
-entry_into_force: "1998-01-01"
+publicatiedatum: 1998-01-01
+laatste_update: 2002-02-15
+status: geldig
+toestand: 2002-02-15
+bron: "https://wetten.overheid.nl/BWBV0001315"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Milieuprogramma van de Verenigde Naties betreffende de zetel van het coördinatiekantoor van het Wereldomvattend Programma van actie tot bescherming van het mariene milieu tegen activiteiten die op het land plaatsvinden
 
-The Kingdom of the Netherlands,
-
-and
-
-the United Nations Environment Programme;
-
-Whereas an intergovernmental conference convened in Washington D.C. from 23 October to 3 November 1995 adopted the Global Programme of Action for the Protection of the Marine Environment from Land-based Activities and endorsed the Washington Declaration on Protection of the Marine Environment from Land-based Activities;
-
-Noting the undertaking of the Government of the Kingdom of the Netherlands to ensure the availability of all the necessary facilities and conditions to enable the Coordination Office to perform its functions, including its scheduled programme of work and related activities;
-
-Having regard to the institutional arrangements for implementation of the Global Programme of Action, for which the United Nations Environment Programme is the Secretariat, regarding the legal status, privileges and immunities of the Coordination Office of the Global Programme of Action for the Protection of the Marine Environment from Land-based Activities, its Coordinator and its Officials;
-
-Noting the General Convention on the Privileges and Immunities of the United Nations adopted on 13 February 1946 by the United Nations General Assembly, to which the Kingdom of the Netherlands is a party, applies to United Nations officials servicing the Coordination Office, and that individual or specific privileges not covered by this Convention make further provisions necessary;
-
-Desiring, therefore, to conclude an Agreement for the purpose of determining such individual or specific privileges to be granted by the Government of the Kingdom of the Netherlands with respect to the Coordination Office of the Global Programme of Action for the Protection of the Marine Environment from Land-based Activities in the territory of the Kingdom of the Netherlands at The Hague;
-
-Have agreed as follows:
-
-Voor inwerkingtreding zie ook Trb. 1997/326. Voor inwerkingtreding zie ook Trb. 2002/215.
+*The Kingdom of the Netherlands, and the United Nations Environment Programme; Whereas an intergovernmental conference convened in Washington D.C. from 23 October to 3 November 1995 adopted the Global Programme of Action for the Protection of the Marine Environment from Land-based Activities and endorsed the Washington Declaration on Protection of the Marine Environment from Land-based Activities; Noting the undertaking of the Government of the Kingdom of the Netherlands to ensure the availability of all the necessary facilities and conditions to enable the Coordination Office to perform its functions, including its scheduled programme of work and related activities; Having regard to the institutional arrangements for implementation of the Global Programme of Action, for which the United Nations Environment Programme is the Secretariat, regarding the legal status, privileges and immunities of the Coordination Office of the Global Programme of Action for the Protection of the Marine Environment from Land-based Activities, its Coordinator and its Officials; Noting the General Convention on the Privileges and Immunities of the United Nations adopted on 13 February 1946 by the United Nations General Assembly, to which the Kingdom of the Netherlands is a party, applies to United Nations officials servicing the Coordination Office, and that individual or specific privileges not covered by this Convention make further provisions necessary; Desiring, therefore, to conclude an Agreement for the purpose of determining such individual or specific privileges to be granted by the Government of the Kingdom of the Netherlands with respect to the Coordination Office of the Global Programme of Action for the Protection of the Marine Environment from Land-based Activities in the territory of the Kingdom of the Netherlands at The Hague; Have agreed as follows:*
 
 ##### Article I. Definitions
 
 In this Agreement:
 
-- a). “GPA” means the Global Programme of Action for the Protection of the Marine Environment from Land-based Activities, as adopted by Governments at the Intergovernmental Conference in Washington D.C. on 3 November 1995;
+- a) “GPA” means the Global Programme of Action for the Protection of the Marine Environment from Land-based Activities, as adopted by Governments at the Intergovernmental Conference in Washington D.C. on 3 November 1995;
 
-- b). “UNEP” means the institutional and financial arrangements for the United Nations Environment Programme established by the General Assembly of the United Nations in resolution 2997 (XXVII) of 15 December 1972, and such other institutional and financial arrangements as may from time to time be made for the United Nations Environment Programme;
+- b) “UNEP” means the institutional and financial arrangements for the United Nations Environment Programme established by the General Assembly of the United Nations in resolution 2997 (XXVII) of 15 December 1972, and such other institutional and financial arrangements as may from time to time be made for the United Nations Environment Programme;
 
-- c). “Coordination Office” means the technical coordination office of the GPA;
+- c) “Coordination Office” means the technical coordination office of the GPA;
 
-- d). “the Coordinator” means the official of the Coordination Office who is the Head of the Coordination Office;
+- d) “the Coordinator” means the official of the Coordination Office who is the Head of the Coordination Office;
 
-- e). “the Government” means the Government of the Kingdom of the Netherlands;
+- e) “the Government” means the Government of the Kingdom of the Netherlands;
 
-- f). “Parties” means the Kingdom of the Netherlands and UNEP;
+- f) “Parties” means the Kingdom of the Netherlands and UNEP;
 
-- g). “Officials” means persons appointed or recruited by the United Nations for employment with the Coordination Office for the purpose of carrying out its official functions, including the Coordinator; it does not include persons in the domestic service of the Coordination Office or persons recruited locally and remunerated on an hourly basis;
+- g) “Officials” means persons appointed or recruited by the United Nations for employment with the Coordination Office for the purpose of carrying out its official functions, including the Coordinator; it does not include persons in the domestic service of the Coordination Office or persons recruited locally and remunerated on an hourly basis;
 
-- h). “Premises” means the premises of the Coordination Office and any buildings, parts of buildings or facilities used by the Coordination Office on a permanent or temporary basis, to carry out its official functions;
+- h) “Premises” means the premises of the Coordination Office and any buildings, parts of buildings or facilities used by the Coordination Office on a permanent or temporary basis, to carry out its official functions;
 
-- i). “Experts” means persons, other than those referred to in sub-paragraph g) of this article, designated by UNEP or the Coordination Office to perform official missions for the Coordination Office;
+- i) “Experts” means persons, other than those referred to in sub-paragraph g) of this article, designated by UNEP or the Coordination Office to perform official missions for the Coordination Office;
 
-- j). “Convention” means the Convention on the Privileges and Immunities of the United Nations of 13 February 1946.
+- j) “Convention” means the Convention on the Privileges and Immunities of the United Nations of 13 February 1946.
 
 ##### Article 2. Application of the Convention
 
@@ -106,19 +67,19 @@ The inviolability of the archives shall be understood to apply to all records, c
 
 1. In addition to section 7 and 8 of the Convention the Coordination Office shall, within the scope of its official activities, be exempt from the following taxes:
 
-- a). import taxes and duties (belastingen bij invoer);
+- a) import taxes and duties (belastingen bij invoer);
 
-- b). motor vehicle tax (motorrijtuigenbelasting);
+- b) motor vehicle tax (motorrijtuigenbelasting);
 
-- c). tax on passenger motor vehicles and motorcycles (BPM);
+- c) tax on passenger motor vehicles and motorcycles (BPM);
 
-- d). value added tax (omzetbelasting) paid on goods and services involving considerable expenditure or supplied on a recurring basis;
+- d) value added tax (omzetbelasting) paid on goods and services involving considerable expenditure or supplied on a recurring basis;
 
-- e). excise duties (accijnzen) included in the price of alcoholic beverages and hydrocarbons such as fuel oils and motor fuels;
+- e) excise duties (accijnzen) included in the price of alcoholic beverages and hydrocarbons such as fuel oils and motor fuels;
 
-- f). real property transfer tax (overdrachtsbelasting);
+- f) real property transfer tax (overdrachtsbelasting);
 
-- g). insurance tax (assurantiebelasting).
+- g) insurance tax (assurantiebelasting).
 
 2. The exemptions provided for in paragraph 1 d), e), f) and g) of this article may be granted by way of a refund. The exemptions provided for in this article shall apply in accordance with the regulations in force in the Kingdom of the Netherlands.
 
@@ -128,11 +89,11 @@ The inviolability of the archives shall be understood to apply to all records, c
 
 1. In addition to the provisions of section 18 of the Convention the Officials shall also:
 
-- a). enjoy immunity referred to in paragraph a) of that section notwithstanding that the Officials concerned may have ceased to be Officials of the United Nations;
+- a) enjoy immunity referred to in paragraph a) of that section notwithstanding that the Officials concerned may have ceased to be Officials of the United Nations;
 
-- b). enjoy immunity from inspection and seizure of their personal and/or official baggage; except in cases of **flagrante delicto.**In such cases, the appropriate Government authorities shall immediately inform the Coordinator. Inspections shall, in the case of personal baggage, be conducted only in the presence of the official or his authorized representative, and in the case of official baggage, in the presence of an authorized representative of the Coordination Office;
+- b) enjoy immunity from inspection and seizure of their personal and/or official baggage; except in cases of *flagrante delicto.*In such cases, the appropriate Government authorities shall immediately inform the Coordinator. Inspections shall, in the case of personal baggage, be conducted only in the presence of the official or his authorized representative, and in the case of official baggage, in the presence of an authorized representative of the Coordination Office;
 
-- c). in accordance with the regulations in force, if they are non-residents, have relief from duties and taxes (except payments for services) in respect of import of their furniture and personal effects, including motorvehicles, at the time of first taking up their post in the Netherlands and the right on the termination of their function in the Netherlands to export with relief from duties and taxes their furniture and personal effects, subject, in both cases, to the conditions agreed with the Government and the regulations in force applicable to international organisations situated within the territory of the Kingdom of the Netherlands.
+- c) in accordance with the regulations in force, if they are non-residents, have relief from duties and taxes (except payments for services) in respect of import of their furniture and personal effects, including motorvehicles, at the time of first taking up their post in the Netherlands and the right on the termination of their function in the Netherlands to export with relief from duties and taxes their furniture and personal effects, subject, in both cases, to the conditions agreed with the Government and the regulations in force applicable to international organisations situated within the territory of the Kingdom of the Netherlands.
 
 2. The Coordinator shall enjoy with respect to himself and to dependant members of his family forming part of his household the privileges and immunities granted to heads of diplomatic missions accredited to the Government, in accordance with the Vienna Convention on Diplomatic Relations of 18 April 1961.
 
@@ -154,11 +115,11 @@ With respect to section 17 of the Convention the following shall also apply:
 
 1. UNEP shall promptly notify the Government of:
 
-- a). the appointment of Officials and Experts, their arrival and their final departure, or the termination of their functions with UNEP or the Coordination Office;
+- a) the appointment of Officials and Experts, their arrival and their final departure, or the termination of their functions with UNEP or the Coordination Office;
 
-- b). the arrival and final departure of dependant members of the families forming part of the households of the persons referred to in sub-paragraph a) of this article and, where appropriate, the fact that a person has ceased to form part of the household;
+- b) the arrival and final departure of dependant members of the families forming part of the households of the persons referred to in sub-paragraph a) of this article and, where appropriate, the fact that a person has ceased to form part of the household;
 
-- c). the arrival and final departure of domestic employees of persons referred to in sub-paragraph a) of this article and, where appropriate, the fact that they are leaving the employ of such persons.
+- c) the arrival and final departure of domestic employees of persons referred to in sub-paragraph a) of this article and, where appropriate, the fact that they are leaving the employ of such persons.
 
 2. The privileges and immunities granted to the respective categories of persons referred to under paragraph I of this article shall be implemented upon arrival of such persons and shall be repealed two weeks after notification to the Ministry that either the person has terminated his function with the Coordination Office, or has ceased to be a dependant member of the family forming part of the household of a person referred to under paragraph 1, sub-paragraph a). In any case, privileges and immunities shall be repealed immediately after final departure of the persons concerned.
 
@@ -176,11 +137,11 @@ With respect to section 17 of the Convention the following shall also apply:
 
 2. The following persons are members of the family forming part of the household in the sense of paragraph 1:
 
-- a). the spouses or registered partners of Officials of the Coordination Office;
+- a) the spouses or registered partners of Officials of the Coordination Office;
 
-- b). children of Officials of the Coordination Office who are under the age of 18;
+- b) children of Officials of the Coordination Office who are under the age of 18;
 
-- c). children of Officials of the Coordination Office aged 18 or over, but not older than 27, provided that they formed part of the Official's household prior to their first entry into the Netherlands and still form part of this household, and that they are unmarried, financially dependent on the Official of the Coordination Office concerned and are attending education in the Netherlands.
+- c) children of Officials of the Coordination Office aged 18 or over, but not older than 27, provided that they formed part of the Official's household prior to their first entry into the Netherlands and still form part of this household, and that they are unmarried, financially dependent on the Official of the Coordination Office concerned and are attending education in the Netherlands.
 
 3. Persons mentioned in paragraph 2 of this Article who obtain gainful employment shall have no immunity from criminal, civil or administrative jurisdiction with respect to matters arising in the course of or in connection with such employment, provided that measures of execution are taken without infringing the inviolability of their person or of their residence, if they are entitled to such inviolability.
 
@@ -224,10 +185,10 @@ IN WITNESS WHEREOF the undersigned, duly authorized to that effect, have signed 
 
 DONE at The Hague on 24 November 1997, in duplicate in the English language.
 
-**For the Kingdom of the Netherlands**
+*For the Kingdom of the Netherlands*
 
 (sd.) J. J. JONKER ROELANTS
 
-**For the United Nations Environment Programme**
+*For the United Nations Environment Programme*
 
 (sd.) E. DOWDESWELL

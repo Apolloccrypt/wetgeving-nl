@@ -1,72 +1,41 @@
 ---
 title: "Protocol inzake de voorrechten en immuniteiten van de Internationale Zeebodemautoriteit"
 identifier: "BWBV0001557"
-country: "nl"
-rank: "verdrag"
-publication_date: "2003-05-31"
-last_updated: "2003-05-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001557"
+categorie: "Milieu"
 soort: "verdrag"
-stam_id: "10000696043"
-version_id: "10000714202"
-internal_id: "C10006990111"
-label_id: "10000696314"
-original_entry_into_force: "2003-05-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001557/2003-05-31/0"
-intitule_bron: "Trb.1998-242"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-11-21"
-intitule_published: "1998-10-26"
-intitule_in_force: "2003-06-18"
-intitule_status: "goed"
-original_publication: "Trb.1998-242"
-original_signed_date: "2002-11-21"
-original_published_date: "1998-10-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1998-242"
-entry_into_force_date: "2003-05-31"
-jci_1_3: "jci1.3:c:BWBV0001557&z=2003-05-31&g=2003-05-31"
-jci_1_0: "1.0:c:BWBV0001557&g=2003-05-31"
-citeertitel_status: "officieel"
-signed_date: "2002-11-21"
-entry_into_force: "2003-05-31"
+publicatiedatum: 2003-05-31
+laatste_update: 2003-05-31
+status: geldig
+toestand: 2003-05-31
+bron: "https://wetten.overheid.nl/BWBV0001557"
+opgehaald: 2026-09-11
 ---
+
 # Protocol inzake de voorrechten en immuniteiten van de Internationale Zeebodemautoriteit
 
-The States Parties to this Protocol,
-
-Considering that the [United Nations Convention on the Law of the Sea](https://wetten.overheid.nl/jci1.3:c:BWBV0003172) establishes the International Seabed Authority,
-
-Recalling that [article 176 of the United Nations Convention on the Law of the Sea](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=176) provides that the Authority shall have international legal personality and such legal capacity as may be necessary for the exercise of its functions and the fulfilment of its purposes,
-
-Noting that [article 177 of the United Nations Convention on the Law of the Sea](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=177) provides that the Authority shall enjoy in the territory of each State Party to the Convention the privileges and immunities set forth in [section 4, subsection G of Part XI of the Conventio](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&deel=XI)n and that the privileges and immunities of the Enterprise shall be those set forth in [annex IV, article 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=13),
-
-Recognizing that certain additional privileges and immunities are necessary for the exercise of the functions of the International Seabed Authority,
-
-Have agreed as follows:
+*The States Parties to this Protocol, Considering that the United Nations Convention on the Law of the Sea establishes the International Seabed Authority, Recalling that article 176 of the United Nations Convention on the Law of the Sea provides that the Authority shall have international legal personality and such legal capacity as may be necessary for the exercise of its functions and the fulfilment of its purposes, Noting that article 177 of the United Nations Convention on the Law of the Sea provides that the Authority shall enjoy in the territory of each State Party to the Convention the privileges and immunities set forth in section 4, subsection G of Part XI of the Convention and that the privileges and immunities of the Enterprise shall be those set forth in annex IV, article 13, Recognizing that certain additional privileges and immunities are necessary for the exercise of the functions of the International Seabed Authority, Have agreed as follows:*
 
 ##### Article 1. Use of terms
 
 For the purposes of this Protocol:
 
-- a). “Authority" means the International Seabed Authority;
+- a) “Authority" means the International Seabed Authority;
 
-- b). “[Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003172)" means the United Nations Convention on the Law of the Sea of 10 December 1982;
+- b) “[Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003172)" means the United Nations Convention on the Law of the Sea of 10 December 1982;
 
-- c). “[Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0001149)" means the Agreement relating to the Implementation of Part XI of the United Nations Convention on the Law of the Sea of 10 December 1982. In accordance with the Agreement, its provisions and [Part XI of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&deel=XI) are to be interpreted and applied together as a single instrument; this Protocol and references in this Protocol to the Convention are to be interpreted and applied accordingly;
+- c) “[Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0001149)" means the Agreement relating to the Implementation of Part XI of the United Nations Convention on the Law of the Sea of 10 December 1982. In accordance with the Agreement, its provisions and [Part XI of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&deel=XI) are to be interpreted and applied together as a single instrument; this Protocol and references in this Protocol to the Convention are to be interpreted and applied accordingly;
 
-- d). “Enterprise" means the organ of the Authority as provided for in the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003172);
+- d) “Enterprise" means the organ of the Authority as provided for in the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003172);
 
-- e). “member of the Authority" means:
+- e) “member of the Authority" means:
 
-- (i). any State Party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003172); and
+   - (i) any State Party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003172); and
 
-- (ii). any State or entity which is a member of the Authority on a provisional basis pursuant to [paragraph 12 (a) of section 1 of the annex to the Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0001149&artikel=12);
+   - (ii) any State or entity which is a member of the Authority on a provisional basis pursuant to [paragraph 12 (a) of section 1 of the annex to the Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0001149&artikel=12);
 
-- f). “representatives" means representatives, alternate representatives, advisers, technical experts and secretaries of the delegations;
+- f) “representatives" means representatives, alternate representatives, advisers, technical experts and secretaries of the delegations;
 
-- g). “Secretary-General" means the Secretary-General of the International Seabed Authority.
+- g) “Secretary-General" means the Secretary-General of the International Seabed Authority.
 
 ##### Article 2. General provision
 
@@ -76,11 +45,11 @@ Without prejudice to the legal status, privileges and immunities accorded to the
 
 1. The Authority shall possess legal personality. It shall have the legal capacity:
 
-- a). to contract;
+- a) to contract;
 
-- b). to acquire and dispose of immovable and movable property;
+- b) to acquire and dispose of immovable and movable property;
 
-- c). to be a party in legal proceedings.
+- c) to be a party in legal proceedings.
 
 ##### Article 4. Inviolability of the premises of the Authority
 
@@ -90,11 +59,11 @@ The premises of the Authority shall be inviolable.
 
 1. Without being restricted by financial controls, regulations or moratoriums of any kind, the Authority may freely:
 
-- a). purchase any currencies through authorized channels and hold and dispose of them;
+- a) purchase any currencies through authorized channels and hold and dispose of them;
 
-- b). hold funds, securities, gold, precious metals or currency of any kind and operate accounts in any currency;
+- b) hold funds, securities, gold, precious metals or currency of any kind and operate accounts in any currency;
 
-- c). transfer its funds, securities, gold or currency from one country to another or within any country and convert any currency held by it into any other currency.
+- c) transfer its funds, securities, gold or currency from one country to another or within any country and convert any currency held by it into any other currency.
 
 2. The Authority shall, in exercising its rights under paragraph 1 of this article, pay due regard to any representations made by the Government of any member of the Authority insofar as it is considered that effect can be given to such representations without detriment to the interests of the Authority.
 
@@ -106,17 +75,17 @@ The Authority shall be entitled to display its flag and emblem at its premises a
 
 1. Representatives of members of the Authority attending meetings convened by the Authority shall, while exercising their functions and during their journey to and from the place of meeting, enjoy the following privileges and immunities:
 
-- a). immunity from legal process in respect of words spoken or written, and all acts performed by them in the exercise of their functions, except to the extent that the member which they represent expressly waives this immunity in a particular case;
+- a) immunity from legal process in respect of words spoken or written, and all acts performed by them in the exercise of their functions, except to the extent that the member which they represent expressly waives this immunity in a particular case;
 
-- b). immunity from personal arrest or detention and the same immunities and facilities in respect of their personal baggage as are accorded to diplomatic envoys;
+- b) immunity from personal arrest or detention and the same immunities and facilities in respect of their personal baggage as are accorded to diplomatic envoys;
 
-- c). inviolability for all papers and documents;
+- c) inviolability for all papers and documents;
 
-- d). the right to use codes and to receive papers or correspondence by courier or in sealed bags;
+- d) the right to use codes and to receive papers or correspondence by courier or in sealed bags;
 
-- e). exemption in respect of themselves and their spouses from immigration restrictions, alien registration or national service obligations in the State they are visiting or through which they are passing in the exercise of their functions;
+- e) exemption in respect of themselves and their spouses from immigration restrictions, alien registration or national service obligations in the State they are visiting or through which they are passing in the exercise of their functions;
 
-- f). the same facilities as regards exchange restrictions as are accorded to representatives of foreign Governments of comparable rank on temporary official missions.
+- f) the same facilities as regards exchange restrictions as are accorded to representatives of foreign Governments of comparable rank on temporary official missions.
 
 2. In order to secure, for the representatives of members of the Authority, complete freedom of speech and independence in the discharge of their duties, the immunity from legal process in respect of all acts done by them in discharging their functions shall continue to be accorded, notwithstanding that the persons concerned are no longer representatives of members of the Authority.
 
@@ -134,23 +103,23 @@ The Authority shall be entitled to display its flag and emblem at its premises a
 
 2. Officials of the Authority, regardless of nationality, shall:
 
-- a). be immune from legal process in respect of words spoken or written and all acts performed by them in their official capacity;
+- a) be immune from legal process in respect of words spoken or written and all acts performed by them in their official capacity;
 
-- b). be immune from personal arrest or detention in relation to acts performed by them in their official capacity;
+- b) be immune from personal arrest or detention in relation to acts performed by them in their official capacity;
 
-- c). be exempt from tax in respect of salaries and emoluments paid or any other form of payment made by the Authority;
+- c) be exempt from tax in respect of salaries and emoluments paid or any other form of payment made by the Authority;
 
-- d). be immune from national service obligations provided that, in relation to States of which they are national, such immunity shall be confined to officials of the Authority whose names have, by reason of their duties, been placed upon a list compiled by the Secretary-General and approved by the State concerned; should other officials of the Authority be called up for national service, the State concerned shall, at the request of the Secretary-General, grant such temporary deferments in the call-up of such officials as may be necessary to avoid interruption in the continuation of essential work;
+- d) be immune from national service obligations provided that, in relation to States of which they are national, such immunity shall be confined to officials of the Authority whose names have, by reason of their duties, been placed upon a list compiled by the Secretary-General and approved by the State concerned; should other officials of the Authority be called up for national service, the State concerned shall, at the request of the Secretary-General, grant such temporary deferments in the call-up of such officials as may be necessary to avoid interruption in the continuation of essential work;
 
-- e). be exempt, together with their spouses and relatives dependent on them, from immigration restrictions and alien registration;
+- e) be exempt, together with their spouses and relatives dependent on them, from immigration restrictions and alien registration;
 
-- f). be accorded the same privileges in respect of exchange facilities as are accorded to the officials of comparable ranks forming part of diplomatic missions to the Governments concerned;
+- f) be accorded the same privileges in respect of exchange facilities as are accorded to the officials of comparable ranks forming part of diplomatic missions to the Governments concerned;
 
-- g). have the right to import free of duty their furniture and effects at the time of first taking up their post in the country in question;
+- g) have the right to import free of duty their furniture and effects at the time of first taking up their post in the country in question;
 
-- h). be exempt from inspection of personal baggage, unless there are serious grounds for believing that the baggage contains articles not for personal use or articles the import or export of which is prohibited by the law or controlled by the quarantine regulations of the Party concerned; and inspection in such a case shall be conducted in the presence of the official concerned, and in the case of official baggage, in the presence of the Secretary-General or his or her authorized representative;
+- h) be exempt from inspection of personal baggage, unless there are serious grounds for believing that the baggage contains articles not for personal use or articles the import or export of which is prohibited by the law or controlled by the quarantine regulations of the Party concerned; and inspection in such a case shall be conducted in the presence of the official concerned, and in the case of official baggage, in the presence of the Secretary-General or his or her authorized representative;
 
-- i). be given, together with their spouses and relatives dependent on them, the same repatriation facilities in time of international crises as are accorded to diplomatic agents.
+- i) be given, together with their spouses and relatives dependent on them, the same repatriation facilities in time of international crises as are accorded to diplomatic agents.
 
 3. In addition to the privileges and immunities specified in paragraph 2, the Secretary-General or any official acting on his behalf during his absence from duty and the Director-General of the Enterprise shall be accorded in respect of themselves, their spouses and minor children the privileges and immunities, exemptions and facilities accorded to diplomatic envoys, in accordance with international law.
 
@@ -164,17 +133,17 @@ The Authority shall be entitled to display its flag and emblem at its premises a
 
 1. Experts (other than officials coming within the scope of article 8) performing missions for the Authority shall be accorded such privileges and immunities as are necessary for the independent exercise of their functions during the period of their missions, including the time spent on journeys in connection with their missions. In particular they shall be accorded:
 
-- a). immunity from personal arrest or detention and from seizure of their personal baggage;
+- a) immunity from personal arrest or detention and from seizure of their personal baggage;
 
-- b). in respect of words spoken or written and acts done by them in the exercise of their functions, immunity from legal process of every kind. This immunity shall continue notwithstanding that the persons concerned are no longer employed on missions for the Authority;
+- b) in respect of words spoken or written and acts done by them in the exercise of their functions, immunity from legal process of every kind. This immunity shall continue notwithstanding that the persons concerned are no longer employed on missions for the Authority;
 
-- c). inviolability for all papers and documents;
+- c) inviolability for all papers and documents;
 
-- d). for the purposes of their communications with the Authority, the right to use codes and to receive papers or correspondence by courier or in sealed bags;
+- d) for the purposes of their communications with the Authority, the right to use codes and to receive papers or correspondence by courier or in sealed bags;
 
-- e). exemption from tax in respect of salaries and emoluments paid or any other form of payment made by the Authority. This provision is not applicable as between an expert and the member of the Authority of which he or she is a national;
+- e) exemption from tax in respect of salaries and emoluments paid or any other form of payment made by the Authority. This provision is not applicable as between an expert and the member of the Authority of which he or she is a national;
 
-- f). the same facilities in respect of currency or exchange restrictions as are accorded to representatives of foreign Governments on temporary official missions.
+- f) the same facilities in respect of currency or exchange restrictions as are accorded to representatives of foreign Governments on temporary official missions.
 
 2. Privileges and immunities are accorded to experts, not for the personal benefit of the individuals themselves, but in order to safeguard the independent exercise of their functions in connection with the Authority. The Secretary-General shall have the right and the duty to waive the immunity of any expert where, in the opinion of the Secretary-General, the immunity would impede the course of justice, and it can be waived without prejudice to the interests of the Authority.
 
@@ -200,15 +169,15 @@ This Protocol shall in no way limit or prejudice the privileges and immunities w
 
 1. In connection with the implementation of the privileges and immunities granted under this Protocol, the Authority shall make suitable provision for the proper settlement of:
 
-- a). disputes of a private law character to which the Authority is a party;
+- a) disputes of a private law character to which the Authority is a party;
 
-- b). disputes involving any official of the Authority or any expert on mission for the Authority who by reason of his or her official position enjoys immunity, if immunity has not been waived by the Secretary-General.
+- b) disputes involving any official of the Authority or any expert on mission for the Authority who by reason of his or her official position enjoys immunity, if immunity has not been waived by the Secretary-General.
 
 2. Any dispute between the Authority and a member of the Authority concerning the interpretation or application of this Protocol which is not settled by consultation, negotiation or other agreed mode of settlement within three months following a request by one of the parties to the dispute shall, at the request of either party, be referred for a final and binding decision to a panel of three arbitrators:
 
-- a). one to be nominated by the Secretary-General, one to be nominated by the other party to the dispute and the third, who shall be Chairman of the panel, to be chosen by the first two arbitrators;
+- a) one to be nominated by the Secretary-General, one to be nominated by the other party to the dispute and the third, who shall be Chairman of the panel, to be chosen by the first two arbitrators;
 
-- b). if either party has failed to make its appointment of an arbitrator within two months of the appointment of an arbitrator by the other party, the President of the International Tribunal for the Law of the Sea shall proceed to make such appointment.
+- b) if either party has failed to make its appointment of an arbitrator within two months of the appointment of an arbitrator by the other party, the President of the International Tribunal for the Law of the Sea shall proceed to make such appointment.
 
 Should the first two arbitrators fail to agree upon the appointment of the third arbitrator within three months following the appointment of the first two arbitrators, the third arbitrator shall be chosen by the President of the International Tribunal for the Law of the Sea upon the request of the Secretary-General or the other party to the dispute.
 

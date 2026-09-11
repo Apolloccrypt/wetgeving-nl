@@ -1,43 +1,19 @@
 ---
 title: "Verdrag inzake uitlevering tussen het Koninkrijk der Nederlanden en Australië"
 identifier: "BWBV0001040"
-country: "nl"
-rank: "verdrag"
-publication_date: "1988-02-01"
-last_updated: "1988-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001040"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002495143"
-version_id: "10002488302"
-internal_id: "C10006978151"
-label_id: "10002484704"
-dtd_version: "2.0"
-original_entry_into_force: "1988-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001040/1988-02-01/0"
-intitule_bron: "Trb.1985-137"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1987-12-18"
-intitule_published: "1985-10-11"
-intitule_in_force: "1988-01-21"
-intitule_status: "goed"
-original_publication: "Trb.1985-137"
-original_signed_date: "1987-12-18"
-original_published_date: "1985-10-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1985-137"
-entry_into_force_date: "1988-02-01"
-jci_1_3: "jci1.3:c:BWBV0001040&z=1988-02-01&g=1988-02-01"
-jci_1_0: "1.0:c:BWBV0001040&g=1988-02-01"
-citeertitel_status: "redactioneel"
-signed_date: "1987-12-18"
-entry_into_force: "1988-02-01"
+publicatiedatum: 1988-02-01
+laatste_update: 1988-02-01
+status: geldig
+toestand: 1988-02-01
+bron: "https://wetten.overheid.nl/BWBV0001040"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag inzake uitlevering tussen het Koninkrijk der Nederlanden en Australië
 
-Het Koninkrijk der Nederlanden en Australië, geleid door de wens de samenwerking tussen de beide landen bij de bestrijding van de misdaad doeltreffender te doen zijn door een verdrag te sluiten inzake de uitlevering van personen die worden verdacht van of zijn veroordeeld wegens strafbare feiten,
-
-Zijn overeengekomen als volgt:
+*Het Koninkrijk der Nederlanden en Australië, geleid door de wens de samenwerking tussen de beide landen bij de bestrijding van de misdaad doeltreffender te doen zijn door een verdrag te sluiten inzake de uitlevering van personen die worden verdacht van of zijn veroordeeld wegens strafbare feiten, Zijn overeengekomen als volgt:*
 
 ##### Artikel 1. Verplichting tot uitlevering
 
@@ -61,25 +37,25 @@ Elke Verdragsluitende Partij komt overeen aan de andere uit te leveren, overeenk
 
 1. Uitlevering wordt niet toegestaan wanneer zich een van de volgende omstandigheden voordoet:
 
-- (a). wanneer het strafbare feit waarvoor uitlevering wordt verzocht een politiek delict is of een feit samenhangend met een politiek delict. De term politiek delict omvat niet het van het leven beroven of de poging daartoe van een staatshoofd of een lid van zijn of haar familie en evenmin een delict ingevolge de wetgeving betreffende genocide;
+- (a) wanneer het strafbare feit waarvoor uitlevering wordt verzocht een politiek delict is of een feit samenhangend met een politiek delict. De term politiek delict omvat niet het van het leven beroven of de poging daartoe van een staatshoofd of een lid van zijn of haar familie en evenmin een delict ingevolge de wetgeving betreffende genocide;
 
-- (b). wanneer er een gegrond vermoeden bestaat dat een verzoek tot uitlevering voor een gewoon strafbaar feit is gedaan ten einde een persoon te vervolgen of te straffen wegens diens ras, godsdienst, nationaliteit of politieke overtuiging of dat die persoon om een van die redenen in een nadelige positie kan komen te verkeren;
+- (b) wanneer er een gegrond vermoeden bestaat dat een verzoek tot uitlevering voor een gewoon strafbaar feit is gedaan ten einde een persoon te vervolgen of te straffen wegens diens ras, godsdienst, nationaliteit of politieke overtuiging of dat die persoon om een van die redenen in een nadelige positie kan komen te verkeren;
 
-- (c). het feit waarvoor uitlevering wordt verzocht een delict is krachtens het militaire recht, dat geen delict is krachtens de algemene strafwet van de Verdragsluitende Partijen;
+- (c) het feit waarvoor uitlevering wordt verzocht een delict is krachtens het militaire recht, dat geen delict is krachtens de algemene strafwet van de Verdragsluitende Partijen;
 
-- (d). wanneer de opgeëiste persoon krachtens de wetten van de aangezochte Staat betreffende een eerdere vrijspraak, ontslag van rechtsvervolging, schuldigverklaring of bestraffing, danwel de verjaring niet meer strafrechtelijk kan worden vervolgd of niet langer een straf te zijnen aanzien kan worden ten uitvoer gelegd voor het feit waarvoor uitlevering wordt verzocht.
+- (d) wanneer de opgeëiste persoon krachtens de wetten van de aangezochte Staat betreffende een eerdere vrijspraak, ontslag van rechtsvervolging, schuldigverklaring of bestraffing, danwel de verjaring niet meer strafrechtelijk kan worden vervolgd of niet langer een straf te zijnen aanzien kan worden ten uitvoer gelegd voor het feit waarvoor uitlevering wordt verzocht.
 
 2. Uitlevering kan worden geweigerd wanneer zich een van de volgende omstandigheden voordoet:
 
-- (a). wanneer de persoon wiens overlevering wordt verzocht, onderdaan is van de aangezochte Staat. Indien de aangezochte Staat weigert een onderdaan van die Staat uit te leveren dient hij, indien de andere Partij zulks verzoekt en de wetten van de aangezochte Staat zulks toelaten, de zaak voor te leggen aan de bevoegde autoriteiten opdat de strafvervolging van de persoon met betrekking tot enkele of alle strafbare feiten waarvoor uitlevering is verzocht, kan worden ingesteld overeenkomstig de wetten en gebruiken van die Staat;
+- (a) wanneer de persoon wiens overlevering wordt verzocht, onderdaan is van de aangezochte Staat. Indien de aangezochte Staat weigert een onderdaan van die Staat uit te leveren dient hij, indien de andere Partij zulks verzoekt en de wetten van de aangezochte Staat zulks toelaten, de zaak voor te leggen aan de bevoegde autoriteiten opdat de strafvervolging van de persoon met betrekking tot enkele of alle strafbare feiten waarvoor uitlevering is verzocht, kan worden ingesteld overeenkomstig de wetten en gebruiken van die Staat;
 
-- (b). wanneer de bevoegde autoriteiten van de aangezochte Staat besloten hebben de persoon wiens overlevering wordt verzocht niet te vervolgen voor het feit waarvoor uitlevering wordt verzocht;
+- (b) wanneer de bevoegde autoriteiten van de aangezochte Staat besloten hebben de persoon wiens overlevering wordt verzocht niet te vervolgen voor het feit waarvoor uitlevering wordt verzocht;
 
-- (c). wanneer op het feit dat de opgeëiste persoon ten laste wordt gelegd de doodstraf is gesteld, tenzij de verzoekende Staat zich ertoe verbindt, dat de doodstraf niet zal worden opgelegd of, indien zij wordt opgelegd, niet ten uitvoer zal worden gelegd;
+- (c) wanneer op het feit dat de opgeëiste persoon ten laste wordt gelegd de doodstraf is gesteld, tenzij de verzoekende Staat zich ertoe verbindt, dat de doodstraf niet zal worden opgelegd of, indien zij wordt opgelegd, niet ten uitvoer zal worden gelegd;
 
-- (d). wanneer in de aangezochte Staat een vervolging met betrekking tot het feit waarvoor uitlevering wordt verzocht aanhangig is tegen de persoon wiens overlevering wordt verzocht; of
+- (d) wanneer in de aangezochte Staat een vervolging met betrekking tot het feit waarvoor uitlevering wordt verzocht aanhangig is tegen de persoon wiens overlevering wordt verzocht; of
 
-- (e). wanneer de aangezochte Staat, mede rekening houdend met de aard van het feit en de belangen van de verzoekende Staat, van oordeel is dat, in de omstandigheden van het geval, met name gelet op de leeftijd of gezondheid van de persoon wiens uitlevering wordt verzocht, de uitlevering van die persoon onverenigbaar zou zijn met humanitaire overwegingen.
+- (e) wanneer de aangezochte Staat, mede rekening houdend met de aard van het feit en de belangen van de verzoekende Staat, van oordeel is dat, in de omstandigheden van het geval, met name gelet op de leeftijd of gezondheid van de persoon wiens uitlevering wordt verzocht, de uitlevering van die persoon onverenigbaar zou zijn met humanitaire overwegingen.
 
 ##### Artikel 4. Uitstel van uitlevering
 
@@ -91,15 +67,15 @@ De aangezochte Staat kan de behandeling van een verzoek tot uitlevering van een 
 
 2. Bij het verzoek tot uitlevering dienen te worden gevoegd:
 
-- (a). indien de persoon wordt beschuldigd van een strafbaar feit - een bevel tot aanhouding of een afschrift van het bevel tot aanhouding van de persoon, een uiteenzetting van elk strafbaar feit waarvoor uitlevering wordt verzocht en een uiteenzetting van het handelen of nalaten (met inbegrip van plaats en tijdstip) dat de voortvluchtige met betrekking tot elk strafbaar feit ten laste wordt gelegd;
+- (a) indien de persoon wordt beschuldigd van een strafbaar feit - een bevel tot aanhouding of een afschrift van het bevel tot aanhouding van de persoon, een uiteenzetting van elk strafbaar feit waarvoor uitlevering wordt verzocht en een uiteenzetting van het handelen of nalaten (met inbegrip van plaats en tijdstip) dat de voortvluchtige met betrekking tot elk strafbaar feit ten laste wordt gelegd;
 
-- (b). indien de persoon is veroordeeld wegens een strafbaar feit - de stukken die blijk geven van de veroordeling en de opgelegde sanctie, van het feit dat de sanctie vatbaar voor onmiddellijke tenuitvoerlegging is en van de mate waarin de sanctie niet ten uitvoer is gelegd;
+- (b) indien de persoon is veroordeeld wegens een strafbaar feit - de stukken die blijk geven van de veroordeling en de opgelegde sanctie, van het feit dat de sanctie vatbaar voor onmiddellijke tenuitvoerlegging is en van de mate waarin de sanctie niet ten uitvoer is gelegd;
 
-- (c). indien de persoon is veroordeeld wegens een strafbaar feit, maar op het tijdstip van het verzoek geen sanctie is opgelegd - de stukken die blijk geven van de veroordeling en een verklaring waarin wordt bevestigd dat het voornemen bestaat een sanctie op te leggen;
+- (c) indien de persoon is veroordeeld wegens een strafbaar feit, maar op het tijdstip van het verzoek geen sanctie is opgelegd - de stukken die blijk geven van de veroordeling en een verklaring waarin wordt bevestigd dat het voornemen bestaat een sanctie op te leggen;
 
-- (d). in alle gevallen - een afschrift van de eventuele desbetreffende bepaling van de wet, welke het feit strafbaar stelt of een uiteenzetting van het toepasselijke recht ten aanzien van het feit en in beide gevallen een verklaring omtrent de maximum-straf die voor dat feit kan worden opgelegd en van een eventueel toepasselijke verjaringstermijn;
+- (d) in alle gevallen - een afschrift van de eventuele desbetreffende bepaling van de wet, welke het feit strafbaar stelt of een uiteenzetting van het toepasselijke recht ten aanzien van het feit en in beide gevallen een verklaring omtrent de maximum-straf die voor dat feit kan worden opgelegd en van een eventueel toepasselijke verjaringstermijn;
 
-- (e). in alle gevallen - een zo nauwkeurig mogelijk signalement van de opgeëiste persoon, te zamen met alle andere informatie die ertoe kan bijdragen zijn identiteit en nationaliteit vast te stellen.
+- (e) in alle gevallen - een zo nauwkeurig mogelijk signalement van de opgeëiste persoon, te zamen met alle andere informatie die ertoe kan bijdragen zijn identiteit en nationaliteit vast te stellen.
 
 3. Uitlevering van een ingevolge de bepalingen van dit Verdrag opgeëiste persoon kan worden toegestaan, ook wanneer niet is voldaan aan de voorwaarden van het eerste en tweede lid van dit artikel, mits de opgeëiste persoon ermede instemt dat zijn uitlevering zal worden gelast. Onverminderd de wetten van de aangezochte Staat is de verzoekende Staat, indien de aangezochte Staat zulks verklaart, in zulke gevallen niet gebonden door het bepaalde in het eerste en tweede lid van artikel 12.
 
@@ -111,9 +87,9 @@ De aangezochte Staat kan de behandeling van een verzoek tot uitlevering van een 
 
 2. Voor de toepassing van dit Verdrag is een stuk naar behoren gewaarmerkt indien:
 
-- (a). het is ondertekend of geattesteerd door een rechter, magistraat of functionaris in of van de verzoekende Staat; en
+- (a) het is ondertekend of geattesteerd door een rechter, magistraat of functionaris in of van de verzoekende Staat; en
 
-- (b). het is gelegaliseerd door het stempel van een ambtenaar, ministerie van algemeen bestuur of minister van de verzoekende Staat.
+- (b) het is gelegaliseerd door het stempel van een ambtenaar, ministerie van algemeen bestuur of minister van de verzoekende Staat.
 
 ##### Artikel 7. Aanvullende gegevens
 
@@ -141,15 +117,15 @@ De aangezochte Staat kan de behandeling van een verzoek tot uitlevering van een 
 
 2. Bij het bepalen aan welke Staat een persoon wordt uitgeleverd houdt de aangezochte Staat rekening met alle van belang zijnde omstandigheden en in het bijzonder met:
 
-- (a). de meerdere of mindere ernst van de strafbare feiten, indien de verzoeken verschillende feiten betreffen;
+- (a) de meerdere of mindere ernst van de strafbare feiten, indien de verzoeken verschillende feiten betreffen;
 
-- (b). de plaats en het tijdstip van het begaan van elk feit;
+- (b) de plaats en het tijdstip van het begaan van elk feit;
 
-- (c). de onderscheiden data van de verzoeken;
+- (c) de onderscheiden data van de verzoeken;
 
-- (d). de nationaliteit van de persoon; en
+- (d) de nationaliteit van de persoon; en
 
-- (e). de vaste verblijfplaats van de persoon.
+- (e) de vaste verblijfplaats van de persoon.
 
 ##### Artikel 10. Overlevering van uit te leveren persoon
 
@@ -175,9 +151,9 @@ De aangezochte Staat kan de behandeling van een verzoek tot uitlevering van een 
 
 1. Onder voorbehoud van het derde lid wordt een ingevolge dit Verdrag uitgeleverde persoon niet in hechtenis gesteld of berecht of aan enige andere beperking van zijn bewegingsvrijheid onderworpen binnen het grondgebied van de verzoekende Staat ter zake van een ander vóór zijn uitlevering gepleegd feit dan:
 
-- (a). een strafbaar feit waarvoor zijn uitlevering werd toegestaan of enig ander feit omschreven in artikel 1, waarvoor hij zou kunnen worden veroordeeld op grond van bewijs van de feiten waarop het verzoek tot zijn uitlevering was gebaseerd, mits dat feit niet strafbaar is gesteld met een zwaardere straf dan die welke zou kunnen worden opgelegd voor het feit waarvoor uitlevering werd verzocht;
+- (a) een strafbaar feit waarvoor zijn uitlevering werd toegestaan of enig ander feit omschreven in artikel 1, waarvoor hij zou kunnen worden veroordeeld op grond van bewijs van de feiten waarop het verzoek tot zijn uitlevering was gebaseerd, mits dat feit niet strafbaar is gesteld met een zwaardere straf dan die welke zou kunnen worden opgelegd voor het feit waarvoor uitlevering werd verzocht;
 
-- (b). enig ander strafbaar feit met betrekking waartoe de aangezochte Staat er overeenkomstig zijn recht mee instemt dat hij in hechtenis wordt gesteld, berecht of onderworpen aan een beperking van zijn bewegingsvrijheid.
+- (b) enig ander strafbaar feit met betrekking waartoe de aangezochte Staat er overeenkomstig zijn recht mee instemt dat hij in hechtenis wordt gesteld, berecht of onderworpen aan een beperking van zijn bewegingsvrijheid.
 
 2. Bij een verzoek tot instemming van de aangezochte Staat ingevolge dit artikel dienen de in artikel 5 vermelde stukken te worden gevoegd.
 
@@ -187,9 +163,9 @@ De aangezochte Staat kan de behandeling van een verzoek tot uitlevering van een 
 
 1. Wanneer een persoon door de aangezochte Staat is overgeleverd aan de verzoekende Staat, levert laatstgenoemde Staat die persoon niet verder aan een derde Staat voor een strafbaar feit begaan vóór zijn overlevering, tenzij:
 
-- (a). de aangezochte Staat met deze uitlevering instemt; of
+- (a) de aangezochte Staat met deze uitlevering instemt; of
 
-- (b). de persoon de gelegenheid had de verzoekende Staat te verlaten en zulks niet heeft gedaan binnen vijfenveertig dagen na zijn invrijheidstelling ter zake van het strafbare feit waarvoor die persoon was overgeleverd door de aangezochte Staat of is teruggekeerd naar het grondgebied van de verzoekende Staat nadat hij dit had verlaten.
+- (b) de persoon de gelegenheid had de verzoekende Staat te verlaten en zulks niet heeft gedaan binnen vijfenveertig dagen na zijn invrijheidstelling ter zake van het strafbare feit waarvoor die persoon was overgeleverd door de aangezochte Staat of is teruggekeerd naar het grondgebied van de verzoekende Staat nadat hij dit had verlaten.
 
 2. Alvorens in te stemmen met een verzoek ingevolge het eerste lid, letter (a), van dit artikel kan de aangezochte Staat verzoeken om overlegging van de in artikel 5 vermelde stukken.
 

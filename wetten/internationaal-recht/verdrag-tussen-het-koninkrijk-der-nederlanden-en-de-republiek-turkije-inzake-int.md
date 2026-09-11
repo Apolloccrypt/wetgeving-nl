@@ -1,46 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Turkije inzake internationaal vervoer over de weg"
 identifier: "BWBV0001498"
-country: "nl"
-rank: "verdrag"
-publication_date: "2003-07-01"
-last_updated: "2003-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001498"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000370763"
-version_id: "10000378782"
-internal_id: "C10006991631"
-label_id: "10000370934"
-original_entry_into_force: "2003-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001498/2003-07-01/0"
-intitule_bron: "Trb.2001-82"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-11-09"
-intitule_published: "2001-05-10"
-intitule_in_force: "2003-06-18"
-intitule_status: "goed"
-original_publication: "Trb.2001-82"
-original_signed_date: "2001-11-09"
-original_published_date: "2001-05-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2001-82"
-entry_into_force_date: "2003-07-01"
-jci_1_3: "jci1.3:c:BWBV0001498&z=2003-07-01&g=2003-07-01"
-jci_1_0: "1.0:c:BWBV0001498&g=2003-07-01"
-citeertitel_status: "officieel"
-signed_date: "2001-11-09"
-entry_into_force: "2003-07-01"
+publicatiedatum: 2003-07-01
+laatste_update: 2003-07-01
+status: geldig
+toestand: 2003-07-01
+bron: "https://wetten.overheid.nl/BWBV0001498"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Turkije inzake internationaal vervoer over de weg
 
-Het Koninkrijk der Nederlanden en de Republiek Turkije,
-
-hierna te noemen de Verdragsluitende Partijen,
-
-Geleid door de wens, in het belang van hun economische betrekkingen, de ontwikkeling te bevorderen van het vervoer van goederen en personen over de weg in, naar en vanuit hun landen en in doorvoer over hun grondgebied,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Republiek Turkije, hierna te noemen de Verdragsluitende Partijen, Geleid door de wens, in het belang van hun economische betrekkingen, de ontwikkeling te bevorderen van het vervoer van goederen en personen over de weg in, naar en vanuit hun landen en in doorvoer over hun grondgebied, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Toepassingsgebied
 
@@ -54,13 +27,13 @@ Zijn het volgende overeengekomen:
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
-- 1. „vervoerder”: een persoon (met inbegrip van een rechtspersoon) die op het grondgebied van een der Verdragsluitende Partijen gevestigd is en die overeenkomstig de desbetreffende nationale wetten en voorschriften in het land van vestiging wettig is toegelaten tot de markt voor het vervoer van goederen of personen over de weg;
+- 1 „vervoerder”: een persoon (met inbegrip van een rechtspersoon) die op het grondgebied van een der Verdragsluitende Partijen gevestigd is en die overeenkomstig de desbetreffende nationale wetten en voorschriften in het land van vestiging wettig is toegelaten tot de markt voor het vervoer van goederen of personen over de weg;
 
-- 2. „voertuig”: een motorvoertuig of combinatie van voertuigen waarvan ten minste het motorvoertuig is geregistreerd op het grondgebied- van een der Verdragsluitende Partijen en dat uitsluitend wordt gebruikt en is uitgerust voor het vervoer van goederen of het vervoer van personen per bus;
+- 2 „voertuig”: een motorvoertuig of combinatie van voertuigen waarvan ten minste het motorvoertuig is geregistreerd op het grondgebied- van een der Verdragsluitende Partijen en dat uitsluitend wordt gebruikt en is uitgerust voor het vervoer van goederen of het vervoer van personen per bus;
 
-- 3. „cabotage”: het exploiteren van vervoersdiensten binnen het grondgebied van een Verdragsluitende Partij door een op het grondgebied van de andere Verdragsluitende Partij gevestigde vervoerder;
+- 3 „cabotage”: het exploiteren van vervoersdiensten binnen het grondgebied van een Verdragsluitende Partij door een op het grondgebied van de andere Verdragsluitende Partij gevestigde vervoerder;
 
-- 4. „vervoer”: het rijden met beladen of onbeladen voertuigen over de weg, ook indien het voertuig, de aanhangwagen of de oplegger voor een deel van de rit gebruik maakt van spoor- of waterwegen.
+- 4 „vervoer”: het rijden met beladen of onbeladen voertuigen over de weg, ook indien het voertuig, de aanhangwagen of de oplegger voor een deel van de rit gebruik maakt van spoor- of waterwegen.
 
 ##### Artikel 3. Toegang tot de markt
 
@@ -160,7 +133,7 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN in tweevoud te Ankara, op 17 april 2001, in de Nederlandse, Turkse en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschillen is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) SJOERD I. H. GOSSES
 
@@ -168,7 +141,7 @@ Sjoerd I. H. Gosses
 
 Ambassadeur
 
-**Voor de Republiek Turkije**
+*Voor de Republiek Turkije*
 
 (w.g.) AHMET BALCI
 

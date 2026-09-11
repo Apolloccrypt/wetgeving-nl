@@ -9,7 +9,7 @@ laatste_update: 2026-09-09
 status: geldig
 toestand: 2026-09-09
 bron: "https://wetten.overheid.nl/BWBR0053085"
-opgehaald: 2026-09-10
+opgehaald: 2026-09-11
 ---
 
 # Besluit van het Stimuleringsfonds voor de Journalistiek van 1 juli 2026, nr. OJ2627VD, tot vaststelling van een Subsidieregeling Verduurzaming Onderzoeksjournalistieke Organisaties 2026–2027

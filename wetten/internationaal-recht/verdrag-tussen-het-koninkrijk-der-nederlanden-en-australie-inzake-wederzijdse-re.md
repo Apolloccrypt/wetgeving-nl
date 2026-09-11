@@ -1,47 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en Australië inzake wederzijdse rechtshulp in strafzaken"
 identifier: "BWBV0001044"
-country: "nl"
-rank: "verdrag"
-publication_date: "1991-06-01"
-last_updated: "1991-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001044"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002497293"
-version_id: "10002490582"
-internal_id: "C10006984761"
-label_id: "10002486904"
-dtd_version: "2.0"
-original_entry_into_force: "1991-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001044/1991-06-01/0"
-intitule_bron: "Trb.1989-13"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-04-29"
-intitule_published: "1989-01-23"
-intitule_in_force: "1991-06-11"
-intitule_status: "goed"
-original_publication: "Trb.1989-13"
-original_signed_date: "1991-04-29"
-original_published_date: "1989-01-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1989-13"
-entry_into_force_date: "1991-06-01"
-jci_1_3: "jci1.3:c:BWBV0001044&z=1991-06-01&g=1991-06-01"
-jci_1_0: "1.0:c:BWBV0001044&g=1991-06-01"
-citeertitel_status: "redactioneel"
-signed_date: "1991-04-29"
-entry_into_force: "1991-06-01"
+publicatiedatum: 1991-06-01
+laatste_update: 1991-06-01
+status: geldig
+toestand: 1991-06-01
+bron: "https://wetten.overheid.nl/BWBV0001044"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en Australië inzake wederzijdse rechtshulp in strafzaken
 
-Het Koninkrijk der Nederlanden
-
-en Australië
-
-Geleid door de wens in zo ruim mogelijke mate met elkander samen te werken ter bestrijding van misdaad,
-
-Zijn als volgt overeengekomen:
+*Het Koninkrijk der Nederlanden en Australië Geleid door de wens in zo ruim mogelijke mate met elkander samen te werken ter bestrijding van misdaad, Zijn als volgt overeengekomen:*
 
 ##### Artikel 1. Werkingssfeer
 
@@ -49,31 +21,31 @@ Zijn als volgt overeengekomen:
 
 2. Deze rechtshulp bestaat uit:
 
-- (a). het afnemen van getuigenverklaringen onder ede of belofte;
+- (a) het afnemen van getuigenverklaringen onder ede of belofte;
 
-- (b). het verstrekken van processtukken en andere bescheiden;
+- (b) het verstrekken van processtukken en andere bescheiden;
 
-- (c). het opsporen van de verblijfplaats en het identificeren van personen;
+- (c) het opsporen van de verblijfplaats en het identificeren van personen;
 
-- (d). het ten uitvoer leggen van verzoeken om huiszoeking en inbeslagneming;
+- (d) het ten uitvoer leggen van verzoeken om huiszoeking en inbeslagneming;
 
-- (e). het verkrijgen van de beschikking over gedetineerden om een getuigenverklaring af te leggen of medewerking te verlenen aan het onderzoek;
+- (e) het verkrijgen van de beschikking over gedetineerden om een getuigenverklaring af te leggen of medewerking te verlenen aan het onderzoek;
 
-- (f). het verkrijgen van de beschikking over andere personen om een getuigenverklaring af te leggen of medewerking te verlenen aan een onderzoek;
+- (f) het verkrijgen van de beschikking over andere personen om een getuigenverklaring af te leggen of medewerking te verlenen aan een onderzoek;
 
-- (g). het betekenen van stukken;
+- (g) het betekenen van stukken;
 
-- (h). maatregelen om de baten van strafbare feiten op te sporen, daarop beslag te leggen en deze verbeurd te verklaren; en
+- (h) maatregelen om de baten van strafbare feiten op te sporen, daarop beslag te leggen en deze verbeurd te verklaren; en
 
-- (i). andere rechtshulp die strookt met de doelstellingen van dit Verdrag en welke niet in strijd is met het recht van de aangezochte Staat.
+- (i) andere rechtshulp die strookt met de doelstellingen van dit Verdrag en welke niet in strijd is met het recht van de aangezochte Staat.
 
 3. Deze rechtshulp omvat niet:
 
-- (a). de inverzekeringstelling of bewaring van personen met het oog op uitlevering;
+- (a) de inverzekeringstelling of bewaring van personen met het oog op uitlevering;
 
-- (b). de tenuitvoerlegging in de aangezochte Staat van in de verzoekende Staat uitgesproken strafvonnissen, behalve voor zover zulks is toegestaan krachtens de wet van de aangezochte Staat en dit Verdrag; en
+- (b) de tenuitvoerlegging in de aangezochte Staat van in de verzoekende Staat uitgesproken strafvonnissen, behalve voor zover zulks is toegestaan krachtens de wet van de aangezochte Staat en dit Verdrag; en
 
-- (c). de overbrenging van gedetineerden voor de tenuitvoerlegging van vonnissen.
+- (c) de overbrenging van gedetineerden voor de tenuitvoerlegging van vonnissen.
 
 ##### Artikel 2. Andere vormen van samenwerking
 
@@ -94,21 +66,21 @@ Dit Verdrag laat bestaande verplichtingen tussen de Verdragsluitende Partijen ui
 
 1. Rechtshulp wordt geweigerd indien:
 
-- (a). het verzoek betrekking heeft op een strafbaar feit dat door de aangezochte Staat wordt beschouwd als een delict naar diens militaire strafrecht en dat niet tevens een delict is naar diens gewone strafwet;
+- (a) het verzoek betrekking heeft op een strafbaar feit dat door de aangezochte Staat wordt beschouwd als een delict naar diens militaire strafrecht en dat niet tevens een delict is naar diens gewone strafwet;
 
-- (b). het verzoek betrekking heeft op een strafbaar feit ter zake waarvan de dader onherroepelijk is vrijgesproken of is gegratieerd, de opgelegde straf heeft ondergaan, of ter zake waarvan de aangezochte Staat heeft besloten af te zien van vervolging;
+- (b) het verzoek betrekking heeft op een strafbaar feit ter zake waarvan de dader onherroepelijk is vrijgesproken of is gegratieerd, de opgelegde straf heeft ondergaan, of ter zake waarvan de aangezochte Staat heeft besloten af te zien van vervolging;
 
-- (c). er gegronde redenen bestaan om aan te nemen dat het verzoek om rechtshulp is gedaan ter bevordering van de vervolging van een persoon op grond van diens ras, geslacht, godsdienst, nationaliteit of politieke overtuiging, of dat de positie van deze persoon om één van deze redenen ongunstig dreigt te worden beïnvloed; of
+- (c) er gegronde redenen bestaan om aan te nemen dat het verzoek om rechtshulp is gedaan ter bevordering van de vervolging van een persoon op grond van diens ras, geslacht, godsdienst, nationaliteit of politieke overtuiging, of dat de positie van deze persoon om één van deze redenen ongunstig dreigt te worden beïnvloed; of
 
-- (d). de aangezochte Staat van mening is dat het verzoek, indien daaraan gevolg zou worden gegeven, zou kunnen leiden tot een ernstige aantasting van zijn soevereiniteit, veiligheid, nationaal belang of soortgelijke wezenlijke belangen.
+- (d) de aangezochte Staat van mening is dat het verzoek, indien daaraan gevolg zou worden gegeven, zou kunnen leiden tot een ernstige aantasting van zijn soevereiniteit, veiligheid, nationaal belang of soortgelijke wezenlijke belangen.
 
 2. Rechtshulp kan worden geweigerd indien:
 
-- (a). het verzoek betrekking heeft op een strafbaar feit dat door de aangezochte Staat wordt beschouwd als een politiek delict;
+- (a) het verzoek betrekking heeft op een strafbaar feit dat door de aangezochte Staat wordt beschouwd als een politiek delict;
 
-- (b). het verzoek betrekking heeft op een feit, bestaande uit beweerd handelen of nalaten dat, indien zulks had plaatsgevonden binnen het rechtsgebied van de aangezochte Staat, geen strafbaar feit zou hebben opgeleverd;
+- (b) het verzoek betrekking heeft op een feit, bestaande uit beweerd handelen of nalaten dat, indien zulks had plaatsgevonden binnen het rechtsgebied van de aangezochte Staat, geen strafbaar feit zou hebben opgeleverd;
 
-- (c). de verlening van de verzochte rechtshulp een onderzoek of een strafrechtelijke of civielrechtelijke vervolging in de aangezochte Staat zou kunnen schaden, de veiligheid van een persoon zou kunnen aantasten of een te zware last zou leggen op de die Staat ten dienste staande middelen.
+- (c) de verlening van de verzochte rechtshulp een onderzoek of een strafrechtelijke of civielrechtelijke vervolging in de aangezochte Staat zou kunnen schaden, de veiligheid van een persoon zou kunnen aantasten of een te zware last zou leggen op de die Staat ten dienste staande middelen.
 
 3. Alvorens een verzoek om rechtshulp te weigeren overweegt de aangezochte Staat of rechtshulp kan worden verleend onder voorwaarden die hij noodzakelijk acht. Indien de verzoekende Staat aanvaardt dat rechtshulp wordt verleend onder die voorwaarden, dient hij aan de voorwaarden te voldoen.
 
@@ -116,31 +88,31 @@ Dit Verdrag laat bestaande verplichtingen tussen de Verdragsluitende Partijen ui
 
 1. Verzoeken om rechtshulp bevatten:
 
-- (a). de naam van de bevoegde autoriteit die met het onderzoek of de vervolging waarop het verzoek betrekking heeft, is belast;
+- (a) de naam van de bevoegde autoriteit die met het onderzoek of de vervolging waarop het verzoek betrekking heeft, is belast;
 
-- (b). een beschrijving van de aard van de strafzaak, met inbegrip van een vermelding van de toepasselijke wet;
+- (b) een beschrijving van de aard van de strafzaak, met inbegrip van een vermelding van de toepasselijke wet;
 
-- (c). behalve in geval van verzoeken om betekening van processtukken, anders dan dagvaardingen, een beschrijving van het wezen van de beweerde gedragingen, of zaken die moeten worden onderzocht;
+- (c) behalve in geval van verzoeken om betekening van processtukken, anders dan dagvaardingen, een beschrijving van het wezen van de beweerde gedragingen, of zaken die moeten worden onderzocht;
 
-- (d). het doel van het verzoek en de aard van de rechtshulp waarom wordt verzocht;
+- (d) het doel van het verzoek en de aard van de rechtshulp waarom wordt verzocht;
 
-- (e). bijzonderheden van eventuele bijzondere procedures of vereisten die de verzoekende Staat in acht genomen wenst te zien;
+- (e) bijzonderheden van eventuele bijzondere procedures of vereisten die de verzoekende Staat in acht genomen wenst te zien;
 
-- (f). de vereisten, zo deze er zijn, met betrekking tot vertrouwelijkheid en de redenen daartoe; en
+- (f) de vereisten, zo deze er zijn, met betrekking tot vertrouwelijkheid en de redenen daartoe; en
 
-- (g). aanduiding van de termijnen waarbinnen de inwilliging van het verzoek wordt gewenst.
+- (g) aanduiding van de termijnen waarbinnen de inwilliging van het verzoek wordt gewenst.
 
 2. Verzoeken om rechtshulp bevatten tevens, voor zover noodzakelijk en in zoverre zulks mogelijk is:
 
-- (a). de identiteit, de nationaliteit en de woon- of verblijfplaats van de persoon of personen op wie het onderzoek of de vervolging betrekking heeft;
+- (a) de identiteit, de nationaliteit en de woon- of verblijfplaats van de persoon of personen op wie het onderzoek of de vervolging betrekking heeft;
 
-- (b). een mededeling of onder ede of belofte afgelegde verklaringen worden verlangd;
+- (b) een mededeling of onder ede of belofte afgelegde verklaringen worden verlangd;
 
-- (c). een beschrijving van de inlichtingen, de verklaring of het bewijsmiddel waarom wordt verzocht;
+- (c) een beschrijving van de inlichtingen, de verklaring of het bewijsmiddel waarom wordt verzocht;
 
-- (d). een beschrijving van de te overleggen bescheiden, verbalen of bewijsstukken, alsmede een beschrijving van de persoon die in aanmerking komt om tot overlegging daarvan te worden verzocht en, voor zover zulks niet anderszins is bepaald, de vorm waarin deze dienen te worden vermenigvuldigd en gewaarmerkt; en
+- (d) een beschrijving van de te overleggen bescheiden, verbalen of bewijsstukken, alsmede een beschrijving van de persoon die in aanmerking komt om tot overlegging daarvan te worden verzocht en, voor zover zulks niet anderszins is bepaald, de vorm waarin deze dienen te worden vermenigvuldigd en gewaarmerkt; en
 
-- (e). gegevens betreffende de toelagen en onkostenvergoedingen waarop degene die in de verzoekende Staat verschijnt aanspraak kan maken.
+- (e) gegevens betreffende de toelagen en onkostenvergoedingen waarop degene die in de verzoekende Staat verschijnt aanspraak kan maken.
 
 3. Een verzoek en alle begeleidende bescheiden afkomstig van Australië zijn in het Engels gesteld of in het Nederlands vertaald. Een verzoek en alle begeleidende bescheiden afkomstig van het Koninkrijk der Nederlanden zijn gesteld dan wel vertaald in het Engels.
 
@@ -184,9 +156,9 @@ Een verzoek om betekening van een dagvaarding wordt ten minste 45 dagen vóór d
 
 5. Degene die naar aanleiding van een verzoek om rechtshulp wordt verzocht te getuigen in de aangezochte Staat kan weigeren een verklaring af te leggen wanneer:
 
-- (a). het recht van de aangezochte Staat voor hem of haar onder vergelijkbare omstandigheden in procedures die zijn ingesteld in de aangezochte Staat een verschoningsrecht of -plicht kent; of
+- (a) het recht van de aangezochte Staat voor hem of haar onder vergelijkbare omstandigheden in procedures die zijn ingesteld in de aangezochte Staat een verschoningsrecht of -plicht kent; of
 
-- (b). het recht van de verzoekende Staat voor hem of haar in dergelijke procedures in de verzoekende Staat een verschoningsrecht of -plicht kent.
+- (b) het recht van de verzoekende Staat voor hem of haar in dergelijke procedures in de verzoekende Staat een verschoningsrecht of -plicht kent.
 
 6. Indien iemand zich erop beroept dat er ingevolge het recht van de verzoekende Staat een verschoningsrecht of -plicht bestaat om te weigeren te getuigen, neemt de aangezochte Staat wat dit aangaat genoegen met een schriftelijke verklaring van de Centrale Autoriteit van de verzoekende Staat.
 
@@ -214,9 +186,9 @@ Wanneer een verzoek om verkrijging van verklaringen van personen is gedaan ten b
 
 1. Degene die ermee instemt te getuigen of medewerking te verlenen aan een onderzoek in de verzoekende Staat uit hoofde van artikel 12 of 13 mag tijdens het verblijf in de verzoekende Staat ingevolge een verzoek:
 
-- (a). in die Staat niet in hechtenis worden genomen, worden vervolgd of gestraft wegens een strafbaar feit, of worden blootgesteld aan een burgerrechtelijke rechtsvordering waaraan de betrokkene niet anderszins kon worden blootgesteld, met betrekking tot enig handelen of nalaten welk voorafging aan het vertrek van de betrokkene uit de aangezochte Staat; of
+- (a) in die Staat niet in hechtenis worden genomen, worden vervolgd of gestraft wegens een strafbaar feit, of worden blootgesteld aan een burgerrechtelijke rechtsvordering waaraan de betrokkene niet anderszins kon worden blootgesteld, met betrekking tot enig handelen of nalaten welk voorafging aan het vertrek van de betrokkene uit de aangezochte Staat; of
 
-- (b). niet zonder zijn of haar toestemming worden verplicht te getuigen in een andere procedure dan de procedure waarop het verzoek betrekking heeft.
+- (b) niet zonder zijn of haar toestemming worden verplicht te getuigen in een andere procedure dan de procedure waarop het verzoek betrekking heeft.
 
 2. Het eerste lid van dit artikel is niet langer van toepassing wanneer de betrokkene, mits hij of zij niet krachtens artikel 12 als gedetineerde is overgebracht, vrijelijk kan vertrekken, doch de verzoekende Staat niet heeft verlaten binnen dertig dagen nadat hem of haar officieel is medegedeeld dat zijn of haar aanwezigheid niet langer is vereist, ofwel is teruggekeerd na die Staat te hebben verlaten.
 
@@ -240,9 +212,9 @@ Wanneer een verzoek om verkrijging van verklaringen van personen is gedaan ten b
 
 2. Voor de toepassing van dit Verdrag wordt een stuk of een ander voorwerp geacht te zijn gewaarmerkt indien:
 
-- (a). het is ondertekend of geattesteerd door een rechter, magistraat of andere functionaris in of van de Staat die het stuk zendt; en
+- (a) het is ondertekend of geattesteerd door een rechter, magistraat of andere functionaris in of van de Staat die het stuk zendt; en
 
-- (b). het is gewaarmerkt met een officieel stempel van een minister, van een ministerie of een overheidsfunctionaris van de Staat die het stuk zendt.
+- (b) het is gewaarmerkt met een officieel stempel van een minister, van een ministerie of een overheidsfunctionaris van de Staat die het stuk zendt.
 
 ##### Artikel 17. Huiszoeking en inbeslagneming
 
@@ -272,11 +244,11 @@ De Centrale Autoriteiten van de Verdragsluitende Partijen kunnen onderling aanvu
 
 De aangezochte Staat draagt de kosten die zijn gemoeid met de uitvoering van het verzoek om rechtshulp, met uitzondering van de door de verzoekende Staat te dragen:
 
-- (a). kosten die verband houden met de overkomst van een persoon van of naar het grondgebied van de aangezochte Staat, alsook alle honoraria, toelagen en onkostenvergoedingen die aan de betrokkene verschuldigd zijn tijdens zijn of haar verblijf in de verzoekende Staat ingevolge een verzoek uit hoofde van de artikelen 12 of 13;
+- (a) kosten die verband houden met de overkomst van een persoon van of naar het grondgebied van de aangezochte Staat, alsook alle honoraria, toelagen en onkostenvergoedingen die aan de betrokkene verschuldigd zijn tijdens zijn of haar verblijf in de verzoekende Staat ingevolge een verzoek uit hoofde van de artikelen 12 of 13;
 
-- (b). kosten die verband houden met de overkomst van ambtenaren die zijn belast met de bewaking of begeleiding; en
+- (b) kosten die verband houden met de overkomst van ambtenaren die zijn belast met de bewaking of begeleiding; en
 
-- (c). uitzonderlijke kosten, zo de aangezochte Staat daarom verzoekt, die gemoeid zijn met de uitvoering van het verzoek.
+- (c) uitzonderlijke kosten, zo de aangezochte Staat daarom verzoekt, die gemoeid zijn met de uitvoering van het verzoek.
 
 ##### Artikel 21. Overleg
 

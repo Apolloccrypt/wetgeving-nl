@@ -1,52 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Hasjemitisch Koninkrijk Jordanië inzake de bevordering en de wederzijdse bescherming van investeringen"
 identifier: "BWBV0001341"
-country: "nl"
-rank: "verdrag"
-publication_date: "1998-08-01"
-last_updated: "1998-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001341"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000330653"
-version_id: "10000338732"
-internal_id: "C10006989571"
-label_id: "10000330904"
-original_entry_into_force: "1998-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001341/1998-08-01/0"
-intitule_bron: "Trb.1998-6"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-06-25"
-intitule_published: "1998-01-12"
-intitule_in_force: "1998-07-22"
-intitule_status: "goed"
-original_publication: "Trb.1998-6"
-original_signed_date: "1998-06-25"
-original_published_date: "1998-01-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1998-6"
-entry_into_force_date: "1998-08-01"
-jci_1_3: "jci1.3:c:BWBV0001341&z=1998-08-01&g=1998-08-01"
-jci_1_0: "1.0:c:BWBV0001341&g=1998-08-01"
-citeertitel_status: "officieel"
-signed_date: "1998-06-25"
-entry_into_force: "1998-08-01"
+publicatiedatum: 1998-08-01
+laatste_update: 1998-08-01
+status: geldig
+toestand: 1998-08-01
+bron: "https://wetten.overheid.nl/BWBV0001341"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Hasjemitisch Koninkrijk Jordanië inzake de bevordering en de wederzijdse bescherming van investeringen
 
-Het Koninkrijk der Nederlanden
-
-en
-
-het Hasjemitisch Koninkrijk Jordanië,
-
-hierna te noemen de Verdragsluitende Partijen,
-
-Geleid door de wens de van oudsher bestaande vriendschapsbanden tussen hun landen te versterken en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door de onderdanen van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij betreft,
-
-In het besef dat overeenstemming omtrent de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en het Hasjemitisch Koninkrijk Jordanië, hierna te noemen de Verdragsluitende Partijen, Geleid door de wens de van oudsher bestaande vriendschapsbanden tussen hun landen te versterken en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door de onderdanen van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij betreft, In het besef dat overeenstemming omtrent de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -54,23 +21,23 @@ Voor de toepassing van dit Verdrag:
 
 - a. wordt onder de term „investeringen" verstaan: alle soorten vermogenbestanddelen en in het bijzonder, doch niet uitsluitend:
 
-- (i). roerende en onroerende zaken, alsmede alle andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
+   - (i) roerende en onroerende zaken, alsmede alle andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
 
-- (ii). rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en gezamenlijke ondernemingen;
+   - (ii) rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en gezamenlijke ondernemingen;
 
-- (iii). aanspraken op geld, op andere vermogensbestanddelen of op iedere prestatie die economische waarde heeft;
+   - (iii) aanspraken op geld, op andere vermogensbestanddelen of op iedere prestatie die economische waarde heeft;
 
-- (iv). rechten op het gebied van de intellectuele eigendom, technische werkwijzen, goodwill en know-how;
+   - (iv) rechten op het gebied van de intellectuele eigendom, technische werkwijzen, goodwill en know-how;
 
-- (v). rechten verleend krachtens het publiekrecht of bij overeenkomst, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen;
+   - (v) rechten verleend krachtens het publiekrecht of bij overeenkomst, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen;
 
 - b. omvat de term „onderdanen" met betrekking tot elk van beide Verdragsluitende Partijen:
 
-- (i). natuurlijke personen die de nationaliteit van die Verdragsluitende Partij hebben;
+   - (i) natuurlijke personen die de nationaliteit van die Verdragsluitende Partij hebben;
 
-- (ii). rechtspersonen die zijn opgericht krachtens het recht van die Verdragsluitende Partij;
+   - (ii) rechtspersonen die zijn opgericht krachtens het recht van die Verdragsluitende Partij;
 
-- (iii). rechtspersonen die niet zijn opgericht krachtens het recht van die Partij, maar die onder al dan niet rechtstreeks toezicht staan van natuurlijke personen zoals omschreven onder (i) of van rechtspersonen zoals omschreven onder (ii);
+   - (iii) rechtspersonen die niet zijn opgericht krachtens het recht van die Partij, maar die onder al dan niet rechtstreeks toezicht staan van natuurlijke personen zoals omschreven onder (i) of van rechtspersonen zoals omschreven onder (ii);
 
 - c. omvat de term „grondgebied" mede de zeegebieden grenzend aan de kust van de betrokken Staat, voor zover die Staat overeenkomstig het internationale recht soevereine rechten of rechtsmacht in deze gebieden uitoefent.
 
@@ -110,9 +77,9 @@ De Verdragsluitende Partijen waarborgen dat betalingen die verband houden met ee
 
 - b. gelden nodig
 
-- (i). voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindprodukten, of
+   - (i) voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindprodukten, of
 
-- (ii). om kapitaalgoederen te vervangen ten einde de continuïteit van een investering te waarborgen;
+   - (ii) om kapitaalgoederen te vervangen ten einde de continuïteit van een investering te waarborgen;
 
 - c. bijkomende gelden nodig voor de ontwikkeling van een investering;
 
@@ -188,29 +155,11 @@ Wat betreft het Koninkrijk der Nederlanden is dit Verdrag van toepassing op het 
 
 4. Met inachtneming van de in het tweede lid van dit artikel genoemde termijn is het Koninkrijk der Nederlanden gerechtigd de toepassing van dit Verdrag ten aanzien van een deel van het Koninkrijk afzonderlijk te beëindigen.
 
-Het Koninkrijk der Nederlanden
-
-en
-
-het Hasjemitisch Koninkrijk Jordanië
-
-hebben overeenstemming bereikt over de volgende bepalingen, die een integrerend deel van het Verdrag inzake de bevordering en de wederzijdse bescherming van investeringen tussen beide landen vormen:
-
-##### Ad [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001341&artikel=3&z=1998-08-01&g=1998-08-01), van het Verdrag
-
-Onder de term „afdoende zekerheid en bescherming" wordt verstaan volledige zekerheid en bescherming, overeenkomstig de wetten en voorschriften van de Verdragsluitende Partij die als gastland fungeert, die in elk geval niet minder is dan die welke wordt toegekend aan investeringen van haar eigen onderdanen of aan investeringen van onderdanen van een derde Staat, naar gelang van welke het gunstigst is voor de betrokken onderdaan.
-
-##### Ad [artikel 6, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0001341&artikel=6&z=1998-08-01&g=1998-08-01), van het Verdrag
-
-Ten aanzien van de schadeloosstelling is overeenstemming bereikt over de volgende verduidelijking:
-
-De schadeloosstelling dient overeen te komen met de billijke marktwaarde die de onteigende investering had onmiddellijk voordat de onteigening plaatsvond. In de billijke marktwaarde mag een wijziging in de waarde vanwege het feit dat de onteigening voordien publiekelijk bekend is geworden, niet zijn verdisconteerd.
-
 TEN BLIJKE WAARVAN de ondertekenende vertegenwoordigers, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend.
 
 GEDAAN in tweevoud te Doha op 17 november 1997, in de Arabische, de Nederlandse en de Engelse taal, zijnde de drie teksten gelijkelijk authentiek. In geval van verschil in uitlegging is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) A. VAN DOK-VAN WEELE
 
@@ -218,7 +167,7 @@ Mevr. A. van Dok-van Weele
 
 Minister Buitenlandse Handel
 
-**Voor het Hasjemitisch Koninkrijk Jordanië**
+*Voor het Hasjemitisch Koninkrijk Jordanië*
 
 (w.g.) HANI MULKI
 

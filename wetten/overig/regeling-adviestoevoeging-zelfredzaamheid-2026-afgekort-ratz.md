@@ -2,19 +2,16 @@
 title: "Regeling adviestoevoeging zelfredzaamheid 2026 (afgekort: Ratz)"
 identifier: "BWBR0052643"
 categorie: "Overig"
+soort: "zbo"
 publicatiedatum: 2026-05-28
-laatste_update: 2026-05-30
+laatste_update: 2026-05-28
 status: geldig
+toestand: 2026-05-28
 bron: "https://wetten.overheid.nl/BWBR0052643"
+opgehaald: 2026-09-11
 ---
 
 # Regeling adviestoevoeging zelfredzaamheid 2026 (afgekort: Ratz)
-
-gelet op [artikel 37b van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37b), waarin is bepaald dat het bestuur van de Raad voor Rechtsbijstand subsidie kan verstrekken ten behoeve van de verlening van rechtsbijstand voor bijzondere doeleinden en projecten,
-
-besluit:
-
-de volgende subsidieregeling vast te stellen.
 
 ### Hoofdstuk I. algemeen
 
@@ -22,35 +19,37 @@ de volgende subsidieregeling vast te stellen.
 
 In deze subsidieregeling wordt verstaan onder:
 
-- a. **advocaat:** de advocaat zoals bedoeld in het [eerste lid onder a van artikel 13 Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=13);
+- a. *advocaat:* de advocaat zoals bedoeld in het [eerste lid onder a van artikel 13 Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=13);
 
-- b. **Awb:** [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
+- b. *Awb:*
+ [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
-- c. **Atz:** Adviestoevoeging zelfredzaamheid;
+- c. *Atz:* Adviestoevoeging zelfredzaamheid;
 
-- d. **bestuur:** het bestuur van de Raad, als bedoeld in [artikel 3 van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=3);
+- d. *bestuur:* het bestuur van de Raad, als bedoeld in [artikel 3 van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=3);
 
-- e. **Bvr:** het [Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018);
+- e. *Bvr:* het [Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018);
 
-- f. **het Juridisch Loket:** de Stichting het Juridisch Loket, zijnde een voorziening zoals bedoeld in het [tweede lid van artikel 7 van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=7);
+- f. *het Juridisch Loket:* de Stichting het Juridisch Loket, zijnde een voorziening zoals bedoeld in het [tweede lid van artikel 7 van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=7);
 
-- g. **Raad:** de raad voor rechtsbijstand, als bedoeld in [artikel 2 van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=2);
+- g. *Raad:* de raad voor rechtsbijstand, als bedoeld in [artikel 2 van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=2);
 
-- h. **rechtsbijstand:** rechtsbijstand zoals bedoeld in [artikel 1 van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=1);
+- h. *rechtsbijstand:* rechtsbijstand zoals bedoeld in [artikel 1 van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=1);
 
-- i. **rechtshulp:** het verlenen van rechtsbijstand bestaande uit het geven van eenvoudige juridische adviezen en eenvoudige belangenbehartiging, c.q. rechtsbijstand waarvoor op basis van de geldende wet- en regelgeving in het kader van de [Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368) geen toevoeging wordt verstrekt vanwege zelfredzaamheid zoals bedoeld in het [tweede lid van artikel 12 onder g van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=12);
+- i. *rechtshulp:* het verlenen van rechtsbijstand bestaande uit het geven van eenvoudige juridische adviezen en eenvoudige belangenbehartiging, c.q. rechtsbijstand waarvoor op basis van de geldende wet- en regelgeving in het kader van de [Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368) geen toevoeging wordt verstrekt vanwege zelfredzaamheid zoals bedoeld in het [tweede lid van artikel 12 onder g van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=12);
 
-- j. **rechtzoekende:** rechtzoekende zoals bedoeld in [artikel 1 van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=1);
+- j. *rechtzoekende:* rechtzoekende zoals bedoeld in [artikel 1 van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=1);
 
-- k. **regeling:** Regeling adviestoevoeging zelfredzaamheid;
+- k. *regeling:* Regeling adviestoevoeging zelfredzaamheid;
 
-- l. **Tz:** toevoeging zelfredzaamheid, die is afgegeven op basis van een reeds afgegeven Atz;
+- l. *Tz:* toevoeging zelfredzaamheid, die is afgegeven op basis van een reeds afgegeven Atz;
 
-- m. **vergoeding:** de op grond van deze regeling vast te stellen subsidie;
+- m. *vergoeding:* de op grond van deze regeling vast te stellen subsidie;
 
-- n. **voorliggende voorziening:** beschikbare alternatieve informatiebronnen en (juridische) dienstverleners zoals instellingen voor sociaal maatschappelijke hulpverlening of gemeentelijke instellingen voor schuldhulpverlening, het Juridisch Loket, Sociaal Raadsliedenwerk, Slachtofferhulp, Geschillencommissies, [www.juridischloket.nl](http://www.juridischloket.nl), Rechtswijzer, rijksoverheid.nl.;
+- n. *voorliggende voorziening:* beschikbare alternatieve informatiebronnen en (juridische) dienstverleners zoals instellingen voor sociaal maatschappelijke hulpverlening of gemeentelijke instellingen voor schuldhulpverlening, het Juridisch Loket, Sociaal Raadsliedenwerk, Slachtofferhulp, Geschillencommissies, [www.juridischloket.nl](http://www.juridischloket.nl), Rechtswijzer, rijksoverheid.nl.;
 
-- o. **Wrb:** [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368);
+- o. *Wrb:*
+ [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368);
 
 ##### Artikel 2. Doel
 
@@ -70,7 +69,7 @@ Deze regeling heeft tot doel rechtshulp te faciliteren voor de rechtzoekende die
 
 5. Indien de rechtzoekende op basis van de [artikelen 34 tot en met 34b van de Wrb](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=34) in aanmerking komt voor gefinancierde rechtsbijstand is de rechtshulp voor de rechtzoekende kosteloos; er wordt geen eigen bijdrage opgelegd.
 
-6. Rechtshulp op basis van een Atz wordt, als zijnde van onvoldoende belang, niet verleend indien het op geld waardeerbare belang beneden een bedrag van € 250,– blijft.
+6. Rechtshulp op basis van een Atz wordt, als zijnde van onvoldoende belang, niet verleend indien het op geld waardeerbare belang beneden een bedrag van € 250,– blijft.
 
 7. De advocaat kan de rechtzoekende geen kosten in rekening brengen.
 
@@ -130,8 +129,8 @@ Deze regeling wordt aangehaald als: Regeling adviestoevoeging zelfredzaamheid 20
 
 ##### Artikel 10. Inwerkingtreding en vervaldatum
 
-1. Deze regeling treedt in werking op 1 april 2026.
+1. Deze regeling treedt in werking op 1 april 2026.
 
-Indien de Staatscourant waarin de verlenging van deze regeling wordt geplaatst, wordt uitgeven na 1 april 2026, treedt de verlenging van de regeling in werking met ingang van de dag na de datum van uitgifte van de Staatscourant en werkt zij terug tot 1 april 2026.
+Indien de Staatscourant waarin de verlenging van deze regeling wordt geplaatst, wordt uitgeven na 1 april 2026, treedt de verlenging van de regeling in werking met ingang van de dag na de datum van uitgifte van de Staatscourant en werkt zij terug tot 1 april 2026.
 
-2. Deze regeling vervalt op het moment dat wet- en regelgeving in werking treedt waarin de heroverweging van het zelfredzaamheidscriterium is opgenomen, dan wel in een Atz-vergoeding wordt voorzien, doch uiterlijk op 1 april 2027.
+2. Deze regeling vervalt op het moment dat wet- en regelgeving in werking treedt waarin de heroverweging van het zelfredzaamheidscriterium is opgenomen, dan wel in een Atz-vergoeding wordt voorzien, doch uiterlijk op 1 april 2027.

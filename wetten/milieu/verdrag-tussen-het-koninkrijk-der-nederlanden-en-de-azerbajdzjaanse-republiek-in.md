@@ -1,57 +1,23 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Azerbajdzjaanse Republiek inzake luchtdiensten"
 identifier: "BWBV0001245"
-country: "nl"
-rank: "verdrag"
-publication_date: "1997-06-01"
-last_updated: "1997-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001245"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000264933"
-version_id: "10000273062"
-internal_id: "C10006987771"
-label_id: "10000265214"
-dtd_version: "2.0"
-original_entry_into_force: "1997-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001245/1997-06-01/0"
-intitule_bron: "Trb.1996-202"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-08-10"
-intitule_published: "1996-07-26"
-intitule_in_force: "1997-05-26"
-intitule_status: "goed"
-original_publication: "Trb.1996-202"
-original_signed_date: "1996-08-10"
-original_published_date: "1996-07-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1996-202"
-entry_into_force_date: "1997-06-01"
-jci_1_3: "jci1.3:c:BWBV0001245&z=1997-06-01&g=1997-06-01"
-jci_1_0: "1.0:c:BWBV0001245&g=1997-06-01"
-citeertitel_status: "officieel"
-signed_date: "1996-08-10"
-entry_into_force: "1997-06-01"
+publicatiedatum: 1997-06-01
+laatste_update: 1997-06-01
+status: geldig
+toestand: 1997-06-01
+bron: "https://wetten.overheid.nl/BWBV0001245"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Azerbajdzjaanse Republiek inzake luchtdiensten
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Azerbajdzjaanse Republiek, hierna te noemen Verdragsluitende Partijen,
-
-Partij zijnde bij het Verdrag inzake de internationale burgerluchtvaart, op 7 december 1944 te Chicago voor ondertekening opengesteld,
-
-Geleid door de wens bij te dragen aan de vooruitgang van de internationale burgerluchtvaart,
-
-Geleid door de wens een verdrag te sluiten met het doel luchtdiensten tussen en via hun respectieve grondgebieden in te stellen,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Azerbajdzjaanse Republiek, hierna te noemen Verdragsluitende Partijen, Partij zijnde bij het Verdrag inzake de internationale burgerluchtvaart, op 7 december 1944 te Chicago voor ondertekening opengesteld, Geleid door de wens bij te dragen aan de vooruitgang van de internationale burgerluchtvaart, Geleid door de wens een verdrag te sluiten met het doel luchtdiensten tussen en via hun respectieve grondgebieden in te stellen, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
-Tenzij het zinsverband anders vereist, hebben in dit Verdrag en de Bijlage daarbij de volgende begrippen de hierbij daaraan toegekende betekenis:
+Tenzij het zinsverband anders vereist, hebben in dit Verdrag en de [Bijlage](https://wetten.overheid.nl/BWBV0001245) daarbij de volgende begrippen de hierbij daaraan toegekende betekenis:
 
 - a. onder „het Verdrag van Chicago" wordt verstaan: het Verdrag inzake de internationale burgerluchtvaart, op 7 december 1944 te Chicago voor ondertekening opengesteld, met inbegrip van alle overeenkomstig artikel 90 van dat Verdrag aangenomen Bijlagen en alle wijzigingen van de Bijlagen of dat Verdrag overeenkomstig de artikelen 90 en 94 daarvan, voor zover deze Bijlagen en wijzigingen in werking zijn getreden voor, of zijn bekrachtigd door beide Verdragsluitende Partijen;
 
@@ -63,17 +29,17 @@ Tenzij het zinsverband anders vereist, hebben in dit Verdrag en de Bijlage daarb
 
 - e. de begrippen „luchtdienst", „internationale luchtdienst", „luchtvaartmaatschappij" en „landing anders dan voor verkeersdoeleinden" hebben de betekenis die daaraan in artikel 96 van het Verdrag van Chicago onderscheidenlijk wordt toegekend;
 
-- f. onder „overeengekomen dienst" en „omschreven route" wordt onderscheidenlijk verstaan: een internationale luchtdienst ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001245&artikel=2&z=1997-06-01&g=1997-06-01) van dit Verdrag en de in de Bijlage bij dit Verdrag omschreven route;
+- f. onder „overeengekomen dienst" en „omschreven route" wordt onderscheidenlijk verstaan: een internationale luchtdienst ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001245&artikel=2&z=1997-06-01&g=1997-06-01) van dit Verdrag en de in de [Bijlage](https://wetten.overheid.nl/BWBV0001245) bij dit Verdrag omschreven route;
 
 - g. onder „boordproviand" wordt verstaan: consumptiegoederen bestemd voor gebruik of verkoop aan boord van een luchtvaartuig tijdens de vlucht, met inbegrip van verstrekte etenswaren en dranken;
 
-- h. onder „Verdrag" wordt verstaan: dit Verdrag, de in toepassing daarvan opgestelde Bijlage, en alle wijzigingen van het Verdrag of van de Bijlage;
+- h. onder „Verdrag" wordt verstaan: dit Verdrag, de in toepassing daarvan opgestelde [Bijlage](https://wetten.overheid.nl/BWBV0001245), en alle wijzigingen van het Verdrag of van de [Bijlage](https://wetten.overheid.nl/BWBV0001245);
 
 - i. onder „tarief" wordt verstaan: elk bedrag dat door de luchtvaartmaatschappijen, rechtstreeks of via hun agenten, in rekening wordt gebracht of zal worden gebracht aan alle natuurlijke personen of rechtspersonen voor het vervoer van passagiers (en hun bagage) en vracht (post uitgezonderd), daarbij inbegrepen:
 
-- I. de voorwaarden betreffende het beschikbaar zijn en het van toepassing zijn van een tarief, en
+   - I. de voorwaarden betreffende het beschikbaar zijn en het van toepassing zijn van een tarief, en
 
-- II. de heffingen en voorwaarden voor alle bij zulk vervoer bijkomende diensten die door de luchtvaartmaatschappijen worden aangeboden;
+   - II. de heffingen en voorwaarden voor alle bij zulk vervoer bijkomende diensten die door de luchtvaartmaatschappijen worden aangeboden;
 
 - j. onder „verandering van luchtvaartuig" wordt verstaan: de exploitatie van een van de overeengekomen diensten door een aangewezen luchtvaartmaatschappij op zodanige wijze dat op een of meer delen van de route wordt gevlogen met luchtvaartuigen met een andere capaciteit dan die welke op een ander deel worden gebruikt;
 
@@ -81,7 +47,7 @@ Tenzij het zinsverband anders vereist, hebben in dit Verdrag en de Bijlage daarb
 
 ##### Artikel 2. Verlening van rechten
 
-1. Elke Verdragsluitende Partij verleent de andere Verdragsluitende Partij, tenzij in de Bijlage anders is bepaald, de volgende rechten voor het verrichten van internationaal luchtvervoer door de aangewezen luchtvaartmaatschappij van de andere Verdragsluitende Partij:
+1. Elke Verdragsluitende Partij verleent de andere Verdragsluitende Partij, tenzij in de [Bijlage](https://wetten.overheid.nl/BWBV0001245) anders is bepaald, de volgende rechten voor het verrichten van internationaal luchtvervoer door de aangewezen luchtvaartmaatschappij van de andere Verdragsluitende Partij:
 
 - a. het recht om zonder te landen over haar grondgebied te vliegen;
 
@@ -245,13 +211,13 @@ Elke Verdragsluitende Partij behoudt zich evenwel het recht voor om voor vluchte
 
 1. In een geest van nauwe samenwerking plegen de luchtvaartautoriteiten van de Verdragsluitende Partijen van tijd tot tijd overleg met elkaar teneinde te verzekeren dat de bepalingen van dit Verdrag worden uitgevoerd en naar tevredenheid worden nageleefd.
 
-2. Elk der Verdragsluitende Partijen kan verzoeken om overleg met het oog op wijziging van dit Verdrag of van de Bijlage daarbij. Dit overleg vangt aan binnen zestig (60) dagen na de datum van ontvangst van het verzoek door de andere Verdragsluitende Partij, tenzij anders overeengekomen.
+2. Elk der Verdragsluitende Partijen kan verzoeken om overleg met het oog op wijziging van dit Verdrag of van de [Bijlage](https://wetten.overheid.nl/BWBV0001245) daarbij. Dit overleg vangt aan binnen zestig (60) dagen na de datum van ontvangst van het verzoek door de andere Verdragsluitende Partij, tenzij anders overeengekomen.
 
 Dit overleg kan zowel mondeling als schriftelijk plaatsvinden.
 
 3. Door de Verdragsluitende Partijen overeengekomen wijzigingen op dit Verdrag worden van kracht op de datum waarop de Verdragsluitende Partijen elkaar er schriftelijk van in kennis hebben gesteld dat aan hun onderscheiden constitutionele voorwaarden is voldaan.
 
-4. Elke wijziging van de Bijlage bij dit Verdrag wordt schriftelijk overeengekomen tussen de luchtvaartautoriteiten, en wordt van kracht op een door die autoriteiten te bepalen datum.
+4. Elke wijziging van de [Bijlage](https://wetten.overheid.nl/BWBV0001245) bij dit Verdrag wordt schriftelijk overeengekomen tussen de luchtvaartautoriteiten, en wordt van kracht op een door die autoriteiten te bepalen datum.
 
 ##### Artikel 17. Regeling van geschillen
 
@@ -289,10 +255,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun 
 
 GEDAAN te Bakoe op 11 juli 1996 in tweevoud in de Nederlandse, de Azerbajdzjaanse en de Engelse taal, zijnde de drie teksten gelijkelijk authentiek. In geval van verschillen in interpretatie van de Nederlandse en Azerbajdzjaanse tekst, is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) J. N. J. B. HORAK
 
-**Voor de Azerbajdzjaanse Republiek**
+*Voor de Azerbajdzjaanse Republiek*
 
 (w.g.) HASSAN HASSANOV

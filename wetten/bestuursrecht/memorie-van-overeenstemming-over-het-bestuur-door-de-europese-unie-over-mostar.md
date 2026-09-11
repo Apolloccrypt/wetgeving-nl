@@ -1,79 +1,19 @@
 ---
 title: "Memorie van Overeenstemming over het Bestuur door de Europese Unie over Mostar"
 identifier: "BWBV0001133"
-country: "nl"
-rank: "verdrag"
-publication_date: "1994-07-05"
-last_updated: "1994-07-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001133"
+categorie: "Bestuursrecht"
 soort: "verdrag"
-stam_id: "10001659923"
-version_id: "10001738142"
-internal_id: "C10006986461"
-label_id: "10001660184"
-dtd_version: "2.0"
-original_entry_into_force: "1994-07-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001133/1994-07-05/0"
-intitule_bron: "Trb.1994-183"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-07-05"
-intitule_published: "1994-09-02"
-intitule_in_force: "1994-09-02"
-intitule_status: "goed"
-original_publication: "Trb.1994-183"
-original_signed_date: "1994-07-05"
-original_published_date: "1994-09-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1994-183"
-entry_into_force_date: "1994-07-05"
-jci_1_3: "jci1.3:c:BWBV0001133&z=1994-07-05&g=1994-07-05"
-jci_1_0: "1.0:c:BWBV0001133&g=1994-07-05"
-citeertitel_status: "redactioneel"
-signed_date: "1994-07-05"
-entry_into_force: "1994-07-05"
+publicatiedatum: 1994-07-05
+laatste_update: 1994-07-05
+status: geldig
+toestand: 1994-07-05
+bron: "https://wetten.overheid.nl/BWBV0001133"
+opgehaald: 2026-09-11
 ---
+
 # Memorie van Overeenstemming over het Bestuur door de Europese Unie over Mostar
 
-DE LID-STATEN VAN DE EUROPESE UNIE, optredend in het kader van de Unie, in volledige samenwerking met de EUROPESE COMMISSIE en
-
-DE LID-STATEN VAN DE WESTEUROPESE UNIE,
-
-hierna de „Zendende Partij" te noemen,
-
-enerzijds, en
-
-DE REPUBLIEK BOSNIË-HERZEGOVINA,
-
-alsmede
-
-DE FEDERATIE BOSNIË EN HERZEGOVINA,
-
-HET PLAATSELIJK BESTUUR VAN OOST-MOSTAR,
-
-HET PLAATSELIJK BESTUUR VAN WEST-MOSTAR EN
-
-DE KROATEN VAN BOSNIË-HERZEGOVINA,
-
-hierna de „Ontvangende Partij" te noemen,
-
-anderzijds,
-
-naar behoren vertegenwoordigd,
-
-tezamen hierna de „Overeenkomstsluitende Partijen" te noemen,
-
-Gelet op
-
-het door de Partijen bij de op 18 maart 1994 in Washington ondertekende Overeenkomsten aan de Europese Unie gerichte verzoek om zo spoedig mogelijk het Bestuur van de gemeente Mostar te organiseren,
-
-de relevante bepalingen van de grondwet van de Federatie van Bosnië-Herzegovina,
-
-de oprechte wens van de Europese Unie bij te dragen tot het herstel van de vrede in het gebied en de terugkeer van normale levensomstandigheden voor de inwoners,
-
-Herinnerend aan het besluit van de Raad van Ministers van de Europese Unie (EU) van 18 april 1994, waarin onder meer de benoeming van een vertegenwoordiger van de Europese Unie werd bevestigd,
-
-Hebben over het volgende overeenstemming bereikt:
+*DE LID-STATEN VAN DE EUROPESE UNIE, optredend in het kader van de Unie, in volledige samenwerking met de EUROPESE COMMISSIE en DE LID-STATEN VAN DE WESTEUROPESE UNIE, hierna de „Zendende Partij" te noemen, enerzijds, en DE REPUBLIEK BOSNIË-HERZEGOVINA, alsmede DE FEDERATIE BOSNIË EN HERZEGOVINA, HET PLAATSELIJK BESTUUR VAN OOST-MOSTAR, HET PLAATSELIJK BESTUUR VAN WEST-MOSTAR EN DE KROATEN VAN BOSNIË-HERZEGOVINA, hierna de „Ontvangende Partij" te noemen, anderzijds, naar behoren vertegenwoordigd, tezamen hierna de „Overeenkomstsluitende Partijen" te noemen, Gelet op - het door de Partijen bij de op 18 maart 1994 in Washington ondertekende Overeenkomsten aan de Europese Unie gerichte verzoek om zo spoedig mogelijk het Bestuur van de gemeente Mostar te organiseren, - de relevante bepalingen van de grondwet van de Federatie van Bosnië-Herzegovina, - de oprechte wens van de Europese Unie bij te dragen tot het herstel van de vrede in het gebied en de terugkeer van normale levensomstandigheden voor de inwoners, Herinnerend aan het besluit van de Raad van Ministers van de Europese Unie (EU) van 18 april 1994, waarin onder meer de benoeming van een vertegenwoordiger van de Europese Unie werd bevestigd, Hebben over het volgende overeenstemming bereikt:*
 
 ##### Artikel 1. Instelling van het bestuur door de EU
 
@@ -83,29 +23,29 @@ Het bestuur van de gemeente Mostar wordt overgenomen door de Europese Unie overe
 
 De doelstellingen en beginselen van het EU-Bestuur zijn:
 
-- -. de partijen tijd te geven voor het vinden van een duurzame oplossing voor het bestuur van de gemeente Mostar. Het EU-Bestuur loopt niet vooruit op blijvende regelingen betreffende de status van Mostar,
+- - de partijen tijd te geven voor het vinden van een duurzame oplossing voor het bestuur van de gemeente Mostar. Het EU-Bestuur loopt niet vooruit op blijvende regelingen betreffende de status van Mostar,
 
-- -. bij te dragen tot een algemeen klimaat dat bevorderlijk is voor de uitwerking en stabilisering van permanente regelingen door de partijen die leiden tot een ongedeeld, in eigen behoeften voorziend en multi-etnisch bestuur van de stad,
+- - bij te dragen tot een algemeen klimaat dat bevorderlijk is voor de uitwerking en stabilisering van permanente regelingen door de partijen die leiden tot een ongedeeld, in eigen behoeften voorziend en multi-etnisch bestuur van de stad,
 
-- -. bij te dragen tot het houden van democratische verkiezingen, die zullen moeten plaatsvinden voor het EU-Bestuur ten einde loopt,
+- - bij te dragen tot het houden van democratische verkiezingen, die zullen moeten plaatsvinden voor het EU-Bestuur ten einde loopt,
 
-- -. te helpen bij de terugkeer naar het gewone leven voor alle burgers van de gemeente Mostar,
+- - te helpen bij de terugkeer naar het gewone leven voor alle burgers van de gemeente Mostar,
 
-- -. te helpen bij het herstel van de openbare voorzieningen,
+- - te helpen bij het herstel van de openbare voorzieningen,
 
-- -. te helpen bij het waarborgen van de bescherming van de rechten van de mens,
+- - te helpen bij het waarborgen van de bescherming van de rechten van de mens,
 
-- -. te helpen bij het scheppen van de voorwaarden voor de terugkeer naar huis van alle ontheemde burgers van Mostar,
+- - te helpen bij het scheppen van de voorwaarden voor de terugkeer naar huis van alle ontheemde burgers van Mostar,
 
-- -. te helpen bij het organiseren en verlenen van humanitaire hulp,
+- - te helpen bij het organiseren en verlenen van humanitaire hulp,
 
-- -. te helpen bij de voorbereiding en de uitvoering van programma's voor economische wederopbouw,
+- - te helpen bij de voorbereiding en de uitvoering van programma's voor economische wederopbouw,
 
-- -. te helpen bij het waarborgen van de handhaving van de openbare orde,
+- - te helpen bij het waarborgen van de handhaving van de openbare orde,
 
-- -. te helpen bij de hervatting van alle openbare diensten in de stad,
+- - te helpen bij de hervatting van alle openbare diensten in de stad,
 
-- -. te helpen met het waarborgen van de nationale, religieuze en culturele identiteit van alle mensen in het door de EU bestuurde gebied, in overeenstemming met de grondwet van de Fedεratie van Bosnië-Herzegovina.
+- - te helpen met het waarborgen van de nationale, religieuze en culturele identiteit van alle mensen in het door de EU bestuurde gebied, in overeenstemming met de grondwet van de Fedεratie van Bosnië-Herzegovina.
 
 ##### Artikel 3. Steun voor de EU-vertegenwoordiger
 
@@ -151,19 +91,19 @@ Er wordt een Adviesraad ingesteld van vijf Bosniërs, vijf Kroaten en vijf verte
 
 Hangende nadere bestudering worden er zeven departementen ingesteld:
 
-- -. Gemeente-administratie
+- - Gemeente-administratie
 
-- -. Financiën en belastingen
+- - Financiën en belastingen
 
-- -. Wederopbouw
+- - Wederopbouw
 
-- -. Economische en vervoersinfrastructuur
+- - Economische en vervoersinfrastructuur
 
-- -. Onderwijs en cultuur
+- - Onderwijs en cultuur
 
-- -. Openbare orde
+- - Openbare orde
 
-- -. Volksgezondheid en sociale zaken.
+- - Volksgezondheid en sociale zaken.
 
 Elk departement staat onder gezamenlijke leiding van een door de Raad van Ministers van de Europese Unie benoemde EU-ambtenaar en. naar gelang van het geval, één of twee door de Vertegenwoordiger benoemde ingezetenen van Mostar. De Vertegenwoordiger heeft het recht om na overleg met de Adviesraad de departementale structuur en de verdeling van verantwoordelijkheden waar nodig te wijzigen. Bij besluiten inzake het personeel van het stadsbestuur ligt de uiteindelijke beslissing bij de Vertegenwoordiger.
 

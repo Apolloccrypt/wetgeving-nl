@@ -1,49 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Tunesische Republiek tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen"
 identifier: "BWBV0001199"
-country: "nl"
-rank: "verdrag"
-publication_date: "2010-12-15"
-last_updated: "2010-12-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001199"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10000464883"
-version_id: "10000473402"
-internal_id: "C10009610091"
-label_id: "10000465514"
-dtd_version: "2.0"
-original_entry_into_force: "1995-12-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001199/2010-12-15/0"
-intitule_bron: "Trb.1995-164"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-11-15"
-intitule_published: "1995-07-05"
-intitule_in_force: "1995-12-04"
-intitule_status: "goed"
-original_publication: "Trb.1995-164"
-original_signed_date: "1995-11-15"
-original_published_date: "1995-07-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1995-164"
-entry_into_force_date: "1995-12-15"
-jci_1_3: "jci1.3:c:BWBV0001199&z=2010-12-15&g=2010-12-15"
-jci_1_0: "1.0:c:BWBV0001199&g=2010-12-15"
-citeertitel_status: "officieel"
-signed_date: "1995-11-15"
-entry_into_force: "1995-12-15"
+publicatiedatum: 1995-12-15
+laatste_update: 2010-12-15
+status: geldig
+toestand: 2010-12-15
+bron: "https://wetten.overheid.nl/BWBV0001199"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Tunesische Republiek tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van de Tunesische Republiek,
-
-Geleid door de wens, dat door beide Staten een verdrag wordt gesloten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Tunesische Republiek, Geleid door de wens, dat door beide Staten een verdrag wordt gesloten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. REIKWIJDTE VAN HET VERDRAG
 
@@ -61,19 +31,19 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide 
 
 - a. in het geval van Nederland:
 
-- (i). de inkomstenbelasting;
+   - (i) de inkomstenbelasting;
 
-- (ii). de loonbelasting;
+   - (ii) de loonbelasting;
 
-- (iii). de vennootschapsbelasting, daaronder begrepen het aandeel van de Regering in de nettowinsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de Mijnwet 1810 met betrekking tot concessies uitgegeven vanaf 1967, of geheven krachtens de Nederlandse Mijnwet continentaal plat 1965;
+   - (iii) de vennootschapsbelasting, daaronder begrepen het aandeel van de Regering in de nettowinsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de Mijnwet 1810 met betrekking tot concessies uitgegeven vanaf 1967, of geheven krachtens de Nederlandse Mijnwet continentaal plat 1965;
 
-- (iv). de dividendbelasting; (hierna te noemen: „Nederlandse belasting”);
+   - (iv) de dividendbelasting; (hierna te noemen: „Nederlandse belasting”);
 
 - b. in het geval van Tunesië:
 
-- (i). l'impôt sur le revenu des personnes physiques (de inkomstenbelasting voor natuurlijke personen);
+   - (i) l'impôt sur le revenu des personnes physiques (de inkomstenbelasting voor natuurlijke personen);
 
-- (ii). l'impôt sur les sociétés (de vennootschapsbelasting); (hierna te noemen: „Tunesische belasting”).
+   - (ii) l'impôt sur les sociétés (de vennootschapsbelasting); (hierna te noemen: „Tunesische belasting”).
 
 4. Het Verdrag is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die na de datum van ondertekening van het Verdrag naast of in de plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de Verdragsluitende Staten doen elkaar mededeling van alle belangrijke wijzigingen die in hun onderscheiden belastingwetgevingen zijn aangebracht.
 
@@ -99,15 +69,15 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide 
 
 - h. betekent de uitdrukking „onderdanen”:
 
-- (i). alle natuurlijke personen die de nationaliteit van een Verdragsluitende Staat bezitten;
+   - (i) alle natuurlijke personen die de nationaliteit van een Verdragsluitende Staat bezitten;
 
-- (ii). alle rechtspersonen, vennootschappen en verenigingen die hun rechtspositie als zodanig ontlenen aan de wetgeving die in een Verdragsluitende Staat van kracht is;
+   - (ii) alle rechtspersonen, vennootschappen en verenigingen die hun rechtspositie als zodanig ontlenen aan de wetgeving die in een Verdragsluitende Staat van kracht is;
 
 - i. betekent de uitdrukking „bevoegde autoriteit”:
 
-- (i). in het geval van Nederland: de Minister van Financiën of zijn bevoegde vertegenwoordiger;
+   - (i) in het geval van Nederland: de Minister van Financiën of zijn bevoegde vertegenwoordiger;
 
-- (ii). in het geval van Tunesië: de Minister belast met de Financiën of zijn bevoegde vertegenwoordiger.
+   - (ii) in het geval van Tunesië: de Minister belast met de Financiën of zijn bevoegde vertegenwoordiger.
 
 2. Voor de toepassing van het Verdrag door een Verdragsluitende Staat heeft elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens het recht van die Staat met betrekking tot de belastingen waarop het Verdrag van toepassing is, tenzij de context anders vereist of de bevoegde autoriteiten het eens worden over een gemeenschappelijke uitlegging op basis van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001199&hoofdstuk=V&artikel=24&z=2010-12-15&g=2010-12-15) van dit Verdrag.
 
@@ -203,7 +173,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide 
 
 3. De bepalingen van het eerste lid zijn ook van toepassing op voordelen uit de deelneming in een „pool”, een gemeenschappelijke onderneming of een internationaal opererend agentschap.
 
-##### Artikel 9. 1) Lees voor opschrift: **„Gelieerde ondernemingen”**.
+##### Artikel 9. 1) Lees voor opschrift: „Gelieerde ondernemingen”.
 
 1. Indien
 
@@ -329,15 +299,15 @@ Tantièmes, presentiegelden en andere beloningen, verkregen door een inwoner van
 
 ##### Artikel 19. Overheidsfuncties
 
-- a. Beloningen, niet zijnde pensioenen, betaald door een Verdragsluitende Staat of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten bewezen aan die Staat of dat onderdeel of dat publiekrechtelijk lichaam, zijn slechts in die Staat belastbaar.
+1. - a. Beloningen, niet zijnde pensioenen, betaald door een Verdragsluitende Staat of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten bewezen aan die Staat of dat onderdeel of dat publiekrechtelijk lichaam, zijn slechts in die Staat belastbaar.
 
 - b. Deze beloningen zijn echter slechts in de andere Verdragsluitende Staat belastbaar indien de diensten in die Staat worden bewezen en de natuurlijke persoon een inwoner is van die Staat, die:
 
-- (i). onderdaan is van die Staat, of
+   - (i) onderdaan is van die Staat, of
 
-- (ii). niet uitsluitend voor het verrichten van de diensten inwoner van die Staat werd.
+   - (ii) niet uitsluitend voor het verrichten van de diensten inwoner van die Staat werd.
 
-- a. Pensioenen betaald door, of uit fondsen in het leven geroepen door, een Verdragsluitende Staat of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten bewezen aan die Staat of dat onderdeel of dat publiekrechtelijk lichaam, zijn slechts in die Staat belastbaar.
+2. - a. Pensioenen betaald door, of uit fondsen in het leven geroepen door, een Verdragsluitende Staat of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten bewezen aan die Staat of dat onderdeel of dat publiekrechtelijk lichaam, zijn slechts in die Staat belastbaar.
 
 - b. Deze pensioenen zijn echter slechts in de andere Verdragsluitende Staat belastbaar, indien de natuurlijke persoon inwoner en onderdaan is van die Staat.
 
@@ -371,7 +341,7 @@ Dubbele belasting wordt op de volgende wijze vermeden:
 
 Het bedrag van deze aftrek is gelijk aan de in Tunesië over deze bestanddelen van het inkomen betaalde belasting, maar bedraagt niet meer dan het bedrag van de vermindering die zou zijn verleend indien de aldus in de belastbare grondslag begrepen bestanddelen van het inkomen de enige bestanddelen van het inkomen zouden zijn geweest, die uit hoofde van de bepalingen in de Nederlandse wetgeving tot het vermijden van dubbele belasting van Nederlandse belasting zijn vrijgesteld.
 
-4. Vervallen.
+4. *Vervallen.*
 
 5. Indien een inwoner van Tunesië inkomsten verkrijgt die overeenkomstig de bepalingen van dit Verdrag in Nederland mogen worden belast, verleent Tunesië, onder voorbehoud van de bepalingen van de nationale wet, op de belasting die het heft over de inkomsten van die inwoner, een vermindering die gelijk is aan de in Nederland over het inkomen betaalde belasting. Deze vermindering overschrijdt evenwel niet het deel van de belasting naar het inkomen, zoals deze is berekend vóór het verlenen van de vermindering, dat kan worden toegerekend aan de inkomsten die in Nederland mogen worden belast.
 
@@ -437,9 +407,9 @@ Elke aldus uitgewisselde inlichting wordt geheim gehouden en niet ter kennis geb
 
 2. Dit Verdrag treedt in werking op de dertigste dag na de datum van de uitwisseling van de akten van bekrachtiging en vindt toepassing:
 
-- (i). met betrekking tot aan de bron geheven belastingen: op inkomsten betaald of betaalbaar gesteld op of na 1 januari van het kalenderjaar dat onmiddellijk volgt op het jaar van de inwerkingtreding; en
+- (i) met betrekking tot aan de bron geheven belastingen: op inkomsten betaald of betaalbaar gesteld op of na 1 januari van het kalenderjaar dat onmiddellijk volgt op het jaar van de inwerkingtreding; en
 
-- (ii). met betrekking tot de andere belastingen: op inkomsten van belastingjaren en -tijdvakken die aanvangen op of na 1 januari van het kalenderjaar dat onmiddellijk volgt op het jaar van de inwerkingtreding.
+- (ii) met betrekking tot de andere belastingen: op inkomsten van belastingjaren en -tijdvakken die aanvangen op of na 1 januari van het kalenderjaar dat onmiddellijk volgt op het jaar van de inwerkingtreding.
 
 ##### Artikel 28. Beëindiging
 
@@ -449,90 +419,14 @@ Dit Verdrag blijft voor onbepaalde tijd van kracht, maar elk van de Verdragsluit
 
 - b. met betrekking tot de andere geheven belastingen: op inkomsten van belastingjaren en -tijdvakken die aanvangen op of na 1 januari van het jaar waarin de kennisgeving is gedaan, dan wel later.
 
-Bij de ondertekening van het Verdrag tussen het Koninkrijk der Nederlanden en de Tunesische Republiek tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen zijn de ondergetekenden overeengekomen, dat de volgende bepalingen een integrerend deel van het Verdrag vormen.
-
-#### Ad [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001199&hoofdstuk=II&artikel=4&z=2010-12-15&g=2010-12-15)
-
-##### 1
-
-Met betrekking tot [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001199&hoofdstuk=II&artikel=4&z=2010-12-15&g=2010-12-15) geldt dat een natuurlijke persoon die aan boord van een schip woont zonder een werkelijke woonplaats in een Verdragsluitende Staat te hebben, wordt geacht inwoner te zijn van de Verdragsluitende Staat waar dat schip zijn thuishaven heeft.
-
-#### Ad [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001199&hoofdstuk=III&artikel=7&z=2010-12-15&g=2010-12-15)
-
-##### 2
-
-Het is wel verstaan dat in geval van toezicht, constructie- of montagewerkzaamheden die een vaste inrichting vormen, alleen de voordelen uit deze werkzaamheden kunnen worden toegerekend aan die vaste inrichting. Dientengevolge kunnen voordelen behaald met de levering van goederen die noodzakelijk zijn voor de hiervoor bedoelde werkzaamheden en die bestemd zijn voor de uitvoerder en rechtstreeks geleverd worden door het hoofdkantoor van de onderneming, niet aan die vaste inrichting worden toegerekend.
-
-##### 3
-
-Met betrekking tot [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001199&hoofdstuk=III&artikel=7&z=2010-12-15&g=2010-12-15), worden bij het bepalen van de voordelen van een vaste inrichting in aftrek toegelaten kosten – daaronder begrepen kosten van de leiding en algemene beheerskosten – die ten behoeve van de vaste inrichting zijn gemaakt, hetzij in de Staat waar de vaste inrichting is gevestigd, hetzij elders.
-
-Geen aftrek wordt echter toegelaten voor bedragen (met uitzondering van die wegens werkelijk gemaakte kosten) welke eventueel door de vaste inrichting aan het hoofdkantoor van de onderneming of een van haar kantoren worden betaald als royalty's, vergoedingen of andere soortgelijke betalingen voor het gebruik van octrooien of andere rechten, of als commissieloon voor bepaalde diensten of voor het geven van leiding dan wel, behalve in het geval van een onderneming die het bankbedrijf uitoefent, als interest op bedragen die aan de vaste inrichting zijn geleend.
-
-Evenmin wordt bij de berekening van de voordelen van een vaste inrichting rekening gehouden met bedragen (met uitzondering van die wegens werkelijk gemaakte kosten) welke door de vaste inrichting aan het hoofdkantoor van de onderneming of een van haar andere kantoren in rekening worden gebracht als royalty's, vergoedingen of andere soortgelijke betalingen voor het gebruik van octrooien of andere rechten, of als commissieloon voor bepaalde diensten of voor het geven van leiding dan wel, behalve in het geval van een onderneming die het bankbedrijf uitoefent, als interest op bedragen die aan het hoofdkantoor of een van haar andere kantoren zijn geleend.
-
-##### 4
-
-Voor zover het in een Verdragsluitende Staat gebruikelijk is de aan een vaste inrichting toe te rekenen voordelen te bepalen op basis van een verdeling van de totale winst van de onderneming over haar verschillende delen, belet geen enkele bepaling van het tweede lid die Verdragsluitende Staat de te belasten voordelen te bepalen volgens de gebruikelijke verdeling; de gevolgde methode van verdeling moet echter zodanig zijn, dat het verkregen resultaat in overeenstemming is met de in dit artikel neergelegde beginselen.
-
-##### 5
-
-De aandelen van een vennoot in de winst van een onderneming die is opgericht in de vorm van een maatschap of vennootschap onder firma in een Verdragsluitende Staat, mogen niet worden belast, indien een dergelijke vennoot in die Staat geen vaste inrichting heeft als omschreven in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001199&hoofdstuk=II&artikel=5&z=2010-12-15&g=2010-12-15) van dit Verdrag.
-
-#### Ad [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001199&hoofdstuk=III&artikel=9&z=2010-12-15&g=2010-12-15)
-
-##### 6
-
-De omstandigheid dat gelieerde ondernemingen overeenkomsten hebben afgesloten, zoals „costsharing”-overeenkomsten of algemene dienstverleningsovereenkomsten voor of gebaseerd op de toerekening van de kosten van de leiding, de algemene beheerskosten, de technische en zakelijke kosten, de kosten voor onderzoek en ontwikkeling en andere soortgelijke kosten, vormt op zichzelf geen voorwaarde als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001199&hoofdstuk=III&artikel=9&z=2010-12-15&g=2010-12-15).
-
-#### Ad [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001199&hoofdstuk=III&artikel=11&z=2010-12-15&g=2010-12-15) en 12
-
-##### 7
-
-Interest bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001199&hoofdstuk=III&artikel=11&z=2010-12-15&g=2010-12-15), is onderworpen aan de belasting naar een percentage van 7,5 zolang de interest ontvangen door een inwoner van Tunesië in Nederland niet is onderworpen aan inhouding bij de bron en zolang Nederland op dat punt niet is overgegaan tot wijziging van zijn belastingwetgeving.
-
-##### 8
-
-Een financiële instelling in de zin van [artikel 11, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0001199&hoofdstuk=III&artikel=11&z=2010-12-15&g=2010-12-15), omvat wat Nederland betreft de Nederlandse Financieringsmaatschappij voor Ontwikkelingslanden N.V. en de Nederlandse Investeringsbank voor Ontwikkelingslanden N.V.
-
-##### 9
-
-Royalty's bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001199&hoofdstuk=III&artikel=12&z=2010-12-15&g=2010-12-15), zijn onderworpen aan de belasting naar een percentage van 7,5 zolang de royalty's ontvangen door een inwoner van Tunesië in Nederland niet zijn onderworpen aan inhouding bij de bron en zolang Nederland op dat punt niet is overgegaan tot wijziging van zijn belastingwetgeving.
-
-#### Ad [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0001199&hoofdstuk=III&artikel=16&z=2010-12-15&g=2010-12-15)
-
-##### 10
-
-Het is wel verstaan dat wat een Nederlands lichaam betreft personen die als zodanig zijn benoemd door de algemene vergadering van aandeelhouders of door enig ander bevoegd orgaan van dat lichaam en die zijn belast met de algemene leiding van het lichaam onderscheidenlijk met het toezicht daarop, bestuurder of commissaris zijn.
-
-#### Ad [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001199&hoofdstuk=III&artikel=18&z=2010-12-15&g=2010-12-15) en [19](https://wetten.overheid.nl/jci1.3:c:BWBV0001199&hoofdstuk=III&artikel=19&z=2010-12-15&g=2010-12-15)
-
-##### 11
-
-Het is wel verstaan dat de bepalingen van [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001199&hoofdstuk=III&artikel=18&z=2010-12-15&g=2010-12-15), en [artikel 19, eerste lid, onderdeel a, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0001199&hoofdstuk=III&artikel=19&z=2010-12-15&g=2010-12-15), Nederland niet beletten de bepalingen van [artikel 22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001199&hoofdstuk=IV&artikel=22&z=2010-12-15&g=2010-12-15), van dit Verdrag toe te passen.
-
-#### Ad [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0001199&hoofdstuk=IV&artikel=22&z=2010-12-15&g=2010-12-15)
-
-##### 12
-
-Het blijft wel verstaan dat de bepalingen van [artikel 22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001199&hoofdstuk=IV&artikel=22&z=2010-12-15&g=2010-12-15), slechts van toepassing zijn indien de uiteindelijke schuldenaar van en de uiteindelijk gerechtigde tot de dividenden, interest en royalty's inwoner zijn van Tunesië of Nederland, overeenkomstig de bepalingen van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001199&hoofdstuk=I&artikel=1&z=2010-12-15&g=2010-12-15) van dit Verdrag.
-
-##### 13
-
-De bevoegde autoriteiten van de Verdragsluitende Staten regelen in onderlinge overeenstemming de wijze van toepassing van het Verdrag, en in het bijzonder de formaliteiten die de inwoners van een Verdragsluitende Staat moeten vervullen om in de andere Verdragsluitende Staat de verminderingen of vrijstellingen van belastingen te verkrijgen, waarin het Verdrag voorziet.
-
-##### 14
-
-Voor de toepassing van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001199&hoofdstuk=III&artikel=10&z=2010-12-15&g=2010-12-15), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0001199&hoofdstuk=III&artikel=11&z=2010-12-15&g=2010-12-15), en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0001199&hoofdstuk=III&artikel=12&z=2010-12-15&g=2010-12-15) moeten verzoeken om teruggaaf bij de bevoegde autoriteit van de Verdragsluitende Staat die de belasting heeft geheven, worden ingediend binnen een tijdvak van drie jaren na het einde van het kalenderjaar waarin de belasting is geheven.
-
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Verdrag hebben ondertekend.
 
 GEDAAN te 's-Gravenhage de 16 mei 1995 in drievoud, in de Nederlandse, de Franse en de Arabische taal. Bij een verschillende uitleg is de Franse tekst beslissend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) W. A. F. G. VERMEEND
 
-**Voor de Regering van de Tunesische Republiek**
+*Voor de Regering van de Tunesische Republiek*
 
 (w.g.) MOHAMED GHANNOUCHI

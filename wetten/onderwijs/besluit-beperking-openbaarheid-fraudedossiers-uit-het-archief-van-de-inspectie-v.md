@@ -1,26 +1,22 @@
 ---
-title: "Besluit beperking openbaarheid fraudedossiers uit het archief van de Inspectie van het onderwijs, periode 2001-2016"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 15 juni 2026, nr. I/62678920, houdende beperking van de openbaarheid van fraudedossiers uit het archief van de Inspectie van het onderwijs over de periode 2001-2016"
+citeertitel: "Besluit beperking openbaarheid fraudedossiers uit het archief van de Inspectie van het onderwijs, periode 2001-2016"
 identifier: "BWBR0052847"
 categorie: "Onderwijs"
+soort: "ministeriele-regeling"
 publicatiedatum: 2026-07-18
-laatste_update: 2026-07-24
+laatste_update: 2026-07-18
 status: geldig
+toestand: 2026-07-18
 bron: "https://wetten.overheid.nl/BWBR0052847"
+opgehaald: 2026-09-11
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 15 juni 2026, nr. I/62678920, houdende beperking van de openbaarheid van fraudedossiers uit het archief van de Inspectie van het onderwijs over de periode 2001-2016
 
-Gelet op [artikel 15, eerste lid, onderdeel a, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) en [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10);
-
-Gezien het advies van het Nationaal Archief van 21 april 2026, nr. 62931946;
-
-Besluit:
-
-Tot de volgende beperkingen aan de openbaarheid van de fraudedossiers uit het archief van de Inspectie van het onderwijs over de periode 2001–2016.
-
 ##### Artikel 1
 
-Met het oog op de eerbiediging van de persoonlijke levenssfeer is het inventarisnummer, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
+Met het oog op de eerbiediging van de persoonlijke levenssfeer is het inventarisnummer, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
 | Inventarisnummers | Beperkt openbaar tot 1 januari |
 | --- | --- |
@@ -63,5 +59,3 @@ Het vervaardigen van reproducties van documenten geborgen onder de inventarisnum
 ##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst, en wordt eveneens als bijlage gevoegd bij de Verklaring van Overbrenging van de dossiers B.2.3 Fraude over de periode 2001-2016 uit het archief van de Inspectie van het onderwijs.

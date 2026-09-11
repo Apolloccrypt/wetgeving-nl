@@ -1,87 +1,41 @@
 ---
 title: "Overeenkomst inzake de instandhouding van kleine walvisachtigen in de Baltische Zee, de Noordoost-Atlantische Oceaan, de Ierse Zee en de Noordzee"
 identifier: "BWBV0001069"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-02-03"
-last_updated: "2008-02-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001069"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10002311743"
-version_id: "10002321522"
-internal_id: "C10006976291"
-label_id: "10002301764"
-dtd_version: "2.0"
-original_entry_into_force: "1994-03-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001069/2008-02-03/0"
-intitule_bron: "Trb.1992-137"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-12-29"
-intitule_published: "1992-09-24"
-intitule_in_force: "1994-05-31"
-intitule_status: "goed"
-original_publication: "Trb.1992-137"
-original_signed_date: "1992-12-29"
-original_published_date: "1992-09-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1992-137"
-entry_into_force_date: "1994-03-29"
-jci_1_3: "jci1.3:c:BWBV0001069&z=2008-02-03&g=2008-02-03"
-jci_1_0: "1.0:c:BWBV0001069&g=2008-02-03"
-citeertitel_status: "redactioneel"
-signed_date: "1992-12-29"
-entry_into_force: "1994-03-29"
+publicatiedatum: 1994-03-29
+laatste_update: 2008-02-03
+status: geldig
+toestand: 2008-02-03
+bron: "https://wetten.overheid.nl/BWBV0001069"
+opgehaald: 2026-09-11
 ---
+
 # Overeenkomst inzake de instandhouding van kleine walvisachtigen in de Baltische Zee, de Noordoost-Atlantische Oceaan, de Ierse Zee en de Noordzee
 
-The Parties,
+*The Parties, Recalling the general principles of conservation and sustainable use of natural resources, as reflected in the World Conservation Strategy of the International Union for the Conservation of Nature and Natural Resources, the United Nations Environment Programme, and the World Wide Fund for Nature, and in the report of the World Commission on Environment and Development, Recognizing that small cetaceans are and should remain an integral part of marine ecosystems, Aware that the population of harbour porpoises of the Baltic Sea has drastically decreased, Concerned about the status of small cetaceans in the Baltic and North Seas, Recognizing that by-catches, habitat deterioration and disturbance may adversely affect these populations, Convinced that their vulnerable and largely unclear status merits immediate attention in order to improve it and to gather information as a basis for sound decisions on management and conservation, Confident that activities for that purpose are best coordinated between the States concerned in order to increase efficiency and avoid duplicate work, Aware of the importance of maintaining maritime activities such as fishing, Recalling that under the Convention on the Conservation of Migratory Species of Wild Animals(Bonn 1979), Parties are encouraged to conclude agreements on wild animals which periodically cross national jurisdictional boundaries, Recalling also that under the provisions of the Convention on the Conservation of European Wildlife and Natural Habitats (Berne 1979), all small cetaceans regularly present in the Baltic and North Seas are listed in its Appendix II as strictly protected species, and Referring to the Memorandum of Understanding on Small Cetaceans in the North Sea signed by the Ministers present at the Third International Conference on the Protection of the North Sea, Have agreed as follows:*
 
-Recalling the general principles of conservation and sustainable use of natural resources, as reflected in the World Conservation Strategy of the International Union for the Conservation of Nature and Natural Resources, the United Nations Environment Programme, and the World Wide Fund for Nature, and in the report of the World Commission on Environment and Development,
-
-Recognizing that small cetaceans are and should remain an integral part of marine ecosystems,
-
-Aware that the population of harbour porpoises of the Baltic Sea has drastically decreased,
-
-Concerned about the status of small cetaceans in the Baltic and North Seas,
-
-Recognizing that by-catches, habitat deterioration and disturbance may adversely affect these populations,
-
-Convinced that their vulnerable and largely unclear status merits immediate attention in order to improve it and to gather information as a basis for sound decisions on management and conservation,
-
-Confident that activities for that purpose are best coordinated between the States concerned in order to increase efficiency and avoid duplicate work,
-
-Aware of the importance of maintaining maritime activities such as fishing,
-
-Recalling that under the [Convention on the Conservation of Migratory Species of Wild Animals](https://wetten.overheid.nl/jci1.3:c:BWBV0004769)(Bonn 1979), Parties are encouraged to conclude agreements on wild animals which periodically cross national jurisdictional boundaries,
-
-Recalling also that under the provisions of the [Convention on the Conservation of European Wildlife and Natural Habitats](https://wetten.overheid.nl/jci1.3:c:BWBV0003485) (Berne 1979), all small cetaceans regularly present in the Baltic and North Seas are listed in its [Appendix II](https://wetten.overheid.nl/jci1.3:c:BWBV0003485&bijlage=II) as strictly protected species, and
-
-Referring to the Memorandum of Understanding on Small Cetaceans in the North Sea signed by the Ministers present at the Third International Conference on the Protection of the North Sea,
-
-Have agreed as follows:
-
-##### 1. Scope and interpretation
+##### Artikel 1. Scope and interpretation
 
 1.1. This agreement shall apply to all small cetaceans found within the area of the agreement.
 
 1.2. For the purpose of this agreement:
 
-- a). “Small cetaceans” means any species, subspecies or population of toothed whales **Odontoceti,** except the sperm whale **Physeter macrocephalus** ;
+- a) “Small cetaceans” means any species, subspecies or population of toothed whales *Odontoceti,* except the sperm whale *Physeter macrocephalus* ;
 
-- b). “Area of the Agreement” means the marine environment of the Baltic and North Seas and contiguous area of the North East Atlantic, as delimited by the shores of the Gulfs of Bothnia and Finland; to the south-east by latitude 36°N, where this line of latitude meets the line joining the lighthouses of Cape St. Vincent (Portugal) and Casablanca (Morocco); to the south-west by latitude 36°N and longitude 15°W; to the north-west by longitude 15° and a line drawn through the following points: latitude 59°N/longitude 15°W, latitude 60°N/longitude 05°W, latitude, 61°N/longitude 4°W; latitude 62°N/longitude 3°W; to the north by latitude 62°N; and including the Kattegat and the Sound and Belt passages.
+- b) “Area of the Agreement” means the marine environment of the Baltic and North Seas and contiguous area of the North East Atlantic, as delimited by the shores of the Gulfs of Bothnia and Finland; to the south-east by latitude 36°N, where this line of latitude meets the line joining the lighthouses of Cape St. Vincent (Portugal) and Casablanca (Morocco); to the south-west by latitude 36°N and longitude 15°W; to the north-west by longitude 15° and a line drawn through the following points: latitude 59°N/longitude 15°W, latitude 60°N/longitude 05°W, latitude, 61°N/longitude 4°W; latitude 62°N/longitude 3°W; to the north by latitude 62°N; and including the Kattegat and the Sound and Belt passages.
 
-- c). “[Bonn Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004769)” means the Convention on the Conservation of Migratory Species of Wild Animals (Bonn 1979);
+- c) “[Bonn Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004769)” means the Convention on the Conservation of Migratory Species of Wild Animals (Bonn 1979);
 
-- d). “Regional Economic Integration Organization” means an organization constituted by sovereign States which has competence in respect of the negociation, conclusion and application of international agreements in matters covered by this agreement;
+- d) “Regional Economic Integration Organization” means an organization constituted by sovereign States which has competence in respect of the negociation, conclusion and application of international agreements in matters covered by this agreement;
 
-- e). “Party” means a range State or any regional Economic Integration Organization for which this agreement is in force;
+- e) “Party” means a range State or any regional Economic Integration Organization for which this agreement is in force;
 
-- f). “Range State” means any State, whether or not a Party to the agreement, that exercises jurisdiction over any part of the range of a species covered by this agreement, or a State whose flag vessels, outside national jurisdictional limits but within the area of the agreement, are engaged in operations adversely affecting small cetaceans;
+- f) “Range State” means any State, whether or not a Party to the agreement, that exercises jurisdiction over any part of the range of a species covered by this agreement, or a State whose flag vessels, outside national jurisdictional limits but within the area of the agreement, are engaged in operations adversely affecting small cetaceans;
 
-- g). “Secretariat” means, unless the context otherwise indicates, the Secretariat to this agreement.
+- g) “Secretariat” means, unless the context otherwise indicates, the Secretariat to this agreement.
 
-##### 2. Purpose and basic arrangements
+##### Artikel 2. Purpose and basic arrangements
 
 2.1. The Parties should undertake to cooperate in order to achieve and maintain a favourable conservation status for small cetaceans.
 
@@ -95,21 +49,21 @@ Have agreed as follows:
 
 2.6. The provisions of this agreement shall not affect the rights of a Party to take stricter measures for the conservation of small cetaceans.
 
-##### 3. The Coordinating Authority
+##### Artikel 3. The Coordinating Authority
 
 3.1. The activities of each Party shall be coordinated and monitored through its Coordinating Authority which shall serve as the contact point for the Secretariat and the Advisory Committee in their work.
 
-##### 4. The Secretariat
+##### Artikel 4. The Secretariat
 
 4.1. The Secretariat shall, following instructions provided by the meetings of the Parties, promote and coordinate the activities undertaken in accordance with Article 6.1 of this agreement and shall, in close consultation with the Advisory Committee, provide advice and support to the Parties and their Coordinating Authorities.
 
 4.2. In particular, the Secretariat shall: facilitate the exchange of information and assist with the coordination of monitoring and research among Parties and between the Parties and International organizations engaged in similar activities; organize meetings and notify Parties, the observers mentioned in Article 6.2.1. and the Advisory Committee; coordinate and circulate proposals for amendments to the agreement and its Annex; and present to the Coordinating Authorities, each year no later than 30 June, a summary of the Party reports submitted in accordance with Article 2.5, and a brief account of its own activities during the past calender year, including a financial report.
 
-4.3. The Secretariat shall present to each Meeting of the Parties a summary of, **inter alia,** progress made and difficulties encountered since the last Meeting of the Parties. A copy of this report shall be submitted to the Secretariat of that Convention.
+4.3. The Secretariat shall present to each Meeting of the Parties a summary of, *inter alia,* progress made and difficulties encountered since the last Meeting of the Parties. A copy of this report shall be submitted to the Secretariat of that Convention.
 
 4.4. The Secretariat shall be attached to a public institution of a Party or to an international body, and that institution or body shall be the employer of its staff.
 
-##### 5. The Advisory Committee
+##### Artikel 5. The Advisory Committee
 
 5.1. The Meeting of the Parties shall establish an Advisory Committee to provide expert advice and information to the Secretariat and the Parties on the conservation and management of small cetaceans and on other matters in relation to the running of the agreement, having regard to the need not to duplicate the work of other international bodies and the desirability of drawing on their expertise.
 
@@ -119,19 +73,19 @@ Have agreed as follows:
 
 5.4. Each Committee member may be accompanied by advisers, and the Committee may invite other experts to attend its meetings. The Committee may establish working groups.
 
-##### 6. The Meeting of the Parties
+##### Artikel 6. The Meeting of the Parties
 
 6.1. The Parties shall meet, at the invitation of the Bonn Convention Secretariat on behalf of any Party, within one year of the entry into force of this agreement, and thereafter, at the notification of the Secretariat, not less than once every three years to review the progress made and difficulties encountered in the implementation and operation of the agreement since the last Meeting, and to consider and decide upon :
 
-- a). The latest Secretariat report;
+- a) The latest Secretariat report;
 
-- b). Matters relating to the Secretariat and the Advisory Committee;
+- b) Matters relating to the Secretariat and the Advisory Committee;
 
-- c). The establishment and review of financial arrangements and the adoption of a budget for the forthcoming three years;
+- c) The establishment and review of financial arrangements and the adoption of a budget for the forthcoming three years;
 
-- d). Any other item relevant to this agreement circulated among the Parties by a Party or by the Secretariat not later than 90 days before the Meeting, including proposals to amend the agreement and its Annex; and
+- d) Any other item relevant to this agreement circulated among the Parties by a Party or by the Secretariat not later than 90 days before the Meeting, including proposals to amend the agreement and its Annex; and
 
-- e). The time and venue of the next Meeting.
+- e) The time and venue of the next Meeting.
 
 6.2.1. The following shall be entitled to send observers to the Meeting: the Depositary of this agreement, the secretariats of the [Bonn Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004769), the [Convention on International Trade in Endangered Species of Wild Fauna and Flora](https://wetten.overheid.nl/jci1.3:c:BWBV0003833), the [Convention on the Conservation of European Wildlife and Natural Habitats](https://wetten.overheid.nl/jci1.3:c:BWBV0003485), the Convention for the Prevention of Marine Pollution by Dumping from Ships and Aircraft, the Convention for the Prevention of Marine Pollution from Landbased Sources, the Common Secretariat for the Cooperation on the Protection of the Wadden Sea, the International Whaling Commission, the North-East Atlantic Fisheries Commission, the International Baltic Sea Fisheries Commission, the Baltic Marine Environment Protection Commission, the International Council for the Exploration of the Sea, the International Union for the Conservation of Nature and Natural Resources, and all non-Party Range States and Regional Economic Integration Organizations bordering on the waters concerned.
 
@@ -151,11 +105,11 @@ Have agreed as follows:
 
 - 6.5.4. Any State that becomes a Party to the Agreement after the entry into force of an Amendment shall, failing an expression of a different intention by that State:
 
-- a). be considered as a Party to the Agreement as amended; and
+   - a) be considered as a Party to the Agreement as amended; and
 
-- b). be considered as a Party to the unamended Agreement in relation to any Party not bound by the Amendment.
+   - b) be considered as a Party to the unamended Agreement in relation to any Party not bound by the Amendment.
 
-##### 7. Financing
+##### Artikel 7. Financing
 
 7.1. The Parties agree to share the cost of the budget, with Regional Economic Organizations contributing 2.5 per cent of the administrative costs and other Parties sharing the balance in accordance with the United Nations scale, but with a maximum of 25 per cent per Party.
 
@@ -163,7 +117,7 @@ Have agreed as follows:
 
 7.3. The Secretariat shall prepare and keep financial accounts by calender years.
 
-##### 8. Legal matters and formalities
+##### Artikel 8. Legal matters and formalities
 
 8.1. This is an agreement within the meaning of the [Bonn Convention, Article IV (4)](https://wetten.overheid.nl/jci1.3:c:BWBV0004769&artikel=IV).
 

@@ -1,18 +1,18 @@
 ---
-title: "Besluit ondermandaat, volmacht en machtiging voor de directie Informatievoorziening van het Ministerie van Economische Zaken en Klimaat 2026"
+title: "Besluit van de directeur Informatievoorziening van het Ministerie van Economische Zaken en Klimaat van 11 mei 2026, nr. 106046662, tot verlening van ondermandaat, volmacht en machtiging voor de directie Informatievoorziening van het Ministerie van Economische Zaken en Klimaat (Besluit ondermandaat, volmacht en machtiging voor de directie Informatievoorziening van het Ministerie van Economische Zaken en Klimaat 2026)"
+citeertitel: "Besluit ondermandaat, volmacht en machtiging voor de directie Informatievoorziening van het Ministerie van Economische Zaken en Klimaat 2026"
 identifier: "BWBR0052634"
 categorie: "Milieu"
+soort: "ministeriele-regeling"
 publicatiedatum: 2026-05-22
 laatste_update: 2026-05-22
 status: geldig
+toestand: 2026-05-22
 bron: "https://wetten.overheid.nl/BWBR0052634"
+opgehaald: 2026-09-11
 ---
 
 # Besluit van de directeur Informatievoorziening van het Ministerie van Economische Zaken en Klimaat van 11 mei 2026, nr. 106046662, tot verlening van ondermandaat, volmacht en machtiging voor de directie Informatievoorziening van het Ministerie van Economische Zaken en Klimaat (Besluit ondermandaat, volmacht en machtiging voor de directie Informatievoorziening van het Ministerie van Economische Zaken en Klimaat 2026)
-
-Gelet op [artikel 14 van het Besluit mandaat, volmacht en machtiging EZK 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&artikel=14);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -20,27 +20,27 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- **afdelingshoofden:** hoofden van de afdelingen van de directie Informatievoorziening van het Ministerie van Economische Zaken en Klimaat;
+- *afdelingshoofden:* hoofden van de afdelingen van de directie Informatievoorziening van het Ministerie van Economische Zaken en Klimaat;
 
-- **bedrag:** bedrag inclusief verschuldigde omzetbelasting (BTW);
+- *bedrag:* bedrag inclusief verschuldigde omzetbelasting (BTW);
 
-- **clustermanagers:** clustermanagers van afdelingen van de directie Informatievoorziening van het Ministerie van Economische Zaken en Klimaat;
+- *clustermanagers:* clustermanagers van afdelingen van de directie Informatievoorziening van het Ministerie van Economische Zaken en Klimaat;
 
-- **coördinerend directeur inkoop:** coördinerend directeur inkoop van het Ministerie van Economische Zaken en Klimaat;
+- *coördinerend directeur inkoop:* coördinerend directeur inkoop van het Ministerie van Economische Zaken en Klimaat;
 
-- **directeur:** directeur Informatievoorziening van het Ministerie van Economische Zaken en Klimaat;
+- *directeur:* directeur Informatievoorziening van het Ministerie van Economische Zaken en Klimaat;
 
-- **machtigingenbeheerders eHerkenningsmiddelen:** machtigingenbeheerders eHerkenningsmiddelen van de directie Informatievoorziening van het Ministerie van Economische Zaken en Klimaat;
+- *machtigingenbeheerders eHerkenningsmiddelen:* machtigingenbeheerders eHerkenningsmiddelen van de directie Informatievoorziening van het Ministerie van Economische Zaken en Klimaat;
 
-- **clustermanagerWerkomgeving & Inkoop – Dienstverlening:** clustermanager van de afdeling Werkomgeving en Inkoop – Dienstverlening van de directie Informatievoorziening van het Ministerie van Economische Zaken en Klimaat;
+- *clustermanagerWerkomgeving & Inkoop – Dienstverlening:* clustermanager van de afdeling Werkomgeving en Inkoop – Dienstverlening van de directie Informatievoorziening van het Ministerie van Economische Zaken en Klimaat;
 
-- **medewerkers Inkoopplein:** medewerkers van het Inkoopplein van de directie Informatievoorziening van het Ministerie van Economische Zaken en Klimaat;
+- *medewerkers Inkoopplein:* medewerkers van het Inkoopplein van de directie Informatievoorziening van het Ministerie van Economische Zaken en Klimaat;
 
-- **programmamanager:** programmamanager van het programma Transparantie in Informatie van de directie Informatievoorziening van het Ministerie van Economische Zaken en Klimaat;
+- *programmamanager:* programmamanager van het programma Transparantie in Informatie van de directie Informatievoorziening van het Ministerie van Economische Zaken en Klimaat;
 
-- **regisseur Dienstverlening:** senior adviseur Bedrijfsvoering van de afdeling Werkomgeving en Inkoop van de directie Informatievoorziening van het Ministerie van Economische Zaken en Klimaat;
+- *regisseur Dienstverlening:* senior adviseur Bedrijfsvoering van de afdeling Werkomgeving en Inkoop van de directie Informatievoorziening van het Ministerie van Economische Zaken en Klimaat;
 
-- **teammanagers:** teammanagers van de directie Informatievoorziening van het Ministerie van Economische Zaken en Klimaat.
+- *teammanagers:* teammanagers van de directie Informatievoorziening van het Ministerie van Economische Zaken en Klimaat.
 
 #### § 2. Taakverdeling tussen de directeur en de onder haar ressorterende functionarissen
 
@@ -54,7 +54,7 @@ Aan de directeur is voorbehouden: het nemen van besluiten, het verrichten van pr
 
 ##### Artikel 3
 
-1. Aan de afdelingshoofden en programmamanager wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 260.000 per verplichting niet te boven gaat.
+1. Aan de afdelingshoofden en programmamanager wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 260.000 per verplichting niet te boven gaat.
 
 2. Aan de afdelingshoofden en programmamanager wordt voorts, ieder voor zich, met betrekking tot de onder hen ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
@@ -78,7 +78,7 @@ Aan de coördinerend directeur inkoop wordt ondermandaat, volmacht en machtiging
 
 ##### Artikel 5
 
-1. Aan de clustermanagers wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 30.000 per verplichting niet te boven gaat.
+1. Aan de clustermanagers wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 30.000 per verplichting niet te boven gaat.
 
 2. Aan de clustermanagers wordt voorts, ieder voor zich, met betrekking tot de onder hen ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
@@ -98,7 +98,7 @@ Aan de coördinerend directeur inkoop wordt ondermandaat, volmacht en machtiging
 
 ##### Artikel 6
 
-1. Aan de teammanagers wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 10.000 per verplichting niet te boven gaat.
+1. Aan de teammanagers wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 10.000 per verplichting niet te boven gaat.
 
 2. Aan de teammanagers wordt voorts, ieder voor zich, met betrekking tot de onder hen ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
@@ -116,7 +116,7 @@ Aan de coördinerend directeur inkoop wordt ondermandaat, volmacht en machtiging
 
 ##### Artikel 7
 
-1. Aan de clustermanager Werkomgeving & Inkoop – Dienstverlening wordt volmacht en machtiging gegeven voor het verrichten van privaatrechtelijke rechtshandelingen voor zover deze daartoe een opdracht heeft gekregen van een bevoegde functionaris, met dien verstande dat dit een bedrag van € 60.000 per verplichting niet te boven gaat.
+1. Aan de clustermanager Werkomgeving & Inkoop – Dienstverlening wordt volmacht en machtiging gegeven voor het verrichten van privaatrechtelijke rechtshandelingen voor zover deze daartoe een opdracht heeft gekregen van een bevoegde functionaris, met dien verstande dat dit een bedrag van € 60.000 per verplichting niet te boven gaat.
 
 2. Aan de clustermanager Werkomgeving & Inkoop – Dienstverlening wordt met betrekking tot de onder deze ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
@@ -132,15 +132,15 @@ Aan de coördinerend directeur inkoop wordt ondermandaat, volmacht en machtiging
 
 - f. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskostendeclaraties binnen de Europese Unie.
 
-3. Aan de medewerkers van het Inkoopplein wordt, ieder voor zich, volmacht en machtiging gegeven voor het verrichten van privaatrechtelijke rechtshandelingen voor zover deze daartoe een opdracht heeft gekregen van een bevoegde functionaris, met dien verstande dat dit een bedrag van € 12.000 per verplichting niet te boven gaan.
+3. Aan de medewerkers van het Inkoopplein wordt, ieder voor zich, volmacht en machtiging gegeven voor het verrichten van privaatrechtelijke rechtshandelingen voor zover deze daartoe een opdracht heeft gekregen van een bevoegde functionaris, met dien verstande dat dit een bedrag van € 12.000 per verplichting niet te boven gaan.
 
 ##### Artikel 8
 
-Aan de regisseur Dienstverlening wordt volmacht en machtiging gegeven voor het verrichten van privaatrechtelijke rechtshandelingen voor zover deze daartoe een opdracht heeft gekregen van een bevoegde functionaris, met dien verstande dat dit een bedrag van € 12.000 per verplichting niet te boven gaat.
+Aan de regisseur Dienstverlening wordt volmacht en machtiging gegeven voor het verrichten van privaatrechtelijke rechtshandelingen voor zover deze daartoe een opdracht heeft gekregen van een bevoegde functionaris, met dien verstande dat dit een bedrag van € 12.000 per verplichting niet te boven gaat.
 
 ##### Artikel 9
 
-Aan de machtigingenbeheerders eHerkenningsmiddelen wordt, ieder voor zich, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 10.000 per verplichting niet te boven gaat.
+Aan de machtigingenbeheerders eHerkenningsmiddelen wordt, ieder voor zich, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 10.000 per verplichting niet te boven gaat.
 
 #### § 3. Vervanging
 
@@ -158,10 +158,8 @@ Het [Besluit ondermandaat, volmacht en machtiging voor de directie Informatievoo
 
 ##### Artikel 12
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 augustus 2025.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 augustus 2025.
 
 ##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging voor de directie Informatievoorziening van het Ministerie van Economische Zaken en Klimaat 2026.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

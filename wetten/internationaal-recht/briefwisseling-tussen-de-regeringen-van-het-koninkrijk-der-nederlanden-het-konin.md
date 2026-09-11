@@ -1,58 +1,27 @@
 ---
 title: "Briefwisseling tussen de Regeringen van het Koninkrijk der Nederlanden, het Koninkrijk België en het Groothertogdom Luxemburg, enerzijds, en de Regering van Peru, anderzijds, houdende een overeenkomst inzake de afschaffing van de visumplicht voor houders van diplomatieke en speciale of dienstpaspoorten"
 identifier: "BWBV0001530"
-country: "nl"
-rank: "verdrag"
-publication_date: "2006-06-01"
-last_updated: "2006-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001530"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10000085023"
-version_id: "10000085232"
-internal_id: "C10006991181"
-label_id: "10000085214"
-original_entry_into_force: "2006-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001530/2006-06-01/0"
-intitule_bron: "Trb.2001-75"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-04-05"
-intitule_published: "2001-04-25"
-intitule_in_force: "2006-05-12"
-intitule_status: "goed"
-original_publication: "Trb.2001-75"
-original_signed_date: "2002-04-05"
-original_published_date: "2001-04-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2001-75"
-entry_into_force_date: "2006-06-01"
-jci_1_3: "jci1.3:c:BWBV0001530&z=2006-06-01&g=2006-06-01"
-jci_1_0: "1.0:c:BWBV0001530&g=2006-06-01"
-citeertitel_status: "officieel"
-signed_date: "2002-04-05"
-entry_into_force: "2006-06-01"
+publicatiedatum: 2006-06-01
+laatste_update: 2006-06-01
+status: geldig
+toestand: 2006-06-01
+bron: "https://wetten.overheid.nl/BWBV0001530"
+opgehaald: 2026-09-11
 ---
+
 # Briefwisseling tussen de Regeringen van het Koninkrijk der Nederlanden, het Koninkrijk België en het Groothertogdom Luxemburg, enerzijds, en de Regering van Peru, anderzijds, houdende een overeenkomst inzake de afschaffing van de visumplicht voor houders van diplomatieke en speciale of dienstpaspoorten
 
-DE AMBASSADE VAN HET KONINKRIJK BELGIË en
-
-DE AMBASSADE VAN HET KONINKRIJK DER NEDERLANDEN
-
-Lima, 12 februari 2001
-
-Nota 266
-
-Nota SR/PDH/120201
-
-De Ambassade van het Koninkrijk België en de Ambassade van het Koninkrijk der Nederlanden, optredend in eigen naam en in vertegenwoordiging van het Groothertogdom Luxemburg, bieden het Ministerie van Buitenlandse Zaken van Peru hun complimenten aan en hebben de eer dit Ministerie mee te delen dat de Regeringen van de Benelux-Staten, gezamenlijk optredend op grond van de op 11 april 1960 te Brussel ondertekende Overeenkomst tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden inzake de verlegging van de personencontrole naar de buitengrenzen van het Benelux-gebied, voorstellen met de Regering van de Republiek Peru onderstaande Overeenkomst inzake de afschaffing van de visumplicht met betrekking tot diplomatieke en speciale of dienstpaspoorten te sluiten:
+*DE AMBASSADE VAN HET KONINKRIJK BELGIË en DE AMBASSADE VAN HET KONINKRIJK DER NEDERLANDEN Lima, 12 februari 2001 Nota 266 Nota SR/PDH/120201 De Ambassade van het Koninkrijk België en de Ambassade van het Koninkrijk der Nederlanden, optredend in eigen naam en in vertegenwoordiging van het Groothertogdom Luxemburg, bieden het Ministerie van Buitenlandse Zaken van Peru hun complimenten aan en hebben de eer dit Ministerie mee te delen dat de Regeringen van de Benelux-Staten, gezamenlijk optredend op grond van de op 11 april 1960 te Brussel ondertekende Overeenkomst tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden inzake de verlegging van de personencontrole naar de buitengrenzen van het Benelux-gebied, voorstellen met de Regering van de Republiek Peru onderstaande Overeenkomst inzake de afschaffing van de visumplicht met betrekking tot diplomatieke en speciale of dienstpaspoorten te sluiten:*
 
 ##### Artikel 1
 
 In deze Overeenkomst wordt verstaan:
 
-- –. onder de „Benelux-Staten": het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden;
+- – onder de „Benelux-Staten": het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden;
 
-- –. onder het „Benelux-gebied": het gezamenlijke grondgebied in Europa van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden.
+- – onder het „Benelux-gebied": het gezamenlijke grondgebied in Europa van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden.
 
 ##### Artikel 2
 
@@ -108,7 +77,7 @@ Indien onderhavig voorstel aanvaardbaar is voor de Regering van de Republiek Per
 
 De Ambassade van het Koninkrijk België en de Ambassade van het Koninkrijk der Nederlanden, optredend in eigen naam en in vertegenwoordiging van de Regering van het Groothertogdom Luxemburg, maken van deze gelegenheid gebruik om het Ministerie van Buitenlandse Zaken van Peru opnieuw de verzekering te geven van hun bijzondere hoogachting.
 
-**Voor de Regering van het Koninkrijk België,**
+*Voor de Regering van het Koninkrijk België,*
 
 (w.g.) ERIC FOCKE
 
@@ -116,7 +85,7 @@ Eric Focke
 
 Buitengewoon en Gevolmachtigd Ambassadeur
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 (w.g.) STEVEN RAMONDT
 
@@ -124,7 +93,7 @@ Steven Ramondt
 
 Buitengewoon en Gevolmachtigd Ambassadeur
 
-**Voor de Regering van het Groothertogdom Luxemburg,**
+*Voor de Regering van het Groothertogdom Luxemburg,*
 
 (w.g.) STEVEN RAMONDT
 

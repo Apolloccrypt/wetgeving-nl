@@ -1,49 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en Nieuw-Zeeland inzake wederzijdse bijstand bij de invordering van belastingvorderingen"
 identifier: "BWBV0001541"
-country: "nl"
-rank: "verdrag"
-publication_date: "2004-08-22"
-last_updated: "2004-08-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001541"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10000349593"
-version_id: "10000357562"
-internal_id: "C10009551981"
-label_id: "10000349734"
-dtd_version: "2.0"
-original_entry_into_force: "2004-08-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001541/2004-08-22/0"
-intitule_bron: "Trb.2002-45"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-06-18"
-intitule_published: "2002-02-26"
-intitule_in_force: "2004-09-10"
-intitule_status: "goed"
-original_publication: "Trb.2002-45"
-original_signed_date: "2002-06-18"
-original_published_date: "2002-02-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2002-45"
-entry_into_force_date: "2004-08-22"
-jci_1_3: "jci1.3:c:BWBV0001541&z=2004-08-22&g=2004-08-22"
-jci_1_0: "1.0:c:BWBV0001541&g=2004-08-22"
-citeertitel_status: "officieel"
-signed_date: "2002-06-18"
-entry_into_force: "2004-08-22"
+publicatiedatum: 2004-08-22
+laatste_update: 2004-08-22
+status: geldig
+toestand: 2004-08-22
+bron: "https://wetten.overheid.nl/BWBV0001541"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en Nieuw-Zeeland inzake wederzijdse bijstand bij de invordering van belastingvorderingen
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van Nieuw-Zeeland
-
-Geleid door de wens dat door beide Staten een verdrag wordt gesloten inzake wederzijdse bijstand bij de invordering van belastingvorderingen,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van Nieuw-Zeeland Geleid door de wens dat door beide Staten een verdrag wordt gesloten inzake wederzijdse bijstand bij de invordering van belastingvorderingen, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Reikwijdte van het Verdrag
 
@@ -61,17 +31,17 @@ Zijn het volgende overeengekomen:
 
 - a. in Nederland:
 
-- –. de inkomstenbelasting,
+   - – de inkomstenbelasting,
 
-- –. de loonbelasting,
+   - – de loonbelasting,
 
-- –. de vennootschapsbelasting, daaronder begrepen het aandeel van de Regering in de netto winsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de Mijnwet 1810 met betrekking tot concessies uitgegeven vanaf 1967, of geheven krachtens de Mijnwet continentaal plat 1965,
+   - – de vennootschapsbelasting, daaronder begrepen het aandeel van de Regering in de netto winsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de Mijnwet 1810 met betrekking tot concessies uitgegeven vanaf 1967, of geheven krachtens de Mijnwet continentaal plat 1965,
 
-- –. de dividendbelasting;
+   - – de dividendbelasting;
 
 - b. in Nieuw-Zeeland:
 
-- –. de inkomstenbelasting (the income tax).
+   - – de inkomstenbelasting (the income tax).
 
 4. Het Verdrag is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die na de datum van ondertekening van het Verdrag naast, of in plaats van, de bestaande belastingen worden geheven. De bevoegde autoriteiten van de Verdragsluitende Staten doen elkaar mededeling van alle wezenlijke wijzigingen die in hun onderscheiden belastingwetgevingen zijn aangebracht.
 
@@ -95,15 +65,15 @@ Zijn het volgende overeengekomen:
 
 - h. betekent de uitdrukking „onderdaan”:
 
-- i. in het geval van Nederland, iedere natuurlijke persoon die de Nederlandse nationaliteit bezit en elke rechtspersoon, vennootschap en vereniging die zijn rechtspositie als zodanig ontleent aan de wetgeving die in Nederland van kracht is;
+   - i. in het geval van Nederland, iedere natuurlijke persoon die de Nederlandse nationaliteit bezit en elke rechtspersoon, vennootschap en vereniging die zijn rechtspositie als zodanig ontleent aan de wetgeving die in Nederland van kracht is;
 
-- ii. in het geval van Nieuw-Zeeland, elke natuurlijke persoon die het staatsburgerschap van Nieuw-Zeeland bezit en elke rechtspersoon, vennootschap en vereniging die zijn rechtspositie als zodanig ontleent aan de wetgeving die in Nieuw-Zeeland van kracht is;
+   - ii. in het geval van Nieuw-Zeeland, elke natuurlijke persoon die het staatsburgerschap van Nieuw-Zeeland bezit en elke rechtspersoon, vennootschap en vereniging die zijn rechtspositie als zodanig ontleent aan de wetgeving die in Nieuw-Zeeland van kracht is;
 
 - i. betekent de uitdrukking „bevoegde autoriteit”:
 
-- i. in het geval van Nederland, de Minister van Financiën of een bevoegde vertegenwoordiger;
+   - i. in het geval van Nederland, de Minister van Financiën of een bevoegde vertegenwoordiger;
 
-- ii. in het geval van Nieuw-Zeeland, de „Commissioner of Inland Revenue” of een bevoegde vertegenwoordiger.
+   - ii. in het geval van Nieuw-Zeeland, de „Commissioner of Inland Revenue” of een bevoegde vertegenwoordiger.
 
 2. Voor de toepassing van het Verdrag door een Verdragsluitende Staat heeft, tenzij de context anders vereist, elke in het Verdrag niet omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens de, op dat moment van kracht zijnde, wetgeving van die Staat met betrekking tot de belastingen waarop het Verdrag van toepassing is.
 
@@ -147,7 +117,7 @@ Indien de vordering echter een belastingverplichting betreft van een persoon die
 
 12. De Verdragsluitende Staten zien wederzijds af van de terugbetaling van kosten die voortvloeien uit de onderscheiden hulp en bijstand die zij elkaar verlenen bij de toepassing van dit Verdrag. De verzoekende Staat zal in ieder geval verantwoordelijk blijven jegens de aangezochte Staat voor de geldelijke gevolgen van invorderingshandelingen die onterecht zijn gebleken ten aanzien van de realiteit van de desbetreffende belastingvordering of van de rechtsgeldigheid van de executoriale titel in de verzoekende Staat.
 
-##### Artikel 5. Beperkingen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001541&artikel=4&z=2004-08-22&g=2004-08-22)
+##### Artikel 5. Beperkingen van artikel 4
 
 In geen geval worden de bepalingen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001541&artikel=4&z=2004-08-22&g=2004-08-22) aldus uitgelegd dat zij een Verdragsluitende Staat de verplichting opleggen:
 
@@ -177,10 +147,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun 
 
 GEDAAN te Wellington, de 20ste december 2001 in tweevoud, in de Nederlandse en de Engelse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) A. E. DE BIJLL NACHENIUS
 
-**Voor de Regering van Nieuw-Zeeland**
+*Voor de Regering van Nieuw-Zeeland*
 
 (w.g.) PHIL. GOFF

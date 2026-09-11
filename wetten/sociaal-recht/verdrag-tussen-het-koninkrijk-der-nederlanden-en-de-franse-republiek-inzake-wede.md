@@ -1,71 +1,21 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Franse Republiek inzake wederzijdse bijstand en samenwerking tussen hun douaneadministraties ten behoeve van de juiste toepassing van de douanewetgeving en de voorkoming, opsporing, vaststelling en bestrijding van inbreuken op de douanewetgeving in het Caribisch gebied, in het bijzonder op het eiland Sint Maarten / Saint Martin"
 identifier: "BWBV0001561"
-country: "nl"
-rank: "verdrag"
-publication_date: "2010-12-01"
-last_updated: "2002-01-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001561"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10001912513"
-version_id: "10002001222"
-internal_id: "C10006993891"
-label_id: "10001913254"
-dtd_version: "2.0"
-original_entry_into_force: "2010-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001561/2010-12-01/0"
-intitule_bron: "Trb.2002-58"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-12-05"
-intitule_published: "2002-03-25"
-intitule_in_force: "2010-12-06"
-intitule_status: "goed"
-original_publication: "Trb.2002-58"
-original_signed_date: "2002-12-05"
-original_published_date: "2002-03-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2002-58"
-entry_into_force_date: "2010-12-01"
-jci_1_3: "jci1.3:c:BWBV0001561&z=2010-12-01&g=2010-12-01"
-jci_1_0: "1.0:c:BWBV0001561&g=2010-12-01"
-citeertitel_status: "redactioneel"
-signed_date: "2002-12-05"
-entry_into_force: "2010-12-01"
+publicatiedatum: 2010-12-01
+laatste_update: 2010-12-01
+status: geldig
+toestand: 2010-12-01
+bron: "https://wetten.overheid.nl/BWBV0001561"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Franse Republiek inzake wederzijdse bijstand en samenwerking tussen hun douaneadministraties ten behoeve van de juiste toepassing van de douanewetgeving en de voorkoming, opsporing, vaststelling en bestrijding van inbreuken op de douanewetgeving in het Caribisch gebied, in het bijzonder op het eiland Sint Maarten / Saint Martin
 
-Het Koninkrijk der Nederlanden
+*Het Koninkrijk der Nederlanden en de Franse Republiek, hierna te noemen de Partijen, Overwegende dat inbreuken op de douanewetgeving hun economische, handels-, fiscale, sociale en culturele belangen schaden, In herinnering roepend de bestaande intensieve administratieve bijstand en samenwerking in het kader van de Europese Unie tussen de Nederlandse en Franse douaneadministraties op het gebied van fraudebestrijding ingevolge bilaterale akkoorden, Verordening (EG) Nr. 515/97, de op 7 september 1967 te Rome gesloten Overeenkomst inzake wederzijdse bijstand op douanegebied, en gelet op de wens deze bijstand en samenwerking te versterken, zoals geuit in de Overeenkomst opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie (artikel 31 EU) inzake de wederzijdse bijstand en samenwerking tussen de douaneadministraties, gedaan te Brussel op 18 december 1997, en ingevolge Richtlijn 76/308 EEG van 15 maart 1976 betreffende de wederzijdse bijstand inzake invordering, Geleid door de wens om met dit Verdrag in het Caribisch gebied en met name op het eiland Sint Maarten/Saint Martin, de door de eerder vermelde teksten voorziene bijstand en samenwerking tussen de Partijen uit te breiden, Herinnerend aan de bestaande bijstand en samenwerking tussen de Partijen in het kader van de Inter-Caribische Douaneconferentie, het Europees initiatief inzake drugsbestrijding in het Caribisch Gebied en het in 1996 aangenomen actieplan van Barbados, Indachtig de zeer nauwe betrekkingen die tussen het Koninkrijk der Nederlanden en de Franse Republiek bestaan in het Caribisch Gebied, met name op het eiland Sint Maarten / Saint Martin, ingevolge de „Articles accordés entre les commandans pour les Hollandois et les commandans pour le Roy de France en l'isle St-Martin en laditte isle le 23 mars 1648'', Zich bovendien bewust van de noodzaak in dit verband de administratieve bijstand en samenwerking tussen de douaneadministraties van Nederland, van de Nederlandse Antillen en van Frankrijk te intensiveren, Gelet op het belang van een juiste vaststelling van de grondslag van de douanerechten en andere belastingen die bij invoer of uitvoer van goederen worden geïnd en van het waarborgen van een juiste naleving van verboden, beperkingen en bijzondere controlemaatregelen, Gezien de internationale verdragen waarbij verboden, beperkingen en bijzondere controlemaatregelen zijn voorzien ten aanzien van sommige goederen, met name het Verdrag van de Verenigde Naties tegen de sluikhandel in verdovende middelen en psychotrope stoffen, gesloten te Wenen op 20 december 1988, en de bijlage daarbij, Gelet op de van belang zijnde instrumenten van de Internationale Douaneraad, in het bijzonder de Aanbeveling inzake wederzijdse administratieve bijstand van 5 december 1953, Erkennende de noodzaak van wederzijdse bijstand en internationale samenwerking terzake van aangelegenheden die verband houden met de toepassing van de douanewetgeving, Zijn het volgende overeengekomen:*
 
-en
-
-de Franse Republiek,
-
-hierna te noemen de Partijen,
-
-Overwegende dat inbreuken op de douanewetgeving hun economische, handels-, fiscale, sociale en culturele belangen schaden,
-
-In herinnering roepend de bestaande intensieve administratieve bijstand en samenwerking in het kader van de Europese Unie tussen de Nederlandse en Franse douaneadministraties op het gebied van fraudebestrijding ingevolge bilaterale akkoorden, Verordening (EG) Nr. 515/97, de op 7 september 1967 te Rome gesloten Overeenkomst inzake wederzijdse bijstand op douanegebied, en gelet op de wens deze bijstand en samenwerking te versterken, zoals geuit in de Overeenkomst opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie (artikel 31 EU) inzake de wederzijdse bijstand en samenwerking tussen de douaneadministraties, gedaan te Brussel op 18 december 1997, en ingevolge Richtlijn 76/308 EEG van 15 maart 1976 betreffende de wederzijdse bijstand inzake invordering,
-
-Geleid door de wens om met dit Verdrag in het Caribisch gebied en met name op het eiland Sint Maarten/Saint Martin, de door de eerder vermelde teksten voorziene bijstand en samenwerking tussen de Partijen uit te breiden,
-
-Herinnerend aan de bestaande bijstand en samenwerking tussen de Partijen in het kader van de Inter-Caribische Douaneconferentie, het Europees initiatief inzake drugsbestrijding in het Caribisch Gebied en het in 1996 aangenomen actieplan van Barbados,
-
-Indachtig de zeer nauwe betrekkingen die tussen het Koninkrijk der Nederlanden en de Franse Republiek bestaan in het Caribisch Gebied, met name op het eiland Sint Maarten / Saint Martin, ingevolge de „Articles accordés entre les commandans pour les Hollandois et les commandans pour le Roy de France en l'isle St-Martin en laditte isle le 23 mars 1648'',
-
-Zich bovendien bewust van de noodzaak in dit verband de administratieve bijstand en samenwerking tussen de douaneadministraties van Nederland, van de Nederlandse Antillen en van Frankrijk te intensiveren,
-
-Gelet op het belang van een juiste vaststelling van de grondslag van de douanerechten en andere belastingen die bij invoer of uitvoer van goederen worden geïnd en van het waarborgen van een juiste naleving van verboden, beperkingen en bijzondere controlemaatregelen,
-
-Gezien de internationale verdragen waarbij verboden, beperkingen en bijzondere controlemaatregelen zijn voorzien ten aanzien van sommige goederen, met name het Verdrag van de Verenigde Naties tegen de sluikhandel in verdovende middelen en psychotrope stoffen, gesloten te Wenen op 20 december 1988, en de bijlage daarbij,
-
-Gelet op de van belang zijnde instrumenten van de Internationale Douaneraad, in het bijzonder de Aanbeveling inzake wederzijdse administratieve bijstand van 5 december 1953,
-
-Erkennende de noodzaak van wederzijdse bijstand en internationale samenwerking terzake van aangelegenheden die verband houden met de toepassing van de douanewetgeving,
-
-Zijn het volgende overeengekomen:
-
-## TITEL I. ALGEMENE BEPALINGEN
+### TITEL I. ALGEMENE BEPALINGEN
 
 ### HOOFDSTUK I. BEGRIPSOMSCHRIJVINGEN
 
@@ -73,7 +23,7 @@ Zijn het volgende overeengekomen:
 
 Voor de toepassing van dit Verdrag wordt verstaan onder
 
-- 1. „douaneadministratie": wat het Koninkrijk der Nederlanden betreft: in de Nederlandse Antillen: de centrale autoriteit die verantwoordelijk is voor de toepassing van de douanewetgeving, in Nederland: de centrale administratie die verantwoordelijk is voor de toepassing van de douanewetgeving; wat de Franse Republiek betreft: la **direction générale des douanes et droits indirects**;
+- 1. „douaneadministratie": wat het Koninkrijk der Nederlanden betreft: in de Nederlandse Antillen: de centrale autoriteit die verantwoordelijk is voor de toepassing van de douanewetgeving, in Nederland: de centrale administratie die verantwoordelijk is voor de toepassing van de douanewetgeving; wat de Franse Republiek betreft: la *direction générale des douanes et droits indirects*;
 
 - 2. „verzoekende administratie": de douaneadministratie van een Partij die om bijstand of samenwerking verzoekt;
 
@@ -81,9 +31,9 @@ Voor de toepassing van dit Verdrag wordt verstaan onder
 
 - 4. „douanewetgeving": alle wettelijke en administratieve bepalingen die door de douaneadministraties van de Partijen moeten worden toegepast of gehandhaafd:
 
-- –. bij invoer, uitvoer of doorvoer van goederen, ongeacht of deze bepalingen betrekking hebben op douanerechten of andere rechten en belastingen of op verboden, beperkingen of controlemaatregelen;
+   - – bij invoer, uitvoer of doorvoer van goederen, ongeacht of deze bepalingen betrekking hebben op douanerechten of andere rechten en belastingen of op verboden, beperkingen of controlemaatregelen;
 
-- –. bij financiële transacties tussen de douanegebieden van de Partijen of tussen het douanegebied van een van de Partijen en derde landen, met betrekking tot gelden die voortvloeien uit een inbreuk;
+   - – bij financiële transacties tussen de douanegebieden van de Partijen of tussen het douanegebied van een van de Partijen en derde landen, met betrekking tot gelden die voortvloeien uit een inbreuk;
 
 - 5. „inbreuk": elke schending of poging tot schending van de douanewetgeving van een van de Partijen of van de bepalingen van het in het negende en tiende lid van dit artikel bedoelde Verdrag van de Verenigde Naties;
 
@@ -277,7 +227,7 @@ Indien de aangezochte administratie niet over de gevraagde informatie beschikt, 
 
 4. Indien op grond van het recht of vanwege feitelijke omstandigheden geen gevolg kan worden gegeven aan het verzoek, zendt de coördinatiedienst het verzoek terug aan de verzoekende administratie, vergezeld van de redenen waarom aan het verzoek geen gevolg kan worden gegeven.
 
-## TITEL II. BIJZONDERE BEPALINGEN MET BETREKKING TOT DE GRENSOVERSCHRIJDENDE SAMENWERKING, MET NAME OP HET EILAND SINT MAARTEN/SAINT MARTIN, EN MET BETREKKING TOT DE MARITIEME SAMENWERKING
+### TITEL II. BIJZONDERE BEPALINGEN MET BETREKKING TOT DE GRENSOVERSCHRIJDENDE SAMENWERKING, MET NAME OP HET EILAND SINT MAARTEN/SAINT MARTIN, EN MET BETREKKING TOT DE MARITIEME SAMENWERKING
 
 ### HOOFDSTUK I. BEGINSELEN VAN DE GRENSOVERSCHRIJDENDE SAMENWERKING
 
@@ -323,7 +273,7 @@ Indien de aangezochte administratie niet over de gevraagde informatie beschikt, 
 
 - a. de achtervolgende functionarissen komt geen staandehoudingsbevoegdheid toe;
 
-- b. dit onderdeel is nog niet in werking getreden.
+- b. *dit onderdeel is nog niet in werking getreden.*
 
 4. De achtervolging zoals bedoeld in dit artikel wordt uitgevoerd gedurende een maximale periode van vier uur, te rekenen vanaf het moment van de grensoverschrijding, zowel overdag als 's nachts, over land of over zee.
 
@@ -339,7 +289,7 @@ Indien de aangezochte administratie niet over de gevraagde informatie beschikt, 
 
 - e. de achtervolgende functionarissen mogen tijdens een achtervolging hun dienstwapen dragen. Het gebruik van dit wapen is verboden, behalve in geval van noodweer;
 
-- f. dit onderdeel is nog niet in werking getreden;
+- f. *dit onderdeel is nog niet in werking getreden;*
 
 - g. de achtervolgende functionarissen melden zich na elk optreden als bedoeld in het eerste tot en met het vierde lid bij de bevoegde autoriteiten van de Partij in het douanegebied waarvan zij zijn opgetreden, en doen verslag van hun handelen; op verzoek van deze autoriteiten zijn zij verplicht zich beschikbaar te houden totdat omtrent de toedracht van hun optreden voldoende duidelijkheid is verkregen; deze voorwaarde geldt ook in die gevallen waarin de achtervolging niet tot de aanhouding van de achtervolgde persoon heeft geleid;
 
@@ -409,9 +359,9 @@ De observatie wordt afgebroken zodra de Partij in het douanegebied waarvan de ob
 
 2. Het gemeenschappelijk onderzoeksteam heeft de volgende taken:
 
-- –. het uitvoeren van moeilijke onderzoeken die aanzienlijke middelen vereisen om concrete inbreuken op te sporen en waarvoor een gelijktijdig, gecoördineerd optreden van de Partijen vereist is;
+- – het uitvoeren van moeilijke onderzoeken die aanzienlijke middelen vereisen om concrete inbreuken op te sporen en waarvoor een gelijktijdig, gecoördineerd optreden van de Partijen vereist is;
 
-- –. het coördineren van gemeenschappelijke acties om bepaalde soorten inbreuken te voorkomen of op te sporen en informatie te verzamelen over de betrokkenen, hun omgeving en werkwijze.
+- – het coördineren van gemeenschappelijke acties om bepaalde soorten inbreuken te voorkomen of op te sporen en informatie te verzamelen over de betrokkenen, hun omgeving en werkwijze.
 
 3. De gemeenschappelijke onderzoeksteams opereren onder de volgende algemene voorwaarden:
 
@@ -445,9 +395,9 @@ De observatie wordt afgebroken zodra de Partij in het douanegebied waarvan de ob
 
 5. De vast te stellen bepalingen voor de uitvoering van dit artikel op basis van artikel 32, tweede lid, hebben in het bijzonder betrekking op de registratie:
 
-- –. van het officiële mandaat waarbij aan de douanefunctionarissen van de andere Partij een bijzondere bevoegdheid wordt verleend;
+- – van het officiële mandaat waarbij aan de douanefunctionarissen van de andere Partij een bijzondere bevoegdheid wordt verleend;
 
-- –. van het gebruik dat van deze bevoegdheid wordt gemaakt.
+- – van het gebruik dat van deze bevoegdheid wordt gemaakt.
 
 ### HOOFDSTUK VI. MARITIEME SAMENWERKING
 
@@ -457,7 +407,7 @@ De observatie wordt afgebroken zodra de Partij in het douanegebied waarvan de ob
 
 2. Voor zover de douaneadministraties niet rechtstreeks verantwoordelijk zijn voor de inzet van schepen en luchtvaartuigen, treden zij namens de verzoekende administratie op bij de autoriteiten die verantwoordelijk zijn voor de schepen en luchtvaartuigen alsof zij uit eigen naam handelen.
 
-## TITEL III. GEMEENSCHAPPELIJKE BEPALINGEN
+### TITEL III. GEMEENSCHAPPELIJKE BEPALINGEN
 
 ### HOOFDSTUK I. TOETSING VAN DE TOEPASSING VAN HET VERDRAG TER INTENSIVERING VAN DE SAMENWERKING
 
@@ -517,7 +467,7 @@ De in het kader van de administratieve bijstand en samenwerking uit hoofde van d
 
 2. Indien met de uitvoering van het verzoek aanmerkelijke kosten van buitengewone aard zijn gemoeid, plegen de Verdragsluitende Partijen overleg om de voorwaarden te bepalen waaronder het verzoek zal worden uitgevoerd, alsmede de wijze waarop de kosten worden gedragen.
 
-## TITEL IV. SLOTBEPALINGEN
+### TITEL IV. SLOTBEPALINGEN
 
 ### HOOFDSTUK I. UITVOERING VAN HET VERDRAG
 
@@ -553,70 +503,12 @@ Elke Partij geeft de andere langs diplomatieke weg kennis van het feit dat is vo
 
 4. Dit Verdrag kan door Partijen bij wederzijdse overeenstemming worden gewijzigd, op bij unanimiteit aangenomen voorstel van de gemengde commissie. De inwerkingtreding van wijzigingen is afhankelijk van de voltooiing van de vereiste nationale procedures.
 
-##### 1
-
-Persoonsgegevens die langs geautomatiseerde weg worden verwerkt, dienen:
-
-- a. op eerlijke en rechtmatige wijze te worden verkregen en verwerkt;
-
-- b. te worden opgeslagen voor bepaalde en legitieme doeleinden en niet te worden gebruikt op een wijze die onverenigbaar is met die doeleinden;
-
-- c. toereikend, ter zake dienend en niet te uitvoerig te zijn in verhouding tot de doeleinden waarvoor zij worden opgeslagen;
-
-- d. nauwkeurig te zijn en, zo nodig, te worden bijgewerkt;
-
-- e. te worden bewaard in een zodanige vorm dat de betrokkene hierdoor niet langer te identificeren is dan strikt noodzakelijk is voor de procedure waarvoor de gegevens zijn opgeslagen.
-
-##### 2
-
-Persoonsgegevens waaruit ras, politieke gezindheid of godsdienst dan wel andere levensovertuigingen blijken, alsmede die welke betrekking hebben op gezondheid of seksuele geaardheid, mogen niet langs geautomatiseerde weg worden verwerkt, tenzij het nationale recht voorziet in passende waarborgen. Hetzelfde geldt voor persoonsgegevens betreffende strafrechtelijke veroordelingen.
-
-##### 3
-
-Er dienen passende beveiligingsmaatregelen te worden getroffen om in geautomatiseerde gegevensbestanden opgeslagen persoonsgegevens te beschermen tegen ongeoorloofde vernietiging of toevallig verlies en ongeoorloofde toegang, wijziging of verspreiding.
-
-##### 4
-
-Iedere persoon dient in staat te zijn:
-
-- a. vast te kunnen stellen of hem betreffende persoonsgegevens deel uit maken van een geautomatiseerd bestand, de doeleinden hiervan, alsmede van de identiteit en verblijfplaats van de persoon of organisatie die verantwoordelijk is voor het bestand;
-
-- b. met redelijke tussenpozen en zonder vertraging of overmatige kosten uitsluitsel te verkrijgen over de vraag of op hem betrekking hebbende persoonsgegevens in het geautomatiseerde bestand zijn opgeslagen en in een begrijpelijke vorm kennis te nemen van die gegevens;
-
-- c. in voorkomend geval die gegevens te doen verbeteren of verwijderen, indien deze zijn verwerkt in strijd met de bepalingen van het nationale recht waarmee uitvoering wordt gegeven aan de grondbeginselen neergelegd in de punten 1 en 2 van deze Bijlage;
-
-- d. over een rechtsmiddel te beschikken, indien geen gevolg wordt gegeven aan een verzoek om kennisgeving of, naargelang het geval, om kennisgeving, verbetering of verwijdering als bedoeld in de letters b en c hierboven.
-
-##### 5.1
-
-Op het in de punten 1, 2 en 4 van deze Bijlage bepaalde is geen uitzondering toegestaan, behoudens in de hieronder genoemde gevallen.
-
-##### 5.2
-
-Van het in de punten 1, 2 en 4 van deze Bijlage bepaalde kan worden afgeweken, indien de wetgeving van een van de Partijen in een dergelijke afwijking voorziet en het een maatregel betreft die in een democratische samenleving noodzakelijk is ten behoeve van:
-
-- a. de bescherming van de staatsveiligheid, de openbare orde, de wezenlijke belangen van de Staat of de criminaliteitsbestrijding; en
-
-- b. de bescherming van de betrokkenen of van de rechten en vrijheden van anderen.
-
-##### 5.3
-
-De uitoefening van de in punt 4, letters b, c en d, van deze Bijlage genoemde rechten kan bij wet worden beperkt met betrekking tot geautomatiseerde bestanden met persoonsgegevens die voor statistische doeleinden of voor wetenschappelijk onderzoek worden gebruikt, indien er kennelijk geen risico bestaat dat inbreuk zal worden gemaakt op de persoonlijke levenssfeer van de betrokkenen.
-
-##### 6
-
-Elke Verdragsluitende Partij verbindt zich ertoe passende sancties en rechtsmiddelen in te voeren ter zake van schending van bepalingen van het nationale recht waarmee uitvoering wordt gegeven aan de in deze Bijlage neergelegde grondbeginselen.
-
-##### 7
-
-Het in deze Bijlage bepaalde mag niet zodanig worden uitgelegd dat daaruit een beperking of aantasting voortvloeit van de mogelijkheid van een Partij om aan betrokkenen een ruimere mate van bescherming toe te kennen dan in deze Bijlage is vastgelegd.
-
 GEDAAN te Philipsburg op elf januari 2002, in twee exemplaren, in de Nederlandse en de Franse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) W. R. VOGES
 
-**Voor de Franse Republiek**
+*Voor de Franse Republiek*
 
 (w.g.) A. GAZEAU-SECRET

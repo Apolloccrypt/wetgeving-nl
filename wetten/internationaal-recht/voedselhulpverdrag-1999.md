@@ -1,156 +1,130 @@
 ---
 title: "Voedselhulpverdrag 1999"
 identifier: "BWBV0001436"
-country: "nl"
-rank: "verdrag"
-publication_date: "2012-06-30"
-last_updated: "2012-06-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001436"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002256353"
-version_id: "10004881752"
-internal_id: "C10007357181"
-label_id: "10002246614"
-dtd_version: "2.0"
-original_entry_into_force: "2012-06-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001436/2012-06-30/0"
-intitule_bron: "Trb.2000-20"
-intitule_effect: "intrekking-regeling"
-intitule_signed: "2000-06-23"
-intitule_published: "2000-03-10"
-intitule_in_force: "2000-03-10"
-intitule_status: "vervallen"
-original_publication: "Trb.2000-20"
-original_signed_date: "2000-06-23"
-original_published_date: "2000-03-10"
-original_effect: "intrekking-regeling"
-original_url_id: "trb-2000-20"
-entry_into_force_date: "2012-06-30"
-jci_1_3: "jci1.3:c:BWBV0001436&z=2012-06-30&g=2012-06-30"
-jci_1_0: "1.0:c:BWBV0001436&g=2012-06-30"
-citeertitel_status: "redactioneel"
-signed_date: "2000-06-23"
-entry_into_force: "2012-06-30"
+publicatiedatum: 2012-06-30
+laatste_update: 2012-06-30
+status: geldig
+toestand: 2012-06-30
+bron: "https://wetten.overheid.nl/BWBV0001436"
+opgehaald: 2026-09-11
 ---
+
 # Voedselhulpverdrag 1999
 
-Inwerkingtreding voorheen volgens Trb. 2000/20 gesteld op 30 juni 2002. Inwerkingtreding voorheen volgens Trb. 2006/55 gesteld op 30 juni 2003. Inwerkingtreding voorheen volgens Trb. 2008/72 gesteld op 30 juni 2008. Inwerkingtreding voorheen volgens Trb. 2009/117 gesteld op 30 juni 2010.
+## PART I. OBJECTIVES AND DEFINITIONS
 
-## DEEL I. DOELSTELLING EN DEFINITIES
+##### Article I. Objectives
 
-##### Artikel I. Doelstellingen
+*Vervallen*
 
-Vervallen
+##### Article II. Definitions
 
-##### Artikel II. Definities
+*Vervallen*
 
-Vervallen
+## PART II. CONTRIBUTIONS AND NEEDS
 
-## DEEL II. BIJDRAGEN EN BEHOEFTEN
+##### Article III. Quantities and Quality
 
-##### Artikel III. Hoeveelheden en kwaliteit
+*Vervallen*
 
-Vervallen
+##### Article IV. Products
 
-##### Artikel IV. Producten
+*Vervallen*
 
-Vervallen
+##### Article V. Equivalence
 
-##### Artikel V. Equivalentie
+*Vervallen*
 
-Vervallen
+##### Article VI. Carryover and Carryforward
 
-##### Artikel VI. Voorwaartse en achterwaartse compensatie
+*Vervallen*
 
-Vervallen
+##### Article VII. Eligible Recipients
 
-##### Artikel VII. In aanmerking komende ontvangers
+*Vervallen*
 
-Vervallen
+##### Article VIII. Needs
 
-##### Artikel VIII. Behoeften
+*Vervallen*
 
-Vervallen
+##### Article IX. Forms and Terms of Aid
 
-##### Artikel IX. Vormen van en voorwaarden voor voedselhulp
+*Vervallen*
 
-Vervallen
+##### Article X. Transport and Delivery
 
-##### Artikel X. Vervoer en aflevering
+*Vervallen*
 
-Vervallen
+##### Article XI. Channelling
 
-##### Artikel XI. Kanalisering
+*Vervallen*
 
-Vervallen
+##### Article XII. Local Purchases and Triangular Transactions
 
-##### Artikel XII. Lokale aankopen en trilaterale transacties
+*Vervallen*
 
-Vervallen
+##### Article XIII. Effectiveness and Impact
 
-##### Artikel XIII. Doeltreffendheid en invloed
+*Vervallen*
 
-Vervallen
+##### Article XIV. Information and Co-ordination
 
-##### Artikel XIV. Informatie en coördinatie
+*Vervallen*
 
-Vervallen
+## PART III. ADMINISTRATION
 
-## DEEL III B. ADMINISTRATIE
+##### Article XV. Food Aid Committee
 
-##### Artikel XV. Comité inzake Voedselhulp
+*Vervallen*
 
-Vervallen
+##### Article XVI. Powers and Functions
 
-##### Artikel XVI. Bevoegdheden en taken
+*Vervallen*
 
-Vervallen
+##### Article XVII. Chairman and Vice-Chairman
 
-##### Artikel XVII. Voorzitter en vice-voorzitter
+*Vervallen*
 
-Vervallen
+##### Article XVIII. Sessions
 
-##### Artikel XVIII. Zittingen
+*Vervallen*
 
-Vervallen
+##### Article XIX. Secretariat
 
-##### Artikel XIX. Secretariaat
+*Vervallen*
 
-Vervallen
+##### Article XX. Defaults and Disputes
 
-##### Artikel XX. Niet-nakoming van verplichtingen en geschillen
+*Vervallen*
 
-Vervallen
+## PART IV. FINAL PROVISIONS
 
-## DEEL IV B. SLOTBEPALINGEN
+##### Article XXI. Depositary
 
-##### Artikel XXI. Depositaris
+*Vervallen*
 
-Vervallen
+##### Article XXII. Signature and Ratification
 
-##### Artikel XXII. Ondertekening en bekrachtiging
+*Vervallen*
 
-Vervallen
+##### Article XXIII. Accession
 
-##### Artikel XXIII. Toetreding
+*Vervallen*
 
-Vervallen
+##### Article XXIV. Entry into Force
 
-##### Artikel XXIV. Inwerkingtreding
+*Vervallen*
 
-Vervallen
+##### Article XXV. Duration and Withdrawal
 
-##### Artikel XXV. Werkingsduur en opzegging
+*Vervallen*
 
-Vervallen
+##### Article XXVI. International Grains Agreement
 
-##### Artikel XXVI. Internationale Graanovereenkomst
+*Vervallen*
 
-Vervallen
+##### Article XXVII. Authentic Texts
 
-##### Artikel XXVII. Authentieke teksten
-
-Vervallen
-
-DONE at London, 13 April Nineteen Ninety-Nine.
+*Vervallen*

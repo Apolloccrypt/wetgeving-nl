@@ -1,52 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Costa Rica inzake de bevordering en de wederzijdse bescherming van investeringen"
 identifier: "BWBV0001455"
-country: "nl"
-rank: "verdrag"
-publication_date: "2001-07-01"
-last_updated: "2001-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001455"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000263733"
-version_id: "10000271792"
-internal_id: "C10006991491"
-label_id: "10000263964"
-original_entry_into_force: "2001-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001455/2001-07-01/0"
-intitule_bron: "Trb.1999-112"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-11-14"
-intitule_published: "1999-07-02"
-intitule_in_force: "2001-12-13"
-intitule_status: "goed"
-original_publication: "Trb.1999-112"
-original_signed_date: "2000-11-14"
-original_published_date: "1999-07-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1999-112"
-entry_into_force_date: "2001-07-01"
-jci_1_3: "jci1.3:c:BWBV0001455&z=2001-07-01&g=2001-07-01"
-jci_1_0: "1.0:c:BWBV0001455&g=2001-07-01"
-citeertitel_status: "officieel"
-signed_date: "2000-11-14"
-entry_into_force: "2001-07-01"
+publicatiedatum: 2001-07-01
+laatste_update: 2001-07-01
+status: geldig
+toestand: 2001-07-01
+bron: "https://wetten.overheid.nl/BWBV0001455"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Costa Rica inzake de bevordering en de wederzijdse bescherming van investeringen
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Republiek Costa Rica,
-
-hierna te noemen de Verdragsluitende Partijen,
-
-Geleid door de wens hun van oudsher bestaande vriendschapsbanden te versterken en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat betreft investeringen door de investeerders van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij,
-
-In het besef dat overeenstemming over de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de duurzame economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Republiek Costa Rica, hierna te noemen de Verdragsluitende Partijen, Geleid door de wens hun van oudsher bestaande vriendschapsbanden te versterken en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat betreft investeringen door de investeerders van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij, In het besef dat overeenstemming over de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de duurzame economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -54,23 +21,23 @@ Voor de toepassing van dit Verdrag:
 
 - a. wordt onder de term „investeringen” verstaan alle soorten vermogensbestanddelen en in het bijzonder, doch niet uitsluitend:
 
-- i. roerende en onroerende zaken, alsmede andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
+   - i. roerende en onroerende zaken, alsmede andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
 
-- ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en joint ventures;
+   - ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en joint ventures;
 
-- iii. aanspraken op geld, op andere vermogensbestanddelen of op iedere prestatie die economische waarde heeft;
+   - iii. aanspraken op geld, op andere vermogensbestanddelen of op iedere prestatie die economische waarde heeft;
 
-- iv. rechten op het gebied van de intellectuele eigendom, technische werkwijzen, goodwill en know-how;
+   - iv. rechten op het gebied van de intellectuele eigendom, technische werkwijzen, goodwill en know-how;
 
-- v. rechten verleend krachtens het publiekrecht of bij overeenkomst, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen;
+   - v. rechten verleend krachtens het publiekrecht of bij overeenkomst, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen;
 
 - b. omvat de term „onderdanen” met betrekking tot elk van de Verdragsluitende Partijen de volgende personen:
 
-- i. natuurlijke personen die ingevolge de grondwet en het recht van de Verdragsluitende Partij de nationaliteit van die Verdragsluitende Partij hebben; of
+   - i. natuurlijke personen die ingevolge de grondwet en het recht van de Verdragsluitende Partij de nationaliteit van die Verdragsluitende Partij hebben; of
 
-- ii. rechtspersonen die zijn opgericht krachtens het recht van die Verdragsluitende Partij en die hun zetel hebben of zijn gevestigd op het grondgebied van diezelfde Verdragsluitende Partij;
+   - ii. rechtspersonen die zijn opgericht krachtens het recht van die Verdragsluitende Partij en die hun zetel hebben of zijn gevestigd op het grondgebied van diezelfde Verdragsluitende Partij;
 
-- iii. rechtspersonen die zijn opgericht krachtens het recht van de andere Verdragsluitende Partij, maar die onder al dan niet rechtstreeks toezicht staan van natuurlijke personen zoals omschreven onder i of van rechtspersonen zoals omschreven onder ii;
+   - iii. rechtspersonen die zijn opgericht krachtens het recht van de andere Verdragsluitende Partij, maar die onder al dan niet rechtstreeks toezicht staan van natuurlijke personen zoals omschreven onder i of van rechtspersonen zoals omschreven onder ii;
 
 - c. wordt onder de term „grondgebied” verstaan het nationale grondgebied van iedere Verdragsluitende Partij, met inbegrip van het luchtruim, de territoriale zee alsmede die zeegebieden, met inbegrip van de zeebodem en de ondergrond daarvan, die grenzen aan de buitengrenzen van de territoriale zee van iedere Verdragsluitende Partij, waarover zij overeenkomstig internationaal recht rechtsmacht en soevereine rechten uitoefenen of kunnen hebben met betrekking tot de exploratie, exploitatie en bescherming van de natuurlijke rijkdommen in deze gebieden.
 
@@ -108,9 +75,9 @@ Deze Verdragsluitende Partijen waarborgen dat betalingen die verband houden met 
 
 - b. gelden nodig
 
-- i. voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindproducten, of
+   - i. voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindproducten, of
 
-- ii. om kapitaalgoederen te vervangen teneinde de continuïteit van een investering te waarborgen;
+   - ii. om kapitaalgoederen te vervangen teneinde de continuïteit van een investering te waarborgen;
 
 - c. bijkomende gelden nodig voor de ontwikkeling van een investering;
 
@@ -198,24 +165,14 @@ Wat het Koninkrijk der Nederlanden betreft is dit Verdrag van toepassing op het 
 
 4. Met inachtneming van de in het tweede lid van dit artikel genoemde termijn is het Koninkrijk der Nederlanden gerechtigd de toepassing van dit Verdrag ten aanzien van een deel van het Koninkrijk afzonderlijk te beëindigen.
 
-Bij de ondertekening van het Verdrag tussen de Republiek Costa Rica en het Koninkrijk der Nederlanden inzake de bevordering en de wederzijdse bescherming van investeringen hebben de ondergetekende gevolmachtigden bovendien overeenstemming bereikt over de volgende bepalingen, die als een integrerend deel van genoemd Verdrag worden beschouwd.
-
-##### Ad artikel 5
-
-„Zonder beperking of vertraging” betekent dat overmakingen geschieden in overeenstemming met de normale bankprocedures en handelsgebruiken en in elk geval binnen een termijn van twee maanden na de datum van aanvraag van de overmaking.
-
-##### Ad artikel 6
-
-De bepalingen van dit artikel tasten in geen enkel opzicht de bevoegdheid van een Verdragsluitende Partij aan te besluiten of zij al dan niet met de andere Verdragsluitende Partij of met een andere derde staat onderhandelt over kwantitatieve exportbeperkingen, noch haar bevoegdheid deze quota toe te kennen overeenkomstig het internationaal recht.
-
 TEN BLIJKE WAARVAN de ondergetekende vertegenwoordigers, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend.
 
 GEDAAN in tweevoud te 's-Gravenhage op 21 mei 1999 in de Nederlandse, de Spaanse en de Engelse taal, zijnde de drie teksten gelijkelijk authentiek. In geval van verschil in uitlegging is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden:**
+*Voor het Koninkrijk der Nederlanden:*
 
 (w.g.) J. D. VAN DEN BERG
 
-**Voor de Republiek Costa Rica:**
+*Voor de Republiek Costa Rica:*
 
 (w.g.) ROBERTO ROJAS

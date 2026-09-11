@@ -1,56 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Syrische Arabische Republiek voor geregelde luchtdiensten"
 identifier: "BWBV0001536"
-country: "nl"
-rank: "verdrag"
-publication_date: "2002-09-01"
-last_updated: "2002-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001536"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000455683"
-version_id: "10000463962"
-internal_id: "C10006993191"
-label_id: "10000456064"
-original_entry_into_force: "2002-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001536/2002-09-01/0"
-intitule_bron: "Trb.2001-183"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-05-02"
-intitule_published: "2001-11-19"
-intitule_in_force: "2002-08-23"
-intitule_status: "goed"
-original_publication: "Trb.2001-183"
-original_signed_date: "2002-05-02"
-original_published_date: "2001-11-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2001-183"
-entry_into_force_date: "2002-09-01"
-jci_1_3: "jci1.3:c:BWBV0001536&z=2002-09-01&g=2002-09-01"
-jci_1_0: "1.0:c:BWBV0001536&g=2002-09-01"
-citeertitel_status: "officieel"
-signed_date: "2002-05-02"
-entry_into_force: "2002-09-01"
+publicatiedatum: 2002-09-01
+laatste_update: 2002-09-01
+status: geldig
+toestand: 2002-09-01
+bron: "https://wetten.overheid.nl/BWBV0001536"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Syrische Arabische Republiek voor geregelde luchtdiensten
 
-Preamble
-
-The Kingdom of the Netherlands
-
-and
-
-the Syrian Arab Republic,
-
-hereinafter referred to as the Contracting Parties,
-
-being parties to the Convention on International Civil Aviation opened for signature at Chicago on 7 December 1944;
-
-desiring to contribute to the progress of international civil aviation;
-
-desiring to replace their Agreement of February 13, 1950, for the purpose of improving the established Air services;
-
-have agreed as follows:
+*Preamble The Kingdom of the Netherlands and the Syrian Arab Republic, hereinafter referred to as the Contracting Parties, being parties to the Convention on International Civil Aviation opened for signature at Chicago on 7 December 1944; desiring to contribute to the progress of international civil aviation; desiring to replace their Agreement of February 13, 1950, for the purpose of improving the established Air services; have agreed as follows:*
 
 ### CHAPTER I. INTRODUCTION
 
@@ -58,33 +21,33 @@ have agreed as follows:
 
 For the purpose of this Agreement:
 
-- a). the term ``Aeronautical authorities" means: for the Kingdom of the Netherlands, the Minister of Transport, Public Works and Water Management; for the Syrian Arab Republic: the Minister of Transport or the Directorate General of Civil Aviation; or in either case any person or body authorized to perform any functions at present exercised by the said authorities;
+- a) the term ``Aeronautical authorities" means: for the Kingdom of the Netherlands, the Minister of Transport, Public Works and Water Management; for the Syrian Arab Republic: the Minister of Transport or the Directorate General of Civil Aviation; or in either case any person or body authorized to perform any functions at present exercised by the said authorities;
 
-- b). the terms ``Agreed service" and ``Specified route" mean: International air service pursuant to this Agreement and the route specified in the Annex to this Agreement respectively;
+- b) the terms ``Agreed service" and ``Specified route" mean: International air service pursuant to this Agreement and the route specified in the Annex to this Agreement respectively;
 
-- c). the term ``Agreement" means: this Agreement, its Annex(es) drawn up in application thereof and any amendments thereto;
+- c) the term ``Agreement" means: this Agreement, its Annex(es) drawn up in application thereof and any amendments thereto;
 
-- d). the terms ``Air service", ``International air service", and ``Stop for non-traffic purposes" shall have the meaning respectively assigned to them in Article 96 of the Convention;
+- d) the terms ``Air service", ``International air service", and ``Stop for non-traffic purposes" shall have the meaning respectively assigned to them in Article 96 of the Convention;
 
-- e). the term ``Change of aircraft" means: the operation of one of the Agreed services by a Designated airline in such a way that one or more sectors of the Specified route are flown by different aircraft;
+- e) the term ``Change of aircraft" means: the operation of one of the Agreed services by a Designated airline in such a way that one or more sectors of the Specified route are flown by different aircraft;
 
-- f). the term ``Computer Reservation System (CRS)" means: a computerized system (1) containing information about airline schedules, fares and related services and (2) through which reservations can be made and/or transportation documents can be issued;
+- f) the term ``Computer Reservation System (CRS)" means: a computerized system (1) containing information about airline schedules, fares and related services and (2) through which reservations can be made and/or transportation documents can be issued;
 
-- g). the term ``the Convention" means: the Convention on International Civil Aviation, opened for signature at Chicago on 7 December 1944, and includes any Annex adopted under Article 90 of that Convention and any amendment of the Annexes or the Convention under Articles 90 and 94 thereof, insofar as those Annexes and amendments have become effective for, or been ratified by both Contracting Parties;
+- g) the term ``the Convention" means: the Convention on International Civil Aviation, opened for signature at Chicago on 7 December 1944, and includes any Annex adopted under Article 90 of that Convention and any amendment of the Annexes or the Convention under Articles 90 and 94 thereof, insofar as those Annexes and amendments have become effective for, or been ratified by both Contracting Parties;
 
-- h). the term ``Designated airline" means: an airline which has been designated and authorized in accordance with Article 3 of this Agreement (Designation and Authorization);
+- h) the term ``Designated airline" means: an airline which has been designated and authorized in accordance with Article 3 of this Agreement (Designation and Authorization);
 
-- i). the term ``Stores" means: articles, of a readily consumable nature, for use or sale on board an aircraft during flight including commissary supplies;
+- i) the term ``Stores" means: articles, of a readily consumable nature, for use or sale on board an aircraft during flight including commissary supplies;
 
-- j). the term ``Price" means: any amount charged or to be charged by the airline, directly or through their agents, to any person or entity for the carriage of passengers (and their baggage) and cargo (excluding mail) in air transportation, including:
+- j) the term ``Price" means: any amount charged or to be charged by the airline, directly or through their agents, to any person or entity for the carriage of passengers (and their baggage) and cargo (excluding mail) in air transportation, including:
 
-- (i). the conditions governing the availability and applicability of a Price; and
+   - (i) the conditions governing the availability and applicability of a Price; and
 
-- (ii). the charges and conditions for any services ancillary to such carriage which are offered by the airline;
+   - (ii) the charges and conditions for any services ancillary to such carriage which are offered by the airline;
 
-- k). ``Territory" in relation to either Contracting Party shall be deemed to be the land areas and territorial waters adjacent thereto under the sovereignty, suzerainty, protection or mandate of the Contracting Party;
+- k) ``Territory" in relation to either Contracting Party shall be deemed to be the land areas and territorial waters adjacent thereto under the sovereignty, suzerainty, protection or mandate of the Contracting Party;
 
-- l). ``User charge" means: a charge imposed on airlines for the provision of airport, air navigation, or aviation security facilities or services including related services and facilities.
+- l) ``User charge" means: a charge imposed on airlines for the provision of airport, air navigation, or aviation security facilities or services including related services and facilities.
 
 ### CHAPTER II. OBJECTIVES
 
@@ -92,11 +55,11 @@ For the purpose of this Agreement:
 
 1. Each Contracting Party grants to the other Contracting Party, except as otherwise specified in the Annex, the following rights for the conduct of scheduled international air transportation by the Designated airline of the other Contracting Party:
 
-- a). the right to fly across its Territory without landing;
+- a) the right to fly across its Territory without landing;
 
-- b). the right to make stops in its Territory for non-traffic purposes; and
+- b) the right to make stops in its Territory for non-traffic purposes; and
 
-- c). while operating an Agreed service on a Specified route, the right to make stops in its Territory for the purpose of taking up and discharging international traffic in passengers, cargo and mail, separately or in combination.
+- c) while operating an Agreed service on a Specified route, the right to make stops in its Territory for the purpose of taking up and discharging international traffic in passengers, cargo and mail, separately or in combination.
 
 2. Nothing in paragraph 1 of this Article shall be deemed to grant the right for one Contracting Party's airline to participate in air transportation between points in the Territory of the other Contracting Party.
 
@@ -108,13 +71,13 @@ For the purpose of this Agreement:
 
 2. On receipt of such notification, each Contracting Party shall, with minimum procedural delay, grant to the airline so designated by the other Contracting Party the appropriate operating authorizations, unless it is not satisfied that:
 
-- (i). substantial ownership and effective control of the Designated airline(s) of the Netherlands are vested in the hands of the Governments of the States, members to the European Union and/or their nationals, and provided the Designated airline(s) of the Netherlands is/are licensed under and in accordance with the laws applicable in the Kingdom of the Netherlands; and that substantial ownership and effective control of the Designated airline(s) of the Syrian Arab Republic are vested in the Government designating the airline(s), nationals of Syrian Arab Republic, or both; and provided that:
+- (i) substantial ownership and effective control of the Designated airline(s) of the Netherlands are vested in the hands of the Governments of the States, members to the European Union and/or their nationals, and provided the Designated airline(s) of the Netherlands is/are licensed under and in accordance with the laws applicable in the Kingdom of the Netherlands; and that substantial ownership and effective control of the Designated airline(s) of the Syrian Arab Republic are vested in the Government designating the airline(s), nationals of Syrian Arab Republic, or both; and provided that:
 
-- (ii). the airline holds a current Air Operator's Certificate issued by the Aeronautical authorities of the other Contracting Party;
+- (ii) the airline holds a current Air Operator's Certificate issued by the Aeronautical authorities of the other Contracting Party;
 
-- (iii). the Government designating the airline is maintaining and administering the standards set forth in Article 16 (Safety) and Article 17 (Aviation Security);
+- (iii) the Government designating the airline is maintaining and administering the standards set forth in Article 16 (Safety) and Article 17 (Aviation Security);
 
-- (iv). the Designated airline is qualified to meet the conditions prescribed under the laws and regulations normally applied to the operation of international air transportation by the Contracting Party considering the application or applications.
+- (iv) the Designated airline is qualified to meet the conditions prescribed under the laws and regulations normally applied to the operation of international air transportation by the Contracting Party considering the application or applications.
 
 3. Upon receipt of the operating authorization of paragraph 2 of this Article the Designated airline may at any time begin to operate the Agreed services, in part or in whole, provided that it complies with the provisions of this Agreement.
 
@@ -122,15 +85,15 @@ For the purpose of this Agreement:
 
 1. Either Contracting Party may withhold, revoke, suspend or limit the operating authorizations of an airline designated by the other Contracting Party where:
 
-- a). it is not satisfied that substantial ownership and effective control of the Designated airline(s) of the Netherlands are not vested in the hands of the Governments of the States, members to the European Union nor their nationals, and in case the Designated airline(s) of the Netherlands is/are not licensed under and in accordance with the laws applicable in the Kingdom of the Netherlands; and it is not satisfied that substantial ownership and effective control of the Designated airline(s) of the Syrian Arab Republic are not vested in the Government designating the airline(s), nationals of Syrian Arab Republic, or both;
+- a) it is not satisfied that substantial ownership and effective control of the Designated airline(s) of the Netherlands are not vested in the hands of the Governments of the States, members to the European Union nor their nationals, and in case the Designated airline(s) of the Netherlands is/are not licensed under and in accordance with the laws applicable in the Kingdom of the Netherlands; and it is not satisfied that substantial ownership and effective control of the Designated airline(s) of the Syrian Arab Republic are not vested in the Government designating the airline(s), nationals of Syrian Arab Republic, or both;
 
-- b). that airline has failed to comply with the laws and regulations referred to in Article 14 (Application of Laws, Regulations and Procedures) of this Agreement; or
+- b) that airline has failed to comply with the laws and regulations referred to in Article 14 (Application of Laws, Regulations and Procedures) of this Agreement; or
 
-- c). the other Contracting Party is not maintaining and administering the standards set forth in Article 16 (Safety);
+- c) the other Contracting Party is not maintaining and administering the standards set forth in Article 16 (Safety);
 
-- d). such airline fails to qualify before the Aeronautical authorities of the Contracting Party, assessing the authorization, under the laws and regulations normally and reasonably applied to the operation of International air services by these authorities in conformity with the Convention;
+- d) such airline fails to qualify before the Aeronautical authorities of the Contracting Party, assessing the authorization, under the laws and regulations normally and reasonably applied to the operation of International air services by these authorities in conformity with the Convention;
 
-- e). the airline otherwise fails to operate in accordance with the conditions prescribed under this Agreement.
+- e) the airline otherwise fails to operate in accordance with the conditions prescribed under this Agreement.
 
 2. Unless immediate action is essential to prevent further noncompliance with paragraph 1 of this Article, the rights established by this Article shall be exercised only after consultation with the other Contracting Party. Unless otherwise agreed by the Contracting Parties, such consultations shall begin within a period of sixty (60) days from the date of receipt of the request.
 
@@ -142,11 +105,11 @@ For the purpose of this Agreement:
 
 1. Each Contracting Party shall allow Prices for air transportation to be established by each Designated airline based upon commercial considerations in the marketplace. Intervention by the Contracting Parties shall be limited to:
 
-- a). prevention of unreasonably discriminatory Prices or practices;
+- a) prevention of unreasonably discriminatory Prices or practices;
 
-- b). protection of consumers from Prices that are unreasonably high or restrictive due to the abuse of a dominant position;
+- b) protection of consumers from Prices that are unreasonably high or restrictive due to the abuse of a dominant position;
 
-- c). protection of airlines from Prices that are artificially low due to direct or indirect governmental subsidy or support.
+- c) protection of airlines from Prices that are artificially low due to direct or indirect governmental subsidy or support.
 
 2. Each Contracting Party may require notification to its Aeronautical authorities of Prices to be charged to or from its Territory by airlines of the other Contracting Party. Notification of those Prices shall be given within seven (7) calendar days.
 
@@ -158,11 +121,11 @@ If either Contracting Party believes that any such Price is inconsistent with th
 
 1. The airline(s) of each Contracting Party shall be allowed:
 
-- a). to establish in the Territory of the other Contracting Party offices for the promotion and sale of air transportation and ancillary or supplemental services (including the right to sell and to issue any ticket and/or airwaybill, both its own tickets and/or airwaybills of any other carrier) as well as other facilities required for the provision of air transportation;
+- a) to establish in the Territory of the other Contracting Party offices for the promotion and sale of air transportation and ancillary or supplemental services (including the right to sell and to issue any ticket and/or airwaybill, both its own tickets and/or airwaybills of any other carrier) as well as other facilities required for the provision of air transportation;
 
-- b). in the Territory of the other Contracting Party to engage directly and, at its discretion, through its agents in the sale of air transportation and ancillary or supplemental services;
+- b) in the Territory of the other Contracting Party to engage directly and, at its discretion, through its agents in the sale of air transportation and ancillary or supplemental services;
 
-- c). to sell such transportation and ancillary or supplemental services and any person shall be free to purchase such transportation or services in any currency.
+- c) to sell such transportation and ancillary or supplemental services and any person shall be free to purchase such transportation or services in any currency.
 
 2. The airline(s) of each Contracting Party shall be allowed to bring in and maintain in the Territory of the other Contracting Party its managerial, commercial, operational and technical staff as it may require in connection with the provision of air transportation and ancillary or supplemental services.
 
@@ -204,17 +167,17 @@ Such intermodal services may be offered at a single, through Price for the air a
 
 1. The Contracting Parties agree that:
 
-- A). the interest of consumers of air transport products shall be protected from any misuse of such information including misleading presentation thereof;
+- A) the interest of consumers of air transport products shall be protected from any misuse of such information including misleading presentation thereof;
 
-- B). a Designated airline of a Contracting Party and the airline's agents shall have unrestricted and non-discriminatory access to and use of CRS in the Territory of the other Contracting Party;
+- B) a Designated airline of a Contracting Party and the airline's agents shall have unrestricted and non-discriminatory access to and use of CRS in the Territory of the other Contracting Party;
 
-- C). in this respect the CRS Code of Conduct adopted by the European Union shall prevail in the Territory of the Kingdom of the Netherlands, whereas in the Territory of the Syrian Arab Republic the ICAO CRS Code of Conduct shall be applicable.
+- C) in this respect the CRS Code of Conduct adopted by the European Union shall prevail in the Territory of the Kingdom of the Netherlands, whereas in the Territory of the Syrian Arab Republic the ICAO CRS Code of Conduct shall be applicable.
 
 2. Each Contracting Party guarantees to the other Contracting Party free and unimpaired access in its Territory to the CRS's chosen as its primary system by the Designated airline of either Contracting Party. Neither Contracting Party shall, in its Territory, impose or permit to be imposed on the CRS of the Designated airline(s) of the other Contracting Party more stringent requirements than those imposed on the CRS of its own Designated airline(s), with respect to:
 
-- A). the operation and sale of the CRS services including CRS display and editing rules; and
+- A) the operation and sale of the CRS services including CRS display and editing rules; and
 
-- B). the access to and use of communications facilities, selection and use of technical hardware and software or the installation of hardware.
+- B) the access to and use of communications facilities, selection and use of technical hardware and software or the installation of hardware.
 
 ### CHAPTER IV. FINANCIAL PROVISIONS
 
@@ -292,9 +255,9 @@ Each Contracting Party, however, reserves the right to refuse to recognize, for 
 
 4. If any such ramp inspection or series of ramp inspections give rise to:
 
-- a). serious concerns that an aircraft or the operation of an aircraft does not comply with the minimum standards established at that time pursuant to the Convention, or
+- a) serious concerns that an aircraft or the operation of an aircraft does not comply with the minimum standards established at that time pursuant to the Convention, or
 
-- b). serious concerns that there is a lack of effective maintenance and administration of safety standards established at that time pursuant to the Convention, the Contracting Party carrying out the inspection shall, for the purpose of Article 33 of the Convention, be free to conclude that the requirements under which the certificate or license in respect of that aircraft or in respect of the crew of that aircraft had been issued or rendered valid, or that the requirements under which that aircraft is operated, are not equal to or above the minimum standards established pursuant to the Convention.
+- b) serious concerns that there is a lack of effective maintenance and administration of safety standards established at that time pursuant to the Convention, the Contracting Party carrying out the inspection shall, for the purpose of Article 33 of the Convention, be free to conclude that the requirements under which the certificate or license in respect of that aircraft or in respect of the crew of that aircraft had been issued or rendered valid, or that the requirements under which that aircraft is operated, are not equal to or above the minimum standards established pursuant to the Convention.
 
 5. In the event that access for the purpose of undertaking a ramp inspection of an aircraft operated by the airline or airlines of one Contracting Party in accordance with paragraph 3 above is denied by the representative of that airline or airlines, the other Contracting Party shall be free to infer that serious concerns of the type referred to in paragraph 4 above arise and to draw the conclusions referred to in that paragraph.
 
@@ -382,7 +345,7 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their resp
 
 DONE at Damascus on 13 October 2001, corresponding to 26 Rajab 1422, in two original copies, in the English language, each version being equally authentic.
 
-**For the Kingdom of the Netherlands**
+*For the Kingdom of the Netherlands*
 
 (sd.) J. M. DE VRIES
 
@@ -390,7 +353,7 @@ Mrs. J. M. de Vries
 
 State Secretary of Transport, Public Works and Water Management
 
-**For the Syrian Arab Republic**
+*For the Syrian Arab Republic*
 
 (sd.) MAKRAM OBEID
 

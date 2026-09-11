@@ -1,117 +1,21 @@
 ---
 title: "Overeenkomst inzake handel, ontwikkeling en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds"
 identifier: "BWBV0001476"
-country: "nl"
-rank: "verdrag"
-publication_date: "2016-03-01"
-last_updated: "2016-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001476"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10001556703"
-version_id: "10001647312"
-internal_id: "C10006992211"
-label_id: "10001559324"
-dtd_version: "2.0"
-original_entry_into_force: "2004-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001476/2016-03-01/0"
-intitule_bron: "Trb.2000-45"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-04-10"
-intitule_published: "2000-05-01"
-intitule_in_force: "2004-07-16"
-intitule_status: "goed"
-original_publication: "Trb.2000-45"
-original_signed_date: "2001-04-10"
-original_published_date: "2000-05-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2000-45"
-entry_into_force_date: "2004-05-01"
-jci_1_3: "jci1.3:c:BWBV0001476&z=2016-03-01&g=2016-03-01"
-jci_1_0: "1.0:c:BWBV0001476&g=2016-03-01"
-citeertitel_status: "redactioneel"
-signed_date: "2001-04-10"
-entry_into_force: "2004-05-01"
+publicatiedatum: 2004-05-01
+laatste_update: 2016-03-01
+status: geldig
+toestand: 2016-03-01
+bron: "https://wetten.overheid.nl/BWBV0001476"
+opgehaald: 2026-09-11
 ---
+
 # Overeenkomst inzake handel, ontwikkeling en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds
 
-Het Koninkrijk België,
+*Het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Partijen bij het Verdrag tot oprichting van de Europese Gemeenschap, hierna „lidstaten” te noemen, en de Europese Gemeenschap, hierna „Gemeenschap” te noemen, enerzijds, en de Republiek Zuid-Afrika, hierna „Zuid-Afrika” te noemen, anderzijds, hierna „partijen” te noemen, Gelet op het belang van de bestaande vriendschaps- en samenwerkingsbanden tussen de Gemeenschap, de lidstaten en Zuid-Afrika en de gemeenschappelijke waarden van de partijen; Overwegende dat de Gemeenschap, de lidstaten en Zuid-Afrika deze banden wensen te versterken en nauwe en duurzame betrekkingen tot stand wensen te brengen, gebaseerd op wederkerigheid, partnerschap en gezamenlijke ontwikkeling; Gelet op de historische verrichtingen van het Zuid-Afrikaanse volk, met name de afschaffing van het apartheidsstelsel en de opbouw van een nieuwe politieke orde, gebaseerd op de rechtsstaat, de mensenrechten en de democratie; Zich bewust van de politieke en financiële steun van de Gemeenschap en de lidstaten voor dit proces van politieke verandering en overgang in Zuid-Afrika; Herinnerende aan de sterke gehechtheid van de partijen aan de beginselen van het Handvest van de Verenigde Naties en aan de democratische beginselen en fundamentele mensenrechten, als omschreven in de Universele Verklaring van de rechten van de mens; Verwijzende naar de op 10 oktober 1994 ondertekende Samenwerkingsovereenkomst tussen de Gemeenschap en Zuid-Afrika; Herinnerende aan de wens van de partijen zo nauw mogelijke betrekkingen tot stand te brengen tussen Zuid-Afrika en de landen die partij zijn bij de ACS-EG-Overeenkomst van Lomé, ten blijke waarvan op 24 april 1997 het Protocol betreffende de toetreding van Zuid-Afrika tot de Vierde ACS-EG-Overeenkomst van Lomé, zoals gewijzigd bij de op 4 november 1995 te Mauritius ondertekende Overeenkomst, werd ondertekend; Rekening houdende met de rechten en verplichtingen van de partijen in het kader van hun lidmaatschap van de Wereldhandelsorganisatie, de noodzaak bij te dragen tot de tenuitvoerlegging van de resultaten van de Uruguay-ronde, en de eerdere inspanningen van beide partijen in dit verband; Herinnerende aan de gehechtheid van de partijen aan de beginselen en regels van het internationale handelsverkeer en aan hun streven deze op transparante en niet-discriminerende wijze toe te passen; Bevestigende de steun en inspanningen van de Gemeenschap en de lidstaten ten gunste van het proces van handelsliberalisering en economische herstructurering in Zuid-Afrika; Zich bewust van de inspanningen van de regering van Zuid-Afrika om zorg te dragen voor de economische en sociale ontwikkeling van de bevolking van Zuid-Afrika; Met klem wijzende op het belang dat de Europese Unie en Zuid-Afrika hechten aan de succesvolle tenuitvoerlegging van het Zuid-Afrikaanse programma voor wederopbouw en ontwikkeling; Bevestigende de verbintenis van beide partijen de regionale samenwerking en economische integratie tussen de landen in zuidelijk Afrika, alsmede de liberalisering van de handel tussen deze landen onderling te bevorderen; Overwegende dat de partijen ervoor zorg dragen dat hun wederzijdse afspraken geen beletsel vormen voor het proces van herstructurering van de douane-unie van zuidelijk Afrika (SACU), in het kader waarvan Zuid-Afrika samenwerkt met vier ACS-landen; Wijzende op het belang dat beide partijen hechten aan de waarden en beginselen die zijn opgenomen in de slotverklaringen van de Internationale Conferentie over bevolking en ontwikkeling in 1994 in Cairo, de Wereldtop voor sociale ontwikkeling in maart 1995 in Kopenhagen, en de Vierde Wereldvrouwenconferentie in 1995 in Peking; Opnieuw bevestigende dat de partijen zich verbinden tot economische en sociale ontwikkeling en eerbiediging van de fundamentele rechten van werknemers, met name door toepassing van de IAO-verdragen over onderwerpen als de vrijheid van vakvereniging, het recht collectief te onderhandelen, non-discriminatie, afschaffing van dwangarbeid en kinderarbeid; Herinnerende aan het belang van het tot stand brengen van een regelmatige politieke dialoog in bilateraal en multilateraal verband over zaken van wederzijds belang, Zijn als volgt overeengekomen[Red: De oorspronkelijke Bijlagen bij de Overeenkomst en de Protocollen liggen ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken en zijn gepubliceerd in PbEG 1999, L 311, PbEU 2005, L 68 en PbEU 2008, L 22.]:*
 
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-Ierland,
-
-de Italiaanse Republiek,
-
-het Groothertogdom Luxemburg,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Portugese Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-Partijen bij het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506),
-
-hierna „lidstaten” te noemen, en
-
-de Europese Gemeenschap, hierna „Gemeenschap” te noemen, enerzijds, en
-
-de Republiek Zuid-Afrika, hierna „Zuid-Afrika” te noemen, anderzijds,
-
-hierna „partijen” te noemen,
-
-Gelet op het belang van de bestaande vriendschaps- en samenwerkingsbanden tussen de Gemeenschap, de lidstaten en Zuid-Afrika en de gemeenschappelijke waarden van de partijen;
-
-Overwegende dat de Gemeenschap, de lidstaten en Zuid-Afrika deze banden wensen te versterken en nauwe en duurzame betrekkingen tot stand wensen te brengen, gebaseerd op wederkerigheid, partnerschap en gezamenlijke ontwikkeling;
-
-Gelet op de historische verrichtingen van het Zuid-Afrikaanse volk, met name de afschaffing van het apartheidsstelsel en de opbouw van een nieuwe politieke orde, gebaseerd op de rechtsstaat, de mensenrechten en de democratie;
-
-Zich bewust van de politieke en financiële steun van de Gemeenschap en de lidstaten voor dit proces van politieke verandering en overgang in Zuid-Afrika;
-
-Herinnerende aan de sterke gehechtheid van de partijen aan de beginselen van het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) en aan de democratische beginselen en fundamentele mensenrechten, als omschreven in de [Universele Verklaring van de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBV0001008);
-
-Verwijzende naar de op 10 oktober 1994 ondertekende Samenwerkingsovereenkomst tussen de Gemeenschap en Zuid-Afrika;
-
-Herinnerende aan de wens van de partijen zo nauw mogelijke betrekkingen tot stand te brengen tussen Zuid-Afrika en de landen die partij zijn bij de ACS-EG-Overeenkomst van Lomé, ten blijke waarvan op 24 april 1997 het Protocol betreffende de toetreding van Zuid-Afrika tot de Vierde ACS-EG-Overeenkomst van Lomé, zoals gewijzigd bij de op 4 november 1995 te Mauritius ondertekende Overeenkomst, werd ondertekend;
-
-Rekening houdende met de rechten en verplichtingen van de partijen in het kader van hun lidmaatschap van de Wereldhandelsorganisatie, de noodzaak bij te dragen tot de tenuitvoerlegging van de resultaten van de Uruguay-ronde, en de eerdere inspanningen van beide partijen in dit verband;
-
-Herinnerende aan de gehechtheid van de partijen aan de beginselen en regels van het internationale handelsverkeer en aan hun streven deze op transparante en niet-discriminerende wijze toe te passen;
-
-Bevestigende de steun en inspanningen van de Gemeenschap en de lidstaten ten gunste van het proces van handelsliberalisering en economische herstructurering in Zuid-Afrika;
-
-Zich bewust van de inspanningen van de regering van Zuid-Afrika om zorg te dragen voor de economische en sociale ontwikkeling van de bevolking van Zuid-Afrika;
-
-Met klem wijzende op het belang dat de Europese Unie en Zuid-Afrika hechten aan de succesvolle tenuitvoerlegging van het Zuid-Afrikaanse programma voor wederopbouw en ontwikkeling;
-
-Bevestigende de verbintenis van beide partijen de regionale samenwerking en economische integratie tussen de landen in zuidelijk Afrika, alsmede de liberalisering van de handel tussen deze landen onderling te bevorderen;
-
-Overwegende dat de partijen ervoor zorg dragen dat hun wederzijdse afspraken geen beletsel vormen voor het proces van herstructurering van de douane-unie van zuidelijk Afrika (SACU), in het kader waarvan Zuid-Afrika samenwerkt met vier ACS-landen;
-
-Wijzende op het belang dat beide partijen hechten aan de waarden en beginselen die zijn opgenomen in de slotverklaringen van de Internationale Conferentie over bevolking en ontwikkeling in 1994 in Cairo, de Wereldtop voor sociale ontwikkeling in maart 1995 in Kopenhagen, en de Vierde Wereldvrouwenconferentie in 1995 in Peking;
-
-Opnieuw bevestigende dat de partijen zich verbinden tot economische en sociale ontwikkeling en eerbiediging van de fundamentele rechten van werknemers, met name door toepassing van de IAO-verdragen over onderwerpen als de vrijheid van vakvereniging, het recht collectief te onderhandelen, non-discriminatie, afschaffing van dwangarbeid en kinderarbeid;
-
-Herinnerende aan het belang van het tot stand brengen van een regelmatige politieke dialoog in bilateraal en multilateraal verband over zaken van wederzijds belang,
-
-Zijn als volgt overeengekomen[Red: De oorspronkelijke Bijlagen bij de Overeenkomst en de Protocollen liggen ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken en zijn gepubliceerd in PbEG 1999, L 311, PbEU 2005, L 68 en PbEU 2008, L 22.]:
-
-## TITEL I. ALGEMENE DOELSTELLINGEN EN BEGINSELEN
+### TITEL I. ALGEMENE DOELSTELLINGEN EN BEGINSELEN
 
 ##### Artikel 1. Doelstellingen
 
@@ -181,13 +85,13 @@ De partijen bevestigen tevens hun gehechtheid aan de beginselen van behoorlijk b
 
 De partijen nemen tevens deel aan de politieke dialoog in breder ACS/EU-verband, als voorzien bij en vastgelegd in de desbetreffende ACS/EG-overeenkomsten.
 
-## TITEL II. HANDEL
+### TITEL II. HANDEL
 
-### AFDELING A. ALGEMEEN
+#### AFDELING A. ALGEMEEN
 
 ##### Artikel 5. Vrijhandelszone
 
-1. De Gemeenschap en Zuid-Afrika komen overeen een vrijhandelszone tot stand te brengen overeenkomstig de bepalingen van deze Overeenkomst en met inachtneming van de voorschriften van de [WTO](onbekend).
+1. De Gemeenschap en Zuid-Afrika komen overeen een vrijhandelszone tot stand te brengen overeenkomstig de bepalingen van deze Overeenkomst en met inachtneming van de voorschriften van de [WTO](https://wetten.overheid.nl/BWBV0001160).
 
 2. De vrijhandelszone wordt tijdens een overgangsperiode tot stand gebracht die van de kant van Zuid-Afrika ten hoogste twaalf jaar en van de kant van de Gemeenschap ten hoogste tien jaar zal duren vanaf de inwerkingtreding van de Overeenkomst.
 
@@ -213,7 +117,7 @@ De bepalingen inzake de afschaffing van douanerechten bij invoer zijn ook van to
 
 Bij de inwerkingtreding van de Overeenkomst schaffen de Gemeenschap en Zuid-Afrika de heffingen van gelijke werking als douanerechten bij invoer af.
 
-### AFDELING B. INDUSTRIEPRODUCTEN
+#### AFDELING B. INDUSTRIEPRODUCTEN
 
 ##### Artikel 10. Definitie
 
@@ -225,39 +129,39 @@ De bepalingen van deze afdeling zijn van toepassing op producten van oorsprong u
 
 2. De douanerechten die bij invoer in de Gemeenschap van toepassing zijn op de in bijlage II, lijst 1, vermelde producten van oorsprong uit Zuid-Afrika worden overeenkomstig het volgende tijdschema geleidelijk afgeschaft:
 
-- –. bij de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 75% van het basisrecht;
+- – bij de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 75% van het basisrecht;
 
-- –. een jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 50% van het basisrecht;
+- – een jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 50% van het basisrecht;
 
-- –. twee jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 25% van het basisrecht;
+- – twee jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 25% van het basisrecht;
 
-- –. drie jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
+- – drie jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
 
 3. De douanerechten die bij invoer in de Gemeenschap van toepassing zijn op de in bijlage II, lijst 2, vermelde producten van oorsprong uit Zuid-Afrika worden overeenkomstig het volgende tijdschema geleidelijk afgeschaft:
 
-- –. bij de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 86% van het basisrecht;
+- – bij de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 86% van het basisrecht;
 
-- –. een jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 72% van het basisrecht;
+- – een jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 72% van het basisrecht;
 
-- –. twee jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 57% van het basisrecht;
+- – twee jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 57% van het basisrecht;
 
-- –. drie jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 43% van het basisrecht;
+- – drie jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 43% van het basisrecht;
 
-- –. vier jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 28% van het basisrecht;
+- – vier jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 28% van het basisrecht;
 
-- –. vijf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 14% van het basisrecht;
+- – vijf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 14% van het basisrecht;
 
-- –. zes jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
+- – zes jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
 
 4. De douanerechten die bij invoer in de Gemeenschap van toepassing zijn op de in bijlage II, lijst 3, vermelde producten van oorsprong uit Zuid-Afrika, worden overeenkomstig het volgende tijdschema geleidelijk afgeschaft:
 
-- –. drie jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 75% van het basisrecht;
+- – drie jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 75% van het basisrecht;
 
-- –. vier jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 50% van het basisrecht;
+- – vier jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 50% van het basisrecht;
 
-- –. vijf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 25% van het basisrecht;
+- – vijf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 25% van het basisrecht;
 
-- –. zes jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
+- – zes jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
 
 Voor enkele in deze lijst vermelde producten vangt de afschaffing van de douanerechten vier jaar na de inwerkingtreding van de Overeenkomst aan. De afschaffing geschiedt in drie gelijke jaarlijkse verminderingen, zodat deze rechten zes jaar na de inwerkingtreding van de Overeenkomst geheel zullen zijn afgeschaft.
 
@@ -277,61 +181,61 @@ Een nauwkeurige opgave van de basisrechten en een tijdschema voor de afschaffing
 
 2. De douanerechten die bij invoer in Zuid-Afrika van toepassing zijn op de in bijlage III, lijst 1, vermelde producten van oorsprong uit de Gemeenschap, worden overeenkomstig het volgende tijdschema geleidelijk afgeschaft:
 
-- –. bij de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 75% van het basisrecht;
+- – bij de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 75% van het basisrecht;
 
-- –. een jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 50% van het basisrecht;
+- – een jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 50% van het basisrecht;
 
-- –. twee jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 25% van het basisrecht;
+- – twee jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 25% van het basisrecht;
 
-- –. drie jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
+- – drie jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
 
 3. De douanerechten die bij invoer in Zuid-Afrika van toepassing zijn op de in bijlage III, lijst 2, vermelde producten van oorsprong uit de Gemeenschap worden overeenkomstig het onderstaande tijdschema geleidelijk afgeschaft:
 
-- –. drie jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 67% van het basisrecht;
+- – drie jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 67% van het basisrecht;
 
-- –. vier jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 33% van het basisrecht;
+- – vier jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 33% van het basisrecht;
 
-- –. vijf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
+- – vijf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
 
 4. De douanerechten die bij invoer in Zuid-Afrika van toepassing zijn op de in bijlage III, lijst 3, vermelde producten van oorsprong uit de Gemeenschap worden overeenkomstig het onderstaande tijdschema geleidelijk afgeschaft:
 
-- –. drie jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 90% van het basisrecht;
+- – drie jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 90% van het basisrecht;
 
-- –. vier jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 80% van het basisrecht;
+- – vier jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 80% van het basisrecht;
 
-- –. vijf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 70% van het basisrecht;
+- – vijf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 70% van het basisrecht;
 
-- –. zes jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 60% van het basisrecht;
+- – zes jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 60% van het basisrecht;
 
-- –. zeven jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 50% van het basisrecht;
+- – zeven jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 50% van het basisrecht;
 
-- –. acht jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 40% van het basisrecht;
+- – acht jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 40% van het basisrecht;
 
-- –. negen jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 30% van het basisrecht;
+- – negen jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 30% van het basisrecht;
 
-- –. tien jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 20% van het basisrecht;
+- – tien jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 20% van het basisrecht;
 
-- –. elf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 10% van het basisrecht;
+- – elf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 10% van het basisrecht;
 
-- –. twaalf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
+- – twaalf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
 
 5. De douanerechten die bij invoer in Zuid-Afrika van toepassing zijn op de in bijlage III, lijst 4, vermelde producten van oorsprong uit de Gemeenschap, worden overeenkomstig het volgende tijdschema geleidelijk afgeschaft.
 
-- –. vijf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 88% van het basisrecht;
+- – vijf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 88% van het basisrecht;
 
-- –. zes jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 75% van het basisrecht;
+- – zes jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 75% van het basisrecht;
 
-- –. zeven jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 63% van het basisrecht;
+- – zeven jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 63% van het basisrecht;
 
-- –. acht jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 50% van het basisrecht;
+- – acht jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 50% van het basisrecht;
 
-- –. negen jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 38% van het basisrecht;
+- – negen jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 38% van het basisrecht;
 
-- –. tien jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 25% van het basisrecht;
+- – tien jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 25% van het basisrecht;
 
-- –. elf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 13% van het basisrecht;
+- – elf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 13% van het basisrecht;
 
-- –. twaalf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
+- – twaalf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
 
 6. De douanerechten die bij invoer in Zuid-Afrika van toepassing zijn op de in bijlage III, lijst 5, vermelde producten van oorsprong uit de Gemeenschap, worden overeenkomstig het in die bijlage opgenomen tijdschema geleidelijk verlaagd.
 
@@ -339,7 +243,7 @@ Een nauwkeurige opgave van de basisrechten en een tijdschema voor de afschaffing
 
 Zuid-Afrika zal de Gemeenschap in kennis stellen van de resultaten van de herziening van het Zuid-Afrikaanse ontwikkelingsprogramma voor de auto-industrie. Zuid-Afrika zal voorstellen doen voor een verdere liberalisering van de invoer in Zuid-Afrika van de in bijlage III, lijsten 5 en 6 genoemde automobielproducten. De partijen zullen deze voorstellen in de tweede helft van 2000 gezamenlijk onderzoeken.
 
-### AFDELING C. LANDBOUWPRODUCTEN
+#### AFDELING C. LANDBOUWPRODUCTEN
 
 ##### Artikel 13. Definitie
 
@@ -351,71 +255,71 @@ De bepalingen van deze afdeling zijn van toepassing op producten van oorsprong u
 
 2. De douanerechten die bij invoer in de Gemeenschap van toepassing zijn op de in bijlage IV, lijst 1, vermelde producten van oorsprong uit Zuid-Afrika, worden overeenkomstig het volgende tijdschema geleidelijk afgeschaft:
 
-- –. bij de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 75% van het basisrecht;
+- – bij de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 75% van het basisrecht;
 
-- –. een jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 50% van het basisrecht;
+- – een jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 50% van het basisrecht;
 
-- –. twee jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 25% van het basisrecht;
+- – twee jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 25% van het basisrecht;
 
-- –. drie jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
+- – drie jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
 
 3. De douanerechten die bij invoer in de Gemeenschap van toepassing zijn op de in bijlage IV, lijst 2, vermelde producten van oorsprong uit Zuid-Afrika, worden overeenkomstig het volgende tijdschema geleidelijk afgeschaft:
 
-- –. bij de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 91% van het basisrecht;
+- – bij de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 91% van het basisrecht;
 
-- –. een jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 82% van het basisrecht;
+- – een jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 82% van het basisrecht;
 
-- –. twee jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 73% van het basisrecht;
+- – twee jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 73% van het basisrecht;
 
-- –. drie jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 64% van het basisrecht;
+- – drie jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 64% van het basisrecht;
 
-- –. vier jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 55% van het basisrecht;
+- – vier jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 55% van het basisrecht;
 
-- –. vijf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 45% van het basisrecht;
+- – vijf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 45% van het basisrecht;
 
-- –. zes jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 36% van het basisrecht;
+- – zes jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 36% van het basisrecht;
 
-- –. zeven jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 27% van het basisrecht;
+- – zeven jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 27% van het basisrecht;
 
-- –. acht jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 18% van het basisrecht;
+- – acht jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 18% van het basisrecht;
 
-- –. negen jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 9% van het basisrecht;
+- – negen jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 9% van het basisrecht;
 
-- –. tien jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
+- – tien jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
 
 4. De douanerechten die bij invoer in de Gemeenschap van toepassing zijn op de in bijlage IV, lijst 3, vermelde producten van oorsprong uit Zuid-Afrika, worden overeenkomstig het volgende tijdschema geleidelijk afgeschaft:
 
-- –. drie jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 87% van het basisrecht;
+- – drie jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 87% van het basisrecht;
 
-- –. vier jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 75% van het basisrecht;
+- – vier jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 75% van het basisrecht;
 
-- –. vijf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 62% van het basisrecht;
+- – vijf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 62% van het basisrecht;
 
-- –. zes jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 50% van het basisrecht;
+- – zes jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 50% van het basisrecht;
 
-- –. zeven jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 37% van het basisrecht;
+- – zeven jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 37% van het basisrecht;
 
-- –. acht jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 25% van het basisrecht;
+- – acht jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 25% van het basisrecht;
 
-- –. negen jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 12% van het basisrecht;
+- – negen jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 12% van het basisrecht;
 
-- –. tien jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
+- – tien jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
 
 Voor enkele in deze bijlage vermelde producten geldt vanaf de inwerkingtreding van de Overeenkomst tot de volledige afschaffing van de rechten een rechtenvrij contingent, overeenkomstig de in de bijlage vermelde voorwaarden.
 
 5. De douanerechten die bij invoer in de Gemeenschap van toepassing zijn op de in bijlage IV, lijst 4, vermelde producten van oorsprong uit Zuid-Afrika, worden overeenkomstig het volgende tijdschema geleidelijk afgeschaft:
 
-- –. vijf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 83% van het basisrecht;
+- – vijf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 83% van het basisrecht;
 
-- –. zes jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 67% van het basisrecht;
+- – zes jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 67% van het basisrecht;
 
-- –. zeven jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 50% van het basisrecht;
+- – zeven jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 50% van het basisrecht;
 
-- –. acht jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 33% van het basisrecht;
+- – acht jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 33% van het basisrecht;
 
-- –. negen jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 17% van het basisrecht;
+- – negen jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 17% van het basisrecht;
 
-- –. tien jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
+- – tien jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
 
 Voor enkele in deze bijlage vermelde producten geldt vanaf de inwerkingtreding van de Overeenkomst tot de volledige afschaffing van de rechten een rechtenvrij contingent, overeenkomstig de in de bijlage vermelde voorwaarden.
 
@@ -441,39 +345,39 @@ De Samenwerkingsraad kan besluiten tot
 
 2. De douanerechten die bij invoer in Zuid-Afrika van toepassing zijn op de in bijlage VI, lijst 1, vermelde producten van oorsprong uit de Gemeenschap, worden overeenkomstig het volgende tijdschema geleidelijk afgeschaft:
 
-- -. bij de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 75% van het basisrecht;
+- - bij de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 75% van het basisrecht;
 
-- –. een jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 50% van het basisrecht;
+- – een jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 50% van het basisrecht;
 
-- –. twee jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 25% van het basisrecht;
+- – twee jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 25% van het basisrecht;
 
-- –. drie jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
+- – drie jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
 
 3. De douanerechten die bij invoer in Zuid-Afrika van toepassing zijn op de in bijlage VI, lijst 2, vermelde producten van oorsprong uit de Gemeenschap, worden overeenkomstig het onderstaande tijdschema geleidelijk afgeschaft:
 
-- –. drie jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 67% van het basisrecht;
+- – drie jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 67% van het basisrecht;
 
-- –. vier jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 33% van het basisrecht;
+- – vier jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 33% van het basisrecht;
 
-- –. vijf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
+- – vijf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
 
 4. De douanerechten die bij invoer in Zuid-Afrika van toepassing zijn op de in bijlage VI, lijst 3, vermelde producten van oorsprong uit de Gemeenschap, worden overeenkomstig het onderstaande tijdschema geleidelijk afgeschaft:
 
-- –. vijf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 88% van het basisrecht;
+- – vijf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 88% van het basisrecht;
 
-- –. zes jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 75% van het basisrecht;
+- – zes jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 75% van het basisrecht;
 
-- –. zeven jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 63% van het basisrecht;
+- – zeven jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 63% van het basisrecht;
 
-- –. acht jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 50% van het basisrecht;
+- – acht jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 50% van het basisrecht;
 
-- –. negen jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 38% van het basisrecht;
+- – negen jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 38% van het basisrecht;
 
-- –. tien jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 25% van het basisrecht;
+- – tien jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 25% van het basisrecht;
 
-- –. elf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 13% van het basisrecht;
+- – elf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten verlaagd tot 13% van het basisrecht;
 
-- –. twaalf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
+- – twaalf jaar na de inwerkingtreding van deze Overeenkomst worden alle rechten afgeschaft.
 
 Voor enkele in deze bijlage vermelde producten geldt vanaf de inwerkingtreding van de Overeenkomst tot de volledige afschaffing van de rechten een rechtenvrij contingent, overeenkomstig de in de bijlage vermelde voorwaarden.
 
@@ -497,9 +401,9 @@ Onverminderd de andere bepalingen van deze Overeenkomst en met name [artikel 24]
 
 Uiterlijk vijf jaar na de inwerkingtreding van deze Overeenkomst zullen de Gemeenschap en Zuid-Afrika zich beraden over verdere stappen om hun wederzijdse handel te liberaliseren. Te dien einde zullen met name, doch niet uitsluitend, de douanerechten worden onderzocht die van toepassing zijn op de producten die zijn vermeld in bijlage II, lijst 5, bijlage III, lijsten 5 en 6, bijlage IV, lijsten 5, 6 en 7, bijlage V, lijsten 1, 2, 3 en 4, bijlage VI, lijsten 4 en 5 en bijlage VII.
 
-## TITEL III. MET DE HANDEL VERBAND HOUDENDE KWESTIES
+### TITEL III. MET DE HANDEL VERBAND HOUDENDE KWESTIES
 
-### AFDELING A. ALGEMENE BEPALINGEN
+#### AFDELING A. ALGEMENE BEPALINGEN
 
 ##### Artikel 19. Grensmaatregelen
 
@@ -531,13 +435,13 @@ Uiterlijk vijf jaar na de inwerkingtreding van deze Overeenkomst zullen de Gemee
 
 ##### Artikel 23. Antidumpingmaatregelen en compenserende maatregelen
 
-1. Geen van de bepalingen in deze Overeenkomst doet afbreuk aan de mogelijkheid van beide partijen antidumpingmaatregelen en compenserende maatregelen te nemen overeenkomstig artikel VI van de GATT-Overeenkomst van 1994, de [Overeenkomst inzake de Tenuitvoerlegging van artikel VI van de GATT-Overeenkomst van 1994](onbekend) en de [Overeenkomst inzake Subsidies en Compenserende Maatregelen](onbekend) die een bijlage vormt bij de [Overeenkomst van Marrakesh tot oprichting van de WTO](onbekend).
+1. Geen van de bepalingen in deze Overeenkomst doet afbreuk aan de mogelijkheid van beide partijen antidumpingmaatregelen en compenserende maatregelen te nemen overeenkomstig artikel VI van de GATT-Overeenkomst van 1994, de [Overeenkomst inzake de Tenuitvoerlegging van artikel VI van de GATT-Overeenkomst van 1994](https://wetten.overheid.nl/BWBV0001160) en de [Overeenkomst inzake Subsidies en Compenserende Maatregelen](https://wetten.overheid.nl/BWBV0001160) die een bijlage vormt bij de [Overeenkomst van Marrakesh tot oprichting van de WTO](https://wetten.overheid.nl/BWBV0001160).
 
-2. Voordat definitieve antidumpingrechten of compenserende rechten worden ingesteld ten aanzien van producten uit Zuid-Afrika kunnen de partijen de mogelijkheid in overweging nemen constructieve maatregelen te nemen zoals bepaald in de [Overeenkomst inzake de Tenuitvoerlegging van artikel VI van de GATT-Overeenkomst van 1994](onbekend) en de [Overeenkomst inzake Subsidies en Compenserende Maatregelen](onbekend).
+2. Voordat definitieve antidumpingrechten of compenserende rechten worden ingesteld ten aanzien van producten uit Zuid-Afrika kunnen de partijen de mogelijkheid in overweging nemen constructieve maatregelen te nemen zoals bepaald in de [Overeenkomst inzake de Tenuitvoerlegging van artikel VI van de GATT-Overeenkomst van 1994](https://wetten.overheid.nl/BWBV0001160) en de [Overeenkomst inzake Subsidies en Compenserende Maatregelen](https://wetten.overheid.nl/BWBV0001160).
 
 ##### Artikel 24. Vrijwaringsclausule
 
-1. Wanneer een product in zulke toegenomen hoeveelheden en onder zulke omstandigheden wordt ingevoerd dat de binnenlandse producenten van soortgelijke of rechtstreeks concurrerende producten op het grondgebied van een van de Overeenkomstsluitende partijen daardoor schade lijden of dreigen te lijden, kan de Gemeenschap of Zuid-Afrika, al naar gelang van het geval, passende maatregelen nemen overeenkomstig de voorwaarden die zijn neergelegd in de [WTO-Overeenkomst inzake Vrijwaringsmaatregelen](onbekend) of de [Overeenkomst inzake de Landbouw](onbekend) die een bijlage vormen bij de [Overeenkomst van Marrakesh tot instelling van de WTO](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) en overeenkomstig de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=26&z=2016-03-01&g=2016-03-01) omschreven procedures.
+1. Wanneer een product in zulke toegenomen hoeveelheden en onder zulke omstandigheden wordt ingevoerd dat de binnenlandse producenten van soortgelijke of rechtstreeks concurrerende producten op het grondgebied van een van de Overeenkomstsluitende partijen daardoor schade lijden of dreigen te lijden, kan de Gemeenschap of Zuid-Afrika, al naar gelang van het geval, passende maatregelen nemen overeenkomstig de voorwaarden die zijn neergelegd in de [WTO-Overeenkomst inzake Vrijwaringsmaatregelen](https://wetten.overheid.nl/BWBV0001160) of de [Overeenkomst inzake de Landbouw](https://wetten.overheid.nl/BWBV0001160) die een bijlage vormen bij de [Overeenkomst van Marrakesh tot instelling van de WTO](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) en overeenkomstig de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=26&z=2016-03-01&g=2016-03-01) omschreven procedures.
 
 2. Wanneer een product in zulke toegenomen hoeveelheden en onder zulke omstandigheden wordt ingevoerd dat de economische situatie van de ultraperifere gebieden van de Europese Unie daardoor ernstige schade lijdt of dreigt te lijden, kan de Europese Unie, bij wijze van uitzondering en nadat andere oplossingen zijn onderzocht, speciaal voor dat gebied of die gebieden toezichts- of vrijwaringsmaatregelen nemen overeenkomstig de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=A&artikel=26&z=2016-03-01&g=2016-03-01) omschreven procedures.
 
@@ -581,9 +485,9 @@ Deze Overeenkomst vormt geen beletsel voor verboden of beperkingen op de invoer,
 
 ##### Artikel 28. Regels van oorsprong
 
-De voor de toepassing van tariefpreferenties geldende regels van oorsprong waarin deze Overeenkomst voorziet zijn opgenomen in Protocol 1.
+De voor de toepassing van tariefpreferenties geldende regels van oorsprong waarin deze Overeenkomst voorziet zijn opgenomen in [Protocol 1](https://wetten.overheid.nl/BWBV0001476).
 
-### AFDELING B. RECHT VAN VESTIGING EN VAN DIENSTVERLENING
+#### AFDELING B. RECHT VAN VESTIGING EN VAN DIENSTVERLENING
 
 ##### Artikel 29. Herbevestiging van de verplichtingen uit hoofde van de GATS
 
@@ -623,7 +527,7 @@ De voor de toepassing van tariefpreferenties geldende regels van oorsprong waari
 
 3. De partijen komen overeen het vervoer over zee, met inbegrip van het intermodale vervoer, in het kader van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=B&artikel=30&z=2016-03-01&g=2016-03-01) te bezien, onverminderd de dan geldende beperkingen op grond van nationaliteit of de door een van de partijen aangegane overeenkomsten die verenigbaar zijn met de rechten en plichten van de partijen uit hoofde van de [GATS](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=1B).
 
-### AFDELING C. LOPENDE BETALINGEN EN KAPITAALVERKEER
+#### AFDELING C. LOPENDE BETALINGEN EN KAPITAALVERKEER
 
 ##### Artikel 32. Lopende betalingen
 
@@ -639,9 +543,9 @@ De voor de toepassing van tariefpreferenties geldende regels van oorsprong waari
 
 ##### Artikel 34. Betalingsbalansproblemen
 
-Indien een of meer lidstaten van de Gemeenschap of Zuid-Afrika ernstige betalingsbalansproblemen ondervindt of dreigt te ondervinden, kan de Gemeenschap respectievelijk Zuid-Afrika, in overeenstemming met de voorwaarden van de [Algemene Overeenkomst betreffende Tarieven en Handel](onbekend) en met de [artikelen VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0005521&artikel=VIII) en [XIV van de statuten van het Internationaal Monetair Fonds](https://wetten.overheid.nl/jci1.3:c:BWBV0005521&artikel=XIV) de lopende transacties voor kortere duur beperken, welke beperkingen slechts zover mogen gaan als tot hetgeen noodzakelijk is om de betalingsbalans te herstellen. De Gemeenschap of Zuid-Afrika, al naar gelang van het geval, deelt dit terstond mede aan de andere partij en doet deze partij zo spoedig mogelijk een tijdschema toekomen voor de opheffing van deze maatregelen.
+Indien een of meer lidstaten van de Gemeenschap of Zuid-Afrika ernstige betalingsbalansproblemen ondervindt of dreigt te ondervinden, kan de Gemeenschap respectievelijk Zuid-Afrika, in overeenstemming met de voorwaarden van de [Algemene Overeenkomst betreffende Tarieven en Handel](https://wetten.overheid.nl/BWBV0001160) en met de [artikelen VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0005521&artikel=VIII) en [XIV van de statuten van het Internationaal Monetair Fonds](https://wetten.overheid.nl/jci1.3:c:BWBV0005521&artikel=XIV) de lopende transacties voor kortere duur beperken, welke beperkingen slechts zover mogen gaan als tot hetgeen noodzakelijk is om de betalingsbalans te herstellen. De Gemeenschap of Zuid-Afrika, al naar gelang van het geval, deelt dit terstond mede aan de andere partij en doet deze partij zo spoedig mogelijk een tijdschema toekomen voor de opheffing van deze maatregelen.
 
-### AFDELING D. MEDEDINGINGSBELEID
+#### AFDELING D. MEDEDINGINGSBELEID
 
 ##### Artikel 35. Definitie
 
@@ -689,7 +593,7 @@ De Gemeenschap verschaft Zuid-Afrika technische bijstand bij de herstructurering
 
 De partijen wisselen gegevens uit, rekening houdend met de beperkingen uit hoofde van het zaken- en beroepsgeheim.
 
-### AFDELING E. OVERHEIDSSTEUN
+#### AFDELING E. OVERHEIDSSTEUN
 
 ##### Artikel 41. Overheidssteun
 
@@ -709,11 +613,11 @@ Elke partij draagt zorg voor transparantie op het gebied van overheidssteun. Met
 
 ##### Artikel 44. Onderzoek
 
-1. Bij afwezigheid van regels of procedures voor de tenuitvoerlegging van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=E&artikel=41&z=2016-03-01&g=2016-03-01) zijn artikel VI en XVI van de Algemene Overeenkomst inzake Tarieven en Handel 1994 en de [WTO-Overeenkomst inzake Subsidies en Compenserende Maatregelen](onbekend) van toepassing op overheidssteun en subsidies.
+1. Bij afwezigheid van regels of procedures voor de tenuitvoerlegging van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=E&artikel=41&z=2016-03-01&g=2016-03-01) zijn artikel VI en XVI van de Algemene Overeenkomst inzake Tarieven en Handel 1994 en de [WTO-Overeenkomst inzake Subsidies en Compenserende Maatregelen](https://wetten.overheid.nl/BWBV0001160) van toepassing op overheidssteun en subsidies.
 
 2. De Samenwerkingsraad stelt regelmatig een onderzoek in naar de vorderingen die op dit gebied zijn gemaakt. Met name zal hij samenwerking en begrip blijven ontwikkelen ten aanzien van de maatregelen die elke partij neemt ten aanzien van de werking van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&afdeling=E&artikel=41&z=2016-03-01&g=2016-03-01).
 
-### AFDELING F. ANDERE MET DE HANDEL VERBAND HOUDENDE BEPALINGEN
+#### AFDELING F. ANDERE MET DE HANDEL VERBAND HOUDENDE BEPALINGEN
 
 ##### Artikel 45. Overheidsopdrachten
 
@@ -759,7 +663,7 @@ Elke partij draagt zorg voor transparantie op het gebied van overheidssteun. Met
 
 De partijen werken samen op het gebied van normalisering, metrologie, certificatie en kwaliteitsborging teneinde de verschillen tussen hen op deze gebieden te verminderen, technische belemmeringen op te heffen en de bilaterale handel te vergemakkelijken. Deze samenwerking houdt onder meer het volgende in:
 
-- a. maatregelen, overeenkomstig de bepalingen van de [WTO-Overeenkomst inzake technische handelsbelemmeringen](onbekend), ter bevordering van het gebruik van internationale technische voorschriften, normen en conformiteitsbeoordelingsprocedures, met inbegrip van maatregelen voor bijzondere sectoren;
+- a. maatregelen, overeenkomstig de bepalingen van de [WTO-Overeenkomst inzake technische handelsbelemmeringen](https://wetten.overheid.nl/BWBV0001160), ter bevordering van het gebruik van internationale technische voorschriften, normen en conformiteitsbeoordelingsprocedures, met inbegrip van maatregelen voor bijzondere sectoren;
 
 - b. de ontwikkeling van overeenkomsten over de wederzijdse erkenning van de conformiteitsbeoordeling in sectoren van wederzijds economisch belang;
 
@@ -773,13 +677,13 @@ De partijen werken samen op het gebied van normalisering, metrologie, certificat
 
 1. De partijen bevorderen en vergemakkelijken de samenwerking tussen hun douanediensten om te bewerkstelligen dat de bepalingen inzake de handel worden nageleefd en dat eerlijke handelspraktijken worden toegepast. Deze samenwerking leidt onder meer tot de uitwisseling van gegevens en het organiseren van opleidingsprogramma's.
 
-2. Onverminderd de andere samenwerkingsvormen waarin deze Overeenkomst voorziet, met name op grond van [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=VI&artikel=90&z=2016-03-01&g=2016-03-01), geven de administratieve instanties van de Overeenkomstsluitende partijen elkaar bijstand overeenkomstig de bepalingen van Protocol 2 bij deze Overeenkomst.
+2. Onverminderd de andere samenwerkingsvormen waarin deze Overeenkomst voorziet, met name op grond van [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=VI&artikel=90&z=2016-03-01&g=2016-03-01), geven de administratieve instanties van de Overeenkomstsluitende partijen elkaar bijstand overeenkomstig de bepalingen van [Protocol 2](https://wetten.overheid.nl/BWBV0001476) bij deze Overeenkomst.
 
 ##### Artikel 49. Statistieken
 
 De partijen komen overeen op dit gebied samen te werken. De samenwerking is vooral gericht op harmonisering van de statistische methoden en praktijken zodat gegevens over de handel in goederen en diensten en, meer in het algemeen over alle gebieden waarop deze Overeenkomst betrekking heeft en die zich tot statistische verwerking lenen, op een in onderling overleg overeengekomen basis kunnen worden verwerkt.
 
-## TITEL IV. ECONOMISCHE SAMENWERKING
+### TITEL IV. ECONOMISCHE SAMENWERKING
 
 ##### Artikel 50. Inleiding
 
@@ -977,7 +881,7 @@ Binnen de begrenzingen van de respectieve bevoegdheden van de partijen omvat de 
 
 - d. ontwikkeling van de samenwerking op zoösanitair en fytosanitair gebied en op het gebied van landbouwproductietechnieken;
 
-- e. onderzoek naar maatregelen ter harmonisatie van normen en voorschriften op zoösanitair en fytosanitair gebied teneinde het handelsverkeer te vergemakkelijken, met inachtneming van de geldende wetgeving van de partijen en de voorschriften van de [WTO](onbekend).
+- e. onderzoek naar maatregelen ter harmonisatie van normen en voorschriften op zoösanitair en fytosanitair gebied teneinde het handelsverkeer te vergemakkelijken, met inachtneming van de geldende wetgeving van de partijen en de voorschriften van de [WTO](https://wetten.overheid.nl/BWBV0001160).
 
 2. De samenwerking krijgt onder meer gestalte door de overdracht van kennis, de oprichting van gezamenlijke ondernemingen en het opzetten van programma's voor capaciteitsopbouw.
 
@@ -1015,9 +919,9 @@ De partijen komen overeen samen te werken op het gebied van het consumentenbelei
 
 - h. het uitwisselen van informatie over doeltreffende methoden voor de schadeloosstelling van consumenten die slachtoffer zijn geworden van illegale activiteiten.
 
-## TITEL V. ONTWIKKELINGSSAMENWERKING
+### TITEL V. ONTWIKKELINGSSAMENWERKING
 
-### AFDELING A. ALGEMEEN
+#### AFDELING A. ALGEMEEN
 
 ##### Artikel 65. Doelstellingen
 
@@ -1093,7 +997,7 @@ De voor financiële en technische bijstand in aanmerking komende samenwerkingspa
 
 2. Alle financieringsovereenkomsten of contracten voorzien in controles ter plaatse door de Commissie en de Europese Rekenkamer.
 
-### AFDELING B. TENUITVOERLEGGING
+#### AFDELING B. TENUITVOERLEGGING
 
 ##### Artikel 73. Ontvankelijkheid van inschrijvingen en leveringen
 
@@ -1149,7 +1053,7 @@ De Commissie wijst een hoofdordonnateur aan, die belast wordt met het beheer van
 
 2. De controle op en evaluatie van de samenwerking worden gezamenlijk door Zuid-Afrika en de Gemeenschap uitgevoerd. In het kader van jaarlijks overleg kan de voortgang worden beoordeeld, kunnen maatregelen ter aanpassing en verbetering van de tenuitvoerlegging van het meerjarig indicatief programma worden genomen en kunnen toekomstige projecten worden voorbereid.
 
-## TITEL VI. SAMENWERKING OP ANDERE GEBIEDEN
+### TITEL VI. SAMENWERKING OP ANDERE GEBIEDEN
 
 ##### Artikel 83. Wetenschap en Technologie
 
@@ -1231,7 +1135,7 @@ Binnen de grenzen van hun respectieve bevoegdheden verbinden de partijen zich er
 
 4. Samenwerking op farmaceutisch gebied kan steun omvatten voor de evaluatie en registratie van geneesmiddelen.
 
-## TITEL VII. FINANCIËLE ASPECTEN VAN DE SAMENWERKING
+### TITEL VII. FINANCIËLE ASPECTEN VAN DE SAMENWERKING
 
 ##### Artikel 93. Doel
 
@@ -1253,7 +1157,7 @@ Wat de financiële bijstand in de vorm van leningen betreft kan de Europese Inve
 
 De in de voorgaande artikelen bedoelde financiële bijstand van de Gemeenschap kan worden benut voor de financiering van projecten of programma's van nationaal of lokaal belang in Zuid-Afrika en deelneming van Zuid-Afrika aan regionale samenwerkingsactiviteiten die het land tezamen met andere ontwikkelingslanden onderneemt.
 
-## TITEL VIII. SLOTBEPALINGEN
+### TITEL VIII. SLOTBEPALINGEN
 
 ##### Artikel 97. Institutionele structuur
 
@@ -1362,707 +1266,5 @@ Deze overeenkomst is opgesteld in twee exemplaren in de Bulgaarse, de Deense, de
 ##### Artikel 109. Inwerkingtreding
 
 Deze Overeenkomst treedt in werking op de eerste dag van de maand volgende op die waarin de overeenkomstsluitende partijen elkaar in kennis hebben gesteld van de voltooiing van de noodzakelijke procedures.
-
-## TITEL I. ALGEMENE BEPALINGEN
-
-##### Artikel 1. Definities
-
-Voor de toepassing van dit Protocol wordt verstaan onder:
-
-- a. „vervaardiging”: elke soort be- of verwerking, met inbegrip van assemblage of speciale behandelingen;
-
-- b. „materiaal”: alle ingrediënten, grondstoffen, componenten, delen enz., die bij de vervaardiging van het product worden gebruikt;
-
-- c. „product”: het vervaardigde product, ook indien dit bestemd is om later bij de vervaardiging van een ander product te worden gebruikt;
-
-- d. „goederen”: zowel materialen als producten;
-
-- e. „douanewaarde”: de waarde zoals bepaald bij de [Overeenkomst inzake de toepassing van artikel VII van de Algemene Overeenkomst betreffende Tarieven en Handel van 1994](onbekend) (Overeenkomst inzake de douanewaarde van de WTO);
-
-- f. „prijs af fabriek”: de prijs die voor het product af fabriek is betaald aan de fabrikant in de Gemeenschap of in Zuid-Afrika in wiens bedrijf de laatste be- of verwerking is verricht, voorzover in die prijs de waarde is begrepen van alle gebruikte materialen, verminderd met alle binnenlandse belastingen die worden of kunnen worden terugbetaald wanneer het vervaardigde product wordt uitgevoerd;
-
-- g. „waarde van de materialen”: de douanewaarde ten tijde van de invoer van de gebruikte materialen die niet van oorsprong zijn, of, indien deze niet bekend is en niet kan worden vastgesteld, de eerste controleerbare prijs die voor de materialen in de Gemeenschap of Zuid-Afrika is betaald;
-
-- h. „waarde van de materialen van oorsprong”: de waarde van deze materialen als omschreven onder g), welke omschrijving van dienovereenkomstige toepassing is;
-
-- i. „toegevoegde waarde”: de prijs af fabriek min de douanewaarde van de in het product opgenomen materialen die van oorsprong zijn uit de andere in artikel 3 bedoelde landen of, indien de douanewaarde niet bekend is of niet kan worden vastgesteld, de eerste controleerbare prijs die voor het product in de Gemeenschap of Zuid-Afrika is betaald;
-
-- j. „hoofdstukken” en „posten”: de hoofdstukken en posten (viercijfercodes) van de nomenclatuur die het geharmoniseerde systeem inzake de omschrijving en codering van goederen vormt, in dit Protocol „het geharmoniseerd systeem” of „GS” genoemd;
-
-- k. „ingedeeld”: de indeling van een product of materiaal onder een bepaalde post;
-
-- l. „zending”: producten die gelijktijdig van een exporteur naar een geadresseerde worden verzonden of vergezeld gaan van een enkel vervoersdocument dat de verzending van de exporteur naar de geadresseerde dekt, of bij gebreke daarvan, een enkele factuur;
-
-- m. „gebieden”: omvat ook de territoriale wateren;
-
-- n. „ACS-staten”: de Afrikaanse en Caraïbische landen en de landen in de Stille Zuidzee die partij zijn bij de Overeenkomst van Lomé;
-
-- o. „SACU”: de douane-unie van Zuidelijk Afrika.
-
-## TITEL II. DEFINITIE VAN HET BEGRIP „PRODUCT VAN OORSPRONG"
-
-##### Artikel 2. Algemene voorwaarden
-
-1. Voor de toepassing van deze Overeenkomst worden de volgende producten beschouwd van oorsprong te zijn uit de Gemeenschap:
-
-- a. geheel en al in de Gemeenschap verkregen producten in de zin van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=4&z=2016-03-01&g=2016-03-01) van dit Protocol;
-
-- b. in de Gemeenschap verkregen producten, waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in de Gemeenschap een be- of verwerking hebben ondergaan die toereikend is in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=5&z=2016-03-01&g=2016-03-01) van dit Protocol.
-
-2. Voor de toepassing van deze Overeenkomst worden de volgende producten beschouwd van oorsprong te zijn uit Zuid-Afrika:
-
-- a. geheel en al in Zuid-Afrika verkregen producten, in de zin van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=4&z=2016-03-01&g=2016-03-01) van dit Protocol;
-
-- b. in Zuid-Afrika verkregen producten, waarin materialen zijn verwerkt die daar niet geheel en al zijn verkregen, mits deze materialen in Zuid-Afrika een be- of verwerking hebben ondergaan die toereikend is in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=5&z=2016-03-01&g=2016-03-01) van dit Protocol.
-
-##### Artikel 3. Cumulatie van de oorsprong
-
-1. Materialen van oorsprong uit de Gemeenschap worden beschouwd materialen van oorsprong uit Zuid-Afrika te zijn indien ze in een aldaar verkregen product zijn opgenomen. Het is niet noodzakelijk dat deze materialen een toereikende be- of verwerking hebben ondergaan, mits ze evenwel een be- of verwerking hebben ondergaan die meer omvat dan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=6&z=2016-03-01&g=2016-03-01) van dit Protocol genoemde be- of verwerkingen.
-
-2. Materialen van oorsprong uit Zuid-Afrika worden beschouwd materialen van oorsprong uit de Gemeenschap te zijn wanneer ze in een aldaar verkregen product zijn opgenomen. Het is niet noodzakelijk dat deze materialen een toereikende be- of verwerking hebben ondergaan, mits ze evenwel een be- of verwerking hebben ondergaan die meer omvat dan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=6&z=2016-03-01&g=2016-03-01) van dit Protocol genoemde be- of verwerkingen.
-
-3. Onder voorbehoud van het bepaalde in de leden 5 en 6 worden materialen van oorsprong uit een ACS-land beschouwd van oorsprong uit de Gemeenschap of Zuid-Afrika te zijn indien zij in een aldaar verkregen product zijn opgenomen. Het is niet noodzakelijk dat deze materialen een toereikende be- of verwerking hebben ondergaan.
-
-4. Binnen de SACU verrichte be- en verwerkingen worden geacht in Zuid-Afrika te zijn verricht indien de betrokken goederen daar verder worden be- of verwerkt.
-
-5. Producten die door toepassing van lid 3 de oorsprong hebben verkregen, worden uitsluitend als producten van oorsprong uit de Gemeenschap of Zuid-Afrika beschouwd indien de aldaar toegevoegde waarde hoger is dan de waarde van de gebruikte materialen van oorsprong uit een van de ACS-landen. Indien dit niet het geval is worden de betrokken producten beschouwd als van oorsprong uit het ACS-land dat goed is voor de hoogste waarde van de gebruikte materialen van oorsprong. Bij het toekennen van de oorsprong wordt geen rekening gehouden met materialen van oorsprong uit de ACS-landen die in de Gemeenschap of Zuid-Afrika een toereikende be- of verwerking hebben ondergaan.
-
-6. De in lid 3 bedoelde cumulatieregel kan uitsluitend worden toegepast wanneer de gebruikte ACS-materialen het karakter van product van oorsprong hebben verkregen door toepassing van de in de Overeenkomst van Lomé opgenomen oorsprongsregels. De Gemeenschap en Zuid-Afrika delen elkaar, via de Europese Commissie, de gegevens mede over de overeenkomsten die zij met de ACS-landen hebben afgesloten en de daarin opgenomen oorsprongsregels.
-
-7. Zodra aan de voorwaarden in lid 6 is voldaan en overeenstemming is bereikt over de datum van inwerkingtreding van deze bepalingen, neemt elke partij de nodige maatregelen om aan haar verplichtingen inzake kennisgeving en informatie te voldoen.
-
-##### Artikel 4. Geheel en al verkregen producten
-
-1. Als geheel en al in de Gemeenschap of in Zuid-Afrika verkregen worden beschouwd:
-
-- a. aldaar uit de bodem of zeebodem gewonnen producten;
-
-- b. aldaar geoogste producten van het plantenrijk;
-
-- c. aldaar geboren en opgefokte levende dieren;
-
-- d. producten afkomstig van aldaar opgefokte levende dieren;
-
-- e. voortbrengselen van de aldaar bedreven jacht en visserij;
-
-- f. producten van de zeevisserij en andere buiten de territoriale wateren van de Gemeenschap of van Zuid-Afrika door hun schepen uit de zee gewonnen producten;
-
-- g. producten uitsluitend uit de onder f) bedoelde producten aan boord van hun fabrieksschepen vervaardigd;
-
-- h. aldaar verzamelde gebruikte artikelen die slechts voor de terugwinning van grondstoffen kunnen dienen, met inbegrip van gebruikte banden die uitsluitend geschikt zijn om van een nieuw loopvlak te worden voorzien of slechts als afval kunnen worden gebruikt;
-
-- i. afval afkomstig van aldaar verrichte be- of verwerkingen;
-
-- j. producten, gewonnen van of vanonder de zeebodem buiten de territoriale wateren, mits zij alleen het recht hebben op ontginning van deze bodem of ondergrond;
-
-- k. goederen die aldaar uitsluitend uit de onder a) tot en met j) bedoelde producten zijn vervaardigd.
-
-2. De termen „hun schepen” en „hun fabrieksschepen” in lid 1, onder f) en g), zijn slechts van toepassing op schepen en fabrieksschepen:
-
-- a. die in een lidstaat van de Gemeenschap of Zuid-Afrika zijn ingeschreven of geregistreerd;
-
-- b. die de vlag van een lidstaat van de Gemeenschap of van Zuid-Afrika voeren;
-
-- c. die voor ten minste 50 procent toebehoren aan onderdanen van lidstaten van de Gemeenschap of van Zuid-Afrika of aan een vennootschap die haar hoofdkantoor in een van deze staten heeft en waarvan de bedrijfsvoerder(s), de voorzitter van de raad van bestuur of van toezicht en de meerderheid van de leden van deze raden onderdanen zijn van een lidstaat van de Gemeenschap of van Zuid-Afrika, en waarvan bovendien, in het geval van personenvennootschappen of vennootschappen met beperkte aansprakelijkheid, ten minste de helft van het kapitaal toebehoort aan deze staten of aan openbare lichamen of onderdanen daarvan;
-
-- d. waarvan de kapitein en de officieren onderdanen zijn van lidstaten van de Gemeenschap of van Zuid-Afrika; en
-
-- e. waarvan de bemanning voor ten minste 75 procent uit onderdanen van lidstaten van de Gemeenschap of van Zuid-Afrika bestaat.
-
-Bij de inwerkingtreding van de tariefconcessies voor visserijproducten wordt lid 2, onder d) en e), vervangen door:
-
-- d. waarvan de bemanning, kapitein en officieren inbegrepen, voor ten minste 50 procent uit onderdanen van lidstaten van de Gemeenschap of van Zuid-Afrika bestaat.
-
-##### Artikel 5. Toereikende bewerking of verwerking
-
-1. Niet geheel en al verkregen producten worden geacht een toereikende bewerking of verwerking te hebben ondergaan in de zin van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=2&z=2016-03-01&g=2016-03-01), indien aan de voorwaarden van de lijst in bijlage II is voldaan.
-
-In deze lijst is voor alle onder deze Overeenkomst vallende producten aangegeven welke be- of verwerkingen niet van oorsprong zijnde materialen moeten ondergaan om het karakter van product van oorsprong te verkrijgen en zijn slechts op deze materialen van toepassing. Dit betekent dat indien een product dat de oorsprong heeft verkregen doordat het aan de voorwaarden in die lijst voor dat product heeft voldaan, als materiaal gebruikt wordt bij de vervaardiging van een ander product, de voorwaarden die van toepassing zijn op het product waarin het wordt verwerkt daarvoor niet gelden. Er wordt dan geen rekening gehouden met de niet van oorsprong zijnde materialen die bij de vervaardiging ervan kunnen zijn gebruikt.
-
-2. In afwijking van lid 1 kunnen niet van oorsprong zijnde materialen die volgens de voorwaarden in de lijst bij de vervaardiging van een bepaald product niet mogen worden gebruikt, in de volgende gevallen toch worden gebruikt:
-
-- a. wanneer de totale waarde ervan niet hoger is dan 15 procent van de prijs af fabriek van het product en niet hoger dan 10 procent van de prijs af fabriek voor producten die onder de hoofdstukken 3 en 24 en de GS-posten 1604, 1605, 2207 en 2208 zijn ingedeeld;
-
-- b. wanneer de in de lijst vermelde maximumpercentages voor niet van oorsprong zijnde materialen door de toepassing van dit lid niet worden overschreden.
-
-Dit lid is niet van toepassing op de producten die onder de hoofdstukken 50 tot en met 63 van het geharmoniseerd systeem zijn ingedeeld.
-
-3. De leden 1 en 2 zijn van toepassing onder voorbehoud van het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=6&z=2016-03-01&g=2016-03-01).
-
-##### Artikel 6. Ontoereikende bewerking of verwerking
-
-1. Behoudens het bepaalde in lid 2 worden de volgende be- of verwerkingen als ontoereikend beschouwd om de oorsprong te verlenen, ongeacht of aan de voorwaarden van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=5&z=2016-03-01&g=2016-03-01) is voldaan:
-
-- a. behandelingen om de producten tijdens vervoer en opslag in goede staat te bewaren (luchten, uitspreiden, drogen, koelen, in water zetten waaraan zout, zwaveldioxide of andere producten zijn toegevoegd, verwijderen van beschadigde gedeelten en soortgelijke behandelingen);
-
-- b. eenvoudige behandelingen zoals stofvrij maken, zeven, sorteren, classificeren, assorteren (daaronder begrepen het samenstellen van sets van artikelen), wassen, verven en snijden;
-
-- c.
-
-- i. veranderen van verpakkingen, splitsen en samenvoegen van colli;
-
-- ii. eenvoudig verpakken in flessen, zakken, etuis, dozen of blikken, bevestigen op kaartjes of plankjes, enz., en alle andere handelingen in verband met de opmaak;
-
-- d. het aanbrengen van merken, etiketten of soortgelijke onderscheidingstekens op de producten zelf of op hun verpakkingen;
-
-- e. eenvoudig mengen van producten, ook van verschillende soorten, indien een of meer bestanddelen van het mengsel niet voldoen aan de voorwaarden van dit Protocol om als producten van oorsprong uit de Gemeenschap of Zuid-Afrika te worden beschouwd;
-
-- f. eenvoudig samenvoegen van delen tot een volledig product;
-
-- g. twee of meer van de onder a tot en met f vermelde behandelingen tezamen;
-
-- h. het slachten van dieren.
-
-2. Alle be- of verwerkingen die een product in de Gemeenschap of in Zuid-Afrika heeft ondergaan worden tezamen genomen om te bepalen of de be- of verwerkingen die het heeft ondergaan ontoereikend zijn in de zin van lid 1.
-
-##### Artikel 7. Determinerende eenheid
-
-1. De determinerende eenheid voor de toepassing van de bepalingen van dit Protocol is het product dat volgens de nomenclatuur van het geharmoniseerde systeem als de basiseenheid wordt beschouwd.
-
-Hieruit volgt dat:
-
-- a. wanneer een product, bestaande uit een groep of verzameling van artikelen, onder één enkele post van het geharmoniseerde systeem wordt ingedeeld, het geheel de in aanmerking te nemen eenheid vormt;
-
-- b. wanneer een zending uit een aantal eendere producten bestaat die onder dezelfde post van het geharmoniseerde systeem worden ingedeeld, elk product voor de toepassing van de bepalingen van dit Protocol afzonderlijk moet worden genomen.
-
-2. Wanneer volgens algemene regel 5 voor de interpretatie van het geharmoniseerde systeem de verpakking meetelt voor het vaststellen van de indeling, telt deze ook mee voor het vaststellen van de oorsprong.
-
-##### Artikel 8. Accessoires, vervangingsonderdelen en gereedschappen
-
-Accessoires, vervangingsonderdelen en gereedschappen die samen met materieel, machines, apparaten of voertuigen worden geleverd en deel uitmaken van de normale uitrusting daarvan en in de prijs daarvan zijn begrepen of niet afzonderlijk in rekening worden gebracht, worden geacht één geheel te vormen met het materieel en de machines, apparaten of voertuigen in kwestie.
-
-##### Artikel 9. Stellen of assortimenten
-
-Stellen of assortimenten in de zin van algemene regel 3 voor de interpretatie van het geharmoniseerde systeem, worden als van oorsprong beschouwd indien alle samenstellende delen van oorsprong zijn. Een stel of assortiment bestaande uit producten van oorsprong en producten die niet van oorsprong zijn, wordt evenwel als van oorsprong beschouwd indien de waarde van de producten die niet van oorsprong zijn niet meer dan 15 procent van de prijs af fabriek van het stel of assortiment bedraagt.
-
-##### Artikel 10. Neutrale elementen
-
-Om te bepalen of een product van oorsprong is, is het niet noodzakelijk de oorsprong na te gaan van de volgende zaken die bij de vervaardiging gebruikt kunnen zijn:
-
-- a. energie en brandstof;
-
-- b. fabrieksuitrusting;
-
-- c. machines en werktuigen;
-
-- d. goederen die in de uiteindelijke samenstelling van het product niet voorkomen en ook niet bedoeld waren daarin voor te komen.
-
-## TITEL III. TERRITORIALE VOORWAARDEN
-
-##### Artikel 11. Territorialiteitsbeginsel
-
-1. Behoudens het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2016-03-01&g=2016-03-01), moet aan de in titel II genoemde voorwaarden met betrekking tot het verkrijgen van de oorsprong zonder onderbreking in de Gemeenschap of in Zuid-Afrika zijn voldaan.
-
-2. Producten van oorsprong die uit de Gemeenschap of Zuid-Afrika naar een ander land worden uitgevoerd en daarna weer worden ingevoerd, worden, behoudens het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2016-03-01&g=2016-03-01), niet langer als producten van oorsprong beschouwd, tenzij ten genoegen van de douaneautoriteiten kan worden aangetoond dat:
-
-- a. de wederingevoerde goederen dezelfde goederen zijn als de eerder uitgevoerde goederen; en
-
-- b. dat zij tijdens de periode dat ze waren uitgevoerd geen andere be- of verwerkingen hebben ondergaan dan die welke noodzakelijk waren om ze in goede staat te bewaren.
-
-##### Artikel 12. Rechtstreeks vervoer
-
-1. De bij deze Overeenkomst vastgestelde preferentiële regeling is uitsluitend van toepassing op producten die aan de voorwaarden van dit Protocol voldoen en die rechtstreeks tussen de Gemeenschap en Zuid-Afrika, of via het grondgebied van de andere in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2016-03-01&g=2016-03-01) bedoelde landen zijn vervoerd. Producten die één enkele zending vormen, kunnen via een ander grondgebied worden vervoerd, eventueel met overslag of tijdelijke opslag op dit grondgebied, voorzover ze in het land van doorvoer of opslag onder toezicht van de douane blijven en aldaar geen andere behandelingen ondergaan dan lossen en opnieuw laden of behandelingen om ze in goede staat te bewaren.
-
-Het vervoer per pijpleiding van producten van oorsprong mag via een ander grondgebied dan dat van de Gemeenschap of van Zuid-Afrika geschieden.
-
-2. Het bewijs dat aan de in lid 1 bedoelde voorwaarden is voldaan, wordt geleverd door overlegging van de volgende stukken aan de douaneautoriteiten van het land van invoer:
-
-- a. een enkel vervoersdocument dat in het land van uitvoer is opgesteld ter dekking van het vervoer door het land van doorvoer, of
-
-- b. een door de douaneautoriteiten van het land van doorvoer afgegeven certificaat, waarin:
-
-- i. de producten nauwkeurig zijn omschreven,
-
-- ii. de data zijn vermeld waarop de producten gelost en opnieuw geladen zijn, in voorkomend geval onder opgave van de naam van de gebruikte schepen, of van de andere gebruikte vervoermiddelen; en
-
-- iii. waarin wordt verklaard op welke voorwaarden de producten in het land van doorvoer verbleven;
-
-- c. hetzij, bij gebreke van bovengenoemde stukken, enig ander bewijsstuk.
-
-##### Artikel 13. Tentoonstellingen
-
-1. De Overeenkomst is van toepassing op producten van oorsprong die naar een tentoonstelling in een ander dan een van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2016-03-01&g=2016-03-01) bedoeld landen zijn verzonden en die na de tentoonstelling in de Gemeenschap of in Zuid-Afrika worden ingevoerd, mits ten genoegen van de douaneautoriteiten wordt aangetoond dat:
-
-- a. een exporteur deze producten vanuit de Gemeenschap of Zuid-Afrika naar het land van de tentoonstelling heeft verzonden en deze daar heeft tentoongesteld;
-
-- b. deze exporteur de producten heeft verkocht of op andere wijze afgestaan aan een geadresseerde in de Gemeenschap of Zuid-Afrika;
-
-- c. de producten tijdens of onmiddellijk na de tentoonstelling in dezelfde staat als waarin zij naar de tentoonstelling zijn gegaan, zijn verzonden; en
-
-- d. de producten, vanaf het moment dat zij naar de tentoonstelling werden verzonden, niet voor andere doeleinden zijn gebruikt dan om op die tentoonstelling te worden vertoond.
-
-2. Een bewijs van de oorsprong wordt overeenkomstig de bepalingen van titel IV afgegeven of opgesteld en op de gebruikelijke wijze bij de douaneautoriteiten van het land van invoer ingediend. Op dit bewijs zijn de naam en het adres van de tentoonstelling vermeld. Zo nodig kunnen deze douaneautoriteiten aanvullende bewijsstukken opvragen ten aanzien van de aard van de producten en de voorwaarden waarop zij werden tentoongesteld.
-
-3. Lid 1 is van toepassing op alle tentoonstellingen, beurzen of soortgelijke openbare evenementen met een commercieel, industrieel, agrarisch of ambachtelijk karakter die niet voor particuliere doeleinden in winkels of bedrijfsruimten met het oog op de verkoop van buitenlandse producten worden gehouden, en gedurende welke de producten onder douanetoezicht zijn gebleven.
-
-## TITEL IV. BEWIJS VAN DE OORSPRONG
-
-##### Artikel 14. Algemene voorwaarden
-
-1. Deze Overeenkomst is van toepassing op producten van oorsprong uit de Gemeenschap die in Zuid-Afrika worden ingevoerd en producten van oorsprong uit Zuid-Afrika die in de Gemeenschap worden ingevoerd, op vertoon van:
-
-- a. een certificaat inzake goederenverkeer EUR.1, waarvan het model in bijlage III is opgenomen; of
-
-- b. in de in [artikel 19, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=19&z=2016-03-01&g=2016-03-01), bedoelde gevallen, een verklaring van de exporteur, waarvan de tekst in bijlage IV is opgenomen, op een factuur, pakbon of een ander handelsdocument en waarin de producten duidelijk genoeg zijn omschreven om geïdentificeerd te kunnen worden (hierna „factuurverklaring” genoemd).
-
-2. In afwijking van lid 1 vallen producten van oorsprong in de zin van dit Protocol in de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=24&z=2016-03-01&g=2016-03-01) bedoelde gevallen onder de toepassing van deze Overeenkomst zonder dat een van de hierboven genoemde documenten behoeft te worden overgelegd.
-
-##### Artikel 15. Procedure voor de afgifte van een certificaat inzake goederenverkeer EUR.1
-
-1. Een certificaat inzake goederenverkeer EUR.1 (hierna „EUR.1-certificaat" genoemd) wordt afgegeven door de douaneautoriteiten van het land van uitvoer op schriftelijke aanvraag van de exporteur of, onder diens verantwoordelijkheid, van zijn gemachtigde vertegenwoordiger.
-
-2. Te dien einde vult de exporteur of diens gemachtigde vertegenwoordiger zowel het EUR.1-certificaat als het aanvraagformulier in. Modellen van beide formulieren zijn in bijlage III opgenomen. Deze formulieren worden ingevuld in een van de talen waarin de Overeenkomst is opgesteld, overeenkomstig de bepalingen van het nationale recht van het land van uitvoer. Indien de formulieren met de hand worden ingevuld, dient dit met inkt en in blokletters te gebeuren. De producten moeten worden omschreven in het daartoe bestemde vak en er mogen geen regels worden opengelaten. Indien dit vak niet volledig is ingevuld, wordt onder de laatste regel een horizontale lijn getrokken en het niet ingevulde gedeelte doorgekruist.
-
-3. De exporteur die om de afgifte van een EUR.1-certificaat verzoekt, dient op verzoek van de douaneautoriteiten van het land van uitvoer waar dit certificaat wordt afgegeven, steeds bereid te zijn de nodige documenten te overleggen waaruit blijkt dat de betrokken producten van oorsprong zijn en dat aan de andere voorwaarden van dit Protocol is voldaan.
-
-4. Het EUR.1-certificaat wordt afgegeven door de douaneautoriteiten van een lidstaat van de Europese Gemeenschap of van Zuid-Afrika indien de uit te voeren goederen kunnen worden beschouwd als producten van oorsprong uit de Gemeenschap, uit Zuid-Afrika of uit een van de andere in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2016-03-01&g=2016-03-01) bedoelde landen en indien aan de andere voorwaarden van dit Protocol is voldaan.
-
-5. De met de afgifte van EUR.1-certificaten belaste douaneautoriteiten nemen alle nodige maatregelen om te controleren of de producten inderdaad van oorsprong zijn en of aan alle andere voorwaarden van dit Protocol is voldaan. Met het oog hierop zijn zij gerechtigd bewijsstukken op te vragen, de boekhouding van de exporteur in te zien en alle andere controles te verrichten die zij dienstig achten. Deze douaneautoriteiten zien er ook op toe dat de in lid 2 bedoelde formulieren correct zijn ingevuld. Zij gaan met name na of het voor de omschrijving van de goederen bestemde vak zo is ingevuld dat frauduleuze toevoegingen niet mogelijk zijn.
-
-6. De datum van afgifte van het EUR.1-certificaat wordt vermeld in vak 11 van het certificaat.
-
-7. Een EUR.1-certificaat wordt door de douaneautoriteiten afgegeven en ter beschikking van de exporteur gesteld zodra de goederen werkelijk worden uitgevoerd of wanneer het zeker is dat zij zullen worden uitgevoerd.
-
-##### Artikel 16. Afgifte achteraf van een EUR.1-certificaat
-
-1. In afwijking van [artikel 15, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=15&z=2016-03-01&g=2016-03-01), kan een EUR.1-certificaat bij wijze van uitzondering worden afgegeven na de uitvoer van de goederen waarop het betrekking heeft, indien
-
-- a. dit door een vergissing, onopzettelijk verzuim of bijzondere omstandigheden niet bij de uitvoer is gebeurd;
-
-- b. ten genoegen van de douaneautoriteiten wordt aangetoond dat het EUR.1-certificaat wel was afgegeven, maar bij invoer om technische redenen niet is aanvaard.
-
-2. Met het oog op de toepassing van lid 1 dient de exporteur in zijn aanvraag de plaats en de datum van uitvoer te vermelden van de producten waarop het EUR.1-certificaat betrekking heeft, onder opgave van de redenen van zijn aanvraag.
-
-3. De douaneautoriteiten kunnen eerst tot afgifte achteraf van een EUR.1-certificaat overgaan na te hebben vastgesteld dat de gegevens in de aanvraag van de exporteur overeenstemmen met die in het desbetreffende dossier.
-
-4. Op achteraf afgegeven certificaten inzake goederenverkeer EUR.1 moet een van de volgende vermeldingen worden aangebracht:
-
-| BG | „ИЗДАДЕН ВПОСЛЕДСТВИЕ” |
-| --- | --- |
-| ES | „EXPEDIDO A POSTERIORI” |
-| CS | „VYSTAVENO DODATEČNĚ” |
-| DA | „UDSTEDT EFTERFØLGENDE” |
-| DE | „NACHTRÄGLICH AUSGESTELLT” |
-| ET | „TAGANTJÄRELE VÄLJA ANTUD” |
-| EL | „ΕΚΔΟΘΕΝ ΕΚ ΤΩΝ ΥΣΤΕΡΩΝ” |
-| EN | „ISSUED RETROSPECTIVELY” |
-| FR | „DÉLIVRÉ A POSTERIORI” |
-| HR | „IZDANO NAKNADNO” |
-| IT | „RILASCIATO A POSTERIORI” |
-| LV | „IZSNIEGTS RETROSPEKTĪVI” |
-| LT | „RETROSPEKTYVUSIS IŠDAVIMAS” |
-| HU | „KIADVA VISSZAMENŐLEGES HATÁLLYAL” |
-| MT | „MAĦRUĠ RETROSPETTIVAMENT” |
-| NL | „AFGEGEVEN A POSTERIORI” |
-| PL | „WYSTAWIONE RETROSPEKTYWNIE” |
-| PT | „EMITIDO A POSTERIORI” |
-| RO | „EMIS A POSTERIORI” |
-| SL | „IZDANO NAKNADNO” |
-| SK | „VYDANÉ DODATOČNE” |
-| FI | „ANNETTU JÄLKIKÄTEEN” |
-| SV | „UTFÄRDAT I EFTERHAND”. |
-
-5. De in lid 4 bedoelde aantekening wordt aangebracht in het vak „Opmerkingen” van het EUR.1-certificaat.
-
-##### Artikel 17. Afgifte van een duplicaat van een EUR.1-certificaat
-
-1. In geval van diefstal, verlies of vernietiging van een EUR.1-certificaat, kan de exporteur de douaneautoriteiten die dit certificaat hadden afgegeven, verzoeken een duplicaat op te maken aan de hand van de uitvoerdocumenten die in hun bezit zijn.
-
-2. Op het aldus afgegeven duplicaat wordt een van de volgende aantekeningen aangebracht:
-
-| BG | „ДУБЛИКАТ” |
-| --- | --- |
-| ES | „DUPLICADO” |
-| CS | „DUPLIKÁT” |
-| DA | „DUPLIKAT” |
-| DE | „DUPLIKAT” |
-| ET | „DUPLIKAAT” |
-| EL | „ΑΝΤΙΓΡΑΦΟ” |
-| EN | „DUPLICATE” |
-| FR | „DUPLICATA” |
-| HR | „DUPLIKAT” |
-| IT | „DUPLICATO” |
-| LV | „DUBLIKĀTS” |
-| LT | „DUBLIKATAS” |
-| HU | „MÁSODLAT” |
-| MT | „DUPLIKAT” |
-| NL | „DUPLICAAT” |
-| PL | „DUPLIKAT” |
-| PT | „SEGUNDA VIA” |
-| RO | „DUPLICAT” |
-| SL | „DVOJNIK” |
-| SK | „DUPLIKÁT” |
-| FI | „KAKSOISKAPPALE” |
-| SV | „DUPLIKAT”. |
-
-3. De in lid 2 bedoelde aantekening wordt aangebracht in het vak „Opmerkingen” van het duplicaat van het EUR.1-certificaat.
-
-4. Het duplicaat, dat dezelfde datum van afgifte draagt als het oorspronkelijke EUR.1-certificaat geldt vanaf die datum.
-
-##### Artikel 18. Afgifte van een EUR.1-certificaat aan de hand van een eerder opgesteld of afgegeven bewijs van oorsprong
-
-Voor producten van oorsprong die in de Gemeenschap of Zuid-Afrika onder toezicht van een douanekantoor zijn geplaatst, kan het oorspronkelijke bewijs van oorsprong door een of meer EUR.1-certificaten worden vervangen bij verzending van deze producten of een gedeelte daarvan naar een andere plaats in de Gemeenschap of in Zuid-Afrika. Dit certificaat of deze certificaten worden afgegeven door het douanekantoor dat op de producten toezicht houdt.
-
-##### Artikel 19. Voorwaarden voor het opstellen van een factuurverklaring
-
-1. De in artikel 14, lid 1, onder b), genoemde factuurverklaring kan worden opgesteld door:
-
-- a. een toegelaten exporteur in de zin van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=20&z=2016-03-01&g=2016-03-01);
-
-- b. elke andere exporteur, voor zendingen bestaande uit een of meer colli die producten van oorsprong bevatten waarvan de totale waarde niet meer dan 6000 euro bedraagt.
-
-2. Een factuurverklaring kan worden opgesteld indien de producten als van oorsprong uit de Gemeenschap, Zuid-Afrika of een van de andere in lid 3 bedoelde landen kunnen worden beschouwd en aan de andere voorwaarden van dit Protocol voldoen.
-
-3. De exporteur die de factuurverklaring opstelt moet op verzoek van de douaneautoriteiten van het land van uitvoer steeds bereid zijn de nodige documenten te overleggen waaruit blijkt dat de betrokken producten van oorsprong zijn en dat aan de andere voorwaarden van dit Protocol is voldaan.
-
-4. Deze factuurverklaring, waarvan de tekst in bijlage IV is opgenomen, wordt door de exporteur op de factuur, de pakbon of een ander handelsdocument getypt, gestempeld of gedrukt in een van de in die bijlage opgenomen taalversies, overeenkomstig de bepalingen van het nationale recht van het land van uitvoer. Indien de factuurverklaring met de hand wordt opgesteld, geschiedt dit met inkt en in blokletters.
-
-5. De factuurverklaring wordt door de exporteur eigenhandig ondertekend. Een toegelaten exporteur in de zin van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=20&z=2016-03-01&g=2016-03-01) behoeft deze verklaring echter niet te ondertekenen, mits hij de douaneautoriteiten een schriftelijke verklaring doet toekomen waarin hij de volle verantwoordelijkheid op zich neemt voor alle factuurverklaringen waaruit zijn identiteit blijkt alsof hij deze eigenhandig had ondertekend.
-
-6. Een factuurverklaring kan door de exporteur worden opgesteld bij de uitvoer van de producten waarop zij betrekking heeft of later, maar moet uiterlijk twee jaar na de invoer van de producten waarop ze betrekking heeft in het land van invoer worden aangeboden.
-
-##### Artikel 20. Toegelaten exporteur
-
-1. De douaneautoriteiten van het land van uitvoer kunnen een exporteur die veelvuldig producten verzendt waarop de Overeenkomst van toepassing is, vergunning verlenen factuurverklaringen op te stellen, ongeacht de waarde van de betrokken producten. Om voor een dergelijke vergunning in aanmerking te komen, moet de exporteur naar het oordeel van de douaneautoriteiten de nodige waarborgen bieden met betrekking tot de controle op de oorsprong van de producten en de naleving van alle andere voorwaarden van dit Protocol.
-
-2. De douaneautoriteiten kunnen het verlenen van de status van toegelaten exporteur afhankelijk stellen van door hen noodzakelijk geachte voorwaarden.
-
-3. De douaneautoriteiten kennen de toegelaten exporteur een nummer toe, dat in de factuurverklaringen wordt vermeld.
-
-4. De douaneautoriteiten houden toezicht op het gebruik van de vergunning door de toegelaten exporteur.
-
-5. De douaneautoriteiten kunnen de vergunning steeds intrekken. Zij zijn verplicht dit te doen wanneer de toegelaten exporteur niet langer de in lid 1 bedoelde garanties biedt, niet langer aan de in lid 2 bedoelde voorwaarden voldoet of de vergunning niet op de juiste wijze gebruikt.
-
-##### Artikel 21. Geldigheid van het bewijs van de oorsprong
-
-1. Een bewijs van oorsprong is vier maanden geldig vanaf de datum van afgifte in het land van uitvoer. Het moet binnen deze periode worden ingediend bij de douaneautoriteiten van het land van invoer.
-
-2. Bewijzen van oorsprong die na het verstrijken van de in lid 1 genoemde termijn bij de douaneautoriteiten van het land van invoer worden ingediend, kunnen met het oog op de toepassing van de preferentiële behandeling worden aanvaard wanneer de verlate indiening het gevolg is van buitengewone omstandigheden.
-
-3. In andere gevallen van verlate indiening kunnen de douaneautoriteiten van het land van invoer de bewijzen van oorsprong aanvaarden indien de producten vóór het verstrijken van genoemde termijn bij hen zijn aangebracht.
-
-##### Artikel 22. Overlegging van het bewijs van de oorsprong
-
-Bewijzen van oorsprong worden bij de douaneautoriteiten van het land van invoer ingediend overeenkomstig de aldaar geldende procedures. Deze autoriteiten kunnen een vertaling van dit certificaat verlangen. Zij kunnen voorts eisen dat de aangifte ten invoer vergezeld gaat van een verklaring van de importeur dat de producten aan de voorwaarden voor de toepassing van deze Overeenkomst voldoen.
-
-##### Artikel 23. Invoer in deelzendingen
-
-Wanneer, op verzoek van de importeur en op de door de douaneautoriteiten van het land van invoer vastgestelde voorwaarden, gedemonteerde of niet-gemonteerde producten in de zin van algemene regel 2 a voor de interpretatie van het geharmoniseerd systeem, vallende onder de afdelingen XVI en XVII of de posten 7308 en 9406 van het geharmoniseerd systeem, in deelzendingen worden ingevoerd, wordt één enkel bewijs van oorsprong bij de douaneautoriteiten ingediend bij de invoer van de eerste deelzending.
-
-##### Artikel 24. Vrijstelling van bewijs van de oorsprong
-
-1. Producten die in kleine zendingen door particulieren aan particulieren worden verzonden of die deel uitmaken van de persoonlijke bagage van reizigers worden als producten van oorsprong toegelaten zonder dat het nodig is een formeel bewijs van oorsprong over te leggen, voorzover aan zulke producten ieder handelskarakter vreemd is en verklaard wordt dat zij aan de voorwaarden voor de toepassing van dit Protocol voldoen en er over de juistheid van een dergelijke verklaring geen twijfel bestaat. Voor postzendingen kan deze verklaring op het douaneaangifteformulier C2/CP3 of op een daaraan gehecht blad worden gesteld.
-
-2. Als invoer waaraan ieder handelskarakter vreemd is wordt beschouwd de invoer van incidentele aard van producten die uitsluitend bestemd zijn voor het persoonlijke gebruik van de geadresseerde, de reiziger of de leden van zijn gezin, voorzover noch de aard noch de hoeveelheid van de producten op commerciële doeleinden wijzen.
-
-3. Voorts mag de totale waarde van deze producten niet meer bedragen dan 500 euro voor kleine zendingen of 1200 euro voor producten die deel uitmaken van de persoonlijke bagage van reizigers.
-
-##### Artikel 25. Leveranciersverklaring
-
-1. Bij het opstellen van een bewijs van de oorsprong in Zuid-Afrika voor producten van oorsprong, bij de vervaardiging waarvan goederen uit de SACU zijn gebruikt en die daar be- of verwerkingen hebben ondergaan zonder het karakter van preferentiële oorsprong te hebben verkregen, wordt rekening gehouden met de leveranciersverklaringen die in overeenstemming met dit artikel voor deze goederen zijn afgegeven.
-
-2. De in lid 1 bedoelde leveranciersverklaring dient als bewijs van de be- of verwerkingen van de betrokken goederen in de SACU wanneer moet worden vastgesteld of de producten, bij de vervaardiging waarvan deze goederen zijn gebruikt, als van oorsprong uit Zuid-Afrika kunnen worden beschouwd en aan de andere eisen van dit Protocol voldoen.
-
-3. De leverancier stelt voor elke zending goederen, op een blad papier, een verklaring op, in de in Bijlage V weergegeven vorm, die aan de factuur, de pakbon of een ander handelsdocument wordt gehecht en waarin de goederen voldoende nauwkeurig zijn omschreven om geïdentificeerd te kunnen worden. De verklaring wordt opgesteld volgens het nationale recht van het land waar zij wordt opgesteld en wordt door de leverancier eigenhandig ondertekend.
-
-4. Zuid-Afrika verzoekt de bevoegde autoriteiten in de SACU de leveranciersverklaringen door middel van steekproeven te1)[Red: In het orgineel staat hier „de".]controleren en wanneer zij redenen hebben om te twijfelen aan de echtheid of juistheid van de verstrekte gegevens.
-
-5. Zuid-Afrika treft de nodige administratieve regelingen met de bevoegde autoriteiten in de SACU om te waarborgen dat het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=4&z=2016-03-01&g=2016-03-01) volledig wordt nageleefd.
-
-##### Artikel 26. Bewijsstukken
-
-De in [artikel 15, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=15&z=2016-03-01&g=2016-03-01), en [artikel 19, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=19&z=2016-03-01&g=2016-03-01), bedoelde documenten aan de hand waarvan wordt aangetoond dat producten die door een EUR.1-certificaat of een factuurverklaring worden gedekt producten van oorsprong zijn uit de Gemeenschap, uit Zuid-Afrika of uit een van de andere in lid 3 bedoelde landen en aan de andere voorwaarden van dit Protocol voldoen, kunnen onder meer de volgende zijn:
-
-- a. een rechtstreeks bewijs van de be- of verwerkingen die de exporteur of leverancier heeft verricht om de betrokken producten te verkrijgen, bij voorbeeld aan de hand van diens boekhouding of interne administratie;
-
-- b. documenten waaruit de oorsprong van de gebruikte materialen blijkt en die in de Gemeenschap, in Zuid-Afrika of in een van de andere in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2016-03-01&g=2016-03-01) bedoelde landen zijn afgegeven of opgesteld en daar volgens het nationale recht worden gebruikt;
-
-- c. documenten waaruit de be- of verwerking van materialen in de Gemeenschap of in Zuid-Afrika blijkt en die in de Gemeenschap of in Zuid-Afrika zijn afgegeven of opgesteld en daar volgens het nationale recht worden gebruikt;
-
-- d. EUR.1-certificaten of factuurverklaringen waaruit de oorsprong van de gebruikte materialen blijkt en die overeenkomstig dit Protocol in de Gemeenschap of in Zuid-Afrika zijn afgegeven of opgesteld, of die overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2016-03-01&g=2016-03-01) in een van de andere in dat artikel bedoelde landen zijn afgegeven of opgesteld;
-
-- e. leveranciersverklaringen waaruit de be- of verwerkingen blijken die de gebruikte materialen in de SACU hebben ondergaan overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=3&z=2016-03-01&g=2016-03-01).
-
-##### Artikel 27. Bewaring van oorsprongsbewijzen, leveranciersverklaringen en andere bewijsstukken
-
-1. De exporteur die om de afgifte van een EUR.1-certificaat verzoekt, bewaart de in [artikel 15, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=15&z=2016-03-01&g=2016-03-01), bedoelde bewijsstukken gedurende ten minste drie jaar.
-
-2. De exporteur die een factuurverklaring heeft opgesteld, bewaart een kopie van deze factuurverklaring en van de in [artikel 19, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=19&z=2016-03-01&g=2016-03-01), bedoelde documenten gedurende ten minste drie jaar.
-
-3. De leverancier die een leveranciersverklaring opstelt bewaart kopieën van zijn verklaring en van de factuur, de pakbon of het andere handelsdocument waaraan zijn verklaring was gehecht en alle andere documenten waaruit blijkt dat de verstrekte gegevens juist zijn gedurende ten minste drie jaar.
-
-4. De douaneautoriteiten van het land van uitvoer die een EUR.1-certificaat afgeven bewaren het in [artikel 15, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=IV&artikel=15&z=2016-03-01&g=2016-03-01), bedoelde aanvraagformulier gedurende ten minste drie jaar.
-
-5. De douaneautoriteiten van het land van invoer bewaren de EUR.1-certificaten en factuurverklaringen die bij hen werden ingediend gedurende ten minste drie jaar.
-
-##### Artikel 28. Verschillen en vormfouten
-
-1. Worden geringe verschillen vastgesteld tussen de gegevens in het bewijs van oorsprong en de gegevens in de documenten die in verband met de formaliteiten bij invoer bij het douanekantoor worden ingediend, dan is het bewijs van oorsprong daardoor niet automatisch ongeldig, indien blijkt dat het wel degelijk met de aangebrachte producten overeenstemt.
-
-2. Kennelijke vormfouten zoals typefouten op het bewijs van oorsprong maken dit document niet ongeldig, indien deze fouten niet van dien aard zijn dat zij twijfel doen rijzen over de juistheid van de in daarin vermelde gegevens.
-
-##### Artikel 29. In euro uitgedrukte bedragen
-
-1. Het land van uitvoer stelt de tegenwaarde vast in zijn nationale valuta van de in euro uitgedrukte bedragen en deelt deze via de Europese Commissie aan de landen van invoer mede.
-
-2. Indien deze bedragen hoger zijn dan de overeenkomstige door het land van invoer vastgestelde bedragen, worden ze door laatstgenoemd land aanvaard indien de producten gefactureerd zijn in de valuta van het land van uitvoer. Indien de producten gefactureerd zijn in de valuta van een andere lidstaat van de Gemeenschap, aanvaardt het land van invoer het door het betrokken land medegedeelde bedrag.
-
-3. De tegenwaarde van de euro in een nationale valuta is gelijk aan de tegenwaarde van de euro in die nationale valuta op de eerste werkdag van oktober 1999.
-
-4. De in euro uitgedrukte bedragen en de tegenwaarde daarvan in de nationale valuta van de lidstaten van de Gemeenschap en Zuid-Afrika worden op verzoek van de Gemeenschap of Zuid-Afrika door de Samenwerkingsraad herzien. Bij deze herziening ziet de Samenwerkingsraad erop toe dat geen enkel in nationale valuta uitgedrukt bedrag lager wordt. Voorts onderzoekt het Gemengd Comité of het wenselijk is de betreffende limieten in reële termen te handhaven. Het kan in dit verband besluiten de in euro uitgedrukte bedragen te wijzigen.
-
-## TITEL V. ADMINISTRATIEVE SAMENWERKING
-
-##### Artikel 30. Wederzijdse bijstand
-
-1. De douaneautoriteiten van de lidstaten van de Gemeenschap en van Zuid-Afrika doen elkaar, via de Europese Commissie, afdrukken toekomen van de stempels die in hun douanekantoren worden gebruikt bij de afgifte van EUR.1-certificaten, alsmede de adressen van de douaneautoriteiten die belast zijn met de controle van deze certificaten en de factuurverklaringen.
-
-2. Met het oog op de correcte toepassing van dit Protocol verlenen de Gemeenschap en Zuid-Afrika elkaar, via de bevoegde douane-instanties, bijstand bij de controle op de echtheid van de EUR.1-certificaten en de factuurverklaringen en de juistheid van de daarin vermelde gegevens.
-
-##### Artikel 31. Controle van oorsprongsbewijzen
-
-1. Bewijzen van oorsprong worden achteraf door middel van steekproeven gecontroleerd, alsmede wanneer de douaneautoriteiten van het land van invoer redenen hebben om te twijfelen aan de echtheid van deze documenten, de oorsprong van de betrokken producten of de naleving van de andere voorwaarden van dit Protocol.
-
-2. Met het oog op de toepassing van lid 1 zenden de douaneautoriteiten van het land van invoer het EUR.1-certificaat, de factuur, indien deze werd voorgelegd, de factuurverklaring of een kopie van deze documenten terug aan de douaneautoriteiten van het land van uitvoer, eventueel onder vermelding van de redenen waarom een onderzoek wordt aangevraagd. Zij verstrekken bij deze aanvraag om controle alle documenten en gegevens die het vermoeden hebben doen rijzen dat de gegevens op het bewijs van oorsprong onjuist zijn.
-
-3. De controle wordt verricht door de douaneautoriteiten van het land van uitvoer. Deze zijn in dit verband gerechtigd bewijsmateriaal op te vragen, de administratie van de exporteur in te zien en elke andere controle te verrichten die zij dienstig achten.
-
-4. Indien de douaneautoriteiten van het land van invoer besluiten de preferentiële behandeling niet toe te kennen zolang de uitslag van de controle niet bekend is, doen zij de importeur het voorstel de producten vrij te geven onder voorbehoud van de noodzakelijk geachte conservatoire maatregelen.
-
-5. De resultaten van de controle worden zo spoedig mogelijk medegedeeld aan de douaneautoriteiten die de controle hebben aangevraagd. In deze mededeling moet duidelijk worden aangegeven of de documenten al dan niet echt zijn, of de betrokken producten als producten van oorsprong uit de Gemeenschap of uit Zuid-Afrika beschouwd kunnen worden en of aan de andere voorwaarden van dit Protocol is voldaan.
-
-6. Indien bij gegronde twijfel binnen tien maanden na het verzoek om controle geen antwoord is ontvangen, of indien het antwoord niet voldoende gegevens bevat om de echtheid van het betrokken document of de werkelijke oorsprong van de producten vast te stellen, kennen de aanvragende douaneautoriteiten de preferentiële behandeling niet toe, behoudens buitengewone omstandigheden.
-
-##### Artikel 32. Regeling van geschillen
-
-1. Geschillen ten aanzien van de in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=V&artikel=31&z=2016-03-01&g=2016-03-01) bedoelde controles die niet onderling geregeld kunnen worden tussen de douaneautoriteiten die de controle hebben aangevraagd en de douaneautoriteiten die deze hebben moeten uitvoeren, en problemen in verband met de interpretatie van dit Protocol, worden aan de Samenwerkingsraad voorgelegd.
-
-2. In alle gevallen is de wetgeving van het land van invoer van toepassing op de regeling van geschillen tussen een importeur en de douaneautoriteiten van het land van invoer.
-
-##### Artikel 33. Sancties
-
-Tegen eenieder die een document met onjuiste gegevens opstelt of laat opstellen met het doel producten onder de preferentiële regeling te doen vallen, worden sancties getroffen.
-
-##### Artikel 34. Vrije zones
-
-1. De Gemeenschap en Zuid-Afrika nemen alle nodige maatregelen om te voorkomen dat producten die onder geleide van een bewijs van de oorsprong worden verhandeld en die tijdens het vervoer in een op hun grondgebied gelegen vrije zone verblijven, door andere goederen worden vervangen of andere behandelingen ondergaan dan die welke gebruikelijk zijn om ze in goede staat te bewaren.
-
-2. Wanneer producten van oorsprong uit de Gemeenschap of uit Zuid-Afrika die onder dekking van een bewijs van de oorsprong in een vrije zone zijn ingevoerd een be- of verwerking ondergaan, geven de autoriteiten, in afwijking van lid 1, op verzoek van de exporteur, een nieuw EUR.1-certificaat af mits deze be- of verwerking met de bepalingen van dit Protocol overeenstemt.
-
-## TITEL VI. CEUTA EN MELILLA
-
-##### Artikel 35. Toepassing van het Protocol
-
-1. De in artikel 2 gebruikte term „Gemeenschap” heeft geen betrekking op Ceuta en Melilla.
-
-2. Producten van oorsprong uit Zuid-Afrika die in Ceuta of Melilla worden ingevoerd vallen in elk opzicht onder dezelfde douaneregeling als de regeling die op grond van [Protocol 2 bij de Akte van Toetreding van het Koninkrijk Spanje en de Republiek Portugal tot de Europese Gemeenschappen](onbekend) van toepassing is op producten van oorsprong uit het douanegebied van de Gemeenschap. Zuid-Afrika past op onder de Overeenkomst vallende producten van oorsprong uit Ceuta en Melilla dezelfde regeling toe als op producten van oorsprong uit de Gemeenschap die uit de Gemeenschap worden ingevoerd.
-
-3. Bij toepassing van lid 2 op producten van oorsprong uit Ceuta en Melilla, is dit Protocol van overeenkomstige toepassing met inachtneming van de bijzondere voorwaarden van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=VI&artikel=36&z=2016-03-01&g=2016-03-01).
-
-##### Artikel 36. Bijzondere voorwaarden
-
-1. Mits zij rechtstreeks zijn vervoerd overeenkomstig het bepaalde in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=III&artikel=12&z=2016-03-01&g=2016-03-01), worden beschouwd als:
-
-- 1). producten van oorsprong uit Ceuta en Melilla:
-
-- a. geheel en al in Ceuta en Melilla verkregen producten;
-
-- b. in Ceuta en Melilla verkregen producten bij de vervaardiging waarvan andere dan de onder a bedoelde producten zijn gebruikt, voorzover:
-
-- i. deze producten be- of verwerkingen hebben ondergaan die toereikend zijn in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=5&z=2016-03-01&g=2016-03-01) van dit Protocol, of voorzover
-
-- ii. deze producten van oorsprong zijn uit Zuid-Afrika of de Gemeenschap in de zin van dit Protocol en zij be- of verwerkingen hebben ondergaan die meer omvatten dan de in [artikel 6, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=6&z=2016-03-01&g=2016-03-01), bedoelde ontoereikende be- of verwerkingen;
-
-- 2). producten van oorsprong uit Zuid-Afrika:
-
-- a. geheel en al in Zuid-Afrika verkregen producten;
-
-- b. in Zuid-Afrika verkregen producten, bij de vervaardiging waarvan andere dan de onder a) bedoelde producten zijn gebruikt, voorzover:
-
-- i. deze producten een be- of verwerking hebben ondergaan die toereikend is in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=5&z=2016-03-01&g=2016-03-01) van dit Protocol, of voorzover
-
-- ii. deze producten van oorsprong zijn uit Ceuta en Melilla of de Gemeenschap in de zin van dit Protocol en zij be- of verwerkingen hebben ondergaan die meer omvatten dan de in [artikel 6, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=II&artikel=6&z=2016-03-01&g=2016-03-01), omschreven ontoereikende be- of verwerkingen.
-
-2. Ceuta en Melilla worden als één enkel grondgebied beschouwd.
-
-3. De exporteur of zijn gemachtigde vertegenwoordiger vermeldt „Zuid-Afrika” en „Ceuta en Melilla” in vak 2 van het EUR.1-certificaat of op de factuurverklaring. Voor producten van oorsprong uit Ceuta en Melilla wordt dit bovendien vermeld in vak 4 van het EUR.1-certificaat of op de factuurverklaring.
-
-4. De Spaanse douaneautoriteiten zijn belast met de toepassing van dit Protocol in Ceuta en Melilla.
-
-## TITEL VII. SLOTBEPALINGEN
-
-##### Artikel 37. Wijziging van het Protocol
-
-Het Gemengd Comité kan besluiten de bepalingen van dit Protocol te wijzigen.
-
-##### Artikel 38. Tenuitvoerlegging van het Protocol
-
-De Gemeenschap en Zuid-Afrika nemen, ieder voor zich, de maatregelen die nodig zijn voor de tenuitvoerlegging van dit Protocol.
-
-##### Artikel 39. Goederen in doorvoer of in opslag
-
-De Overeenkomst kan worden toegepast op goederen die aan de bepalingen van dit Protocol voldoen en die op de datum van inwerkingtreding van de Overeenkomst onderweg zijn of die in de Gemeenschap of in Zuid-Afrika tijdelijk zijn opgeslagen of zich daar in een douane-entrepot of vrije zone bevinden, mits binnen vier maanden na die datum een EUR.1-certificaat bij de douaneautoriteiten van de Staat van invoer wordt ingediend dat achteraf door de bevoegde instanties van de Staat van uitvoer is opgesteld, tezamen met de documenten waaruit blijkt dat de goederen rechtstreeks zijn vervoerd.
-
-##### Artikel 1. Definities
-
-Voor de toepassing van dit protocol wordt verstaan onder:
-
-- a. „douanewetgeving”: de door de Gemeenschap of Zuid-Afrika aangenomen wettelijke of bestuursrechtelijke bepalingen betreffende de invoer, de uitvoer en de doorvoer van goederen en de plaatsing daarvan onder een andere douaneregeling of -procedure, met inbegrip van verbodsmaatregelen, beperkende maatregelen en controlemaatregelen;
-
-- b. „verzoekende autoriteit”: een bevoegde administratieve autoriteit die hiertoe door een Overeenkomstsluitende Partij aangewezen is en die op grond van dit protocol een verzoek om bijstand indient;
-
-- c. „aangezochte autoriteit”: een bevoegde administratieve autoriteit die hiertoe door een Overeenkomstsluitende Partij aangewezen is en die op grond van dit protocol een verzoek om bijstand ontvangt;
-
-- d. „persoonsgegevens”: alle informatie betreffende een geïdentificeerde of identificeerbare natuurlijke persoon;
-
-- e. „met de douanewetgeving strijdige handeling”: elke overtreding of poging tot overtreding van de douanewetgeving.
-
-##### Artikel 2. Draagwijdte
-
-1. De Overeenkomstsluitende Partijen verlenen elkaar bijstand op de gebieden die onder hun bevoegdheid vallen, op de wijze en onder de voorwaarden vastgesteld in dit protocol, teneinde de correcte toepassing van de douanewetgeving te waarborgen, inzonderheid met het oog op het voorkomen, opsporen en bestrijden van met de douanewetgeving strijdige handelingen.
-
-2. De bijstand in douanezaken waarin dit protocol voorziet, geldt voor elke administratieve autoriteit van de Overeenkomstsluitende Partijen die bevoegd is voor de toepassing van dit protocol. De bijstand in douanezaken doet geen afbreuk aan de regels betreffende de wederzijdse bijstand in strafzaken. Hij geldt ook niet voor informatie die is verkregen krachtens bevoegdheden die op verzoek van een rechterlijke autoriteit worden uitgeoefend, tenzij deze autoriteit instemt met de mededeling van dergelijke informatie.
-
-3. De bijstand inzake het innen van heffingen, belastingen en boetes valt niet onder dit protocol.
-
-##### Artikel 3. Bijstand op verzoek
-
-1. Op aanvraag van de verzoekende autoriteit verschaft de aangezochte autoriteit haar alle ter zake dienende informatie die zij nodig kan hebben om te waarborgen dat de douanewetgeving correct wordt toegepast, met inbegrip van informatie betreffende geconstateerde of voorgenomen daden die met de douanewetgeving strijdige handelingen vormen of zouden kunnen vormen.
-
-2. Op aanvraag van de verzoekende autoriteit deelt de aangezochte autoriteit haar mee of:
-
-- a. goederen die uit het grondgebied van een van de Overeenkomstsluitende Partijen zijn uitgevoerd, op regelmatige wijze op het grondgebied van de andere Partij zijn ingevoerd, in voorkomend geval onder vermelding van de douaneregeling waaronder deze goederen zijn geplaatst;
-
-- b. goederen die op het grondgebied van een van de Overeenkomstsluitende Partijen zijn ingevoerd, op regelmatige wijze uit het grondgebied van de andere Partij zijn uitgevoerd, in voorkomend geval onder vermelding van de op deze goederen toegepaste douaneregeling.
-
-3. Op aanvraag van de verzoekende autoriteit treft de aangezochte autoriteit in het kader van haar wettelijke of bestuursrechtelijke bepalingen de nodige maatregelen om ervoor te zorgen dat toezicht wordt uitgeoefend op:
-
-- a. natuurlijke personen of rechtspersonen van wie redelijkerwijs kan worden aangenomen dat zij met de douanewetgeving strijdige handelingen verrichten of hebben verricht;
-
-- b. plaatsen waar voorraden goederen op zodanige wijze zijn gevormd of kunnen worden gevormd dat redelijkerwijs kan worden aangenomen dat zij bedoeld zijn om te worden gebruikt bij met de douanewetgeving strijdige handelingen;
-
-- c. goederen die op zodanige wijze worden vervoerd of kunnen worden vervoerd dat redelijkerwijs kan worden aangenomen dat zij bedoeld zijn om te worden gebruikt bij met de douanewetgeving strijdige handelingen;
-
-- d. vervoermiddelen die op zodanige wijze worden gebruikt of kunnen worden gebruikt dat redelijkerwijs kan worden aangenomen dat zij bedoeld zijn om te worden gebruikt bij met de douanewetgeving strijdige handelingen.
-
-##### Artikel 4. Bijstand op eigen initiatief
-
-De Overeenkomstsluitende Partijen staan elkaar op eigen initiatief, overeenkomstig hun wettelijke of bestuursrechtelijke bepalingen, bij indien zij zulks noodzakelijk achten voor de correcte toepassing van de douanewetgeving, in het bijzonder door het verschaffen van informatie die zij verkrijgen omtrent:
-
-- –. daden die met de douanewetgeving strijdige handelingen zijn of hen hiermee strijdig lijken, en die van belang kunnen zijn voor de andere Overeenkomstsluitende Partij;
-
-- –. nieuwe middelen of methoden die worden gebruikt bij met de douanewetgeving strijdige handelingen;
-
-- –. goederen waarvan bekend is dat zij het voorwerp vormen van met de douanewetgeving strijdige handelingen;
-
-- –. natuurlijke personen of rechtspersonen van wie redelijkerwijs kan worden aangenomen dat zij betrokken zijn of zijn geweest bij met de douanewetgeving strijdige handelingen;
-
-- –. vervoermiddelen waarvan redelijkerwijs kan worden aangenomen dat zij voor het verrichten van met de douanewetgeving strijdige handelingen zijn gebruikt, worden gebruikt of kunnen worden gebruikt.
-
-##### Artikel 5. Afgifte van documenten/Kennisgeving van besluiten
-
-Op aanvraag van de verzoekende autoriteit neemt de aangezochte autoriteit, overeenkomstig de voor haar geldende wettelijke of bestuursrechtelijke bepalingen, alle nodige maatregelen voor:
-
-- –. de afgifte van alle documenten of
-
-- –. de kennisgeving van alle besluiten
-
-die van de verzoekende autoriteit uitgaan en waarop het bepaalde in dit protocol van toepassing is, aan een geadresseerde die op het grondgebied van de aangezochte autoriteit verblijft of gevestigd is.
-
-De verzoeken om afgifte van documenten en om kennisgeving van besluiten moeten schriftelijk worden ingediend in een officiële taal van de aangezochte autoriteit of in een voor deze autoriteit aanvaardbare taal.
-
-##### Artikel 6. Vorm en inhoud van verzoeken om bijstand
-
-1. Verzoeken in het kader van dit protocol worden schriftelijk gedaan. Zij gaan vergezeld van de bescheiden die voor de behandeling ervan dienstig worden geacht. In spoedeisende gevallen kunnen mondelinge verzoeken worden aanvaard, mits zij onmiddellijk schriftelijk worden bevestigd.
-
-2. De overeenkomstig lid 1 ingediende verzoeken bevatten de hierna volgende gegevens:
-
-- a. de naam van de verzoekende autoriteit;
-
-- b. de gevraagde maatregel;
-
-- c. het voorwerp en de reden van het verzoek;
-
-- d. de relevante wettelijke of bestuursrechtelijke bepalingen en andere rechtsvoorschriften;
-
-- e. zo nauwkeurig en volledig mogelijke informatie betreffende de natuurlijke personen of rechtspersonen waarop het onderzoek betrekking heeft;
-
-- f. een overzicht van de relevante feiten en het reeds verrichte onderzoek.
-
-3. De verzoeken worden gesteld in een officiële taal van de aangezochte autoriteit of in een voor deze autoriteit aanvaardbare taal. Dit vereiste is niet van toepassing op documenten die het in lid 1 bedoelde verzoek vergezellen.
-
-4. Indien een verzoek niet in de hierboven omschreven juiste vorm wordt gedaan, kan om correctie of aanvulling worden verzocht; inmiddels kunnen reeds conservatoire maatregelen worden genomen.
-
-##### Artikel 7. Behandeling van verzoeken
-
-1. De aangezochte autoriteit beantwoordt het verzoek om bijstand, binnen de grenzen van haar bevoegdheden en van haar middelen, als handelde zij voor eigen rekening of op verzoek van een andere autoriteit van dezelfde Overeenkomstsluitende Partij, door de informatie die haar reeds ter beschikking staat mee te delen en door het nodige onderzoek te verrichten of te doen verrichten. Deze bepaling is ook van toepassing op elke andere autoriteit tot welke de aangezochte autoriteit krachtens dit protocol het verzoek richt indien zij niet zelfstandig kan handelen.
-
-2. Aan verzoeken om bijstand wordt voldaan overeenkomstig de wettelijke of bestuursrechtelijke bepalingen van de aangezochte Overeenkomstsluitende Partij.
-
-3. Naar behoren gemachtigde ambtenaren van een Overeenkomstsluitende Partij kunnen, met instemming van de andere Overeenkomstsluitende Partij en onder de voorwaarden die laatstgenoemde stelt, in de kantoren van de aangezochte autoriteit of van een andere overeenkomstig lid 1 betrokken autoriteit aanwezig zijn en informatie verkrijgen die de verzoekende autoriteit ter uitvoering van het bepaalde in dit protocol nodig heeft met betrekking tot daden die met de douanewetgeving strijdige handelingen vormen dan wel kunnen vormen.
-
-4. Naar behoren gemachtigde ambtenaren van een Overeenkomstsluitende Partij kunnen, met instemming van de andere Overeenkomstsluitende Partij en onder de voorwaarden die laatstgenoemde stelt, aanwezig zijn bij onderzoek dat op het grondgebied van laatstgenoemde wordt verricht.
-
-##### Artikel 8. Vorm waarin de informatie dient te worden verstrekt
-
-1. De aangezochte autoriteit deelt de resultaten van het onderzoek schriftelijk mee aan de verzoekende autoriteit, samen met documenten, gewaarmerkte afschriften of andere ter zake dienende voorwerpen.
-
-2. Deze informatie kan worden meegedeeld met gebruikmaking van systemen voor automatische gegevensverwerking.
-
-3. De originelen van documenten worden slechts op verzoek toegezonden wanneer gewaarmerkte afschriften ontoereikend blijken. Deze originelen worden zo spoedig mogelijk geretourneerd.
-
-##### Artikel 9. Gevallen waarin geen bijstand behoeft te worden verleend
-
-1. De bijstand kan worden geweigerd of van het voldoen aan bepaalde voorwaarden of vereisten afhankelijk worden gesteld wanneer een Overeenkomstsluitende Partij van mening is dat het verlenen van bijstand in het kader van deze overeenkomst:
-
-- a. afbreuk kan doen aan de soevereiniteit van Zuid-Afrika of van een lidstaat die op grond van dit protocol om bijstand is verzocht; of
-
-- b. de openbare orde, de staatsveiligheid of andere wezenlijke belangen in gevaar kan brengen, met name in de gevallen bedoeld in [artikel 10, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&artikel=10&z=2016-03-01&g=2016-03-01); of
-
-- c. de schending inhoudt van een industrieel, een handels- of een beroepsgeheim.
-
-2. De aangezochte autoriteit kan de bijstand uitstellen op grond van het feit dat deze een onderzoek, een gerechtelijke vervolging of een lopende procedure zou storen. In dat geval raadpleegt de aangezochte autoriteit de verzoekende autoriteit om na te gaan of de bijstand kan worden verleend onder voorbehoud van regelingen of voorwaarden die de aangezochte autoriteit kan eisen.
-
-3. Wanneer de verzoekende autoriteit om een vorm van bijstand verzoekt die zij desgevraagd zelf niet zou kunnen verlenen, vermeldt zij dit in haar verzoek. Het is dan aan de aangezochte autoriteit om te bepalen hoe zij op een dergelijk verzoek zal reageren.
-
-4. In de in lid 1 en 2 bedoelde gevallen dienen het besluit van de aangezochte autoriteit en de redenen die het besluit ervoor verklaren, onverwijld aan de verzoekende autoriteit te worden meegedeeld.
-
-##### Artikel 10. Uitwisseling van informatie en vertrouwelijkheid
-
-1. Alle informatie die in welke vorm dan ook op grond van dit protocol wordt verstrekt, is vertrouwelijk of bestemd voor beperkte verspreiding, overeenkomstig de regels die bij elk van de Overeenkomstsluitende Partijen gelden. Zij valt onder de geheimhoudingsplicht en geniet de bescherming waarin wordt voorzien door de wetgeving terzake van de Overeenkomstsluitende Partij die de informatie heeft ontvangen, alsmede door de overeenkomstige bepalingen die op de communautaire instanties van toepassing zijn.
-
-2. Persoonsgegevens kunnen slechts worden uitgewisseld indien de Overeenkomstsluitende Partij die ze zou ontvangen, zich ertoe verbindt aan die gegevens een ten minste gelijkwaardige bescherming te verlenen als die welke toepasselijk is in de Overeenkomstsluitende Partij die ze zou verstrekken. Met het oog daarop verstrekken de Overeenkomstsluitende Partijen elkaar informatie over de door hen toegepaste normen, zo nodig met inbegrip van de rechtsnormen van de lidstaten van de Gemeenschap.
-
-3. Het gebruik van op grond van dit protocol verkregen informatie bij gerechtelijke of administratieve procedures die worden ingesteld ingevolge de vaststelling van handelingen die in strijd zijn met de douanewetgeving, wordt geacht plaats te vinden ter uitvoering van dit protocol. De Overeenkomstsluitende Partijen kunnen dan ook de overeenkomstig het bepaalde in dit protocol verkregen informatie en geraadpleegde bescheiden als bewijsmateriaal gebruiken in hun processen-verbaal, rapporten en getuigenverklaringen alsmede in gerechtelijke procedures en tenlasteleggingen. De bevoegde autoriteit die deze informatie heeft verstrekt of toegang tot de documenten heeft verschaft, wordt van dit gebruik in kennis gesteld.
-
-4. De verkregen informatie wordt uitsluitend voor de in dit protocol omschreven doeleinden gebruikt. Wanneer een Overeenkomstsluitende Partij dergelijke gegevens voor andere doeleinden wenst te gebruiken, dient zij de voorafgaande schriftelijke instemming te krijgen van de autoriteit die de informatie heeft verstrekt. Het gebruik van die informatie is dan onderworpen aan de door deze autoriteit opgelegde beperkingen.
-
-##### Artikel 11. Deskundigen en getuigen
-
-Een ambtenaar van een aangezochte autoriteit kan worden gemachtigd, binnen de grenzen van de hem verleende machtiging, als getuige of deskundige op te treden in gerechtelijke of administratieve procedures die betrekking hebben op aangelegenheden waarop dit protocol van toepassing is, en daarbij de voor deze procedures noodzakelijke voorwerpen, bescheiden of gewaarmerkte afschriften van bescheiden voor te leggen. In de convocatie dient uitdrukkelijk te worden vermeld voor welke gerechtelijke of administratieve instantie de betrokken ambtenaar moet verschijnen en over welk onderwerp en in welke functie of hoedanigheid de ambtenaar zal worden gehoord.
-
-##### Artikel 12. Kosten van de bijstand
-
-De Overeenkomstsluitende Partijen eisen van elkaar geen terugbetaling voor uitgaven die bij de toepassing van het bepaalde in dit protocol zijn gemaakt, met uitzondering, in voorkomend geval, van uitgaven voor deskundigen en getuigen, en uitgaven voor tolken en vertalers die niet in overheidsdienst zijn.
-
-##### Artikel 13. Uitvoering
-
-1. De uitvoering van dit protocol wordt toevertrouwd aan enerzijds de douaneautoriteiten van Zuid-Afrika, en anderzijds aan de bevoegde diensten van de Commissie van de Europese Gemeenschappen en, zo nodig, aan de douaneautoriteiten van de lidstaten. Deze instanties stellen alle praktische maatregelen en regelingen vast voor de toepassing van dit protocol, met inachtneming van de vigerende voorschriften op met name het gebied van de gegevensbescherming. Zij kunnen aan de bevoegde instanties wijzigingen voorstellen die volgens hen in dit protocol moeten worden aangebracht.
-
-2. De Overeenkomstsluitende Partijen plegen onderling overleg en stellen elkaar in kennis van alle uitvoeringsbepalingen die overeenkomstig dit protocol worden vastgesteld.
-
-##### Artikel 14. Andere overeenkomsten
-
-1. Rekening houdend met de respectieve bevoegdheden van de Europese Gemeenschap en van haar lidstaten, geldt voor de bepalingen van dit protocol dat zij:
-
-- –. geen gevolgen hebben voor de verplichtingen van de Overeenkomstsluitende Partijen op grond van andere internationale overeenkomsten of verdragen;
-
-- –. worden geacht een aanvulling te vormen op overeenkomsten betreffende wederzijdse bijstand die zijn of kunnen worden gesloten tussen afzonderlijke lidstaten Zuid-Afrika;
-
-- –. geen gevolgen hebben voor de communautaire bepalingen betreffende de uitwisseling, tussen de bevoegde diensten van de Commissie van de Europese Gemeenschappen en de douaneautoriteiten van de lidstaten, van eventueel voor de Gemeenschap van belang zijnde gegevens die verkregen zijn op de onder dit protocol vallende gebieden.
-
-2. Niettegenstaande de bepalingen van lid 1 hebben de bepalingen van dit protocol voorrang op de bepalingen van bilaterale overeenkomsten betreffende wederzijdse bijstand die zijn of kunnen worden gesloten tussen afzonderlijke lidstaten en Zuid-Afrika voorzover de bepalingen van laatstgenoemde overeenkomsten onverenigbaar zijn met die van dit protocol.
-
-3. Ten aanzien van vraagstukken in verband met de toepassing van dit protocol plegen de Overeenkomstsluitende Partijen overleg met elkaar om deze op te lossen in het kader van het krachtens [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBV0001476&titeldeel=VIII&artikel=97&z=2016-03-01&g=2016-03-01) van de overeenkomst opgerichte Samenwerkingsraad.
 
 GEDAAN te Pretoria de elfde oktober negentienhonderd negenennegentig.

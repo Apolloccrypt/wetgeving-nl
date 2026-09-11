@@ -1,46 +1,46 @@
 ---
-title: "Beleidsregel compensatie Zvw-budgethouders (inhouding werkgeverslasten Zvw-pgb)"
+title: "Beleidsregel van de Minister van Langdurige Zorg, Jeugd en Sport, van 7 juli 2026, kenmerk 4473372-1100592, houdende regels voor het compenseren van Zvw-budgethouders in verband met de inhouding van werkgeverslasten op het Zvw-pgb (Beleidsregel compensatie Zvw-budgethouders)"
+citeertitel: "Beleidsregel compensatie Zvw-budgethouders (inhouding werkgeverslasten Zvw-pgb)"
 identifier: "BWBR0052846"
 categorie: "Arbeidsrecht"
+soort: "beleidsregel"
 publicatiedatum: 2026-07-16
-laatste_update: 2026-07-18
+laatste_update: 2026-07-16
 status: geldig
+toestand: 2026-07-16
 bron: "https://wetten.overheid.nl/BWBR0052846"
+opgehaald: 2026-09-11
 ---
 
 # Beleidsregel van de Minister van Langdurige Zorg, Jeugd en Sport, van 7 juli 2026, kenmerk 4473372-1100592, houdende regels voor het compenseren van Zvw-budgethouders in verband met de inhouding van werkgeverslasten op het Zvw-pgb (Beleidsregel compensatie Zvw-budgethouders)
-
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
-- –. **minister:** Minister van Langdurige Zorg, Jeugd en Sport;
+- – *minister:* Minister van Langdurige Zorg, Jeugd en Sport;
 
-- –. **Sociale verzekeringsbank:** Sociale verzekeringsbank, bedoeld in [artikel 1, eerste lid, onderdeel d, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=1);
+- – *Sociale verzekeringsbank:* Sociale verzekeringsbank, bedoeld in [artikel 1, eerste lid, onderdeel d, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=1);
 
-- –. **werkgeverslasten:** premies voor de verzekeringen als bedoeld in [artikel 2, onderdeel c, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=2) en de bijdrage, bedoeld in [artikel 41 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=41);
+- – *werkgeverslasten:* premies voor de verzekeringen als bedoeld in [artikel 2, onderdeel c, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=2) en de bijdrage, bedoeld in [artikel 41 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=41);
 
-- –. **zorgverzekeraar:** zorgverzekeraar als bedoeld in [artikel 1, onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1);
+- – *zorgverzekeraar:* zorgverzekeraar als bedoeld in [artikel 1, onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1);
 
-- –. **Zvw-budgethouder:** verzekerde aan wie een Zvw-pgb is toegekend;
+- – *Zvw-budgethouder:* verzekerde aan wie een Zvw-pgb is toegekend;
 
-- –. **Zvw-pgb:** Zvw-pgb als bedoeld in [artikel 1, onderdeel k, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1).
+- – *Zvw-pgb:* Zvw-pgb als bedoeld in [artikel 1, onderdeel k, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1).
 
 ##### Artikel 2. Compensatie van in 2025 bekende budgethouders
 
 1. De minister stelt voor de jaren 2026 en 2027 aan een Zvw-budgethouder een bedrag ter beschikking ten behoeve van de werkgeverslasten indien:
 
-- a. de Zvw-budgethouder met een zorgverlener een arbeidsovereenkomst heeft gesloten die vóór 1 januari 2026 is ingegaan en na die datum is voortgezet;
+- a. de Zvw-budgethouder met een zorgverlener een arbeidsovereenkomst heeft gesloten die vóór 1 januari 2026 is ingegaan en na die datum is voortgezet;
 
-- b. de Zvw-budgethouder op 31 december 2025 gebruik maakte van de ondersteuning door de Sociale verzekeringsbank, bedoeld in [artikel 13a, achtste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=13a);
+- b. de Zvw-budgethouder op 31 december 2025 gebruik maakte van de ondersteuning door de Sociale verzekeringsbank, bedoeld in [artikel 13a, achtste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=13a);
 
-- c. de arbeidsverhouding tussen de Zvw-budgethouder en de zorgverlener op 31 december 2025 ingevolge [artikel 6, eerste lid, onderdeel c, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=6), [artikel 6, eerste lid, onderdeel c, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=6), [artikel 6, eerste lid, onderdeel c, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=6), [artikel 5, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=5) niet als dienstbetrekking werd beschouwd; en
+- c. de arbeidsverhouding tussen de Zvw-budgethouder en de zorgverlener op 31 december 2025 ingevolge [artikel 6, eerste lid, onderdeel c, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=6), [artikel 6, eerste lid, onderdeel c, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=6), [artikel 6, eerste lid, onderdeel c, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=6), [artikel 5, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=5) niet als dienstbetrekking werd beschouwd; en
 
-- d. de Sociale verzekeringsbank na 31 december 2025 werkgeverslasten heeft ingehouden alsof die arbeidsverhouding wel als dienstbetrekking wordt beschouwd.
+- d. de Sociale verzekeringsbank na 31 december 2025 werkgeverslasten heeft ingehouden alsof die arbeidsverhouding wel als dienstbetrekking wordt beschouwd.
 
 2. Bij het bepalen van de hoogte van het bedrag neemt de minister als uitgangspunt de over het voorgaande jaar ingediende declaraties.
 
@@ -50,9 +50,9 @@ In deze beleidsregel wordt verstaan onder:
 
 1. De minister stelt aan een Zvw-budgethouder een bedrag ter beschikking ten behoeve van de werkgeverslasten indien:
 
-- a. de Zvw-budgethouder met een zorgverlener een arbeidsovereenkomst heeft gesloten die vóór 1 januari 2026 is ingegaan en na die datum is voortgezet;
+- a. de Zvw-budgethouder met een zorgverlener een arbeidsovereenkomst heeft gesloten die vóór 1 januari 2026 is ingegaan en na die datum is voortgezet;
 
-- b. de Zvw-budgethouder zich na 31 december 2025 heeft aangemeld voor ondersteuning door de Sociale verzekeringsbank als bedoeld in [artikel 13a, achtste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=13a);
+- b. de Zvw-budgethouder zich na 31 december 2025 heeft aangemeld voor ondersteuning door de Sociale verzekeringsbank als bedoeld in [artikel 13a, achtste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=13a);
 
 - c. de arbeidsverhouding tussen de Zvw-budgethouder en de zorgverlener op de ingangsdatum van de arbeidsovereenkomst ingevolge [artikel 6, eerste lid, onderdeel c, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=6), [artikel 6, eerste lid, onderdeel c, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=6), [artikel 6, eerste lid, onderdeel c, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=6), [artikel 5, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=5) niet als dienstbetrekking werd beschouwd;
 

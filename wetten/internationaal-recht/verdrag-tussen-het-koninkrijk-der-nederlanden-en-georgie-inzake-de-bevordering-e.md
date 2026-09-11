@@ -1,52 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en Georgië inzake de bevordering en de wederzijdse bescherming van investeringen"
 identifier: "BWBV0001370"
-country: "nl"
-rank: "verdrag"
-publication_date: "1999-04-01"
-last_updated: "1999-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001370"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000263073"
-version_id: "10000271082"
-internal_id: "C10006989511"
-label_id: "10000263254"
-original_entry_into_force: "1999-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001370/1999-04-01/0"
-intitule_bron: "Trb.1998-60"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-02-11"
-intitule_published: "1998-03-03"
-intitule_in_force: "1999-04-20"
-intitule_status: "goed"
-original_publication: "Trb.1998-60"
-original_signed_date: "1999-02-11"
-original_published_date: "1998-03-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1998-60"
-entry_into_force_date: "1999-04-01"
-jci_1_3: "jci1.3:c:BWBV0001370&z=1999-04-01&g=1999-04-01"
-jci_1_0: "1.0:c:BWBV0001370&g=1999-04-01"
-citeertitel_status: "officieel"
-signed_date: "1999-02-11"
-entry_into_force: "1999-04-01"
+publicatiedatum: 1999-04-01
+laatste_update: 1999-04-01
+status: geldig
+toestand: 1999-04-01
+bron: "https://wetten.overheid.nl/BWBV0001370"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en Georgië inzake de bevordering en de wederzijdse bescherming van investeringen
 
-het Koninkrijk der Nederlanden
-
-en
-
-Georgië,
-
-hierna te noemen de Verdragsluitende Partijen,
-
-Geleid door de wens hun van oudsher bestaande vriendschapsbanden te versterken en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door de investeerders van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij betreft,
-
-In het besef dat overeenstemming omtrent de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is,
-
-Zijn het volgende overeengekomen:
+*het Koninkrijk der Nederlanden en Georgië, hierna te noemen de Verdragsluitende Partijen, Geleid door de wens hun van oudsher bestaande vriendschapsbanden te versterken en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door de investeerders van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij betreft, In het besef dat overeenstemming omtrent de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -54,29 +21,29 @@ Voor de toepassing van dit Verdrag:
 
 - a. wordt onder de term „investeringen" verstaan: alle soorten vermogensbestanddelen en in het bijzonder, doch niet uitsluitend:
 
-- i. roerende en onroerende zaken, alsmede alle andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
+   - i. roerende en onroerende zaken, alsmede alle andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
 
-- ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en gezamenlijke ondernemingen;
+   - ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en gezamenlijke ondernemingen;
 
-- iii. aanspraken op geld, op andere vermogensbestanddelen of op iedere prestatie die economische waarde heeft;
+   - iii. aanspraken op geld, op andere vermogensbestanddelen of op iedere prestatie die economische waarde heeft;
 
-- iv. rechten op het gebied van de intellectuele eigendom, technische werkwijzen, goodwill en know-how;
+   - iv. rechten op het gebied van de intellectuele eigendom, technische werkwijzen, goodwill en know-how;
 
-- v. rechten verleend krachtens het publiekrecht of bij overeenkomst, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen;
+   - v. rechten verleend krachtens het publiekrecht of bij overeenkomst, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen;
 
 - b. omvat de term „investeerder":
 
-- i. met betrekking tot het Koninkrijk der Nederlanden: natuurlijke personen die de Nederlandse nationaliteit hebben; met betrekking tot Georgië: natuurlijke personen die staatsburger van Georgië zijn;
+   - i. met betrekking tot het Koninkrijk der Nederlanden: natuurlijke personen die de Nederlandse nationaliteit hebben; met betrekking tot Georgië: natuurlijke personen die staatsburger van Georgië zijn;
 
-- ii. met betrekking tot elk van beide Verdragsluitende Partijen: rechtspersonen die zijn opgericht krachtens het recht van die Verdragsluitende Partij;
+   - ii. met betrekking tot elk van beide Verdragsluitende Partijen: rechtspersonen die zijn opgericht krachtens het recht van die Verdragsluitende Partij;
 
-- iii. met betrekking tot elk van beide Verdragsluitende Partijen: rechtspersonen die niet zijn opgericht krachtens het recht van die Verdragsluitende Partij, maar die onder al dan niet rechtstreeks toezicht staan van natuurlijke personen zoals omschreven onder i. of van rechtspersonen zoals omschreven onder ii.;
+   - iii. met betrekking tot elk van beide Verdragsluitende Partijen: rechtspersonen die niet zijn opgericht krachtens het recht van die Verdragsluitende Partij, maar die onder al dan niet rechtstreeks toezicht staan van natuurlijke personen zoals omschreven onder i. of van rechtspersonen zoals omschreven onder ii.;
 
 - c. wordt onder de term „grondgebied" verstaan:
 
-- i. met betrekking tot Georgië, het gehele grondgebied binnen de staatsgrenzen van Georgië, met inbegrip van de nationale wateren en de territoriale zee, de exclusieve economische zone en het continentaal plat waarover Georgië overeenkomstig het internationale recht en zijn nationale wetgeving rechtsmacht of soevereine rechten uitoefent;
+   - i. met betrekking tot Georgië, het gehele grondgebied binnen de staatsgrenzen van Georgië, met inbegrip van de nationale wateren en de territoriale zee, de exclusieve economische zone en het continentaal plat waarover Georgië overeenkomstig het internationale recht en zijn nationale wetgeving rechtsmacht of soevereine rechten uitoefent;
 
-- ii. met betrekking tot het Koninkrijk der Nederlanden, mede alle aan de territoriale zee grenzende gebieden die krachtens het recht van het Koninkrijk en overeenkomstig het internationale recht tot de exclusieve economische zone of het continentaal plat van het Koninkrijk behoren, en waarin het rechtsmacht of soevereine rechten uitoefent.
+   - ii. met betrekking tot het Koninkrijk der Nederlanden, mede alle aan de territoriale zee grenzende gebieden die krachtens het recht van het Koninkrijk en overeenkomstig het internationale recht tot de exclusieve economische zone of het continentaal plat van het Koninkrijk behoren, en waarin het rechtsmacht of soevereine rechten uitoefent.
 
 ##### Artikel 2
 
@@ -114,9 +81,9 @@ De Verdragsluitende Partijen waarborgen dat betalingen die verband houden met ee
 
 - b. gelden nodig
 
-- i. voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindprodukten, of
+   - i. voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindprodukten, of
 
-- ii. om kapitaalgoederen te vervangen ten einde de continuïteit van een investering te waarborgen;
+   - ii. om kapitaalgoederen te vervangen ten einde de continuïteit van een investering te waarborgen;
 
 - c. bijkomende gelden nodig voor de ontwikkeling van een investering;
 
@@ -198,10 +165,10 @@ TEN BLIJKE WAARVAN de ondertekenende vertegenwoordigers, daartoe naar behoren ge
 
 GEDAAN in tweevoud te Tbilisi op 3 februari 1998, in de Nederlandse, de Georgische en de Engelse taal, zijnde de drie teksten gelijkelijk authentiek. In geval van verschil in uitlegging is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 (w.g.) J. P. PRONK
 
-**Voor Georgië,**
+*Voor Georgië,*
 
 (w.g.) I. MENAGARISHVILI

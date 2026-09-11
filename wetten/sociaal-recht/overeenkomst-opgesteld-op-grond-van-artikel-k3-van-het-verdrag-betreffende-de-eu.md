@@ -1,67 +1,29 @@
 ---
 title: "Overeenkomst opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie inzake wederzijdse bijstand en samenwerking tussen de douane-administraties"
 identifier: "BWBV0001559"
-country: "nl"
-rank: "verdrag"
-publication_date: "2009-06-23"
-last_updated: "2001-05-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001559"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10001543203"
-version_id: "10001631722"
-internal_id: "C10006990431"
-label_id: "10001543704"
-dtd_version: "2.0"
-original_entry_into_force: "2009-06-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001559/2009-06-23/0"
-intitule_bron: "Trb.1998-174"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-11-28"
-intitule_published: "1998-07-10"
-intitule_in_force: "2009-06-22"
-intitule_status: "goed"
-original_publication: "Trb.1998-174"
-original_signed_date: "2002-11-28"
-original_published_date: "1998-07-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1998-174"
-entry_into_force_date: "2009-06-23"
-jci_1_3: "jci1.3:c:BWBV0001559&z=2009-06-23&g=2009-06-23"
-jci_1_0: "1.0:c:BWBV0001559&g=2009-06-23"
-citeertitel_status: "redactioneel"
-signed_date: "2002-11-28"
-entry_into_force: "2009-06-23"
+publicatiedatum: 2009-06-23
+laatste_update: 2009-06-23
+status: geldig
+toestand: 2009-06-23
+bron: "https://wetten.overheid.nl/BWBV0001559"
+opgehaald: 2026-09-11
 ---
+
 # Overeenkomst opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie inzake wederzijdse bijstand en samenwerking tussen de douane-administraties
 
-De Hoge Overeenkomstsluitende Partijen, lidstaten van de Europese Unie,
+*De Hoge Overeenkomstsluitende Partijen, lidstaten van de Europese Unie, Verwijzend naar de akte van de Raad van de Europese Unie van 18 december 1997, Memorerend dat de verplichtingen in de overeenkomst inzake wederzijdse bijstand tussen de onderscheiden douane-administraties, ondertekend te Rome op 7 september 1967, moeten worden versterkt, Overwegende dat de douane-administraties op het douanegebied van de Gemeenschap, met name op de plaats van binnenkomst en de plaats van vertrek, verantwoordelijk zijn voor de voorkoming, de opsporing en de bestrijding van inbreuken, niet alleen op communautaire regelingen, maar ook op nationale wetten, in het bijzonder in de gevallen als bedoeld in de artikelen 36 en 223 van het Verdrag tot oprichting van de Europese Gemeenschap, Overwegende dat de zich steeds verder ontwikkelende illegale handel van allerlei aard een ernstige bedreiging van de volksgezondheid, openbare zedelijkheid en openbare veiligheid vormt, Overwegende dat er regels moeten worden opgesteld voor de bijzondere samenwerkingsvormen die grensoverschrijdende acties meebrengen ter voorkoming, opsporing en bestrijding van bepaalde inbreuken op zowel de nationale wetgeving van de lidstaten als de communautaire douaneregelgeving; dat dergelijke grensoverschrijdende acties steeds moeten worden uitgevoerd met inachtneming van het legaliteitsbeginsel (dat wil zeggen overeenkomstig het toepasselijke recht van de aangezochte lidstaat en de richtsnoeren van de bevoegde autoriteiten van die lidstaat), het subsidiariteitsbeginsel (dergelijke acties mogen slechts worden gevoerd wanneer andere vormen van actie met minder verstrekkende gevolgen niet geschikt blijken te zijn) en het evenredigheidsbeginsel (bij de vaststelling van de omvang en de duur van de actie moet worden uitgegaan van de ernst van de vermoedelijke inbreuk); Ervan overtuigd dat het noodzakelijk is om de samenwerking tussen douane-administraties te versterken door procedures vast te leggen in het kader waarvan douane-administraties gezamenlijk kunnen optreden en gegevens over illegale handelsactiviteiten kunnen uitwisselen; Indachtig dat het tot de dagelijkse werkzaamheden van de douane-administraties behoort om zowel communautaire als nationale bepalingen toe te passen en dat er dientengevolge een onmiskenbare noodzaak bestaat om te garanderen dat de bepalingen betreffende wederzijdse bijstand en samenwerking in beide sectoren zich zoveel mogelijk parallel ontwikkelen, Hebben overeenstemming bereikt omtrent de volgende bepalingen:*
 
-Verwijzend naar de akte van de Raad van de Europese Unie van 18 december 1997,
-
-Memorerend dat de verplichtingen in de overeenkomst inzake wederzijdse bijstand tussen de onderscheiden douane-administraties, ondertekend te Rome op 7 september 1967, moeten worden versterkt,
-
-Overwegende dat de douane-administraties op het douanegebied van de Gemeenschap, met name op de plaats van binnenkomst en de plaats van vertrek, verantwoordelijk zijn voor de voorkoming, de opsporing en de bestrijding van inbreuken, niet alleen op communautaire regelingen, maar ook op nationale wetten, in het bijzonder in de gevallen als bedoeld in de artikelen 36 en 223 van het Verdrag tot oprichting van de Europese Gemeenschap,
-
-Overwegende dat de zich steeds verder ontwikkelende illegale handel van allerlei aard een ernstige bedreiging van de volksgezondheid, openbare zedelijkheid en openbare veiligheid vormt,
-
-Overwegende dat er regels moeten worden opgesteld voor de bijzondere samenwerkingsvormen die grensoverschrijdende acties meebrengen ter voorkoming, opsporing en bestrijding van bepaalde inbreuken op zowel de nationale wetgeving van de lidstaten als de communautaire douaneregelgeving; dat dergelijke grensoverschrijdende acties steeds moeten worden uitgevoerd met inachtneming van het legaliteitsbeginsel (dat wil zeggen overeenkomstig het toepasselijke recht van de aangezochte lidstaat en de richtsnoeren van de bevoegde autoriteiten van die lidstaat), het subsidiariteitsbeginsel (dergelijke acties mogen slechts worden gevoerd wanneer andere vormen van actie met minder verstrekkende gevolgen niet geschikt blijken te zijn) en het evenredigheidsbeginsel (bij de vaststelling van de omvang en de duur van de actie moet worden uitgegaan van de ernst van de vermoedelijke inbreuk);
-
-Ervan overtuigd dat het noodzakelijk is om de samenwerking tussen douane-administraties te versterken door procedures vast te leggen in het kader waarvan douane-administraties gezamenlijk kunnen optreden en gegevens over illegale handelsactiviteiten kunnen uitwisselen;
-
-Indachtig dat het tot de dagelijkse werkzaamheden van de douane-administraties behoort om zowel communautaire als nationale bepalingen toe te passen en dat er dientengevolge een onmiskenbare noodzaak bestaat om te garanderen dat de bepalingen betreffende wederzijdse bijstand en samenwerking in beide sectoren zich zoveel mogelijk parallel ontwikkelen,
-
-Hebben overeenstemming bereikt omtrent de volgende bepalingen:
-
-## TITEL I. ALGEMENE BEPALINGEN
+### TITEL I. ALGEMENE BEPALINGEN
 
 ##### Artikel 1. Toepassingsgebied
 
 1. Onverminderd de bevoegdheden van de Gemeenschap verlenen de lidstaten van de Europese Unie elkaar wederzijds bijstand en werken zij samen via hun douane-administraties, om
 
-- –. inbreuken op nationale douanevoorschriften te voorkomen en op te sporen, en
+- – inbreuken op nationale douanevoorschriften te voorkomen en op te sporen, en
 
-- –. inbreuken op communautaire en nationale douanevoorschriften te vervolgen en te bestraffen.
+- – inbreuken op communautaire en nationale douanevoorschriften te vervolgen en te bestraffen.
 
 2. Onverminderd artikel 3 doet deze overeenkomst geen afbreuk aan toepasselijke bepalingen inzake wederzijdse rechtshulp in strafzaken tussen justitiële autoriteiten, of aan verdergaande bepalingen van bilaterale of multilaterale overeenkomsten tussen lidstaten aangaande samenwerking tussen de douane-autoriteiten of andere bevoegde autoriteiten van de lidstaten, zoals voorzien in lid 1, alsmede van regelingen die op hetzelfde gebied zijn overeengekomen op basis van een uniforme wetgeving of van specifieke regelingen die in wederkerige toepassing van wederzijdse bijstand voorzien.
 
@@ -81,25 +43,25 @@ In deze overeenkomst wordt verstaan onder:
 
 - 1. „nationale douanevoorschriften”: de wettelijke en bestuursrechtelijke bepalingen van een lidstaat ter uitvoering waarvan de douane-administratie van deze lidstaat geheel of gedeeltelijk bevoegdheid bezit, met betrekking tot:
 
-- –. het grensoverschrijdende verkeer van goederen die zijn onderworpen aan verboden, beperkingen of controlemaatregelen, in het bijzonder de maatregelen als bedoeld in de artikelen 36 en 223 van het Verdrag tot oprichting van de Europese Gemeenschap;
+   - – het grensoverschrijdende verkeer van goederen die zijn onderworpen aan verboden, beperkingen of controlemaatregelen, in het bijzonder de maatregelen als bedoeld in de artikelen 36 en 223 van het Verdrag tot oprichting van de Europese Gemeenschap;
 
-- –. niet-geharmoniseerde accijnzen.
+   - – niet-geharmoniseerde accijnzen.
 
 - 2. „communautaire douanevoorschriften”:
 
-- –. alle bepalingen van communautaire aard en alle bepalingen voor de toepassing van de communautaire voorschriften in verband met de invoer, de uitvoer, de doorvoer en de aanwezigheid van goederen waarin wordt gehandeld tussen de lidstaten en derde landen alsmede tussen de lidstaten onderling voor wat betreft goederen die niet de status van communautaire goederen in de zin van artikel 9, lid 2, van het Verdrag tot oprichting van de Europese Gemeenschap bezitten of die ter verkrijging van deze status aanvullende controles en onderzoeken dienen te ondergaan;
+   - – alle bepalingen van communautaire aard en alle bepalingen voor de toepassing van de communautaire voorschriften in verband met de invoer, de uitvoer, de doorvoer en de aanwezigheid van goederen waarin wordt gehandeld tussen de lidstaten en derde landen alsmede tussen de lidstaten onderling voor wat betreft goederen die niet de status van communautaire goederen in de zin van artikel 9, lid 2, van het Verdrag tot oprichting van de Europese Gemeenschap bezitten of die ter verkrijging van deze status aanvullende controles en onderzoeken dienen te ondergaan;
 
-- –. alle bepalingen die op communautair niveau zijn vastgesteld in het kader van het gemeenschappelijk landbouwbeleid en de specifieke voorschriften die ten aanzien van door verwerking van landbouwproducten verkregen goederen zijn vastgesteld;
+   - – alle bepalingen die op communautair niveau zijn vastgesteld in het kader van het gemeenschappelijk landbouwbeleid en de specifieke voorschriften die ten aanzien van door verwerking van landbouwproducten verkregen goederen zijn vastgesteld;
 
-- –. alle bepalingen die op communautair niveau zijn vastgesteld ter zake van geharmoniseerde accijnzen en ter zake van BTW op de invoer, alsmede de nationale bepalingen tot uitvoering daarvan;
+   - – alle bepalingen die op communautair niveau zijn vastgesteld ter zake van geharmoniseerde accijnzen en ter zake van BTW op de invoer, alsmede de nationale bepalingen tot uitvoering daarvan;
 
 - 3. „inbreuken”: handelingen in strijd met de nationale dan wel communautaire douanevoorschriften, welke mede omvatten:
 
-- –. de deelneming aan of de poging tot het begaan van dergelijke inbreuken;
+   - – de deelneming aan of de poging tot het begaan van dergelijke inbreuken;
 
-- –. de deelneming aan een criminele organisatie die dergelijke inbreuken begaat;
+   - – de deelneming aan een criminele organisatie die dergelijke inbreuken begaat;
 
-- –. het witwassen van geld dat afkomstig is van de in dit punt vermelde inbreuken;
+   - – het witwassen van geld dat afkomstig is van de in dit punt vermelde inbreuken;
 
 - 4. „wederzijdse bijstand”: het verlenen van bijstand tussen douane-administraties als bepaald in deze overeenkomst;
 
@@ -147,7 +109,7 @@ In deze overeenkomst wordt verstaan onder:
 
 Behoudens andersluidende bepalingen in deze overeenkomst dienen de functionarissen van de verzoekende autoriteit die in een andere lidstaat aanwezig zijn om de uit deze overeenkomst voortvloeiende rechten uit te oefenen, te allen tijde een schriftelijke opdracht te kunnen overleggen waarin hun identiteit en hun officiële functie zijn aangegeven.
 
-## TITEL II. BIJSTAND OP VERZOEK
+### TITEL II. BIJSTAND OP VERZOEK
 
 ##### Artikel 8. Beginselen
 
@@ -211,7 +173,7 @@ De aangezochte autoriteit deelt de resultaten van het onderzoek mee aan de verzo
 
 De bevoegde autoriteiten van de lidstaat waar de verzoekende autoriteit gevestigd is, kunnen de vaststellingen, bevindingen, informatie, documenten, voor eensluidend gewaarmerkte afschriften en overige documenten die, overeenkomstig hun nationaal recht, door functionarissen van de aangezochte autoriteit in de in de artikelen 10 tot en met 12 bedoelde gevallen van bijstand worden verkregen en aan de verzoekende autoriteit worden toegezonden, als bewijsmiddel gebruiken overeenkomstig de nationale wetgeving.
 
-## TITEL III. BIJSTAND OP EIGEN INITIATIEF
+### TITEL III. BIJSTAND OP EIGEN INITIATIEF
 
 ##### Artikel 15. Beginsel
 
@@ -233,7 +195,7 @@ De bevoegde autoriteiten van iedere lidstaat zenden de bevoegde autoriteiten van
 
 De door functionarissen van een lidstaat verkregen gegevens over toezicht en inlichtingen die aan een andere lidstaat worden doorgezonden in de gevallen van bijstand op eigen initiatief als bedoeld in de artikelen 15 tot en met 17, kunnen door de bevoegde instanties van de ontvangende lidstaat overeenkomstig het nationale recht als bewijsmiddel worden gebruikt.
 
-## TITEL IV. BIJZONDERE VORMEN VAN SAMENWERKING
+### TITEL IV. BIJZONDERE VORMEN VAN SAMENWERKING
 
 ##### Artikel 19. Beginselen
 
@@ -385,9 +347,9 @@ De bevoegde autoriteiten nemen, om onderbrekingen in het toezicht te voorkomen, 
 
 Het gemeenschappelijk bijzonder onderzoeksteam heeft de volgende taken:
 
-- –. het voeren van moeilijke onderzoeken betreffende specifieke inbreuken die aanzienlijke middelen vereisen om concrete inbreuken op te sporen en waarvoor een gelijktijdig, gecoördineerd optreden in de betrokken lidstaten vereist is;
+- – het voeren van moeilijke onderzoeken betreffende specifieke inbreuken die aanzienlijke middelen vereisen om concrete inbreuken op te sporen en waarvoor een gelijktijdig, gecoördineerd optreden in de betrokken lidstaten vereist is;
 
-- –. het coördineren van gemeenschappelijke acties om bepaalde soorten inbreuken te voorkomen of op te sporen en informatie te verzamelen over de betrokkenen, hun omgeving en werkwijze.
+- – het coördineren van gemeenschappelijke acties om bepaalde soorten inbreuken te voorkomen of op te sporen en informatie te verzamelen over de betrokkenen, hun omgeving en werkwijze.
 
 2. De gemeenschappelijke bijzondere onderzoeksteams moeten aan de volgende algemene voorwaarden voldoen:
 
@@ -401,7 +363,7 @@ Het gemeenschappelijk bijzonder onderzoeksteam heeft de volgende taken:
 
 3. Deelname aan het team verleent de betrokken functionarissen geen operationele bevoegdheid op het grondgebied van een andere lidstaat.
 
-## TITEL V. GEGEVENSBESCHERMING
+### TITEL V. GEGEVENSBESCHERMING
 
 ##### Artikel 25. Gegevensbescherming bij gegevensuitwisseling
 
@@ -427,9 +389,9 @@ Het gemeenschappelijk bijzonder onderzoeksteam heeft de volgende taken:
 
 - i. Elke lidstaat neemt passende maatregelen om er door middel van doeltreffende controles voor te zorgen dat het bepaalde in dit artikel wordt nageleefd. Iedere lidstaat kan deze controle delegeren aan de nationale controleautoriteiten als bedoeld in artikel 17 van de overeenkomst inzake het gebruik van informatica op douanegebied.
 
-3. Voor de toepassing van dit artikel wordt de zinsnede „de verwerking van persoonsgegevens” opgevat in de zin van de definitie in artikel 2, onder b), van [Richtlijn 95/46/EG](31995L0046) van het Europees Parlement en de Raad van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens1)PB L 281 van 23.11.1995, blz. 31..
+3. Voor de toepassing van dit artikel wordt de zinsnede „de verwerking van persoonsgegevens” opgevat in de zin van de definitie in artikel 2, onder b), van Richtlijn 95/46/EG van het Europees Parlement en de Raad van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens1)PB L 281 van 23.11.1995, blz. 31..
 
-## TITEL VI. UITLEGGING VAN DE OVEREENKOMST
+### TITEL VI. UITLEGGING VAN DE OVEREENKOMST
 
 ##### Artikel 26. Hof van Justitie
 
@@ -453,7 +415,7 @@ Het gemeenschappelijk bijzonder onderzoeksteam heeft de volgende taken:
 
 8. Het Hof van Justitie is niet bevoegd om de geldigheid of de evenredigheid na te gaan van operaties die in een lidstaat zijn uitgevoerd door de in het kader van deze overeenkomst bevoegde wetshandhavingsinstanties noch om een uitspraak te doen over de uitoefening van de verantwoordelijkheden van de lidstaten ten aanzien van de handhaving van de openbare orde en de bescherming van de binnenlandse veiligheid.
 
-## TITEL VII. TOEPASSING EN SLOTBEPALINGEN
+### TITEL VII. TOEPASSING EN SLOTBEPALINGEN
 
 ##### Artikel 27. Vertrouwelijkheid
 

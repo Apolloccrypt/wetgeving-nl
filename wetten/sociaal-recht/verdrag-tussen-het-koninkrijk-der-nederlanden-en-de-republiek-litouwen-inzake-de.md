@@ -1,56 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Litouwen inzake de wederzijdse administratieve bijstand ten behoeve van de juiste toepassing van de douanewetgeving en de voorkoming, opsporing en bestrijding van inbreuken op de douanewetgeving"
 identifier: "BWBV0001407"
-country: "nl"
-rank: "verdrag"
-publication_date: "2000-12-01"
-last_updated: "2000-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001407"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10000424973"
-version_id: "10000433372"
-internal_id: "C10006989831"
-label_id: "10000425474"
-original_entry_into_force: "2000-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001407/2000-12-01/0"
-intitule_bron: "Trb.1999-18"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-07-16"
-intitule_published: "1999-01-22"
-intitule_in_force: "2000-12-01"
-intitule_status: "goed"
-original_publication: "Trb.1999-18"
-original_signed_date: "1999-07-16"
-original_published_date: "1999-01-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1999-18"
-entry_into_force_date: "2000-12-01"
-jci_1_3: "jci1.3:c:BWBV0001407&z=2000-12-01&g=2000-12-01"
-jci_1_0: "1.0:c:BWBV0001407&g=2000-12-01"
-citeertitel_status: "officieel"
-signed_date: "1999-07-16"
-entry_into_force: "2000-12-01"
+publicatiedatum: 2000-12-01
+laatste_update: 2000-12-01
+status: geldig
+toestand: 2000-12-01
+bron: "https://wetten.overheid.nl/BWBV0001407"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Litouwen inzake de wederzijdse administratieve bijstand ten behoeve van de juiste toepassing van de douanewetgeving en de voorkoming, opsporing en bestrijding van inbreuken op de douanewetgeving
 
-Het Koninkrijk der Nederlanden en de Republiek Litouwen, hierna te noemen de Verdragsluitende Partijen,
-
-Overwegende dat inbreuken op de douanewetgeving hun economische, fiscale, sociale en culturele belangen en hun handelsbelangen schaden;
-
-Gelet op het belang van een juiste vaststelling van de douanerechten en andere belastingen die bij invoer of uitvoer worden geïnd en van het waarborgen van een juiste handhaving van verboden, beperkingen en controlemaatregelen;
-
-Erkennende de noodzaak van internationale samenwerking ter zake van aangelegenheden die verband houden met de toepassing en handhaving van hun douanewetgeving;
-
-Overwegende dat de grensoverschrijdende handel in verdovende middelen en psychotrope stoffen een bijzonder gevaar voor de volksgezondheid en de samenleving vormt;
-
-Ervan overtuigd dat het optreden tegen inbreuken op de douanewetgeving doeltreffender kan worden door middel van nauwe samenwerking tussen hun douane-administraties op basis van duidelijke wettelijke bepalingen;
-
-Gelet op de van belang zijnde instrumenten van de Internationale Douaneraad, in het bijzonder de Aanbeveling inzake wederzijdse administratieve bijstand van 5 december 1953;
-
-Tevens gelet op verdragen die verboden, beperkingen en bijzondere controlemaatregelen met betrekking tot bepaalde goederen bevatten en waarbij de Verdragsluitende Partijen partij zijn;
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Republiek Litouwen, hierna te noemen de Verdragsluitende Partijen, Overwegende dat inbreuken op de douanewetgeving hun economische, fiscale, sociale en culturele belangen en hun handelsbelangen schaden; Gelet op het belang van een juiste vaststelling van de douanerechten en andere belastingen die bij invoer of uitvoer worden geïnd en van het waarborgen van een juiste handhaving van verboden, beperkingen en controlemaatregelen; Erkennende de noodzaak van internationale samenwerking ter zake van aangelegenheden die verband houden met de toepassing en handhaving van hun douanewetgeving; Overwegende dat de grensoverschrijdende handel in verdovende middelen en psychotrope stoffen een bijzonder gevaar voor de volksgezondheid en de samenleving vormt; Ervan overtuigd dat het optreden tegen inbreuken op de douanewetgeving doeltreffender kan worden door middel van nauwe samenwerking tussen hun douane-administraties op basis van duidelijke wettelijke bepalingen; Gelet op de van belang zijnde instrumenten van de Internationale Douaneraad, in het bijzonder de Aanbeveling inzake wederzijdse administratieve bijstand van 5 december 1953; Tevens gelet op verdragen die verboden, beperkingen en bijzondere controlemaatregelen met betrekking tot bepaalde goederen bevatten en waarbij de Verdragsluitende Partijen partij zijn; Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. BEGRIPSOMSCHRIJVINGEN
 
@@ -274,50 +237,14 @@ Dit Verdrag treedt in werking op de eerste dag van de tweede maand nadat de Verd
 
 3. Tenzij anders overeengekomen, wordt door de beëindiging van dit Verdrag niet tegelijkertijd de toepassing daarvan op de Nederlandse Antillen en/of Aruba beëindigd, indien het daartoe is uitgebreid overeenkomstig de bepalingen van artikel 19, tweede lid.
 
-##### 1
-
-Uit hoofde van dit Verdrag uitgewisselde persoonsgegevens mogen slechts voor de aangegeven doeleinden worden gebruikt en conform de voorwaarden die de douane-administratie die de gegevens verstrekt, daaraan verbindt.
-
-##### 2
-
-De douane-administratie die persoonsgegevens ontvangt, licht de douane-administratie die de gegevens heeft verstrekt, op verzoek in over het gebruik dat daarvan is gemaakt en over de bereikte resultaten.
-
-##### 3
-
-Persoonsgegevens worden uitsluitend toegezonden aan de douane-administratie van de andere Verdragsluitende Partij. Toezending van persoonsgegevens aan andere autoriteiten is slechts toegestaan na voorafgaande goedkeuring door de douane-administratie die de gegevens verstrekt.
-
-##### 4
-
-De douane-administratie die persoonsgegevens toezendt, zorgt ervoor dat deze gegevens correct, up to date en niet te uitvoerig zijn in verhouding tot de doeleinden waarvoor zij worden verstrekt. Eventuele verboden op grond van de nationale wettelijke en administratieve bepalingen van een van beide Verdragsluitende Partijen dienen in acht te worden genomen. Indien er persoonsgegevens zijn toegezonden die onjuist blijken te zijn of niet hadden mogen worden uitgewisseld, wordt daarvan onmiddellijk kennisgeving gedaan. De douane-administratie die deze gegevens heeft ontvangen, zal de desbetreffende gegevens corrigeren of vernietigen.
-
-##### 5
-
-Iedere betrokkene krijgt op verzoek informatie over de persoonsgegevens die met betrekking tot hem zijn opgeslagen en over het voorgenomen gebruik daarvan. Deze verplichting om de betrokkene deze informatie te verstrekken geldt niet wanneer het algemene belang dat wordt gediend door de informatie niet te verstrekken, zwaarder weegt dan het belang dat de betrokkene erbij heeft om die informatie te verkrijgen. Het recht om informatie te verkrijgen is overigens onderworpen aan de toepasselijke nationale wettelijke en administratieve bepalingen van de Verdragsluitende Partij op wier grondgebied het verzoek om informatie wordt gedaan. De douane-administratie die de desbetreffende persoonsgegevens heeft verstrekt, zal worden geraadpleegd voordat een besluit wordt genomen inzake een verzoek om informatie van een betrokkene. Indien het verzoek om informatie wordt afgewezen, komt betrokkene een rechtsmiddel toe. Indien de gegevens niet correct, niet up to date of te uitvoerig blijken te zijn, zullen deze worden rechtgezet of verwijderd. Indien de gegevens zijn doorgegeven aan andere instanties of personen, zullen deze van de verbetering of verwijdering in kennis worden gesteld.
-
-##### 6
-
-Indien een onderzoek gebaseerd op uit hoofde van dit Verdrag uitgewisselde persoonsgegevens een natuurlijke persoon schade berokkent, is de douane-administratie die deze persoonsgegevens heeft gebruikt aansprakelijk voor deze schade overeenkomstig de toepasselijke nationale wettelijke en administratieve bepalingen van die Verdragsluitende Partij. Die douane-administratie kan de schade niet van de hand wijzen door te stellen dat de schade is veroorzaakt door de douane-administratie die de desbetreffende persoonsgegevens heeft verstrekt.
-
-##### 7
-
-Uit hoofde van dit Verdrag toegezonden persoonsgegevens mogen slechts worden behouden zolang dit noodzakelijk is om het doel te bereiken waarvoor deze gegevens zijn verstrekt. Wanneer persoonsgegevens uit hoofde van dit Verdrag worden verstrekt, geeft elk van beide douane-administraties eventuele specifieke termijnen aan waarna deze persoonsgegevens moeten worden vernietigd.
-
-##### 8
-
-De douane-administratie registreert de toezending en ontvangst van persoonsgegevens uit hoofde van dit Verdrag.
-
-##### 9
-
-De douane-administratie neemt passende beveiligingsmaatregelen om uit hoofde van dit Verdrag uitgewisselde persoonsgegevens te beschermen tegen ongeoorloofde toegang, verandering of verspreiding.
-
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend.
 
 GEDAAN te Vilnius op 8 december 1998 in tweevoud in de Nederlandse, de Litouwse en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschil in interpretatie is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 (w.g.) W. H. J. VAN RIJCKEVORSEL
 
-**Voor de Republiek Litouwen,**
+*Voor de Republiek Litouwen,*
 
 (w.g.) A. BUDRYS

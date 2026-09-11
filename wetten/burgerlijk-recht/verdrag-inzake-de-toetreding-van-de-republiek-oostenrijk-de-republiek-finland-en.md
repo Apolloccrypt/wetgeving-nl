@@ -1,46 +1,21 @@
 ---
 title: "Verdrag inzake de toetreding van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot het Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst, ter ondertekening opengesteld te Rome op 19 juni 1980, en tot het Eerste en het Tweede Protocol betreffende de uitlegging ervan door het Hof van Justitie"
 identifier: "BWBV0001299"
-country: "nl"
-rank: "verdrag"
-publication_date: "1998-10-01"
-last_updated: "1998-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001299"
+categorie: "Burgerlijk recht"
 soort: "verdrag"
-stam_id: "10000727963"
-version_id: "10000746072"
-internal_id: "C10006988581"
-label_id: "10000728134"
-original_entry_into_force: "1998-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001299/1998-10-01/0"
-intitule_bron: "Trb.1997-70"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-07-04"
-intitule_published: "1997-03-18"
-intitule_in_force: "2002-09-05"
-intitule_status: "goed"
-original_publication: "Trb.1997-70"
-original_signed_date: "1997-07-04"
-original_published_date: "1997-03-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1997-70"
-entry_into_force_date: "1998-10-01"
-jci_1_3: "jci1.3:c:BWBV0001299&z=1998-10-01&g=1998-10-01"
-jci_1_0: "1.0:c:BWBV0001299&g=1998-10-01"
-citeertitel_status: "officieel"
-signed_date: "1997-07-04"
-entry_into_force: "1998-10-01"
+publicatiedatum: 1998-10-01
+laatste_update: 1998-10-01
+status: geldig
+toestand: 1998-10-01
+bron: "https://wetten.overheid.nl/BWBV0001299"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag inzake de toetreding van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot het Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst, ter ondertekening opengesteld te Rome op 19 juni 1980, en tot het Eerste en het Tweede Protocol betreffende de uitlegging ervan door het Hof van Justitie
 
-De Hoge Verdragsluitende Partijen bij het Verdrag tot oprichting van de Europese Gemeenschap,
+*De Hoge Verdragsluitende Partijen bij het Verdrag tot oprichting van de Europese Gemeenschap, Overwegende dat de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden, door lid te worden van de Europese Unie, zich verplicht hebben om toe te treden tot het Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst, ter ondertekening opengesteld te Rome op 19 juni 1980, Hebben overeenstemming bereikt omtrent de volgende bepalingen:*
 
-Overwegende dat de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden, door lid te worden van de Europese Unie, zich verplicht hebben om toe te treden tot het [Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003771), ter ondertekening opengesteld te Rome op 19 juni 1980,
-
-Hebben overeenstemming bereikt omtrent de volgende bepalingen:
-
-## TITEL I. ALGEMENE BEPALINGEN
+### TITEL I. ALGEMENE BEPALINGEN
 
 ##### Artikel 1
 
@@ -48,27 +23,27 @@ De Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden treden to
 
 - a. tot het [Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003771), ter ondertekening opengesteld te Rome op 19 juni 1980, hierna „Verdrag van 1980” te noemen, met alle aanpassingen en wijzigingen die daarin zijn aangebracht:
 
-- –. bij het te Luxemburg op 10 april 1984 ondertekende [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002437), hierna „Verdrag van 1984” te noemen, inzake de toetreding van de Helleense Republiek tot het Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst;
+   - – bij het te Luxemburg op 10 april 1984 ondertekende [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002437), hierna „Verdrag van 1984” te noemen, inzake de toetreding van de Helleense Republiek tot het Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst;
 
-- –. bij het te Funchal op 18 mei 1992 ondertekende [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001073), hierna „Verdrag van 1992” te noemen, inzake de toetreding van het Koninkrijk Spanje en de Portugese Republiek tot het Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst;
+   - – bij het te Funchal op 18 mei 1992 ondertekende [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001073), hierna „Verdrag van 1992” te noemen, inzake de toetreding van het Koninkrijk Spanje en de Portugese Republiek tot het Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst;
 
 - b. tot het op 19 december 1988 ondertekende [Eerste Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0002890), hierna „Eerste Protocol van 1988” te noemen, betreffende de uitlegging door het Hof van Justitie van de Europese Gemeenschappen van het Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst;
 
 - c. tot het op 19 december 1988 ondertekende [Tweede Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0002084), hierna „Tweede Protocol van 1988” te noemen, waarbij aan het Hof van Justitie van de Europese Gemeenschappen bepaalde bevoegdheden worden toegekend inzake de uitlegging van het Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst.
 
-## TITEL II. AANPASSINGEN IN HET [PROTOCOL BIJ HET VERDRAG VAN 1980](onbekend)
+### TITEL II. AANPASSINGEN IN HET PROTOCOL BIJ HET VERDRAG VAN 1980
 
 ##### Artikel 2
 
-Wijzigt het Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst; Rome, 19 juni 1980.
+*Wijzigt het Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst; Rome, 19 juni 1980.*
 
-## TITEL III. AANPASSINGEN IN HET [EERSTE PROTOCOL VAN 1988](https://wetten.overheid.nl/jci1.3:c:BWBV0002890)
+### TITEL III. AANPASSINGEN IN HET EERSTE PROTOCOL VAN 1988
 
 ##### Artikel 3
 
-Wijzigt het Eerste Protocol betreffende de uitlegging door het Hof van Justitie van het Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst, voor ondertekening opengesteld op 19 juni 1980; Brussel, 19 december 1988
+*Wijzigt het Eerste Protocol betreffende de uitlegging door het Hof van Justitie van het Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst, voor ondertekening opengesteld op 19 juni 1980; Brussel, 19 december 1988*
 
-## TITEL IV. SLOTBEPALINGEN
+### TITEL IV. SLOTBEPALINGEN
 
 ##### Artikel 4
 

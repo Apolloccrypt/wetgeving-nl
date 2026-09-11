@@ -1,338 +1,292 @@
 ---
 title: "Verdrag betreffende het voorkomen van zware industriële ongevallen"
 identifier: "BWBV0001282"
-country: "nl"
-rank: "verdrag"
-publication_date: "1998-03-25"
-last_updated: "1998-03-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001282"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002245283"
-version_id: "10002289352"
-internal_id: "C10006977851"
-label_id: "10002235744"
-dtd_version: "2.0"
-original_entry_into_force: "1998-03-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001282/1998-03-25/0"
-intitule_bron: "Trb.1993-161"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-03-25"
-intitule_published: "1993-11-09"
-intitule_in_force: "1997-07-04"
-intitule_status: "goed"
-original_publication: "Trb.1993-161"
-original_signed_date: "1997-03-25"
-original_published_date: "1993-11-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1993-161"
-entry_into_force_date: "1998-03-25"
-jci_1_3: "jci1.3:c:BWBV0001282&z=1998-03-25&g=1998-03-25"
-jci_1_0: "1.0:c:BWBV0001282&g=1998-03-25"
-citeertitel_status: "redactioneel"
-signed_date: "1997-03-25"
-entry_into_force: "1998-03-25"
+publicatiedatum: 1998-03-25
+laatste_update: 1998-03-25
+status: geldig
+toestand: 1998-03-25
+bron: "https://wetten.overheid.nl/BWBV0001282"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag betreffende het voorkomen van zware industriële ongevallen
 
-De Algemene Conferentie van de Internationale Arbeidsorganisatie,
+*The General Conference of the International Labour Organization, Having been convened at Geneva by the Governing Body of the International Labour Office, and having met in its 80th-Session on 2 June 1993, and Noting the relevant international labour Conventions and Recommendations and, in particular, the Occupational Safety and Health Convention and Recommendation, 1981, and the Chemicals Convention and Recommendation, 1990, and stressing the need for a global and coherent approach, and Noting also the ILO Code of practice on the Prevention of major industrial accidents, published in 1991, and Having regard to the need to ensure that all appropriate measures are taken to: a) prevent major accidents; b) minimize the risks of major accidents; c) minimize the effects of major accidents, and Considering the causes of such accidents including organizational errors, the human factor, component failures, deviation from normal operational conditions, outside interference and natural forces, and Having regard to the need for cooperation, within the International Programme on Chemical Safety, between the International Labour Organization, the United Nations Environment Programme and the World Health Organization, as well as with other relevant intergovernmental organizations, and Having decided upon the adoption of certain proposals with regard to the prevention of major industrial accidents, which is the fourth item on the agenda of the session, and Having determined that these proposals shall take the form of an international Convention; adopts this twenty-second day of June of the year one thousand nine hundred and ninety-three the following Convention, which may be cited as the Prevention of Major Industrial Accidents Convention, 1993.*
 
-Door de Raad van Beheer van het Internationaal Arbeidsbureau bijeengeroepen te Genève, en aldaar bijeengekomen op 2 juni 1993, in haar tachtigste zitting;
+## PART I. SCOPE AND DEFINITIONS
 
-Gelet op de internationale arbeidsverdragen en -aanbevelingen op dit terrein, en in het bijzonder op het [Verdrag en de Aanbeveling betreffende arbeidsveiligheid, gezondheid en het arbeidsmilieu](https://wetten.overheid.nl/jci1.3:c:BWBV0002487), 1981, en het Verdrag en de Aanbeveling betreffende veiligheid bij het gebruik van chemische stoffen bij de arbeid, 1990, en de noodzaak van een wereldwijde en samenhangende aanpak onderstrepend, en
+##### Article 1
 
-Tevens gelet op de Code van praktische richtlijnen betreffende het voorkomen van zware industriële ongevallen, gepubliceerd door de IAO in 1991, en
+1. The purpose of this Convention is the prevention of major accidents involving hazardous substances and the limitation of the consequences of such accidents.
 
-In aanmerking nemend de noodzaak te verzekeren dat alle passende maatregelen worden genomen:
+2. This Convention applies to major hazard installations.
 
-om zware ongevallen te voorkomen;
+3. This Convention does not apply to:
 
-om de risico's van zware ongevallen tot het minimum te beperken;
+- a) nuclear installations and plants processing radioactive substances except for facilities handling non-radioactive substances at these installations;
 
-om de gevolgen van zware ongevallen tot het minimum te beperken, en
+- b) military installations;
 
-In overweging nemende de oorzaken van deze ongevallen, waaronder organisatorische fouten, menselijke factoren, storingen in onderdelen, afwijkingen met betrekking tot de normale operationele omstandigheden, inwerkingen van buitenaf en natuurverschijnselen, en
+- c) transport outside the site of an installation other than by pipeline.
 
-In aanmerking nemend de behoefte aan samenwerking in het kader van het Internationaal Programma inzake chemische veiligheid tussen de Internationale Arbeidsorganisatie, het Milieuprogramma van de Verenigde Naties en de Wereldgezondheidsorganisatie, alsmede met andere betrokken intergouvernementele organisaties, en
+4. A Member ratifying this Convention may, after consulting the representative organizations of employers and workers concerned and other interested parties who may be affected, exclude from the application of the Convention installations or branches of economic activity for which equivalent protection is provided.
 
-Besloten hebbend tot het aannemen van bepaalde voorstellen betreffende het voorkomen van zware industriële ongevallen, welk onderwerp als vierde punt op de agenda van de zitting staat, en
+##### Article 2
 
-Vastgesteld hebbend dat deze voorstellen de vorm zullen aannemen van een internationaal verdrag;
+Where special problems of a substantial nature arise so that it is not immediately possible to implement all the preventive and protective measures provided for in this Convention, a Member shall draw up plans, in consultation with the most representative organizations of employers and workers and with other interested parties who may be affected, for the progressive implementation of the said measures within a fixed time-frame.
 
-neemt heden, de tweeëntwintigste juni van het jaar negentienhonderd drieënnegentig het volgende Verdrag aan, dat kan worden aangehaald als Verdrag betreffende het voorkomen van zware industriële ongevallen, 1993.
+##### Article 3
 
-## DEEL I. TOEPASSINGSGBEID EN BEGRIPSOMSCHRIJVINGEN
+For the purposes of this Convention:
 
-##### Artikel 1
+- a) the term "hazardous substance" means a substance or mixture of substances which by virtue of chemical, physical or toxicological properties, either singly or in combination, constitutes a hazard;
 
-1. De doelstelling van dit Verdrag is het voorkomen van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken en het beperken van de gevolgen van dergelijke ongevallen.
+- b) the term "threshold quantity" means for a given hazardous substance or category of substances that quantity, prescribed in national laws and regulations by reference to specific conditions, which if exceeded identifies a major hazard installation;
 
-2. Het Verdrag is van toepassing op installaties waaraan risico's van zware ongevallen zijn verbonden.
+- c) the term "major hazard installation" means one which produces, processes, handles, uses, disposes of or stores, either permanently or temporarily, one or more hazardous substances or categories of substances in quantities which exceed the threshold quantity;
 
-3. Het Verdrag is niet van toepassing op:
+- d) the term "major accident" means a sudden occurrence - such as a major emission, fire or explosion - in the course of an activity within a major hazard installation, involving one or more hazardous substances and leading to a serious danger to workers, the public or the environment, whether immediate or delayed;
 
-- a. installaties met kernenergie en fabrieken voor de behandeling van radioactieve stoffen, met uitzondering van onderdelen van deze installaties waar niet-radioactieve stoffen worden behandeld;
+- e) the term "safety report" means a written presentation of the technical, management and operational information covering the hazards and risks of a major hazard installation and their control and providing justification for the measures taken for the safety of the installation;
 
-- b. militaire installaties;
+- f) the term "near miss" means any sudden event involving one or more hazardous substances which, but for mitigating effects, actions or systems, could have escalated to a major accident.
 
-- c. het vervoer buiten het terrein van een installatie anders dan per pijpleiding.
+## PART II. GENERAL PRINCIPLES
 
-4. Een Lid dat dit Verdrag bekrachtigt kan, na raadpleging van de betrokken werkgevers- en werknemersorganisaties en andere betrokken partijen die er door kunnen worden getroffen, installaties of takken van economische bedrijvigheid waar is gezorgd voor een gelijkwaardige bescherming, uitsluiten van het toepassingsgebied van dit Verdrag.
+##### Article 4
 
-##### Artikel 2
+1. In the light of national laws and regulations, conditions and practices, and in consultation with the most representative organizations of employers and workers and with other interested parties who may be affected, each Member shall formulate, implement and periodically review a coherent national policy concerning the protection of workers, the public and the environment against the risk of major accidents.
 
-Wanneer zich speciale problemen van ernstige aard voordoen, zodat het niet mogelijk is onmiddellijk alle in dit Verdrag voorziene preventieve en beschermende maatregelen te treffen, stelt een Lid, in overleg met de meest betrokken representatieve organisaties van werkgevers en werknemers en andere eventueel betrokken partijen, plannen op voor de gefaseerde uitvoering van bedoelde maatregelen volgens een vast tijdschema.
+2. This policy shall be implemented through preventive and protective measures for major hazard installations and, where practicable, shall promote the use of the best available safety technologies.
 
-##### Artikel 3
+##### Article 5
 
-In dit Verdrag wordt verstaan onder:
+1. The competent authority, or a body approved or recognized by the competent authority, shall, after consulting the most representative organizations of employers and workers and other interested parties who may be affected, establish a system for the identification of major hazard installations as defined in Article 3 c), based on a list of hazardous substances or of categories of hazardous substances or of both, together with their respective threshold quantities, in accordance with national laws and regulations or international standards.
 
-- a. de term „gevaarlijke stof": een stof die, of een mengsel van stoffen dat ten gevolge van chemische, fysische of toxicologische eigenschappen alleen of in combinatie met andere stoffen een gevaar oplevert;
+2. The system mentioned in paragraph 1 above shall be regularly reviewed and updated.
 
-- b. de term „drempelwaarde": voor elke gevaarlijke stof of groep stoffen de in de nationale wet- en regelgeving met betrekking tot specifieke omstandigheden omschreven hoeveelheid, die, in geval van overschrijding, een installatie identificeert als een installatie waaraan risico's van zware ongevallen zijn verbonden;
+##### Article 6
 
-- c. de term „installatie waaraan risico's van zware ongevallen zijn verbonden": een installatie die permanent of tijdelijk een of meer stoffen of groepen stoffen in grotere hoeveelheden dan de drempelwaarde produceert, verwerkt, behandelt, gebruikt, verwijdert of opslaat;
+The competent authority, after consulting the representative organizations of employers and workers concerned, shall make special provision to protect confidential information transmitted or made available to it in accordance with Articles 8, 12, 13 or 14, whose disclosure would be liable to cause harm to an employer's business, so long as this provision does not lead to serious risk to the workers, the public or the environment.
 
-- d. de term „zwaar ongeval": een plotselinge gebeurtenis, zoals een omvangrijke emissie, een grote brand of een zware explosie, in de loop van een activiteit in een installatie waaraan risico's van zware ongevallen verbonden zijn, waarbij een of meer gevaarlijke stoffen zijn betrokken en die een ernstig, onmiddellijk of later optredend, gevaar oplevert voor de werknemers, de bevolking of het milieu;
+## PART III. RESPONSIBILITIES OF EMPLOYERS
 
-- e. de term „veiligheidsrapport": een geschreven document met de technische, bestuurlijk-organisatorische en operationele informatie inzake de gevaren en risico's van een installatie waaraan risico's van zware ongevallen zijn verbonden en inzake de beheersing van die gevaren en risico's, en waarin de voor de veiligheid van de installatie getroffen maatregelen worden verantwoord;
+#### Identification
 
-- f. de term „bijna-ongeval": elke plotselinge gebeurtenis waarbij een of meer gevaarlijke stoffen zijn betrokken die, wanneer de gevaren daarvan niet door tijdig ingrijpen of door bepaalde systemen zouden zijn verminderd, tot een zwaar ongeval zou hebben kunnen leiden.
+##### Article 7
 
-## DEEL II. ALGEMENE BEGINSELEN
+Employers shall identify any major hazard installation within their control on the basis of the system referred to in Article 5.
 
-##### Artikel 4
+#### Notification
 
-1. Rekening houdend met de nationale wet- en regelgeving, omstandigheden en praktijk en in overleg met de meest representatieve organisaties van werkgevers en werknemers en met andere eventueel betrokken partijen, dient elk Lid een samenhangend nationaal beleid inzake de bescherming van de werknemers, de bevolking en het milieu tegen de risico's van zware ongevallen te formuleren, uit te voeren en regelmatig opnieuw te bezien.
+##### Article 8
 
-2. Dit beleid dient te worden uitgevoerd door middel van preventieve en beschermende maatregelen inzake de installaties waaraan risico's van zware ongevallen zijn verbonden en dient, voor zover mogelijk, het gebruik van de beste beschikbare veiligheidstechnologieën te bevorderen.
+1. Employers shall notify the competent authority of any major hazard installation which they have identified:
 
-##### Artikel 5
+- a) within a fixed time-frame for an existing installation;
 
-1. De bevoegde autoriteit of een door de bevoegde autoriteit goedgekeurde of erkende instantie dient, na overleg met de meest representatieve organisaties van werkgevers en werknemers en andere eventueel betrokken partijen, een systeem op te zetten voor de identificatie van installaties waaraan risico's van zware ongevallen zijn verbonden als bedoeld in artikel 3, letter c, op basis van een lijst van gevaarlijke stoffen of groepen stoffen of van beide, met hun respectievelijke drempelwaarden, overeenkomstig de nationale wet- en regelgeving of internationale normen.
+- b) before it is put into operation in the case of a new installation.
 
-2. Het in het eerste lid bedoelde systeem moet regelmatig opnieuw worden bezien en worden bijgewerkt.
+2. Employers shall also notify the competent authority before any permanent closure of a major hazard installation.
 
-##### Artikel 6
+#### Arrangements at the level of the installation
 
-Na overleg met de betrokken representatieve organisaties van werkgevers en werknemers dient de bevoegde autoriteit speciale voorzieningen te treffen ter bescherming van de haar overeenkomstig de artikelen 8, 12, 13 of 14, toegezonden of verstrekte vertrouwelijke informatie, waarvan het openbaar worden schade zou kunnen veroorzaken aan het bedrijf van een werkgever, voor zover deze voorzieningen niet tot ernstige risico's voor de werknemers, de bevolking of het milieu leiden.
+##### Article 9
 
-## DEEL III. VERANTWOORDELIJKHEDEN VAN DE WERKGEVERS
+In respect of each major hazard installation employers shall establish and maintain a documented system of major hazard control which includes provision for:
 
-#### **Identificatie**
+- a) the identification and analysis of hazards and the assessment of risks including consideration of possible interactions between substances;
 
-##### Artikel 7
+- b) technical measures, including design, safety systems, construction, choice of chemicals, operation, maintenance and systematic inspection of the installation;
 
-Werkgevers dienen elke installatie waaraan risico's van zware ongevallen zijn verbonden en waarover zij het beheer voeren te identificeren, op basis van het in artikel 5 bedoelde systeem.
+- c) organizational measures, including training and instruction of personnel, the provision of equipment in order to ensure their safety, staffing levels, hours of work, definition of responsibilities, and controls on outside contractors and temporary workers on the site of the installation;
 
-#### **Kennisgeving**
+- d) emergency plans and procedures, including:
 
-##### Artikel 8
+   - (i) the preparation of effective site emergency plans and procedures, including emergency medical procedures, to be applied in case of major accidents or threat thereof, with periodic testing and evaluation of their effectiveness and revision as necessary;
 
-1. Werkgevers dienen de bevoegde autoriteit in kennis te stellen van elke installatie waaraan risico's van zware ongevallen zijn verbonden en die zij als zodanig hebben geïdentificeerd:
+   - (ii) the provision of information on potential accidents and site emergency plans to authorities and bodies responsible for the preparation of emergency plans and procedures for the protection of the public and the environment outside the site of the installation;
 
-- a. volgens een vast tijdschema wanneer het een bestaande installatie betreft;
+   - (iii) any necessary consultation with such authorities and bodies;
 
-- b. voordat zij in werking wordt gesteld, wanneer het een nieuwe installatie betreft.
+- e) measures to limit the consequences of a major accident;
 
-2. Werkgevers dienen tevens de bevoegde autoriteit vooraf in kennis te stellen van de definitieve sluiting van een installatie waaraan risico's van zware ongevallen zijn verbonden.
+- f) consultation with workers and their representatives;
 
-#### **Op het niveau van de installatie te treffen regelingen**
+- g) improvement of the system, including measures for gathering information and analysing accidents and near misses. The lessons so learnt shall be discussed with the workers and their representatives and shall be recorded in accordance with national law and practice.
 
-##### Artikel 9
+#### Safety report
 
-Met betrekking tot elke installatie waaraan risico's van zware ongevallen zijn verbonden, dienen de werkgevers een gedocumenteerd systeem ter voorkoming van en bescherming tegen deze risico's op te zetten en te onderhouden, dat omvat:
+##### Article 10
 
-- a. de identificatie en analyse van de gevaren en de beoordeling van de risico's, waarbij tevens de mogelijke interacties tussen de stoffen in aanmerking worden genomen;
+1. Employers shall prepare a safety report based on the requirements of Article 9.
 
-- b. technische maatregelen, met name inzake het ontwerp, de veiligheidssystemen, de constructie, de keuze van de chemische stoffen, de werking, het onderhoud en de systematische inspectie van de installatie;
+2. The report shall be prepared:
 
-- c. organisatorische maatregelen, met name inzake de scholing en instructie van het personeel, het verschaffen van de uitrusting ter verzekering van hun veiligheid, het niveau van het personeel, de werktijden, de toedeling van de verantwoordelijkheden en de controle op externe bedrijven en tijdelijke krachten die op het terrein van de installatie werken;
+- a) in the case of existing major hazard installations, within a period after notification prescribed by national laws or regulations;
 
-- d. rampenbestrijdingsplannen en noodprocedures die met name omvatten:
+- b) in the case of any new major hazard installation, before it is put into operation.
 
-- i. de opstelling van doeltreffende bedrijfsnoodplannen en noodprocedures, met inbegrip van de medische nood-procedures, ter plaatse toe te passen in geval van een zwaar ongeval of de dreiging daarvan, de periodieke toetsing en evaluatie van de doeltreffendheid van deze plannen en procedures en de herziening daarvan, wanneer dit noodzakelijk is;
+##### Article 11
 
-- ii. het verstrekken van inlichtingen over mogelijke ongevallen op het terrein en bedrijfsnoodplannen daarvoor aan de autoriteiten en de instanties die belast zijn met het opstellen van rampenplannen en noodprocedures voor de bescherming van de bevolking en het milieu buiten het terrein van de installatie;
+Employers shall review, update and amend the safety report:
 
-- iii. het noodzakelijke overleg met die autoriteiten en instanties;
+- a) in the event of a modification which has a significant influence on the level of safety in the installation or its processes or in the quantities of hazardous substances present;
 
-- e. maatregelen met betrekking tot het beperken van de gevolgen van een zwaar ongeval;
+- b) when developments in technical knowledge or in the assessment of hazards make this appropriate;
 
-- f. het overleg met de werknemers en hun vertegenwoordigers;
+- c) at intervals prescribed by national laws or regulations;
 
-- g. middelen ter verbetering van het systeem, met inbegrip van maatregelen voor het vergaren van informatie en voor het analyseren van ongevallen en bijna-ongevallen. De daaruit getrokken lessen dienen met de werknemers en hun vertegenwoordigers te worden besproken en dienen overeenkomstig de nationale wetgeving en praktijk te worden vastgelegd.
+- d) at the request of the competent authority.
 
-#### **Veiligheidsrapport**
+##### Article 12
 
-##### Artikel 10
+Employers shall transmit or make available to the competent authority the safety reports referred to in Articles 10 and 11.
 
-1. De werkgevers dienen een veiligheidsrapport op te stellen op basis van het bepaalde in artikel 9.
+#### Accident reporting
 
-2. Het rapport moet worden opgesteld:
+##### Article 13
 
-- a. voor bestaande installaties waaraan risico's van zware ongevallen zijn verbonden: binnen een termijn na de kennisgeving die in de nationale wetgeving is voorgeschreven;
+Employers shall inform the competent authority and other bodies designated for this purpose as soon as a major accident occurs.
 
-- b. voor elke nieuwe installatie waaraan risico's van zware ongevallen zijn verbonden: voordat deze in werking wordt gesteld.
+##### Article 14
 
-##### Artikel 11
+1. Employers shall, within a fixed time-frame after a major accident, present a detailed report to the competent authority containing an analysis of the causes of the accident and describing its immediate on-site consequences, and any action taken to mitigate its effects.
 
-Werkgevers dienen het veiligheidsrapport opnieuw te bezien, bij te werken en te wijzigen:
+2. The report shall include recommendations detailing actions to be taken to prevent a recurrence.
 
-- a. in het geval van een wijziging die van cruciale invloed is op het veiligheidsniveau in de installatie of in de procédés daarvan of in de aanwezige hoeveelheden gevaarlijke stoffen;
+## PART IV. RESPONSIBILITIES OF COMPETENT AUTHORITIES
 
-- b. wanneer de ontwikkelingen op het gebied van de technische kennis of van de beoordeling van de gevaren dit rechtvaardigt;
+#### Off-site emergency preparedness
 
-- c. met in de nationale wetgeving vastgelegde tussenpozen;
+##### Article 15
 
-- d. op verzoek van de bevoegde autoriteit.
+Taking into account the information provided by the employer, the competent authority shall ensure that emergency plans and procedures containing provisions for the protection of the public and the environment outside the site of each major hazard installation are established, updated at appropriate intervals and coordinated with the relevant authorities and bodies.
 
-##### Artikel 12
+##### Article 16
 
-De werkgevers dienen de in artikel 10 en 11 bedoelde veiligheidsrapporten aan de bevoegde autoriteit te zenden of te verstrekken.
+The competent authority shall ensure that:
 
-#### **Ongevallenrapport**
+- a) information on safety measures and the correct behaviour to adopt in the case of a major accident is disseminated to members of the public liable to be affected by a major accident without their having to request it and that such information is updated and redisseminated at appropriate intervals;
 
-##### Artikel 13
+- b) warning is given as soon as possible in the case of a major accident;
 
-Zodra zich een zwaar ongeval voordoet, stellen de werkgevers de bevoegde autoriteit en de andere hiertoe aangewezen instanties hiervan op de hoogte.
+- c) where a major accident could have transboundary effects, the information required in a) and b) above is provided to the States concerned, to assist in cooperation and coordination arrangements.
 
-##### Artikel 14
+#### Siting of major hazard installations
 
-1. Na een zwaar ongeval doen de werkgevers de bevoegde autoriteit binnen een vastgestelde termijn een gedetailleerd rapport toekomen dat een analyse van de oorzaken van dat ongeval bevat en waarin de onmiddellijke gevolgen ervan voor het terrein van de installatie worden aangegeven, alsmede alle getroffen maatregelen om de gevolgen van het ongeval te beperken.
+##### Article 17
 
-2. Het rapport bevat gedetailleerde aanbevelingen inzake te treffen maatregelen om herhaling te voorkomen.
+The competent authority shall establish a comprehensive siting policy arranging for the appropriate separation of proposed major hazard installations from working and residential areas and public facilities, and appropriate measures for existing installations. Such a policy shall reflect the General Principles set out in Part II of the Convention.
 
-## DEEL IV. VERANTWOORDELIJKHEDEN VAN DE BEVOEGDE AUTORITEITEN
+#### Inspection
 
-#### **Rampenplannen buiten het terrein van de installatie**
+##### Article 18
 
-##### Artikel 15
+1. The competent authority shall have properly qualified and trained staff with the appropriate skills, and sufficient technical and professional support, to inspect, investigate, assess, and advise on the matters dealt with in this Convention and to ensure compliance with national laws and regulations.
 
-Rekening houdend met de door de werkgever verstrekte informatie zorgt de bevoegde autoriteit ervoor dat rampen- of noodplannen en noodprocedures worden opgesteld die voorzieningen bevatten ter bescherming van de bevolking en van het milieu buiten het terrein van elke installatie waaraan risico's van zware ongevallen zijn verbonden, welke plannen en procedures op gezette tijden worden bijgewerkt en gecoördineerd met de betrokken autoriteiten en instanties.
+2. Representatives of the employer and representatives of the workers of a major hazard installation shall have the opportunity to accompany inspectors supervising the application of the measures prescribed in pursuance of this Convention, unless the inspectors consider, in the light of the general instructions of the competent authority, that this may be prejudicial to the performance of their duties.
 
-##### Artikel 16
+##### Article 19
 
-De bevoegde autoriteit draagt er zorg voor dat:
+The competent authority shall have the right to suspend any operation which poses an imminent threat of a major accident.
 
-- a. informatie over de te nemen veiligheidsmaatregelen en over de wijze waarop men zich bij een zwaar ongeval dient te gedragen, wordt verstrekt aan het deel van de bevolking dat door een zwaar ongeval kan worden getroffen, zonder dat deze personen erom hoeven te vragen, en dat deze informatie wordt bijgewerkt en op gezette tijden opnieuw wordt verstrekt;
+## PART V. RIGHTS AND DUTIES OF WORKERS AND THEIR REPRESENTATIVES
 
-- b. in geval van een zwaar ongeval zo spoedig mogelijk een waarschuwing wordt gegeven;
+##### Article 20
 
-- c. wanneer een zwaar ongeval grensoverschrijdende gevolgen zou kunnen hebben, de in a en b vereiste informatie aan de betrokken Staten wordt verstrekt om een bijdrage te leveren aan maatregelen inzake samenwerking en coördinatie.
+The workers and their representatives at a major hazard installation shall be consulted through appropriate cooperative mechanisms in order to ensure a safe system of work. In particular, the workers and their representatives shall:
 
-#### **Vestiging van installaties waaraan risico's van zware ongevallen verbonden zijn**
+- a) be adequately and suitably informed of the hazards associated with the major hazard installation and their likely consequences;
 
-##### Artikel 17
+- b) be informed of any orders, instructions or recommendations made by the competent authority;
 
-De bevoegde autoriteit werkt een integraal vestigingsbeleid uit dat voorziet in een passende scheiding tussen de geplande installaties waaraan risico's van zware ongevallen zijn verbonden en woon- en werkgebieden en openbare voorzieningen en, in geval van bestaande installaties, in alle passende maatregelen. Dit beleid dient uit te gaan van de in deel II van het Verdrag genoemde algemene beginselen.
+- c) be consulted in the preparation of, and have access to, the following documents:
 
-#### **Inspectie**
+   - (i) the safety report;
 
-##### Artikel 18
+   - (ii) emergency plans and procedures;
 
-1. De bevoegde autoriteit dient te beschikken over naar behoren gekwalificeerd, opgeleid en bekwaam personeel, en over voldoende technische en specialistische ondersteuning om te kunnen inspecteren, onderzoeken, evalueren en adviseren inzake de kwesties die in dit Verdrag worden behandeld en om te kunnen zorgen voor de naleving van de nationale wet- en regelgeving.
+   - (iii) accident reports;
 
-2. Vertegenwoordigers van de werkgever en van de werknemers van een installatie waaraan risico's van zware ongevallen zijn verbonden, moeten de mogelijkheid hebben de inspecteurs te vergezellen wanneer dezen de toepassing van de krachtens dit Verdrag voorgeschreven maatregelen controleren, tenzij de inspecteurs, in het licht van de algemene instructies van de bevoegde autoriteit, van mening zijn dat daardoor de doeltreffendheid van hun controle zou kunnen worden aangetast.
+- d) be regularly instructed and trained in the practices and procedures for the prevention of major accidents and the control of developments likely to lead to a major accident and in the emergency procedures to be followed in the event of a major accident;
 
-##### Artikel 19
+- e) within the scope of their job, and without being placed at any disadvantage, take corrective action and if necessary interrupt the activity where, on the basis of their training and experience, they have reasonable justification to believe that there is an imminent danger of a major accident, and notify their supervisor or raise the alarm, as appropriate, before or as soon as possible after taking such action;
 
-De bevoegde autoriteit heeft het recht elke activiteit die een onmiddellijke dreiging van een zwaar ongeval vormt stil te leggen.
+- f) discuss with the employer any potential hazards they consider capable of generating a major accident and have the right to notify the competent authority of those hazards.
 
-## DEEL V. RECHTEN EN PLICHTEN VAN DE WERKNEMERS EN HUN VERTEGENWOORDIGERS
+##### Article 21
 
-##### Artikel 20
+Workers employed at the site of a major hazard installation shall:
 
-In een installatie waaraan risico's van zware ongevallen zijn verbonden dienen de werknemers en hun vertegenwoordigers volgens daarvoor in aanmerking komende samenwerkingsprocedures te worden geraadpleegd om een veilig arbeidsproces te waarborgen. De werknemers en hun vertegenwoordigers dienen in het bijzonder:
+- a) comply with all practices and procedures relating to the prevention of major accidents and the control of developments likely to lead to a major accident within the major hazard installation;
 
-- a. adequaat en afdoende te worden geïnformeerd over de gevaren die aan deze installatie zijn verbonden en over de mogelijke gevolgen daarvan;
+- b) comply with all emergency procedures should a major accident occur.
 
-- b. te worden geïnformeerd over alle van de bevoegde autoriteit uitgaande voorschriften, instructies of aanbevelingen;
+## PART VI. RESPONSIBILITY OF EXPORTING STATES
 
-- c. te worden geraadpleegd bij de voorbereiding van, en toegang te hebben tot de volgende documenten:
+##### Article 22
 
-- i. het veiligheidsrapport;
+When, in an exporting member State, the use of hazardous substances, technologies or processes is prohibited as a potential source of a major accident, the information on this prohibition and the reasons for it shall be made available by the exporting member State to any importing country.
 
-- ii. rampenplannen en noodprocedures;
+## PART VII. FINAL PROVISIONS
 
-- iii. ongevallenrapporten;
+##### Article 23
 
-- d. regelmatig te worden geïnstrueerd en te worden geschoold in werkwijzen en procedures ter voorkoming van zware ongevallen en tot beheersing van gebeurtenissen die tot dergelijke ongevallen kunnen leiden, alsmede in de noodprocedures die moeten worden gevolgd indien zich een zwaar ongeval voordoet;
+The formal ratifications of this Convention shall be communicated to the Director-General of the International Labour Office for registration.
 
-- e. binnen het kader van hun functie en zonder dat hun dit op enigerlei wijze kan benadelen, corrigerende maatregelen te nemen en, indien noodzakelijk, hun werk te onderbreken wanneer zij op basis van hun opleiding en ervaring redelijkerwijs kunnen aannemen dat er een dreigend gevaar van een zwaar ongeval bestaat, en voor of zo snel mogelijk na het treffen van deze maatregelen, hun chef hiervan op de hoogte te stellen of, naar gelang het geval, de alarminstallatie in werking te stellen;
+##### Article 24
 
-- f. met hun werkgever alle potentiële gevaren te bespreken die naar hun mening een zwaar ongeval kunnen veroorzaken, en het recht te hebben de bevoegde autoriteit in kennis te stellen van deze gevaren.
+1. This Convention shall be binding only upon those Members of the International Labour Organization whose ratifications have been registered with the Director-General.
 
-##### Artikel 21
+2. It shall come into force 12 months after the date on which the ratifications of two Members have been registered with the Director-General.
 
-De werknemers die in dienst zijn op het terrein van een installatie waaraan risico's van zware ongevallen zijn verbonden dienen:
+3. Thereafter, this Convention shall come into force for any Member 12 months after the date on which its ratification has been registered.
 
-- a. alle methoden en procedures na te komen die betrekking hebben op het voorkomen van zware ongevallen en op het beheersen van gebeurtenissen die tot dergelijke ongevallen kunnen leiden;
+##### Article 25
 
-- b. alle noodprocedures te volgen wanneer zich een zwaar ongeval mocht voordoen.
+1. A Member which has ratified this Convention may denounce it after the expiration of then years from the date on which the Convention first comes into force, by an act communicated to the Director-General of the International Labour Office for registration. Such denunciation shall not take effect until one year after the date on which it is registered.
 
-## DEEL VI. VERANTWOORDELIJKHEID VAN EXPORTERENDE STATEN
+2. Each Member which has ratified this Convention and which does not, within the year following the expiration of the period of ten years mentioned in the preceding paragraph, exercise the right of denunciation provided for in this Article, will be bound for another period of ten years and, thereafter, may denounce this Convention at the expiration of each period of ten years under the terms provided for in this Article.
 
-##### Artikel 22
+##### Article 26
 
-Wanneer in een exporterende Lidstaat het gebruik van gevaarlijke stoffen, technologieën of procédés is verboden als zijnde een potentiële bron van een zwaar ongeval, dient die Staat de informatie met betrekking tot dat verbod en de gronden waarop het berust ter kennis te brengen van elk land waarnaar deze exporteert.
+1. The Director-General of the International Labour Office shall notify all Members of the International Labour Organization of the registration of all ratifications and denunciations communicated to him by the Members of the Organization.
 
-## DEEL VII. SLOTBEPALINGEN
+2. When notifying the Members of the Organization of the registration of the second ratification communicated to him, the Director-General shall draw the attention of the Members of the Organization to the date upon which the Convention will come into force.
 
-##### Artikel 23
+##### Article 27
 
-De formele bekrachtigingen van dit Verdrag worden aan de Directeur-Generaal van het Internationaal Arbeidsbureau medegedeeld en door hem geregistreerd.
+The Director-General of the International Labour Office shall communicate to the Secretary-General of the United Nations for registration in accordance with Article 102 of the Charter of the United Nations full particulars of all ratifications and acts of denunciations registered by him in accordance with the provisions of the preceding Articles.
 
-##### Artikel 24
+##### Article 28
 
-1. Dit Verdrag is alleen verbindend voor de Leden van de Internationale Arbeidsorganisatie waarvan de bekrachtiging door de Directeur-Generaal is geregistreerd.
+At such times as it may consider necessary, the Governing Body of the International Labour Office shall present to the General Conference a report on the working of this Convention and shall examine the desirability of placing on the agenda of the Conference the question of its revision in whole or in part.
 
-2. Het treedt in werking twaalf maanden na de datum waarop de bekrachtigingen van twee Leden door de Directeur-Generaal zijn geregistreerd.
+##### Article 29
 
-3. Vervolgens treedt dit Verdrag voor ieder Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
+1. Should the Conference adopt a new Convention revising this Convention in whole or in part, then, unless the new Convention otherwise provides -
 
-##### Artikel 25
+- a) the ratification by a Member of the new revising Convention shall *ipso jure*involve the immediate denunciation of this Convention, notwithstanding the provisions of Article 25 above, if and when the new revising Convention shall have come into force;
 
-1. Ieder Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een termijn van tien jaar na de datum waarop het Verdrag voor het eerst in werking is getreden door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar nadat zij is geregistreerd.
+- b) as from the date when the new revising Convention comes into force this Convention shall cease to be open to ratification by the Members.
 
-2. Ieder Lid dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na afloop van de termijn van tien jaar, bedoeld in het vorige lid, gebruik maakt van de bevoegdheid tot opzegging, voorzien in dit artikel, is voor een nieuwe termijn van tien jaar gebonden en kan daarna dit Verdrag opzeggen na afloop van elke termijn van tien jaar, op de voorwaarden voorzien in dit artikel.
+2. This Convention shall in any case remain in force in its actual form and content for those Members which have ratified it but have not ratified the revising Convention.
 
-##### Artikel 26
+##### Article 30
 
-1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen en opzeggingen die hem door de Leden van de Organisatie zijn medegedeeld.
+The English and French versions of the text of this Convention are equally authoritative.
 
-2. Bij de kennisgeving aan de Leden der Organisatie van de tweede hem medegedeelde bekrachtiging vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop dit Verdrag in werking treedt.
-
-##### Artikel 27
-
-De Directeur-Generaal van het Internationaal Arbeidsbureau doet de Secretaris-Generaal van de Verenigde Naties mededeling, ter registratie in overeenstemming met artikel 102 van het Handvest van de Verenigde Naties, van de volledige bijzonderheden omtrent alle bekrachtigingen en opzeggingen die hij overeenkomstig de voorgaande artikelen heeft geregistreerd.
-
-##### Artikel 28
-
-De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer deze dit noodzakelijk acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is een gehele of gedeeltelijke herziening ervan op de agenda van de Conferentie te plaatsen.
-
-##### Artikel 29
-
-1. Indien de Conferentie een nieuw verdrag aanneemt, houdende gehele of gedeeltelijke herziening van het onderhavige Verdrag, zal, tenzij het nieuwe verdrag anders bepaalt:
-
-- a. de bekrachtiging door een Lid van het nieuwe verdrag, houdende herziening, van rechtswege onmiddellijke opzegging van het onderhavige Verdrag ten gevolge hebben, niettegenstaande het bepaalde in artikel 25, onder voorbehoud evenwel dat het nieuwe verdrag, houdende herziening, in werking is getreden;
-
-- b. met ingang van de datum waarop het nieuwe verdrag, houdende herziening, in werking is getreden, dit Verdrag niet langer door de Leden bekrachtigd kunnen worden.
-
-2. Het onderhavige Verdrag blijft in elk geval naar vorm en inhoud van kracht voor de Leden die het hebben bekrachtigd en die het nieuwe verdrag, houdende herziening, niet hebben bekrachtigd.
-
-##### Artikel 30
-
-De Engelse en Franse tekst van dit Verdrag zijn gelijkelijk authentiek.
-
-De voorgaande tekst is de authentieke tekst van het Verdrag, naar behoren aangenomen door de Algemene Conferentie van de Internationale Arbeidsorganisatie tijdens haar tachtigste zitting, welke werd gehouden te Genève en voor gesloten werd verklaard op 22 juni 1993.
+The foregoing is the authentic text of the Convention duly adopted by the General Conference of the International Labour Organization during its Eightieth Session which was held at Geneva and declared closed the twenty-second day of June 1993.
 
 IN FAITH WHEREOF we have appended our signatures this twenty-third day of June 1993.
 
-**The President of the Conference,**
+*The President of the Conference,*
 
 (sd.) ASEM ABDEL-HAK
 
-**The Director-General of the International Labour Office,**
+*The Director-General of the International Labour Office,*
 
 (sd.) MICHEL HANSENNE

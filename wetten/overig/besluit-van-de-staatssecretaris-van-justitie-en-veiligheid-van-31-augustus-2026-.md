@@ -9,7 +9,7 @@ laatste_update: 2026-09-08
 status: geldig
 toestand: 2026-09-08
 bron: "https://wetten.overheid.nl/BWBR0053082"
-opgehaald: 2026-09-10
+opgehaald: 2026-09-11
 ---
 
 # Besluit van de Staatssecretaris van Justitie en Veiligheid van 31 augustus 2026 nr. BOACAT2026/057, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Werkorganisatie HLTsamen

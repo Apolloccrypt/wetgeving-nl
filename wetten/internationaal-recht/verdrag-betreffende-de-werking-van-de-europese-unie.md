@@ -1,64 +1,19 @@
 ---
 title: "Verdrag betreffende de werking van de Europese Unie"
 identifier: "BWBV0001506"
-country: "nl"
-rank: "verdrag"
-publication_date: "2013-07-01"
-last_updated: "2013-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001506"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002377643"
-version_id: "10002386812"
-internal_id: "C10009353021"
-label_id: "10002371054"
-dtd_version: "2.0"
-original_entry_into_force: "2003-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001506/2013-07-01/0"
-intitule_bron: "Trb.2008-11"
-intitule_effect: "wijziging"
-intitule_published: "2008-02-01"
-intitule_in_force: "2010-02-05"
-intitule_status: "goed"
-original_publication: "Trb.2003-150"
-original_signed_date: "2001-12-28"
-original_published_date: "2003-09-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2003-150"
-entry_into_force_date: "2003-02-01"
-jci_1_3: "jci1.3:c:BWBV0001506&z=2013-07-01&g=2013-07-01"
-jci_1_0: "1.0:c:BWBV0001506&g=2013-07-01"
-citeertitel_status: "redactioneel"
-signed_date: "2001-12-28"
-entry_into_force: "2003-02-01"
+publicatiedatum: 2003-02-01
+laatste_update: 2013-07-01
+status: geldig
+toestand: 2013-07-01
+bron: "https://wetten.overheid.nl/BWBV0001506"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag betreffende de werking van de Europese Unie
 
-Zijne Majesteit de Koning der Belgen, de President van de Bondsrepubliek Duitsland, de President van de Franse Republiek, de President van de Italiaanse Republiek, Hare Koninklijke Hoogheid de Groothertogin van Luxemburg, Hare Majesteit de Koningin der Nederlanden, 2)[Red: De lijst van ondertekenaars is niet toegevoegd.]
-
-Vastberaden de grondslagen te leggen voor een steeds hechter verbond tussen de Europese volkeren,
-
-Besloten hebbende door gemeenschappelijk optreden de economische en sociale vooruitgang van hun staten te verzekeren en daartoe de barrières die Europa verdelen te verwijderen,
-
-Vaststellende als wezenlijk doel van hun streven, een voortdurende verbetering van de omstandigheden waaronder hun volkeren leven en werken, te verzekeren,
-
-Erkennende dat de verwijdering van de bestaande hinderpalen eensgezind optreden vereist teneinde de gestadige expansie, het evenwicht in het handelsverkeer en de eerlijkheid in de mededinging te waarborgen,
-
-Verlangende de eenheid hunner volkshuishoudingen te versterken en de harmonische ontwikkeling daarvan te bevorderen door het verschil in niveau tussen de onderscheidene gebieden en de achterstand van de minder begunstigde gebieden te verminderen,
-
-Geleid door de wens door middel van een gemeenschappelijke handelspolitiek bij te dragen tot de geleidelijke opheffing der beperkingen in het internationale handelsverkeer,
-
-Wensende de verbondenheid van Europa met de landen overzee te bevestigen en verlangende de ontwikkeling van hun welvaart te verzekeren, overeenkomstig de beginselen van het [Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143),
-
-Vastbesloten door deze bundeling van krachten de waarborgen voor vrede en vrijheid te versterken en de overige Europese volkeren die hun idealen delen, oproepende zich bij hun streven aan te sluiten,
-
-Vastbesloten het hoogst mogelijke kennisniveau voor hun volkeren na te streven door middel van ruime toegang tot onderwijs en door middel van de voortdurende vernieuwing daarvan,
-
-Hebben te dien einde als hun gevolmachtigden aangewezen: 2)[Red: De lijst van ondertekenaars is niet toegevoegd.]
-
-Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, omtrent de volgende bepalingen overeenstemming hebben bereikt.
-
-Betreft de Nederlandse tekst van het Verdrag, zoals laatstelijk gewijzigd door het Verdrag van Lissabon tot wijziging van het Verdrag betreffende de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap; Lissabon, 13 december 2007.
+*Zijne Majesteit de Koning der Belgen, de President van de Bondsrepubliek Duitsland, de President van de Franse Republiek, de President van de Italiaanse Republiek, Hare Koninklijke Hoogheid de Groothertogin van Luxemburg, Hare Majesteit de Koningin der Nederlanden, 2)[Red: De lijst van ondertekenaars is niet toegevoegd.] Vastberaden de grondslagen te leggen voor een steeds hechter verbond tussen de Europese volkeren, Besloten hebbende door gemeenschappelijk optreden de economische en sociale vooruitgang van hun staten te verzekeren en daartoe de barrières die Europa verdelen te verwijderen, Vaststellende als wezenlijk doel van hun streven, een voortdurende verbetering van de omstandigheden waaronder hun volkeren leven en werken, te verzekeren, Erkennende dat de verwijdering van de bestaande hinderpalen eensgezind optreden vereist teneinde de gestadige expansie, het evenwicht in het handelsverkeer en de eerlijkheid in de mededinging te waarborgen, Verlangende de eenheid hunner volkshuishoudingen te versterken en de harmonische ontwikkeling daarvan te bevorderen door het verschil in niveau tussen de onderscheidene gebieden en de achterstand van de minder begunstigde gebieden te verminderen, Geleid door de wens door middel van een gemeenschappelijke handelspolitiek bij te dragen tot de geleidelijke opheffing der beperkingen in het internationale handelsverkeer, Wensende de verbondenheid van Europa met de landen overzee te bevestigen en verlangende de ontwikkeling van hun welvaart te verzekeren, overeenkomstig de beginselen van het Handvest der Verenigde Naties, Vastbesloten door deze bundeling van krachten de waarborgen voor vrede en vrijheid te versterken en de overige Europese volkeren die hun idealen delen, oproepende zich bij hun streven aan te sluiten, Vastbesloten het hoogst mogelijke kennisniveau voor hun volkeren na te streven door middel van ruime toegang tot onderwijs en door middel van de voortdurende vernieuwing daarvan, Hebben te dien einde als hun gevolmachtigden aangewezen: 2)[Red: De lijst van ondertekenaars is niet toegevoegd.] Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, omtrent de volgende bepalingen overeenstemming hebben bereikt.*
 
 ## DEEL EERSTE. DE BEGINSELEN
 
@@ -67,6 +22,8 @@ Betreft de Nederlandse tekst van het Verdrag, zoals laatstelijk gewijzigd door h
 1. Dit Verdrag regelt de werking van de Unie en bepaalt de gebieden, de afbakening en de voorwaarden van uitoefening van haar bevoegdheden.
 
 2. Dit Verdrag en het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) vormen de Verdragen waarop de Unie is gegrondvest. Deze twee Verdragen, die dezelfde juridische waarde hebben, worden aangeduid met de term „de Verdragen”.
+
+### TITEL I. CATEGORIEËN EN GEBIEDEN VAN BEVOEGDHEDEN VAN DE UNIE
 
 ##### Artikel 2
 
@@ -160,6 +117,8 @@ De Unie is bevoegd om het optreden van de lidstaten te ondersteunen, te coördin
 
 - g. administratieve samenwerking.
 
+### TITEL II. ALGEMEEN TOEPASSELIJKE BEPALINGEN
+
 ##### Artikel 7
 
 De Unie ziet toe op de samenhang tussen haar verschillende beleidsmaatregelen en optredens, rekening houdend met het geheel van haar doelstellingen en met inachtneming van het beginsel van bevoegdheidstoedeling.
@@ -179,10 +138,6 @@ Bij de bepaling en de uitvoering van haar beleid en optreden streeft de Unie naa
 ##### Artikel 11
 
 De eisen inzake milieubescherming moeten worden geïntegreerd in de omschrijving en uitvoering van het beleid en het optreden van de Unie in het bijzonder met het oog op het bevorderen van duurzame ontwikkeling.
-
-##### Artikel 11
-
-Een lidstaat die wenst deel te nemen aan krachtens artikel 11 aangegane nauwere samenwerking geeft kennis van zijn voornemen aan de Raad en aan de Commissie, die binnen drie maanden na ontvangst van de kennisgeving een advies aan de Raad doet toekomen. Binnen vier maanden na ontvangst van de kennisgeving neemt de Commissie een besluit over het verzoek en over bijzondere regelingen die zij eventueel nodig acht.
 
 ##### Artikel 12
 
@@ -220,8 +175,6 @@ Het Europees Parlement en de Raad zorgen voor de openbaarmaking van de stukken b
 
 De op basis van dit artikel vastgestelde voorschriften doen geen afbreuk aan de in [artikel 39 van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=39) bedoelde speciﬁeke voorschriften.
 
-## TWEEDE DEEL. HET BURGERSCHAP VAN DE UNIE
-
 ##### Artikel 17
 
 1. De Unie eerbiedigt de status die kerken en religieuze verenigingen en gemeenschappen volgens het nationaal recht in de lidstaten hebben, en doet daaraan geen afbreuk.
@@ -229,6 +182,8 @@ De op basis van dit artikel vastgestelde voorschriften doen geen afbreuk aan de 
 2. De Unie eerbiedigt tevens de status die de levensbeschouwelijke en niet-confessionele organisaties volgens het nationaal recht hebben.
 
 3. De Unie voert een open, transparante en regelmatige dialoog met die kerken en organisaties, onder erkenning van hun identiteit en hun speciﬁeke bijdrage.
+
+## DEEL TWEEDE. NON-DISCRIMINATIE EN BURGERSCHAP VAN DE UNIE
 
 ##### Artikel 18
 
@@ -272,10 +227,6 @@ Deze rechten worden uitgeoefend onder de voorwaarden en binnen de grenzen welke 
 
 2. Onverminderd artikel 223, lid 1, en de bepalingen ter uitvoering daarvan, heeft iedere burger van de Unie die verblijft houdt in een lidstaat waarvan hij geen onderdaan is, het actief en passief kiesrecht bij de verkiezingen voor het Europees Parlement in de lidstaat waar hij verblijft, onder dezelfde voorwaarden als de onderdanen van die staat. Dit recht wordt uitgeoefend onder voorbehoud van de door de Raad met eenparigheid van stemmen, volgens een bijzondere wetgevingsprocedure, en na raadpleging van het Europees Parlement vastgestelde nadere regelingen; deze nadere regelingen kunnen voorzien in afwijkingen wanneer zulks gerechtvaardigd wordt door bijzondere problemen in een bepaalde lidstaat.
 
-## DERDE DEEL. HET BELEID VAN DE GEMEENSCHAP
-
-## TITEL I. HET VRIJE VERKEER VAN ONDERDANEN
-
 ##### Artikel 23
 
 Iedere burger van de Unie geniet op het grondgebied van derde landen waar de lidstaat waarvan hij onderdaan is, niet vertegenwoordigd is, de bescherming van de diplomatieke en consulaire instanties van iedere andere lidstaat, onder dezelfde voorwaarden als de onderdanen van die lidstaat. De lidstaten treffen de nodige voorzieningen en beginnen de internationale onderhandelingen die met het oog op deze bescherming vereist zijn.
@@ -292,13 +243,15 @@ Iedere burger van de Unie kan zich wenden tot de overeenkomstig artikel 228 inge
 
 Iedere burger van de Unie kan de in dit artikel of in [artikel 13 van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=13) genoemde instellingen of organen aanschrijven in een van de in [artikel 55, lid 1, van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=55) genoemde talen en ook in die taal antwoord krijgen.
 
-### HOOFDSTUK 1. DE DOUANE-UNIE
-
 ##### Artikel 25
 
 De Commissie brengt om de drie jaar aan het Europees Parlement, de Raad en het Economisch en Sociaal Comité verslag uit over de toepassing van de bepalingen van dit deel van het Verdrag. In dat verslag wordt rekening gehouden met de ontwikkeling van de Unie.
 
 Op basis van dat verslag en onverminderd de overige bepalingen van de Verdragen, kan de Raad, na goedkeuring door het Europees Parlement, met eenparigheid van stemmen, volgens een bijzondere wetgevingsprocedure bepalingen ter aanvulling van de in artikel 20, lid 2, vermelde rechten vaststellen. Deze bepalingen treden pas in werking nadat zij door de lidstaten overeenkomstig hun onderscheiden grondwettelijke bepalingen zijn goedgekeurd.
+
+## DEEL DERDE. HET BELEID EN INTERN OPTREDEN VAN DE UNIE
+
+### TITEL I. DE INTERNE MARKT
 
 ##### Artikel 26
 
@@ -314,7 +267,7 @@ Bij het formuleren van haar voorstellen met het oog op de verwezenlijking van de
 
 Indien deze bepalingen de vorm van afwijkingen aannemen, dienen zij van tijdelijke aard te zijn en de werking van de interne markt zo weinig mogelijk te verstoren.
 
-### HOOFDSTUK 2. VERBOD OP KWANTITATIEVE BEPERKINGEN TUSSEN DE LIDSTATEN
+### TITEL II. HET VRIJE VERKEER VAN GOEDEREN
 
 ##### Artikel 28
 
@@ -326,6 +279,8 @@ Indien deze bepalingen de vorm van afwijkingen aannemen, dienen zij van tijdelij
 
 Als zich bevindend in het vrije verkeer in een lidstaat worden beschouwd: de producten uit derde landen waarvoor in genoemde staat de invoerformaliteiten zijn verricht en de verschuldigde douanerechten en heffingen van gelijke werking zijn voldaan en waarvoor geen gehele of gedeeltelijke teruggave van die rechten en heffingen is verleend.
 
+### HOOFDSTUK 1. DE DOUANE-UNIE
+
 ##### Artikel 30
 
 In- en uitvoerrechten of heffingen van gelijke werking zijn tussen de lidstaten verboden. Zulks geldt eveneens voor douanerechten van ﬁscale aard.
@@ -333,8 +288,6 @@ In- en uitvoerrechten of heffingen van gelijke werking zijn tussen de lidstaten 
 ##### Artikel 31
 
 De rechten van het gemeenschappelijk douanetarief worden door de Raad vastgesteld op voorstel van de Commissie.
-
-## TITEL II. DE LANDBOUW
 
 ##### Artikel 32
 
@@ -348,9 +301,13 @@ Bij de uitvoering van de taken die haar krachtens de bepalingen van dit hoofdstu
 
 - d. de noodzaak om ernstige verstoringen van het economisch leven der lidstaten te vermijden en een rationele ontwikkeling van de productie alsook een verruiming van het verbruik in de Unie te waarborgen.
 
+### HOOFDSTUK 2. DE DOUANESAMENWERKING
+
 ##### Artikel 33
 
 Binnen het toepassingsgebied van de Verdragen nemen het Europees Parlement en de Raad volgens de gewone wetgevingsprocedure maatregelen ter versterking van de douanesamenwerking tussen de lidstaten onderling en tussen de lidstaten en de Commissie.
+
+### HOOFDSTUK 3. VERBOD OP KWANTITATIEVE BEPERKINGEN TUSSEN DE LIDSTATEN
 
 ##### Artikel 34
 
@@ -374,6 +331,8 @@ De bepalingen van dit artikel zijn van toepassing op elk lichaam waardoor een li
 
 3. Wanneer er een monopolie van commerciële aard bestaat, dat een regeling ter vergemakkelijking van de afzet of van de valorisatie van landbouwproducten omvat, dienen bij de toepassing van de bepalingen van dit artikel gelijkwaardige waarborgen te worden gegeven voor de werkgelegenheid en de levensstandaard van de betrokken producenten.
 
+### TITEL III. LANDBOUW EN VISSERIJ
+
 ##### Artikel 38
 
 1. De Unie bepaalt een gemeenschappelijk landbouw- en visserijbeleid en voert dat uit.
@@ -385,10 +344,6 @@ De interne markt omvat mede de landbouw, de visserij en de handel in landbouwpro
 3. De producten welke vallen onder de bepalingen van de artikelen 39 tot en met 44 zijn vermeld in de lijst in bijlage I.
 
 4. De werking en de ontwikkeling van de interne markt voor de landbouwproducten dienen gepaard te gaan met de totstandkoming van een gemeenschappelijk landbouwbeleid.
-
-## TITEL III. HET VRIJE VERKEER VAN PERSONEN, DIENSTEN EN KAPITAAL
-
-### HOOFDSTUK 1. DE WERKNEMERS
 
 ##### Artikel 39
 
@@ -450,8 +405,6 @@ De Raad kan, op voorstel van de Commissie, machtiging geven tot het verlenen van
 
 - b. in het kader van economische ontwikkelingsplannen.
 
-### HOOFDSTUK 2. HET RECHT VAN VESTIGING
-
 ##### Artikel 43
 
 1. De Commissie doet voorstellen inzake de totstandbrenging en de uitvoering van het gemeenschappelijk landbouwbeleid, daarbij inbegrepen de vervanging van de nationale organisaties door een van de in artikel 40, lid 1, genoemde vormen van gemeenschappelijke ordening, alsook de uitvoering van de in deze titel speciaal vermelde maatregelen.
@@ -477,6 +430,10 @@ Wanneer in een lidstaat een product onder een nationale marktorganisatie valt of
 De Commissie bepaalt de hoogte van deze heffingen zodanig als nodig is om het evenwicht te herstellen;
 
 zij kan eveneens machtiging verlenen tot het nemen van andere maatregelen waarvan zij de voorwaarden en wijze van toepassing vaststelt.
+
+### TITEL IV. HET VRIJE VERKEER VAN PERSONEN, DIENSTEN EN KAPITAAL
+
+### HOOFDSTUK 1. DE WERKNEMERS
 
 ##### Artikel 45
 
@@ -526,7 +483,7 @@ Wanneer een lid van de Raad verklaart dat een ontwerp van wetgevingshandeling al
 
 - b. niet handelen of de Commissie verzoeken een nieuw voorstel in te dienen; in dat geval wordt de aanvankelijk voorgestelde handeling geacht niet te zijn vastgesteld.
 
-### HOOFDSTUK 3. DE DIENSTEN
+### HOOFDSTUK 2. HET RECHT VAN VESTIGING
 
 ##### Artikel 49
 
@@ -584,7 +541,7 @@ Onder vennootschappen worden verstaan maatschappen naar burgerlijk recht of hand
 
 De lidstaten verlenen nationale behandeling wat betreft ﬁnanciële deelneming door de onderdanen van de andere lidstaten in het kapitaal van rechtspersonen in de zin van artikel 54, onverminderd de toepassing der overige bepalingen van de Verdragen.
 
-### HOOFDSTUK 4. KAPITAAL EN BETALINGSVERKEER
+### HOOFDSTUK 3. DE DIENSTEN
 
 ##### Artikel 56
 
@@ -626,8 +583,6 @@ De lidstaten spannen zich in om bij de liberalisering der diensten verder te gaa
 
 De Commissie doet de betrokken lidstaten daartoe aanbevelingen.
 
-## TITEL IV. VISA, ASIEL, IMMIGRATIE EN ANDERE BELEIDSTERREINEN DIE VERBAND HOUDEN MET HET VRIJE VERKEER VAN PERSONEN
-
 ##### Artikel 61
 
 Zolang de beperkingen op het vrij verrichten van diensten niet zijn opgeheven, passen de lidstaten deze zonder onderscheid naar nationaliteit of naar verblijfplaats toe op al degenen die diensten verrichten als bedoeld in de eerste alinea van artikel 56.
@@ -635,6 +590,8 @@ Zolang de beperkingen op het vrij verrichten van diensten niet zijn opgeheven, p
 ##### Artikel 62
 
 De bepalingen van de artikelen 51 tot en met 54 zijn van toepassing op het onderwerp dat in dit hoofdstuk is geregeld.
+
+### HOOFDSTUK 4. KAPITAAL EN BETALINGSVERKEER
 
 ##### Artikel 63
 
@@ -668,6 +625,10 @@ De bepalingen van de artikelen 51 tot en met 54 zijn van toepassing op het onder
 
 Wanneer, in uitzonderlijke omstandigheden, het kapitaalverkeer naar of uit derde landen ernstige moeilijkheden veroorzaakt of dreigt te veroorzaken voor de werking van de Economische en Monetaire Unie, kan de Raad op voorstel van de Commissie en na raadpleging van de Europese Centrale Bank ten aanzien van derde landen vrijwaringsmaatregelen nemen voor een periode van ten hoogste zes maanden, indien deze maatregelen strikt noodzakelijk zijn.
 
+### TITEL V. DE RUIMTE VAN VRIJHEID, VEILIGHEID EN RECHT
+
+### HOOFDSTUK 1. ALGEMENE BEPALINGEN
+
 ##### Artikel 67
 
 1. De Unie is een ruimte van vrijheid, veiligheid en recht, waarin de grondrechten en de verschillende rechtsstelsels en -tradities van de lidstaten worden geëerbiedigd.
@@ -685,8 +646,6 @@ De Europese Raad stelt de strategische richtsnoeren van de wetgevende en operati
 ##### Artikel 69
 
 Met betrekking tot de wetgevingsvoorstellen en -initiatieven die worden ingediend in het kader van de hoofdstukken 4 en 5 zien de nationale parlementen erop toe dat het subsidiariteitsbeginsel wordt geëerbiedigd, overeenkomstig het Protocol betreffende de toepassing van de beginselen van subsidiariteit en evenredigheid.
-
-## TITEL V. VERVOER
 
 ##### Artikel 70
 
@@ -724,6 +683,8 @@ De in de hoofdstukken 4 en 5 bedoelde handelingen alsmede de in artikel 74 bedoe
 
 - b. op initiatief van een kwart van de lidstaten.
 
+### HOOFDSTUK 2. BELEID INZAKE GRENSCONTROLES, ASIEL EN IMMIGRATIE
+
 ##### Artikel 77
 
 1. De Unie ontwikkelt een beleid dat tot doel heeft:
@@ -752,7 +713,7 @@ De in de hoofdstukken 4 en 5 bedoelde handelingen alsmede de in artikel 74 bedoe
 
 ##### Artikel 78
 
-1. De Unie ontwikkelt een gemeenschappelijk beleid inzake asiel, subsidiaire bescherming en tijdelijke bescherming, teneinde iedere onderdaan van een derde land die internationale bescherming behoeft, een passende status te verlenen en de naleving van het beginsel van non-refoulement te garanderen. Dit beleid moet in overeenstemming zijn met het [Verdrag van Genève](https://wetten.overheid.nl/jci1.3:c:BWBV0001002) van 28 juli 1951 en het [Protocol](onbekend) van 31 januari 1967 betreffende de status van vluchtelingen alsmede met de andere toepasselijke verdragen.
+1. De Unie ontwikkelt een gemeenschappelijk beleid inzake asiel, subsidiaire bescherming en tijdelijke bescherming, teneinde iedere onderdaan van een derde land die internationale bescherming behoeft, een passende status te verlenen en de naleving van het beginsel van non-refoulement te garanderen. Dit beleid moet in overeenstemming zijn met het [Verdrag van Genève](https://wetten.overheid.nl/jci1.3:c:BWBV0001002) van 28 juli 1951 en het Protocol van 31 januari 1967 betreffende de status van vluchtelingen alsmede met de andere toepasselijke verdragen.
 
 2. Voor de toepassing van lid 1 stellen het Europees Parlement en de Raad volgens de gewone wetgevingsprocedure maatregelen vast voor een gemeenschappelijk Europees asielstelsel dat omvat:
 
@@ -796,11 +757,7 @@ De in de hoofdstukken 4 en 5 bedoelde handelingen alsmede de in artikel 74 bedoe
 
 Aan het in dit hoofdstuk bedoelde beleid van de Unie en de uitvoering daarvan liggen de beginselen van solidariteit en billijke verdeling van de verantwoordelijkheid tussen de lidstaten, ook op ﬁnancieel vlak, ten grondslag. De handelingen van de Unie die uit hoofde van dit hoofdstuk worden vastgesteld, bevatten telkens wanneer dat nodig is, passende bepalingen voor de toepassing van dit beginsel.
 
-## TITEL VI. GEMEENSCHAPPELIJKE REGELS BETREFFENDE DE MEDEDINGING, DE BELASTINGEN EN DE ONDERLINGE AANPASSING VAN DE WETGEVINGEN
-
-### HOOFDSTUK 1. REGELS BETREFFENDE DE MEDEDINGING
-
-### EERSTE AFDELING. REGELS VOOR DE ONDERNEMINGEN
+### HOOFDSTUK 3. JUSTITIËLE SAMENWERKING IN BURGERLIJKE ZAKEN
 
 ##### Artikel 81
 
@@ -829,6 +786,8 @@ Aan het in dit hoofdstuk bedoelde beleid van de Unie en de uitvoering daarvan li
 De Raad kan op voorstel van de Commissie bij besluit vaststellen ten aanzien van welke aspecten van het familierecht met grensoverschrijdende gevolgen handelingen volgens de gewone wetgevingsprocedure kunnen worden vastgesteld. De Raad besluit met eenparigheid van stemmen, na raadpleging van het Europees Parlement.
 
 Het in de tweede alinea bedoelde voorstel wordt aan de nationale parlementen toegezonden. Indien binnen een termijn van zes maanden na die toezending door een nationaal parlement bezwaar wordt aangetekend, is het besluit niet vastgesteld. Indien geen bezwaar wordt aangetekend, kan de Raad het besluit vaststellen.
+
+### HOOFDSTUK 4. JUSTITIËLE SAMENWERKING IN STRAFZAKEN
 
 ##### Artikel 82
 
@@ -910,7 +869,7 @@ Binnen dezelfde termijn, in geval van verschil van mening en indien ten minste n
 
 4. De Europese Raad kan tegelijkertijd of later een besluit vaststellen tot wijziging van lid 1, teneinde de bevoegdheden van het Europees openbaar ministerie bij de bestrijding van ernstige criminaliteit met een grensoverschrijdende dimensie uit te breiden en dientengevolge tot wijziging van lid 2 wat betreft de plegers van en medeplichtigen aan zware misdrijven die verscheidene lidstaten schaden. De Europese Raad besluit met eenparigheid van stemmen, na goedkeuring door het Europees Parlement en na raadpleging van de Commissie.
 
-### TWEEDE AFDELING. STEUNMAATREGELEN VAN DE STATEN
+### HOOFDSTUK 5. POLITIËLE SAMENWERKING
 
 ##### Artikel 87
 
@@ -950,7 +909,7 @@ Bij deze verordeningen wordt tevens bepaald op welke wijze de activiteiten van E
 
 De Raad stelt volgens een bijzondere wetgevingsprocedure de voorwaarden en de beperkingen vast waarbinnen de in de artikelen 82 en 87 bedoelde bevoegde autoriteiten van de lidstaten op het grondgebied van een andere lidstaat in overleg en overeenstemming met de autoriteiten van die staat mogen optreden. De Raad besluit met eenparigheid van stemmen, na raadpleging van het Europees Parlement.
 
-### HOOFDSTUK 2. BEPALINGEN BETREFFENDE BELASTINGEN
+### TITEL VI. VERVOER
 
 ##### Artikel 90
 
@@ -977,8 +936,6 @@ Totdat de in artikel 91, lid 1, bedoelde bepalingen zijn vastgesteld en behouden
 ##### Artikel 93
 
 Met de Verdragen zijn verenigbaar de steunmaatregelen die beantwoorden aan de behoeften van de coördinatie van het vervoer of die overeenkomen met de vergoeding van bepaalde met het begrip „openbare dienst” verbonden, verplichte dienstverrichtingen.
-
-### HOOFDSTUK 3. DE AANPASSING VAN DE WETGEVINGEN
 
 ##### Artikel 94
 
@@ -1014,10 +971,6 @@ De lidstaten streven naar een geleidelijke verlaging van die kosten.
 
 De Commissie kan de lidstaten aanbevelingen doen voor de toepassing van dit artikel.
 
-## TITEL VII. ECONOMISCH EN MONETAIR BELEID
-
-### HOOFDSTUK 1. ECONOMISCH BELEID
-
 ##### Artikel 98
 
 De bepalingen van deze titel staan niet in de weg aan maatregelen, in de Bondsrepubliek Duitsland genomen, voor zover deze noodzakelijk zijn om de economische nadelen door de deling van Duitsland berokkend aan de economie van die streken in de Bondsrepubliek welke door deze deling zijn getroffen, te compenseren. Vijf jaar na de inwerkingtreding van het Verdrag van Lissabon kan de Raad op voorstel van de Commissie een besluit tot intrekking van dit artikel vaststellen.
@@ -1031,6 +984,12 @@ Een comité van raadgevende aard, bestaande uit door de regeringen der lidstaten
 1. De bepalingen van deze titel zijn van toepassing op het vervoer per spoor, over de weg en over de binnenwateren.
 
 2. Het Europees Parlement en de Raad kunnen, volgens de gewone wetgevingsprocedure, passende bepalingen vaststellen voor de zeevaart en de luchtvaart. Zij besluiten na raadpleging van het Economisch en Sociaal Comité en het Comité van de Regio’s.
+
+### TITEL VII. GEMEENSCHAPPELIJKE REGELS BETREFFENDE DE MEDEDINGING, DE BELASTINGEN EN DE ONDERLINGE AANPASSING VAN DE WETGEVINGEN
+
+### HOOFDSTUK 1. REGELS BETREFFENDE DE MEDEDINGING
+
+#### AFDELING EERSTE. REGELS VOOR DE ONDERNEMINGEN
 
 ##### Artikel 101
 
@@ -1050,15 +1009,15 @@ Een comité van raadgevende aard, bestaande uit door de regeringen der lidstaten
 
 3. De bepalingen van lid 1 van dit artikel kunnen echter buiten toepassing worden verklaard
 
-- –. voor elke overeenkomst of groep van overeenkomsten tussen ondernemingen,
+- – voor elke overeenkomst of groep van overeenkomsten tussen ondernemingen,
 
-- –. voor elk besluit of groep van besluiten van ondernemersverenigingen, en
+- – voor elk besluit of groep van besluiten van ondernemersverenigingen, en
 
-- –. voor elke onderling afgestemde feitelijke gedraging of groep van gedragingen die bijdragen tot verbetering van de productie of van de verdeling der producten of tot verbetering van de technische of economische vooruitgang, mits een billijk aandeel in de daaruit voortvloeiende voordelen de gebruikers ten goede komt, en zonder nochtans aan de betrokken ondernemingen
+- – voor elke onderling afgestemde feitelijke gedraging of groep van gedragingen die bijdragen tot verbetering van de productie of van de verdeling der producten of tot verbetering van de technische of economische vooruitgang, mits een billijk aandeel in de daaruit voortvloeiende voordelen de gebruikers ten goede komt, en zonder nochtans aan de betrokken ondernemingen
 
-- a. beperkingen op te leggen welke voor het bereiken van deze doelstellingen niet onmisbaar zijn,
+   - a. beperkingen op te leggen welke voor het bereiken van deze doelstellingen niet onmisbaar zijn,
 
-- b. de mogelijkheid te geven, voor een wezenlijk deel van de betrokken producten de mededinging uit te schakelen.
+   - b. de mogelijkheid te geven, voor een wezenlijk deel van de betrokken producten de mededinging uit te schakelen.
 
 ##### Artikel 102
 
@@ -1094,8 +1053,6 @@ Dit misbruik kan met name bestaan in:
 
 Tot op het tijdstip van inwerkingtreding van de voorschriften, op grond van artikel 103 vastgesteld, beslissen de autoriteiten van de lidstaten over de toelaatbaarheid van mededingingsregelingen en over het misbruik maken van een machtspositie op de interne markt, in overeenstemming met hun nationale recht en de in artikel 101, met name lid 3, en in artikel 102 neergelegde bepalingen.
 
-### HOOFDSTUK 2. Monetair beleid
-
 ##### Artikel 105
 
 1. Onverminderd het in artikel 104 bepaalde, waakt de Commissie voor de toepassing van de in de artikelen 101 en 102 neergelegde beginselen. Op verzoek van een lidstaat of ambtshalve, en in samenwerking met de bevoegde autoriteiten van de lidstaten, welke haar daarbij behulpzaam zijn, stelt zij een onderzoek in naar de gevallen van vermoedelijke inbreuk op bovengenoemde beginselen. Indien haar blijkt dat inbreuk is gepleegd, stelt zij passende middelen voor om daaraan een eind te maken.
@@ -1111,6 +1068,8 @@ Tot op het tijdstip van inwerkingtreding van de voorschriften, op grond van arti
 2. De ondernemingen belast met het beheer van diensten van algemeen economisch belang of die het karakter dragen van een ﬁscaal monopolie, vallen onder de regels van de Verdragen, met name onder de mededingingsregels, voorzover de toepassing daarvan de vervulling, in feite of in rechte, van de hun toevertrouwde bijzondere taak niet verhindert. De ontwikkeling van het handelsverkeer mag niet worden beïnvloed in een mate die strijdig is met het belang van de Unie.
 
 3. De Commissie waakt voor de toepassing van dit artikel en richt, voorzover nodig, passende richtlijnen of besluiten tot de lidstaten.
+
+#### AFDELING TWEEDE. STEUNMAATREGELEN VAN DE STATEN
 
 ##### Artikel 107
 
@@ -1156,6 +1115,8 @@ Evenwel, indien de Raad binnen een termijn van drie maanden te rekenen van het v
 
 De Raad kan op voorstel van de Commissie en na raadpleging van het Europees Parlement alle verordeningen vaststellen, dienstig voor de toepassing van de artikelen 107 en 108, en met name de voorwaarden voor de toepassing van artikel 108, lid 3, bepalen alsmede de van die procedure vrijgestelde soorten van steunmaatregelen.
 
+### HOOFDSTUK 2. BEPALINGEN BETREFFENDE BELASTINGEN
+
 ##### Artikel 110
 
 De lidstaten heffen op producten van de overige lidstaten, al dan niet rechtstreeks, geen hogere binnenlandse belastingen van welke aard ook dan die welke, al dan niet rechtstreeks, op gelijksoortige nationale producten worden geheven.
@@ -1166,8 +1127,6 @@ Bovendien heffen de lidstaten op de producten van de overige lidstaten geen zoda
 
 Bij de uitvoer van producten naar het grondgebied van een der lidstaten mag de teruggave van binnenlandse belastingen niet het bedrag overschrijden dat daarop al dan niet rechtstreeks geheven is.
 
-### HOOFDSTUK 3. INSTITUTIONELE BEPALINGEN
-
 ##### Artikel 112
 
 Met betrekking tot andere belastingen dan de omzetbelasting, de accijnzen en de overige indirecte belastingen mogen vrijstellingen en teruggaven bij uitvoer naar de andere lidstaten slechts worden verleend en compenserende belastingen bij invoer uit de lidstaten slechts worden geheven, voorzover de bedoelde maatregelen van tevoren voor een beperkte periode door de Raad op voorstel van de Commissie zijn goedgekeurd.
@@ -1175,6 +1134,8 @@ Met betrekking tot andere belastingen dan de omzetbelasting, de accijnzen en de 
 ##### Artikel 113
 
 De Raad stelt na raadpleging van het Europees Parlement en het Economisch en Sociaal Comité met eenparigheid van stemmen, volgens een bijzondere wetgevingsprocedure de bepalingen vast die betrekking hebben op de harmonisatie van de wetgevingen inzake de omzetbelasting, de accijnzen en de andere indirecte belastingen, voorzover deze harmonisatie noodzakelijk is om de instelling en de werking van de interne markt te bewerkstelligen en concurrentieverstoringen te voorkomen.
+
+### HOOFDSTUK 3. DE AANPASSING VAN DE WETGEVINGEN
 
 ##### Artikel 114
 
@@ -1206,8 +1167,6 @@ Indien het complexe karakter van de aangelegenheid zulks rechtvaardigt en er gee
 
 Onverminderd artikel 114 stelt de Raad na raadpleging van het Europees Parlement en het Economisch en Sociaal Comité met eenparigheid van stemmen, volgens een bijzondere wetgevingsprocedure richtlijnen vast voor de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen der lidstaten welke rechtstreeks van invloed zijn op de instelling of de werking van de interne markt.
 
-### HOOFDSTUK 4. Overgangsbepalingen
-
 ##### Artikel 116
 
 Ingeval de Commissie vaststelt dat een dispariteit tussen de wettelijke of bestuursrechtelijke bepalingen der lidstaten de mededingingsvoorwaarden op de interne markt vervalst en zodoende een distorsie veroorzaakt welke moet worden opgeheven, raadpleegt zij de betrokken lidstaten.
@@ -1228,6 +1187,8 @@ In het kader van de totstandbrenging en de werking van de interne markt stellen 
 
 De Raad stelt, volgens een bijzondere wetgevingsprocedure, bij verordeningen de talenregelingen met betrekking tot de Europese titels vast. De Raad besluit met eenparigheid van stemmen, na raadpleging van het Europees Parlement.
 
+### TITEL VIII. ECONOMISCH EN MONETAIR BELEID
+
 ##### Artikel 119
 
 1. Teneinde de in [artikel 3 van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=3) genoemde doelstellingen te bereiken, omvat het optreden van de lidstaten en de Unie, onder de voorwaarden waarin de Verdragen voorzien, de invoering van een economisch beleid dat gebaseerd is op de nauwe coördinatie van het economisch beleid van de lidstaten, op de interne markt en op de uitwerking van gemeenschappelijke doelstellingen en dat wordt gevoerd met inachtneming van het beginsel van een openmarkteconomie met vrije mededinging.
@@ -1235,6 +1196,8 @@ De Raad stelt, volgens een bijzondere wetgevingsprocedure, bij verordeningen de 
 2. Gelijktijdig daarmee omvat dit optreden, onder de voorwaarden en volgens de procedures waarin de Verdragen voorzien, één munt, de euro, alsmede het bepalen en voeren van één monetair en wisselkoersbeleid, beide met als hoofddoel het handhaven van prijsstabiliteit en, onverminderd deze doelstelling, het ondersteunen van het algemene economische beleid in de Unie, met inachtneming van het beginsel van een openmarkteconomie met vrije mededinging.
 
 3. Dit optreden van de lidstaten en van de Unie impliceert de naleving van de volgende grondbeginselen: stabiele prijzen, gezonde overheidsﬁnanciën en monetaire condities en een houdbare betalingsbalans.
+
+### HOOFDSTUK 1. ECONOMISCH BELEID
 
 ##### Artikel 120
 
@@ -1280,8 +1243,6 @@ De gekwaliﬁceerde meerderheid van de overige leden van de Raad wordt bepaald o
 
 Niet op overwegingen van bedrijfseconomisch toezicht gebaseerde maatregelen waardoor instellingen, organen of instanties van de Unie, centrale overheden, regionale, lokale of andere overheden, andere publiekrechtelijke lichamen of openbare bedrijven van de lidstaten een bevoorrechte toegang tot de ﬁnanciële instellingen krijgen, zijn verboden.
 
-## TITEL VIII. WERKGELEGENHEID
-
 ##### Artikel 125
 
 1. De Unie is niet aansprakelijk voor de verbintenissen van centrale overheden, regionale, lokale of andere overheden, andere publiekrechtelijke lichamen of openbare bedrijven van de lidstaten en neemt deze verbintenissen niet over, onverminderd de wederzijdse ﬁnanciële garanties voor de gemeenschappelijke uitvoering van een speciﬁek project. De lidstaten zijn niet aansprakelijk voor de verbintenissen van centrale overheden, regionale, lokale of andere overheden, andere publiekrechtelijke lichamen of openbare bedrijven van een andere lidstaat en nemen deze verbintenissen niet over, onverminderd de wederzijdse ﬁnanciële garanties voor de gemeenschappelijke uitvoering van een speciﬁek project.
@@ -1296,9 +1257,9 @@ Niet op overwegingen van bedrijfseconomisch toezicht gebaseerde maatregelen waar
 
 - a. of de verhouding tussen het voorziene of feitelijke overheidstekort en het bruto binnenlands product een bepaalde referentiewaarde overschrijdt, tenzij:
 
-- –. hetzij de verhouding in aanzienlijke mate en voortdurend is afgenomen en een niveau heeft bereikt dat de referentiewaarde benadert;
+   - – hetzij de verhouding in aanzienlijke mate en voortdurend is afgenomen en een niveau heeft bereikt dat de referentiewaarde benadert;
 
-- –. hetzij de overschrijding van de referentiewaarde slechts van uitzonderlijke en tijdelijke aard is en de verhouding dicht bij de referentiewaarde blijft;
+   - – hetzij de overschrijding van de referentiewaarde slechts van uitzonderlijke en tijdelijke aard is en de verhouding dicht bij de referentiewaarde blijft;
 
 - b. of de verhouding tussen de overheidsschuld en het bruto binnenlands product een bepaalde referentiewaarde overschrijdt, tenzij de verhouding in voldoende mate afneemt en de referentiewaarde in een bevredigend tempo benadert.
 
@@ -1326,13 +1287,13 @@ In dat geval kan de Raad de betrokken lidstaat verzoeken volgens een nauwkeurig 
 
 11. Zolang een lidstaat zich niet voegt naar een overeenkomstig lid 9 genomen besluit, kan de Raad één of meer van de volgende maatregelen toepassen of in voorkomend geval versterken:
 
-- –. eisen dat de betrokken lidstaat door de Raad te bepalen aanvullende informatie openbaar maakt voordat hij obligaties en andere waardepapieren uitgeeft;
+- – eisen dat de betrokken lidstaat door de Raad te bepalen aanvullende informatie openbaar maakt voordat hij obligaties en andere waardepapieren uitgeeft;
 
-- –. de Europese Investeringsbank verzoeken haar beleid inzake kredietverstrekking ten aanzien van de betrokken lidstaat opnieuw te bezien;
+- – de Europese Investeringsbank verzoeken haar beleid inzake kredietverstrekking ten aanzien van de betrokken lidstaat opnieuw te bezien;
 
-- –. eisen dat de betrokken lidstaat bij de Unie een niet-rentedragend bedrag van een passende omvang deponeert, totdat het buitensporige tekort naar het oordeel van de Raad is gecorrigeerd;
+- – eisen dat de betrokken lidstaat bij de Unie een niet-rentedragend bedrag van een passende omvang deponeert, totdat het buitensporige tekort naar het oordeel van de Raad is gecorrigeerd;
 
-- –. boeten van een passende omvang opleggen.
+- – boeten van een passende omvang opleggen.
 
 De voorzitter van de Raad stelt het Europees Parlement van de genomen besluiten in kennis.
 
@@ -1350,27 +1311,29 @@ Na raadpleging van het Europees Parlement en van de Europese Centrale Bank, neem
 
 Onder voorbehoud van de andere bepalingen van dit lid, stelt de Raad op voorstel van de Commissie en na raadpleging van het Europees Parlement, nadere voorschriften en deﬁnities voor de toepassing van de bepalingen van dit Protocol vast.
 
+### HOOFDSTUK 2. MONETAIR BELEID
+
 ##### Artikel 127
 
 1. Het hoofddoel van het Europees Stelsel van Centrale Banken hierna „ESCB” te noemen, is het handhaven van prijsstabiliteit. Onverminderd het doel van prijsstabiliteit ondersteunt het ESCB het algemene economische beleid in de Unie teneinde bij te dragen tot de verwezenlijking van de in [artikel 3 van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=3) omschreven doelstellingen van de Unie. Het ESCB handelt in overeenstemming met het beginsel van een openmarkteconomie met vrije mededinging, waarbij een doelmatige allocatie van middelen wordt bevorderd, en met inachtneming van de beginselen die zijn neergelegd in artikel 119.
 
 2. De via het ESCB uit te voeren fundamentele taken zijn:
 
-- –. het bepalen en ten uitvoer leggen van het monetair beleid van de Unie;
+- – het bepalen en ten uitvoer leggen van het monetair beleid van de Unie;
 
-- –. het verrichten van valutamarktoperaties in overeenstemming met de bepalingen van artikel 219;
+- – het verrichten van valutamarktoperaties in overeenstemming met de bepalingen van artikel 219;
 
-- –. het aanhouden en beheren van de officiële externe reserves van de lidstaten;
+- – het aanhouden en beheren van de officiële externe reserves van de lidstaten;
 
-- –. het bevorderen van een goede werking van het betalingsverkeer.
+- – het bevorderen van een goede werking van het betalingsverkeer.
 
 3. Het bepaalde in lid 2, derde streepje, laat het aanhouden en beheren van werksaldi in buitenlandse valuta’s door de regeringen van de lidstaten onverlet.
 
 4. De Europese Centrale Bank wordt geraadpleegd:
 
-- –. over elk voorstel voor een besluit van de Unie op de gebieden die onder haar bevoegdheid vallen;
+- – over elk voorstel voor een besluit van de Unie op de gebieden die onder haar bevoegdheid vallen;
 
-- –. door de nationale autoriteiten over elk ontwerp van wettelijke bepaling op de gebieden die onder haar bevoegdheid vallen, doch binnen de grenzen en onder de voorwaarden die de Raad volgens de procedure van artikel 129, lid 4, vaststelt.
+- – door de nationale autoriteiten over elk ontwerp van wettelijke bepaling op de gebieden die onder haar bevoegdheid vallen, doch binnen de grenzen en onder de voorwaarden die de Raad volgens de procedure van artikel 129, lid 4, vaststelt.
 
 De Europese Centrale Bank kan advies uitbrengen aan de geëigende instellingen, organen of instanties van de Unie of aan nationale autoriteiten omtrent aangelegenheden op de gebieden die onder haar bevoegdheid vallen.
 
@@ -1388,7 +1351,7 @@ De Europese Centrale Bank kan advies uitbrengen aan de geëigende instellingen, 
 
 1. Het ESCB wordt bestuurd door de besluitvormende organen van de Europese Centrale Bank, te weten de Raad van bestuur en de directie.
 
-2. De [statuten van het Europees Stelsel van Centrale Banken en van de Europese Centrale Bank](onbekend), hierna genoemd „statuten van het ESCB en van de ECB” zijn opgenomen in een aan de Verdragen gehecht protocol.
+2. De [statuten van het Europees Stelsel van Centrale Banken en van de Europese Centrale Bank](https://wetten.overheid.nl/BWBV0001507), hierna genoemd „statuten van het ESCB en van de ECB” zijn opgenomen in een aan de Verdragen gehecht protocol.
 
 3. [Artikelen 5.1, 5.2, 5.3](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=5), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=18), [19.1](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=19), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=22), [23](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=23), [24](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=24), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=26), [32.2, 32.3, 32.4 32.6,](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=32),[33.1 a)](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=33) en [36 van de statuten van het ESCB en van de ECB](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=36) kunnen door het Europees Parlement en de Raad worden gewijzigd volgens de gewone wetgevingsprocedure. Zij besluiten hetzij op aanbeveling van de Europese Centrale Bank en na raadpleging van de Commissie, hetzij op voorstel van de Commissie en na raadpleging van de Europese Centrale Bank.
 
@@ -1396,23 +1359,21 @@ De Europese Centrale Bank kan advies uitbrengen aan de geëigende instellingen, 
 
 ##### Artikel 130
 
-Bij de uitoefening van de bevoegdheden en het vervullen van de taken en plichten die bij de Verdragen en de [statuten van het ESCB en van de ECB](onbekend) aan hen zijn opgedragen, is het noch de Europese Centrale Bank, noch een nationale centrale bank, noch enig lid van hun besluitvormende organen toegestaan instructies te vragen aan dan wel te aanvaarden van instellingen, organen of instanties van de Unie, van regeringen van lidstaten of van enig ander orgaan. De instellingen, organen of instanties van de Unie alsmede de regeringen van de lidstaten verplichten zich ertoe dit beginsel te eerbiedigen en niet te trachten de leden van de besluitvormende organen van de Europese Centrale Bank of van de nationale centrale banken bij de uitvoering van hun taken te beïnvloeden.
-
-## TITEL IX. GEMEENSCHAPPELIJKE HANDELSPOLITIEK
+Bij de uitoefening van de bevoegdheden en het vervullen van de taken en plichten die bij de Verdragen en de [statuten van het ESCB en van de ECB](https://wetten.overheid.nl/BWBV0001507) aan hen zijn opgedragen, is het noch de Europese Centrale Bank, noch een nationale centrale bank, noch enig lid van hun besluitvormende organen toegestaan instructies te vragen aan dan wel te aanvaarden van instellingen, organen of instanties van de Unie, van regeringen van lidstaten of van enig ander orgaan. De instellingen, organen of instanties van de Unie alsmede de regeringen van de lidstaten verplichten zich ertoe dit beginsel te eerbiedigen en niet te trachten de leden van de besluitvormende organen van de Europese Centrale Bank of van de nationale centrale banken bij de uitvoering van hun taken te beïnvloeden.
 
 ##### Artikel 131
 
-Iedere lidstaat draagt er zorg voor dat zijn nationale wetgeving, met inbegrip van de statuten van zijn nationale centrale bank, verenigbaar is met de Verdragen en met de [statuten van het ESCB en van de ECB](onbekend).
+Iedere lidstaat draagt er zorg voor dat zijn nationale wetgeving, met inbegrip van de statuten van zijn nationale centrale bank, verenigbaar is met de Verdragen en met de [statuten van het ESCB en van de ECB](https://wetten.overheid.nl/BWBV0001507).
 
 ##### Artikel 132
 
-1. Ter uitvoering van de aan het ESCB opgedragen taken, zal de Europese Centrale Bank, overeenkomstig het bepaalde in de Verdragen en onder de voorwaarden van de [statuten van het ESCB en van de ECB](onbekend):
+1. Ter uitvoering van de aan het ESCB opgedragen taken, zal de Europese Centrale Bank, overeenkomstig het bepaalde in de Verdragen en onder de voorwaarden van de [statuten van het ESCB en van de ECB](https://wetten.overheid.nl/BWBV0001507):
 
-- –. verordeningen vaststellen voorzover nodig voor de uitvoering van de taken omschreven in [artikel 3.1, eerste streepje](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=3), [artikel 19.1](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=19), [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=22) of [artikel 25.2 van de statuten van het ESCB en van de ECB](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=25), alsmede in de gevallen die worden bepaald in de in artikel 129, lid 4, bedoelde besluiten van de Raad;
+- – verordeningen vaststellen voorzover nodig voor de uitvoering van de taken omschreven in [artikel 3.1, eerste streepje](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=3), [artikel 19.1](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=19), [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=22) of [artikel 25.2 van de statuten van het ESCB en van de ECB](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=25), alsmede in de gevallen die worden bepaald in de in artikel 129, lid 4, bedoelde besluiten van de Raad;
 
-- –. de besluiten geven die nodig zijn voor de uitvoering van de bij de Verdragen en de statuten van het ESCB en van de ECB aan het ESCB opgedragen taken;
+- – de besluiten geven die nodig zijn voor de uitvoering van de bij de Verdragen en de statuten van het ESCB en van de ECB aan het ESCB opgedragen taken;
 
-- –. aanbevelingen doen en adviezen uitbrengen.
+- – aanbevelingen doen en adviezen uitbrengen.
 
 2. De Europese Centrale Bank kan besluiten haar besluiten, aanbevelingen en adviezen openbaar te maken.
 
@@ -1422,19 +1383,21 @@ Iedere lidstaat draagt er zorg voor dat zijn nationale wetgeving, met inbegrip v
 
 Onverminderd de bevoegdheden van de Europese Centrale Bank, stellen het Europees Parlement en de Raad, volgens de gewone wetgevingsprocedure, de maatregelen vast die nodig zijn voor het gebruik van de euro als enige munteenheid. Deze maatregelen worden vastgesteld na raadpleging van de Europese Centrale Bank.
 
+### HOOFDSTUK 3. INSTITUTIONELE BEPALINGEN
+
 ##### Artikel 134
 
 1. Teneinde de coördinatie van het beleid van de lidstaten te bevorderen in de volle omvang die nodig is voor de werking van de interne markt, wordt een Economisch en Financieel comité ingesteld.
 
 2. Het Economisch en Financieel Comité heeft tot taak:
 
-- –. hetzij op verzoek van de Raad of van de Commissie, hetzij op eigen initiatief adviezen aan deze instellingen uit te brengen;
+- – hetzij op verzoek van de Raad of van de Commissie, hetzij op eigen initiatief adviezen aan deze instellingen uit te brengen;
 
-- –. de economische en ﬁnanciële toestand van de lidstaten en van de Unie te volgen en terzake regelmatig aan de Raad en aan de Commissie verslag uit te brengen, inzonderheid wat betreft de ﬁnanciële betrekkingen met derde landen en internationale instellingen;
+- – de economische en ﬁnanciële toestand van de lidstaten en van de Unie te volgen en terzake regelmatig aan de Raad en aan de Commissie verslag uit te brengen, inzonderheid wat betreft de ﬁnanciële betrekkingen met derde landen en internationale instellingen;
 
-- –. onverminderd artikel 240, bij te dragen aan de voorbereiding van de werkzaamheden van de Raad, bedoeld in de artikelen 66 en 75, artikel 121, leden 2, 3, 4 en 6, de artikelen 122, 124, 125 en 126, artikel 127, lid 6, artikel 128, lid 2, artikel 129, leden 3 en 4, de artikelen 219, 138 en 143, artikel 144, leden 2 en 3, artikel 140, leden 2 en 3, en andere adviserende en voorbereidende taken die de Raad aan het Comité heeft opgedragen, uit te voeren;
+- – onverminderd artikel 240, bij te dragen aan de voorbereiding van de werkzaamheden van de Raad, bedoeld in de artikelen 66 en 75, artikel 121, leden 2, 3, 4 en 6, de artikelen 122, 124, 125 en 126, artikel 127, lid 6, artikel 128, lid 2, artikel 129, leden 3 en 4, de artikelen 219, 138 en 143, artikel 144, leden 2 en 3, artikel 140, leden 2 en 3, en andere adviserende en voorbereidende taken die de Raad aan het Comité heeft opgedragen, uit te voeren;
 
-- –. ten minste eenmaal per jaar de toestand te onderzoeken met betrekking tot het kapitaalverkeer en de vrijheid van het betalingsverkeer, zoals deze voortvloeien uit de toepassing van de Verdragen en van door de Raad genomen maatregelen; dit onderzoek heeft betrekking op alle maatregelen betreffende kapitaalverkeer en betalingsverkeer; het Comité brengt de Commissie en de Raad verslag uit over de resultaten van dit onderzoek.
+- – ten minste eenmaal per jaar de toestand te onderzoeken met betrekking tot het kapitaalverkeer en de vrijheid van het betalingsverkeer, zoals deze voortvloeien uit de toepassing van de Verdragen en van door de Raad genomen maatregelen; dit onderzoek heeft betrekking op alle maatregelen betreffende kapitaalverkeer en betalingsverkeer; het Comité brengt de Commissie en de Raad verslag uit over de resultaten van dit onderzoek.
 
 De lidstaten, de Commissie en de Europese Centrale Bank benoemen ieder ten hoogste twee leden van het Comité.
 
@@ -1442,15 +1405,11 @@ De lidstaten, de Commissie en de Europese Centrale Bank benoemen ieder ten hoogs
 
 4. Naast de vervulling van de in lid 2 genoemde taken volgt het Comité, indien en zolang er lidstaten zijn met een derogatie als bedoeld in artikel 139, de monetaire en ﬁnanciële toestand en de algemene regeling van het betalingsverkeer van die lidstaten en brengt het terzake regelmatig verslag uit aan de Raad en aan de Commissie.
 
-## TITEL X. DOUANESAMENWERKING
-
 ##### Artikel 135
 
 De Raad of een lidstaat kan de Commissie verzoeken een aanbeveling of een voorstel te doen betreffende aangelegenheden die onder artikel 121, lid 4, artikel 126, met uitzondering van lid 14, de artikelen 219, 138 en artikel 140, leden 1 en 3, vallen. De Commissie onderzoekt dit verzoek en legt haar conclusies onverwijld aan de Raad voor.
 
-## TITEL XI. SOCIALE POLITIEK, ONDERWIJS, BEROEPSOPLEIDING EN JEUGD
-
-### HOOFDSTUK 3. INSTITUTIONELE BEPALINGEN
+### HOOFDSTUK 4. SPECIFIEKE BEPALINGEN VOOR DE LIDSTATEN DIE DE EURO ALS MUNT HEBBEN
 
 ##### Artikel 136
 
@@ -1479,6 +1438,8 @@ De nadere regels voor vergaderingen van de ministers van de lidstaten die de eur
 3. Met betrekking tot de in de leden 1 en 2 bedoelde maatregelen hebben alleen de leden van de Raad die lidstaten vertegenwoordigen welke de euro als munt hebben, stemrecht.
 
 De gekwaliﬁceerde meerderheid van deze leden wordt bepaald overeenkomstig artikel 238, lid 3, onder a).
+
+### HOOFDSTUK 5. OVERGANGSBEPALINGEN
 
 ##### Artikel 139
 
@@ -1520,15 +1481,15 @@ De gekwaliﬁceerde meerderheid van de overige leden van de Raad wordt bepaald o
 
 ##### Artikel 140
 
-1. Ten minste eens in de twee jaar of op verzoek van een lidstaat die onder een derogatie valt, brengen de Commissie en de Europese Centrale Bank aan de Raad verslag uit over de vooruitgang die door de onder een derogatie vallende lidstaten is geboekt bij de nakoming van hun verplichtingen met het oog op de totstandbrenging van de Economische en Monetaire Unie. Deze verslagen bevatten tevens een onderzoek naar de verenigbaarheid van de nationale wetgeving van elk van deze lidstaten, met inbegrip van de statuten van zijn nationale centrale bank, met artikel 130 en artikel 131 en de [statuten van het ESCB en van de ECB](onbekend). In deze verslagen wordt ook nagegaan of er een hoge mate van duurzame convergentie is bereikt, aan de hand van de mate waarin elke lidstaat aan de volgende criteria voldoet:
+1. Ten minste eens in de twee jaar of op verzoek van een lidstaat die onder een derogatie valt, brengen de Commissie en de Europese Centrale Bank aan de Raad verslag uit over de vooruitgang die door de onder een derogatie vallende lidstaten is geboekt bij de nakoming van hun verplichtingen met het oog op de totstandbrenging van de Economische en Monetaire Unie. Deze verslagen bevatten tevens een onderzoek naar de verenigbaarheid van de nationale wetgeving van elk van deze lidstaten, met inbegrip van de statuten van zijn nationale centrale bank, met artikel 130 en artikel 131 en de [statuten van het ESCB en van de ECB](https://wetten.overheid.nl/BWBV0001507). In deze verslagen wordt ook nagegaan of er een hoge mate van duurzame convergentie is bereikt, aan de hand van de mate waarin elke lidstaat aan de volgende criteria voldoet:
 
-- –. het bereiken van een hoge mate van prijsstabiliteit; dit blijkt uit een inﬂatiepercentage dat dicht ligt bij dat van ten hoogste de drie lidstaten die op het gebied van de prijsstabiliteit het best presteren;
+- – het bereiken van een hoge mate van prijsstabiliteit; dit blijkt uit een inﬂatiepercentage dat dicht ligt bij dat van ten hoogste de drie lidstaten die op het gebied van de prijsstabiliteit het best presteren;
 
-- –. het houdbare karakter van de situatie van de overheidsﬁnanciën; dit blijkt uit een begrotingssituatie van de overheid zonder een buitensporig tekort als bedoeld in artikel 126, lid 6;
+- – het houdbare karakter van de situatie van de overheidsﬁnanciën; dit blijkt uit een begrotingssituatie van de overheid zonder een buitensporig tekort als bedoeld in artikel 126, lid 6;
 
-- –. de inachtneming van de normale ﬂuctuatiemarges van het wisselkoersmechanisme van het Europees Monetair Stelsel, gedurende ten minste twee jaar, zonder devaluatie ten opzichte van de euro;
+- – de inachtneming van de normale ﬂuctuatiemarges van het wisselkoersmechanisme van het Europees Monetair Stelsel, gedurende ten minste twee jaar, zonder devaluatie ten opzichte van de euro;
 
-- –. de duurzaamheid van de door de lidstaat die onder een derogatie valt bereikte convergentie en van zijn deelneming aan het wisselkoersmechanisme van het Europees Monetair Stelsel, hetgeen tot uitdrukking komt in het niveau van de rentevoet voor de lange termijn.
+- – de duurzaamheid van de door de lidstaat die onder een derogatie valt bereikte convergentie en van zijn deelneming aan het wisselkoersmechanisme van het Europees Monetair Stelsel, hetgeen tot uitdrukking komt in het niveau van de rentevoet voor de lange termijn.
 
 De vier in dit lid genoemde criteria en de betreffende perioden tijdens welke daaraan moet worden voldaan, worden nader uitgewerkt in een aan de Verdragen gehecht protocol. In de verslagen van de Commissie en de Europese Centrale Bank wordt ook rekening gehouden met de resultaten van de integratie van de markten, de situatie en de ontwikkeling van de lopende rekeningen van de betalingsbalansen, en een onderzoek naar de ontwikkeling van de loonkosten per eenheid product en andere prijsindicatoren.
 
@@ -1546,15 +1507,15 @@ De gekwaliﬁceerde meerderheid van deze leden wordt bepaald overeenkomstig arti
 
 2. Indien en zolang er onder een derogatie vallende lidstaten zijn, heeft de Europese Centrale Bank ten aanzien van die lidstaten de taak:
 
-- –. de samenwerking tussen de nationale centrale banken van de lidstaten te versterken;
+- – de samenwerking tussen de nationale centrale banken van de lidstaten te versterken;
 
-- –. de coördinatie van het monetair beleid van de lidstaten te versterken teneinde prijsstabiliteit te verzekeren;
+- – de coördinatie van het monetair beleid van de lidstaten te versterken teneinde prijsstabiliteit te verzekeren;
 
-- –. toe te zien op de werking van het wisselkoersmechanisme;
+- – toe te zien op de werking van het wisselkoersmechanisme;
 
-- –. overleg te plegen over aangelegenheden die onder de bevoegdheid van de nationale centrale banken vallen en die van invloed zijn op de stabiliteit van de ﬁnanciële instellingen en markten;
+- – overleg te plegen over aangelegenheden die onder de bevoegdheid van de nationale centrale banken vallen en die van invloed zijn op de stabiliteit van de ﬁnanciële instellingen en markten;
 
-- –. de vroegere taken uit te oefenen van het Europees Fonds voor monetaire samenwerking, die eerder waren overgenomen door het Europees Monetair Instituut.
+- – de vroegere taken uit te oefenen van het Europees Fonds voor monetaire samenwerking, die eerder waren overgenomen door het Europees Monetair Instituut.
 
 ##### Artikel 142
 
@@ -1588,11 +1549,11 @@ De Raad kan deze machtiging intrekken en deze voorwaarden en wijze van toepassin
 
 3. Op aanbeveling van de Commissie en na raadpleging van het Economisch en Financieel Comité kan de Raad besluiten dat de betrokken lidstaat bovenbedoelde vrijwaringsmaatregelen moet wijzigen, schorsen of intrekken.
 
+### TITEL IX. WERKGELEGENHEID
+
 ##### Artikel 145
 
 De lidstaten en de Unie streven overeenkomstig deze titel naar de ontwikkeling van een gecoördineerde strategie voor werkgelegenheid en in het bijzonder voor de bevordering van de scholing, de opleiding en het aanpassingsvermogen van de werknemers en arbeidsmarkten die soepel reageren op economische veranderingen teneinde de doelstellingen van [artikel 3 van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=3) te bereiken.
-
-### HOOFDSTUK 2. HET EUROPEES SOCIAAL FONDS
 
 ##### Artikel 146
 
@@ -1618,8 +1579,6 @@ De lidstaten en de Unie streven overeenkomstig deze titel naar de ontwikkeling v
 
 5. Op basis van de resultaten van dat onderzoek brengen de Raad en de Commissie jaarlijks gezamenlijk verslag uit aan de Europese Raad over de werkgelegenheidssituatie in de Unie en over de tenuitvoerlegging van de richtsnoeren inzake werkgelegenheid.
 
-### HOOFDSTUK 3. ONDERWIJS, BEROEPSOPLEIDING EN JEUGD
-
 ##### Artikel 149
 
 Het Europees Parlement en de Raad kunnen volgens de gewone wetgevingsprocedure, na raadpleging van het Economisch en Sociaal Comité en het Comité van de Regio’s, stimuleringsmaatregelen aannemen die erop gericht zijn de samenwerking tussen de lidstaten aan te moedigen en hun werkgelegenheidsbeleid te ondersteunen door middel van initiatieven ter ontwikkeling van de uitwisseling van informatie en optimale praktijken, verstrekking van vergelijkende analyses en advies, alsmede bevordering van innoverende benaderingswijzen en evaluatie van ervaringen, in het bijzonder door gebruik te maken van proefprojecten.
@@ -1630,15 +1589,15 @@ Deze maatregelen houden geen harmonisatie van de wettelijke en bestuursrechtelij
 
 Na raadpleging van het Europees Parlement stelt de Raad met gewone meerderheid een raadgevend comité voor de werkgelegenheid in teneinde de coördinatie van het werkgelegenheids- en arbeidsmarktbeleid van de lidstaten te bevorderen. Dit comité heeft tot taak:
 
-- –. toe te zien op de werkgelegenheidssituatie en het werkgelegenheidsbeleid in de lidstaten en de Unie;
+- – toe te zien op de werkgelegenheidssituatie en het werkgelegenheidsbeleid in de lidstaten en de Unie;
 
-- –. onverminderd artikel 240, adviezen uit te brengen, hetzij op verzoek van de Raad of van de Commissie, hetzij op eigen initiatief, en bij te dragen aan de voorbereiding van de in artikel 148 bedoelde werkzaamheden van de Raad.
+- – onverminderd artikel 240, adviezen uit te brengen, hetzij op verzoek van de Raad of van de Commissie, hetzij op eigen initiatief, en bij te dragen aan de voorbereiding van de in artikel 148 bedoelde werkzaamheden van de Raad.
 
 Voor de vervulling van zijn opdracht raadpleegt het comité de sociale partners.
 
 Elke lidstaat en de Commissie benoemen elk twee leden van het comité.
 
-## TITEL XII. CULTUUR
+### TITEL X. SOCIALE POLITIEK
 
 ##### Artikel 151
 
@@ -1648,15 +1607,11 @@ Te dien einde leggen de Unie en de lidstaten maatregelen ten uitvoer waarin reke
 
 Zij zijn van mening dat een dergelijke ontwikkeling zal voortvloeien zowel uit de werking van de interne markt waardoor de harmonisatie der sociale stelsels zal worden bevorderd, als uit de in de Verdragen bepaalde procedures en het nader tot elkaar brengen van wettelijke en bestuursrechtelijke bepalingen.
 
-## TITEL XIII. VOLKSGEZONDHEID
-
 ##### Artikel 152
 
 De Unie erkent en bevordert de rol van de sociale partners op het niveau van de Unie, en houdt daarbij rekening met de verschillen tussen de nationale stelsels. Zij bevordert hun onderlinge dialoog, met inachtneming van hun autonomie.
 
 De tripartiete sociale top voor groei en werkgelegenheid levert een bijdrage tot de sociale dialoog.
-
-## TITEL XIV. CONSUMENTENBESCHERMING
 
 ##### Artikel 153
 
@@ -1702,13 +1657,11 @@ In dat geval verzekert de lidstaat zich ervan dat de sociale partners, uiterlijk
 
 4. De krachtens dit artikel vastgestelde bepalingen:
 
-- –. laten het recht van de lidstaten om de fundamentele beginselen van hun socialezekerheidsstelsel vast te stellen onverlet en mogen geen aanmerkelijke gevolgen hebben voor het ﬁnanciële evenwicht van dat stelsel;
+- – laten het recht van de lidstaten om de fundamentele beginselen van hun socialezekerheidsstelsel vast te stellen onverlet en mogen geen aanmerkelijke gevolgen hebben voor het ﬁnanciële evenwicht van dat stelsel;
 
-- –. beletten niet dat een lidstaat maatregelen met een hogere graad van bescherming handhaaft of invoert welke met de Verdragen verenigbaar zijn.
+- – beletten niet dat een lidstaat maatregelen met een hogere graad van bescherming handhaaft of invoert welke met de Verdragen verenigbaar zijn.
 
 5. Dit artikel is niet van toepassing op de beloning, het recht van vereniging, het stakingsrecht of het recht tot uitsluiting.
-
-## TITEL XV. TRANSEUROPESE NETWERKEN
 
 ##### Artikel 154
 
@@ -1726,31 +1679,29 @@ In dat geval verzekert de lidstaat zich ervan dat de sociale partners, uiterlijk
 
 2. De tenuitvoerlegging van de op het niveau van de Unie gesloten overeenkomsten geschiedt hetzij volgens de procedures en gebruiken die eigen zijn aan de sociale partners en aan de lidstaten, hetzij, voor zaken die onder artikel 153 vallen, op gezamenlijk verzoek van de ondertekenende partijen, door een besluit van de Raad op voorstel van de Commissie. Het Europees Parlement wordt hiervan in kennis gesteld.
 
-De Raad besluit met eenparigheid van stemmen wanneer de betrokken overeenkomst één of meer bepalingen bevat die betrekking hebben op één van de gebieden waarvoor krachtens artikel 153, lid 3 per 1 december 2009: lid 2 eenparigheid van stemmen vereist is.
+De Raad besluit met eenparigheid van stemmen wanneer de betrokken overeenkomst één of meer bepalingen bevat die betrekking hebben op één van de gebieden waarvoor krachtens artikel 153, lid 3 *per 1 december 2009: lid 2* eenparigheid van stemmen vereist is.
 
 ##### Artikel 156
 
 Ter verwezenlijking van de doelstellingen van artikel 151 en onverminderd de andere bepalingen van de Verdragen, bevordert de Commissie de samenwerking tussen de lidstaten en vergemakkelijkt zij de coördinatie van hun optreden op alle onder dit hoofdstuk vallende gebieden van de sociale politiek, met name op het terrein van:
 
-- –. de werkgelegenheid,
+- – de werkgelegenheid,
 
-- –. het arbeidsrecht en de arbeidsvoorwaarden,
+- – het arbeidsrecht en de arbeidsvoorwaarden,
 
-- –. de beroepsopleiding en de voortgezette vorming,
+- – de beroepsopleiding en de voortgezette vorming,
 
-- –. de sociale zekerheid,
+- – de sociale zekerheid,
 
-- –. de voorkoming van arbeidsongevallen en beroepsziekten,
+- – de voorkoming van arbeidsongevallen en beroepsziekten,
 
-- –. de arbeidshygiëne,
+- – de arbeidshygiëne,
 
-- –. het recht om zich te organiseren in vakverenigingen en van collectieve onderhandelingen tussen werkgevers en werknemers.
+- – het recht om zich te organiseren in vakverenigingen en van collectieve onderhandelingen tussen werkgevers en werknemers.
 
 Te dien einde werkt de Commissie nauw samen met de lidstaten bij het verrichten van studies, het uitbrengen van adviezen en het organiseren van overleg zowel omtrent vraagstukken op nationaal niveau als omtrent vraagstukken die de internationale organisaties aangaan, met name initiatieven om richtsnoeren en indicatoren vast te stellen, de uitwisseling van beste praktijken te regelen en de nodige elementen met het oog op periodieke controle en evaluatie te verzamelen. Het Europees Parlement wordt ten volle in kennis gesteld.
 
 Alvorens de in dit artikel bedoelde adviezen uit te brengen, raadpleegt de Commissie het Economisch en Sociaal Comité.
-
-## TITEL XVI. INDUSTRIE
 
 ##### Artikel 157
 
@@ -1768,8 +1719,6 @@ Gelijke beloning zonder onderscheid naar kunne houdt in:
 
 4. Het beginsel van gelijke behandeling belet niet dat een lidstaat, om volledige gelijkheid van mannen en vrouwen in het beroepsleven in de praktijk te verzekeren, maatregelen handhaaft of aanneemt waarbij speciﬁeke voordelen worden ingesteld om de uitoefening van een beroepsactiviteit door het ondervertegenwoordigde geslacht te vergemakkelijken of om nadelen in de beroepsloopbaan te voorkomen of te compenseren.
 
-## TITEL XVII. ECONOMISCHE EN SOCIALE SAMENHANG
-
 ##### Artikel 158
 
 De lidstaten streven ernaar de bestaande gelijkwaardigheid van de bepalingen omtrent betaalde vakantie te handhaven.
@@ -1782,11 +1731,11 @@ De Commissie stelt ieder jaar een verslag op over de stand van de verwezenlijkin
 
 De Raad stelt met gewone meerderheid na raadpleging van het Europees Parlement een comité voor sociale bescherming met een adviestaak in teneinde de samenwerking tussen de lidstaten onderling en met de Commissie op het gebied van de sociale bescherming te bevorderen. Het comité heeft tot taak:
 
-- –. toe te zien op de sociale situatie en de ontwikkeling van het beleid inzake sociale bescherming in de lidstaten en de Unie;
+- – toe te zien op de sociale situatie en de ontwikkeling van het beleid inzake sociale bescherming in de lidstaten en de Unie;
 
-- –. de uitwisseling van informatie, ervaringen en goede praktijken tussen de lidstaten onderling en met de Commissie te vergemakkelijken;
+- – de uitwisseling van informatie, ervaringen en goede praktijken tussen de lidstaten onderling en met de Commissie te vergemakkelijken;
 
-- –. onverminderd artikel 240, verslagen op te stellen, adviezen uit te brengen of andere activiteiten te ontplooien op gebieden die onder zijn bevoegdheid vallen, hetzij op verzoek van de Raad of de Commissie, hetzij op eigen initiatief.
+- – onverminderd artikel 240, verslagen op te stellen, adviezen uit te brengen of andere activiteiten te ontplooien op gebieden die onder zijn bevoegdheid vallen, hetzij op verzoek van de Raad of de Commissie, hetzij op eigen initiatief.
 
 Voor de vervulling van zijn opdracht legt het comité de nodige contacten met de sociale partners. Iedere lidstaat en de Commissie benoemen twee leden van het comité.
 
@@ -1796,11 +1745,11 @@ In haar jaarverslag aan het Europees Parlement wijdt de Commissie een afzonderli
 
 Het Europees Parlement kan de Commissie verzoeken verslagen op te stellen over bijzondere vraagstukken inzake de sociale toestand.
 
+### TITEL XI. HET EUROPEES SOCIAAL FONDS
+
 ##### Artikel 162
 
 Teneinde de werkgelegenheid voor de werknemers in de interne markt te verbeteren en zodoende bij te dragen tot verhoging van de levensstandaard, wordt in het kader van de volgende bepalingen een Europees Sociaal Fonds opgericht; dit Fonds heeft ten doel binnen de Unie de tewerkstelling te vergemakkelijken en de geograﬁsche en beroepsmobiliteit van de werknemers te bevorderen, alsmede de aanpassing aan veranderingen in het bedrijfsleven en in productiestelsels gemakkelijker te maken, met name door beroepsopleiding en omscholing.
-
-## TITEL XVIII. ONDERZOEK EN TECHNOLOGISCHE ONTWIKKELING
 
 ##### Artikel 163
 
@@ -1812,6 +1761,8 @@ De Commissie wordt in deze taak bijgestaan door een comité dat onder het voorzi
 
 Het Europees Parlement en de Raad stellen volgens de gewone wetgevingsprocedure en na raadpleging van het Economisch en Sociaal Comité en het Comité van de Regio’s de uitvoeringsverordeningen betreffende het Europees Sociaal Fonds vast.
 
+### TITEL XII. ONDERWIJS, BEROEPSOPLEIDING, JEUGD EN SPORT
+
 ##### Artikel 165
 
 1. De Unie draagt bij tot de ontwikkeling van onderwijs van hoog gehalte door samenwerking tussen de lidstaten aan te moedigen en zo nodig door hun activiteiten te ondersteunen en aan te vullen, met volledige eerbiediging van de verantwoordelijkheid van de lidstaten voor de inhoud van het onderwijs en de opzet van het onderwijsstelsel en van hun culturele en taalkundige verscheidenheid.
@@ -1820,27 +1771,27 @@ De Unie draagt bij tot de bevordering van de Europese inzet op sportgebied, reke
 
 2. Het optreden van de Unie is erop gericht:
 
-- –. de Europese dimensie in het onderwijs tot ontwikkeling te brengen, met name door onderricht in en verspreiding van de talen der lidstaten;
+- – de Europese dimensie in het onderwijs tot ontwikkeling te brengen, met name door onderricht in en verspreiding van de talen der lidstaten;
 
-- –. de mobiliteit van studenten en docenten te bevorderen, mede door de academische erkenning van diploma’s en studietijdvakken aan te moedigen;
+- – de mobiliteit van studenten en docenten te bevorderen, mede door de academische erkenning van diploma’s en studietijdvakken aan te moedigen;
 
-- –. de samenwerking tussen onderwijsinstellingen te bevorderen;
+- – de samenwerking tussen onderwijsinstellingen te bevorderen;
 
-- –. de uitwisseling te bevorderen van informatie en ervaring omtrent de gemeenschappelijke vraagstukken waarmee de onderwijsstelsels van de lidstaten worden geconfronteerd;
+- – de uitwisseling te bevorderen van informatie en ervaring omtrent de gemeenschappelijke vraagstukken waarmee de onderwijsstelsels van de lidstaten worden geconfronteerd;
 
-- –. de ontwikkeling van uitwisselingsprogramma’s voor jongeren en jongerenwerkers te bevorderen en de deelneming van jongeren aan het democratisch leven van Europa aan te moedigen;
+- – de ontwikkeling van uitwisselingsprogramma’s voor jongeren en jongerenwerkers te bevorderen en de deelneming van jongeren aan het democratisch leven van Europa aan te moedigen;
 
-- –. de ontwikkeling van het onderwijs op afstand te stimuleren.
+- – de ontwikkeling van het onderwijs op afstand te stimuleren.
 
-- –. de Europese dimensie van de sport te ontwikkelen, door de eerlijkheid en de openheid van sportcompetities en de samenwerking tussen de verantwoordelijke sportorganisaties te bevorderen, en door de fysieke en morele integriteit van sportlieden, met name jonge sporters, te beschermen.
+- – de Europese dimensie van de sport te ontwikkelen, door de eerlijkheid en de openheid van sportcompetities en de samenwerking tussen de verantwoordelijke sportorganisaties te bevorderen, en door de fysieke en morele integriteit van sportlieden, met name jonge sporters, te beschermen.
 
 3. De Unie en de lidstaten bevorderen de samenwerking met derde landen en met de inzake onderwijs en sport bevoegde internationale organisaties, met name met de Raad van Europa.
 
 4. Om bij te dragen tot de verwezenlijking van de doelstellingen van dit artikel:
 
-- –. nemen het Europees Parlement en de Raad, volgens de gewone wetgevingsprocedure en na raadpleging van het Economisch en Sociaal Comité en het Comité van de Regio’s, stimuleringsmaatregelen aan, met uitsluiting van harmonisatie van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten,
+- – nemen het Europees Parlement en de Raad, volgens de gewone wetgevingsprocedure en na raadpleging van het Economisch en Sociaal Comité en het Comité van de Regio’s, stimuleringsmaatregelen aan, met uitsluiting van harmonisatie van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten,
 
-- –. neemt de Raad, op voorstel van de Commissie, aanbevelingen aan.
+- – neemt de Raad, op voorstel van de Commissie, aanbevelingen aan.
 
 ##### Artikel 166
 
@@ -1848,19 +1799,21 @@ De Unie draagt bij tot de bevordering van de Europese inzet op sportgebied, reke
 
 2. Het optreden van de Unie is erop gericht
 
-- –. de aanpassing aan veranderingen in het bedrijfsleven te vergemakkelijken, met name door beroepsopleiding en omscholing;
+- – de aanpassing aan veranderingen in het bedrijfsleven te vergemakkelijken, met name door beroepsopleiding en omscholing;
 
-- –. door verbetering van de initiële beroepsopleiding en van bij- en nascholing, de opneming en de wederopneming op de arbeidsmarkt te bevorderen;
+- – door verbetering van de initiële beroepsopleiding en van bij- en nascholing, de opneming en de wederopneming op de arbeidsmarkt te bevorderen;
 
-- –. de toegang tot beroepsopleidingen te vergemakkelijken en de mobiliteit van opleiders en leerlingen, met name jongeren, te bevorderen;
+- – de toegang tot beroepsopleidingen te vergemakkelijken en de mobiliteit van opleiders en leerlingen, met name jongeren, te bevorderen;
 
-- –. de samenwerking inzake opleiding tussen onderwijs- of opleidingsinstellingen en ondernemingen te bevorderen;
+- – de samenwerking inzake opleiding tussen onderwijs- of opleidingsinstellingen en ondernemingen te bevorderen;
 
-- –. de uitwisseling te bevorderen van informatie en ervaring omtrent de gemeenschappelijke vraagstukken waarmee de opleidingsstelsels van de lidstaten worden geconfronteerd.
+- – de uitwisseling te bevorderen van informatie en ervaring omtrent de gemeenschappelijke vraagstukken waarmee de opleidingsstelsels van de lidstaten worden geconfronteerd.
 
 3. De Unie en de lidstaten bevorderen de samenwerking met derde landen en met de inzake beroepsopleiding bevoegde internationale organisaties.
 
 4. Het Europees Parlement en de Raad nemen, volgens de gewone wetgevingsprocedure en na raadpleging van het Economisch en Sociaal Comité en het Comité van de Regio’s, maatregelen aan die bijdragen tot de verwezenlijking van de doelstellingen van dit artikel, met uitsluiting van harmonisatie van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten en de Raad neemt, op voorstel van de Commissie, aanbevelingen aan.
+
+### TITEL XIII. CULTUUR
 
 ##### Artikel 167
 
@@ -1868,13 +1821,13 @@ De Unie draagt bij tot de bevordering van de Europese inzet op sportgebied, reke
 
 2. Het optreden van de Unie is erop gericht de samenwerking tussen de lidstaten aan te moedigen en zo nodig hun activiteiten op de volgende gebieden te ondersteunen en aan te vullen:
 
-- –. verbetering van de kennis en verbreiding van de cultuur en de geschiedenis van de Europese volkeren,
+- – verbetering van de kennis en verbreiding van de cultuur en de geschiedenis van de Europese volkeren,
 
-- –. instandhouding en bescherming van het cultureel erfgoed van Europees belang,
+- – instandhouding en bescherming van het cultureel erfgoed van Europees belang,
 
-- –. culturele uitwisseling op niet-commerciële basis,
+- – culturele uitwisseling op niet-commerciële basis,
 
-- –. scheppend werk op artistiek en literair gebied, mede in de audiovisuele sector.
+- – scheppend werk op artistiek en literair gebied, mede in de audiovisuele sector.
 
 3. De Unie en de lidstaten bevorderen de samenwerking met derde landen en met de inzake cultuur bevoegde internationale organisaties, met name met de Raad van Europa.
 
@@ -1882,9 +1835,11 @@ De Unie draagt bij tot de bevordering van de Europese inzet op sportgebied, reke
 
 5. Om bij te dragen tot de verwezenlijking van de doelstellingen van dit artikel:
 
-- –. nemen het Europees Parlement en de Raad, volgens de gewone wetgevingsprocedure en na raadpleging van het Comité van de Regio’s, stimuleringsmaatregelen aan, met uitsluiting van harmonisatie van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten;
+- – nemen het Europees Parlement en de Raad, volgens de gewone wetgevingsprocedure en na raadpleging van het Comité van de Regio’s, stimuleringsmaatregelen aan, met uitsluiting van harmonisatie van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten;
 
-- –. neemt de Raad, op voorstel van de Commissie, aanbevelingen aan.
+- – neemt de Raad, op voorstel van de Commissie, aanbevelingen aan.
+
+### TITEL XIV. VOLKSGEZONDHEID
 
 ##### Artikel 168
 
@@ -1914,6 +1869,8 @@ De lidstaten coördineren onderling, in verbinding met de Commissie, hun beleid 
 
 7. Het optreden van de Unie eerbiedigt de verantwoordelijkheden van de lidstaten met betrekking tot de bepaling van hun gezondheidsbeleid, alsmede de organisatie en de verstrekking van gezondheidsdiensten en geneeskundige verzorging. De verantwoordelijkheden van de lidstaten omvatten het beheer van gezondheidsdiensten en geneeskundige verzorging, alsmede de allocatie van de daaraan toegewezen middelen. De in lid 4, onder a), bedoelde maatregelen doen geen afbreuk aan de nationale voorschriften inzake donatie en geneeskundig gebruik van organen en bloed.
 
+### TITEL XV. CONSUMENTENBESCHERMING
+
 ##### Artikel 169
 
 1. Om de belangen van de consumenten te bevorderen en een hoog niveau van consumentenbescherming te waarborgen, draagt de Unie bij tot de bescherming van de gezondheid, de veiligheid en de economische belangen van de consumenten alsmede tot de bevordering van hun recht op voorlichting en vorming, en hun recht van vereniging om hun belangen te behartigen.
@@ -1928,6 +1885,8 @@ De lidstaten coördineren onderling, in verbinding met de Commissie, hun beleid 
 
 4. De uit hoofde van lid 3 aangenomen maatregelen beletten niet dat een lidstaat maatregelen voor een hogere graad van bescherming treft of handhaaft. Deze maatregelen moeten verenigbaar zijn met de Verdragen. Zij worden ter kennis van de Commissie gebracht.
 
+### TITEL XVI. TRANSEUROPESE NETWERKEN
+
 ##### Artikel 170
 
 1. Teneinde bij te dragen tot de verwezenlijking van de in de artikelen 26 en 174 bedoelde doelstellingen en om de burgers van de Unie, de economische subjecten, alsmede de regionale en lokale gemeenschappen in staat te stellen ten volle proﬁjt te trekken van de voordelen die uit de totstandkoming van een ruimte zonder binnengrenzen voortvloeien, draagt de Unie bij tot de totstandbrenging en ontwikkeling van trans-Europese netwerken op het gebied van vervoers-, telecommunicatie- en energie-infrastructuur.
@@ -1938,11 +1897,11 @@ De lidstaten coördineren onderling, in verbinding met de Commissie, hun beleid 
 
 1. Voor de verwezenlijking van de in artikel 170 genoemde doelstellingen:
 
-- –. stelt de Unie een geheel van richtsnoeren op betreffende de doelstellingen, de prioriteiten en de grote lijnen van de op het gebied van trans-Europese netwerken overwogen maatregelen; in deze richtsnoeren worden projecten van gemeenschappelijk belang aangegeven;
+- – stelt de Unie een geheel van richtsnoeren op betreffende de doelstellingen, de prioriteiten en de grote lijnen van de op het gebied van trans-Europese netwerken overwogen maatregelen; in deze richtsnoeren worden projecten van gemeenschappelijk belang aangegeven;
 
-- –. treft de Unie alle maatregelen die nodig kunnen blijken om de interoperabiliteit van de netwerken te verzekeren, met name op het gebied van de harmonisatie van de technische normen;
+- – treft de Unie alle maatregelen die nodig kunnen blijken om de interoperabiliteit van de netwerken te verzekeren, met name op het gebied van de harmonisatie van de technische normen;
 
-- –. kan de Unie steun verlenen aan door de lidstaten gesteunde projecten van gemeenschappelijk belang, die als zodanig zijn aangegeven in het kader van de in het eerste streepje bedoelde richtsnoeren met name in de vorm van uitvoerbaarheidsstudies, garanties voor leningen, of rentesubsidies; de Unie kan ook door middel van het overeenkomstig artikel 177 opgerichte Cohesiefonds bijdragen aan de ﬁnanciering van speciﬁeke projecten in lidstaten op het terrein van de vervoersinfrastructuur.
+- – kan de Unie steun verlenen aan door de lidstaten gesteunde projecten van gemeenschappelijk belang, die als zodanig zijn aangegeven in het kader van de in het eerste streepje bedoelde richtsnoeren met name in de vorm van uitvoerbaarheidsstudies, garanties voor leningen, of rentesubsidies; de Unie kan ook door middel van het overeenkomstig artikel 177 opgerichte Cohesiefonds bijdragen aan de ﬁnanciering van speciﬁeke projecten in lidstaten op het terrein van de vervoersinfrastructuur.
 
 Bij het optreden van de Unie wordt rekening gehouden met de potentiële economische levensvatbaarheid van de projecten.
 
@@ -1956,19 +1915,21 @@ De in artikel 171, lid 1, bedoelde richtsnoeren en andere maatregelen worden doo
 
 Voor richtsnoeren en projecten van gemeenschappelijk belang die betrekking hebben op het grondgebied van een lidstaat, is de goedkeuring van de betrokken lidstaat vereist.
 
+### TITEL XVII. INDUSTRIE
+
 ##### Artikel 173
 
 1. De Unie en de lidstaten dragen er zorg voor dat de omstandigheden nodig voor het concurrentievermogen van de industrie van de Unie, aanwezig zijn.
 
 Hiertoe is hun optreden, overeenkomstig een systeem van open en concurrerende markten, erop gericht:
 
-- –. de aanpassing van de industrie aan structurele wijzigingen te bespoedigen;
+- – de aanpassing van de industrie aan structurele wijzigingen te bespoedigen;
 
-- –. een gunstig klimaat voor het ontplooien van initiatieven en voor de ontwikkeling van ondernemingen in de gehele Unie, met name van het midden- en kleinbedrijf, te bevorderen;
+- – een gunstig klimaat voor het ontplooien van initiatieven en voor de ontwikkeling van ondernemingen in de gehele Unie, met name van het midden- en kleinbedrijf, te bevorderen;
 
-- –. een gunstig klimaat voor de samenwerking tussen ondernemingen te bevorderen;
+- – een gunstig klimaat voor de samenwerking tussen ondernemingen te bevorderen;
 
-- –. een betere benutting van het industriële potentieel van het beleid inzake innovatie, onderzoek en technologische ontwikkeling te stimuleren.
+- – een betere benutting van het industriële potentieel van het beleid inzake innovatie, onderzoek en technologische ontwikkeling te stimuleren.
 
 2. De lidstaten plegen, in verbinding met de Commissie, onderling overleg en coördineren, voorzover nodig, hun activiteiten. De Commissie kan initiatieven nemen om deze coördinatie te bevorderen, met name initiatieven om richtsnoeren en indicatoren vast te stellen, de uitwisseling van beste praktijken te regelen en de nodige elementen met het oog op periodieke controle en evaluatie te verzamelen. Het Europees Parlement wordt ten volle in kennis gesteld.
 
@@ -1976,7 +1937,7 @@ Hiertoe is hun optreden, overeenkomstig een systeem van open en concurrerende ma
 
 Deze titel verschaft geen grondslag voor invoering door de Unie van maatregelen waardoor de mededinging kan worden vervalst of die belastingbepalingen of bepalingen betreffende de rechten en belangen van werknemers inhouden.
 
-## TITEL XIX. MILIEU
+### TITEL XVIII. ECONOMISCHE, SOCIALE EN TERRITORIALE SAMENHANG
 
 ##### Artikel 174
 
@@ -1998,8 +1959,6 @@ Indien speciﬁeke maatregelen buiten de fondsen om noodzakelijk blijken, kunnen
 
 Het Europees Fonds voor Regionale Ontwikkeling is bedoeld om een bijdrage te leveren aan het ongedaan maken van de belangrijkste regionale onevenwichtigheden in de Unie door deel te nemen aan de ontwikkeling en de structurele aanpassing van regio’s met een ontwikkelingsachterstand en aan de omschakeling van industriegebieden met afnemende economische activiteit.
 
-## TITEL XVIII. ECONOMISCHE, SOCIALE EN TERRITORIALE SAMENHANG
-
 ##### Artikel 177
 
 Onverminderd artikel 178 stellen het Europees Parlement en de Raad volgens de gewone wetgevingsprocedure bij verordeningen en na raadpleging van het Economisch en Sociaal Comité en het Comité van de Regio’s, de taken, de prioritaire doelstellingen en de organisatie van de structuurfondsen vast, hetgeen ook samenvoeging van de fondsen kan omvatten. Volgens dezelfde procedure worden tevens de algemene regels vastgesteld die voor deze fondsen gelden, alsmede de bepalingen die nodig zijn voor de doeltreffende werking van de fondsen en de coördinatie tussen de fondsen onderling en met de andere bestaande ﬁnancieringsinstrumenten.
@@ -2011,6 +1970,8 @@ Een volgens dezelfde procedure opgericht Cohesiefonds levert een ﬁnanciële bi
 De toepassingsverordeningen met betrekking tot het Europees Fonds voor Regionale Ontwikkeling worden door het Europees Parlement en de Raad volgens de gewone wetgevingsprocedure en na raadpleging van het Economisch en Sociaal Comité en het Comité van de Regio’s vastgesteld.
 
 Ten aanzien van het Europees Oriëntatie- en Garantiefonds voor de Landbouw, afdeling Oriëntatie, en het Europees Sociaal Fonds blijven onderscheidenlijk de artikelen 43 en 164 van toepassing.
+
+### TITEL XIX. ONDERZOEK EN TECHNOLOGISCHE ONTWIKKELING EN RUIMTE
 
 ##### Artikel 179
 
@@ -2038,33 +1999,17 @@ Voor de verwezenlijking van deze doelstellingen onderneemt de Unie de volgende a
 
 2. De Commissie kan in nauwe samenwerking met de lidstaten alle dienstige initiatieven nemen om de in lid 1 bedoelde coördinatie te bevorderen, met name initiatieven om richtsnoeren en indicatoren vast te stellen, de uitwisseling van beste praktijken te organiseren en in de nodige elementen te voorzien met het oog op periodieke controle en evaluatie. Het Europees Parlement wordt ten volle in kennis gesteld.
 
-## TITEL XIX. ONDERZOEK EN TECHNOLOGISCHE ONTWIKKELING EN RUIMTE
-
-##### Artikel 181 A
-
-1. Onverminderd de andere bepalingen van dit Verdrag, met name titel XX, neemt de Gemeenschap in het kader van haar bevoegdheden maatregelen voor economische, financiële en technische samenwerking met derde landen. Deze maatregelen vullen de maatregelen van de lidstaten aan en zijn coherent met het ontwikkelingsbeleid van de Gemeenschap.
-
-Het beleid van de Gemeenschap op dit gebied draagt bij tot de algemene doelstelling van ontwikkeling en consolidatie van de democratie en de rechtsstaat, en tot de doelstelling van eerbiediging van de mensenrechten en de fundamentele vrijheden.
-
-2. De Raad stelt op voorstel van de Commissie en na raadpleging van het Europees Parlement met gekwalificeerde meerderheid van stemmen de nodige maatregelen voor de uitvoering van lid 1 vast. De Raad besluit met eenparigheid van stemmen terzake van de in artikel 310 bedoelde associatieovereenkomsten en de overeenkomsten met de staten die kandidaat zijn voor toetreding tot de Unie.
-
-3. In het kader van hun onderscheiden bevoegdheden werken de Gemeenschap en de lidstaten samen met derde landen en de bevoegde internationale organisaties. De samenwerking van de Gemeenschap kan nader worden geregeld in overeenkomsten tussen de Gemeenschap en de betrokken derde partijen, waarover onderhandeld wordt en die gesloten worden overeenkomstig artikel 300.
-
-De eerste alinea doet geen afbreuk aan de bevoegdheid van de lidstaten in internationale fora te onderhandelen en internationale overeenkomsten te sluiten.
-
-## VIERDE DEEL. DE ASSOCIATIE VAN DE LANDEN EN GEBIEDEN OVERZEE
-
 ##### Artikel 182
 
 1. Het Europees Parlement en de Raad stellen, volgens de gewone wetgevingsprocedure en na raadpleging van het Economisch en Sociaal Comité, een meerjarenkaderprogramma vast waarin alle activiteiten van de Unie zijn opgenomen.
 
 In dit kaderprogramma:
 
-- –. worden de wetenschappelijke en technologische doelstellingen die met de in artikel 180 bedoelde activiteiten moeten worden verwezenlijkt, alsmede de daarmee samenhangende prioriteiten vastgesteld;
+- – worden de wetenschappelijke en technologische doelstellingen die met de in artikel 180 bedoelde activiteiten moeten worden verwezenlijkt, alsmede de daarmee samenhangende prioriteiten vastgesteld;
 
-- –. worden de grote lijnen van deze activiteiten aangegeven;
+- – worden de grote lijnen van deze activiteiten aangegeven;
 
-- –. worden het totale maximumbedrag van en nadere regels voor de ﬁnanciële deelneming van de Unie aan het kaderprogramma alsmede de onderscheiden deelbedragen voor elk van de overwogen activiteiten vastgesteld.
+- – worden het totale maximumbedrag van en nadere regels voor de ﬁnanciële deelneming van de Unie aan het kaderprogramma alsmede de onderscheiden deelbedragen voor elk van de overwogen activiteiten vastgesteld.
 
 2. Het kaderprogramma wordt naar gelang van de ontwikkeling van de situatie aangepast of aangevuld.
 
@@ -2078,9 +2023,9 @@ In dit kaderprogramma:
 
 Voor de tenuitvoerlegging van het meerjarenkaderprogramma bepaalt de Unie:
 
-- –. de regels voor de deelneming van ondernemingen, onderzoekcentra en universiteiten;
+- – de regels voor de deelneming van ondernemingen, onderzoekcentra en universiteiten;
 
-- –. de regels voor de verspreiding van de onderzoekresultaten.
+- – de regels voor de verspreiding van de onderzoekresultaten.
 
 ##### Artikel 184
 
@@ -2108,14 +2053,6 @@ De Raad stelt, op voorstel van de Commissie en na raadpleging van het Europees P
 
 Het Europees Parlement en de Raad stellen, volgens de gewone wetgevingsprocedure en na raadpleging van het Economisch en Sociaal Comité, de in de artikelen 183, 184 en 185 bedoelde voorzieningen vast. Voor de vaststelling van de aanvullende programma’s is de goedkeuring van de betrokken lidstaten vereist.
 
-## VIJFDE DEEL. DE INSTELLINGEN VAN DE GEMEENSCHAP
-
-## TITEL I. BEPALINGEN INZAKE INSTELLINGEN
-
-### HOOFDSTUK 1. DE INSTELLINGEN
-
-### EERSTE AFDELING. HET EUROPEES PARLEMENT
-
 ##### Artikel 189
 
 1. Om de wetenschappelijke en technische vooruitgang, het industriële concurrentievermogen en de uitvoering van haar beleid te bevorderen, stippelt de Unie een Europees ruimtevaartbeleid uit. Daartoe kan zij gemeenschappelijke initiatieven bevorderen, onderzoek en technologische ontwikkeling steunen en de nodige inspanningen coördineren voor de verkenning en het gebruik van de ruimte.
@@ -2132,17 +2069,19 @@ Aan het begin van elk jaar legt de Commissie aan het Europees Parlement en de Ra
 
 Dit verslag heeft met name betrekking op de activiteiten inzake onderzoek en technologische ontwikkeling en verspreiding van de resultaten in het voorafgaande jaar alsmede op het werkprogramma van het lopende jaar.
 
+### TITEL XX. MILIEU
+
 ##### Artikel 191
 
 1. Het beleid van de Unie op milieugebied draagt bij tot het nastreven van de volgende doelstellingen:
 
-- –. behoud, bescherming en verbetering van de kwaliteit van het milieu;
+- – behoud, bescherming en verbetering van de kwaliteit van het milieu;
 
-- –. bescherming van de gezondheid van de mens;
+- – bescherming van de gezondheid van de mens;
 
-- –. behoedzaam en rationeel gebruik van natuurlijke hulpbronnen;
+- – behoedzaam en rationeel gebruik van natuurlijke hulpbronnen;
 
-- –. bevordering op internationaal vlak van maatregelen om het hoofd te bieden aan regionale of mondiale milieuproblemen, en in het bijzonder de bestrijding van klimaatverandering.
+- – bevordering op internationaal vlak van maatregelen om het hoofd te bieden aan regionale of mondiale milieuproblemen, en in het bijzonder de bestrijding van klimaatverandering.
 
 2. De Unie streeft in haar milieubeleid naar een hoog niveau van bescherming, rekening houdend met de uiteenlopende situaties in de verschillende regio’s van de Unie. Haar beleid berust op het voorzorgsbeginsel en het beginsel van preventief handelen, het beginsel dat milieuaantastingen bij voorrang aan de bron dienen te worden bestreden, en het beginsel dat de vervuiler betaalt.
 
@@ -2150,13 +2089,13 @@ In dit verband omvatten de aan eisen inzake milieubescherming beantwoordende har
 
 3. Bij het bepalen van haar beleid op milieugebied houdt de Unie rekening met:
 
-- –. de beschikbare wetenschappelijke en technische gegevens;
+- – de beschikbare wetenschappelijke en technische gegevens;
 
-- –. de milieuomstandigheden in de onderscheiden regio’s van de Unie;
+- – de milieuomstandigheden in de onderscheiden regio’s van de Unie;
 
-- –. de voordelen en lasten die kunnen voortvloeien uit optreden, onderscheidenlijk niet-optreden;
+- – de voordelen en lasten die kunnen voortvloeien uit optreden, onderscheidenlijk niet-optreden;
 
-- –. de economische en sociale ontwikkeling van de Unie als geheel en de evenwichtige ontwikkeling van haar regio’s.
+- – de economische en sociale ontwikkeling van de Unie als geheel en de evenwichtige ontwikkeling van haar regio’s.
 
 4. In het kader van hun onderscheiden bevoegdheden werken de Unie en de lidstaten samen met derde landen en de bevoegde internationale organisaties. De nadere regels voor de samenwerking van de Unie kunnen voorwerp zijn van overeenkomsten tussen de Unie en de betrokken derde partijen.
 
@@ -2172,11 +2111,11 @@ De eerste alinea doet geen afbreuk aan de bevoegdheid van de lidstaten om in int
 
 - b. maatregelen die van invloed zijn op:
 
-- –. de ruimtelijke ordening;
+   - – de ruimtelijke ordening;
 
-- –. het kwantitatieve waterbeheer, of die rechtstreeks dan wel zijdelings betrekking hebben op de beschikbaarheid van de watervoorraden;
+   - – het kwantitatieve waterbeheer, of die rechtstreeks dan wel zijdelings betrekking hebben op de beschikbaarheid van de watervoorraden;
 
-- –. de bodembestemming, met uitzondering van het afvalstoffenbeheer;
+   - – de bodembestemming, met uitzondering van het afvalstoffenbeheer;
 
 - c. maatregelen die van aanzienlijke invloed zijn op de keuze van een lidstaat tussen verschillende energiebronnen en de algemene structuur van zijn energievoorziening.
 
@@ -2190,13 +2129,15 @@ De voor de uitvoering van die programma’s nodige maatregelen worden vastgestel
 
 5. Onverminderd het beginsel dat de vervuiler betaalt, ingeval een op grond van lid 1 vastgestelde maatregel voor de overheid van een lidstaat onevenredig hoge kosten met zich brengt, omvat deze maatregel voorzieningen in de vorm van:
 
-- –. ontheffingen van tijdelijke aard en/of
+- – ontheffingen van tijdelijke aard en/of
 
-- –. financiële steun uit het overeenkomstig artikel 161 per 1 december 2009: 177 opgerichte Cohesiefonds.
+- – financiële steun uit het overeenkomstig artikel 161 *per 1 december 2009: 177* opgerichte Cohesiefonds.
 
 ##### Artikel 193
 
 De beschermende maatregelen die worden vastgesteld uit hoofde van artikel 192, beletten niet dat een lidstaat verdergaande beschermingsmaatregelen handhaaft en treft. Zulke maatregelen moeten verenigbaar zijn met de Verdragen. Zij worden ter kennis van de Commissie gebracht.
+
+### TITEL XXI. ENERGIE
 
 ##### Artikel 194
 
@@ -2216,6 +2157,8 @@ Zij zijn, onverminderd artikel 192, lid 2, onder c), niet van invloed op het rec
 
 3. In afwijking van lid 2, stelt de Raad volgens een bijzondere wetgevingsprocedure, met eenparigheid van stemmen en na raadpleging van het Europees Parlement, de daarin bedoelde maatregelen vast die voornamelijk van ﬁscale aard zijn.
 
+### TITEL XXII. TOERISME
+
 ##### Artikel 195
 
 1. De Unie zorgt voor aanvulling van het optreden van de lidstaten in de toerismesector, met name door bevordering van het concurrentievermogen van de ondernemingen van de Unie in die sector.
@@ -2227,6 +2170,8 @@ In dit verband is het optreden van de Unie gericht op:
 - b. het stimuleren van de samenwerking tussen de lidstaten, met name door uitwisseling van goede praktijken.
 
 2. Het Europees Parlement en de Raad stellen, volgens de gewone wetgevingsprocedure, de bijzondere maatregelen vast ter aanvulling van de acties die in de lidstaten worden ondernomen om de in dit artikel genoemde doelstellingen te verwezenlijken, met uitsluiting van enige harmonisatie van de wettelijke of bestuursrechtelijke bepalingen van de lidstaten.
+
+### TITEL XXIII. CIVIELE BESCHERMING
 
 ##### Artikel 196
 
@@ -2242,6 +2187,8 @@ Het optreden van de Unie is erop gericht:
 
 2. Het Europees Parlement en de Raad stellen, volgens de gewone wetgevingsprocedure, de maatregelen vast die nodig zijn om bij te dragen aan de verwezenlijking van de in lid 1 genoemde doelstellingen, met uitsluiting van enige harmonisatie van de wettelijke of bestuursrechtelijke bepalingen van de lidstaten.
 
+### TITEL XXIV. ADMINISTRATIEVE SAMENWERKING
+
 ##### Artikel 197
 
 1. De doeltreffende uitvoering van het recht van de Unie door de lidstaten, die van wezenlijk belang is voor de goede werking van de Unie, wordt beschouwd als een aangelegenheid van gemeenschappelijk belang.
@@ -2249,6 +2196,8 @@ Het optreden van de Unie is erop gericht:
 2. De Unie kan de inspanningen van de lidstaten ter verbetering van hun administratieve vermogen om het recht van de Unie uit te voeren, steunen. Dergelijke steun kan zowel het vergemakkelijken van de uitwisseling van informatie en van ambtenaren omvatten als het ondersteunen van opleidings- en ontwikkelingsregelingen. Geen enkele lidstaat is verplicht gebruik te maken van dergelijke steun. Het Europees Parlement en de Raad stellen volgens de gewone wetgevingsprocedure bij verordeningen de daartoe noodzakelijke maatregelen vast, met uitsluiting van enige harmonisering van de wettelijke of bestuursrechtelijke bepalingen van de lidstaten.
 
 3. Dit artikel laat de verplichting van de lidstaten om het recht van de Unie uit te voeren, alsook de prerogatieven en taken van de Commissie, onverlet. Het laat ook de andere bepalingen van de Verdragen die voorzien in administratieve samenwerking tussen de lidstaten onderling en tussen de lidstaten en de Unie, onverlet.
+
+## DEEL VIERDE. DE ASSOCIATIE VAN DE LANDEN EN GEBIEDEN OVERZEE
 
 ##### Artikel 198
 
@@ -2290,8 +2239,6 @@ De in vorenstaande alinea bedoelde rechten mogen het peil van de invoerrechten w
 
 Indien het peil van de rechten, toepasselijk op goederen van herkomst uit een derde land, bij invoer in een land of gebied van dien aard is dat, als gevolg van de toepassing der bepalingen van artikel 200, lid 1, het handelsverkeer zich ten nadele van een der lidstaten kan verleggen, kan deze staat de Commissie verzoeken, aan de overige lidstaten de maatregelen voor te stellen welke noodzakelijk zijn om deze toestand te verhelpen.
 
-### TWEEDE AFDELING. DE RAAD
-
 ##### Artikel 202
 
 Behoudens de bepalingen betreffende de volksgezondheid, de openbare veiligheid en de openbare orde, zal het vrije verkeer van werknemers uit de landen en gebieden binnen de lidstaten en van werknemers uit de lidstaten binnen de landen en gebieden vallen onder volgens artikel 203 vastgestelde instrumenten.
@@ -2304,9 +2251,15 @@ De Raad stelt op basis van de in het kader van de associatie van de landen en ge
 
 Het bepaalde in de artikelen 198 tot en met 203 is op Groenland van toepassing behoudens de voor Groenland geldende bijzondere bepalingen omschreven in het Protocol betreffende de bijzondere regeling van toepassing op Groenland, dat aan de Verdragen is gehecht.
 
+## DEEL VIJFDE. EXTERN OPTREDEN VAN DE UNIE
+
+### TITEL I. ALGEMENE BEPALINGEN INZAKE HET EXTERN OPTREDEN VAN DE UNIE
+
 ##### Artikel 205
 
 Het internationaal optreden van de Unie berust, voor de toepassing van dit deel, op de beginselen en is gericht op de doelstellingen van, en wordt uitgevoerd overeenkomstig de algemene bepalingen van [hoofdstuk 1 van titel V van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&hoofdstuk=1).
+
+### TITEL II. DE GEMEENSCHAPPELIJKE HANDELSPOLITIEK
 
 ##### Artikel 206
 
@@ -2338,6 +2291,10 @@ De Raad besluit ook met eenparigheid van stemmen ten aanzien van de onderhandeli
 
 6. De uitoefening van de bij dit artikel verleende bevoegdheden op het gebied van de gemeenschappelijke handelspolitiek laat de afbakening van de bevoegdheden tussen de Unie en de lidstaten onverlet en leidt niet tot enige harmonisering van de wettelijke of bestuursrechtelijke regelingen van de lidstaten voor zover de Verdragen een dergelijke harmonisering uitsluiten.
 
+### TITEL III. SAMENWERKING MET DERDE LANDEN EN HUMANITAIRE HULP
+
+### HOOFDSTUK 1. ONTWIKKELINGSSAMENWERKING
+
 ##### Artikel 208
 
 1. Het beleid van de Unie op het gebied van ontwikkelingssamenwerking wordt gevoerd in het kader van de beginselen en doelstellingen van het externe optreden van de Unie. Het ontwikkelingssamenwerkingsbeleid van de Unie en dat van de lidstaten completeren en versterken elkaar.
@@ -2362,11 +2319,11 @@ De eerste alinea laat de bevoegdheid van de lidstaten om in internationale fora 
 
 2. De Commissie kan alle dienstige initiatieven nemen om de in lid 1 bedoelde coördinatie te bevorderen.
 
-### DERDE AFDELING. DE COMMISSIE
-
 ##### Artikel 211
 
 In het kader van hun onderscheiden bevoegdheden werken de Unie en de lidstaten samen met derde landen en met de bevoegde internationale organisaties.
+
+### HOOFDSTUK 2. ECONOMISCHE, FINANCIËLE EN TECHNISCHE SAMENWERKING MET DERDE LANDEN
 
 ##### Artikel 212
 
@@ -2381,6 +2338,8 @@ De eerste alinea doet geen afbreuk aan de bevoegdheid van de lidstaten in intern
 ##### Artikel 213
 
 Wanneer wegens de situatie in een derde land dringende ﬁnanciële hulp van de Unie vereist is, stelt de Raad op voorstel van de Commissie de nodige besluiten vast.
+
+### HOOFDSTUK 3. HUMANITAIRE HULP
 
 ##### Artikel 214
 
@@ -2400,6 +2359,8 @@ De eerste alinea laat de bevoegdheid van de lidstaten om in internationale fora 
 
 7. De Unie ziet erop toe dat haar humanitaire hulpacties gecoördineerd worden en coherent zijn met die van internationale organisaties en instanties, met name die welke tot het bestel van de Verenigde Naties behoren.
 
+### TITEL IV. BEPERKENDE MAATREGELEN
+
 ##### Artikel 215
 
 1. Wanneer een overeenkomstig [hoofdstuk 2 van titel V van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&hoofdstuk=2) vastgesteld besluit voorziet in verbreking of gehele of gedeeltelijke beperking van de economische en ﬁnanciële betrekkingen met een of meer derde landen, stelt de Raad, op gezamenlijk voorstel van de hoge vertegenwoordiger van de Unie voor buitenlandse zaken en veiligheidsbeleid en de Commissie, met gekwaliﬁceerde meerderheid van stemmen de nodige maatregelen vast. De Raad stelt het Europees Parlement daarvan in kennis.
@@ -2407,6 +2368,8 @@ De eerste alinea laat de bevoegdheid van de lidstaten om in internationale fora 
 2. Wanneer een overeenkomstig [hoofdstuk 2 van titel V van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&hoofdstuk=2) vastgesteld besluit daarin voorziet, kan de Raad volgens de in lid 1 bedoelde procedure jegens natuurlijke personen, rechtspersonen dan wel niet-statelijke groepen of entiteiten beperkende maatregelen vaststellen
 
 3. De in dit artikel bedoelde handelingen bevatten de nodige bepalingen inzake juridische waarborgen.
+
+### TITEL V. INTERNATIONALE OVEREENKOMSTEN
 
 ##### Artikel 216
 
@@ -2436,15 +2399,15 @@ Tenzij de overeenkomst uitsluitend betrekking heeft op het gemeenschappelijk bui
 
 - a. na goedkeuring door het Europees Parlement, in de volgende gevallen: In dringende gevallen kunnen het Europees Parlement en de Raad een termijn voor het geven van de goedkeuring overeenkomen.
 
-- i. associatieovereenkomsten;
+   - i. associatieovereenkomsten;
 
-- ii. toetreding van de Unie tot het Europees [Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000);
+   - ii. toetreding van de Unie tot het Europees [Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000);
 
-- iii. overeenkomsten die door de instelling van samenwerkingsprocedures een speciﬁek institutioneel kader scheppen;
+   - iii. overeenkomsten die door de instelling van samenwerkingsprocedures een speciﬁek institutioneel kader scheppen;
 
-- iv. overeenkomsten die aanzienlijke gevolgen hebben voor de begroting van de Unie;
+   - iv. overeenkomsten die aanzienlijke gevolgen hebben voor de begroting van de Unie;
 
-- v. overeenkomsten betreffende gebieden waarop de gewone wetgevingsprocedure, of, indien de goedkeuring van het Europees Parlement vereist is, de bijzondere wetgevingsprocedure van toepassing is.
+   - v. overeenkomsten betreffende gebieden waarop de gewone wetgevingsprocedure, of, indien de goedkeuring van het Europees Parlement vereist is, de bijzondere wetgevingsprocedure van toepassing is.
 
 - b. na raadpleging van het Europees Parlement in de overige gevallen. Het Europees Parlement brengt advies uit binnen een termijn die de Raad naar gelang van de urgentie kan bepalen. Indien er binnen die termijn geen advies is uitgebracht, kan de Raad besluiten.
 
@@ -2472,7 +2435,7 @@ De Raad kan, hetzij op aanbeveling van de Europese Centrale Bank, hetzij op aanb
 
 4. Onverminderd de bevoegdheid van de Unie en de overeenkomsten van de Unie ten aanzien van de Economische en Monetaire Unie, mogen de lidstaten in internationale organen onderhandelingen voeren en internationale overeenkomsten sluiten.
 
-### VIERDE AFDELING. HET HOF VAN JUSTITIE
+### TITEL VI. BETREKKINGEN VAN DE UNIE MET INTERNATIONALE ORGANISATIES, MET DERDE LANDEN EN DELEGATIES VAN DE UNIE
 
 ##### Artikel 220
 
@@ -2488,17 +2451,19 @@ De Unie onderhoudt voorts met andere internationale organisaties de betrekkingen
 
 2. De delegaties van de Unie staan onder het gezag van de hoge vertegenwoordiger van de Unie voor buitenlandse zaken en veiligheidsbeleid. Zij handelen in nauwe samenspraak met de diplomatieke en consulaire missies van de lidstaten.
 
+### TITEL VII. SOLIDARITEITSCLAUSULE
+
 ##### Artikel 222
 
 1. De Unie en de lidstaten treden uit solidariteit gezamenlijk op indien een lidstaat getroffen wordt door een terroristische aanval, een natuurramp of een door de mens veroorzaakte ramp. De Unie maakt van alle tot haar beschikking staande instrumenten, waaronder de door de lidstaten ter beschikking gestelde militaire middelen, gebruik om:
 
 - a.
 
-- –. de dreiging van het terrorisme op het grondgebied van de lidstaten te keren;
+   - – de dreiging van het terrorisme op het grondgebied van de lidstaten te keren;
 
-- –. de democratische instellingen en de burgerbevolking tegen een eventuele terroristische aanval te beschermen;
+   - – de democratische instellingen en de burgerbevolking tegen een eventuele terroristische aanval te beschermen;
 
-- –. op verzoek van de politieke autoriteiten van een lidstaat op diens grondgebied bijstand te verlenen in geval van een terroristische aanval;
+   - – op verzoek van de politieke autoriteiten van een lidstaat op diens grondgebied bijstand te verlenen in geval van een terroristische aanval;
 
 - b. op verzoek van de politieke autoriteiten van een lidstaat op diens grondgebied bijstand te verlenen in geval van een natuurramp of van een door de mens veroorzaakte ramp.
 
@@ -2509,6 +2474,14 @@ De Unie onderhoudt voorts met andere internationale organisaties de betrekkingen
 In het kader van dit lid en onverminderd artikel 240 wordt de Raad bijgestaan door het politiek en veiligheidscomité met ondersteuning van de structuren die in het kader van het gemeenschappelijk veiligheids- en defensiebeleid zijn ontwikkeld, en door het comité van artikel 71, welke comités hem in voorkomend geval gezamenlijke adviezen verstrekken.
 
 4. Teneinde de Unie en haar lidstaten in staat te stellen doeltreffend op te treden, evalueert de Europese Raad regelmatig de dreigingen waarmee de Unie wordt geconfronteerd.
+
+## DEEL ZESDE. INSTITUTIONELE EN FINANCIËLE BEPALINGEN
+
+### TITEL I. INSTITUTIONELE BEPALINGEN
+
+### HOOFDSTUK 1. DE INSTELLINGEN
+
+#### AFDELING EERSTE. HET EUROPEES PARLEMENT
 
 ##### Artikel 223
 
@@ -2525,20 +2498,6 @@ Het Europese Parlement en de Raad stellen bij verordeningen volgens de gewone we
 ##### Artikel 225
 
 Het Europees Parlement kan met meerderheid van stemmen van de leden waaruit het bestaat de Commissie verzoeken passende voorstellen in te dienen inzake aangelegenheden die naar het oordeel van het Parlement besluiten van de Unie voor de tenuitvoerlegging van de Verdragen vergen. Indien de Commissie geen voorstel indient, deelt zij de redenen daarvoor aan het Europees Parlement mee.
-
-##### Artikel 225 A
-
-De Raad kan, op voorstel van de Commissie en na raadpleging van het Europees Parlement en het Hof van Justitie, dan wel op verzoek van het Hof van Justitie en na raadpleging van het Europees Parlement en de Commissie, met eenparigheid van stemmen rechterlijke kamers instellen die in eerste aanleg kennis nemen van bepaalde categorieën van beroepen in specifieke aangelegenheden.
-
-In het besluit tot instelling van een rechterlijke kamer worden de regels voor de samenstelling van die kamer vastgesteld en wordt de reikwijdte van de haar verleende bevoegdheden bepaald.
-
-Tegen de beslissingen van de rechterlijke kamers kan bij het Gerecht van eerste aanleg een tot rechtsvragen beperkte hogere voorziening worden ingesteld of, wanneer het besluit tot instelling van de kamer daarin voorziet, een beroep dat ook op feitelijke vragen betrekking heeft.
-
-De leden van de rechterlijke kamers worden gekozen uit personen die alle waarborgen voor onafhankelijkheid bieden en bekwaam zijn rechterlijke ambten te bekleden. Zij worden door de Raad met eenparigheid van stemmen benoemd.
-
-De rechterlijke kamers stellen in overeenstemming met het Hof van Justitie hun reglement voor de procesvoering vast. Dit reglement behoeft de goedkeuring van de Raad, die met gekwalificeerde meerderheid van stemmen besluit.
-
-Tenzij in het besluit tot instelling van een rechterlijke kamer iets anders is bepaald, zijn de bepalingen van dit Verdrag betreffende het Hof van Justitie en de bepalingen van het statuut van het Hof van Justitie op de rechterlijke kamers van toepassing.
 
 ##### Artikel 226
 
@@ -2574,10 +2533,6 @@ Het Europees Parlement houdt jaarlijks een zitting. Het komt van rechtswege op d
 
 Het Europees Parlement kan in buitengewone vergaderperiode bijeenkomen op verzoek van de meerderheid van de leden waaruit het bestaat, van de Raad of van de Commissie.
 
-##### Artikel 229 A
-
-Onverminderd de overige bepalingen van dit Verdrag, kan de Raad op voorstel van de Commissie en na raadpleging van het Europees Parlement met eenparigheid van stemmen bepalingen vaststellen waarbij aan het Hof van Justitie, in een door hem te bepalen mate, de bevoegdheid wordt verleend uitspraak te doen in geschillen die verband houden met de toepassing van op grond van dit Verdrag vastgestelde besluiten waarbij communautaire industriële eigendomsrechten worden ingesteld. De Raad beveelt de lidstaten aan deze bepalingen overeenkomstig hun onderscheiden grondwettelijke bepalingen aan te nemen.
-
 ##### Artikel 230
 
 De Commissie kan alle vergaderingen bijwonen en wordt op haar verzoek gehoord.
@@ -2608,6 +2563,8 @@ Wanneer aan het Europees Parlement een motie van afkeuring betreffende het belei
 
 Indien de motie van afkeuring wordt aangenomen met een meerderheid van twee derde van de uitgebrachte stemmen, welke een meerderheid van de leden van het Europees Parlement vertegenwoordigt, moeten de leden van de Commissie collectief ontslag nemen en moet ook de hoge vertegenwoordiger van de Unie voor buitenlandse zaken en veiligheidsbeleid zijn functie in de Commissie neerleggen. Zij blijven in functie en blijven de lopende zaken behartigen totdat overeenkomstig [artikel 17 van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=17) in hun vervanging is voorzien. In dat geval verstrijkt de ambtsperiode van de ter vervanging benoemde Commissieleden op de datum waarop de ambtstermijn van de collectief tot ontslag gedwongen Commissieleden zou zijn verstreken.
 
+#### AFDELING TWEEDE. DE EUROPESE RAAD
+
 ##### Artikel 235
 
 1. Ieder lid van de Europese Raad kan slechts door één ander lid worden gemachtigd om namens hem te stemmen.
@@ -2629,6 +2586,8 @@ De Europese Raad stelt met gekwaliﬁceerde meerderheid van stemmen:
 - a. een besluit houdende de lijst van Raadsformaties andere dan die van algemene zaken en buitenlandse zaken, overeenkomstig [artikel 16, lid 6, van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=16) vast;
 
 - b. een besluit betreffende het voorzitterschap van de andere Raadsformaties dan die van buitenlandse zaken, overeenkomstig [artikel 16, lid 9, van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=16) vast.
+
+#### AFDELING DERDE. DE RAAD
 
 ##### Artikel 237
 
@@ -2674,6 +2633,8 @@ De Raad stelt met gewone meerderheid, na raadpleging van de Commissie, het statu
 
 De Raad stelt de bezoldigingen, de vergoedingen en pensioenen van de voorzitter van de Europese Raad, van de voorzitter van de Commissie, van de hoge vertegenwoordiger van de Unie voor buitenlandse zaken en veiligheidsbeleid, van de leden van de Commissie, van de presidenten, de leden en de griffiers van het Hof van Justitie van de Europese Unie, alsmede van de secretaris-generaal van de Raad, vast. De Raad stelt tevens alle vergoedingen vast welke als beloning kunnen gelden.
 
+#### AFDELING VIERDE. DE COMMISSIE
+
 ##### Artikel 244
 
 Overeenkomstig [artikel 17, lid 5 van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=17) worden de leden van de Commissie gekozen volgens een toerbeurtsysteem dat door de Europese Raad met eenparigheid van stemmen wordt vastgesteld en dat stoelt op de onderstaande beginselen:
@@ -2687,8 +2648,6 @@ Overeenkomstig [artikel 17, lid 5 van het Verdrag betreffende de Europese Unie](
 De leden van de Commissie onthouden zich van iedere handeling welke onverenigbaar is met het karakter van hun ambt. De lidstaten eerbiedigen hun onafhankelijkheid en trachten niet hen te beïnvloeden bij de uitvoering van hun taak.
 
 De leden van de Commissie mogen gedurende hun ambtsperiode geen andere beroepswerkzaamheden, al dan niet tegen beloning, verrichten. Bij hun ambtsaanvaarding verbinden zij zich plechtig om gedurende hun ambtsperiode en na aﬂoop daarvan de uit hun taak voortvloeiende verplichtingen na te komen, in het bijzonder eerlijkheid en kiesheid te betrachten in het aanvaarden van bepaalde functies of voordelen na aﬂoop van die ambtsperiode. Ingeval deze verplichtingen niet worden nagekomen, kan de Raad met gewone meerderheid of de Commissie zich wenden tot het Hof van Justitie, dat, al naar gelang van het geval, ontslag ambtshalve volgens artikel 247 of verval van het recht op pensioen of van andere, daarvoor in de plaats tredende voordelen kan uitspreken.
-
-### VIJFDE AFDELING. DE REKENKAMER
 
 ##### Artikel 246
 
@@ -2712,8 +2671,6 @@ Op verzoek van de Raad met gewone meerderheid of van de Commissie kan elk lid va
 
 Onverminderd [artikel 18, lid 4, van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=18) worden de taken van de Commissie overeenkomstig [artikel 17, lid 6, van voornoemd Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=17) door de voorzitter gestructureerd en over de leden van de Commissie verdeeld. De voorzitter kan de taakverdeling tijdens de ambtstermijn wijzigen. De leden van de Commissie oefenen de hun door de voorzitter toegewezen taak uit onder diens gezag.
 
-### HOOFDSTUK 2. BEPALINGEN WELKE VERSCHEIDENE INSTELLINGEN GEMEEN HEBBEN
-
 ##### Artikel 249
 
 1. De Commissie stelt haar reglement van orde vast teneinde te verzekeren dat zij en haar diensten werkzaam zijn. Zij zorgt voor de bekendmaking van dat reglement.
@@ -2725,6 +2682,8 @@ Onverminderd [artikel 18, lid 4, van het Verdrag betreffende de Europese Unie](h
 De besluiten van de Commissie worden genomen bij meerderheid van stemmen van haar leden.
 
 Het quorum wordt bepaald in het reglement van orde.
+
+#### AFDELING VIJFDE. HET HOF VAN JUSTITIE VAN DE EUROPESE UNIE
 
 ##### Artikel 251
 
@@ -2788,8 +2747,6 @@ Wanneer het Gerecht van oordeel is dat in een zaak een principiële beslissing m
 
 De beslissingen die het Gerecht over prejudiciële vragen geeft, kunnen op de wijze en binnen de grenzen die in het statuut worden bepaald bij uitzondering door het Hof van Justitie worden heroverwogen, wanneer er een ernstig gevaar bestaat dat de eenheid of de samenhang van het recht van de Unie wordt aangetast.
 
-### HOOFDSTUK 3. HET ECONOMISCH EN SOCIAAL COMITÉ
-
 ##### Artikel 257
 
 Het Europees Parlement en de Raad kunnen, volgens de gewone wetgevingsprocedure, gespecialiseerde rechtbanken instellen die worden toegevoegd aan het Gerecht, en die in eerste aanleg kennis nemen van bepaalde categorieën van beroepen in speciﬁeke aangelegenheden. Het Europees Parlement en de Raad besluiten bij verordeningen hetzij op voorstel van de Commissie en na raadpleging van het Hof van Justitie, hetzij op verzoek van het Hof van Justitie en na raadpleging van de Commissie.
@@ -2842,8 +2799,6 @@ De door het Europees Parlement en de Raad gezamenlijk, alsmede de door de Raad k
 
 Onverminderd de overige bepalingen van de Verdragen, kan de Raad, volgens een bijzondere wetgevingsprocedure en na raadpleging van het Europees Parlement, met eenparigheid van stemmen bepalingen vaststellen waarbij aan het Hof van Justitie van de Europese Unie, in een door hem te bepalen mate, de bevoegdheid wordt verleend uitspraak te doen in geschillen die verband houden met de toepassing van op grond van de Verdragen vastgestelde besluiten waarbij Europese intellectuele eigendomsrechten worden ingesteld. Deze bepalingen treden pas in werking nadat zij door de lidstaten overeenkomstig hun onderscheiden grondwettelijke bepalingen zijn goedgekeurd.
 
-### HOOFDSTUK 4. HET COMITÉ VAN DE REGIO'S
-
 ##### Artikel 263
 
 Het Hof van Justitie van de Europese Unie gaat de wettigheid na van de wetgevingshandelingen, van de handelingen van de Raad, van de Commissie en van de Europese Centrale Bank, voorzover het geen aanbevelingen of adviezen betreft, en van de handelingen van het Europees Parlement en de Europese Raad die beogen rechtsgevolgen ten aanzien van derden te hebben. Het gaat ook de wettigheid na van de handelingen van de organen of instanties van de Unie waarmee rechtsgevolgen ten aanzien van derden worden beoogd.
@@ -2872,8 +2827,6 @@ Dit beroep is slechts ontvankelijk indien de betrokken instelling, orgaan of ins
 
 Iedere natuurlijke of rechtspersoon kan onder de in de voorgaande alinea’s vastgestelde voorwaarden bij het Hof zijn bezwaren indienen tegen het feit dat een der instellingen, organen of instanties van de Unie heeft nagelaten te zijnen aanzien een andere handeling te verrichten dan het geven van een aanbeveling of een advies.
 
-### HOOFDSTUK 5. DE EUROPESE INVESTERINGSBANK
-
 ##### Artikel 266
 
 De instelling, het orgaan of de instantie welker handeling nietig is verklaard of welker nalatigheid strijdig met de Verdragen is verklaard, is gehouden de maatregelen te nemen welke nodig zijn ter uitvoering van het arrest van het Hof van Justitie van de Europese Unie.
@@ -2893,8 +2846,6 @@ Indien een vraag te dien aanzien wordt opgeworpen voor een rechterlijke instanti
 Indien een vraag te dien aanzien wordt opgeworpen in een zaak aanhangig bij een nationale rechterlijke instantie waarvan de beslissingen volgens het nationale recht niet vatbaar zijn voor hoger beroep, is deze instantie gehouden zich tot het Hof te wenden.
 
 Indien een dergelijke vraag wordt opgeworpen in een bij een nationale rechterlijke instantie aanhangige zaak betreffende een gedetineerde persoon, doet het Hof zo spoedig mogelijk uitspraak.
-
-## TITEL II. FINANCIËLE BEPALINGEN
 
 ##### Artikel 268
 
@@ -2960,23 +2911,23 @@ Het Hof van Justitie van de Europese Unie kan in zaken welke bij dit college aan
 
 De arresten van het Hof van Justitie van de Europese Unie zijn uitvoerbaar overeenkomstig de bepalingen van artikel 299.
 
-## ZESDE DEEL. ALGEMENE EN SLOTBEPALINGEN
-
 ##### Artikel 281
 
 Het statuut van het Hof van Justitie van de Europese Unie wordt vastgesteld bij een afzonderlijk protocol.
 
 Het Europees Parlement en de Raad kunnen, volgens de gewone wetgevingsprocedure, het statuut wijzigen, met uitzondering van titel I en artikel 64 daarvan. Het Europees Parlement en de Raad besluiten hetzij op verzoek van het Hof van Justitie en na raadpleging van de Commissie, hetzij op voorstel van de Commissie en na raadpleging van het Hof van Justitie.
 
+#### AFDELING ZESDE. DE EUROPESE CENTRALE BANK
+
 ##### Artikel 282
 
-1. De Europese Centrale Bank en de nationale centrale banken vormen het Europees Stelsel van Centrale Banken (ESBC) per 1 december 2009: (ESCB). De Europese Centrale Bank en de nationale centrale banken van de lidstaten die de euro als munt hebben, welke het Eurosysteem vormen, voeren het monetair beleid van de Unie.
+1. De Europese Centrale Bank en de nationale centrale banken vormen het Europees Stelsel van Centrale Banken (ESBC) *per 1 december 2009: (ESCB)*. De Europese Centrale Bank en de nationale centrale banken van de lidstaten die de euro als munt hebben, welke het Eurosysteem vormen, voeren het monetair beleid van de Unie.
 
-2. Het ESBC per 1 december 2009: (ESCB) wordt geleid door de besluitvormingsorganen van de Europese Centrale Bank. Het hoofddoel van het ESCB is het handhaven van prijsstabiliteit. Onverminderd deze doelstelling ondersteunt het stelsel het algemeen economisch beleid in de Unie teneinde bij te dragen aan de verwezenlijking van de doelstellingen van de Unie.
+2. Het ESBC *per 1 december 2009: (ESCB)* wordt geleid door de besluitvormingsorganen van de Europese Centrale Bank. Het hoofddoel van het ESCB is het handhaven van prijsstabiliteit. Onverminderd deze doelstelling ondersteunt het stelsel het algemeen economisch beleid in de Unie teneinde bij te dragen aan de verwezenlijking van de doelstellingen van de Unie.
 
 3. De Europese Centrale Bank bezit rechtspersoonlijkheid. Zij heeft het alleenrecht machtiging te geven tot uitgifte van de euro. Zij is onafhankelijk, zowel bij de uitoefening van haar bevoegdheden als met betrekking tot het beheer van haar ﬁnanciële middelen. De instellingen, organen en instanties van de Unie en de regeringen van de lidstaten eerbiedigen deze onafhankelijkheid.
 
-4. De Europese Centrale Bank neemt de maatregelen die nodig zijn om haar taken te vervullen overeenkomstig de artikelen 127 tot en met 133 en artikel 138 en de door [de statuten van het ESCB en van de ECB](onbekend) bepaalde voorwaarden. Overeenkomstig voornoemde artikelen behouden de lidstaten die de euro niet als munt hebben en hun centrale banken hun bevoegdheden op monetair gebied.
+4. De Europese Centrale Bank neemt de maatregelen die nodig zijn om haar taken te vervullen overeenkomstig de artikelen 127 tot en met 133 en artikel 138 en de door [de statuten van het ESCB en van de ECB](https://wetten.overheid.nl/BWBV0001507) bepaalde voorwaarden. Overeenkomstig voornoemde artikelen behouden de lidstaten die de euro niet als munt hebben en hun centrale banken hun bevoegdheden op monetair gebied.
 
 5. Op de gebieden die onder haar bevoegdheid vallen, wordt de Europese Centrale Bank geraadpleegd over ieder ontwerp van een handeling van de Unie, alsmede over ieder ontwerp van regelgeving op nationaal niveau, en kan zij advies uitbrengen.
 
@@ -3004,6 +2955,8 @@ De voorzitter van de Raad kan aan de Raad van bestuur van de Europese Centrale B
 
 De president van de Europese Centrale Bank en de overige leden van de directie kunnen op verzoek van het Europees Parlement of op eigen initiatief worden gehoord door de bevoegde commissies van het Europees Parlement.
 
+#### AFDELING ZEVENDE. DE REKENKAMER
+
 ##### Artikel 285
 
 De Rekenkamer verricht de controle van de rekeningen van de Unie.
@@ -3022,7 +2975,7 @@ Zij kiezen uit hun midden voor drie jaar de voorzitter van de Rekenkamer. Hij is
 
 4. De leden van de Rekenkamer mogen gedurende hun ambtsperiode geen andere beroepswerkzaamheden, al dan niet tegen beloning, verrichten. Bij hun ambtsaanvaarding verbinden zij zich plechtig om gedurende hun ambtsperiode en na aﬂoop daarvan de uit hun taak voortvloeiende verplichtingen na te komen, in het bijzonder eerlijkheid en kiesheid te betrachten in het aanvaarden van bepaalde functies of voordelen na aﬂoop van die ambtsperiode.
 
-5. Behalve door regelmatige vervanging of door overlijden, eindigt de ambtsvervulling van een lid van de Rekenkamer door vrijwillig ontslag of door ontslag ambtshalve ingevolge een uitspraak van het Hof van Justitie overeenkomstig lid 7per 1 december 2009: lid 6.
+5. Behalve door regelmatige vervanging of door overlijden, eindigt de ambtsvervulling van een lid van de Rekenkamer door vrijwillig ontslag of door ontslag ambtshalve ingevolge een uitspraak van het Hof van Justitie overeenkomstig lid 7*per 1 december 2009: lid 6*.
 
 De betrokkene wordt vervangen voor de verdere duur van zijn ambtstermijn.
 
@@ -3061,6 +3014,10 @@ De Rekenkamer kan voorts te allen tijde met betrekking tot bijzondere vraagstukk
 De Rekenkamer neemt haar jaarverslagen, speciale verslagen of adviezen aan met meerderheid van stemmen van haar leden. Zij kan echter uit haar midden kamers vormen voor het aannemen van bepaalde soorten van verslagen of adviezen overeenkomstig haar reglement van orde.
 
 De Rekenkamer staat het Europees Parlement en de Raad bij, bij de controle op de uitvoering van de begroting. De Rekenkamer stelt haar reglement van orde vast. Dit reglement behoeft de goedkeuring van de Raad, die besluit.
+
+### HOOFDSTUK 2. RECHTSHANDELINGEN VAN DE UNIE, VASTSTELLINGSPROCEDURES EN OVERIGE BEPALINGEN
+
+#### AFDELING EERSTE. RECHTSHANDELINGEN VAN DE UNIE
 
 ##### Artikel 288
 
@@ -3114,6 +3071,8 @@ Voor de toepassing van het bepaalde onder a) en b) besluit het Europees Parlemen
 
 De Raad stelt aanbevelingen vast. De Raad besluit op voorstel van de Commissie in alle gevallen waarin in de Verdragen is bepaald dat hij handelingen op voorstel van de Commissie vaststelt. De Raad besluit met eenparigheid van stemmen op de gebieden waarop handelingen van de Unie met eenparigheid van stemmen moeten worden vastgesteld. De Commissie, alsmede de Europese Centrale Bank in de in de Verdragen bepaalde speciﬁeke gevallen, stellen aanbevelingen vast.
 
+#### AFDELING TWEEDE. VASTSTELLINGSPROCEDURES EN OVERIGE BEPALINGEN
+
 ##### Artikel 293
 
 1. Wanneer de Raad uit hoofde van de Verdragen op voorstel van de Commissie besluit, kan hij dat voorstel slechts met eenparigheid van stemmen wijzigen, behalve in de gevallen als bedoeld in artikel 294, leden 10 en 13, artikel 310, artikel 312, artikel 314 en artikel 315, tweede alinea.
@@ -3126,6 +3085,8 @@ De Raad stelt aanbevelingen vast. De Raad besluit op voorstel van de Commissie i
 
 2. De Commissie dient een voorstel in bij het Europees Parlement en bij de Raad.
 
+Eerste lezing
+
 3. Het Europees Parlement stelt zijn standpunt in eerste lezing vast en deelt het mee aan de Raad.
 
 4. Indien de Raad het standpunt van het Europees Parlement goedkeurt, wordt de betrokken handeling vastgesteld in de formulering die overeenstemt met het standpunt van het Europees Parlement.
@@ -3133,6 +3094,8 @@ De Raad stelt aanbevelingen vast. De Raad besluit op voorstel van de Commissie i
 5. Indien de Raad het standpunt van het Europees Parlement niet goedkeurt, stelt hij zijn standpunt in eerste lezing vast en deelt hij dit mee aan het Europees Parlement.
 
 6. De Raad stelt het Europees Parlement ten volle in kennis van zijn redenen voor het vaststellen van zijn standpunt in eerste lezing. De Commissie stelt het Europees Parlement ten volle in kennis van haar standpunt.
+
+Tweede lezing
 
 7. Indien het Europees Parlement binnen een termijn van drie maanden na deze mededeling:
 
@@ -3150,15 +3113,21 @@ De Raad stelt aanbevelingen vast. De Raad besluit op voorstel van de Commissie i
 
 9. De Raad besluit met eenparigheid van stemmen over de amendementen waarover de Commissie negatief advies heeft uitgebracht.
 
+Bemiddeling
+
 10. Het bemiddelingscomité bestaat uit de leden van de Raad of hun vertegenwoordigers en een gelijk aantal leden die het Europees Parlement vertegenwoordigen, en heeft tot taak binnen een termijn van zes weken nadat het is bijeengeroepen, met een gekwaliﬁceerde meerderheid van de leden van de Raad of hun vertegenwoordigers en met een meerderheid van de leden die het Europees Parlement vertegenwoordigen, overeenstemming te bereiken over een gemeenschappelijke ontwerptekst op basis van de standpunten van het Europees Parlement en de Raad in tweede lezing.
 
 11. De Commissie neemt aan de werkzaamheden van het bemiddelingscomité deel en stelt alles in het werk om de standpunten van het Europees Parlement en de Raad nader tot elkaar te brengen.
 
 12. Indien het bemiddelingscomité binnen een termijn van zes weken nadat het is bijeengeroepen, geen gemeenschappelijke ontwerptekst goedkeurt, wordt de voorgestelde handeling geacht niet te zijn vastgesteld.
 
+Derde lezing
+
 13. Indien het bemiddelingscomité binnen die termijn een gemeenschappelijke ontwerptekst goedkeurt, beschikken het Europees Parlement en de Raad over een termijn van zes weken na deze goedkeuring om de betrokken handeling overeenkomstig die ontwerptekst vast te stellen, waarbij het Europees Parlement besluit met een meerderheid van de uitgebrachte stemmen, en de Raad met gekwaliﬁceerde meerderheid van stemmen. Indien zulks niet geschiedt, wordt de handeling geacht niet te zijn vastgesteld.
 
 14. De in dit artikel vermelde termijnen van drie maanden en zes weken worden, op initiatief van het Europees Parlement of van de Raad, met ten hoogste één maand, respectievelijk twee weken verlengd.
+
+Bijzondere bepalingen
 
 15. Wanneer in de in de Verdragen bepaalde gevallen, op initiatief van een groep lidstaten, op aanbeveling van de Europese Centrale Bank of op verzoek van het Hof van Justitie de gewone wetgevingsprocedure wordt gevolgd met betrekking tot een wetgevingshandeling, zijn lid 2, lid 6, tweede zin, en lid 9 niet van toepassing.
 
@@ -3208,6 +3177,8 @@ De tenuitvoerlegging kan niet worden geschorst dan krachtens een beschikking van
 
 Evenwel behoort het toezicht op de regelmatigheid van de wijze van tenuitvoerlegging tot de bevoegdheid van de nationale rechterlijke instanties.
 
+### HOOFDSTUK 3. DE ADVIESORGANEN VAN DE EUROPESE UNIE
+
 ##### Artikel 300
 
 1. Het Europees Parlement, de Raad en de Commissie worden bijgestaan door een Economisch en Sociaal Comité en een Comité van de Regio’s, die een adviserende taak hebben.
@@ -3219,6 +3190,8 @@ Evenwel behoort het toezicht op de regelmatigheid van de wijze van tenuitvoerleg
 4. De leden van het Economisch en Sociaal Comité en van het Comité van de Regio’s zijn niet gebonden door enig imperatief mandaat. Zij oefenen hun ambt volkomen onafhankelijk uit in het algemeen belang van de Unie.
 
 5. De in de leden 2 en 3 bedoelde regels betreffende de aard van de samenstelling van die comités worden door de Raad op gezette tijden getoetst aan de economische, sociale en demograﬁsche evolutie in de Unie. De Raad stelt daartoe op voorstel van de Commissie besluiten vast.
+
+#### AFDELING EERSTE. HET ECONOMISCH EN SOCIAAL COMITÉ
 
 ##### Artikel 301
 
@@ -3252,6 +3225,8 @@ Indien het Europees Parlement, de Raad of de Commissie zulks noodzakelijk acht, 
 
 Het advies van het Comité, alsmede een verslag van de besprekingen, worden aan het Europees Parlement, de Raad en aan de Commissie gezonden.
 
+#### AFDELING TWEEDE. HET COMITÉ VAN DE REGIO’S
+
 ##### Artikel 305
 
 Het aantal leden van het Comité van de Regio’s bedraagt ten hoogste 350.
@@ -3282,6 +3257,8 @@ Het Comité kan, in de gevallen waarin het zulks dienstig acht, op eigen initiat
 
 Het advies van het Comité alsmede een verslag van de besprekingen worden aan het Europees Parlement, de Raad en aan de Commissie gezonden.
 
+### HOOFDSTUK 4. DE EUROPESE INVESTERINGSBANK
+
 ##### Artikel 308
 
 De Europese Investeringsbank bezit rechtspersoonlijkheid.
@@ -3302,6 +3279,8 @@ De Europese Investeringsbank heeft tot taak, met een beroep op de kapitaalmarkte
 
 Bij de vervulling van haar taak vergemakkelijkt de Bank de ﬁnanciering van investeringsprogramma’s in samenhang met bijstandsverlening van de structuurfondsen en van de andere ﬁnancieringsinstrumenten van de Unie.
 
+### TITEL II. FINANCIËLE BEPALINGEN
+
 ##### Artikel 310
 
 1. Alle ontvangsten en uitgaven van de Unie moeten voor elk begrotingsjaar worden geraamd en opgenomen in de begroting.
@@ -3320,6 +3299,8 @@ De ontvangsten en uitgaven van de begroting moeten in evenwicht zijn.
 
 6. De Unie en de lidstaten bestrijden overeenkomstig artikel 325 fraude en alle andere onwettige activiteiten waardoor de ﬁnanciële belangen van de Unie worden geschaad.
 
+### HOOFDSTUK 1. DE EIGEN MIDDELEN VAN DE UNIE
+
 ##### Artikel 311
 
 De Unie voorziet zich van de middelen die nodig zijn om haar doelstellingen te verwezenlijken en aan haar beleid uitvoering te geven.
@@ -3329,6 +3310,8 @@ De begroting wordt, onverminderd andere ontvangsten, volledig uit eigen middelen
 De Raad stelt, volgens een bijzondere wetgevingsprocedure en na raadpleging van het Europees Parlement, met eenparigheid van stemmen een besluit vast houdende de bepalingen die van toepassing zijn op het stelsel van eigen middelen van de Unie. In dit kader kunnen nieuwe categorieën van eigen middelen worden vastgesteld, dan wel bestaande categorieën worden ingetrokken. Dit besluit treedt pas in werking na door de lidstaten overeenkomstig hun onderscheiden grondwettelijke bepalingen te zijn goedgekeurd.
 
 De Raad stelt volgens een bijzondere wetgevingsprocedure bij verordeningen de uitvoeringsmaatregelen voor het stelsel van eigen middelen van de Unie vast voor zover het krachtens de derde alinea vastgestelde besluit daarin voorziet. De Raad besluit na goedkeuring door het Europees Parlement.
+
+### HOOFDSTUK 2. MEERJARIG FINANCIEEL KADER
 
 ##### Artikel 312
 
@@ -3350,7 +3333,7 @@ Het ﬁnancieel kader omvat alle andere bepalingen die dienstig zijn voor het go
 
 5. Tijdens de gehele procedure die leidt tot vaststelling van het ﬁnancieel kader, nemen het Europees Parlement, de Raad en de Commissie alle maatregelen die nodig zijn om de vaststelling te vergemakkelijken.
 
-#### SLOTBEPALINGEN
+### HOOFDSTUK 3. DE JAARLIJKSE BEGROTING VAN DE UNIE
 
 ##### Artikel 313
 
@@ -3368,11 +3351,11 @@ De jaarlijkse begroting van de Unie wordt door het Europees Parlement en de Raad
 
 - 4. Indien het Europees Parlement binnen een termijn van tweeënveertig dagen na deze mededeling:
 
-- a. het standpunt van de Raad goedkeurt, is de begroting vastgesteld;
+   - a. het standpunt van de Raad goedkeurt, is de begroting vastgesteld;
 
-- b. geen besluit heeft genomen, wordt de begroting geacht te zijn vastgesteld;
+   - b. geen besluit heeft genomen, wordt de begroting geacht te zijn vastgesteld;
 
-- c. met een meerderheid van zijn leden amendementen aanneemt, wordt het aldus geamendeerde ontwerp toegezonden aan de Raad en aan de Commissie. De voorzitter van het Europees Parlement roept in overleg met de voorzitter van de Raad onverwijld het bemiddelingscomité bijeen. Het bemiddelingscomité komt evenwel niet bijeen indien de Raad het Europees Parlement binnen een termijn van tien dagen na de toezending van het ontwerp meedeelt dat hij alle amendementen van het Parlement aanvaardt.
+   - c. met een meerderheid van zijn leden amendementen aanneemt, wordt het aldus geamendeerde ontwerp toegezonden aan de Raad en aan de Commissie. De voorzitter van het Europees Parlement roept in overleg met de voorzitter van de Raad onverwijld het bemiddelingscomité bijeen. Het bemiddelingscomité komt evenwel niet bijeen indien de Raad het Europees Parlement binnen een termijn van tien dagen na de toezending van het ontwerp meedeelt dat hij alle amendementen van het Parlement aanvaardt.
 
 - 5. Het bemiddelingscomité bestaat uit de leden van de Raad of hun vertegenwoordigers en een gelijk aantal leden die het Europees Parlement vertegenwoordigen en heeft tot taak om, op basis van de standpunten van het Europees Parlement en van de Raad, binnen een termijn van eenentwintig dagen nadat het is bijeengeroepen, met een gekwaliﬁceerde meerderheid van de leden van de Raad of hun vertegenwoordigers en met een meerderheid van de leden die het Europees Parlement vertegenwoordigen, overeenstemming te bereiken over een gemeenschappelijk ontwerp. De Commissie neemt deel aan de werkzaamheden van het bemiddelingscomité en neemt alle initiatieven die nodig zijn om de standpunten van het Europees Parlement en de Raad nader tot elkaar te brengen.
 
@@ -3380,183 +3363,19 @@ De jaarlijkse begroting van de Unie wordt door het Europees Parlement en de Raad
 
 - 7. Indien, binnen de in lid 6 genoemde termijn van veertien dagen:
 
-- a. zowel het Europees Parlement als de Raad het gemeenschappelijk ontwerp goedkeurt of geen besluit neemt, of één van deze instellingen het gemeenschappelijk ontwerp goedkeurt terwijl de andere geen besluit neemt, wordt de begroting geacht deﬁnitief te zijn vastgesteld overeenkomstig het gemeenschappelijk ontwerp, of
+   - a. zowel het Europees Parlement als de Raad het gemeenschappelijk ontwerp goedkeurt of geen besluit neemt, of één van deze instellingen het gemeenschappelijk ontwerp goedkeurt terwijl de andere geen besluit neemt, wordt de begroting geacht deﬁnitief te zijn vastgesteld overeenkomstig het gemeenschappelijk ontwerp, of
 
-- b. zowel het Europees Parlement met een meerderheid van zijn leden, als de Raad het gemeenschappelijk ontwerp afwijst, of indien één van deze instellingen het gemeenschappelijk ontwerp afwijst en de andere geen besluit neemt, wordt door de Commissie een nieuwe ontwerpbegroting ingediend, of
+   - b. zowel het Europees Parlement met een meerderheid van zijn leden, als de Raad het gemeenschappelijk ontwerp afwijst, of indien één van deze instellingen het gemeenschappelijk ontwerp afwijst en de andere geen besluit neemt, wordt door de Commissie een nieuwe ontwerpbegroting ingediend, of
 
-- c. het Europees Parlement met een meerderheid van zijn leden het gemeenschappelijk ontwerp afwijst terwijl de Raad het goedkeurt, wordt door de Commissie een nieuwe ontwerpbegroting ingediend, of
+   - c. het Europees Parlement met een meerderheid van zijn leden het gemeenschappelijk ontwerp afwijst terwijl de Raad het goedkeurt, wordt door de Commissie een nieuwe ontwerpbegroting ingediend, of
 
-- d. het Europees Parlement het gemeenschappelijk ontwerp goedkeurt, terwijl de Raad het afwijst, kan het Europees Parlement binnen veertien dagen na de afwijzing door de Raad met een meerderheid van zijn leden en van drie vijfde van het aantal uitgebrachte stemmen besluiten alle of een aantal van de in punt 4, onder c), bedoelde amendementen te bevestigen. Indien een amendement van het Europees Parlement niet wordt bevestigd, wordt het in het bemiddelingscomité overeengekomen standpunt ten aanzien van de begrotingsonderdelen waarop het amendement betrekking heeft, ingenomen. De begroting wordt geacht deﬁnitief te zijn vastgesteld op deze basis.
+   - d. het Europees Parlement het gemeenschappelijk ontwerp goedkeurt, terwijl de Raad het afwijst, kan het Europees Parlement binnen veertien dagen na de afwijzing door de Raad met een meerderheid van zijn leden en van drie vijfde van het aantal uitgebrachte stemmen besluiten alle of een aantal van de in punt 4, onder c), bedoelde amendementen te bevestigen. Indien een amendement van het Europees Parlement niet wordt bevestigd, wordt het in het bemiddelingscomité overeengekomen standpunt ten aanzien van de begrotingsonderdelen waarop het amendement betrekking heeft, ingenomen. De begroting wordt geacht deﬁnitief te zijn vastgesteld op deze basis.
 
 - 8. Indien het bemiddelingscomité niet binnen de in lid 5 genoemde termijn van eenentwintig dagen overeenstemming bereikt over een gemeenschappelijk ontwerp, wordt door de Commissie een nieuwe ontwerpbegroting ingediend.
 
 - 9. Wanneer de in dit artikel omschreven procedure is afgesloten, constateert de voorzitter van het Europees Parlement dat de begroting deﬁnitief is vastgesteld.
 
 - 10. Iedere instelling oefent de haar bij dit artikel toegekende bevoegdheden uit met inachtneming van de Verdragen en van de krachtens deze Verdragen vastgestelde handelingen, in het bijzonder die welke betrekking hebben op de eigen middelen van de Unie en op het evenwicht tussen ontvangsten en uitgaven.
-
-TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden hun handtekening onder dit Verdrag hebben gesteld.
-
-GEDAAN te Rome, de vijfentwintigste maart negentienhonderdzevenenvijftig.
-
-## TITEL I. CATEGORIEËN EN GEBIEDEN VAN BEVOEGDHEDEN VAN DE UNIE
-
-## TITEL II. ALGEMEEN TOEPASSELIJKE BEPALINGEN
-
-## DEEL TWEEDE. NON-DISCRIMINATIE EN BURGERSCHAP VAN DE UNIE
-
-## DEEL DERDE. HET BELEID EN INTERN OPTREDEN VAN DE UNIE
-
-## TITEL I. DE INTERNE MARKT
-
-## TITEL II. HET VRIJE VERKEER VAN GOEDEREN
-
-### HOOFDSTUK 1. DE DOUANE-UNIE
-
-### HOOFDSTUK 2. DE DOUANESAMENWERKING
-
-### HOOFDSTUK 3. VERBOD OP KWANTITATIEVE BEPERKINGEN TUSSEN DE LIDSTATEN
-
-## TITEL III. LANDBOUW EN VISSERIJ
-
-## TITEL IV. HET VRIJE VERKEER VAN PERSONEN, DIENSTEN EN KAPITAAL
-
-### HOOFDSTUK 1. DE WERKNEMERS
-
-### HOOFDSTUK 2. HET RECHT VAN VESTIGING
-
-### HOOFDSTUK 3. DE DIENSTEN
-
-### HOOFDSTUK 4. KAPITAAL EN BETALINGSVERKEER
-
-## TITEL V. DE RUIMTE VAN VRIJHEID, VEILIGHEID EN RECHT
-
-### HOOFDSTUK 1. ALGEMENE BEPALINGEN
-
-### HOOFDSTUK 2. BELEID INZAKE GRENSCONTROLES, ASIEL EN IMMIGRATIE
-
-### HOOFDSTUK 3. JUSTITIËLE SAMENWERKING IN BURGERLIJKE ZAKEN
-
-### HOOFDSTUK 4. JUSTITIËLE SAMENWERKING IN STRAFZAKEN
-
-### HOOFDSTUK 5. POLITIËLE SAMENWERKING
-
-## TITEL VI. VERVOER
-
-## TITEL VII. GEMEENSCHAPPELIJKE REGELS BETREFFENDE DE MEDEDINGING, DE BELASTINGEN EN DE ONDERLINGE AANPASSING VAN DE WETGEVINGEN
-
-### HOOFDSTUK 1. REGELS BETREFFENDE DE MEDEDINGING
-
-### AFDELING EERSTE. REGELS VOOR DE ONDERNEMINGEN
-
-### AFDELING TWEEDE. STEUNMAATREGELEN VAN DE STATEN
-
-### HOOFDSTUK 2. BEPALINGEN BETREFFENDE BELASTINGEN
-
-### HOOFDSTUK 3. DE AANPASSING VAN DE WETGEVINGEN
-
-## TITEL VIII. ECONOMISCH EN MONETAIR BELEID
-
-### HOOFDSTUK 1. ECONOMISCH BELEID
-
-### HOOFDSTUK 2. MONETAIR BELEID
-
-### HOOFDSTUK 4. SPECIFIEKE BEPALINGEN VOOR DE LIDSTATEN DIE DE EURO ALS MUNT HEBBEN
-
-### HOOFDSTUK 5. OVERGANGSBEPALINGEN
-
-## TITEL IX. WERKGELEGENHEID
-
-## TITEL X. SOCIALE POLITIEK
-
-## TITEL XI. HET EUROPEES SOCIAAL FONDS
-
-## TITEL XII. ONDERWIJS, BEROEPSOPLEIDING, JEUGD EN SPORT
-
-## TITEL XIII. CULTUUR
-
-## TITEL XIV. VOLKSGEZONDHEID
-
-## TITEL XV. CONSUMENTENBESCHERMING
-
-## TITEL XVI. TRANSEUROPESE NETWERKEN
-
-## TITEL XVII. INDUSTRIE
-
-## TITEL XX. MILIEU
-
-## TITEL XXI. ENERGIE
-
-## TITEL XXII. TOERISME
-
-## TITEL XXIII. CIVIELE BESCHERMING
-
-## TITEL XXIV. ADMINISTRATIEVE SAMENWERKING
-
-## DEEL VIERDE. DE ASSOCIATIE VAN DE LANDEN EN GEBIEDEN OVERZEE
-
-## DEEL VIJFDE. EXTERN OPTREDEN VAN DE UNIE
-
-## TITEL I. ALGEMENE BEPALINGEN INZAKE HET EXTERN OPTREDEN VAN DE UNIE
-
-## TITEL II. DE GEMEENSCHAPPELIJKE HANDELSPOLITIEK
-
-## TITEL III. SAMENWERKING MET DERDE LANDEN EN HUMANITAIRE HULP
-
-### HOOFDSTUK 1. ONTWIKKELINGSSAMENWERKING
-
-### HOOFDSTUK 2. ECONOMISCHE, FINANCIËLE EN TECHNISCHE SAMENWERKING MET DERDE LANDEN
-
-### HOOFDSTUK 3. HUMANITAIRE HULP
-
-## TITEL IV. BEPERKENDE MAATREGELEN
-
-## TITEL V. INTERNATIONALE OVEREENKOMSTEN
-
-## TITEL VI. BETREKKINGEN VAN DE UNIE MET INTERNATIONALE ORGANISATIES, MET DERDE LANDEN EN DELEGATIES VAN DE UNIE
-
-## TITEL VII. SOLIDARITEITSCLAUSULE
-
-## DEEL ZESDE. INSTITUTIONELE EN FINANCIËLE BEPALINGEN
-
-## TITEL I. INSTITUTIONELE BEPALINGEN
-
-### HOOFDSTUK 1. DE INSTELLINGEN
-
-### AFDELING EERSTE. HET EUROPEES PARLEMENT
-
-### AFDELING TWEEDE. DE EUROPESE RAAD
-
-### AFDELING DERDE. DE RAAD
-
-### AFDELING VIERDE. DE COMMISSIE
-
-### AFDELING VIJFDE. HET HOF VAN JUSTITIE VAN DE EUROPESE UNIE
-
-### AFDELING ZESDE. DE EUROPESE CENTRALE BANK
-
-### AFDELING ZEVENDE. DE REKENKAMER
-
-### HOOFDSTUK 2. RECHTSHANDELINGEN VAN DE UNIE, VASTSTELLINGSPROCEDURES EN OVERIGE BEPALINGEN
-
-### AFDELING EERSTE. RECHTSHANDELINGEN VAN DE UNIE
-
-### AFDELING TWEEDE. VASTSTELLINGSPROCEDURES EN OVERIGE BEPALINGEN
-
-### HOOFDSTUK 3. DE ADVIESORGANEN VAN DE EUROPESE UNIE
-
-### AFDELING EERSTE. HET ECONOMISCH EN SOCIAAL COMITÉ
-
-### AFDELING TWEEDE. HET COMITÉ VAN DE REGIO’S
-
-### HOOFDSTUK 4. DE EUROPESE INVESTERINGSBANK
-
-## TITEL II. FINANCIËLE BEPALINGEN
-
-### HOOFDSTUK 1. DE EIGEN MIDDELEN VAN DE UNIE
-
-### HOOFDSTUK 2. MEERJARIG FINANCIEEL KADER
-
-### HOOFDSTUK 3. DE JAARLIJKSE BEGROTING VAN DE UNIE
 
 ##### Artikel 315
 
@@ -3646,7 +3465,7 @@ In het kader van de in deze titel bedoelde begrotingsprocedures roept de Commiss
 
 5. De Commissie brengt in samenwerking met de lidstaten jaarlijks aan het Europees Parlement en de Raad verslag uit over de ter uitvoering van dit artikel genomen maatregelen.
 
-## TITEL III. NAUWERE SAMENWERKING
+### TITEL III. NAUWERE SAMENWERKING
 
 ##### Artikel 326
 
@@ -3822,13 +3641,13 @@ Bij de toepassing van de overeenkomsten, bedoeld in de eerste alinea, houden de 
 
 [Artikel 48, lid 7, van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=48) is niet van toepassing op onderstaande artikelen:
 
-- –. artikel 311, derde en vierde alinea,
+- – artikel 311, derde en vierde alinea,
 
-- –. artikel 312, lid 2, eerste alinea
+- – artikel 312, lid 2, eerste alinea
 
-- –. artikel 352, en
+- – artikel 352, en
 
-- –. artikel 354.
+- – artikel 354.
 
 ##### Artikel 354
 
@@ -3854,11 +3673,11 @@ Naast de bepalingen van [artikel 52 van het Verdrag betreffende de Europese Unie
 
 - 5. In afwijking van [artikel 52 van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=52) en de leden 1 tot en met 4 van dit artikel:
 
-- a. is dit Verdrag niet van toepassing op de Faeröer;
+   - a. is dit Verdrag niet van toepassing op de Faeröer;
 
-- b. is dit Verdrag niet van toepassing op Akrotiri en Dhekelia, zijnde de zones van Cyprus die onder de soevereiniteit van het Verenigd Koninkrijk vallen, uitgezonderd voorzover nodig om de uitvoering te waarborgen van de regelingen als vervat in het protocol betreffende de zones van Cyprus die onder de soevereiniteit van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland vallen dat gehecht is aan de Akte betreffende de toetredingsvoorwaarden van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie, en in overeenstemming met dat protocol.
+   - b. is dit Verdrag niet van toepassing op Akrotiri en Dhekelia, zijnde de zones van Cyprus die onder de soevereiniteit van het Verenigd Koninkrijk vallen, uitgezonderd voorzover nodig om de uitvoering te waarborgen van de regelingen als vervat in het protocol betreffende de zones van Cyprus die onder de soevereiniteit van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland vallen dat gehecht is aan de Akte betreffende de toetredingsvoorwaarden van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie, en in overeenstemming met dat protocol.
 
-- c. zijn de bepalingen van dit Verdrag op de Kanaaleilanden en op het eiland Man slechts van toepassing voorzover noodzakelijk ter verzekering van de toepassing van de regeling die voor deze eilanden is vastgesteld in het op 22 januari 1972 ondertekende Verdrag betreffende de toetreding van nieuwe lidstaten tot de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie.
+   - c. zijn de bepalingen van dit Verdrag op de Kanaaleilanden en op het eiland Man slechts van toepassing voorzover noodzakelijk ter verzekering van de toepassing van de regeling die voor deze eilanden is vastgesteld in het op 22 januari 1972 ondertekende Verdrag betreffende de toetreding van nieuwe lidstaten tot de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie.
 
 - 6. De Europese Raad kan op initiatief van de betrokken lidstaat een besluit vaststellen tot wijziging van de status ten aanzien van de Unie van een Deens, Frans of Nederlands land of gebied als bedoeld in de leden 1 en 2. De Europese Raad besluit met eenparigheid van stemmen, na raadpleging van de Commissie.
 

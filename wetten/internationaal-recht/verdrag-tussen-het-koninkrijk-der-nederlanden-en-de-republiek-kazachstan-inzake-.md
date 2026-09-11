@@ -1,48 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Kazachstan inzake internationaal vervoer over de weg"
 identifier: "BWBV0001465"
-country: "nl"
-rank: "verdrag"
-publication_date: "2003-09-01"
-last_updated: "2003-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001465"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000245463"
-version_id: "10000253422"
-internal_id: "C10006991421"
-label_id: "10000245604"
-original_entry_into_force: "2003-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001465/2003-09-01/0"
-intitule_bron: "Trb.2000-77 HERDRUK"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-12-27"
-intitule_published: "2000-08-04"
-intitule_in_force: "2003-09-05"
-intitule_status: "goed"
-original_publication: "Trb.2000-77 HERDRUK"
-original_signed_date: "2000-12-27"
-original_published_date: "2000-08-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2000-77 HERDRUK"
-entry_into_force_date: "2003-09-01"
-jci_1_3: "jci1.3:c:BWBV0001465&z=2003-09-01&g=2003-09-01"
-jci_1_0: "1.0:c:BWBV0001465&g=2003-09-01"
-citeertitel_status: "officieel"
-signed_date: "2000-12-27"
-entry_into_force: "2003-09-01"
+publicatiedatum: 2003-09-01
+laatste_update: 2003-09-01
+status: geldig
+toestand: 2003-09-01
+bron: "https://wetten.overheid.nl/BWBV0001465"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Kazachstan inzake internationaal vervoer over de weg
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van de Republiek Kazachstan, hierna te noemen de Verdragsluitende Partijen,
-
-Geleid door de wens, in het belang van hun economische betrekkingen, de ontwikkeling te bevorderen van het vervoer van goederen en personen over de weg in, naar en vanuit hun landen en in doorvoer door hun landen,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Kazachstan, hierna te noemen de Verdragsluitende Partijen, Geleid door de wens, in het belang van hun economische betrekkingen, de ontwikkeling te bevorderen van het vervoer van goederen en personen over de weg in, naar en vanuit hun landen en in doorvoer door hun landen, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Toepassingsgebied
 
@@ -162,10 +133,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN in tweevoud te Astana, op 14 juni 2000, elk in de Nederlandse, de Kazachse, de Russische en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschillen is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) A. H. J. M. SPEEKENBRINK
 
-**Voor de Regering van de Republiek Kazachstan**
+*Voor de Regering van de Republiek Kazachstan*
 
 (w.g.) S. M. BURKITBAJEV

@@ -1,18 +1,18 @@
 ---
-title: "Beleidsregel gegevensverstrekking kentekenregister 2026"
+title: "Beleidsregel van de directie van de Dienst Wegverkeer van 15 juli 2026, met kenmerk JBZ.26.0064112, betreffende de gegevensverstrekking uit het kentekenregister"
+citeertitel: "Beleidsregel gegevensverstrekking kentekenregister 2026"
 identifier: "BWBR0052837"
-categorie: "Overig"
+categorie: "Verkeer"
+soort: "zbo"
 publicatiedatum: 2026-07-15
-laatste_update: 2026-07-18
+laatste_update: 2026-07-15
 status: geldig
+toestand: 2026-07-15
 bron: "https://wetten.overheid.nl/BWBR0052837"
+opgehaald: 2026-09-11
 ---
 
 # Beleidsregel van de directie van de Dienst Wegverkeer van 15 juli 2026, met kenmerk JBZ.26.0064112, betreffende de gegevensverstrekking uit het kentekenregister
-
-gelet op [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=43) en [43a van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=43a), de [artikelen 9 tot en met 16 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=9), de [Regeling gegevensverstrekking kentekenregister 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024045) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81)
-
-besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -20,69 +20,69 @@ besluit:
 
 In deze beleidsregel wordt verstaan onder:
 
-- **Aangewezen overheidsorgaan:** een op basis van [artikel 41a tweede lid van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=41a) aangewezen orgaan of persoon.
+- *Aangewezen overheidsorgaan:* een op basis van [artikel 41a tweede lid van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=41a) aangewezen orgaan of persoon.
 
-- **Aansluiting:** de technische koppeling van een organisatie op een voorziening voor digitale gegevensuitwisseling;
+- *Aansluiting:* de technische koppeling van een organisatie op een voorziening voor digitale gegevensuitwisseling;
 
-- **Aansluitverzoek:** een verzoek van een aanvrager om een aansluiting tot stand te brengen;
+- *Aansluitverzoek:* een verzoek van een aanvrager om een aansluiting tot stand te brengen;
 
-- **Aanvraag:** ieder verzoek tot verstrekking van gevoelige gegevens uit het kentekenregister;
+- *Aanvraag:* ieder verzoek tot verstrekking van gevoelige gegevens uit het kentekenregister;
 
-- **Aanvrager:** een natuurlijke- of rechtspersoon die de RDW verzoekt om gegevens uit het kentekenregister te verstrekken;
+- *Aanvrager:* een natuurlijke- of rechtspersoon die de RDW verzoekt om gegevens uit het kentekenregister te verstrekken;
 
-- **Administratief beslag:** het beslag zoals bedoeld in [artikel 440, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=440) en [442 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=442);
+- *Administratief beslag:* het beslag zoals bedoeld in [artikel 440, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=440) en [442 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=442);
 
-- **Belanghebbenden:** alle andere aanvragers dan de aanvragers die specifiek in deze beleidsregel zijn benoemd;
+- *Belanghebbenden:* alle andere aanvragers dan de aanvragers die specifiek in deze beleidsregel zijn benoemd;
 
-- **Beroepsbeoefenaren:** de door de minister(s) als zodanig aangewezen (groepen van) personen of instanties als bedoeld in [artikel 9, eerste lid, sub a, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=9);
+- *Beroepsbeoefenaren:* de door de minister(s) als zodanig aangewezen (groepen van) personen of instanties als bedoeld in [artikel 9, eerste lid, sub a, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=9);
 
-- **Betrokkene:** de natuurlijke persoon of rechtspersoon op wiens naam het kentekenbewijs is geregistreerd;
+- *Betrokkene:* de natuurlijke persoon of rechtspersoon op wiens naam het kentekenbewijs is geregistreerd;
 
-- **BSN:** het nummer als bedoeld in [artikel 1 van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1);
+- *BSN:* het nummer als bedoeld in [artikel 1 van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1);
 
-- **Concurrentiegevoelig gegeven:** gevoelige gegeven zoals bedoeld in [artikel 7, tweede lid sub b van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=7).
+- *Concurrentiegevoelig gegeven:* gevoelige gegeven zoals bedoeld in [artikel 7, tweede lid sub b van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=7).
 
-- **Derden:** natuurlijke- of rechtspersonen die in opdracht van één of meer ontvanger(s) geheel of gedeeltelijk de verwerking van de door RDW verstrekte gevoelige gegevens voor die ontvanger(s) uitvoeren;
+- *Derden:* natuurlijke- of rechtspersonen die in opdracht van één of meer ontvanger(s) geheel of gedeeltelijk de verwerking van de door RDW verstrekte gevoelige gegevens voor die ontvanger(s) uitvoeren;
 
-- **Enkelvoudig bericht:** een digitaal bericht of bestand dat gegevens bevat van één voertuig of persoon;
+- *Enkelvoudig bericht:* een digitaal bericht of bestand dat gegevens bevat van één voertuig of persoon;
 
-- **Fraudegevoelig gegeven:** gevoelige gegeven zoals bedoeld in [artikel 7, tweede lid sub c van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=7).
+- *Fraudegevoelig gegeven:* gevoelige gegeven zoals bedoeld in [artikel 7, tweede lid sub c van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=7).
 
-- **Gevoelig gegeven:** het gegeven als bedoeld in [artikel 7 tweede lid van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=7);
+- *Gevoelig gegeven:* het gegeven als bedoeld in [artikel 7 tweede lid van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=7);
 
-- **Informatieprovider:** de door de minister(s) aangewezen organisatie die gevoelige gegevens mag ontvangen voor aangewezen doeleinden als bedoeld in [artikel 9, eerste lid, sub b van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=9);
+- *Informatieprovider:* de door de minister(s) aangewezen organisatie die gevoelige gegevens mag ontvangen voor aangewezen doeleinden als bedoeld in [artikel 9, eerste lid, sub b van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=9);
 
-- **KvK-nummer:** uniek nummer voor een rechtspersoon zoals opgenomen in het Handelsregister;
+- *KvK-nummer:* uniek nummer voor een rechtspersoon zoals opgenomen in het Handelsregister;
 
-- **Maatwerk:** niet-standaard functionaliteit of gegevenslevering, specifiek gebouwd of samengesteld op verzoek van één aanvrager;
+- *Maatwerk:* niet-standaard functionaliteit of gegevenslevering, specifiek gebouwd of samengesteld op verzoek van één aanvrager;
 
-- **Meervoudig bericht:** een digitaal bericht of bestand dat gegevens bevat van meerdere voertuigen of personen;
+- *Meervoudig bericht:* een digitaal bericht of bestand dat gegevens bevat van meerdere voertuigen of personen;
 
-- **minister(s):** de Minister van Infrastructuur en Waterstaat, indien van toepassing samen met een Minister van een ander ministerie;
+- *minister(s):* de Minister van Infrastructuur en Waterstaat, indien van toepassing samen met een Minister van een ander ministerie;
 
-- **NAW-gegevens:** Gegevens betreffende de naam, het adres (straatnaam, huisnummer en eventueel toevoeging), postcode en woonplaats van een natuurlijke of rechtspersoon;
+- *NAW-gegevens:* Gegevens betreffende de naam, het adres (straatnaam, huisnummer en eventueel toevoeging), postcode en woonplaats van een natuurlijke of rechtspersoon;
 
-- **Niet gevoelig gegeven:** alle gegevens die niet als gevoelig zijn aangewezen, zoals bedoeld in [artikel 7, derde lid van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=7);
+- *Niet gevoelig gegeven:* alle gegevens die niet als gevoelig zijn aangewezen, zoals bedoeld in [artikel 7, derde lid van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=7);
 
-- **Ontvanger:** de natuurlijke- of rechtspersoon waaraan door RDW gegevens uit het kentekenregister worden verstrekt;
+- *Ontvanger:* de natuurlijke- of rechtspersoon waaraan door RDW gegevens uit het kentekenregister worden verstrekt;
 
-- **Overheidsorgaan:** de in [artikel 41a van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=41a) bedoelde instanties of personen;
+- *Overheidsorgaan:* de in [artikel 41a van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=41a) bedoelde instanties of personen;
 
-- **RDW:** de Dienst Wegverkeer als bedoeld in [artikel 4a, eerste lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4a);
+- *RDW:* de Dienst Wegverkeer als bedoeld in [artikel 4a, eerste lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4a);
 
-- **Regeling:** de [Regeling gegevensverstrekking kentekenregister 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024045);
+- *Regeling:* de [Regeling gegevensverstrekking kentekenregister 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024045);
 
-- **Regeling diefstalgegevens:** de [Regeling aanwijzing beroepsbeoefenaren verstrekking diefstalgegevens kentekenregister 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024057);
+- *Regeling diefstalgegevens:* de [Regeling aanwijzing beroepsbeoefenaren verstrekking diefstalgegevens kentekenregister 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024057);
 
-- **(U)AVG:** de ([uitvoeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0040940)) Algemene Verordening Gegevensbescherming;
+- *(U)AVG:* de ([uitvoeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0040940)) Algemene Verordening Gegevensbescherming;
 
-- **Verstrekking:** het beschikbaar stellen of overdragen van gegevens;
+- *Verstrekking:* het beschikbaar stellen of overdragen van gegevens;
 
-- **WAM:** de [Wet Aansprakelijkheidsverzekering Motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415);
+- *WAM:* de [Wet Aansprakelijkheidsverzekering Motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415);
 
-- **Wet:** de [Wegenverkeerswet 1994](onbekend);
+- *Wet:* de [Wegenverkeerswet 1994](https://wetten.overheid.nl/BWBR0006622);
 
-- **Zoeksleutel:** een identificerend gegeven behorend bij een subject (betrokkene) of object (voertuig).
+- *Zoeksleutel:* een identificerend gegeven behorend bij een subject (betrokkene) of object (voertuig).
 
 ##### Artikel 2. Toepassingsgebied
 
@@ -220,9 +220,9 @@ Een rechtspersoon of bedrijf die geregistreerd eigenaar of houder is van voertui
 
 3. De aanvraag bevat:
 
-- a. de periode waarover wijzigingen in het kentekenregister worden gevraagd, maximaal tot 30 dagen in het verleden; of,
+- a. de periode waarover wijzigingen in het kentekenregister worden gevraagd, maximaal tot 30 dagen in het verleden; of,
 
-- b. een kenteken waarover wijzigingen in het kentekenregister worden gevraagd tot maximaal 30 dagen in het verleden.
+- b. een kenteken waarover wijzigingen in het kentekenregister worden gevraagd tot maximaal 30 dagen in het verleden.
 
 4. De verstrekking vindt plaats via meervoudige berichten, automatisch samengesteld op basis van wijzigingen in het kentekenregister.
 
@@ -356,44 +356,8 @@ De [Verstrekkingsvoorwaarden inzake het kentekenregister van de Dienst Wegverkee
 
 ##### Artikel 26. Inwerkingtreding
 
-Deze beleidsregel treedt in werking met ingang van 15 juli 2026.
+Deze beleidsregel treedt in werking met ingang van 15 juli 2026.
 
 ##### Artikel 27. Citeertitel
 
 Deze beleidsregel wordt aangehaald als Beleidsregel gegevensverstrekking kentekenregister 2026.
-
-## Bijlage A. Aanvullende eisen certificaten
-
-### Digitale Cliëntcertificaten
-
-### Artikel 1. Inleiding
-
-Om de toegang tot zijn applicaties en systemen te beveiligen geeft de RDW als Certification Authority (hierna: CA) digitale certificaten uit.
-
-De ontvanger heeft een dergelijk digitaal certificaat nodig om toegang te krijgen tot RDW-applicaties. Dit certificaat wordt door de RDW aangeleverd in een beveiligd bestand (PKCS#12).
-
-In dit bestand bevindt zich ook een privésleutel welke de ontvanger nodig heeft indien hij het certificaat gebruikt. De RDW kent twee soorten certificaten, namelijk:
-
-Om het certificaat te kunnen gebruiken dient de ontvanger dit certificaat en de hierbij behorende privésleutel op zijn computer te installeren. Bij die installatie heeft de ontvanger het wachtwoord nodig dat de RDW hem in een brief heeft toegezonden. Als het certificaat en de bijbehorende privésleutel worden geïnstalleerd, dient de privésleutel te worden beschermd met een door de ontvanger zelf gekozen wachtwoord.
-
-RDW Cliënt certificaten dienen te worden geïnstalleerd op de werkplek(ken) van de eindgebruikers.
-
-RDW Service certificaten dienen te worden geïnstalleerd op de server(s) die de verbinding maken met de RDW. Authenticatie dient vervolgens via een klantnummer + wachtwoord of een ander door de RDW erkend of uitgereikt authenticatiemiddel te worden geregeld.
-
-Voor het gebruik van de RDW certificaten gelden de voorwaarden die beschreven zijn in de Certification Practice Statement (hierna: CPS) en gebruikersvoorwaarden. Het CPS is te raadplegen via [www.rdw.nl](http://www.rdw.nl).
-
-### Artikel 2. Verplichtingen van de certificaathouder
-
-### Artikel 3. Positie van het RDW-CPS
-
-Het RDW-CPS maakt integraal onderdeel uit van deze voorwaarden. Alle bepalingen hierin zijn van toepassing op de rechtsverhouding tussen de RDW en de certificaathouder.
-
-### Artikel 4. Acceptatie van deze voorwaarden
-
-Door installatie van het certificaat verklaart de certificaathouder aan de voorwaarden voor de verkrijging ervan en aan de gebruikers-voorwaarden te (blijven) voldoen. Daarnaast verklaart de certificaathouder dat hij er kennis van heeft genomen dat er jaarlijks kosten verschuldigd zijn voor het in stand houden van een beveiligde verbinding in de datacommunicatie met de RDW, voor welk doel het gebruik van dit certificaat verplicht is gesteld door de RDW.
-
-Bovenstaande eisen zijn van toepassing als RDW-certificaten worden gebruikt.
-
-Indien de aanvrager andere certificaten gebruikt, dient de aanvrager ook minimaal aan bovenstaande of voor wat betreft beveiliging vergelijkbare eisen te voldoen. Bovendien geldt dat andere authenticatiemiddelen alleen met toestemming van de RDW zijn toegestaan.
-
-Deze beleidsregel zal met toelichting in de Staatscourant worden geplaatst.

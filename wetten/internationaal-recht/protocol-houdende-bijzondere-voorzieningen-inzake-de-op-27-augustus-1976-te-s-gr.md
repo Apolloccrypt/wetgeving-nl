@@ -1,51 +1,19 @@
 ---
 title: "Protocol houdende bijzondere voorzieningen inzake de op 27 augustus 1976 te 's-Gravenhage tot stand gekomen overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname betreffende de uitlevering en rechtshulp in strafzaken"
 identifier: "BWBV0001140"
-country: "nl"
-rank: "verdrag"
-publication_date: "1995-02-28"
-last_updated: "1995-02-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001140"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002143403"
-version_id: "10002241442"
-internal_id: "C10006977751"
-label_id: "10002133474"
-dtd_version: "2.0"
-original_entry_into_force: "1995-02-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001140/1995-02-28/0"
-intitule_bron: "Trb.1993-87"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-09-07"
-intitule_published: "1993-06-28"
-intitule_in_force: "1995-03-27"
-intitule_status: "goed"
-original_publication: "Trb.1993-87"
-original_signed_date: "1994-09-07"
-original_published_date: "1993-06-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1993-87"
-entry_into_force_date: "1995-02-28"
-jci_1_3: "jci1.3:c:BWBV0001140&z=1995-02-28&g=1995-02-28"
-jci_1_0: "1.0:c:BWBV0001140&g=1995-02-28"
-citeertitel_status: "redactioneel"
-signed_date: "1994-09-07"
-entry_into_force: "1995-02-28"
+publicatiedatum: 1995-02-28
+laatste_update: 1995-02-28
+status: geldig
+toestand: 1995-02-28
+bron: "https://wetten.overheid.nl/BWBV0001140"
+opgehaald: 2026-09-11
 ---
+
 # Protocol houdende bijzondere voorzieningen inzake de op 27 augustus 1976 te 's-Gravenhage tot stand gekomen overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname betreffende de uitlevering en rechtshulp in strafzaken
 
-De Regering van het Koninkrijk der Nederlanden,
-
-en
-
-De Regering van de Republiek Suriname,
-
-Zich baserende op het Protocol van conclusies van besprekingen tussen de regeringen van beide staten inzake nauwere samenwerking, zoals op 16 november 1991 te Bonaire tot stand gekomen, en op het Raamverdrag inzake vriendschap en nauwere samenwerking, ondertekend op 18 juni 1992 te 's-Gravenhage;
-
-Overwegende dat het gewenst is bijzondere voorzieningen te treffen met betrekking tot de toepassing van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname betreffende de uitlevering en rechtshulp in strafzaken te 's-Gravenhage van 27 augustus 1976, hierna te noemen: de Overeenkomst;
-
-Zijn overeengekomen als volgt:
+*De Regering van het Koninkrijk der Nederlanden, en De Regering van de Republiek Suriname, Zich baserende op het Protocol van conclusies van besprekingen tussen de regeringen van beide staten inzake nauwere samenwerking, zoals op 16 november 1991 te Bonaire tot stand gekomen, en op het Raamverdrag inzake vriendschap en nauwere samenwerking, ondertekend op 18 juni 1992 te 's-Gravenhage; Overwegende dat het gewenst is bijzondere voorzieningen te treffen met betrekking tot de toepassing van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname betreffende de uitlevering en rechtshulp in strafzaken te 's-Gravenhage van 27 augustus 1976, hierna te noemen: de Overeenkomst; Zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 
@@ -69,7 +37,7 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk door hun regeringen ge
 
 Op 18 mei 1993 te 's-Gravenhage.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 (w.g.) E. M. H. HIRSCH BALLIN
 
@@ -77,7 +45,7 @@ De Minister van Justitie,
 
 E. M. H. Hirsch Ballin
 
-**Voor de Regering van de Republiek Suriname,**
+*Voor de Regering van de Republiek Suriname,*
 
 (w.g.) S.K. GIRJASING
 

@@ -1,53 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en Roemenië inzake de export van socialezekerheidsuitkeringen"
 identifier: "BWBV0001510"
-country: "nl"
-rank: "verdrag"
-publication_date: "2002-11-01"
-last_updated: "2002-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001510"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10001465263"
-version_id: "10001543462"
-internal_id: "C10006993621"
-label_id: "10001465484"
-dtd_version: "2.0"
-original_entry_into_force: "2002-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001510/2002-11-01/0"
-intitule_bron: "Trb.2001-202"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-01-01"
-intitule_published: "2001-12-18"
-intitule_in_force: "2002-10-25"
-intitule_status: "goed"
-original_publication: "Trb.2001-202"
-original_signed_date: "2002-01-01"
-original_published_date: "2001-12-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2001-202"
-entry_into_force_date: "2002-11-01"
-jci_1_3: "jci1.3:c:BWBV0001510&z=2002-11-01&g=2002-11-01"
-jci_1_0: "1.0:c:BWBV0001510&g=2002-11-01"
-citeertitel_status: "redactioneel"
-signed_date: "2002-01-01"
-entry_into_force: "2002-11-01"
+publicatiedatum: 2002-11-01
+laatste_update: 2002-11-01
+status: geldig
+toestand: 2002-11-01
+bron: "https://wetten.overheid.nl/BWBV0001510"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en Roemenië inzake de export van socialezekerheidsuitkeringen
 
-Het Koninkrijk der Nederlanden
-
-en
-
-Roemenië,
-
-hierna te noemen de Verdragsluitende Partijen,
-
-Geleid door de wens betrekkingen tot stand te brengen op het gebied van sociale zekerheid;
-
-Geleid door de wens de samenwerking tussen de beide Staten te regelen;
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en Roemenië, hierna te noemen de Verdragsluitende Partijen, Geleid door de wens betrekkingen tot stand te brengen op het gebied van sociale zekerheid; Geleid door de wens de samenwerking tussen de beide Staten te regelen; Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -83,29 +49,29 @@ Dit Verdrag is van toepassing:
 
 - 1. wat het Koninkrijk der Nederlanden betreft, op de Nederlandse wetgeving inzake de volgende takken van sociale verzekering:
 
-- a. ziekte- en moederschapsuitkeringen;
+   - a. ziekte- en moederschapsuitkeringen;
 
-- b. arbeidsongeschiktheidsuitkeringen voor werknemers;
+   - b. arbeidsongeschiktheidsuitkeringen voor werknemers;
 
-- c. arbeidsongeschiktheidsuitkeringen voor zelfstandigen;
+   - c. arbeidsongeschiktheidsuitkeringen voor zelfstandigen;
 
-- d. ouderdomspensioenen;
+   - d. ouderdomspensioenen;
 
-- e. nabestaandenuitkeringen;
+   - e. nabestaandenuitkeringen;
 
-- f. kinderbijslagen.
+   - f. kinderbijslagen.
 
 - 2. wat Roemenië betreft, op de wetgeving inzake de volgende takken van sociale zekerheid:
 
-- a. ziekte- en moederschapsuitkeringen;
+   - a. ziekte- en moederschapsuitkeringen;
 
-- b. invaliditeitsuitkeringen;
+   - b. invaliditeitsuitkeringen;
 
-- c. ouderdomspensioenen;
+   - c. ouderdomspensioenen;
 
-- d. nabestaandenuitkeringen;
+   - d. nabestaandenuitkeringen;
 
-- e. kinderbijslagen van de staat.
+   - e. kinderbijslagen van de staat.
 
 ##### Artikel 3. Personele werkingsfeer
 
@@ -201,7 +167,7 @@ Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag slechts van toepassin
 
 GEDAAN te Boekarest, op 13 november 2001, in twee oorspronkelijke exemplaren, elk in de Nederlandse, de Roemeense en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschillen in interpretatie is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) D. A. BENSCHOP
 
@@ -211,7 +177,7 @@ Staatssecretaris
 
 Ministerie van Buitenlandse Zaken
 
-**Voor Roemenië**
+*Voor Roemenië*
 
 (w.g.) M. MOTOC
 

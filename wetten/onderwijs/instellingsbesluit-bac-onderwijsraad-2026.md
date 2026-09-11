@@ -1,36 +1,36 @@
 ---
-title: "Instellingsbesluit BAC Onderwijsraad 2026"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 13 mei 2026, nr. KenS/63357573, houdende instelling van een adviescommissie voor de benoeming van leden van de Onderwijsraad (Instellingsbesluit BAC Onderwijsraad 2026)"
+citeertitel: "Instellingsbesluit BAC Onderwijsraad 2026"
 identifier: "BWBR0052659"
 categorie: "Onderwijs"
+soort: "ministeriele-regeling"
 publicatiedatum: 2026-05-29
-laatste_update: 2026-06-02
+laatste_update: 2026-05-29
 status: geldig
+toestand: 2026-05-29
 bron: "https://wetten.overheid.nl/BWBR0052659"
+opgehaald: 2026-09-11
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 13 mei 2026, nr. KenS/63357573, houdende instelling van een adviescommissie voor de benoeming van leden van de Onderwijsraad (Instellingsbesluit BAC Onderwijsraad 2026)
-
-Gelet op [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=2);
-
-Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
-- a. **minister:** Minister van Onderwijs, Cultuur en Wetenschap;
+- a. *minister:* Minister van Onderwijs, Cultuur en Wetenschap;
 
-- b. **commissie:** Adviescommissie benoeming leden Onderwijsraad.
+- b. *commissie:* Adviescommissie benoeming leden Onderwijsraad.
 
 ##### Artikel 2. Instelling en taak
 
 1. Er is een commissie die tot taak heeft de minister te adviseren over de benoeming van leden van de Onderwijsraad.
 
-2. De commissie doet uiterlijk op 31 december 2026 aan de minister een benoemingsvoorstel, uitgaande van de gewenste samenstelling van de Onderwijsraad en op basis van de profielschets. De commissie neemt daarbij het relevante wettelijke kader in acht.
+2. De commissie doet uiterlijk op 31 december 2026 aan de minister een benoemingsvoorstel, uitgaande van de gewenste samenstelling van de Onderwijsraad en op basis van de profielschets. De commissie neemt daarbij het relevante wettelijke kader in acht.
 
 ##### Artikel 3. Leden
 
-1. Tot de leden van de commissie worden met ingang van 1 mei 2026 benoemd:
+1. Tot de leden van de commissie worden met ingang van 1 mei 2026 benoemd:
 
 - a. Mevrouw prof. dr. S. Çelik
 
@@ -74,8 +74,6 @@ Dit besluit wordt aangehaald als: Instellingsbesluit BAC Onderwijsraad 2026.
 
 ##### Artikel 8*. Inwerkingtreding
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst, en werkt daarbij terug tot en met 1 mei 2026.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst, en werkt daarbij terug tot en met 1 mei 2026.
 
-2. Dit besluit vervalt met ingang van 1 juli 2027.
-
-Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
+2. Dit besluit vervalt met ingang van 1 juli 2027.

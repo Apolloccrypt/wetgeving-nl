@@ -1,18 +1,18 @@
 ---
-title: "Organisatie-, mandaat- en volmachtbesluit directie Werknemersregelingen 2026"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 7 mei 2026, nr. 2026-0000113609, houdende de inrichting van de directie Werknemersregelingen alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Werknemersregelingen (Organisatie-, mandaat- en volmachtbesluit directie Werknemersregelingen 2026)"
+citeertitel: "Organisatie-, mandaat- en volmachtbesluit directie Werknemersregelingen 2026"
 identifier: "BWBR0052632"
 categorie: "Arbeidsrecht"
+soort: "ministeriele-regeling"
 publicatiedatum: 2026-05-20
-laatste_update: 2026-05-22
+laatste_update: 2026-05-20
 status: geldig
+toestand: 2026-05-20
 bron: "https://wetten.overheid.nl/BWBR0052632"
+opgehaald: 2026-09-11
 ---
 
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 7 mei 2026, nr. 2026-0000113609, houdende de inrichting van de directie Werknemersregelingen alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Werknemersregelingen (Organisatie-, mandaat- en volmachtbesluit directie Werknemersregelingen 2026)
-
-Gelet op de [artikelen 3, eerste lid, aanhef en onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&artikel=3), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&artikel=10) en [13 van het Organisatie-, mandaat- en volmachtbesluit directeur-generaal Sociale Zekerheid en Integratie 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037432&artikel=13);
-
-Besluit:
 
 #### § 1. Algemeen
 
@@ -20,9 +20,9 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **directie WR:** de directie Werknemersregelingen van het ministerie;
+- a. *directie WR:* de directie Werknemersregelingen van het ministerie;
 
-- b. **het UWV:** het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5).
+- b. *het UWV:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5).
 
 #### § 2. Organisatie en taken afdelingen
 
@@ -76,7 +76,7 @@ Het hoofd van de afdeling Werkzoekenden en sociale zekerheid in de EU is verantw
 
 - e. beleidstaken in de volle breedte, zoals financiering, ICT en de aanpak van misbruik, waarbij goed opdrachtgeverschap richting UWV een kernelement vormt.
 
-- f. het voorbereiden en uitdragen van Nederlandse standpunten met betrekking tot de Europese coördinatie van sociale zekerheidsstelsels [(Verordening 883/2004](32004R0883) en [Toepassingsverordening 987/2009](32009R0987)), als essentieel onderdeel van het vrij verkeer van personen binnen de EU;
+- f. het voorbereiden en uitdragen van Nederlandse standpunten met betrekking tot de Europese coördinatie van sociale zekerheidsstelsels (Verordening 883/2004 en Toepassingsverordening 987/2009), als essentieel onderdeel van het vrij verkeer van personen binnen de EU;
 
 - g. de beoordeling van de toepassing van EU-verordeningen en EU-verdragen in de uitvoeringspraktijk, inclusief internationale aspecten van sociale zekerheid, mede aan de hand van jurisprudentie en in samenwerking met betrokken directies binnen het ministerie, de uitvoeringsorganisaties en andere ministerie;
 
@@ -172,15 +172,15 @@ Het hoofd van de RCN-unit SZW is verantwoordelijk voor de volgende algemene take
 
 - a. het – bij wijze van bindende voordracht aan de directeur van de RCN uit hoofde van diens formeel werkgeverschap – nemen van inhoudelijke besluiten die betrekking hebben op:
 
-  - 1°. het vaststellen van een beoordeling van medewerkers van de RCN-unit SZW;
+   - 1°. het vaststellen van een beoordeling van medewerkers van de RCN-unit SZW;
 
-  - 2°. de benoeming van medewerkers, voor zover passend binnen de voor de RCN-unit SZW vastgestelde formatie, en het ontslag van medewerker;
+   - 2°. de benoeming van medewerkers, voor zover passend binnen de voor de RCN-unit SZW vastgestelde formatie, en het ontslag van medewerker;
 
 - b. het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:1), voor zover deze klachten betrekking hebben op gedragingen van de onder hem ressorterende functionarissen.
 
 ##### Artikel 11
 
-Aan de hoofden van de afdelingen en het hoofd van de RCN-unit SZW wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst. Dit geldt voor:
+Aan de hoofden van de afdelingen en het hoofd van de RCN-unit SZW wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– inclusief BTW per overeenkomst. Dit geldt voor:
 
 - a. het organiseren en accorderen van activiteiten binnen hun eigen organisatorische eenheid;
 
@@ -200,7 +200,7 @@ Aan de hoofden van de afdelingen en het hoofd van de RCN-unit SZW wordt mandaat 
 
 1. Het hoofd van de RCN-unit SZW is bevoegd om namens een bewindspersoon besluiten te nemen, beslissingen in bezwaar- en beroepsprocedures te nemen, overeenkomsten aan te gaan en handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, voor zover deze verband houden met de uitvoering van de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459), de [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387), de [Cessantiawet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028304), de [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728), de [Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497), de [Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347), de [Wet kinderopvang BES](https://wetten.overheid.nl/jci1.3:c:BWBR0049771), het [Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595), de [Arbeidsveiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028228), de [Stuwadoorswet 1946 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028169), de [Arbeidswet 2000 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028202), de [Wet collectieve arbeidsovereenkomsten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028172), de [Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170), de [Vakantiewet 1949 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028173), de [Wet beëindiging arbeidsovereenkomsten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028174), de [Arbeidsgeschillenwet 1946 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028178), de [Wet arbeid vreemdelingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028437) en de daarop gebaseerde nadere regelgeving, tenzij deze zijn voorbehouden aan een bewindspersoon, de secretaris-generaal, de plaatsvervangend secretaris-generaal, de directeuren-generaal,de inspecteur-generaal Nederlandse Arbeidsinspectie of de inspecteur-generaal Inspectie van het Onderwijs.
 
-2. De volmacht, bedoeld in het eerste lid, is beperkt tot het aangaan van de volgende overeenkomsten met een waarde van ten hoogste € 75.000,– (incl. BTW) per overeenkomst die betrekking hebben op:
+2. De volmacht, bedoeld in het eerste lid, is beperkt tot het aangaan van de volgende overeenkomsten met een waarde van ten hoogste € 75.000,– (incl. BTW) per overeenkomst die betrekking hebben op:
 
 - a. systeemontwikkeling, licenties, functioneel beheer en onderhoud van applicaties van systemen;
 
@@ -222,8 +222,6 @@ Aan de hoofden van de afdelingen en het hoofd van de RCN-unit SZW wordt mandaat 
 
 2. Na de inwerkingtreding van deze regeling berust het Machtigingsbesluit RCN-unit Sociale Zaken 2017 op de [artikelen 9, aanhef en onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0052632&paragraaf=2&artikel=9&z=2026-05-20&g=2026-05-20), en [13, derde lid, van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0052632&paragraaf=3&artikel=13&z=2026-05-20&g=2026-05-20).
 
-3. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 25 november 2022.
+3. Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 25 november 2022.
 
 4. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Werknemersregelingen 2026.
-
-Deze regeling zal in de Staatscourant worden geplaatst.

@@ -1,77 +1,43 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Hongarije inzake de export van socialeverzekeringsuitkeringen"
 identifier: "BWBV0001482"
-country: "nl"
-rank: "verdrag"
-publication_date: "2002-03-01"
-last_updated: "2002-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001482"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10001397193"
-version_id: "10001466472"
-internal_id: "C10006992081"
-label_id: "10001397414"
-dtd_version: "2.0"
-original_entry_into_force: "2002-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001482/2002-03-01/0"
-intitule_bron: "Trb.2001-105"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-07-01"
-intitule_published: "2001-06-08"
-intitule_in_force: "2002-03-04"
-intitule_status: "goed"
-original_publication: "Trb.2001-105"
-original_signed_date: "2001-07-01"
-original_published_date: "2001-06-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2001-105"
-entry_into_force_date: "2002-03-01"
-jci_1_3: "jci1.3:c:BWBV0001482&z=2002-03-01&g=2002-03-01"
-jci_1_0: "1.0:c:BWBV0001482&g=2002-03-01"
-citeertitel_status: "redactioneel"
-signed_date: "2001-07-01"
-entry_into_force: "2002-03-01"
+publicatiedatum: 2002-03-01
+laatste_update: 2002-03-01
+status: geldig
+toestand: 2002-03-01
+bron: "https://wetten.overheid.nl/BWBV0001482"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Hongarije inzake de export van socialeverzekeringsuitkeringen
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Republiek Hongarije,
-
-hierna genoemd de Verdragsluitende Partijen,
-
-Wensend de rechtmatige betaling van hun uitkeringen terzake van sociale zekerheid in elkaars landen toe te staan,
-
-Verlangend de samenwerking tussen de twee Staten te regelen,
-
-Zijn overeengekomen als volgt:
+*Het Koninkrijk der Nederlanden en de Republiek Hongarije, hierna genoemd de Verdragsluitende Partijen, Wensend de rechtmatige betaling van hun uitkeringen terzake van sociale zekerheid in elkaars landen toe te staan, Verlangend de samenwerking tussen de twee Staten te regelen, Zijn overeengekomen als volgt:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
 1. Voor de toepassing van dit Verdrag wordt verstaan onder:
 
-- a. „grondgebied", met betrekking tot Hongarije het grondgebied van de Republiek Hongarije; met betrekking tot het Koninkrijk der Nederlanden het grondgebied van het Koninkrijk in Europa;
+- a „grondgebied", met betrekking tot Hongarije het grondgebied van de Republiek Hongarije; met betrekking tot het Koninkrijk der Nederlanden het grondgebied van het Koninkrijk in Europa;
 
-- b. „wetgeving": de wetgeving met betrekking tot de in artikel 2 genoemde takken van sociale zekerheid;
+- b „wetgeving": de wetgeving met betrekking tot de in artikel 2 genoemde takken van sociale zekerheid;
 
-- c. „bevoegde autoriteit", met betrekking tot de Republiek Hongarije: de ministeries of desbetreffende autoriteiten die belast zijn met de in de in artikel 2, tweede lid, genoemde wetgeving geregelde stelsels van sociale zekerheid; met betrekking tot het Koninkrijk der Nederlanden: de minister van Sociale Zaken en Werkgelegenheid;
+- c „bevoegde autoriteit", met betrekking tot de Republiek Hongarije: de ministeries of desbetreffende autoriteiten die belast zijn met de in de in artikel 2, tweede lid, genoemde wetgeving geregelde stelsels van sociale zekerheid; met betrekking tot het Koninkrijk der Nederlanden: de minister van Sociale Zaken en Werkgelegenheid;
 
-- d. „bevoegd orgaan", met betrekking tot de Republiek Hongarije: de „Országos Nyugdíjbiztosítási Föigazgatóság" (Centrale Administratie van Nationale Pensioenverzekering) of haar rechtsopvolger; met betrekking tot het Koninkrijk der Nederlanden betreffende de takken van sociale zekerheid genoemd in artikel 2, eerste lid, onder a, b en c: het Landelijk Instituut Sociale Verzekeringen, p/a Gak Nederland BV of zijn rechtsopvolger en betreffende de takken van sociale zekerheid genoemd in artikel 2, eerste lid, onder d, e en f: de Sociale Verzekeringsbank of haar rechtsopvolger;
+- d „bevoegd orgaan", met betrekking tot de Republiek Hongarije: de „Országos Nyugdíjbiztosítási Föigazgatóság" (Centrale Administratie van Nationale Pensioenverzekering) of haar rechtsopvolger; met betrekking tot het Koninkrijk der Nederlanden betreffende de takken van sociale zekerheid genoemd in artikel 2, eerste lid, onder a, b en c: het Landelijk Instituut Sociale Verzekeringen, p/a Gak Nederland BV of zijn rechtsopvolger en betreffende de takken van sociale zekerheid genoemd in artikel 2, eerste lid, onder d, e en f: de Sociale Verzekeringsbank of haar rechtsopvolger;
 
-- e. „instellingen": alle organisaties die betrokken zijn bij de uitvoering van dit Verdrag, met inbegrip van registers van persoonsgegevens en adressen, belastingdiensten, huwelijksregisters, arbeidsbureaus, de handelsautoriteiten, de politie, het gevangeniswezen en de immigratiekantoren;
+- e „instellingen": alle organisaties die betrokken zijn bij de uitvoering van dit Verdrag, met inbegrip van registers van persoonsgegevens en adressen, belastingdiensten, huwelijksregisters, arbeidsbureaus, de handelsautoriteiten, de politie, het gevangeniswezen en de immigratiekantoren;
 
-- f. „uitkering": elke uitkering of elk pensioen krachtens de in artikel 2 bedoelde wetgeving;
+- f „uitkering": elke uitkering of elk pensioen krachtens de in artikel 2 bedoelde wetgeving;
 
-- g. „uitkeringsgerechtigde": een persoon die een uitkering aanvraagt of ontvangt;
+- g „uitkeringsgerechtigde": een persoon die een uitkering aanvraagt of ontvangt;
 
-- h. „gezinslid": een persoon die als zodanig wordt omschreven of aangemerkt in de Nederlandse wetgeving en als naaste verwant krachtens de Hongaarse wetgeving;
+- h „gezinslid": een persoon die als zodanig wordt omschreven of aangemerkt in de Nederlandse wetgeving en als naaste verwant krachtens de Hongaarse wetgeving;
 
-- i. „woonplaats;": een plaats op het grondgebied van een Verdragsluitende Partij waar de belanghebbende zijn vaste woonplaats vestigt en waar bedoelde persoon geregistreerd is overeenkomstig de toepasselijke regelgeving van deze Verdragsluitende Partij;
+- i „woonplaats;": een plaats op het grondgebied van een Verdragsluitende Partij waar de belanghebbende zijn vaste woonplaats vestigt en waar bedoelde persoon geregistreerd is overeenkomstig de toepasselijke regelgeving van deze Verdragsluitende Partij;
 
-- j. „verblijfplaats": anders dan de woonplaats een tijdelijke verblijfplaats van korte duur op het grondgebied van een van de Verdragsluitende Partijen, waarvan de duur gewoonlijk in verband staat met het tevoren omschreven doel van het verblijf.
+- j „verblijfplaats": anders dan de woonplaats een tijdelijke verblijfplaats van korte duur op het grondgebied van een van de Verdragsluitende Partijen, waarvan de duur gewoonlijk in verband staat met het tevoren omschreven doel van het verblijf.
 
 2. Andere in dit Verdrag gebruikte termen hebben de betekenis die daaraan in de toegepaste wetgeving wordt gegeven.
 
@@ -81,29 +47,27 @@ Dit Verdrag is van toepassing:
 
 1. Ten aanzien van het Koninkrijk der Nederlanden, op de Nederlandse wetgeving inzake de volgende takken van sociale zekerheid:
 
-- a. uitkeringen bij ziekte en moederschap;
+- a uitkeringen bij ziekte en moederschap;
 
-- b. invaliditeitsuitkeringen voor werknemers;
+- b invaliditeitsuitkeringen voor werknemers;
 
-- c. invaliditeitsuitkeringen voor zelfstandigen;
+- c invaliditeitsuitkeringen voor zelfstandigen;
 
-- d. ouderdomspensioenen;
+- d ouderdomspensioenen;
 
-- e. nabestaandenuitkeringen;
+- e nabestaandenuitkeringen;
 
-- f. kinderbijslagen.
+- f kinderbijslagen.
 
 2. Ten aanzien van de Republiek Hongarije, de Hongaarse wetgeving inzake:
 
-- a. de volgende socialeverzekeringsuitkeringen:
+- a de volgende socialeverzekeringsuitkeringen:
 
-- aa. pensioenuitkeringen krachtens het socialeverzekeringsstelsel voor pensioenen (ouderdomspensioen, arbeidsongeschiktheidspensioen, pensioen bij invaliditeit door ongeval, weduwen- en weduwnaarspensioen, wezenuitkering, ouderpensioen, overlevendenpensioen na ongeval) en andere uitkeringen die krachtens het socialeverzekeringsstelsel inzake pensioenen ten aanzien van de betaling met een pensioen worden gelijkgesteld;
+   - aa pensioenuitkeringen krachtens het socialeverzekeringsstelsel voor pensioenen (ouderdomspensioen, arbeidsongeschiktheidspensioen, pensioen bij invaliditeit door ongeval, weduwen- en weduwnaarspensioen, wezenuitkering, ouderpensioen, overlevendenpensioen na ongeval) en andere uitkeringen die krachtens het socialeverzekeringsstelsel inzake pensioenen ten aanzien van de betaling met een pensioen worden gelijkgesteld;
 
-- ab. ab. lijfrente na ongeval;
+   - ab ab. lijfrente na ongeval;
 
-- b. de inning van socialeverzekeringspremies.
-
-2.
+- b de inning van socialeverzekeringspremies.
 
 ##### Artikel 3. Personele werkingssfeer
 
@@ -191,13 +155,13 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN te 's-Gravenhage op 22 mei 2001, in twee exemplaren, elk in de Nederlandse, de Hongaarse en de Engelse taal, zijnde alle tekstengelijkelijk authentiek. In geval van verschillen in uitlegging is de Engelse versie doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) J. F. HOOGERVORST
 
 Mr. J. F. Hoogervorst
 
-**Voor de Republiek Hongarije**
+*Voor de Republiek Hongarije*
 
 (w.g.) MIKOLA ISTVÁN
 

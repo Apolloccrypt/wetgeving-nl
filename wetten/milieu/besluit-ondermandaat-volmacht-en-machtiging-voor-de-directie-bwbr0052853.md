@@ -1,18 +1,18 @@
 ---
-title: "Besluit ondermandaat, volmacht en machtiging voor de directie Communicatie van het Ministerie van Economische Zaken en Klimaat 2026"
+title: "Besluit van de directeur Communicatie van het Ministerie van Economische Zaken en Klimaat van 14 april 2026, nr. /104229806 tot verlening van ondermandaat, volmacht en machtiging voor de directie Communicatie van het Ministerie van Economische Zaken en Klimaat (Besluit ondermandaat, volmacht en machtiging voor de directie Communicatie van het Ministerie van Economische Zaken en Klimaat 2026)"
+citeertitel: "Besluit ondermandaat, volmacht en machtiging voor de directie Communicatie van het Ministerie van Economische Zaken en Klimaat 2026"
 identifier: "BWBR0052853"
 categorie: "Milieu"
+soort: "ministeriele-regeling"
 publicatiedatum: 2026-07-18
-laatste_update: 2026-07-23
+laatste_update: 2026-07-18
 status: geldig
+toestand: 2026-07-18
 bron: "https://wetten.overheid.nl/BWBR0052853"
+opgehaald: 2026-09-11
 ---
 
 # Besluit van de directeur Communicatie van het Ministerie van Economische Zaken en Klimaat van 14 april 2026, nr. /104229806 tot verlening van ondermandaat, volmacht en machtiging voor de directie Communicatie van het Ministerie van Economische Zaken en Klimaat (Besluit ondermandaat, volmacht en machtiging voor de directie Communicatie van het Ministerie van Economische Zaken en Klimaat 2026)
-
-Gelet op [artikel 14 van het Besluit mandaat, volmacht en machtiging EZK 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0052019&artikel=14);
-
-Besluit:
 
 #### § 1. Algemene bepalingen
 
@@ -20,11 +20,11 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- **directeur:** directeur Communicatie van het Ministerie van Economische Zaken en Klimaat;
+- *directeur:* directeur Communicatie van het Ministerie van Economische Zaken en Klimaat;
 
-- **MT-leden:** leden van het managementteam van de directie Communicatie niet zijnde de directeur van het Ministerie van Economische Zaken en Klimaat;
+- *MT-leden:* leden van het managementteam van de directie Communicatie niet zijnde de directeur van het Ministerie van Economische Zaken en Klimaat;
 
-- **bedrag:** bedrag inclusief de verschuldigde omzetbelasting (BTW).
+- *bedrag:* bedrag inclusief de verschuldigde omzetbelasting (BTW).
 
 #### § 2. Taakverdeling tussen de directeur-generaal en de onder hem ressorterende functionarissen
 
@@ -36,13 +36,13 @@ Aan de directeur is voorbehouden: het nemen van besluiten, het verrichten van pr
 
 - b. aangelegenheden:
 
-  - 1°. ten aanzien waarvan de directeur in een incidenteel geval mededeling heeft gedaan dat zij door hem zullen worden behandeld, of
+   - 1°. ten aanzien waarvan de directeur in een incidenteel geval mededeling heeft gedaan dat zij door hem zullen worden behandeld, of
 
-  - 2°. die door een MT-lid aan de directeur ter afhandeling worden voorgelegd.
+   - 2°. die door een MT-lid aan de directeur ter afhandeling worden voorgelegd.
 
 ##### Artikel 3
 
-1. Aan de MT-leden wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 100.000 niet te boven gaat.
+1. Aan de MT-leden wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 100.000 niet te boven gaat.
 
 2. Aan de MT-leden wordt voorts, ieder voor zich, voor de onder hen ressorterende medewerkers ondermandaat, volmacht en machtiging verleend voor:
 
@@ -70,10 +70,8 @@ Het [Besluit ondermandaat, volmacht en machtiging voor de directie Communicatie 
 
 ##### Artikel 6
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 augustus 2025.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 augustus 2025.
 
 ##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging voor de directie Communicatie van het Ministerie van Economische Zaken en Klimaat 2026.
-
-Dit besluit zal in de Staatscourant worden geplaatst.

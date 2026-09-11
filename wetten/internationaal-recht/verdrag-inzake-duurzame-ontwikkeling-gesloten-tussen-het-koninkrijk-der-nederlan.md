@@ -1,67 +1,19 @@
 ---
 title: "Verdrag inzake duurzame ontwikkeling gesloten tussen het Koninkrijk der Nederlanden en de Republiek Benin"
 identifier: "BWBV0001244"
-country: "nl"
-rank: "verdrag"
-publication_date: "1998-01-07"
-last_updated: "1998-01-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001244"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10001599923"
-version_id: "10001677992"
-internal_id: "C10006986311"
-label_id: "10001600034"
-dtd_version: "2.0"
-original_entry_into_force: "1998-01-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001244/1998-01-07/0"
-intitule_bron: "Trb.1994-105"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-08-06"
-intitule_published: "1994-05-16"
-intitule_in_force: "1998-02-03"
-intitule_status: "goed"
-original_publication: "Trb.1994-105"
-original_signed_date: "1996-08-06"
-original_published_date: "1994-05-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1994-105"
-entry_into_force_date: "1998-01-07"
-jci_1_3: "jci1.3:c:BWBV0001244&z=1998-01-07&g=1998-01-07"
-jci_1_0: "1.0:c:BWBV0001244&g=1998-01-07"
-citeertitel_status: "redactioneel"
-signed_date: "1996-08-06"
-entry_into_force: "1998-01-07"
+publicatiedatum: 1998-01-07
+laatste_update: 1998-01-07
+status: geldig
+toestand: 1998-01-07
+bron: "https://wetten.overheid.nl/BWBV0001244"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag inzake duurzame ontwikkeling gesloten tussen het Koninkrijk der Nederlanden en de Republiek Benin
 
-Le Gouvernement du Royaume des Pays-Bas
-
-et
-
-Le Gouvernement de la République du Bénin;
-
-Convaincus de l'importance cruciale d'un développement qui satisfait les besoins des générations présentes sans compromettre la capacité des générations futures à satisfaire leurs propres besoins;
-
-Désireux, en conséquence, de promouvoir la mise en oeuvre de la Déclaration de Rio sur l'Environnement et le Développement et l'Agenda 21 adoptés par la Conférence des Nations Unies sur l'Environnement et le Développement, qui s'est tenue du 3 au 14 juin 1992 à Rio de Janeiro;
-
-Convaincus de la nécessité de l'établissement d'une alliance mondiale nouvelle et équitable visant à la création de nouvelles formes de coopération entre Etats, entre secteurs-clés de la société et entre individus;
-
-Désireux, en outre, de traduire dans les faits la Déclaration d'intention signée par les représentants du Gouvernement du Royaume des Pays-Bas et du Gouvernement de la République du Bénin le 24 juin 1992 à La Haye;
-
-Conscients de la difficulté qu'il y a à rendre opérationnel le développement durable face à la diversité des niveaux de développement économique, des ressources, des systèmes sociaux et politiques ainsi que des cultures;
-
-Reconnaissant que le développement ne peut être durable que s'il est global, c'est-à-dire s'il embrasse les aspects économiques, sociaux, culturels, civils et politiques, ainsi que les aspects religieux et écologiques;
-
-Guidés par le principe de précaution en vertu duquel l'absence de certitude scientifique absolue ne doit pas servir de prétexte pour remettre à plus tard l'adoption de mesures efficaces visant à prévenir ou à réduire d'un minimum la dégradation de l'environnement en cas de risque de dommages graves ou irréversibles;
-
-Considérant que les Etats doivent coopérer dans un esprit de solidarité mondiale afin de protéger, de conserver et de rétablir l'écosystème planétaire, en tenant compte du fait qu'ils ont contribué à divers degrés à la dégradation de cet écosystème et, en conséquence, qu'ils ont une responsabilité commune quoique différente;
-
-Désireux d'établir entre leurs pays respectifs une coopération de longue durée, basée sur l'égalité et la réciprocité, ainsi que sur la concertation et l'assistance mutuelle en vue de promouvoir efficacement le développement durable avec la participation de tous les groupes sociaux concernés;
-
-Considérant qu'il y a lieu de conclure à cette fin un accord qui créera un cadre juridique et administratif pour l'action future;
-
-Sont convenus de ce qui suit:
+*Le Gouvernement du Royaume des Pays-Bas et Le Gouvernement de la République du Bénin; Convaincus de l'importance cruciale d'un développement qui satisfait les besoins des générations présentes sans compromettre la capacité des générations futures à satisfaire leurs propres besoins; Désireux, en conséquence, de promouvoir la mise en oeuvre de la Déclaration de Rio sur l'Environnement et le Développement et l'Agenda 21 adoptés par la Conférence des Nations Unies sur l'Environnement et le Développement, qui s'est tenue du 3 au 14 juin 1992 à Rio de Janeiro; Convaincus de la nécessité de l'établissement d'une alliance mondiale nouvelle et équitable visant à la création de nouvelles formes de coopération entre Etats, entre secteurs-clés de la société et entre individus; Désireux, en outre, de traduire dans les faits la Déclaration d'intention signée par les représentants du Gouvernement du Royaume des Pays-Bas et du Gouvernement de la République du Bénin le 24 juin 1992 à La Haye; Conscients de la difficulté qu'il y a à rendre opérationnel le développement durable face à la diversité des niveaux de développement économique, des ressources, des systèmes sociaux et politiques ainsi que des cultures; Reconnaissant que le développement ne peut être durable que s'il est global, c'est-à-dire s'il embrasse les aspects économiques, sociaux, culturels, civils et politiques, ainsi que les aspects religieux et écologiques; Guidés par le principe de précaution en vertu duquel l'absence de certitude scientifique absolue ne doit pas servir de prétexte pour remettre à plus tard l'adoption de mesures efficaces visant à prévenir ou à réduire d'un minimum la dégradation de l'environnement en cas de risque de dommages graves ou irréversibles; Considérant que les Etats doivent coopérer dans un esprit de solidarité mondiale afin de protéger, de conserver et de rétablir l'écosystème planétaire, en tenant compte du fait qu'ils ont contribué à divers degrés à la dégradation de cet écosystème et, en conséquence, qu'ils ont une responsabilité commune quoique différente; Désireux d'établir entre leurs pays respectifs une coopération de longue durée, basée sur l'égalité et la réciprocité, ainsi que sur la concertation et l'assistance mutuelle en vue de promouvoir efficacement le développement durable avec la participation de tous les groupes sociaux concernés; Considérant qu'il y a lieu de conclure à cette fin un accord qui créera un cadre juridique et administratif pour l'action future; Sont convenus de ce qui suit:*
 
 ##### Article I
 
@@ -73,37 +25,37 @@ Sont convenus de ce qui suit:
 
 Les politiques, arrangements, programmes et projets visés à l'article I peuvent avoir pour objet de:
 
-- a). planifier et mettre en oeuvre une politique de développement prenant en compte les principes contenus dans la Déclaration de Rio sur l'Environnement et le Développement et les exigences dictées par la notion de développement durable telle que définie dans l'Agenda 21 adopté par la Conférence des Nations Unies sur l'Environnement et le Développement, qui s'est tenue du 3 au 14 juin 1992 à Rio de Janeiro;
+- a) planifier et mettre en oeuvre une politique de développement prenant en compte les principes contenus dans la Déclaration de Rio sur l'Environnement et le Développement et les exigences dictées par la notion de développement durable telle que définie dans l'Agenda 21 adopté par la Conférence des Nations Unies sur l'Environnement et le Développement, qui s'est tenue du 3 au 14 juin 1992 à Rio de Janeiro;
 
-- b). mettre en oeuvre des modèles de production, de distribution et de consommation qui respectent le fondement écologique du développement;
+- b) mettre en oeuvre des modèles de production, de distribution et de consommation qui respectent le fondement écologique du développement;
 
-- c). promouvoir et mettre en oeuvre une gestion durable des ressources naturelles;
+- c) promouvoir et mettre en oeuvre une gestion durable des ressources naturelles;
 
-- d). préserver et utiliser durablement la biodiversité;
+- d) préserver et utiliser durablement la biodiversité;
 
-- e). promouvoir et mettre en oeuvre des mesures visant à la prévention et à la réduction de la production de déchets;
+- e) promouvoir et mettre en oeuvre des mesures visant à la prévention et à la réduction de la production de déchets;
 
-- f). contrôler les transports transfrontières de matières dangereuses et prévenir, contrôler et éliminer les déplacements transfrontières de déchets dangereux, que ce soit par l'air, l'eau ou la terre;
+- f) contrôler les transports transfrontières de matières dangereuses et prévenir, contrôler et éliminer les déplacements transfrontières de déchets dangereux, que ce soit par l'air, l'eau ou la terre;
 
-- g). mettre en oeuvre des mesures visant à l'élimination progressive de la production et de la consommation de chlorofluorocarbones et d'autres substances portant atteinte à la couche d'ozone, dans le but de la protéger;
+- g) mettre en oeuvre des mesures visant à l'élimination progressive de la production et de la consommation de chlorofluorocarbones et d'autres substances portant atteinte à la couche d'ozone, dans le but de la protéger;
 
-- h). réduire les émissions nettes de gaz à effet de serre, en particulier le CO2, par des économies d'énergie, l'utilisation de combustibles de substitution, de sources d'énergie renouvelables et le reboisement, en vue de prévenir, contrôler et limiter les causes des changements climatiques et d'en atténuer les effets néfastes;
+- h) réduire les émissions nettes de gaz à effet de serre, en particulier le CO2, par des économies d'énergie, l'utilisation de combustibles de substitution, de sources d'énergie renouvelables et le reboisement, en vue de prévenir, contrôler et limiter les causes des changements climatiques et d'en atténuer les effets néfastes;
 
-- i). rechercher et adopter une politique visant à donner aux citoyens un accès équitable à l'utilisation durable des ressources naturelles disponibles dans leur propre pays;
+- i) rechercher et adopter une politique visant à donner aux citoyens un accès équitable à l'utilisation durable des ressources naturelles disponibles dans leur propre pays;
 
-- j). promouvoir la participation des citoyens aux processus décisionnels et aux activités relatives au développement durable dans leur propre pays;
+- j) promouvoir la participation des citoyens aux processus décisionnels et aux activités relatives au développement durable dans leur propre pays;
 
-- k). renforcer le rôle vital joué par les femmes dans la gestion de ľenvironnement, qui constitue un élément indispensable du développement durable;
+- k) renforcer le rôle vital joué par les femmes dans la gestion de ľenvironnement, qui constitue un élément indispensable du développement durable;
 
-- l). promouvoir la coopération technologique et scientifique, le transfert de technologies, et le développement conjoint des ressources humaines afin de générer les capacités de management en matière de développement durable dans chacun des deux pays;
+- l) promouvoir la coopération technologique et scientifique, le transfert de technologies, et le développement conjoint des ressources humaines afin de générer les capacités de management en matière de développement durable dans chacun des deux pays;
 
-- m). concernant le Royaume des Pays-Bas, contribuer à financer, par des transferts directs ou indirects, les investissements supplémentaires, y compris les investissements réalisés dans les processus de production, pour contribuer au développement durable au Bénin;
+- m) concernant le Royaume des Pays-Bas, contribuer à financer, par des transferts directs ou indirects, les investissements supplémentaires, y compris les investissements réalisés dans les processus de production, pour contribuer au développement durable au Bénin;
 
-- n). promouvoir la conclusion et la mise en oeuvre d'accords commerciaux ou autres favorisant le processus de développement durable;
+- n) promouvoir la conclusion et la mise en oeuvre d'accords commerciaux ou autres favorisant le processus de développement durable;
 
-- o). promouvoir un soutien au niveau macro-économique et un soutien au niveau de l'allégement de la dette afin de renforcer le processus de développement durable; et
+- o) promouvoir un soutien au niveau macro-économique et un soutien au niveau de l'allégement de la dette afin de renforcer le processus de développement durable; et
 
-- p). promouvoir et réaliser toute autre forme de coopération ou d'échange considérée par les deux Gouvernements comme influençant positivement le processus de développement durable.
+- p) promouvoir et réaliser toute autre forme de coopération ou d'échange considérée par les deux Gouvernements comme influençant positivement le processus de développement durable.
 
 ##### Article III
 
@@ -157,13 +109,13 @@ EN FOI DE QUOI, les Plénipotentiaires soussignés, dûment autorisés à cet ef
 
 FAIT à Noordwijk, le 21 mars 1994, en deux originaux en langue française, les deux textes faisant également foi.
 
-**Pour le Gouvernement du Royaume des Pays-Bas**
+*Pour le Gouvernement du Royaume des Pays-Bas*
 
 (s.) J. P. PRONK
 
 (s.) J. G. M. ALDERS
 
-**Pour le Gouvernement de la République du Bénin**
+*Pour le Gouvernement de la République du Bénin*
 
 (s.) R. DOSSOU
 

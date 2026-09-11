@@ -1,47 +1,19 @@
 ---
 title: "Uitleveringsverdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika"
 identifier: "BWBV0001032"
-country: "nl"
-rank: "verdrag"
-publication_date: "2010-02-01"
-last_updated: "2010-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001032"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002503193"
-version_id: "10002497012"
-internal_id: "C10006979051"
-label_id: "10002492814"
-dtd_version: "2.0"
-original_entry_into_force: "1983-09-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001032/2010-02-01/0"
-intitule_bron: "Trb.1980-111"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1983-08-16"
-intitule_published: "1980-07-15"
-intitule_in_force: "1983-08-19"
-intitule_status: "goed"
-original_publication: "Trb.1980-111"
-original_signed_date: "1983-08-16"
-original_published_date: "1980-07-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1980-111"
-entry_into_force_date: "1983-09-15"
-jci_1_3: "jci1.3:c:BWBV0001032&z=2010-02-01&g=2010-02-01"
-jci_1_0: "1.0:c:BWBV0001032&g=2010-02-01"
-citeertitel_status: "redactioneel"
-signed_date: "1983-08-16"
-entry_into_force: "1983-09-15"
+publicatiedatum: 1983-09-15
+laatste_update: 2010-02-01
+status: geldig
+toestand: 2010-02-01
+bron: "https://wetten.overheid.nl/BWBV0001032"
+opgehaald: 2026-09-11
 ---
+
 # Uitleveringsverdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika;
-
-Verlangend een regeling te treffen met het oog op een doeltreffender samenwerking tussen de beide Staten bij de bestrijding van de misdaad; en
-
-Verlangend een nieuw verdrag te sluiten inzake de wederzijdse uitlevering van delinquenten;
-
-Zijn overeengekomen als volgt:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika; Verlangend een regeling te treffen met het oog op een doeltreffender samenwerking tussen de beide Staten bij de bestrijding van de misdaad; en Verlangend een nieuw verdrag te sluiten inzake de wederzijdse uitlevering van delinquenten; Zijn overeengekomen als volgt:*
 
 ##### Artikel 1. Verplichting tot uitlevering
 
@@ -165,6 +137,10 @@ Indien de desbetreffende persoon werd veroordeeld, dienen bij het verzoek tot ui
 
 3. Dergelijk aanvullend bewijs of aanvullende informatie kan rechtstreeks worden gevraagd en uitgewisseld tussen het ministerie van Justitie van Nederland en het Department of Justice van de Verenigde Staten.
 
+##### Artikel 10 bis. Gevoelige informatie in een verzoek
+
+Indien de verzoekende Staat overweegt bijzonder gevoelige informatie over te leggen ter ondersteuning van zijn uitleveringsverzoek, kan hij de aangezochte Staat raadplegen om na te gaan in hoeverre de informatie door de aangezochte Staat kan worden beschermd. Indien de aangezochte Staat de informatie niet overeenkomstig de wensen van de verzoekende Staat kan beschermen, bepaalt de verzoekende Staat of de informatie desondanks wordt overgelegd.
+
 ##### Artikel 11. Voorlopige aanhouding
 
 1. In geval van spoed kan elke Verdragsluitende Partij de voorlopige aanhouding verzoeken van ieder die wordt vervolgd of is veroordeeld. Het verzoek tot voorlopige aanhouding kan worden gedaan hetzij langs diplomatieke weg, hetzij in rechtstreeks contact tussen het Department of Justice van de Verenigde Staten en het Ministerie van Justitie in Nederland of, indien de territoriale toepassing van dit Verdrag overeenkomstig artikel 20, eerste lid, onderdeel b, van de VS-EU-Uitleveringsovereenkomst wordt uitgebreid, als omschreven in de ingevolge daarvan uitgewisselde diplomatieke nota's.
@@ -278,11 +254,5 @@ Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag van toepassing op het
 1. Elk van beide Verdragsluitende Partijen kan dit Verdrag te allen tijde beëindigen door daarvan aan de andere Partij kennis te geven, en de beëindiging wordt van kracht zes maanden na de datum van ontvangst van die kennisgeving.
 
 2. De beëindiging van dit Verdrag door de Regering van het Koninkrijk der Nederlanden kan worden beperkt tot één van de samenstellende delen van het Koninkrijk.
-
-GEDAAN te 's-Gravenhage op 24 juni 1980 in twee exemplaren, in de Nederlandse en de Engelse taal, zijn beide teksten gelijkelijk authentiek.
-
-##### Artikel 10 bis. Gevoelige informatie in een verzoek
-
-Indien de verzoekende Staat overweegt bijzonder gevoelige informatie over te leggen ter ondersteuning van zijn uitleveringsverzoek, kan hij de aangezochte Staat raadplegen om na te gaan in hoeverre de informatie door de aangezochte Staat kan worden beschermd. Indien de aangezochte Staat de informatie niet overeenkomstig de wensen van de verzoekende Staat kan beschermen, bepaalt de verzoekende Staat of de informatie desondanks wordt overgelegd.
 
 GEDAAN te 's-Gravenhage op 24 juni 1980 in twee exemplaren, in de Nederlandse en de Engelse taal, zijn beide teksten gelijkelijk authentiek.

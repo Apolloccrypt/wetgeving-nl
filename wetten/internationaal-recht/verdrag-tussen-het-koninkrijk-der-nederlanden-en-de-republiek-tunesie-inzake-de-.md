@@ -1,52 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Tunesië inzake de bevordering en de wederzijdse bescherming van investeringen"
 identifier: "BWBV0001397"
-country: "nl"
-rank: "verdrag"
-publication_date: "1999-08-01"
-last_updated: "1999-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001397"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000414883"
-version_id: "10000422982"
-internal_id: "C10006989801"
-label_id: "10000415094"
-original_entry_into_force: "1999-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001397/1999-08-01/0"
-intitule_bron: "Trb.1998-138"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-06-22"
-intitule_published: "1998-06-12"
-intitule_in_force: "1999-10-20"
-intitule_status: "goed"
-original_publication: "Trb.1998-138"
-original_signed_date: "1999-06-22"
-original_published_date: "1998-06-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1998-138"
-entry_into_force_date: "1999-08-01"
-jci_1_3: "jci1.3:c:BWBV0001397&z=1999-08-01&g=1999-08-01"
-jci_1_0: "1.0:c:BWBV0001397&g=1999-08-01"
-citeertitel_status: "officieel"
-signed_date: "1999-06-22"
-entry_into_force: "1999-08-01"
+publicatiedatum: 1999-08-01
+laatste_update: 1999-08-01
+status: geldig
+toestand: 1999-08-01
+bron: "https://wetten.overheid.nl/BWBV0001397"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Tunesië inzake de bevordering en de wederzijdse bescherming van investeringen
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Republiek Tunesië,
-
-hierna te noemen de Verdragsluitende Partijen,
-
-Geleid door de wens hun van oudsher bestaande vriendschapsbanden te versterken en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door de onderdanen van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij betreft,
-
-In het besef dat overeenstemming omtrent de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Republiek Tunesië, hierna te noemen de Verdragsluitende Partijen, Geleid door de wens hun van oudsher bestaande vriendschapsbanden te versterken en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door de onderdanen van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij betreft, In het besef dat overeenstemming omtrent de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -54,21 +21,21 @@ Voor de toepassing van dit Verdrag:
 
 - a. wordt onder de term „investeringen" verstaan: alle soorten vermogensbestanddelen, in eigendom of onder al dan niet rechtstreeks toezicht, en in het bijzonder, doch niet uitsluitend:
 
-- i. roerende en onroerende zaken, alsmede alle andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
+   - i. roerende en onroerende zaken, alsmede alle andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
 
-- ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en gezamenlijke ondernemingen;
+   - ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en gezamenlijke ondernemingen;
 
-- iii. aanspraken op geld, op andere vermogensbestanddelen of op iedere prestatie die economische waarde heeft;
+   - iii. aanspraken op geld, op andere vermogensbestanddelen of op iedere prestatie die economische waarde heeft;
 
-- iv. rechten op het gebied van de intellectuele eigendom, technische werkwijzen, goodwill en know-how;
+   - iv. rechten op het gebied van de intellectuele eigendom, technische werkwijzen, goodwill en know-how;
 
-- v. rechten verleend krachtens het publiekrecht of bij overeenkomst, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen;
+   - v. rechten verleend krachtens het publiekrecht of bij overeenkomst, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen;
 
 - b. omvat de term „onderdanen" met betrekking tot elk van beide Verdragsluitende Partijen:
 
-- i. natuurlijke personen die de nationaliteit van die Verdragsluitende Partij hebben;
+   - i. natuurlijke personen die de nationaliteit van die Verdragsluitende Partij hebben;
 
-- ii. rechtspersonen die zijn opgericht krachtens het recht van die Verdragsluitende Partij.
+   - ii. rechtspersonen die zijn opgericht krachtens het recht van die Verdragsluitende Partij.
 
 - c. omvat de term „grondgebied" mede de zeegebieden grenzend aan de kust van de betrokken Staat, voor zover die Staat overeenkomstig het internationale recht soevereine rechten of rechtsmacht in deze gebieden uitoefent.
 
@@ -124,9 +91,9 @@ Geen der Verdragsluitende Partijen neemt enige maatregel tot nationalisering of 
 
 - c. de maatregelen gaan vergezeld van een billijke schadeloosstelling. Deze schadeloosstelling
 
-- –. dient de werkelijke waarde te vertegenwoordigen van de desbetreffende investeringen, en dient, wil zij doeltreffend zijn voor de gerechtigden, zonder vertraging te worden betaald en te kunnen worden overgemaakt naar het grondgebied van de Verdragsluitende Partij van de gerechtigden of naar een ander land, overeengekomen door de gerechtigden en de onteigenende Verdragsluitende Partij; en
+   - – dient de werkelijke waarde te vertegenwoordigen van de desbetreffende investeringen, en dient, wil zij doeltreffend zijn voor de gerechtigden, zonder vertraging te worden betaald en te kunnen worden overgemaakt naar het grondgebied van de Verdragsluitende Partij van de gerechtigden of naar een ander land, overeengekomen door de gerechtigden en de onteigenende Verdragsluitende Partij; en
 
-- –. dient een bedrag te omvatten dat adequaat schadeloos stelt voor enige vertraging in de betaling die kan optreden tussen de datum van de onteigening en de dag van de werkelijke betaling, mits de onderdaan redelijkerwijs niet aansprakelijk kan worden gesteld voor de vertraging in de betaling.
+   - – dient een bedrag te omvatten dat adequaat schadeloos stelt voor enige vertraging in de betaling die kan optreden tussen de datum van de onteigening en de dag van de werkelijke betaling, mits de onderdaan redelijkerwijs niet aansprakelijk kan worden gesteld voor de vertraging in de betaling.
 
 - d. de Verdragsluitende Partijen garanderen dat de in onder c bedoelde overmaking in de door de gerechtigden gekozen vrij inwisselbare valuta zal worden gedaan.
 
@@ -182,28 +149,14 @@ Wat betreft het Koninkrijk der Nederlanden is dit Verdrag van toepassing op het 
 
 Op geschillen die zijn ontstaan vóór de inwerkingtreding van dit Verdrag blijft de Overeenkomst van 23 mei 1963 van toepassing.
 
-Bij de ondertekening van het Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Tunesië inzake de bevordering en de wederzijdse bescherming van investeringen hebben de ondertekenende vertegenwoordigers overeenstemming bereikt over de volgende bepalingen, die een integrerend deel van het Verdrag vormen:
-
-##### Ad artikel 4:
-
-Elk van beide Verdragsluitende Partijen mag wetten en voorschriften handhaven:
-
-- a. die meldingen van overmakingen van deviezen vereisen, en,
-
-- b. die inkomstenbelastingen opleggen.
-
-Bovendien kan elk van beide Partijen de rechten van schuldeisers beschermen of zorgdragen voor de naleving van uitspraken in scheidsrechterlijke procedures, door middel van de billijke en niet-discriminerende toepassing van haar recht.
-
-Deze wetten en voorschriften mogen wat de eisen of de toepassing daarvan betreft, geen inbreuk maken op of afbreuk doen aan de in dit Verdrag gegarandeerde vrije overmaking zonder beperking of vertraging.
-
 TEN BLIJKE WAARVAN de ondertekenende vertegenwoordigers, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend.
 
 GEDAAN in tweevoud te 's-Gravenhage op 11 mei 1998 in de Nederlandse, de Arabische en de Engelse taal, zijnde de drie teksten gelijkelijk authentiek. In geval van verschil in uitlegging is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 (w.g.) A. VAN DOK-VAN WEELE
 
-**Voor de Republiek Tunesië,**
+*Voor de Republiek Tunesië,*
 
 (w.g.) MOHAMED BACHROUCH

@@ -1,69 +1,19 @@
 ---
 title: "Verdrag inzake duurzame ontwikkeling tussen het Koninkrijk der Nederlanden en het Koninkrijk Bhutan"
 identifier: "BWBV0001235"
-country: "nl"
-rank: "verdrag"
-publication_date: "1996-08-02"
-last_updated: "1996-08-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001235"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10001600073"
-version_id: "10001678142"
-internal_id: "C10006986321"
-label_id: "10001600184"
-dtd_version: "2.0"
-original_entry_into_force: "1996-08-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001235/1996-08-02/0"
-intitule_bron: "Trb.1994-104"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-07-15"
-intitule_published: "1994-05-17"
-intitule_in_force: "1996-08-21"
-intitule_status: "goed"
-original_publication: "Trb.1994-104"
-original_signed_date: "1996-07-15"
-original_published_date: "1994-05-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1994-104"
-entry_into_force_date: "1996-08-02"
-jci_1_3: "jci1.3:c:BWBV0001235&z=1996-08-02&g=1996-08-02"
-jci_1_0: "1.0:c:BWBV0001235&g=1996-08-02"
-citeertitel_status: "redactioneel"
-signed_date: "1996-07-15"
-entry_into_force: "1996-08-02"
+publicatiedatum: 1996-08-02
+laatste_update: 1996-08-02
+status: geldig
+toestand: 1996-08-02
+bron: "https://wetten.overheid.nl/BWBV0001235"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag inzake duurzame ontwikkeling tussen het Koninkrijk der Nederlanden en het Koninkrijk Bhutan
 
-The Government of the Kingdom of the Netherlands
-
-and
-
-the Government of the Kingdom of Bhutan;
-
-Convinced of the crucial importance of development that meets the needs of the present without compromising the ability of future generations to meet their own needs;
-
-Desiring therefore to promote the implementation of the Rio Declaration on Environment and Development and Agenda 21 adopted by the United Nations Conference on Environment and Development held from 3 to 14 June 1992 at Rio de Janeiro;
-
-Convinced of the necessity to establish a new and equitable global alliance aiming at the creation of new forms of co-operation between States, between key sectors of society and between individuals;
-
-Recognizing the right of each country to strive for higher standards of living for its people;
-
-Desiring further to give effect to the Declaration of Intent signed by the representatives of the Government of the Kingdom of the Netherlands and the Government of the Kingdom of Bhutan in Rio de Janeiro on 11 June 1992;
-
-Realizing the complexity of operationalizing sustainable development in view of differing economic development levels, resource endowments, social and political systems and cultures;
-
-Recognizing that development can only be sustainable if it is comprehensive in nature, **i.e.**embraces economic, social, cultural, civil and political as well as religious and ecological aspects;
-
-Guided by the precautionary principle, by virtue of which lack of full scientific certainty shall not be used as a reason for postponing efficient measures to prevent or minimize environmental degradation where there are threats of serious or irreversible damage;
-
-Considering that States have to co-operate in a spirit of global solidarity to conserve, protect and establish an ecosystem of the Earth, taking into account that they have contributed to a significant extent to the degradation on a global level and have therefore shared but different responsibilities;
-
-Desiring to enter upon long-term co-operation between their countries based on equality and reciprocity as well as consultation and mutual assistance in order effectively to bring about sustainable development, promoting the participation of all interest groups in society therein;
-
-Considering that to that end an agreement should be concluded which shall create a legal and administrative framework for future action;
-
-Have agreed as follows:
+*The Government of the Kingdom of the Netherlands and the Government of the Kingdom of Bhutan; Convinced of the crucial importance of development that meets the needs of the present without compromising the ability of future generations to meet their own needs; Desiring therefore to promote the implementation of the Rio Declaration on Environment and Development and Agenda 21 adopted by the United Nations Conference on Environment and Development held from 3 to 14 June 1992 at Rio de Janeiro; Convinced of the necessity to establish a new and equitable global alliance aiming at the creation of new forms of co-operation between States, between key sectors of society and between individuals; Recognizing the right of each country to strive for higher standards of living for its people; Desiring further to give effect to the Declaration of Intent signed by the representatives of the Government of the Kingdom of the Netherlands and the Government of the Kingdom of Bhutan in Rio de Janeiro on 11 June 1992; Realizing the complexity of operationalizing sustainable development in view of differing economic development levels, resource endowments, social and political systems and cultures; Recognizing that development can only be sustainable if it is comprehensive in nature, i.e.embraces economic, social, cultural, civil and political as well as religious and ecological aspects; Guided by the precautionary principle, by virtue of which lack of full scientific certainty shall not be used as a reason for postponing efficient measures to prevent or minimize environmental degradation where there are threats of serious or irreversible damage; Considering that States have to co-operate in a spirit of global solidarity to conserve, protect and establish an ecosystem of the Earth, taking into account that they have contributed to a significant extent to the degradation on a global level and have therefore shared but different responsibilities; Desiring to enter upon long-term co-operation between their countries based on equality and reciprocity as well as consultation and mutual assistance in order effectively to bring about sustainable development, promoting the participation of all interest groups in society therein; Considering that to that end an agreement should be concluded which shall create a legal and administrative framework for future action; Have agreed as follows:*
 
 ##### Article I
 
@@ -75,37 +25,37 @@ Have agreed as follows:
 
 The policies, arrangements, programmes and projects referred to in Article I may have the following aims:
 
-- a). to develop and implement economic policies which take into account the principles embodied in the Rio Declaration on Environment and Development and the requirements arising from the concept of sustainable development as described in Agenda 21, adopted by the United Nations Conference on Environment and Development held in Rio de Janeiro from 3 to 14 June 1992;
+- a) to develop and implement economic policies which take into account the principles embodied in the Rio Declaration on Environment and Development and the requirements arising from the concept of sustainable development as described in Agenda 21, adopted by the United Nations Conference on Environment and Development held in Rio de Janeiro from 3 to 14 June 1992;
 
-- b). to implement production, distribution and consumption patterns which protect the ecological base for development;
+- b) to implement production, distribution and consumption patterns which protect the ecological base for development;
 
-- c). to promote and implement sustainable management of natural resources;
+- c) to promote and implement sustainable management of natural resources;
 
-- d). to conserve biodiversity and the sustainable use thereof;
+- d) to conserve biodiversity and the sustainable use thereof;
 
-- e). to promote and implement waste prevention and minimization
+- e) to promote and implement waste prevention and minimization
 
-- f). to control transboundary movements of hazardous substances and to prevent, control or eliminate transboundary movements of hazardous wastes, through air, via water or over land;
+- f) to control transboundary movements of hazardous substances and to prevent, control or eliminate transboundary movements of hazardous wastes, through air, via water or over land;
 
-- g). to implement measures to gradually eliminate the production and consumption of chlorofluorocarbons and of other ozone depleting substances in order to protect the ozone layer;
+- g) to implement measures to gradually eliminate the production and consumption of chlorofluorocarbons and of other ozone depleting substances in order to protect the ozone layer;
 
-- h). to reduce net emissions of greenhouse gases, in particular CO2, through energy saving, use of alternative fuels, renewable energy sources and afforestation in order to prevent, control or minimize the causes of climate change and mitigate its adverse effects;
+- h) to reduce net emissions of greenhouse gases, in particular CO2, through energy saving, use of alternative fuels, renewable energy sources and afforestation in order to prevent, control or minimize the causes of climate change and mitigate its adverse effects;
 
-- i). to strive for and adopt policies to provide citizens in their respective countries with equitable access to the sustainable use of available natural resources;
+- i) to strive for and adopt policies to provide citizens in their respective countries with equitable access to the sustainable use of available natural resources;
 
-- j). to promote the participation of citizens in their respective countries in decision-making processes and activities connected with sustainable development;
+- j) to promote the participation of citizens in their respective countries in decision-making processes and activities connected with sustainable development;
 
-- k). to strengthen the vital role of women in environmental management and development as an indisρensible element in sustainable development ;
+- k) to strengthen the vital role of women in environmental management and development as an indisρensible element in sustainable development ;
 
-- l). to promote scientific and technological co-operation, transfer of technology and joint human resource development in order to generate adequate capacity in each country for sustainable development;
+- l) to promote scientific and technological co-operation, transfer of technology and joint human resource development in order to generate adequate capacity in each country for sustainable development;
 
-- m). with respect to the Kingdom of the Netherlands, to contribute to covering, through direct and indirect transfers of resources, the incremental costs of investment, including investment in production processes, or the incremental loss of income as a result of adjusted production processes, in order to contribute to sustainable development in Bhutan;
+- m) with respect to the Kingdom of the Netherlands, to contribute to covering, through direct and indirect transfers of resources, the incremental costs of investment, including investment in production processes, or the incremental loss of income as a result of adjusted production processes, in order to contribute to sustainable development in Bhutan;
 
-- n). to promote the conclusion and implementation of trade or other agreements conducive to the process of sustainable development;
+- n) to promote the conclusion and implementation of trade or other agreements conducive to the process of sustainable development;
 
-- o). to promote debt relief and/or macro-economic support to strengthen the process towards sustainable development;
+- o) to promote debt relief and/or macro-economic support to strengthen the process towards sustainable development;
 
-- p). to promote any other form of co-operation or exchange that both Governments consider conducive to the process of sustainable development.
+- p) to promote any other form of co-operation or exchange that both Governments consider conducive to the process of sustainable development.
 
 ##### Article III
 
@@ -133,7 +83,7 @@ The two Governments shall, without prejudice to their international commitments,
 
 ##### Article VI
 
-In order to promote the co-ordination of the implementation of this Agreement, each Government shall define or establish a national mechanism for the relevant preparation and implementation of decisions adopted under this Agreement. Both Governments will inform each other of the executive entity to be established and which will be constituted in accordance with the laws of that country. The national mechanisms, which can also take the form of, for instance, a "task force", will promote **inter alia**the participation of different segments of society in the preparation and execution of the different programmes and projects.
+In order to promote the co-ordination of the implementation of this Agreement, each Government shall define or establish a national mechanism for the relevant preparation and implementation of decisions adopted under this Agreement. Both Governments will inform each other of the executive entity to be established and which will be constituted in accordance with the laws of that country. The national mechanisms, which can also take the form of, for instance, a "task force", will promote *inter alia*the participation of different segments of society in the preparation and execution of the different programmes and projects.
 
 ##### Article VII
 
@@ -155,12 +105,12 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their resp
 
 DONE at Noordwijk on 21 March 1994, in duplicate in the English language.
 
-**For the Government of the Kingdom of the Netherlands**
+*For the Government of the Kingdom of the Netherlands*
 
 (sd.) J.R PRONK
 
 (sd.) J.G.M. ALDERS
 
-**For the Government of the Kingdom of Bhutan**
+*For the Government of the Kingdom of Bhutan*
 
 (sd.) C. DORJI

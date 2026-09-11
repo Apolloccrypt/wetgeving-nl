@@ -1,47 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Argentijnse Republiek inzake de bevordering en de wederzijdse bescherming van investeringen"
 identifier: "BWBV0001101"
-country: "nl"
-rank: "verdrag"
-publication_date: "1994-10-01"
-last_updated: "1994-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001101"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002288153"
-version_id: "10002312172"
-internal_id: "C10006976231"
-label_id: "10002278284"
-dtd_version: "2.0"
-original_entry_into_force: "1994-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001101/1994-10-01/0"
-intitule_bron: "Trb.1992-192"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-08-09"
-intitule_published: "1992-12-09"
-intitule_in_force: "1994-09-21"
-intitule_status: "goed"
-original_publication: "Trb.1992-192"
-original_signed_date: "1993-08-09"
-original_published_date: "1992-12-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1992-192"
-entry_into_force_date: "1994-10-01"
-jci_1_3: "jci1.3:c:BWBV0001101&z=1994-10-01&g=1994-10-01"
-jci_1_0: "1.0:c:BWBV0001101&g=1994-10-01"
-citeertitel_status: "redactioneel"
-signed_date: "1993-08-09"
-entry_into_force: "1994-10-01"
+publicatiedatum: 1994-10-01
+laatste_update: 1994-10-01
+status: geldig
+toestand: 1994-10-01
+bron: "https://wetten.overheid.nl/BWBV0001101"
+opgehaald: 2026-09-11
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Argentijnse Republiek inzake de bevordering en de wederzijdse bescherming van investeringen
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Argentijnse Republiek, hierna te noemen de „Overeenkomstsluitende Partijen",
-
-geleid door de wens de van oudsher tussen hun landen bestaande vriendschapsbanden te versterken, de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door investeerders van de ene Overeenkomstsluitende Partij op het grondgebied van de andere Overeenkomstsluitende Partij betreft,
-
-in het besef dat overeenstemming omtrent de aan deze investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Overeenkomstsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is,
-
-zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Argentijnse Republiek, hierna te noemen de „Overeenkomstsluitende Partijen", geleid door de wens de van oudsher tussen hun landen bestaande vriendschapsbanden te versterken, de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door investeerders van de ene Overeenkomstsluitende Partij op het grondgebied van de andere Overeenkomstsluitende Partij betreft, in het besef dat overeenstemming omtrent de aan deze investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Overeenkomstsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is, zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -49,23 +21,23 @@ Voor de toepassing van deze Overeenkomst:
 
 - a. omvat de term „investeringen" alle soorten vermogensbestanddelen geïnvesteerd door een investeerder van de ene Overeenkomstsluitende Partij op het grondgebied van de andere Overeenkomstsluitende Partij in overeenstemming met de wetten en voorschriften van laatstgenoemde Overeenkomstsluitende Partij, en in het bijzonder, doch niet uitsluitend: De betekenis en omvang van de verschillende vermogensbestanddelen worden bepaald door de wetten en voorschriften van de Overeenkomstsluitende Partij op wier grondgebied de investering is gedaan. Een wijziging in de juridische vorm waarin de vermogensbestanddelen zijn geïnvesteerd of opnieuw geïnvesteerd is niet van invloed op de vraag of ze al dan niet worden aangemerkt als investeringen ingevolge deze Overeenkomst.
 
-- i. roerende en onroerende zaken, alsmede alle andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
+   - i. roerende en onroerende zaken, alsmede alle andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
 
-- ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en gezamenlijke ondernemingen;
+   - ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en gezamenlijke ondernemingen;
 
-- iii. rechten op geld of op iedere prestatie die economische waarde heeft;
+   - iii. rechten op geld of op iedere prestatie die economische waarde heeft;
 
-- iv. rechten op het gebied van de intellectuele eigendom, technische werkwijzen, goodwill en know-how;
+   - iv. rechten op het gebied van de intellectuele eigendom, technische werkwijzen, goodwill en know-how;
 
-- v. rechten verleend krachtens het publiekrecht, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen.
+   - v. rechten verleend krachtens het publiekrecht, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen.
 
 - b. omvat de term „investeerder" met betrekking tot elk der Overeenkomstsluitende Partijen:
 
-- i. natuurlijke personen die in overeenstemming met het recht van die Overeenkomstsluitende Partij haar nationaliteit bezitten;
+   - i. natuurlijke personen die in overeenstemming met het recht van die Overeenkomstsluitende Partij haar nationaliteit bezitten;
 
-- ii. onverminderd het bepaalde onder iii, rechtspersonen die zijn opgericht overeenkomstig het recht van die Overeenkomstsluitende Partij en die daadwerkelijk zaken doen ingevolge wetten die van kracht zijn in enig deel van het grondgebied van die Overeenkomstsluitende Partij waar een plaats van daadwerkelijk beheer is gelegen; en
+   - ii. onverminderd het bepaalde onder iii, rechtspersonen die zijn opgericht overeenkomstig het recht van die Overeenkomstsluitende Partij en die daadwerkelijk zaken doen ingevolge wetten die van kracht zijn in enig deel van het grondgebied van die Overeenkomstsluitende Partij waar een plaats van daadwerkelijk beheer is gelegen; en
 
-- iii. rechtspersonen, waar ook gevestigd, die onder al dan niet rechtstreeks toezicht staan van onderdanen van die Overeenkomstsluitende Partij.
+   - iii. rechtspersonen, waar ook gevestigd, die onder al dan niet rechtstreeks toezicht staan van onderdanen van die Overeenkomstsluitende Partij.
 
 - c. omvat de term „grondgebied" mede de zeegebieden grenzend aan de kust van de betrokken Staat, voor zover die Staat overeenkomstig het internationale recht soevereine rechten of rechtsmacht in deze gebieden kan uitoefenen.
 
@@ -143,9 +115,9 @@ Aan investeerders van de ene Overeenkomstsluitende Partij die verliezen lijden m
 
 5. Wanneer het geschil wordt onderworpen aan internationale arbitrage of conciliatie, kan de betrokken investeerder het geschil voorleggen aan:
 
-- -. hetzij het Internationale Centrum voor Beslechting van Investeringsgeschillen (hierna te noemen het Centrum), ingesteld krachtens het Verdrag inzake de beslechting van investeringsgeschillen tussen Staten en onderdanen van andere Staten, dat op 18 maart 1965 te Washington werd opengesteld voor ondertekening (hierna te noemen het Verdrag), wanneer beide Overeenkomstsluitende Partijen partij bij het Verdrag zijn geworden. Tot het tijdstip waarop aan deze laatste voorwaarde zal zijn voldaan, wordt gebruik gemaakt van de Additional Facility voor het verlenen van administratieve diensten bij geschillen door het Secretariaat van het Centrum,
+- - hetzij het Internationale Centrum voor Beslechting van Investeringsgeschillen (hierna te noemen het Centrum), ingesteld krachtens het Verdrag inzake de beslechting van investeringsgeschillen tussen Staten en onderdanen van andere Staten, dat op 18 maart 1965 te Washington werd opengesteld voor ondertekening (hierna te noemen het Verdrag), wanneer beide Overeenkomstsluitende Partijen partij bij het Verdrag zijn geworden. Tot het tijdstip waarop aan deze laatste voorwaarde zal zijn voldaan, wordt gebruik gemaakt van de Additional Facility voor het verlenen van administratieve diensten bij geschillen door het Secretariaat van het Centrum,
 
-- -. hetzij een scheidsgerecht ad hoc dat wordt gevormd ingevolge de arbitrageregels van de V.N.-Commissie inzake Internationaal Handelsrecht.
+- - hetzij een scheidsgerecht ad hoc dat wordt gevormd ingevolge de arbitrageregels van de V.N.-Commissie inzake Internationaal Handelsrecht.
 
 6. Een rechtspersoon die is gevormd of opgericht ingevolge het op het grondgebied van de ene Overeenkomstsluitende Partij geldende recht en die, voordat een geschil ontstaat, onder toezicht staat van onderdanen van de andere Overeenkomstsluitende Partij, wordt in overeenstemming met artikel 25, tweede lid, letter b van het Verdrag voor de toepassing van het Verdrag behandeld als een onderdaan van de andere Overeenkomstsluitende Partij.
 
@@ -173,7 +145,7 @@ Elk der Overeenkomstsluitende Partijen kan aan de andere Partij voorstellen over
 
 4. Indien in de in het tweede en derde lid van dit artikel bedoelde gevallen de President van het Internationale Gerechtshof verhinderd is genoemde functie uit te oefenen, of onderdaan is van een van beide Overeenkomstsluitende Partijen, wordt de Vice-President verzocht de noodzakelijke benoemingen te verrichten. Indien de Vice-President verhinderd is genoemde functie uit te oefenen, of onderdaan is van een van beide Partijen, wordt het lid van het Gerechtshof dat het hoogst in anciënniteit is, beschikbaar is en geen onderdaan is van één der Partijen, verzocht de noodzakelijke benoemingen te verrichten.
 
-5. Het scheidsgerecht doet uitspraak op basis van eerbiediging van het recht. Alvorens uitspraak te doen, kan het scheidsgerecht in elke stand van het geding een minnelijke schikking van het geschil aan de Partijen voorstellen. De voorgaande bepalingen doen geen afbreuk aan de bevoegdheid van het scheidsgerecht in het geschil uitspraak **ex aequo et bono**te doen, indien de Partijen daarmee instemmen.
+5. Het scheidsgerecht doet uitspraak op basis van eerbiediging van het recht. Alvorens uitspraak te doen, kan het scheidsgerecht in elke stand van het geding een minnelijke schikking van het geschil aan de Partijen voorstellen. De voorgaande bepalingen doen geen afbreuk aan de bevoegdheid van het scheidsgerecht in het geschil uitspraak *ex aequo et bono*te doen, indien de Partijen daarmee instemmen.
 
 6. Het scheidsgerecht stelt zijn eigen procedureregels vast, tenzij de Partijen anders beslissen.
 
@@ -191,16 +163,14 @@ Elk der Overeenkomstsluitende Partijen kan aan de andere Partij voorstellen over
 
 4. Met inachtneming van de in het tweede lid van dit artikel genoemde termijn is de Regering van het Koninkrijk der Nederlanden gerechtigd de toepassing van deze Overeenkomst ten aanzien van enig deel van het Rijk afzonderlijk te beëindigen.
 
-Bij de ondertekening van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Argentijnse Republiek inzake de bevordering en wederzijdse bescherming van investeringen hebben de ondertekenende vertegenwoordigers overeenstemming bereikt omtrent de onderstaande bepalingen die een integrerend deel van de Overeenkomst uitmaken:
-
 TEN BLIJKE WAARVAN de ondertekenende vertegenwoordigers, daartoe naar behoren gemachtigd, deze Overeenkomst hebben ondertekend.
 
 GEDAAN in tweevoud te Buenos Aires, op 20 oktober 1992 in de Nederlandse, de Engelse en de Spaanse taal, zijnde de drie teksten gelijkelijk authentiek. In geval van verschil in uitlegging is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) Y. C. T. M. VAN ROOY
 
-**Voor de Regering van de Argentijnse Republiek**
+*Voor de Regering van de Argentijnse Republiek*
 
 (w.g.) G. Dl TELLA

@@ -1,65 +1,19 @@
 ---
 title: "Verdrag aangaande de uitlevering en de rechtshulp in strafzaken tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden"
 identifier: "BWBV0001006"
-country: "nl"
-rank: "verdrag"
-publication_date: "2006-06-01"
-last_updated: "2006-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001006"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002485903"
-version_id: "10002479912"
-internal_id: "C10006992341"
-label_id: "10002476314"
-dtd_version: "2.0"
-original_entry_into_force: "1967-12-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001006/2006-06-01/0"
-intitule_bron: "Trb.1962-97"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1967-10-11"
-intitule_published: "1962-09-25"
-intitule_in_force: "1967-11-21"
-intitule_status: "goed"
-original_publication: "Trb.1962-97"
-original_signed_date: "1967-10-11"
-original_published_date: "1962-09-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1962-97"
-entry_into_force_date: "1967-12-11"
-jci_1_3: "jci1.3:c:BWBV0001006&z=2006-06-01&g=2006-06-01"
-jci_1_0: "1.0:c:BWBV0001006&g=2006-06-01"
-citeertitel_status: "redactioneel"
-signed_date: "1967-10-11"
-entry_into_force: "1967-12-11"
+publicatiedatum: 1967-12-11
+laatste_update: 2006-06-01
+status: geldig
+toestand: 2006-06-01
+bron: "https://wetten.overheid.nl/BWBV0001006"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag aangaande de uitlevering en de rechtshulp in strafzaken tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden
 
-Zijne Majesteit de Koning der Belgen,
-
-Hare Koninklijke Hoogheid de Groothertogin van Luxemburg,
-
-Hare Majesteit de Koningin der Nederlanden,
-
-Van mening, dat het gezien de nauwe band waardoor Hun landen verenigd zijn en met name ten gevolge van de afschaffing van de personencontrole aan de binnengrenzen, noodzakelijk is om de mogelijkheid tot uitlevering van misdadigers uit te breiden tot een groter aantal strafbare feiten, de daaraan verbonden formaliteiten te vereenvoudigen en rechtshulp in strafzaken op uitgebreidere schaal mogelijk te maken dan de bestaande verdragen toelaten;
-
-Uitgaande van de beginselen vervat in de Europese overeenkomsten aangaande de uitlevering en de rechtshulp in strafzaken;
-
-Hebben besloten een verdrag te sluiten tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden tot regeling van de uitlevering van misdadigers en de rechtshulp in strafzaken en hebben als Gevolmachtigde aangewezen:
-
-Zijne Majesteit de Koning der Belgen:
-
-Zijne Excellentie de Heer H. Fayat, Minister Adjunkt voor Buitenlandse Zaken;
-
-Hare Koninklijke Hoogheid de Groothertogin van Luxemburg:
-
-Zijne Excellentie de Heer N. Hommel, buitengewoon en gevolmachtigd Ambassadeur te Brussel;
-
-Hare Majesteit de Koningin der Nederlanden:
-
-Zijne Excellentie Jonkheer E. Teixeira de Mattos, buitengewoon en gevolmachtigd Ambassadeur te Brussel;
-
-Die, na elkander hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, zijn overeengekomen als volgt:
+*Zijne Majesteit de Koning der Belgen, Hare Koninklijke Hoogheid de Groothertogin van Luxemburg, Hare Majesteit de Koningin der Nederlanden, Van mening, dat het gezien de nauwe band waardoor Hun landen verenigd zijn en met name ten gevolge van de afschaffing van de personencontrole aan de binnengrenzen, noodzakelijk is om de mogelijkheid tot uitlevering van misdadigers uit te breiden tot een groter aantal strafbare feiten, de daaraan verbonden formaliteiten te vereenvoudigen en rechtshulp in strafzaken op uitgebreidere schaal mogelijk te maken dan de bestaande verdragen toelaten; Uitgaande van de beginselen vervat in de Europese overeenkomsten aangaande de uitlevering en de rechtshulp in strafzaken; Hebben besloten een verdrag te sluiten tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden tot regeling van de uitlevering van misdadigers en de rechtshulp in strafzaken en hebben als Gevolmachtigde aangewezen: Zijne Majesteit de Koning der Belgen: Zijne Excellentie de Heer H. Fayat, Minister Adjunkt voor Buitenlandse Zaken; Hare Koninklijke Hoogheid de Groothertogin van Luxemburg: Zijne Excellentie de Heer N. Hommel, buitengewoon en gevolmachtigd Ambassadeur te Brussel; Hare Majesteit de Koningin der Nederlanden: Zijne Excellentie Jonkheer E. Teixeira de Mattos, buitengewoon en gevolmachtigd Ambassadeur te Brussel; Die, na elkander hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, zijn overeengekomen als volgt:*
 
 ### HOOFDSTUK I. De uitlevering
 
@@ -79,9 +33,9 @@ De Hoge Verdragsluitende Partijen verbinden zich om, overeenkomstig de regels en
 
 2. Voor de toepassing van het onderhavige verdrag zullen niet worden beschouwd als politiek misdrijf:
 
-- a). de aanslag tegen het leven of de vrijheid van een Staatshoofd of van een lid van het regerende Huis;
+- a) de aanslag tegen het leven of de vrijheid van een Staatshoofd of van een lid van het regerende Huis;
 
-- b). de desertie.
+- b) de desertie.
 
 3. De toepassing van dit artikel heeft geen invloed op de verplichtingen, die de Hoge Verdragsluitende Partijen op zich hebben genomen of zullen nemen uit hoofde van andere internationale overeenkomsten van multilaterale aard.
 
@@ -123,11 +77,11 @@ Indien op het feit, terzake waarvan de uitlevering wordt verzocht, door de wet v
 
 2. Bij het verzoek zullen worden overgelegd:
 
-- a). het origineel of een authentiek afschrift, hetzij van een voor tenuitvoerlegging vatbare veroordeling, hetzij van een bevel tot aanhouding of van ieder andere akte, die dezelfde kracht heeft, een en ander opgemaakt in de vorm voorgeschreven door de wet van de verzoekende Partij;
+- a) het origineel of een authentiek afschrift, hetzij van een voor tenuitvoerlegging vatbare veroordeling, hetzij van een bevel tot aanhouding of van ieder andere akte, die dezelfde kracht heeft, een en ander opgemaakt in de vorm voorgeschreven door de wet van de verzoekende Partij;
 
-- b). een overzicht van de feiten, waarvoor de uitlevering wordt verzocht. De tijd en plaats, waarop de feiten zijn begaan, hun wettelijke omschrijving en de verwijzing naar de toepasselijke wetsbepalingen, zullen zo nauwkeurig mogelijk worden vermeld;
+- b) een overzicht van de feiten, waarvoor de uitlevering wordt verzocht. De tijd en plaats, waarop de feiten zijn begaan, hun wettelijke omschrijving en de verwijzing naar de toepasselijke wetsbepalingen, zullen zo nauwkeurig mogelijk worden vermeld;
 
-- c). een afschrift van de toepasselijke wetsbepalingen, alsmede een zo nauwkeurig mogelijk signalement van de verzochte persoon en alle andere inlichtingen, welke van belang zijn om zijn identiteit en nationaliteit vast te stellen.
+- c) een afschrift van de toepasselijke wetsbepalingen, alsmede een zo nauwkeurig mogelijk signalement van de verzochte persoon en alle andere inlichtingen, welke van belang zijn om zijn identiteit en nationaliteit vast te stellen.
 
 ##### Artikel 12. Aanvullende inlichtingen
 
@@ -137,11 +91,11 @@ Indien de door de verzoekende Partij verstrekte inlichtingen onvoldoende blijken
 
 1. Onverminderd het bepaalde in artikel 2, lid 2, zal de uitgeleverde persoon niet worden vervolgd, berecht of in hechtenis gesteld met het oog op de tenuitvoerlegging van een straf of maatregel, noch ook aan enige andere beperking van zijn persoonlijke vrijheid worden blootgesteld, wegens enig ander vóór de overlevering begaan feit dan dat, hetwelk de reden tot uitlevering is geweest, behalve in de volgende gevallen:
 
-- a). wanneer de Partij, die hem heeft uitgeleverd erin toestemt. Daartoe moet een verzoek worden aangeboden, vergezeld van de in artikel 11 bedoelde stukken. De toestemming zal worden gegeven indien het strafbare feit, waarvoor zij verzocht wordt, op zichzelf de verplichting tot uitlevering krachtens dit verdrag meebrengt. De toestemming kan worden gegeven indien het strafbare feit, gezien de hoogte van de daartegen bedreigde straf of maatregel deze verplichting niet meebrengt;
+- a) wanneer de Partij, die hem heeft uitgeleverd erin toestemt. Daartoe moet een verzoek worden aangeboden, vergezeld van de in artikel 11 bedoelde stukken. De toestemming zal worden gegeven indien het strafbare feit, waarvoor zij verzocht wordt, op zichzelf de verplichting tot uitlevering krachtens dit verdrag meebrengt. De toestemming kan worden gegeven indien het strafbare feit, gezien de hoogte van de daartegen bedreigde straf of maatregel deze verplichting niet meebrengt;
 
-- b). wanneer de uitgeleverde persoon, hoewel hij daartoe de mogelijkheid had, niet binnen de vijftien dagen, die op zijn definitieve invrijheidstelling volgden het grondgebied van de Partij, aan welke hij was uitgeleverd, heeft verlaten of indien hij, na dit gebied verlaten te hebben, daarin is teruggekeerd;
+- b) wanneer de uitgeleverde persoon, hoewel hij daartoe de mogelijkheid had, niet binnen de vijftien dagen, die op zijn definitieve invrijheidstelling volgden het grondgebied van de Partij, aan welke hij was uitgeleverd, heeft verlaten of indien hij, na dit gebied verlaten te hebben, daarin is teruggekeerd;
 
-- c). wanneer de uitgeleverde persoon, hetzij vóór zijn uitlevering ten overstaan van een rechterlijke autoriteit van de aangezochte Partij, hetzij na zijn uitlevering voor een rechterlijke autoriteit van de verzoekende Partij, er uitdrukkelijk in heeft toegestemd om te worden vervolgd en gestraft terzake van enig feit, welk dan ook.
+- c) wanneer de uitgeleverde persoon, hetzij vóór zijn uitlevering ten overstaan van een rechterlijke autoriteit van de aangezochte Partij, hetzij na zijn uitlevering voor een rechterlijke autoriteit van de verzoekende Partij, er uitdrukkelijk in heeft toegestemd om te worden vervolgd en gestraft terzake van enig feit, welk dan ook.
 
 2. De verzoekende Partij kan echter de nodige maatregelen nemen met het oog op een uitzetting uit zijn grondgebied of met het oog op een stuiting van de verjaring overeenkomstig haar wet, daaronder begrepen het instellen van een verstekprocedure.
 
@@ -149,7 +103,7 @@ Indien de door de verzoekende Partij verstrekte inlichtingen onvoldoende blijken
 
 ##### Artikel 14. Verderlevering aan een derde Staat
 
-1. Behoudens in de gevallen, bedoeld in lid 1, onder**b** en **c** , van artikel 13, heeft de verzoekende Partij de toestemming van de aangezochte Partij nodig om de persoon, die haar overgedragen is, en die gezocht wordt door een Staat die geen Partij is bij dit verdrag terzake van strafbare feiten gepleegd vóór de overdracht, aan die Staat uit te leveren. De aangezochte Partij zal de overlegging van de stukken, bedoeld in artikel 11, lid 2, kunnen eisen.
+1. Behoudens in de gevallen, bedoeld in lid 1, onder*b* en *c* , van artikel 13, heeft de verzoekende Partij de toestemming van de aangezochte Partij nodig om de persoon, die haar overgedragen is, en die gezocht wordt door een Staat die geen Partij is bij dit verdrag terzake van strafbare feiten gepleegd vóór de overdracht, aan die Staat uit te leveren. De aangezochte Partij zal de overlegging van de stukken, bedoeld in artikel 11, lid 2, kunnen eisen.
 
 2. Indien het gaat om een andere Hoge Verdragsluitende Partij is die toestemming niet vereist.
 
@@ -199,15 +153,15 @@ Indien de uitlevering door verschillende Staten tegelijkertijd verzocht wordt, h
 
 3. In geval de overlevering niet binnen vijf dagen na deze aanhouding heeft plaatsgevonden zullen de rechterlijke autoriteiten van de aangezochte Partij de rechterlijke autoriteiten van de verzoekende Partij daarvan in kennis stellen en hen, indien daartoe aanleiding bestaat, uitnodigen verder te handelen overeenkomstig de bepalingen van artikel 11.
 
-4. De overlevering brengt voor de betrokkene de gevolgen mede welke zijn verbonden aan de verklaring bedoeld in artikel 13, lid 1, onder **c.**
+4. De overlevering brengt voor de betrokkene de gevolgen mede welke zijn verbonden aan de verklaring bedoeld in artikel 13, lid 1, onder *c.*
 
 ##### Artikel 20. Overdracht van voorwerpen
 
 1. Op verzoek van de verzoekende Partij zal de aangezochte Partij, voor zover zulks krachtens haar wetgeving is toegestaan, de voorwerpen in beslag nemen:
 
-- a). die kunnen dienen als stukken van overtuiging;
+- a) die kunnen dienen als stukken van overtuiging;
 
-- b). die afkomstig zijn van het strafbare feit en hetzij vóór, hetzij na de overlevering van de aangehouden persoon worden gevonden;
+- b) die afkomstig zijn van het strafbare feit en hetzij vóór, hetzij na de overlevering van de aangehouden persoon worden gevonden;
 
 en deze overdragen.
 
@@ -219,13 +173,13 @@ en deze overdragen.
 
 1. De doortocht door het grondgebied van een van de Verdragsluitende Partijen zal, op een verzoek gedaan volgens de in artikel 11, lid 1 bedoelde weg, worden toegestaan op voorwaarde dat het niet gaat om een strafbaar feit dat door de Partij, aan wie toestemming tot doortocht wordt verzocht, wordt beschouwd van politieke aard te zijn, noch om een onderdaan van het land, waaraan toestemming tot doortocht wordt verzocht.
 
-2. Onverminderd het bepaalde in lid 3 van dit artikel is overlegging van de stukken bedoeld in artikel 11, lid 2 onder **a,** noodzakelijk.
+2. Onverminderd het bepaalde in lid 3 van dit artikel is overlegging van de stukken bedoeld in artikel 11, lid 2 onder *a,* noodzakelijk.
 
 3. Wanneer het transport door de lucht plaatsvindt, zullen de volgende regels toepassing vinden:
 
-- a). Wanneer geen landing is voorzien, zal de verzoekende Partij de Partij over wier grondgebied zal worden gevlogen daarvan kennis geven en berichten dat een van de stukken bedoeld in artikel 11, lid 2, onder **a)** bestaat. In geval van een onvoorziene landing zal deze kennisgeving de rechtskracht hebben van het verzoek om voorlopige aanhouding, bedoeld in artikel 15, en zal de verzoekende Partij een normaal verzoek tot doortocht indienen;
+- a) Wanneer geen landing is voorzien, zal de verzoekende Partij de Partij over wier grondgebied zal worden gevlogen daarvan kennis geven en berichten dat een van de stukken bedoeld in artikel 11, lid 2, onder *a)* bestaat. In geval van een onvoorziene landing zal deze kennisgeving de rechtskracht hebben van het verzoek om voorlopige aanhouding, bedoeld in artikel 15, en zal de verzoekende Partij een normaal verzoek tot doortocht indienen;
 
-- b). Wanneer een landing is voorzien zal de verzoekende Partij een normaal verzoek tot doortocht indienen.
+- b) Wanneer een landing is voorzien zal de verzoekende Partij een normaal verzoek tot doortocht indienen.
 
 ### HOOFDSTUK II. De rechtshulp in strafzaken
 
@@ -237,9 +191,9 @@ en deze overdragen.
 
 2. De rechtshulp kan worden geweigerd:
 
-- a). indien het verzoek betrekking heeft op strafbare feiten die door de aangezochte Partij als een politiek misdrijf of een met een dergelijk misdrijf samenhangend feit worden beschouwd;
+- a) indien het verzoek betrekking heeft op strafbare feiten die door de aangezochte Partij als een politiek misdrijf of een met een dergelijk misdrijf samenhangend feit worden beschouwd;
 
-- b). indien de aangezochte Partij van mening is dat uitvoering van het verzoek zou kunnen leiden tot een aantasting van de veiligheid, de openbare orde of andere wezenlijke belangen van haar land of indien de betrokken persoon voor dezelfde feiten reeds vervolgd wordt danwel ter zake van die feiten reeds onherroepelijk is berecht.
+- b) indien de aangezochte Partij van mening is dat uitvoering van het verzoek zou kunnen leiden tot een aantasting van de veiligheid, de openbare orde of andere wezenlijke belangen van haar land of indien de betrokken persoon voor dezelfde feiten reeds vervolgd wordt danwel ter zake van die feiten reeds onherroepelijk is berecht.
 
 #### § 2. Rogatoire commissies
 
@@ -285,7 +239,7 @@ De aangezochte Partij zal de verzoekende Partij, indien zij daarom uitdrukkelijk
 
 ##### Artikel 27
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 28
 
@@ -369,13 +323,13 @@ De getuige die zonder geldige reden niet voldoet aan de verplichtingen welke op 
 
 1. Voor zover in dit hoofdstuk niet anders wordt bepaald zullen verzoeken tot rechtshulp de volgende gegevens moeten bevatten:
 
-- a). de autoriteit waarvan het verzoek uitgaat;
+- a) de autoriteit waarvan het verzoek uitgaat;
 
-- b). het onderwerp van en de grond voor het verzoek;
+- b) het onderwerp van en de grond voor het verzoek;
 
-- c). voor zover mogelijk de identiteit en de nationaliteit van de betrokken persoon;
+- c) voor zover mogelijk de identiteit en de nationaliteit van de betrokken persoon;
 
-- d). zo nodig, de naam en het adres van degene voor wie het bestemd is.
+- d) zo nodig, de naam en het adres van degene voor wie het bestemd is.
 
 2. De rogatoire commissies bedoeld in de artikelen 23, 24 en 25 dienen bovendien de tenlastelegging te vermelden en dienen een kort overzicht van de feiten te bevatten.
 
@@ -456,282 +410,6 @@ Voor de toepassing van dit verdrag betekent de uitdrukking „maatregelen" alle 
 ##### Artikel 50
 
 Voor zover de betrokken Partijen niet anders verklaren vervallen de verdragen en overeenkomsten betreffende de uitlevering, welke tussen bedoelde Partijen van kracht zijn, bij de inwerkingtreding van dit verdrag.
-
-Op het tijdstip van de ondertekening van het Verdrag aangaande de uitlevering en de rechtshulp in strafzaken tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden zijn de ondergetekende Gevolmachtigden het volgende overeengekomen:
-
-##### Artikel 1
-
-Wanneer ambtenaren van een Verdragsluitende Partij, die bevoegd zijn tot het opsporen en constateren van strafbare feiten, onder de omstandigheden voorzien door het onderhavige verdrag of door enige andere Beneluxovereenkomst, optreden op het grondgebied van een andere Verdragsluitende Partij, zijn die ambtenaren overeenkomstig de wetgeving van laatstbedoelde Partij aansprakelijk voor schade die zij aldaar veroorzaken.
-
-##### Artikel 2
-
-De autoriteiten van de Partij, waartoe die ambtenaren behoren, nemen op zich de schade, door hun ambtenaren op het grondgebied van een andere Partij veroorzaakt, te vergoeden op de wijze waarop de autoriteiten van laatstbedoelde Partij daartoe gehouden zouden zijn geweest, indien de schade door hun eigen ambtenaren zou zijn toegebracht.
-
-##### Artikel 3
-
-De Verdragsluitende Partijen erkennen de rechtsmacht van de rechter van het land waar de schade is veroorzaakt.
-
-##### Artikel 4
-
-De autoriteiten van de Partij, waartoe die ambtenaren behoren, zullen vrijwillig en zonder dat daartoe enige formaliteit vereist is, gevolg geven aan voor tenuitvoerlegging vatbare beslissingen, welke tegen hen overeenkomstig het in de artikelen 1, 2 en 3 bepaalde, zijn gewezen.
-
-##### Artikel 5
-
-Onder voorbehoud van de uitoefening van zijn rechten tegenover derden, ziet elk van de Verdragsluitende Staten er, in het geval bedoeld in artikel 1, van af het bedrag van de schade, welke hij heeft geleden, of van de schadeloosstellingen, welke hij aan zijn ambtenaren heeft betaald, op een andere Verdragsluitende Partij te verhalen.
-
-**Algemeen**
-
-De uitlevering tussen de drie landen wordt thans beheerst door de volgende overeenkomsten: tussen België en het Groothertogdom Luxemburg door de overeenkomst van 23 oktober 1872, en de aanvullende verklaringen van 21 juni 1877, 25 april 1893, 16 november 1899 en 24 augustus 1926; tussen België en Nederland door de overeenkomst van 31 mei 1889 en de aanvullende overeenkomsten van 14 februari 1895 en 12 november 1927; tussen het Groothertogdom Luxemburg en Nederland door de overeenkomst van 10 maart 1893.
-
-Deze overeenkomsten zijn alle opgezet volgens het klassieke systeem, waarbij een beperkt aantal ernstige misdrijven, waarvoor uitlevering wordt toegestaan, limitatief wordt opgesomd. De verzoeken tot uitlevering vinden plaats langs de diplomatieke weg. De rechtshulp in strafzaken vindt in deze overeenkomsten slechts in zeer beperkte mate regeling.
-
-Het was duidelijk dat de bestaande overeenkomsten niet meer beantwoordden aan de eisen die de tussen de Beneluxlanden bestaande betrekkingen stelden. Dit tekort zou nog verergeren wanneer deze betrekkingen door het tot stand brengen van de Economische en de Douane Unie frequenter en meer intensief zouden worden. De keuze die de Benelux-studiecommissie tot eenmaking van het recht maakte door dit onderwerp als een van de eerste in behandeling te nemen was dan ook ten volle gerechtvaardigd. In oktober 1952 bood de commissie aan de drie Regeringen enkele ontwerpen voor een uitleveringsverdrag aan.
-
-Nog vóór de commissie haar ontwerpen aan de Regeringen aanbood was de herziening van het uitleveringsrecht in het kader van de Raad van Europa aan de orde gesteld. Op 8 december 1951 aanvaardde de Raadgevende Vergadering een aanbeveling tot het opstellen van een Europees uitleveringsverdrag. In 1953 werd een werkgroep van deskundigen ingesteld, waarvan de werkzaamheden leidden tot het Europese uitleveringsverdrag van 13 december 1957.
-
-Dit verdrag regelde niet de rechtshulp in strafzaken. Algemeen was men van oordeel dat dit onderwerp zozeer in belang was toegenomen dat er niet meer mee kon worden volstaan het in een enkele aan een uitleveringsovereenkomst toegevoegde bepaling te regelen, doch dat het aanbeveling verdiende dit onderwerp meer diepgaand te doen bestuderen en terzake een aparte overeenkomst op te stellen. Onmiddellijk na de beëindiging van de werkzaamheden aan het Europese uitleveringsverdrag werd met de voorbereiding van een Europees verdrag aangaande de rechtshulp in strafzaken begonnen en op 20 april 1959 kwam een overeenkomst terzake tot stand.
-
-De ontwerpen van de Benelux-studiecommissie zijn voor de vertegenwoordigers van de Beneluxlanden die deel hebben genomen aan de voorbereiding van de Europese conventies een belangrijke steun en een bron van inspiratie geweest. De werkzaamheden van de Benelux-studiecommissie hebben ongetwijfeld een belangrijke bijdrage geleverd tot de totstandkoming van de Europese overeenkomsten.
-
-Gezien de totstandkoming van de Europese overeenkomsten en het voornemen van de Beneluxlanden deze te bekrachtigen, is de vraag gerezen of er nog aanleiding bestond voor de Beneluxlanden onderling verdergaande voorzieningen te treffen.
-
-De drie Regeringen hebben deze vraag bevestigend beantwoord. De betrekkingen tussen de Beneluxlanden onderling zijn nauwer dan die, welke in het algemeen tussen de landen aangesloten bij de Raad van Europa bestaan. Bovendien veronderstelt de ontwerp-overeenkomst betreffende de verschuiving van de personencontrole naar de buitengrenzen van het Beneluxgebied, een doelmatiger samenwerking op het gebied van de uitlevering en rechtshulp. De opheffing van de controle aan de binnengrenzen heeft immers tot gevolg, dat personen zich gemakkelijker aan opsporing, berechting en executie van een hen opgelegde straf kunnen onttrekken door in een der andere Beneluxlanden hun toevlucht te zoeken. Ook zal de aanhouding van door een der Beneluxlanden gezochte personen aan de buitengrens van een ander Beneluxland kunnen plaatsvinden.
-
-Zowel uit een oogpunt van doelmatigheid van de bestrijding van de misdaad als uit een oogpunt van Europese solidariteit is het vereist bij deze samenwerking in Beneluxverband zoveel mogelijk aansluiting te zoeken bij de regeling, welke multilateraal in Europees verband is getroffen.
-
-Daarom hebben de drie Regeringen een verdrag ontworpen, hetwelk naar systematiek, vorm en woordkeuze de Europese overeenkomsten zoveel mogelijk volgt, doch dat op sommige punten een verdergaande bijstand voorziet.
-
-Het eerste hoofdstuk van het onderhavige ontwerp heeft betrekking op de uitlevering, het tweede op de rechtshulp in strafzaken, terwijl het derde algemene bepalingen bevat.
-
-In verband met de samenhang, welke tussen de uitlevering en de rechtshulp in strafzaken bestaat, hebben de Regeringen het wenselijk geoordeeld deze twee onderwerpen in één verdrag te regelen.
-
-Welke zijn nu de voornaamste kenmerken van de regeling welke het ontwerp aangaande de uitlevering bevat?
-
-Evenals in de Europese uitleveringsovereenkomst wordt uitlevering mogelijk gemaakt door de feiten, die in het aanvragende en angezochte land strafbaar zijn en waarvan het maximum van de bedreigde straf een bepaalde hoogte overschrijdt. In de Europese overeenkomst is dit strafmaximum op ten minste één jaar gesteld; in het Beneluxverdrag zal uitlevering mogelijk zijn wanneer het maximum van de vrijheidsstraf ten minste zes maanden bedraagt. Indien de uitlevering wordt gevraagd wegens een feit, waarvoor reeds een veroordeling is uitgesproken, zal de uitlevering slechts worden toegestaan indien ter zake een vrijheidsstraf van ten minste drie maanden is opgelegd. In de Europese overeenkomst bedraagt deze termijn vier maanden.
-
-In tegenstelling tot de in de Europese overeenkomst getroffen regeling zal de uitlevering ook betrekking kunnen hebben op feiten voorzien in de militaire strafwetgeving. Op fiscaal gebied zal slechts uitgeleverd kunnen worden voor zover de Regeringen dit, hetzij met betrekking tot bepaalde delicten, hetzij met betrekking tot categorieën delicten, nader overeen zullen komen. Ten aanzien van politieke misdrijven zal uitlevering in het onderhavige verdrag, evenals in de Europese overeenkomst, zijn uitgesloten.
-
-Ook voor feiten, die in het aangezochte land zijn begaan, wordt uitlevering mogelijk gemaakt. Onder bepaalde omstandigheden zal afwijking van het specialiteitsbeginsel geoorloofd zijn. De uitlevering van eigen onderdanen blijft uitgesloten.
-
-Het verzoek tot uitlevering zal niet meer plaatsvinden langs de diplomatieke weg, maar van Minister van Justitie tot Minister van Justitie worden gericht.
-
-De justitiële autoriteit, die een verzoek tot voorlopige aanhouding richt tot de justitiële autoriteit van een ander land, kan daarbij verzoeken de aan te houden persoon onmiddellijk aan haar over te geven. Indien zowel het Openbaar Ministerie van het aangezochte land als de aangehouden persoon daarmede instemt kan laatstgenoemde zonder verdere formaliteiten naar het aanvragende land worden overgebracht.
-
-De voornaamste kenmerken van de regeling aangaande de rechtshulp in strafzaken kunnen als volgt worden samengevat:
-
-de partijen verplichten zich elkaar op strafrechtelijk gebied onderling in de meest ruime zin bijstand te verlenen. Deze bijstand kan onder meer betrekking hebben op het horen van getuigen en deskundigen, het doen betekenen van stukken en het verstrekken van inlichtingen. De bijstand zal ook verleend worden indien het strafzaken betreft tegen onderdanen van de aangezochte Staat en indien het feiten betreft, die in de aangezochte Staat niet strafbaar zijn;
-
-verzoeken tot het verlenen van rechtshulp zullen in het algemeen rechtstreeks door de justitiële autoriteiten tot elkaar worden gericht;
-
-de justitiële autoriteiten zullen in bepaalde gevallen ambtenaren kunnen afvaardigen om het opsporingsonderzoek op het grondgebied van een ander land bij te wonen;
-
-de ambtenaren van een land zullen, wanneer zij een persoon die verdacht wordt van een feit, waarvoor uitlevering kan worden toegestaan, achtervolgen, de achtervolging op het grondgebied van een ander Beneluxland mogen voortzetten en aan de ambtenaren van dat andere land kunnen verzoeken de betrokkene te arresteren. Indien een beroep op de ambtenaren van dat land niet mogelijk is, zullen zij de achtervolgde in de grensstrook zelf mogen aanhouden en hem naar de bevoegde autoriteit van het land, waar de aanhouding plaatsvond, mogen geleiden;
-
-de ambtenaren, die zich in verband met het onder c) en d) gestelde in een ander land bevinden, zullen met betrekking tot tegen of door hen gepleegde strafbare feiten gelijkgesteld zijn met de ambtenaren van het land waar zij zich bevinden;
-
-personen, die als getuigen in een ander Beneluxland zijn gedagvaard, zullen verplicht zijn aldaar te verschijnen. Indien zij in gebreke blijven aan hun verplichtingen te voldoen zullen zij in het aangezochte land strafbaar zijn als waren zij in gebreke gebleven in dat land aan een verplichting als getuige te voldoen.
-
-Het verdrag zal in beginsel slechts gelden voor het Europese grondgebied van de Beneluxlanden. Desgewenst zal het ook tot andere delen van het grondgebied van het Koninkrijk der Nederlanden kunnen worden uitgebreid. In dat geval zal van sommige bepalingen van het verdrag kunnen worden afgeweken.
-
-**Toelichting op de artikelen**
-
-De Regeringen hebben getracht in beginsel aansluiting te zoeken bij de Europese overeenkomsten aangaande de uitlevering en de rechtshulp in strafzaken. De hierna volgende artikelsgewijze toelichting beperkt zich dan ook in het algemeen tot de bepalingen waarin tussen de Beneluxlanden een verdergaande samenwerking wordt voorzien.
-
-##### Artikel 2
-
-Tussen de Beneluxlanden zal uitlevering plaatsvinden voor feiten waartegen een vrijheidsstraf van ten minste zes maanden dan wel een zwaardere straf wordt bedreigd. Wanneer reeds een straf of maatregel is opgelegd kan de uitlevering slechts worden toegestaan indien de duur van die straf of maatregel ten minste drie maanden bedraagt. Wat onder een maatregel moet worden verstaan is in artikel 47 nader omschreven.
-
-Het tweede lid opent de mogelijkheid om de uitlevering ook toe te staan met betrekking tot delicten, die niet voldoen aan de eis aangaande de hoogte van de daartegen bedreigde of uitgesproken straf, mits een van de feiten waarvoor de uitlevering wordt toegestaan wel aan die eis voldoet. Hierdoor wordt de rechter van het aanvragende land in de gelegenheid gesteld te gelegener tijd over al de feiten, waarvan de uitgeleverde wordt beschuldigd, te oordelen en heeft deze het voordeel dat al deze feiten in één vonnis kunnen worden afgedaan.
-
-##### Artikel 3
-
-Evenals in de Europese overeenkomst, zal uitlevering wegens politieke misdrijven uitgesloten zijn. De militaire desertie zal nimmer als politiek delict worden beschouwd. Met betrekking tot andere feiten voorzien in de militaire strafwetgeving zal naar omstandigheden moeten worden beoordeeld of deze in het concrete geval al dan niet een politiek karakter dragen.
-
-In het onderhavige verdrag is niet overgenomen de bepaling uit de Europese overeenkomst, die de mogelijkheid opent uitlevering te weigeren, indien de aangezochte partij ernstige reden heeft om te veronderstellen dat een persoon vanwege zijn ras, godsdienst, nationaliteit of politieke overtuiging vervolgd of ernstiger gestraft zou worden. In Beneluxverband bestaat voor het treffen van een dergelijke voorziening geen aanleiding.
-
-Het derde lid stelt buiten twijfel dat het onderhavige artikel geen inbreuk maakt op internationale multilaterale overeenkomsten, welke bepalingen bevatten aangaande de uitlevering ter zake van feiten die eventueel als politiek misdrijf zouden kunnen worden beschouwd. Gedacht kan onder meer worden aan de Genocideconventie en de Geneefse Rode Kruis-conventies.
-
-##### Artikel 4
-
-Krachtens dit artikel kunnen de daarin vermelde feiten hetzij per afzonderlijk delict, hetzij per categorie van delicten door middel van een aanvullende overeenkomst tussen de Regeringen onder de werking van het verdrag worden gebracht. De wenselijkheid dergelijke overeenkomsten te sluiten zal zich vooral voordoen wanneer de wetgevingen van de drie landen op een bepaald terrein voldoende aan elkaar zijn aangepast.
-
-##### Artikel 5
-
-Aangezien de Beneluxlanden niet voornemens zijn hun onderdanen uit te leveren, sluit het onderhavige artikel dit uitdrukkelijk uit.
-
-Artikel 42 bevat een aanknopingspunt voor het doen instellen van een strafvervolging tegen de onderdaan die door het land waartoe hij behoort niet kan worden uitgeleverd.
-
-##### Artikel 6
-
-Krachtens dit artikel kan ook uitlevering worden toegestaan voor feiten, die op het grondgebied van het aangezochte land of op daarmede gelijkgestelde plaatsen, zoals schepen en vliegtuigen, die de vlag van dat land voeren, zijn gepleegd. Het aangezochte land behoudt echter de mogelijkheid in dergelijke gevallen de uitlevering te weigeren.
-
-##### Artikel 9
-
-De strekking van deze bepaling komt overeen met die van artikel 10 van de Europese overeenkomst. Gezien de tussen de Beneluxlanden bestaande verhoudingen lijkt het overbodig uitdrukkelijk te vermelden, dat de uitlevering niet zal worden toegestaan, indien de verjaring volgens het recht van het aanvragende land heeft plaatsgehad. Het spreekt immers vanzelf, dat dat land in een dergelijk geval geen verzoek om uitlevering zal indienen.
-
-##### Artikel 10
-
-Dit artikel is zakelijk gelijk aan de inhoud van artikel 11 van de Europese overeenkomst. De redactie is echter iets meer aangepast aan de staatsrechtelijke verhoudingen in de Beneluxlanden.
-
-##### Artikel 11
-
-De uitleveringsverzoeken tussen de Beneluxlanden zullen niet via de diplomatieke weg worden gedaan, doch zullen door de Minister van Justitie van het aanvragende land tot de Minister van Justitie van het aangezochte land worden gericht.
-
-##### Artikel 12
-
-De in dit artikel bedoelde aanvullende inlichtingen kunnen zowel betrekking hebben op de feiten zelve, waarvoor de uitlevering wordt gevraagd, als op het toepasselijke recht. Deze aanvullende inlichtingen zullen rechtstreeks door de justitiële autoriteiten van het aangezochte land aan de justitiële autoriteiten van het aanvragende land kunnen worden gevraagd.
-
-##### Artikel 13
-
-Van het beginsel dat een persoon in het aanvragende land slechts kan worden lastig gevallen voor een feit waarvoor zijn uitlevering is verkregen, het zgn. specialiteitsbeginsel, kan op grond van het onderhavige artikel in drie gevallen worden afgeweken:
-
-- a). indien het land dat de uitlevering toestond ermee instemt;
-
-- b). indien de uitgeleverde het aanvragende land niet binnen vijftien dagen na zijn definitieve vrijlating heeft verlaten;
-
-- c). indien de uitgeleverde, hetzij voor een rechterlijke autoriteit van het aangezochte land, hetzij voor een rechterlijke autoriteit van het aanvragende land uitdrukkelijk van het specialiteitsbeginsel afstand doet.
-
-De onder c) omschreven afwijking van het specialiteitsbeginsel komt niet voor in de Europese overeenkomst.
-
-Het tweede lid van het onderhavige artikel bepaalt dat het aanvragende land bevoegd is de nodige maatregelen te nemen om de uitgeleverde na zijn vrijlating van zijn grondgebied te verwijderen. Het spreekt vanzelf dat die maatregelen eventueel met vrijheidsbeneming gepaard kunnen gaan.
-
-Het specialiteitsbeginsel verzet er zich op grond van het bepaalde in het derde lid niet tegen dat de kwalificatie, welke bij het verzoek om uitlevering aan een feit werd gegeven, tijdens de berechting verandering ondergaat, mits het feit ook onder deze nieuwe kwalificatie tot de feiten waarvoor uitlevering kan worden toegestaan, blijft behoren.
-
-##### Artikel 14
-
-Een persoon, die op grond van het onderhavige verdrag is uitgeleverd, zal slechts met toestemming van het aangezochte land verder mogen worden geleverd aan een Staat, die geen partij is bij het onderhavige verdrag, voor feiten die hij vóór zijn eerste uitlevering heeft bedreven. Deze toestemming is niet vereist in de in het vorige artikel onder b) en c) bedoelde gevallen. Ook is de toestemming niet vereist voor verderlevering aan een ander Beneluxland.
-
-##### Artikel 15
-
-Op grond van dit artikel kunnen rechterlijke autoriteiten van een land aan de rechterlijke autoriteiten van een ander land met het oog op een uitlevering de voorlopige aanhouding van een persoon verzoeken. Het verzoek kan slechts worden gedaan met betrekking tot een feit, waarvoor uitlevering mogelijk is. De autoriteiten van het aanvragende land zullen krachtens hun nationale wetgeving bevoegd moeten zijn de aanhouding te gelasten.
-
-De verzoeken zullen door rechterlijke autoriteiten van de aanvragende staat hetzij rechtstreeks, hetzij via Interpol tot de rechterlijke autoriteiten van de aangezochte Staat worden gericht.
-
-Indien de autoriteiten van de aangezochte Staat van oordeel zijn dat het verzoek bevoegdelijk door een bevoegde autoriteit van de aanvragende Staat is gedaan, zullen zij op dat verzoek overeenkomstig hun eigen wetgeving beslissen.
-
-Een voorlopige aanhouding zal in ieder geval een eind nemen indien niet binnen een termijn van achttien dagen een verzoek om uitlevering met de daarbij behorende stukken is ontvangen.
-
-##### Artikel 16
-
-Dit artikel heeft zowel betrekking op het geval dat de uitlevering gelijktijdig door twee Beneluxlanden wordt gevraagd als op het geval dat de uitlevering zowel door een of meer Beneluxlanden als door andere Staten is verzocht.
-
-##### Artikel 18
-
-Het eerste lid van dit artikel geeft aan het gezochte land de bevoegdheid de overgave van een persoon, wiens uitlevering het heeft toegestaan, uit te stellen totdat de betrokkene, in verband met andere feiten, is berecht en een eventuele straf heeft ondergaan.
-
-Het tweede lid voorziet de mogelijkheid, een persoon, die een vrijheidsstraf ondergaat, tijdelijk ter beschikking te stellen van de aanvragende partij om zijn berechting mogelijk te maken. De betrokkene blijft in dat geval op het grondgebied van de aanvragende partij gedetineerd. De duur van deze detentie zal op grond van het derde lid in mindering komen van de straf, die hij in de aangezochte Staat ondergaat.
-
-##### Artikel 19
-
-Het onderhavige artikel opent de mogelijkheid tot een verkorte uitleveringsprocedure, die niet voorzien is in de Europese overeenkomst. Deze procedure zal kunnen worden gevolgd wanneer het aanvragende land dit verzoekt en zowel de persoon wiens uitlevering wordt gevraagd als het openbaar ministerie van het aangezochte land daarmede instemmen. De betrokkene zal zijn instemming uitdrukkelijk aan de bevoegde ambtenaar van het openbaar ministerie van het aangezochte land moeten kenbaar maken. Tot het moment van zijn overgave zal de betrokkene zijn toestemming kunnen intrekken.
-
-Het verzoek tot de onmiddellijke overgave in dit artikel bedoeld, wordt door de rechterlijke autoriteiten van het aanvragende land rechtstreeks gericht tot de rechterlijke autoriteiten van het aangezochte land.
-
-De instemming van de betrokkene met uitlevering op grond van dit artikel sluit in, dat hij afstand doet van zijn rechten, ontleend aan het specialiteitsbeginsel.
-
-##### Artikel 20
-
-De Verdragsluitende Partijen zullen gehouden zijn binnen de door hun wetgeving toegestane grenzen overtuigingsstukken en voorwerpen, die van het strafbare feit afkomstig zijn, in beslag te nemen en deze, voor zover de bevoegde rechter van de aangezochte partij dit toestaat, aan het aanvragende land over te geven.
-
-Overeenkomstig de voorschriften opgenomen in de Belgische en Luxemburgse wetgeving zal de overgave van in beslag genomen voorwerpen slechts plaats kunnen vinden nadat de rechter van het aangezochte land daartoe toestemming heeft verleend.
-
-De overgave zal zelfs kunnen plaatsvinden in geval een reeds toegestane uitlevering niet kan worden geëffectueerd door de dood of de ontvluchting van de betrokkene.
-
-##### Artikel 21
-
-De doorvoer van een uitgeleverde door een der Beneluxlanden zal op verzoek van de Minister van Justitie van het betrokken land gericht tot de Minister van Justitie van het land van doorvoer worden toegestaan, tenzij de uitlevering plaatsvindt voor een politiek delict of de uitgeleverde de nationaliteit van het land van doorvoer bezit. Bij het verzoek om doorvoer zullen de stukken, bedoeld in punt a. van het tweede lid van artikel 11, moeten worden overgelegd.
-
-Het onderhavige artikel is zowel van toepassing op doorvoer vanuit een Beneluxland naar een ander Beneluxland als op doorvoer vanuit een Beneluxland naar een andere Staat of vanuit een andere Staat naar een Beneluxland.
-
-Het derde lid voorziet in een eenvoudiger regeling in geval de doorvoer per vliegtuig plaatsvindt.
-
-##### Artikel 22
-
-De inhoud van dit artikel komt in grote trekken overeen met de inhoud van de artikelen 1 en 2 van de Europese overeenkomst aangaande de rechtshulp in strafzaken. De bepaling is echter in zoverre ruimer, dat daarin geen beperkingen m.b.t. militaire en fiscale zaken zijn opgenomen.
-
-De rechtshulp zal ook worden verleend, indien het betreft strafzaken tegen eigen onderdanen en strafzaken, die betrekking hebben op feiten welke in het aangezochte land niet strafbaar zijn gesteld.
-
-Het artikel moet in ruime zin worden uitgelegd. Het heeft niet alleen betrekking op de rechtshulp, die in dit hoofdstuk uitdrukkelijk wordt vermeld, doch ook op bijv. rechtshulp bij een procedure tot gratie of revisie.
-
-De rechtshulp kan worden geweigerd in geval van politieke misdrijven en in andere gevallen waar de veiligheid, de openbare orde of andere wezenlijke belangen van de aangezochte Staat zouden worden aangetast; tevens kan de rechtshulp worden geweigerd wanneer de betrokkene terzake van het feit waarvoor de rechtshulp wordt gevraagd reeds wordt vervolgd of is berecht.
-
-##### Artikel 23
-
-Onder „rogatoire commissie" in de zin van dit artikel moet worden verstaan een mandaat dat door een rechterlijke autoriteit van het ene land aan een rechterlijke autoriteit van het andere land wordt gegeven, ten einde in haar plaats een of meer in dat mandaat aangegeven handelingen te verrichten. De term „handelingen van onderzoek" omvat onder andere het horen van getuigen, deskundigen en verdachten, een onderzoek ter plaatse, huiszoekingen en inbeslagnemingen. Onder „strafzaak" zal moeten worden verstaan elke zaak met betrekking tot welke op grond van artikel 22 rechtshulp kan worden verleend.
-
-##### Artikel 24
-
-Dit artikel stelt de rogatoire commissie uitgaande van de rechterlijke autoriteiten van een van de Partijen, voor wat betreft hun uitvoering, gelijk met die uitgaande van een nationale rechter.
-
-Deze gelijkstelling brengt mede dat wordt afgeweken van artikel 11 van de Belgische wet van 25 maart 1874 aangaande uitlevering in die zin dat de voorafgaande toestemming van de Raadkamer niet vereist is om over te gaan tot inbeslagneming of huiszoeking.
-
-De rogatoire commissies, welke strekken tot een inbeslagneming of een huiszoeking, zullen echter slechts worden uitgevoerd indien zij betrekking hebben op feiten, welke op grond van het onderhavige verdrag op zichzelf tot uitlevering aanleiding kunnen geven. In beslag genomen voorwerpen kunnen slechts met toestemming van de bevoegde rechter van het aangezochte land aan het aanvragende land worden overgedragen. Het tweede lid van artikel 20 is terzake toepasselijk.
-
-Aan de aanvragende Staat overgedragen voorwerpen zullen op grond van artikel 29 moeten worden teruggezonden, tenzij de aangezochte Staat daarvan afstand doet.
-
-##### Artikel 26
-
-Indien op het grondgebied van een Beneluxland op verzoek en ten behoeve van de justitiële autoriteiten van een ander Beneluxland een strafrechterlijk onderzoek wordt ingesteld, zullen de justitiële autoriteiten van het aanvragende land bevoegd zijn een of meer ambtenaren af te vaardigen, ten einde aan dit onderzoek mede te werken. Deze ambtenaren zullen bij dit onderzoek een adviserende rol hebben. Het onderzoek zal worden uitgevoerd door de autoriteiten van het aangezochte land.
-
-Soortgelijke bepalingen zijn opgenomen in artikel 4 van het Benelux-verdrag nopens de samenwerking op het stuk van douanen en van accijnzen en in artikel 13 van het ontwerp-verdrag betreffende de samenwerking inzake regeling van in-, uit- en doorvoer.
-
-##### Artikel 27
-
-De ambtenaren van een land, die in hun eigen land een persoon volgen, die verdacht wordt van een feit, waarvoor uitlevering kan worden toegestaan, zijn bevoegd deze achtervolging op het grondgebied van een ander Beneluxland voort te zetten. Zij moeten zich dan zo spoedig mogelijk in verbinding stellen met de bevoegde ambtenaren van het land, dat zij hebben betreden. Deze laatsten zullen de achtervolgde persoon staande houden om zijn identiteit vast te stellen en hem eventueel arresteren. Indien blijkt dat degene die staande is gehouden geen onderdaan is van het land waar hij zich bevindt, zullen de justitiële autoriteiten van het land waartoe de achtervolgende ambtenaar behoort een verzoek tot voorlopige aanhouding, als bedoeld in artikel 15, kunnen doen. Ook zullen zij alsdan om toepassing van de verkorte uitleveringsprocedure, bedoeld in artikel 19, kunnen verzoeken.
-
-Indien de achtervolging ononderbroken is en het voor de achtervolgende ambtenaar niet mogelijk is een beroep te doen op de ambtenaren van het land dat zij hebben betreden, kunnen zij de achtervolgde in een strook van 10 km langs de grens zelf staande houden. In dat geval moeten zij de achtervolgde persoon overgeven aan de openbare macht van het land waar zij zich bevinden en wordt verder gehandeld als in het eerste lid van het onderhavige artikel is vermeld.
-
-De bepalingen vervat in artikel 26 zijn met betrekking tot de achtervolgende ambtenaren van toepassing, zelfs indien zij niet in het bezit zijn van een rogatoire commissie als bedoeld in dat artikel.
-
-Het vierde lid van het artikel geeft aan welke de bevoegde ambtenaren zijn.
-
-Overeenkomstige bepalingen komen voor in de twee bij de toelichting op artikel 26 vermelde Benelux-overeenkomsten.
-
-##### Artikel 28
-
-Indien ambtenaren, bedoeld in de artikelen 26 en 27, optreden op het grondgebied van een ander land, zijn zij krachtens dit artikel voor wat betreft strafbare feiten die tegen hen of door hen worden bedreven, gelijkgesteld met de ambtenaren van het land waar zij zich bevinden. Zij genieten derhalve op het grondgebied van dat andere land bij de uitoefening van hun functie dezelfde bescherming als de ambtenaren van dat land genieten. Voor strafbare feiten door hen op het grondgebied van een ander land bedreven, kunnen zij door dat land berecht worden alsof die feiten door zijn eigen ambtenaren waren begaan. Tijdens hun optreden in een ander land moeten de ambtenaren zich gedragen overeenkomstig de in dat land geldende voorschriften. De toepasselijkheid van het strafrecht van dat land sluit ook de toepasselijkheid in van de bepalingen, welke in die strafwetgeving voorkomen met betrekking tot de noodweer.
-
-Overeenkomstige bepalingen komen voor in de twee eerder vermelde Benelux-overeenkomsten.
-
-Artikel 28 van het onderhavige verdrag regelt niet de civielrechterlijke aansprakelijkheid voor tegen of door deze ambtenaren gepleegde handelingen. Dienaangaande is door de drie Regeringen een aanvullend protocol ontworpen.
-
-##### Artikel 30
-
-Gerechtelijke stukken bestemd voor een persoon die in een ander land verblijft, kunnen door de autoriteiten of deurwaarders van wie zij uitgaan rechtstreeks per aangetekend schrijven aan de betrokkene worden toegezonden. Ook kunnen deze autoriteiten en deurwaarders voor de toezending de tussenkomst inroepen van het openbaar ministerie van het land waar de geadresseerde verblijf houdt. Indien de bemiddeling van dat openbaar ministerie wordt ingeroepen kan dit het stuk aan de geadresseerde toezenden ofwel, wanneer dit uitdrukkelijk wordt gevraagd, het doen betekenen op dezelfde wijze als voor betekening van overeenkomstige gerechtelijke stukken in zijn land is voorgeschreven. Het aangezochte openbaar ministerie licht de verzoeker in aangaande het gevolg dat aan zijn verzoek is gegeven.
-
-##### Artikel 31
-
-Indien een rechterlijke autoriteit de persoonlijke verschijning van een getuige of deskundige, die zich op het grondgebied van een ander land bevindt, noodzakelijk oordeelt, kan zij deze door tussenkomst van het openbaar ministerie van het land waar de betrokkene verblijf houdt, doen dagvaarden. Een aldus gedagvaarde getuige is verplicht aan deze oproeping gevolg te geven. Artikel 34 stelt een sanctie op het niet-voldoen aan deze verplichting. Die verplichting bestaat slechts, indien de rechterlijke autoriteit de persoonlijke verschijning noodzakelijk heeft geoordeeld en in verband daarmede een dagvaarding via het intermediair van het openbaar ministerie van het land waar de getuige verblijft, heeft doen uitbrengen. Dagvaardingen, die bijv. op verzoek van de verdachte zijn uitgebracht en waarbij de rechterlijke autoriteit de persoonlijke verschijning niet noodzakelijk heeft geoordeeld, brengen geen verplichting tot verschijning mede en kunnen derhalve ook geen aanleiding geven tot toepassing van artikel 34, indien de getuige aan de oproeping geen gevolg geeft.
-
-##### Artikel 33
-
-Artikel 18, lid 2 bevat een bepaling, die het mogelijk maakt een persoon, die op het grondgebied van een der landen vrijheidsstraf ondergaat, tijdelijk ter beschikking te stellen van de rechterlijke autoriteiten van een ander land, ten einde zijn berechting mogelijk te maken. Het onderhavige artikel bevat een overeenkomstige bepaling ten einde zijn verhoor als getuige of een confrontatie in een ander land mogelijk te maken.
-
-##### Artikel 34
-
-Op degene, die wanneer hij overeenkomstig artikel 31 is gedagvaard om als getuige te verschijnen, niet aan die dagvaarding voldoet, zullen dezelfde strafbepalingen van toepassing zijn als had hij geweigerd te voldoen aan een dagvaarding om als getuige voor de rechter van zijn eigen land te verschijnen.
-
-##### Artikel 35
-
-Het eerste lid verschaft aan getuigen en deskundigen, die gevolg geven aan een dagvaarding om als zodanig te verschijnen immuniteit. Deze bepaling is niet slechts toepasselijk op personen, die overeenkomstig artikel 31 zijn gedagvaard, maar ook op hen aan wie rechtstreeks een dagvaarding is toegezonden. De immuniteit heeft geen betrekking op feiten, die zij na hun vertrek uit het land waar zij verblijf houden, bedrijven. Voor die feiten kunnen zij wel worden vervolgd en eventueel in hechtenis worden genomen. Met name kan dit het geval zijn, wanneer zij valse verklaringen zouden afleggen.
-
-Het tweede lid geeft aan een persoon, die vrijwillig aan een dagvaarding om als verdachte te verschijnen voldoet, immuniteit voor die feiten, die niet in de dagvaarding zijn vermeld en die hij voor zijn vertrek uit het land waar hij verblijft zou hebben gepleegd.
-
-##### Artikel 36
-
-Het eerste lid heeft betrekking op uittreksels uit het strafregister en op inlichtingen die op dat strafregister betrekking hebben, welke door rechterlijke autoriteiten van een ander land ten behoeve van strafzaken worden gevraagd. Die rechterlijke autoriteiten kunnen deze op dezelfde wijze verkrijgen als de rechterlijke autoriteiten van het aangezochte land.
-
-Het tweede lid heeft betrekking op verzoeken om inlichtingen betreffende het strafregister, die hetzij door rechterlijke autoriteiten voor andere dan strafrechterlijke doeleinden, hetzij door administratieve autoriteiten worden gedaan. Voor deze verzoeken kan elk land volgens zijn eigen regeling of zijn eigen praktijk bepalen in hoeverre het daaraan gevolg zal geven.
-
-##### Artikel 38
-
-In beginsel zullen verzoeken om rechtshulp door de betrokken rechterlijke autoriteiten rechtstreeks tot elkaar worden gericht. Verzoeken om inlichtingen uit het strafregister ten behoeve van strafzaken kunnen rechtstreeks aan de betrokken dienst worden gevraagd. Alleen verzoeken om inlichtingen uit het strafregister ten behoeve van niet-strafrechterlijke doeleinden en verzoeken om tijdelijke terbeschikkingstelling van gedetineerden moeten van Minister van Justitie tot Minister van Justitie worden gericht.
-
-##### Artikel 42
-
-Indien de rechterlijke autoriteiten van een land van oordeel zijn dat een zaak slechts berecht kan worden door de rechter van een ander land of dat berechting door de rechter van het andere land meer aangewezen is bijvoorbeeld door de aard van de zaak of de persoonlijkheid van de dader, kunnen zij door tussenkomst van de betrokken Ministers van Justitie een daartoe strekkend verzoek richten tot de rechterlijke autoriteiten van dat andere land, onder overlegging van de op de zaak betrekking hebbende stukken. Het aangezochte land zal het aanvragende land laten weten welk gevolg aan een dergelijk verzoek is gegeven.
-
-Door rechterlijke autoriteiten of politieambtenaren van het aanvragende land gestelde handelingen, hebben met betrekking tot de schorsing van de verjaring in het aangezochte land, dezelfde werking als waren zij door rechterlijke autoriteiten of opsporingsambtenaren van het aangezochte land verricht.
 
 TEN BLIJKE WAARVAN de daartoe Gevolmachtigden deze Overeenkomst hebben ondertekend.
 

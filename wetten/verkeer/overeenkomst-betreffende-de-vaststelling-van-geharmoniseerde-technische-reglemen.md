@@ -1,394 +1,258 @@
 ---
 title: "Overeenkomst betreffende de vaststelling van geharmoniseerde technische reglementen van de Verenigde Naties voor voertuigen op wielen en voor uitrustingsstukken en onderdelen die daarop kunnen worden gemonteerd en/of gebruikt, en betreffende de voorwaarden voor wederzijdse erkenning van goedkeuringen die krachtens die reglementen van de Verenigde Naties zijn verleend"
 identifier: "BWBV0001196"
-country: "nl"
-rank: "verdrag"
-publication_date: "2025-12-27"
-last_updated: "2025-12-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001196"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10000524883"
-version_id: "10000593382"
-internal_id: "C10007885191"
-label_id: "10000525174"
-original_entry_into_force: "1995-10-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001196/2025-12-27/0"
-intitule_bron: "Trb.2017-156"
-intitule_effect: "wijziging"
-intitule_published: "2017-09-08"
-intitule_in_force: "2018-01-16"
-intitule_status: "goed"
-original_publication: "Trb.1996-151"
-original_signed_date: "1995-10-16"
-original_published_date: "1996-06-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1996-151"
-entry_into_force_date: "1995-10-16"
-jci_1_3: "jci1.3:c:BWBV0001196&z=2025-12-27&g=2025-12-27"
-jci_1_0: "1.0:c:BWBV0001196&g=2025-12-27"
-citeertitel_status: "officieel"
-signed_date: "1995-10-16"
-entry_into_force: "1995-10-16"
+publicatiedatum: 1995-10-16
+laatste_update: 2025-12-27
+status: geldig
+toestand: 2025-12-27
+bron: "https://wetten.overheid.nl/BWBV0001196"
+opgehaald: 2026-09-11
 ---
+
 # Overeenkomst betreffende de vaststelling van geharmoniseerde technische reglementen van de Verenigde Naties voor voertuigen op wielen en voor uitrustingsstukken en onderdelen die daarop kunnen worden gemonteerd en/of gebruikt, en betreffende de voorwaarden voor wederzijdse erkenning van goedkeuringen die krachtens die reglementen van de Verenigde Naties zijn verleend
 
-Preambule
+*Preamble The Contracting Parties, Having decided to amend the Agreement Concerning the Adoption of Uniform Conditions of Approval and Reciprocal Recognition of Approval for Motor Vehicle Equipment and Parts, done at Geneva on 20 March 1958, as amended on 16 October 1995, and Desiring to reduce technical barriers to international trade by defining harmonized technical UN Regulations that it will suffice for certain wheeled vehicles, equipment and parts to fulfil in order to be used in their countries or regions, Recognizing the importance of safety, environmental protection, energy efficiency and anti-theft performance of wheeled vehicles, equipment and parts, which can be fitted and/or be used on wheeled vehicles for the development of regulations that are technically and economically feasible and adapted to technical progress, Desiring to apply these UN Regulations whenever possible in their countries or regions, Desiring to facilitate the acceptance in their countries of the vehicles, equipment and parts, where approved according to these UN Regulations by the approval authorities of another Contracting Party, Desiring to establish an International Whole Vehicle Type Approval scheme (IWVTA) within the framework of the Agreement to increase the advantages of individual UN Regulations annexed to the Agreement and so create opportunities to simplify implementation by Contracting Parties and the wider adoption of mutual recognition of type approvals for whole vehicles, and, Desiring to increase the number of Contracting Parties to the Agreement by improving its functioning and reliability, and thus ensure that it remains the key international framework for the harmonization of technical regulations in the automotive sector, Have agreed as follows:*
 
-De overeenkomstsluitende partijen,
+##### Article 1
 
-Besloten hebbende tot wijziging van de Overeenkomst betreffende het aannemen van eenvormige goedkeuringsvoorwaarden en de wederzijdse erkenning van goedkeuring van uitrustingsstukken en onderdelen van motorrijtuigen, gesloten in Genève op 20 maart 1958, zoals gewijzigd op 16 oktober 1995, en
+1. The Contracting Parties shall establish, through an Administrative Committee made up of all the Contracting Parties in conformity with the rules of procedure set out in the Appendix to this Agreement and on the basis of the following articles, paragraphs, UN Regulations for wheeled vehicles, equipment and parts which can be fitted and/or be used on wheeled vehicles. Conditions for granting type approvals and their reciprocal recognition will be included for use by Contracting Parties which choose to implement Regulations through type approval.
 
-Geleid door de wens om de technische belemmeringen voor de internationale handel te verminderen door geharmoniseerde technische VN-reglementen vast te stellen waaraan bepaalde voertuigen op wielen, uitrustingsstukken en onderdelen ten minste moeten voldoen om in hun land of regio te worden gebruikt,
+For the purposes of this Agreement:
 
-Erkennend het belang van veiligheid, milieubescherming, energie-efficiëntie en diefstalbeveiliging van voertuigen op wielen en van uitrustingsstukken en onderdelen die daarop kunnen worden gemonteerd en/of gebruikt, voor de vaststelling van reglementen die technisch en economisch haalbaar zijn en aan de technische vooruitgang zijn aangepast,
+The term “wheeled vehicles, equipment and parts” shall include any wheeled vehicles, equipment and parts whose characteristics have a bearing on vehicle safety, protection of the environment, energy saving and the performance of anti-theft technology.
 
-Geleid door de wens om deze VN-reglementen in hun land of regio zoveel mogelijk toe te passen,
+The term “type approval pursuant to a UN Regulation” indicates an administrative procedure by which the approval authorities of one Contracting Party declare, after carrying out the required verifications that a type of vehicle, equipment or part submitted by the manufacturer conforms to the requirements of the given UN Regulation. Afterwards the manufacturer certifies that each vehicle, equipment or parts put on the market were produced to be identical with the approved product.
 
-Geleid door de wens om in hun land de aanvaarding van de voertuigen, uitrustingsstukken en onderdelen die door de goedkeuringsinstanties van een andere overeenkomstsluitende partij krachtens deze VN-reglementen zijn goedgekeurd, te vergemakkelijken,
+The term “whole vehicle type approval” indicates that type approvals granted pursuant to applicable UN Regulations for wheeled vehicles, equipment and parts of a vehicle are integrated into an approval of the whole vehicle according to the provisions of the administrative IWVTA system.
 
-Geleid door de wens om in het kader van de overeenkomst een systeem voor de internationale typegoedkeuring van gehele voertuigen (IWVTA) tot stand te brengen teneinde de voordelen van de aan de overeenkomst gehechte afzonderlijke VN-reglementen te vergroten en zo mogelijkheden te scheppen om de uitvoering ervan door de overeenkomstsluitende partijen te vereenvoudigen en de wederzijdse erkenning van typegoedkeuringen voor gehele voertuigen op ruimere schaal toe te passen, en
+The term “version of a UN Regulation” indicates that a UN Regulation, following its adoption and establishment, may subsequently be amended following the procedures described in this Agreement, in particular [Article 12](https://wetten.overheid.nl/BWBV0001196). The unamended UN Regulation as well as the UN Regulation, after integration of subsequent amendment(s), are considered to be separate versions of that UN Regulation.
 
-Geleid door de wens om het aantal partijen bij de overeenkomst te vergroten door de werking en betrouwbaarheid ervan te verbeteren en er zo voor te zorgen dat zij het belangrijkste internationale kader voor de harmonisatie van technische regelgeving in de automobielsector blijft,
+The term “applying a UN Regulation” indicates that a UN Regulation enters into force for a Contracting Party. When doing so, Contracting Parties have the possibility to keep their own national/regional legislation. If they wish, they may substitute their national/regional legislation by the requirements of the UN Regulations they are applying, but they are not bound by the Agreement to do so. However, Contracting Parties shall accept, as an alternative to the relevant part of their national/regional legislation, UN type approvals granted pursuant to the latest version of UN Regulations applied in their country/region. The rights and obligations of Contracting Parties applying a UN Regulation are detailed in the various articles of this Agreement.
 
-Zijn overeengekomen als volgt:
+For the application of the UN Regulations there could be various administrative procedures alternative to type approval. The only alternative procedure generally known and applied in certain member States of the Economic Commission for Europe is the self-certification by which the manufacturer certifies, without any preliminary administrative control, that each product put on the market conforms to the given UN Regulation; the competent administrative authorities may verify by random sampling on the market that the self-certified products comply with the requirements of the given UN Regulation.
 
-##### Artikel 1
+2. The Administrative Committee shall be composed of all the Contracting Parties in accordance with the rules of procedure set out in the [Appendix](https://wetten.overheid.nl/BWBV0001196).
 
-1. De overeenkomstsluitende partijen stellen, door middel van een beheerscomité samengesteld uit alle overeenkomstsluitende partijen volgens het reglement van orde in het aanhangsel van deze overeenkomst en op basis van de volgende artikelen en punten, VN-reglementen vast voor voertuigen op wielen en voor uitrustingsstukken en onderdelen die daarop kunnen worden gemonteerd en/of gebruikt. De voorwaarden voor het verlenen van typegoedkeuringen en de wederzijdse erkenning ervan zullen worden opgenomen ten behoeve van overeenkomstsluitende partijen die besluiten reglementen via typegoedkeuring toe te passen.
+A UN Regulation, after having been established in accordance with the procedure indicated in the Appendix, shall be communicated by the Administrative Committee to the Secretary-General of the United Nations, hereinafter called “Secretary-General”. As soon as possible thereafter, the Secretary-General shall give notification of this UN Regulation to the Contracting Parties.
 
-Voor de toepassing van deze overeenkomst wordt verstaan onder:
+The UN Regulation will be considered as adopted unless, within a period of six months from its notification by the Secretary-General, more than one-fifth of the Contracting Parties at the time of notification have informed the Secretary-General of their disagreement with the UN Regulation.
 
-- „voertuigen op wielen, uitrustingsstukken en onderdelen”: alle voertuigen op wielen en alle uitrustingsstukken en onderdelen waarvan de eigenschappen van invloed zijn op de voertuigveiligheid, milieubescherming, energiebesparing en diefstalbeveiligingstechnologie;
+The UN Regulation shall cover the following:
 
-- „typegoedkeuring krachtens een VN-reglement”: een administratieve procedure waarbij de goedkeuringsinstanties van één overeenkomstsluitende partij, na de vereiste verificaties te hebben uitgevoerd, verklaren dat een door de fabrikant ter beschikking gesteld type voertuig, uitrustingsstuk of onderdeel voldoet aan de voorschriften van het betreffende VN-reglement. Vervolgens certificeert de fabrikant dat elk voertuig, uitrustingsstuk of onderdeel dat hij in de handel brengt, zodanig is geproduceerd dat het identiek is aan het goedgekeurde product;
+- a) Wheeled vehicles, equipment or parts concerned;
 
-- „typegoedkeuring van een geheel voertuig”: de typegoedkeuringen die krachtens de betreffende VN-reglementen voor voertuigen op wielen, uitrustingsstukken en onderdelen van een voertuig zijn verleend, worden samengevoegd tot een goedkeuring van het gehele voertuig overeenkomstig de bepalingen van het administratieve IWVTA-systeem;
+- b) Technical requirements, which shall be performance oriented wherever appropriate and not design-restrictive, that give objective consideration to available technologies, costs and benefits as appropriate, and may include alternatives;
 
-- „versie van een VN-reglement”: nadat een VN-reglement is aangenomen en vastgesteld, kan het later worden gewijzigd volgens de procedures die zijn beschreven in deze overeenkomst, met name in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=12&z=2025-12-27&g=2025-12-27). Het ongewijzigde VN-reglement en ook het VN-reglement waarin alle latere wijzigingen zijn opgenomen, worden als afzonderlijke versies van dat VN-reglement beschouwd;
+- c) Test methods by which any performance requirements are to be demonstrated;
 
-- „toepassing van een VN-reglement”: de inwerkingtreding van een VN-reglement voor een overeenkomstsluitende partij. Daarbij hebben de overeenkomstsluitende partijen de mogelijkheid om hun eigen nationale of regionale wetgeving te behouden. Als zij het wensen, mogen zij hun nationale of regionale wetgeving vervangen door de VN-reglementen die zij toepassen, maar zij zijn daar door de overeenkomst niet toe gebonden. De overeenkomstsluitende partijen aanvaarden echter, als alternatief voor het betreffende deel van hun nationale of regionale wetgeving, VN-typegoedkeuringen verleend krachtens de recentste versie van de VN-reglementen die in hun land of regio worden toegepast. De rechten en verplichtingen van de overeenkomstsluitende partijen die een VN-reglement toepassen, worden in de verschillende artikelen van deze overeenkomst uitvoerig beschreven.
+- d) Conditions for granting type approval and their reciprocal recognition including administrative provisions, any approval markings and conditions for ensuring conformity of production;
 
-Voor de toepassing van de VN-reglementen kunnen er verschillende administratieve procedures bestaan als alternatief voor typegoedkeuring. De enige alternatieve procedure die algemeen bekend is en in sommige lidstaten van de Economische Commissie voor Europa wordt toegepast, is zelfcertificering waarbij de fabrikant, zonder enige voorafgaande administratieve controle, verklaart dat elk product dat hij in de handel brengt, voldoet aan het betreffende VN-reglement; de bevoegde administratieve instanties kunnen door middel van steekproeven op de markt verifiëren of de zelfgecertificeerde producten inderdaad voldoen aan de voorschriften van het betreffende reglement.
+- e) The date(s) on which the UN Regulation enters into force, including the date when Contracting Parties applying it can issue approvals pursuant to that UN Regulation, and the date from which they shall accept approvals (if different);
 
-2. Het beheerscomité wordt samengesteld uit alle overeenkomstsluitende partijen overeenkomstig het reglement van orde in het aanhangsel.
+- f) An information document to be provided by the manufacturer.
 
-Nadat een VN-reglement volgens de procedure van het aanhangsel is vastgesteld, deelt het beheerscomité het mee aan de secretaris-generaal van de Verenigde Naties, hierna „secretaris-generaal” genoemd. Vervolgens brengt de secretaris-generaal dit VN-reglement zo spoedig mogelijk ter kennis van de overeenkomstsluitende partijen.
+The UN Regulation may, if needed, include references to the laboratories accredited by the approval authorities where acceptance tests of the types of wheeled vehicles, equipment or parts submitted for approval shall be carried out.
 
-Het VN-reglement wordt geacht te zijn aangenomen tenzij, binnen zes maanden na de kennisgeving door de secretaris-generaal, meer dan een vijfde van de overeenkomstsluitende partijen op het tijdstip van de kennisgeving de secretaris-generaal heeft meegedeeld niet in te stemmen met het VN-reglement.
+In addition to the above-mentioned UN Regulations, this Agreement provides for establishing a UN Regulation to introduce a system of Whole Vehicle Type Approval. This UN Regulation shall set the scope, administrative procedures, and technical requirements that can include different levels of stringency in one version of the said UN Regulation.
 
-Het VN-reglement heeft betrekking op:
+Notwithstanding other provisions of [Article 1](https://wetten.overheid.nl/BWBV0001196) and [Article 12](https://wetten.overheid.nl/BWBV0001196), a Contracting Party applying the UN Regulation on IWVTA shall only be obliged to accept those type approvals granted pursuant to the highest level of stringency of the latest version of the said UN Regulation.
 
-- a. voertuigen op wielen en uitrustingsstukken of onderdelen ervan;
+This Agreement also includes Schedules of Administrative and Procedural Provisions applicable to all UN Regulations annexed to this Agreement and to all Contracting Parties applying one or more UN Regulations.
 
-- b. technische voorschriften, die waar nodig op prestaties zijn gericht en niet ontwerpbeperkend zijn, die op objectieve wijze rekening houden met de beschikbare technologieën en met de kosten en baten naargelang het geval en die alternatieven mogen omvatten;
+3. When a UN Regulation has been adopted, the Secretary-General shall so notify as soon as possible all the Contracting Parties, specifying which Contracting Parties have objected, or have notified their agreement but intention not to begin applying the UN Regulation at the date of entry into force, and in respect of which the UN Regulation shall not enter into force.
 
-- c. testmethoden die moeten aantonen dat de prestaties aan de voorschriften voldoen;
+4. The adopted UN Regulation shall enter into force on the date(s) specified therein as a UN Regulation annexed to this Agreement for all Contracting Parties which have not notified either their disagreement, or their intention not to apply it on that date.
 
-- d. de voorwaarden voor het verlenen van typegoedkeuring en de wederzijdse erkenning ervan, met inbegrip van de administratieve bepalingen, de goedkeuringsmerken en de voorwaarden om de conformiteit van de productie te waarborgen;
+5. When depositing its instrument of accession, any new Contracting Party may declare that it will not apply certain UN Regulations then annexed to this Agreement or that it will not apply any of them. If, at that time, the procedure laid down in paragraphs 2, 3, and 4 of this Article is in progress for a draft or adopted UN Regulation, the Secretary-General shall communicate such draft or adopted UN Regulation to the new Contracting Party and it shall enter into force as a UN Regulation for the new Contracting Party unless this Contracting Party notifies its disagreement with the adopted UN Regulation within a period of six months after the deposit of its instrument of accession. The Secretary-General shall notify all the Contracting Parties of the date of such entry into force. The Secretary-General shall also communicate to them all declarations concerning the non-application of certain UN Regulations that any Contracting Party may make in accordance with the terms of this paragraph.
 
-- e. de datum of data van inwerkingtreding van het VN-reglement, met inbegrip van de datum waarop de overeenkomstsluitende partijen die het VN-reglement toepassen, krachtens dat reglement goedkeuring kunnen verlenen en vanaf welke datum zij goedkeuringen aanvaarden (indien verschillend);
+6. Any Contracting Party applying a UN Regulation may at any time notify the Secretary-General, subject to one year’s notice, about its intention to cease applying that UN Regulation. Such notification shall be communicated by the Secretary-General to the other Contracting Parties.
 
-- f. een door de fabrikant te verstrekken inlichtingenformulier.
+Approvals previously granted pursuant to that UN Regulation by that Contracting Party shall remain valid unless they are withdrawn in accordance with the provisions of [Article 4](https://wetten.overheid.nl/BWBV0001196).
 
-Het VN-reglement kan zo nodig verwijzingen bevatten naar de door de goedkeuringsinstanties geaccrediteerde laboratoria waar de aanvaardingstests van de voor goedkeuring ter beschikking gestelde typen voertuigen op wielen, uitrustingsstukken of onderdelen worden uitgevoerd.
+If a Contracting Party ceases to issue approvals to a UN Regulation it shall:
 
-Naast de bovengenoemde VN-reglementen voorziet deze overeenkomst in de vaststelling van een VN-reglement tot invoering van een systeem voor de typegoedkeuring van gehele voertuigen. Dat VN-reglement zal het toepassingsgebied, de administratieve procedures en de technische voorschriften vaststellen die in één versie van dat VN-reglement verschillende stringentieniveaus kunnen omvatten.
+- a) Maintain proper supervision on conformity of production of products for which it previously granted type approval;
 
-Onverminderd de overige bepalingen van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2025-12-27&g=2025-12-27) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=12&z=2025-12-27&g=2025-12-27) is een overeenkomstsluitende partij die het VN-reglement betreffende de internationale typegoedkeuring van gehele voertuigen toepast, alleen verplicht die typegoedkeuringen te aanvaarden die op grond van het meest stringente niveau van de recentste versie van dat VN-reglement zijn verleend.
+- b) Take the necessary steps set out in [Article 4](https://wetten.overheid.nl/BWBV0001196) when advised of non-conformity by a Contracting Party that continues to apply the UN Regulation;
 
-Deze overeenkomst omvat ook bijlagen met administratieve en procedurele bepalingen die van toepassing zijn op alle aan deze overeenkomst gehechte VN-reglementen en op alle overeenkomstsluitende partijen die een of meer VN-reglementen toepassen.
+- c) Continue to notify the other Contracting Parties of withdrawal of approvals as set out in [Article 5](https://wetten.overheid.nl/BWBV0001196);
 
-3. Wanneer een VN-reglement is aangenomen, stelt de secretaris-generaal zo spoedig mogelijk alle overeenkomstsluitende partijen daarvan in kennis en geeft hij daarbij aan welke partijen bezwaar hebben aangetekend, welke partijen hun instemming hebben betuigd, maar voornemens zijn het VN-reglement niet op de datum van inwerkingtreding te beginnen toepassen en voor welke partijen het VN-reglement niet in werking zal treden.
+- d) Continue to grant extensions to existing approvals.
 
-4. Het aangenomen VN-reglement treedt op de daarin aangegeven datum of data in werking als VN-reglement dat aan deze overeenkomst is gehecht, voor alle overeenkomstsluitende partijen die niet te kennen hebben gegeven dat zij er niet mee instemmen of dat zij voornemens zijn het niet op die datum toe te passen.
+7. Any Contracting Party not applying a UN Regulation may at any time notify the Secretary-General that it intends henceforth to apply it and the UN Regulation will then enter into force for this Party on the sixtieth day after this notification. The Secretary-General shall notify all the Contracting Parties of every entry into force of a UN Regulation for a new Contracting Party affected in accordance with the terms of this paragraph.
 
-5. Bij het neerleggen van haar akte van toetreding kan een nieuwe overeenkomstsluitende partij verklaren dat zij bepaalde, op dat moment aan deze overeenkomst gehechte VN-reglementen niet zal toepassen of dat zij er geen enkele van zal toepassen. Indien op dat moment de procedure van de leden 2, 3 en 4 van dit artikel voor een VN-ontwerpreglement of een aangenomen VN-reglement wordt gevolgd, deelt de secretaris-generaal dat VN-ontwerpreglement of aangenomen VN-reglement aan de nieuwe overeenkomstsluitende partij mee en treedt het voor de nieuwe overeenkomstsluitende partij als VN-reglement in werking, tenzij deze overeenkomstsluitende partij binnen zes maanden na het neerleggen van haar akte van toetreding te kennen geeft dat zij niet met het aangenomen VN-reglement instemt. De secretaris-generaal deelt alle overeenkomstsluitende partijen de datum van die inwerkingtreding mee. Hij deelt hun ook alle verklaringen mee die overeenkomstsluitende partijen over de niet-toepassing van bepaalde VN-reglementen overeenkomstig dit lid afleggen
+8. The Contracting Parties for which a UN Regulation is in force shall hereinafter be referred to as “the Contracting Parties applying a UN Regulation”.
 
-6. Elke overeenkomstsluitende partij die een VN-reglement toepast, kan de secretaris-generaal te allen tijde, met een opzegtermijn van één jaar, in kennis stellen van haar voornemen om dat VN-reglement niet langer toe te passen. De secretaris-generaal deelt deze kennisgeving aan alle andere overeenkomstsluitende partijen mee.
+##### Article 2
 
-Eerder door die overeenkomstsluitende partij krachtens dat VN-reglement verleende goedkeuringen blijven geldig tenzij zij overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=4&z=2025-12-27&g=2025-12-27) worden ingetrokken.
+1. Each Contracting Party applying UN Regulations largely through type approval shall grant the type approvals and approval markings described in any UN Regulation for the types of wheeled vehicles, equipment or parts covered by the UN Regulation, provided that it has the technical competence and is satisfied with the arrangements for ensuring conformity of the product with the approved type. Each Contracting Party which grants type approval shall take the necessary measures as set out in [Schedule 1](https://wetten.overheid.nl/BWBV0001196) annexed to this Agreement to verify that adequate arrangements have been made to ensure that wheeled vehicles, equipment and parts are manufactured in conformity with the approved type.
 
-Indien een overeenkomstsluitende partij niet langer goedkeuringen krachtens een VN-reglement verleent, is zij verplicht:
+2. Each Contracting Party issuing type approvals pursuant to a UN Regulation shall specify an approval authority for the UN Regulation. The approval authority shall have the responsibility for all aspects of type approval pursuant to the said UN Regulation. This approval authority may designate technical services to carry out on its behalf the testing and inspections necessary for the verifications required in paragraph 1 of this article. Contracting Parties shall ensure that technical services are assessed, designated and notified in accordance with the requirements set out in [Schedule 2](https://wetten.overheid.nl/BWBV0001196) annexed to this Agreement.
 
-- a. te blijven toezien op de conformiteit van de productie van de producten waarvoor zij eerder typegoedkeuring heeft verleend;
+3. The type approvals, approval markings and identifiers for the types of wheeled vehicles, equipment and parts shall be specified in the UN Regulation and granted in accordance with the procedures set out in Schedules 3 to 5 annexed to this Agreement.
 
-- b. de nodige maatregelen te nemen zoals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=4&z=2025-12-27&g=2025-12-27), wanneer zij door een overeenkomstsluitende partij die het VN-reglement blijft toepassen, van non-conformiteit in kennis wordt gesteld;
+4. Each Contracting Party applying a UN Regulation shall refuse to grant the type approvals and approval markings covered by the UN Regulation if the above-mentioned conditions are not complied with.
 
-- c. de andere overeenkomstsluitende partijen in kennis te blijven stellen van de intrekking van goedkeuringen zoals bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=5&z=2025-12-27&g=2025-12-27);
+##### Article 3
 
-- d. uitbreidingen van bestaande goedkeuringen te blijven toestaan.
+1. Wheeled vehicles, equipment or parts for which type approvals have been issued by a Contracting Party in accordance with [Article 2](https://wetten.overheid.nl/BWBV0001196) of this Agreement, shall be held to be in conformity with the relevant part of the national legislation of all the Contracting Parties applying the said UN Regulation.
 
-7. Elke overeenkomstsluitende partij die een VN-reglement niet toepast, kan de secretaris-generaal te allen tijde in kennis stellen van haar voornemen om het voortaan toe te passen; het VN-reglement zal dan voor deze partij op de zestigste dag na deze kennisgeving in werking treden. De secretaris-generaal stelt alle overeenkomstsluitende partijen in kennis van elke inwerkingtreding van een VN-reglement voor een nieuwe overeenkomstsluitende partij zoals bedoeld in dit lid.
+2. Contracting Parties applying UN Regulations shall, by mutual recognition, accept for the placement in their markets, and subject to the provisions of [Articles 1](https://wetten.overheid.nl/BWBV0001196), [8](https://wetten.overheid.nl/BWBV0001196) and [12](https://wetten.overheid.nl/BWBV0001196) as well as any special provisions within these UN Regulations, type approvals granted pursuant to these UN Regulations, without requiring any further testing, documentation, certification or marking concerning these type approvals.
 
-8. De overeenkomstsluitende partijen waarvoor een VN-reglement van kracht is, worden hierna genoemd „de overeenkomstsluitende partijen die een VN-reglement toepassen”.
+##### Article 4
 
-##### Artikel 2
+1. Should a Contracting Party applying a UN Regulation find that certain wheeled vehicles, equipment or parts bearing approval markings issued under the said UN Regulation by one of the Contracting Parties, do not conform to the approved types or the requirements of the said UN Regulation, they shall advise the approval authority of the Contracting Party which issued the approval.
 
-1. Elke overeenkomstsluitende partij die VN-reglementen voornamelijk via typegoedkeuring toepast, verleent de typegoedkeuringen en kent de goedkeuringsmerken toe zoals beschreven in elk VN-reglement voor de typen voertuigen op wielen, uitrustingsstukken of onderdelen die onder het VN-reglement vallen, mits zij de technische bevoegdheid heeft en tevreden is met de maatregelen om de conformiteit van het product met het goedgekeurde type te waarborgen. Elke overeenkomstsluitende partij die typegoedkeuring verleent, neemt de nodige maatregelen zoals bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&bijlage=1&z=2025-12-27&g=2025-12-27) die aan deze overeenkomst is gehecht, om te verifiëren dat afdoende regelingen zijn getroffen om te waarborgen dat de voertuigen op wielen, de uitrustingsstukken en de onderdelen conform het goedgekeurde type worden vervaardigd.
+The Contracting Party that issued the approval shall take the necessary steps to ensure that the non-conformity is rectified.
 
-2. Elke overeenkomstsluitende partij die typegoedkeuringen krachtens een VN-reglement verleent, duidt voor dat reglement een goedkeuringsinstantie aan. De goedkeuringsinstantie is verantwoordelijk voor alle aspecten van de typegoedkeuring krachtens dat reglement. Deze goedkeuringsinstantie kan technische diensten aanwijzen om in haar naam de tests en keuringen uit te voeren met het oog op de in lid 1 van dit artikel voorgeschreven verificaties. De overeenkomstsluitende partijen zien erop toe dat de technische diensten worden beoordeeld, aangewezen en aangemeld volgens de voorschriften in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&bijlage=2&z=2025-12-27&g=2025-12-27) die aan deze overeenkomst is gehecht.
+2. When the non-conformity is due to non-compliance with the technical requirements specified in a UN Regulation, as referred to in [Article 1.2.(b)](https://wetten.overheid.nl/BWBV0001196), the Contracting Party that issued the approval shall immediately inform all other Contracting Parties about the situation and shall provide regular advice to Contracting Parties of the steps it is taking, which may include, if necessary, the withdrawal of the approval.
 
-3. De typegoedkeuringen, goedkeuringsmerken en identificatiecodes voor de typen voertuigen op wielen, uitrustingsstukken en onderdelen worden gespecificeerd in het VN-reglement en worden verleend of toegekend volgens de procedures in de aan deze overeenkomst gehechte bijlagen 3 tot en met 5.
+After having considered the potential impact on vehicle safety, protection of the environment, energy saving or the performance of anti-theft technology, Contracting Parties may prohibit the sale and use of such wheeled vehicles, equipment or parts in their territory until this non-conformity is rectified. In such a case, these Contracting Parties shall inform the secretariat of the Administrative Committee of the measures taken. For resolution of disputes between the Contracting Parties, the procedure provided in [Article 10.4](https://wetten.overheid.nl/BWBV0001196) shall apply.
 
-4. Elke overeenkomstsluitende partij die een VN-reglement toepast, weigert typegoedkeuringen te verlenen en goedkeuringsmerken toe te kennen die onder het VN-reglement vallen als bovengenoemde voorwaarden niet zijn vervuld.
+3. Notwithstanding the provisions of paragraph 1 of this Article, if a non-conforming product, as referred to in paragraph 2 of this Article, has not been brought into conformity within a period of three months, the Contracting Party responsible for the approval shall temporarily or permanently withdraw the approval. By exception, this period may be extended by a period not exceeding three months unless one or more Contracting Parties applying the concerned UN Regulation object. When the period is being extended, the Contracting Party that issued the approval shall, within the initial three-month period, notify all Contracting Parties applying the concerned UN Regulation of their intention to extend the period in which the non-conformity shall be rectified and provide a justification for such extension.
 
-##### Artikel 3
+4. When the non-conformity is due to non-compliance with the administrative provisions, approval markings, conditions for conformity of production or the information document specified in a UN Regulation, as referred to in [Article 1.2.(d) and 1.2.(f)](https://wetten.overheid.nl/BWBV0001196), the Contracting Party that issued the approval shall temporarily or permanently withdraw the approval if the non-conformity has not been rectified within a period of six months.
 
-1. Voertuigen op wielen, uitrustingsstukken of onderdelen waarvoor een overeenkomstsluitende partij krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=2&z=2025-12-27&g=2025-12-27) van deze overeenkomst typegoedkeuring heeft verleend, worden geacht conform te zijn met het desbetreffende deel van de nationale wetgeving van alle overeenkomstsluitende partijen die dat VN-reglement toepassen.
+5. Paragraphs 1 to 4 of this Article also apply in the situation where the Contracting Party responsible for issuing of the approval itself finds that certain wheeled vehicles, equipment or parts bearing approval markings do not conform to the approved types or the requirements of a UN Regulation.
 
-2. De overeenkomstsluitende partijen die VN-reglementen toepassen, aanvaarden door wederzijdse erkenning en met inachtneming van de bepalingen van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2025-12-27&g=2025-12-27), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=8&z=2025-12-27&g=2025-12-27) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=12&z=2025-12-27&g=2025-12-27) en van alle bijzondere bepalingen in die VN-reglementen, typegoedkeuringen die krachtens die VN-reglementen zijn verleend zonder verdere tests, documentatie, certificering of markering te eisen.
+##### Article 5
 
-##### Artikel 4
+1. The approval authorities of each Contracting Party applying UN Regulations shall send upon the request from the other Contracting Parties, a list of the wheeled vehicles, equipment or parts, of which it has refused to grant or has withdrawn approvals.
 
-1. Indien een overeenkomstsluitende partij die een VN-reglement toepast, vaststelt dat bepaalde voertuigen op wielen, uitrustingsstukken of onderdelen met een goedkeuringsmerk dat door een van de overeenkomstsluitende partijen krachtens dat VN-reglement is toegekend, niet conform zijn met het goedgekeurde type of met de voorschriften van dat reglement, stelt zij de goedkeuringsinstantie van de overeenkomstsluitende partij die de goedkeuring heeft verleend, daarvan in kennis.
+2. In addition, on receiving a request from another Contracting Party applying a UN Regulation, it shall send forthwith, in accordance with the provisions of [Schedule 5](https://wetten.overheid.nl/BWBV0001196) annexed to this Agreement, to that Contracting Party a copy of all relevant information on which it based its decision to grant, refuse to grant, or to withdraw an approval of a wheeled vehicle, equipment or part pursuant to that UN Regulation.
 
-De overeenkomstsluitende partij die de goedkeuring heeft verleend, neemt de nodige maatregelen om ervoor te zorgen dat de non-conformiteit wordt rechtgezet.
+3. The paper copy may be replaced by an electronic file in accordance with [Schedule 5](https://wetten.overheid.nl/BWBV0001196) annexed to this Agreement.
 
-2. Wanneer de non-conformiteit het gevolg is van niet-naleving van de in [artikel 1, lid 2, onder b)](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2025-12-27&g=2025-12-27), bedoelde technische voorschriften van een VN-reglement, brengt de overeenkomstsluitende partij die de goedkeuring heeft verleend, onmiddellijk alle andere overeenkomstsluitende partijen op de hoogte van de situatie en informeert zij hen geregeld over de stappen die zij onderneemt, zoals bijvoorbeeld de intrekking van de goedkeuring, indien nodig.
+##### Article 6
 
-Nadat zij de potentiële gevolgen voor de voertuigveiligheid, milieubescherming, energiebesparing of diefstalbeveiligingstechnologie hebben bestudeerd, mogen de overeenkomstsluitende partijen de verkoop en het gebruik van dergelijke voertuigen op wielen, uitrustingsstukken of onderdelen op hun grondgebied verbieden totdat de non-conformiteit is rechtgezet. In dat geval stellen deze overeenkomstsluitende partijen het secretariaat van het beheerscomité in kennis van de genomen maatregelen. Voor de beslechting van geschillen tussen de overeenkomstsluitende partijen geldt de procedure van [artikel 10, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=10&z=2025-12-27&g=2025-12-27).
+1. Countries members of the Economic Commission for Europe, countries admitted to the Commission in a consultative capacity in accordance with paragraph 8 of the Commission’s Terms of Reference, and regional economic integration organizations set up by countries members of the Economic Commission for Europe to which their member States have transferred powers in the fields covered by this Agreement, including the power to make binding decisions on their member States, may become Contracting Parties to this Agreement.
 
-3. Als, onverminderd lid 1 van dit artikel, een niet-conform product zoals bedoeld in lid 2 van dit artikel, niet binnen drie maanden weer in conformiteit is gebracht, trekt de voor de goedkeuring verantwoordelijke overeenkomstsluitende partij de goedkeuring tijdelijk of permanent in. Bij wijze van uitzondering kan deze termijn met maximaal drie maanden worden verlengd, tenzij een of meer overeenkomstsluitende partijen die het VN-reglement in kwestie toepassen, daar bezwaar tegen maken. Wanneer de termijn wordt verlengd, stelt de overeenkomstsluitende partij die de goedkeuring heeft verleend, binnen de oorspronkelijke periode van drie maanden alle overeenkomstsluitende partijen die dat VN-reglement toepassen, in kennis van haar voornemen tot verlenging van de periode waarin de non-conformiteit moet worden rechtgezet, en geeft zij een rechtvaardiging voor een dergelijke uitbreiding.
+For the determination of the number of votes referred to in [Article 1, paragraph 2](https://wetten.overheid.nl/BWBV0001196) and in [Article 12, paragraph 2](https://wetten.overheid.nl/BWBV0001196), regional economic integration organizations vote with the number of votes of their member States being members of the Economic Commission for Europe.
 
-4. Wanneer de non-conformiteit het gevolg is van niet-naleving van de administratieve bepalingen, goedkeuringsmerken, voorwaarden voor de conformiteit van de productie of het in een VN-reglement aangegeven inlichtingenformulier zoals bedoeld in [artikel 1, lid 2, onder d) en f)](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2025-12-27&g=2025-12-27), trekt de overeenkomstsluitende partij die de goedkeuring heeft verleend, de goedkeuring tijdelijk of permanent in als de non-conformiteit niet binnen zes maanden is rechtgezet.
+2. Countries members of the United Nations as may participate in certain activities of the Economic Commission for Europe in accordance with paragraph 11 of the Commission's Terms of Reference and regional economic integration organizations of such countries to which their member States have transferred powers in the fields covered by this Agreement including power to make binding decisions on their member States may become Contracting Parties to this Agreement.
 
-5. De leden 1 tot en met 4 van dit artikel zijn ook van toepassing wanneer de overeenkomstsluitende partij die verantwoordelijk is voor het verlenen van de goedkeuring, zelf vaststelt dat bepaalde voertuigen op wielen, uitrustingsstukken of onderdelen met een goedkeuringsmerk niet-conform zijn met het goedgekeurde type of met de voorschriften van een VN-reglement.
+For the determination of the number of votes referred to in [Article 1, paragraph 2](https://wetten.overheid.nl/BWBV0001196) and in [Article 12, paragraph 2](https://wetten.overheid.nl/BWBV0001196), regional economic integration organizations vote with the number of votes of their member States being members of the United Nations.
 
-##### Artikel 5
+3. Accession to this Agreement by new Contracting Parties which are not Parties to the 1958 Agreement shall be effected by the deposit of an instrument with the Secretary-General, after the entry into force of this Agreement.
 
-1. De goedkeuringsinstanties van elke overeenkomstsluitende partij die VN-reglementen toepast, zenden op verzoek van de andere overeenkomstsluitende partijen een lijst toe van de voertuigen op wielen, uitrustingsstukken of onderdelen waarvan zij de goedkeuring hebben geweigerd of ingetrokken.
+##### Article 7
 
-2. Voorts zenden zij, op verzoek van een andere overeenkomstsluitende partij die een VN-reglement toepast, onmiddellijk overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&bijlage=5&z=2025-12-27&g=2025-12-27) die aan deze overeenkomst is gehecht, die overeenkomstsluitende partij een kopie toe van alle relevante informatie op grond waarvan zij haar besluit tot goedkeuring of tot weigering of intrekking van de goedkeuring van een voertuig op wielen, uitrustingsstuk of onderdeel krachtens dat VN-reglement heeft genomen.
+1. This Agreement shall be deemed to enter into force nine months after the date of its transmission by the Secretary-General to all the Contracting Parties to the 1958 Agreement.
 
-3. De papieren kopie kan worden vervangen door een elektronisch bestand overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&bijlage=5&z=2025-12-27&g=2025-12-27) die aan deze overeenkomst is gehecht.
+2. This Agreement shall be deemed not to enter into force if any objection from the Contracting Parties to the 1958 Agreement is expressed within a period of six months following the date of its transmission to them by the Secretary-General.
 
-##### Artikel 6
+3. For any new Contracting Party acceding to this Agreement, this Agreement shall enter into force on the sixtieth day after the deposit of the instrument of accession.
 
-1. De lidstaten van de Economische Commissie voor Europa, de landen die overeenkomstig paragraaf 8 van het mandaat van de commissie met adviserende bevoegdheid tot de commissie zijn toegelaten en de door lidstaten van de Economische Commissie voor Europa opgerichte organisaties voor regionale economische integratie waaraan hun lidstaten bevoegdheden op onder deze overeenkomst vallende gebieden hebben overgedragen, met inbegrip van de bevoegdheid om besluiten te nemen die bindend zijn voor hun lidstaten, kunnen partij worden bij deze overeenkomst.
+##### Article 8
 
-Voor de vaststelling van het aantal stemmen zoals bedoeld in [artikel 1, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2025-12-27&g=2025-12-27), en in [artikel 12, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=12&z=2025-12-27&g=2025-12-27), beschikken de organisaties voor regionale economische integratie over het aantal stemmen van hun lidstaten die lid zijn van de Economische Commissie voor Europa.
+1. Any Contracting Party may denounce this Agreement by notifying the Secretary-General.
 
-2. De lidstaten van de Verenigde Naties mogen overeenkomstig paragraaf 11 van het mandaat van de commissie aan bepaalde werkzaamheden van de Economische Commissie voor Europa deelnemen en de organisaties voor regionale economische integratie van die landen waaraan hun lidstaten bevoegdheden op onder deze overeenkomst vallende gebieden hebben overgedragen, met inbegrip van de bevoegdheid om besluiten te nemen die bindend zijn voor hun lidstaten, kunnen partij worden bij deze overeenkomst.
+2. Denunciation shall take effect twelve months after the date of receipt by the Secretary-General of such notification.
 
-Voor de vaststelling van het aantal stemmen zoals bedoeld in [artikel 1, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2025-12-27&g=2025-12-27), en in [artikel 12, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=12&z=2025-12-27&g=2025-12-27), beschikken de organisaties voor regionale economische integratie over het aantal stemmen van hun lidstaten die lid zijn van de Verenigde Naties.
+3. Any type approvals granted by the Contracting Party shall remain valid for a period of twelve months after the denunciation has taken effect in accordance with Article 8.2.
 
-3. Toetreding tot deze overeenkomst door nieuwe overeenkomstsluitende partijen die geen partij zijn bij de Overeenkomst van 1958, geschiedt door neerlegging van een akte bij de secretaris-generaal, na de inwerkingtreding van deze overeenkomst.
+##### Article 9
 
-##### Artikel 7
+1. Any Contracting Party as defined in [Article 6](https://wetten.overheid.nl/BWBV0001196) of this Agreement may, at the time of accession or at any time thereafter, declare by notification addressed to the Secretary-General that this Agreement shall extend to all or any of the territories for whose international relations it is responsible. The Agreement shall extend to the territory or territories named in the notification as from the sixtieth day after its receipt by the Secretary-General.
 
-1. Deze overeenkomst wordt geacht in werking te treden negen maanden na de datum van toezending ervan door de secretaris-generaal aan alle partijen bij de Overeenkomst van 1958.
+2. Any Contracting Party as defined in [Article 6](https://wetten.overheid.nl/BWBV0001196) of this Agreement which has made a declaration in accordance with paragraph 1 of this Article extending this Agreement to any territory for whose international relations it is responsible may denounce the Agreement separately in respect of that territory, in accordance with the provisions of [Article 8](https://wetten.overheid.nl/BWBV0001196).
 
-2. Deze overeenkomst wordt geacht niet in werking te treden indien binnen zes maanden na de datum van toezending ervan door de secretaris-generaal de partijen bij de Overeenkomst van 1958 bezwaar maken.
+##### Article 10
 
-3. Voor elke nieuwe partij die tot deze overeenkomst toetreedt, treedt deze overeenkomst in werking op de zestigste dag na de neerlegging van de akte van toetreding.
+1. Any dispute between two or more Contracting Parties concerning the interpretation or application of this Agreement shall, so far as possible, be settled by negotiation between them.
 
-##### Artikel 8
+2. Any dispute which is not settled by negotiation shall be submitted to arbitration if any one of the Contracting Parties in dispute so requests and shall be referred accordingly to one or more arbitrators selected by agreement between the Parties in dispute. If within three months from the date of the request for arbitration the Parties in dispute are unable to agree on the selection of an arbitrator or arbitrators, any of those Parties may request the Secretary-General to nominate a single arbitrator to whom the dispute shall be referred for decision.
 
-1. Elke overeenkomstsluitende partij kan deze overeenkomst opzeggen door middel van een kennisgeving aan de secretaris-generaal.
+3. The decision of the arbitrator or arbitrators appointed in accordance with paragraph 2 of this Article shall be binding on the Contracting Parties in dispute.
 
-2. De opzegging wordt van kracht twaalf maanden na de datum waarop de secretaris-generaal die kennisgeving heeft ontvangen.
+4. Any dispute between two or more Contracting Parties concerning the interpretation or application of UN Regulations annexed to this Agreement shall be settled by negotiation in accordance with the procedure set out in [Schedule 6](https://wetten.overheid.nl/BWBV0001196) annexed to this Agreement.
 
-3. De typegoedkeuringen die door de overeenkomstsluitende partij zijn verleend, blijven geldig gedurende een periode van twaalf maanden nadat de opzegging van kracht is geworden overeenkomstig lid 2 van dit artikel.
+##### Article 11
 
-##### Artikel 9
+1. Any Contracting Party may, at the time of acceding to this Agreement, declare that it does not consider itself bound by [paragraphs 1 to 3 of Article 10](https://wetten.overheid.nl/BWBV0001196) of the Agreement. Other Contracting Parties shall not be bound by paragraphs 1 to 3 of Article 10 in respect of any Contracting Party which has entered such a reservation.
 
-1. Elke overeenkomstsluitende partij in de zin van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=6&z=2025-12-27&g=2025-12-27) van deze overeenkomst kan op het moment van toetreding of op een later tijdstip door middel van een kennisgeving gericht aan de secretaris-generaal verklaren dat deze overeenkomst wordt uitgebreid tot alle of bepaalde grondgebieden waarvan zij de buitenlandse betrekkingen behartigt. De overeenkomst wordt vanaf de zestigste dag na ontvangst van de kennisgeving door de secretaris-generaal uitgebreid tot het grondgebied of de grondgebieden die in de kennisgeving zijn vermeld.
+2. Any Contracting Party having entered a reservation as provided for in paragraph 1 of this Article may at any time withdraw such reservation by notifying the Secretary-General.
 
-2. Elke overeenkomstsluitende partij in de zin van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=6&z=2025-12-27&g=2025-12-27) van deze overeenkomst die overeenkomstig lid 1 van dit artikel een verklaring heeft afgegeven tot uitbreiding van deze overeenkomst tot een grondgebied waarvan zij de buitenlandse betrekkingen behartigt, kan de overeenkomst voor dat grondgebied afzonderlijk opzeggen overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=8&z=2025-12-27&g=2025-12-27).
+3. No other reservation to this Agreement, its [Appendix](https://wetten.overheid.nl/BWBV0001196), [Schedules](https://wetten.overheid.nl/BWBV0001196) and the UN Regulations annexed thereto shall be permitted; but any Contracting Party may, in accordance with the terms of [Article 1, paragraph 5](https://wetten.overheid.nl/BWBV0001196), declare that it does not intend to apply certain of the UN Regulations or that it does not intend to apply any of them.
 
-##### Artikel 10
+##### Article 12
 
-1. Elk geschil tussen twee of meer overeenkomstsluitende partijen over de interpretatie of toepassing van deze overeenkomst wordt zoveel mogelijk beslecht door onderhandelingen tussen de betrokken partijen.
+The UN Regulations annexed to this Agreement may be amended in accordance with the following procedure:
 
-2. Geschillen die niet via onderhandelingen zijn beslecht, worden onderworpen aan arbitrage als een van de betrokken overeenkomstsluitende partijen erom verzoekt, en worden dienovereenkomstig voorgelegd aan een of meer arbiters die in onderlinge overeenstemming tussen die partijen zijn gekozen. Indien de betrokken partijen binnen drie maanden na de datum van het verzoek om arbitrage geen overeenstemming kunnen bereiken over de keuze van een of meer arbiters, kan een van die partijen de secretaris-generaal verzoeken één arbiter te benoemen aan wie het geschil ter beslechting wordt voorgelegd.
+- 1. Amendments to UN Regulations shall be established by the Administrative Committee as described in [Article 1, paragraph 2](https://wetten.overheid.nl/BWBV0001196) and in accordance with the procedure indicated in the [Appendix](https://wetten.overheid.nl/BWBV0001196). An amendment to the UN Regulation, after having been established, shall be communicated by the Administrative Committee to the Executive Secretary of the United Nations Economic Commission for Europe. As soon as possible thereafter, the Executive Secretary of the United Nations Economic Commission for Europe shall give notification of this amendment to the Contracting Parties applying the UN Regulation and the Secretary-General.
 
-3. De uitspraak van de overeenkomstig lid 2 van dit artikel aangewezen arbiter of arbiters zijn bindend voor de betrokken overeenkomstsluitende partijen.
+- 2. An amendment to a UN Regulation will be considered to be adopted unless, within a period of six months from its notification by the Executive Secretary of the United Nations Economic Commission for Europe, more than one-fifth of the Contracting Parties applying the UN Regulation at the time of notification have informed the Secretary-General of their disagreement with the amendment. When an amendment to a UN Regulation is adopted, the Secretary-General shall as soon as possible declare the amendment as adopted and binding upon those Contracting Parties applying the UN Regulation.
 
-4. Elk geschil tussen twee of meer overeenkomstsluitende partijen over de interpretatie of toepassing van aan deze overeenkomst gehechte VN-reglementen wordt beslecht door onderhandelingen volgens de procedure in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&bijlage=6&z=2025-12-27&g=2025-12-27) die aan deze overeenkomst is gehecht.
+- 3. Amendments to a UN Regulation may include transitional provisions relating to the entry into force of the amended UN Regulation, the date up to which Contracting Parties shall accept approvals pursuant to the preceding version of the UN Regulation and the date as from which Contracting Parties shall not be obliged to accept type approvals issued pursuant to the preceding version of the amended UN Regulation.
 
-##### Artikel 11
+- 4. Notwithstanding that transitional provisions in any version of UN Regulations may have stipulated otherwise, Contracting Parties to this Agreement which are applying UN Regulations may, subject to compliance with the provisions of [Article 2](https://wetten.overheid.nl/BWBV0001196), nevertheless issue type approvals pursuant to earlier versions of UN Regulations. However, subject to paragraph 3 of this Article, Contracting Parties applying a UN Regulation shall not be obliged to accept type approvals issued pursuant to these earlier versions.
 
-1. Een overeenkomstsluitende partij kan op het tijdstip van toetreding tot deze overeenkomst verklaren dat zij zich niet gebonden acht door de [leden 1 tot en met 3 van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=10&z=2025-12-27&g=2025-12-27) van de overeenkomst. De andere overeenkomstsluitende partijen zijn door de leden 1 tot en met 3 van artikel 10 niet gebonden tegenover een overeenkomstsluitende partij die een zodanig voorbehoud heeft gemaakt.
+- 5. All Contracting Parties applying a UN Regulation, except for Contracting Parties which notified the Secretary-General of their intention to cease applying the UN Regulation, shall accept approvals granted pursuant to the latest version of that UN Regulation. A Contracting Party which notified the Secretary-General of its intention to cease applying a UN Regulation shall, during the one-year period mentioned in [paragraph 6 of Article 1](https://wetten.overheid.nl/BWBV0001196), accept approvals granted pursuant to the version(s) of the UN Regulation applicable for that Contracting Party at the instance of its notification to Secretary-General.
 
-2. Elke overeenkomstsluitende partij die een voorbehoud heeft gemaakt overeenkomstig lid 1 van dit artikel, kan dit voorbehoud te allen tijde intrekken door middel van een kennisgeving aan de secretaris-generaal.
+- 6. A Contracting Party applying a UN Regulation may grant an exemption approval pursuant to a UN Regulation for a single type of wheeled vehicle, equipment or part which is based on a new technology, when this new technology is not covered by the existing UN Regulation, and is incompatible with one or more requirements of this UN Regulation. In such a case, the procedures set out in [Schedule 7](https://wetten.overheid.nl/BWBV0001196) annexed to this Agreement shall apply.
 
-3. Er zijn geen andere voorbehouden bij deze overeenkomst, het aanhangsel, de bijlagen en de daaraan gehechte VN-reglementen toegestaan, maar elke overeenkomstsluitende partij kan overeenkomstig [artikel 1, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2025-12-27&g=2025-12-27), verklaren dat zij niet voornemens is bepaalde VN-reglementen toe te passen of dat zij voornemens is geen enkel VN-reglement toe te passen.
+- 7. Should a new Contracting Party accede to this Agreement between the time of the notification of the amendment to a UN Regulation by the Executive Secretary of the United Nations Economic Commission for Europe and its entry into force, the UN Regulation in question shall enter into force for that Contracting Party unless, within a period of six months from its notification of accession by the Secretary-General, that Party has informed the Secretary-General of its disagreement with the amendment.
 
-##### Artikel 12
+##### Article 13
 
-De aan deze overeenkomst gehechte VN-reglementen kunnen worden gewijzigd volgens deze procedure:
+The text of the Agreement itself and of its [Appendix](https://wetten.overheid.nl/BWBV0001196) may be amended in accordance with the following procedure:
 
-- 1. Wijzigingen van VN-reglementen worden door het in [artikel 1, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2025-12-27&g=2025-12-27), beschreven beheerscomité vastgesteld volgens de procedure in het aanhangsel. Nadat een wijziging van het VN-reglement is vastgesteld, wordt zij door het beheerscomité meegedeeld aan de uitvoerend secretaris van de Economische Commissie voor Europa van de Verenigde Naties. Vervolgens doet de uitvoerend secretaris zo spoedig mogelijk kennisgeving van deze wijziging aan de overeenkomstsluitende partijen die het VN-reglement toepassen, en aan de secretaris-generaal.
+- 1. Any Contracting Party may propose one or more amendments to this Agreement and its [Appendix](https://wetten.overheid.nl/BWBV0001196). The text of any proposed amendment to the Agreement and its Appendix shall be transmitted to the Secretary-General, who shall transmit it to all Contracting Parties and inform all other countries referred to in [paragraph 1 of Article 6](https://wetten.overheid.nl/BWBV0001196) thereof.
 
-- 2. Een wijziging van een VN-reglement wordt geacht te zijn aangenomen tenzij binnen zes maanden na de kennisgeving ervan door de uitvoerend secretaris van de Economische Commissie voor Europa van de Verenigde Naties, meer dan een vijfde van de overeenkomstsluitende partijen die het VN-reglement toepassen, op het tijdstip van de kennisgeving de secretaris-generaal heeft meegedeeld niet in te stemmen met de wijziging. Wanneer een wijziging van een VN-reglement is aangenomen, verklaart de secretaris-generaal de wijziging zo spoedig mogelijk als aangenomen en bindend voor de overeenkomstsluitende partijen die het VN-reglement toepassen.
+- 2. Any proposed amendment circulated in accordance with paragraph 1 of this Article shall be deemed to be accepted if no Contracting Party expresses an objection within a period of nine months following the date of circulation of the proposed amendment by the Secretary-General.
 
-- 3. Wijzigingen van een VN-reglement kunnen overgangsbepalingen bevatten met betrekking tot de inwerkingtreding van het gewijzigde VN-reglement, tot welke datum de overeenkomstsluitende partijen goedkeuringen krachtens de vorige versie van het VN-reglement aanvaarden en de datum met ingang waarvan de overeenkomstsluitende partijen niet verplicht zijn typegoedkeuringen te aanvaarden die krachtens de vorige versie van het gewijzigde VN-reglement zijn verleend.
+- 3. The Secretary-General shall, as soon as possible, notify all Contracting Parties whether an objection to the proposed amendment has been expressed. If an objection to the proposed amendment has been expressed, the amendment shall be deemed not to have been accepted, and shall be of no effect whatsoever. If no such objection has been expressed, the amendment shall enter into force for all Contracting Parties three months after the expiry of the period of nine months referred to in paragraph 2 of this Article.
 
-- 4. Ook als de overgangsbepalingen in een versie van VN-reglementen anders luiden, kunnen de overeenkomstsluitende partijen die VN-reglementen toepassen, met inachtneming van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=2&z=2025-12-27&g=2025-12-27) toch typegoedkeuringen krachtens eerdere versies van VN-reglementen verlenen. Overeenkomstig lid 3 van dit artikel zijn de overeenkomstsluitende partijen die een VN-reglement toepassen, echter niet verplicht typegoedkeuringen te aanvaarden die krachtens die eerdere versies zijn verleend.
+##### Article 13 bis
 
-- 5. Alle overeenkomstsluitende partijen die een VN-reglement toepassen, behalve die welke de secretaris-generaal in kennis hebben gesteld van hun voornemen om het VN-reglement niet langer toe te passen, aanvaarden goedkeuringen die krachtens de recentste versie van dat VN-reglement zijn verleend. Een overeenkomstsluitende partij die de secretaris-generaal kennis heeft gegeven van haar voornemen om een VN-reglement niet langer toe te passen, aanvaardt tijdens de in [artikel 1, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2025-12-27&g=2025-12-27), bedoelde periode van één jaar goedkeuringen die zijn verleend krachtens de versie(s) van het VN-reglement dat of die voor die overeenkomstsluitende partij op het ogenblik van haar kennisgeving aan de secretaris-generaal van toepassing is of zijn.
+1. The Schedules of Administrative and Procedural Provisions annexed to this Agreement may be amended in accordance with the following procedure:
 
-- 6. Een overeenkomstsluitende partij die een VN-reglement toepast, kan vrijstellingsgoedkeuring krachtens een VN-reglement verlenen voor slechts één type voertuig op wielen, uitrustingsstuk of onderdeel dat gebaseerd is op een nieuwe technologie die niet onder het bestaande VN-reglement valt en onverenigbaar is met een of meer voorschriften van dit VN-reglement. In dat geval gelden de procedures van [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&bijlage=7&z=2025-12-27&g=2025-12-27) die aan deze overeenkomst is gehecht.
+- 1.1. Amendments to the Schedules of Administrative and Procedural Provisions shall be established by the Administrative Committee as referred to in [Article 1.1](https://wetten.overheid.nl/BWBV0001196) and in accordance with the procedure indicated in [Article 7 of the Appendix to this Agreement](https://wetten.overheid.nl/BWBV0001196).
 
-- 7. Mocht een nieuwe overeenkomstsluitende partij tot deze overeenkomst toetreden tussen het tijdstip van de kennisgeving van de wijziging van een VN-reglement door de uitvoerend secretaris van de Economische Commissie voor Europa van de Verenigde Naties en de inwerkingtreding ervan, treedt het VN-reglement in kwestie voor die overeenkomstsluitende partij in werking, tenzij die partij, binnen zes maanden na de kennisgeving van haar toetreding door de secretaris-generaal, de secretaris-generaal ervan op de hoogte heeft gebracht dat zij niet met de wijziging instemt.
+- 1.2. An amendment to the Schedules of Administrative and Procedural Provisions shall be communicated by the Administrative Committee to the Secretary-General. As soon as possible thereafter, the Secretary-General shall give notification of this amendment to the Contracting Parties applying one or more UN Regulations.
 
-##### Artikel 13
+2. An amendment to the Schedules of Administrative and Procedural Provisions will be considered to be adopted unless3)[Red.] Kennelijk wordt hier „if” bedoeld., within a period of six months from its notification by the Secretary-General, no Contracting Party applying one or more UN Regulations has informed the Secretary-General of its disagreement with the amendment.
 
-De tekst van de overeenkomst zelf en van het aanhangsel kan worden gewijzigd volgens deze procedure:
+3. The Secretary-General shall, as soon as possible, notify all Contracting Parties to the Agreement applying one or more UN Regulations whether an objection to the proposed amendment has been expressed. If an objection to the proposed amendment has been expressed, the amendment shall be deemed not accepted, and shall be of no effect whatsoever. If no such objection has been expressed, the amendment shall enter into force for all Contracting Parties applying one or more UN Regulations three months after the expiry of the period of six months referred to in paragraph 2 of this Article.
 
-- 1. Elke overeenkomstsluitende partij kan een of meer wijzigingen van deze overeenkomst en het aanhangsel ervan voorstellen. De tekst van elke voorgestelde wijziging van de overeenkomst en het aanhangsel ervan wordt toegezonden aan de secretaris-generaal, die deze tekst doorzendt aan alle overeenkomstsluitende partijen en ter kennis brengt van alle andere in [artikel 6, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=6&z=2025-12-27&g=2025-12-27), bedoelde landen.
+4. A new schedule shall be considered as an amendment to the Schedules of Administrative and Procedural Provisions and, therefore, established according to the same procedure as specified in this Article.
 
-- 2. Elke voorgestelde wijziging die overeenkomstig lid 1 van dit artikel is toegezonden, wordt geacht te zijn aanvaard als geen van de overeenkomstsluitende partijen bezwaar maakt binnen negen maanden na de datum waarop de secretaris-generaal de voorgestelde wijziging heeft doen toekomen.
+##### Article 14
 
-- 3. De secretaris-generaal stelt alle overeenkomstsluitende partijen er zo spoedig mogelijk van in kennis of tegen de voorgestelde wijziging bezwaar is gemaakt. Is dat het geval, wordt de wijziging geacht niet te zijn aanvaard en heeft zij geen enkel effect. Is dat niet het geval, treedt de wijziging voor alle overeenkomstsluitende partijen in werking drie maanden na het verstrijken van de in lid 2 van dit artikel bedoelde termijn van negen maanden.
+1. In accordance with the provisions of this Agreement, the Secretary-General shall notify the Contracting Parties of:
 
-##### Artikel 14
+- a) Accessions in accordance with [Article 6](https://wetten.overheid.nl/BWBV0001196);
 
-1. Volgens de bepalingen van deze overeenkomst stelt de secretaris-generaal de overeenkomstsluitende partijen in kennis van:
+- b) The dates of entry into force of this Agreement in accordance with [Article 7](https://wetten.overheid.nl/BWBV0001196);
 
-- a. toetredingen overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=6&z=2025-12-27&g=2025-12-27);
+- c) Denunciations in accordance with [Article 8](https://wetten.overheid.nl/BWBV0001196);
 
-- b. de data van inwerkingtreding van deze overeenkomst krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=7&z=2025-12-27&g=2025-12-27);
+- d) Notifications received in accordance with [Article 9](https://wetten.overheid.nl/BWBV0001196);
 
-- c. opzeggingen overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=8&z=2025-12-27&g=2025-12-27);
+- e) Declarations and notifications received in accordance with [paragraphs 1 and 2 of Article 11](https://wetten.overheid.nl/BWBV0001196);
 
-- d. overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=9&z=2025-12-27&g=2025-12-27) ontvangen kennisgevingen;
+- f) The entry into force of any new UN Regulation and any amendment to an existing UN Regulation in accordance with [paragraphs 2, 3, 5 and 7 of Article 1](https://wetten.overheid.nl/BWBV0001196), and [paragraph 2 of Article 12](https://wetten.overheid.nl/BWBV0001196);
 
-- e. overeenkomstig [artikel 11, leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=11&z=2025-12-27&g=2025-12-27), ontvangen verklaringen en kennisgevingen;
+- g) The entry into force of any amendment to the Agreement, its [Appendix](https://wetten.overheid.nl/BWBV0001196) or to the [Schedules of Administrative and Procedural Provisions](https://wetten.overheid.nl/BWBV0001196) in accordance with [paragraph 3 of Article 13](https://wetten.overheid.nl/BWBV0001196) or with [paragraph 3 of Article 13 bis](https://wetten.overheid.nl/BWBV0001196), respectively;
 
-- f. de inwerkingtreding van elk nieuw VN-reglement en van elke wijziging van een bestaand VN-reglement overeenkomstig [artikel 1, leden 2, 3, 5 en 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2025-12-27&g=2025-12-27), en [artikel 12, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=12&z=2025-12-27&g=2025-12-27);
+- h) The cessation of application of UN Regulations by Contracting Parties in accordance with [paragraph 6 of Article 1](https://wetten.overheid.nl/BWBV0001196).
 
-- g. de inwerkingtreding van elke wijziging van de overeenkomst, het aanhangsel ervan of de bijlagen met administratieve en procedurele bepalingen overeenkomstig [artikel 13, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=13&z=2025-12-27&g=2025-12-27), respectievelijk [artikel 13 bis, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=13_bis&z=2025-12-27&g=2025-12-27);
+2. In accordance with the provisions of this Agreement and the annexed [Schedules of Administrative and Procedural Provisions](https://wetten.overheid.nl/BWBV0001196), the Executive Secretary of the United Nations Economic Commission for Europe shall notify:
 
-- h. de stopzetting van de toepassing van VN-reglementen door overeenkomstsluitende partijen krachtens [artikel 1, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2025-12-27&g=2025-12-27).
+- a) The Secretary-General and the Contracting Parties of the establishment of an amendment to a UN Regulation in accordance with [paragraph 2 of Article 12](https://wetten.overheid.nl/BWBV0001196);
 
-2. Overeenkomstig de bepalingen van deze overeenkomst en de daaraan gehechte bijlagen met administratieve en procedurele bepalingen geeft de uitvoerend secretaris van de Economische Commissie voor Europa van de Verenigde Naties:
+- b) The Contracting Parties of the decision by Administrative Committee on an exemption approval request and, subsequently, of its adoption in accordance with [paragraph 5 of Schedule 7](https://wetten.overheid.nl/BWBV0001196).
 
-- a. de secretaris-generaal en de overeenkomstsluitende partijen kennis van de vaststelling van een wijziging van een VN-reglement overeenkomstig [artikel 12, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=12&z=2025-12-27&g=2025-12-27);
+##### Article 15
 
-- b. de overeenkomstsluitende partijen kennis van het besluit van het beheerscomité over een verzoek om vrijstellingsgoedkeuring en van de aanneming ervan overeenkomstig [punt 5 van bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&bijlage=7&z=2025-12-27&g=2025-12-27).
+1. If at the date the above provisions come into effect the procedures envisaged in [Article 1, paragraphs 3 and 4](https://wetten.overheid.nl/BWBV0001196) of the previous version of the Agreement are under way for adopting a new UN Regulation, the said new UN Regulation shall enter into force under the provisions of paragraph 4 of the said Article.
 
-##### Artikel 15
+2. If at the date the above provisions come into effect, the procedures envisaged in [Article 12, paragraph 1](https://wetten.overheid.nl/BWBV0001196) of the previous version of the Agreement are under way for the adoption of an amendment to a UN Regulation, the said amendment shall enter into force under the provisions of the said Article.
 
-1. Indien op de datum van inwerkingtreding van de bovenstaande bepalingen de in [artikel 1, leden 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2025-12-27&g=2025-12-27), van de vorige versie van de overeenkomst beoogde procedures voor de aanneming van een nieuw VN-reglement aan de gang zijn, treedt dat nieuwe VN-reglement in werking overeenkomstig lid 4 van voornoemd artikel.
+3. If all Contracting Parties to the Agreement agree, any UN Regulation adopted under the terms of the previous version of the Agreement may be treated as though it were a UN Regulation adopted under the terms of the above provisions.
 
-2. Indien op de datum van inwerkingtreding van de bovenstaande bepalingen de in [artikel 12, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=12&z=2025-12-27&g=2025-12-27), van de vorige versie van de overeenkomst beoogde procedures voor de aanneming van een wijziging van een VN-reglement aan de gang zijn, treedt die wijziging overeenkomstig voornoemd artikel in werking.
+##### Article 16
 
-3. Indien alle partijen bij de overeenkomst het erover eens zijn, kan elk krachtens de vorige versie van de overeenkomst aangenomen VN-reglement worden beschouwd als een VN-reglement dat overeenkomstig de bovenstaande bepalingen is aangenomen.
-
-##### Artikel 1
-
-Het Administratief Comité is samengesteld uit alle Overeenkomstsluitende Partijen bij de gewijzigde Overeenkomst.
-
-##### Artikel 2
-
-De Uitvoerende Secretaris van de Economische Commissie voor Europa van de Verenigde Naties verzorgt secretariële diensten voor het Comité.
-
-##### Artikel 3
-
-Het Comité kiest elk jaar tijdens de eerste zitting een voorzitter en een vice-voorzitter.
-
-##### Artikel 4
-
-De Secretaris-Generaal van de Verenigde Naties roept het Comité onder auspiciën van de Economische Commissie voor Europa bijeen telkens wanneer er een nieuw Reglement moet worden opgesteld of een Reglement moet worden gewijzigd.
-
-##### Artikel 5
-
-Voorstellen voor een nieuw Reglement worden aan een stemming onderworpen. Elk land dat Overeenkomstsluitende Partij is bij de Overeenkomst heeft één stem. Het vereiste quorum om beslissingen te kunnen nemen is ten minste de helft van de Overeenkomstsluitende Partijen. Voor de vaststelling van het quorum beschikken de organisaties voor regionale economische integratie die Overeenkomstsluitende Partij zijn bij de Overeenkomst over evenveel stemmen als zij lidstaten hebben. De vertegenwoordiger van een organisatie voor regionale economische integratie kan de stemmen uitbrengen van haar soevereine lidstaten. Voor de aanneming van nieuwe ontwerp-Reglementen is een tweederde-meerderheid vereist van de aanwezige leden die hun stem uitbrengen.
-
-##### Artikel 6
-
-Voorstellen tot wijziging van een Reglement worden aan een stemming onderworpen. Elk land dat Overeenkomstsluitende Partij is bij de Overeenkomst en het Reglement toepast, heeft één stem. Het vereiste quorum om beslissingen te kunnen nemen is ten minste de helft van de Overeenkomstsluitende Partijen die het Reglement toepassen. Voor de vaststelling van het quorum beschikken de organisaties voor regionale economische integratie die Overeenkomstsluitende Partij zijn bij de Overeenkomst over evenveel stemmen als zij lidstaten hebben. De vertegenwoordiger van een organisatie voor regionale economische integratie kan de stemmen uitbrengen van haar soevereine lidstaten die het desbetreffende Reglement toepassen. Voor de aanneming van ontwerpwijzigingen van Reglementen is een tweederde-meerderheid vereist van de aanwezige leden die hun stem uitbrengen.
-
-##### 1. INITIËLE BEOORDELING
-
-1.1. De goedkeurende autoriteit van een Overeenkomstsluitende Partij verifieert – alvorens de typegoedkeuring te verlenen – of er behoorlijke regelingen en procedures bestaan ter waarborging van een doeltreffende controle, opdat in productie zijnde voertuigen, uitrustingsstukken of onderdelen conform het goedgekeurde type zijn.
-
-1.2. Het vereiste van lid 1.1. moet worden geverifieerd ten genoegen van de autoriteit die de typegoedkeuring verleent, maar mag ook, namens en op verzoek van de autoriteit die de typegoedkeuring verleent, worden geverifieerd door de goedkeurende autoriteit van een andere Overeenkomstsluitende Partij. In een dergelijk geval stelt de laatste goedkeurende autoriteit een conformverklaring op waarin zij de door haar gecontroleerde locaties en productiefaciliteiten vermeldt die betrekking hebben op het product of de producten waarvoor een typegoedkeuring wordt gevraagd.
-
-1.3. De goedkeurende autoriteit accepteert tevens de registratie van de fabrikant uit hoofde van de geharmoniseerde norm ISO 9002 (die betrekking heeft op het goed te keuren product of de goed te keuren producten) of een gelijkwaardige accrediteringsnorm die aan de vereisten van lid 1.1. voldoet. De fabrikant legt de gegevens betreffende de registratie over en brengt de goedkeurende autoriteit op de hoogte van alle herzieningen betreffende de geldigheid of werkingssfeer van de registratie.
-
-1.4. Zodra de goedkeurende autoriteit een verzoek ontvangt van de autoriteit van een andere lidstaat, zendt zij onverwijld de in de laatste zin van punt 1.2. genoemde conformverklaring toe, of deelt zij mede dat zij een dergelijke verklaring niet kan overleggen.
-
-##### 2. CONFORMITEIT VAN PRODUCTIE
-
-2.1. Elk voertuig, uitrustingsstuk of onderdeel dat uit hoofde van een Reglement behorend bij deze Overeenkomst wordt goedgekeurd, moet zodanig zijn gefabriceerd dat het overeenkomt met het goedgekeurde type en aan de eisen van dit Aanhangsel alsmede aan het desbetreffende Reglement voldoet.
-
-2.2. De goedkeurende autoriteit van een Overeenkomstsluitende Partij die een typegoedkeuring ingevolge een Reglement behorend bij deze Overeenkomst verleent, moet verifiëren of er behoorlijke bepalingen en schriftelijk vastgelegde inspectieprogramma's bestaan, die bij elke typegoedkeuring met de fabrikant moeten worden overeengekomen, zodat de beproevingen of daarbij behorende controles ter verificatie van de voortdurende conformiteit met het goedgekeurde type op vastgestelde tijdstippen worden uitgevoerd, met inbegrip van, indien van toepassing, de in het desbetreffende Reglement genoemde beproevingen.
-
-2.3. De houder van een goedkeuring heeft de volgende verplichtingen:
-
-- 2.3.1. Zorgen voor het bestaan van procedures voor daadwerkelijke controle van de conformiteit van producten (voertuigen, uitrustingsstukken of onderdelen) met de typegoedkeuring.
-
-- 2.3.2. Toegang hebben tot de beproevingsapparatuur die nodig is voor het controleren van de conformiteit met ieder goedgekeurd type.
-
-- 2.3.3. Ervoor zorgen dat de beproevingsresultaten worden vastgelegd en dat bijgevoegde documenten gedurende een in overeenstemming met de goedkeurende autoriteit vast te stellen periode beschikbaar blijven. Deze periode bedraagt ten hoogste 10 jaren.
-
-- 2.3.4. Het analyseren van de resultaten van elke soort beproeving, om de stabiliteit van de productkenmerken te kunnen verifiëren en waarborgen, rekening houdend met de mogelijke variatie in industriële productie.
-
-- 2.3.5. Ervoor zorgen dat op elk type product ten minste de in dit Aanhangsel voorgeschreven controles en de in de desbetreffende Reglementen voorgeschreven beproevingen worden verricht.
-
-- 2.3.6. Ervoor zorgen dat elke serie monsternemingen of proefstukken waaruit blijkt dat er bij de desbetreffende soort beproeving geen sprake is van conformiteit, wordt gevolgd door verdere monsternemingen en beproevingen. Alle nodige maatregelen moeten worden getroffen om de desbetreffende productie wederom conform te maken.
-
-2.4. De autoriteit die een typegoedkeuring heeft verleend, kan te allen tijde de in elke productiefaciliteit toegepaste methode voor conformiteitscontrole verifiëren. De normale frequentie van deze verificaties moet in overeenstemming zijn met de (eventuele) regelingen geaccepteerd ingevolge lid 1.2. of 1.3. van dit Aanhangsel en moet zodanig zijn dat wordt gewaarborgd dat de bedoelde controles opnieuw worden beoordeeld over een periode die overeenkomt met het door de goedkeurende autoriteit gewekte vertrouwen.
-
-2.4.1. Bij elke inspectie moeten de beproevingsgegevens en productiegegevens aan de inspecteur ter beschikking worden gesteld.
-
-2.4.2. Indien de aard van de beproeving zich daartoe leent, kan de inspecteur steekproefsgewijs monsters nemen en deze ter beproeving aanbieden aan het laboratorium van de fabrikant (of aan de Technische Dienst indien zulks in een Reglement behorend bij deze Overeenkomst is voorzien). Het minimum aantal monsters mag worden vastgesteld aan de hand van de resultaten van de door de fabrikant zelf verrichte verificatie.
-
-2.4.3. Indien blijkt dat het niveau van controle onvoldoende is, of wanneer het nodig lijkt de bruikbaarheid van de ingevolge lid 2.4.2. uitgevoerde beproevingen te verifiëren, moet de inspecteur monsters nemen die worden gezonden naar de Technische Dienst, die de typegoedkeurings-beproevingen uitvoert.
-
-2.4.4. De goedkeurende autoriteit kan elke in dit Aanhangsel of in het desbetreffende Reglement in de bijlage bij deze Overeenkomst voorgeschreven controle of beproeving uitvoeren.
-
-2.4.5. Indien een inspectie onbevredigende resultaten oplevert, draagt de goedkeurende autoriteit er zorg voor dat alle nodige maatregelen worden getroffen om zo spoedig mogelijk de conformiteit van productie te herstellen."
-
-##### Artikel 13 bis
-
-1. De aan deze overeenkomst gehechte bijlagen met administratieve en procedurele bepalingen kunnen worden gewijzigd volgens deze procedure:
-
-- 1.1. Wijzigingen van de bijlagen met administratieve en procedurele bepalingen worden vastgesteld door het in [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&artikel=1&z=2025-12-27&g=2025-12-27), bedoelde beheerscomité en volgens de procedure in artikel 7 van het aanhangsel van deze overeenkomst.
-
-- 1.2. Een wijziging van de bijlagen met administratieve en procedurele bepalingen wordt door het beheerscomité meegedeeld aan de secretaris-generaal. Vervolgens brengt de secretaris-generaal deze wijziging zo spoedig mogelijk ter kennis van de overeenkomstsluitende partijen die een of meer VN-reglementen toepassen.
-
-2. Een wijziging van de bijlagen met administratieve en procedurele bepalingen wordt geacht te zijn aangenomen indien, binnen zes maanden na de kennisgeving door de secretaris-generaal, geen enkele overeenkomstsluitende partij die een of meer VN-reglementen toepast, de secretaris-generaal heeft meegedeeld niet in te stemmen met de wijziging.
-
-3. De secretaris-generaal stelt alle overeenkomstsluitende partijen die een of meer VN-reglementen toepassen, er zo spoedig mogelijk van in kennis of tegen de voorgestelde wijziging bezwaar is gemaakt. Is dat het geval, wordt de wijziging geacht niet te zijn aanvaard en heeft zij geen enkel effect. Is dat niet het geval, treedt de wijziging voor alle overeenkomstsluitende partijen die een of meer VN-reglementen toepassen, in werking drie maanden na het verstrijken van de in lid 2 van dit artikel bedoelde termijn van zes maanden.
-
-4. Een nieuwe bijlage wordt als een wijziging van de bijlagen met administratieve en procedurele bepalingen beschouwd en wordt derhalve volgens dezelfde in dit artikel beschreven procedure vastgesteld.
-
-##### Artikel 16
-
-Deze overeenkomst werd ondertekend te Genève in één exemplaar in de Engelse, de Franse en de Russische taal, waarbij alle teksten gelijkelijk authentiek zijn.
-
-##### Artikel 1
-
-Het beheerscomité wordt samengesteld uit alle partijen bij de gewijzigde overeenkomst.
-
-##### Artikel 2
-
-De uitvoerend secretaris van de Economische Commissie voor Europa van de Verenigde Naties verleent het comité secretariaatsdiensten.
-
-##### Artikel 3
-
-Het comité kiest elk jaar in zijn eerste zitting een voorzitter en een vicevoorzitter.
-
-##### Artikel 4
-
-De secretaris-generaal van de Verenigde Naties roept het comité onder de auspiciën van de Economische Commissie voor Europa van de Verenigde Naties bijeen telkens als een nieuw VN-reglement, een wijziging van een VN-reglement, een kennisgeving volgens de procedure voor vrijstellingsgoedkeuring met betrekking tot nieuwe technologieën (toegelicht in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001196&bijlage=7&z=2025-12-27&g=2025-12-27)) of een wijziging van de bijlagen met administratieve en procedurele bepalingen moet worden vastgesteld.
-
-##### Artikel 5
-
-Voorgestelde nieuwe VN-reglementen worden in stemming gebracht. Elk land dat partij is bij de overeenkomst, heeft één stem. Voor het nemen van besluiten is een quorum vereist van ten minste de helft van de overeenkomstsluitende partijen. Voor de vaststelling van het quorum beschikken de organisaties voor regionale economische integratie die overeenkomstsluitende partij zijn, over het aantal stemmen van hun lidstaten. De vertegenwoordiger van een organisatie voor regionale economische integratie kan de stemmen uitbrengen van de soevereine staten die daar lid van zijn. Nieuwe VN-ontwerpreglementen worden vastgesteld met een viervijfdemeerderheid van de aanwezige leden die hun stem uitbrengen.
-
-##### Artikel 6
-
-Voorgestelde wijzigingen van VN-reglementen worden in stemming gebracht. Elk land dat partij is bij de overeenkomst en het VN-reglement toepast, heeft één stem. Voor het nemen van besluiten is een quorum vereist van ten minste de helft van de overeenkomstsluitende partijen die het VN-reglement toepassen. Voor de vaststelling van het quorum beschikken de organisaties voor regionale economische integratie die overeenkomstsluitende partij zijn, over het aantal stemmen van hun lidstaten. De vertegenwoordiger van een organisatie voor regionale economische integratie kan de stemmen uitbrengen van de soevereine staten die daar lid van zijn en het VN-reglement toepassen. Ontwerpwijzigingen van VN-reglementen worden vastgesteld met een viervijfdemeerderheid van de aanwezige leden die hun stem uitbrengen.
-
-##### Artikel 7
-
-Voorgestelde wijzigingen van de aan deze overeenkomst gehechte bijlagen met administratieve en procedurele bepalingen worden in stemming gebracht. Elke overeenkomstsluitende partij die een of meer VN-reglementen toepast, heeft één stem. Voor het nemen van besluiten is een quorum vereist van ten minste de helft van de overeenkomstsluitende partijen die een of meer VN-reglementen toepassen. Voor de vaststelling van het quorum beschikken de organisaties voor regionale economische integratie die overeenkomstsluitende partij zijn, over het aantal stemmen van hun lidstaten. De vertegenwoordiger van een organisatie voor regionale economische integratie kan de stemmen uitbrengen van de soevereine staten die daar lid van zijn en een of meer VN-reglementen toepassen. Ontwerpwijzigingen van de bijlagen met administratieve en procedurele bepalingen worden vastgesteld met eenparigheid van stemmen van de aanwezige leden die hun stem uitbrengen.
-
-##### Artikel 8
-
-Het verzoek van een partij om machtiging tot het verlenen van een voorgestelde vrijstellingsgoedkeuring met betrekking tot nieuwe technologieën wordt in stemming gebracht. Elke overeenkomstsluitende partij die het VN-reglement toepast, heeft één stem. Voor het nemen van besluiten is een quorum vereist van ten minste de helft van de overeenkomstsluitende partijen die het VN-reglement toepassen. Voor de vaststelling van het quorum beschikken de organisaties voor regionale economische integratie die overeenkomstsluitende partij zijn, over het aantal stemmen van hun lidstaten. De vertegenwoordiger van een organisatie voor regionale economische integratie kan de stemmen uitbrengen van de soevereine staten die daar lid van zijn en het VN-reglement toepassen. De machtiging tot het verlenen van een vrijstellingsgoedkeuring voor de genoemde overeenkomstsluitende partij wordt vastgesteld met een viervijfdemeerderheid van de aanwezige leden die hun stem uitbrengen.
+This Agreement was done at Geneva in a single copy in the English, French and Russian languages, each text being equally authentic.

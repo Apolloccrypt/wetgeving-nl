@@ -1,48 +1,19 @@
 ---
 title: "Overeenkomst tussen de Regering van de Republiek Hongarije en Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) betreffende de overname van onregelmatig verblijvende personen"
 identifier: "BWBV0001576"
-country: "nl"
-rank: "verdrag"
-publication_date: "2003-12-01"
-last_updated: "2003-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001576"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10000444883"
-version_id: "10000453182"
-internal_id: "C10006993161"
-label_id: "10000445294"
-original_entry_into_force: "2003-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001576/2003-12-01/0"
-intitule_bron: "Trb.2002-59"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-02-04"
-intitule_published: "2002-03-25"
-intitule_in_force: "2003-12-18"
-intitule_status: "goed"
-original_publication: "Trb.2002-59"
-original_signed_date: "2003-02-04"
-original_published_date: "2002-03-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2002-59"
-entry_into_force_date: "2003-12-01"
-jci_1_3: "jci1.3:c:BWBV0001576&z=2003-12-01&g=2003-12-01"
-jci_1_0: "1.0:c:BWBV0001576&g=2003-12-01"
-citeertitel_status: "officieel"
-signed_date: "2003-02-04"
-entry_into_force: "2003-12-01"
+publicatiedatum: 2003-12-01
+laatste_update: 2003-12-01
+status: geldig
+toestand: 2003-12-01
+bron: "https://wetten.overheid.nl/BWBV0001576"
+opgehaald: 2026-09-11
 ---
+
 # Overeenkomst tussen de Regering van de Republiek Hongarije en Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) betreffende de overname van onregelmatig verblijvende personen
 
-De Regering van de Republiek Hongarije enerzijds (hierna genoemd „de Overeenkomstsluitende Partij")
-
-en
-
-de Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden), die krachtens de bepalingen van de op 11 april 1960 gesloten [Benelux-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005246) gemeenschappelijk optreden anderzijds,
-
-ernaar strevend de overname van personen die zich illegaal op het grondgebied van de Staat van een andere Overeenkomstsluitende Partij ophouden, dat wil zeggen die niet of niet meer voldoen aan de geldende voorwaarden voor binnenkomst of verblijf, en de doorgeleiding van te repatriëren personen in een geest van samenwerking en op basis van wederkerigheid te vergemakkelijken,
-
-zijn het volgende overeengekomen:
+*De Regering van de Republiek Hongarije enerzijds (hierna genoemd „de Overeenkomstsluitende Partij") en de Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden), die krachtens de bepalingen van de op 11 april 1960 gesloten Benelux-Overeenkomst gemeenschappelijk optreden anderzijds, ernaar strevend de overname van personen die zich illegaal op het grondgebied van de Staat van een andere Overeenkomstsluitende Partij ophouden, dat wil zeggen die niet of niet meer voldoen aan de geldende voorwaarden voor binnenkomst of verblijf, en de doorgeleiding van te repatriëren personen in een geest van samenwerking en op basis van wederkerigheid te vergemakkelijken, zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Definities en werkingssfeer
 
@@ -50,9 +21,9 @@ In deze Overeenkomst dient te worden verstaan onder
 
 - a. „grondgebied":
 
-- –. van de Republiek Hongarije: het grondgebied van de Republiek Hongarije;
+   - – van de Republiek Hongarije: het grondgebied van de Republiek Hongarije;
 
-- –. van de Benelux-Staten: het gezamenlijke grondgebied in Europa van het Koninkrijk België, van het Groothertogdom Luxemburg en van het Koninkrijk der Nederlanden;
+   - – van de Benelux-Staten: het gezamenlijke grondgebied in Europa van het Koninkrijk België, van het Groothertogdom Luxemburg en van het Koninkrijk der Nederlanden;
 
 - b. „derde land": elke Staat die niet de Republiek Hongarije of geen Benelux-Staat is;
 
@@ -84,7 +55,7 @@ In deze Overeenkomst dient te worden verstaan onder
 
 - c. jegens wie door de aangezochte Overeenkomstsluitende Partij uitzettings- of teruggeleidingsmaatregelen zijn genomen op voorwaarde dat aangetoond kan worden dat zij het grondgebied van de aangezochte Overeenkomstsluitende Partij voor een derde land hebben verlaten;
 
-- d. aan wie de verzoekende Overeenkomstsluitende Partij met toepassing van het [Verdrag van Genève van 28 juli 1951 betreffende de status van vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001002), als gewijzigd bij het [Protocol van 31 januari 1967](onbekend), de status van vluchteling heeft toegekend of die een daartoe strekkende aanvraag hebben ingediend waarover nog niet door de verzoekende Overeenkomstsluitende Partij is beslist.
+- d. aan wie de verzoekende Overeenkomstsluitende Partij met toepassing van het [Verdrag van Genève van 28 juli 1951 betreffende de status van vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001002), als gewijzigd bij het Protocol van 31 januari 1967, de status van vluchteling heeft toegekend of die een daartoe strekkende aanvraag hebben ingediend waarover nog niet door de verzoekende Overeenkomstsluitende Partij is beslist.
 
 5. Het bepaalde in lid (1) hierboven is niet van toepassing wanneer de verzoekende Overeenkomstsluitende Partij een regeling van visumvrije binnenkomst toepast ten aanzien van het derde land waarvan betrokkene onderdaan is.
 
@@ -102,53 +73,53 @@ In deze Overeenkomst dient te worden verstaan onder
 
 - a. van de kant van de Hongaarse Overeenkomstsluitende Partij:
 
-- –. een geldig paspoort of paspoortvervangend reisdocument met foto (laissez-passer);
+   - – een geldig paspoort of paspoortvervangend reisdocument met foto (laissez-passer);
 
-- –. een geldig identiteitsbewijs;
+   - – een geldig identiteitsbewijs;
 
-- –. een nationaliteitsbewijs dat niet langer dan één (1) jaar geleden werd afgegeven;
+   - – een nationaliteitsbewijs dat niet langer dan één (1) jaar geleden werd afgegeven;
 
 - b. van de kant van de Overeenkomstsluitende Partijen van de Benelux:
 
-- –. een geldig paspoort of paspoortvervangend reisdocument met foto (laissez-passer);
+   - – een geldig paspoort of paspoortvervangend reisdocument met foto (laissez-passer);
 
-- –. een geldig identiteitsbewijs;
+   - – een geldig identiteitsbewijs;
 
-- –. een geldig militair identiteitsbewijs of een ander identiteitsbewijs van het personeel van de strijdkrachten met een foto van de houder;
+   - – een geldig militair identiteitsbewijs of een ander identiteitsbewijs van het personeel van de strijdkrachten met een foto van de houder;
 
-- –. een document, zoals hiervoor beschreven, waarvan de geldigheidsduur is verstreken op de dag van ontvangst van het verzoek om overname.
+   - – een document, zoals hiervoor beschreven, waarvan de geldigheidsduur is verstreken op de dag van ontvangst van het verzoek om overname.
 
 2. Het vermoeden van de nationaliteit kan tevens worden ondersteund door middel van één van de volgende elementen:
 
 - a. van de kant van de Hongaarse Overeenkomstsluitende Partij:
 
-- –. een geldig voorlopig identiteitsbewijs;
+   - – een geldig voorlopig identiteitsbewijs;
 
-- –. een document zoals beschreven in punt a) van lid (1) hierboven, dat vervallen is;
+   - – een document zoals beschreven in punt a) van lid (1) hierboven, dat vervallen is;
 
-- –. documenten waaruit blijkt dat de betrokkene behoort tot het personeel van de Hongaarse strijdkrachten of de Hongaarse ordehandhavingsdiensten;
+   - – documenten waaruit blijkt dat de betrokkene behoort tot het personeel van de Hongaarse strijdkrachten of de Hongaarse ordehandhavingsdiensten;
 
-- –. elk door de autoriteiten afgegeven document waaruit de nationaliteit van de betrokkene blijkt;
+   - – elk door de autoriteiten afgegeven document waaruit de nationaliteit van de betrokkene blijkt;
 
-- –. afschriften van bovengenoemde documenten;
+   - – afschriften van bovengenoemde documenten;
 
-- –. een officiële verklaring van de betrokkene zelf of een officiële betrouwbare getuigenverklaring;
+   - – een officiële verklaring van de betrokkene zelf of een officiële betrouwbare getuigenverklaring;
 
 - b. van de kant van de Overeenkomstsluitende Partijen van de Benelux:
 
-- –. een officieel document anders dan zoals beschreven in punt b) van lid (1) hierboven, aan de hand waarvan de identiteit van de betrokkene kan worden vastgesteld (rijbewijs e.d.);
+   - – een officieel document anders dan zoals beschreven in punt b) van lid (1) hierboven, aan de hand waarvan de identiteit van de betrokkene kan worden vastgesteld (rijbewijs e.d.);
 
-- –. een document waaruit een consulaire inschrijving blijkt, een nationaliteitsbewijs of een bewijs van de burgerlijke stand;
+   - – een document waaruit een consulaire inschrijving blijkt, een nationaliteitsbewijs of een bewijs van de burgerlijke stand;
 
-- –. een betrouwbare getuigenverklaring, opgesteld door de bevoegde autoriteiten van de verzoekende Overeenkomstsluitende Partij;
+   - – een betrouwbare getuigenverklaring, opgesteld door de bevoegde autoriteiten van de verzoekende Overeenkomstsluitende Partij;
 
-- –. andere documenten waaruit de identiteit van de betrokkene blijkt;
+   - – andere documenten waaruit de identiteit van de betrokkene blijkt;
 
-- –. afschriften van bovengenoemde documenten;
+   - – afschriften van bovengenoemde documenten;
 
-- –. de verklaring van de betrokkene zelf, behoorlijk opgesteld door de bevoegde autoriteiten van de verzoekende Overeenkomstsluitende Partij;
+   - – de verklaring van de betrokkene zelf, behoorlijk opgesteld door de bevoegde autoriteiten van de verzoekende Overeenkomstsluitende Partij;
 
-- –. de taal waarin de betrokkene zich uitdrukt.
+   - – de taal waarin de betrokkene zich uitdrukt.
 
 3. In geval het vermoeden van de nationaliteit wordt ondersteund overeenkomstig artikel 2 van deze Overeenkomst, maar de in lid (2) hierboven beschreven documenten niet beschikbaar zijn, kan de nationaliteit worden vastgesteld met de hulp van de bevoegde consulaire ambtenaar van de aangezochte Overeenkomstsluitende Partij. De bevoegde consulaire ambtenaar zal de betrokkene zo spoedig mogelijk, uiterlijk binnen zeven (7) dagen, horen.
 
@@ -210,7 +181,7 @@ In deze Overeenkomst dient te worden verstaan onder
 
 2. De Overeenkomstsluitende Partijen verbinden zich ertoe de persoonsgegevens te beschermen met inachtneming van het respectieve nationale recht van elke Overeenkomstsluitende Partij en van het [Verdrag van Straatsburg van 28 januari 1981 tot bescherming van personen ter zake van de geautomatiseerde verwerking van persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBV0002783).
 
-3. Voor de Benelux-Staten geldt een beschermingsniveau dat overeenstemt met het niveau dat is vastgesteld in [Richtlijn 95/46/EG](31995L0046) van het Europese Parlement en de Raad van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens.
+3. Voor de Benelux-Staten geldt een beschermingsniveau dat overeenstemt met het niveau dat is vastgesteld in Richtlijn 95/46/EG van het Europese Parlement en de Raad van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens.
 
 4. Persoonsgegevens mogen enkel aan de voor de uitvoering van deze Overeenkomst bevoegde autoriteiten worden verstrekt. Zij mogen niet aan andere autoriteiten worden doorgegeven zonder de voorafgaande schriftelijke toestemming van de Overeenkomstsluitende Partij die deze heeft verstrekt.
 
@@ -248,19 +219,19 @@ De bepalingen van deze Overeenkomst doen geen afbreuk aan de aan de onderdanen v
 
 - a.
 
-- –. het [Verdrag van Genève van 28 juli 1951 betreffende de status van vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001002), als gewijzigd bij het [Protocol van 31 januari 1967](onbekend);
+   - – het [Verdrag van Genève van 28 juli 1951 betreffende de status van vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001002), als gewijzigd bij het Protocol van 31 januari 1967;
 
-- –. het [Verdrag van Rome van 4 november 1950 tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000);
+   - – het [Verdrag van Rome van 4 november 1950 tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000);
 
-- –. verdragen inzake rechtshulp bij uitlevering en doorgeleiding;
+   - – verdragen inzake rechtshulp bij uitlevering en doorgeleiding;
 
-- –. internationale conventies betreffende de overname van vreemde onderdanen;
+   - – internationale conventies betreffende de overname van vreemde onderdanen;
 
 - b. het gemeenschapsrecht voor de Overeenkomstsluitende Partijen lidstaten van de Europese Unie, met name
 
-- –. het op 14 juni 1985 te Schengen gesloten Akkoord betreffende de geleidelijke afschaffing van de controles aan de gemeenschappelijke grenzen en de op 19 juni 1990 gesloten Overeenkomst ter uitvoering van genoemd Akkoord van Schengen;,
+   - – het op 14 juni 1985 te Schengen gesloten Akkoord betreffende de geleidelijke afschaffing van de controles aan de gemeenschappelijke grenzen en de op 19 juni 1990 gesloten Overeenkomst ter uitvoering van genoemd Akkoord van Schengen;,
 
-- –. de bepalingen van de [Overeenkomst van Dublin van 15 juni 1990 betreffende de vaststelling van de Staat die verantwoordelijk is voor de behandeling van een asielverzoek dat bij één van de Lidstaten van de Europese Unie wordt ingediend](https://wetten.overheid.nl/jci1.3:c:BWBV0002149).
+   - – de bepalingen van de [Overeenkomst van Dublin van 15 juni 1990 betreffende de vaststelling van de Staat die verantwoordelijk is voor de behandeling van een asielverzoek dat bij één van de Lidstaten van de Europese Unie wordt ingediend](https://wetten.overheid.nl/jci1.3:c:BWBV0002149).
 
 ##### Artikel 12. Uitvoeringsprotocol
 
@@ -291,144 +262,6 @@ Elk geschil over de uitlegging en toepassing van deze Overeenkomst wordt via ond
 2. De Overeenkomstsluitende Partijen kunnen de uitvoering van deze Overeenkomst om redenen in verband met de bescherming van de staatsveiligheid, de openbare orde of de volksgezondheid, voorlopig, gedeeltelijk of volledig schorsen. De depositaris wordt onverwijld via diplomatieke weg in kennis gesteld van het invoeren van een dergelijke maatregel, met opgave van motieven en van de inwerkingtreding, zowel als van de intrekking van de schorsing. De schorsing kan geen betrekking hebben op de overname van de onderdanen van de Overeenkomstsluitende Partijen. Wat de bescherming van vóór de invoering van de schorsing doorgestuurde persoonsgegevens betreft, blijven de bepalingen van artikel 8 van toepassing.
 
 3. Ieder der Overeenkomstsluitende Partijen kan deze Overeenkomst via diplomatieke weg, schriftelijk, met een aan de depositaris van deze Overeenkomst gerichte kennisgeving opzeggen. De depositaris van deze Overeenkomst stelt de overige Overeenkomstsluitende Partijen via diplomatieke weg in kennis van de opzegging. Deze Overeenkomst houdt op gevolg te hebben op de eerste dag van de tweede maand volgende op de maand waarin de depositaris de diplomatieke nota over de opzegging heeft ontvangen.
-
-Het Ministerie van Binnenlandse Zaken van de Republiek Hongarije, het Ministerie van Buitenlandse Zaken van het Koninkrijk België, het Ministerie van Buitenlandse Zaken van het Groothertogdom Luxemburg en het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden zijn, op grond van artikel 12 van de Overeenkomst van 23 januari 2002 tussen de Regering van de Republiek Hongarije en de Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden) betreffende de overname van onregelmatig verblijvende personen (hierna te noemen: de Overeenkomst), het volgende overeengekomen:
-
-##### Artikel 1. Onregelmatige binnenkomst en onregelmatig verblijf
-
-De onregelmatige binnenkomst en het onregelmatige verblijf in de zin van de artikelen 2 en 3 van de Overeenkomst worden door de Overeenkomstsluitende Partijen op grond van hun respectieve nationale wetgeving vastgesteld.
-
-##### Artikel 2. Overnameprocedure
-
-1. De verzoeken om overname van eigen onderdanen worden gedaan wanneer de identiteit en de nationaliteit van de over te nemen persoon zijn aangetoond of aannemelijk gemaakt overeenkomstig artikel 4 van de Overeenkomst.
-
-2. De verzoeken om overname van onderdanen van derde landen worden gedaan wanneer het verblijf van die personen op het grondgebied van de aangezochte Overeenkomstsluitende Partij ofwel kan worden aangetoond, aangezien betrokkenen houder zijn van een door de bevoegde instanties van de aangezochte Overeenkomstsluitende Partij afgegeven visum of verblijfstitel, ofwel aannemelijk kan worden gemaakt door middel van met name onderstaande documenten:
-
-- –. een proces-verbaal opgemaakt op grond van de door de over te nemen persoon voor de instanties van de verzoekende Overeenkomstsluitende Partij afgegeven verklaring, of
-
-- –. documenten die op het grondgebied van de aangezochte Overeenkomstsluitende Partij toegang geven tot openbare of particuliere diensten (ziekteverzekeringskaarten, documenten die recht geven op sociale uitkeringen, facturen van genoten verstrekkingen), of
-
-- –. documenten waaruit blijkt dat de over te nemen persoon gebruik heeft gemaakt van de diensten van een reisbureau of een vervoerder van de aangezochte Overeenkomstsluitende Partij;
-
-- –. reisbiljetten.
-
-3. De in artikel 6 van dit Protocol aangewezen bevoegde instantie van de verzoekende Overeenkomstsluitende Partij richt haar aanvraag tot overname van een onregelmatig verblijvende persoon aan de in artikel 6 van dit Protocol aangewezen bevoegde instantie van de aangezochte Overeenkomstsluitende Partij. Het aanvraagformulier gaat als bijlage 1 bij dit Protocol (Verzoek om overname).
-
-4. Behalve de in artikel 6 van de Overeenkomst genoemde gegevens bevat het verzoek om overname alle voor de uitvoering van de overname nodige informatie.
-
-5. De bevoegde instantie van de aangezochte Overeenkomstsluitende Partij antwoordt de bevoegde instantie van de verzoekende Overeenkomstsluitende Partij binnen de in lid (1) van artikel 7 van de Overeenkomst bepaalde termijn, dat zij de desbetreffende persoon overneemt.
-
-6. De bevoegde instantie van de aangezochte Overeenkomstsluitende Partij neemt de persoon wiens overname zij heeft aanvaard binnen de in lid (2) zo niet lid (3) van artikel 7 van de Overeenkomst bepaalde termijn over.
-
-7. De overname van personen vindt op de in artikel 5 van dit Protocol aangewezen grensovergangen plaats.
-
-8. In de in artikel 2, lid (3), en artikel 3, lid (9), van de Overeenkomst bedoelde gevallen worden de verzoeken om overname door middel van het als bijlage 1 bij dit Protocol gaande formulier gedaan.
-
-9. Indien een verzoek om overname niet wordt ingewilligd, moet zulks door de bevoegde instantie van de aangezochte Overeenkomstsluitende Partij met redenen worden omkleed en moet de bevoegde instantie van de verzoekende Overeenkomstsluitende Partij daarvan binnen de in lid (1) van artikel 7 van de Overeenkomst bedoelde termijn in kennis worden gesteld.
-
-##### Artikel 3. Reisdocument
-
-1. De bevoegde instantie van de verzoekende Overeenkomstsluitende Partij leidt het positieve antwoord op haar aanvraag tot overname naar de diplomatieke of consulaire vertegenwoordiging van de aangezochte Overeenkomstsluitende Partij door, teneinde, zo nodig, het voor de terugkeer en de overname van personen met toepassing van artikel 2 van de Overeenkomst nodige reisdocument op te stellen. De aanvraag voor een reisdocument wordt door middel van het als bijlage 3 bij dit Protocol gaande formulier gedaan (Verzoek om een laissez-passer).
-
-2. Het staat aan de bevoegde instantie van de verzoekende Overeenkomstsluitende Partij om, zo nodig, het reisdocument op te stellen, dat voor de overname van ingevolge artikel 3 van de Overeenkomst over te nemen personen nodig is.
-
-##### Artikel 4. Doorgeleiding ter fine van overname
-
-1. Het verzoek om doorreis van een onderdaan van een derde land wordt in de in artikel 5 van de Overeenkomst bepaalde gevallen door de in artikel 6 van dit Protocol aangewezen bevoegde instantie van de verzoekende Overeenkomstsluitende Partij gericht aan de in artikel 6 van dit Protocol aangewezen bevoegde instantie van de aangezochte Overeenkomstsluitende Partij. Het aanvraag- en antwoordformulier gaat als bijlage 2 bij dit Protocol (Verzoek om doorreis).
-
-2. Behalve de in artikel 6 van de Overeenkomst genoemde gegevens bevat de aanvraag:
-
-- –. de verklaring waaruit blijkt dat aan de in artikel 5, lid (1), van de Overeenkomst gestelde voorwaarden is voldaan en dat geen weigeringsgrond als bepaald in artikel 5, lid (4), van de Overeenkomst bekend is,
-
-- –. plaats en tijdstip van aankomst op het grondgebied van de aangezochte Overeenkomstsluitende Partij,
-
-- –. plaats en tijdstip van vertrek van het grondgebied van de aangezochte Overeenkomstsluitende Partij naar het land van bestemming,
-
-- –. voor de overname voorgestelde datum en grensovergang, en
-
-- –. in voorkomend geval, essentiële informatie over de door te geleiden persoon wanneer voor de doorreis wordt ingestaan door de bevoegde instantie van de aangezochte Overeenkomstsluitende Partij.
-
-3. De bevoegde instanties van de Overeenkomstsluitende Partijen plegen rechtstreeks overleg om datum en aard van de doorreis nader te bepalen.
-
-4. Bij een doorreis door de lucht verlaten de over te nemen persoon en in voorkomend geval zijn geleide de transitruimte niet van de luchthaven van de aangezochte Overeenkomstsluitende Partij.
-
-5. De verzoekende Overeenkomstsluitende Partij garandeert, benevens de verklaring van toelating van het land van bestemming, de geldigheid van alle reisdocumenten en reistitels, de reisbiljetten en andere machtigingen die nodig zijn voor de reis naar het land van bestemming en, in voorkomend geval, de doorgeleiding door andere landen van doorreis.
-
-6. Indien het verzoek door de aangezochte Overeenkomstsluitende Partij wordt afgewezen omdat niet aan de noodzakelijke voorwaarden is voldaan, moet deze de verzoekende Overeenkomstsluitende Partij mededeling doen van de gronden van haar weigering.
-
-7. Indien na de toestemming van de aangezochte Overeenkomstsluitende Partij feiten of omstandigheden aan het licht komen, die de doorreis onmogelijk maken, wordt de toestemming door de aangezochte Overeenkomstsluitende Partij ingetrokken. De beslissing tot intrekking van de toestemming moet met redenen worden omkleed.
-
-8. Indien de doorreis van de over te nemen persoon om enigerlei reden geen doorgang kan vinden, dient de verzoekende Overeenkomstsluitende Partij de betrokkene terug te nemen. Het desbetreffende verzoek wordt overeenkomstig bijlage 2 bij dit Protocol gedaan.
-
-9. De doorreis van onderdanen van derde landen door het grondgebied van de aangezochte Overeenkomstsluitende Partij vindt plaats op de in artikel 5 van dit Protocol bepaalde grensovergangen.
-
-##### Artikel 5. Grensovergangen
-
-Overnames en doorgeleidingen vinden op onderstaande grensovergangen plaats:
-
-- 1. Voor de Hongaarse Overeenkomstsluitende Partij:
-
-- –. door de lucht: Budapest, Internationale luchthaven Ferihegy
-
-- –. over land: Hegyeshalom
-
-- 2. Voor de Benelux Overeenkomstsluitende Partij:
-
-- a. Voor België:
-
-- –. door de lucht: Luchthaven Brussel Nationaal
-
-- –. over land: te bepalen geval per geval door de Dienst Vreemdelingenzaken
-
-- b. Voor Luxemburg:
-
-- –. door de lucht: Luchthaven Luxemburg-Findel
-
-- –. over land: grenspost van Wasserbilligbrück (autosnelweg)
-
-- c. Voor Nederland:
-
-- –. door de lucht: Luchthaven Schiphol te Amsterdam
-
-- –. over land: te bepalen door het Bureau Dublin
-
-##### Artikel 6. Bevoegde instanties
-
-- a. Voor de Hongaarse Overeenkomstsluitende Partij is voor het voorleggen en aanvaarden van verzoeken om overname van eigen onderdanen en onderdanen van derde landen de volgende instantie bevoegd: Landelijke Staf van de Grensbewaking Hoofddirectie Politie en Overtredingen (Határörség Országos Parancsnokság Idegenrendészeti és Szabálysértési Föosztály) Postadres: H-1525 Budapest, Pf: 47. Telefoon en fax: (0036-1) 45-67-195
-
-- b. Voor de Hongaarse Overeenkomstsluitende Partij is voor het voorleggen en aanvaarden van verzoeken om doorreis van onderdanen van derde landen met bestemming een derde land de volgende instantie bevoegd: Ministerie van Binnenlandse Zaken Dienst Immigratie en Nationaliteit Postadres: H-1117 Budapest, Budafoki út 60 Telefoon: (0036.1) 463.91.50; 463.91.54 Fax: (0036.1) 463.91.53; 463.91.51
-
-2. Voor de Benelux Overeenkomstsluitende Partij zijn de bevoegde instanties:
-
-- a. Voor België:
-
-- –. voor het verzenden van de verzoeken aan de bevoegde instanties van de Hongaarse Overeenkomstsluitende Partij, het ontvangen van de antwoorden op de verzoeken, het verkrijgen bij de Ambassade van de Republiek Hongarije van de nodige reisdocumenten, alsmede voor het verzenden van informatie omtrent de uitvoering van de overname van de betrokken personen: Ministerie van Binnenlandse Zaken Algemeen Bestuur Dienst Vreemdelingenzaken WTC II Antwerpsesteenweg 59b B-1000 Brussel Telefoon: (0032.2) 206.15.83; 206.16.06 (cel «terugkeer») Fax: (0032.2) 206.14.05
-
-- –. voor het ontvangen van de verzoeken van de bevoegde instanties van de Hongaarse Overeenkomstsluitende Partij, het antwoord op de verzoeken, alsmede voor het ontvangen van informatie omtrent de uitvoering van de overname/verwijdering van de betrokken personen: Ministerie van Binnenlandse Zaken Algemeen Bestuur Dienst Vreemdelingenzaken WTC II Antwerpsesteenweg 59b B-1000 Brussel Telefoon: (0032.2) 206.15.94; 206.15.92; 206.15.51; 206.15.91 Bureau C Fax: (0032.2) 206.14.07; 206.14.08; 206.14.09
-
-- b. Voor Luxemburg: Ministère de la Justice Service des Étrangers 16, boulevard Royal L-2934 Luxembourg Telefoon: (00352) 478.45.12; 478.45.46 Fax: (00352) 227.661
-
-- c. Voor Nederland: Ministerie van Justitie IND – Immigratie- en Naturalisatiedienst - Bureau Dublin Postbus 449 NL – 6900 K Zevenaar Telefoon: (0031.31) 636.87.24 Fax (0031.31) 636.86.49
-
-##### Artikel 7. Ten laste komende kosten
-
-1. De tegenwaarde van alle uit de toepassing van artikel 9 van de Overeenkomst voortvloeiende kosten wordt door de verzoekende Overeenkomstsluitende Partij, met inachtneming van haar interne budgettaire wetgeving, binnen een termijn van dertig (30) dagen te rekenen van de ontvangst van de factuur, in EUR (euro) aan de andere Overeenkomstsluitende Partij overgemaakt.
-
-2. De Overeenkomstsluitende Partijen dragen er zorg voor dat de begeleide doorgeleidingen zich onder toereikende en bevredigende veiligheidsvoorwaarden en zo efficiënt en economisch mogelijk kunnen voltrekken.
-
-##### Artikel 8. Werktalen
-
-Tenzij anders wordt overeengekomen, bezigen de bevoegde instanties van de Overeenkomstsluitende Partijen bij de toepassing van de Overeenkomst en dit Protocol de Engelse of de Franse taal in hun contacten.
-
-##### Artikel 9. Comité van deskundigen
-
-De bevoegde instanties van de Overeenkomstsluitende Partijen stellen elkaar binnen dertig (30) dagen na de inwerkingtreding van de Overeenkomst in kennis van de samenstelling van hun delegatie in het in artikel 10 van de Overeenkomst bedoelde Comité van deskundigen.
-
-##### Artikel 10. Slotbepalingen
-
-1. De bevoegde ministeries van de Overeenkomstsluitende Partijen kunnen dit Protocol in onderlinge overeenstemming inhoudelijk aanvullen of wijzigen.
-
-2. Dit Protocol treedt in werking op de dag van inwerkingtreding van de Overeenkomst. Het neemt een einde wanneer de Overeenkomst ophoudt gevolg te hebben.
 
 TEN BLIJKE WAARVAN de vertegenwoordigers van de Overeenkomstsluitende Partijen, daartoe naar behoren gemachtigd, deze Overeenkomst hebben ondertekend.
 

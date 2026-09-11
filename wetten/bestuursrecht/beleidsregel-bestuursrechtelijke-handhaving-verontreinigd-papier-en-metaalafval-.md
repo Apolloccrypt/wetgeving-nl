@@ -1,58 +1,61 @@
 ---
-title: "Beleidsregel bestuursrechtelijke handhaving verontreinigd papier- en metaalafval 2026"
+title: "Beleidsregel van de Staatssecretaris van Infrastructuur en Waterstaat van 28 april 2026, nr. ILT-2026/19736, over de kwalificatie van verontreinigd papier- en metaalafval in verband met de bestuursrechtelijke handhaving van Verordening (EU) nr. 2024/1157 van het Europees Parlement en Raad van 11 april 2024 betreffende de overbrenging van afvalstoffen"
+citeertitel: "Beleidsregel bestuursrechtelijke handhaving verontreinigd papier- en metaalafval 2026"
 identifier: "BWBR0052630"
 categorie: "Bestuursrecht"
+soort: "beleidsregel"
 publicatiedatum: 2026-05-21
 laatste_update: 2026-05-21
 status: geldig
+toestand: 2026-05-21
 bron: "https://wetten.overheid.nl/BWBR0052630"
+opgehaald: 2026-09-11
 ---
 
 # Beleidsregel van de Staatssecretaris van Infrastructuur en Waterstaat van 28 april 2026, nr. ILT-2026/19736, over de kwalificatie van verontreinigd papier- en metaalafval in verband met de bestuursrechtelijke handhaving van Verordening (EU) nr. 2024/1157 van het Europees Parlement en Raad van 11 april 2024 betreffende de overbrenging van afvalstoffen
-
-Gelet op [artikel 1 van het Besluit aanwijzing toezichthouders fysieke leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0049163&artikel=1) en [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
-
-BESLUIT:
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
-- **aanhangende olie:** olie die resteert nadat oliehoudend ijzer- en staal(ferro) schroot en non-ferro schroot gedurende ten minste 48 uur bij een temperatuur die hoger is dan 15 graden Celsius is uitgelekt;
+- *aanhangende olie:* olie die resteert nadat oliehoudend ijzer- en staal(ferro) schroot en non-ferro schroot gedurende ten minste 48 uur bij een temperatuur die hoger is dan 15 graden Celsius is uitgelekt;
 
-- **bestuursrechtelijke handhaving:** bestuursrechtelijke handhaving van de bij of krachtens de EVOA 2024 gestelde verplichtingen als opgedragen aan de minister bij [artikel 18.2b, eerste lid, onderdeel d, en vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.2b) in samenhang met [artikel 18.4 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.4) en [Hoofdstuk 5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5);
+- *bestuursrechtelijke handhaving:* bestuursrechtelijke handhaving van de bij of krachtens de EVOA 2024 gestelde verplichtingen als opgedragen aan de minister bij [artikel 18.2b, eerste lid, onderdeel d, en vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.2b) in samenhang met [artikel 18.4 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.4) en [Hoofdstuk 5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=5);
 
-- **EVOA 2006:** [Verordening (EG) nr. 1013/2006](32006R1013) van het Europees Parlement en de Raad van 14 juni 2006 betreffende de overbrenging van afvalstoffen (PbEU 2006, L 190);
+- *EVOA 2006:*
+ Verordening (EG) nr. 1013/2006 van het Europees Parlement en de Raad van 14 juni 2006 betreffende de overbrenging van afvalstoffen (PbEU 2006, L 190);
 
-- **EVOA 2024:** [Verordening (EU) nr. 2024/1157](32024R1157), van het Europees Parlement en de Raad van 11 april 2024 betreffende de overbrenging van afvalstoffen, tot wijziging van de [Verordeningen (EU) nr. 1257/2013](32013R1257) en [(EU) 2020/1056](32020R1056) en tot intrekking van [Verordening (EG) nr. 1013/2006](32006R1013);
+- *EVOA 2024:*
+ Verordening (EU) nr. 2024/1157, van het Europees Parlement en de Raad van 11 april 2024 betreffende de overbrenging van afvalstoffen, tot wijziging van de Verordeningen (EU) nr. 1257/2013 en (EU) 2020/1056 en tot intrekking van Verordening (EG) nr. 1013/2006;
 
-- **huishoudelijk afval (Y46):** afvalstof als bedoeld in bijlage V, deel 2, lijst A onder Y46 van de EVOA 2024;
+- *huishoudelijk afval (Y46):* afvalstof als bedoeld in bijlage V, deel 2, lijst A onder Y46 van de EVOA 2024;
 
-- **gevaarlijke afvalstof:** afvalstof die een of meer van de in bijlage III bij de Kaderrichtlijn afvalstoffen genoemde gevaarlijke eigenschappen bezit;
+- *gevaarlijke afvalstof:* afvalstof die een of meer van de in bijlage III bij de Kaderrichtlijn afvalstoffen genoemde gevaarlijke eigenschappen bezit;
 
-- **ILT:** Inspectie Leefomgeving en Transport;
+- *ILT:* Inspectie Leefomgeving en Transport;
 
-- **inspecteur:** toezichthouder als bedoeld in [artikel 5.11 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11) die werkzaam is bij de ILT en toezicht houdt op de naleving van de EVOA;
+- *inspecteur:* toezichthouder als bedoeld in [artikel 5.11 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11) die werkzaam is bij de ILT en toezicht houdt op de naleving van de EVOA;
 
-- **Kaderrichtlijn afvalstoffen:** [Richtlijn 2008/98/EG](32008L0098) van het Europees Parlement en de Raad van 19 november 2008 betreffende afvalstoffen en tot intrekking van een aantal richtlijnen;
+- *Kaderrichtlijn afvalstoffen:*
+ Richtlijn 2008/98/EG van het Europees Parlement en de Raad van 19 november 2008 betreffende afvalstoffen en tot intrekking van een aantal richtlijnen;
 
-- **niet-ingedeelde afvalstof:** afvalstof als bedoeld in artikel 4, tweede lid, onderdeel b, c, d, e of f van de EVOA 2024;
+- *niet-ingedeelde afvalstof:* afvalstof als bedoeld in artikel 4, tweede lid, onderdeel b, c, d, e of f van de EVOA 2024;
 
-- **partij:** hoeveelheid afval, die uit het oogpunt van haar wijze van opslag of vervoer en uit het oogpunt van (deel)proces van oorsprong als eenheid wordt beschouwd.
+- *partij:* hoeveelheid afval, die uit het oogpunt van haar wijze van opslag of vervoer en uit het oogpunt van (deel)proces van oorsprong als eenheid wordt beschouwd.
 
 ##### Artikel 2. Criteria papierafval
 
 1. Ter bepaling of een partij met andere componenten verontreinigd of samengesteld papierafval, bestaande uit:
 
-- –. ongebleekt papier en karton of gegolfd papier en golfkarton;
+- – ongebleekt papier en karton of gegolfd papier en golfkarton;
 
-- –. overig papier en karton, hoofdzakelijk gemaakt van gebleekt chemisch pulp, dat niet in bulk is gekleurd;
+- – overig papier en karton, hoofdzakelijk gemaakt van gebleekt chemisch pulp, dat niet in bulk is gekleurd;
 
-- –. papier en karton, hoofdzakelijk gemaakt van gebleekt mechanisch pulp, bijvoorbeeld kranten, tijdschriften en soortgelijk drukwerk;
+- – papier en karton, hoofdzakelijk gemaakt van gebleekt mechanisch pulp, bijvoorbeeld kranten, tijdschriften en soortgelijk drukwerk;
 
-- –. overig papierafval, met inbegrip van gelamineerd karton en ongesorteerd afval, of
+- – overig papierafval, met inbegrip van gelamineerd karton en ongesorteerd afval, of
 
-- –. een mengsel van papierafval bestaande uit de eerste drie opsommingstreepjes,
+- – een mengsel van papierafval bestaande uit de eerste drie opsommingstreepjes,
 
 in het kader van de bestuursrechtelijke handhaving kan worden aangemerkt als papierafval als bedoeld in bijlage III(A) en zoals omschreven bij code B3020 van bijlage V van de EVOA, controleert de inspecteur of het betrokken afval voldoet aan de criteria in het tweede tot en met het vijfde lid. Indien de inspecteur constateert dat de partij papierafval niet voldoet aan deze criteria, wordt de partij als een niet-ingedeelde afvalstof gekwalificeerd.
 
@@ -78,7 +81,7 @@ in het kader van de bestuursrechtelijke handhaving kan worden aangemerkt als pap
 
 - b. radioactieve stoffen, splijtstoffen of ertsen als bedoeld in [artikel 1 van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=1);
 
-- c. gevaarlijke afvalstoffen, met uitzondering van aanhangende olie die maximaal 0,5 mg/kg PCB per congeneer 28, 52, 101, 118, 138, 153 of 180 bevat;
+- c. gevaarlijke afvalstoffen, met uitzondering van aanhangende olie die maximaal 0,5 mg/kg PCB per congeneer 28, 52, 101, 118, 138, 153 of 180 bevat;
 
 - d. met Chroom-VI houdende verf behandeld metaalafval.
 
@@ -100,7 +103,7 @@ in het kader van de bestuursrechtelijke handhaving kan worden aangemerkt als pap
 
 ##### Artikel 4. Inwerkingtreding
 
-Deze beleidsregel treedt in werking met ingang van 21 mei 2026.
+Deze beleidsregel treedt in werking met ingang van 21 mei 2026.
 
 ##### Artikel 5. Citeertitel
 
@@ -108,6 +111,4 @@ Deze beleidsregel wordt aangehaald als: Beleidsregel bestuursrechtelijke handhav
 
 ##### Artikel 6
 
-De [Beleidsregel bestuursrechtelijke handhaving verontreinigd papier-, kunststof- en metaalafval 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046496) wordt op 21 mei 2026 ingetrokken.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
+De [Beleidsregel bestuursrechtelijke handhaving verontreinigd papier-, kunststof- en metaalafval 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046496) wordt op 21 mei 2026 ingetrokken.

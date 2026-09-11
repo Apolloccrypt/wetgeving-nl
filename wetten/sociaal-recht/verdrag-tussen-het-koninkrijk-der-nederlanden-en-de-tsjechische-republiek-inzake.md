@@ -1,71 +1,37 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Tsjechische Republiek inzake de export van sociale verzekeringsuitkeringen"
 identifier: "BWBV0001483"
-country: "nl"
-rank: "verdrag"
-publication_date: "2002-09-01"
-last_updated: "2002-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001483"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10001396993"
-version_id: "10001466242"
-internal_id: "C10006993521"
-label_id: "10001397184"
-dtd_version: "2.0"
-original_entry_into_force: "2002-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001483/2002-09-01/0"
-intitule_bron: "Trb.2001-112"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-07-01"
-intitule_published: "2001-06-22"
-intitule_in_force: "2002-08-27"
-intitule_status: "goed"
-original_publication: "Trb.2001-112"
-original_signed_date: "2001-07-01"
-original_published_date: "2001-06-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2001-112"
-entry_into_force_date: "2002-09-01"
-jci_1_3: "jci1.3:c:BWBV0001483&z=2002-09-01&g=2002-09-01"
-jci_1_0: "1.0:c:BWBV0001483&g=2002-09-01"
-citeertitel_status: "redactioneel"
-signed_date: "2001-07-01"
-entry_into_force: "2002-09-01"
+publicatiedatum: 2002-09-01
+laatste_update: 2002-09-01
+status: geldig
+toestand: 2002-09-01
+bron: "https://wetten.overheid.nl/BWBV0001483"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Tsjechische Republiek inzake de export van sociale verzekeringsuitkeringen
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Tsjechische Republiek,
-
-hierna genoemd de Verdragsluitende Partijen,
-
-Wensend de rechtmatige betaling van hun uitkeringen terzake van sociale zekerheid in elkaars landen toe te staan,
-
-Verlangend de samenwerking tussen de twee Staten te regelen,
-
-Zijn overeengekomen als volgt:
+*Het Koninkrijk der Nederlanden en de Tsjechische Republiek, hierna genoemd de Verdragsluitende Partijen, Wensend de rechtmatige betaling van hun uitkeringen terzake van sociale zekerheid in elkaars landen toe te staan, Verlangend de samenwerking tussen de twee Staten te regelen, Zijn overeengekomen als volgt:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
 1. Voor de toepassing van dit Verdrag wordt verstaan onder:
 
-- a. „grondgebied", met betrekking tot het Koninkrijk der Nederlanden: het grondgebied van het Koninkrijk in Europa naar internationaal recht;
+- a „grondgebied", met betrekking tot het Koninkrijk der Nederlanden: het grondgebied van het Koninkrijk in Europa naar internationaal recht;
 
-- b. „wetgeving": de wetten, voorschriften en bestuursrechtelijke regelingen die betrekking hebben op de in artikel 2 genoemde stelsels van sociale zekerheid;
+- b „wetgeving": de wetten, voorschriften en bestuursrechtelijke regelingen die betrekking hebben op de in artikel 2 genoemde stelsels van sociale zekerheid;
 
-- c. „bevoegde autoriteit", met betrekking tot de Tsjechische Republiek: het ministerie van Arbeid en Sociale Zaken van de Tsjechische Republiek; met betrekking tot het Koninkrijk der Nederlanden: de minister van Sociale Zaken en Werkgelegenheid van Nederland;
+- c „bevoegde autoriteit", met betrekking tot de Tsjechische Republiek: het ministerie van Arbeid en Sociale Zaken van de Tsjechische Republiek; met betrekking tot het Koninkrijk der Nederlanden: de minister van Sociale Zaken en Werkgelegenheid van Nederland;
 
-- d. „bevoegd orgaan" met betrekking tot de Tsjechische Republiek: de „Česká správa sociálního zabezpečení" (Tsjechische instelling voor sociale zekerheid) of haar rechtsopvolger; met betrekking tot het Koninkrijk der Nederlanden betreffende de wetgeving bedoeld in artikel 2, eerste lid, onder a, b en c: het Landelijk Instituut Sociale Verzekeringen, p/a Gak Nederland BV of zijn rechtsopvolger en betreffende de wetgeving bedoeld in artikel 2, eerste lid, onder d, e en f: de Sociale Verzekeringsbank;
+- d „bevoegd orgaan" met betrekking tot de Tsjechische Republiek: de „Česká správa sociálního zabezpečení" (Tsjechische instelling voor sociale zekerheid) of haar rechtsopvolger; met betrekking tot het Koninkrijk der Nederlanden betreffende de wetgeving bedoeld in artikel 2, eerste lid, onder a, b en c: het Landelijk Instituut Sociale Verzekeringen, p/a Gak Nederland BV of zijn rechtsopvolger en betreffende de wetgeving bedoeld in artikel 2, eerste lid, onder d, e en f: de Sociale Verzekeringsbank;
 
-- e. „uitkering": elke uitkering of elk pensioen krachtens de in artikel 2 bedoelde wetgeving;
+- e „uitkering": elke uitkering of elk pensioen krachtens de in artikel 2 bedoelde wetgeving;
 
-- f. „uitkeringsgerechtigde": elke persoon die recht heeft op een uitkering;
+- f „uitkeringsgerechtigde": elke persoon die recht heeft op een uitkering;
 
-- g. „gezinslid": een persoon die als zodanig wordt omschreven of aangemerkt in de door het bevoegde orgaan toegepaste wetgeving.
+- g „gezinslid": een persoon die als zodanig wordt omschreven of aangemerkt in de door het bevoegde orgaan toegepaste wetgeving.
 
 2. Andere in dit Verdrag gebruikte termen hebben de betekenis die daaraan in de toegepaste wetgeving wordt gegeven.
 
@@ -73,25 +39,25 @@ Zijn overeengekomen als volgt:
 
 Dit Verdrag is van toepassing:
 
-- 1. Ten aanzien van het Koninkrijk der Nederlanden, op de Nederlandse wetgeving inzake:
+- 1 Ten aanzien van het Koninkrijk der Nederlanden, op de Nederlandse wetgeving inzake:
 
-- a. ziekteverzekering (uitkeringen in het geval van ziekte en moederschap);
+   - a ziekteverzekering (uitkeringen in het geval van ziekte en moederschap);
 
-- b. invaliditeitsverzekering voor werknemers;
+   - b invaliditeitsverzekering voor werknemers;
 
-- c. invaliditeitsverzekering voor zelfstandigen;
+   - c invaliditeitsverzekering voor zelfstandigen;
 
-- d. ouderdomsverzekering;
+   - d ouderdomsverzekering;
 
-- e. nabestaandenverzekering;
+   - e nabestaandenverzekering;
 
-- f. kinderbijslagen.
+   - f kinderbijslagen.
 
-- 2. Ten aanzien van de Tsjechische Republiek, op de Tsjechische wetgeving inzake:
+- 2 Ten aanzien van de Tsjechische Republiek, op de Tsjechische wetgeving inzake:
 
-- a. ziekteverzekering (uitkeringen in het geval van ziekte en moederschap);
+   - a ziekteverzekering (uitkeringen in het geval van ziekte en moederschap);
 
-- b. pensioenverzekering (ouderdoms-, invaliditeits- en nabestaandenpensioenen).
+   - b pensioenverzekering (ouderdoms-, invaliditeits- en nabestaandenpensioenen).
 
 ##### Artikel 3. Personele werkingssfeer
 
@@ -167,7 +133,7 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN te Praag, op 30 mei 2001, in twee exemplaren, elk in de Nederlandse, de Tsjechische en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschillen in uitlegging is de Engelse versie doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) R. J. VAN HOUTUM
 
@@ -175,7 +141,7 @@ R. J. van Houtum
 
 Ambassadeur
 
-**Voor de Tsjechische Republiek**
+*Voor de Tsjechische Republiek*
 
 (w.g.) V. SPIDLA
 

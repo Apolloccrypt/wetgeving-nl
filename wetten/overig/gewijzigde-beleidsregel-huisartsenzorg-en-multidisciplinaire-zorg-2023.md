@@ -2,47 +2,44 @@
 title: "Gewijzigde Beleidsregel huisartsenzorg en multidisciplinaire zorg 2023"
 identifier: "BWBR0052808"
 categorie: "Overig"
+soort: "zbo"
 publicatiedatum: 2026-07-09
-laatste_update: 2026-07-14
+laatste_update: 2026-07-09
 status: geldig
+toestand: 2026-07-09
 bron: "https://wetten.overheid.nl/BWBR0052808"
+opgehaald: 2026-09-11
 ---
 
 # Gewijzigde Beleidsregel huisartsenzorg en multidisciplinaire zorg 2023
-
-Gelet op [artikel 57, eerste lid, onderdeel b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
-
-Gelet op [artikel 53, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=53) juncto [52, aanhef en onderdeel e, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=52), worden tarieven en prestatiebeschrijvingen die uit de voorliggende beleidsregel voortvloeien ambtshalve door de NZa vastgesteld.
-
-Gelet op [artikel 59, onderdeel b, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59) heeft de Minister van Volksgezondheid, Welzijn en Sport (VWS) met brief van 14 juli 2014, met [kenmerk 642423-123512-MC](https://wetten.overheid.nl/jci1.3:c:BWBR0035401), en brief van 11 juli 2017, met kenmerk 1153348-165402, ten behoeve van de voorliggende beleidsregel aanwijzingen op grond van [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7) aan de NZa gegeven.
 
 ##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
-- **zorgaanbieder:**
+- *zorgaanbieder:*
 
-  - 1°. natuurlijk persoon of rechtspersoon die beroeps- of bedrijfsmatig zorg in de zin van de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) verleent als bedoeld in [artikel 1, eerste lid, onderdeel c, onder 1°, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1);
+   - 1°. natuurlijk persoon of rechtspersoon die beroeps- of bedrijfsmatig zorg in de zin van de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) verleent als bedoeld in [artikel 1, eerste lid, onderdeel c, onder 1°, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1);
 
-  - 2°. natuurlijk persoon of rechtspersoon voor zover deze tarieven in rekening brengt namens, ten behoeve van of in verband met het verlenen van zorg door een zorgaanbieder als bedoeld onder 1°, als bedoeld in [artikel 1, eerste lid, onderdeel c, onder 2°, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
+   - 2°. natuurlijk persoon of rechtspersoon voor zover deze tarieven in rekening brengt namens, ten behoeve van of in verband met het verlenen van zorg door een zorgaanbieder als bedoeld onder 1°, als bedoeld in [artikel 1, eerste lid, onderdeel c, onder 2°, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
 
-- **Multidisciplinaire (eerstelijns)zorg:** Zorgverlening waarbij zorgaanbieders van diverse disciplines in samenwerking met de patiënt in onderlinge samenhang zorg verlenen, waarvan huisartsenzorg een onderdeel is.
+- *Multidisciplinaire (eerstelijns)zorg:* Zorgverlening waarbij zorgaanbieders van diverse disciplines in samenwerking met de patiënt in onderlinge samenhang zorg verlenen, waarvan huisartsenzorg een onderdeel is.
 
-- **Anw-uren:** De avond-, nacht- en weekenduren. Deze uren betreffen de tijdsperiode:
+- *Anw-uren:* De avond-, nacht- en weekenduren. Deze uren betreffen de tijdsperiode:
 
-  - –. tussen 18.00 uur en 08.00 uur;
+   - – tussen 18.00 uur en 08.00 uur;
 
-  - –. tussen 08.00 uur en 18.00 uur op zaterdag of zondag;
+   - – tussen 08.00 uur en 18.00 uur op zaterdag of zondag;
 
-  - –. tussen 08.00 uur en 18.00 uur op algemeen erkende feestdagen of gelijkgestelde dagen in de zin van de [Algemene Termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448).
+   - – tussen 08.00 uur en 18.00 uur op algemeen erkende feestdagen of gelijkgestelde dagen in de zin van de [Algemene Termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448).
 
-- **Ingeschreven verzekerde:** Verzekerde die zich op naam ingeschreven heeft bij een aanbieder van huisartsenzorg.
+- *Ingeschreven verzekerde:* Verzekerde die zich op naam ingeschreven heeft bij een aanbieder van huisartsenzorg.
 
-- **Geïncludeerde patiënt:** Patiënt die voldoet aan de inclusiecriteria van een bepaald zorgprogramma en die zorg ontvangt binnen dat programma.
+- *Geïncludeerde patiënt:* Patiënt die voldoet aan de inclusiecriteria van een bepaald zorgprogramma en die zorg ontvangt binnen dat programma.
 
-- **Eerstelijnszorg:** Generalistische zorgverlening welke zich in het bijzonder kenmerkt door laagdrempelige toegang, zorg in de buurt, en is gericht op de mens in zijn omgeving, het ambulante karakter en gericht op coördinatie en continuïteit. Eerstelijnszorg wordt in de directe omgeving van de patiënt gegeven.
+- *Eerstelijnszorg:* Generalistische zorgverlening welke zich in het bijzonder kenmerkt door laagdrempelige toegang, zorg in de buurt, en is gericht op de mens in zijn omgeving, het ambulante karakter en gericht op coördinatie en continuïteit. Eerstelijnszorg wordt in de directe omgeving van de patiënt gegeven.
 
-- **Geïntegreerde eerstelijnszorg:** Multidisciplinaire eerstelijnszorg die door meerdere zorgaanbieders met verschillende disciplinaire achtergrond in samenhang geleverd wordt en waarbij regie noodzakelijk is om het zorgproces rondom de patiënt te leveren.
+- *Geïntegreerde eerstelijnszorg:* Multidisciplinaire eerstelijnszorg die door meerdere zorgaanbieders met verschillende disciplinaire achtergrond in samenhang geleverd wordt en waarbij regie noodzakelijk is om het zorgproces rondom de patiënt te leveren.
 
 ##### Artikel 2. Doel van de beleidsregel
 
@@ -60,23 +57,29 @@ Deze beleidsregel is verder van toepassing op geneeskundige zorg zoals omschreve
 
 De bekostiging van huisartsgeneeskundige zorg en multidisciplinaire zorg waarvan huisartsenzorg onderdeel is (multidisciplinaire eerstelijnszorg) en is opgebouwd rondom drie segmenten, waarbij ieder segment zijn eigen kenmerken heeft.
 
+Segment 1: Basisvoorziening huisartsenzorg
+
 Het eerste segment richt zich op de basisvoorziening huisartsenzorg. Dit segment heeft betrekking op zorgvragen en aandoeningen waarvoor de huisarts doorgaans fungeert als eerste aanspreekpunt voor de patiënt en tevens fungeert als poortwachter. Deze zorgvragen en aandoeningen kunnen grotendeels binnen de huisartsenpraktijk gediagnosticeerd, behandeld en begeleid worden.
 
 Segment 1 is opgebouwd rondom vier hoofdelementen: de inschrijving op naam, het consult, de separate bekostiging van de functie praktijkondersteuner ggz, en een aantal specifieke verrichtingen. Het kent een hybride karakter van vergoeding op basis van abonnement en op basis van verrichtingen.
 
+Segment 2: Programmatische multidisciplinaire zorg
+
 Het tweede segment richt zich op multidisciplinaire eerstelijnszorg, waarbij naast de huisartsenzorg ook andere disciplines betrokken zijn om een integrale behandeling te leveren. Dit segment heeft betrekking op zorgvragen en aandoeningen die voortkomen uit specifieke kenmerken van een (in omvang) substantieel deel van de populatie. Een ondersteuningsstructuur is wenselijk om deze programmatisch vormgegeven zorg te leveren.
 
-Dit segment bestaat uit drie categorieën van prestaties: Organisatie en infrastructuur (O&I), Segment 2A (S2A) en Segment 2B (S2B).
+Dit segment bestaat uit drie categorieën van prestaties: Organisatie en infrastructuur (O&I), Segment 2A (S2A) en Segment 2B (S2B).
 
-- 1. **Organisatie en infrastructuur (O&I)** De prestaties O&I bieden de mogelijkheid om aanvullende vergoedingen per ingeschreven verzekerde overeen te komen op basis van afspraken tussen zorgaanbieders en zorgverzekeraars. Deze aanvullende vergoedingen hebben als doel om (multidisciplinaire) samenwerking tussen huisartsen en andere zorgaanbieders te stimuleren, waarbij de patiënt de voordelen ervaart van het continue verbeteren van de kwaliteit en/of kosten van zorg.3Voor een verdere toelichting op de achtergronden van de introductie van deze prestaties verwijzen wij naar de rapporten ‘Een sterke eerste lijn voor betere zorg en beheersbare kosten’ en ‘Impactanalyse O&I’. Beide documenten: [https://ineen.nl/programmas/bekostiging-en-bedrijfsvoering/organisatie-en-infrastructuur/](https://ineen.nl/programmas/bekostiging-en-bedrijfsvoering/organisatie-en-infrastructuur/) Zie verder [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0052808&artikel=6&z=2026-07-09&g=2026-07-09) en [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0052808&artikel=9&z=2026-07-09&g=2026-07-09).
+- 1. *Organisatie en infrastructuur (O&I)* De prestaties O&I bieden de mogelijkheid om aanvullende vergoedingen per ingeschreven verzekerde overeen te komen op basis van afspraken tussen zorgaanbieders en zorgverzekeraars. Deze aanvullende vergoedingen hebben als doel om (multidisciplinaire) samenwerking tussen huisartsen en andere zorgaanbieders te stimuleren, waarbij de patiënt de voordelen ervaart van het continue verbeteren van de kwaliteit en/of kosten van zorg.3Voor een verdere toelichting op de achtergronden van de introductie van deze prestaties verwijzen wij naar de rapporten ‘Een sterke eerste lijn voor betere zorg en beheersbare kosten’ en ‘Impactanalyse O&I’. Beide documenten: [https://ineen.nl/programmas/bekostiging-en-bedrijfsvoering/organisatie-en-infrastructuur/](https://ineen.nl/programmas/bekostiging-en-bedrijfsvoering/organisatie-en-infrastructuur/) Zie verder [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0052808&artikel=6&z=2026-07-09&g=2026-07-09) en [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0052808&artikel=9&z=2026-07-09&g=2026-07-09).
 
-- 2. **Segment 2A (S2A)** De prestaties uit S2A beschrijven ketenprestaties voor multidisciplinaire samenwerking bij chronische zorg in het kader van Diabetes Mellitus type 2 (DM2), Chronic Obstructive Pulmonary Disease (COPD), Vasculair Risicomanagement (VRM) en Astma.
+- 2. *Segment 2A (S2A)* De prestaties uit S2A beschrijven ketenprestaties voor multidisciplinaire samenwerking bij chronische zorg in het kader van Diabetes Mellitus type 2 (DM2), Chronic Obstructive Pulmonary Disease (COPD), Vasculair Risicomanagement (VRM) en Astma.
 
-  - ○. Er zijn twee prestaties vastgesteld binnen S2A voor gecontracteerde zorg; één prestatie voor de ketenzorg DM2 en VRM en één prestatie voor ketenzorg COPD en Astma. Als gevolg van de introductie van de O&I-prestaties is het uitgangspunt dat de O&I-componenten geen onderdeel meer zijn van de tarieven die binnen de ketenprestaties worden afgesproken. Zie verder [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0052808&artikel=6&z=2026-07-09&g=2026-07-09) en [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0052808&artikel=9&z=2026-07-09&g=2026-07-09).
+   - ○ Er zijn twee prestaties vastgesteld binnen S2A voor gecontracteerde zorg; één prestatie voor de ketenzorg DM2 en VRM en één prestatie voor ketenzorg COPD en Astma. Als gevolg van de introductie van de O&I-prestaties is het uitgangspunt dat de O&I-componenten geen onderdeel meer zijn van de tarieven die binnen de ketenprestaties worden afgesproken. Zie verder [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0052808&artikel=6&z=2026-07-09&g=2026-07-09) en [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0052808&artikel=9&z=2026-07-09&g=2026-07-09).
 
-  - ○. Er zijn drie prestaties die het voor niet gecontracteerde zorgaanbieders mogelijk maken ketenzorg voor DM2, COPD en CVRM-HVZ in rekening te brengen. De O&I-componenten zijn hier wel onderdeel van de prestatie. Zie verder [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0052808&artikel=6&z=2026-07-09&g=2026-07-09) en [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0052808&artikel=9&z=2026-07-09&g=2026-07-09).
+   - ○ Er zijn drie prestaties die het voor niet gecontracteerde zorgaanbieders mogelijk maken ketenzorg voor DM2, COPD en CVRM-HVZ in rekening te brengen. De O&I-componenten zijn hier wel onderdeel van de prestatie. Zie verder [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0052808&artikel=6&z=2026-07-09&g=2026-07-09) en [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0052808&artikel=9&z=2026-07-09&g=2026-07-09).
 
-- 3. **Segment 2B (S2B)** De prestaties uit S2B bieden ruimte voor partijen om programmatische zorg vorm te geven voor elementen van zorg die nog geen onderdeel uitmaken van de reguliere integrale bekostiging in S2A. Het gaat hierbij om nieuwe ketens (bijvoorbeeld depressie of programmatische zorg voor kwetsbare ouderen) of nieuwe elementen van zorg binnen de bestaande ketens (bijvoorbeeld farmaceutische zorg) waarbij landelijk overeenstemming is over de aanpak en onderliggende zorgstandaarden. Veldpartijen kunnen de NZa een specifiek verzoek doen om dit segment te vullen met prestaties die aan bovenstaande voorwaarden voldoen.
+- 3. *Segment 2B (S2B)* De prestaties uit S2B bieden ruimte voor partijen om programmatische zorg vorm te geven voor elementen van zorg die nog geen onderdeel uitmaken van de reguliere integrale bekostiging in S2A. Het gaat hierbij om nieuwe ketens (bijvoorbeeld depressie of programmatische zorg voor kwetsbare ouderen) of nieuwe elementen van zorg binnen de bestaande ketens (bijvoorbeeld farmaceutische zorg) waarbij landelijk overeenstemming is over de aanpak en onderliggende zorgstandaarden. Veldpartijen kunnen de NZa een specifiek verzoek doen om dit segment te vullen met prestaties die aan bovenstaande voorwaarden voldoen.
+
+Segment 3: Resultaatbeloning en zorgvernieuwing
 
 Het derde segment biedt de ruimte aan zorgverzekeraars en zorgaanbieders om (belonings)afspraken te maken over de resultaten van de inzet in huisartsenzorg of multidisciplinaire zorg of over zorgvernieuwing op lokaal niveau. De afspraken binnen segment 3 kunnen betrekking hebben op de uitkomsten van zorg geleverd in segment 1 (huisartsenzorg) en segment 2 (multidisciplinaire zorg). Ook de zorgvernieuwing kan op beide domeinen betrekking hebben. Daarnaast biedt Segment 3 de ruimte aan zorgverzekeraars en zorgaanbieders om praktijkgebonden afspraken te maken rondom huisartsenzorg of multidisciplinaire zorg, bijvoorbeeld over het leveren van zorg die niet onder de andere segmenten valt.
 
@@ -84,137 +87,139 @@ Om richting te geven aan de invulling van uitkomstbekostiging zijn separate deel
 
 Ruimte voor zorgvernieuwing in Segment 3 wordt geboden middels drie separate prestaties: e-health, het meekijkconsult en de prestatie overige zorgvernieuwing.
 
+Prestaties buiten segmenten
+
 Prestaties die niet goed in één van de drie segmenten zijn in te passen, worden in een separaat artikel ([artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0052808&artikel=8&z=2026-07-09&g=2026-07-09), prestaties buiten segmenten) beschreven.
 
 ##### Artikel 5. Prestatiebeschrijvingen en bepalingen Segment 1
 
-1. **Prestatiebeschrijvingen**
+1. *Prestatiebeschrijvingen*
 
 Binnen Segment 1 worden de volgende prestatiebeschrijvingen onderscheiden:
 
 - 1. Inschrijving
 
-  - a. Inschrijving verzekerden tot 65 jaar
+   - a. Inschrijving verzekerden tot 65 jaar
 
-  - b. Inschrijving verzekerden vanaf 65 jaar tot 75 jaar
+   - b. Inschrijving verzekerden vanaf 65 jaar tot 75 jaar
 
-  - c. Inschrijving verzekerden vanaf 75 jaar tot 85 jaar
+   - c. Inschrijving verzekerden vanaf 75 jaar tot 85 jaar
 
-  - d. Inschrijving verzekerden vanaf 85 jaar
+   - d. Inschrijving verzekerden vanaf 85 jaar
 
-  - e. Opslag inschrijving verzekerden woonachtig in een opslagwijk
+   - e. Opslag inschrijving verzekerden woonachtig in een opslagwijk
 
 - 2. Regulier consult
 
-  - a. Consult regulier korter dan 5 minuten
+   - a. Consult regulier korter dan 5 minuten
 
-  - b. Consult regulier vanaf 5 minuten tot 20 minuten
+   - b. Consult regulier vanaf 5 minuten tot 20 minuten
 
-  - c. Consult regulier 20 minuten en langer
+   - c. Consult regulier 20 minuten en langer
 
-  - d. Visite regulier korter dan 20 minuten
+   - d. Visite regulier korter dan 20 minuten
 
-  - e. Visite regulier 20 minuten en langer
+   - e. Visite regulier 20 minuten en langer
 
-  - f. Vaccinatie regulier
+   - f. Vaccinatie regulier
 
 - 3. Consult passanten, militairen, gemoedsbezwaarden, tijdelijk in Nederland verblijvende buitenlandse patiënten die niet bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) verplicht zijn verzekerd
 
-  - a. Consult passant korter dan 5 minuten
+   - a. Consult passant korter dan 5 minuten
 
-  - b. Consult passant vanaf 5 minuten tot 20 minuten
+   - b. Consult passant vanaf 5 minuten tot 20 minuten
 
-  - c. Consult passant 20 minuten en langer
+   - c. Consult passant 20 minuten en langer
 
-  - d. Visite passant korter dan 20 minuten
+   - d. Visite passant korter dan 20 minuten
 
-  - e. Visite passant 20 minuten en langer
+   - e. Visite passant 20 minuten en langer
 
-  - f. Vaccinatie passant
+   - f. Vaccinatie passant
 
-  - g. Consult militair korter dan 5 minuten
+   - g. Consult militair korter dan 5 minuten
 
-  - h. Consult militair vanaf 5 minuten tot 20 minuten
+   - h. Consult militair vanaf 5 minuten tot 20 minuten
 
-  - i. Consult militair 20 minuten en langer
+   - i. Consult militair 20 minuten en langer
 
-  - j. Visite militair korter dan 20 minuten
+   - j. Visite militair korter dan 20 minuten
 
-  - k. Visite militair 20 minuten en langer
+   - k. Visite militair 20 minuten en langer
 
-  - l. Vaccinatie militair
+   - l. Vaccinatie militair
 
-  - m. Consult gemoedsbezwaarde korter dan 5 minuten
+   - m. Consult gemoedsbezwaarde korter dan 5 minuten
 
-  - n. Consult gemoedsbezwaarde vanaf 5 minuten tot 20 minuten
+   - n. Consult gemoedsbezwaarde vanaf 5 minuten tot 20 minuten
 
-  - o. Consult gemoedsbezwaarde 20 minuten en langer
+   - o. Consult gemoedsbezwaarde 20 minuten en langer
 
-  - p. Visite gemoedsbezwaarde korter dan 20 minuten
+   - p. Visite gemoedsbezwaarde korter dan 20 minuten
 
-  - q. Visite gemoedsbezwaarde 20 minuten en langer
+   - q. Visite gemoedsbezwaarde 20 minuten en langer
 
-  - r. Vaccinatie gemoedsbezwaarde
+   - r. Vaccinatie gemoedsbezwaarde
 
-  - s. Consult buitenlandse patiënt korter dan 5 minuten
+   - s. Consult buitenlandse patiënt korter dan 5 minuten
 
-  - t. Consult buitenlandse patiënt vanaf 5 minuten tot 20 minuten
+   - t. Consult buitenlandse patiënt vanaf 5 minuten tot 20 minuten
 
-  - u. Consult buitenlandse patiënt 20 minuten en langer
+   - u. Consult buitenlandse patiënt 20 minuten en langer
 
-  - v. Visite buitenlandse patiënt korter dan 20 minuten
+   - v. Visite buitenlandse patiënt korter dan 20 minuten
 
-  - w. Visite buitenlandse patiënt 20 minuten en langer
+   - w. Visite buitenlandse patiënt 20 minuten en langer
 
-  - x. Vaccinatie buitenlandse patiënt
+   - x. Vaccinatie buitenlandse patiënt
 
 - 4. Poh-ggz
 
-  - a. Opslag praktijkondersteuner ggz per kwartaal per ingeschreven verzekerde
+   - a. Opslag praktijkondersteuner ggz per kwartaal per ingeschreven verzekerde
 
-  - b. Consult praktijkondersteuner ggz korter dan 5 minuten
+   - b. Consult praktijkondersteuner ggz korter dan 5 minuten
 
-  - c. Consult praktijkondersteuner ggz vanaf 5 minuten tot 20 minuten
+   - c. Consult praktijkondersteuner ggz vanaf 5 minuten tot 20 minuten
 
-  - d. Consult praktijkondersteuner ggz 20 minuten en langer
+   - d. Consult praktijkondersteuner ggz 20 minuten en langer
 
-  - e. Visite praktijkondersteuner ggz korter dan 20 minuten
+   - e. Visite praktijkondersteuner ggz korter dan 20 minuten
 
-  - f. Visite praktijkondersteuner ggz 20 minuten en langer
+   - f. Visite praktijkondersteuner ggz 20 minuten en langer
 
-  - g. Groepsconsult praktijkondersteuner ggz
+   - g. Groepsconsult praktijkondersteuner ggz
 
 - 5. Overige S1-verrichtingen
 
-  - a. Chirurgie
+   - a. Chirurgie
 
-  - b. Ambulante compressietherapie bij ulcus cruris
+   - b. Ambulante compressietherapie bij ulcus cruris
 
-  - c. Oogboring
+   - c. Oogboring
 
-  - d. Therapeutische injectie (Cyriax)
+   - d. Therapeutische injectie (Cyriax)
 
-  - e. IUD (spiraaltje) of etonogestrel implantatiestaafje aanbrengen/implanteren en/of verwijderen
+   - e. IUD (spiraaltje) of etonogestrel implantatiestaafje aanbrengen/implanteren en/of verwijderen
 
 - 6. Prestaties huisartsenzorg bij eerstelijnsverblijf en intensieve zorg
 
-  - a. Huisartsenzorg overdag bij eerstelijnsverblijf, korter dan 20 minuten
+   - a. Huisartsenzorg overdag bij eerstelijnsverblijf, korter dan 20 minuten
 
-  - b. Huisartsenzorg overdag bij eerstelijnsverblijf, 20 minuten en langer
+   - b. Huisartsenzorg overdag bij eerstelijnsverblijf, 20 minuten en langer
 
-  - c. Huisartsenzorg in de avond, nacht of het weekend bij eerstelijnsverblijf, korter dan 20 minuten
+   - c. Huisartsenzorg in de avond, nacht of het weekend bij eerstelijnsverblijf, korter dan 20 minuten
 
-  - d. Huisartsenzorg in de avond, nacht of het weekend bij eerstelijnsverblijf, 20 minuten en langer
+   - d. Huisartsenzorg in de avond, nacht of het weekend bij eerstelijnsverblijf, 20 minuten en langer
 
-  - e. Intensieve zorg overdag
+   - e. Intensieve zorg overdag
 
-  - f. Intensieve zorg in de avond, nacht of het weekend
+   - f. Intensieve zorg in de avond, nacht of het weekend
 
 - 7. Module inbouwkosten voor nieuwe adequate huursituatie
 
 - 8. Onderlinge dienstverlening
 
-2. **Bepalingen bij de prestatiebeschrijvingen**
+2. *Bepalingen bij de prestatiebeschrijvingen*
 
 Ad 1) Inschrijving
 
@@ -226,21 +231,21 @@ Het tarief van de inschrijving is een bedrag per kwartaal per op naam van de zor
 
 Het tarief van de inschrijving wordt gedifferentieerd naar leeftijd, waarbij vier leeftijdscategorieën worden onderscheiden.
 
-De prestatie inschrijving is gedifferentieerd in vier separate prestaties. Daarnaast is een toeslagprestatie onderscheiden die, naast de basisprestatie inschrijving, in rekening kan worden gebracht voor ingeschreven verzekerden die woonachtig zijn in een opslagwijk. De opslag bedraagt € 5,62 (prijspeil definitief niveau 2022) per ingeschreven verzekerde.
+De prestatie inschrijving is gedifferentieerd in vier separate prestaties. Daarnaast is een toeslagprestatie onderscheiden die, naast de basisprestatie inschrijving, in rekening kan worden gebracht voor ingeschreven verzekerden die woonachtig zijn in een opslagwijk. De opslag bedraagt € 5,62 (prijspeil definitief niveau 2022) per ingeschreven verzekerde.
 
 De vaststelling van de opslaggebieden vindt plaats op grond van een door de NZa uitgevoerd onderzoek. De NZa hanteert voor de berekening van de achterstandsindex CBS-gegevens op postcode 6- en postcode 5-niveau. Per postcode-6-gebied wordt bepaald welke postcodes in de achterstandsgebieden voorkomen. De achterstandsindex worden gebaseerd op de volgende criteria:
 
-- –. percentage inwoners met laag inkomen;
+- – percentage inwoners met laag inkomen;
 
-- –. percentage niet-actieven;
+- – percentage niet-actieven;
 
-- –. percentage inwoners met niet-westerse of Midden-en Oost-Europese migratieachtergrond.
+- – percentage inwoners met niet-westerse of Midden-en Oost-Europese migratieachtergrond.
 
 Verzekerden woonachtig in de betreffende postcodes worden aangemerkt als woonachtig in een opslagwijk.
 
 In het verantwoordingsdocument (zie bijlage 1) is de systematiek om te komen tot de postcodelijst nader toegelicht. De resulterende postcodelijst wordt gepubliceerd als bijlage bij de Prestatie- en tariefbeschikking huisartsenzorg en multidisciplinaire zorg.
 
-**Voorwaarden, voorschriften en beperkingen:**
+*Voorwaarden, voorschriften en beperkingen:*
 
 - 1. De prestatie mag enkel in rekening worden gebracht indien de verzekerde zich uit eigen beweging heeft ingeschreven bij de betreffende zorgaanbieder.
 
@@ -256,7 +261,7 @@ Het tarief van het consult is een bedrag per patiëntcontact. Het tarief is een 
 
 Het consult is gedifferentieerd in zes separate prestaties.
 
-**Voorwaarden, voorschriften en beperkingen:**
+*Voorwaarden, voorschriften en beperkingen:*
 
 - 1. Indien het specifieke patiëntcontact al in rekening wordt gebracht en daarmee wordt vergoed in het kader van een andere prestatie (bijvoorbeeld de ketenzorgprestaties in Segment 2 of het uitvoeren van een M&I‑verrichting), mag de zorgaanbieder voor dezelfde handelingen niet ook een consult declareren.
 
@@ -274,21 +279,23 @@ Het consult is gedifferentieerd in zes separate prestaties.
 
 - 8. De prestatie consult regulier 20 minuten en langer mag (in afwijking van de voorwaarde zoals genoemd onder 2) ook in rekening worden gebracht indien het gaat om één van de volgende verrichtingen:
 
-  - a. Postoperatief consult in de praktijk
+   - a. Postoperatief consult in de praktijk
 
-  - b. Verrichting ter vervanging van specialistenbezoek
+   - b. Verrichting ter vervanging van specialistenbezoek
 
-  - c. Trombosebeen
+   - c. Trombosebeen
 
-  - d. Varices sclerosering
+   - d. Varices sclerosering
 
-  - e. Aanmeten en plaatsen pessarium
+   - e. Aanmeten en plaatsen pessarium
 
 - 9. De prestatie visite regulier 20 minuten en langer mag (in afwijking van de voorwaarde genoemd onder 2) ook in rekening worden gebracht indien het gaat om een postoperatief consult thuis.
 
 - 10. Een vaccinatie tijdens een consult of een visite mag niet extra in rekening worden gebracht.
 
-Ad 3) Consult passanten, militairen, gemoedsbezwaarden, tijdelijk in Nederland verblijvende buitenlandse patiënten die niet bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) verplicht zijn verzekerd
+Ad 3) Consult passanten, militairen, gemoedsbezwaarden, tijdelijk in Nederland verblijvende buitenlandse patiënten die niet bij of krachtens de
+
+Zorgverzekeringswet
 
 Directe patiëntcontacten van niet-ingeschreven verzekerden met de zorgaanbieder kunnen in rekening worden gebracht voor de volgende vier patiëntencategorieën:
 
@@ -302,11 +309,11 @@ Directe patiëntcontacten van niet-ingeschreven verzekerden met de zorgaanbieder
 
 Het tarief van het consult is een bedrag per patiëntcontact. Het tarief is een vergoeding voor de kosten van zorglevering.
 
-Het tarief van het consult gemoedsbezwaarden en tijdelijk in Nederland verblijvende buitenlandse patiënten die niet bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) verplicht zijn verzekerd wordt opgehoogd met een opslag van € 2,93 (prijspeil definitief niveau 2022) in verband met de extra te verrichten administratieve handelingen.
+Het tarief van het consult gemoedsbezwaarden en tijdelijk in Nederland verblijvende buitenlandse patiënten die niet bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) verplicht zijn verzekerd wordt opgehoogd met een opslag van € 2,93 (prijspeil definitief niveau 2022) in verband met de extra te verrichten administratieve handelingen.
 
 Het consult is gedifferentieerd in vierentwintig separate prestaties.
 
-**Voorwaarden, voorschriften en beperkingen:**
+*Voorwaarden, voorschriften en beperkingen:*
 
 - 1. Voorwaarden, voorschriften en beperkingen 1 tot en met 10 van de reguliere consulten (zie [artikel 5.1 onderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052808&artikel=5&z=2026-07-09&g=2026-07-09)) zijn mutatis mutandis van toepassing.
 
@@ -320,9 +327,9 @@ Het consult is gedifferentieerd in vierentwintig separate prestaties.
 
 - 6. Het is niet toegestaan het consult voor passanten in rekening te brengen:
 
-  - −. indien de patiënt is ingeschreven bij een huisarts die werkzaam is i) binnen dezelfde praktijk en/of ii) op dezelfde locatie als de behandelend huisarts;
+   - − indien de patiënt is ingeschreven bij een huisarts die werkzaam is i) binnen dezelfde praktijk en/of ii) op dezelfde locatie als de behandelend huisarts;
 
-  - −. of indien er sprake is van onderlinge waarneming (zoals bij vakantie, ziekte of nascholing).
+   - − of indien er sprake is van onderlinge waarneming (zoals bij vakantie, ziekte of nascholing).
 
 - 7. Indien niet aan de voorwaarden 2 t/m 6 wordt voldaan, mogen alleen de reguliere consulten (zie [artikel 5.1 onderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052808&artikel=5&z=2026-07-09&g=2026-07-09)) in rekening worden gebracht.
 
@@ -336,7 +343,7 @@ De prestatie opslagmodule praktijkondersteuner ggz beschrijft de beschikbaarheid
 
 De prestatie consult praktijkondersteuner ggz is een direct patiëntcontact van een ingeschreven verzekerde met een zorgverlener poh-ggz. Het tarief is een vergoeding voor een deel van de kosten van zorgverlening in het kader van poh-ggz. Het consult is gedifferentieerd in zes separate prestaties. Het maximale basisconsulttarief poh-ggz is gelijk aan het maximale basistarief van het reguliere consult (zie [artikel 5.1 onderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052808&artikel=5&z=2026-07-09&g=2026-07-09)).
 
-**Voorwaarden, voorschriften en beperkingen:**
+*Voorwaarden, voorschriften en beperkingen:*
 
 - 1. Voorwaarden, voorschriften en beperkingen 1 tot en met 4 en 7 van de reguliere consulten zijn mutatis mutandis van toepassing op de consulten praktijkondersteuner ggz.
 
@@ -352,35 +359,35 @@ Ad 5) Overige S1-verrichtingen
 
 De prestatie overige verrichtingen is gedifferentieerd in vijf specifieke (groepen van) verrichtingen (in vijf prestatiebeschrijvingen). De prestaties kennen een maximumtarief per verrichting en is een vergoeding voor de kosten van zorglevering.
 
-**Voorwaarden, voorschriften en beperkingen:**
+*Voorwaarden, voorschriften en beperkingen:*
 
 - 1. Het totaal aan medisch noodzakelijke handelingen zoals beschreven in de per prestatie relevante NHG‑richtlijn (dan wel overige voor het uitvoeren van de specifieke prestatie relevante richtlijnen) is onderdeel van de beschreven prestatie.
 
 - 2. Chirurgie betreft chirurgische ingrepen ter vervanging van behandeling in de 2e lijn, zoals:
 
-  - a. excisie van een atheroom, lipoom, fibroom, chalazion, neavus/multipele naevi;
+   - a. excisie van een atheroom, lipoom, fibroom, chalazion, neavus/multipele naevi;
 
-  - b. huidbiopt (stans), electrochirurgie;
+   - b. huidbiopt (stans), electrochirurgie;
 
-  - c. complexe (uitgebreide) wondbehandeling met hechten;
+   - c. complexe (uitgebreide) wondbehandeling met hechten;
 
-  - d. Barron-ligatie;
+   - d. Barron-ligatie;
 
-  - e. chirurgische decubitusbehandeling;
+   - e. chirurgische decubitusbehandeling;
 
-  - f. nagelchirurgie bijvoorbeeld nagelextractie respectievelijk nagelbedexcisie;
+   - f. nagelchirurgie bijvoorbeeld nagelextractie respectievelijk nagelbedexcisie;
 
-  - g. incideren van abces of van vers getromboseerd hemorrhoïd, incisie perianaal abces/sinus pilonidalis;
+   - g. incideren van abces of van vers getromboseerd hemorrhoïd, incisie perianaal abces/sinus pilonidalis;
 
-  - h. ascitespunctie;
+   - h. ascitespunctie;
 
-  - i. verdenking melanoom, basaalcelcarcinoom, plaveiselcelcarcinoom, overige maligniteiten huid;
+   - i. verdenking melanoom, basaalcelcarcinoom, plaveiselcelcarcinoom, overige maligniteiten huid;
 
-  - j. hechten grotere/lelijke complexe wonden;
+   - j. hechten grotere/lelijke complexe wonden;
 
-  - k. frenulumplastiek;
+   - k. frenulumplastiek;
 
-  - l. behandeling van multipele condylomata acuminata met electrocoagulatie-apparatuur.
+   - l. behandeling van multipele condylomata acuminata met electrocoagulatie-apparatuur.
 
 - 3. Het verwijderen van wratten of mollusca valt niet onder chirurgie, maar onder het begrip kleine chirurgie in de consultprestaties van [artikelen 5.1 onderdeel 2, 5.1 onderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052808&artikel=5&z=2026-07-09&g=2026-07-09) en [8.1 onderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052808&artikel=8&z=2026-07-09&g=2026-07-09).
 
@@ -388,13 +395,13 @@ De prestatie overige verrichtingen is gedifferentieerd in vijf specifieke (groep
 
 - 5. Compressietherapie bij ulcus cruris betreft het behandelen van een patiënt met ulcus cruris met behulp van compressietherapie, met de volgende voorwaarden:
 
-  - a. de indicatie en uitvoering conform NHG-standaard M16;
+   - a. de indicatie en uitvoering conform NHG-standaard M16;
 
-  - b. de patiënt is voor deze aandoening niet onder behandeling van een medisch specialist;
+   - b. de patiënt is voor deze aandoening niet onder behandeling van een medisch specialist;
 
-  - c. het maken van afspraken met de gespecialiseerde zorgaanbieder/verlener (bijvoorbeeld de wondverpleegkundige) over consulteren en door- en terugverwijzen valt onder de prestatiebeschrijving;
+   - c. het maken van afspraken met de gespecialiseerde zorgaanbieder/verlener (bijvoorbeeld de wondverpleegkundige) over consulteren en door- en terugverwijzen valt onder de prestatiebeschrijving;
 
-  - d. de prestatie is exclusief de benodigde verbandmiddelen.
+   - d. de prestatie is exclusief de benodigde verbandmiddelen.
 
 - 6. Oogboring betreft het verwijderen van een corpus alienum uit het oog. Handelingen beschreven in NHG‑standaard M57.
 
@@ -416,23 +423,23 @@ Prestatiebeschrijving intensieve zorg
 
 Intensieve zorg betreft het verlenen van intensieve zorg aan:
 
-- −. terminale patiënten of
+- − terminale patiënten of
 
-- −. patiënten waarvoor het CIZ een zorgprofiel heeft toegewezen uit onderstaande reeks verpleging en verzorging. Deze patiënten ontvangen geen verblijf én behandeling van een instelling ingevolge [artikel 3.1.1, eerste lid, onderdeel a en artikel 3.1.1, eerste lid, onderdeel c van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1).
+- − patiënten waarvoor het CIZ een zorgprofiel heeft toegewezen uit onderstaande reeks verpleging en verzorging. Deze patiënten ontvangen geen verblijf én behandeling van een instelling ingevolge [artikel 3.1.1, eerste lid, onderdeel a en artikel 3.1.1, eerste lid, onderdeel c van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1).
 
-  - −. VV Beschermd wonen met intensieve dementiezorg;
+   - − VV Beschermd wonen met intensieve dementiezorg;
 
-  - −. VV Beschermd wonen met intensieve verzorging en verpleging;
+   - − VV Beschermd wonen met intensieve verzorging en verpleging;
 
-  - −. VV Beschermd wonen met zeer intensieve zorg, vanwege specifieke aandoeningen, met de nadruk op begeleiding;
+   - − VV Beschermd wonen met zeer intensieve zorg, vanwege specifieke aandoeningen, met de nadruk op begeleiding;
 
-  - −. VV Beschermd wonen met zeer intensieve zorg, vanwege specifieke aandoeningen, met de nadruk op verzorging/verpleging;
+   - − VV Beschermd wonen met zeer intensieve zorg, vanwege specifieke aandoeningen, met de nadruk op verzorging/verpleging;
 
-  - −. VV Herstelgerichte behandeling met verpleging en verzorging;
+   - − VV Herstelgerichte behandeling met verpleging en verzorging;
 
-  - −. VV Beschermd verblijf met intensieve palliatief-terminale zorg.
+   - − VV Beschermd verblijf met intensieve palliatief-terminale zorg.
 
-**Voorwaarden, voorschriften en beperkingen:**
+*Voorwaarden, voorschriften en beperkingen:*
 
 - 1. Het totaal aan medisch noodzakelijke handelingen zoals beschreven in de voor het uitvoeren van de specifieke prestaties relevante richtlijnen is onderdeel van de beschreven prestatie.
 
@@ -450,9 +457,9 @@ Intensieve zorg betreft het verlenen van intensieve zorg aan:
 
 - 8. De prestaties huisartsenzorg bij eerstelijnsverblijf en intensieve zorg kunnen niet in rekening worden gebracht indien de patiënt verblijf én behandeling geniet van een instelling ingevolge [artikel 3.1.1, eerste lid, onderdeel a en artikel 3.1.1, eerste lid, onderdeel c van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1). Bedoeld wordt dat deze patiënten niet verblijven in een instelling en geen specifieke Wlz behandeling ontvangen door of namens die instelling. In [artikel 3.1.1, eerste lid, onderdeel c van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1) staat, dat die specifieke behandeling omvat: ‘behandeling, omvattende geneeskundige zorg van specifiek medische, specifiek gedragswetenschappelijke of specifiek paramedische aard die noodzakelijk is in verband met de aandoening, beperking, stoornis of handicap van de verzekerde.’ Er zijn dus twee situaties mogelijk voor patiënten die intensieve huisartsenzorg of elv vanuit de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) behoeven, en die daarnaast ook Wlz zorg krijgen op grond van het genoemde zorgprofiel in [artikel 3.1.1 van het Besluit langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035948&artikel=3.1.1) juncto [artikel 2.1 Regeling langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&artikel=2.1) juncto bijlage A bij deze regeling: Als patiënten in een Wlz instelling verblijven en door of namens de instelling Wlz behandeling ontvangen, dan krijgen zij de geneeskundige zorg van algemeen medische aard namens die Wlz instelling vanuit de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), dus ook de ‘huisartsgeneeskundige’ zorg.
 
-  - −. Patiënten die in een Wlz instelling verblijven maar geen Wlz behandeling ontvangen door of namens de Wlz instelling, krijgen de geneeskundige zorg van algemeen medische aard vanuit de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), dus ook de huisartsgeneeskundige zorg;
+   - − Patiënten die in een Wlz instelling verblijven maar geen Wlz behandeling ontvangen door of namens de Wlz instelling, krijgen de geneeskundige zorg van algemeen medische aard vanuit de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), dus ook de huisartsgeneeskundige zorg;
 
-  - −. Patiënten die thuis verblijven en ook geïndiceerd zijn voor de specifieke Wlz zorg, krijgen de geneeskundige zorg van algemeen medische aard gewoon via de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), dus ook de huisartsgeneeskundige zorg.
+   - − Patiënten die thuis verblijven en ook geïndiceerd zijn voor de specifieke Wlz zorg, krijgen de geneeskundige zorg van algemeen medische aard gewoon via de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), dus ook de huisartsgeneeskundige zorg.
 
 Ad 7) Module inbouwkosten voor nieuwe adequate huursituatie
 
@@ -460,9 +467,9 @@ Deze prestatie is bedoeld voor een huisartsenpraktijk die verhuist naar een ande
 
 De kosten voor inbouw betreffen extra kosten die niet al in de reguliere vergoeding voor kosten voor adequate huisvesting zijn opgenomen. De kosten voor het verbouwen, moderniseren, verduurzamen en/of renoveren van een pand waarin voorheen ook huisartsenzorg werd geleverd (en daardoor geschikt om huisartsenzorg te leveren) vallen niet onder inbouwkosten. De kosten voor verbouwen, bijvoorbeeld vanwege ouderdom van een pand, zijn al onderdeel van de reguliere normatieve huisvestingscomponent (nhc) die is verwerkt in de (basis)tarieven huisartsenzorg.
 
-Het tarief van de prestatie inbouwkosten voor nieuwe adequate huursituatie is een bedrag per kwartaal per op naam van de zorgaanbieder ingeschreven verzekerde. De NZa stelt het maximumtarief voor de prestatie vast op € 0,85 (voorcalculatorisch niveau 2023).
+Het tarief van de prestatie inbouwkosten voor nieuwe adequate huursituatie is een bedrag per kwartaal per op naam van de zorgaanbieder ingeschreven verzekerde. De NZa stelt het maximumtarief voor de prestatie vast op € 0,85 (voorcalculatorisch niveau 2023).
 
-**Voorwaarden, voorschriften en beperkingen:**
+*Voorwaarden, voorschriften en beperkingen:*
 
 - 1. De zorgaanbieder is verhuisd naar een voor de huisartsenpraktijk nieuwe huurlocatie, waar voorheen geen huisartsenzorg geleverd werd. Dat kan zowel bestaande bouw als nieuwbouw zijn.
 
@@ -472,7 +479,7 @@ Het tarief van de prestatie inbouwkosten voor nieuwe adequate huursituatie is ee
 
 - 4. De zorgaanbieder heeft inzicht in de inbouwkosten die nodig zijn (geweest) om de locatie geschikt te maken voor het leveren van huisartsenzorg. Als de zorgaanbieder de inbouwkosten via structurele huurkosten betaalt aan de verhuurder, moet apart worden onderbouwd welk deel van de huurkosten ‘inbouwkosten’ betreft.
 
-- 5. De zorgaanbieder hanteert passende uitgangspunten voor de financiële verantwoording van de inbouwkosten, waaronder in ieder geval de toepassing van redelijke afschrijvingstermijnen. Binnen de nhc-systematiek wordt uitgegaan van een gemiddelde afschrijvingstermijn van 30 jaar voor het volledige vastgoed. De zorgaanbieder kan daar gemotiveerd van afwijken. De huisartsenpraktijk berekent de kosten voor de inbouwkosten per jaar. De zorgaanbieder kan bij eventuele controles de declaratie van deze prestatie onderbouwen op basis van relevante documenten.
+- 5. De zorgaanbieder hanteert passende uitgangspunten voor de financiële verantwoording van de inbouwkosten, waaronder in ieder geval de toepassing van redelijke afschrijvingstermijnen. Binnen de nhc-systematiek wordt uitgegaan van een gemiddelde afschrijvingstermijn van 30 jaar voor het volledige vastgoed. De zorgaanbieder kan daar gemotiveerd van afwijken. De huisartsenpraktijk berekent de kosten voor de inbouwkosten per jaar. De zorgaanbieder kan bij eventuele controles de declaratie van deze prestatie onderbouwen op basis van relevante documenten.
 
 - 6. De prestatie mag enkel in rekening worden gebracht voor die verzekerden die op de eerste dag van het kwartaal bij de zorgaanbieder ingeschreven staan;
 
@@ -484,41 +491,41 @@ Onderlinge dienstverlening betreft de levering van een (deel)prestatie of van ee
 
 ##### Artikel 6. Prestatiebeschrijvingen en bepalingen in Segment 2
 
-1. **Prestatiebeschrijvingen**
+1. *Prestatiebeschrijvingen*
 
 Binnen Segment 2 worden de volgende prestatiebeschrijvingen onderscheiden:
 
 - 1. Organisatie en infrastructuur
 
-  - a. Organisatie en infrastructuur wijkmanagement (samenwerking tussen verschillende zorg- en hulpverleners in de wijk), per ingeschreven verzekerde
+   - a. Organisatie en infrastructuur wijkmanagement (samenwerking tussen verschillende zorg- en hulpverleners in de wijk), per ingeschreven verzekerde
 
-  - b. Organisatie en infrastructuur ketenzorg, per ingeschreven verzekerde
+   - b. Organisatie en infrastructuur ketenzorg, per ingeschreven verzekerde
 
-  - c. Organisatie en infrastructuur regiomanagement (samenwerking tussen verschillende zorg- en hulpverleners in de regio), per ingeschreven verzekerde
+   - c. Organisatie en infrastructuur regiomanagement (samenwerking tussen verschillende zorg- en hulpverleners in de regio), per ingeschreven verzekerde
 
-  - d. Organisatie en infrastructuur geïntegreerde eerstelijnszorg overig, per ingeschreven verzekerde
+   - d. Organisatie en infrastructuur geïntegreerde eerstelijnszorg overig, per ingeschreven verzekerde
 
-  - e. Onderlinge dienstverlening ten behoeve van O&I
+   - e. Onderlinge dienstverlening ten behoeve van O&I
 
 - 2. Multidisciplinaire zorg – gecontracteerd
 
-  - a. Multidisciplinaire zorg Diabetes Mellitus type 2 en/of Vasculair Risicomanagement
+   - a. Multidisciplinaire zorg Diabetes Mellitus type 2 en/of Vasculair Risicomanagement
 
-  - b. Multidisciplinaire zorg COPD en/of Astma
+   - b. Multidisciplinaire zorg COPD en/of Astma
 
-  - c. Onderlinge dienstverlening ten behoeve van multidisciplinaire zorg
+   - c. Onderlinge dienstverlening ten behoeve van multidisciplinaire zorg
 
 - 3. Multidisciplinaire zorg – niet gecontracteerd
 
-  - a. Multidisciplinaire zorg Diabetes Mellitus type 2 – niet gecontracteerd
+   - a. Multidisciplinaire zorg Diabetes Mellitus type 2 – niet gecontracteerd
 
-  - b. Multidisciplinaire zorg COPD – niet gecontracteerd
+   - b. Multidisciplinaire zorg COPD – niet gecontracteerd
 
-  - c. Multidisciplinaire zorg hart- of vaatziekten – niet gecontracteerd
+   - c. Multidisciplinaire zorg hart- of vaatziekten – niet gecontracteerd
 
-  - d. Onderlinge dienstverlening ten behoeve van multidisciplinaire zorg – niet gecontracteerd
+   - d. Onderlinge dienstverlening ten behoeve van multidisciplinaire zorg – niet gecontracteerd
 
-2. **Bepalingen bij de prestatiebeschrijvingen**
+2. *Bepalingen bij de prestatiebeschrijvingen*
 
 Ad 1) Organisatie en infrastructuur (O&I)
 
@@ -594,7 +601,7 @@ Met de introductie van de opslag Organisatie en infrastructuur ketenzorg, per in
 
 De prestatie start op het moment dat de diagnose DM type 2 is gesteld of het verhoogde risico (VRM) is vastgesteld en aan eventuele aanvullende inclusiecriteria uit de zorgstandaard is voldaan, en duren zolang de patiënt ‘in zorg’ is.
 
-**Voorwaarden, voorschriften en beperkingen:**
+*Voorwaarden, voorschriften en beperkingen:*
 
 - 1. Uitgezonderd van de prestatiebeschrijving zijn de anw-zorg, eerstelijnsdiagnostiek, geneesmiddelenzorg en hulpmiddelenzorg.
 
@@ -602,7 +609,7 @@ De prestatie start op het moment dat de diagnose DM type 2 is gesteld of het ver
 
 - 3. De prestatie betreft de ingevulde standaard voor zorgstandaarden, waarbij de prestatie geldt voor het deel van de zorgstandaard dat inhoud en levering beschrijft nadat de diagnose is vastgesteld. Het bestaat ten minste uit (een) ziektespecifieke en (een) generieke component(en) waarbij de organisatiestructuur en de kwaliteitscyclus waarbinnen de zorgonderdelen geleverd worden, tenminste dienen te voldoen aan de criteria zoals gesteld in het vigerende zorgstandaard model van het Coördinatieplatform Zorgstandaarden.
 
-- 4. Het overeengekomen tarief heeft een maximale looptijd van 1 januari tot en met 31 december van enig jaar. Het is partijen toegestaan meerjarige contracten te sluiten, en daarin voor elk jaar van de looptijd van het contract een jaartarief en eventueel aanvullende afspraken overeen te komen.
+- 4. Het overeengekomen tarief heeft een maximale looptijd van 1 januari tot en met 31 december van enig jaar. Het is partijen toegestaan meerjarige contracten te sluiten, en daarin voor elk jaar van de looptijd van het contract een jaartarief en eventueel aanvullende afspraken overeen te komen.
 
 - 5. De prestaties kennen een vrij tarief per geïncludeerde patiënt per kwartaal en mogen enkel in rekening worden gebracht wanneer er een overeenkomst is afgesloten tussen verzekeraar en aanbieder, of indien de zorgverzekeraar van de desbetreffende verzekerde uitsluitend restitutiepolissen aanbiedt (en daarbij niet zelf contracteert) onder de voorwaarde dat er een overeenkomst is met minimaal één andere zorgverzekeraar.
 
@@ -618,7 +625,7 @@ Met de introductie van de opslag Organisatie en infrastructuur ketenzorg, per in
 
 De prestatie start op het moment dat de diagnose COPD of Astma is gesteld en aan eventuele aanvullende inclusiecriteria uit de zorgstandaard is voldaan, en duren zolang de patiënt ‘in zorg’ is.
 
-**Voorwaarden, voorschriften en beperkingen:**
+*Voorwaarden, voorschriften en beperkingen:*
 
 - 1. De voorwaarden, voorschriften en beperkingen 1 tot en met 5 van de prestatie multidisciplinaire zorg Diabetes Mellitus type 2 en/of Vasculair Risicomanagement zijn mutatis mutandis van toepassing.
 
@@ -634,7 +641,7 @@ Binnen segment S2A Multidisciplinaire zorg – niet gecontracteerd zijn de prest
 
 a. Multidisciplinaire zorg Diabetes Mellitus type 2 – niet gecontracteerd
 
-Deze prestatie betreft zorg aan een patiënt van 18 jaar of ouder met Diabetes Mellitus type 2 (DM2), waarbij zorgaanbieders van diverse disciplines de zorgonderdelen in samenhang en in samenwerking met de betreffende patiënt aan de patiënt leveren. De zorgonderdelen die deel uitmaken van deze prestatie worden beschreven binnen de kaders van de standaard voor zorgstandaarden welke ingevuld wordt met behulp van de zorgstandaard voor Diabetes Mellitus die geldt op 1 januari van het jaar waarin de zorg wordt geleverd en is aangepast aan de lokale situatie.
+Deze prestatie betreft zorg aan een patiënt van 18 jaar of ouder met Diabetes Mellitus type 2 (DM2), waarbij zorgaanbieders van diverse disciplines de zorgonderdelen in samenhang en in samenwerking met de betreffende patiënt aan de patiënt leveren. De zorgonderdelen die deel uitmaken van deze prestatie worden beschreven binnen de kaders van de standaard voor zorgstandaarden welke ingevuld wordt met behulp van de zorgstandaard voor Diabetes Mellitus die geldt op 1 januari van het jaar waarin de zorg wordt geleverd en is aangepast aan de lokale situatie.
 
 De prestatie betreft de ingevulde standaard voor zorgstandaarden, waarbij de prestatie geldt voor het deel van de zorgstandaard dat inhoud en levering beschrijft nadat de diagnose is vastgesteld. De zorg bestaat ten minste uit (een) ziekte specifieke en (een) generieke component(en) waarbij de organisatiestructuur en de kwaliteitscyclus waarbinnen de zorgonderdelen geleverd worden, tenminste dienen te voldoen aan de criteria zoals gesteld in het vigerende zorgstandaard model van het Coördinatieplatform Zorgstandaarden.
 
@@ -642,7 +649,7 @@ Het tarief is een maximumtarief per geïncludeerde patiënt per kwartaal en bied
 
 b. Multidisciplinaire zorg COPD – niet gecontracteerd
 
-Deze prestatie betreft zorg aan een patiënt met Chronic Obstructive Pulmonary Disease (COPD), waarbij zorgaanbieders van diverse disciplines de zorgonderdelen in samenhang en in samenwerking met de betreffende patiënt aan de patiënt leveren. De zorgonderdelen die deel uitmaken van deze prestatie worden beschreven binnen de kaders van de standaard voor zorgstandaarden die ingevuld wordt met behulp van de zorgstandaard voor COPD die geldt op 1 januari van het jaar waarin de zorg wordt geleverd en is aangepast op de lokale situatie.
+Deze prestatie betreft zorg aan een patiënt met Chronic Obstructive Pulmonary Disease (COPD), waarbij zorgaanbieders van diverse disciplines de zorgonderdelen in samenhang en in samenwerking met de betreffende patiënt aan de patiënt leveren. De zorgonderdelen die deel uitmaken van deze prestatie worden beschreven binnen de kaders van de standaard voor zorgstandaarden die ingevuld wordt met behulp van de zorgstandaard voor COPD die geldt op 1 januari van het jaar waarin de zorg wordt geleverd en is aangepast op de lokale situatie.
 
 De prestatie betreft de ingevulde standaard voor zorgstandaarden, waarbij de prestatie geldt voor het deel van de zorgstandaard dat inhoud en levering beschrijft nadat de diagnose is vastgesteld. Het bestaat tenminste uit (een) ziekte specifieke en (een) generieke component(en) waarbij de organisatiestructuur en de kwaliteitscyclus waarbinnen de zorgonderdelen geleverd worden, ten minste dienen te voldoen aan de criteria zoals gesteld in het vigerende zorgstandaard model van het Coördinatieplatform Zorgstandaarden.
 
@@ -650,21 +657,21 @@ Het tarief is een maximumtarief per geïncludeerde patiënt per kwartaal en bied
 
 c. Multidisciplinaire zorg hart- of vaatziekten – niet gecontracteerd
 
-Deze prestatie betreft secundair preventieve zorg aan een patiënt met hart- of vaatziekten (HVZ), waarbij zorgaanbieders van diverse disciplines de zorgonderdelen in samenhang en in samenwerking met de betreffende patiënt aan de patiënt leveren. De zorgonderdelen die deel uitmaken van deze prestatie worden beschreven binnen de kaders van de standaard voor zorgstandaarden welke ingevuld wordt met behulp van de zorgstandaard Vasculair Risicomanagement die geldt op 1 januari van het jaar waarin de zorg wordt geleverd en is aangepast aan de lokale situatie.
+Deze prestatie betreft secundair preventieve zorg aan een patiënt met hart- of vaatziekten (HVZ), waarbij zorgaanbieders van diverse disciplines de zorgonderdelen in samenhang en in samenwerking met de betreffende patiënt aan de patiënt leveren. De zorgonderdelen die deel uitmaken van deze prestatie worden beschreven binnen de kaders van de standaard voor zorgstandaarden welke ingevuld wordt met behulp van de zorgstandaard Vasculair Risicomanagement die geldt op 1 januari van het jaar waarin de zorg wordt geleverd en is aangepast aan de lokale situatie.
 
 De prestatie betreft de ingevulde standaard voor zorgstandaarden, waarbij de prestatie geldt voor het deel van de zorgstandaard dat inhoud en levering beschrijft nadat de diagnose is vastgesteld en een risico van minimaal 5% om binnen 10 jaar te overlijden aan hart- of vaatziekte. De zorg bestaat ten minste uit (een) ziekte specifieke en (een) generieke component(en) waarbij de organisatiestructuur en de kwaliteitscyclus waarbinnen de zorgonderdelen geleverd worden, tenminste dienen te voldoen aan de criteria zoals gesteld in het vigerende zorgstandaard model van het Coördinatieplatform Zorgstandaarden.
 
 Het tarief is een maximumtarief per geïncludeerde patiënt per kwartaal en biedt vergoeding voor de kosten van het geheel aan noodzakelijke organisatie en infrastructuur van de ketenzorg conform zorgstandaard. Het tarief dekt daarmee alle kosten voor personele inzet, management, ICT, huisvesting en overige kosten behorende bij de noodzakelijke organisatiestructuur en het onderhouden van de kwaliteitscyclus die samenhangen met het leveren van multidisciplinaire ketenzorg voor patiënten met hart- of vaatziekten. Het tarief dekt verder de kosten van huisartsenzorg en diëtetiek. Zie verder [artikel 9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0052808&artikel=9&z=2026-07-09&g=2026-07-09) en het verantwoordingsdocument (bijlage 1).
 
-**Voorwaarden, voorschriften en beperkingen multidisciplinaire zorg – niet gecontracteerd:**
+*Voorwaarden, voorschriften en beperkingen multidisciplinaire zorg – niet gecontracteerd:*
 
 Voor de drie prestaties beschreven in [artikel 6.1 onderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052808&artikel=6&z=2026-07-09&g=2026-07-09) gelden onderstaande voorwaarden, voorschriften en beperkingen. Deze voorwaarden, voorschriften en beperkingen zijn afgeleid van hetgeen aanbieders van multidisciplinaire zorg en zorgverzekeraars gebruikelijk contractueel overeenkomen bij de afspraken over de prestaties binnen segment S2A. Binnen deze contracten worden specifieke afspraken gemaakt over
 
-- –. de inrichting van de organisatie en infrastructuur van het multidisciplinair samenwerkingsverband,
+- – de inrichting van de organisatie en infrastructuur van het multidisciplinair samenwerkingsverband,
 
-- –. in- en exclusiecriteria,
+- – in- en exclusiecriteria,
 
-- –. de wijze waarop omgegaan wordt met de samenloop van declaratietitels.
+- – de wijze waarop omgegaan wordt met de samenloop van declaratietitels.
 
 Deze afspraken geven nadere invulling aan de wijze waarop multidisciplinaire ketenzorg in de praktijk wordt vormgegeven, in aanvulling of in het verlengde van hetgeen in zorgstandaarden/richtlijnen en daaruit volgende NZa-regelgeving is vastgelegd.
 
@@ -694,7 +701,7 @@ Een aanbieder van multidisciplinaire zorg mag de prestaties alleen in rekening b
 
 III. Inclusie- en exclusiecriteria
 
-Voor het in rekening brengen van deze prestaties gelden harde inclusie- en exclusiecriteria. Hiervoor sluit de NZa onverkort aan bij de ‘Handleiding voor inclusie en exclusie van patiënten in ketenzorgprogramma’s van InEen en ZN.4Versie december 2019: [https://ineen.nl/wp-content/uploads/2020/03/191219-Herziene-inclusie-en-exclusiecriteria-ketenzorgprogrammas.pdf](https://ineen.nl/wp-content/uploads/2020/03/191219-Herziene-inclusie-en-exclusiecriteria-ketenzorgprogrammas.pdf) De prestaties mogen alleen in rekening worden gebracht voor patiënten die op de eerste dag van het te declareren kwartaal (1 januari, 1 april, 1 juli, 1 oktober) voldoen aan alle inclusiecriteria en aan geen van de exclusiecriteria voor de specifieke ketenzorgprogramma’s. Hieruit volgt onder andere:
+Voor het in rekening brengen van deze prestaties gelden harde inclusie- en exclusiecriteria. Hiervoor sluit de NZa onverkort aan bij de ‘Handleiding voor inclusie en exclusie van patiënten in ketenzorgprogramma’s van InEen en ZN.4Versie december 2019: [https://ineen.nl/wp-content/uploads/2020/03/191219-Herziene-inclusie-en-exclusiecriteria-ketenzorgprogrammas.pdf](https://ineen.nl/wp-content/uploads/2020/03/191219-Herziene-inclusie-en-exclusiecriteria-ketenzorgprogrammas.pdf) De prestaties mogen alleen in rekening worden gebracht voor patiënten die op de eerste dag van het te declareren kwartaal (1 januari, 1 april, 1 juli, 1 oktober) voldoen aan alle inclusiecriteria en aan geen van de exclusiecriteria voor de specifieke ketenzorgprogramma’s. Hieruit volgt onder andere:
 
 - 1. dat voor patiënten die worden geïncludeerd in de keten Diabetes Mellitus type 2 niet aanvullend de keten hart- of vaatziekten in rekening mag worden gebracht;
 
@@ -712,119 +719,119 @@ Als de prestatie multidisciplinaire ketenzorg Diabetes Mellitus type 2 – niet 
 
 - 1. Prestaties beschreven binnen de Beleidsregel huisartsenzorg en multidisciplinaire zorg:
 
-  - −. **Materiaalkosten teststrips bloedsuikerbepaling diabetespatiënten (waaronder eyetone-teststrips)**, in het geheel uitgesloten;
+   - − *Materiaalkosten teststrips bloedsuikerbepaling diabetespatiënten (waaronder eyetone-teststrips)*, in het geheel uitgesloten;
 
-  - −. **Diabetes Mellitus – begeleiding per jaar bij suikerziekte**, in het geheel uitgesloten;
+   - − *Diabetes Mellitus – begeleiding per jaar bij suikerziekte*, in het geheel uitgesloten;
 
-  - −. **Diabetes Mellitus – instellen van medicijn (insuline) voor suikerziekte**, in het geheel uitgesloten;
+   - − *Diabetes Mellitus – instellen van medicijn (insuline) voor suikerziekte*, in het geheel uitgesloten;
 
-  - −. **Spleetlamponderzoek**, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening Diabetes Mellitus type 2 plaatsvindt;
+   - − *Spleetlamponderzoek*, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening Diabetes Mellitus type 2 plaatsvindt;
 
-  - −. **Consulten/visitesen daarvan afgeleide prestaties binnen Segment 1 voor huisartsenzorg**, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening Diabetes Mellitus type 2 plaatsvindt;
+   - − *Consulten/visitesen daarvan afgeleide prestaties binnen Segment 1 voor huisartsenzorg*, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening Diabetes Mellitus type 2 plaatsvindt;
 
-  - −. Alle prestaties zoals beschreven binnen deze beleidsregel, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening Diabetes Mellitus type 2 plaatsvindt.
+   - − Alle prestaties zoals beschreven binnen deze beleidsregel, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening Diabetes Mellitus type 2 plaatsvindt.
 
 - 2. Prestaties beschreven binnen de [Beleidsregel prestatiebeschrijvingen voor extramurale diëtetiek](https://wetten.overheid.nl/jci1.3:c:BWBR0052232):
 
-  - −. Alle prestaties zoals beschreven binnen deze beleidsregel, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening Diabetes Mellitus type 2 of hart- of vaatziekten plaatsvindt.
+   - − Alle prestaties zoals beschreven binnen deze beleidsregel, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening Diabetes Mellitus type 2 of hart- of vaatziekten plaatsvindt.
 
 - 3. Prestaties beschreven binnen de Beleidsregel stoppen-met-rokenprogramma:
 
-  - −. Alle prestaties zoals beschreven binnen deze beleidsregel, in het geheel uitgesloten.
+   - − Alle prestaties zoals beschreven binnen deze beleidsregel, in het geheel uitgesloten.
 
 Een patiënt kan binnen de prestatie multidisciplinaire ketenzorg Diabetes Mellitus type 2 – niet gecontracteerd ook programmatische zorg in het kader van hart- of vaatziekten ontvangen. Op basis van de in- en exclusiecriteria kan een zorgaanbieder in dat geval alleen de prestatie multidisciplinaire ketenzorg Diabetes Mellitus type 2 – niet gecontracteerd in rekening brengen. Prestaties die onderdeel zijn van de programmatische zorg in het kader van hart- of vaatziekten mogen daarmee ook niet separaat in rekening worden gebracht naast de prestatie multidisciplinaire ketenzorg Diabetes Mellitus type 2 – niet gecontracteerd. Het betreft dan de prestaties:
 
-- –. **Diagnostiek met behulp van Doppler**, in het geheel uitgesloten;
+- – *Diagnostiek met behulp van Doppler*, in het geheel uitgesloten;
 
-- –. **Bloeddrukmeting gedurende 24-uur, hypertensiemeting**, in het geheel uitgesloten;
+- – *Bloeddrukmeting gedurende 24-uur, hypertensiemeting*, in het geheel uitgesloten;
 
-- –. **Kosten voor het maken van een ECG (hartfilmpje)**, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening hart- of vaatziekten plaatsvindt;
+- – *Kosten voor het maken van een ECG (hartfilmpje)*, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening hart- of vaatziekten plaatsvindt;
 
-- –. **ECG-diagnostiek: maken, interpreteren en bespreken van hartfilmpje met de patiënt**, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening hart- of vaatziekten plaatsvindt;
+- – *ECG-diagnostiek: maken, interpreteren en bespreken van hartfilmpje met de patiënt*, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening hart- of vaatziekten plaatsvindt;
 
-- –. **Consulten/visitesen daarvan afgeleide prestaties binnen segment 1 voor huisartsenzorg**, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening hart- of vaatziekten plaatsvindt.
+- – *Consulten/visitesen daarvan afgeleide prestaties binnen segment 1 voor huisartsenzorg*, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening hart- of vaatziekten plaatsvindt.
 
 ad b) Multidisciplinaire zorg COPD – niet gecontracteerd
 
-Als de prestatie Multidisciplinaire zorg COPD – **niet gecontracteerd** in rekening wordt gebracht, mogen de volgende prestaties voor dezelfde patiënt in het betreffende kwartaal niet in rekening worden gebracht.
+Als de prestatie Multidisciplinaire zorg COPD – *niet gecontracteerd* in rekening wordt gebracht, mogen de volgende prestaties voor dezelfde patiënt in het betreffende kwartaal niet in rekening worden gebracht.
 
 - 1. Prestaties beschreven binnen de [Beleidsregel huisartsenzorg en multidisciplinaire zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0051261):
 
-  - −. **Longfunctiemeting (= spirometrie)**, in het geheel uitgesloten;
+   - − *Longfunctiemeting (= spirometrie)*, in het geheel uitgesloten;
 
-  - −. **COPD – gestructureerde zorg per jaar bij ademhalings- en longproblemen**, in het geheel uitgesloten;
+   - − *COPD – gestructureerde zorg per jaar bij ademhalings- en longproblemen*, in het geheel uitgesloten;
 
-  - −. **Kosten voor het maken van een ECG (hartfilmpje)**, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening COPD plaatsvindt;
+   - − *Kosten voor het maken van een ECG (hartfilmpje)*, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening COPD plaatsvindt;
 
-  - −. **ECG-diagnostiek: maken, interpreteren en bespreken van hartfilmpje met de patiënt**, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening COPD plaatsvindt;
+   - − *ECG-diagnostiek: maken, interpreteren en bespreken van hartfilmpje met de patiënt*, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening COPD plaatsvindt;
 
-  - −. **Consulten/visitesen daarvan afgeleide prestaties binnen segment 1 voor huisartsenzorg**, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening COPD plaatsvindt.
+   - − *Consulten/visitesen daarvan afgeleide prestaties binnen segment 1 voor huisartsenzorg*, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening COPD plaatsvindt.
 
-  - −. Alle prestaties zoals beschreven binnen deze beleidsregel, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening COPD plaatsvindt.
+   - − Alle prestaties zoals beschreven binnen deze beleidsregel, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening COPD plaatsvindt.
 
 - 2. Prestaties beschreven binnen de [Beleidsregel prestatiebeschrijvingen voor extramurale diëtetiek](https://wetten.overheid.nl/jci1.3:c:BWBR0052232):
 
-  - −. Alle prestaties zoals beschreven binnen deze beleidsregel, voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening COPD plaatsvindt.
+   - − Alle prestaties zoals beschreven binnen deze beleidsregel, voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening COPD plaatsvindt.
 
 - 3. Prestaties beschreven binnen de Beleidsregel stoppen-met-rokenprogramma:
 
-  - −. Alle prestaties zoals beschreven binnen deze beleidsregel, in het geheel uitgesloten.
+   - − Alle prestaties zoals beschreven binnen deze beleidsregel, in het geheel uitgesloten.
 
 ad c) Multidisciplinaire zorg hart- of vaatziekten – niet gecontracteerd
 
-Als de prestatie multidisciplinaire zorg hart- of vaatziekten – **niet gecontracteerd** in rekening wordt gebracht, mogen de volgende prestaties voor dezelfde patiënt in het betreffende kwartaal niet in rekening worden gebracht.
+Als de prestatie multidisciplinaire zorg hart- of vaatziekten – *niet gecontracteerd* in rekening wordt gebracht, mogen de volgende prestaties voor dezelfde patiënt in het betreffende kwartaal niet in rekening worden gebracht.
 
 - 1. Prestaties beschreven binnen de [Beleidsregel huisartsenzorg en multidisciplinaire zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0051261):
 
-  - −. **Diagnostiek met behulp van Doppler**, in het geheel uitgesloten;
+   - − *Diagnostiek met behulp van Doppler*, in het geheel uitgesloten;
 
-  - −. **Bloeddrukmeting gedurende 24-uur, hypertensiemeting**, in het geheel uitgesloten;
+   - − *Bloeddrukmeting gedurende 24-uur, hypertensiemeting*, in het geheel uitgesloten;
 
-  - −. **Kosten voor het maken van een ECG (hartfilmpje)**, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening hart- of vaatziekten plaatsvindt;
+   - − *Kosten voor het maken van een ECG (hartfilmpje)*, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening hart- of vaatziekten plaatsvindt;
 
-  - −. **ECG-diagnostiek: maken, interpreteren en bespreken van hartfilmpje met de patiënt**, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening hart- of vaatziekten plaatsvindt;
+   - − *ECG-diagnostiek: maken, interpreteren en bespreken van hartfilmpje met de patiënt*, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening hart- of vaatziekten plaatsvindt;
 
-  - −. **Consulten/visitesen daarvan afgeleide prestaties binnen Segment 1 voor huisartsenzorg**, uitgesloten voor zover de zorglevering in het kader van de behandeling en begeleiding van de aandoening hart- of vaatziekten plaatsvindt.
+   - − *Consulten/visitesen daarvan afgeleide prestaties binnen Segment 1 voor huisartsenzorg*, uitgesloten voor zover de zorglevering in het kader van de behandeling en begeleiding van de aandoening hart- of vaatziekten plaatsvindt.
 
-  - −. Alle prestaties zoals beschreven binnen deze beleidsregel, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening hart- of vaatziekten plaatsvindt.
+   - − Alle prestaties zoals beschreven binnen deze beleidsregel, uitgesloten voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening hart- of vaatziekten plaatsvindt.
 
 - 2. Prestaties beschreven binnen de [Beleidsregel prestatiebeschrijvingen voor extramurale diëtetiek](https://wetten.overheid.nl/jci1.3:c:BWBR0052232):
 
-  - −. Alle prestaties zoals beschreven binnen deze beleidsregel, voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening hart- of vaatziekten plaatsvindt.
+   - − Alle prestaties zoals beschreven binnen deze beleidsregel, voor zover de zorglevering in het kader van de programmatische behandeling en begeleiding van de aandoening hart- of vaatziekten plaatsvindt.
 
 - 3. Prestaties beschreven binnen de Beleidsregel stoppen-met-rokenprogramma:
 
-  - −. Alle prestaties zoals beschreven in deze beleidsregel.
+   - − Alle prestaties zoals beschreven in deze beleidsregel.
 
 ##### Artikel 7. Prestatiebeschrijvingen en bepalingen Segment 3
 
-1. **Prestatiebeschrijvingen**
+1. *Prestatiebeschrijvingen*
 
 Binnen Segment 3 worden de volgende prestatiebeschrijvingen onderscheiden:
 
 - 1. Resultaatbeloning
 
-  - a. Resultaatbeloning adequaat verwijzen en diagnostiek
+   - a. Resultaatbeloning adequaat verwijzen en diagnostiek
 
-  - b. Resultaatbeloning doelmatig voorschrijven van geneesmiddelen
+   - b. Resultaatbeloning doelmatig voorschrijven van geneesmiddelen
 
-  - c. Resultaatbeloning service en bereikbaarheid
+   - c. Resultaatbeloning service en bereikbaarheid
 
-  - d. Resultaatbeloning multidisciplinaire zorg
+   - d. Resultaatbeloning multidisciplinaire zorg
 
-  - e. Resultaatbeloning stimulering huisartsenzorg in krimpregio’s
+   - e. Resultaatbeloning stimulering huisartsenzorg in krimpregio’s
 
-  - f. Resultaatbeloning overig
+   - f. Resultaatbeloning overig
 
 - 2. Zorgvernieuwing
 
-  - g. Zorgvernieuwing e-health
+   - g. Zorgvernieuwing e-health
 
-  - h. Zorgvernieuwing meekijkconsult
+   - h. Zorgvernieuwing meekijkconsult
 
-  - i. Overige zorgvernieuwing
+   - i. Overige zorgvernieuwing
 
-2. **Bepalingen bij de prestatiebeschrijvingen**
+2. *Bepalingen bij de prestatiebeschrijvingen*
 
 Ad 1) Resultaatbeloning
 
@@ -842,15 +849,15 @@ c) Resultaatbeloning service en bereikbaarheid
 
 Deze deelprestatie biedt ruimte om afspraken te maken over beloning op uitkomsten van zorgkwaliteit en/of kosten als gevolg van een verbetering in service en bereikbaarheid. Hieronder vallen afspraken rondom zaken als:
 
-- –. Het hebben en gebruiken van mogelijkheden voor patiënten om digitaal afspraken te maken met de huisartspraktijk.
+- – Het hebben en gebruiken van mogelijkheden voor patiënten om digitaal afspraken te maken met de huisartspraktijk.
 
-- –. Het hebben en gebruiken van mogelijkheden voor patiënten tot het aanvragen van herhaalrecepten via mail of website.
+- – Het hebben en gebruiken van mogelijkheden voor patiënten tot het aanvragen van herhaalrecepten via mail of website.
 
-- –. Het ingericht hebben van een ochtend en/of avondspreekuur en/of weekendspreekuur.
+- – Het ingericht hebben van een ochtend en/of avondspreekuur en/of weekendspreekuur.
 
-- –. Deelname aan een klanttevredenheidsonderzoek.
+- – Deelname aan een klanttevredenheidsonderzoek.
 
-- –. Volledige telefonische bereikbaarheid.
+- – Volledige telefonische bereikbaarheid.
 
 d) Resultaatbeloning multidisciplinaire zorg
 
@@ -864,7 +871,7 @@ f) Resultaatbeloning overig
 
 Deze deelprestatie biedt ruimte om afspraken te maken over beloning op uitkomsten van zorgkwaliteit en/of kosten bij domeinen anders dan de vijf hierboven genoemde.
 
-**Voorwaarden, voorschriften en beperkingen:**
+*Voorwaarden, voorschriften en beperkingen:*
 
 - 1. Voor alle prestaties geldt dat deze enkel in rekening mogen worden gebracht indien een overeenkomst is gesloten tussen de zorgaanbieder en de zorgverzekeraar van de betreffende verzekerde.
 
@@ -872,11 +879,11 @@ Deze deelprestatie biedt ruimte om afspraken te maken over beloning op uitkomste
 
 - 3. De deelprestaties a tot en met d binnen het domein resultaatbeloning mogen niet zelfstandig in rekening worden gebracht. Deze deelprestaties mogen enkel in rekening worden gebracht met minimaal een van de volgende prestaties:
 
-  - a. Inschrijving
+   - a. Inschrijving
 
-  - b. Multidisciplinaire zorg Diabetes Mellitus type 2 en/of Vasculair Risicomanagement
+   - b. Multidisciplinaire zorg Diabetes Mellitus type 2 en/of Vasculair Risicomanagement
 
-  - c. Multidisciplinaire zorg COPD en/of Astma.
+   - c. Multidisciplinaire zorg COPD en/of Astma.
 
 Ad 2) Zorgvernieuwing
 
@@ -886,9 +893,9 @@ g) Zorgvernieuwing e-health
 
 Deze prestatie biedt ruimte om afspraken te maken over de vergoeding van of beloning voor inzet van e-health binnen de geboden zorgverlening, voor zover de e-health een van de twee volgende vormen betreft:
 
-- –. Digitale instrumenten voor zelfmanagement door de patiënt
+- – Digitale instrumenten voor zelfmanagement door de patiënt
 
-- –. Digitale behandelvormen.
+- – Digitale behandelvormen.
 
 Beperking: e-health die samenhangt met enkel de functie poh-ggz moet in eerste instantie onder die prestatie in rekening worden gebracht (zie [artikel 5.1 onderdeel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052808&artikel=5&z=2026-07-09&g=2026-07-09)); alleen als partijen afspraken maken die de ruimte van die prestatie te boven gaat, kan de S3-prestatie zorgvernieuwing e-health voor dat deel worden gebruikt.
 
@@ -904,7 +911,7 @@ i) Overige zorgvernieuwing
 
 Deze prestatie biedt ruimte om lokale afspraken te maken over de vergoeding van overige vormen van zorgvernieuwing, die niet in één van de prestaties g of h zijn onder te brengen. Afspraken over inzet van poh-ggz boven 1/3 fte per 2.350 patiënten kunnen ook onderdeel zijn van de afspraken binnen deze prestatie. Deze prestatie biedt ook de ruimte om een vergoeding overeen te komen voor de inzet van praktijkmanagement. Het betreft dan de vergoeding van kosten voor inzet van een praktijkmanager, die ondersteuning biedt aan (bij voorkeur) een groep van huisartsen in een netwerk of een groepspraktijk.
 
-**Voorwaarden, voorschriften en beperkingen:**
+*Voorwaarden, voorschriften en beperkingen:*
 
 - 1. Voor alle prestaties geldt dat deze enkel in rekening mogen worden gebracht indien een overeenkomst is gesloten tussen de zorgaanbieder en de zorgverzekeraar van de betreffende verzekerde.
 
@@ -920,35 +927,35 @@ Deze prestatie biedt ruimte om lokale afspraken te maken over de vergoeding van 
 
 ##### Artikel 8. Prestatiebeschrijvingen en bepalingen buiten segmenten
 
-1. **Prestatiebeschrijvingen**
+1. *Prestatiebeschrijvingen*
 
 Voor de prestaties buiten de segmenten worden de volgende prestatiebeschrijvingen onderscheiden.
 
 - 1. Anw-verrichtingen in hds
 
-  - a. Dienstuur huisartsendienstenstructuur in de avond
+   - a. Dienstuur huisartsendienstenstructuur in de avond
 
-  - b. Dienstuur huisartsendienstenstructuur in de nacht
+   - b. Dienstuur huisartsendienstenstructuur in de nacht
 
-  - c. Dienstuur huisartsendienstenstructuur in het weekend
+   - c. Dienstuur huisartsendienstenstructuur in het weekend
 
-  - d. Dienstuur huisartsendienstenstructuur op een feestdag
+   - d. Dienstuur huisartsendienstenstructuur op een feestdag
 
-  - e. Opslag dienstuur huisartsendienstenstructuur
+   - e. Opslag dienstuur huisartsendienstenstructuur
 
 - 2. Anw-verrichtingen buiten hds
 
-  - a. Consult in de avond, nacht of het weekend, korter dan 5 minuten
+   - a. Consult in de avond, nacht of het weekend, korter dan 5 minuten
 
-  - b. Consult in de avond, nacht of het weekend, vanaf 5 minuten tot 20 minuten
+   - b. Consult in de avond, nacht of het weekend, vanaf 5 minuten tot 20 minuten
 
-  - c. Consult in de avond, nacht of het weekend, 20 minuten en langer
+   - c. Consult in de avond, nacht of het weekend, 20 minuten en langer
 
-  - d. Visite in de avond, nacht of het weekend, korter dan 20 minuten
+   - d. Visite in de avond, nacht of het weekend, korter dan 20 minuten
 
-  - e. Visite in de avond, nacht of het weekend, 20 minuten en langer
+   - e. Visite in de avond, nacht of het weekend, 20 minuten en langer
 
-  - f. Vaccinatie in de avond, nacht of het weekend
+   - f. Vaccinatie in de avond, nacht of het weekend
 
 - 3. Informatieverstrekking per 5 minuten
 
@@ -956,41 +963,41 @@ Voor de prestaties buiten de segmenten worden de volgende prestatiebeschrijvinge
 
 - 5. Keuringen en onderzoek
 
-  - a. Keuringen en onderzoek per 5 minuten
+   - a. Keuringen en onderzoek per 5 minuten
 
-  - b. Kilometervergoeding (vanaf 5 retourkilometers) per retourkilometer
+   - b. Kilometervergoeding (vanaf 5 retourkilometers) per retourkilometer
 
 - 6. Verbruiksmaterialen
 
-  - a. Materiaalkosten atraumatisch hechtmateriaal, waaronder lijmen
+   - a. Materiaalkosten atraumatisch hechtmateriaal, waaronder lijmen
 
-  - b. Materiaalkosten voor tape bij enkelverstuiking
+   - b. Materiaalkosten voor tape bij enkelverstuiking
 
-  - c. Materiaalkosten zwangerschapsreactie (planotest en dergelijke)
+   - c. Materiaalkosten zwangerschapsreactie (planotest en dergelijke)
 
-  - d. Materiaalkosten dipslides (urineweginfecties)
+   - d. Materiaalkosten dipslides (urineweginfecties)
 
-  - e. Materiaalkosten teststrips bloedsuikerbepaling diabetespatiënten (waaronder eyetone- teststrips)
+   - e. Materiaalkosten teststrips bloedsuikerbepaling diabetespatiënten (waaronder eyetone- teststrips)
 
-  - f. Materiaalkosten vloeibaar stikstof of histofreezer
+   - f. Materiaalkosten vloeibaar stikstof of histofreezer
 
-  - g. Materiaalkosten blaaskatheter
+   - g. Materiaalkosten blaaskatheter
 
-  - h. Materiaalkosten CRP-sneltest cassette(s)
+   - h. Materiaalkosten CRP-sneltest cassette(s)
 
 - 7. Kostenvergoedingen
 
-  - a. Kosten voor het maken van een ECG (hartfilmpje)
+   - a. Kosten voor het maken van een ECG (hartfilmpje)
 
-  - b. Kosten entstoffen
+   - b. Kosten entstoffen
 
-  - c. Laboratoriumkosten
+   - c. Laboratoriumkosten
 
 - 8. SCEN
 
-  - a. SCEN: Steun en Consultatie bij Euthanasie in Nederland
+   - a. SCEN: Steun en Consultatie bij Euthanasie in Nederland
 
-  - b. SCEN: Steun en Consultatie bij Euthanasie in Nederland, op de Waddeneilanden
+   - b. SCEN: Steun en Consultatie bij Euthanasie in Nederland, op de Waddeneilanden
 
 - 9. Huisartsenzorg voor asielzoekers in de centrale opvang
 
@@ -1000,95 +1007,95 @@ Voor de prestaties buiten de segmenten worden de volgende prestatiebeschrijvinge
 
 - 12. M&I verrichtingen – gecontracteerd
 
-  - a. Audiometrie
+   - a. Audiometrie
 
-  - b. Diagnostiek met behulp van Doppler
+   - b. Diagnostiek met behulp van Doppler
 
-  - c. Tympanometrie: meten van de beweeglijkheid van het trommelvlies
+   - c. Tympanometrie: meten van de beweeglijkheid van het trommelvlies
 
-  - d. Longfunctiemeting (= spirometrie)
+   - d. Longfunctiemeting (= spirometrie)
 
-  - e. ECG-diagnostiek: maken, interpreteren en bespreken van hartfilmpje met de patiënt
+   - e. ECG-diagnostiek: maken, interpreteren en bespreken van hartfilmpje met de patiënt
 
-  - f. Spleetlamponderzoek
+   - f. Spleetlamponderzoek
 
-  - g. Tele-echo, -röntgen, -hartmonitoring op de Waddeneilanden
+   - g. Tele-echo, -röntgen, -hartmonitoring op de Waddeneilanden
 
-  - h. Bloeddrukmeting gedurende 24-uur, hypertensiemeting
+   - h. Bloeddrukmeting gedurende 24-uur, hypertensiemeting
 
-  - i. Teledermatologie
+   - i. Teledermatologie
 
-  - j. Cognitieve functietest (MMSE)
+   - j. Cognitieve functietest (MMSE)
 
-  - k. Hartritmestoornissen
+   - k. Hartritmestoornissen
 
-  - l. MRSA-screening: onderzoek naar ziekenhuisbacterie
+   - l. MRSA-screening: onderzoek naar ziekenhuisbacterie
 
-  - m. Diabetes Mellitus – begeleiding per jaar bij suikerziekte
+   - m. Diabetes Mellitus – begeleiding per jaar bij suikerziekte
 
-  - n. Diabetes Mellitus – instellen van medicijn (insuline) voor suikerziekte
+   - n. Diabetes Mellitus – instellen van medicijn (insuline) voor suikerziekte
 
-  - o. COPD – gestructureerde zorg per jaar bij ademhalings- en longproblemen
+   - o. COPD – gestructureerde zorg per jaar bij ademhalings- en longproblemen
 
-  - p. Palliatieve consultatie, visite
+   - p. Palliatieve consultatie, visite
 
-  - q. Palliatieve consultatie, telefonisch
+   - q. Palliatieve consultatie, telefonisch
 
-  - r. Euthanasie
+   - r. Euthanasie
 
-  - s. Gestructureerde huisartsenzorg in verzorgingshuis
+   - s. Gestructureerde huisartsenzorg in verzorgingshuis
 
-  - t. Gestructureerde huisartsenzorg in de maatschappelijke opvang
+   - t. Gestructureerde huisartsenzorg in de maatschappelijke opvang
 
-  - u. Abdominale (buik) echografie
+   - u. Abdominale (buik) echografie
 
 - 13. M&I verrichtingen – niet gecontracteerd
 
-  - a. Audiometrie
+   - a. Audiometrie
 
-  - b. Diagnostiek met behulp van Doppler
+   - b. Diagnostiek met behulp van Doppler
 
-  - c. Tympanometrie: meten van de beweeglijkheid van het trommelvlies
+   - c. Tympanometrie: meten van de beweeglijkheid van het trommelvlies
 
-  - d. Longfunctiemeting (= spirometrie)
+   - d. Longfunctiemeting (= spirometrie)
 
-  - e. ECG-diagnostiek: maken, interpreteren en bespreken van hartfilmpje met de patiënt
+   - e. ECG-diagnostiek: maken, interpreteren en bespreken van hartfilmpje met de patiënt
 
-  - f. Spleetlamponderzoek
+   - f. Spleetlamponderzoek
 
-  - g. Tele-echo, -röntgen, -hartmonitoring op de Waddeneilanden
+   - g. Tele-echo, -röntgen, -hartmonitoring op de Waddeneilanden
 
-  - h. Bloeddrukmeting gedurende 24-uur, hypertensiemeting
+   - h. Bloeddrukmeting gedurende 24-uur, hypertensiemeting
 
-  - i. Teledermatologie
+   - i. Teledermatologie
 
-  - j. Cognitieve functietest (MMSE)
+   - j. Cognitieve functietest (MMSE)
 
-  - k. Hartritmestoornissen
+   - k. Hartritmestoornissen
 
-  - l. MRSA-screening: onderzoek naar ziekenhuisbacterie
+   - l. MRSA-screening: onderzoek naar ziekenhuisbacterie
 
-  - m. Palliatieve consultatie, visite
+   - m. Palliatieve consultatie, visite
 
-  - n. Palliatieve consultatie, telefonisch
+   - n. Palliatieve consultatie, telefonisch
 
-  - o. Euthanasie
+   - o. Euthanasie
 
-  - p. Abdominale (buik) echografie
+   - p. Abdominale (buik) echografie
 
 - 14. M&I verrichtingen – overig
 
-  - a. Chirurgie in geval van cosmetiek
+   - a. Chirurgie in geval van cosmetiek
 
-  - b. Varices sclerosering in geval van cosmetiek
+   - b. Varices sclerosering in geval van cosmetiek
 
-  - c. Reizigersadvisering en -vaccinatie
+   - c. Reizigersadvisering en -vaccinatie
 
-  - d. Sterilisatie man
+   - d. Sterilisatie man
 
-  - e. Besnijdenis
+   - e. Besnijdenis
 
-2. **Bepalingen bij de prestatiebeschrijvingen**
+2. *Bepalingen bij de prestatiebeschrijvingen*
 
 Ad 1) Anw-verrichtingen in hds
 
@@ -1102,7 +1109,7 @@ Voor incidentele en acute huisartsenzorg in anw-uren (avond-, nacht- en weekendu
 
 - d. Dienstuur huisartsendienstenstructuur op een feestdag is van toepassing voor de uren die vallen op feestdagen volgens de [Algemene Termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448).
 
-**Voorwaarden, voorschriften en beperkingen:**
+*Voorwaarden, voorschriften en beperkingen:*
 
 Ten behoeve van de overheveling van de patiëntenstroom van de tweede naar de eerste lijn kan door de huisarts een toeslag in rekening worden gebracht. De huisarts kan deze toeslag enkel in rekening brengen indien:
 
@@ -1116,7 +1123,7 @@ Voor huisartsen die niet participeren in een huisartsendienstenstructuur is een 
 
 Het anw-consult is gedifferentieerd in zes separate prestaties.
 
-**Voorwaarden, voorschriften en beperkingen:**
+*Voorwaarden, voorschriften en beperkingen:*
 
 - 1. Voorwaarden, voorschriften en beperkingen 1 t/m 7 en 10 van de reguliere consulten (zie [artikel 5.1 onderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052808&artikel=5&z=2026-07-09&g=2026-07-09)) zijn mutatis mutandis van toepassing.
 
@@ -1148,9 +1155,9 @@ Deze prestatie mag niet in rekening worden gebracht:
 
 - 2. In het kader van zorgverlening waarvoor de zorgaanbieder:
 
-  - a. de patiënt heeft verwezen, zoals bij een aanvraag/machtiging voor geneesmiddelen, hulpmiddelen;
+   - a. de patiënt heeft verwezen, zoals bij een aanvraag/machtiging voor geneesmiddelen, hulpmiddelen;
 
-  - b. een advies vraagt aan een andere zorgaanbieder
+   - b. een advies vraagt aan een andere zorgaanbieder
 
 - 3. Voor een (later) gevraagde toelichting of verduidelijking op de verstrekte informatie.
 
@@ -1186,17 +1193,17 @@ De prestatie betreft steun en consultatie bij euthanasie aan de patiënt en dien
 
 Onder de prestatie wordt het totaal aan activiteiten van de SCEN-arts begrepen naar aanleiding van een steun/consultatieverzoek, waaronder:
 
-- –. het overleggen met de behandelaar plus het bestuderen van het medisch dossier ten behoeve van de SCEN;
+- – het overleggen met de behandelaar plus het bestuderen van het medisch dossier ten behoeve van de SCEN;
 
-- –. het afleggen van de visites bij de patiënt en diens omgeving;
+- – het afleggen van de visites bij de patiënt en diens omgeving;
 
-- –. de verslaglegging ten behoeve van de behandelaar;
+- – de verslaglegging ten behoeve van de behandelaar;
 
-- –. het afsluitend overleg met de behandelaar voor onder meer bespreking van het verslag. Met de bespreking van het verslag wordt de SCEN afgesloten.
+- – het afsluitend overleg met de behandelaar voor onder meer bespreking van het verslag. Met de bespreking van het verslag wordt de SCEN afgesloten.
 
 Ad 9) Huisartsenzorg voor asielzoekers in de centrale opvang
 
-Voor huisartsenzorg aan asielzoekers in de centrale opvang bestaat een abonnementstarief. Het maximumtarief voor huisartsenhulp voor asielzoekers in de centrale opvang, bijvoorbeeld in een asielzoekerscentrum (AZC), in een opvangcentrum (OC) of in de aanvullende opvang (AVO) is een abonnementstarief **per plaats**.
+Voor huisartsenzorg aan asielzoekers in de centrale opvang bestaat een abonnementstarief. Het maximumtarief voor huisartsenhulp voor asielzoekers in de centrale opvang, bijvoorbeeld in een asielzoekerscentrum (AZC), in een opvangcentrum (OC) of in de aanvullende opvang (AVO) is een abonnementstarief *per plaats*.
 
 Ad 10) Module achterstandsfonds
 
@@ -1226,11 +1233,11 @@ Tympanometrie: meten van de beweeglijkheid van het trommelvlies
 
 Het meten van de beweeglijkheid van het trommelvlies met behulp van microtympanometer in eigen beheer ter diagnostiek en vervolgen van gehoorproblemen bij:
 
-- –. Otitis media met effusie langer dan 3 maanden;
+- – Otitis media met effusie langer dan 3 maanden;
 
-- –. Tympanosclerose;
+- – Tympanosclerose;
 
-- –. Otosclerose.
+- – Otosclerose.
 
 Het betreft een prestatie per meting. Handelingen beschreven in NHG-standaard M18.
 
@@ -1260,9 +1267,9 @@ Vervaardigen, beveiligd verzenden en opslaan alsmede het laten beoordelen door d
 
 Deze prestatie includeert:
 
-- –. gebruikmaking van adequate apparatuur, beveiligde verbinding en digitale opslag van informatie;
+- – gebruikmaking van adequate apparatuur, beveiligde verbinding en digitale opslag van informatie;
 
-- –. geprotocolleerde rapportage door dermatoloog.
+- – geprotocolleerde rapportage door dermatoloog.
 
 Cognitieve functietest (MMSE)
 
@@ -1316,19 +1323,19 @@ Het uitvoeren en interpreteren van abdominale echografie in eigen beheer ter voo
 
 Bij verwijzing naar de specialist na het onderzoek is het beschikbaar stellen van diagnostische materiaal ten behoeve van de vervolgbehandeling onderdeel van de prestatie. Het betreft de volgende indicaties:
 
-- –. aorta: herkennen aneurysmata;
+- – aorta: herkennen aneurysmata;
 
-- –. lever: tumoren, metastasen;
+- – lever: tumoren, metastasen;
 
-- –. galblaas: stenen, stuwing;
+- – galblaas: stenen, stuwing;
 
-- –. nieren: stuwing, concrementen, cysten, tumoren;
+- – nieren: stuwing, concrementen, cysten, tumoren;
 
-- –. uterus: myomen, positie IUD, endometriumdikte;
+- – uterus: myomen, positie IUD, endometriumdikte;
 
-- –. ovaria: cysten;
+- – ovaria: cysten;
 
-- –. blaas: urineretentie, concrementen.
+- – blaas: urineretentie, concrementen.
 
 Het betreft uitdrukkelijk niet de echo bij zwangerschap.
 
@@ -1364,15 +1371,15 @@ Uitzondering op het contractvereiste vrij tarief
 
 Uitzondering op bovenstaande voorwaarde (dat een vrij tarief alleen in rekening mag worden gebracht wanneer er een overeenkomst is gesloten met een zorgverzekeraar) vormen de vijf M&I-verrichtingen die niet gedekt worden door de basisverzekering. Het betreft de prestaties:
 
-- –. Chirurgie in verband met cosmetiek
+- – Chirurgie in verband met cosmetiek
 
-- –. Varices sclerosering in geval van cosmetiek
+- – Varices sclerosering in geval van cosmetiek
 
-- –. Reizigersadvisering en -vaccinatie
+- – Reizigersadvisering en -vaccinatie
 
-- –. Sterilisatie van de man
+- – Sterilisatie van de man
 
-- –. Besnijdenis
+- – Besnijdenis
 
 Voor deze M&I-verrichtingen geldt dus dat deze ook tegen vrij tarief in rekening mogen worden gebracht zonder contract met de zorgverzekeraar.
 
@@ -1384,13 +1391,13 @@ Het totaal aan medisch noodzakelijke handelingen zoals beschreven in de per pres
 
 ##### Artikel 9. Tariefsoort en tariefonderbouwing
 
-1. **Segment 1**
+1. *Segment 1*
 
 Voor alle prestaties zoals beschreven in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052808&artikel=5&z=2026-07-09&g=2026-07-09) van deze beleidsregel geldt dat de NZa maximumtarieven vaststelt. Uitzondering hierop vormt de prestatie onderlinge dienstverlening (zie artikel 5.1 onderdeel 7): hiervoor geldt een vrij tarief.
 
 De onderbouwing van de rekenmethode die gehanteerd wordt door de NZa om tot de maximumtarieven te komen wordt uiteengezet in het verantwoordingsdocument (bijlage 1).
 
-2. **Segment 2**
+2. *Segment 2*
 
 Organisatie en infrastructuur
 
@@ -1398,7 +1405,7 @@ Voor alle prestaties Organisatie en infrastructuur (O&I) zorg zoals beschreven i
 
 De prestaties mogen enkel in rekening worden gebracht indien hier een overeenkomst met de zorgverzekeraar van de desbetreffende verzekerde aan ten grondslag ligt.
 
-Het overeengekomen tarief per kwartaal heeft een looptijd van 1 januari tot en met 31 december van enig jaar. Het is partijen toegestaan meerjarige contracten te sluiten, en daarin voor elk jaar van de looptijd van het contract een jaartarief en eventueel aanvullende afspraken overeen te komen.
+Het overeengekomen tarief per kwartaal heeft een looptijd van 1 januari tot en met 31 december van enig jaar. Het is partijen toegestaan meerjarige contracten te sluiten, en daarin voor elk jaar van de looptijd van het contract een jaartarief en eventueel aanvullende afspraken overeen te komen.
 
 De tarieven voor onderlinge dienstverlening in het kader van de prestaties Organisatie en infrastructuur zijn vrij.
 
@@ -1408,7 +1415,7 @@ Voor alle gecontracteerde prestaties multidisciplinaire zorg zoals beschreven in
 
 De prestaties mogen enkel in rekening worden gebracht indien hier een overeenkomst met de zorgverzekeraar van de desbetreffende verzekerde aan ten grondslag ligt. De prestaties met een vrij tarief mogen ook in rekening worden gebracht indien de zorgverzekeraar van de desbetreffende verzekerde uitsluitend restitutiepolissen aanbiedt (en daarbij niet zelf contracteert) onder de voorwaarde dat er een overeenkomst is met minimaal 1 andere zorgverzekeraar.
 
-Het overeengekomen tarief per kwartaal heeft een looptijd van 1 januari tot en met 31 december van enig jaar. Het is partijen toegestaan meerjarige contracten te sluiten, en daarin voor elk jaar van de looptijd van het contract een jaartarief en eventueel aanvullende afspraken overeen te komen.
+Het overeengekomen tarief per kwartaal heeft een looptijd van 1 januari tot en met 31 december van enig jaar. Het is partijen toegestaan meerjarige contracten te sluiten, en daarin voor elk jaar van de looptijd van het contract een jaartarief en eventueel aanvullende afspraken overeen te komen.
 
 De tarieven voor onderlinge dienstverlening in het kader van de prestaties multidisciplinaire zorg (gecontracteerd) zijn vrij.
 
@@ -1416,19 +1423,19 @@ Multidisciplinaire zorg – niet gecontracteerd
 
 Voor alle niet gecontracteerde prestaties multidisciplinaire zorg zoals beschreven in [artikel 6.1 onderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052808&artikel=6&z=2026-07-09&g=2026-07-09) van deze beleidsregel geldt een tarief per geïncludeerde patiënt per kwartaal. Deze prestaties kennen een maximumtarief.
 
-Het kwartaaltarief kan in rekening worden gebracht voor iedere patiënt die op de eerste dag van het kwartaal (1 januari, 1 april, 1 juli, 1 oktober) geïncludeerd is in de betreffende keten en ook ‘in zorg’ zijn. Hiervan is sprake bij het eerste contact/consult in het kader van het ketenzorgprogramma.
+Het kwartaaltarief kan in rekening worden gebracht voor iedere patiënt die op de eerste dag van het kwartaal (1 januari, 1 april, 1 juli, 1 oktober) geïncludeerd is in de betreffende keten en ook ‘in zorg’ zijn. Hiervan is sprake bij het eerste contact/consult in het kader van het ketenzorgprogramma.
 
 De onderbouwing van de methode die gehanteerd wordt door de NZa om tot de maximumtarieven te komen, wordt uiteengezet in het verantwoordingsdocument (bijlage 1).
 
 De tarieven voor onderlinge dienstverlening in het kader van de prestaties multidisciplinaire zorg (niet gecontracteerd) zijn vrij.
 
-3. **Segment 3**
+3. *Segment 3*
 
 Alle prestaties binnen Segment 3 kennen een vrij tarief en kunnen enkel in rekening worden gebracht indien hier een overeenkomst met de zorgverzekeraar van de desbetreffende verzekerde aan ten grondslag ligt.
 
 Voor deelprestaties a tot en met d binnen het domein resultaatbeloning ([artikel 7.1 onderdelen 1.a t/m 1.d](https://wetten.overheid.nl/jci1.3:c:BWBR0052808&artikel=7&z=2026-07-09&g=2026-07-09)) geldt dat de afgesproken tarieven betrekking hebben op een bedrag per verzekerde, dan wel een bedrag per geïncludeerde patiënt. Voor de deelprestaties e tot en met i (artikel 7.1 onderdelen 1.e, 1.f, 2.a t/m 2.c) geldt de voorgaande beperking niet.
 
-4. **Prestaties buiten segmenten**
+4. *Prestaties buiten segmenten*
 
 Alle prestaties beschreven in [artikel 8.1 onderdelen 1 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0052808&artikel=8&z=2026-07-09&g=2026-07-09) van deze beleidsregel kennen een maximumtarief. Voor de M&I-verrichtingen, zoals beschreven in artikel 8.1 onderdelen 12 en 14, geldt een vrij tarief onder voorwaarde dat hier een overeenkomst met de zorgverzekeraar van de desbetreffende verzekerde, dan wel gemoedsbezwaarde, aan ten grondslag ligt. Indien deze overeenkomst ontbreekt, gelden maximumtarieven voor de prestaties zoals vermeld in artikel 8.1 onderdeel 13.
 
@@ -1436,11 +1443,11 @@ De onderbouwing van de rekenmethode die gehanteerd wordt door de NZa om tot de m
 
 ##### Artikel 10. Toepasselijkheid van deze beleidsregel
 
-In afwijking van de [Beleidsregel huisartsenzorg en multidisciplinaire zorg 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047255) met kenmerk BR/REG-23132a en de [Beleidsregel huisartsenzorg en multidisciplinaire zorg 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0048546) met kenmerk BR/REG-24132a is deze beleidsregel van toepassing op besluiten en aangelegenheden in het tijdvak 1 januari 2023 tot en met 31 december 2023.
+In afwijking van de [Beleidsregel huisartsenzorg en multidisciplinaire zorg 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047255) met kenmerk BR/REG-23132a en de [Beleidsregel huisartsenzorg en multidisciplinaire zorg 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0048546) met kenmerk BR/REG-24132a is deze beleidsregel van toepassing op besluiten en aangelegenheden in het tijdvak 1 januari 2023 tot en met 31 december 2023.
 
 ##### Artikel 11. Inwerkingtreding en bekendmaking
 
-Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de beleidsregel ingevolge [artikel 5, aanhef en onder e, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), wordt geplaatst en werkt terug tot en met 1 januari 2023.
+Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de beleidsregel ingevolge [artikel 5, aanhef en onder e, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), wordt geplaatst en werkt terug tot en met 1 januari 2023.
 
 De beleidsregel ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl).
 

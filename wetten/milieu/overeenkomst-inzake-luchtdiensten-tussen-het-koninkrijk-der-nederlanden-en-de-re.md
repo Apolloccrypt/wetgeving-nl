@@ -1,49 +1,19 @@
 ---
 title: "Overeenkomst inzake luchtdiensten tussen het Koninkrijk der Nederlanden en de Republiek Venezuela"
 identifier: "BWBV0001123"
-country: "nl"
-rank: "verdrag"
-publication_date: "1994-04-01"
-last_updated: "1994-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001123"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002103873"
-version_id: "10002202112"
-internal_id: "C10006977701"
-label_id: "10002094144"
-dtd_version: "2.0"
-original_entry_into_force: "1994-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001123/1994-04-01/0"
-intitule_bron: "Trb.1993-120"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-02-24"
-intitule_published: "1993-09-08"
-intitule_in_force: "1994-04-15"
-intitule_status: "goed"
-original_publication: "Trb.1993-120"
-original_signed_date: "1994-02-24"
-original_published_date: "1993-09-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1993-120"
-entry_into_force_date: "1994-04-01"
-jci_1_3: "jci1.3:c:BWBV0001123&z=1994-04-01&g=1994-04-01"
-jci_1_0: "1.0:c:BWBV0001123&g=1994-04-01"
-citeertitel_status: "redactioneel"
-signed_date: "1994-02-24"
-entry_into_force: "1994-04-01"
+publicatiedatum: 1994-04-01
+laatste_update: 1994-04-01
+status: geldig
+toestand: 1994-04-01
+bron: "https://wetten.overheid.nl/BWBV0001123"
+opgehaald: 2026-09-11
 ---
+
 # Overeenkomst inzake luchtdiensten tussen het Koninkrijk der Nederlanden en de Republiek Venezuela
 
-Het Koninkrijk der Nederlanden en de Republiek Venezuela,
-
-Partij zijnde bij het Verdrag inzake de Internationale Burgerluchtvaart, dat op 7 december 1944 te Chicago voor ondertekening werd opengesteld,
-
-Geleid door de wens bij te dragen aan de vooruitgang van de internationale burgerluchtvaart,
-
-Geleid door de wens een Overeenkomst te sluiten voor het instellen van luchtdiensten,
-
-Zijn overeengekomen als volgt:
+*Het Koninkrijk der Nederlanden en de Republiek Venezuela, Partij zijnde bij het Verdrag inzake de Internationale Burgerluchtvaart, dat op 7 december 1944 te Chicago voor ondertekening werd opengesteld, Geleid door de wens bij te dragen aan de vooruitgang van de internationale burgerluchtvaart, Geleid door de wens een Overeenkomst te sluiten voor het instellen van luchtdiensten, Zijn overeengekomen als volgt:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -67,9 +37,9 @@ Tenzij het zinsverband anders vereist, hebben in deze Overeenkomst en de Bijlage
 
 - i. „tarief: elk bedrag in rekening gebracht of in rekening te brengen door de luchtvaartmaatschappijen, rechtstreeks of via hun agenten, aan alle natuurlijke personen of rechtspersonen voor het vervoer door de lucht van passagiers en hun bagage en vracht, post uitgezonderd, daarbij inbegrepen:
 
-- I. de voorwaarden betreffende het beschikbaar zijn en het van toepassing zijn van een tarief, en
+   - I. de voorwaarden betreffende het beschikbaar zijn en het van toepassing zijn van een tarief, en
 
-- II. de heffingen en voorwaarden voor alle bij zulk vervoer bijkomende diensten die door de luchtvaartmaatschappijen worden aangebode n.
+   - II. de heffingen en voorwaarden voor alle bij zulk vervoer bijkomende diensten die door de luchtvaartmaatschappijen worden aangebode n.
 
 ##### Artikel 2. Verlening van rechten
 
@@ -247,7 +217,7 @@ TEN BLIJKE WAARVAN de ondertekenaars, daartoe naar behoren gemachtigd door hun o
 
 GEDAAN te Caracas, op 1 juli 1993, in de Nederlandse, de Spaanse en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. Ingeval van verschillen tussen de teksten is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) B. E. A. AMBAGS
 
@@ -255,7 +225,7 @@ Beatrix E. A. Ambags
 
 Tijdelijk Zaakgelastigde
 
-**Voor de Regering van de Republiek Venezuela**
+*Voor de Regering van de Republiek Venezuela*
 
 (w.g.) FERNANDO O. ANTICH
 

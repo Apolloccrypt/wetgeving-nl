@@ -1,52 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Belarus inzake de bevordering en de wederzijdse bescherming van investeringen"
 identifier: "BWBV0001208"
-country: "nl"
-rank: "verdrag"
-publication_date: "1996-08-01"
-last_updated: "1996-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001208"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000261543"
-version_id: "10000269562"
-internal_id: "C10006987761"
-label_id: "10000261734"
-original_entry_into_force: "1996-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001208/1996-08-01/0"
-intitule_bron: "Trb.1995-142"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-12-18"
-intitule_published: "1995-06-07"
-intitule_in_force: "1996-08-28"
-intitule_status: "goed"
-original_publication: "Trb.1995-142"
-original_signed_date: "1995-12-18"
-original_published_date: "1995-06-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1995-142"
-entry_into_force_date: "1996-08-01"
-jci_1_3: "jci1.3:c:BWBV0001208&z=1996-08-01&g=1996-08-01"
-jci_1_0: "1.0:c:BWBV0001208&g=1996-08-01"
-citeertitel_status: "officieel"
-signed_date: "1995-12-18"
-entry_into_force: "1996-08-01"
+publicatiedatum: 1996-08-01
+laatste_update: 1996-08-01
+status: geldig
+toestand: 1996-08-01
+bron: "https://wetten.overheid.nl/BWBV0001208"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Belarus inzake de bevordering en de wederzijdse bescherming van investeringen
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Republiek Belarus,
-
-hierna aangeduid als de Verdragsluitende Partijen,
-
-Geleid door de wens de van oudsher tussen hun landen bestaande vriendschapsbanden te versterken, de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door investeerders van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij betreft,
-
-In het besef dat overeenstemming omtrent de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Republiek Belarus, hierna aangeduid als de Verdragsluitende Partijen, Geleid door de wens de van oudsher tussen hun landen bestaande vriendschapsbanden te versterken, de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door investeerders van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij betreft, In het besef dat overeenstemming omtrent de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -54,23 +21,23 @@ Voor de toepassing van dit Verdrag:
 
 - 1. omvat de term „investeerders" met betrekking tot elk van beide Verdragsluitende Partijen:
 
-- a. natuurlijke personen die krachtens het recht van die Verdragsluitende Partij onderdaan van die Partij zijn, en investeringen doen op het grondgebied van de andere Verdragsluitende Partij;
+   - a. natuurlijke personen die krachtens het recht van die Verdragsluitende Partij onderdaan van die Partij zijn, en investeringen doen op het grondgebied van de andere Verdragsluitende Partij;
 
-- b. rechtspersonen, zoals ondernemingen en andere organisaties, die krachtens het recht van die Verdragsluitende Partij zijn opgericht of anderszins naar behoren georganiseerd, en gerechtigd zijn tot het doen van investeringen, en die investeringen doen op het grondgebied van de andere Verdragsluitende Partij;
+   - b. rechtspersonen, zoals ondernemingen en andere organisaties, die krachtens het recht van die Verdragsluitende Partij zijn opgericht of anderszins naar behoren georganiseerd, en gerechtigd zijn tot het doen van investeringen, en die investeringen doen op het grondgebied van de andere Verdragsluitende Partij;
 
-- c. rechtspersonen die niet zijn opgericht krachtens het recht van die Verdragsluitende Partij, maar die onder toezicht staan van natuurlijke personen zoals omschreven onder letter a of van rechtspersonen zoals omschreven onder letter b hierboven;
+   - c. rechtspersonen die niet zijn opgericht krachtens het recht van die Verdragsluitende Partij, maar die onder toezicht staan van natuurlijke personen zoals omschreven onder letter a of van rechtspersonen zoals omschreven onder letter b hierboven;
 
 - 2. omvat de term „investeringen": alle soorten vermogensbestanddelen en in het bijzonder, doch niet uitsluitend:
 
-- a. roerende en onroerende zaken, alsmede alle andere zakelijke rechten;
+   - a. roerende en onroerende zaken, alsmede alle andere zakelijke rechten;
 
-- b. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en gezamenlijke ondernemingen;
+   - b. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en gezamenlijke ondernemingen;
 
-- c. recht op geld of op iedere prestatie die economische waarde heeft;
+   - c. recht op geld of op iedere prestatie die economische waarde heeft;
 
-- d. rechten op het gebied van de intellectuele eigendom (zoals auteursrechten, octrooien, industriële ontwerpen of modellen, merken van handelsprodukten of diensten, handelsnamen) know-how, goodwill, technische werkwijzen en andere soortgelijke rechten;
+   - d. rechten op het gebied van de intellectuele eigendom (zoals auteursrechten, octrooien, industriële ontwerpen of modellen, merken van handelsprodukten of diensten, handelsnamen) know-how, goodwill, technische werkwijzen en andere soortgelijke rechten;
 
-- e. rechten verleend krachtens het publiekrecht, met inbegrip van concessies voor het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen, verleend in overeenstemming met de wetgeving van de betrokken Verdragsluitende Partijen;
+   - e. rechten verleend krachtens het publiekrecht, met inbegrip van concessies voor het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen, verleend in overeenstemming met de wetgeving van de betrokken Verdragsluitende Partijen;
 
 - 3. wordt onder de term „grondgebied" met betrekking tot elk van beide Staten verstaan het grondgebied onder zijn soevereiniteit, met inbegrip van het land, de binnenwateren en de territoriale zee, de zeebodem en de ondergrond daarvan, waarover die Staat overeenkomstig het internationale recht soevereine rechten of rechtsmacht uitoefent.
 
@@ -108,9 +75,9 @@ De Verdragsluitende Partijen waarborgen dat betalingen die verband houden met ee
 
 - b. gelden nodig
 
-- i. voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindprodukten, of
+   - i. voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindprodukten, of
 
-- ii. om kapitaalgoederen te vervangen ten einde de continuïteit van een investering te waarborgen;
+   - ii. om kapitaalgoederen te vervangen ten einde de continuïteit van een investering te waarborgen;
 
 - c. bijkomende gelden nodig voor de ontwikkeling van een investering;
 
@@ -184,10 +151,10 @@ TEN BLIJKE WAARVAN de ondergetekende vertegenwoordigers, daartoe naar behoren ge
 
 GEDAAN in tweevoud te Minsk op 11 april 1995 in de Nederlandse, de Belarussische en de Engelse taal, zijnde de drie teksten gelijkelijk authentiek. In geval van verschil in uitlegging is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden:**
+*Voor het Koninkrijk der Nederlanden:*
 
 (w.g.) S. I. H. GOSSES
 
-**Voor de Republiek Belarus:**
+*Voor de Republiek Belarus:*
 
 (w.g.) M. A. MARINITSJ

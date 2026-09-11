@@ -1,50 +1,19 @@
 ---
-title: "Administratief akkoord tussen het Koninkrijk der Nederlanden en Jemen inzake het project \"Support to the Shabwah government\""
+title: "Administratief akkoord tussen het Koninkrijk der Nederlanden en Jemen inzake het project 'Support to the Shabwah government'"
 identifier: "BWBV0001551"
-country: "nl"
-rank: "verdrag"
-publication_date: "2002-10-12"
-last_updated: "2002-01-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001551"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10000634883"
-version_id: "10000652952"
-internal_id: "C10006994901"
-label_id: "10000635064"
-original_entry_into_force: "2002-10-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001551/2002-10-12/0"
-intitule_bron: "Trb.2002-198"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-10-12"
-intitule_published: "2002-11-14"
-intitule_in_force: "2002-11-14"
-intitule_status: "goed"
-original_publication: "Trb.2002-198"
-original_signed_date: "2002-10-12"
-original_published_date: "2002-11-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2002-198"
-entry_into_force_date: "2002-10-12"
-jci_1_3: "jci1.3:c:BWBV0001551&z=2002-10-12&g=2002-10-12"
-jci_1_0: "1.0:c:BWBV0001551&g=2002-10-12"
-citeertitel_status: "officieel"
-signed_date: "2002-10-12"
-entry_into_force: "2002-10-12"
+publicatiedatum: 2002-10-12
+laatste_update: 2002-10-12
+status: geldig
+toestand: 2002-10-12
+bron: "https://wetten.overheid.nl/BWBV0001551"
+opgehaald: 2026-09-11
 ---
+
 # Administratief akkoord tussen het Koninkrijk der Nederlanden en Jemen inzake het project "Support to the Shabwah government"
 
-The Netherlands Minister for Development Co-operation, being the competent Netherlands Authority for the purpose of this Administrative Arrangement, hereinafter referred to as ``the Netherlands Party", represented in this matter by the Ambassador of the Royal Netherlands Embassy in the Republic of Yemen, H.E. Mr. B.J. Ronhaar,
-
-and
-
-the Yemeni Minister of Development and Planning, H.E. Mr. Ahmed Sofan, being the competent Yemeni Authority for the purpose of this Administrative Arrangement, hereinafter referred to as ``the Yemeni Party",
-
-Having decided to co-operate in the programme for support to local governments in Shabwah Governorate,
-
-Having regard to the provisions of Article I of the Agreement on technical co-operation between the Kingdom of the Netherlands and the Yemen Arab Republic, signed at the Hague on 3 October 1978, hereinafter referred to as ``the Agreement",
-
-Have entered into the following administrative arrangement:
+*The Netherlands Minister for Development Co-operation, being the competent Netherlands Authority for the purpose of this Administrative Arrangement, hereinafter referred to as ``the Netherlands Party", represented in this matter by the Ambassador of the Royal Netherlands Embassy in the Republic of Yemen, H.E. Mr. B.J. Ronhaar, and the Yemeni Minister of Development and Planning, H.E. Mr. Ahmed Sofan, being the competent Yemeni Authority for the purpose of this Administrative Arrangement, hereinafter referred to as ``the Yemeni Party", Having decided to co-operate in the programme for support to local governments in Shabwah Governorate, Having regard to the provisions of Article I of the Agreement on technical co-operation between the Kingdom of the Netherlands and the Yemen Arab Republic, signed at the Hague on 3 October 1978, hereinafter referred to as ``the Agreement", Have entered into the following administrative arrangement:*
 
 ##### Article I. The Programme
 
@@ -172,7 +141,7 @@ This Administrative Arrangement shall enter into force, with retroactive effect 
 
 DONE in Sana'a on the 12th of October 2002 in two originals in the English language.
 
-**For the Netherlands Minister for Development Co-operation:**
+*For the Netherlands Minister for Development Co-operation:*
 
 (sd.) B. RONHAAR
 
@@ -180,7 +149,7 @@ Mr Bert Ronhaar
 
 Ambassador
 
-**The Yemeni Minister for Development and Planning:**
+*The Yemeni Minister for Development and Planning:*
 
 (sd.) A. SOFAN
 

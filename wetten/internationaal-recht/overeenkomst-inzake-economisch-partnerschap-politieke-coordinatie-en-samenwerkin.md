@@ -1,106 +1,21 @@
 ---
 title: "Overeenkomst inzake economisch partnerschap, politieke coördinatie en samenwerking tussen de Europese Gemeenschap en haar Lidstaten enerzijds en de Verenigde Mexicaanse Staten anderzijds"
 identifier: "BWBV0001400"
-country: "nl"
-rank: "verdrag"
-publication_date: "2000-10-01"
-last_updated: "2000-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001400"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000484883"
-version_id: "10000493602"
-internal_id: "C10006989921"
-label_id: "10000485714"
-original_entry_into_force: "2000-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001400/2000-10-01/0"
-intitule_bron: "Trb.1998-107"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-06-30"
-intitule_published: "1998-05-13"
-intitule_in_force: "2000-12-15"
-intitule_status: "goed"
-original_publication: "Trb.1998-107"
-original_signed_date: "1999-06-30"
-original_published_date: "1998-05-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1998-107"
-entry_into_force_date: "2000-10-01"
-jci_1_3: "jci1.3:c:BWBV0001400&z=2000-10-01&g=2000-10-01"
-jci_1_0: "1.0:c:BWBV0001400&g=2000-10-01"
-citeertitel_status: "officieel"
-signed_date: "1999-06-30"
-entry_into_force: "2000-10-01"
+publicatiedatum: 2000-10-01
+laatste_update: 2000-10-01
+status: geldig
+toestand: 2000-10-01
+bron: "https://wetten.overheid.nl/BWBV0001400"
+opgehaald: 2026-09-11
 ---
+
 # Overeenkomst inzake economisch partnerschap, politieke coördinatie en samenwerking tussen de Europese Gemeenschap en haar Lidstaten enerzijds en de Verenigde Mexicaanse Staten anderzijds
 
-Het Koninkrijk België,
+*Het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Partijen bij het Verdrag tot oprichting van de Europese Gemeenschap en het Verdrag betreffende de Europese Unie, hierna „lidstaten van de Europese Gemeenschap” te noemen, de Europese Gemeenschap, hierna „Gemeenschap” te noemen, enerzijds, en de Verenigde Mexicaanse Staten, hierna „Mexico” te noemen, anderzijds, Zich bewust van hun gezamenlijk cultureel erfgoed en hun sterke historische, politieke en economische banden, Gezien het bredere streven om het algemene kader van de internationale betrekkingen, met name tussen Europa en Latijns-Amerika, verder te ontwikkelen en te versterken, Zich bewust van de belangrijke bijdrage van de op 26 april 1991 te Luxemburg ondertekende Kaderovereenkomst inzake samenwerking tussen de Gemeenschap en Mexico tot de versterking van de genoemde banden, Zich bewust van het wederzijdse belang bij de totstandkoming van nieuwe contractuele banden, zulks met het oog op de bevordering van de bilaterale betrekkingen, door een bredere politieke dialoog, de geleidelijke en wederzijdse liberalisering van de handel, de liberalisering van de lopende betalingen, het kapitaalverkeer en de onzichtbare transacties, de bevordering van investeringen, en door de verbreding van de samenwerking, Uitdrukking gevende aan de gehechtheid van beide Partijen aan de eerbiediging van de democratische beginselen en de fundamentele mensenrechten, zoals die zijn opgenomen in de Universele Verklaring van de Rechten van de Mens, alsmede aan de eerbiediging van de beginselen van internationaal recht met betrekking tot vriendschappelijke betrekkingen en samenwerking tussen staten overeenkomstig het Handvest van de Verenigde Naties, de beginselen van de rechtsstaat en de beginselen van goed bestuur, zoals die zijn opgenomen in de in 1994 te São Paulo goedgekeurde ministeriële verklaring van de Rio-groep en de Europese Unie, Zich ervan bewust dat het voor de intensivering van de betrekkingen op alle gebieden van wederzijds belang noodzakelijk is om de politieke dialoog op bilateraal en internationaal niveau te institutionaliseren, Gezien het belang dat beide Partijen hechten aan de beginselen en waarden die zijn vervat in de Slotverklaring van de in maart 1995 te Kopenhagen gehouden Wereldtop inzake Sociale Ontwikkeling, Uitdrukking gevende aan het belang dat beide Partijen hechten aan de correcte tenuitvoerlegging van het beginsel van duurzame ontwikkeling, zoals overeengekomen en vermeld in Agenda 21 van de Verklaring van Rio inzake Milieu en Ontwikkeling van 1992, Gezien het belang dat zij hechten aan de beginselen van de markteconomie en hun gehechtheid aan vrije internationale handel overeenkomstig de regels van de Wereldhandelsorganisatie (WTO) en in hun hoedanigheid van lid van de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO), met bijzondere nadruk op het belang van open regionalisme, Herinnerende aan de bewoordingen van de op 2 mei 1995 te Parijs ondertekende plechtige gezamenlijke verklaring, waarin beide Partijen overeenkomen hun bilaterale betrekkingen op alle gebieden in een langetermijnperspectief te plaatsen, Hebben besloten deze Overeenkomst te sluiten:*
 
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-Ierland,
-
-de Italiaanse Republiek,
-
-het Groothertogdom Luxemburg,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Portugese Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-Partijen bij het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) en het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507), hierna „lidstaten van de Europese Gemeenschap” te noemen,
-
-de Europese Gemeenschap,
-
-hierna „Gemeenschap” te noemen,
-
-enerzijds, en
-
-de Verenigde Mexicaanse Staten,
-
-hierna „Mexico” te noemen,
-
-anderzijds,
-
-Zich bewust van hun gezamenlijk cultureel erfgoed en hun sterke historische, politieke en economische banden,
-
-Gezien het bredere streven om het algemene kader van de internationale betrekkingen, met name tussen Europa en Latijns-Amerika, verder te ontwikkelen en te versterken,
-
-Zich bewust van de belangrijke bijdrage van de op 26 april 1991 te Luxemburg ondertekende Kaderovereenkomst inzake samenwerking tussen de Gemeenschap en Mexico tot de versterking van de genoemde banden,
-
-Zich bewust van het wederzijdse belang bij de totstandkoming van nieuwe contractuele banden, zulks met het oog op de bevordering van de bilaterale betrekkingen, door een bredere politieke dialoog, de geleidelijke en wederzijdse liberalisering van de handel, de liberalisering van de lopende betalingen, het kapitaalverkeer en de onzichtbare transacties, de bevordering van investeringen, en door de verbreding van de samenwerking,
-
-Uitdrukking gevende aan de gehechtheid van beide Partijen aan de eerbiediging van de democratische beginselen en de fundamentele mensenrechten, zoals die zijn opgenomen in de [Universele Verklaring van de Rechten van de Mens](https://wetten.overheid.nl/jci1.3:c:BWBV0001008), alsmede aan de eerbiediging van de beginselen van internationaal recht met betrekking tot vriendschappelijke betrekkingen en samenwerking tussen staten overeenkomstig het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143), de beginselen van de rechtsstaat en de beginselen van goed bestuur, zoals die zijn opgenomen in de in 1994 te São Paulo goedgekeurde ministeriële verklaring van de Rio-groep en de Europese Unie,
-
-Zich ervan bewust dat het voor de intensivering van de betrekkingen op alle gebieden van wederzijds belang noodzakelijk is om de politieke dialoog op bilateraal en internationaal niveau te institutionaliseren,
-
-Gezien het belang dat beide Partijen hechten aan de beginselen en waarden die zijn vervat in de Slotverklaring van de in maart 1995 te Kopenhagen gehouden Wereldtop inzake Sociale Ontwikkeling,
-
-Uitdrukking gevende aan het belang dat beide Partijen hechten aan de correcte tenuitvoerlegging van het beginsel van duurzame ontwikkeling, zoals overeengekomen en vermeld in Agenda 21 van de Verklaring van Rio inzake Milieu en Ontwikkeling van 1992,
-
-Gezien het belang dat zij hechten aan de beginselen van de markteconomie en hun gehechtheid aan vrije internationale handel overeenkomstig de regels van de Wereldhandelsorganisatie (WTO) en in hun hoedanigheid van lid van de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO), met bijzondere nadruk op het belang van open regionalisme,
-
-Herinnerende aan de bewoordingen van de op 2 mei 1995 te Parijs ondertekende plechtige gezamenlijke verklaring, waarin beide Partijen overeenkomen hun bilaterale betrekkingen op alle gebieden in een langetermijnperspectief te plaatsen,
-
-Hebben besloten deze Overeenkomst te sluiten:
-
-## TITEL I. AARD VAN DE OVEREENKOMST EN TOEPASSINGSGEBIED
+### TITEL I. AARD VAN DE OVEREENKOMST EN TOEPASSINGSGEBIED
 
 ##### Artikel 1. Grondslag van de Overeenkomst
 
@@ -110,7 +25,7 @@ De eerbiediging van de democratische beginselen en de fundamentele mensenrechten
 
 Het doel van deze Overeenkomst is de versterking van de betrekkingen tussen de Partijen, zulks op basis van wederkerigheid en wederzijds belang. Daartoe wordt in het kader van deze Overeenkomst een politieke dialoog ingesteld, worden de economische en handelsbetrekkingen versterkt door de liberalisering van de handel overeenkomstig de WTO-regels, en wordt de samenwerking versterkt en verbreed.
 
-## TITEL II. POLITIEKE DIALOOG
+### TITEL II. POLITIEKE DIALOOG
 
 ##### Artikel 3
 
@@ -120,7 +35,7 @@ Het doel van deze Overeenkomst is de versterking van de betrekkingen tussen de P
 
 3. De in de gezamenlijke verklaring bedoelde ministeriële dialoog vindt hoofdzakelijk plaats in de bij artikel 45 ingestelde Gezamenlijke Raad.
 
-## TITEL III. HANDEL
+### TITEL III. HANDEL
 
 ##### Artikel 4. Doelstelling
 
@@ -162,7 +77,7 @@ Met het oog op de verwezenlijking van de in artikel 4 genoemde doelstellingen ne
 
 De in de artikelen 5 en 6 van deze Overeenkomst bedoelde besluiten van de Gezamenlijke Raad inzake de handel in goederen en diensten beogen een adequate en samenhangende aanpak van deze vraagstukken, en treden in werking zodra zij worden goedgekeurd.
 
-## TITEL IV. KAPITAAL- EN BETALINGSVERKEER
+### TITEL IV. KAPITAAL- EN BETALINGSVERKEER
 
 ##### Artikel 8. Kapitaal- en betalingsverkeer
 
@@ -184,7 +99,7 @@ Dit besluit heeft in het bijzonder betrekking op:
 
 - e. het opnemen van clausules die het de Partijen toestaan beperkingen op dit gebied in te stellen in geval van moeilijkheden in verband met de werking van het wisselkoersbeleid of het monetair beleid van een van de Partijen, betalingsbalansproblemen of, overeenkomstig het internationaal recht, het opleggen van financiële beperkingen aan derde landen.
 
-## TITEL V. OVERHEIDSOPDRACHTEN, MEDEDINGING, INTELLECTUELE EIGENDOM EN ANDERE OP DE HANDEL BETREKKING HEBBENDE BEPALINGEN
+### TITEL V. OVERHEIDSOPDRACHTEN, MEDEDINGING, INTELLECTUELE EIGENDOM EN ANDERE OP DE HANDEL BETREKKING HEBBENDE BEPALINGEN
 
 ##### Artikel 10. Overheidsopdrachten
 
@@ -230,7 +145,7 @@ Dit besluit heeft in het bijzonder betrekking op:
 
 - b. de gedetailleerde maatregelen die moeten worden goedgekeurd overeenkomstig de in lid 1 genoemde doelstelling, waarbij met name rekening moet worden gehouden met de relevante multilaterale overeenkomsten inzake intellectuele eigendom.
 
-## TITEL VI. SAMENWERKING
+### TITEL VI. SAMENWERKING
 
 ##### Artikel 13. Dialoog inzake samenwerking en economische zaken
 
@@ -552,7 +467,7 @@ De Partijen stellen alles in het werk om de resultaten van de reeds aan Midden-A
 
 2. De Partijen sporen de Europese Investeringsbank aan haar activiteiten in Mexico voort te zetten, overeenkomstig de procedures en financieringscriteria.
 
-## TITEL VII. INSTITUTIONEEL KADER
+### TITEL VII. INSTITUTIONEEL KADER
 
 ##### Artikel 45. Gezamenlijke Raad
 
@@ -594,7 +509,7 @@ De Gezamenlijke Raad stelt in zijn reglement van orde de samenstelling, taken en
 
 De Gezamenlijke Raad neemt de nodige besluiten inzake de totstandkoming van een specifieke procedure voor de beslechting van geschillen op handelsgebied, die verenigbaar is met de WTO-regels op dit gebied.
 
-## TITEL VIII. SLOTBEPALINGEN
+### TITEL VIII. SLOTBEPALINGEN
 
 ##### Artikel 51. Gegevensbescherming
 

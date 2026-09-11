@@ -1,21 +1,19 @@
 ---
-title: "Regeling maatregelen beschermings- en bewakingszone hoogpathogene vogelgriep Biddinghuizen 2026"
+title: "Regeling van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 14 mei 2026, nr. WJZ/106398384, houdende specifieke maatregelen in de beschermings- en de bewakingszone in verband met de bestrijding van hoogpathogene aviaire influenza in Biddinghuizen (Regeling maatregelen beschermings- en bewakingszone hoogpathogene vogelgriep Biddinghuizen 2026)"
+citeertitel: "Regeling maatregelen beschermings- en bewakingszone hoogpathogene vogelgriep Biddinghuizen 2026"
 identifier: "BWBR0052636"
-categorie: "Overig"
+categorie: "Milieu"
+soort: "ministeriele-regeling"
 publicatiedatum: 2026-05-14
-laatste_update: 2026-05-23
+laatste_update: 2026-06-06
 status: vervallen
+vervallen_op: 2026-06-14
+toestand: 2026-06-06
 bron: "https://wetten.overheid.nl/BWBR0052636"
-gecontroleerd: 2026-07-29
+opgehaald: 2026-09-11
 ---
 
 # Regeling van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 14 mei 2026, nr. WJZ/106398384, houdende specifieke maatregelen in de beschermings- en de bewakingszone in verband met de bestrijding van hoogpathogene aviaire influenza in Biddinghuizen (Regeling maatregelen beschermings- en bewakingszone hoogpathogene vogelgriep Biddinghuizen 2026)
-
-Gelet op de artikelen 64, eerste lid, 65, eerste lid, en 71, eerste lid, van [verordening (EU) 2016/429](32016R0429) van het Europees Parlement en de Raad van 9 maart 2016 tot intrekking van bepaalde handelingen op het gebied van diergezondheid (‘diergezondheidwetgeving’) (PbEU 2016, L 84), de artikelen 21, eerste lid, 25, eerste lid, 27, eerste en tweede lid, en 42 van gedelegeerde [verordening (EU) 2020/687](32020R0687) van de Commissie van 17 december 2019 tot aanvulling van [Verordening (EU) 2016/429](32016R0429) van het Europees Parlement en de Raad wat regels voor de preventie en bestrijding van bepaalde in de lijst opgenomen ziekten betreft (PbEU 2020, L 174) en de [artikelen 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.2), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.4), [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.5), [5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.6), [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=5.7) en [6.3, tweede lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.3);
-
-Besluit:
-
-Treedt in werking om 22:02 uur.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -23,51 +21,52 @@ Treedt in werking om 22:02 uur.
 
 1. In deze regeling wordt verstaan onder:
 
-- **beschermingszone:** gebied als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052636&hoofdstuk=1&artikel=2&z=2026-05-14&g=2026-05-14);
+- *beschermingszone:* gebied als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0052636&hoofdstuk=1&artikel=2&z=2026-06-06&g=2026-06-06);
 
-- **bewakingszone:** gebied als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0052636&hoofdstuk=1&artikel=2&z=2026-05-14&g=2026-05-14);
+- *bewakingszone:* gebied als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0052636&hoofdstuk=1&artikel=2&z=2026-06-06&g=2026-06-06);
 
-- **commercieel gehouden vogels:** pluimvee of in gevangenschap levende vogels die worden gekweekt of gehouden met de bedoeling geld te verdienen;
+- *commercieel gehouden vogels:* pluimvee of in gevangenschap levende vogels die worden gekweekt of gehouden met de bedoeling geld te verdienen;
 
-- **dierentuin:** dierentuin als bedoeld in [artikel 4.1 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=4.1);
+- *dierentuin:* dierentuin als bedoeld in [artikel 4.1 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=4.1);
 
-- **hygiëneprotocol:** set praktische hygiëneregels ter bevordering van de bioveiligheid in een specifieke situatie, zoals bekendgemaakt op de website van de Nederlandse Voedsel- en Warenautoriteit;
+- *hygiëneprotocol:* set praktische hygiëneregels ter bevordering van de bioveiligheid in een specifieke situatie, zoals bekendgemaakt op de website van de Nederlandse Voedsel- en Warenautoriteit;
 
-- **loopvogels:** Struthioniformes (struisvogels), Rheiformes (nandoes), Casuariiformes (kasuarissen en emoes) en Apterygiformes (kiwi's);
+- *loopvogels:* Struthioniformes (struisvogels), Rheiformes (nandoes), Casuariiformes (kasuarissen en emoes) en Apterygiformes (kiwi's);
 
-- **minister:** Minister van Landbouw, Visserij, Voedselzekerheid en Natuur;
+- *minister:* Minister van Landbouw, Visserij, Voedselzekerheid en Natuur;
 
-- **sierwatervogels:** watervogels die worden gehouden met een ander doel dan de productie van vlees of eieren;
+- *sierwatervogels:* watervogels die worden gehouden met een ander doel dan de productie van vlees of eieren;
 
-- **verordening (EU) nr. 2016/429:** [verordening (EU) 2016/429](32016R0429) van het Europees Parlement en de Raad van 9 maart 2016 betreffende overdraagbare dierziekte en tot wijziging en intrekking van bepaalde handelingen op het gebied van diergezondheid (‘diergezondheidwetgeving’) (PbEU 2016, L 84);
+- *verordening (EU) nr. 2016/429:*
+ verordening (EU) 2016/429 van het Europees Parlement en de Raad van 9 maart 2016 betreffende overdraagbare dierziekte en tot wijziging en intrekking van bepaalde handelingen op het gebied van diergezondheid (‘diergezondheidwetgeving’) (PbEU 2016, L 84);
 
-- **verordening (EU) nr. 2020/687:** gedelegeerde [verordening (EU) 2020/687](32020R0687) van de Commissie van 17 december 2019 tot aanvulling van [Verordening (EU) 2016/429](32016R0429) van het Europees Parlement en de Raad wat regels voor de preventie en bestrijding van bepaalde in de lijst opgenomen ziekten betreft (PbEU 2020, L 174);
+- *verordening (EU) nr. 2020/687:* gedelegeerde verordening (EU) 2020/687 van de Commissie van 17 december 2019 tot aanvulling van Verordening (EU) 2016/429 van het Europees Parlement en de Raad wat regels voor de preventie en bestrijding van bepaalde in de lijst opgenomen ziekten betreft (PbEU 2020, L 174);
 
-- **vervoermiddel:** voertuig en materieel, met inbegrip van een combinatie van een voertuig en één of meer door dat voertuig voortbewogen aanhangwagens, opleggers of containers;
+- *vervoermiddel:* voertuig en materieel, met inbegrip van een combinatie van een voertuig en één of meer door dat voertuig voortbewogen aanhangwagens, opleggers of containers;
 
-- **vogelverblijfplaats:** kooi, volière, terrein of gebouw, met uitzondering van woonruimte, waar vogels aanwezig zijn of gewoonlijk worden gehouden en aanverwante ruimtes waar materiaal ten behoeve van vogels is opgeslagen of gewoonlijk wordt opgeslagen;
+- *vogelverblijfplaats:* kooi, volière, terrein of gebouw, met uitzondering van woonruimte, waar vogels aanwezig zijn of gewoonlijk worden gehouden en aanverwante ruimtes waar materiaal ten behoeve van vogels is opgeslagen of gewoonlijk wordt opgeslagen;
 
-- **watervogels:** zwanen, ganzen, eenden, duikers, aalscholvers, reigers, ooievaars, ibissen, flamingo’s, futen, kraanvogels, rallen, steltlopers, meeuwen en sterns.
+- *watervogels:* zwanen, ganzen, eenden, duikers, aalscholvers, reigers, ooievaars, ibissen, flamingo’s, futen, kraanvogels, rallen, steltlopers, meeuwen en sterns.
 
 2. De definities, opgenomen in de volgende bepalingen, zijn van toepassing:
 
-- –. artikel 4 van [verordening (EU) nr. 2016/429](32016R0429);
+- – artikel 4 van verordening (EU) nr. 2016/429;
 
-- –. bijlage I bij [verordening (EG) 853/2004](32004R0853) van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU 2004, L 139);
+- – bijlage I bij verordening (EG) 853/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU 2004, L 139);
 
-- –. artikel 2 van [verordening (EU) nr. 2020/687](32020R0687).
+- – artikel 2 van verordening (EU) nr. 2020/687.
 
 ##### Artikel 2. Aanwijzing beschermings- en bewakingszone
 
 1. Aangewezen worden:
 
-- a. als beschermingszone het gebied dat zich bevindt op en binnen de straal van 3 kilometer rondom de coördinaten, genoemd in de bijlage;
+- a. als beschermingszone het gebied dat zich bevindt op en binnen de straal van 3 kilometer rondom de coördinaten, genoemd in de [bijlage](https://wetten.overheid.nl/BWBR0052636);
 
-- b. als bewakingszone het gebied dat zich bevindt op en binnen de straal van 10 kilometer rondom de coördinaten, genoemd in de bijlage.
+- b. als bewakingszone het gebied dat zich bevindt op en binnen de straal van 10 kilometer rondom de coördinaten, genoemd in de [bijlage](https://wetten.overheid.nl/BWBR0052636).
 
-2. In de beschermingszone en de bewakingszone zijn de [artikelen 4 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0052636&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2026-05-14&g=2026-05-14) van toepassing, tenzij dit in een bepaling of een onderdeel daarvan anders is bepaald.
+2. In de beschermingszone en de bewakingszone zijn de [artikelen 4 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0052636&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2026-06-06&g=2026-06-06) van toepassing, tenzij dit in een bepaling of een onderdeel daarvan anders is bepaald.
 
-3. De [artikelen 12 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0052636&hoofdstuk=2&paragraaf=2.1&artikel=12&z=2026-05-14&g=2026-05-14) zijn mede van toepassing op de verplaatsing van dieren of producten als bedoeld in die artikelen van een inrichting binnen de beschermingszone of de bewakingszone naar een inrichting buiten die gebieden.
+3. De [artikelen 12 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0052636&hoofdstuk=2&paragraaf=2.1&artikel=12&z=2026-06-06&g=2026-06-06) zijn mede van toepassing op de verplaatsing van dieren of producten als bedoeld in die artikelen van een inrichting binnen de beschermingszone of de bewakingszone naar een inrichting buiten die gebieden.
 
 4. Voor zover in de zones, bedoeld in het eerste lid, uit hoofde van andere regelgeving voorschriften ter preventie of bestrijding van aviaire influenza gelden, zijn telkens de meest verstrekkende voorschriften van toepassing.
 
@@ -83,7 +82,7 @@ In het geval een verplaatsing van dieren of producten in de beschermingszone of 
 
 - d. vindt de verplaatsing plaats overeenkomstig een hygiëneprotocol; en
 
-- e. voldoet de verplaatsing aan artikel 28, zesde lid, van [verordening (EU) nr. 2020/687](32020R0687) indien producten vanuit de beschermingszone worden verplaatst of artikel 43, zesde lid, van die verordening indien producten vanuit de bewakingszone worden verplaatst.
+- e. voldoet de verplaatsing aan artikel 43, zesde lid, van verordening (EU) nr. 2020/687 indien dieren of producten vanuit de beschermings- of bewakingszone worden verplaatst.
 
 ### Hoofdstuk 2. Regels over verplaatsingen
 
@@ -95,7 +94,7 @@ In het geval een verplaatsing van dieren of producten in de beschermingszone of 
 
 2. Het is verboden gehouden vogels te verplaatsen naar een inrichting.
 
-3. Het verbod, bedoeld in het eerste lid, is niet van toepassing op de verplaatsing van uit de bewakingszone afkomstige eendagskuikens naar een inrichting als bedoeld in artikel 46, eerste lid, onderdeel b, van [verordening (EU) nr. 2020/687](32020R0687), indien:
+3. Het verbod, bedoeld in het eerste lid, is niet van toepassing op de verplaatsing van uit de bewakingszone afkomstige eendagskuikens naar een inrichting als bedoeld in artikel 46, eerste lid, onderdeel b, van verordening (EU) nr. 2020/687, indien:
 
 - a. de eendagskuikens niet van broedeieren uit een beperkingszone afkomstig zijn;
 
@@ -115,31 +114,31 @@ In het geval een verplaatsing van dieren of producten in de beschermingszone of 
 
 - c. de verzender de verplaatsing voorafgaand heeft gemeld aan de minister; en
 
-- d. is voldaan aan artikel 47, tweede lid, van [verordening (EU) nr. 2020/687](32020R0687).
+- d. is voldaan aan artikel 47, tweede lid, van verordening (EU) nr. 2020/687.
 
 ##### Artikel 6. Verplaatsen vers vlees van vogels
 
 1. Het is verboden vers vlees van vogels te verplaatsen vanuit een slachthuis of wildbewerkingsinrichting.
 
-2. Het verbod, bedoeld in het eerste lid, is niet van toepassing op vers vlees dat voldoet aan artikel 27, derde lid, onderdelen c of d, van [verordening (EU) nr. 2020/687](32020R0687).
+2. Het verbod, bedoeld in het eerste lid, is niet van toepassing op vers vlees dat voldoet aan artikel 27, derde lid, onderdelen c of d, van verordening (EU) nr. 2020/687.
 
 ##### Artikel 7. Verplaatsen vleesproducten van vogels
 
 1. Het is verboden vleesproducten, verkregen van vers vlees van vogels, te verplaatsen vanuit een inrichting.
 
-2. Het verbod, bedoeld in het eerste lid, is niet van toepassing op de verplaatsing van vleesproducten die voldoen aan artikel 27, derde lid, onderdelen a, b, c, d, of f van [verordening (EU) nr. 2020/687](32020R0687).
+2. Het verbod, bedoeld in het eerste lid, is niet van toepassing op de verplaatsing van vleesproducten die voldoen aan artikel 27, derde lid, onderdelen a, b, c, d, of f van verordening (EU) nr. 2020/687.
 
 ##### Artikel 8. Verplaatsen eieren bestemd voor menselijke consumptie
 
 1. Het is verboden eieren bestemd voor menselijke consumptie te verplaatsen vanuit een inrichting.
 
-2. Het verbod, bedoeld in het eerste lid, is niet van toepassing op de verplaatsing van eieren die voldoen aan artikel 27, derde lid, onderdelen b en c, van [verordening (EU) nr. 2020/687](32020R0687).
+2. Het verbod, bedoeld in het eerste lid, is niet van toepassing op de verplaatsing van eieren die voldoen aan artikel 27, derde lid, onderdelen b en c, van verordening (EU) nr. 2020/687.
 
-3. Het verbod, bedoeld in het eerste lid, is niet van toepassing op de verplaatsing van eieren vanuit een inrichting die is gelegen in de bewakingszone, indien zij worden verplaatst naar:
+3. Het verbod, bedoeld in het eerste lid, is niet van toepassing op de verplaatsing van eieren vanuit een inrichting die is gelegen in de beschermings- of bewakingszone, indien zij worden verplaatst naar:
 
-- a. een door de minister aangewezen in Nederland gelegen pakstation en is voldaan aan artikel 50, eerste lid, onderdeel a of b, van [verordening (EU) nr. 2020/687](32020R0687); of
+- a. een door de minister aangewezen in Nederland gelegen pakstation en is voldaan aan artikel 50, eerste lid, onderdeel a of b, van verordening (EU) nr. 2020/687; of
 
-- b. een door de minister aangewezen in Nederland gelegen inrichting voor de vervaardiging van eiproducten en is voldaan aan artikel 50, tweede lid, onderdelen a en b, van [verordening (EU) nr. 2020/687](32020R0687).
+- b. een door de minister aangewezen in Nederland gelegen inrichting voor de vervaardiging van eiproducten en is voldaan aan artikel 50, tweede lid, onderdelen a en b, van verordening (EU) nr. 2020/687.
 
 ##### Artikel 9. Verplaatsen mest en strooisel van vogels
 
@@ -149,7 +148,7 @@ Het is verboden mest van gehouden vogels, al dan niet met strooisel, te verplaat
 
 1. Het is verboden huiden, vellen of veren van gehouden vogels te verplaatsen vanuit een inrichting.
 
-2. Het verbod, bedoeld in het eerste lid, is niet van toepassing op de verplaatsing van veren van gehouden vogels die voldoen aan artikel 27, derde lid, onderdeel d, van [verordening (EU) nr. 2020/687](32020R0687).
+2. Het verbod, bedoeld in het eerste lid, is niet van toepassing op de verplaatsing van veren van gehouden vogels die voldoen aan artikel 27, derde lid, onderdeel d, van verordening (EU) nr. 2020/687.
 
 ##### Artikel 11. Verplaatsen andere dierlijke bijproducten van vogels
 
@@ -161,7 +160,7 @@ Het is verboden mest van gehouden vogels, al dan niet met strooisel, te verplaat
 
 1. Het is verboden dieren of producten te vervoeren door de beschermings- en bewakingszone.
 
-2. Het verbod, bedoeld in het eerste lid, is niet van toepassing indien is voldaan aan de voorwaarden, bedoeld in artikel 22, vierde lid, onderdelen a, b en c, van [verordening (EU) nr. 2020/687](32020R0687).
+2. Het verbod, bedoeld in het eerste lid, is niet van toepassing indien is voldaan aan de voorwaarden, bedoeld in artikel 22, vierde lid, onderdelen a, b en c, van verordening (EU) nr. 2020/687.
 
 #### § 2.2. Aanvullende verboden
 
@@ -175,7 +174,7 @@ Het is verboden mest van gehouden vogels, al dan niet met strooisel, te verplaat
 
 1. Het is verboden om andere dieren dan vogels of dierlijke producten, afkomstig van andere dieren dan vogels, te verplaatsen vanuit of naar een inrichting waar vogels worden gehouden.
 
-2. Het verbod, bedoeld in het eerste lid, is niet van toepassing op de verplaatsing van dierlijke producten die voldoen aan artikel 27, derde lid, van [verordening (EU) nr. 2020/687](32020R0687).
+2. Het verbod, bedoeld in het eerste lid, is niet van toepassing op de verplaatsing van dierlijke producten die voldoen aan artikel 27, derde lid, van verordening (EU) nr. 2020/687.
 
 3. Het verbod, bedoeld in het eerste lid, is niet van toepassing indien de verplaatsing geschiedt overeenkomstig een hygiëneprotocol.
 
@@ -197,7 +196,7 @@ Het is verboden mest van gehouden vogels, al dan niet met strooisel, te verplaat
 
 ##### Artikel 17. Verzamelen en verplaatsen van monsters
 
-Het is toegestaan om monsters als bedoeld in artikel 22, zevende lid, van [verordening (EU) nr. 2020/687](32020R0687) van vogels te verzamelen en die te verplaatsen naar een laboratorium ten behoeve van onderzoek op de aanwezigheid van een andere dierziekte dan hoogpathogene aviaire influenza.
+Het is toegestaan om monsters als bedoeld in artikel 22, zevende lid, van verordening (EU) nr. 2020/687 van vogels te verzamelen en die te verplaatsen naar een laboratorium ten behoeve van onderzoek op de aanwezigheid van een andere dierziekte dan hoogpathogene aviaire influenza.
 
 ##### Artikel 18. Verplaatsen broedeieren naar een inrichting
 
@@ -207,7 +206,7 @@ Het is toegestaan om monsters als bedoeld in artikel 22, zevende lid, van [veror
 
 ##### Artikel 19. Verplaatsing vervoermiddel
 
-1. Het is verboden een vervoermiddel te verplaatsen dat is gebruikt of kennelijk bestemd is om te worden gebruikt voor het verplaatsen of het vervoer van dieren, producten of voorwerpen als bedoeld in de [artikelen 3 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0052636&hoofdstuk=1&artikel=3&z=2026-05-14&g=2026-05-14).
+1. Het is verboden een vervoermiddel te verplaatsen dat is gebruikt of kennelijk bestemd is om te worden gebruikt voor het verplaatsen of het vervoer van dieren, producten of voorwerpen als bedoeld in de [artikelen 3 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0052636&hoofdstuk=1&artikel=3&z=2026-06-06&g=2026-06-06).
 
 2. Het verbod, bedoeld in het eerste lid, is niet van toepassing op een vervoermiddel dat is gereinigd en ontsmet overeenkomstig een hygiëneprotocol.
 
@@ -267,7 +266,7 @@ De exploitant van een inrichting waar vogels worden gehouden houdt een register 
 
 ##### Artikel 25. Verwijdering kadavers van vogels
 
-De exploitant van een inrichting waar vogels worden gehouden draagt er zorg voor dat kadavers en delen van dode vogels worden verwijderd overeenkomstig artikel 22, derde lid, van [verordening (EU) nr. 2020/687](32020R0687).
+De exploitant van een inrichting waar vogels worden gehouden draagt er zorg voor dat kadavers en delen van dode vogels worden verwijderd overeenkomstig artikel 22, derde lid, van verordening (EU) nr. 2020/687.
 
 ##### Artikel 26. Samenbrengen vogels
 
@@ -293,26 +292,8 @@ Het is verboden mest van landzoogdieren, afkomstig van een inrichting waar vogel
 
 ##### Artikel 30. Inwerkingtreding
 
-Deze regeling wordt bekendgemaakt op [www.rijksoverheid.nl](http://www.rijksoverheid.nl)114 mei 2026, 22.02 uur., en treedt onmiddellijk na haar bekendmaking op het internet in werking.
+Deze regeling wordt bekendgemaakt op [www.rijksoverheid.nl](http://www.rijksoverheid.nl)114 mei 2026, 22.02 uur., en treedt onmiddellijk na haar bekendmaking op het internet in werking.
 
 ##### Artikel 31. Citeertitel
 
 Deze regeling wordt aangehaald als Regeling maatregelen beschermings- en bewakingszone hoogpathogene vogelgriep Biddinghuizen 2026.
-
-## Bijlage. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052636&hoofdstuk=1&artikel=2&z=2026-05-14&g=2026-05-14)
-
-- 1. De coördinaten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052636&hoofdstuk=1&artikel=2&z=2026-05-14&g=2026-05-14), zijn:
-
-  - −. X_COORDINAAT: 173538
-
-  - −. Y_COORDINAAT: 491951
-
-  - −. Latitude: 52.415062
-
-  - −. Longitude: 5.659682
-
-- 2. Op [GeoWeb](https://apps.vertigisstudio.com/web/?app=797df27ed8f34bcc81a639a50465c7a7) is te zien, zo nodig onder toepassing van de inzoomfunctie, of een locatie zich al dan niet bevindt in de beschermingszone of de bewakingszone. Dit kan worden gedaan door het invullen van de postcode, het adres van de locatie, of de naam van de gemeente en de weg waar u zich bevindt.
-
-- 3. De in deze bijlage opgenomen kaarten zijn een voorbeeld.
-
-Deze regeling zal tevens met de toelichting in de Staatscourant worden geplaatst.

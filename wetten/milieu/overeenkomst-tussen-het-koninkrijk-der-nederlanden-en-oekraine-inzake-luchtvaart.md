@@ -1,47 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en Oekraïne inzake luchtvaartdiensten"
 identifier: "BWBV0001129"
-country: "nl"
-rank: "verdrag"
-publication_date: "1994-08-01"
-last_updated: "1994-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001129"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10002003713"
-version_id: "10002092152"
-internal_id: "C10006986631"
-label_id: "10002004014"
-dtd_version: "2.0"
-original_entry_into_force: "1994-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001129/1994-08-01/0"
-intitule_bron: "Trb.1993-146"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-06-03"
-intitule_published: "1993-10-14"
-intitule_in_force: "1994-07-14"
-intitule_status: "goed"
-original_publication: "Trb.1993-146"
-original_signed_date: "1994-06-03"
-original_published_date: "1993-10-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1993-146"
-entry_into_force_date: "1994-08-01"
-jci_1_3: "jci1.3:c:BWBV0001129&z=1994-08-01&g=1994-08-01"
-jci_1_0: "1.0:c:BWBV0001129&g=1994-08-01"
-citeertitel_status: "redactioneel"
-signed_date: "1994-06-03"
-entry_into_force: "1994-08-01"
+publicatiedatum: 1994-08-01
+laatste_update: 1994-08-01
+status: geldig
+toestand: 1994-08-01
+bron: "https://wetten.overheid.nl/BWBV0001129"
+opgehaald: 2026-09-11
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en Oekraïne inzake luchtvaartdiensten
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van Oekraïne, hierna aangeduid als de „Overeenkomstsluitende Partijen", partij zijnde bij het Verdrag inzake de internationale burgerluchtvaart, op 7 december 1944 te Chicago voor ondertekening opengesteld,
-
-Geleid door de wens bij te dragen aan de vooruitgang van de internationale burgerluchtvaart,
-
-Geleid door de wens een overeenkomst te sluiten met het doel geregelde luchtdiensten in te stellen tussen en via hun onderscheiden grondgebieden,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van Oekraïne, hierna aangeduid als de „Overeenkomstsluitende Partijen", partij zijnde bij het Verdrag inzake de internationale burgerluchtvaart, op 7 december 1944 te Chicago voor ondertekening opengesteld, Geleid door de wens bij te dragen aan de vooruitgang van de internationale burgerluchtvaart, Geleid door de wens een overeenkomst te sluiten met het doel geregelde luchtdiensten in te stellen tussen en via hun onderscheiden grondgebieden, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -65,9 +37,9 @@ Tenzij het zinsverband anders vereist, hebben in deze Overeenkomst en de Bijlage
 
 - i. onder „tarief' wordt verstaan: elk bedrag in rekening gebracht of in rekening te brengen door de luchtvaartmaatschappijen, rechtstreeks of via hun agenten, aan alle natuurlijke personen of rechtspersonen voor het vervoer door de lucht van passagiers (en hun bagage) en vracht (post uitgezonderd), daarbij inbegrepen:
 
-- I. de voorwaarden betreffende het beschikbaar zijn en het van toepassing zijn van een tarief, en
+   - I. de voorwaarden betreffende het beschikbaar zijn en het van toepassing zijn van een tarief, en
 
-- II. de heffingen en voorwaarden voor alle bij zulk vervoer bijkomende diensten die door of namens de luchtvaartmaatschappijen worden aangeboden;
+   - II. de heffingen en voorwaarden voor alle bij zulk vervoer bijkomende diensten die door of namens de luchtvaartmaatschappijen worden aangeboden;
 
 - j. onder „geautomatiseerd boekingssysteem" (GBS) wordt verstaan: een geautomatiseerd systeem dat informatie bevat over routetabellen, beschikbare plaatsen, prijzen en verwante diensten en door middel waarvan plaatsen kunnen worden geboekt en/of vliegbiljetten kunnen worden afgegeven, en dat enkele of al deze faciliteiten ter beschikking van reisagenten stelt.
 
@@ -263,36 +235,14 @@ Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst slechts van toe
 
 Deze Overeenkomst treedt in werking op de eerste dag van de tweede maand die volgt op de datum waarop de Overeenkomstsluitende Partijen elkaar schriftelijk langs diplomatieke weg ervan in kennis hebben gesteld dat aan de constitutioneel vereiste formaliteiten in hun onderscheiden landen is voldaan.
 
-##### A
-
-De aangewezen luchtvaartmaatschappij van het Koninkrijk der Nederlanden heeft het recht geregelde luchtdiensten in beide richtingen te exploiteren op de hieronder aangegeven routes:
-
-| Punten van vertrek: | Punten van aankomst: |
-| --- | --- |
-| Punten in Nederland: | Punten in Oekraïne: |
-
-##### B
-
-De aangewezen luchtvaartmaatschappij van Oekraïne heeft het recht geregelde luchtdiensten in beide richtingen te exploiteren op de hieronder aangegeven routes:
-
-| Punten van vertrek: | Punten van aankomst: |
-| --- | --- |
-| Punten in Oekraïne: | Punten in Nederland: |
-
-##### C
-
-Tussenliggende en verder gelegen punten kunnen door de aangewezen luchtvaartmaatschappij van elke Overeenkomstsluitende Partij zonder uitoefening van vijfde-vrijheidsverkeersrechten worden aangedaan.
-
-De uiteindelijke uitoefening van vijfde-vrijheidsverkeersrechten kan worden overeengekomen door de luchtvaartautoriteiten van de twee Overeenkomstsluitende Partijen.
-
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun onderscheiden Regeringen, deze Overeenkomst hebben ondertekend.
 
 GEDAAN te Kiev, op 7 september 1993, in twee exemplaren in de Nederlandse, de Oekraïense en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschillen tussen de teksten is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) J. R. H. MAIJ-WEGGEN
 
-**Voor de Regering van Oekraïne**
+*Voor de Regering van Oekraïne*
 
 (w.g.) OREST KLYMPUSH

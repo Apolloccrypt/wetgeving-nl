@@ -1,196 +1,161 @@
 ---
 title: "Protocol inzake gecombineerd vervoer over binnenwateren bij de Europese Overeenkomst inzake belangrijke internationale gecombineerde vervoerslijnen en daarmee samenhangende installaties (AGTC) van 1991"
 identifier: "BWBV0001415"
-country: "nl"
-rank: "verdrag"
-publication_date: "2016-12-29"
-last_updated: "2016-12-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001415"
+categorie: "Milieu"
 soort: "verdrag"
-stam_id: "10000575993"
-version_id: "10001047192"
-internal_id: "C10006989991"
-label_id: "10000576394"
-original_entry_into_force: "2009-10-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001415/2016-12-29/0"
-intitule_bron: "Trb.1998-25"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-11-02"
-intitule_published: "1998-02-16"
-intitule_in_force: "2009-09-15"
-intitule_status: "goed"
-original_publication: "Trb.1999-94"
-original_signed_date: "1999-11-02"
-original_published_date: "1999-05-28"
-original_effect: "structuurwijziging"
-original_url_id: "trb-1999-94"
-entry_into_force_date: "2009-10-29"
-jci_1_3: "jci1.3:c:BWBV0001415&z=2016-12-29&g=2016-12-29"
-jci_1_0: "1.0:c:BWBV0001415&g=2016-12-29"
-citeertitel_status: "officieel"
-signed_date: "1999-11-02"
-entry_into_force: "2009-10-29"
+publicatiedatum: 2009-10-29
+laatste_update: 2016-12-29
+status: geldig
+toestand: 2016-12-29
+bron: "https://wetten.overheid.nl/BWBV0001415"
+opgehaald: 2026-09-11
 ---
+
 # Protocol inzake gecombineerd vervoer over binnenwateren bij de Europese Overeenkomst inzake belangrijke internationale gecombineerde vervoerslijnen en daarmee samenhangende installaties (AGTC) van 1991
 
-De Overeenkomstsluitende Partijen,
+*The Contracting Parties, Desiring to facilitate the international transport of goods, Aware of the expected increase in the international transport of goods as a consequence of growing international trade, Conscious of the adverse environmental consequences such developments might have, Emphasizing the important role of all combined transport techniques to alleviate the burden on the European inland transport network and to mitigate environmental damages, Recognizing that combined transport on inland waterways and on certain coastal routes can constitute an important element on certain European transport corridors, Convinced that, in order to make international combined transport on inland waterways and on certain coastal routes in Europe more efficient and attractive to customers, it is essential to establish a legal framework which lays down a coordinated plan for the development of combined transport services on inland waterways and on certain coastal routes and of the infrastructure necessary for their operation based on internationally agreed performance parameters and standards, Have agreed as follows:*
 
-Geleid door de wens het internationaal goederenvervoer te vergemakkelijken,
+### Chapter I. GENERAL
 
-Beseffend dat een toename van het internationaal goederenvervoer te verwachten is als gevolg van de groeiende internationale handel,
+##### Article 1. Definitions
 
-Zich bewust van de nadelige gevolgen die deze ontwikkelingen voor het milieu zouden kunnen hebben,
+For the purposes of this Protocol:
 
-De nadruk leggend op de belangrijke rol van alle technieken voor gecombineerd vervoer bij het verlichten van de last die op het Europese wegennet drukt en het verminderen van schade aan het milieu,
+- a) The term “combined transport” shall mean the transport of goods in one and the same transport unit using more than one mode of transport;
 
-Erkennende dat gecombineerd vervoer over binnenwateren en langs bepaalde kustroutes een belangrijk element in bepaalde Europese transportcorridors kan vormen,
+- b) The term “network of inland waterways of importance for international combined transport” shall refer to all inland waterways and those coastal routes which conform to the minimum requirements contained in [Annex III](https://wetten.overheid.nl/BWBV0001415) to this Protocol if: These coastal routes should be in line with the provisions of [Annex III, section (a), paragraph (xi)](https://wetten.overheid.nl/BWBV0001415);
 
-Ervan overtuigd dat het, wil men het internationaal gecombineerd vervoer over binnenwateren en langs bepaalde kustroutes in Europa doelmatiger en aantrekkelijker voor de klant maken, van wezenlijk belang is een wettelijk kader te scheppen dat voorziet in een gecoördineerd plan voor de ontwikkeling van diensten op het gebied van gecombineerd vervoer over binnenwateren en langs bepaalde kustroutes en de voor de exploitatie daarvan benodigde infrastructuur op basis van internationaal overeengekomen functioneringsparameters en -normen,
+   - (i) they are currently used for regular international combined transport;
 
-Zijn het volgende overeengekomen:
+   - (ii) they serve as important feeder lines for international combined transport;
 
-### Hoofdstuk I. ALGEMENE BEPALINGEN
+   - (iii) they are expected to become important for international combined transport in the near future (as defined in (i) and (ii)).
 
-##### Artikel 1. Begripsomschrijvingen
+- c) The term “related installations” shall refer to terminals in ports which are of importance for international combined transport, providing for the transshipment of containers and other intermodal transport units (swap-bodies, semi-trailers, goods road vehicles, etc.) used in combined transport between inland water vessels and sea, road and rail transport.
 
-Voor de toepassing van dit Protocol wordt verstaan onder:
+##### Article 2. Designation of the network
 
-- a. „gecombineerd vervoer”: het vervoer van goederen in één en dezelfde laadeenheid, waarbij gebruik wordt gemaakt van meer dan één wijze van vervoer;
+1. The Contracting Parties being also Parties to the European Agreement on Important International Combined Transport Lines and Related Installations (AGTC) of 1991 adopt the provisions of this Protocol as a coordinated international plan for the development and operation of a network of inland waterways of importance for international combined transport as well as for terminals in ports, hereinafter referred to as “international inland waterway network for combined transport” which they intend to undertake within the framework of national programmes.
 
-- b. „net van belangrijke binnenwateren voor het internationaal gecombineerd vervoer”: alle binnenwateren en kustroutes die voldoen aan de minimumeisen, vervat in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=III&z=2016-12-29&g=2016-12-29) bij dit Protocol, indien: Deze kustroutes moeten overeenstemmen met de bepalingen van [Bijlage III, letter a, punt xi](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=III&z=2016-12-29&g=2016-12-29);
+2. The international inland waterway network for combined transport consists of the inland waterways contained in [Annex I](https://wetten.overheid.nl/BWBV0001415) to this Protocol and of terminals in ports contained in [Annex II](https://wetten.overheid.nl/BWBV0001415) to this Protocol.
 
-- i. zij momenteel worden gebruikt voor gebruikt voor geregeld internationaal gecombineerd vervoer;
+##### Article 3. Technical and operational minimum requirements
 
-- ii. zij dienen als belangrijke aanvoerlijnen voor het internationaal gecombineerd vervoer;
+In order to facilitate combined transport services on the international inland waterway network for combined transport, Contracting Parties shall undertake appropriate measures in order to achieve the technical and operational minimum requirements referred to in [Annex III](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=III&z=2016-12-29&g=2016-12-29) to this Protocol.
 
-- iii. wordt verwacht dat zij in de nabije toekomst belangrijke lijnen voor het internationaal gecombineerd vervoer zullen worden (zoals omschreven onder i en ii).
+##### Article 4. Annexes
 
-- c. „bijbehorende voorzieningen”: terminals in belangrijke havens voor internationaal gecombineerd vervoer, waar containers en andere intermodale laadeenheden (wissellaadbakken, opleggers, vrachtwagens, enz.) die worden gebruikt bij een combinatie van vervoer over binnenwateren en over zee, over de weg en per trein, worden overgeslagen.
+The annexes to this Protocol form an integral part of the Protocol.
 
-##### Artikel 2. Aanduiding van het net
+### Chapter II. FINAL PROVISIONS
 
-1. De Overeenkomstsluitende Partijen die tevens Partij zijn bij de Europese Overeenkomst inzake belangrijke lijnen voor het internationaal gecombineerd vervoer en daarmee samenhangende installaties (AGTC) van 1991, nemen de bepalingen van dit Protocol aan als een gecoördineerd internationaal plan voor de ontwikkeling en exploitatie van een net van belangrijke binnenwateren voor internationaal gecombineerd vervoer, alsmede voor terminals in havens, hierna te noemen het „internationaal netwerk van binnenwateren voor gecombineerd vervoer”, welk plan zij voornemens zijn uit te voeren binnen het kader van nationale programma's.
+##### Article 5. Designation of the depositary
 
-2. Het net van internationale binnenwateren voor gecombineerd vervoer bestaat uit de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=I&z=2016-12-29&g=2016-12-29) bij dit Protocol opgenomen binnenwateren en de in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=II&z=2016-12-29&g=2016-12-29) bij dit Protocol opgenomen terminals in havens.
+The Secretary-General of the United Nations shall be the depositary of this Protocol.
 
-##### Artikel 3. Technische en operationele minimumeisen
+##### Article 6. Signature
 
-Ten einde de dienstverlening in het gecombineerd vervoer op het internationale net van binnenwateren voor gecombineerd vervoer te vergemakkelijken, nemen de Overeenkomstsluitende Partijen passende maatregelen, ten einde aan de in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=III&z=2016-12-29&g=2016-12-29) bij dit Protocol vermelde technische en operationele minimumeisen te voldoen.
+1. This Protocol shall be open at the office of the United Nations in Geneva for signature by States which are Contracting Parties to the European Agreement on Important International Combined Transport Lines and Related Installations (AGTC) of 1991 from 1 November 1997 to 31 October 1998.
 
-##### Artikel 4. Bijlagen
+2. Such signatures shall be subject to ratification, acceptance or approval.
 
-De bijlagen bij het Protocol vormen een integrerend onderdeel van het Protocol.
+##### Article 7. Ratification, acceptance or approval
 
-### Hoofdstuk II. SLOTBEPALINGEN
+1. This Protocol shall be subject to ratification, acceptance or approval in accordance with [paragraph 2 of article 6](https://wetten.overheid.nl/BWBV0001415).
 
-##### Artikel 5. Aanwijzing van de depositaris
+2. Ratification, acceptance or approval shall be effected by the deposit of an instrument with the Secretary-General of the United Nations.
 
-De Secretaris-Generaal van de Verenigde Naties is de depositaris van dit Protocol.
+##### Article 8. Accession
 
-##### Artikel 6. Ondertekening
+1. This Protocol shall be open for accession by any State referred to in [paragraph 1 of Article 6](https://wetten.overheid.nl/BWBV0001415) from 1 November 1997.
 
-1. Dit Protocol staat van 1 november 1997 tot 31 oktober 1998 op het bureau van de Verenigde Naties in Genève open voor ondertekening door Staten die partij zijn bij de Europese Overeenkomst inzake belangrijke lijnen voor het internationaal gecombineerd vervoer en daarmee samenhangende installaties (AGTC) van 1991.
+2. Accession shall be effected by the deposit of an instrument with the Secretary-General of the United Nations.
 
-2. De ondertekeningen dienen te worden bekrachtigd, aanvaard of goedgekeurd.
+##### Article 9. Entry into force
 
-##### Artikel 7. Bekrachtiging, aanvaarding of goedkeuring
+1. This Protocol shall enter into force 90 days after the date on which the Governments of five States have deposited an instrument of ratification, acceptance, approval or accession, provided that one or more waterways of the international inland waterway network for combined transport link, in a continuous manner, the territories of at least three of the States which have deposited such an instrument.
 
-1. Dit Protocol dient te worden bekrachtigd, aanvaard of goedgekeurd in overeenstemming met [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&hoofdstuk=II&artikel=6&z=2016-12-29&g=2016-12-29).
+2. If the above condition is not fulfilled, the Protocol shall enter into force 90 days after the date of the deposit of the instrument of ratification, acceptance, approval or accession, whereby the said condition will be satisfied.
 
-2. Bekrachtiging, aanvaarding of goedkeuring geschiedt door nederlegging van een akte bij de Secretaris-Generaal van de Verenigde Naties.
+3. For each State which deposits an instrument of ratification, acceptance, approval or accession after the commencement of the period of 90 days specified in paragraphs 1 and 2 of this article, the Protocol shall enter into force 90 days after the date of deposit of the said instrument.
 
-##### Artikel 8. Toetreding
+##### Article 10. Limits to the application of the Protocol
 
-1. Dit Protocol staat vanaf 1 november 1997 open voor toetreding door elke Staat als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&hoofdstuk=II&artikel=6&z=2016-12-29&g=2016-12-29).
+1. Nothing in this Protocol shall be construed as preventing a Contracting Party from taking such action, compatible with the provisions of the [Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) and limited to the exigencies of the situation, as it considers necessary for its external or internal security.
 
-2. Toetreding geschiedt door nederlegging van een akte bij de Secretaris-Generaal van de Verenigde Naties.
+2. Such measures, which must be temporary, shall be notified immediately to the depositary and their nature specified.
 
-##### Artikel 9. Inwerkingtreding
+##### Article 11. Settlement of disputes
 
-1. Dit Protocol treedt in werking 90 dagen na de datum waarop de Regeringen van vijf Staten een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd, mits een of meer wateren van het internationaal net van binnenwateren voor gecombineerd vervoer als doorlopende waterweg de grondgebieden verbinden van ten minste drie van de Staten die een dergelijke akte hebben nedergelegd.
+1. Any dispute between two or more Contracting Parties which relates to the interpretation or application of this Protocol and which the Parties in dispute are unable to settle by negotiation or other means shall be referred to arbitration if any of the Contracting Parties in dispute so requests and shall, to that end, be submitted to one or more arbitrators selected by mutual agreement between the Parties in dispute. If the Parties in dispute fail to agree on the choice of an arbitrator or arbitrators within three months after the request for arbitration, any of those Parties may request the Secretary-General of the United Nations to appoint a single arbitrator to whom the dispute shall be submitted for decision.
 
-2. Indien aan bovenstaande voorwaarde niet wordt voldaan, treedt het Protocol in werking 90 dagen na de datum van nederlegging van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding waardoor aan genoemde voorwaarde zal zijn voldaan.
+2. The award of the arbitrator or arbitrators appointed in accordance with paragraph 1 of this article shall be binding upon the Contracting Parties in dispute.
 
-3. Ten aanzien van elke Staat die een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nederlegt na het begin van het in het eerste en tweede lid van dit artikel genoemde tijdvak van 90 dagen, treedt het Protocol in werking 90 dagen na de datum van nederlegging van die akte.
+##### Article 12. Reservations
 
-##### Artikel 10. Beperking van de toepassing van het Protocol
+Any State may, at the time of signing this Protocol or of depositing its instrument of ratification, acceptance, approval or accession, notify the depositary that it does not consider itself bound by [article 11](https://wetten.overheid.nl/BWBV0001415) of this Protocol.
 
-1. Niets in dit Protocol mag zodanig worden uitgelegd dat een Overeenkomstsluitende Partij daardoor wordt belet maatregelen te nemen die deze Partij noodzakelijk acht voor haar buitenlandse of binnenlandse veiligheid en die verenigbaar zijn met de bepalingen van het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) en beperkt blijven tot de vereisten van de gegeven omstandigheden.
+##### Article 13. Amendment of the Protocol
 
-2. De depositaris wordt onmiddellijk in kennis gesteld van zodanige maatregelen, die een tijdelijk karakter dienen te hebben, en van de aard ervan.
+1. This Protocol may be amended in accordance with the procedure specified in this article, except as provided for under [articles 14](https://wetten.overheid.nl/BWBV0001415) and [15](https://wetten.overheid.nl/BWBV0001415).
 
-##### Artikel 11. Beslechting van geschillen
+2. At the request of a Contracting Party, any amendment proposed by it to this Protocol shall be considered by the Working Party on Combined Transport of the United Nations Economic Commission for Europe.
 
-1. Elk geschil tussen twee of meer Overeenkomstsluitende Partijen dat betrekking heeft op de uitlegging of toepassing van dit Protocol en dat door de partijen bij het geschil niet door onderhandelingen of andere middelen kan worden opgelost, wordt onderworpen aan arbitrage, indien een der bij het geschil betrokken partijen zulks verzoekt, en wordt hiertoe voorgelegd aan een of meer scheidsmannen die in onderlinge overeenstemming tussen de partijen bij het geschil wordt of worden gekozen. Indien de partijen bij het geschil niet binnen drie maanden na het verzoek om arbitrage tot overeenstemming kunnen komen over de keuze van een scheidsman of scheidsmannen, kan elk van die partijen de Secretaris-Generaal van de Verenigde Naties verzoeken één scheidsman te benoemen aan wie het geschil ter beslissing zal worden voorgelegd.
+3. If the amendment is adopted by a two-thirds majority of the Contracting Parties present and voting, the amendment shall be communicated by the Secretary-General of the United Nations to all Contracting Parties for acceptance.
 
-2. De uitspraak van de overeenkomstig het eerste lid van dit artikel benoemde scheidsman of scheidsmannen is bindend voor de bij een geschil betrokken Overeenkomstsluitende Partijen.
+4. Any proposed amendment communicated in accordance with paragraph 3 of this article shall come into force with respect to all Contracting Parties three months after the expiry of a period of twelve months following the date of its communication, provided that during such period of twelve months no objection to the proposed amendment shall have been notified to the Secretary-General of the United Nations by a State which is a Contracting Party.
 
-##### Artikel 12. Voorbehouden
+5. If an objection to the proposed amendment has been notified in accordance with paragraph 4 of this article, the amendment shall be deemed not to have been accepted and shall have no effect whatsoever.
 
-Elke Staat kan bij de ondertekening van dit Protocol of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding aan de depositaris mededelen dat hij zich niet gebonden acht door [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&hoofdstuk=II&artikel=11&z=2016-12-29&g=2016-12-29) van dit Protocol.
+##### Article 14. Amendment of Annexes I and II
 
-##### Artikel 13. Wijziging van het Protocol
+1. [Annexes I](https://wetten.overheid.nl/BWBV0001415) and [II](https://wetten.overheid.nl/BWBV0001415) to this Protocol may be amended in accordance with the procedure laid down in this article.
 
-1. Dit Protocol kan worden gewijzigd overeenkomstig de in dit artikel beschreven procedure, behoudens het bepaalde in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&hoofdstuk=II&artikel=14&z=2016-12-29&g=2016-12-29) en [15](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&hoofdstuk=II&artikel=15&z=2016-12-29&g=2016-12-29).
+2. At the request of a Contracting Party, any amendment proposed by it to [Annexes I](https://wetten.overheid.nl/BWBV0001415) and [II](https://wetten.overheid.nl/BWBV0001415) shall be considered by the Working Party on Combined Transport of the United Nations Economic Commission for Europe.
 
-2. Op verzoek van een Overeenkomstsluitende Partij wordt elke door haar voorgestelde wijziging van dit Protocol bestudeerd in de Werkgroep voor Gecombineerd Vervoer van de Economische Commissie voor Europa van de Verenigde Naties.
+3. If the amendment is adopted by the majority of the Contracting Parties present and voting, the proposed amendment shall be communicated by the Secretary-General of the United Nations to the Contracting Parties directly concerned for acceptance. For the purpose of this article, a Contracting Party shall be considered directly concerned if, in the case of inclusion of a new inland waterway section or a terminal or in case of their respective modification, its territory is crossed by that inland waterway section or is directly linked to the terminal, or if the considered terminal is situated on the said territory.
 
-3. Indien de wijziging wordt aangenomen met tweederde meerderheid van de Overeenkomstsluitende Partijen die aanwezig zijn en hun stem uitbrengen, wordt door de Secretaris-Generaal van de Verenigde Naties mededeling van de wijziging gedaan aan alle Overeenkomstsluitende Partijen ter fine van aanvaarding.
+4. Any proposed amendment communicated in accordance with paragraphs 2 and 3 of this article shall be deemed accepted if, within a period of six months following the date of its communication by the depositary, none of the Contracting Parties directly concerned has notified the Secretary-General of the United Nations of its objection to the proposed amendment.
 
-4. Elke voorgestelde wijziging waarvan overeenkomstig het derde lid van dit artikel mededeling is gedaan, wordt ten aanzien van alle Overeenkomstsluitende Partijen van kracht na het verstrijken van een tijdvak van twaalf maanden vanaf de datum van mededeling, mits binnen dat tijdvak van twaalf maanden geen bezwaar tegen de voorgestelde wijziging ter kennis van de Secretaris-Generaal van de Verenigde Naties is gebracht door een Staat die Overeenkomstsluitende Partij is.
+5. Any amendment thus accepted shall be communicated by the Secretary-General of the United Nations to all Contracting Parties and shall enter into force three months after the date of its communication by the depositary.
 
-5. Indien overeenkomstig het vierde lid van dit artikel, een bezwaar tegen de voorgestelde wijziging ter kennis van de Secretaris-Generaal is gebracht, wordt de wijziging geacht niet te zijn aanvaard en heeft zij geen enkel gevolg.
+6. If an objection to the proposed amendment has been notified in accordance with paragraph 4 of this article, the amendment shall be deemed not to have been accepted and shall have no effect whatsoever.
 
-##### Artikel 14. Wijziging van de [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=I&z=2016-12-29&g=2016-12-29) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=II&z=2016-12-29&g=2016-12-29)
+7. The depositary shall be kept promptly informed by the secretariat of the Economic Commission for Europe of the Contracting Parties which are directly concerned by a proposed amendment.
 
-1. De [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=I&z=2016-12-29&g=2016-12-29) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=II&z=2016-12-29&g=2016-12-29) bij dit Protocol kunnen worden gewijzigd overeenkomstig de in dit artikel beschreven procedure.
+##### Article 15. Amendment of Annex III
 
-2. Op verzoek van een Overeenkomstsluitende Partij wordt elke door haar voorgestelde wijziging van de [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=I&z=2016-12-29&g=2016-12-29) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=II&z=2016-12-29&g=2016-12-29) bestudeerd door de Werkgroep voor Gecombineerd Vervoer van de Economische Commissie voor Europa van de Verenigde Naties.
+1. [Annex III](https://wetten.overheid.nl/BWBV0001415) to this Protocol may be amended in accordance with the procedure specified in this article.
 
-3. Indien de wijziging wordt aangenomen door de meerderheid van de Overeenkomstsluitende Partijen die aanwezig zijn en hun stem uitbrengen, wordt door de Secretaris-Generaal van de Verenigde Naties mededeling van de wijziging gedaan aan de rechtstreeks betrokken Overeenkomstsluitende Partijen ter fine van aanvaarding. Voor de toepassing van dit artikel wordt een Overeenkomstsluitende Partij geacht rechtstreeks betrokken te zijn, indien haar grondgebied, in geval van opneming van een nieuw gedeelte van een vaarroute of een terminal of in geval van wijziging van een van beide, door dit gedeelte van een vaarroute wordt doorsneden of rechtstreeks verbonden met de terminal, of indien de beoogde terminal op bedoeld grondgebied is gelegen.
+2. At the request of a Contracting Party, any amendment proposed by it to [Annex III](https://wetten.overheid.nl/BWBV0001415) shall be considered by the Working Party on Combined Transport of the United Nations Economic Commission for Europe.
 
-4. Elke voorgestelde wijziging die overeenkomstig het tweede en derde lid van dit artikel is medegedeeld, wordt geacht te zijn aanvaard, indien, binnen een tijdvak van zes maanden vanaf de datum van de kennisgeving door de depositaris geen der rechtstreeks betrokken Overeenkomstsluitende Partijen de Secretaris-Generaal van de Verenigde Naties in kennis heeft gesteld van haar bezwaar tegen de voorgestelde wijziging.
+3. If the proposed amendment is adopted by a two-thirds majority of the Contracting Parties present and voting, it shall be communicated by the Secretary-General of the United Nations to all Contracting Parties for acceptance.
 
-5. Elke aldus aanvaarde wijziging wordt door de Secretaris-Generaal van de Verenigde Naties medegedeeld aan alle Overeenkomstsluitende Partijen en wordt drie maanden na de datum van mededeling door de depositaris van kracht.
+4. Any proposed amendment communicated in accordance with paragraph 3 of this article shall be deemed accepted unless, within a period of six months following the date of its communication, one fifth or more of the Contracting Parties have notified the Secretary-General of the United Nations of their objection to the proposed amendment.
 
-6. Indien overeenkomstig het vierde lid van dit artikel een bezwaar tegen de voorgestelde wijziging ter kennis van de Secretaris-Generaal is gebracht, wordt de wijziging geacht niet te zijn aanvaard en heeft zij geen enkel gevolg.
+5. Any amendment accepted in accordance with paragraph 4 of this article shall be communicated by the Secretary-General to all Contracting Parties and shall enter into force three months after the date of its communication with respect to all Contracting Parties except those which have already notified the Secretary-General of the United Nations of their objection to the proposed amendment within the period of six months following the date of its communication according to paragraph 4 of this article.
 
-7. De depositaris wordt er door het Secretariaat van de Economische Commissie voor Europa steeds onverwijld van in kennis gesteld welke Overeenkomstsluitende Partijen rechtstreeks betrokken zijn bij een voorgestelde wijziging.
+6. If one fifth or more of the Contracting Parties have notified an objection to the proposed amendment in accordance with paragraph 4 above, the amendment shall be deemed not to have been accepted and shall have no effect whatsoever.
 
-##### Artikel 15. Wijziging van [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=III&z=2016-12-29&g=2016-12-29)
+##### Article 16. Denunciation
 
-1. Bijlage III bij dit Protocol kan worden gewijzigd overeenkomstig de in dit artikel beschreven procedure.
+1. Any Contracting Party may denounce this Protocol by written notification addressed to the Secretary-General of the United Nations.
 
-2. Op verzoek van een Overeenkomstsluitende Partij wordt elke door haar voorgestelde wijziging van [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0001415&bijlage=III&z=2016-12-29&g=2016-12-29) bestudeerd door de Werkgroep voor Gecombineerd Vervoer van de Economische Commissie voor Europa van de Verenigde Naties.
+2. The denunciation shall take effect one year after the date of receipt by the Secretary-General of the said notification.
 
-3. Indien de voorgestelde wijziging wordt aangenomen met een tweederde meerderheid van de Overeenkomstsluitende Partijen die aanwezig zijn en hun stem uitbrengen, wordt door de Secretaris-Generaal van de Verenigde Naties mededeling van de wijziging gedaan aan alle Overeenkomstsluitende Partijen ter fine van aanvaarding.
+3. Any Contracting Party which ceases to be a Party of the European Agreement on Important International Combined Transport Lines and Related Installations (AGTC) of 1991 shall on the same date cease to be a Party to this Protocol.
 
-4. Elke voorgestelde wijziging die overeenkomstig het derde lid van dit artikel is medegedeeld, wordt geacht te zijn aanvaard, tenzij binnen een tijdvak van zes maanden vanaf de datum van de kennisgeving eenvijfde deel of meer van de Overeenkomstsluitende Partijen de Secretaris-Generaal van de Verenigde Naties in kennis heeft gesteld van hun bezwaar tegen de voorgestelde wijziging.
+##### Article 17. Termination
 
-5. Elke overeenkomstig het vierde lid van dit artikel aanvaarde wijziging wordt door de Secretaris-Generaal medegedeeld aan alle Overeenkomstsluitende Partijen en wordt drie maanden na de datum van mededeling van kracht ten aanzien van alle Overeenkomstsluitende Partijen, met uitzondering van die welke binnen het tijdvak van zes maanden na de datum van mededeling overeenkomstig het vierde lid van dit artikel reeds aan de Secretaris-Generaal van de Verenigde Naties ter kennis hebben gebracht dat zij bezwaar hebben tegen de voorgestelde wijziging.
+Should, after the entry into force of this Protocol, the number of Contracting Parties for any period of twelve consecutive months be reduced to less than five, the Protocol shall cease to have effect twelve months after the date on which the fifth State ceased to be a Contracting Party.
 
-6. Indien, overeenkomstig het vierde lid van dit artikel, eenvijfde deel of meer van de Overeenkomstsluitende Partijen een bezwaar tegen de voorgestelde wijziging ter kennis van de Secretaris-Generaal heeft gebracht, wordt de wijziging geacht niet te zijn aanvaard en heeft zij geen enkel gevolg.
+##### Article 18. Notifications and communications by the depositary
 
-##### Artikel 16. Opzegging
+In addition to such notifications and communications as this Protocol may specify, the functions of the Secretary-General of the United Nations as depositary shall be as set out in [Part VII of the Vienna Convention on the Law of Treaties](https://wetten.overheid.nl/jci1.3:c:BWBV0003441&deel=VII), concluded at Vienna on 23 May 1969.
 
-1. Elke Overeenkomstsluitende Partij kan dit Protocol opzeggen door middel van een tot de Secretaris-Generaal van de Verenigde Naties gerichte schriftelijke kennisgeving.
+##### Article 19. Authentic texts
 
-2. De opzegging wordt van kracht een jaar na de datum van ontvangst van deze kennisgeving door de Secretaris-Generaal.
-
-3. Elke Overeenkomstsluitende Partij die niet langer Partij is bij de Europese Overeenkomst inzake belangrijke lijnen voor het internationaal gecombineerd vervoer en daarmee samenhangende installaties (AGTC) van 1991, is vanaf dezelfde datum niet langer Partij bij dit Protocol.
-
-##### Artikel 17. Beëindiging
-
-Mocht, na de inwerkingtreding van dit Protocol, het aantal Overeenkomstsluitende Partijen gedurende een tijdvak van twaalf achtereenvolgende maanden zijn verminderd tot minder dan vijf, dan houdt het Protocol op van kracht te zijn twaalf maanden na de datum waarop de vijfde Staat is opgehouden een Overeenkomstsluitende Partij te zijn.
-
-##### Artikel 18. Kennisgevingen en mededelingen door de depositaris
-
-Naast het doen van kennisgevingen en mededelingen zoals in dit Protocol worden genoemd, heeft de Secretaris-Generaal van de Verenigde Naties als depositaris de taken die zijn omschreven in [Deel VII van het Verdrag van Wenen inzake het Verdragenrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0003441&deel=VII), gesloten te Wenen op 23 mei 1969.
-
-##### Artikel 19. Authentieke teksten
-
-Het origineel van dit Protocol, waarvan de Engelse, de Franse en de Russische tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
+The original of this Protocol, of which the English, French, and Russian texts are equally authentic, shall be deposited with the Secretary-General of the United Nations.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized to that effect, have signed this Protocol.
 

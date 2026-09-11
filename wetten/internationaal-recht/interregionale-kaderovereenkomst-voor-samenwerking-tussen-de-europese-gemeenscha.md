@@ -1,254 +1,21 @@
 ---
 title: "Interregionale Kaderovereenkomst voor samenwerking tussen de Europese Gemeenschap en haar Lid-Staten, enerzijds, en de Mercado Común del Sur en zijn deelnemende Staten, anderzijds"
 identifier: "BWBV0001332"
-country: "nl"
-rank: "verdrag"
-publication_date: "1999-07-01"
-last_updated: "1999-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001332"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000384513"
-version_id: "10000393032"
-internal_id: "C10006988011"
-label_id: "10000385084"
-original_entry_into_force: "1999-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001332/1999-07-01/0"
-intitule_bron: "Trb.1996-120"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-05-05"
-intitule_published: "1996-04-25"
-intitule_in_force: "1999-10-20"
-intitule_status: "goed"
-original_publication: "Trb.1996-120"
-original_signed_date: "1998-05-05"
-original_published_date: "1996-04-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1996-120"
-entry_into_force_date: "1999-07-01"
-jci_1_3: "jci1.3:c:BWBV0001332&z=1999-07-01&g=1999-07-01"
-jci_1_0: "1.0:c:BWBV0001332&g=1999-07-01"
-citeertitel_status: "officieel"
-signed_date: "1998-05-05"
-entry_into_force: "1999-07-01"
+publicatiedatum: 1999-07-01
+laatste_update: 1999-07-01
+status: geldig
+toestand: 1999-07-01
+bron: "https://wetten.overheid.nl/BWBV0001332"
+opgehaald: 2026-09-11
 ---
+
 # Interregionale Kaderovereenkomst voor samenwerking tussen de Europese Gemeenschap en haar Lid-Staten, enerzijds, en de Mercado Común del Sur en zijn deelnemende Staten, anderzijds
 
-Het Koninkrijk België,
+*Het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Partijen bij het Verdrag tot oprichting van de Europese Gemeenschap en bij het Verdrag tot oprichting van de Europese Unie, hierna aangeduid als „Lid-Staten van de Europese Gemeenschap,” de Europese Gemeenschap, hierna aangeduid als „de Gemeenschap”, enerzijds, en de Argentijnse Republiek de Bondsrepubliek Brazilië de Republiek Paraguay de Republiek ten Oosten van Uruguay Partijen bij het Verdrag van Asunción tot oprichting van een gemeenschappelijke markt van het Zuiden en bij het Additionele Protocol van Ouro Preto, hierna aangeduid als „de deelnemende staten van de Mercosur”, en el Mercado Común del Sur, hierna aangeduid als „de Mercosur”, anderzijds, Zich bewust van de diepe historische, culturele, politieke en economische banden die tussen hen bestaan en van de waarden die hun volkeren gemeen hebben; Overwegende dat zij de in het Handvest van de Verenigde Naties vastgestelde oogmerken en beginselen, de democratische waarden, de rechtsstaat, en de eerbiediging en bevordering van de mensenrechten ten volle onderschrijven; Overwegende dat beide partijen groot belang hechten aan de beginselen en waarden die zijn vervat in de Slotverklaring van de Conferentie van de Verenigde Naties over milieu en ontwikkeling die in juni 1992 te Rio de Janeiro is gehouden, alsmede aan de Slotverklaring van de Sociale Top die in maart 1995 in de stad Kopenhagen heeft plaatsgevonden; Overwegende dat beide partijen regionale integratieprocessen beschouwen als instrumenten voor economische en sociale ontwikkeling die de invoeging van hun economieën in het internationaal bestel vergemakkelijken, toenadering tussen de volkeren bevorderen en bijdragen tot meer stabiliteit in internationaal verband; Bevestigend dat zij vastbesloten zijn de regels van een vrije internationale handel volgens de normen van de Wereldhandelsorganisatie te handhaven en te versterken, daarbij in het bijzonder wijzend op het belang van een open vorm van regionalisme; Overwegende dat zowel de Gemeenschap als de Mercosur specifieke ervaring hebben ontwikkeld op het gebied van regionale integratie waarvan zij wederzijds kunnen profiteren bij het proces van versterking van hun onderlinge betrekkingen, overeenkomstig hun eigen behoeften; Rekening houdende met de samenwerkingsbanden die zijn gelegd door bilaterale overeenkomsten tussen de staten van beide regio's, alsmede door de kaderovereenkomsten voor samenwerking die de Mercosur-Staten elk afzonderlijk met de Europese Gemeenschap hebben gesloten; Wijzende op de resultaten die de Interinstitutionele Samenwerkingsovereenkomst van 29 mei 1992 tussen de Raad van de Mercado Común del Sur en de Commissie van de Europese Gemeenschappen heeft opgeleverd en op de noodzaak om de in dat bestek uitgevoerde acties voort te zetten; Overwegende dat beide partijen bezield zijn van de politieke wil om, als einddoel, een interregionale associatie van politieke en economische aard op te richten op basis van versterkte politieke samenwerking, geleidelijke en wederzijdse liberalisering van het gehele handelsverkeer, met inachtneming van de gevoeligheid van bepaalde produkten en overeenkomstig de regels van de Wereldhandelsorganisatie en, ten slotte, op basis van bevordering van investeringen en verdieping van de samenwerking; Rekening houdende met de termen van de plechtige gezamenlijke verklaring waarin beide partijen zich voornemen een interregionale kaderovereenkomst tot stand te brengen inzake economische en handelssamenwerking, alsook voorbereidingen te treffen voor de geleidelijke en wederkerige liberalisering van het handelsverkeer tussen beide regio's, als voorbereidingsfase voor de sluiting van een interregionale associatieovereenkomst tussen hen, Hebben besloten deze overeenkomst te sluiten en hebben daartoe als gevolmachtigden aangewezen: Het Koninkrijk België: Erik Derycke, Minister van Buitenlandse Zaken, Het Koninkrijk Denemarken: Niels Helveg Petersen, Minister van Buitenlandse Zaken, De Bondsrepubliek Duitsland: Klaus Kinkel, Minister van Buitenlandse Zaken en Vice-Kanselier, De Helleense Republiek: Karolos Papoulias, Minister van Buitenlandse Zaken, Het Koninkrijk Spanje: Javier Solana Madariaga, Minister van Buitenlandse Zaken, De Franse Republiek: Hervé de Charette, Minister van Buitenlandse Zaken, Ierland: Dick Spring, Minister van Buitenlandse Zaken, De Italiaanse Republiek: Susanna Agnelli, Minister van Buitenlandse Zaken, Het Groothertogdom Luxemburg: Jacques F. Poos, Minister van Buitenlandse Zaken, Het Koninkrijk der Nederlanden: Hans Van Mierlo, Minister van Buitenlandse Zaken, De Republiek Oostenrijk: Wolfgang Schüssel, Minister van Buitenlandse Zaken en Vice-Kanselier, De Portugese Republiek: Jaime Gama, Minister van Buitenlandse Zaken, De Republiek Finland: Tarja Halonen, Minister van Buitenlandse Zaken, Het Koninkrijk Zweden: Mats Hellström, Minister van Europese Zaken en Buitenlandse Handel, Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland: Malcolm Rifkind, Minister van Buitenlandse Zaken en Gemenebestzaken, De Europese Gemeenschap: Javier Solana Madariaga, Minister van Buitenlandse Zaken, Fungerend Voorzitter van de Raad van de Europese Unie, Manuel Marin, Vice-voorzitter van de Commissie van de Europese Gemeenschappen, De Argentijnse Republiek: Guido di Tella, Minister van Buitenlandse Zaken, De Bondsrepubliek Brazilië: Luiz Felipe Palmeira Lampreia, Minister van Buitenlandse Zaken, De Republiek Paraguay: Luis María Ramírez Boettener, Minister van Buitenlandse Zaken, De Republiek ten Oosten van Uruguay: Alvaro Ramos Trigo, Minister van Buitenlandse Zaken, El Mercado Común del Sur: Alvaro Ramos Trigo, Minister van Buitenlandse Zaken, Fungerend Voorzitter van de Mercado Común del Sur, Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten Overeenstemming hebben bereikt omtrent de volgende bepalingen:*
 
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-Ierland,
-
-de Italiaanse Republiek,
-
-het Groothertogdom Luxemburg,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Portugese Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-Partijen bij het Verdrag tot oprichting van de Europese Gemeenschap en bij het Verdrag tot oprichting van de Europese Unie, hierna aangeduid als „Lid-Staten van de Europese Gemeenschap,”
-
-de Europese Gemeenschap,
-
-hierna aangeduid als „de Gemeenschap”,
-
-enerzijds, en
-
-de Argentijnse Republiek
-
-de Bondsrepubliek Brazilië
-
-de Republiek Paraguay
-
-de Republiek ten Oosten van Uruguay
-
-Partijen bij het Verdrag van Asunción tot oprichting van een gemeenschappelijke markt van het Zuiden en bij het Additionele Protocol van Ouro Preto, hierna aangeduid als „de deelnemende staten van de Mercosur”, en
-
-el Mercado Común del Sur,
-
-hierna aangeduid als „de Mercosur”,
-
-anderzijds,
-
-Zich bewust van de diepe historische, culturele, politieke en economische banden die tussen hen bestaan en van de waarden die hun volkeren gemeen hebben;
-
-Overwegende dat zij de in het Handvest van de Verenigde Naties vastgestelde oogmerken en beginselen, de democratische waarden, de rechtsstaat, en de eerbiediging en bevordering van de mensenrechten ten volle onderschrijven;
-
-Overwegende dat beide partijen groot belang hechten aan de beginselen en waarden die zijn vervat in de Slotverklaring van de Conferentie van de Verenigde Naties over milieu en ontwikkeling die in juni 1992 te Rio de Janeiro is gehouden, alsmede aan de Slotverklaring van de Sociale Top die in maart 1995 in de stad Kopenhagen heeft plaatsgevonden;
-
-Overwegende dat beide partijen regionale integratieprocessen beschouwen als instrumenten voor economische en sociale ontwikkeling die de invoeging van hun economieën in het internationaal bestel vergemakkelijken, toenadering tussen de volkeren bevorderen en bijdragen tot meer stabiliteit in internationaal verband;
-
-Bevestigend dat zij vastbesloten zijn de regels van een vrije internationale handel volgens de normen van de Wereldhandelsorganisatie te handhaven en te versterken, daarbij in het bijzonder wijzend op het belang van een open vorm van regionalisme;
-
-Overwegende dat zowel de Gemeenschap als de Mercosur specifieke ervaring hebben ontwikkeld op het gebied van regionale integratie waarvan zij wederzijds kunnen profiteren bij het proces van versterking van hun onderlinge betrekkingen, overeenkomstig hun eigen behoeften;
-
-Rekening houdende met de samenwerkingsbanden die zijn gelegd door bilaterale overeenkomsten tussen de staten van beide regio's, alsmede door de kaderovereenkomsten voor samenwerking die de Mercosur-Staten elk afzonderlijk met de Europese Gemeenschap hebben gesloten;
-
-Wijzende op de resultaten die de Interinstitutionele Samenwerkingsovereenkomst van 29 mei 1992 tussen de Raad van de Mercado Común del Sur en de Commissie van de Europese Gemeenschappen heeft opgeleverd en op de noodzaak om de in dat bestek uitgevoerde acties voort te zetten;
-
-Overwegende dat beide partijen bezield zijn van de politieke wil om, als einddoel, een interregionale associatie van politieke en economische aard op te richten op basis van versterkte politieke samenwerking, geleidelijke en wederzijdse liberalisering van het gehele handelsverkeer, met inachtneming van de gevoeligheid van bepaalde produkten en overeenkomstig de regels van de Wereldhandelsorganisatie en, ten slotte, op basis van bevordering van investeringen en verdieping van de samenwerking;
-
-Rekening houdende met de termen van de plechtige gezamenlijke verklaring waarin beide partijen zich voornemen een interregionale kaderovereenkomst tot stand te brengen inzake economische en handelssamenwerking, alsook voorbereidingen te treffen voor de geleidelijke en wederkerige liberalisering van het handelsverkeer tussen beide regio's, als voorbereidingsfase voor de sluiting van een interregionale associatieovereenkomst tussen hen,
-
-Hebben besloten deze overeenkomst te sluiten en hebben daartoe als gevolmachtigden aangewezen:
-
-Het Koninkrijk België:
-
-Erik Derycke,
-
-Minister van Buitenlandse Zaken,
-
-Het Koninkrijk Denemarken:
-
-Niels Helveg Petersen,
-
-Minister van Buitenlandse Zaken,
-
-De Bondsrepubliek Duitsland:
-
-Klaus Kinkel,
-
-Minister van Buitenlandse Zaken en Vice-Kanselier,
-
-De Helleense Republiek:
-
-Karolos Papoulias,
-
-Minister van Buitenlandse Zaken,
-
-Het Koninkrijk Spanje:
-
-Javier Solana Madariaga,
-
-Minister van Buitenlandse Zaken,
-
-De Franse Republiek:
-
-Hervé de Charette,
-
-Minister van Buitenlandse Zaken,
-
-Ierland:
-
-Dick Spring,
-
-Minister van Buitenlandse Zaken,
-
-De Italiaanse Republiek:
-
-Susanna Agnelli,
-
-Minister van Buitenlandse Zaken,
-
-Het Groothertogdom Luxemburg:
-
-Jacques F. Poos,
-
-Minister van Buitenlandse Zaken,
-
-Het Koninkrijk der Nederlanden:
-
-Hans Van Mierlo,
-
-Minister van Buitenlandse Zaken,
-
-De Republiek Oostenrijk:
-
-Wolfgang Schüssel,
-
-Minister van Buitenlandse Zaken en Vice-Kanselier,
-
-De Portugese Republiek:
-
-Jaime Gama,
-
-Minister van Buitenlandse Zaken,
-
-De Republiek Finland:
-
-Tarja Halonen,
-
-Minister van Buitenlandse Zaken,
-
-Het Koninkrijk Zweden:
-
-Mats Hellström,
-
-Minister van Europese Zaken en Buitenlandse Handel,
-
-Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland:
-
-Malcolm Rifkind,
-
-Minister van Buitenlandse Zaken en Gemenebestzaken,
-
-De Europese Gemeenschap:
-
-Javier Solana Madariaga,
-
-Minister van Buitenlandse Zaken,
-
-Fungerend Voorzitter van de Raad van de Europese Unie,
-
-Manuel Marin,
-
-Vice-voorzitter van de Commissie van de Europese Gemeenschappen,
-
-De Argentijnse Republiek:
-
-Guido di Tella,
-
-Minister van Buitenlandse Zaken,
-
-De Bondsrepubliek Brazilië:
-
-Luiz Felipe Palmeira Lampreia,
-
-Minister van Buitenlandse Zaken,
-
-De Republiek Paraguay:
-
-Luis María Ramírez Boettener,
-
-Minister van Buitenlandse Zaken,
-
-De Republiek ten Oosten van Uruguay:
-
-Alvaro Ramos Trigo,
-
-Minister van Buitenlandse Zaken,
-
-El Mercado Común del Sur:
-
-Alvaro Ramos Trigo,
-
-Minister van Buitenlandse Zaken,
-
-Fungerend Voorzitter van de Mercado Común del Sur,
-
-Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten
-
-Overeenstemming hebben bereikt omtrent de volgende bepalingen:
-
-## TITEL I. DOELSTELLINGEN, BEGINSELEN EN TOEPASSINGSGEBIED
+### TITEL I. DOELSTELLINGEN, BEGINSELEN EN TOEPASSINGSGEBIED
 
 ##### Artikel 1. Grondslag van de samenwerking
 
@@ -266,7 +33,7 @@ De eerbiediging van de democratische beginselen en de fundamentele mensenrechten
 
 2. De ministeriële dialoog waarin de gezamenlijke verklaring voorziet zal plaatsvinden binnen de bij artikel 25 van deze overeenkomst ingestelde samenwerkingsraad of in andere, in onderlinge overeenstemming aan te wijzen fora op hetzelfde niveau.
 
-## TITEL II. HANDELSGEBIED
+### TITEL II. HANDELSGEBIED
 
 ##### Artikel 4. Oogmerken
 
@@ -330,7 +97,7 @@ De partijen komen overeen te streven naar meer overeenstemming in hun methoden o
 
 3. Voor de toepassing van het voorgaande lid zal intellectuele eigendom ondermeer omvatten: auteursrechten en daaraan gekoppelde rechten, fabrieks- of handelsmerken, geografische aanduidingen en oorsprongsbenamingen, industriële ontwerpen en modellen, patenten, topografische schema's van geïntegreerde circuits.
 
-## TITEL III. ECONOMISCHE SAMENWERKING
+### TITEL III. ECONOMISCHE SAMENWERKING
 
 ##### Artikel 10. Oogmerken en beginselen
 
@@ -462,7 +229,7 @@ De partijen komen overeen te streven naar meer overeenstemming in hun methoden o
 
 - c. technische bijstand, uitvoering van gezamenlijke onderzoeksprojecten en, wanneer dat opportuun is, institutionele bijstand.
 
-## TITEL IV. VERSTERKING VAN DE INTEGRATIE
+### TITEL IV. VERSTERKING VAN DE INTEGRATIE
 
 ##### Artikel 18. Oogmerken en toepassingsgebieden
 
@@ -482,7 +249,7 @@ De partijen komen overeen te streven naar meer overeenstemming in hun methoden o
 
 4. De partijen zullen samenwerken om een zo efficiënt mogelijk gebruik van hun middelen te verzekeren bij de inzameling, analyse, publikatie en verspreiding van informatie, onverminderd eventueel noodzakelijke maatregelen om de vertrouwelijke aard van sommige van deze gegevens te respecteren. Tevens komen ze overeen te zorgen voor de bescherming van persoonlijke gegevens in alle gebieden waarvoor uitwisseling van informatie via informatienetwerken is gepland.
 
-## TITEL V. SAMENWERKING TUSSEN INSTELLINGEN
+### TITEL V. SAMENWERKING TUSSEN INSTELLINGEN
 
 ##### Artikel 19. Oogmerken en toepassingsgebied
 
@@ -496,7 +263,7 @@ De partijen komen overeen te streven naar meer overeenstemming in hun methoden o
 
 - c. adviezen en voorlichting.
 
-## TITEL VI. ANDERE SAMENWERKINGSGEBIEDEN
+### TITEL VI. ANDERE SAMENWERKINGSGEBIEDEN
 
 ##### Artikel 20. Samenwerking op het gebied van scholing en onderwijs
 
@@ -528,7 +295,7 @@ Deze samenwerking kan de organisatie van culturele activiteiten omvatten wanneer
 
 2. In het kader van de toepassing van deze Overeenkomst kan elke Overeenkomstsluitende partij voorstellen formuleren met het oog op de uitbreiding van de werkingssfeer van de wederzijdse samenwerking, rekening houdend met de bij de uitvoering ervan opgedane ervaring.
 
-## TITEL VII. MIDDELEN VOOR DE TENUITVOERLEGGING VAN DE SAMENWERKING
+### TITEL VII. MIDDELEN VOOR DE TENUITVOERLEGGING VAN DE SAMENWERKING
 
 ##### Artikel 24
 
@@ -538,7 +305,7 @@ Deze samenwerking kan de organisatie van culturele activiteiten omvatten wanneer
 
 3. De bepalingen van deze Overeenkomst zijn niet van invloed op de vormen van bilaterale samenwerking in het kader van de bestaande samenwerkingsakkoorden.
 
-## TITEL VIII. INSTITUTIONEEL KADER
+### TITEL VIII. INSTITUTIONEEL KADER
 
 ##### Artikel 25
 
@@ -598,7 +365,7 @@ In het kader van hun bevoegdheden verbinden de partijen zich overleg te plegen o
 
 De procedure voor het in de voorgaande alinea bedoelde overleg wordt vastgesteld in het huishoudelijk reglement van de Gemengde Commissie.
 
-## TITEL IX. SLOTBEPALINGEN
+### TITEL IX. SLOTBEPALINGEN
 
 ##### Artikel 31. Andere overeenkomsten
 

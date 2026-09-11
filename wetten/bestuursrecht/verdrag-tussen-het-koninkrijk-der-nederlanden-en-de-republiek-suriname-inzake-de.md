@@ -1,69 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Suriname inzake de export en handhaving van sociale-verzekeringsuitkeringen"
 identifier: "BWBV0001496"
-country: "nl"
-rank: "verdrag"
-publication_date: "2002-11-01"
-last_updated: "2002-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001496"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10001395523"
-version_id: "10001464812"
-internal_id: "C10006993511"
-label_id: "10001395754"
-dtd_version: "2.0"
-original_entry_into_force: "2002-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001496/2002-11-01/0"
-intitule_bron: "Trb.2001-161"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-10-01"
-intitule_published: "2001-10-01"
-intitule_in_force: "2002-11-29"
-intitule_status: "goed"
-original_publication: "Trb.2001-161"
-original_signed_date: "2001-10-01"
-original_published_date: "2001-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2001-161"
-entry_into_force_date: "2002-11-01"
-jci_1_3: "jci1.3:c:BWBV0001496&z=2002-11-01&g=2002-11-01"
-jci_1_0: "1.0:c:BWBV0001496&g=2002-11-01"
-citeertitel_status: "redactioneel"
-signed_date: "2001-10-01"
-entry_into_force: "2002-11-01"
+publicatiedatum: 2002-11-01
+laatste_update: 2002-11-01
+status: geldig
+toestand: 2002-11-01
+bron: "https://wetten.overheid.nl/BWBV0001496"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Suriname inzake de export en handhaving van sociale-verzekeringsuitkeringen
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Republiek Suriname,
-
-Hierna te noemen de Verdragsluitende Partijen,
-
-Wensend de export van Nederlandse sociale-verzekeringsuitkeringen naar Suriname mogelijk te maken,
-
-Wensend de samenwerking tussen de beide landen te regelen teneinde de rechtmatige uitvoering van de Nederlandse sociale verzekeringen te bevorderen,
-
-zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Republiek Suriname, Hierna te noemen de Verdragsluitende Partijen, Wensend de export van Nederlandse sociale-verzekeringsuitkeringen naar Suriname mogelijk te maken, Wensend de samenwerking tussen de beide landen te regelen teneinde de rechtmatige uitvoering van de Nederlandse sociale verzekeringen te bevorderen, zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsbepalingen
 
 1. Voor de toepassing van dit Verdrag wordt verstaan onder:
 
-- a. „wetgeving": de in artikel 2 bedoelde wet- en regelgeving;
+- a „wetgeving": de in artikel 2 bedoelde wet- en regelgeving;
 
-- b. „bevoegd gezag": met betrekking tot het Koninkrijk der Nederlanden de Minister van Sociale Zaken en Werkgelegenheid van Nederland; met betrekking tot de Republiek Suriname de Minister van Sociale Zaken en Volkshuisvesting;
+- b „bevoegd gezag": met betrekking tot het Koninkrijk der Nederlanden de Minister van Sociale Zaken en Werkgelegenheid van Nederland; met betrekking tot de Republiek Suriname de Minister van Sociale Zaken en Volkshuisvesting;
 
-- c. „bevoegd orgaan": voor de uitvoering van de wetgeving vermeld in artikel 2, onderdelen a, b en c: het Landelijk instituut sociale verzekeringen, per adres Gak Nederland bv, en voor de uitvoering van de wetgeving vermeld in artikel 2, onderdelen d, e en f: de Sociale Verzekeringsbank, dan wel de rechtsopvolger van de genoemde organen;
+- c „bevoegd orgaan": voor de uitvoering van de wetgeving vermeld in artikel 2, onderdelen a, b en c: het Landelijk instituut sociale verzekeringen, per adres Gak Nederland bv, en voor de uitvoering van de wetgeving vermeld in artikel 2, onderdelen d, e en f: de Sociale Verzekeringsbank, dan wel de rechtsopvolger van de genoemde organen;
 
-- d. „uitkering": iedere uitkering in geld ingevolge de wetgeving;
+- d „uitkering": iedere uitkering in geld ingevolge de wetgeving;
 
-- e. „uitkeringsgerechtigde": iedere aanvrager van of gerechtigde op een uitkering;
+- e „uitkeringsgerechtigde": iedere aanvrager van of gerechtigde op een uitkering;
 
-- f. „gezinslid": iedere persoon ten behoeve van wie recht op uitkering kan bestaan.
+- f „gezinslid": iedere persoon ten behoeve van wie recht op uitkering kan bestaan.
 
 2. Elke term die niet in het Verdrag is omschreven heeft de betekenis die daaraan wordt gegeven in de wetgeving die wordt toegepast.
 
@@ -71,17 +37,17 @@ zijn het volgende overeengekomen:
 
 Dit Verdrag is van toepassing op de Nederlandse wet- en regelgeving betreffende de volgende takken van sociale verzekering:
 
-- a. uitkeringen in geval van ziekte en moederschap;
+- a uitkeringen in geval van ziekte en moederschap;
 
-- b. arbeidsongeschiktheidsuitkeringen voor werknemers;
+- b arbeidsongeschiktheidsuitkeringen voor werknemers;
 
-- c. arbeidsongeschiktheidsuitkeringen voor zelfstandigen;
+- c arbeidsongeschiktheidsuitkeringen voor zelfstandigen;
 
-- d. ouderdomsuitkeringen;
+- d ouderdomsuitkeringen;
 
-- e. nabestaandenuitkeringen;
+- e nabestaandenuitkeringen;
 
-- f. kinderbijslagen.
+- f kinderbijslagen.
 
 ##### Artikel 3. Personele werkingssfeer
 
@@ -145,9 +111,9 @@ De Republiek Suriname is niet aansprakelijk voor de niet-betaling van uitkeringe
 
 2. De in het eerste lid bedoelde beslissingen en uitspraken worden niet erkend:
 
-- a. indien de erkenning strijdig is met de openbare orde van de Republiek Suriname;
+- a indien de erkenning strijdig is met de openbare orde van de Republiek Suriname;
 
-- b. indien de beslissing of oproeping voor het gerecht niet regelmatig en zo tijdig als met het oog op zijn verdediging nodig was, aan de verweerder tegen wie verstek werd verleend, is betekend of is medegedeeld.
+- b indien de beslissing of oproeping voor het gerecht niet regelmatig en zo tijdig als met het oog op zijn verdediging nodig was, aan de verweerder tegen wie verstek werd verleend, is betekend of is medegedeeld.
 
 3. De voor tenuitvoerlegging vatbare beslissingen en uitspraken welke overeenkomstig de voorgaande leden zijn erkend, worden door de Republiek Suriname ten uitvoer gelegd overeenkomstig de wettelijke bepalingen welke in de Republiek Suriname van kracht zijn voor de tenuitvoerlegging van vergelijkbare beslissingen en uitspraken.
 
@@ -183,7 +149,7 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Verdra
 
 GEDAAN in tweevoud te Paramaribo, op 17 augustus 2001, in de Nederlandse taal.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) R. J. TREFFERS
 
@@ -191,7 +157,7 @@ Rudolf J. Treffers
 
 Buitengewoon en Gevolmachtigd Ambassadeur van het Koninkrijk der Nederlanden
 
-**Voor de Republiek Suriname**
+*Voor de Republiek Suriname*
 
 (w.g.) S. P. SOMOHARDJO
 

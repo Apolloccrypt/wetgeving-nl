@@ -8,7 +8,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0008144"
-opgehaald: 2026-08-02
+opgehaald: 2026-09-11
 ---
 
 # Regeling taken Dienst Wegverkeer
@@ -127,7 +127,7 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - u. het aanwijzen van een technische dienst voor het uitvoeren van een periodieke herkwalificatie als bedoeld in bijlage 3, artikel 4.1.4, van VN/ECE-reglement 110 en artikel 2 van verordening 406/2010;
 
-- v. het ter uitvoering van artikel 18 van verordening 1071/2009/EG, uitvoeringsverordening 2016/480 en artikel 3 bis van richtlijn 2006/1/EG in de hoedanigheid van nationaal contactpunt nauw samenwerken met andere lidstaten, bieden van snelle wederzijdse bijstand en uitwisselen van:
+- v. het ter uitvoering van artikel 18 van verordening 1071/2009/EG, uitvoeringsverordening 2016/480 en artikel 3 bis van richtlijn 2006/1/EG in de hoedanigheid van nationaal contactpunt uitwisselen van de volgende gegevens ten behoeve van de nauwe samenwerking van bevoegde autoriteiten binnen Nederland en met andere lidstaten van de Europese Unie en ten behoeve van het bieden van snelle wederzijdse bijstand door de bevoegde autoriteiten:
 
    - 1°. de gegevens, bedoeld in artikel 16, tweede lid, van verordening 1071/2009/EG;
 

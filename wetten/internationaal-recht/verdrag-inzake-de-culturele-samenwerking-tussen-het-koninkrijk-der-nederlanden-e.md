@@ -1,54 +1,19 @@
 ---
 title: "Verdrag inzake de culturele samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Oekraïne"
 identifier: "BWBV0001310"
-country: "nl"
-rank: "verdrag"
-publication_date: "1998-02-01"
-last_updated: "1998-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001310"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10001128543"
-version_id: "10001156652"
-internal_id: "C10006988641"
-label_id: "10001128714"
-original_entry_into_force: "1998-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001310/1998-02-01/0"
-intitule_bron: "Trb.1996-224"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-10-30"
-intitule_published: "1996-08-23"
-intitule_in_force: "1998-01-16"
-intitule_status: "goed"
-original_publication: "Trb.1996-224"
-original_signed_date: "1997-10-30"
-original_published_date: "1996-08-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1996-224"
-entry_into_force_date: "1998-02-01"
-jci_1_3: "jci1.3:c:BWBV0001310&z=1998-02-01&g=1998-02-01"
-jci_1_0: "1.0:c:BWBV0001310&g=1998-02-01"
-citeertitel_status: "officieel"
-signed_date: "1997-10-30"
-entry_into_force: "1998-02-01"
+publicatiedatum: 1998-02-01
+laatste_update: 1998-02-01
+status: geldig
+toestand: 1998-02-01
+bron: "https://wetten.overheid.nl/BWBV0001310"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag inzake de culturele samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Oekraïne
 
-Het Koninkrijk der Nederlanden en
-
-de Republiek Oekraïne (hierna te noemen de „Verdragsluitende Partijen"),
-
-Geleid door de wens de culturele samenwerking tussen beide landen te bevorderen en te intensiveren en hiervoor een formeel kader te scheppen,
-
-Op grond van de Helsinki-akkoorden en op grond van de principes van de Organisatie voor Veiligheid en Samenwerking in Europa,
-
-Overtuigd dat deze samenwerking tot verdere verbreding van de vriendschappelijke betrekkingen en het wederzijds begrip tussen de volkeren der beide landen zal bijdragen,
-
-Ervan overtuigd dat deze samenwerking zal bijdragen tot de instandhouding en ontwikkeling van het meertalige en multiculturele karakter van Europa.
-
-Constaterende dat de bilaterale culturele samenwerking in nauwe relatie staat met Europese en internationale culturele samenwerking,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Republiek Oekraïne (hierna te noemen de „Verdragsluitende Partijen"), Geleid door de wens de culturele samenwerking tussen beide landen te bevorderen en te intensiveren en hiervoor een formeel kader te scheppen, Op grond van de Helsinki-akkoorden en op grond van de principes van de Organisatie voor Veiligheid en Samenwerking in Europa, Overtuigd dat deze samenwerking tot verdere verbreding van de vriendschappelijke betrekkingen en het wederzijds begrip tussen de volkeren der beide landen zal bijdragen, Ervan overtuigd dat deze samenwerking zal bijdragen tot de instandhouding en ontwikkeling van het meertalige en multiculturele karakter van Europa. Constaterende dat de bilaterale culturele samenwerking in nauwe relatie staat met Europese en internationale culturele samenwerking, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -110,10 +75,10 @@ TEN BLIJKE WAARVAN de ondertekenende gevolmachtigden, daartoe naar behoren gemac
 
 GEDAAN te Kiev op 18 juli 1996 in tweevoud in de Nederlandse en de Oekraïense taal, zijnde beide teksten gelijkelijk gezaghebbend.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) R. H. SERRY
 
-**Voor de Republiek Oekraïne**
+*Voor de Republiek Oekraïne*
 
 (w.g.) D. OSTAPENKO

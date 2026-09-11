@@ -4,11 +4,11 @@ identifier: "BWBR0048272"
 categorie: "Overig"
 soort: "reglement"
 publicatiedatum: 2023-06-13
-laatste_update: 2023-06-13
+laatste_update: 2026-09-09
 status: geldig
-toestand: 2023-06-13
+toestand: 2026-09-09
 bron: "https://wetten.overheid.nl/BWBR0048272"
-opgehaald: 2026-09-04
+opgehaald: 2026-09-11
 ---
 
 # Reglement van Orde van de Eerste Kamer der Staten-Generaal
@@ -97,11 +97,11 @@ Over de toelating van leden die na een verkiezing benoemd zijn verklaard beslist
 
 4. Indien de Voorzitter niet meer het vertrouwen van de Kamer bezit, ontslaat de Kamer hem en benoemt zij een nieuwe Voorzitter.
 
-5. Benoeming en ontslag van een Voorzitter geschiedt conform de [artikelen 89 tot en met 93](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VII&artikel=89&z=2023-06-13&g=2023-06-13) van dit Reglement.
+5. Benoeming en ontslag van een Voorzitter geschiedt conform de [artikelen 89 tot en met 93](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VII&artikel=89&z=2026-09-09&g=2026-09-09) van dit Reglement.
 
 ##### Artikel 8
 
-Nadat de Kamer een Voorzitter heeft benoemd, gaat zij over tot de benoeming van een eerste en een tweede Ondervoorzitter. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=II&artikel=7&z=2023-06-13&g=2023-06-13) is op de Ondervoorzitters van overeenkomstige toepassing.
+Nadat de Kamer een Voorzitter heeft benoemd, gaat zij over tot de benoeming van een eerste en een tweede Ondervoorzitter. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=II&artikel=7&z=2026-09-09&g=2026-09-09) is op de Ondervoorzitters van overeenkomstige toepassing.
 
 ##### Artikel 9
 
@@ -109,7 +109,7 @@ Nadat de Kamer een Voorzitter heeft benoemd, gaat zij over tot de benoeming van 
 
 2. Is geen gebruikgemaakt van het eerste lid, dan wordt bij afwezigheid van de Voorzitter het voorzitterschap van rechtswege waargenomen door de eerste, dan wel bij diens afwezigheid de tweede Ondervoorzitter.
 
-Is noch de Voorzitter, noch een van de Ondervoorzitters beschikbaar, dan wordt de Voorzitter vervangen overeenkomstig de regeling in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=II&artikel=6&z=2023-06-13&g=2023-06-13).
+Is noch de Voorzitter, noch een van de Ondervoorzitters beschikbaar, dan wordt de Voorzitter vervangen overeenkomstig de regeling in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=II&artikel=6&z=2026-09-09&g=2026-09-09).
 
 #### Taken van de Voorzitter
 
@@ -197,11 +197,17 @@ De Voorzitter is belast met:
 
 3. De naam van de fractie correspondeert met de aanduiding van de politieke groepering die of het nummer dat boven de lijst als bedoeld in het eerste lid was geplaatst.
 
+4. Indien de in het vorige lid bedoelde politieke groepering tijdens een zitting een andere naam aanneemt en deze naam overeenkomstig de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) bij het centraal stembureau heeft geregistreerd, is de fractie gerechtigd deze naam te voeren. Hiervan wordt de Voorzitter zo spoedig mogelijk op de hoogte gesteld.
+
+5. Het vorige lid is van overeenkomstige toepassing indien sprake is van een gezamenlijke lijst van twee of meer groeperingen en deze groeperingen besluiten samen te gaan.
+
 ##### Artikel 18
 
 1. Fracties kunnen besluiten samen te gaan en aldus een nieuwe fractie te vormen. Hiervan wordt de Voorzitter zo spoedig mogelijk op de hoogte gesteld.
 
 2. De naam van de nieuwe fractie bestaat uit de namen van de samengevoegde fracties, in de door hen gewenste volgorde.
+
+3. Indien tijdens een zitting ook de politieke groeperingen waartoe de samengevoegde fracties behoorden en die elk met een lijst aan de verkiezing van de Eerste Kamer hebben deelgenomen besluiten samen te gaan en hun naam overeenkomstig de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) bij het centraal stembureau hebben geregistreerd, is de nieuwe fractie gerechtigd deze naam te voeren. Hiervan wordt de Voorzitter zo spoedig mogelijk op de hoogte gesteld.
 
 ##### Artikel 19
 
@@ -217,7 +223,7 @@ De Voorzitter is belast met:
 
 - b. bij een verwijdering uit de fractie: door de fractie die een of meerdere leden uit de fractie heeft gezet.
 
-2. Leden die zich hebben afgescheiden of uit de fractie zijn gezet kunnen afzonderlijk of gezamenlijk nieuwe fracties vormen. Hiervan geven zij zo spoedig mogelijk kennis aan de Voorzitter. [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=II&artikel=19&z=2023-06-13&g=2023-06-13) is op deze nieuwgevormde fracties van overeenkomstige toepassing.
+2. Leden die zich hebben afgescheiden of uit de fractie zijn gezet kunnen afzonderlijk of gezamenlijk nieuwe fracties vormen. Hiervan geven zij zo spoedig mogelijk kennis aan de Voorzitter. [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=II&artikel=19&z=2026-09-09&g=2026-09-09) is op deze nieuwgevormde fracties van overeenkomstige toepassing.
 
 3. De nieuwe fracties als bedoeld in het tweede lid kunnen uitsluitend de naam van hun fractievoorzitter voeren.
 
@@ -227,9 +233,9 @@ De Voorzitter is belast met:
 
 1. Bij afzonderlijke regeling van de Kamer worden regels gesteld voor de toekenning en het beheer van een financiële bijdrage aan fracties ten behoeve van hun werkzaamheden.
 
-2. Deze regeling bepaalt de gevolgen van een samenvoeging als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=II&artikel=18&z=2023-06-13&g=2023-06-13).
+2. Deze regeling bepaalt de gevolgen van een samenvoeging als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=II&artikel=18&z=2026-09-09&g=2026-09-09).
 
-3. In deze regeling kan voor wat betreft de hoogte van de financiële bijdrage onderscheid worden gemaakt tussen fracties die bij aanvang van de zitting bestonden en nieuwe fracties als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=II&artikel=20&z=2023-06-13&g=2023-06-13).
+3. In deze regeling kan voor wat betreft de hoogte van de financiële bijdrage onderscheid worden gemaakt tussen fracties die bij aanvang van de zitting bestonden en nieuwe fracties als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=II&artikel=20&z=2026-09-09&g=2026-09-09).
 
 #### De griffie
 
@@ -389,7 +395,7 @@ Een rapport wordt na gereedkomen aan de Voorzitter aangeboden, die het naar de b
 
 1. Door de Kamer ontvangen stukken worden doorgeleid naar de meest betrokken commissie of commissies.
 
-2. Indien een commissie besluit een stuk in behandeling te nemen, kan zij daarbij de in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=III&artikel=38&z=2023-06-13&g=2023-06-13) genoemde bevoegdheden inzetten.
+2. Indien een commissie besluit een stuk in behandeling te nemen, kan zij daarbij de in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=III&artikel=38&z=2026-09-09&g=2026-09-09) genoemde bevoegdheden inzetten.
 
 3. Bij afzonderlijke regeling van de Kamer worden regels gesteld over de omgang met vertrouwelijke en staatsgeheime stukken.
 
@@ -449,7 +455,7 @@ Een rapport wordt na gereedkomen aan de Voorzitter aangeboden, die het naar de b
 
 ##### Artikel 47
 
-1. De verslagen bedoeld in de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=IV&artikel=45&z=2023-06-13&g=2023-06-13) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=IV&artikel=46&z=2023-06-13&g=2023-06-13) worden zo beknopt en duidelijk mogelijk opgesteld. Gelijkgerichte vragen en opmerkingen worden zo mogelijk gegroepeerd.
+1. De verslagen bedoeld in de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=IV&artikel=45&z=2026-09-09&g=2026-09-09) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=IV&artikel=46&z=2026-09-09&g=2026-09-09) worden zo beknopt en duidelijk mogelijk opgesteld. Gelijkgerichte vragen en opmerkingen worden zo mogelijk gegroepeerd.
 
 2. Nadat het verslag is gereedgemaakt en vastgesteld, wordt het, voorzien van de naam van de commissievoorzitter en de griffier van de commissie, dan wel de griffier voor het verslag, gezonden aan de betrokken ministers.
 
@@ -571,7 +577,7 @@ De Griffier en de plaatsvervangend griffiers dragen zorg voor het publiceren van
 
 1. Niemand voert het woord zonder het van de Voorzitter te hebben gekregen.
 
-2. Indien de Voorzitter zelf het woord wil voeren over het onderwerp dat aan de orde is, op een andere wijze dan nodig is ter uitvoering van de hem ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=II&artikel=10&z=2023-06-13&g=2023-06-13) opgedragen taken, verlaat hij de voorzittersstoel. Hij neemt die niet weer in zolang het onderwerp aan de orde is en wordt gedurende deze tijd vervangen overeenkomstig het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=II&artikel=9&z=2023-06-13&g=2023-06-13).
+2. Indien de Voorzitter zelf het woord wil voeren over het onderwerp dat aan de orde is, op een andere wijze dan nodig is ter uitvoering van de hem ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=II&artikel=10&z=2026-09-09&g=2026-09-09) opgedragen taken, verlaat hij de voorzittersstoel. Hij neemt die niet weer in zolang het onderwerp aan de orde is en wordt gedurende deze tijd vervangen overeenkomstig het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=II&artikel=9&z=2026-09-09&g=2026-09-09).
 
 3. De Voorzitter kan interrupties toelaten. Deze moeten bestaan uit korte opmerkingen of vragen.
 
@@ -601,7 +607,7 @@ De Griffier en de plaatsvervangend griffiers dragen zorg voor het publiceren van
 
 2. De Voorzitter of ten minste vijf leden kunnen een voorstel tot terugverwijzen als bedoeld in het vorige lid doen. De Kamer besluit onmiddellijk over het voorstel.
 
-3. Na de terugverwijzing kan de commissie gebruikmaken van haar bevoegdheden ingevolge [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=III&artikel=38&z=2023-06-13&g=2023-06-13).
+3. Na de terugverwijzing kan de commissie gebruikmaken van haar bevoegdheden ingevolge [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=III&artikel=38&z=2026-09-09&g=2026-09-09).
 
 #### Spreken van ministers en leden
 
@@ -679,9 +685,9 @@ Indien een spreker van het onderwerp in beraadslaging afwijkt, wijst de Voorzitt
 
 1. De Voorzitter kan een spreker het woord ontnemen, indien deze spreker:
 
-- a. ondanks een terugroeping als bedoeld in [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VI&artikel=70&z=2023-06-13&g=2023-06-13) doorgaat van het onderwerp in beraadslaging af te wijken;
+- a. ondanks een terugroeping als bedoeld in [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VI&artikel=70&z=2026-09-09&g=2026-09-09) doorgaat van het onderwerp in beraadslaging af te wijken;
 
-- b. ondanks een vermaning als bedoeld in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VI&artikel=71&z=2023-06-13&g=2023-06-13) doorgaat met het gebruik van beledigende en bedreigende uitdrukkingen, het verstoren van de orde, het betuigen van instemming met of het aansporen tot onwettige handelingen, dan wel het schenden van een plicht tot geheimhouding of tot het betrachten van vertrouwelijkheid.
+- b. ondanks een vermaning als bedoeld in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VI&artikel=71&z=2026-09-09&g=2026-09-09) doorgaat met het gebruik van beledigende en bedreigende uitdrukkingen, het verstoren van de orde, het betuigen van instemming met of het aansporen tot onwettige handelingen, dan wel het schenden van een plicht tot geheimhouding of tot het betrachten van vertrouwelijkheid.
 
 2. Een lid aan wie ingevolge het vorige lid het woord over een bepaald onderwerp ontnomen is, mag in de vergadering waarin dit plaatsvindt aan de beraadslagingen over dit onderwerp niet meer deelnemen.
 
@@ -697,13 +703,13 @@ De Voorzitter kan, indien hij dit met het oog op de vergaderorde noodzakelijk ac
 
 ##### Artikel 75
 
-1. Tegen de beslissingen van de Voorzitter ingevolge de [artikelen 70 tot en met 72](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VI&artikel=70&z=2023-06-13&g=2023-06-13) staat geen beroep op de Kamer open.
+1. Tegen de beslissingen van de Voorzitter ingevolge de [artikelen 70 tot en met 72](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VI&artikel=70&z=2026-09-09&g=2026-09-09) staat geen beroep op de Kamer open.
 
-2. Inzake de beslissingen van de Voorzitter ingevolge de [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VI&artikel=73&z=2023-06-13&g=2023-06-13) en [74](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VI&artikel=74&z=2023-06-13&g=2023-06-13) kan ieder lid direct na mededeling van de beslissing een besluit van de Kamer vragen. De Kamer besluit onmiddellijk en bevestigt of verwerpt het oordeel van de Voorzitter. Over het oordeel wordt niet beraadslaagd.
+2. Inzake de beslissingen van de Voorzitter ingevolge de [artikelen 73](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VI&artikel=73&z=2026-09-09&g=2026-09-09) en [74](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VI&artikel=74&z=2026-09-09&g=2026-09-09) kan ieder lid direct na mededeling van de beslissing een besluit van de Kamer vragen. De Kamer besluit onmiddellijk en bevestigt of verwerpt het oordeel van de Voorzitter. Over het oordeel wordt niet beraadslaagd.
 
 ##### Artikel 76
 
-De [artikelen 69 tot en met 72](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VI&artikel=69&z=2023-06-13&g=2023-06-13) en [75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VI&artikel=75&z=2023-06-13&g=2023-06-13), zijn van overeenkomstige toepassing op vergaderingen van commissies, waarbij voor ‘de Voorzitter’ kan worden gelezen: ‘de commissievoorzitter’, en voor ‘de Kamer’: ‘de commissie’.
+De [artikelen 69 tot en met 72](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VI&artikel=69&z=2026-09-09&g=2026-09-09) en [75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VI&artikel=75&z=2026-09-09&g=2026-09-09), zijn van overeenkomstige toepassing op vergaderingen van commissies, waarbij voor ‘de Voorzitter’ kan worden gelezen: ‘de commissievoorzitter’, en voor ‘de Kamer’: ‘de commissie’.
 
 #### Maximumspreektijden
 
@@ -711,7 +717,7 @@ De [artikelen 69 tot en met 72](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&
 
 1. De Voorzitter bepaalt de spreektijden over een voorstel van orde en een interpellatie.
 
-2. Hij kan eveneens ten behoeve van beraadslagingen over andere zaken dan wetsvoorstellen als bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=V&artikel=51&z=2023-06-13&g=2023-06-13), maximumspreektijden per fractie vaststellen voor de eerste termijn. Hierover raadpleegt hij zo spoedig mogelijk het College van fractievoorzitters.
+2. Hij kan eveneens ten behoeve van beraadslagingen over andere zaken dan wetsvoorstellen als bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=V&artikel=51&z=2026-09-09&g=2026-09-09), maximumspreektijden per fractie vaststellen voor de eerste termijn. Hierover raadpleegt hij zo spoedig mogelijk het College van fractievoorzitters.
 
 3. Indien het vorige lid toepassing vindt, houdt de Voorzitter bij de vaststelling van de maximumspreektijden rekening met de grootte van de fracties waartoe de sprekers behoren.
 
@@ -725,7 +731,7 @@ De [artikelen 69 tot en met 72](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&
 
 1. De Voorzitter kan de beraadslaging schorsen, indien hij dit met het oog op het verloop van de werkzaamheden of voor het handhaven van de orde wenselijk acht.
 
-2. In andere gevallen kan de Kamer over schorsing van de beraadslaging beslissen op voorstel van de Voorzitter of ten minste vijf aanwezige leden, die daartoe een voorstel van orde als bedoeld in [artikel 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VI&artikel=62&z=2023-06-13&g=2023-06-13), doen. Het voorstel bevat de tijdsduur waarvoor geschorst wordt.
+2. In andere gevallen kan de Kamer over schorsing van de beraadslaging beslissen op voorstel van de Voorzitter of ten minste vijf aanwezige leden, die daartoe een voorstel van orde als bedoeld in [artikel 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VI&artikel=62&z=2026-09-09&g=2026-09-09), doen. Het voorstel bevat de tijdsduur waarvoor geschorst wordt.
 
 #### Sluiting van de beraadslaging
 
@@ -751,7 +757,7 @@ De [artikelen 69 tot en met 72](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&
 
 4. Indien om stemmen bij hoofdelijke oproeping is verzocht, vindt de stemming in de volgende vergadering plaats, tenzij de Kamer anders besluit of dit Reglement anders bepaalt.
 
-5. Het derde en vierde lid zijn van overeenkomstige toepassing op de besluitvorming over voorstellen van orde als bedoeld in [artikel 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VI&artikel=62&z=2023-06-13&g=2023-06-13).
+5. Het derde en vierde lid zijn van overeenkomstige toepassing op de besluitvorming over voorstellen van orde als bedoeld in [artikel 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VI&artikel=62&z=2026-09-09&g=2026-09-09).
 
 ##### Artikel 81
 
@@ -771,7 +777,7 @@ Voor de stemming stelt de Voorzitter de leden in de gelegenheid korte verklaring
 
 4. Indien de uitslag van een stemming bij zitten en opstaan naar het oordeel van de Voorzitter of dat van een van de leden onduidelijk is, wordt op dezelfde wijze herstemd.
 
-5. Indien de uitslag vervolgens naar het oordeel van de Voorzitter of dat van een van de leden nog steeds onduidelijk is, wordt hoofdelijk herstemd. [Artikel 80, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VII&artikel=80&z=2023-06-13&g=2023-06-13), is van overeenkomstige toepassing.
+5. Indien de uitslag vervolgens naar het oordeel van de Voorzitter of dat van een van de leden nog steeds onduidelijk is, wordt hoofdelijk herstemd. [Artikel 80, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VII&artikel=80&z=2026-09-09&g=2026-09-09), is van overeenkomstige toepassing.
 
 ##### Artikel 84
 
@@ -795,7 +801,7 @@ Voor de stemming stelt de Voorzitter de leden in de gelegenheid korte verklaring
 
 ##### Artikel 87
 
-Indien tijdens de stemming wordt geconstateerd dat het quorum, als bedoeld in de [artikelen 52](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=V&artikel=52&z=2023-06-13&g=2023-06-13) en [53](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=V&artikel=53&z=2023-06-13&g=2023-06-13), niet meer aanwezig is, kan geen uitslag van de stemming worden vastgesteld. Zij wordt beschouwd als niet te zijn gehouden. De Voorzitter sluit, na te hebben geconstateerd dat het quorum niet aanwezig is, de vergadering.
+Indien tijdens de stemming wordt geconstateerd dat het quorum, als bedoeld in de [artikelen 52](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=V&artikel=52&z=2026-09-09&g=2026-09-09) en [53](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=V&artikel=53&z=2026-09-09&g=2026-09-09), niet meer aanwezig is, kan geen uitslag van de stemming worden vastgesteld. Zij wordt beschouwd als niet te zijn gehouden. De Voorzitter sluit, na te hebben geconstateerd dat het quorum niet aanwezig is, de vergadering.
 
 ##### Artikel 88
 
@@ -827,7 +833,7 @@ Indien een voorstel zonder stemming is aanvaard, kunnen in de vergaderzaal aanwe
 
 ##### Artikel 91
 
-Voor het tot stand komen van een keuze als bedoeld in [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VII&artikel=89&z=2023-06-13&g=2023-06-13) is de volstrekte meerderheid van de geldige stemmen vereist.
+Voor het tot stand komen van een keuze als bedoeld in [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VII&artikel=89&z=2026-09-09&g=2026-09-09) is de volstrekte meerderheid van de geldige stemmen vereist.
 
 ##### Artikel 92
 
@@ -885,7 +891,7 @@ Indien het voorstel door de Tweede Kamer ingediend werd, richt de Kamer zich tot
 
 ##### Artikel 97
 
-Van elke vergadering als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=V&artikel=49&z=2023-06-13&g=2023-06-13) en elke bijeenkomst als genoemd in [artikel 53, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=V&artikel=53&z=2023-06-13&g=2023-06-13), wordt een officieel verslag gemaakt.
+Van elke vergadering als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=V&artikel=49&z=2026-09-09&g=2026-09-09) en elke bijeenkomst als genoemd in [artikel 53, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=V&artikel=53&z=2026-09-09&g=2026-09-09), wordt een officieel verslag gemaakt.
 
 ##### Artikel 98
 
@@ -899,13 +905,13 @@ Het officiële verslag bevat:
 
 - d. de uitslagen van de stemmingen en, bij een hoofdelijke stemming, de namen van de leden die zich voor dan wel tegen verklaarden;
 
-- e. aantekening voor het geval een of meerdere leden gebruik hebben gemaakt van de mogelijkheid geboden in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VII&artikel=88&z=2023-06-13&g=2023-06-13);
+- e. aantekening voor het geval een of meerdere leden gebruik hebben gemaakt van de mogelijkheid geboden in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VII&artikel=88&z=2026-09-09&g=2026-09-09);
 
 - f. een opgave van alle door de Kamer of door de Voorzitter genomen besluiten.
 
 ##### Artikel 99
 
-1. De onderdelen van het officiële verslag, genoemd in het [vorige artikel onder b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VIII&artikel=97&z=2023-06-13&g=2023-06-13), worden gezamenlijk aangeduid met notulen.
+1. De onderdelen van het officiële verslag, genoemd in het [vorige artikel onder b tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VIII&artikel=97&z=2026-09-09&g=2026-09-09), worden gezamenlijk aangeduid met notulen.
 
 2. De notulen worden door de Voorzitter en de Griffier vastgesteld.
 
@@ -923,7 +929,7 @@ Het officiële verslag bevat:
 
 2. De Kamer beslist of de Dienst Verslag en Redactie met het maken hiervan wordt belast, dan wel de Griffier of een door hem aan te wijzen ambtenaar bij de griffie.
 
-3. De notulen uit dit verslag worden door de Voorzitter en de Griffier vastgesteld en ter vertrouwelijke kennisneming voor de leden bij de griffie ter inzage gelegd en behandeld overeenkomstig het bepaalde in [artikel 99, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VIII&artikel=99&z=2023-06-13&g=2023-06-13). Indien de Kamer overeenkomstig dit artikel om een uitspraak wordt gevraagd, worden de deuren gesloten voordat over de notulen wordt beraadslaagd.
+3. De notulen uit dit verslag worden door de Voorzitter en de Griffier vastgesteld en ter vertrouwelijke kennisneming voor de leden bij de griffie ter inzage gelegd en behandeld overeenkomstig het bepaalde in [artikel 99, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VIII&artikel=99&z=2026-09-09&g=2026-09-09). Indien de Kamer overeenkomstig dit artikel om een uitspraak wordt gevraagd, worden de deuren gesloten voordat over de notulen wordt beraadslaagd.
 
 4. De notulen worden afzonderlijk gehouden en bij de griffie bewaard.
 
@@ -955,7 +961,7 @@ Ander parlementair onderzoek dan bedoeld in het vorige artikel wordt uitgevoerd 
 
 3. Wanneer de Kamer het gevraagde verlof verleent, bepaalt de Voorzitter de dag waarop de interpellatie zal worden gehouden. Indien bij een interpellatie zeer veel spoed vereist is en de minister aanwezig is, kan de Voorzitter besluiten dat de interpellatie dadelijk wordt gehouden. De minister geeft dan dadelijk de gevraagde inlichtingen. Als dit niet mogelijk is, dan stelt de Voorzitter de verdere behandeling tot een later tijdstip uit.
 
-4. De interpellant dient, tenzij de interpellatie dadelijk wordt gehouden, zo spoedig mogelijk de vragen die hij bij de interpellatie zal stellen schriftelijk in bij de Voorzitter. Deze zendt ze aan de daarbij betrokken minister door, tenzij hij van oordeel is dat de vragen woorden als bedoeld in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VI&artikel=71&z=2023-06-13&g=2023-06-13) bevatten. Doorgezonden vragen brengt de Voorzitter ter kennis van de leden.
+4. De interpellant dient, tenzij de interpellatie dadelijk wordt gehouden, zo spoedig mogelijk de vragen die hij bij de interpellatie zal stellen schriftelijk in bij de Voorzitter. Deze zendt ze aan de daarbij betrokken minister door, tenzij hij van oordeel is dat de vragen woorden als bedoeld in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VI&artikel=71&z=2026-09-09&g=2026-09-09) bevatten. Doorgezonden vragen brengt de Voorzitter ter kennis van de leden.
 
 5. Bij een interpellatie voert de interpellant niet meer dan tweemaal en een ander lid niet meer dan eenmaal het woord, tenzij de Kamer verlof geeft voor een volgende termijn.
 
@@ -965,11 +971,11 @@ Ander parlementair onderzoek dan bedoeld in het vorige artikel wordt uitgevoerd 
 
 1. Het lid dat schriftelijke vragen wil stellen aan een minister dient deze vragen bij de Voorzitter in. De vragen dienen kort en duidelijk geformuleerd te zijn.
 
-2. De Voorzitter zendt de vragen aan de betrokken minister, tenzij hij van oordeel is dat de vragen woorden als bedoeld in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VI&artikel=71&z=2023-06-13&g=2023-06-13) bevatten.
+2. De Voorzitter zendt de vragen aan de betrokken minister, tenzij hij van oordeel is dat de vragen woorden als bedoeld in [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VI&artikel=71&z=2026-09-09&g=2026-09-09) bevatten.
 
 3. De Voorzitter brengt de doorgezonden vragen ter kennis van de leden en maakt deze openbaar.
 
-4. Het besluit van de Voorzitter vragen al dan niet door te zenden, is geen besluit in de zin van [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=II&artikel=16&z=2023-06-13&g=2023-06-13).
+4. Het besluit van de Voorzitter vragen al dan niet door te zenden, is geen besluit in de zin van [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=II&artikel=16&z=2026-09-09&g=2026-09-09).
 
 5. De vragen worden met de schriftelijke antwoorden opgenomen in het Aanhangsel van de Handelingen.
 
@@ -1019,7 +1025,7 @@ Er is een commissie voor de verzoekschriften. Haar samenstelling, taak en werkwi
 
 ##### Artikel 109
 
-1. Jaarlijks wordt het werkprogramma van de Europese Commissie in alle commissies als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=III&artikel=28&z=2023-06-13&g=2023-06-13), geagendeerd
+1. Jaarlijks wordt het werkprogramma van de Europese Commissie in alle commissies als bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=III&artikel=28&z=2026-09-09&g=2026-09-09), geagendeerd
 
 2. De commissies selecteren uit het werkprogramma die discussiedocumenten en ontwerpen van wetgevingshandelingen die zij direct na publicatie wensen te agenderen.
 
@@ -1031,7 +1037,7 @@ Er is een commissie voor de verzoekschriften. Haar samenstelling, taak en werkwi
 
 1. Discussiedocumenten en ontwerpen van wetgevingshandelingen die tot het Europees werkprogramma van de Eerste Kamer behoren, alsmede overige geselecteerde voorstellen worden na publicatie in een vergadering van de betrokken commissie geagendeerd teneinde de procedure te bepalen.
 
-2. De commissie besluit of zij bij de toetsing van een voorstel gebruik wenst te maken van de haar in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=III&artikel=38&z=2023-06-13&g=2023-06-13) toegekende bevoegdheden.
+2. De commissie besluit of zij bij de toetsing van een voorstel gebruik wenst te maken van de haar in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=III&artikel=38&z=2026-09-09&g=2026-09-09) toegekende bevoegdheden.
 
 3. De commissie kan tevens in overleg treden met de Europese instellingen, organen en instanties, en met de nationale parlementen van andere lidstaten van de Europese Unie.
 
@@ -1089,7 +1095,7 @@ Onder de benaming Algemene Europese Beschouwingen beraadslaagt de Kamer jaarlijk
 
 ##### Artikel 116
 
-1. Binnen de in [artikel 115](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=XII&artikel=115&z=2023-06-13&g=2023-06-13) genoemde termijn kunnen een of meer leden de Voorzitter verzoeken hun gelegenheid te geven over een overgelegd verdrag aan een minister inlichtingen te vragen.
+1. Binnen de in [artikel 115](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=XII&artikel=115&z=2026-09-09&g=2026-09-09) genoemde termijn kunnen een of meer leden de Voorzitter verzoeken hun gelegenheid te geven over een overgelegd verdrag aan een minister inlichtingen te vragen.
 
 2. De Voorzitter nodigt daarop de betrokken minister uit om de gevraagde inlichtingen mondeling of schriftelijk te verstrekken.
 
@@ -1135,11 +1141,11 @@ Het bepaalde in de vorige artikelen van dit hoofdstuk is van overeenkomstige toe
 
 1. Voor zover de wet hierin voorziet, kan de wens als bedoeld in het vorige artikel aan de betrokken minister te kennen worden gegeven:
 
-- a. door de Kamer, onder overeenkomstige toepassing van [artikel 117](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=XII&artikel=117&z=2023-06-13&g=2023-06-13),
+- a. door de Kamer, onder overeenkomstige toepassing van [artikel 117](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=XII&artikel=117&z=2026-09-09&g=2026-09-09),
 
-- b. namens de Kamer, onder overeenkomstige toepassing van [artikel 118](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=XII&artikel=118&z=2023-06-13&g=2023-06-13);
+- b. namens de Kamer, onder overeenkomstige toepassing van [artikel 118](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=XII&artikel=118&z=2026-09-09&g=2026-09-09);
 
-- c. door een in de wet genoemd aantal leden, onder overeenkomstige toepassing van [119](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=XII&artikel=119&z=2023-06-13&g=2023-06-13).
+- c. door een in de wet genoemd aantal leden, onder overeenkomstige toepassing van [119](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=XII&artikel=119&z=2026-09-09&g=2026-09-09).
 
 ### Hoofdstuk XIII. Behartiging van aangelegenheden van het Koninkrijk
 
@@ -1161,17 +1167,17 @@ Wanneer de gevolmachtigde ministers of de daartoe aangewezen bijzondere gedelege
 
 ##### Artikel 127
 
-De [artikelen 66](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VI&artikel=66&z=2023-06-13&g=2023-06-13) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VI&artikel=68&z=2023-06-13&g=2023-06-13) zijn van overeenkomstige toepassing, met dien verstande dat in deze artikelen in plaats van “een lid dat” moet worden gelezen “een bijzondere gedelegeerde die”, in plaats van “een lid” telkens moet worden gelezen “een bijzondere gedelegeerde” en in plaats van “leden” telkens moet worden gelezen “leden of bijzondere gedelegeerden”.
+De [artikelen 66](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VI&artikel=66&z=2026-09-09&g=2026-09-09) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=VI&artikel=68&z=2026-09-09&g=2026-09-09) zijn van overeenkomstige toepassing, met dien verstande dat in deze artikelen in plaats van “een lid dat” moet worden gelezen “een bijzondere gedelegeerde die”, in plaats van “een lid” telkens moet worden gelezen “een bijzondere gedelegeerde” en in plaats van “leden” telkens moet worden gelezen “leden of bijzondere gedelegeerden”.
 
 ##### Artikel 128
 
-Wanneer de Kamer op grond van [artikel 104](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=IX&artikel=104&z=2023-06-13&g=2023-06-13) aan een lid gelegenheid heeft gegeven om over een aangelegenheid van het Koninkrijk aan een minister inlichtingen te vragen, stelt de Voorzitter de gevolmachtigde ministers in de gelegenheid de behandeling van die interpellatie bij te wonen en daarbij zodanige voorlichting aan de Kamer te verstrekken als zij gewenst oordelen.
+Wanneer de Kamer op grond van [artikel 104](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=IX&artikel=104&z=2026-09-09&g=2026-09-09) aan een lid gelegenheid heeft gegeven om over een aangelegenheid van het Koninkrijk aan een minister inlichtingen te vragen, stelt de Voorzitter de gevolmachtigde ministers in de gelegenheid de behandeling van die interpellatie bij te wonen en daarbij zodanige voorlichting aan de Kamer te verstrekken als zij gewenst oordelen.
 
 ##### Artikel 129
 
-1. Bij de behandeling van verdragen die Aruba, Curaçao of Sint Maarten raken, wordt bij toepassing van de [artikelen 115 tot en met 119](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=XII&artikel=115&z=2023-06-13&g=2023-06-13) de bij het [tweede lid van artikel 24 van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=24) aan de gevolmachtigde ministers toegekende bevoegdheid in acht genomen.
+1. Bij de behandeling van verdragen die Aruba, Curaçao of Sint Maarten raken, wordt bij toepassing van de [artikelen 115 tot en met 119](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=XII&artikel=115&z=2026-09-09&g=2026-09-09) de bij het [tweede lid van artikel 24 van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=24) aan de gevolmachtigde ministers toegekende bevoegdheid in acht genomen.
 
-2. In het bijzonder worden de gevolmachtigde ministers in de gelegenheid gesteld de mondelinge behandeling van vragen en voorstellen als bedoeld in de [artikelen 116](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=XII&artikel=116&z=2023-06-13&g=2023-06-13) en [117](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=XII&artikel=117&z=2023-06-13&g=2023-06-13) bij te wonen en daarbij zodanige voorlichting aan de Kamer te verstrekken als zij gewenst oordelen.
+2. In het bijzonder worden de gevolmachtigde ministers in de gelegenheid gesteld de mondelinge behandeling van vragen en voorstellen als bedoeld in de [artikelen 116](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=XII&artikel=116&z=2026-09-09&g=2026-09-09) en [117](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=XII&artikel=117&z=2026-09-09&g=2026-09-09) bij te wonen en daarbij zodanige voorlichting aan de Kamer te verstrekken als zij gewenst oordelen.
 
 ### Hoofdstuk XIV. Integriteit en ongewenste omgangsvormen
 
@@ -1221,13 +1227,13 @@ De voorsteller is gerechtigd om tot aan de eindstemming wijzigingen in het voors
 
 ##### Artikel 136
 
-1. Een voorstel tot wijziging van het Reglement wordt door een commissie als bedoeld in [artikel 133, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=XV&artikel=133&z=2023-06-13&g=2023-06-13), behandeld op dezelfde wijze als een wetsvoorstel dat aan een commissie is toevertrouwd, waarbij de voorsteller in de plaats treedt van de minister.
+1. Een voorstel tot wijziging van het Reglement wordt door een commissie als bedoeld in [artikel 133, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=XV&artikel=133&z=2026-09-09&g=2026-09-09), behandeld op dezelfde wijze als een wetsvoorstel dat aan een commissie is toevertrouwd, waarbij de voorsteller in de plaats treedt van de minister.
 
 2. De commissie kan amendementen indienen op het voorstel.
 
 3. Indien tijdens het voorbereidend onderzoek amendementen bij de griffie zijn binnengekomen, geven de voorsteller en de commissie in de te wisselen stukken hun oordeel over deze amendementen.
 
-4. De voorsteller kan niet in de commissie als bedoeld in [artikel 133, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=XV&artikel=133&z=2023-06-13&g=2023-06-13), deelnemen aan het voorbereidend onderzoek van een door hem ingediend voorstel.
+4. De voorsteller kan niet in de commissie als bedoeld in [artikel 133, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=XV&artikel=133&z=2026-09-09&g=2026-09-09), deelnemen aan het voorbereidend onderzoek van een door hem ingediend voorstel.
 
 #### Mandaat uitoefening rechten
 
@@ -1259,7 +1265,7 @@ De voorsteller is gerechtigd om tot aan de eindstemming wijzigingen in het voors
 
 ##### Artikel 139
 
-1. Indien het voorstel in de loop van de beraadslagingen wijzigingen heeft ondergaan, kan de Kamer besluiten de eindbeslissing tot een volgende vergadering uit te stellen. In de tussentijd beraadt de commissie bedoeld in [artikel 133, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=XV&artikel=133&z=2023-06-13&g=2023-06-13), zich in overleg met de voorsteller over het voorstellen van mogelijke wijzigingen die door de aangebrachte wijzigingen of door de verwerping van artikelen noodzakelijk zijn geworden of die strekken tot herstellen van kennelijke vergissingen.
+1. Indien het voorstel in de loop van de beraadslagingen wijzigingen heeft ondergaan, kan de Kamer besluiten de eindbeslissing tot een volgende vergadering uit te stellen. In de tussentijd beraadt de commissie bedoeld in [artikel 133, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=XV&artikel=133&z=2026-09-09&g=2026-09-09), zich in overleg met de voorsteller over het voorstellen van mogelijke wijzigingen die door de aangebrachte wijzigingen of door de verwerping van artikelen noodzakelijk zijn geworden of die strekken tot herstellen van kennelijke vergissingen.
 
 2. Over de aldus voorgestelde wijzigingen en de artikelen waarop zij betrekking hebben wordt de beraadslaging heropend, tenzij de Kamer besluit onmiddellijk over de voorgestelde wijzigingen te beslissen.
 
@@ -1269,7 +1275,7 @@ De voorsteller is gerechtigd om tot aan de eindstemming wijzigingen in het voors
 
 ##### Artikel 140
 
-De artikelen van [Hoofdstuk XV](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=XV&z=2023-06-13&g=2023-06-13) van dit Reglement zijn van overeenkomstige toepassing op voorstellen tot vaststelling of wijziging van de overige op grond van dit Reglement door de Kamer vast te stellen regelingen.
+De artikelen van [Hoofdstuk XV](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=XV&z=2026-09-09&g=2026-09-09) van dit Reglement zijn van overeenkomstige toepassing op voorstellen tot vaststelling of wijziging van de overige op grond van dit Reglement door de Kamer vast te stellen regelingen.
 
 ##### Artikel 141
 
@@ -1291,7 +1297,7 @@ De Kamer kan te allen tijde besluiten van de bepalingen van dit Reglement af te 
 
 ##### Artikel IV
 
-Zolang de Kamer de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=II&artikel=21&z=2023-06-13&g=2023-06-13) van het Reglement van Orde bedoelde regeling niet heeft vastgesteld, blijft de Regeling financiële ondersteuning fracties Eerste Kamer van de Huishoudelijke Commissie van 10 december 2020 van kracht.
+Zolang de Kamer de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0048272&hoofdstuk=II&artikel=21&z=2026-09-09&g=2026-09-09) van het Reglement van Orde bedoelde regeling niet heeft vastgesteld, blijft de Regeling financiële ondersteuning fracties Eerste Kamer van de Huishoudelijke Commissie van 10 december 2020 van kracht.
 
 ##### Artikel V
 

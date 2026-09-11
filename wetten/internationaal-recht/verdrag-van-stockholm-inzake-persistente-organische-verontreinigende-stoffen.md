@@ -2,577 +2,538 @@
 title: "Verdrag van Stockholm inzake persistente organische verontreinigende stoffen"
 identifier: "BWBV0001517"
 categorie: "Internationaal recht"
-publicatiedatum: 2025-02-26
-laatste_update: 2026-05-26
+soort: "verdrag"
+publicatiedatum: 2004-05-17
+laatste_update: 2025-02-26
 status: geldig
+toestand: 2025-02-26
 bron: "https://wetten.overheid.nl/BWBV0001517"
+opgehaald: 2026-09-11
 ---
 
 # Verdrag van Stockholm inzake persistente organische verontreinigende stoffen
 
-De Partijen bij dit Verdrag,
+*The Parties to this Convention, Recognizing that persistent organic pollutants possess toxic properties, resist degradation, bioaccumulate and are transported, through air, water and migratory species, across international boundaries and deposited far from their place of release, where they accumulate in terrestrial and aquatic ecosystems, Aware of the health concerns, especially in developing countries, resulting from local exposure to persistent organic pollutants, in particular impacts upon women and, through them, upon future generations, Acknowledging that the Arctic ecosystems and indigenous communities are particularly at risk because of the biomagnification of persistent organic pollutants and that contamination of their traditional foods is a public health issue, Conscious of the need for global action on persistent organic pollutants, Mindful of decision 19/13 C of 7 February 1997 of the Governing Council of the United Nations Environment Programme to initiate international action to protect human health and the environment through measures which will reduce and/or eliminate emissions and discharges of persistent organic pollutants, Recalling the pertinent provisions of the relevant international environmental conventions, especially the Rotterdam Convention on the Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade, and the Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal including the regional agreements developed within the framework of its Article 11, Recalling also the pertinent provisions of the Rio Declaration on Environment and Development and Agenda 21, Acknowledging that precaution underlies the concerns of all the Parties and is embedded within this Convention, Recognizing that this Convention and other international agreements in the field of trade and the environment are mutually supportive, Reaffirming that States have, in accordance with the Charter of the United Nations and the principles of international law, the sovereign right to exploit their own resources pursuant to their own environmental and developmental policies, and the responsibility to ensure that activities within their jurisdiction or control do not cause damage to the environment of other States or of areas beyond the limits of national jurisdiction, Taking into account the circumstances and particular requirements of developing countries, in particular the least developed among them, and countries with economies in transition, especially the need to strengthen their national capabilities for the management of chemicals, including through the transfer of technology, the provision of financial and technical assistance and the promotion of cooperation among the Parties, Taking full account of the Programme of Action for the Sustainable Development of Small Island Developing States, adopted in Barbados on 6 May 1994, Noting the respective capabilities of developed and developing countries, as well as the common but differentiated responsibilities of States as set forth in Principle 7 of the Rio Declaration on Environment and Development, Recognizing the important contribution that the private sector and non-governmental organizations can make to achieving the reduction and/or elimination of emissions and discharges of persistent organic pollutants, Underlining the importance of manufacturers of persistent organic pollutants taking responsibility for reducing adverse effects caused by their products and for providing information to users, Governments and the public on the hazardous properties of those chemicals, Conscious of the need to take measures to prevent adverse effects caused by persistent organic pollutants at all stages of their life cycle, Reaffirming Principle 16 of the Rio Declaration on Environment and Development which states that national authorities should endeavour to promote the internalization of environmental costs and the use of economic instruments, taking into account the approach that the polluter should, in principle, bear the cost of pollution, with due regard to the public interest and without distorting international trade and investment, Encouraging Parties not having regulatory and assessment schemes for pesticides and industrial chemicals to develop such schemes, Recognizing the importance of developing and using environmentally sound alternative processes and chemicals, Determined to protect human health and the environment from the harmful impacts of persistent organic pollutants, Have agreed as follows:*
 
-Erkennend dat persistente organische verontreinigende stoffen toxische eigenschappen bezitten, ongevoelig zijn voor degradatie, bioaccumuleren en door de lucht, via water en door migrerende diersoorten worden meegevoerd over internationale grenzen en ver van hun plaats van oorsprong neerslaan, waar zij accumuleren in ecosystemen op het land en in het water,
+##### Article 1. Objective
 
-Zich bewust van de zorgen op het gebied van de volksgezondheid, in het bijzonder in ontwikkelingslanden, als gevolg van de lokale blootstelling aan persistente verontreinigende stoffen, en met name de gevolgen voor vrouwen en via hen, voor de toekomstige generaties,
+Mindful of the precautionary approach as set forth in Principle 15 of the Rio Declaration on Environment and Development, the objective of this Convention is to protect human health and the environment from persistent organic pollutants.
 
-Erkennend dat de arctische ecosystemen en inheemse gemeenschappen bijzonder bedreigd worden als gevolg van de biomagnificatie van persistente organische verontreinigende stoffen en dat de besmetting van hun traditionele voedsel de volksgezondheid raakt,
+##### Article 2. Definitions
 
-Zich bewust van de behoefte aan mondiale maatregelen op het gebied van persistente organische verontreinigende stoffen,
+For the purposes of this Convention:
 
-Indachtig besluit 19/13 C van 7 februari 1997 van de Beheerraad van het Milieuprogramma van de Verenigde Naties (UNEP) voor het initiëren van internationale activiteiten ter bescherming van de gezondheid van de mens en van het milieu, in de vorm van maatregelen ter vermindering en/of beëindiging van emissies en vrijkomingen van persistente organische verontreinigende stoffen,
+- a) “Party” means a State or regional economic integration organization that has consented to be bound by this Convention and for which the Convention is in force;
 
-In herinnering roepend de van toepassing zijnde bepalingen van de relevante internationale milieuverdragen, met name het [Verdrag van Rotterdam inzake voorafgaande geïnformeerde toestemming ten aanzien van gevaarlijke chemische stoffen en pesticiden in de internationale handel](https://wetten.overheid.nl/jci1.3:c:BWBV0001432), en het [Verdrag van Bazel inzake de beheersing van grensoverschrijdende overbrenging van gevaarlijke afvalstoffen en de verwijdering ervan](https://wetten.overheid.nl/jci1.3:c:BWBV0002081), met inbegrip van de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0002081&artikel=11) van dat Verdrag bedoelde regionale overeenkomsten,
+- b) “Regional economic integration organization” means an organization constituted by sovereign States of a given region to which its member States have transferred competence in respect of matters governed by this Convention and which has been duly authorized, in accordance with its internal procedures, to sign, ratify, accept, approve or accede to this Convention;
 
-Mede in herinnering roepend de relevante bepalingen van de Verklaring van Rio inzake Milieu en Ontwikkeling en Agenda 21,
+- c) “Parties present and voting” means Parties present and casting an affirmative or negative vote.
 
-Erkennend dat alle Partijen zich achter het voorzorgsbeginsel scharen, dat in dit Verdrag is verankerd,
+##### Article 3. Measures to reduce or eliminate releases from intentional production and use
 
-Erkennend dat dit Verdrag en andere internationale overeenkomsten op het terrein van handel en milieu elkaar ondersteunen,
+1. Each Party shall:
 
-Herbevestigend dat de Staten, in overeenstemming met het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) en de grondbeginselen van het internationale recht, het soevereine recht hebben hun eigen hulpbronnen te exploiteren volgens hun eigen milieu- en ontwikkelingsbeleid, en de verantwoordelijkheid te waarborgen dat activiteiten onder hun rechtsmacht of toezicht geen schade veroorzaken aan het milieu van andere Staten of van gebieden die buiten de grenzen van de nationale rechtsmacht vallen,
+- a) Prohibit and/or take the legal and administrative measures necessary to eliminate:
 
-Rekening houdend met de omstandigheden en bijzondere behoeften van ontwikkelingslanden, in het bijzonder de minstontwikkelde landen hiervan, en landen met een overgangseconomie, in het bijzonder de behoefte aan versterking van hun nationale capaciteit voor het beheren van chemische stoffen, onder meer door de overdracht van technologie, de verschaffing van financiële en technische hulp en de bevordering van samenwerking tussen de Partijen,
+   - (i) Its production and use of the chemicals listed in [Annex A](https://wetten.overheid.nl/BWBV0001517) subject to the provisions of [that Annex](https://wetten.overheid.nl/BWBV0001517); and
 
-Ten volle rekening houdend met het Actieprogramma voor duurzame ontwikkeling van kleine eilandstaten die in ontwikkeling zijn, aangenomen op Barbados op 6 mei 1994,
+   - (ii) Its import and export of the chemicals listed in [Annex A](https://wetten.overheid.nl/BWBV0001517) in accordance with the provisions of paragraph 2; and
 
-Gelet op de respectieve capaciteit van ontwikkelde en ontwikkelingslanden alsmede de gemeenschappelijke maar gedifferentieerde verantwoordelijkheden van Staten zoals vervat in Beginsel 7 van de Verklaring van Rio inzake Milieu en Ontwikkeling,
+- b) Restrict its production and use of the chemicals listed in [Annex B](https://wetten.overheid.nl/BWBV0001517) in accordance with the provisions of [that Annex](https://wetten.overheid.nl/BWBV0001517).
 
-Erkennend de belangrijke bijdrage die de private sector en niet-gouvernementele organisaties kunnen leveren bij het realiseren van de beperking en/of beëindiging van emissies en vrijkomingen van persistente organische verontreinigende stoffen,
+2. Each Party shall take measures to ensure:
 
-Benadrukkend het belang dat fabrikanten van persistente organische verontreinigende stoffen de verantwoordelijkheid op zich nemen voor de terugdringing van de door hun producten veroorzaakte nadelige effecten en voor de voorlichting van gebruikers, regeringen en het publiek met betrekking tot de gevaarlijke eigenschappen van deze chemische stoffen,
+- a) That a chemical listed in [Annex A](https://wetten.overheid.nl/BWBV0001517) or [Annex B](https://wetten.overheid.nl/BWBV0001517) is imported only:
 
-Zich bewust van de noodzaak maatregelen te nemen ter voorkoming van de nadelige effecten veroorzaakt door persistente organische verontreinigende stoffen in alle fasen van hun levenscyclus,
+   - (i) For the purpose of environmentally sound disposal as set forth in [paragraph 1 (d) of Article 6](https://wetten.overheid.nl/BWBV0001517); or
 
-Herbevestigend Beginsel 16 van de Verklaring van Rio inzake Milieu en Ontwikkeling ingevolge welk nationale autoriteiten zich zouden moeten inspannen om te bevorderen dat milieukosten worden geïnternaliseerd en economische instrumenten worden toegepast, er rekening mee houdend dat de vervuiler in beginsel de kosten van de verontreiniging behoort te dragen, met inachtneming van het publieke belang en zonder de internationale handel en investeringen te verstoren,
+   - (ii) For a use or purpose which is permitted for that Party under [Annex A](https://wetten.overheid.nl/BWBV0001517) or [Annex B](https://wetten.overheid.nl/BWBV0001517);
 
-De Partijen die geen systemen voor regelgeving en beoordeling voor pesticiden en industriële chemische stoffen hebben, aanmoedigend dergelijke systemen te ontwikkelen,
+- b) That a chemical listed in [Annex A](https://wetten.overheid.nl/BWBV0001517) for which any production or use specific exemption is in effect or a chemical listed in [Annex B](https://wetten.overheid.nl/BWBV0001517) for which any production or use specific exemption or acceptable purpose is in effect, taking into account any relevant provisions in existing international prior informed consent instruments, is exported only:
 
-Erkennend het belang van de ontwikkeling en het gebruik van milieuverantwoorde alternatieve procédés en chemische stoffen,
+   - (i) For the purpose of environmentally sound disposal as set forth in [paragraph 1 d) of Article 6](https://wetten.overheid.nl/BWBV0001517);
 
-Vastberaden de gezondheid van de mens en het milieu te beschermen tegen de schadelijke effecten van persistente organische verontreinigende stoffen,
+   - (ii) To a Party which is permitted to use that chemical [under Annex A](https://wetten.overheid.nl/BWBV0001517) or [Annex B](https://wetten.overheid.nl/BWBV0001517); or
 
-Zijn het volgende overeengekomen:
+   - (iii) To a State not Party to this Convention which has provided an annual certification to the exporting Party. Such certification shall specify the intended use of the chemical and include a statement that, with respect to that chemical, the importing State is committed to: The certification shall also include any appropriate supporting documentation, such as legislation, regulatory instruments, or administrative or policy guidelines. The exporting Party shall transmit the certification to the Secretariat within sixty days of receipt.
 
-##### Artikel 1. Doel
+      - a) Protect human health and the environment by taking the necessary measures to minimize or prevent releases;
 
-Indachtig de voorzorgsbenadering zoals bedoeld in Beginsel 15 van de Verklaring van Rio inzake Milieu en Ontwikkeling, is het doel van dit Verdrag de gezondheid van de mens en het milieu te beschermen tegen persistente organische verontreinigende stoffen.
+      - b) Comply with the provisions of [paragraph 1 of Article 6](https://wetten.overheid.nl/BWBV0001517); and
 
-##### Artikel 2. Begripsomschrijvingen
+      - c) Comply, where appropriate, with the provisions of [paragraph 2 of Part II of Annex B](https://wetten.overheid.nl/BWBV0001517).
 
-Voor de toepassing van dit Verdrag wordt verstaan onder:
+- c) That a chemical listed in [Annex A](https://wetten.overheid.nl/BWBV0001517), for which production and use specific exemptions are no longer in effect for any Party, is not exported from it except for the purpose of environmentally sound disposal as set forth in [paragraph 1 (d) of Article 6](https://wetten.overheid.nl/BWBV0001517);
 
-- a. „Partij”, een Staat of regionale organisatie voor economische integratie die ermee heeft ingestemd door dit Verdrag te worden gebonden en ten aanzien waarvan het Verdrag in werking is getreden;
+- d) For the purposes of this paragraph, the term ``State not Party to this Convention" shall include, with respect to a particular chemical, a State or regional economic integration organization that has not agreed to be bound by the Convention with respect to that chemical.
 
-- b. „Regionale organisatie voor economische integratie”, een organisatie samengesteld uit soevereine Staten van een bepaalde regio aan welke de lidstaten daarvan de bevoegdheid ten aanzien van bij dit Verdrag geregelde aangelegenheden hebben overgedragen en welke in overeenstemming met haar interne procedures naar behoren gemachtigd is dit Verdrag te ondertekenen, te bekrachtigen, te aanvaarden, goed te keuren of hiertoe toe te treden;
+3. Each Party that has one or more regulatory and assessment schemes for new pesticides or new industrial chemicals shall take measures to regulate with the aim of preventing the production and use of new pesticides or new industrial chemicals which, taking into consideration the criteria in [paragraph 1 of Annex D](https://wetten.overheid.nl/BWBV0001517), exhibit the characteristics of persistent organic pollutants.
 
-- c. „Aanwezige Partijen die hun stem uitbrengen”: Partijen die aanwezig zijn en voor- of tegenstemmen.
+4. Each Party that has one or more regulatory and assessment schemes for pesticides or industrial chemicals shall, where appropriate, take into consideration within these schemes the criteria in [paragraph 1 of Annex D](https://wetten.overheid.nl/BWBV0001517) when conducting assessments of pesticides or industrial chemicals currently in use.
 
-##### Artikel 3. Maatregelen ter beperking of beëindiging van vrijkoming bij opzettelijke productie en gebruik
+5. Except as otherwise provided in this Convention, paragraphs 1 and 2 shall not apply to quantities of a chemical to be used for laboratory-scale research or as a reference standard.
 
-1. Elke Partij:
+6. Any Party that has a specific exemption in accordance with [Annex A](https://wetten.overheid.nl/BWBV0001517) or a specific exemption or an acceptable purpose in accordance with [Annex B](https://wetten.overheid.nl/BWBV0001517) shall take appropriate measures to ensure that any production or use under such exemption or purpose is carried out in a manner that prevents or minimizes human exposure and release into the environment. For exempted uses or acceptable purposes that involve intentional release into the environment under conditions of normal use, such release shall be to the minimum extent necessary, taking into account any applicable standards and guidelines.
 
-- a. verbiedt en/of treft de nodige wettelijke en bestuurlijke maatregelen ter beëindiging van:
+##### Article 4. Register of specific exemptions
 
-  - i. haar productie en gebruik van de in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26) vermelde chemische stoffen, overeenkomstig de bepalingen van [die Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26); en
+1. A Register is hereby established for the purpose of identifying the Parties that have specific exemptions listed in [Annex A](https://wetten.overheid.nl/BWBV0001517) or [Annex B](https://wetten.overheid.nl/BWBV0001517). It shall not identify Parties that make use of the provisions in [Annex A](https://wetten.overheid.nl/BWBV0001517) or [Annex B](https://wetten.overheid.nl/BWBV0001517) that may be exercised by all Parties. The Register shall be maintained by the Secretariat and shall be available to the public.
 
-  - ii. haar invoer en uitvoer van de in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26) vermelde chemische stoffen, in overeenstemming met de bepalingen van het tweede lid; en
+2. The Register shall include:
 
-- b. beperkt de productie en het gebruik van de in [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) genoemde chemische stoffen, in overeenstemming met de bepalingen van [die Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26).
+- a) A list of the types of specific exemptions reproduced from [Annex A](https://wetten.overheid.nl/BWBV0001517) and [Annex B](https://wetten.overheid.nl/BWBV0001517);
 
-2. Elke Partij treft maatregelen om te waarborgen:
+- b) A list of the Parties that have a specific exemption listed under [Annex A](https://wetten.overheid.nl/BWBV0001517) or [Annex B](https://wetten.overheid.nl/BWBV0001517); and
 
-- a. dat een in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26) of [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) vermelde chemische stof uitsluitend wordt ingevoerd:
+- c) A list of the expiry dates for each registered specific exemption.
 
-  - i. ten behoeve van een milieuverantwoorde verwijdering zoals bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&artikel=6&z=2025-02-26&g=2025-02-26); of
+3. Any State may, on becoming a Party, by means of a notification in writing to the Secretariat, register for one or more types of specific exemptions listed in [Annex A](https://wetten.overheid.nl/BWBV0001517) or [Annex B](https://wetten.overheid.nl/BWBV0001517).
 
-  - ii. voor een gebruik of doel dat voor die Partij is toegestaan ingevolge [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26) of [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26);
+4. Unless an earlier date is indicated in the Register by a Party, or an extension is granted pursuant to paragraph 7, all registrations of specific exemptions shall expire five years after the date of entry into force of this Convention with respect to a particular chemical.
 
-- b. dat een in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26) vermelde chemische stof ten aanzien waarvan een specifieke uitzondering voor productie of gebruik geldt of een in [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) vermelde chemische stof ten aanzien waarvan een specifieke uitzondering voor productie of gebruik of voor een aanvaardbaar doel geldt, met inachtneming van de desbetreffende bepalingen van internationale instrumenten inzake voorafgaande geïnformeerde toestemming, uitsluitend wordt uitgevoerd: De goedkeuring omvat tevens passende ondersteunende documenten, zoals wet- en regelgeving, bestuurlijke richtsnoeren of beleidslijnen. De exporterende Partij verzendt de goedkeuring binnen zestig dagen na ontvangst naar het Secretariaat;
+5. At its first meeting, the Conference of the Parties shall decide upon its review process for the entries in the Register.
 
-  - i. ten behoeve van een milieuverantwoorde verwijdering zoals bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&artikel=6&z=2025-02-26&g=2025-02-26);
+6. Prior to a review of an entry in the Register, the Party concerned shall submit a report to the Secretariat justifying its continuing need for registration of that exemption. The report shall be circulated by the Secretariat to all Parties. The review of a registration shall be carried out on the basis of all available information. Thereupon, the Conference of the Parties may make such recommendations to the Party concerned as it deems appropriate.
 
-  - ii. naar een Partij aan wie het ingevolge [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26) of [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) is toegestaan die chemische stof te gebruiken; of
+7. The Conference of the Parties may, upon request from the Party concerned, decide to extend the expiry date of a specific exemption for a period of up to five years. In making its decision, the Conference of the Parties shall take due account of the special circumstances of the developing country Parties and Parties with economies in transition.
 
-  - iii. naar een Staat die geen Partij is bij dit Verdrag, die een jaarlijkse verklaring aan de exporterende Partij heeft verleend. In een dergelijke verklaring wordt het beoogde gebruik van de chemische stof vermeld en wordt aangegeven dat de importerende Staat zich er met betrekking tot die chemische stof toe verplicht:
+8. A Party may, at any time, withdraw an entry from the Register for a specific exemption upon written notification to the Secretariat. The withdrawal shall take effect on the date specified in the notification.
 
-    - a. de gezondheid van de mens en het milieu te beschermen door de nodige maatregelen te treffen om vrijkoming tot een minimum te beperken of te voorkomen;
+9. When there are no longer any Parties registered for a particular type of specific exemption, no new registrations may be made with respect to it.
 
-    - b. de bepalingen van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&artikel=6&z=2025-02-26&g=2025-02-26), na te leven; en
+##### Article 5. Measures to reduce or eliminate releases from unintentional production
 
-    - c. in voorkomend geval de bepalingen van [Bijlage B, Deel II, punt 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&deel=II&z=2025-02-26&g=2025-02-26), na te leven.
+Each Party shall at a minimum take the following measures to reduce the total releases derived from anthropogenic sources of each of the chemicals listed in [Annex C](https://wetten.overheid.nl/BWBV0001517), with the goal of their continuing minimization and, where feasible, ultimate elimination:
 
-- c. dat een in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26) vermelde chemische stof, ten aanzien waarvan specifieke uitzonderingen voor productie en specifiek gebruik niet langer voor een Partij van kracht zijn, niet door deze Partij wordt uitgevoerd, behoudens ten behoeve van de in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&artikel=6&z=2025-02-26&g=2025-02-26), bedoelde milieuverantwoorde verwijdering ervan;
+- a) Develop an action plan or, where appropriate, a regional or subregional action plan within two years of the date of entry into force of this Convention for it, and subsequently implement it as part of its implementation plan specified in [Article 7](https://wetten.overheid.nl/BWBV0001517), designed to identify, characterize and address the release of the chemicals listed in [Annex C](https://wetten.overheid.nl/BWBV0001517) and to facilitate implementation of subparagraphs b) to e). The action plan shall include the following elements:
 
-- d. voor de toepassing van dit lid omvat de term „Staat die geen Partij is bij dit Verdrag”, ten aanzien van een bepaalde chemische stof, een Staat of regionale organisatie voor economische integratie die er niet mee heeft ingestemd ten aanzien van die chemische stof door het Verdrag te worden gebonden.
+   - (i) An evaluation of current and projected releases, including the development and maintenance of source inventories and release estimates, taking into consideration the source categories identified in [Annex C](https://wetten.overheid.nl/BWBV0001517);
 
-3. Elke Partij die een of meerdere systemen heeft voor regelgeving en beoordeling van nieuwe pesticiden of nieuwe industriële chemische stoffen, neemt maatregelen ter regulering ter voorkoming van de productie en het gebruik van nieuwe pesticiden of nieuwe industriële chemische stoffen die, met inachtneming van de in [Bijlage D, punt 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=D&artikel=1&z=2025-02-26&g=2025-02-26) bedoelde criteria, de kenmerken van persistente organische verontreinigende stoffen bezitten.
+   - (ii) An evaluation of the efficacy of the laws and policies of the Party relating to the management of such releases;
 
-4. Elke Partij die een of meerdere systemen heeft voor regelgeving en beoordeling van pesticiden of industriële chemische stoffen houdt daarbij, waar dienstig, rekening met de in [Bijlage D, punt 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=D&artikel=1&z=2025-02-26&g=2025-02-26), bedoelde criteria bij de beoordeling van de thans in gebruik zijnde pesticiden of industriële chemische stoffen.
+   - (iii) Strategies to meet the obligations of this paragraph, taking into account the evaluations in (i) and (ii);
 
-5. Behoudens wanneer in dit Verdrag anders wordt aangegeven, zijn het eerste en tweede lid niet van toepassing op hoeveelheden van een chemische stof die worden gebruikt ten behoeve van laboratoriumonderzoek of als referentienorm.
+   - (iv) Steps to promote education and training with regard to, and awareness of, those strategies;
 
-6. Elke Partij waarvoor een specifieke uitzondering in overeenstemming met [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26) of een specifieke uitzondering of een acceptabel doel in overeenstemming met [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) geldt, treft passende maatregelen om te waarborgen dat productie of gebruik onder die uitzondering of met dat doel zodanig wordt uitgevoerd dat blootstelling van de mens of vrijkoming in het milieu wordt voorkomen of zoveel mogelijk wordt tegengegaan. In geval van uitgezonderde gebruiken of voor acceptabele doeleinden waarbij opzettelijke vrijkomingen in het milieu plaatsvinden onder normale gebruiksomstandigheden, worden deze vrijkomingen tot het noodzakelijke minimum beperkt, met inachtneming van de toepasselijke normen en richtsnoeren.
+   - (v) A review every five years of those strategies and of their success in meeting the obligations of this paragraph; such reviews shall be included in reports submitted pursuant to [Article 15](https://wetten.overheid.nl/BWBV0001517);
 
-##### Artikel 4. Register van specifieke uitzonderingen
+   - (vi) A schedule for implementation of the action plan, including for the strategies and measures identified therein;
 
-1. Hierbij wordt een register ingesteld ten behoeve van de identificatie van de Partijen waarvoor specifieke uitzonderingen gelden als bedoeld in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26) of [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26). Hierin worden niet de Partijen vermeld die gebruik maken van de bepalingen van [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26) of [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) waarop door alle Partijen een beroep kan worden gedaan. Het register wordt door het Secretariaat bijgehouden en is toegankelijk voor het publiek.
+- b) Promote the application of available, feasible and practical measures that can expeditiously achieve a realistic and meaningful level of release reduction or source elimination;
 
-2. Het register omvat:
+- c) Promote the development and, where it deems appropriate, require the use of substitute or modified materials, products and processes to prevent the formation and release of the chemicals listed in [Annex C](https://wetten.overheid.nl/BWBV0001517), taking into consideration the general guidance on prevention and release reduction measures in [Annex C](https://wetten.overheid.nl/BWBV0001517) and guidelines to be adopted by decision of the Conference of the Parties;
 
-- a. een lijst van de soorten specifieke uitzonderingen van [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26) en [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26);
+- d) Promote and, in accordance with the implementation schedule of its action plan, require the use of best available techniques for new sources within source categories which a Party has identified as warranting such action in its action plan, with a particular initial focus on source categories identified in [Part II of Annex C](https://wetten.overheid.nl/BWBV0001517). In any case, the requirement to use best available techniques for new sources in the categories listed in [Part II of that Annex](https://wetten.overheid.nl/BWBV0001517) shall be phased in as soon as practicable but no later than four years after the entry into force of the Convention for that Party. For the identified categories, Parties shall promote the use of best environmental practices. When applying best available techniques and best environmental practices, Parties should take into consideration the general guidance on prevention and release reduction measures in [that Annex](https://wetten.overheid.nl/BWBV0001517) and guidelines on best available techniques and best environmental practices to be adopted by decision of the Conference of the Parties;
 
-- b. een lijst van de Partijen die een specifieke uitzondering genieten als bedoeld in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26) of [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26); en
+- e) Promote, in accordance with its action plan, the use of best available techniques and best environmental practices: When applying best available techniques and best environmental practices, Parties should take into consideration the general guidance on prevention and release reduction measures in [Annex C](https://wetten.overheid.nl/BWBV0001517) and guidelines on best available techniques and best environmental practices to be adopted by decision of the Conference of the Parties;
 
-- c. een lijst met de verloopdatum van elke geregistreerde specifieke uitzondering.
+   - (i) For existing sources, within the source categories listed in [Part II of Annex C](https://wetten.overheid.nl/BWBV0001517) and within source categories such as those in [Part III of that Annex](https://wetten.overheid.nl/BWBV0001517); and
 
-3. Elke Staat die Partij wordt, kan zich door middel van een schriftelijke kennisgeving aan het Secretariaat voor een of meerdere soorten in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26) of [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) genoemde specifieke uitzonderingen laten inschrijven.
+   - (ii) For new sources, within source categories such as those listed in [Part III of Annex C](https://wetten.overheid.nl/BWBV0001517) which a Party has not addressed under subparagraph (d).
 
-4. Tenzij door een Partij in het register een eerdere datum is vermeld, of ingevolge het zevende lid een verlenging heeft plaatsgevonden, verlopen alle registraties van specifieke uitzonderingen vijf jaren na de datum van inwerkingtreding van dit Verdrag ten aanzien van een bepaalde chemische stof.
+- f) For the purposes of this paragraph and [Annex C](https://wetten.overheid.nl/BWBV0001517):
 
-5. Tijdens haar eerste vergadering neemt de Conferentie van de Partijen een besluit omtrent de toetsingsprocedure voor inschrijvingen in het register.
+   - (i) “Best available techniques” means the most effective and advanced stage in the development of activities and their methods of operation which indicate the practical suitability of particular techniques for providing in principle the basis for release limitations designed to prevent and, where that is not practicable, generally to reduce releases of chemicals listed in [Part I of Annex C](https://wetten.overheid.nl/BWBV0001517) and their impact on the environment as a whole. In this regard:
 
-6. Voorafgaand aan de toetsing van een inschrijving in het register dient de desbetreffende Partij een rapport bij het Secretariaat in waarin de behoefte aan voortgezette registratie van die uitzondering wordt gemotiveerd. Dit rapport wordt door het Secretariaat onder alle Partijen verspreid. De toetsing van een registratie wordt uitgevoerd op basis van alle beschikbare informatie. De Conferentie van de Partijen kan de betrokken Partij in dit verband alle door haar nodig geachte aanbevelingen doen.
+   - (ii) “Techniques” includes both the technology used and the way in which the installation is designed, built, maintained, operated and decommissioned;
 
-7. De Conferentie van de Partijen kan, op verzoek van de betrokken Partij, besluiten de vervaltermijn van een specifieke ontheffing met een termijn van maximaal vijf jaren te verlengen. Bij de besluitvorming houdt de Conferentie van de Partijen naar behoren rekening met de bijzondere omstandigheden van de Partijen die ontwikkelingslanden zijn en van de Partijen met een overgangseconomie.
+   - (iii) “Available” techniques means those techniques that are accessible to the operator and that are developed on a scale that allows implementation in the relevant industrial sector, under economically and technically viable conditions, taking into consideration the costs and advantages; and
 
-8. Een Partij kan te allen tijde een inschrijving in het register voor een specifieke uitzondering intrekken door middel van schriftelijke kennisgeving aan het Secretariaat. De intrekking wordt van kracht op de in de kennisgeving vermelde datum.
+   - (iv) “Best” means most effective in achieving a high general level of protection of the environment as a whole;
 
-9. Wanneer geen Partijen meer ingeschreven zijn voor een bepaalde soort specifieke uitzondering, kunnen ten aanzien van deze uitzondering geen nieuwe inschrijvingen plaatsvinden.
+   - (v) “Best environmental practices” means the application of the most appropriate combination of environmental control measures and strategies;
 
-##### Artikel 5. Maatregelen ter beperking of beëindiging van vrijkomingen afkomstig van onopzettelijke productie
+   - (vi) “New source” means any source of which the construction or substantial modification is commenced at least one year after the date of:
 
-Elke Partij treft ten minste de volgende maatregelen ter beperking van de totale vrijkomingen afkomstig uit antropogene bronnen van elk van de in [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26) vermelde chemische stoffen, met het doel deze vrijkomingen permament te reduceren en, waar mogelijk, deze uiteindelijk te beëindigen:
+      - a) Entry into force of this Convention for the Party concerned; or
 
-- a. ontwikkeling van een actieplan of, waar dienstig, een regionaal of subregionaal actieplan, binnen twee jaren nadat het Verdrag voor haar in werking is getreden, en uitvoering hiervan als onderdeel van haar uitvoeringsplan zoals bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&artikel=7&z=2025-02-26&g=2025-02-26), dat is ontworpen ten behoeve van de identificatie, karakterisering en aanpak van vrijkomingen van de in [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26) vermelde chemische stoffen en ter vergemakkelijking van de implementatie van de leden b tot en met e. Het actieplan omvat de volgende onderdelen:
+      - b) Entry into force for the Party concerned of an amendment to [Annex C](https://wetten.overheid.nl/BWBV0001517) where the source becomes subject to the provisions of this Convention only by virtue of that amendment.
 
-  - i. een evaluatie van de huidige en voorziene vrijkomingen, met inbegrip van het opstellen en bijhouden van broninventarisaties en schattingen van vrijkomingen, rekening houdend met de in [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26) vermelde broncategorieën;
+- g) Release limit values or performance standards may be used by a Party to fulfill its commitments for best available techniques under this paragraph.
 
-  - ii. een evaluatie van de doeltreffendheid van door de Partij toegepaste wetten en beleidslijnen met betrekking tot de beheersing van deze vrijkomingen;
+##### Article 6. Measures to reduce or eliminate releases from stockpiles and wastes
 
-  - iii. strategieën teneinde te voldoen aan de naleving van de in dit lid bedoelde verplichtingen, met inachtneming van de onder i en ii bedoelde evaluaties;
+1. In order to ensure that stockpiles consisting of or containing chemicals listed either in [Annex A](https://wetten.overheid.nl/BWBV0001517) or [Annex B](https://wetten.overheid.nl/BWBV0001517) and wastes, including products and articles upon becoming wastes, consisting of, containing or contaminated with a chemical listed in [Annex A](https://wetten.overheid.nl/BWBV0001517), [B](https://wetten.overheid.nl/BWBV0001517) or [C](https://wetten.overheid.nl/BWBV0001517), are managed in a manner protective of human health and the environment, each Party shall:
 
-  - iv. maatregelen te bevordering van educatie en training op het terrein van deze strategieën en bewustwording hiervan;
+- a) Develop appropriate strategies for identifying:
 
-  - v. een vijfjaarlijkse toetsing van die strategieën om te beoordelen of de verplichtingen uit hoofde van dit lid zijn nagekomen; de resultaten van deze toetsingen worden opgenomen in de ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&artikel=15&z=2025-02-26&g=2025-02-26) ingediende rapporten;
+   - (i) Stockpiles consisting of or containing chemicals listed either in [Annex A](https://wetten.overheid.nl/BWBV0001517) or [Annex B](https://wetten.overheid.nl/BWBV0001517); and
 
-  - vi. een tijdschema voor de uitvoering van het actieplan, alsmede voor de daarin vervatte strategieën en maatregelen;
+   - (ii) Products and articles in use and wastes consisting of, containing or contaminated with a chemical listed in [Annex A](https://wetten.overheid.nl/BWBV0001517), [B](https://wetten.overheid.nl/BWBV0001517) or [C](https://wetten.overheid.nl/BWBV0001517);
 
-- b. bevordering van de toepassing van beschikbare, haalbare en praktische maatregelen die het mogelijk maken snel een realistische en aanzienlijke terugdringing van vrijkomingen of de uitschakeling van de bron te bereiken;
+- b) Identify, to the extent practicable, stockpiles consisting of or containing chemicals listed either in[Annex A](https://wetten.overheid.nl/BWBV0001517) or [Annex B](https://wetten.overheid.nl/BWBV0001517) on the basis of the strategies referred to in subparagraph a);
 
-- c. bevordering van de ontwikkeling en, wanneer zij zulks dienstig acht, het eisen van de gebruikmaking van vervangende of gewijzigde materialen, producten en processen ter voorkoming van de vorming en uitstoot van de in [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26) vermelde algemene richtsnoeren inzake preventie en maatregelen ter beperking van de uitstoot, met inachtneming van de in [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26) vermelde algemene richtsnoeren inzake preventieve maatregelen en maatregelen ter beperking van vrijkomingen en van de richtsnoeren die bij besluit van de Conferentie van de Partijen worden aangenomen;
+- c) Manage stockpiles, as appropriate, in a safe, efficient and environmentally sound manner. Stockpiles of chemicals listed either in [Annex A](https://wetten.overheid.nl/BWBV0001517) or [Annex B](https://wetten.overheid.nl/BWBV0001517), after they are no longer allowed to be used according to any specific exemption specified in [Annex A](https://wetten.overheid.nl/BWBV0001517) or any specific exemption or acceptable purpose specified in [Annex B](https://wetten.overheid.nl/BWBV0001517), except stockpiles which are allowed to be exported according to [paragraph 2 of Article 3](https://wetten.overheid.nl/BWBV0001517), shall be deemed to be waste and shall be managed in accordance with subparagraph d);
 
-- d. het bevorderen en, in overeenstemming met het tijdschema voor de uitvoering van haar actieplan, het eisen dat gebruik wordt gemaakt van de beste beschikbare technieken voor nieuwe bronnen binnen broncategorieën waarvan een Partij in haar actieplan heeft vermeld dat deze een dergelijke actie rechtvaardigen, met aanvankelijk bijzondere nadruk op de in [Deel II van Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&deel=II&z=2025-02-26&g=2025-02-26) vermelde broncategorieën. In elk geval wordt de eis de beste beschikbare technieken te gebruiken voor nieuwe bronnen binnen de in Deel II van die Bijlage vermelde categorieën zo snel als praktisch mogelijk is, ingevoerd, doch uiterlijk vier jaren nadat het Verdrag voor die Partij in werking is getreden. Voor de geïdentificeerde categorieën bevorderen de Partijen het gebruik van de beste milieupraktijken. Bij de toepassing van de beste beschikbare technieken en de beste milieupraktijken houden de Partijen rekening met de algemene richtsnoeren inzake maatregelen ter preventie en beperking van vrijkomingen bedoeld in [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26) en met de bij besluit door de Conferentie van de Partijen aan te nemen richtsnoeren inzake de beste beschikbare technieken en de beste milieupraktijken;
+- d) Take appropriate measures so that such wastes, including products and articles upon becoming wastes, are:
 
-- e. het, in overeenstemming met haar actieplan, bevorderen van het gebruik van de beste beschikbare technieken en de beste milieupraktijken: Bij de toepassing van de beste beschikbare technieken en de beste milieupraktijken houden de Partijen rekening met de algemene richtsnoeren inzake maatregelen ter preventie en beperking van vrijkomingen bedoeld in [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26) en met de bij besluit door de Conferentie van de Partijen aan te nemen richtsnoeren inzake de beste beschikbare technieken en de beste milieupraktijken;
+   - (i) Handled, collected, transported and stored in an environmentally sound manner;
 
-  - i. voor bestaande bronnen, binnen de in [Deel II van Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&deel=II&z=2025-02-26&g=2025-02-26) vermelde broncategorieën en binnen broncategorieën als die in [Deel III van die Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&deel=III&z=2025-02-26&g=2025-02-26); en
+   - (ii) Disposed of in such a way that the persistent organic pollutant content is destroyed or irreversibly transformed so that they do not exhibit the characteristics of persistent organic pollutants or otherwise disposed of in an environmentally sound manner when destruction or irreversible transformation does not represent the environmentally preferable option or the persistent organic pollutant content is low, taking into account international rules, standards, and guidelines, including those that may be developed pursuant to paragraph 2, and relevant global and regional regimes governing the management of hazardous wastes;
 
-  - ii. voor nieuwe bronnen, binnen de in [Deel III van Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&deel=III&z=2025-02-26&g=2025-02-26) vermelde broncategorieën die een Partij niet uit hoofde van onderdeel d heeft aangepakt.
+   - (iii) Not permitted to be subjected to disposal operations that may lead to recovery, recycling, reclamation, direct reuse or alternative uses of persistent organic pollutants; and
 
-- f. voor de toepassing van dit lid en [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26) wordt verstaan onder:
+   - (iv) Not transported across international boundaries without taking into account relevant international rules, standards and guidelines;
 
-  - i. „beste beschikbare technieken", het meest doeltreffende en geavanceerde ontwikkelingsstadium van de activiteiten en toepassingsmethoden, waarbij de praktische bruikbaarheid van bepaalde technieken om in beginsel te fungeren als uitgangspunt voor de vrijkomingsbeperkingen is aangetoond, met het doel de vrijkomingen te voorkomen en, wanneer dat niet mogelijk blijkt, vrijkomingen van de in [Deel I van Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&deel=I&z=2025-02-26&g=2025-02-26) vermelde chemische stoffen en de effecten op het milieu in zijn geheel te beperken. In dit verband wordt verstaan onder:
+- e) Endeavour to develop appropriate strategies for identifying sites contaminated by chemicals listed in [Annex A](https://wetten.overheid.nl/BWBV0001517), [B](https://wetten.overheid.nl/BWBV0001517) or [C](https://wetten.overheid.nl/BWBV0001517); if remediation of those sites is undertaken it shall be performed in an environmentally sound manner.
 
-  - ii. „technieken", zowel de gebruikte technologie als de wijze waarop de installatie wordt ontworpen, gebouwd, onderhouden, geëxploiteerd en ontmanteld;
+2. The Conference of the Parties shall cooperate closely with the appropriate bodies of the [Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal](https://wetten.overheid.nl/jci1.3:c:BWBV0002081) to, *inter alia*:
 
-  - iii. „beschikbare" technieken, technieken die voor de gebruiker beschikbaar zijn en die zijn ontwikkeld op een schaal die toepassing in de desbetreffende industriesector mogelijk maakt, onder economisch en technisch mogelijke voorwaarden, met inachtneming van de kosten en voordelen; en
+- a) Establish levels of destruction and irreversible transformation necessary to ensure that the characteristics of persistent organic pollutants as specified in [paragraph 1 of Annex D](https://wetten.overheid.nl/BWBV0001517) are not exhibited;
 
-  - iv. „beste", het meest doeltreffend voor het bereiken van een hoog algemeen niveau van bescherming van het milieu in zijn geheel;
+- b) Determine what they consider to be the methods that constitute environmentally sound disposal referred to above; and
 
-  - v. „beste milieupraktijken", toepassing van de meest geschikte combinatie van maatregelen en strategieën ten behoeve van milieubeheer;
+- c) Work to establish, as appropriate, the concentration levels of the chemicals listed in [Annexes A](https://wetten.overheid.nl/BWBV0001517), [B](https://wetten.overheid.nl/BWBV0001517) and [C](https://wetten.overheid.nl/BWBV0001517) in order to define the low persistent organic pollutant content referred to in paragraph 1 d) (ii).
 
-  - vi. „nieuwe bron", een bron waarvan de bouw of ingrijpende wijziging is aangevangen ten minste een jaar na de datum van:
+##### Article 7. Implementation plans
 
-    - a. de inwerkingtreding van dit Verdrag ten aanzien van de betrokken Partij; of
+1. Each Party shall:
 
-    - b. de inwerkingtreding ten aanzien van de betrokken Partij van een wijziging van [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26) wanneer de bron uitsluitend uit hoofde van die wijziging onderworpen wordt aan de bepalingen van dit Verdrag.
+- a) Develop and endeavour to implement a plan for the implementation of its obligations under this Convention;
 
-- g. voor de vervulling van haar verplichtingen ingevolge dit lid kan een Partij emissiegrenswaarden of uitvoeringsnormen hanteren.
+- b) Transmit its implementation plan to the Conference of the Parties within two years of the date on which this Convention enters into force for it; and
 
-##### Artikel 6. Maatregelen ter beperking of beëindiging van vrijkomingen uit voorraden en afval
+- c) Review and update, as appropriate, its implementation plan on a periodic basis and in a manner to be specified by a decision of the Conference of the Parties.
 
-1. Teneinde te waarborgen dat voorraden bestaande uit in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26) of [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) vermelde chemische stoffen, of die deze bevatten, en afval, met inbegrip van producten en artikelen wanneer deze afval worden, die bestaan uit in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26), [B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) of [C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26) vermelde chemische stoffen of deze bevatten of hiermee zijn verontreinigd, worden beheerd op een wijze die rekening houdt met de bescherming van de gezondheid van de mens en van het milieu, zal elke Partij:
+2. The Parties shall, where appropriate, cooperate directly or through global, regional and subregional organizations, and consult their national stakeholders, including women's groups and groups involved in the health of children, in order to facilitate the development, implementation and updating of their implementation plans.
 
-- a. geschikte strategieën ontwikkelen voor de identificatie van:
+3. The Parties shall endeavour to utilize and, where necessary, establish the means to integrate national implementation plans for persistent organic pollutants in their sustainable development strategies where appropriate.
 
-  - i. voorraden bestaande uit chemische stoffen vermeld in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26) of [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26), of die deze bevatten; en
+##### Article 8. Listing of chemicals in Annexes A, B and C
 
-  - ii. producten en artikelen in gebruik en afval bestaande uit chemische stoffen vermeld in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26), [B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) of [C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26), of die deze bevatten of hiermee zijn verontreinigd;
+1. A Party may submit a proposal to the Secretariat for listing a chemical in [Annexes A](https://wetten.overheid.nl/BWBV0001517), [B](https://wetten.overheid.nl/BWBV0001517) and/or [C](https://wetten.overheid.nl/BWBV0001517). The proposal shall contain the information specified in [Annex D](https://wetten.overheid.nl/BWBV0001517). In developing a proposal, a Party may be assisted by other Parties and/or by the Secretariat.
 
-- b. voor zover praktisch uitvoerbaar voorraden bestaande uit chemische stoffen vermeld in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26) of [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26), of die deze bevatten, identificeren op basis van de in onderdeel a bedoelde strategieën;
+2. The Secretariat shall verify whether the proposal contains the information specified in [Annex D](https://wetten.overheid.nl/BWBV0001517). If the Secretariat is satisfied that the proposal contains the information so specified, it shall forward the proposal to the Persistent Organic Pollutants Review Committee.
 
-- c. waar dienstig voorraden op een veilige, doeltreffende en milieuverantwoorde wijze beheren. Nadat voorraden van chemische stoffen vermeld in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26) of [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) niet langer mogen worden gebruikt overeenkomstig een in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26) vermelde specifieke uitzondering of een in [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) vermelde specifieke uitzondering of acceptabel doel worden deze, behoudens voorraden die mogen worden uitgevoerd overeenkomstig [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&artikel=3&z=2025-02-26&g=2025-02-26), aangemerkt als afval en worden deze beheerd in overeenstemming met onderdeel d;
+3. The Committee shall examine the proposal and apply the screening criteria specified in [Annex D](https://wetten.overheid.nl/BWBV0001517) in a flexible and transparent way, taking all information provided into account in an integrative and balanced manner.
 
-- d. passende maatregelen treffen om te waarborgen dat dergelijk afval, met inbegrip van producten en artikelen wanneer deze afval worden:
+4. If the Committee decides that:
 
-  - i. op milieuverantwoorde wijze worden bewerkt, ingezameld, vervoerd en opgeslagen;
+- a) It is satisfied that the screening criteria have been fulfilled, it shall, through the Secretariat, make the proposal and the evaluation of the Committee available to all Parties and observers and invite them to submit the information specified in [Annex E](https://wetten.overheid.nl/BWBV0001517); or
 
-  - ii. op zodanige wijze worden verwijderd dat de persistente organische verontreinigende stoffen die zij bevatten worden vernietigd of zodanig onomkeerbaar worden omgezet dat deze niet langer de eigenschappen van persistente organische verontreinigende stoffen vertonen of anderszins op een milieuverantwoorde wijze worden verwijderd wanneer vernietiging of onomkeerbare omzetting uit milieuoogpunt niet de wenselijke oplossing is of het gehalte aan persistente organische verontreinigende stoffen laag is, met inachtneming van de internationale regels, normen en richtsnoeren, met inbegrip van die welke ingevolge het tweede lid kunnen worden ontwikkeld, en de relevante mondiale en regionale stelsels die van toepassing zijn op het beheer van gevaarlijke afvalstoffen;
+- b) It is not satisfied that the screening criteria have been fulfilled, it shall, through the Secretariat, inform all Parties and observers and make the proposal and the evaluation of the Committee available to all Parties and the proposal shall be set aside.
 
-  - iii. niet mogen worden onderworpen aan verwijderingshandelingen die kunnen leiden tot herwinning, recycling, terugwinning, rechtstreeks hergebruik of alternatieve gebruikstoepassingen van persistente organische verontreinigende stoffen; en
+5. Any Party may resubmit a proposal to the Committee that has been set aside by the Committee pursuant to paragraph 4. The resubmission may include any concerns of the Party as well as a justification for additional consideration by the Committee. If, following this procedure, the Committee again sets the proposal aside, the Party may challenge the decision of the Committee and the Conference of the Parties shall consider the matter at its next session. The Conference of the Parties may decide, based on the screening criteria in [Annex D](https://wetten.overheid.nl/BWBV0001517) and taking into account the evaluation of the Committee and any additional information provided by any Party or observer, that the proposal should proceed.
 
-  - iv. niet over internationale grenzen worden vervoerd zonder inachtneming van de relevante internationale regels, normen en richtsnoeren;
+6. Where the Committee has decided that the screening criteria have been fulfilled, or the Conference of the Parties has decided that the proposal should proceed, the Committee shall further review the proposal, taking into account any relevant additional information received, and shall prepare a draft risk profile in accordance with [Annex E](https://wetten.overheid.nl/BWBV0001517). It shall, through the Secretariat, make that draft available to all Parties and observers, collect technical comments from them and, taking those comments into account, complete the risk profile.
 
-- e. ernaar streven passende strategieën te ontwikkelen voor het in kaart brengen van locaties die zijn verontreinigd met in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26), [B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) of [C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26) vermelde chemische stoffen; indien sanering van die locaties plaatsvindt, geschiedt dit op een milieuverantwoorde wijze.
+7. If, on the basis of the risk profile conducted in accordance with [Annex E](https://wetten.overheid.nl/BWBV0001517), the Committee decides:
 
-2. De Vergadering van de Partijen werkt nauw samen met de desbetreffende organen van het [Verdrag van Bazel inzake de beheersing van de grensoverschrijdende overbrenging van gevaarlijke afvalstoffen en de verwijdering ervan](https://wetten.overheid.nl/jci1.3:c:BWBV0002081) teneinde, onder meer:
+- a) That the chemical is likely as a result of its long-range environmental transport to lead to significant adverse human health and/or environmental effects such that global action is warranted, the proposal shall proceed. Lack of full scientific certainty shall not prevent the proposal from proceeding. The Committee shall, through the Secretariat, invite information from all Parties and observers relating to the considerations specified in [Annex F](https://wetten.overheid.nl/BWBV0001517). It shall then prepare a risk management evaluation that includes an analysis of possible control measures for the chemical in accordance with [that Annex](https://wetten.overheid.nl/BWBV0001517); or
 
-- a. niveaus van vernietiging en onomkeerbare omzetting vast te stellen die nodig zijn om te waarborgen dat de eigenschappen van persistente organische verontreinigende stoffen als bedoeld in [punt 1 van Bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=D&artikel=1&z=2025-02-26&g=2025-02-26) niet aanwezig zijn;
+- b) That the proposal should not proceed, it shall, through the Secretariat, make the risk profile available to all Parties and observers and set the proposal aside.
 
-- b. te bepalen welke methoden zij aanmerken als zijnde de hierboven bedoelde milieuverantwoorde verwijdering; en
+8. For any proposal set aside pursuant to paragraph 7 (b), a Party may request the Conference of the Parties to consider instructing the Committee to invite additional information from the proposing Party and other Parties during a period not to exceed one year. After that period and on the basis of any information received, the Committee shall reconsider the proposal pursuant to paragraph 6 with a priority to be decided by the Conference of the Parties. If, following this procedure, the Committee again sets the proposal aside, the Party may challenge the decision of the Committee and the Conference of the Parties shall consider the matter at its next session. The Conference of the Parties may decide, based on the risk profile prepared in accordance with [Annex E](https://wetten.overheid.nl/BWBV0001517) and taking into account the evaluation of the Committee and any additional information provided by any Party or observer, that the proposal should proceed. If the Conference of the Parties decides that the proposal shall proceed, the Committee shall then prepare the risk management evaluation.
 
-- c. zich inspannen om, waar nodig, de concentraties van de in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26), [B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) of [C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26) vermelde chemische stoffen vast te stellen teneinde het lage gehalte aan persistente organische verontreinigende stoffen als bedoeld in het eerste lid, onderdeel d, onder ii, te definiëren.
+9. The Committee shall, based on the risk profile referred to in paragraph 6 and the risk management evaluation referred to in paragraph 7 (a) or paragraph 8, recommend whether the chemical should be considered by the Conference of the Parties for listing in [Annexes A](https://wetten.overheid.nl/BWBV0001517), [B](https://wetten.overheid.nl/BWBV0001517) and/or [C](https://wetten.overheid.nl/BWBV0001517). The Conference of the Parties, taking due account of the recommendations of the Committee, including any scientific uncertainty, shall decide, in a precautionary manner, whether to list the chemical, and specify its related control measures, in [Annexes A](https://wetten.overheid.nl/BWBV0001517), [B](https://wetten.overheid.nl/BWBV0001517) and/or [C](https://wetten.overheid.nl/BWBV0001517).
 
-##### Artikel 7. Uitvoeringsplannen
+##### Article 9. Information exchange
 
-1. Elke Partij:
+1. Each Party shall facilitate or undertake the exchange of information relevant to:
 
-- a. ontwikkelt een plan voor de uitvoering van haar verplichtingen uit hoofde van dit Verdrag en streeft naar de implementatie van dit plan;
+- a) The reduction or elimination of the production, use and release of persistent organic pollutants; and
 
-- b. doet haar uitvoeringsplan binnen twee jaren, te rekenen vanaf de datum waarop dit Verdrag ten aanzien van haar in werking treedt, aan de Conferentie van de Partijen toekomen; en
+- b) Alternatives to persistent organic pollutants, including information relating to their risks as well as to their economic and social costs.
 
-- c. herziet en actualiseert waar nodig haar uitvoeringsplan periodiek en op een wijze die bij besluit door de Conferentie van de Partijen nader wordt bepaald.
+2. The Parties shall exchange the information referred to in paragraph 1 directly or through the Secretariat.
 
-2. De Partijen werken, waar nodig, rechtstreeks of via mondiale, regionale of subregionale organisaties samen en plegen overleg met hun nationale partners, met inbegrip van vrouwenorganisaties en groeperingen die betrokken zijn bij de gezondheid van kinderen, teneinde de ontwikkeling, implementatie en actualisering van hun uitvoeringsplannen te vergemakkelijken.
+3. Each Party shall designate a national focal point for the exchange of such information.
 
-3. De Partijen streven ernaar middelen aan te wenden of, waar nodig, in het leven te roepen om nationale uitvoeringsplannen voor persistente organische verontreinigende stoffen, waar dienstig, te integreren in hun strategieën voor duurzame ontwikkeling.
+4. The Secretariat shall serve as a clearing-house mechanism for information on persistent organic pollutants, including information provided by Parties, intergovernmental organizations and non-governmental organizations.
 
-##### Artikel 8. Opname van chemische stoffen in [Bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26), [B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) en [C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26)
+5. For the purposes of this Convention, information on health and safety of humans and the environment shall not be regarded as confidential. Parties that exchange other information pursuant to this Convention shall protect any confidential information as mutually agreed.
 
-1. Een Partij kan een voorstel toezenden aan het Secretariaat voor opname van een chemische stof in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26), [B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) en/of [C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26). Het voorstel bevat de in [Bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=D&z=2025-02-26&g=2025-02-26) vermelde informatie. Bij de uitwerking van een voorstel kan een Partij worden bijgestaan door andere Partijen en/of door het Secretariaat.
+##### Article 10. Public information, awareness and education
 
-2. Het Secretariaat verifieert of het voorstel de in [Bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=D&z=2025-02-26&g=2025-02-26) bedoelde informatie bevat. Indien het Secretariaat ervan overtuigd is dat het voorstel de desbetreffende informatie bevat, zendt het het voorstel naar de Commissie ter beoordeling van persistente organische verontreinigende stoffen.
+1. Each Party shall, within its capabilities, promote and facilitate:
 
-3. De Commissie bestudeert het voorstel en past de in [Bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=D&z=2025-02-26&g=2025-02-26) bedoelde selectiecriteria op flexibele en doorzichtige wijze toe, waarbij alle verstrekte informatie in haar geheel en op evenwichtige wijze in acht wordt genomen.
+- a) Awareness among its policy and decision makers with regard to persistent organic pollutants;
 
-4. Indien de Commissie besluit dat:
+- b) Provision to the public of all available information on persistent organic pollutants, taking into account [paragraph 5 of Article 9](https://wetten.overheid.nl/BWBV0001517);
 
-- a. aan de selectiecriteria is voldaan, stelt zij het voorstel en de beoordeling van de Commissie via het Secretariaat beschikbaar aan alle Partijen en waarnemers en nodigt zij hen uit de in [Bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=E&z=2025-02-26&g=2025-02-26) bedoelde informatie toe te zenden; of
+- c) Development and implementation, especially for women, children and the least educated, of educational and public awareness programmes on persistent organic pollutants, as well as on their health and environmental effects and on their alternatives;
 
-- b. niet aan de selectiecriteria is voldaan, brengt zij de Partijen en waarnemers hiervan via het Secretariaat op de hoogte en stelt zij het voorstel en de beoordeling van de Commissie beschikbaar aan alle Partijen en wordt het voorstel verworpen.
+- d) Public participation in addressing persistent organic pollutants and their health and environmental effects and in developing adequate responses, including opportunities for providing input at the national level regarding implementation of this Convention;
 
-5. Elke Partij kan een door de Commissie overeenkomstig het vierde lid verworpen voorstel opnieuw indienen. Het opnieuw ingediende voorstel kan vergezeld gaan van de reden van de bezorgdheid van de Partij alsmede een motivering voor hernieuwde behandeling door de Commissie. Indien de Commissie het voorstel na deze procedure opnieuw verwerpt, kan de Partij het besluit van de Commissie betwisten en wordt de zaak door de Conferentie van de Partijen tijdens haar volgende zitting behandeld. De Conferentie van de Partijen kan aan de hand van de in [Bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=D&z=2025-02-26&g=2025-02-26) bedoelde selectiecriteria en met inachtneming van de beoordeling van de Commissie en van de door een Partij of waarnemer verstrekte aanvullende informatie besluiten dat aan het voorstel gevolg wordt gegeven.
+- e) Training of workers, scientists, educators and technical and managerial personnel;
 
-6. Wanneer de Commissie heeft besloten dat de selectiecriteria zijn vervuld, of de Conferentie van de Partijen heeft besloten dat aan het voorstel gevolg wordt gegeven, beoordeelt de Commissie het voorstel verder, rekening houdend met de ontvangen relevante aanvullende informatie, en stelt zij een ontwerp-risicoprofiel op in overeenstemming met [Bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=E&z=2025-02-26&g=2025-02-26). Zij stelt dit ontwerp via het Secretariaat beschikbaar aan alle Partijen en waarnemers, neemt hun technisch commentaar in ontvangst en voltooit het risicoprofiel vervolgens met inachtneming van het commentaar.
+- f) Development and exchange of educational and public awareness materials at the national and international levels; and
 
-7. Indien de Commissie aan de hand van het overeenkomstig [Bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=E&z=2025-02-26&g=2025-02-26) opgestelde risicoprofiel besluit:
+- g) Development and implementation of education and training programmes at the national and international levels.
 
-- a. dat de chemische stof, als gevolg van de verspreiding ervan over grote afstand in het milieu waarschijnlijk tot grote nadelige gevolgen kan leiden voor de gezondheid van de mens en/of voor het milieu zodat mondiale maatregelen gerechtvaardigd zijn, vindt het voorstel doorgang. Het ontbreken van volledige wetenschappelijke zekerheid vormt geen beletsel voor de voortgang van het voorstel. De Commissie verzoekt via het Secretariaat alle Partijen en waarnemers om informatie met betrekking tot de in [Bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=F&z=2025-02-26&g=2025-02-26) bedoelde overwegingen. Vervolgens stelt zij een risicobeheerevaluatie op die een analyse van de mogelijke controlemaatregelen omvat voor de chemische stof, overeenkomstig die Bijlage; of
+2. Each Party shall, within its capabilities, ensure that the public has access to the public information referred to in paragraph 1 and that the information is kept up-to-date.
 
-- b. dat aan het voorstel geen gevolg wordt gegeven, stelt zij via het Secretariaat het risicoprofiel beschikbaar aan alle Partijen en waarnemers en verwerpt zij het voorstel.
+3. Each Party shall, within its capabilities, encourage industry and professional users to promote and facilitate the provision of the information referred to in paragraph 1 at the national level and, as appropriate, subregional, regional and global levels.
 
-8. Ten aanzien van elk ingevolge het zevende lid, onderdeel b, verworpen voorstel kan een Partij de Conferentie van de Partijen verzoeken te overwegen de Commissie de opdracht te geven de Partij die het voorstel heeft gedaan en andere Partijen te verzoeken om aanvullende informatie gedurende een tijdvak van ten hoogste een jaar. Na verloop van dat tijdvak en op basis van de ontvangen informatie, behandelt de Commissie het voorstel opnieuw ingevolge het zesde lid, met een door de Conferentie van de Partijen vast te stellen prioriteit. Indien de Commissie het voorstel na deze procedure opnieuw verwerpt, kan de Partij zich tegen het besluit verzetten en wordt de zaak door de Conferentie van de Partijen tijdens haar volgende zitting behandeld. De Conferentie van de Partijen kan aan de hand van het in overeenstemming met [Bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=E&z=2025-02-26&g=2025-02-26) opgestelde risicoprofiel en met inachtneming van de beoordeling van de Commissie en van de door een Partij of waarnemer verstrekte aanvullende informatie besluiten dat aan het voorstel gevolg wordt gegeven. Indien de Conferentie van de Partijen besluit dat aan het voorstel gevolg wordt gegeven, stelt de Commissie de risicobeheerevaluatie op.
+4. In providing information on persistent organic pollutants and their alternatives, Parties may use safety data sheets, reports, mass media and other means of communication, and may establish information centres at national and regional levels.
 
-9. De Commissie doet aan de hand van het in het zesde lid bedoelde risicoprofiel en de in het zevende lid, onderdeel a, en de in het achtste lid bedoelde risicobeheerevaluatie een aanbeveling omtrent de vraag of de chemische stof door de Conferentie van de Partijen in aanmerking moet worden genomen voor opneming in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26), [B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) en/of [C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26). De Conferentie van de Partijen besluit, met gedegen inachtneming van de aanbevelingen van de Commissie, met inbegrip van eventuele wetenschappelijke onzekerheden, indachtig het voorzorgsbeginsel, of al dan niet wordt overgegaan tot opneming van de chemische stof – met vermelding van de daarbij behorende controlemaatregelen – in Bijlage A, B en/of C.
+5. Each Party shall give sympathetic consideration to developing mechanisms, such as pollutant release and transfer registers, for the collection and dissemination of information on estimates of the annual quantities of the chemicals listed in [Annex A](https://wetten.overheid.nl/BWBV0001517), [B](https://wetten.overheid.nl/BWBV0001517) or [C](https://wetten.overheid.nl/BWBV0001517) that are released or disposed of.
 
-##### Artikel 9. Uitwisseling van informatie
+##### Article 11. Research, development and monitoring
 
-1. Elke Partij bevordert of draagt zorg voor de uitwisseling van informatie met betrekking tot:
+1. The Parties shall, within their capabilities, at the national and international levels, encourage and/or undertake appropriate research, development, monitoring and cooperation pertaining to persistent organic pollutants and, where relevant, to their alternatives and to candidate persistent organic pollutants, including on their:
 
-- a. de terugdringing of beëindiging van de productie, het gebruik en de vrijkoming van persistente organische verontreinigende stoffen; en
+- a) Sources and releases into the environment;
 
-- b. alternatieven voor persistente organische verontreinigende stoffen, met inbegrip van informatie met betrekking tot de risico's alsmede de economische en sociale kosten ervan.
+- b) Presence, levels and trends in humans and the environment;
 
-2. De Partijen wisselen de in het eerste lid bedoelde informatie rechtstreeks uit of via het Secretariaat.
+- c) Environmental transport, fate and transformation;
 
-3. Elke Partij wijst een nationaal contactpunt aan voor de uitwisseling van deze informatie.
+- d) Effects on human health and the environment;
 
-4. Het Secretariaat fungeert als een centrum voor uitwisseling van informatie met betrekking tot persistente organische verontreinigende stoffen, met inbegrip van de door Partijen, intergouvernementele organisaties en niet-gouvernementele organisaties verstrekte informatie.
+- e) Socio-economic and cultural impacts;
 
-5. Voor de toepassing van dit Verdrag wordt informatie inzake de gezondheid en veiligheid van de mens en inzake milieu niet als vertrouwelijk aangemerkt. Partijen die andere informatie uitwisselen ingevolge dit Verdrag, beschermen de vertrouwelijke informatie op een door hen onderling overeengekomen wijze.
+- f) Release reduction and/or elimination; and
 
-##### Artikel 10. Voorlichting, bewustmaking en educatie van het publiek
+- g) Harmonized methodologies for making inventories of generating sources and analytical techniques for the measurement of releases.
 
-1. Elke Partij bevordert en vergemakkelijkt waar dat tot haar mogelijkheden behoort:
+2. In undertaking action under paragraph 1, the Parties shall, within their capabilities:
 
-- a. de bewustwording onder haar politici en beleidsmakers van persistente organische verontreinigende stoffen;
+- a) Support and further develop, as appropriate, international programmes, networks and organizations aimed at defining, conducting, assessing and financing research, data collection and monitoring, taking into account the need to minimize duplication of effort;
 
-- b. de verstrekking aan het publiek van alle beschikbare informatie inzake persistente organische verontreinigende stoffen, met inachtneming van artikel 9, vijfde lid;
+- b) Support national and international efforts to strengthen national scientific and technical research capabilities, particularly in developing countries and countries with economies in transition, and to promote access to, and the exchange of, data and analyses;
 
-- c. de ontwikkeling en uitvoering, in het bijzonder voor vrouwen, kinderen en de laagstopgeleiden, van campagnes voor bewustmaking en educatie van het publiek inzake persistente organische verontreinigende stoffen, alsmede de effecten van deze stoffen op hun gezondheid en het milieu en inzake de alternatieven hiervoor;
+- c) Take into account the concerns and needs, particularly in the field of financial and technical resources, of developing countries and countries with economies in transition and cooperate in improving their capability to participate in the efforts referred to in subparagraphs a) and b);
 
-- d. de publieke participatie bij de aanpak van persistente organische verontreinigende stoffen en de effecten hiervan op de gezondheid en het milieu, en bij de ontwikkeling van passende oplossingen, met inbegrip van de mogelijkheid van nationale bijdragen aan de uitvoering van dit Verdrag;
+- d) Undertake research work geared towards alleviating the effects of persistent organic pollutants on reproductive health;
 
-- e. de opleiding van arbeiders, wetenschappers, onderwijzend, technisch en bestuurlijk personeel;
+- e) Make the results of their research, development and monitoring activities referred to in this paragraph accessible to the public on a timely and regular basis; and
 
-- f. de ontwikkeling en uitwisseling van educatief en voorlichtingsmateriaal op nationaal en internationaal niveau; en
+- f) Encourage and/or undertake cooperation with regard to storage and maintenance of information generated from research, development and monitoring.
 
-- g. de ontwikkeling en uitvoering van educatieve en opleidingsprogramma's op nationaal en internationaal niveau.
+##### Article 12. Technical assistance
 
-2. Elke Partij waarborgt, waar dat tot haar mogelijkheden behoort, dat het publiek toegang heeft tot de in het eerste lid bedoelde informatie en dat deze informatie actueel blijft.
+1. The Parties recognize that rendering of timely and appropriate technical assistance in response to requests from developing country Parties and Parties with economies in transition is essential to the successful implementation of this Convention.
 
-3. Elke Partij moedigt, waar dat tot haar mogelijkheden behoort, de industrie en beroepsmatige gebruikers aan de verstrekking van de in het eerste lid bedoelde informatie op nationaal niveau en, waar opportuun, op subregionaal regionaal en mondiaal niveau te bevorderen en te vergemakkelijken.
+2. The Parties shall cooperate to provide timely and appropriate technical assistance to developing country Parties and Parties with economies in transition, to assist them, taking into account their particular needs, to develop and strengthen their capacity to implement their obligations under this Convention.
 
-4. Bij de verstrekking van informatie over persistente organische verontreinigende stoffen en de alternatieven hiervoor, kunnen de Partijen gebruik maken van technische veiligheidsvoorschriften, rapporten, massamedia en andere communicatiemiddelen, en kunnen zij op nationaal en regionaal niveau informatiecentra oprichten.
+3. In this regard, technical assistance to be provided by developed country Parties, and other Parties in accordance with their capabilities, shall include, as appropriate and as mutually agreed, technical assistance for capacity-building relating to implementation of the obligations under this Convention. Further guidance in this regard shall be provided by the Conference of the Parties.
 
-5. Elke Partij neemt de ontwikkeling van mechanismen, zoals registers inzake de vrijkoming en overbrenging van verontreinigende stoffen, voor de vergaring en verspreiding van informatie inzake ramingen van de jaarlijkse hoeveelheden geloosde of verwijderde chemische stoffen vermeld in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26), [B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) of [C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26) in welwillende overweging.
+4. The Parties shall establish, as appropriate, arrangements for the purpose of providing technical assistance and promoting the transfer of technology to developing country Parties and Parties with economies in transition relating to the implementation of this Convention. These arrangements shall include regional and subregional centres for capacity-building and transfer of technology to assist developing country Parties and Parties with economies in transition to fulfil their obligations under this Convention. Further guidance in this regard shall be provided by the Conference of the Parties.
 
-##### Artikel 11. Onderzoek, ontwikkeling en monitoring
+5. The Parties shall, in the context of this Article, take full account of the specific needs and special situation of least developed countries and small island developing states in their actions with regard to technical assistance.
 
-1. De Partijen moedigen passende activiteiten aan en/of ondernemen deze, waar dat tot hun mogelijkheden behoort, op nationaal en internationaal niveau, voor onderzoek, ontwikkeling, monitoring en samenwerking op het gebied van persistente organische verontreinigende stoffen en, in voorkomend geval, van de alternatieven hiervoor en van potentiële persistente organische verontreinigende stoffen, met inbegrip van:
+##### Article 13. Financial resources and mechanisms
 
-- a. bronnen en vrijkomingen in het milieu hiervan;
+1. Each Party undertakes to provide, within its capabilities, financial support and incentives in respect of those national activities that are intended to achieve the objective of this Convention in accordance with its national plans, priorities and programmes.
 
-- b. aanwezigheid, niveaus en trends hiervan bij de mens en in het milieu;
+2. The developed country Parties shall provide new and additional financial resources to enable developing country Parties and Parties with economies in transition to meet the agreed full incremental costs of implementing measures which fulfill their obligations under this Convention as agreed between a recipient Party and an entity participating in the mechanism described in paragraph 6. Other Parties may also on a voluntary basis and in accordance with their capabilities provide such financial resources. Contributions from other sources should also be encouraged. The implementation of these commitments shall take into account the need for adequacy, predictability, the timely flow of funds and the importance of burden sharing among the contributing Parties.
 
-- c. verspreiding, het ontstaan en omzetting hiervan in het milieu;
+3. Developed country Parties, and other Parties in accordance with their capabilities and in accordance with their national plans, priorities and programmes, may also provide and developing country Parties and Parties with economies in transition avail themselves of financial resources to assist in their implementation of this Convention through other bilateral, regional and multilateral sources or channels.
 
-- d. effecten hiervan op de gezondheid van de mens en op het milieu;
+4. The extent to which the developing country Parties will effectively implement their commitments under this Convention will depend on the effective implementation by developed country Parties of their commitments under this Convention relating to financial resources, technical assistance and technology transfer. The fact that sustainable economic and social development and eradication of poverty are the first and overriding priorities of the developing country Parties will be taken fully into account, giving due consideration to the need for the protection of human health and the environment.
 
-- e. sociaal-economische en culturele gevolgen hiervan;
+5. The Parties shall take full account of the specific needs and special situation of the least developed countries and the small island developing states in their actions with regard to funding.
 
-- f. beperking en/of beëindiging van de vrijkoming hiervan; en
+6. A mechanism for the provision of adequate and sustainable financial resources to developing country Parties and Parties with economies in transition on a grant or concessional basis to assist in their implementation of the Convention is hereby defined. The mechanism shall function under the authority, as appropriate, and guidance of, and be accountable to the Conference of the Parties for the purposes of this Convention. Its operation shall be entrusted to one or more entities, including existing international entities, as may be decided upon by the Conference of the Parties. The mechanism may also include other entities providing multilateral, regional and bilateral financial and technical assistance. Contributions to the mechanism shall be additional to other financial transfers to developing country Parties and Parties with economies in transition as reflected in, and in accordance with, paragraph 2.
 
-- g. geharmoniseerde methoden voor het opmaken van inventarissen van productiebronnen en analytische technieken voor het meten van vrijkomingen hiervan.
+7. Pursuant to the objectives of this Convention and paragraph 6, the Conference of the Parties shall at its first meeting adopt appropriate guidance to be provided to the mechanism and shall agree with the entity or entities participating in the financial mechanism upon arrangements to give effect thereto. The guidance shall address,*inter alia*:
 
-2. Bij de activiteiten die zij ondernemen ingevolge het eerste lid zullen de Partijen, waar dat tot hun mogelijkheden behoort:
+- a) The determination of the policy, strategy and programme priorities, as well as clear and detailed criteria and guidelines regarding eligibility for access to and utilization of financial resources including monitoring and evaluation on a regular basis of such utilization;
 
-- a. internationale programma's, netwerken en organisaties gericht op het definiëren, uitvoeren, beoordelen en financieren van onderzoek, gegevensverzameling en monitoring, in voorkomend geval, ondersteunen en verder ontwikkelen, met inachtneming van de noodzaak dubbel werk zoveel mogelijk te voorkomen;
+- b) The provision by the entity or entities of regular reports to the Conference of the Parties on adequacy and sustainability of funding for activities relevant to the implementation of this Convention;
 
-- b. nationale en internationale inspanningen ter versterking van de nationale wetenschappelijke en technische onderzoeksmogelijkheden ondersteunen, in het bijzonder in ontwikkelingslanden en landen met een overgangseconomie, en de toegang tot en uitwisseling van gegevens en analyses bevorderen;
+- c) The promotion of multiple-source funding approaches, mechanisms and arrangements;
 
-- c. rekening houden met de zorgen en behoeften van ontwikkelingslanden en landen met een overgangseconomie, in het bijzonder op het terrein van financiële en technische middelen, en samenwerken ter verbetering van hun mogelijkheden om aan de in de onderdelen a en b bedoelde activiteiten deel te nemen;
+- d) The modalities for the determination in a predictable and identifiable manner of the amount of funding necessary and available for the implementation of this Convention, keeping in mind that the phasing out of persistent organic pollutants might require sustained funding, and the conditions under which that amount shall be periodically reviewed; and
 
-- d. het nodige onderzoek verrichten ter verzachting van de effecten van persistente organische verontreinigende stoffen op de reproductieve gezondheid;
+- e) The modalities for the provision to interested Parties of assistance with needs assessment, information on available sources of funds and on funding patterns in order to facilitate coordination among them.
 
-- e. de resultaten van hun in dit lid bedoelde onderzoeks-, ontwikkelings- en monitoringactiviteiten tijdig en regelmatig voor het publiek toegankelijk maken; en
+8. The Conference of the Parties shall review, not later than its second meeting and thereafter on a regular basis, the effectiveness of the mechanism established under this Article, its ability to address the changing needs of the developing country Parties and Parties with economies in transition, the criteria and guidance referred to in paragraph 7, the level of funding as well as the effectiveness of the performance of the institutional entities entrusted to operate the financial mechanism. It shall, based on such review, take appropriate action, if necessary, to improve the effectiveness of the mechanism, including by means of recommendations and guidance on measures to ensure adequate and sustainable funding to meet the needs of the Parties.
 
-- f. samenwerking aanmoedigen en/of aangaan met betrekking tot de opslag en actualisering van informatie afkomstig van onderzoek, ontwikkeling en monitoring.
+##### Article 14. Interim financial arrangements
 
-##### Artikel 12. Technische bijstand
+The institutional structure of the Global Environment Facility, operated in accordance with the Instrument for the Establishment of the Restructured Global Environment Facility, shall, on an interim basis, be the principal entity entrusted with the operations of the financial mechanism referred to in [Article 13](https://wetten.overheid.nl/BWBV0001517), for the period between the date of entry into force of this Convention and the first meeting of the Conference of the Parties, or until such time as the Conference of the Parties decides which institutional structure will be designated in accordance with [Article 13](https://wetten.overheid.nl/BWBV0001517). The institutional structure of the Global Environment Facility should fulfill this function through operational measures related specifically to persistent organic pollutants taking into account that new arrangements for this area may be needed.
 
-1. De Partijen erkennen dat het verlenen van tijdige en adequate technische bijstand naar aanleiding van verzoeken van Partijen die ontwikkelingslanden zijn en Partijen met een overgangseconomie essentieel is voor een succesvolle uitvoering van dit Verdrag.
+##### Article 15. Reporting
 
-2. De Partijen werken samen bij het verlenen van tijdige en adequate technische bijstand aan Partijen die ontwikkelingslanden zijn en aan Partijen met een overgangseconomie, teneinde hen – met inachtneming van hun bijzondere behoeften – te helpen bij de ontwikkeling en versterking van hun capaciteit om hun verplichtingen uit hoofde van dit Verdrag na te komen.
+1. Each Party shall report to the Conference of the Parties on the measures it has taken to implement the provisions of this Convention and on the effectiveness of such measures in meeting the objectives of the Convention.
 
-3. In dit verband omvat de door de Partijen die ontwikkelde landen zijn en door andere Partijen in overeenstemming met hun mogelijkheden te verlenen technische bijstand, waar passend en zoals onderling overeengekomen, technische bijstand voor de opbouw van capaciteit met betrekking tot de nakoming van de verplichtingen uit hoofde van dit Verdrag. De Conferentie van de Partijen verschaft op dit gebied nadere richtsnoeren.
+2. Each Party shall provide to the Secretariat:
 
-4. De Partijen stellen in voorkomend geval regelingen vast ten behoeve van de verlening van technische bijstand en van de bevordering van de overdracht van technologie aan Partijen die ontwikkelingslanden zijn en aan Partijen met een overgangseconomie met betrekking tot de uitvoering van dit Verdrag. Deze regelingen omvatten regionale en subregionale centra voor de opbouw van capaciteit en voor de overdracht van technologie teneinde de Partijen die ontwikkelingslanden zijn en de Partijen met een overgangseconomie te helpen bij de nakoming van hun verplichtingen uit hoofde van dit Verdrag. De Conferentie van de Partijen brengt op dit gebied nadere richtsnoeren uit.
+- a) Statistical data on its total quantities of production, import and export of each of the chemicals listed in [Annex A](https://wetten.overheid.nl/BWBV0001517) and [Annex B](https://wetten.overheid.nl/BWBV0001517) or a reasonable estimate of such data; and
 
-5. Bij de toepassing van dit artikel houden de Partijen bij hun activiteiten op het gebied van technische bijstand ten volle rekening met de bijzondere behoeften en speciale situatie van de minstontwikkelde landen en kleine eilandstaten die in ontwikkeling zijn.
+- b) To the extent practicable, a list of the States from which it has imported each such substance and the States to which it has exported each such substance.
 
-##### Artikel 13. Financiële middelen en financieringsmechanismen
+3. Such reporting shall be at periodic intervals and in a format to be decided by the Conference of the Parties at its first meeting.
 
-1. Elke Partij verplicht zich waar dat tot haar mogelijkheden behoort financiële ondersteuning en prikkels ten behoeve van nationale activiteiten die bedoeld zijn om de doelstellingen van dit Verdrag te realiseren, in overeenstemming met haar nationale plannen, prioriteiten en programma's.
+##### Article 16. Effectiveness evaluation
 
-2. De ontwikkelde landen die Partij zijn verschaffen nieuwe en aanvullende financiële middelen teneinde de Partijen die ontwikkelingslanden zijn en de Partijen met een overgangseconomie in staat te stellen de overeengekomen totale marginale kosten van uitvoeringsmaatregelen te dekken die hen in staat stellen hun verplichtingen uit hoofde van dit Verdrag na te komen, zoals overeengekomen tussen een ontvangende Partij en een aan het in het zesde lid bedoelde mechanisme deelnemende entiteit. Andere Partijen kunnen eveneens op vrijwillige basis en in overeenstemming met hun mogelijkheden dergelijke financiële middelen verschaffen. Bijdragen vanuit andere bronnen dienen eveneens te worden aangemoedigd. Bij de uitvoering van deze verplichtingen wordt rekening gehouden met de behoefte aan passende, voorzienbare en tijdige financiering en het belang van verdeling van de lasten over de bijdragende Partijen.
+1. Commencing four years after the date of entry into force of this Convention, and periodically thereafter at intervals to be decided by the Conference of the Parties, the Conference shall evaluate the effectiveness of this Convention.
 
-3. Ontwikkelde landen die Partij zijn, en andere Partijen in overeenstemming met hun mogelijkheden en in overeenstemming met hun nationale plannen, prioriteiten en programma's, kunnen tevens financiële middelen voor hulp bij de uitvoering van dit Verdrag verstrekken en de Partijen die ontwikkelingslanden zijn en Partijen met een overgangseconomie kunnen tevens financiële middelen voor hulp bij de uitvoering van dit Verdrag ontvangen, via andere bilaterale, regionale en multilaterale bronnen of kanalen.
+2. In order to facilitate such evaluation, the Conference of the Parties shall, at its first meeting, initiate the establishment of arrangements to provide itself with comparable monitoring data on the presence of the chemicals listed in [Annexes A](https://wetten.overheid.nl/BWBV0001517), [B](https://wetten.overheid.nl/BWBV0001517) and [C](https://wetten.overheid.nl/BWBV0001517) as well as their regional and global environmental transport. These arrangements:
 
-4. De mate waarin de Partijen die ontwikkelingslanden zijn hun verplichtingen uit hoofde van dit Verdrag daadwerkelijk nakomen is afhankelijk van de daadwerkelijke nakoming door de ontwikkelde landen die Partij zijn van hun verplichtingen uit hoofde van dit Verdrag met betrekking tot de financiële middelen, technische bijstand en overdracht van technologie. Rekening wordt gehouden met het feit dat duurzame economische en sociale ontwikkeling en beëindiging van armoede absolute prioriteit genieten bij de Partijen die ontwikkelingslanden zijn; hierbij wordt eveneens rekening gehouden met de behoefte aan de bescherming van de gezondheid van de mens en het milieu.
+- a) Should be implemented by the Parties on a regional basis when appropriate, in accordance with their technical and financial capabilities, using existing monitoring programmes and mechanisms to the extent possible and promoting harmonization of approaches;
 
-5. De Partijen houden bij hun activiteiten op het gebied van financiering ten volle rekening met de bijzondere behoeften en speciale situatie van de minstontwikkelde landen en kleine eilandstaten die in ontwikkeling zijn.
+- b) May be supplemented where necessary, taking into account the differences between regions and their capabilities to implement monitoring activities; and
 
-6. Hierbij wordt een mechanisme gedefinieerd voor het verschaffen van passende en duurzame financiële middelen aan Partijen die ontwikkelingslanden zijn en Partijen met een overgangseconomie bij wijze van gift of onder gunstige voorwaarden om hen bij te staan bij de uitvoering van het Verdrag. Voor de toepassing van dit Verdrag functioneert het mechanisme onder het gezag en onder de leiding van de Conferentie van de Partijen, waaraan verantwoording wordt afgelegd. Het beheer ervan wordt opgedragen aan een of meerdere entiteiten, waaronder bestaande internationale entiteiten, naar gelang de Conferentie van de Partijen besluit. Het mechanisme kan eveneens andere entiteiten omvatten die multilaterale, regionale en bilaterale financiële en technische bijstand leveren. De bijdragen aan het mechanisme komen naast andere financiële overmakingen aan Partijen die ontwikkelingslanden zijn en Partijen met een overgangseconomie zoals bedoeld in het tweede lid en in overeenstemming met dat lid.
+- c) Shall include reports to the Conference of the Parties on the results of the monitoring activities on a regional and global basis at intervals to be specified by the Conference of the Parties.
 
-7. Overeenkomstig de doelstellingen van dit Verdrag en overeenkomstig het zesde lid, neemt de Conferentie van de Partijen tijdens haar eerste zitting richtsnoeren ten behoeve van het mechanisme aan en komt zij met de aan het financiële mechanisme deelnemende entiteit of entiteiten regelingen overeen voor de uitvoering hiervan. Deze richtsnoeren behelzen onder meer:
+3. The evaluation described in paragraph 1 shall be conducted on the basis of available scientific, environmental, technical and economic information, including:
 
-- a. de vaststelling van prioriteiten op het gebied van beleid, strategie en programma's, alsmede duidelijke en gedetailleerde criteria en richtsnoeren met betrekking tot de voorwaarden om in aanmerking te komen voor toegang tot en gebruikmaking van financiële middelen, met inbegrip van een regelmatige monitoring en toetsing van het gebruik daarvan;
+- a) Reports and other monitoring information provided pursuant to paragraph 2;
 
-- b. de verstrekking door de entiteit of entiteiten van periodieke rapporten aan de Conferentie van de Partijen inzake de opportuniteit en duurzaamheid van de financiering van activiteiten die verband houden met de uitvoering van dit Verdrag;
+- b) National reports submitted pursuant to [Article 15](https://wetten.overheid.nl/BWBV0001517); and
 
-- c. de bevordering van methoden, mechanismen en regelingen waarbij een beroep wordt gedaan op meerdere financieringsbronnen;
+- c) Non-compliance information provided pursuant to the procedures established under [Article 17](https://wetten.overheid.nl/BWBV0001517).
 
-- d. de modaliteiten voor de voorspelbare en duidelijke vaststelling van het benodigde en beschikbare bedrag voor de uitvoering van dit Verdrag, rekening houdend met het feit dat voor de beëindiging van persistente organische verontreinigende stoffen langdurige financiering nodig kan zijn, en de voorwaarden waaronder dit bedrag periodiek wordt herzien; en
+##### Article 17. Non-compliance
 
-- e. de wijze waarop aan de belanghebbende Partijen bijstand wordt verleend inzake de raming van behoeften, en informatie wordt verstrekt over beschikbare financieringsbronnen en financieringswijzen teneinde hen in staat te stellen de onderlinge coördinatie te vergemakkelijken.
+The Conference of the Parties shall, as soon as practicable, develop and approve procedures and institutional mechanisms for determining non-compliance with the provisions of this Convention and for the treatment of Parties found to be in non-compliance.
 
-8. De Conferentie van de Partijen beoordeelt uiterlijk tijdens haar tweede zitting en daarna periodiek, de doeltreffendheid van het ingevolge dit artikel ingestelde mechanisme, de capaciteit ervan om te voldoen aan de veranderende behoeften van Partijen die ontwikkelingslanden zijn en Partijen met een overgangseconomie, de in het zevende lid bedoelde criteria en richtsnoeren, de hoogte van financiering alsmede de doeltreffendheid van de institutionele entiteiten die belast zijn met het beheer van het financieringmechanisme. Aan de hand van deze beoordeling treft de Conferentie van de Partijen indien nodig passende maatregelen ter verbetering van de doeltreffendheid van het mechanisme, onder andere door middel van aanbevelingen en richtsnoeren inzake maatregelen ter waarborging van passende en duurzame financiering teneinde in de behoeften van de Partijen te voorzien.
+##### Article 18. Settlement of disputes
 
-##### Artikel 14. Voorlopige financiële regelingen
+1. Parties shall settle any dispute between them concerning the interpretation or application of this Convention through negotiation or other peaceful means of their own choice.
 
-De institutionele structuur van de Global Environment Facility, die functioneert overeenkomstig de Akte tot oprichting van de geherstructureerde Global Environment Facility is, voorlopig, de belangrijkste entiteit belast met de werking van het in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&artikel=13&z=2025-02-26&g=2025-02-26) bedoelde financieringsmechanisme, gedurende het tijdvak tussen de datum van inwerkingtreding van dit Verdrag en de eerste Conferentie van de Partijen, of totdat de Conferentie van de Partijen besluit welke institutionele structuur in overeenstemming met [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&artikel=13&z=2025-02-26&g=2025-02-26) wordt benoemd. De institutionele structuur van de Global Environment Facility vervult deze functie door middel van operationele maatregelen die in het bijzonder verband houden met persistente organische verontreinigende stoffen, met inachtneming van het feit dat op dit gebied nieuwe regelingen nodig kunnen zijn.
+2. When ratifying, accepting, approving or acceding to the Convention, or at any time thereafter, a Party that is not a regional economic integration organization may declare in a written instrument submitted to the depositary that, with respect to any dispute concerning the interpretation or application of the Convention, it recognizes one or both of the following means of dispute settlement as compulsory in relation to any Party accepting the same obligation:
 
-##### Artikel 15. Verslaglegging
+- a) Arbitration in accordance with procedures to be adopted by the Conference of the Parties in an annex as soon as practicable;
 
-1. Elke Partij brengt aan de Conferentie van de Partijen verslag uit over de door haar genomen maatregelen ter uitvoering van de bepalingen van dit Verdrag en over de doeltreffendheid van dergelijke maatregelen bij het bereiken van de doeleinden van het Verdrag.
+- b) Submission of the dispute to the International Court of Justice.
 
-2. Elke Partij verstrekt aan het Secretariaat:
+3. A Party that is a regional economic integration organization may make a declaration with like effect in relation to arbitration in accordance with the procedure referred to in paragraph 2 a).
 
-- a. statistische gegevens met betrekking tot de in totaal geproduceerde, ingevoerde en uitgevoerde hoeveelheden van elk van de in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26) of [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) vermelde chemische stoffen of een redelijke schatting hiervan; en
+4. A declaration made pursuant to paragraph 2 or paragraph 3 shall remain in force until it expires in accordance with its terms or until three months after written notice of its revocation has been deposited with the depositary.
 
-- b. voor zover praktisch uitvoerbaar, een lijst van de Staten waaruit zij elk van deze stoffen heeft ingevoerd en van de Staten waarnaar zij elk van deze stoffen heeft uitgevoerd.
+5. The expiry of a declaration, a notice of revocation or a new declaration shall not in any way affect proceedings pending before an arbitral tribunal or the International Court of Justice unless the parties to the dispute otherwise agree.
 
-3. Deze verslaglegging vindt periodiek plaats en in een vorm die door de Conferentie van de Partijen tijdens haar eerste zitting wordt vastgesteld.
+6. If the parties to a dispute have not accepted the same or any procedure pursuant to paragraph 2, and if they have not been able to settle their dispute within twelve months following notification by one party to another that a dispute exists between them, the dispute shall be submitted to a conciliation commission at the request of any party to the dispute. The conciliation commission shall render a report with recommendations. Additional procedures relating to the conciliation commission shall be included in an annex to be adopted by the Conference of the Parties no later than at its second meeting.
 
-##### Artikel 16. Toetsing van de doeltreffendheid
+##### Article 19. Conference of the Parties
 
-1. Vier jaar na de inwerkingtreding van dit Verdrag, en daarna periodiek met een door de Conferentie van de Partijen te bepalen regelmaat, toetst de Conferentie van de Partijen de doeltreffendheid van dit Verdrag.
+1. A Conference of the Parties is hereby established.
 
-2. Teneinde deze toetsing te vergemakkelijken, neemt de Conferentie van de Partijen tijdens haar eerste zitting besluiten omtrent de instelling van regelingen om zichzelf te voorzien van vergelijkbare monitoringgegevens met betrekking tot de aanwezigheid van de in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26), [B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) en [C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26) vermelde chemische stoffen alsmede tot hun regionale en mondiale verspreiding in het milieu. Deze regelingen:
+2. The first meeting of the Conference of the Parties shall be convened by the Executive Director of the United Nations Environment Programme no later than one year after the entry into force of this Convention. Thereafter, ordinary meetings of the Conference of the Parties shall be held at regular intervals to be decided by the Conference.
 
-- a. worden door de Partijen waar passend op regionale basis geïmplementeerd, in overeenstemming met hun technische en financiële mogelijkheden, waarbij voor zover mogelijk gebruik wordt gemaakt van bestaande monitoringprogramma's en -mechanismen, en de afstemming van de verschillende benaderingswijzen wordt bevorderd;
+3. Extraordinary meetings of the Conference of the Parties shall be held at such other times as may be deemed necessary by the Conference, or at the written request of any Party provided that it is supported by at least one third of the Parties.
 
-- b. kunnen waar nodig worden aangevuld, rekening houdend met de verschillen tussen regio's en met hun mogelijkheden om monitoringactiviteiten uit te voeren; en
+4. The Conference of the Parties shall by consensus agree upon and adopt at its first meeting rules of procedure and financial rules for itself and any subsidiary bodies, as well as financial provisions governing the functioning of the Secretariat.
 
-- c. omvatten rapportages aan de Conferentie van de Partijen betreffende de resultaten van de monitoringactiviteiten op regionale en mondiale basis, met een door de Conferentie van de Partijen te bepalen regelmaat.
+5. The Conference of the Parties shall keep under continuous review and evaluation the implementation of this Convention. It shall perform the functions assigned to it by the Convention and, to this end, shall:
 
-3. De in het eerste lid beschreven toetsing vindt plaats op basis van de beschikbare wetenschappelijke, milieu-, technische en economische gegevens, met inbegrip van:
+- a) Establish, further to the requirements of paragraph 6, such subsidiary bodies as it considers necessary for the implementation of the Convention;
 
-- a. rapportages en andere ingevolge het tweede lid verstrekte monitoringinformatie;
+- b) Cooperate, where appropriate, with competent international organizations and intergovernmental and non-governmental bodies; and
 
-- b. uit hoofde van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&artikel=15&z=2025-02-26&g=2025-02-26) ingediende nationale verslagen; en
+- c) Regularly review all information made available to the Parties pursuant to [Article 15](https://wetten.overheid.nl/BWBV0001517), including consideration of the effectiveness of paragraph [2 (b) (iii) of Article 3](https://wetten.overheid.nl/BWBV0001517);
 
-- c. uit hoofde van de ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&artikel=17&z=2025-02-26&g=2025-02-26) ingestelde procedures verstrekte informatie inzake niet-naleving.
+- d) Consider and undertake any additional action that may be required for the achievement of the objectives of the Convention.
 
-##### Artikel 17. Niet-naleving
+6. The Conference of the Parties shall, at its first meeting, establish a subsidiary body to be called the Persistent Organic Pollutants Review Committee for the purposes of performing the functions assigned to that Committee by this Convention. In this regard:
 
-Zodra dit uitvoerbaar is, worden door de Conferentie van de Partijen procedures en institutionele mechanismen ontwikkeld en goedgekeurd waarmee de naleving van de bepalingen van dit Verdrag kan worden gecontroleerd en kan worden opgetreden tegen Partijen die het Verdrag niet naleven.
+- a) The members of the Persistent Organic Pollutants Review Committee shall be appointed by the Conference of the Parties. Membership of the Committee shall consist of government-designated experts in chemical assessment or management. The members of the Committee shall be appointed on the basis of equitable geographical distribution;
 
-##### Artikel 18. Regeling van geschillen
+- b) The Conference of the Parties shall decide on the terms of reference, organization and operation of the Committee; and
 
-1. Ingeval tussen Partijen een geschil ontstaat betreffende de interpretatie of de toepassing van dit Verdrag, regelen de betrokken Partijen dit geschil door middel van onderhandelingen of op een andere door henzelf te kiezen vreedzame wijze.
+- c) The Committee shall make every effort to adopt its recommendations by consensus. If all efforts at consensus have been exhausted, and no consensus reached, such recommendation shall as a last resort be adopted by a two-thirds majority vote of the members present and voting.
 
-2. Bij de bekrachtiging, aanvaarding of goedkeuring van dit Verdrag dan wel bij de toetreding hiertoe of op een later tijdstip kan een Partij die geen regionale organisatie voor economische integratie is, verklaren, door middel van een schriftelijke kennisgeving aan de depositaris, dat zij ten aanzien van een geschil betreffende de interpretatie of de toepassing van het Verdrag één van beide of beide hierna te noemen middelen voor geschillenregeling als dwingend aanvaardt ten aanzien van elke Partij die dezelfde verplichting op zich neemt:
+7. The Conference of the Parties shall, at its third meeting, evaluate the continued need for the procedure contained in [paragraph 2 b) of Article 3](https://wetten.overheid.nl/BWBV0001517), including consideration of its effectiveness.
 
-- a. zodra dit praktisch uitvoerbaar is, arbitrage in overeenstemming met de in een bijlage beschreven, door de Conferentie van de Partijen goed te keuren procedures;
+8. The United Nations, its specialized agencies and the International Atomic Energy Agency, as well as any State not Party to this Convention, may be represented at meetings of the Conference of the Parties as observers. Any body or agency, whether national or international, governmental or non-governmental, qualified in matters covered by the Convention, and which has informed the Secretariat of its wish to be represented at a meeting of the Conference of the Parties as an observer may be admitted unless at least one third of the Parties present object. The admission and participation of observers shall be subject to the rules of procedure adopted by the Conference of the Parties.
 
-- b. voorlegging van het geschil aan het Internationale Gerechtshof.
+##### Article 20. Secretariat
 
-3. Een Partij die een regionale organisatie voor economische integratie is, kan een verklaring van gelijke strekking afleggen met betrekking tot arbitrage overeenkomstig de in het tweede lid, onder a, bedoelde procedure.
+1. A Secretariat is hereby established.
 
-4. Een op grond van het tweede of derde lid afgelegde verklaring blijft van kracht totdat deze overeenkomstig de daarin vermelde voorwaarden verstreken is, of tot drie maanden na indiening van de schriftelijke kennisgeving van herroeping bij de depositaris.
+2. The functions of the Secretariat shall be:
 
-5. Het verstrijken van een verklaring, een kennisgeving van herroeping of een nieuwe verklaring heeft hoe dan ook geen gevolgen voor geschillen die reeds bij een scheidsgerecht of bij het Internationale Gerechtshof aanhangig zijn gemaakt, tenzij de partijen bij het geschil anders overeenkomen.
+- a) To make arrangements for meetings of the Conference of the Parties and its subsidiary bodies and to provide them with services as required;
 
-6. Indien de partijen bij een geschil niet dezelfde of geen enkele procedure als bedoeld in het tweede lid hebben aanvaard, en indien zij er niet in geslaagd zijn hun geschil te regelen binnen twaalf maanden na de kennisgeving van de ene partij aan de andere dat tussen hen een geschil bestaat, wordt het geschil op verzoek van één van de betrokken partijen aan een verzoeningscommissie voorgelegd. De verzoeningscommissie brengt een rapport uit met aanbevelingen. Uiterlijk bij de tweede vergadering van de Conferentie van de Partijen worden aanvullende procedures met betrekking tot de verzoeningscommissie opgenomen in een door de Conferentie van de Partijen goed te keuren bijlage.
+- b) To facilitate assistance to the Parties, particularly developing country Parties and Parties with economies in transition, on request, in the implementation of this Convention;
 
-##### Artikel 19. Conferentie van de Partijen
+- c) To ensure the necessary coordination with the secretariats of other relevant international bodies;
 
-1. Hierbij wordt een Conferentie van de Partijen ingesteld.
+- d) To prepare and make available to the Parties periodic reports based on information received pursuant to [Article 15](https://wetten.overheid.nl/BWBV0001517) and other available information;
 
-2. Uiterlijk één jaar na de inwerkingtreding van dit Verdrag wordt de eerste Conferentie van de Partijen bijeengeroepen door de Directeur van UNEP. Daarna worden gewone vergaderingen van de Conferentie van de Partijen gehouden met een door de Conferentie te bepalen regelmaat.
+- e) To enter, under the overall guidance of the Conference of the Parties, into such administrative and contractual arrangements as may be required for the effective discharge of its functions; and
 
-3. Buitengewone vergaderingen van de Conferentie van de Partijen kunnen op ieder ander tijdstip worden gehouden indien de Conferentie zulks noodzakelijk acht of op schriftelijk verzoek van een Partij, op voorwaarde dat dit verzoek door ten minste eenderde van de Partijen wordt gesteund.
+- f) To perform the other secretariat functions specified in this Convention and such other functions as may be determined by the Conference of the Parties.
 
-4. Tijdens haar eerste vergadering gaat de Conferentie van de Partijen bij consensus over tot goedkeuring en aanneming van een reglement van orde en een financieel reglement voor haarzelf en voor elk door haar in te stellen hulporgaan, alsmede van het financieel reglement betreffende het functioneren van het Secretariaat.
+3. The secretariat functions for this Convention shall be performed by the Executive Director of the United Nations Environment Programme, unless the Conference of the Parties decides, by a three-fourths majority of the Parties present and voting, to entrust the secretariat functions to one or more other international organizations.
 
-5. De Conferentie van de Partijen toetst en evalueert voortdurend de uitvoering van dit Verdrag. Zij vervult de haar op grond van dit Verdrag toegewezen taken en daartoe:
+##### Article 21. Amendments to the Convention
 
-- a. stelt zij, overeenkomstig het bepaalde in het zesde lid, de hulporganen in die zij noodzakelijk acht voor de uitvoering van het Verdrag;
+1. Amendments to this Convention may be proposed by any Party.
 
-- b. werkt zij, waar nodig, samen met bevoegde internationale organisaties en met gouvernementele en niet-gouvernementele organisaties; en
+2. Amendments to this Convention shall be adopted at a meeting of the Conference of the Parties. The text of any proposed amendment shall be communicated to the Parties by the Secretariat at least six months before the meeting at which it is proposed for adoption. The Secretariat shall also communicate proposed amendments to the signatories to this Convention and, for information, to the depositary.
 
-- c. toetst zij periodiek alle aan de Partijen ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&artikel=15&z=2025-02-26&g=2025-02-26) beschikbaar gestelde informatie, en onderzoekt zij in het bijzonder de doeltreffendheid van [artikel 3, tweede lid, onderdeel b, onder iii](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&artikel=3&z=2025-02-26&g=2025-02-26);
+3. The Parties shall make every effort to reach agreement on any proposed amendment to this Convention by consensus. If all efforts at consensus have been exhausted, and no agreement reached, the amendment shall as a last resort be adopted by a three-fourths majority vote of the Parties present and voting.
 
-- d. onderzoekt en neemt zij alle andere maatregelen die noodzakelijk kunnen zijn om de doelstellingen van dit Verdrag te verwezenlijken.
+4. The amendment shall be communicated by the depositary to all Parties for ratification, acceptance or approval.
 
-6. De Conferentie van de Partijen stelt tijdens haar eerste vergadering een hulporgaan in, aan te duiden als de „Toetsingscommissie persistente organische verontreinigende stoffen”, om de taken uit te voeren die op grond van dit Verdrag aan die Commissie zijn toegewezen. Ter zake geldt het volgende:
+5. Ratification, acceptance or approval of an amendment shall be notified to the depositary in writing. An amendment adopted in accordance with paragraph 3 shall enter into force for the Parties having accepted it on the ninetieth day after the date of deposit of instruments of ratification, acceptance or approval by at least three-fourths of the Parties. Thereafter, the amendment shall enter into force for any other Party on the ninetieth day after the date on which that Party deposits its instrument of ratification, acceptance or approval of the amendment.
 
-- a. de leden van de Toetsingscommissie persistente organische verontreinigende stoffen worden benoemd door de Conferentie van de Partijen. De Commissie bestaat uit door de regeringen aangewezen deskundigen inzake beoordeling of beheer van chemische stoffen. De leden van de Commissie worden benoemd volgens een billijke geografische spreiding;
+##### Article 22. Adoption and amendment of annexes
 
-- b. de Conferentie van de Partijen beslist over het mandaat, de organisatie en het functioneren van de Commissie; en
+1. Annexes to this Convention shall form an integral part thereof and, unless expressly provided otherwise, a reference to this Convention constitutes at the same time a reference to any annexes thereto.
 
-- c. de Commissie stelt alles in het werk om aanbevelingen te doen op basis van consensus. Als alle middelen om consensus te bereiken zijn uitgeput zonder dat deze bereikt is, kan de aanbeveling in laatste instantie worden aangenomen met een meerderheid van tweederde van de aanwezige en hun stem uitbrengende leden.
+2. Any additional annexes shall be restricted to procedural, scientific, technical or administrative matters.
 
-7. De Conferentie van de Partijen beoordeelt tijdens haar derde vergadering de noodzaak tot instandhouding van de in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&artikel=3&z=2025-02-26&g=2025-02-26), vervatte procedure, en onderzoekt de doeltreffendheid hiervan.
+3. The following procedure shall apply to the proposal, adoption and entry into force of additional annexes to this Convention:
 
-8. De Verenigde Naties, haar gespecialiseerde organisaties en de Internationale Organisatie voor Atoomenergie, alsmede elke Staat die geen Partij bij dit Verdrag is, kunnen als waarnemer worden vertegenwoordigd tijdens de vergaderingen van de Conferentie van de Partijen. Elke andere instelling of organisatie, nationaal of internationaal, gouvernementeel of niet-gouvernementeel, die bevoegd is op gebieden die onder dit Verdrag vallen, en die aan het Secretariaat haar wens te kennen heeft gegeven tijdens een vergadering van de Conferentie van de Partijen als waarnemer vertegenwoordigd te zijn, kan als zodanig worden toegelaten, tenzij ten minste eenderde van de aanwezige Partijen hiertegen bezwaar maakt. De toelating en de deelneming van waarnemers worden geregeld in het door de Conferentie van de Partijen aangenomen reglement van orde.
+- a) Additional annexes shall be proposed and adopted according to the procedure laid down in [paragraphs 1, 2 and 3 of Article 21](https://wetten.overheid.nl/BWBV0001517);
 
-##### Artikel 20. Secretariaat
+- b) Any Party that is unable to accept an additional annex shall so notify the depositary, in writing, within one year from the date of communication by the depositary of the adoption of the additional annex. The depositary shall without delay notify all Parties of any such notification received. A Party may at any time withdraw a previous notification of non-acceptance in respect of any additional annex, and the annex shall thereupon enter into force for that Party subject to subparagraph c); and
 
-1. Hierbij wordt een Secretariaat ingesteld.
+- c) On the expiry of one year from the date of the communication by the depositary of the adoption of an additional annex, the annex shall enter into force for all Parties that have not submitted a notification in accordance with the provisions of subparagraph b).
 
-2. Het Secretariaat heeft tot taak:
+4. The proposal, adoption and entry into force of amendments to [Annex A](https://wetten.overheid.nl/BWBV0001517), [B](https://wetten.overheid.nl/BWBV0001517) or [C](https://wetten.overheid.nl/BWBV0001517) shall be subject to the same procedures as for the proposal, adoption and entry into force of additional annexes to this Convention, except that an amendment to Annex A, B or C shall not enter into force with respect to any Party that has made a declaration with respect to amendment to those Annexes in accordance with [paragraph 4 of Article 25](https://wetten.overheid.nl/BWBV0001517), in which case any such amendment shall enter into force for such a Party on the ninetieth day after the date of deposit with the depositary of its instrument of ratification, acceptance, approval or accession with respect to such amendment.
 
-- a. vergaderingen van de Conferentie van de Partijen en haar hulporganen te organiseren en de daarvoor vereiste diensten te verlenen;
+5. The following procedure shall apply to the proposal, adoption and entry into force of an amendment to [Annex D](https://wetten.overheid.nl/BWBV0001517), [E](https://wetten.overheid.nl/BWBV0001517) or [F](https://wetten.overheid.nl/BWBV0001517):
 
-- b. voor de toepassing van dit Verdrag bijstand te verlenen aan de Partijen die daarom verzoeken en met name aan Partijen die ontwikkelingslanden zijn en aan Partijen met een overgangseconomie;
+- a) Amendments shall be proposed according to the procedure in [paragraphs 1 and 2 of Article 21](https://wetten.overheid.nl/BWBV0001517);
 
-- c. zorg te dragen voor de benodigde coördinatie met de secretariaten van andere ter zake bevoegde internationale organisaties;
+- b) The Parties shall take decisions on an amendment to [Annex D](https://wetten.overheid.nl/BWBV0001517), [E](https://wetten.overheid.nl/BWBV0001517) or [F](https://wetten.overheid.nl/BWBV0001517) by consensus; and
 
-- d. periodieke rapporten op te stellen en aan de Partijen beschikbaar te stellen op basis van ingevolge [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&artikel=15&z=2025-02-26&g=2025-02-26) ontvangen informatie en andere beschikbare informatie;
+- c) A decision to amend [Annex D](https://wetten.overheid.nl/BWBV0001517), [E](https://wetten.overheid.nl/BWBV0001517) or [F](https://wetten.overheid.nl/BWBV0001517) shall forthwith be communicated to the Parties by the depositary. The amendment shall enter into force for all Parties on a date to be specified in the decision.
 
-- e. onder de algemene leiding van de Conferentie van de Partijen, de administratieve en contractuele regelingen aan te gaan die noodzakelijk zijn voor de doelmatige verrichting van zijn taken; en
+6. If an additional annex or an amendment to an annex is related to an amendment to this Convention, the additional annex or amendment shall not enter into force until such time as the amendment to the Convention enters into force.
 
-- f. de andere in dit Verdrag vermelde of nog door de Conferentie van de Partijen vast te stellen secretariaatstaken en andere taken te verrichten.
+##### Article 23. Right to vote
 
-3. De taken van het Secretariaat die verband houden met dit Verdrag worden gezamenlijk uitgevoerd door de Directeur van UNEP en de Directeur-Generaal van de FAO, tenzij de Conferentie van de Partijen met een meerderheid van drievierde van de aanwezige en hun stem uitbrengende Partijen besluit de secretariaatstaken toe te vertrouwen aan één of meer andere bevoegde internationale organisaties.
+1. Each Party to this Convention shall have one vote, except as provided for in paragraph 2.
 
-##### Artikel 21. Wijzigingen van het Verdrag
+2. A regional economic integration organization, on matters within its competence, shall exercise its right to vote with a number of votes equal to the number of its member States that are Parties to this Convention. Such an organization shall not exercise its right to vote if any of its member States exercises its right to vote, and vice versa.
 
-1. Wijzigingen van dit Verdrag kunnen door elke Partij worden voorgesteld.
+##### Article 24. Signature
 
-2. Wijzigingen van dit Verdrag worden aangenomen tijdens een Vergadering van de Conferentie van de Partijen. De tekst van voorgestelde wijzigingen van dit Verdrag wordt uiterlijk zes maanden vóór de vergadering waarop zij ter aanneming worden voorgelegd, door het Secretariaat aan de Partijen toegezonden. Voorgestelde wijzigingen worden door het Secretariaat tevens toegezonden aan de ondertekenaars van dit Verdrag en, ter kennisgeving, aan de depositaris.
+This Convention shall be open for signature at Stockholm by all States and regional economic integration organizations on 23 May 2001, and at the United Nations Headquarters in New York from 24 May 2001 to 22 May 2002.
 
-3. De Partijen stellen alles in het werk om over elke voorgestelde wijziging van dit Verdrag consensus te bereiken. Indien alle pogingen om tot consensus te komen mislukken en geen overeenstemming is bereikt, wordt de wijziging in laatste instantie aangenomen met een meerderheid van drievierde van de op de vergadering aanwezige en hun stem uitbrengende Partijen.
+##### Article 25. Ratification, acceptance, approval or accession
 
-4. De wijziging wordt door de depositaris aan de Partijen toegezonden ter bekrachtiging, aanvaarding of goedkeuring.
+1. This Convention shall be subject to ratification, acceptance or approval by States and by regional economic integration organizations. It shall be open for accession by States and by regional economic integration organizations from the day after the date on which the Convention is closed for signature. Instruments of ratification, acceptance, approval or accession shall be deposited with the depositary.
 
-5. De bekrachtiging, aanvaarding of goedkeuring van wijzigingen wordt schriftelijk medegedeeld aan de depositaris. Overeenkomstig het derde lid aangenomen wijzigingen worden voor de Partijen die deze hebben aanvaard, van kracht negentig dagen nadat de akten van bekrachtiging, aanvaarding of goedkeuring door ten minste drievierde van de Partijen zijn ingediend. Daarna worden de wijzigingen voor elke andere Partij van kracht op de negentigste dag na de datum waarop die Partij haar akte van bekrachtiging, aanvaarding of goedkeuring van die wijzigingen heeft ingediend.
+2. Any regional economic integration organization that becomes a Party to this Convention without any of its member States being a Party shall be bound by all the obligations under the Convention. In the case of such organizations, one or more of whose member States is a Party to this Convention, the organization and its member States shall decide on their respective responsibilities for the performance of their obligations under the Convention. In such cases, the organization and the member States shall not be entitled to exercise rights under the Convention concurrently.
 
-##### Artikel 22. Aanneming en wijziging van bijlagen
+3. In its instrument of ratification, acceptance, approval or accession, a regional economic integration organization shall declare the extent of its competence in respect of the matters governed by this Convention. Any such organization shall also inform the depositary, who shall in turn inform the Parties, of any relevant modification in the extent of its competence.
 
-1. De bijlagen bij dit Verdrag maken een integrerend deel uit van het Verdrag en een verwijzing naar het Verdrag vormt tegelijkertijd een verwijzing naar de bijlagen daarbij, tenzij uitdrukkelijk anders is bepaald.
+4. In its instrument of ratification, acceptance, approval or accession, any Party may declare that, with respect to it, any amendment to [Annex A](https://wetten.overheid.nl/BWBV0001517), [B](https://wetten.overheid.nl/BWBV0001517) or [C](https://wetten.overheid.nl/BWBV0001517) shall enter into force only upon the deposit of its instrument of ratification, acceptance, approval or accession with respect thereto.
 
-2. De bijlagen hebben uitsluitend betrekking op aangelegenheden van procedurele, wetenschappelijke, technische of administratieve aard.
+##### Article 26. Entry into force
 
-3. De volgende procedure is van toepassing op het voorstellen, de aanneming en de inwerkingtreding van aanvullende bijlagen bij dit Verdrag:
+1. This Convention shall enter into force on the ninetieth day after the date of deposit of the fiftieth instrument of ratification, acceptance, approval or accession.
 
-- a. Aanvullende bijlagen bij dit Verdrag worden voorgesteld en aangenomen in overeenstemming met de in [artikel 21, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&artikel=21&z=2025-02-26&g=2025-02-26), vervatte procedure;
+2. For each State or regional economic integration organization that ratifies, accepts or approves this Convention or accedes thereto after the deposit of the fiftieth instrument of ratification, acceptance, approval or accession, the Convention shall enter into force on the ninetieth day after the date of deposit by such State or regional economic integration organization of its instrument of ratification, acceptance, approval or accession.
 
-- b. Een Partij die niet in staat is een aanvullende bijlage bij dit Verdrag te aanvaarden, stelt de depositaris daarvan schriftelijk in kennis binnen een jaar na de datum van mededeling door de depositaris van de aanneming van de aanvullende bijlage. De depositaris stelt alle Partijen onverwijld in kennis van elke ontvangen kennisgeving. Een Partij kan te allen tijde een eerdere verklaring van niet-aanvaarding ten aanzien van een aanvullende bijlage herroepen, waarna de bijlage voor die Partij in werking treedt, behoudens het bepaalde onder c; en
+3. For the purpose of paragraphs 1 and 2, any instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by member States of that organization.
 
-- c. Na het verstrijken van een jaar na de datum van de mededeling door de depositaris van de aanneming van een aanvullende bijlage, treedt de bijlage in werking voor alle Partijen die geen kennisgeving hebben gedaan als bedoeld onder b.
+##### Article 27. Reservations
 
-4. Voor het voorstellen, de aanneming en de inwerkingtreding van wijzigingen van [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26), [B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) of [C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26) gelden dezelfde procedures als voor het voorstellen, de aanneming en de inwerkingtreding van aanvullende bijlagen bij dit Verdrag, met dien verstande dat een wijziging van [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26), [B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) of [C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26) niet in werking treedt ten aanzien van een Partij die een verklaring met betrekking tot de wijzigingen van die Bijlagen heeft gedaan in overeenstemming met [artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&artikel=25&z=2025-02-26&g=2025-02-26), in welk geval een dergelijke wijziging ten aanzien van die Partij in werking treedt negentig dagen na de datum van de indiening bij de depositaris van haar akte van bekrachtiging, aanvaarding of datum van de goedkeuring van, of toetreding met betrekking tot een dergelijke wijziging.
+No reservations may be made to this Convention.
 
-5. De volgende procedure is van toepassing op het voorstellen, de aanneming en de inwerkingtreding van een wijziging van [Bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=D&z=2025-02-26&g=2025-02-26), [E](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=E&z=2025-02-26&g=2025-02-26) of [F](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=F&z=2025-02-26&g=2025-02-26):
+##### Article 28. Withdrawal
 
-- a. Wijzigingen worden voorgesteld in overeenstemming met de in [artikel 21, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&artikel=21&z=2025-02-26&g=2025-02-26), vervatte procedure;
+1. At any time after three years from the date on which this Convention has entered into force for a Party, that Party may withdraw from the Convention by giving written notification to the depositary.
 
-- b. De Partijen besluiten bij consensus over een wijziging van [Bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=D&z=2025-02-26&g=2025-02-26), [E](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=E&z=2025-02-26&g=2025-02-26) of [F](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=F&z=2025-02-26&g=2025-02-26); en
+2. Any such withdrawal shall take effect upon the expiry of one year from the date of receipt by the depositary of the notification of withdrawal, or on such later date as may be specified in the notification of withdrawal.
 
-- c. Een besluit om [Bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=D&z=2025-02-26&g=2025-02-26), [E](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=E&z=2025-02-26&g=2025-02-26) of [F](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=F&z=2025-02-26&g=2025-02-26) te wijzigen wordt door de depositaris onverwijld aan de Partijen medegedeeld. De wijziging treedt voor alle Partijen in werking op een in het besluit vast te stellen datum.
+##### Article 29. Depositary
 
-6. Indien een aanvullende bijlage of een wijziging van een bijlage verband houdt met een wijziging van dit Verdrag, treedt die aanvullende bijlage of die wijziging pas in werking wanneer de wijziging van het Verdrag van kracht wordt.
+The Secretary-General of the United Nations shall be the depositary of this Convention.
 
-##### Artikel 23. Stemrecht
+##### Article 30. Authentic texts
 
-1. Behoudens het bepaalde in het tweede lid, heeft elke Partij bij dit Verdrag één stem.
-
-2. Regionale organisaties voor economische integratie beschikken, wat binnen hun bevoegdheid vallende aangelegenheden betreft, over een aantal stemmen dat gelijk is aan het aantal stemmen van hun lidstaten die Partij zijn bij dit Verdrag. Bedoelde organisaties oefenen hun stemrecht niet uit indien een van hun lidstaten zijn stemrecht uitoefent, en omgekeerd.
-
-##### Artikel 24. Ondertekening
-
-Dit Verdrag is voor ondertekening opengesteld te Stockholm voor alle Staten en regionale organisaties voor economische integratie op 23 mei 2001 en op de zetel van de Verenigde Naties te New York van 24 mei 2001 tot en met 22 mei 2002.
-
-##### Artikel 25. Bekrachtiging, aanvaarding, goedkeuring of toetreding
-
-1. Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd door Staten en regionale organisaties voor economische integratie. Het staat open voor toetreding door Staten en regionale organisaties voor economische integratie vanaf de dag na de datum waarop het Verdrag voor ondertekening gesloten is. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding dienen te worden nedergelegd bij de depositaris.
-
-2. Een regionale organisatie voor economische integratie die Partij wordt bij dit Verdrag zonder dat één van haar lidstaten Partij is, is gebonden aan alle verplichtingen krachtens het Verdrag. Wanneer één of meer lidstaten van een dergelijke organisatie Partij is of zijn bij dit Verdrag, besluiten de organisatie en haar lidstaten over hun respectieve verantwoordelijkheden met betrekking tot de nakoming van hun verplichtingen krachtens het Verdrag. In dergelijke gevallen zijn de organisatie en de lidstaten niet gerechtigd de uit het Verdrag voortvloeiende rechten tegelijkertijd uit te oefenen.
-
-3. In hun akten van bekrachtiging, aanvaarding, goedkeuring of toetreding geven regionale organisaties voor economische integratie de omvang van hun bevoegdheid ter zake van door het Verdrag geregelde aangelegenheden aan. Deze organisaties melden aan de depositaris ook elke relevante wijziging betreffende de omvang van hun bevoegdheid, en de depositaris stelt de Partijen daarvan in kennis.
-
-4. In haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding kan een Partij verklaren dat een wijziging van [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26), [B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) of [C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26) ten aanzien van haar eerst in werking treedt wanneer zij haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding ter zake heeft nedergelegd.
-
-##### Artikel 26. Inwerkingtreding
-
-1. Dit Verdrag treedt in werking negentig dagen na de datum van nederlegging van de vijftigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
-
-2. Voor elke Staat of regionale organisatie voor economische integratie die na de nederlegging van de vijftigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, dit Verdrag bekrachtigt, aanvaardt of goedkeurt, dan wel hiertoe toetreedt, treedt het Verdrag in werking negentig dagen na de datum van nederlegging van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding door die Staat of regionale organisatie voor economische integratie.
-
-3. Voor de toepassing van het eerste en tweede lid wordt de nederlegging van een akte door een regionale organisatie voor economische integratie niet meegeteld bij de door haar lidstaten nedergelegde akten.
-
-##### Artikel 27. Voorbehouden
-
-Ten aanzien van dit Verdrag kan geen enkel voorbehoud worden gemaakt.
-
-##### Artikel 28. Opzegging
-
-1. Drie jaar na de datum waarop dit Verdrag voor een Partij in werking is getreden, kan die Partij te allen tijde het Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de depositaris.
-
-2. De opzegging wordt van kracht een jaar na de datum waarop de depositaris de kennisgeving van opzegging heeft ontvangen of op een latere in de kennisgeving vermelde datum.
-
-##### Artikel 29. Depositaris
-
-De Secretaris-Generaal van de Verenigde Naties is depositaris van dit Verdrag.
-
-##### Artikel 30. Authentieke teksten
-
-Het origineel van dit Verdrag, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
+The original of this Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized to that effect, have signed this Convention.
 

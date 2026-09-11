@@ -1,49 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de exploitatie van de voorkomens in het Markham-veld en de afname van bitumina daaruit"
 identifier: "BWBV0001074"
-country: "nl"
-rank: "verdrag"
-publication_date: "1993-03-03"
-last_updated: "1993-03-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001074"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002412473"
-version_id: "10002420652"
-internal_id: "C10006976511"
-label_id: "10002402444"
-dtd_version: "2.0"
-original_entry_into_force: "1993-03-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001074/1993-03-03/0"
-intitule_bron: "Trb.1992-99"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-02-12"
-intitule_published: "1992-07-17"
-intitule_in_force: "1993-04-01"
-intitule_status: "goed"
-original_publication: "Trb.1992-99"
-original_signed_date: "1993-02-12"
-original_published_date: "1992-07-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1992-99"
-entry_into_force_date: "1993-03-03"
-jci_1_3: "jci1.3:c:BWBV0001074&z=1993-03-03&g=1993-03-03"
-jci_1_0: "1.0:c:BWBV0001074&g=1993-03-03"
-citeertitel_status: "redactioneel"
-signed_date: "1993-02-12"
-entry_into_force: "1993-03-03"
+publicatiedatum: 1993-03-03
+laatste_update: 1993-03-03
+status: geldig
+toestand: 1993-03-03
+bron: "https://wetten.overheid.nl/BWBV0001074"
+opgehaald: 2026-09-11
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de exploitatie van de voorkomens in het Markham-veld en de afname van bitumina daaruit
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-Overwegende dat boringen op het continentale plat tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk het bestaan van gasvoorkomens hebben aangetoond, thans de voorkomens in het Markham-veld genaamd, die zich uitstrekken over de grenslijn als omschreven in de Overeenkomst van 6 oktober 1965 tussen de beide Regeringen inzake de begrenzing van het tussen de twee landen gelegen continentale plat onder de Noordzee;
-
-Gelet op de Overeenkomst van dezelfde datum inzake de exploitatie van op zichzelf staande geologische structuren of velden die zich over die grenslijn uitstrekken, waarbij de beide Regeringen zich ertoe hebben verplicht ernaar te streven overeenstemming te bereiken over zowel de wijze waarop een structuur of veld zo doelmatig mogelijk kan worden geëxploiteerd als de wijze waarop de daarmede verband houdende kosten en opbrengsten zullen worden verdeeld;
-
-Geleid door de wens vóór de aanvang van de winning voorzieningen te treffen voor de geïntegreerde exploitatie van de voorkomens in het Markham-veld en de regulering van de afname van de gewonnen bitumina uit de voorkomens in het Markham-veld;
-
-Zijn als volgt overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Overwegende dat boringen op het continentale plat tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk het bestaan van gasvoorkomens hebben aangetoond, thans de voorkomens in het Markham-veld genaamd, die zich uitstrekken over de grenslijn als omschreven in de Overeenkomst van 6 oktober 1965 tussen de beide Regeringen inzake de begrenzing van het tussen de twee landen gelegen continentale plat onder de Noordzee; Gelet op de Overeenkomst van dezelfde datum inzake de exploitatie van op zichzelf staande geologische structuren of velden die zich over die grenslijn uitstrekken, waarbij de beide Regeringen zich ertoe hebben verplicht ernaar te streven overeenstemming te bereiken over zowel de wijze waarop een structuur of veld zo doelmatig mogelijk kan worden geëxploiteerd als de wijze waarop de daarmede verband houdende kosten en opbrengsten zullen worden verdeeld; Geleid door de wens vóór de aanvang van de winning voorzieningen te treffen voor de geïntegreerde exploitatie van de voorkomens in het Markham-veld en de regulering van de afname van de gewonnen bitumina uit de voorkomens in het Markham-veld; Zijn als volgt overeengekomen:*
 
 ## DEEL I. BEGRIPSOMSCHRIJVINGEN
 
@@ -73,19 +43,19 @@ Tenzij het zinsverband anders vereist, wordt voor de toepassing van deze Overeen
 
 - k. „voorkomens in het Markham-veld":
 
-- a. elk gedeelte van de Leman-zandsteenformatie dat onder het Markham-gebied ligt en
+   - a. elk gedeelte van de Leman-zandsteenformatie dat onder het Markham-gebied ligt en
 
-- i. dat zich uitstrekt over de grenslijn; of
+      - i. dat zich uitstrekt over de grenslijn; of
 
-- ii. dat kan worden geëxploiteerd door middel van een boorput waarin is voorzien in het ontwikkelingsplan; of
+      - ii. dat kan worden geëxploiteerd door middel van een boorput waarin is voorzien in het ontwikkelingsplan; of
 
-- iii. ten aanzien waarvan de Markham-vergunninghouders met toestemming van de Regeringen zijn overeengekomen het te exploiteren in overeenstemming met overeenkomsten tussen groepen vergunninghouders; en
+      - iii. ten aanzien waarvan de Markham-vergunninghouders met toestemming van de Regeringen zijn overeengekomen het te exploiteren in overeenstemming met overeenkomsten tussen groepen vergunninghouders; en
 
-- b. elke andere bitumina-houdende formatie
+   - b. elke andere bitumina-houdende formatie
 
-- i. waarvan kan worden aangetoond dat de vloeibare of gasvormige koolwaterstoffen in druk- en faseverbinding staan met de vloeibare of gasvormige koolwaterstoffen in een gedeelte van de Leman-zandsteenformatie als bedoeld onder letter a hierboven, en
+      - i. waarvan kan worden aangetoond dat de vloeibare of gasvormige koolwaterstoffen in druk- en faseverbinding staan met de vloeibare of gasvormige koolwaterstoffen in een gedeelte van de Leman-zandsteenformatie als bedoeld onder letter a hierboven, en
 
-- ii. die kan worden geëxploiteerd door middel van een boorput waarin is voorzien in het ontwikkelingsplan.
+      - ii. die kan worden geëxploiteerd door middel van een boorput waarin is voorzien in het ontwikkelingsplan.
 
 - l. „Markham-installaties": alle bouwwerken of inrichtingen aangelegd of aan te leggen boven, op of onder de zeebodem, met uitzondering van interfield-pijpleidingen en de exportpijpleiding, ten behoeve van de exploitatie van de voorkomens in het Markham-veld in overeenstemming met het ontwikkelingsplan.
 
@@ -165,9 +135,9 @@ De winning gaat op deze basis voort tot de eerste dag van de maand volgend op de
 
 - a. op elk tijdstip nadat de eerste vaststelling van de onderwerpelijke aangelegenheid tot stand is gekomen, doch ten minste:
 
-- i. twee jaar nadat die eerste vaststelling in werking is getreden; of een herziening van de vaststelling van regeringswege betreffende de onderwerpelijke aangelegenheid in werking is getreden; of
+   - i. twee jaar nadat die eerste vaststelling in werking is getreden; of een herziening van de vaststelling van regeringswege betreffende de onderwerpelijke aangelegenheid in werking is getreden; of
 
-- ii. driejaar nadat een aanvang is gemaakt met een herziening van een vaststelling door vergunninghouders betreffende de onderwerpelijke aangelegenheid overeenkomstig het eerste of tweede lid;
+   - ii. driejaar nadat een aanvang is gemaakt met een herziening van een vaststelling door vergunninghouders betreffende de onderwerpelijke aangelegenheid overeenkomstig het eerste of tweede lid;
 
 - b. op elk ander door de beide Regeringen overeengekomen tijdstip.
 
@@ -345,84 +315,14 @@ Elke Regering wijst een scheidsman aan en de twee aldus aangewezen scheidsmannen
 
 2. De beide Regeringen kunnen deze Overeenkomst te allen tijde wijzigen of beëindigen met wederzijdse instemming.
 
-##### 1
-
-De onderstaande paragrafen 2 tot en met 4 zijn van toepassing in het geval een aangelegenheid dient te worden vastgesteld door een door de Regeringen aangewezen deskundige overeenkomstig de artikelen 5, 6 of 16 van deze Overeenkomst.
-
-##### 2
-
-a. De deskundige wordt met wederzijdse instemming door de beide Regeringen gekozen uit personen die algemeen erkend deskundig zijn en die geen conflicterende belangen hebben. Onmiddellijk voor de aanvaarding van de benoeming dient de deskundige de eerste in het Aanhangsel verwoorde verklaring, dan wel een andere verklaring die naar de Regeringen overeenkomen onder de omstandigheden passend is, af te leggen.
-
-b. Indien aan het einde van de desbetreffende termijn als genoemd in artikel 5, derde lid, dan wel artikel 6, vijfde lid, of artikel 16, zevende lid, van deze Overeenkomst, geen overeenstemming is bereikt omtrent de keuze van de deskundige, wisselt elke Regering op dat tijdstip met de andere Regering een lijst uit van ten hoogste drie onafhankelijke deskundigen, die daarop zijn geplaatst in volgorde van voorkeur, waarbij aan de eerste vijf punten worden toegekend, aan de tweede vier en aan de derde drie. De deskundige aan wie het grootste aantal punten is toegekend uit beide lijsten, wordt binnen 20 dagen daarna benoemd als de deskundige die een oplossing moet vinden voor de onderwerpelijke aangelegenheid. Indien twee of meer deskundigen op de door de Regeringen uitgewisselde lijsten het hoogste aantal punten delen, bepalen de Regeringen binnen 30 dagen na de uitwisseling met wederzijdse instemming, of bij gebreke daarvan, door middel van loting, wie van de deskundigen zal worden benoemd om te beslissen over de onderwerpelijke aangelegenheid.
-
-c. Indien de te benoemen deskundige niet in staat of niet bereid is de zaak ter hand te nemen of naar het oordeel van beide Regeringen dit niet binnen een redelijke termijn doet, is degene die het hoogste aantal punten heeft van de overgebleven deskundigen de deskundige die over de onderwerpelijke aangelegenheid moet beslissen. Indien het grootste aantal punten wordt gedeeld door twee of meer van deze deskundigen, besluiten de beide Regeringen met wederzijdse instemming of door middel van loting welke deskundige wordt aangewezen als de deskundige die over de onderwerpelijke aangelegenheid moet beslissen.
-
-d. Indien een Regering binnen een ingevolge deze Bijlage II gestelde termijn geen gevolg heeft gegeven aan een verzoek of een kennisgeving, wordt die Regering geacht afstand te hebben gedaan van de ingevolge deze Bijlage II daartoe verleende rechten, maar zij wordt niettemin gebonden door de handelingen van de andere Regering bij de keuze van een deskundige, alsmede door de beslissing van die deskundige.
-
-e. De deskundige heeft tot taak om tot een onafhankelijke vaststelling te komen met betrekking tot de onderwerpelijke aangelegenheid.
-
-f. De deskundige kan onafhankelijke medewerkers aantrekken ten einde werkzaamheden te verrichten die noodzakelijk zijn om hem in staat te stellen tot een beslissing te komen, mits een hiertoe door de deskundige voorgedragen medewerker door de Regeringen wordt goedgekeurd en de verklaring aflegt die als tweede in het Aanhangsel is opgenomen, dan wel een andere verklaring die naar de Regeringen overeenkomen onder de omstandigheden passend is.
-
-g. De beloning en de kosten van de deskundige worden in eerste instantie betaald door de Regering die als eerste
-
-- i. heeft aangegeven te willen afwijken van het door de uitvoerder van de werkzaamheden ingediende voorstel tot vaststelling, of
-
-- ii. is overgegaan tot een herziening van een vaststelling van regeringswege, of
-
-- iii. niet heeft ingestemd met de indiening of de voorgestelde ijking als bedoeld in artikel 16, zevende lid; van deze Overeenkomst,
-
-en zij zijn verhaalbaar op de uitvoerder van de werkzaamheden. Deze is verplicht alles in het werk te stellen om ze te vergoeden aan de Regering die in eerste instantie heeft betaald, in het geval van de Regering van het Koninkrijk der Nederlanden binnen hetzelfde kalenderjaar als dat waarin de betaling is geschied, en in het geval van de Regering van het Verenigd Koninkrijk binnen hetzelfde tijdvak van twaalf maanden, beginnende op 1 april, als dat waarin de betaling is geschied.
-
-##### 3
-
-In geval van een vaststelling in verband met de toepassing van de artikelen 5 of 6 van deze Overeenkomst neemt de deskundige geen andere gegevens in aanmerking dan
-
-- a. de gegevens die zijn opgenomen in het gezamenlijke gegevensbestand zoals dit is omschreven in overeenkomsten tussen groepen vergunninghouders; en
-
-- b. de gegevens in het overeengekomen gegevensbestand, als omschreven in overeenkomsten tussen groepen vergunninghouders, ten aanzien waarvan de Regeringen overeenkomen dat
-
-- i. zij zowel juist als relevant zijn, en
-
-- ii. het passend is ze in aanmerking te nemen.
-
-##### 4
-
-De deskundige dient de in de desbetreffende overeenkomst tussen groepen vergunninghouders nader aangeduide procedures voor de evaluatie en toepassing van de in de derde paragraaf bedoelde gegevens in acht te nemen, behalve in geval dat
-
-- a. beide Regeringen overeenkomen (op voorstel van de deskundige of anderszins) dat hij een andere procedure in acht moet nemen; of
-
-- b. beide Regeringen overeenkomen (op voorstel van de deskundige) dat aan de deskundige moet worden overgelaten welke procedure hij in acht neemt; met dien verstande evenwel dat de deskundige niet gerechtigd is af te wijken van de formule neergelegd in de overeenkomsten tussen groepen vergunninghouders krachtens welke Tract-Deelnemingen definitief worden bepaald.
-
-##### 5
-
-a. De deskundige komt slechts met een Regering bijeen te zamen met de andere Regering. Alle mededelingen tussen de Regeringen en de deskundige buiten bedoelde bijeenkomsten dienen schriftelijk te worden gedaan en daarvan dient tegelijkertijd een afschrift aan de andere Regering te worden gezonden.
-
-b. Een Regering kan worden bijgestaan door elk van haar Markham-vergunninghouders.
-
-##### 6
-
-a. De deskundige dient een voorlopige beslissing te geven binnen een termijn van 90 dagen (of een andere door de Regeringen te bepalen termijn), beginnende op de datum waarop de gekozen deskundige ermede instemt als zodanig op te treden. De voorlopige beslissing dient vergezeld te gaan van ter onderbouwing van de beslissing dienende stukken die de Regeringen nodig hebben om zich daarover een gefundeerd oordeel te vormen. Elke Regering heeft het recht, binnen 90 dagen na ontvangst van de voorlopige beslissing van de deskundige, een toelichting bij die beslissing en de ter onderbouwing van die beslissing dienende stukken te verlangen, de deskundige te verzoeken zijn voorlopige beslissing te herzien en stukken in te dienen bij de deskundige, opdat hij deze in overweging neemt. Ingeval een dergelijk verzoek wordt gedaan en nadere stukken worden ingediend, heeft de andere Regering het recht binnen een termijn van 15 dagen na ontvangst van een kopie van de stukken van de andere Regering eveneens nadere stukken in te dienen. De deskundige dient zijn definitieve beslissing betreffende de onderwerpelijke aangelegenheid uiterlijk 140 dagen nadat hij zijn voorlopige beslissing heeft gegeven, te geven.
-
-b. De deskundige dient alle door Regeringen gedane mededelingen en ingediende stukken in overweging te nemen voordat hij beslist.
-
-c. De deskundige dient zijn definitieve beslissing in schriftelijke vorm te geven en zij dient uitvoerig met redenen te zijn omkleed; de beslissing is onherroepelijk en bindend voor beide Regeringen, behalve in geval van bedrog of kennelijke dwaling.
-
-##### 7
-
-Elke Regering verplicht haar groepen Markham-vergunninghouders ertoe volledige medewerking te verlenen bij het verstrekken van de in de derde paragraaf bedoelde informatie en ook overigens de herziening van de vaststelling van regeringswege te bevorderen.
-
-##### 8
-
-De Regeringen verplichten de deskundige en elke door hem aangetrokken onafhankelijke medewerker ertoe een verklaring af te leggen met het oog op de handhaving van het vertrouwelijk karakter van de aan hem verstrekte informatie.
-
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun onderscheiden Regeringen, deze Overeenkomst hebben ondertekend.
 
 GEDAAN in tweevoud te 's-Gravenhage op 26 mei 1992 in de Nederlandse en de Engelse taal, beide teksten gelijkelijk rechtskracht hebbend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 (w.g.) J. E. ANDRIESSEN
 
-**Voor de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,**
+*Voor de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,*
 
 (w.g.) MICHAEL JENKINS

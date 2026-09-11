@@ -1,58 +1,29 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk inzake sociale zekerheid"
 identifier: "BWBV0001422"
-country: "nl"
-rank: "verdrag"
-publication_date: "2000-02-01"
-last_updated: "2000-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001422"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10000605853"
-version_id: "10000623982"
-internal_id: "C10006990031"
-label_id: "10000606094"
-original_entry_into_force: "2000-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001422/2000-02-01/0"
-intitule_bron: "Trb.1999-10"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1999-11-22"
-intitule_published: "1999-01-14"
-intitule_in_force: "1999-12-31"
-intitule_status: "goed"
-original_publication: "Trb.1999-10"
-original_signed_date: "1999-11-22"
-original_published_date: "1999-01-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1999-10"
-entry_into_force_date: "2000-02-01"
-jci_1_3: "jci1.3:c:BWBV0001422&z=2000-02-01&g=2000-02-01"
-jci_1_0: "1.0:c:BWBV0001422&g=2000-02-01"
-citeertitel_status: "officieel"
-signed_date: "1999-11-22"
-entry_into_force: "2000-02-01"
+publicatiedatum: 2000-02-01
+laatste_update: 2000-02-01
+status: geldig
+toestand: 2000-02-01
+bron: "https://wetten.overheid.nl/BWBV0001422"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk inzake sociale zekerheid
 
-Het Koninkrijk der Nederlanden
+*Het Koninkrijk der Nederlanden en de Republiek Oostenrijk Geleid door de wens, met inachtneming van artikel 8 van Verordening (EEG) nr. 1408/71, op het gebied van de sociale zekerheid tussen de beide Staten bescherming te bieden die boven de Verordeningen (EEG) nr. 1408/71 en nr. 574/72 uitgaat aan personen die krachtens de wetgeving van een of van beide Staten beschermd zijn of zijn geweest; Zijn overeengekomen het volgende Verdrag te sluiten, dat in de plaats zal treden van de Overeenkomst van 7 maart 1974 tussen de beide Staten inzake sociale zekerheid zoals gewijzigd bij de Aanvullende Overeenkomst van 5 november 1980:*
 
-en
-
-de Republiek Oostenrijk
-
-Geleid door de wens, met inachtneming van artikel 8 van Verordening (EEG) nr. 1408/71, op het gebied van de sociale zekerheid tussen de beide Staten bescherming te bieden die boven de Verordeningen (EEG) nr. 1408/71 en nr. 574/72 uitgaat aan personen die krachtens de wetgeving van een of van beide Staten beschermd zijn of zijn geweest;
-
-Zijn overeengekomen het volgende Verdrag te sluiten, dat in de plaats zal treden van de Overeenkomst van 7 maart 1974 tussen de beide Staten inzake sociale zekerheid zoals gewijzigd bij de Aanvullende Overeenkomst van 5 november 1980:
-
-## TITEL I. ALGEMENE BEPALINGEN
+### TITEL I. ALGEMENE BEPALINGEN
 
 ##### Artikel 1
 
 1. In dit Verdrag wordt verstaan onder:
 
-- 1. „Verordening” [Verordening (EEG) nr. 1408/71](31971R1408) betreffende de toepassing van de sociale zekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen, in de te eniger tijd tussen de beide Verdragsluitende Staten van kracht zijnde redactie;
+- 1. „Verordening” Verordening (EEG) nr. 1408/71 betreffende de toepassing van de sociale zekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen, in de te eniger tijd tussen de beide Verdragsluitende Staten van kracht zijnde redactie;
 
-- 2. „Toepassingsverordening” [Verordening (EEG) nr. 574/72](31972R0574) tot vaststelling van de wijze van toepassing van [Verordening (EEG) nr. 1408/71](31971R1408) betreffende de toepassing van de sociale zekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen, in de te eniger tijd tussen de beide Verdragsluitende Staten van kracht zijnde redactie.
+- 2. „Toepassingsverordening” Verordening (EEG) nr. 574/72 tot vaststelling van de wijze van toepassing van Verordening (EEG) nr. 1408/71 betreffende de toepassing van de sociale zekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen, in de te eniger tijd tussen de beide Verdragsluitende Staten van kracht zijnde redactie.
 
 2. In dit Verdrag hebben andere termen de betekenis welke daaraan in de Verordening en de Toepassingsverordening of in de nationale wetgeving wordt gegeven.
 
@@ -86,7 +57,7 @@ Dit Verdrag is van toepassing op de wettelijke regelingen waarop de materiële w
 
 4. Op de in artikel 3, tweede lid, genoemde personen is ten aanzien van het ouderdomspensioen krachtens de Nederlandse wetgeving betreffende de algemene ouderdomsverzekering Titel III, Hoofdstuk 3, en Bijlage VI. J. Nederland, cijfer 2, van de Verordening niet van toepassing.
 
-## TITEL II. BIJZONDERE BEPALINGEN
+### TITEL II. BIJZONDERE BEPALINGEN
 
 ##### Artikel 6
 
@@ -118,7 +89,7 @@ Titel III, Hoofdstuk 3, van de Verordening van overeenkomstige toepassing.
 
 3. De in het tweede lid bedoelde tijdvakken worden alleen in aanmerking genomen voor de berekening van het ouderdomspensioen indien de betrokken persoon verzekerd is geweest in de zin van artikel 6 van de Algemene Ouderdomswet (AOW) en hij na het bereiken van de 59-jarige leeftijd gedurende zes jaren op het grondgebied van een of van beide Verdragsluitende Staten heeft gewoond en zolang hij op het grondgebied van een van beide Verdragsluitende Staten woont. Deze tijdvakken worden evenwel niet in aanmerking genomen indien zij samenvallen met tijdvakken die reeds in aanmerking kunnen worden genomen voor de berekening van een ouderdomspensioen krachtens de wetgeving van een andere Staat dan Nederland.
 
-## TITEL III. DIVERSE BEPALINGEN
+### TITEL III. DIVERSE BEPALINGEN
 
 ##### Artikel 10
 
@@ -140,7 +111,7 @@ Titel III, Hoofdstuk 3, van de Verordening van overeenkomstige toepassing.
 
 3. Het scheidsgerecht neemt zijn besluiten met meerderheid van stemmen. Zijn uitspraken zijn bindend voor de beide Verdragsluitende Staten. Iedere Verdragsluitende Staat draagt de kosten van de scheidsman die door deze Staat is benoemd. De overige kosten van het scheidsproces worden door de Verdragsluitende Staten gelijkelijk gedragen. Het scheidsgerecht stelt zelf zijn procedureregels vast.
 
-## TITEL IV. OVERGANGS- EN SLOTBEPALINGEN
+### TITEL IV. OVERGANGS- EN SLOTBEPALINGEN
 
 ##### Artikel 12
 
@@ -172,10 +143,10 @@ TEN BLIJKE WAARVAN de gevolmachtigden van beide Verdragsluitende Staten dit Verd
 
 GEDAAN te Wenen, op 9 december 1998, in tweevoud in de Nederlandse en de Duitse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 J. Th. H. C. VAN EBBENHORST TENGBERGEN
 
-**Voor de Republiek Oostenrijk**
+*Voor de Republiek Oostenrijk*
 
 CHRISTIAN PROX

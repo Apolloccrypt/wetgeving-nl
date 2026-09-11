@@ -1,55 +1,19 @@
 ---
 title: "Verdrag tussen de Regering van het Koninkrijk der Nederlanden en het Kabinet van Ministers van Oekraïne inzake technische en financiële samenwerking"
 identifier: "BWBV0001334"
-country: "nl"
-rank: "verdrag"
-publication_date: "1999-04-20"
-last_updated: "1999-04-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001334"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10001397423"
-version_id: "10001466622"
-internal_id: "C10006990331"
-label_id: "10001397564"
-dtd_version: "2.0"
-original_entry_into_force: "1999-04-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001334/1999-04-20/0"
-intitule_bron: "Trb.1998-140"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-05-11"
-intitule_published: "1998-06-12"
-intitule_in_force: "1999-05-28"
-intitule_status: "goed"
-original_publication: "Trb.1998-140"
-original_signed_date: "1998-05-11"
-original_published_date: "1998-06-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1998-140"
-entry_into_force_date: "1999-04-20"
-jci_1_3: "jci1.3:c:BWBV0001334&z=1999-04-20&g=1999-04-20"
-jci_1_0: "1.0:c:BWBV0001334&g=1999-04-20"
-citeertitel_status: "redactioneel"
-signed_date: "1998-05-11"
-entry_into_force: "1999-04-20"
+publicatiedatum: 1999-04-20
+laatste_update: 1999-04-20
+status: geldig
+toestand: 1999-04-20
+bron: "https://wetten.overheid.nl/BWBV0001334"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en het Kabinet van Ministers van Oekraïne inzake technische en financiële samenwerking
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-het Kabinet van Ministers van Oekraïne, hierna te noemen „de Partijen",
-
-Met het oogmerk de vriendschappelijke banden tussen de twee landen te versterken,
-
-Geleid door de wens deze relaties te versterken en een vruchtbare technische en financiële samenwerking tussen de twee landen tot stand te brengen,
-
-Erkennende dat de totstandbrenging van deze technische en financiële samenwerking zal bijdragen aan de verbetering van de sociale en economische situatie in Oekraïne met het oogmerk de verdere ontwikkeling van een markteconomie en van democratie, alsmede van goed bestuur in het algemeen te bevorderen,
-
-Zich ervan bewust dat het Kabinet van Ministers van Oekraïne zich ervoor inzet de hervormingen na te streven om een markteconomie onder democratische voorwaarden tot stand te brengen,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en het Kabinet van Ministers van Oekraïne, hierna te noemen „de Partijen", Met het oogmerk de vriendschappelijke banden tussen de twee landen te versterken, Geleid door de wens deze relaties te versterken en een vruchtbare technische en financiële samenwerking tussen de twee landen tot stand te brengen, Erkennende dat de totstandbrenging van deze technische en financiële samenwerking zal bijdragen aan de verbetering van de sociale en economische situatie in Oekraïne met het oogmerk de verdere ontwikkeling van een markteconomie en van democratie, alsmede van goed bestuur in het algemeen te bevorderen, Zich ervan bewust dat het Kabinet van Ministers van Oekraïne zich ervoor inzet de hervormingen na te streven om een markteconomie onder democratische voorwaarden tot stand te brengen, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Doelstellingen
 
@@ -73,17 +37,37 @@ Beide Partijen stellen jaarlijks in onderlinge overeenstemming een lijst op met 
 
 ##### Artikel 3. Samenwerkingsterreinen
 
+AFDELING 1
+
+SAMENWERKINGSVORMEN
+
 3.1. De samenwerking geschiedt in de vorm van technische bijstand, financiële bijstand en humanitaire hulp.
 
 3.2. Deze samenwerking kan op bilaterale basis of in samenwerking met derde partijen geschieden.
+
+AFDELING 2
+
+TECHNISCHE BIJSTAND
 
 3.3. Technische bijstand aan de Oekraïense Partij geschiedt door de Nederlandse Partij in de vorm van kennisoverdracht via opleiding en adviesactiviteiten en in de vorm van diensten, alsmede door de levering van uitrusting en materialen die noodzakelijk zijn voor de voorspoedige uitvoering van de projecten of programma's en voor de demonstratie van de Nederlandse kennisoverdracht en technologie.
 
 3.4. De projecten of programma's die vallen onder de technische bijstand voor Oekraïne zullen worden gekoppeld aan geselecteerde problemen van het politieke en economische transformatieproces.
 
+AFDELING 3
+
+FINANCIËLE BIJSTAND
+
 3.5. Financiële bijstand aan de Oekraïense Partij geschiedt door de Nederlandse Partij in de vorm van financiering van goederen, uitrusting, vee en materialen voor projecten of programma's, alsmede in de vorm van de diensten en de kennisoverdracht die noodzakelijk zijn voor de voorspoedige uitvoering van de projecten of programma's.
 
+AFDELING 4
+
+HUMANITAIRE HULP
+
 3.6. De bepalingen van dit Verdrag zijn van overeenkomstige toepassing op projecten of programma's inzake humanitaire hulp tussen de Partijen.
+
+AFDELING 5
+
+VERTEGENWOORDIGING
 
 3.7. Afhankelijk van de aard van het project wordt de Nederlandse Partij vertegenwoordigd door de minister van Buitenlandse Zaken, de minister van Economische Zaken of, indien de minister van Economische Zaken hiertoe besluit, door zijn uitvoerend agentschap Senter.
 
@@ -98,8 +82,6 @@ Beide Partijen stellen jaarlijks in onderlinge overeenstemming een lijst op met 
 4.3. De Oekraïense Partij stemt ermee in dat voor de betalingsprocedures die verband houden met de projecten of programma's inzake financiële bijstand, projectmanagement-eenheden die optreden namens de Oekraïense partners in de desbetreffende projecten of programma's kunnen worden aangewezen in onderlinge overeenstemming tussen de partners van elk project of programma. Voor betalingen in de tegenwaardefondsen in de plaatselijke valuta (Oekraïense hryvnas) kunnen speciale rekeningen worden geopend bij deze projectmanagement-eenheden in overeenstemming met de Oekraïense wetgeving. Over het gebruik van deze toevertrouwde fondsen wordt door de partners van het project of het programma gezamenlijk een beslissing genomen.
 
 4.4. De persoonlijke bezittingen van de deskundigen die zijn belast met de uitvoering van projecten of programma's binnen de werkingssfeer van dit Verdrag en die geen staatsburgers van Oekraïne zijn en niet permanent verblijven op het grondgebied van laatstgenoemde Staat worden vrijgesteld van rechten, belastingen en andere verplichte heffingen wanneer zij in het douanegebied van Oekraïne worden gebracht. Indien dergelijke goederen worden vervreemd in het douanegebied van Oekraïne, wordt de verschuldigde accijns bepaald in overeenstemming met de geldende wetgeving van Oekraïne.
-
-4.5.
 
 De Oekraïense Partij verstrekt, binnen het kader van de nationale wetgeving, kosteloos en onverwijld inreisvisa voor deskundigen en vertegenwoordigers die deelnemen aan de overeengekomen projecten of programma's.
 
@@ -135,10 +117,10 @@ De Partijen hebben een gemeenschappelijke bezorgdheid met betrekking tot corrupt
 
 GEDAAN te Kiev op 11 mei negentienhonderd achtennegentig in tweevoud, zijnde beide teksten gelijkelijk authentiek, in de Nederlandse, Oekraïense en Engelse taal. In geval van verschil in uitleg is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) G. ZALM
 
-**Voor het Kabinet van Ministers van Oekraïne**
+*Voor het Kabinet van Ministers van Oekraïne*
 
 (w.g.) SHPEK ROMAN VASYLYOVYCH

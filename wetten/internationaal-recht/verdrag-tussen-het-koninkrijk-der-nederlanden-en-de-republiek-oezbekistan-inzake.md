@@ -1,52 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oezbekistan inzake de bevordering en de wederzijdse bescherming van investeringen"
 identifier: "BWBV0001292"
-country: "nl"
-rank: "verdrag"
-publication_date: "1997-07-01"
-last_updated: "1997-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001292"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000331483"
-version_id: "10000339512"
-internal_id: "C10006987871"
-label_id: "10000331684"
-original_entry_into_force: "1997-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001292/1997-07-01/0"
-intitule_bron: "Trb.1996-113"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-05-30"
-intitule_published: "1996-04-19"
-intitule_in_force: "1997-07-30"
-intitule_status: "goed"
-original_publication: "Trb.1996-113"
-original_signed_date: "1997-05-30"
-original_published_date: "1996-04-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1996-113"
-entry_into_force_date: "1997-07-01"
-jci_1_3: "jci1.3:c:BWBV0001292&z=1997-07-01&g=1997-07-01"
-jci_1_0: "1.0:c:BWBV0001292&g=1997-07-01"
-citeertitel_status: "officieel"
-signed_date: "1997-05-30"
-entry_into_force: "1997-07-01"
+publicatiedatum: 1997-07-01
+laatste_update: 1997-07-01
+status: geldig
+toestand: 1997-07-01
+bron: "https://wetten.overheid.nl/BWBV0001292"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oezbekistan inzake de bevordering en de wederzijdse bescherming van investeringen
 
-De Regering van het Koninkrijk der Nederlanden,
-
-en
-
-de Regering van de Republiek Oezbekistan,
-
-hierna aangeduid als de Verdragsluitende Partijen,
-
-Geleid door de wens de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door de onderdanen van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij betreft,
-
-In het besef dat overeenstemming omtrent de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden, en de Regering van de Republiek Oezbekistan, hierna aangeduid als de Verdragsluitende Partijen, Geleid door de wens de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door de onderdanen van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij betreft, In het besef dat overeenstemming omtrent de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -54,23 +21,23 @@ Voor de toepassing van dit Verdrag:
 
 - a. omvat de term „investeringen”: alle soorten vermogensbestanddelen en in het bijzonder, doch niet uitsluitend:
 
-- i. roerende en onroerende zaken, alsmede alle andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
+   - i. roerende en onroerende zaken, alsmede alle andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
 
-- ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en gezamenlijke ondernemingen;
+   - ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en gezamenlijke ondernemingen;
 
-- iii. recht op geld, op andere vermogensbestanddelen of op iedere prestatie die economische waarde heeft;
+   - iii. recht op geld, op andere vermogensbestanddelen of op iedere prestatie die economische waarde heeft;
 
-- iv. rechten op het gebied van de intellectuele eigendom, technische werkwijzen, goodwill en know-how;
+   - iv. rechten op het gebied van de intellectuele eigendom, technische werkwijzen, goodwill en know-how;
 
-- v. rechten verleend krachtens het publiekrecht, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen;
+   - v. rechten verleend krachtens het publiekrecht, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen;
 
 - b. omvat de term „onderdanen” met betrekking tot elk van beide Verdragsluitende Partijen:
 
-- i. natuurlijke personen die de nationaliteit van die Verdragsluitende Partij hebben;
+   - i. natuurlijke personen die de nationaliteit van die Verdragsluitende Partij hebben;
 
-- ii. rechtspersonen die zijn opgericht krachtens het recht van die Verdragsluitende Partij;
+   - ii. rechtspersonen die zijn opgericht krachtens het recht van die Verdragsluitende Partij;
 
-- iii. rechtspersonen die niet zijn opgericht krachtens het recht van die Partij, maar die onder al dan niet rechtstreeks toezicht staan van natuurlijke personen zoals omschreven onder i. of van rechtspersonen zoals omschreven onder ii. hierboven;
+   - iii. rechtspersonen die niet zijn opgericht krachtens het recht van die Partij, maar die onder al dan niet rechtstreeks toezicht staan van natuurlijke personen zoals omschreven onder i. of van rechtspersonen zoals omschreven onder ii. hierboven;
 
 - c. omvat de term „grondgebied” mede de zeegebieden grenzend aan de kust van de betrokken Staat, voor zover die Staat overeenkomstig het internationale recht soevereine rechten of rechtsmacht in deze gebieden uitoefent.
 
@@ -110,9 +77,9 @@ De Verdragsluitende Partijen waarborgen dat betalingen die verband houden met ee
 
 - b. gelden nodig
 
-- i. voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindprodukten, of
+   - i. voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindprodukten, of
 
-- ii. om kapitaalgoederen te vervangen ten einde de continuïteit van een investering te waarborgen;
+   - ii. om kapitaalgoederen te vervangen ten einde de continuïteit van een investering te waarborgen;
 
 - c. bijkomende gelden nodig voor de ontwikkeling van een investering;
 
@@ -190,10 +157,10 @@ TEN BLIJKE WAARVAN de ondergetekende vertegenwoordigers, daartoe naar behoren ge
 
 GEDAAN in tweevoud te Tasjkent op 14 maart 1996 in de Nederlandse, Oezbeekse en Engelse taal, zijnde de drie teksten gelijkelijk authentiek. In geval van verschil in uitlegging is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) J. C. F. VON MÜHLEN
 
-**Voor de Regering van de Republiek Oezbekistan**
+*Voor de Regering van de Republiek Oezbekistan*
 
 (w.g.) A. K. KAMILOV

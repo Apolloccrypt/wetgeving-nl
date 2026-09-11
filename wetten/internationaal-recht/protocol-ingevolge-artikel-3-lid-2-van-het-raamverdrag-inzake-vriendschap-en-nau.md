@@ -1,46 +1,43 @@
 ---
 title: "Protocol ingevolge artikel 3, lid 2, van het Raamverdrag inzake Vriendschap en nauwere Samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Suriname van 18 juni 1992"
 identifier: "BWBV0001053"
-country: "nl"
-rank: "verdrag"
-publication_date: "1992-06-18"
-last_updated: "1992-06-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001053"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002312293"
-version_id: "10002321942"
-internal_id: "C10006996691"
-label_id: "10002302164"
-dtd_version: "2.0"
-original_entry_into_force: "1992-06-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001053/1992-06-18/0"
-intitule_bron: "Trb.1992-188"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-06-18"
-intitule_published: "1992-12-09"
-intitule_in_force: "1992-12-09"
-intitule_status: "goed"
-original_publication: "Trb.1992-188"
-original_signed_date: "1992-06-18"
-original_published_date: "1992-12-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1992-188"
-entry_into_force_date: "1992-06-18"
-jci_1_3: "jci1.3:c:BWBV0001053&z=1992-06-18&g=1992-06-18"
-jci_1_0: "1.0:c:BWBV0001053&g=1992-06-18"
-citeertitel_status: "redactioneel"
-signed_date: "1992-06-18"
-entry_into_force: "1992-06-18"
+publicatiedatum: 1992-06-18
+laatste_update: 1992-06-18
+status: geldig
+toestand: 1992-06-18
+bron: "https://wetten.overheid.nl/BWBV0001053"
+opgehaald: 2026-09-11
 ---
+
 # Protocol ingevolge artikel 3, lid 2, van het Raamverdrag inzake Vriendschap en nauwere Samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Suriname van 18 juni 1992
+
+Het Koninkrijk der Nederlanden en de Republiek Suriname zijn ter uitvoering van artikel 3, lid 2, en met inachtneming van artikel 2, lid 7, van het Raamverdrag van 18 juni 1992 overeengekomen van de per 1 juli 1992 voor besteding beschikbare verdragsmiddelen als een bijdrage aan de financiering van een door de Republiek Suriname uit te voeren structureel aanpassings- en ontwikkelingsprogram te bestemmen voor:
+
+| - een investeringsprogramma voor rehabilitatie en verbetering van de infrastructuur | Nfl. 175 mln. |
+| --- | --- |
+| - een sociaal programma om de ongewenste sociale effecten van de aanpassing zo goed mogelijk op te vangen | Nfl. 150 mln. |
+| - een programma ter stimulering van de particuliere produktie, waaronder begrepen betalingsbalanssteun en financiële bijdragen aan een investeringsfonds | Nfl. 300 mln. |
+| - de wederopbouw en ontwikkeling van het binnenland | Nfl. 50 mln. |
+| - de versterking van de rechtsstaat en het overheidsapparaat | Nfl. 75 mln. |
+| - de sectoren onderwijs, volksgezondheid en volkshuisvesting | Nfl. 250 mln. |
+| TOTAAL | Nfl. 1000 mln. |
+
+Ten behoeve van het programma ter stimulering van de particuliere produktie kunnen tevens de garantiemiddelen worden gebruikt.
+
+Over de uitvoering van bovenvermelde programma's zal op korte termijn overleg worden gevoerd.
+
+De overige verdragsmiddelen zullen benut worden voor latere ophoging van de hierboven genoemde bedragen en voor de financiering van overige in het Raamverdrag en het Ontwikkelingsverdrag genoemde doelstellingen. Over de concrete inhoud, modaliteiten, duur en omvang van de te financieren projecten en programma's en de desbetreffende committeringen zal in gemeenschappelijk overleg worden besloten. Hierbij zal rekening worden gehouden met enerzijds de conclusies van het eerste en van het tweede Beleidsoverleg (juli 1989, resp. februari 1990) en anderzijds met de aanbevelingen vervat in de rapporten van Coopers and Lybrand en het Warwick Research Institute en de reakties van de Nationale Assemblee van Suriname daarop.
+
+De Nederlandse regering is bereid in overleg met het Nederlandse parlement na de besteding van de middelen uit de Overeenkomst betreffende ontwikkelingssamenwerking van 25 november 1975 de Republiek Suriname aanvullend verdragsmiddelen beschikbaar te stellen. Omvang, aard en duur zullen met het oog op de noodzakelijke continuïteit tijdig voor de uiteindelijke committering door beide Staten worden vastgesteld.
 
 GEDAAN te 's-Gravenhage op 18 juni 1992 in twee exemplaren, in de Nederlandse taal.
 
-**De Minister voor Ontwikkelingssamenwerking van Nederland,**
+*De Minister voor Ontwikkelingssamenwerking van Nederland,*
 
 (w.g.) J. PRONK
 
-**De Minister van Planning en Ontwikkelingssamenwerking van de Republiek Suriname,**
+*De Minister van Planning en Ontwikkelingssamenwerking van de Republiek Suriname,*
 
 (w.g.) E. J. SEDOC

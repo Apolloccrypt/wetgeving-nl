@@ -1,116 +1,78 @@
 ---
 title: "Akkoord tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake de door de Bondsrepubliek Duitsland te verlenen ondersteuning bij het beheer van onroerend goed te Seedorf"
 identifier: "BWBV0001444"
-country: "nl"
-rank: "verdrag"
-publication_date: "2006-12-31"
-last_updated: "2006-12-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001444"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10000932713"
-version_id: "10002515352"
-internal_id: "C10006990261"
-label_id: "10000932964"
-original_entry_into_force: "2006-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001444/2006-12-31/0"
-intitule_bron: "Trb.2006-193"
-intitule_effect: "intrekking-regeling"
-intitule_published: "2006-09-15"
-intitule_in_force: "2006-09-15"
-intitule_status: "vervallen"
-original_publication: "Trb.2006-193"
-original_published_date: "2006-09-15"
-original_effect: "intrekking-regeling"
-original_url_id: "trb-2006-193"
-entry_into_force_date: "2006-12-31"
-jci_1_3: "jci1.3:c:BWBV0001444&z=2006-12-31&g=2006-12-31"
-jci_1_0: "1.0:c:BWBV0001444&g=2006-12-31"
-citeertitel_status: "officieel"
-entry_into_force: "2006-12-31"
+publicatiedatum: 2006-12-31
+laatste_update: 2006-12-31
+status: geldig
+toestand: 2006-12-31
+bron: "https://wetten.overheid.nl/BWBV0001444"
+opgehaald: 2026-09-11
 ---
+
 # Akkoord tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake de door de Bondsrepubliek Duitsland te verlenen ondersteuning bij het beheer van onroerend goed te Seedorf
 
-De Regering van het Koninkrijk der Nederlanden
+##### Artikel 1. Juridisch kader
 
-en
+*Vervallen*
 
-de Regering van de Bondsrepubliek Duitsland,
+##### Artikel 2. Doel
 
-Gelet op het Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake het ter beschikking stellen van onroerend goed en het medegebruiken van oefenvoorzieningen van 6 oktober 1997,
+*Vervallen*
 
-zijn het volgende overeengekomen:
+##### Artikel 3. Gebruik
 
-##### 1. Juridisch kader
+*Vervallen*
 
-Vervallen
+##### Artikel 4. Infrastructuur
 
-##### 2. Doel
+*Vervallen*
 
-Vervallen
+##### Artikel 5. Procedure voor de ondersteunende diensten van de StOV Seedorf
 
-##### 3. Gebruik
+*Vervallen*
 
-Vervallen
+##### Artikel 6. Normen, marktconformiteit en belastingen
 
-##### 4. Infrastructuur
+*Vervallen*
 
-Vervallen
+##### Artikel 7. Aanpassing van het jaarcontract in het realisatiejaar (jaar X)
 
-##### 5. Procedure voor de ondersteunende diensten van de StOV Seedorf
+*Vervallen*
 
-Vervallen
+##### Artikel 8. Kwartaalcontrole
 
-##### 6. Normen, marktconformiteit en belastingen
+*Vervallen*
 
-Vervallen
+##### Artikel 9. Planningshorizon
 
-##### 7. Aanpassing van het jaarcontract in het realisatiejaar (jaar X)
+*Vervallen*
 
-Vervallen
+##### Artikel 10. Kostenmatiging
 
-##### 8. Kwartaalcontrole
+*Vervallen*
 
-Vervallen
+##### Artikel 11. Toeslag administratiekosten
 
-##### 9. Planningshorizon
+*Vervallen*
 
-Vervallen
+##### Artikel 12. Betaling
 
-##### 10. Kostenmatiging
+*Vervallen*
 
-Vervallen
+##### Artikel 13. Beslechting van geschillen
 
-##### 11. Toeslag administratiekosten
+*Vervallen*
 
-Vervallen
+##### Artikel 14. Evaluatie
 
-##### 12. Betaling
+*Vervallen*
 
-Vervallen
+##### Artikel 15. Correspondentie
 
-##### 13. Beslechting van geschillen
+*Vervallen*
 
-Vervallen
+##### Artikel 16. Slotbepalingen
 
-##### 14. Evaluatie
-
-Vervallen
-
-##### 15. Correspondentie
-
-Vervallen
-
-##### 16. Slotbepalingen
-
-Vervallen
-
-GEDAAN te Bergen, op 6 oktober 1997, in twee originele exemplaren, elk in de Nederlandse en in de Duitse taal, zijnde beide teksten gelijkelijk authentiek.
-
-**Voor de Regering van het Koninkrijk der Nederlanden,**
-
-(w.g.) A. P. VAN WALSUM
-
-**Voor de Regering van de Bondsrepubliek Duitsland,**
-
-(w.g.) P. HARTMANN
+*Vervallen*

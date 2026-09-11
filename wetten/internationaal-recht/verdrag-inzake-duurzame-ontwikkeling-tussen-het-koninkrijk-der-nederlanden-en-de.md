@@ -1,67 +1,19 @@
 ---
 title: "Verdrag inzake duurzame ontwikkeling tussen het Koninkrijk der Nederlanden en de Republiek Costa Rica"
 identifier: "BWBV0001246"
-country: "nl"
-rank: "verdrag"
-publication_date: "1996-08-12"
-last_updated: "1996-08-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001246"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10001600693"
-version_id: "10001678822"
-internal_id: "C10006986341"
-label_id: "10001600804"
-dtd_version: "2.0"
-original_entry_into_force: "1996-08-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001246/1996-08-12/0"
-intitule_bron: "Trb.1994-86"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-08-12"
-intitule_published: "1994-04-21"
-intitule_in_force: "1996-10-01"
-intitule_status: "goed"
-original_publication: "Trb.1994-86"
-original_signed_date: "1996-08-12"
-original_published_date: "1994-04-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1994-86"
-entry_into_force_date: "1996-08-12"
-jci_1_3: "jci1.3:c:BWBV0001246&z=1996-08-12&g=1996-08-12"
-jci_1_0: "1.0:c:BWBV0001246&g=1996-08-12"
-citeertitel_status: "redactioneel"
-signed_date: "1996-08-12"
-entry_into_force: "1996-08-12"
+publicatiedatum: 1996-08-12
+laatste_update: 1996-08-12
+status: geldig
+toestand: 1996-08-12
+bron: "https://wetten.overheid.nl/BWBV0001246"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag inzake duurzame ontwikkeling tussen het Koninkrijk der Nederlanden en de Republiek Costa Rica
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van de Republiek Costa Rica;
-
-Overtuigd van het cruciale belang van een ontwikkeling die in de huidige behoeften voorziet, zonder daarmee voor toekomstige generaties de mogelijkheden in gevaar te brengen om ook in hun behoeften te voorzien;
-
-Geleid derhalve door de wens de uitvoering te bevorderen van de Verklaring van Rio inzake Milieu en Ontwikkeling en van Agenda 21, aangenomen door de Conferentie van de Verenigde Naties over Milieu en Ontwikkeling, die van 3 tot 14 juni 1992 in Rio de Janeiro plaatsvond;
-
-Overtuigd van de noodzaak een nieuwe en gelijkwaardige wereldalliantie te vestigen, door middel van het creëren van nieuwe niveaus van samenwerking tussen Staten, maatschappelijke sleutelsectoren en personen;
-
-Geleid voorts door de wens uitvoering te geven aan de Intentieverklaring die op 11 juni 1992 in Rio de Janeiro is ondertekend door de vertegenwoordigers van de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Costa Rica;
-
-Beseffende hoe moeilijk het is duurzame ontwikkeling te verwezenlijken, gegeven de verschillen in economisch ontwikkelingsniveau, aanwezige bestaansbronnen, sociale en politieke systemen, en culturen;
-
-Erkennend dat ontwikkeling alleen duurzaam kan zijn indien zij economische, sociale, culturele, civiele en politieke, evenals religieuze en ecologische aspecten omvat;
-
-Geleid door het voorzorgsprincipe, krachtens hetwelk het ontbreken van volledige wetenschappelijke zekerheid niet kan worden gebruikt als argument voor het uitstellen van efficiënte maatregelen die aantasting van het milieu voorkomen of tot een minimum beperken, indien er gevaar van ernstige en onomkeerbare schade bestaat;
-
-Overwegende dat Staten moeten samenwerken in een geest van mondiale solidariteit teneinde het ecosysteem van de Aarde te behouden, te beschermen en te herstellen, aangezien deze Staten in verschillende mate hebben bijgedragen aan de aantasting van het milieu in de wereld, waardoor ze gedeelde en tevens verschillende verantwoordelijkheden hebben;
-
-Geleid door de wens een langdurige samenwerking tussen hun landen aan te gaan, die gebaseerd is op gelijkwaardigheid en wederkerigheid, evenals op wederzijdse hulp en overleg, en die gericht is op het effectief verwezenlijken van duurzame ontwikkeling, waarbij de participatie wordt bevorderd van alle maatschappelijke belangengroeperingen;
-
-Overwegende dat daartoe een verdrag zou moeten worden gesloten, waarmee een wettelijk en bestuurlijk kader voor toekomstige activiteiten wordt geschapen;
-
-Zijn als volgt overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Costa Rica; Overtuigd van het cruciale belang van een ontwikkeling die in de huidige behoeften voorziet, zonder daarmee voor toekomstige generaties de mogelijkheden in gevaar te brengen om ook in hun behoeften te voorzien; Geleid derhalve door de wens de uitvoering te bevorderen van de Verklaring van Rio inzake Milieu en Ontwikkeling en van Agenda 21, aangenomen door de Conferentie van de Verenigde Naties over Milieu en Ontwikkeling, die van 3 tot 14 juni 1992 in Rio de Janeiro plaatsvond; Overtuigd van de noodzaak een nieuwe en gelijkwaardige wereldalliantie te vestigen, door middel van het creëren van nieuwe niveaus van samenwerking tussen Staten, maatschappelijke sleutelsectoren en personen; Geleid voorts door de wens uitvoering te geven aan de Intentieverklaring die op 11 juni 1992 in Rio de Janeiro is ondertekend door de vertegenwoordigers van de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Costa Rica; Beseffende hoe moeilijk het is duurzame ontwikkeling te verwezenlijken, gegeven de verschillen in economisch ontwikkelingsniveau, aanwezige bestaansbronnen, sociale en politieke systemen, en culturen; Erkennend dat ontwikkeling alleen duurzaam kan zijn indien zij economische, sociale, culturele, civiele en politieke, evenals religieuze en ecologische aspecten omvat; Geleid door het voorzorgsprincipe, krachtens hetwelk het ontbreken van volledige wetenschappelijke zekerheid niet kan worden gebruikt als argument voor het uitstellen van efficiënte maatregelen die aantasting van het milieu voorkomen of tot een minimum beperken, indien er gevaar van ernstige en onomkeerbare schade bestaat; Overwegende dat Staten moeten samenwerken in een geest van mondiale solidariteit teneinde het ecosysteem van de Aarde te behouden, te beschermen en te herstellen, aangezien deze Staten in verschillende mate hebben bijgedragen aan de aantasting van het milieu in de wereld, waardoor ze gedeelde en tevens verschillende verantwoordelijkheden hebben; Geleid door de wens een langdurige samenwerking tussen hun landen aan te gaan, die gebaseerd is op gelijkwaardigheid en wederkerigheid, evenals op wederzijdse hulp en overleg, en die gericht is op het effectief verwezenlijken van duurzame ontwikkeling, waarbij de participatie wordt bevorderd van alle maatschappelijke belangengroeperingen; Overwegende dat daartoe een verdrag zou moeten worden gesloten, waarmee een wettelijk en bestuurlijk kader voor toekomstige activiteiten wordt geschapen; Zijn als volgt overeengekomen:*
 
 ##### Artikel I
 
@@ -159,13 +111,13 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun 
 
 GEDAAN te Noordwijk, op 21 maart 1994 in tweevoud, in de Nederlandse en de Spaanse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 (w.g. ) J. P. PRONK
 
 (w.g.) J. G. M. ALDERS
 
-**Voor de Regering van de Republiek Costa Rica,**
+*Voor de Regering van de Republiek Costa Rica,*
 
 (w.g. ) G. SERRANO PINTO
 

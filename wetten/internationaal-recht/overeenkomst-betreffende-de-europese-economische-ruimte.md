@@ -1,141 +1,55 @@
 ---
 title: "Overeenkomst betreffende de Europese Economische Ruimte"
 identifier: "BWBV0001070"
-country: "nl"
-rank: "verdrag"
-publication_date: "2025-02-19"
-last_updated: "2014-04-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001070"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002354543"
-version_id: "10002360752"
-internal_id: "C10006976381"
-label_id: "10002346754"
-dtd_version: "2.0"
-original_entry_into_force: "1994-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001070/2025-02-19/0"
-intitule_bron: "Trb.1992-132"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-12-31"
-intitule_published: "1992-09-11"
-intitule_in_force: "1993-12-31"
-intitule_status: "goed"
-original_publication: "Trb.1992-132"
-original_signed_date: "1992-12-31"
-original_published_date: "1992-09-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1992-132"
-entry_into_force_date: "1994-01-01"
-jci_1_3: "jci1.3:c:BWBV0001070&z=2025-02-19&g=2025-02-19"
-jci_1_0: "1.0:c:BWBV0001070&g=2025-02-19"
-citeertitel_status: "redactioneel"
-signed_date: "1992-12-31"
-entry_into_force: "1994-01-01"
+publicatiedatum: 1994-01-01
+laatste_update: 2025-02-19
+status: geldig
+toestand: 2025-02-19
+bron: "https://wetten.overheid.nl/BWBV0001070"
+opgehaald: 2026-09-11
 ---
+
 # Overeenkomst betreffende de Europese Economische Ruimte
 
-de Europese Gemeenschap,
+*de Europese Gemeenschap, het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Republiek Kroatië, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, en IJsland, het Vorstendom Liechtenstein, het Koninkrijk Noorwegen, hierna de OVEREENKOMSTSLUITENDE PARTIJEN te noemen; OVERTUIGD van de bijdrage die een Europese Economische Ruimte zal leveren aan de totstandbrenging van een Europa gebaseerd op vrede, democratie en mensenrechten; OPNIEUW BEVESTIGEND de hoge prioriteit die wordt toegekend aan de bevoorrechte relatie tussen de Europese Gemeenschap, haar Lid-Staten en de EVA-Staten gebaseerd op nabuurschap, traditionele gemeenschappelijke waarden en een Europese identiteit; VASTBESLOTEN op basis van de beginselen van de markteconomie bij te dragen aan de mondiale vrijmaking van de handel en internationale samenwerking op handelsgebied, met name in overeenstemming met de bepalingen van de Algemene Overeenkomst betreffende Tarieven en Handel en de Overeenkomst betreffende de Organisatie voor Economische Samenwerking en Ontwikkeling; OVERWEGENDE het oogmerk een dynamische en homogene Europese Economische Ruimte tot stand te brengen, gebaseerd op gemeenschappelijke regels en gelijke mededingingsvoorwaarden, en voorzien van een passend uitvoeringsmechanisme, mede op gerechtelijk niveau, een en ander op basis van gelijkheid en wederkerigheid en van een algeheel evenwicht wat betreft de voordelen en de rechten en plichten voor de overeenkomstsluitende partijen; VASTBESLOTEN te voorzien in een zo volledig mogelijke verwezenlijking van het vrije verkeer van goederen, personen, diensten en kapitaal in de gehele Europese Economische Ruimte, alsmede in een sterkere en ruimere samenwerking op het gebied van begeleidende en horizontale beleidsmaatregelen; STREVENDE naar een harmonische ontwikkeling van de Europese Economische Ruimte en overtuigd van de noodzaak via de uitvoering van deze Overeenkomst bij te dragen aan vermindering van de economische en sociale regionale verschillen; VERLANGENDE bij te dragen aan de versterking van de samenwerking tussen de leden van het Europese Parlement en de parlementen van de EVA-Staten alsmede tussen de sociale partners in de Europese Gemeenschap en de EVA-Staten; OVERTUIGD van de belangrijke rol die personen in de Europese Economische Ruimte via de uitoefening van de door deze Overeenkomst aan hen toegekende rechten en via een verdediging daarvan in rechte zullen spelen; VASTBESLOTEN de kwaliteit van het milieu te behouden, te beschermen en te verbeteren en zorg te dragen voor een behoedzaam en rationeel gebruik van de natuurlijke hulpbronnen, met name op basis van het beginsel van duurzame ontwikkeling en preventief handelen; VASTBESLOTEN bij de verdere uitwerking van regels uit te gaan van een hoog beschermingsniveau wat betreft de gezondheid, de veiligheid en het milieu; WIJZENDE op het belang van de ontwikkeling van de sociale dimensie, inclusief de gelijke behandeling van mannen en vrouwen, in de Europese Economische Ruimte en wensende de economische en sociale vooruitgang te verzekeren en de voorwaarden voor volledige werkgelegenheid, een hogere levensstandaard en betere arbeidsvoorwaarden binnen de Europese Economische Ruimte te verbeteren; VASTBESLOTEN de belangen van de consumenten te bevorderen en hun positie op de markt te versterken, waarbij een hoog beschermingsniveau wordt nagestreefd; VERLANGENDE de gemeenschappelijke doelstellingen van versterking van de wetenschappelijke en technologische basis van de Europese industrie en verbetering van haar internationale concurrentiepositie te verwezenlijken; OVERWEGENDE dat de sluiting van deze Overeenkomst op generlei wijze afbreuk doet aan de mogelijkheid van een EVA-Staat toe te treden tot de Europese Gemeenschappen; OVERWEGENDE dat de overeenkomstsluitende partijen, met volledige eerbiediging van de onafhankelijkheid van de rechterlijke instanties, streven naar een uniforme uitlegging en toepassing van deze Overeenkomst en van die bepalingen van de communautaire wetgeving die in hoofdzaak in deze Overeenkomst zijn overgenomen, en te komen tot een gelijke behandeling van personen en ondernemingen wat betreft de vier vrijheden en de mededingingsvoorwaarden; OVERWEGENDE dat deze Overeenkomst geen beperkingen stelt aan de besluitvormingsautonomie van de overeenkomstsluitende partijen noch aan hun bevoegdheid tot het sluiten van verdragen, behoudens het bepaalde in deze Overeenkomst en de door het volkenrecht gestelde beperkingen. HEBBEN BESLOTEN de volgende Overeenkomst te sluiten:*
 
-het Koninkrijk België,
-
-de Republiek Bulgarije,
-
-de Tsjechische Republiek,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Republiek Estland,
-
-Ierland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-de Republiek Kroatië,
-
-de Italiaanse Republiek,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-het Groothertogdom Luxemburg,
-
-Hongarije,
-
-de Republiek Malta,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Republiek Polen,
-
-de Portugese Republiek,
-
-Roemenië,
-
-de Republiek Slovenië,
-
-de Slowaakse Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-en
-
-IJsland,
-
-het Vorstendom Liechtenstein,
-
-het Koninkrijk Noorwegen,
-
-hierna de OVEREENKOMSTSLUITENDE PARTIJEN te noemen;
-
-OVERTUIGD van de bijdrage die een Europese Economische Ruimte zal leveren aan de totstandbrenging van een Europa gebaseerd op vrede, democratie en mensenrechten;
-
-OPNIEUW BEVESTIGEND de hoge prioriteit die wordt toegekend aan de bevoorrechte relatie tussen de Europese Gemeenschap, haar Lid-Staten en de EVA-Staten gebaseerd op nabuurschap, traditionele gemeenschappelijke waarden en een Europese identiteit;
-
-VASTBESLOTEN op basis van de beginselen van de markteconomie bij te dragen aan de mondiale vrijmaking van de handel en internationale samenwerking op handelsgebied, met name in overeenstemming met de bepalingen van de [Algemene Overeenkomst betreffende Tarieven en Handel](onbekend) en de [Overeenkomst betreffende de Organisatie voor Economische Samenwerking en Ontwikkeling](https://wetten.overheid.nl/jci1.3:c:BWBV0005057);
-
-OVERWEGENDE het oogmerk een dynamische en homogene Europese Economische Ruimte tot stand te brengen, gebaseerd op gemeenschappelijke regels en gelijke mededingingsvoorwaarden, en voorzien van een passend uitvoeringsmechanisme, mede op gerechtelijk niveau, een en ander op basis van gelijkheid en wederkerigheid en van een algeheel evenwicht wat betreft de voordelen en de rechten en plichten voor de overeenkomstsluitende partijen;
-
-VASTBESLOTEN te voorzien in een zo volledig mogelijke verwezenlijking van het vrije verkeer van goederen, personen, diensten en kapitaal in de gehele Europese Economische Ruimte, alsmede in een sterkere en ruimere samenwerking op het gebied van begeleidende en horizontale beleidsmaatregelen;
-
-STREVENDE naar een harmonische ontwikkeling van de Europese Economische Ruimte en overtuigd van de noodzaak via de uitvoering van deze Overeenkomst bij te dragen aan vermindering van de economische en sociale regionale verschillen;
-
-VERLANGENDE bij te dragen aan de versterking van de samenwerking tussen de leden van het Europese Parlement en de parlementen van de EVA-Staten alsmede tussen de sociale partners in de Europese Gemeenschap en de EVA-Staten;
-
-OVERTUIGD van de belangrijke rol die personen in de Europese Economische Ruimte via de uitoefening van de door deze Overeenkomst aan hen toegekende rechten en via een verdediging daarvan in rechte zullen spelen;
-
-VASTBESLOTEN de kwaliteit van het milieu te behouden, te beschermen en te verbeteren en zorg te dragen voor een behoedzaam en rationeel gebruik van de natuurlijke hulpbronnen, met name op basis van het beginsel van duurzame ontwikkeling en preventief handelen;
-
-VASTBESLOTEN bij de verdere uitwerking van regels uit te gaan van een hoog beschermingsniveau wat betreft de gezondheid, de veiligheid en het milieu;
-
-WIJZENDE op het belang van de ontwikkeling van de sociale dimensie, inclusief de gelijke behandeling van mannen en vrouwen, in de Europese Economische Ruimte en wensende de economische en sociale vooruitgang te verzekeren en de voorwaarden voor volledige werkgelegenheid, een hogere levensstandaard en betere arbeidsvoorwaarden binnen de Europese Economische Ruimte te verbeteren;
-
-VASTBESLOTEN de belangen van de consumenten te bevorderen en hun positie op de markt te versterken, waarbij een hoog beschermingsniveau wordt nagestreefd;
-
-VERLANGENDE de gemeenschappelijke doelstellingen van versterking van de wetenschappelijke en technologische basis van de Europese industrie en verbetering van haar internationale concurrentiepositie te verwezenlijken;
-
-OVERWEGENDE dat de sluiting van deze Overeenkomst op generlei wijze afbreuk doet aan de mogelijkheid van een EVA-Staat toe te treden tot de Europese Gemeenschappen;
-
-OVERWEGENDE dat de overeenkomstsluitende partijen, met volledige eerbiediging van de onafhankelijkheid van de rechterlijke instanties, streven naar een uniforme uitlegging en toepassing van deze Overeenkomst en van die bepalingen van de communautaire wetgeving die in hoofdzaak in deze Overeenkomst zijn overgenomen, en te komen tot een gelijke behandeling van personen en ondernemingen wat betreft de vier vrijheden en de mededingingsvoorwaarden;
-
-OVERWEGENDE dat deze Overeenkomst geen beperkingen stelt aan de besluitvormingsautonomie van de overeenkomstsluitende partijen noch aan hun bevoegdheid tot het sluiten van verdragen, behoudens het bepaalde in deze Overeenkomst en de door het volkenrecht gestelde beperkingen.
-
-HEBBEN BESLOTEN de volgende Overeenkomst te sluiten:
+| INHOUDSOPGAVE |  |
+| --- | --- |
+| PREAMBULE |  |
+| DEEL I - DOELSTELLINGEN EN BEGINSELEN |  |
+| DEEL II - HET VRIJE VERKEER VAN GOEDEREN |  |
+| Hoofdstuk 1 : | De grondbeginselen |
+| Hoofdstuk 2 : | Landbouw- en visserijprodukten |
+| Hoofdstuk 3 : | Samenwerking op het gebied van douaneaangelegenheden en handelsbevordering |
+| Hoofdstuk 4 : | Andere voorschriften inzake het vrije verkeer van goederen |
+| Hoofdstuk 5 : | Kolen- en staalprodukten |
+| DEEL III - HET VRIJE VERKEER VAN PERSONEN, DIENSTEN EN KAPITAAL |  |
+| Hoofdstuk 1 : | Werknemers en zelfstandigen |
+| Hoofdstuk 2 : | Recht van vestiging |
+| Hoofdstuk 3 : | De diensten |
+| Hoofdstuk 4 : | Kapitaal |
+| Hoofdstuk 5 : | Samenwerking bij het economisch en monetair beleid |
+| Hoofdstuk 6 : | Vervoer |
+| DEEL IV - MEDEDINGING EN ANDERE GEMEENSCHAPPELIJKE REGELS |  |
+| Hoofdstuk 1 : | Regels voor ondernemingen |
+| Hoofdstuk 2 : | Steunmaatregelen van de Staten |
+| Hoofdstuk 3 : | Verdere gemeenschappelijke regels |
+| DEEL V - HORIZONTALE BEPALINGEN MET BETREKKING TOT DE VIER VRIJHEDEN |  |
+| Hoofdstuk 1 : | Sociaal beleid |
+| Hoofdstuk 2 : | Bescherming van de consument |
+| Hoofdstuk 3 : | Het milieu |
+| Hoofdstuk 4 : | Statistieken |
+| Hoofdstuk 5 : | Vennootschapsrecht |
+| DEEL VI - SAMENWERKING BUITEN HET KADER VAN DE VIER VRIJHEDEN |  |
+| DEEL VII - BEPALINGEN INZAKE DE INSTELLINGEN |  |
+| Hoofdstuk 1 : | De structuur van de associatie |
+| Hoofdstuk 2 : | De besluitvormingsprocedure |
+| Hoofdstuk 3 : | Homogeniteit, toezichtprocedure en beslechting van geschillen |
+| Hoofdstuk 4 : | Vrijwaringsmaatregelen |
+| DEEL VIII - FINANCIEEL MECHANISME |  |
+| DEEL IX - ALGEMENE EN SLOTBEPALINGEN |  |
 
 ## DEEL I. DOELSTELLINGEN EN BEGINSELEN
 
@@ -145,33 +59,33 @@ HEBBEN BESLOTEN de volgende Overeenkomst te sluiten:
 
 2. Ten einde de in lid 1 genoemde doelstellingen te bereiken, voorziet de associatie, in overeenstemming met de bepalingen van deze Overeenkomst, in:
 
-- a). het vrije verkeer van goederen,
+- a) het vrije verkeer van goederen,
 
-- b). het vrije verkeer van personen,
+- b) het vrije verkeer van personen,
 
-- c). het vrije verkeer van diensten,
+- c) het vrije verkeer van diensten,
 
-- d). het vrije verkeer van kapitaal,
+- d) het vrije verkeer van kapitaal,
 
-- e). de totstandbrenging van een systeem waardoor wordt gewaarborgd dat de mededinging niet wordt vervalst en dat de mededingingsregels gelijkelijk worden nagekomen, alsmede
+- e) de totstandbrenging van een systeem waardoor wordt gewaarborgd dat de mededinging niet wordt vervalst en dat de mededingingsregels gelijkelijk worden nagekomen, alsmede
 
-- f). nauwere samenwerking op andere gebieden, zoals onderzoek en ontwikkeling, het milieu, het onderwijs en het sociaal beleid.
+- f) nauwere samenwerking op andere gebieden, zoals onderzoek en ontwikkeling, het milieu, het onderwijs en het sociaal beleid.
 
 ##### Artikel 2
 
 In deze Overeenkomst wordt verstaan onder :
 
-- a). “Overeenkomst” : de hoofdovereenkomst met de daarbij behorende protocollen en bijlagen alsmede de daarin genoemde besluiten;
+- a) “Overeenkomst” : de hoofdovereenkomst met de daarbij behorende protocollen en bijlagen alsmede de daarin genoemde besluiten;
 
-- b). „EVA-Staten”: IJsland, het Vorstendom Liechtenstein en het Koninkrijk Noorwegen.
+- b) „EVA-Staten”: IJsland, het Vorstendom Liechtenstein en het Koninkrijk Noorwegen.
 
-- c). “overeenkomstsluitende partijen”: wat de Gemeenschap en de Lid-Staten van de EG betreft, de Gemeenschap en de Lid-Staten van de EG, of de Gemeenschap, of de Lid-Staten van de EG. De per geval aan deze term te hechten betekenis moet worden afgeleid uit de betrokken bepalingen van deze Overeenkomst en de onderscheiden bevoegdheden van de Gemeenschap en de Lid-Staten van de EG zoals deze voortvloeien uit het Verdrag tot oprichting van de Europese Economische Gemeenschap.
+- c) “overeenkomstsluitende partijen”: wat de Gemeenschap en de Lid-Staten van de EG betreft, de Gemeenschap en de Lid-Staten van de EG, of de Gemeenschap, of de Lid-Staten van de EG. De per geval aan deze term te hechten betekenis moet worden afgeleid uit de betrokken bepalingen van deze Overeenkomst en de onderscheiden bevoegdheden van de Gemeenschap en de Lid-Staten van de EG zoals deze voortvloeien uit het Verdrag tot oprichting van de Europese Economische Gemeenschap.
 
-- d). [Toetredingsakte van 16 april 2003](onbekend): de akte betreffende de toetredingsvoorwaarden voor de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek en de aanpassingen van de Verdragen waarop de Europese Unie is gegrond, goedgekeurd te Athene op 16 april 2003.
+- d) [Toetredingsakte van 16 april 2003](https://wetten.overheid.nl/BWBV0001642): de akte betreffende de toetredingsvoorwaarden voor de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek en de aanpassingen van de Verdragen waarop de Europese Unie is gegrond, goedgekeurd te Athene op 16 april 2003.
 
-- e). [Toetredingsakte van 25 april 2005](onbekend): de Akte betreffende de toetredingsvoorwaarden voor de Republiek Bulgarije en Roemenië en de aanpassing van de Verdragen waarop de Europese Unie is gegrond, goedgekeurd te Luxemburg op 25 april 2005.
+- e) [Toetredingsakte van 25 april 2005](https://wetten.overheid.nl/BWBV0001819): de Akte betreffende de toetredingsvoorwaarden voor de Republiek Bulgarije en Roemenië en de aanpassing van de Verdragen waarop de Europese Unie is gegrond, goedgekeurd te Luxemburg op 25 april 2005.
 
-- f). het begrip „Toetredingsakte van 9 december 2011” heeft betrekking op „de Akte betreffende de voorwaarden voor de toetreding van de Republiek Kroatië en de aanpassing van het Verdrag betreffende de Europese Unie, het Verdrag betreffende de werking van de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie, ondertekend te Brussel op 9 december 2011.
+- f) het begrip „Toetredingsakte van 9 december 2011” heeft betrekking op „de Akte betreffende de voorwaarden voor de toetreding van de Republiek Kroatië en de aanpassing van het Verdrag betreffende de Europese Unie, het Verdrag betreffende de werking van de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie, ondertekend te Brussel op 9 december 2011.
 
 ##### Artikel 3
 
@@ -197,9 +111,9 @@ Onverminderd de toekomstige ontwikkelingen van de jurisprudentie, worden de bepa
 
 De in de bijlagen bij deze Overeenkomst of in beschikkingen van het Gemengd Comité van de EER vermelde of vervatte besluiten zijn verbindend voor de overeenkomstsluitende partijen en maken deel uit van of worden opgenomen in hun interne rechtsorde, zulks op de volgende wijze :
 
-- a). een met een EEG-verordening overeenstemmend besluit wordt als zodanig opgenomen in de interne rechtsorde van de overeenkomstsluitende partijen ;
+- a) een met een EEG-verordening overeenstemmend besluit wordt als zodanig opgenomen in de interne rechtsorde van de overeenkomstsluitende partijen ;
 
-- b). een met een EEG-richtlijn overeenstemmend besluit laat aan de instanties van de overeenkomstsluitende partijen de vrijheid om de vorm, middelen en wijze van tenuitvoerlegging te kiezen.
+- b) een met een EEG-richtlijn overeenstemmend besluit laat aan de instanties van de overeenkomstsluitende partijen de vrijheid om de vorm, middelen en wijze van tenuitvoerlegging te kiezen.
 
 ## DEEL II. HET VRIJE VERKEER VAN GOEDEREN
 
@@ -213,13 +127,13 @@ De in de bijlagen bij deze Overeenkomst of in beschikkingen van het Gemengd Comi
 
 3. Tenzij anders bepaald, zijn de bepalingen van deze Overeenkomst slechts van toepassing op :
 
-- a). de produkten vallende onder de hoofdstukken 25 tot en met 97 van het geharmoniseerd systeem inzake de omschrijving en codering van goederen, met uitzondering van de in Protocol 2 vermelde produkten ;
+- a) de produkten vallende onder de hoofdstukken 25 tot en met 97 van het geharmoniseerd systeem inzake de omschrijving en codering van goederen, met uitzondering van de in Protocol 2 vermelde produkten ;
 
-- b). de in Protocol 3 opgenomen produkten, behoudens de in dat protocol vervatte specifieke regelingen.
+- b) de in Protocol 3 opgenomen produkten, behoudens de in dat protocol vervatte specifieke regelingen.
 
 ##### Artikel 9
 
-1. Protocol 4 bevat de regels inzake oorsprong. Zij doen geen afbreuk aan de internationale verplichtingen die door de overeenkomstsluitende partijen in het kader van de [Algemene Overeenkomst betreffende Tarieven en Handel](onbekend) zijn of kunnen worden aangegaan.
+1. Protocol 4 bevat de regels inzake oorsprong. Zij doen geen afbreuk aan de internationale verplichtingen die door de overeenkomstsluitende partijen in het kader van de [Algemene Overeenkomst betreffende Tarieven en Handel](https://wetten.overheid.nl/BWBV0001160) zijn of kunnen worden aangegaan.
 
 2. Met het oog op de ontwikkeling van de in deze Overeenkomst bereikte resultaten zullen de overeenkomstsluitende partijen zich blijven inspannen om alle aspecten van de regels inzake oorsprong verder te verbeteren en te vereenvoudigen en de samenwerking op douanegebied uit te breiden.
 
@@ -303,11 +217,11 @@ Een overeenkomstsluitende partij die de verlaging overweegt van het daadwerkelij
 
 Specifieke bepalingen en regelingen zijn vervat in :
 
-- a). Protocol 12 en bijlage II wat betreft technische voorschriften, normen, keuring en certificering ;
+- a) Protocol 12 en bijlage II wat betreft technische voorschriften, normen, keuring en certificering ;
 
-- b). Protocol 47 wat betreft de afschaffing van technische belemmeringen voor de handel in wijn ;
+- b) Protocol 47 wat betreft de afschaffing van technische belemmeringen voor de handel in wijn ;
 
-- c). bijlage III wat betreft produktaansprakelijkheid.
+- c) bijlage III wat betreft produktaansprakelijkheid.
 
 Zij zijn van toepassing op alle produkten, tenzij anders wordt bepaald.
 
@@ -319,9 +233,9 @@ Bijlage IV bevat specifieke bepalingen en regelingen betreffende energie.
 
 Wanneer naleving van het bepaalde in de artikelen 10 en 12 leidt tot
 
-- a). wederuitvoer naar een derde land ten aanzien waarvan de exporterende overeenkomstsluitende partij voor het betrokken produkt kwantitatieve beperkingen, uitvoerrechten of maatregelen of heffingen van gelijke werking handhaaft, dan wel
+- a) wederuitvoer naar een derde land ten aanzien waarvan de exporterende overeenkomstsluitende partij voor het betrokken produkt kwantitatieve beperkingen, uitvoerrechten of maatregelen of heffingen van gelijke werking handhaaft, dan wel
 
-- b). een ernstig of dreigend ernstig tekort aan een voor de exporterende overeenkomstsluitende partij essentieel produkt.
+- b) een ernstig of dreigend ernstig tekort aan een voor de exporterende overeenkomstsluitende partij essentieel produkt.
 
 en voornoemde situaties aanleiding geven of kunnen geven tot ernstige moeilijkheden voor de exporterende overeenkomstsluitende partij, kan die partij passende maatregelen overeenkomstig de in artikel 113 vermelde procedures treffen.
 
@@ -347,13 +261,13 @@ De Protocollen 14 en 25 bevatten bepalingen en regelingen betreffende kolen- en 
 
 3. Het houdt behoudens de uit hoofde van openbare orde, openbare veiligheid en volksgezondheid gerechtvaardigde beperkingen het recht in om :
 
-- a). in te gaan op een feitelijk aanbod tot tewerkstelling :
+- a) in te gaan op een feitelijk aanbod tot tewerkstelling :
 
-- b). zich te dien einde vrij te verplaatsen binnen het grondgebied van de Lid-Staten van de EG en de EVA-Staten ;
+- b) zich te dien einde vrij te verplaatsen binnen het grondgebied van de Lid-Staten van de EG en de EVA-Staten ;
 
-- c). op het grondgebied van een Lid-Staat van de EG of een EVA-Staat te verblijven ten einde daar een beroep uit te oefenen overeenkomstig de wettelijke en bestuursrechtelijke bepalingen welke voor de tewerkstelling van nationale werknemers gelden ;
+- c) op het grondgebied van een Lid-Staat van de EG of een EVA-Staat te verblijven ten einde daar een beroep uit te oefenen overeenkomstig de wettelijke en bestuursrechtelijke bepalingen welke voor de tewerkstelling van nationale werknemers gelden ;
 
-- d). op het grondgebied van een Lid-Staat van de EG of een EVA-Staat verblijf te houden, na er een betrekking te hebben vervuld.
+- d) op het grondgebied van een Lid-Staat van de EG of een EVA-Staat verblijf te houden, na er een betrekking te hebben vervuld.
 
 4. De bepalingen van dit artikel zijn niet van toepassing op betrekkingen in overheidsdienst.
 
@@ -363,9 +277,9 @@ De Protocollen 14 en 25 bevatten bepalingen en regelingen betreffende kolen- en 
 
 Met het oog op de totstandkoming van het vrije verkeer van werknemers en zelfstandigen waarborgen de overeenkomstsluitende partijen voor werknemers en zelfstandigen en hun rechthebbenden op het gebied van de sociale zekerheid, overeenkomstig bijlage VI, met name :
 
-- a). dat, met het oog op het verkrijgen en het behoud van het recht op uitkeringen alsmede voor de berekening daarvan, al die tijdvakken worden bijeengeteld welke door de verschillende nationale wetgevingen in aanmerking worden genomen ;
+- a) dat, met het oog op het verkrijgen en het behoud van het recht op uitkeringen alsmede voor de berekening daarvan, al die tijdvakken worden bijeengeteld welke door de verschillende nationale wetgevingen in aanmerking worden genomen ;
 
-- b). dat de uitkeringen aan personen die op het grondgebied van de overeenkomstsluitende partijen verblijven, zullen worden betaald.
+- b) dat de uitkeringen aan personen die op het grondgebied van de overeenkomstsluitende partijen verblijven, zullen worden betaald.
 
 ##### Artikel 30
 
@@ -413,13 +327,13 @@ In deze Overeenkomst worden als diensten beschouwd de dienstverrichtingen welke 
 
 Diensten omvatten met name werkzaamheden :
 
-- a). van industriële aard;
+- a) van industriële aard;
 
-- b). van commerciële aard;
+- b) van commerciële aard;
 
-- c). van het ambacht;
+- c) van het ambacht;
 
-- d). van de vrije beroepen.
+- d) van de vrije beroepen.
 
 Onverminderd de bepalingen van hoofdstuk 2, kan degene die de dienst verricht, daartoe zijn werkzaamheden tijdelijk uitoefenen in het land waar de dienst wordt verricht, onder dezelfde voorwaarden als die welke dat land aan zijn eigen onderdanen oplegt.
 
@@ -525,31 +439,31 @@ De heffingen of andere rechten welke naast de vervoerprijs door een vervoeronder
 
 1. Onverenigbaar met de werking van deze Overeenkomst en verboden zijn alle overeenkomsten tussen ondernemingen, alle besluiten van ondernemersverenigingen en alle onderling afgestemde feitelijke gedragingen welke de handel tussen de overeenkomstsluitende partijen ongunstig kunnen beïnvloeden en ertoe strekken of ten gevolge hebben dat de mededinging op het door deze Overeenkomst bestreken grondgebied wordt verhinderd, beperkt of vervalst en met name die welke bestaan in :
 
-- a). het rechtstreeks of zijdelings bepalen van de aan- of verkoopprijzen of van andere contractuele voorwaarden :
+- a) het rechtstreeks of zijdelings bepalen van de aan- of verkoopprijzen of van andere contractuele voorwaarden :
 
-- b). het beperken of controleren van de produktie, de afzet, de technische ontwikkeling of de investeringen ;
+- b) het beperken of controleren van de produktie, de afzet, de technische ontwikkeling of de investeringen ;
 
-- c). het verdelen van de markten of van de voorzieningsbronnen ;
+- c) het verdelen van de markten of van de voorzieningsbronnen ;
 
-- d). het ten opzichte van handelspartners toepassen van ongelijke voorwaarden bij gelijkwaardige prestaties, hun daarmede nadeel berokkenend bij de mededinging :
+- d) het ten opzichte van handelspartners toepassen van ongelijke voorwaarden bij gelijkwaardige prestaties, hun daarmede nadeel berokkenend bij de mededinging :
 
-- e). het afhankelijk stellen van het sluiten van overeenkomsten van de aanvaarding door de handelspartners van bijkomende prestaties welke naar hun aard of volgens het handelsgebruik geen verband houden met het onderwerp van deze overeenkomsten.
+- e) het afhankelijk stellen van het sluiten van overeenkomsten van de aanvaarding door de handelspartners van bijkomende prestaties welke naar hun aard of volgens het handelsgebruik geen verband houden met het onderwerp van deze overeenkomsten.
 
 2. De krachtens dit artikel verboden overeenkomsten of besluiten zijn van rechtswege nietig.
 
 3. De bepalingen van lid 1 van dit artikel kunnen echter buiten toepassing worden verklaard :
 
-- -. voor elke overeenkomst of groep van overeenkomsten tussen ondernemingen,
+- - voor elke overeenkomst of groep van overeenkomsten tussen ondernemingen,
 
-- -. voor elk besluit of groep van besluiten van ondernemersverenigingen, en
+- - voor elk besluit of groep van besluiten van ondernemersverenigingen, en
 
-- -. voor elke onderling afgestemde feitelijke gedraging of groep van gedragingen
+- - voor elke onderling afgestemde feitelijke gedraging of groep van gedragingen
 
 die bijdragen tot verbetering van de produktie of van de verdeling der produkten of tot verbetering van de technische of economische vooruitgang, mits een billijk aandeel in de daaruit voortvloeiende voordelen de gebruikers ten goede komt, en zonder nochtans aan de betrokken ondernemingen
 
-- a). beperkingen op te leggen welke voor het bereiken van deze doelstellingen niet onmisbaar zijn ;
+- a) beperkingen op te leggen welke voor het bereiken van deze doelstellingen niet onmisbaar zijn ;
 
-- b). de mogelijkheid te geven, voor een wezenlijk deel van de betrokken produkten de mededinging uit te schakelen.
+- b) de mogelijkheid te geven, voor een wezenlijk deel van de betrokken produkten de mededinging uit te schakelen.
 
 ##### Artikel 54
 
@@ -557,13 +471,13 @@ Onverenigbaar met de werking van deze Overeenkomst en verboden, voor zover de ha
 
 Dit misbruik kan met name bestaan in :
 
-- a). het rechtstreeks of zijdelings opleggen van onbillijke aan- af verkoopprijzen of van andere onbillijke contractuele voorwaarden ;
+- a) het rechtstreeks of zijdelings opleggen van onbillijke aan- af verkoopprijzen of van andere onbillijke contractuele voorwaarden ;
 
-- b). het beperken van de produktie, de afzet of de technische ontwikkeling ten nadele van de verbruikers ;
+- b) het beperken van de produktie, de afzet of de technische ontwikkeling ten nadele van de verbruikers ;
 
-- c). het toepassen ten opzichte van handelspartners van ongelijke voorwaarden bij gelijkwaardige prestaties, hun daarmede nadeel berokkenend bij de mededinging ;
+- c) het toepassen ten opzichte van handelspartners van ongelijke voorwaarden bij gelijkwaardige prestaties, hun daarmede nadeel berokkenend bij de mededinging ;
 
-- d). het feit dat het sluiten van overeenkomsten afhankelijk wordt gesteld van het aanvaarden door de handelspartners van bijkomende prestaties, welke naar hun aard of volgens het handelsgebruik geen verband houden met het onderwerp van deze overeenkomsten.
+- d) het feit dat het sluiten van overeenkomsten afhankelijk wordt gesteld van het aanvaarden door de handelspartners van bijkomende prestaties, welke naar hun aard of volgens het handelsgebruik geen verband houden met het onderwerp van deze overeenkomsten.
 
 ##### Artikel 55
 
@@ -581,11 +495,11 @@ De bevoegde toezichthoudende autoriteit kan haar beschikking bekendmaken en de s
 
 1. Over afzonderlijke gevallen waarop artikel 53 van toepassing is, wordt door de toezichthoudende autoriteiten overeenkomstig de volgende bepalingen beslist :
 
-- a). over afzonderlijke gevallen waarin alleen de handel tussen de EVA-Staten ongunstig wordt beïnvloed, wordt beslist door de Toezichthoudende Autoriteit van de EVA ;
+- a) over afzonderlijke gevallen waarin alleen de handel tussen de EVA-Staten ongunstig wordt beïnvloed, wordt beslist door de Toezichthoudende Autoriteit van de EVA ;
 
-- b). onverminderd het bepaalde onder c) beslist de Toezichthoudende Autoriteit van de EVA, zoals bepaald in artikel 58, Protocol 21 en de uitvoeringsbepalingen daarvan, Protocol 23 en bijlage XIV, over de gevallen waarin de omzet van de betrokken ondernemingen op het grondgebied van de EVA-Staten 33 % of meer bedraagt van hun omzet op het door deze overeenkomst bestreken grondgebied ;
+- b) onverminderd het bepaalde onder c) beslist de Toezichthoudende Autoriteit van de EVA, zoals bepaald in artikel 58, Protocol 21 en de uitvoeringsbepalingen daarvan, Protocol 23 en bijlage XIV, over de gevallen waarin de omzet van de betrokken ondernemingen op het grondgebied van de EVA-Staten 33 % of meer bedraagt van hun omzet op het door deze overeenkomst bestreken grondgebied ;
 
-- c). over de overige gevallen alsmede over de onder b) bedoelde gevallen waarin de handel tussen de Lid-Staten van de EG ongunstig wordt beïnvloed, beslist de Commissie van de EG met inachtneming van het bepaalde in artikel 58, Protocol 21, Protocol 23 en bijlage XIV.
+- c) over de overige gevallen alsmede over de onder b) bedoelde gevallen waarin de handel tussen de Lid-Staten van de EG ongunstig wordt beïnvloed, beslist de Commissie van de EG met inachtneming van het bepaalde in artikel 58, Protocol 21, Protocol 23 en bijlage XIV.
 
 2. Over afzonderlijke gevallen waarop artikel 54 van toepassing is, wordt beslist door de toezichthoudende autoriteit op het rechtsgebied waarvan het bestaan van een machtspositie is geconstateerd. Het in lid 1, onder b) en c), bepaalde is slechts van toepassing indien er een machtspositie bestaat binnen het rechtsgebied van beide toezichthoudende autoriteiten.
 
@@ -599,9 +513,9 @@ De bevoegde toezichthoudende autoriteit kan haar beschikking bekendmaken en de s
 
 2. Op concentraties waarop lid 1 van toepassing is, wordt toezicht gehouden door:
 
-- a). de Commissie van de EG in de gevallen waarop [Verordening (EEG) nr. 4064/89](31989R4064) van toepassing is, overeenkomstig die verordening en overeenkomstig de Protocollen 21 en 24 en bijlage XIV. Aan de Commissie van de EG wordt de uitsluitende bevoegdheid toegekend over deze gevallen te beslissen, met dien verstande dat het Hof van Justitie van de EG de wettigheid hiervan kan nagaan ;
+- a) de Commissie van de EG in de gevallen waarop Verordening (EEG) nr. 4064/89 van toepassing is, overeenkomstig die verordening en overeenkomstig de Protocollen 21 en 24 en bijlage XIV. Aan de Commissie van de EG wordt de uitsluitende bevoegdheid toegekend over deze gevallen te beslissen, met dien verstande dat het Hof van Justitie van de EG de wettigheid hiervan kan nagaan ;
 
-- b). de Toezichthoudende Autoriteit van de EVA in de gevallen die niet onder het bepaalde in punt a) vallen, wanneer de in bijlage XIV vermelde drempels op het grondgebied van de EVA-Staten zijn bereikt overeenkomstig de Protocollen 21 en 24 en bijlage XIV, zulks onverminderd de bevoegdheden van de Lid-Staten van de EG.
+- b) de Toezichthoudende Autoriteit van de EVA in de gevallen die niet onder het bepaalde in punt a) vallen, wanneer de in bijlage XIV vermelde drempels op het grondgebied van de EVA-Staten zijn bereikt overeenkomstig de Protocollen 21 en 24 en bijlage XIV, zulks onverminderd de bevoegdheden van de Lid-Staten van de EG.
 
 ##### Artikel 58
 
@@ -627,29 +541,29 @@ Bijlage XIV bevat specifieke bepalingen ter uitvoering van de beginselen neergel
 
 2. Met de werking van deze Overeenkomst zijn verenigbaar :
 
-- a). steunmaatregelen van sociale aard aan individuele verbruikers op voorwaarde dat deze toegepast worden zonder onderscheid naar de oorsprong van de produkten ;
+- a) steunmaatregelen van sociale aard aan individuele verbruikers op voorwaarde dat deze toegepast worden zonder onderscheid naar de oorsprong van de produkten ;
 
-- b). steunmaatregelen tot herstel van schade veroorzaakt door natuurrampen of andere buitengewone gebeurtenissen.
+- b) steunmaatregelen tot herstel van schade veroorzaakt door natuurrampen of andere buitengewone gebeurtenissen.
 
-- c). steunmaatregelen aan de economie van bepaalde streken van de Bondsrepubliek Duitsland die nadeel ondervinden van de deling van Duitsland, voor zover deze steunmaatregelen noodzakelijk zijn om de door deze deling berokkende economische nadelen te compenseren.
+- c) steunmaatregelen aan de economie van bepaalde streken van de Bondsrepubliek Duitsland die nadeel ondervinden van de deling van Duitsland, voor zover deze steunmaatregelen noodzakelijk zijn om de door deze deling berokkende economische nadelen te compenseren.
 
 3. Als verenigbaar met de werking van deze Overeenkomst kunnen worden beschouwd :
 
-- a). steunmaatregelen ter bevordering van de economische ontwikkeling van streken waarin de levensstandaard abnormaal laag is of waar een ernstig gebrek aan werkgelegenheid heerst ;
+- a) steunmaatregelen ter bevordering van de economische ontwikkeling van streken waarin de levensstandaard abnormaal laag is of waar een ernstig gebrek aan werkgelegenheid heerst ;
 
-- b). steunmaatregelen om de verwezenlijking van een belangrijk project van gemeenschappelijk Europees belang te bevorderen of een ernstige verstoring in de economie van een Lid-Staat van de EG of een EVA-Staat op te heffen ;
+- b) steunmaatregelen om de verwezenlijking van een belangrijk project van gemeenschappelijk Europees belang te bevorderen of een ernstige verstoring in de economie van een Lid-Staat van de EG of een EVA-Staat op te heffen ;
 
-- c). steunmaatregelen om de omwikkeling van bepaalde vormen van economische bedrijvigheid of van bepaalde regionale economieën te vergemakkelijken, mits de voorwaarden waaronder het handelsverkeer plaatsvindt daardoor niet zodanig worden veranderd dat het gemeenschappelijk belang wordt geschaad ;
+- c) steunmaatregelen om de omwikkeling van bepaalde vormen van economische bedrijvigheid of van bepaalde regionale economieën te vergemakkelijken, mits de voorwaarden waaronder het handelsverkeer plaatsvindt daardoor niet zodanig worden veranderd dat het gemeenschappelijk belang wordt geschaad ;
 
-- d). andere soorten van steunmaatregelen aangewezen door het Gemengd Comité van de EER overeenkomstig deel VII.
+- d) andere soorten van steunmaatregelen aangewezen door het Gemengd Comité van de EER overeenkomstig deel VII.
 
 ##### Artikel 62
 
 1. Op het grondgebied van de overeenkomstsluitende partijen worden alle bestaande regelingen inzake overheidssteun en alle plannen om overheidssteun te verlenen of te wijzigen voortdurend onderzocht op hun verenigbaarheid met artikel 61. Dit onderzoek wordt uitgevoerd:
 
-- a). wat de Lid-Staten van de EG betreft, door de Commissie van de EG overeenkomstig de in [artikel 93 van het Verdrag tot oprichting van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=93) vastgestelde regels;
+- a) wat de Lid-Staten van de EG betreft, door de Commissie van de EG overeenkomstig de in [artikel 93 van het Verdrag tot oprichting van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=93) vastgestelde regels;
 
-- b). wat de EVA-Staten betreft, door de Toezichthoudende Autoriteit van de EVA overeenkomstig de regels neergelegd in een overeenkomst tussen de EVA-Staten waarbij deze autoriteit, die de in Protocol 26 vastgestelde bevoegdheden en taken heeft, wordt ingesteld.
+- b) wat de EVA-Staten betreft, door de Toezichthoudende Autoriteit van de EVA overeenkomstig de regels neergelegd in een overeenkomst tussen de EVA-Staten waarbij deze autoriteit, die de in Protocol 26 vastgestelde bevoegdheden en taken heeft, wordt ingesteld.
 
 2. Met het oog op een uniform toezichtbeleid op het gebied van overheidssteun op het gehele door deze Overeenkomst bestreken grondgebied werken de Commissie van de EG en de Toezichthoudende Autoriteit van de EVA samen overeenkomstig het bepaalde in Protocol 27.
 
@@ -703,9 +617,9 @@ Onder beloning in de zin van dit artikel dient te worden verstaan het gewone bas
 
 Gelijkheid van beloning zonder onderscheid naar kunne houdt in :
 
-- a). dat de beloning voor dezelfde arbeid in stukloon wordt vastgesteld op basis van een zelfde maatstaf ;
+- a) dat de beloning voor dezelfde arbeid in stukloon wordt vastgesteld op basis van een zelfde maatstaf ;
 
-- b). dat de beloning voor arbeid in tijdloon dezelfde is voor een zelfde functie.
+- b) dat de beloning voor arbeid in tijdloon dezelfde is voor een zelfde functie.
 
 2. Bijlage XVIII bevat specifieke bepalingen voor de tenuitvoerlegging van lid 1.
 
@@ -729,11 +643,11 @@ Bijlage XIX bevat bepalingen inzake de bescherming van de consument.
 
 1. Het optreden van de overeenkomstsluitende partijen op milieugebied heeft tot doel :
 
-- a). de kwaliteit van het milieu te behouden, te beschermen en te verbeteren ;
+- a) de kwaliteit van het milieu te behouden, te beschermen en te verbeteren ;
 
-- b). bij te dragen tot de bescherming van de gezondheid van de mens ;
+- b) bij te dragen tot de bescherming van de gezondheid van de mens ;
 
-- c). zorg te dragen voor een behoedzaam en rationeel gebruik van de natuurlijke hulpbronnen.
+- c) zorg te dragen voor een behoedzaam en rationeel gebruik van de natuurlijke hulpbronnen.
 
 2. Het optreden van de overeenkomstsluitende partijen op milieugebied berust op de beginselen van preventief handelen, bestrijding van milieu-aantastingen bij voorrang aan de bron en het beginsel dat de vervuiler betaalt. De eisen terzake van milieubescherming vormen een bestanddeel van de andere takken van beleid van de overeenkomstsluitende partijen
 
@@ -769,25 +683,25 @@ Bijlage XXII bevat specifieke bepalingen inzake het vennootschapsrecht.
 
 De overeenkomstsluitende partijen versterken en verbreden de samenwerking in het kader van de werkzaamheden van de Gemeenschap op het gebied van :
 
-- -. onderzoek en technologische ontwikkeling,
+- - onderzoek en technologische ontwikkeling,
 
-- -. informatiediensten,
+- - informatiediensten,
 
-- -. milieu,
+- - milieu,
 
-- -. onderwijs, opleiding en jongerenbeleid,
+- - onderwijs, opleiding en jongerenbeleid,
 
-- -. sociaal beleid,
+- - sociaal beleid,
 
-- -. bescherming van de consument,
+- - bescherming van de consument,
 
-- -. kleine en middelgrote ondernemingen,
+- - kleine en middelgrote ondernemingen,
 
-- -. toerisme,
+- - toerisme,
 
-- -. de audiovisuele sector en
+- - de audiovisuele sector en
 
-- -. burgerbescherming,
+- - burgerbescherming,
 
 voor zover deze onderwerpen niet in andere delen van deze Overeenkomst worden geregeld.
 
@@ -803,47 +717,47 @@ voor zover deze onderwerpen niet in andere delen van deze Overeenkomst worden ge
 
 De in artikel 78 bedoelde samenwerking vindt normaliter in een van de volgende vormen plaats:
 
-- -. deelneming door EVA-Staten aan communautaire kaderprogramma's, specifieke programma's, projecten of andere acties ;
+- - deelneming door EVA-Staten aan communautaire kaderprogramma's, specifieke programma's, projecten of andere acties ;
 
-- -. totstandbrenging van gezamenlijke activiteiten op specifieke terreinen, inclusief overleg over of coördinatie van activiteiten, het samenvoegen van bestaande activiteiten en de totstandbrenging van gezamenlijke ad hoc-activiteiten :
+- - totstandbrenging van gezamenlijke activiteiten op specifieke terreinen, inclusief overleg over of coördinatie van activiteiten, het samenvoegen van bestaande activiteiten en de totstandbrenging van gezamenlijke ad hoc-activiteiten :
 
-- -. formele en informele uitwisseling of verstrekking van informatie ;
+- - formele en informele uitwisseling of verstrekking van informatie ;
 
-- -. gemeenschappelijke inspanningen om bepaalde activiteiten op het gehele grondgebied van de overeenkomstsluitende partijen aan te moedigen ;
+- - gemeenschappelijke inspanningen om bepaalde activiteiten op het gehele grondgebied van de overeenkomstsluitende partijen aan te moedigen ;
 
-- -. parallelle wetgeving, in voorkomend geval, met een identieke of gelijksoortige inhoud ;
+- - parallelle wetgeving, in voorkomend geval, met een identieke of gelijksoortige inhoud ;
 
-- -. coördinatie van inspanningen en activiteiten, wanneer zulks van wederzijds belang is, via of in het kader van internationale organisaties en van samenwerking met derde landen.
+- - coördinatie van inspanningen en activiteiten, wanneer zulks van wederzijds belang is, via of in het kader van internationale organisaties en van samenwerking met derde landen.
 
 ##### Artikel 81
 
 Wanneer de samenwerking de vorm aanneemt van deelneming door EVA-Staten in een communautair kaderprogramma, specifiek programma, project of andere actie, zijn de volgende beginselen van toepassing :
 
-- a). De EVA-Staten moeten toegang hebben tot alle delen van een programma.
+- a) De EVA-Staten moeten toegang hebben tot alle delen van een programma.
 
-- b). In de status van de EVA-Staten in de commissies die de Commissie bijstaan bij het beheer of de ontwikkeling van een communautaire activiteit waaraan EVA-Staten op grond van hun deelneming financieel kunnen bijdragen, moet deze bijdrage ten volle tot uiting komen.
+- b) In de status van de EVA-Staten in de commissies die de Commissie bijstaan bij het beheer of de ontwikkeling van een communautaire activiteit waaraan EVA-Staten op grond van hun deelneming financieel kunnen bijdragen, moet deze bijdrage ten volle tot uiting komen.
 
-- c). Besluiten van de Gemeenschap die geen verband houden met de algemene begroting van de Gemeenschap, en al dan niet rechtstreeks betrekking hebben op een kaderprogramma, een specifiek programma, een project of andere actie waaraan EVA-Staten via een in het kader van deze Overeenkomst genomen besluit deelnemen, zijn onderworpen aan het bepaalde in artikel 79, lid 3. De voorwaarden voor de voortgezette deelneming aan bedoelde activiteit kunnen door het Gemengd Comité van de EER worden gewijzigd overeenkomstig artikel 86.
+- c) Besluiten van de Gemeenschap die geen verband houden met de algemene begroting van de Gemeenschap, en al dan niet rechtstreeks betrekking hebben op een kaderprogramma, een specifiek programma, een project of andere actie waaraan EVA-Staten via een in het kader van deze Overeenkomst genomen besluit deelnemen, zijn onderworpen aan het bepaalde in artikel 79, lid 3. De voorwaarden voor de voortgezette deelneming aan bedoelde activiteit kunnen door het Gemengd Comité van de EER worden gewijzigd overeenkomstig artikel 86.
 
-- d). Op projectniveau hebben instellingen, ondernemingen, organisaties en onderdanen van de EVA-Staten dezelfde rechten en verplichtingen in het communautaire programma of een andere actie als die welke gelden voor de instellingen, ondernemingen, organisaties en onderdanen van de Lid-Staten van de EG waarmee het partnerschap wordt aangegaan. Hetzelfde geldt mutatis mutandis voor deelnemers aan uitwisselingen tussen EVA-Staten en Lid-Staten van de EG in het kader van bedoelde activiteit.
+- d) Op projectniveau hebben instellingen, ondernemingen, organisaties en onderdanen van de EVA-Staten dezelfde rechten en verplichtingen in het communautaire programma of een andere actie als die welke gelden voor de instellingen, ondernemingen, organisaties en onderdanen van de Lid-Staten van de EG waarmee het partnerschap wordt aangegaan. Hetzelfde geldt mutatis mutandis voor deelnemers aan uitwisselingen tussen EVA-Staten en Lid-Staten van de EG in het kader van bedoelde activiteit.
 
-- e). De EVA-Staten, hun instellingen, ondernemingen, organisaties en onderdanen hebben dezelfde rechten en verplichtingen ten aanzien van de verspreiding, evaluatie en exploitatie van resultaten als die welke gelden voor de Lid-Staten van de EG, hun instellingen, ondernemingen, organisaties en onderdanen.
+- e) De EVA-Staten, hun instellingen, ondernemingen, organisaties en onderdanen hebben dezelfde rechten en verplichtingen ten aanzien van de verspreiding, evaluatie en exploitatie van resultaten als die welke gelden voor de Lid-Staten van de EG, hun instellingen, ondernemingen, organisaties en onderdanen.
 
-- f). De overeenkomstsluitende partijen verbinden zich ertoe om, in overeenstemming met hun onderscheiden voorschriften en regelingen, het verkeer van deelnemers aan het programma of een andere actie in de mate waarin zulks noodzakelijk is te vergemakkelijken.
+- f) De overeenkomstsluitende partijen verbinden zich ertoe om, in overeenstemming met hun onderscheiden voorschriften en regelingen, het verkeer van deelnemers aan het programma of een andere actie in de mate waarin zulks noodzakelijk is te vergemakkelijken.
 
 ##### Artikel 82
 
 1. Wanneer de samenwerking in het kader van dit deel een financiële deelneming van de EVA-Staten omvat, vindt die deelneming in een van de volgende vormen plaats :
 
-- a). De bijdrage van de EVA-Staten als gevolg van hun deelneming aan communautaire activiteiten wordt berekend naar rato van : die elk jaar voor de Gemeenschap op de algemene communautaire begroting worden opgevoerd op elke begrotingslijn overeenstemmende met de betrokken activiteiten. De "evenredigheidsfactor" aan de hand waarvan de deelneming van de EVA-Staten wordt bepaald, is de som van de verhoudingsgetallen tussen het bruto binnenlands produkt tegen marktprijzen van elk van de EVA-Staten enerzijds en de som van de bruto binnenlandse produkten tegen marktprijzen van de Lid-Staten van de EG en die EVA-Staat anderzijds. Deze factor wordt voor elk begrotingsjaar aan de hand van de meest recente statistische gegevens berekend. Het bedrag van de bijdrage van de EVA-Staten is zowel wat de vastleggingskredieten als wat de betalingskredieten betreft een aanvulling op de voor de Gemeenschap opgevoerde bedragen op de algemene begroting op elke begrotingslijn overeenstemmende met de betrokken activiteiten. De elk jaar door de EVA-Staten te betalen bijdragen worden op basis van de betalingskredieten vastgesteld. Verplichtingen die de Gemeenschap is aangegaan vóór de inwerkingtreding op basis van deze Overeenkomst van de deelneming van de EVA-Staten aan de betrokken activiteiten - en de daaruit voortvloeiende betalingen -, geven geen aanleiding tot een bijdrage van de EVA-Staten.
+- a) De bijdrage van de EVA-Staten als gevolg van hun deelneming aan communautaire activiteiten wordt berekend naar rato van : die elk jaar voor de Gemeenschap op de algemene communautaire begroting worden opgevoerd op elke begrotingslijn overeenstemmende met de betrokken activiteiten. De "evenredigheidsfactor" aan de hand waarvan de deelneming van de EVA-Staten wordt bepaald, is de som van de verhoudingsgetallen tussen het bruto binnenlands produkt tegen marktprijzen van elk van de EVA-Staten enerzijds en de som van de bruto binnenlandse produkten tegen marktprijzen van de Lid-Staten van de EG en die EVA-Staat anderzijds. Deze factor wordt voor elk begrotingsjaar aan de hand van de meest recente statistische gegevens berekend. Het bedrag van de bijdrage van de EVA-Staten is zowel wat de vastleggingskredieten als wat de betalingskredieten betreft een aanvulling op de voor de Gemeenschap opgevoerde bedragen op de algemene begroting op elke begrotingslijn overeenstemmende met de betrokken activiteiten. De elk jaar door de EVA-Staten te betalen bijdragen worden op basis van de betalingskredieten vastgesteld. Verplichtingen die de Gemeenschap is aangegaan vóór de inwerkingtreding op basis van deze Overeenkomst van de deelneming van de EVA-Staten aan de betrokken activiteiten - en de daaruit voortvloeiende betalingen -, geven geen aanleiding tot een bijdrage van de EVA-Staten.
 
-- -. de vastleggingskredieten en
+   - - de vastleggingskredieten en
 
-- -. de betalingskredieten
+   - - de betalingskredieten
 
-- b). De financiële bijdrage van de EVA-Staten als gevolg van hun deelneming aan bepaalde projecten of andere activiteiten wordt gebaseerd op het beginsel dat elke overeenkomstsluitende partij haar eigen kosten dekt en een door het Gemengd Comité van de EER vast te stellen passende bijdrage levert aan de algemene kosten van de Gemeenschap.
+- b) De financiële bijdrage van de EVA-Staten als gevolg van hun deelneming aan bepaalde projecten of andere activiteiten wordt gebaseerd op het beginsel dat elke overeenkomstsluitende partij haar eigen kosten dekt en een door het Gemengd Comité van de EER vast te stellen passende bijdrage levert aan de algemene kosten van de Gemeenschap.
 
-- c). Het Gemengd Comité van de EER neemt de nodige besluiten betreffende de bijdrage van de overeenkomstsluitende partijen in de kosten van de activiteit.
+- c) Het Gemengd Comité van de EER neemt de nodige besluiten betreffende de bijdrage van de overeenkomstsluitende partijen in de kosten van de activiteit.
 
 2. Protocol 32 bevat de nadere bepalingen voor de tenuitvoerlegging van dit artikel.
 
@@ -875,7 +789,7 @@ Onverminderd het bepaalde in andere delen van deze Overeenkomst beletten de bepa
 
 ### HOOFDSTUK 1. DE STRUCTUUR VAN DE ASSOCIATIE
 
-### Afdeling 1. De EER-Raad
+#### Afdeling 1. De EER-Raad
 
 ##### Artikel 89
 
@@ -901,7 +815,7 @@ De leden van de EER-Raad kunnen worden vertegenwoordigd overeenkomstig de in zij
 
 2. De EER-Raad wordt tweemaal per jaar door zijn voorzitter bijeengeroepen. De EER-Raad komt overeenkomstig zijn reglement van orde eveneens bijeen wanneer de omstandigheden zulks vereisen.
 
-### Afdeling 2. Het Gemengd Comité van de EER
+#### Afdeling 2. Het Gemengd Comité van de EER
 
 ##### Artikel 92
 
@@ -927,7 +841,7 @@ De leden van de EER-Raad kunnen worden vertegenwoordigd overeenkomstig de in zij
 
 4. Het Gemengd Comité van de EER brengt jaarlijks verslag uit over de werking en de ontwikkeling van de Overeenkomst.
 
-### Afdeling 3. Parlementaire samenwerking
+#### Afdeling 3. Parlementaire samenwerking
 
 ##### Artikel 95
 
@@ -943,7 +857,7 @@ De leden van de EER-Raad kunnen worden vertegenwoordigd overeenkomstig de in zij
 
 6. Het Gemengd Parlementair Comité van de EER stelt zijn reglement van orde vast.
 
-### Afdeling 4. Samenwerking tussen de economische en sociale partners
+#### Afdeling 4. Samenwerking tussen de economische en sociale partners
 
 ##### Artikel 96
 
@@ -959,9 +873,9 @@ De leden van de EER-Raad kunnen worden vertegenwoordigd overeenkomstig de in zij
 
 Deze Overeenkomst doet geen afbreuk aan het recht van elke overeenkomstsluitende partij om, onverminderd het beginsel van non-discriminatie en na de overige overeenkomstsluitende partijen te hebben ingelicht, haar interne wetgeving op de door de Overeenkomst bestreken gebieden te wijzigen :
 
-- -. indien het Gemengd Comité van de EER oordeelt dat de gewijzigde wetgeving geen afbreuk doet aan de goede werking van de Overeenkomst of
+- - indien het Gemengd Comité van de EER oordeelt dat de gewijzigde wetgeving geen afbreuk doet aan de goede werking van de Overeenkomst of
 
-- -. indien de in artikel 98 bedoelde procedures zijn afgerond.
+- - indien de in artikel 98 bedoelde procedures zijn afgerond.
 
 ##### Artikel 98
 
@@ -1023,7 +937,7 @@ Door het Gemengd Comité van de EER genomen besluiten in de gevallen waarin deze
 
 ### HOOFDSTUK 3. HOMOGENITEIT, TOEZICHTPROCEDURE EN BESLECHTING VAN GESCHILLEN
 
-### Afdeling I. Homogeniteit
+#### Afdeling I. Homogeniteit
 
 ##### Artikel 105
 
@@ -1037,17 +951,17 @@ Door het Gemengd Comité van de EER genomen besluiten in de gevallen waarin deze
 
 Ten einde te komen tot een zo uniform mogelijke uitlegging van deze Overeenkomst, met volledige eerbiediging van de onafhankelijkheid van de rechterlijke instanties, stelt het Gemengd Comité van de EER een systeem in voor de uitwisseling van informatie betreffende de beslissingen van het EVA-Hof. het Hof van Justitie van de Europese Gemeenschappen, het Gerecht van Eerste Aanleg van de Europese Gemeenschappen en de rechterlijke instanties van de EVA-Staten die in laatste aanleg uitspraak doen. Dit systeem omvat :
 
-- a). toezending aan de Griffier van het Hof van Justitie van de Europese Gemeenschappen van uitspraken van deze rechterlijke instanties over de uitlegging en toepassing van enerzijds deze Overeenkomst en anderzijds het Verdrag tot oprichting van de Europese Economische Gemeenschap en het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal zoals die werden gewijzigd of aangevuld, alsmede van de ter uitvoering daarvan aangenomen besluiten voor zover die betrekking hebben op bepalingen die in essentie gelijk zijn aan die van deze Overeenkomst;
+- a) toezending aan de Griffier van het Hof van Justitie van de Europese Gemeenschappen van uitspraken van deze rechterlijke instanties over de uitlegging en toepassing van enerzijds deze Overeenkomst en anderzijds het Verdrag tot oprichting van de Europese Economische Gemeenschap en het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal zoals die werden gewijzigd of aangevuld, alsmede van de ter uitvoering daarvan aangenomen besluiten voor zover die betrekking hebben op bepalingen die in essentie gelijk zijn aan die van deze Overeenkomst;
 
-- b). de classificatie van die uitspraken door de Griffier van het Hof van Justitie van de Europese Gemeenschappen, met inbegrip van, voor zover nodig, het maken en publiceren van vertalingen en samenvattingen ;
+- b) de classificatie van die uitspraken door de Griffier van het Hof van Justitie van de Europese Gemeenschappen, met inbegrip van, voor zover nodig, het maken en publiceren van vertalingen en samenvattingen ;
 
-- c). toezending, door de Griffier van het Hof van Justitie van de Europese Gemeenschappen, van de documentatie aan de door elke overeenkomstsluitende partij aan te wijzen bevoegde nationale instanties.
+- c) toezending, door de Griffier van het Hof van Justitie van de Europese Gemeenschappen, van de documentatie aan de door elke overeenkomstsluitende partij aan te wijzen bevoegde nationale instanties.
 
 ##### Artikel 107
 
 Protocol 34 bepaalt hoe een EVA-Staat een rechterlijke instantie kan toestaan het Hof van Justitie van de Europese Gemeenschappen te verzoeken een uitspraak te doen over de uitlegging van een EER-regel.
 
-### Afdeling 2. Toezichtprocedure
+#### Afdeling 2. Toezichtprocedure
 
 ##### Artikel 108
 
@@ -1057,11 +971,11 @@ Protocol 34 bepaalt hoe een EVA-Staat een rechterlijke instantie kan toestaan he
 
 In overeenstemming met een afzonderlijke overeenkomst tussen de EVA-Staten in verband met de toepassing van deze Overeenkomst, is het EVA-Hof in het bijzonder bevoegd ter zake van :
 
-- a). vorderingen inzake de toezichtprocedure betreffende de EVA-Staten ;
+- a) vorderingen inzake de toezichtprocedure betreffende de EVA-Staten ;
 
-- b). beroepen betreffende beschikkingen van de Toezichthoudende Autoriteit van de EVA op het gebied van de mededinging ;
+- b) beroepen betreffende beschikkingen van de Toezichthoudende Autoriteit van de EVA op het gebied van de mededinging ;
 
-- c). de beslechting van geschillen tussen twee of meer EVA-Staten.
+- c) de beslechting van geschillen tussen twee of meer EVA-Staten.
 
 ##### Artikel 109
 
@@ -1085,7 +999,7 @@ Nadat deze formaliteiten op verzoek van de belanghebbende zijn vervuld, kan deze
 
 De tenuitvoerlegging kan alleen worden geschorst krachtens een beschikking van het Hof van Justitie van de Europese Gemeenschappen, voor zover het gaat om beschikkingen van de Commissie van de EG, het Gerecht van Eerste Aanleg van de Europese Gemeenschappen of het Hof van Justitie van de Europese Gemeenschappen, of krachtens een beschikking van het EVA-Hof voor zover het gaat om beschikkingen van de Toezichthoudende Autoriteit van de EVA of het EVA-Hof. Het toezicht op de regelmatigheid van de wijze van tenuitvoerlegging behoort evenwel tot de bevoegdheid van de nationale rechterlijke instanties.
 
-### Afdeling 3. Beslechting van geschillen
+#### Afdeling 3. Beslechting van geschillen
 
 ##### Artikel 111
 
@@ -1097,9 +1011,9 @@ De tenuitvoerlegging kan alleen worden geschorst krachtens een beschikking van h
 
 Indien het Gemengd Comité van de EER in een dergelijk geschil geen oplossing bereikt binnen zes maanden vanaf het tijdstip waarop de procedure is ingeleid of indien de overeenkomstsluitende partijen die bij het geschil zijn betrokken tegen die tijd niet hebben besloten het Hof van Justitie van de Europese Gemeenschappen om een beslissing te verzoeken, kan een overeenkomstsluitende partij, ten einde eventuele onevenwichtige situaties te corrigeren,
 
-- -. hetzij overeenkomstig artikel 112, lid 2, en volgens de procedure van artikel 113 het initiatief tot een vrijwaringsmaatregel nemen;
+- - hetzij overeenkomstig artikel 112, lid 2, en volgens de procedure van artikel 113 het initiatief tot een vrijwaringsmaatregel nemen;
 
-- -. hetzij artikel 102 mutatis mutandis toepassen.
+- - hetzij artikel 102 mutatis mutandis toepassen.
 
 4. Indien een geschil betrekking heeft op het toepassingsgebied of de duur van vrijwaringsmaatregelen die overeenkomstig artikel 111, lid 3, of artikel 112 zijn genomen, dan wel op de evenredigheid van de overeenkomstig artikel 114 genomen maatregelen om het evenwicht te herstellen, en indien het Gemengd Comité van de EER er niet in slaagt het geschil op te lossen binnen drie maanden vanaf het tijdstip waarop de zaak aan het comité is voorgelegd, kan elke overeenkomstsluitende partij het geschil overeenkomstig de procedures van Protocol 33 aan arbitrage onderwerpen. Vraagstukken inzake de uitlegging van de in lid 3 bedoelde bepalingen van deze Overeenkomst mogen in die procedures niet worden behandeld. De arbitrage-uitspraak is bindend voor de partijen bij het geschil.
 
@@ -1171,9 +1085,9 @@ Tenzij anders wordt bepaald in deze Overeenkomst en met name in de Protocollen 4
 
 De bepalingen van deze Overeenkomst vormen geen beletsel voor samenwerking :
 
-- a). in het kader van de Noorse samenwerking, voor zover die samenwerking de goede werking van deze Overeenkomst niet schaadt;
+- a) in het kader van de Noorse samenwerking, voor zover die samenwerking de goede werking van deze Overeenkomst niet schaadt;
 
-- b). in het kader van de regionale unie tussen Zwitserland en Liechtenstein, voor zover de doelstellingen van die unie niet door de uitvoering van deze Overeenkomst worden bereikt en de goede werking van de Overeenkomst niet wordt geschaad ;
+- b) in het kader van de regionale unie tussen Zwitserland en Liechtenstein, voor zover de doelstellingen van die unie niet door de uitvoering van deze Overeenkomst worden bereikt en de goede werking van de Overeenkomst niet wordt geschaad ;
 
 ##### Artikel 122
 
@@ -1183,11 +1097,11 @@ De vertegenwoordigers, afgevaardigden en deskundigen van de overeenkomstsluitend
 
 Niets in deze Overeenkomst verhindert een overeenkomstsluitende partij maatregelen te treffen :
 
-- a). die zij noodzakelijk acht ter voorkoming van de verbreiding van inlichtingen die strijdig zijn met de wezenlijke belangen van haar veiligheid ;
+- a) die zij noodzakelijk acht ter voorkoming van de verbreiding van inlichtingen die strijdig zijn met de wezenlijke belangen van haar veiligheid ;
 
-- b). die betrekking hebben op de produktie van of de handel in wapens, munitie en oorlogsmateriaal of andere produkten die onontbeerlijk zijn voor defensiedoeleinden of onderzoek, ontwikkeling of produktie onontbeerlijk voor defensiedoeleinden, mits dergelijke maatregelen geen afbreuk doen aan de mededingingsverhoudingen voor produkten die niet bestemd zijn voor specifiek militaire doeleinden ;
+- b) die betrekking hebben op de produktie van of de handel in wapens, munitie en oorlogsmateriaal of andere produkten die onontbeerlijk zijn voor defensiedoeleinden of onderzoek, ontwikkeling of produktie onontbeerlijk voor defensiedoeleinden, mits dergelijke maatregelen geen afbreuk doen aan de mededingingsverhoudingen voor produkten die niet bestemd zijn voor specifiek militaire doeleinden ;
 
-- c). die zij noodzakelijk acht voor haar eigen veiligheid in geval van ernstige binnenlandse onlusten waardoor de openbare orde wordt verstoord, in geval van oorlog of van een ernstige internationale spanning welke oorlogsgevaar inhoudt, of om te voldoen aan de verplichtingen die zij met het oog op het behoud van de vrede en van de internationale veiligheid heeft aangegaan.
+- c) die zij noodzakelijk acht voor haar eigen veiligheid in geval van ernstige binnenlandse onlusten waardoor de openbare orde wordt verstoord, in geval van oorlog of van een ernstige internationale spanning welke oorlogsgevaar inhoudt, of om te voldoen aan de verplichtingen die zij met het oog op het behoud van de vrede en van de internationale veiligheid heeft aangegaan.
 
 ##### Artikel 124
 
@@ -1203,15 +1117,15 @@ Deze Overeenkomst laat de regeling van het eigendomsrecht van de overeenkomstslu
 
 2. In afwijking van lid 1 is deze Overeenkomst niet van toepassing op de Ålandeilanden. De regering van Finland kan evenwel door een verklaring die bij de bekrachtiging van deze Overeenkomst wordt neergelegd bij de depositaris, die een voor eensluidend gewaarmerkt afschrift daarvan toezendt aan de overeenkomstsluitende partijen, ervan kennis geven dat de Overeenkomst op die eilanden van toepassing is onder dezelfde voorwaarden als waaronder zij voor andere delen van Finland geldt, behoudens de volgende bepalingen:
 
-- a). De bepalingen van deze Overeenkomst vormen geen beletsel voor de toepassing te allen tijde op de Ålandeilanden van de geldende voorschriften inzake:
+- a) De bepalingen van deze Overeenkomst vormen geen beletsel voor de toepassing te allen tijde op de Ålandeilanden van de geldende voorschriften inzake:
 
-- i). beperkingen op het recht voor natuurlijke personen die niet in het bezit zijn van het regionale burgerschap van Åland, en voor rechtspersonen, om op de Ålandeilanden onroerend goed aan te kopen en te bezitten zonder toestemming van de bevoegde autoriteiten van de eilanden;
+   - i) beperkingen op het recht voor natuurlijke personen die niet in het bezit zijn van het regionale burgerschap van Åland, en voor rechtspersonen, om op de Ålandeilanden onroerend goed aan te kopen en te bezitten zonder toestemming van de bevoegde autoriteiten van de eilanden;
 
-- ii). beperkingen op het recht van vestiging en het recht diensten te verrichten van natuurlijke personen die niet in het bezit zijn van het regionale burgerschap van Åland of van een rechtspersoon, zonder toestemming van de bevoegde autoriteiten van de eilanden.
+   - ii) beperkingen op het recht van vestiging en het recht diensten te verrichten van natuurlijke personen die niet in het bezit zijn van het regionale burgerschap van Åland of van een rechtspersoon, zonder toestemming van de bevoegde autoriteiten van de eilanden.
 
-- b). Deze Overeenkomst doet geen afbreuk aan de rechten die Ålanders in Finland genieten.
+- b) Deze Overeenkomst doet geen afbreuk aan de rechten die Ålanders in Finland genieten.
 
-- c). De autoriteiten van de Ålandeilanden behandelen alle natuurlijke en rechtspersonen van de overeenkomstsluitende partijen op gelijke voet.
+- c) De autoriteiten van de Ålandeilanden behandelen alle natuurlijke en rechtspersonen van de overeenkomstsluitende partijen op gelijke voet.
 
 ##### Artikel 127
 
@@ -1231,7 +1145,7 @@ Onmiddellijk na de kennisgeving van de voorgenomen opzegging, roepen de overige 
 
 Naar aanleiding van de uitbreidingen van de Europese Economische Ruimte zijn eveneens de versies van deze overeenkomst in de Bulgaarse, de Estse, de Hongaarse, de Kroatische, de Letse, de Litouwse, de Maltese, de Poolse, de Roemeense, de Sloveense, de Slowaakse en de Tsjechische taal gelijkelijk authentiek.
 
-De teksten van de in de bijlagen genoemde besluiten zijn gelijkelijk authentiek in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Kroatische, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal, zoals zij in het **Publicatieblad van de Europese Unie** zijn verschenen, en worden met het oog op hun echtverklaring in de IJslandse en Noorse taal opgemaakt en in het EER-supplement bij het **Publicatieblad van de Europese Unie** bekendgemaakt.
+De teksten van de in de bijlagen genoemde besluiten zijn gelijkelijk authentiek in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Kroatische, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal, zoals zij in het *Publicatieblad van de Europese Unie* zijn verschenen, en worden met het oog op hun echtverklaring in de IJslandse en Noorse taal opgemaakt en in het EER-supplement bij het *Publicatieblad van de Europese Unie* bekendgemaakt.
 
 2. Deze Overeenkomst zal door de overeenkomstsluitende partijen worden bekrachtigd of goedgekeurd overeenkomstig hun onderscheidene grondwettelijke bepalingen.
 
@@ -1263,7 +1177,7 @@ Ierland
 
 Italië
 
-het **Koninkrijk der Nederlanden**
+het *Koninkrijk der Nederlanden*
 
 Luxemburg
 

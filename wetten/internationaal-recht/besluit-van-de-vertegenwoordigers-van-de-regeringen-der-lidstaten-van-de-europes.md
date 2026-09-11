@@ -1,43 +1,18 @@
 ---
 title: "Besluit van de vertegenwoordigers van de regeringen der lidstaten van de Europese Unie, in het kader van de Raad bijeen, betreffende de voorrechten en immuniteiten die aan het Instituut voor veiligheidsstudies en het Satellietcentrum van de Europese Unie, alsmede aan hun organen en de leden van hun personeel worden verleend"
 identifier: "BWBV0001511"
-country: "nl"
-rank: "verdrag"
-publication_date: "2001-10-15"
-last_updated: "2001-10-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001511"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000085233"
-version_id: "10000085442"
-internal_id: "C10006992841"
-label_id: "10000085424"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001511/2001-10-15/0"
-intitule_bron: "Trb.2001-192"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2002-01-03"
-intitule_published: "2001-12-06"
-intitule_status: "nogniet"
-original_publication: "Trb.2001-192"
-original_signed_date: "2002-01-03"
-original_published_date: "2001-12-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2001-192"
-jci_1_3: "jci1.3:c:BWBV0001511&z=2001-10-15&g=2001-10-15"
-jci_1_0: "1.0:c:BWBV0001511&g=2001-10-15"
-citeertitel_status: "officieel"
-signed_date: "2002-01-03"
-entry_into_force: "2001-12-06"
+laatste_update: 2001-10-15
+status: geldig
+toestand: 2001-10-15
+bron: "https://wetten.overheid.nl/BWBV0001511"
+opgehaald: 2026-09-11
 ---
+
 # Besluit van de vertegenwoordigers van de regeringen der lidstaten van de Europese Unie, in het kader van de Raad bijeen, betreffende de voorrechten en immuniteiten die aan het Instituut voor veiligheidsstudies en het Satellietcentrum van de Europese Unie, alsmede aan hun organen en de leden van hun personeel worden verleend
 
-De vertegenwoordigers van de regeringen der lidstaten van de Europese Unie, in het kader van de Raad bijeen,
-
-Overwegende hetgeen volgt:
-
-Met het oog op een soepele werking van het Instituut en het Satellietcentrum voor veiligheidsstudies van de Europese Unie, die door de Raad als onafhankelijke agentschappen van de Europese Unie zijn opgericht2)Gemeenschappelijke Optredens 2001/554/GBVB (PB L 200 van 25.7.2001, blz. 1) en 2001/555/GBVB (PB L 200 van 25.7.2001, blz. 5). (hierna „Agentschappen van de Europese Unie" genoemd), dienen aan deze nieuwe entiteiten en aan hun personeel, uitsluitend inhet belang van de Europese Unie, de voor hun werking onontbeerlijke voorrechten, immuniteiten en faciliteiten te worden verleend, (hierna „Agentschappen van de Europese Unie" genoemd), dienen aan deze nieuwe entiteiten en aan hun personeel, uitsluitend inhet belang van de Europese Unie, de voor hun werking onontbeerlijke voorrechten, immuniteiten en faciliteiten te worden verleend,
-
-Besluiten:
+*De vertegenwoordigers van de regeringen der lidstaten van de Europese Unie, in het kader van de Raad bijeen, Overwegende hetgeen volgt: 1. Met het oog op een soepele werking van het Instituut en het Satellietcentrum voor veiligheidsstudies van de Europese Unie, die door de Raad als onafhankelijke agentschappen van de Europese Unie zijn opgericht2)Gemeenschappelijke Optredens 2001/554/GBVB (PB L 200 van 25.7.2001, blz. 1) en 2001/555/GBVB (PB L 200 van 25.7.2001, blz. 5). (hierna „Agentschappen van de Europese Unie" genoemd), dienen aan deze nieuwe entiteiten en aan hun personeel, uitsluitend inhet belang van de Europese Unie, de voor hun werking onontbeerlijke voorrechten, immuniteiten en faciliteiten te worden verleend, (hierna „Agentschappen van de Europese Unie" genoemd), dienen aan deze nieuwe entiteiten en aan hun personeel, uitsluitend inhet belang van de Europese Unie, de voor hun werking onontbeerlijke voorrechten, immuniteiten en faciliteiten te worden verleend, Besluiten:*
 
 ##### Artikel 1. Immuniteit van rechtsvervolging en vrijstelling van huiszoeking, beslaglegging, vordering, verbeurdverklaring en iedere andere vorm van dwangmaatregel
 

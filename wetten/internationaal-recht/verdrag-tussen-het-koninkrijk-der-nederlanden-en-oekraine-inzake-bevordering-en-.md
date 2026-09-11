@@ -1,49 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en Oekraïne inzake bevordering en wederzijdse bescherming van investeringen"
 identifier: "BWBV0001186"
-country: "nl"
-rank: "verdrag"
-publication_date: "1997-06-01"
-last_updated: "1997-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001186"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10001679923"
-version_id: "10001758092"
-internal_id: "C10006986551"
-label_id: "10001680134"
-dtd_version: "2.0"
-original_entry_into_force: "1997-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001186/1997-06-01/0"
-intitule_bron: "Trb.1994-181"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-05-04"
-intitule_published: "1994-09-01"
-intitule_in_force: "1997-05-16"
-intitule_status: "goed"
-original_publication: "Trb.1994-181"
-original_signed_date: "1995-05-04"
-original_published_date: "1994-09-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1994-181"
-entry_into_force_date: "1997-06-01"
-jci_1_3: "jci1.3:c:BWBV0001186&z=1997-06-01&g=1997-06-01"
-jci_1_0: "1.0:c:BWBV0001186&g=1997-06-01"
-citeertitel_status: "redactioneel"
-signed_date: "1995-05-04"
-entry_into_force: "1997-06-01"
+publicatiedatum: 1997-06-01
+laatste_update: 1997-06-01
+status: geldig
+toestand: 1997-06-01
+bron: "https://wetten.overheid.nl/BWBV0001186"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en Oekraïne inzake bevordering en wederzijdse bescherming van investeringen
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van Oekraïne,
-
-hierna aangeduid als de Verdragsluitende Partijen,
-
-Geleid door de wens de van oudsher tussen hun landen bestaande vriendschapsbanden te versterken, en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door de onderdanen van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij betreft,
-
-In het besef dat overeenstemming omtrent de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen op basis van wederkerigheid hiertoe zal bijdragen,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van Oekraïne, hierna aangeduid als de Verdragsluitende Partijen, Geleid door de wens de van oudsher tussen hun landen bestaande vriendschapsbanden te versterken, en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door de onderdanen van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij betreft, In het besef dat overeenstemming omtrent de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen op basis van wederkerigheid hiertoe zal bijdragen, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -51,23 +21,23 @@ Voor de toepassing van dit Verdrag:
 
 - a. omvat de term „investeringen": alle soorten vermogensbestanddelen en in het bijzonder, doch niet uitsluitend:
 
-- i. roerende en onroerende zaken, alsmede alle andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
+   - i. roerende en onroerende zaken, alsmede alle andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
 
-- ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en gezamenlijke ondernemingen;
+   - ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en gezamenlijke ondernemingen;
 
-- iii. recht op geld, op andere vermogensbestanddelen of op elke prestatie die economische waarde heeft:
+   - iii. recht op geld, op andere vermogensbestanddelen of op elke prestatie die economische waarde heeft:
 
-- iv. rechten op het gebied van de industriële en de intellectuele eigendom, zoals auteursrechten, octrooien. industriële ontwerpen of modellen, handels- of dienstmerken, handelsnamen, technische werkwijzen, goodwill en know-how, en overige soortgelijke rechten;
+   - iv. rechten op het gebied van de industriële en de intellectuele eigendom, zoals auteursrechten, octrooien. industriële ontwerpen of modellen, handels- of dienstmerken, handelsnamen, technische werkwijzen, goodwill en know-how, en overige soortgelijke rechten;
 
-- v. rechten verleend krachtens het publiekrecht, met inbegrip van rechten tot het opsporen, exploreren, ontginnen of winnen van natuurlijke rijkdommen, alsmede alle overige rechten verleend krachtens het recht, krachtens een overeenkomst of krachtens een beslissing van de bevoegde autoriteiten in overeenstemming met het recht.
+   - v. rechten verleend krachtens het publiekrecht, met inbegrip van rechten tot het opsporen, exploreren, ontginnen of winnen van natuurlijke rijkdommen, alsmede alle overige rechten verleend krachtens het recht, krachtens een overeenkomst of krachtens een beslissing van de bevoegde autoriteiten in overeenstemming met het recht.
 
 - b. omvat de term „onderdanen" met betrekking tot elk van beide Verdragsluitende Partijen:
 
-- i. natuurlijke personen die de nationaliteit van die Verdragsluitende Partij hebben;
+   - i. natuurlijke personen die de nationaliteit van die Verdragsluitende Partij hebben;
 
-- ii. rechtspersonen die zijn opgericht krachtens het recht van die Verdragsluitende Partij;
+   - ii. rechtspersonen die zijn opgericht krachtens het recht van die Verdragsluitende Partij;
 
-- iii. rechtspersonen die niet zijn opgericht krachtens het recht van die Partij, maar die onder toezicht staan van natuurlijke personen zoals omschreven onder i of van rechtspersonen zoals omschreven onder ii hierboven.
+   - iii. rechtspersonen die niet zijn opgericht krachtens het recht van die Partij, maar die onder toezicht staan van natuurlijke personen zoals omschreven onder i of van rechtspersonen zoals omschreven onder ii hierboven.
 
 - c. omvat de term „grondgebied" met betrekking tot eik van beide Verdragsluitende Partijen het grondgebied onder haar soevereiniteit en de zeegebieden en submariene gebieden waarover de Verdragsluitende Partij, in overeenstemming met het internationale recht, soevereiniteit, soevereine rechten of rechtsmacht uitoefent.
 
@@ -105,9 +75,9 @@ De Verdragsluitende Partijen waarborgen dat betalingen die verband houden met ee
 
 - b. gelden nodig
 
-- i. voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindprodukten, of
+   - i. voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindprodukten, of
 
-- ii. om kapitaalgoederen te vervangen ten einde de continuïteit van een investering te waarborgen;
+   - ii. om kapitaalgoederen te vervangen ten einde de continuïteit van een investering te waarborgen;
 
 - c. bijkomende gelden nodig voor de ontwikkeling van een investering;
 
@@ -197,18 +167,14 @@ Wat betreft het Koninkrijk der Nederlanden is dit Verdrag van toepassing op het 
 
 4. Met inachtneming van de in het tweede lid van dit artikel genoemde termijn is de Regering van het Koninkrijk der Nederlanden gerechtigd de toepassing van dit Verdrag ten aanzien van een deel van het Koninkrijk afzonderlijk te beëindigen.
 
-Bij de ondertekening van het Verdrag tussen het Koninkrijk der Nederlanden en Oekraïne inzake bevordering en wederzijdse bescherming van investeringen hebben de ondertekenende vertegenwoordigers overeenstemming bereikt over de volgende bepaling, die een integrerend onderdeel van het Verdrag vormt:
-
-Overeengekomen is dat krachtens artikel 2 bijzondere voorwaarden van toepassing kunnen zijn overeenkomstig de Oekraïense wetgeving betreffende de verwerving van eigendomsrechten in verband met privatisering, concessies en de aankoop van grond.
-
 TEN BLIJKE WAARVAN de ondergetekende vertegenwoordigers, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend.
 
 GEDAAN in tweevoud te Kiev op 14 juli 1994, in de Nederlandse, de Oekraïense en de Engelse taal, zijnde de drie teksten gelijkelijk authentiek. In geval van verschil in uitlegging is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden:**
+*Voor de Regering van het Koninkrijk der Nederlanden:*
 
 (w.g.) R. H. SERRY
 
-**Voor de Regering van Oekraïne:**
+*Voor de Regering van Oekraïne:*
 
 (w.g.) O. SLEPICHEV

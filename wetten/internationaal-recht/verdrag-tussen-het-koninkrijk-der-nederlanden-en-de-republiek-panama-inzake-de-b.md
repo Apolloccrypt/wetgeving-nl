@@ -1,46 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Panama inzake de bevordering en de wederzijdse bescherming van investeringen"
 identifier: "BWBV0001486"
-country: "nl"
-rank: "verdrag"
-publication_date: "2001-09-01"
-last_updated: "2001-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001486"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000331703"
-version_id: "10000339732"
-internal_id: "C10006991601"
-label_id: "10000331904"
-original_entry_into_force: "2001-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001486/2001-09-01/0"
-intitule_bron: "Trb.2000-113"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-07-04"
-intitule_published: "2000-10-13"
-intitule_in_force: "2001-07-26"
-intitule_status: "goed"
-original_publication: "Trb.2000-113"
-original_signed_date: "2001-07-04"
-original_published_date: "2000-10-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2000-113"
-entry_into_force_date: "2001-09-01"
-jci_1_3: "jci1.3:c:BWBV0001486&z=2001-09-01&g=2001-09-01"
-jci_1_0: "1.0:c:BWBV0001486&g=2001-09-01"
-citeertitel_status: "officieel"
-signed_date: "2001-07-04"
-entry_into_force: "2001-09-01"
+publicatiedatum: 2001-09-01
+laatste_update: 2001-09-01
+status: geldig
+toestand: 2001-09-01
+bron: "https://wetten.overheid.nl/BWBV0001486"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Panama inzake de bevordering en de wederzijdse bescherming van investeringen
 
-Het Koninkrijk der Nederlanden en de Republiek Panama, hierna te noemen de „Verdragsluitende Partijen”,
-
-Geleid door de wens de van oudsher bestaande vriendschapsbanden tussen hun landen te versterken en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat betreft investeringen door de onderdanen van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij,
-
-In het besef dat een verdrag inzake de bevordering en de wederzijdse bescherming van investeringen het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Republiek Panama, hierna te noemen de „Verdragsluitende Partijen”, Geleid door de wens de van oudsher bestaande vriendschapsbanden tussen hun landen te versterken en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat betreft investeringen door de onderdanen van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij, In het besef dat een verdrag inzake de bevordering en de wederzijdse bescherming van investeringen het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -48,23 +21,23 @@ Voor de toepassing van dit Verdrag:
 
 - a. wordt onder de term „investeringen” verstaan: alle soorten vermogensbestanddelen en in het bijzonder, doch niet uitsluitend:
 
-- i. roerende en onroerende zaken, alsmede andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
+   - i. roerende en onroerende zaken, alsmede andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
 
-- ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en joint ventures;
+   - ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en joint ventures;
 
-- iii. aanspraken op geld, op andere vermogensbestanddelen of op iedere prestatie die economische waarde heeft;
+   - iii. aanspraken op geld, op andere vermogensbestanddelen of op iedere prestatie die economische waarde heeft;
 
-- iv. rechten op het gebied van de intellectuele eigendom, met inbegrip van auteursrechten en aanverwante rechten en industriële eigendomsrechten, zoals octrooien, industriële ontwerpen, handelsmerken en -namen; alsmede technische werkwijzen, know-how en goodwill;
+   - iv. rechten op het gebied van de intellectuele eigendom, met inbegrip van auteursrechten en aanverwante rechten en industriële eigendomsrechten, zoals octrooien, industriële ontwerpen, handelsmerken en -namen; alsmede technische werkwijzen, know-how en goodwill;
 
-- v. rechten verleend krachtens het publiekrecht of bij overeenkomst, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen;
+   - v. rechten verleend krachtens het publiekrecht of bij overeenkomst, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen;
 
 - b. omvat de term „investeerders” met betrekking tot elk van de Verdragsluitende Partijen:
 
-- i. natuurlijke personen die de nationaliteit van die Verdragsluitende Partij hebben;
+   - i. natuurlijke personen die de nationaliteit van die Verdragsluitende Partij hebben;
 
-- ii. rechtspersonen die zijn opgericht krachtens het recht van die Verdragsluitende Partij;
+   - ii. rechtspersonen die zijn opgericht krachtens het recht van die Verdragsluitende Partij;
 
-- iii. rechtspersonen die niet zijn opgericht krachtens het recht van die Verdragsluitende Partij, maar die onder al dan niet rechtstreeks toezicht staan van natuurlijke personen zoals omschreven onder i) of van rechtspersonen zoals omschreven onder ii);
+   - iii. rechtspersonen die niet zijn opgericht krachtens het recht van die Verdragsluitende Partij, maar die onder al dan niet rechtstreeks toezicht staan van natuurlijke personen zoals omschreven onder i) of van rechtspersonen zoals omschreven onder ii);
 
 - c. omvat de term „grondgebied”, naast het land, de wateren en het luchtruim onder de soevereiniteit van elke Verdragsluitende Partij, mede alle aan de territoriale zee grenzende gebieden die, krachtens het recht van de betrokken Staat en overeenkomstig het internationale recht, tot de exclusieve economische zone of het continentaal plat van de betrokken Staat behoren, en waarin deze rechtsmacht of soevereine rechten uitoefent.
 
@@ -104,9 +77,9 @@ De Verdragsluitende Partijen waarborgen het recht dat betalingen die verband hou
 
 - b. gelden nodig
 
-- i. voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindproducten, of
+   - i. voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindproducten, of
 
-- ii. om kapitaalgoederen te vervangen teneinde de continuïteit van investering te waarborgen;
+   - ii. om kapitaalgoederen te vervangen teneinde de continuïteit van investering te waarborgen;
 
 - c. bijkomende gelden nodig voor de ontwikkeling van een investering;
 
@@ -196,7 +169,7 @@ TEN BLIJKE WAARVAN de ondergetekende vertegenwoordigers, daartoe naar behoren ge
 
 GEDAAN in tweevoud te Panama op 28 augustus 2000 in de Nederlandse, de Spaanse en de Engelse taal, zijnde de drie teksten authentiek. In geval van verschil in interpretatie wordt uitgegaan van de Engelse tekst.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) G. J. A. M. BOS
 
@@ -206,7 +179,7 @@ Buitengewoon en Gevolmachtigd
 
 Ambassadeur
 
-**Voor de Republiek Panama**
+*Voor de Republiek Panama*
 
 (w.g.) JOSÉ MIGUEL ALEMÁN
 

@@ -5,11 +5,11 @@ identifier: "BWBR0046360"
 categorie: "Milieu"
 soort: "ministeriele-regeling"
 publicatiedatum: 2022-04-01
-laatste_update: 2025-03-22
+laatste_update: 2026-01-31
 status: geldig
-toestand: 2025-03-22
+toestand: 2026-01-31
 bron: "https://wetten.overheid.nl/BWBR0046360"
-opgehaald: 2026-09-01
+opgehaald: 2026-09-11
 ---
 
 # Kavelbesluit VI windenergiegebied Hollandse Kust (west), Ministerie van Economische Zaken en Klimaat
@@ -1578,11 +1578,15 @@ In dit besluit wordt verstaan onder:
 
 - • *geïnstalleerd vermogen:* het vermogen van de productie-installatie dat onder normale condities benut kan worden voor de productie van hernieuwbare elektriciteit en dat door de leverancier gegarandeerd wordt bij continu gebruik, het tijdelijk te leveren vermogen van een booster is hierin niet inbegrepen;
 
-- • *massale vogeltrek:* een vogeldichtheid van 500 vogels op rotorhoogte per kilometer per uur;
-
 - • *Mean Sea Level (MSL):* de gemiddelde hoogte van de zeespiegel (het vlak van de zee), als alle variaties die het gevolg zijn van de getijden worden weggemiddeld;
 
+- • *migratieperiode (najaar – vogels):* vogeltrek in de periode van 15 augustus tot en met 30 november;
+
+- • *migratieperiode (voorjaar – vogels):* vogeltrek in de periode van 15 februari tot en met 31 mei;
+
 - • *monitorings- en evaluatieprogramma:* programma waarin de activiteiten zijn beschreven die door of namens de overheid worden uitgevoerd om de leemtes in kennis vast te stellen;
+
+- • *nacht:* de periode tussen 18:00 uur in de avond tot 06:00 uur in de ochtend, volgens de Midden-Europese Tijd;
 
 - • *nachtlichtperiode:* deel van een etmaal met omgevingslichtsterkte minder of gelijk aan 50 cd/m2;
 
@@ -1604,7 +1608,9 @@ In dit besluit wordt verstaan onder:
 
 - • *vergunninghouder:* houder van een vergunning op grond van [artikel 12 van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=12);
 
-- • *windpark:* een samenstel van voorzieningen waarmee elektriciteit met behulp van wind wordt geproduceerd, waarbij onder een samenstel van voorzieningen wordt verstaan alle aanwezige middelen die onderling met elkaar zijn verbonden voor de productie van elektriciteit met behulp van wind.
+- • *voorspelde massale vogeltrek:* een korte tijdspanne tijdens migratieperiodes in de nacht waarop de omstandigheden zodanig zijn dat er sprake is van een voorspelde piek in de verplaatsing van het aantal trekvogels, gebaseerd op het voorspellingsmodel;
+
+- • *voorspellingsmodel:* een door of namens de Rijksoverheid te beheren model dat een signaal afgeeft wanneer massale vogeltrek wordt voorspeld.
 
 ### Voorschrift 2 Begrenzing windpark
 
@@ -1954,15 +1960,19 @@ In dit besluit wordt verstaan onder:
 
    - i) In het geval (mede) gebruik wordt gemaakt van een techniek die geen impulsgeluid veroorzaakt bevat het funderingsplan, bedoeld in onderdeel e, een berekening van het aantal bruinvisverstoringsdagen door een ter zake deskundige, waaruit volgt dat het aantal bruinvisverstoringsdagen als gevolg van werkzaamheden bij de aanleg van het windpark ten hoogste 58.193 bedraagt.
 
-- 3. Maatregelen ter beperking van aanvaringsslachtoffers onder vogels op rotorhoogte bij massale vogeltrek.
+- 3. Maatregelen ter beperking van aanvaringsslachtoffers onder vogels op rotorhoogte gedurende migratieperiodes:
 
-   - a) In nachten (tussen zonsondergang en zonsopkomst), gedurende de periode waarin sprake is van massale vogeltrek, aan te geven door de Minister van Economische Zaken en Klimaat, wordt het aantal rotaties per minuut per windturbine tot minder dan twee gebracht.
+   - a) Tijdens migratieperiodes brengt de vergunninghouder het aantal rotaties per minuut per windturbine terug tot minder dan twee tijdens het tijdvak in de nacht waarin sprake is van voorspelde massale vogeltrek.
 
-   - b) De vergunninghouder is verplicht zonder financiële tegenprestatie mee te werken aan de plaatsing en installatie van een systeem dat de daadwerkelijke vogeltrek waarneemt op de daarvoor door de overheid bepaalde plek(ken). Dit betreft onder meer het ter beschikking stellen van bevestigingsconstructies aan de aangewezen turbines. Voor de plaatsing en installatie van de apparatuur zal een overeenkomst worden gesloten met de vergunninghouder van het windpark. De in het windpark geldende veiligheidsregels worden daarbij in acht genomen.
+   - b) Het in onderdeel a van dit lid bedoelde tijdvak waarin sprake is van voorspelde massale vogeltrek wordt bij besluit van de Minister van Klimaat en Groene Groei vastgesteld. De Minister van Klimaat en Groene Groei baseert het besluit op het signaal van het voorspellingsmodel. De Minister van Klimaat en Groene Groei betrekt bij het besluit een advies van de landelijk netbeheerder en kan een advies van vogeldeskundigen betrekken. Het besluit wordt op een zodanig moment bekend gemaakt dat de vergunninghouder redelijkerwijs kan voldoen aan onderdeel a van dit lid.
 
-   - c) De vergunninghouder is verplicht zonder financiële tegenprestatie mee te werken aan toegang ten behoeve van het beheer en onderhoud van deze apparatuur. Voor het beheer en onderhoud van de apparatuur zal een overeenkomst worden gesloten met de vergunninghouder van het windpark.
+   - c) De vergunninghouder is verplicht zonder financiële tegenprestatie mee te werken aan de plaatsing en installatie van apparatuur op, in of aan de door de Minister van Klimaat en Groene Groei aan te wijzen turbines ter uitvoering van de maatregel zoals bedoeld in onderdeel a van dit lid. Dit betreft mede het ter beschikking stellen van bevestigingsconstructies aan de aangewezen turbines. Voor de plaatsing en installatie van de apparatuur zal een overeenkomst worden gesloten met de vergunninghouder, waarbij zoveel mogelijk rekening wordt gehouden met de operationele werkzaamheden in het windpark.
 
-   - d) De vergunninghouder geeft jaarlijks op 1 februari en 1 augustus in een rapportage aan de Minister van Economische Zaken en Klimaat aan hoe en op welke wijze aan dit voorschrift uitvoering is gegeven in de voorgaande zes maanden.
+   - d) De vergunninghouder is verplicht zonder financiële tegenprestatie mee te werken aan toegang ten behoeve van het beheer en onderhoud van de apparatuur zoals bedoeld in onderdeel c van dit lid. Voor het beheer en onderhoud van de apparatuur zal een overeenkomst worden gesloten met de vergunninghouder, waarbij zoveel mogelijk rekening wordt gehouden met de operationele werkzaamheden in het windpark.
+
+   - e) De in onderdeel a van dit lid bedoelde tijdvakken zullen in totaal niet meer dan 60 uur per jaar betreffen, gerekend van najaar tot najaar.
+
+   - f) De Minister van Klimaat en Groene Groei evalueert periodiek de in dit lid bedoelde stilstandsvoorziening.
 
 - 4. Maatregelen voor het voorkomen van aanvaringsslachtoffers van vleermuizen op rotorhoogte.
 

@@ -1,69 +1,21 @@
 ---
 title: "Verdrag houdende het Statuut van de Europese Scholen"
 identifier: "BWBV0001147"
-country: "nl"
-rank: "verdrag"
-publication_date: "2002-10-01"
-last_updated: "2002-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001147"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10001661393"
-version_id: "10001739862"
-internal_id: "C10006986481"
-label_id: "10001661904"
-dtd_version: "2.0"
-original_entry_into_force: "2002-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001147/2002-10-01/0"
-intitule_bron: "Trb.1994-250"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-11-10"
-intitule_published: "1994-11-23"
-intitule_in_force: "2002-10-25"
-intitule_status: "goed"
-original_publication: "Trb.1994-250"
-original_signed_date: "1994-11-10"
-original_published_date: "1994-11-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1994-250"
-entry_into_force_date: "2002-10-01"
-jci_1_3: "jci1.3:c:BWBV0001147&z=2002-10-01&g=2002-10-01"
-jci_1_0: "1.0:c:BWBV0001147&g=2002-10-01"
-citeertitel_status: "redactioneel"
-signed_date: "1994-11-10"
-entry_into_force: "2002-10-01"
+publicatiedatum: 2002-10-01
+laatste_update: 2002-10-01
+status: geldig
+toestand: 2002-10-01
+bron: "https://wetten.overheid.nl/BWBV0001147"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag houdende het Statuut van de Europese Scholen
 
-Preambule
+*Preambule De Hoge Verdragsluitende Partijen, Lid-Staten van de Europese Gemeenschappen, alsmede de Europese Gemeenschappen, hierna genoemd „de Verdragsluitende Partijen", overwegende dat voor het gezamenlijk onderwijs aan kinderen van het personeel van de Europese Gemeenschappen, met het oog op de goede werking van de Europese Instellingen, reeds in 1957 instellingen, „Europese School" genaamd, zijn opgericht; overwegende dat de Europese Gemeenschappen het gezamenlijk onderwijs aan deze kinderen willen waarborgen en dat zij daartoe bijdragen aan de begroting van de Europese scholen; overwegende dat het stelsel van de Europese Scholen een stelsel „sui generis" is; dat met dit stelsel een vorm van samenwerking tussen de Lid-Staten onderling en tussen de Lid-Staten en de Europese Gemeenschappen tot stand komt met volledige eerbiediging van de verantwoordelijkheid van de Lid-Staten voor de inhoud van het onderwijs en voor de organisatie van hun onderwijsstelsel, en van hun verscheidenheid qua taal en cultuur; overwegende dat het noodzakelijk is: - het in 1957 aangenomen Statuut van de Europese School te consolideren, ten einde rekening te houden met alle desbetreffende teksten die door de Verdragsluitende Partijen zijn aangenomen; - het statuut aan te passen aan de ontwikkeling van de Europese Gemeenschappen; - de besluitvormingsprocedure in de organen van de Scholen te wijzigen; - rekening te houden met de ervaring die tijdens het functioneren van de Scholen is opgedaan; - een adequate rechtsbescherming tegen handelingen van de Raad van Bestuur of het Dagelijks Bestuur te waarborgen voor het onderwijzend personeel alsmede voor andere in dit Verdrag bedoelde personen; dat daartoe een Kamer van Beroep moet worden ingesteld die dient te beschikken over nauwkeurig omschreven bevoegdheden; - dat de bevoegdheden van de Kamer van Beroep de bevoegdheden van nationale rechtbanken met betrekking tot civielrechtelijke en strafrechtelijke aansprakelijkheid onverlet laten; overwegende dat krachtens het aanvullend protocol van 15 december 1975, in München een School is geopend voor gemeenschappelijk onderwijs aan de kinderen van het personeel van de Europese Octrooiorganisatie, Hebben overeenstemming bereikt omtrent de volgende bepalingen:*
 
-De Hoge Verdragsluitende Partijen, Lid-Staten van de Europese Gemeenschappen, alsmede de Europese Gemeenschappen, hierna genoemd „de Verdragsluitende Partijen",
-
-overwegende dat voor het gezamenlijk onderwijs aan kinderen van het personeel van de Europese Gemeenschappen, met het oog op de goede werking van de Europese Instellingen, reeds in 1957 instellingen, „Europese School" genaamd, zijn opgericht;
-
-overwegende dat de Europese Gemeenschappen het gezamenlijk onderwijs aan deze kinderen willen waarborgen en dat zij daartoe bijdragen aan de begroting van de Europese scholen;
-
-overwegende dat het stelsel van de Europese Scholen een stelsel „sui generis" is; dat met dit stelsel een vorm van samenwerking tussen de Lid-Staten onderling en tussen de Lid-Staten en de Europese Gemeenschappen tot stand komt met volledige eerbiediging van de verantwoordelijkheid van de Lid-Staten voor de inhoud van het onderwijs en voor de organisatie van hun onderwijsstelsel, en van hun verscheidenheid qua taal en cultuur;
-
-overwegende dat het noodzakelijk is:
-
-het in 1957 aangenomen Statuut van de Europese School te consolideren, ten einde rekening te houden met alle desbetreffende teksten die door de Verdragsluitende Partijen zijn aangenomen;
-
-het statuut aan te passen aan de ontwikkeling van de Europese Gemeenschappen;
-
-de besluitvormingsprocedure in de organen van de Scholen te wijzigen;
-
-rekening te houden met de ervaring die tijdens het functioneren van de Scholen is opgedaan;
-
-een adequate rechtsbescherming tegen handelingen van de Raad van Bestuur of het Dagelijks Bestuur te waarborgen voor het onderwijzend personeel alsmede voor andere in dit Verdrag bedoelde personen; dat daartoe een Kamer van Beroep moet worden ingesteld die dient te beschikken over nauwkeurig omschreven bevoegdheden;
-
-dat de bevoegdheden van de Kamer van Beroep de bevoegdheden van nationale rechtbanken met betrekking tot civielrechtelijke en strafrechtelijke aansprakelijkheid onverlet laten;
-
-overwegende dat krachtens het aanvullend protocol van 15 december 1975, in München een School is geopend voor gemeenschappelijk onderwijs aan de kinderen van het personeel van de Europese Octrooiorganisatie,
-
-Hebben overeenstemming bereikt omtrent de volgende bepalingen:
-
-## TITEL I. DE EUROPESE SCHOLEN
+### TITEL I. DE EUROPESE SCHOLEN
 
 ##### Artikel 1
 
@@ -87,15 +39,15 @@ De Scholen staan vermeld in Bijlage I, die door de Raad van Bestuur overeenkomst
 
 Het onderwijs kan bestaan uit:
 
-- -. kleuteronderwijs;
+- - kleuteronderwijs;
 
-- -. vijf jaar basisonderwijs;
+- - vijf jaar basisonderwijs;
 
-- -. zeven jaar secundair onderwijs. Met de behoeften aan technisch onderwijs zal door de Scholen, voor zover mogelijk, rekening worden gehouden; zij werken daartoe samen met het onderwijsbestel van het gastland.
+- - zeven jaar secundair onderwijs. Met de behoeften aan technisch onderwijs zal door de Scholen, voor zover mogelijk, rekening worden gehouden; zij werken daartoe samen met het onderwijsbestel van het gastland.
 
 2. Het onderwijs wordt gegeven door leerkrachten die door de Lid-Staten zijn gedetacheerd of aangesteld, overeenkomstig door de Raad van Bestuur volgens de procedure van artikel 12, punt 4, genomen besluiten.
 
-- a. Voor elk voorstel tot wijziging van de fundamentele structuur van een School is eenparigheid van stemmen van de vertegenwoordigers van de Lid-Staten in de Raad van Bestuur vereist.
+3. - a. Voor elk voorstel tot wijziging van de fundamentele structuur van een School is eenparigheid van stemmen van de vertegenwoordigers van de Lid-Staten in de Raad van Bestuur vereist.
 
 - b. Voor elk voorstel om de officiële status van de leerkrachten te wijzigen is eenparigheid van stemmen van de Raad van Bestuur vereist.
 
@@ -129,9 +81,9 @@ De houders van het aan de School behaalde Europees baccalaureaatsdiploma:
 
 - b. kunnen tot alle universiteiten op het grondgebied van elk van de Lid-Staten worden toegelaten met dezelfde rechten als de onderdanen van de betrokken Lid-Staat die houder zijn van een gelijkwaardige titel. In dit Verdrag wordt onder „universiteiten" verstaan:
 
-- a. universiteiten,
+   - a. universiteiten,
 
-- b. instellingen die door de Lid-Staat op het grondgebied waarvan zij zijn gelegen, worden geacht een universitair karakter te dragen.
+   - b. instellingen die door de Lid-Staat op het grondgebied waarvan zij zijn gelegen, worden geacht een universitair karakter te dragen.
 
 ##### Artikel 6
 
@@ -139,7 +91,7 @@ Elke School bezit de rechtspersoonlijkheid die vereist is voor de verwezenlijkin
 
 Wat haar rechten en plichten betreft, wordt de School in elk van de Lid-Staten, en onder voorbehoud van de specifieke bepalingen van dit Verdrag, behandeld als een onderwijsinstelling die onder het publiek recht valt.
 
-## TITEL II. ORGANEN VAN DE SCHOLEN
+### TITEL II. ORGANEN VAN DE SCHOLEN
 
 ##### Artikel 7
 
@@ -225,9 +177,9 @@ De Raad van Bestuur, handelend in administratieve aangelegenheden:
 
 - 4.
 
-- a. stelt jaarlijks, op voorstel van de Commissie van Inspecteurs, de behoeften aan leerkrachten vast door het instellen en opheffen van ambten. Hij ziet toe op een billijke verdeling van de ambten tussen de Lid -Staten. In overleg met de Regeringen regelt hij de aanstelling of de detachering van leerkrachten en pedagogische adviseurs van de School. Dezen behouden de door hun nationale rechtspositie gewaarborgde rechten op bevordering en pensionering;
+   - a. stelt jaarlijks, op voorstel van de Commissie van Inspecteurs, de behoeften aan leerkrachten vast door het instellen en opheffen van ambten. Hij ziet toe op een billijke verdeling van de ambten tussen de Lid -Staten. In overleg met de Regeringen regelt hij de aanstelling of de detachering van leerkrachten en pedagogische adviseurs van de School. Dezen behouden de door hun nationale rechtspositie gewaarborgde rechten op bevordering en pensionering;
 
-- b. stelt jaarlijks, op voorstel van de Secretaris-Generaal, de behoeften aan administratief en dienstpersoneel vast;
+   - b. stelt jaarlijks, op voorstel van de Secretaris-Generaal, de behoeften aan administratief en dienstpersoneel vast;
 
 - 5. regelt zijn werkwijze en stelt zijn reglement van orde vast.
 
@@ -327,7 +279,7 @@ De Directeur oefent zijn functies uit overeenkomstig het Algemeen Reglement, bed
 
 Hij dient de bekwaamheid en de titels te hebben die in zijn land vereist zijn voor het leiden van een onderwijsinstelling waarvan het einddiploma toegang geeft tot de universiteit. Hij is verantwoording schuldig aan de Raad van Bestuur.
 
-## TITEL III. VERTEGENWOORDIGING VAN HET PERSONEEL
+### TITEL III. VERTEGENWOORDIGING VAN HET PERSONEEL
 
 ##### Artikel 22
 
@@ -339,7 +291,7 @@ De verkiezing en het functioneren van het Personeelscomité zijn vastgesteld in 
 
 Het Personeelscomité wijst jaarlijks uit de leerkrachten een lid en een plaatsvervangend lid aan in de Raad van Bestuur.
 
-## TITEL IV. DE VERENIGING VAN OUDERS VAN LEERLINGEN
+### TITEL IV. DE VERENIGING VAN OUDERS VAN LEERLINGEN
 
 ##### Artikel 23
 
@@ -349,7 +301,7 @@ De aldus erkende Vereniging wijst jaarlijks twee vertegenwoordigers aan voor het
 
 De gezamenlijke Verenigingen van de Scholen wijzen jaarlijks uit hun midden één lid en één plaatsvervangend lid aan die de Verenigingen vertegenwoordigen in de Raad van Bestuur.
 
-## TITEL V. BEGROTING
+### TITEL V. BEGROTING
 
 ##### Artikel 24
 
@@ -371,7 +323,7 @@ De begrotingsmiddelen van de Scholen bestaan uit:
 
 De wijze waarop de bijdrage van de Europese Gemeenschappen ter beschikking wordt gesteld, wordt vastgelegd in een speciale overeenkomst tussen de Raad van Bestuur en de Commissie.
 
-## TITEL VI. GESCHILLEN
+### TITEL VI. GESCHILLEN
 
 ##### Artikel 26
 
@@ -401,7 +353,7 @@ Dit reglement moet door de Raad van Bestuur met eenparigheid van stemmen worden 
 
 7. De overige geschillen waarin de Scholen partij zijn, behoren tot de bevoegdheid van de nationale gerechten. In het bijzonder laat dit artikel de bevoegdheden van de nationale rechtbanken met betrekking tot aangelegenheden inzake civielrechtelijke of strafrechtelijke aansprakelijkheid onverlet.
 
-## TITEL VII. BIJZONDERE BEPALINGEN
+### TITEL VII. BIJZONDERE BEPALINGEN
 
 ##### Artikel 28
 

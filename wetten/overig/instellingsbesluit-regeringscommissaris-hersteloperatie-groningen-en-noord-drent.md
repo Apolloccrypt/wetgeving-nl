@@ -1,28 +1,28 @@
 ---
-title: "Instellingsbesluit regeringscommissaris hersteloperatie Groningen en Noord-Drenthe"
+title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 7 mei 2026, nr. 2026-0000013092 tot instelling van de regeringscommissaris hersteloperatie Groningen en Noord-Drenthe (Instellingsbesluit regeringscommissaris hersteloperatie Groningen en Noord-Drenthe)"
+citeertitel: "Instellingsbesluit regeringscommissaris hersteloperatie Groningen en Noord-Drenthe"
 identifier: "BWBR0052651"
-categorie: "Overig"
+categorie: "Staatsinrichting en bestuur"
+soort: "ministeriele-regeling"
 publicatiedatum: 2026-05-29
-laatste_update: 2026-06-02
+laatste_update: 2026-05-29
 status: geldig
+toestand: 2026-05-29
 bron: "https://wetten.overheid.nl/BWBR0052651"
+opgehaald: 2026-09-11
 ---
 
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 7 mei 2026, nr. 2026-0000013092 tot instelling van de regeringscommissaris hersteloperatie Groningen en Noord-Drenthe (Instellingsbesluit regeringscommissaris hersteloperatie Groningen en Noord-Drenthe)
-
-Handelende in overeenstemming met het gevoelen van de ministerraad;
-
-Besluit:
 
 ##### Artikel 1. (Begripsbepalingen)
 
 In dit besluit wordt verstaan onder:
 
-- **minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties;
+- *minister:* Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- **Nij begun:** de kabinetsreactie van 25 april 2023 op het rapport ‘Groningers boven Gas’ van de parlementaire enquêtecommissie aardgaswinning Groningen (Kamerstukken II 2022/23, 35 561, nr. 17);
+- *Nij begun:* de kabinetsreactie van 25 april 2023 op het rapport ‘Groningers boven Gas’ van de parlementaire enquêtecommissie aardgaswinning Groningen (Kamerstukken II 2022/23, 35 561, nr. 17);
 
-- **regeringscommissaris:** regeringscommissaris Hersteloperatie Groningen en Noord-Drenthe, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052651&artikel=2&z=2026-05-29&g=2026-05-29).
+- *regeringscommissaris:* regeringscommissaris Hersteloperatie Groningen en Noord-Drenthe, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052651&artikel=2&z=2026-05-29&g=2026-05-29).
 
 ##### Artikel 2. (Instelling)
 
@@ -65,5 +65,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 7. (Citeertitel)
 
 Dit besluit wordt aangehaald als: Instellingsbesluit regeringscommissaris hersteloperatie Groningen en Noord-Drenthe.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

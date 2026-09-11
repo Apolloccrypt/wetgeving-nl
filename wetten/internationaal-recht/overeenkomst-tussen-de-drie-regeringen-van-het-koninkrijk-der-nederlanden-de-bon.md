@@ -1,59 +1,19 @@
 ---
 title: "Overeenkomst tussen de drie Regeringen van het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Regering van de Verenigde Staten van Amerika betreffende de vestiging, bouw en exploitatie van een installatie voor de verrijking van uranium in de Verenigde Staten"
 identifier: "BWBV0001092"
-country: "nl"
-rank: "verdrag"
-publication_date: "1995-02-01"
-last_updated: "1995-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001092"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002317453"
-version_id: "10002327032"
-internal_id: "C10006976331"
-label_id: "10002307384"
-dtd_version: "2.0"
-original_entry_into_force: "1995-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001092/1995-02-01/0"
-intitule_bron: "Trb.1992-174"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-07-08"
-intitule_published: "1992-11-20"
-intitule_in_force: "1995-02-15"
-intitule_status: "goed"
-original_publication: "Trb.1992-174"
-original_signed_date: "1993-07-08"
-original_published_date: "1992-11-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1992-174"
-entry_into_force_date: "1995-02-01"
-jci_1_3: "jci1.3:c:BWBV0001092&z=1995-02-01&g=1995-02-01"
-jci_1_0: "1.0:c:BWBV0001092&g=1995-02-01"
-citeertitel_status: "redactioneel"
-signed_date: "1993-07-08"
-entry_into_force: "1995-02-01"
+publicatiedatum: 1995-02-01
+laatste_update: 1995-02-01
+status: geldig
+toestand: 1995-02-01
+bron: "https://wetten.overheid.nl/BWBV0001092"
+opgehaald: 2026-09-11
 ---
+
 # Overeenkomst tussen de drie Regeringen van het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Regering van de Verenigde Staten van Amerika betreffende de vestiging, bouw en exploitatie van een installatie voor de verrijking van uranium in de Verenigde Staten
 
-De Regering van het Koninkrijk der Nederlanden, de Regering van de Bondsrepubliek Duitsland en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (hierna te noemen „de Drie Regeringen”), en de Regering van de Verenigde Staten van Amerika (hierna te noemen „de Regering van de Verenigde Staten”);
-
-Gelet op de [Overeenkomst tussen het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de samenwerking bij de ontwikkeling en exploitatie van het gas-ultracentrifuge-procédé voor de produktie van verrijkt uranium](https://wetten.overheid.nl/jci1.3:c:BWBV0004423), ondertekend te Almelo op 4 maart 1970 (het Verdrag van Almelo);
-
-Geleid door de wens een intergouvernementeel kader vast te stellen voor een Gezamenlijke Onderneming in de Verenigde Staten die gebruik maakt van het in de drie Europese landen ontwikkelde procédé voor de produktie van verrijkt uranium uitsluitend voor vreedzaam niet-explosief gebruik;
-
-Gelet op de [Overeenkomst tussen de Drie Regeringen van het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Regering van de Verenigde Staten van Amerika inzake de beveiliging van gegevens die aan de Verenigde Staten van Amerika worden overgedragen in verband met de initiële fase van een project voor de vestiging in de Verenigde Staten van een Installatie voor de verrijking van uranium gebaseerd op het gas-ultracentrifuge-procédé dat in de drie Europese landen is ontwikkeld](https://wetten.overheid.nl/jci1.3:c:BWBV0002722), ondertekend te Washington op 11 april 1990, zoals verlengd in april 1991;
-
-Overwegende dat de Drie Regeringen, als Partijen bij het [Verdrag van Almelo](https://wetten.overheid.nl/jci1.3:c:BWBV0004423), internationale verplichtingen zijn aangegaan met betrekking tot het gebruik en de behandeling van gegevens, uitrusting en grondstoffen of bijzondere splijtstoffen verband houdend met de ultracentrifuge-technologie;
-
-Overwegende dat de Drie Regeringen en de Regering van de Verenigde Staten beleidslijnen hebben vastgesteld voor de beveiliging van gegevens aangaande ultracentrifuge-technologie;
-
-Overwegende dat de Drie Regeringen en de Regering van de Verenigde Staten partij zijn bij het [Verdrag inzake de niet-verspreiding van kernwapens](https://wetten.overheid.nl/jci1.3:c:BWBV0004367) van 1 juli 1968, en bij het [Statuut van de Internationale Organisatie voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004777) (IAEA), en overwegende het feit dat alle vier Regeringen waarborgenovereenkomsten met de IAEA zijn aangegaan;
-
-Overwegende dat de Drie Regeringen partij zijn bij het [Verdrag tot Oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033), ondertekend te Rome op 25 maart 1957;
-
-Zich ten doel stellend te verzekeren dat alle toekomstige activiteiten van de Gezamenlijke Onderneming verenigbaar zijn met hun beleidslijnen ten aanzien van de niet-verspreiding van kernwapens en met hun internationale verplichtingen op dit gebied;
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden, de Regering van de Bondsrepubliek Duitsland en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (hierna te noemen „de Drie Regeringen”), en de Regering van de Verenigde Staten van Amerika (hierna te noemen „de Regering van de Verenigde Staten”); Gelet op de Overeenkomst tussen het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de samenwerking bij de ontwikkeling en exploitatie van het gas-ultracentrifuge-procédé voor de produktie van verrijkt uranium, ondertekend te Almelo op 4 maart 1970 (het Verdrag van Almelo); Geleid door de wens een intergouvernementeel kader vast te stellen voor een Gezamenlijke Onderneming in de Verenigde Staten die gebruik maakt van het in de drie Europese landen ontwikkelde procédé voor de produktie van verrijkt uranium uitsluitend voor vreedzaam niet-explosief gebruik; Gelet op de Overeenkomst tussen de Drie Regeringen van het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Regering van de Verenigde Staten van Amerika inzake de beveiliging van gegevens die aan de Verenigde Staten van Amerika worden overgedragen in verband met de initiële fase van een project voor de vestiging in de Verenigde Staten van een Installatie voor de verrijking van uranium gebaseerd op het gas-ultracentrifuge-procédé dat in de drie Europese landen is ontwikkeld, ondertekend te Washington op 11 april 1990, zoals verlengd in april 1991; Overwegende dat de Drie Regeringen, als Partijen bij het Verdrag van Almelo, internationale verplichtingen zijn aangegaan met betrekking tot het gebruik en de behandeling van gegevens, uitrusting en grondstoffen of bijzondere splijtstoffen verband houdend met de ultracentrifuge-technologie; Overwegende dat de Drie Regeringen en de Regering van de Verenigde Staten beleidslijnen hebben vastgesteld voor de beveiliging van gegevens aangaande ultracentrifuge-technologie; Overwegende dat de Drie Regeringen en de Regering van de Verenigde Staten partij zijn bij het Verdrag inzake de niet-verspreiding van kernwapens van 1 juli 1968, en bij het Statuut van de Internationale Organisatie voor Atoomenergie (IAEA), en overwegende het feit dat alle vier Regeringen waarborgenovereenkomsten met de IAEA zijn aangegaan; Overwegende dat de Drie Regeringen partij zijn bij het Verdrag tot Oprichting van de Europese Gemeenschap voor Atoomenergie, ondertekend te Rome op 25 maart 1957; Zich ten doel stellend te verzekeren dat alle toekomstige activiteiten van de Gezamenlijke Onderneming verenigbaar zijn met hun beleidslijnen ten aanzien van de niet-verspreiding van kernwapens en met hun internationale verplichtingen op dit gebied; Zijn het volgende overeengekomen:*
 
 ##### Artikel I. Begripsomschrijvingen
 
@@ -69,17 +29,17 @@ Voor de toepassing van deze Overeenkomst wordt, tenzij daarin anders vermeld, ve
 
 - e. „splijtstoffen”:
 
-- i. „grondstoffen”, dat wil zeggen uranium dat het mengsel van isotopen bevat dat in de natuur voorkomt, en verarmd uranium (dat een lager dan natuurlijk gehalte aan de isotoop U-235 bevat), en
+   - i. „grondstoffen”, dat wil zeggen uranium dat het mengsel van isotopen bevat dat in de natuur voorkomt, en verarmd uranium (dat een lager dan natuurlijk gehalte aan de isotoop U-235 bevat), en
 
-- ii. „bijzondere splijtstoffen”, dat wil zeggen plutonium, uranium-233, en uranium dat verrijkt is in de isotopen U-233 of U-235;
+   - ii. „bijzondere splijtstoffen”, dat wil zeggen plutonium, uranium-233, en uranium dat verrijkt is in de isotopen U-233 of U-235;
 
 - f. „gerubriceerde gegevens”: gegevens die overeenkomstig de nationale wetten en voorschriften betreffende gerubriceerde gegevens beschermd dienen te worden tegen openbaarmaking zonder machtiging. Gerubriceerde gegevens omvatten mede documenten, informatiemateriaal of ander materiaal waarin gerubriceerde gegevens zijn opgenomen, en de gegevens die verwerkt zijn in de ultracentrifuge-uitrusting en onderdelen daarvan, ongeacht op welke wijze zij worden doorgegeven;
 
 - g. „Tripartiete Instantie”: de instantie die bij toerbeurt optreedt namens de nationale instanties van de Drie Regeringen die verantwoordelijk zijn voor beveiliging en rubricering krachtens het [Verdrag van Almelo](https://wetten.overheid.nl/jci1.3:c:BWBV0004423);
 
-- h. „Instantie van de Verenigde Staten”: de **US Nuclear Regulatory Commission;**
+- h. „Instantie van de Verenigde Staten”: de *US Nuclear Regulatory Commission;*
 
-- i. „Vertrouwelijke Gegevens”: **restricted data**zoals omschreven in de **Atomic Energy Act**(Wet inzake atoomenergie) van de Verenigde Staten van 1954, zoals gewijzigd.
+- i. „Vertrouwelijke Gegevens”: *restricted data*zoals omschreven in de *Atomic Energy Act*(Wet inzake atoomenergie) van de Verenigde Staten van 1954, zoals gewijzigd.
 
 ##### Artikel II. Werkingssfeer
 
@@ -93,7 +53,7 @@ Voor de toepassing van deze Overeenkomst wordt, tenzij daarin anders vermeld, ve
 
 - d. de Drie Regeringen en Urenco toegestaan wordt toegang te hebben, waar passend, en behoudens de van toepassing zijnde internationale overeenkomsten en de wetten, voorschriften en gebruiken van de Verenigde Staten, tot op de Installatie toepasselijke gegevens, bestempeld als gegevens inzake de Nationale Veiligheid van de Verenigde Staten, die betrekking hebben op het waarborg- en beveiligingsstelsel ten aanzien van de Installatie.
 
-2. Krachtens deze Overeenkomst worden vanuit de Verenigde Staten geen gegevens doorgegeven die Vertrouwelijke Gegevens zijn ingevolge artikel 144a, van de **Atomic Energy Act**van de Verenigde Staten van 1954, zoals gewijzigd. In dit verband geldt de in het eerste lid, letter c, van dit artikel voorziene toegang niet als het doorgeven uit de Verenigde Staten van gegevens die Vertrouwelijke Gegevens zijn ingevolge artikel 144a, van de **Act.**
+2. Krachtens deze Overeenkomst worden vanuit de Verenigde Staten geen gegevens doorgegeven die Vertrouwelijke Gegevens zijn ingevolge artikel 144a, van de *Atomic Energy Act*van de Verenigde Staten van 1954, zoals gewijzigd. In dit verband geldt de in het eerste lid, letter c, van dit artikel voorziene toegang niet als het doorgeven uit de Verenigde Staten van gegevens die Vertrouwelijke Gegevens zijn ingevolge artikel 144a, van de *Act.*
 
 ##### Artikel III. Vreedzaam gebruik
 
@@ -166,27 +126,3 @@ De Drie Regeringen en de Regering van de Verenigde Staten plegen, wanneer noodza
 1. De Overeenkomst treedt in werking op de eerste dag van de tweede maand die volgt op een diplomatieke notawisseling tussen de Partijen bij deze Overeenkomst, waarin wordt bevestigd dat aan alle wettelijke vereisten voor de inwerkingtreding is voldaan, en blijft van kracht voor een tijdvak van dertig jaar. Deze termijn wordt stilzwijgend verlengd voor een tijdvak van vijftien jaar, tenzij de Drie Regeringen dan wel de Regering van de Verenigde Staten de andere een jaar voor de datum waarop de Overeenkomst anders stilzwijgend zou worden verlengd, in kennis stelt van haar wens de ingevolge deze Overeenkomst ondernomen activiteiten te beëindigen.
 
 2. Niettegenstaande de beëindiging of het verstrijken van de looptijd van deze Overeenkomst blijven de artikelen III t/m VI en VIII t/m XI van kracht zolang technologie, stoffen, uitrusting of onderdelen daarvan waarop deze artikelen betrekking hebben, zich in de Verenigde Staten of elders onder de rechtsmacht of het beheer van de Verenigde Staten bevinden, of totdat de Regering van de Verenigde Staten en de Drie Regeringen overeenkomen dat die stoffen, uitrusting of onderdelen niet langer bruikbaar zijn voor activiteiten op nucleair gebied die onder de internationale waarborgen vallen.
-
-Met betrekking tot de toepassing van de Overeenkomst tussen de Drie Regeringen van het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland enerzijds en de Regering van de Verenigde Staten van Amerika anderzijds inzake de vestiging, bouw en exploitatie van een Installatie voor de verrijking van uranium in de Verenigde Staten (hierna te noemen de Overeenkomst) die heden werd ondertekend, bevestigen de ondertekenaars van de Overeenkomst bij dezen de volgende afspraken:
-
-GEDAAN TE Washington op 24 juli 1992 in vier oorspronkelijke exemplaren, in de Nederlandse, de Duitse en de Engelse taal, zijnde alle drie de teksten gelijkelijk authentiek.
-
-**Voor de Regering van het**
-
-**Koninkrijk der Nederlanden:**
-
-(w.g.) J. H. MEESMAN
-
-**Voor de Regering van de Verenigde**
-
-**Staten van Amerika:**
-
-(w.g.) ROBERT T. KENNEDY
-
-**Voor de Regering van de Bondsrepubliek Duitsland:**
-
-(w.g.) J. RUHFUS
-
-**Voor de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland:**
-
-(w.g.) ROBIN RENWICK

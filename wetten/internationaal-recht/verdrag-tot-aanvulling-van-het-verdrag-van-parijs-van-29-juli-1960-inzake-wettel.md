@@ -1,47 +1,19 @@
 ---
 title: "Verdrag tot aanvulling van het Verdrag van Parijs van 29 juli 1960 inzake wettelijke aansprakelijkheid op het gebied van de kernenergie"
 identifier: "BWBV0001019"
-country: "nl"
-rank: "verdrag"
-publication_date: "2022-01-01"
-last_updated: "2022-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001019"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002440453"
-version_id: "10002441262"
-internal_id: "C10006976541"
-label_id: "10002430104"
-dtd_version: "2.0"
-original_entry_into_force: "1979-12-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001019/2022-01-01/0"
-intitule_bron: "Trb.1983-182"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1979-09-28"
-intitule_published: "1983-12-19"
-intitule_in_force: "1979-12-28"
-intitule_status: "goed"
-original_publication: "Trb.1983-182"
-original_signed_date: "1979-09-28"
-original_published_date: "1983-12-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1983-182"
-entry_into_force_date: "1979-12-28"
-jci_1_3: "jci1.3:c:BWBV0001019&z=2022-01-01&g=2022-01-01"
-jci_1_0: "1.0:c:BWBV0001019&g=2022-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "1979-09-28"
-entry_into_force: "1979-12-28"
+publicatiedatum: 1979-12-28
+laatste_update: 2022-01-01
+status: geldig
+toestand: 2022-01-01
+bron: "https://wetten.overheid.nl/BWBV0001019"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tot aanvulling van het Verdrag van Parijs van 29 juli 1960 inzake wettelijke aansprakelijkheid op het gebied van de kernenergie
 
-De Regeringen van de Bondsrepubliek Duitsland, de Republiek Oostenrijk, het Koninkrijk België, het Koninkrijk Denemarken, Spanje, de Franse Republiek, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk Noorwegen, het Koninkrijk der Nederlanden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, het Koninkrijk Zweden en de Zwitserse Bondsstaat,
-
-Partijen bij het Verdrag van 29 juli 1960 inzake wettelijke aansprakelijkheid op het gebied van de kernenergie, gesloten in het kader van de Organisatie voor Europese Economische Samenwerking en Ontwikkeling, thans de Organisatie voor Economische Samenwerking en Ontwikkeling en zoals gewijzigd bij het op 28 januari 1964 te Parijs gesloten Aanvullend Protocol, bij het op 16 november 1982 te Parijs gesloten Protocol en bij het op 12 februari 2004 te Parijs gesloten Protocol (hierna te noemen „Verdrag van Parijs”);
-
-Geleid door de wens de maatregelen waarin dat Verdrag voorziet aan te vullen, ten einde het bedrag der vergoeding voor schade, veroorzaakt door het gebruik van kernenergie voor vreedzame doeleinden, te verhogen,
-
-Zijn overeengekomen als volgt:
+*De Regeringen van de Bondsrepubliek Duitsland, de Republiek Oostenrijk, het Koninkrijk België, het Koninkrijk Denemarken, Spanje, de Franse Republiek, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk Noorwegen, het Koninkrijk der Nederlanden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, het Koninkrijk Zweden en de Zwitserse Bondsstaat, Partijen bij het Verdrag van 29 juli 1960 inzake wettelijke aansprakelijkheid op het gebied van de kernenergie, gesloten in het kader van de Organisatie voor Europese Economische Samenwerking en Ontwikkeling, thans de Organisatie voor Economische Samenwerking en Ontwikkeling en zoals gewijzigd bij het op 28 januari 1964 te Parijs gesloten Aanvullend Protocol, bij het op 16 november 1982 te Parijs gesloten Protocol en bij het op 12 februari 2004 te Parijs gesloten Protocol (hierna te noemen „Verdrag van Parijs”); Geleid door de wens de maatregelen waarin dat Verdrag voorziet aan te vullen, ten einde het bedrag der vergoeding voor schade, veroorzaakt door het gebruik van kernenergie voor vreedzame doeleinden, te verhogen, Zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 
@@ -51,15 +23,15 @@ De regeling waarin dit Verdrag voorziet ter aanvulling van die van het Verdrag v
 
 a). De regeling in dit Verdrag is van toepassing op kernschade waarvoor krachtens het Verdrag van Parijs de aansprakelijkheid berust bij de exploitant van een kerninstallatie voor vreedzaam gebruik, gelegen op het grondgebied van een Partij bij het onderhavige Verdrag (hierna genoemd „Partij") en die geleden is:
 
-- (i). op het grondgebied van een Partij; of
+- (i) op het grondgebied van een Partij; of
 
-- (ii). in of boven maritieme gebieden buiten de territoriale zee van een Partij
+- (ii) in of boven maritieme gebieden buiten de territoriale zee van een Partij
 
-- 1. aan boord van of door een schip varend onder de vlag van een Partij, of aan boord van of door een luchtvaartuig dat op het grondgebied van een Partij is ingeschreven, of op of door een kunstmatig eiland, installatie of structuur onder de rechtsmacht van een Partij, of
+   - 1. aan boord van of door een schip varend onder de vlag van een Partij, of aan boord van of door een luchtvaartuig dat op het grondgebied van een Partij is ingeschreven, of op of door een kunstmatig eiland, installatie of structuur onder de rechtsmacht van een Partij, of
 
-- 2. door een onderdaan van een Partij, met uitzondering van schade geleden in of boven de territoriale zee van een Staat die geen Partij is bij dit Verdrag; of
+   - 2. door een onderdaan van een Partij, met uitzondering van schade geleden in of boven de territoriale zee van een Staat die geen Partij is bij dit Verdrag; of
 
-- (iii). in of boven de exclusieve economische zone van een Partij of op het continentaal plat van een Partij in verband met de exploitatie of exploratie van de natuurlijke rijkdommen van die exclusieve economische zone of dat continentaal plat, mits de rechters van een Partij krachtens het Verdrag van Parijs bevoegd zijn.
+- (iii) in of boven de exclusieve economische zone van een Partij of op het continentaal plat van een Partij in verband met de exploitatie of exploratie van de natuurlijke rijkdommen van die exclusieve economische zone of dat continentaal plat, mits de rechters van een Partij krachtens het Verdrag van Parijs bevoegd zijn.
 
 b). Iedere ondertekenende of toetredende Regering kan bij de ondertekening van dit Verdrag of bij de toetreding daartoe dan wel bij de nederlegging van haar akte van bekrachtiging, aanvaarding of goedkeuring verklaren, dat zij voor de toepassing van lid (a)(ii) 2 natuurlijke personen die volgens haar recht hun gewone verblijfplaats op haar grondgebied hebben, of bepaalde categorieën daarvan, gelijkstelt met haar eigen onderdanen.
 
@@ -71,17 +43,17 @@ a). Overeenkomstig de bepalingen van dit Verdrag verplichten de Partijen zich er
 
 b). Deze schadevergoeding vindt plaats:
 
-- (i). tot een bedrag van ten minste 700 miljoen euro vast te stellen krachtens de wetgeving van de Partij op wier grondgebied de kerninstallatie van de aansprakelijke exploitant is gelegen, uit middelen afkomstig van een verzekering of andere financiële zekerheid of uit de ingevolge artikel 10(c) van het Verdrag van Parijs verstrekte openbare middelen, en uit te keren tot een bedrag van 700 miljoen euro in overeenstemming met het Verdrag van Parijs;
+- (i) tot een bedrag van ten minste 700 miljoen euro vast te stellen krachtens de wetgeving van de Partij op wier grondgebied de kerninstallatie van de aansprakelijke exploitant is gelegen, uit middelen afkomstig van een verzekering of andere financiële zekerheid of uit de ingevolge artikel 10(c) van het Verdrag van Parijs verstrekte openbare middelen, en uit te keren tot een bedrag van 700 miljoen euro in overeenstemming met het Verdrag van Parijs;
 
-- (ii). tussen het in lid (b)(i) bedoelde bedrag en 1 200 miljoen euro, uit openbare middelen, ter beschikking te stellen door de Partij op wier grondgebied de kerninstallatie van de aansprakelijke exploitant is gelegen;
+- (ii) tussen het in lid (b)(i) bedoelde bedrag en 1 200 miljoen euro, uit openbare middelen, ter beschikking te stellen door de Partij op wier grondgebied de kerninstallatie van de aansprakelijke exploitant is gelegen;
 
-- (iii). tussen 1200 miljoen euro en 1500 miljoen euro uit openbare middelen, ter beschikking te stellen door de Partijen volgens de in artikel 12 bedoelde verdeelsleutel, onder voorbehoud dat een dergelijk bedrag wordt verhoogd in overeenstemming met het in artikel 12bis bedoelde mechanisme.
+- (iii) tussen 1200 miljoen euro en 1500 miljoen euro uit openbare middelen, ter beschikking te stellen door de Partijen volgens de in artikel 12 bedoelde verdeelsleutel, onder voorbehoud dat een dergelijk bedrag wordt verhoogd in overeenstemming met het in artikel 12bis bedoelde mechanisme.
 
 c). Te dien einde moet elke Partij:
 
-- (i). hetzij ingevolge haar wetgeving vaststellen dat de aansprakelijkheid van de exploitant ten minste het in lid (a) bedoelde bedrag bedraagt, en bepalen dat deze aansprakelijkheid wordt gedekt door alle in lid (b) bedoelde middelen;
+- (i) hetzij ingevolge haar wetgeving vaststellen dat de aansprakelijkheid van de exploitant ten minste het in lid (a) bedoelde bedrag bedraagt, en bepalen dat deze aansprakelijkheid wordt gedekt door alle in lid (b) bedoelde middelen;
 
-- (ii). hetzij ingevolge haar wetgeving de aansprakelijkheid van de exploitant vaststellen op een bedrag dat ten minste gelijk is aan het overeenkomstig lid (b)(i) hierboven of artikel 7(b) van het Verdrag van Parijs vastgestelde bedrag, en bepalen dat boven dat bedrag tot het in lid (a) bedoelde bedrag, de in lid (b)(i), (ii) en (iii) bedoelde openbare middelen ter beschikking worden gesteld anders dan ter dekking van de aansprakelijkheid van de exploitant, mits geen inbreuk wordt gemaakt op de in dit Verdrag vastgestelde materieelrechtelijke en procesrechtelijke regels.
+- (ii) hetzij ingevolge haar wetgeving de aansprakelijkheid van de exploitant vaststellen op een bedrag dat ten minste gelijk is aan het overeenkomstig lid (b)(i) hierboven of artikel 7(b) van het Verdrag van Parijs vastgestelde bedrag, en bepalen dat boven dat bedrag tot het in lid (a) bedoelde bedrag, de in lid (b)(i), (ii) en (iii) bedoelde openbare middelen ter beschikking worden gesteld anders dan ter dekking van de aansprakelijkheid van de exploitant, mits geen inbreuk wordt gemaakt op de in dit Verdrag vastgestelde materieelrechtelijke en procesrechtelijke regels.
 
 d). De verplichting van de exploitant tot betaling van schadevergoeding, interest of kosten uit de overeenkomstig de leden (b (ii) en (iii) en (g) ter beschikking gestelde openbare middelen is jegens hem slechts afdwingbaar indien en voor zover deze middelen daadwerkelijk ter beschikking worden gesteld.
 
@@ -91,17 +63,17 @@ f). Bij de uitvoering van dit Verdrag verplichten de Partijen zich ertoe, ten aa
 
 g). De in artikel 7(h) van het Verdrag van Parijs bedoelde kosten en interesten zijn verschuldigd boven de in lid (b) genoemde bedragen en zijn, naar gelang zij zijn toegewezen uit hoofde van schadevergoeding ten laste van de middelen bedoeld in:
 
-- (i). lid (b)(i), voor rekening van de aansprakelijke exploitant;
+- (i) lid (b)(i), voor rekening van de aansprakelijke exploitant;
 
-- (ii). lid (b)(ii), voor rekening van de Partij op wier grondgebied de kerninstallatie van de aansprakelijke exploitant is gelegen, naargelang van de door die Partij beschikbaar gestelde middelen;
+- (ii) lid (b)(ii), voor rekening van de Partij op wier grondgebied de kerninstallatie van de aansprakelijke exploitant is gelegen, naargelang van de door die Partij beschikbaar gestelde middelen;
 
-- (iii). lid (b)(iii), voor rekening van de Partijen gezamenlijk.
+- (iii) lid (b)(iii), voor rekening van de Partijen gezamenlijk.
 
 h). De in dit Verdrag genoemde bedragen worden omgerekend in de nationale munteenheid van de Partij waarvan de rechters bevoegd zijn, volgens de waarde van die munteenheid op de datum van het ongeval, tenzij met betrekking tot een bepaald ongeval een andere datum door de Partijen wordt overeengekomen.
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
@@ -149,15 +121,29 @@ c). Wanneer de Partij wier rechters bevoegd zijn, na het tijdstip van het kernon
 
 a). De verdeelsleutel volgens welke de Partijen de in artikel 3(b)(iii) bedoelde openbare middelen ter beschikking stellen, wordt als volgt vastgesteld:
 
-- (i). voor 35% op de grondslag van de verhouding tussen het bruto nationaal product tegen lopende prijzen van elke Partij, enerzijds, en het gezamenlijk bedrag van het bruto nationaal product tegen lopende prijzen van alle Partijen, anderzijds, zoals deze cijfers voor het jaar voorafgaande aan dat waarin het kernongeval zich heeft voorgedaan, worden afgeleid uit de officiële statistieken, gepubliceerd door de Organisatie voor Economische Samenwerking en Ontwikkeling;
+- (i) voor 35% op de grondslag van de verhouding tussen het bruto nationaal product tegen lopende prijzen van elke Partij, enerzijds, en het gezamenlijk bedrag van het bruto nationaal product tegen lopende prijzen van alle Partijen, anderzijds, zoals deze cijfers voor het jaar voorafgaande aan dat waarin het kernongeval zich heeft voorgedaan, worden afgeleid uit de officiële statistieken, gepubliceerd door de Organisatie voor Economische Samenwerking en Ontwikkeling;
 
-- (ii). voor 65% op de grondslag van de verhouding tussen het thermisch vermogen van de reactoren die zich op het grondgebied van elke Partij bevinden, enerzijds, en het gezamenlijk thermisch vermogen van de reactoren die zich op het grondgebied van alle Partijen bevinden, anderzijds. Deze berekening wordt gebaseerd op het thermisch vermogen van de reactoren die op de datum van het kernongeval voorkomen op de in artikel 13 bedoelde lijst, met dien verstande dat een reactor voor deze berekening slechts in aanmerking wordt genomen vanaf de dag waarop hij voor het eerst kritisch is geworden en dat een reactor bij de berekening buiten beschouwing wordt gelaten wanneer alle splijtstoffen permanent uit de reactorkern zijn verwijderd en in overeenstemming met goedgekeurde procedures veilig zijn opgeslagen.
+- (ii) voor 65% op de grondslag van de verhouding tussen het thermisch vermogen van de reactoren die zich op het grondgebied van elke Partij bevinden, enerzijds, en het gezamenlijk thermisch vermogen van de reactoren die zich op het grondgebied van alle Partijen bevinden, anderzijds. Deze berekening wordt gebaseerd op het thermisch vermogen van de reactoren die op de datum van het kernongeval voorkomen op de in artikel 13 bedoelde lijst, met dien verstande dat een reactor voor deze berekening slechts in aanmerking wordt genomen vanaf de dag waarop hij voor het eerst kritisch is geworden en dat een reactor bij de berekening buiten beschouwing wordt gelaten wanneer alle splijtstoffen permanent uit de reactorkern zijn verwijderd en in overeenstemming met goedgekeurde procedures veilig zijn opgeslagen.
 
 b). Voor de toepassing van dit Verdrag wordt onder „thermisch vermogen” verstaan:
 
-- (i). vóór de afgifte van de definitieve vergunning tot exploitatie: het verwachte thermisch vermogen;
+- (i) vóór de afgifte van de definitieve vergunning tot exploitatie: het verwachte thermisch vermogen;
 
-- (ii). na de afgifte van een zodanige vergunning: het door de bevoegde nationale autoriteiten toegestane thermisch vermogen.
+- (ii) na de afgifte van een zodanige vergunning: het door de bevoegde nationale autoriteiten toegestane thermisch vermogen.
+
+##### Artikel 12bis
+
+a). In geval van toetreding tot dit Verdrag worden de in artikel 3(b)(iii) bedoelde openbare middelen verhoogd met:
+
+- (i) 35% van een bedrag vastgesteld door op bovengenoemd bedrag de verhouding toe te passen tussen het bruto nationaal product tegen lopende prijzen van de toetredende Partij, enerzijds, en het gezamenlijk bedrag van het bruto nationaal product tegen lopende prijzen van alle Partijen, met uitzondering van dat van de toetredende Partij, anderzijds, en
+
+- (ii) 65% van een bedrag vastgesteld door op bovengenoemd bedrag de verhouding toe te passen tussen het thermisch vermogen van de reactoren die zich op het grondgebied van de toetredende Partij bevinden, enerzijds, en het gezamenlijk thermisch vermogen van de reactoren die zich op het grondgebied van alle Partijen bevinden, met uitzondering van dat van de toetredende Partij, anderzijds.
+
+b). Het in lid (a) bedoelde verhoogde bedrag wordt afgerond op het dichtstbij gelegen bedrag uitgedrukt in duizendtallen euro.
+
+c). Het bruto nationaal product van de toetredende Partij wordt vastgesteld overeenkomstig de officiële statistieken, gepubliceerd door de Organisatie voor Economische Samenwerking en Ontwikkeling, voor het jaar voorafgaande aan het jaar waarin de toetreding van kracht wordt.
+
+d). Het thermisch vermogen van de toetredende Partij wordt vastgesteld overeenkomstig de lijst van kerninstallaties die door die Regering ingevolge artikel 13(b) aan de Belgische Regering is medegedeeld, met dien verstande dat voor de berekening van de bijdragen uit hoofde van lid (a)(ii), een reactor slechts in aanmerking wordt genomen vanaf de dag waarop hij voor het eerst kritisch is geworden en dat een reactor bij de berekening buiten beschouwing wordt gelaten wanneer alle splijtstoffen permanent uit de reactorkern zijn verwijderd en in overeenstemming met goedgekeurde procedures veilig zijn opgeslagen.
 
 ##### Artikel 13
 
@@ -167,9 +153,9 @@ b. Te dien einde deelt elke ondertekenende of toetredende Regering bij de nederl
 
 c. Dit overzicht omvat:
 
-- i). voor alle nog niet voltooide installaties de vermelding van de datum waarop het risico van een kernongeval vermoedelijk zal intreden, en
+- i) voor alle nog niet voltooide installaties de vermelding van de datum waarop het risico van een kernongeval vermoedelijk zal intreden, en
 
-- ii). voor reactoren bovendien de vermelding van de datum waarop zij vermoedelijk voor het eerst kritisch zullen worden, alsmede van hun thermisch vermogen.
+- ii) voor reactoren bovendien de vermelding van de datum waarop zij vermoedelijk voor het eerst kritisch zullen worden, alsmede van hun thermisch vermogen.
 
 d. Elke Partij deelt voorts aan de Belgische Regering de juiste datum mede, waarop het risico van een kernongeval intreedt en, voor reactoren, de datum waarop zij voor het eerst kritisch zijn geworden.
 
@@ -282,17 +268,3 @@ f. Indien het Verdrag van Parijs niet langer van toepassing is op één van die 
 ##### Artikel 25
 
 De Belgische Regering doet aan alle ondertekenende en toetredende Regeringen mededeling van de ontvangst van iedere akte van bekrachtiging, aanvaarding, goedkeuring, toetreding of opzegging en van alle kennisgevingen die zij heeft ontvangen. Zij doet hun eveneens mededeling van het tijdstip waarop dit Verdrag in werking treedt, van de tekst van de wijzigingen van dit Verdrag en van het tijdstip waarop deze wijzigingen van kracht worden, van de voorbehouden welke overeenkomstig artikel 18 worden gemaakt, alsmede van eventuele verhoging van de schadevergoedingen die moeten worden verstrekt krachtens artikel 3(a) als gevolg van de toepassing van artikel 12bis.
-
-##### Artikel 12bis
-
-a). In geval van toetreding tot dit Verdrag worden de in artikel 3(b)(iii) bedoelde openbare middelen verhoogd met:
-
-- (i). 35% van een bedrag vastgesteld door op bovengenoemd bedrag de verhouding toe te passen tussen het bruto nationaal product tegen lopende prijzen van de toetredende Partij, enerzijds, en het gezamenlijk bedrag van het bruto nationaal product tegen lopende prijzen van alle Partijen, met uitzondering van dat van de toetredende Partij, anderzijds, en
-
-- (ii). 65% van een bedrag vastgesteld door op bovengenoemd bedrag de verhouding toe te passen tussen het thermisch vermogen van de reactoren die zich op het grondgebied van de toetredende Partij bevinden, enerzijds, en het gezamenlijk thermisch vermogen van de reactoren die zich op het grondgebied van alle Partijen bevinden, met uitzondering van dat van de toetredende Partij, anderzijds.
-
-b). Het in lid (a) bedoelde verhoogde bedrag wordt afgerond op het dichtstbij gelegen bedrag uitgedrukt in duizendtallen euro.
-
-c). Het bruto nationaal product van de toetredende Partij wordt vastgesteld overeenkomstig de officiële statistieken, gepubliceerd door de Organisatie voor Economische Samenwerking en Ontwikkeling, voor het jaar voorafgaande aan het jaar waarin de toetreding van kracht wordt.
-
-d). Het thermisch vermogen van de toetredende Partij wordt vastgesteld overeenkomstig de lijst van kerninstallaties die door die Regering ingevolge artikel 13(b) aan de Belgische Regering is medegedeeld, met dien verstande dat voor de berekening van de bijdragen uit hoofde van lid (a)(ii), een reactor slechts in aanmerking wordt genomen vanaf de dag waarop hij voor het eerst kritisch is geworden en dat een reactor bij de berekening buiten beschouwing wordt gelaten wanneer alle splijtstoffen permanent uit de reactorkern zijn verwijderd en in overeenstemming met goedgekeurde procedures veilig zijn opgeslagen.

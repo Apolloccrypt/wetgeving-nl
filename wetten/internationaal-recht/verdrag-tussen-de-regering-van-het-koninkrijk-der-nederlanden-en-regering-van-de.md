@@ -1,49 +1,20 @@
 ---
 title: "Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Tsjechische Republiek inzake internationaal vervoer over de weg"
+citeertitel: "Verdrag tussen de Regering van het Koninkrijk der Nederlanden en Regering van de Tsjechische Republiek inzake internationaal vervoer over de weg"
 identifier: "BWBV0001359"
-country: "nl"
-rank: "verdrag"
-publication_date: "1999-01-01"
-last_updated: "1999-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001359"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000373673"
-version_id: "10000381702"
-internal_id: "C10006989691"
-label_id: "10000373834"
-original_entry_into_force: "1999-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001359/1999-01-01/0"
-intitule_bron: "Trb.1998-105"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1998-11-10"
-intitule_published: "1998-05-07"
-intitule_in_force: "1998-12-17"
-intitule_status: "goed"
-original_publication: "Trb.1998-105"
-original_signed_date: "1998-11-10"
-original_published_date: "1998-05-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1998-105"
-entry_into_force_date: "1999-01-01"
-jci_1_3: "jci1.3:c:BWBV0001359&z=1999-01-01&g=1999-01-01"
-jci_1_0: "1.0:c:BWBV0001359&g=1999-01-01"
-citeertitel_status: "officieel"
-short_title: "Verdrag tussen de Regering van het Koninkrijk der Nederlanden en Regering van de Tsjechische Republiek inzake internationaal vervoer over de weg"
-signed_date: "1998-11-10"
-entry_into_force: "1999-01-01"
+publicatiedatum: 1999-01-01
+laatste_update: 1999-01-01
+status: geldig
+toestand: 1999-01-01
+bron: "https://wetten.overheid.nl/BWBV0001359"
+opgehaald: 2026-09-11
 ---
+
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Tsjechische Republiek inzake internationaal vervoer over de weg
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van de Tsjechische Republiek, hierna te noemen de Verdragsluitende Partijen;
-
-Geleid door de wens, in het belang van hun economische betrekkingen, de ontwikkeling te bevorderen van het vervoer van goederen en personen over de weg in, naar en vanuit hun landen en in doorvoer over hun landen;
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Tsjechische Republiek, hierna te noemen de Verdragsluitende Partijen; Geleid door de wens, in het belang van hun economische betrekkingen, de ontwikkeling te bevorderen van het vervoer van goederen en personen over de weg in, naar en vanuit hun landen en in doorvoer over hun landen; Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Toepassingsgebied
 
@@ -57,23 +28,23 @@ Zijn het volgende overeengekomen:
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
-- 1. „vervoerder”: een persoon (met inbegrip van een rechtspersoon) die in een van de landen gevestigd is en die overeenkomstig de desbetreffende nationale wetten en voorschriften in het land van vestiging wettig is toegelaten tot de markt voor het vervoer van goederen of personen over de weg tegen betaling of voor eigen rekening;
+- 1 „vervoerder”: een persoon (met inbegrip van een rechtspersoon) die in een van de landen gevestigd is en die overeenkomstig de desbetreffende nationale wetten en voorschriften in het land van vestiging wettig is toegelaten tot de markt voor het vervoer van goederen of personen over de weg tegen betaling of voor eigen rekening;
 
-- 2. „voertuig”: een motorvoertuig of combinatie van voertuigen waarvan ten minste het motorvoertuig is geregistreerd op het grondgebied van het Koninkrijk der Nederlanden of de Tsjechische Republiek en dat uitsluitend wordt gebruikt en is uitgerust voor het vervoer van goederen of personen per bus;
+- 2 „voertuig”: een motorvoertuig of combinatie van voertuigen waarvan ten minste het motorvoertuig is geregistreerd op het grondgebied van het Koninkrijk der Nederlanden of de Tsjechische Republiek en dat uitsluitend wordt gebruikt en is uitgerust voor het vervoer van goederen of personen per bus;
 
-- 3. „cabotage”: het exploiteren van vervoersdiensten binnen het grondgebied van het Koninkrijk der Nederlanden of de Tsjechische Republiek door een op het grondgebied van het andere land gevestigde vervoerder;
+- 3 „cabotage”: het exploiteren van vervoersdiensten binnen het grondgebied van het Koninkrijk der Nederlanden of de Tsjechische Republiek door een op het grondgebied van het andere land gevestigde vervoerder;
 
-- 4. „vervoer”: het rijden met beladen of onbeladen voertuigen over de weg, ook indien het voertuig, de aanhangwagen of de oplegger voor een deel van de rit reist per spoor of via waterwegen;
+- 4 „vervoer”: het rijden met beladen of onbeladen voertuigen over de weg, ook indien het voertuig, de aanhangwagen of de oplegger voor een deel van de rit reist per spoor of via waterwegen;
 
-- 5. „gastheerland”: het grondgebied van het land waarin het voertuig vervoer verricht, terwijl het daar niet is geregistreerd en de vervoerondernemer daar niet is gevestigd;
+- 5 „gastheerland”: het grondgebied van het land waarin het voertuig vervoer verricht, terwijl het daar niet is geregistreerd en de vervoerondernemer daar niet is gevestigd;
 
-- 6. „intermodaal vervoer”: het vervoer van goederen waarbij de vrachtauto, aanhangwagen, oplegger, wissellaadbak of container voor het eerste en/of laatste gedeelte van de rit de weg gebruiken, en voor het resterende gedeelte al dan niet met trekker per spoor, via waterwegen of over zee reizen;
+- 6 „intermodaal vervoer”: het vervoer van goederen waarbij de vrachtauto, aanhangwagen, oplegger, wissellaadbak of container voor het eerste en/of laatste gedeelte van de rit de weg gebruiken, en voor het resterende gedeelte al dan niet met trekker per spoor, via waterwegen of over zee reizen;
 
-- 7. „bevoegde autoriteit”: of in beide gevallen, enige persoon die of enig lichaam dat gemachtigd is de taken te verrichten die thans door genoemde ministeries worden uitgeoefend.
+- 7 „bevoegde autoriteit”: of in beide gevallen, enige persoon die of enig lichaam dat gemachtigd is de taken te verrichten die thans door genoemde ministeries worden uitgeoefend.
 
-- –. voor het Koninkrijk der Nederlanden, het Ministerie van Verkeer en Waterstaat,
+   - – voor het Koninkrijk der Nederlanden, het Ministerie van Verkeer en Waterstaat,
 
-- –. voor de Tsjechische Republiek, het Ministerie van Verkeer en Verbindingen,
+   - – voor de Tsjechische Republiek, het Ministerie van Verkeer en Verbindingen,
 
 ##### Artikel 3. Toegang tot de markt
 
@@ -175,10 +146,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN te Amsterdam op 31 maart 1998, in tweevoud in de Nederlandse, de Tsjechische en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschillen is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 (w.g.) A. JORRITSMA-LEBBINK
 
-**Voor de Regering van de Tsjechische Republiek, (w.g.)**
+*Voor de Regering van de Tsjechische Republiek, (w.g.)*
 
 P. MOOS

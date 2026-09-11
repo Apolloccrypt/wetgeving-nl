@@ -1,43 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen"
 identifier: "BWBV0001109"
-country: "nl"
-rank: "verdrag"
-publication_date: "2004-12-28"
-last_updated: "2004-12-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001109"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10002316273"
-version_id: "10002326412"
-internal_id: "C10009616251"
-label_id: "10002306754"
-dtd_version: "2.0"
-original_entry_into_force: "1993-12-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001109/2004-12-28/0"
-intitule_bron: "Trb.1993-77"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-12-01"
-intitule_published: "1993-06-07"
-intitule_in_force: "1993-12-31"
-intitule_status: "goed"
-original_publication: "Trb.1993-77"
-original_signed_date: "1993-12-01"
-original_published_date: "1993-06-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1993-77"
-entry_into_force_date: "1993-12-31"
-jci_1_3: "jci1.3:c:BWBV0001109&z=2004-12-28&g=2004-12-28"
-jci_1_0: "1.0:c:BWBV0001109&g=2004-12-28"
-citeertitel_status: "redactioneel"
-signed_date: "1993-12-01"
-entry_into_force: "1993-12-31"
+publicatiedatum: 1993-12-31
+laatste_update: 2004-12-28
+status: geldig
+toestand: 2004-12-28
+bron: "https://wetten.overheid.nl/BWBV0001109"
+opgehaald: 2026-09-11
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika, geleid door de wens het op 29 april 1948 te Washington ondertekende [Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika met betrekking tot belastingen van inkomsten en bepaalde andere belastingen](https://wetten.overheid.nl/jci1.3:c:BWBV0005531), zoals deze is gewijzigd en aangevuld bij het op 30 december 1965 te Washington ondertekende Aanvullende Verdrag, te vervangen door een nieuwe Overeenkomst;
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika, geleid door de wens het op 29 april 1948 te Washington ondertekende Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika met betrekking tot belastingen van inkomsten en bepaalde andere belastingen, zoals deze is gewijzigd en aangevuld bij het op 30 december 1965 te Washington ondertekende Aanvullende Verdrag, te vervangen door een nieuwe Overeenkomst; Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. REIKWIJDTE VAN DE OVEREENKOMST
 
@@ -51,13 +27,13 @@ Zijn het volgende overeengekomen:
 
 - b. door enige andere overeenkomst tussen de Staten.
 
-- a. Onverminderd het bepaalde in het tweede lid, onderdeel b:
+3. - a. Onverminderd het bepaalde in het tweede lid, onderdeel b:
 
-- i. wordt elke kwestie aangaande de uitlegging of toepassing van deze Overeenkomst en in het bijzonder de vraag of een belastingmaatregel valt onder de reikwijdte van deze Overeenkomst uitsluitend beslist in overeenstemming met de bepalingen van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=IV&artikel=25&z=2004-12-28&g=2004-12-28) (Regeling voor onderling overleg) van deze Overeenkomst; en
+   - i. wordt elke kwestie aangaande de uitlegging of toepassing van deze Overeenkomst en in het bijzonder de vraag of een belastingmaatregel valt onder de reikwijdte van deze Overeenkomst uitsluitend beslist in overeenstemming met de bepalingen van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=IV&artikel=25&z=2004-12-28&g=2004-12-28) (Regeling voor onderling overleg) van deze Overeenkomst; en
 
-- ii). zijn de bepalingen van artikel XVII van de Algemene Overeenkomst inzake de handel in diensten niet van toepassing op een belastingmaatregel tenzij de bevoegde autoriteiten overeenkomen dat de maatregel niet valt onder de reikwijdte van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=28&z=2004-12-28&g=2004-12-28) (Non-discriminatie) van deze Overeenkomst.
+   - ii) zijn de bepalingen van artikel XVII van de Algemene Overeenkomst inzake de handel in diensten niet van toepassing op een belastingmaatregel tenzij de bevoegde autoriteiten overeenkomen dat de maatregel niet valt onder de reikwijdte van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=28&z=2004-12-28&g=2004-12-28) (Non-discriminatie) van deze Overeenkomst.
 
-- b). Voor de toepassing van dit lid wordt onder „maatregel” verstaan een wet, voorschrift, regel, procedure, beslissing, bestuursrechtelijke maatregel of een daarmee vergelijkbare bepaling of maatregel.
+- b) Voor de toepassing van dit lid wordt onder „maatregel” verstaan een wet, voorschrift, regel, procedure, beslissing, bestuursrechtelijke maatregel of een daarmee vergelijkbare bepaling of maatregel.
 
 ##### Artikel 2. Belastingen waarop de overeenkomst van toepassing is
 
@@ -65,13 +41,13 @@ Zijn het volgende overeengekomen:
 
 - a. in Nederland:
 
-- -. de inkomstenbelasting,
+   - - de inkomstenbelasting,
 
-- -. de loonbelasting ,
+   - - de loonbelasting ,
 
-- -. de vennootschapsbelasting, daaronder begrepen het aandeel van de Regering in de netto-winsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de Mijnbouwwet, hierna te noemen: „winstaandeel”,
+   - - de vennootschapsbelasting, daaronder begrepen het aandeel van de Regering in de netto-winsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de Mijnbouwwet, hierna te noemen: „winstaandeel”,
 
-- -. de dividendbelasting, (hierna te noemen: „Nederlandse belasting");
+   - - de dividendbelasting, (hierna te noemen: „Nederlandse belasting");
 
 - b. in de Verenigde Staten: de Federal Income Taxes opgelegd door de Internal Revenue Code (maar met uitzondering van de sociale zekerheidsbelasting) en de accijnzen op verzekeringspremies betaald aan buitenlandse verzekeraars en met betrekking tot particuliere stichtingen (hierna te noemen: „belasting van de Verenigde Staten"). De Overeenkomst zal echter slechts van toepassing zijn op accijnzen op verzekeringspremies betaald aan buitenlandse verzekeraars voor zover de risico's die door de premies worden gedekt niet zijn herverzekerd bij een persoon die niet gerechtigd is tot de voordelen van deze Overeenkomst of enige andere overeenkomst die voorziet in een vrijstelling van deze belastingen.
 
@@ -89,9 +65,9 @@ Zijn het volgende overeengekomen:
 
 - c.
 
-- i. betekent de uitdrukking „Verenigde Staten” de Verenigde Staten van Amerika, maar met uitzondering van Puerto Rico, de Maagdeneilanden, Guam, of enig ander bezit of gebied van de Verenigde Staten;
+   - i. betekent de uitdrukking „Verenigde Staten” de Verenigde Staten van Amerika, maar met uitzondering van Puerto Rico, de Maagdeneilanden, Guam, of enig ander bezit of gebied van de Verenigde Staten;
 
-- ii. betekent de uitdrukking „Verenigde Staten”, wanneer deze in aardrijkskundige zin wordt gebezigd, de staten daarvan en het District van Columbia. Die uitdrukking omvat mede (A) de daartoe behorende territoriale zee daarvan en (B) de zeebodem en de ondergrond van de onderzeese gebieden die grenzen aan de territoriale zee, waarop de Verenigde Staten soevereine rechten uitoefenen in overeenstemming met het internationale recht met het doel om de natuurlijke rijkdommen van die gebieden te exploreren en te exploiteren, maar slechts voor zover de persoon, het eigendom of de activiteit waarop de Overeenkomst wordt toegepast verband houdt met die exploratie of exploitatie;
+   - ii. betekent de uitdrukking „Verenigde Staten”, wanneer deze in aardrijkskundige zin wordt gebezigd, de staten daarvan en het District van Columbia. Die uitdrukking omvat mede (A) de daartoe behorende territoriale zee daarvan en (B) de zeebodem en de ondergrond van de onderzeese gebieden die grenzen aan de territoriale zee, waarop de Verenigde Staten soevereine rechten uitoefenen in overeenstemming met het internationale recht met het doel om de natuurlijke rijkdommen van die gebieden te exploreren en te exploiteren, maar slechts voor zover de persoon, het eigendom of de activiteit waarop de Overeenkomst wordt toegepast verband houdt met die exploratie of exploitatie;
 
 - d. omvat de uitdrukking „persoon” een natuurlijk persoon, een nalatenschap, een trust, een lichaam en elke andere vereniging van personen;
 
@@ -101,17 +77,17 @@ Zijn het volgende overeengekomen:
 
 - g. betekent de uitdrukking „onderdanen”:
 
-- i. alle natuurlijke persoon die de nationaliteit of het staatsburgerschap van een van de Staten bezitten;
+   - i. alle natuurlijke persoon die de nationaliteit of het staatsburgerschap van een van de Staten bezitten;
 
-- ii. alle rechtspersonen, vennootschappen en verenigingen die hun rechtspositie als zodanig ontlenen aan de wetgeving die in een van de Staten van kracht is;
+   - ii. alle rechtspersonen, vennootschappen en verenigingen die hun rechtspositie als zodanig ontlenen aan de wetgeving die in een van de Staten van kracht is;
 
 - h. betekent de uitdrukking „internationaal verkeer” alle vervoer met een schip of een luchtvaartuig, gexploiteerd door een onderneming van een van de Staten, behalve wanneer het schip of het luchtvaartuig uitsluitend wordt geëxploiteerd tussen plaatsen die in de andere Staat zijn gelegen; .
 
 - i. betekent de uitdrukking „bevoegde autoriteit”:
 
-- i. in Nederland de Minister van Financiën of zijn bevoegde vertegenwoordiger;
+   - i. in Nederland de Minister van Financiën of zijn bevoegde vertegenwoordiger;
 
-- ii. in de Verenigde Staten de „Secretary of the Treasury” of zijn gemachtigde.
+   - ii. in de Verenigde Staten de „Secretary of the Treasury” of zijn gemachtigde.
 
 2. Voor de toepassing van de Overeenkomst door een van de Staten heeft, tenzij de context anders vereist of de bevoegde autoriteiten ingevolge de bepalingen van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=29&z=2004-12-28&g=2004-12-28) (Regeling voor Onderling Overleg) overeenstemming bereiken over een gemeenschappelijke betekenis, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens het recht van die Staat met betrekking tot belastingen waarop de Overeenkomst van toepassing is.
 
@@ -243,19 +219,19 @@ Zijn het volgende overeengekomen:
 
 - d. uit hoofde van [artikel 26, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28), een beschikking heeft ontvangen ter zake van dit lid.
 
-- a. Onderdeel a van het tweede lid en het derde lid vinden geen toepassing in het geval waarin dividenden zijn betaald door een persoon van de Verenigde Staten die een Regulated Investment Company (RIC) of een Real Estate Investment Trust (REIT) is, of in het geval waarin de dividenden zijn betaald door een Nederlands lichaam dat een „beleggingsinstelling” is in de zin van artikel 28 van de Nederlandse Wet op de Vennootschapsbelasting 1969 (hierna te noemen „beleggingsinstelling”).
+4. - a. Onderdeel a van het tweede lid en het derde lid vinden geen toepassing in het geval waarin dividenden zijn betaald door een persoon van de Verenigde Staten die een Regulated Investment Company (RIC) of een Real Estate Investment Trust (REIT) is, of in het geval waarin de dividenden zijn betaald door een Nederlands lichaam dat een „beleggingsinstelling” is in de zin van artikel 28 van de Nederlandse Wet op de Vennootschapsbelasting 1969 (hierna te noemen „beleggingsinstelling”).
 
 - b. In het geval waarin dividenden zijn betaald door een RIC of een beleggingsinstelling, vindt het tweede lid, onderdeel b, toepassing.
 
 - c. In het geval waarin dividenden zijn betaald door een REIT, of, onverminderd onderdeel b van dit vierde lid, door een beleggingsinstelling die in dezelfde mate in onroerend goed investeert als vereist voor een REIT, vindt het tweede lid, onderdeel b, alleen toepassing indien:
 
-- i. de uiteindelijk gerechtigde tot de dividenden een natuurlijke persoon is die een belang van ten hoogste 25 percent in de REIT of beleggingsinstelling bezit;
+   - i. de uiteindelijk gerechtigde tot de dividenden een natuurlijke persoon is die een belang van ten hoogste 25 percent in de REIT of beleggingsinstelling bezit;
 
-- ii. de dividenden worden betaald met betrekking tot een categorie aandelen die op de beurs verhandeld wordt en de uiteindelijk gerechtigde tot de dividenden een belang heeft van ten hoogste 5 percent van enige soort van de aandelen van een REIT of beleggingsinstelling;
+   - ii. de dividenden worden betaald met betrekking tot een categorie aandelen die op de beurs verhandeld wordt en de uiteindelijk gerechtigde tot de dividenden een belang heeft van ten hoogste 5 percent van enige soort van de aandelen van een REIT of beleggingsinstelling;
 
-- iii. de uiteindelijk gerechtigde tot de dividenden een belang van ten hoogste 10 percent heeft in de REIT of beleggingsinstelling en de brutowaarde van geen enkel belang in onroerende zaken van de REIT of beleggingsinstelling meer bedraagt dan 10 percent van de brutowaarde van het totale belang van de REIT of beleggingsinstelling in onroerende zaken; of
+   - iii. de uiteindelijk gerechtigde tot de dividenden een belang van ten hoogste 10 percent heeft in de REIT of beleggingsinstelling en de brutowaarde van geen enkel belang in onroerende zaken van de REIT of beleggingsinstelling meer bedraagt dan 10 percent van de brutowaarde van het totale belang van de REIT of beleggingsinstelling in onroerende zaken; of
 
-- iv. de uiteindelijk gerechtigde een beleggingsinstelling is, in het geval dividenden worden betaald door een REIT, of een RIC of een REIT, in het geval dividenden worden betaald door een beleggingsinstelling.
+   - iv. de uiteindelijk gerechtigde een beleggingsinstelling is, in het geval dividenden worden betaald door een REIT, of een RIC of een REIT, in het geval dividenden worden betaald door een beleggingsinstelling.
 
 5. De bepalingen van de voorgaande leden laten onverlet de belastingheffing van het lichaam ter zake van de winst waaruit de dividenden worden betaald.
 
@@ -343,25 +319,25 @@ Wanneer de schuldenaar van de interest inwoner van een van de Staten is en een v
 
 In de Verenigde Staten omvat de uitdrukking een „United States real property interest” zoals omschreven in de Internal Revenue Code op de datum van ondertekening van deze Overeenkomst, en van tijd tot tijd gewijzigd zonder de algemene uitgangspunten beschreven in dit lid te wijzigen.
 
-- a. Indien een persoon, die sinds 18 juni 1980 onafgebroken inwoner is geweest van een van de Staten, na de datum van inwerkingtreding van deze Overeenkomst onroerende zaken vervreemdt die zijn gelegen in de andere Staat, en deze vervreemding door de andere Staat niet kon worden belast onder de bepalingen van het eerdere [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005531) zoals dit is omschreven in het[tweede lid van artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=VI&artikel=37&z=2004-12-28&g=2004-12-28) (Inwerkingtreding), en:
+2. - a. Indien een persoon, die sinds 18 juni 1980 onafgebroken inwoner is geweest van een van de Staten, na de datum van inwerkingtreding van deze Overeenkomst onroerende zaken vervreemdt die zijn gelegen in de andere Staat, en deze vervreemding door de andere Staat niet kon worden belast onder de bepalingen van het eerdere [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005531) zoals dit is omschreven in het[tweede lid van artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=VI&artikel=37&z=2004-12-28&g=2004-12-28) (Inwerkingtreding), en:
 
-- i. de inwoner de vervreemde zaak vanaf 18 juni 1980 tot de datum van vervreemding onafgebroken in zijn bezit heeft gehad; of
+   - i. de inwoner de vervreemde zaak vanaf 18 juni 1980 tot de datum van vervreemding onafgebroken in zijn bezit heeft gehad; of
 
-- ii. aan elk van de volgende voorwaarden is voldaan: wordt het voordeel waarover in de andere Staat ingevolge dit artikel belasting is verschuldigd, verminderd met het gedeelte van het voordeel dat, per maand, naar evenredigheid kan worden toegerekend aan het tijdvak dat eindigt op 31 december 1984, of met een zoveel groter gedeelte als ten genoegen van de bevoegde autoriteit van die andere Staat kan worden aangetoond, kan worden toegerekend aan dat tijdvak.
+   - ii. aan elk van de volgende voorwaarden is voldaan: wordt het voordeel waarover in de andere Staat ingevolge dit artikel belasting is verschuldigd, verminderd met het gedeelte van het voordeel dat, per maand, naar evenredigheid kan worden toegerekend aan het tijdvak dat eindigt op 31 december 1984, of met een zoveel groter gedeelte als ten genoegen van de bevoegde autoriteit van die andere Staat kan worden aangetoond, kan worden toegerekend aan dat tijdvak.
 
-- A. de inwoner heeft de vervreemde zaak verworven door een transactie die voor de belastingheffing in de andere Staat kwalificeerde om niet in aanmerking genomen te worden (vastgesteld zonder rekening te houden met artikel 897 van de Internal Revenue Code), en de inwoner heeft de zaak onafgebroken in zijn bezit gehad sinds de verwerving ervan; en
+      - A. de inwoner heeft de vervreemde zaak verworven door een transactie die voor de belastingheffing in de andere Staat kwalificeerde om niet in aanmerking genomen te worden (vastgesteld zonder rekening te houden met artikel 897 van de Internal Revenue Code), en de inwoner heeft de zaak onafgebroken in zijn bezit gehad sinds de verwerving ervan; en
 
-- B. de oorspronkelijke waardegrondslag van de vervreemde zaak voor de inwoner was gelijk aan hetzij de waardegrondslag van de zaak die de inwoner inruilde voor de vervreemde zaak, hetzij de waardegrondslag van de vervreemde zaak onmiddellijk voorafgaand aan de overdracht in de handen van de persoon die de zaak overdroeg aan de inwoner; dan
+      - B. de oorspronkelijke waardegrondslag van de vervreemde zaak voor de inwoner was gelijk aan hetzij de waardegrondslag van de zaak die de inwoner inruilde voor de vervreemde zaak, hetzij de waardegrondslag van de vervreemde zaak onmiddellijk voorafgaand aan de overdracht in de handen van de persoon die de zaak overdroeg aan de inwoner; dan
 
 - b. De bepalingen van dit lid zijn niet van toepassing, tenzij gedurende het tijdvak van 1 januari 1992 tot en met de datum van vervreemding, de inwoner en elke andere persoon die de zaak gedurende die periode in bezit heeft gehad, gerechtigd was tot de voordelen van dit artikel ingevolge [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperking van Voordelen) of daartoe gerechtigd zou zijn geweest indien de Overeenkomst gedurende dat hele tijdvak van kracht zou zijn geweest. Bovendien moet iedere persoon die de zaak gedurende het tijdvak van 18 juni 1980 tot en met 31 december 1991 in zijn bezit heeft gehad inwoner zijn geweest van een van de Staten ingevolge het eerdere [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005531) zoals dit is omschreven in het [tweede lid van artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=VI&artikel=37&z=2004-12-28&g=2004-12-28) (Inwerkingtreding).
 
 - c. De bepalingen van dit lid zijn niet van toepassing op de vervreemding van een zaak die:
 
-- i. op enig tijdstip op of na 18 juni 1980 deel heeft uitgemaakt van het bedrijfsvermogen van een vaste inrichting of heeft behoord tot een vast middelpunt, gelegen in de andere Staat;
+   - i. op enig tijdstip op of na 18 juni 1980 deel heeft uitgemaakt van het bedrijfsvermogen van een vaste inrichting of heeft behoord tot een vast middelpunt, gelegen in de andere Staat;
 
-- ii. middellijk of onmiddellijk was verworven door enig persoon op of na 18 juni 1980, in een transactie die voor de belastingheffing niet kwalificeerde om niet in aanmerking genomen te worden (vastgesteld zonder rekening te houden met artikel 897 van de Internal Revenue Code), of in een transactie waarin de zaak is verworven in ruil voor een activum dat was verworven in een transactie die voor de belastingheffing kwalificeerde om niet in aanmerking genomen te worden (vastgesteld zonder rekening te houden met artikel 897 van de Internal Revenue Code); of
+   - ii. middellijk of onmiddellijk was verworven door enig persoon op of na 18 juni 1980, in een transactie die voor de belastingheffing niet kwalificeerde om niet in aanmerking genomen te worden (vastgesteld zonder rekening te houden met artikel 897 van de Internal Revenue Code), of in een transactie waarin de zaak is verworven in ruil voor een activum dat was verworven in een transactie die voor de belastingheffing kwalificeerde om niet in aanmerking genomen te worden (vastgesteld zonder rekening te houden met artikel 897 van de Internal Revenue Code); of
 
-- iii. middellijk of onmiddellijk was verworven door enig persoon op of na 18 juni 1980 in ruil voor een zaak beschreven onder (i) of (ii), of een zaak waarvan de vervreemding had kunnen worden belast door de andere Staat ingevolge de bepalingen van het eerdere [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005531) zoals dit is omschreven in het [tweede lid van artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=VI&artikel=37&z=2004-12-28&g=2004-12-28) (Inwerkingtreding).
+   - iii. middellijk of onmiddellijk was verworven door enig persoon op of na 18 juni 1980 in ruil voor een zaak beschreven onder (i) of (ii), of een zaak waarvan de vervreemding had kunnen worden belast door de andere Staat ingevolge de bepalingen van het eerdere [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005531) zoals dit is omschreven in het [tweede lid van artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=VI&artikel=37&z=2004-12-28&g=2004-12-28) (Inwerkingtreding).
 
 3. Voordelen verkregen uit de vervreemding van roerende goederen die deel uitmaken van het bedrijfsvermogen van een vaste inrichting die een onderneming van een van de Staten in de andere Staat heeft, of van roerende goederen die behoren tot een vast middelpunt dat een inwoner van een van de Staten in de andere staat tot zijn beschikking heeft voor het verrichten van zelfstandige arbeid, daaronder begrepen voordelen verkregen uit de vervreemding van de vaste inrichting (alleen of met de gehele onderneming) of van het vaste middelpunt, mogen in die andere Staat worden belast.
 
@@ -413,7 +389,7 @@ Bestuurders- en commissarisenbeloningen (director's fees) of andere beloningen v
 
 ##### Artikel 18. Artiesten en sportbeoefenaars
 
-1. Niettegenstaande de bepalingen van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=15&z=2004-12-28&g=2004-12-28) (Zelfstandige Arbeid) en 16 (Niet-zelfstandige Arbeid), mogen voordelen of inkomsten, verkregen door een inwoner van een van de Staten als artiest, zoals een toneelspeler, film-, radio-, of televisie-artiest, of een musicus, alsmede als sportbeoefenaar, uit zijn persoonlijke werkzaamheden die als zodanig worden verricht in de andere Staat, worden belast in die andere Staat tenzij het bedrag van de bruto-ontvangsten dat een dergelijke artiest of sportbeoefenaar in het betrokken belastingjaar voor de werkzaamheden verkrijgt, met inbegrip van de aan hem vergoede of de ten behoeve van hem gedragen kosten, 10.000 Amerikaanse dollar of de tegenwaarde daarvan in euro op 1 januari van het desbetreffende belastingjaar niet te boven gaat. In het laatstgenoemde geval kan de vrijstelling worden toegepast door middel van een teruggave van de belasting die aan de bron is geheven. Een verzoek om een dergelijke teruggave dient na het eind van het desbetreffende belastingjaar en binnen drie jaren na afloop van dat jaar te worden ingediend.
+1. Niettegenstaande de bepalingen van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=15&z=2004-12-28&g=2004-12-28) (Zelfstandige Arbeid) en [16](https://wetten.overheid.nl/BWBV0001109) (Niet-zelfstandige Arbeid), mogen voordelen of inkomsten, verkregen door een inwoner van een van de Staten als artiest, zoals een toneelspeler, film-, radio-, of televisie-artiest, of een musicus, alsmede als sportbeoefenaar, uit zijn persoonlijke werkzaamheden die als zodanig worden verricht in de andere Staat, worden belast in die andere Staat tenzij het bedrag van de bruto-ontvangsten dat een dergelijke artiest of sportbeoefenaar in het betrokken belastingjaar voor de werkzaamheden verkrijgt, met inbegrip van de aan hem vergoede of de ten behoeve van hem gedragen kosten, 10.000 Amerikaanse dollar of de tegenwaarde daarvan in euro op 1 januari van het desbetreffende belastingjaar niet te boven gaat. In het laatstgenoemde geval kan de vrijstelling worden toegepast door middel van een teruggave van de belasting die aan de bron is geheven. Een verzoek om een dergelijke teruggave dient na het eind van het desbetreffende belastingjaar en binnen drie jaren na afloop van dat jaar te worden ingediend.
 
 2. Indien voordelen of inkomsten ter zake van werkzaamheden die door een artiest of een sportbeoefenaar in die hoedanigheid worden verricht, niet aan de artiest of sportbeoefenaar toekomen, maar aan een andere persoon, mogen die voordelen of inkomsten van die andere persoon, niettegenstaande de bepalingen van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=7&z=2004-12-28&g=2004-12-28) (Winst uit Onderneming) en [15](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=15&z=2004-12-28&g=2004-12-28) (Zelfstandige Arbeid) worden belast in de Staat waar de werkzaamheden van de artiest of sportbeoefenaar worden verricht tenzij wordt vastgesteld dat noch de artiest of sportbeoefenaar noch daarmee verbonden personen onmiddellijk of middellijk op enigerlei wijze gerechtigd zijn tot een deel van de winsten van die andere persoon, met inbegrip van de ontvangsten van uitgestelde beloningen, bonussen, vergoedingen, dividenden, vennootschapsuitdelingen of andere uitdelingen.
 
@@ -447,31 +423,31 @@ De uit hoofde van dit lid beschikbare fiscale faciliëring mag niet hoger zijn d
 
 - b. de bevoegde autoriteit van de andere Staat ermee heeft ingestemd dat het vrijgestelde pensioenfonds over het algemeen overeenkomt met een in die andere Staat gevestigd vrijgesteld pensioenfonds.
 
-- a. Indien een staatsburger van de Verenigde Staten die in Nederland woont in Nederland in dienstbetrekking werkzaam is waarvan de inkomsten belastbaar zijn in Nederland en ten laste komen van een werkgever die inwoner is van Nederland of van een in Nederland gevestigde vaste inrichting, en de natuurlijke persoon lid is van, begunstigde tot of deelnemer in een in Nederland gevestigd vrijgesteld pensioenfonds,
+10. - a. Indien een staatsburger van de Verenigde Staten die in Nederland woont in Nederland in dienstbetrekking werkzaam is waarvan de inkomsten belastbaar zijn in Nederland en ten laste komen van een werkgever die inwoner is van Nederland of van een in Nederland gevestigde vaste inrichting, en de natuurlijke persoon lid is van, begunstigde tot of deelnemer in een in Nederland gevestigd vrijgesteld pensioenfonds,
 
-- i. dienen de premies betaald door of namens die natuurlijke persoon aan het vrijgestelde pensioenfonds gedurende het tijdvak waarin hij in dienstverband werkzaam is in Nederland en die toe te rekenen zijn aan het dienstverband aftrekbaar te zijn (of niet bij de belastingheffing te worden inbegrepen) bij de berekening van zijn belastbaar inkomen in de Verenigde Staten; en
+   - i. dienen de premies betaald door of namens die natuurlijke persoon aan het vrijgestelde pensioenfonds gedurende het tijdvak waarin hij in dienstverband werkzaam is in Nederland en die toe te rekenen zijn aan het dienstverband aftrekbaar te zijn (of niet bij de belastingheffing te worden inbegrepen) bij de berekening van zijn belastbaar inkomen in de Verenigde Staten; en
 
-- ii. worden uitkeringen voortvloeiend uit het vrijgestelde pensioenfonds of door of namens de werkgever van die natuurlijke persoon gedurende dat tijdvak betaalde premies aan het vrijgestelde pensioenfonds en die toe te rekenen zijn aan dat dienstverband bij de berekening van het belastbare inkomen van de werknemer in de Verenigde Staten niet behandeld als onderdeel van het belastbare inkomen. Dit lid vindt uitsluitend toepassing voor zover de premies of uitkeringen in aanmerking komen voor fiscale faciliëring in Nederland.
+   - ii. worden uitkeringen voortvloeiend uit het vrijgestelde pensioenfonds of door of namens de werkgever van die natuurlijke persoon gedurende dat tijdvak betaalde premies aan het vrijgestelde pensioenfonds en die toe te rekenen zijn aan dat dienstverband bij de berekening van het belastbare inkomen van de werknemer in de Verenigde Staten niet behandeld als onderdeel van het belastbare inkomen. Dit lid vindt uitsluitend toepassing voor zover de premies of uitkeringen in aanmerking komen voor fiscale faciliëring in Nederland.
 
 - b. De uit hoofde van dit lid beschikbare fiscale faciliëring mag niet hoger zijn dan die welke door de Verenigde Staten zou zijn toegestaan aan hun inwoners voor premies aan of voordelen behaald door een overeenkomstig vrijgesteld pensioenfonds dat in de Verenigde Staten is gevestigd.
 
 - c. Teneinde te bepalen of een natuurlijke persoon in aanmerking komt voor deelname in en belastingvoordeel in verband met een in de Verenigde Staten gevestigd vrijgesteld pensioenfonds, worden premies betaald aan of voordelen behaald door een in Nederland gevestigd vrijgesteld pensioenfonds behandeld als premies of uitkeringen uit hoofde van een overeenkomstig vrijgesteld pensioenfonds dat in de Verenigde Staten is gevestigd voorzover fiscale faciliëring uit hoofde van dit lid beschikbaar is voor de natuurlijke persoon.
 
-- d). Dit lid vindt alleen toepassing indien de bevoegde autoriteit van de Verenigde Staten ermee heeft ingestemd dat het vrijgestelde pensioenfonds over het algemeen overeenkomt met een in de Verenigde Staten gevestigd vrijgesteld pensioenfonds.
+- d) Dit lid vindt alleen toepassing indien de bevoegde autoriteit van de Verenigde Staten ermee heeft ingestemd dat het vrijgestelde pensioenfonds over het algemeen overeenkomt met een in de Verenigde Staten gevestigd vrijgesteld pensioenfonds.
 
 11. De voordelen bedoeld in het zevende, achtste, negende en tiende lid zijn met betrekking tot een in de Verenigde Staten gevestigd vrijgesteld pensioenfonds uitsluitend van toepassing indien het pensioenfonds zich in overeenstemming met het Nederlandse recht ten aanzien van aangewezen buitenlandse pensioenfondsen verplicht inlichtingen en zekerheid te verschaffen aan de belastingautoriteiten van Nederland.
 
 ##### Artikel 20. Overheidsfuncties
 
-- a. Beloningen, niet zijnde pensioenen, betaald door een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon terzake van diensten bewezen aan die Staat of dat onderdeel of dat publiekrechtelijke lichaam, zijn slechts in die Staat belastbaar.
+1. - a. Beloningen, niet zijnde pensioenen, betaald door een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon terzake van diensten bewezen aan die Staat of dat onderdeel of dat publiekrechtelijke lichaam, zijn slechts in die Staat belastbaar.
 
 - b. Deze beloningen zijn echter slechts in de andere Staat belastbaar, indien de diensten in die Staat worden bewezen en de natuurlijke persoon een inwoner is van die Staat, die:
 
-- i. onderdaan is van die Staat; of
+   - i. onderdaan is van die Staat; of
 
-- ii. niet uitsluitend voor het verrichten van de diensten inwoner van die Staat werd.
+   - ii. niet uitsluitend voor het verrichten van de diensten inwoner van die Staat werd.
 
-- a. Pensioenen betaald door of uit fondsen in het leven geroepen door, een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten bewezen aan die Staat of dat onderdeel of dat publiekrechtelijke lichaam zijn slechts in die Staat belastbaar.
+2. - a. Pensioenen betaald door of uit fondsen in het leven geroepen door, een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten bewezen aan die Staat of dat onderdeel of dat publiekrechtelijke lichaam zijn slechts in die Staat belastbaar.
 
 - b. Deze pensioenen zijn echter slechts in de andere Staat belastbaar, indien de natuurlijke persoon inwoner en onderdaan is van die Staat.
 
@@ -491,9 +467,9 @@ De uit hoofde van dit lid beschikbare fiscale faciliëring mag niet hoger zijn d
 
 - b. een opleiding voor een bedrijf of beroep te verkrijgen, is vrijgesteld van belasting in de eerstbedoelde Staat ter zake van:
 
-- i. alle overmakingen uit het buitenland ten behoeve van zijn onderhoud, studie of opleiding; en
+   - i. alle overmakingen uit het buitenland ten behoeve van zijn onderhoud, studie of opleiding; en
 
-- ii. alle beloningen voor persoonlijke diensten verricht in de eerstbedoelde Staat, tot een bedrag dat in enig belastingjaar 2000 Amerikaanse dollar of de tegenwaarde daarvan in euro op 1 januari van dat belastingjaar niet te boven gaat.
+   - ii. alle beloningen voor persoonlijke diensten verricht in de eerstbedoelde Staat, tot een bedrag dat in enig belastingjaar 2000 Amerikaanse dollar of de tegenwaarde daarvan in euro op 1 januari van dat belastingjaar niet te boven gaat.
 
 De voordelen ingevolge dit lid worden slechts verleend voor zulk een tijdsduur als redelijk is of gewoonlijk vereist om het doel van het bezoek te bereiken.
 
@@ -603,23 +579,23 @@ maar bedraagt in geen geval meer dan het bedrag van de vermindering die zou zijn
 
 - c. een lichaam is, indien
 
-- i. de voornaamste soort van zijn aandelen (en elke „disproportionate class of shares”) genoteerd is aan een erkende effectenbeurs zoals beschreven in het achtste lid, letter a, onder i) of ii) van dit artikel en in deze aandelen regelmatig wordt gehandeld op een of meer erkende effectenbeurzen, tenzij het lichaam geen reële aanwezigheid heeft in de Staat waarvan het een inwoner is; of
+   - i. de voornaamste soort van zijn aandelen (en elke „disproportionate class of shares”) genoteerd is aan een erkende effectenbeurs zoals beschreven in het achtste lid, letter a, onder i) of ii) van dit artikel en in deze aandelen regelmatig wordt gehandeld op een of meer erkende effectenbeurzen, tenzij het lichaam geen reële aanwezigheid heeft in de Staat waarvan het een inwoner is; of
 
-- ii. ten minste 50 percent van het totale aantal stemmen en de waarde van de aandelen (en ten minste 50 percent van elke „disproportionate class of shares”) van het lichaam onmiddellijk of middellijk het eigendom is van ten hoogste vijf lichamen die gerechtigd zijn tot de voordelen van letter c onder i), met dien verstande dat ingeval van middellijke eigendom elke tussenliggende eigenaar inwoner is van een van beide Staten;
+   - ii. ten minste 50 percent van het totale aantal stemmen en de waarde van de aandelen (en ten minste 50 percent van elke „disproportionate class of shares”) van het lichaam onmiddellijk of middellijk het eigendom is van ten hoogste vijf lichamen die gerechtigd zijn tot de voordelen van letter c onder i), met dien verstande dat ingeval van middellijke eigendom elke tussenliggende eigenaar inwoner is van een van beide Staten;
 
 - d. een persoon is als beschreven in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=35&z=2004-12-28&g=2004-12-28) (Vrijgestelde Pensioenfondsen) van deze Overeenkomst, op voorwaarde dat:
 
-- i. meer dan 50 percent van de gerechtigden, leden of deelnemers natuurlijke personen van een van beide Staten zijn; of
+   - i. meer dan 50 percent van de gerechtigden, leden of deelnemers natuurlijke personen van een van beide Staten zijn; of
 
-- ii. de organisatie die geldschieter is van een dergelijke persoon recht heeft op de voordelen van de Overeenkomst op grond van dit artikel; of
+   - ii. de organisatie die geldschieter is van een dergelijke persoon recht heeft op de voordelen van de Overeenkomst op grond van dit artikel; of
 
 - e. een niet in letter d beschreven organisatie zonder winstoogmerk is die krachtens een dergelijke hoedanigheid in het algemeen in haar woonstaat is vrijgesteld van een belastingheffing naar het inkomen; of
 
 - f. een persoon is, niet zijnde een natuurlijke persoon of een lichaam dat gerechtigd zou zijn tot de voordelen op grond van letter c onder i) maar daarvoor niet in aanmerking komt als gevolg van het niet hebben van reële aanwezigheid in haar woonstaat, indien:
 
-- i. op ten minste de helft van de dagen van een belastingjaar gekwalificeerde personen als bedoeld in letter a, b, c onder i), of letter d of e van dit lid, onmiddellijk of middellijk, aandelen of een ander belang als uiteindelijk gerechtigde van ten minste 50 percent van het totale aantal stemmen en de waarde van de aandelen van het lichaam in eigendom hebben (en ten minste 50 percent van elke „disproportionate class of shares”) en
+   - i. op ten minste de helft van de dagen van een belastingjaar gekwalificeerde personen als bedoeld in letter a, b, c onder i), of letter d of e van dit lid, onmiddellijk of middellijk, aandelen of een ander belang als uiteindelijk gerechtigde van ten minste 50 percent van het totale aantal stemmen en de waarde van de aandelen van het lichaam in eigendom hebben (en ten minste 50 percent van elke „disproportionate class of shares”) en
 
-- ii. minder dan 50 percent van het bruto inkomen in dat belastingjaar van die persoon onmiddellijk of middellijk wordt betaald aan of toekomt aan personen die geen inwoner zijn van een van beide Staten in de vorm van betalingen die aftrekbaar zijn voor de belastingen waarop deze Overeenkomst van toepassing is in de Staat waarvan de persoon inwoner is (met uitzondering van betalingen als willekeurige derde verricht bij de normale bedrijfsuitoefening ter zake van diensten of lichamelijke zaken en betalingen in het kader van financiële verplichtingen aan een bank op voorwaarde dat indien de bank geen inwoner is van een van de Staten een dergelijke betaling toerekenbaar is aan een vaste inrichting van die bank gelegen in een van de Staten).
+   - ii. minder dan 50 percent van het bruto inkomen in dat belastingjaar van die persoon onmiddellijk of middellijk wordt betaald aan of toekomt aan personen die geen inwoner zijn van een van beide Staten in de vorm van betalingen die aftrekbaar zijn voor de belastingen waarop deze Overeenkomst van toepassing is in de Staat waarvan de persoon inwoner is (met uitzondering van betalingen als willekeurige derde verricht bij de normale bedrijfsuitoefening ter zake van diensten of lichamelijke zaken en betalingen in het kader van financiële verplichtingen aan een bank op voorwaarde dat indien de bank geen inwoner is van een van de Staten een dergelijke betaling toerekenbaar is aan een vaste inrichting van die bank gelegen in een van de Staten).
 
 3. Niettegenstaande het feit dat een lichaam dat inwoner is van een van de Staten niet als gekwalificeerde persoon kan worden aangemerkt, is dit lichaam toch gerechtigd tot alle voordelen uit deze Overeenkomst die anderszins worden toegekend aan inwoners van een Staat ter zake van een inkomensbestanddeel indien het lichaam voldoet aan alle andere omschreven voorwaarden voor het verkrijgen van dergelijke voordelen en:
 
@@ -627,7 +603,7 @@ maar bedraagt in geen geval meer dan het bedrag van de vermindering die zou zijn
 
 - b. minder dan 50 percent van het bruto inkomen van het lichaam voor het belastingjaar waarin het inkomensbestanddeel afkomstig is onmiddellijk of middellijk wordt betaald aan of toekomt aan personen die geen gelijkwaardige gerechtigden (equivalent beneficiaries) zijn in de vorm van betalingen die aftrekbaar zijn voor de belastingen waarop deze Overeenkomst van toepassing is in de Staat waarvan het lichaam inwoner is (met uitzondering van betalingen als willekeurige derde verricht bij de normale bedrijfsuitoefening ter zake van diensten of lichamelijke zaken en betalingen in het kader van financiële verplichtingen aan een bank op voorwaarde dat indien de bank geen inwoner is van een van de Staten een dergelijke betaling toerekenbaar is aan een vaste inrichting van die bank gelegen in een van de Staten).
 
-- a. Niettegenstaande het feit dat een inwoner van een van de Staten niet als gekwalificeerde persoon kan worden aangemerkt, is deze inwoner toch gerechtigd tot alle voordelen uit deze Overeenkomst die anderszins worden toegekend aan inwoners van een Staat ter zake van een inkomensbestanddeel dat afkomstig is uit de andere Staat, indien de inwoner betrokken is bij het actief uitoefenen van bedrijfsmatige activiteiten in de eerstbedoelde Staat (anders dan activiteiten die bestaan uit het beleggen of het beheren van beleggingen voor eigen rekening van die inwoner, tenzij deze activiteiten bank- en verzekeringsactiviteiten of effectenhandel betreffen, welke door een bank of verzekeringsmaatschappij of een geregistreerd effectenbedrijf worden uitgeoefend), de voordelen verkregen uit de andere Staat zijn behaald in samenhang met, of bijkomstig zijn tot, die bedrijfsmatige activiteiten en die inwoner voldoet aan alle andere omschreven voorwaarden voor het verkrijgen van dergelijke voordelen.
+4. - a. Niettegenstaande het feit dat een inwoner van een van de Staten niet als gekwalificeerde persoon kan worden aangemerkt, is deze inwoner toch gerechtigd tot alle voordelen uit deze Overeenkomst die anderszins worden toegekend aan inwoners van een Staat ter zake van een inkomensbestanddeel dat afkomstig is uit de andere Staat, indien de inwoner betrokken is bij het actief uitoefenen van bedrijfsmatige activiteiten in de eerstbedoelde Staat (anders dan activiteiten die bestaan uit het beleggen of het beheren van beleggingen voor eigen rekening van die inwoner, tenzij deze activiteiten bank- en verzekeringsactiviteiten of effectenhandel betreffen, welke door een bank of verzekeringsmaatschappij of een geregistreerd effectenbedrijf worden uitgeoefend), de voordelen verkregen uit de andere Staat zijn behaald in samenhang met, of bijkomstig zijn tot, die bedrijfsmatige activiteiten en die inwoner voldoet aan alle andere omschreven voorwaarden voor het verkrijgen van dergelijke voordelen.
 
 - b. Indien een inwoner van een van de Staten of een van de met hem verbonden ondernemingen een bedrijfsmatige activiteit in de andere Staat uitoefent waaruit een inkomensbestanddeel voortvloeit, geldt letter a van dit lid ten aanzien van dat inkomensbestanddeel uitsluitend indien de bedrijfsmatige activiteiten in de eerstbedoelde Staat wezenlijk zijn in relatie tot de bedrijfsmatige activiteiten in de andere Staat.
 
@@ -663,49 +639,49 @@ Indien aan de vereisten met betrekking tot het bruto-inkomen van de letters b, c
 
 - a. De uitdrukking „erkende effectenbeurs” betekent:
 
-- i. het NASDAQ-systeem en elke effectenbeurs die voor de toepassing van de Securities Exchange Act van 1934 bij de Security and Exchange Commission in de Verenigde Staten is geregistreerd als een nationale beurs op het gebied van waardepapieren;
+   - i. het NASDAQ-systeem en elke effectenbeurs die voor de toepassing van de Securities Exchange Act van 1934 bij de Security and Exchange Commission in de Verenigde Staten is geregistreerd als een nationale beurs op het gebied van waardepapieren;
 
-- ii. de Amsterdamse effectenbeurs en elke andere effectenbeurs die onder toezicht staat van de Autoriteit Financiële Markten (of zijn opvolger) in Nederland;
+   - ii. de Amsterdamse effectenbeurs en elke andere effectenbeurs die onder toezicht staat van de Autoriteit Financiële Markten (of zijn opvolger) in Nederland;
 
-- iii. De Ierse effectenbeurs, de Zwitserse effectenbeurs en de effectenbeurzen van Brussel, Frankfurt, Hamburg, Johannesburg, Londen, Madrid, Milaan, Parijs, Stockholm, Sydney, Tokio, Toronto en Wenen; en
+   - iii. De Ierse effectenbeurs, de Zwitserse effectenbeurs en de effectenbeurzen van Brussel, Frankfurt, Hamburg, Johannesburg, Londen, Madrid, Milaan, Parijs, Stockholm, Sydney, Tokio, Toronto en Wenen; en
 
-- iv. elke andere effectenbeurs die de bevoegde autoriteiten voor de toepassing van dit artikel erkennen;
+   - iv. elke andere effectenbeurs die de bevoegde autoriteiten voor de toepassing van dit artikel erkennen;
 
 - b.
 
-- i. De uitdrukking „voornaamste soort aandelen” betekent de gewone of normale aandelen van het lichaam, mits die soort aandelen de meerderheid van het totale aantal stemmen in en van de waarde van het lichaam vertegenwoordigt. Indien geen enkele soort gewone of normale aandelen de meerderheid van het totale aantal stemmen in en van de waarde van het lichaam vertegenwoordigt, dan betekent de uitdrukking „voornaamste soort aandelen” die soort of die soorten aandelen die in totaal een meerderheid van het totale aantal stemmen in en van de waarde van de lichaam vertegenwoordigen.
+   - i. De uitdrukking „voornaamste soort aandelen” betekent de gewone of normale aandelen van het lichaam, mits die soort aandelen de meerderheid van het totale aantal stemmen in en van de waarde van het lichaam vertegenwoordigt. Indien geen enkele soort gewone of normale aandelen de meerderheid van het totale aantal stemmen in en van de waarde van het lichaam vertegenwoordigt, dan betekent de uitdrukking „voornaamste soort aandelen” die soort of die soorten aandelen die in totaal een meerderheid van het totale aantal stemmen in en van de waarde van de lichaam vertegenwoordigen.
 
-- ii. De uitdrukking „aandelen” omvat certificaten en trustcertificaten daarvan;
+   - ii. De uitdrukking „aandelen” omvat certificaten en trustcertificaten daarvan;
 
 - c. De uitdrukking „disproportionate class of shares” betekent elke soort aandelen in een lichaam dat inwoner is van een van de Staten die de aandeelhouder recht geeft op een onevenredig hoger aandeel, door middel van dividend, afkoopsommen of op andere wijze, in het inkomen dat in het andere Staat wordt gegenereerd door bepaalde activa of activiteiten van het lichaam;
 
 - d. Een lichaam heeft geen reële aanwezigheid in de Staat waarvan het inwoner is indien:
 
-- i.
+   - i.
 
-- A. het totale volume van de handel in aandelen van een dergelijk lichaam op erkende effectenbeurzen die in de andere Staat zijn gevestigd groter is dan het totale volume van de handel in die aandelen op erkende effectenbeurzen in de primaire economische zone van dat lichaam, of
+      - A. het totale volume van de handel in aandelen van een dergelijk lichaam op erkende effectenbeurzen die in de andere Staat zijn gevestigd groter is dan het totale volume van de handel in die aandelen op erkende effectenbeurzen in de primaire economische zone van dat lichaam, of
 
-- B. de aandelen van het lichaam worden niet verhandeld op enige erkende effectenbeurs die gevestigd is in de primaire economische zone van de Staat waarvan het lichaam inwoner is, of de handel op een dergelijke effectenbeurs of op dergelijke effectenbeurzen minder bedraagt dan 10 percent van de totale wereldwijde handel in aandelen van een dergelijk lichaam; en
+      - B. de aandelen van het lichaam worden niet verhandeld op enige erkende effectenbeurs die gevestigd is in de primaire economische zone van de Staat waarvan het lichaam inwoner is, of de handel op een dergelijke effectenbeurs of op dergelijke effectenbeurzen minder bedraagt dan 10 percent van de totale wereldwijde handel in aandelen van een dergelijk lichaam; en
 
-- ii. de voornaamste plaats van waaruit het lichaam wordt geleid en bestuurd niet ligt in de Staat waarvan het lichaam inwoner is;
+   - ii. de voornaamste plaats van waaruit het lichaam wordt geleid en bestuurd niet ligt in de Staat waarvan het lichaam inwoner is;
 
 - e. Bij de vaststellingen bedoeld in letter (d),
 
-- i. mag, voor de toepassing van onderdeel i) daarvan, het lichaam gebruik maken van de gemiddelde handelsvolumes van de drie voorafgaande jaren;
+   - i. mag, voor de toepassing van onderdeel i) daarvan, het lichaam gebruik maken van de gemiddelde handelsvolumes van de drie voorafgaande jaren;
 
-- ii. omvat de primaire economische zone van Nederland de lidstaten van de Europese Unie of van de Europese Economische Ruimte. De primaire economische zone van de Verenigde Staten omvat de staten die partij zijn bij de Noord Amerikaanse Vrijhandels Associatie; en
+   - ii. omvat de primaire economische zone van Nederland de lidstaten van de Europese Unie of van de Europese Economische Ruimte. De primaire economische zone van de Verenigde Staten omvat de staten die partij zijn bij de Noord Amerikaanse Vrijhandels Associatie; en
 
-- iii. ligt de voornaamste plaats van waaruit het lichaam wordt geleid en bestuurd uitsluitend in de Staat waarvan het lichaam inwoner is indien de „executive officers and senior management employees” hun dagelijkse verantwoordelijkheden voor strategische, financiële en operationele beleidsbeslissingen voor het lichaam (inclusief haar directe en indirecte deelnemingen) meer in die Staat uitoefenen dan in enige andere Staat en de staven meer van de dagelijkse activiteiten die nodig zijn om die beslissingen voor te bereiden en te maken verrichten in die Staat dan in enige andere Staat.
+   - iii. ligt de voornaamste plaats van waaruit het lichaam wordt geleid en bestuurd uitsluitend in de Staat waarvan het lichaam inwoner is indien de „executive officers and senior management employees” hun dagelijkse verantwoordelijkheden voor strategische, financiële en operationele beleidsbeslissingen voor het lichaam (inclusief haar directe en indirecte deelnemingen) meer in die Staat uitoefenen dan in enige andere Staat en de staven meer van de dagelijkse activiteiten die nodig zijn om die beslissingen voor te bereiden en te maken verrichten in die Staat dan in enige andere Staat.
 
 - f. een gelijkwaardige gerechtigde („equivalent beneficiary”) is een inwoner van een lidstaat van de Europese Unie of van de Europese Economische Ruimte, of van een Staat die partij is bij de Noord Amerikaanse Vrijhandels Associatie, evenwel uitsluitend indien die inwoner:
 
-- i.
+   - i.
 
-- A. gerechtigd zou zijn tot alle voordelen van een algemene overeenkomst tot het vermijden van dubbele belasting tussen enige lidstaat van de Europese Unie of van de Europese Economische Ruimte, of van een Staat die deel uitmaakt van de Noord Amerikaanse Vrijhandels Associatie en de Staat ter zake waarvan aanspraak wordt gemaakt op de voordelen van deze Overeenkomst op grond van bepalingen die overeenkomen met letter a, b, c onder i, d of e van het tweede lid van dit artikel, met dien verstande dat indien een dergelijke overeenkomst geen algemeen artikel inzake beperkingen van voordelen bevat, die persoon wordt aangemerkt als een gekwalificeerde persoon op grond van letter a, b, c onder i, d of e van het tweede lid van dit artikel indien die persoon op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=II&artikel=4&z=2004-12-28&g=2004-12-28) (Inwoner) van deze Overeenkomst inwoner zou zijn van een van de Staten; en
+      - A. gerechtigd zou zijn tot alle voordelen van een algemene overeenkomst tot het vermijden van dubbele belasting tussen enige lidstaat van de Europese Unie of van de Europese Economische Ruimte, of van een Staat die deel uitmaakt van de Noord Amerikaanse Vrijhandels Associatie en de Staat ter zake waarvan aanspraak wordt gemaakt op de voordelen van deze Overeenkomst op grond van bepalingen die overeenkomen met letter a, b, c onder i, d of e van het tweede lid van dit artikel, met dien verstande dat indien een dergelijke overeenkomst geen algemeen artikel inzake beperkingen van voordelen bevat, die persoon wordt aangemerkt als een gekwalificeerde persoon op grond van letter a, b, c onder i, d of e van het tweede lid van dit artikel indien die persoon op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=II&artikel=4&z=2004-12-28&g=2004-12-28) (Inwoner) van deze Overeenkomst inwoner zou zijn van een van de Staten; en
 
-- B. ten aanzien van de inkomsten als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=10&z=2004-12-28&g=2004-12-28) (Dividenden), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=11&z=2004-12-28&g=2004-12-28) (Belastingheffing van vaste inrichtingen), [12](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=12&z=2004-12-28&g=2004-12-28) (Interest) of [13](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=13&z=2004-12-28&g=2004-12-28) (Royalty's) van deze Overeenkomst, op grond van een dergelijke overeenkomst gerechtigd zou zijn tot een belastingtarief ten aanzien van een afzonderlijke soort inkomsten waarvoor op grond van deze Overeenkomst aanspraak wordt gemaakt op voordelen, dat ten minste zo laag is als het tarief dat van toepassing is op grond van deze Overeenkomst; of
+      - B. ten aanzien van de inkomsten als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=10&z=2004-12-28&g=2004-12-28) (Dividenden), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=11&z=2004-12-28&g=2004-12-28) (Belastingheffing van vaste inrichtingen), [12](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=12&z=2004-12-28&g=2004-12-28) (Interest) of [13](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=13&z=2004-12-28&g=2004-12-28) (Royalty's) van deze Overeenkomst, op grond van een dergelijke overeenkomst gerechtigd zou zijn tot een belastingtarief ten aanzien van een afzonderlijke soort inkomsten waarvoor op grond van deze Overeenkomst aanspraak wordt gemaakt op voordelen, dat ten minste zo laag is als het tarief dat van toepassing is op grond van deze Overeenkomst; of
 
-- ii. inwoner is van een Staat die een gekwalificeerde persoon is op grond van letter a, b, c onder i, d of e van het tweede lid van dit artikel. Met het oog op de toepassing van het derde lid van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=10&z=2004-12-28&g=2004-12-28) (Dividenden) wordt, teneinde vast te stellen of een persoon die, onmiddellijk of middellijk, aandelen bezit in een lichaam dat aanspraak maakt op de voordelen van deze overeenkomst een gelijkwaardige gerechtigde („equivalent beneficiary”) is, een dergelijk persoon geacht hetzelfde stemrecht te hebben in het lichaam dat de dividenden uitkeert als het lichaam dat aanspraak maakt op de voordelen in een dergelijk lichaam;
+   - ii. inwoner is van een Staat die een gekwalificeerde persoon is op grond van letter a, b, c onder i, d of e van het tweede lid van dit artikel. Met het oog op de toepassing van het derde lid van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=10&z=2004-12-28&g=2004-12-28) (Dividenden) wordt, teneinde vast te stellen of een persoon die, onmiddellijk of middellijk, aandelen bezit in een lichaam dat aanspraak maakt op de voordelen van deze overeenkomst een gelijkwaardige gerechtigde („equivalent beneficiary”) is, een dergelijk persoon geacht hetzelfde stemrecht te hebben in het lichaam dat de dividenden uitkeert als het lichaam dat aanspraak maakt op de voordelen in een dergelijk lichaam;
 
 - g. ten aanzien van dividenden, interest en royalty's afkomstig uit Nederland waartoe een lichaam dat inwoner is van de Verenigde Staten uiteindelijk gerechtigd is, wordt een lichaam dat inwoner is van een lidstaat van de Europese Unie behandeld alsof voldaan wordt aan de vereisten van letter f, onder i)B) teneinde vast te stellen of een dergelijke inwoner van de Verenigde Staten op grond van dit lid aanspraak kan maken op voordelen indien een betaling van dividenden, interest of royalty's afkomstig uit Nederland direct aan een dergelijke inwoner van een lidstaat van de Europese Unie wordt betaald vrijgesteld zou zijn van enige belastingheffing op grond van een richtlijn van de Europese Unie, niettegenstaande het feit dat een overeenkomst met betrekking tot belastingen naar het inkomen tussen Nederland en die andere lidstaat van de Europese Unie zou voorzien in een hoger belastingtarief ten aanzien van dergelijke betalingen dan het belastingtarief dat van toepassing is op een dergelijk lichaam dat inwoner is van de Verenigde Staten, op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=10&z=2004-12-28&g=2004-12-28) (Dividenden), [12](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=12&z=2004-12-28&g=2004-12-28) (Interest), of [13](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=13&z=2004-12-28&g=2004-12-28) (Royalty's) van deze Overeenkomst;
 
@@ -799,7 +775,7 @@ De bevoegde autoriteiten kunnen elkaar tevens raadplegen voor de vermijding van 
 
 4. De hulp als bedoeld in dit artikel wordt niet verleend ten aanzien van de staatsburgers, rechtspersonen of andere entiteiten van de aangezochte Staat, behalve in die gevallen waarin in onderling overleg tussen de bevoegde autoriteiten van de Staten is vastgesteld dat de vrijstelling die of het verlaagde tarief van de belasting dat op grond van deze Overeenkomst aan die staatsburgers, rechtspersonen en andere entiteiten is toegekend, is genoten door personen die niet tot die voordelen gerechtigd zijn.
 
-##### Artikel 32. Beperking van de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=30&z=2004-12-28&g=2004-12-28) en [31](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=31&z=2004-12-28&g=2004-12-28)
+##### Artikel 32. Beperking van de artikelen 30 en 31
 
 1. In geen geval worden de bepalingen van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=30&z=2004-12-28&g=2004-12-28) (Uitwisseling van inlichtingen en administratieve bijstand) en [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=31&z=2004-12-28&g=2004-12-28) (Hulp en bijstand bij invordering) zo uitgelegd dat zij een van de Staten de verplichting opleggen:
 
@@ -871,336 +847,14 @@ De bepalingen van het eerste lid zijn evenmin van toepassing ten aanzien van div
 
 Deze Overeenkomst blijft van kracht totdat zij door een van de Staten wordt beëindigd. Elk van de Partijen kan de Overeenkomst langs diplomatieke weg beëindigen door ten minste zes maanden voor het einde van enig kalenderjaar na het verstrijken van een tijdvak van vijf jaar na de datum van haar inwerkingtreding een kennisgeving van beëindiging te doen. In dat geval houdt de Overeenkomst op van toepassing te zijn voor belastingjaren en -tijdvakken die aanvangen, of in het geval van aan de bron geheven belastingen, voor betalingen die zijn gedaan, na het einde van het kalenderjaar waarin de kennisgeving van beëindiging is gedaan.
 
-##### I. Met betrekking tot het eerste lid van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=II&artikel=4&z=2004-12-28&g=2004-12-28) (Inwoner)
-
-- a. Het is wel te verstaan dat voor de toepassing van de Overeenkomst de Regering van een van de Staten, de staatkundige onderdelen of de plaatselijke publiekrechtelijke lichamen daarvan, dienen te worden beschouwd als inwoners van die Staat.
-
-- b. Het is wel te verstaan dat een lichaam dat ingevolge het nationale recht van een Staat inwoner is of zou zijn van die Staat voor de uitvoering van de Overeenkomst niet wordt behandeld als inwoner van die Staat indien het ingevolge een verdrag inzake belastingen naar het inkomen tussen die Staat en een derde staat wordt behandeld als inwoner van de derde staat.
-
-##### II. Met betrekking tot het vierde lid van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=II&artikel=4&z=2004-12-28&g=2004-12-28) (Inwoner)
-
-Het is wel te verstaan dat, wanneer een lichaam inwoner is van Nederland ingevolge het [eerste lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=II&artikel=4&z=2004-12-28&g=2004-12-28) (Inwoner) en dat lichaam, in verband met de toepassing van artikel 269B van de Internal Revenue Code, ingevolge het eerste lid van artikel 4 ook inwoner van de Verenigde Staten is, voor de toepassing van deze Overeenkomst onderwerp zal zijn van een onderlinge overlegprocedure geldt zoals nedergelegd in het vierde lid van artikel 4.
-
-##### III. Met betrekking tot [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=7&z=2004-12-28&g=2004-12-28) (Winst uit onderneming)
-
-Het is wel te verstaan dat, indien een onderneming van een van de Staten een bedrijf uitoefent in de andere Staat door middel van een aldaar gevestigde vaste inrichting voor de toepassing van het eerste en tweede lid van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=7&z=2004-12-28&g=2004-12-28) (Winst uit onderneming), de voordelen van die vaste inrichtring niet worden bepaald op basis van het totaal van de voordelen van de onderneming, doch slechts op basis van dat deel van de voordelen van de onderneming dat aan de werkelijke activiteiten van de vaste inrichting met betrekking tot die bedrijfsuitoefening is toe te rekenen. In het bijzonder bij contracten betreffende het toezicht op, de levering, installatie of constructie van nijverheids- en handelsuitrusting en wetenschappelijke uitrusting of gebouwen, alsmede bij openbare werken, worden, indien de onderneming een vaste inrichting heeft, de voordelen van die vaste inrichting niet bepaald op basis van het totale bedrag van het contract, maar alleen dat deel van het contract dat werkelijk wordt uitgevoerd door de vaste inrichting. De voordelen die betrekking hebben op dat deel van het contract dat wordt uitgevoerd door het hoofdkantoor van de onderneming, worden niet belast in de Staat waar de vaste inrichting is gevestigd.
-
-##### IV. Met betrekking tot [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=9&z=2004-12-28&g=2004-12-28) (Gelieerde ondernemingen), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=12&z=2004-12-28&g=2004-12-28) (Interest) en [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=29&z=2004-12-28&g=2004-12-28) (Regeling voor onderling overleg)
-
-Niets in het eerste lid van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=9&z=2004-12-28&g=2004-12-28) (Gelieerde ondernemingen) of in het vijfde lid van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=12&z=2004-12-28&g=2004-12-28) (Interest) belet een van beide Staten het passende bedrag aan in aftrek toegelaten interest van een onderneming vast te stellen, niet alleen aan de hand van het bedrag van de interest met betrekking tot een bepaalde schuldvordering maar tevens aan de hand van het totale bedrag van de schuldenlast van de onderneming. In het kader van de regeling voor onderling overleg van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=29&z=2004-12-28&g=2004-12-28) (Regeling voor onderling overleg), wordt het bedrag aan in aftrek toegelaten interest vastgesteld op een wijze die in overeenstemming is met de beginselen van het eerste lid van artikel 9, in aanmerking nemend de voorwaarden in de handelsbetrekkingen of financiële betrekkingen die bestaan tussen onafhankelijke ondernemingen die als willekeurige derden transacties aangaan. Die beginselen zijn uitgebreider onderzocht en toegelicht in OESO-publicaties betreffende „thin capitalization”.
-
-##### V. Met betrekking tot [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=9&z=2004-12-28&g=2004-12-28) (Gelieerde ondernemingen) en [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=29&z=2004-12-28&g=2004-12-28) (Regeling voor onderling overleg)
-
-In overeenstemming met het derde lid van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=29&z=2004-12-28&g=2004-12-28) (Regeling voor onderling overleg) trachten de bevoegde autoriteiten in onderling overleg elk geval van dubbele belasting te regelen dat zich voordoet door de toerekening van voordelen, aftrekposten, verrekeningen of tegemoetkomingen veroorzaakt door de toepassing van de nationale wetgeving betreffende „thin capitalization, „earnings stripping” of verrekenprijzen of van andere bepalingen die mogelijk aanleiding kunnen zijn tot dubbele belastingheffing. In deze procedure voor onderling overleg wordt de juiste toerekening van voordelen, aftrekposten, verrekeningen of tegemoetkomingen op basis van deze Overeenkomst bepaald op een wijze die in overeenstemming is met de beginselen van het eerste lid van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=9&z=2004-12-28&g=2004-12-28) (Gelieerde ondernemingen), in aanmerking nemend de voorwaarden in de handelsbetrekkingen of financiële betrekkingen die bestaan tussen onafhankelijke ondernemingen die als willekeurige derden transacties aangaan. In overeenstemming met de regelingen voor onderling overleg van andere overeenkomsten betreffende inkomstenbelasting, met inbegrip van die welke door beide Staten gesloten zijn, kan een procedure op basis van artikel 29 betreffende een aanpassing van de toerekening van inkomen, aftrekposten, verrekeningen en tegemoetkomingen door een van de Staten hetzij een overeenkomstige aanpassing door de andere Staat, hetzij een gehele of gedeeltelijke herziening door de eerstbedoelde Staat van diens oorspronkelijke aanpassing tot gevolg hebben.
-
-##### VI. Met betrekking tot het [tweede lid, onderdeel a, en het zesde lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=10&z=2004-12-28&g=2004-12-28) (Dividenden)
-
-Het is wel te verstaan dat een uiteindelijk gerechtigde van de dividenden, die depotbewijzen of trustcertificaten houdt, welke het bezit als uiteindelijk gerechtigde van de aandelen in plaats van aandelen zelf in het desbetreffende lichaam aantonen, ook een beroep kan doen op de voordelen van het [tweede lid, onderdeel a, van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=10&z=2004-12-28&g=2004-12-28) (Dividenden). Bovendien is het wel te verstaan, dat ingeval een persoon aandelen (of andere rechten waarvan de voordelen voor de belastingheffing op dezelfde wijze worden behandeld als inkomsten uit aandelen) uitleent, waarbij de lener zich verplicht tot het betalen van een bedrag gelijk aan enig uitgekeerd dividend ten aanzien van de aandelen of andere uitgeleende rechten gedurende de looptijd van die lening, zulk een persoon met het oog op de toepassing van artikel 10 voor elk zodanig bedrag wordt behandeld als de uiteindelijk gerechtigde van de betaalde dividenden ten aanzien van zulke aandelen of andere rechten.
-
-##### VII. Met betrekking tot [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=10&z=2004-12-28&g=2004-12-28) (Dividenden) en [het achtste lid, onderdeel b, onder ii, van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen)
-
-Voor de toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=10&z=2004-12-28&g=2004-12-28) en van het [achtste lid, onderdeel b, onder ii, van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen) is het wel te verstaan dat depotbewijzen of trustcertificaten van aandelen worden aangemerkt als omvattende de rechten die verbonden zijn aan de aandelen die zij vervangen, met inbegrip van het daaruit voortvloeiende stemrecht.
-
-##### VIII. Met betrekking tot het derde lid van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=10&z=2004-12-28&g=2004-12-28) (Dividenden), het [derde lid van artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=11&z=2004-12-28&g=2004-12-28) (Belastingheffing van vaste inrichtingen) en het [zevende lid van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen)
-
-Het is wel te verstaan dat een inwoner die in aanmerking zou komen voor voordelen uit hoofde van het [derde lid, onderdeel a, van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=10&z=2004-12-28&g=2004-12-28) (Dividenden) of [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=11&z=2004-12-28&g=2004-12-28) (Belastingheffing van vaste inrichtingen), maar daar niet voor in aanmerking komt vanwege het feit dat hij de desbetreffende aandelen heeft verworven op of na 1 oktober 1998, niet wordt belet de bevoegde autoriteit uit hoofde van het derde lid, onderdeel d, van dat artikel te verzoeken om een vaststelling, mits hij tevens niet voldoet aan de vereisten van het derde lid, onderdelen b en c.
-
-##### IX. Met betrekking tot het eerste lid van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=14&z=2004-12-28&g=2004-12-28) (Vermogenswinsten)
-
-De Verenigde Staten bevestigen dat bij het vaststellen of voor de toepassing van het eerste lid van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=14&z=2004-12-28&g=2004-12-28) (Vermogenswinsten) de activa van een rechtspersoon die inwoner is van de Verenigde Staten al dan niet, middellijk of onmiddellijk, voor het grootste deel bestaan uit in de Verenigde Staten gelegen onroerende zaken, en of de aandelen van zulk een rechtspersoon, al dan niet een „United States real property interest” vormen, rekening zal worden gehouden met de redelijke waarde in het economisch verkeer van alle activa van de rechtspersoon, met inbegrip van de onlichamelijke bedrijfsactiva, zoals goodwill, ongeacht of deze voor belastingdoeleinden als activum op de balans is opgenomen, de going-concernwaarde en de intellectuele eigendom.
-
-##### X. Met betrekking tot het [achtste lid van artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=14&z=2004-12-28&g=2004-12-28) (Vermogenswinsten)
-
-Het is wel te verstaan dat het [achtste lid van artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=14&z=2004-12-28&g=2004-12-28) (Vermogenswinsten) niet van toepassing is op vervreemding van eigendommen van een inwoner van een van de Staten, indien de belasting die anders bij zulk een vervreemding door de andere Staat zou zijn geheven niet redelijkerwijs op een later tijdstip geheven of ingevorderd kan worden. Zo zou een buitenlandse rechtspersoon die ingevolge de nationale wetgeving van de Verenigde Staten aangemerkt wordt als een „United States real property holding corporation” onder sommige omstandigheden worden belast indien deze in het kader van een reorganisatie activa overbrengt naar een rechtspersoon van de Verenigde Staten. In zulk een geval kan, uitsluitend indien de aandeelhouders van zulk een buitenlandse rechtspersoon in het kader van een „closing agreement” instemmen met het verminderen van de waardegrondslag (indien en voorzover daar ruimte voor is) de belasting die anders zou zijn geheven over zulk een vervreemding redelijkerwijs worden geheven of ingevorderd op een later tijdstip.
-
-##### XI. Met betrekking tot het [vierde lid van artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=19&z=2004-12-28&g=2004-12-28) (Pensioenen, alimentatieuitkeringen)
-
-Het is wel te verstaan dat met de uitdrukking „andere publiekrechtelijke pensioenen”, zoals gebezigd in het [vierde lid van artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=19&z=2004-12-28&g=2004-12-28) (Pensioenen, lijfrenten, alimentatieuitkeringen), is bedoeld te verwijzen naar de „United States tier 1 Railroad Retirement”-uitkeringen.
-
-##### XII. Met betrekking tot het [zevende, achtste, negende en tiende lid van artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=19&z=2004-12-28&g=2004-12-28) (Pensioenen, lijfrenten, alimentatieuitkeringen)
-
-Het is wel te verstaan dat onder de uitdrukking „vrijgesteld pensioenfonds" tevens worden verstaan de regelingen die voor de toepassing van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=35&z=2004-12-28&g=2004-12-28) (Vrijgestelde pensioenfondsen) worden aangemerkt als vrijgestelde pensioenfondsen.
-
-##### XIII. Met betrekking tot het elfde lid van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=19&z=2004-12-28&g=2004-12-28) (Pensioenen, lijfrenten, alimentatieuitkeringen)
-
-Het is wel te verstaan dat de bevoegde autoriteiten van beide Staten zullen overleggen teneinde regels overeen te komen ter verlichting van de administratieve lasten die voortvloeien uit de waarborgen die van de vrijgestelde pensioenfondsen verplicht zijn worden gevraagd. Met deze regels wordt tevens beoogd de administratieve lasten die kunnen voortvloeien uit het Nederlandse recht voorvan de leden of uiteindelijk gerechtigden die kunnen voortvloeien uit het Nederlandse recht te verlichten.
-
-##### XIV. Met betrekking tot het vierde lid van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=IV&artikel=24&z=2004-12-28&g=2004-12-28) (Grondslag van de belastingheffing)
-
-- a. Het is wel te verstaan dat, indien uit hoofde van het vierde lid van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=IV&artikel=24&z=2004-12-28&g=2004-12-28) (Grondslag van de belastingheffing) een inkomensbestanddeel door een Staat wordt aangemerkt als zijnde verkregen door een persoon die inwoner is van die Staat en dat inkomensbestanddeel door de andere Staat wordt aangemerkt als zijnde verkregen door een persoon die inwoner is van die andere Staat, dat lid geen van beide Staten belet het inkomensbestanddeel te belasten als inkomen van de persoon die door die Staat wordt aangemerkt als zijnde degene die het inkomensbestanddeel heeft verworven. Het onderstaande voorbeeld demonstreert de toepassing van de vorige alinea: Z, natuurlijke persoon en inwoner van Nederland, is enig aandeelhouder van Y, een Amerikaanse vennootschap met beperkte aansprakelijkheid (LLC). Y is eigenaar van X, een Amerikaanse rechtspersoon. Y heeft er krachtens de Amerikaanse entity classification rules voor gekozen belast te worden als zijnde een Amerikaanse rechtspersoon. Krachtens het Nederlandse recht wordt Y in deze situatie evenwel behandeld als een fiscaal transparante entiteit. Op datum A keert X $100 aan dividend uit aan Y. Op datum B keert Y $100 dividend uit aan Z. Krachtens het Nederlandse recht wordt het door X aan Y uitgekeerde dividend aangemerkt als zijnde ontvangen door Z. De twee Staten zijn overeengekomen dat in deze situatie de Verenigde Staten niet belet worden hun volledige fiscale bevoegdheid ten aanzien van Y uit te oefenen (die wordt aangemerkt als een Amerikaanse rechtspersoon) en dat de Verenigde Staten de dividenduitkeringen van X aan Y en van Y aan Z dienovereenkomstig in overeenstemming met hun nationale recht mogen belasten. Ten aanzien van de dividenduitkering van Y aan Z, wordt het belastingtarief dat op het dividend van toepassing is bepaald in overeenstemming met [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=10&z=2004-12-28&g=2004-12-28).
-
-- b. De bevoegde autoriteit van een Staat kan de voordelen van de Overeenkomst ten aanzien van een inkomensbestanddeel toekennen aan een inwoner van de andere Staat, hoewel het uit hoofde van de wetten van die andere Staat niet wordt aangemerkt als inkomen van die inwoner in gevallen waarin het inkomen zou zijn vrijgesteld van belasting indien het zou zijn aangemerkt als het inkomen van die inwoner. Het onderstaande voorbeeld illustreert de toepassing van de vorige alinea: Z is een vrijgesteld pensioenfonds in de zin van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=35&z=2004-12-28&g=2004-12-28) (Vrijgestelde pensioenfondsen) en voor de toepassing van de Overeenkomst inwoner van Nederland. Z maakt deel uit van Y, een Amerikaanse vennootschap met beperkte aansprakelijkheid die er vanwege Amerikaanse fiscale doeleinden voor heeft gekozen als fiscaal transparant te worden behandeld. Vanwege bepaalde kenmerken is Y niet-transparant volgens Nederlands recht. Y bezit aandelen in een aantal Amerikaanse lichamen die binnenkort dividend uitkeren. Volgens de algemene regel van het vierde lid van artikel 24 (Grondslag van de belastingheffing), zou Z geen recht hebben op de voordelen overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=10&z=2004-12-28&g=2004-12-28) (Dividenden), aangezien de inkomsten verworven door Y door Nederland niet worden aangemerkt als de inkomsten van Z. De bevoegde Amerikaanse autoriteit kan evenwel bepalen dat Z wel recht heeft op de voordelen, aangezien Z ook vrijgesteld zou zijn van belastingen naar het inkomen, indien zou worden aangenomen dat Z de inkomsten wel heeft verworven.
-
-##### XV. Met betrekking tot [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen)
-
-Het is wel te verstaan dat met de uitdrukking „bruto-inkomen” wordt bedoeld de totale inkomsten uit de hoofdwerkzaamheden verworven door een inwoner van een Staat minus de directe kosten gemoeid met het verwerven van die inkomsten.
-
-##### XVI. Met betrekking tot het [tweede lid, onderdeel f, en het derde lid van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen)
-
-Het is wel te verstaan dat het bewijs dat een in Nederland gevestigde beleggingsinstelling (beleggingsinstelling in de zin van artikel 28 van de Wet op de vennootschapsbelasting 1969) heeft van het aantal van haar in Nederland gevestigde aandeelhouders – natuurlijke personen en rechtspersonen – als gevolg van de procedure die zulk een in Nederlandse gevestigde beleggingsinstelling toepast bij het verzoeken om een teruggaaf van op haar buitenlands dividend en interest ingehouden belasting op grond van het eerste lid, onderdeel b, van artikel 28 van de Wet op de vennootschapsbelasting 1969, door zulk een Nederlandse beleggingsinstelling kan worden gebruikt om aan te tonen dat zij voldoet aan de vereisten van het tweede lid, onderdeel f, onderscheidenlijk het [derde lid van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen).
-
-##### XVII. Met betrekking tot het [tweede en vijfde lid van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen)
-
-De bevoegde autoriteiten kunnen, in wederzijds overleg en niettegenstaande de bepalingen van deze leden overgangsregels vaststellen voor nieuw opgerichte bedrijfsmatige activiteiten, bedrijfsonderdelen of hoofdkantoren.
-
-##### XVIII. Met betrekking tot het derde lid van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen)
-
-Het volgende voorbeeld illustreert de toepassing van het derde lid van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28). Een in Nederland gevestigd lichaam Y bezit alle aandelen van Z, een in de Verenigde Staten gevestigd lichaam.
-
-Y is 100% eigendom van X, een lichaam gevestigd in het Verenigd Koninkrijk, dat niet in aanmerking komt voor alle voordelen van het Brits-Amerikaanse verdrag inzake inkomstenbelasting, maar mogelijk wel voor de voordelen met betrekking tot bepaalde inkomensbestanddelen op grond van het „active trade or business"-criterium uit het Brits-Amerikaanse belastingverdrag.
-
-X op zijn beurt behoort volledig toe aan W, in een Frankrijk gevestigd lichaam, waarvan de aandelen in wezenlijke mate en regelmatig worden verhandeld op de Parijse effectenbeurs.
-
-Z keert een dividend uit aan Y.
-
-Ten behoeve van dit voorbeeld wordt aangenomen dat Y niet in aanmerking komt voor de voordelen van het [tweede lid van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen).
-
-Aangenomen dat voldaan wordt aan de vereisten van het [derde lid, onderdeel b, van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28), komt Y echter wel in aanmerking voor de voordelen uit het derde lid van artikel 26.
-
-Y behoort rechtstreeks toe aan X, die geen gelijkwaardig gerechtigde is in de zin van het [achtste lid, onderdeel f, van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (X komt niet in aanmerking voor alle voordelen uit het Brits-Amerikaanse belastingverdrag).
-
-Y behoort echter ook indirect toe aan W, die een gelijkwaardig gerechtigde is wat betreft de voordelen uit het [tweede lid, onderdeel a, van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=10&z=2004-12-28&g=2004-12-28), in de zin van het [achtste lid, onderdeel f, van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (omdat W een in Frankrijk gevestigd lichaam is waarvan de aandelen in wezenlijke mate en regelmatig verhandeld worden op een erkende effectenbeurs in de zin van het artikel inzake de beperking van voordelen uit het Frans-Amerikaanse verdrag inzake inkomstenbelasting).
-
-Dienovereenkomstig wordt in overeenstemming met het [tweede lid, onderdeel a, van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=10&z=2004-12-28&g=2004-12-28) op het dividend van Z aan Y bronbelasting ingehouden tegen een percentage van 5 percent.
-
-##### XIX. Met betrekking tot het [vierde lid van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen)
-
-Het is wel te verstaan dat een inkomensbestanddeel dient te worden aangemerkt als zijnde verworven „in verband met” de actieve uitoefening van bedrijfsmatige activiteiten in een Staat, indien de activiteit waarmee het inkomensbestanddeel in de andere Staat wordt verworven behoort tot een bedrijfsactiviteit die deel uitmaakt van of aanvullend is op de in de eerstbedoelde Staat verrichte bedrijfsmatige activiteiten.
-
-De bedrijfsactiviteiten in de eerstbedoelde Staat kunnen „stroomopwaarts” liggen ten opzichte van die welke plaatsvinden in de andere Staat (bijvoorbeeld de toelevering van onderdelen ten behoeve van het productieproces dat plaatsvindt in die andere Staat), „stroomafwaarts” (bijvoorbeeld de verkoop van de producten van een fabrikant die gevestigd is in de andere Staat) of „parallel” (bijvoorbeeld de verkoop in de ene Staat van dezelfde soort producten als die welke worden verkocht in het kader van de bedrijfsmatige activiteiten die worden verricht in de andere Staat). Het is wel te verstaan dat een inkomensbestanddeel afkomstig uit een Staat wordt aangemerkt als „bijkomstig voordeel” van de bedrijfsmatige activiteiten verricht in de andere Staat indien het inkomensbestanddeel niet wordt gegenereerd door een bedrijfsactiviteit die deel uitmaakt van of aanvullend is op de door de ontvanger van het inkomensbestanddeel in die andere Staat verrichte bedrijfsmatige activiteiten, maar de productie van dat bestanddeel de uitvoering van de bedrijfsmatige activiteiten in die Staat bevordert. Een voorbeeld van een dergelijk bijkomstig inkomensbestanddeel is interest uit een kortetermijninvestering van bedrijfskapitaal of een inwoner van een Staat in de vorm van effecten uitgegeven door een persoon in de andere Staat.
-
-##### XX. Met betrekking tot het [vierde lid, onderdeel a, van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen)
-
-Het is wel te verstaan dat voor de toepassing van het [vierde lid, onderdeel a, van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen) een bank alleen dan wordt geacht actief het bankbedrijf uit te oefenen als deze regelmatig stortingen ontvangt van en leningen verstrekt aan het publiek en een verzekeringsmaatschappij alleen dan wordt geacht actief het verzekeringsbedrijf uit te oefenen indien haar bruto-inkomen voornamelijk bestaat uit verzekerings- of herverzekeringspremies alsmede beleggingsinkomen dat toegerekend kan worden aan zulke premies.
-
-##### XXI. Met betrekking tot het [achtste lid van artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=12&z=2004-12-28&g=2004-12-28) (Interest) en het [vierde lid, onderdeel a, van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen)
-
-Het is voor de toepassing van het [vierde lid, onderdeel a, van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen) en het [achtste lid van artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=12&z=2004-12-28&g=2004-12-28) (Interest) wel te verstaan dat interest afkomstig uit concernfinancieringen of portfolio-beleggingen wordt aangemerkt als onderdeel van het beleggen of beheer van beleggingen.
-
-##### XXII. Met betrekking tot het [vierde lid, onderdeel b, van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen)
-
-Het is wel te verstaan dat met het wezenlijkheidsvereiste van onderdeel b beoogd wordt gevallen van „verdragshoppen" te voorkomen waarbij lichamen trachten in aanmerking te komen voor de voordelen van de Overeenkomst door middel van minimale gelieerde bedrijfsmatige activiteiten met geringe economische kosten of weinig invloed op het algehele bedrijfsresultaat.
-
-Of een bedrijfsmatige activiteit wezenlijk is voor de toepassing van dit lid wordt vastgesteld op grond van alle feiten en omstandigheden. Bij deze vaststelling wordt rekening gehouden met de relatieve omvang van de bedrijfsmatige activiteiten in elke Overeenkomstsluitende Staat (gemeten naar de waarden van de activa, inkomsten en loonkosten), de aard van de activiteiten verricht in elke Overeenkomstsluitende Staat, en, in de gevallen waarin een bedrijfsmatige activiteit wordt verricht in beide Overeenkomstsluitende Staten, de relatieve bijdragen daaraan in elke Overeenkomstsluitende Staat. Bij elke vaststelling of vergelijking wordt naar behoren rekening gehouden met de relatieve omvang van de Amerikaanse en de Nederlandse economie.
-
-Een bedrijfsmatige activiteit wordt in ieder geval evenwel aangemerkt als wezenlijk indien in het voorgaande belastingjaar of over het gemiddelde van de afgelopen drie belastingjaren de waarde van de activa, de bruto-inkomsten en de loonkosten die verband houden met de bedrijfsmatige activiteiten in de eerstbedoelde Staat ten minste 7,5 percent bedraagt van het evenredige aandeel van de inwoner (en eventuele gelieerde partijen) in respectievelijk de activa, de bruto-inkomsten en de loonkosten waarmee de inkomsten in de andere Staat zijn gegenereerd en het gemiddelde van de drie verhoudingsgetallen meer bedraagt dan 10 percent.
-
-Indien de inwoner middellijk of onmiddellijk minder dan 100 percent van een in een van beide Staten verrichte activiteit bezit, wordt alleen het evenredige belang van de inwoner in die activiteit in aanmerking genomen ten behoeve van het criterium bedoeld in deze alinea.
-
-De onderstaande voorbeelden illustreren de toepassing van het wezenlijkheidsvereiste.
-
-**Voorbeeld 1**
-
-- i. V, inwoner van een land dat geen belastingverdrag met Nederland heeft, wenst een Nederlandse financiële instelling te verwerven. Aangezien het land waar V gevestigd is geen belastingverdrag met Nederland heeft, zou over alle dividenden die gegenereerd worden via de investering 25% aan Nederlandse bronbelasting geheven worden. V richt een Amerikaanse rechtspersoon op met een kantoor in een kleine stad die investeringsadviezen geeft aan de lokale inwoners. Die Amerikaanse rechtspersoon verwerft de Nederlandse financiële instelling met behulp van kapitaal verschaft door V.
-
-- ii. De Nederlandse bron van inkomsten wordt gegenereerd met bedrijfsmatige activiteiten in Nederland die in verband staan met de adviespraktijk van de Amerikaanse moedermaatschappij. Dit voorbeeld zou echter niet beantwoorden aan het wezenlijkheidscriterium, dus op de dividenden zou 25% worden ingehouden in plaats van het percentage vervat in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=10&z=2004-12-28&g=2004-12-28) (Dividenden).
-
-**Voorbeeld 2**
-
-- i. S is een in Nederland opgezette, beheerde bankorganisatie waarover vanuit Nederland zeggenschap wordt uitgeoefend. S telt een groot aantal plaatselijke filialen en cliënten in Nederland en voldoende medewerkers voor de bancaire dienstverlening aan die cliënten. Aangezien de bancaire markt in Nederland veel concurrenten telt, heeft S echter besloten buiten Nederland filialen op te zetten teneinde zijn zakelijke activiteiten uit te breiden. S heeft daarom in diverse grote steden in de Verenigde Staten filialen opgezet teneinde daar dezelfde soort bancaire activiteiten te ontplooien als in Nederland. Na verloop van tijd zijn de Amerikaanse filialen aanzienlijk gegroeid en inmiddels qua omvang vergelijkbaar met het totaal van S' bedrijfsmatige activiteiten in Nederland.
-
-- ii. De activiteiten van S' Amerikaanse filialen zijn gerelateerd aan de bedrijfsmatige activiteiten die S verricht in Nederland. Aangezien S een groot aantal filialen en medewerkers heeft in Nederland, zijn zijn activiteiten in Nederland wezenlijk in de zin van het [vierde lid, onderdeel b, van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen).
-
-**Voorbeeld 3**
-
-NlCo, een Nederlandse rechtspersoon, bezit 100 percent van het aandelenkapitaal van USCo, een Amerikaanse rechtspersoon, en 50 percent van het aandelenkapitaal van NLSub, een Nederlandse rechtspersoon. NLCo verricht geen rechtstreekse bedrijfsmatige activiteiten. USCo en NLSub zijn actief in de muziekbranche. USCo heeft een aantal medewerkers die verantwoordelijk zijn voor het scouten van nieuwe artiesten om opnames te maken. USCo produceert tevens opnames en is verantwoordelijk voor de productie en distributie binnen de Verenigde Staten. De medewerkers van NLSub zijn verantwoordelijk voor de promotie van deze opnames in Nederland en het opzetten van een distributiestrategie voor de rest van Europa. De verkopen van Amerikaanse artiesten in Europa vormen een wezenlijke bijdrage aan het rendement van USCo.
-
-NLCo ontvangt interest en dividenden van USCo. Om deze betalingen in aanmerking te laten komen voor de voordelen uit de Overeenkomst op grond van het [vierde lid van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28), dient NLCo te worden aangemerkt als zijnde betrokken bij de actieve uitoefening van bedrijfsmatige activiteiten in Nederland.
-
-Omdat NLCo en USCo gelieerd zijn, moeten de in Nederland verrichte en aan NLCo toegeschreven activiteiten uit hoofde van het vierde lid, onderdeel b, wezenlijk zijn ten opzichte van de activiteiten verricht door USCo. NLCo zal geacht worden aan dit vereiste te voldoen indien de activa, inkomsten en loonkosten die aan NLCo toegerekend kunnen worden ten minste 10% bedragen van de activa, inkomsten en loonkosten die aan USCo kunnen worden toegerekend en per post ten minste 7,5%.
-
-Voor elk van de laatste vier afgesloten belastingjaren bedroegen de waarde van de activa, bruto inkomsten en loonkosten van deze rechtspersonen die aan de bedrijfsmatige activiteiten kunnen worden toegerekend:
-
-|   | USCo | NLSub |
-| --- | --- | --- |
-| Activa Inkomsten Loonkosten | $300 50 60 | $50 10 10 |
-
-NLCo heeft geen activa, inkomsten of loonkosten die toegerekend kunnen worden aan de bedrijfsmatige activiteiten. De activa, inkomsten en loonkosten van NLSub die verband houden met de bedrijfsmatige activiteiten kunnen uit hoofde van onderdeel c echter wel worden toegerekend aan NLCo, aangezien NLCo vanwege zijn belang van 50% in NLSub als uiteindelijk gerechtigde gelieerd is aan NLSub. Daarom wordt 50% van de activa, inkomsten en loonkosten van NLSub toegerekend aan NLCo. De aan NLCo toegerekende bedragen en de percentages van de daarmee overeenstemmende bedragen van USCo zijn:
-
-|   | NLCo | NLCo als percentage van USCo |
-| --- | --- | --- |
-| Activa Inkomsten Loonkosten | $25 5 5 | $8,3 10,0 8,3 |
-
-Aangezien geen van de percentages meer dan 10 percent bedraagt, voldoet NLCo niet aan de voorwaarden van het wezenlijkheidsvereiste zoals hierboven omschreven. Ook wanneer gekeken zou worden naar het gemiddelde over drie jaar zou de uitkomst niet veranderen, aangezien de desbetreffende bedragen over de drie voorafgaande jaren (en de daaruit voortvloeiende percentages) gelijk zijn aan die van het eerste eraan voorafgaande belastingjaar.
-
-NLCo zal niettemin in aanmerking komen voor de voordelen in verband met de dividenden ontvangen van USCo. Gelet op de bijdragen van elk lichaam aan de totale bedrijfsmatige activiteiten van de groep, zijn de activiteiten verricht door NLSub wezenlijk ten opzichte van die van USCo.
-
-##### XXIII. Met betrekking tot het [vijfde lid, onderdeel a, van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen)
-
-- a. Voor de toepassing van het [vijfde lid, onderdeel a, van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen) is het wel te verstaan dat de aldaar bedoelde activiteiten dienen te worden verricht in de woonstaat van de persoon die die activiteiten verricht.
-
-- b. Het is wel te verstaan dat voor de toepassing van het [vijfde lid, onderdeel a, van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen) een persoon alleen dan beschouwd zal worden zich bezig te houden met toezichthoudende en bestuurlijke werkzaamheden, indien hij zich bezighoudt met een aantal van de hieronder genoemde werkzaamheden.
-
-Zo wordt een persoon als hoofdkantoor beschouwd indien hij eenbelangrijk aantal van de volgende functies verricht ten behoeve van het concern: concernfinanciering (hetgeen niet de primaire taak mag zijn), prijsbepaling, marketing, interne auditscontrole, interne communicatie en intern management. Een eenvoudige vergelijking van het bedrag van het bruto-inkomen dat het hoofdkantoor ontvangt uit hoofde van zijn verschillende werkzaamheden is niet het enige criterium aan de hand waarvan mag worden vastgesteld of concernfinanciering, al dan niet, de primaire taak van het lichaam is. De bovengenoemde functies zijn bedoeld als aanduiding van de soorten werkzaamheden die een hoofdkantoor geacht wordt te verrichten. Deze opsomming beoogt niet uitputtend te zijn.
-
-Voorts is het wel te verstaan dat bij het bepalen of een wezenlijk deel van het toezicht en het bestuur van de concernonderdelen door het hoofdkantoor wordt verricht, de werkzaamheden die door het kantoor in zijn functie als hoofdkantoor voor die concernonderdelen worden verricht wezenlijk dienen te zijn in vergelijking met dezelfde werkzaamheden die binnen de multinational voor diezelfde concernonderdelen worden verricht.
-
-Het volgende voorbeeld moge dit verduidelijken. Een Japanse rechtspersoon richt in Nederland een dochtermaatschappij op, die als hoofkantoor moet gaan fungeren voor de Europese en Noord-Amerikaanse werkzaamheden.
-
-De Japanse rechtspersoon heeft twee andere dochtermaatschappijendie als hoofdkantoor fungeren: een voor Afrikaanse en een voor de Aziatische werkzaamheden. Het Nederlandse hoofdkantoor is de moedermaatschappij voor de dochtermaatschappijen die de Europese en Noord-Amerikaanse werkzaamheden verrichten. Het Nederlandse hoofdkantoor houdt toezicht op het grootste deel van de prijsbepaling, marketing, interne controle, interne informatieverschaffing en het management van de onder zijn bestuur vallende concernonderdelen. Alhoewel de Japanse topholding aan alle dochtermaatschappijen richtlijnen geeft met betrekking tot het mondiale beleid ten aanzien van elk van de vorengenoemde activiteiten en er op toeziet dat deze richtlijnen binnen elk van de regionale concernonderdelen worden uitgevoerd, is het Nederlandse hoofdkantoor het kantoor dat het bestuur uitoefent en het toezicht houdt op de wijze waarop deze beleidsregels worden uitgevoerd de onder zijn bestuur vallende concernonderdelen. Het vermogen dat en de loonkosten die door de Japanse topholding worden besteed aan deze werkzaamheden voor de concernonderdelen die onder het bestuur van het Nederlandse hoofdkantoor vallen, zijn verhoudingsgewijs gering in vergelijking met het vermogen en de loonkosten die door het Nederlandse hoofdkantoor aan deze werkzaamheden worden besteed. Bovendien verrichten noch de andere twee hoofdkantoren noch enig ander gelieerd lichaam naast de Japanse topholding de bovengenoemde werkzaamheden ten behoeve van die concernonderdelen die onder het bestuur van het Nederlandse hoofdkantoor vallen. In dit voorbeeld wordt het Nederlandse hoofdkantoor geacht te voorzien in een wezenlijk deel van het totale toezicht en bestuur van de concernonderdelen, die onder zijn bestuur vallen.
-
-##### XXIV. Met betrekking tot het [zevende lid van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen)
-
-- a. Het is wel te verstaan dat aan een lichaam gevestigd in een van de Staten krachtens het [zevende lid van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen) ter zake van inkomen dat ontvangen is uit de andere Staat alle voordelen van de Overeenkomst worden toegekend die ook worden toegekend aan inwoners van een Staat, mits het lichaam voldoet aan een eventuele andere gespecificeerde voorwaarde voor het verkrijgen van deze voordelen en mits minder dan 50 percent van het bruto-inkomen van het lichaam uit het belastingjaar waarin het inkomensbestanddeel ontstaan is, direct of indirect wordt betaald of toekomt aan personen die geen gelijkwaardig gerechtigden zijn, in de vorm van betalingen die aftrekbaar zijn van de belastingen waarop de Overeenkomst van toepassing is in de Staat waarvan het lichaam inwoner is (met uitzondering van betalingen als willekeurige derde verricht bij de normale bedrijfsuitoefening ter zake van diensten of lichamelijke zaken en betalingen in het kader van financiële verplichtingen aan een bank, op voorwaarde dat indien de bank geen inwoner is van een van de Overeenkomstsluitende Staten een dergelijke betaling toerekenbaar is aan een vaste inrichting van die bank gevestigd in een van de Overeenkomstsluitende Staten).
-
-- 1. aandelen die meer dan 30 percent van het totale aantal stemmen en de waarde van alle aandelen vertegenwoordigen direct of indirect het eigendom zijn van personen die op grond van de [onderdelen a, b, c, onder i, of onderdeel d of e van het tweede lid van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) gekwalificeerde personen zijn;
-
-- 2. aandelen die meer dan 70 percent van het totale aantal stemmen en de waarde van alle aandelen (en ten minste 50 percent van een „disproportionate class of shares”) direct of indirect het eigendom zijn van ten hoogste zeven personen die gelijkwaardig gerechtigden zijn in de zin van het achtste lid, onderdeel f; en
-
-- b. De bevoegde autoriteiten komen overeen zich redelijke inspanningen te getroosten teneinde binnen zes maanden na de ontvangst van alle benodigde informatie van de belastingplichtige te komen tot de vaststelling uit hoofde van het zevende lid. Voorts zullen de bevoegde autoriteiten van beide Staten halfjaarlijks bijeenkomen teneinde de status van alle gevallen waarin om een vaststelling is verzocht te bespreken.
-
-##### XXV. Met betrekking tot het [tweede lid, onderdeel c, en het achtste lid, onderdeel a, onder ii, van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen)
-
-Een lichaam dat genoteerd is op de effectenbeurzen van Parijs of Brussel die tezamen met de Amsterdamse effectenbeurs Euronext vormen, wordt behandeld alsof het voldoet aan het vereiste van genoteerd zijn uit het tweede lid, onderdeel c, mits de Nederlandse toezichthoudende autoriteiten voor de handel in waardepapieren toezicht blijven houden op het deel van de beurs dat in Nederland gevestigd is. Indien het functioneren van of het toezicht op Euronext ingrijpend wordt gewijzigd, stelt de bevoegde autoriteit van Nederland de bevoegde autoriteit van de Verenigde Staten daarvan in kennis en beide bevoegde autoriteiten beoordelen tezamen of de behandeling nog passend is en of wijzigingen nodig zijn voor de toepassing van dit lid.
-
-##### XXVI. Met betrekking tot het [achtste lid, onderdeel d, onder ii, en het achtste lid, onderdeel e, onder iii, van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen)
-
-- a. Bij de vaststelling bedoeld in het achtste lid, onderdeel d, onder ii, is het wel te verstaan dat deze gebaseerd is op een beoordeling van de besluitvorming van alle directieleden en hogere leidinggevenden die deel uitmaken van de directie of de raad van bestuur van het lichaam, naar gelang van het geval, tenzij deze personen slechts formeel hun goedkeuring hechten aan beslissingen die in feite door anderen worden genomen. Indien de hogere leidinggevenden van directe of indirecte dochtermaatschappijen van het lichaam de beleidsfuncties vervullen die normaliter tot de verantwoordelijkheid van de directie of de raad van bestuur van een vennootschappelijke groep behoren, zoals omschreven in het achtste lid, onderdeel e, onder iii, worden zij in dit opzicht aangemerkt als leden van de directie of van de raad van bestuur van het lichaam. Indien er speciale stem- of andere regelingen zijn waaruit blijkt dat de leden van de directie (met inbegrip van de personen omschreven in de vorige zin) niet feitelijk op gelijke voet betrokken zijn bij de besluitvorming, worden deze personen slechts in de mate waarin zij verantwoordelijk zijn voor het nemen van de besluiten beschreven in het achtste lid, onderdeel e, onder iii, in aanmerking genomen.
-
-- b. Indien een lichaam dat inwoner is van Nederland en waarvan de aandelen regelmatig worden verhandeld op een of meer erkende effectenbeurzen de moedermaatschappij is van een geïntegreerd concern dat tevens een andere moedermaatschappij omvat waarvan de aandelen eveneens regelmatig worden verhandeld op een of meer erkende effectenbeurzen en die andere moedermaatschappij inwoner is van een staat in de primaire economische zone van Nederland die een inkomstenbelastingverdrag heeft met de Verenigde Staten dat in vergelijkbare situaties voorziet in dezelfde of lagere inhoudingspercentages ten aanzien van dividenden, belastingheffing van vaste inrichtingen, interest en royalty's zoals voorzien in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=10&z=2004-12-28&g=2004-12-28) (Dividenden), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=11&z=2004-12-28&g=2004-12-28) (Belastingheffing van vaste inrichtingen), [12](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=12&z=2004-12-28&g=2004-12-28) (Interest) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=13&z=2004-12-28&g=2004-12-28) (Royalty's) van de Overeenkomst, wordt het eerstbedoelde lichaam behandeld alsof het voldoet aan de vereisten van het achtste lid, onderdeel e, onder iii, wat betreft de locatie van de staf, indien deze van de aldaar omschreven activiteiten meer verricht in Nederland en in die andere staat dan in enige andere staat. Daartoe wordt verstaan onder een „geïntegreerd concern” een groep lichamen die de twee moedermaatschappijen omvat zoals beschreven in de vorige zin alsmede ketens van dochterondernemingen waarvan de moedermaatschappijen gezamenlijk de economische eigendom hebben.
-
-##### XXVII. Met betrekking tot het [achtste lid, onderdeel h, van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen)
-
-Het is wel te verstaan dat indien een soort aandelen tijdens de twaalf maanden bedoeld in onderdeel h, niet genoteerd was aan een erkende effectenbeurs, deze soort aandelen uitsluitend zal worden behandeld als zijnde regelmatig verhandeld indien in het belastingjaar waarin het inkomen ontstaat die soort voldoet aan het vereiste van dat onderdeel inzake het totale aantal aandelen van die soort dat verhandeld wordt.
-
-##### XXVIII. Met betrekking tot het [zevende lid van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen)
-
-- a. Voor de toepassing van het [zevende lid van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen) kan de bevoegde autoriteit van de Staat waaruit het desbetreffende inkomen afkomstig is bij het vaststellen of de oprichting, verwerving of instandhouding van een rechtspersoon, die inwoner van een van de Staten is, als een van de voornaamste doelstellingen heeft of had de verkrijging van de voordelen van deze Overeenkomst, onder andere de volgende factoren meewegen:
-
-- 1. de datum van oprichting van de rechtspersoon in relatie tot de datum van inwerkingtreding van deze Overeenkomst;
-
-- 2. het verloop van het bedrijf sinds zijn ontstaan en de eigendomsverhoudingen in de rechtspersoon sinds zijn oprichting;
-
-- 3. de zakelijke redenen voor de rechtspersoon om inwoner te zijn van de staat van vestiging;
-
-- 4. de mate waarin door de rechtspersoon in zijn staat van vestiging aanspraak wordt gemaakt op bijzondere belastingvoordelen ;
-
-- 5. de mate waarin de ondernemingsactiviteiten van de rechtspersoon in de andere Staat afhankelijk is van het vermogen, de activa of het personeel van de rechtspersoon in zijn staat van vestiging; en
-
-- 6. de mate waarin de rechtspersoon gerechtigd zou zijn tot verdragsvoordelen die vergelijkbaar zijn met die welke zouden worden toegekend op grond van deze Overeenkomst indien de rechtspersoon zou zijn opgericht in de staat van vestiging van de de meerderheid van haar aandeelhouders.
-
-- b. Het is wel te verstaan dat een lichaam dat inwoner van een van de Staten is, de voordelen van de Overeenkomst zullen worden toegekend om op grond van het [zevende lid van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen) ten aanzien van inkomen dat verkregen is uit de andere Staat worden verleend, indien zulk een lichaam:
-
-- 1. aandelen en waardepapieren houdt waarvan het inkomen niet hoofdzakelijk uit bronnen in de andere Staat afkomstig is;
-
-- 2. een groot aantal deelnemers heeft; en
-
-- 3. in zijn staat van vestiging een aanzienlijk aantal personeelsleden heeft die zich actief bezig houden met het handelen in aandelen en waardepapieren die eigendom van het lichaam zijn. Het is voorts wel te verstaan dat het [zevende lid van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) niet van toepassing is indien aan een van de bovengenoemde vereisten niet is voldaan.
-
-- c. Het is wel te verstaan dat bij de toepassing van het [zevende lid van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen) de regelgeving van de Europese Gemeenschappen voor het bevorderen van het vrije verkeer van kapitaal en personen binnen de Europese Gemeenschappen, tezamen met de onderlinge verschillen in binnenlandse inkomstenbelastingsystemen, fiscale stimuleringsmaatregelen en het van toepassing zijnde beleid voor belastingverdragen tussen de lidstaten van de Europese Gemeenschappen in beschouwing zullen worden genomen. Op grond van deze bepaling neemt de bevoegde autoriteit als richtlijn voor haar overwegingen of de oprichting, de verwerving of instandhouding van een lichaam of de uitoefening van zijn activiteiten als een van de voornaamste doelstellingen het verkrijgen van de voordelen van deze Overeenkomst heeft of had. De bevoegde autoriteit kan daarom bepalen dat, gegeven een aantal feiten, een wijziging in de omstandigheden die ertoe zou kunnen leiden dat een lichaam ophoudt in aanmerking te komen voor de voordelen van de Overeenkomst op grond van het tweede en derde lid van artikel 26 niet noodzakelijkerwijs behoeft te leiden tot het onthouden van de voordelen. Zulke gewijzigde omstandigheden kunnen omvatten een wijziging van de staat van vestiging van een belangrijke aandeelhouder, de verkoop van een deel van het aandelenkapitaal van een Nederlands lichaam aan een persoon die inwoner is van een andere lidstaat van de Europese Gemeenschappen of een uitbreiding van de activiteiten van een lichaam in andere lidstaten van de Europese Gemeenschappen, dit alles onder normale zakelijke voorwaarden. De bevoegde autoriteit zal deze gewijzigde omstandigheden (naast andere relevante factoren die normaal in beschouwing genomen worden op grond van het zevende lid van artikel 26) in overweging nemen bij het bepalen of zulk een lichaam in aanmerking blijft komen voor voordelen van de Overeenkomst ten aanzien van inkomen ontvangen uit bronnen in de Verenigde Staten. Wanneer deze gewijzigde omstandigheden niet zijn toe te schrijven aan beweegredenen van vermijding van belasting, zal zulks door de bevoegde autoriteit eveneens als relevante factor in het voordeel van bestendiging van het recht op de voordelen van de Overeenkomst op grond van het zevende lid van artikel 26 worden beschouwd.
-
-- d. Wanneer een rechtspersoon die inwoner is van een van de Staten en gerechtigd is tot de voordelen op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen),zeggenschap verwerft in een rechtspersoon die inwoner is van een derde Staat, die dat op haar beurt zeggenschap heeft in een tweede rechtspersoon die inwoner is van de eerstbedoelde Staat, zou die tweede rechtspersoon als gevolg van de bepaling van het tweede lid, onderdeel c, onder ii, van artikel 26 niet gerechtigd kunnen zijn tot de voordelen van de Overeenkomst ten aanzien van de voordelen uit bronnen uit die andere Staat. Het is wel te verstaan dat de bevoegde autoriteit van de andere Staat in deze omstandigheden bij het beoordelen van een verzoek om toekenning van de voordelen van de Overeenkomst op grond van het zevende lid van artikel 26 een reorganisatieplan dat wordt voorgelegd door de tweede rechtspersoon die inwoner is van de eerstbedoelde Staat in welwillende overweging zal nemen indien zulk een plan ertoe zou leiden dat de tweede rechtspersoon binnen een redelijke overgangsperiode recht krijgt op de voordelen van de Overeenkomst (vast te stellen zonder rekening te houden met het zevende lid van artikel 26).
-
-##### XXIX. Met betrekking tot het [achtste lid, onderdeel h, van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen)
-
-Teneinde te voldoen aan het vereiste van regelmatig verhandeld worden op grond van het [achtste lid, onderdeel h, van artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=26&z=2004-12-28&g=2004-12-28) (Beperkingen van voordelen), behoeft een persoon die op grond van de Overeenkomst aanspraak maakt op de voordelen, niet te bewijzen dat hij zich niet heeft beziggehouden met het creëren van een bepaald handelspatroon op een erkende effectenbeurs teneinde aan dit criterium te voldoen, maar dient hij zonodig bewijzen dat hij zich daarmee heeft beziggehouden te weerleggen.
-
-##### XXX. Met betrekking tot [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=27&z=2004-12-28&g=2004-12-28) (Werkzaamheden buitengaats)
-
-Het is wel te verstaan dat het vervoer van voorraden of personeel tussen een van de Staten en een plaats waar de werkzaamheden buitengaats in die Staat worden verricht, of tussen zulke plaatsen, wordt beschouwd als vervoer tussen plaatsen in die Staat.
-
-##### XXXI. Met betrekking tot het [vijfde lid van artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=29&z=2004-12-28&g=2004-12-28) (Regeling voor onderling overleg)
-
-- A. Het is wel te verstaan dat de Staten in ieder geval diplomatieke nota's uitwisselen zoals bepaald in het [vijfde lid van artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=29&z=2004-12-28&g=2004-12-28) (Regeling voor onderling overleg), wanneer de ervaringen opgedaan binnen de Europese Gemeenschappen bij de toepassing van het [Verdrag ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBV0002893), ondertekend op 23 juli 1990, of bij de toepassing van het vijfde lid van artikel 25 van het belastingverdrag tussen de Verenigde Staten van Amerika en de Bondsrepubliek Duitsland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en het vermogen en bepaalde andere belastingen, ondertekend op 29 augustus 1989, bevredigend zijn voor de bevoegde autoriteiten van beide Staten. Na afloop van een periode van drie jaar na het in werking treden van de Overeenkomst zullen de bevoegde autoriteiten met elkaar overleggen teneinde vast te stellen of aan de voorwaarden voor de uitwisseling van diplomatieke nota's is voldaan.
-
-- B. Indien de bevoegde autoriteiten van beide Staten overeenkomen in een bepaald geval een geschil betreffende de uitlegging of toepassing van deze Overeenkomst op grond van het [vijfde lid van artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=29&z=2004-12-28&g=2004-12-28) te onderwerpen aan arbitrage, is de volgende procedure van toepassing:
-
-- 1. Indien de bevoegde autoriteiten er bij het toepassen van het [eerste tot en met het vierde lid van artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=29&z=2004-12-28&g=2004-12-28) niet in slagen om tot overeenstemming te komen binnen twee jaar na de datum waarop de aangelegenheid aan een van de bevoegde autoriteiten was voorgelegd, kunnen zij besluiten in een bepaald geval een beroep op arbitrage te doen, echter slechts nadat de procedures die beschikbaar zijn op grond van het eerste tot en met het vierde lid van artikel 29 volledig zijn uitgeput. De bevoegde autoriteiten zullen in het algemeen niet overgaan tot arbitrage ten aanzien van aangelegenheden betreffende het belastingbeleid of de binnenlandse wetgeving van een van de Staten.
-
-- 2. De bevoegde autoriteiten stellen voor elk afzonderlijk geval een arbitragecommissie in op de volgende wijze:
-
-- a. Een arbitragecommissie bestaat uit ten minste drie leden. Elke bevoegde autoriteit benoemt een gelijk aantal leden en deze leden komen de benoeming van het andere lid of andere leden overeen.
-
-- b. Het andere lid of de andere leden van de arbitragecommissie is of zijn afkomstig uit een van beide Staten of uit een andere OESO-lidstaat. De bevoegde autoriteiten kunnen verdere instructies geven betreffende de criteria voor het selecteren van de overige leden van de arbitragecommissie.
-
-- c. Leden van de arbitragecommissie (en hun medewerkers) moeten bij hun benoeming schriftelijk verklaren zich te houden aan en te onderworpen te zijn aan de toepasselijke bepalingen inzake vertrouwelijkheid en openbaarmaking van beide Staten en de Overeenkomst. Ingeval die bepalingen met elkaar in strijd zijn, is de meest vergaande geheimhoudingsverplichting van toepassing.
-
-- 3. De bevoegde autoriteiten kunnen overeenstemming bereiken omtrent en de arbitragecommissie instrueren betreffende bepaalde procedureregels, zoals het benoemen van een voorzitter, de procedures om tot een beslissing te komen, het bepalen van termijnen, enzovoorts. Voor het overige stelt de arbitragecommissie haar eigen procedureregels vast overeenkomstig de algemeen aanvaarde beginselen van redelijkheid en billijkheid.
-
-- 4. Belastingplichtigen en/of hun vertegenwoordigers wordt de gelegenheid geboden hun standpunten aan de arbitragecommissie voor te leggen.
-
-- 5. De arbitragecommissie beslist over ieder afzonderlijk geval op basis van de Overeenkomst met inachtneming van de nationale wetgeving van de beide Staten en de beginselen van het internationale recht. De arbitragecommissie verstrekt aan de bevoegde autoriteiten een toelichting op haar beslissing. De beslissing van de arbitragecommissie is met betrekking tot dat bepaalde geval bindend voor beide Staten en de belastingplichtige(n). Hoewel de beslissing van de arbitragecommissie geen precedentwerking heeft, wordt verwacht dat met zulke beslissingen gewoonlijk rekening zal worden gehouden in latere aan de bevoegde autoriteiten voorgelegde zaken betreffende dezelfde belastingplichtige(n), dezelfde kwestie(s) en grotendeels soortgelijke feiten alsmede waar passend in andere gevallen.
-
-- 6. De kosten van een arbitrageprocedure worden op de volgende wijze gedragen:
-
-- a. Elke Staat draagt de kosten van de beloning van de door haar benoemde leden alsmede van zijn vertegenwoordiging tijdens de procedure voor de arbitragecommissie;
-
-- b. de kosten van de beloning van de andere leden en alle overige kosten van de arbitragecommissie worden gelijkelijk gedeeld tussen de Staten; en
-
-- c. de arbitragecommissie kan besluiten tot een afwijkende verdeling van de kosten. Indien het de bevoegde autoriteit van een van de Staten echter in een bepaald geval in het licht van de aard van de zaak en de rol van de partijen passend voorkomt, kan zij van de belastingplichtige(n) verlangen dat deze, als voorwaarde voor arbitrage ermede instemt (instemmen) het deel van die Staat in de kosten te dragen.
-
-- 7. De bevoegde autoriteiten kunnen overeenkomen deze procedures aan te passen of aan te vullen; zij blijven echter gebonden aan de in het bovenstaande vastgelegde algemene uitgangspunten.
-
-##### XXXII. Met betrekking tot [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=30&z=2004-12-28&g=2004-12-28) (Uitwisseling van inlichtingen en administratieve bijstand)
-
-Indien een „reporting corporation” van de Verenigde Staten (als omschreven voor de toepassing van artikel 6038A van de United States Internal Revenue Code) die inwoner van de Verenigde Staten is, of een in de Verenigde Staten gevestigde vaste inrichting van een „reporting corporation” van de Verenigde Staten, die geen inwoner van de Verenigde Staten is, noch in het bezit is van, noch toegang heeft tot documenten die van belang kunnen zijn voor de behandeling voor de belastingheffing van de Verenigde Staten van transacties tussen die rechtspersoon en een buitenlandse „related party” (als omschreven in artikel 6038A van de United States Internal Revenue Code), en zulke documenten worden beheerd door een inwoner van Nederland en buiten de Verenigde Staten worden bewaard, verzoeken de Verenigde Staten Nederland om die documenten door middel van een uitwisseling van inlichtingen op grond van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=30&z=2004-12-28&g=2004-12-28) (Uitwisseling van inlichtingen en administratieve bijstand) voordat zij een vordering tot overlegging van die documenten doet uitgaan aan de „reporting corporation” van de Verenigde Staten, mits onder alle gegeven omstandigheden, de documenten via het verzoek snel en op efficiënte wijze verkrijgbaar zijn. Voor de toepassing van deze paragraaf zullen documenten worden geacht snel en op efficiënte wijze beschikbaar te zijn, indien zij kunnen worden verkregen binnen 180 dagen na het verzoek of binnen een ander tijdvak als in onderling overleg overeengekomen tussen de bevoegde autoriteiten, tenzij de nationale wettelijke termijnen binnen een korter tijdvak verstrijken. Het voorgaande is van overeenkomstige toepassing met betrekking tot de toepassing van artikel 6038C.
-
-##### XXXIII. Met betrekking tot [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=30&z=2004-12-28&g=2004-12-28) (Uitwisseling van inlichtingen en administratieve bijstand)
-
-Uit hoofde van het [tweede lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=30&z=2004-12-28&g=2004-12-28), dat bepaalt dat de bevoegde autoriteiten dienen te trachten informatie te verstrekken in de vorm van getuigenverklaringen en gewaarmerkte afschriften van onbewerkte oorspronkelijke documenten, is het wel te verstaan dat de bevoegde autoriteiten zullen samenwerken om gezamenlijke procedures te ontwikkelen teneinde de verschillen tussen de nationale wettelijke regelgeving en procedures te overbruggen teneinde te waarborgen dat inlichtingen worden verstrekt in een vorm die de toepassing ervan bij gerechtelijke procedures in de verzoekende Staat vereenvoudigt.
-
-##### XXXIV. Met betrekking tot het [eerste lid van artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=30&z=2004-12-28&g=2004-12-28) (Uitwisseling van inlichtingen en administratieve bijstand)
-
-Het is wel te verstaan dat personen die zich bezighouden met de administratie van belastingen zoals die uitdrukking is gebruikt in het [eerste lid van artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=30&z=2004-12-28&g=2004-12-28) (Uitwisseling van inlichtingen en administratieve bijstand) in de Verenigde Staten mede omvat de „tax-writing committees of Congress” en het „General Accounting Office”. Inlichtingen die op grond van de Overeenkomst zijn uitgewisseld en die op grond van de Overeenkomst als vertrouwelijk zijn aangemerkt, kunnen door deze instanties onder dezelfde voorwaarden van vertrouwelijkheid worden ontvangen en mogen slechts worden gebruikt bij de uitvoering van hun taak toezicht te houden op de administratie van de belastingwetgeving van de Verenigde Staten. Het is wel te verstaan dat de taak van het Congress en het „General Accounting Office” bij het toezicht houden op de administratie van de belastingwetgeving van de Verenigde Staten is beperkt tot het verzekeren dat de administratie van de belastingwetgeving door de uitvoerende diensten eerlijk, efficiënt en in overeenstemming met de bedoeling van de wetgever geschiedt.
-
-##### XXXV. Met betrekking tot [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=31&z=2004-12-28&g=2004-12-28) (Hulp en bijstand bij invordering)
-
-Het is wel te verstaan dat bij de toepassing van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=31&z=2004-12-28&g=2004-12-28) (Hulp en bijstand bij invordering) met het volgende rekening zal worden gehouden:
-
-- 1. De aangezochte Staat is niet verplicht het verzoek van de verzoekende Staat in te willigen:
-
-- a. indien de verzoekende Staat niet alle passende invorderingsmaatregelen binnen zijn eigen rechtsmacht heeft genomen;
-
-- b. in de gevallen waarin de administratieve last voor de aangezochte Staat niet in evenredigheid staat tot het door de verzoekende Staat te behalen voordeel.
-
-- 2. Het verzoek om administratieve bijstand bij invordering van een belastingvordering gaat vergezeld van:
-
-- a. een officieel afschrift van de executoriale titel in de verzoekende Staat;
-
-- b. indien passend, gewaarmerkte afschriften van enig ander document dat voor de invordering vereist is;
-
-- c. een verklaring van de bevoegde autoriteit van de verzoekende Staat dat op grond van de wetgeving van die Staat de belastingvordering onherroepelijk vaststaat. Voor de toepassing van dit artikel staat de belastingvordering onherroepelijk vast wanneer de verzoekende Staat op grond van zijn nationale wetgeving het recht heeft de belasting in te vorderen en de administratieve en gerechtelijke rechtsmiddelen van de belastingplichtige om in de verzoekende Staat de invordering tegen te houden vervallen dan wel uitgeput zijn.
-
-- 3. Een belastingvordering van de verzoekende Staat die onherroepelijk vaststaat kan door de bevoegde autoriteit van de aangezochte Staat voor invordering in behandeling worden genomen en wordt, behoudens de bepalingen van het zevende lid, indien in behandeling genomen, door de aangezochte Staat op dezelfde wijze ingevorderd als ware zulk een belastingvordering een belastingvordering van die Staat zelf die is komen vast te staan in overeenstemming met de op de invordering van de eigen belastingen van die Staat van toepassing zijnde wetgeving.
-
-- 4. Wanneer een verzoek om invordering van een belastingvordering van een belastingplichtige in behandeling wordt genomen:
-
-- a. door de Verenigde Staten, wordt de belastingvordering door de Verenigde Staten behandeld als een aanslag op grond van de wetgeving van de Verenigde Staten aan de belastingplichtige op het tijdstip waarop het verzoek is ontvangen; en
-
-- b. door Nederland, wordt de belastingvordering door Nederland behandeld als een te betalen bedrag op grond van de van toepassing zijnde Nederlandse wetgeving waarvan de invordering niet aan enige beperking is onderworpen.
-
-- 5. Niets in dit artikel mag zo worden uitgelegd dat daardoor voor de aangezochte Staat rechten van administratieve of gerechtelijke herziening van de onherroepelijk vaststaande belastingvordering van de verzoekende Staat worden geschapen of hierin wordt voorzien op grond van rechten voortvloeiend uit de wetgeving van een van beide Staten. Indien op enig tijdstip hangende de uitvoering van het verzoek om bijstand op grond van dit artikel de verzoekende Staat het recht om op grond van zijn nationale wetgeving de belasting in te vorderen verliest, trekken de bevoegde autoriteiten van de verzoekende Staat het verzoek om bijstand bij invordering onmiddellijk in.
-
-- 6. Met inachtneming van deze paragraaf worden de bedragen die zijn ingevorderd door de aangezochte Staat ingevolge dit artikel overgemaakt aan de bevoegde autoriteit van de verzoekende Staat. Tenzij de bevoegde autoriteiten van de Staten anders overeenkomen, worden de gewone kosten gemaakt bij het verlenen van bijstand bij invordering gedragen door de aangezochte Staat en worden alle terzake gemaakte buitengewone kosten gedragen door de verzoekende Staat.
-
-- 7. De aangezochte Staat mag uitstel van betaling of betaling in termijnen toestaan, indien zijn eigen nationale wetgeving of administratieve praktijk dit toestaat, maar hij dient eerst de verzoekende Staat hierover in te lichten. Alle interest die door de aangezochte Staat wordt ontvangen als gevolg van het toestaan van uitstel van betaling of van betaling in termijnen wordt overgemaakt aan de bevoegde autoriteit van de verzoekende Staat.
-
-- 8. Een belastingvordering van een verzoekende Staat die in behandeling is genomen heeft in de aangezochte Staat geen voorrang boven de belastingvorderingen van de aangezochte Staat.
-
-- 9. De bevoegde autoriteiten kunnen op grond van dit artikel bijstand verlenen bij invordering van de belasting waarvoor op grond van het [achtste lid van artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=III&artikel=14&z=2004-12-28&g=2004-12-28) (Vermogenswinsten) uitstel is verleend.
-
-- 10. De bevoegde autoriteiten van de Staten komen de wijze van toepassing van dit artikel overeen. De bevoegde autoriteiten van de Staten kunnen voorts overeenkomen deze procedures aan te passen of aan te vullen; zij zijn echter gebonden aan de in het voorgaande vastgelegde algemene uitgangspunten.
-
-##### XXXVI. Met betrekking tot het [tweede lid van artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=32&z=2004-12-28&g=2004-12-28) (Beperking van [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=30&z=2004-12-28&g=2004-12-28) en [31](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=31&z=2004-12-28&g=2004-12-28))
-
-Het is wel te verstaan dat de bevoegde autoriteiten van beide Staten al hetgeen redelijkerwijs mogelijk is doen om inlichtingen te verkrijgen en te verschaffen betreffende belangen in een persoon naar aanleiding van een verzoek van de andere Staat. Het tweede lid van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=32&z=2004-12-28&g=2004-12-28) (Beperking van [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=30&z=2004-12-28&g=2004-12-28) en [31](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=31&z=2004-12-28&g=2004-12-28)) leidt niet tot een verplichting van de bevoegde autoriteiten van de Staten om inlichtingen te verkrijgen en te verschaffen betreffende belangen in een persoon tenzij deze inlichtingen kunnen worden verkregen zonder te leiden tot onevenredige moeilijkheden.
-
-##### XXXVII. Met betrekking tot het [tweede lid van artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=35&z=2004-12-28&g=2004-12-28) (Vrijgestelde pensioenfondsen)
-
-Voor de toepassing van het [tweede lid van artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0001109&hoofdstuk=V&artikel=35&z=2004-12-28&g=2004-12-28) (Vrijgestelde pensioenfondsen) wordt een persoon aangemerkt als een gelieerde persoon indien meer dan 80% van het aantal stemmen of van de waarde van een soort aandelen toebehoort aan de persoon die de inkomsten verwerft.
-
-##### XXXVIII. Tot slot
-
-Het is over het algemeen wel te verstaan dat de twee Regeringen op gezette tijden met elkaar overleggen betreffende de voorwaarden, uitvoering en toepassing van de Overeenkomst teneinde te waarborgen dat deze blijft beantwoorden aan de doelstelling van het vermijden van dubbele belasting en van het voorkomen van het ontgaan van belasting en, wanneer zij zulks wenselijk achten, verdere Protocollen zullen sluiten tot wijziging van de Overeenkomst. Het eerste overleg in dat kader zal plaatsvinden uiterlijk 31 december van het vijfde jaar na de datum waarop het Protocol in werking treedt in overeenstemming met de bepalingen van artikel 10 van het Protocol. Verder overleg vindt vervolgens plaats met tussenpozen van ten hoogste vijf jaar. Onverminderd de voorgaande alinea, kan elk van beide Regeringen te allen tijde verzoeken om overleg met de andere Regering met betrekking tot kwesties inzake de voorwaarden, uitvoering en toepassing van de Overeenkomst indien zij een spoedige oplossing daarvoor nodig acht.
-
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, deze Overeenkomst hebben getekend,
 
 GEDAAN te Washington D.C. de achttiende december 1992, in tweevoud, in de Nederlandse en de Engelse taal, zijnde de twee teksten gelijkelijk authentiek.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 (w.g.) J. H. MEESMAN
 
-**Voor de Regering van de Verenigde Staten van Amerika,**
+*Voor de Regering van de Verenigde Staten van Amerika,*
 
 (w.g.) EUGENE J. MCALLISTER
