@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-09-09
 toestand: 2023-06-03
 bron: "https://wetten.overheid.nl/BWBR0045596"
-opgehaald: 2026-09-11
+opgehaald: 2026-09-12
 ---
 
 # Besluit van de Minister voor Rechtsbescherming van 1 september 2021 nr. BOACAT2021/026, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Fryske Utfieringstsjinst Miljeu en Omjouwing (FUMO)

@@ -1,127 +1,19 @@
 ---
 title: "Euro-mediterrane luchtvaartovereenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en het Koninkrijk Marokko, anderzijds"
 identifier: "BWBV0001874"
-country: "nl"
-rank: "verdrag"
-publication_date: "2025-11-21"
-last_updated: "2006-12-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001874"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10002558953"
-version_id: "10002549562"
-internal_id: "C10009405371"
-label_id: "10002548714"
-dtd_version: "2.0"
-original_entry_into_force: "2018-03-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001874/2025-11-21/0"
-intitule_bron: "Trb.2007-27"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-12-12"
-intitule_published: "2007-02-12"
-intitule_in_force: "2018-03-02"
-intitule_status: "goed"
-original_publication: "Trb.2007-27"
-original_signed_date: "2006-12-12"
-original_published_date: "2007-02-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2007-27"
-entry_into_force_date: "2018-03-19"
-jci_1_3: "jci1.3:c:BWBV0001874&z=2025-11-21&g=2025-11-21"
-jci_1_0: "1.0:c:BWBV0001874&g=2025-11-21"
-citeertitel_status: "redactioneel"
-signed_date: "2006-12-12"
-entry_into_force: "2018-03-19"
+publicatiedatum: 2018-03-19
+laatste_update: 2025-11-21
+status: geldig
+toestand: 2025-11-21
+bron: "https://wetten.overheid.nl/BWBV0001874"
+opgehaald: 2026-09-12
 ---
+
 # Euro-mediterrane luchtvaartovereenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en het Koninkrijk Marokko, anderzijds
 
-Het Koninkrijk België,
-
-De Tsjechische Republiek,
-
-Het Koninkrijk Denemarken,
-
-De Bondsrepubliek Duitsland,
-
-De Republiek Estland,
-
-De Helleense Republiek,
-
-Het Koninkrijk Spanje,
-
-De Franse Republiek,
-
-Ierland,
-
-De Italiaanse Republiek,
-
-De Republiek Cyprus,
-
-De Republiek Letland,
-
-De Republiek Litouwen,
-
-Het Groothertogdom Luxemburg,
-
-De Republiek Hongarije,
-
-Malta,
-
-Het Koninkrijk der Nederlanden,
-
-De Republiek Oostenrijk,
-
-De Republiek Polen,
-
-De Portugese Republiek,
-
-De Republiek Slovenië,
-
-De Slowaakse Republiek,
-
-De Republiek Finland,
-
-Het Koninkrijk Zweden,
-
-Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-de partijen bij het Verdrag tot oprichting van de Europese Gemeenschap, hierna „de lidstaten’’ genoemd, en
-
-De Europese Gemeenschap, hierna „de Gemeenschap’’ genoemd,
-
-enerzijds, en
-
-Het Koninkrijk Marokko, hierna „Marokko’’ genoemd,
-
-anderzijds,
-
-De wens uitdrukkend een internationaal luchtvaartsysteem te bevorderen dat gebaseerd is op eerlijke mededinging tussen luchtvaartmaatschappijen op de markt, met zo weinig mogelijk overheidsinmenging en regelgeving;
-
-De wens uitdrukkend de uitbreiding van de internationale luchtvervoersmogelijkheden te vergemakkelijken, onder meer via de ontwikkeling van luchtvervoersnetwerken, teneinde tegemoet te komen aan de behoefte van passagiers en expediteurs aan passende luchtvervoersdiensten;
-
-De wens uitdrukkend dat luchtvaartmaatschappijen de mogelijkheid krijgen om passagiers en expediteurs concurrerende prijzen en diensten aan te bieden in open markten;
-
-De wens uitdrukkend dat alle sectoren van de luchtvervoersindustrie, inclusief het personeel van luchtvaartmaatschappijen, profijt kunnen trekken van een geliberaliseerde overeenkomst;
-
-De wens uitdrukkend het hoogst mogelijke niveau van veiligheid en beveiliging van het internationale luchtvervoer te garanderen en nogmaals bevestigend dat zij zich grote zorgen maken over daden of bedreigingen gericht tegen de beveiliging van luchtvaartuigen die de veiligheid van personen of goederen in gevaar brengen, de exploitatie van het luchtvervoer nadelig beïnvloeden en het vertrouwen van het publiek in de veiligheid van de burgerluchtvaart ondermijnen;
-
-Rekening houdend met het Verdrag inzake de internationale burgerluchtvaart dat op 7 december 1944 te Chicago voor ondertekening is opengesteld;
-
-De wens uitdrukkend gelijke kansen voor luchtvaartmaatschappijen te scheppen;
-
-Erkennend dat overheidssubsidies een negatief effect kunnen hebben op de mededinging tussen luchtvaartmaatschappijen en de basisdoelstellingen van deze overeenkomst in het gedrang kunnen brengen;
-
-Het belang bevestigend van milieubescherming bij het ontwikkelen en toepassen van het internationale luchtvaartbeleid en erkennend dat soevereine staten het recht hebben passende milieubeschermingsmaatregelen te nemen;
-
-Wijzend op het belang van consumentenbescherming, inclusief de bescherming die wordt geboden door het Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer (Montreal, 28 mei 1999), voor zover beide partijen partij zijn bij dat verdrag;
-
-Voornemens voort te bouwen op het kader van de bestaande luchtvervoersovereenkomsten, teneinde aan beide zijden open markttoegang en zo veel mogelijk voordelen voor consumenten, luchtvaartmaatschappijen, personeel en de maatschappij in het algemeen tot stand te brengen;
-
-Overwegend dat een overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en Marokko, anderzijds, een referentie kan vormen in de Euro-mediterrane luchtvaartbetrekkingen en de voordelen van liberalisering in deze cruciale sector van de economie kan promoten;
-
-Erop wijzend dat een dergelijke overeenkomst tot doel heeft op progressieve maar integrale wijze te worden toegepast en dat een geschikt mechanisme tot steeds grotere harmonisering met de Gemeenschapswetgeving kan leiden,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk België, De Tsjechische Republiek, Het Koninkrijk Denemarken, De Bondsrepubliek Duitsland, De Republiek Estland, De Helleense Republiek, Het Koninkrijk Spanje, De Franse Republiek, Ierland, De Italiaanse Republiek, De Republiek Cyprus, De Republiek Letland, De Republiek Litouwen, Het Groothertogdom Luxemburg, De Republiek Hongarije, Malta, Het Koninkrijk der Nederlanden, De Republiek Oostenrijk, De Republiek Polen, De Portugese Republiek, De Republiek Slovenië, De Slowaakse Republiek, De Republiek Finland, Het Koninkrijk Zweden, Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de partijen bij het Verdrag tot oprichting van de Europese Gemeenschap, hierna „de lidstaten’’ genoemd, en De Europese Gemeenschap, hierna „de Gemeenschap’’ genoemd, enerzijds, en Het Koninkrijk Marokko, hierna „Marokko’’ genoemd, anderzijds, De wens uitdrukkend een internationaal luchtvaartsysteem te bevorderen dat gebaseerd is op eerlijke mededinging tussen luchtvaartmaatschappijen op de markt, met zo weinig mogelijk overheidsinmenging en regelgeving; De wens uitdrukkend de uitbreiding van de internationale luchtvervoersmogelijkheden te vergemakkelijken, onder meer via de ontwikkeling van luchtvervoersnetwerken, teneinde tegemoet te komen aan de behoefte van passagiers en expediteurs aan passende luchtvervoersdiensten; De wens uitdrukkend dat luchtvaartmaatschappijen de mogelijkheid krijgen om passagiers en expediteurs concurrerende prijzen en diensten aan te bieden in open markten; De wens uitdrukkend dat alle sectoren van de luchtvervoersindustrie, inclusief het personeel van luchtvaartmaatschappijen, profijt kunnen trekken van een geliberaliseerde overeenkomst; De wens uitdrukkend het hoogst mogelijke niveau van veiligheid en beveiliging van het internationale luchtvervoer te garanderen en nogmaals bevestigend dat zij zich grote zorgen maken over daden of bedreigingen gericht tegen de beveiliging van luchtvaartuigen die de veiligheid van personen of goederen in gevaar brengen, de exploitatie van het luchtvervoer nadelig beïnvloeden en het vertrouwen van het publiek in de veiligheid van de burgerluchtvaart ondermijnen; Rekening houdend met het Verdrag inzake de internationale burgerluchtvaart dat op 7 december 1944 te Chicago voor ondertekening is opengesteld; De wens uitdrukkend gelijke kansen voor luchtvaartmaatschappijen te scheppen; Erkennend dat overheidssubsidies een negatief effect kunnen hebben op de mededinging tussen luchtvaartmaatschappijen en de basisdoelstellingen van deze overeenkomst in het gedrang kunnen brengen; Het belang bevestigend van milieubescherming bij het ontwikkelen en toepassen van het internationale luchtvaartbeleid en erkennend dat soevereine staten het recht hebben passende milieubeschermingsmaatregelen te nemen; Wijzend op het belang van consumentenbescherming, inclusief de bescherming die wordt geboden door het Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer (Montreal, 28 mei 1999), voor zover beide partijen partij zijn bij dat verdrag; Voornemens voort te bouwen op het kader van de bestaande luchtvervoersovereenkomsten, teneinde aan beide zijden open markttoegang en zo veel mogelijk voordelen voor consumenten, luchtvaartmaatschappijen, personeel en de maatschappij in het algemeen tot stand te brengen; Overwegend dat een overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en Marokko, anderzijds, een referentie kan vormen in de Euro-mediterrane luchtvaartbetrekkingen en de voordelen van liberalisering in deze cruciale sector van de economie kan promoten; Erop wijzend dat een dergelijke overeenkomst tot doel heeft op progressieve maar integrale wijze te worden toegepast en dat een geschikt mechanisme tot steeds grotere harmonisering met de Gemeenschapswetgeving kan leiden, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Definities
 
@@ -135,13 +27,13 @@ Tenzij anders is bepaald, wordt voor de toepassing van deze overeenkomst verstaa
 
 - 4. „Associatieovereenkomst’’: de Euro-mediterrane overeenkomst waarbij een associatie tussen de Europese Gemeenschappen en hun lidstaten enerzijds, en het Koninkrijk Marokko anderzijds, tot stand wordt gebracht, gedaan te Brussel op 26 februari 1996;
 
-- 5. „communautaire exploitatievergunning’’: een exploitatievergunning voor in de Europese Gemeenschap gevestigde luchtvaartmaatschappijen, die overeenkomstig Verordening (EEG) nr. 2407/92 van 23 juli 1992 betreffende de verlening van exploitatievergunningen aan luchtvaartmaatschappijen wordt verleend en verlengd;
+- 5. „communautaire exploitatievergunning’’: een exploitatievergunning voor in de Europese Gemeenschap gevestigde luchtvaartmaatschappijen, die overeenkomstig Verordening (EEG) nr. 2407/92 van 23 juli 1992 betreffende de verlening van exploitatievergunningen aan luchtvaartmaatschappijen wordt verleend en verlengd;
 
 - 6. „Verdrag’’: het Verdrag inzake de internationale burgerluchtvaart, voor ondertekening opengesteld te Chicago op 7 december 1944; dit omvat:
 
-- a. alle wijzigingen die krachtens artikel 94 bis van de overeenkomst van kracht zijn geworden en zijn geratificeerd door zowel Marokko als de voor de desbetreffende kwestie relevante lidstaat of lidstaten van de Europese Gemeenschap, en
+   - a. alle wijzigingen die krachtens artikel 94 bis van de overeenkomst van kracht zijn geworden en zijn geratificeerd door zowel Marokko als de voor de desbetreffende kwestie relevante lidstaat of lidstaten van de Europese Gemeenschap, en
 
-- b. alle bijlagen of wijzigingen van bijlagen die krachtens artikel 90 van de overeenkomst zijn goedgekeurd, voor zover die bijlage of wijziging op een gegeven ogenblik geldt voor zowel Marokko als de voor de desbetreffende kwestie relevante lidstaat of lidstaten van de Europese Gemeenschap;
+   - b. alle bijlagen of wijzigingen van bijlagen die krachtens artikel 90 van de overeenkomst zijn goedgekeurd, voor zover die bijlage of wijziging op een gegeven ogenblik geldt voor zowel Marokko als de voor de desbetreffende kwestie relevante lidstaat of lidstaten van de Europese Gemeenschap;
 
 - 7. „totale kostprijs’’: de kosten van de dienstverlening plus een redelijke toeslag voor administratieve overheadkosten en, voor zover van toepassing, alle toepasselijke toeslagen die de milieukosten weergeven en die zonder onderscheid naar nationaliteit worden toegepast;
 
@@ -151,13 +43,13 @@ Tenzij anders is bepaald, wordt voor de toepassing van deze overeenkomst verstaa
 
 - 10. „subsidies’’: alle door de overheid of door een regionale organisatie of andere publiekrechtelijke organisatie verleende financiële bijdragen waarbij: en waarbij een voordeel wordt verleend;
 
-- a. de praktijk van de overheid, een regionale instantie of een andere publiekrechtelijke organisatie rechtstreekse overdracht omvat van middelen zoals schenkingen, leningen, kapitaalinbreng, mogelijke rechtstreekse overdracht van middelen aan de onderneming of het overnemen van passiva van de onderneming, zoals leninggaranties;
+   - a. de praktijk van de overheid, een regionale instantie of een andere publiekrechtelijke organisatie rechtstreekse overdracht omvat van middelen zoals schenkingen, leningen, kapitaalinbreng, mogelijke rechtstreekse overdracht van middelen aan de onderneming of het overnemen van passiva van de onderneming, zoals leninggaranties;
 
-- b. de overheid, een regionale instantie of een andere publiekrechtelijke organisatie afstand doet van inkomsten die haar normaal toekomen, of deze niet int;
+   - b. de overheid, een regionale instantie of een andere publiekrechtelijke organisatie afstand doet van inkomsten die haar normaal toekomen, of deze niet int;
 
-- c. de overheid, een regionale instantie of een andere publiekrechtelijke organisatie goederen levert of diensten aanbiedt, behalve algemene infrastructuur, of goederen of diensten aankoopt;
+   - c. de overheid, een regionale instantie of een andere publiekrechtelijke organisatie goederen levert of diensten aanbiedt, behalve algemene infrastructuur, of goederen of diensten aankoopt;
 
-- d. de overheid, een regionale instantie of een andere publiekrechtelijke organisatie betalingen aan een financieringsmechanisme verricht of een particulier orgaan een of meer van de onder a, b en c genoemde soorten functies toevertrouwt of dat orgaan daarmee belast, welke functies zij normaal zelf zou vervullen en de praktijk in werkelijkheid niet afwijkt van praktijken die overheidsinstanties plegen te volgen;
+   - d. de overheid, een regionale instantie of een andere publiekrechtelijke organisatie betalingen aan een financieringsmechanisme verricht of een particulier orgaan een of meer van de onder a, b en c genoemde soorten functies toevertrouwt of dat orgaan daarmee belast, welke functies zij normaal zelf zou vervullen en de praktijk in werkelijkheid niet afwijkt van praktijken die overheidsinstanties plegen te volgen;
 
 - 11. „internationaal luchtvervoer’’: luchtvervoer dat plaatsvindt in het luchtruim boven het grondgebied van meer dan een staat;
 
@@ -167,11 +59,11 @@ Tenzij anders is bepaald, wordt voor de toepassing van deze overeenkomst verstaa
 
 - 14. „SESAR’’: de technische tenuitvoerlegging van het Europees gemeenschappelijk luchtruim waarbij de nieuwe generaties luchtverkeersleidingssystemen op gecoördineerde en gesynchroniseerde wijze worden onderzocht, ontwikkeld en ingezet;
 
-- 15. „grondgebied’’: wat het Koninkrijk Marokko betreft, het landoppervlak (vasteland en eilanden), de binnenwateren en de territoriale zeewateren die onder de soevereiniteit of rechtsbevoegdheid van Marokko vallen en, wat de Europese Gemeenschap betreft, het landoppervlak (vasteland en eilanden), de binnenwateren en de territoriale zeewateren die onder het Verdrag tot oprichting van de Europese Gemeenschap vallen en onderhevig zijn aan de in dat Verdrag en eventuele opvolgingsinstrumenten vastgestelde voorwaarden; de toepassing van deze overeenkomst op de luchthaven van Gibraltar laat de respectieve rechtsopvattingen van het Koninkrijk Spanje en het Verenigd Koninkrijk betreffende het geschil inzake de soevereiniteit over het grondgebied waarop de luchthaven is gelegen, onverlet, alsmede het handhaven van de opschorting van de toepassing op de luchthaven van Gibraltar van de maatregelen tot liberalisering van de luchtvaart, die op 18 september 2006 tussen de lidstaten van kracht zijn, overeenkomstig de ministeriële verklaring betreffende de luchthaven van Gibraltar, aangenomen te Cordoba op 18 september 2006; en
+- 15. „grondgebied’’: wat het Koninkrijk Marokko betreft, het landoppervlak (vasteland en eilanden), de binnenwateren en de territoriale zeewateren die onder de soevereiniteit of rechtsbevoegdheid van Marokko vallen en, wat de Europese Gemeenschap betreft, het landoppervlak (vasteland en eilanden), de binnenwateren en de territoriale zeewateren die onder het Verdrag tot oprichting van de Europese Gemeenschap vallen en onderhevig zijn aan de in dat Verdrag en eventuele opvolgingsinstrumenten vastgestelde voorwaarden; de toepassing van deze overeenkomst op de luchthaven van Gibraltar laat de respectieve rechtsopvattingen van het Koninkrijk Spanje en het Verenigd Koninkrijk betreffende het geschil inzake de soevereiniteit over het grondgebied waarop de luchthaven is gelegen, onverlet, alsmede het handhaven van de opschorting van de toepassing op de luchthaven van Gibraltar van de maatregelen tot liberalisering van de luchtvaart, die op 18 september 2006 tussen de lidstaten van kracht zijn, overeenkomstig de ministeriële verklaring betreffende de luchthaven van Gibraltar, aangenomen te Cordoba op 18 september 2006; en
 
 - 16. „bevoegde autoriteiten’’: de agentschappen of publieke organisaties bedoeld in bijlage III. Elke wijziging van de nationale wetgeving betreffende het statuut van de bevoegde autoriteiten moet door de overeenkomstsluitende partij worden bekendgemaakt aan de andere overeenkomstsluitende partij.
 
-## TITEL I. ECONOMISCHE BEPALINGEN
+### TITEL I. ECONOMISCHE BEPALINGEN
 
 ##### Artikel 2. Verkeersrechten
 
@@ -197,19 +89,19 @@ Wanneer de bevoegde instanties van de ene partij een aanvraag voor een exploitat
 
 - a. in het geval van een luchtvaartmaatschappij uit Marokko:
 
-- –. de luchtvaartmaatschappij haar hoofdkantoor en, eventueel, maatschappelijke zetel in Marokko heeft, en haar vergunning en alle bijbehorende documenten overeenkomstig de wetgeving van het Koninkrijk Marokko heeft verkregen;
+   - – de luchtvaartmaatschappij haar hoofdkantoor en, eventueel, maatschappelijke zetel in Marokko heeft, en haar vergunning en alle bijbehorende documenten overeenkomstig de wetgeving van het Koninkrijk Marokko heeft verkregen;
 
-- –. Marokko er daadwerkelijk op toeziet en afdwingt dat de luchtvaartmaatschappij de regelgeving naleeft; en
+   - – Marokko er daadwerkelijk op toeziet en afdwingt dat de luchtvaartmaatschappij de regelgeving naleeft; en
 
-- –. de luchtvaartmaatschappij, hetzij rechtstreeks hetzij via een meerderheidsparticipatie, eigendom is en blijft van Marokko en/of ingezetenen van Marokko, en Marokko en/of ingezetenen van Marokko daadwerkelijk toezicht uitoefenen op de luchtvaartmaatschappij, of de luchtvaartmaatschappij, hetzij rechtstreeks hetzij via een meerderheidsparticipatie, eigendom is en blijft van de lidstaten en/of ingezetenen van lidstaten, en de lidstaten en/of ingezetenen van lidstaten daadwerkelijk toezicht uitoefenen op de luchtvaartmaatschappij;
+   - – de luchtvaartmaatschappij, hetzij rechtstreeks hetzij via een meerderheidsparticipatie, eigendom is en blijft van Marokko en/of ingezetenen van Marokko, en Marokko en/of ingezetenen van Marokko daadwerkelijk toezicht uitoefenen op de luchtvaartmaatschappij, of de luchtvaartmaatschappij, hetzij rechtstreeks hetzij via een meerderheidsparticipatie, eigendom is en blijft van de lidstaten en/of ingezetenen van lidstaten, en de lidstaten en/of ingezetenen van lidstaten daadwerkelijk toezicht uitoefenen op de luchtvaartmaatschappij;
 
 - b. in het geval van een luchtvaartmaatschappij uit de Europese Gemeenschap:
 
-- –. de luchtvaartmaatschappij, overeenkomstig het Verdrag tot oprichting van de Europese Gemeenschap, haar hoofdkantoor en, eventueel, maatschappelijke zetel op het grondgebied van een lidstaat van de Europese Gemeenschap heeft, en een communautaire exploitatievergunning heeft verkregen; en
+   - – de luchtvaartmaatschappij, overeenkomstig het Verdrag tot oprichting van de Europese Gemeenschap, haar hoofdkantoor en, eventueel, maatschappelijke zetel op het grondgebied van een lidstaat van de Europese Gemeenschap heeft, en een communautaire exploitatievergunning heeft verkregen; en
 
-- –. de lidstaat van de Europese Gemeenschap die verantwoordelijk is voor de afgifte van het Air Operators Certificate daadwerkelijk regelgevend toezicht uitoefent op de luchtvaartmaatschappij, en de bevoegde luchtvaartautoriteit duidelijk is geïdentificeerd;
+   - – de lidstaat van de Europese Gemeenschap die verantwoordelijk is voor de afgifte van het Air Operators Certificate daadwerkelijk regelgevend toezicht uitoefent op de luchtvaartmaatschappij, en de bevoegde luchtvaartautoriteit duidelijk is geïdentificeerd;
 
-- –. de luchtvaartmaatschappij, hetzij rechtstreeks hetzij via een meerderheidsparticipatie, eigendom is en blijft van lidstaten en/of onderdanen van lidstaten of andere in bijlage V vermelde landen en/of onderdanen van die landen;
+   - – de luchtvaartmaatschappij, hetzij rechtstreeks hetzij via een meerderheidsparticipatie, eigendom is en blijft van lidstaten en/of onderdanen van lidstaten of andere in bijlage V vermelde landen en/of onderdanen van die landen;
 
 - c. de luchtvaartmaatschappij in staat is te voldoen aan de wet- en regelgevende voorwaarden die door de partij die de aanvraag of aanvragen behandelt normaal worden toegepast op de exploitatie van internationaal luchtvervoer; en
 
@@ -221,25 +113,25 @@ Wanneer de bevoegde instanties van de ene partij een aanvraag voor een exploitat
 
 - a. in het geval van een luchtvaartmaatschappij uit Marokko:
 
-- –. de luchtvaartmaatschappij haar hoofdkantoor en, eventueel, maatschappelijke zetel niet in Marokko heeft, en haar licentie en alle bijbehorende documenten niet overeenkomstig de toepasselijke wetgeving van het Koninkrijk Marokko heeft verkregen;
+   - – de luchtvaartmaatschappij haar hoofdkantoor en, eventueel, maatschappelijke zetel niet in Marokko heeft, en haar licentie en alle bijbehorende documenten niet overeenkomstig de toepasselijke wetgeving van het Koninkrijk Marokko heeft verkregen;
 
-- –. Marokko er niet daadwerkelijk op toeziet en niet afdwingt dat de luchtvaartmaatschappij de regelgeving naleeft; of
+   - – Marokko er niet daadwerkelijk op toeziet en niet afdwingt dat de luchtvaartmaatschappij de regelgeving naleeft; of
 
-- –. de luchtvaartmaatschappij niet rechtstreeks of via een meerderheidsbelang eigendom is van en daadwerkelijk wordt gecontroleerd door Marokko en/of ingezetenen van Marokko of door lidstaten en/of ingezetenen van lidstaten;
+   - – de luchtvaartmaatschappij niet rechtstreeks of via een meerderheidsbelang eigendom is van en daadwerkelijk wordt gecontroleerd door Marokko en/of ingezetenen van Marokko of door lidstaten en/of ingezetenen van lidstaten;
 
 - b. in het geval van een luchtvaartmaatschappij uit de Europese Gemeenschap:
 
-- –. de luchtvaartmaatschappij, overeenkomstig het Verdrag tot oprichting van de Europese Gemeenschap, haar hoofdkantoor en, eventueel, maatschappelijke zetel niet op het grondgebied van een lidstaat van de Europese Gemeenschap heeft, of geen communautaire exploitatievergunning heeft gekregen;
+   - – de luchtvaartmaatschappij, overeenkomstig het Verdrag tot oprichting van de Europese Gemeenschap, haar hoofdkantoor en, eventueel, maatschappelijke zetel niet op het grondgebied van een lidstaat van de Europese Gemeenschap heeft, of geen communautaire exploitatievergunning heeft gekregen;
 
-- –. de lidstaat van de Europese Gemeenschap die verantwoordelijk is voor de afgifte van het Air Operators Certificate niet daadwerkelijk regelgevend toezicht uitoefent op de luchtvaartmaatschappij, en de bevoegde luchtvaartautoriteit niet duidelijk is geïdentificeerd; of
+   - – de lidstaat van de Europese Gemeenschap die verantwoordelijk is voor de afgifte van het Air Operators Certificate niet daadwerkelijk regelgevend toezicht uitoefent op de luchtvaartmaatschappij, en de bevoegde luchtvaartautoriteit niet duidelijk is geïdentificeerd; of
 
-- –. de luchtvaartmaatschappij geen eigendom is van en niet, rechtstreeks of door een meerderheidsbelang, daadwerkelijk wordt gecontroleerd door lidstaten en/of onderdanen van lidstaten of andere in bijlage V vermelde landen en/of onderdanen van die landen;
+   - – de luchtvaartmaatschappij geen eigendom is van en niet, rechtstreeks of door een meerderheidsbelang, daadwerkelijk wordt gecontroleerd door lidstaten en/of onderdanen van lidstaten of andere in bijlage V vermelde landen en/of onderdanen van die landen;
 
 - c. de luchtvaartmaatschappij niet voldoet aan de in artikel 5 (Toepasselijke wetgeving) van deze overeenkomst vermelde wetten en regels; of
 
 - d. de voorschriften van artikel 14 (Veiligheid van de luchtvaart) en artikel 15 (Beveiliging van de luchtvaart) niet worden gehandhaafd en opgelegd.
 
-2. Tenzij onmiddellijke maatregelen noodzakelijk zijn om verdere niet-naleving van lid 1, onder c, of onder d, te voorkomen, worden de in dit artikel vastgestelde rechten pas uitgeoefend na overleg met de bevoegde instanties van de andere partij.
+2. Tenzij onmiddellijke maatregelen noodzakelijk zijn om verdere niet-naleving van lid 1, onder c, of onder d, te voorkomen, worden de in dit artikel vastgestelde rechten pas uitgeoefend na overleg met de bevoegde instanties van de andere partij.
 
 ##### Artikel 5. Investering
 
@@ -255,7 +147,7 @@ In die beslissing worden de voorwaarden gespecificeerd voor de exploitatie van d
 
 ##### Artikel 7. Mededinging
 
-Binnen de werkingssfeer van deze overeenkomst zijn de bepalingen van Hoofdstuk II („Mededinging en andere economische bepalingen’’) van Titel IV van de Associatieovereenkomst van toepassing, behalve als deze overeenkomst specifiekere regels bevat.
+Binnen de werkingssfeer van deze overeenkomst zijn de bepalingen van Hoofdstuk II („Mededinging en andere economische bepalingen’’) van Titel IV van de Associatieovereenkomst van toepassing, behalve als deze overeenkomst specifiekere regels bevat.
 
 ##### Artikel 8. Subsidies
 
@@ -275,11 +167,11 @@ Binnen de werkingssfeer van deze overeenkomst zijn de bepalingen van Hoofdstuk I
 
 2. De luchtvaartmaatschappijen van beide partijen hebben het recht leidinggevend, verkoops-, technisch, operationeel en ander gespecialiseerd personeel dat nodig is om de luchtvervoersactiviteiten te ondersteunen, op het grondgebied van de andere partij binnen te brengen en er te handhaven, overeenkomstig de wetten en regels van de andere partij met betrekking tot toegang, verblijf en werk.
 
-- a. Onverminderd punt b hieronder heeft elke luchtvaartmaatschappij met betrekking tot grondafhandeling op het grondgebied van de andere partij:
+3. - a. Onverminderd punt b hieronder heeft elke luchtvaartmaatschappij met betrekking tot grondafhandeling op het grondgebied van de andere partij:
 
-- i. het recht haar eigen grondafhandeling te verzorgen („zelfafhandeling’’) of, indien zij dit verkiest,
+   - i. het recht haar eigen grondafhandeling te verzorgen („zelfafhandeling’’) of, indien zij dit verkiest,
 
-- ii. het recht een selectie te maken tussen concurrerende leveranciers van volledige of gedeeltelijke grondafhandelingsdiensten, voor zover deze leveranciers op basis van de wetten en regels van elke partij toegang hebben tot de markt en voor zover dergelijke leveranciers aanwezig zijn op de markt.
+   - ii. het recht een selectie te maken tussen concurrerende leveranciers van volledige of gedeeltelijke grondafhandelingsdiensten, voor zover deze leveranciers op basis van de wetten en regels van elke partij toegang hebben tot de markt en voor zover dergelijke leveranciers aanwezig zijn op de markt.
 
 - b. Voor bepaalde categorieën grondafhandelingsdiensten, namelijk bagageafhandeling, platformafhandeling, brandstof- en olieafhandeling, vracht- en postafhandeling, wat de fysieke afhandeling van vracht en post tussen de luchthaventerminal en het luchtvaartuig betreft, mogen de in punt a, onder i en ii, vermelde rechten alleen worden beperkt overeenkomstig de op het grondgebied van de andere partij toepasselijke wet- en regelgeving. Indien dit tot gevolg heeft dat zelfafhandeling onmogelijk is en indien er geen daadwerkelijke mededinging tussen leveranciers van grondafhandelingsdiensten bestaat, moeten al deze diensten op gelijke en adequate basis ter beschikking worden gesteld van alle luchtvaartmaatschappijen; in dat geval mag de prijs van deze diensten niet hoger liggen dan hun totale kostprijs, inclusief een redelijk rendement van de activa, na afschrijvingen.
 
@@ -299,7 +191,7 @@ Binnen de werkingssfeer van deze overeenkomst zijn de bepalingen van Hoofdstuk I
 
 voor zover i. alle deelnemers aan dergelijke samenwerkingsvormen over de passende bevoegdheid beschikken en ii. de samenwerking voldoet aan de normaal voor dergelijke vormen van samenwerking geldende voorschriften inzake veiligheid en mededinging. Wanneer passagiersvervoer met codesharing wordt verkocht, moet op het verkooppunt of in elk geval alvorens aan boord te gaan aan de koper worden meegedeeld door welke vervoerder elk deel van de dienst zal worden uitgevoerd.
 
-- a. Wanneer luchtvaartmaatschappijen in eigen naam diensten voor passagiersvervoer over land aanbieden, zijn deze diensten niet onderworpen aan de wetten en regels inzake luchtvervoer. De aanbieders van diensten voor vervoer over land mogen zelf beslissen of ze toetreden tot samenwerkingsvormen. Bij het overwegen van samenwerkingsvormen kunnen aanbieders van vervoer over land onder meer rekening houden met de consumentenbelangen en met technische, economische, ruimtelijke en capaciteitsbeperkingen.
+8. - a. Wanneer luchtvaartmaatschappijen in eigen naam diensten voor passagiersvervoer over land aanbieden, zijn deze diensten niet onderworpen aan de wetten en regels inzake luchtvervoer. De aanbieders van diensten voor vervoer over land mogen zelf beslissen of ze toetreden tot samenwerkingsvormen. Bij het overwegen van samenwerkingsvormen kunnen aanbieders van vervoer over land onder meer rekening houden met de consumentenbelangen en met technische, economische, ruimtelijke en capaciteitsbeperkingen.
 
 - b. Onverminderd de overige bepalingen van deze overeenkomst mogen luchtvaartmaatschappijen en indirecte aanbieders van vrachtvervoer van de partijen, in het kader van internationaal luchtvervoer bovendien zonder beperking gebruik maken van vrachtvervoer over land van en naar alle punten op het grondgebied van Marokko en de Europese Gemeenschap of van derde landen, inclusief vervoer van en naar alle luchthavens met douanefaciliteiten en, voor zover van toepassing, vracht onder contract vervoeren overeenkomstig de toepasselijke wetten en regels. Of dergelijke vracht nu over land of door de lucht wordt vervoerd, hij moet steeds toegang hebben tot de douanebehandeling en -faciliteiten. Luchtvaartmaatschappijen kunnen verkiezen hun vervoer over land zelf te verzorgen of hiervoor regelingen te treffen met andere aanbieders van vervoer over land; ze mogen bijvoorbeeld een beroep doen op andere luchtvaartmaatschappijen die vervoer over land aanbieden en op indirecte aanbieders van luchtvrachtvervoer. Dergelijke intermodale diensten voor vrachtvervoer kunnen worden aangeboden tegen een prijs waarin zowel het luchtvervoer als het vervoer over land is inbegrepen, op voorwaarde dat de expediteurs juiste feitelijke informatie krijgen met betrekking tot dergelijk vervoer.
 
@@ -323,7 +215,7 @@ voor zover i. alle deelnemers aan dergelijke samenwerkingsvormen over de passend
 
 4. Het is mogelijk dat van de in de leden 1 en 2 van dit artikel vermelde apparatuur en goederen vereist wordt dat ze onder toezicht of controle van de bevoegde autoriteiten blijven.
 
-5. De in dit artikel vermelde vrijstellingen gelden eveneens wanneer de luchtvaartmaatschappijen van de ene partij met een andere luchtvaartmaatschappij, die ook dergelijke vrijstellingen geniet van de andere partij, is overeengekomen de in de leden 1 en 2 van dit artikel gespecificeerde artikelen te lenen of over te dragen naar het grondgebied van de andere partij.
+5. De in dit artikel vermelde vrijstellingen gelden eveneens wanneer de luchtvaartmaatschappijen van de ene partij met een andere luchtvaartmaatschappij, die ook dergelijke vrijstellingen geniet van de andere partij, is overeengekomen de in de leden 1 en 2 van dit artikel gespecificeerde artikelen te lenen of over te dragen naar het grondgebied van de andere partij.
 
 6. Niets in deze overeenkomst belet een partij om taksen, heffingen, rechten, vergoedingen of belastingen te heffen op goederen die worden verkocht voor andere doelen dan consumptie door passagiers tijdens een gedeelte van een luchtdienst tussen twee punten op zijn grondgebied, voor zover het toegestaan is op deze punten in of uit te stappen.
 
@@ -341,7 +233,7 @@ De prijzen voor luchtvervoersdiensten die overeenkomstig deze overeenkomst worde
 
 De bevoegde autoriteiten van de ene partij verstrekken de bevoegde autoriteiten van de andere partij op verzoek de informatie en statistieken met betrekking tot het verkeersvolume dat door de luchtvaartmaatschappijen die van de ene partij een vergunning hebben gekregen via de overeengekomen diensten is vervoerd van of naar het grondgebied van de andere partij; deze informatie wordt verstrekt in de vorm waarin ze door de luchtvaartmaatschappijen is opgesteld en aan hun nationale bevoegde autoriteiten is verstrekt. Op verzoek van een van beide partijen wordt in het gemengd comité overleg gepleegd over aanvullende statistische verkeersgegevens die de bevoegde autoriteiten van de ene partij vragen aan de bevoegde autoriteiten van de andere partij.
 
-## TITEL II. SAMENWERKING OP HET GEBIED VAN REGELGEVING
+### TITEL II. SAMENWERKING OP HET GEBIED VAN REGELGEVING
 
 ##### Artikel 14. Veiligheid van de luchtvaart
 
@@ -355,23 +247,23 @@ De bevoegde autoriteiten van de ene partij verstrekken de bevoegde autoriteiten 
 
 - a. niet voldoet aan de overeenkomstig de overeenkomst of de in bijlage VI.A gespecificeerde wetgeving, of
 
-- b. na een in lid 2 bedoelde inspectie aanleiding geeft tot ernstige vermoedens dat een luchtvaartuig of de exploitatie ervan niet voldoet aan de overeenkomstig de overeenkomst of de in bijlage VI A gespecificeerde wetgeving vastgestelde minimumnormen, of
+- b. na een in lid 2 bedoelde inspectie aanleiding geeft tot ernstige vermoedens dat een luchtvaartuig of de exploitatie ervan niet voldoet aan de overeenkomstig de overeenkomst of de in bijlage VI A gespecificeerde wetgeving vastgestelde minimumnormen, of
 
 - c. aanleiding geeft tot ernstige vermoedens dat de overeenkomstig de overeenkomst of de in bijlage VI A gespecificeerde wetgeving vastgestelde minimumnormen niet daadwerkelijk worden toegepast en gehandhaafd.
 
-5. Wanneer de bevoegde autoriteiten van de ene partij maatregelen nemen overeenkomstig lid 4 stellen zij de bevoegde autoriteiten van de andere partij daar onmiddellijk van in kennis, met opgave van de redenen van die maatregelen.
+5. Wanneer de bevoegde autoriteiten van de ene partij maatregelen nemen overeenkomstig lid 4 stellen zij de bevoegde autoriteiten van de andere partij daar onmiddellijk van in kennis, met opgave van de redenen van die maatregelen.
 
-6. Wanneer uit hoofde van lid 4 genomen maatregelen niet worden beëindigd, ook al zijn er geen redenen meer om dergelijke maatregelen te nemen, kan elke partij de zaak doorverwijzen naar het gemengd comité.
+6. Wanneer uit hoofde van lid 4 genomen maatregelen niet worden beëindigd, ook al zijn er geen redenen meer om dergelijke maatregelen te nemen, kan elke partij de zaak doorverwijzen naar het gemengd comité.
 
 ##### Artikel 15. Beveiliging van de luchtvaart
 
-1. Aangezien de veiligheid van burgerluchtvaartuigen, hun passagiers en hun bemanning een fundamentele voorwaarde is voor het exploiteren van internationale luchtdiensten, bevestigen beide partijen hun wederzijdse verplichtingen met betrekking tot de beveiliging van de burgerluchtvaart tegen wederrechtelijke daden (met name hun verplichtingen uit hoofde van het Verdrag van Chicago, het Verdrag inzake strafbare feiten en bepaalde andere handelingen begaan aan boord van luchtvaartuigen, ondertekend in Tokio op 14 september 1963, het Verdrag tot bestrijding van het wederrechtelijk in zijn macht brengen van luchtvaartuigen, ondertekend in Den Haag op 16 december 1970, het Verdrag ter bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de burgerluchtvaart, ondertekend in Montreal op 23 september 1971 en het Protocol tot bestrijding van wederrechtelijke daden van geweld op luchthavens voor de internationale burgerluchtvaart, ondertekend te Montreal op 24 februari 1988, en het Verdrag inzake het merken van kneedspringstoffen ten behoeve van de opsporing ervan, ondertekend te Montreal op 1 maart 1991, voor zover beide overeenkomstsluitende partijen ook partij zijn bij deze verdragen, en alle andere verdragen en protocollen inzake de veiligheid van de burgerluchtvaart waartoe beide partijen zijn toegetreden).
+1. Aangezien de veiligheid van burgerluchtvaartuigen, hun passagiers en hun bemanning een fundamentele voorwaarde is voor het exploiteren van internationale luchtdiensten, bevestigen beide partijen hun wederzijdse verplichtingen met betrekking tot de beveiliging van de burgerluchtvaart tegen wederrechtelijke daden (met name hun verplichtingen uit hoofde van het Verdrag van Chicago, het Verdrag inzake strafbare feiten en bepaalde andere handelingen begaan aan boord van luchtvaartuigen, ondertekend in Tokio op 14 september 1963, het Verdrag tot bestrijding van het wederrechtelijk in zijn macht brengen van luchtvaartuigen, ondertekend in Den Haag op 16 december 1970, het Verdrag ter bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de burgerluchtvaart, ondertekend in Montreal op 23 september 1971 en het Protocol tot bestrijding van wederrechtelijke daden van geweld op luchthavens voor de internationale burgerluchtvaart, ondertekend te Montreal op 24 februari 1988, en het Verdrag inzake het merken van kneedspringstoffen ten behoeve van de opsporing ervan, ondertekend te Montreal op 1 maart 1991, voor zover beide overeenkomstsluitende partijen ook partij zijn bij deze verdragen, en alle andere verdragen en protocollen inzake de veiligheid van de burgerluchtvaart waartoe beide partijen zijn toegetreden).
 
 2. Op verzoek verlenen de partijen elkaar alle nodige bijstand om het wederrechtelijk in zijn macht brengen van burgerluchtvaartuigen en andere wederrechtelijke daden tegen de veiligheid van dergelijke luchtvaartuigen, hun passagiers en bemanning, luchthavens en luchtvaartnavigatiefaciliteiten, en alle andere bedreigingen van de veiligheid van de burgerluchtvaart te voorkomen.
 
 3. In hun onderlinge betrekkingen handelen de partijen overeenkomstig de normen voor luchtvaartbeveiliging en, voor zover ze die toepassen, de door de Internationale Burgerluchtvaartorganisatie opgestelde aanbevolen werkwijzen, die als bijlage bij het Verdrag van Chicago zijn gevoegd, in de mate dat dergelijke beveiligingsvoorschriften van toepassing zijn op de partijen. Beide partijen eisen dat exploitanten van luchtvaartuigen die in hun register zijn opgenomen, exploitanten die hun hoofdkantoor of permanente verblijfplaats op hun grondgebied hebben gevestigd en exploitanten van luchthavens op hun grondgebied handelen overeenkomstig deze normen voor de beveiliging van de luchtvaart.
 
-4. Elke partij ziet erop toe dat op haar grondgebied doeltreffende maatregelen worden genomen om luchtvaartuigen te beschermen, passagiers en hun handbagage aan een beveiligingsonderzoek te onderwerpen en passende controles van de bemanning, vracht (inclusief ruimbagage) en boordproviand uit te voeren vóór en tijdens het aan boord gaan of het laden van het luchtvaartuig en dat die maatregelen worden aangepast aan een toename van de dreiging. Elke partij stemt ermee in dat haar luchtvaartmaatschappijen door de andere partij kunnen worden verplicht de in lid 3 vermelde voorschriften inzake beveiliging van de luchtvaart in acht te nemen voor de toegang tot, het vertrek uit of het verblijf op het grondgebied van die andere partij. Elke partij zal ook ingaan op alle redelijke verzoeken van de andere partij om, naar aanleiding van een specifieke dreiging, bijzondere beveiligingsmaatregelen te nemen.
+4. Elke partij ziet erop toe dat op haar grondgebied doeltreffende maatregelen worden genomen om luchtvaartuigen te beschermen, passagiers en hun handbagage aan een beveiligingsonderzoek te onderwerpen en passende controles van de bemanning, vracht (inclusief ruimbagage) en boordproviand uit te voeren vóór en tijdens het aan boord gaan of het laden van het luchtvaartuig en dat die maatregelen worden aangepast aan een toename van de dreiging. Elke partij stemt ermee in dat haar luchtvaartmaatschappijen door de andere partij kunnen worden verplicht de in lid 3 vermelde voorschriften inzake beveiliging van de luchtvaart in acht te nemen voor de toegang tot, het vertrek uit of het verblijf op het grondgebied van die andere partij. Elke partij zal ook ingaan op alle redelijke verzoeken van de andere partij om, naar aanleiding van een specifieke dreiging, bijzondere beveiligingsmaatregelen te nemen.
 
 5. Wanneer een geval van wederrechtelijk in zijn macht brengen van burgerluchtvaartuigen of een andere wederrechtelijke daad tegen de veiligheid van dergelijke luchtvaartuigen, hun passagiers en bemanning, luchthavens en luchtvaartnavigatiefaciliteiten zich voordoet of dreigt voor te doen, staan de partijen elkaar wederzijds bij door de communicatie te vergemakkelijken en andere passende maatregelen te nemen om snel en veilig een eind te maken aan het incident of de dreiging.
 
@@ -381,7 +273,7 @@ De bevoegde autoriteiten van de ene partij verstrekken de bevoegde autoriteiten 
 
 8. Wanneer een onmiddellijke en buitengewone dreiging dit vereist, mag een partij voorlopige maatregelen treffen vóór het verstrijken van de vijftien (15) dagen.
 
-9. De overeenkomstig lid 7 genomen maatregelen worden beëindigd stopgezet zodra de andere partij de bepalingen van dit artikel naleeft.
+9. De overeenkomstig lid 7 genomen maatregelen worden beëindigd stopgezet zodra de andere partij de bepalingen van dit artikel naleeft.
 
 ##### Artikel 16. Luchtverkeersbeheer
 
@@ -413,7 +305,7 @@ De partijen handelen overeenkomstig de in bijlage VI E gespecificeerde Gemeensch
 
 De partijen handelen overeenkomstig de in bijlage VI F gespecificeerde Gemeenschapswetgeving inzake luchtvervoer.
 
-## TITEL III. INSTITUTIONELE BEPALINGEN
+### TITEL III. INSTITUTIONELE BEPALINGEN
 
 ##### Artikel 21. Uitlegging en handhaving
 
@@ -443,7 +335,7 @@ De partijen handelen overeenkomstig de in bijlage VI F gespecificeerde Gemeensch
 
 8. In de besluiten van het gemengd comité moet melding worden gemaakt van de datum van tenuitvoerlegging door de partijen en van alle andere informatie die de economische exploitanten kan aanbelangen.
 
-9. Onverminderd lid 2 kunnen de partijen passende en tijdelijke vrijwaringsmaatregelen overeenkomstig artikel 24 nemen als het gemengd comité binnen zes maanden na doorverwijzing van een kwestie nog geen beslissing over die kwestie heeft genomen.
+9. Onverminderd lid 2 kunnen de partijen passende en tijdelijke vrijwaringsmaatregelen overeenkomstig artikel 24 nemen als het gemengd comité binnen zes maanden na doorverwijzing van een kwestie nog geen beslissing over die kwestie heeft genomen.
 
 10. Het gemengd comité onderzoekt vraagstukken met betrekking tot bilaterale investeringen of meerderheidsbelangen of wijzigingen in de daadwerkelijke controle van luchtvaartmaatschappijen van de partijen.
 
@@ -461,9 +353,9 @@ De partijen handelen overeenkomstig de in bijlage VI F gespecificeerde Gemeensch
 
 2. Het gemengd comité kan het geschil middels een besluit beslechten.
 
-3. De partijen stellen de maatregelen vast die nodig zijn voor de tenuitvoerlegging van het in lid 2 bedoelde besluit.
+3. De partijen stellen de maatregelen vast die nodig zijn voor de tenuitvoerlegging van het in lid 2 bedoelde besluit.
 
-4. Als het geschil niet overeenkomstig lid 2 kan worden beslecht, wordt het, op verzoek van een van de partijen, voorgelegd aan een arbitragecommissie van drie arbiters, overeenkomstig de hierna vastgestelde procedure:
+4. Als het geschil niet overeenkomstig lid 2 kan worden beslecht, wordt het, op verzoek van een van de partijen, voorgelegd aan een arbitragecommissie van drie arbiters, overeenkomstig de hierna vastgestelde procedure:
 
 - a. uiterlijk zestig (60) dagen nadat het arbitragehof het door de andere partij via diplomatieke kanalen verzonden verzoek om arbitrage heeft ontvangen, stelt elke partij een arbiter aan; de derde arbiter wordt door de twee voornoemde arbiters aangesteld binnen een aanvullende termijn van zestig (60) dagen. Als een van de partijen niet binnen de overeengekomen termijn een arbiter heeft aangesteld, of als de derde arbiter niet binnen de overeengekomen termijn wordt aangesteld, kan elke partij de voorzitter van de raad van de Internationale Burgerluchtvaartorganisatie verzoeken een arbiter of arbiters aan te stellen;
 

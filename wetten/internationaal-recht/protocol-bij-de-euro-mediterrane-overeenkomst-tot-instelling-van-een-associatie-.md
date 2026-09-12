@@ -1,111 +1,19 @@
 ---
 title: "Protocol bij de Euro-mediterrane Overeenkomst tot instelling van een associatie tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en het Hasjemitische Koninkrijk Jordanië, anderzijds, teneinde rekening te houden met de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Hongarije, de Republiek Letland, de Republiek Litouwen, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie"
 identifier: "BWBV0001662"
-country: "nl"
-rank: "verdrag"
-publication_date: "2006-08-01"
-last_updated: "2004-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001662"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002053453"
-version_id: "10002131882"
-internal_id: "C10006996571"
-label_id: "10002043644"
-dtd_version: "2.0"
-original_entry_into_force: "2006-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001662/2006-08-01/0"
-intitule_bron: "Trb.2005-309"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-05-01"
-intitule_published: "2006-01-18"
-intitule_in_force: "2007-08-24"
-intitule_status: "goed"
-original_publication: "Trb.2005-309"
-original_signed_date: "2004-05-01"
-original_published_date: "2006-01-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2005-309"
-entry_into_force_date: "2006-08-01"
-jci_1_3: "jci1.3:c:BWBV0001662&z=2006-08-01&g=2006-08-01"
-jci_1_0: "1.0:c:BWBV0001662&g=2006-08-01"
-citeertitel_status: "redactioneel"
-signed_date: "2004-05-01"
-entry_into_force: "2006-08-01"
+publicatiedatum: 2006-08-01
+laatste_update: 2006-08-01
+status: geldig
+toestand: 2006-08-01
+bron: "https://wetten.overheid.nl/BWBV0001662"
+opgehaald: 2026-09-12
 ---
+
 # Protocol bij de Euro-mediterrane Overeenkomst tot instelling van een associatie tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en het Hasjemitische Koninkrijk Jordanië, anderzijds, teneinde rekening te houden met de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Hongarije, de Republiek Letland, de Republiek Litouwen, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie
 
-Het Koninkrijk België,
-
-De Tsjechische Republiek,
-
-Het Koninkrijk Denemarken,
-
-De Bondsrepubliek Duitsland,
-
-De Republiek Estland,
-
-De Helleense Republiek,
-
-Het Koninkrijk Spanje,
-
-De Franse Republiek,
-
-Ierland,
-
-De Italiaanse Republiek,
-
-De Republiek Cyprus,
-
-De Republiek Letland,
-
-De Republiek Litouwen,
-
-Het Groothertogdom Luxemburg,
-
-De Republiek Hongarije,
-
-De Republiek Malta,
-
-Het Koninkrijk der Nederlanden,
-
-De Republiek Oostenrijk,
-
-De Republiek Polen,
-
-De Portugese Republiek,
-
-De Republiek Slovenie,
-
-De Slowaakse Republiek,
-
-De Republiek Finland,
-
-Het Koninkrijk Zweden,
-
-Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-hierna „de lidstaten van de Europese Gemeenschap’’ genoemd, vertegenwoordigd door de Raad van de Europese Unie, en
-
-de Europese Gemeenschap, hierna „de Gemeenschap’’ genoemd, vertegenwoordigd door de Raad van de Europese Unie en de Commissie van de Europese Gemeenschappen,
-
-enerzijds,
-
-en het Hasjemitische Koninkrijk Jordanie, hierna „Jordanië’’ genoemd,
-
-anderzijds,
-
-Overwegende hetgeen volgt:
-
-De Euro-mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en het Hasjemitische Koninkrijk Jordanië, anderzijds, hierna „de Euro-mediterrane Overeenkomst’’ genoemd, is op 24 november 1997 in Brussel ondertekend en op 1 mei 2002 in werking getreden;
-
-Het Verdrag betreffende de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie en de Akte betreffende de toetredingsvoorwaarden zijn op 16 april 2003 in Athene ondertekend en op 1 mei 2004 in werking getreden;
-
-Op grond van artikel 6, lid 2, van de Toetredingsakte van 2003 dient de toetreding van de nieuwe overeenkomstsluitende partijen tot de Euro-mediterrane Overeenkomst te worden overeengekomen door de sluiting van een protocol bij de Euro-mediterrane overeenkomst;
-
-Overeenkomstig artikel 22, lid 2, van de Euro-mediterrane Overeenkomst heeft overleg plaatsgevonden teneinde ervoor te zorgen dat met de wederzijdse belangen van de Gemeenschap en Jordanië rekening is gehouden,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk België, De Tsjechische Republiek, Het Koninkrijk Denemarken, De Bondsrepubliek Duitsland, De Republiek Estland, De Helleense Republiek, Het Koninkrijk Spanje, De Franse Republiek, Ierland, De Italiaanse Republiek, De Republiek Cyprus, De Republiek Letland, De Republiek Litouwen, Het Groothertogdom Luxemburg, De Republiek Hongarije, De Republiek Malta, Het Koninkrijk der Nederlanden, De Republiek Oostenrijk, De Republiek Polen, De Portugese Republiek, De Republiek Slovenie, De Slowaakse Republiek, De Republiek Finland, Het Koninkrijk Zweden, Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, hierna „de lidstaten van de Europese Gemeenschap’’ genoemd, vertegenwoordigd door de Raad van de Europese Unie, en de Europese Gemeenschap, hierna „de Gemeenschap’’ genoemd, vertegenwoordigd door de Raad van de Europese Unie en de Commissie van de Europese Gemeenschappen, enerzijds, en het Hasjemitische Koninkrijk Jordanie, hierna „Jordanië’’ genoemd, anderzijds, Overwegende hetgeen volgt: De Euro-mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en het Hasjemitische Koninkrijk Jordanië, anderzijds, hierna „de Euro-mediterrane Overeenkomst’’ genoemd, is op 24 november 1997 in Brussel ondertekend en op 1 mei 2002 in werking getreden; Het Verdrag betreffende de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie en de Akte betreffende de toetredingsvoorwaarden zijn op 16 april 2003 in Athene ondertekend en op 1 mei 2004 in werking getreden; Op grond van artikel 6, lid 2, van de Toetredingsakte van 2003 dient de toetreding van de nieuwe overeenkomstsluitende partijen tot de Euro-mediterrane Overeenkomst te worden overeengekomen door de sluiting van een protocol bij de Euro-mediterrane overeenkomst; Overeenkomstig artikel 22, lid 2, van de Euro-mediterrane Overeenkomst heeft overleg plaatsgevonden teneinde ervoor te zorgen dat met de wederzijdse belangen van de Gemeenschap en Jordanië rekening is gehouden, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -119,11 +27,11 @@ Teneinde rekening te houden met recente institutionele ontwikkelingen in de Euro
 
 ##### Artikel 3. Voorzitterschap van het Associatiecomité
 
-Wijzigt de Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en het Hasjemitisch Koninkrijk Jordanië, anderzijds; Brussel, 24-11-1997
+*Wijzigt de Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en het Hasjemitisch Koninkrijk Jordanië, anderzijds; Brussel, 24-11-1997*
 
 ##### Artikel 4. Oorsprongsregels
 
-Wijzigt de Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en het Hasjemitisch Koninkrijk Jordanië, anderzijds; Brussel, 24-11-1997
+*Wijzigt de Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en het Hasjemitisch Koninkrijk Jordanië, anderzijds; Brussel, 24-11-1997*
 
 ### HOOFDSTUK II. OVERGANGSBEPALINGEN
 
@@ -146,8 +54,6 @@ Indien goederen vóór de datum van toetreding voor invoer in Jordanië of een n
 - b. de toegelaten exporteurs de regels van oorsprong uit hoofde van die Euro-mediterrane Overeenkomst toepassen.
 
 Deze vergunningen worden uiterlijk één jaar na de datum van toetreding vervangen door nieuwe vergunningen die onder de voorwaarden van de Euro-mediterrane Overeenkomst worden afgegeven.
-
-3.
 
 Verzoeken om controle achteraf van bewijzen van oorsprong die zijn afgegeven op grond van de in lid 1 en lid 2 bedoelde preferentiële overeenkomsten of autonome regelingen, moeten gedurende een periode van drie jaar na de afgifte van het betrokken bewijs van oorsprong door de bevoegde douaneautoriteiten van Jordanië of de lidstaten worden aanvaard en kunnen gedurende een periode van drie jaar na aanvaarding van het bewijs van oorsprong dat ter staving van een invoeraangifte aan die autoriteiten is voorgelegd, door die autoriteiten worden ingediend.
 

@@ -7,7 +7,7 @@ laatste_update: 2025-10-24
 status: geldig
 toestand: 2025-10-24
 bron: "https://wetten.overheid.nl/BWBV0007162"
-opgehaald: 2026-09-11
+opgehaald: 2026-09-12
 ---
 
 # Versterkte Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Oezbekistan, anderzijds

@@ -1,111 +1,19 @@
 ---
 title: "Protocol bij de Partnerschaps- en Samenwerkingsovereenkomst (PSO) tussen de Europese Gemeenschappen en hun lidstaten, en Oekraïne, in verband met de toetreding van de Republiek Bulgarije en Roemenië tot de PSO"
 identifier: "BWBV0002092"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-09-01"
-last_updated: "2007-03-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002092"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002657993"
-version_id: "10002655362"
-internal_id: "C10006998111"
-label_id: "10002646454"
-dtd_version: "2.0"
-original_entry_into_force: "2008-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002092/2008-09-01/0"
-intitule_bron: "Trb.2007-109"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-03-27"
-intitule_published: "2007-07-02"
-intitule_in_force: "2008-11-05"
-intitule_status: "goed"
-original_publication: "Trb.2007-109"
-original_signed_date: "2007-03-27"
-original_published_date: "2007-07-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2007-109"
-entry_into_force_date: "2008-09-01"
-jci_1_3: "jci1.3:c:BWBV0002092&z=2008-09-01&g=2008-09-01"
-jci_1_0: "1.0:c:BWBV0002092&g=2008-09-01"
-citeertitel_status: "redactioneel"
-signed_date: "2007-03-27"
-entry_into_force: "2008-09-01"
+publicatiedatum: 2008-09-01
+laatste_update: 2008-09-01
+status: geldig
+toestand: 2008-09-01
+bron: "https://wetten.overheid.nl/BWBV0002092"
+opgehaald: 2026-09-12
 ---
+
 # Protocol bij de Partnerschaps- en Samenwerkingsovereenkomst (PSO) tussen de Europese Gemeenschappen en hun lidstaten, en Oekraïne, in verband met de toetreding van de Republiek Bulgarije en Roemenië tot de PSO
 
-Het Koninkrijk België,
-
-De Republiek Bulgarije,
-
-De Tsjechische Republiek,
-
-Het Koninkrijk Denemarken,
-
-De Bondsrepubliek Duitsland,
-
-De Republiek Estland,
-
-De Helleense Republiek,
-
-Het Koninkrijk Spanje,
-
-De Franse Republiek,
-
-Ierland,
-
-De Italiaanse Republiek,
-
-De Republiek Cyprus,
-
-De Republiek Letland,
-
-De Republiek Litouwen,
-
-Het Groothertogdom Luxemburg,
-
-De Republiek Hongarije,
-
-De Republiek Malta,
-
-Het Koninkrijk der Nederlanden,
-
-De Republiek Oostenrijk,
-
-De Republiek Polen,
-
-De Portugese Republiek,
-
-Roemenië,
-
-De Republiek Slovenië,
-
-De Slowaakse Republiek,
-
-De Republiek Finland,
-
-Het Koninkrijk Zweden,
-
-Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-hierna „de lidstaten’’ genoemd, vertegenwoordigd door de Raad van de Europese Unie, en
-
-de Europese Gemeenschap en de Europese Gemeenschap voor atoomenergie,
-
-hierna „de Gemeenschappen’’ genoemd, vertegenwoordigd door de Raad van de Europese Unie en de Europese Commissie, enerzijds, en
-
-Oekraïne anderzijds,
-
-voor de toepassing van dit protocol hierna „de Partijen’’ genoemd,
-
-Gelet op de bepalingen van het Verdrag tussen het Koninkrijk België, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (lidstaten van de Europese Unie), en de Republiek Bulgarije en Roemenië betreffende de toetreding van de Republiek Bulgarije en Roemenië tot de Europese Unie, dat op 25 april 2005 te Luxemburg werd ondertekend en op 1 januari 2007 in werking is getreden,
-
-Gezien de nieuwe situatie in de betrekkingen tussen Oekraïne en de Europese Unie die voortvloeit uit de toetreding tot de Europese Unie van twee nieuwe lidstaten, die leidt tot kansen en uitdagingen voor de samenwerking tussen Oekraïne en de Europese Unie,
-
-Rekening houdend met de wens van de Partijen de doelstellingen en beginselen van de Partnerschaps- en Samenwerkingsovereenkomst te verwezenlijken en ten uitvoer te leggen,
-
-Besluiten:
+*Het Koninkrijk België, De Republiek Bulgarije, De Tsjechische Republiek, Het Koninkrijk Denemarken, De Bondsrepubliek Duitsland, De Republiek Estland, De Helleense Republiek, Het Koninkrijk Spanje, De Franse Republiek, Ierland, De Italiaanse Republiek, De Republiek Cyprus, De Republiek Letland, De Republiek Litouwen, Het Groothertogdom Luxemburg, De Republiek Hongarije, De Republiek Malta, Het Koninkrijk der Nederlanden, De Republiek Oostenrijk, De Republiek Polen, De Portugese Republiek, Roemenië, De Republiek Slovenië, De Slowaakse Republiek, De Republiek Finland, Het Koninkrijk Zweden, Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, hierna „de lidstaten’’ genoemd, vertegenwoordigd door de Raad van de Europese Unie, en de Europese Gemeenschap en de Europese Gemeenschap voor atoomenergie, hierna „de Gemeenschappen’’ genoemd, vertegenwoordigd door de Raad van de Europese Unie en de Europese Commissie, enerzijds, en Oekraïne anderzijds, voor de toepassing van dit protocol hierna „de Partijen’’ genoemd, Gelet op de bepalingen van het Verdrag tussen het Koninkrijk België, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (lidstaten van de Europese Unie), en de Republiek Bulgarije en Roemenië betreffende de toetreding van de Republiek Bulgarije en Roemenië tot de Europese Unie, dat op 25 april 2005 te Luxemburg werd ondertekend en op 1 januari 2007 in werking is getreden, Gezien de nieuwe situatie in de betrekkingen tussen Oekraïne en de Europese Unie die voortvloeit uit de toetreding tot de Europese Unie van twee nieuwe lidstaten, die leidt tot kansen en uitdagingen voor de samenwerking tussen Oekraïne en de Europese Unie, Rekening houdend met de wens van de Partijen de doelstellingen en beginselen van de Partnerschaps- en Samenwerkingsovereenkomst te verwezenlijken en ten uitvoer te leggen, Besluiten:*
 
 ##### Artikel 1
 

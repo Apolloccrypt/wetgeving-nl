@@ -1,44 +1,18 @@
 ---
-title: "Administratief Akkoord tussen het Koninkrijk der Nederlanden en de Republiek Indonesië inzake het project \"Aceh and Nias Sea Defense, Flood Protection, Refuges and Early Warning Systems Consultancy\""
+title: "Administratief Akkoord tussen het Koninkrijk der Nederlanden en de Republiek Indonesië inzake het project 'Aceh and Nias Sea Defense, Flood Protection, Refuges and Early Warning Systems Consultancy'"
 identifier: "BWBV0001792"
-country: "nl"
-rank: "verdrag"
-publication_date: "2006-03-13"
-last_updated: "2006-03-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001792"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002333003"
-version_id: "10002342932"
-internal_id: "C10006996701"
-label_id: "10002322814"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001792/2006-03-13/0"
-intitule_bron: "Trb.2006-90"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-03-13"
-intitule_published: "2006-04-26"
-intitule_status: "nogniet"
-original_publication: "Trb.2006-90"
-original_signed_date: "2006-03-13"
-original_published_date: "2006-04-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2006-90"
-jci_1_3: "jci1.3:c:BWBV0001792&z=2006-03-13&g=2006-03-13"
-jci_1_0: "1.0:c:BWBV0001792&g=2006-03-13"
-citeertitel_status: "redactioneel"
-signed_date: "2006-03-13"
-entry_into_force: "2006-04-26"
+laatste_update: 2006-03-13
+status: geldig
+toestand: 2006-03-13
+bron: "https://wetten.overheid.nl/BWBV0001792"
+opgehaald: 2026-09-12
 ---
+
 # Administratief Akkoord tussen het Koninkrijk der Nederlanden en de Republiek Indonesië inzake het project "Aceh and Nias Sea Defense, Flood Protection, Refuges and Early Warning Systems Consultancy"
 
-The Netherlands Minister for Development Cooperation, being the competent Netherlands Authority for the purpose of this Administrative Arrangement, hereinafter referred to as ‘‘the Netherlands Party’’, represented in this matter by the Ambassador Extraordinary and Plenipotentiary of Her Majesty the Queen of the Netherlands, Dr. N. van Dam, and the Rehabilitation and Reconstruction Executing Agency for Aceh and Nias represented in this matter by Dr. Kuntoro Mangkusubroto, being the competent Indonesian Authority for the purpose of this Administrative Arrangement, hereinafter referred to as the ‘‘Indonesian Party’’,
-
-Having decided to cooperate in the development of an Aceh and Nias Sea Defence, Flood Protection, Refuges and Early Warning Strategy,
-
-Having regard to the provisions of Article 3 of the Agreement concerning Technical Cooperation between the Kingdom of the Netherlands and the Republic of Indonesia signed at The Hague on April 3, 1964, hereinafter referred to as ‘‘the Agreement’’,
-
-Have agreed as follows:
+*The Netherlands Minister for Development Cooperation, being the competent Netherlands Authority for the purpose of this Administrative Arrangement, hereinafter referred to as ‘‘the Netherlands Party’’, represented in this matter by the Ambassador Extraordinary and Plenipotentiary of Her Majesty the Queen of the Netherlands, Dr. N. van Dam, and the Rehabilitation and Reconstruction Executing Agency for Aceh and Nias represented in this matter by Dr. Kuntoro Mangkusubroto, being the competent Indonesian Authority for the purpose of this Administrative Arrangement, hereinafter referred to as the ‘‘Indonesian Party’’, Having decided to cooperate in the development of an Aceh and Nias Sea Defence, Flood Protection, Refuges and Early Warning Strategy, Having regard to the provisions of Article 3 of the Agreement concerning Technical Cooperation between the Kingdom of the Netherlands and the Republic of Indonesia signed at The Hague on April 3, 1964, hereinafter referred to as ‘‘the Agreement’’, Have agreed as follows:*
 
 ##### Article I. The Project
 
@@ -58,13 +32,13 @@ Have agreed as follows:
 
 The Indonesian Party shall make the following contribution to the Project:
 
-- –. Provision of all permits and licenses necessary for the work;
+- – Provision of all permits and licenses necessary for the work;
 
-- –. Base mapping at scale 1:2000 for each of the priority areas;
+- – Base mapping at scale 1:2000 for each of the priority areas;
 
-- –. Office location. However, the provision and maintenance of a working office is the responsibility of the Consultant;
+- – Office location. However, the provision and maintenance of a working office is the responsibility of the Consultant;
 
-- –. Tax exemption for goods and services procured under the contract.
+- – Tax exemption for goods and services procured under the contract.
 
 ##### Article IV. The Executive Authorities
 
@@ -126,13 +100,13 @@ This Administrative Arrangement shall expire either at the end of the period sta
 
 DONE at Jakarta on the 13th day of March 2006, in two originals in the English language.
 
-**For the Netherlands Minister for Development Cooperation,**
+*For the Netherlands Minister for Development Cooperation,*
 
 N. VAN DAM
 
 Ambassador
 
-**The Rehabilitation and Reconstruction Executing Agency for Aceh and Nias,**
+*The Rehabilitation and Reconstruction Executing Agency for Aceh and Nias,*
 
 KUNTORO MANGKUSUBROTO
 

@@ -1,49 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Noorwegen inzake wederzijdse administratieve bijstand in douanezaken"
 identifier: "BWBV0002198"
-country: "nl"
-rank: "verdrag"
-publication_date: "1984-04-18"
-last_updated: "1984-04-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002198"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10002696423"
-version_id: "10002695452"
-internal_id: "C10006979201"
-label_id: "10002684714"
-dtd_version: "2.0"
-original_entry_into_force: "1984-04-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002198/1984-04-18/0"
-intitule_bron: "Trb.1984-8"
-intitule_effect: "nieuw"
-intitule_signed: "1983-12-20"
-intitule_published: "1984-01-16"
-intitule_in_force: "1984-05-23"
-intitule_status: "goed"
-original_publication: "Trb.1984-8"
-original_signed_date: "1983-12-20"
-original_published_date: "1984-01-16"
-original_effect: "nieuw"
-original_url_id: "trb-1984-8"
-entry_into_force_date: "1984-04-18"
-jci_1_3: "jci1.3:c:BWBV0002198&z=1984-04-18&g=1984-04-18"
-jci_1_0: "1.0:c:BWBV0002198&g=1984-04-18"
-citeertitel_status: "officieel"
-signed_date: "1983-12-20"
-entry_into_force: "1984-04-18"
+publicatiedatum: 1984-04-18
+laatste_update: 1984-04-18
+status: geldig
+toestand: 1984-04-18
+bron: "https://wetten.overheid.nl/BWBV0002198"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Noorwegen inzake wederzijdse administratieve bijstand in douanezaken
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Noorwegen,
-
-Overwegende, dat strafbare feiten op het gebied van de douanewetten nadeel toebrengen aan de economische en fiscale belangen van hun onderscheiden landen alsook aan de rechtmatige belangen van handel, nijverheid en landbouw,
-
-Ervan overtuigd, dat het streven naar voorkoming van strafbare feiten op het gebied van de douanewetten en het streven naar grotere juistheid in de toepassing van douanerechten, belastingen en alle andere heffingen op invoer of uitvoer doeltreffender zullen worden als gevolg van samenwerking tussen de douaneautoriteiten,
-
-Gelet op de bestaande internationale instrumenten die betrekking hebben op het verlenen van administratieve bijstand door hun douaneautoriteiten,
-
-zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Noorwegen, Overwegende, dat strafbare feiten op het gebied van de douanewetten nadeel toebrengen aan de economische en fiscale belangen van hun onderscheiden landen alsook aan de rechtmatige belangen van handel, nijverheid en landbouw, Ervan overtuigd, dat het streven naar voorkoming van strafbare feiten op het gebied van de douanewetten en het streven naar grotere juistheid in de toepassing van douanerechten, belastingen en alle andere heffingen op invoer of uitvoer doeltreffender zullen worden als gevolg van samenwerking tussen de douaneautoriteiten, Gelet op de bestaande internationale instrumenten die betrekking hebben op het verlenen van administratieve bijstand door hun douaneautoriteiten, zijn het volgende overeengekomen:*
 
 #### Begripsbepalingen
 
@@ -213,10 +183,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, deze Overe
 
 GEDAAN in tweevoud op 20 december 1983 te Oslo in de Nederlandse, de Noorse en de Engelse taal, zijnde deze teksten gelijkelijk authentiek. In geval van verschil in de uitleg tussen de Nederlandse en de Noorse tekst, is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden:**
+*Voor de Regering van het Koninkrijk der Nederlanden:*
 
 (w.g.) W. S. J. CAMPAGNE
 
-**Voor de Regering van het Koninkrijk Noorwegen:**
+*Voor de Regering van het Koninkrijk Noorwegen:*
 
 (w.g.) SVENN STRAY

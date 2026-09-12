@@ -1,49 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Tunesië inzake het vervoer over de weg van personen en goederen en transitovervoer"
 identifier: "BWBV0001950"
-country: "nl"
-rank: "verdrag"
-publication_date: "2007-03-15"
-last_updated: "2004-05-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001950"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002579763"
-version_id: "10002570532"
-internal_id: "C10006994221"
-label_id: "10002569204"
-dtd_version: "2.0"
-original_entry_into_force: "2007-03-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001950/2007-03-15/0"
-intitule_bron: "Trb.2004-205"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-03-01"
-intitule_published: "2004-08-19"
-intitule_in_force: "2007-04-16"
-intitule_status: "goed"
-original_publication: "Trb.2004-205"
-original_signed_date: "2005-03-01"
-original_published_date: "2004-08-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2004-205"
-entry_into_force_date: "2007-03-15"
-jci_1_3: "jci1.3:c:BWBV0001950&z=2007-03-15&g=2007-03-15"
-jci_1_0: "1.0:c:BWBV0001950&g=2007-03-15"
-citeertitel_status: "redactioneel"
-signed_date: "2005-03-01"
-entry_into_force: "2007-03-15"
+publicatiedatum: 2007-03-15
+laatste_update: 2007-03-15
+status: geldig
+toestand: 2007-03-15
+bron: "https://wetten.overheid.nl/BWBV0001950"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Tunesië inzake het vervoer over de weg van personen en goederen en transitovervoer
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Tunesië, hun staten hierna te noemen de „Verdragsluitende Partijen";
-
-Geleid door de wens bij te dragen aan de ontwikkeling van economische en handelsbetrekkingen tussen hun landen;
-
-Besloten hebbend de samenwerking op het gebied van het vervoer over de weg te bevorderen;
-
-Overtuigd van het belang en de wederzijdse voordelen van een verdrag inzake het vervoer over de weg en transitovervoer;
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Tunesië, hun staten hierna te noemen de „Verdragsluitende Partijen"; Geleid door de wens bij te dragen aan de ontwikkeling van economische en handelsbetrekkingen tussen hun landen; Besloten hebbend de samenwerking op het gebied van het vervoer over de weg te bevorderen; Overtuigd van het belang en de wederzijdse voordelen van een verdrag inzake het vervoer over de weg en transitovervoer; Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
@@ -67,11 +37,11 @@ In dit Verdrag wordt verstaan onder:
 
 - a. elk wegvoertuig gebouwd of ingericht voor:
 
-- –. het vervoer van personen en met meer dan negen (9) zitplaatsen, die van de bestuurder daaronder begrepen;
+   - – het vervoer van personen en met meer dan negen (9) zitplaatsen, die van de bestuurder daaronder begrepen;
 
-- –. het vervoer van goederen, waarvan het toegestane totaalgewicht in beladen toestand hoger is dan 3,5 ton in Tunesië of 6 ton in Nederland;
+   - – het vervoer van goederen, waarvan het toegestane totaalgewicht in beladen toestand hoger is dan 3,5 ton in Tunesië of 6 ton in Nederland;
 
-- –. het trekken van een ander voertuig dat is gebouwd of ingericht voor het vervoer van goederen;
+   - – het trekken van een ander voertuig dat is gebouwd of ingericht voor het vervoer van goederen;
 
 - b. elke aanhangwagen of oplegger;
 
@@ -99,17 +69,17 @@ In dit Verdrag wordt verstaan onder:
 
 „Vervoer voor eigen rekening": het vervoer
 
-- –. uitgevoerd met gebruikmaking van voertuigen
+- – uitgevoerd met gebruikmaking van voertuigen
 
-- –. die toebehoren aan de vervoersondernemer of door deze worden geleasd;
+   - – die toebehoren aan de vervoersondernemer of door deze worden geleasd;
 
-- –. en bestuurd worden door het eigen personeel van de vervoersondernemer;
+   - – en bestuurd worden door het eigen personeel van de vervoersondernemer;
 
-- –. dat slechts een nevenactiviteit is binnen het geheel van de activiteiten van de vervoersondernemer; of
+- – dat slechts een nevenactiviteit is binnen het geheel van de activiteiten van de vervoersondernemer; of
 
-- –. van klanten of van personeel van de vervoersondernemer;
+- – van klanten of van personeel van de vervoersondernemer;
 
-- –. van goederen die toebehoren aan de vervoersondernemer of door deze zijn verkocht, gekocht, verhuurd of gehuurd, vervaardigd, gewonnen, verwerkt of gerepareerd, en die vervoerd worden om de goederen naar de onderneming te brengen, van de onderneming te verzenden of ten behoeve van de onderneming te verplaatsen.
+- – van goederen die toebehoren aan de vervoersondernemer of door deze zijn verkocht, gekocht, verhuurd of gehuurd, vervaardigd, gewonnen, verwerkt of gerepareerd, en die vervoerd worden om de goederen naar de onderneming te brengen, van de onderneming te verzenden of ten behoeve van de onderneming te verplaatsen.
 
 „Controledocument": het reisblad voor autobussen, conform het model dat door de in artikel 13 van dit Verdrag bedoelde Gemengde Commissie, wordt vastgesteld.
 
@@ -129,9 +99,9 @@ In dit Verdrag wordt verstaan onder:
 
 2. Als uitzondering op het eerste lid zijn de volgende diensten vrijgesteld van vergunningsvereisten op het grondgebied van het gastheerland:
 
-- 2.1. vervoer met gesloten deuren;
+- 2.1 vervoer met gesloten deuren;
 
-- 2.2. vervoer voor eigen rekening.
+- 2.2 vervoer voor eigen rekening.
 
 3. Het is niet toegestaan passagiers mee te nemen tijdens een vrijgestelde dienst, tenzij daarvoor bijzondere toestemming is verleend.
 
@@ -231,9 +201,9 @@ De vergunningen, de controledocumenten en de andere documenten die ingevolge dit
 
 2. Onverminderd te nemen gerechtelijke stappen, kunnen de bevoegde autoriteiten van het land van vestiging in het geval van ernstige of herhaalde overtredingen die begaan worden op het grondgebied van het gastheerland en op verzoek van deze, de volgende administratieve maatregelen nemen:
 
-- –. het geven van een waarschuwing;
+- – het geven van een waarschuwing;
 
-- –. het ontzeggen van de toegang tot het grondgebied van de Verdragsluitende Partij op het grondgebied waarvan de overtreding(en) is (zijn) begaan.
+- – het ontzeggen van de toegang tot het grondgebied van de Verdragsluitende Partij op het grondgebied waarvan de overtreding(en) is (zijn) begaan.
 
 In zeer ernstige gevallen kan de bevoegde autoriteit van het gastheerland de toegang tijdelijk ontzeggen hangende een besluit van de autoriteit van het land van vestiging.
 
@@ -263,13 +233,13 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun 
 
 GEDAAN te Tunis op 28 mei 2004 in tweevoud in de Nederlandse, de Arabische en de Franse taal, zijnde de drie teksten gelijkelijk authentiek. In geval van verschil in interpretatie is de Franse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 ROBERT ENGELS
 
 Ambassadeur van het Koninkrijk der Nederlanden
 
-**Voor de Regering van de Republiek Tunesië**
+*Voor de Regering van de Republiek Tunesië*
 
 MOHAMED MONGI LAHBIB
 

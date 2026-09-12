@@ -1,113 +1,19 @@
 ---
 title: "Samenwerkingsovereenkomst betreffende een Civiel Globaal Navigatiesatellietsysteem (GNSS) tussen de Europese Gemeenschap en haar Lidstaten en de Staat Israël"
+citeertitel: "Samenwerkingsovereenkomst betreffende een Civiel Globaal Navigatiesatellietsysteem (GNSS) tussen de Europese Gemeenschap en haar lidstaten en de Staat Israël"
 identifier: "BWBV0001777"
-country: "nl"
-rank: "verdrag"
-publication_date: "2004-07-13"
-last_updated: "2004-07-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001777"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002143553"
-version_id: "10002241732"
-internal_id: "C10006995431"
-label_id: "10002133764"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001777/2004-07-13/0"
-intitule_bron: "Trb.2004-270"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-12-22"
-intitule_published: "2004-11-11"
-intitule_status: "nogniet"
-original_publication: "Trb.2004-270"
-original_signed_date: "2005-12-22"
-original_published_date: "2004-11-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2004-270"
-jci_1_3: "jci1.3:c:BWBV0001777&z=2004-07-13&g=2004-07-13"
-jci_1_0: "1.0:c:BWBV0001777&g=2004-07-13"
-citeertitel_status: "redactioneel"
-short_title: "Samenwerkingsovereenkomst betreffende een Civiel Globaal Navigatiesatellietsysteem (GNSS) tussen de Europese Gemeenschap en haar lidstaten en de Staat Israël"
-signed_date: "2005-12-22"
-entry_into_force: "2004-11-11"
+laatste_update: 2004-07-13
+status: geldig
+toestand: 2004-07-13
+bron: "https://wetten.overheid.nl/BWBV0001777"
+opgehaald: 2026-09-12
 ---
+
 # Samenwerkingsovereenkomst betreffende een Civiel Globaal Navigatiesatellietsysteem (GNSS) tussen de Europese Gemeenschap en haar Lidstaten en de Staat Israël
 
-De Europese Gemeenschap, hierna de „Gemeenschap" te noemen,
-
-en
-
-het Koninkrijk België,
-
-de Tsjechische Republiek,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Republiek Estland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-Ierland,
-
-de Italiaanse Republiek,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-het Groothertogdom Luxemburg,
-
-de Republiek Hongarije,
-
-de Republiek Malta,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Republiek Polen,
-
-de Portugese Republiek,
-
-de Republiek Slovenië,
-
-de Slowaakse Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-de partijen bij het Verdrag tot oprichting van de Europese Gemeenschap, hierna „de lidstaten" te noemen,
-
-enerzijds, en
-
-De Staat Israël, hierna „Israël" te noemen,
-
-anderzijds,
-
-hierna „de partijen" te noemen,
-
-Gezien de gemeenschappelijke belangen bij de ontwikkeling van een globaal navigatiesatellietsysteem voor civiel gebruik,
-
-Erkennende het belang van GALILEO als een bijdrage tot de navigatie- en informatie-infrastructuur in Europa en Israël,
-
-Erkennende de gevorderde toestand van de Israëlische satellietnavigatieactiviteiten,
-
-Gezien de toenemende ontwikkeling van GNSS-toepassingen in Israël, Europa en andere regio's in de wereld,
-
-Wensende de samenwerking te versterken tussen Israël en de Gemeenschap en rekening houdende met de Euro-mediterrane overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Staat Israël, anderzijds, die op 1 juni 2000 in werking is getreden.1)PB L 147 van 21.6.2000, blz. 3.
-
-Zijn overeengekomen hetgeen volgt:
+*De Europese Gemeenschap, hierna de „Gemeenschap" te noemen, en het Koninkrijk België, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de partijen bij het Verdrag tot oprichting van de Europese Gemeenschap, hierna „de lidstaten" te noemen, enerzijds, en De Staat Israël, hierna „Israël" te noemen, anderzijds, hierna „de partijen" te noemen, Gezien de gemeenschappelijke belangen bij de ontwikkeling van een globaal navigatiesatellietsysteem voor civiel gebruik, Erkennende het belang van GALILEO als een bijdrage tot de navigatie- en informatie-infrastructuur in Europa en Israël, Erkennende de gevorderde toestand van de Israëlische satellietnavigatieactiviteiten, Gezien de toenemende ontwikkeling van GNSS-toepassingen in Israël, Europa en andere regio's in de wereld, Wensende de samenwerking te versterken tussen Israël en de Gemeenschap en rekening houdende met de Euro-mediterrane overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Staat Israël, anderzijds, die op 1 juni 2000 in werking is getreden.1)PB L 147 van 21.6.2000, blz. 3. Zijn overeengekomen hetgeen volgt:*
 
 ##### Artikel 1. Doel van de overeenkomst
 

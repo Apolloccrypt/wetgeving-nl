@@ -1,65 +1,37 @@
 ---
-title: "Protocol betreffende de voorrechten en immuniteiten van de Europese Organisatie voor de exploitatie van meteorologische satellieten \"EUMETSAT\""
+title: "Protocol betreffende de voorrechten en immuniteiten van de Europese Organisatie voor de exploitatie van meteorologische satellieten 'EUMETSAT'"
 identifier: "BWBV0002157"
-country: "nl"
-rank: "verdrag"
-publication_date: "2004-01-01"
-last_updated: "2004-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002157"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002682893"
-version_id: "10002681592"
-internal_id: "C10006979171"
-label_id: "10002671274"
-dtd_version: "2.0"
-original_entry_into_force: "1989-01-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002157/2004-01-01/0"
-intitule_bron: "Trb.1988-155"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1988-12-06"
-intitule_published: "1988-12-21"
-intitule_in_force: "1988-12-21"
-intitule_status: "goed"
-original_publication: "Trb.1988-155"
-original_signed_date: "1988-12-06"
-original_published_date: "1988-12-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1988-155"
-entry_into_force_date: "1989-01-05"
-jci_1_3: "jci1.3:c:BWBV0002157&z=2004-01-01&g=2004-01-01"
-jci_1_0: "1.0:c:BWBV0002157&g=2004-01-01"
-citeertitel_status: "officieel"
-signed_date: "1988-12-06"
-entry_into_force: "1989-01-05"
+publicatiedatum: 1989-01-05
+laatste_update: 2004-01-01
+status: geldig
+toestand: 2004-01-01
+bron: "https://wetten.overheid.nl/BWBV0002157"
+opgehaald: 2026-09-12
 ---
+
 # Protocol betreffende de voorrechten en immuniteiten van de Europese Organisatie voor de exploitatie van meteorologische satellieten "EUMETSAT"
 
-The States parties to the [Convention for the Establishment of a European Organisation for the Exploitation of Meteorological Satellites (EUMETSAT)](https://wetten.overheid.nl/jci1.3:c:BWBV0002717), opened for signature at Geneva on 24 May 1983 (hereinafter referred to as the "Convention");
-
-Wishing to define the privileges and immunities in accordance with [Article 12 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002717&artikel=12);
-
-Affirming that the purpose of the privileges and immunities set forth in this Protocol is to ensure the efficient performance of the official activites of EUMETSAT;
-
-Have agreed as follows:
+*The States parties to the Convention for the Establishment of a European Organisation for the Exploitation of Meteorological Satellites (EUMETSAT), opened for signature at Geneva on 24 May 1983 (hereinafter referred to as the "Convention"); Wishing to define the privileges and immunities in accordance with Article 12 of the Convention; Affirming that the purpose of the privileges and immunities set forth in this Protocol is to ensure the efficient performance of the official activites of EUMETSAT; Have agreed as follows:*
 
 ##### Article 1. Use of terms
 
 For the purposes of this Protocol:
 
-- a). "Member State" means a State party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002717);
+- a) "Member State" means a State party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002717);
 
-- b). "archives" means all records, including correspondence, documents, manuscripts, photographs, films, optical and magnetic recordings, data recordings and computer programmes, belonging to or held by EUMETSAT;
+- b) "archives" means all records, including correspondence, documents, manuscripts, photographs, films, optical and magnetic recordings, data recordings and computer programmes, belonging to or held by EUMETSAT;
 
-- c). "official activities" of EUMETSAT means all activities carried out by EUMETSAT in pursuance of its objectives as defined in [Article 2 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002717&artikel=2) and includes its administrative activities;
+- c) "official activities" of EUMETSAT means all activities carried out by EUMETSAT in pursuance of its objectives as defined in [Article 2 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002717&artikel=2) and includes its administrative activities;
 
-- d). "property" means anything that may be subject to a right of ownership as well as contractual rights;
+- d) "property" means anything that may be subject to a right of ownership as well as contractual rights;
 
-- e). "representatives" of Member States means representatives and their advisers;
+- e) "representatives" of Member States means representatives and their advisers;
 
-- f). "staff members" means the Director-General and all persons employed by EUMETSAT, holding permanent appointments and who are subject to its Staff Rules;
+- f) "staff members" means the Director-General and all persons employed by EUMETSAT, holding permanent appointments and who are subject to its Staff Rules;
 
-- g). "expert" means a person other than a staff member appointed to carry out a specific task on behalf of EUMETSAT and at its expense.
+- g) "expert" means a person other than a staff member appointed to carry out a specific task on behalf of EUMETSAT and at its expense.
 
 ##### Article 2. Legal Personality
 
@@ -73,23 +45,23 @@ The archives of EUMETSAT shall be inviolable.
 
 (1). Within the scope of its official activities, EUMETSAT shall have immunity from jurisdiction and execution, except:
 
-- a). in so far as, by decision of the Council, it has expressly waived such immunity in a particular case; the Council has the duty to waive this immunity in all cases where reliance upon it would impede the course of justice and it can be waived without prejudicing the interests of EUMETSAT;
+- a) in so far as, by decision of the Council, it has expressly waived such immunity in a particular case; the Council has the duty to waive this immunity in all cases where reliance upon it would impede the course of justice and it can be waived without prejudicing the interests of EUMETSAT;
 
-- b). in respect of a civil action by a third party for damage arising from an accident caused by a vehicle or other means of transport belonging to or operated on behalf of EUMETSAT or in respect of a traffic offence involving such means of transport;
+- b) in respect of a civil action by a third party for damage arising from an accident caused by a vehicle or other means of transport belonging to or operated on behalf of EUMETSAT or in respect of a traffic offence involving such means of transport;
 
-- c). in respect of the execution of an arbitration award made under Article 21, 22 or 23 of this Protocol or [Article 15 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002717&artikel=15);
+- c) in respect of the execution of an arbitration award made under Article 21, 22 or 23 of this Protocol or [Article 15 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002717&artikel=15);
 
-- d). in the event of the attachment, pursuant to a decision by the administrative or judicial authorities, of the salaries and emoluments, including pension rights, owed by EUMETSAT to a staff member or a former staff member;
+- d) in the event of the attachment, pursuant to a decision by the administrative or judicial authorities, of the salaries and emoluments, including pension rights, owed by EUMETSAT to a staff member or a former staff member;
 
-- e). in respect of a counterclaim directly connected with judicial proceedings initiated by EUMETSAT;
+- e) in respect of a counterclaim directly connected with judicial proceedings initiated by EUMETSAT;
 
-- f). in respect of any commercial activity in which EUMETSAT might engage.
+- f) in respect of any commercial activity in which EUMETSAT might engage.
 
 (2). The property of EUMETSAT, wherever located, shall be immune
 
-- a). from any form of requisition, confiscation or expropriation;
+- a) from any form of requisition, confiscation or expropriation;
 
-- b). from any form of sequestration and administrative or provisional judicial constraint, except in the cases provided for in the preceding paragraph.
+- b) from any form of sequestration and administrative or provisional judicial constraint, except in the cases provided for in the preceding paragraph.
 
 ##### Article 5. Fiscal and Custom Provisions
 
@@ -121,17 +93,17 @@ The circulation of publications and other information material sent by or to EUM
 
 (1). Representatives of Member States shall, while exercising their official functions and in the course of their journeys to and from the place of meeting, enjoy the following privileges and immunities:
 
-- a). immunity from arrest and detention, and from seizure of their personal luggage, except in the case of a grave crime or when found committing, attempting to commit or just having committed an offence;
+- a) immunity from arrest and detention, and from seizure of their personal luggage, except in the case of a grave crime or when found committing, attempting to commit or just having committed an offence;
 
-- b). immunity from jurisdiction, even after the termination of their mission, in respect of acts, including words spoken and written, done by them in the exercise of their functions; this immunity shall not apply, however, in the case of a traffic offence committed by a representative of a Member State, nor in the case of damage caused by a vehicle or other means of transport belonging to or driven by him;
+- b) immunity from jurisdiction, even after the termination of their mission, in respect of acts, including words spoken and written, done by them in the exercise of their functions; this immunity shall not apply, however, in the case of a traffic offence committed by a representative of a Member State, nor in the case of damage caused by a vehicle or other means of transport belonging to or driven by him;
 
-- c). inviolability for all their official papers and documents;
+- c) inviolability for all their official papers and documents;
 
-- d). exemption from all measures restricting immigration and from aliens' registration formalities;
+- d) exemption from all measures restricting immigration and from aliens' registration formalities;
 
-- e). the same treatment in the matter of currency and exchange regulations as is accorded to the representatives of foreign governments on temporary official missions;
+- e) the same treatment in the matter of currency and exchange regulations as is accorded to the representatives of foreign governments on temporary official missions;
 
-- f). the same treatment in the matter of customs as regards their personal luggage as is accorded to the representatives of foreign governments on temporary official missions.
+- f) the same treatment in the matter of customs as regards their personal luggage as is accorded to the representatives of foreign governments on temporary official missions.
 
 (2). Privileges and immunities are accorded to representatives of Member States not for their personal advantage but in order to ensure complete independence in the exercise of their functions in connection with EUMETSAT. Consequently, a Member State has the duty to waive the immunity of a representative wherever retaining it would impede the course of justice and it can be waived without prejudicing the purposes for which it was accorded.
 
@@ -141,21 +113,21 @@ The circulation of publications and other information material sent by or to EUM
 
 The staff members of EUMETSAT shall enjoy the following privileges and immunities:
 
-- a). immunity from jurisdiction, even after they have left the service of EUMETSAT, in respect of acts, including words written and spoken, done by them in the exercise of their function; this immunity shall not apply, however, in the case of a traffic offence committed by a staff member, nor in the case of damage caused by a vehicle or other means of transport belonging to or driven by him;
+- a) immunity from jurisdiction, even after they have left the service of EUMETSAT, in respect of acts, including words written and spoken, done by them in the exercise of their function; this immunity shall not apply, however, in the case of a traffic offence committed by a staff member, nor in the case of damage caused by a vehicle or other means of transport belonging to or driven by him;
 
-- b). exemption from all obligations in respect of national service, including military service;
+- b) exemption from all obligations in respect of national service, including military service;
 
-- c). inviolability for all their official papers and documents;
+- c) inviolability for all their official papers and documents;
 
-- d). together with members of their families forming part of their households, exemption from all measures restricting immigration and from aliens' registration formalities;
+- d) together with members of their families forming part of their households, exemption from all measures restricting immigration and from aliens' registration formalities;
 
-- e). together with members of their families forming part of their households, the same facilities as to repatriation, in time of international crisis, as are normally accorded to staff members of international organisations;
+- e) together with members of their families forming part of their households, the same facilities as to repatriation, in time of international crisis, as are normally accorded to staff members of international organisations;
 
-- f). the same treatment in respect of currency and exchange regulations as is normally accorded to staff members of international organisations;
+- f) the same treatment in respect of currency and exchange regulations as is normally accorded to staff members of international organisations;
 
-- g). exemption from all national income tax on their salaries and emoluments paid to them by EUMETSAT, excluding pensions and other similar benefits paid by EUMETSAT, from the date upon which staff members have begun to be liable for a tax on their salaries by EUMETSAT for the latter's benefit. The Member States reserve the right to take those salaries and emoluments into account when assessing the amount of tax to be applied to income from other sources;
+- g) exemption from all national income tax on their salaries and emoluments paid to them by EUMETSAT, excluding pensions and other similar benefits paid by EUMETSAT, from the date upon which staff members have begun to be liable for a tax on their salaries by EUMETSAT for the latter's benefit. The Member States reserve the right to take those salaries and emoluments into account when assessing the amount of tax to be applied to income from other sources;
 
-- h). the right to import free of custom duties and other import charges their furniture and personal effects, including a motor vehicle, at the time of taking up their post in the territory of a Member State, and the right to export them free of duty upon termination of their functions, subject to the conditions laid down by the laws and regulations of the Member State concerned.
+- h) the right to import free of custom duties and other import charges their furniture and personal effects, including a motor vehicle, at the time of taking up their post in the territory of a Member State, and the right to export them free of duty upon termination of their functions, subject to the conditions laid down by the laws and regulations of the Member State concerned.
 
 Goods imported and exempted under this paragraph shall not be sold, hired out, lent or given away against payment or free of charge, except in accordance with the conditions laid down by the Member States which have granted the exemptions.
 
@@ -163,13 +135,13 @@ Goods imported and exempted under this paragraph shall not be sold, hired out, l
 
 In addition to the privileges and immunities provided for staff members under Article 10, the Director-General shall enjoy:
 
-- a). immunity from arrest and detention, except when found committing, attempting to commit or just having committed an offence;
+- a) immunity from arrest and detention, except when found committing, attempting to commit or just having committed an offence;
 
-- b). immunity from civil and administrative jurisdiction and execution enjoyed by diplomatic agents, except in the case of damage caused by a vehicle or other means of transport belonging to or driven by him;
+- b) immunity from civil and administrative jurisdiction and execution enjoyed by diplomatic agents, except in the case of damage caused by a vehicle or other means of transport belonging to or driven by him;
 
-- c). full immunity from criminal jurisdiction, except in the case of a traffic offence caused by a vehicle or other means of transport belonging to, or driven by him, subject to sub-paragraph a) above;
+- c) full immunity from criminal jurisdiction, except in the case of a traffic offence caused by a vehicle or other means of transport belonging to, or driven by him, subject to sub-paragraph a) above;
 
-- d). the same customs facilities as regards his personal luggage as are accorded to diplomatic agents.
+- d) the same customs facilities as regards his personal luggage as are accorded to diplomatic agents.
 
 ##### Article 12. Social Security
 
@@ -179,13 +151,13 @@ Provided that the staff members are covered by a social security scheme of EUMET
 
 Experts other than the staff members shall enjoy the following privileges and immunities while performing their duties for EUMETSAT or carrying out missions on its behalf:
 
-- a). immunity from jurisdiction, even after the termination of their mission, in respect of acts, including words spoken and written, done by them in the exercise of their functions; this immunity shall not apply, however, in the case of a traffic offence committed by an expert, nor in the case of damage caused by a vehicle or other means of transport belonging to or driven by him;
+- a) immunity from jurisdiction, even after the termination of their mission, in respect of acts, including words spoken and written, done by them in the exercise of their functions; this immunity shall not apply, however, in the case of a traffic offence committed by an expert, nor in the case of damage caused by a vehicle or other means of transport belonging to or driven by him;
 
-- b). inviolability for all their official papers and documents;
+- b) inviolability for all their official papers and documents;
 
-- c). exemption from all measures restricting immigration and from aliens' registration formalities;
+- c) exemption from all measures restricting immigration and from aliens' registration formalities;
 
-- d). the same treatment in the matter of currency and exchange regulations as is accorded to the representatives of foreign governments on temporary official missions.
+- d) the same treatment in the matter of currency and exchange regulations as is accorded to the representatives of foreign governments on temporary official missions.
 
 ##### Article 14. Waiver
 
@@ -225,11 +197,11 @@ When concluding written contracts, other than those concluded in accordance with
 
 Any Member State may submit to arbitration in accordance with the procedure provided for in [Article 15 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002717&artikel=15) any dispute.
 
-- a). arising out of damage caused by EUMETSAT;
+- a) arising out of damage caused by EUMETSAT;
 
-- b). involving any other non-contractual responsibility of EUMETSAT;
+- b) involving any other non-contractual responsibility of EUMETSAT;
 
-- c). involving a staff member or an expert and in which the person concerned can claim immunity from jurisdiction, if this immunity is not waived.
+- c) involving a staff member or an expert and in which the person concerned can claim immunity from jurisdiction, if this immunity is not waived.
 
 ##### Article 23. Settlement of disputes concerning the interpretation or application of this Protocol
 

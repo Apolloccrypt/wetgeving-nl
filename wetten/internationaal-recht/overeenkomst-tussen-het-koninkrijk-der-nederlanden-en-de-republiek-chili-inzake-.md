@@ -1,51 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Chili inzake economische en technologische samenwerking"
 identifier: "BWBV0002751"
-country: "nl"
-rank: "verdrag"
-publication_date: "1993-11-01"
-last_updated: "1993-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002751"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10003084663"
-version_id: "10003088412"
-internal_id: "C10006987041"
-label_id: "10003070984"
-dtd_version: "2.0"
-original_entry_into_force: "1993-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002751/1993-11-01/0"
-intitule_bron: "Trb.1991-1"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-11-08"
-intitule_published: "1991-01-07"
-intitule_in_force: "1993-09-30"
-intitule_status: "goed"
-original_publication: "Trb.1991-1"
-original_signed_date: "1991-11-08"
-original_published_date: "1991-01-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1991-1"
-entry_into_force_date: "1993-11-01"
-jci_1_3: "jci1.3:c:BWBV0002751&z=1993-11-01&g=1993-11-01"
-jci_1_0: "1.0:c:BWBV0002751&g=1993-11-01"
-citeertitel_status: "officieel"
-signed_date: "1991-11-08"
-entry_into_force: "1993-11-01"
+publicatiedatum: 1993-11-01
+laatste_update: 1993-11-01
+status: geldig
+toestand: 1993-11-01
+bron: "https://wetten.overheid.nl/BWBV0002751"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Chili inzake economische en technologische samenwerking
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van Chili,
-
-hierna te noemen de Overeenkomstsluitende Partijen,
-
-Geleid door de wens de vriendschappelijke betrekkingen tussen hun beide volken verder te versterken en de ontwikkeling van economische en technologische samenwerking tussen hun beide landen te bevorderen op basis van gelijkheid en wederzijds voordeel,
-
-Zijn als volgt overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van Chili, hierna te noemen de Overeenkomstsluitende Partijen, Geleid door de wens de vriendschappelijke betrekkingen tussen hun beide volken verder te versterken en de ontwikkeling van economische en technologische samenwerking tussen hun beide landen te bevorderen op basis van gelijkheid en wederzijds voordeel, Zijn als volgt overeengekomen:*
 
 ##### Artikel 1
 
@@ -121,12 +89,12 @@ GEDAAN in twee exemplaren, te Santiago, op 31 oktober 1990 in de Nederlandse, Sp
 
 In geval van verschil in uitleg, is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 (w.g.) YVONNE VAN ROOY
 
 (w.g.) R. FRUIN
 
-**Voor de Regering van de Republiek Chili,**
+*Voor de Regering van de Republiek Chili,*
 
 (w.g.) ENRIQUE SILVA CIMMA

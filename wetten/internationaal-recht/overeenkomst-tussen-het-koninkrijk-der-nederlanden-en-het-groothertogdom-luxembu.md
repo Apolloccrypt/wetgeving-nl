@@ -1,49 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg inzake het wederzijds meerekenen van voorraden ruwe aardolie, halffabrikaten van aardolie en aardolieprodukten"
 identifier: "BWBV0002593"
-country: "nl"
-rank: "verdrag"
-publication_date: "1983-12-04"
-last_updated: "1983-12-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002593"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002941673"
-version_id: "10002944312"
-internal_id: "C10006978611"
-label_id: "10002928564"
-dtd_version: "2.0"
-original_entry_into_force: "1983-12-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002593/1983-12-04/0"
-intitule_bron: "Trb.1983-41"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1983-01-27"
-intitule_published: "1983-03-08"
-intitule_in_force: "1983-11-17"
-intitule_status: "goed"
-original_publication: "Trb.1983-41"
-original_signed_date: "1983-01-27"
-original_published_date: "1983-03-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1983-41"
-entry_into_force_date: "1983-12-04"
-jci_1_3: "jci1.3:c:BWBV0002593&z=1983-12-04&g=1983-12-04"
-jci_1_0: "1.0:c:BWBV0002593&g=1983-12-04"
-citeertitel_status: "officieel"
-signed_date: "1983-01-27"
-entry_into_force: "1983-12-04"
+publicatiedatum: 1983-12-04
+laatste_update: 1983-12-04
+status: geldig
+toestand: 1983-12-04
+bron: "https://wetten.overheid.nl/BWBV0002593"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg inzake het wederzijds meerekenen van voorraden ruwe aardolie, halffabrikaten van aardolie en aardolieprodukten
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van het Groothertogdom Luxemburg
-
-Overwegende dat:
-
-de richtlijn 68/414/EEG van 20 december 1968 van de Raad van de Europese Gemeenschappen de Lid-Staten van de EG ertoe verplicht een minimumvoorraad van 65 dagen ruwe aardolie en/of aardolieprodukten in opslag te houden en dat, meer inzonderheid, artikel 6 - lid 2 - van deze richtlijn voorziet in het meerekenen van de voorraden gelegen op het grondgebied van een andere Lid-Staat in het kader van bijzondere intergouvernementele overeenkomsten;
-
-de richtlijn 72/425/EEG van 19 december 1972 van de Raad der Europese Gemeenschappen de referentie-periode om minimumvoorraden ruwe aardolie en/of aardolieprodukten in opslag te houden, van 1 januari 1975 af, op 90 dagen brengt;
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van het Groothertogdom Luxemburg Overwegende dat: - de richtlijn 68/414/EEG van 20 december 1968 van de Raad van de Europese Gemeenschappen de Lid-Staten van de EG ertoe verplicht een minimumvoorraad van 65 dagen ruwe aardolie en/of aardolieprodukten in opslag te houden en dat, meer inzonderheid, artikel 6 - lid 2 - van deze richtlijn voorziet in het meerekenen van de voorraden gelegen op het grondgebied van een andere Lid-Staat in het kader van bijzondere intergouvernementele overeenkomsten; - de richtlijn 72/425/EEG van 19 december 1972 van de Raad der Europese Gemeenschappen de referentie-periode om minimumvoorraden ruwe aardolie en/of aardolieprodukten in opslag te houden, van 1 januari 1975 af, op 90 dagen brengt; Zijn het volgende overeengekomen:*
 
 ##### Artikel I
 
@@ -53,9 +23,9 @@ Voor de toepassing van het bij of krachtens deze Overeenkomst bepaalde wordt ver
 
 „Voorraadplicht”:
 
-- -. in het Koninkrijk der Nederlanden: de verplichting tot het aanhouden van voorraden, zoals deze voortvloeit uit de Wet voorraadvorming aardolieprodukten van 21 oktober 1976 (**Stbl.**1976, 569), en
+- - in het Koninkrijk der Nederlanden: de verplichting tot het aanhouden van voorraden, zoals deze voortvloeit uit de Wet voorraadvorming aardolieprodukten van 21 oktober 1976 (*Stbl.*1976, 569), en
 
-- -. in het Groothertogdom Luxemburg: de verplichting tot het aanhouden van voorraden, zoals deze voortvloeit uit het Groothertogelijk Reglement van 31 oktober 1973 met betrekking tot de voorraadverplichtingen van aardolieprodukten (Mémorial A 1973 pagina 1424);
+- - in het Groothertogdom Luxemburg: de verplichting tot het aanhouden van voorraden, zoals deze voortvloeit uit het Groothertogelijk Reglement van 31 oktober 1973 met betrekking tot de voorraadverplichtingen van aardolieprodukten (Mémorial A 1973 pagina 1424);
 
 „Nederlandse, onderscheidenlijk Luxemburgse voorraadplichtige”: hij, die onderworpen is aan de Nederlandse, onderscheidenlijk Luxemburgse voorraadplicht.
 
@@ -67,21 +37,21 @@ In Nederland opgeslagen voorraden kunnen in het raam der navolgende bepalingen w
 
 Meerekenbaar zijn:
 
-- a). Voorraden gelegen in Nederland in opslagruimten die niet toebehoren aan, noch gehuurd zijn door, noch uit andere titel in gebruik zijn bij in Nederland voorraadplichtigen of ondernemingen die in een groep met Nederlandse voorraadplichtigen verbonden zijn dan wel ondernemingen waarin Nederlandse voorraadplichtigen een belangrijke zeggenschap hebben en ten aanzien waarvan Luxemburgse voorraadplichtigen beschikkingsbevoegd zijn. Toestemming tot meerekenen van deze voorraden dient vooraf te worden verleend door de Luxemburgse Minister welke verantwoordelijk is voor de aardolieprodukten. Voor het aanhouden van deze voorraden is in het kader van deze Overeenkomst van de Nederlandse Minister van Economische Zaken geen toestemming vereist.
+- a) Voorraden gelegen in Nederland in opslagruimten die niet toebehoren aan, noch gehuurd zijn door, noch uit andere titel in gebruik zijn bij in Nederland voorraadplichtigen of ondernemingen die in een groep met Nederlandse voorraadplichtigen verbonden zijn dan wel ondernemingen waarin Nederlandse voorraadplichtigen een belangrijke zeggenschap hebben en ten aanzien waarvan Luxemburgse voorraadplichtigen beschikkingsbevoegd zijn. Toestemming tot meerekenen van deze voorraden dient vooraf te worden verleend door de Luxemburgse Minister welke verantwoordelijk is voor de aardolieprodukten. Voor het aanhouden van deze voorraden is in het kader van deze Overeenkomst van de Nederlandse Minister van Economische Zaken geen toestemming vereist.
 
-- b). Voorraden, gelegen in Nederland in opslagruimten die toebehoren aan, gehuurd zijn door, of uit andere titel in gebruik zijn bij Nederlandse voorraadplichtigen of ondernemingen die met Nederlandse voorraadplichtigen in een groep verbonden zijn dan wel ondernemingen waarin Nederlandse voorraadplichtigen een belangrijke zeggenschap hebben. Toestemming tot het aanhouden van deze voorraden door Nederlandse voorraadplichtigen en tot het meerekenen ervan door Luxemburgse voorraadplichtigen dient vooraf te worden gevraagd bij de Nederlandse Minister van Economische Zaken.
+- b) Voorraden, gelegen in Nederland in opslagruimten die toebehoren aan, gehuurd zijn door, of uit andere titel in gebruik zijn bij Nederlandse voorraadplichtigen of ondernemingen die met Nederlandse voorraadplichtigen in een groep verbonden zijn dan wel ondernemingen waarin Nederlandse voorraadplichtigen een belangrijke zeggenschap hebben. Toestemming tot het aanhouden van deze voorraden door Nederlandse voorraadplichtigen en tot het meerekenen ervan door Luxemburgse voorraadplichtigen dient vooraf te worden gevraagd bij de Nederlandse Minister van Economische Zaken.
 
 ##### Artikel IV
 
 § 1. De aanvrage tot het meerekenen van voorraden, vallende onder Artikel III, sub a), dient door de Luxemburgse voorraadplichtige ten laatste 15 werkdagen voor de aanvang van ieder kalenderkwartaal te worden gericht aan de Luxemburgse Minister welke verantwoordelijk is voor de aardolieprodukten. De aanvrage dient de volgende gegevens te bevatten:
 
-- a). aard en hoeveelheid van de voorraden;
+- a) aard en hoeveelheid van de voorraden;
 
-- b). naam en adres van de onderneming in welker opslagruimten de voorraden zijn gelegen;
+- b) naam en adres van de onderneming in welker opslagruimten de voorraden zijn gelegen;
 
-- c). de nauwkeurige aanduiding van de aard en ligging van de opslagruimten waarin de voorraden zich bevinden;
+- c) de nauwkeurige aanduiding van de aard en ligging van de opslagruimten waarin de voorraden zich bevinden;
 
-- d). het kalenderkwartaal voor hetwelk de toestemming wordt aangevraagd.
+- d) het kalenderkwartaal voor hetwelk de toestemming wordt aangevraagd.
 
 De aanvrager dient, ten genoegen van de Luxemburgse Minister, welke verantwoordelijk is voor de aardolieprodukten, aan te tonen dat hij ten aanzien van de betrokken voorraden beschikkingsbevoegd is en zich te verbinden deze beschikkingsbevoegdheid, tenminste voor de duur van het kalenderkwartaal waarvoor de toestemming wordt aangevraagd te handhaven.
 
@@ -95,21 +65,21 @@ De aan de Luxemburgse voorraadplichtige gerichte verklaring dient tevens in te h
 
 In beide gevallen dient de aanvrage de navolgende gegevens te bevatten:
 
-- a). naam en adres van de betrokken Luxemburgse voorraadplichtige;
+- a) naam en adres van de betrokken Luxemburgse voorraadplichtige;
 
-- b). naam en adres van de voorraadplichtige in wiens opslagruimte de voorraden zijn gelegen of van de voorraadplichtige die de opslagruimte waarin de voorraden zijn gelegen heeft gehuurd of uit andere titel in gebruik heeft;
+- b) naam en adres van de voorraadplichtige in wiens opslagruimte de voorraden zijn gelegen of van de voorraadplichtige die de opslagruimte waarin de voorraden zijn gelegen heeft gehuurd of uit andere titel in gebruik heeft;
 
-- c). aard en hoeveelheid van de voorraden;
+- c) aard en hoeveelheid van de voorraden;
 
-- d). de nauwkeurige aanduiding van de aard en ligging van de opslagruimten waarin de voorraden zich bevinden;
+- d) de nauwkeurige aanduiding van de aard en ligging van de opslagruimten waarin de voorraden zich bevinden;
 
-- e). het kalenderkwartaal voor hetwelk de toestemming wordt aangevraagd.
+- e) het kalenderkwartaal voor hetwelk de toestemming wordt aangevraagd.
 
 § 3. De Nederlandse Minister van Economische Zaken zal toestemming tot het aanhouden van de voorraden verlenen indien hij van oordeel is dat de Nederlandse voorraadplichtige gedurende de gehele periode waarvoor toestemming wordt gevraagd over voldoende voorraden beschikt om:
 
-- a). te voldoen aan de op die voorraadplichtige rustende voorraadplicht;
+- a) te voldoen aan de op die voorraadplichtige rustende voorraadplicht;
 
-- b). de verbintenissen na te komen die de Nederlandse voorraadplichtige aangaat om voorraden aan te houden voor de Luxemburgse voorraadplichtigen en overige buitenlandse voorraadplichtigen.
+- b) de verbintenissen na te komen die de Nederlandse voorraadplichtige aangaat om voorraden aan te houden voor de Luxemburgse voorraadplichtigen en overige buitenlandse voorraadplichtigen.
 
 § 4. Indien de Nederlandse Minister van Economische Zaken van geen bezwaar is gebleken zendt hij de aanvrage naar de Luxemburgse Minister welke verantwoordelijk is voor de aardolieprodukten. Middels een afschrift stelt hij de Nederlandse voorraadplichtige daarvan in kennis.
 
@@ -131,9 +101,9 @@ Bij afwijking van de hoeveelheid tot meerekenen waarvan toestemming wordt verlee
 
 § 3. Indien in geval van een voorzieningscrisis blijkt dat, hetzij door overmacht hetzij door nalatigheid, het totaal van de bij de Nederlandse voorraadplichtige aanwezige voorraden zich bevindt beneden het totaal van:
 
-- a). de voorraden die de Nederlandse voorraadplichtige moet aanhouden voor de op hem rustende voorraadplicht, en
+- a) de voorraden die de Nederlandse voorraadplichtige moet aanhouden voor de op hem rustende voorraadplicht, en
 
-- b). de voorraden tot aanhouden waarvan de Nederlandse voorraadplichtige zich ten behoeve van buitenlandse voorraadplichtigen verplicht heeft
+- b) de voorraden tot aanhouden waarvan de Nederlandse voorraadplichtige zich ten behoeve van buitenlandse voorraadplichtigen verplicht heeft
 
 wordt de Luxemburgse Minister daarvan onverwijld in kennis gesteld. Het tekort zal evenredig worden verdeeld over de betrokken voorraadplichtigen.
 
@@ -169,14 +139,14 @@ Deze Overeenkomst geldt voor onbepaalde tijd. Elk der beide Overeenkomstsluitend
 
 GEDAAN te Luxemburg, 27 januari 1983 in twee exemplaren, in de Nederlandse en de Franse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor de Regering van het**
+*Voor de Regering van het*
 
-**Koninkrijk der Nederlanden,**
+*Koninkrijk der Nederlanden,*
 
 (w.g.) A. H. CROIN
 
-**Voor de Regering van het**
+*Voor de Regering van het*
 
-**Groothertogdom Luxemburg,**
+*Groothertogdom Luxemburg,*
 
 (w.g.) J. BARTHEL

@@ -1,44 +1,18 @@
 ---
 title: "Overeenkomst tussen de Lid-Staten van de Europese Gemeenschappen betreffende de vereenvoudiging en de modernisering van de wijze van toezending van uitleveringsverzoeken"
 identifier: "BWBV0002160"
-country: "nl"
-rank: "verdrag"
-publication_date: "1994-05-18"
-last_updated: "1994-05-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002160"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002683633"
-version_id: "10002682152"
-internal_id: "C10006984871"
-label_id: "10002671834"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002160/1994-05-18/0"
-intitule_bron: "Trb.1990-97"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-05-18"
-intitule_published: "1990-07-09"
-intitule_status: "nogniet"
-original_publication: "Trb.1990-97"
-original_signed_date: "1994-05-18"
-original_published_date: "1990-07-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1990-97"
-jci_1_3: "jci1.3:c:BWBV0002160&z=1994-05-18&g=1994-05-18"
-jci_1_0: "1.0:c:BWBV0002160&g=1994-05-18"
-citeertitel_status: "officieel"
-signed_date: "1994-05-18"
-entry_into_force: "1990-07-09"
+laatste_update: 1994-05-18
+status: geldig
+toestand: 1994-05-18
+bron: "https://wetten.overheid.nl/BWBV0002160"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst tussen de Lid-Staten van de Europese Gemeenschappen betreffende de vereenvoudiging en de modernisering van de wijze van toezending van uitleveringsverzoeken
 
-De Lid-Staten van de Europese Gemeenschappen, hierna te noemen de Lid-Staten,
-
-Verlangend de strafrechtelijke samenwerking in hun onderlinge betrekkingen inzake uitlevering te verbeteren;
-
-Overwegende dat het wenselijk is de procedures voor de toezending van uitleveringsverzoeken en begeleidende documenten te versnellen, en dat daartoe gebruik dient te worden gemaakt van de moderne technieken voor de overzending van gegevens,
-
-Hebben omtrent het volgende overeenstemming bereikt:
+*De Lid-Staten van de Europese Gemeenschappen, hierna te noemen de Lid-Staten, Verlangend de strafrechtelijke samenwerking in hun onderlinge betrekkingen inzake uitlevering te verbeteren; Overwegende dat het wenselijk is de procedures voor de toezending van uitleveringsverzoeken en begeleidende documenten te versnellen, en dat daartoe gebruik dient te worden gemaakt van de moderne technieken voor de overzending van gegevens, Hebben omtrent het volgende overeenstemming bereikt:*
 
 ##### Artikel 1
 

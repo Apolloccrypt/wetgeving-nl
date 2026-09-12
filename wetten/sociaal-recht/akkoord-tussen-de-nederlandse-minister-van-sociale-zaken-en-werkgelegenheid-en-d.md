@@ -1,55 +1,21 @@
 ---
 title: "Akkoord tussen de Nederlandse Minister van Sociale Zaken en Werkgelegenheid en de Belgische Minister van Sociale Voorzorg inzake ziekengeld-, moederschaps- en invaliditeitsverzekering"
 identifier: "BWBV0002060"
-country: "nl"
-rank: "verdrag"
-publication_date: "1982-08-12"
-last_updated: "1981-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002060"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10002646523"
-version_id: "10002644092"
-internal_id: "C10006979121"
-label_id: "10002635604"
-dtd_version: "2.0"
-original_entry_into_force: "1982-08-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002060/1982-08-12/0"
-intitule_bron: "Trb.1982-181"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1982-08-12"
-intitule_published: "1982-11-24"
-intitule_in_force: "1982-11-24"
-intitule_status: "goed"
-original_publication: "Trb.1982-181"
-original_signed_date: "1982-08-12"
-original_published_date: "1982-11-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1982-181"
-entry_into_force_date: "1982-08-12"
-jci_1_3: "jci1.3:c:BWBV0002060&z=1982-08-12&g=1982-08-12"
-jci_1_0: "1.0:c:BWBV0002060&g=1982-08-12"
-citeertitel_status: "officieel"
-signed_date: "1982-08-12"
-entry_into_force: "1982-08-12"
+publicatiedatum: 1982-08-12
+laatste_update: 1982-08-12
+status: geldig
+toestand: 1982-08-12
+bron: "https://wetten.overheid.nl/BWBV0002060"
+opgehaald: 2026-09-12
 ---
+
 # Akkoord tussen de Nederlandse Minister van Sociale Zaken en Werkgelegenheid en de Belgische Minister van Sociale Voorzorg inzake ziekengeld-, moederschaps- en invaliditeitsverzekering
 
-De ondergetekenden:
+*De ondergetekenden: enerzijds de Nederlandse Minister van Sociale Zaken en Werkgelegenheid en anderzijds de Belgische Minister van Sociale Voorzorg, Verlangende de verschillende regelingen ter verwezenlijking van de aanspraken op ziekengeld, moederschapsuitkering en invaliditeitsuitkering welke in de betrekkingen tussen het Koninkrijk der Nederlanden en het Koninkrijk België voortvloeien uit Verordening nr. 1408/71 van de Raad van de Europese Gemeenschappen, dan wel uit het op 29 augustus 1947 te 's-Gravenhage gesloten Verdrag tussen Nederland en België betreffende de toepassing der wederzijdse wetgeving op het punt der sociale verzekering, te ordenen in een gecoördineerd Akkoord, Gelet op de artikelen 18, lid 9, 26, lid 7, 105, lid 2 en 120, lid 1 van Verordening nr. 574/72, Gehoord het advies van de Administratieve Commissie voor de sociale zekerheid van migrerende werknemers, Zijn overeengekomen als volgt:*
 
-enerzijds de Nederlandse Minister van Sociale Zaken en Werkgelegenheid en
-
-anderzijds de Belgische Minister van Sociale Voorzorg,
-
-Verlangende de verschillende regelingen ter verwezenlijking van de aanspraken op ziekengeld, moederschapsuitkering en invaliditeitsuitkering welke in de betrekkingen tussen het Koninkrijk der Nederlanden en het Koninkrijk België voortvloeien uit Verordening nr. 1408/71 van de Raad van de Europese Gemeenschappen, dan wel uit het op 29 augustus 1947 te 's-Gravenhage gesloten Verdrag tussen Nederland en België betreffende de toepassing der wederzijdse wetgeving op het punt der sociale verzekering, te ordenen in een gecoördineerd Akkoord,
-
-Gelet op de artikelen 18, lid 9, 26, lid 7, 105, lid 2 en 120, lid 1 van Verordening nr. 574/72,
-
-Gehoord het advies van de Administratieve Commissie voor de sociale zekerheid van migrerende werknemers,
-
-Zijn overeengekomen als volgt:
-
-## TITEL I. Algemene bepalingen
+### TITEL I. Algemene bepalingen
 
 ##### Artikel 1
 
@@ -71,15 +37,15 @@ Voor de toepassing van dit Akkoord wordt verstaan onder:
 
 - h. ziekengeld:
 
-- -. voor België: de uitkering voor primaire arbeidsongeschiktheid,
+   - - voor België: de uitkering voor primaire arbeidsongeschiktheid,
 
-- -. voor Nederland: het ziekengeld;
+   - - voor Nederland: het ziekengeld;
 
 - i. invaliditeitsuitkering:
 
-- -. voor België: de invaliditeitsuitkering,
+   - - voor België: de invaliditeitsuitkering,
 
-- -. voor Nederland: de arbeidsongeschiktheidsuitkering krachtens de wet op de arbeidsongeschiktheidsverzekering en krachtens de algemene arbeidsongeschiktheidswet;
+   - - voor Nederland: de arbeidsongeschiktheidsuitkering krachtens de wet op de arbeidsongeschiktheidsverzekering en krachtens de algemene arbeidsongeschiktheidswet;
 
 - j. Technische Commissie: de commissie, bedoeld in artikel 32 van dit Akkoord.
 
@@ -87,7 +53,7 @@ Voor de toepassing van dit Akkoord wordt verstaan onder:
 
 De bepalingen van dit Akkoord zijn van toepassing op werknemers, op wie de wettelijke regelingen van Nederland of België van toepassing zijn, en op gerechtigden op ziekengeld of invaliditeitsuitkering, alsmede op aanvragers van deze uitkeringen.
 
-## TITEL II. Ziekte en moederschap
+### TITEL II. Ziekte en moederschap
 
 ### HOOFDSTUK 1. Recht op ziekengeld
 
@@ -111,29 +77,29 @@ Werknemers die verzekerd zijn ingevolge de Nederlandse wetgeving hebben recht op
 
 1. Ingeval een werknemer die ziekengeld of invaliditeitsuitkering van één van beide landen geniet verzekerd is ingevolge de wetgeving inzake de ziekengeldverzekering van het andere land, zijn bij toeneming van de arbeidsongeschiktheid de volgende bepalingen van toepassing:
 
-- a). indien de werknemer voldoet aan de in de wetgeving van het land waar hij laatstelijk verzekerd is, gestelde voorwaarden voor het ingaan van het recht op ziekengeld, verleent het orgaan van dit laatste land een uitkering overeenkomstig de door dit orgaan toegepaste wettelijke regeling ongeacht de vraag of de toeneming van de arbeidsongeschiktheid veroorzaakt wordt door dezelfde dan wel door een andere aandoening dan die welke aanleiding heeft gegeven tot het verlenen van de oorspronkelijke uitkering;
+- a) indien de werknemer voldoet aan de in de wetgeving van het land waar hij laatstelijk verzekerd is, gestelde voorwaarden voor het ingaan van het recht op ziekengeld, verleent het orgaan van dit laatste land een uitkering overeenkomstig de door dit orgaan toegepaste wettelijke regeling ongeacht de vraag of de toeneming van de arbeidsongeschiktheid veroorzaakt wordt door dezelfde dan wel door een andere aandoening dan die welke aanleiding heeft gegeven tot het verlenen van de oorspronkelijke uitkering;
 
-- b). het orgaan dat de oorspronkelijke uitkering verleende, bepaalt overeenkomstig de door dit orgaan toegepaste wettelijke regeling het bedrag waarop de werknemer recht heeft, daarbij rekeninghoudend met de toeneming van de arbeidsongeschiktheid;
+- b) het orgaan dat de oorspronkelijke uitkering verleende, bepaalt overeenkomstig de door dit orgaan toegepaste wettelijke regeling het bedrag waarop de werknemer recht heeft, daarbij rekeninghoudend met de toeneming van de arbeidsongeschiktheid;
 
-- c). indien het bedrag van de onder b) bedoelde uitkering groter is dan het bedrag van de uitkering van de wettelijke regeling van het land waar de werknemer laatst verzekerd was, is het orgaan dat de oorspronkelijke uitkering verleende, slechts verplicht hem een aanvulling welke gelijk is aan het verschil tussen bedoelde bedragen, te verlenen;
+- c) indien het bedrag van de onder b) bedoelde uitkering groter is dan het bedrag van de uitkering van de wettelijke regeling van het land waar de werknemer laatst verzekerd was, is het orgaan dat de oorspronkelijke uitkering verleende, slechts verplicht hem een aanvulling welke gelijk is aan het verschil tussen bedoelde bedragen, te verlenen;
 
-- d). indien het bedrag van de onder b) bedoelde uitkering lager is dan of gelijk aan het bedrag van de onder a) bedoelde uitkering verleent het orgaan dat de oorspronkelijke uitkering toekende, geen enkele uitkering meer. In dat geval zijn de uitkeringen uitsluitend verschuldigd door het orgaan van het land waar de werknemer laatst verzekerd was;
+- d) indien het bedrag van de onder b) bedoelde uitkering lager is dan of gelijk aan het bedrag van de onder a) bedoelde uitkering verleent het orgaan dat de oorspronkelijke uitkering toekende, geen enkele uitkering meer. In dat geval zijn de uitkeringen uitsluitend verschuldigd door het orgaan van het land waar de werknemer laatst verzekerd was;
 
-- e). ter bepaling van het bedrag van de aanvulling, bedoeld onder c), worden de in aanmerking te nemen daguitkeringen ingevolge de wettelijke regelingen van beide landen uitgedrukt in functie van het aantal dagen per week waarover uitkering wordt verleend ingevolge de wettelijke regeling die wordt toegepast door het orgaan dat gehouden is de aanvulling te verlenen;
+- e) ter bepaling van het bedrag van de aanvulling, bedoeld onder c), worden de in aanmerking te nemen daguitkeringen ingevolge de wettelijke regelingen van beide landen uitgedrukt in functie van het aantal dagen per week waarover uitkering wordt verleend ingevolge de wettelijke regeling die wordt toegepast door het orgaan dat gehouden is de aanvulling te verlenen;
 
-- f). ter bepaling van het bedrag van de aanvulling, bedoeld onder c), vindt de omrekening van de in de nationale muntsoorten luidende bedragen plaats in overeenstemming met artikel 107, lid 1 van de Verordening nr. 574/72 van de Raad van Europese Gemeenschappen van 21 maart 1972 tot vaststelling van de wijze van toepassing van Verordening nr. 1408/71 van 14 juni 1971, of met de latere bepalingen die dit artikel wijzigen;
+- f) ter bepaling van het bedrag van de aanvulling, bedoeld onder c), vindt de omrekening van de in de nationale muntsoorten luidende bedragen plaats in overeenstemming met artikel 107, lid 1 van de Verordening nr. 574/72 van de Raad van Europese Gemeenschappen van 21 maart 1972 tot vaststelling van de wijze van toepassing van Verordening nr. 1408/71 van 14 juni 1971, of met de latere bepalingen die dit artikel wijzigen;
 
-- g). indien het bedrag van de onder a) bedoelde uitkering door stijging van kosten van levensonderhoud of door schommelingen van het loonpeil met een bepaald percentage wordt gewijzigd, blijft het bedrag van de aanvulling, bedoeld onder c), ongewijzigd. Wanneer het bedrag van de onder b) bedoelde uitkering door stijging van kosten van levensonderhoud of door schommelingen van het loonpeil met een bepaald percentage wordt gewijzigd, wordt dit percentage rechtstreeks in de aanvulling, bedoeld onder c), verwerkt;
+- g) indien het bedrag van de onder a) bedoelde uitkering door stijging van kosten van levensonderhoud of door schommelingen van het loonpeil met een bepaald percentage wordt gewijzigd, blijft het bedrag van de aanvulling, bedoeld onder c), ongewijzigd. Wanneer het bedrag van de onder b) bedoelde uitkering door stijging van kosten van levensonderhoud of door schommelingen van het loonpeil met een bepaald percentage wordt gewijzigd, wordt dit percentage rechtstreeks in de aanvulling, bedoeld onder c), verwerkt;
 
-- h). de bepalingen van de Belgische en de Nederlandse wetgeving, die aan het genieten van ziekengeld- of invaliditeitsuitkering voordelen en verplichtingen ingevolge andere sociale verzekeringswetten verbinden, gelden niet ten aanzien van de aanvulling, bedoeld onder c);
+- h) de bepalingen van de Belgische en de Nederlandse wetgeving, die aan het genieten van ziekengeld- of invaliditeitsuitkering voordelen en verplichtingen ingevolge andere sociale verzekeringswetten verbinden, gelden niet ten aanzien van de aanvulling, bedoeld onder c);
 
-- i). de voorgaande bepalingen van dit artikel zijn niet van toepassing wanneer de toeneming van de arbeidsongeschiktheid aanleiding is tot vergoedingen ingevolge de Belgische arbeidsongevallen- of beroepsektenverzekering. In dat geval worden de oorspronkelijke Nederlandse uitkeringen voortgezet alsof de arbeidsongeschiktheid niet is toegenomen.
+- i) de voorgaande bepalingen van dit artikel zijn niet van toepassing wanneer de toeneming van de arbeidsongeschiktheid aanleiding is tot vergoedingen ingevolge de Belgische arbeidsongevallen- of beroepsektenverzekering. In dat geval worden de oorspronkelijke Nederlandse uitkeringen voortgezet alsof de arbeidsongeschiktheid niet is toegenomen.
 
 2. De Technische Commissie kan voor de toepassing van het eerste lid van dit artikel nadere regelen treffen.
 
 ### HOOFDSTUK 2. Medische en administratieve controle in het kader van de ziekengeldverzekering
 
-### Afdeling 1. In België wonende of verblijvende werknemers die aanspraak maken op Nederlands ziekengeld
+#### Afdeling 1. In België wonende of verblijvende werknemers die aanspraak maken op Nederlands ziekengeld
 
 ##### Artikel 6
 
@@ -161,7 +127,7 @@ De in België wonende of verblijvende werknemer die aanspraak maakt op Nederland
 
 3. De bevindingen van de ambtenaar van het RIZIV worden neergelegd in een rapport waarvan het model wordt vastgesteld door de Technische Commissie. Dit rapport wordt binnen drie werkdagen na de datum waarop de controle is verricht aan de bevoegde bedrijfsvereniging gezonden.
 
-### Afdeling 2. In Nederland wonende of verblijvende werknemers die aanspraak maken op Belgisch ziekengeld
+#### Afdeling 2. In Nederland wonende of verblijvende werknemers die aanspraak maken op Belgisch ziekengeld
 
 ##### Artikel 10
 
@@ -203,21 +169,21 @@ Ingeval een werknemer die in het genot is van Belgisch ziekengeld van het bevoeg
 
 In dat geval zijn volgende bepalingen van toepassing:
 
-- a). wanneer het bevoegde Belgische orgaan om administratieve controle verzoekt, wordt deze door het bevoegde districtskantoor uitgevoerd binnen 4 werkdagen na de ontvangst van het verzoek;
+- a) wanneer het bevoegde Belgische orgaan om administratieve controle verzoekt, wordt deze door het bevoegde districtskantoor uitgevoerd binnen 4 werkdagen na de ontvangst van het verzoek;
 
-- b). wanneer het bevoegde Belgische orgaan om medische controle verzoekt, wordt naar aanleiding van deze controle door de controlerend geneeskundige een medisch verslag opgesteld binnen 14 dagen na de ontvangst van het verzoek.
+- b) wanneer het bevoegde Belgische orgaan om medische controle verzoekt, wordt naar aanleiding van deze controle door de controlerend geneeskundige een medisch verslag opgesteld binnen 14 dagen na de ontvangst van het verzoek.
 
 De artikelen 11 - leden 1 en 4, 12, 13 en 15 zijn van overeenkomstige toepassing.
 
-### Afdeling 3. Gemeenschappelijke bepalingen betreffende de Afdelingen 1 en 2
+#### Afdeling 3. Gemeenschappelijke bepalingen betreffende de Afdelingen 1 en 2
 
 ##### Artikel 17
 
 Indien naar aanleiding van een controle, bedoeld in de artikelen 9, 11 en 16 wordt vastgesteld dat de werknemer:
 
-- -. niet arbeidsongeschikt is;
+- - niet arbeidsongeschikt is;
 
-- -. geschikt is om de arbeid te hervatten;
+- - geschikt is om de arbeid te hervatten;
 
 geeft het orgaan dat de controle verricht de werknemer van die vaststelling kennis op de manier voorzien in de wetgeving van het land van de woon- of verblijfplaats met een formulier dat wordt vastgesteld door de Technische Commissie en waarin de wijze en de termijnen van beroep van het bevoegde land zijn aangeduid. Het orgaan van de woon- of verblijfplaats zendt aan het bevoegde orgaan een afschrift van deze kennisgeving.
 
@@ -225,9 +191,9 @@ geeft het orgaan dat de controle verricht de werknemer van die vaststelling kenn
 
 Indien het bevoegde orgaan beslist dat:
 
-- -. de werknemer niet arbeidsongeschikt is;
+- - de werknemer niet arbeidsongeschikt is;
 
-- -. de werknemer geschikt is om de arbeid te hervatten;
+- - de werknemer geschikt is om de arbeid te hervatten;
 
 zendt het zijn beslissing aan de werknemer op de wijze als voorzien in de door dit orgaan toegepaste regeling en zendt hiervan een afschrift aan het orgaan van de woon- of verblijfplaats.
 
@@ -235,7 +201,7 @@ zendt het zijn beslissing aan de werknemer op de wijze als voorzien in de door d
 
 Indien in een zelfde geval onderscheidenlijk door het orgaan van de woon- of verblijfplaats en door het bevoegde orgaan voor het einde van de arbeidsongeschiktheid twee verschillende data zijn vastgesteld, geeft de door het bevoegde orgaan vastgestelde datum de doorslag.
 
-## TITEL III. Invaliditeit
+### TITEL III. Invaliditeit
 
 ### HOOFDSTUK 1. Recht op invaliditeitsuitkering
 
@@ -251,7 +217,7 @@ Indien in een zelfde geval onderscheidenlijk door het orgaan van de woon- of ver
 
 ### HOOFDSTUK 2. Medische en administratieve onderzoeken in het kader van de invaliditeitsverzekering
 
-### Afdeling 1. Werknemers die aanspraak maken op invaliditeitsuitkering van één land
+#### Afdeling 1. Werknemers die aanspraak maken op invaliditeitsuitkering van één land
 
 ##### Artikel 21
 
@@ -267,7 +233,7 @@ Indien een werknemer aanspraak maakt op invaliditeitsuitkering van één van bei
 
 Onverminderd het bepaalde in artikel 21 is het bevoegde orgaan gerechtigd om in het andere land onderzoeken in te stellen of de verzekerde ter controle op te roepen.
 
-### Afdeling 2. Werknemers die aanspraak maken op invaliditeitsuitkeringen van beide landen
+#### Afdeling 2. Werknemers die aanspraak maken op invaliditeitsuitkeringen van beide landen
 
 ##### Artikel 24
 
@@ -285,7 +251,7 @@ Indien een werknemer aanspraak maakt op invaliditeitsuitkeringen van beide lande
 
 Het bepaalde in de artikelen 21 tot en met 23 is van overeenkomstige toepassing.
 
-## TITEL IV. Administratieve dienstverlening
+### TITEL IV. Administratieve dienstverlening
 
 ##### Artikel 27
 
@@ -295,9 +261,9 @@ Indien iemand ten onrechte uitkeringen heeft ontvangen van een orgaan van één 
 
 Indien de arbeidsongeschiktheid het gevolg is van een ongeval waarvoor mogelijk een derde aansprakelijk is, verstrekt:
 
-- a). indien het ongeval in België heeft plaatsgevonden: het RIZIV;
+- a) indien het ongeval in België heeft plaatsgevonden: het RIZIV;
 
-- b). indien het ongeval in Nederland heeft plaatsgevonden: de Nieuwe Algemene Bedrijfsvereniging,
+- b) indien het ongeval in Nederland heeft plaatsgevonden: de Nieuwe Algemene Bedrijfsvereniging,
 
 aan het bevoegde orgaan hetzij op eigen initiatief, hetzij op verzoek van dit orgaan alle inlichtingen die nuttig zouden kunnen zijn, zoals de omstandigheden waaronder het ongeval plaatsvond en de naam en het adres van de derde die vermoedelijk aansprakelijk is.
 
@@ -305,7 +271,7 @@ aan het bevoegde orgaan hetzij op eigen initiatief, hetzij op verzoek van dit or
 
 Indien een orgaan van één van beide landen een gerechtelijke procedure aanhangig wil maken in het andere land, verstrekt het RIZIV of het BBZ desgevraagd de nodige inlichtingen over de wijze waarop juridische bijstand kan worden verkregen.
 
-## TITEL V. Financiële bepalingen
+### TITEL V. Financiële bepalingen
 
 ##### Artikel 30
 
@@ -319,7 +285,7 @@ Noodzakelijke reis- en verblijfkosten welke een werknemer heeft moeten maken om 
 
 3. Op voorstel van de Technische Commissie, kunnen de bevoegde autoriteiten van beide landen geheel of gedeeltelijk van vergoeding van de kosten als bedoeld in het voorgaande lid afzien.
 
-## TITEL VI. Diverse bepalingen
+### TITEL VI. Diverse bepalingen
 
 ##### Artikel 32
 
@@ -337,29 +303,29 @@ De Technische Commissie bestaat uit acht leden, voor de helft aangewezen voor el
 
 3. Met ingang van de dag van inwerkingtreding van dit Akkoord vervallen:
 
-- -. alle artikelen van het Akkoord van 4 november 1957 inzake ziekengeld-, moederschaps- en overlijdensverzekering (begrafenisvergoeding), verzekering voor geneeskundige verzorging en invaliditeitsverzekering, voor zover zij betrekking hebben op uitkeringen, en het Akkoord van 24 maart 1975 tot herziening van dat Akkoord;
+- - alle artikelen van het Akkoord van 4 november 1957 inzake ziekengeld-, moederschaps- en overlijdensverzekering (begrafenisvergoeding), verzekering voor geneeskundige verzorging en invaliditeitsverzekering, voor zover zij betrekking hebben op uitkeringen, en het Akkoord van 24 maart 1975 tot herziening van dat Akkoord;
 
-- -. het Akkoord tussen de bevoegde autoriteiten van België en Nederland betreffende de medische en administratieve controle en de wederzijdse administratieve dienstverlening in het kader van de ziekte- en invaliditeitsverzekering van 17 november 1976;
+- - het Akkoord tussen de bevoegde autoriteiten van België en Nederland betreffende de medische en administratieve controle en de wederzijdse administratieve dienstverlening in het kader van de ziekte- en invaliditeitsverzekering van 17 november 1976;
 
-- -. alle artikelen van het Akkoord van 10 april 1965 inzake de ziekte-, invaliditeits- en werkloosheidsverzekering voor zeelieden ter koopvaardij voor zover zij betrekking hebben op ziekengeld- en invaliditeitsuitkeringen.
+- - alle artikelen van het Akkoord van 10 april 1965 inzake de ziekte-, invaliditeits- en werkloosheidsverzekering voor zeelieden ter koopvaardij voor zover zij betrekking hebben op ziekengeld- en invaliditeitsuitkeringen.
 
 GEDAAN in tweevoud te Brussel, op 12 augustus 1982 in de Nederlandse en de Franse taal, zijnde beiden teksten gelijkelijk authentiek.
 
-**De Nederlandse Minister van**
+*De Nederlandse Minister van*
 
-**Sociale Zaken en**
+*Sociale Zaken en*
 
-**Werkgelegenheid,**
+*Werkgelegenheid,*
 
 (w.g.) L. DE GRAAF
 
 L. de Graaf
 
-**Voor de Belgische Minister van**
+*Voor de Belgische Minister van*
 
-**Sociale Voorzorg,**, afwezig
+*Sociale Voorzorg,*, afwezig
 
-**De Minister van Economische Zaken,**
+*De Minister van Economische Zaken,*
 
 (w.g.) M. EYSKENS
 

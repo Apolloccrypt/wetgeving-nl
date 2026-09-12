@@ -1,57 +1,21 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname inzake de binnenkomst en het verblijf van wederzijdse onderdanen"
 identifier: "BWBV0002242"
-country: "nl"
-rank: "verdrag"
-publication_date: "1982-12-01"
-last_updated: "1982-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002242"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002714493"
-version_id: "10002713542"
-internal_id: "C10006979231"
-label_id: "10002702714"
-dtd_version: "2.0"
-original_entry_into_force: "1982-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002242/1982-12-01/0"
-intitule_bron: "Trb.1981-35"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1981-01-23"
-intitule_published: "1981-02-09"
-intitule_in_force: "1982-11-22"
-intitule_status: "goed"
-original_publication: "Trb.1981-35"
-original_signed_date: "1981-01-23"
-original_published_date: "1981-02-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1981-35"
-entry_into_force_date: "1982-12-01"
-jci_1_3: "jci1.3:c:BWBV0002242&z=1982-12-01&g=1982-12-01"
-jci_1_0: "1.0:c:BWBV0002242&g=1982-12-01"
-citeertitel_status: "officieel"
-signed_date: "1981-01-23"
-entry_into_force: "1982-12-01"
+publicatiedatum: 1982-12-01
+laatste_update: 1982-12-01
+status: geldig
+toestand: 1982-12-01
+bron: "https://wetten.overheid.nl/BWBV0002242"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname inzake de binnenkomst en het verblijf van wederzijdse onderdanen
 
-De Regering van het Koninkrijk der Nederlanden
+*De Regering van het Koninkrijk der Nederlanden en De Regering van de Republiek Suriname Verlangende de historische banden tussen beide landen opnieuw te bevestigen, In het besef, dat de bijzondere relatie tussen de beide landen zijn weerslag blijft vinden in de wederzijdse verhoudingen, In het streven dit besef ook tot uitdrukking te brengen ten aanzien van het verblijf van de wederzijdse onderdanen op elkaars grondgebied, Overtuigd van het belang van een regelmatige gedachtenwisseling over migratie-aangelegenheden, Zijn het volgende overeengekomen:*
 
-en
-
-De Regering van de Republiek Suriname
-
-Verlangende de historische banden tussen beide landen opnieuw te bevestigen,
-
-In het besef, dat de bijzondere relatie tussen de beide landen zijn weerslag blijft vinden in de wederzijdse verhoudingen,
-
-In het streven dit besef ook tot uitdrukking te brengen ten aanzien van het verblijf van de wederzijdse onderdanen op elkaars grondgebied,
-
-Overtuigd van het belang van een regelmatige gedachtenwisseling over migratie-aangelegenheden,
-
-Zijn het volgende overeengekomen:
-
-## Deel I. Algemeen
+### Deel I. Algemeen
 
 ##### Artikel 1
 
@@ -73,7 +37,7 @@ De leden van de Commissie kunnen zich doen bijstaan door deskundigen.
 
 De bijeenkomsten van de Commissie zullen worden voorgezeten door een Commissielid van het land, waar de bijeenkomst wordt gehouden.
 
-## Deel II. Binnenkomst en Verblijf
+### Deel II. Binnenkomst en Verblijf
 
 ##### Artikel 6
 
@@ -93,7 +57,7 @@ Niettegenstaande het bepaalde in artikel 8, doch behoudens gevallen van openbare
 
 Indien een Overeenkomstsluitende Partij om overleg verzoekt, zal de Commissie bijeenkomen niet later dan 21 dagen, nadat de wens om overleg ter kennis is gebracht van de andere Partij.
 
-## Deel III. Remigratie
+### Deel III. Remigratie
 
 ##### Artikel 10
 
@@ -103,7 +67,7 @@ In het kader van deze Overeenkomst van belang zijnde gemeenschappelijke punten i
 
 De bevoegde autoriteiten van elk der Overeenkomstsluitende Partijen stellen in gemeenschappelijk overleg nadere regels vast ter uitvoering van de in artikel 10 bedoelde punten inzake de remigratie.
 
-## Deel IV. Slotbepalingen
+### Deel IV. Slotbepalingen
 
 ##### Artikel 12
 
@@ -119,42 +83,18 @@ Deze Overeenkomst geldt voor onbepaalde tijd. Zij kan door elk der Overeenkomsts
 
 Opzegging heeft effect twee maanden, nadat de ene Overeenkomstsluitende Partij de andere daarvan schriftelijk in kennis heeft gesteld.
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-De Regering van de Republiek Suriname
-
-Bevestigen,
-
-Ter gelegenheid van de ondertekening van de Overeenkomst inzake de binnenkomst en het verblijf van wederzijdse onderdanen en zonder de bedoeling te hebben een uitputtende opsomming te geven,
-
-het volgende:
-
-##### Artikel 1
-
-Degenen die over een uit hoofde van de op 25 november 1975 te Paramaribo tot stand gekomen Overeenkomst inzake het verblijf en de vestiging van wederzijdse onderdanen afgegeven verblijfstitel beschikken, blijven na 25 november 1980 de uit die Overeenkomst voortvloeiende rechten genieten.
-
-##### Artikel 2
-
-Degenen die vóór 25 november 1980 een verzoek om vergunning tot verblijf of een machtiging tot voorlopig verblijf hebben ingediend en van wie is vastgesteld, dat zij vóór die datum hebben voldaan aan de vereisten die gelden op grond van de in artikel 1 genoemde Overeenkomst, komen voor een vergunning tot verblijf in aanmerking en genieten de uit genoemde Overeenkomst voortvloeiende rechten.
-
-##### Artikel 3
-
-Een Surinaamse onderdaan, die op 24 november 1980 in Nederland is en ten aanzien van wie vóór 25 november 1980 een recht op een verblijfstitel is ontstaan, krijgt de gelegenheid om dit recht ook na 24 november 1980 te effectueren, mits hij zijn aanvraag om een vergunning tot verblijf en, indien nodig, een tewerkstellingsvergunning heeft ingediend vóór 25 februari 1981. Hij geniet de rechten die voortvloeien uit de in Artikel 1 genoemde Overeenkomst.
-
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk door hun Regeringen gemachtigd, deze Overeenkomst hebben ondertekend.
 
 GEDAAN te Paramaribo op 23 januari 1981 in tweevoud in de Nederlandse taal.
 
-**Voor de Regering van het**
+*Voor de Regering van het*
 
-**Koninkrijk der Nederlanden,**
+*Koninkrijk der Nederlanden,*
 
 (w.g.) A. HELDRING
 
-**Voor de Regering van de**
+*Voor de Regering van de*
 
-**Republiek Suriname,**
+*Republiek Suriname,*
 
 (w.g.) H. H. NAARENDORP

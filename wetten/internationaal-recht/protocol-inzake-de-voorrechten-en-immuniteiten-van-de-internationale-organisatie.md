@@ -1,103 +1,73 @@
 ---
 title: "Protocol inzake de voorrechten en immuniteiten van de Internationale Organisatie voor Maritieme Satellieten"
 identifier: "BWBV0002037"
-country: "nl"
-rank: "verdrag"
-publication_date: "1983-07-30"
-last_updated: "1983-07-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002037"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10002638213"
-version_id: "10002635742"
-internal_id: "C10006979091"
-label_id: "10002627254"
-dtd_version: "2.0"
-original_entry_into_force: "1983-07-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002037/1983-07-30/0"
-intitule_bron: "Trb.1983-106"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1983-06-14"
-intitule_published: "1983-06-27"
-intitule_in_force: "1983-08-03"
-intitule_status: "goed"
-original_publication: "Trb.1983-106"
-original_signed_date: "1983-06-14"
-original_published_date: "1983-06-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1983-106"
-entry_into_force_date: "1983-07-30"
-jci_1_3: "jci1.3:c:BWBV0002037&z=1983-07-30&g=1983-07-30"
-jci_1_0: "1.0:c:BWBV0002037&g=1983-07-30"
-citeertitel_status: "officieel"
-signed_date: "1983-06-14"
-entry_into_force: "1983-07-30"
+publicatiedatum: 1983-07-30
+laatste_update: 1983-07-30
+status: geldig
+toestand: 1983-07-30
+bron: "https://wetten.overheid.nl/BWBV0002037"
+opgehaald: 2026-09-12
 ---
+
 # Protocol inzake de voorrechten en immuniteiten van de Internationale Organisatie voor Maritieme Satellieten
 
-The States Parties to this Protocol,
-
-Having regard to the [Convention and the Operating Agreement on the International Maritime Satellite Organization](https://wetten.overheid.nl/jci1.3:c:BWBV0003238) (INMARSAT) opened for signature at London on 3 September 1976 and, in particular, to [Articles 25 and 26(4) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003238&artikel=25);
-
-Taking note that INMARSAT has concluded a Headquarters Agreement with the Government of the United Kingdom of Great Britain and Northern Ireland on 25 February 1980;
-
-Considering that the aim of this Protocol is to facilitate the achievement of the purpose of INMARSAT and to ensure the efficient performance of its functions;
-
-Have agreed as follows:
+*The States Parties to this Protocol, Having regard to the Convention and the Operating Agreement on the International Maritime Satellite Organization (INMARSAT) opened for signature at London on 3 September 1976 and, in particular, to Articles 25 and 26(4) of the Convention; Taking note that INMARSAT has concluded a Headquarters Agreement with the Government of the United Kingdom of Great Britain and Northern Ireland on 25 February 1980; Considering that the aim of this Protocol is to facilitate the achievement of the purpose of INMARSAT and to ensure the efficient performance of its functions; Have agreed as follows:*
 
 ##### Article 1. Use of Terms
 
 For the purposes of this Protocol:
 
-- (a). ,,[Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003238)" means the Convention on the International Maritime Satellite Organization (INMARSAT), including its Annex, opened for signature at London on 3 September 1976;
+- (a) ,,[Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003238)" means the Convention on the International Maritime Satellite Organization (INMARSAT), including its Annex, opened for signature at London on 3 September 1976;
 
-- (b). ,,[Operating Agreement](onbekend)" means the Operating Agreement on the International Maritime Satellite Organization (INMARSAT), including its Annex, opened for signature at London on 3 September 1976;
+- (b) ,,[Operating Agreement](https://wetten.overheid.nl/BWBV0003238)" means the Operating Agreement on the International Maritime Satellite Organization (INMARSAT), including its Annex, opened for signature at London on 3 September 1976;
 
-- (c). ,,Party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003238)" means a State for which the Convention is in force;
+- (c) ,,Party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003238)" means a State for which the Convention is in force;
 
-- (d). ,,Headquarters Party" means the Party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003238) in whose territory INMARSAT has established its headquarters;
+- (d) ,,Headquarters Party" means the Party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003238) in whose territory INMARSAT has established its headquarters;
 
-- (e). ,,Signatory" means either a Party to the Protocol or an entity designated by a Party to the Protocol for which the [Operating Agreement](onbekend) is in force;
+- (e) ,,Signatory" means either a Party to the Protocol or an entity designated by a Party to the Protocol for which the [Operating Agreement](https://wetten.overheid.nl/BWBV0003238) is in force;
 
-- (f). ,,Party to the Protocol" means a State for which this Protocol is in force;
+- (f) ,,Party to the Protocol" means a State for which this Protocol is in force;
 
-- (g). ,,Staff member" means the Director General and any person employed full time by INMARSAT and subject to its staff regulations;
+- (g) ,,Staff member" means the Director General and any person employed full time by INMARSAT and subject to its staff regulations;
 
-- (h). ,,Representatives" in the case of Parties to the Protocol, the Headquarters Party and Signatories means representatives to INMARSAT and in each case means heads of delegations, alternates and advisers;
+- (h) ,,Representatives" in the case of Parties to the Protocol, the Headquarters Party and Signatories means representatives to INMARSAT and in each case means heads of delegations, alternates and advisers;
 
-- (i). ,,Archives" includes all manuscripts, correspondence, documents, photographs, films, optical and magnetic recordings, data recordings, graphic representations and computer programmes, belonging to or held by INMARSAT;
+- (i) ,,Archives" includes all manuscripts, correspondence, documents, photographs, films, optical and magnetic recordings, data recordings, graphic representations and computer programmes, belonging to or held by INMARSAT;
 
-- (j). ,,Official activities" of INMARSAT means activities carried out by the Organization in pursuance of its purpose as defined in the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003238) and includes its administrative activities;
+- (j) ,,Official activities" of INMARSAT means activities carried out by the Organization in pursuance of its purpose as defined in the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003238) and includes its administrative activities;
 
-- (k). ,,Expert" means a person other than a staff member appointed to carry out a specific task for or on behalf of INMARSAT and at its expense;
+- (k) ,,Expert" means a person other than a staff member appointed to carry out a specific task for or on behalf of INMARSAT and at its expense;
 
-- (I). “INMARSAT space segment" means the satellites, and tracking, telemetry, command, control, monitoring and related facilities and equipment required to support the operation of these satellites, which are owned or leased by INMARSAT;
+- (I) “INMARSAT space segment" means the satellites, and tracking, telemetry, command, control, monitoring and related facilities and equipment required to support the operation of these satellites, which are owned or leased by INMARSAT;
 
-- (m). ,,Property" means anything that can be the subject of a right of ownership, including contractual rights.
+- (m) ,,Property" means anything that can be the subject of a right of ownership, including contractual rights.
 
 ##### Article 2. Immunity of INMARSAT from Jurisdiction and Execution
 
 1. Unless it has expressly waived immunity in a particular case, INMARSAT shall, within the scope of its official activities, have immunity from jurisdiction except in respect of:
 
-- (a). its commercial activities;
+- (a) its commercial activities;
 
-- (b). a civil action by a third party for damage arising from an accident caused by a motor vehicle or other means of transport belonging to, or operated on behalf of, INMARSAT, or in respect of a traffic offence involving such means of transport;
+- (b) a civil action by a third party for damage arising from an accident caused by a motor vehicle or other means of transport belonging to, or operated on behalf of, INMARSAT, or in respect of a traffic offence involving such means of transport;
 
-- (c). the attachment, pursuant to the final order of a court of law, of the salaries and emoluments, including pension rights, owed by INMARSAT to a staff member, or a former staff member;
+- (c) the attachment, pursuant to the final order of a court of law, of the salaries and emoluments, including pension rights, owed by INMARSAT to a staff member, or a former staff member;
 
-- (d). a counter-claim directly connected with judicial proceedings initiated by INMARSAT.
+- (d) a counter-claim directly connected with judicial proceedings initiated by INMARSAT.
 
-2. Notwithstanding paragraph (1), no action shall be brought in the course of Parties to the Protocol against INMARSAT by Parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003238), Signatories or persons acting for or deriving claims from any of them, relating to rights and obligations under the Convention or [Operating Agreement](onbekend).
+2. Notwithstanding paragraph (1), no action shall be brought in the course of Parties to the Protocol against INMARSAT by Parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003238), Signatories or persons acting for or deriving claims from any of them, relating to rights and obligations under the Convention or [Operating Agreement](https://wetten.overheid.nl/BWBV0003238).
 
-- (a). The INMARSAT space segment, wherever located and by whomsoever held, shall be immune from any search, restraint, requisition, seizure, confiscation, expropriation, sequestration or execution, whether by executive, administrative or judicial action.
+3. - (a) The INMARSAT space segment, wherever located and by whomsoever held, shall be immune from any search, restraint, requisition, seizure, confiscation, expropriation, sequestration or execution, whether by executive, administrative or judicial action.
 
-- (b). All other property and assets of INMARSAT, wherever located and by whomsoever held, shall enjoy the immunity set out in paragraph (3) (a), except in respect of:
+- (b) All other property and assets of INMARSAT, wherever located and by whomsoever held, shall enjoy the immunity set out in paragraph (3) (a), except in respect of:
 
-- (i). an attachment or execution in order to satisfy a final judgement or order of a court of law that relates to any proceedings that may be brought against INMARSAT pursuant to paragraph (1);
+   - (i) an attachment or execution in order to satisfy a final judgement or order of a court of law that relates to any proceedings that may be brought against INMARSAT pursuant to paragraph (1);
 
-- (ii). any action taken in accordance with the law of the State concerned which is temporarily necessary in connection with the prevention of and investigation into accidents involving motor vehicles or other means of transport belonging to, or operated on behalf of, INMARSAT;
+   - (ii) any action taken in accordance with the law of the State concerned which is temporarily necessary in connection with the prevention of and investigation into accidents involving motor vehicles or other means of transport belonging to, or operated on behalf of, INMARSAT;
 
-- (iii). expropriation in respect of real property for public purposes and subject to prompt payment of fair compensation, provided that such expropriation shall not prejudice the functions and operations of INMARSAT.
+   - (iii) expropriation in respect of real property for public purposes and subject to prompt payment of fair compensation, provided that such expropriation shall not prejudice the functions and operations of INMARSAT.
 
 ##### Article 3. Inviolability of Archives
 
@@ -119,7 +89,7 @@ The archives of INMARSAT shall be inviolable wherever located and by whomsoever 
 
 7. Goods exempted under this Article shall not be transferred, hired out or lent, permanently or temporarily, or sold, except in accordance with conditions laid down by the Party to the Protocol which granted the exemption.
 
-8. Payments from INMARSAT to Signatories pursuant to the [Operating Agreement](onbekend) shall be exempt from national taxes by any Party to the Protocol, other than the Party which has designated the Signatory.
+8. Payments from INMARSAT to Signatories pursuant to the [Operating Agreement](https://wetten.overheid.nl/BWBV0003238) shall be exempt from national taxes by any Party to the Protocol, other than the Party which has designated the Signatory.
 
 ##### Article 5. Funds, Currency and Securities
 
@@ -137,19 +107,19 @@ INMARSAT may receive and hold any kind of funds, currency or securities and disp
 
 1. Staff members shall enjoy the following privileges and immunities:
 
-- (a). immunity from jurisdiction, even after they have left the service of INMARSAT, in respect of acts, including words spoken or written, done by them in the exercise of their official functions; this immunity shall not, however, apply in the case of a traffic offence committed by a staff member, or in the case of damage caused by a motor vehicle or other means of transport belonging to or driven by him;
+- (a) immunity from jurisdiction, even after they have left the service of INMARSAT, in respect of acts, including words spoken or written, done by them in the exercise of their official functions; this immunity shall not, however, apply in the case of a traffic offence committed by a staff member, or in the case of damage caused by a motor vehicle or other means of transport belonging to or driven by him;
 
-- (b). exemption, together with members of their families forming part of their respective households, from any obligations in respect of national service, including military service;
+- (b) exemption, together with members of their families forming part of their respective households, from any obligations in respect of national service, including military service;
 
-- c). inviolability for all their official papers related to the exercise of their functions within the scope of the official activities of INMARSAT;
+- c) inviolability for all their official papers related to the exercise of their functions within the scope of the official activities of INMARSAT;
 
-- (d). exemption, together with members of their families forming part of their respective households, from immigration restrictions and alien registration;
+- (d) exemption, together with members of their families forming part of their respective households, from immigration restrictions and alien registration;
 
-- (e). the same treatment in the matter of currency and exchange control as is accorded to staff members of intergovernmental organizations;
+- (e) the same treatment in the matter of currency and exchange control as is accorded to staff members of intergovernmental organizations;
 
-- (f). together with members of their families forming part of their respective households, the same facilities as to repatriation in time of international crisis as are accorded to staff members of intergovernmental organizations;
+- (f) together with members of their families forming part of their respective households, the same facilities as to repatriation in time of international crisis as are accorded to staff members of intergovernmental organizations;
 
-- (g). the right to import free of duty their furniture and personal effects, including a motor vehicle, at the time of first taking up their post in the State concerned, and the right to export them free of duty on termination of their functions in that State, in both cases in accordance with the laws and regulations of the State concerned. However, except in accordance with such laws and regulations, goods which have been exempted under this sub-paragraph shall not be transferred, hired out or lent, permanently or temporarily, or sold.
+- (g) the right to import free of duty their furniture and personal effects, including a motor vehicle, at the time of first taking up their post in the State concerned, and the right to export them free of duty on termination of their functions in that State, in both cases in accordance with the laws and regulations of the State concerned. However, except in accordance with such laws and regulations, goods which have been exempted under this sub-paragraph shall not be transferred, hired out or lent, permanently or temporarily, or sold.
 
 2. Salaries and emoluments paid by INMARSAT to staff members shall be exempt from income tax from the date upon which such staff members have begun to be liable for a tax imposed on their salaries by INMARSAT for the hitter's benefit. Parties to the Protocol may take these salaries and emoluments into account for the purpose of assessing the amount of taxes to be applied to income from other sources. Parties to the Protocol are not required to grant exemption from income tax in respect of pensions and annuities paid to former staff members.
 
@@ -161,11 +131,11 @@ INMARSAT may receive and hold any kind of funds, currency or securities and disp
 
 1. In addition to the privileges and immunities provided for staff members under Article 7, the Director General shall enjoy:
 
-- (a). immunity from arrest and detention;
+- (a) immunity from arrest and detention;
 
-- (b). immunity from civil and administrative jurisdiction and execution enjoyed by diplomatic agents, except in the case of damage caused by a motor vehicle or other means of transport belonging to or driven by him;
+- (b) immunity from civil and administrative jurisdiction and execution enjoyed by diplomatic agents, except in the case of damage caused by a motor vehicle or other means of transport belonging to or driven by him;
 
-- (c). full immunity from criminal jurisdiction, except in the case of a traffic offence caused by a motor vehicle or other means of transport belonging to, or driven by him, subject to sub-paragraph (a) above.
+- (c) full immunity from criminal jurisdiction, except in the case of a traffic offence caused by a motor vehicle or other means of transport belonging to, or driven by him, subject to sub-paragraph (a) above.
 
 2. The Parties to the Protocol shall not be obliged to accord to their nationals or permanent residents the immunities referred to in this Article.
 
@@ -173,17 +143,17 @@ INMARSAT may receive and hold any kind of funds, currency or securities and disp
 
 1. Representatives of the Parties to the Protocol and representatives of the Headquarters Party shall enjoy, while exercising their official functions and in the course of their journeys to and from their place of meeting, the following privileges and immunities:
 
-- (a). immunity from any form of arrest or detention or detention pending trial;
+- (a) immunity from any form of arrest or detention or detention pending trial;
 
-- (b). immunity from jurisdiction, even after the termination of their mission, in respect of acts, including words spoken or written, done by them in the exercise of their official functions; however, there shall be no immunity in the case of a traffic offence committed by a representative, or in the case of damage caused by a motor vehicle or other means of transport belonging to or driven by him;
+- (b) immunity from jurisdiction, even after the termination of their mission, in respect of acts, including words spoken or written, done by them in the exercise of their official functions; however, there shall be no immunity in the case of a traffic offence committed by a representative, or in the case of damage caused by a motor vehicle or other means of transport belonging to or driven by him;
 
-- (c). inviolability for all their official papers;
+- (c) inviolability for all their official papers;
 
-- (d). exemption, together with members of their families forming part of their respective households, from immigration restrictions and alien registration;
+- (d) exemption, together with members of their families forming part of their respective households, from immigration restrictions and alien registration;
 
-- (e). the same treatment in the matter of currency and exchange control as is accorded to representatives of foreign governments on temporary official missions;
+- (e) the same treatment in the matter of currency and exchange control as is accorded to representatives of foreign governments on temporary official missions;
 
-- (f). the same treatment in the matter of customs as regards their personal luggage as is accorded to representatives of foreign governments on temporary official missions.
+- (f) the same treatment in the matter of customs as regards their personal luggage as is accorded to representatives of foreign governments on temporary official missions.
 
 2. The provisions of paragraph (1) shall not apply in relations between a Party to the Protocol and its representatives. Further, the provisions of paragraphs (a), (d), (e) and (f) of paragraph (1) shall not apply in relations between a Party to the Protocol and its nationals or permanent residents.
 
@@ -191,11 +161,11 @@ INMARSAT may receive and hold any kind of funds, currency or securities and disp
 
 1. Representatives of Signatories and representatives of the Signatory of the Headquarters Party shall, while exercising their official functions in relation to the work of INMARSAT and in the course of their journeys to and from their place of meeting, enjoy the following privileges and immunities:
 
-- (a). immunity from jurisdiction, even after the termination of their mission, in respect of acts, including words spoken or written, done by them in the exercise of their official functions; however, there shall be not immunity in the case of traffic offence committed by a representative, or in the case of damage caused by a motor vehicle or other means of transport belonging to or driven by him;
+- (a) immunity from jurisdiction, even after the termination of their mission, in respect of acts, including words spoken or written, done by them in the exercise of their official functions; however, there shall be not immunity in the case of traffic offence committed by a representative, or in the case of damage caused by a motor vehicle or other means of transport belonging to or driven by him;
 
-- (b). inviolability for all their official papers;
+- (b) inviolability for all their official papers;
 
-- (c). exemption, together with members of their families forming part of their respective households, from immigration restrictions and alien registration.
+- (c) exemption, together with members of their families forming part of their respective households, from immigration restrictions and alien registration.
 
 2. The provisions of paragraph (1) shall not apply in relation between a Party to the Protocol and the representative of the Signatory designated by it. Further, the provisions of sub-paragraph (c) of paragraph (1) shall not apply in relations between a Party to the Protocol and its nationals or permanent residents.
 
@@ -203,15 +173,15 @@ INMARSAT may receive and hold any kind of funds, currency or securities and disp
 
 1. Experts, while exercising their official functions in relation to the work of INMARSAT, and in the course of their journeys to and from the place of their missions, shall enjoy the following privileges and immunities:
 
-- (a). immunity from jurisdiction, even after the termination of their mission, in respect of acts, including words spoken or written, done by them in the exercise of their official functions; however, there shall be no immunity in the case of damage caused by a motor vehicle or other means of transport belonging to or driven by him;
+- (a) immunity from jurisdiction, even after the termination of their mission, in respect of acts, including words spoken or written, done by them in the exercise of their official functions; however, there shall be no immunity in the case of damage caused by a motor vehicle or other means of transport belonging to or driven by him;
 
-- (b). inviolability for all their official papers;
+- (b) inviolability for all their official papers;
 
-- (c). the same treatment in the matter of currency and exchange control as is accorded to the staff members of intergovernmental organizations;
+- (c) the same treatment in the matter of currency and exchange control as is accorded to the staff members of intergovernmental organizations;
 
-- (d). exemption, together with members of their families forming part of their respective households, from immigration restrictions and alien registration;
+- (d) exemption, together with members of their families forming part of their respective households, from immigration restrictions and alien registration;
 
-- (e). the same facilities as regards there personal luggage as are accorded to experts of other intergovernmental organizations.
+- (e) the same facilities as regards there personal luggage as are accorded to experts of other intergovernmental organizations.
 
 2. The Parties to the Protocol shall not be obliged to accord to their nationals or permanent residents the privileges and immunities referred to in sub-paragraphs (c), (d), and (e) of paragraph (1).
 
@@ -225,13 +195,13 @@ The Director General of INMARSAT shall at least once every year notify the Parti
 
 2. If, in the view of the authorities listed below, privileges and immunities are likely to impede the course of justice, and all cases where they may be waived without prejudice to the purposes for which they have been accorded, these authorities have the right and duty to waive such privileges and immunities:
 
-- (a). the Parties to the Protocol in respect of their representatives and representatives of their Signatories;
+- (a) the Parties to the Protocol in respect of their representatives and representatives of their Signatories;
 
-- (b). the Council in respect of the Director General of INMARSAT;
+- (b) the Council in respect of the Director General of INMARSAT;
 
-- (c). the Director General of INMARSAT in respect of staff members and experts;
+- (c) the Director General of INMARSAT in respect of staff members and experts;
 
-- (d). the Assembly, convened if necessary in extraordinary session, in respect of INMARSAT.
+- (d) the Assembly, convened if necessary in extraordinary session, in respect of INMARSAT.
 
 ##### Article 14. Assistance to Individuals
 
@@ -259,11 +229,11 @@ INMARSAT may conclude with any Party to the Protocol complementary agreements to
 
 2. All Parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003238), other than the Headquarters Party, may become Parties to this Protocol by:
 
-- (a). signature not subject to ratification, acceptance or approval; or
+- (a) signature not subject to ratification, acceptance or approval; or
 
-- (b). signature subject to ratification, acceptance or approval, followed by ratification, acceptance or approval; or
+- (b) signature subject to ratification, acceptance or approval, followed by ratification, acceptance or approval; or
 
-- (c). accession.
+- (c) accession.
 
 3. Ratification, acceptance, approval or accession shall be effected by the deposit of the appropriate instrument with the Depositary.
 
@@ -289,15 +259,15 @@ INMARSAT may conclude with any Party to the Protocol complementary agreements to
 
 2. The Depositary shall, in particular, promptly notify all Parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003238) of:
 
-- (a). any signature of the Protocol;
+- (a) any signature of the Protocol;
 
-- (b). the deposit of any instrument of ratification, acceptation, approval or accession;
+- (b) the deposit of any instrument of ratification, acceptation, approval or accession;
 
-- (c). the date of entry into force of this Protocol;
+- (c) the date of entry into force of this Protocol;
 
-- (d). the date when a State has ceased to be a Party to this Protocol;
+- (d) the date when a State has ceased to be a Party to this Protocol;
 
-- (e). any other communications relating to this Protocol.
+- (e) any other communications relating to this Protocol.
 
 3. Upon entry into force of this Protocol, the Depositary shall transmit a certified copy of the original to the Secretariat of the United Nations for registration and publication in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 

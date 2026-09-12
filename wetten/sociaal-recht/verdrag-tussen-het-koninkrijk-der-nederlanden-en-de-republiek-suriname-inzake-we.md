@@ -1,67 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Suriname inzake wederzijdse administratieve bijstand in douanezaken"
 identifier: "BWBV0001695"
-country: "nl"
-rank: "verdrag"
-publication_date: "2006-08-01"
-last_updated: "2004-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001695"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10001473023"
-version_id: "10001551522"
-internal_id: "C10006995181"
-label_id: "10001473544"
-dtd_version: "2.0"
-original_entry_into_force: "2006-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001695/2006-08-01/0"
-intitule_bron: "Trb.2004-306"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-12-01"
-intitule_published: "2004-12-20"
-intitule_in_force: "2006-08-16"
-intitule_status: "goed"
-original_publication: "Trb.2004-306"
-original_signed_date: "2004-12-01"
-original_published_date: "2004-12-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2004-306"
-entry_into_force_date: "2006-08-01"
-jci_1_3: "jci1.3:c:BWBV0001695&z=2006-08-01&g=2006-08-01"
-jci_1_0: "1.0:c:BWBV0001695&g=2006-08-01"
-citeertitel_status: "redactioneel"
-signed_date: "2004-12-01"
-entry_into_force: "2006-08-01"
+publicatiedatum: 2006-08-01
+laatste_update: 2006-08-01
+status: geldig
+toestand: 2006-08-01
+bron: "https://wetten.overheid.nl/BWBV0001695"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Suriname inzake wederzijdse administratieve bijstand in douanezaken
 
-**Preambule**
-
-Het Koninkrijk der Nederlanden
-
-en
-
-de Republiek Suriname,
-
-hierna te noemen de Verdragsluitende Partijen,
-
-Gelet op het belang van een juiste vaststelling van de douanerechten en van het waarborgen van een juiste handhaving door hun douaneadministraties van verboden, beperkingen en controlemaatregelen met betrekking tot bepaalde goederen;
-
-Overwegend dat inbreuken op de douanewetgeving schadelijk zijn voor de veiligheid en de economische, fiscale, sociale en culturele belangen en de belangen op het gebied van de volksgezondheid van de Verdragsluitende Partijen;
-
-Overwegend dat de illegale grensoverschrijdende handel in wapens, explosieven, chemische, biologische en nucleaire stoffen alsmede in verdovende middelen, psychotrope stoffen en precursoren een gevaar voor de samenleving vormt;
-
-Erkennend de noodzaak van internationale samenwerking ter zake van aangelegenheden die verband houden met de toepassing en handhaving van hun douanewetgeving;
-
-Ervan overtuigd dat het optreden tegen inbreuken op de douanewetgeving doeltreffender kan worden door middel van nauwe samenwerking tussen hun douaneadministraties op basis van door de Verdragsluitende Partijen met elkaar overeengekomen internationaal rechtelijke bepalingen;
-
-Gelet op de Aanbeveling inzake wederzijdse administratieve bijstand, de Verklaring inzake verbetering van douanesamenwerking en wederzijdse administratieve bijstand (Verklaring van Cyprus) en de Resolutie inzake veiligheid en facilitatie van de internationale logistieke keten, aangenomen door de Internationale Douaneraad, tegenwoordig bekend als de Wereld Douane Organisatie, in respectievelijk december 1953, juli 2000 en juni 2002;
-
-Gelet op verdragen die verboden, beperkingen en bijzondere controlemaatregelen met betrekking tot bepaalde goederen bevatten;
-
-Tevens gelet op de Universele Verklaring van de Rechten van de Mens van de Verenigde Naties van 1948;
-
-zijn het volgende overeengekomen:
+*Preambule Het Koninkrijk der Nederlanden en de Republiek Suriname, hierna te noemen de Verdragsluitende Partijen, Gelet op het belang van een juiste vaststelling van de douanerechten en van het waarborgen van een juiste handhaving door hun douaneadministraties van verboden, beperkingen en controlemaatregelen met betrekking tot bepaalde goederen; Overwegend dat inbreuken op de douanewetgeving schadelijk zijn voor de veiligheid en de economische, fiscale, sociale en culturele belangen en de belangen op het gebied van de volksgezondheid van de Verdragsluitende Partijen; Overwegend dat de illegale grensoverschrijdende handel in wapens, explosieven, chemische, biologische en nucleaire stoffen alsmede in verdovende middelen, psychotrope stoffen en precursoren een gevaar voor de samenleving vormt; Erkennend de noodzaak van internationale samenwerking ter zake van aangelegenheden die verband houden met de toepassing en handhaving van hun douanewetgeving; Ervan overtuigd dat het optreden tegen inbreuken op de douanewetgeving doeltreffender kan worden door middel van nauwe samenwerking tussen hun douaneadministraties op basis van door de Verdragsluitende Partijen met elkaar overeengekomen internationaal rechtelijke bepalingen; Gelet op de Aanbeveling inzake wederzijdse administratieve bijstand, de Verklaring inzake verbetering van douanesamenwerking en wederzijdse administratieve bijstand (Verklaring van Cyprus) en de Resolutie inzake veiligheid en facilitatie van de internationale logistieke keten, aangenomen door de Internationale Douaneraad, tegenwoordig bekend als de Wereld Douane Organisatie, in respectievelijk december 1953, juli 2000 en juni 2002; Gelet op verdragen die verboden, beperkingen en bijzondere controlemaatregelen met betrekking tot bepaalde goederen bevatten; Tevens gelet op de Universele Verklaring van de Rechten van de Mens van de Verenigde Naties van 1948; zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. BEGRIPSOMSCHRIJVINGEN
 
@@ -299,50 +251,14 @@ De douaneadministraties van de Verdragsluitende Partijen besluiten gezamenlijk, 
 
 3. De beëindiging wordt van kracht zes maanden na de datum van de kennisgeving van opzegging aan de andere Verdragsluitende Partij. Lopende procedures op het tijdstip van beëindiging worden niettemin voltooid in overeenstemming met de bepalingen van dit Verdrag.
 
-##### 1
-
-De douaneadministraties van de Verdragsluitende Partijen mogen de verstrekte persoonsgegevens alleen gebruiken voor het aangegeven doel en overeenkomstig de door de verstrekkende douaneadministratie gestelde voorwaarden.
-
-##### 2
-
-De ontvangende administratie licht de verstrekkende douaneadministratie op haar verzoek in over het gebruik dat van de verstrekte persoonsgegevens is gemaakt en over de daarmee bereikte resultaten.
-
-##### 3
-
-Persoonsgegevens worden slechts verstrekt aan de bevoegde douaneautoriteiten van de Verdragsluitende Partijen. Toezending ervan aan andere autoriteiten mag alleen plaatsvinden met voorafgaande toestemming van de verstrekkende douaneadministratie.
-
-##### 4
-
-De verstrekkende douaneadministratie waarborgt dat de persoonsgegevens zowel nauwkeurig zijn als noodzakelijk en niet te uitvoerig in verhouding tot het doel waarvoor zij dienen te worden verstrekt. Verboden inzake het verstrekken van persoonsgegevens krachtens nationaal recht worden in acht genomen. Indien aan het licht komt dat onnauwkeurige gegevens of gegevens die niet verstrekt mogen worden zijn verstrekt, wordt de ontvanger terstond ingelicht en is deze verplicht de desbetreffende gegevens te verbeteren of te vernietigen.
-
-##### 5
-
-De betrokken natuurlijke persoon wordt op verzoek ingelicht over de omtrent hem aanwezige persoonsgegevens en over het beoogde gebruik ervan. Een dergelijke verplichting bestaat niet voorzover het openbaar belang bij het niet inlichten van de betrokken natuurlijke persoon zwaarder weegt dan het belang van die natuurlijke persoon te worden ingelicht. Het recht te worden ingelicht wordt voor het overige beheerst door nationaal recht.
-
-##### 6
-
-Indien enig persoon wordt geschaad door een onrechtmatig handelen bij de verstrekking van persoonsgegevens uit hoofde van dit Verdrag, is de ontvangende douaneadministratie aansprakelijk jegens genoemde persoon overeenkomstig het nationale recht. In haar verweer jegens genoemde persoon kan zij zich er niet op beroepen dat de schade is veroorzaakt door de verstrekkende douaneadministratie.
-
-##### 7
-
-Bij het verstrekken van persoonsgegevens vermeldt de verstrekkende douaneadministratie de krachtens nationaal recht toepasselijke termijnen waarna die gegevens dienen te worden vernietigd.
-
-##### 8
-
-De douaneadministraties van de Verdragsluitende Partijen zijn verplicht de verstrekking en ontvangst van persoonsgegevens te registreren.
-
-##### 9
-
-De douaneadministraties van de Verdragsluitende Partijen zijn verplicht de verstrekte persoonsgegevens doeltreffend te beschermen tegen ongeoorloofde toegang, tegen niet door de verstrekkende douaneadministratie toegestane wijzigingen en tegen ongeoorloofde toezending aan derde partijen.
-
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend.
 
 GEDAAN in tweevoud te Paramaribo, op 25 oktober 2004, in de Nederlandse taal.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 J. G. WIJN
 
-**Voor de Republiek Suriname**
+*Voor de Republiek Suriname*
 
 H. S. HILDENBERG

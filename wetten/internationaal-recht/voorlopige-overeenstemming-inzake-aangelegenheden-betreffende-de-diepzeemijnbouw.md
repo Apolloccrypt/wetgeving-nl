@@ -1,38 +1,16 @@
 ---
 title: "Voorlopige Overeenstemming inzake aangelegenheden betreffende de diepzeemijnbouw"
 identifier: "BWBV0002394"
-country: "nl"
-rank: "verdrag"
-publication_date: "1988-06-20"
-last_updated: "1988-06-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002394"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10002857773"
-version_id: "10002857942"
-internal_id: "C10006978441"
-label_id: "10002845324"
-dtd_version: "2.0"
-original_entry_into_force: "1988-06-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002394/1988-06-20/0"
-intitule_bron: "Trb.1984-98"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1988-06-20"
-intitule_published: "1984-08-31"
-intitule_in_force: "1988-07-21"
-intitule_status: "goed"
-original_publication: "Trb.1984-98"
-original_signed_date: "1988-06-20"
-original_published_date: "1984-08-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1984-98"
-entry_into_force_date: "1988-06-20"
-jci_1_3: "jci1.3:c:BWBV0002394&z=1988-06-20&g=1988-06-20"
-jci_1_0: "1.0:c:BWBV0002394&g=1988-06-20"
-citeertitel_status: "officieel"
-signed_date: "1988-06-20"
-entry_into_force: "1988-06-20"
+publicatiedatum: 1988-06-20
+laatste_update: 1988-06-20
+status: geldig
+toestand: 1988-06-20
+bron: "https://wetten.overheid.nl/BWBV0002394"
+opgehaald: 2026-09-12
 ---
+
 # Voorlopige Overeenstemming inzake aangelegenheden betreffende de diepzeemijnbouw
 
 ##### Artikel 1
@@ -43,9 +21,9 @@ entry_into_force: "1988-06-20"
 
 - b. een gebied waarop aanspraak wordt gemaakt in een andere aanvrage die is ingediend in overeenstemming met de nationale wetgeving en deze Overeenkomst,
 
-- (i). voorafgaand aan de ondertekening van deze Overeenkomst, of
+   - (i) voorafgaand aan de ondertekening van deze Overeenkomst, of
 
-- (ii). eerder dan de desbetreffende aanvrage voor een vergunning of het desbetreffende verzoek om registratie, en die nog bij een andere Partij in behandeling is; of
+   - (ii) eerder dan de desbetreffende aanvrage voor een vergunning of het desbetreffende verzoek om registratie, en die nog bij een andere Partij in behandeling is; of
 
 - c. een door een andere Partij in overeenstemming met deze Overeenkomst verleende vergunning.
 

@@ -1,179 +1,122 @@
 ---
 title: "Verdrag betreffende de werktijden van zeevarenden en de bemanning van schepen"
 identifier: "BWBV0001593"
-country: "nl"
-rank: "verdrag"
-publication_date: "2013-08-20"
-last_updated: "2013-08-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001593"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000697533"
-version_id: "10005744212"
-internal_id: "C10009009351"
-label_id: "10000697884"
-dtd_version: "2.0"
-original_entry_into_force: "2013-08-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001593/2013-08-20/0"
-intitule_bron: "Trb.2015-192"
-intitule_effect: "intrekking-regeling"
-intitule_published: "2015-12-01"
-intitule_in_force: "2015-12-01"
-intitule_status: "vervallen"
-original_publication: "Trb.2015-192"
-original_published_date: "2015-12-01"
-original_effect: "intrekking-regeling"
-original_url_id: "trb-2015-192"
-entry_into_force_date: "2013-08-20"
-jci_1_3: "jci1.3:c:BWBV0001593&z=2013-08-20&g=2013-08-20"
-jci_1_0: "1.0:c:BWBV0001593&g=2013-08-20"
-citeertitel_status: "officieel"
-entry_into_force: "2013-08-20"
+publicatiedatum: 2013-08-20
+laatste_update: 2013-08-20
+status: geldig
+toestand: 2013-08-20
+bron: "https://wetten.overheid.nl/BWBV0001593"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag betreffende de werktijden van zeevarenden en de bemanning van schepen
 
-De Algemene Conferentie van de Internationale Arbeidsorganisatie,
+## PART I. SCOPE AND DEFINITIONS
 
-Bijeengeroepen te Genève door de Raad van beheer van het Internationaal Arbeidsbureau en aldaar bijeengekomen in haar vierentachtigste zitting op 8 oktober 1996;
+##### Article 1
 
-Gelet op de bepalingen van het Koopvaardijverdrag (minimumnormen), 1976, het daarbij behorende [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001594) van 1996 en het Arbeidsinspectieverdrag (zeevarenden), 1996;
+*Vervallen*
 
-In herinnering brengende de desbetreffende bepalingen van de volgende akten van de Internationale Maritieme Organisatie: het [Internationaal Verdrag voor de beveiliging van mensenlevens op zee](https://wetten.overheid.nl/jci1.3:c:BWBV0003264), 1974, zoals gewijzigd, het [Internationaal Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst](https://wetten.overheid.nl/jci1.3:c:BWBV0003452), 1978, zoals gewijzigd in 1995, Resolutie A.481 (XII) inzake de beginselen van veilige bemanning, 1981, Resolutie A.741 (18) inzake de internationale code voor de veilige exploitatie van schepen en voor de voorkoming van vervuiling (International Safety Management (ISM) Code), 1993 en Resolutie A.772 (18) inzake vermoeidheidsfactoren bij bemanningen en veiligheid, 1993;
+##### Article 2
 
-In herinnering brengende de inwerkingtreding, op 16 november 1994, van het [Verdrag van de Verenigde Naties inzake het recht van de zee](https://wetten.overheid.nl/jci1.3:c:BWBV0003172), 1982;
+*Vervallen*
 
-Besloten hebbende tot de aanneming van bepaalde voorstellen met betrekking tot de herziening van het Verdrag betreffende de gages, de arbeidsduur aan boord en de bemanningssterkte (herzien), 1958, en de Aanbeveling betreffende de gages, de arbeidsduur aan boord en de bemanningssterkte, 1958, welk onderwerp als tweede punt op de agenda van de zitting voorkomt;
+## PART II. SEAFARERS HOURS OF WORK AND HOURS OF REST
 
-Vastgesteld hebbende dat deze voorstellen de vorm dienen te krijgen van een verdrag;
+##### Article 3
 
-Neemt heden, de tweeëntwintigste oktober van het jaar negentienhonderd zesennegentig, het volgende verdrag aan, dat kan worden aangehaald als het „Verdrag betreffende de werktijden van zeevarenden en de bemanning van schepen, 1996":
+*Vervallen*
 
-## DEEL I. REIKWIJDTE EN DEFINITIES
+##### Article 4
 
-##### Artikel 1
+*Vervallen*
 
-Vervallen
+##### Article 5
 
-##### Artikel 2
+*Vervallen*
 
-Vervallen
+##### Article 6
 
-## DEEL II. WERKTIJDEN EN RUSTTIJDEN VAN ZEEVARENDEN
+*Vervallen*
 
-##### Artikel 3
+##### Article 7
 
-Vervallen
+*Vervallen*
 
-##### Artikel 4
+##### Article 8
 
-Vervallen
+*Vervallen*
 
-##### Artikel 5
+##### Article 9
 
-Vervallen
+*Vervallen*
 
-##### Artikel 6
+##### Article 10
 
-Vervallen
+*Vervallen*
 
-##### Artikel 7
+## PART III. MANNING OF SHIPS
 
-Vervallen
+##### Article 11
 
-##### Artikel 8
+*Vervallen*
 
-Vervallen
+##### Article 12
 
-##### Artikel 9
+*Vervallen*
 
-Vervallen
+## PART IV. RESPONSIBILITIES OF SHIPOWNERS AND MASTERS
 
-##### Artikel 10
+##### Article 13
 
-Vervallen
+*Vervallen*
 
-## DEEL III. DE BEMANNING VAN SCHEPEN
+## PART V. APPLICATION
 
-##### Artikel 11
+##### Article 14
 
-Vervallen
+*Vervallen*
 
-##### Artikel 12
+##### Article 15
 
-Vervallen
+*Vervallen*
 
-## DEEL IV. VERANTWOORDELIJKHEDEN VAN REDERS EN KAPITEINS
+## PART VI. FINAL PROVISIONS
 
-##### Artikel 13
+##### Article 16
 
-Vervallen
+*Vervallen*
 
-## DEEL V. TOEPASSING
+##### Article 17
 
-##### Artikel 14
+*Vervallen*
 
-Vervallen
+##### Article 18
 
-##### Artikel 15
+*Vervallen*
 
-Vervallen
+##### Article 19
 
-## DEEL VI. SLOTBEPALINGEN
+*Vervallen*
 
-##### Artikel 16
+##### Article 20
 
-Vervallen
+*Vervallen*
 
-##### Artikel 17
+##### Article 21
 
-Vervallen
+*Vervallen*
 
-##### Artikel 18
+##### Article 22
 
-Vervallen
+*Vervallen*
 
-##### Artikel 19
+##### Article 23
 
-Vervallen
+*Vervallen*
 
-##### Artikel 20
+##### Article 24
 
-Vervallen
-
-##### Artikel 21
-
-Vervallen
-
-##### Artikel 22
-
-Vervallen
-
-##### Artikel 23
-
-Vervallen
-
-##### Artikel 24
-
-Vervallen
-
-IN FAITH WHEREOF we have appended our signatures this twenty-second day of October 1996.
-
-**The President of the Conference,**
-
-(sd.) JAMES HUBBARD
-
-**The Director-General of the International Labour Office,**
-
-(sd.) MICHEL HANSENNE
-
-## DEEL I. REIKWIJDTE EN DEFINITIES
-
-## DEEL II. WERKTIJDEN EN RUSTTIJDEN VAN ZEEVARENDEN
-
-## DEEL III. DE BEMANNING VAN SCHEPEN
-
-## DEEL IV. VERANTWOORDELIJKHEDEN VAN REDERS EN KAPITEINS
-
-## DEEL V. TOEPASSING
-
-## DEEL VI. SLOTBEPALINGEN
+*Vervallen*

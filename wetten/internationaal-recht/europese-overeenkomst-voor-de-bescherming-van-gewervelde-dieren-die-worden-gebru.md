@@ -1,382 +1,340 @@
 ---
 title: "Europese Overeenkomst voor de bescherming van gewervelde dieren die worden gebruikt voor experimentele en andere wetenschappelijke doeleinden, zoals gewijzigd door het Protocol tot wijziging"
 identifier: "BWBV0002789"
-country: "nl"
-rank: "verdrag"
-publication_date: "2005-12-02"
-last_updated: "2005-12-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002789"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003115153"
-version_id: "10003120292"
-internal_id: "C10006979691"
-label_id: "10003102314"
-dtd_version: "2.0"
-original_entry_into_force: "1997-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002789/2005-12-02/0"
-intitule_bron: "Trb.1986-197"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-01-21"
-intitule_published: "1986-12-24"
-intitule_in_force: "1997-03-10"
-intitule_status: "goed"
-original_publication: "Trb.1986-197"
-original_signed_date: "1997-01-21"
-original_published_date: "1986-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1986-197"
-entry_into_force_date: "1997-08-01"
-jci_1_3: "jci1.3:c:BWBV0002789&z=2005-12-02&g=2005-12-02"
-jci_1_0: "1.0:c:BWBV0002789&g=2005-12-02"
-citeertitel_status: "officieel"
-signed_date: "1997-01-21"
-entry_into_force: "1997-08-01"
+publicatiedatum: 1997-08-01
+laatste_update: 2005-12-02
+status: geldig
+toestand: 2005-12-02
+bron: "https://wetten.overheid.nl/BWBV0002789"
+opgehaald: 2026-09-12
 ---
+
 # Europese Overeenkomst voor de bescherming van gewervelde dieren die worden gebruikt voor experimentele en andere wetenschappelijke doeleinden, zoals gewijzigd door het Protocol tot wijziging
 
-Preambule
+*Preambule The member States of the Council of Europe, signatory hereto, Recalling that the aim of the Council of Europe is to achieve a greater unity between its members and that it wishes to co-operate with other States in the protection of live animals used for experimental and other scientific purposes; Recognising that man has a moral obligation to respect all animals and to have due consideration for their capacity for suffering and memory; Accepting nevertheless that man in his quest for knowledge, health and safety has a need to use animals where there is a reasonable expectation that the result will be to extend knowledge or be to the overall benefit of man or animal, just as he uses them for food, clothing and as beasts of burden; Resolved to limit the use of animals for experimental and other scientific purposes, with the aim of replacing such use wherever practical, in particular by seeking alternative measures and encouraging the use of these alternative measures; Desirous to adopt common provisions in order to protect animals used in those procedures which may possibly cause pain, suffering, distress or lasting harm and to ensure that where unavoidable they shall be kept to a minimum, Have agreed as follows:*
 
-De lidstaten van de Raad van Europa, die deze Overeenkomst hebben ondertekend;
+## PART I. General principles
 
-Eraan herinnerend dat het doel van de Raad van Europa is het tot stand brengen van een grotere eenheid tussen zijn leden en dat de Raad wenst samen te werken met andere Staten bij de bescherming van levende dieren die worden gebruikt voor experimentele en andere wetenschappelijke doeleinden;
+##### Article 1
 
-Erkennend dat de mens de morele plicht heeft alle dieren te respecteren en voldoende rekening dient te houden met het feit dat zij pijn kunnen lijden en een herinneringsvermogen bezitten;
+1. This Convention applies to any animal used or intended for use in any experimental or other scientific procedure where that procedure may cause pain, suffering, distress or lasting harm. It does not apply to any non-experimental agricultural or clinical veterinary practice.
 
-Aanvaardend evenwel dat de mens in zijn streven naar kennis, gezondheid en veiligheid er behoefte aan heeft dieren te gebruiken, indien er een redelijke verwachting bestaat dat het resultaat een verruiming van kennis zal opleveren of ten goede zal komen aan mens en dier in het algemeen, evenals hij dieren gebruikt voor voedsel, kleding en als lastdier;
+2. In this Convention:
 
-Vastbesloten het gebruik van dieren voor experimentele en andere wetenschappelijke doeleinden te beperken, met als doel de mogelijke vervanging van dit gebruik, in het bijzonder door onderzoek naar en bevordering van de toepassing van alternatieve methoden;
+- a. *,,animal",* unless otherwise qualified, means any live non-human vertebrate, including free-living and/or reproducing larval forms, but excluding other foetal or embryonic forms;
 
-Verlangend gemeenschappelijke bepalingen te aanvaarden met het doel de dieren te beschermen die worden gebruikt bij procedures waarbij pijn, lijden, angst of blijvend letsel kan worden berokkend en om te waarborgen dat deze procedures, indien ze onvermijdelijk zijn, tot een minimum beperkt blijven;
+- b. *"intended for use"* means bred or kept for the purpose of sale, disposal or use in any experimental or other scientific procedure;
 
-Zijn als volgt overeengekomen:
+- c. *"procedure"* means any experimental or other scientific use of an animal which may cause it pain, suffering, distress or lasting harm, including any course of action intended to, or liable to, result in the birth of an animal in any such conditions, but excluding the least painful methods accepted in modern practice (that is, "humane" methods) of killing or marking an animal. A procedure starts when an animal is first prepared for use and ends when no further observations are to be made for that procedure; the elimination of pain, suffering, distress or lasting harm by the successful use of anaesthesia or analgesia or other methods does not place the use of an animal outside the scope of this definition;
 
-## DEEL I. Algemene principes
+- d. *"competent person"* means any person who is considered by a Party to be competent in its territory to perform the relevant function described in this Convention;
 
-##### Artikel 1
+- e. *"responsible authority"* means, in the territory of a given Party, any authority, body or person designated for the relevant purpose;
 
-1. Deze Overeenkomst is van toepassing op elk dier dat wordt gebruikt of is bestemd voor gebruik in enige experimentele of andere wetenschappelijke procedure, welke pijn, lijden, angst of blijvend letsel teweeg kan brengen. Zij is niet van toepassing op niet-experimenteel agrarisch of clinisch veterinair gebruik.
+- f. *"establishment"* means any stable or mobile facility, any building, group of buildings or other premises, including a place which is not wholly enclosed or covered;
 
-2. In het verband van deze Overeenkomst verstaat men onder:
+- g. *"breeding establishment"* means any establishment where animals are bred with a view to their use in procedures;
 
-- a. **„dier”:** zonder andere aanduiding, ieder levend niet-menselijk gewerveld dier, met inbegrip van vrij-levende en/of tot voortplanting in staat zijnde larvale vormen, maar met uitzondering van andere foetale of embryonale vormen;
+- h. *"supplying establishment"* means any establishment, other than a breeding establishment, from which animals are supplied with a view to their use in procedures;
 
-- b. **„bestemd voor gebruik”:** gefokt of gehouden voor de verkoop, het beschikbaar stellen voor of het gebruik in een experimentele of andere wetenschappelijke procedure;
+- i. *"user establishment"* means any establishment where animals are used in procedures;
 
-- c. **„procedure”:** elk experimenteel of ander wetenschappelijk gebruik van een dier dat bij dat dier pijn, lijden, angst of blijvend letsel kan veroorzaken, met inbegrip van iedere ingreep welke resulteert, of waarvan is te verwachten dat deze resulteert in de geboorte van een dier in zulke omstandigheden, maar met uitzondering van de minst pijnlijke methoden, aanvaard in de huidige praktijk (ook wel „humane” methoden), om een dier te doden of te merken. Een procedure vangt aan op het moment waarop het dier voor de eerste maal voor gebruik wordt voorbereid en eindigt wanneer geen verdere waarneming meer behoeft te worden gedaan ten behoeve van die procedure. Het uitschakelen van pijn, lijden, angst of blijvend letsel door een doelmatige toepassing van anaesthesie of analgesie of van andere methoden op het dier plaatsen het gebruik van een dier niet buiten het toepassingsbereik van deze definitie;
+- j. *"humane method of killing"* means the killing of an animal with a minimum of physical and mental suffering appropriate to the species.
 
-- d. **„deskundige”:** iedere persoon die door een Partij binnen zijn grondgebied deskundig geacht wordt om de hem toegewezen functie, omschreven in deze Overeenkomst, te vervullen;
+##### Article 2
 
-- e. **„verantwoordelijke autoriteit”:** op het grondgebied van de betrokken Partij, iedere autoriteit, ieder lichaam of iedere persoon, aangewezen voor het bepaalde doel;
-
-- f. **„instelling”:iedere** installatie, permanent of mobiel, elk gebouw, groep gebouwen of andere localiteiten, met inbegrip van een niet geheel omsloten of overdekte plaats;
-
-- g. „**fokinstelling”:** iedere instelling waar dieren worden gefokt met het oog op hun gebruik in procedures;
-
-- h. **„toeleverende instelling”:** iedere instelling, anders dan een fokinstelling, welke dieren levert met het oog op hun gebruik in procedures;
-
-- i. **„gebruikende instelling”:** iedere instelling waar dieren worden gebruikt in procedures;
-
-- j. **„humane methode van doden”:** het doden van een dier met een minimum aan fysiek en mentaal lijden, gelet op de soort.
-
-##### Artikel 2
-
-Een procedure mag alleen worden verricht ten behoeve van één of meer van de volgende doelstellingen en onder de beperkingen vastgelegd in deze Overeenkomst:
+A procedure may be performed for one or more of the following purposes only and subject to the restrictions laid down in this Convention:
 
 - a.
 
-- i. het vermijden of voorkomen van ziekten, slechte gezondheid of andere afwijkingen, of van de gevolgen daarvan, bij de mens, bij gewervelde of ongewervelde dieren, of bij planten, met inbegrip van het onderzoek naar de kwaliteit, doelmatigheid en veiligheid van geneesmiddelen, stoffen of produkten en hun productie;
+   - i. avoidance or prevention of disease, ill-health or other abnormality, or their effects, in man, vertebrate or invertebrate animals or plants, including the production and the quality, efficacy and safety testing of drugs, substances or products;
 
-- ii. de diagnose of de behandeling van ziekten, slechte gezondheid of andere afwijkingen, of de gevolgen daarvan, bij de mens, bij gewervelde of ongewervelde dieren of bij planten;
+   - ii. diagnosis or treatment of disease, ill-health or other abnormality, or their effects, in man, vertebrate or invertebrate animals or plants;
 
-- b. het onderkennen, beoordelen, reguleren of wijzigen van de fysiologische gesteldheid van de mens, van gewervelde en ongewervelde dieren en van planten;
+- b. detection, assessment, regulation or modification of physiological conditions in man, vertebrate and invertebrate animals or plants;
 
-- c. de bescherming van het milieu;
+- c. protection of the environment;
 
-- d. wetenschappelijk onderzoek;
+- d. scientific research;
 
-- e. onderwijs en opleiding;
+- e. education and training;
 
-- f. forensisch onderzoek.
+- f. forensic inquiries.
 
-##### Artikel 3
+##### Article 3
 
-Iedere Partij verbindt zich, zo spoedig mogelijk en in ieder geval binnen een periode van vijf jaar vanaf de datum van inwerkingtreding van deze Overeenkomst, alle maatregelen te nemen, nodig om uitvoering te geven aan de bepalingen van deze Overeenkomst en om een doeltreffend systeem van controle en toezicht te verzekeren.
+Each Party undertakes to take all the necessary steps to give effect to the provisions of this Convention and to ensure an effective system of control and supervision as soon as possible and in any case within a period of five years from the date of entry into force of the present Convention in respect of that Party.
 
-##### Artikel 4
+##### Article 4
 
-Geen enkele bepaling van deze Overeenkomst tast de vrijheid van Partijen aan striktere maatregelen te treffen ter bescherming van dieren gebruikt in procedures of ter controle op en ter beperking van het gebruik van dieren in procedures.
+No provision in this Convention shall affect the liberty of the Parties to adopt stricter measures for the protection of animals used in procedures or for the control and restriction of the use of animals in procedures.
 
-## DEEL II. Algemene verzorging en huisvesting der dieren
+## PART II. General care and accommodation
 
-##### Artikel 5
+##### Article 5
 
-1. Elk dier, gebruikt of bestemd voor gebruik in een procedure, krijgt een onderkomen, een omgeving, ten minste een zekere bewegingsvrijheid, voedsel, water en verzorging passend bij zijn gezondheid en zijn welzijn. Iedere beperking van de mate waarin het dier aan zijn fysiologische en ethologische behoeften kan voldoen, dient zo gering mogelijk te zijn. Bij de naleving van deze bepaling ware acht te slaan op de richtlijnen voor huisvesting en verzorging van dieren, vervat in Bijlage A bij deze Overeenkomst.
+1. Any animal used or intended for use in a procedure shall be provided with accommodation, an environment, at least a minimum degree of freedom of movement, food, water and care, appropriate to its health and well-being. Any restriction on the extent to which an animal can satisfy its physiological and ethological needs shall be limited as far as practicable. In the implementation of this provision, regard should be paid to the guidelines for accommodation and care of animals set out in Appendix A to this Convention.
 
-2. De omstandigheden van de omgeving, waarin dieren worden gefokt, gehouden of gebruikt, dienen dagelijks te worden gecontroleerd.
+2. The environmental conditions in which animals are bred, kept or used shall be checked daily.
 
-3. Het welzijn en de gezondheidstoestand van de dieren dienen geobserveerd te worden met voldoende nauwkeurigheid en frequentie om pijn, onnodig lijden, angst of blijvend letsel te voorkomen.
+3. The well-being and state of health of animals shall be observed sufficiently closely and frequently to prevent pain or avoidable suffering, distress or lasting harm.
 
-4. Iedere Partij dient de maatregelen te treffen noodzakelijk voor het op zo kort mogelijke termijn ongedaan maken van ieder geconstateerd gebrek of lijden.
+4. Each Party shall determine arrangements to ensure that any defect or suffering discovered is corrected as quickly as possible.
 
-## DEEL III. Het verrichten van procedures
+## PART III. Conduct of procedure
 
-##### Artikel 6
+##### Article 6
 
-1. Een procedure mag niet worden verricht voor enige doelstelling, genoemd in artikel 2, indien een andere wetenschappelijk bevredigende methode redelijkerwijs en practisch gezien voor handen is, welke niet het gebruik van een dier met zich brengt.
+1. A procedure shall not be performed for any of the purposes referred to in Article 2, if another scientifically satisfactory method, not entailing the use of an animal, is reasonably and practicably available.
 
-2. Iedere Partij zou het wetenschappelijk onderzoek moeten aanmoedigen naar de ontwikkeling van methoden, die dezelfde informatie zouden kunnen verschaffen als die verkregen in procedures.
+2. Each Party should encourage scientific research into the development of methods which could provide the same information as that obtained in procedures.
 
-##### Artikel 7
+##### Article 7
 
-Wanneer een procedure moet worden verricht, dient de keuze van de soort zorgvuldig overwogen te worden en, idien vereist, dient de motivering uiteengezet te worden aan de verantwoordelijke autoriteit; bij een keuze tussen procedures dienen die gekozen te worden, die het kleinste aantal dieren gebruiken, het minste pijn, lijden, angst of blijvend letsel veroorzaken en die, naar verwachting, de meest bevredigende resultaten opleveren.
+When a procedure has to be performed, the choice of species shall be carefully considered and, where required, be explained to the responsible authority; in a choice between procedures, those should be selected which use the minimum number of animals, cause the least pain, suffering, distress or lasting harm and which are most likely to provide satisfactory results.
 
-##### Artikel 8
+##### Article 8
 
-Een procedure dient te worden verricht onder algehele of plaatselijke anaesthesie of analgesie of middels andere methoden gericht op het zoveel mogelijk uitschakelen van pijn, lijden, angst of blijvend letsel, toegepast gedurende de gehele procedure, tenzij:
+A procedure shall be performed under general or local anaesthesia or analgesia or by other methods designed to eliminate as far as practicable pain, suffering, distress or lasting harm, applied, throughout the procedure unless:
 
-- a. de pijn veroorzaakt door de procedure minder is dan de verstoring van het welzijn van het dier veroorzaakt door de toepassing van anaesthesie of analgesie, of
+- a. the pain caused by the procedure is less than the impairment of the animal's well-being caused by the use of anaesthesia or analgesia, or
 
-- b. de toepassing van anaesthesie of analgesie onverenigbaar is met het doel van de procedure. In een dergelijk geval dienen passende wettelijke en/of administratieve maatregelen getroffen te worden om te verzekeren dat een dergelijke procedure niet onnodig wordt verricht.
+- b. the use of anaesthesia or analgesia is incompatible with the aim of the procedure. In such cases, appropriate legislative and/or administrative measures shall be taken to ensure that no such procedure is carried out unnecessarily.
 
-##### Artikel 9
+##### Article 9
 
-1. Waar het voornemen bestaat een dier te onderwerpen aan een procedure waarin het hevige pijn zal of kan ervaren, welke waarschijnlijk zal aanhouden, moet die procedure uitdrukkelijk worden aangemeld bij en gerechtvaardigd tegenover, of uitdrukkelijk worden toegestaan door de verantwoordelijke autoriteit.
+1. Where it is planned to subject an animal to a procedure in which it will or may experience severe pain which is likely to endure, that procedure must be specifically declared and justified to, or specifically authorised by, the responsible authority.
 
-2. Passende wettelijke en/of administratieve maatregelen dienen te worden getroffen om te verzekeren dat een dergelijke procedure niet onnodig wordt uitgevoerd.
+2. Appropriate legislative and/or administrative measures shall be taken to ensure that no such procedure is carried out unnecessarily.
 
-Zulke maatregelen dienen te omvatten:
+Such measures shall include:
 
-- -. ofwel uitdrukkelijke toestemming door de verantwoordelijke autoriteit;
+- - either specific authorisation by the responsible authority;
 
-- -. danwel uitdrukkelijk aanmelden van zo'n procedure bij de verantwoordelijke autoriteit en gerechtelijk of administratief ingrijpen door die autoriteit indien hij niet overtuigd is dat de procedure voldoende belangrijk is voor de essentiële behoeften van mens of dier, met inbegrip van de oplossing van wetenschappelijke problemen.
+- - or specific declaration of such procedure to the responsible authority and judicial or administrative action by that authority if it is not satisfied that the procedure is of sufficient importance for meeting the essential needs of man or animal, including the solution of scientific problems.
 
-##### Artikel 10
+##### Article 10
 
-Gedurende een procedure blijft ieder dier dat daarbij wordt gebruikt, onderworpen aan de bepalingen van artikel 5, behalve wanneer die bepalingen onverenigbaar zijn met het doel van de procedure.
+During a procedure, an animal used shall remain subject to the provisions of Article 5 except where those provisions are incompatible with the objective of the procedure.
 
-##### Artikel 11
+##### Article 11
 
-1. Aan het einde van een procedure dient te worden beslist of het dier in leven zal worden gehouden of zal worden gedood volgens een humane methode. Een dier zal niet in leven worden gelaten, zelfs al is zijn gezondheidstoestand hersteld tot normaal in alle andere opzichten, indien het waarschijnlijk is, dat het blijvend pijn of angst zal ondervinden.
+1. At the end of a procedure it shall be decided whether the animal shall be kept alive or killed by a humane method. An animal shall not kept alive if, even though it has been restored to normal health in all other respects, it is likely to remain in lasting pain or distress.
 
-2. De beslissingen, bedoeld in lid 1 van dit artikel, dienen te worden genomen door een deskundige, in het bijzonder een dierenarts, of door de persoon, die krachtens artikel 13 verantwoordelijk is voor de procedure, of deze heeft uitgevoerd.
+2. The decisions referred to in paragraph 1 of this article shall be taken by a competent person, in particular a veterinarian, or the person who, in accordance with Article 13, is responsible for, or has performed, the procedure.
 
-3. Wanneer, na afloop van een procedure:
+3. Where, at the end of a procedure:
 
-- a. een dier in leven dient te worden gehouden, dient het de verzorging te ontvangen passend bij zijn gezondheidstoestand, onder toezicht gesteld te worden van een dierenarts of een andere deskundige en te worden gehouden onder omstandigheden die voldoen aan de vereisten van artikel 5. Van de omstandigheden, vervat in dit sub-lid, mag worden afgeweken wanneer, naar de mening van een dierenarts, het dier niet zou lijden onder de gevolgen van een dergelijk afwijken;
+- a. an animal is to be kept alive, it shall receive the care appropriate to its state of health, be placed under the supervision of a veterinarian or other competent person and kept under conditions conforming to the requirements of Article 5. The conditions laid down in this sub-paragraph may, however, be waived where, in the opinion of a veterinarian, the animal would not suffer as a consequence of such exemption;
 
-- b. een dier niet in leven dient te worden gehouden of, voor zijn welzijn, niet kan profiteren van de bepalingen van artikel 5 zal het zo snel mogelijk volgens een humane methode gedood worden.
+- b. an animal is not to be kept alive or cannot benefit from the provisions of Article 5 for its well-being, it shall be killed by a humane method as soon as possible.
 
-4. Geen dier dat is gebruikt in een procedure welke met hevige of langdurige pijn of met hevig of langdurig lijden gepaard ging, onverschillig of anaesthesie of analgesie werd toegepast, mag in een nieuwe procedure worden gebruikt tenzij zijn gezondheidstoestand en zijn welzijn weer normaal zijn geworden, en op voorwaarde dat:
+4. No animal which has been used in a procedure entailing severe or enduring pain or suffering, irrespective of whether anaesthesia or analgesia was employed, shall be used in a further procedure unless it has returned to good health and well-being, and either:
 
-- a. het dier gedurende de gehele nieuwe procedure onder algehele anaesthesie wordt gehouden, welke dient te worden gehandhaafd totdat het dier is gedood; of dat
+- a. the further procedure is one in which the animal is subject throughout to general anaesthesia which is to be maintained until the animal is killed; or
 
-- b. de nieuwe procedure slechts geringe ingrepen behelst.
+- b. the further procedure will involve minor interventions only.
 
-##### Artikel 12
+##### Article 12
 
-Niettegenstaande de overige bepalingen van deze Overeenkomst, kan de verantwoordelijke autoriteit, waar noodzakelijk voor de legitieme doelstellingen van de procedure, toestaan dat het dier in kwestie wordt vrijgelaten, op voorwaarde dat hij zich ervan verzekerd heeft dat de grootst mogelijke zorg is aangewend ter bescherming van het welzijn van het dier. Procedures die de vrijlating van het dier met zich brengen zijn niet toegestaan voor het enkele doel van onderwijs en opleiding.
+Notwithstanding the other provisions of this Convention, where it is necessary for the legitimate purposes of the procedure, the responsible authority may allow the animal concerned to be set free provided that it is satisfied that the maximum practicable care has been taken to safeguard the animal's well-being. Procedures that involve setting the animal free shall not be permitted solely for educational or training purposes.
 
-## DEEL IV. Vergunning
+## PART IV. Authorisation
 
-##### Artikel 13
+##### Article 13
 
-Een procedure binnen de doelstellingen genoemd in artikel 2 mag slechts worden verricht door personen aan wie vergunning is verleend, ofwel onder de directe verantwoordelijkheid van een persoon aan wie vergunning is verleend, danwel indien voor het experimentele of wetenschappelijke project vergunning verleend is overeenkomstig de bepalingen van de nationale wetgeving. Deze vergunning wordt slechts toegekend aan personen die door de verantwoordelijke autoriteit deskundig worden geacht.
+A procedure for the purposes referred to in Article 2 may be carried out only by persons authorised, or under the direct responsibility of a person authorised, or if the experimental or other scientific project concerned is authorised in accordance with the provisions of national legislation. Authorisation shall be granted only to persons deemed to be competent by the responsible authority.
 
-## DEEL V. Fokinstellingen of toeleverende instellingen
+## PART V. Breeding or supplying establishments
 
-##### Artikel 14
+##### Article 14
 
-Fok- en toeleverende instellingen dienen geregistreerd te staan bij de verantwoordelijke autoriteit, behoudens verlening van een vrijstelling onder artikel 21 of 22. Dergelijke geregistreerde instellingen dienen te voldoen aan de vereisten van artikel 5.
+Breeding and supplying establishments shall be registered with the responsible authority subject to the grant of an exemption under Article 21 or Article 22. Such registered establishments shall comply with the requirements of Article 5.
 
-##### Artikel 15
+##### Article 15
 
-De registratie, voorzien in artikel 14, dient de persoon aan het hoofd van de instelling te vermelden, welke deskundig dient te zijn in het op passende wijze verzorgen of doen verzorgen van de dieren of de soorten, die in de instelling worden gefokt of gehouden.
+The registration provided for in Article 14 shall specify the person in charge of the establishment, who shall be competent to administer or arrange for suitable care for animals of the species bred or kept in the establishment.
 
-##### Artikel 16
+##### Article 16
 
-1. In geregistreerde fokinstellingen dienen regelingen te worden getroffen voor het bijhouden van een register, waarin worden ingeschreven alle dieren die er zijn gefokt, en waarin wordt aangegeven het aantal en de soort dieren die de instelling verlaten, de datum van hun vertrek en de naam en het adres van de ontvanger.
+1. Arrangements shall be made at registered breeding establishments to record, in respect of the animals bred there, the number and species of such animals leaving, the dates they leave and the name and address of the recipient.
 
-2. In geregistreerde toeleverende instellingen dienen regelingen te worden getroffen voor het bijhouden van een register, waarin wordt aangegeven het aantal en het soort van de dieren die de instelling binnenkomen en die deze verlaten, de data van deze bewegingen, de leverancier van de betrokken dieren en de naam en het adres van de ontvanger.
+2. Arrangements shall be made at registered supplying establishments to record the number and species of such animals entering and leaving, the dates of these movements, from whom the animals concerned were acquired and the name and address of the recipient.
 
-3. De verantwoordelijke autoriteit schrijft de aard van de registers voor, die dienen te worden bijgehouden en te zijner beschikking gesteld door de persoon aan het hoofd van de instellingen, genoemd in de leden 1 en 2 van dit artikel. Deze registers dienen te worden bewaard gedurende een periode van minimaal drie jaar te rekenen vanaf de datum van de laatste aantekening.
+3. The responsible authority shall prescribe the records which are to be kept and made available to it by the person in charge of the establishments mentioned in paragraph 1 and 2 of this article; such records shall be kept for a minimum of three years from the date of the last entry.
 
-##### Artikel 17
+##### Article 17
 
-1. In iedere instelling dient elke hond of kat, voordat hij wordt gespeend, individueel en permanent van een merkteken te worden voorzien op de minst pijnlijke wijze die mogelijk is.
+1. Each dog and cat in an establishment shall be individually and permanently marked in the least painful manner possible before it is weaned.
 
-2. Wanneer een niet-gemerkte hond of kat voor de eerste maal een instelling binnenkomt na te zijn gespeend, wordt hij zo spoedig mogelijk van een merkteken voorzien.
+2. Where an unmarked dog or cat is taken into an establishment for the first time after it has been weaned, it shall be marked as soon as possible.
 
-3. Wanneer een niet gespeende hond of kat, waarbij het niet mogelijk was hem voordien te merken, wordt overgebracht van de ene instelling naar de andere, dient een compleet registratie document te worden bijgehouden, waarin met name de identiteit van zijn moeder wordt gespecificeerd, totdat hij van een merkteken is voorzien.
+3. Where a dog or cat is transferred from one establishment to another before it is weaned and it is not practical to mark it beforehand, a full documentary record, specifying in particular its mother, shall be kept until it can be marked.
 
-4. De bijzonderheden van de identiteit en van de herkomst van elke hond of kat dienen vermeld te worden in de registers van de instelling.
+4. Particulars of the identity and origin of each dog or cat shall be entered in the records of the establishment.
 
-## DEEL VI. Gebruikende instellingen
+##### Article 18
 
-##### Artikel 18
+User establishments shall be registered with or otherwise approved by the responsible authority and shall comply with the conditions laid down in Article 5.
 
-De gebruikende instellingen dienen geregistreerd te staan bij de verantwoordelijke autoriteit of anderszins door deze te zijn goedgekeurd en dienen te voldoen aan de voorwaarden vastgelegd in artikel 5.
+##### Article 19
 
-##### Artikel 19
+Provisions shall be made at user establishments for installations and equipment appropriate for the species of animals used and the performance of the procedures conducted there. The design, construction and functioning of such installations and equipment shall be such as to ensure that the procedures are performed as effectively as possible, with the object to obtaining consistent results with the minimum number of animals and the minimum degree of pain, suffering, distress or lasting harm.
 
-Maatregelen dienen te worden getroffen die ertoe moeten leiden dat gebruikende instellingen beschikken over installaties en apparatuur, aangepast aan de diersoorten die worden gebruikt en de procedures die worden uitgevoerd. Het ontwerp, de constructie en de manier van functioneren van die installaties en apparatuur dienen zodanig te zijn dat zij verzekeren dat de procedures zo doelmatig mogelijk worden uitgevoerd met als doel het verkrijgen van samenhangende resultaten met zo min mogelijk dieren en een minimum aan pijn, lijden, angst of blijvend letsel.
+##### Article 20
 
-##### Artikel 20
+In user establishments:
 
-In gebruikende instellingen:
+- a. the person or persons who are administratively responsible for the care of the animals and the functioning of the equipment shall be identified;
 
-- a. dient de identiteit van de persoon of personen, die administratief verantwoordelijk zijn voor de verzorging van de dieren en voor het functioneren van de apparatuur vast te staan;
+- b. sufficient trained staff shall be provided;
 
-- b. dient een gekwalificeerde staf beschikbaar te zijn in voldoende aantal;
+- c. adequate arrangements shall be made for the provision of veterinary advice and treatment;
 
-- c. dienen adequate regelingen getroffen te zijn die veterinair advies en veterinaire behandeling mogelijk maken.
+- d. a veterinarian or other competent person should be charged with advisory duties in relation to the well-being of the animals.
 
-- d. dient een dierenarts of een ander deskundig persoon belast te zijn met adviserende taken inzake het welzijn van de dieren.
+##### Article 21
 
-##### Artikel 21
+1. Animals of the species listed below which are for use in procedures shall be acquired directly from or originate from registered breeding establishments, unless a general or special exemption has been obtained under arrangements to be determined by the Party:
 
-1. Dieren van de onderstaande soorten, die zijn bestemd om gebruikt te worden in procedures dienen direct te worden betrokken van geregistreerde fokinstellingen of uit dergelijke instellingen afkomstig te zijn, tenzij een algemene of bijzondere vrijstelling is verkregen in overeenstemming met door de Partij te nemen maatregelen:
-
-| Muis Rat Cavia Goudhamster Konijn Hond Kat Kwartel | **Mus musculus** **Rattus norvegicus** **Cavia porcellus** **Mesocricetus auratus** **Oryctolagus cuniculus** **Canis familiaris** **Felis catus** **Coturnix cotumix** |
+| Mouse Rat Guinea pig Golden hamster Rabbit Dog Cat Quail | Mus musculus Rattus norvegicus Cavia porcellus Mesocricetus auratus Oryctolagus cuniculus Canis familiaris Felis catus Coturnix coturnix |
 | --- | --- |
 
-2. Elke partij verbindt zich het bepaalde in het eerste lid van dit artikel uit te breiden tot andere soorten, met name van de orde der primaten, zodra er een redelijk vooruitzicht is op het beschikken over een voldoende toelevering van voor dit doel gefokte dieren van de betrokken soorten.
+2. Each Party undertakes to extend the provisions of paragraph 1 of this article to other species, in particular of the order of primates, as soon as there is a reasonable prospect of a sufficient supply of purpose-bred animals of the species concerned.
 
-3. Zwervende dieren van gedomesticeerde soorten mogen niet in procedures worden gebruikt. De algemene vrijstelling, voorzien in het eerste lid van dit artikel, mag niet worden uitgebreid tot zwerfhonden en -katten.
+3. Straying animals of a domesticated species shall not be used in procedures. A general exemption made under the conditions of paragraph 1 of this article may not extend to stray dogs and cats.
 
-##### Artikel 22
+##### Article 22
 
-In gebruikende instellingen mogen uitsluitend dieren worden gebruikt, afkomstig uit geregistreerde fokinstellingen of geregistreerde toeleverende instellingen, tenzij een algemene of bijzondere vrijstelling is verkregen in overeenstemming met door de Partij te treffen regels.
+In user establishments, only animals supplied from registered breeding or supplying establishments shall be used, unless a general or special exemption has been obtained under arrangements to be determined by the Party.
 
-##### Artikel 23
+##### Article 23
 
-Procedures mogen, wanneer de verantwoordelijke autoriteit daartoe vergunning heeft verleend, buiten de gebruikende instellingen worden uitgevoerd.
+Procedures may, where authorised by the responsible authority, be conducted outside user establishments.
 
-##### Artikel 24
+##### Article 24
 
-Er dienen regelingen te worden getroffen opdat in de gebruikende instellingen registers worden bijgehouden en voorgelegd op ieder verzoek van de verantwoordelijke autoriteit. Deze registers dienen met name te voldoen aan de vereisten van artikel 27 en dienen bovendien voor alle verkregen dieren melding te maken van het aantal, de soort, de leverancier en de datum van aankomst.
+Arrangements shall be made at user establishments to maintain records and make them available as required by the responsible authority. In particular, these records shall be sufficient to meet the requirements of Article 27 and, in addition, show the number and species of all animals acquired, from whom they were acquired and their date of arrival.
 
-## DEEL VII. Onderwijs en opleiding
+## PART VII. Education and training
 
-##### Artikel 25
+##### Article 25
 
-1. De procedures, uitgevoerd voor onderwijsdoeleinden, voor opleiding of voor bijscholing voor een beroep of andere activiteiten, daaronder begrepen de verzorging van dieren, die worden gebruikt of bestemd zijn voor gebruik, dienen te worden aangemeld bij de verantwoordelijke autoriteit en te worden uitgevoerd door of onder de supervisie van een deskundige, die de verantwoordelijkheid heeft erop toe te zien dat de procedures in overeenstemming zijn met de nationale wetgeving in de zin van deze Overeenkomst.
+1. Procedures carried out for the purpose of education, training or further training for professions or other occupations, including the care of animals being used or intended for use in procedures, must be notified to the responsible authority and shall be carried out by or under the supervision of a competent person, who will be responsible for ensuring that the procedures comply with national legislation under the terms of this Convention.
 
-2. De procedures, bestemd voor onderwijs, opleiding of bijscholing voor andere doeleinden dan die genoemd in het eerste lid hierboven zijn niet toegestaan.
+2. Procedures within the scope of education, training, or further training for purposes other than those referred to in paragraph 1 above shall not be permitted.
 
-3. De procedures genoemd in het eerste lid van dit artikel dienen beperkt te blijven tot die, welke strikt noodzakelijk zijn voor het doel van het betrokken onderwijs of de opleiding en dienen niet te worden toegestaan tenzij hun doel niet kan worden bereikt met even waardevolle audiovisuele middelen of op welke andere passende manier dan ook.
+3. Procedures referred to in paragraph 1 of this article shall be restricted to those absolutely necessary for the purpose of the education or training concerned and be permitted only if their objective cannot be achieved by comparably effective audio-visual or any other suitable methods.
 
-##### Artikel 26
+##### Article 26
 
-De personen die de procedures uitvoeren of er aan deelnemen, alsmede de personen, die de verzorging verzekeren van dieren gebruikt in procedures, met inbegrip van het toezicht, moeten een passende scholing en opleiding ontvangen hebben.
+Persons who carry out procedures, or take part in procedures, or take care of animals used in procedures, including supervision, shall have had appropriate education and training.
 
-## DEEL VIII. Statistische informatie
+## PART VIII. Statistical information
 
-##### Artikel 27
+##### Article 27
 
-1. Iedere Partij dient de statistische gegevens te verzamelen over het gebruik van dieren in procedures; deze gegevens dienen openbaar te worden gemaakt aan het publiek wanneer die openbaarmaking geoorloofd is.
+1. Each Party shall collect statistical information on the use of animals in procedures and this information shall where lawful be made available to the public.
 
-2. Gegevens dienen te worden verzameld omtrent:
+2. Information shall be collected in respect of:
 
-- a. het aantal en de soorten dieren gebruikt in procedures;
+- a. the numbers and kinds of animals used in procedures;
 
-- b. het aantal dieren in onderscheiden categorieën gebruikt in procedures welke direct verband houden met medische doelstellingen en ten behoeve van onderwijs en opleiding;
+- b. the numbers of animals in selected categories used in procedures directly concerned with medicine and in education and training;
 
-- c. het aantal dieren in onderscheiden categorieën gebruikt in procedures voor de bescherming van de mens en van zijn milieu;
+- c. the numbers of animals in selected categories used in procedures for the protection of man and the environment;
 
-- d. het aantal dieren in onderscheiden categorieën gebruikt in bij wet voorgeschreven procedures.
+- d. the numbers of animals in selected categories used in procedures required by law.
 
-##### Artikel 28
+##### Article 28
 
-1. Onder voorbehoud van bepalingen in de nationale wetgeving omtrent geheimhouding en vertrouwelijkheid, dient iedere Partij elk jaar de Secretaris-Generaal van de Raad van Europa gegevens te doen toekomen inzake de punten, genoemd in het tweede lid van artikel 27, aangeboden in de vorm voorzien in Bijlage B bij deze Overeenkomst.
+1. Subject to requirements of national legislation relating to secrecy and confidentiality, each Party shall communicate every year to the Secretary General of the Council of Europe information in respect of the items mentioned in paragraph 2 of Article 27, presented in the form set out in Appendix B to this Convention.
 
-2. De Secretaris-Generaal van de Raad van Europa dient de van de Partijen ontvangen statistische informatie met betrekking tot de punten genoemd in het tweede lid van artikel 27 te publiceren.
+2. The Secretary General of the Council of Europe shall publish the statistical information received from the Parties in respect of the items mentioned in paragraph 2 of Article 27.
 
-3. Iedere Partij wordt uitgenodigd aan de Secretaris-Generaal van de Raad van Europa het adres van zijn nationale autoriteit mede te delen, bij wie, op verzoek, uitgebreider informatie inzake de nationale statistieken kan worden verkregen. Deze adressen zullen worden opgenomen in de door de Secretaris-Generaal van de Raad van Europa opgestelde publicaties van statistieken.
+3. Each Party is invited to communicate to the Secretary General of the Council of Europe the address of its national authority from which information about more comprehensive national statistics may be obtained on request. Such addresses will be contained in the publications of statistics made by the Secretary General of the Council of Europe.
 
-## DEEL IX. Erkenning van procedures uitgevoerd op het grondgebied van een andere Partij
+## PART IX. Recognition of procedures carried out in the territory of another Party
 
-##### Artikel 29
+##### Article 29
 
-1. Met het oog op het vermijden van onnodige herhalingen van bij wet vereiste procedures op het gebied van gezondheid en van veiligheid, dient iedere Partij, wanneer zulks mogelijk is, de resultaten te erkennen van procedures uitgevoerd op het grondgebied van een andere Partij.
+1. In order to avoid unnecessary repetition of procedures required by law on health and safety, each Party shall, where practicable, recognise the results of procedures carried out in the territory of another Party.
 
-2. Tot dat doel verplichten de Partijen zich1)[Red: De Engelse tekst bevat nog de zinsnede: „waar doenlijk en geoorloofd,”.]elkaar wederzijds bijstand te verlenen, met name bij het verstrekken van informatie inzake hun rechtsregels en hun administratieve praktijk ten aanzien van de vereisten procedures uit te voeren ter ondersteuning van aanvragen tot registratie van produkten, alsmede feitelijke informatie inzake de op hun grondgebied uitgevoerde procedures en inzake vergunningen of enig ander administratief detail betrekking hebbend op dergelijke procedures.
+2. To that end the Parties undertake, where practicable and lawful, to render each other mutual assistance, in particular by furnishing information on their legislation and administrative pratice relating to the requirements for procedures to be carried out in support of submissions for registration of products, as well as factual information on procedures carried out in their territory and on authorisation or any other administrative particulars pertaining to these procedures.
 
-## DEEL X. Multilaterale consultaties
+## PART X. Multilateral consultations
 
-##### Artikel 30
+##### Article 30
 
-1. De Partijen dienen binnen vijf jaar vanaf de inwerkingtreding van deze Overeenkomst en daarna iedere vijf jaar, of vaker indien de meerderheid der Partijen dat vraagt, multilaterale consultaties te houden in het kader van de Raad van Europa, om de toepassing van deze Overeenkomst te bezien, alsmede de wenselijkheid van herziening of een verruiming van enige van haar bepalingen.
+1. The Parties shall, within five years from the entry into force of this Convention and every five years thereafter, or more frequently if a majority of the Parties should so request, hold multilateral consultations within the Council of Europe to examine the application of this Convention, and the advisability of revising it or extending any of its provisions.
 
-2. Deze consultaties vinden plaats tijdens bijeenkomsten bijeengeroepen door de Secretaris-Generaal van de Raad van Europa. De Partijen dienen ten minste twee maanden voor iedere bijeenkomst de naam van hun vertegenwoordiger mede te delen aan de Secretaris-Generaal van de Raad van Europa.
+2. These consultations shall take place at meetings convened by the Secretary General of the Council of Europe. The Parties shall communicate the name of their representative to the Secretary General of the Council of Europe at least two months before each meeting.
 
-3. Met inachtneming van de bepalingen van deze Overeenkomst stellen de Partijen het reglement van orde voor de consultaties op.
+3. Subject to the provisions of this Convention, the Parties shall draw up the rules of procedure for the consultations.
 
-## DEEL XI. Wijzigingen
+## PART XI. Amendments
 
-##### Artikel 31
+##### Article 31
 
-1. Iedere wijziging op de Bijlagen A en B die wordt voorgesteld door een Partij of door het Comité van Ministers van de Raad van Europa wordt medegedeeld aan de Secretaris-Generaal van de Raad van Europa en door hem gezonden naar de lidstaten van de Raad van Europa, naar de Europese Gemeenschap en naar iedere niet-lidstaat van de Raad die is toegetreden of is uitgenodigd toe te treden tot de Overeenkomst overeenkomstig de bepalingen van artikel 34.
+1. Any amendment to Appendices A and B, proposed by a Party or by the Committee of Ministers of the Council of Europe shall be communicated to the Secretary General of the Council of Europe and forwarded by him to the member States of the Council of Europe, to the European Community and to any non-member State which has acceded to, or has been invited to accede to the Convention in accordance with the provisions of Article 34.
 
-2. Wijzigingen die zijn voorgesteld overeenkomstig de bepalingen van het voorgaande lid worden, na het verstrijken van een periode van ten minste zes maanden na de datum van verzending door de Secretaris-Generaal, bezien tijdens een multilaterale consultatie, waar zij kunnen worden aangenomen door een meerderheid van twee derde van de Partijen. De aangenomen tekst wordt naar de Partijen gezonden.
+2. Any amendments proposed in accordance with the provisions of the preceding paragraph shall be examined, not less than six months after the date of forwarding by the Secretary General, at a multilateral consultation where it may be adopted by a two-thirds majority of the Parties. The text adopted shall be forwarded to the Parties.
 
-3. Twaalf maanden na de aanneming van een wijziging tijdens een multilaterale consultatie, treedt deze in werking tenzij een derde van de Partijen bezwaren heeft kenbaar gemaakt.
+3. Twelve months after its adoption at a multilateral consultation, any amendment shall enter into force unless one third of the Parties have notified objections.
 
-##### Artikel 32
+## PART XII. Final provisions
 
-Deze Overeenkomst staat open voor ondertekening door de Lid-staten van de Raad van Europa en door de Europese Gemeenschappen. Zij dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring dienen te worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+##### Article 32
 
-##### Artikel 33
+This Convention shall be open for signature by the member States of the Council of Europe and by the European Communities. It is subject to ratification, acceptance or approval. Instruments of ratification, acceptance or approval shall be deposited with the Secretary General of the Council of Europe.
 
-1. Deze Overeenkomst treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een termijn van zes maanden na de datum waarop vier Lidstaten van de Raad van Europa hun instemming tot uiting hebben gebracht te worden gebonden door deze Overeenkomst in overeenstemming met de bepalingen van artikel 31.
+##### Article 33
 
-2. Voor iedere Ondertekenaar, die later zijn instemming betuigt door de Overeenkomst te worden gebonden, zal deze in werking treden op de eerste dag van de maand die volgt op het verstrijken van een termijn van zes maanden na de datum van de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
+1. This Convention shall enter into force on the first day of the month following the expiration of a period of six months after the date on which four member States of the Council of Europe have expressed their consent to be bound by the Convention in accordance with the provisions of Article 31.
 
-##### Artikel 34
+2. In respect of a Signatory which subsequently expresses its consent to be bound by it, the Convention shall enter into force on the first day of the month following the expiration of a period of six months after the date of the deposit of the instrument of ratification, acceptance or approval.
 
-1. Na de inwerkingtreding van deze Overeenkomst kan het Comité van Ministers van de Raad van Europa iedere Staat, die geen lid is van de Raad, uitnodigen toe te treden tot deze Overeenkomst, middels een besluit, genomen bij de meerderheid van stemmen voorzien in [artikel 20.d van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20), en bij unanimiteit van de vertegenwoordigers van de Overeenkomstsluitende Staten, die gerechtigd zijn zitting te hebben in het Comité.
+##### Article 34
 
-2. Voor iedere toetredende Staat treedt de Overeenkomst in werking op de eerste dag van de maand die volgt op het verstrijken van een termijn van zes maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
+1. After the entry into force of this Convention, the Committee of Ministers of the Council of Europe may invite any State not a member of the Council to accede to this Convention, by a decision taken by the majority provided for in [Article 20.d of the Statute of the Council of Europe](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) and by the unanimous vote of the representatives of the Contracting States entitled to sit on the Committee.
 
-##### Artikel 35
+2. In respect of any acceding State, the Convention shall enter into force on the first day of the month following the expiration of a period of six months after the date of deposit of the instrument of accession with the Secretary General of the Council of Europe.
 
-1. Iedere Ondertekenaar mag, ten tijde van de ondertekening of ten tijde van de nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring, één of meer voorbehouden maken; geen voorbehoud mag evenwel worden gemaakt ten aanzien van de artikelen 1 tot 14 en 18 tot 20.
+##### Article 35
 
-2. Iedere Partij, die een voorbehoud heeft gemaakt onder het vorig lid, mag dit geheel of gedeeltelijk intrekken middels een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa. De intrekking wordt van kracht op de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
+1. Any Signatory may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, make one or more reservations. No reservations may, however, be made in respect of Articles 1 to 14 or Articles 18 to 20.
 
-3. De Partij die een voorbehoud heeft gemaakt met betrekking tot een bepaling van deze Overeenkomst mag naleving van die bepaling door een andere Partij niet vorderen; zij mag evenwel, indien het voorbehoud gedeeltelijk of voorwaardelijk is, naleving vorderen van die bepaling in de mate waarin zij zelf deze heeft aanvaard.
+2. Any Party which has made a reservation under the preceding paragraph may wholly or partly withdraw it by means of a notification addressed to the Secretary General of the Council of Europe. The withdrawal shall take effect on the date of receipt of such notification by the Secretary General.
 
-##### Artikel 36
+3. A Party which has made a reservation in respect of a provision of this Convention may not claim the application of that provision by any other Party; it may, however, if its reservation is partial or conditional, claim the application of that provision insofar as it has itself accepted it.
 
-1. Iedere Ondertekenaar mag, ten tijde van ondertekening of ten tijde van de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, het gebied of de gebieden aangeven waarop deze Overeenkomst van toepassing zal zijn.
+##### Article 36
 
-2. Iedere Partij mag, op ieder tijdstip daarna, middels een verklaring gericht aan de Secretaris-Generaal van de Raad van Europa, de toepassing van deze Overeenkomst uitbreiden tot ieder ander in de verklaring genoemd gebied. De Overeenkomst treedt in werking voor dat gebied op de eerste dag van de maand die volgt op het verstrijken van een termijn van zes maanden na de datum van ontvangst van de verklaring door de Secretaris-Generaal.
+1. Any Signatory may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, specify the territory or territories to which this Convention shall apply.
 
-3. Iedere verklaring, afgelegd onder de vorige twee leden mag worden ingetrokken met betrekking tot ieder gebied in die verklaring genoemd, door middel van een kennisgeving gericht aan de Secretaris-Generaal. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een termijn van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
+2. Any Party may at any later date, by a declaration addressed to the Secretary General of the Council of Europe, extend the application of this Convention to any other territory specified in the declaration. In respect of such territory, the Convention shall enter into force on the first day of the month following the expiration of a period of six months after the date of receipt of such declaration by the Secretary General.
 
-##### Artikel 37
+3. Any declaration made under the two preceding paragraphs may, in respect of any territory specified in such declaration, be withdrawn by a notification addressed to the Secretary General. The withdrawal shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of such notification by the Secretary General.
 
-1. Iedere Partij mag op elk moment deze Overeenkomst opzeggen door een kennisgeving te richten aan de Secretaris-generaal van de Raad van Europa.
+##### Article 37
 
-2. De opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een termijn van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
+1. Any Party may at any time denounce this Convention by means of a notification addressed to the Secretary General of the Council of Europe.
 
-IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Convention.
+2. Such denunciation shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of the notification by the Secretary General.
 
-DONE at Strasbourg, this 18th day of March 1986, in English and French, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to each member State of the Council of Europe, to the European Communities and to any State invited to accede to this Convention.
+##### Article 38
 
-## DEEL XII. Slotbepalingen
+The Secretary General of the Council of Europe shall notify the member States of the Council of Europe, the European Communities and any State which has acceded to this Convention of:
 
-##### Artikel 38
+- a. any signature;
 
-De Secretaris-Generaal van de Raad van Europa dient de Lidstaten van de Raad van Europa, de Europese Gemeenschappen en iedere Staat die is toegetreden tot deze Overeenkomst in kennis te stellen van:
+- b. the deposit of any instrument of ratification, acceptance, approval or accession;
 
-- a. iedere ondertekening;
+- c. any date of entry into force of this Convention in accordance with Articles 32, 33 and 35;
 
-- b. de nederlegging van iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
-
-- c. iedere datum van inwerkingtreding van deze Overeenkomst in overeenstemming met de artikelen 32, 33 en 35;
-
-- d. iedere andere handeling, kennisgeving of mededeling betrekking hebbend op deze Overeenkomst.
+- d. any other act, notification or communication relating to this Convention.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Convention.
 

@@ -1,51 +1,19 @@
 ---
 title: "Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China inzake de wederzijdse erkenning van graden van instellingen voor hoger onderwijs en de toegang tot hoger onderwijs"
 identifier: "BWBV0001787"
-country: "nl"
-rank: "verdrag"
-publication_date: "2006-06-01"
-last_updated: "2005-05-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001787"
+categorie: "Onderwijs"
 soort: "verdrag"
-stam_id: "10002521383"
-version_id: "10002507812"
-internal_id: "C10006996981"
-label_id: "10002510834"
-dtd_version: "2.0"
-original_entry_into_force: "2006-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001787/2006-06-01/0"
-intitule_bron: "Trb.2005-180"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-02-08"
-intitule_published: "2005-07-14"
-intitule_in_force: "2006-10-20"
-intitule_status: "goed"
-original_publication: "Trb.2005-180"
-original_signed_date: "2006-02-08"
-original_published_date: "2005-07-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2005-180"
-entry_into_force_date: "2006-06-01"
-jci_1_3: "jci1.3:c:BWBV0001787&z=2006-06-01&g=2006-06-01"
-jci_1_0: "1.0:c:BWBV0001787&g=2006-06-01"
-citeertitel_status: "redactioneel"
-signed_date: "2006-02-08"
-entry_into_force: "2006-06-01"
+publicatiedatum: 2006-06-01
+laatste_update: 2006-06-01
+status: geldig
+toestand: 2006-06-01
+bron: "https://wetten.overheid.nl/BWBV0001787"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China inzake de wederzijdse erkenning van graden van instellingen voor hoger onderwijs en de toegang tot hoger onderwijs
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van de Volksrepubliek China,
-
-Overwegend hun wederzijds belang bij het bevorderen van samenwerking op het gebied van wetenschap en onderwijs en bij het vergemakkelijken van de uitwisseling van studenten;
-
-Geleid door de wens de kwaliteit van de banden op het gebied van onderwijs tussen de Volksrepubliek China en het Koninkrijk der Nederlanden te versterken;
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China, Overwegend hun wederzijds belang bij het bevorderen van samenwerking op het gebied van wetenschap en onderwijs en bij het vergemakkelijken van de uitwisseling van studenten; Geleid door de wens de kwaliteit van de banden op het gebied van onderwijs tussen de Volksrepubliek China en het Koninkrijk der Nederlanden te versterken; Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Reikwijdte en doel
 
@@ -95,23 +63,23 @@ Het doctoraat betreft primair een graad verbonden aan onderzoek dat in het kader
 
 De graden van instellingen voor hoger onderwijs waarop dit Verdrag betrekking heeft zijn de volgende:
 
-- a. **xueshi (bachelor); vier jaren voltijdstudie;**
+- a. *xueshi (bachelor); vier jaren voltijdstudie;*
 
-- b. **shuoshi (master): xueshi en twee tot drie jaar shuoshi-studie;**
+- b. *shuoshi (master): xueshi en twee tot drie jaar shuoshi-studie;*
 
-- c. **boshi** (doctor): **xueshi** en twee tot drie jaar **shuoshi-**studie en drie tot vier jaar**boshi**-studie; of **xueshi** en vijf tot zes jaar**boshi**-studie.
+- c. *boshi* (doctor): *xueshi* en twee tot drie jaar *shuoshi-*studie en drie tot vier jaar*boshi*-studie; of *xueshi* en vijf tot zes jaar*boshi*-studie.
 
-De **boshi** betreft primair een graad verbonden aan onderzoek, waarvoor een proefschrift gebaseerd op oorspronkelijk onderzoek moet worden geschreven, dat in het openbaar verdedigd moet worden. De**boshi** kan worden verleend door een universiteit of door onderzoeksinstellingen die door de nationale autoriteiten zijn goedgekeurd.
+De *boshi* betreft primair een graad verbonden aan onderzoek, waarvoor een proefschrift gebaseerd op oorspronkelijk onderzoek moet worden geschreven, dat in het openbaar verdedigd moet worden. De*boshi* kan worden verleend door een universiteit of door onderzoeksinstellingen die door de nationale autoriteiten zijn goedgekeurd.
 
 ##### Artikel 3. Wijze van toegang tot instellingen voor hoger onderwijs
 
 1. Met betrekking tot Nederland:
 
-- a. Chinese studenten die verzoeken om toelating tot het eerste jaar van beroepsgerichte bacheloropleidingen in Nederland moeten aantonen dat zij geslaagd zijn voor het provinciale uitgebreide examen (**huikao**) en het nationale universitair toelatingsexamen (**gaokao**), of een vergelijkbaar toelatingsexamen zoals vastgesteld door de hogeschool, en zijn toegelaten tot het eerste jaar van het gekozen programma;
+- a. Chinese studenten die verzoeken om toelating tot het eerste jaar van beroepsgerichte bacheloropleidingen in Nederland moeten aantonen dat zij geslaagd zijn voor het provinciale uitgebreide examen (*huikao*) en het nationale universitair toelatingsexamen (*gaokao*), of een vergelijkbaar toelatingsexamen zoals vastgesteld door de hogeschool, en zijn toegelaten tot het eerste jaar van het gekozen programma;
 
-- b. Chinese studenten die verzoeken om toelating tot het eerste jaar van bacheloropleidingen aan een universiteit in Nederland moeten aantonen dat zij geslaagd zijn voor het provinciale uitgebreide examen (**huikao**) en het nationale universitair toelatingsexamen (**gaokao**) en zijn toegelaten tot het eerste jaar van het gekozen programma. Van geval tot geval kunnen aanvullende eisen worden gesteld;
+- b. Chinese studenten die verzoeken om toelating tot het eerste jaar van bacheloropleidingen aan een universiteit in Nederland moeten aantonen dat zij geslaagd zijn voor het provinciale uitgebreide examen (*huikao*) en het nationale universitair toelatingsexamen (*gaokao*) en zijn toegelaten tot het eerste jaar van het gekozen programma. Van geval tot geval kunnen aanvullende eisen worden gesteld;
 
-- c. Chinese studenten die een **sub-degree**-opleiding met een duur van twee of drie jaar hebben voltooid, kunnen in Nederland worden toegelaten tot het derde of vierde jaar van het bachelorprogramma binnen hun studierichting, hoofdzakelijk in de beroepsgerichte stroom;
+- c. Chinese studenten die een *sub-degree*-opleiding met een duur van twee of drie jaar hebben voltooid, kunnen in Nederland worden toegelaten tot het derde of vierde jaar van het bachelorprogramma binnen hun studierichting, hoofdzakelijk in de beroepsgerichte stroom;
 
 - d. Chinese studenten die een bachelorgraad hebben behaald, kunnen in Nederland tot een masterprogramma binnen hun studierichting worden toegelaten. Afhankelijk van de oriëntatie van het bachelorprogramma, kan aan toelating tot een masterprogramma in Nederland het volgen van een overbruggingsprogramma verbonden zijn;
 
@@ -137,19 +105,19 @@ De individuele instelling voor hoger onderwijs neemt zelfstandig beslissingen om
 
 1. De volgende bezitters van graden in China:
 
-- a. **xueshi** (bachelor);
+- a. *xueshi* (bachelor);
 
-- b. **shuoshi** (master); mogen in Nederland gebruik maken van de bovengenoemde academische titels met de verklaring tussen haakjes;
+- b. *shuoshi* (master); mogen in Nederland gebruik maken van de bovengenoemde academische titels met de verklaring tussen haakjes;
 
-- c. **boshi**(doctor); mogen in Nederland aangeven dat dit in China een academische graad is op het niveau van een doctoraat.
+- c. *boshi*(doctor); mogen in Nederland aangeven dat dit in China een academische graad is op het niveau van een doctoraat.
 
 2. De volgende bezitters van graden in Nederland:
 
-- a. bachelor (**xueshi**);
+- a. bachelor (*xueshi*);
 
-- b. master (**shuoshi**);
+- b. master (*shuoshi*);
 
-- c. doctor (**boshi**); mogen in China op dezelfde wijze als in Nederland gebruik maken van de bovengenoemde academische titels met de verklaring tussen haakjes.
+- c. doctor (*boshi*); mogen in China op dezelfde wijze als in Nederland gebruik maken van de bovengenoemde academische titels met de verklaring tussen haakjes.
 
 ##### Artikel 5. Territoriale toepasselijkheid
 
@@ -163,10 +131,10 @@ Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag slechts van toepassin
 
 GEDAAN te Peking, China, op 30 mei 2005, in tweevoud, in de Nederlandse, Chinese en Engelse taal, zijnde de teksten in elk van de talen gelijkelijk authentiek. In geval van verschillen in interpretatie is de Engelse tekst doorslaggevend.
 
-**Voor de regering van het Koninkrijk der Nederlanden**
+*Voor de regering van het Koninkrijk der Nederlanden*
 
 MARIA VAN DER HOEVEN
 
-**Voor de regering van de Volksrepubliek China**
+*Voor de regering van de Volksrepubliek China*
 
 ZHOU JI

@@ -1,51 +1,19 @@
 ---
 title: "Overeenkomst betreffende de overname van onregelmatig binnengekomen of verblijvende personen"
 identifier: "BWBV0002059"
-country: "nl"
-rank: "verdrag"
-publication_date: "1994-07-01"
-last_updated: "1994-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002059"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10002646283"
-version_id: "10002643522"
-internal_id: "C10006976611"
-label_id: "10002635034"
-dtd_version: "2.0"
-original_entry_into_force: "1994-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002059/1994-07-01/0"
-intitule_bron: "Trb.1991-65"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-04-01"
-intitule_published: "1991-04-29"
-intitule_in_force: "1994-07-04"
-intitule_status: "goed"
-original_publication: "Trb.1991-65"
-original_signed_date: "1991-04-01"
-original_published_date: "1991-04-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1991-65"
-entry_into_force_date: "1994-07-01"
-jci_1_3: "jci1.3:c:BWBV0002059&z=1994-07-01&g=1994-07-01"
-jci_1_0: "1.0:c:BWBV0002059&g=1994-07-01"
-citeertitel_status: "officieel"
-signed_date: "1991-04-01"
-entry_into_force: "1994-07-01"
+publicatiedatum: 1994-07-01
+laatste_update: 1994-07-01
+status: geldig
+toestand: 1994-07-01
+bron: "https://wetten.overheid.nl/BWBV0002059"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst betreffende de overname van onregelmatig binnengekomen of verblijvende personen
 
-De Regeringen van het Koninkrijk België, de Bondsrepubliek Duitsland, de Franse Republiek, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en van de Republiek Polen, hierna genoemd de Overeenkomstsluitende Partijen,
-
-in het kader van de totstandbrenging van een gemeenschappelijk visumbeleid van de Overeenkomstsluitende Partijen, gebonden aan het Akkoord van Schengen van 14 juni 1985,
-
-ter compensatie van in het bijzonder de belasting welke uit een visumvrij reizigersverkeer van de onderdanen van de Overeenkomstsluitende Partijen van deze Overeenkomst kan voortvloeien,
-
-ernaar strevend de overname van onregelmatig binnengekomen of verblijvende personen in een geest van samenwerking en op basis van wederkerigheid te vergemakkelijken,
-
-met de bereidheid ook Regeringen van andere Staten tot toetreding tot deze Overeenkomst uit te nodigen,
-
-zijn het volgende overeengekomen:
+*De Regeringen van het Koninkrijk België, de Bondsrepubliek Duitsland, de Franse Republiek, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en van de Republiek Polen, hierna genoemd de Overeenkomstsluitende Partijen, - in het kader van de totstandbrenging van een gemeenschappelijk visumbeleid van de Overeenkomstsluitende Partijen, gebonden aan het Akkoord van Schengen van 14 juni 1985, - ter compensatie van in het bijzonder de belasting welke uit een visumvrij reizigersverkeer van de onderdanen van de Overeenkomstsluitende Partijen van deze Overeenkomst kan voortvloeien, - ernaar strevend de overname van onregelmatig binnengekomen of verblijvende personen in een geest van samenwerking en op basis van wederkerigheid te vergemakkelijken, - met de bereidheid ook Regeringen van andere Staten tot toetreding tot deze Overeenkomst uit te nodigen, zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -77,7 +45,7 @@ De voor behandeling van verzoeken tot overname bevoegde centrale of plaatselijke
 
 ##### Artikel 5
 
-1. De bepalingen van deze Overeenkomst doen geen afbreuk aan de toepassing van het [Verdrag van Genève van 28 juli 1951 betreffende de status van vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001002), zoals gewijzigd bij het [Protocol van New York van 31 januari 1967](onbekend).
+1. De bepalingen van deze Overeenkomst doen geen afbreuk aan de toepassing van het [Verdrag van Genève van 28 juli 1951 betreffende de status van vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001002), zoals gewijzigd bij het Protocol van New York van 31 januari 1967.
 
 2. De bepalingen van deze Overeenkomst doen geen afbreuk aan de verplichtingen welke voortvloeien uit het Gemeenschapsrecht voor de Overeenkomstsluitende Partijen die Lid-Staten zijn van de Europese Gemeenschappen.
 

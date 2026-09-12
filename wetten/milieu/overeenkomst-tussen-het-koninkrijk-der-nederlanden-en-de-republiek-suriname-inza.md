@@ -1,53 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname inzake luchtdiensten tussen en via de Nederlandse Antillen en Suriname"
 identifier: "BWBV0001973"
-country: "nl"
-rank: "verdrag"
-publication_date: "2010-06-04"
-last_updated: "2010-06-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001973"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002588153"
-version_id: "10002579352"
-internal_id: "C10006989051"
-label_id: "10002577534"
-dtd_version: "2.0"
-original_entry_into_force: "1996-01-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001973/2010-06-04/0"
-intitule_bron: "Trb.1995-117"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-04-11"
-intitule_published: "1995-05-19"
-intitule_in_force: "1996-02-12"
-intitule_status: "goed"
-original_publication: "Trb.1995-117"
-original_signed_date: "1995-04-11"
-original_published_date: "1995-05-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1995-117"
-entry_into_force_date: "1996-01-10"
-jci_1_3: "jci1.3:c:BWBV0001973&z=2010-06-04&g=2010-06-04"
-jci_1_0: "1.0:c:BWBV0001973&g=2010-06-04"
-citeertitel_status: "redactioneel"
-signed_date: "1995-04-11"
-entry_into_force: "1996-01-10"
+publicatiedatum: 1996-01-10
+laatste_update: 2010-06-04
+status: geldig
+toestand: 2010-06-04
+bron: "https://wetten.overheid.nl/BWBV0001973"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname inzake luchtdiensten tussen en via de Nederlandse Antillen en Suriname
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Republiek Suriname,
-
-Partij zijnde bij het Verdrag inzake de internationale burgerluchtvaart, op 7 december 1944 te Chicago voor ondertekening opengesteld,
-
-Geleid door de wens bij te dragen aan de vooruitgang van de internationale burgerluchtvaart,
-
-Gelet op de bijzondere historische, culturele en commerciële banden tussen hun volkeren en geleid door de wens om middels duurzame luchtvaartbetrekkingen de bestaande goede relaties te bevorderen,
-
-zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Republiek Suriname, Partij zijnde bij het Verdrag inzake de internationale burgerluchtvaart, op 7 december 1944 te Chicago voor ondertekening opengesteld, Geleid door de wens bij te dragen aan de vooruitgang van de internationale burgerluchtvaart, Gelet op de bijzondere historische, culturele en commerciële banden tussen hun volkeren en geleid door de wens om middels duurzame luchtvaartbetrekkingen de bestaande goede relaties te bevorderen, zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -67,9 +33,9 @@ Tenzij uit het zinsverband anders blijkt, hebben de in deze Overeenkomst en de B
 
 - g. onder „tarief" wordt verstaan: elk bedrag in rekening gebracht of in rekening te brengen door de luchtvaartmaatschappijen, rechtstreeks of via hun agenten, aan alle natuurlijke personen of rechtspersonen voor het vervoer door de lucht van passagiers en hun bagage en vracht (post uitgezonderd), daarbij inbegrepen:
 
-- I. de voorwaarden betreffende het beschikbaar zijn en het van toepassing zijn van een tarief, en
+   - I. de voorwaarden betreffende het beschikbaar zijn en het van toepassing zijn van een tarief, en
 
-- II. de heffingen en voorwaarden voor alle bij zulk vervoer bijkomende diensten die door of namens de luchtvaartmaatschappijen worden aangeboden;
+   - II. de heffingen en voorwaarden voor alle bij zulk vervoer bijkomende diensten die door of namens de luchtvaartmaatschappijen worden aangeboden;
 
 - h. „Geautomatiseerd boekingssysteem" (GBS): een geautomatiseerd systeem dat informatie bevat over routetabellen, beschikbare plaatsen, prijzen en verwante diensten en door middel waarvan plaatsen kunnen worden geboekt en/of vliegbiljetten kunnen worden afgegeven en dat enkele of al deze faciliteiten ter beschikking van reisagenten stelt.
 
@@ -277,10 +243,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun 
 
 GEDAAN IN TWEEVOUD te Asidonhopo (Suriname) op 11 april 1995, in de Nederlandse taal.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 (w.g.) L. A. I. CHANGE
 
-**Voor de Regering van de Republiek Suriname,**
+*Voor de Regering van de Republiek Suriname,*
 
 (w.g.) J. A. DEFARES

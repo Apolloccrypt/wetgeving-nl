@@ -1,140 +1,114 @@
 ---
 title: "Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Finland"
 identifier: "BWBV0002233"
-country: "nl"
-rank: "verdrag"
-publication_date: "1989-04-07"
-last_updated: "1989-04-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002233"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002711363"
-version_id: "10002710392"
-internal_id: "C10006984951"
-label_id: "10002699564"
-dtd_version: "2.0"
-original_entry_into_force: "1989-04-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002233/1989-04-07/0"
-intitule_bron: "Trb.1988-159"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1989-03-08"
-intitule_published: "1988-12-23"
-intitule_in_force: "1989-06-06"
-intitule_status: "goed"
-original_publication: "Trb.1988-159"
-original_signed_date: "1989-03-08"
-original_published_date: "1988-12-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1988-159"
-entry_into_force_date: "1989-04-07"
-jci_1_3: "jci1.3:c:BWBV0002233&z=1989-04-07&g=1989-04-07"
-jci_1_0: "1.0:c:BWBV0002233&g=1989-04-07"
-citeertitel_status: "officieel"
-signed_date: "1989-03-08"
-entry_into_force: "1989-04-07"
+publicatiedatum: 1989-04-07
+laatste_update: 1989-04-07
+status: geldig
+toestand: 1989-04-07
+bron: "https://wetten.overheid.nl/BWBV0002233"
+opgehaald: 2026-09-12
 ---
+
 # Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Finland
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Finland,
+*The Government of the Kingdom of the Netherlands and the Government of the Republic of Finland, Desiring to strengthen the friendly relations between their two countries and to this end to promote and develop cultural, educational and scientific cooperation, Have agreed as follows:*
 
-Geleid door de wens de vriendschappelijke betrekkingen tussen hun beide landen te verstevigen en hiertoe de samenwerking op het gebied van cultuur, onderwijs en wetenschap te bevorderen en tot ontwikkeling te brengen,
+##### Article 1
 
-Zijn als volgt overeengekomen:
+The Contracting Parties shall mutually encourage educational, scientific and cultural co-operation between the two countries by such means as:
 
-##### Artikel 1
+- a) organising visits by scientific personnel and other persons engaged in scientific research as guest professors and researchers;
 
-De Overeenkomstsluitende Partijen bevorderen op basis van wederkerigheid de samenwerking tussen beide landen op het gebied van onderwijs, wetenschap en cultuur, en wel op de volgende wijze:
+- b) arranging for suitably qualified university graduates, research scholars and cultural specialists on a corresponding level in each country to participate in seminars, discussions and visits to scientific laboratories and institutes in the other country, including the provision of facilities, such as scholarships, necessary for study or research;
 
-- a). door bezoeken te organiseren van leden van de wetenschappelijke staf van universiteiten en van andere personen die zich bezighouden met wetenschappelijk onderzoek, als gasthoogleraren en onderzoekers:
+- c) promoting studies in the language and literature of each country at the universities and other educational institutions of the other country;
 
-- b). door de regelingen te treffen zodat voldoend opgeleide academici, onderzoekers en specialisten op het gebied van de cultuur van vergelijkbaar niveau in ieder land deelnemen aan studiebijeenkomsten, besprekingen en bezoeken aan wetenschappelijke laboratoria en instituten in het andere land, zulks met inbegrip van de verlening van faciliteiten, zoals beurzen, die nodig zijn voor studie of onderzoek:
+- d) encouraging direct co-operation between educational, scientific and cultural institutions and organisations in the two countries;
 
-- c). door de studie van de taal en de letterkunde van elk land aan universiteiten en andere onderwijsinstellingen in het andere land te stimuleren:
+- e) giving support of every kind to the cultural institutions of the other country according to the laws and practices of the country;
 
-- d). door rechtstreekse samenwerking tussen instellingen en organisaties in de beide landen op het gebied van onderwijs, wetenschap en cultuur aan te moedigen:
+- f) exchanging delegations wishing to examine problems and share experience of mutual interest in the fields of science, education and culture.
 
-- e). door, met inachtneming van de eigen wetten en voorschriften, de culturele instellingen van het andere land op alle mogelijke wijzen te steunen;
+##### Article 2
 
-- f). door delegaties uit te wisselen die vraagstukken willen bestuderen en ervaringen willen delen op het gebied van wetenschap, onderwijs en cultuur, die van gemeenschappelijk belang zijn.
+The Contracting Parties shall continue to grant scholarships to students or postgraduates from the other country for studies and specialisation in science, education and culture.
 
-##### Artikel 2
+##### Article 3
 
-De Overeenkomstsluitende Partijen blijven beurzen beschikbaar stellen aan studenten of afgestudeerden uit het andere land, voor studie en specialisatie op het gebied van wetenschap, onderwijs en cultuur.
+The Contracting Parties shall, within the limits of existing regulations, extend access to their own educational institutions to students from the other country.
 
-##### Artikel 3
+##### Article 4
 
-De Overeenkomstsluitende Partijen verlenen, binnen de grenzen van de bestaande voorschriften, studenten uit het andere land toegang tot de onderwijsinstellingen in hun land.
+The Contracting Parties shall encourage the exchange of teaching material, including school textbooks, bearing in mind the dissemination of knowledge of the other country.
 
-##### Artikel 4
+The Contracting Parties shall also encourage the exchange of information on technical innovations in the field of education.
 
-De Overeenkomstsluitende Partijen stimuleren de uitwisseling van lesmateriaal, waaronder schoolboeken, met het oogmerk kennis over het andere land te verspreiden.
+##### Article 5
 
-De Overeenkomstsluitende Partijen stimuleren tevens de uitwisseling van informatie betreffende technische vernieuwingen op onderwijsgebied.
+The Contracting Parties shall encourage visits by persons engaged in literature, music, visual arts, including industrial arts, theatre, film and cultural promotion in the widest sense with a view to studies and collection of material, as well as participation in conferences, festivals and international competitions.
 
-##### Artikel 5
+##### Article 6
 
-De Overeenkomstsluitende Partijen stimuleren bezoeken van personen die werkzaam zijn op het gebied van de letterkunde, de muziek, de kunst, met inbegrip van de kunstnijverheid, het toneel, de film en de bevordering van cultuur in de ruimste zin, met het oog op onderzoek en het verzamelen van materiaal, alsmede deelneming aan conferenties, festivals en internationale concoursen.
+The Contracting Parties shall encourage the exchange of artists and ensembles, concerts and theatrical performances of works by artists of the other country, exhibitions of both visual and industrial arts, and educational exhibitions.
 
-##### Artikel 6
+##### Article 7
 
-De Overeenkomstsluitende Partijen stimuleren de uitwisseling van kunstenaars en gezelschappen; van concerten en toneelvoorstellingen van artiesten uit het andere land; van tentoonstellingen van kunstwerken, met inbegrip van tentoonstellingen van voortbrengselen van kunstnijverheid, en educatieve tentoonstellingen.
+The Contracting Parties shall promote direct co-operation between the radio and television services and the press of the two countries.
 
-##### Artikel 7
+##### Article 8
 
-De Overeenkomstsluitende Partijen bevorderen de rechtstreekse samenwerking tussen de radio- en televisiediensten en de pers van de twee landen.
+The Contracting Parties shall promote direct co-operation between the film institutes of the two countries and facilitate the exchange of films of an artistic, documentary or scientific nature, of recordings of music as well as of other audiovisual material serving the purpose of this Agreement.
 
-##### Artikel 8
+##### Article 9
 
-De Overeenkomstsluitende Partijen bevorderen de rechtstreekse samenwerking tussen de filminstellingen van de twee landen en vergemakkelijken de uitwisseling van films van artistieke, documentaire of wetenschappelijke aard, van muziekopnamen en audiovisueel materiaal, die aan het doel van deze Overeenkomst beantwoorden.
+The Contracting Parties shall promote the exchange between the libraries of the two countries of books and publications of a scientific, educational, technical and literary nature.
 
-##### Artikel 9
+##### Article 10
 
-De Overeenkomstsluitende Partijen bevorderen de uitwisseling tussen de bibliotheken in de twee landen van boeken en publikaties van wetenschappelijke, technische en letterkundige aard.
+The Contracting Parties shall encourage the translation and publication of scientific, literary or artistic works and the presentation of and dissemination of published music from the other country.
 
-##### Artikel 10
+##### Article 11
 
-De Overeenkomstsluitende Partijen moedigen de vertaling en publikatie aan van wetenschappelijke, letterkundige of artistieke werken en de aanbieding en verspreiding van bladmuziek uit het andere land.
+The Contracting Parties shall promote the exchange of persons responsible for adult education and for cultural promotion.
 
-##### Artikel 11
+##### Article 12
 
-De Overeenkomstsluitende Partijen bevorderen de uitwisseling van personen die verantwoordelijk zijn voor het volwassenenonderwijs en voor de bevordering van cultuur.
+The Contracting Parties shall encourage the exchange of young people and co-operation between youth organisations of the two countries.
 
-##### Artikel 12
+##### Article 13
 
-De Overeenkomstsluitende Partijen stimuleren uitwisselingen van jongeren en samenwerking tussen jeugdorganisaties van de twee landen.
+The Contracting Parties shall encourage co-operation between sports organisations of the two countries.
 
-##### Artikel 13
+##### Article 14
 
-De Overeenkomstsluitende Partijen stimuleren de samenwerking tussen sportorganisaties van de twee landen.
+Each Contracting Party shall facilitate every way, within the limits of its legislation and regulations, the importation into its territory of equipment necessary for the purpose of this Agreement.
 
-##### Artikel 14
+##### Article 15
 
-Binnen de door haar nationale wetten en voorschriften gestelde grenzen vergemakkelijkt elke Overeenkomstsluitende Partij in ieder opzicht de invoer in haar grondgebied van voor de toepassing van deze Overeenkomst benodigde uitrusting.
+The representatives of the Contracting Parties shall hold meetings in order to elaborate periodical programs and to review the implementation of this Agreement. These meetings shall be convened by one of the Contracting Parties at such a place and time as agreed upon by the Contracting Parties.
 
-##### Artikel 15
+##### Article 16
 
-De vertegenwoordigers van de Overeenkomstsluitende Partijen komen bijeen om periodieke programma's op te stellen en de uitvoering van deze Overeenkomst te bezien. Deze bijeenkomsten worden door één der Overeenkomstsluitende Partijen belegd, op een door de Overeenkomstsluitende Partijen overeengekomen plaats en tijdstip.
+This Agreement shall enter into force thirty days after the date on which the Contracting Parties have notified each other that the constitutional requirements for the entry into force of this Agreement have been fulfilled.
 
-##### Artikel 16
+##### Article 17
 
-Deze Overeenkomst treedt in werking dertig dagen na de datum waarop de Overeenkomstsluitende Partijen elkaar ervan in kennis hebben gesteld dat aan de constitutionele vereisten voor de inwerkingtreding van de Overeenkomst is voldaan.
+As regards to the Kingdom of the Netherlands, this Agreement shall apply to the European part of the Kingdom and to Aruba.
 
-##### Artikel 17
+##### Article 18
 
-Wat het Koninkrijk der Nederlanden betreft, geldt deze Overeenkomst alleen voor het deel van het rijk in Europa en Aruba.
-
-##### Artikel 18
-
-Deze Overeenkomst blijft van kracht voor een tijdvak van vijf jaar. Daarna blijft zij van kracht voor onbepaalde tijd tot het verstrijken van zes maanden na de datum waarop één der Overeenkomstsluitende Partijen de andere Overeenkomstsluitende Partij schriftelijk kennisgeving van beëindiging heeft gedaan.
+This Agreement shall remain force for a period of five years. Thereafter it shall remain in force for an indefinite period until the expiry of six months from the date on which either Contracting Party will have given written notice of termination to the other.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto by their respective Governments, have signed this Agreement.
 
 DONE at The Hague on the 11th day of October 1988 in two originals in the English language.
 
-**For the Government of the Kingdom of the Netherlands**
+*For the Government of the Kingdom of the Netherlands*
 
 (sd.) B.-J. M. VAN VOORST TOT VOORST
 
-**For the Government of the Republic of Finland**
+*For the Government of the Republic of Finland*
 
 (sd.) CHRISTOFFER TAXELL

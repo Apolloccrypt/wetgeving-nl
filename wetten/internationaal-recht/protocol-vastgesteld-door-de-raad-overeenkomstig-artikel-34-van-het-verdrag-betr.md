@@ -1,51 +1,19 @@
 ---
 title: "Protocol vastgesteld door de Raad overeenkomstig artikel 34 van het Verdrag betreffende de Europese Unie, bij de Overeenkomst betreffende de wederzijdse rechtshulp in strafzaken tussen de lidstaten van de Europese Unie"
 identifier: "BWBV0001638"
-country: "nl"
-rank: "verdrag"
-publication_date: "2005-10-05"
-last_updated: "2004-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001638"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002297453"
-version_id: "10002315902"
-internal_id: "C10006993941"
-label_id: "10002287534"
-dtd_version: "2.0"
-original_entry_into_force: "2005-10-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001638/2005-10-05/0"
-intitule_bron: "Trb.2001-187"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-04-02"
-intitule_published: "2001-11-26"
-intitule_in_force: "2005-11-21"
-intitule_status: "goed"
-original_publication: "Trb.2001-187"
-original_signed_date: "2004-04-02"
-original_published_date: "2001-11-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2001-187"
-entry_into_force_date: "2005-10-05"
-jci_1_3: "jci1.3:c:BWBV0001638&z=2005-10-05&g=2005-10-05"
-jci_1_0: "1.0:c:BWBV0001638&g=2005-10-05"
-citeertitel_status: "redactioneel"
-signed_date: "2004-04-02"
-entry_into_force: "2005-10-05"
+publicatiedatum: 2005-10-05
+laatste_update: 2005-10-05
+status: geldig
+toestand: 2005-10-05
+bron: "https://wetten.overheid.nl/BWBV0001638"
+opgehaald: 2026-09-12
 ---
+
 # Protocol vastgesteld door de Raad overeenkomstig artikel 34 van het Verdrag betreffende de Europese Unie, bij de Overeenkomst betreffende de wederzijdse rechtshulp in strafzaken tussen de lidstaten van de Europese Unie
 
-De Hoge Verdragsluitende Partijen bij dit protocol, lidstaten van de Europese Unie,
-
-Onder verwijzing naar de akte van de Raad van 16 oktober 2001 tot vaststelling van het protocol bij de Overeenkomst betreffende de wederzijdse rechtshulp in strafzaken tussen de lidstaten van de Europese Unie,
-
-Gelet op de conclusies die tijdens de Europese Raad van Tampere van 15 en 16 oktober 1999 zijn aangenomen en de noodzaak deze onverwijld ten uitvoer te brengen met het oog op de totstandbrenging van een ruimte van vrijheid, veiligheid en rechtvaardigheid,
-
-Rekening houdend met de aanbevelingen die door de deskundigen zijn geformuleerd in de wederzijdse evaluatieverslagen die zijn opgesteld op basis van Gemeenschappelijk Optreden 97/827/JBZ van 5 december 1997, tot instelling van een mechanisme voor evaluatie van de uitvoering en toepassing op nationaal niveau van de internationale verbintenissen inzake de bestrijding van de georganiseerde criminaliteit1)PB L344 van 15.12.1997, blz. 7.,
-
-Overtuigd van de behoefte aan aanvullende maatregelen op het gebied van de wederzijdse rechtshulp in strafzaken ter bestrijding van de criminaliteit, waaronder in het bijzonder de georganiseerde criminaliteit, het witwassen van geld en de financiële criminaliteit,
-
-Hebben overeenstemming bereikt omtrent de volgende bepalingen, die als integraal onderdeel gehecht zullen worden aan de Overeenkomst betreffende de wederzijdse rechtshulp in strafzaken tussen de lidstaten van de Europese Unie van 29 mei 2000, hierna „overeenkomst tot wederzijdse bijstand van 2000" te noemen:
+*De Hoge Verdragsluitende Partijen bij dit protocol, lidstaten van de Europese Unie, Onder verwijzing naar de akte van de Raad van 16 oktober 2001 tot vaststelling van het protocol bij de Overeenkomst betreffende de wederzijdse rechtshulp in strafzaken tussen de lidstaten van de Europese Unie, Gelet op de conclusies die tijdens de Europese Raad van Tampere van 15 en 16 oktober 1999 zijn aangenomen en de noodzaak deze onverwijld ten uitvoer te brengen met het oog op de totstandbrenging van een ruimte van vrijheid, veiligheid en rechtvaardigheid, Rekening houdend met de aanbevelingen die door de deskundigen zijn geformuleerd in de wederzijdse evaluatieverslagen die zijn opgesteld op basis van Gemeenschappelijk Optreden 97/827/JBZ van 5 december 1997, tot instelling van een mechanisme voor evaluatie van de uitvoering en toepassing op nationaal niveau van de internationale verbintenissen inzake de bestrijding van de georganiseerde criminaliteit1)PB L344 van 15.12.1997, blz. 7., Overtuigd van de behoefte aan aanvullende maatregelen op het gebied van de wederzijdse rechtshulp in strafzaken ter bestrijding van de criminaliteit, waaronder in het bijzonder de georganiseerde criminaliteit, het witwassen van geld en de financiële criminaliteit, Hebben overeenstemming bereikt omtrent de volgende bepalingen, die als integraal onderdeel gehecht zullen worden aan de Overeenkomst betreffende de wederzijdse rechtshulp in strafzaken tussen de lidstaten van de Europese Unie van 29 mei 2000, hierna „overeenkomst tot wederzijdse bijstand van 2000" te noemen:*
 
 ##### Artikel 1. Verzoek om gegevens over bankrekeningen
 
@@ -57,19 +25,19 @@ Deze gegevens omvatten tevens de rekeningen waarvan de persoon tegen wie een pro
 
 3. De in dit artikel neergelegde verplichting geldt alleen wanneer het onderzoek
 
-- –. een strafbaar feit betreft dat strafbaar is gesteld met een vrijheidsstraf of een tot vrijheidsbeneming strekkende maatregel met een maximum van tenminste vier jaar in de verzoekende staat en tenminste twee jaar in de aangezochte staat, of
+- – een strafbaar feit betreft dat strafbaar is gesteld met een vrijheidsstraf of een tot vrijheidsbeneming strekkende maatregel met een maximum van tenminste vier jaar in de verzoekende staat en tenminste twee jaar in de aangezochte staat, of
 
-- –. een strafbaar feit betreft als bedoeld in [artikel 2 van de Overeenkomst van 1995 tot oprichting van een Europese Politiedienst](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=2) (Europol-overeenkomst) of in de – gewijzigde – [bijlage bij die overeenkomst](onbekend), of
+- – een strafbaar feit betreft als bedoeld in [artikel 2 van de Overeenkomst van 1995 tot oprichting van een Europese Politiedienst](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=2) (Europol-overeenkomst) of in de – gewijzigde – [bijlage bij die overeenkomst](https://wetten.overheid.nl/BWBV0001323), of
 
-- –. wanneer het onderzoek niet onder de [Europol-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001323) valt, een strafbaar feit betreft als bedoeld in de [overeenkomst van 1995 aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen](https://wetten.overheid.nl/jci1.3:c:BWBV0001473), het bijbehorende [protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001528) van 1996 of het bijbehorende [tweede protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001527) van 1997.
+- – wanneer het onderzoek niet onder de [Europol-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001323) valt, een strafbaar feit betreft als bedoeld in de [overeenkomst van 1995 aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen](https://wetten.overheid.nl/jci1.3:c:BWBV0001473), het bijbehorende [protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001528) van 1996 of het bijbehorende [tweede protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001527) van 1997.
 
 4. De verzoekende autoriteit vermeldt in het verzoek:
 
-- –. waarom zij van mening is dat de gevraagde informatie waarschijnlijk van grote waarde is voor het onderzoek naar het strafbare feit;
+- – waarom zij van mening is dat de gevraagde informatie waarschijnlijk van grote waarde is voor het onderzoek naar het strafbare feit;
 
-- –. op welke gronden zij veronderstelt dat banken in de aangezochte staat de rekeningen onder zich hebben en, voorzover hierover gegevens beschikbaar zijn, welke banken bij een en ander betrokken zouden kunnen zijn;
+- – op welke gronden zij veronderstelt dat banken in de aangezochte staat de rekeningen onder zich hebben en, voorzover hierover gegevens beschikbaar zijn, welke banken bij een en ander betrokken zouden kunnen zijn;
 
-- –. elke beschikbare informatie die de uitvoering van het verzoek kan vergemakkelijken.
+- – elke beschikbare informatie die de uitvoering van het verzoek kan vergemakkelijken.
 
 5. De lidstaten kunnen aan de uitvoering van een verzoek op grond van dit artikel dezelfde voorwaarden verbinden als bij verzoeken om huiszoeking en inbeslagneming.
 
@@ -139,11 +107,11 @@ Het verzoek mag niet worden afgewezen op de grond dat het recht van de aangezoch
 
 1. Indien een verzoek wordt afgewezen op grond van:
 
-- –. [artikel 2, onder b, van het Europees Rechtshulpverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001009&artikel=2) of artikel 22, lid 2, onder b, van het Beneluxverdrag, of
+- – [artikel 2, onder b, van het Europees Rechtshulpverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001009&artikel=2) of artikel 22, lid 2, onder b, van het Beneluxverdrag, of
 
-- –. artikel 51 van de Schengenuitvoeringsovereenkomst of [artikel 5 van het Europees Rechtshulpverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001009&artikel=5), of
+- – artikel 51 van de Schengenuitvoeringsovereenkomst of [artikel 5 van het Europees Rechtshulpverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001009&artikel=5), of
 
-- –. artikel 1, lid 5, of artikel 2, lid 4, van dit protocol,
+- – artikel 1, lid 5, of artikel 2, lid 4, van dit protocol,
 
 en de verzoekende lidstaat zijn verzoek handhaaft, en er geen oplossing kan worden gevonden, wordt de met redenen omklede beslissing tot afwijzing door de aangezochte lidstaat ter kennisgeving toegezonden aan de Raad, ter mogelijke evaluatie van het functioneren van de justitiële samenwerking tussen de lidstaten.
 

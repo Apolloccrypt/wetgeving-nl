@@ -1,61 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de uitoefening van de luchtverkeersleiding door de Bondsrepubliek Duitsland boven Nederlands grondgebied alsmede de gevolgen van het burgergebruik van luchthaven Niederrhein op het grondgebied van het Koninkrijk der Nederlanden"
 identifier: "BWBV0001588"
-country: "nl"
-rank: "verdrag"
-publication_date: "2006-10-01"
-last_updated: "2003-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001588"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10001472223"
-version_id: "10001550552"
-internal_id: "C10008748851"
-label_id: "10001472574"
-dtd_version: "2.0"
-original_entry_into_force: "2006-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001588/2006-10-01/0"
-intitule_bron: "Trb.2003-85"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-05-01"
-intitule_published: "2003-06-11"
-intitule_in_force: "2007-01-18"
-intitule_status: "goed"
-original_publication: "Trb.2003-85"
-original_signed_date: "2003-05-01"
-original_published_date: "2003-06-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2003-85"
-entry_into_force_date: "2006-10-01"
-jci_1_3: "jci1.3:c:BWBV0001588&z=2006-10-01&g=2006-10-01"
-jci_1_0: "1.0:c:BWBV0001588&g=2006-10-01"
-citeertitel_status: "redactioneel"
-signed_date: "2003-05-01"
-entry_into_force: "2006-10-01"
+publicatiedatum: 2006-10-01
+laatste_update: 2006-10-01
+status: geldig
+toestand: 2006-10-01
+bron: "https://wetten.overheid.nl/BWBV0001588"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de uitoefening van de luchtverkeersleiding door de Bondsrepubliek Duitsland boven Nederlands grondgebied alsmede de gevolgen van het burgergebruik van luchthaven Niederrhein op het grondgebied van het Koninkrijk der Nederlanden
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Bondsrepubliek Duitsland,
-
-Partij zijnde bij het Verdrag van Chicago inzake de internationale burgerluchtvaart, opengesteld voor ondertekening te Chicago op 7 december 1944,
-
-Met inachtneming van de toepasselijke nationale luchtverkeersvoorschriften,
-
-Voornemens hun bilaterale samenwerking op het gebied van het luchtverkeer opnieuw vol vertrouwen uit te breiden en te intensiveren,
-
-Ten behoeve van de ontwikkeling van de internationale luchtvaart en het afwenden van gevaren voor de luchtvaart en de gemeenschap,
-
-Geleid door de wens de veilige afwikkeling van het internationale vliegverkeer over hun gemeenschappelijke landsgrenzen heen ten behoeve van de gebruikers van het luchtruim en hun passagiers te vergemakkelijken,
-
-Geleid door de wens mens, natuur en milieu in de grensstreken zo volledig mogelijk tegen de ongewenste gevolgen van het grensoverschrijdende luchtverkeer te beschermen,
-
-Gelet op de institutionele strategie van de Europese Conferentie voor de Burgerluchtvaart ten behoeve van air traffic management (ATM) in Europa en op het Protocol tot wijziging van het Internationaal Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart (Eurocontrol), dat op 27 juni 1997 werd opengesteld voor ondertekening (het herziene Verdrag);
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland, Partij zijnde bij het Verdrag van Chicago inzake de internationale burgerluchtvaart, opengesteld voor ondertekening te Chicago op 7 december 1944, Met inachtneming van de toepasselijke nationale luchtverkeersvoorschriften, Voornemens hun bilaterale samenwerking op het gebied van het luchtverkeer opnieuw vol vertrouwen uit te breiden en te intensiveren, Ten behoeve van de ontwikkeling van de internationale luchtvaart en het afwenden van gevaren voor de luchtvaart en de gemeenschap, Geleid door de wens de veilige afwikkeling van het internationale vliegverkeer over hun gemeenschappelijke landsgrenzen heen ten behoeve van de gebruikers van het luchtruim en hun passagiers te vergemakkelijken, Geleid door de wens mens, natuur en milieu in de grensstreken zo volledig mogelijk tegen de ongewenste gevolgen van het grensoverschrijdende luchtverkeer te beschermen, Gelet op de institutionele strategie van de Europese Conferentie voor de Burgerluchtvaart ten behoeve van air traffic management (ATM) in Europa en op het Protocol tot wijziging van het Internationaal Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart (Eurocontrol), dat op 27 juni 1997 werd opengesteld voor ondertekening (het herziene Verdrag); Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. LUCHTVERKEERSLEIDING
 
@@ -113,9 +71,9 @@ De Bondsrepubliek Duitsland verzekert dat de Nederlandse autoriteit die belast i
 
 - c. het uitvoeren van starts tussen 23:00 uur en 24:00 uur plaatselijke tijd van geregelde vluchten die volgens schema eerder dan 23:00 uur plaatselijke tijd hadden moeten vertrekken, voor zover sprake is van:
 
-- –. een technische storing van het luchtvaartuig, dan wel van de luchtvaarttechnische gronduitrusting of
+   - – een technische storing van het luchtvaartuig, dan wel van de luchtvaarttechnische gronduitrusting of
 
-- –. extreme meteorologische omstandigheden, die een vertraging van de start volgens dat schema rechtvaardigen.
+   - – extreme meteorologische omstandigheden, die een vertraging van de start volgens dat schema rechtvaardigen.
 
 2. De in het eerste lid onder a, b of c bedoelde vluchten worden zonder uitzondering gemeld aan de Geluidscommissie bedoeld in artikel 7, derde lid.
 
@@ -219,11 +177,11 @@ Bijlage 1 aangaande de indeling van het luchtruim en bijlage 2 aangaande de gelu
 
 GEDAAN te Berlijn, op 29-4-2003, in twee oorspronkelijke exemplaren, in de Nederlandse en de Duitse taal, beide teksten zijnde gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) E. V. SJERP
 
-**Voor de Bondsrepubliek Duitsland**
+*Voor de Bondsrepubliek Duitsland*
 
 (w.g.) PETER AMMAN
 

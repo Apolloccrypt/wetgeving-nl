@@ -1,45 +1,23 @@
 ---
 title: "Procedureregeling van de Kamer van Beroep van de Centrale Commissie voor de Rijnvaart (van 23 november 2006)"
 identifier: "BWBV0001982"
-country: "nl"
-rank: "verdrag"
-publication_date: "2007-07-01"
-last_updated: "2006-11-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001982"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10002590883"
-version_id: "10002582242"
-internal_id: "C10006998041"
-label_id: "10002580424"
-dtd_version: "2.0"
-original_entry_into_force: "2007-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001982/2007-07-01/0"
-intitule_bron: "Trb.2007-33"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-11-23"
-intitule_published: "2007-02-19"
-intitule_in_force: "2007-02-19"
-intitule_status: "goed"
-original_publication: "Trb.2007-33"
-original_signed_date: "2006-11-23"
-original_published_date: "2007-02-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2007-33"
-entry_into_force_date: "2007-07-01"
-jci_1_3: "jci1.3:c:BWBV0001982&z=2007-07-01&g=2007-07-01"
-jci_1_0: "1.0:c:BWBV0001982&g=2007-07-01"
-citeertitel_status: "redactioneel"
-signed_date: "2006-11-23"
-entry_into_force: "2007-07-01"
+publicatiedatum: 2007-07-01
+laatste_update: 2007-07-01
+status: geldig
+toestand: 2007-07-01
+bron: "https://wetten.overheid.nl/BWBV0001982"
+opgehaald: 2026-09-12
 ---
+
 # Procedureregeling van de Kamer van Beroep van de Centrale Commissie voor de Rijnvaart (van 23 november 2006)
 
-Overeenkomstig artikel 45ter van de Herziene Rijnvaartakte van 17 oktober 1868, zoals laatstelijk gewijzigd op 20 november 1963, stelt de Centrale Commissie voor de Rijnvaart de onderstaande procedureregeling van de Kamer van Beroep vast:
+*Overeenkomstig artikel 45ter van de Herziene Rijnvaartakte van 17 oktober 1868, zoals laatstelijk gewijzigd op 20 november 1963, stelt de Centrale Commissie voor de Rijnvaart de onderstaande procedureregeling van de Kamer van Beroep vast:*
 
 ### I. Algemene bepalingen
 
-## 1. Organisatie van de Kamer van Beroep
+### 1. Organisatie van de Kamer van Beroep
 
 ##### Artikel 1
 
@@ -97,7 +75,7 @@ Hij houdt de Centrale Commissie op de hoogte van de werkzaamheden van de Kamer.
 
 De Kamer kan de griffier instructies voor zijn werkzaamheden verstrekken.
 
-## 2. Uitspraken van de Kamer van Beroep
+### 2. Uitspraken van de Kamer van Beroep
 
 ##### Artikel 9
 
@@ -109,7 +87,7 @@ De Kamer neemt haar beslissingen en wijst haar arresten bij meerderheid van stem
 
 In strafrechtelijke zaken dient elke voor de verdachte ongunstige beslissing over de schuldvraag en de bepaling van de strafmaat, te worden genomen bij meerderheid van stemmen.
 
-## 3. Officiële talen en plaats van de rechtszittingen
+### 3. Officiële talen en plaats van de rechtszittingen
 
 ##### Artikel 10
 
@@ -151,7 +129,7 @@ De voor ten uitvoerlegging vatbare arresten van de Kamer worden aan de partijen 
 
 ### III. Rechtspleging in hoger beroep
 
-## 1. Procedure en voorbereidende maatregelen
+### 1. Procedure en voorbereidende maatregelen
 
 ##### Artikel 17
 
@@ -171,7 +149,7 @@ De Kamer kan ook zelf de bewijsvoering ter hand nemen.
 
 De partijen en hun vertegenwoordigers hebben het recht aanwezig te zijn bij de bewijsvoering en bij die gelegenheid vragen te stellen.
 
-## 2. Rechtszitting
+### 2. Rechtszitting
 
 ##### Artikel 20
 

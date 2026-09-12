@@ -1,183 +1,157 @@
 ---
 title: "Verdrag nopens de erkenning en de tenuitvoerlegging van beslissingen over onderhoudsverplichtingen jegens kinderen"
 identifier: "BWBV0002908"
-country: "nl"
-rank: "verdrag"
-publication_date: "1964-04-28"
-last_updated: "1964-04-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002908"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003242893"
-version_id: "10003261072"
-internal_id: "C10006989091"
-label_id: "10003229104"
-dtd_version: "2.0"
-original_entry_into_force: "1964-04-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002908/1964-04-28/0"
-intitule_bron: "Trb.1959-187"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1964-02-28"
-intitule_published: "1959-12-22"
-intitule_in_force: "1964-04-28"
-intitule_status: "goed"
-original_publication: "Trb.1959-187"
-original_signed_date: "1964-02-28"
-original_published_date: "1959-12-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1959-187"
-entry_into_force_date: "1964-04-28"
-jci_1_3: "jci1.3:c:BWBV0002908&z=1964-04-28&g=1964-04-28"
-jci_1_0: "1.0:c:BWBV0002908&g=1964-04-28"
-citeertitel_status: "officieel"
-signed_date: "1964-02-28"
-entry_into_force: "1964-04-28"
+publicatiedatum: 1964-04-28
+laatste_update: 1964-04-28
+status: geldig
+toestand: 1964-04-28
+bron: "https://wetten.overheid.nl/BWBV0002908"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag nopens de erkenning en de tenuitvoerlegging van beslissingen over onderhoudsverplichtingen jegens kinderen
 
-De Staten die dit Verdrag hebben ondertekend;
+*Les Etats signataires de la présente Convention; Désirant établir des dispositions communes pour régler la reconnaissance et l'exécution des décisions en matière d'obligations alimentaires envers les enfants; Ont résolu de conclure une Convention à cet effet et sont convenus des dispositions suivantes:*
 
-Verlangend gemeenschappelijke bepalingen vast te stellen met het oog op de erkenning en de tenuitvoerlegging van beslissingen over onderhoudsverplichtingen jegens kinderen;
+##### Article premier
 
-Hebben besloten daartoe een Verdrag te sluiten en zijn overeengekomen als volgt:
+La présente Convention a pour objet d'assurer la reconnaissance et l'exécution réciproques, par les Etats contractants, des décisions rendues à l'occasion de demandes, à caractère international ou interne, portant sur la réclamation d'aliments par un enfant légitime, non légitime ou adoptif, non marié et âgé de moins de 21 ans accomplis.
 
-##### Artikel 1
+Si la décision contient des dispositions sur un point autre que l'obligation alimentaire, l'effet de la Convention reste limité à cette dernière.
 
-Dit Verdrag heeft ten doel de wederkerige erkenning en tenuitvoerlegging door de verdragsluitende Staten te verzekeren van beslissingen, gegeven op een verzoek dan wel een vordering tot het verkrijgen van onderhoud door een wettig, niet wettig of geadopteerd kind, dat ongehuwd is en niet de volle leeftijd van 21 jaar heeft bereikt, zulks ongeacht de vraag of het verzoek dan wel de vordering in de internationale dan wel in de nationale rechtssfeer lag.
+La Convention ne s'applique pas aux décisions en matière alimentaire entre collatéraux.
 
-Indien een beslissing uitspraken bevat over een ander punt dan de onderhoudsverplichting, werkt het Verdrag slechts ten aanzien van de uitspraak over de onderhoudsverplichting.
+##### Article 2
 
-Het Verdrag is niet van toepassing op beslissingen in zaken betreffende onderhoud tussen personen, die elkaar in de zijlinie bestaan.
+Les décisions rendues en matière d'aliments dans un des Etats contractants devront être reconnues et déclarées exécutoires, sans révision au fond, dans les autres Etats contractants, si
 
-##### Artikel 2
+- 1. l'autorité qui a statué a été compétente en vertu de la présente Convention;
 
-De beslissingen, die in zaken betreffende onderhoud in een van de verdragsluitende Staten zijn gegeven, moeten, zonder herziening ten gronde, in de andere verdragsluitende Staten worden erkend en uitvoerbaar verklaard, indien:
+- 2. la partie défenderesse a été régulièrement citée ou représentée selon la loi de l'Etat dont relève l'autorité ayant statué; toutefois, en cas de décision par défaut, la reconnaissance et l'exécution pourront être refusées si, au vu des circonstances de la cause, l'autorité d'exécution estime que c'est sans faute de la partie défaillante que celle-ci n'a pas eu connaissance de la procédure ou n'a pu s'y défendre;
 
-- 1. de autoriteit, die de beslissing heeft gegeven, bevoegd was overeenkomstig dit Verdrag;
+- 3. la décision est passée en force de chose jugée dans l'Etat où elle a été rendue; toutefois, les décisions exécutoires par provision et les mesures provisionnelles seront, quoique susceptibles de recours, déclarées exécutoires par l'autorité d'exécution si pareilles décisions peuvent être rendues et exécutées dans l'Etat dont relève cette autorité;
 
-- 2. de verweerder wettig opgeroepen of vertegenwoordigd is geweest volgens de wet van de Staat van de autoriteit, die de beslissing heeft gegeven; niettemin kunnen ingeval de beslissing bij verstek is gegeven, de erkenning en de uitvoerbaarverklaring worden geweigerd, indien de autoriteit aan wie de uitvoerbaarverklaring wordt gevraagd, gelet op de omstandigheden, van oordeel is, dat het niet aan de schuld van de niet verschenen partij te wijten is geweest, dat deze geen kennis heeft gedragen van de procedure of zich daarin niet heeft kunnen verweren;
+- 4. la décision n'est pas contraire à une décision rendue sur le même objet et entre les mêmes parties dans l'Etat où elle est invoquée; la reconnaissance et l'exécution pourront être refusées si, avant le prononcé de la décision, il y a avait litispendance dans l'Etat où elle est invoquée;
 
-- 3. de beslissing in kracht van gewijsde is gegaan in de Staat waar zij is gegeven; niettemin worden beslissingen uitvoerbaar bij voorraad en voorlopige maatregelen, ook al staat daartegen nog een rechtsmiddel open, uitvoerbaar verklaard door de autoriteit, aan wie de uitvoerbaarverklaring moet worden gevraagd, indien soortgelijke beslissingen in de Staat waartoe deze autoriteit behoort, kunnen worden gegeven en tenuitvoergelegd;
+- 5. la décision n'est pas manifestement incompatible avec l'ordre public de l'Etat où elle est invoquée.
 
-- 4. de beslissing niet in tegenspraak is met een beslissing, die over hetzelfde onderwerp en tussen dezelfde partijen is gegeven in de Staat, waarin een beroep op de beslissing wordt gedaan; de erkenning en uitvoerbaarverklaring kunnen worden geweigerd, indien, voordat de beslissing werd gegeven, het geschil reeds aanhangig was in de Staat, waarin een beroep op de beslissing wordt gedaan;
+##### Article 3
 
-- 5. de beslissing niet kennelijk onverenigbaar is met de openbare orde van de Staat, waarin een beroep op de beslissing wordt gedaan.
+Aux termes de la présente Convention, sont compétentes pour rendre des décisions en matière d'aliments les autorités suivantes:
 
-##### Artikel 3
+- 1. les autorités de l'Etat sur le territoire duquel le débiteur d'aliments avait sa résidence habituelle au moment où l'instance a été introduite;
 
-Voor de toepassing van dit Verdrag zijn de volgende autoriteiten bevoegd tot het geven van beslissingen in zaken betreffende onderhoud:
+- 2. les autorités de l'Etat sur le territoire duquel le créancier d'aliments avait sa résidence habituelle au moment où l'instance a été introduite;
 
-- 1. de autoriteiten van de Staat, op wiens gebied de onderhoudsplichtige ten tijde van het aanhangig maken van de zaak zijn gewone verblijfplaats had;
+- 3. l'autorité à la compétence de laquelle le débiteur d'aliments s'est soumis soit expressément, soit en s'expliquant sur le fond sans réserves touchant la compétence.
 
-- 2. de autoriteiten van de Staat, op wiens gebied de onderhoudsgerechtigde ten tijde van het aanhangig maken van de zaak zijn gewone verblijfplaats had;
+##### Article 4
 
-- 3. de autoriteit, welker bevoegdheid de onderhoudsplichtige hetzij uitdrukkelijk, hetzij door op de zaak zelf in te gaan, heeft erkend zonder een voorbehoud te maken ten aanzien van diens bevoegdheid.
+La partie qui se prévaut d'une décision ou qui en demande l'exécution doit produire:
 
-##### Artikel 4
+- 1. une expédition de la décision réunissant les conditions nécessaires à son authenticité;
 
-De partij, die beroep doet op een beslissing of de uitvoerbaarverklaring ervan vraagt, moet overleggen:
+- 2. les pièces de nature à établir que la décision est exécutoire;
 
-- 1. een afschrift van de beslissing, dat voldoet aan de vereiste voorwaarden van authenticiteit;
+- 3. en cas de décision par défaut, une copie authentique de l'acte introductif d'instance et les pièces de nature à établir que cet acte a été dûment signifié.
 
-- 2. de stukken, waaruit kan blijken, dat de beslissing uitvoerbaar is;
+##### Article 5
 
-- 3. in geval de beslissing bij verstek is gegeven, een authentiek afschrift van het stuk waarmede de zaak werd ingeleid, alsmede de stukken, waaruit kan blijken, dat dit inleidende stuk behoorlijk is medegedeeld.
+L'examen de l'autorité d'exécution se bornera aux conditions visées dans l'article 2 et aux documents énumérés à l'article 4.
 
-##### Artikel 5
+##### Article 6
 
-Het onderzoek van de autoriteit, aan wie de uitvoerbaarverklaring wordt gevraagd, blijft beperkt tot de voorwaarden, bedoeld in artikel 2, en tot de stukken, genoemd in artikel 4.
+La procédure d'exequatur est régie, en tant que la présente Convention n'en dispose autrement, par la loi de l'Etat dont relève l'autorité d'exécution.
 
-##### Artikel 6
+Toute décision déclarée exécutoire a la même force et produit les mêmes effets que si elle émanait d'une autorité compétente de l'Etat où l'exécution est demandée.
 
-De exequaturprocedure wordt, voorzover dit Verdrag niet anders bepaalt, beheerst door de wet van de Staat van de autoriteit, aan wie de uitvoerbaarverklaring wordt gevraagd.
+##### Article 7
 
-Elke uitvoerbaar verklaarde beslissing heeft dezelfde kracht en brengt dezelfde gevolgen teweeg als een beslissing, gegeven door een bevoegde autoriteit van de Staat, waar de uitvoerbaarverklaring is gevraagd.
+Si la décision dont l'exécution est demandée, a ordonné la prestation des aliments par paiements périodiques, l'exécution sera accordée tant pour les paiements déjà échus que pour les paiements à échoir.
 
-##### Artikel 7
+##### Article 8
 
-Indien bij de beslissing, waarvan de uitvoerbaarverklaring is gevraagd, periodieke onderhoudsuitkeringen zijn opgelegd, wordt haar tenuitvoerlegging zowel voor de reeds verschenen als voor de nog niet verschenen termijnen toegestaan.
+Les conditions établies par les articles précédents en ce qui concerne la reconnaissance et l'exécution des décisions visées par la présente Convention, s'appliquent également aux décisions émanant de l'une des autorités visées à l'article 3, modifiant la condamnation relative à une obligation alimentaire.
 
-##### Artikel 8
+##### Article 9
 
-Hetgeen in de voorafgaande artikelen is bepaald ten aanzien van de erkenning en de uitvoerbaarverklaring van de beslissingen, waarop dit Verdrag betrekking heeft, is eveneens van toepassing op beslissingen tot wijziging van een onderhoudsuitkering en gegeven door een der autoriteiten, vermeld in artikel 3.
+La partie admise à l'assistance judiciaire gratuite dans l'Etat où la décision a été rendue en bénéficiera dans la procédure tendant à obtenir l'exécution de la décision.
 
-##### Artikel 9
+Dans les procédures visées par la présente Convention, il n'y a pas lieu à cautio judicatum solvi.
 
-De partij, die in de Staat, waar de beslissing is gegeven, is toegelaten tot kosteloze rechtsbijstand, geniet dit voorrecht ook in de procedure tot uitvoerbaarverklaring van de beslissing.
+Les pièces produites sont dispensées, dans les procédures régies par la présente Convention, de visa et de légalisation.
 
-In de procedures, waarop dit Verdrag betrekking heeft, wordt vrijstelling genoten van de cautio iudicatum solvi.
+##### Article 10
 
-De overgelegde stukken zijn in de procedures, waarop dit Verdrag betrekking heeft, vrijgesteld van visering en van legalisatie.
+Les Etats contractants s'engagent à faciliter le transfert du montant des sommes allouées en raison d'obligations alimentaires envers les enfants.
 
-##### Artikel 10
+##### Article 11
 
-De verdragsluitende Staten verplichten zich om de overmaking naar en van het buitenland van gelden, die zijn toegekend ter zake van onderhoudsverplichtingen jegens kinderen, te vergemakkelijken.
+Aucune disposition de la présente Convention ne peut faire obstacle au droit du créancier d'aliments d'invoquer toute autre disposition applicable à l'exécution des décisions en matière d'aliments soit en vertu de la loi interne du pays où siège l'autorité d'exécution, soit aux termes d'une autre Convention en vigueur entre les Etats contractants.
 
-##### Artikel 11
+##### Article 12
 
-Geen bepaling van dit Verdrag beperkt het recht van een onderhoudsgerechtigde om beroep te doen op enige andere bepaling, die van toepassing is op de uitvoerbaarverklaring van beslissingen in zaken betreffende onderhoud, hetzij krachtens de interne wet van het land van de autoriteit, aan wie de uitvoerbaarverklaring wordt gevraagd, hetzij krachtens een ander Verdrag, dat tussen de verdragsluitende Staten van kracht is.
+La présente Convention ne s'applique pas aux décisions rendues avant son entrée en vigueur.
 
-##### Artikel 12
+##### Article 13
 
-Dit Verdrag is niet van toepassing op beslissingen, gegeven voor de datum van inwerkingtreding van dit Verdrag.
+Chaque Etat contractant indiquera au Gouvernement des Pays-Bas les autorités compétentes pour rendre des décisions en matière d'aliments et pour rendre exécutoires les décisions étrangères.
 
-##### Artikel 13
+Le Gouvernement des Pays-Bas portera ces communications à la connaissance des autres Etats contractants.
 
-Iedere verdragsluitende Staat deelt aan de Nederlandse Regering mede, welke autoriteiten bevoegd zijn tot het geven van beslissingen in zaken betreffende onderhoud en tot uitvoerbaarverklaring van zodanige beslissingen, in andere landen gegeven.
+##### Article 14
 
-De Nederlandse Regering brengt deze mededelingen ter kennis van de andere verdragsluitende Staten.
+La présente Convention s'applique de plein droit aux territoires métropolitains des Etats contractants.
 
-##### Artikel 14
+Si un Etat contractant en désire la mise en vigueur dans tous les autres territoires ou dans tels des autres territoires dont les relations internationales sont assurées par lui, il notifiera son intention à cet effet par un acte qui sera déposé auprès du Ministère des Affaires Etrangères des Pays-Bas. Celui-ci en enverra, par la voie diplomatique, une copie, certifiée conforme, à chacun des Etats contractants.
 
-Dit Verdrag is van rechtswege van toepassing in het moederland van de verdragsluitende Staten.
+Cette déclaration n'aura d'effet relativement aux territoires non métropolitains que dans les rapports entre l'Etat qui l'aura faite et les Etats qui auront déclaré l'accepter. Cette dernière déclaration sera déposée auprès du Ministère des Affaires Etrangères des Pays-Bas; celui-ci en enverra, par la voie diplomatique, une copie, certifiée conforme, à chacun des Etats contractants.
 
-Indien een verdragsluitende Staat de inwerkingtreding ervan wenst in alle of enige van de andere grondgebieden, voor welker internationale betrekkingen hij verantwoordelijk is, geeft hij van zijn voornemen daartoe kennis door een akte, die wordt nedergelegd bij het Ministerie van Buitenlandse Zaken van Nederland. Dit doet, langs diplomatieke weg, een voor eensluidend gewaarmerkt afschrift van die akte aan ieder der verdragsluitende Staten toekomen.
+##### Article 15
 
-Deze verklaring heeft slechts gevolg voor elk niet tot het moederland behorend gebied in de betrekkingen tussen de Staat die haar heeft afgelegd en de Staten die hebben verklaard haar te aanvaarden. Deze laatste verklaring wordt nedergelegd bij het Ministerie van Buitenlandse Zaken van Nederland; dit doet, langs diplomatieke weg, een gewaarmerkt afschrift hiervan aan ieder der verdragsluitende Staten toekomen.
+La présente Convention est ouverte à la signature des Etats représentés à la Huitième Session de la Conférence de La Haye de Droit International Privé.
 
-##### Artikel 15
+Elle sera ratifiée et les instruments de ratification seront déposés auprès du Ministère des Affaires Etrangères des Pays-Bas.
 
-Dit Verdrag staat ter ondertekening open voor de Staten, vertegenwoordigd op de Achtste Zitting van de Haagse Conferentie voor Internationaal Privaatrecht.
+Il sera dressé de tout dépôt d'instruments de ratification un procès-verbal dont une copie, certifiée conforme, sera remise, par la voie diplomatique, à chacun des Etats signataires.
 
-Het zal worden bekrachtigd en de akten van bekrachtiging zullen worden nedergelegd bij het Ministerie van Buitenlandse Zaken van Nederland.
+##### Article 16
 
-Van iedere nederlegging van akten van bekrachtiging zal een proces-verbaal worden opgemaakt, waarvan een voor eensluidend gewaarmerkt afschrift, langs diplomatieke weg, aan ieder der ondertekenende Staten wordt toegezonden.
+La présente Convention entrera en vigueur le soixantième jour à partir du dépôt du quatrième instrument de ratification prévu par l'article 15.
 
-##### Artikel 16
+Pour chaque Etat signataire, ratifiant postérieurement la Convention, celle-ci entrera en vigueur le soixantième jour à partir de la date du dépôt de son instrument de ratification.
 
-Dit Verdrag treedt in werking op de zestigste dag te rekenen van de nederlegging van de vierde akte van bekrachtiging, bedoeld in artikel 15.
+Dans l'hypothèse visée par l'article 14, alinéa 2, de la présente Convention, celle-ci sera applicable le soixantième jour à partir de la date du dépôt de la déclaration d'acceptation.
 
-Voor iedere ondertekenende Staat, die het Verdrag later bekrachtigt, treedt het in werking op de zestigste dag te rekenen van de datum van nederlegging van zijn akte van bekrachtiging.
+##### Article 17
 
-In het geval bedoeld in artikel 14, lid 2, van dit Verdrag is het Verdrag van toepassing op de zestigste dag te rekenen van de datum van nederlegging van de verklaring van aanvaarding.
+Tout Etat, non représenté à la Huitième Session de la Conférence de La Haye de Droit International Privé, pourra adhérer à la présente Convention. L'Etat désirant adhérer notifiera son intention par un acte qui sera déposé auprès du Ministère des Affaires Etrangères des Pays-Bas. Celui-ci en enverra, par la voie diplomatique, une copie, certifiée conforme, à chacun des Etats contractants.
 
-##### Artikel 17
+La Convention entrera en vigueur, entre l'Etat adhérant et l'Etat ayant déclaré accepter cette adhésion, le soixantième jour après la date du dépôt de l'acte d'adhésion.
 
-Iedere Staat, die niet vertegenwoordigd is geweest op de Achtste Zitting van de Haagse Conferentie voor Internationaal Privaatrecht, kan tot dit Verdrag toetreden. De Staat, die wenst toe te treden, geeft van zijn voornemen kennis door een akte, die wordt nedergelegd bij het Ministerie van Buitenlandse Zaken van Nederland. Dit doet, langs diplomatieke weg, een voor eensluidend gewaarmerkt afschrift van die akte aan ieder der verdragsluitende Staten toekomen.
+L'adhésion n'aura d'effet que dans les rapports entre l'Etat adhérant et les Etats contractants qui auront déclaré accepter cette adhésion. Cette déclaration sera déposée auprès du Ministère des Affaires Etrangères des Pays-Bas; celui-ci en enverra, par la voie diplomatique, une copie, certifiée conforme, à chacun des Etats contractants.
 
-Het Verdrag treedt in werking tussen de toetredende Staat en de Staat, die heeft verklaard deze toetreding te aanvaarden, op de zestigste dag, te rekenen van de datum van nederlegging van de akte van toetreding.
+Il est entendu que le dépôt de l'acte d'adhésion ne pourra avoir lieu qu'après l'entrée en vigueur de la présente Convention en vertu de l'article 16.
 
-De toetreding zal slechts gevolg hebben in de betrekkingen tussen de toetredende Staat en de verdragsluitende Staten, die hebben verklaard deze toetreding te aanvaarden. Deze verklaring zal worden nedergelegd bij het Ministerie van Buitenlandse Zaken van Nederland; dit doet, langs diplomatieke weg, een voor eensluidend gewaarmerkt afschrift van die akte aan ieder der verdragsluitende Staten toekomen.
+##### Article 18
 
-Het is welverstaan, dat toetredingen eerst kunnen geschieden na de inwerkingtreding van dit Verdrag krachtens artikel 16.
+Chaque Etat contractant, en signant ou ratifiant la présente Convention ou en y adhérant, pourra faire une réserve quant à la reconnaissance et à l'exécution des décisions rendues par une autorité d'un autre Etat contractant, qui aurait été compétente en raison de la résidence du créancier d'aliments.
 
-##### Artikel 18
+L'Etat qui aura fait usage de cette réserve ne pourra prétendre à l'application de la Convention aux décisions rendues par ses autorités lorsque celles-ci auront été compétentes en raison de la résidence du créancier d'aliments.
 
-Iedere verdragsluitende Staat kan bij de ondertekening of de bekrachtiging van of bij de toetreding tot dit Verdrag een voorbehoud maken met betrekking tot de erkenning en de uitvoerbaarverklaring van de beslissingen, gegeven door een autoriteit van een andere verdragsluitende Staat, die bevoegd zou zijn geweest uit hoofde van de verblijfplaats van de onderhoudsgerechtigde.
+##### Article 19
 
-De Staat, die zodanig voorbehoud heeft gemaakt, kan geen aanspraak maken op toepassing van het Verdrag op beslissingen, gegeven door autoriteiten van die Staat, wanneer deze bevoegd zijn geweest uit hoofde van de verblijfplaats van de onderhoudsgerechtigde.
+La présente Convention aura une durée de cinq ans à partir de la date indiquée dans l'article 16, alinéa premier, de la présente Convention. Ce délai commencera à courir de cette date, même pour les Etats qui l'auront ratifiée ou y auront adhéré postérieurement.
 
-##### Artikel 19
+La Convention sera renouvelée tacitement de cinq ans en cinq ans, sauf dénonciation.
 
-Dit Verdrag blijft gedurende vijf jaren van kracht, te rekenen van de datum, aangegeven in artikel 16, eerste lid, van dit Verdrag. Deze termijn begint van die datum af te lopen, zelfs voor de Staten, die later hebben bekrachtigd of zijn toegetreden.
+La dénonciation devra, au moins six mois avant l'expiration du délai, être notifiée au Ministère des Affaires Etrangères des Pays-Bas, qui en donnera connaissance à tous les autres Etats contractants.
 
-Het Verdrag wordt, behoudens opzegging, stilzwijgend telkens voor vijf jaren verlengd.
+La dénonciation peut se limiter aux territoires ou à certains territoires indiqués dans une notification faite conformément à l'article 14, alinéa 2.
 
-De opzegging moet tenminste zes maanden voor het einde van de termijn ter kennis worden gebracht van het Ministerie van Buitenlandse Zaken van Nederland, dat daarvan aan alle andere verdragsluitende Staten mededeling zal doen.
-
-De opzegging kan zich beperken tot de grondgebieden of tot bepaalde grondgebieden, aangegeven in een kennisgeving gedaan overeenkomstig artikel 14, lid 2.
-
-De opzegging heeft slechts gevolg ten opzichte van de Staat, die haar heeft gedaan. Het Verdrag blijft van kracht voor de andere verdragsluitende Staten.
+La dénonciation ne produira son effet qu'à l'égard de l'Etat qui l'aura notifiée. La Convention restera en vigueur pour les autres Etats contractants.
 
 En foi de quoi, les soussignés, dûment autorisés, ont signé la présente Convention.
 

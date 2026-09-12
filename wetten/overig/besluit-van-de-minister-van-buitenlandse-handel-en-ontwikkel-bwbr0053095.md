@@ -9,7 +9,7 @@ laatste_update: 2026-09-11
 status: geldig
 toestand: 2026-09-11
 bron: "https://wetten.overheid.nl/BWBR0053095"
-opgehaald: 2026-09-11
+opgehaald: 2026-09-12
 ---
 
 # Besluit van de Minister van Buitenlandse Handel en Ontwikkelingssamenwerking van 2 september 2026, nr. BZ2631286, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 in verband met aanvullende geoormerkte middelen voor capaciteitsversterking van de nationale mine action autoriteiten in Syrië (Optopping II Mine Action en Clustermunitie Programma III 2025–2030)

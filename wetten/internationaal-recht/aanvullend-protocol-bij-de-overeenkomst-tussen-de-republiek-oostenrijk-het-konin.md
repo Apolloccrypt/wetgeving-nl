@@ -1,51 +1,19 @@
 ---
 title: "Aanvullend Protocol bij de Overeenkomst tussen de Republiek Oostenrijk, het Koninkrijk België, het Koninkrijk Denemarken, de Republiek Finland, de Bondsrepubliek Duitsland, de Helleense Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Portugese Republiek, het Koninkrijk Spanje en het Koninkrijk Zweden, de Europese Gemeenschap voor Atoomenergie en de Internationale Organisatie voor Atoomenergie ter uitvoering van artikel III, leden 1 en 4, van het Verdrag inzake de niet-verspreiding van kernwapens"
 identifier: "BWBV0001645"
-country: "nl"
-rank: "verdrag"
-publication_date: "2004-04-30"
-last_updated: "2004-04-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001645"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002287673"
-version_id: "10002311872"
-internal_id: "C10006990451"
-label_id: "10002277984"
-dtd_version: "2.0"
-original_entry_into_force: "2004-04-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001645/2004-04-30/0"
-intitule_bron: "Trb.1999-147"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-04-30"
-intitule_published: "1999-08-23"
-intitule_in_force: "2006-05-24"
-intitule_status: "goed"
-original_publication: "Trb.1999-147"
-original_signed_date: "2004-04-30"
-original_published_date: "1999-08-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1999-147"
-entry_into_force_date: "2004-04-30"
-jci_1_3: "jci1.3:c:BWBV0001645&z=2004-04-30&g=2004-04-30"
-jci_1_0: "1.0:c:BWBV0001645&g=2004-04-30"
-citeertitel_status: "redactioneel"
-signed_date: "2004-04-30"
-entry_into_force: "2004-04-30"
+publicatiedatum: 2004-04-30
+laatste_update: 2004-04-30
+status: geldig
+toestand: 2004-04-30
+bron: "https://wetten.overheid.nl/BWBV0001645"
+opgehaald: 2026-09-12
 ---
+
 # Aanvullend Protocol bij de Overeenkomst tussen de Republiek Oostenrijk, het Koninkrijk België, het Koninkrijk Denemarken, de Republiek Finland, de Bondsrepubliek Duitsland, de Helleense Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Portugese Republiek, het Koninkrijk Spanje en het Koninkrijk Zweden, de Europese Gemeenschap voor Atoomenergie en de Internationale Organisatie voor Atoomenergie ter uitvoering van artikel III, leden 1 en 4, van het Verdrag inzake de niet-verspreiding van kernwapens
 
-Preambule
-
-Overwegende dat de Republiek Oostenrijk, het Koninkrijk België, het Koninkrijk Denemarken, de Republiek Finland, de Bondsrepubliek Duitsland, de Helleense Republiek, lerland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Portugese Republiek, het Koninkrijk Spanje en het Koninkrijk Zweden (hierna „de staten" genoemd) en de Europese Gemeenschap voor Atoomenergie (hierna „de Gemeenschap" genoemd) partij zijn bij een overeenkomst tussen de staten, de Gemeenschap en de Internationale Organisatie voor Atoomenergie (hierna „de organisatie" genoemd) ter uitvoering van [artikel III, de leden 1 en 4, van het Verdrag inzake de niet-verspreiding van kernwapens](https://wetten.overheid.nl/jci1.3:c:BWBV0004367&artikel=III) (hierna de „veiligheidscontroleovereenkomst" genoemd), die op 21 februari 1977 in werking is getreden;
-
-Zich bewust van de wens van de internationale gemeenschap om de nucleaire non-proliferatie verder uit te breiden door de doelmatigheid en efficiency van het veiligheidscontrolesysteem van de organisatie te verbeteren;
-
-Eraan herinnerende dat de organisatie bij de tenuitvoerlegging van de veiligheidscontrole rekening moet houden met de noodzaak om: te vermijden dat de economische en technologische ontwikkeling van de Gemeenschap of de internationale samenwerking op het gebied van vreedzame nucleaire activiteiten worden belemmerd; de vigerende bepalingen inzake gezondheid, veiligheid, fysieke beveiliging en andere veiligheidsvoorschriften alsmede de rechten van personen te eerbiedigen; en elke voorzorgsmaatregel te nemen om commerciële, technologische en industriële geheimen en andere vertrouwelijke informatie waarvan zij kennis krijgt te beschermen;
-
-Overwegende dat de regelmaat en intensiteit van de in dit protocol beschreven activiteiten dienen te worden beperkt tot het minimum dat in overeenstemming is met de doelstelling de doelmatigheid en efficiency van de veiligheidscontrole van de organisatie te verbeteren,
-
-zijn de Gemeenschap, de staten en de organisatie als volgt overeengekomen:
+*Preambule Overwegende dat de Republiek Oostenrijk, het Koninkrijk België, het Koninkrijk Denemarken, de Republiek Finland, de Bondsrepubliek Duitsland, de Helleense Republiek, lerland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Portugese Republiek, het Koninkrijk Spanje en het Koninkrijk Zweden (hierna „de staten" genoemd) en de Europese Gemeenschap voor Atoomenergie (hierna „de Gemeenschap" genoemd) partij zijn bij een overeenkomst tussen de staten, de Gemeenschap en de Internationale Organisatie voor Atoomenergie (hierna „de organisatie" genoemd) ter uitvoering van artikel III, de leden 1 en 4, van het Verdrag inzake de niet-verspreiding van kernwapens (hierna de „veiligheidscontroleovereenkomst" genoemd), die op 21 februari 1977 in werking is getreden; Zich bewust van de wens van de internationale gemeenschap om de nucleaire non-proliferatie verder uit te breiden door de doelmatigheid en efficiency van het veiligheidscontrolesysteem van de organisatie te verbeteren; Eraan herinnerende dat de organisatie bij de tenuitvoerlegging van de veiligheidscontrole rekening moet houden met de noodzaak om: te vermijden dat de economische en technologische ontwikkeling van de Gemeenschap of de internationale samenwerking op het gebied van vreedzame nucleaire activiteiten worden belemmerd; de vigerende bepalingen inzake gezondheid, veiligheid, fysieke beveiliging en andere veiligheidsvoorschriften alsmede de rechten van personen te eerbiedigen; en elke voorzorgsmaatregel te nemen om commerciële, technologische en industriële geheimen en andere vertrouwelijke informatie waarvan zij kennis krijgt te beschermen; Overwegende dat de regelmaat en intensiteit van de in dit protocol beschreven activiteiten dienen te worden beperkt tot het minimum dat in overeenstemming is met de doelstelling de doelmatigheid en efficiency van de veiligheidscontrole van de organisatie te verbeteren, zijn de Gemeenschap, de staten en de organisatie als volgt overeengekomen:*
 
 ### RELATIE TUSSEN HET PROTOCOL EN DE VEILIGHEIDSCONTROLEOVEREENKOMST
 
@@ -71,33 +39,33 @@ a. Elke staat verstrekt de organisatie een verklaring die de onder i, ii, iv, ix
 
 - vi. Informatie over nucleair materiaal, en informatie over basismateriaal dat niet de nodige samenstelling en zuiverheid heeft bereikt om geschikt te zijn voor de fabricage van splijtstof of voor isotoopverrijking, als volgt;
 
-- a. de hoeveelheden, de chemische samenstelling, het gebruik of voorgenomen gebruik van dat materiaal, al dan niet voor nucleaire toepassingen, voor elke plaats in een staat waar dat materiaal aanwezig is in hoeveelheden van meer dan tien ton uraan en/of twintig ton thorium en voor andere plaatsen waar hoeveelheden van meer dan één ton aanwezig zijn, de totale hoeveelheid voor de staten samen als deze meer bedraagt dan tien ton uraan of twintig ton thorium. Voor het verstrekken van deze informatie is geen gedetailleerde boekhouding van nucleair materiaal vereist;
+   - a. de hoeveelheden, de chemische samenstelling, het gebruik of voorgenomen gebruik van dat materiaal, al dan niet voor nucleaire toepassingen, voor elke plaats in een staat waar dat materiaal aanwezig is in hoeveelheden van meer dan tien ton uraan en/of twintig ton thorium en voor andere plaatsen waar hoeveelheden van meer dan één ton aanwezig zijn, de totale hoeveelheid voor de staten samen als deze meer bedraagt dan tien ton uraan of twintig ton thorium. Voor het verstrekken van deze informatie is geen gedetailleerde boekhouding van nucleair materiaal vereist;
 
-- b. de hoeveelheden, de chemische samenstelling en de bestemming van elke export van de staten naar een staat buiten de Gemeenschap van dergelijk materiaal voor specifiek niet-nucleaire doeleinden in hoeveelheden van meer dan:
+   - b. de hoeveelheden, de chemische samenstelling en de bestemming van elke export van de staten naar een staat buiten de Gemeenschap van dergelijk materiaal voor specifiek niet-nucleaire doeleinden in hoeveelheden van meer dan:
 
-- 1). tien ton uraan, dan wel voor achtereenvolgende exporten van uraan naar dezelfde staat van elk minder dan tien ton, maar in totaal meer dan tien ton per jaar;
+      - 1) tien ton uraan, dan wel voor achtereenvolgende exporten van uraan naar dezelfde staat van elk minder dan tien ton, maar in totaal meer dan tien ton per jaar;
 
-- 2). twintig ton thorium, dan wel voor achtereenvolgende exporten van thorium naar dezelfde staat van elk minder dan twintig ton, maar in totaal meer dan twintig ton per jaar;
+      - 2) twintig ton thorium, dan wel voor achtereenvolgende exporten van thorium naar dezelfde staat van elk minder dan twintig ton, maar in totaal meer dan twintig ton per jaar;
 
-- c. de hoeveelheden, de chemische samenstelling, de huidige plaats en het gebruik of het voorgenomen gebruik van elke import in de staten van buiten de Gemeenschap van dergelijk materiaal voor specifiek niet-nucleaire doeleinden in hoeveelheden van meer dan: Over dergelijk materiaal dat bestemd is voor niet-nucleair gebruik, hoeft geen informatie te worden verstrekt als dit eenmaal in de vorm is gebracht voor het niet-nucleaire eindgebruik.
+   - c. de hoeveelheden, de chemische samenstelling, de huidige plaats en het gebruik of het voorgenomen gebruik van elke import in de staten van buiten de Gemeenschap van dergelijk materiaal voor specifiek niet-nucleaire doeleinden in hoeveelheden van meer dan: Over dergelijk materiaal dat bestemd is voor niet-nucleair gebruik, hoeft geen informatie te worden verstrekt als dit eenmaal in de vorm is gebracht voor het niet-nucleaire eindgebruik.
 
-- 1). tien ton uraan, dan wel voor achtereenvolgende importen van uraan van elk minder dan tien ton, maar in totaal meer dan tien ton per jaar;
+      - 1) tien ton uraan, dan wel voor achtereenvolgende importen van uraan van elk minder dan tien ton, maar in totaal meer dan tien ton per jaar;
 
-- 2). twintig ton thorium, dan wel voor achtereenvolgende importen van thorium van elk minder dan twintig ton, maar in totaal meer dan twintig ton per jaar.
+      - 2) twintig ton thorium, dan wel voor achtereenvolgende importen van thorium van elk minder dan twintig ton, maar in totaal meer dan twintig ton per jaar.
 
 - vii.
 
-- a. informatie over de hoeveelheden, het gebruik en de plaatsen van nucleair materiaal dat van veiligheidscontrole is vrijgesteld ingevolge artikel 37 van de veiligheidscontroleovereenkomst;
+   - a. informatie over de hoeveelheden, het gebruik en de plaatsen van nucleair materiaal dat van veiligheidscontrole is vrijgesteld ingevolge artikel 37 van de veiligheidscontroleovereenkomst;
 
-- b. informatie over de hoeveelheden (eventueel in de vorm van ramingen) en het gebruik op elke plaats van nucleair materiaal dat van veiligheidscontrole is vrijgesteld ingevolge artikel 36 b van de veiligheidscontroleovereenkomst maar nog niet in de vorm van een niet-nucleair eindgebruik is gebracht, voor hoeveelheden groter dan die welke zijn vermeld in artikel 37 van de veiligheidscontroleovereenkomst. Voor het verstrekken van deze informatie is geen gedetailleerde boekhouding van nucleair materiaal vereist.
+   - b. informatie over de hoeveelheden (eventueel in de vorm van ramingen) en het gebruik op elke plaats van nucleair materiaal dat van veiligheidscontrole is vrijgesteld ingevolge artikel 36 b van de veiligheidscontroleovereenkomst maar nog niet in de vorm van een niet-nucleair eindgebruik is gebracht, voor hoeveelheden groter dan die welke zijn vermeld in artikel 37 van de veiligheidscontroleovereenkomst. Voor het verstrekken van deze informatie is geen gedetailleerde boekhouding van nucleair materiaal vereist.
 
 - viii. Informatie over de plaats of verdere verwerking van middelactief of hoogactief afval dat plutonium, hoogverrijkt uraan of uraan-233 bevat en waarvoor de veiligheidscontrole is beëindigd ingevolge artikel 11 van de veiligheidscontroleovereenkomst. Als gebruikt in deze paragraaf omvat „verdere verwerking" niet het opnieuw verpakken van het afval of de verdere conditionering ervan zonder de elementen te scheiden, voor opslag of opberging.
 
 - ix. De volgende informatie over specifieke uitrusting en niet-nucleair materiaal als vermeld in bijlage II:
 
-- a. voor elke export uit de Gemeenschap van dergelijke uitrusting en materiaal: de hoedanigheid, hoeveelheid, plaats van voorgenomen gebruik in de staat van bestemming en exportdatum dan wel in voorkomend geval verwachte exportdatum;
+   - a. voor elke export uit de Gemeenschap van dergelijke uitrusting en materiaal: de hoedanigheid, hoeveelheid, plaats van voorgenomen gebruik in de staat van bestemming en exportdatum dan wel in voorkomend geval verwachte exportdatum;
 
-- b. op uitdrukkelijk verzoek van de organisatie bevestiging door de importerende staat van door een staat buiten de Gemeenschap aan de organisatie verstrekte informatie over de export van dergelijke uitrusting en materiaal naar de importerende staat.
+   - b. op uitdrukkelijk verzoek van de organisatie bevestiging door de importerende staat van door een staat buiten de Gemeenschap aan de organisatie verstrekte informatie over de export van dergelijke uitrusting en materiaal naar de importerende staat.
 
 - x. Algemene plannen voor de volgende periode van tien jaar in verband met de ontwikkeling van de splijtstofkringloop (met inbegrip van geplande onderzoek- en ontwikkelingsactiviteiten in verband met de splijtstofkringloop) als deze door de bevoegde instanties van de staat zijn goedgekeurd.
 
@@ -139,7 +107,7 @@ a. De organisatie streeft er niet automatisch of systematisch naar de in artikel
 
 - iii. Elke in artikel 5.a.iii bedoelde plaats voorzover nodig om de organisatie in verband met de veiligheidscontrole in staat te stellen de verklaring van de Gemeenschap of een staat betreffende de ontmantelde toestand van een faciliteit of plaats buiten faciliteiten waar gewoonlijk nucleair materiaal werd gebruikt, te verifiëren.
 
-- i. Behalve in de onder ii hieronder genoemde gevallen stelt de organisatie de betrokken staat, of voor wat betreft toegang krachtens artikel 5.a of c indien er sprake is van nucleair materiaal, de betrokken staat en de Gemeenschap ten minste 24 uur van tevoren in kennis van de gewenste toegang.
+b. - i. Behalve in de onder ii hieronder genoemde gevallen stelt de organisatie de betrokken staat, of voor wat betreft toegang krachtens artikel 5.a of c indien er sprake is van nucleair materiaal, de betrokken staat en de Gemeenschap ten minste 24 uur van tevoren in kennis van de gewenste toegang.
 
 - ii. Voor de toegang tot elke willekeurige plaats op een locatie die wordt verlangd in verband met bezoeken om de ontwerp-gegevens te verifiëren of in verband met ad hoc of routine-inspecties van die locatie, is de aankondigingstermijn, als de organisatie zulks verzoekt, ten minste twee uur, maar in uitzonderlijke omstandigheden kan deze minder dan twee uur zijn.
 
@@ -155,7 +123,7 @@ f. De betrokken staat, of voor wat betreft toegang krachtens artikel 5.a of c, i
 
 Elke staat verleent de organisatie toegang tot:
 
-- i. Elke plaats op een locatie.
+a. - i. Elke plaats op een locatie.
 
 - ii. Elke ingevolge artikel 2.a.v-viii aangewezen plaats.
 
@@ -207,7 +175,7 @@ b. De organisatie stelt de betrokken staat en de Gemeenschap in kennis van de co
 
 ##### Artikel 11
 
-- i. De directeur-generaal stelt de Gemeenschap en de staten in kennis wanneer de raad ermee instemt dat een functionaris van de organisatie optreedt als veiligheidscontrole-inspecteur. Tenzij de Gemeenschap de directeur-generaal binnen drie maanden nadat zij van de instemming van de raad in kennis is gesteld de directeur-generaal laat weten dat zij niet aanvaardt dat de betrokken functionaris optreedt als inspecteur voor de staten, wordt de aldus aan de Gemeenschap en de staten meegedeelde inspecteur geacht voor de staten te zijn benoemd;
+a. - i. De directeur-generaal stelt de Gemeenschap en de staten in kennis wanneer de raad ermee instemt dat een functionaris van de organisatie optreedt als veiligheidscontrole-inspecteur. Tenzij de Gemeenschap de directeur-generaal binnen drie maanden nadat zij van de instemming van de raad in kennis is gesteld de directeur-generaal laat weten dat zij niet aanvaardt dat de betrokken functionaris optreedt als inspecteur voor de staten, wordt de aldus aan de Gemeenschap en de staten meegedeelde inspecteur geacht voor de staten te zijn benoemd;
 
 - ii. De directeur-generaal, die handelt naar aanleiding van een verzoek van de Gemeenschap dan wel op zijn eigen initiatief, stelt de Gemeenschap en de staten onmiddellijk in kennis van de beëindiging van de benoeming van een functionaris als inspecteur voor de staten.
 
@@ -279,40 +247,40 @@ c. De directeur-generaal stelt alle lidstaten van de organisatie onverwijld in k
 
 Als gebruikt in dit protocol betekent:
 
-- a. **Onderzoek- en ontwikkelingsactiviteiten in verband met de splijtstofkringloop**: die activiteiten die specifiek betrekking hebben op een aspect van de proces- of systeemontwikkeling van een van de volgende zaken: echter uitgezonderd activiteiten in verband met theoretisch of fundamenteel wetenschappelijk onderzoek of onderzoek en ontwikkeling van industriële toepassingen van radio-isotopen, medische, hydrologische en agrarische toepassingen, gevolgen voor de gezondheid en het milieu en beter onderhoud.
+- a. *Onderzoek- en ontwikkelingsactiviteiten in verband met de splijtstofkringloop*: die activiteiten die specifiek betrekking hebben op een aspect van de proces- of systeemontwikkeling van een van de volgende zaken: echter uitgezonderd activiteiten in verband met theoretisch of fundamenteel wetenschappelijk onderzoek of onderzoek en ontwikkeling van industriële toepassingen van radio-isotopen, medische, hydrologische en agrarische toepassingen, gevolgen voor de gezondheid en het milieu en beter onderhoud.
 
-- -. de conversie van nucleair materiaal,
+   - - de conversie van nucleair materiaal,
 
-- -. de verrijking van nucleair materiaal,
+   - - de verrijking van nucleair materiaal,
 
-- -. de fabricage van splijtstof,
+   - - de fabricage van splijtstof,
 
-- -. reactoren,
+   - - reactoren,
 
-- -. kritieke installaties,
+   - - kritieke installaties,
 
-- -. de opwerking van splijtstof,
+   - - de opwerking van splijtstof,
 
-- -. de verwerking (uitgezonderd opnieuw verpakken of conditioneren zonder de elementen te scheiden, voor opslag of opberging) van middelactief of hoogactief afval dat plutonium, hoogverrijkt uraan of uraan-233 bevat,
+   - - de verwerking (uitgezonderd opnieuw verpakken of conditioneren zonder de elementen te scheiden, voor opslag of opberging) van middelactief of hoogactief afval dat plutonium, hoogverrijkt uraan of uraan-233 bevat,
 
-- b. **Locatie**: het terrein dat door de Gemeenschap en een staat is aangegeven in de toepasselijke ontwerp-gegevens betreffende een faciliteit, met inbegrip van een buiten gebruik gestelde faciliteit en in de informatie over een plaats buiten faciliteiten waar nucleair materiaal gewoonlijk wordt gebruikt, met inbegrip van een buiten gebruik gestelde plaats buiten faciliteiten waar nucleair materiaal gewoonlijk werd gebruikt (dit is beperkt tot plaatsen met hete cellen of plaatsen waar activiteiten in verband met de conversie, verrijking, splijtstoffabricage of opwerking plaatsvonden). **Locatie** omvat tevens alle installaties die zich bij de faciliteit of plaats bevinden voor de levering of het gebruik van essentiële diensten, zoals: hete cellen voor de verwerking van bestraalde materialen die geen nucleair materiaal bevatten; installaties voor de behandeling, opslag en opberging van afval; en gebouwen die betrekking hebben op specifieke activiteiten die door de betrokken staat ingevolge artikel 2.a.iv zijn aangewezen.
+- b. *Locatie*: het terrein dat door de Gemeenschap en een staat is aangegeven in de toepasselijke ontwerp-gegevens betreffende een faciliteit, met inbegrip van een buiten gebruik gestelde faciliteit en in de informatie over een plaats buiten faciliteiten waar nucleair materiaal gewoonlijk wordt gebruikt, met inbegrip van een buiten gebruik gestelde plaats buiten faciliteiten waar nucleair materiaal gewoonlijk werd gebruikt (dit is beperkt tot plaatsen met hete cellen of plaatsen waar activiteiten in verband met de conversie, verrijking, splijtstoffabricage of opwerking plaatsvonden). *Locatie* omvat tevens alle installaties die zich bij de faciliteit of plaats bevinden voor de levering of het gebruik van essentiële diensten, zoals: hete cellen voor de verwerking van bestraalde materialen die geen nucleair materiaal bevatten; installaties voor de behandeling, opslag en opberging van afval; en gebouwen die betrekking hebben op specifieke activiteiten die door de betrokken staat ingevolge artikel 2.a.iv zijn aangewezen.
 
-- c. **Ontmantelde faciliteit of ontmantelde plaats buiten faciliteiten**: een installatie of plaats waar overgebleven constructies en uitrusting die essentieel waren voor het gebruik ervan, zijn verwijderd of onbruikbaar zijn gemaakt, zodat de installatie of plaats niet wordt gebruikt voor de opslag en niet langer kan worden gebruikt voor de hantering, verwerking of het gebruik van nucleair materiaal.
+- c. *Ontmantelde faciliteit of ontmantelde plaats buiten faciliteiten*: een installatie of plaats waar overgebleven constructies en uitrusting die essentieel waren voor het gebruik ervan, zijn verwijderd of onbruikbaar zijn gemaakt, zodat de installatie of plaats niet wordt gebruikt voor de opslag en niet langer kan worden gebruikt voor de hantering, verwerking of het gebruik van nucleair materiaal.
 
-- d. **Buiten gebruik gestelde faciliteit of buiten gebruik gestelde plaats buiten faciliteiten**: een installatie of plaats waar de activiteiten zijn gestaakt en het nucleair materiaal is verwijderd, maar die niet is ontmanteld.
+- d. *Buiten gebruik gestelde faciliteit of buiten gebruik gestelde plaats buiten faciliteiten*: een installatie of plaats waar de activiteiten zijn gestaakt en het nucleair materiaal is verwijderd, maar die niet is ontmanteld.
 
-- e. **Hoogverrijkt uraan**: uraan dat 20% of meer van de isotoop uraan-235 bevat.
+- e. *Hoogverrijkt uraan*: uraan dat 20% of meer van de isotoop uraan-235 bevat.
 
-- f. **Plaatsgebonden milieusteekproeven**: de verzameling van milieusteekproeven (bijvoorbeeld lucht, water, vegetatie, bodem, uitstrijkpreparaten) op en in de omniddellijke omgeving van een door de organisatie opgegeven plaats om de organisatie te helpen conclusies te trekken over de afwezigheid van niet-aangemeld nucleair materiaal of nucleaire activiteiten op de opgegeven plaats.
+- f. *Plaatsgebonden milieusteekproeven*: de verzameling van milieusteekproeven (bijvoorbeeld lucht, water, vegetatie, bodem, uitstrijkpreparaten) op en in de omniddellijke omgeving van een door de organisatie opgegeven plaats om de organisatie te helpen conclusies te trekken over de afwezigheid van niet-aangemeld nucleair materiaal of nucleaire activiteiten op de opgegeven plaats.
 
-- g. **Milieusteekproeven over een ruimer gebied**: de verzameling van milieusteekproeven (bijvoorbeeld lucht, water, vegetatie, bodem, uitstrijkpreparaten) op een reeks door de organisatie opgegeven plaatsen om de organisatie te helpen conclusies te bereiken over de afwezigheid van niet-aangemeld nucleair materiaal of nucleaire activiteiten over een ruimer gebied.
+- g. *Milieusteekproeven over een ruimer gebied*: de verzameling van milieusteekproeven (bijvoorbeeld lucht, water, vegetatie, bodem, uitstrijkpreparaten) op een reeks door de organisatie opgegeven plaatsen om de organisatie te helpen conclusies te bereiken over de afwezigheid van niet-aangemeld nucleair materiaal of nucleaire activiteiten over een ruimer gebied.
 
-- h. **Nucleair materiaal**: enigerlei basismateriaal of bijzondere splijtstof zoals gedefinieerd in artikel XX van het statuut. De term basismateriaal is niet van toepassing op erts of ertsresidu. Besluiten van de raad ingevolge artikel XX van het statuut van de organisatie na de inwerkingtreding van dit protocol waardoor de lijst van als basismateriaal of speciaal splijtbaar materiaal beschouwde materialen wordt uitgebreid, hebben wat de toepassing van dit protocol betreft alleen effect als zij door de Gemeenschap en de staten worden aanvaard.
+- h. *Nucleair materiaal*: enigerlei basismateriaal of bijzondere splijtstof zoals gedefinieerd in artikel XX van het statuut. De term basismateriaal is niet van toepassing op erts of ertsresidu. Besluiten van de raad ingevolge artikel XX van het statuut van de organisatie na de inwerkingtreding van dit protocol waardoor de lijst van als basismateriaal of speciaal splijtbaar materiaal beschouwde materialen wordt uitgebreid, hebben wat de toepassing van dit protocol betreft alleen effect als zij door de Gemeenschap en de staten worden aanvaard.
 
-- i. **Faciliteit**:
+- i. *Faciliteit*:
 
-- i. een reactor, een kritieke installatie, een conversie-installatie, een fabricage-installatie, een opwerkingsinstallatie, een isotopenscheidingsinstallatie of een afzonderlijke opslaginstallatie; of
+   - i. een reactor, een kritieke installatie, een conversie-installatie, een fabricage-installatie, een opwerkingsinstallatie, een isotopenscheidingsinstallatie of een afzonderlijke opslaginstallatie; of
 
-- ii. elke plaats waar nucleair materiaal gewoonlijk wordt gebruikt in hoeveelheden groter dan één kilogram effectief.
+   - ii. elke plaats waar nucleair materiaal gewoonlijk wordt gebruikt in hoeveelheden groter dan één kilogram effectief.
 
-- j. **Plaats buiten faciliteiten**: elke installatie of plaats die geen faciliteit is en waar nucleair materiaal gewoonlijk wordt gebruikt in hoeveelheden van één kilogram effectief of minder.
+- j. *Plaats buiten faciliteiten*: elke installatie of plaats die geen faciliteit is en waar nucleair materiaal gewoonlijk wordt gebruikt in hoeveelheden van één kilogram effectief of minder.

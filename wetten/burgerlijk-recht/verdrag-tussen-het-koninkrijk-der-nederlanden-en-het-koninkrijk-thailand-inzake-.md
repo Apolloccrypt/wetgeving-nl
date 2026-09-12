@@ -1,56 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Thailand inzake de overbrenging van gevonniste personen en de samenwerking bij de tenuitvoerlegging van strafvonnissen"
 identifier: "BWBV0001709"
-country: "nl"
-rank: "verdrag"
-publication_date: "2005-04-01"
-last_updated: "2004-08-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001709"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10001098543"
-version_id: "10001126722"
-internal_id: "C10006994991"
-label_id: "10001098784"
-original_entry_into_force: "2005-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001709/2005-04-01/0"
-intitule_bron: "Trb.2004-216"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-02-08"
-intitule_published: "2004-09-06"
-intitule_in_force: "2005-02-23"
-intitule_status: "goed"
-original_publication: "Trb.2004-216"
-original_signed_date: "2005-02-08"
-original_published_date: "2004-09-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2004-216"
-entry_into_force_date: "2005-04-01"
-jci_1_3: "jci1.3:c:BWBV0001709&z=2005-04-01&g=2005-04-01"
-jci_1_0: "1.0:c:BWBV0001709&g=2005-04-01"
-citeertitel_status: "officieel"
-signed_date: "2005-02-08"
-entry_into_force: "2005-04-01"
+publicatiedatum: 2005-04-01
+laatste_update: 2005-04-01
+status: geldig
+toestand: 2005-04-01
+bron: "https://wetten.overheid.nl/BWBV0001709"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Thailand inzake de overbrenging van gevonniste personen en de samenwerking bij de tenuitvoerlegging van strafvonnissen
 
-Het Koninkrijk der Nederlanden
-
-en
-
-Het Koninkrijk Thailand,
-
-Rekening houdende met de wet- en regelgeving van de Partijen over de tenuitvoerlegging van strafvonnissen;
-
-Geleid door de wens bij de tenuitvoerlegging van strafvonnissen samen te werken;
-
-Overwegende dat het belang van de rechtsbedeling met deze samenwerking gediend is;
-
-Geleid door de wens succesvolle resocialisatie van gevonniste personen in de samenleving te bevorderen;
-
-Overwegende dat deze doelstellingen het beste kunnen worden verwezenlijkt door vreemdelingen die ten gevolge van het plegen van een strafbaar feit de vrijheid is ontnomen, in de gelegenheid te stellen de hen opgelegde sanctie in hun eigen samenleving te ondergaan;
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en Het Koninkrijk Thailand, Rekening houdende met de wet- en regelgeving van de Partijen over de tenuitvoerlegging van strafvonnissen; Geleid door de wens bij de tenuitvoerlegging van strafvonnissen samen te werken; Overwegende dat het belang van de rechtsbedeling met deze samenwerking gediend is; Geleid door de wens succesvolle resocialisatie van gevonniste personen in de samenleving te bevorderen; Overwegende dat deze doelstellingen het beste kunnen worden verwezenlijkt door vreemdelingen die ten gevolge van het plegen van een strafbaar feit de vrijheid is ontnomen, in de gelegenheid te stellen de hen opgelegde sanctie in hun eigen samenleving te ondergaan; Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -78,19 +41,19 @@ Toepassing van het Verdrag gebeurt onder de volgende voorwaarden:
 
 - c. de dader is niet veroordeeld wegens een strafbaar feit krachtens het recht van Thailand, tegen:
 
-- –. de interne of externe veiligheid van de Staat;
+   - – de interne of externe veiligheid van de Staat;
 
-- –. de Koning, zijn gemalin of zijn zonen of dochters; of
+   - – de Koning, zijn gemalin of zijn zonen of dochters; of
 
-- –. de bescherming van nationale kunstschatten;
+   - – de bescherming van nationale kunstschatten;
 
 - d. de veroordeling die tegen de dader is uitgesproken houdt een gevangenisstraf, opsluiting of enige andere vorm van vrijheidsbeneming in van:
 
-- –. levenslange duur;
+   - – levenslange duur;
 
-- –. onbepaalde duur wegens een geestelijke stoornis; of
+   - – onbepaalde duur wegens een geestelijke stoornis; of
 
-- –. bepaalde duur, in welk geval nog ten minste een jaar moet worden ondergaan op het tijdstip waarop het verzoek tot overbrenging wordt gedaan;
+   - – bepaalde duur, in welk geval nog ten minste een jaar moet worden ondergaan op het tijdstip waarop het verzoek tot overbrenging wordt gedaan;
 
 - e. de dader mag, indien dit naar het recht van de overdragende Staat is vereist, niet worden overgebracht tenzij hij in de overdragende Staat een minimumperiode van gevangenschap, opsluiting of enige andere vorm van vrijheidsbeneming al heeft ondergaan;
 
@@ -170,29 +133,17 @@ Dit Verdrag is van toepassing op de tenuitvoerlegging van vonnissen die hetzij v
 
 2. Met inachtneming van het in het eerste lid genoemde tijdvak, zijn het Koninkrijk der Nederlanden en het Koninkrijk Thailand gerechtigd de toepassing van dit Verdrag afzonderlijk te beëindigen ten aanzien van elk deel van het Koninkrijk der Nederlanden.
 
-The negotiations on the draft Treaty on the Transfer of Offenders and on Co-operation in the Enforcement of Penal Sentences between the Kingdom of the Netherlands and the Kingdom of Thailand were held on 22 and 23 March 2004 in Bangkok. The Thai Delegation was led by Mr. Viraphand Vacharathit, Director-General of the Department of Treaties and Legal Affairs, Ministry of Foreign Affairs, and the Netherlands Delegation by H.E. Mr. Gerard J.H.C. Kramer, Ambassador of the Kingdom of the Netherlands to Thailand. The lists of delegates of both sides appear in Annexes II and III, respectively.
-
-The negotiations were held in a friendly atmosphere and in a spirit of mutual understanding and cooperation. The agreed English text of the draft Treaty was initialed on 23 March 2004 and appears in Annex I.
-
-The delegations reviewed the articles of the draft Treaty which were agreed upon at the first round of negotiations held in The Hague on 24-26 November 2003, and discussed the remaining articles. The two delegations agreed on all articles of the draft Treaty and on the following understanding:
-
-De onderhandelingen over het ontwerpverdrag inzake de overbrenging van daders en de samenwerking bij de tenuitvoerlegging van strafvonnissen tussen het Koninkrijk der Nederlanden en het Koninkrijk Thailand hebben plaatsgevonden in Bangkok op 22 en 23 maart 2004. De Thaise delegatie werd geleid door de heer Viraphand Vacharathit, Directeur-Generaal van de Afdeling Verdragen en Juridische Zaken van het ministerie van Buitenlandse Zaken en de Nederlandse delegatie door Zijne Excellentie de heer Gerard J.H.C. Kramer, Ambassadeur van het Koninkrijk der Nederlanden in Thailand. De lijsten van de delegatieleden aan beide zijden zijn opgenomen in respectievelijk Bijlage II en III.
-
-De onderhandelingen verliepen in een vriendschappelijke sfeer en in een geest van samenwerking en wederzijds begrip. De overeengekomen Engelse tekst van het ontwerpverdrag is geparafeerd op 23 maart 2004 en opgenomen in Bijlage I.
-
-De delegaties hebben de artikelen van het ontwerpverdrag waarover overeenstemming was bereikt tijdens de eerste onderhandelingsronde, die van 24 tot en met 26 november 2003 plaatsvond te Den Haag, nagelopen en hebben de overige artikelen besproken. De twee delegaties hebben overeenstemming bereikt over alle artikelen van het ontwerpverdrag met inachtneming van het volgende:
-
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend.
 
 GEDAAN te 's-Gravenhage, op 23 augustus 2004, in tweevoud, in de Thaise, de Nederlandse en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschillen in de uitlegging tussen de Nederlandse en de Thaise tekst, is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 BERNARD R. BOT
 
 Minister van Buitenlandse Zaken
 
-**Voor het Koninkrijk Thailand**
+*Voor het Koninkrijk Thailand*
 
 THANA DUANGRATANA
 

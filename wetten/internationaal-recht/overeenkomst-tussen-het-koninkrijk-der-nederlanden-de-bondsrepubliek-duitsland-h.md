@@ -1,47 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland, het Land Nedersaksen en het Land Noordrijn-Westfalen inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten"
 identifier: "BWBV0002367"
-country: "nl"
-rank: "verdrag"
-publication_date: "1993-01-01"
-last_updated: "1993-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002367"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002847863"
-version_id: "10002847712"
-internal_id: "C10006976691"
-label_id: "10002835384"
-dtd_version: "2.0"
-original_entry_into_force: "1993-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002367/1993-01-01/0"
-intitule_bron: "Trb.1991-102"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-10-22"
-intitule_published: "1991-07-10"
-intitule_in_force: "1992-12-30"
-intitule_status: "goed"
-original_publication: "Trb.1991-102"
-original_signed_date: "1992-10-22"
-original_published_date: "1991-07-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1991-102"
-entry_into_force_date: "1993-01-01"
-jci_1_3: "jci1.3:c:BWBV0002367&z=1993-01-01&g=1993-01-01"
-jci_1_0: "1.0:c:BWBV0002367&g=1993-01-01"
-citeertitel_status: "officieel"
-signed_date: "1992-10-22"
-entry_into_force: "1993-01-01"
+publicatiedatum: 1993-01-01
+laatste_update: 1993-01-01
+status: geldig
+toestand: 1993-01-01
+bron: "https://wetten.overheid.nl/BWBV0002367"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland, het Land Nedersaksen en het Land Noordrijn-Westfalen inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten
 
-Het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland, het Land Nedersaksen en het Land Noordrijn-Westfalen,
-
-zich bewust van de uit grensoverschrijdende samenwerking voortvloeiende voordelen, zoals omschreven in de op 21 mei 1980 te Madrid gesloten Europese Kaderovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten,
-
-geleid door de wens voor deze gemeenschappen of autoriteiten de mogelijkheid te scheppen op publiekrechtelijke basis samen te werken,
-
-zijn overeengekomen als volgt:
+*Het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland, het Land Nedersaksen en het Land Noordrijn-Westfalen, zich bewust van de uit grensoverschrijdende samenwerking voortvloeiende voordelen, zoals omschreven in de op 21 mei 1980 te Madrid gesloten Europese Kaderovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten, geleid door de wens voor deze gemeenschappen of autoriteiten de mogelijkheid te scheppen op publiekrechtelijke basis samen te werken, zijn overeengekomen als volgt:*
 
 ##### Artikel 1. Reikwijdte
 
@@ -223,20 +195,20 @@ TEN BLIJKE WAARVAN de daartoe behoorlijk bevoegd verklaarde gevolmachtigden deze
 
 GEDAAN te Isselburg-Anholt, op 23 mei 1991 in vier oorspronkelijke exemplaren in de Nederlandse en de Duitse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 (w.g.) H. VAN DEN BROEK
 
 (w.g.) I. DALES
 
-**Voor de Bondsrepubliek Duitsland,**
+*Voor de Bondsrepubliek Duitsland,*
 
 (w.g.) HANS-DIETRICH GENSCHER
 
-**Voor het Land Nedersaksen,**
+*Voor het Land Nedersaksen,*
 
 (w.g.) GERHARDT SCHRÖDER
 
-**Voor het Land Noordrijn-Westfalen,**
+*Voor het Land Noordrijn-Westfalen,*
 
 (w.g.) JOHANNES RAU

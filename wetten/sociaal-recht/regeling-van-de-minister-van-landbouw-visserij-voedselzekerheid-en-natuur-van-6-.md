@@ -9,7 +9,7 @@ laatste_update: 2026-09-09
 status: geldig
 toestand: 2026-09-09
 bron: "https://wetten.overheid.nl/BWBR0053086"
-opgehaald: 2026-09-11
+opgehaald: 2026-09-12
 ---
 
 # Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 6 september 2026, nr. WJZ/108066175, houdende regels voor het verstrekken van specifieke uitkeringen in verband met de uitvoering van de gebiedsgerichte aanpak (Regeling specifieke uitkering gebiedsgerichte aanpak) [KetenID WGK29414]

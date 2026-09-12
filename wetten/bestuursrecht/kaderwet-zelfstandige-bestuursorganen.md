@@ -9,7 +9,7 @@ laatste_update: 2022-07-01
 status: geldig
 toestand: 2022-07-01
 bron: "https://wetten.overheid.nl/BWBR0020495"
-opgehaald: 2026-09-11
+opgehaald: 2026-09-12
 ---
 
 # Wet van 2 november 2006, houdende regels betreffende zelfstandige bestuursorganen (Kaderwet zelfstandige bestuursorganen)

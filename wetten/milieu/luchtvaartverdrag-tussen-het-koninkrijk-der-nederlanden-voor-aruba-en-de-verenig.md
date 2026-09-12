@@ -1,53 +1,19 @@
 ---
 title: "Luchtvaartverdrag tussen het Koninkrijk der Nederlanden voor Aruba en de Verenigde Staten van Amerika inzake het luchtvervoer tussen Aruba en de Verenigde Staten van Amerika"
 identifier: "BWBV0001977"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-04-28"
-last_updated: "1998-06-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001977"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10002589463"
-version_id: "10002580682"
-internal_id: "C10006990571"
-label_id: "10002578864"
-dtd_version: "2.0"
-original_entry_into_force: "1998-06-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001977/2008-04-28/0"
-intitule_bron: "Trb.1997-276"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-09-18"
-intitule_published: "1997-10-21"
-intitule_in_force: "1998-06-18"
-intitule_status: "goed"
-original_publication: "Trb.1997-276"
-original_signed_date: "1997-09-18"
-original_published_date: "1997-10-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1997-276"
-entry_into_force_date: "1998-06-11"
-jci_1_3: "jci1.3:c:BWBV0001977&z=2008-04-28&g=2008-04-28"
-jci_1_0: "1.0:c:BWBV0001977&g=2008-04-28"
-citeertitel_status: "redactioneel"
-signed_date: "1997-09-18"
-entry_into_force: "1998-06-11"
+publicatiedatum: 1998-06-11
+laatste_update: 2008-04-28
+status: geldig
+toestand: 2008-04-28
+bron: "https://wetten.overheid.nl/BWBV0001977"
+opgehaald: 2026-09-12
 ---
+
 # Luchtvaartverdrag tussen het Koninkrijk der Nederlanden voor Aruba en de Verenigde Staten van Amerika inzake het luchtvervoer tussen Aruba en de Verenigde Staten van Amerika
 
-The Kingdom of the Netherlands in respect of Aruba and United States of America (hereinafter, “the Parties");
-
-Desiring to promote an international aviation system based on competition among airlines in the marketplace with minimum government interference and regulation;
-
-Desiring to facilitate the expansion of international air transport opportunities;
-
-Desiring to make it possible for airlines to offer the traveling and shipping public a variety of service options at the lowest prices that are not discriminatory and do not represent abuse of a dominant position, and wishing to encourage individual airlines to develop and implement innovative and competitive prices;
-
-Desiring to ensure the highest degree of safety and security in international air transport and reaffirming their grave concern about acts or threats against the security of aircraft, which jeopardize the safety of persons or property, adversely affect the operation of air transportation, and undermine public confidence in the safety of civil aviation; and
-
-Being Parties to the Convention on International Civil Aviation, opened for signature at Chicago on December 7, 1944;
-
-Have agreed as follows:
+*The Kingdom of the Netherlands in respect of Aruba and United States of America (hereinafter, “the Parties"); Desiring to promote an international aviation system based on competition among airlines in the marketplace with minimum government interference and regulation; Desiring to facilitate the expansion of international air transport opportunities; Desiring to make it possible for airlines to offer the traveling and shipping public a variety of service options at the lowest prices that are not discriminatory and do not represent abuse of a dominant position, and wishing to encourage individual airlines to develop and implement innovative and competitive prices; Desiring to ensure the highest degree of safety and security in international air transport and reaffirming their grave concern about acts or threats against the security of aircraft, which jeopardize the safety of persons or property, adversely affect the operation of air transportation, and undermine public confidence in the safety of civil aviation; and Being Parties to the Convention on International Civil Aviation, opened for signature at Chicago on December 7, 1944; Have agreed as follows:*
 
 ##### Article 1. Definitions
 
@@ -63,9 +29,9 @@ For the purposes of this Agreement, unless otherwise stated, the term:
 
 - 5. “Convention" means the Convention on International Civil Aviation, opened for signature at Chicago on December 7, 1944, and includes:
 
-- a). any amendment that has entered into force under Article 94(a) of the Convention and has been ratified by both Parties, and
+   - a) any amendment that has entered into force under Article 94(a) of the Convention and has been ratified by both Parties, and
 
-- b). any Annex or any amendment thereto adopted under Article 90 of the Convention, insofar as such Annex or amendment is at any given time effective for both Parties;
+   - b) any Annex or any amendment thereto adopted under Article 90 of the Convention, insofar as such Annex or amendment is at any given time effective for both Parties;
 
 - 6. “Designated airline" means an airline designated and authorized in accordance with Article 3 of this Agreement;
 
@@ -87,11 +53,11 @@ For the purposes of this Agreement, unless otherwise stated, the term:
 
 1. Each Party grants to the other Party the following rights for the conduct of international air transportation by the designated airlines of the other Party:
 
-- a). the right to fly across its territory without landing;
+- a) the right to fly across its territory without landing;
 
-- b). the right to make stops in its territory for non-traffic purposes; and
+- b) the right to make stops in its territory for non-traffic purposes; and
 
-- c). the rights otherwise specified in this Agreement.
+- c) the rights otherwise specified in this Agreement.
 
 2. Nothing in this Article shall be deemed to confer on the airline or airlines of one Party the rights to take on board, in the territory of the other Party, passengers, their baggage, cargo, or mail carried for compensation and destined for another point in the territory of that other Party.
 
@@ -101,21 +67,21 @@ For the purposes of this Agreement, unless otherwise stated, the term:
 
 2. On receipt of such a designation, and of applications from the designated airline, in the form and manner prescribed for operating authorizations and technical permissions, the other Party shall grant appropriate authorizations and permissions with minimum procedural delay, provided:
 
-- a). substantial ownership and effective control of that airline are vested in the government designating the airline, Nationals of the Party, or both;
+- a) substantial ownership and effective control of that airline are vested in the government designating the airline, Nationals of the Party, or both;
 
-- b). the designated airline is qualified to meet the conditions prescribed under the laws and regulations normally applied to the operation of international air transportation by the Party considering the application or applications; and
+- b) the designated airline is qualified to meet the conditions prescribed under the laws and regulations normally applied to the operation of international air transportation by the Party considering the application or applications; and
 
-- c). the government designating the airline is maintaining and administering the standards set forth in Article 6 (Safety) and Article 7 (Aviation Security).
+- c) the government designating the airline is maintaining and administering the standards set forth in Article 6 (Safety) and Article 7 (Aviation Security).
 
 ##### Article 4. Revocation of Authorization
 
 1. Either Party may revoke, suspend or limit the operating authorizations or technical permissions of an airline designated by the other Party where:
 
-- a). substantial ownership and effective control of that airline are not vested in the other designating government, the Party's Nationals, or both;
+- a) substantial ownership and effective control of that airline are not vested in the other designating government, the Party's Nationals, or both;
 
-- b). that airline has failed to comply with the laws and regulations referred to in Article 5 (Application of Laws) of this Agreement; or
+- b) that airline has failed to comply with the laws and regulations referred to in Article 5 (Application of Laws) of this Agreement; or
 
-- c). the other Party is not maintaining and administering the standards as set forth in Article 6 (Safety).
+- c) the other Party is not maintaining and administering the standards as set forth in Article 6 (Safety).
 
 2. Unless immediate action is essential to prevent further noncompliance with subparagraphs 1b or 1c of this Article, the rights established by this Article shall be exercised only after consultation with the other Party.
 
@@ -163,9 +129,9 @@ For the purposes of this Agreement, unless otherwise stated, the term:
 
 7. In operating or holding out the authorized services on the agreed routes, any designated airline of one Party may enter into cooperative marketing arrangements such as blocked-space, code-sharing or leasing arrangements, with
 
-- a). an airline or airlines of either Party; and
+- a) an airline or airlines of either Party; and
 
-- b). an airline or airlines of a third country, provided that such third country authorizes or allows comparable arrangements between the airlines of the other Party and other airlines on services to, from and via such third country;
+- b) an airline or airlines of a third country, provided that such third country authorizes or allows comparable arrangements between the airlines of the other Party and other airlines on services to, from and via such third country;
 
 provided that all airlines in such arrangements (i) hold the appropriate authority and (ii) meet the requirements normally applied to such arrangements.
 
@@ -177,13 +143,13 @@ provided that all airlines in such arrangements (i) hold the appropriate authori
 
 2. There shall also be exempt, on the basis of reciprocity, from the taxes, levies, duties, fees and charges referred to in paragraph 1 of this Article, with the exception of charges based on the cost of the service provided:
 
-- a). aircraft stores introduced into or supplied in the territory of a Party and taken on board, within reasonable limits, for use on outbound aircraft of an airline of the other Party engaged in international air transportation, even when these stores are to be used on a part of the journey performed over the territory of the Party in which they are taken on board;
+- a) aircraft stores introduced into or supplied in the territory of a Party and taken on board, within reasonable limits, for use on outbound aircraft of an airline of the other Party engaged in international air transportation, even when these stores are to be used on a part of the journey performed over the territory of the Party in which they are taken on board;
 
-- b). ground equipment and spare parts (including engines) introduced into the territory of a Party for the servicing, maintenance, or repair of aircraft of an airline of the other Party used in international air transportation; and
+- b) ground equipment and spare parts (including engines) introduced into the territory of a Party for the servicing, maintenance, or repair of aircraft of an airline of the other Party used in international air transportation; and
 
-- c). fuel, lubricants and consumable technical supplies introduced into or supplied in the territory of a Party for use in an aircraft of an airline of the other Party engaged in international air transportation, even when these supplies are to be used on a part of the journey performed over the territory of the Party in which they are taken on board.
+- c) fuel, lubricants and consumable technical supplies introduced into or supplied in the territory of a Party for use in an aircraft of an airline of the other Party engaged in international air transportation, even when these supplies are to be used on a part of the journey performed over the territory of the Party in which they are taken on board.
 
-- d). promotional and advertising materials introduced into or supplied in the territory of one Party and taken on board, within reasonable limits, for use on outbound aircraft of an airline of the other Party engaged in international air transportation, even when these stores are to be used on a part of the journey performed over the territory of the Party in which they are taken on board.
+- d) promotional and advertising materials introduced into or supplied in the territory of one Party and taken on board, within reasonable limits, for use on outbound aircraft of an airline of the other Party engaged in international air transportation, even when these stores are to be used on a part of the journey performed over the territory of the Party in which they are taken on board.
 
 3. Equipment and supplies referred to in paragraphs 1 and 2 of this Article may be required to be kept under the supervision or control of the appropriate authorities.
 
@@ -213,11 +179,11 @@ provided that all airlines in such arrangements (i) hold the appropriate authori
 
 1. Each Party shall allow prices for air transportation to be established by each designated airline based upon commercial considerations in the marketplace. Intervention by the Parties shall be limited to:
 
-- a). prevention of unreasonably discriminatory prices or practices;
+- a) prevention of unreasonably discriminatory prices or practices;
 
-- b). protection of consumers from prices that are unreasonably high or restrictive due to the abuse of a dominant position; and
+- b) protection of consumers from prices that are unreasonably high or restrictive due to the abuse of a dominant position; and
 
-- c). protection of airlines from prices that are artificially low due to direct or indirect governmental subsidy or support.
+- c) protection of airlines from prices that are artificially low due to direct or indirect governmental subsidy or support.
 
 2. Each Party may require notification to or filing with its aeronautical authorities of prices to be charged to or from its territory by airlines of the other Party. Notification or filing by the airlines of both Parties may be required no more than 30 days before the proposed date of effectiveness. In individual cases, notification or filing may be permitted on shorter notice than normally required. Neither Party shall require the notification or filing by airlines of the other Party of prices charged by charterers to the public, except as may be required on a non-discriminatory basis for information purposes.
 
@@ -233,9 +199,9 @@ Either Party may, at any time, request consultations relating to this Agreement.
 
 2. Arbitration shall be by a tribunal of three arbitrators to be constituted as follows:
 
-- a). Within 30 days after the receipt of a request for arbitration, each Party shall name one arbitrator. Within 60 days after these two arbitrators have been named, they shall by agreement appoint a third arbitrator, who shall act as President of the arbitral tribunal;
+- a) Within 30 days after the receipt of a request for arbitration, each Party shall name one arbitrator. Within 60 days after these two arbitrators have been named, they shall by agreement appoint a third arbitrator, who shall act as President of the arbitral tribunal;
 
-- b). If either Party fails to name an arbitrator, or if the third arbitrator is not appointed in accordance with subparagraph a of this paragraph, either Party may request the President of the Council of the International Civil Aviation Organization to appoint the necessary arbitrator or arbitrators within 30 days. If the President of the Council is of the same nationality as one of the Parties, the most senior Vice President who is not disqualified on that ground shall make the appointment.
+- b) If either Party fails to name an arbitrator, or if the third arbitrator is not appointed in accordance with subparagraph a of this paragraph, either Party may request the President of the Council of the International Civil Aviation Organization to appoint the necessary arbitrator or arbitrators within 30 days. If the President of the Council is of the same nationality as one of the Parties, the most senior Vice President who is not disqualified on that ground shall make the appointment.
 
 3. Except as otherwise agreed, the arbitral tribunal shall determine the limits of its jurisdiction in accordance with this Agreement and shall establish its own procedural rules. The tribunal, once formed, may recommend interim relief measures pending its final determination. At the direction of the tribunal or at the request of either of the Parties, a conference to determine the precise issues to be arbitrated and the specific procedures to be followed shall be held not later than 15 days after the tribunal is fully constituted.
 
@@ -267,11 +233,11 @@ IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Go
 
 DONE AT Washington in duplicate, this eighteenth day of September 1997, in duplicate.
 
-**For the Kingdom of the Netherlands in respect of Aruba**
+*For the Kingdom of the Netherlands in respect of Aruba*
 
 (sd.) JACOBOVITS DE SEGED
 
-**For the United States of America**
+*For the United States of America*
 
 (sd.) STUART EIZENSTAT
 

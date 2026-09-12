@@ -1,273 +1,247 @@
 ---
 title: "Verdrag inzake de erkenning van echtscheidingen en scheidingen van tafel en bed"
 identifier: "BWBV0002004"
-country: "nl"
-rank: "verdrag"
-publication_date: "1981-08-22"
-last_updated: "1981-08-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002004"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002601023"
-version_id: "10002598102"
-internal_id: "C10006983521"
-label_id: "10002590464"
-dtd_version: "2.0"
-original_entry_into_force: "1981-08-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002004/1981-08-22/0"
-intitule_bron: "Trb.1979-131"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1981-06-23"
-intitule_published: "1979-09-06"
-intitule_in_force: "1981-06-25"
-intitule_status: "goed"
-original_publication: "Trb.1979-131"
-original_signed_date: "1981-06-23"
-original_published_date: "1979-09-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1979-131"
-entry_into_force_date: "1981-08-22"
-jci_1_3: "jci1.3:c:BWBV0002004&z=1981-08-22&g=1981-08-22"
-jci_1_0: "1.0:c:BWBV0002004&g=1981-08-22"
-citeertitel_status: "redactioneel"
-signed_date: "1981-06-23"
-entry_into_force: "1981-08-22"
+publicatiedatum: 1981-08-22
+laatste_update: 1981-08-22
+status: geldig
+toestand: 1981-08-22
+bron: "https://wetten.overheid.nl/BWBV0002004"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag inzake de erkenning van echtscheidingen en scheidingen van tafel en bed
 
-De Staten die dit Verdrag hebben ondertekend,
+*The States signatory to the present Convention, Desiring to facilitate the recognition of divorces and legal separations obtained in their respective territories, Have resolved to conclude a Convention to this effect, and have agreed on the following provisions -*
 
-Geleid door de wens de erkenning van echtscheidingen en scheidingen van tafel en bed die zijn verkregen in hun onderscheidene grondgebieden, te vergemakkelijken,
+##### Article 1
 
-Hebben besloten hiertoe een Verdrag te sluiten en zijn overeengekomen als volgt:
+The present Convention shall apply to the recognition in one Contracting State of divorces and legal separations obtained in another Contracting State which follow judicial or other proceedings officially recognized in that State and which are legally effective there.
 
-##### Artikel 1
+The Convention does not apply to findings of fault or to ancillary orders pronounced on the making of a decree of divorce or legal separation; in particular, it does not apply to orders relating to pecuniary obligations or to the custody of children.
 
-Dit Verdrag is van toepassing op de erkenning, in een Verdragsluitende Staat, van echtscheidingen en scheidingen van tafel en bed die in een andere Verdragsluitende Staat zijn verkregen ingevolge een gerechtelijke of een andere in die Staat officieel erkende procedure en die daar rechtsgeldig zijn.
+##### Article 2
 
-Het Verdrag heeft geen betrekking op beslissingen inzake de schuldvraag noch op bijkomende maatregelen of veroordelingen uitgesproken bij de toewijzing van het verzoek tot echtscheiding of scheiding van tafel en bed, in het bijzonder veroordelingen tot betaling van geldsommen of beschikkingen inzake het gezag over kinderen.
+Such divorces and legal separations shall be recognized in all other Contracting States, subject to the remaining terms of this Convention, if, at the date of the institution of the proceedings in the State of the divorce or legal separation (hereinafter called 'the State of origin') -
 
-##### Artikel 2
+- (1) the respondent had his habitual residence there; or
 
-Deze echtscheidingen en scheidingen van tafel en bed worden onder voorbehoud van de overige bepalingen van dit Verdrag in elke andere Verdragsluitende Staat erkend, indien op de datum waarop in de Staat waar de vordering tot echtscheiding of scheiding van tafel en bed werd ingesteld (hierna te noemen: „Staat van herkomst"):
+- (2) the petitioner had his habitual residence there and one of the following further conditions was fulfilled -
 
-- 1. de gedaagde daar zijn gewone verblijfplaats had; of
+   - (a) such habitual residence had continued for not less than one year immediately prior to the institution of proceedings;
 
-- 2. de eiser daar zijn gewone verblijfplaats had en bovendien aan een der volgende voorwaarden was voldaan:
+   - (b) the spouses last habitually resided there together; or
 
-- a). hij heeft gedurende ten minste een jaar onmiddellijk voorafgaand aan de datum van indiening van de vordering, daar zijn gewone verblijfplaats gehad;
+- (3) both spouses were nationals of that State; or
 
-- b). de echtgenoten hadden daar laatstelijk hun gezamenlijke gewone verblijfplaats; of
+- (4) the petitioner was a national of that State and one of the following further conditions was fulfilled -
 
-- 3. beide echtgenoten onderdanen waren van die Staat; of
+   - (a) the petitioner had his habitual residence there; or
 
-- 4. de eiser onderdaan van die Staat was en bovendien aan een van de volgende voorwaarden was voldaan:
+   - (b) he had habitually resided there for a continuous period of one year falling, at least in part, within the two years preceding the institution of the proceedings; or
 
-- a). de eiser had daar zijn gewone verblijfplaats; of
+- (5) the petitioner for divorce was a national of that State and both the following further conditions were fulfilled -
 
-- b). had daar zijn gewone verblijfplaats gehad gedurende een aaneengesloten periode van een jaar welke althans gedeeltelijk valt in het tijdvak van de twee jaar voorafgaande aan de datum van instelling van de vordering; of
+   - (a) the petitioner was present in that State at the date of institution of the proceedings and
 
-- 5. de eiser tot echtscheiding onderdaan was van die Staat en bovendien aan de twee volgende voorwaarden was voldaan:
+   - (b) the spouses last habitually resided together in a State whose law, at the date of institution of the proceedings, did not provide for divorce.
 
-- a). de eiser was in die Staat aanwezig op de datum van de instelling van de vordering en
+##### Article 3
 
-- b). de echtgenoten hadden laatstelijk hun gezamenlijke gewone verblijfplaats in een Staat waarvan de wet op de datum van de instelling van de vordering geen echtscheiding kende.
+Where the State of origin uses the concept of domicile as a test of jurisdiction in matters of divorce or legal separation, the expression 'habitual residence' in Article 2 shall be deemed to include domicile as the term is used in that State.
 
-##### Artikel 3
+Nevertheless, the preceeding paragraph shall not apply to the domicile of dependence of a wife.
 
-Wanneer bevoegdheid ter zake van echtscheiding of scheiding van tafel en bed in de Staat van herkomst kan worden gegrond op de woonplaats, dan wordt de uitdrukking „gewone verblijfplaats" in artikel 2 geacht mede te omvatten de woonplaats, in de betekenis die aan deze term wordt gehecht in die Staat.
+##### Article 4
 
-Het voorgaande lid is evenwel niet van toepassing op de woonplaats van de gehuwde vrouw indien deze rechtens afhankelijk is van de verblijfplaats van de man.
+Where there has been a cross-petition, a divorce or legal separation following upon the petition or cross-petition shall be recognized if either falls within the terms of Articles 2 or 3.
 
-##### Artikel 4
+##### Article 5
 
-Indien een eis in reconventie is ingesteld wordt de op de eis in conventie of in reconventie uitgesproken echtscheiding of scheiding van tafel en bed erkend, indien één van beide voldoet aan de voorwaarden gesteld in artikel 2 of 3.
+Where a legal separation complying with the terms of this Convention has been converted into a divorce in the State of origin, the recognition of the divorce shall not be refused for the reason that the conditions stated in Articles 2 or 3 were no longer fulfilled at the time of the institution of the divorce proceedings.
 
-##### Artikel 5
+##### Article 6
 
-Wanneer een scheiding van tafel en bed welke voldoet aan de bepalingen van dit Verdrag in de Staat van herkomst is omgezet in echtscheiding, kan de erkenning van die echtscheiding niet worden geweigerd op grond dat aan het bepaalde in artikel 2 of 3 niet meer was voldaan ten tijde van de instelling van de vordering tot echtscheiding.
+Where the respondent has appeared in the proceedings, the authorities of the State in which recognition of a divorce or legal separation is sought shall be bound by the findings of fact on which jurisdiction was assumed.
 
-##### Artikel 6
+The recognition of a divorce or legal separation shall not be refused -
 
-Wanneer de gedaagde in het geding is verschenen, zijn de autoriteiten van de Staat waar de erkenning van een echtscheiding of van een scheiding van tafel en bed wordt ingeroepen, gebonden aan de vaststelling van de feiten waarop de bevoegdheid was gegrond.
+- (a) because the internal law of the State in which such recognition is sought would not allow divorce or, as the case may be, legal ration upon the same facts, or,
 
-De erkenning van de echtscheiding of de scheiding van tafel en bed kan niet worden geweigerd op grond dat:
+- (b) because a law was applied other than that applicable under the rules of private international law of that State.
 
-- a). hetzij de interne wet van de Staat waar deze erkenning wordt ingeroepen, echtscheiding dan wel scheiding van tafel en bed op grond van dezelfde feiten niet toelaat;
+Without prejudice to such review as may be necessary for the application of other provisions of this Convention, the authorities of the State in which recognition of a divorce or legal separation is sought shall not examine the merits of the decision.
 
-- b). hetzij een andere wet is toegepast dan die welke volgens de regels van het internationaal privaatrecht van die Staat toepasselijk is.
+##### Article 7
 
-Onder voorbehoud van het onderzoek dat voor de toepassing van andere bepalingen van dit Verdrag nodig kan zijn, mogen de autoriteiten van de Staat waar de erkenning van een echtscheiding of een scheiding van tafel en bed wordt ingeroepen, niet de gronden van de beslissing in hun onderzoek betrekken.
+Contracting States may refuse to recognize a divorce when, at the time it was obtained, both the parties were nationals of States which did not provide for divorce and of no other State.
 
-##### Artikel 7
+##### Article 8
 
-Elke Verdragsluitende Staat kan de erkenning weigeren van een echtscheiding indien op het tijdstip dat deze werd verkregen, beide echtgenoten uitsluitend onderdanen waren van Staten waarvan de wet geen echtscheiding kent.
+If, in the light of all the circumstances, adequate steps were not taken to give notice of the proceedings for a divorce or legal separation to the respondent, or if he was not afforded a sufficient opportunity to present his case, the divorce or legal separation may be refused recognition.
 
-##### Artikel 8
+##### Article 9
 
-Indien, alle omstandigheden in aanmerking genomen, niet de nodige stappen zijn ondernomen om de gedaagde in kennis te stellen van de vordering tot echtscheiding of scheiding van tafel en bed, of indien de gedaagde niet in staat is gesteld zijn rechten te doen gelden, kan de erkenning van de echtscheiding of de scheiding van tafel en bed worden geweigerd.
+Contracting States may refuse to recognize a divorce or legal separation if it is incompatible with a previous decision determining the matrimonial status of the spouses and that decision either was rendered in the State in which recognition is sought, or is recognized, or fulfils the conditions required for recognition, in that State.
 
-##### Artikel 9
+##### Article 10
 
-Een Verdragsluitende Staat kan weigeren een echtscheiding of een scheiding van tafel en bed te erkennen indien deze onverenigbaar is met een eerdere beslissing welke in hoofdzaak de huwelijkse staat der echtgenoten betreft en die hetzij is gegeven in de Staat waar de erkenning wordt ingeroepen, hetzij daar is erkend, of voldoet aan de voorwaarden voor erkenning in die Staat.
+Contracting States may refuse to recognize a divorce or legal separation if such recognition is manifestly incompatible with their public policy ('ordre public').
 
-##### Artikel 10
+##### Article 11
 
-Een Verdragsluitende Staat kan weigeren een echtscheiding of een scheiding van tafel en bed te erkennen indien deze klaarblijkelijk in strijd is met de openbare orde.
+A State which is obliged to recognize a divorce under this Convention may not preclude either spouse from remarrying on the ground that the law of another State does not recognize that divorce.
 
-##### Artikel 11
+##### Article 12
 
-Een Staat die ingevolge dit Verdrag verplicht is een echtscheiding te erkennen, kan geen van beide echtgenoten verbieden te hertrouwen op de grond dat de wet van een andere Staat die echtscheiding niet erkent.
+Proceedings for divorce or legal separation in any Contracting State may be suspended when proceedings relating to the matrimonial status of either party to the marriage are pending in another Contracting State.
 
-##### Artikel 12
+##### Article 13
 
-In elke Verdragsluitende Staat kan de procedure inzake een vordering tot echtscheiding of scheiding van tafel en bed worden geschorst, indien in een andere Verdragsluitende Staat een procedure aanhangig is betreffende de huwelijkse staat van een van beide echtgenoten.
+In the application of this Convention to divorces or legal separations obtained or sought to be recognized in Contracting States having, in matters of divorce or legal separation, two or more legal systems applying in different territorial units -
 
-##### Artikel 13
+- (1) any reference to the law of the State of origin shall be construed as referring to the law of the territory in which the divorce or separation was obtained;
 
-Ten aanzien van echtscheidingen of scheidingen van tafel en bed welke zijn verkregen of waarvan de erkenning wordt ingeroepen in Verdragsluitende Staten die, wat deze onderwerpen betreft, twee of meer in verschillende territoriale eenheden geldende rechtsstelsels kennen:
+- (2) any reference to the law of the State in which recognition is sought shall be construed as referring to the law of the forum; and
 
-- 1). ziet elke verwijzing naar de wet van de Staat van herkomst op de wet van het grondgebied waar de echtscheiding of de scheiding van tafel en bed is verkregen;
+- (3) any reference to domicile or residence in the State of origin shall be construed as referring to domicile or residence in the territory in which the divorce or separation was obtained.
 
-- 2). ziet elke verwijzing naar de wet van de Staat waar erkenning wordt gevraagd op de wet van het forum;
+##### Article 14
 
-- 3). ziet elke verwijzing naar de woonplaats of de verblijfplaats in de Staat van herkomst op de woonplaats of de verblijfplaats op het grondgebied waar de echtscheiding of de scheiding van tafel en bed is verkregen.
+For the purposes of Articles 2 and 3 where the State of origin has in matters of divorce or legal separation, two or more legal systems applying in different territorial units -
 
-##### Artikel 14
+- (1) Article 2, sub-paragraph (3), shall apply where both spouses were nationals of the State of which the territorial unit where the divorce or legal separation was obtained forms a part, and that regardless of the habitual residence of the spouses;
 
-Voor de toepassing van de artikelen 2 en 3 is, wanneer de Staat van herkomst inzake echtscheiding of scheiding van tafel en bed twee of meer in verschillende territoriale eenheden geldende rechtsstelsels kent:
+- (2) Article 2, sub-paragraphs (4) and (5), shall apply where the petitioner was a national of the State of which the territorial unit where the divorce or legal separation was obtained forms a part.
 
-- 1). artikel 2, onder 3) van toepassing wanneer beide echtgenoten onderdanen waren van de Staat waarvan de territoriale eenheid waar de echtscheiding of de scheiding van tafel en bed is verkregen een deel vormt, en zulks ongeacht de gewone verblijfplaats der echtgenoten;
+##### Article 15
 
-- 2). artikel 2, onder 4) en 5) van toepassing wanneer de eiser onderdaan was van de Staat, waarvan de territoriale eenheid waar de echtscheiding of de scheiding van tafel en bed is verkregen, een deel vormt.
+In relation to a Contracting State having, in matters of divorce or legal separation, two or more legal systems applicable to different categories of persons, any reference to the law of that State shall be construed as referring to the legal system specified by the law of that State.
 
-##### Artikel 15
+##### Article 16
 
-Ten aanzien van een Verdragsluitende Staat die inzake echtscheiding of scheiding van tafel en bed twee of meer voor verschillende groepen van personen geldende rechtsstelsels kent, ziet elke verwijzing naar de wet van die Staat op het door het recht van die Staat aangewezen rechtsstelsel.
+When, for the purposes of this Convention, it is necessary to refer to the law of a State, whether or not it is a Contracting State, other than the State of origin or the State in which recognition is sought, and having in matters of divorce or legal separation two or more legal systems of territorial or personal application, reference shall be made to the system specified by the law of that State.
 
-##### Artikel 16
+##### Article 17
 
-Indien het voor de toepassing van dit Verdrag nodig is te verwijzen naar de wet van een andere al of niet Verdragsluitende Staat dan de Staat van herkomst of de Staat van erkenning, en deze Staat inzake echtscheiding of scheiding van tafel en bed twee of meer rechtsstelsels kent die territoriaal of voor groepen van personen gelden, dan heeft de verwijzing betrekking op het door het recht van die Staat aangewezen stelsel.
+This Convention shall not prevent the application in a Contracting State of rules of law more favourable to the recognition of foreign divorces and legal separations.
 
-##### Artikel 17
+##### Article 18
 
-Dit Verdrag vormt geen beletsel voor de toepassing in een Verdragsluitende Staat van rechtsregels die gunstiger zijn voor de erkenning van in het buitenland verkregen echtscheidingen en scheidingen van tafel en bed.
+This Convention shall not affect the operation of other conventions to which one or several Contracting States are or may in the future become Parties and which contain provisions relating to the subject-matter of this Convention.
 
-##### Artikel 18
+Contracting States, however, should refrain from concluding other conventions on the same matters incompatible with the terms of this Convention, unless for special reasons based on regional or other ties; and, notwithstanding the terms of such conventions, they undertake to recognize in accordance with this Convention divorces and legal separations granted in Contracting States which are not Parties to such other Conventions.
 
-Dit Verdrag laat onverlet de toepassing van andere overeenkomsten waarbij een of meer Verdragsluitende Staten partij zijn of worden en die bepalingen bevatten betreffende in dit Verdrag geregelde onderwerpen.
+##### Article 19
 
-De Verdragsluitende Staten zien er evenwel op toe, geen andere overeenkomsten inzake dezelfde aangelegenheden te sluiten die onverenigbaar met de bepalingen van dit Verdrag zijn, tenzij hiervoor op regionale of andere banden gegronde redenen bestaan; welke ook de bepalingen van dergelijke overeenkomsten zijn, de Verdragsluitende Staten verplichten zich, in overeenstemming met dit Verdrag, tot erkenning van echtscheidingen en scheidingen van tafel en bed welke zijn verkregen in Verdragsluitende Staten die geen Partij zijn bij die overeenkomsten.
+Contracting States may, not later than the time of ratification or accession, reserve the right -
 
-##### Artikel 19
+- (1) to refuse to recognize a divorce or legal separation between two spouses who, at the time of the divorce or legal separation, were nationals of the State in which recognition is sought, and of no other State, and a law other than that indicated by the rules of private international law of the State of recognition was applied, unless the result reached is the same as that which would have been reached by applying the law indicated by those rules;
 
-Elke Verdragsluitende Staat kan, uiterlijk op het tijdstip van bekrachtiging of toetreding, zich het recht voorbehouden om:
+- (2) to refuse to recognize a divorce when, at the time it was obtained, both parties habitually resided in States which did not provide for divorce. A State which utilizes the reservation stated in this paragraph may not refuse recognition by the application of Article 7.
 
-- 1. een echtscheiding of een scheiding van tafel en bed tussen twee echtgenoten die, op het tijdstip waarop deze is verkregen, uitsluitend zijn onderdanen waren, niet te erkennen wanneer een andere wet dan de door zijn internationaal privaatrecht aangewezen wet is toegepast, tenzij deze toepassing tot hetzelfde resultaat heeft geleid als wanneer men laatstgenoemde wet in acht had genomen;
+##### Article 20
 
-- 2. een echtscheiding tussen twee echtgenoten die, op het tijdstip waarop deze is verkregen, beiden hun gewone verblijfplaats hadden in Staten die geen echtscheiding kennen, niet te erkennen. Een Staat die gebruik maakt van het in dit lid bedoelde voorbehoud kan de erkenning niet weigeren op grond van artikel 7.
+Contracting States whose law does not provide for divorce may, not later than the time of ratification or accession, reserve the right not to recognize a divorce if, at the date it was obtained, one of the spouses was a national of a State whose law did not provide for divorce.
 
-##### Artikel 20
+This reservation shall have effect only so long as the law of the State utilizing it does not provide for divorce.
 
-Een Verdragsluitende Staat waarvan de wet geen echtscheiding kent kan, uiterlijk op het tijdstip van bekrachtiging of toetreding, zich het recht voorbehouden een scheiding niet te erkennen indien, op het tijdstip waarop deze is verkregen, een van beide echtgenoten onderdaan was van een Staat waarvan de wet geen echtscheiding kent.
+##### Article 21
 
-Dit voorbehoud is slechts van kracht zolang de wet van de Staat die hiervan gebruik maakt geen echtscheiding kent.
+Contracting States whose law does not provide for legal separation may, not later than the time of ratification or accession, reserve the right to refuse to recognize a legal separation when, at the time it was obtained, one of the spouses was a national of a Contracting State whose law did not provide for legal separation.
 
-##### Artikel 21
+##### Article 22
 
-Een Verdragsluitende Staat waarvan de wet geen scheiding van tafel en bed kent kan, uiterlijk op het tijdstip van bekrachtiging of toetreding, zich het recht voorbehouden een scheiding van tafel en bed niet te erkennen indien op het tijdstip waarop deze is verkregen, een van beide echtgenoten onderdaan was van een Verdragsluitende Staat waarvan de wet geen scheiding van tafel en bed kent.
+Contracting States may, from time to time, declare that certain categories of persons having their nationality need not be considered their nationals for the purposes of this Convention.
 
-##### Artikel 22
+##### Article 23
 
-Een Verdragsluitende Staat kan te allen tijde verklaren dat bepaalde groepen van personen die zijn nationaliteit hebben, niet kunnen worden beschouwd als zijn onderdanen voor de toepassing van dit Verdrag.
+If a Contracting State has more than one legal system in matters of divorce or legal separation, it may, at the time of signature, ratification or accession, declare that this Convention shall extend to all its legal systems or only to one or more of them, and may modify its declaration by submitting another declaration at any time thereafter.
 
-##### Artikel 23
+These declarations shall be notified to the Ministry of Foreign Affairs of the Netherlands, and shall state expressly the legal systems to which the Convention applies.
 
-Een Verdragsluitende Staat die inzake echtscheiding of scheiding van tafel en bed twee of meer rechtsstelsels heeft, kan op het tijdstip van ondertekening, bekrachtiging of toetreding verklaren dat dit Verdrag zich uitstrekt tot alle rechtsstelsels of slechts tot een of tot enkele daarvan, en kan te allen tijde deze verklaring wijzigen door een nieuwe verklaring af te leggen.
+Contracting States may decline to recognize a divorce or legal separation if, at the date on which recognition is sought, the Convention is not applicable to the legal system under which the divorce or legal separation was obtained.
 
-Deze verklaringen worden ter kennis gebracht van het Ministerie van Buitenlandse Zaken van Nederland en dienen duidelijk de rechtsstelsels aan te geven waarop het Verdrag van toepassing is.
+##### Article 24
 
-Elke Verdragsluitende Staat kan weigeren een echtscheiding of een scheiding van tafel en bed te erkennen indien, op het tijdstip waarop de erkenning wordt ingeroepen, het Verdrag niet van toepassing is op het rechtsstelsel waaronder ze zijn verkregen.
+This Convention applies regardless of the date on which the divorce or legal separation was obtained.
 
-##### Artikel 24
+Nevertheless a Contracting State may, not later than the time of ratification or accession, reserve the right not to apply this Convention to a divorce or to a legal separation obtained before the date on which, in relation to that State, the Convention comes into force.
 
-Dit Verdrag is van toepassing ongeacht het tijdstip waarop de echtscheiding of de scheiding van tafel en bed is verkregen.
+##### Article 25
 
-Elke Verdragsluitende Staat kan evenwel, uiterlijk op het tijdstip van bekrachtiging of toetreding, zich het recht voorbehouden dit Verdrag niet toe te passen op een echtscheiding of een scheiding van tafel en bed die vóór de datum van inwerkingtreding voor die Staat is verkregen.
+Any State may, not later than the moment of its ratification or accession, make one or more of the reservations mentioned in Articles 19, 20, 21 and 24 of the present Convention. No other reservation shall be permitted.
 
-##### Artikel 25
+Each Contracting State may also, when notifying an extension of the Convention in accordance with Article 29, make one or more of the said reservations, with its effect limited to all or some of the territories mentioned in the extension.
 
-Elke Staat kan, uiterlijk op het tijdstip van bekrachtiging of toetreding, een of meer der in de artikelen 19, 20, 21 en 24 van dit Verdrag bedoelde voorbehouden maken. Geen ander voorbehoud is toegestaan.
+Each Contracting State may at any time withdraw a reservation it has made. Such a withdrawal shall be notified to the Ministry of Foreign Affairs of the Netherlands.
 
-Elke Verdragsluitende Staat kan eveneens, bij de kennisgeving van een uitbreiding van het Verdrag overeenkomstig artikel 29, een of meer van deze voorbehouden maken met een tot alle of tot bepaalde in de uitbreiding bedoelde gebieden beperkte werking.
+Such a reservation shall cease to have effect on the sixtieth day after the notification referred to in the preceding paragraph.
 
-Elke Verdragsluitende Staat kan te allen tijde een voorbehoud dat hij heeft gemaakt intrekken. Deze intrekking wordt ter kennis gebracht van het Ministerie van Buitenlandse Zaken van Nederland.
+##### Article 26
 
-Een zodanig voorbehoud houdt op van kracht te zijn op de zestigste dag volgend op de in de vorige alinea genoemde kennisgeving.
+The present Convention shall be open for signature by the States represented at the Eleventh Session of the Hague Conference on Private International Law.
 
-##### Artikel 26
+It shall be ratified, and the instruments of ratification shall be deposited with the Ministry of Foreign Affairs of the Netherlands.
 
-Dit Verdrag staat open voor ondertekening door de Staten die vertegenwoordigd waren op de Elfde Zitting van de Haagse Conferentie voor internationaal privaatrecht.
+##### Article 27
 
-Het dient te worden bekrachtigd en de akten van bekrachtiging dienen te worden nedergelegd bij het Ministerie van Buitenlandse Zaken van Nederland.
+The present Convention shall enter into force on the sixtieth day after the deposit of the third instrument of ratification referred to in the second paragraph of Article 26.
 
-##### Artikel 27
+The Convention shall enter into force for each signatory State which ratifies subsequently on the sixtieth day after the deposit of its instrument of ratification.
 
-Dit Verdrag treedt in werking op de zestigste dag na de nederlegging van de derde akte van bekrachtiging bedoeld in artikel 26, lid 2.
+##### Article 28
 
-Voor elke Verdragsluitende Staat die het Verdrag op een later tijdstip bekrachtigt, treedt het Verdrag in werking op de zestigste dag na de nederlegging van zijn akte van bekrachtiging.
+Any State not represented at the Eleventh Session of the Hague Conference on Private International Law which is a Member of this Conference or of the United Nations or of a specialized agency of that Organisation, or a Party to the Statute of the International Court of Justice may accede to the present Convention after it has entered into force in accordance with the first paragraph of Article 27.
 
-##### Artikel 28
+The instrument of accession shall be deposited with the Ministry of Foreign Affairs of the Netherlands.
 
-Elke Staat die niet vertegenwoordigd was op de Elfde Zitting van de Haagse Conferentie voor internationaal privaatrecht en die Lid is van deze Conferentie of van de Organisatie der Verenigde Naties of van een der gespecialiseerde organisaties daarvan of die Partij is bij het Statuut van het Internationaal Gerechtshof kan tot dit Verdrag toetreden na de inwerkingtreding ervan overeenkomstig artikel 27, lid 1.
+The Convention shall enter into force for a State acceding to it on the sixtieth day after the deposit of its instrument of accession.
 
-De akte van toetreding dient te worden nedergelegd bij het Ministerie van Buitenlandse Zaken van Nederland.
+The accession will have effect only as regards the relations between the acceding State and such Contracting States as will have declared their acceptance of the accession. Such a declaration shall be deposited at the Ministry of Foreign Affairs of the Netherlands; this Ministry shall forward, through diplomatic channels, a certified copy to each of the Contracting States.
 
-Het Verdrag treedt voor de toetredende Staat in werking op de zestigste dag na de nederlegging van zijn akte van toetreding.
+The Convention will enter into force as between the acceding State and the State that has declared its acceptance of the accession on the sixtieth day after the deposit of the declaration of acceptance.
 
-De toetreding geldt slechts voor de betrekkingen tussen de toetredende Staat en de Verdragsluitende Staten die hebben verklaard deze toetreding te aanvaarden. Deze verklaring wordt nedergelegd bij het Ministerie van Buitenlandse Zaken van Nederland, die hiervan langs diplomatieke weg een voor eensluidend gewaarmerkt afschrift aan elk der Verdragsluitende Staten doet toekomen.
+##### Article 29
 
-Het Verdrag treedt tussen de toetredende Staat en de Staat die heeft verklaard deze toetreding te aanvaarden, in werking op de zestigste dag na de nederlegging van de verklaring van aanvaarding.
+Any State may, at the time of signature, ratification or accession, declare that the present Convention shall extend to all the territories for the international relations of which it is responsible, or to one or more of them. Such a declaration shall take effect on the date of entry into force of the Convention for the State concerned.
 
-##### Artikel 29
+At any time thereafter, such extensions shall be notified to the Ministry of Foreign Affairs of the Netherlands.
 
-Elke Staat kan, op het tijdstip van ondertekening, bekrachtiging of toetreding verklaren dat dit Verdrag zich uitstrekt tot alle gebieden die hij internationaal vertegenwoordigt of tot een of meer van deze gebieden. Deze verklaring geldt vanaf het tijdstip van de inwerkingtreding van het Verdrag voor genoemde Staat.
+The extension will have effect only as regards the relations with such Contracting States as will have declared their acceptance of the extensions. Such a declaration shall be deposited at the Ministry of Foreign Affairs of the Netherlands; this Ministry shall forward, through diplomatic channels, a certified copy to each of the Contracting States.
 
-Daarna dient elke zodanige uitbreiding ter kennis te worden gebracht van het Ministerie van Buitenlandse Zaken van Nederland.
+The extension will take effect in each case sixty days after the deposit of the declaration of acceptance.
 
-De uitbreiding geldt slechts voor de betrekkingen tussen de Verdragsluitende Staten die hebben verklaard deze uitbreiding te aanvaarden. Deze verklaring dient te worden nedergelegd bij het Ministerie van Buitenlandse Zaken van Nederland, dat hiervan langs diplomatieke weg een voor eensluidend gewaarmerkt afschrift aan alle Verdragsluitende Staten doet toekomen.
+##### Article 30
 
-De uitbreiding wordt in alle gevallen van kracht zestig dagen na de nederlegging van de verklaring van aanvaarding.
+The present Convention shall remain in force for five years from the date of its entry into force in accordance with the first paragraph of Article 27, even for States which have ratified it or acceded to it subsequently.
 
-##### Artikel 30
+If there has been no denunciation, it shall be renewed tacitly every five years.
 
-Dit Verdrag heeft een geldigheidsduur van vijf jaar vanaf de datum van zijn inwerkingtreding overeenkomstig het eerste lid van artikel 27, ook voor die Staten die het daarna hebben bekrachtigd of op een later tijdstip zijn toegetreden.
+Any denunciation shall be notified to the Ministry of Foreign Affairs of the Netherlands, at least six months before the end of the five year period.
 
-Behoudens opzegging wordt het Verdrag stilzwijgend verlengd, telkens voor een tijdvak van vijf jaar.
+It may be limited to certain of the territories to which the Convention applies.
 
-Een opzegging wordt, uiterlijk zes maanden voor het verstrijken, van het tijdvak van vijf jaar, ter kennis gebracht van het Ministerie van Buitenlandse Zaken van Nederland.
+The denunciation shall have effect only as regards the State which has notified it. The Convention shall remain in force for the other Contracting States.
 
-Zij kan worden beperkt tot bepaalde gebiedsdelen waarop het Verdrag van toepassing is.
+##### Article 31
 
-De opzegging geldt slechts ten aanzien van de Staat die haar heeft gedaan. Voor de andere Verdragsluitende Staten blijft het Verdrag van kracht.
+The Ministry of Foreign Affairs of the Netherlands shall give notice to the States referred to in Article 26, and to the States which have acceded in accordance with Article 28, of the following -
 
-##### Artikel 31
+- (a) the signatures and ratifications referred to in Article 26;
 
-Het Ministerie van Buitenlandse Zaken van Nederland stelt de in artikel 26 bedoelde Staten alsmede de Staten die overeenkomstig de bepalingen van artikel 28 zijn toegetreden, in kennis van:
+- (b) the date on which the present Convention enters into force in accordance with the first paragraph of Article 27;
 
-- a). de ondertekeningen en bekrachtigingen bedoeld in artikel 26;
+- (c) the accessions referred to in Article 28 and the dates on which they take effect;
 
-- b). de datum waarop dit Verdrag in werking treedt overeenkomstig het bepaalde in het eerste lid van artikel 27;
+- (d) the extensions referred to in Article 29 and the dates on which they take effect;
 
-- c). de in artikel 28 bedoelde toetredingen en de datum waarop zij van kracht worden;
+- (e) the denunciations referred to in Article 30;
 
-- d). de in artikel 29 bedoelde uitbreidingen en de datum waarop zij van kracht worden;
+- (f) the reservations and withdrawals referred to in Articles 19, 20, 21, 24 and 25;
 
-- e). de in artikel 30 bedoelde opzeggingen;
-
-- f). de voorbehouden en intrekkingen van voorbehouden bedoeld in de artikelen 19, 20, 21, 24 en 25;
-
-- g). de verklaringen bedoeld in de artikelen 22, 23, 28 en 29.
+- (g) the declarations referred to in Articles 22, 23, 28 and 29.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed the present Convention.
 

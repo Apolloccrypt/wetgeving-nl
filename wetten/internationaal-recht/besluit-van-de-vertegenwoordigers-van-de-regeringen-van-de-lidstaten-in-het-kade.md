@@ -1,46 +1,18 @@
 ---
 title: "Besluit van de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, van 10 november 2004 betreffende de voorrechten en immuniteiten die aan het Europees Defensieagentschap en zijn personeel worden verleend"
 identifier: "BWBV0001729"
-country: "nl"
-rank: "verdrag"
-publication_date: "2004-11-10"
-last_updated: "2004-11-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001729"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10002245813"
-version_id: "10002289612"
-internal_id: "C10006996651"
-label_id: "10002236004"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001729/2004-11-10/0"
-intitule_bron: "Trb.2004-325"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-04-22"
-intitule_published: "2004-12-23"
-intitule_status: "nogniet"
-original_publication: "Trb.2004-325"
-original_signed_date: "2005-04-22"
-original_published_date: "2004-12-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2004-325"
-jci_1_3: "jci1.3:c:BWBV0001729&z=2004-11-10&g=2004-11-10"
-jci_1_0: "1.0:c:BWBV0001729&g=2004-11-10"
-citeertitel_status: "redactioneel"
-signed_date: "2005-04-22"
-entry_into_force: "2004-12-23"
+laatste_update: 2004-11-10
+status: geldig
+toestand: 2004-11-10
+bron: "https://wetten.overheid.nl/BWBV0001729"
+opgehaald: 2026-09-12
 ---
+
 # Besluit van de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, van 10 november 2004 betreffende de voorrechten en immuniteiten die aan het Europees Defensieagentschap en zijn personeel worden verleend
 
-De vertegenwoordigers van de regeringen van de lidstaten van de Europese Unie, in het kader van de Raad bijeen,
-
-Overwegende hetgeen volgt:
-
-Op 12 juli 2004 heeft de Raad Gemeenschappelijk optreden 2004/551/GBVB betreffende de oprichting van het Europees DefensieagentschapPB L 245 van 17.7.2004, blz. 17. („het agentschap") vastgesteld.PB L 245 van 17.7.2004, blz. 17. („het agentschap") vastgesteld.
-
-Opdat het agentschap zijn werkzaamheden kan aanvatten, moeten aan dit agentschap van de Europese Unie en zijn personeel uitsluitend in het belang van het agentschap en van de Europese Unie de daartoe vereiste voorrechten, immuniteiten en faciliteiten worden verleend,
-
-Besluiten:
+*De vertegenwoordigers van de regeringen van de lidstaten van de Europese Unie, in het kader van de Raad bijeen, Overwegende hetgeen volgt: 1. Op 12 juli 2004 heeft de Raad Gemeenschappelijk optreden 2004/551/GBVB betreffende de oprichting van het Europees DefensieagentschapPB L 245 van 17.7.2004, blz. 17. („het agentschap") vastgesteld.PB L 245 van 17.7.2004, blz. 17. („het agentschap") vastgesteld. 2. Opdat het agentschap zijn werkzaamheden kan aanvatten, moeten aan dit agentschap van de Europese Unie en zijn personeel uitsluitend in het belang van het agentschap en van de Europese Unie de daartoe vereiste voorrechten, immuniteiten en faciliteiten worden verleend, Besluiten:*
 
 ##### Artikel 1. Immuniteit van rechtsvervolging en vrijstelling van huiszoeking, beslaglegging, vordering, verbeurdverklaring of iedere andere vorm van dwangmaatregel
 
@@ -64,9 +36,9 @@ De archieven van het agentschap zijn onschendbaar.
 
 In verband met de overdracht tussen lidstaten van defensiegoederen bestemd voor officieel gebruik door het agentschap ter vervulling van zijn opdracht, functies en taken:
 
-- –. is het agentschap vrijgesteld van door de lidstaten opgelegde betalingen en aflossingen, met uitzondering van administratiekosten:
+- – is het agentschap vrijgesteld van door de lidstaten opgelegde betalingen en aflossingen, met uitzondering van administratiekosten:
 
-- –. streven de lidstaten ernaar dergelijke overdrachten zoveel mogelijk en in overeenstemming met hun wetten en regelingen te vergemakkelijken, onverminderd hun uit het internationale recht voortvloeiende verplichtingen.
+- – streven de lidstaten ernaar dergelijke overdrachten zoveel mogelijk en in overeenstemming met hun wetten en regelingen te vergemakkelijken, onverminderd hun uit het internationale recht voortvloeiende verplichtingen.
 
 ##### Artikel 5. Faciliteiten en immuniteiten met betrekking tot berichtenverkeer
 

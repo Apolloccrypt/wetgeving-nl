@@ -1,59 +1,19 @@
 ---
 title: "Memorandum van Overeenstemming tussen de Regering van het Koninkrijk der Nederlanden, de Regering van de Bondsrepubliek Duitsland, de Regering van de Franse Republiek en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende de gezamenlijke bouw en de gezamenlijke exploitatie van de Europese Transsone Windtunnel"
 identifier: "BWBV0002427"
-country: "nl"
-rank: "verdrag"
-publication_date: "1988-11-01"
-last_updated: "1988-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002427"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002877963"
-version_id: "10002878192"
-internal_id: "C10006983551"
-label_id: "10002865454"
-dtd_version: "2.0"
-original_entry_into_force: "1988-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002427/1988-11-01/0"
-intitule_bron: "Trb.1988-62"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1988-11-01"
-intitule_published: "1988-06-07"
-intitule_in_force: "1989-01-13"
-intitule_status: "goed"
-original_publication: "Trb.1988-62"
-original_signed_date: "1988-11-01"
-original_published_date: "1988-06-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1988-62"
-entry_into_force_date: "1988-11-01"
-jci_1_3: "jci1.3:c:BWBV0002427&z=1988-11-01&g=1988-11-01"
-jci_1_0: "1.0:c:BWBV0002427&g=1988-11-01"
-citeertitel_status: "officieel"
-signed_date: "1988-11-01"
-entry_into_force: "1988-11-01"
+publicatiedatum: 1988-11-01
+laatste_update: 1988-11-01
+status: geldig
+toestand: 1988-11-01
+bron: "https://wetten.overheid.nl/BWBV0002427"
+opgehaald: 2026-09-12
 ---
+
 # Memorandum van Overeenstemming tussen de Regering van het Koninkrijk der Nederlanden, de Regering van de Bondsrepubliek Duitsland, de Regering van de Franse Republiek en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende de gezamenlijke bouw en de gezamenlijke exploitatie van de Europese Transsone Windtunnel
 
-De Regering van het Koninkrijk der Nederlanden,
-
-de Regering van de Bondsrepubliek Duitsland,
-
-de Regering van de Franse Republiek
-
-en
-
-de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland
-
-(hierna te noemen: ,,de Deelnemende Partijen”),
-
-Overwegend dat in internationaal overleg de behoefte in Europa aan een transsone windtunnel met een hoog getal van Reynolds is vastgesteld;
-
-Overwegend dat gedurende een projectontwerpfase overeenstemming is bereikt met betrekking tot de technische specificaties van een cryogene transsone windtunnel;
-
-Bevestigend de „Grondbeginselen voor Fase 3, de bouw en de exploitatie van de ETW”, omschreven in de Bijlage bij het Memorandum van Overeenstemming betreffende de fase van het definitieve ontwerp van de voorgestelde Europese Transsone Windtunnel;
-
-Hebben als volgt besloten:
+*De Regering van het Koninkrijk der Nederlanden, de Regering van de Bondsrepubliek Duitsland, de Regering van de Franse Republiek en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (hierna te noemen: ,,de Deelnemende Partijen”), Overwegend dat in internationaal overleg de behoefte in Europa aan een transsone windtunnel met een hoog getal van Reynolds is vastgesteld; Overwegend dat gedurende een projectontwerpfase overeenstemming is bereikt met betrekking tot de technische specificaties van een cryogene transsone windtunnel; Bevestigend de „Grondbeginselen voor Fase 3, de bouw en de exploitatie van de ETW”, omschreven in de Bijlage bij het Memorandum van Overeenstemming betreffende de fase van het definitieve ontwerp van de voorgestelde Europese Transsone Windtunnel; Hebben als volgt besloten:*
 
 ##### Artikel 1. Onderwerp van het Memorandum van Overeenstemming
 
@@ -73,9 +33,9 @@ De ETW wordt gebouwd te Keulen, Bondsrepubliek Duitsland, waarbij de grond door 
 
 1. De bouwfase van het ETW-project omvat
 
-- -. de periode van constructie, inbedrijfstelling en kalibratie, die volgens plan 6½ jaar zal duren;
+- - de periode van constructie, inbedrijfstelling en kalibratie, die volgens plan 6½ jaar zal duren;
 
-- -. de periode van initiële exploitatie van ten hoogste 3 jaar.
+- - de periode van initiële exploitatie van ten hoogste 3 jaar.
 
 Na voltooiing van de constructie van de ETW zullen de inbedrijfstelling en de kalibratie in een periode van 18 maanden voltooid zijn, waarna de periode van initiele exploitatie begint.
 
@@ -172,11 +132,11 @@ Indien enige andere regering de wens kenbaar maakt deel te nemen aan het ETW-pro
 
 - b. tenzij de informatie tot het publieke domein behoort - anders dan door een fout van het betrokken bedrijf of de betrokken instelling - mag deze slechts worden gebruikt voor de doeleinden van het contract en het betrokken bedrijf of de betrokken instelling draagt er zorg voor dat betrokkene en andere ontvangers van de informatie de volgende regels in acht nemen:
 
-- (i). alle ontvangers van de informatie zijn verantwoordelijk voor de bescherming daarvan en nemen passende maatregelen om te voorkomen dat de informatie ter kennis van iemand anders wordt gebracht, wordt gepubliceerd, zonder toestemming wordt gebruikt of op enige andere wijze wordt behandeld die afbreuk zou doen aan de rechten van de eigenaar of de auteur daarvan, in het bijzonder aan het recht met betrekking tot het indienen van een octrooiaanvrage;
+   - (i) alle ontvangers van de informatie zijn verantwoordelijk voor de bescherming daarvan en nemen passende maatregelen om te voorkomen dat de informatie ter kennis van iemand anders wordt gebracht, wordt gepubliceerd, zonder toestemming wordt gebruikt of op enige andere wijze wordt behandeld die afbreuk zou doen aan de rechten van de eigenaar of de auteur daarvan, in het bijzonder aan het recht met betrekking tot het indienen van een octrooiaanvrage;
 
-- (ii). indien echter een ontvanger van zodanige informatie de informatie wenst openbaar te maken of te gebruiken voor andere doeleinden dan die van het contract, dient hij een verzoek te richten tot de ETW-vennootschap en te trachten overeenstemming te bereiken inzake een zodanige openbaarmaking of een zodanig gebruik;
+   - (ii) indien echter een ontvanger van zodanige informatie de informatie wenst openbaar te maken of te gebruiken voor andere doeleinden dan die van het contract, dient hij een verzoek te richten tot de ETW-vennootschap en te trachten overeenstemming te bereiken inzake een zodanige openbaarmaking of een zodanig gebruik;
 
-- (iii). ingeval de eigenaar vart zodanige informatie schade heeft geleden als gevolg van de onrechtmatige openbaarmaking of het onrechtmatige gebruik daarvan, is de desbetreffende ontvanger een rechtstreekse vergoeding aan de eigenaar verschuldigd.
+   - (iii) ingeval de eigenaar vart zodanige informatie schade heeft geleden als gevolg van de onrechtmatige openbaarmaking of het onrechtmatige gebruik daarvan, is de desbetreffende ontvanger een rechtstreekse vergoeding aan de eigenaar verschuldigd.
 
 ##### Artikel 8. Overdracht van rechten en verplichtingen
 
@@ -246,7 +206,7 @@ Dit MvO wordt in de Nederlandse, de Engelse, de Duitse en de Franse taal in vier
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun onderscheiden Regeringen, dit Memorandum van Overeenstemming hebben ondertekend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) H. VAN DEN BROEK
 
@@ -258,7 +218,7 @@ Minister van Buitenlandse Zaken
 
 Datum :27april 1988
 
-**Voor de Regering van de Bondsrepubliek Duitsland**
+*Voor de Regering van de Bondsrepubliek Duitsland*
 
 (w.g.) HANS D. GENSCHER
 
@@ -276,7 +236,7 @@ Minister für Forschung und Technologie
 
 Datum: 18 Marz 1988
 
-**Voor de Regering van de Franse Republiek**
+*Voor de Regering van de Franse Republiek*
 
 (w.g.) A. GIRAUD
 
@@ -286,7 +246,7 @@ Le Ministre de la Défense
 
 Datum: 26 avril 1988
 
-**Voor de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland**
+*Voor de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland*
 
 (w.g.) GEORGE YOUNGER
 

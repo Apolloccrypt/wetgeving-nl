@@ -1,45 +1,19 @@
 ---
 title: "Fytosanitaire Overeenkomst tussen het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China"
 identifier: "BWBV0002436"
-country: "nl"
-rank: "verdrag"
-publication_date: "1987-05-07"
-last_updated: "1987-05-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002436"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002880943"
-version_id: "10002881072"
-internal_id: "C10006979321"
-label_id: "10002868334"
-dtd_version: "2.0"
-original_entry_into_force: "1987-05-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002436/1987-05-07/0"
-intitule_bron: "Trb.1986-118"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1987-02-04"
-intitule_published: "1986-10-01"
-intitule_in_force: "1987-05-18"
-intitule_status: "goed"
-original_publication: "Trb.1986-118"
-original_signed_date: "1987-02-04"
-original_published_date: "1986-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1986-118"
-entry_into_force_date: "1987-05-07"
-jci_1_3: "jci1.3:c:BWBV0002436&z=1987-05-07&g=1987-05-07"
-jci_1_0: "1.0:c:BWBV0002436&g=1987-05-07"
-citeertitel_status: "officieel"
-signed_date: "1987-02-04"
-entry_into_force: "1987-05-07"
+publicatiedatum: 1987-05-07
+laatste_update: 1987-05-07
+status: geldig
+toestand: 1987-05-07
+bron: "https://wetten.overheid.nl/BWBV0002436"
+opgehaald: 2026-09-12
 ---
+
 # Fytosanitaire Overeenkomst tussen het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China (hierna te noemen: „de Overeenkomstsluitende Partijen”),
-
-Ten einde het brengen van schadelijke organismen binnen respectievelijk buiten hun onderscheiden grondgebieden te voorkomen, de uitwisseling van en de handel in planten en plantaardige produkten te vergemakkelijken, en de samenwerking op het gebied van de quarantaine van planten en de planteziektenbestrijding te bevorderen,
-
-Zijn als volgt overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China (hierna te noemen: „de Overeenkomstsluitende Partijen”), Ten einde het brengen van schadelijke organismen binnen respectievelijk buiten hun onderscheiden grondgebieden te voorkomen, de uitwisseling van en de handel in planten en plantaardige produkten te vergemakkelijken, en de samenwerking op het gebied van de quarantaine van planten en de planteziektenbestrijding te bevorderen, Zijn als volgt overeengekomen:*
 
 ##### Artikel I
 
@@ -123,12 +97,12 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, deze Ove
 
 GEDAAN te 's-Gravenhage op 25 augustus 1986 in twee originele exemplaren in de Nederlandse, de Chinese en de Engelse taal. De drie teksten zijn gelijkelijk authentiek. Bij verschil van uitleg is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 (w.g.) G. J. M. BRAKS
 
 (w.g.) H. VAN DEN BROEK
 
-**Voor de Regering van de Volksrepubliek China,**
+*Voor de Regering van de Volksrepubliek China,*
 
 (w.g.) HE KANG

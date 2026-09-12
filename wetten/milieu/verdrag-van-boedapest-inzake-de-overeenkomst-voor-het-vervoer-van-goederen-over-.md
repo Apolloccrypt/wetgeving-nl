@@ -1,47 +1,19 @@
 ---
 title: "Verdrag van Boedapest inzake de Overeenkomst voor het vervoer van goederen over de binnenwateren (CMNI)"
 identifier: "BWBV0001808"
-country: "nl"
-rank: "verdrag"
-publication_date: "2006-10-01"
-last_updated: "2001-06-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001808"
+categorie: "Milieu"
 soort: "verdrag"
-stam_id: "10002521523"
-version_id: "10002508372"
-internal_id: "C10006994051"
-label_id: "10002511394"
-dtd_version: "2.0"
-original_entry_into_force: "2006-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001808/2006-10-01/0"
-intitule_bron: "Trb.2001-124"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-06-20"
-intitule_published: "2001-07-26"
-intitule_in_force: "2006-08-11"
-intitule_status: "goed"
-original_publication: "Trb.2001-124"
-original_signed_date: "2006-06-20"
-original_published_date: "2001-07-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2001-124"
-entry_into_force_date: "2006-10-01"
-jci_1_3: "jci1.3:c:BWBV0001808&z=2006-10-01&g=2006-10-01"
-jci_1_0: "1.0:c:BWBV0001808&g=2006-10-01"
-citeertitel_status: "redactioneel"
-signed_date: "2006-06-20"
-entry_into_force: "2006-10-01"
+publicatiedatum: 2006-10-01
+laatste_update: 2006-10-01
+status: geldig
+toestand: 2006-10-01
+bron: "https://wetten.overheid.nl/BWBV0001808"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag van Boedapest inzake de Overeenkomst voor het vervoer van goederen over de binnenwateren (CMNI)
 
-De Staten die Partij zijn bij dit Verdrag,
-
-Overwegende de aanbevelingen in de slotakte van de Conferentie inzake veiligheid en samenwerking in Europa van 1 augustus 1975 voor de harmonisering van rechtsvoorschriften ten behoeve van de ontwikkeling van het verkeer door de lidstaten van de Centrale Commissie voor de Rijnvaart en de Donaucommissie, in samenwerking met de Economische Commissie voor Europa van de Verenigde Naties,
-
-Erkennende de noodzaak en doelmatigheid uniforme voorschriften vast te stellen inzake overeenkomsten voor het vervoer van goederen over de binnenwateren,
-
-Hebben besloten met dit doel een verdrag te sluiten en zijn overeengekomen als volgt:
+*De Staten die Partij zijn bij dit Verdrag, Overwegende de aanbevelingen in de slotakte van de Conferentie inzake veiligheid en samenwerking in Europa van 1 augustus 1975 voor de harmonisering van rechtsvoorschriften ten behoeve van de ontwikkeling van het verkeer door de lidstaten van de Centrale Commissie voor de Rijnvaart en de Donaucommissie, in samenwerking met de Economische Commissie voor Europa van de Verenigde Naties, Erkennende de noodzaak en doelmatigheid uniforme voorschriften vast te stellen inzake overeenkomsten voor het vervoer van goederen over de binnenwateren, Hebben besloten met dit doel een verdrag te sluiten en zijn overeengekomen als volgt:*
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
@@ -477,7 +449,7 @@ Op verzoek van ten minste een derde van de Verdragsluitende Staten, roept de dep
 
 5. Bij de beraadslaging over de wijziging van de in artikel 20, eerste lid, genoemde bedragen houdt de conferentie rekening met de uit schadegevallen afkomstige ervaringen en in het bijzonder met de omvang van de daaruit ontstane schade, waardeveranderingen van valuta alsmede de gevolgen van de voorziene wijziging voor de kosten van verzekering.
 
-- a. Een wijziging van de bedragen op grond van dit artikel kan op zijn vroegst vijf jaar na de dag waarop dit Verdrag ter ondertekening werd opengesteld en op zijn vroegst vijf jaar na de dag van inwerkingtreding van een eerdere wijziging op grond van dit artikel in behandeling worden genomen.
+6. - a. Een wijziging van de bedragen op grond van dit artikel kan op zijn vroegst vijf jaar na de dag waarop dit Verdrag ter ondertekening werd opengesteld en op zijn vroegst vijf jaar na de dag van inwerkingtreding van een eerdere wijziging op grond van dit artikel in behandeling worden genomen.
 
 - b. Een bedrag mag niet zodanig verhoogd worden dat het hoger wordt dan het bedrag dat overeenkomt met de in het Verdrag vastgestelde maximale aansprakelijkheidsgrenzen plus 6 procent per jaar, berekend volgens het principe van rente op rente vanaf de dag waarop dit Verdrag ter ondertekening werd opengesteld.
 
@@ -509,15 +481,15 @@ Op verzoek van ten minste een derde van de Verdragsluitende Staten, roept de dep
 
 - f. brengt alle Staten die dit Verdrag hebben ondertekend of ertoe zijn toegetreden op de hoogte van:
 
-- i. elke nieuwe ondertekening, elke kennisgeving en elke daarbij afgelegde verklaring onder vermelding van de datum van de ondertekening, kennisgeving of verklaring;
+   - i. elke nieuwe ondertekening, elke kennisgeving en elke daarbij afgelegde verklaring onder vermelding van de datum van de ondertekening, kennisgeving of verklaring;
 
-- ii. de datum van inwerkingtreding van dit Verdrag;
+   - ii. de datum van inwerkingtreding van dit Verdrag;
 
-- iii. elke opzegging van dit Verdrag onder vermelding van de datum waarop deze van kracht wordt;
+   - iii. elke opzegging van dit Verdrag onder vermelding van de datum waarop deze van kracht wordt;
 
-- iv. elke wijziging waartoe overeenkomstig de artikelen 36 en 37 van dit Verdrag is besloten, onder vermelding van de datum van inwerkingtreding;
+   - iv. elke wijziging waartoe overeenkomstig de artikelen 36 en 37 van dit Verdrag is besloten, onder vermelding van de datum van inwerkingtreding;
 
-- v. elke mededeling op grond van een bepaling van dit Verdrag.
+   - v. elke mededeling op grond van een bepaling van dit Verdrag.
 
 3. Na de inwerkingtreding van dit Verdrag doet de depositaris het Secretariaat van de Verenigde Naties een gewaarmerkt afschrift van dit Verdrag toekomen ter registratie en publicatie in overeenstemming met artikel 102 van het Handvest van de Verenigde Naties.
 

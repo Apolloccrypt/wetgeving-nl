@@ -1,53 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Kaapverdië inzake luchtdiensten tussen en via hun onderscheiden grondgebieden"
 identifier: "BWBV0002586"
-country: "nl"
-rank: "verdrag"
-publication_date: "1991-07-01"
-last_updated: "1991-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002586"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002938083"
-version_id: "10002939932"
-internal_id: "C10006985111"
-label_id: "10002925084"
-dtd_version: "2.0"
-original_entry_into_force: "1991-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002586/1991-07-01/0"
-intitule_bron: "Trb.1989-25"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1988-12-21"
-intitule_published: "1989-02-17"
-intitule_in_force: "1991-12-05"
-intitule_status: "goed"
-original_publication: "Trb.1989-25"
-original_signed_date: "1988-12-21"
-original_published_date: "1989-02-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1989-25"
-entry_into_force_date: "1991-07-01"
-jci_1_3: "jci1.3:c:BWBV0002586&z=1991-07-01&g=1991-07-01"
-jci_1_0: "1.0:c:BWBV0002586&g=1991-07-01"
-citeertitel_status: "officieel"
-signed_date: "1988-12-21"
-entry_into_force: "1991-07-01"
+publicatiedatum: 1991-07-01
+laatste_update: 1991-07-01
+status: geldig
+toestand: 1991-07-01
+bron: "https://wetten.overheid.nl/BWBV0002586"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Kaapverdië inzake luchtdiensten tussen en via hun onderscheiden grondgebieden
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van de Republiek Kaapverdië,
-
-Partij zijnde bij het Verdrag inzake de internationale burgerluchtvaart, dat op 7 december 1944 te Chicago voor ondertekening werd opengesteld,
-
-Geleid door de wens bij te dragen aan de vooruitgang van de internationale burgerluchtvaart,
-
-Geleid door de wens een overeenkomst te sluiten met het doel luchtdiensten in te stellen tussen en via hun onderscheiden grondgebieden,
-
-Zijn als volgt overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Kaapverdië, Partij zijnde bij het Verdrag inzake de internationale burgerluchtvaart, dat op 7 december 1944 te Chicago voor ondertekening werd opengesteld, Geleid door de wens bij te dragen aan de vooruitgang van de internationale burgerluchtvaart, Geleid door de wens een overeenkomst te sluiten met het doel luchtdiensten in te stellen tussen en via hun onderscheiden grondgebieden, Zijn als volgt overeengekomen:*
 
 ##### Artikel 1
 
@@ -57,9 +23,9 @@ Zijn als volgt overeengekomen:
 
 - b. „luchtvaartautoriteiten”:
 
-- -. wat het Koninkrijk der Nederlanden betreft, de Minister van Verkeer en Waterstaat en elke persoon of instantie die bevoegd is elke functie die thans door genoemde minister wordt uitgeoefend te vervullen;
+   - - wat het Koninkrijk der Nederlanden betreft, de Minister van Verkeer en Waterstaat en elke persoon of instantie die bevoegd is elke functie die thans door genoemde minister wordt uitgeoefend te vervullen;
 
-- -. wat de Republiek Kaapverdië betreft: het Ministerie van Vervoer, Handel en Toerisme en elke persoon of instantie die bevoegd is elke functie die thans door genoemd ministerie wordt uitgeoefend, te vervullen;
+   - - wat de Republiek Kaapverdië betreft: het Ministerie van Vervoer, Handel en Toerisme en elke persoon of instantie die bevoegd is elke functie die thans door genoemd ministerie wordt uitgeoefend, te vervullen;
 
 - c. „aangewezen luchtvaartmaatschappij”: een luchtvaartmaatschappij die is aangewezen en gemachtigd overeenkomstig artikel 3 van deze Overeenkomst,
 
@@ -73,9 +39,9 @@ Zijn als volgt overeengekomen:
 
 - h. „tarief”: elk bedrag in rekening gebracht of in rekening te brengen door de luchtvaartmaatschappijen, rechtstreeks of via hun agenten, aan elke natuurlijke persoon of rechtspersoon voor het vervoer door de lucht van passagiers (en hun bagage) en vracht (behalve post), daarbij inbegrepen:
 
-- i. de voorwaarden betreffende het beschikbaar zijn en het van toepassing zijn van een tarief, en
+   - i. de voorwaarden betreffende het beschikbaar zijn en het van toepassing zijn van een tarief, en
 
-- ii. de heffingen en voorwaarden voor alle bij zulk vervoer bijkomende diensten die door de luchtvaartmaatschappijen worden aangeboden.
+   - ii.. de heffingen en voorwaarden voor alle bij zulk vervoer bijkomende diensten die door de luchtvaartmaatschappijen worden aangeboden.
 
 - i. „uitrustingsstukken”: andere goederen dan voorraden en niet vast in het vliegtuig bevestigde reservedelen, bestemd voor gebruik aan boord van een luchtvaartuig tijdens de vlucht, met inbegrip van eerste-hulp- en reddingsmiddelen.
 
@@ -217,9 +183,9 @@ Passagiers, bagage, vracht en post in rechtstreeks doorgaand verkeer over het gr
 
 2. De arbitrage geschiedt door een uit drie scheidsmannen bestaand scheidsgerecht, dat als volgt wordt ingesteld:
 
-- (a). binnen 30 (dertig) dagen na de ontvangst van een verzoek om arbitrage wijst elke Partij één scheidsman aan. Binnen 60 (zestig) dagen nadat deze twee scheidsmannen zijn aangewezen, benoemen zij in onderling overleg een derde scheidsman, die als voorzitter van het scheidsgerecht optreedt;
+- (a) binnen 30 (dertig) dagen na de ontvangst van een verzoek om arbitrage wijst elke Partij één scheidsman aan. Binnen 60 (zestig) dagen nadat deze twee scheidsmannen zijn aangewezen, benoemen zij in onderling overleg een derde scheidsman, die als voorzitter van het scheidsgerecht optreedt;
 
-- (b). indien een der Partijen nalaat een scheidsman aan te wijzen, of indien de derde scheidsman niet wordt benoemd overeenkomstig het bepaalde in letter (a) van dit lid, kan elk der Partijen de President van het Internationale Gerechtshof verzoeken de vereiste scheidsman of scheidsmannen binnen 30 (dertig) dagen te benoemen. Indien de President dezelfde nationaliteit heeft als één van de Partijen, geschiedt de benoeming door de Vice-President met de oudste anciënniteit die niet op deze grond hiertoe is uitgesloten.
+- (b) indien een der Partijen nalaat een scheidsman aan te wijzen, of indien de derde scheidsman niet wordt benoemd overeenkomstig het bepaalde in letter (a) van dit lid, kan elk der Partijen de President van het Internationale Gerechtshof verzoeken de vereiste scheidsman of scheidsmannen binnen 30 (dertig) dagen te benoemen. Indien de President dezelfde nationaliteit heeft als één van de Partijen, geschiedt de benoeming door de Vice-President met de oudste anciënniteit die niet op deze grond hiertoe is uitgesloten.
 
 3. Tenzij anders is overeengekomen, bepaalt het scheidsgerecht de grenzen van zijn rechtsmacht in overeenstemming met deze Overeenkomst en stelt het zijn eigen procedure vast. Op last van het scheidsgerecht of op verzoek van één der Partijen wordt een conferentie gehouden ter nauwkeurige vaststelling van de geschilpunten waarover een scheidsrechterlijke beslissing moet worden genomen, en ter vaststelling van de specifieke procedures die in acht moeten worden genomen, uiterlijk 15 (vijftien) dagen nadat het scheidsgerecht volledig is samengesteld.
 
@@ -293,30 +259,14 @@ Indien de andere Overeenkomstsluitende Partij nalaat de ontvangst te bevestigen,
 
 De onderhavige Overeenkomst wordt voorlopig toegepast met ingang van de datum van ondertekening ervan. Zij treedt in werking op de datum van ontvangst van de tweede van de nota's uitgewisseld door de beide Overeenkomstsluitende Partijen, waarin zij elkaar mededelen dat aan de in hun onderscheiden landen constitutioneel vereiste formaliteiten is voldaan.
 
-##### A
-
-I. Routes to be operated by the designated airline of the Republic of Cape Verde:
-
-Points in SAL ISLAND - intermediate points - Points in the Netherlands - points beyond.
-
-II. routes to be operated by the designated airline of the Kingdom of the Netherlands:
-
-Points in the Netherlands - intermediate points - points in SAL ISLAND - points beyond.
-
-##### B
-
-1. Any point or points on the specified route may, at the option of a designated airline, be omitted on any or all flights, provided that the service begins or terminates in the territory of the Contracting Party designating the airline.
-
-2. Between intermediate points or points beyond and the territory of one Contracting Party no traffic rights shall be exercised, unless these rights are specifically granted to the respective designated airline of the other Contracting Party.
-
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun onderscheiden Regeringen, deze Overeenkomst hebben ondertekend.
 
 GEDAAN in tweevoud te 's-Gravenhage op 21 december 1988 in de Nederlandse, Portugese en Engelse taal, waarbij alle teksten gelijkelijk authentiek zijn.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 (w.g.) H. VAN DEN BROEK
 
-**Voor de Regering van de Republiek Kaapverdië,**
+*Voor de Regering van de Republiek Kaapverdië,*
 
 (w.g) L. DA FONSECA

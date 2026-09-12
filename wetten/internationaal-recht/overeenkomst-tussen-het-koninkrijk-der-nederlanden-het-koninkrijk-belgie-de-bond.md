@@ -1,51 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden, het Koninkrijk Belgie, de Bondsrepubliek Duitsland, Spanje, de Franse Republiek en het Verenigd Koninkrijk van Groot-Brittannie en Noord-Ierland betreffende het Airbus-programma"
 identifier: "BWBV0002477"
-country: "nl"
-rank: "verdrag"
-publication_date: "1984-01-03"
-last_updated: "1984-01-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002477"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002892643"
-version_id: "10002892702"
-internal_id: "C10006979401"
-label_id: "10002879944"
-dtd_version: "2.0"
-original_entry_into_force: "1984-01-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002477/1984-01-03/0"
-intitule_bron: "Trb.1982-87"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1983-03-09"
-intitule_published: "1982-06-21"
-intitule_in_force: "1984-02-13"
-intitule_status: "goed"
-original_publication: "Trb.1982-87"
-original_signed_date: "1983-03-09"
-original_published_date: "1982-06-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1982-87"
-entry_into_force_date: "1984-01-03"
-jci_1_3: "jci1.3:c:BWBV0002477&z=1984-01-03&g=1984-01-03"
-jci_1_0: "1.0:c:BWBV0002477&g=1984-01-03"
-citeertitel_status: "officieel"
-signed_date: "1983-03-09"
-entry_into_force: "1984-01-03"
+publicatiedatum: 1984-01-03
+laatste_update: 1984-01-03
+status: geldig
+toestand: 1984-01-03
+bron: "https://wetten.overheid.nl/BWBV0002477"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden, het Koninkrijk Belgie, de Bondsrepubliek Duitsland, Spanje, de Franse Republiek en het Verenigd Koninkrijk van Groot-Brittannie en Noord-Ierland betreffende het Airbus-programma
 
-De Regeringen van het Koninkrijk België, de Bondsrepubliek Duitsland, Spanje, de Franse Republiek, het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-Verlangend de Europese samenwerking op het gebied van de vliegtuigbouw verder te versterken;
-
-In overeenstemming met de hoofdlijnen van de Overeenkomst tussen de Regering van de Bondsrepubliek Duitsland en de Regering van de Franse Republiek betreffende de ontwikkeling en de bouw van de Airbus A300B, getekend op 29 mei 1969 (de Overeenkomst van 1969);
-
-Gelet op de aanvullende Overeenkomsten, gesloten met de Regering van het Koninkrijk der Nederlanden, op 28 december 1970 (de Overeenkomst van 1970) en met de Regering van de Spaanse Staat op 23 december 1971 (de Overeenkomst van 1971) betreffende de Airbus A300B;
-
-In overeenstemming met de hoofdlijnen van de Overeenkomst, open gesteld voor ondertekening op 24 juli 1981 en ondertekend op 28 september 1981 (de Overeenkomst van 1981), tussen de Regeringen van de Bondsrepubliek Duitsland, de Franse Republiek, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en Spanje betreffende het Airbus-programma,
-
-Zijn de volgende Overeenkomst aangegaan:
+*De Regeringen van het Koninkrijk België, de Bondsrepubliek Duitsland, Spanje, de Franse Republiek, het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Verlangend de Europese samenwerking op het gebied van de vliegtuigbouw verder te versterken; In overeenstemming met de hoofdlijnen van de Overeenkomst tussen de Regering van de Bondsrepubliek Duitsland en de Regering van de Franse Republiek betreffende de ontwikkeling en de bouw van de Airbus A300B, getekend op 29 mei 1969 (de Overeenkomst van 1969); Gelet op de aanvullende Overeenkomsten, gesloten met de Regering van het Koninkrijk der Nederlanden, op 28 december 1970 (de Overeenkomst van 1970) en met de Regering van de Spaanse Staat op 23 december 1971 (de Overeenkomst van 1971) betreffende de Airbus A300B; In overeenstemming met de hoofdlijnen van de Overeenkomst, open gesteld voor ondertekening op 24 juli 1981 en ondertekend op 28 september 1981 (de Overeenkomst van 1981), tussen de Regeringen van de Bondsrepubliek Duitsland, de Franse Republiek, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en Spanje betreffende het Airbus-programma, Zijn de volgende Overeenkomst aangegaan:*
 
 ##### Artikel 1
 
@@ -61,13 +29,13 @@ Zijn de volgende Overeenkomst aangegaan:
 
 3. In de Intergouvernementele Commissie hebben de vertegenwoordigers van het Koninkrijk België en van het Koninkrijk der Nederlanden volledig stemrecht in de navolgende aangelegenheden, voorzover zij de onderscheiden belangen van de Regering of de industrie van een dezer landen raken:
 
-- a). wijzigingen van de onderhavige Overeenkomst en van de artikelen 2, 3, 4, 6, 7, 8, 9, artikel 10, lid 1 en Bijlagen 1, 2 en 3 van de Overeenkomst van 1981;
+- a) wijzigingen van de onderhavige Overeenkomst en van de artikelen 2, 3, 4, 6, 7, 8, 9, artikel 10, lid 1 en Bijlagen 1, 2 en 3 van de Overeenkomst van 1981;
 
-- b). wijzigingen in de Belgische en Nederlandse deelneming in het Airbus-programma;
+- b) wijzigingen in de Belgische en Nederlandse deelneming in het Airbus-programma;
 
-- c). goedkeuring van de bepalingen in de Raamovereenkomst (en enige wijziging daarvan) tussen het Uitvoerende Orgaan en Airbus Industrie, ingevolge in artikel 3 van de Overeenkomst van 1981 die de Regering respectievelijk de industrie van België of Nederland betreffen;
+- c) goedkeuring van de bepalingen in de Raamovereenkomst (en enige wijziging daarvan) tussen het Uitvoerende Orgaan en Airbus Industrie, ingevolge in artikel 3 van de Overeenkomst van 1981 die de Regering respectievelijk de industrie van België of Nederland betreffen;
 
-- d). wijzigingen van de voorwaarden van terugbetaling aan Belairbus en Fokker.
+- d) wijzigingen van de voorwaarden van terugbetaling aan Belairbus en Fokker.
 
 Het is niet mogelijk beslissingen te nemen ten aanzien van de vier bovengenoemde punten en die het Koninkrijk België en het Koninkrijk der Nederlanden betreffen zonder de instemming van de Belgische vertegenwoordiger respectievelijk de Nederlandse vertegenwoordiger.
 
@@ -87,19 +55,19 @@ Tenzij anders wordt besloten in elk afzonderlijk geval door de Intergouvernement
 
 1. Zodra Belairbus en Fokker, beschouwd als Partners van Airbus Industrie voor wat betreft de ontwikkeling van de A310, op zich genomen zullen hebben hun deel in de ontwikkelingswerkzaamheden omschreven in Bijlage 3 van de Overeenkomst van 1981 uit te voeren en hun deel, als omschreven in lid 2 van dit artikel, van de uitgaven voor niet toewijsbare ontwikkelingswerkzaamheden te voldoen, zullen de Regering van het Koninkrijk België en de Regering van het Koninkrijk der Nederlanden geacht worden op zich genomen te hebben, ieder voor haar eigen deel, ter beschikking te stellen de hiernagenoemde bedragen, gebaseerd op het loon- en prijspeil van januari 1978 voor de kosten van de ontwikkelingswerkzaamheden:
 
-- -. Koninkrijk België: zevenhonderdnegenentwintig miljoen negenhonderdzevenennegentigduizend vijfhonderd (729.997.500) Belgische franken;
+- - Koninkrijk België: zevenhonderdnegenentwintig miljoen negenhonderdzevenennegentigduizend vijfhonderd (729.997.500) Belgische franken;
 
-- -. Koninkrijk der Nederlanden: zesentwintig miljoen negenenvijftigduizend zeshonderd (26.059.600) gulden;
+- - Koninkrijk der Nederlanden: zesentwintig miljoen negenenvijftigduizend zeshonderd (26.059.600) gulden;
 
 2. Deze bedragen zijn berekend:
 
-- -. door aan ieder land de kosten toe te rekenen die geacht worden binnen zijn grondgebied te worden gemaakt, en
+- - door aan ieder land de kosten toe te rekenen die geacht worden binnen zijn grondgebied te worden gemaakt, en
 
-- -. door de kosten betrekking hebbend op de gemeenschappelijke niet-toewijsbare ontwikkelingswerkzaamheden en de aan derde landen uit te besteden ontwikkelingswerkzaamheden, voorzover zodanige kosten gefinancierd zullen worden door Airbus Industrie en de Partners, als volgt om te slaan:
+- - door de kosten betrekking hebbend op de gemeenschappelijke niet-toewijsbare ontwikkelingswerkzaamheden en de aan derde landen uit te besteden ontwikkelingswerkzaamheden, voorzover zodanige kosten gefinancierd zullen worden door Airbus Industrie en de Partners, als volgt om te slaan:
 
-- -. Koninkrijk België: 2,35%.
+   - - Koninkrijk België: 2,35%.
 
-- -. Koninkrijk der Nederlanden: 1,22%;
+   - - Koninkrijk der Nederlanden: 1,22%;
 
 3. Indien Belairbus of Fokker zijn verplichtingen niet nakomt, blijft de Regering van het land onder wiens wetten de betrokken industrie valt, aansprakelijk jegens de andere Regeringen tot het herziene bedrag van haar deel in de kosten van de ontwikkelingswerkzaamheden, zoals bepaald in de vorige leden.
 
@@ -109,13 +77,13 @@ Tenzij anders wordt besloten in elk afzonderlijk geval door de Intergouvernement
 
 1. Deze Overeenkomst is opengesteld voor ondertekening te Brussel vanaf 1 maart 1982 tot 31 maart 1982.
 
-- a). Indien de Overeenkomst van 1981 in werking is op de datum waarop alle ondertekenende Regeringen van deze Overeenkomst de Regering van het Koninkrijk België langs diplomatieke weg in kennis hebben gesteld van de vervulling van de formaliteiten die zijn vereist door hun interne regelingen, treedt deze Overeenkomst op die datum in werking.
+2. - a) Indien de Overeenkomst van 1981 in werking is op de datum waarop alle ondertekenende Regeringen van deze Overeenkomst de Regering van het Koninkrijk België langs diplomatieke weg in kennis hebben gesteld van de vervulling van de formaliteiten die zijn vereist door hun interne regelingen, treedt deze Overeenkomst op die datum in werking.
 
-- b). Indien de Overeenkomst van 1981 niet in werking is op de datum waarop alle ondertekenende Regeringen van deze Overeenkomst de Regering van het Koninkrijk België langs diplomatieke weg in kennis hebben gesteld van de vervulling van de formaliteiten vereist door hun interne regelingen, treedt deze Overeenkomst in werking op de datum van inwerkingtreding van de Overeenkomst van 1981.
+- b) Indien de Overeenkomst van 1981 niet in werking is op de datum waarop alle ondertekenende Regeringen van deze Overeenkomst de Regering van het Koninkrijk België langs diplomatieke weg in kennis hebben gesteld van de vervulling van de formaliteiten vereist door hun interne regelingen, treedt deze Overeenkomst in werking op de datum van inwerkingtreding van de Overeenkomst van 1981.
 
-- c). De Regering van het Koninkrijk België zal de overige ondertekenende Regeringen van de datum van ontvangst van alle kennisgevingen in kennis stellen.
+- c) De Regering van het Koninkrijk België zal de overige ondertekenende Regeringen van de datum van ontvangst van alle kennisgevingen in kennis stellen.
 
-2. De voorafgaandelijke bepalingen vormen de Overeenkomst tussen de Regeringen van het Koninkrijk België, van de Bondsrepubliek Duitsland, van Spanje, van de Franse Republiek, van het Koninkrijk der Nederlanden en van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, gedaan in één oorspronkelijk exemplaar te Brussel in de Duitse, Engelse, Franse, Nederlandse en Spaanse taal, zijnde iedere tekst gelijkelijk authentiek.
+De voorafgaandelijke bepalingen vormen de Overeenkomst tussen de Regeringen van het Koninkrijk België, van de Bondsrepubliek Duitsland, van Spanje, van de Franse Republiek, van het Koninkrijk der Nederlanden en van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, gedaan in één oorspronkelijk exemplaar te Brussel in de Duitse, Engelse, Franse, Nederlandse en Spaanse taal, zijnde iedere tekst gelijkelijk authentiek.
 
 De Regering van het Koninkrijk België zal aan de overige ondertekenende Regeringen gewaarmerkte afschriften van de onderhavige Overeenkomst doen toekomen.
 

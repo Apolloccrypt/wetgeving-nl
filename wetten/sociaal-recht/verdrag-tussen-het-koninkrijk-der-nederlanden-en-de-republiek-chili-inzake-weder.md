@@ -1,63 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Chili inzake wederzijdse administratieve bijstand ten behoeve van de juiste toepassing van de douanewetgeving en de voorkoming, opsporing en bestrijding van inbreuken op de douanewetgeving"
 identifier: "BWBV0001791"
-country: "nl"
-rank: "verdrag"
-publication_date: "2006-05-20"
-last_updated: "2005-06-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001791"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10002463743"
-version_id: "10002457072"
-internal_id: "C10006994021"
-label_id: "10002453474"
-dtd_version: "2.0"
-original_entry_into_force: "2006-05-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001791/2006-05-20/0"
-intitule_bron: "Trb.2005-191"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-03-08"
-intitule_published: "2005-08-10"
-intitule_in_force: "2006-05-23"
-intitule_status: "goed"
-original_publication: "Trb.2005-191"
-original_signed_date: "2006-03-08"
-original_published_date: "2005-08-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2005-191"
-entry_into_force_date: "2006-05-20"
-jci_1_3: "jci1.3:c:BWBV0001791&z=2006-05-20&g=2006-05-20"
-jci_1_0: "1.0:c:BWBV0001791&g=2006-05-20"
-citeertitel_status: "redactioneel"
-signed_date: "2006-03-08"
-entry_into_force: "2006-05-20"
+publicatiedatum: 2006-05-20
+laatste_update: 2006-05-20
+status: geldig
+toestand: 2006-05-20
+bron: "https://wetten.overheid.nl/BWBV0001791"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Chili inzake wederzijdse administratieve bijstand ten behoeve van de juiste toepassing van de douanewetgeving en de voorkoming, opsporing en bestrijding van inbreuken op de douanewetgeving
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Republiek Chili,
-
-hierna te noemen de Verdragsluitende Partijen,
-
-Gelet op het belang van een juiste vaststelling van de douanerechten en andere belastingen die bij invoer of uitvoer worden geïnd en van het waarborgen van een juiste handhaving van verboden, beperkingen en controlemaatregelen;
-
-Overwegende dat inbreuken op de douanewetgeving hun economische, fiscale, sociale en culturele belangen en hun volksgezondheids- en handelsbelangen schaden;
-
-Overwegende dat de grensoverschrijdende handel in verdovende middelen en psychotrope stoffen, gevaarlijke stoffen, bedreigde diersoorten en giftig afval een gevaar voor de samenleving vormt;
-
-Erkennende de noodzaak van internationale samenwerking ter zake van aangelegenheden die verband houden met de toepassing en handhaving van hun douanewetgeving;
-
-Ervan overtuigd dat het optreden tegen inbreuken op de douanewetgeving doeltreffender kan worden door middel van nauwe samenwerking tussen hun douaneadministraties op basis van duidelijke wettelijke bepalingen;
-
-Gelet op de van belang zijnde instrumenten van de Internationale Douaneraad, tegenwoordig bekend als de Wereld Douane Organisatie, in het bijzonder de Aanbeveling inzake wederzijdse administratieve bijstand van 5 december 1953;
-
-Tevens gelet op verdragen die verboden, beperkingen en bijzondere controlemaatregelen met betrekking tot bepaalde goederen bevatten;
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Republiek Chili, hierna te noemen de Verdragsluitende Partijen, Gelet op het belang van een juiste vaststelling van de douanerechten en andere belastingen die bij invoer of uitvoer worden geïnd en van het waarborgen van een juiste handhaving van verboden, beperkingen en controlemaatregelen; Overwegende dat inbreuken op de douanewetgeving hun economische, fiscale, sociale en culturele belangen en hun volksgezondheids- en handelsbelangen schaden; Overwegende dat de grensoverschrijdende handel in verdovende middelen en psychotrope stoffen, gevaarlijke stoffen, bedreigde diersoorten en giftig afval een gevaar voor de samenleving vormt; Erkennende de noodzaak van internationale samenwerking ter zake van aangelegenheden die verband houden met de toepassing en handhaving van hun douanewetgeving; Ervan overtuigd dat het optreden tegen inbreuken op de douanewetgeving doeltreffender kan worden door middel van nauwe samenwerking tussen hun douaneadministraties op basis van duidelijke wettelijke bepalingen; Gelet op de van belang zijnde instrumenten van de Internationale Douaneraad, tegenwoordig bekend als de Wereld Douane Organisatie, in het bijzonder de Aanbeveling inzake wederzijdse administratieve bijstand van 5 december 1953; Tevens gelet op verdragen die verboden, beperkingen en bijzondere controlemaatregelen met betrekking tot bepaalde goederen bevatten; Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. BEGRIPSOMSCHRIJVINGEN
 
@@ -285,10 +241,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN te Den Haag, op de vijftiende dag van de maand juni van het jaar twee duizend vijf, in tweevoud, in de Nederlandse, de Spaanse en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschil in interpretatie is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 B. R. BOT
 
-**Voor de Republiek Chili,**
+*Voor de Republiek Chili,*
 
 I. WALKER

@@ -1,230 +1,188 @@
 ---
 title: "Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Zwitserse Bondsraad betreffende militaire oefeningen, trainingen en opleidingen"
 identifier: "BWBV0001997"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-06-03"
-last_updated: "2007-04-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001997"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002598503"
-version_id: "10002595372"
-internal_id: "C10006997251"
-label_id: "10002587814"
-dtd_version: "2.0"
-original_entry_into_force: "2008-06-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001997/2008-06-03/0"
-intitule_bron: "Trb.2007-101"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-06-01"
-intitule_published: "2007-05-29"
-intitule_in_force: "2008-07-16"
-intitule_status: "goed"
-original_publication: "Trb.2007-101"
-original_signed_date: "2007-06-01"
-original_published_date: "2007-05-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2007-101"
-entry_into_force_date: "2008-06-03"
-jci_1_3: "jci1.3:c:BWBV0001997&z=2008-06-03&g=2008-06-03"
-jci_1_0: "1.0:c:BWBV0001997&g=2008-06-03"
-citeertitel_status: "redactioneel"
-signed_date: "2007-06-01"
-entry_into_force: "2008-06-03"
+publicatiedatum: 2008-06-03
+laatste_update: 2008-06-03
+status: geldig
+toestand: 2008-06-03
+bron: "https://wetten.overheid.nl/BWBV0001997"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Zwitserse Bondsraad betreffende militaire oefeningen, trainingen en opleidingen
 
-De Regering van het Koninkrijk der Nederlanden,
+*The Government of the Kingdom of the Netherlands, and the Swiss Federal Council their States thereafter referred to as ‘‘the Contracting Parties’’, Reaffirming their wish to strengthen the good and friendly relations between their respective armed forces; Desiring to further develop military co-operation in the field of exercise, training and education; Wishing to maintain an active relationship between the Contracting Parties’ respective armed forces by which their experience, professional knowledge and training doctrine shall be shared for mutual benefit to the extent possible; Wishing to set out the principles and procedures for the efficient use of training resources as well as the preparation and the conduct of military exercise, training and education; Bearing in mind the fact that the armed forces of both Contracting Parties should have the opportunity to train and exercise on each other’s territory; Referring to the provisions of the ‘‘Agreement among the states parties to the North Atlantic Treaty Organisation and the other states participating in the Partnership for Peace regarding the status of their forces’’ (PfP SOFA), and its Additional Protocol, both done in Brussels on 19 June 1995. Have agreed as follows:*
 
-en
+##### Article I. Definitions
 
-de Zwitserse Bondsraad,
+For the purpose of this Agreement, the following definitions shall apply:
 
-hun Staten hierna te noemen „de Verdragsluitende Partijen’’,
+- a) Receiving State; means the Contracting Party on whose territory the agreed military exercise, training and education shall take place;
 
-Opnieuw de wens uitsprekend de goede en vriendschappelijke betrekkingen tussen hun onderscheiden strijdkrachten te versterken;
+- b) Sending State; means the Contracting Party who sends personnel and military equipment to the Receiving State to participate in the agreed military exercise, training and education;
 
-Geleid door de wens de militaire samenwerking op het gebied van oefeningen, trainingen en opleidingen verder te ontwikkelen;
+- c) Sending State’s personnel; means the personnel belonging to the Sending State’s armed forces including civilian personnel in the employment of and accompanying such a force, who are not nationals of any State which is not a Party to the North Atlantic Treaty or the Partnership for Peace, nor nationals of, nor ordinarily resident in, the Receiving State.
 
-Geleid door de wens actieve betrekkingen te onderhouden tussen de onderscheiden strijdkrachten van de Verdragsluitende Partijen waarbij zij, voor zover mogelijk, hun ervaring, professionele kennis en trainingsdoctrines zullen uitwisselen tot wederzijds voordeel;
+##### Article II. Purpose and Scope
 
-De wens uitsprekend de beginselen en procedures vast te leggen voor het doelmatige gebruik van trainingsmiddelen alsmede de voorbereiding en uitvoering van militaire oefeningen, trainingen en opleidingen;
+This Agreement sets out the principles concerning the execution of armed forces activities regarding military exercises, training and education. This Agreement covers activities on the Contracting Parties’ territory.
 
-Indachtig het feit dat de strijdkrachten van beide Verdragsluitende Partijen de gelegenheid moeten hebben op elkaars grondgebied te trainen en te oefenen;
+##### Article III. Co-operation fields
 
-Onder verwijzing naar de bepalingen van het „Verdrag tussen de Staten die Partij zijn bij het Noord-Atlantisch Verdrag en de overige Staten die deelnemen aan het Partnerschap voor de Vrede nopens de rechtspositie van hun krijgsmachten’’ (PfP SOFA), en het Aanvullend Protocol daarbij, beide gedaan te Brussel op 19 juni 1995.
+1. Activities under this Agreement may include – but shall not be limited to – the following areas:
 
-Zijn het volgende overeengekomen:
+- a) Bilateral or multilateral military exercises, education and training for personnel and units of the armed forces of the Contracting Parties;
 
-##### Artikel I. Begripsomschrijvingen
+- b) Exchange of personnel;
 
-Voor de toepassing van dit Verdrag wordt verstaan onder:
+- c) Exchanges of lessons learned and development of military teaching materials and training programmes;
 
-- a. Ontvangende Staat: de Verdragsluitende Partij op wiens gebied de overeengekomen militaire oefening, training en opleiding plaatsvinden;
+- d) Training for peace support operations;
 
-- b. Zendstaat: de Verdragsluitende Partij die personeel en militaire uitrusting naar de Ontvangende Staat zendt om deel te nemen aan de overeengekomen militaire oefening, training en opleiding;
+- e) Training of personnel for the implementation of international treaties on arms control and disarmament;
 
-- c. Personeel van de Zendstaat: het personeel dat deel uitmaakt van de strijdkrachten van de Zendstaat, met inbegrip van leden van het burgerpersoneel die in dienst zijn van een dergelijke macht en deze vergezellen, en die geen onderdaan zijn van enige Staat die geen Partij is bij het Noord-Atlantisch Verdrag of het Partnerschap voor de Vrede, noch onderdaan van of gewoonlijk verblijvend in de Ontvangende Staat.
+- f) Exchange of information on armed forces organisation, structure and equipment of military units, and personnel management;
 
-##### Artikel II. Doel en reikwijdte
+- g) Military medical training;
 
-In dit Verdrag zijn de beginselen vervat betreffende de uitvoering van activiteiten van de strijdkrachten met betrekking tot militaire oefeningen, trainingen en opleidingen. Dit Verdrag heeft betrekking op de activiteiten op het grondgebied van de Verdragsluitende Partijen.
+- h) Mountaineering and survival training;
 
-##### Artikel III. Samenwerkingsgebieden
+- i) Air force training;
 
-1. Activiteiten ingevolge dit Verdrag kunnen mede omvatten, maar zijn niet beperkt tot:
+- j) Military sport.
 
-- a. bilaterale of multilaterale militaire oefeningen, opleidingen en trainingen voor personeel en eenheden van de strijdkrachten van de Verdragsluitende Partijen;
+2. This Agreement does not create any obligation for either Contracting Party to participate in any activity as mentioned in paragraph 1.
 
-- b. uitwisseling van personeel;
+##### Article IV. Technical Arrangements
 
-- c. delen van ervaringen en ontwikkeling van militair lesmateriaal en militaire trainingsprogramma’s;
+1. Detailed arrangements related to specific exercises, training and education shall be, as needed, specified in Technical Arrangements (TA). These TA’s shall be negotiated and concluded separately between the competent authorities in the Federal Department of Defence, Civil Protection and Sports of the Swiss Confederation and the Minister of Defence of the Kingdom of the Netherlands.
 
-- d. training voor vredesondersteuningsoperaties;
+2. In order to facilitate the Contracting Parties’ long term planning, TA’s should be concluded well in advance of the activity in question.
 
-- e. training van personeel voor de uitvoering van internationale verdragen inzake wapenbeheersing en ontwapening;
+##### Article V. Planning and Staff Talks
 
-- f. uitwisseling van informatie over de organisatie van de strijdkrachten, de structuur en uitrusting van militaire eenheden en personeelsbeheer;
+Representatives of the Contracting Parties may meet, as required, to evaluate, co-ordinate and plan activities under this Agreement.
 
-- g. medische opleiding voor militairen;
+##### Article VI. Status of Forces and Jurisdiction
 
-- h. bergtraining en overlevingstraining;
+1. The status of the Sending State’s personnel while in the territory of the Receiving State shall be governed by the Agreement among the states parties to the North Atlantic Treaty Organisation and the other states participating in the Partnership for Peace regarding the status of their forces (PfP SOFA), and its Additional Protocol, both done in Brussels on 19 June 1995.
 
-- i. training van de luchtmacht;
+2. The Sending State shall not hold any national court proceedings in the territory of the Receiving State.
 
-- j. militaire sport.
+3. Disciplinary matters are a national responsibility of the Contracting Parties.
 
-2. De bepalingen van dit Verdrag houden voor geen van de Verdragsluitende Partijen de verplichting in deel te nemen aan enige in het eerste lid genoemde activiteit.
+##### Article VII. Command and Control
 
-##### Artikel IV. Technische Regelingen
+Each Contracting Party shall retain command and control over its armed forces in accordance with its national regulations.
 
-1. Gedetailleerde afspraken over specifieke oefeningen, trainingen en opleidingen worden, al naargelang noodzakelijk, vastgelegd in Technische Regelingen (TA’s). Deze Technische Regelingen worden afzonderlijk gesloten tussen de bevoegde autoriteiten van het Federale Ministerie van Defensie, Civiele Bescherming en Sport van de Zwitserse Confederatie en de Minister van Defensie van het Koninkrijk der Nederlanden, die ook de onderhandelingen voeren over deze Regelingen.
+##### Article VIII. Clearances
 
-2. Teneinde de langetermijnplanning van de Verdragsluitende Partijen te vergemakkelijken, dienen Technische Regelingen ruim voor het plaatsvinden van de desbetreffende activiteit te worden gesloten.
+Each Contracting Party shall be responsible for its own overflight and landing clearances.
 
-##### Artikel V. Planning en stafbesprekingen
+##### Article IX. Physical Security, Policing Authority and Safety/Security Regulations
 
-Vertegenwoordigers van de Verdragsluitende Partijen kunnen elkaar, wanneer nodig, ontmoeten om activiteiten uit hoofde van dit Verdrag te evalueren, coördineren en plannen.
+1. Facilities made available to the Sending State shall be such as to enable the Sending State to provide effectively for its own security. Regularly constituted military units or formations of the Sending State shall have the right to police these facilities. The military police of the Sending State may take all appropriate measures to ensure maintenance of order and security in such facilities.
 
-##### Artikel VI. Rechtspositie van de krijgsmachten en rechtsmacht
+2. Outside the facilities, mentioned in paragraph 1, the military police of the Sending State shall be employed only subject to arrangements with the authorities of the Receiving State and in liaison with those authorities and in so far as such employment is necessary to maintain discipline and order among the Sending State’s personnel.
 
-1. De rechtspositie van het personeel van de Zendstaat dat zich op het grondgebied van de Ontvangende Staat bevindt wordt beheerst door het Verdrag tussen de Staten die Partij zijn bij het Noord-Atlantisch Verdrag en de overige Staten die deelnemen aan het Partnerschap voor de Vrede nopens de rechtspositie van hun krijgsmachten (PfP SOFA), en het Aanvullend Protocol daarbij, beide gedaan te Brussel op 19 juni 1995.
+3. The personnel of each Contracting Party shall observe its national military and civilian safety and security regulations with regard to the storage and employment of weapons, ammunition, vehicles and other equipment unless the respective Receiving State’s safety and security regulations require a higher level of security.
 
-2. De Zendstaat stelt geen nationale gerechtelijke procedures in op het grondgebied van de Ontvangende Staat.
+4. In case of joint exercises and training activities, the Contracting Parties shall apply the regulations providing the highest level of security.
 
-3. Tuchtrechtelijke aangelegenheden behoren tot de nationale verantwoordelijkheid van de Verdragsluitende Partijen.
+##### Article X. Use of Weapons and Ammunition
 
-##### Artikel VII. Bevelvoering en controle
+Weapons and ammunition may only be used in the Receiving State subject to the consent of the Receiving State on a case-by-case basis. The Sending State shall in due time provide the Receiving State with the information needed to consider the Sending State’s request to use weapons and ammunition in the Receiving State.
 
-Elke Verdragsluitende Partij behoudt de bevelvoering en de controle over haar strijdkrachten in overeenstemming met haar nationale regelgeving.
+##### Article XI. Involvement of Third Countries
 
-##### Artikel VIII. Vergunningen
+Should the Sending State wish to include personnel from a third country’s Armed Forces in activities on the Receiving State’s territory under this Agreement, the Sending State shall send a proposal to this effect to the Receiving State at the earliest opportunity during the planning process for the consideration and possible approval by the Receiving State. If the Receiving State decides to consent to such participation, the Sending State shall not be responsible for arrangements and obligations concerning the status of the third country’s personnel in the territory of the Receiving State. Separate arrangements may be necessary between the Receiving State and the third country.
 
-Elke Verdragsluitende Partij is verantwoordelijk voor haar eigen overvlieg- en landingsvergunningen.
+##### Article XII. Technical Investigations
 
-##### Artikel IX. Fysieke veiligheid, politiebevoegdheden en veiligheidsregels
+1. The Sending State is responsible for the airworthiness of its aircraft and the good state of repair or adequate technical state of its vehicles.
 
-1. De faciliteiten die de Zendstaat ter beschikking worden gesteld zijn zodanig dat de Zendstaat op doeltreffende wijze voor zijn eigen veiligheid zorg kan dragen. Geregelde militaire eenheden of formaties van de Zendstaat hebben het recht politietoezicht op deze faciliteiten uit te oefenen. De militaire politie van de Zendstaat mag alle vereiste maatregelen nemen om de handhaving van orde en veiligheid in dergelijke faciliteiten te waarborgen.
+2. If an aircraft or vehicle of the Sending State is involved in an incident or accident, the Sending State is obliged to report the incident or accident immediately to the Receiving State. In support of this procedure, the Receiving State shall state a point of contact for each activity under this Agreement.
 
-2. Buiten de in het eerste lid genoemde faciliteiten doet de militaire politie van de Zendstaat slechts dienst op grond van regelingen met de autoriteiten van de Ontvangende Staat en in samenwerking met deze autoriteiten en voor zover deze dienst noodzakelijk is voor het handhaven van tucht en orde onder het personeel van de Zendstaat.
+3. The appropriate authorities of the Sending State shall have the right to request a technical investigation in the Receiving State concerning incidents or accidents of a Sending State’s military aircraft or vehicle. Technical investigations shall be carried out in accordance with the national laws and regulations of the Receiving State.
 
-3. Het personeel van elke Verdragsluitende Partij neemt zijn nationale regelgeving inzake de veiligheid van militairen en burgers in acht met betrekking tot de opslag en het gebruik van wapens, munitie, voertuigen en andere uitrusting tenzij een hoger veiligheidsniveau vereist is ingevolge de desbetreffende veiligheidsregelgeving van de Ontvangende Staat.
+4. Technical investigations in the Receiving State may take place either:
 
-4. In geval van gezamenlijke oefeningen en trainingen passen de Verdragsluitende Partijen de regelgeving toe die het hoogste veiligheidsniveau biedt.
+- a) by the authorities of the Receiving State, or
 
-##### Artikel X. Gebruik van wapens en munitie
+- b) by the Sending State’s authorities in coordination with the authorities of the Receiving State when the Receiving State does not set up an investigation or when the Receiving State leaves the investigation to the authorities of the Sending State.
 
-Wapens en munitie mogen in de Ontvangende Staat slechts worden gebruikt als de Ontvangende Staat daarvoor toestemming geeft, hetgeen per geval wordt bepaald. De Zendstaat voorziet de Ontvangende Staat tijdig van de informatie die nodig is om het verzoek van de Zendstaat om wapens en munitie in de Ontvangende Staat te mogen gebruiken te beoordelen.
+5. Representatives of the Sending State may participate in investigations mentioned in paragraph 4a.
 
-##### Artikel XI. Betrokkenheid van derde landen
+6. In case of paragraph 4a, the representatives of the Sending State shall under the direction of the leading investigating authority of the Receiving State be authorised to:
 
-Indien de Zendstaat gebruik wenst te maken van personeel van de strijdkrachten van een derde land bij activiteiten op het grondgebied van de Ontvangende Staat uit hoofde van dit Verdrag, stuurt de Zendstaat daartoe in een zo vroeg mogelijk stadium van het planningsproces een voorstel aan de Ontvangende Staat ter beoordeling van en mogelijke goedkeuring door deze laatste. Indien de Ontvangende Staat besluit zijn goedkeuring aan een dergelijke deelname te verlenen, is de Zendstaat niet verantwoordelijk voor regelingen en verplichtingen ter zake van de rechtspositie van het personeel van het derde land op het grondgebied van de Ontvangende Staat. Er zijn mogelijk afzonderlijke regelingen nodig tussen de Ontvangende Staat en het derde land.
+- a) enter the scene of the accident or incident;
 
-##### Artikel XII. Technisch onderzoek
+- b) investigate the wreck;
 
-1. De Zendstaat is verantwoordelijk voor de luchtwaardigheid van zijn luchtvaartuigen en de goede staat van onderhoud of de juiste technische staat van zijn voertuigen.
+- c) bring in witnesses and evidence;
 
-2. Indien een luchtvaartuig of voertuig van de Zendstaat betrokken raakt bij een incident of ongeval, is de Zendstaat verplicht dit incident of ongeval onverwijld te rapporteren aan de Ontvangende Staat. Ter ondersteuning van deze procedure wijst de Ontvangende Staat voor elke activiteit ingevolge dit Verdrag een contactpunt aan.
+- d) receive information about witnesses and propose items of questioning;
 
-3. De desbetreffende autoriteiten van de Zendstaat hebben het recht om een technisch onderzoek te verzoeken in de Ontvangende Staat met betrekking tot incidenten of ongevallen met militaire luchtvaartuigen of voertuigen van de Zendstaat. Technisch onderzoek wordt uitgevoerd in overeenstemming met de nationale wet- en regelgeving van de Ontvangende Staat.
+- e) have access to all evidence as soon as possible;
 
-4. Technisch onderzoek in de Ontvangende Staat kan worden uitgevoerd door:
+- f) participate in the disclosure of recorded information;
 
-- a. ofwel de autoriteiten van de Ontvangende Staat, ofwel
+- g) receive copies of all relevant documentation;
 
-- b. de autoriteiten van de Zendstaat in overleg met de autoriteiten van de Ontvangende Staat wanneer de Ontvangende Staat geen onderzoek instelt of wanneer de Ontvangende Staat het onderzoek overlaat aan de autoriteiten van de Zendstaat.
+- h) participate in investigative activities outside the scene of the accident or incident;
 
-5. Vertegenwoordigers van de Zendstaat kunnen deelnemen aan het in het vierde lid, onderdeel a, genoemde onderzoek.
+- i) participate in meetings concerning the progress of the investigation;
 
-6. In het in het vierde lid, onderdeel a, genoemde geval zijn de vertegenwoordigers van de Zendstaat onder toezicht van de autoriteit van de Ontvangende Staat die het onderzoek leidt, bevoegd:
+- j) make recommendations in respect of the various elements of the investigation.
 
-- a. de plaats van het ongeval of incident te betreden;
+7. Where classified information is involved in any way in the framework of technical investigations following an accident or incident, the Contracting Parties shall apply the provisions of the security arrangements as mentioned in Article XV.
 
-- b. het wrak te onderzoeken;
+8. The Sending State shall bear all costs of its participation in an investigation.
 
-- c. getuigen en bewijsmateriaal op te voeren;
+##### Article XIII. Medical and Dental Support
 
-- d. informatie over getuigen te ontvangen en punten voor te stellen voor de ondervraging;
+1. Each Contracting Party shall ensure the provision of a sufficient health insurance for its personnel.
 
-- e. zo snel mogelijk toegang te verkrijgen tot al het bewijsmateriaal;
+2. The Sending State has a responsibility to ensure that the Sending State’s personnel are medically and dentally fit prior to participating in the activity in question.
 
-- f. deel te nemen aan de verstrekking van vastgelegde informatie;
+3. Emergency medical care and emergency dental treatment in military establishments shall be provided free of charge. Costs for further medical and dental treatment shall be borne by the Sending State.
 
-- g. afschriften te ontvangen van alle relevante documentatie;
+##### Article XIV. Financial Arrangements
 
-- h. deel te nemen aan onderzoeksactiviteiten buiten de plaats van het ongeval of incident;
+1. Each Contracting Party shall cover its own costs for personnel and equipment when performing activities under this Agreement.
 
-- i. deel te nemen aan bijeenkomsten over de voortgang van het onderzoek;
+2. For any services which are not provided free of charge, the Contracting Parties shall, in accordance with national laws and procedures, negotiate for payment either in cash or payment in kind. Any balance in respect of payments in kind shall be settled within a term of maximum three years. Detailed arrangements related to financial aspects will be agreed upon in Technical Arrangements.
 
-- j. voorstellen te doen ter zake van de diverse onderdelen van het onderzoek.
+##### Article XV. Disclosure of Information
 
-7. Wanneer er in het kader van technisch onderzoek na een ongeval of incident op enige wijze sprake is van geheime informatie, passen de Verdragsluitende Partijen de bepalingen van de veiligheidsregelingen toe zoals genoemd in artikel XV.
+All classified information and materiel exchanged or generated in connection with this Agreement shall be used, transmitted, stored, handled and safeguarded in accordance with the relevant security arrangements between Switzerland and the Kingdom of the Netherlands.
 
-8. De Zendstaat draagt alle kosten van zijn deelname aan een onderzoek.
+##### Article XVI. Application for the Kingdom of the Netherlands
 
-##### Artikel XIII. Geneeskundige en tandheelkundige zorg
+With respect to the Kingdom of the Netherlands this Agreement shall apply to the territory of the Kingdom in Europe only.
 
-1. Elke Verdragsluitende Partij waarborgt dat haar personeel onder een passende zorgverzekering valt.
+##### Article XVII. Settlement of Disputes
 
-2. Het behoort tot de verantwoordelijkheid van de Zendstaat te waarborgen dat personeel van de Zendstaat dat aan een activiteit gaat deelnemen in geneeskundig en tandheelkundig opzicht gezond is.
+Any dispute arising out of or in connection with this Agreement shall be resolved exclusively by means of negotiations and consultations between the Contracting Parties.
 
-3. Spoedeisende geneeskundige en tandheelkundige behandelingen in militaire inrichtingen worden kosteloos verricht. De kosten van geneeskundige en tandheelkundige vervolgbehandelingen worden door de Zendstaat gedragen.
+##### Article XVIII. Final Provisions
 
-##### Artikel XIV. Financiële regelingen
+1. This Agreement shall enter into force on the date on which both Contracting Parties have informed each other that all constitutional procedures for the entry into force have been fulfilled and shall be applied provisionally from the first day of the second month following the date of signature.
 
-1. Elke Verdragsluitende Partij draagt haar eigen kosten voor personeel en uitrusting bij de uitoefening van activiteiten ingevolge dit Verdrag.
+2. Any modification or amendment to this Agreement shall be made by agreement among the Contracting Parties. All such modifications or amendments shall enter into force on the date on which both Contracting Parties have informed each other that all constitutional procedures for the entry into force have been fulfilled.
 
-2. Voor diensten die niet kosteloos worden verstrekt, onderhandelen de Verdragsluitende Partijen, in overeenstemming met hun nationale wetten en procedures, over betaling in contanten of in natura. Verschillen met betrekking tot betalingen in natura worden binnen een termijn van ten hoogste drie jaar verrekend. Gedetailleerde regelingen met betrekking tot financiële aspecten worden in Technische Regelingen vastgelegd.
+3. This Agreement may be terminated by either Contracting Party by giving a 6 months notice in writing to the other.
 
-##### Artikel XV. Verstrekking van informatie
-
-Alle geheime informatie die en al het geheim materiaal dat wordt uitgewisseld of gegenereerd in verband met dit Verdrag, wordt in overeenstemming met de relevante veiligheidsregelingen tussen Zwitserland en het Koninkrijk der Nederlanden gebruikt, overgedragen, opgeslagen, gehanteerd en gewaarborgd.
-
-##### Artikel XVI. Toepassing voor het Koninkrijk der Nederlanden
-
-Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag slechts van toepassing op het grondgebied van het Koninkrijk in Europa.
-
-##### Artikel XVII. Beslechting van geschillen
-
-Geschillen die voortvloeien uit of verband houden met dit Verdrag worden uitsluitend door middel van overleg of onderhandelingen tussen de Verdragsluitende Partijen beslecht.
-
-##### Artikel XVIII. Slotbepalingen
-
-1. Dit Verdrag treedt in werking op de datum waarop beide Verdragsluitende Partijen elkaar ervan in kennis hebben gesteld dat alle voor de inwerkingtreding vereiste constitutionele procedures zijn voltooid en zal voorlopig worden toegepast vanaf de eerste dag van de tweede maand volgend op de datum van ondertekening.
-
-2. Wijzigingen of aanpassingen van dit Verdrag geschieden in onderlinge overeenstemming tussen de Verdragsluitende Partijen. Deze wijzigingen of aanpassingen treden in werking op de datum waarop beide Verdragsluitende Partijen elkaar ervan in kennis hebben gesteld dat alle voor de inwerkingtreding vereiste constitutionele procedures zijn voltooid.
-
-3. Dit Verdrag kan door elke Verdragsluitende Partij worden beëindigd door hiervan zes (6) maanden van te voren schriftelijk kennis te geven aan de andere Partij.
-
-4. Niettegenstaande een beëindiging van dit Verdrag, blijven de bepalingen ervan van toepassing op alle uitstaande financiële verplichtingen uit hoofde van dit Verdrag.
+4. Notwithstanding a termination of this Agreement, all outstanding financial obligations under this Agreement shall continue to be subject to the provisions of this Agreement.
 
 DONE in The Hague, on 12 april 2007, in duplicate in the English language.
 
-**For the Government of the Kingdom of the Netherlands,**
+*For the Government of the Kingdom of the Netherlands,*
 
 M. VERHAGEN
 
-**For the Swiss Federal Council,**
+*For the Swiss Federal Council,*
 
 D. ALDER

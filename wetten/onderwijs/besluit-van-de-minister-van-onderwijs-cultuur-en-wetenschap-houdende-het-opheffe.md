@@ -9,7 +9,7 @@ laatste_update: 2026-09-11
 status: geldig
 toestand: 2026-09-11
 bron: "https://wetten.overheid.nl/BWBR0053090"
-opgehaald: 2026-09-11
+opgehaald: 2026-09-12
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap houdende het opheffen van de beperking aan de openbaarheid van het archief van het Kantongerecht te Zierikzee, (1813) 1838–1989 (2006), blok- en toegangsnummer 715, Rechtbank Zeeland – West-Brabant

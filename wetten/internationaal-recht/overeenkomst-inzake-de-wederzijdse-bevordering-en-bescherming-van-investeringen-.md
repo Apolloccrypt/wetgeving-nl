@@ -1,77 +1,45 @@
 ---
 title: "Overeenkomst inzake de wederzijdse bevordering en bescherming van investeringen tussen het Koninkrijk der Nederlanden en de Republiek Turkije"
 identifier: "BWBV0002522"
-country: "nl"
-rank: "verdrag"
-publication_date: "1989-11-01"
-last_updated: "1989-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002522"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002921213"
-version_id: "10002922442"
-internal_id: "C10006979461"
-label_id: "10002908384"
-dtd_version: "2.0"
-original_entry_into_force: "1989-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002522/1989-11-01/0"
-intitule_bron: "Trb.1986-53"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1987-01-22"
-intitule_published: "1986-04-24"
-intitule_in_force: "1989-10-20"
-intitule_status: "goed"
-original_publication: "Trb.1986-53"
-original_signed_date: "1987-01-22"
-original_published_date: "1986-04-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1986-53"
-entry_into_force_date: "1989-11-01"
-jci_1_3: "jci1.3:c:BWBV0002522&z=1989-11-01&g=1989-11-01"
-jci_1_0: "1.0:c:BWBV0002522&g=1989-11-01"
-citeertitel_status: "officieel"
-signed_date: "1987-01-22"
-entry_into_force: "1989-11-01"
+publicatiedatum: 1989-11-01
+laatste_update: 1989-11-01
+status: geldig
+toestand: 1989-11-01
+bron: "https://wetten.overheid.nl/BWBV0002522"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst inzake de wederzijdse bevordering en bescherming van investeringen tussen het Koninkrijk der Nederlanden en de Republiek Turkije
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-De Regering van de Republiek Turkije,
-
-Geleid door de wens de van oudsher tussen hun landen bestaande vriendschapsbanden te versterken, de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door de investeerders van de ene Overeenkomstsluitende Partij op het grondgebied van de andere Overeenkomstsluitende Partij betreft,
-
-In het besef dat overeenstemming omtrent de aan zulke investeringen toe te kennen behandeling, het kapitaalverkeer en de uitwisseling van technologie tussen, alsmede de economische ontwikkeling van de Overeenkomstsluitende Partijen zal stimuleren en dat een billijke en rechtvaardige behandeling van investeringen wenselijk is,
-
-Zijn overeengekomen als volgt:
+*De Regering van het Koninkrijk der Nederlanden en De Regering van de Republiek Turkije, Geleid door de wens de van oudsher tussen hun landen bestaande vriendschapsbanden te versterken, de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door de investeerders van de ene Overeenkomstsluitende Partij op het grondgebied van de andere Overeenkomstsluitende Partij betreft, In het besef dat overeenstemming omtrent de aan zulke investeringen toe te kennen behandeling, het kapitaalverkeer en de uitwisseling van technologie tussen, alsmede de economische ontwikkeling van de Overeenkomstsluitende Partijen zal stimuleren en dat een billijke en rechtvaardige behandeling van investeringen wenselijk is, Zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 
 Voor de toepassing van deze Overeenkomst:
 
-- (a). betekent „investeerder”
+- (a) betekent „investeerder”
 
-- (i). een natuurlijke persoon die onderdaan is van een Overeenkomstsluitende Partij krachtens haar van toepassing zijnde wet;
+   - (i) een natuurlijke persoon die onderdaan is van een Overeenkomstsluitende Partij krachtens haar van toepassing zijnde wet;
 
-- (ii). een rechtspersoon, opgericht of ingesteld of anderszins naar behoren opgezet krachtens de van toepassing zijnde wetten en voorschriften van een Overeenkomstsluitende Partij.
+   - (ii) een rechtspersoon, opgericht of ingesteld of anderszins naar behoren opgezet krachtens de van toepassing zijnde wetten en voorschriften van een Overeenkomstsluitende Partij.
 
-- (b). betekent „investering” alle vermogensbestanddelen zoals actief vermogen, schulden, vorderingen, dienstverlenings- en investeringsovereenkomsten, en omvat onder meer:
+- (b) betekent „investering” alle vermogensbestanddelen zoals actief vermogen, schulden, vorderingen, dienstverlenings- en investeringsovereenkomsten, en omvat onder meer:
 
-- (i). stoffelijke en onstoffelijke zaken, daaronder begrepen rechten zoals hypotheken, verhaalsrechten en pandrechten;
+   - (i) stoffelijke en onstoffelijke zaken, daaronder begrepen rechten zoals hypotheken, verhaalsrechten en pandrechten;
 
-- (ii). aandelen of andere belangen in een onderneming of belangen in de activa daarvan;
+   - (ii) aandelen of andere belangen in een onderneming of belangen in de activa daarvan;
 
-- (iii). een financiële vordering of een vordering ten aanzien van een prestatie, die economische waarde bezit en verband houdt met een investering;
+   - (iii) een financiële vordering of een vordering ten aanzien van een prestatie, die economische waarde bezit en verband houdt met een investering;
 
-- (iv). industriële eigendomsrechten, daaronder begrepen rechten ten aanzien van octrooien, handelsmerken, handelsnamen, industriële ontwerpen, technische kennis en werkwijzen, goodwill en auteursrechten;
+   - (iv) industriële eigendomsrechten, daaronder begrepen rechten ten aanzien van octrooien, handelsmerken, handelsnamen, industriële ontwerpen, technische kennis en werkwijzen, goodwill en auteursrechten;
 
-- (v). elk recht dat bij de wet of bij overeenkomst is verleend, alsmede alle licenties en vergunningen.
+   - (v) elk recht dat bij de wet of bij overeenkomst is verleend, alsmede alle licenties en vergunningen.
 
-- (c). omvat „grondgebied” mede de aan de desbetreffende Staat grenzende zeegebieden voor zover die Staat in die gebieden soevereine rechten of rechtsmacht uitoefent overeenkomstig het internationale recht.
+- (c) omvat „grondgebied” mede de aan de desbetreffende Staat grenzende zeegebieden voor zover die Staat in die gebieden soevereine rechten of rechtsmacht uitoefent overeenkomstig het internationale recht.
 
-- (d). betekent „in eigendom of beheer” direct of indirect eigendoms- of beheersrecht, daaronder begrepen eigendoms- of beheersrecht, uitgeoefend via dochterondernemingen of filialen, waar deze zich ook mogen bevinden.
+- (d) betekent „in eigendom of beheer” direct of indirect eigendoms- of beheersrecht, daaronder begrepen eigendoms- of beheersrecht, uitgeoefend via dochterondernemingen of filialen, waar deze zich ook mogen bevinden.
 
 ##### Artikel 2
 
@@ -89,33 +57,33 @@ Voor de toepassing van deze Overeenkomst:
 
 3. De bepalingen van het eerste en het tweede lid mogen niet zo worden uitgelegd dat daardoor de ene Overeenkomstsluitende Partij wordt verplicht aan de investeerders van de andere Overeenkomstsluitende Partij de voordelen toe te kennen van een behandeling, preferentie of voorrecht voortvloeiend uit:
 
-- (a). bestaande of toekomstige douane-unies, economische unies of soortgelijke instellingen, of op basis van interimovereenkomsten die tot zulke unies of instellingen leiden, of
+- (a) bestaande of toekomstige douane-unies, economische unies of soortgelijke instellingen, of op basis van interimovereenkomsten die tot zulke unies of instellingen leiden, of
 
-- (b). internationale overeenkomsten of regelingen die geheel of voornamelijk belastingheffing betreffen, of op basis van wederkerigheid met een derde Staat.
+- (b) internationale overeenkomsten of regelingen die geheel of voornamelijk belastingheffing betreffen, of op basis van wederkerigheid met een derde Staat.
 
 ##### Artikel 4
 
 Elke Overeenkomstsluitende Partij staat, voor zover toegestaan door en overeenkomstig haar desbetreffende wetten en voorschriften, de overmaking toe zonder onredelijke beperkingen of vertraging, naar haar land of naar het land van de andere Overeenkomstsluitende Partij en in de valuta van dat land of in een vrij inwisselbare valuta, van betalingen die voortvloeien uit investeringsactiviteiten en in het bijzonder van de volgende bestanddelen:
 
-- a). winsten, dividenden, vermogensaanwas en soortgelijke betalingen;
+- a) winsten, dividenden, vermogensaanwas en soortgelijke betalingen;
 
-- b). de opbrengst van de verkoop of de liquidatie van alle investeringen of een deel daarvan;
+- b) de opbrengst van de verkoop of de liquidatie van alle investeringen of een deel daarvan;
 
-- c). afbetaling van de hoofdsom of betaling van interesten, voortvloeiende uit een leenovereenkomst;
+- c) afbetaling van de hoofdsom of betaling van interesten, voortvloeiende uit een leenovereenkomst;
 
-- d). honoraria voor verleende beheersdiensten, vergoedingen voor verleende technische hulp, salarissen van het personeel en andere kosten;
+- d) honoraria voor verleende beheersdiensten, vergoedingen voor verleende technische hulp, salarissen van het personeel en andere kosten;
 
-- e). royalty's.
+- e) royalty's.
 
 ##### Artikel 5
 
 Geen van beide Overeenkomstsluitende Partijen neemt maatregelen, waardoor aan investeerders van de andere Overeenkomstsluitende Partij direct of indirect hun investeringen worden ontnomen, tenzij aan de volgende voorwaarden is voldaan:
 
-- a). de maatregelen zijn genomen in het algemeen belang en met inachtneming van een behoorlijke rechtsgang;
+- a) de maatregelen zijn genomen in het algemeen belang en met inachtneming van een behoorlijke rechtsgang;
 
-- b). de maatregelen zijn niet discriminatoir;
+- b) de maatregelen zijn niet discriminatoir;
 
-- c). de maatregelen gaan vergezeld van een regeling voor de betaling van rechtvaardige schadeloosstelling. Deze schadeloosstelling dient de billijke marktwaarde van de investering of bij gebreke van een billijke marktwaarde de werkelijke waarde van de desbetreffende investeringen te vertegenwoordigen en zij moet, wil zij doeltreffend zijn voor de investeerders, zonder onredelijke vertraging worden betaald en vrijelijk kunnen worden overgemaakt naar het land waarvan de betrokken investeerders onderdaan zijn of naar elk ander land dat door de betrokken Overeenkomstsluitende Partij is aanvaard en in de valuta waarin de investering oorspronkelijk was verricht, dan wel in een vrij inwisselbare valuta waarover de investeerder en de Overeenkomstsluitende Partij onderling overeenstemming hebben bereikt.
+- c) de maatregelen gaan vergezeld van een regeling voor de betaling van rechtvaardige schadeloosstelling. Deze schadeloosstelling dient de billijke marktwaarde van de investering of bij gebreke van een billijke marktwaarde de werkelijke waarde van de desbetreffende investeringen te vertegenwoordigen en zij moet, wil zij doeltreffend zijn voor de investeerders, zonder onredelijke vertraging worden betaald en vrijelijk kunnen worden overgemaakt naar het land waarvan de betrokken investeerders onderdaan zijn of naar elk ander land dat door de betrokken Overeenkomstsluitende Partij is aanvaard en in de valuta waarin de investering oorspronkelijk was verricht, dan wel in een vrij inwisselbare valuta waarover de investeerder en de Overeenkomstsluitende Partij onderling overeenstemming hebben bereikt.
 
 ##### Artikel 6
 
@@ -133,15 +101,15 @@ Geschillen tussen een Overeenkomstsluitende Partij en een verzekeraar worden ger
 
 1. Voor de toepassing van dit artikel wordt een investeringsgeschil omschreven als een geschil betreffende:
 
-- (a). de uitlegging of toepassing van een door de instantie voor buitenlandse investeringen van een Overeenkomstsluitende Partij aan een investeerder van de andere Overeenkomstsluitende Partij verleende investeringsmachtiging; of
+- (a) de uitlegging of toepassing van een door de instantie voor buitenlandse investeringen van een Overeenkomstsluitende Partij aan een investeerder van de andere Overeenkomstsluitende Partij verleende investeringsmachtiging; of
 
-- (b). een inbreuk op een ingevolge deze Overeenkomst met betrekking tot een investering verleend of in het leven geroepen recht.
+- (b) een inbreuk op een ingevolge deze Overeenkomst met betrekking tot een investering verleend of in het leven geroepen recht.
 
 2. Indien zich een investeringsgeschil voordoet tussen een Overeenkomstsluitende Partij en een investeerder van de andere Overeenkomstsluitende Partij, trachten de partijen bij het geschil dit eerst te regelen door middel van overleg en onderhandelingen in goed vertrouwen. Indien dit overleg of deze onderhandelingen niet slagen, kan het geschil worden beslecht door middel van niet-bindende procedures via derden waarover de investeerder en de Overeenkomstsluitende Partij onderling overeenstemming hebben bereikt. Indien het geschil niet door middel van de hierboven bedoelde procedures kan worden geregeld, kan de betrokken investeerder, te eniger tijd na een periode van één jaar vanaf de datum waarop het geschil is ontstaan, besluiten het geschil voor te leggen aan het Internationale Centrum voor Beslechting van Investeringsgeschillen (hierna te noemen „het Centrum”) voor beslechting door middel van arbitrage mits, in het geval dat de betrokken investeerder het geschil heeft voorgelegd aan de rechter van de Overeenkomstsluitende Partij die partij is bij het geschil, er nog geen definitieve uitspraak is gedaan.
 
-- (a). Elke Overeenkomstsluitende Partij stemt hierbij in met de voorlegging van een investeringsgeschil aan het Centrum voor beslechting door middel van arbitrage.
+3. - (a) Elke Overeenkomstsluitende Partij stemt hierbij in met de voorlegging van een investeringsgeschil aan het Centrum voor beslechting door middel van arbitrage.
 
-- (b). De arbitrage ten aanzien van zulke geschillen geschiedt overeenkomstig de bepalingen van het Verdrag inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten en de procedureregels voor arbitrage van het Centrum.
+- (b) De arbitrage ten aanzien van zulke geschillen geschiedt overeenkomstig de bepalingen van het Verdrag inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten en de procedureregels voor arbitrage van het Centrum.
 
 4. Voor de toepassing van dit artikel wordt elke rechtspersoon, opgericht of ingesteld krachtens de van toepassing zijnde wetten en voorschriften van een der Overeenkomstsluitende Partijen, maar die onmiddellijk voordat de gebeurtenis of gebeurtenissen die aanleiding gaven tot het geschil zich voordeden, een investering vormde van investeerders van de andere Overeenkomstsluitende Partij, overeenkomstig artikel 25 (2) (b) van het Verdrag inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten behandeld als investeerder van die andere Overeenkomstsluitende Partij.
 
@@ -185,12 +153,12 @@ TEN BLIJKE WAARVAN de ondertekenende vertegenwoordigers, daartoe behoorlijk gema
 
 GEDAAN in tweevoud te Ankara op 27 maart 1986 in de Nederlandse, Turkse en Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschil in uitlegging is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 (sd.) G. M. V. VAN AARDENNE
 
 (sd.) P. C. NIEMAN
 
-**Voor de Regering van de Republiek Turkije,**
+*Voor de Regering van de Republiek Turkije,*
 
 (sd.) I. KAYA ERDEM

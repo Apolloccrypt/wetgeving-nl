@@ -1,53 +1,19 @@
 ---
 title: "Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek India"
 identifier: "BWBV0002232"
-country: "nl"
-rank: "verdrag"
-publication_date: "1986-02-01"
-last_updated: "1986-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002232"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002711143"
-version_id: "10002709912"
-internal_id: "C10006978351"
-label_id: "10002699084"
-dtd_version: "2.0"
-original_entry_into_force: "1986-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002232/1986-02-01/0"
-intitule_bron: "Trb.1985-90"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1985-11-18"
-intitule_published: "1985-06-14"
-intitule_in_force: "1986-01-28"
-intitule_status: "goed"
-original_publication: "Trb.1985-90"
-original_signed_date: "1985-11-18"
-original_published_date: "1985-06-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1985-90"
-entry_into_force_date: "1986-02-01"
-jci_1_3: "jci1.3:c:BWBV0002232&z=1986-02-01&g=1986-02-01"
-jci_1_0: "1.0:c:BWBV0002232&g=1986-02-01"
-citeertitel_status: "officieel"
-signed_date: "1985-11-18"
-entry_into_force: "1986-02-01"
+publicatiedatum: 1986-02-01
+laatste_update: 1986-02-01
+status: geldig
+toestand: 1986-02-01
+bron: "https://wetten.overheid.nl/BWBV0002232"
+opgehaald: 2026-09-12
 ---
+
 # Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek India
 
-De Regering van het Koninkrijk der Nederlanden,
-
-en
-
-De Regering van de Republiek India,
-
-(hierna te noemen de „Overeenkomstsluitende Partijen”),
-
-Geleid door de wens de culturele samenwerking in de ruimste zin tussen beide landen te bevorderen en te ontwikkelen,
-
-Overtuigd dat deze samenwerking zal bijdragen tot de bevordering van wederzijds begrip en vriendschap tussen beide landen,
-
-Zijn als volgt overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden, en De Regering van de Republiek India, (hierna te noemen de „Overeenkomstsluitende Partijen”), Geleid door de wens de culturele samenwerking in de ruimste zin tussen beide landen te bevorderen en te ontwikkelen, Overtuigd dat deze samenwerking zal bijdragen tot de bevordering van wederzijds begrip en vriendschap tussen beide landen, Zijn als volgt overeengekomen:*
 
 ##### Artikel 1
 
@@ -109,7 +75,7 @@ TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden, daartoe behoorlijk gemacht
 
 GEDAAN te 's-Gravenhage op vierentwintig mei 1985 A.D., welke datum overeenkomt met de derde dag van Jyaistha in het Saka jaar 1907, in twee originele exemplaren, beide in de Nederlandse, de Hindi en de Engelse taal, zijnde alle teksten gelijkelijk authentiek, behalve in geval van twijfel, in welk geval de Engelse tekst doorslaggevend is.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.). W. F. VAN EEKELEN
 
@@ -117,7 +83,7 @@ GEDAAN te 's-Gravenhage op vierentwintig mei 1985 A.D., welke datum overeenkomt 
 
 Staatssecretaris van Buitenlandse Zaken
 
-**Voor de Regering van de Republiek India**
+*Voor de Regering van de Republiek India*
 
 (w.g.) K. P. SINGH DEO
 

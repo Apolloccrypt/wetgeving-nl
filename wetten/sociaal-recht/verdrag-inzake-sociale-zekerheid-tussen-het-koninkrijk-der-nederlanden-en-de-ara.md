@@ -1,53 +1,19 @@
 ---
 title: "Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en de Arabische Republiek Egypte"
 identifier: "BWBV0001602"
-country: "nl"
-rank: "verdrag"
-publication_date: "2005-09-01"
-last_updated: "2003-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001602"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10001384813"
-version_id: "10001453712"
-internal_id: "C10006993501"
-label_id: "10001385164"
-dtd_version: "2.0"
-original_entry_into_force: "2005-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001602/2005-09-01/0"
-intitule_bron: "Trb.2003-145"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-09-01"
-intitule_published: "2003-09-12"
-intitule_in_force: "2005-09-08"
-intitule_status: "goed"
-original_publication: "Trb.2003-145"
-original_signed_date: "2003-09-01"
-original_published_date: "2003-09-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2003-145"
-entry_into_force_date: "2005-09-01"
-jci_1_3: "jci1.3:c:BWBV0001602&z=2005-09-01&g=2005-09-01"
-jci_1_0: "1.0:c:BWBV0001602&g=2005-09-01"
-citeertitel_status: "redactioneel"
-signed_date: "2003-09-01"
-entry_into_force: "2005-09-01"
+publicatiedatum: 2005-09-01
+laatste_update: 2005-09-01
+status: geldig
+toestand: 2005-09-01
+bron: "https://wetten.overheid.nl/BWBV0001602"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en de Arabische Republiek Egypte
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Arabische Republiek Egypte,
-
-Hierna te noemen de Verdragsluitende Partijen,
-
-Geleid door de wens betrekkingen op het gebied van sociale zekerheid tot stand te brengen,
-
-Geleid door de wens de samenwerking tussen de twee staten te regelen ter waarborging van de handhaving van de wetgeving van het ene land in het andere en ter waarborging van een gelijke behandeling van de onderdanen van beide landen,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Arabische Republiek Egypte, Hierna te noemen de Verdragsluitende Partijen, Geleid door de wens betrekkingen op het gebied van sociale zekerheid tot stand te brengen, Geleid door de wens de samenwerking tussen de twee staten te regelen ter waarborging van de handhaving van de wetgeving van het ene land in het andere en ter waarborging van een gelijke behandeling van de onderdanen van beide landen, Zijn het volgende overeengekomen:*
 
 ## DEEL I. ALGEMENE BEPALINGEN
 
@@ -55,29 +21,29 @@ Zijn het volgende overeengekomen:
 
 1. Voor de toepassing van dit Verdrag wordt verstaan onder:
 
-- a. „grondgebied", met betrekking tot het Koninkrijk der Nederlanden, het grondgebied van het Koninkrijk in Europa; met betrekking tot de Arabische Republiek Egypte, het gehele staatsgebied van de Arabische Republiek Egypte met inbegrip van de binnenwateren, en de territoriale zee en de ondergrond ten aanzien waarvan Egypte haar soevereine rechten en rechtsmacht uitoefent, en de exclusieve economische zone waarin Egypte haar soevereine rechten en rechtsmacht uitoefent, in overeenstemming met haar wetgeving en met de regels en beginselen van het internationale recht;
+- a „grondgebied", met betrekking tot het Koninkrijk der Nederlanden, het grondgebied van het Koninkrijk in Europa; met betrekking tot de Arabische Republiek Egypte, het gehele staatsgebied van de Arabische Republiek Egypte met inbegrip van de binnenwateren, en de territoriale zee en de ondergrond ten aanzien waarvan Egypte haar soevereine rechten en rechtsmacht uitoefent, en de exclusieve economische zone waarin Egypte haar soevereine rechten en rechtsmacht uitoefent, in overeenstemming met haar wetgeving en met de regels en beginselen van het internationale recht;
 
-- b. „bevoegde autoriteit", met betrekking tot het Koninkrijk der Nederlanden, de minister van Sociale Zaken en Werkgelegenheid van Nederland; met betrekking tot de Arabische Republiek Egypte, de minister van Verzekering en Sociale Zaken;
+- b „bevoegde autoriteit", met betrekking tot het Koninkrijk der Nederlanden, de minister van Sociale Zaken en Werkgelegenheid van Nederland; met betrekking tot de Arabische Republiek Egypte, de minister van Verzekering en Sociale Zaken;
 
-- c. „bevoegd orgaan", met betrekking tot het Koninkrijk der Nederlanden betreffende de takken van sociale zekerheid bedoeld in artikel 2, eerste lid, onder i, ii, iii en iv: het Uitvoeringsinstituut werknemersverzekeringen; betreffende de takken van sociale zekerheid bedoeld in artikel 2, eerste lid, onder v, vi en vii: de Sociale verzekeringsbank; betreffende de wetgeving inzake sociale bijstand: de instelling die daartoe is aangewezen door de Nederlandse bevoegde autoriteit; met betrekking tot de Arabische Republiek Egypte: het ministerie van Verzekering en Sociale Zaken en de Nationale Organisatie voor Sociale Verzekering of elke organisatie bevoegd tot het uitvoeren van een taak die momenteel wordt uitgevoerd door voornoemde organen;
+- c „bevoegd orgaan", met betrekking tot het Koninkrijk der Nederlanden betreffende de takken van sociale zekerheid bedoeld in artikel 2, eerste lid, onder i, ii, iii en iv: het Uitvoeringsinstituut werknemersverzekeringen; betreffende de takken van sociale zekerheid bedoeld in artikel 2, eerste lid, onder v, vi en vii: de Sociale verzekeringsbank; betreffende de wetgeving inzake sociale bijstand: de instelling die daartoe is aangewezen door de Nederlandse bevoegde autoriteit; met betrekking tot de Arabische Republiek Egypte: het ministerie van Verzekering en Sociale Zaken en de Nationale Organisatie voor Sociale Verzekering of elke organisatie bevoegd tot het uitvoeren van een taak die momenteel wordt uitgevoerd door voornoemde organen;
 
-- d. „instellingen", elke organisatie die betrokken is bij de uitvoering van dit Verdrag, met inbegrip van onder meer de bevolkingsregisters, geboorte-, overlijdens- en huwelijksregisters, belastingautoriteiten, arbeidsbureaus, scholen en andere onderwijsinstellingen, kadasterregisters, handelsautoriteiten, politie, gevangeniswezen en immigratiediensten;
+- d „instellingen", elke organisatie die betrokken is bij de uitvoering van dit Verdrag, met inbegrip van onder meer de bevolkingsregisters, geboorte-, overlijdens- en huwelijksregisters, belastingautoriteiten, arbeidsbureaus, scholen en andere onderwijsinstellingen, kadasterregisters, handelsautoriteiten, politie, gevangeniswezen en immigratiediensten;
 
-- e. „wetgeving", de wetgeving met betrekking tot de takken van sociale zekerheid genoemd in artikel 2;
+- e „wetgeving", de wetgeving met betrekking tot de takken van sociale zekerheid genoemd in artikel 2;
 
-- f. „uitkering", elke uitkering in geld of elk pensioen krachtens de wetgeving;
+- f „uitkering", elke uitkering in geld of elk pensioen krachtens de wetgeving;
 
-- g. „uitkeringsgerechtigde", een persoon die een uitkering aanvraagt of recht heeft op een uitkering;
+- g „uitkeringsgerechtigde", een persoon die een uitkering aanvraagt of recht heeft op een uitkering;
 
-- h. „gezinslid", een persoon die als zodanig wordt omschreven of aangemerkt door de wetgeving;
+- h „gezinslid", een persoon die als zodanig wordt omschreven of aangemerkt door de wetgeving;
 
-- i. „werknemer", een persoon die in legale dienstbetrekking staat tot een werkgever alsmede ieder die krachtens de toegepaste wetgeving wordt aangemerkt als werknemer;
+- i „werknemer", een persoon die in legale dienstbetrekking staat tot een werkgever alsmede ieder die krachtens de toegepaste wetgeving wordt aangemerkt als werknemer;
 
-- j. „zelfstandige", een persoon die zonder een arbeidsovereenkomst werkzaamheden verricht of een beroep uitoefent voor zijn of haar eigen rekening;
+- j „zelfstandige", een persoon die zonder een arbeidsovereenkomst werkzaamheden verricht of een beroep uitoefent voor zijn of haar eigen rekening;
 
-- k. „wonen", regulier wonen;
+- k „wonen", regulier wonen;
 
-- l. „verblijven", tijdelijk wonen.
+- l „verblijven", tijdelijk wonen.
 
 2. Andere in dit Verdrag gebruikte termen hebben de betekenis die daaraan in de toegepaste wetgeving wordt gegeven.
 
@@ -85,31 +51,31 @@ Zijn het volgende overeengekomen:
 
 Dit Verdrag is van toepassing:
 
-- 1. Ten aanzien van het Koninkrijk der Nederlanden, op de Nederlandse wetgeving inzake sociale bijstand en de volgende takken van sociale verzekering:
+- 1 Ten aanzien van het Koninkrijk der Nederlanden, op de Nederlandse wetgeving inzake sociale bijstand en de volgende takken van sociale verzekering:
 
-- i. uitkeringen bij ziekte (uitkeringen bij ziekte en moederschap);
+   - i uitkeringen bij ziekte (uitkeringen bij ziekte en moederschap);
 
-- ii. arbeidsongeschiktheidsuitkeringen voor werknemers;
+   - ii arbeidsongeschiktheidsuitkeringen voor werknemers;
 
-- iii. arbeidsongeschiktheidsuitkeringen voor zelfstandigen;
+   - iii arbeidsongeschiktheidsuitkeringen voor zelfstandigen;
 
-- iv. werkloosheidsuitkeringen;
+   - iv werkloosheidsuitkeringen;
 
-- v. ouderdomspensioenen;
+   - v ouderdomspensioenen;
 
-- vi. nabestaandenuitkeringen;
+   - vi nabestaandenuitkeringen;
 
-- vii. kinderbijslagen.
+   - vii kinderbijslagen.
 
-- 2. Ten aanzien van de Arabische Republiek Egypte, op de wetgeving inzake de volgende takken van sociale zekerheid:
+- 2 Ten aanzien van de Arabische Republiek Egypte, op de wetgeving inzake de volgende takken van sociale zekerheid:
 
-- i. ouderdomsuitkeringen, arbeidsongeschiktheidsuitkeringen en nabestaandenuitkeringen;
+   - i ouderdomsuitkeringen, arbeidsongeschiktheidsuitkeringen en nabestaandenuitkeringen;
 
-- ii. uitkeringen bij arbeidsongevallen en beroepsziekten;
+   - ii uitkeringen bij arbeidsongevallen en beroepsziekten;
 
-- iii. uitkeringen bij ziekte;
+   - iii uitkeringen bij ziekte;
 
-- iv. werkloosheidsuitkeringen.
+   - iv werkloosheidsuitkeringen.
 
 ##### Artikel 3. Personele werkingssfeer
 
@@ -221,9 +187,9 @@ Indien een bevoegd orgaan een voor tenuitvoerlegging vatbare beslissing heeft ge
 
 Het bevoegde orgaan van een Verdragsluitende Partij kan weigeren een uitkering toe te kennen of de betaling ervan opschorten of intrekken indien:
 
-- 1. een uitkeringsgerechtigde of een lid van zijn gezin heeft verzuimd binnen een tijdvak van drie maanden een onderzoek te ondergaan of informatie te verstrekken zoals vereist ingevolge artikel 13 en artikel 15, derde lid, van dit Verdrag, of
+- 1 een uitkeringsgerechtigde of een lid van zijn gezin heeft verzuimd binnen een tijdvak van drie maanden een onderzoek te ondergaan of informatie te verstrekken zoals vereist ingevolge artikel 13 en artikel 15, derde lid, van dit Verdrag, of
 
-- 2. het bevoegde orgaan van de andere Verdragsluitende Partij heeft verzuimd binnen een tijdvak van drie maanden de informatie over te leggen of een onderzoek te verrichten zoals vereist ingevolge artikel 13, artikel 14, tweede lid, en artikel 15, eerste lid, van dit Verdrag.
+- 2 het bevoegde orgaan van de andere Verdragsluitende Partij heeft verzuimd binnen een tijdvak van drie maanden de informatie over te leggen of een onderzoek te verrichten zoals vereist ingevolge artikel 13, artikel 14, tweede lid, en artikel 15, eerste lid, van dit Verdrag.
 
 ## DEEL IV. DIVERSE BEPALINGEN
 
@@ -273,10 +239,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN te Kairo, op 27 juli 2003, in tweevoud, in de Nederlandse, de Arabische en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschillen in uitlegging is de Engelse versie doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) S. LEENSTRA
 
-**Voor de Arabische Republiek Egypte**
+*Voor de Arabische Republiek Egypte*
 
 (w.g.) A.H.M. EL GUINDI

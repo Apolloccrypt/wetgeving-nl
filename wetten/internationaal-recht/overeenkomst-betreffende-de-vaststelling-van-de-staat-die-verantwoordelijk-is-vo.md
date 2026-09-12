@@ -1,159 +1,19 @@
 ---
 title: "Overeenkomst betreffende de vaststelling van de Staat die verantwoordelijk is voor de behandeling van een asielverzoek dat bij een van de Lid-Staten van de Europese Gemeenschappen wordt ingediend"
 identifier: "BWBV0002149"
-country: "nl"
-rank: "verdrag"
-publication_date: "1997-09-01"
-last_updated: "1997-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002149"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002680283"
-version_id: "10002678962"
-internal_id: "C10006984861"
-label_id: "10002668644"
-dtd_version: "2.0"
-original_entry_into_force: "1997-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002149/1997-09-01/0"
-intitule_bron: "Trb.1991-129"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1997-06-13"
-intitule_published: "1991-09-02"
-intitule_in_force: "1997-07-28"
-intitule_status: "goed"
-original_publication: "Trb.1991-129"
-original_signed_date: "1997-06-13"
-original_published_date: "1991-09-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1991-129"
-entry_into_force_date: "1997-09-01"
-jci_1_3: "jci1.3:c:BWBV0002149&z=1997-09-01&g=1997-09-01"
-jci_1_0: "1.0:c:BWBV0002149&g=1997-09-01"
-citeertitel_status: "officieel"
-signed_date: "1997-06-13"
-entry_into_force: "1997-09-01"
+publicatiedatum: 1997-09-01
+laatste_update: 1997-09-01
+status: geldig
+toestand: 1997-09-01
+bron: "https://wetten.overheid.nl/BWBV0002149"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst betreffende de vaststelling van de Staat die verantwoordelijk is voor de behandeling van een asielverzoek dat bij een van de Lid-Staten van de Europese Gemeenschappen wordt ingediend
 
-Zijne Majesteit de Koning der Belgen,
-
-Hare Majesteit de Koningin van Denemarken,
-
-de President van de Bondsrepubliek Duitsland,
-
-de President van de Helleense Republiek,
-
-Zijne Majesteit de Koning van Spanje,
-
-de President van de Franse Republiek,
-
-de President van Ierland,
-
-de President van de Italiaanse Republiek,
-
-Zijne Koninklijke Hoogheid de Groothertog van Luxemburg,
-
-Hare Majesteit de Koningin der Nederlanden,
-
-de President van de Portugese Republiek,
-
-Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-Overwegende het doel, gesteld door de Europese Raad van Straatsburg van 8/9 december 1989, van harmonisatie van hun asielbeleid;
-
-Besloten hebbende, getrouw aan hun gemeenschappelijke humanitaire traditie, vluchtelingen een passende bescherming te garanderen, overeenkomstig de bepalingen van het [Verdrag van Genève van 28 juli 1951 betreffende de status van vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001002), zoals gewijzigd bij het [Protocol van New York](onbekend) van 31 januari 1967, hierna „Verdrag van Genève” respectievelijk „Protocol van New York” genoemd;
-
-Overwegende het gemeenschappelijk doel van een ruimte zonder binnengrenzen waarin met name het vrije verkeer van personen gewaarborgd is volgens de bepalingen van het [Verdrag tot oprichting van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), zoals gewijzigd bij de Europese Akte;
-
-Zich bewust van de noodzaak maatregelen te nemen om te voorkomen dat de verwezenlijking van dit doel leidt tot situaties waarin de asielzoeker te lang in het ongewisse blijft over het gevolg dat aan zijn verzoek kan worden gegeven en verlangend aan elke asielzoeker de waarborg te geven dat zijn aanvraag door een van de Lid-Staten wordt behandeld en te voorkomen dat asielzoekers successievelijk van de ene Lid-Staat naar de andere worden gestuurd zonder dat een van deze Staten zich bevoegd verklaart voor de behandeling van het asielverzoek;
-
-Voornemens de dialoog met de Hoge Commissaris van de Verenigde Naties voor vluchtelingen voort te zetten, ten einde de hierboven omschreven doelstellingen te verwezenlijken;
-
-Besloten hebbende om voor de toepassing van deze overeenkomst, met diverse middelen, waaronder de uitwisseling van informatie, een nauwe samenwerking tot stand te brengen,
-
-Hebben besloten deze overeenkomst te sluiten en hebben te dien einde als hun gevolmachtigden aangewezen:
-
-Zijne Majesteit de Koning der Belgen:
-
-Melchior Wathelet
-
-Vice-Eerste Minister en Minister van Justitie en Middenstand
-
-Hare Majesteit de Koningin van Denemarken:
-
-Hans Engell
-
-Minister van Justitie
-
-de President van de Bondsrepubliek Duitsland:
-
-Dr Helmut Rückriegel
-
-Ambassadeur van de Bondsrepubliek Duitsland in Dublin
-
-Wolfgang Schäuble
-
-Minister van Binnenlandse Zaken
-
-de President van de Helleense Republiek:
-
-Ioannis Vassiliades
-
-Minister van Openbare Orde
-
-Zijne Majesteit de Koning van Spanje:
-
-José Luis Corcuera
-
-Minister van Binnenlandse Zaken
-
-de President van de Franse Republiek:
-
-Pierre Joxe
-
-Minister van Binnenlandse Zaken
-
-de President van Ierland:
-
-Ray Burke
-
-Minister van Justitie en Communicatie
-
-de President van de Italiaanse Republiek:
-
-Antonio Gava
-
-Minister van Binnenlandse Zaken
-
-Zijne Koninklijke Hoogheid de Groothertog van Luxemburg:
-
-Marc Fischbach
-
-Minister van Onderwijs, Minister van Justitie, Minister van Ambtenarenzaken
-
-Hare Majesteit de Koningin der Nederlanden:
-
-Ernst Maurits Henricus Hirsch Ballin
-
-Minister van Justitie
-
-de President van de Portugese Republiek:
-
-Manuel Pereira
-
-Minister van Binnenlandse Zaken
-
-Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-David Waddington
-
-Minister van Binnenlandse Zaken
-
-Sir Nicholas Maxted Fenn, KCMG
-
-Ambassadeur van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland in Dublin
-
-Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, overeenstemming hebben bereikt omtrent de volgende bepalingen:
+*Zijne Majesteit de Koning der Belgen, Hare Majesteit de Koningin van Denemarken, de President van de Bondsrepubliek Duitsland, de President van de Helleense Republiek, Zijne Majesteit de Koning van Spanje, de President van de Franse Republiek, de President van Ierland, de President van de Italiaanse Republiek, Zijne Koninklijke Hoogheid de Groothertog van Luxemburg, Hare Majesteit de Koningin der Nederlanden, de President van de Portugese Republiek, Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Overwegende het doel, gesteld door de Europese Raad van Straatsburg van 8/9 december 1989, van harmonisatie van hun asielbeleid; Besloten hebbende, getrouw aan hun gemeenschappelijke humanitaire traditie, vluchtelingen een passende bescherming te garanderen, overeenkomstig de bepalingen van het Verdrag van Genève van 28 juli 1951 betreffende de status van vluchtelingen, zoals gewijzigd bij het Protocol van New York van 31 januari 1967, hierna „Verdrag van Genève” respectievelijk „Protocol van New York” genoemd; Overwegende het gemeenschappelijk doel van een ruimte zonder binnengrenzen waarin met name het vrije verkeer van personen gewaarborgd is volgens de bepalingen van het Verdrag tot oprichting van de Europese Economische Gemeenschap, zoals gewijzigd bij de Europese Akte; Zich bewust van de noodzaak maatregelen te nemen om te voorkomen dat de verwezenlijking van dit doel leidt tot situaties waarin de asielzoeker te lang in het ongewisse blijft over het gevolg dat aan zijn verzoek kan worden gegeven en verlangend aan elke asielzoeker de waarborg te geven dat zijn aanvraag door een van de Lid-Staten wordt behandeld en te voorkomen dat asielzoekers successievelijk van de ene Lid-Staat naar de andere worden gestuurd zonder dat een van deze Staten zich bevoegd verklaart voor de behandeling van het asielverzoek; Voornemens de dialoog met de Hoge Commissaris van de Verenigde Naties voor vluchtelingen voort te zetten, ten einde de hierboven omschreven doelstellingen te verwezenlijken; Besloten hebbende om voor de toepassing van deze overeenkomst, met diverse middelen, waaronder de uitwisseling van informatie, een nauwe samenwerking tot stand te brengen, Hebben besloten deze overeenkomst te sluiten en hebben te dien einde als hun gevolmachtigden aangewezen: Zijne Majesteit de Koning der Belgen: Melchior Wathelet Vice-Eerste Minister en Minister van Justitie en Middenstand Hare Majesteit de Koningin van Denemarken: Hans Engell Minister van Justitie de President van de Bondsrepubliek Duitsland: Dr Helmut Rückriegel Ambassadeur van de Bondsrepubliek Duitsland in Dublin Wolfgang Schäuble Minister van Binnenlandse Zaken de President van de Helleense Republiek: Ioannis Vassiliades Minister van Openbare Orde Zijne Majesteit de Koning van Spanje: José Luis Corcuera Minister van Binnenlandse Zaken de President van de Franse Republiek: Pierre Joxe Minister van Binnenlandse Zaken de President van Ierland: Ray Burke Minister van Justitie en Communicatie de President van de Italiaanse Republiek: Antonio Gava Minister van Binnenlandse Zaken Zijne Koninklijke Hoogheid de Groothertog van Luxemburg: Marc Fischbach Minister van Onderwijs, Minister van Justitie, Minister van Ambtenarenzaken Hare Majesteit de Koningin der Nederlanden: Ernst Maurits Henricus Hirsch Ballin Minister van Justitie de President van de Portugese Republiek: Manuel Pereira Minister van Binnenlandse Zaken Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, David Waddington Minister van Binnenlandse Zaken Sir Nicholas Maxted Fenn, KCMG Ambassadeur van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland in Dublin Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, overeenstemming hebben bereikt omtrent de volgende bepalingen:*
 
 ##### Artikel 1
 
@@ -161,7 +21,7 @@ Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, ov
 
 - a. vreemdeling: een ieder die geen onderdaan van een Lid-Staat is;
 
-- b. asielverzoek: verzoek waarmee een vreemdeling bij een Lid-Staat de bescherming vraagt uit hoofde van het [Verdrag van Genève](https://wetten.overheid.nl/jci1.3:c:BWBV0001002) met een beroep op de status van vluchteling in de zin van [artikel 1 van het Verdrag van Genève](https://wetten.overheid.nl/jci1.3:c:BWBV0001002&artikel=1), zoals gewijzigd bij het [Protocol van New York](onbekend);
+- b. asielverzoek: verzoek waarmee een vreemdeling bij een Lid-Staat de bescherming vraagt uit hoofde van het [Verdrag van Genève](https://wetten.overheid.nl/jci1.3:c:BWBV0001002) met een beroep op de status van vluchteling in de zin van [artikel 1 van het Verdrag van Genève](https://wetten.overheid.nl/jci1.3:c:BWBV0001002&artikel=1), zoals gewijzigd bij het Protocol van New York;
 
 - c. asielzoeker: een vreemdeling die een asielverzoek heeft ingediend waarover nog geen definitief besluit is genomen;
 
@@ -177,7 +37,7 @@ Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, ov
 
 ##### Artikel 2
 
-De Lid-Staten herbevestigen hun verplichtingen uit hoofde van het [Verdrag van Genève](https://wetten.overheid.nl/jci1.3:c:BWBV0001002), zoals gewijzigd bij het [Protocol van New York](onbekend), zonder enige geografische beperking van het toepassingsgebied van deze akten, en hun verbintenis om met de diensten van de Hoge Commissaris van de Verenigde Naties voor vluchtelingen samen te werken voor de toepassing van die akten.
+De Lid-Staten herbevestigen hun verplichtingen uit hoofde van het [Verdrag van Genève](https://wetten.overheid.nl/jci1.3:c:BWBV0001002), zoals gewijzigd bij het Protocol van New York, zonder enige geografische beperking van het toepassingsgebied van deze akten, en hun verbintenis om met de diensten van de Hoge Commissaris van de Verenigde Naties voor vluchtelingen samen te werken voor de toepassing van die akten.
 
 ##### Artikel 3
 
@@ -191,7 +51,7 @@ De Lid-Staten herbevestigen hun verplichtingen uit hoofde van het [Verdrag van G
 
 De Lid-Staat die op grond van voornoemde criteria verantwoordelijk is, is daarmee ontheven van zijn verplichtingen, welke overgaan op de Lid-Staat die het asielverzoek wil behandelen. Deze laatste Staat stelt de Lid-Staat die op grond van voornoemde criteria verantwoordelijk is daarvan in kennis indien het verzoek bij deze Lid-Staat aanhangig is gemaakt.
 
-5. Iedere Lid-Staat behoudt de mogelijkheid om, overeenkomstig zijn nationale recht en met inachtneming van de bepalingen van het [Verdrag van Genève](https://wetten.overheid.nl/jci1.3:c:BWBV0001002), zoals gewijzigd bij het [Protocol van New York](onbekend), een asielzoeker naar een derde land te zenden.
+5. Iedere Lid-Staat behoudt de mogelijkheid om, overeenkomstig zijn nationale recht en met inachtneming van de bepalingen van het [Verdrag van Genève](https://wetten.overheid.nl/jci1.3:c:BWBV0001002), zoals gewijzigd bij het Protocol van New York, een asielzoeker naar een derde land te zenden.
 
 6. De procedure waarbij wordt vastgesteld welke Lid-Staat overeenkomstig deze overeenkomst verantwoordelijk is voor de behandeling van het asielverzoek, vangt aan zodra het asielverzoek voor de eerste maal bij een Lid-Staat wordt ingediend.
 
@@ -201,7 +61,7 @@ Deze verplichting geldt niet meer indien de asielzoeker inmiddels het grondgebie
 
 ##### Artikel 4
 
-Wanneer een gezinslid van de asielzoeker als vluchteling in de zin van het [Verdrag van Genève](https://wetten.overheid.nl/jci1.3:c:BWBV0001002), zoals gewijzigd bij het [Protocol van New York](onbekend), in een Lid-Staat is erkend en legaal in deze Lid-Staat verblijft, is deze Staat verantwoordelijk voor de behandeling van het asielverzoek, mits de betrokkenen zulks wensen.
+Wanneer een gezinslid van de asielzoeker als vluchteling in de zin van het [Verdrag van Genève](https://wetten.overheid.nl/jci1.3:c:BWBV0001002), zoals gewijzigd bij het Protocol van New York, in een Lid-Staat is erkend en legaal in deze Lid-Staat verblijft, is deze Staat verantwoordelijk voor de behandeling van het asielverzoek, mits de betrokkenen zulks wensen.
 
 Het betrokken gezinslid mag slechts zijn de echtgenoot van de asielzoeker, diens ongehuwd kind beneden de 18 jaar, of, indien de asielzoeker zelf een ongehuwd kind beneden de 18 jaar is, diens vader of moeder.
 
@@ -307,15 +167,15 @@ Wanneer een asielverzoek bij de bevoegde autoriteiten van een Lid-Staat wordt in
 
 1. De Lid-Staten wisselen informatie uit over:
 
-- -. de wettelijke of bestuursrechtelijke bepalingen of nationale praktijken ter zake van asiel;
+- - de wettelijke of bestuursrechtelijke bepalingen of nationale praktijken ter zake van asiel;
 
-- -. de statistische gegevens aangaande het aantal binnenkomende asielzoekers per maand, uitgesplitst naar nationaliteit. De desbetreffende gegevens worden driemaandelijks toegestuurd via het Secretariaat-Generaal van de Raad van de Europese Gemeenschappen, dat zorgt voor de toezending ervan aan de Lid-Staten, de Commissie van de Europese Gemeenschappen en de Hoge Commissaris van de Verenigde Naties voor vluchtelingen;
+- - de statistische gegevens aangaande het aantal binnenkomende asielzoekers per maand, uitgesplitst naar nationaliteit. De desbetreffende gegevens worden driemaandelijks toegestuurd via het Secretariaat-Generaal van de Raad van de Europese Gemeenschappen, dat zorgt voor de toezending ervan aan de Lid-Staten, de Commissie van de Europese Gemeenschappen en de Hoge Commissaris van de Verenigde Naties voor vluchtelingen;
 
 2. De Lid-Staten kunnen algemene informatie uitwisselen over:
 
-- -. nieuwe ontwikkelingen met betrekking tot asielverzoeken;
+- - nieuwe ontwikkelingen met betrekking tot asielverzoeken;
 
-- -. de situatie in de landen van oorsprong of herkomst van de asielzoekers.
+- - de situatie in de landen van oorsprong of herkomst van de asielzoekers.
 
 3. Wanneer de Lid-Staat die de in lid 2 bedoelde informatie verstrekt, wenst dat deze informatie vertrouwelijk wordt behandeld, dienen de andere Lid-Staten dat te respecteren.
 
@@ -323,27 +183,27 @@ Wanneer een asielverzoek bij de bevoegde autoriteiten van een Lid-Staat wordt in
 
 1. Elke Lid-Staat verstrekt aan alle Lid-Staten die daarom verzoeken de individuele informatie die noodzakelijk is voor
 
-- -. de vaststelling van de Lid-Staat die verantwoordelijk is voor de behandeling van het asielverzoek;
+- - de vaststelling van de Lid-Staat die verantwoordelijk is voor de behandeling van het asielverzoek;
 
-- -. de behandeling van het asielverzoek;
+- - de behandeling van het asielverzoek;
 
-- -. de tenuitvoerlegging van alle uit deze overeenkomst voortvloeiende verplichtingen.
+- - de tenuitvoerlegging van alle uit deze overeenkomst voortvloeiende verplichtingen.
 
 2. Deze informatie heeft slechts betrekking op
 
-- -. de persoonlijke gegevens van de asielzoeker en, in voorkomend geval, van zijn familieleden (naam, voornaam - eventueel vroegere naam -, bijnaam of pseudoniem, nationaliteit - huidige en vorige -, geboortedatum en -plaats);
+- - de persoonlijke gegevens van de asielzoeker en, in voorkomend geval, van zijn familieleden (naam, voornaam - eventueel vroegere naam -, bijnaam of pseudoniem, nationaliteit - huidige en vorige -, geboortedatum en -plaats);
 
-- -. de identiteits- en reisdocumenten (nummer, geldigheidsduur, datum van afgifte, instantie die het document heeft afgegeven, plaats van afgifte, enz.);
+- - de identiteits- en reisdocumenten (nummer, geldigheidsduur, datum van afgifte, instantie die het document heeft afgegeven, plaats van afgifte, enz.);
 
-- -. andere gegevens die nodig zijn voor de identificatie van de asielzoeker;
+- - andere gegevens die nodig zijn voor de identificatie van de asielzoeker;
 
-- -. de verblijfplaatsen en reisroutes;
+- - de verblijfplaatsen en reisroutes;
 
-- -. de door een Lid-Staat afgegeven verblijfstitels of visa;
+- - de door een Lid-Staat afgegeven verblijfstitels of visa;
 
-- -. de plaats waar het asielverzoek is ingediend;
+- - de plaats waar het asielverzoek is ingediend;
 
-- -. de datum waarop een eventueel vroeger asielverzoek is ingediend, de datum waarop het huidige verzoek is ingediend, de stand van de procedure en de strekking van de eventueel genomen beslissing.
+- - de datum waarop een eventueel vroeger asielverzoek is ingediend, de datum waarop het huidige verzoek is ingediend, de stand van de procedure en de strekking van de eventueel genomen beslissing.
 
 3. Bovendien kan een Lid-Staat een andere Lid-Staat verzoeken hem de door de asielzoeker opgegeven redenen ter staving van zijn verzoek en, in voorkomend geval, de redenen van de jegens betrokkene genomen beslissing, mee te delen. De aangezochte Lid-Staat beoordeelt of hij aan het tot hem gerichte verzoek gevolg kan geven. In ieder geval is voor het doorgeven van deze inlichtingen de toestemming van de asielzoeker vereist.
 
@@ -351,11 +211,11 @@ Wanneer een asielverzoek bij de bevoegde autoriteiten van een Lid-Staat wordt in
 
 5. De uitgewisselde informatie mag slechts voor de in lid 1 genoemde doeleinden worden gebruikt. In elke Lid-Staat mag deze informatie slechts worden meegedeeld aan de autoriteiten en rechterlijke instanties die belast zijn met
 
-- -. de vaststelling van de Lid-Staat die verantwoordelijk is voor de behandeling van het asielverzoek;
+- - de vaststelling van de Lid-Staat die verantwoordelijk is voor de behandeling van het asielverzoek;
 
-- -. de behandeling van het asielverzoek;
+- - de behandeling van het asielverzoek;
 
-- -. de tenuitvoerlegging van alle uit deze overeenkomst voortvloeiende verplichtingen.
+- - de tenuitvoerlegging van alle uit deze overeenkomst voortvloeiende verplichtingen.
 
 6. De Lid-Staat die de gegevens meedeelt, is verplicht erop toe te zien dat deze juist en bijgewerkt zijn.
 

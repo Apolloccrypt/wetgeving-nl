@@ -1,41 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Portugese Republiek inzake culturele en wetenschappelijke samenwerking"
 identifier: "BWBV0002187"
-country: "nl"
-rank: "verdrag"
-publication_date: "1985-11-02"
-last_updated: "1985-11-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002187"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002689953"
-version_id: "10002688682"
-internal_id: "C10006978321"
-label_id: "10002678134"
-dtd_version: "2.0"
-original_entry_into_force: "1985-11-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002187/1985-11-02/0"
-intitule_bron: "Trb.1985-3"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1985-08-23"
-intitule_published: "1985-01-11"
-intitule_in_force: "1985-09-30"
-intitule_status: "goed"
-original_publication: "Trb.1985-3"
-original_signed_date: "1985-08-23"
-original_published_date: "1985-01-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1985-3"
-entry_into_force_date: "1985-11-02"
-jci_1_3: "jci1.3:c:BWBV0002187&z=1985-11-02&g=1985-11-02"
-jci_1_0: "1.0:c:BWBV0002187&g=1985-11-02"
-citeertitel_status: "officieel"
-signed_date: "1985-08-23"
-entry_into_force: "1985-11-02"
+publicatiedatum: 1985-11-02
+laatste_update: 1985-11-02
+status: geldig
+toestand: 1985-11-02
+bron: "https://wetten.overheid.nl/BWBV0002187"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Portugese Republiek inzake culturele en wetenschappelijke samenwerking
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Portugese Republiek, de wens koesterende de tussen de beide landen bestaande vriendschappelijke betrekkingen te versterken en de kennis van elkaars cultuur te bevorderen en zodoende bij te dragen tot een beter begrip tussen de beide volkeren, zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Portugese Republiek, de wens koesterende de tussen de beide landen bestaande vriendschappelijke betrekkingen te versterken en de kennis van elkaars cultuur te bevorderen en zodoende bij te dragen tot een beter begrip tussen de beide volkeren, zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -119,14 +97,14 @@ Deze Overeenkomst heeft een duur van vijf jaar te rekenen vanaf de datum van haa
 
 GEDAAN te Lissabon op 28 november 1984, in twee exemplaren in de Nederlandse en de Portugese taal, beide zijnde gelijkelijk authentiek.
 
-**Voor de Regering van het**
+*Voor de Regering van het*
 
-**Koninkrijk der Nederlanden**
+*Koninkrijk der Nederlanden*
 
 (w.g.) H. VAN DEN BROEK
 
-**Voor de Regering van de**
+*Voor de Regering van de*
 
-**Portugese Republiek**
+*Portugese Republiek*
 
 (w.g.) J. GAMA

@@ -1,327 +1,263 @@
 ---
-title: "Multilaterale Overeenkomst betreffende \"en route”-heffingen"
+title: "Multilaterale Overeenkomst betreffende 'en route”-heffingen"
 identifier: "BWBV0002439"
-country: "nl"
-rank: "verdrag"
-publication_date: "1986-01-01"
-last_updated: "1986-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002439"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10002881743"
-version_id: "10002882112"
-internal_id: "C10009798761"
-label_id: "10002869374"
-dtd_version: "2.0"
-original_entry_into_force: "1986-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002439/1986-01-01/0"
-intitule_bron: "Trb.1981-181"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1985-12-05"
-intitule_published: "1981-08-17"
-intitule_in_force: "1986-01-15"
-intitule_status: "goed"
-original_publication: "Trb.1981-181"
-original_signed_date: "1985-12-05"
-original_published_date: "1981-08-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1981-181"
-entry_into_force_date: "1986-01-01"
-jci_1_3: "jci1.3:c:BWBV0002439&z=1986-01-01&g=1986-01-01"
-jci_1_0: "1.0:c:BWBV0002439&g=1986-01-01"
-citeertitel_status: "officieel"
-signed_date: "1985-12-05"
-entry_into_force: "1986-01-01"
+publicatiedatum: 1986-01-01
+laatste_update: 1986-01-01
+status: geldig
+toestand: 1986-01-01
+bron: "https://wetten.overheid.nl/BWBV0002439"
+opgehaald: 2026-09-12
 ---
+
 # Multilaterale Overeenkomst betreffende "en route”-heffingen
 
-De Bondsrepubliek Duitsland,
+*La République Fédérale d'Allemagne, La République d'Autriche, La Royaume de Belgique, L'Espagne, La République Française, Le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, L'Irlande, Le Grand Duché de Luxembourg, Le Royaume des Pays-Bas, La République Portugaise, La Confédération Suisse, Ci-après dénommés «Les Etats contractants», L'Organisation Européenne pour la sécurité de la navigation aérienne, ci-après dénommée «EUROCONTROL», Considérant que les accords conclus par des Etats européens avec EUROCONTROL en vue de la perception de redevances de route, doivent être remplacés du fait de la modification de la Convention internationale de coopération pour la sécurité de la navigation aérienne «EUROCONTROL» du 13 décembre 1960; Reconnaissant que la coopération sur le plan de l'établissement et de la perception des redevances de route s'est avérée efficace dans le passé; Désireux de poursuivre et de renforcer la coopération qui a été instaurée; Décidés à mettre en œuvre, compte tenu des orientations recommandées par l'Organisation de l'Aviation Civile Internationale, un système européen uniforme de redevances de route accessible au plus grand nombre possible d'Etats européens; Convaincus que cette uniformisation permettra également de faciliter la consultation des usagers; Considérant qu'il est souhaitable que les Etats participant au système de redevances de route EUROCONTROL renforcent les pouvoirs de l'Organisation en matière de recouvrement des redevances; Reconnaissant qu'un tel système exige de nouvelles bases juridiques; Sont convenus des dispositions qui suivent:*
 
-De Republiek Oostenrijk,
+##### Article 1
 
-Het Koninkrijk België,
+1. Les Etats contractants conviennent d'adopter une politique commune pour ce qui est des redevances à percevoir au titre des installations et services de navigation aérienne de route ci-après dénommées «redevances de route», dans l'espace aérien des Régions d'Information de Vol relevant de leur compétence.
 
-Spanje,
+2. Ils conviennent en conséquence de créer un système commun d'établissement et de perception de redevances de route et d'utiliser à cette fin les services d'EUROCONTROL.
 
-De Franse Republiek,
+3. A cet effet la Commission permanente et le Comité de gestion d'EUROCONTROL sont élargis aux représentants des Etats contractants qui ne sont pas membres d'EUROCONTROL et sont ci-après dénommés «la Commission élargie» et «le Comité élargi».
 
-Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
+4. Les Régions d'Information de Vol mentionnées au paragraphe 1 ci-dessus sont énumérées à [l'Annexe 1](https://wetten.overheid.nl/BWBV0002439) au présent Accord. Toute modification qu'un Etat contractant souhaite apporter à la liste de ses Régions d'Information de Vol est subordonnée à l'accord unanime de la Commission élargie, lorsqu'elle aurait pour effet de modifier les limites de l'espace aérien couvert par le présent Accord. Toute modification qui n'a pas un tel effet sera notifiée à EUROCONTROL par l'Etat contractant intéressé.
 
-Ierland,
+##### Article 2
 
-Het Groothertogdom Luxemburg,
+Chaque Etat contractant dispose d'une voix à la Commission élargie, sous réserve des dispositions du [(b) du paragraphe 1 de l'article 6](https://wetten.overheid.nl/BWBV0002439).
 
-Het Koninkrijk der Nederlanden,
+##### Article 3
 
-De Portugese Republiek,
+1. La Commission élargie a pour mission d'établir le système commun de redevances de route de manière que:
 
-De Zwitserse Bondsstaat,
+- (a) ces redevances soient établies suivant une formule commune qui tienne compte des coûts encourus par les Etats contractants au titre des installations et services de la navigation aérienne de route et de l'exploitation du système ainsi que des coûts encourus par EUROCONTROL pour l'exploitation du système;
 
-hierna te noemen ,,de Overeenkomstsluitende Staten”,
+- (b) ces redevances soient perçues par EUROCONTROL à raison d'une redevance unique par vol effectué.
 
-De Europese Organisatie voor de veiligheid van de luchtvaart,
+2. La Commission élargie est chargée à cet effet:
 
-hierna te noemen „EUROCONTROL”,
+- (a) d'établir les principes régissant la détermination des coûts mentionnés au (a) du paragraphe 1 ci-dessus;
 
-Overwegende dat door de wijziging van het [Internationaal Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart „EUROCONTROL”](https://wetten.overheid.nl/jci1.3:c:BWBV0004802) van 13 december 1960 de overeenkomsten welke door Europese Staten met het oog op de inning van „en route”-heffingen met EUROCONTROL zijn gesloten, vervangen dienen te worden;
+- (b) d'établir la formule de calcul des redevances de route;
 
-Erkennende dat de samenwerking op het gebied van de vaststelling en de inning van de „en route”-heffingen in het verleden doeltreffend is gebleken;
+- (c) d'approuver pour chaque période d'application le taux de recouvrement des coûts mentionnés au (a) du paragraphe 1 ci-dessus;
 
-Geleid door de wens, de tot stand gebrachte samenwerking voort te zetten en te verstevigen;
+- (d) de déterminer l'unité de compte dans laquelle les redevances de route sont exprimées;
 
-Vastbesloten om met inachtneming van de door de Internationale Burgerluchtvaartorganisatie aanbevolen richtlijnen een uniform Europees „en route”-heffingensysteem toe te passen dat voor zo veel mogelijk Europese Staten toegankelijk is;
+- (e) de déterminer les conditions d'application du système, y compris les conditions de paiement ainsi que les taux unitaires, les tarifs et leur période d'application;
 
-Ervan overtuigd zijnde dat zulk een uniform systeem tevens het overleg met de gebruikers zal kunnen vergemakkelijken;
+- (f) de déterminer les principes applicables en matière d'exonération de redevances de route;
 
-Overwegende dat het gewenst is dat de aan het EUROCONTROL systeem van „en route”-heffingen deelnemende Staten de bevoegdheden van de Organisatie op het stuk van het in rechte vorderen van de heffingen verruimen;
+- (g) d'approuver les rapports du Comité élargi;
 
-Erkennende dat een dergelijk systeem een nieuwe rechtsgrond vereist;
+- (h) d'arrêter le règlement financier applicable au système de redevances de route;
 
-Zijn overeengekomen als volgt:
+- (i) d'approuver les accords entre EUROCONTROL et tout Etat reux d'utiliser les moyens ou l'assistance technique d'EUROCONTROL en matière de redevances de navigation aérienne ne relevant pas du présent Accord;
 
-##### Artikel 1
+- (j) d'approuver l'annexe budgétaire proposée par le Comité élargi conformément au [(c) du paragraphe 1 de l'article 5](https://wetten.overheid.nl/BWBV0002439).
 
-1. De Overeenkomstsluitende Staten komen overeen een gemeenschappelijk beleid vast te stellen op het gebied van de „en route”-heffingen voor vluchten in het luchtruim van de onder hun bevoegdheid ressorterende vluchtinlichtingengebieden (hierna te noemen „en route”-heffingen).
+3. La Commission élargi établit son règlement intérieur à l'unanimité de tous les Etats contractants.
 
-2. Zij komen derhalve overeen, een gemeenschappelijk systeem op te stellen voor het vaststellen en innen van „en route”-heffingen en daarbij gebruik te maken van de diensten van EUROCONTROL.
+##### Article 4
 
-3. Te dien einde worden de Permanente Commissie en het Bestuurscomité van EUROCONTROL uitgebreid met de vertegenwoordigers van de Overeenkomstsluitende Staten die geen lid van EUROCONTROL zijn, hierna de „uitgebreide Commissie” repectievelijk het „uitgebreide Comité” genoemd.
+Chaque Etat contractant dispose d'une voix au Comité élargi, sous réserve des dispositions du [(b) du paragraphe 2 de l'article 6](https://wetten.overheid.nl/BWBV0002439).
 
-4. De in bovenstaand lid 1 bedoelde vluchtinlichtingengebieden zijn vermeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&bijlage=1&z=1986-01-01&g=1986-01-01) bij deze Overeenkomst. Elke wijziging die een Overeenkomstsluitende Staat wenst aan te brengen in de hem betreffende opgave van vluchtinfichtingengebieden in Bijlage 1 is onderworpen aan de eenparige goedkeuring van de uitgebreide Commissie wanneer deze wijziging leidt tot wijziging van de totale omvang van het door deze Overeenkomst bestreken luchtruim. Elke wijziging die niet tot een dergelijk gevolg leidt zal door de betrokken Overeenkomstsluitende Staat aan EUROCONTROL worden medegedeeld.
+##### Article 5
 
-##### Artikel 2
+1. Le Comité élargi est chargé:
 
-In de uitgebreide Commissie beschikt elke Overeenkomstsluitende Staat over één stem, behoudens het in [artikel 6, lid 1 (b)](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&artikel=6&z=1986-01-01&g=1986-01-01)bepaalde.
+- (a) de préparer les décisions de la Commission élargie;
 
-##### Artikel 3
+- (b) de surveiller le fonctionnement du système de redevances de route, y compris l'utilisation des moyens mis en œuvre à cette fin par EUROCONTROLet de prendre toutes mesures nécessaires notamment en ce qui concerne le recouvrement des redevances de route, conformément aux décisions de la Commission élargie;
 
-1. De uitgebreide Commissie heeft tot taak het gemeenschappelijke systeem van „en route”-heffingen op te stellen op zodanige wijze dat:
+- (c) de faire rapport à la Commission élargie sur les moyens nécessaires au fonctionnement du système de redevances de route et de lui soumettre l'annexe budgétaire relative aux activités d'EUROCONTROL en matière de redevances de route;
 
-- (a). deze heffingen worden vastgesteld in overeenstemming met een gemeenschappelijke formule waarin rekening is gehouden met de door de Overeenkomstsluitende Staten gemaakte kosten voor de installaties en diensten voor het „en route”-luchtverkeer en de exploitatie van het systeem, alsmede de door EUROCONTROL gemaakte bedrijfskosten van het systeem;
+- (d) de toutes autres tâches qui lui sont confiées par la Commission élargie.
 
-- (b). deze heffingen worden geïnd door EUROCONTROL als een enkele heffing per uitgevoerde vlucht.
+2. Le Comité élargie établit son règlement intérieur sous réserve des dispositions prévues au [(a) du paragraphe 2 de l'article 6](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&artikel=6&z=1986-01-01&g=1986-01-01).
 
-2. Te dien einde heeft de uitgebreide Commissie tot taak;
+##### Article 6
 
-- (a). de beginselen ter bepaling van de in bovenstaand lid 1 (a) bedoelde kosten vast te stellen;
+1. Les décisions de la Commission élargie sont acquises dans les conditions suivantes:
 
-- (b). de formule voor de berekening van de „en route” -heffingen vast te stellen;
+- (a) dans les cas prévus aux [(a) à (f) et (h) du paragraphe 2 de l'article 3](https://wetten.overheid.nl/BWBV0002439), les décisions sont prises à l'unanimité de tous les Etats contractants et sont obligatoires pour chaque Etat contractant; à défaut de décision unanime, la Commission élargie prend une décision à la majorité des deux tiers des suffrages exprimés; tout Etat contractant qui ne peut, pour des raisons impératives d'intérêt national, appliquer cette décision présente à la Commission élargie un exposé de ces raisons;
 
-- (c). voor elk heffingstijdvak het percentage goed te keuren dat van de in bovenstaand lid 1 (a) bedoelde kosten wordt verhaald;
+- (b) dans les cas prévus aux [(i) et (j) du paragraphe 2 de l'article 3](https://wetten.overheid.nl/BWBV0002439), la décision est prise à la majorité des deux tiers des suffrages exprimés sous réserve que ces suffrages comprennent la majorité pondérée des Etats membres d'EUROCONTROL telle qu'elle résulte des dispositions reproduites à [l'Annexe 2](https://wetten.overheid.nl/BWBV0002439) du présent Accord; chaque année, EUROCONTROL fait connaître aux Etats contractants qui ne sont pas membres d'EUROCONTROL le nombre de voix dont disposent les Etats membres d'EUROCONTROL en application de ces dispositions;
 
-- (d). de rekeneenheid vast te stellen waarin de ,,en route”-heffingen worden uitgedrukt;
+- (c) dans les cas prévus au [(g) du paragraphe 2 de l'article 3](https://wetten.overheid.nl/BWBV0002439), les décisions sont prises à la majorité des deux tiers des suffrages exprimés. Il en est de même pour les recours introduits au nom d'EUROCONTROL par la Commission élargie devant le tribunal arbitral prévu à [l'article 25](https://wetten.overheid.nl/BWBV0002439).
 
-- (e). de voorwaarden voor de toepassing van het systeem, met inbegrip van de betalingsvoorwaarden, alsmede de tarieven per eenheid, de overige tarieven en het tijdvak waarvoor deze gelden, te bepalen;
+2. - (a) Le règlement intérieur du Comité élargi y compris les règles tives aux prises de décision, est approuvé par la Commission élargie à l'unanimité de tous les Etats contractants.
 
-- (f). de beginselen vast te stellen op grond waarvan vrijstelling van de ,,en route ”-heffingen wordt verleend;
+- (b) Toutefois, au cas mentionné au [(c) du paragraphe 1 de l'article 5](https://wetten.overheid.nl/BWBV0002439), les délibérations du Comité élargi sont prises conformément au (b) du paragraphe 1 du présent article.
 
-- (g). haar goedkeuring te hechten aan de verslagen van het uitgebreide Comité;
+##### Article 7
 
-- (h). het Financieel Reglement, van toepassing op het systeem van „en route”-heffingen, te aanvaarden;
+EUROCONTROL détermine selon la réglementation en vigueur les redevances de route dues pour chaque vol effectué l'espace aérien défini à [l'article 1](https://wetten.overheid.nl/BWBV0002439).
 
-- (i). de overeenkomsten tussen EUROCONTROL en Staten die gek wensen te maken van de middelen of de technische bijstand van EUROCONTROL op het stuk van niet onder deze Overeenkomst vallende luchtvaartheffingen goed te keuren;
+##### Article 8
 
-- (j). haar goedkeuring te hechten aan de door het uitgebreide Comité conform [artikel 5, lid 1 (c)](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&artikel=5&z=1986-01-01&g=1986-01-01) voorgestelde bijlage bij de begroting.
+EUROCONTROL perçoit les redevances de route mentionnées à[l'article 7](https://wetten.overheid.nl/BWBV0002439). A cette fin, elles constituent une redevance unique due pour chaque vol qui est une créance unique d'EUROCONTROL et payable à son siège.
 
-3. De uitgebreide Commissie stelt met algemene stemmen van alle Overeenkomstsluitende Staten haar huishoudelijk reglement vast.
+##### Article 9
 
-##### Artikel 4
+La redevance est due par la personne qui exploitait l'aéronef au moment où le vol a eu lieu.
 
-In het uitgebreide Comité beschikt elke Overeenkomstsluitende Staat over één stem, behoudens het bepaalde in artikel 6, lid 2 (b).
+##### Article 10
 
-##### Artikel 5
+Au cas où l'identité de l'exploitant n'est pas connue, le propriétaire de l'aéronef est réputé être l'exploitant jusqu'à ce qu'il ait établi quelle autre personne avait cette qualité.
 
-1. Het uitgebreide Comité heeft tot taak:
+##### Article 11
 
-- (a). de besluiten van de uitgebreide Commissie voor te bereiden;
+Lorsque le débiteur ne s'est pas acquitté de la somme due, celle-ci peut faire l'objet d'un recouvrement forcé.
 
-- (b). toezicht uit te oefenen op de werking van het systeem van „en route”-heffingen, alsmede op het gebruik van de middelen die door EUROCONTROL voor dit doel aangewend worden, en alle nodige maatregelen te nemen, met name wat de invordering van de „en route”-heffingen betreft, conform de besluiten van de uitgebreide Commissie;
+##### Article 12
 
-- (c). verslag uit te brengen aan de uitgebreide Commissie over de middelen die nodig zijn voor de werking van het systeem van „en route”-heffingen en haar de bijlage bij de begroting inzake de werkzaamheden van EUROCONTROL op het stuk van de „en route ”-heffingen voor te leggen;
+1. La procédure de recouvrement de la somme due est engagée, soit par EUROCONTROL, soit, à la requête d'EUROCONTROL, par un Etat contractant.
 
-- (d). alle overige taken te verrichten die het door de uitgebreide Commissie worden opgedragen.
+2. Le recouvrement est poursuivi, soit par voie judiciaire, soit par voie administrative.
 
-2. Het uitgebreide Comité stelt zijn huishoudelijk reglement vast, met inachtneming van het bepaalde in [artikel 6, lid 2 (a)](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&artikel=6&z=1986-01-01&g=1986-01-01).
+3. Chaque Etat contractant fait connaître à EUROCONTROL les procédures qui sont appliquées dans cet Etat ainsi que les juridictions ou les autorités administratives compétentes.
 
-##### Artikel 6
+##### Article 13
 
-1. De besluiten van de uitgebreide Commissie komen als volgt tot stand:
+La procédure de recouvrement est introduite dans l'Etat contractant:
 
-- (a). in de in [artikel 3, lid 2 (a) t/m (f) en (h)](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&artikel=3&z=1986-01-01&g=1986-01-01), bedoelde gevallen neemt de uitgebreide Commissie besluiten met algemene stemmen van alle Overeenkomstsluitende Staten; deze besluiten zijn bindend voor elke Overeenkomstsluitende Staat. Indien geen eenparigheid kan worden bereikt, neemt de uitgebreide Commissie een besluit bij meerderheid van tweederde van de uitgebrachte stemmen. Een Overeenkomstsluitende Staat die een dergelijk besluit op grond van dwingende redenen van nationaal belang niet kan uitvoeren, dient de redenen hiervan in een verklaring aan de uitgebreide Commissie uiteen te zetten;
+- (a) où le débiteur a son domicile ou son siège;
 
-- (b). in de in [artikel 3, lid 2 (i) en (j)](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&artikel=3&z=1986-01-01&g=1986-01-01) bedoelde gevallen worden de besluiten genomen bij meerderheid van tweederde van de uitgebrachte stemmen, met dien verstande dat deze stemmen de gewogen meerderheid van de Lid-Staten van EUROCONTROL moeten omvatten zoals deze voortvloeit uit de bepalingen weergegeven in Bijlage 2 bij deze Overeenkomst; EUROCONTROL stelt de Overeenkomstsluitende Staten die geen lid van EUROCONTROL zijn elk jaar in kennis van het aantal stemmen waarover de Lid-Staten van EUROCONTROL ingevolge deze bepalingen beschikken;
+- (b) où le débiteur possède un établissement commercial si son domicile ou son siège ne sont pas situés sur le territoire d'un Etat contractant;
 
-- (c). in de in [artikel 3, lid (2) g](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&artikel=3&z=1986-01-01&g=1986-01-01), bedoelde gevallen worden de besluiten genomen bij meerderheid van tweederde van de uitgebrachte stemmen. Hetzelfde geldt voor procedures die namens EUROCONTROL door de uitgebreide Commissie bij het in artikel 25 genoemde scheidsgerecht aanhangig worden gemaakt.
+- (c) où le débiteur possède des avoirs, en l'absence des chefs de compétence énoncés aux paragraphes (a) et (b) ci-dessus;
 
-- (a). Het huishoudelijk reglement van het uitgebreide Comité, met inbegrip van de regels met betrekking tot de besluitvorming, dient door de uitgebreide Commissie met algemene stemmen van alle Overeenkomstsluitende Staten goedgekeurd te worden.
+- (d) où EUROCONTROL a son siège, en l'absence des chefs de compétence énoncés aux paragraphes (a) à (c) ci-dessus.
 
-- (b). In het in [artikel 5, lid 1 (c)](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&artikel=5&z=1986-01-01&g=1986-01-01), bedoelde geval komen de besluiten van het uitgebreide Comité echter tot stand onder dezelfde voorwaarden als genoemd in lid 1 (b), van dit artikel.
+##### Article 14
 
-##### Artikel 7
+EUROCONTROL a la capacité d'introduire une action devant les juridictions et les autorités administratives compétentes des Etats qui ne sont pas parties au présent Accord.
 
-EUROCONTROL stelt volgens de geldende reglementen de „en route”-heffingen vast die verschuldigd zijn voor elke vlucht uitgevoerd in het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&artikel=1&z=1986-01-01&g=1986-01-01) omschreven luchtruim.
+##### Article 15
 
-##### Artikel 8
+Sont reconnues et exécutées dans les autres Etats contractants, les décisions suivantes prises dans un Etat contractant:
 
-EUROCONTROL int de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&artikel=7&z=1986-01-01&g=1986-01-01) vermelde „en route”-heffingen. Hiertoe vormen zij een voor elke vlucht verschuldigde enkelvoudige heffing, die een enkele vordering van EUROCONTROL vormt en op haar zetel betaalbaar is.
+- (a) les décisions juridictionnelles définitives;
 
-##### Artikel 9
+- (b) les décisions administratives qui ont été susceptibles de recours juridictionnel, mais ne le sont plus, soit parce que la juridiction a rejeté le recours par une décision définitive, soit parce que le requérant s'est désisté, soit par expiration du délai de recours.
 
-De heffing is verschuldigd door de persoon die het luchtvaartuig exploiteerde op het tijdstip waarop de vlucht werd uitgevoerd.
+##### Article 16
 
-##### Artikel 10
+Les décisions mentionnées à [l'article 15](https://wetten.overheid.nl/BWBV0002439) ne sont pas reconnues ni exécutées dans les cas suivants:
 
-Indien de identiteit van de exploitant niet bekend is, wordt de eigenaar van het luchtvaartuig geacht de exploitant te zijn totdat hij aantoont welke andere persoon de exploitant was.
+- (a) juridiction ou l'autorité administrative de l'Etat d'origine it pas compétente dans les termes énoncés par[l'article 13](https://wetten.overheid.nl/BWBV0002439);
 
-##### Artikel 11
+- (b) si la décision est manifestement contraire à l'ordre public de l'Etat requis;
 
-Indien de debiteur het verschuldigde bedrag niet betaald heeft, kan in rechte nakoming van de verplichting tot betaling worden gevorderd.
+- (c) si le débiteur n'a pas été avisé de la décision administrative ou de l'introduction de l'instance en temps utile pour se défendre ou exercer les recours juridictionnels;
 
-##### Artikel 12
+- (d) si une instance relative aux mêmes redevances, introduite en premier lieu, est pendante devant une juridiction ou une autorité administrative de l'Etat requis;
 
-1. De procedure tot in rechte vorderen van het verschuldigde bedrag wordt ofwel door EUROCONTROL, ofwel, op verzoek van EUROCONTROL, door een Overeenkomstsluitende Staat aanhangig gemaakt.
+- (e) si la décision est inconciliable avec une décision relative aux mêmes redevances et rendue dans l'Etat requis;
 
-2. Het in rechte vorderen geschiedt langs gerechtelijke of langs administratiefrechtelijke weg.
+- (f) si la juridiction ou l'autorité administrative de l'Etat d'origine, pour rendre sa décision, a, en tranchant une question relative à l'état ou à la capacité des personnes physiques, aux régimes matrimoniaux, aux testaments et aux successions, méconnu une règle de droit international privé de l'Etat requis, à moins que sa décision n'aboutisse au même résultat que s'il avait fait application des règles du droit international privé de l'Etat requis.
 
-3. Elke Overeenkomstsluitende Staat stelt EUROCONTROL in kennis van de procedures die in de betrokken Staat worden toegepast en deelt haar mede welke rechterlijke of administratiefrechterlijke autoriteiten bevoegd zijn.
+##### Article 17
 
-##### Artikel 13
+Les décisions mentionnées à [l'article 15](https://wetten.overheid.nl/BWBV0002439) qui sont exécutoires dans l'Etat d'origine sont mises à exécution conformément à la législation en vigueur dans l'Etat requis. En tant que de besoin, la décision est revêtue de la formule exécutoire sur simple requête par une juridiction ou une autorité administrative de l'Etat requis.
 
-De procedure voor het in rechte vorderen van betaling wordt aanhangig gemaakt in de Overeenkomstsluitende Staat waar:
+##### Article 18
 
-- (a). de debiteur zijn woonplaats of zijn zetel heeft;
+1. La requête est accompagnée:
 
-- (b). de debiteur een bedrijf heeft, indien zijn woonplaats of zijn zetel niet op het grondgebied van een Overeenkomstsluitende Staat is gelegen;
+- (a) d'une expédition de la décision;
 
-- (c). de debiteur goederen heeft, bij gebreke van de in bovenstaande alinea's (a) en (b) genoemde bevoegdheidsgronden;
+- (b) dans le cas d'une décision juridictionnelle rendue par défaut, de l'orginal ou d'une copie certifiée conforme d'un document établissant que le débiteur a reçu en temps utile signification ou notification de l'acte introductif d'instance;
 
-- (d). EUROCONTROL haar zetel heeft, bij gebreke van de in bovenstaande alinea's (a) t/m (c) genoemde bevoegdheidsgronden.
+- (c) dans le cas d'une décision administrative, d'un document établissant que les exigences prévues à [l'article 15](https://wetten.overheid.nl/BWBV0002439) sont satisfaites;
 
-##### Artikel 14
+- (d) de tout document établissant que la décision est exécutoire dans l'Etat d'origine et que le débiteur a reçu en temps utile une signification de la décision.
 
-EUROCONTROL is bevoegd een procedure aan te spannen voor de bevoegde rechterlijke of administratiefrechterlijke autoriteiten van niet bij deze Overeenkomst Partij zijnde Staten.
+2. Une traduction dûment certifiée des documents est fournie si la juridiction ou l'autorité administrative de l'Etat requis l'exige. Aucune légalisation ni formalité analogue n'est requise.
 
-##### Artikel 15
+##### Article 19
 
-De volgende in een Overeenkomstsluitende Staat gegeven beslissingen worden erkend en ten uitvoer gelegd in de overige Overeenkomstsluitende Staten:
+1. La requête ne peut être rejetée que pour l'un des motifs prévus à [l'article 16](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&artikel=16&z=1986-01-01&g=1986-01-01). En aucun cas, la décision ne peut faire l'objet d'une révision au fond dans l'Etat requis.
 
-- (a). rechterlijke uitspraken die in kracht van gewijsde zijn gegaan;
+2. La procédure relative à la reconnaissance et à l'exécution de la décision est régie par la loi de l'Etat requis dans la mesure où le présent Accord n'en dispose pas autrement.
 
-- (b). administratiefrechterlijke beschikkingen waartegen beroep voor een rechter kon worden aangetekend, maar die onherroepelijk zijn geworden, hetzij omdat de rechter het beroep heeft afgewezen door een definitieve beslissing, hetzij omdat de verzoeker heeft afgezien van beroep, hetzij door het verstrijken van de beroepstermijn.
+##### Article 20
 
-##### Artikel 16
+Le montant perçu par EUROCONTROL sera versé aux Etats contractants dans les conditions prévues par décision du Comité élargi.
 
-De in artikel 15 bedoelde beslissingen worden in de volgende gevallen noch erkend, noch ten uitvoer gelegd:
+##### Article 21
 
-- (a). indien de rechterlijke of administratiefrechterlijke autoriteit van de Staat van oorsprong niet bevoegd was volgens het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&artikel=13&z=1986-01-01&g=1986-01-01);
+Lorsqu'un Etat Contractant a recouvré la créance, le montant effectivement perçu est versé dans les meilleurs délais à EUROCONTROL, qui applique la procédure prévue à [l'article 20](https://wetten.overheid.nl/BWBV0002439). Les frais de recouvrement encourus par cet Etat sont mis à la charge d'EUROCONTROL.
 
-- (b). indien de beslissing kennelijk in strijd is met de openbare orde van de aangezochte Staat;
+##### Article 22
 
-- (c). indien de debiteur niet tijdig voor het voeren van verweer of voor het aantekenen van beroep voor een rechter van de administratiefrechtelijke beschikking of van het aanhangig maken van de zaak in kennis is gesteld;
+Les autorités compétentes des Etats contractants coopèrent avec EUROCONTROL dans l'établissement et la perception des redevances de route.
 
-- (d). indien een in eerste aanleg aangebrachte zaak met betrekking tot dezelfde heffingen aanhangig gemaakt is voor een rechterlijke of administratiefrechtelijke autoriteit van de aangezochte Staat;
+##### Article 23
 
-- (e). indien de beslissing onverenigbaar is met een beslissing inzake dezelfde heffingen, gegeven in de aangezochte Staat;
+Si le Comité élargi décide à l'unanimité d'abandonner le recouvrement d'une redevance, les Etats Contractants concernés peuvent prendre toutes mesures qu'ils jugent appropriées. En pareil cas, les dispositions de présent Accord relatives au recouvrement, à la reconnaissance et à l'exécution des décisions cessent d'être applicables.
 
-- (f). indien de rechterlijke of administratief rechtelijke autoriteit van de Staat van herkomst, om tot zijn beslissing te komen, zich heeft uitgesproken over een vraag betreffende de staat of de bevoegdheid van natuurlijke personen, het huwelijksgoederenrecht, testamenten en erfenissen en daarbij een regel van internationaal privaatrecht van de aangezochte Staat heeft geschonden, tenzij de beslissing tot hetzelfde resultaat voert als wanneer de regels van internationaal privaatrecht van de aangezochte Staat zouden zijn toegepast.
+##### Article 24
 
-##### Artikel 17
+En cas de crise ou de guerre, les dispositions du présent Accord ne peuvent porter atteinte à la liberté d'action des Etats contractants concernés.
 
-De in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&artikel=15&z=1986-01-01&g=1986-01-01) bedoelde beslissingen die uitvoerbaar zijn in de Staat van oorsprong worden met toepassing van het in de aangezochte Staat geldende recht ten uitvoer gelegd. Voor zover nodig wordt, op eenvoudig verzoekschrift, de beslissing door een rechterlijke of een administratiefrechtelijke autoriteit voorzien van een verlof tot tenuitvoerlegging.
+##### Article 25
 
-##### Artikel 18
+1. Tout différend qui pourra naître soit entre les Etats contractants, soit entre les Etats contractants et EUROCONTROL représentée par la Commission élargie, relatif à l'interprétation ou l'application du présent Accord ou de ses Annexes et qui n'aura pu être réglé par voie de négociations directes ou par tout autre mode de règlement sera soumis à arbitrage à la requête de l'un quelconque des parties.
 
-1. Het verzoekschrift gaat vergezeld van:
+2. A cet effet chacune des parties désignera dans chaque cas un arbitre, et les arbitres se mettront d'accord sur la désignation d'un tiers arbitre.
 
-- (a). een voor eensluidend gewaarmerkt afschrift van de beslissing;
+3. Le tribunal arbitral déterminera sa propre procédure.
 
-- (b). in geval van een vonnis, indien dit bij verstek is gewezen, een authentiek exemplaar of voor eensluidend gewaarmerkt afschrift van een document waaruit blijkt dat het stuk waarmee de zaak aanhangig is gemaakt, tijdig aan de debiteur betekend is;
+4. Chaque partie prendra à sa charge les frais concernant son arbitre et sa représentation dans la procédure devant le tribunal; les frais afférents au tiers arbitre ainsi que les autres frais seront supportés par les parties a parts égales. Le tribunal arbitral peut toutefois fixer une répartition différente des frais s'il le juge approprié.
 
-- (c). in geval van een administratiefrechtelijke beschikking, een document waarin wordt aangetoond dat de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&artikel=15&z=1986-01-01&g=1986-01-01) genoemde voorwaarden zijn vervuld;
+5. Les décisions du tribunal arbitral seront obligatoires pour les parties au différend.
 
-- (d). elk document waaruit blijkt dat de beslissing uitvoerbaar is in de Staat van oorsprong en dat zij tijdig aan de debiteur betekend is.
+##### Article 26
 
-2. Een naar behoren gewaarmerkte vertaling van deze documenten wordt overgelegd indien zulks door de rechterlijke of administratiefrechtelijke autoriteit van de aangezochte Staat wordt verlangd. Geen enkele legalisatie of soortgelijke formaliteit is vereist.
+Le présent Accord remplace l'Accord multilatéral relatif à la perception des redevances de route du 8 septembre 1970.
 
-##### Artikel 19
+Cette disposition ne porte pas préjudice à tout Accord entre EUROCONTROL et un Etat non membre d'EUROCONTROL, relatif à la perception des redevances de route qui concerne les Régions d'Information de Vol visées à l'Article 1 du présent Accord, et qui restera en vigueur jusqu'à ce que cet Etat devienne partie au présent Accord.
 
-1. Het verzoekschrift kan uitsluitend op een van de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&artikel=16&z=1986-01-01&g=1986-01-01) bedoelde gronden worden afgewezen. In geen geval kan in de aangezochte Staat worden overgegaan tot een onderzoek naar de juistheid van de beschikking.
+##### Article 27
 
-2. Op de procedure inzake de erkenning of de tenuitvoerlegging van de beslissing is het recht van de aangezochte Staat van toepassing voor zover in deze Overeenkomst niet anders wordt bepaald.
+1. Le présent Accord est ouvert à la signature, avant la date de son entrée en vigueur, de tout Etat participant à la date de la signature au système de perception des redevances de route EUROCONTROL ou admis à signer de l'accord unanime de la Commission permanente.
 
-##### Artikel 20
+2. Le présent Accord sera soumis à ratification. Les instruments de ratification seront déposés auprès du Gouvernement du Royaume de Belgique. La ratification du Protocole, ouvert à la signature le 12 février 1981 à Bruxelles, amendant la convention internationale de coopération pour la sécurité de la navigation aérienne «EUROCONTROL» du 13 décembre 1960, ci-après dénommé «le Protocole», emporte ratification dudit Accord.
 
-Het door EUROCONTROL geïnde bedrag wordt aan de Overeenkomstsluitende Staten afgedragen overeenkomstig de besluiten van het uitgebreide Comité.
+3. Le présent Accord entrera en vigueur à la date d'entrée en vigueur du Protocole en ce qui concerne EUROCONTROL, les Etats membres d'EUROCONTROL et les Etats qui auront déposé leur instrument de ratification à une date antérieure.
 
-##### Artikel 21
+4. Pour tout Etat dont l'instrument de ratification est déposé après la date de l'entrée en vigueur du présent Accord, celui-ci entrera en vigueur le premier jour du deuxième mois suivant la date du dépôt de son instrument de ratification.
 
-Wanneer een Overeenkomstsluitende Staat de vordering heeft geïnd, wordt het in feite geïnde bedrag onverwijld aan EUROCONTROL overgemaakt, die dan handelt volgens de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&artikel=20&z=1986-01-01&g=1986-01-01) voorziene procedure. De door deze Staat gemaakte invorderingskosten worden in rekening gebracht aan EUROCONTROL.
+5. Par sa signature EUROCONTROL devient partie au préseni Accord.
 
-##### Artikel 22
+6. Le Gouvernement du Royaume de Belgique avisera les Gouvernements des autres Etats signataires dudit Accord de toute signature dudit Accord, de tout dépôt d'instrument de ratification et de la date d'entrée en vigueur de l'Accord.
 
-Bij de vaststelling en de inning van „en route”-heffingen werken de bevoegde instanties van de Overeenkomstsluitende Staten samen met EUROCONTROL.
+##### Article 28
 
-##### Artikel 23
+1. Tout Etat peut adhérer au présent Accord.
 
-Indien het uitgebreide Comité eenstemmig besluit, van het in rechte vorderen van een heffing af te zien, kunnen de betrokken Overeenkomstsluitende Staten alle maatregelen nemen die zij passend achten. In een dergelijk geval zijn de bepalingen van deze Overeenkomst betreffende het in rechte vorderen van betaling, de erkenning en de tenuitvoerlegging van de beslissingen niet meer van toepassing.
+Toutefois, à l'exception des Etats européens adhérant à la Convention amendée visée au [paragraphe 2 de l'Article 27](https://wetten.overheid.nl/BWBV0002439), les Etats ne peuvent adhérer au présent Accord qu'avec l'approbation de la Commission élargie statuant à l'unanimité.
 
-##### Artikel 24
+2. L'instrument d'adhésion est déposé auprès du Gouvernement du Royaume de Belgique qui en avisera les Gouvernements des autres Etats contractants.
 
-In geval van crisis of oorlog kunnen de bepalingen van deze Overeenkomst geen afbreuk doen aan de vrijheid van handelen van de betrokken Overeenkomstsluitende Staten.
+3. L'adhésion prendra effet le premier jour du deuxième mois suivant le dépôt de l'instrument d'adhésion.
 
-##### Artikel 25
+##### Article 29
 
-1. Ieder geschil dat tussen de Overeenkomstsluitende Staten of tussen de Overeenkomstsluitende Staten en EUROCONTROL, vertegenwoordigd door de uitgebreide Commissie, mocht ontstaan ten aanzien van de uitlegging of toepassing van deze Overeenkomst of van zijn bijlagen, en dat niet kan worden opgelost door rechtstreekse onderhandelingen of op enige andere wijze geregeld, wordt op verzoek van een van de partijen aan arbitrage onderworpen.
+1. Les Etats parties à la Convention amendée sont liés par le présent Accord aussi longtemps que ladite Convention amendée reste en vigueur.
 
-2. Te dien einde wijst elk der partijen in elk voorkomend geval een arbiter aan en de arbiters benoemen in onderlinge overeenstemming een derde arbiter.
+2. Les Etats qui ne sont pas parties à la Convention amendée seront liés par le présent Accord pour une durée de cinq ans décomptée à partir du jour où il est, à leur égard, entré en vigueur ou jusqu'à expiration de la Convention, si cette dernière date est la plus rapprochée. Cette période de cinq ans est automatiquement prolongée par périodes de cinq ans à moins que l'Etat concerné n'ait manifesté par une notification écrite au Gouvernement du Royaume de Belgique, au moins deux ans avant l'expiration de la période en cours, son intention de mettre fin à sa participation au présent Accord. Le Gouvernement du Royaume de Belgique avisera par écrit les Gouvernements des autres Etats contractants de ladite notification.
 
-3. Het scheidsgerecht bepaalt zijn eigen werkwijze.
+3. Le Gouvernement du Royaume de Belgique avisera par écrit les Gouvernements des autres Etats contractants de toute notification faite par une Partie contractante à la Convention amendée de son intention de mettre fin à ladite Convention.
 
-4. Elke partij draagt zelf de kosten van haar arbiter en haar vertegenwoordiging tijdens de procedure voor het scheidsgerecht; de kosten die betrekking hebben op de derde arbiter en de andere kosten worden door de partijen ieder voor een gelijk deel gedragen. Het scheidsgerecht kan echter een ongelijke verdeling van de kosten vaststellen indien het dit passend acht.
+##### Article 30
 
-5. De beslissingen van het scheidsgerecht zijn bindend voor de partijen bij het geschil.
-
-##### Artikel 26
-
-Deze Overeenkomst vervangt de Multilaterale Overeenkomst betreffende de inning van „en route”-heffingen van 8 september 1970.
-
-Deze bepaling doet geen afbreuk aan enige overeenkomst tussen EUROCONTROL en een Staat, geen Lid-Staat zijnde, op het stuk van de inning van „en route ”-heffingen voor de in artikel 1 van deze Overeenkomst genoemde vluchtinlichtingengebieden, die van kracht blijft totdat de betrokken Staat Partij bij deze Overeenkomst is geworden.
-
-##### Artikel 27
-
-1. Voor de datum van inwerkingtreding staat deze Overeenkomst open voor ondertekening door alle Staten die op de datum van hun ondertekening deelnemen aan het EUROCONTROL-systeem voor de inning van „en route”-heffingen, of die door de Permanente Commissie eenparig tot ondertekening zijn toegelaten.
-
-2. Deze Overeenkomst dient te worden bekrachtigd. De akten van bekrachtiging zullen worden nedergelegd bij de Regering van het Koninkrijk België. Bekrachtiging van het op 12 februari 1981 te Brussel ter ondertekening opengestelde Protocol tot wijziging van het Internationaal Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart „EUROCONTROL” van 13 december 1986, hierna te noemen „het Protocol”, geldt tevens als bekrachtiging van deze Overeenkomst.
-
-3. Deze Overeenkomst treedt in werking op de datum van inwerkingtreding van het Protocol wat betreft EUROCONTROL, de Lid-Staten van EUROCONTROL en Staten die hun akte van bekrachtiging op een eerdere datum hebben nedergelegd.
-
-4. Voor elke Staat waarvan de akte van bekrachtiging na de datum van inwerkingtreding van deze Overeenkomst is nedergelegd, treedt de Overeenkomst in werking op de eerste dag van de tweede maand volgend op de datum van nederlegging van zijn akte van bekrachtiging.
-
-5. EUROCONTROL wordt Partij bij deze Overeenkomst door middel van ondertekening.
-
-6. De Regering van het Koninkrijk België stelt de Regeringen van de overige Staten die deze Overeenkomst hebben ondertekend, in kennis van elke ondertekening, van elke nederlegging van een akte van bekrachtiging en van de datum van inwerkingtreding van deze Overeenkomst.
-
-##### Artikel 28
-
-1. Elke Staat kan tot deze Overeenkomst toetreden.
-
-Behalve in het geval van Europese Staten die toetreden tot het in [artikel 27, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0002439&artikel=27&z=1986-01-01&g=1986-01-01), bedoelde gewijzigde Verdrag, kunnen Staten slechts met eenparige goedkeuring van de uitgebreide Commissie tot deze Overeenkomst toetreden.
-
-2. De akte van toetreding wordt nedergelegd bij de Regering van het Koninkrijk België, die de Regeringen van de overige Overeenkomstsluitende Staten hiervan in kennis zal stellen.
-
-3. De toetreding wordt van kracht op de eerste dag van de tweede maand volgende op de nederlegging van de akte van toetreding.
-
-##### Artikel 29
-
-1. De Staten die Partij zijn bij het gewijzigde Verdrag zijn door deze Overeenkomst gebonden zolang het gewijzigde Verdrag van kracht blijft.
-
-2. De Staten die geen Partij zijn bij het gewijzigde Verdrag zijn door deze Overeenkomst gebonden voor een tijdvak van vijf jaar, te rekenen vanaf de dag waarop deze Overeenkomst ten aanzien van deze Staten in werking is getreden, of, indien zulks eerder valt, tot de beëindiging van het Verdrag. Genoemd tijdvak van vijf jaar wordt stilzwijgend verlengd met perioden van vijf jaar, tenzij de betrokken Staat door middel van een schriftelijke kennisgeving aan de Regering van het Koninkrijk België minstens twee jaar voor het einde van de lopende periode heeft medegedeeld dat hij het voornemen heeft zijn deelname aan deze Overeenkomst te beëindigen. De Regering van het Koninkrijk België doet van bedoelde kennisgeving mededeling aan de Regeringen van de overige Overeenkomstsluitende Staten.
-
-3. De Regering van het Koninkrijk België stelt de Regeringen van de overige Overeenkomstsluitende Staten schriftelijk in kennis van elke verklaring waarmede een bij het gewijzigde Verdrag Partij zijnde Staat mededeelt dat hij het voornemen heeft het Verdrag te beëindigen.
-
-##### Artikel 30
-
-De Regering van het Koninkrijk België doet deze Overeenkomst bij de Secretaris-Generaal van de Verenigde Naties registreren overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) en bij de Raad van de Internationale Burgerluchtvaartorganisatie overeenkomstig [artikel 83 van het op 7 december 1944 te Chicago ondertekende Verdrag inzake de internationale burgerlijke luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=83).
+Le Gouvernement du Royaume de Belgique fera enregistrer le présent Accord auprès du Secrétaire Général des Nations Unies, conformément à [l'article 102 de la Charte des Nations Unies](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) et auprès du Conseil de l'Organisation de l'Aviation Civile Internationale, conformément à[l'article 83 de la Convention relative à l'Aviation Civile Internationale](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=83) signée à Chicago le 7 décembre 1944.
 
 EN FOI DE QUOI, les Plénipotentiaires soussignés, après présentation de leurs pleins pouvoirs qui ont été reconnues en bonne et due forme, ont signé le présent Accord.
 

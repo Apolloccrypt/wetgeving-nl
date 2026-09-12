@@ -1,65 +1,35 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Democratische Volksrepubliek Algerije betreffende de luchtvaart"
 identifier: "BWBV0002565"
-country: "nl"
-rank: "verdrag"
-publication_date: "1992-11-26"
-last_updated: "1992-11-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002565"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10002931513"
-version_id: "10002933442"
-internal_id: "C10006980781"
-label_id: "10002918594"
-dtd_version: "2.0"
-original_entry_into_force: "1992-11-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002565/1992-11-26/0"
-intitule_bron: "Trb.1988-16"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1988-07-04"
-intitule_published: "1988-02-19"
-intitule_in_force: "1993-01-08"
-intitule_status: "goed"
-original_publication: "Trb.1988-16"
-original_signed_date: "1988-07-04"
-original_published_date: "1988-02-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1988-16"
-entry_into_force_date: "1992-11-26"
-jci_1_3: "jci1.3:c:BWBV0002565&z=1992-11-26&g=1992-11-26"
-jci_1_0: "1.0:c:BWBV0002565&g=1992-11-26"
-citeertitel_status: "officieel"
-signed_date: "1988-07-04"
-entry_into_force: "1992-11-26"
+publicatiedatum: 1992-11-26
+laatste_update: 1992-11-26
+status: geldig
+toestand: 1992-11-26
+bron: "https://wetten.overheid.nl/BWBV0002565"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Democratische Volksrepubliek Algerije betreffende de luchtvaart
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Democratische Volksrepubliek Algerije, hierna te noemen de „Overeenkomstsluitende Partijen”,
-
-Overwegende dat het Koninkrijk der Nederlanden en de Democratische Volksrepubliek Algerije Partij zijn bij het Verdrag inzake de internationale burgerluchtvaart, voor ondertekening opengesteld te Chicago op 7 december 1944,
-
-Verlangende de betrekkingen tussen beide landen alsmede de internationale samenwerking op het gebied van de luchtvaart zoveel mogelijk te bevorderen,
-
-Verlangende een overeenkomst te sluiten ten einde geregelde luchtdiensten in te stellen tussen en via hun onderscheiden grondgebieden,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Democratische Volksrepubliek Algerije, hierna te noemen de „Overeenkomstsluitende Partijen”, Overwegende dat het Koninkrijk der Nederlanden en de Democratische Volksrepubliek Algerije Partij zijn bij het Verdrag inzake de internationale burgerluchtvaart, voor ondertekening opengesteld te Chicago op 7 december 1944, Verlangende de betrekkingen tussen beide landen alsmede de internationale samenwerking op het gebied van de luchtvaart zoveel mogelijk te bevorderen, Verlangende een overeenkomst te sluiten ten einde geregelde luchtdiensten in te stellen tussen en via hun onderscheiden grondgebieden, Zijn het volgende overeengekomen:*
 
 ##### Artikel I
 
 Voor de toepassing van deze Overeenkomst en de daarbij behorende bijlage wordt verstaan onder:
 
-- a). „het Verdrag”: het op 7 december 1944 te Chicago voor ondertekening opengestelde Verdrag inzake de internationale burgerluchtvaart;
+- a) „het Verdrag”: het op 7 december 1944 te Chicago voor ondertekening opengestelde Verdrag inzake de internationale burgerluchtvaart;
 
-- b). „luchtvaartautoriteiten”: wat het Koninkrijk der Nederlanden betreft, de Minister van Verkeer en Waterstaat en wat de Democratische Volksrepubliek Algerije betreft de Minister van Verkeer en Visserij, of, in beide gevallen, iedere persoon of instelling, bevoegd tot het vervullen van de functies waarmede zij thans zijn belast;
+- b) „luchtvaartautoriteiten”: wat het Koninkrijk der Nederlanden betreft, de Minister van Verkeer en Waterstaat en wat de Democratische Volksrepubliek Algerije betreft de Minister van Verkeer en Visserij, of, in beide gevallen, iedere persoon of instelling, bevoegd tot het vervullen van de functies waarmede zij thans zijn belast;
 
-- c). „aangewezen maatschappij”: een luchtvaartmaatschappij die door een van de Overeenkomstsluitende Partijen is aangewezen overeenkomstig artikel III van deze Overeenkomst, voor het exploiteren van de overeengekomen luchtdiensten;
+- c) „aangewezen maatschappij”: een luchtvaartmaatschappij die door een van de Overeenkomstsluitende Partijen is aangewezen overeenkomstig artikel III van deze Overeenkomst, voor het exploiteren van de overeengekomen luchtdiensten;
 
-- d). „grondgebied”: met betrekking tot een Staat, het land en de daaraan grenzende territoriale zee onder soevereiniteit van bedoelde Staat;
+- d) „grondgebied”: met betrekking tot een Staat, het land en de daaraan grenzende territoriale zee onder soevereiniteit van bedoelde Staat;
 
-- e). „luchtvaartmaatschappij” en „landing anders dan voor verkeersdoeleinden”: dat wat er onder verstaan wordt in artikel 96 van het Verdrag;
+- e) „luchtvaartmaatschappij” en „landing anders dan voor verkeersdoeleinden”: dat wat er onder verstaan wordt in artikel 96 van het Verdrag;
 
-- f). „overeengekomen dienst”: het geregeld luchtvervoer van passagiers, bagage en vracht op de routes omschreven in de als bijlage hierbij gevoegde routetabel, opgesteld ingevolge deze Overeenkomst.
+- f) „overeengekomen dienst”: het geregeld luchtvervoer van passagiers, bagage en vracht op de routes omschreven in de als bijlage hierbij gevoegde routetabel, opgesteld ingevolge deze Overeenkomst.
 
 ##### Artikel II
 
@@ -87,11 +57,11 @@ Voor de toepassing van deze Overeenkomst en de daarbij behorende bijlage wordt v
 
 1. Elke Overeenkomstsluitende Partij heeft het recht de exploitatievergunning, bedoeld in artikel III van deze Overeenkomst, in te trekken of de uitoefening door de door de andere Overeenkomstsluitende Partij aangewezen maatschappij van de rechten, omschreven in artikel II van deze Overeenkomst, te schorsen, dan wel de uitoefening van deze rechten te onderwerpen aan de voorwaarden die zij noodzakelijk acht, indien:
 
-- a). zij er niet van overtuigd is dat een aanzienlijk deel van de eigendom van en het daadwerkelijk toezicht op die maatschappij berusten bij de Overeenkomstsluitende Partij die de maatschappij heeft aangewezen of bij onderdanen van deze Overeenkomstsluitende Partij, dan wel bij beide; of indien
+- a) zij er niet van overtuigd is dat een aanzienlijk deel van de eigendom van en het daadwerkelijk toezicht op die maatschappij berusten bij de Overeenkomstsluitende Partij die de maatschappij heeft aangewezen of bij onderdanen van deze Overeenkomstsluitende Partij, dan wel bij beide; of indien
 
-- b). deze maatschappij zich niet heeft gehouden aan de wetten en voorschriften van de Overeenkomstsluitende Partij die deze rechten heeft verleend; of indien
+- b) deze maatschappij zich niet heeft gehouden aan de wetten en voorschriften van de Overeenkomstsluitende Partij die deze rechten heeft verleend; of indien
 
-- c). deze maatschappij de overeengekomen diensten niet exploiteert overeenkomstig de voorwaarden gesteld in deze Overeenkomst en de daarbij behorende Bijlage.
+- c) deze maatschappij de overeengekomen diensten niet exploiteert overeenkomstig de voorwaarden gesteld in deze Overeenkomst en de daarbij behorende Bijlage.
 
 2. Tenzij het intrekken, het schorsen of het stellen van de voorwaarden bedoeld in het eerste lid van dit artikel onmiddellijk noodzakelijk is om nieuwe inbreuken op de wetten en voorschriften te voorkomen, kan een zodanig recht niet worden uitgeoefend dan na overleg met de andere Overeenkomstsluitende Partij.
 
@@ -105,11 +75,11 @@ Voor de toepassing van deze Overeenkomst en de daarbij behorende bijlage wordt v
 
 4. Bij het vervoer van passagiers, vracht en post, opgenomen of afgezet op overeengekomen diensten op de grondgebieden van derde landen, wordt rekening gehouden met het algemene beginsel dat de vervoerscapaciteit moet zijn aangepast:
 
-- a). aan de behoeften aan vervoer van en naar het grondgebied van de Overeenkomstsluitende Partij die de luchtvaartmaatschappij heeft aangewezen;
+- a) aan de behoeften aan vervoer van en naar het grondgebied van de Overeenkomstsluitende Partij die de luchtvaartmaatschappij heeft aangewezen;
 
-- b). aan de behoeften aan vervoer van het gebied via hetwelk de aangewezen maatschappij gaat, rekening houdend met de andere luchtvaartdiensten, ingesteld door de luchtvaartmaatschappijen van de Staten, gelegen in het desbetreffende gebied; en
+- b) aan de behoeften aan vervoer van het gebied via hetwelk de aangewezen maatschappij gaat, rekening houdend met de andere luchtvaartdiensten, ingesteld door de luchtvaartmaatschappijen van de Staten, gelegen in het desbetreffende gebied; en
 
-- c). aan de vereisten van de lange-afstandsdiensten.
+- c) aan de vereisten van de lange-afstandsdiensten.
 
 5. Voor de toepassing van de beginselen vervat in dit artikel zendt de maatschappij die is aangewezen door een Overeenkomstsluitende Partij, aan de luchtvaartautoriteiten van de andere Overeenkomstsluitende Partij, uiterlijk dertig (30) dagen voor het begin van de exploitatie van de overeengekomen diensten, het exploitatieprogramma omvattend de frequenties, de te gebruiken types luchtvaartuigen, de dagen en het tijdschema van de vluchten en de latere wijzigingen daarin.
 
@@ -137,11 +107,11 @@ De bewijzen van luchtwaardigheid en van bevoegdheid en vergunningen die zijn ver
 
 2. De vrijstellingen verleend krachtens dit artikel zijn eveneens van toepassing op de zaken vermeld in het eerste lid van dit artikel wanneer zij:
 
-- a). op het grondgebied van een der Overeenkomstsluitende Partijen worden ingevoerd door de door de andere Overeenkomstsluitende Partij aangewezen maatschappij of voor haar rekening;
+- a) op het grondgebied van een der Overeenkomstsluitende Partijen worden ingevoerd door de door de andere Overeenkomstsluitende Partij aangewezen maatschappij of voor haar rekening;
 
-- b). aan boord blijven van de luchtvaartuigen van de aangewezen maatschappij van een der Overeenkomstsluitende Partijen bij aankomst op het grondgebied van de andere Overeenkomstsluitende Partij of bij vertrek uit bedoeld grondgebied;
+- b) aan boord blijven van de luchtvaartuigen van de aangewezen maatschappij van een der Overeenkomstsluitende Partijen bij aankomst op het grondgebied van de andere Overeenkomstsluitende Partij of bij vertrek uit bedoeld grondgebied;
 
-- c). aan boord zijn genomen door luchtvaartuigen van de aangewezen maatschappij van een der Overeenkomstsluitende Partijen op het grondgebied van de andere Overeenkomstsluitende Partij en zijn bestemd om te worden gebruikt bij de exploitatie van de luchtdiensten.
+- c) aan boord zijn genomen door luchtvaartuigen van de aangewezen maatschappij van een der Overeenkomstsluitende Partijen op het grondgebied van de andere Overeenkomstsluitende Partij en zijn bestemd om te worden gebruikt bij de exploitatie van de luchtdiensten.
 
 3. De normale boorduitrusting, de reserveonderdelen alsmede de boordvoorraden en de reserves aan motorbrandstoffen en smeermiddelen die zich bevinden aan boord van de luchtvaartuigen gebruikt door de aangewezen maatschappij van een Overeenkomstsluitende Partij, mogen op het grondgebied van de andere Overeenkomstsluitende Partij niet worden uitgeladen dan met toestemming van de douaneautoriteiten van dat grondgebied. De desbetreffende produkten worden geplaatst onder toezicht van de douane totdat zij zijn gebruikt of weer uitgevoerd of totdat zij een andere bestemming hebben gekregen.
 
@@ -167,9 +137,9 @@ De bewijzen van luchtwaardigheid en van bevoegdheid en vergunningen die zijn ver
 
 Elke Overeenkomstsluitende Partij verleent aan de aangewezen maatschappij van de andere Overeenkomstsluitende Partij het recht om:
 
-- -. de inkomsten uit het vervoer van passagiers, vracht en post te gebruiken voor het betalen op het grondgebied van de andere Overeenkomstsluitende Partij van de uitgaven verband houdend met de normale afwikkeling van haar werkzaamheden;
+- - de inkomsten uit het vervoer van passagiers, vracht en post te gebruiken voor het betalen op het grondgebied van de andere Overeenkomstsluitende Partij van de uitgaven verband houdend met de normale afwikkeling van haar werkzaamheden;
 
-- -. het bedrag waarmee de inkomsten deze uitgaven te bovengaan, vrij over te maken tegen de officiële wisselkoers.
+- - het bedrag waarmee de inkomsten deze uitgaven te bovengaan, vrij over te maken tegen de officiële wisselkoers.
 
 Dit geld wordt regelmatig en binnen redelijke termijn overgemaakt overeenkomstig de van kracht zijnde wisselvoorschriften.
 
@@ -211,37 +181,11 @@ Deze Overeenkomst wordt gewijzigd door middel van een diplomatieke notawisseling
 
 Elke Overeenkomstsluitende Partij kan te allen tijde de andere Overeenkomstsluitende Partij schriftelijk en langs diplomatieke weg in kennis stellen van haar besluit deze Overeenkomst op te zeggen; deze kennisgeving wordt tegelijkertijd verzonden aan de Internationale Burgerluchtvaartorganisatie. De Overeenkomst wordt beëindigd één (1) jaar na het tijdstip van ontvangst van de kennisgeving door de andere Overeenkomstsluitende Partij, tenzij de kennisgeving van opzegging vóór het verstrijken van deze periode in gemeenschappelijk overleg wordt ingetrokken. Wanneer de andere Overeenkomstsluitende Partij niet de ontvangst bevestigt, wordt deze kennisgeving geacht te zijn ontvangen veertien (14) dagen nadat de kennisgeving is ontvangen door de Internationale Burgerluchtvaartorganisatie.
 
-##### I
-
-Nederland
-
-A. Routes die kunnen worden geëxploiteerd door de maatschappij aangewezen door de Regering van het Koninkrijk der Nederlanden:
-
-Amsterdam - een tussenliggend punt in gemeenschappelijk overleg te bepalen - Algiers - verder gelegen punten in gemeenschappelijk overleg te bepalen en vice versa.
-
-Algerije
-
-B. Routes die kunnen worden geëxploiteerd door de maatschappij aangewezen door de Regering van de Republiek Algerije:
-
-Algiers - een tussenliggend punt in gemeenschappelijk overleg te bepalen - Amsterdam - verder gelegen punten in gemeenschappelijk overleg te bepalen.
-
-##### II
-
-Op de vluchten of op een gedeelte daarvan kunnen, naar keuze van de aangewezen maatschappijen, punten vermeld in de routetabel achterwege worden gelaten.
-
-##### III
-
-De punten vermeld in de routetabel kunnen worden geëxploiteerd in willekeurige volgorde.
-
-##### IV
-
-Bij de exploitatie van haar route kan de aangewezen maatschappij landen op een of meer andere punten dan die waartoe toestemming is verleend in de routetabel, doch zonder vervoersrechten tussen dat punt/ die punten en het grondgebied van de andere Overeenkomstsluitende Partij.
-
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd door hun onderscheiden Regeringen, deze Overeenkomst hebben ondertekend.
 
 GEDAAN in tweevoud te Algiers op 22 maart 1987 in de Nederlandse, de Arabische en de Franse taal, zijnde de drie teksten gelijkelijk gezaghebbend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 (w.g.) H. VAN DEN BROEK
 
@@ -249,7 +193,7 @@ Hans van den Broek
 
 Minister van Buitenlandse Zaken
 
-**Voor de Regering van de Democratische Volksrepubliek Algerije,**
+*Voor de Regering van de Democratische Volksrepubliek Algerije,*
 
 (w.g.) R. BENYELLES
 

@@ -1,106 +1,18 @@
 ---
-title: "Protocol tot toetreding van de Europese Gemeenschap tot het Internationaal Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart „EUROCONTROL\" van 13 december 1960, zoals meermalen gewijzigd en door het Protocol van 27 juni 1997 geconsolideerd"
+title: "Protocol tot toetreding van de Europese Gemeenschap tot het Internationaal Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart „EUROCONTROL' van 13 december 1960, zoals meermalen gewijzigd en door het Protocol van 27 juni 1997 geconsolideerd"
 identifier: "BWBV0001670"
-country: "nl"
-rank: "verdrag"
-publication_date: "2002-10-08"
-last_updated: "2002-10-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001670"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10000688273"
-version_id: "10000706412"
-internal_id: "C10006993271"
-label_id: "10000688514"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001670/2002-10-08/0"
-intitule_status: "nogniet"
-jci_1_3: "jci1.3:c:BWBV0001670&z=2002-10-08&g=2002-10-08"
-jci_1_0: "1.0:c:BWBV0001670&g=2002-10-08"
-citeertitel_status: "officieel"
+laatste_update: 2002-10-08
+status: geldig
+toestand: 2002-10-08
+bron: "https://wetten.overheid.nl/BWBV0001670"
+opgehaald: 2026-09-12
 ---
+
 # Protocol tot toetreding van de Europese Gemeenschap tot het Internationaal Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart „EUROCONTROL" van 13 december 1960, zoals meermalen gewijzigd en door het Protocol van 27 juni 1997 geconsolideerd
 
-De Republiek Albanië,
-
-de Bondsrepubliek Duitsland,
-
-de Republiek Oostenrijk,
-
-het Koninkrijk België,
-
-de Republiek Bulgarije,
-
-de Republiek Cyprus,
-
-de Republiek Kroatië,
-
-het Koninkrijk Denemarken,
-
-het Koninkrijk Spanje,
-
-de Republiek Finland,
-
-de Franse Republiek,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-de Helleense Republiek,
-
-de Republiek Hongarije,
-
-Ierland,
-
-de Italiaanse Republiek,
-
-de Voormalige Joegoslavische Republiek Macedonië,
-
-het Groothertogdom Luxemburg,
-
-de Republiek Malta,
-
-de Republiek Moldavië,
-
-het Vorstendom Monaco,
-
-het Koninkrijk Noorwegen,
-
-het Koninkrijk der Nederlanden,
-
-de Portugese Republiek,
-
-Roemenië,
-
-de Slowaakse Republiek,
-
-de Republiek Slovenië,
-
-het Koninkrijk Zweden,
-
-de Zwitserse Bondsstaat,
-
-de Tsjechische Republiek,
-
-de Republiek Turkije,
-
-en
-
-de Europese Gemeenschap,
-
-Gelet op het Internationaal Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart „EUROCONTROL" van 13 december 1960 zoals gewijzigd door het Additioneel Protocol van 6 juli 1970, op zijn beurt gewijzigd door het Protocol van 21 november 1978, het geheel gewijzigd door het Protocol van 12 februari 1981 en als herzien en geconsolideerd door het Protocol van 27 juni 1997, in het hiernavolgende „het Verdrag" genoemd, en inzonderheid op artikel 40 hiervan;
-
-Gelet op de verantwoordelijkheden door het Verdrag tot instelling van de Europese Gemeenschap van 25 maart 1957, zoals herzien door het Verdrag van Amsterdam van 2 oktober 1997, toegekend aan de Europese Gemeenschap op bepaalde, door het Verdrag bestreken gebieden;
-
-Overwegende dat de Lid-Staten van de Europese Gemeenschap, tevens Lid van EUROCONTROL zijnde, bij hun aanvaarding van het op 27 juni 1997 ter ondertekening opengestelde Protocol tot consolidatie van het Verdrag hebben verklaard dat hun ondertekening de uitsluitende bevoegdheid van de Gemeenschap op bepaalde, door het Verdrag bestreken gebieden alsook het lidmaatschap van de Gemeenschap van EUROCONTROL met het oog op het uitoefenen van deze uitsluitende bevoegdheid onverlet laat;
-
-Overwegende dat de toetreding van de Europese Gemeenschap tot het Verdrag beoogt de Europese Organisatie voor de veiligheid van de luchtvaart, in het hiernavolgende „EUROCONTROL" genoemd, te helpen bij het nastreven van haar doeleinden zoals in het Verdrag uiteengezet en met name haar bestaan als een enkel en efficiënt orgaan voor de beleidsvorming inzake het luchtverkeersbeheer in Europa;
-
-Overwegende dat de toetreding van de Europese Gemeenschap tot EUROCONTROL opheldering vergt over de wijze waarop het Verdrag op de Europese Gemeenschap en haar Lid-Staten van toepassing zal zijn;
-
-Overwegende dat de voorwaarden van de toetreding van de Europese Gemeenschap tot het Verdrag de Gemeenschap in staat moeten stellen binnen EUROCONTROL de door haar Lid-Staten aan haar verleende bevoegdheden uit te oefenen;
-
-Overwegende dat het Koninkrijk Spanje en het Verenigd Koninkrijk op 2 december 1987 in Londen in een gezamenlijke verklaring van hun ministers van Buitenlandse Zaken regelingen zijn overeengekomen inzake meer samenwerking bij het gebruik van de luchthaven van Gibraltar, dat deze regelingen echter nog niet worden toegepast;
-
-Zijn overeengekomen als volgt:
+*De Republiek Albanië, de Bondsrepubliek Duitsland, de Republiek Oostenrijk, het Koninkrijk België, de Republiek Bulgarije, de Republiek Cyprus, de Republiek Kroatië, het Koninkrijk Denemarken, het Koninkrijk Spanje, de Republiek Finland, de Franse Republiek, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de Helleense Republiek, de Republiek Hongarije, Ierland, de Italiaanse Republiek, de Voormalige Joegoslavische Republiek Macedonië, het Groothertogdom Luxemburg, de Republiek Malta, de Republiek Moldavië, het Vorstendom Monaco, het Koninkrijk Noorwegen, het Koninkrijk der Nederlanden, de Portugese Republiek, Roemenië, de Slowaakse Republiek, de Republiek Slovenië, het Koninkrijk Zweden, de Zwitserse Bondsstaat, de Tsjechische Republiek, de Republiek Turkije, en de Europese Gemeenschap, Gelet op het Internationaal Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart „EUROCONTROL" van 13 december 1960 zoals gewijzigd door het Additioneel Protocol van 6 juli 1970, op zijn beurt gewijzigd door het Protocol van 21 november 1978, het geheel gewijzigd door het Protocol van 12 februari 1981 en als herzien en geconsolideerd door het Protocol van 27 juni 1997, in het hiernavolgende „het Verdrag" genoemd, en inzonderheid op artikel 40 hiervan; Gelet op de verantwoordelijkheden door het Verdrag tot instelling van de Europese Gemeenschap van 25 maart 1957, zoals herzien door het Verdrag van Amsterdam van 2 oktober 1997, toegekend aan de Europese Gemeenschap op bepaalde, door het Verdrag bestreken gebieden; Overwegende dat de Lid-Staten van de Europese Gemeenschap, tevens Lid van EUROCONTROL zijnde, bij hun aanvaarding van het op 27 juni 1997 ter ondertekening opengestelde Protocol tot consolidatie van het Verdrag hebben verklaard dat hun ondertekening de uitsluitende bevoegdheid van de Gemeenschap op bepaalde, door het Verdrag bestreken gebieden alsook het lidmaatschap van de Gemeenschap van EUROCONTROL met het oog op het uitoefenen van deze uitsluitende bevoegdheid onverlet laat; Overwegende dat de toetreding van de Europese Gemeenschap tot het Verdrag beoogt de Europese Organisatie voor de veiligheid van de luchtvaart, in het hiernavolgende „EUROCONTROL" genoemd, te helpen bij het nastreven van haar doeleinden zoals in het Verdrag uiteengezet en met name haar bestaan als een enkel en efficiënt orgaan voor de beleidsvorming inzake het luchtverkeersbeheer in Europa; Overwegende dat de toetreding van de Europese Gemeenschap tot EUROCONTROL opheldering vergt over de wijze waarop het Verdrag op de Europese Gemeenschap en haar Lid-Staten van toepassing zal zijn; Overwegende dat de voorwaarden van de toetreding van de Europese Gemeenschap tot het Verdrag de Gemeenschap in staat moeten stellen binnen EUROCONTROL de door haar Lid-Staten aan haar verleende bevoegdheden uit te oefenen; Overwegende dat het Koninkrijk Spanje en het Verenigd Koninkrijk op 2 december 1987 in Londen in een gezamenlijke verklaring van hun ministers van Buitenlandse Zaken regelingen zijn overeengekomen inzake meer samenwerking bij het gebruik van de luchthaven van Gibraltar, dat deze regelingen echter nog niet worden toegepast; Zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 

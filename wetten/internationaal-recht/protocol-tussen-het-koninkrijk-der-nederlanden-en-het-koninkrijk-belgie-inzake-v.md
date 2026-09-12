@@ -1,49 +1,19 @@
 ---
 title: "Protocol tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake voorrechten en immuniteiten van de Nederlandse Taalunie"
 identifier: "BWBV0002229"
-country: "nl"
-rank: "verdrag"
-publication_date: "1994-01-17"
-last_updated: "1994-01-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002229"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002710153"
-version_id: "10002708852"
-internal_id: "C10006984931"
-label_id: "10002698034"
-dtd_version: "2.0"
-original_entry_into_force: "1994-01-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002229/1994-01-17/0"
-intitule_bron: "Trb.1990-124"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-01-21"
-intitule_published: "1990-08-24"
-intitule_in_force: "1994-02-16"
-intitule_status: "goed"
-original_publication: "Trb.1990-124"
-original_signed_date: "1993-01-21"
-original_published_date: "1990-08-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1990-124"
-entry_into_force_date: "1994-01-17"
-jci_1_3: "jci1.3:c:BWBV0002229&z=1994-01-17&g=1994-01-17"
-jci_1_0: "1.0:c:BWBV0002229&g=1994-01-17"
-citeertitel_status: "officieel"
-signed_date: "1993-01-21"
-entry_into_force: "1994-01-17"
+publicatiedatum: 1994-01-17
+laatste_update: 1994-01-17
+status: geldig
+toestand: 1994-01-17
+bron: "https://wetten.overheid.nl/BWBV0002229"
+opgehaald: 2026-09-12
 ---
+
 # Protocol tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake voorrechten en immuniteiten van de Nederlandse Taalunie
 
-Het Koninkrijk der Nederlanden en het Koninkrijk België,
-
-Overwegend dat de Nederlandse Taalunie (hierna te noemen „de Taalunie”) is opgericht bij het op 9 september 1980 te Brussel tot stand gekomen [Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake de Nederlandse Taalunie](https://wetten.overheid.nl/jci1.3:c:BWBV0002947) (hierna te noemen „het Verdrag”);
-
-Overwegend dat de Taalunie krachtens het op basis van [artikel 15 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002947&artikel=15) door het Comité van Ministers op 1 maart 1984 te Oud-Turnhout genomen besluit haar zetel heeft te 's-Gravenhage;
-
-Verlangend uitvoering te geven aan [artikel 16, tweede lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002947&artikel=16) dat bepaalt dat de Hoge Verdragsluitende Partijen een Protocol zullen sluiten waarin de voorrechten en immuniteiten worden vastgelegd welke nodig zijn voor de uitoefening van de functies en het bereiken van de doelstellingen van de Taalunie;
-
-Zijn overeengekomen als volgt:
+*Het Koninkrijk der Nederlanden en het Koninkrijk België, Overwegend dat de Nederlandse Taalunie (hierna te noemen „de Taalunie”) is opgericht bij het op 9 september 1980 te Brussel tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake de Nederlandse Taalunie (hierna te noemen „het Verdrag”); Overwegend dat de Taalunie krachtens het op basis van artikel 15 van het Verdrag door het Comité van Ministers op 1 maart 1984 te Oud-Turnhout genomen besluit haar zetel heeft te 's-Gravenhage; Verlangend uitvoering te geven aan artikel 16, tweede lid, van het Verdrag dat bepaalt dat de Hoge Verdragsluitende Partijen een Protocol zullen sluiten waarin de voorrechten en immuniteiten worden vastgelegd welke nodig zijn voor de uitoefening van de functies en het bereiken van de doelstellingen van de Taalunie; Zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 
@@ -69,7 +39,7 @@ De archieven van de Taalunie zijn onschendbaar. De Algemeen Secretaris van de Ta
 
 ##### Artikel 4
 
-- a. Aan de Algemeen Secretaris van de Taalunie worden een status vergelijkbaar met die van het hoofd van een diplomatieke zending en de daaruit voortvloeiende voorrechten en immuniteiten toegekend.
+1. - a. Aan de Algemeen Secretaris van de Taalunie worden een status vergelijkbaar met die van het hoofd van een diplomatieke zending en de daaruit voortvloeiende voorrechten en immuniteiten toegekend.
 
 - b. De immuniteit van jurisdictie geldt evenwel niet in geval van verkeersdelicten door hem begaan, noch in geval van schade veroorzaakt met een hem toebehorend of door hem bestuurd voertuig.
 
@@ -107,10 +77,10 @@ TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden dit Protocol hebben onderte
 
 GEDAAN te 's-Gravenhage, op 13 juli 1990, in tweevoud, in de Nederlandse taal.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) P. DANKERT
 
-**Voor het Koninkrijk België**
+*Voor het Koninkrijk België*
 
 (w.g.) L. CEYSSENS

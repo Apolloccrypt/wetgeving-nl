@@ -1,49 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en Canada tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen"
 identifier: "BWBV0002457"
-country: "nl"
-rank: "verdrag"
-publication_date: "1999-01-15"
-last_updated: "1999-01-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002457"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10002888813"
-version_id: "10002889322"
-internal_id: "C10009600311"
-label_id: "10002876564"
-dtd_version: "2.0"
-original_entry_into_force: "1987-08-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002457/1999-01-15/0"
-intitule_bron: "Trb.1986-65"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1987-07-22"
-intitule_published: "1986-06-03"
-intitule_in_force: "1987-09-24"
-intitule_status: "goed"
-original_publication: "Trb.1986-65"
-original_signed_date: "1987-07-22"
-original_published_date: "1986-06-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1986-65"
-entry_into_force_date: "1987-08-21"
-jci_1_3: "jci1.3:c:BWBV0002457&z=1999-01-15&g=1999-01-15"
-jci_1_0: "1.0:c:BWBV0002457&g=1999-01-15"
-citeertitel_status: "officieel"
-signed_date: "1987-07-22"
-entry_into_force: "1987-08-21"
+publicatiedatum: 1987-08-21
+laatste_update: 1999-01-15
+status: geldig
+toestand: 1999-01-15
+bron: "https://wetten.overheid.nl/BWBV0002457"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en Canada tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van Canada,
-
-De wens koesterende de bestaande op 2 april 1957 te Ottawa ondertekende Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Canada ter vermijding van dubbele belasting en ter voorkoming van het ontgaan van belasting met betrekking tot belastingen van inkomsten, zoals deze is gewijzigd bij de op 28 oktober 1959 te Ottawa ondertekende Aanvullende Overeenkomst en zoals deze nader is gewijzigd bij de op 3 februari 1965 te Ottawa ondertekende Aanvullende Overeenkomst, te vervangen door een nieuwe Overeenkomst;
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van Canada, De wens koesterende de bestaande op 2 april 1957 te Ottawa ondertekende Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Canada ter vermijding van dubbele belasting en ter voorkoming van het ontgaan van belasting met betrekking tot belastingen van inkomsten, zoals deze is gewijzigd bij de op 28 oktober 1959 te Ottawa ondertekende Aanvullende Overeenkomst en zoals deze nader is gewijzigd bij de op 3 februari 1965 te Ottawa ondertekende Aanvullende Overeenkomst, te vervangen door een nieuwe Overeenkomst; Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. REIKWIJDTE VAN DE OVEREENKOMST
 
@@ -59,17 +29,17 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 3. De bestaande belastingen waarop de Overeenkomst van toepassing is, zijn met name:
 
-- a). in Canada: de inkomstenbelastingen, geheven door de Regering van Canada (hierna te noemen: „Canadese belasting”);
+- a) in Canada: de inkomstenbelastingen, geheven door de Regering van Canada (hierna te noemen: „Canadese belasting”);
 
-- b). in Nederland:
+- b) in Nederland:
 
-- -. de inkomstenbelasting,
+   - - de inkomstenbelasting,
 
-- -. de loonbelasting,
+   - - de loonbelasting,
 
-- -. de vennootschapsbelasting, daaronder begrepen het aandeel van de Regering in de netto winsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de Mijnwet 1810 met betrekking tot concessies uitgegeven vanaf 1967, of geheven krachtens de Nederlandse Mijnwet continentaal plat, 1965,
+   - - de vennootschapsbelasting, daaronder begrepen het aandeel van de Regering in de netto winsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de Mijnwet 1810 met betrekking tot concessies uitgegeven vanaf 1967, of geheven krachtens de Nederlandse Mijnwet continentaal plat, 1965,
 
-- -. de dividendbelasting, (hierna te noemen: „Nederlandse belasting”).
+   - - de dividendbelasting, (hierna te noemen: „Nederlandse belasting”).
 
 4. De Overeenkomst is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die na de datum van ondertekening van de Overeenkomst naast of in de plaats van de bestaande belastingen worden geheven. De Staten of de bevoegde autoriteiten van de Staten delen elkaar alle wezenlijke wijzigingen mede die in hun onderscheiden belastingwetgevingen zijn aangebracht.
 
@@ -79,31 +49,31 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 1. Voor de toepassing van deze Overeenkomst, tenzij de context anders vereist:
 
-- a). betekent de uitdrukking „Staat” Canada of Nederland, al naar de context vereist; betekent de uitdrukking „Staten” Canada en Nederland;
+- a) betekent de uitdrukking „Staat” Canada of Nederland, al naar de context vereist; betekent de uitdrukking „Staten” Canada en Nederland;
 
-- b). betekent de uitdrukking „Canada”, wanneer zij in aardrijkskundige zin wordt gebezigd, het grondgebied van Canada, daaronder begrepen elk gebied buiten de territoriale wateren van Canada dat ingevolge de wetgeving van Canada en in overeenstemming met het internationale recht een gebied is waarbinnen Canada rechten kan uitoefenen met betrekking tot de zeebodem en de ondergrond daarvan en hun natuurlijke rijkdommen;
+- b) betekent de uitdrukking „Canada”, wanneer zij in aardrijkskundige zin wordt gebezigd, het grondgebied van Canada, daaronder begrepen elk gebied buiten de territoriale wateren van Canada dat ingevolge de wetgeving van Canada en in overeenstemming met het internationale recht een gebied is waarbinnen Canada rechten kan uitoefenen met betrekking tot de zeebodem en de ondergrond daarvan en hun natuurlijke rijkdommen;
 
-- c). betekent de uitdrukking „Nederland” het deel van het Koninkrijk der Nederlanden dat in Europa is gelegen, en het onder de Noordzee gelegen deel van de zeebodem en de ondergrond daarvan waarop het Koninkrijk der Nederlanden in overeenstemming met het internationale recht soevereine rechten heeft;
+- c) betekent de uitdrukking „Nederland” het deel van het Koninkrijk der Nederlanden dat in Europa is gelegen, en het onder de Noordzee gelegen deel van de zeebodem en de ondergrond daarvan waarop het Koninkrijk der Nederlanden in overeenstemming met het internationale recht soevereine rechten heeft;
 
-- d). omvat de uitdrukking „persoon” een natuurlijke persoon, een lichaam en elke andere vereniging van personen en ingeval het Canada betreft, een nalatenschap en een trust;
+- d) omvat de uitdrukking „persoon” een natuurlijke persoon, een lichaam en elke andere vereniging van personen en ingeval het Canada betreft, een nalatenschap en een trust;
 
-- e). betekent de uitdrukking „lichaam” elke rechtspersoon of elke eenheid die voor de belastingheffing als een rechtspersoon wordt behandeld;
+- e) betekent de uitdrukking „lichaam” elke rechtspersoon of elke eenheid die voor de belastingheffing als een rechtspersoon wordt behandeld;
 
-- f). betekenen de uitdrukkingen „onderneming van een van de Staten” en „onderneming van de andere Staat” onderscheidenlijk een onderneming gedreven door een inwoner van een van de Staten en een onderneming gedreven door een inwoner van de andere Staat;
+- f) betekenen de uitdrukkingen „onderneming van een van de Staten” en „onderneming van de andere Staat” onderscheidenlijk een onderneming gedreven door een inwoner van een van de Staten en een onderneming gedreven door een inwoner van de andere Staat;
 
-- g). betekent de uitdrukking „internationaal verkeer”, elke reis van een schip of luchtvaartuig, geëxploiteerd door een onderneming, waarvan de plaats van de werkelijke leiding in een van de Staten is gelegen, voor het vervoer van passagiers of goederen, behalve wanneer het voornaamste doel van de reis is het vervoer van passagiers of goederen tussen plaatsen die in de andere Staat zijn gelegen;
+- g) betekent de uitdrukking „internationaal verkeer”, elke reis van een schip of luchtvaartuig, geëxploiteerd door een onderneming, waarvan de plaats van de werkelijke leiding in een van de Staten is gelegen, voor het vervoer van passagiers of goederen, behalve wanneer het voornaamste doel van de reis is het vervoer van passagiers of goederen tussen plaatsen die in de andere Staat zijn gelegen;
 
-- h). betekent de uitdrukking „onderdaan”:
+- h) betekent de uitdrukking „onderdaan”:
 
-- 1. iedere natuurlijke persoon die de nationaliteit van een van de Staten bezit;
+   - 1. iedere natuurlijke persoon die de nationaliteit van een van de Staten bezit;
 
-- 2. iedere rechtspersoon, vennootschap en vereniging die zijn of haar rechtspositie als zodanig ontleent aan de wetgeving die in een van de Staten van kracht is;
+   - 2. iedere rechtspersoon, vennootschap en vereniging die zijn of haar rechtspositie als zodanig ontleent aan de wetgeving die in een van de Staten van kracht is;
 
-- i). betekent de uitdrukking „bevoegde autoriteit”:
+- i) betekent de uitdrukking „bevoegde autoriteit”:
 
-- 1). in Canada de „Minister of National Revenue” of zijn bevoegde vertegenwoordiger;
+   - 1) in Canada de „Minister of National Revenue” of zijn bevoegde vertegenwoordiger;
 
-- 2). in Nederland de Minister van Financiën of zijn bevoegde vertegenwoordiger.
+   - 2) in Nederland de Minister van Financiën of zijn bevoegde vertegenwoordiger.
 
 2. Voor de toepassing van de Overeenkomst door een van de Staten heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens de wetgeving van die Staat met betrekking tot de belastingen waarop de Overeenkomst van toepassing is.
 
@@ -113,15 +83,15 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 2. Indien een natuurlijke persoon ingevolge de bepalingen van het eerste lid inwoner van beide Staten is, wordt zijn positie als volgt bepaald:
 
-- a). hij wordt geacht inwoner te zijn van de Staat waar hij een duurzaam tehuis tot zijn beschikking heeft; indien hij in beide Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waarmede zijn persoonlijke en economische betrekkingen het nauwst zijn (middelpunt van de levensbelangen);
+- a) hij wordt geacht inwoner te zijn van de Staat waar hij een duurzaam tehuis tot zijn beschikking heeft; indien hij in beide Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waarmede zijn persoonlijke en economische betrekkingen het nauwst zijn (middelpunt van de levensbelangen);
 
-- b). indien niet kan worden bepaald in welke Staat hij het middelpunt van zijn levensbelangen heeft, of indien hij in geen van de Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waar hij gewoonlijk verblijft;
+- b) indien niet kan worden bepaald in welke Staat hij het middelpunt van zijn levensbelangen heeft, of indien hij in geen van de Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waar hij gewoonlijk verblijft;
 
-- c). indien hij in beide Staten of in geen van beide gewoonlijk verblijft, wordt hij geacht inwoner te zijn van de Staat waarvan hij onderdaan is;
+- c) indien hij in beide Staten of in geen van beide gewoonlijk verblijft, wordt hij geacht inwoner te zijn van de Staat waarvan hij onderdaan is;
 
-- d). indien hij onderdaan is van beide Staten of van geen van beide, regelen de bevoegde autoriteiten van de Staten de aangelegenheid in onderlinge overeenstemming.
+- d) indien hij onderdaan is van beide Staten of van geen van beide, regelen de bevoegde autoriteiten van de Staten de aangelegenheid in onderlinge overeenstemming.
 
-3. Indien een andere dan een natuurlijke persoon ingevolge de bepalingen van het eerste lid inwoner van beide Staten is, trachten de bevoegde autoriteiten van de Staten de aangelegenheid in onderlinge overeenstemming te regelen, met inachtneming van de plaats van zijn werkelijke leiding, de plaats waar hij is opgericht of anderszins tot stand gekomen en alle andere ter zake doende factoren. Bij afwezigheid van zulk een overeenstemming wordt die persoon voor de toepassing van de artikelen 6 tot en met 21 en de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=V&artikel=23&z=1999-01-15&g=1999-01-15) en [24](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=VI&artikel=24&z=1999-01-15&g=1999-01-15) geacht geen inwoner te zijn van een van beide Staten.
+3. Indien een andere dan een natuurlijke persoon ingevolge de bepalingen van het eerste lid inwoner van beide Staten is, trachten de bevoegde autoriteiten van de Staten de aangelegenheid in onderlinge overeenstemming te regelen, met inachtneming van de plaats van zijn werkelijke leiding, de plaats waar hij is opgericht of anderszins tot stand gekomen en alle andere ter zake doende factoren. Bij afwezigheid van zulk een overeenstemming wordt die persoon voor de toepassing van de [artikelen 6 tot en met 21](https://wetten.overheid.nl/BWBR0012949) en de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=V&artikel=23&z=1999-01-15&g=1999-01-15) en [24](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=VI&artikel=24&z=1999-01-15&g=1999-01-15) geacht geen inwoner te zijn van een van beide Staten.
 
 ##### Artikel 5. Vaste inrichting
 
@@ -129,33 +99,33 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 2. De uitdrukking „vaste inrichting” omvat in het bijzonder:
 
-- a). een plaats waar leiding wordt gegeven;
+- a) een plaats waar leiding wordt gegeven;
 
-- b). een filiaal;
+- b) een filiaal;
 
-- c). een kantoor;
+- c) een kantoor;
 
-- d). een fabriek;
+- d) een fabriek;
 
-- e). een werkplaats, en
+- e) een werkplaats, en
 
-- f). een mijn, een olie- of gasbron, een steengroeve of een andere plaats waar natuurlijke rijkdommen worden gewonnen.
+- f) een mijn, een olie- of gasbron, een steengroeve of een andere plaats waar natuurlijke rijkdommen worden gewonnen.
 
 3. De plaats van uitvoering van een bouwwerk of van constructie- of montagewerkzaamheden vormt alleen een vaste inrichting indien de duur van de uitvoering twaalf maanden overschrijdt.
 
 4. Niettegenstaande de voorgaande bepalingen van dit artikel wordt een vaste inrichting niet aanwezig geacht, indien:
 
-- a). gebruik wordt gemaakt van inrichtingen, uitsluitend voor de opslag, uitstalling of aflevering van aan de onderneming toebehorende goederen of koopwaar;
+- a) gebruik wordt gemaakt van inrichtingen, uitsluitend voor de opslag, uitstalling of aflevering van aan de onderneming toebehorende goederen of koopwaar;
 
-- b). een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de opslag, uitstalling of aflevering;
+- b) een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de opslag, uitstalling of aflevering;
 
-- c). een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de bewerking of verwerking door een andere onderneming;
+- c) een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de bewerking of verwerking door een andere onderneming;
 
-- d). een vaste bedrijfsinrichting wordt aangehouden, uitsluitend om voor de onderneming goederen of koopwaar aan te kopen of inlichtingen in te winnen;
+- d) een vaste bedrijfsinrichting wordt aangehouden, uitsluitend om voor de onderneming goederen of koopwaar aan te kopen of inlichtingen in te winnen;
 
-- e). een vaste bedrijfsinrichting wordt aangehouden, uitsluitend om voor de onderneming enige andere werkzaamheid uit te oefenen die van voorbereidende aard is of het karakter van hulpwerkzaamheid heeft;
+- e) een vaste bedrijfsinrichting wordt aangehouden, uitsluitend om voor de onderneming enige andere werkzaamheid uit te oefenen die van voorbereidende aard is of het karakter van hulpwerkzaamheid heeft;
 
-- f). een vaste bedrijfsinrichting wordt aangehouden, uitsluitend voor een combinatie van de in de letters (a) tot en met (e) genoemde werkzaamheden, mits het totaal van de werkzaamheden van de vaste bedrijfsinrichting dat uit deze combinatie voortvloeit van voorbereidende aard is of het karakter van hulpwerkzaamheid heeft.
+- f) een vaste bedrijfsinrichting wordt aangehouden, uitsluitend voor een combinatie van de in de letters (a) tot en met (e) genoemde werkzaamheden, mits het totaal van de werkzaamheden van de vaste bedrijfsinrichting dat uit deze combinatie voortvloeit van voorbereidende aard is of het karakter van hulpwerkzaamheid heeft.
 
 5. Indien een persoon - niet zijnde een onafhankelijke vertegenwoordiger in de zin van het zesde lid - voor een onderneming werkzaam is, en een machtiging bezit om namens de onderneming overeenkomsten af te sluiten en dit recht in een van de Staten gewoonlijk uitoefent, wordt die onderneming, niettegenstaande de bepalingen van het eerste en tweede lid, geacht in die Staat een vaste inrichting te hebben met betrekking tot de werkzaamheden welke die persoon voor de onderneming verricht, tenzij de werkzaamheden van die persoon beperkt blijven tot die werkzaamheden genoemd in het vierde lid, die, indien zij worden uitgeoefend door middel van een vaste bedrijfsinrichting, deze vaste bedrijfsinrichting op grond van de bepalingen van dat lid niet tot een vaste inrichting zouden maken.
 
@@ -195,11 +165,11 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 2. Voor de toepassing van deze Overeenkomst omvatten voordelen verkregen door een onderneming van een van de Staten uit de exploitatie van schepen of luchtvaartuigen in internationaal verkeer, mede voordelen uit:
 
-- (a). de verhuur van schepen of luchtvaartuigen geëxploiteerd in internationaal verkeer;
+- (a) de verhuur van schepen of luchtvaartuigen geëxploiteerd in internationaal verkeer;
 
-- (b). het gebruik, het onderhoud of de verhuur van containers (daaronder begrepen opleggers of aanhangwagens en daarmee verband houdende uitrusting voor het vervoer van containers) gebezigd in internationaal verkeer; en
+- (b) het gebruik, het onderhoud of de verhuur van containers (daaronder begrepen opleggers of aanhangwagens en daarmee verband houdende uitrusting voor het vervoer van containers) gebezigd in internationaal verkeer; en
 
-- (c). de verhuur van schepen, luchtvaartuigen of containers (daaronder begrepen opleggers of aanhangwagens en daarmee verband houdende uitrusting voor het vervoer van containers), mits deze voordelen voortvloeien uit de voordelen als bedoeld in het eerste lid, of in de letters (a) en (b) van dit lid.
+- (c) de verhuur van schepen, luchtvaartuigen of containers (daaronder begrepen opleggers of aanhangwagens en daarmee verband houdende uitrusting voor het vervoer van containers), mits deze voordelen voortvloeien uit de voordelen als bedoeld in het eerste lid, of in de letters (a) en (b) van dit lid.
 
 3. Indien de plaats van de werkelijke leiding van een scheepvaartonderneming zich aan boord van een schip bevindt, wordt deze plaats geacht te zijn gelegen in de Staat waar de thuishaven van het schip is gelegen, of, indien er geen thuishaven is, in de Staat waarvan de exploitant van het schip inwoner is.
 
@@ -209,9 +179,9 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 1. Indien
 
-- (a). een onderneming van een van de Staten onmiddellijk of middellijk deelneemt aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van de andere Staat, of
+- (a) een onderneming van een van de Staten onmiddellijk of middellijk deelneemt aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van de andere Staat, of
 
-- (b). dezelfde personen onmiddellijk of middellijk deelnemen aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van een van de Staten en een onderneming van de andere Staat,
+- (b) dezelfde personen onmiddellijk of middellijk deelnemen aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van een van de Staten en een onderneming van de andere Staat,
 
 en in het ene of in het andere geval tussen de beide ondernemingen in hun handelsbetrekkingen of financiële betrekkingen voorwaarden worden overeengekomen of opgelegd, die afwijken van die welke zouden worden overeengekomen tussen onafhankelijke ondernemingen, mogen alle voordelen die een van de ondernemingen zonder deze voorwaarden zou hebben behaald, maar ten gevolge van die voorwaarden niet heeft behaald, worden begrepen in de voordelen van die onderneming en dienovereenkomstig worden belast.
 
@@ -243,17 +213,17 @@ Het is echter wel te verstaan, dat de omstandigheid dat gelieerde ondernemingen 
 
 7. Deze Overeenkomst mag in geen enkel opzicht aldus worden uitgelegd dat zij een van de Staten belet om, naast de belasting die geheven kan worden over de inkomsten van een lichaam dat inwoner is van die Staat, een belasting te heffen over de inkomsten van een lichaam die zijn toe te rekenen aan vaste inrichtingen in die Staat, met dien verstande, dat deze aanvullende belasting hoogstens naar het ingevolge het tweede lid, letter (a), beperkte tarief mag worden geheven van het bedrag van die inkomsten, die in de voorafgaande jaren niet aan deze aanvullende belasting onderworpen zijn geweest. Voor de toepassing van deze bepaling betekent de uitdrukking „inkomsten” voordelen (daaronder begrepen voordelen verkregen uit de vervreemding van goederen die deel uitmaken van het bedrijfsvermogen van die vaste inrichtingen, als bedoeld in het [tweede lid van artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=13&z=1999-01-15&g=1999-01-15)), die in overeenstemming met [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=7&z=1999-01-15&g=1999-01-15) in een jaar en voorafgaande jaren zijn toe te rekenen aan die vaste inrichtingen in die Staat, nadat daarvan zijn afgetrokken:
 
-- (a). bedrijfsverliezen die in dat jaar en voorafgaande jaren zijn toe te rekenen aan die vaste inrichtingen (daaronder begrepen verliezen uit de vervreemding van goederen die deel uitmaken van het bedrijfsvermogen van die vaste inrichtingen);
+- (a) bedrijfsverliezen die in dat jaar en voorafgaande jaren zijn toe te rekenen aan die vaste inrichtingen (daaronder begrepen verliezen uit de vervreemding van goederen die deel uitmaken van het bedrijfsvermogen van die vaste inrichtingen);
 
-- (b). alle belastingen die in die Staat over die voordelen worden geheven, behalve de in dit lid bedoelde aanvullende belasting;
+- (b) alle belastingen die in die Staat over die voordelen worden geheven, behalve de in dit lid bedoelde aanvullende belasting;
 
-- (c). de voordelen die in die Staat worden geherinvesteerd, met dien verstande dat indien die Staat Canada is, het bedrag van die aftrek wordt bepaald in overeenstemming met de bestaande bepalingen van de wetgeving van Canada betreffende de berekening van de aftrek met betrekking tot investeringen in goederen in Canada en elke toekomstige wijziging van die bepalingen die het algemene beginsel ervan niet aantast, en
+- (c) de voordelen die in die Staat worden geherinvesteerd, met dien verstande dat indien die Staat Canada is, het bedrag van die aftrek wordt bepaald in overeenstemming met de bestaande bepalingen van de wetgeving van Canada betreffende de berekening van de aftrek met betrekking tot investeringen in goederen in Canada en elke toekomstige wijziging van die bepalingen die het algemene beginsel ervan niet aantast, en
 
-- (d). vijfhonderdduizend Canadese dollars ($ 500.000) of de tegenwaarde daarvan in Nederlandse valuta, verminderd met het bedrag dat in aftrek is gebracht, ingevolge deze bepaling (d); voor de toepassing van deze bepaling (d) is een lichaam met een ander lichaam gelieerd, indien een lichaam het andere direct of indirect beheerst, of beide lichamen direct of indirect worden beheerst door dezelfde persoon of personen, of indien de twee lichamen niet als willekeurige derden transacties met elkaar aangaan.
+- (d) vijfhonderdduizend Canadese dollars ($ 500.000) of de tegenwaarde daarvan in Nederlandse valuta, verminderd met het bedrag dat in aftrek is gebracht, ingevolge deze bepaling (d); voor de toepassing van deze bepaling (d) is een lichaam met een ander lichaam gelieerd, indien een lichaam het andere direct of indirect beheerst, of beide lichamen direct of indirect worden beheerst door dezelfde persoon of personen, of indien de twee lichamen niet als willekeurige derden transacties met elkaar aangaan.
 
-- 1. door het lichaam, of
+   - 1. door het lichaam, of
 
-- 2. door een daarmede gelieerde persoon uit eenzelfde of een soortgelijk bedrijf als dat uitgeoefend door het lichaam
+   - 2. door een daarmede gelieerde persoon uit eenzelfde of een soortgelijk bedrijf als dat uitgeoefend door het lichaam
 
 8. De bepalingen van het zevende lid zijn ook van toepassing op inkomsten behaald met de vervreemding van onroerende goederen in een van de Staten door een lichaam dat handel drijft in onroerende goederen, ongeacht of het in die Staat over een vaste inrichting beschikt, maar slechts in zoverre als deze inkomsten in die Staat mogen worden belast volgens de bepalingen van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=6&z=1999-01-15&g=1999-01-15) of het eerste lid van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=13&z=1999-01-15&g=1999-01-15).
 
@@ -265,25 +235,25 @@ Het is echter wel te verstaan, dat de omstandigheid dat gelieerde ondernemingen 
 
 3. Niettegenstaande de bepalingen van het tweede lid, is interest afkomstig uit een van de Staten en betaald aan een inwoner van de andere Staat, die de uiteindelijk gerechtigde daartoe is, slechts in die andere Staat belastbaar voor zover deze interest:
 
-- (a). wordt betaald door een kopende onderneming aan een verkopende onderneming in verband met de verkoop op krediet van enige uitrusting of koopwaar, behalve in het geval van verkoop tussen personen die niet als willekeurige derden transacties met elkaar aangaan; of
+- (a) wordt betaald door een kopende onderneming aan een verkopende onderneming in verband met de verkoop op krediet van enige uitrusting of koopwaar, behalve in het geval van verkoop tussen personen die niet als willekeurige derden transacties met elkaar aangaan; of
 
-- (b). wordt betaald terzake van een obligatie of een schuldbewijs of een andere soortgelijke verplichting van de overheid van een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan; of
+- (b) wordt betaald terzake van een obligatie of een schuldbewijs of een andere soortgelijke verplichting van de overheid van een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan; of
 
-- (c). wordt betaald aan de andere Staat of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan, aan de Centrale Bank van die andere Staat of aan een instantie (daaronder begrepen een financiële instelling) die wordt beheerst door die Staat of een onderdeel of een publiekrechtelijk lichaam daarvan; of
+- (c) wordt betaald aan de andere Staat of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan, aan de Centrale Bank van die andere Staat of aan een instantie (daaronder begrepen een financiële instelling) die wordt beheerst door die Staat of een onderdeel of een publiekrechtelijk lichaam daarvan; of
 
-- (d). wordt betaald ter zake van een lening aangegaan, gegarandeerd of verzekerd of een krediet verstrekt, gegarandeerd of verzekerd door enige financiële instelling die nader is aangegeven en overeengekomen in tussen de bevoegde autoriteiten van de Staten uitgewisselde brieven; of
+- (d) wordt betaald ter zake van een lening aangegaan, gegarandeerd of verzekerd of een krediet verstrekt, gegarandeerd of verzekerd door enige financiële instelling die nader is aangegeven en overeengekomen in tussen de bevoegde autoriteiten van de Staten uitgewisselde brieven; of
 
-- (e). wordt betaald aan een persoon opgericht en uitsluitend werkzaam voor het beheer of het verstrekken van voordelen krachtens een of meer pensioen- of uittredingsregelingen of andere regelingen van werknemersvoordelen, mits:
+- (e) wordt betaald aan een persoon opgericht en uitsluitend werkzaam voor het beheer of het verstrekken van voordelen krachtens een of meer pensioen- of uittredingsregelingen of andere regelingen van werknemersvoordelen, mits:
 
-- i. die persoon in de andere Staat in het algemeen is vrijgesteld van belasting; en
+   - i. die persoon in de andere Staat in het algemeen is vrijgesteld van belasting; en
 
-- ii. de interest niet is verkregen uit het drijven van een onderneming of van een gelieerde persoon.
+   - ii. de interest niet is verkregen uit het drijven van een onderneming of van een gelieerde persoon.
 
-- (a). Interest afkomstig uit Canada en betaald door een lichaam dat inwoner is van Canada aan een inwoner van Nederland die de uiteindelijk gerechtigde is tot die interest, en waarmee dat lichaam als willekeurige derde transacties aangaat, ter zake van enige schuldbetekenis waarvan het bewijs van verschuldigd zijn door dat lichaam 23 juni 1975 is uitgegeven, is, niettegenstaande de bepalingen van het tweede lid, slechts in Nederland belastbaar, indien ingevolge de voorwaarden van de schuldbekentenis of een daarop betrekking hebbende overeenkomst, het lichaam onder geen enkele omstandigheid verplicht kan worden meer dan 25 percent van de hoofdsom daarvan eerder terug te betalen dan na vijf jaren sedert de datum waarop het bewijs van verschuldigd zijn is uitgegeven, behoudens in het geval van een wanprestatie of nalatigheid ingevolge die voorwaarden of die overeenkomst of indien die voorwaarden of die overeenkomst onwettig worden of worden gewijzigd bij wet, door een rechterlijke instantie, een wetgevend lichaam of een commissie met wetgevende bevoegdheden;
+4. - (a) Interest afkomstig uit Canada en betaald door een lichaam dat inwoner is van Canada aan een inwoner van Nederland die de uiteindelijk gerechtigde is tot die interest, en waarmee dat lichaam als willekeurige derde transacties aangaat, ter zake van enige schuldbetekenis waarvan het bewijs van verschuldigd zijn door dat lichaam 23 juni 1975 is uitgegeven, is, niettegenstaande de bepalingen van het tweede lid, slechts in Nederland belastbaar, indien ingevolge de voorwaarden van de schuldbekentenis of een daarop betrekking hebbende overeenkomst, het lichaam onder geen enkele omstandigheid verplicht kan worden meer dan 25 percent van de hoofdsom daarvan eerder terug te betalen dan na vijf jaren sedert de datum waarop het bewijs van verschuldigd zijn is uitgegeven, behoudens in het geval van een wanprestatie of nalatigheid ingevolge die voorwaarden of die overeenkomst of indien die voorwaarden of die overeenkomst onwettig worden of worden gewijzigd bij wet, door een rechterlijke instantie, een wetgevend lichaam of een commissie met wetgevende bevoegdheden;
 
-- (b). Niettegenstaande de bepalingen van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=VII&artikel=31&z=1999-01-15&g=1999-01-15) kan Canada te allen tijde Nederland langs diplomatieke weg schriftelijk kennis geven van het opschorten van letter (a) gedurende enig tijdvak waarvoor de belastingwetgeving van Canada niet voorziet in een vrijstelling van de bronheffing op interest voor niet-inwoners, als behandeld in letter (a). In dat geval is letter (a) niet van toepassing met betrekking tot die interest betaald ter zake van schuldbekentenissen die zijn uitgegeven na de volgende termijnen: zes maanden na de dagtekening van die kennisgeving of 31 december van het kalenderjaar waarin de kennisgeving is gedaan, naar gelang welke van beide data het laatst valt;
+- (b) Niettegenstaande de bepalingen van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=VII&artikel=31&z=1999-01-15&g=1999-01-15) kan Canada te allen tijde Nederland langs diplomatieke weg schriftelijk kennis geven van het opschorten van letter (a) gedurende enig tijdvak waarvoor de belastingwetgeving van Canada niet voorziet in een vrijstelling van de bronheffing op interest voor niet-inwoners, als behandeld in letter (a). In dat geval is letter (a) niet van toepassing met betrekking tot die interest betaald ter zake van schuldbekentenissen die zijn uitgegeven na de volgende termijnen: zes maanden na de dagtekening van die kennisgeving of 31 december van het kalenderjaar waarin de kennisgeving is gedaan, naar gelang welke van beide data het laatst valt;
 
-- (c). Voor de toepassing van dit lid wordt interest geacht geen interest te zijn indien de gehele interest of een deel van de interest die ter zake van de schuldbekentenis verschuldigd is, afhankelijk is van het gebruik van of de opbrengst uit goederen of zaken in Canada.
+- (c) Voor de toepassing van dit lid wordt interest geacht geen interest te zijn indien de gehele interest of een deel van de interest die ter zake van de schuldbekentenis verschuldigd is, afhankelijk is van het gebruik van of de opbrengst uit goederen of zaken in Canada.
 
 5. De uitdrukking „interest”, zoals gebezigd in dit artikel, betekent inkomsten uit schuldvorderingen van welke aard ook, al dan niet verzekerd door hypotheek, en in het bijzonder inkomsten uit overheidsleningen en inkomsten uit obligaties of schuldbewijzen, daaronder begrepen de aan zodanige leningen, obligaties of schuldbewijzen verbonden premies en prijzen, alsmede de inkomsten die door de wetgeving van de Staat waaruit de inkomsten afkomstig zijn op dezelfde wijze aan de belastingheffing worden onderworpen als inkomsten uit geldlening. In rekening gebrachte boete voor te late betaling wordt voor de toepassing van dit artikel niet als interest aangemerkt. De uitdrukking „interest” omvat echter niet inkomsten die in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=10&z=1999-01-15&g=1999-01-15) zijn behandeld.
 
@@ -351,11 +321,11 @@ mogen in die andere Staat worden belast. Voor de toepassing van dit lid omvat de
 
 2. Niettegenstaande de bepalingen van het eerste lid is de beloning verkregen door een inwoner van een van de Staten ter zake van een in de andere Staat uitgeoefende dienstbetrekking slechts in de eerstbedoelde Staat belastbaar, indien:
 
-- (a). de genieter in de andere Staat verblijft gedurende een tijdvak of tijdvakken, die in een tijdvak van twaalf maanden dat in het desbetreffende kalenderjaar begint of eindigt een totaal van 183 dagen niet te boven gaan, en
+- (a) de genieter in de andere Staat verblijft gedurende een tijdvak of tijdvakken, die in een tijdvak van twaalf maanden dat in het desbetreffende kalenderjaar begint of eindigt een totaal van 183 dagen niet te boven gaan, en
 
-- (b). de beloning wordt betaald door of namens een werkgever die geen inwoner van de andere Staat is, en
+- (b) de beloning wordt betaald door of namens een werkgever die geen inwoner van de andere Staat is, en
 
-- (c). de beloning niet ten laste komt van een vaste inrichting die, of van een vast middelpunt dat de werkgever in de andere Staat heeft.
+- (c) de beloning niet ten laste komt van een vaste inrichting die, of van een vast middelpunt dat de werkgever in de andere Staat heeft.
 
 3. Niettegenstaande de voorgaande bepalingen van dit artikel is de beloning verkregen door een inwoner van een van de Staten ter zake van een dienstbetrekking uitgeoefend aan boord van een schip of luchtvaartuig dat in internationaal verkeer wordt geëxploiteerd slechts in die Staat belastbaar.
 
@@ -385,13 +355,13 @@ mogen in die andere Staat worden belast. Voor de toepassing van dit lid omvat de
 
 ##### Artikel 19. Overheidsfuncties
 
-- (a). Beloningen, niet zijnde pensioenen, betaald door een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten bewezen aan die Staat of dat onderdeel of dat publiekrechtelijke lichaam, mogen in die Staat worden belast.
+1. - (a) Beloningen, niet zijnde pensioenen, betaald door een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten bewezen aan die Staat of dat onderdeel of dat publiekrechtelijke lichaam, mogen in die Staat worden belast.
 
-- (b). Deze beloningen zijn echter slechts in de andere Staat belastbaar, indien de diensten in die Staat worden bewezen en de natuurlijke persoon een inwoner is van die Staat, die:
+- (b) Deze beloningen zijn echter slechts in de andere Staat belastbaar, indien de diensten in die Staat worden bewezen en de natuurlijke persoon een inwoner is van die Staat, die:
 
-- 1. onderdaan is van die Staat; of
+   - 1. onderdaan is van die Staat; of
 
-- 2. niet uitsluitend voor het verrichten van de diensten inwoner van die Staat werd.
+   - 2. niet uitsluitend voor het verrichten van de diensten inwoner van die Staat werd.
 
 2. De bepalingen van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=15&z=1999-01-15&g=1999-01-15) en [16](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=16&z=1999-01-15&g=1999-01-15) zijn van toepassing op beloningen ter zake van diensten, bewezen in het kader van een op winst gericht bedrijf, uitgeoefend door een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan.
 
@@ -481,9 +451,9 @@ Voor de toepassing van dit lid wordt:
 
 4. Bijdragen die in een jaar ter zake van in dat jaar verrichte diensten door of namens een natuurlijke persoon die inwoner is van een van de Staten of die tijdelijk in die Staat verblijft, zijn betaald aan een voor de belastingheffing in de andere Staat erkende pensioenregeling, worden gedurende een tijdvak dat in totaal 60 maanden niet overschrijdt, voor de belastingheffing in de eerstbedoelde Staat op dezelfde wijze behandeld als een bijdrage betaald aan een in die eerstbedoelde Staat voor de belastingheffing erkende pensioenregeling (niet zijnde, ingeval het Canada betreft, een „employee benefit plan”), mits:
 
-- (a). die natuurlijke persoon reeds bijdroeg aan de pensioenregeling voordat hij inwoner van de eerstbedoelde Staat werd of aldaar tijdelijk ging verblijven; en
+- (a) die natuurlijke persoon reeds bijdroeg aan de pensioenregeling voordat hij inwoner van de eerstbedoelde Staat werd of aldaar tijdelijk ging verblijven; en
 
-- (b). de bevoegde autoriteit van de eerstbedoelde Staat van oordeel is dat de pensioenregeling overeenkomt met een door die Staat voor de belastingheffing erkende pensioenregeling.
+- (b) de bevoegde autoriteit van de eerstbedoelde Staat van oordeel is dat de pensioenregeling overeenkomt met een door die Staat voor de belastingheffing erkende pensioenregeling.
 
 Voor de toepassing van dit lid, omvat „pensioenregeling” mede een pensioenregeling in het leven geroepen ingevolge een publiekrechtelijk stelsel inzake sociale zekerheid.
 
@@ -523,7 +493,7 @@ De bevoegde autoriteiten van de Staten wisselen de inlichtingen uit die nodig zi
 
 9. De bevoegde autoriteiten van de Staten zullen een regeling treffen over de wijze van toepassing van dit artikel, met inbegrip van de overeenstemming om vergelijkbare niveaus van bijstand aan elk van de Staten te garanderen.
 
-##### Artikel 26B. Beperking van de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=VI&artikel=26&z=1999-01-15&g=1999-01-15) en [26A](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=VI&artikel=26A&z=1999-01-15&g=1999-01-15)
+##### Artikel 26B. Beperking van de artikelen 26 en 26A
 
 In geen geval worden de bepalingen van de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=VI&artikel=26&z=1999-01-15&g=1999-01-15) en [26A](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=VI&artikel=26A&z=1999-01-15&g=1999-01-15) aldus uitgelegd dat zij een van de Staten de verplichting opleggen:
 
@@ -545,7 +515,7 @@ In geen geval worden de bepalingen van de [artikelen 26](https://wetten.overheid
 
 1. Deze Overeenkomst mag in geen enkel opzicht aldus worden uitgelegd dat zij Canada belet belasting te heffen op bedragen die zijn begrepen in het inkomen van een inwoner van Canada met betrekking tot een maatschap of een vennootschap onder firma, een trust of een verbonden buitenlandse vennootschap waarin die inwoner een belang heeft.
 
-2. De artikelen 6 tot en met 21 zijn niet van toepassing op „non-resident-owned investment corporations”, zoals omschreven in artikel 133 van de Canadese Income Tax Act, of in enige door Canada na de ondertekening van de Overeenkomst bij wet totstandgekomen soortgelijke bepaling.
+2. De [artikelen 6 tot en met 21](https://wetten.overheid.nl/BWBR0012949) zijn niet van toepassing op „non-resident-owned investment corporations”, zoals omschreven in artikel 133 van de Canadese Income Tax Act, of in enige door Canada na de ondertekening van de Overeenkomst bij wet totstandgekomen soortgelijke bepaling.
 
 3. De bevoegde autoriteiten van de Staten regelen in onderlinge overeenstemming de wijze van toepassing van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=10&z=1999-01-15&g=1999-01-15), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=11&z=1999-01-15&g=1999-01-15), [12](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=12&z=1999-01-15&g=1999-01-15) en [21](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=21&z=1999-01-15&g=1999-01-15).
 
@@ -565,9 +535,9 @@ In geen geval worden de bepalingen van de [artikelen 26](https://wetten.overheid
 
 1. Deze Overeenkomst treedt in werking op de dertigste dag na de laatste der beide data waarop de onderscheiden Regeringen elkaar schriftelijk hebben medegedeeld, dat de in hun onderscheiden Staten grondwettelijk vereiste formaliteiten zijn vervuld en, onder voorbehoud van de bepalingen van het derde, vierde, vijfde en zesde lid, vinden de bepalingen ervan toepassing:
 
-- (a). met betrekking tot aan de bron geheven belastingen op bedragen betaald of betaalbaar gesteld op of na 1 januari van het kalenderjaar waarin de Overeenkomst in werking is getreden;
+- (a) met betrekking tot aan de bron geheven belastingen op bedragen betaald of betaalbaar gesteld op of na 1 januari van het kalenderjaar waarin de Overeenkomst in werking is getreden;
 
-- (b). met betrekking tot andere belastingen voor belastingjaren die aanvangen op of na 1 januari van het kalenderjaar waarin de Overeenkomst in werking is getreden.
+- (b) met betrekking tot andere belastingen voor belastingjaren die aanvangen op of na 1 januari van het kalenderjaar waarin de Overeenkomst in werking is getreden.
 
 2. Onder voorbehoud van de bepalingen van het derde, vierde, vijfde en zesde lid houdt de bestaande Overeenkomst op van toepassing te zijn met betrekking tot belastingen waarop deze Overeenkomst overeenkomstig de bepalingen van het eerste lid van toepassing is.
 
@@ -575,9 +545,9 @@ In geen geval worden de bepalingen van de [artikelen 26](https://wetten.overheid
 
 4. Indien een dividend wordt betaald door een lichaam dat op de datum van ondertekening van deze Overeenkomst inwoner is van een van de Staten en indien met betrekking tot het dividend wordt voldaan aan de voorwaarden neergelegd in de letters (a), (b) en (c) van het derde lid van artikel VII van de bestaande Overeenkomst, is het derde lid van artikel VII van de bestaande Overeenkomst op het dividend van toepassing in het jaar van ondertekening van deze Overeenkomst en in de drie daaropvolgende kalenderjaren. Voor de toepassing van dat derde lid:
 
-- (a). worden voordelen verkregen door een lichaam dat inwoner is van een van de Staten uit de vervreemding van aandelen in een lichaam dat geen inwoner is van die Staat, geacht te zijn inkomsten die door het eerstbedoelde lichaam, hetzij verkregen, hetzij vorderbaar waren, in de vorm van of in de plaats van betaling van dividenden door het laatstbedoelde lichaam;
+- (a) worden voordelen verkregen door een lichaam dat inwoner is van een van de Staten uit de vervreemding van aandelen in een lichaam dat geen inwoner is van die Staat, geacht te zijn inkomsten die door het eerstbedoelde lichaam, hetzij verkregen, hetzij vorderbaar waren, in de vorm van of in de plaats van betaling van dividenden door het laatstbedoelde lichaam;
 
-- (b). wordt een verwijzing naar „lichaam” in dit lid en in het derde lid van artikel VII beschouwd tevens een opvolgend lichaam daarvan te omvatten, die het resultaat is van een juridische fusie.
+- (b) wordt een verwijzing naar „lichaam” in dit lid en in het derde lid van artikel VII beschouwd tevens een opvolgend lichaam daarvan te omvatten, die het resultaat is van een juridische fusie.
 
 Dit lid is echter in geen geval van toepassing op een dividend betaald na 31 december 1988.
 
@@ -595,80 +565,20 @@ Dit lid is echter in geen geval van toepassing op een dividend betaald na 31 dec
 
 Deze Overeenkomst blijft van kracht totdat zij door een van de Staten wordt beëindigd. Elk van de Staten kan de Overeenkomst langs diplomatieke weg beëindigen door ten minste zes maanden voor het einde van enig kalenderjaar na het verstrijken van het vijfde jaar na het jaar van de inwerkingtreding een kennisgeving van beëindiging te zenden. In dat geval houdt de Overeenkomst op van toepassing te zijn:
 
-- (a). met betrekking tot aan de bron geheven belastingen op bedragen betaald of betaalbaar gesteld op of na 1 januari van het kalenderjaar volgend op dat waarin de kennisgeving van beëindiging is gedaan;
+- (a) met betrekking tot aan de bron geheven belastingen op bedragen betaald of betaalbaar gesteld op of na 1 januari van het kalenderjaar volgend op dat waarin de kennisgeving van beëindiging is gedaan;
 
-- (b). met betrekking tot andere belastingen voor belastingjaren die aanvangen op of na 1 januari van het kalenderjaar volgend op dat waarin de kennisgeving van beëindiging is gedaan.
-
-Bij de ondertekening van de Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, heden tussen het Koninkrijk der Nederlanden en Canada gesloten, zijn de ondergetekenden overeengekomen dat de volgende bepalingen een integrerend deel van de Overeenkomst vormen.
-
-##### I. Ad [Artikel 3, eerste lid, letter e](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=II&artikel=3&z=1999-01-15&g=1999-01-15)
-
-In de Franse tekst van de Overeenkomst, omvat de uitdrukking „société” mede een „corporation” in de zin van het Canadese recht.
-
-##### II. Ad [Artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=II&artikel=3&z=1999-01-15&g=1999-01-15), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=II&artikel=5&z=1999-01-15&g=1999-01-15) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=8&z=1999-01-15&g=1999-01-15)
-
-De aanlegplaats of -plaatsen die in een van de Staten zijn gelegen waarvan geregeld gebruik wordt gemaakt bij het vervoer door schepen van goederen of passagiers uitsluitend tussen plaatsen in een van de Staten, vormen voor de onderneming welke die schepen exploiteert, een vaste inrichting in die Staat.
-
-##### IIA. ad [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=II&artikel=4&z=1999-01-15&g=1999-01-15)
-
-Het is wel te verstaan dat de uitdrukking „inwoner van een van de Staten” ook omvat:
-
-- a. de Regering van die Staat of een staatkundig onderdeel of plaatselijk publiekrechtelijk lichaam daarvan, of een instelling of instantie van die Regering, dat onderdeel of dat lichaam;
-
-- b. een trust, een lichaam of een andere organisatie, die of dat in het algemeen is vrijgesteld van belasting in een van de Staten en inwoner is van die Staat overeenkomstig de wetgeving van die Staat, en die of dat opgericht en uitsluitend werkzaam is voor het beheer of het verstrekken van voordelen uit een of meer fondsen of krachtens een of meer regelingen, ingesteld voor het verstrekken van pensioen- of uittredingsuitkeringen of andere werknemersvoordelen;
-
-- c. een trust, een lichaam of een andere organisatie, die of dat uitsluitend werkzaam is voor godsdienstige, liefdadige, wetenschappelijke, opvoedkundige of openbare doeleinden, en die of dat in het algemeen is vrijgesteld van belasting in een van de Staten en inwoner is van die Staat overeenkomstig de wetgeving van die Staat.
-
-##### III. Ad [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=II&artikel=4&z=1999-01-15&g=1999-01-15)
-
-Een natuurlijke persoon die aan boord van een schip woont zonder een werkelijke woonplaats in een van de Staten te hebben, wordt geacht inwoner te zijn van de Staat waar het schip zijn thuishaven heeft.
-
-##### IV. Ad [Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=6&z=1999-01-15&g=1999-01-15)
-
-De bepalingen van het [eerste lid van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=6&z=1999-01-15&g=1999-01-15) zijn ook van toepassing op inkomsten of voordelen uit de vervreemding van de daarin bedoelde goederen.
-
-##### V. Ad [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=6&z=1999-01-15&g=1999-01-15)
-
-In het geval dat een van de Staten ophoudt inwoners van de andere Staat, die in eerstbedoelde Staat aan belasting zijn onderworpen ter zake van inkomsten uit aldaar gelegen onroerende goederen, toe te staan de belasting over die inkomsten, overeenkomstig en met inachtneming van de nationale wetgeving van de eerstbedoelde Staat, naar een netto grondslag te berekenen, kan een inwoner van de andere Staat, die aldus aan belasting is onderworpen ter zake van die inkomsten, de belasting over die inkomsten berekenen overeenkomstig en met inachtneming van de nationale wetgeving van de eerstbedoelde Staat, zoals die gold op het tijdstip waarop die Staat ophield de berekening toe te staan. Interest op enige vordering, verzekerd door hypotheek, of op een andere schuld verzekerd door in een van de Staten gelegen onroerende goederen, wordt geacht uit die Staat afkomstig te zijn, in de mate waarin die interest, ingevolge enige berekening als bedoeld in de voorgaande zin, als aftrekpost in aanmerking is genomen bij de berekening van de belasting over de inkomsten van een inwoner van de andere Staat uit in de eerstbedoelde Staat gelegen onroerende goederen.
-
-##### VA. Ad [Artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=II&artikel=5&z=1999-01-15&g=1999-01-15), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=6&z=1999-01-15&g=1999-01-15), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=7&z=1999-01-15&g=1999-01-15), [14](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=14&z=1999-01-15&g=1999-01-15) en [23](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=V&artikel=23&z=1999-01-15&g=1999-01-15)
-
-Het is wel te verstaan dat rechten tot exploratie en exploitatie van natuurlijke rijkdommen worden beschouwd als een onroerende zaak die is gelegen in de Staat op wiens zeebodem en ondergrond daarvan deze rechten betrekking hebben, alsmede dat deze rechten worden geacht te behoren tot de activa van een vaste inrichting in die Staat. Voorts is het wel te verstaan dat de hiervoor genoemde rechten ook omvatten rechten op belangen bij, of voordelen uit, vermogensbestanddelen die voortvloeien uit die exploratie of exploitatie.
-
-##### VI. Ad [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=7&z=1999-01-15&g=1999-01-15)
-
-Het is wel te verstaan dat in het geval van voordelen uit toezicht, levering, installatie-, of constructiewerkzaamheden, alleen dat deel daarvan aan een vaste inrichting wordt toegerekend, dat voortvloeit uit het werkelijk verrichten van die werkzaamheden door die vaste inrichting. Dienovereenkomstig worden voordelen behaald met de levering van goederen, al dan niet in verband met deze werkzaamheden, aan die vaste inrichting, door het hoofdkantoor, door een andere vaste inrichting of door een derde persoon, niet aan die vaste inrichting toegerekend.
-
-##### VII. Ad [Artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=10&z=1999-01-15&g=1999-01-15), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=11&z=1999-01-15&g=1999-01-15) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=12&z=1999-01-15&g=1999-01-15) en [21](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=21&z=1999-01-15&g=1999-01-15)
-
-Indien belasting is geheven die het belastingbedrag dat ingevolge de bepalingen van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=10&z=1999-01-15&g=1999-01-15), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=11&z=1999-01-15&g=1999-01-15), [12](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=12&z=1999-01-15&g=1999-01-15) en [21](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=21&z=1999-01-15&g=1999-01-15) mag worden geheven te boven gaat, moeten verzoeken om teruggaaf van het daarboven uitgaande belastingbedrag worden ingediend bij de bevoegde autoriteit van de Staat die de belasting heeft geheven, binnen een tijdvak van drie jaren na het einde van het kalenderjaar waarin de belasting is geheven.
-
-##### VIII. Ad [Artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=11&z=1999-01-15&g=1999-01-15)
-
-De uitdrukking „instantie” betekent iedere eenheid in het leven geroepen of opgericht door de Regering van een van beide Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam van een van beide Staten, ten einde werkzaamheden van publiekrechtelijke aard uit te voeren.
-
-##### IX. Ad [Artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=12&z=1999-01-15&g=1999-01-15)
-
-Vergoedingen voor technische diensten, daaronder begrepen studies of onderzoeken van wetenschappelijke, geologische of technische aard, of voor contracten inzake bouw- of constructiewerkzaamheden met inbegrip van de daartoe behorende blauwdrukken, dan wel voor diensten van raadgevende of toezichthoudende aard worden niet beschouwd als vergoedingen voor inlichtingen omtrent ervaringen op het gebied van nijverheid, handel of wetenschap, behalve voorzover de bedragen van die vergoedingen zijn gebaseerd op produktie, verkoop, verrichtingen, voordelen of een andere soortgelijke grondslag die verband houdt met het gebruik van deze inlichtingen.
-
-##### X. Ad [Artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=13&z=1999-01-15&g=1999-01-15)
-
-De uitdrukking „daarmee gelieerde personen” betekent in het geval van lichamen, gelieerde lichamen, zoals bedoeld in [letter (d) van het zevende lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=10&z=1999-01-15&g=1999-01-15) en in het geval van een natuurlijke persoon, zijn echtgenoot en zijn bloed- en aanverwanten in de rechte linie en in de tweede graad van de zijlinie.
-
-##### XI. Ad [Artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=15&z=1999-01-15&g=1999-01-15) en [16](https://wetten.overheid.nl/jci1.3:c:BWBV0002457&hoofdstuk=III&artikel=16&z=1999-01-15&g=1999-01-15)
-
-Het is wel te verstaan dat de uitdrukkingen „salarissen, lonen en andere soortgelijke beloningen” en „directeursbeloningen (,directors' fees') en andere beloningen” alle inkomsten omvatten uit een dienstbetrekking of functie.
+- (b) met betrekking tot andere belastingen voor belastingjaren die aanvangen op of na 1 januari van het kalenderjaar volgend op dat waarin de kennisgeving van beëindiging is gedaan.
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, deze Overeenkomst hebben ondertekend.
 
 GEDAAN in tweevoud te 's-Gravenhage, de 27e mei 1986, in de Engelse, de Franse en de Nederlandse taal, zijnde elk van deze teksten gelijkelijk authentiek.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 (w.g.) H. VAN DEN BROEK
 
 (w.g.) H. E. KONING
 
-**Voor de Regering van Canada,**
+*Voor de Regering van Canada,*
 
 (w.g.) LAWRENCE A. H. SMITH

@@ -1,136 +1,34 @@
 ---
 title: "Protocol bij de Samenwerkingsovereenkomst tussen de Europese Economische Gemeenschap en de Syrische Arabische Republiek in verband met de toetreding van het Koninkrijk Spanje en de Portugese Republiek tot de Gemeenschap"
 identifier: "BWBV0002641"
-country: "nl"
-rank: "verdrag"
-publication_date: "1988-06-16"
-last_updated: "1988-06-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002641"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002958343"
-version_id: "10002961222"
-internal_id: "C10006997331"
-label_id: "10002945264"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002641/1988-06-16/0"
-intitule_bron: "Trb.1989-80"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1989-10-03"
-intitule_published: "1989-06-23"
-intitule_status: "nogniet"
-original_publication: "Trb.1989-80"
-original_signed_date: "1989-10-03"
-original_published_date: "1989-06-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1989-80"
-jci_1_3: "jci1.3:c:BWBV0002641&z=1988-06-16&g=1988-06-16"
-jci_1_0: "1.0:c:BWBV0002641&g=1988-06-16"
-citeertitel_status: "officieel"
-signed_date: "1989-10-03"
-entry_into_force: "1989-06-23"
+laatste_update: 1988-06-16
+status: geldig
+toestand: 1988-06-16
+bron: "https://wetten.overheid.nl/BWBV0002641"
+opgehaald: 2026-09-12
 ---
+
 # Protocol bij de Samenwerkingsovereenkomst tussen de Europese Economische Gemeenschap en de Syrische Arabische Republiek in verband met de toetreding van het Koninkrijk Spanje en de Portugese Republiek tot de Gemeenschap
 
-Zijne Majesteit de Koning der Belgen,
-
-Hare Majesteit de Koningin van Denemarken,
-
-de President van de Bondsrepubliek Duitsland,
-
-de President van de Helleense Republiek,
-
-Zijne Majesteit de Koning van Spanje,
-
-de President van de Franse Republiek,
-
-de President van Ierland,
-
-de President van de Italiaanse Republiek,
-
-Zijne Koninklijke Hoogheid de Groothertog van Luxemburg,
-
-Hare Majesteit de Koningin der Nederlanden,
-
-de President van de Portugese Republiek,
-
-Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-waarvan de Staten overeenkomstsluitende partij zijn bij het Verdrag tot oprichting van de Europese Economische Gemeenschap, en
-
-de Raad van de Europese Gemeenschappen,
-
-enerzijds, en
-
-de Regering van de Syrische Arabische Republiek,
-
-anderzijds,
-
-Gelet op de op 18 januari 1977 te Brussel ondertekende Samenwerkingsovereenkomst tussen de Europese Economische Gemeenschap en de Syrische Arabische Republiek, hierna „de overeenkomst” genoemd,
-
-Overwegende dat het Koninkrijk Spanje en de Portugese Republiek op 1 januari 1986 tot de Europese Gemeenschappen zijn toegetreden,
-
-Hebben besloten in gemeenschappelijk overleg de aanpassingen en de overgangsmaatregelen vast te stellen die in verband met de toetreding van het Koninkrijk Spanje en de Portugese Republiek tot de Europese Economische Gemeenschap in de overeenkomst moeten worden aangebracht, en hebben te dien einde als hun gevolmachtigden aangewezen:
-
-Zijne Majesteit de Koning der Belgen: Philippe de Schoutheete de Tervarent, Buitengewoon en Gevolmachtigd Ambassadeur;
-
-Hare Majesteit de Koningin van Denemarken: Jakob Esper Larsen, Buitengewoon en Gevolmachtigd Ambassadeur;
-
-de President van de Bondsrepubliek Duitsland: Werner Ungerer, Buitengewoon en Gevolmachtigd Ambassadeur;
-
-de President van de Helleense Republiek: Constantinos Lyberopoulos, Buitengewoon en Gevolmachtigd Ambassadeur;
-
-Zijne Majesteit de Koning van Spanje: Carlos Westendorp y Cabeza, Buitengewoon en Gevolmachtigd Ambassadeur;
-
-de President van de Franse Republiek: Francois Scheer, Buitengewoon en Gevolmachtigd Ambassadeur;
-
-de President van Ierland: John H. F. Campbell, Buitengewoon en Gevolmachtigd Ambassadeur;
-
-de President van de Italiaanse Republiek: Pietro Calamia, Buitengewoon en Gevolmachtigd Ambassadeur;
-
-Zijne Koninklijke Hoogheid de Groothertog van Luxemburg: Joseph Weyland, Buitengewoon en Gevolmachtigd Ambassadeur;
-
-Hare Majesteit de Koningin der Nederlanden: P. C. Nieman, Buitengewoon en Gevolmachtigd Ambassadeur;
-
-de President van de Portugese Republiek: Leonardo Mathias, Buitengewoon en Gevolmachtigd Ambassadeur;
-
-Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland:
-
-David H. A. Hannay KCMG,
-
-Buitengewoon en Gevolmachtigd Ambassadeur;
-
-de Raad van de Europese Gemeenschappen: Werner Ungerer, Buitengewoon en Gevolmachtigd Ambassadeur;
-
-Permanent Vertegenwoordiger van de Bondsrepubliek Duitsland, Voorzitter van het Comité van Permanente Vertegenwoordigers;
-
-Jean Durieux,
-
-Adviseur buiten dienst bij het Directoraat-Generaal voor Buitenlandse Betrekkingen van de Commissie van de Europese Gemeenschappen;
-
-de Regering van de Syrische Arabische Republiek: Siba Nasser,
-
-Buitengewoon en Gevolmachtigd Ambassadeur; Hoofd van de missie van de Syrische Arabische Republiek bij de Europese Gemeenschappen;
-
-Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten,
-
-Overeenstemming hebben bereikt omtrent hetgeen volgt:
+*Zijne Majesteit de Koning der Belgen, Hare Majesteit de Koningin van Denemarken, de President van de Bondsrepubliek Duitsland, de President van de Helleense Republiek, Zijne Majesteit de Koning van Spanje, de President van de Franse Republiek, de President van Ierland, de President van de Italiaanse Republiek, Zijne Koninklijke Hoogheid de Groothertog van Luxemburg, Hare Majesteit de Koningin der Nederlanden, de President van de Portugese Republiek, Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, waarvan de Staten overeenkomstsluitende partij zijn bij het Verdrag tot oprichting van de Europese Economische Gemeenschap, en de Raad van de Europese Gemeenschappen, enerzijds, en de Regering van de Syrische Arabische Republiek, anderzijds, Gelet op de op 18 januari 1977 te Brussel ondertekende Samenwerkingsovereenkomst tussen de Europese Economische Gemeenschap en de Syrische Arabische Republiek, hierna „de overeenkomst” genoemd, Overwegende dat het Koninkrijk Spanje en de Portugese Republiek op 1 januari 1986 tot de Europese Gemeenschappen zijn toegetreden, Hebben besloten in gemeenschappelijk overleg de aanpassingen en de overgangsmaatregelen vast te stellen die in verband met de toetreding van het Koninkrijk Spanje en de Portugese Republiek tot de Europese Economische Gemeenschap in de overeenkomst moeten worden aangebracht, en hebben te dien einde als hun gevolmachtigden aangewezen: Zijne Majesteit de Koning der Belgen: Philippe de Schoutheete de Tervarent, Buitengewoon en Gevolmachtigd Ambassadeur; Hare Majesteit de Koningin van Denemarken: Jakob Esper Larsen, Buitengewoon en Gevolmachtigd Ambassadeur; de President van de Bondsrepubliek Duitsland: Werner Ungerer, Buitengewoon en Gevolmachtigd Ambassadeur; de President van de Helleense Republiek: Constantinos Lyberopoulos, Buitengewoon en Gevolmachtigd Ambassadeur; Zijne Majesteit de Koning van Spanje: Carlos Westendorp y Cabeza, Buitengewoon en Gevolmachtigd Ambassadeur; de President van de Franse Republiek: Francois Scheer, Buitengewoon en Gevolmachtigd Ambassadeur; de President van Ierland: John H. F. Campbell, Buitengewoon en Gevolmachtigd Ambassadeur; de President van de Italiaanse Republiek: Pietro Calamia, Buitengewoon en Gevolmachtigd Ambassadeur; Zijne Koninklijke Hoogheid de Groothertog van Luxemburg: Joseph Weyland, Buitengewoon en Gevolmachtigd Ambassadeur; Hare Majesteit de Koningin der Nederlanden: P. C. Nieman, Buitengewoon en Gevolmachtigd Ambassadeur; de President van de Portugese Republiek: Leonardo Mathias, Buitengewoon en Gevolmachtigd Ambassadeur; Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland: David H. A. Hannay KCMG, Buitengewoon en Gevolmachtigd Ambassadeur; de Raad van de Europese Gemeenschappen: Werner Ungerer, Buitengewoon en Gevolmachtigd Ambassadeur; Permanent Vertegenwoordiger van de Bondsrepubliek Duitsland, Voorzitter van het Comité van Permanente Vertegenwoordigers; Jean Durieux, Adviseur buiten dienst bij het Directoraat-Generaal voor Buitenlandse Betrekkingen van de Commissie van de Europese Gemeenschappen; de Regering van de Syrische Arabische Republiek: Siba Nasser, Buitengewoon en Gevolmachtigd Ambassadeur; Hoofd van de missie van de Syrische Arabische Republiek bij de Europese Gemeenschappen; Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, Overeenstemming hebben bereikt omtrent hetgeen volgt:*
 
 ##### Artikel 1
 
 Het Koninkrijk Spanje en de Portugese Repuoiiek worden overeenkomstsluitende partij bij de overeenkomst en bij de verklaringen gehecht aan de Slotakte ondertekend te Brussel op 18 januari 1977.
 
-## TITEL I. AANPASSINGEN
+### TITEL I. AANPASSINGEN
 
 ##### Artikel 2
 
 De teksten van de overeenkomst, met inbegrip van de bijlagen en protocollen die daarvan een integrerend bestanddeel vormen, alsmede van de aan de Slotakte gehechte verklaringen, opgesteld in de Spaanse en de Portugese taal, zijn onder dezelfde voorwaarden authentiek als de oorspronkelijke teksten. De Samenwerkingsraad keurt de Spaanse en Portugese versies goed.
 
-## TITEL II. OVERGANGSMAATREGELEN
+### TITEL II. OVERGANGSMAATREGELEN
 
 ### HOOFDSTUK I. BEPALINGEN VAN TOEPASSING OP HET KONINKRIJK SPANJE
 
-## Deel I. Algemene regeling
+### Deel I. Algemene regeling
 
 ##### Artikel 3
 
@@ -138,21 +36,21 @@ De teksten van de overeenkomst, met inbegrip van de bijlagen en protocollen die 
 
 2. Het Koninkrijk Spanje schaft de invoerrechten op de produkten van oorsprong uit Syrië geleidelijk af volgens het onderstaande tijdschema:
 
-- -. op 1 maart 1986 wordt elk recht verlaagd tot 90,0% van het basisrecht;
+- - op 1 maart 1986 wordt elk recht verlaagd tot 90,0% van het basisrecht;
 
-- -. op 1 januari 1987 wordt elk recht verlaagd tot 77,5% van het basisrecht;
+- - op 1 januari 1987 wordt elk recht verlaagd tot 77,5% van het basisrecht;
 
-- -. op 1 januari 1988 wordt elk recht verlaagd tot 62,5% van het basisrecht;
+- - op 1 januari 1988 wordt elk recht verlaagd tot 62,5% van het basisrecht;
 
-- -. op 1 januari 1989 wordt elk recht verlaagd tot 47,5% van het basisrecht;
+- - op 1 januari 1989 wordt elk recht verlaagd tot 47,5% van het basisrecht;
 
-- -. op 1 januari 1990 wordt elk recht verlaagd tot 35,0% van het basisrecht;
+- - op 1 januari 1990 wordt elk recht verlaagd tot 35,0% van het basisrecht;
 
-- -. op 1 januari 1991 wordt elk recht verlaagd tot 22,5% van het basisrecht;
+- - op 1 januari 1991 wordt elk recht verlaagd tot 22,5% van het basisrecht;
 
-- -. op 1 januari 1992 wordt elk recht verlaagd tot 10,0% van het basisrecht;
+- - op 1 januari 1992 wordt elk recht verlaagd tot 10,0% van het basisrecht;
 
-- -. de laatste verlaging van 10,0% vindt plaats op 1 januari 1993.
+- - de laatste verlaging van 10,0% vindt plaats op 1 januari 1993.
 
 3. Bij toepassing van de overeenkomstig lid 2 berekende rechten wordt afgerond op de eerste decimaal door schrapping van de tweede decimaal.
 
@@ -164,8 +62,8 @@ De teksten van de overeenkomst, met inbegrip van de bijlagen en protocollen die 
 
 | Nr. van het gemeenschappelijk douanetarief | Omschrijving | Basisrechten |
 | --- | --- | --- |
-| 24.02 | Tabaksfabrikaten, tabaksextracten en tabakssausen: |   |
-|   | A. Sigaretten B. Sigaren en cigarillo's C. Rooktabak D. Pruimtabak en snuif E. andere, tabak geagglomereerd tot vellen daaronder begrepen | 50,0% 55,0% 46,8% 26,0% 10,4% |
+| 24.02 | Tabaksfabrikaten, tabaksextracten en tabakssausen: |  |
+|  | A. Sigaretten B. Sigaren en cigarillo's C. Rooktabak D. Pruimtabak en snuif E. andere, tabak geagglomereerd tot vellen daaronder begrepen | 50,0% 55,0% 46,8% 26,0% 10,4% |
 | 27.09 | Ruwe aardolie en ruwe oliën uit bitumineuze mineralen | vrij |
 
 ##### Artikel 5
@@ -176,9 +74,9 @@ Indien het Koninkrijk Spanje invoerrechten op uit de Gemeenschap in haar samenst
 
 1. Het Koninkrijk Spanje past kwantitatieve invoerbeperkingen toe:
 
-- -. tot en met 31 december 1988 op de in bijlage I bedoelde produkten van oorsprong uit Syrië;
+- - tot en met 31 december 1988 op de in bijlage I bedoelde produkten van oorsprong uit Syrië;
 
-- -. tot en met 31 december 1989 op de in bijlage II bedoelde produkten van oorsprong uit Syrië.
+- - tot en met 31 december 1989 op de in bijlage II bedoelde produkten van oorsprong uit Syrië.
 
 2. De in lid 1 bedoelde beperkingen bestaan uit de toepassing van contingenten.
 
@@ -188,13 +86,13 @@ Het tempo van de geleidelijke verhoging van de in bijlage I bedoelde contingente
 
 Voor de contingenten nr. 6 tot en met nr. 9 vermeld in bijlage II beloopt het jaarlijkse tempo van de geleidelijke verhoging:
 
-- -. op 1 januari 1986: 13%;
+- - op 1 januari 1986: 13%;
 
-- -. op 1 januari 1987: 18%;
+- - op 1 januari 1987: 18%;
 
-- -. op 1 januari 1988:20%;
+- - op 1 januari 1988:20%;
 
-- -. op 1 januari 1989: 20%.
+- - op 1 januari 1989: 20%.
 
 4. Wanneer wordt geconstateerd dat de invoer in Spanje van een van de in de bijlagen I en II bedoelde produkten in de loop van twee opeenvolgende jaren lager is dan 90% van het contingent, wordt de invoer van het produkt uit Syrië bij het begin van het jaar dat volgt op deze twee jaren vrijgemaakt, indien het betrokken produkt op dat moment ten opzichte van de Gemeenschap in haar samenstelling per 31 december 1985 is vrijgemaakt.
 
@@ -206,31 +104,31 @@ Indien het Koninkrijk Spanje de invoer van een van de in de bijlagen I en II bed
 
 Voor de onder Verordening (EEG) nr. 3033/80 vallende produkten van oorsprong uit Syrië schaft het Koninkrijk Spanje met ingang van de inwerkingtreding van dit protocol, uitgaande van het in bijlage III vermelde basisrecht en volgens het in artikel 3, lid 2, aangegeven tijdschema, geleidelijk de douanerechten af die het vaste element van de belasting vormen.
 
-## Deel II. Produkten vermeld in bijlage II bij het Verdrag tot oprichting van de Europese Economische Gemeenschap
+### Deel II. Produkten vermeld in bijlage II bij het Verdrag tot oprichting van de Europese Economische Gemeenschap
 
 ##### Artikel 8
 
 1. Voor de produkten bedoeld in bijlage II bij het Verdrag tot oprichting van de Europese Economische Gemeenschap, van oorsprong uit Syrië, past het Koninkrijk Spanje, onder voorbehoud van de onderstaande bijzondere bepalingen, een recht toe waarbij het verschil tussen het basisrecht en het preferentiële recht volgens onderstaand ritme wordt verkleind:
 
-- -. op 1 maart 1986 wordt het verschil verkleind tot 90,9% van het aanvankelijke verschil,
+- - op 1 maart 1986 wordt het verschil verkleind tot 90,9% van het aanvankelijke verschil,
 
-- -. op 1 januari 1987 wordt het verschil verkleind tot 81,8% van het aanvankelijke verschil,
+- - op 1 januari 1987 wordt het verschil verkleind tot 81,8% van het aanvankelijke verschil,
 
-- -. op 1 januari 1988 wordt het verschil verkleind tot 72,7% van het aanvankelijke verschil,
+- - op 1 januari 1988 wordt het verschil verkleind tot 72,7% van het aanvankelijke verschil,
 
-- -. op 1 januari 1989 wordt het verschil verkleind tot 63,6% van het aanvankelijke verschil,
+- - op 1 januari 1989 wordt het verschil verkleind tot 63,6% van het aanvankelijke verschil,
 
-- -. op 1 januari 1990 wordt het verschil verkleind tot 54,5% van het aanvankelijke verschil,
+- - op 1 januari 1990 wordt het verschil verkleind tot 54,5% van het aanvankelijke verschil,
 
-- -. op 1 januari 1991 wordt het verschil verkleind tot 54,4% van het aanvankelijke verschil,
+- - op 1 januari 1991 wordt het verschil verkleind tot 54,4% van het aanvankelijke verschil,
 
-- -. op 1 januari 1992 wordt het verschil verkleind tot 36,3% van het aanvankelijke verschil,
+- - op 1 januari 1992 wordt het verschil verkleind tot 36,3% van het aanvankelijke verschil,
 
-- -. op 1 januari 1993 wordt het verschil verkleind tot 27,2% van het aanvankelijke verschil,
+- - op 1 januari 1993 wordt het verschil verkleind tot 27,2% van het aanvankelijke verschil,
 
-- -. op 1 januari 1994 wordt het verschil verkleind tot 18,1% van het aanvankelijke verschil,
+- - op 1 januari 1994 wordt het verschil verkleind tot 18,1% van het aanvankelijke verschil,
 
-- -. op 1 januari 1995 wordt het verschil verkleind tot 9,0% van het aanvankelijke verschil.
+- - op 1 januari 1995 wordt het verschil verkleind tot 9,0% van het aanvankelijke verschil.
 
 Het Koninkrijk Spanje past de preferentiële rechten volledig toe vanaf 1 januari 1996.
 
@@ -238,17 +136,17 @@ Het Koninkrijk Spanje past de preferentiële rechten volledig toe vanaf 1 januar
 
 Met ingang van 1 januari 1990 past het Koninkrijk Spanje ten opzichte van deze produkten een recht toe waarbij het verschil tussen het op 31 december 1989 werkelijk toegepaste recht en het preferentiële recht volgens onderstaand ritme wordt verkleind:
 
-- -. op 1 januari 1990 wordt het verschil verkleind tot 85,7% van het aanvankelijke verschil,
+- - op 1 januari 1990 wordt het verschil verkleind tot 85,7% van het aanvankelijke verschil,
 
-- -. op 1 januari 1991 wordt het verschil verkleind tot 71,4% van het aanvankelijke verschil,
+- - op 1 januari 1991 wordt het verschil verkleind tot 71,4% van het aanvankelijke verschil,
 
-- -. op 1 januari 1992 wordt het verschil verkleind tot 57,1% van het aanvankelijke verschil,
+- - op 1 januari 1992 wordt het verschil verkleind tot 57,1% van het aanvankelijke verschil,
 
-- -. op 1 januari 1993 wordt het verschil verkleind tot 42,8% van het aanvankelijke verschil,
+- - op 1 januari 1993 wordt het verschil verkleind tot 42,8% van het aanvankelijke verschil,
 
-- -. op 1 januari 1994 wordt het verschil verkleind tot 28,5% van het aanvankelijke verschil,
+- - op 1 januari 1994 wordt het verschil verkleind tot 28,5% van het aanvankelijke verschil,
 
-- -. op 1 januari 1995 wordt het verschil verkleind tot 14,2% van het aanvankelijke verschil,
+- - op 1 januari 1995 wordt het verschil verkleind tot 14,2% van het aanvankelijke verschil,
 
 Het Koninkrijk Spanje past de preferentiële rechten volledig toe vanaf 1 januari 1996.
 
@@ -264,7 +162,7 @@ Ten aanzien van de in artikel 8, lid 1, bedoelde produkten die op 1 maart 1986 n
 
 Deze bepaling geldt slechts tot het ogenblik waarop de gemeenschappelijke marktordening voor deze produkten wordt ingevoerd, maar uiterlijk tot en met 31 december 1995, en voor zover zulks strikt noodzakelijk is om de handhaving van de nationale marktordening te waarborgen.
 
-## Deel III. Canarische eilanden en Ceuta en Melilla
+### Deel III. Canarische eilanden en Ceuta en Melilla
 
 ##### Artikel 11
 
@@ -284,7 +182,7 @@ Deze heffing mag op geen enkel tijdstip hoger zijn dan het peil van het Spaanse 
 
 ### HOOFDSTUK II. BEPALINGEN VAN TOEPASSING OP DE PORTUGESE REPUBLIEK
 
-## Deel I. Algemene regeling
+### Deel I. Algemene regeling
 
 ##### Artikel 12
 
@@ -292,19 +190,19 @@ Deze heffing mag op geen enkel tijdstip hoger zijn dan het peil van het Spaanse 
 
 2. In afwijking van lid 1 schaft de Portugese Republiek de invoerrechten op de in bijlage VI bedoelde produkten van oorsprong uit Syrië geleidelijk af volgens het onderstaande ritme:
 
-- -. op 1 maart 1986 wordt elk recht verlaagd tot 90% van het basisrecht,
+- - op 1 maart 1986 wordt elk recht verlaagd tot 90% van het basisrecht,
 
-- -. op 1 januari 1987 wordt elk invoerrecht verlaagd tot 80% van het basisrecht,
+- - op 1 januari 1987 wordt elk invoerrecht verlaagd tot 80% van het basisrecht,
 
-- -. op 1 januari 1988 wordt elk invoerrecht verlaagd tot 65% van het basisrecht,
+- - op 1 januari 1988 wordt elk invoerrecht verlaagd tot 65% van het basisrecht,
 
-- -. op 1 januari 1989 wordt elk invoerrecht verlaagd tot 50% van het basisrecht,
+- - op 1 januari 1989 wordt elk invoerrecht verlaagd tot 50% van het basisrecht,
 
-- -. op 1 januari 1990 wordt elk invoerrecht verlaagd tot 40% van het basisrecht,
+- - op 1 januari 1990 wordt elk invoerrecht verlaagd tot 40% van het basisrecht,
 
-- -. op 1 januari 1991 wordt elk invoerrecht verlaagd tot 30% van het basisrecht,
+- - op 1 januari 1991 wordt elk invoerrecht verlaagd tot 30% van het basisrecht,
 
-- -. de twee laatste verlagingen van elk 15% vinden plaats op 1 januari 1992 en 1 januari 1993.
+- - de twee laatste verlagingen van elk 15% vinden plaats op 1 januari 1992 en 1 januari 1993.
 
 3. Bij toepassing van de overeenkomstig lid 2 berekende rechten wordt afgerond op de eerste decimaal door schrapping van de tweede decimaal.
 
@@ -324,25 +222,25 @@ Indien de Portugese Republiek douanerechten op uit de Gemeenschap in haar samens
 
 2. De volgende door de Portugese Republiek in haar handelsverkeer met Syrië toegepaste heffingen worden geleidelijk afgeschaft volgens het onderstaande ritme:
 
-- a). de heffing van 0,4% ad valorem, toegepast op:
+- a) de heffing van 0,4% ad valorem, toegepast op:
 
-- -. tijdelijk ingevoerde goederen,
+   - - tijdelijk ingevoerde goederen,
 
-- -. wederingevoerde goederen (met uitzondering van containers),
+   - - wederingevoerde goederen (met uitzondering van containers),
 
-- -. goederen die worden ingevoerd onder het stelsel van actieve veredeling, gekenmerkt door de teruggave, na uitvoer van de verkregen produkten, van de rechten die zijn geheven bij de invoer van de verwerkte goederen („drawback"), wordt:
+   - - goederen die worden ingevoerd onder het stelsel van actieve veredeling, gekenmerkt door de teruggave, na uitvoer van de verkregen produkten, van de rechten die zijn geheven bij de invoer van de verwerkte goederen („drawback"), wordt:
 
-- -. op 1 januari 1987 verlaagd tot 0,2% en
+   - - op 1 januari 1987 verlaagd tot 0,2% en
 
-- -. op 1 januari 1988 afgeschaft;
+   - - op 1 januari 1988 afgeschaft;
 
-- b). de heffing van 0,9% ad valorem, die wordt toegepast op goederen die ten verbruik worden ingevoerd, wordt:
+- b) de heffing van 0,9% ad valorem, die wordt toegepast op goederen die ten verbruik worden ingevoerd, wordt:
 
-- -. op 1 januari 1989 verlaagd tot 0,6%,
+   - - op 1 januari 1989 verlaagd tot 0,6%,
 
-- -. op 1 januari 1990 verlaagd tot 0,3% en
+   - - op 1 januari 1990 verlaagd tot 0,3% en
 
-- -. op 1 januari 1991 afgeschaft.
+   - - op 1 januari 1991 afgeschaft.
 
 ##### Artikel 16
 
@@ -360,31 +258,31 @@ De Portugese Republiek handhaaft tot en met 31 december 1987 kwantitatieve beper
 
 Voor de onder Verordening (EEG) nr. 3033/80 vallende produkten van oorsprong uit Syrië schaft de Portugese Republiek, uitgaande van het in bijlage IX vermelde basisrecht en volgens het in artikel 12, lid 2, aangegeven ritme, geleidelijk de douanerechten af die het vaste element van de belasting vormen.
 
-## Deel II. Produkten vermeld in bijlage II bij het Verdrag tot oprichting van de Europese Economische Gemeenschap
+### Deel II. Produkten vermeld in bijlage II bij het Verdrag tot oprichting van de Europese Economische Gemeenschap
 
 ##### Artikel 19
 
 1. Voor de produkten bedoeld in bijlage II bij het Verdrag tot oprichting van de Europese Economische Gemeenschap van oorsprong uit Syrië past de Portugese Republiek, onder voorbehoud van onderstaande bijzondere bepalingen, een recht toe waarbij het verschil tussen het basisrecht en het preferentiële recht volgens onderstaand ritme wordt verkleind:
 
-- -. op 1 maart 1986 wordt het verschil verkleind tot 90,9% van het aanvankelijke verschil,
+- - op 1 maart 1986 wordt het verschil verkleind tot 90,9% van het aanvankelijke verschil,
 
-- -. op 1 januari 1987 wordt het verschil verkleind tot 81,8% van het aanvankelijke verschil,
+- - op 1 januari 1987 wordt het verschil verkleind tot 81,8% van het aanvankelijke verschil,
 
-- -. op 1 januari 1988 wordt het verschil verkleind tot 72,7% van het aanvankelijke verschil,
+- - op 1 januari 1988 wordt het verschil verkleind tot 72,7% van het aanvankelijke verschil,
 
-- -. op 1 januari 1989 wordt het verschil verkleind tot 63,6% van het aanvankelijke verschil,
+- - op 1 januari 1989 wordt het verschil verkleind tot 63,6% van het aanvankelijke verschil,
 
-- -. op 1 januari 1990 wordt het verschil verkleind tot 54,5% van het aanvankelijke verschil,
+- - op 1 januari 1990 wordt het verschil verkleind tot 54,5% van het aanvankelijke verschil,
 
-- -. op 1 januari 1991 wordt het verschil verkleind tot 45,4% van het aanvankelijke verschil,
+- - op 1 januari 1991 wordt het verschil verkleind tot 45,4% van het aanvankelijke verschil,
 
-- -. op 1 januari 1992 wordt het verschil verkleind tot 36,3% van het aanvankelijke verschil,
+- - op 1 januari 1992 wordt het verschil verkleind tot 36,3% van het aanvankelijke verschil,
 
-- -. op 1 januari 1993 wordt het verschil verkleind tot 27,2% van het aanvankelijke verschil,
+- - op 1 januari 1993 wordt het verschil verkleind tot 27,2% van het aanvankelijke verschil,
 
-- -. op 1 januari 1994 wordt het verschil verkleind tot 18,1% van het aanvankelijke verschil,
+- - op 1 januari 1994 wordt het verschil verkleind tot 18,1% van het aanvankelijke verschil,
 
-- -. op 1 januari 1995 wordt het verschil verkleind tot 9,0% van het aanvankelijke verschil,
+- - op 1 januari 1995 wordt het verschil verkleind tot 9,0% van het aanvankelijke verschil,
 
 De Portugese Republiek past de preferentiële rechten volledig toe vanaf 1 januari 1996.
 
@@ -392,35 +290,35 @@ De Portugese Republiek past de preferentiële rechten volledig toe vanaf 1 janua
 
 De Portugese Republiek past voor deze produkten met ingang van de tweede etappe een recht toe waarbij het verschil tussen het aan het einde van de eerste etappe werkelijk toegepaste recht en het preferentiële recht volgens onderstaand ritme wordt verkleind:
 
-- i). wanneer de tweede etappe vijfjaar duurt, wordt:
+- i) wanneer de tweede etappe vijfjaar duurt, wordt:
 
-- -. op 1 januari 1991 het verschil verkleind tot 83,3% van het aanvankelijke verschil;
+   - - op 1 januari 1991 het verschil verkleind tot 83,3% van het aanvankelijke verschil;
 
-- -. op 1 januari 1992 het verschil verkleind tot 66,6% van het aanvankelijke verschil;
+   - - op 1 januari 1992 het verschil verkleind tot 66,6% van het aanvankelijke verschil;
 
-- -. op 1 januari 1993 het verschil verkleind tot 49,9% van het aanvankelijke verschil;
+   - - op 1 januari 1993 het verschil verkleind tot 49,9% van het aanvankelijke verschil;
 
-- -. op 1 januari 1994 het verschil verkleind tot 33,2% van het aanvankelijke verschil;
+   - - op 1 januari 1994 het verschil verkleind tot 33,2% van het aanvankelijke verschil;
 
-- -. op 1 januari 1995 het verschil verkleind tot 16,5% van het aanvankelijke verschil;
+   - - op 1 januari 1995 het verschil verkleind tot 16,5% van het aanvankelijke verschil;
 
-- ii). wanneer de tweede etappe zeven jaar duurt, wordt:
+- ii) wanneer de tweede etappe zeven jaar duurt, wordt:
 
-- -. op 1 januari 1989 het verschil verkleind tot 87,5% van het aanvankelijke verschil;
+   - - op 1 januari 1989 het verschil verkleind tot 87,5% van het aanvankelijke verschil;
 
-- -. op 1 januari 1990 het verschil verkleind tot 75,0% van het aanvankelijke verschil;
+   - - op 1 januari 1990 het verschil verkleind tot 75,0% van het aanvankelijke verschil;
 
-- -. op 1 januari 1991 het verschil verkleind tot 62,5% van het aanvankelijke verschil;
+   - - op 1 januari 1991 het verschil verkleind tot 62,5% van het aanvankelijke verschil;
 
-- -. op 1 januari 1992 het verschil verkleind tot 50,0% van het aanvankelijke verschil;
+   - - op 1 januari 1992 het verschil verkleind tot 50,0% van het aanvankelijke verschil;
 
-- -. op 1 januari 1993 het verschil verkleind tot 37,5% van het aanvankelijke verschil;
+   - - op 1 januari 1993 het verschil verkleind tot 37,5% van het aanvankelijke verschil;
 
-- -. op 1 januari 1994 het verschil verkleind tot 25,0% van het aanvankelijke verschil;
+   - - op 1 januari 1994 het verschil verkleind tot 25,0% van het aanvankelijke verschil;
 
-- -. op 1 januari 1995 het verschil verkleind tot 12,5% van het aanvankelijke verschil;
+   - - op 1 januari 1995 het verschil verkleind tot 12,5% van het aanvankelijke verschil;
 
-- iii). de Portugese Republiek past de preferentiële rechten volledig toe vanaf 1 januari 1996.
+- iii) de Portugese Republiek past de preferentiële rechten volledig toe vanaf 1 januari 1996.
 
 3. Het in lid 1 bedoelde basisrecht is het in artikel 13, lid 1, omschreven recht.
 
@@ -434,7 +332,7 @@ Ten aanzien van de in artikel 19, lid 1, bedoelde produkten die op 1 maart 1986 
 
 Deze bepaling geldt slechts tot het ogenblik waarop de gemeenschappelijke marktordening voor deze produkten wordt ingevoerd, en uiterlijk tot en met 31 december 1995, en voor zover zulks strikt noodzakelijk is om de handhaving van de nationale marktordening te waarborgen.
 
-## TITEL III. ALGEMENE EN SLOTBEPALINGEN
+### TITEL III. ALGEMENE EN SLOTBEPALINGEN
 
 ##### Artikel 22
 

@@ -1,46 +1,19 @@
 ---
 title: "Inrichtingsakkoord tussen het Koninkrijk der Nederlanden en de Organisatie voor het verbod van chemische wapens betreffende de inspectie ter plaatse van de inrichting gevestigd in het Prins Maurits Laboratorium van TNO"
 identifier: "BWBV0001601"
-country: "nl"
-rank: "verdrag"
-publication_date: "2003-08-12"
-last_updated: "2003-08-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001601"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10000556053"
-version_id: "10000574652"
-internal_id: "C10006989981"
-label_id: "10000556764"
-original_entry_into_force: "2003-08-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001601/2003-08-12/0"
-intitule_bron: "Trb.1998-252"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-08-12"
-intitule_published: "1998-11-11"
-intitule_in_force: "2003-08-29"
-intitule_status: "goed"
-original_publication: "Trb.1998-252"
-original_signed_date: "2003-08-12"
-original_published_date: "1998-11-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1998-252"
-entry_into_force_date: "2003-08-12"
-jci_1_3: "jci1.3:c:BWBV0001601&z=2003-08-12&g=2003-08-12"
-jci_1_0: "1.0:c:BWBV0001601&g=2003-08-12"
-citeertitel_status: "officieel"
-signed_date: "2003-08-12"
-entry_into_force: "2003-08-12"
+publicatiedatum: 2003-08-12
+laatste_update: 2003-08-12
+status: geldig
+toestand: 2003-08-12
+bron: "https://wetten.overheid.nl/BWBV0001601"
+opgehaald: 2026-09-12
 ---
+
 # Inrichtingsakkoord tussen het Koninkrijk der Nederlanden en de Organisatie voor het verbod van chemische wapens betreffende de inspectie ter plaatse van de inrichting gevestigd in het Prins Maurits Laboratorium van TNO
 
-The Kingdom of the Netherlands, hereinafter referred to as “the inspected State Party",
-
-and
-
-the Organisation for the Prohibition of Chemical Weapons, hereinafter referred to as “the OPCW", both constituting the Parties to this Agreement,
-
-have agreed on the following arrangements in relation to the conduct of inspections pursuant to paragraph 3 of Article VI of the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, hereinafter referred to as “the Convention", at the facility for protective purposes, located at TNO Prins Maurits Laboratory, at Rijswijk, The Netherlands, the street address being: Lange Kleiweg 137, 2288 GJ Rijswijk, declared under paragraphs 7 and 8 of Article VI of the Convention, hereinafter referred to as “the facility".
+*The Kingdom of the Netherlands, hereinafter referred to as “the inspected State Party", and the Organisation for the Prohibition of Chemical Weapons, hereinafter referred to as “the OPCW", both constituting the Parties to this Agreement, have agreed on the following arrangements in relation to the conduct of inspections pursuant to paragraph 3 of Article VI of the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, hereinafter referred to as “the Convention", at the facility for protective purposes, located at TNO Prins Maurits Laboratory, at Rijswijk, The Netherlands, the street address being: Lange Kleiweg 137, 2288 GJ Rijswijk, declared under paragraphs 7 and 8 of Article VI of the Convention, hereinafter referred to as “the facility".*
 
 ##### Section 1. General Provisions
 
@@ -62,19 +35,19 @@ have agreed on the following arrangements in relation to the conduct of inspecti
 
 3. In the course of the pre-inspection briefing the inspection team shall in particular be briefed by the representatives of the facility on:
 
-- (a). the health and safety measures at the facility to be inspected and the likely risks that may be encountered during the inspection, in particular:
+- (a) the health and safety measures at the facility to be inspected and the likely risks that may be encountered during the inspection, in particular:
 
-- (i). all specific health and safety measures related to the presence at the facility of Schedule 1 chemical(s) and of any other toxic chemical(s), and related to the activities carried out there with these chemicals;
+   - (i) all specific health and safety measures related to the presence at the facility of Schedule 1 chemical(s) and of any other toxic chemical(s), and related to the activities carried out there with these chemicals;
 
-- (ii). specific inspection activities that must be limited within particular areas at the facility for reasons of safety;
+   - (ii) specific inspection activities that must be limited within particular areas at the facility for reasons of safety;
 
-- (iii). procedures to be followed for contamination avoidance as well as for decontamination;
+   - (iii) procedures to be followed for contamination avoidance as well as for decontamination;
 
-- (iv). procedures to be followed in case of an accident or in case of other emergencies, including a briefing on emergency signals, routes and exits as well as on the location of emergency meeting points and of medical facilities;
+   - (iv) procedures to be followed in case of an accident or in case of other emergencies, including a briefing on emergency signals, routes and exits as well as on the location of emergency meeting points and of medical facilities;
 
-- (v). occupational safety monitoring procedures implemented at the facility and the current status of the facility in this respect;
+   - (v) occupational safety monitoring procedures implemented at the facility and the current status of the facility in this respect;
 
-- (b). any additional (local) health and safety measures or regulations that need to be observed during the inspection.
+- (b) any additional (local) health and safety measures or regulations that need to be observed during the inspection.
 
 4. Upon request, the inspection team shall certify the receipt of any such information referred to in paragraph 3 above which has been provided in written form. If requested by the inspection team, detailed reasons for measures related to paragraph 3, subparagraph (a)(ii) of this Section shall be provided, as well as, in case of limitations, alternatives for the fulfilment of the verification requirements.
 
@@ -110,11 +83,11 @@ The specific arrangements in accordance with the OPCW Media and Public Affairs P
 
 Upon arrival at the facility and before commencing inspection activity, the inspection team shall, in accordance with paragraph 37 of Part II of the Verification Annex, be briefed by the facility representatives. This briefing shall include the following:
 
-- (a). any changes or amplifications to the information declared by the inspected State Party in relation to the facility or contained in this Agreement;
+- (a) any changes or amplifications to the information declared by the inspected State Party in relation to the facility or contained in this Agreement;
 
-- (b). the topics of information for the pre-inspection briefing contained in Part A of Attachment 6 to this Agreement;
+- (b) the topics of information for the pre-inspection briefing contained in Part A of Attachment 6 to this Agreement;
 
-- (c). any information about the facility that the inspected State Party has volunteered to provide to the inspection team during the pre-inspection briefing, together with indications of which information may be transferred off-site in accordance with Part B of Attachment 6 to this Agreement.
+- (c) any information about the facility that the inspected State Party has volunteered to provide to the inspection team during the pre-inspection briefing, together with indications of which information may be transferred off-site in accordance with Part B of Attachment 6 to this Agreement.
 
 ##### Section 7. Conduct of the Inspection
 
@@ -180,41 +153,9 @@ This Agreement shall enter into force upon signature, subject to approval by the
 
 This Agreement shall cease to be in force when, as determined by the Executive Council, the relevant provisions of Article VI of the Convention and Part VI of the Verification Annex no longer apply to this facility.
 
-## Part A
-
-## Part B
-
-## Part A. Equipment referred to in paragraph 1 of Section 5 of this Agreement
-
-## Part B. Equipment referred to in paragraph 3 of Section 5 of this Agreement
-
-## Part C
-
-## Part D
-
-## Part E
-
-## Part A
-
-## Part B
-
-## Part A
-
-## Part B
-
-## Part C
-
-## Part D
-
-## Part E
-
-## Part A
-
-## Part B. Distribution of costs for provision of amenities by the inspected State Party (tick one option for each amenity provided as appropriate)
-
 DONE at The Hague in duplicate on 12 October 1998, in the English language.
 
-**For the Kingdom of the Netherlands**
+*For the Kingdom of the Netherlands*
 
 (sd.) M. E. C. GEVERS
 
@@ -224,7 +165,7 @@ Ambassador, Permanent
 
 Representative to the OPCW
 
-**For the OPCW**
+*For the OPCW*
 
 (sd.) J. M. BUSTANI
 

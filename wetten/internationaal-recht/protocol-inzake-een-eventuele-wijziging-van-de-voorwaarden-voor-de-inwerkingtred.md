@@ -1,38 +1,18 @@
 ---
 title: "Protocol inzake een eventuele wijziging van de voorwaarden voor de inwerkingtreding van het Akkoord betreffende Gemeenschapsoctrooien"
 identifier: "BWBV0002882"
-country: "nl"
-rank: "verdrag"
-publication_date: "1989-12-15"
-last_updated: "1989-12-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002882"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003199783"
-version_id: "10003213802"
-internal_id: "C10006985241"
-label_id: "10003186964"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002882/1989-12-15/0"
-intitule_bron: "Trb.1990-121"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-08-20"
-intitule_published: "1990-08-24"
-intitule_status: "nogniet"
-original_publication: "Trb.1990-121"
-original_signed_date: "1992-08-20"
-original_published_date: "1990-08-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1990-121"
-jci_1_3: "jci1.3:c:BWBV0002882&z=1989-12-15&g=1989-12-15"
-jci_1_0: "1.0:c:BWBV0002882&g=1989-12-15"
-citeertitel_status: "officieel"
-signed_date: "1992-08-20"
-entry_into_force: "1990-08-24"
+laatste_update: 1989-12-15
+status: geldig
+toestand: 1989-12-15
+bron: "https://wetten.overheid.nl/BWBV0002882"
+opgehaald: 2026-09-12
 ---
+
 # Protocol inzake een eventuele wijziging van de voorwaarden voor de inwerkingtreding van het Akkoord betreffende Gemeenschapsoctrooien
 
-## DEEL EERSTE. ALGEMENE BEPALINGEN
+### DEEL EERSTE. ALGEMENE BEPALINGEN
 
 ##### Artikel 1. Gemeenschapsoctrooirechtbanken
 
@@ -122,7 +102,7 @@ De leiding van het Gemeenschappelijk Hof van Beroep berust bij zijn President. D
 
 Het Gemeenschappelijk Hof van Beroep stelt zijn reglement voor de procesvoering op waarin onder meer het taalgebruik van het Hof wordt bepaald. Het reglement voor de procesvoering wordt met eenparigheid van stemmen goedgekeurd door de Administratieve Commissie.
 
-## DEEL TWEEDE. BEPALINGEN INZAKE INTERNATIONALE RECHTERLIJKE BEVOEGDHEID EN TENUITVOERLEGGING
+### DEEL TWEEDE. BEPALINGEN INZAKE INTERNATIONALE RECHTERLIJKE BEVOEGDHEID EN TENUITVOERLEGGING
 
 ##### Artikel 13. Toepassing van het Bevoegdheids- en Executieverdrag
 
@@ -148,7 +128,7 @@ Het Gemeenschappelijk Hof van Beroep stelt zijn reglement voor de procesvoering 
 
 5. Met uitzondering van rechtsvorderingen ter verkrijging van een verklaring van niet-inbreuk op een Gemeenschapsoctrooi kunnen de in dit Protocol bedoelde procedures ook aanhangig worden gemaakt bij de rechterlijke instanties van de Verdragsluitende Staat waar de inbreuk heeft plaatsgevonden of dreigde plaats te vinden, of waar een onder artikel 15, eerste lid, sub c), vallende handeling is verricht.
 
-## DEEL DERDE. EERSTE AANLEG
+### DEEL DERDE. EERSTE AANLEG
 
 ##### Artikel 15. Bevoegdheid ter zake van inbreuk en geldigheid
 
@@ -176,9 +156,9 @@ De Gemeenschapsoctrooirechtbank van eerste aanleg waarbij een tegenvordering tot
 
 1. Een krachtens artikel 14, eerste tot en met vierde lid, bevoegde Gemeenschapsoctrooirechtbank van eerste aanleg is bevoegd terzake van
 
-- -. inbreuken of dreigende inbreuken op het grondgebied van een Verdragsluitende Staat,
+- - inbreuken of dreigende inbreuken op het grondgebied van een Verdragsluitende Staat,
 
-- -. onder artikel 15, eerste lid, sub c), vallende handelingen verricht op het grondgebied van een Verdragsluitende Staat.
+- - onder artikel 15, eerste lid, sub c), vallende handelingen verricht op het grondgebied van een Verdragsluitende Staat.
 
 2. Een Gemeenschapsoctrooirechtbank van eerste aanleg die krachtens artikel 14, vijfde lid, bevoegd is, heeft alleen bevoegdheid ter zake van handelingen die worden verricht of dreigen te worden verricht op het grondgebied van de Staat waar die rechtbank gevestigd is.
 
@@ -210,7 +190,7 @@ Indien de beslissing over een rechtsvordering die aanhangig is gemaakt bij een G
 
 Een in kracht van gewijsde gegane beslissing van een Gemeenschapsoctrooirechtbank van eerste aanleg tot vernietiging of wijziging van een Gemeenschapsoctrooi heeft, behoudens artikel 56, derde lid, van het Gemeenschapsoctrooiverdrag, in alle Verdragsluitende Staten de gevolgen bedoeld in artikel 33 van dat Verdrag.
 
-## DEEL VIERDE. TWEEDE AANLEG
+### DEEL VIERDE. TWEEDE AANLEG
 
 ##### Artikel 21. Bevoegdheid van de Gemeenschapsoctrooirechtbanken van tweede aanleg
 
@@ -260,7 +240,7 @@ Een beslissing van het Gemeenschappelijk Hof van Beroep is bindend bij de verder
 
 3. Indien het Gemeenschappelijk Hof van Beroep een beslissing heeft gegeven overeenkomstig het eerste of het tweede lid zendt het een afschrift hiervan aan het Europees Octrooibureau. Elke partij kan om inlichtingen over deze toezending verzoeken.
 
-## DEEL VIJFDE. DERDE AANLEG EN PREJUDICIELE BESLISSINGEN
+### DEEL VIJFDE. DERDE AANLEG EN PREJUDICIELE BESLISSINGEN
 
 ##### Artikel 29. Beroep in cassatie bij nationale rechterlijke instanties
 
@@ -280,7 +260,7 @@ Het nationale recht inzake beroep in cassatie is van toepassing op beslissingen 
 
 4. De term „rechterlijke instantie” omvat mede de autoriteiten bedoeld in artikel 70 van het Gemeenschapsoctrooiverdrag.
 
-## DEEL ZESDE. GEMEENSCHAPPELIJKE BEPALINGEN VOOR DE GEMEENSCHAPSOCTROOIRECHTBANKEN VAN EERSTE EN TWEEDE AANLEG
+### DEEL ZESDE. GEMEENSCHAPPELIJKE BEPALINGEN VOOR DE GEMEENSCHAPSOCTROOIRECHTBANKEN VAN EERSTE EN TWEEDE AANLEG
 
 ##### Artikel 31. Eisen waaraan de rechters moeten voldoen
 
@@ -320,7 +300,7 @@ De rechters van de Gemeenschapsoctrooirechtbanken moeten ervaring met octrooirec
 
 3. Het Gemeenschappelijk Hof van Beroep is niet bevoegd voorlopige en beschermende maatregelen te bevelen en bij het Gemeenschappelijk Hof van Beroep staat tegen een beslissing waarbij zulke maatregelen worden bevolen, geen beroep open.
 
-## DEEL ZEVENDE. OVERGANGSBEPALINGEN
+### DEEL ZEVENDE. OVERGANGSBEPALINGEN
 
 ##### Artikel 37. Procedures waarop het Protocol van toepassing is
 
@@ -335,407 +315,3 @@ De bepalingen van het Bevoegdheids- en Executieverdrag, die krachtens de voorgaa
 1. Gedurende een overgangsperiode die op een door de Administratieve Commissie te bepalen tijdstip verstrijkt, kan de Administratieve Commissie, overeenkomstig artikel 5, eerste lid, het aantal rechters van het Gemeenschappelijk Hof van Beroep vaststellen op een aantal dat kleiner is dan het aantal Verdragsluitende Staten.
 
 2. Gedurende de in het eerste lid bedoelde overgangsperiode kunnen de vertegenwoordigers van de Regeringen van de Verdragsluitende Staten personen die aan de nodige eisen voldoen om in hun Staat een rechterlijk ambt te bekleden en ervaring hebben met octrooirecht, tot rechter van het Gemeenschappelijk Hof van Beroep benoemen. De rechters kunnen hun werkzaamheden in hun eigen land of in internationale organisaties voortzetten. Zij kunnen voor een periode van minder dan zes jaar en ten minste een jaar worden aangesteld. Zij zijn herbenoembaar.
-
-##### Artikel 1
-
-1. De kantoorruimten van het Gemeenschappelijk Hof van Beroep, hierna genoemd „het Hof”, zijn onschendbaar.
-
-2. De autoriteiten van een Staat op het grondgebied waarvan het Hof zijn kantoorruimten heeft, kunnen deze ruimten slechts betreden met toestemming van de President van het Hof of van diens vertegenwoordiger. Deze toestemming wordt geacht te zijn verkregen bij brand of bij enig ander ongeval waarbij maatregelen ter bescherming dienen te worden genomen.
-
-3. Het betekenen ten kantore van het Hof van processtukken welke betrekking hebben op een tegen het Hof gerichte rechtsvordering vormt geen inbreuk op de onschendbaarheid.
-
-##### Artikel 2
-
-De archieven van het Hof en documenten die het Hof toebehoren of die onder zich heeft, zijn onschendbaar.
-
-##### Artikel 3
-
-1. In het kader van zijn officiële werkzaamheden geniet het Hof immuniteit van rechtsmacht behoudens:
-
-- a. voor zover het Hof in een bijzonder geval uitdrukkelijk afstand heeft gedaan van deze immuniteit met dien verstande dat het Hof hiertoe verplicht is wanneer deze immuniteit de normale rechtsbedeling verhindert en het Hof van de immuniteit kan afzien zonder zijn belangen te schaden;
-
-- b. met betrekking tot een door derden ingediende civiele rechtsvordering ter zake van schade die voortvloeit uit een ongeval dat is veroorzaakt door een aan het Hof toebehorend of namens het Hof gebruikt voertuig, of met betrekking tot een verkeersovertreding waarbij een zodanig voertuig betrokken is;
-
-- c. met betrekking tot een beslag krachtens een beslissing van de gerechtelijke of administratieve autoriteiten, bedoeld in artikel V bis van het Protocol bij het Verdrag van 27 september 1968 betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, zoals gewijzigd door het Toetredingsverdrag van 9 oktober 1978, op salarissen en emolumenten, met inbegrip van pensioenen, door het Hof aan een personeelslid of een gewezen personeelslid verschuldigd;
-
-- d. met betrekking tot een civiele rechtsvordering op grond van een verplichting van het Hof uit overeenkomst, de arbeidsovereenkomst met een personeelslid daaronder begrepen;
-
-- e. indien het Hof in rechte als eiser optreedt en gedaagde een tegenvordering instelt, die rechtstreeks verband houdt met de hoofdzaak.
-
-2. In de zin van dit Protocol worden onder officiële werkzaamheden van het Hof die werkzaamheden verstaan welke strikt noodzakelijk zijn voor de uitvoering van zijn taken zoals die zijn vastgesteld in het Protocol betreffende de beslechting van geschillen inzake inbreuken op en de geldigheid van Gemeenschapsoctrooien.
-
-##### Artikel 4
-
-1. Eigendommen en activa van het Hof, ongeacht waar deze zich bevinden, zijn vrij van vordering, verbeurdverklaring, onteigening, sekwestratie en executie, voor zover op de immuniteit van het Hof geen uitzondering wordt gemaakt op grond van een in artikel 3, eerste lid, sub a tot en met e, genoemd feit.
-
-2. Eigendommen en activa van het Hof zijn eveneens vrije van elke vorm van administratieve of voorlopige gerechtelijke dwang, behalve voor zover deze tijdelijk geboden zouden zijn in verband met de preventie van ongevallen waarbij motorvoertuigen betrokken zijn, die toebehoren aan het Hof of namens het Hof worden gebruikt, en het instellen van een onderzoek naar de toedracht van die ongevallen; dit behoudens de uitsluiting van de immuniteit van het Hof krachten artikel 3, eerste lid, sub a tot en met e.
-
-##### Artikel 5
-
-1. In het kader van zijn officiële werkzaamheden zijn het Hof, zijn bezittingen en zijn inkomsten vrijgesteld van alle directe belastingen.
-
-2. Wanneer het Hof voor het verrichten van zijn officiële werkzaamheden belangrijke aankopen doet in de prijs waarvan belastingen of rechten begrepen zijn, worden door de Verdragsluitende Staten zo mogelijk passende maatregelen genomen om het met deze belastingen of rechten gemoeide bedrag terug te betalen of het Hof van de verplichting tot betaling daarvan te ontheffen.
-
-3. Geen vrijstelling wordt verleend ten aanzien van belastingen en rechten die in feite niet anders zijn dan een vergoeding voor diensten van openbaar nut.
-
-##### Artikel 6
-
-Goederen die door het Hof worden ingevoerd of uitgevoerd voor het verrichten van zijn officiële werkzaamheden, zijn vrijgesteld van alle in- en uitvoerrechten en -heffingen, andere dan rechten of herringen die betrekking hebben op verleende diensten, alsmede van alle in- en uitvoerverboden en -beperkingen.
-
-##### Artikel 7
-
-Geen vrijstelling op grond van de artikelen 5 en 6 wordt verleend ten gerieve van de rechters, de ambtenaren en andere personeelsleden van het Hof persoonlijk.
-
-##### Artikel 8
-
-1. Aan het Hof toebehorende goederen die zijn verworven of ingevoerd overeenkomstig artikel 5 of 6, mogen uitsluitend worden verkocht of overgedragen overeenkomstig de voorwaarden vastgesteld door de Verdragsluitende Staten die de vrijstellingen hebben verleend.
-
-2. De overdracht van goederen en het verlenen van diensten tussen de verschillende gebouwen van het Hof zijn vrij van alle heffingen of beperkingen; in voorkomende gevallen nemen de Verdragsluitende Staten alle passende maatregelen om het met deze heffing gemoeide bedrag terug te betalen of de betrokkenen van de verplichting tot betaling daarvan te ontheffen, of om deze beperkingen op te heffen.
-
-##### Artikel 9
-
-De verzending van geschriften door of aan het Hof wordt op geen enkele wijze beperkt.
-
-##### Artikel 10
-
-Het Hof kan, zonder onderworpen te zijn aan enige controle, regeling of uitstel van betaling:
-
-- a. gelden en deviezen van elke aard ontvangen en bezitten en rekeningen aanhouden in elke munt van de Lid-Staten van de Gemeenschap of in Europese rekeneenheden,
-
-- b. zijn gelden en deviezen vrijelijk overmaken van een Lid-Staat van de Europese Gemeenschappen naar een andere Lid-Staat of naar een derde staat.
-
-##### Artikel 11
-
-1. Het Hof geniet voor zijn officiële mededelingen en het overbrengen van al zijn documenten op het grondgebied van elke Verdragsluitende Staat de behandeling, welke door deze Staat aan het Hof van Justitie van de Europese Gemeenschappen wordt toegestaan.
-
-2. De officiële correspondentie en andere officiële mededelingen van het Hof zijn niet aan censuur onderworpen.
-
-##### Artikel 12
-
-De Verdragsluitende Staten nemen alle gepaste maatregelen waardoor het binnenkomen, het verblijf en het vertrek van de rechters, ambtenaren en andere personeelsleden van het Hof worden vergemakkelijkt.
-
-##### Artikel 13
-
-1. De leden van de Administratieve Commissie, hun plaatsvervangers, adviseurs en deskundigen genieten, bij de vergaderingen van de Administratieve Commissie of ieder orgaan dat door deze Commissie is ingesteld alsmede op hun reizen naar de plaats van samenkomst en terug, de volgende voorrechten en immuniteiten:
-
-- a. immuniteit van arrestatie en gevangenhouding, alsmede van inbeslagneming van persoonlijke bagage, behalve wanneer zij op heterdaad betrapt worden;
-
-- b. vrijstelling van rechtsvervolging, ook na beëindiging van hun missie, met betrekking tot handelingen, waaronder begrepen gesproken en geschreven woorden, door hen in de uitoefening van hun functie verricht; deze vrijstelling geldt evenwel niet in geval van een door een van de hierboven bedoelde personen begane verkeersovertredingen of in geval van schade veroorzaakt door een motorvoertuig dat hem toebehoort of dat door hem werd bestuurd;
-
-- c. onschendbaarheid van al hun officiële papieren en documenten;
-
-- d. het recht codes te gebruiken en documenten of correspondentie te ontvangen per speciale koerier of in een verzegelde tas;
-
-- e. vrijstelling van henzelf en hun echtgenoten van alle maatregelen die de de binnenkomst van vreemdelingen beperken alsmede van de aan de registratie van vreemdelingen verbonden formaliteiten;
-
-- f. dezelfde faciliteiten ter zake van valuta- en deviezenbepalingen als die welke worden verleend aan de vertegenwoordigers van buitenlandse Regeringen die met een tijdelijke officiële missie zijn belast.
-
-2. Voorrechten en immuniteiten worden aan de in het eerste lid bedoelde personen niet verleend in hun persoonlijk belang, doch met het doel hun volledige onafhankelijkheid te waarborgen bij de uitoefening van hun functie in verband met het Hof. Derhalve heeft een Verdragsluitende Staat de plicht de immuniteit op te heffen telkens wanneer, naar het oordeel van die Staat, de immuniteit aan de loop van het recht in de weg zou staan, en er afstand van kan worden gedaan, zonder de doeleinden waarvoor zij was toegekend, in gevaar te brengen.
-
-##### Artikel 14
-
-De rechters, de ambtenaren en de andere personeelsleden van het Hof:
-
-- a. genieten, ook nadat zij hun functies beëindigd hebben, vrijstelling van rechtsvervolging met betrekking tot handelingen, waaronder begrepen gesproken en geschreven woorden, door hen in de uitoefening van hun functie verricht; deze immuniteit geldt evenwel niet in geval van een verkeersovertreding begaan door een rechter, een ambtenaar of een ander personeelslid van het Hof, noch in geval van schade die is veroorzaakt door een motorvoertuig dat toebehoort aan of bestuurd werd door een rechter, een ambtenaar of een ander personeelslid;
-
-- b. zijn vrijgesteld van alle verplichtingen met betrekking tot de militaire dienst;
-
-- c. genieten onschendbaarheid met betrekking tot al hun officiële papieren en documenten;
-
-- d. genieten, evenals hun inwonende gezinsleden, dezelfde faciliteiten ten aanzien van vrijstelling van alle maatregelen die de immigratie beperken en de inschrijving van vreemdelingen regelen, als die welke in het algemeen worden toegekend aan personeelsleden van internationale organisaties;
-
-- e. genieten dezelfde voorrechten met betrekking tot deviezenregelingen als die welke in het algemeen worden toegekend aan personeelsleden van internationale organisaties;
-
-- f. genieten bij een internationale crisis, wat terugkeer naar hun vaderland betreft, dezelfde faciliteiten als die welke aan diplomatieke vertegenwoordigers worden toegekend; hun inwonende gezinsleden genieten dezelfde faciliteiten;
-
-- g. zijn gerechtigd om de eerste maal dat zij hun werkzaamheden in de betrokken Staat aanvangen, hun huisraad en persoonlijke bezittingen vrij van rechten in te voeren, en bij het beëindigen van hun functie in die Staat hun huisraad en persoonlijke bezittingen vrij van rechten uit te voeren, met inachtneming van de voorwaarden welke de Regering van de Staat op het grondgebied waarvan dit recht wordt uitgeoefend als noodzakelijk beschouwt en met uitzondering van de goederen welke in die Staat zijn aangeschaft en waarvoor aldaar een uitvoerverbod bestaat.
-
-##### Artikel 15
-
-1. Onder de voorwaarden en op de wijze zoals die door de Administratieve Commissie worden vastgesteld binnen eenjaar na de inwerkingtreding van het Akkoord betreffende Gemeenschapsoctrooien, zijn de in artikel 14 bedoelde personen onderworpen aan een belasting ten gunste van het Hof op de door het Hof betaalde salarissen en emolumenten. Vanaf de datum waarop deze belasting ingaat zijn deze salarissen en emolumenten vrij van nationale inkomstenbelasting. De Verdragsluitende Staten kunnen evenwel met deze salarissen en emolumenten wel rekening houden bij de berekening van de belasting die verschuldigd is over inkomsten uit andere bronnen.
-
-2. Het eerste lid is niet van toepassing op de pensioenen en jaargelden die door het Hof worden betaald aan voormalige rechters, ambtenaren en andere personeelsleden van het Hof.
-
-##### Artikel 16
-
-De Administratieve Commissie bepaalt op welke categorieën ambtenaren en andere personeelsleden het bepaalde in artikel 14, geheel of gedeeltelijk, en het bepaalde in artikel 15 van toepassing is. De namen, hoedanigheden en adressen van ambtenaren en andere personeelsleden van die categorieën, alsmede van de rechters, worden op gezette tijden aan de Verdragsluitende Staten medegedeeld.
-
-##### Artikel 17
-
-Indien het Hof een eigen systeem voor sociale verzekering instelt, zijn het Hof en de rechters, ambtenaren en andere personeelsleden van het Hof vrijgesteld van alle verplichte bijdragen aan nationale sociale verzekeringsorganen, behoudens de overeenkomsten die het Hof met de Verdragsluitende Staten sluit overeenkomstig het bepaalde in artikel 23.
-
-##### Artikel 18
-
-1. De voorrechten en immuniteiten waarin dit Protocol voorziet, zijn niet bedoeld om de rechters, ambtenaren en andere personeelsleden van het Hof tot persoonlijk voordeel te strekken. Zij beogen uitsluitend het onbelemmerd functioneren van het Hof, onder alle omstandigheden, alsmede de volledige onafhankelijkheid van de personen aan wie zij worden toegekend.
-
-2. Het Hof in voltallige zitting heeft de plicht de immuniteit op te heffen, indien het van oordeel is dat deze immuniteit de loop van het recht in de weg staat, en indien het mogelijk is deze immuniteit op te heffen zonder de belangen van het Hof in gevaar te brengen.
-
-##### Artikel 19
-
-Ingeval tegen een rechter wiens immuniteit is opgeheven, een strafvervolging wordt ingesteld, kan hij in elk der Lid-Staten slechts worden berecht door de instantie, welke bevoegd is tot berechting van de leden van het hoogste nationale rechterlijke college.
-
-##### Artikel 20
-
-1. Het Hof werkt voortdurend samen met de bevoegde autoriteiten van de Verdragsluitende Staat ter bevordering van een goede rechtspleging, ter verzekering van de naleving van politievoorschriften en van voorschriften met betrekking tot de volksgezondheid, de arbeidsinspectie of andere soortgelijke nationale wetten, alsmede ter voorkoming van misbruik van de in dit Protocol bedoelde voorrechten, immuniteiten en faciliteiten.
-
-2. De procedure te volgen bij de in het eerste lid genoemde samenwerking kan worden neergelegd in de in artikel 23 bedoelde aanvullende overeenkomsten.
-
-##### Artikel 21
-
-Elke Verdragsluitende Staat behoudt het recht alle voorzorgen te treffen die nodig zijn in het belang van zijn veiligheid.
-
-##### Artikel 22
-
-Geen enkele Verdragsluitende Staat is verplicht de in de artikelen 13 en 14, sub b, e en g, bedoelde voorrechten en immuniteiten toe te kennen aan zijn eigen onderdanen en ingezetenen.
-
-##### Artikel 23
-
-Het Hof kan, bij besluit van de Administratieve Commissie, met een of meer Verdragsluitende Staten aanvullende overeenkomsten aangaan ten einde uitvoering te geven aan de bepalingen van dit Protocol met betrekking tot die Staat of die Staten, alsmede andere regelingen treffen ter waarborging van een goede werking van het Hof en ter bescherming van zijn belangen.
-
-##### Artikel 1
-
-Het krachtens artikel 2 van het Protocol betreffende de beslechting van geschillen, inzake inbreuken op en de geldigheid van Gemeenschapsoctrooien, hierna genoemd „Geschillenprotocol”, ingestelde Gemeenschappelijk Hof van Beroep, hierna genoemd „Hof”, wordt samengesteld en oefent zijn functies uit overeenkomstig de bepalingen van het Geschillenprotocol en van dit Protocol.
-
-## DEEL I. RECHTERS
-
-##### Artikel 2
-
-Alvorens zijn ambt te aanvaarden, moet iedere rechter in openbare zitting de eed afleggen dat hij zijn functie zal uitoefenen in volkomen onpartijdigheid en geheel overeenkomstig zijn geweten en dat hij niets van het geheim der beraadslagingen openbaar zal maken.
-
-##### Artikel 3
-
-De rechters mogen geen politieke functie of bestuursambt uitoefenen.
-
-Zij mogen geen beroepswerkzaamheid al dan niet tegen beloning verrichten, tenzij van deze bepaling door de Administratieve Commissie bij uitzondering afwijking is toegestaan.
-
-Bij hun ambtsaanvaarding verbinden zij zich plechtig om gedurende hun ambtsperiode en na afloop daarvan de uit hun taak voortvloeiende verplichtingen na te komen, in het bijzonder eerlijkheid en kiesheid te betrachten in het aanvaarden van bepaalde functies of voordelen na afloop van die ambtsperiode.
-
-In geval van twijfel beslist het Hof van Justitie van de Europese Gemeenschappen.
-
-##### Artikel 4
-
-Behalve door periodieke vervanging of door overlijden eindigt de ambtsuitoefening van een rechter door ontslag.
-
-Ingeval een rechter ontslag vraagt, richt hij daartoe tot de President van het Hof een brief die aan de Voorzitter van de Administratieve Commissie wordt doorgezonden. Door laatstbedoelde kennisgeving ontstaat een vacature.
-
-Behoudens in gevallen waarin artikel 5 toepassing vindt, blijft elke rechter zitting hebben totdat zijn opvolger in functie treedt.
-
-##### Artikel 5
-
-Een rechter kan slechts van zijn ambt worden ontheven of van zijn recht op pensioen of van andere als zodanig geldende gunsten vervallen worden verklaard, wanneer hij, naar het oordeel van een drie vierde meerderheid van de rechters van het Hof van Justitie van de Europese Gemeenschappen heeft opgehouden aan de gestelde voorwaarden of aan de uit zijn ambt voortvloeiende verplichtingen te voldoen.
-
-De ontheffingsprocedure wordt ingeleid door de instantie die daartoe in het reglement voor de procesvoering wordt aangewezen.
-
-De President van het Hof van Justitie van de Europese Gemeenschappen geeft van de beslissing kennis aan de Voorzitter van de Administratieve Commissie.
-
-Wordt beslist dat een rechter van zijn ambt wordt ontheven, dan ontstaat door laatstbedoelde kennisgeving een vacature.
-
-##### Artikel 6
-
-De rechters wier ambtsuitoefening vóór het verstrijken van hun mandaat eindigt, worden voor de verdere duur van het mandaat vervangen.
-
-## DEEL II. ORGANISATIE
-
-##### Artikel 7
-
-In het belang van de dienst worden aan het Hof ambtenaren en andere personeelsleden verbonden. Zij ressorteren onder de President van het Hof.
-
-##### Artikel 8
-
-De rechters zijn verplicht verblijf te houden in de plaats waar het Hof zijn zetel heeft.
-
-##### Artikel 9
-
-Het Hof is permanent in functie. De rechterlijke vakanties worden door het Hof met inachtneming van de eisen van de dienst vastgesteld.
-
-##### Artikel 10
-
-Het voltallige Hof en zijn kamers kunnen slechts in oneven getal op geldige wijze beslissen.
-
-De beslissingen van het voltallige Hof zijn geldig wanneer het kleinste oneven aantal leden boven de helft van het ledental van het Hof zitting houdt.
-
-De beslissingen van de kamers zijn geldig wanneer zij door drie rechters zijn genomen; in geval van verhindering van een der rechters van een kamer kan overeenkomstig de in het reglement voor de procesvoering vastgestelde bepalingen, een beroep worden gedaan op een rechter van een andere kamer.
-
-##### Artikel 11
-
-De rechters mogen niet deelnemen aan de berechting van enige zaak waarin zij vroeger zijn opgetreden als raadsman of advocaat van een van beide partijen, of waarover zij geroepen zijn geweest zich uit te spreken als lid van een rechtbank, van een commissie van onderzoek of in enige andere hoedanigheid.
-
-Wanneer een rechter om een bijzondere reden meent niet te kunnen deelnemen aan de berechting of het onderzoek van een bepaalde zaak, deelt hij dit aan de President mee. Ingeval de President van oordeel is dat een rechter om een bijzondere reden niet over een bepaalde zaak dient te zitten, stelt hij de betrokkene hiervan in kennis.
-
-Een rechter kan door elke partij worden gewraakt om een van de in eerste alinea genoemde redenen of op verdenking van partijdigheid.
-
-Partijen kunnen geen wijziging in de samenstelling van het Hof of van een van zijn kamers verlangen met een beroep op de nationaliteit van een rechter, of op het feit dat in het Hof of in een van zijn kamers een rechter van zijn nationaliteit ontbreekt.
-
-Levert de toepassing van dit artikel moeilijkheden op, dan beslist het Hof.
-
-##### Artikel 12
-
-De Partijen worden voor het Hof vertegenwoordigd door een bij de balie van een van de Verdragsluitende Staten ingeschreven advocaat.
-
-De advocaat kan zich doen bijstaan door een technisch raadsman die een op de lijst van het Europees Octrooibureau ingeschreven erkende gemachtigde is, die overeenkomstig artikel 62 van het Gemeenschapsoctrooiverdrag bevoegd is voor de bijzondere organen van het Europees Octrooibureau op te treden, of door een technisch raadsman die in een Verdragsluitende Staat erkend is als octrooigemachtigde. Deze technische raadsman kan overeenkomstig het reglement voor de procesvoering bij de mondelinge behandeling het woord voeren.
-
-De advocaten en technische raadslieden die voor het Hof verschijnen, genieten de voor de onafhankelijke uitoefening van hun functies nodige rechten en waarborgen overeenkomstig de in het reglement voor de procesvoering vast te stellen bepalingen.
-
-Ten aanzien van de advocaten en technische raadslieden die voor het Hof optreden, bezit het Hof overeenkomstig de in het reglement voor de procesvoering vast te stellen bepalingen de bevoegdheden, welke ter zake gewoonlijk aan gerechtshoven en rechtbanken worden toegekend.
-
-##### Artikel 13
-
-De procedure voor het Hof bestaat uit twee gedeelten: de schriftelijke en de mondelinge behandeling.
-
-De schriftelijke behandeling omvat het toezenden aan de bij de procedure betrokkenen van de verzoekschriften, memoriën, verweerschriften en andere opmerkingen en conclusies alsmede van alle stukken en documenten welke ter ondersteuning in het geding worden gebracht of van hun voor eensluidend gewaarmerkte afschriften.
-
-De toezending geschiedt door tussenkomst van de griffie in de volgorde en binnen de termijnen als bepaald in het reglement voor de procesvoering.
-
-De mondelinge behandeling bestaat uit de voorlezing van het rapport van de rechter-rapporteur, het horen door het Hof van advocaten en technische raadslieden, en zo nodig, het horen van getuigen en deskundigen.
-
-##### Artikel 14
-
-Het Hof kan partijen verzoeken alle stukken over te leggen en alle inlichtingen te verstrekken, welke het wenselijk acht. In geval van weigering neemt het Hof hiervan akte.
-
-##### Artikel 15
-
-Nieuw bewijsmateriaal kan voor het Hof worden aangevoerd overeenkomstig het reglement voor de procesvoering.
-
-##### Artikel 16
-
-Het Hof is bevoegd te allen tijde een deskundig onderzoek op te dragen aan personen, lichamen, bureaus, commissies of organen te zijner keuze.
-
-##### Artikel 17
-
-Getuigen kunnen worden gehoord overeenkomstig de bepalingen van het reglement voor de procesvoering.
-
-##### Artikel 18
-
-Ten aanzien van gebrekige getuigen en deskundigen geniet het Hof dezelfde bevoegdheden als op dit gebied in de regel zijn toegekend aan gerechtshoven en rechtbanken, en kan het Hof geldboeten opleggen overeenkomstig het reglement voor de procesvoering.
-
-##### Artikel 19
-
-Getuigen en deskundigen kunnen onder ede worden gehoord zoals in het reglement voor de procesvoering bepaald is of op de wijze die in de nationale wetgeving van de getuige of de deskundige voorgeschreven is.
-
-##### Artikel 20
-
-Het Hof kan bevelen dat een getuige of deskundige door de rechterlijke instantie van zijn woonplaats wordt gehoord.
-
-Dit bevel wordt ter uitvoering gericht tot de bevoegde rechterlijke instantie overeenkomstig het reglement voor de procesvoering. De stukken ter uitvoering van de rogatoire commissie worden op dezelfde wijze aan het Hof teruggezonden.
-
-Het Hof draagt de kosten, maar deze kunnen waar nodig ten laste van partijen worden gebracht.
-
-##### Artikel 21
-
-Elke Verdragsluitende Staat beschouwt iedere schending van de eed van getuigen en deskundigen als het overeenkomstige strafbare feit bedreven voor een nationale rechtbank die in burgerlijke zaken recht doet. Op aangifte van het Hof vervolgt hij de daders van dit strafbare feit voor de bevoegde nationale rechterlijke instantie.
-
-##### Artikel 22
-
-De zittingen zijn openbaar, tenzij het Hof ambtshalve of op verzoek van partijen om gewichtige redenen anders beslist.
-
-##### Artikel 23
-
-Tijdens een mondelinge behandeling kan het Hof de deskundigen, de getuigen en de partijen zelf, horen. Deze laatste kunnen evenwel slechts pleiten bij monde van haar vertegenwoordigers.
-
-##### Artikel 24
-
-Van iedere zitting wordt proces-verbaal opgemaakt, dat door de President en een lid van de griffie wordt ondertekend.
-
-##### Artikel 25
-
-De rol der terechtzitting wordt door de President vastgesteld.
-
-##### Artikel 26
-
-De beraadslagingen van het Hof zijn en blijven geheim.
-
-##### Artikel 27
-
-De beslissing van het Hof is met redenen omkleed. Zij vermeldt de namen van de rechters die hebben beslist.
-
-##### Artikel 28
-
-De beslissing van het Hof wordt ondertekend door de President en een lid van de griffie. Zij wordt uitgesproken ter openbare zitting.
-
-##### Artikel 29
-
-Het Hof kan eenieder die aannemelijk maakt belang te hebben bij de beslissing van een voor het Hof aanhangig rechtsgeding, toestaan zich in dat rechtsgeding te voegen.
-
-De conclusies van het verzoek tot voeging kunnen slechts strekken tot ondersteuning van de conclusies van een der partijen.
-
-##### Artikel 30
-
-Termijnen wegens afstand worden in het reglement voor de procesvoering vastgesteld.
-
-Verval van instantie wegens het verstrijken van een procestermijn kan niet worden tegengeworpen wanneer de betrokkene toeval of overmacht aantoont.
-
-##### Artikel 31
-
-In geval van moeilijkheden nopens de betekenis en de strekking van een beslissing van het Hof krachtens artikel 28 van het Geschillenprotocol heeft het Hof tot taak dit uit te leggen, op verzoek van een der partijen welke haar belang ter zake aannemelijk maakt.
-
-##### Artikel 32
-
-Op de herziening van een overeenkomstig artikel 25 van het Geschillenprotocol gegeven beslissing van het Hof is van toepassing het recht van de Verdragsluitende Staat waarin de Gemeenschapsoctrooirechtbank van tweede aanleg die zich tot het Hof heeft gewend, gevestigd is. Artikel 23 van het Geschillenprotocol is ook op de herzieningsprocedure van toepassing.
-
-Op de herziening van een overeenkomstig artikel 28 van het Geschillenprotocol gegeven beslissing van het Hof is artikel 62, eerste lid, van het Gemeenschapsoctrooiverdrag in samenhang met artikel 125 van het Europees Octrooiverdrag van toepassing.
-
-##### Artikel 33
-
-Tenzij in het Akkoord betreffende Gemeenschapsoctrooien of in het nationale recht anders is bepaald, zullen het Hof en de rechterlijke of andere bevoegde instanties van de Verdragsluitende Staten elkaar op verzoek bijstaan door elkaar gegevens te verstrekken of inzage in dossiers te geven.
-
-##### Artikel 34
-
-Het in artikel 12 van het Geschillenprotocol bedoelde reglement voor de procesvoering van het Hof bevat, behalve de bepalingen van dit Protocol, alle andere bepalingen die nodig zijn voor de toepassing en voor zover nodig, de aanvulling van dit Protocol.
-
-De Hoge Verdragsluitende Partijen bij het Verdrag tot oprichting van de Europese Economische Gemeenschap,
-
-Gelet op het Akkoord betreffende Gemeenschapsoctrooien, gedaan te Luxemburg op 15 december 1989,
-
-Overwegende dat het van belang is dat het stelsel van Gemeenschapsoctrooien kan worden toegepast wanneer de interne markt een feit wordt,
-
-Overwegende dat er een procedure moet zijn waardoor dit doel bereikt kan worden indien zich moeilijkheden voordoen die de tijdige voltooiing van de in artikel 10 van het Akkoord bedoelde formaliteiten verhinderen, waarbij het einddoel evenwel de toepassing van het stelsel voor alle ondertekenende Staten blijft,
-
-Overwegende dat, indien van deze procedure gebruik wordt gemaakt, de werking van het door het Akkoord opgezette stelsel zou vereisen dat nog vóór de inwerkingtreding van het Akkoord ten aanzien van alle ondertekenende Staten, bevoegdheden inzake Gemeenschapsoctrooien worden verleend aan bepaalde Instellingen van de Europese Gemeenschappen,
-
-Zijn het volgende overeengekomen:
-
-##### Artikel 1
-
-Indien het Akkoord betreffende Gemeenschapsoctrooien, gedaan te Luxemburg op 15 december 1989, hierna genoemd „het Akkoord”, op 31 december 1991 niet in werking is getreden, wordt een Conferentie van de Vertegenwoordigers van de Regeringen der Lid-Staten van de Europese Economische Gemeenschap door de Voorzitter van de Raad van de Europese Gemeenschappen bijeengeroepen. Deze Conferentie wordt gemachtigd om met eenparigheid van stemmen het aantal Lid-Staten vast te stellen dat het Akkoord bekrachtigd moet hebben, alvorens het in werking kan treden.
-
-##### Artikel 2
-
-Indien de Conferentie overeenkomstig het vorige artikel een besluit neemt, zijn de volgende bepalingen van toepassing:
-
-- a. met betrekking tot Gemeenschapsoctrooien heeft het Hof van Justitie van de Europese Gemeenschappen de bevoegdheid die bij het Akkoord aan het Hof wordt verleend. Het Protocol betreffende het Statuut van het Hof van Justitie van de Europese Economische Gemeenschap en het reglement voor de procesvoering van het Hof van Justitie zijn van toepassing. Het reglement voor de procesvoering van het Hof wordt zo nodig overeenkomstig artikel 188 van het Verdrag tot oprichting van de Europese Economische Gemeenschap aangepast en aangevuld;
-
-- b. de andere in het Akkoord bedoelde Instellingen van de Europese Gemeenschappen alsmede de Rekenkamer, oefenen de bevoegdheden uit die bij het Akkoord aan die lichamen worden verleend;
-
-- c. bekrachtigingen na de inwerkingtreding van het Akkoord worden van kracht op de eerste dag van de derde maand na de nederlegging van de akte van bekrachtiging. Indien evenwel het Gemeenschapsoctrooiverdrag voor de betrokken Staat op een later tijdstip in werking treedt, treedt het Akkoord voor die Staat op de laatste datum in werking;
-
-- d. zolang het Akkoord ten aanzien van een ondertekenende Staat niet in werking is getreden, kan die Staat als waarnemer deelnemen aan vergaderingen van de Beperkte Commissie van de Raad van Bestuur van de Europese Octrooiorganisatie, hierna genoemd „Beperkte Commissie” en aan die van de Administratieve Commissie van het Gemeenschappelijk Hof Van Beroep, en kan hij in elk van deze organen voor dit doel een vertegenwoordiger en een plaatsvervangend vertegenwoordiger benoemen. Die Staat kan evenwel als volwaardig lid in het betrokken orgaan deelnemen indien:
-
-- -. dat orgaan optreedt overeenkomstig artikel 13, tweede zin, van het Akkoord; of
-
-- -. de Beperkte Commissie haar bevoegdheid bedoeld in artikel 16, eerste lid, van het Gemeenschapsoctrooiverdrag, uitoefent;
-
-- e. zolang het Akkoord voor een van de ondertekenende Staten nog niet van kracht is, wordt het bij de verdeelsleutel van artikel 20, lid 3, van het Gemeenschapsoctrooiverdrag voor die Staat vastgestelde percentage evenredig over de Verdragsluitende Staten verdeeld. Na de inwerkingtreding van het Akkoord voor de betrokken Staat, blijft deze bepaling van kracht voor de verdeling van de ontvangsten uit jaartaksen die gend zijn voor Gemeenschapsoctrooien die niet gelden op het grondgebied van die Staat;
-
-- f. een percentage van de verdeelsleutel van artikel 20, derde lid, van het Gemeenschapsoctrooiverdrag voor een ondertekenende Staat die het Akkoord nog niet heeft bekrachtigd op het tijdstip waarop het in werking treedt, mag niet eerder volgens de procedure van artikel 20, vierde en vijfde lid, van dit Verdrag worden gewijzigd dan vijf jaar nadat het Akkoord voor die Staat in werking getreden is;
-
-- g. wanneer het Akkoord voor een Staat van kracht wordt nadat het in werking is getreden, is artikel 82 van het Gemeenschapsoctrooiverdrag van overeenkomstige toepassing op de aanvrage om een Europees octrooi waarop het Akkoord van toepassing is en waarin deze Staat aangewezen is;
-
-- h. een voorbehoud dat een ondertekenende Staat overeenkomstig artikel 83, eerste lid, van het Gemeenschapsoctrooiverdrag heeft gemaakt, geldt uiterlijk tot het eind van het tiende jaar nadat het Akkoord voor alle ondertekenende Staten in werking getreden is. Artikel 83, tweede lid, is eveneens van toepassing.
-
-##### Artikel 3
-
-1. Dit Protocol is tot en met 21 december 1989 opengesteld voor ondertekening door de Staten die Partij zijn bij het Verdrag tot oprichting van de Europese Economische Gemeenschap.
-
-2. Dit Protocol moet door de twaalf ondertekenende Staten worden bekrachtigd; de akten van bekrachtiging worden bij de Secretaris-Generaal van de Raad van de Europese Gemeenschappen nedergelegd.
-
-##### Artikel 4
-
-Dit Protocol treedt in werking op de eerste dag van de derde maand na nederlegging van de akte van bekrachtiging door de laatste van de twaalf ondertekenende Staten die deze handeling verricht.
-
-##### Artikel 5
-
-Dit Protocol, opgesteld in één exemplaar in de Deense, de Duitse, de Engelse, de Franse, de Griekse, de Ierse, de Italiaanse, de Nederlandse, de Portugese en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek, wordt nedergelegd in het archief van het Secretariaat-Generaal van de Raad van de Europese Gemeenschappen. De Secretaris-Generaal doet een voor eensluidend gewaarmerkt afschrift toekomen aan de Regering van elke Lid-Staat van de Europese Economische Gemeenschap.
-
-TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden hun handtekening onder dit Protocol hebben gesteld.
-
-GEDAAN te Luxemburg, de vijftiende december negentienhonderdnegenentachtig.

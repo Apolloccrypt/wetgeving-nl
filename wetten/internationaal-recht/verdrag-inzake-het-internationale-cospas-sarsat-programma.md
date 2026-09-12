@@ -1,101 +1,65 @@
 ---
 title: "Verdrag inzake het Internationale COSPAS-SARSAT-Programma"
 identifier: "BWBV0002153"
-country: "nl"
-rank: "verdrag"
-publication_date: "1995-03-03"
-last_updated: "1995-03-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002153"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002681463"
-version_id: "10002680222"
-internal_id: "C10006986851"
-label_id: "10002669904"
-dtd_version: "2.0"
-original_entry_into_force: "1995-03-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002153/1995-03-03/0"
-intitule_bron: "Trb.1994-226"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-02-01"
-intitule_published: "1994-10-28"
-intitule_in_force: "1995-03-23"
-intitule_status: "goed"
-original_publication: "Trb.1994-226"
-original_signed_date: "1995-02-01"
-original_published_date: "1994-10-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1994-226"
-entry_into_force_date: "1995-03-03"
-jci_1_3: "jci1.3:c:BWBV0002153&z=1995-03-03&g=1995-03-03"
-jci_1_0: "1.0:c:BWBV0002153&g=1995-03-03"
-citeertitel_status: "officieel"
-signed_date: "1995-02-01"
-entry_into_force: "1995-03-03"
+publicatiedatum: 1995-03-03
+laatste_update: 1995-03-03
+status: geldig
+toestand: 1995-03-03
+bron: "https://wetten.overheid.nl/BWBV0002153"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag inzake het Internationale COSPAS-SARSAT-Programma
 
-The States Parties to this Agreement:
-
-Noting the successful implementation of the COSPAS-SARSAT Search and Rescue Satellite System established under a Memorandum of Understanding among the Ministry of Merchant Marine of the Union of Soviet Socialist Republics, the National Oceanic and Atmospheric Administration to the United States of America, the Department of National Defence of Canada and the Centre National d'Etudes Spatiales of France which was signed on 5 October 1984 and came into effect on 8 July 1985;
-
-Desiring to strengthen the close international cooperation in this humanitarian endeavour;
-
-Aware of the efforts in the International Maritime Organization to establish a Global Maritime Distress and Safety System, building on the [International Convention for the Safety of Life at Sea](https://wetten.overheid.nl/jci1.3:c:BWBV0003264), done at London on 1 November 1974, on the [Convention and Operating Agreement of the International Maritime Satellite Organization (INMARSAT)](https://wetten.overheid.nl/jci1.3:c:BWBV0003238), done at London on 3 September 1976, and the [International Convention on Maritime Search and Rescue](https://wetten.overheid.nl/jci1.3:c:BWBV0003096), done at Hamburg on 27 April 1979, as well as the responsibilities of the international Civil Aviation Organization and the International Telecommunication Union in their respective fields;
-
-Convinced that a worldwide satellite system to provide alert and location services for maritime, eviation and terrestrial distress and safety is important for the efficient operation of search and rescue;
-
-Recalling the provisions of the [Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and Other Celestial Bodies](https://wetten.overheid.nl/jci1.3:c:BWBV0004403), of 27 January 1967, and other multilateral agreements regarding the use of outer space to which they are Party;
-
-Recognizing that it is therefore desirable to operate the COSPAS-SARSAT system, in accordance with international law, so as to endeavour to provide long term alert and location services in support of search and rescue and access to the System to all States on a non-discriminatory basis, and free of charge for the end-user in distress,
-
-Have ageed as follows:
+*The States Parties to this Agreement: Noting the successful implementation of the COSPAS-SARSAT Search and Rescue Satellite System established under a Memorandum of Understanding among the Ministry of Merchant Marine of the Union of Soviet Socialist Republics, the National Oceanic and Atmospheric Administration to the United States of America, the Department of National Defence of Canada and the Centre National d'Etudes Spatiales of France which was signed on 5 October 1984 and came into effect on 8 July 1985; Desiring to strengthen the close international cooperation in this humanitarian endeavour; Aware of the efforts in the International Maritime Organization to establish a Global Maritime Distress and Safety System, building on the International Convention for the Safety of Life at Sea, done at London on 1 November 1974, on the Convention and Operating Agreement of the International Maritime Satellite Organization (INMARSAT), done at London on 3 September 1976, and the International Convention on Maritime Search and Rescue, done at Hamburg on 27 April 1979, as well as the responsibilities of the international Civil Aviation Organization and the International Telecommunication Union in their respective fields; Convinced that a worldwide satellite system to provide alert and location services for maritime, eviation and terrestrial distress and safety is important for the efficient operation of search and rescue; Recalling the provisions of the Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and Other Celestial Bodies, of 27 January 1967, and other multilateral agreements regarding the use of outer space to which they are Party; Recognizing that it is therefore desirable to operate the COSPAS-SARSAT system, in accordance with international law, so as to endeavour to provide long term alert and location services in support of search and rescue and access to the System to all States on a non-discriminatory basis, and free of charge for the end-user in distress, Have ageed as follows:*
 
 ##### Article 1. Definitions
 
-- -. "Party" means a State for which this Agreement has entered into force;
+- - "Party" means a State for which this Agreement has entered into force;
 
-- -. "Programme" means those activities carried out by the Parties to provide, operate and coordinate the COSPAS-SARSAT System, in accordance with this Agreement;
+- - "Programme" means those activities carried out by the Parties to provide, operate and coordinate the COSPAS-SARSAT System, in accordance with this Agreement;
 
-- -. "Cooperating Agency" means en organization designated by a Party for the purpose of implementing the Programme;
+- - "Cooperating Agency" means en organization designated by a Party for the purpose of implementing the Programme;
 
-- -. "System" means the COSPAS-SARSAT System comprising a Space Segment, a Ground Segment and Radiobeacons, all as described in Article 3;
+- - "System" means the COSPAS-SARSAT System comprising a Space Segment, a Ground Segment and Radiobeacons, all as described in Article 3;
 
-- -. "Ground Segment Provider" means any State which establishes and operates Ground Segment equipment under the terms of Article 11.2;
+- - "Ground Segment Provider" means any State which establishes and operates Ground Segment equipment under the terms of Article 11.2;
 
-- -. "User State" means any State that avails itself of the System under the terms of Article 12.2 and Article 12.3.
+- - "User State" means any State that avails itself of the System under the terms of Article 12.2 and Article 12.3.
 
 ##### Article 2. Purpose of the agreement
 
 In fostering international cooperation for search and rescue, the purpose of this Agreement is to:
 
-- a). assure the long term operation of the System;
+- a) assure the long term operation of the System;
 
-- b). provide distress alert and location data from the System to the international community in support of search and rescue operations on a non-discriminatory basis;
+- b) provide distress alert and location data from the System to the international community in support of search and rescue operations on a non-discriminatory basis;
 
-- c). support, by providing these distress alert and location data, the objectives of the International Maritime Organization and the International Civil Aviation Organization, concerning search and rescue; and
+- c) support, by providing these distress alert and location data, the objectives of the International Maritime Organization and the International Civil Aviation Organization, concerning search and rescue; and
 
-- d). define the means by which the Parties shall coordinate the management of the System and cooperate with other national authorities and relevant intenational organizations in the operation and coordination of the System.
+- d) define the means by which the Parties shall coordinate the management of the System and cooperate with other national authorities and relevant intenational organizations in the operation and coordination of the System.
 
 ##### Article 3. General description of the system
 
 3.1. The System comprises:
 
-- a). a Space Segment made up, under normal operating conditions, of at least four compatible satellite assemblies each comprising three basic units:
+- a) a Space Segment made up, under normal operating conditions, of at least four compatible satellite assemblies each comprising three basic units:
 
-- (i). a platform moving in low earth polar orbit as a mounting for the other units,
+   - (i) a platform moving in low earth polar orbit as a mounting for the other units,
 
-- (ii). a receiver-processor and memory unit designed to receive, process and store signals received on 406 MHz for retransmission, and
+   - (ii) a receiver-processor and memory unit designed to receive, process and store signals received on 406 MHz for retransmission, and
 
-- (iii). a repeater unit relaying radiobeacon signals on 121,5 MHz;
+   - (iii) a repeater unit relaying radiobeacon signals on 121,5 MHz;
 
-- b). a Ground Segment comprising:
+- b) a Ground Segment comprising:
 
-- (i). Local User Terminals established by the Parties and other States to receive signals relayed by the satellites and process them to determine radiobeacon location, and
+   - (i) Local User Terminals established by the Parties and other States to receive signals relayed by the satellites and process them to determine radiobeacon location, and
 
-- (ii). Mission Control Centres established by the Parties and other States to accept the output from the Local User Terminals and convey distress alert and location data to appropriate authorities;
+   - (ii) Mission Control Centres established by the Parties and other States to accept the output from the Local User Terminals and convey distress alert and location data to appropriate authorities;
 
-- c). radiobeacons, which are designed to be activated in a distress and to transmit a radio signal on frequencies of 406 MHz and/or 121,5 MHz, the characteristics of which comply with appropriate provisions of the International Telecommunication Union and COSPAS-SARSAT specifications.
+- c) radiobeacons, which are designed to be activated in a distress and to transmit a radio signal on frequencies of 406 MHz and/or 121,5 MHz, the characteristics of which comply with appropriate provisions of the International Telecommunication Union and COSPAS-SARSAT specifications.
 
 3.2. The COSPAS-SARSAT Space Segment configuration may be enhanced in accordance with decisions of the Council established pursuant to Articles 7 and 8.
 
@@ -145,9 +109,9 @@ In fostering international cooperation for search and rescue, the purpose of thi
 
 7.1. The following organs shall be established pursuant to this Agreement:
 
-- a). the Council; and
+- a) the Council; and
 
-- b). the Secretariat.
+- b) the Secretariat.
 
 7.2. The Council may establish subsidiary organs as required for the implementation of this Agreement.
 
@@ -167,29 +131,29 @@ In fostering international cooperation for search and rescue, the purpose of thi
 
 The Council shall carry out the relevant policies and coordinate the activities of the Parties. The functions of the Council shall include:
 
-- a). overseeing the implementation of this Agreement;
+- a) overseeing the implementation of this Agreement;
 
-- b). the development of the necessary technical, administrative and opeational plans for the implementation of the present Agreement;
+- b) the development of the necessary technical, administrative and opeational plans for the implementation of the present Agreement;
 
-- c). the implementation of those provisions of Article 6 requiring Council action;
+- c) the implementation of those provisions of Article 6 requiring Council action;
 
-- d). the preparation, consideration and adoption of technical specifications for the System space and ground facilities and radiobeacons, as well as the adoption of COSPAS-SARSAT technical and operational documentation;
+- d) the preparation, consideration and adoption of technical specifications for the System space and ground facilities and radiobeacons, as well as the adoption of COSPAS-SARSAT technical and operational documentation;
 
-- e). ensuring interaction and cooperation with the International Civil Aviation Organization, the International Telecommunication Union, the International Maritime Organization and other international organizations for the purpose of coordinating technical matters;
+- e) ensuring interaction and cooperation with the International Civil Aviation Organization, the International Telecommunication Union, the International Maritime Organization and other international organizations for the purpose of coordinating technical matters;
 
-- f). the provision of administrative, operational and technical coordination with Ground Segment Providers and User States, including the adoption of procedures for type approval or commissioning of Ground Segment equipment and radiobeacons;
+- f) the provision of administrative, operational and technical coordination with Ground Segment Providers and User States, including the adoption of procedures for type approval or commissioning of Ground Segment equipment and radiobeacons;
 
-- g). the assessment of the need for technical and operational enhancements of the System, including those relating to contributions of the Parties and those which would entail contributions by States non-Parties to this Agreement;
+- g) the assessment of the need for technical and operational enhancements of the System, including those relating to contributions of the Parties and those which would entail contributions by States non-Parties to this Agreement;
 
-- h). the establishment of mechanisms for exchange of appropriate technical and operational information;
+- h) the establishment of mechanisms for exchange of appropriate technical and operational information;
 
-- i). taking decisions upon matters of joint relations with States non-Parties to this Agreement, as well as international organizations;
+- i) taking decisions upon matters of joint relations with States non-Parties to this Agreement, as well as international organizations;
 
-- j). the direction of Secretariat activities;
+- j) the direction of Secretariat activities;
 
-- k). the organization and coordination of exercises, trials and studies that are necessary to assess the performance of the System; and
+- k) the organization and coordination of exercises, trials and studies that are necessary to assess the performance of the System; and
 
-- l). other matters regarding operation of the System's Space and Ground Segments and radiobeacons that the Council agrees shall fall within its purview.
+- l) other matters regarding operation of the System's Space and Ground Segments and radiobeacons that the Council agrees shall fall within its purview.
 
 ##### Article 10. The Secretariat
 
@@ -199,35 +163,35 @@ The Council shall carry out the relevant policies and coordinate the activities 
 
 10.3. The Secretariat shall take direction from the Council in the performance of its functions, which include:
 
-- a). conference services for the meetings of the Council and of its subsidiary organs;
+- a) conference services for the meetings of the Council and of its subsidiary organs;
 
-- b). administrative services concerning general correspondence, system documentation and promotional materials;
+- b) administrative services concerning general correspondence, system documentation and promotional materials;
 
-- c). technical services including the preparation of reports as instructed by the Council;
+- c) technical services including the preparation of reports as instructed by the Council;
 
-- d). liaison with Ground Segment Providers, User States and international organizations; and
+- d) liaison with Ground Segment Providers, User States and international organizations; and
 
-- e). such other services as may be required by the Council for the implementation of this Agreement.
+- e) such other services as may be required by the Council for the implementation of this Agreement.
 
 ##### Article 11. Ground Segment Providers
 
 11.1. Any State planning to establish and operate Ground Segment equipment shall advise the Council of its intention to do so and shall:
 
-- a). adhere to the technical specifications and operating procedures set by the Council for the purpose of ensuring adequate system performance;
+- a) adhere to the technical specifications and operating procedures set by the Council for the purpose of ensuring adequate system performance;
 
-- b). endeavour to deliver, in accordance with procedures agreed with the Council, distress alert and location information received through the COSPAS-SARSAT Space Segment to appropriate search and rescue authorities;
+- b) endeavour to deliver, in accordance with procedures agreed with the Council, distress alert and location information received through the COSPAS-SARSAT Space Segment to appropriate search and rescue authorities;
 
-- c). provide, as agreed with the Council, appropriate performance data in order to confirm compatibility of its Ground Segment equipment with the System;
+- c) provide, as agreed with the Council, appropriate performance data in order to confirm compatibility of its Ground Segment equipment with the System;
 
-- d). designate an organization to carry out its responsibilities pursuant to this Article;
+- d) designate an organization to carry out its responsibilities pursuant to this Article;
 
-- e). participate in appropriate meetings of the Programme, convened by the Council, on terms and conditions determined by the Council, with a view to resolving relevant administrative, operational and technical issues;
+- e) participate in appropriate meetings of the Programme, convened by the Council, on terms and conditions determined by the Council, with a view to resolving relevant administrative, operational and technical issues;
 
-- f). confirm that it will not make any claims or bring actions against the Parties for injury, damages or financial losses arising out of activities, or lack thereof, pursuant to this Agreement;
+- f) confirm that it will not make any claims or bring actions against the Parties for injury, damages or financial losses arising out of activities, or lack thereof, pursuant to this Agreement;
 
-- g). adhere to the provisions of Article 12 in relation to its use of the System; and
+- g) adhere to the provisions of Article 12 in relation to its use of the System; and
 
-- h). fulfill any other requirement as may be agreed with the Council.
+- h) fulfill any other requirement as may be agreed with the Council.
 
 11.2. Any such State wishing to become a Ground Segment Provider shall notify formal acceptance of its obligations pursuant to Article 11.1 to the Depositary which shall inform the Parties. Such notification shall be in the form of a standard letter and shall include the conditions of participation in the System previously agreed with the Council pursuant to Article 11.1.
 
@@ -237,19 +201,19 @@ The Council shall carry out the relevant policies and coordinate the activities 
 
 12.2. Any such State wishing to become a User State shall assume certain responsibilities including:
 
-- a). to advise the Council or the competent international organization of its point or points of contact for distress alert purposes;
+- a) to advise the Council or the competent international organization of its point or points of contact for distress alert purposes;
 
-- b). to make use of radiobeacons for operation in the System, the characteristics of which comply with appropriate provisions of the International Telecommunication Union and COSPAS-SARSAT specifications;
+- b) to make use of radiobeacons for operation in the System, the characteristics of which comply with appropriate provisions of the International Telecommunication Union and COSPAS-SARSAT specifications;
 
-- c). to maintain, as applicable, a radiobeacon register;
+- c) to maintain, as applicable, a radiobeacon register;
 
-- d). to exchange COSPAS-SARSAT data in a timely and non-discriminatory manner, in accordance with procedures agreed with the Council;
+- d) to exchange COSPAS-SARSAT data in a timely and non-discriminatory manner, in accordance with procedures agreed with the Council;
 
-- e). to confirm that it will not make any claims or bring actions against the Parties for injury, damages or financial losses arising out of activities, or lack thereof, pursuant to this Agreement;
+- e) to confirm that it will not make any claims or bring actions against the Parties for injury, damages or financial losses arising out of activities, or lack thereof, pursuant to this Agreement;
 
-- f). to participate as necessary in appropriate meetings of the Programme, convened by the Council, on terms and conditions determined by the Council, with a view to resolving relevant administrative, operational and technical issues; and
+- f) to participate as necessary in appropriate meetings of the Programme, convened by the Council, on terms and conditions determined by the Council, with a view to resolving relevant administrative, operational and technical issues; and
 
-- g). to fulfill any other requirement as may be agreed with the Council.
+- g) to fulfill any other requirement as may be agreed with the Council.
 
 12.3. User States shall notify formal acceptance of their obligations under Article 12.2 to the Depositary which shall inform the Parties. Such notification shall be in the form of a standard letter and shall include the conditions of participation in the System previously agreed with the Council pursuant to Article 12.2.
 
@@ -318,24 +282,6 @@ The Council shall carry out the relevant policies and coordinate the activities 
 20.3. Upon entry into force of this Agreement, the Parties shall take the necessary measures in order to ensure that the Memorandum of Understanding, which was signed 5 October 1984 and came into effect 8 July 1985, among the Ministry of Merchant Marine of the Union of Soviet Socialist Republics, the National Oceanic and Atmospheric Administration of the United States of America, the Department of National Defence of Canada and the Centre National d'Etudes Spatiales of France concerning Cooperation in the COSPAS-SARSAT Search and Rescue Satellite System, ceases to be in effect.
 
 20.4. This Agreement shall remain in force for a period of fifteen years from the date on which it enters into force and shall be extended automatically for successive periods of five years.
-
-The Signatory of this Letter of Notification:
-
-Noting the successful implementation of the COSPAS-SARSAT Search and Rescue Satellite System established and operated under the terms of the International COSPAS-SARSAT Programme Agreement between Canada, the Republic of France, the Union of Soviet Socialist Republics and the United States of America, which was signed on 1 July 1988 and entered into force on 30 August 1988;
-
-Noting the commitment of the Parties to the International COSPAS-SARSAT Programme Agreement to assure the long term operation of the COSPAS-SARSAT System and access to this System to all States on a non-discriminatory basis, and free of charge to the end-user in distress;
-
-Considering the provisions of the International COSPAS-SARSAT Programme Agreement concerning participation of States non-Parties to the Agreement in the COSPAS-SARSAT System as User States;
-
-Desiring to strengthen the close international cooperation in this humanitarian endeavour;
-
-Aware of the International Maritime Organization's decision to establish a Global Maritime Distress and Safety System, as well as the responsibilities of the International Civil Aviation Organization and the International Telecommunication Union in their respective fields;
-
-Convinced that a worldwide satellite system to provide alert and location services for maritime, aviation and terrestrial distress and safety is important for the efficient operation of search and rescue;
-
-Recognizing that it is therefore desirable that States non-Parties to the International COSPAS-SARSAT Programme Agreement cooperate with the Parties to this Agreement and with other States, on a non-discriminatory basis, in the establishment and operation of COSPAS-SARSAT Ground Segment equipment and in the use of the COSPAS-SARSAT System in support of search and rescue operations.
-
-Agrees as follows:
 
 IN WITNESS WHEREOF, the undersigned have signed this Agreement.
 

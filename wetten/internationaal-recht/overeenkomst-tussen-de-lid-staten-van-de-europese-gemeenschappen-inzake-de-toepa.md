@@ -1,51 +1,19 @@
 ---
 title: "Overeenkomst tussen de Lid-Staten van de Europese Gemeenschappen inzake de toepassing van het beginsel ne bis in idem"
 identifier: "BWBV0002161"
-country: "nl"
-rank: "verdrag"
-publication_date: "1994-04-06"
-last_updated: "1994-04-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002161"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002683773"
-version_id: "10002682322"
-internal_id: "C10006980641"
-label_id: "10002672004"
-dtd_version: "2.0"
-original_entry_into_force: "1994-04-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002161/1994-04-06/0"
-intitule_bron: "Trb.1987-167"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-01-05"
-intitule_published: "1987-10-28"
-intitule_in_force: "1996-10-10"
-intitule_status: "goed"
-original_publication: "Trb.1987-167"
-original_signed_date: "1994-01-05"
-original_published_date: "1987-10-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1987-167"
-entry_into_force_date: "1994-04-06"
-jci_1_3: "jci1.3:c:BWBV0002161&z=1994-04-06&g=1994-04-06"
-jci_1_0: "1.0:c:BWBV0002161&g=1994-04-06"
-citeertitel_status: "officieel"
-signed_date: "1994-01-05"
-entry_into_force: "1994-04-06"
+publicatiedatum: 1994-04-06
+laatste_update: 1994-04-06
+status: geldig
+toestand: 1994-04-06
+bron: "https://wetten.overheid.nl/BWBV0002161"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst tussen de Lid-Staten van de Europese Gemeenschappen inzake de toepassing van het beginsel ne bis in idem
 
-De Lid-Staten van de Europese Gemeenschappen, hierna aangeduid als „Lid-Staten”,
-
-Gelet op de nauwe banden die tussen hun volken bestaan,
-
-Rekening houdende met de ontwikkelingen in de richting van het wegnemen van de belemmeringen voor het vrije verkeer van personen tussen de Lid-Staten,
-
-Geleid door de wens hun samenwerking in strafrechtelijke aangelegenheden uit te breiden op basis van wederzijds vertrouwen, begrip en respect,
-
-Ervan overtuigd dat de wederzijdse erkenning van de regel „ne bis in idem” ten aanzien van buitenlandse rechterlijke beslissingen de belichaming vormt van een dergelijk vertrouwen, begrip en respect,
-
-Zijn als volgt overeengekomen:
+*De Lid-Staten van de Europese Gemeenschappen, hierna aangeduid als „Lid-Staten”, Gelet op de nauwe banden die tussen hun volken bestaan, Rekening houdende met de ontwikkelingen in de richting van het wegnemen van de belemmeringen voor het vrije verkeer van personen tussen de Lid-Staten, Geleid door de wens hun samenwerking in strafrechtelijke aangelegenheden uit te breiden op basis van wederzijds vertrouwen, begrip en respect, Ervan overtuigd dat de wederzijdse erkenning van de regel „ne bis in idem” ten aanzien van buitenlandse rechterlijke beslissingen de belichaming vormt van een dergelijk vertrouwen, begrip en respect, Zijn als volgt overeengekomen:*
 
 ##### Artikel 1
 
@@ -55,11 +23,11 @@ Een persoon die bij onherroepelijk vonnis in een Lid-Staat is berecht, kan in ee
 
 1. Een Lid-Staat kan op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van deze Overeenkomst verklaren dat hij in een of meer van de volgende gevallen niet door artikel 1 is gebonden:
 
-- a). indien de feiten op grond waarvan in het buitenland vonnis werd gewezen zich geheel of gedeeltelijk op zijn eigen grondgebied hebben afgespeeld. In het laatste geval is deze uitzondering echter niet van toepassing indien de feiten zich gedeeltelijk hebben afgespeeld op het grondgebied van de Lid-Staat waarin het vonnis werd gewezen;
+- a) indien de feiten op grond waarvan in het buitenland vonnis werd gewezen zich geheel of gedeeltelijk op zijn eigen grondgebied hebben afgespeeld. In het laatste geval is deze uitzondering echter niet van toepassing indien de feiten zich gedeeltelijk hebben afgespeeld op het grondgebied van de Lid-Staat waarin het vonnis werd gewezen;
 
-- b). indien de feiten op grond waarvan in het buitenland vonnis werd gewezen een inbreuk vormen op de veiligheid of andere even wezenlijke belangen van deze Lid-Staat;
+- b) indien de feiten op grond waarvan in het buitenland vonnis werd gewezen een inbreuk vormen op de veiligheid of andere even wezenlijke belangen van deze Lid-Staat;
 
-- c). indien de feiten op grond waarvan in het buitenland vonnis werd gewezen zijn begaan door een ambtenaar van deze Lid-Staat in strijd met zijn ambtsplichten.
+- c) indien de feiten op grond waarvan in het buitenland vonnis werd gewezen zijn begaan door een ambtenaar van deze Lid-Staat in strijd met zijn ambtsplichten.
 
 2. Een Lid-Staat die een dergelijke verklaring aflegt met betrekking tot de in lid 1 b) genoemde uitzondering, dient de soorten van inbreuken aan te geven waarop die uitzondering van toepassing kan zijn.
 

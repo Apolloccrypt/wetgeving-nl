@@ -1,43 +1,19 @@
 ---
 title: "Overeenkomst terzake van de geheimhouding van gegevens betreffende diepzeegebieden"
 identifier: "BWBV0002500"
-country: "nl"
-rank: "verdrag"
-publication_date: "1986-12-05"
-last_updated: "1986-12-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002500"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10002908533"
-version_id: "10002909312"
-internal_id: "C10006979431"
-label_id: "10002895704"
-dtd_version: "2.0"
-original_entry_into_force: "1986-12-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002500/1986-12-05/0"
-intitule_bron: "Trb.1987-58"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1986-12-05"
-intitule_published: "1987-04-09"
-intitule_in_force: "1987-04-09"
-intitule_status: "goed"
-original_publication: "Trb.1987-58"
-original_signed_date: "1986-12-05"
-original_published_date: "1987-04-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1987-58"
-entry_into_force_date: "1986-12-05"
-jci_1_3: "jci1.3:c:BWBV0002500&z=1986-12-05&g=1986-12-05"
-jci_1_0: "1.0:c:BWBV0002500&g=1986-12-05"
-citeertitel_status: "officieel"
-signed_date: "1986-12-05"
-entry_into_force: "1986-12-05"
+publicatiedatum: 1986-12-05
+laatste_update: 1986-12-05
+status: geldig
+toestand: 1986-12-05
+bron: "https://wetten.overheid.nl/BWBV0002500"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst terzake van de geheimhouding van gegevens betreffende diepzeegebieden
 
-De Regering van het Koninkrijk der Nederlanden, de Regering van het Koninkrijk België, de Regering van Canada, de Regering van de Republiek Italië en de Regering van de Unie van Socialistische Sowjetrepublieken, hierna te noemen de „Partijen”,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden, de Regering van het Koninkrijk België, de Regering van Canada, de Regering van de Republiek Italië en de Regering van de Unie van Socialistische Sowjetrepublieken, hierna te noemen de „Partijen”, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -71,22 +47,22 @@ Deze Overeenkomst treedt in werking op de dag van ondertekening en blijft van kr
 
 GEDAAN te Moskou, deze vijfde dag van december 1986 in vijf exemplaren elk in de Nederlandse, Engelse, Franse, Italiaanse en Russische taal die alle gelijkelijk authentiek zijn.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) H. H. SIBLESZ
 
-**Voor de Regering van het Koninkrijk België**
+*Voor de Regering van het Koninkrijk België*
 
 (w.g.) M. ADAM
 
-**Voor de Regering van Canada**
+*Voor de Regering van Canada*
 
 (w.g.) PH. KIRSCH
 
-**Voor de Regering van de Republiek Italië**
+*Voor de Regering van de Republiek Italië*
 
 (w.g.) G. FRANCHETTI PARDO
 
-**Voor de Regering van de Unie van Socialistische Sovjetrepublieken**
+*Voor de Regering van de Unie van Socialistische Sovjetrepublieken*
 
 (w.g.) YU. B. KAZMIN

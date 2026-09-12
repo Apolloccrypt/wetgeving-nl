@@ -1,53 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Bulgarije inzake de export van socialezekerheidsuitkeringen"
 identifier: "BWBV0001727"
-country: "nl"
-rank: "verdrag"
-publication_date: "2006-05-01"
-last_updated: "2003-01-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001727"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10001475193"
-version_id: "10001553372"
-internal_id: "C10006993791"
-label_id: "10001475394"
-dtd_version: "2.0"
-original_entry_into_force: "2006-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001727/2006-05-01/0"
-intitule_bron: "Trb.2005-83"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-04-01"
-intitule_published: "2005-04-18"
-intitule_in_force: "2006-05-12"
-intitule_status: "goed"
-original_publication: "Trb.2005-83"
-original_signed_date: "2005-04-01"
-original_published_date: "2005-04-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2005-83"
-entry_into_force_date: "2006-05-01"
-jci_1_3: "jci1.3:c:BWBV0001727&z=2006-05-01&g=2006-05-01"
-jci_1_0: "1.0:c:BWBV0001727&g=2006-05-01"
-citeertitel_status: "redactioneel"
-signed_date: "2005-04-01"
-entry_into_force: "2006-05-01"
+publicatiedatum: 2006-05-01
+laatste_update: 2006-05-01
+status: geldig
+toestand: 2006-05-01
+bron: "https://wetten.overheid.nl/BWBV0001727"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Bulgarije inzake de export van socialezekerheidsuitkeringen
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Republiek Bulgarije,
-
-Hierna te noemen de Verdragsluitende Partijen,
-
-Geleid door de wens betrekkingen op het gebied van sociale zekerheid tot stand te brengen;
-
-Geleid door de wens de samenwerking tussen de twee staten ter waarborging van de handhaving van de wetgeving van het ene land inzake de export van socialezekerheidsuitkeringen in het andere land te regelen;
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Republiek Bulgarije, Hierna te noemen de Verdragsluitende Partijen, Geleid door de wens betrekkingen op het gebied van sociale zekerheid tot stand te brengen; Geleid door de wens de samenwerking tussen de twee staten ter waarborging van de handhaving van de wetgeving van het ene land inzake de export van socialezekerheidsuitkeringen in het andere land te regelen; Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -83,27 +49,27 @@ Dit Verdrag is van toepassing:
 
 1. ten aanzien van het Koninkrijk der Nederlanden, op de Nederlandse wetgeving inzake de volgende takken van sociale verzekering:
 
-- 1.1. ziekte- en moederschapsuitkeringen;
+- 1.1 ziekte- en moederschapsuitkeringen;
 
-- 1.2. arbeidsongeschiktheidsuitkeringen voor werknemers;
+- 1.2 arbeidsongeschiktheidsuitkeringen voor werknemers;
 
-- 1.3. arbeidsongeschiktheidsuitkeringen voor zelfstandigen;
+- 1.3 arbeidsongeschiktheidsuitkeringen voor zelfstandigen;
 
-- 1.4. ouderdomspensioenen;
+- 1.4 ouderdomspensioenen;
 
-- 1.5. nabestaandenuitkeringen;
+- 1.5 nabestaandenuitkeringen;
 
-- 1.6. kinderbijslagen.
+- 1.6 kinderbijslagen.
 
 2. Ten aanzien van de Republiek Bulgarije, op de wetgeving inzake de volgende takken van sociale zekerheid:
 
-- 2.1. pensioenuitkeringen overeenkomstig het tijdvak waarin premie werd betaald en ouderdomspensioenen;
+- 2.1 pensioenuitkeringen overeenkomstig het tijdvak waarin premie werd betaald en ouderdomspensioenen;
 
-- 2.2. arbeidsongeschiktheidsuitkeringen;
+- 2.2 arbeidsongeschiktheidsuitkeringen;
 
-- 2.3. nabestaandenuitkeringen;
+- 2.3 nabestaandenuitkeringen;
 
-- 2.4. pensioenuitkeringen die geen verband houden met arbeid.
+- 2.4 pensioenuitkeringen die geen verband houden met arbeid.
 
 ##### Artikel 3. Personele werkingssfeer
 
@@ -195,10 +161,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN te Sofia, op 9 februari 2005, in tweevoud, in de Nederlandse, de Bulgaarse en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschillen bij de interpretatie van de bepalingen van dit Verdrag is de Engelse versie gezaghebbend.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 HENRIETTE BARONES VAN LYNDEN
 
-**Voor de Republiek Bulgarije**
+*Voor de Republiek Bulgarije*
 
 CHRISTINA CHRISTOVA

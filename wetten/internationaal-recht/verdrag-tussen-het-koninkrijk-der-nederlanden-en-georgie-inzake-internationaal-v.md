@@ -1,50 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en Georgië inzake internationaal vervoer over de weg"
 identifier: "BWBV0001595"
-country: "nl"
-rank: "verdrag"
-publication_date: "2003-09-01"
-last_updated: "2003-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001595"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000166213"
-version_id: "10000166542"
-internal_id: "C10006992911"
-label_id: "10000166474"
-original_entry_into_force: "2003-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001595/2003-09-01/0"
-intitule_bron: "Trb.2002-214"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-06-27"
-intitule_published: "2002-12-06"
-intitule_in_force: "2003-09-05"
-intitule_status: "goed"
-original_publication: "Trb.2002-214"
-original_signed_date: "2003-06-27"
-original_published_date: "2002-12-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2002-214"
-entry_into_force_date: "2003-09-01"
-jci_1_3: "jci1.3:c:BWBV0001595&z=2003-09-01&g=2003-09-01"
-jci_1_0: "1.0:c:BWBV0001595&g=2003-09-01"
-citeertitel_status: "officieel"
-signed_date: "2003-06-27"
-entry_into_force: "2003-09-01"
+publicatiedatum: 2003-09-01
+laatste_update: 2003-09-01
+status: geldig
+toestand: 2003-09-01
+bron: "https://wetten.overheid.nl/BWBV0001595"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en Georgië inzake internationaal vervoer over de weg
 
-Het Koninkrijk der Nederlanden
-
-en
-
-Georgië,
-
-hierna te noemen de Verdragsluitende Partijen,
-
-Geleid door de wens, in het belang van hun economische betrekkingen, de ontwikkeling te bevorderen van het vervoer van goederen en personen over de weg in, naar en vanuit hun landen en in doorvoer over hun grondgebieden,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en Georgië, hierna te noemen de Verdragsluitende Partijen, Geleid door de wens, in het belang van hun economische betrekkingen, de ontwikkeling te bevorderen van het vervoer van goederen en personen over de weg in, naar en vanuit hun landen en in doorvoer over hun grondgebieden, Zijn het volgende overeengekomen:*
 
 ## DEEL I. ALGEMENE BEPALINGEN
 
@@ -60,37 +29,37 @@ Zijn het volgende overeengekomen:
 
 Voor de toepassing en uitvoering van dit Verdrag wordt verstaan onder:
 
-- 1. „Vervoersondernemer”: een natuurlijke persoon of rechtspersoon die op het grondgebied van een van de Verdragsluitende Partijen geregistreerd is en die overeenkomstig de vereisten van de nationale wetgeving die de toegang tot het beroep van vervoersondernemer en tot de markt regelt, tegen betaling of voor eigen rekening personen of goederen vervoert.
+- 1 „Vervoersondernemer”: een natuurlijke persoon of rechtspersoon die op het grondgebied van een van de Verdragsluitende Partijen geregistreerd is en die overeenkomstig de vereisten van de nationale wetgeving die de toegang tot het beroep van vervoersondernemer en tot de markt regelt, tegen betaling of voor eigen rekening personen of goederen vervoert.
 
-- 2. „Voertuig” een motorvoertuig:
+- 2 „Voertuig” een motorvoertuig:
 
-- *. zelfstandig of een combinatie van voertuigen;
+   - * zelfstandig of een combinatie van voertuigen;
 
-- *. bedoeld voor het vervoer van personen of goederen over de weg, en dat c.q. die uit hoofde van eigendom of door middel van een huur- of leasecontract ter beschikking van de vervoersondernemer staat.
+   - * bedoeld voor het vervoer van personen of goederen over de weg, en dat c.q. die uit hoofde van eigendom of door middel van een huur- of leasecontract ter beschikking van de vervoersondernemer staat.
 
-- 3. „Autobus”: voertuigen gebouwd en ontworpen voor het vervoer van meer dan negen personen, de bestuurder daaronder begrepen.
+- 3 „Autobus”: voertuigen gebouwd en ontworpen voor het vervoer van meer dan negen personen, de bestuurder daaronder begrepen.
 
-- 4. „Registratie”: de toekenning van een kentekennummer aan het voertuig door de bevoegde autoriteiten. In geval van een combinatie van voertuigen is het motorvoertuig de bepalende factor bij de afgifte of vrijstelling van vergunningen.
+- 4 „Registratie”: de toekenning van een kentekennummer aan het voertuig door de bevoegde autoriteiten. In geval van een combinatie van voertuigen is het motorvoertuig de bepalende factor bij de afgifte of vrijstelling van vergunningen.
 
-- 5. „Land van vestiging”: het grondgebied van een Verdragsluitende Partij waarbinnen de vervoersondernemer is gevestigd en het voertuig is geregistreerd.
+- 5 „Land van vestiging”: het grondgebied van een Verdragsluitende Partij waarbinnen de vervoersondernemer is gevestigd en het voertuig is geregistreerd.
 
-- 6. „Gastheerland”: het grondgebied van een Verdragsluitende Partij waarbinnen het voertuig vervoer verricht, terwijl het daar niet is geregistreerd en de vervoersondernemer daar niet is gevestigd.
+- 6 „Gastheerland”: het grondgebied van een Verdragsluitende Partij waarbinnen het voertuig vervoer verricht, terwijl het daar niet is geregistreerd en de vervoersondernemer daar niet is gevestigd.
 
-- 7. „Vervoer”: het rijden met een beladen of onbeladen voertuig, ook indien het voertuig, de aanhangwagen of de oplegger voor een deel van de rit wordt vervoerd per trein of boot.
+- 7 „Vervoer”: het rijden met een beladen of onbeladen voertuig, ook indien het voertuig, de aanhangwagen of de oplegger voor een deel van de rit wordt vervoerd per trein of boot.
 
-- 8. „Vervoer voor eigen rekening”: het vervoer van personen en goederen door een onderneming of samenwerkingsverband uitsluitend bedoeld voor of voortvloeiend uit de eigen economische activiteiten ervan.
+- 8 „Vervoer voor eigen rekening”: het vervoer van personen en goederen door een onderneming of samenwerkingsverband uitsluitend bedoeld voor of voortvloeiend uit de eigen economische activiteiten ervan.
 
-- 9. „Intermodaal vervoer”: het vervoer van goederen waarbij het voertuig, de aanhangwagen, oplegger, wissellaadbak of container, al dan niet met trekker, voor het eerste en/of laatste gedeelte van de rit de weg gebruiken, en voor het resterende gedeelte per spoor, via waterwegen of over zee reizen.
+- 9 „Intermodaal vervoer”: het vervoer van goederen waarbij het voertuig, de aanhangwagen, oplegger, wissellaadbak of container, al dan niet met trekker, voor het eerste en/of laatste gedeelte van de rit de weg gebruiken, en voor het resterende gedeelte per spoor, via waterwegen of over zee reizen.
 
-- 10. „Geregelde passagiersdienst”: een dienst die personen vervoert over een specifiek traject, overeenkomstig een dienstregeling en waarvoor vaste tarieven in rekening worden gebracht. Passagiers worden aan boord genomen of afgezet op van tevoren vastgestelde haltes en de dienst is voor iedereen toegankelijk, hoewel in sommige gevallen reservering is vereist. Ongeacht wie de dienst organiseert omvat „geregelde passagiersdienst” eveneens een dienst die bepaalde categorieën personen vervoert, met uitsluiting van andere categorieën personen, ingeval deze dienst aan de bovengenoemde criteria voldoet. Deze dienst wordt „bijzondere geregelde dienst” genoemd.
+- 10 „Geregelde passagiersdienst”: een dienst die personen vervoert over een specifiek traject, overeenkomstig een dienstregeling en waarvoor vaste tarieven in rekening worden gebracht. Passagiers worden aan boord genomen of afgezet op van tevoren vastgestelde haltes en de dienst is voor iedereen toegankelijk, hoewel in sommige gevallen reservering is vereist. Ongeacht wie de dienst organiseert omvat „geregelde passagiersdienst” eveneens een dienst die bepaalde categorieën personen vervoert, met uitsluiting van andere categorieën personen, ingeval deze dienst aan de bovengenoemde criteria voldoet. Deze dienst wordt „bijzondere geregelde dienst” genoemd.
 
-- 11. „Ongeregelde dienst”: een dienst die niet onder de begrips-omschrijving van een geregelde passagiersdienst valt.
+- 11 „Ongeregelde dienst”: een dienst die niet onder de begrips-omschrijving van een geregelde passagiersdienst valt.
 
-- 12. „Cabotage”: vervoerswerkzaamheden binnen het grondgebied van de Verdragsluitende Partij, tussen twee op dat grondgebied gelegen plaatsen, door een vervoersondernemer die is gevestigd op het grondgebied van de andere Verdragsluitende Partij. Vervoer over het eerste of laatste gedeelte van een internationaal gecombineerd vervoer wordt niet aangemerkt als cabotage.
+- 12 „Cabotage”: vervoerswerkzaamheden binnen het grondgebied van de Verdragsluitende Partij, tussen twee op dat grondgebied gelegen plaatsen, door een vervoersondernemer die is gevestigd op het grondgebied van de andere Verdragsluitende Partij. Vervoer over het eerste of laatste gedeelte van een internationaal gecombineerd vervoer wordt niet aangemerkt als cabotage.
 
-- 13. „Grondgebied” in verband met een Verdragsluitende Partij: het grondgebied van Georgië of het grondgebied van het Koninkrijk der Nederlanden in Europa, afhankelijk van de context.
+- 13 „Grondgebied” in verband met een Verdragsluitende Partij: het grondgebied van Georgië of het grondgebied van het Koninkrijk der Nederlanden in Europa, afhankelijk van de context.
 
-- 14. „Bevoegde autoriteiten”: voor het Koninkrijk der Nederlanden, het ministerie van Verkeer en Waterstaat; voor Georgië, het ministerie van Transport en Communicatie; of, in beide gevallen, elk door de genoemde ministeries gemachtigde persoon of instantie.
+- 14 „Bevoegde autoriteiten”: voor het Koninkrijk der Nederlanden, het ministerie van Verkeer en Waterstaat; voor Georgië, het ministerie van Transport en Communicatie; of, in beide gevallen, elk door de genoemde ministeries gemachtigde persoon of instantie.
 
 ## DEEL II. VERVOER VAN PERSONEN
 
@@ -106,13 +75,13 @@ De ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001595&deel=I
 
 - a. Niettegenstaande de erkenning door de bevoegde autoriteiten van de wenselijkheid van een geregelde dienst, kan een aanvraag voor een vergunning worden afgewezen indien, onder andere:
 
-- –. er geen pool-overeenkomst bestaat;
+   - – er geen pool-overeenkomst bestaat;
 
-- –. de aanvrager niet in staat is het vervoer waarvoor hij een vergunning heeft aangevraagd te realiseren met de voertuigen die hij tot zijn onmiddellijke beschikking heeft;
+   - – de aanvrager niet in staat is het vervoer waarvoor hij een vergunning heeft aangevraagd te realiseren met de voertuigen die hij tot zijn onmiddellijke beschikking heeft;
 
-- –. de aanvrager in het verleden niet heeft voldaan aan de voorwaarden van de vergunningen voor het internationaal vervoer van personen over de weg of de regels met betrekking tot verkeersveiligheid, met inbegrip van de regels met betrekking tot voertuignormen en de rij- en rusttijden van bestuurders ernstig heeft overtreden;
+   - – de aanvrager in het verleden niet heeft voldaan aan de voorwaarden van de vergunningen voor het internationaal vervoer van personen over de weg of de regels met betrekking tot verkeersveiligheid, met inbegrip van de regels met betrekking tot voertuignormen en de rij- en rusttijden van bestuurders ernstig heeft overtreden;
 
-- –. in geval van een aanvraag voor verlenging van een vergunning, niet aan de voorwaarden voor de vergunning is voldaan.
+   - – in geval van een aanvraag voor verlenging van een vergunning, niet aan de voorwaarden voor de vergunning is voldaan.
 
 - b. Een beslissing of een vergunning wordt afgegeven door de bevoegde autoriteiten, genomen binnen drie maanden na de datum waarop een volledige aanvraag is ontvangen. Indien een bevoegde autoriteit verzuimt binnen deze periode te antwoorden, wordt deze verondersteld impliciet met de afgifte van een vergunning te hebben ingestemd.
 
@@ -140,11 +109,11 @@ Indien er geen vraag meer bestaat naar de dienst kan de exploitant deze opheffen
 
 4. Als uitzondering op de bepalingen van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBV0001595&deel=II&z=2003-09-01&g=2003-09-01) zijn de volgende categorieën vervoer vrijgesteld van vergunningsvereisten:
 
-- –. vervoer van voertuigen die zijn beschadigd of onklaar geraakt en het vervoer van bergingsvoertuigen;
+- – vervoer van voertuigen die zijn beschadigd of onklaar geraakt en het vervoer van bergingsvoertuigen;
 
-- –. onbeladen reizen van een voertuig dat wordt gestuurd ter vervanging van een voertuig dat onklaar is geraakt in een ander land, met inbegrip van de terugreis, na reparatie, van het voertuig dat onklaar was geraakt;
+- – onbeladen reizen van een voertuig dat wordt gestuurd ter vervanging van een voertuig dat onklaar is geraakt in een ander land, met inbegrip van de terugreis, na reparatie, van het voertuig dat onklaar was geraakt;
 
-- –. de eerste reis van recentelijk gekochte voertuigen, nieuw of tweedehands, voorzien van een door de bevoegde autoriteiten afgegeven exportregistratienummer, indien de eerste reis plaatsvindt naar het land waar het voertuig definitief wordt geregistreerd.
+- – de eerste reis van recentelijk gekochte voertuigen, nieuw of tweedehands, voorzien van een door de bevoegde autoriteiten afgegeven exportregistratienummer, indien de eerste reis plaatsvindt naar het land waar het voertuig definitief wordt geregistreerd.
 
 ## DEEL III. VERVOER VAN GOEDEREN
 
@@ -158,27 +127,27 @@ Indien er geen vraag meer bestaat naar de dienst kan de exploitant deze opheffen
 
 1. Als uitzondering op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001595&deel=III&artikel=6&z=2003-09-01&g=2003-09-01) zijn de volgende categorieën vervoer vrijgesteld van vergunningsvereisten:
 
-- –. vervoer door voertuigen waarvan het toegestane totaalgewicht in beladen toestand, met inbegrip van aanhangwagens, niet meer bedraagt dan 6 ton, of wanneer het toegestane laadvermogen, met inbegrip van aanhangwagens, niet meer bedraagt dan 3,5 ton;
+- – vervoer door voertuigen waarvan het toegestane totaalgewicht in beladen toestand, met inbegrip van aanhangwagens, niet meer bedraagt dan 6 ton, of wanneer het toegestane laadvermogen, met inbegrip van aanhangwagens, niet meer bedraagt dan 3,5 ton;
 
-- –. transport op ongeregelde basis, naar of vanuit luchthavens, in gevallen waarin luchtdiensten worden omgeleid;
+- – transport op ongeregelde basis, naar of vanuit luchthavens, in gevallen waarin luchtdiensten worden omgeleid;
 
-- –. vervoer van voertuigen die zijn beschadigd of onklaar geraakt en het vervoer van bergingsvoertuigen;
+- – vervoer van voertuigen die zijn beschadigd of onklaar geraakt en het vervoer van bergingsvoertuigen;
 
-- –. onbeladen reizen van een voertuig dat wordt gestuurd ter vervanging van een voertuig dat onklaar is geraakt in een ander land, met inbegrip van de terugreis, na reparatie, van het voertuig dat onklaar was geraakt;
+- – onbeladen reizen van een voertuig dat wordt gestuurd ter vervanging van een voertuig dat onklaar is geraakt in een ander land, met inbegrip van de terugreis, na reparatie, van het voertuig dat onklaar was geraakt;
 
-- –. vervoer van reserveonderdelen en proviand voor zee- en binnenvaartschepen en luchtvaartuigen;
+- – vervoer van reserveonderdelen en proviand voor zee- en binnenvaartschepen en luchtvaartuigen;
 
-- –. vervoer van goederen benodigd voor noodsituaties, in het bijzonder bij natuurrampen en voor humanitaire doeleinden;
+- – vervoer van goederen benodigd voor noodsituaties, in het bijzonder bij natuurrampen en voor humanitaire doeleinden;
 
-- –. vervoer van kunstwerken en -voorwerpen voor beurzen en tentoonstellingen voor niet-commerciële doeleinden;
+- – vervoer van kunstwerken en -voorwerpen voor beurzen en tentoonstellingen voor niet-commerciële doeleinden;
 
-- –. vervoer voor niet-commerciële doeleinden van eigendommen, toebehoren en dieren naar of van theater-, muziek-, film- of circusvoorstellingen of sportevenementen, en van die welke bestemd zijn voor radio-opnamen, of voor film- of televisieproducties;
+- – vervoer voor niet-commerciële doeleinden van eigendommen, toebehoren en dieren naar of van theater-, muziek-, film- of circusvoorstellingen of sportevenementen, en van die welke bestemd zijn voor radio-opnamen, of voor film- of televisieproducties;
 
-- –. de eerste reis van recentelijk gekochte voertuigen, nieuw of tweedehands, voorzien van een door de bevoegde autoriteiten afgegeven exportregistratienummer, indien de eerste reis plaatsvindt naar het land waar het voertuig definitief wordt geregistreerd;
+- – de eerste reis van recentelijk gekochte voertuigen, nieuw of tweedehands, voorzien van een door de bevoegde autoriteiten afgegeven exportregistratienummer, indien de eerste reis plaatsvindt naar het land waar het voertuig definitief wordt geregistreerd;
 
-- –. begrafenisvervoer;
+- – begrafenisvervoer;
 
-- –. vervoer van post als openbare dienst.
+- – vervoer van post als openbare dienst.
 
 2. De in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001595&deel=IV&artikel=14&z=2003-09-01&g=2003-09-01) bedoelde Gemengde Commissie kan de in het voorgaande lid genoemde lijst van categorieën vervoer uitbreiden of wijzigen.
 
@@ -266,10 +235,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN in tweevoud te Tbilisi, op 31 oktober 2002, in de Nederlandse, de Georgische en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschillen is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) H. MOLENAAR
 
-**Voor Georgië**
+*Voor Georgië*
 
 (w.g.) G. SHENGELIA

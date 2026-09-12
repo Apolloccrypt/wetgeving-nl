@@ -9,7 +9,7 @@ laatste_update: 2026-09-09
 status: geldig
 toestand: 2026-09-09
 bron: "https://wetten.overheid.nl/BWBR0052725"
-opgehaald: 2026-09-11
+opgehaald: 2026-09-12
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 19 juni 2026, nr. 7633550, houdende een subsidie voor de Joodse instellingen bij het treffen van beveiligingsmaatregelen (Regeling veiligheid Joodse instellingen 2026–2030)

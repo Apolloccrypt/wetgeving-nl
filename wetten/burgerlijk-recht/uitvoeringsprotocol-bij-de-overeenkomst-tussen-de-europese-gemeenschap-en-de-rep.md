@@ -1,57 +1,27 @@
 ---
 title: "Uitvoeringsprotocol bij de Overeenkomst tussen de Europese Gemeenschap en de Republiek Albanië inzake de overname van personen die zonder vergunning in de Republiek Albanië of de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) verblijven"
 identifier: "BWBV0002861"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-03-06"
-last_updated: "2005-06-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002861"
+categorie: "Bestuursrecht"
 soort: "verdrag"
-stam_id: "10003183563"
-version_id: "10003191062"
-internal_id: "C10006994301"
-label_id: "10003169614"
-dtd_version: "2.0"
-original_entry_into_force: "2008-03-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002861/2008-03-06/0"
-intitule_bron: "Trb.2005-242"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-07-10"
-intitule_published: "2005-10-17"
-intitule_in_force: "2008-06-16"
-intitule_status: "goed"
-original_publication: "Trb.2005-242"
-original_signed_date: "2007-07-10"
-original_published_date: "2005-10-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2005-242"
-entry_into_force_date: "2008-03-06"
-jci_1_3: "jci1.3:c:BWBV0002861&z=2008-03-06&g=2008-03-06"
-jci_1_0: "1.0:c:BWBV0002861&g=2008-03-06"
-citeertitel_status: "redactioneel"
-signed_date: "2007-07-10"
-entry_into_force: "2008-03-06"
+publicatiedatum: 2008-03-06
+laatste_update: 2008-03-06
+status: geldig
+toestand: 2008-03-06
+bron: "https://wetten.overheid.nl/BWBV0002861"
+opgehaald: 2026-09-12
 ---
+
 # Uitvoeringsprotocol bij de Overeenkomst tussen de Europese Gemeenschap en de Republiek Albanië inzake de overname van personen die zonder vergunning in de Republiek Albanië of de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) verblijven
 
-De Republiek Albanië en het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden,
-
-Hierna genoemd „de Partijen",
-
-Op grond van artikel 19 van de Overeenkomst getekend op 14 april 2005 te Luxemburg tussen de Europese Gemeenschap en de Republiek Albanië inzake de personen die zonder vergunning op het grondgebied verblijven,
-
-Hierna genoemd „de Overeenkomst",
-
-Zijn het volgende overeengekomen:
+*De Republiek Albanië en het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, Hierna genoemd „de Partijen", Op grond van artikel 19 van de Overeenkomst getekend op 14 april 2005 te Luxemburg tussen de Europese Gemeenschap en de Republiek Albanië inzake de personen die zonder vergunning op het grondgebied verblijven, Hierna genoemd „de Overeenkomst", Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
 Voor de toepassing van dit Uitvoeringsprotocol wordt verstaan onder:
 
-- –. diplomatieke vertegenwoordiging: de diplomatieke vertegen-woordiging van de aangezochte Partij op het grondgebied van de verzoekende Partij;
+- – diplomatieke vertegenwoordiging: de diplomatieke vertegen-woordiging van de aangezochte Partij op het grondgebied van de verzoekende Partij;
 
-- –. begeleider(s): de door de verzoekende Partij aangewezen persoon (of personen), belast met de begeleiding van de over te nemen of door te geleiden persoon.
+- – begeleider(s): de door de verzoekende Partij aangewezen persoon (of personen), belast met de begeleiding van de over te nemen of door te geleiden persoon.
 
 ##### Artikel 2
 

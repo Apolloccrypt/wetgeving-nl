@@ -1,91 +1,19 @@
 ---
 title: "Overeenkomst inzake het onderhoud van het Schoonebeekerdiep/Grenzaa en de Nieuwe Sloot/Grenzschloot, alsmede het onderhoud en het beheer van werken in en langs deze watergangen"
 identifier: "BWBV0002870"
-country: "nl"
-rank: "verdrag"
-publication_date: "1983-11-24"
-last_updated: "1983-11-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002870"
+categorie: "Milieu"
 soort: "verdrag"
-stam_id: "10003190523"
-version_id: "10003199732"
-internal_id: "C10006978831"
-label_id: "10003176444"
-dtd_version: "2.0"
-original_entry_into_force: "1983-11-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002870/1983-11-24/0"
-intitule_bron: "Trb.1983-137"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1983-03-08"
-intitule_published: "1983-09-01"
-intitule_in_force: "1984-05-25"
-intitule_status: "goed"
-original_publication: "Trb.1983-137"
-original_signed_date: "1983-03-08"
-original_published_date: "1983-09-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1983-137"
-entry_into_force_date: "1983-11-24"
-jci_1_3: "jci1.3:c:BWBV0002870&z=1983-11-24&g=1983-11-24"
-jci_1_0: "1.0:c:BWBV0002870&g=1983-11-24"
-citeertitel_status: "officieel"
-signed_date: "1983-03-08"
-entry_into_force: "1983-11-24"
+publicatiedatum: 1983-11-24
+laatste_update: 1983-11-24
+status: geldig
+toestand: 1983-11-24
+bron: "https://wetten.overheid.nl/BWBV0002870"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst inzake het onderhoud van het Schoonebeekerdiep/Grenzaa en de Nieuwe Sloot/Grenzschloot, alsmede het onderhoud en het beheer van werken in en langs deze watergangen
 
-Het Wasser- und Bodenverband Unterhaltungsverband 114 - Vechte, Neuenhaus, verder te noemen „Unterhaltungsverband”, vertegenwoordigd door de voorzitter,
-
-en
-
-het waterschap Bargerbeek, Klazienaveen, verder te noemen „waterschap”, vertegenwoordigd door de voorzitter,
-
-overwegende, dat de waterhuishoudkundige situatie in het gebied van het Schoonebeekerdiep/Grenzaa sinds de op 9 en 14.08.1929 en op 19.04 en 08.06.1956 gesloten overeenkomst tussen de Landkreis Grafschaft Bentheim en het waterschap Schoonebeekerdiep - rechtsopvolger is het waterschap Bargerbeek - betreffende de uitvoering van het plan ter verbetering van de afvoermogelijkheden van het Schoonebeekerdiep/Grenzaa, alsmede de destijds afgesloten onderhoudsovereenkomst, sedert 1968 belangrijk gewijzigd is door de verruiming, waardoor de grondslagen voor genoemde overeenkomsten weggevallen zijn,
-
-overwegende, dat de rechten en plichten van de beide partijen, met betrekking tot de verruiming van het Schoonebeekerdiep/Grenzaa, zich naar de volgende criteria moeten schikken:
-
-naar grootte van het neerslaggebied van het Schoonebeekerdiep/Grenzaa aan weerszijden van de grens, in de procentuele verhouding
-
-Unterhaltungsverband : waterschap = 73 : 27
-
-voor de verruiming van de stroom van km 0,000 tot km 20,766
-
-voor de grondverwerving van het onder 1.1 genoemde traject
-
-voor de nieuwbouw van de
-
-Berendsbrug bij km 0,425
-
-Wilmsbrug bij km 9,454
-
-Almingsbrug bij km 16,462
-
-voor de stuwen bij km 8,580 en km 13,346
-
-naar het gelijkwaardige belang van de beide partijen, in de procentuele verhouding
-
-Unterhaltungsverband : waterschap = 50 : 50
-
-voor de bruggen bij de stuwen bij km 8,580 en km 17,338
-
-voor de stuw bij km 5,488
-
-voor de grondverwerving (grondruiling aan weerskanten van de grens) in plaats van de bouw van nieuwe bruggen
-
-voor eventuele nieuw te bouwen bruggen ingeval grondruil aan weerszijden van de grens niet mogelijk is, in de verhouding
-
-Unterhaltungsverband : waterschap = 2 : 1
-
-voor het eenzijdige belang van het waterschap bij de bouw van de stuw bij km 17,338, in de procentuele verhouding
-
-Unterhaltungsverband : waterschap = 0 : 100
-
-met de wens om na de verruiming van het Schoonebeekerdiep/Grenzaa een nieuwe onderhoudsregeling te treffen en het Schoonebeekerdiep/Grenzaa, alsmede de Nieuwe Sloot/Grenzschloot zo in stand te houden, dat de onbelemmerde afvoer overeenkomstig de capaciteit van het natte profiel verzekerd is,
-
-in aanmerking genomen paragraaf 4, artikel 59, lid 2 van het op 8 april 1960 gesloten grensverdrag tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden,
-
-sluiten de volgende overeenkomst:
+*Het Wasser- und Bodenverband Unterhaltungsverband 114 - Vechte, Neuenhaus, verder te noemen „Unterhaltungsverband”, vertegenwoordigd door de voorzitter, en het waterschap Bargerbeek, Klazienaveen, verder te noemen „waterschap”, vertegenwoordigd door de voorzitter, - overwegende, dat de waterhuishoudkundige situatie in het gebied van het Schoonebeekerdiep/Grenzaa sinds de op 9 en 14.08.1929 en op 19.04 en 08.06.1956 gesloten overeenkomst tussen de Landkreis Grafschaft Bentheim en het waterschap Schoonebeekerdiep - rechtsopvolger is het waterschap Bargerbeek - betreffende de uitvoering van het plan ter verbetering van de afvoermogelijkheden van het Schoonebeekerdiep/Grenzaa, alsmede de destijds afgesloten onderhoudsovereenkomst, sedert 1968 belangrijk gewijzigd is door de verruiming, waardoor de grondslagen voor genoemde overeenkomsten weggevallen zijn, - overwegende, dat de rechten en plichten van de beide partijen, met betrekking tot de verruiming van het Schoonebeekerdiep/Grenzaa, zich naar de volgende criteria moeten schikken: 1. naar grootte van het neerslaggebied van het Schoonebeekerdiep/Grenzaa aan weerszijden van de grens, in de procentuele verhouding Unterhaltungsverband : waterschap = 73 : 27 1.1. voor de verruiming van de stroom van km 0,000 tot km 20,766 1.2. voor de grondverwerving van het onder 1.1 genoemde traject 1.3. voor de nieuwbouw van de Berendsbrug bij km 0,425 Wilmsbrug bij km 9,454 Almingsbrug bij km 16,462 1.4. voor de stuwen bij km 8,580 en km 13,346 2. naar het gelijkwaardige belang van de beide partijen, in de procentuele verhouding Unterhaltungsverband : waterschap = 50 : 50 2.1. voor de bruggen bij de stuwen bij km 8,580 en km 17,338 2.2 voor de stuw bij km 5,488 2.3. voor de grondverwerving (grondruiling aan weerskanten van de grens) in plaats van de bouw van nieuwe bruggen 3. voor eventuele nieuw te bouwen bruggen ingeval grondruil aan weerszijden van de grens niet mogelijk is, in de verhouding Unterhaltungsverband : waterschap = 2 : 1 4. voor het eenzijdige belang van het waterschap bij de bouw van de stuw bij km 17,338, in de procentuele verhouding Unterhaltungsverband : waterschap = 0 : 100 - met de wens om na de verruiming van het Schoonebeekerdiep/Grenzaa een nieuwe onderhoudsregeling te treffen en het Schoonebeekerdiep/Grenzaa, alsmede de Nieuwe Sloot/Grenzschloot zo in stand te houden, dat de onbelemmerde afvoer overeenkomstig de capaciteit van het natte profiel verzekerd is, - in aanmerking genomen paragraaf 4, artikel 59, lid 2 van het op 8 april 1960 gesloten grensverdrag tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden, sluiten de volgende overeenkomst:*
 
 ##### Artikel 1
 
@@ -161,7 +89,7 @@ Het voorzitterschap wordt jaarlijks afwisselend gevoerd door een vertegenwoordig
 
 GETEKEND te Coevorden, 8 maart 1983 in vijfvoud, elk in de Duitse en Nederlandse taal, waarbij iedere tekst in gelijke mate bindend is.
 
-**Voor het Unterhaltungsverband 114- Vechte,**
+*Voor het Unterhaltungsverband 114- Vechte,*
 
 (w.g.) SCHÖPPERT
 
@@ -171,7 +99,7 @@ Verbandsvorsteher
 
 Geschäftsführer
 
-**Voor het waterschap Bargerbeek,**
+*Voor het waterschap Bargerbeek,*
 
 (w.g.) K. MEINDERS
 

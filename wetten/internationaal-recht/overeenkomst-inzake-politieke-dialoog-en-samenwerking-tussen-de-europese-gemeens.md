@@ -1,123 +1,21 @@
 ---
 title: "Overeenkomst inzake politieke dialoog en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republieken Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua en Panama, anderzijds"
 identifier: "BWBV0001726"
-country: "nl"
-rank: "verdrag"
-publication_date: "2014-05-01"
-last_updated: "2003-12-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001726"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002224833"
-version_id: "10002284652"
-internal_id: "C10008603041"
-label_id: "10002215504"
-dtd_version: "2.0"
-original_entry_into_force: "2014-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001726/2014-05-01/0"
-intitule_bron: "Trb.2004-173"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-03-23"
-intitule_published: "2004-06-24"
-intitule_in_force: "2014-05-16"
-intitule_status: "goed"
-original_publication: "Trb.2004-173"
-original_signed_date: "2005-03-23"
-original_published_date: "2004-06-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2004-173"
-entry_into_force_date: "2014-05-01"
-jci_1_3: "jci1.3:c:BWBV0001726&z=2014-05-01&g=2014-05-01"
-jci_1_0: "1.0:c:BWBV0001726&g=2014-05-01"
-citeertitel_status: "redactioneel"
-signed_date: "2005-03-23"
-entry_into_force: "2014-05-01"
+publicatiedatum: 2014-05-01
+laatste_update: 2014-05-01
+status: geldig
+toestand: 2014-05-01
+bron: "https://wetten.overheid.nl/BWBV0001726"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst inzake politieke dialoog en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republieken Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua en Panama, anderzijds
 
-Het Koninkrijk België,
+*Het Koninkrijk België, Het Koninkrijk Denemarken, De Bondsrepubliek Duitsland, De Helleense Republiek, Het Koninkrijk Spanje, De Franse Republiek, Ierland, De Italiaanse Republiek, Het Groothertogdom Luxemburg, Het Koninkrijk der Nederlanden, De Republiek Oostenrijk, De Portugese Republiek, De Republiek Finland, Het Koninkrijk Zweden, Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Verdragsluitende partijen bij het Verdrag tot oprichting van de Europese Gemeenschap en het Verdrag betreffende de Europese Unie, hierna „de lidstaten" genoemd, en De Europese Gemeenschap, hierna „de Gemeenschap” genoemd, enerzijds, en De Republiek Costa Rica, De Republiek El Salvador, De Republiek Guatemala, De Republiek Honduras, De Republiek Nicaragua, De Republiek Panama, anderzijds, Gelet op de traditionele historische en culturele banden tussen beide partijen en de wens deze betrekkingen te intensiveren door voort te bouwen op de bestaande mechanismen waardoor deze betrekkingen worden geregeld; Gelet op de positieve ontwikkelingen in beide regio's gedurende de afgelopen tien jaar, waardoor de bevordering van gemeenschappelijke doelstellingen en belangen een nieuwe fase inging en de betrekkingen intensiever, moderner en duurzaam werden, om adequaat te kunnen reageren op de huidige interne problemen en internationale gebeurtenissen; Bevestigende hun eerbied voor de democratische beginselen en de fundamentele rechten van de mens, zoals vastgelegd in de Universele Verklaring van de Rechten van de Mens; Wijzende op hun gehechtheid aan de beginselen van de rechtsstaat en van goed bestuur; Wijzende op het beginsel van gedeelde verantwoordelijkheid en overtuigd van het belang om het gebruik van illegale drugs te voorkomen en de schadelijke effecten daarvan terug te dringen, en de illegale teelt, productie en bewerking van en handel in drugs en precursoren te bestrijden; Onderstrepende hun verbintenis om samen te werken aan het verwezenlijken van armoedebestrijding, rechtvaardige en duurzame ontwikkeling met inachtneming van de kwetsbaarheid voor natuurrampen, milieubehoud en biologische diversiteit, en geleidelijke integratie van de Midden-Amerikaanse landen in de wereldeconomie; Benadrukkende het belang dat beide partijen hechten aan de consolidatie van het proces van politieke dialoog en economische samenwerking dat tot stand is gebracht in het kader van de dialoog van San José, die in 1984 werd ingesteld en in Florence in 1996 en in Madrid in 2002 is gecontinueerd; Wijzende op de noodzaak van versterking van het samenwerkingsprogramma dat is ingesteld bij de Raamovereenkomst van 1993 tussen de Europese Economische Gemeenschap en de Republiek Costa Rica, de Republiek El Salvador, de Republiek Guatemala, de Republiek Honduras, de Republiek Nicaragua en de Republiek Panama, die in 1993 ondertekend werd (hierna de „Raamovereenkomst inzake samenwerking van 1993" genoemd); Erkennende dat vooruitgang is geboekt in het proces van economische integratie in Midden-Amerika, bijvoorbeeld door de snelle totstandkoming van de Midden-Amerikaanse douane-unie, de inwerkingtreding van het mechanisme voor geschillenbeslechting in handelskwesties, de ondertekening van de Midden-Amerikaanse samenwerkingsovereenkomst inzake investeringen en de handel in diensten, en erkennende dat het noodzakelijk is de regionale integratie in Midden-Amerika te intensiveren, de regionale handel te liberaliseren en de economie te hervormen; Zich bewust van de noodzaak duurzame ontwikkeling in beide regio's te bevorderen door middel van een ontwikkelingspartnerschap met alle betrokkenen, waaronder maatschappelijke organisaties en de particuliere sector, overeenkomstig de beginselen van de consensus van Monterrey en de verklaring van Johannesburg met het bijbehorende uitvoeringsplan; Indachtig de noodzaak tot samenwerking met betrekking tot migratiekwesties; Erkennende dat de bepalingen van deze overeenkomst op geen enkele wijze verwijzen naar of geïnterpreteerd of uitgelegd mogen worden als een bepaling van het standpunt van de partijen in lopende of toekomstige bilaterale of multilaterale handelsonderhandelingen; Wijzende op de bereidheid samen te werken in internationale fora inzake kwesties van wederzijds belang; Gelet op het strategische partnerschap dat tussen de Europese Unie en Latijns-Amerika en het Caribisch gebied in het kader van de topontmoeting van Rio in 1999 tot stand is gekomen en op de top van Madrid in 2002 is bevestigd; en Gezien de verklaring van Madrid van mei 2002; Hebben besloten deze overeenkomst te sluiten:*
 
-Het Koninkrijk Denemarken,
-
-De Bondsrepubliek Duitsland,
-
-De Helleense Republiek,
-
-Het Koninkrijk Spanje,
-
-De Franse Republiek,
-
-Ierland,
-
-De Italiaanse Republiek,
-
-Het Groothertogdom Luxemburg,
-
-Het Koninkrijk der Nederlanden,
-
-De Republiek Oostenrijk,
-
-De Portugese Republiek,
-
-De Republiek Finland,
-
-Het Koninkrijk Zweden,
-
-Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-Verdragsluitende partijen bij het Verdrag tot oprichting van de Europese Gemeenschap en het Verdrag betreffende de Europese Unie, hierna „de lidstaten" genoemd, en
-
-De Europese Gemeenschap, hierna „de Gemeenschap” genoemd,
-
-enerzijds, en
-
-De Republiek Costa Rica,
-
-De Republiek El Salvador,
-
-De Republiek Guatemala,
-
-De Republiek Honduras,
-
-De Republiek Nicaragua,
-
-De Republiek Panama,
-
-anderzijds,
-
-Gelet op de traditionele historische en culturele banden tussen beide partijen en de wens deze betrekkingen te intensiveren door voort te bouwen op de bestaande mechanismen waardoor deze betrekkingen worden geregeld;
-
-Gelet op de positieve ontwikkelingen in beide regio's gedurende de afgelopen tien jaar, waardoor de bevordering van gemeenschappelijke doelstellingen en belangen een nieuwe fase inging en de betrekkingen intensiever, moderner en duurzaam werden, om adequaat te kunnen reageren op de huidige interne problemen en internationale gebeurtenissen;
-
-Bevestigende hun eerbied voor de democratische beginselen en de fundamentele rechten van de mens, zoals vastgelegd in de Universele Verklaring van de Rechten van de Mens;
-
-Wijzende op hun gehechtheid aan de beginselen van de rechtsstaat en van goed bestuur;
-
-Wijzende op het beginsel van gedeelde verantwoordelijkheid en overtuigd van het belang om het gebruik van illegale drugs te voorkomen en de schadelijke effecten daarvan terug te dringen, en de illegale teelt, productie en bewerking van en handel in drugs en precursoren te bestrijden;
-
-Onderstrepende hun verbintenis om samen te werken aan het verwezenlijken van armoedebestrijding, rechtvaardige en duurzame ontwikkeling met inachtneming van de kwetsbaarheid voor natuurrampen, milieubehoud en biologische diversiteit, en geleidelijke integratie van de Midden-Amerikaanse landen in de wereldeconomie;
-
-Benadrukkende het belang dat beide partijen hechten aan de consolidatie van het proces van politieke dialoog en economische samenwerking dat tot stand is gebracht in het kader van de dialoog van San José, die in 1984 werd ingesteld en in Florence in 1996 en in Madrid in 2002 is gecontinueerd;
-
-Wijzende op de noodzaak van versterking van het samenwerkingsprogramma dat is ingesteld bij de Raamovereenkomst van 1993 tussen de Europese Economische Gemeenschap en de Republiek Costa Rica, de Republiek El Salvador, de Republiek Guatemala, de Republiek Honduras, de Republiek Nicaragua en de Republiek Panama, die in 1993 ondertekend werd (hierna de „Raamovereenkomst inzake samenwerking van 1993" genoemd);
-
-Erkennende dat vooruitgang is geboekt in het proces van economische integratie in Midden-Amerika, bijvoorbeeld door de snelle totstandkoming van de Midden-Amerikaanse douane-unie, de inwerkingtreding van het mechanisme voor geschillenbeslechting in handelskwesties, de ondertekening van de Midden-Amerikaanse samenwerkingsovereenkomst inzake investeringen en de handel in diensten, en erkennende dat het noodzakelijk is de regionale integratie in Midden-Amerika te intensiveren, de regionale handel te liberaliseren en de economie te hervormen;
-
-Zich bewust van de noodzaak duurzame ontwikkeling in beide regio's te bevorderen door middel van een ontwikkelingspartnerschap met alle betrokkenen, waaronder maatschappelijke organisaties en de particuliere sector, overeenkomstig de beginselen van de consensus van Monterrey en de verklaring van Johannesburg met het bijbehorende uitvoeringsplan;
-
-Indachtig de noodzaak tot samenwerking met betrekking tot migratiekwesties;
-
-Erkennende dat de bepalingen van deze overeenkomst op geen enkele wijze verwijzen naar of geïnterpreteerd of uitgelegd mogen worden als een bepaling van het standpunt van de partijen in lopende of toekomstige bilaterale of multilaterale handelsonderhandelingen;
-
-Wijzende op de bereidheid samen te werken in internationale fora inzake kwesties van wederzijds belang;
-
-Gelet op het strategische partnerschap dat tussen de Europese Unie en Latijns-Amerika en het Caribisch gebied in het kader van de topontmoeting van Rio in 1999 tot stand is gekomen en op de top van Madrid in 2002 is bevestigd; en
-
-Gezien de verklaring van Madrid van mei 2002;
-
-Hebben besloten deze overeenkomst te sluiten:
-
-## TITEL I. BEGINSELEN, DOELSTELLINGEN EN TOEPASSINGSGEBIED VAN DE OVEREENKOMST
+### TITEL I. BEGINSELEN, DOELSTELLINGEN EN TOEPASSINGSGEBIED VAN DE OVEREENKOMST
 
 ##### Artikel 1. Beginselen
 
@@ -141,7 +39,7 @@ Hebben besloten deze overeenkomst te sluiten:
 
 6. De partijen komen overeen geregeld de vorderingen te toetsen, rekening houdend met hetgeen voor de inwerkingtreding van de overeenkomst reeds is bereikt.
 
-## TITEL II. POLITIEKE DIALOOG
+### TITEL II. POLITIEKE DIALOOG
 
 ##### Artikel 3. Doelstellingen
 
@@ -169,7 +67,7 @@ en dat hierbij zo veel mogelijk gebruik maakt van de diplomatieke kanalen.
 
 De partijen coördineren zo veel mogelijk overeenkomstig hun belangen hun standpunten en ondernemen gezamenlijke initiatieven in toepasselijke internationale fora, en werken samen op het gebied van het buitenlands en veiligheidsbeleid.
 
-## TITEL III. SAMENWERKING
+### TITEL III. SAMENWERKING
 
 ##### Artikel 6. Doelstellingen
 
@@ -285,9 +183,9 @@ De partijen komen overeen dat de samenwerking op het gebied van het mededingings
 
 - a. verlening van technische bijstand aan Midden-Amerika door middel van programma's op het gebied van normalisatie, accreditatie, certificering en metrologie om op deze gebieden een systeem en structuren op te zetten die verenigbaar zijn met:
 
-- – de internationale normen;
+   - – de internationale normen;
 
-- – de essentiële vereisten voor bescherming van de veiligheid en gezondheid van de mens, het voortbestaan van planten en dieren, bescherming van de consument en behoud van het milieu.
+   - – de essentiële vereisten voor bescherming van de veiligheid en gezondheid van de mens, het voortbestaan van planten en dieren, bescherming van de consument en behoud van het milieu.
 
 - b. de samenwerking op dit gebied moet de markttoegang vergemakkelijken.
 
@@ -641,9 +539,9 @@ De partijen zijn het erover eens dat de samenwerking op dit terrein dient bij te
 
 3. In het kader van de samenwerking ter voorkoming en controle van illegale migratie komen de partijen eveneens overeen elkaars illegale migranten over te nemen. Hiertoe geldt het volgende:
 
-- –. ieder Midden-Amerikaans land zal op verzoek en zonder verder formaliteiten onderdanen die illegaal verblijven op het grondgebied van een lidstaat van de Europese Unie overnemen, hun van de vereiste identiteitsdocumenten voorzien en hun toegang verlenen tot de in dit verband noodzakelijke administratieve faciliteiten;
+- – ieder Midden-Amerikaans land zal op verzoek en zonder verder formaliteiten onderdanen die illegaal verblijven op het grondgebied van een lidstaat van de Europese Unie overnemen, hun van de vereiste identiteitsdocumenten voorzien en hun toegang verlenen tot de in dit verband noodzakelijke administratieve faciliteiten;
 
-- –. iedere lidstaat van de Europese Unie zal op verzoek en zonder verder formaliteiten onderdanen die illegaal verblijven op het grondgebied van een Midden-Amerikaans land overnemen, hun van de vereiste identiteitsdocumenten voorzien en hun toegang verlenen tot de in dit verband noodzakelijke administratieve faciliteiten.
+- – iedere lidstaat van de Europese Unie zal op verzoek en zonder verder formaliteiten onderdanen die illegaal verblijven op het grondgebied van een Midden-Amerikaans land overnemen, hun van de vereiste identiteitsdocumenten voorzien en hun toegang verlenen tot de in dit verband noodzakelijke administratieve faciliteiten.
 
 De partijen komen overeen indien gewenst en zo snel mogelijk een overeenkomst te sluiten waarin specifieke verplichtingen inzake deze overname zijn vastgelegd voor de lidstaten van de Europese Unie en de landen in Midden-Amerika. In deze overeenkomst zal ook de overname van ingezetenen van derde landen en statenlozen geregeld worden.
 
@@ -659,7 +557,7 @@ In dit verband wordt met „partijen" bedoeld: de Gemeenschap, al haar lidstaten
 
 - c. door uitwisseling van inzichten over middelen en methoden om het terrorisme te bestrijden, onder meer op technisch gebied en wat opleiding betreft, en door uitwisseling van ervaringen met betrekking tot het voorkomen van terrorisme.
 
-## TITEL IV. ALGEMENE EN SLOTBEPALINGEN
+### TITEL IV. ALGEMENE EN SLOTBEPALINGEN
 
 ##### Artikel 51. Methoden
 

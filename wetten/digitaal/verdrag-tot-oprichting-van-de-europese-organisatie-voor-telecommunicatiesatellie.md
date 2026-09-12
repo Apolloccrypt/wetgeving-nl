@@ -1,379 +1,343 @@
 ---
-title: "Verdrag tot oprichting van de Europese Organisatie voor Telecommunicatiesatellieten \"EUTELSAT\", zoals gewijzigd op 20 mei 1999"
+title: "Verdrag tot oprichting van de Europese Organisatie voor Telecommunicatiesatellieten 'EUTELSAT', zoals gewijzigd op 20 mei 1999"
 identifier: "BWBV0002146"
-country: "nl"
-rank: "verdrag"
-publication_date: "2002-11-28"
-last_updated: "2002-11-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002146"
+categorie: "Digitaal en privacy"
 soort: "verdrag"
-stam_id: "10002678383"
-version_id: "10002678102"
-internal_id: "C10006979151"
-label_id: "10002667784"
-dtd_version: "2.0"
-original_entry_into_force: "1985-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002146/2002-11-28/0"
-intitule_bron: "Trb.1983-96"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1985-04-29"
-intitule_published: "1983-06-02"
-intitule_in_force: "1985-08-14"
-intitule_status: "goed"
-original_publication: "Trb.1983-96"
-original_signed_date: "1985-04-29"
-original_published_date: "1983-06-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1983-96"
-entry_into_force_date: "1985-09-01"
-jci_1_3: "jci1.3:c:BWBV0002146&z=2002-11-28&g=2002-11-28"
-jci_1_0: "1.0:c:BWBV0002146&g=2002-11-28"
-citeertitel_status: "officieel"
-signed_date: "1985-04-29"
-entry_into_force: "1985-09-01"
+publicatiedatum: 1985-09-01
+laatste_update: 2002-11-28
+status: geldig
+toestand: 2002-11-28
+bron: "https://wetten.overheid.nl/BWBV0002146"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tot oprichting van de Europese Organisatie voor Telecommunicatiesatellieten "EUTELSAT", zoals gewijzigd op 20 mei 1999
 
-Preambule
+*Preamble The States Parties to this Convention, Underlining the importance of telecommunications by satellite for the development of relations between their peoples and their economies, and their desire to strengthen their cooperation in this field, Noting that the Provisional European Telecommunications Satellite Organization «INTERIM EUTELSAT» was established for the purpose of operating space segments of European telecommunications satellite systems, Considering the relevant provisions of the Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, Including the Moon and Other Celestial Bodies, done at London, Moscow and Washington on 27 Januari 1967, Wishing to continue the establishment and operation of the EUTELSAT telecommunications satellite system as part of a trans-European telecommunications network for providing telecommunications services to all participating States, without prejudice to the rights and obligations of the States parties to the relevant European Union and other international agreements. Recognizing the need to keep under review and, as necessary, to adapt to technical, economic, regulatory and political developments in Europe and globally, and, in particular, the will to transfer the operational activities and associated assets of EUTELSAT to a limited liability company to be established under a national jurisdiction, such company to operate on a sound economic and financial basis having regard to accepted commercial principles, and to the Arrangement. Agree as follows:*
 
-De Staten die Partij zijn bij dit Verdrag,
+##### Article I. Definitions
 
-De nadruk leggend op het belang van telecommunicatie door middel van satellieten voor de verbetering van de betrekkingen tussen hun volken en hun economieën, en op hun verlangen hun samenwerking op dit gebied te vergroten,
+For the purpose of this Convention:
 
-Overwegend dat de Voorlopige Europese Organisatie voor Telecommunicatiesatellieten „INTERIM EUTELSAT” werd opgericht ten behoeve van de exploitatie van ruimtesectoren van Europese systemen van telecommunicatiesatellieten,
+- a) “Convention” means the Convention establishing the European Telecommunications Satellite Organization “EUTELSAT” including its Preamble and its Annexes, opened for signature by Governments at Paris on 15 July 1982 as subsequently amended:
 
-Gelet op de desbetreffende bepalingen van het [Verdrag inzake de beginselen waaraan de activiteiten van Staten zijn onderworpen bij het onderzoek en gebruik van de kosmische ruimte, met inbegrip van de maan en andere hemellichamen](https://wetten.overheid.nl/jci1.3:c:BWBV0004403), gesloten te Londen, Moskou en Washington op 27 januari 1967,
+- b) “Provisional Agreement” means the Agreement on the Constitution of a Provisional European Telecommunications Satellite Organization “INTERIM EUTELSAT”, done at Paris on 13 May 1977 between Administrations or Recognized Private Operating Agencies and deposited with the French Administration;
 
-Verlangend de totstandkoming en exploitatie van het EUTELSAT-systeem van telecommunicatiesatellieten voort te zetten als onderdeel van een trans-Europees telecommunicatienet dat dienst zal doen voor het telecommunicatieverkeer tussen alle deelnemende Staten, onverminderd de rechten en verplichtingen van de Staten die Partij zijn bij de desbetreffende Verdragen van de Europese Unie en andere internationale overeenkomsten,
+- c) “ECS Agreement” means the Supplementary Agreement to the Provisional Agreement relating to the space segment of the Satellite Telecommunications System for Fixed Service (ECS), done at Paris on 10 March 1978;
 
-Erkennend de noodzaak de technische, economische, reglementaire en politieke ontwikkelingen in Europa en de wereld te volgen en zich hieraan zonodig aan te passen, en met name de wens de exploitatie-werkzaamheden en de bijbehorende activa van EUTELSAT onder te brengen in een onder een nationale rechtsbevoegdheid vallende vennootschap met beperkte aansprakelijkheid, die, met inachtneming van algemeen aanvaarde commerciële grondbeginselen en overeenkomstig de Regeling, werkt op een gezonde economische en financiële grondslag,
+- d) “Party” means a State for which the Convention has entered into force or has been provisionally applied;
 
-Zijn als volgt overeengekomen:
+- e) “The Director General of EUTELSAT” means the head of the executive organ of EUTELSAT;
 
-##### Artikel I. Begripsomschrijvingen
+- f) “The Executive Secretary of EUTELSAT” means the head of the Secretariat of EUTELSAT;
 
-In dit Verdrag wordt verstaan onder:
+- g) “The Company Eutelsat S.A.” means a corporate entity established under the laws of one of the Parties; it will initially be located in France;
 
-- a). „Verdrag”: het Verdrag tot oprichting van de Europese Organisatie voor Telecommunicatiesatellieten „EUTELSAT”, met inbegrip van de Preambule en de Bijlagen, op 15 juli 1982 te Parijs opengesteld voor ondertekening door de Regeringen, zoals nadien gewijzigd;
+- h) “Space Segment” means a set of telecommunications satellites, and the tracking, telemetering, command, control, monitoring and related facilities and equipment for the operational support of those satellites;
 
-- b). „Voorlopige Overeenkomst”: de Overeenkomst inzake de oprichting van een Voorlopige Europese Organisatie voor Telecommunicatiesatellieten „INTERIM EUTELSAT”, gesloten te Parijs op 13 mei 1977 tussen administraties of erkende particuliere telecommunicatiebedrijven en nedergelegd bij de Franse administratie;
+- i) “Satellite system” means the unit formed by a space segment and the earth stations having access to that space segment;
 
-- c). „ECS-Overeenkomst”: de Aanvullende Overeenkomst bij de Voorlopige Overeenkomst inzake de ruimtesector van het stelsel van telecommunicatiesatellieten voor vaste radioverbindingen (ECS), gesloten te Parijs op 10 maart 1978;
+- j) “Telecommunications” means any transmission, emission or reception of signs, signals, writing, images and sounds or intelligence of any nature, by wire, radio, optical or other electromagnetic systems;
 
-- d). „Partij”: een Staat waarvoor het Verdrag in werking is getreden of voorlopig wordt toegepast;
+- k) “The Basic Principles” means the principles referred to in Article III a) of the Convention;
 
-- e). „De Directeur-Generaal van EUTELSAT”: het hoofd van het Uitvoerend Orgaan van EUTELSAT;
+- l) “The Arrangement” means the Arrangement between EUTELSAT and the Company Eutelsat S.A. having as its purposes to define the relationship between EUTELSAT and the Company Eutelsat S.A. and their respective obligations and in particular to provide the framework that will enable EUTELSAT to oversee and ensure the observance by the Company Eutelsat S.A. of the Basic Principles.
 
-- f). „De Algemeen Secretaris van EUTELSAT”: het hoofd van het Secretariaat van EUTELSAT;
+##### Article II. Establishment of EUTELSAT and the Company Eutelsat S.A.
 
-- g). „De Vennootschap Eutelsat S.A.”: een rechtspersoon opgericht krachtens het recht van een van de partijen; de Vennootschap wordt in eerste instantie in Frankrijk gevestigd;
+- a) The Parties hereby establish the European Telecommunications Satellite Organization, hereinafter referred to as EUTELSAT.
 
-- h). „Ruimtesector”: een groep telecommunicatiesatellieten en de voor het doen functioneren van deze satellieten benodigde installaties en uitrusting ten dienste van de plaatsbepaling, de telemetrie, de besturing, de controle en de bewaking, alsmede soortgelijke voorzieningen;
+- b)
 
-- i). „Systeem van satellieten”: het geheel dat gevormd wordt door een ruimtesector en de grondstations die toegang hebben tot deze ruimtesector;
+   - i) The Company Eutelsat S.A. will be established to operate a satellite system and to provide satellite services and for this purpose, EUTELSAT's assets and operational activities will be transferred to the Company Eutelsat S.A.;
 
-- j). „Telecommunicatie”: elke overbrenging, uitzending of ontvangst van tekens, signalen, schrift, beelden en geluiden of informatie van welke aard ook, door middel van draad- of radiostelsels, optische of andere elektromagnetische stelsels;
+   - ii) The Company Eutelsat S.A. shall be governed by its constituent instruments and by the laws of the place of its incorporation;
 
-- k). „De Grondbeginselen”: de in artikel III, letter a, van het Verdrag bedoelde beginselen;
+   - iii) Any Party in whose territory the Company Eutelsat S.A.'s headquarters are settled or in which assets are located and/or operated shall, in accordance with arrangements to be made between the Party and the Company Eutelsat S.A., take such measures as may be necessary to facilitate the establishment and operation of the Company Eutelsat S.A.
 
-- l). „De Regeling”: de Regeling tussen EUTELSAT en de Vennootschap Eutelsat S.A., waarin de relatie tussen EUTELSAT en de Vennootschap Eutelsat S.A. en hun respectieve verplichtingen worden vastgelegd, en die met name het kader vormt dat EUTELSAT in staat stelt de naleving van de Grondbeginselen door de Vennootschap Eutelsat S.A. te waarborgen, alsmede hierop toezicht te houden.
+- c) The relationship between EUTELSAT and the Company Eutelsat S.A. shall be established in the Arrangement.
 
-##### Artikel II. Oprichting van EUTELSAT en van de Vennootschap Eutelsat S.A.
+- d) The relevant provisions of Annex A to the Convention shall apply for the purpose of continuity between the activities of EUTELSAT and those of the Company Eutelsat S.A.
 
-- a). De Partijen richten hierbij de Europese Organisatie voor Telecommunicatiesatellieten op, hierna te noemen: „EUTELSAT”.
+##### Article III. Purposes of EUTELSAT
 
-- b).
+- a) The primary purpose of EUTELSAT is to ensure that the Basic Principles set forth in this Article are observed by the Company Eutelsat S.A. namely:
 
-- i. De Vennootschap Eutelsat S.A. wordt opgericht voor de exploitatie van een satellietstelsel en de levering van satellietdiensten en hiertoe worden de activa en operationele activiteiten overgedragen aan de Vennootschap Eutelsat S.A.;
+   - i) public service/universal service obligations: such obligations apply to space segment and to its use to provide services connected to the public switched telephone network; audiovisual services and future services will be provided in conformity with the relevant national regulations and international agreements, in particular the provisions of the European Convention on Transfrontier Television, taking account of those applying to the universal service concept and the information society;
 
-- ii. Op de Vennootschap Eutelsat S.A. zijn haar oprichtingsakten alsook het recht van het land waar zij is opgericht, van toepassing;
+   - ii) pan-European coverage by the satellite system: the Company Eutelsat S.A. shall, on an economic basis, seek through the pan-European coverage of its satellite system to serve all areas where there is a need for communications services in Member States;
 
-- iii. Elke Partij op wier grondgebied de Vennootschap Eutelsat S.A. haar zetel heeft of waar zich activa bevinden en/of worden geëxploiteerd, neemt, overeenkomstig de tussen deze Partij en de Vennootschap Eutelsat S.A. te treffen regelingen, de nodige maatregelen ter vergemakkelijking van de oprichting en het functioneren van de Vennootschap Eutelsat S.A.
+   - iii) non discrimination: services shall be provided to users on an equitable basis subject to commercial flexibility and consistent with applicable laws;
 
-- c). De relatie tussen EUTELSAT en de Vennootschap Eutelsat S.A. wordt vastgelegd in de Regeling.
+   - iv) fair competition: the Company Eutelsat S.A. shall comply with all applicable laws and regulations relating to fair competition.
 
-- d). De desbetreffende bepalingen in Bijlage A bij het Verdrag zijn van toepassing ten behoeve van de continuïteit tussen de werkzaamheden van EUTELSAT en die van de Vennootschap Eutelsat S.A.
+- b) EUTELSAT shall also have the purpose of ensuring continuity regarding rights and obligations under international law, in particular under the Radio Regulations for the use of frequencies deriving from the operation of the EUTELSAT space segment transferred to the Company Eutelsat S.A.
 
-##### Artikel III. Doel van EUTELSAT
+##### Article IV. Legal Personality
 
-- a). Het hoofddoel van EUTELSAT is te waarborgen dat de in dit artikel genoemde Grondbeginselen door de Vennootschap Eutelsat S.A. worden nageleefd, te weten:
+- a) EUTELSAT shall have legal personality.
 
-- i. openbare/universele dienstverleningsverplichtingen: deze verplichtingen zijn van toepassing op de ruimtesector en op het gebruik ervan voor de levering van diensten die zijn aangesloten op het openbare vaste telefoonnetwerk; audiovisuele en toekomstige diensten worden geleverd overeenkomstig de desbetreffende nationale voorschriften en internationale overeenkomsten, met name de bepalingen van het Europees Verdrag inzake grensoverschrijdende televisie en rekening houdend met die voorschriften en overeenkomsten die van toepassing zijn op het concept van universele dienstverlening en de informatiemaatschappij;
+- b) EUTELSAT shall enjoy the full capacity necessary for the exercise of its functions and the achievement of its purposes, and may in particular:
 
-- ii. pan-Europese dekking door het satellietsysteem: de Vennootschap Eutelsat S.A. tracht door middel van de pan-Europese dekking van haar satellietsysteem, op een economische grondslag, alle gebieden in de lidstaten te bereiken waar behoefte is aan communicatiediensten;
+   - i) enter into contracts;
 
-- iii. non-discriminatie: de diensten worden op basis van billijkheid aan de gebruikers geleverd, met inachtneming van commerciële flexibiliteit en verenigbaar met de geldende wetten;
+   - ii) acquire, lease, hold and dispose of movable and immovable property;
 
-- iv. eerlijke concurrentie: de Vennootschap Eutelsat S.A. leeft alle op het gebied van concurrentie geldende wetten en voorschriften na;
+   - iii) be a party to legal proceedings;
 
-- b). EUTELSAT heeft eveneens ten doel de continuïteit te waarborgen met betrekking tot de rechten en verplichtingen krachtens het internationale recht die voortvloeien uit de exploitatie van de aan de Vennootschap Eutelsat S.A. overgedragen EUTELSAT-ruimtesector, met name die welke voortvloeien uit het Radioreglement ten aanzien van het gebruik van frequenties.
+   - iv) conclude agreements with States or international organizations.
 
-##### Artikel IV. Rechtspersoonlijkheid
+##### Article V. Costs
 
-- a). EUTELSAT bezit rechtspersoonlijkheid.
+- a) Arrangements shall be concluded between EUTELSAT and the Company Eutelsat S.A. to meet costs and expenses of EUTELSAT, according to the Arrangement.
 
-- b). EUTELSAT heeft alle bevoegdheden die nodig zijn voor de uitoefening van haar functies en de verwezenlijking van haar doeleinden, en mag in het bijzonder:
+- b) The costs incurred in establishing and operating the Secretariat, including, but not limited to rent and associated costs of maintaining office premises, salaries and emoluments of staff, costs of organizing and holding meetings of the Assembly of Parties, the costs of consultations between EUTELSAT and the Parties and other organizations and costs of applying measures taken by EUTELSAT under Article III to ensure that the Basic Principles are observed by the Company Eutelsat S.A. shall be borne by the Company Eutelsat S.A. in accordance with paragraph a) of Article V, within the relevant ceilings set forth in the Agreement.
 
-- i). contracten aangaan;
+##### Article VI. Structure EUTELSAT
 
-- ii). roerende en onroerende goederen kopen, huren, bezitten en verkopen;
+- a) EUTELSAT shall have the following organs:
 
-- iii). zich partij stellen in een geding;
+   - i) the Assembly of Parties;
 
-- iv). overeenkomsten sluiten met Staten of internationale organisaties.
+   - ii) the Secretariat, headed by the Executive Secretary.
 
-##### Artikel V. Kosten
+- b) Each organ shall act within the limits of the powers that are conferred upon it by the Convention.
 
-- a). Tussen EUTELSAT en de Vennootschap Eutelsat S.A. worden regelingen getroffen ter dekking van de kosten en uitgaven van EUTELSAT, overeenkomstig de Regeling.
+##### Article VII. Assembly of Parties – Composition and Meetings
 
-- b). De kosten gemoeid met de oprichting en het functioneren van het Secretariaat, met inbegrip van, maar niet beperkt tot, de huur en bijkomende kosten voor de instandhouding van kantoorruimte, de salarissen en emolumenten van het personeel, kosten van het organiseren en houden van vergaderingen van de Assemblee van Partijen, kosten van overleg tussen EUTELSAT en de Partijen en andere organisaties en kosten die samenhangen met de toepassing van de door EUTELSAT krachtens artikel III getroffen maatregelen om te waarborgen dat de Grondbeginselen door de Vennootschap Eutelsat S.A. worden nageleefd, worden in overeenstemming met het bepaalde onder a van artikel V gedragen door de Vennootschap Eutelsat S.A., binnen de in de Regeling vastgestelde limieten.
+- a) The Assembly of Parties shall be composed of all the Parties.
 
-##### Artikel VI. Structurele opzet van EUTELSAT
+- b) A Party may be represented by another Party in a meeting of the Assembly of Parties, but no Party may represent more than two other Parties.
 
-- a). EUTELSAT heeft de volgende organen:
+- c) The first ordinary meeting of the Assembly of Parties shall be convened within one year after the date on which the Convention enters into force. Ordinary meetings shall thereafter be held every two years unless the Assembly of Parties decides at an ordinary meeting that the following meeting shall be held at a different interval.
 
-- i). de Assemblee van Partijen;
+- d) The Assembly of Parties may also hold extraordinary meetings at the request of one or more Parties supported by at least one-third of the Parties or at the request of the Company Eutelsat S.A. Such a request shall state the purpose of the meeting.
 
-- ii). het Secretariaat, met aan het hoofd de Algemeen Secretaris;
+- e) Each Party shall meet its own costs of representation at meetings of the Assembly of Parties.
 
-- b). Elk orgaan dient te handelen binnen de grenzen van de bevoegdheden die het door het Verdrag zijn verleend.
+##### Article VIII. Assembly of Parties – Procedure
 
-##### Artikel VII. Assemblee van Partijen: samenstelling en vergaderingen
+- a) Each Party shall have one vote in the Assembly of Parties. Parties abstaining from voting shall be considered as not voting.
 
-- a). De Assemblee van Partijen is samengesteld uit alle Partijen.
+- b) Decisions on matters of substance shall be taken by an affirmative vote cast by at least two-thirds of the Parties present or represented and voting. A Party which represents one or two other Parties under paragraph b) of Article VII of the Convention may vote separately for each Party it represents.
 
-- b). Een Partij mag door een andere Partij worden vertegenwoordigd op een vergadering van de Assemblee van Partijen, maar een Partij mag niet meer dan twee andere Partijen vertegenwoordigen.
+- c) Decisions on procedural matters shall be taken by an affirmative vote cast by a simple majority of the Parties present and voting, each having one vote.
 
-- c). De eerste gewone vergadering van de Assemblee van Partijen wordt bijeengeroepen binnen één jaar na de datum waarop het Verdrag in werking treedt. Gewone vergaderingen worden daarna eens in de twee jaar gehouden, tenzij de Assemblee van Partijen tijdens een gewone vergadering besluit dat ten aanzien van de volgende bijeenkomst een andere tussentijd in acht wordt genomen.
+- d) A quorum for any meeting of the Assembly of Parties shall consist of representatives of a simple majority of all the Parties, provided that no less than one-third of all the Parties are present.
 
-- d). De Assemblee van Partijen kan ook buitengewone vergaderingen houden op verzoek van één of meer Partijen, gesteund door ten minste éénderde van de Partijen, of op verzoek van de Vennootschap Eutelsat S.A. ln dit verzoek dient het doel van de vergadering te worden vermeld.
+- e) The Assembly of Parties shall adopt its rules of procedure, which shall be consistent with the provisions of the Convention and which, in particular, shall include provisions for:
 
-- e). Elke Partij draagt zelf de kosten van vertegenwoordiging op de vergaderingen van de Assemblee van Partijen.
+   - i) election of its Chairman and other officers;
 
-##### Artikel VIII. Assemblee van Partijen: procedure
+   - ii) convening of meetings;
 
-- a). Elke Partij brengt één stem uit in de Assemblee van Partijen. De Partijen die zich van stemming onthouden, worden geacht niet aan de stemming te hebben deelgenomen.
+   - iii) representation and accreditation;
 
-- b). Beslissingen inzake materiële zaken worden genomen bij goedkeuring door ten minste tweederde van de uitgebrachte stemmen van de aanwezige of vertegenwoordigde en hun stem uitbrengende Partijen. Een Partij die één of twee andere Partijen vertegenwoordigt overeenkomstig het bepaalde onder b van artikel VII van het Verdrag, kan een afzonderlijke stem uitbrengen voor elke Partij die zij vertegenwoordigt.
+   - iv) voting procedures.
 
-- c). Beslissingen inzake procedurele zaken worden genomen bij goedkeuring door een gewone meerderheid van de uitgebrachte stemmen van de aanwezige en hun stem uitbrengende Partijen, die elk één stem uitbrengen.
+##### Article IX. Assembly of Parties – Functions
 
-- d). Het quorum voor vergaderingen van de Assemblee van Partijen wordt gevormd door de vertegenwoordigers van een gewone meerderheid van alle Partijen, mits ten minste éénderde van alle Partijen aanwezig is.
+The Assembly of Parties shall have the following functions:
 
-- e). De Assemblee van Partijen stelt haar eigen huishoudelijk reglement vast dat verenigbaar moet zijn met het bepaalde in het Verdrag en dat in het bijzonder bepalingen dient te bevatten voor:
+- a) to consider and to review the activities of the Company Eutelsat S.A. which relate to the Basic Principles. The Company Eutelsat S.A. may make recommendations in this connection which will be considered by the Assembly of Parties;
 
-- i). de verkiezing van haar voorzitter en andere functionarissen;
+- b) to ensure observance by the Company Eutelsat S.A. of the Basic Principles, in accordance with the Arrangement;
 
-- ii). de bijeenroeping van vergaderingen;
+- c) to take decisions on proposed changes to the Arrangement, such changes being subject to mutual agreement of the parties to the Arrangement;
 
-- iii). de vertegenwoordiging en de accreditering;
+- d) to take the appropriate decisions in order to ensure continuity regarding rights and obligations under international law, in particular under the Radio Regulations for the use of frequencies deriving from the operation of EUTELSAT Space Segment transferred to the Company Eutelsat S.A.;
 
-- iv). de stemprocedures.
+- e) to take decisions on formal relations between EUTELSAT and States, whether Parties or not, or international organizations, and in particular to negotiate the Headquarters Agreement mentioned in paragraph c) of Article XII of the Convention;
 
-##### Artikel IX. Assemblee van Partijen: functies
+- f) to take decisions on any proposal to terminate the Convention pursuant to paragraph c) of Article XIV;
 
-De Assemblee van Partijen heeft de volgende functies:
+- g) to consider complaints submitted to it by Parties;
 
-- a). zij neemt de werkzaamheden van de Vennootschap Eutelsat S.A. die verband houden met de Grondbeginselen in overweging en beoordeelt ze. De Vennootschap Eutelsat S.A. kan in dit verband aanbevelingen doen, die de Assemblee van Partijen in overweging neemt;
+- h) to take decisions under Article XIII of the Convention about the withdrawal of a Party from EUTELSAT;
 
-- b). zij waarborgt de naleving van de Grondbeginselen door de Vennootschap Eutelsat S.A., in overeenstemming met de Regeling;
+- i) to decide upon any proposal for amendment to the Convention under Article XIV of the Convention, and to submit to the Company Eutelsat S.A. any proposed amendment that is liable to affect the performance of its activities;
 
-- c). zij neemt besluiten met betrekking tot de voorgestelde wijzigingen van de Regeling, mits de partijen bij de Regeling met deze wijzigingen instemmen;
+- j) to decide upon any request for accession made in accordance with paragraph e) of Article XVIII of the Convention;
 
-- d). zij neemt de nodige beslissingen ter waarborging van de continuïteit met betrekking tot de rechten en verplichtingen krachtens internationaal recht met name krachtens het Radioreglement ten aanzien van het gebruik van frequenties die voortvloeien uit de exploitatie van de aan de Vennootschap EUTELSAT S.A. overgedragen EUTELSAT-ruimtesector;
+- k) as required under Article X of the Convention, to decide upon the appointment and removal from office of the Executive Secretary, and, upon the recommandation of the Executive Secretary, to determine the number, status, and terms and conditions of employment of all staff of the Secretariat with due consideration to the Arrangement;
 
-- e). zij neemt beslissingen omtrent de formele betrekkingen tussen EUTELSAT en al dan niet Partij zijnde Staten of internationale organisaties, en sluit in het bijzonder de Zetelovereenkomst, vermeld onder c van artikel XII van het Verdrag;
+- l) to designate a senior officer of the Secretariat to serve as Acting Executive Secretary whenever the Executive Secretary is absent or is unable to discharge duties of the office of Executive Secretary, or if this office becomes vacant;
 
-- f). zij neemt beslissingen ten aanzien van enig voorstel tot beëindiging van het Verdrag ingevolge het bepaalde onder c) van artikel XIV;
+- m) to adopt an annual or biennial budget;
 
-- g). zij neemt de door de Partijen aan haar voorgelegde klachten in overweging;
+- n) to approve changes in the location of the Company Eutelsat S.A. in accordance with the Arrangement.
 
-- h). zij neemt beslissingen, krachtens het bepaalde in artikel XIII van het Verdrag, omtrent de terugtrekking van een Partij uit EUTELSAT;
+##### Article X. The Secretariat
 
-- i). zij neemt beslissingen omtrent alle voorstellen tot wijziging van het Verdrag ingevolge het bepaalde in artikel XIV van het Verdrag, en legt aan de Vennootschap Eutelsat S.A. elk voorstel tot wijziging voor dat van invloed zou kunnen zijn op haar activiteiten;
+- a) The Secretariat shall be headed by the Executive Secretary appointed by the Assembly of Parties.
 
-- j). zij neemt beslissingen inzake alle aanvragen om toetreding die overeenkomstig het bepaalde onder e van artikel XVIII van het Verdrag zijn gedaan;
+- b) The term of office of the Executive Secretary shall be four years, unless otherwise decided by the Assembly of Parties.
 
-- k). zij beslist ingevolge artikel X van het Verdrag over de benoeming en het ontslag van de Algemeen Secretaris en zij stelt, op aanbeveling van de Algemeen Secretaris, naar behoren rekening houdend met de Regeling, het aantal, de status en de arbeidsvoorwaarden van alle personeelsleden van het Secretariaat vast;
+- c) The Assembly of Parties may remove the Executive Secretary for cause before the end of his term of office.
 
-- l). zij wijst een hoge functionaris aan bij het Secretariaat, die optreedt als plaatsvervangend Algemeen Secretaris indien de Algemeen Secretaris afwezig is of niet in staat is zijn functie te vervullen, of indien de functie van Algemeen Secretaris vacant is;
+- d) The Executive Secretary shall be the legal representative of EUTELSAT. The Executive Secretary shall act under the direction of the Assembly of Parties and shall be directly responsible to it for the performance of all functions of the Secretariat.
 
-- m). zij stelt een jaarlijkse of tweejaarlijkse begroting vast;
+- e) The Executive Secretary shall have the power to appoint all Secretariat staff subject to the approval of the Assembly under Article IX k).
 
-- n). zij hecht, in overeenstemming met de Regeling, haar goedkeuring aan wijzigingen van de vestigingsplaats van de Vennootschap Eutelsat S.A.
+- f) During any vacancy in the office of the Executive Secretary or when the Executive Secretary is absent or unable to discharge his duties, the Acting Executive Secretary, duly designated by the Assembly of Parties, shall have the capacity to exercise the powers of the Executive Secretary under the Convention.
 
-##### Artikel X. Het Secretariaat
+- g) The Executive Secretary and the staff of the Secretariat shall refrain from any action incompatible with their responsibilities to EUTELSAT.
 
-- a). Het Secretariaat wordt geleid door de Algemeen Secretaris die door de Assemblee van Partijen wordt benoemd.
+##### Article XI. Rights and Obligations
 
-- b). De duur van de ambtstermijn van de Algemeen Secretaris bedraagt vier jaar, tenzij de Assemblee van Partijen anders beslist.
+- a) The Parties shall exercise their rights and meet their obligations under the Convention in a manner fully consistent with and in furtherance of the principles and provisions of the Convention.
 
-- c). De Assemblee van Partijen kan de Algemeen Secretaris op grond van een gemotiveerde beslissing voortijdig uit zijn ambt ontzetten.
+- b) All Parties may attend and participate in all conferences and meetings in which they are entitled to be represented under any of the provisions of the Convention, and in any other meetings called by or held under the auspices of EUTELSAT in accordance with the arrangements made by it for such meetings, regardless of where they may take place.
 
-- d). De Algemeen Secretaris is de wettelijk vertegenwoordiger van EUTELSAT. Hij handelt volgens de aanwijzingen van de Assemblee van Partijen en is daaraan rechtstreeks verantwoording schuldig voor de uitoefening van alle functies van het Secretariaat.
+- c) Before any such conference or meeting is held outside the country in which the Headquarters of EUTELSAT is established, the Executive Secretary shall ensure that arrangements with the host Party for each such conference or meeting include a provision for the admission to and residence in the host country during such conference or meeting of representatives of all Parties entitled to attend.
 
-- e). De Algemeen Secretaris heeft, overeenkomstig het bepaalde van artikel IX, onder k, de bevoegdheid tot benoeming van al het personeel van het Secretariaat, onder voorbehoud van goedkeuring door de Assemblee.
+##### Article XII. EUTELSAT Headquarters, Privileges, Exemptions, Immunities
 
-- f). Indien het ambt van Algemeen Secretaris vacant is, of wanneer hij afwezig is of niet in staat is zijn functie te vervullen, is de plaatsvervangend Algemeen Secretaris, daartoe naar behoren aangewezen door de Assemblee van Partijen, gerechtigd tot het uitoefenen van alle bevoegdheden van de Algemeen Secretaris krachtens het bepaalde in het Verdrag.
+- a) The Headquarters of EUTELSAT shall be in France;
 
-- g). De Algemeen Secretaris en het personeel van het Secretariaat onthouden zich van alle handelingen die onverenigbaar zijn met hun verantwoordelijkheden jegens EUTELSAT.
+- b) Within the scope of activities authorized by the Convention, EUTELSAT and its property shall be exempt in the territory of all Parties from income and direct property taxation and from customs duties.
 
-##### Artikel XI. Rechten en verplichtingen
+- c) Each Party shall grant in accordance with the Protocol referred to in this paragraph the appropriate privileges, exemptions and immunities to EUTELSAT, to its officers, and to those categories of its employees specified in such Protocol, to Parties and representatives of Parties, and to persons participating in arbitration proceedings. In particular, each Party shall grant to these individuals immunity from legal process in respect of acts done or words written or spoken in the exercise of their functions and within the limits of their duties to the extent and in the cases to be provided for in the Protocol referred to in this paragraph. The Party in whose territory the Headquarters of EUTELSAT is located shall, as soon as possible, negotiate, or, as the case may be, re-negotiate with EUTELSAT a Headquarters Agreement covering privileges, exemptions and immunities. The other Parties shall also, as soon as possible, conclude a Protocol covering privileges, exemptions and immunities. The Headquarters Agreement and the Protocol shall each prescribe the conditions of its termination and shall be independent of the Convention.
 
-- a). De Partijen oefenen hun recht uit en voldoen aan hun verplichtingen krachtens het Verdrag op een wijze die geheel verenigbaar is met en ter bevordering dient van de beginselen en de bepalingen van het Verdrag.
+##### Article XIII. Withdrawal
 
-- b). Alle Partijen mogen alle conferenties en vergaderingen waarop zij gerechtigd zijn zich te doen vertegenwoordigen krachtens één der bepalingen van het Verdrag, bijwonen en daaraan deelnemen, met inbegrip van alle andere vergaderingen die door EUTELSAT worden bijeengeroepen of onder de auspiciën van EUTELSAT worden gehouden in overeenstemming met de door haar getroffen regelingen voor deze vergaderingen, ongeacht de plaats waar zij worden gehouden.
+- a) Any Party may withdraw voluntarily from EUTELSAT at any time by written notice to the Depositary as defined in Article XXI. Such withdrawal shall take effect three months after the date of receipt of the notice by the Depositary.
 
-- c). Voordat een dergelijke conferentie of vergadering wordt gehouden buiten het land waar de zetel van EUTELSAT zich bevindt, zorgt de Algemeen Secretaris ervoor dat de regelingen met de Partij die als gastvrouw voor deze conferentie of vergadering optreedt, een voorziening inhouden voor de toelating tot en het verblijf in het land van ontvangst voor de duur van deze conferentie of vergadering, van de vertegenwoordigers van alle Partijen die het recht tot bijwoning hebben.
+- b) If a Party appears to have failed to comply with any obligation under the Convention, the Assembly of Parties, having received notice to that effect or acting on its own initiative, and having considered any representations made by the Party, may decide, if it finds that the failure to comply has occurred, that the Party be deemed to have withdrawn from EUTELSAT and, from the date of such decision, the Convention shall cease to be in force for that Party. An extraordinary meeting of the Assembly of Parties may be convened for this purpose.
 
-##### Artikel XII. Zetel van EUTELSAT, voorrechten, vrijstellingen, immuniteiten
+- c) A Party which has withdrawn or is deemed to have withdrawn from EUTELSAT shall cease to have any right of representation in the Assembly of Parties and shall incur no obligations or responsibility after the effective date of withdrawal except for liabilities arising from acts or omissions before that date.
 
-- a). De zetel van EUTELSAT bevindt zich in Frankrijk;
+- d) Every notification of a withdrawal and every decision effecting a deemed withdrawal shall be communicated at once to all Parties by the Depositary.
 
-- b). Binnen de omvang van de werkzaamheden waartoe het Verdrag machtiging verleent, zijn EUTELSAT en haar eigendommen op het grondgebied van alle Partijen vrijgesteld van belastingen op het inkomen en het vermogen en van douanerechten.
+##### Article XIV. Amendments and Termination
 
-- c). Elke Partij verleent in overeenstemming met het in dit lid bedoelde Protocol de passende voorrechten, vrijstellingen en immuniteiten aan EUTELSAT, aan haar functionarissen en aan die categorieën van haar werknemers welke in dit Protocol zijn genoemd aan Partijen en vertegenwoordigers van Partijen, alsmede aan personen die deelnemen aan scheidsrechterlijke procedures. In het bijzonder verleent elke Partij aan deze personen vrijwaring van wettelijke maatregelen in verband met verrichte handelingen of mondelinge of schriftelijke uitingen bij de uitoefening van hun functie en binnen de grenzen van hun verplichtingen, voor zover als is bepaald, en in de gevallen als zijn voorzien, in het in dit lid bedoelde Protocol. De Partij op wier grondgebied de zetel van EUTELSAT zich bevindt, sluit of hersluit zo spoedig mogelijk een Zetelovereenkomst met EUTELSAT waarin de voorrechten, de vrijstellingen en de immuniteiten worden geregeld. De andere Partijen sluiten eveneens zo spoedig mogelijk een Protocol ter regeling van de voorrechten, de vrijstellingen en de immuniteiten. De Zetelovereenkomst en het Protocol zijn onafhankelijk van het Verdrag en in elk ervan dienen de voorwaarden voor beëindiging te worden vastgesteld.
+- a) Amendments to the Convention may be proposed by any Party and shall be communicated to the Executive Secretary who shall promptly circulate the proposals to all the Parties. The Assembly of Parties shall consider the proposed amendment not earlier than six months from its circulation, taking due account of any recommendation made by the Company Eutelsat S.A., whose views shall be solicited if the proposed amendment to the Convention is liable to affect the performance of its activities. This period may, in any particular case, be reduced by the Assembly of Parties by a decision taken in accordance with the procedure for a matter of substance.
 
-##### Artikel XIII. Terugtrekking
+- b) If adopted by the Assembly of Parties, the amendment shall enter into force one hundred and twenty days after the Depositary has received notices of acceptance from two-thirds of those States which, at the time of adoption by the Assembly of Parties, were Parties. Upon its entry into force, the amendment shall become binding upon all Parties.
 
-- a). Een Partij kan zich op elk tijdstip vrijwillig uit EUTELSAT terugtrekken door middel van een schriftelijke kennisgeving aan de in artikel XXI bedoelde Depositaris. De terugtrekking wordt van kracht drie maanden na de datum waarop de Depositaris de kennisgeving daarvan heeft ontvangen.
+- c) The Parties may bring EUTELSAT to an end by termination of the Convention by a two-thirds majority of all Parties.
 
-- b). Indien een Partij nalatig blijkt te zijn geweest in het voldoen aan enige verplichting krachtens het Verdrag, kan de Assemblee van Partijen, na ontvangst van een daartoe strekkende kennisgeving ofwel op eigen initiatief handelend, en na overweging van door de Partij aangevoerde argumenten, besluiten dat, indien zij tot de slotsom komt dat de nalatigheid in het voldoen aan enige verplichting heeft plaatsgevonden, de Partij geacht kan worden zich uit EUTELSAT te hebben teruggetrokken en dat, vanaf de datum van dat besluit, het Verdrag ophoudt van kracht te zijn voor deze Partij. Een buitengewone vergadering van de Assemblee van Partijen kan daartoe worden bijeengeroepen.
+- d) The termination of the Convention shall not affect the continued existence of the Company Eutelsat S.A.
 
-- c). Een Partij die zich heeft teruggetrokken of wordt geacht zich te hebben teruggetrokken uit EUTELSAT, heeft niet langer enig recht van vertegenwoordiging in de Assemblee van Partijen en kan geen verplichting of verantwoordelijkheid op zich nemen na de datum waarop de terugtrekking van kracht wordt, met uitzondering van aansprakelijkheden die voortvloeien uit handelingen of nalatigheden vóór deze datum.
+- e) Unless otherwise agreed with the Company Eutelsat S.A., no decision to terminate EUTELSAT under paragraph c) of this article shall be taken as long as the international rights and obligations mentioned in paragraph b) of Article III have not been entirely extinguished.
 
-- d). Elke kennisgeving van terugtrekking en elk besluit waarin een terugtrekking wordt geacht van kracht te zijn geworden, worden onverwijld door de Depositaris medegedeeld aan alle Partijen.
+##### Article XV. Settlement of Disputes
 
-##### Artikel XIV. Wijzigingen en Beëindiging
+- a) All disputes arising between Parties or between EUTELSAT and a Party or Parties in connection with the interpretation or application of the Convention shall be submitted to arbitration in accordance with Annex B to the Convention, if not otherwise settled within one year of the time a party to the dispute has notified the other party of its intention to settle such a dispute amicably.
 
-- a). Elke Partij mag wijzigingen in het Verdrag voorstellen en deze voorstellen dienen aan de Algemeen Secretaris te worden toegezonden, die de voorgestelde wijzigingen onverwijld aan alle Partijen doet toekomen. De Assemblee van Partijen neemt de voorgestelde wijziging niet eerder in overweging dan zes maanden na verzending daarvan en houdt daarbij naar behoren rekening met alle door de Vennootschap Eutelsat S.A. gedane aanbevelingen, om wier zienswijze wordt verzocht indien de voorgestelde wijziging van het Verdrag van invloed zou kunnen zijn op de uitvoering van haar werkzaamheden. De Assemblee kan in bijzondere gevallen deze termijn verkorten door middel van een besluit, genomen in overeenstemming met de procedure voor materiële zaken.
+- b) All disputes arising in connection with the interpretation and application of the Convention between a Party and a State which has ceased to be a Party, or between EUTELSAT and a State which has ceased to be a Party, and which arise after the State has ceased to be a Party, shall be submitted to arbitration in accordance with the provisions of Annex B to the Convention, if not otherwise settled within one year of the time a party to the dispute has notified the other party of its intention to settle such a dispute amicably, provided that the State which has ceased to be a Party so agrees. If a State ceases to be a Party after a dispute to which it is a disputant has been submitted to arbitration under paragraph a) of this Article, the arbitration shall be continued and concluded.
 
-- b). Een door de Assemblee van Partijen aangenomen wijziging wordt van kracht honderdtwintig dagen nadat de Depositaris kennisgevingen van aanvaarding heeft ontvangen van tweederde van de Staten die op het tijdstip van aanneming door de Assemblee van Partijen Partij bij het Verdrag waren. Zodra de wijziging van kracht wordt, wordt deze bindend voor alle Partijen.
+##### Article XVI. Signature – Reservations
 
-- c). De Partijen kunnen EUTELSAT ontbinden door middel van beëindiging van het Verdrag bij een meerderheid van tweederde van de stemmen van alle Partijen.
+- a) Any State whose telecommunications Administration or Recognized Private Operating Agency is, or has the right to become, a Signatory Party to the Provisional Agreement may become a Party to the Convention by:
 
-- d). De beëindiging van het Verdrag laat het voortbestaan van de Vennootschap Eutelsat S.A. onverlet.
+   - i) signature not subject to ratification, acceptance or approval, or
 
-- e). Tenzij met de Vennootschap Eutelsat S.A. anders wordt overeengekomen, wordt geen besluit inzake ontbinding van EUTELSAT ingevolge c van dit artikel genomen zolang de onder b van artikel III bedoelde internationale rechten en verplichtingen niet volledig zijn vervallen.
+   - ii) signature subject to ratification, acceptance or approval, followed by ratification, acceptance or approval, or
 
-##### Artikel XV. Beslechting van geschillen
+   - iii) accession.
 
-- a). Alle geschillen die tussen Partijen of tussen EUTELSAT en een Partij of Partijen rijzen met betrekking tot de uitlegging of de toepassing van het bepaalde in het Verdrag, worden aan arbitrage onderworpen overeenkomstig het bepaalde in Bijlage B bij het Verdrag, indien niet op andere wijze overeenstemming is bereikt binnen een jaar na het tijdstip waarop een partij bij het geschil de andere partij in kennis heeft gesteld van haar voornemen dit geschil bij minnelijke schikking te regelen.
+- b) The Convention shall be open for signature at Paris from 15 July 1982 until it enters into force and thereafter remains open for accession.
 
-- b). Alle geschillen die met betrekking tot de uitleg en de toepassing van het bepaalde in het Verdrag rijzen tussen een Partij en een Staat die niet langer Partij is, of tussen EUTELSAT en een Staat die niet langer Partij is, en die rijzen nadat deze Staat heeft opgehouden Partij te zijn, worden aan arbitrage onderworpen overeenkomstig het bepaalde in Bijlage B bij het Verdrag, indien niet op andere wijze overeenstemming is bereikt binnen een jaar na het tijdstip waarop een partij bij het geschil de andere partij in kennis heeft gesteld van haar voornemen dit geschil bij minnelijke schikking te regelen, mits de Staat die heeft opgehouden Partij te zijn, daarmee instemt. Indien een Staat ophoudt Partij te zijn nadat een geschil waarbij deze Staat partij is, is onderworpen aan arbitrage ingevolge het bepaalde onder a van dit artikel, wordt de arbitrage voortgezet tot een uitspraak is verkregen.
+- c) No reservation may be made to the Convention.
 
-##### Artikel XVI. Ondertekening; voorbehoud
+##### Article XVII. Entry into Force
 
-- a). Elke Staat waarvan de administratie of het erkende particuliere telecommunicatiebedrijf Ondertekenende Partij is, of gerechtigd is Ondertekenende Partij te worden, bij de Voorlopige Overeenkomst, kan Partij bij het Verdrag worden door:
+- a) The Convention shall enter into force sixty days after the date on which it has been signed, in accordance with subparagraph i) of paragraph a) of Article XVI of the Convention, or has been ratified, accepted or approved, by two-thirds of the States which, at the date on which it is opened for signature, have jurisdiction over Signatory Parties to the Provisional Agreement provided that those Signatory Parties, or their designated Signatories to the ECS Agreement, hold at least two-thirds of the financial shares under the ECS Agreement.
 
-- i. ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, of
+- b) The Convention shall not enter into force less than eight months after the date on which it is opened for signature. The Convention shall not enter into force if it has not been signed, ratified, accepted or approved under paragraph a) of this Article, within thirty six-months of the date on which it is opened for signature.
 
-- ii. ondertekening onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, gevolgd door bekrachtiging, aanvaarding of goedkeuring, of
+- c) For a State whose instrument of ratification, acceptance, approval or accession is deposited after the date on which the Convention enters into force, the Convention shall enter into force on the date of such deposit.
 
-- iii. toetreding.
+- d) Upon entry into force, the Convention will be applied provisionally for any State which has signed it subject to ratification, acceptance or approval and has so requested at the time of signature or at any later time before entry into force. Provisional application shall end: When provisional application ends under subparagraph ii) or iii) of this paragraph, paragraph c) of Article XIII of the Convention shall govern the rights and obligations of the Party.
 
-- b). Dit Verdrag staat voor ondertekening open te Parijs van 15 juli 1982 tot het tijdstip waarop het in werking treedt, en staat daarna open voor toetreding.
+   - i) upon deposit of an instrument of ratification, acceptance or approval by that State, or
 
-- c). Ten aanzien van het Verdrag kan geen enkel voorbehoud worden gemaakt.
+   - ii) at the end of two years from the date on which the Convention enters into force without having been ratified, accepted or approved by that State, or
 
-##### Artikel XVII. Inwerkingtreding
+   - iii) upon notification by that State, before the end of the period mentioned in subparagraph ii) of this paragraph, of its decision not to ratify, accept or approve the Convention.
 
-- a). Het Verdrag treedt in werking zestig dagen na de datum waarop het overeenkomstig het bepaalde in i onder a van artikel XVI van het Verdrag is ondertekend, of is bekrachtigd, aanvaard of goedgekeurd, door tweederde van de Staten die op het tijdstip waarop het Verdrag wordt opengesteld voor ondertekening, de rechtsmacht bezitten over de Ondertekenende Partijen bij de Voorlopige Overeenkomst, mits deze Ondertekenende Partijen, of de door hen aangewezen Ondertekenaars van de ECS-Overeenkomst, beschikken over tweederde van de financiële aandelen krachtens de ECS-Overeenkomst.
+- e) Upon entry into force, the Convention shall replace and terminate the Provisional Agreement. However, nothing in the Convention shall affect any right or obligation of a Party acquired in its former capacity as a Signatory Party to the Provisional Agreement.
 
-- b). Het Verdrag treedt niet in werking binnen een termijn van acht maanden na de datum waarop het wordt opengesteld voor ondertekening. Het Verdrag treedt niet in werking indien het niet is ondertekend, bekrachtigd, aanvaard of goedgekeurd overeenkomstig het bepaalde onder a van dit artikel binnen een termijn van zesendertig maanden na de datum waarop het voor ondertekening wordt opengesteld.
+##### Article XVIII. Accession
 
-- c). Voor een Staat waarvan de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding wordt nedergelegd na de datum waarop het Verdrag in werking treedt, treedt het Verdrag in werking op de datum van deze nederlegging. De Zetelovereenkomst dient een bepaling te bevatten dat alle Ondertekenaars, handelend in deze hoedanigheid, met uitzondering van de Ondertekenaar die is aangewezen door de Partij op wier grondgebied de zetel van EUTELSAT zich bevindt, worden vrijgesteld van belasting op inkomen dat op het grondgebied van deze Partij uit EUTELSAT is verkregen. De andere Partijen sluiten eveneens zo spoedig mogelijk een Protocol ter regeling van de voorrechten, de vrijstellingen en de immuniteiten. De Zetelovereenkomst en het Protocol zijn onafhankelijk van het Verdrag en in elk ervan dienen de voorwaarden voor beëindiging te worden vastgesteld.
+- a) Any State whose telecommunications Administration or Recognized Private Operating Agency was, or had the right to become, a signatory Party to the Provisional Agreement at the date on which the Convention is opened for signature, may accede to the Convention from the date on which it ceases to be open for signature, until two years after its entry into force.
 
-- d). Na de inwerkingtreding wordt het Verdrag voorlopig toegepast ten aanzien van elke Staat die het heeft ondertekend onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring en zulks heeft verzocht op het tijdstip van ondertekening of op elk later tijdstip vóór de inwerkingtreding. De voorlopige toepassing eindigt:
+- b) The provisions of paragraphs c) to e) of this Article shall apply to requests for accession by the following States:
 
-- i. na de nederlegging van een akte van bekrachtiging, aanvaarding of goedkeuring door deze Staat;
+   - i) a State whose telecommunications Administration or Recognized Private Operating Agency was, or had the right to become, a Signatory Party to the Provisional Agreement at the date on which the Convention was opened for signature, which has not become a Party to the Convention in accordance with subparagraphs i) or ii) of paragraph a) of Article XVI of the Convention, or paragraph a) of this Article;
 
-- ii. na verloop van twee jaar, te rekenen van de datum waarop dit Verdrag van kracht wordt zonder door deze Staat te zijn bekrachtigd, aanvaard of goedgekeurd;
+   - ii) any other European State which is a member of the International Telecommunication Union wishing to accede to the Convention after its entry into force.
 
-- iii. na kennisgeving door deze Staat, vóór afloop van het in ii) van dit lid genoemde tijdvak, van zijn besluit dit Verdrag niet te bekrachtigen, te aanvaarden of goed te keuren. Zodra de voorlopige toepassing eindigt ingevolge het bepaalde in ii of iii van dit lid, geldt het bepaalde onder c) van artikel XIII van het Verdrag voor de rechten en verplichtingen van de Partij.
+- c) Any State that wishes to accede to the Convention in the circumstances mentioned in paragraph a) of this Article (“the Applicant State") shall so notify the Executive Secretary in writing and shall supply the latter with all information relevant to the application.
 
-- e). Na inwerkingtreding vervangt het Verdrag de Voorlopige Overeenkomst en stelt deze buiten werking. Niets van het bepaalde in het Verdrag doet echter afbreuk aan een recht of verplichting van een Partij, verkregen of aangegaan in haar of zijn vroegere hoedanigheid van Ondertekenende Partij bij de Voorlopige Overeenkomst.
+- d) The Executive Secretary shall receive the application of the Applicant State and shall submit the same to the Assembly of Parties.
 
-##### Artikel XVIII. Toetreding
+- e) The Assembly of Parties shall take a decision on the Applicant State's request within six months following the date on which the Executive Secretary decides that he or she is in possession of all the information required under paragraph c) of this Article. The decision of the Executive Secretary shall be promptly notified to the Assembly of Parties. The decision of the Assembly of Parties shall be taken by secret vote and in accordance with the procedure for decisions on matters of substance. An extraordinary meeting of the Assembly of Parties may be convened for this purpose.
 
-- a). Elke Staat waarvan de administratie of het erkende particuliere telecommunicatiebedrijf Ondertekenende Partij was, of gerechtigd was Ondertekenende Partij te worden, bij de Voorlopige Overeenkomst op de datum waarop het Verdrag wordt opengesteld voor ondertekening, kan tot het Verdrag toetreden vanaf de datum waarop het Verdrag niet langer openstaat voor ondertekening, tot twee jaar na de inwerkingtreding daarvan.
+- f) The Executive Secretary shall notify the Applicant State of the conditions for accession established by the Assembly of Parties, which shall be the subject of a protocol annexed to the instrument of accession to be deposited by the said State with the Depositary.
 
-- b). Het bepaalde onder c tot en met e van dit artikel is van toepassing op verzoeken om toetreding, afkomstig van de volgende Staten:
+##### Article XIX. Liability
 
-- i. een Staat waarvan de administratie of het erkende particuliere telecommunicatiebedrijf Ondertekenende Partij was, of gerechtigd was Ondertekenende Partij te worden, bij de Voorlopige Overeenkomst op de datum waarop het Verdrag werd opengesteld voor ondertekening, maar die geen Partij bij het Verdrag is geworden in overeenstemming met het bepaalde in i of ii onder a van artikel XVI van het Verdrag of ii onder a van dit artikel;
+No Party shall be individually liable for the acts and obligations of EUTELSAT, except where such liability results from a treaty to which that Party and a State claiming compensation are parties. In that case, EUTELSAT shall indemnify the Party concerned in respect of any such liability, unless the latter has expressly undertaken to assume exclusively such liability.
 
-- ii. elke andere Europese Staat die Lid is van de Internationale Telecommunicatie-Unie en na de inwerkingtreding van het Verdrag daartoe wenst toe te treden.
+##### Article XX. Miscellaneous Provisions
 
-- c). Elke Staat die tot het Verdrag wenst toe te treden onder de onder a) van dit artikel genoemde omstandigheden, („de Verzoekende Staat”) geeft daarvan schriftelijk kennis aan de Algemeen Secretaris en verstrekt hem alle voor het verzoek relevante inlichtingen.
+- a) The official and working languages of EUTELSAT shall be English and French.
 
-- d). De Algemeen Secretaris neemt de aanvraag van de Verzoekende Staat in ontvangst en legt deze voor aan de Assemblee van Partijen.
+- b) EUTELSAT shall, having regard to the general views of the Assembly of Parties, cooperate on matters of common interest with the United Nations and its specialized agencies, in particular the International Telecommunication Union, and other international organizations.
 
-- e). De Assemblee van Partijen neemt een beslissing ten aanzien van de aanvraag van de Verzoekende Staat binnen een termijn van zes maanden na de datum waarop de Algemeen Secretaris beslist dat alle krachtens het bepaalde onder c van dit artikel vereiste inlichtingen in zijn of haar bezit zijn. Van de beslissing van de Algemeen Secretaris wordt onverwijld kennis gegeven aan de Assemblee van Partijen. De beslissing van de Assemblee van Partijen komt bij geheime stemming tot stand overeenkomstig de procedure voor beslissingen inzake materiële zaken. Een buitengewone vergadering van de Assemblee van Partijen kan daartoe worden bijeengeroepen.
+- c) To comply with Resolution 1721 (XVI) of the General Assembly of the United Nations, EUTELSAT shall send to the Secretary General of the United Nations, and to the specialized agencies concerned, for their information, an annual report on its activities. The annual report shall also be sent to the Company Eutelsat S.A.
 
-- f). De Algemeen Secretaris stelt de Verzoekende Staat in kennis van de door de Assemblee van Partijen vastgestelde voorwaarden voor toetreding, die worden vastgelegd in een protocol dat als bijlage wordt toegevoegd aan de akte van toetreding die door bedoelde Staat bij de Depositaris wordt nedergelegd.
+##### Article XXI. Depositary
 
-##### Artikel XIX. Aansprakelijkheid
+- a) The Government of the French Republic shall be the Depositary for the Convention, with which shall be deposited instruments of ratification, acceptance, approval or accession, requests for provisional application and notifications of ratification, acceptance or approval of amendments, and of decisions to withdraw from EUTELSAT or of termination of the provisional application of the Convention.
 
-Een Partij is niet hoofdelijk aansprakelijk voor de handelingen en verplichtingen van EUTELSAT, behalve in gevallen waarin deze aansprakelijkheid voortvloeit uit een Verdrag waarbij deze Partij en een Staat die schadevergoeding vordert, Partij zijn. ln dat geval stelt EUTELSAT de betrokken Partij schadeloos met betrekking tot elke zodanige aansprakelijkheid, tenzij de laatstgenoemde uitdrukkelijk op zich heeft genomen deze aansprakelijkheid alleen te dragen.
+- b) The Convention shall be deposited in the archives of the Depositary. The Depositary shall send certified copies of the text of the Convention to all States that have signed it or deposited instruments of accession to it, and to the International Telecommunication Union.
 
-##### Artikel XX. Diverse bepalingen
+- c) The Depositary shall promptly inform all States which have signed or acceded to the Convention and, if necessary, the International Telecommunication Union of:
 
-- a). De officiële talen en de werktalen van EUTELSAT zijn het Engels en het Frans.
+   - i) all signatures of the Convention;
 
-- b). Met inachtneming van de algemene zienswijzen van de Assemblee van Partijen werkt EUTELSAT in zaken van wederzijds belang samen met de Verenigde Naties en haar gespecialiseerde organisaties, in het bijzonder de Internationale Telecommunicatie-Unie, en met andere internationale organisaties.
+   - ii) the deposit of all instruments of ratification, acceptance, approval or accession;
 
-- c). Teneinde te voldoen aan het bepaalde in Resolutie 1721 (XVI) van de Algemene Vergadering van de Verenigde Naties, zendt EUTELSAT een jaarverslag over haar werkzaamheden aan de Secretaris-Generaal van de Verenigde Naties en aan de betrokken gespecialiseerde organisaties te hunner informatie. Het jaarverslag wordt eveneens gezonden aan de Vennootschap Eutelsat S.A.
+   - iii) the start of the sixty-day period referred to in paragraph a) of Article XVII of the Convention;
 
-##### Artikel XXI. Depositaris
+   - iv) the entry into force of the Convention;
 
-- a). De Regering van de Franse Republiek is voor het Verdrag de Depositaris bij wie de akten van bekrachtiging, aanvaarding, goedkeuring of toetreding, de verzoeken tot voorlopige toepassing en kennisgevingen van bekrachtiging, aanvaarding of goedkeuring van wijzigingen, alsmede van de besluiten tot terugtrekking uit EUTELSAT of tot beëindiging van de voorlopige toepassing van het Verdrag worden nedergelegd.
+   - v) all requests for provisional application under paragraph d) of Article XVII of the Convention;
 
-- b). Het Verdrag wordt nedergelegd in het archief van de Depositaris. De Depositaris zendt een gewaarmerkt afschrift van de tekst van het Verdrag toe aan alle Staten die het Verdrag hebben ondertekend of akten van toetreding daartoe hebben nedergelegd, en aan de Internationale Telecommunicatie-Unie.
+   - vi) the appointment of the Executive Secretary under paragraph a) of Article X of the Convention;
 
-- c). De Depositaris geeft alle Staten die het Verdrag hebben ondertekend of daartoe zijn toegetreden en, zo nodig, de Internationale Telecommunicatie-Unie onverwijld kennis van:
+   - vii) the adoption and entry into force of all amendments to the Convention;
 
-- i. elke ondertekening van het Verdrag;
+   - viii) all notifications of withdrawal;
 
-- ii. de nederlegging van elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
+   - ix) all decisions by the Assembly of Parties under paragraph b) of Article XIII of the Convention that a Party is deemed to have withdrawn from EUTELSAT;
 
-- iii. de aanvang van het tijdvak van zestig dagen, zoals bedoeld onder a van artikel XVII van het Verdrag;
+   - x) all other notifications and communications about the Convention.
 
-- iv. de inwerkingtreding van het Verdrag;
+- d) Upon entry into force of the Convention, the Depositary shall send to the Secretariat of the United Nations, for registration and publication in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), confirmed certified copies of the Convention.
 
-- v. elk verzoek tot voorlopige toepassing ingevolge het bepaalde onder d van artikel XVII van het Verdrag;
+##### Article XXII. Entry into Force
 
-- vi. de benoeming van de Algemeen Secretaris, eventuele bezwaren tegen en de goedkeuring van deze benoeming ingevolge het bepaalde onder a van artikel X van het Verdrag:
+*Vervallen*
 
-- vii. de aanneming en inwerkingtreding van elke wijziging van het Verdrag;
+##### Article XXIII. Accession
 
-- viii. elke kennisgeving van terugtrekking;
+*Vervallen*
 
-- ix. elk besluit van de Assemblee van Partijen ingevolge het bepaalde onder b van artikel XIII van het Verdrag, houdende dat een Partij wordt geacht zich te hebben teruggetrokken uit EUTELSAT;
+##### Article XXIV. Liability
 
-- x. elke overige kennisgeving en mededeling met betrekking tot het Verdrag.
+*Vervallen*
 
-- d). Op het tijdstip van inwerkingtreding van het Verdrag zendt de Depositaris een gewaarmerkt afschrift van het Verdrag aan het Secretariaat van de Verenigde Naties voor registratie en publicatie overeenkomstig het bepaalde in [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
+##### Article XXV. Miscellaneous Provisions
 
-##### Artikel XXII. Inwerkingtreding
+*Vervallen*
 
-Vervallen
+##### Article XXVI. Depositary
 
-##### Artikel XXIII. Toetreding
-
-Vervallen
-
-##### Artikel XXIV. Aansprakelijkheid
-
-Vervallen
-
-##### Artikel XXV. Diverse bepalingen
-
-Vervallen
-
-##### Artikel XXVI. Depositaris
-
-Vervallen
+*Vervallen*
 
 IN WITNESS WHEREOF the undersigned, duly authorized by their respective Governments, have signed this Convention.
 

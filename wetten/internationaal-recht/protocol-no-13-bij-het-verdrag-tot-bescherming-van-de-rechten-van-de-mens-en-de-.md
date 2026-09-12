@@ -1,97 +1,65 @@
 ---
 title: "Protocol No. 13 bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, inzake de afschaffing van de doodstraf onder alle omstandigheden"
 identifier: "BWBV0001788"
-country: "nl"
-rank: "verdrag"
-publication_date: "2006-06-01"
-last_updated: "2002-05-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001788"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002363253"
-version_id: "10002367042"
-internal_id: "C10006993981"
-label_id: "10002352954"
-dtd_version: "2.0"
-original_entry_into_force: "2006-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001788/2006-06-01/0"
-intitule_bron: "Trb.2002-119"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-02-10"
-intitule_published: "2002-07-01"
-intitule_in_force: "2006-03-08"
-intitule_status: "goed"
-original_publication: "Trb.2002-119"
-original_signed_date: "2006-02-10"
-original_published_date: "2002-07-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2002-119"
-entry_into_force_date: "2006-06-01"
-jci_1_3: "jci1.3:c:BWBV0001788&z=2006-06-01&g=2006-06-01"
-jci_1_0: "1.0:c:BWBV0001788&g=2006-06-01"
-citeertitel_status: "redactioneel"
-signed_date: "2006-02-10"
-entry_into_force: "2006-06-01"
+publicatiedatum: 2006-06-01
+laatste_update: 2006-06-01
+status: geldig
+toestand: 2006-06-01
+bron: "https://wetten.overheid.nl/BWBV0001788"
+opgehaald: 2026-09-12
 ---
+
 # Protocol No. 13 bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, inzake de afschaffing van de doodstraf onder alle omstandigheden
 
-De Lidstaten van de Raad van Europa die dit Protocol hebben ondertekend,
+*The member States of the Council of Europe signatory hereto, Convinced that everyone's right to life is a basic value in a democratic society and that the abolition of the death penalty is essential for the protection of this right and for the full recognition of the inherent dignity of all human beings; Wishing to strengthen the protection of the right to life guaranteed by the Convention for the Protection of Human Rights and Fundamental Freedoms signed at Rome on 4 November 1950 (hereinafter referred to as "the Convention"); Noting that Protocol No. 6 to the Convention, concerning the Abolition of the Death Penalty, signed at Strasbourg on 28 April 1983, does not exclude the death penalty in respect of acts committed in time of war or of imminent threat of war; Being resolved to take the final step in order to abolish the death penalty in all circumstances, Have agreed as follows:*
 
-Ervan overtuigd dat het recht van eenieder op leven een fundamentele waarde vormt in een democratische samenleving en dat de afschaffing van de doodstraf essentieel is voor de bescherming van dit recht en voor de volledige erkenning van de inherente waardigheid van alle mensen;
+##### Article 1. Abolition of the death penalty
 
-Geleid door de wens de bescherming van het recht op leven dat gewaarborgd wordt door het [Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000), ondertekend te Rome op 4 november 1950 (hierna te noemen „het Verdrag") te versterken;
+The death penalty shall be abolished. No one shall be condemned to such penalty or executed.
 
-In aanmerking nemend dat het [Zesde Protocol bij het Verdrag, inzake de afschaffing van de doodstraf](https://wetten.overheid.nl/jci1.3:c:BWBV0001037), ondertekend te Straatsburg op 28 april 1983, de doodstraf niet uitsluit voor feiten begaan in tijd van oorlog of onmiddellijke oorlogsdreiging;
+##### Article 2. Prohibition of derogations
 
-Vastbesloten de definitieve stap te zetten teneinde de doodstraf onder alle omstandigheden af te schaffen,
+No derogation from the provisions of this Protocol shall be made under [Article 15 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=15).
 
-Zijn het volgende overeengekomen:
+##### Article 3. Prohibition of reservations
 
-##### Artikel 1. Afschaffing van de doodstraf
+No reservation may be made under [Article 57 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=57) in respect of the provisions of this Protocol.
 
-De doodstraf is afgeschaft. Niemand wordt tot een dergelijke straf veroordeeld of terechtgesteld.
+##### Article 4. Territorial application
 
-##### Artikel 2. Verbod op afwijking
+1. Any State may, at the time of signature or when depositing its instrument of ratification, acceptance or approval, specify the territory or territories to which this Protocol shall apply.
 
-Afwijking van de bepalingen van dit Protocol krachtens [artikel 15 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=15) is niet toegestaan.
+2. Any State may at any later date, by a declaration addressed to the Secretary General of the Council of Europe, extend the application of this Protocol to any other territory specified in the declaration. In respect of such territory the Protocol shall enter into force on the first day of the month following the expiration of a period of three months after the date of receipt of such declaration by the Secretary General.
 
-##### Artikel 3. Verbod op voorbehouden
+3. Any declaration made under the two preceding paragraphs may, in respect of any territory specified in such declaration, be withdrawn or modified by a notification addressed to the Secretary General. The withdrawal or modification shall become effective on the first day of the month following the expiration of a period of three months after the date of receipt of such notification by the Secretary General.
 
-Het maken van enig voorbehoud met betrekking tot de bepalingen van dit Protocol krachtens [artikel 57 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=57) is niet toegestaan.
+##### Article 5. Relationship to the Convention
 
-##### Artikel 4. Territoriale werkingssfeer
+As between the States Parties the provisions of Articles 1 to 4 of this Protocol shall be regarded as additional articles to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001000), and all the provisions of the Convention shall apply accordingly.
 
-1. Elke Staat kan op het tijdstip van ondertekening of van nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring, het grondgebied of de grondgebieden aanwijzen waarop dit Protocol van toepassing is.
+##### Article 6. Signature and ratification
 
-2. Elke Staat kan op elk later tijdstip, door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring, de toepassing van dit Protocol uitbreiden tot ieder ander in de verklaring aangewezen grondgebied. Met betrekking tot dat grondgebied treedt het Protocol in werking op de eerste dag van de maand volgend op het verstrijken van een tijdvak van drie maanden na de datum waarop die verklaring door de Secretaris-Generaal is ontvangen.
+This Protocol shall be open for signature by member States of the Council of Europe which have signed the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001000). It is subject to ratification, acceptance or approval. A member State of the Council of Europe may not ratify, accept or approve this Protocol without previously or simultaneously ratifying the Convention. Instruments of ratification, acceptance or approval shall be deposited with the Secretary General of the Council of Europe.
 
-3. Iedere overeenkomstig de twee vorige leden afgelegde verklaring kan, met betrekking tot elk in die verklaring aangewezen grondgebied, worden ingetrokken of gewijzigd door middel van een aan de Secretaris-Generaal gerichte kennisgeving. De intrekking of wijziging wordt van kracht op de eerste dag van de maand volgend op het verstrijken van een tijdvak van drie maanden na de datum waarop die kennisgeving door de Secretaris-Generaal is ontvangen.
+##### Article 7. Entry into force
 
-##### Artikel 5. Verhouding tot het Verdrag
+1. This Protocol shall enter into force on the first day of the month following the expiration of a period of three months after the date on which ten member States of the Council of Europe have expressed their consent to be bound by the Protocol in accordance with the provisions of Article 6.
 
-Tussen de Staten die Partij zijn worden de artikelen 1 tot en met 4 van dit Protocol als aanvullende artikelen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) beschouwd; alle bepalingen van het Verdrag zijn dienovereenkomstig van toepassing.
+2. In respect of any member State which subsequently expresses its consent to be bound by it, the Protocol shall enter into force on the first day of the month following the expiration of a period of three months after the date of the deposit of the instrument of ratification, acceptance or approval.
 
-##### Artikel 6. Ondertekening en bekrachtiging
+##### Article 8. Depositary functions
 
-Dit Protocol staat open voor ondertekening door de Lidstaten van de Raad van Europa die het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) hebben ondertekend. Het dient te worden bekrachtigd, aanvaard of goedgekeurd. Een Lidstaat van de Raad van Europa kan dit Protocol niet bekrachtigen, aanvaarden of goedkeuren, tenzij die Staat tezelfder tijd of eerder het Verdrag heeft bekrachtigd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+The Secretary General of the Council of Europe shall notify all the member States of the Council of Europe of:
 
-##### Artikel 7. Inwerkingtreding
+- a) any signature;
 
-1. Dit Protocol treedt in werking op de eerste dag van de maand volgend op het verstrijken van een tijdvak van drie maanden na de datum waarop tien Lidstaten van de Raad van Europa hun instemming door het Protocol te worden gebonden tot uitdrukking hebben gebracht overeenkomstig het bepaalde in artikel 6.
+- b) the deposit of any instrument of ratification, acceptance or approval;
 
-2. Met betrekking tot iedere Lidstaat die later zijn instemming door het Protocol te worden gebonden tot uitdrukking brengt, treedt het Protocol in werking op de eerste dag van de maand na het verstrijken van een tijdvak van drie maanden na de datum waarop de akte van bekrachtiging, aanvaarding of goedkeuring is nedergelegd.
+- c) any date of entry into force of this Protocol in accordance with Articles 4 and 7;
 
-##### Artikel 8. Taken van depositaris
-
-De Secretaris-Generaal van de Raad van Europa geeft alle Lidstaten van de Raad van Europa kennis van:
-
-- a. iedere ondertekening;
-
-- b. de nederlegging van iedere akte van bekrachtiging, aanvaarding of goedkeuring;
-
-- c. iedere datum van inwerkingtreding van dit Protocol overeenkomstig met de artikelen 4 en 7;
-
-- d. iedere andere handeling, kennisgeving of mededeling met betrekking tot dit Protocol.
+- d) any other act, notification or communication relating to this Protocol.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Protocol.
 

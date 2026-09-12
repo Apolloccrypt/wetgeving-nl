@@ -1,65 +1,19 @@
 ---
 title: "Verdrag tussen Ierland, het Koninkrijk der Nederlanden, het Koninkrijk Spanje, de Italiaanse Republiek, de Portugese Republiek, de Franse Republiek en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot oprichting van een Maritiem Analyse- en Operatiecentrum op het gebied van verdovende middelen"
 identifier: "BWBV0002869"
-country: "nl"
-rank: "verdrag"
-publication_date: "2010-04-02"
-last_updated: "2007-09-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002869"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003187833"
-version_id: "10003196502"
-internal_id: "C10006998281"
-label_id: "10003173924"
-dtd_version: "2.0"
-original_entry_into_force: "2010-04-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002869/2010-04-02/0"
-intitule_bron: "Trb.2007-231"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-12-01"
-intitule_published: "2007-12-21"
-intitule_in_force: "2010-05-27"
-intitule_status: "goed"
-original_publication: "Trb.2007-231"
-original_signed_date: "2007-12-01"
-original_published_date: "2007-12-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2007-231"
-entry_into_force_date: "2010-04-02"
-jci_1_3: "jci1.3:c:BWBV0002869&z=2010-04-02&g=2010-04-02"
-jci_1_0: "1.0:c:BWBV0002869&g=2010-04-02"
-citeertitel_status: "redactioneel"
-signed_date: "2007-12-01"
-entry_into_force: "2010-04-02"
+publicatiedatum: 2010-04-02
+laatste_update: 2010-04-02
+status: geldig
+toestand: 2010-04-02
+bron: "https://wetten.overheid.nl/BWBV0002869"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tussen Ierland, het Koninkrijk der Nederlanden, het Koninkrijk Spanje, de Italiaanse Republiek, de Portugese Republiek, de Franse Republiek en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot oprichting van een Maritiem Analyse- en Operatiecentrum op het gebied van verdovende middelen
 
-De Partijen bij dit Verdrag,
-
-Overwegend dat uit onderzoek naar ingevoerde verdovende middelen, in het bijzonder vanuit Zuid-Amerika in West-Europa ingevoerde cocaïne, is gebleken dat steeds meer verdovende middelen over zee en door de lucht over de Atlantische Oceaan worden gesmokkeld naar Europa en de westkust van Afrika;
-
-Bezorgd over de moeilijkheden die men ondervindt bij het tijdig verkrijgen van informatie voor actie op zowel internationaal als Europees niveau op dit gebied, waardoor nog meer problemen ontstaan bij de bestrijding van de smokkel van verdovende middelen over zee in de internationale wateren en via het internationale luchtruim;
-
-Gelet op het uitgesproken internationale karakter van de smokkel van verdovende middelen waarbij criminele organisaties betrokken zijn die actief zijn in verschillende landen en schepen inzetten met uiteenlopende registraties en bemanningen van verschillende nationaliteiten;
-
-Overwegend dat veel landen niet beschikken over voldoende middelen voor surveillance en wetshandhaving op zee en in de lucht om de smokkel van verdovende middelen over zee zelfstandig te beletten en dat er technische en juridische problemen zijn met op wetshandhaving gerichte interventies op zee;
-
-Gelet op het initiatief inzake cocaïne van de Comprehensive Operational Strategic Planning for the Police (PCTF COSPOL);
-
-Voorts gelet op de inventarisatie van Europol van de dreiging die uitgaat van de georganiseerde misdaad (European Organised Crime Threat Assessment - OCTA), waarin de bestrijding van de cocaïnesmokkel als prioriteit voor de wetshandhaving wordt aangemerkt en een regionale aanpak voor de bestrijding van de internationale georganiseerde misdaad wordt aanbevolen;
-
-Gelet op het EU Drugs Actieplan 2005-2012, bekrachtigd door de Europese Raad van 16 en 17 december 2004;
-
-Opnieuw de bestaande maatregelen bevestigend die voorzien zijn in het [Enkelvoudig Verdrag inzake verdovende middelen](https://wetten.overheid.nl/jci1.3:c:BWBV0001004), op 30 maart 1961 te New York aangenomen, als gewijzigd bij het op 25 maart 1972 te Genève aangenomen Protocol en het op 8 augustus 1975 te New York aangenomen Protocol; het [Verdrag inzake psychotrope stoffen](https://wetten.overheid.nl/jci1.3:c:BWBV0003922), op 21 februari 1971 te Wenen aangenomen; het [Verdrag van de Verenigde Naties tegen de sluikhandel in verdovende middelen en psychotrope stoffen](https://wetten.overheid.nl/jci1.3:c:BWBV0001103), op 20 december 1988 te Wenen aangenomen; het [Verdrag inzake sluikhandel over zee, ter implementatie van artikel 17 van het Verdrag van de Verenigde Naties tegen de sluikhandel in verdovende middelen en psychotrope stoffen 1988](https://wetten.overheid.nl/jci1.3:c:BWBV0004141), op 31 januari 1995 te Straatsburg aangenomen; het [Verdrag van de Verenigde Naties inzake het recht van de zee](https://wetten.overheid.nl/jci1.3:c:BWBV0003172), op 10 december 1982 te Montego Bay aangenomen; de [Europol-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001323) van 26 juli 1995; het internationale gewoonterecht van de zee en andere relevante internationale juridische instrumenten;
-
-Indachtig de samenwerking tussen de EU-lidstaten en andere staten ter bestrijding van de smokkel van verdovende middelen over zee en door de lucht via de Atlantische Oceaan en de waardevolle inspanningen van de Joint Interagency Task Force (JIATF) South;
-
-Samenwerkend aan een regionaal initiatief dat wordt aangeduid als het MAOC-N (Maritiem Analyse- en Operatiecentrum op het gebied van verdovende middelen);
-
-En optredend in overeenstemming met de onderscheiden nationale wetgeving en procedures van de Partijen;
-
-Komen als volgt overeen:
+*De Partijen bij dit Verdrag, Overwegend dat uit onderzoek naar ingevoerde verdovende middelen, in het bijzonder vanuit Zuid-Amerika in West-Europa ingevoerde cocaïne, is gebleken dat steeds meer verdovende middelen over zee en door de lucht over de Atlantische Oceaan worden gesmokkeld naar Europa en de westkust van Afrika; Bezorgd over de moeilijkheden die men ondervindt bij het tijdig verkrijgen van informatie voor actie op zowel internationaal als Europees niveau op dit gebied, waardoor nog meer problemen ontstaan bij de bestrijding van de smokkel van verdovende middelen over zee in de internationale wateren en via het internationale luchtruim; Gelet op het uitgesproken internationale karakter van de smokkel van verdovende middelen waarbij criminele organisaties betrokken zijn die actief zijn in verschillende landen en schepen inzetten met uiteenlopende registraties en bemanningen van verschillende nationaliteiten; Overwegend dat veel landen niet beschikken over voldoende middelen voor surveillance en wetshandhaving op zee en in de lucht om de smokkel van verdovende middelen over zee zelfstandig te beletten en dat er technische en juridische problemen zijn met op wetshandhaving gerichte interventies op zee; Gelet op het initiatief inzake cocaïne van de Comprehensive Operational Strategic Planning for the Police (PCTF COSPOL); Voorts gelet op de inventarisatie van Europol van de dreiging die uitgaat van de georganiseerde misdaad (European Organised Crime Threat Assessment - OCTA), waarin de bestrijding van de cocaïnesmokkel als prioriteit voor de wetshandhaving wordt aangemerkt en een regionale aanpak voor de bestrijding van de internationale georganiseerde misdaad wordt aanbevolen; Gelet op het EU Drugs Actieplan 2005-2012, bekrachtigd door de Europese Raad van 16 en 17 december 2004; Opnieuw de bestaande maatregelen bevestigend die voorzien zijn in het Enkelvoudig Verdrag inzake verdovende middelen, op 30 maart 1961 te New York aangenomen, als gewijzigd bij het op 25 maart 1972 te Genève aangenomen Protocol en het op 8 augustus 1975 te New York aangenomen Protocol; het Verdrag inzake psychotrope stoffen, op 21 februari 1971 te Wenen aangenomen; het Verdrag van de Verenigde Naties tegen de sluikhandel in verdovende middelen en psychotrope stoffen, op 20 december 1988 te Wenen aangenomen; het Verdrag inzake sluikhandel over zee, ter implementatie van artikel 17 van het Verdrag van de Verenigde Naties tegen de sluikhandel in verdovende middelen en psychotrope stoffen 1988, op 31 januari 1995 te Straatsburg aangenomen; het Verdrag van de Verenigde Naties inzake het recht van de zee, op 10 december 1982 te Montego Bay aangenomen; de Europol-Overeenkomst van 26 juli 1995; het internationale gewoonterecht van de zee en andere relevante internationale juridische instrumenten; Indachtig de samenwerking tussen de EU-lidstaten en andere staten ter bestrijding van de smokkel van verdovende middelen over zee en door de lucht via de Atlantische Oceaan en de waardevolle inspanningen van de Joint Interagency Task Force (JIATF) South; Samenwerkend aan een regionaal initiatief dat wordt aangeduid als het MAOC-N (Maritiem Analyse- en Operatiecentrum op het gebied van verdovende middelen); En optredend in overeenstemming met de onderscheiden nationale wetgeving en procedures van de Partijen; Komen als volgt overeen:*
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 

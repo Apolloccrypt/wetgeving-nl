@@ -1,89 +1,25 @@
 ---
 title: "Maasverdrag"
 identifier: "BWBV0001711"
-country: "nl"
-rank: "verdrag"
-publication_date: "2006-12-01"
-last_updated: "2002-12-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001711"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10001943293"
-version_id: "10002031442"
-internal_id: "C10006995401"
-label_id: "10001943474"
-dtd_version: "2.0"
-original_entry_into_force: "2006-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001711/2006-12-01/0"
-intitule_bron: "Trb.2003-75"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-02-10"
-intitule_published: "2003-06-06"
-intitule_in_force: "2006-11-07"
-intitule_status: "goed"
-original_publication: "Trb.2003-75"
-original_signed_date: "2005-02-10"
-original_published_date: "2003-06-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2003-75"
-entry_into_force_date: "2006-12-01"
-jci_1_3: "jci1.3:c:BWBV0001711&z=2006-12-01&g=2006-12-01"
-jci_1_0: "1.0:c:BWBV0001711&g=2006-12-01"
-citeertitel_status: "redactioneel"
-signed_date: "2005-02-10"
-entry_into_force: "2006-12-01"
+publicatiedatum: 2006-12-01
+laatste_update: 2006-12-01
+status: geldig
+toestand: 2006-12-01
+bron: "https://wetten.overheid.nl/BWBV0001711"
+opgehaald: 2026-09-12
 ---
+
 # Maasverdrag
 
-De Regeringen van
-
-de Bondsrepubliek Duitsland,
-
-het Koninkrijk België,
-
-het Brussels Hooofdstedelijk Gewest van België,
-
-het Vlaams Gewest van België,
-
-het Waals Gewest van België,
-
-de Franse Republiek,
-
-het Groothertogdom Luxemburg,
-
-het Koninkrijk der Nederlanden,
-
-Overwegend de door de Verdragspartijen van het Verdrag inzake de bescherming van de Maas, gesloten te Charleville-Mézières op 26 april 1994, verrichte werkzaamheden en verlangend de bestaande samenwerking te versterken tussen de Staten en Gewesten die betrokken zijn bij de bescherming en het gebruik van het water in het internationaal stroomgebiedsdistrict van de Maas,
-
-Ernaar strevend zorg te dragen voor het behoud en de verbetering van de kwaliteit van het water en van de aquatische ecosystemen van het internationaal stroomgebiedsdistrict van de Maas, teneinde recht te doen aan het waardevolle karakter van haar wateren, oevers, oevergebieden en kustwateren,
-
-Geleid door de gezamenlijke wens om samen te werken teneinde een duurzame ontwikkeling tot stand te brengen en de wil om, elk voor zich, de passende maatregelen voor een integraal beheer van het internationaal stroomgebiedsdistrict van de Maas te treffen teneinde een duurzaam en integraal waterbeheer te bereiken, in het bijzonder rekening houdend met de multifunctionaliteit van de Maas,
-
-Teneinde in het internationaal stroomgebiedsdistrict van de Maas gezamenlijk zorg te dragen voor de afstemming die op grond van Richtlijn 2000/60/EG van het Europees Parlement en de Raad van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid noodzakelijk is,
-
-Gelet op het feit dat de tenuitvoerlegging van het onderhavig Verdrag en van de Richtlijn 2000/60/EG van het Europees Parlement en de Raad van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid vereist dat in de schoot van het internationaal stroomgebiedsdistrict van de Maas, al naar gelang de te behandelen geografische gebieden en thema's, een mutilaterale, een bilaterale of een nationale afstemming plaats vindt,
-
-Gelet op het [Verdrag inzake de bescherming en het gebruik van grensoverschrijdende waterlopen en internationale meren](https://wetten.overheid.nl/jci1.3:c:BWBV0001174), gesloten te Helsinki op 17 maart 1992, en het [Verdrag inzake de bescherming van het mariene milieu van de Noordoost-Atlantische Oceaan](https://wetten.overheid.nl/jci1.3:c:BWBV0001119), gesloten te Parijs op 22 september 1992,
-
-Ernaar strevend om in het kader van hun samenwerking de beleidsdoelstellingen te verwezenlijken van de ministeriële Verklaring van Namen van 8 april 1998 en die van Luik van 30 november 2001 en onder andere ernaar strevend bij te dragen aan het afzwakken van de effecten van overstromingen en van perioden van droogte,
-
-Verlangend zorg te dragen voor de samenwerking bij de preventie van en de bescherming tegen hoogwater en bij het voorkomen en het bestrijden van calamiteuze waterverontreiniging,
-
-Zich ervan bewust dat de bescherming van de Maas verder noodzakelijk is om het ecosysteem van de Noordzee in stand te houden en te verbeteren,
-
-Zich ervan bewust dat de Maas voor uiteenlopende essentiële ecologische, economische en sociaal-maatschappelijke functies en doelen gebruikt wordt,
-
-Vanuit de wil bij het nastreven van de doelstellingen van het onderhavig Verdrag samen te werken met intergouvernementele en niet-gouvernementele organisaties en het publiek hierbij in de zin van de Richtlijn 2000/60/EG van het Europees Parlement en de Raad van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid te betrekken,
-
-Ervan overtuigd dat dit dringende taken zijn, waarbij elk voor zich bevoegd blijft voor de uitvoering van de gezamenlijk in het kader van het onderhavig Verdrag afgesproken acties,
-
-Zijn het volgende overeengekomen:
+*De Regeringen van – de Bondsrepubliek Duitsland, – het Koninkrijk België, het Brussels Hooofdstedelijk Gewest van België, het Vlaams Gewest van België, het Waals Gewest van België, – de Franse Republiek, – het Groothertogdom Luxemburg, – het Koninkrijk der Nederlanden, Overwegend de door de Verdragspartijen van het Verdrag inzake de bescherming van de Maas, gesloten te Charleville-Mézières op 26 april 1994, verrichte werkzaamheden en verlangend de bestaande samenwerking te versterken tussen de Staten en Gewesten die betrokken zijn bij de bescherming en het gebruik van het water in het internationaal stroomgebiedsdistrict van de Maas, Ernaar strevend zorg te dragen voor het behoud en de verbetering van de kwaliteit van het water en van de aquatische ecosystemen van het internationaal stroomgebiedsdistrict van de Maas, teneinde recht te doen aan het waardevolle karakter van haar wateren, oevers, oevergebieden en kustwateren, Geleid door de gezamenlijke wens om samen te werken teneinde een duurzame ontwikkeling tot stand te brengen en de wil om, elk voor zich, de passende maatregelen voor een integraal beheer van het internationaal stroomgebiedsdistrict van de Maas te treffen teneinde een duurzaam en integraal waterbeheer te bereiken, in het bijzonder rekening houdend met de multifunctionaliteit van de Maas, Teneinde in het internationaal stroomgebiedsdistrict van de Maas gezamenlijk zorg te dragen voor de afstemming die op grond van Richtlijn 2000/60/EG van het Europees Parlement en de Raad van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid noodzakelijk is, Gelet op het feit dat de tenuitvoerlegging van het onderhavig Verdrag en van de Richtlijn 2000/60/EG van het Europees Parlement en de Raad van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid vereist dat in de schoot van het internationaal stroomgebiedsdistrict van de Maas, al naar gelang de te behandelen geografische gebieden en thema's, een mutilaterale, een bilaterale of een nationale afstemming plaats vindt, Gelet op het Verdrag inzake de bescherming en het gebruik van grensoverschrijdende waterlopen en internationale meren, gesloten te Helsinki op 17 maart 1992, en het Verdrag inzake de bescherming van het mariene milieu van de Noordoost-Atlantische Oceaan, gesloten te Parijs op 22 september 1992, Ernaar strevend om in het kader van hun samenwerking de beleidsdoelstellingen te verwezenlijken van de ministeriële Verklaring van Namen van 8 april 1998 en die van Luik van 30 november 2001 en onder andere ernaar strevend bij te dragen aan het afzwakken van de effecten van overstromingen en van perioden van droogte, Verlangend zorg te dragen voor de samenwerking bij de preventie van en de bescherming tegen hoogwater en bij het voorkomen en het bestrijden van calamiteuze waterverontreiniging, Zich ervan bewust dat de bescherming van de Maas verder noodzakelijk is om het ecosysteem van de Noordzee in stand te houden en te verbeteren, Zich ervan bewust dat de Maas voor uiteenlopende essentiële ecologische, economische en sociaal-maatschappelijke functies en doelen gebruikt wordt, Vanuit de wil bij het nastreven van de doelstellingen van het onderhavig Verdrag samen te werken met intergouvernementele en niet-gouvernementele organisaties en het publiek hierbij in de zin van de Richtlijn 2000/60/EG van het Europees Parlement en de Raad van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid te betrekken, Ervan overtuigd dat dit dringende taken zijn, waarbij elk voor zich bevoegd blijft voor de uitvoering van de gezamenlijk in het kader van het onderhavig Verdrag afgesproken acties, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsbepalingen
 
 In het onderhavig Verdrag wordt verstaan onder:
 
-- a. „Kaderrichtlijn Water”: [Richtlijn 2000/60/EG](32000L0060) van het Europees Parlement en de Raad van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid (Publicatieblad der Europese Gemeenschappen L 327/1 van 22 december 2000) met inbegrip van eventuele wijzigingen;
+- a. „Kaderrichtlijn Water”: Richtlijn 2000/60/EG van het Europees Parlement en de Raad van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid (Publicatieblad der Europese Gemeenschappen L 327/1 van 22 december 2000) met inbegrip van eventuele wijzigingen;
 
 - b. „Maas”: de Maas vanaf haar bron tot aan haar monding in zee, daarbij inbegrepen de Bergsche Maas, de Amer, het Hollands Diep en het Haringvliet;
 
@@ -171,13 +107,13 @@ Dit betreft met name de afstemming van:
 
 - a. het opstellen van adviezen of aanbevelingen ter verbetering van:
 
-- – de preventie van en de bescherming tegen hoogwater, met inachtneming van de ecologische aspecten, ruimtelijke ordening, natuurbeheer en andere beleidsterreinen zoals landbouw, bosbouw en verstedelijking,
+   - – de preventie van en de bescherming tegen hoogwater, met inachtneming van de ecologische aspecten, ruimtelijke ordening, natuurbeheer en andere beleidsterreinen zoals landbouw, bosbouw en verstedelijking,
 
-- – de afstemming van de waarschuwings- en alarmsystemen voor hoogwater,
+   - – de afstemming van de waarschuwings- en alarmsystemen voor hoogwater,
 
-- – de kwaliteit van de operationele en alarmeringsgegevens met betrekking tot hoogwater door de ontwikkeling van voorspellingsmodellen,
+   - – de kwaliteit van de operationele en alarmeringsgegevens met betrekking tot hoogwater door de ontwikkeling van voorspellingsmodellen,
 
-- – de gegevensuitwisseling tussen operationele centra;
+   - – de gegevensuitwisseling tussen operationele centra;
 
 - b. het opstellen van adviezen of aanbevelingen voor het afzwakken van de effecten van perioden van droogte, preventieve maatregelen daarbij inbegrepen;
 
@@ -191,13 +127,13 @@ Dit betreft met name de afstemming van:
 
 - g. het versterken van de uitwisseling van informatie en van meningen over:
 
-- – het waterbeleid van de Verdragsluitende Partijen,
+   - – het waterbeleid van de Verdragsluitende Partijen,
 
-- – hun beleid inzake het beheer van de sedimenten,
+   - – hun beleid inzake het beheer van de sedimenten,
 
-- – de beste beschikbare technologieën en de meest milieuveilige handelwijzen,
+   - – de beste beschikbare technologieën en de meest milieuveilige handelwijzen,
 
-- – de projecten die zijn onderworpen aan een effectbeoordeling en die een wezenlijk grensoverschrijdend effect kunnen hebben, met inachtneming van de op het grondgebied van de Verdragsluitende Partijen van kracht zijnde wetgeving;
+   - – de projecten die zijn onderworpen aan een effectbeoordeling en die een wezenlijk grensoverschrijdend effect kunnen hebben, met inachtneming van de op het grondgebied van de Verdragsluitende Partijen van kracht zijnde wetgeving;
 
 - h. het aanmoedigen van de samenwerking en van de uitwisseling van informatie in het kader van de programma's voor wetenschappelijk onderzoek, verband houdende met de doelstellingen van het onderhavig Verdrag;
 

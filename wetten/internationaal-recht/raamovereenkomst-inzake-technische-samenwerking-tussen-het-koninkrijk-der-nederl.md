@@ -1,47 +1,19 @@
 ---
 title: "Raamovereenkomst inzake technische samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Peru"
 identifier: "BWBV0002679"
-country: "nl"
-rank: "verdrag"
-publication_date: "1993-01-12"
-last_updated: "1993-01-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002679"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002968423"
-version_id: "10002971032"
-internal_id: "C10006976841"
-label_id: "10002955024"
-dtd_version: "2.0"
-original_entry_into_force: "1993-01-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002679/1993-01-12/0"
-intitule_bron: "Trb.1991-183"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-11-19"
-intitule_published: "1991-12-24"
-intitule_in_force: "1993-02-05"
-intitule_status: "goed"
-original_publication: "Trb.1991-183"
-original_signed_date: "1991-11-19"
-original_published_date: "1991-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1991-183"
-entry_into_force_date: "1993-01-12"
-jci_1_3: "jci1.3:c:BWBV0002679&z=1993-01-12&g=1993-01-12"
-jci_1_0: "1.0:c:BWBV0002679&g=1993-01-12"
-citeertitel_status: "officieel"
-signed_date: "1991-11-19"
-entry_into_force: "1993-01-12"
+publicatiedatum: 1993-01-12
+laatste_update: 1993-01-12
+status: geldig
+toestand: 1993-01-12
+bron: "https://wetten.overheid.nl/BWBV0002679"
+opgehaald: 2026-09-12
 ---
+
 # Raamovereenkomst inzake technische samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Peru
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Peru,
-
-teneinde de vriendschappelijke betrekkingen tussen beide landen en hun bevolking te versterken,
-
-vanuit hun wens technische samenwerking te bevorderen en hiervoor het noodzakelijke juridische en bestuurlijke kader te scheppen,
-
-zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Peru, teneinde de vriendschappelijke betrekkingen tussen beide landen en hun bevolking te versterken, vanuit hun wens technische samenwerking te bevorderen en hiervoor het noodzakelijke juridische en bestuurlijke kader te scheppen, zijn het volgende overeengekomen:*
 
 ##### Artikel I
 
@@ -129,10 +101,10 @@ De Regering van de Republiek Peru zal de Regering van het Koninkrijk der Nederla
 
 GEDAAN te Lima op 19 november 1991, in twee exemplaren, in de Nederlandse en Spaanse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 (w.g.) H.C.R.M. PRINCEN
 
-**Voor de Regering van de Republiek Peru,**
+*Voor de Regering van de Republiek Peru,*
 
 (w.g.)A.BLACKER MILLER

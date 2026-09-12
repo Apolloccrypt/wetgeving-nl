@@ -1,53 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Panama inzake de export en controle van socialezekerheidsuitkeringen"
 identifier: "BWBV0001669"
-country: "nl"
-rank: "verdrag"
-publication_date: "2005-03-01"
-last_updated: "2003-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001669"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10001561773"
-version_id: "10001649922"
-internal_id: "C10006993841"
-label_id: "10001561954"
-dtd_version: "2.0"
-original_entry_into_force: "2005-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001669/2005-03-01/0"
-intitule_bron: "Trb.2004-168"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-06-01"
-intitule_published: "2004-06-21"
-intitule_in_force: "2005-06-30"
-intitule_status: "goed"
-original_publication: "Trb.2004-168"
-original_signed_date: "2004-06-01"
-original_published_date: "2004-06-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2004-168"
-entry_into_force_date: "2005-03-01"
-jci_1_3: "jci1.3:c:BWBV0001669&z=2005-03-01&g=2005-03-01"
-jci_1_0: "1.0:c:BWBV0001669&g=2005-03-01"
-citeertitel_status: "redactioneel"
-signed_date: "2004-06-01"
-entry_into_force: "2005-03-01"
+publicatiedatum: 2005-03-01
+laatste_update: 2005-03-01
+status: geldig
+toestand: 2005-03-01
+bron: "https://wetten.overheid.nl/BWBV0001669"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Panama inzake de export en controle van socialezekerheidsuitkeringen
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Republiek Panama
-
-Hierna te noemen de „Verdragsluitende Partijen",
-
-Met de bedoeling om betrekkingen aan te gaan op het terrein van de sociale zekerheid, en
-
-Geleid door de wens de samenwerking tussen de beide staten te regelen teneinde de toepassing van de wetgeving in beide landen te waarborgen,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Republiek Panama Hierna te noemen de „Verdragsluitende Partijen", Met de bedoeling om betrekkingen aan te gaan op het terrein van de sociale zekerheid, en Geleid door de wens de samenwerking tussen de beide staten te regelen teneinde de toepassing van de wetgeving in beide landen te waarborgen, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsbepalingen
 
@@ -81,33 +47,33 @@ Dit Verdrag is van toepassing:
 
 - 1. Met betrekking tot het Koninkrijk der Nederlanden, op de Nederlandse wetgeving betreffende de sociale bijstand en de volgende takken van sociale verzekeringen:
 
-- a. uitkeringen in geval van ziekte en moederschap;
+   - a. uitkeringen in geval van ziekte en moederschap;
 
-- b. arbeidsongeschiktheidsuitkeringen voor werknemers;
+   - b. arbeidsongeschiktheidsuitkeringen voor werknemers;
 
-- c. arbeidsongeschiktheidsuitkeringen voor zelfstandigen;
+   - c. arbeidsongeschiktheidsuitkeringen voor zelfstandigen;
 
-- d. ouderdomsuitkeringen;
+   - d. ouderdomsuitkeringen;
 
-- e. nabestaandenuitkeringen;
+   - e. nabestaandenuitkeringen;
 
-- f. kinderbijslagen.
+   - f. kinderbijslagen.
 
 - 2. Met betrekking tot de Republiek Panama, op de wetgeving betreffende de volgende takken van sociale zekerheid:
 
-- a. uitkeringen in geval van ziekte en moederschap;
+   - a. uitkeringen in geval van ziekte en moederschap;
 
-- b. arbeidsongeschiktheidsuitkeringen voor werknemers;
+   - b. arbeidsongeschiktheidsuitkeringen voor werknemers;
 
-- c. arbeidsongeschiktheidsuitkeringen voor zelfstandigen;
+   - c. arbeidsongeschiktheidsuitkeringen voor zelfstandigen;
 
-- d. ouderdomsuitkeringen;
+   - d. ouderdomsuitkeringen;
 
-- e. invaliditeitsuitkeringen;
+   - e. invaliditeitsuitkeringen;
 
-- f. nabestaandenuitkeringen;
+   - f. nabestaandenuitkeringen;
 
-- g. kinderbijslagen.
+   - g. kinderbijslagen.
 
 ##### Artikel 3. Personele werkingssfeer
 
@@ -209,10 +175,10 @@ Dit Verdrag kan te allen tijde schriftelijk worden opgezegd door elk van de Verd
 
 TEN BLIJKE WAARVAN, de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend, in twee oorspronkelijke exemplaren, in de Nederlandse en Spaanse taal, te Panama, op de vijftiende april 2004.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 W. G. J. M. WESSELS
 
-**Voor de Republiek Panama**
+*Voor de Republiek Panama*
 
 HARMADIO ARIAS CERJACK

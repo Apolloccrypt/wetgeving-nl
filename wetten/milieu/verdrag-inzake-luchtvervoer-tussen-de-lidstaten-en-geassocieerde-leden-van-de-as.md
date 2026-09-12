@@ -1,57 +1,19 @@
 ---
 title: "Verdrag inzake luchtvervoer tussen de lidstaten en geassocieerde leden van de Associatie van Caraïbische Staten"
 identifier: "BWBV0001897"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-09-19"
-last_updated: "2004-02-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001897"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002563583"
-version_id: "10002554302"
-internal_id: "C10006994131"
-label_id: "10002553154"
-dtd_version: "2.0"
-original_entry_into_force: "2008-09-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001897/2008-09-19/0"
-intitule_bron: "Trb.2004-271"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-04-21"
-intitule_published: "2004-11-11"
-intitule_in_force: "2008-12-22"
-intitule_status: "goed"
-original_publication: "Trb.2004-271"
-original_signed_date: "2006-04-21"
-original_published_date: "2004-11-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2004-271"
-entry_into_force_date: "2008-09-19"
-jci_1_3: "jci1.3:c:BWBV0001897&z=2008-09-19&g=2008-09-19"
-jci_1_0: "1.0:c:BWBV0001897&g=2008-09-19"
-citeertitel_status: "redactioneel"
-signed_date: "2006-04-21"
-entry_into_force: "2008-09-19"
+publicatiedatum: 2008-09-19
+laatste_update: 2008-09-19
+status: geldig
+toestand: 2008-09-19
+bron: "https://wetten.overheid.nl/BWBV0001897"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag inzake luchtvervoer tussen de lidstaten en geassocieerde leden van de Associatie van Caraïbische Staten
 
-Preamble
-
-The States, Countries and territories referred to in Article IV of the Convention Establishing the Association of Caribbean States (ACS), done at Cartagena de Indias, Republic of Colombia on July 24, 1994 considering the Plans of Action adopted by the Heads of State and/or Government of the States, Countries and Territories of the Association of Caribbean States at the 2nd Summit in Santo Domingo, Dominican Republic;
-
-Bearing in mind the decision to promote the Programme adopted by the ACS and entitled ``Uniting the Caribbean by Air and Sea";
-
-Expressing the willingness to create the legal framework necessary for the establishment of the Sustainable Tourism Zone in the Caribbean region;
-
-Conscious of the need for airlines of the Member States and Associate Members to offer the traveling and shipping public a variety of air service options;
-
-Determined to ensure the highest degree of operational safety and security in international civil aviation;
-
-Recognizing the need for a general aviation policy for the Association of Caribbean States by which Member States and Associate Member States may be guided in their aviation arrangements;
-
-Recognizing the importance of the Convention on International Civil Aviation opened for signature in Chicago on December 7, 1944, as the principal regulatory instrument for the conduct of international civil aviation;
-
-Have agreed as follows:
+*Preamble The States, Countries and territories referred to in Article IV of the Convention Establishing the Association of Caribbean States (ACS), done at Cartagena de Indias, Republic of Colombia on July 24, 1994 considering the Plans of Action adopted by the Heads of State and/or Government of the States, Countries and Territories of the Association of Caribbean States at the 2nd Summit in Santo Domingo, Dominican Republic; Bearing in mind the decision to promote the Programme adopted by the ACS and entitled ``Uniting the Caribbean by Air and Sea"; Expressing the willingness to create the legal framework necessary for the establishment of the Sustainable Tourism Zone in the Caribbean region; Conscious of the need for airlines of the Member States and Associate Members to offer the traveling and shipping public a variety of air service options; Determined to ensure the highest degree of operational safety and security in international civil aviation; Recognizing the need for a general aviation policy for the Association of Caribbean States by which Member States and Associate Member States may be guided in their aviation arrangements; Recognizing the importance of the Convention on International Civil Aviation opened for signature in Chicago on December 7, 1944, as the principal regulatory instrument for the conduct of international civil aviation; Have agreed as follows:*
 
 ##### Article 1. Definitions
 
@@ -63,9 +25,9 @@ A. For the purposes of this Agreement, unless otherwise stated, the term:
 
 - 3. ``Convention" means Convention on the International Civil Aviation, opened for signature in Chicago on December 7, 1944, and includes:
 
-- a). Any amendment that has entered into force under Article 94a) of the Convention, which is in force among the Parties;
+   - a) Any amendment that has entered into force under Article 94a) of the Convention, which is in force among the Parties;
 
-- b). Any annex or any amendment thereto adopted under Article 90 of the Convention, insofar as such annex or amendment is at any given time effective for the Parties;
+   - b) Any annex or any amendment thereto adopted under Article 90 of the Convention, insofar as such annex or amendment is at any given time effective for the Parties;
 
 - 4. ``Territory" means the land areas, archipelagic waters and adjacent territorial waters under the sovereignty and jurisdiction of a Party in the ACS Region, according to the International Laws;
 
@@ -93,17 +55,17 @@ B. Other terms should have the meaning assigned to them by the Convention.
 
 1. Each Party grants to the other Parties the following rights for the conduct of international air transport by the designated airlines of the other Parties:
 
-- a). The right to fly across its territory without landing;
+- a) The right to fly across its territory without landing;
 
-- b). The right to make stops for non-traffic purposes in its territory;
+- b) The right to make stops for non-traffic purposes in its territory;
 
-- c). The right to operate third and fourth freedom traffic rights separately or in combination, on regular flights of passengers, cargo and mail;
+- c) The right to operate third and fourth freedom traffic rights separately or in combination, on regular flights of passengers, cargo and mail;
 
-- d). In respect of the exercise of fifth freedom traffic rights to scheduled flights for passengers, cargo and mail, separately or in combination, within the ACS region, each Party shall select one of the following options:
+- d) In respect of the exercise of fifth freedom traffic rights to scheduled flights for passengers, cargo and mail, separately or in combination, within the ACS region, each Party shall select one of the following options:
 
-- (i). The exercise of such rights among the Parties concerned;
+   - (i) The exercise of such rights among the Parties concerned;
 
-- (ii). The exercise of such rights on the reciprocal and liberal exchange of rights among the Parties concerned.
+   - (ii) The exercise of such rights on the reciprocal and liberal exchange of rights among the Parties concerned.
 
 2. Following consultations in accordance with Article 15, a Party shall have the right to temporally suspend fifth freedom operations when considered detrimental to its national interest. Such suspension shall come into effect ninety (90) days after the other Party has been notified in writing.
 
@@ -117,17 +79,21 @@ B. Other terms should have the meaning assigned to them by the Convention.
 
 ##### Article 3
 
+A. Designation and Authorization
+
 1. Each Party shall have the right to designate up to two airlines to conduct the services agreed to in this Agreement and to withdraw or alter such designation. The designation shall be transmitted to the other Party in writing indicating whether the airline is authorized to conduct scheduled or non-scheduled air transport services, or both.
 
 2. Upon receipt of such designation and application from the designated airline, in the form and manner prescribed for operating authorizations, the Aeronautical Authorities of the other Party shall grant appropriate authorization with minimum procedural delay, provided that:
 
-- a). Substantial ownership and effective control of that airline are vested in one or more Parties, its or their nationals or both; and
+- a) Substantial ownership and effective control of that airline are vested in one or more Parties, its or their nationals or both; and
 
-- b). The headquarters of the designated airline are located in the territory of the Party designating the airline; and
+- b) The headquarters of the designated airline are located in the territory of the Party designating the airline; and
 
-- c). The designated airline is qualified to meet the conditions prescribed under the laws and regulations normally applied to the operation of international air transport by the Party considering the application or applications; and
+- c) The designated airline is qualified to meet the conditions prescribed under the laws and regulations normally applied to the operation of international air transport by the Party considering the application or applications; and
 
-- d). The Party that designates the airline is maintaining and administering the standards set forth in Article 6 and Article 7 of the Agreement.
+- d) The Party that designates the airline is maintaining and administering the standards set forth in Article 6 and Article 7 of the Agreement.
+
+B. Community of Interest
 
 The right of each Party to designate an airline or airlines shall include designation in accordance with the Principle of Community of Interest as established by the Intemational Civil Aviation Organization (ICAO). On receipt of such designation and application from the designated airline in the form and manner prescribed for operating authorization the Aeronautical Authorities shall, without undue delay, grant the appropriate authorization provided the designated airline complies with the provisions of paragraph 2 c of the present Article.
 
@@ -137,11 +103,11 @@ Once the designation is received, the responsibility for compliance with Article
 
 1. A Party may revoke, suspend or limit the operating authorizations or technical permits of a designated airline where:
 
-- a). The airline no longer complies with the requirements set forth in Article 3 Paragraph 2. a, b and c;
+- a) The airline no longer complies with the requirements set forth in Article 3 Paragraph 2. a, b and c;
 
-- b). The airline has failed to comply with the laws and regulations referred to in Article 5 of the Agreement;
+- b) The airline has failed to comply with the laws and regulations referred to in Article 5 of the Agreement;
 
-- c). The other Party is not maintaining and administering the standards as set forth in Article 6 of the Agreement.
+- c) The other Party is not maintaining and administering the standards as set forth in Article 6 of the Agreement.
 
 2. Unless immediate action, is essential to prevent further non-compliance with paragraph 1 b or c of this Article, the rights established by this Article shall be exercised only after consultation with the Party concerned.
 
@@ -199,9 +165,9 @@ In operating international air services authorized under this Agreement, any des
 
 1. The Parties agree that:
 
-- a). The interests of the users of the air transport services will be protected from any misuse of information;
+- a) The interests of the users of the air transport services will be protected from any misuse of information;
 
-- b). A designated airline and its agents will have unrestricted and non-discriminatory access to and use of Computer Reservation Systems (CRS) in the territory of the Parties.
+- b) A designated airline and its agents will have unrestricted and non-discriminatory access to and use of Computer Reservation Systems (CRS) in the territory of the Parties.
 
 2. The regulations and operation of CRS shall be governed by the Code of Conduct established by ICAO.
 

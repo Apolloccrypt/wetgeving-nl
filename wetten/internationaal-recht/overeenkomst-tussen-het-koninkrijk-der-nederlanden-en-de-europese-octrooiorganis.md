@@ -1,54 +1,20 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Europese Octrooiorganisatie betreffende het onderdeel van het Europees Octrooibureau in ’s-Gravenhage, inclusief Afzonderlijke overeenkomst"
+citeertitel: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Europese Octrooiorganisatie betreffende het onderdeel van het Europees Octrooibureau in 's-Gravenhage, inclusief Afzonderlijke overeenkomst"
 identifier: "BWBV0001811"
-country: "nl"
-rank: "verdrag"
-publication_date: "2006-06-27"
-last_updated: "2006-06-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001811"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002519253"
-version_id: "10002505622"
-internal_id: "C10009093841"
-label_id: "10002508884"
-dtd_version: "2.0"
-original_entry_into_force: "2006-06-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001811/2006-06-27/0"
-intitule_bron: "Trb.2006-155"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-06-27"
-intitule_published: "2006-08-10"
-intitule_in_force: "2006-08-10"
-intitule_status: "goed"
-original_publication: "Trb.2006-155"
-original_signed_date: "2006-06-27"
-original_published_date: "2006-08-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2006-155"
-entry_into_force_date: "2006-06-27"
-jci_1_3: "jci1.3:c:BWBV0001811&z=2006-06-27&g=2006-06-27"
-jci_1_0: "1.0:c:BWBV0001811&g=2006-06-27"
-citeertitel_status: "redactioneel"
-short_title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Europese Octrooiorganisatie betreffende het onderdeel van het Europees Octrooibureau in 's-Gravenhage, inclusief Afzonderlijke overeenkomst"
-signed_date: "2006-06-27"
-entry_into_force: "2006-06-27"
+publicatiedatum: 2006-06-27
+laatste_update: 2006-06-27
+status: geldig
+toestand: 2006-06-27
+bron: "https://wetten.overheid.nl/BWBV0001811"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Europese Octrooiorganisatie betreffende het onderdeel van het Europees Octrooibureau in ’s-Gravenhage, inclusief Afzonderlijke overeenkomst
 
-Het Koninkrijk der Nederlanden
-
-en
-
-De Europese Octrooiorganisatie,
-
-Gelet op het Verdrag inzake de verlening van Europese octrooien van 5 oktober 1973,
-
-Gelet op artikel 25 van het Protocol inzake voorrechten en immuniteiten van de Europese Octrooiorganisatie,
-
-Overwegende dat ingevolge artikel 6 van genoemd Verdrag het Europees Octrooibureau een onderdeel heeft in ’s-Gravenhage,
-
-Zijn overeengekomen als volgt:
+*Het Koninkrijk der Nederlanden en De Europese Octrooiorganisatie, Gelet op het Verdrag inzake de verlening van Europese octrooien van 5 oktober 1973, Gelet op artikel 25 van het Protocol inzake voorrechten en immuniteiten van de Europese Octrooiorganisatie, Overwegende dat ingevolge artikel 6 van genoemd Verdrag het Europees Octrooibureau een onderdeel heeft in ’s-Gravenhage, Zijn overeengekomen als volgt:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -268,54 +234,10 @@ De gelijktijdig met deze Overeenkomst gesloten Afzonderlijke overeenkomst is een
 
 Gedaan te Den Haag op 27 juni in het jaar 2006 in twee exemplaren in de Nederlandse, Duitse, Engelse en Franse taal, zijnde de vier teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 B. R. BOT
 
-**Voor de Europese Octrooiorganisatie,**
-
-A. POMPIDOU
-
-1. Voor de toepassing van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Europese Octrooiorganisatie betreffende het onderdeel van het Europees Octrooibureau in ’s-Gravenhage worden de volgende personen aangemerkt als inwonend gezinslid van een personeelslid:
-
-- a. de echtgenoot of geregistreerd partner van een personeelslid van het Bureau;
-
-- b. kinderen jonger dan 18 jaar van een personeelslid van het Bureau, van diens echtgenoot of van diens geregistreerd partner;
-
-- c. kinderen tussen 18 en 27 jaar van een personeelslid van het Bureau, van diens echtgenoot of van diens geregistreerd partner, mits zij:
-
-- i. ongehuwd zijn,
-
-- ii. financieel afhankelijk zijn van het personeelslid van het Bureau, diens echtgenoot of diens geregistreerd partner, en
-
-- iii. in Nederland onderwijs volgen of studeren dan wel een beroepsopleiding of beroepsonderwijs volgen, al dan niet met inbegrip van een stageprogramma, of het voornemen daartoe hebben;
-
-- d. kinderen jonger dan 18 jaar, alsook kinderen die voldoen aan de eisen onder letter (c), voor wie een adoptieaanvraag is ingediend en waarbij de adoptieprocedure door een personeelslid van het Bureau, diens echtgenoot of diens geregistreerd partner in gang is gezet;
-
-- e. ongeacht hun leeftijd, invalide kinderen ten laste, of kinderen ten laste die wegens ernstige ziekte of invaliditeit tijdens de gehele periode van die ziekte of invaliditeit niet in hun levensonderhoud kunnen voorzien, van een personeelslid van het Bureau, van diens echtgenoot of van diens geregistreerd partner, mits het Bureau een verklaring van die strekking aan de Regering levert.
-
-2. Kinderen tussen 18 en 24 jaar van een personeelslid van het Bureau, van diens echtgenoot of van diens geregistreerd partner worden, ook indien zij niet aan de voorwaarde in het eerste lid, letter (c), punt (iii) voldoen, als inwonend gezinslid aangemerkt, zolang zij voldoen aan de overige, onder die letter genoemde voorwaarden.
-
-3. Bij wederzijdse overeenkomst tussen de Regering en het Bureau kunnen anderen dan de in het eerste en tweede lid bedoelde personen:
-
-- a. als gezinslid overeenkomstig het eerste lid worden aangemerkt, met de uitzondering dat een tewerkstellingsvergunning slechts dan wordt afgegeven indien de Nederlandse wet- en regelgeving zulks toestaat; of
-
-- b. kosteloos en zo spoedig mogelijk een meervoudig inreisvisum uitgereikt krijgen teneinde het personeelslid, diens echtgenoot of diens geregistreerd partner te bezoeken.
-
-4. Voor de toepassing van het derde lid zal de Regering in welwillende overweging nemen:
-
-- a. personen die niet aan de criteria in het eerste en tweede lid voldoen maar die ingevolge het Ambtenarenreglement van het Bureau als ten laste komend worden aangemerkt en die derhalve onder het systeem voor sociale zekerheid van het Bureau vallen; en
-
-- b. ernstig zieke of invalide ouders, om humanitaire redenen.
-
-5. Personen die krachtens deze Afzonderlijke overeenkomst als inwonend gezinslid worden aangemerkt, kunnen bij aankomst van het personeelslid in Nederland bij het personeelslid gaan inwonen of zich op enig later tijdstip bij de huishouding van het personeelslid voegen.
-
-Done at The Hague this 27th day of June in the year 2006 in two originals in the Netherlands, English, French and German languages, the four texts being equally authentic.
-
-**For the Kingdom of the Netherlands**
-
-B. R. BOT
-
-**For the European Patent Organisation**
+*Voor de Europese Octrooiorganisatie,*
 
 A. POMPIDOU

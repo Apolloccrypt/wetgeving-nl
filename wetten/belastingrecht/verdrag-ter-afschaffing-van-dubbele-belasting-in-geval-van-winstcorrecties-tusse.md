@@ -1,129 +1,19 @@
 ---
 title: "Verdrag ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen"
 identifier: "BWBV0002893"
-country: "nl"
-rank: "verdrag"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002893"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10003214933"
-version_id: "10003229802"
-internal_id: "C10006987071"
-label_id: "10003201104"
-dtd_version: "2.0"
-original_entry_into_force: "1995-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002893/2015-01-01/0"
-intitule_bron: "Trb.1990-173"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1994-01-12"
-intitule_published: "1990-12-17"
-intitule_in_force: "1997-09-25"
-intitule_status: "goed"
-original_publication: "Trb.1990-173"
-original_signed_date: "1994-01-12"
-original_published_date: "1990-12-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1990-173"
-entry_into_force_date: "1995-01-01"
-jci_1_3: "jci1.3:c:BWBV0002893&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBV0002893&g=2015-01-01"
-citeertitel_status: "officieel"
-signed_date: "1994-01-12"
-entry_into_force: "1995-01-01"
+publicatiedatum: 1995-01-01
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBV0002893"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen
 
-De Hoge Verdragsluitende Partijen bij het [Verdrag tot oprichting van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506),
-
-Geleid door de wens uitvoering te geven aan [artikel 220 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=220), krachtens hetwelk zij zich ertoe hebben verbonden met elkaar in onderhandeling te treden ter verzekering, voor hun onderdanen, van de afschaffing van dubbele belasting,
-
-Gezien het belang, gelegen in de afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen,
-
-Hebben besloten het onderhavige verdrag te sluiten, en hebben te dien einde als hun gevolmachtigden aangewezen:
-
-Zijne Majesteit de Koning der Belgen:
-
-Philippe de Schoutheete te Tervarent,
-
-Buitengewoon en Gevolmachtigd Ambassadeur;
-
-Hare Majesteit de Koningin van Denemarken:
-
-Niels Helveg Petersen,
-
-Minister van Economische Zaken;
-
-de President van de Bondsrepubliek Duitsland:
-
-Theo Waigel,
-
-Minister van Financiën;
-
-Jürgen Trumpf,
-
-Buitengewoon en Gevolmachtigd Ambassadeur;
-
-de President van de Helleense Republiek:
-
-Ioannis Palaiokrassas,
-
-Minister van Financiën;
-
-Zijne Majesteit de Koning van Spanje:
-
-Carlos Solchaga Catalán,
-
-Minister van Economische Zaken en Financiën;
-
-de President van de Franse Republiek:
-
-Jean Vidal,
-
-Buitengewoon en Gevolmachtigd Ambassadeur;
-
-de President van Ierland:
-
-Albert Reynolds,
-
-Minister van Financiën;
-
-de President van de Italiaanse Republiek:
-
-Stefano de Luca,
-
-Staatssecretaris van Financiën;
-
-Zijne Koninklijke Hoogheid de Groothertog van Luxemburg:
-
-Jean-Claude Juncker,
-
-Minister van Begroting, Minister van Financiën,
-
-Minister van Arbeid;
-
-Hare Majesteit de Koningin der Nederlanden:
-
-P. C. Nieman,
-
-Buitengewoon en Gevolmachtigd Ambassadeur;
-
-de President van de Portugese Republiek:
-
-Miguel Beleza,
-
-Minister van Financiën;
-
-Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland:
-
-David H. A. Hannay KCMG,
-
-Buitengewoon en Gevolmachtigd Ambassadeur;
-
-Die, in het kader van de Raad bijeen, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten,
-
-Overeenstemming hebben bereikt omtrent de volgende bepalingen:
+*De Hoge Verdragsluitende Partijen bij het Verdrag tot oprichting van de Europese Economische Gemeenschap, Geleid door de wens uitvoering te geven aan artikel 220 van het Verdrag, krachtens hetwelk zij zich ertoe hebben verbonden met elkaar in onderhandeling te treden ter verzekering, voor hun onderdanen, van de afschaffing van dubbele belasting, Gezien het belang, gelegen in de afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen, Hebben besloten het onderhavige verdrag te sluiten, en hebben te dien einde als hun gevolmachtigden aangewezen: Zijne Majesteit de Koning der Belgen: Philippe de Schoutheete te Tervarent, Buitengewoon en Gevolmachtigd Ambassadeur; Hare Majesteit de Koningin van Denemarken: Niels Helveg Petersen, Minister van Economische Zaken; de President van de Bondsrepubliek Duitsland: Theo Waigel, Minister van Financiën; Jürgen Trumpf, Buitengewoon en Gevolmachtigd Ambassadeur; de President van de Helleense Republiek: Ioannis Palaiokrassas, Minister van Financiën; Zijne Majesteit de Koning van Spanje: Carlos Solchaga Catalán, Minister van Economische Zaken en Financiën; de President van de Franse Republiek: Jean Vidal, Buitengewoon en Gevolmachtigd Ambassadeur; de President van Ierland: Albert Reynolds, Minister van Financiën; de President van de Italiaanse Republiek: Stefano de Luca, Staatssecretaris van Financiën; Zijne Koninklijke Hoogheid de Groothertog van Luxemburg: Jean-Claude Juncker, Minister van Begroting, Minister van Financiën, Minister van Arbeid; Hare Majesteit de Koningin der Nederlanden: P. C. Nieman, Buitengewoon en Gevolmachtigd Ambassadeur; de President van de Portugese Republiek: Miguel Beleza, Minister van Financiën; Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland: David H. A. Hannay KCMG, Buitengewoon en Gevolmachtigd Ambassadeur; Die, in het kader van de Raad bijeen, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, Overeenstemming hebben bereikt omtrent de volgende bepalingen:*
 
 ### HOOFDSTUK I. TOEPASSINGSGEBIED VAN HET VERDRAG
 
@@ -143,279 +33,279 @@ Overeenstemming hebben bereikt omtrent de volgende bepalingen:
 
 - i. in België:
 
-- a. impôt des personnes physiques/personenbelasting
+   - a. impôt des personnes physiques/personenbelasting
 
-- b. impôt des sociétés/vennootschapsbelasting
+   - b. impôt des sociétés/vennootschapsbelasting
 
-- c. impôt des personnes morales/rechtspersonenbelasting
+   - c. impôt des personnes morales/rechtspersonenbelasting
 
-- d. impôt des non-résidents/belasting der niet-verblijfhouders
+   - d. impôt des non-résidents/belasting der niet-verblijfhouders
 
-- e. taxe communale et la taxe d'agglomération additionnelles à l'impôt des personnes physiques/aanvullende gemeentebelasting en agglomeratiebelasting op de personenbelasting
+   - e. taxe communale et la taxe d'agglomération additionnelles à l'impôt des personnes physiques/aanvullende gemeentebelasting en agglomeratiebelasting op de personenbelasting
 
 - ii. in Bulgarije:
 
-- a. данък върху доходите на физическите лица
+   - a. данък върху доходите на физическите лица
 
-- b. корпоративен данък
+   - b. корпоративен данък
 
 - iii. in Tsjechië:
 
-- a. daň z přijmů fyzických osob
+   - a. daň z přijmů fyzických osob
 
-- b. daň z přijmů právnických osob
+   - b. daň z přijmů právnických osob
 
 - iv. in Denemarken:
 
-- a. indkomstskat til staten
+   - a. indkomstskat til staten
 
-- b. den kommunale indkomstskat
+   - b. den kommunale indkomstskat
 
-- c. den amtskommunale indkomstskat
+   - c. den amtskommunale indkomstskat
 
 - v. in Duitsland:
 
-- a. Einkommensteuer
+   - a. Einkommensteuer
 
-- b. Körperschaftsteuer
+   - b. Körperschaftsteuer
 
-- c. Gewerbesteuer, voor zover deze belasting naar de ondernemingswinst wordt berekend
+   - c. Gewerbesteuer, voor zover deze belasting naar de ondernemingswinst wordt berekend
 
 - vi. in Estland:
 
-- a. tulumaks
+   - a. tulumaks
 
 - vii. in Ierland:
 
-- a. Cáin Ioncaim
+   - a. Cáin Ioncaim
 
-- b. Cáin Chorparáide
+   - b. Cáin Chorparáide
 
 - viii. in Griekenland:
 
-- a. φόρος εισοδήματος φυσικών προσώπων
+   - a. φόρος εισοδήματος φυσικών προσώπων
 
-- b. φόρος εισοδήματος νομικών προσώπων
+   - b. φόρος εισοδήματος νομικών προσώπων
 
-- c. εισφορά υπέρ των επιχειρήσεων ύδρευσης και αποχέτευσης
+   - c. εισφορά υπέρ των επιχειρήσεων ύδρευσης και αποχέτευσης
 
 - ix. in Spanje:
 
-- a. Impuesto sobre la Renta de las Personas Físicas
+   - a. Impuesto sobre la Renta de las Personas Físicas
 
-- b. Impuesto sobre Sociedades
+   - b. Impuesto sobre Sociedades
 
-- c. Impuesto sobre la Renta de no Residentes
+   - c. Impuesto sobre la Renta de no Residentes
 
 - x. in Frankrijk:
 
-- a. impôt sur le revenu
+   - a. impôt sur le revenu
 
-- b. impôt sur les sociétés
+   - b. impôt sur les sociétés
 
 - xi. in Kroatië:
 
-- a. porez na dohodak
+   - a. porez na dohodak
 
-- b. porez na dobit
+   - b. porez na dobit
 
 - xii. in Italië:
 
-- a. imposta sul reddito delle persone fisiche
+   - a. imposta sul reddito delle persone fisiche
 
-- b. imposta sul reddito delle società
+   - b. imposta sul reddito delle società
 
-- c. imposta regionale sulle attività produttive
+   - c. imposta regionale sulle attività produttive
 
 - xiii. in Cyprus:
 
-- a. Φόρος Εισοδήματος
+   - a. Φόρος Εισοδήματος
 
-- b. Έκτακτη Εισφορά για την Άμυνα της yημοκρατίας
+   - b. Έκτακτη Εισφορά για την Άμυνα της yημοκρατίας
 
 - xiv. in Letland:
 
-- a. uzħēmumu ienākuma nodoklis
+   - a. uzħēmumu ienākuma nodoklis
 
-- b. iedzīvotāju ienākuma nodoklis
+   - b. iedzīvotāju ienākuma nodoklis
 
 - xv. in Litouwen:
 
-- a. Gyventojų pajamų mokestis
+   - a. Gyventojų pajamų mokestis
 
-- b. Pelno mokestis
+   - b. Pelno mokestis
 
 - xvi. in Luxemburg:
 
-- a. impôt sur le revenu des personnes physiques
+   - a. impôt sur le revenu des personnes physiques
 
-- b. impôt sur le revenu des collectivités
+   - b. impôt sur le revenu des collectivités
 
-- c. impôt commercial, voor zover deze belasting naar de ondernemingswinst wordt berekend
+   - c. impôt commercial, voor zover deze belasting naar de ondernemingswinst wordt berekend
 
 - xvii. in Hongarije:
 
-- a. személyi jövedelemadó
+   - a. személyi jövedelemadó
 
-- b. társasági adó
+   - b. társasági adó
 
-- c. osztalékadó
+   - c. osztalékadó
 
 - xviii. in Malta:
 
-- a. taxxa fuq l-income
+   - a. taxxa fuq l-income
 
 - xix. in Nederland:
 
-- a. inkomstenbelasting
+   - a. inkomstenbelasting
 
-- b. vennootschapsbelasting
+   - b. vennootschapsbelasting
 
 - xx. in Oostenrijk:
 
-- a. Einkommensteuer
+   - a. Einkommensteuer
 
-- b. Körperschaftsteuer
+   - b. Körperschaftsteuer
 
 - xxi. in Polen:
 
-- a. podatek dochodowy od osób fizycznych
+   - a. podatek dochodowy od osób fizycznych
 
-- b. podatek dochodowy od osób prawnych
+   - b. podatek dochodowy od osób prawnych
 
 - xxii. in Portugal:
 
-- a. imposto sobre o rendimento das pessoas singulares
+   - a. imposto sobre o rendimento das pessoas singulares
 
-- b. imposto sobre o rendimento das pessoas coletivas
+   - b. imposto sobre o rendimento das pessoas coletivas
 
-- c. derrama para os municípios sobre o imposto sobre o rendimento das pessoas coletivas
+   - c. derrama para os municípios sobre o imposto sobre o rendimento das pessoas coletivas
 
 - xxiii. in Roemenië:
 
-- a. impozitul pe venit
+   - a. impozitul pe venit
 
-- b. impozitul pe profit
+   - b. impozitul pe profit
 
-- c. impozitul pe veniturile obținute din România de nerezidenți
+   - c. impozitul pe veniturile obținute din România de nerezidenți
 
 - xxiv. in Slovenië:
 
-- a. dohodnina
+   - a. dohodnina
 
-- b. davek od dobička pravnih oseb
+   - b. davek od dobička pravnih oseb
 
 - xxv. in Slowakije:
 
-- a. daň z príjmov právnických osôb
+   - a. daň z príjmov právnických osôb
 
-- b. daň z príjmov fyzických osôb
+   - b. daň z príjmov fyzických osôb
 
 - xxvi. in Finland:
 
-- a. valtion tuloverot/de statliga inkomstskatterna
+   - a. valtion tuloverot/de statliga inkomstskatterna
 
-- b. yhteisöjen tulovero/inkomstskatten för samfund
+   - b. yhteisöjen tulovero/inkomstskatten för samfund
 
-- c. kunnallisvero/kommunalskatten
+   - c. kunnallisvero/kommunalskatten
 
-- d. kirkollisvero/kyrkoskatten
+   - d. kirkollisvero/kyrkoskatten
 
-- e. korkotulon lähdevero/källskatten på ränteinkomst
+   - e. korkotulon lähdevero/källskatten på ränteinkomst
 
-- f. rajoitetusti verovelvollisen lähdevero/källskatten för begränsat skattskyldig
+   - f. rajoitetusti verovelvollisen lähdevero/källskatten för begränsat skattskyldig
 
 - xxvii. in Zweden:
 
-- a. statlig inkomstskatt
+   - a. statlig inkomstskatt
 
-- b. kupongskatt
+   - b. kupongskatt
 
-- c. kommunal inkomstskatt
+   - c. kommunal inkomstskatt
 
 - xxviii. in het Verenigd Koninkrijk:
 
-- a. Income Tax
+   - a. Income Tax
 
-- b. Corporation Tax.
+   - b. Corporation Tax.
 
 3. Dit Verdrag is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die na de datum van ondertekening van dit verdrag naast of in plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de Verdragsluitende Staten delen elkaar alle wijzigingen mee die in hun onderscheiden nationale wetgevingen zijn aangebracht.
 
 ### HOOFDSTUK II. ALGEMENE BEPALINGEN
 
-## DEEL 1. BEGRIPSBEPALINGEN
+### DEEL 1. BEGRIPSBEPALINGEN
 
 ##### Artikel 3
 
 1. In dit Verdrag betekent de uitdrukking „bevoegde autoriteit”:
 
-- –. in België:
+- – in België:
 
-- –. De minister van Financiën of zijn bevoegde vertegenwoordiger,
+   - – De minister van Financiën of zijn bevoegde vertegenwoordiger,
 
-- –. Le ministre des Finances of zijn bevoegde vertegenwoordiger,
+   - – Le ministre des Finances of zijn bevoegde vertegenwoordiger,
 
-- –. in Bulgarije: Министъра на финансите of zijn bevoegde vertegenwoordiger,
+- – in Bulgarije: Министъра на финансите of zijn bevoegde vertegenwoordiger,
 
-- –. in Tsjechië: Ministr financí of zijn bevoegde vertegenwoordiger,
+- – in Tsjechië: Ministr financí of zijn bevoegde vertegenwoordiger,
 
-- –. in Denemarken: Skatteministeren of zijn bevoegde vertegenwoordiger,
+- – in Denemarken: Skatteministeren of zijn bevoegde vertegenwoordiger,
 
-- –. in Duitsland: Der Bundesminister der Finanzen of zijn bevoegde vertegenwoordiger,
+- – in Duitsland: Der Bundesminister der Finanzen of zijn bevoegde vertegenwoordiger,
 
-- –. in Estland: Rahandusminister of zijn bevoegde vertegenwoordiger,
+- – in Estland: Rahandusminister of zijn bevoegde vertegenwoordiger,
 
-- –. in Ierland: The Revenue Commissioners of hun bevoegde vertegenwoordiger,
+- – in Ierland: The Revenue Commissioners of hun bevoegde vertegenwoordiger,
 
-- –. in Griekenland: Ο Υπουργός των Οικονομικών of zijn bevoegde vertegenwoordiger,
+- – in Griekenland: Ο Υπουργός των Οικονομικών of zijn bevoegde vertegenwoordiger,
 
-- –. in Spanje: El ministro de Economía y Hacienda of zijn bevoegde vertegenwoordiger,
+- – in Spanje: El ministro de Economía y Hacienda of zijn bevoegde vertegenwoordiger,
 
-- –. in Frankrijk: Le ministre chargé du budget of zijn bevoegde vertegenwoordiger,
+- – in Frankrijk: Le ministre chargé du budget of zijn bevoegde vertegenwoordiger,
 
-- –. in Kroatië: Ministar financija of zijn bevoegde vertegenwoordiger,
+- – in Kroatië: Ministar financija of zijn bevoegde vertegenwoordiger,
 
-- –. in Italië: Il Capo del Dipartimento per le Politiche Fiscali of zijn bevoegde vertegenwoordiger,
+- – in Italië: Il Capo del Dipartimento per le Politiche Fiscali of zijn bevoegde vertegenwoordiger,
 
-- –. in Cyprus: Ο Υπουργός Οικονομικών of zijn bevoegde vertegenwoordiger,
+- – in Cyprus: Ο Υπουργός Οικονομικών of zijn bevoegde vertegenwoordiger,
 
-- –. in Letland: Valsts ieņēmumu dienests,
+- – in Letland: Valsts ieņēmumu dienests,
 
-- –. in Litouwen: Finansų ministras of zijn bevoegde vertegenwoordiger,
+- – in Litouwen: Finansų ministras of zijn bevoegde vertegenwoordiger,
 
-- –. in Luxemburg: Le ministre des Finances of zijn bevoegde vertegenwoordiger,
+- – in Luxemburg: Le ministre des Finances of zijn bevoegde vertegenwoordiger,
 
-- –. in Hongarije: a pénzügyminiszter of zijn bevoegde vertegenwoordiger,
+- – in Hongarije: a pénzügyminiszter of zijn bevoegde vertegenwoordiger,
 
-- –. in Malta: il-Ministru responsabbli għall-finanzi of zijn bevoegde vertegenwoordiger,
+- – in Malta: il-Ministru responsabbli għall-finanzi of zijn bevoegde vertegenwoordiger,
 
-- –. in Nederland: De minister van Financiën of zijn bevoegde vertegenwoordiger,
+- – in Nederland: De minister van Financiën of zijn bevoegde vertegenwoordiger,
 
-- –. in Oostenrijk: Der Bundesminister für Finanzen of zijn bevoegde vertegenwoordiger,
+- – in Oostenrijk: Der Bundesminister für Finanzen of zijn bevoegde vertegenwoordiger,
 
-- –. in Polen: Minister Finansów of zijn bevoegde vertegenwoordiger,
+- – in Polen: Minister Finansów of zijn bevoegde vertegenwoordiger,
 
-- –. in Portugal: O Ministro das Finanças of zijn bevoegde vertegenwoordiger,
+- – in Portugal: O Ministro das Finanças of zijn bevoegde vertegenwoordiger,
 
-- –. in Roemenië: Președintele Agenției Naționale de Administrare Fiscală of zijn bevoegde vertegenwoordiger,
+- – in Roemenië: Președintele Agenției Naționale de Administrare Fiscală of zijn bevoegde vertegenwoordiger,
 
-- –. in Slovenië: Minister za finance of zijn bevoegde vertegenwoordiger,
+- – in Slovenië: Minister za finance of zijn bevoegde vertegenwoordiger,
 
-- –. in Slowakije: Minister financií of zijn bevoegde vertegenwoordiger,
+- – in Slowakije: Minister financií of zijn bevoegde vertegenwoordiger,
 
-- –. in Finland:
+- – in Finland:
 
-- –. Valtiovarainministeriö of zijn bevoegde vertegenwoordiger,
+   - – Valtiovarainministeriö of zijn bevoegde vertegenwoordiger,
 
-- –. Finansministeriet of zijn bevoegde vertegenwoordiger,
+   - – Finansministeriet of zijn bevoegde vertegenwoordiger,
 
-- –. in Zweden: Finansministern of zijn bevoegde vertegenwoordiger,
+- – in Zweden: Finansministern of zijn bevoegde vertegenwoordiger,
 
-- –. in het Verenigd Koninkrijk: The Commissioners of Inland Revenue of hun bevoegde vertegenwoordiger.
+- – in het Verenigd Koninkrijk: The Commissioners of Inland Revenue of hun bevoegde vertegenwoordiger.
 
 2. Iedere uitdrukking die in dit Verdrag niet nader is omschreven, heeft, tenzij het zinsverband anders vereist, de betekenis welke zij heeft in het kader van het verdrag tot het vermijden van dubbele belasting dat tussen de betrokken Staten is gesloten.
 
-## DEEL 2. BEGINSELEN DIE VAN TOEPASSING ZIJN OP DE WINSTCORRECTIES TUSSEN VERBONDEN ONDERNEMINGEN EN OP DE TOEREKENING VAN WINST AAN EEN VASTE INRICHTING
+### DEEL 2. BEGINSELEN DIE VAN TOEPASSING ZIJN OP DE WINSTCORRECTIES TUSSEN VERBONDEN ONDERNEMINGEN EN OP DE TOEREKENING VAN WINST AAN EEN VASTE INRICHTING
 
 ##### Artikel 4
 
@@ -423,9 +313,9 @@ De volgende beginselen dienen in acht te worden genomen bij de toepassing van di
 
 - 1. Indien: en, in het ene of in het andere geval, tussen de beide ondernemingen in hun handelsbetrekkingen of financiële betrekkingen voorwaarden worden overeengekomen of opgelegd, die afwijken van die welke zouden worden overeengekomen tussen onafhankelijke ondernemingen, mag winst die een van de ondernemingen zonder deze voorwaarden zou hebben behaald, maar ten gevolge van die voorwaarden niet heeft behaald, worden begrepen in de winst van die onderneming en dienovereenkomstig worden belast.
 
-- a. een onderneming van een Verdragsluitende Staat onmiddellijk of middellijk deelneemt aan de leiding van, aan het toezicht op, dan wel in het kapitaal van een onderneming van een andere Verdragsluitende Staat, of
+   - a. een onderneming van een Verdragsluitende Staat onmiddellijk of middellijk deelneemt aan de leiding van, aan het toezicht op, dan wel in het kapitaal van een onderneming van een andere Verdragsluitende Staat, of
 
-- b. dezelfde personen onmiddellijk of middellijk deelnemen aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van een Verdragsluitende Staat en een onderneming van een andere Verdragsluitende Staat,
+   - b. dezelfde personen onmiddellijk of middellijk deelnemen aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van een Verdragsluitende Staat en een onderneming van een andere Verdragsluitende Staat,
 
 - 2. Indien een onderneming van een Verdragsluitende Staat in een andere Verdragsluitende Staat haar bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting, wordt in elk van de Staten aan die vaste inrichting de winst toegerekend die zij geacht zou kunnen worden te behalen, indien zij een zelfstandige onderneming zou zijn die dezelfde of soortgelijke werkzaamheden zou uitoefenen onder dezelfde of soortgelijke omstandigheden en die geheel onafhankelijk transacties zou aangaan met de onderneming waarvan zij een vaste inrichting is.
 
@@ -437,7 +327,7 @@ De Verdragsluitende Staat die dergelijke inlichtingen verstrekt, mag niet worden
 
 Indien beide ondernemingen en de andere Verdragsluitende Staat na die kennisgeving de correctie aanvaarden, zijn de artikelen 6 en 7 niet van toepassing.
 
-## DEEL 3. REGELING VOOR ONDERLING OVERLEG EN ARBITRAGEPROCEDURE
+### DEEL 3. REGELING VOOR ONDERLING OVERLEG EN ARBITRAGEPROCEDURE
 
 ##### Artikel 6
 
@@ -471,19 +361,19 @@ De ondernemingen kunnen de nationale rechtsmiddelen van de betrokken Verdragslui
 
 1. De in artikel 7, lid 1, genoemde raadgevende commissie bestaat behalve de Voorzitter uit:
 
-- -. twee vertegenwoordigers van elke betrokken bevoegde autoriteit; dit aantal kan in onderling overleg tussen de bevoegde autoriteiten tot één worden beperkt;
+- - twee vertegenwoordigers van elke betrokken bevoegde autoriteit; dit aantal kan in onderling overleg tussen de bevoegde autoriteiten tot één worden beperkt;
 
-- -. een even aantal onafhankelijke personen die aan de hand van de in lid 4 bedoelde lijst van personen in onderlinge overeenstemming of, bij gebreke van overeenstemming, door loting worden aangewezen door de betrokken bevoegde autoriteiten.
+- - een even aantal onafhankelijke personen die aan de hand van de in lid 4 bedoelde lijst van personen in onderlinge overeenstemming of, bij gebreke van overeenstemming, door loting worden aangewezen door de betrokken bevoegde autoriteiten.
 
 2. Tegelijk met de onafhankelijke personen wordt in overeenstemming met de voor de aanwijzing van deze personen geldende bepalingen voor ieder van hen een plaatsvervanger aangewezen voor het geval dat de onafhankelijke personen verhinderd zijn hun functie uit te oefenen.
 
 3. In het geval van loting kan iedere onafhankelijke persoon door elk der bevoegde autoriteiten worden gewraakt in vooraf tussen de betrokken bevoegde autoriteiten overeengekomen omstandigheden, en voorts indien:
 
-- -. deze persoon behoort tot een van de betrokken belastingdiensten of ten behoeve van een van deze diensten werkzaam is;
+- - deze persoon behoort tot een van de betrokken belastingdiensten of ten behoeve van een van deze diensten werkzaam is;
 
-- -. deze persoon een belangrijke deelneming in een of in elke van de verbonden ondernemingen heeft of heeft gehad of er werknemer of adviseur van is of is geweest;
+- - deze persoon een belangrijke deelneming in een of in elke van de verbonden ondernemingen heeft of heeft gehad of er werknemer of adviseur van is of is geweest;
 
-- -. deze persoon met het oog op de regeling van de te behandelen zaak of zaken onvoldoende garanties biedt voor de daarbij te betrachten objectiviteit.
+- - deze persoon met het oog op de regeling van de te behandelen zaak of zaken onvoldoende garanties biedt voor de daarbij te betrachten objectiviteit.
 
 4. Er wordt een lijst van onafhankelijke personen opgesteld uit de door de Verdragsluitende Staten aangewezen onafhankelijke personen. Elke Verdragsluitende Staat wijst daartoe vijf personen aan en stelt de Secretaris-Generaal van de Raad van de Europese Gemeenschappen van die aanwijzing in kennis.
 
@@ -553,9 +443,9 @@ Dit Verdrag laat onverlet verdergaande verplichtingen met betrekking tot het afs
 
 2. Dit Verdrag is niet van toepassing op
 
-- -. de Franse gebieden, genoemd in bijlage IV van het Verdrag tot oprichting van de Europese Economische Gemeenschap;
+- - de Franse gebieden, genoemd in bijlage IV van het Verdrag tot oprichting van de Europese Economische Gemeenschap;
 
-- -. de Faeröer-eilanden en Groenland.
+- - de Faeröer-eilanden en Groenland.
 
 ##### Artikel 17
 

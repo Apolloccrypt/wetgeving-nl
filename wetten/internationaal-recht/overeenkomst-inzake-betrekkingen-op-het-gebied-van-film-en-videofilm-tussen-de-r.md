@@ -1,51 +1,21 @@
 ---
 title: "Overeenkomst inzake betrekkingen op het gebied van film en videofilm tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Canada"
 identifier: "BWBV0002144"
-country: "nl"
-rank: "verdrag"
-publication_date: "1994-11-21"
-last_updated: "1994-11-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002144"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002676343"
-version_id: "10002674702"
-internal_id: "C10006984851"
-label_id: "10002664744"
-dtd_version: "2.0"
-original_entry_into_force: "1990-11-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002144/1994-11-21/0"
-intitule_bron: "Trb.1989-170"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1989-10-18"
-intitule_published: "1989-11-29"
-intitule_in_force: "1990-12-28"
-intitule_status: "goed"
-original_publication: "Trb.1989-170"
-original_signed_date: "1989-10-18"
-original_published_date: "1989-11-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1989-170"
-entry_into_force_date: "1990-11-26"
-jci_1_3: "jci1.3:c:BWBV0002144&z=1994-11-21&g=1994-11-21"
-jci_1_0: "1.0:c:BWBV0002144&g=1994-11-21"
-citeertitel_status: "officieel"
-signed_date: "1989-10-18"
-entry_into_force: "1990-11-26"
+publicatiedatum: 1990-11-26
+laatste_update: 1994-11-21
+status: geldig
+toestand: 1994-11-21
+bron: "https://wetten.overheid.nl/BWBV0002144"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst inzake betrekkingen op het gebied van film en videofilm tussen de Regering van het Koninkrijk der Nederlanden en de Regering van Canada
 
-De Regering van het koninkrijk der Nederlanden en de Regering van Canada,
+*De Regering van het koninkrijk der Nederlanden en de Regering van Canada, Overwegende dat het wenselijk is een kader te scheppen ten behoeve van de betrekkingen op het gebied van film en videofilm en in het bijzonder ten behoeve van coprodukties; Zich ervan bewust dat coprodukties van hoge kwaliteit kunnen bijdragen tot de ontwikkeling van de filmcultuur van de film- en videoindustrie van beide landen alsmede tot de ontwikkeling van wederzijdse uitwisselingen op cultureel en economisch vlak; Ervan overtuigd dat deze uitwisselingen zullen bijdragen tot een versterking van de betrekkingen tussen de beide landen; zijn als volgt overeengekomen:*
 
-Overwegende dat het wenselijk is een kader te scheppen ten behoeve van de betrekkingen op het gebied van film en videofilm en in het bijzonder ten behoeve van coprodukties;
-
-Zich ervan bewust dat coprodukties van hoge kwaliteit kunnen bijdragen tot de ontwikkeling van de filmcultuur van de film- en videoindustrie van beide landen alsmede tot de ontwikkeling van wederzijdse uitwisselingen op cultureel en economisch vlak;
-
-Ervan overtuigd dat deze uitwisselingen zullen bijdragen tot een versterking van de betrekkingen tussen de beide landen;
-
-zijn als volgt overeengekomen:
-
-### I. Coprodukties
+#### I. Coprodukties
 
 ##### Artikel I
 
@@ -119,11 +89,11 @@ Goedkeuring van een voorstel voor coproduktie door de bevoegde autoriteiten van 
 
 Indien een coproduktie wordt uitgevoerd naar een land waar de invoer van film- en videoprodukties is gecontingenteerd
 
-- a). wordt deze in beginsel in mindering gebracht op het contingent van het land van de coproducent met de grootste inbreng;
+- a) wordt deze in beginsel in mindering gebracht op het contingent van het land van de coproducent met de grootste inbreng;
 
-- b). wordt deze, indien de respectieve bijdragen van de coproducenten gelijk zijn, in mindering gebracht op het contingent van het land dat de beste mogelijkheden heeft voor het regelen van de uitvoer van de coproduktie;
+- b) wordt deze, indien de respectieve bijdragen van de coproducenten gelijk zijn, in mindering gebracht op het contingent van het land dat de beste mogelijkheden heeft voor het regelen van de uitvoer van de coproduktie;
 
-- c). indien zich moeilijkheden voordoen met betrekking tot lid (a) en lid (b), wordt de coproduktie in mindering gebracht op het contingent van het land dat de gunstigste regelingen geniet voor de uitvoer van de coproduktie.
+- c) indien zich moeilijkheden voordoen met betrekking tot lid (a) en lid (b), wordt de coproduktie in mindering gebracht op het contingent van het land dat de gunstigste regelingen geniet voor de uitvoer van de coproduktie.
 
 ##### Artikel XIII
 
@@ -139,7 +109,7 @@ Tenzij de coproducenten anderszins overeenkomen, wordt een coproduktie ingezonde
 
 De bevoegde autoriteiten van beide landen stellen gezamenlijk de procedureregels voor coprodukties op met inachtneming van de in Canada en Nederland van kracht zijnde wetten en voorschriften. Deze procedureregels zijn aan deze Overeenkomst gehecht.
 
-### II. Uitwisseling van films
+#### II. Uitwisseling van films
 
 ##### Artikel XVI
 
@@ -147,7 +117,7 @@ Er worden aan de invoer, verspreiding en vertoning van Nederlandse film-en video
 
 De bevoegde autoriteiten van beide landen achten het wenselijk dat de nasynchronisatie of de ondertiteling in het Frans of in het Engels van elke Nederlandse produktie die verspreid en vertoond wordt in Canada wordt verzorgd in dit laatstgenoemde land en de nasynchronisatie en ondertitelingen het Nederlands van elke Canadese produktie die verspreid en vertoond wordt in Nederland wordt verzorgd in dit laatstgenoemde land.
 
-### III. Algemene bepalingen
+#### III. Algemene bepalingen
 
 ##### Artikel XVII
 
@@ -171,11 +141,11 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd door hun on
 
 GEDAAN te Ottawa, de 18de oktober 1989, in tweevoud in de Nederlandse, de Franse en de Engelse taal, zijnde de drie teksten gelijkelijk authentiek.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 (w.g.) J. BREMAN
 
-**Voor de Regering van Canada,**
+*Voor de Regering van Canada,*
 
 (w.g.) MARCEL MASSE
 

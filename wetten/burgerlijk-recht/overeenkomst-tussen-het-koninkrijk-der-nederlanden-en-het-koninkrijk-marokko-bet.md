@@ -1,45 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko betreffende het internationale wegvervoer van personen en goederen"
 identifier: "BWBV0002205"
-country: "nl"
-rank: "verdrag"
-publication_date: "1987-07-10"
-last_updated: "1987-07-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002205"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002698633"
-version_id: "10002697612"
-internal_id: "C10006979211"
-label_id: "10002686874"
-dtd_version: "2.0"
-original_entry_into_force: "1987-07-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002205/1987-07-10/0"
-intitule_bron: "Trb.1982-93"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1983-04-21"
-intitule_published: "1982-07-06"
-intitule_in_force: "1987-07-24"
-intitule_status: "goed"
-original_publication: "Trb.1982-93"
-original_signed_date: "1983-04-21"
-original_published_date: "1982-07-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1982-93"
-entry_into_force_date: "1987-07-10"
-jci_1_3: "jci1.3:c:BWBV0002205&z=1987-07-10&g=1987-07-10"
-jci_1_0: "1.0:c:BWBV0002205&g=1987-07-10"
-citeertitel_status: "officieel"
-signed_date: "1983-04-21"
-entry_into_force: "1987-07-10"
+publicatiedatum: 1987-07-10
+laatste_update: 1987-07-10
+status: geldig
+toestand: 1987-07-10
+bron: "https://wetten.overheid.nl/BWBV0002205"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko betreffende het internationale wegvervoer van personen en goederen
 
-De Regering van het Koninkrijk der Nederlanden en
-
-De Regering van het Koninkrijk Marokko
-
-Verlangend het internationale wegvervoer van personen en goederen tussen de beide Staten alsmede het transitovervoer over hun grondgebied te bevorderen, zijn als volgt overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en De Regering van het Koninkrijk Marokko Verlangend het internationale wegvervoer van personen en goederen tussen de beide Staten alsmede het transitovervoer over hun grondgebied te bevorderen, zijn als volgt overeengekomen:*
 
 ##### Artikel 1
 
@@ -55,11 +29,11 @@ Alle beroepsvervoer van personen, tussen de beide Staten of bij wijze van transi
 
 1. Het volgende vervoer is niet onderworpen aan het stelsel van voorafgaande vergunningen, maar hiervoor is een eenvoudige verklaring vereist:
 
-- -. Incidentele gesloten rondritten, dat wil zeggen ritten waarbij het voertuig over het gehele traject dezelfde groep personen vervoert en op het beginpunt terugkeert zonder onderweg personen te laten in- of uitstappen,
+- - Incidentele gesloten rondritten, dat wil zeggen ritten waarbij het voertuig over het gehele traject dezelfde groep personen vervoert en op het beginpunt terugkeert zonder onderweg personen te laten in- of uitstappen,
 
-- -. Incidenteel toeristenvervoer waarbij het voertuig op de heenweg personen vervoert en leeg terug rijdt, terwijl onderweg evenwel reizigers kunnen uitstappen,
+- - Incidenteel toeristenvervoer waarbij het voertuig op de heenweg personen vervoert en leeg terug rijdt, terwijl onderweg evenwel reizigers kunnen uitstappen,
 
-- -. Onregelmatig transitovervoer van personen.
+- - Onregelmatig transitovervoer van personen.
 
 2. Voor de verklaring, bedoeld in het eerste lid hierboven, wordt het model opgesteld in overleg tussen de bevoegde autoriteiten van beide Staten.
 
@@ -69,15 +43,15 @@ Alle beroepsvervoer van personen, tussen de beide Staten of bij wijze van transi
 
 2. Daartoe zenden bedoelde autoriteiten de voorstellen aan elkaar toe die zij van de ondernemingen hebben ontvangen inzake de regeling van dit vervoer; deze voorstellen dienen de volgende gegevens te bevatten:
 
-- a). naam van de vervoerder
+- a) naam van de vervoerder
 
-- b). exploitatieperiode en frequentie
+- b) exploitatieperiode en frequentie
 
-- c). voorgesteld tarief
+- c) voorgesteld tarief
 
-- d). de te volgen route
+- d) de te volgen route
 
-- e). eventueel bijzondere exploitatievoorwaarden.
+- e) eventueel bijzondere exploitatievoorwaarden.
 
 3. Na aanvaarding door de bevoegde autoriteiten van de Overeenkomstsluitende Partijen van de voorstellen, bedoeld in het tweede lid van dit artikel, verstrekken de Partijen elkaar een vergunning die geldig is voor het traject over het grondgebied van hun land.
 
@@ -97,9 +71,9 @@ Alle goederenvervoer, tussen beide Staten of bij wijze van transitovervoer over 
 
 1. Er bestaan twee soorten vergunningen:
 
-- a). Ritvergunningen die geldig zijn voor een of meer ritten en waarvan de geldigheidsduur ten hoogste drie maanden bedraagt.
+- a) Ritvergunningen die geldig zijn voor een of meer ritten en waarvan de geldigheidsduur ten hoogste drie maanden bedraagt.
 
-- b). Termijnvergunningen die geldig zijn voor een onbepaald aantal ritten en waarvan de geldigheidsduur een jaar bedraagt.
+- b) Termijnvergunningen die geldig zijn voor een onbepaald aantal ritten en waarvan de geldigheidsduur een jaar bedraagt.
 
 2. De vergunning verleent de vervoerder het recht op de terugweg goederen te laden.
 
@@ -111,23 +85,23 @@ De bevoegde autoriteiten van de Staat waar de voertuigen zijn geregistreerd, ver
 
 De bevoegde autoriteiten verlenen buiten het contingent vergunningen voor het volgende vervoer:
 
-- a). Het vervoer van beschadigde voertuigen.
+- a) Het vervoer van beschadigde voertuigen.
 
-- b). Het begrafenisvervoer en het vervoer van lijken met voertuigen die speciaal zijn ingericht voor zodanig vervoer over de weg overeenkomstig de voorschriften op het gebied van de volksgezondheid.
+- b) Het begrafenisvervoer en het vervoer van lijken met voertuigen die speciaal zijn ingericht voor zodanig vervoer over de weg overeenkomstig de voorschriften op het gebied van de volksgezondheid.
 
-- c). Het vervoer van onderdelen en produkten bestemd voor de bevoorrading van in nood verkerende zeeschepen.
+- c) Het vervoer van onderdelen en produkten bestemd voor de bevoorrading van in nood verkerende zeeschepen.
 
-- d). Het vervoer van kostbare goederen (bijvoorbeeld edele metalen) verricht met bijzondere voertuigen onder escorte van politie of andere veiligheidsdiensten.
+- d) Het vervoer van kostbare goederen (bijvoorbeeld edele metalen) verricht met bijzondere voertuigen onder escorte van politie of andere veiligheidsdiensten.
 
-- e). Het vervoer van artikelen die nodig zijn voor medische hulpverlening in noodgevallen, met name bij natuurrampen.
+- e) Het vervoer van artikelen die nodig zijn voor medische hulpverlening in noodgevallen, met name bij natuurrampen.
 
-- f). De ledige rit met een voertuig bestemd voor het vervoer van goederen, bedoeld om een voertuig te vervangen dat in het buitenland onklaar is geraakt alsmede de voortzetting door het ter vervanging ingezette voertuig van het vervoer met de vergunning die is afgegeven voor het voertuig dat onklaar is geraakt.
+- f) De ledige rit met een voertuig bestemd voor het vervoer van goederen, bedoeld om een voertuig te vervangen dat in het buitenland onklaar is geraakt alsmede de voortzetting door het ter vervanging ingezette voertuig van het vervoer met de vergunning die is afgegeven voor het voertuig dat onklaar is geraakt.
 
-- g). Het vervoer van kunstvoorwerpen en kunstwerken voor tentoonstellingen en jaarbeurzen.
+- g) Het vervoer van kunstvoorwerpen en kunstwerken voor tentoonstellingen en jaarbeurzen.
 
-- h). Het vervoer van materiaal, rekwisieten en dieren, bestemd voor of afkomstig van toneelvoorstellingen, muziekuitvoeringen, filmvoorstellingen, sportwedstrijden, circussen, jaarbeurzen of kermissen, alsmede materiaal, rekwisieten en dieren bestemd voor radio-opnamen, filmopnamen of televisie.
+- h) Het vervoer van materiaal, rekwisieten en dieren, bestemd voor of afkomstig van toneelvoorstellingen, muziekuitvoeringen, filmvoorstellingen, sportwedstrijden, circussen, jaarbeurzen of kermissen, alsmede materiaal, rekwisieten en dieren bestemd voor radio-opnamen, filmopnamen of televisie.
 
-- i). Verhuizingen.
+- i) Verhuizingen.
 
 Bovengenoemde opsomming kan worden gewijzigd in overleg tussen beide Overeenkomstsluitende Partijen.
 
@@ -189,9 +163,9 @@ De interne wetgeving van iedere Overeenkomstsluitende Partij is van toepassing o
 
 In geval van overtreding van de bepalingen van deze Overeenkomst door een vervoerder begaan op het grondgebied van een van de Overeenkomstsluitende Partijen, zijn de bevoegde autoriteiten van de Staat waar het voertuig is geregistreerd, verplicht op verzoek van de bevoegde autoriteiten van de andere Overeenkomstsluitende Partij op hem een van de volgende strafmaatregelen toe te passen:
 
-- a). Waarschuwing
+- a) Waarschuwing
 
-- b). Gehele of gedeeltelijke intrekking - tijdelijk of definitief - van het recht vervoer te verrichten op het grondgebied van de Staat waar de overtreding is begaan.
+- b) Gehele of gedeeltelijke intrekking - tijdelijk of definitief - van het recht vervoer te verrichten op het grondgebied van de Staat waar de overtreding is begaan.
 
 De autoriteiten die de strafmaatregel nemen, zijn verplicht de autoriteiten die om die maatregel hebben verzocht, hiervan in kennis te stellen.
 
@@ -221,20 +195,18 @@ Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst alleen van toep
 
 2. De Overeenkomst is geldig voor de duur van een jaar, te rekenen van de datum van inwerkingtreding. Zij wordt elk jaar stilzwijgend verlengd, tenzij de ene Overeenkomstsluitende Partij, zes maanden voor het verstrijken van de geldigheidsduur, deze Overeenkomst bij de andere Overeenkomstsluitende Partij schriftelijk opzegt.
 
-Voor de toepassing van bedoelde Overeenkomst zijn de Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Marokko als volgt overeengekomen:
-
 GEDAAN te Rabat op 5 april 1982 in twee originele exemplaren in de Arabische, de Franse en de Nederlandse taal, zijnde de drie teksten gelijkelijk authentiek. Bij geschillen is de Franse tekst evenwel doorslaggevend.
 
-**Voor de Regering van het**
+*Voor de Regering van het*
 
-**Koninkrijk der Nederlanden,**
+*Koninkrijk der Nederlanden,*
 
 (w.g.) M. W. H. BARON
 
 COLLOT D'ESCURY
 
-**Voor de Regering van het**
+*Voor de Regering van het*
 
-**Koninkrijk Marokko,**
+*Koninkrijk Marokko,*
 
 (w.g.) B. MANSOURI

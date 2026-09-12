@@ -1,291 +1,265 @@
 ---
 title: "Verdrag inzake het recht dat van toepassing is op het huwelijksvermogensregime"
 identifier: "BWBV0002007"
-country: "nl"
-rank: "verdrag"
-publication_date: "1992-09-01"
-last_updated: "1992-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002007"
+categorie: "Burgerlijk recht"
 soort: "verdrag"
-stam_id: "10002606693"
-version_id: "10002603862"
-internal_id: "C10006980601"
-label_id: "10002596174"
-dtd_version: "2.0"
-original_entry_into_force: "1992-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002007/1992-09-01/0"
-intitule_bron: "Trb.1988-130"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-06-25"
-intitule_published: "1988-10-20"
-intitule_in_force: "1992-08-14"
-intitule_status: "goed"
-original_publication: "Trb.1988-130"
-original_signed_date: "1992-06-25"
-original_published_date: "1988-10-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1988-130"
-entry_into_force_date: "1992-09-01"
-jci_1_3: "jci1.3:c:BWBV0002007&z=1992-09-01&g=1992-09-01"
-jci_1_0: "1.0:c:BWBV0002007&g=1992-09-01"
-citeertitel_status: "redactioneel"
-signed_date: "1992-06-25"
-entry_into_force: "1992-09-01"
+publicatiedatum: 1992-09-01
+laatste_update: 1992-09-01
+status: geldig
+toestand: 1992-09-01
+bron: "https://wetten.overheid.nl/BWBV0002007"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag inzake het recht dat van toepassing is op het huwelijksvermogensregime
 
-De Staten die dit Verdrag hebben ondertekend,
+*The States signatory to this Convention, Desiring to establish common provisions concerning the law applicable to matrimonial property regimes, Have resolved to conclude a Convention for this purpose and have agreed upon the following provisions -*
 
-Geleid door de wens gemeenschappelijke bepalingen vast te stellen betreffende het recht dat van toepassing is op het huwelijksvermogensregime,
+### CHAPTER I. SCOPE OF THE CONVENTION
 
-Hebben besloten hiertoe een Verdrag te sluiten en zijn overeengekomen als volgt:
+##### Article 1
 
-### HOOFDSTUK I. TOEPASSINGSGEBIED VAN HET VERDRAG
+This Convention determines the law applicable to matrimonial property regimes.
 
-##### Artikel 1
+The Convention does not apply to -
 
-Dit Verdrag bepaalt het recht dat van toepassing is op het huwelijksvermogensregime.
+- 1. maintenance obligations between spouses;
 
-Het is niet van toepassing:
+- 2. succession rights of a surviving spouse;
 
-- 1. op onderhoudsverplichtingen tussen echtgenoten;
+- 3. the capacity of the spouses.
 
-- 2. op erfrechtelijke aanspraken van de langstlevende echtgenoot;
+##### Article 2
 
-- 3. op de handelingsbekwaamheid van echtgenoten.
+The Convention applies even if the nationality or the habitual residence of the spouses or the law to be applied by virtue of the following Articles is not that of a Contracting State.
 
-##### Artikel 2
+### CHAPTER II. APPLICABLE LAW
 
-Het Verdrag is van toepassing zelfs indien de nationaliteit of de gewone verblijfplaats van de echtgenoten niet die is van een Verdragsluitende Staat, dan wel indien het recht dat op grond van de navolgende artikelen van toepassing is, niet het recht is van een Verdragsluitende Staat.
+##### Article 3
 
-### HOOFDSTUK II. TOEPASSELIJK RECHT
+The matrimonial property regime is governed by the internal law designated by the spouses before marriage.
 
-##### Artikel 3
+The spouses may designate only one of the following laws -
 
-Het huwelijksvermogensregime wordt beheerst door het interne recht dat de echtgenoten vóór het huwelijk hebben aangewezen.
+- 1. the law of any State of which either spouse is a national at the time of designation;
 
-De echtgenoten kunnen slechts een van de volgende rechtsstelsels aanwijzen:
+- 2. the law of the State in which either spouse has his habitual residence at the time of designation;
 
-- 1. het recht van een Staat waarvan een van de echtgenoten de nationaliteit bezit op het tijdstip van die aanwijzing;
+- 3. the law of the first State where one of the spouses establishes a new habitual residence after marriage.
 
-- 2. het recht van de Staat op welks grondgebied een van de echtgenoten zijn gewone verblijfplaats heeft op het tijdstip van die aanwijzing;
+The law thus designated applies to the whole of their property.
 
-- 3. het recht van de eerste Staat op welks grondgebied een van de echtgenoten na het huwelijk een nieuwe gewone verblijfplaats vestigt.
+Nonetheless, the spouses, whether or not they have designated a law under the previous paragraphs, may designate with respect to all or some of the immovables, the law of the place where these immovables are situated. They may also provide that any immovables which may subsequently be acquired shall be governed by the law of the place where such immovables are situated.
 
-Het aldus aangewezen recht is van toepassing op hun gehele vermogen.
+##### Article 4
 
-De echtgenoten kunnen echter, ongeacht of zij tot de in de voorgaande leden bedoelde aanwijzing zijn overgegaan, met betrekking tot het geheel of een gedeelte van de onroerende goederen het recht aanwijzen van de plaats waar die goederen zijn gelegen. Zij kunnen eveneens bepalen dat op onroerende goederen die later worden verkregen, het recht van de plaats waar die goederen zijn gelegen van toepassing zal zijn.
+If the spouses, before marriage, have not designated the applicable law, their matrimonial property regime is governed by the internal law of the State in which both spouses establish their first habitual residence after marriage.
 
-##### Artikel 4
+Nonetheless, in the following cases, the matrimonial property regime is governed by the internal law of the State of the common nationality of the spouses -
 
-Indien de echtgenoten vóór het huwelijk het toepasselijke recht niet hebben aangewezen, wordt hun huwelijksvermogensregime beheerst door het interne recht van de Staat op welks grondgebied zij hun eerste gewone verblijfplaats na het huwelijk vestigen.
+- 1. where the declaration provided for in Article 5 has been made by that State and its application to the spouses is not excluded by the provisions of the second paragraph of that Article;
 
-Het huwelijksvermogensregime van de echtgenoten wordt echter beheerst door het interne recht van de Staat van hun gemeenschappelijke nationaliteit:
+- 2. where that State is not a Party to the Convention and according to the rules of private international law of that State its internal law is applicable, and the spouses establish their first habitual residence after marriage -
 
-- 1. indien door die Staat de in artikel 5 bedoelde verklaring is afgelegd en de werking daarvan niet door het tweede lid van dat artikel is uitgesloten;
+   - a. in a State which has made the declaration provided for in Article 5, or
 
-- 2. indien die Staat niet partij is bij het Verdrag, terwijl volgens zijn internationaal privaatrecht zijn interne recht van toepassing is en de echtgenoten hun eerste gewone verblijfplaats na het huwelijk vestigen:
+   - b. in a State which is not a Party to the Convention and whose rules of private international law also provide for the application of the law of their nationality;
 
-- a. in een Staat die de in artikel 5 bedoelde verklaring heeft afgelegd, of
+- 3. where the spouses do not establish their first habitual residence after marriage in the same State.
 
-- b. in een Staat die geen partij is bij het Verdrag en waarvan het internationaal privaatrecht eveneens de toepassing van hun nationale recht voorschrijft;
+If the spouses do not have their habitual residence in the same State, nor have a common nationality, their matrimonial property regime is governed by the internal law of the State with which, taking all circumstances into account, it is most closely connected.
 
-- 3. indien de echtgenoten hun eerste gewone verblijfplaats na het huwelijk niet op het grondgebied van dezelfde Staat vestigen.
+##### Article 5
 
-Bij gebreke van een gewone verblijfplaats van de echtgenoten op het grondgebied van dezelfde Staat en bij gebreke van een gemeenschappelijke nationaliteit, wordt hun huwelijksvermogensregime beheerst door het interne recht van de Staat waarmee het, alle omstandigheden in aanmerking genomen, het nauwst is verbonden.
+Any State may, not later than the moment of ratification, acceptance, approval or accession, make a declaration requiring the application of its internal law according to sub-paragraph 1 of the second paragraph of Article 4.
 
-##### Artikel 5
+This declaration shall not apply to spouses who both retain their habitual residence in the State in which they have both had their habitual residence at the time of marriage for a period of not less than five years, unless that State is a Contracting State which has made the declaration provided for in the first paragraph of this Article, or is a State which is not a Party to the Convention and whose rules of private international law require the application of the national law.
 
-Elke Staat kan, uiterlijk op het tijdstip van bekrachtiging, aanvaarding, goedkeuring of toetreding, een verklaring afleggen ten einde, overeenkomstig artikel 4, tweede lid, onder 1, zijn interne recht van toepassing te doen zijn.
+##### Article 6
 
-Deze verklaring heeft geen gevolgen voor echtgenoten die beiden hun gewone verblijfplaats behouden op het grondgebied van de Staat waar zij beiden op het tijdstip van het huwelijk sedert ten minste vijf jaar hun gewone verblijfplaats hadden, tenzij die Staat een Verdragsluitende Staat is die de in het eerste lid van dit artikel bedoelde verklaring heeft afgelegd, of een Staat die geen partij is bij dit Verdrag en waarvan het internationaal privaatrecht de toepassing van het nationale recht voorschrijft.
+During marriage the spouses may subject their matrimonial property regime to an internal law other than that previously applicable.
 
-##### Artikel 6
+The spouses may designate only one of the following laws -
 
-Tijdens het huwelijk kunnen de echtgenoten hun huwelijksvermogensregime onderwerpen aan een ander intern recht dan het recht dat tot dusver van toepassing was.
+- 1. the law of any State of which either spouse is a national at the time of designation;
 
-De echtgenoten kunnen slechts een van de volgende rechtsstelsels aanwijzen:
+- 2. the law of the State in which either spouse has his habitual residence at the time of designation.
 
-- 1. het recht van een Staat waarvan een van de echtgenoten de nationaliteit bezit op het tijdstip van die aanwijzing;
+The law thus designated applies to the whole of their property.
 
-- 2. het recht van de Staat op welks grondgebied een van de echtgenoten zijn gewone verblijfplaats heeft op het tijdstip van die aanwijzing.
+Nonetheless, the spouses, whether or not they have designated a law under the previous paragraphs or under Article 3, may designate with respect to all or some of the immovables, the law of the place where these immovables are situated. They may also provide that any immovables which may subsequently be acquired shall be governed by the law of the place where such immovables are situated.
 
-Het aldus aangewezen recht is van toepassing op hun gehele vermogen.
+##### Article 7
 
-De echtgenoten kunnen echter, ongeacht of zij tot de in de voorgaande leden of in artikel 3 bedoelde aanwijzing zijn overgegaan, met betrekking tot het geheel of een gedeelte van de onroerende goederen het recht aanwijzen van de plaats waar die goederen zijn gelegen. Zij kunnen eveneens bepalen dat op onroerende goederen die later zullen worden verkregen, het recht van de plaats waar die goederen zijn gelegen, van toepassing zal zijn.
+The law applicable under the Convention continues to apply so long as the spouses have not designated a different applicable law and notwithstanding any change of their nationality or habitual residence.
 
-##### Artikel 7
+Nonetheless, if the spouses have neither designated the applicable law nor concluded a marriage contract, the internal law of the State in which they both have their habitual residence shall become applicable, in place of the law previously applicable -
 
-Het recht dat op grond van de bepalingen van het Verdrag van toepassing is, blijft van toepassing zolang de echtgenoten geen ander toepasselijk recht hebben aangewezen, zelfs in geval van wijziging van hun nationaliteit of gewone verblijfplaats.
+- 1. when that habitual residence is established in that State, if the nationality of that State is their common nationality, or otherwise from the moment they become nationals of that State, or
 
-Indien de echtgenoten echter noch het toepasselijke recht hebben aangewezen, noch huwelijkse voorwaarden hebben gemaakt, wordt in plaats van het recht waaraan hun huwelijksvermogensregime tevoren was onderworpen het interne recht van de Staat waar de echtgenoten beiden hun gewone verblijfplaats hebben, toepasselijk:
+- 2. when, after the marriage, that habitual residence has endured for a period of not less than ten years, or
 
-- 1. vanaf het tijdstip waarop zij daar hun gewone verblijfplaats vestigen, indien de nationaliteit van die Staat hun gemeenschappelijke nationaliteit is, dan wel vanaf het tijdstip waarop zij die nationaliteit verkrijgen, of
+- 3. when that habitual residence is established, in cases when the matrimonial property regime was subject to the law of the State of the common nationality solely by virtue of sub-paragraph 3 of the second paragraph of Article 4.
 
-- 2. wanneer zij na het huwelijk gedurende meer dan tien jaar daar hun gewone verblijfplaats hebben gehad;
+##### Article 8
 
-- 3. vanaf het tijdstip waarop zij daar hun gewone verblijfplaats vestigen, indien hun huwelijksvermogensregime, uitsluitend op grond van artikel 4, tweede lid, onder 3, was onderworpen aan het recht van de Staat van hun gemeenschappelijke nationaliteit.
+A change of applicable law pursuant to the second paragraph of Article 7 shall have effect only for the future, and property belonging to the spouses before the change is not subject to the new applicable law.
 
-##### Artikel 8
+Nonetheless, the spouses may at any time, employing the forms available under Article 13, subject the whole of their property to the new law, without prejudice, with respect to immovables, to the provisions of the fourth paragraph of Article 3 and the fourth paragraph of Article 6. The exercise of this option shall not adversely affect the rights of third parties.
 
-Een wijziging in het toepasselijke recht op grond van artikel 7, tweede lid, heeft slechts gevolg voor de toekomst, en het vermogen dat vóór die wijziging aan de echtgenoten toebehoorde, is niet onderworpen aan het voortaan toepasselijke recht.
+##### Article 9
 
-De echtgenoten kunnen echter te allen tijde, met inachtneming van de vormvoorschriften van artikel 13, het geheel van hun vermogen aan het nieuwe recht onderwerpen, zulks onverminderd, wat de onroerende goederen betreft, de bepalingen van artikel 3, vierde lid, en artikel 6, vierde lid. De uitoefening van deze bevoegdheid laat rechten van derden onverlet.
+The effects of the matrimonial property regime on the legal relations between a spouse and a third party are governed by the law applicable to the matrimonial property regime in accordance with the Convention.
 
-##### Artikel 9
+Nonetheless, the law of a Contracting State may provide that the law applicable to the matrimonial property regime may not be relied upon by a spouse against a third party where either that spouse or the third party has his habitual residence in its territory, unless -
 
-De gevolgen van het huwelijksvermogensregime ten aanzien van een rechtsbetrekking tussen een echtgenoot en een derde worden beheerst door het recht dat op grond van het Verdrag op het huwelijksvermogensregime van toepassing is.
+- 1. any requirements of publicity or registration specified by that law have been complied with, or
 
-Het recht van een Verdragsluitende Staat kan echter bepalen dat het recht dat van toepassing is op het huwelijksvermogensregime, niet door een echtgenoot aan een derde kan worden tegengeworpen wanneer die echtgenoot of de derde zijn gewone verblijfplaats op het grondgebied van de Staat heeft, tenzij:
+- 2. the legal relations between that spouse and the third party arose at a time when the third party either knew or should have known of the law applicable to the matrimonial property regime.
 
-- 1. is voldaan aan de door dat recht gestelde voorwaarden betreffende publikatie of inschrijving, of
+The law of a Contracting State where an immovable is situated may provide an analogous rule for the legal relations between a spouse and a third party as regards that immovable.
 
-- 2. de rechtsbetrekking tussen die echtgenoot en de derde is ontstaan op een tijdstip waarop de derde het op het huwelijksvermogensregime toepasselijke recht kende of behoorde te kennen.
+A Contracting State may specify by declaration the scope of the second and third paragraphs of this Article.
 
-Het recht van een Verdragsluitende Staat waar een onroerend goed is gelegen, kan een overeenkomstige regel bevatten inzake rechtsbetrekkingen tussen een echtgenoot en een derde ten aanzien van dat onroerende goed.
+##### Article 10
 
-Elke Verdragsluitende Staat kan het toepassingsgebied van het tweede en derde lid van dit artikel door middel van een verklaring nader aangeven.
+Any requirements relating to the consent of the spouses to the law designated as applicable shall be determined by that law.
 
-##### Artikel 10
+##### Article 11
 
-De voorwaarden voor de wilsovereenstemming van de echtgenoten inzake het recht dat zij als toepasselijk aanwijzen, worden door dat recht bepaald.
+The designation of the applicable law shall be by express stipulation, or arise by necessary implication from the provisions of a marriage contract.
 
-##### Artikel 11
+##### Article 12
 
-De aanwijzing van het toepasselijke recht moet uitdrukkelijk zijn overeengekomen of ondubbelzinnig voortvloeien uit huwelijkse voorwaarden.
+The marriage contract is valid as to form if it complies either with the internal law applicable to the matrimonial property regime, or with the internal law of the place where it was made. In any event, the marriage contract shall be in writing, dated and signed by both spouses.
 
-##### Artikel 12
+##### Article 13
 
-Huwelijkse voorwaarden zijn, wat de vorm betreft, geldig indien zij in overeenstemming zijn hetzij met het interne recht dat van toepassing is op het huwelijksvermogensregime, hetzij met het interne recht van de plaats waar zij werden aangegaan. Zij dienen in elk geval te worden neergelegd in een gedagtekend en door beide echtgenoten ondertekend schriftelijk stuk.
+The designation of the applicable law by express stipulation shall comply with the form prescribed for marriage contracts, either by the internal law designated by the spouses, or by the internal law of the place where it is made. In any event, the designation shall be in writing, dated and signed by both spouses.
 
-##### Artikel 13
+##### Article 14
 
-Een uitdrukkelijk overeengekomen aanwijzing van het toepasselijke recht dient te geschieden in de vorm welke voor huwelijkse voorwaarden is voorgeschreven, hetzij door het aangewezen interne recht, hetzij door het interne recht van de plaats waar die aanwijzing geschiedt. De aanwijzing dient in elk geval te worden neergelegd in een gedagtekend en door beide echtgenoten ondertekend schriftelijk stuk.
+The application of the law determined by the Convention may be refused only if it is manifestly incompatible with public policy ('ordre public').
 
-##### Artikel 14
+### CHAPTER III. MISCELLANEOUS PROVISIONS
 
-Toepassing van het door het Verdrag aangewezen recht kan slechts achterwege blijven indien zij kennelijk in strijd is met de openbare orde.
+##### Article 15
 
-### HOOFDSTUK III. DIVERSE BEPALINGEN
+For the purposes of the Convention, a nationality shall be considered the common nationality of the spouses only in the following circumstances -
 
-##### Artikel 15
+- 1. where both spouses had that nationality before marriage;
 
-Voor de toepassing van dit Verdrag wordt een nationaliteit slechts als gemeenschappelijke nationaliteit van de echtgenoten beschouwd:
+- 2. where one spouse voluntarily has acquired the nationality of the other at the time of marriage or later, either by a declaration to that effect or by not exercising a right known to him or her to decline the acquisition of the new nationality;
 
-- 1. wanneer de beide echtgenoten die nationaliteit vóór het sluiten van het huwelijk bezaten;
+- 3. where both spouses voluntarily have acquired that nationality after marriage.
 
-- 2. wanneer een echtgenoot op het tijdstip van het huwelijk, of later, vrijwillig de nationaliteit van de ander heeft verkregen, hetzij door een daartoe strekkende verklaring, hetzij door niet af te zien van deze verkrijging, terwijl hij wist het recht daartoe te hebben;
+Except in the cases referred to in sub-paragraph 1 of the second paragraph of Article 7, the provisions referring to the common nationality of the spouses are not applicable where the spouses have more than one common nationality.
 
-- 3. wanneer de beide echtgenoten die nationaliteit na het huwelijk vrijwillig hebben verkregen.
+##### Article 16
 
-Behalve in de gevallen, bedoeld in artikel 7, tweede lid, onder 1, zijn de bepalingen betreffende de gemeenschappelijke nationaliteit niet van toepassing wanneer de echtgenoten meer dan één gemeenschappelijke nationaliteit bezitten.
+For the purposes of the Convention, where a State has two or more territorial units in which different systems of law apply to matrimonial property regimes, any reference to the national law of such a State shall be construed as referring to the system determined by the rules in force in that State.
 
-##### Artikel 16
+In the absence of such rules, a reference to the State of which a spouse is a national shall be construed, for the purposes of sub-paragraph 1 of the second paragraph of Article 3 and sub-paragraph 1 of the second paragraph of Article 6, as referring to the territorial unit where that spouse had his or her last habitual residence; and, for the purposes of the second paragraph of Article 4, a reference to the State of the common nationality of the spouses shall be construed as referring to the last territorial unit, if any, where each has had a habitual residence.
 
-Wanneer een Staat twee of meer gebiedsdelen omvat waarin verschillende rechtsstelsels op het huwelijksvermogensregime toepasselijk zijn, wordt voor de toepassing van dit Verdrag iedere verwijzing naar het nationale recht van een dergelijke Staat opgevat als een verwijzing naar het stelsel dat door de in die Staat van kracht zijnde regels wordt aangewezen.
+##### Article 17
 
-Bij gebreke van zodanige regels verstaat men onder de Staat waarvan een echtgenoot de nationaliteit bezit in de zin van artikel 3, tweede lid, onder 1, en artikel 6, tweede lid, onder 1, het gebiedsdeel waar die echtgenoot het laatst zijn gewone verblijfplaats had; evenzo verstaat men voor de toepassing van artikel 4, tweede lid, onder de Staat van de gemeenschappelijke nationaliteit van de echtgenoten het gebiedsdeel waar beiden het laatst een gewone verblijfplaats hadden.
+For the purposes of the Convention, where a State has two or more territorial units in which different systems of law apply to matrimonial property regimes, any reference to habitual residence in that State shall be construed as referring to habitual residence in a territorial unit of that State.
 
-##### Artikel 17
+##### Article 18
 
-Wanneer een Staat twee of meer gebiedsdelen omvat waar in verschillende rechtsstelsels op het huwelijksvermogensregime toepasselijk zijn, wordt voor de toepassing van dit Verdrag iedere verwijzing naar de gewone verblijfplaats in een dergelijke Staat uitgelegd als een verwijzing naar de gewone verblijfplaats in een gebiedsdeel van die Staat.
+A Contracting State which has two or more territorial units in which different systems of law apply to matrimonial property regimes shall not be bound to apply the rules of the Convention to conflicts between the laws of such units where the law of no other State is applicable by virtue of the Convention.
 
-##### Artikel 18
+##### Article 19
 
-Een Verdragsluitende Staat die twee of meer gebiedsdelen omvat waarin verschillende rechtsstelsels op het huwelijksvermogensregime toepasselijk zijn, is niet verplicht de regels van dit Verdrag toe te passen op wetsconflicten tussen die gebiedsdelen wanneer op grond van het Verdrag het recht van geen enkele andere Staat van toepassing is.
+For the purposes of the Convention, where a State has two or more legal systems applicable to the matrimonial property regimes of different categories of persons, any reference to the law of such State shall be construed as referring to the system determined by the rules in force in that State.
 
-##### Artikel 19
+In the absence of such rules, the internal law of the State of the common nationality of the spouses applies under the circumstances referred to in the first paragraph of Article 4, and the internal law of the State where each has had a habitual residence continues to apply under the circumstances referred to in sub-paragraph 2 of the second paragraph of Article 7. In the absence of a common nationality of the spouses, the third paragraph of Article 4 applies.
 
-Wanneer een Staat ter zake van het huwelijksvermogensregime twee of meer rechtsstelsels kent, die toepasselijk zijn op twee of meer verschillende categorieën personen, wordt voor de toepassing van dit Verdrag iedere verwijzing naar het recht van een dergelijke Staat uitgelegd als een verwijzing naar het stelsel dat door de in die Staat geldende regels wordt aangewezen.
+##### Article 20
 
-Bij gebreke van zodanige regels is in het geval, bedoeld in artikel 4, eerste lid, het interne recht van de Staat van de gemeenschappelijke nationaliteit van de echtgenoten van toepassing, en blijft in het geval, bedoeld in artikel 7, tweede lid, onder 2, het interne recht van de Staat waar zij beiden hun gewone verblijfplaats hadden, van toepassing. Bij gebreke van een gemeenschappelijke nationaliteit van de echtgenoten is artikel 4, derde lid, van toepassing.
+The Convention shall not affect any other international instrument containing provisions on matters governed by this Convention to which a Contracting State is, or becomes, a Party.
 
-##### Artikel 20
+##### Article 21
 
-Het Verdrag laat onverlet de toepassing van internationale instrumenten waarbij een Verdragsluitende Staat partij is of wordt, en welke bepalingen bevatten omtrent de bij dit Verdrag geregelde onderwerpen.
+The Convention applies, in each Contracting State, only to spouses who have married or who designate the law applicable to their matrimonial property regime after the Convention enters into force for that State.
 
-##### Artikel 21
+A Contracting State may by declaration extend the application of the Convention to other spouses.
 
-Het Verdrag is in elke Verdragsluitende Staat slechts van toepassing op echtgenoten die na de inwerkingtreding van het Verdrag voor die Staat in het huwelijk zijn getreden dan wel het op hun huwelijksvermogensregime toepasselijke recht aanwijzen.
+### CHAPTER IV. FINAL CLAUSES
 
-Elke Verdragsluitende Staat kan door middel van een verklaring de toepasselijkheid van het Verdrag uitbreiden tot andere echtgenoten.
+##### Article 22
 
-### HOOFDSTUK IV. SLOTBEPALINGEN
+The Convention is open for signature by the States whicn were Members of the Hague Conference on Private International Law at the time of its Thirteenth Session.
 
-##### Artikel 22
+It shall be ratified, accepted or approved and the instruments of ratification, acceptance or approval shall be deposited with the Ministry of Foreign Affairs of the Kingdom of the Netherlands.
 
-Het Verdrag staat open voor ondertekening door de Staten die lid waren van de Haagse Conferentie voor internationaal Privaatrecht ten tijde van haar Dertiende Zitting.
+##### Article 23
 
-Het dient te worden bekrachtigd, aanvaard of goedgekeurd en de akten van bekrachtiging, aanvaarding of goedkeuring dienen te worden nedergelegd bij het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden.
+Any other State may accede to the Convention.
 
-##### Artikel 23
+The instrument of accession shall be deposited with the Ministry of Foreign Affairs of the Kingdom of the Netherlands.
 
-Elke andere Staat kan tot het Verdrag toetreden.
+##### Article 24
 
-De akte van toetreding dient te worden nedergelegd bij het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden.
+Any State may, at the time of signature, ratification, acceptance, approval or accession, declare that the Convention shall extend to all the territories for the international relations of which it is responsible, or to one or more of them. Such a declaration shall take effect at the time the Convention enters intor force for that State.
 
-##### Artikel 24
+Such declaration, as well as any subsequent extension, shall be notified to the Ministry of Foreign Affairs of the Kingdom of the Netherlands.
 
-Elke Staat kan, op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding, verklaren dat het Verdrag zich uitstrekt tot alle gebieden voor welker internationale betrekkingen hij verantwoordelijk is of tot een of meer van deze gebieden. Deze verklaring wordt van kracht op het tijdstip waarop het Verdrag voor die Staat in werking treedt.
+##### Article 25
 
-Deze verklaring, evenals iedere latere uitbreiding, wordt ter kennis gebracht van het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden.
+A Contracting State which has two or more territorial units in which different systems of law apply to matrimonial property regimes may, at the time of signature, ratification, acceptance, approval or accession, declare that the Convention shall apply to all its territorial units or only to one or more of them, and may extend its declaration at any time thereafter.
 
-##### Artikel 25
+These declarations shall be notified to the Ministry of Foreign Affairs of the Kingdom of the Netherlands, and shall state expressly the territorial unit to which the Convention applies.
 
-Een Verdragsluitende Staat die twee of meer gebiedsdelen omvat waarin verschillende rechtsstelsels op het huwelijksvermogensregime toepasselijk zijn, kan op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat het Verdrag van toepassing is op al deze gebiedsdelen of slechts op een of meer daarvan, en kan deze verklaring op ieder later tijdstip tot andere gebiedsdelen uitbreiden.
+##### Article 26
 
-Deze verklaringen worden ter kennis gebracht van het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden en geven uitdrukkelijk het gebiedsdeel aan waarop het Verdrag van toepassing is.
+A Contracting State having at the date of the entry into force of the Convention for that State a complex system of national allegiance may specify from time to time by declaration how a reference to its national law shall be construed for the purposes of the Convention.
 
-##### Artikel 26
+##### Article 27
 
-Een Verdragsluitende Staat die op de datum van inwerkingtreding van het Verdrag voor die Staat een systeem kent van verschillende gradaties van onderdaanschap van de tot die Staat behorende personen, kan op elk tijdstip door middel van een verklaring aangeven hoe een verwijzing naar zijn nationale wet voor de toepassing van het Verdrag moet worden uitgelegd.
+No reservation to the Convention shall be permitted.
 
-##### Artikel 27
+##### Article 28
 
-Voorbehouden op het Verdrag zijn niet toegestaan.
+Any Contracting State desiring to make one of the declarations envisaged by Article 5, the fourth paragraph of Article 9, Article 21 or Article 26 shall notify such declaration to the Ministry of Foreign Affairs of the Kingdom of the Netherlands.
 
-##### Artikel 28
+Notice shall be given in the same manner of any modification or withdrawal of such a declaration.
 
-Elke Verdragsluitende Staat die een van de in de artikelen 5, 9, vierde lid, 21 en 26 bedoelde verklaringen wenst af te leggen, brengt deze ter kennis van het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden.
+##### Article 29
 
-Iedere wijziging of intrekking van een verklaring wordt op dezelfde wijze ter kennis gebracht.
+The Convention shall enter into force on the first day of the third calendar month after the deposit of the third instrument of ratification, acceptance, approval or accession referred to in Articles 22 and 23.
 
-##### Artikel 29
+Thereafter the Convention shall enter into force
 
-Het Verdrag treedt in werking op de eerste dag van de derde kalendermaand na de nederlegging van de derde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, als bedoeld in de artikelen 22 en 23.
+- 1. for each State ratifying, accepting, approving or acceding to it subsequently, on the first day of the third calendar month after the deposit of its instrument of ratification, acceptance, approval or accession;
 
-Vervolgens treedt het Verdrag in werking:
+- 2. for a territory to which the Convention has been extended in conformity with Article 24, on the first day of the third calendar month after the notification referred to in that Article.
 
-- 1. voor elke Staat die het daarna bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt, op de eerste dag van de derde kalendermaand na de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
+##### Article 30
 
-- 2. voor de gebieden waartoe het Verdrag zich overeenkomstig artikel 24 uitstrekt, op de eerste dag van de derde kalendermaand na de kennisgeving, in dat artikel bedoeld.
+The Convention shall remain in force for five years from the date of its entry into force in accordance with the first paragraph of Article 29, even for States which subsequently have ratified, accepted, approved it or acceded to it.
 
-##### Artikel 30
+If there has been no denunciation, it shall be renewed tacitly every five years.
 
-Het Verdrag blijft van kracht gedurende vijf jaar vanaf de datum van zijn inwerkingtreding overeenkomstig artikel 29, eerste lid, ook voor de Staten die het daarna hebben bekrachtigd, aanvaard of goedgekeurd, of ertoe zijn toegetreden.
+Any denunciation shall be notified to the Ministry of Foreign Affairs of the Kingdom of the Netherlands, at least six months before the expiry of the five year period. It may be limited to certain of the territories or territorial units to which the Convention applies.
 
-Behoudens opzegging wordt het Verdrag telkens voor een tijdvak van vijf jaar stilzwijgend verlengd.
+The denunciation shall have effect only as regards the State which has notified it. The Convention shall remain in force for the other Contracting States.
 
-De opzegging wordt, uiterlijk zes maanden voor het verstrijken van het tijdvak van vijf jaar, ter kennis gebracht van het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden. Zij kan worden beperkt tot bepaalde gebieden of gebiedsdelen waarop het Verdrag van toepassing is.
+##### Article 31
 
-De opzegging geldt slechts ten aanzien van de Staat die haar heeft gedaan. Voor de andere Verdragsluitende Staten blijft het Verdrag van kracht.
+The Ministry of Foreign Affairs of the Kingdom of the Netherlands shall notify the States Members of the Conference, and the States which have acceded in accordance with Article 23, of the following -
 
-##### Artikel 31
+- 1. the signatures and ratifications, acceptances and approvals referred to in Article 22;
 
-Het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden stelt de Lid-Staten van de Conferentie, alsmede de Staten die overeenkomstig de bepalingen van artikel 23 zijn toegetreden, in kennis van:
+- 2. the accessions referred to in Article 23;
 
-- 1. de ondertekeningen, bekrachtigingen, aanvaardingen en goedkeuringen, bedoeld in artikel 22;
+- 3. the date on which the Convention enters into force in accordance with Article 29;
 
-- 2. de toetredingen, bedoeld in artikel 23;
+- 4. the extensions referred to in Article 24;
 
-- 3. de datum waarop het Verdrag in werking treedt overeenkomstig de bepalingen van artikel 29;
+- 5. the denunciations referred to in Article 30;
 
-- 4. de uitbreidingen, bedoeld in artikel 24;
-
-- 5. de opzeggingen, bedoeld in artikel 30;
-
-- 6. de verklaringen, vermeld in de artikelen 25, 26 en 28.
+- 6. the declarations referred to in Articles 25, 26 and 28.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Convention.
 

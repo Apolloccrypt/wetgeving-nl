@@ -8,7 +8,7 @@ laatste_update: 2026-01-31
 status: geldig
 toestand: 2026-01-31
 bron: "https://wetten.overheid.nl/BWBR0039095"
-opgehaald: 2026-09-11
+opgehaald: 2026-09-12
 ---
 
 # Kavelbesluit I windenergiegebied Hollandse Kust (zuid)

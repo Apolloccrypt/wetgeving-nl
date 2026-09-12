@@ -1,47 +1,19 @@
 ---
 title: "Overeenkomst inzake het onderhoud van de Anselderbeek, Crombacherbeek en Bleijerheidebeek en van de daartoe behorende kunstwerken in het Nederlands-Duitse grensgebied"
 identifier: "BWBV0002496"
-country: "nl"
-rank: "verdrag"
-publication_date: "1992-05-01"
-last_updated: "1992-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002496"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10002907703"
-version_id: "10002908062"
-internal_id: "C10006976731"
-label_id: "10002894904"
-dtd_version: "2.0"
-original_entry_into_force: "1992-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002496/1992-05-01/0"
-intitule_bron: "Trb.1991-66"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-04-01"
-intitule_published: "1991-05-01"
-intitule_in_force: "1997-09-11"
-intitule_status: "goed"
-original_publication: "Trb.1991-66"
-original_signed_date: "1992-04-01"
-original_published_date: "1991-05-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1991-66"
-entry_into_force_date: "1992-05-01"
-jci_1_3: "jci1.3:c:BWBV0002496&z=1992-05-01&g=1992-05-01"
-jci_1_0: "1.0:c:BWBV0002496&g=1992-05-01"
-citeertitel_status: "officieel"
-signed_date: "1992-04-01"
-entry_into_force: "1992-05-01"
+publicatiedatum: 1992-05-01
+laatste_update: 1992-05-01
+status: geldig
+toestand: 1992-05-01
+bron: "https://wetten.overheid.nl/BWBV0002496"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst inzake het onderhoud van de Anselderbeek, Crombacherbeek en Bleijerheidebeek en van de daartoe behorende kunstwerken in het Nederlands-Duitse grensgebied
 
-Het Waterschap Obere Wurm, gevestigd te Aken, vertegenwoordigd door de voorzitter Dr. Berger en
-
-het Waterschap Roer en Overmaas, gevestigd te Sittard, vertegenwoordigd door de voorzitter Drs. Laarakker,
-
-verder partijen genoemd,
-
-sluiten, gelet op Hoofdstuk 4, artikel 59, lid 2 van het op 8 april 1960 tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland gesloten grensverdrag, de volgende overeenkomst:
+*Het Waterschap Obere Wurm, gevestigd te Aken, vertegenwoordigd door de voorzitter Dr. Berger en het Waterschap Roer en Overmaas, gevestigd te Sittard, vertegenwoordigd door de voorzitter Drs. Laarakker, verder partijen genoemd, sluiten, gelet op Hoofdstuk 4, artikel 59, lid 2 van het op 8 april 1960 tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland gesloten grensverdrag, de volgende overeenkomst:*
 
 ##### Artikel 1
 
@@ -121,7 +93,7 @@ Deze overeenkomst behoeft de goedkeuring van de regeringen van het Koninkrijk de
 
 OPGEMAAKT te 25.09.90 Sittard in vier originele exemplaren, ieder in de Nederlandse en Duitse taal, waarbij beide teksten gelijkelijk bindend zijn.
 
-**Voor het Waterschap Roer en Overmaas**
+*Voor het Waterschap Roer en Overmaas*
 
 (w.g.) LAARAKKER
 
@@ -129,7 +101,7 @@ OPGEMAAKT te 25.09.90 Sittard in vier originele exemplaren, ieder in de Nederlan
 
 Voorzitter
 
-**Voor het Waterschap Obere Wurm**
+*Voor het Waterschap Obere Wurm*
 
 (w.g.). Dr. BERGER
 

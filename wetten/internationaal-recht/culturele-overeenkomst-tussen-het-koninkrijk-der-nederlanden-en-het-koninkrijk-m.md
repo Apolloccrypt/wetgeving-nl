@@ -1,45 +1,19 @@
 ---
 title: "Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko"
 identifier: "BWBV0002369"
-country: "nl"
-rank: "verdrag"
-publication_date: "1987-05-01"
-last_updated: "1987-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002369"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002848193"
-version_id: "10002847992"
-internal_id: "C10006978431"
-label_id: "10002835664"
-dtd_version: "2.0"
-original_entry_into_force: "1987-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002369/1987-05-01/0"
-intitule_bron: "Trb.1983-43"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1983-02-24"
-intitule_published: "1983-03-08"
-intitule_in_force: "1987-04-10"
-intitule_status: "goed"
-original_publication: "Trb.1983-43"
-original_signed_date: "1983-02-24"
-original_published_date: "1983-03-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1983-43"
-entry_into_force_date: "1987-05-01"
-jci_1_3: "jci1.3:c:BWBV0002369&z=1987-05-01&g=1987-05-01"
-jci_1_0: "1.0:c:BWBV0002369&g=1987-05-01"
-citeertitel_status: "officieel"
-signed_date: "1983-02-24"
-entry_into_force: "1987-05-01"
+publicatiedatum: 1987-05-01
+laatste_update: 1987-05-01
+status: geldig
+toestand: 1987-05-01
+bron: "https://wetten.overheid.nl/BWBV0002369"
+opgehaald: 2026-09-12
 ---
+
 # Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Marokko,
-
-Geleid door de wens de vriendschapsbanden tussen hun beide landen nauwer aan te halen en de samenwerking op het gebied van onderwijs, wetenschappen en cultuur in de ruimste zin van het woord te versterken,
-
-Zijn overeengekomen als volgt:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Marokko, Geleid door de wens de vriendschapsbanden tussen hun beide landen nauwer aan te halen en de samenwerking op het gebied van onderwijs, wetenschappen en cultuur in de ruimste zin van het woord te versterken, Zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 
@@ -113,10 +87,10 @@ Deze Overeenkomst wordt gesloten voor een duur van vijf jaar. Behoudens opzeggin
 
 GEDAAN in tweevoud in de Nederlandse, de Arabische en de Franse taal, te 's-Gravenhage, 24 februari 1983, zijnde de Franse tekst doorslaggevend in geval van afwijkingen.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 (w.g.) H. VAN DEN BROEK
 
-**Voor de Regering van het Koninkrijk Marokko,**
+*Voor de Regering van het Koninkrijk Marokko,*
 
 (w.g.) A. LARAKI

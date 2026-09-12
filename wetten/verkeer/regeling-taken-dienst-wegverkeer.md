@@ -8,7 +8,7 @@ laatste_update: 2026-01-01
 status: geldig
 toestand: 2026-01-01
 bron: "https://wetten.overheid.nl/BWBR0008144"
-opgehaald: 2026-09-11
+opgehaald: 2026-09-12
 ---
 
 # Regeling taken Dienst Wegverkeer

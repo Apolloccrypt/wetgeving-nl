@@ -1,140 +1,19 @@
 ---
 title: "Overeenkomst inzake zeevervoer tussen de Europese Gemeenschap en haar lidstaten enerzijds en de Regering van de Volksrepubliek China anderzijds"
 identifier: "BWBV0001596"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-03-01"
-last_updated: "2008-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001596"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000055413"
-version_id: "10000055642"
-internal_id: "C10006992781"
-label_id: "10000055614"
-original_entry_into_force: "2008-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001596/2008-03-01/0"
-intitule_bron: "Trb.2003-6 HERDRUK"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-07-11"
-intitule_published: "2003-01-10"
-intitule_in_force: "2009-06-19"
-intitule_status: "goed"
-original_publication: "Trb.2003-6 HERDRUK"
-original_signed_date: "2003-07-11"
-original_published_date: "2003-01-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2003-6 HERDRUK"
-entry_into_force_date: "2008-03-01"
-jci_1_3: "jci1.3:c:BWBV0001596&z=2008-03-01&g=2008-03-01"
-jci_1_0: "1.0:c:BWBV0001596&g=2008-03-01"
-citeertitel_status: "officieel"
-signed_date: "2003-07-11"
-entry_into_force: "2008-03-01"
+publicatiedatum: 2008-03-01
+laatste_update: 2008-03-01
+status: geldig
+toestand: 2008-03-01
+bron: "https://wetten.overheid.nl/BWBV0001596"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst inzake zeevervoer tussen de Europese Gemeenschap en haar lidstaten enerzijds en de Regering van de Volksrepubliek China anderzijds
 
-Het Koninkrijk België,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-Ierland,
-
-de Italiaanse Republiek,
-
-het Groothertogdom Luxemburg,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Portugese Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-partijen bij het Verdrag tot oprichting van de Europese Gemeenschap
-
-hierna „lidstaten" te noemen,
-
-de Europese Gemeenschap,
-
-hierna „de Gemeenschap" te noemen,
-
-enerzijds, en
-
-de Regering van de Volksrepubliek China
-
-hierna „China" genoemd,
-
-anderzijds,
-
-Indachtig de overeenkomst inzake commerciële en economische samenwerking tussen de Europese Economische Gemeenschap en de Volksrepubliek China van mei 1985;
-
-Indachtig het belang van de bestaande zeevaartbetrekkingen tussen de Gemeenschap en haar lidstaten en China;
-
-Van mening dat samenwerking op het gebied van de internationale zeevaart tussen de partijen gunstig zal zijn voor de ontwikkeling van de handelsbetrekkingen en de economische betrekkingen tussen de Volksrepubliek China en de Gemeenschap en haar lidstaten;
-
-Verlangende de betrekkingen op het gebied van het internationale zeevervoer verder te versterken en te consolideren op basis van gelijkwaardigheid en wederzijds voordeel;
-
-Het belang van zeevervoersdiensten erkennend en verlangend zelfs verder multimodaal vervoer waarvan een traject over zee deel uitmaakt, te bevorderen om de efficiëntie van de vervoersketen te vergroten;
-
-Het belang erkennend van verdere ontwikkeling van een f.exibele marktgerichte benadering en de voordelen voor exploitanten van beide partijen die zijn verbonden aan het controleren en exploiteren van hun eigen internationale vrachtvervoersdiensten in het kader van een efficiënt internationaal zeevervoersysteem;
-
-Indachtig de bestaande bilaterale maritieme overeenkomsten tussen de lidstaten en China;
-
-De multilaterale onderhandelingen over zeevervoersdiensten in het kader van de Wereldhandelsorganisatie steunend;
-
-Hebben besloten deze overeenkomst te sluiten en hebben te dien einde als hun gevolmachtigden aangewezen:
-
-het Koninkrijk België,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-Ierland,
-
-de Italiaanse Republiek,
-
-het Groothertogdom Luxemburg,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Portugese Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-de Europese Gemeenschap,
-
-de Regering van de Volksrepubliek China,
-
-Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten,
-
-Als volgt zijn overeengekomen:
+*Het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, partijen bij het Verdrag tot oprichting van de Europese Gemeenschap hierna „lidstaten" te noemen, de Europese Gemeenschap, hierna „de Gemeenschap" te noemen, enerzijds, en de Regering van de Volksrepubliek China hierna „China" genoemd, anderzijds, Indachtig de overeenkomst inzake commerciële en economische samenwerking tussen de Europese Economische Gemeenschap en de Volksrepubliek China van mei 1985; Indachtig het belang van de bestaande zeevaartbetrekkingen tussen de Gemeenschap en haar lidstaten en China; Van mening dat samenwerking op het gebied van de internationale zeevaart tussen de partijen gunstig zal zijn voor de ontwikkeling van de handelsbetrekkingen en de economische betrekkingen tussen de Volksrepubliek China en de Gemeenschap en haar lidstaten; Verlangende de betrekkingen op het gebied van het internationale zeevervoer verder te versterken en te consolideren op basis van gelijkwaardigheid en wederzijds voordeel; Het belang van zeevervoersdiensten erkennend en verlangend zelfs verder multimodaal vervoer waarvan een traject over zee deel uitmaakt, te bevorderen om de efficiëntie van de vervoersketen te vergroten; Het belang erkennend van verdere ontwikkeling van een f.exibele marktgerichte benadering en de voordelen voor exploitanten van beide partijen die zijn verbonden aan het controleren en exploiteren van hun eigen internationale vrachtvervoersdiensten in het kader van een efficiënt internationaal zeevervoersysteem; Indachtig de bestaande bilaterale maritieme overeenkomsten tussen de lidstaten en China; De multilaterale onderhandelingen over zeevervoersdiensten in het kader van de Wereldhandelsorganisatie steunend; Hebben besloten deze overeenkomst te sluiten en hebben te dien einde als hun gevolmachtigden aangewezen: het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de Europese Gemeenschap, de Regering van de Volksrepubliek China, Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, Als volgt zijn overeengekomen:*
 
 ##### Artikel 1. Doel
 
@@ -162,19 +41,19 @@ In deze overeenkomst wordt verstaan onder:
 
 - c. „Scheepsagentdiensten”: activiteiten waarbij de zakelijke belangen van een of meer scheepvaartlijnen of scheepvaartmaatschappijen in een bepaald geografisch gebied door een agent worden behartigd voor de volgende doeleinden:
 
-- –. marketing en verkoop van zeevervoer- en bijbehorende diensten, van prijsopgave tot facturering en het afgeven van vrachtbrieven namens de maatschappijen, het contracteren van de nodige bijbehorende diensten, het opstellen van documenten en het verschaffen van bedrijfsinformatie;
+   - – marketing en verkoop van zeevervoer- en bijbehorende diensten, van prijsopgave tot facturering en het afgeven van vrachtbrieven namens de maatschappijen, het contracteren van de nodige bijbehorende diensten, het opstellen van documenten en het verschaffen van bedrijfsinformatie;
 
-- –. optreden namens de maatschappijen om indien nodig het aanlopen van het schip te regelen of vracht over te nemen;
+   - – optreden namens de maatschappijen om indien nodig het aanlopen van het schip te regelen of vracht over te nemen;
 
 - d. „Expediteursdiensten”: de activiteit waarbij verzendingsactiviteiten namens verzenders worden georganiseerd en gevolgd door het contracteren van de bijbehorende diensten, het opstellen van documentatie en het verschaffen van bedrijfsinformatie;
 
 - e. „Scheepvaartmaatschappij”: een maatschappij die aan de volgende voorwaarden voldoet: De bepalingen van deze overeenkomst zijn ook van toepassing op buiten de Gemeenschap of China gevestigde scheepvaartmaatschappijen die worden gecontroleerd door onderdanen van een lidstaat van de Gemeenschap dan wel van China, wanneer hun schepen in die lidstaat of China volgens het aldaar toepasselijke recht zijn geregistreerd;
 
-- i. zij is opgericht in overeenstemming met het publieke recht of het privaatrecht van China of de Gemeenschap dan wel een lidstaat van de Gemeenschap;
+   - i. zij is opgericht in overeenstemming met het publieke recht of het privaatrecht van China of de Gemeenschap dan wel een lidstaat van de Gemeenschap;
 
-- ii. zij is gevestigd of heeft haar hoofdkantoor of hoofdvestiging in China of de Gemeenschap;
+   - ii. zij is gevestigd of heeft haar hoofdkantoor of hoofdvestiging in China of de Gemeenschap;
 
-- iii. zij verricht internationale zeevervoersdiensten met haar eigen of door haar geëxploiteerde schepen.
+   - iii. zij verricht internationale zeevervoersdiensten met haar eigen of door haar geëxploiteerde schepen.
 
 - f. „Dochtermaatschappij”: een maatschappij die eigendom is van een scheepvaartmaatschappij en rechtspersoonlijkheid heeft;
 

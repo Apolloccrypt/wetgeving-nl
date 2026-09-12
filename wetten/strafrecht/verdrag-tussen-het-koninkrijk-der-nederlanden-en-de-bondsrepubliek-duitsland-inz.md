@@ -1,81 +1,21 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de grensoverschrijdende politiële samenwerking en de samenwerking in strafrechtelijke aangelegenheden"
 identifier: "BWBV0001813"
-country: "nl"
-rank: "verdrag"
-publication_date: "2006-09-01"
-last_updated: "2005-03-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001813"
+categorie: "Strafrecht"
 soort: "verdrag"
-stam_id: "10002526173"
-version_id: "10002513632"
-internal_id: "C10006995531"
-label_id: "10002516074"
-dtd_version: "2.0"
-original_entry_into_force: "2006-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001813/2006-09-01/0"
-intitule_bron: "Trb.2005-86"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-07-13"
-intitule_published: "2005-04-18"
-intitule_in_force: "2006-08-11"
-intitule_status: "goed"
-original_publication: "Trb.2005-86"
-original_signed_date: "2006-07-13"
-original_published_date: "2005-04-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2005-86"
-entry_into_force_date: "2006-09-01"
-jci_1_3: "jci1.3:c:BWBV0001813&z=2006-09-01&g=2006-09-01"
-jci_1_0: "1.0:c:BWBV0001813&g=2006-09-01"
-citeertitel_status: "redactioneel"
-signed_date: "2006-07-13"
-entry_into_force: "2006-09-01"
+publicatiedatum: 2006-09-01
+laatste_update: 2006-09-01
+status: geldig
+toestand: 2006-09-01
+bron: "https://wetten.overheid.nl/BWBV0001813"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de grensoverschrijdende politiële samenwerking en de samenwerking in strafrechtelijke aangelegenheden
 
-Het Koninkrijk der Nederlanden
+*Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland hierna te noemen: „de Verdragsluitende Staten" In het streven de internationale criminaliteit alsmede grensoverschrijdende gevaren door samenwerking als partners effectiever het hoofd te bieden, In het streven de samenwerking tussen de Verdragsluitende Staten te bevorderen en vastbesloten de mogelijkheden van een grensoverschrijdend optreden ter handhaving van de openbare orde en veiligheid en de mogelijkheden tot strafrechtelijke samenwerking te verruimen, Overwegende dat het wenselijk is de uitwisseling van informatie tussen de Verdragsluitende Staten te intensiveren alsmede de samenwerking bij de inzet van middelen ter handhaving van de openbare orde en veiligheid alsmede in het kader van de voorkoming en opsporing van strafbare feiten te versterken, Ter aanvulling op: – de op 19 juni 1990 te Schengen tot stand gekomen Overeenkomst ter uitvoering van het op 14 juni 1985 te Schengen gesloten Akkoord betreffende de geleidelijke afschaffing van de controles aan de gemeenschappelijke grenzen (hierna te noemen: SUO) alsmede ter aanvulling op de hierop gebaseerde, in de Europese Unie ingevoerde verworvenheden van Schengen; – het op 20 april 1959 te Straatsburg tot stand gekomen Europees Verdrag aangaande de wederzijdse rechtshulp in strafzaken; – de op 30 augustus 1979 te Wittem tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de aanvulling en het vergemakkelijken van de toepassing van het Europees Verdrag aangaande de wederzijdse rechtshulp in strafzaken van 20 april 1959; – het op 17 maart 1978 te Straatsburg tot stand gekomen Aanvullende Protocol bij het Europees Verdrag aangaande de wederzijdse rechtshulp in strafzaken; – het op 8 november 2001 te Straatsburg tot stand gekomen Tweede Aanvullende Protocol bij het Europees Verdrag aangaande de wederzijdse rechtshulp in strafzaken; – de op 29 mei 2000 te Brussel tot stand gekomen Overeenkomst, door de Raad vastgesteld overeenkomstig artikel 34 van het Verdrag betreffende de Europese Unie, betreffende de wederzijdse rechtshulp in strafzaken tussen de lidstaten van de Europese Unie (EU-Rechtshulpverdrag); – het op 16 oktober 2001 te Luxemburg tot stand gekomen Protocol, vastgesteld door de Raad overeenkomstig artikel 34 van het Verdrag betreffende de Europese Unie, bij de Overeenkomst betreffende de wederzijdse rechtshulp in strafzaken tussen de lidstaten van de Europese Unie; – de op 18 december 1997 te Brussel tot stand gekomen Overeenkomst opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie inzake wederzijdse bijstand en samenwerking tussen de douane-administraties (Napels II-overeenkomst); – het op 28 januari 1981 te Straatsburg tot stand gekomen Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens; – de Aanbeveling R (87) 15 van het Comité van Ministers van de Raad van Europa van 17 september 1987 aan de lidstaten aangaande het gebruik van persoonsgegevens op politieel gebied; – de op 7 juni 1988 te Bonn tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake wederzijdse bijstandsverlening bij het bestrijden van rampen, zware ongevallen daaronder begrepen; Zijn het volgende overeengekomen:*
 
-en
-
-de Bondsrepubliek Duitsland
-
-hierna te noemen: „de Verdragsluitende Staten"
-
-In het streven de internationale criminaliteit alsmede grensoverschrijdende gevaren door samenwerking als partners effectiever het hoofd te bieden,
-
-In het streven de samenwerking tussen de Verdragsluitende Staten te bevorderen en vastbesloten de mogelijkheden van een grensoverschrijdend optreden ter handhaving van de openbare orde en veiligheid en de mogelijkheden tot strafrechtelijke samenwerking te verruimen,
-
-Overwegende dat het wenselijk is de uitwisseling van informatie tussen de Verdragsluitende Staten te intensiveren alsmede de samenwerking bij de inzet van middelen ter handhaving van de openbare orde en veiligheid alsmede in het kader van de voorkoming en opsporing van strafbare feiten te versterken,
-
-Ter aanvulling op:
-
-de op 19 juni 1990 te Schengen tot stand gekomen Overeenkomst ter uitvoering van het op 14 juni 1985 te Schengen gesloten Akkoord betreffende de geleidelijke afschaffing van de controles aan de gemeenschappelijke grenzen (hierna te noemen: SUO) alsmede ter aanvulling op de hierop gebaseerde, in de Europese Unie ingevoerde verworvenheden van Schengen;
-
-het op 20 april 1959 te Straatsburg tot stand gekomen Europees Verdrag aangaande de wederzijdse rechtshulp in strafzaken;
-
-de op 30 augustus 1979 te Wittem tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de aanvulling en het vergemakkelijken van de toepassing van het Europees Verdrag aangaande de wederzijdse rechtshulp in strafzaken van 20 april 1959;
-
-het op 17 maart 1978 te Straatsburg tot stand gekomen Aanvullende Protocol bij het Europees Verdrag aangaande de wederzijdse rechtshulp in strafzaken;
-
-het op 8 november 2001 te Straatsburg tot stand gekomen Tweede Aanvullende Protocol bij het Europees Verdrag aangaande de wederzijdse rechtshulp in strafzaken;
-
-de op 29 mei 2000 te Brussel tot stand gekomen Overeenkomst, door de Raad vastgesteld overeenkomstig artikel 34 van het Verdrag betreffende de Europese Unie, betreffende de wederzijdse rechtshulp in strafzaken tussen de lidstaten van de Europese Unie (EU-Rechtshulpverdrag);
-
-het op 16 oktober 2001 te Luxemburg tot stand gekomen Protocol, vastgesteld door de Raad overeenkomstig artikel 34 van het Verdrag betreffende de Europese Unie, bij de Overeenkomst betreffende de wederzijdse rechtshulp in strafzaken tussen de lidstaten van de Europese Unie;
-
-de op 18 december 1997 te Brussel tot stand gekomen Overeenkomst opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie inzake wederzijdse bijstand en samenwerking tussen de douane-administraties (Napels II-overeenkomst);
-
-het op 28 januari 1981 te Straatsburg tot stand gekomen Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens;
-
-de Aanbeveling R (87) 15 van het Comité van Ministers van de Raad van Europa van 17 september 1987 aan de lidstaten aangaande het gebruik van persoonsgegevens op politieel gebied;
-
-de op 7 juni 1988 te Bonn tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake wederzijdse bijstandsverlening bij het bestrijden van rampen, zware ongevallen daaronder begrepen;
-
-Zijn het volgende overeengekomen:
-
-## TITEL I. VERHOUDING TOT ANDERE REGELINGEN, DOEL VAN HET VERDRAG, AUTORITEITEN
+### TITEL I. VERHOUDING TOT ANDERE REGELINGEN, DOEL VAN HET VERDRAG, AUTORITEITEN
 
 ##### Artikel 1. Verhouding tot andere verdragen en nationale regelingen
 
@@ -93,17 +33,17 @@ De Verdragsluitende Staten bevorderen de samenwerking op het gebied van de handh
 
 - voor het Koninkrijk der Nederlanden:
 
-- – de met de uitoefening van verschillende politietaken belaste autoriteiten;
+   - – de met de uitoefening van verschillende politietaken belaste autoriteiten;
 
-- – het Openbaar Ministerie; en
+   - – het Openbaar Ministerie; en
 
-- – de met de uitvoering van het Verdrag belaste ministeries;
+   - – de met de uitvoering van het Verdrag belaste ministeries;
 
 - voor de Bondsrepubliek Duitsland:
 
-- – de federale politieautoriteiten en de politieautoriteiten van de deelstaten (politieautoriteiten); en
+   - – de federale politieautoriteiten en de politieautoriteiten van de deelstaten (politieautoriteiten); en
 
-- – het Openbaar Ministerie (Staatsanwaltschaften) en de gerechten (gerechtelijke autoriteiten).
+   - – het Openbaar Ministerie (Staatsanwaltschaften) en de gerechten (gerechtelijke autoriteiten).
 
 De autoriteiten voor het Koninkrijk der Nederlanden zijn gespecificeerd in bijlage I.
 
@@ -111,15 +51,15 @@ De autoriteiten voor het Koninkrijk der Nederlanden zijn gespecificeerd in bijla
 
 - voor het Koninkrijk der Nederlanden:
 
-- -. de politieregio's Groningen, Drenthe, Twente, IJsselland, Noord- en Oost-Gelderland, Gelderland Midden, Gelderland Zuid, Limburg Noord en Limburg Zuid; en
+   - - de politieregio's Groningen, Drenthe, Twente, IJsselland, Noord- en Oost-Gelderland, Gelderland Midden, Gelderland Zuid, Limburg Noord en Limburg Zuid; en
 
-- -. de gebieden waarvoor de eenheden Waddenzee en Noordzee van het Korps landelijke politiediensten bevoegd zijn;
+   - - de gebieden waarvoor de eenheden Waddenzee en Noordzee van het Korps landelijke politiediensten bevoegd zijn;
 
 - voor de Bondsrepubliek Duitsland:
 
-- -. in de deelstaat Nedersaksen het district van de politiedirectie Osnabrück; en
+   - - in de deelstaat Nedersaksen het district van de politiedirectie Osnabrück; en
 
-- -. in de deelstaat Noordrijn-Westfalen de gemeentedistricten (Kreise) en stadsgemeenten (kreisfreie Städte) in de bestuursdistricten Düsseldorf, Keulen en Münster.
+   - - in de deelstaat Noordrijn-Westfalen de gemeentedistricten (Kreise) en stadsgemeenten (kreisfreie Städte) in de bestuursdistricten Düsseldorf, Keulen en Münster.
 
 Als grensstreek wordt daarnaast aangemerkt een trein op het traject van de grens tot aan de eerstvolgende halteplaats op het grondgebied van de andere Verdragsluitende Staat die volgens de dienstregeling als eerste wordt aangedaan. Een en ander is van overeenkomstige toepassing op passagiersschepen tot aan de eerstvolgende aanlegplaats in de andere Verdragsluitende Staat.
 
@@ -127,7 +67,7 @@ Als grensstreek wordt daarnaast aangemerkt een trein op het traject van de grens
 
 4. Het op 8 april 1960 te 's-Gravenhage tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot regeling van de samenwerking in de Eemsmonding (Eems-Dollardverdrag) blijft onverlet.
 
-## TITEL II. ALGEMENE VORMEN VAN SAMENWERKING
+### TITEL II. ALGEMENE VORMEN VAN SAMENWERKING
 
 ##### Artikel 4. Algemene maatregelen tot samenwerking
 
@@ -135,37 +75,37 @@ De autoriteiten van de Verdragsluitende Staten nemen in het kader van hun onders
 
 - 1. een intensivering van de uitwisseling van informatie en een verbetering van de communicatiestructuren door:
 
-- a. elkaar over feiten, dadergerelateerde verbanden en typisch dadergedrag te informeren zonder verstrekking van persoonsgegevens;
+   - a. elkaar over feiten, dadergerelateerde verbanden en typisch dadergedrag te informeren zonder verstrekking van persoonsgegevens;
 
-- b. elkaar ten behoeve van de handhaving van de openbare orde en veiligheid of ter voorkoming van strafbare feiten rechtstreeks op de hoogte te stellen van voor de autoriteiten relevante ophanden zijnde gebeurtenissen en acties, met dien verstande dat de informatie geen persoonsgegevens bevat en zo spoedig mogelijk wordt verstrekt opdat tijdig de vereiste maatregelen kunnen worden getroffen;
+   - b. elkaar ten behoeve van de handhaving van de openbare orde en veiligheid of ter voorkoming van strafbare feiten rechtstreeks op de hoogte te stellen van voor de autoriteiten relevante ophanden zijnde gebeurtenissen en acties, met dien verstande dat de informatie geen persoonsgegevens bevat en zo spoedig mogelijk wordt verstrekt opdat tijdig de vereiste maatregelen kunnen worden getroffen;
 
-- c. elkaar over en weer ten behoeve van de planning van operaties in het dagelijks werk en bij bijzondere gebeurtenissen belangrijke informatie te verstrekken, waarvan uitgezonderd persoonsgegevens, en elkaar uit voorzorg tevens informatie over gebeurtenissen te verstrekken die kunnen overslaan naar het grondgebied van de andere Verdragsluitende Staat;
+   - c. elkaar over en weer ten behoeve van de planning van operaties in het dagelijks werk en bij bijzondere gebeurtenissen belangrijke informatie te verstrekken, waarvan uitgezonderd persoonsgegevens, en elkaar uit voorzorg tevens informatie over gebeurtenissen te verstrekken die kunnen overslaan naar het grondgebied van de andere Verdragsluitende Staat;
 
-- d. gemeenschappelijke registers met gegevens over bevoegdheden en bereikbaarheid aan te leggen en deze voortdurend te actualiseren;
+   - d. gemeenschappelijke registers met gegevens over bevoegdheden en bereikbaarheid aan te leggen en deze voortdurend te actualiseren;
 
-- e. informatie over uitrusting en communicatiemiddelen uit te wisselen;
+   - e. informatie over uitrusting en communicatiemiddelen uit te wisselen;
 
-- f. informatie over beslissingen tot aanschaf van uitrusting uit te wisselen met het doel een betere uitwisselbaarheid te waarborgen;
+   - f. informatie over beslissingen tot aanschaf van uitrusting uit te wisselen met het doel een betere uitwisselbaarheid te waarborgen;
 
-- g. mede door het uitwisselen van apparatuur, radioverbindingen in stand te houden, in het bijzonder de radioverbindingen langs de grens, totdat de overgang naar geharmoniseerde uitrusting en frequenties in Europa is voltooid; en gemeenschappelijk voorstellen voor de realisatie hiervan, tegen zo gering mogelijke kosten uit te werken;
+   - g. mede door het uitwisselen van apparatuur, radioverbindingen in stand te houden, in het bijzonder de radioverbindingen langs de grens, totdat de overgang naar geharmoniseerde uitrusting en frequenties in Europa is voltooid; en gemeenschappelijk voorstellen voor de realisatie hiervan, tegen zo gering mogelijke kosten uit te werken;
 
 - 2. een intensivering van de samenwerking in het kader van onderzoek ten behoeve van de voorkoming en opsporing van strafbare feiten en ter handhaving van de openbare orde en veiligheid:
 
-- a. de ambtenaren in de aangrenzende grensstreek zo mogelijk volgens een gezamenlijk gecoördineerd plan in te zetten;
+   - a. de ambtenaren in de aangrenzende grensstreek zo mogelijk volgens een gezamenlijk gecoördineerd plan in te zetten;
 
-- b. indien nodig gemeenschappelijke centrales en commandoposten in te richten;
+   - b. indien nodig gemeenschappelijke centrales en commandoposten in te richten;
 
-- c. indien nodig met inachtneming van artikel 19 gemeenschappelijke operationele teams te vormen;
+   - c. indien nodig met inachtneming van artikel 19 gemeenschappelijke operationele teams te vormen;
 
-- d. indien nodig gemeenschappelijke teams in te stellen met inachtneming van artikel 13 van het EU-Rechtshulpverdrag en het Kaderbesluit van de Raad van de Europese Unie van 13 juni 2002 inzake gemeenschappelijke onderzoeksteams;
+   - d. indien nodig gemeenschappelijke teams in te stellen met inachtneming van artikel 13 van het EU-Rechtshulpverdrag en het Kaderbesluit van de Raad van de Europese Unie van 13 juni 2002 inzake gemeenschappelijke onderzoeksteams;
 
-- e. indien nodig gemeenschappelijke programma's ter voorkoming en bestrijding van strafbare feiten op te zetten en uit te voeren;
+   - e. indien nodig gemeenschappelijke programma's ter voorkoming en bestrijding van strafbare feiten op te zetten en uit te voeren;
 
-- f. regelmatig en indien nodig overleg te voeren teneinde de kwaliteit van de samenwerking te toetsen, nieuwe strategieën te bespreken, geplande operaties, opsporingsmaatregelen en patrouilles op elkaar af te stemmen, statistische gegevens uit te wisselen en werkprogramma's te coördineren;
+   - f. regelmatig en indien nodig overleg te voeren teneinde de kwaliteit van de samenwerking te toetsen, nieuwe strategieën te bespreken, geplande operaties, opsporingsmaatregelen en patrouilles op elkaar af te stemmen, statistische gegevens uit te wisselen en werkprogramma's te coördineren;
 
-- g. elkaar over en weer na overleg tussen de bevoegde instanties in staat te stellen aan stages deel te nemen;
+   - g. elkaar over en weer na overleg tussen de bevoegde instanties in staat te stellen aan stages deel te nemen;
 
-- h. vertegenwoordigers van de andere Verdragsluitende Staat als waarnemers uit te nodigen voor deelname aan bijzondere operaties.
+   - h. vertegenwoordigers van de andere Verdragsluitende Staat als waarnemers uit te nodigen voor deelname aan bijzondere operaties.
 
 ##### Artikel 5. Samenwerking op het gebied van opleiding en bijscholing
 
@@ -225,7 +165,7 @@ Ter versterking van de samenwerking op het gebied van opleiding en bijscholing s
 
 Artikel 39, derde lid, derde volzin, van de SUO is niet van toepassing. De nationale centrale politie-instantie dient geïnformeerd te worden voor zover het nationale recht dit vereist.
 
-## TITEL III. BIJZONDERE VORMEN VAN SAMENWERKING IN STRAFRECHTELIJKE AANGELEGENHEDEN
+### TITEL III. BIJZONDERE VORMEN VAN SAMENWERKING IN STRAFRECHTELIJKE AANGELEGENHEDEN
 
 ##### Artikel 8. Verzoeken om veiligstelling van bewijsmateriaal in spoedeisende gevallen
 
@@ -283,31 +223,31 @@ Voor grensoverschrijdende observaties geldt artikel 40 van de SUO met de volgend
 
 - 6. Een afschrift van het verzoek dient behalve aan de nationale centrale politie-instanties tegelijkertijd te worden toegezonden aan: telkens voorzover het onder de territoriale bevoegdheid van de voornoemde autoriteiten valt en in het geval van het Zollkriminalamt voorzover dit ook onder diens zaaksinhoudelijke competentie valt.
 
-- voor het Koninkrijk der Nederlanden:
+   - voor het Koninkrijk der Nederlanden:
 
-- -. de in bijlage I genoemde autoriteiten;
+      - - de in bijlage I genoemde autoriteiten;
 
-- voor de Bondsrepubliek Duitsland:
+   - voor de Bondsrepubliek Duitsland:
 
-- -. De Landesjustizverwaltung Niedersachsen en Landesjustiz-verwaltung Nordrhein-Westfalen voor zover deze niet algemeen of in afzonderlijke gevallen afzien van de toezending van een afschrift;
+      - - De Landesjustizverwaltung Niedersachsen en Landesjustiz-verwaltung Nordrhein-Westfalen voor zover deze niet algemeen of in afzonderlijke gevallen afzien van de toezending van een afschrift;
 
-- -. het Landeskriminalamt Niedersachsen te Hannover en het Landeskriminalamt Nordrhein-Westfalen te Düsseldorf;
+      - - het Landeskriminalamt Niedersachsen te Hannover en het Landeskriminalamt Nordrhein-Westfalen te Düsseldorf;
 
-- -. het Zollkriminalamt te Keulen;
+      - - het Zollkriminalamt te Keulen;
 
 - 7. Grensoverschrijding dient in geval van een observatie overeenkomstig artikel 40, tweede lid, eerste volzin van de SUO allereerst onverwijld te worden medegedeeld aan: telkens voorzover het binnen de territoriale bevoegdheid van de voornoemde autoriteiten valt. De kennisgeving overeenkomstig artikel 40, tweede lid, eerste volzin, onderdeel a, juncto vijfde lid, van de SUO geschiedt onverwijld door de in de eerste volzin genoemde autoriteiten. Een verzoek achteraf conform artikel 40, tweede lid, eerste volzin, onderdeel b, van de SUO wordt overeenkomstig het vierde tot en met zesde lid gedaan.
 
-- voor het Koninkrijk der Nederlanden:
+   - voor het Koninkrijk der Nederlanden:
 
-- -. de in bijlage I genoemde autoriteiten;
+      - - de in bijlage I genoemde autoriteiten;
 
-- voor de Bondsrepubliek Duitsland:
+   - voor de Bondsrepubliek Duitsland:
 
-- -. het Landeskriminalamt Niedersachsen te Hannover en het Landeskriminalamt Nordrhein-Westfalen te Düsseldorf;
+      - - het Landeskriminalamt Niedersachsen te Hannover en het Landeskriminalamt Nordrhein-Westfalen te Düsseldorf;
 
-- -. het Grenzschutzpräsidium Nord en Grenzschutzpräsidium West; alsmede
+      - - het Grenzschutzpräsidium Nord en Grenzschutzpräsidium West; alsmede
 
-- -. de Bundesgrenzschutzämter te Hamburg, Kleef en Keulen;
+      - - de Bundesgrenzschutzämter te Hamburg, Kleef en Keulen;
 
 - 8. De toestemming voor de grensoverschrijdende observatie geldt voor het gehele grondgebied van de Verdragsluitende Staat die de toestemming geeft.
 
@@ -335,15 +275,15 @@ Voor grensoverschrijdende observaties geldt artikel 40 van de SUO met de volgend
 
 - voor het Koninkrijk der Nederlanden:
 
-- -. de in bijlage I genoemde autoriteiten;
+   - - de in bijlage I genoemde autoriteiten;
 
 - voor de Bondsrepubliek Duitsland:
 
-- -. in de deelstaat Nedersaksen het regionale verbindingsorgaan te Lingen, het Grenzschutzpräsidium Nord en Grenzschutzpräsidium West en de Bundesgrenzschutzämter te Hamburg, Kleef en Keulen;
+   - - in de deelstaat Nedersaksen het regionale verbindingsorgaan te Lingen, het Grenzschutzpräsidium Nord en Grenzschutzpräsidium West en de Bundesgrenzschutzämter te Hamburg, Kleef en Keulen;
 
-- -. in Noordrijn-Westfalen de politieautoriteiten in wiens district de grensoverschrijding plaatsvindt of vermoedelijk zal plaatsvinden, het Grenzschutzpräsidium Nord en Grenzschutzpräsidium West en de Bundesgrenzschutzämter te Hamburg, Kleef en Keulen; alsmede
+   - - in Noordrijn-Westfalen de politieautoriteiten in wiens district de grensoverschrijding plaatsvindt of vermoedelijk zal plaatsvinden, het Grenzschutzpräsidium Nord en Grenzschutzpräsidium West en de Bundesgrenzschutzämter te Hamburg, Kleef en Keulen; alsmede
 
-- -. voor de douaneorganisatie de Lage- und Informationsdienst Kleve en de centrale meldkamer in Emden;
+   - - voor de douaneorganisatie de Lage- und Informationsdienst Kleve en de centrale meldkamer in Emden;
 
 telkens voor zover het onder de territoriale bevoegdheid van de voornoemde autoriteiten valt en in het geval van de voornoemde douaneautoriteiten voor zover dit ook onder hun zaaksinhoudelijke competentie valt.
 
@@ -367,9 +307,9 @@ Wijzigingen van deze bevoegdheden worden schriftelijk medegedeeld aan de andere 
 
 8. Verzoeken om gecontroleerde invoer en doorvoer dienen te worden gericht aan de in artikel 11, derde en vierde lid, genoemde autoriteiten. Verzoeken om gecontroleerde uitvoer dienen te worden gericht aan:
 
-- –. voor het Koninkrijk der Nederlanden de in bijlage I genoemde autoriteiten;
+- – voor het Koninkrijk der Nederlanden de in bijlage I genoemde autoriteiten;
 
-- –. voor de Bondsrepubliek Duitsland aan het Openbaar Ministerie in wiens rechtsgebied het vervoer begint.
+- – voor de Bondsrepubliek Duitsland aan het Openbaar Ministerie in wiens rechtsgebied het vervoer begint.
 
 ##### Artikel 14. Infiltratie ten behoeve van strafrechtelijke opsporing
 
@@ -399,7 +339,7 @@ Wijzigingen van deze bevoegdheden worden schriftelijk medegedeeld aan de andere 
 
 De autoriteiten van de Verdragsluitende Staten kunnen elkaar in uitzonderlijke gevallen met inachtneming van het nationale recht zonder verzoek informatie met inbegrip van persoonsgegevens doen toekomen indien er aanwijzingen zijn dat de ontvanger deze informatie voor de opsporing van strafbare feiten nodig heeft. De ontvanger is verplicht het belang van de medegedeelde gegevens te toetsen en niet-noodzakelijke gegevens te verwijderen, te vernietigen of terug te zenden naar de instantie die deze gegevens heeft verstrekt en, indien gebleken is dat de informatie onjuist is, dit te melden aan de instantie die de informatie heeft verstrekt.
 
-## TITEL IV. OVERIGE VORMEN VAN GRENSOVERSCHRIJDENDE SAMENWERKING
+### TITEL IV. OVERIGE VORMEN VAN GRENSOVERSCHRIJDENDE SAMENWERKING
 
 ##### Artikel 16. Observatie ter voorkoming van een strafbaar feit dat aanleiding kan geven tot uitlevering
 
@@ -413,19 +353,19 @@ De observatie is slechts toegestaan indien een verzoek niet binnen het kader van
 
 2. Op observaties bedoeld in het eerste lid zijn de volgende voorschriften van overeenkomstige toepassing:
 
-- –. artikel 40, tweede lid, van de SUO met uitzondering van de beperkende verwijzing naar artikel 40, zevende lid, van de SUO;
+- – artikel 40, tweede lid, van de SUO met uitzondering van de beperkende verwijzing naar artikel 40, zevende lid, van de SUO;
 
-- –. artikel 40, derde lid, onderdelen a tot en met c en g, van de SUO;
+- – artikel 40, derde lid, onderdelen a tot en met c en g, van de SUO;
 
-- –. artikel 40, vierde lid, van de SUO;
+- – artikel 40, vierde lid, van de SUO;
 
-- –. artikel 11, onder 8, 11 en 12.
+- – artikel 11, onder 8, 11 en 12.
 
 3. Verzoeken bedoeld in het eerste lid en mededelingen bedoeld in het tweede lid dienen te worden gericht aan onderstaande instanties:
 
-- –. voor het Koninkrijk der Nederlanden aan de in bijlage I genoemde autoriteiten;
+- – voor het Koninkrijk der Nederlanden aan de in bijlage I genoemde autoriteiten;
 
-- –. voor de Bondsrepubliek Duitsland aan het Landeskriminalamt van Nedersaksen of Noordrijn-Westfalen of de plaatselijke bevoegde autoriteiten overeenkomstig artikel 3, eerste lid, of aan de Bundesgrenzschutzämter te Hamburg, Kleef of Keulen.
+- – voor de Bondsrepubliek Duitsland aan het Landeskriminalamt van Nedersaksen of Noordrijn-Westfalen of de plaatselijke bevoegde autoriteiten overeenkomstig artikel 3, eerste lid, of aan de Bundesgrenzschutzämter te Hamburg, Kleef of Keulen.
 
 Artikel 7, derde lid, eerste, derde en vierde volzin, zijn van overeenkomstige toepassing.
 
@@ -439,17 +379,17 @@ Artikel 7, derde lid, eerste, derde en vierde volzin, zijn van overeenkomstige t
 
 4. Voor dergelijke grensoverschrijdende achtervolgingen gelden de volgende voorschriften overeenkomstig:
 
-- –. artikel 41, eerste lid, van de SUO;
+- – artikel 41, eerste lid, van de SUO;
 
-- –. artikel 41, tweede lid, onderdeel b, van de SUO;
+- – artikel 41, tweede lid, onderdeel b, van de SUO;
 
-- –. artikel 41, derde lid, onderdeel b, van de SUO;
+- – artikel 41, derde lid, onderdeel b, van de SUO;
 
-- –. artikel 41, vijfde lid, onderdelen a en c tot en met g, van de SUO;
+- – artikel 41, vijfde lid, onderdelen a en c tot en met g, van de SUO;
 
-- –. artikel 12, eerste lid, onder 2;
+- – artikel 12, eerste lid, onder 2;
 
-- –. artikel 12, tweede lid.
+- – artikel 12, tweede lid.
 
 ##### Artikel 18. Infiltratie ter voorkoming van ernstige strafbare feiten die aanleiding kunnen geven tot uitlevering
 
@@ -507,7 +447,7 @@ De bevoegde autoriteiten van de Verdragsluitende Staten verlenen elkaar met inac
 
 6. Voor het geval dat grenscontroles als bedoeld in artikel 2, tweede lid, van de SUO worden uitgevoerd, zijn de artikelen 4 tot en met 9 van de op 30 mei 1958 te 's-Gravenhage tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland nopens de samenvoeging van de grenscontrole en de instelling van gemeenschappelijke spoorwegstations of van grensaflosstations aan de Nederlands-Duitse grens van toepassing; voor het overige is de Overeenkomst van 30 mei 1958 van overeenkomstige toepassing.
 
-## TITEL V. ALGEMENE BEPALINGEN BETREFFENDE DE SAMENWERKING
+### TITEL V. ALGEMENE BEPALINGEN BETREFFENDE DE SAMENWERKING
 
 ##### Artikel 24. Gemeenschappelijk bemande centra
 
@@ -559,7 +499,7 @@ De bevoegde autoriteiten van de Verdragsluitende Staten verlenen elkaar met inac
 
 5. Voor het overige is artikel 43 van de SUO van toepassing op de aansprakelijkheid en de vergoeding van schade die bij de uitvoering van een maatregel uit hoofde van dit Verdrag door ambtenaren van de ene Verdragsluitende Staat op het grondgebied van de andere Verdragsluitende Staat wordt veroorzaakt.
 
-## TITEL VI. REGELINGEN BETREFFENDE DE GRENSOVERSCHRIJDEND OPTREDENDE AMBTENAREN
+### TITEL VI. REGELINGEN BETREFFENDE DE GRENSOVERSCHRIJDEND OPTREDENDE AMBTENAREN
 
 ##### Artikel 29. Aanhouden
 
@@ -605,7 +545,7 @@ De grensoverschrijdende ambtenaren die uit hoofde van dit Verdrag optreden, zijn
 
 Indien een Verdragsluitende Staat van mening is dat inwilliging van een verzoek of het uitvoeren of toelaten van een maatregel uit hoofde van dit Verdrag ertoe kan leiden dat de eigen soevereine rechten worden aangetast, de eigen veiligheid of andere wezenlijke belangen gevaar lopen of inbreuk op het nationale recht wordt gemaakt, kan deze de samenwerking met inachtneming van overige internationale samenwerkingsverplichtingen geheel of gedeeltelijk weigeren of hieraan bepaalde voorwaarden stellen.
 
-## TITEL VII. UITVOERINGS- EN SLOTBEPALINGEN
+### TITEL VII. UITVOERINGS- EN SLOTBEPALINGEN
 
 ##### Artikel 36. Afspraken betreffende de uitvoering
 
@@ -633,13 +573,13 @@ staan deze in het kader van dit Verdrag voor het Koninkrijk der Nederlanden geli
 
 - voor het Koninkrijk der Nederlanden:
 
-- -. de autoriteiten, voor zover deze zijn belast met taken als bedoeld in het eerste lid;
+   - - de autoriteiten, voor zover deze zijn belast met taken als bedoeld in het eerste lid;
 
 - voor de Bondsrepubliek Duitsland:
 
-- -. de douanerecherche (Zollfahndungsdienst);
+   - - de douanerecherche (Zollfahndungsdienst);
 
-- -. de douanehoofdkantoren (Hauptzollämter), voor zover deze zijn belast met taken als bedoeld in het eerste lid, onder 1 en 2,
+   - - de douanehoofdkantoren (Hauptzollämter), voor zover deze zijn belast met taken als bedoeld in het eerste lid, onder 1 en 2,
 
 behoudens voor zover bijlage I bij dit Verdrag met betrekking tot het Koninkrijk der Nederlanden bijzondere bevoegdheidsregelingen bevat.
 
@@ -651,33 +591,33 @@ behoudens voor zover bijlage I bij dit Verdrag met betrekking tot het Koninkrijk
 
 - 3. artikel 6, met dien verstande dat:
 
-- a. het onder gezag plaatsen van ambtenaren tussen de in artikel 4, onder 7, van de Napels II-overeenkomst bedoelde douaneadministraties van de Verdragsluitende Staten is toegestaan;
+   - a. het onder gezag plaatsen van ambtenaren tussen de in artikel 4, onder 7, van de Napels II-overeenkomst bedoelde douaneadministraties van de Verdragsluitende Staten is toegestaan;
 
-- b. b. in het eerste lid de woorden „uitvoering van politietaken" telkens worden vervangen door de woorden „uitoefening van taken als bedoeld in artikel 1, eerste lid, van de Napels II-overeenkomst";
+   - b. b. in het eerste lid de woorden „uitvoering van politietaken" telkens worden vervangen door de woorden „uitoefening van taken als bedoeld in artikel 1, eerste lid, van de Napels II-overeenkomst";
 
-- c. in het derde lid de woorden „noodzakelijke politiële maatregel" worden vervangen door de woorden „voor de uitoefening van taken als bedoeld in artikel 1, eerste lid, van de Napels II-overeenkomst noodzakelijke maatregel";
+   - c. in het derde lid de woorden „noodzakelijke politiële maatregel" worden vervangen door de woorden „voor de uitoefening van taken als bedoeld in artikel 1, eerste lid, van de Napels II-overeenkomst noodzakelijke maatregel";
 
 - 4. artikel 12, eerste lid, onder 1 en 3 en tweede lid, met dien verstande dat in het eerste lid in de plaats van artikel 41 van de SUO, artikel 20 van de Napels II-overeenkomst komt;
 
 - 5. artikel 17, tweede tot en met vierde lid, met dien verstande dat:
 
-- a. in het tweede lid de woorden „controle door politie" worden vervangen door de woorden „controle in het kader van de uitoefening van taken als bedoeld in artikel 1, eerste lid van de Napels II-overeenkomst"; en
+   - a. in het tweede lid de woorden „controle door politie" worden vervangen door de woorden „controle in het kader van de uitoefening van taken als bedoeld in artikel 1, eerste lid van de Napels II-overeenkomst"; en
 
-- b. in het vierde lid: – de woorden „artikel 41, eerste lid SUO" worden vervangen door de woorden „artikel 20, eerste lid van de Napels II-overeenkomst";
+   - b. in het vierde lid: – de woorden „artikel 41, eerste lid SUO" worden vervangen door de woorden „artikel 20, eerste lid van de Napels II-overeenkomst";
 
-- -. de woorden „artikel 41, tweede lid, onderdeel b SUO" worden vervangen door de woorden „artikel 20, tweede lid, onderdeel b van de Napels II-overeenkomst";
+      - - de woorden „artikel 41, tweede lid, onderdeel b SUO" worden vervangen door de woorden „artikel 20, tweede lid, onderdeel b van de Napels II-overeenkomst";
 
-- -. de woorden „artikel 41, derde lid, onderdeel b SUO" worden vervangen door de woorden „artikel 20, derde lid, onderdeel b van de Napels II-overeenkomst";
+      - - de woorden „artikel 41, derde lid, onderdeel b SUO" worden vervangen door de woorden „artikel 20, derde lid, onderdeel b van de Napels II-overeenkomst";
 
-- -. de woorden „artikel 41, vijfde lid, onderdelen a en c tot en met g SUO" worden vervangen door de woorden „artikel 20, vierde lid, onderdelen a, c, d, f en g alsmede onderdeel e, eerste zin, onder ii) en tweede zin van de Napels II-overeenkomst"; en
+      - - de woorden „artikel 41, vijfde lid, onderdelen a en c tot en met g SUO" worden vervangen door de woorden „artikel 20, vierde lid, onderdelen a, c, d, f en g alsmede onderdeel e, eerste zin, onder ii) en tweede zin van de Napels II-overeenkomst"; en
 
-- -. de woorden „artikel 12, eerste lid, onder 2" worden vervangen door de woorden „artikel 20, vierde lid, onderdeel b van de Napels II-overeenkomst";
+      - - de woorden „artikel 12, eerste lid, onder 2" worden vervangen door de woorden „artikel 20, vierde lid, onderdeel b van de Napels II-overeenkomst";
 
 - 6. artikel 18, met dien verstande dat:
 
-- a. het verzoek, bedoeld in het eerste lid, wordt gericht tot de centrale coördinatiedienst, bedoeld in artikel 5 van de Napels II-overeenkomst; en
+   - a. het verzoek, bedoeld in het eerste lid, wordt gericht tot de centrale coördinatiedienst, bedoeld in artikel 5 van de Napels II-overeenkomst; en
 
-- b. in het tweede lid slechts de verwijzingen naar artikel 14, eerste tot en met zesde lid, achtste, tiende en elfde lid van overeenkomstige toepassing zijn;
+   - b. in het tweede lid slechts de verwijzingen naar artikel 14, eerste tot en met zesde lid, achtste, tiende en elfde lid van overeenkomstige toepassing zijn;
 
 - 7. artikel 19, met dien verstande dat de vormen van gezamenlijk optreden tussen de in artikel 4, onder 7 van de Napels II-overeenkomst bedoelde douaneadministraties van de Verdragsluitende Staten zijn toegestaan;
 
@@ -685,11 +625,11 @@ behoudens voor zover bijlage I bij dit Verdrag met betrekking tot het Koninkrijk
 
 - 9. artikel 26, met dien verstande dat voor de uitwisseling van gegevens als bedoeld in het eerste lid van voornoemd artikel tussen de douaneadministraties van de Verdragsluitende Staten artikel 25 van de Napels II-overeenkomst geldt;
 
-- 10. artikel 27, eerste lid, met dien verstande dat de verwijzing naar artikel 2 als verwijzing naar de taken, bedoeld in artikel 1, eerste lid van de Napels II-overeenkomst, wordt aangemerkt;
+- 10 artikel 27, eerste lid, met dien verstande dat de verwijzing naar artikel 2 als verwijzing naar de taken, bedoeld in artikel 1, eerste lid van de Napels II-overeenkomst, wordt aangemerkt;
 
 - 11. artikel 32, eerste lid, eerste zinsnede, tweede lid, vierde lid, tweede zin en vijfde lid. Artikel 32, derde lid is van toepassing, met dien verstande dat de verwijzingen naar de artikelen 11 en 16 niet van toepassing zijn.
 
-4. Voor zover ambtenaren van de douaneadministraties van de Verdragsluitende Staten maatregelen ter uitvoering van het communautair douanewetboek ([Verordening (EEG) Nr. 2913/92](31992R2913)) toepassen, zijn artikel 27, eerste lid en artikel 28, vijfde lid van overeenkomstige toepassing.
+4. Voor zover ambtenaren van de douaneadministraties van de Verdragsluitende Staten maatregelen ter uitvoering van het communautair douanewetboek (Verordening (EEG) Nr. 2913/92) toepassen, zijn artikel 27, eerste lid en artikel 28, vijfde lid van overeenkomstige toepassing.
 
 ##### Artikel 40. Inwerkingtreding, opzegging
 
@@ -703,13 +643,13 @@ behoudens voor zover bijlage I bij dit Verdrag met betrekking tot het Koninkrijk
 
 GEDAAN te Enschede, de tweede maart 2005, in tweevoud, in de Nederlandse en Duitse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 PIET HEIN DONNER
 
 JOHAN REMKES
 
-**Voor de Bondsrepubliek Duitsland**
+*Voor de Bondsrepubliek Duitsland*
 
 DR. EDMUND DUCKWITZ
 

@@ -1,46 +1,18 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Trinidad en Tobago inzake uitlevering"
 identifier: "BWBV0001599"
-country: "nl"
-rank: "verdrag"
-publication_date: "2003-08-01"
-last_updated: "2003-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001599"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10001454413"
-version_id: "10001532692"
-internal_id: "C10006993581"
-label_id: "10001454714"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001599/2003-08-01/0"
-intitule_bron: "Trb.2003-41"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-08-01"
-intitule_published: "2003-03-21"
-intitule_status: "nogniet"
-original_publication: "Trb.2003-41"
-original_signed_date: "2003-08-01"
-original_published_date: "2003-03-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2003-41"
-jci_1_3: "jci1.3:c:BWBV0001599&z=2003-08-01&g=2003-08-01"
-jci_1_0: "1.0:c:BWBV0001599&g=2003-08-01"
-citeertitel_status: "redactioneel"
-signed_date: "2003-08-01"
-entry_into_force: "2003-03-21"
+laatste_update: 2003-08-01
+status: geldig
+toestand: 2003-08-01
+bron: "https://wetten.overheid.nl/BWBV0001599"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Trinidad en Tobago inzake uitlevering
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van de Republiek Trinidad en Tobago;
-
-Elkanders rechtsinstellingen eerbiedigend en geleid door de wens de samenwerking tussen beide landen bij de bestrijding van de misdaad doeltreffender te maken door regelingen te treffen voor de uitlevering van delinquenten;
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Trinidad en Tobago; Elkanders rechtsinstellingen eerbiedigend en geleid door de wens de samenwerking tussen beide landen bij de bestrijding van de misdaad doeltreffender te maken door regelingen te treffen voor de uitlevering van delinquenten; Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Verplichting tot uitlevering
 
@@ -98,21 +70,21 @@ Uitlevering kan worden geweigerd:
 
 - a. in alle gevallen:
 
-- i. gegevens betreffende de identiteit, de nationaliteit en, indien mogelijk, het signalement en de verblijfplaats van de opgeëiste persoon;
+   - i. gegevens betreffende de identiteit, de nationaliteit en, indien mogelijk, het signalement en de verblijfplaats van de opgeëiste persoon;
 
-- ii. een door een rechterlijk ambtenaar of overheidsfunctionaris opgestelde verklaring betreffende het strafbare feit ter zake waarvan om uitlevering wordt verzocht, onder vermelding van de plaats en het tijdstip waarop het is gepleegd, de omschrijving van het feit en de wettelijke bepalingen waarin het delict is omschreven, alsmede de toepasselijke straf.
+   - ii. een door een rechterlijk ambtenaar of overheidsfunctionaris opgestelde verklaring betreffende het strafbare feit ter zake waarvan om uitlevering wordt verzocht, onder vermelding van de plaats en het tijdstip waarop het is gepleegd, de omschrijving van het feit en de wettelijke bepalingen waarin het delict is omschreven, alsmede de toepasselijke straf.
 
 - b. in geval van een persoon die wordt verdacht van een strafbaar feit:
 
-- i. het origineel of een voor eensluidend gewaarmerkt afschrift van het bevel tot aanhouding, uitgevaardigd in de verzoekende Staat;
+   - i. het origineel of een voor eensluidend gewaarmerkt afschrift van het bevel tot aanhouding, uitgevaardigd in de verzoekende Staat;
 
-- ii. bewijsmateriaal dat, overeenkomstig de wetgeving van de aangezochte Staat, de uitvaardiging van een bevel tot aanhouding zou rechtvaardigen indien het strafbare feit in de aangezochte Staat zou zijn gepleegd.
+   - ii. bewijsmateriaal dat, overeenkomstig de wetgeving van de aangezochte Staat, de uitvaardiging van een bevel tot aanhouding zou rechtvaardigen indien het strafbare feit in de aangezochte Staat zou zijn gepleegd.
 
 - c. in geval van een persoon die wordt gezocht voor de tenuitvoerlegging van een vonnis:
 
-- i. het origineel of een voor eensluidend gewaarmerkt afschrift van het vonnis of een ander stuk waaruit de veroordeling en de opgelegde straf blijken;
+   - i. het origineel of een voor eensluidend gewaarmerkt afschrift van het vonnis of een ander stuk waaruit de veroordeling en de opgelegde straf blijken;
 
-- ii. indien een gedeelte van de straf reeds is ondergaan, een verklaring van een overheidsfunctionaris waarin het gedeelte dat nog moet worden ondergaan, is vermeld.
+   - ii. indien een gedeelte van de straf reeds is ondergaan, een verklaring van een overheidsfunctionaris waarin het gedeelte dat nog moet worden ondergaan, is vermeld.
 
 - d. ter ondersteuning van een verzoek van Trinidad en Tobago met betrekking tot een persoon die is veroordeeld doch aan wie nog geen straf is opgelegd, het origineel of een voor eensluidend gewaarmerkt afschrift van het bevel tot aanhouding en het origineel of een voor eensluidend gewaarmerkt afschrift van een stuk waaruit blijkt dat de betrokkene is veroordeeld en dat een straf zal worden opgelegd.
 
@@ -256,10 +228,10 @@ TEN BLIJKE WAARVAN de vertegenwoordigers van de twee Regeringen, daartoe gemacht
 
 GEDAAN te Port of Spain, op 7 februari 2003, in tweevoud, in de Nederlandse en de Engelse taal, zijnde elke tekst gelijkelijk authentiek.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) A. J. VAN DEN BERG
 
-**Voor de Regering van de Republiek Trinidad en Tobago**
+*Voor de Regering van de Republiek Trinidad en Tobago*
 
 (w.g.) KNOWLSON W. GIFT

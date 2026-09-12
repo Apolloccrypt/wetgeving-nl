@@ -1,47 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Ecuador inzake technische samenwerking"
 identifier: "BWBV0002614"
-country: "nl"
-rank: "verdrag"
-publication_date: "1993-02-19"
-last_updated: "1993-02-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002614"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002949723"
-version_id: "10002952382"
-internal_id: "C10006976811"
-label_id: "10002936424"
-dtd_version: "2.0"
-original_entry_into_force: "1993-02-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002614/1993-02-19/0"
-intitule_bron: "Trb.1991-84"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-10-04"
-intitule_published: "1991-06-10"
-intitule_in_force: "1993-05-11"
-intitule_status: "goed"
-original_publication: "Trb.1991-84"
-original_signed_date: "1991-10-04"
-original_published_date: "1991-06-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1991-84"
-entry_into_force_date: "1993-02-19"
-jci_1_3: "jci1.3:c:BWBV0002614&z=1993-02-19&g=1993-02-19"
-jci_1_0: "1.0:c:BWBV0002614&g=1993-02-19"
-citeertitel_status: "officieel"
-signed_date: "1991-10-04"
-entry_into_force: "1993-02-19"
+publicatiedatum: 1993-02-19
+laatste_update: 1993-02-19
+status: geldig
+toestand: 1993-02-19
+bron: "https://wetten.overheid.nl/BWBV0002614"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Ecuador inzake technische samenwerking
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Ecuador,
-
-de vriendschapsbanden tussen beide staten en hun inwoners versterkend
-
-en vanuit hun wens de technische samenwerking te bevorderen en hiervoor het noodzakelijke juridische en bestuurlijke kader te scheppen,
-
-zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Ecuador, de vriendschapsbanden tussen beide staten en hun inwoners versterkend en vanuit hun wens de technische samenwerking te bevorderen en hiervoor het noodzakelijke juridische en bestuurlijke kader te scheppen, zijn het volgende overeengekomen:*
 
 ##### Artikel I
 
@@ -49,9 +21,9 @@ zijn het volgende overeengekomen:
 
 2. De in de vorige paragraaf genoemde bevoegde autoriteiten zullen zijn:
 
-- -. voor de Nederlandse Regering: de Minister voor Ontwikkelingssamenwerking;
+- - voor de Nederlandse Regering: de Minister voor Ontwikkelingssamenwerking;
 
-- -. voor de Regering van de Republiek Ecuador: de Minister van Buitenlandse Zaken.
+- - voor de Regering van de Republiek Ecuador: de Minister van Buitenlandse Zaken.
 
 3. De wederzijdse bijdragen voor de projecten en de uitvoering ervan, zullen per geval worden vastgesteld door middel van Administratieve Akkoorden, die tussen de bevoegde autoriteiten van beide Partijen zullen worden gesloten.
 
@@ -117,7 +89,7 @@ Deze Overeenkomst heeft uitsluitend betrekking op het Europese deel van het Koni
 
 OPGEMAAKT in de stad Quito, op 22 april 1991, in twee exemplaren, elk in de Spaanse en de Nederlandse taal, zijnde de beide teksten gelijkelijk authentiek.
 
-**Namens de Regering van het Koninkrijk der Nederlanden**
+*Namens de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) G. WESTEROUEN VAN MEETEREN
 
@@ -125,7 +97,7 @@ Gijsbert N. Westerouen van Meeteren
 
 Ambassadeur
 
-**Por el Gobierno de la República del Ecuador**
+*Por el Gobierno de la República del Ecuador*
 
 (w.g.) D. CORDOVEZ
 

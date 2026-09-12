@@ -1,53 +1,19 @@
 ---
 title: "Overeenkomst inzake het onderhoud van de in het grensgebied liggende watergang, achtereenvolgens genaamd Bimmensche Wetering, Zeeländische Wässerung en Hauptwässerung"
 identifier: "BWBV0002218"
-country: "nl"
-rank: "verdrag"
-publication_date: "1992-03-01"
-last_updated: "1992-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002218"
+categorie: "Milieu"
 soort: "verdrag"
-stam_id: "10002704993"
-version_id: "10002703682"
-internal_id: "C10006990631"
-label_id: "10002692884"
-dtd_version: "2.0"
-original_entry_into_force: "1992-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002218/1992-03-01/0"
-intitule_bron: "Trb.1990-66"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1989-06-05"
-intitule_published: "1990-05-04"
-intitule_in_force: "1997-09-11"
-intitule_status: "goed"
-original_publication: "Trb.1990-66"
-original_signed_date: "1989-06-05"
-original_published_date: "1990-05-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1990-66"
-entry_into_force_date: "1992-03-01"
-jci_1_3: "jci1.3:c:BWBV0002218&z=1992-03-01&g=1992-03-01"
-jci_1_0: "1.0:c:BWBV0002218&g=1992-03-01"
-citeertitel_status: "officieel"
-signed_date: "1989-06-05"
-entry_into_force: "1992-03-01"
+publicatiedatum: 1992-03-01
+laatste_update: 1992-03-01
+status: geldig
+toestand: 1992-03-01
+bron: "https://wetten.overheid.nl/BWBV0002218"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst inzake het onderhoud van de in het grensgebied liggende watergang, achtereenvolgens genaamd Bimmensche Wetering, Zeeländische Wässerung en Hauptwässerung
 
-Genoemde watergang voert zowel Nederlands als Duits water af en bevindt zich zowel op Nederlands als Duits grondgebied (zie het in artikel 3 van deze overeenkomst genoemde plan).
-
-Van grenspaal 653 tot grenspaal 652 grensvormend.
-
-Van grenspaal 652 tot grenspaal 647 Nederlands.
-
-Van grenspaal 647 tot grenspaal 646 grensvormend.
-
-Van grenspaal 646 tot grenspaal 642 Duits.
-
-Gezien het gezamenlijke belang bij goed onderhoud van de watergang sluiten het polderdistrict Groot Maas en Waal, vertegenwoordigd door de dijkgraaf A. Th. J. M. Burgers
-
-en het Deichverband Kleve-Landesgrenze vertegenwoordigd door de Deichgraf Josef Püplichuisen met inachtneming van hoofdstuk 4, artikel 59, lid 2 van het Grensverdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland van 8 april 1960, de volgende overeenkomst:
+*Genoemde watergang voert zowel Nederlands als Duits water af en bevindt zich zowel op Nederlands als Duits grondgebied (zie het in artikel 3 van deze overeenkomst genoemde plan). Van grenspaal 653 tot grenspaal 652 grensvormend. Van grenspaal 652 tot grenspaal 647 Nederlands. Van grenspaal 647 tot grenspaal 646 grensvormend. Van grenspaal 646 tot grenspaal 642 Duits. Gezien het gezamenlijke belang bij goed onderhoud van de watergang sluiten het polderdistrict Groot Maas en Waal, vertegenwoordigd door de dijkgraaf A. Th. J. M. Burgers en het Deichverband Kleve-Landesgrenze vertegenwoordigd door de Deichgraf Josef Püplichuisen met inachtneming van hoofdstuk 4, artikel 59, lid 2 van het Grensverdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland van 8 april 1960, de volgende overeenkomst:*
 
 ##### Artikel 1
 
@@ -119,13 +85,13 @@ Zij treedt in werking een maand na de ontvangst door een van de partijen van de 
 
 GEDAAN te Druten d.d. 5 juni 1989 in viervoud, elk in de Duitse en Nederlandse taal, waarbij elke tekst gelijkelijk verbindend is.
 
-**Deichgräf van het Deichverband Kleve-Landesgrenze**
+*Deichgräf van het Deichverband Kleve-Landesgrenze*
 
 (w.g.) J. PÜPLICHHUISEN
 
 J. Püplichhuisen
 
-**Dijkgraaf van het polderdistrict Groot Maas en Waal**
+*Dijkgraaf van het polderdistrict Groot Maas en Waal*
 
 (w.g.) A. Th. J. M. BURGERS
 

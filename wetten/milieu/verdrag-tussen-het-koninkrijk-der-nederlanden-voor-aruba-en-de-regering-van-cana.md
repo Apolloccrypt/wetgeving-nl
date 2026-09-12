@@ -1,89 +1,49 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden, voor Aruba, en de Regering van Canada inzake luchtvervoer"
 identifier: "BWBV0001947"
-country: "nl"
-rank: "verdrag"
-publication_date: "2005-12-19"
-last_updated: "2005-02-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001947"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002579023"
-version_id: "10002569922"
-internal_id: "C10006994191"
-label_id: "10002568594"
-dtd_version: "2.0"
-original_entry_into_force: "2005-12-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001947/2005-12-19/0"
-intitule_bron: "Trb.2005-167"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-12-15"
-intitule_published: "2005-06-10"
-intitule_in_force: "2006-05-12"
-intitule_status: "goed"
-original_publication: "Trb.2005-167"
-original_signed_date: "2005-12-15"
-original_published_date: "2005-06-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2005-167"
-entry_into_force_date: "2005-12-19"
-jci_1_3: "jci1.3:c:BWBV0001947&z=2005-12-19&g=2005-12-19"
-jci_1_0: "1.0:c:BWBV0001947&g=2005-12-19"
-citeertitel_status: "redactioneel"
-signed_date: "2005-12-15"
-entry_into_force: "2005-12-19"
+publicatiedatum: 2005-12-19
+laatste_update: 2005-12-19
+status: geldig
+toestand: 2005-12-19
+bron: "https://wetten.overheid.nl/BWBV0001947"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden, voor Aruba, en de Regering van Canada inzake luchtvervoer
 
-The Kingdom of the Netherlands in respect of Aruba
-
-and
-
-the Government of Canada,
-
-hereinafter referred to as the ``Contracting Parties",
-
-Being parties to the Convention on International Civil Aviation opened for signature at Chicago, on the 7th day of December, 1944,
-
-Desiring to ensure the highest degree of safety and security in international air transportation,
-
-Recognizing the importance of international air transportation in promoting trade, tourism and investment,
-
-Desiring to promote their interests in respect of international air transportation,
-
-Desiring to conclude an agreement on air transport, supplementary to the said Convention and replacing the Air Transport Agreement between the Government of the Kingdom of the Netherlands and the Government of Canada, done at Ottawa on the 17th day of June, 1974, as regards air transport services between Canada and Aruba,
-
-Have agreed as follows:
+*The Kingdom of the Netherlands in respect of Aruba and the Government of Canada, hereinafter referred to as the ``Contracting Parties", Being parties to the Convention on International Civil Aviation opened for signature at Chicago, on the 7th day of December, 1944, Desiring to ensure the highest degree of safety and security in international air transportation, Recognizing the importance of international air transportation in promoting trade, tourism and investment, Desiring to promote their interests in respect of international air transportation, Desiring to conclude an agreement on air transport, supplementary to the said Convention and replacing the Air Transport Agreement between the Government of the Kingdom of the Netherlands and the Government of Canada, done at Ottawa on the 17th day of June, 1974, as regards air transport services between Canada and Aruba, Have agreed as follows:*
 
 ##### Article I. Definitions
 
 For the purpose of this Agreement, unless otherwise stated:
 
-- a). ``Aeronautical authorities" means, in the case of Canada, the Minister of Transport and the Canadian Transportation Agency and, in the case of the Kingdom of the Netherlands in respect of Aruba, the Minister of Tourism and Transport and the Department of Civil Aviation of Aruba or, in both cases, any other authority or person empowered to perform the functions exercised by the said authorities;
+- a) ``Aeronautical authorities" means, in the case of Canada, the Minister of Transport and the Canadian Transportation Agency and, in the case of the Kingdom of the Netherlands in respect of Aruba, the Minister of Tourism and Transport and the Department of Civil Aviation of Aruba or, in both cases, any other authority or person empowered to perform the functions exercised by the said authorities;
 
-- b). ``Agreed services" means scheduled air services on the routes specified in this Agreement for the transport of passengers and cargo, including mail, separately or in combination;
+- b) ``Agreed services" means scheduled air services on the routes specified in this Agreement for the transport of passengers and cargo, including mail, separately or in combination;
 
-- c). ``Agreement" means this Agreement, any Annex attached thereto, and any amendments to the Agreement or to any Annex;
+- c) ``Agreement" means this Agreement, any Annex attached thereto, and any amendments to the Agreement or to any Annex;
 
-- d). ``Convention" means the Convention on International Civil Aviation opened for signature at Chicago on the seventh day of December 1944 and includes any Annex adopted under Article 90 of that Convention and any amendment of the Annexes or of the Convention under Articles 90 and 94 thereof so far as those Annexes and amendments have been adopted by both Contracting Parties;
+- d) ``Convention" means the Convention on International Civil Aviation opened for signature at Chicago on the seventh day of December 1944 and includes any Annex adopted under Article 90 of that Convention and any amendment of the Annexes or of the Convention under Articles 90 and 94 thereof so far as those Annexes and amendments have been adopted by both Contracting Parties;
 
-- e). ``Designated airline" means an airline which has been designated and authorized in accordance with Articles IV and V of this Agreement;
+- e) ``Designated airline" means an airline which has been designated and authorized in accordance with Articles IV and V of this Agreement;
 
-- f). ``Change of Aircraft" refers to the operation of one of the agreed services in such a way that one section of the route is flown by a different aircraft from that used on another section;
+- f) ``Change of Aircraft" refers to the operation of one of the agreed services in such a way that one section of the route is flown by a different aircraft from that used on another section;
 
-- g). ``Territory" in the case of Canada has the meaning assigned to it in Article 2 of the Convention; and in the case of the Kingdom of the Netherlands in respect of Aruba, the land area of Aruba and the territorial waters adjacent thereto; and
+- g) ``Territory" in the case of Canada has the meaning assigned to it in Article 2 of the Convention; and in the case of the Kingdom of the Netherlands in respect of Aruba, the land area of Aruba and the territorial waters adjacent thereto; and
 
-- h). ``Air services", ``International air service", ``Airline" and ``Stop for non-traffic purposes" have the meaning assigned to them in Article 96 of the Convention.
+- h) ``Air services", ``International air service", ``Airline" and ``Stop for non-traffic purposes" have the meaning assigned to them in Article 96 of the Convention.
 
 ##### Article II. Grant of Rights
 
 1. Each Contracting Party grants to the other Contracting Party the following rights for the conduct of international air services by the airline or airlines designated by that other Contracting Party:
 
-- a). The right to fly without landing across its territory;
+- a) The right to fly without landing across its territory;
 
-- b). the right to land in its territory for non-traffic purposes; and
+- b) the right to land in its territory for non-traffic purposes; and
 
-- c). to the extent permitted in this Agreement, the right to make stops in its territory on the routes specified in this Agreement for the purpose of taking up and discharging international traffic in passengers and cargo, including mail, separately or in combination.
+- c) to the extent permitted in this Agreement, the right to make stops in its territory on the routes specified in this Agreement for the purpose of taking up and discharging international traffic in passengers and cargo, including mail, separately or in combination.
 
 2. The airlines of each Contracting Party, other than those designated under Article IV of this Agreement, shall also enjoy the rights specified in paragraphs 1(a) and (b) of this Article.
 
@@ -93,21 +53,21 @@ For the purpose of this Agreement, unless otherwise stated:
 
 1. A designated airline of one Contracting Party may make a change of aircraft at any point or points in the territory of the other Contracting Party or at any intermediate point or points in third countries on the routes specified in this Agreement provided that:
 
-- a). a designated airline shall not provide, or represent itself by advertisement or otherwise as providing, any service other than an agreed service on the routes specified in this Agreement;
+- a) a designated airline shall not provide, or represent itself by advertisement or otherwise as providing, any service other than an agreed service on the routes specified in this Agreement;
 
-- b). where an agreed service involves a change of aircraft, the operator of the aircraft and the aircraft type shall be identified in all transportation documents, service schedules, timetables, computer reservation systems, electronic displays and any other public advertising of the air service;
+- b) where an agreed service involves a change of aircraft, the operator of the aircraft and the aircraft type shall be identified in all transportation documents, service schedules, timetables, computer reservation systems, electronic displays and any other public advertising of the air service;
 
-- c). the aircraft operating on the sector more distant from the territory of the Contracting Party designating the airline shall operate in connection with the aircraft on the nearer sector for the purpose of providing continuous transportation through the point of change and, for own-aircraft operations, the capacity provided on the more distant sector shall be determined with primary reference to this purpose;
+- c) the aircraft operating on the sector more distant from the territory of the Contracting Party designating the airline shall operate in connection with the aircraft on the nearer sector for the purpose of providing continuous transportation through the point of change and, for own-aircraft operations, the capacity provided on the more distant sector shall be determined with primary reference to this purpose;
 
-- d). where a designated airline of one Contracting Party makes a change of aircraft in the territory of the other Contracting Party with its own aircraft, and when more than one aircraft is operated beyond the point of change, the number of flights on the sector of the route more distant from the territory of the Contracting Party designating the airline shall not exceed the number of flights on the nearer sector, unless specifically provided for in this Agreement or otherwise authorized by the aeronautical authorities of that other Contracting Party; and
+- d) where a designated airline of one Contracting Party makes a change of aircraft in the territory of the other Contracting Party with its own aircraft, and when more than one aircraft is operated beyond the point of change, the number of flights on the sector of the route more distant from the territory of the Contracting Party designating the airline shall not exceed the number of flights on the nearer sector, unless specifically provided for in this Agreement or otherwise authorized by the aeronautical authorities of that other Contracting Party; and
 
-- e). all operations involving change of aircraft shall be conducted in conformity with the capacity provisions of this Agreement.
+- e) all operations involving change of aircraft shall be conducted in conformity with the capacity provisions of this Agreement.
 
 2. The provisions of paragraph 1 of this Article shall:
 
-- a). not restrict the right of a designated airline to change aircraft in the territory of the Contracting Party designating that airline; and
+- a) not restrict the right of a designated airline to change aircraft in the territory of the Contracting Party designating that airline; and
 
-- b). not allow a designated airline of one Contracting Party to station its own aircraft in the territory of the other Contracting Party for the purpose of change of aircraft.
+- b) not allow a designated airline of one Contracting Party to station its own aircraft in the territory of the other Contracting Party for the purpose of change of aircraft.
 
 ##### Article IV. Designation
 
@@ -123,13 +83,13 @@ Each Contracting Party shall have the right to designate, by diplomatic note, an
 
 1. The aeronautical authorities of each Contracting Party shall have the right to withhold the authorizations referred to in Article V of this Agreement with respect to an airline designated by the other Contracting Party, and to revoke, suspend or impose conditions on such authorizations, temporarily or permanently:
 
-- a). in the event of failure by such airline to qualify under the laws and regulations normally applied by the aeronautical authorities of the Contracting Party granting the rights;
+- a) in the event of failure by such airline to qualify under the laws and regulations normally applied by the aeronautical authorities of the Contracting Party granting the rights;
 
-- b). in the event of failure by such airline to comply with the laws and regulations of the Contracting Party granting the rights;
+- b) in the event of failure by such airline to comply with the laws and regulations of the Contracting Party granting the rights;
 
-- c). in the event that they are not satisfied that substantial ownership and effective control of the airline are vested in the Contracting Party designating the airline or its nationals or both; and
+- c) in the event that they are not satisfied that substantial ownership and effective control of the airline are vested in the Contracting Party designating the airline or its nationals or both; and
 
-- d). in the event the airline otherwise fails to operate in accordance with the conditions prescribed under this Agreement.
+- d) in the event the airline otherwise fails to operate in accordance with the conditions prescribed under this Agreement.
 
 2. Unless immediate action is essential to prevent infringement of the laws and regulations referred to above or unless safety or security requires action in accordance with the provisions of Articles VIII or IX, the rights enumerated in paragraph 1 of this Article shall be exercised only after consultations between the aeronautical authorities in conformity with Article XXI of this Agreement.
 
@@ -187,11 +147,11 @@ Each Contracting Party shall have the right to designate, by diplomatic note, an
 
 4. Provision for the carriage of passengers and cargo, including mail, both taken up and discharged at points on the specified routes in the territories of States other than that designating the airline shall be made in accordance with the general principle that capacity shall be related to:
 
-- a). traffic requirements to and from the territory of the Contracting Party which has designated the airline;
+- a) traffic requirements to and from the territory of the Contracting Party which has designated the airline;
 
-- b). traffic requirements of the area through which the airline passes after taking account of other transport services established by airlines of the States comprising the area; and
+- b) traffic requirements of the area through which the airline passes after taking account of other transport services established by airlines of the States comprising the area; and
 
-- c). the requirements of through airline operation.
+- c) the requirements of through airline operation.
 
 5. Each designated airline of a Contracting Party shall be free to use its commercial judgement with respect to the capacity to be provided consistent with the principles set out in this Article. Neither Contracting Party or its aeronautical authorities may unilaterally impose any restrictions on the designated airline or airlines of the other Contracting Party with respect to capacity, frequency or type of aircraft employed in connection with services over any of the routes specified in the Annex to the Agreement.
 
@@ -207,11 +167,11 @@ Each Contracting Party shall have the right to designate, by diplomatic note, an
 
 2. The exemptions granted by this Article shall apply to the items referred to in paragraph 1 of this Article:
 
-- a). introduced into the territory of one Contracting Party by or on behalf of a designated airline of the other Contracting Party;
+- a) introduced into the territory of one Contracting Party by or on behalf of a designated airline of the other Contracting Party;
 
-- b). retained on board aircraft of a designated airline of one Contracting Party upon arriving in or leaving the territory of the other Contracting Party; and
+- b) retained on board aircraft of a designated airline of one Contracting Party upon arriving in or leaving the territory of the other Contracting Party; and
 
-- c). taken on board aircraft of a designated airline of one Contracting Party in the territory of the other Contracting Party; whether or not such items are used or consumed wholly within the territory of the Contracting Party granting the exemption, provided such items are not alienated in the territory of the said Contracting Party.
+- c) taken on board aircraft of a designated airline of one Contracting Party in the territory of the other Contracting Party; whether or not such items are used or consumed wholly within the territory of the Contracting Party granting the exemption, provided such items are not alienated in the territory of the said Contracting Party.
 
 3. The regular airborne equipment, as well as the materials and supplies normally retained on board the aircraft of a designated airline of either Contracting Party, may be unloaded in the territory of the other Contracting Party only with the approval of the Customs authorities of that territory. In such case, they may be placed under the supervision of the said authorities up to such time as they are re-exported or otherwise disposed of in accordance with Customs regulations.
 
@@ -221,11 +181,11 @@ Each Contracting Party shall have the right to designate, by diplomatic note, an
 
 1. For the purpose of this Article,
 
-- a). ``Price" means any fare, rate or charge contained in tariffs (including frequent flyer plans or other benefits provided in association with air transportation) for the carriage of passengers (including their baggage) and/or cargo (excluding mail) on scheduled air services and the conditions directly governing the availability or applicability of such fare, rate or charge but excluding general terms and conditions of carriage;
+- a) ``Price" means any fare, rate or charge contained in tariffs (including frequent flyer plans or other benefits provided in association with air transportation) for the carriage of passengers (including their baggage) and/or cargo (excluding mail) on scheduled air services and the conditions directly governing the availability or applicability of such fare, rate or charge but excluding general terms and conditions of carriage;
 
-- b). ``General Terms and Conditions of Carriage" means those terms and conditions contained in tariffs which are broadly applicable to air transportation and not directly related to any price; and
+- b) ``General Terms and Conditions of Carriage" means those terms and conditions contained in tariffs which are broadly applicable to air transportation and not directly related to any price; and
 
-- c). the term ``match" means the continuation or introduction, on a timely basis, of an identical or similar (but not lower) price.
+- c) the term ``match" means the continuation or introduction, on a timely basis, of an identical or similar (but not lower) price.
 
 2. Prices for carriage by the designated airline or airlines of one Contracting Party to or from the territory of the other Contracting Party shall be established at reasonable levels due regard being paid to all relevant factors including the interests of users, cost of operation, characteristics of service, reasonable profit, prices of other airlines and other commercial considerations in the marketplace.
 
@@ -265,17 +225,17 @@ Each Contracting Party shall have the right to designate, by diplomatic note, an
 
 4. In this Article:
 
-- a). the term ``profits or income" includes gross receipts and revenues derived directly from the operation of aircraft in international traffic, including:
+- a) the term ``profits or income" includes gross receipts and revenues derived directly from the operation of aircraft in international traffic, including:
 
-- (i). the charter or rental of aircraft;
+   - (i) the charter or rental of aircraft;
 
-- (ii). the sale of air transportation, either for the airline itself or for any other airline; and
+   - (ii) the sale of air transportation, either for the airline itself or for any other airline; and
 
-- (iii). interest from earnings, provided that such earnings are related to the operation of aircraft in international traffic;
+   - (iii) interest from earnings, provided that such earnings are related to the operation of aircraft in international traffic;
 
-- b). the term ``international traffic" means the transportation of persons and/or cargo, including mail, except when such transportation is solely between points in the territory of one Contracting Party; and
+- b) the term ``international traffic" means the transportation of persons and/or cargo, including mail, except when such transportation is solely between points in the territory of one Contracting Party; and
 
-- c). the term ``airline of one Contracting Party" means an airline incorporated in and having its principal place of business in the territory of that Contracting Party.
+- c) the term ``airline of one Contracting Party" means an airline incorporated in and having its principal place of business in the territory of that Contracting Party.
 
 ##### Article XVII. Airline Representatives
 
@@ -285,9 +245,9 @@ Each Contracting Party shall have the right to designate, by diplomatic note, an
 
 3. The representatives and staff shall be subject to the laws and regulations in force of the other Contracting Party, and consistent with such laws and regulations:
 
-- a). each Contracting Party shall, on the basis of reciprocity and with the minimum of delay, grant the necessary employment authorizations, visitor visas or other similar documents to the representatives and staff referred to in paragraph 1 of this Article; and
+- a) each Contracting Party shall, on the basis of reciprocity and with the minimum of delay, grant the necessary employment authorizations, visitor visas or other similar documents to the representatives and staff referred to in paragraph 1 of this Article; and
 
-- b). both Contracting Parties shall facilitate and expedite the requirement of employment authorizations for personnel performing certain temporary duties not exceeding ninety (90) days.
+- b) both Contracting Parties shall facilitate and expedite the requirement of employment authorizations for personnel performing certain temporary duties not exceeding ninety (90) days.
 
 ##### Article XVIII. Ground Handling
 
@@ -357,10 +317,10 @@ IN WITNESS WHEREOF, the undersigned, duly authorized thereto by their respective
 
 DONE in duplicate, at Oranjestad on this 16th day of February 2005, in the English and French languages, each version being equally authentic.
 
-**For the Kingdom of the Netherlands in respect of Aruba**
+*For the Kingdom of the Netherlands in respect of Aruba*
 
 N. O. ODUBER
 
-**For the Government of Canada**
+*For the Government of Canada*
 
 A. CULHAM

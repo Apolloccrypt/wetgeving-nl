@@ -1,115 +1,19 @@
 ---
 title: "Protocol bij de Euro-Mediterrane Overeenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Staat Israël, anderzijds, in verband met de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Hongarije, de Republiek Letland, de Republiek Litouwen, de Republiek Malta, de Republiek Polen, de Republiek Slovenië,en de Slowaakse Republiek tot de Europese Unie"
 identifier: "BWBV0001952"
-country: "nl"
-rank: "verdrag"
-publication_date: "2006-05-01"
-last_updated: "2004-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001952"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002581613"
-version_id: "10002572302"
-internal_id: "C10006997171"
-label_id: "10002570964"
-dtd_version: "2.0"
-original_entry_into_force: "2006-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001952/2006-05-01/0"
-intitule_bron: "Trb.2006-209"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-05-01"
-intitule_published: "2006-10-03"
-intitule_in_force: "2006-11-06"
-intitule_status: "goed"
-original_publication: "Trb.2006-209"
-original_signed_date: "2004-05-01"
-original_published_date: "2006-10-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2006-209"
-entry_into_force_date: "2006-05-01"
-jci_1_3: "jci1.3:c:BWBV0001952&z=2006-05-01&g=2006-05-01"
-jci_1_0: "1.0:c:BWBV0001952&g=2006-05-01"
-citeertitel_status: "redactioneel"
-signed_date: "2004-05-01"
-entry_into_force: "2006-05-01"
+publicatiedatum: 2006-05-01
+laatste_update: 2006-05-01
+status: geldig
+toestand: 2006-05-01
+bron: "https://wetten.overheid.nl/BWBV0001952"
+opgehaald: 2026-09-12
 ---
+
 # Protocol bij de Euro-Mediterrane Overeenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Staat Israël, anderzijds, in verband met de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Hongarije, de Republiek Letland, de Republiek Litouwen, de Republiek Malta, de Republiek Polen, de Republiek Slovenië,en de Slowaakse Republiek tot de Europese Unie
 
-het Koninkrijk België,
-
-de Tsjechische Republiek,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Republiek Estland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-Ierland,
-
-de Italiaanse Republiek,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-het Groothertogdom Luxemburg,
-
-de Republiek Hongarije,
-
-de Republiek Malta,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Republiek Polen,
-
-de Portugese Republiek,
-
-de Republiek Slovenië,
-
-de Slowaakse Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittanië en Noord-Ierland,
-
-(hierna „lidstaten’’ te noemen),
-
-vertegenwoordigd door de Raad van de Europese Unie, en
-
-de Europese Gemeenschap en de Europese Gemeenschap voor Atoomenergie,
-
-(hierna „de Gemeenschappen’’ te noemen),
-
-vertegenwoordigd door de Raad van de Europese Unie en de Europese Commissie,
-
-enerzijds,
-
-en de Staat Israël,
-
-anderzijds,
-
-Overwegende dat de Euro-mediterrane overeenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Staat Israël, anderzijds, hierna „de Euro-mediterrane overeenkomst’’ te noemen, op 20 november 1995 in Brussel is ondertekend en op 1 juni 2000 in werking is getreden,
-
-Overwegende dat het Verdrag betreffende de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie en de Akte betreffende de toetredingsvoorwaarden op 16 april 2003 te Athene werden ondertekend en op 1 mei 2004 in werking is getreden,
-
-Overwegende dat, uit hoofde van artikel 6, lid 2, van de Akte betreffende de toetredingsvoorwaarden, de toetreding van de nieuwe overeenkomstsluitende partijen tot de Euro-mediterrane overeenkomst moet worden overeengekomen door de sluiting van een protocol bij de Euro-mediterrane overeenkomst,
-
-Overwegende dat, overeenkomstig artikel 21 van de Euro-mediterrane overeenkomst, tussen de partijen overleg is gevoerd, teneinde de wederzijdse belangen van de Gemeenschap en Israël in aanmerking te kunnen nemen,
-
-Zijn het volgende overeengekomen:
+*het Koninkrijk België, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittanië en Noord-Ierland, (hierna „lidstaten’’ te noemen), vertegenwoordigd door de Raad van de Europese Unie, en de Europese Gemeenschap en de Europese Gemeenschap voor Atoomenergie, (hierna „de Gemeenschappen’’ te noemen), vertegenwoordigd door de Raad van de Europese Unie en de Europese Commissie, enerzijds, en de Staat Israël, anderzijds, Overwegende dat de Euro-mediterrane overeenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Staat Israël, anderzijds, hierna „de Euro-mediterrane overeenkomst’’ te noemen, op 20 november 1995 in Brussel is ondertekend en op 1 juni 2000 in werking is getreden, Overwegende dat het Verdrag betreffende de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie en de Akte betreffende de toetredingsvoorwaarden op 16 april 2003 te Athene werden ondertekend en op 1 mei 2004 in werking is getreden, Overwegende dat, uit hoofde van artikel 6, lid 2, van de Akte betreffende de toetredingsvoorwaarden, de toetreding van de nieuwe overeenkomstsluitende partijen tot de Euro-mediterrane overeenkomst moet worden overeengekomen door de sluiting van een protocol bij de Euro-mediterrane overeenkomst, Overwegende dat, overeenkomstig artikel 21 van de Euro-mediterrane overeenkomst, tussen de partijen overleg is gevoerd, teneinde de wederzijdse belangen van de Gemeenschap en Israël in aanmerking te kunnen nemen, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -123,19 +27,19 @@ In verband met recente institutionele ontwikkelingen binnen de Europese Unie kom
 
 ##### Artikel 3. Landbouwproducten
 
-Wijzigt de Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Staat Israël, anderzijds, Brussel, 23-02-2006
+*Wijzigt de Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Staat Israël, anderzijds, Brussel, 23-02-2006*
 
 ##### Artikel 4. Verwerkte landbouwproducten
 
-Wijzigt de Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Staat Israël, anderzijds, Brussel, 23-02-2006
+*Wijzigt de Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Staat Israël, anderzijds, Brussel, 23-02-2006*
 
 ##### Artikel 5. Oorsprongsregels
 
-Wijzigt de Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Staat Israël, anderzijds, Brussel, 23-02-2006
+*Wijzigt de Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Staat Israël, anderzijds, Brussel, 23-02-2006*
 
 ##### Artikel 6. Voorzitterschap van het Associatiecomité
 
-Wijzigt de Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Staat Israël, anderzijds, Brussel, 23-02-2006
+*Wijzigt de Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Staat Israël, anderzijds, Brussel, 23-02-2006*
 
 ### HOOFDSTUK II. OVERGANGSBEPALINGEN
 
@@ -167,7 +71,7 @@ Deze vergunningen worden uiterlijk een jaar na de toetredingsdatum vervangen doo
 
 - 2. In dergelijke gevallen kan preferentiële behandeling worden verleend, mits binnen vier maanden na de datum van toetreding bij de douaneautoriteiten van het land van invoer een bewijs van oorsprong wordt ingediend dat achteraf is afgegeven door de douaneautoriteiten van het land van uitvoer.
 
-## ALGMEMENE BEPALINGEN EN SLOTBEPALINGEN
+### ALGMEMENE BEPALINGEN EN SLOTBEPALINGEN
 
 ##### Artikel 9
 
@@ -200,5 +104,3 @@ Dit protocol is opgesteld in twee exemplaren in de Deense, de Duitse, de Engelse
 ##### Artikel 15
 
 De tekst van de Euro-mediterrane overeenkomst, de bijlagen en de protocollen die daarvan een integrerend deel vormen, de slotakte en de daaraan gehechte verklaringen worden opgemaakt in de Estse, de Hongaarse, de Letse, de Litouwse, de Maltese, de Poolse, de Sloveense, de Slowaakse en de Tsjechische taal, en die teksten zijn evenzeer authentiek als de oorspronkelijke teksten. De Associatieraad moet deze teksten goedkeuren.
-
-GEDAAN te Brussel, de drieëntwintigste februari tweeduizend zes.

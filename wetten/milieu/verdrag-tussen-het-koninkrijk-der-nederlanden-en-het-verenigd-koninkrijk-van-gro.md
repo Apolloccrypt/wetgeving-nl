@@ -1,69 +1,41 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake luchtdiensten tussen en via de Britse overzeese gebieden Anguilla, de Bermuda-eilanden, de Britse Maagdeneilanden, de Caymaneilanden, Montserrat en de Turks- en Caicoseilanden, enerzijds, en de Nederlandse Antillen, anderzijds"
 identifier: "BWBV0001975"
-country: "nl"
-rank: "verdrag"
-publication_date: "2007-12-07"
-last_updated: "2000-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001975"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002588803"
-version_id: "10002579982"
-internal_id: "C10006992441"
-label_id: "10002578164"
-dtd_version: "2.0"
-original_entry_into_force: "2000-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001975/2007-12-07/0"
-intitule_bron: "Trb.2000-35"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-08-25"
-intitule_published: "2000-04-07"
-intitule_in_force: "2001-01-17"
-intitule_status: "goed"
-original_publication: "Trb.2000-35"
-original_signed_date: "2000-08-25"
-original_published_date: "2000-04-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2000-35"
-entry_into_force_date: "2000-12-01"
-jci_1_3: "jci1.3:c:BWBV0001975&z=2007-12-07&g=2007-12-07"
-jci_1_0: "1.0:c:BWBV0001975&g=2007-12-07"
-citeertitel_status: "redactioneel"
-signed_date: "2000-08-25"
-entry_into_force: "2000-12-01"
+publicatiedatum: 2000-12-01
+laatste_update: 2007-12-07
+status: geldig
+toestand: 2007-12-07
+bron: "https://wetten.overheid.nl/BWBV0001975"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake luchtdiensten tussen en via de Britse overzeese gebieden Anguilla, de Bermuda-eilanden, de Britse Maagdeneilanden, de Caymaneilanden, Montserrat en de Turks- en Caicoseilanden, enerzijds, en de Nederlandse Antillen, anderzijds
 
-The Kingdom of the Netherlands and the United Kingdom of Great Britain and Northern Ireland (hereinafter referred to as the “Contracting Parties");
-
-Being parties to the Convention on International Civil Aviation opened for signature at Chicago on 7 December 1944;
-
-Desiring to conclude an Agreement supplementary to the said Convention for the purpose of establishing air services between and beyond the United Kingdom Overseas Territories of Anguilla, Bermuda, the British Virgin Islands, the Cayman Islands, Montserrat and the Turks and Caicos Islands on the one hand, and the Netherlands Antilles on the other;
-
-Have agreed as follows:
+*The Kingdom of the Netherlands and the United Kingdom of Great Britain and Northern Ireland (hereinafter referred to as the “Contracting Parties"); Being parties to the Convention on International Civil Aviation opened for signature at Chicago on 7 December 1944; Desiring to conclude an Agreement supplementary to the said Convention for the purpose of establishing air services between and beyond the United Kingdom Overseas Territories of Anguilla, Bermuda, the British Virgin Islands, the Cayman Islands, Montserrat and the Turks and Caicos Islands on the one hand, and the Netherlands Antilles on the other; Have agreed as follows:*
 
 ##### Article 1. Definitions
 
 For the purpose of this Agreement, unless the context otherwise requires:
 
-- a). the term “the Chicago Convention" means the Convention on International Civil Aviation, opened for signature at Chicago on 7 December 1944 and includes:
+- a) the term “the Chicago Convention" means the Convention on International Civil Aviation, opened for signature at Chicago on 7 December 1944 and includes:
 
-- (i). any amendment thereof and has been ratified by both Contracting Parties; and
+   - (i) any amendment thereof and has been ratified by both Contracting Parties; and
 
-- (ii). any Annex or any amendment thereto adopted under Article 90 of that Convention, insofar as such amendment or annex is at any given time effective for both Contracting Parties;
+   - (ii) any Annex or any amendment thereto adopted under Article 90 of that Convention, insofar as such amendment or annex is at any given time effective for both Contracting Parties;
 
-- b). the term “aeronautical authorities" means in the case of the United Kingdom, the Secretary of State for the Environment, Transport and the Regions, and for the purpose of Article 7 of this Agreement, the Civil Aviation Authority and in the case of the Kingdom of the Netherlands, the Minister of Transport and Communications of the Netherlands Antilles, or, in both cases, any person or body who may be authorised to perform any functions at present exercisable by the above-mentioned authorities or similar functions;
+- b) the term “aeronautical authorities" means in the case of the United Kingdom, the Secretary of State for the Environment, Transport and the Regions, and for the purpose of Article 7 of this Agreement, the Civil Aviation Authority and in the case of the Kingdom of the Netherlands, the Minister of Transport and Communications of the Netherlands Antilles, or, in both cases, any person or body who may be authorised to perform any functions at present exercisable by the above-mentioned authorities or similar functions;
 
-- c). the term “designated airline" means an airline which has been designated and authorised in accordance with Article 4 of this Agreement;
+- c) the term “designated airline" means an airline which has been designated and authorised in accordance with Article 4 of this Agreement;
 
-- d). the term “territory" means in relation to the United Kingdom the land areas of Anguilla, Bermuda, the British Virgin Islands, the Cayman Islands, Montserrat and the Turks and Caicos Islands and the territorial waters adjacent thereto and in relation to the Kingdom of the Netherlands the land areas of the Netherlands Antilles and the territorial waters adjacent thereto;
+- d) the term “territory" means in relation to the United Kingdom the land areas of Anguilla, Bermuda, the British Virgin Islands, the Cayman Islands, Montserrat and the Turks and Caicos Islands and the territorial waters adjacent thereto and in relation to the Kingdom of the Netherlands the land areas of the Netherlands Antilles and the territorial waters adjacent thereto;
 
-- e). the terms “air service", “international air service", “airline" and “stop for non-traffic purposes" have the meanings respectively assigned to them in Article 96 of the Chicago Convention;
+- e) the terms “air service", “international air service", “airline" and “stop for non-traffic purposes" have the meanings respectively assigned to them in Article 96 of the Chicago Convention;
 
-- f). the term “this Agreement" includes the Annex hereto and any amendments to it or to this Agreement;
+- f) the term “this Agreement" includes the Annex hereto and any amendments to it or to this Agreement;
 
-- g). the term “user charges" means a charge made to airlines by the competent authority or permitted by that authority to be made for the provision of airport property or facilities or of air navigation facilities, including related services and facilities, for aircraft, their crews, passengers and cargo.
+- g) the term “user charges" means a charge made to airlines by the competent authority or permitted by that authority to be made for the provision of airport property or facilities or of air navigation facilities, including related services and facilities, for aircraft, their crews, passengers and cargo.
 
 ##### Article 2. Applicability of the Chicago Convention
 
@@ -73,9 +45,9 @@ The provisions of this Agreement shall be subject to the provisions of the Chica
 
 1. Each Contracting Party grants to the other Contracting Party the following rights in respect of its international air services:
 
-- a). the right to fly across its territory without landing;
+- a) the right to fly across its territory without landing;
 
-- b). the right to make stops in its territory for non-traffic purposes.
+- b) the right to make stops in its territory for non-traffic purposes.
 
 2. Each Contracting Party grants to the other Contracting Party the rights hereinafter specified in this Agreement for the purpose of operating international air services on the routes specified in the appropriate Section of the Schedule annexed to this Agreement. Such services and routes are hereinafter called “the agreed services" and “the specified routes" respectively. While operating an agreed service on a specified route the airline or airlines designated by each Contracting Party shall enjoy in addition to the rights specified in paragraph 1 of this Article the right to make stops in the territory of the other Contracting Party at the points specified for that route in the Schedule to this Agreement for the purpose of taking on board and discharging passengers and cargo, including mail.
 
@@ -99,11 +71,11 @@ The provisions of this Agreement shall be subject to the provisions of the Chica
 
 1. Each Contracting Party may revoke an operating authorisation or suspend the exercise of the rights specified in Article 3, paragraph 2, of this Agreement by an airline designated by the other Contracting Party, or impose such conditions as it may deem necessary on the exercise of those rights:
 
-- a). in any case where it is not satisfied that substantial ownership and effective control of that airline are vested in the Contracting Party designating the airline or in nationals of such Contracting Party; or
+- a) in any case where it is not satisfied that substantial ownership and effective control of that airline are vested in the Contracting Party designating the airline or in nationals of such Contracting Party; or
 
-- b). in the case of failure by that airline to comply with the laws or regulations normally and reasonably applied by the Contracting Party granting those rights; or
+- b) in the case of failure by that airline to comply with the laws or regulations normally and reasonably applied by the Contracting Party granting those rights; or
 
-- c). if the airline otherwise fails to operate in accordance with the conditions prescribed under this Agreement.
+- c) if the airline otherwise fails to operate in accordance with the conditions prescribed under this Agreement.
 
 2. Unless immediate revocation, suspension or imposition of the conditions mentioned in paragraph 1 of this Article is essential to prevent further infringements of laws or regulations, such right shall be exercised only after consultation with the other Contracting Party.
 
@@ -115,25 +87,25 @@ The provisions of this Agreement shall be subject to the provisions of the Chica
 
 3. The agreed services provided by the designated airlines of the Contracting Parties shall bear a close relationship to the requirements of the public for transportation on the specified routes and shall have as their primary objective the provision at a reasonable load factor of capacity adequate to carry the current and reasonably anticipated requirements for the carriage of passengers and cargo, including mail, coming from or destined for the territory of the Contracting Party which has designated the airline. Provision for the carriage of passengers and cargo, including mail, both taken on board and discharged at points on the specified routes in the territories of States other than that designating the airline shall be made in accordance with the general principles that capacity shall be related to:
 
-- a). traffic requirements to and from the territory of the Contracting Party which has designated the airline;
+- a) traffic requirements to and from the territory of the Contracting Party which has designated the airline;
 
-- b). traffic requirements of the area through which the agreed service passes, after taking account of other transport services established by airlines of the States comprising the area; and
+- b) traffic requirements of the area through which the agreed service passes, after taking account of other transport services established by airlines of the States comprising the area; and
 
-- c). the requirements of through airline operation.
+- c) the requirements of through airline operation.
 
 ##### Article 7. Tariffs
 
-- a). The term “tariff" means:
+1. - a) The term “tariff" means:
 
-- (i). the price to be charged for the carriage of passengers, baggage or cargo (excluding mail);
+   - (i) the price to be charged for the carriage of passengers, baggage or cargo (excluding mail);
 
-- (ii). the additional goods, services or other benefits to be furnished or made available in conjunction with such carriage or as a matter which is incidental thereto or consequential thereon; and
+   - (ii) the additional goods, services or other benefits to be furnished or made available in conjunction with such carriage or as a matter which is incidental thereto or consequential thereon; and
 
-- (iii). the prices to be charged for such additional goods, services or benefits; and includes the conditions that are to govern the applicability of any such price and the furnishing or availability of any such goods, services or benefits.
+   - (iii) the prices to be charged for such additional goods, services or benefits; and includes the conditions that are to govern the applicability of any such price and the furnishing or availability of any such goods, services or benefits.
 
-- (iv). the rate of commission paid by an airline to an agent in respect of tickets sold or air waybills completed by that agent for carriage on scheduled air services.
+   - (iv) the rate of commission paid by an airline to an agent in respect of tickets sold or air waybills completed by that agent for carriage on scheduled air services.
 
-- b). Where fares or rates differ according to the season, day of the week or time of the day on which a flight is operated, the direction of travel or according to some other factor, each different fare or rate shall be regarded as a separate tariff whether or not it has been filed separately with the related conditions with the relevant authorities.
+- b) Where fares or rates differ according to the season, day of the week or time of the day on which a flight is operated, the direction of travel or according to some other factor, each different fare or rate shall be regarded as a separate tariff whether or not it has been filed separately with the related conditions with the relevant authorities.
 
 2. The tariffs to be charged by the designated airlines of the Contracting Parties for carriage between their territories shall be those approved by the aeronautical authorities of both Contracting Parties and shall be established at reasonable levels, due regard being paid to all relevant factors, including the cost of operating the agreed services, the interests of users, reasonable profit and market considerations.
 
@@ -141,13 +113,13 @@ The provisions of this Agreement shall be subject to the provisions of the Chica
 
 4. Each proposed tariff for carriage between the territories of the Contracting Parties shall be filed by the designated airline seeking approval for it with the aeronautical authorities of both Contracting Parties in such form as the aeronautical authority of each Contracting Party may require to disclose the particulars referred to in paragraph 1 of this Article. It shall be filed not less than 30 days (or such shorter period as the aeronautical authorities of both Contracting Parties may agree) before the proposed effective date. Each proposed tariff shall be treated as having been filed with a Contracting Party on the date on which it is received by the aeronautical authority of that Contracting Party.
 
-- a). Each proposed tariff may be approved by the aeronautical authority of either Contracting Party at any time. In the absence of such approval and provided it has been filed in accordance with paragraph 4 of this Article, it will be treated as having been approved by the aeronautical authority of a Contracting Party 21 days after the date of filing unless within 20 days after the date of filing the aeronautical authority of that Contracting Party has served on the aeronautical authority of the other Contracting Party written notice of disapproval of the proposed tariff.
+5. - a) Each proposed tariff may be approved by the aeronautical authority of either Contracting Party at any time. In the absence of such approval and provided it has been filed in accordance with paragraph 4 of this Article, it will be treated as having been approved by the aeronautical authority of a Contracting Party 21 days after the date of filing unless within 20 days after the date of filing the aeronautical authority of that Contracting Party has served on the aeronautical authority of the other Contracting Party written notice of disapproval of the proposed tariff.
 
-- b). Each proposed tariff which has been filed in the form required by paragraph 4 of this Article, but not in conformity with the minimum filing period therein specified, shall nevertheless be treated as having been approved by the aeronautical authority of a Contracting Party 21 days after the date of filing unless the aeronautical authority of that Contracting Party has either:
+- b) Each proposed tariff which has been filed in the form required by paragraph 4 of this Article, but not in conformity with the minimum filing period therein specified, shall nevertheless be treated as having been approved by the aeronautical authority of a Contracting Party 21 days after the date of filing unless the aeronautical authority of that Contracting Party has either:
 
-- (i). notified the airline filing the proposed tariff within 15 days after the date of filing that the proposed tariff must be refiled in conformity with the minimum filing period, or
+   - (i) notified the airline filing the proposed tariff within 15 days after the date of filing that the proposed tariff must be refiled in conformity with the minimum filing period, or
 
-- (ii). served on the aeronautical authority of the other Contracting Party within 20 days after the date of filing written notice of disapproval of the proposed tariff.
+   - (ii) served on the aeronautical authority of the other Contracting Party within 20 days after the date of filing written notice of disapproval of the proposed tariff.
 
 6. In approving each tariff the aeronautical authority of a Contracting Party may attach to its approval such expiry date as it considers appropriate.
 
@@ -159,15 +131,15 @@ The provisions of this Agreement shall be subject to the provisions of the Chica
 
 10. Except with the agreement of the aeronautical authorities of both Contracting Parties, and for such period as they may agree, a tariff shall not be prolonged by virtue of paragraph (9) of this Article:
 
-- a). where a tariff has an expiry date, for more than 12 months after that date;
+- a) where a tariff has an expiry date, for more than 12 months after that date;
 
-- b). where a tariff has no expiry date, for more than 12 months after the date on which the designated airline or airlines of one Contracting Party or both, file a replacement tariff with the aeronautical authorities of the Contracting Parties.
+- b) where a tariff has no expiry date, for more than 12 months after the date on which the designated airline or airlines of one Contracting Party or both, file a replacement tariff with the aeronautical authorities of the Contracting Parties.
 
 11. Notwithstanding paragraphs 4–10 above, the aeronautical authority of the United Kingdom does not require the filing for its approval of tariffs for the carriage of cargo between points in the territories of the two Contracting Parties. In such cases, references in paragraphs 4–10 above to receipt of filings shall be deemed to refer to the receipt of such filings by the Netherlands Antilles Government.
 
-- a). The tariffs to be charged by a designated airline of one Contracting Party for carriage between the territory of the other Contracting Party and a third State shall be filed for the approval of the aeronautical authority of the other Contracting Party. Each tariff filed shall be given approval if it is identical in level, conditions and date of expiry to a tariff currently approved by that aeronautical authority and applied by a designated airline of that other Contracting Party for carriage between its territory and that of the third State, provided that the aeronautical authority may withdraw its approval if the tariff being matched is discontinued for any reason, or may vary the terms of the approval to correspond to any approved variation in the tariff being matched.
+12. - a) The tariffs to be charged by a designated airline of one Contracting Party for carriage between the territory of the other Contracting Party and a third State shall be filed for the approval of the aeronautical authority of the other Contracting Party. Each tariff filed shall be given approval if it is identical in level, conditions and date of expiry to a tariff currently approved by that aeronautical authority and applied by a designated airline of that other Contracting Party for carriage between its territory and that of the third State, provided that the aeronautical authority may withdraw its approval if the tariff being matched is discontinued for any reason, or may vary the terms of the approval to correspond to any approved variation in the tariff being matched.
 
-- b). Notwithstanding sub-paragraph a) above, the aeronautical authority of the United Kingdom does not require the filing for its approval of tariffs to be charged by the designated airline or airlines of the Netherlands Antilles for the carriage of cargo between the territory of the United Kingdom and the third State.
+- b) Notwithstanding sub-paragraph a) above, the aeronautical authority of the United Kingdom does not require the filing for its approval of tariffs to be charged by the designated airline or airlines of the Netherlands Antilles for the carriage of cargo between the territory of the United Kingdom and the third State.
 
 ##### Article 8. Customs Duties
 
@@ -217,9 +189,9 @@ Either Contracting Party may at any time request consultations on the implementa
 
 2. If the Contracting Parties fail to reach a settlement of the dispute by negotiation, it may be referred by them to such person or body as they may agree on or, at the request of either Contracting Party, shall be submitted for decision to a tribunal of three arbitrators which shall be constituted in the following manner:
 
-- a). within 30 days after receipt of a request for arbitration each Contracting Party shall appoint one arbitrator. A national of a third State, who shall act as President of the tribunal, shall be appointed as the third arbitrator by agreement between the two arbitrators, within 60 days of the appointment of the second;
+- a) within 30 days after receipt of a request for arbitration each Contracting Party shall appoint one arbitrator. A national of a third State, who shall act as President of the tribunal, shall be appointed as the third arbitrator by agreement between the two arbitrators, within 60 days of the appointment of the second;
 
-- b). if within the time limits specified above any appointment has not been made, either Contracting Party may request the President of the International Court of Justice to make the necessary appointment within 30 days. If the President has the nationality of one of the Contracting Parties, the Vice-President shall be requested to make the appointment. If the Vice-President has the nationality of one of the Contracting Parties, the Member of the International Court of Justice next in seniority who does not have the nationality of one of the Contracting Parties shall be requested to make the appointment.
+- b) if within the time limits specified above any appointment has not been made, either Contracting Party may request the President of the International Court of Justice to make the necessary appointment within 30 days. If the President has the nationality of one of the Contracting Parties, the Vice-President shall be requested to make the appointment. If the Vice-President has the nationality of one of the Contracting Parties, the Member of the International Court of Justice next in seniority who does not have the nationality of one of the Contracting Parties shall be requested to make the appointment.
 
 3. Except as hereinafter provided in this Article or as otherwise agreed by the Contracting Parties, the tribunal shall determine the limits of its jurisdiction and establish its own procedure. At the direction of the tribunal, or at the request of either of the Contracting Parties, a conference to determine the precise issues to be arbitrated and the specific procedures to be followed shall be held not later than 30 days after the tribunal is fully constituted.
 
@@ -257,10 +229,10 @@ IN WITNESS WHEREOF, the undersigned, being duly authorised by their respective G
 
 DONE, in duplicate, at London this tenth day of January 2000 in the English language.
 
-**For the Government of the Kingdom of the Netherlands**
+*For the Government of the Kingdom of the Netherlands*
 
 (sd.) M. H. P. Ph. ADRIAENS
 
-**For the Government of the United Kingdom of Great Britain and Northern Ireland**
+*For the Government of the United Kingdom of Great Britain and Northern Ireland*
 
 (sd.) C. MULLIN

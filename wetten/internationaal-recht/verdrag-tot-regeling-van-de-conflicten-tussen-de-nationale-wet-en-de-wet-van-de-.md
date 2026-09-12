@@ -1,116 +1,92 @@
 ---
 title: "Verdrag tot regeling van de conflicten tussen de nationale wet en de wet van de woonplaats"
 identifier: "BWBV0002026"
-country: "nl"
-rank: "verdrag"
-publication_date: "1955-06-15"
-last_updated: "1955-06-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002026"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002631043"
-version_id: "10002627852"
-internal_id: "C10006990611"
-label_id: "10002620084"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002026/1955-06-15/0"
-intitule_bron: "Trb.1955-84"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1960-12-22"
-intitule_published: "1955-07-11"
-intitule_status: "nogniet"
-original_publication: "Trb.1955-84"
-original_signed_date: "1960-12-22"
-original_published_date: "1955-07-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1955-84"
-jci_1_3: "jci1.3:c:BWBV0002026&z=1955-06-15&g=1955-06-15"
-jci_1_0: "1.0:c:BWBV0002026&g=1955-06-15"
-citeertitel_status: "redactioneel"
-signed_date: "1960-12-22"
-entry_into_force: "1955-07-11"
+laatste_update: 1955-06-15
+status: geldig
+toestand: 1955-06-15
+bron: "https://wetten.overheid.nl/BWBV0002026"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tot regeling van de conflicten tussen de nationale wet en de wet van de woonplaats
 
-De Staten die dit Verdrag hebben ondertekend;
+*Les Etats signataires de la présente Convention; Désirant établir des dispositions communes concernant une réglementation des conflits entre la loi nationale et la loi du domicile; Ont résolu de conclure une Convention à cet effet et sont convenus des dispositions suivantes:*
 
-Verlangend gemeenschappelijke bepalingen vast te stellen nopens een regeling van de conflicten tussen de nationale wet en de wet van de woonplaats;
+##### Article 1er
 
-Hebben besloten te dien einde een Verdrag te sluiten en zijn overeengekomen als volgt:
+Lorsque l'Etat, où la personne intéressée est domiciliée, prescrit l'application de la loi nationale, mais que l'Etat, dont cette personne est ressortissante, prescrit l'application de la loi du domicile, tout Etat contractant appliquera les dispositions du droit interne de la loi du domicile.
 
-##### Artikel 1
+##### Article 2
 
-Wanneer de Staat, waar de betrokken persoon woont, de toepassing van de nationale wet voorschrijft, terwijl de Staat, waarvan die persoon onderdaan is, de toepassing van de wet van de woonplaats voorschrijft, past iedere verdragsluitende Staat de bepalingen van intern recht van de wet van de woonplaats toe.
+Lorsque l'Etat, où la personne intéressée est domiciliée, et l'Etat, dont cette personne est ressortissante, prescrivent tous les deux l'application de la loi du domicile, tout Etat contractant appliquera les dispositions du droit interne de la loi du domicile.
 
-##### Artikel 2
+##### Article 3
 
-Wanneer de Staat, waar de betrokken persoon woont, en de Staat, waarvan deze persoon onderdaan is, beiden de toepassing van de wet van de woonplaats voorschrijven, past iedere verdragsluitende Staat de bepalingen van intern recht van de wet van de woonplaats toe.
+Lorsque l'Etat, où la personne intéressée est domiciliée, et l'Etat, dont cette personne est ressortissante, prescrivent tous les deux l'application de la loi nationale, tout Etat contractant appliquera les dispositions du droit interne de la loi nationale.
 
-##### Artikel 3
+##### Article 4
 
-Wanneer de Staat, waar de betrokken persoon woont en de Staat, waarvan deze persoon onderdaan is, beiden de toepassing van de nationale wet voorschrijven, past iedere verdragsluitende Staat de bepalingen van intern recht van de nationale wet toe.
+Aucun Etat contractant ne s'oblige à appliquer les règles édictées aux articles précédents, lorsque ses règles de droit international privé ne prescrivent l'application, au cas donné, ni de la loi du domicile, ni de la loi nationale.
 
-##### Artikel 4
+##### Article 5
 
-Geen der verdragsluitende Staten verplicht zich de regelen, gegeven bij de vorige artikelen, toe te passen, wanneer zijn regelen van internationaal privaatrecht in een bepaald geval de toepassing noch van de wet van de woonplaats, noch van de nationale wet voorschrijven.
+Le domicile, au sens de la présente Convention, est le lieu où une personne réside habituellement, à moins qu'il ne dépende de celui d'une autre personne ou du siège d'une autorité.
 
-##### Artikel 5
+##### Article 6
 
-Onder woonplaats, in de zin van dit Verdrag, wordt verstaan de plaats waar een persoon gewoonlijk verblijft, tenzij de woonplaats afhankelijk is van die van een andere persoon of van de zetel van een autoriteit.
+Dans chacun des Etats contractants, l'application de la loi, déterminée par la présente Convention, peut être écartée pour un motif d'ordre public.
 
-##### Artikel 6
+##### Article 7
 
-In ieder van de verdragsluitende Staten kan de toepassing van de door dit Verdrag aangewezen wet ter zijde worden gesteld op grond van de openbare orde.
+Aucun Etat contractant ne s'oblige à appliquer les dispositions de la présente Convention, lorsque l'Etat, où la personne intéressée est domiciliée, ou l'Etat, dont cette personne est ressortissante, n'est pas un Etat contractant.
 
-##### Artikel 7
+##### Article 8
 
-Geen Staat verplicht zich de bepalingen van dit Verdrag toe te passen, wanneer de Staat, waar de betrokken persoon woont, of de Staat, waarvan die persoon onderdaan is, geen verdragsluitende Staat is.
+Chaque Etat contractant, en signant ou ratifiant la présente Convention ou en y adhérant, peut déclarer qu'il exclut de l'application de la présente Convention les conflits de lois relatifs à certaines matières.
 
-##### Artikel 8
+L'Etat qui aura fait usage de la faculté, prévue à l'alinéa précédent, ne pourra prétendre à l'application de la présente Convention, par les autres Etats contractants, en ce qui concerne les matières qu'il aura exclues.
 
-ledere verdragsluitende Staat kan bij de ondertekening of de bekrachtiging van- of de toetreding tot dit Verdrag, verklaren, dat hij van de toepassing van dit Verdrag de wetsconflicten met betrekking tot bepaalde onderwerpen uitsluit.
+##### Article 9
 
-De Staat, die gebruik gemaakt heeft van de bevoegdheid, bedoeld in het vorige lid, kan geen aanspraak maken op de toepassing van dit Verdrag, door de andere verdragsluitende Staten, voor wat betreft de onderwerpen die hij heeft uitgesloten.
+La présente Convention est ouverte à la signature des Etats représentés à la Septième Session de la Conférence de La Haye de Droit International Privé.
 
-##### Artikel 9
+Elle sera ratifiée et les instruments de ratification seront déposés auprès du Ministère des Affaires Etrangères des Pays-Bas.
 
-Dit Verdrag staat ter ondertekening open voor de Staten, vertegenwoordigd op de Zevende Zitting van de Haagse Conferentie voor Internationaal Privaatrecht.
+Il sera dressé de tout dépôt d'instruments de ratification un procès-verbal dont une copie, certifiée conforme, sera remise, par la voie diplomatique, à chacun des Etats signataires.
 
-Het zal worden bekrachtigd en de akten van bekrachtiging zullen worden nedergelegd bij het Ministerie van Buitenlandse Zaken van Nederland.
+##### Article 10
 
-Van iedere nederlegging van akten van bekrachtiging zal een proces-verbaal worden opgemaakt, waarvan een gewaarmerkt afschrift, langs diplomatieke weg, aan ieder der ondertekenende Staten zal worden toegezonden.
+La présente Convention entrera en vigueur le soixantième jour à partir du dépôt du cinquième instrument de ratification prévu par l'article 9 alinéa 2.
 
-##### Artikel 10
+Pour chaque Etat signataire, ratifiant postérieurement la Convention, celle-ci entrera en vigueur le soixantième jour à partir de la date du dépôt de son instrument de ratification.
 
-Dit Verdrag treedt in werking op de zestigste dag te rekenen van de nederlegging van de vijfde akte van bekrachtiging bedoeld in artikel 9, lid 2.
+##### Article 11
 
-Voor iedere ondertekenende Staat, die het Verdrag later bekrachtigt, treedt het in werking op de zestigste dag te rekenen van de datum van nederlegging van zijn akte van bekrachtiging.
+La présente Convention s'applique de plein droit aux territoires métropolitains des Etats contractants.
 
-##### Artikel 11
+Si un Etat contractant en désire la mise en vigueur dans tous les autres territoires ou dans tels des autres territoires dont les relations internationales sont assurées par lui, il notifiera son intention à cet effet par un acte qui sera déposé auprès du Ministère des Affaires Etrangères des Pays-Bas. Celui-ci en enverra, par la voie diplomatique, une copie, certifiée conforme, à chacun des Etats contractants. La présente Convention entrera en vigueur, pour ces territoires, le soixantième jour après la date du dépôt de l'acte de notification mentionné ci-dessus.
 
-Dit Verdrag is van rechtswege van toepassing in het moederland van de verdragsluitende Staten.
+Il est entendu que la notification, prévue par l'alinéa 2 du présent article, ne pourra avoir effet qu'après l'entrée en vigueur de la présente Convention en vertu de son article 10 alinéa 1er.
 
-Indien een verdragsluitende Staat de inwerkingtreding ervan wenst in alle of enige van de andere grondgebieden, voor welker internationale betrekkingen hij verantwoordelijk is, geeft hij te dien einde van zijn voornemen kennis door een akte, die wordt neder gelegd bij het Ministerie van Buitenlandse Zaken van Nederland. Dit doet, langs diplomatieke weg, een gewaarmerkt afschrift van die akte aan ieder der verdragsluitende Staten toekomen. Het Verdrag treedt voor die grondgebieden in werking op de zestigste dag, te rekenen van de datum van nederlegging van de hierboven vermelde akte van kennisgeving.
+##### Article 12
 
-Het is weiver staan, dat de kennisgeving, bedoeld in het tweede lid van dit artikel, slechts gevolg kan hebben na de inwerkingtreding van dit Verdrag krachtens artikel 10, lid 1.
+Tout Etat, non-représenté à la Septième Session de la Conférence de La Haye de Droit International Privé, pourra adhérer à la présente Convention. L'Etat, désirant adhérer, notifiera son intention par un acte qui sera déposé auprès du Ministère des Affaires Etrangères des Pays-Bas. Celui-ci en enverra, par la voie diplomatique, une copie, certifiée conforme, à chacun des Etats contractants. La Convention entrera en vigueur pour l'Etat adhérant le soixantième jour après la date du dépôt de l'acte d'adhésion.
 
-##### Artikel 12
+Il est entendu que le dépôt de l'acte d'adhésion ne pourra avoir lieu qu'après l'entrée en vigueur de la présente Convention en vertu de l'article 10 alinéa 1er.
 
-ledere Staat, die niet vertegenwoordigd is geweest op de Zevende Zitting van de Haagse Conferentie voor Internationaal Privaatrecht, kan tot dit Verdrag toetreden. De Staat, die wenst toe te treden, geeft van zijn voornemen kennis door een akte, die wordt nedergelegd bij het Ministerie van Buitenlandse Zaken van Nederland. Dit doet, langs diplomatieke weg, een gewaarmerkt afschrift van die akte aan ieder der verdragsluitende Staten toekomen. Het Verdrag treedt voor de toetredende Staat in werking op de zestigste dag, te rekenen van de datum van nederlegging van de akte van toetreding.
+##### Article 13
 
-Het is welverstaan, dat de nederlegging van de akte van toetreding slechts kan plaats vinden na de inwerkingtreding van dit Verdrag krachtens artikel 10, lid 1.
+La présente Convention aura une durée de cinq ans à partir de la date indiquée dans l'article 10 alinéa 1er de la présente Convention. Ce terme commencera à courir dès cette date, même pour les Etats qui l'auront ratifiée ou y auront adhéré postérieurement.
 
-##### Artikel 13
+La Convention sera renouvelée tacitement de cinq ans en cinq ans, sauf dénonciation.
 
-Dit Verdrag blijft gedurende vijf jaren van kracht, te rekenen van de dagtekening aangegeven in artikel 10, lid 1, van dit Verdrag. Deze termijn begint van die dag af te lopen, zelfs voor de Staten, die later hebben bekrachtigd of zijn toegetreden.
+La dénonciation devra, au moins six mois avant l'expiration du terme, être notifiée au Ministère des Affaires Etrangères des Pays-Bas, qui en donnera connaissance à tous les autres Etats contractants.
 
-Het Verdrag wordt, behoudens opzegging, stilzwijgend telkens voor vijf jaren verlengd.
+La dénonciation peut se limiter aux territoires, oui certains des territoires compris dans une notification faite en vertu de l'article 11 alinéa 2.
 
-De opzegging moet tenminste zes maanden voor het einde van de termijn ter kennis worden gebracht van het Ministerie van Buitenlandse Zaken van Nederland, dat daarvan aan alle andere verdragsluitende Staten mededeling zal doen.
-
-De opzegging kan zich beperken tot de grondgebieden of tot bepaalde grondgebieden, aangegeven in een kennisgeving gedaan krachtens artikel 11, lid 2.
-
-De opzegging heeft slechts gevolg ten opzichte van de Staat, die haar heeft gedaan. Het Verdrag blijft van kracht voor de andere verdragsluitende Staten.
+La dénonciation ne produira son effet qu'à l'égard de l'Etat qui l'aura notifiée. La Convention restera en vigueur pour les autres Etats contractants.
 
 En foi de quoi, les soussignés, dûment autorisés par leurs Gouvernements respectifs, ont signé la présente Convention.
 

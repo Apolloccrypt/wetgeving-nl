@@ -1,51 +1,19 @@
 ---
 title: "Memorie van Overeenstemming inzake het vermijden van overlappingen en geschillen met betrekking tot zeebodemgebieden"
 identifier: "BWBV0002435"
-country: "nl"
-rank: "verdrag"
-publication_date: "1991-10-24"
-last_updated: "1991-10-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002435"
+categorie: "Milieu"
 soort: "verdrag"
-stam_id: "10002880763"
-version_id: "10002880862"
-internal_id: "C10006976701"
-label_id: "10002868124"
-dtd_version: "2.0"
-original_entry_into_force: "1991-10-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002435/1991-10-24/0"
-intitule_bron: "Trb.1991-62"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-10-02"
-intitule_published: "1991-04-23"
-intitule_in_force: "1992-03-13"
-intitule_status: "goed"
-original_publication: "Trb.1991-62"
-original_signed_date: "1991-10-02"
-original_published_date: "1991-04-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1991-62"
-entry_into_force_date: "1991-10-24"
-jci_1_3: "jci1.3:c:BWBV0002435&z=1991-10-24&g=1991-10-24"
-jci_1_0: "1.0:c:BWBV0002435&g=1991-10-24"
-citeertitel_status: "officieel"
-signed_date: "1991-10-02"
-entry_into_force: "1991-10-24"
+publicatiedatum: 1991-10-24
+laatste_update: 1991-10-24
+status: geldig
+toestand: 1991-10-24
+bron: "https://wetten.overheid.nl/BWBV0002435"
+opgehaald: 2026-09-12
 ---
+
 # Memorie van Overeenstemming inzake het vermijden van overlappingen en geschillen met betrekking tot zeebodemgebieden
 
-De Regeringen van het Koninkrijk België, Canada, de Bondsrepubliek Duitsland, de Republiek Italië, het Koninkrijk der Nederlanden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Verenigde Staten van Amerika enerzijds en de Regering van de Volksrepubliek China anderzijds, hierna te noemen de „Partijen”;
-
-Overwegend dat een lichaam waarvoor de Volksrepubliek China borg staat, bij de Voorbereidende Commissie voor de Internationale Zeebodemautoriteit en het Internationale Hof voor het Zeerecht, hierna te noemen de „Voorbereidende Commissie”, een verzoek heeft ingediend voor registratie als pionier-investeerder met betrekking tot een gebied, de coördinaten waarvan zijn aangegeven in bijlage I van deze Memorie van overeenstemming, hierna te noemen de „Memorie”;
-
-Gelet op de belangen van de lichamen genoemd in het eerste lid, letter a onder ii, van Resolutie II van de Derde Conferentie van de Verenigde Naties inzake het Zeerecht, in gebieden, de coördinaten waarvan zijn opgenomen in de Zeerechtbulletins 7, 11 en 12 en die zijn aangegeven in bijlage II van deze Memorie;
-
-Met voldoening opmerkend dat er tussen de bovenbedoelde gebieden geen overlappingen bestaan;
-
-Geleid door de wens wederzijdse eerbiediging van die gebieden te waarborgen teneinde mogelijke geschillen in de toekomst te vermijden;
-
-Zijn het volgende overeengekomen:
+*De Regeringen van het Koninkrijk België, Canada, de Bondsrepubliek Duitsland, de Republiek Italië, het Koninkrijk der Nederlanden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Verenigde Staten van Amerika enerzijds en de Regering van de Volksrepubliek China anderzijds, hierna te noemen de „Partijen”; Overwegend dat een lichaam waarvoor de Volksrepubliek China borg staat, bij de Voorbereidende Commissie voor de Internationale Zeebodemautoriteit en het Internationale Hof voor het Zeerecht, hierna te noemen de „Voorbereidende Commissie”, een verzoek heeft ingediend voor registratie als pionier-investeerder met betrekking tot een gebied, de coördinaten waarvan zijn aangegeven in bijlage I van deze Memorie van overeenstemming, hierna te noemen de „Memorie”; Gelet op de belangen van de lichamen genoemd in het eerste lid, letter a onder ii, van Resolutie II van de Derde Conferentie van de Verenigde Naties inzake het Zeerecht, in gebieden, de coördinaten waarvan zijn opgenomen in de Zeerechtbulletins 7, 11 en 12 en die zijn aangegeven in bijlage II van deze Memorie; Met voldoening opmerkend dat er tussen de bovenbedoelde gebieden geen overlappingen bestaan; Geleid door de wens wederzijdse eerbiediging van die gebieden te waarborgen teneinde mogelijke geschillen in de toekomst te vermijden; Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 

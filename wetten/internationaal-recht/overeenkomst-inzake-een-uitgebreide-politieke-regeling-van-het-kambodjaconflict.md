@@ -1,75 +1,29 @@
 ---
 title: "Overeenkomst inzake een uitgebreide politieke regeling van het Kambodjaconflict"
 identifier: "BWBV0002254"
-country: "nl"
-rank: "verdrag"
-publication_date: "1993-04-08"
-last_updated: "1993-04-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002254"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10002723943"
-version_id: "10002723282"
-internal_id: "C10006976651"
-label_id: "10002712454"
-dtd_version: "2.0"
-original_entry_into_force: "1993-04-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002254/1993-04-08/0"
-intitule_bron: "Trb.1992-141"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-03-31"
-intitule_published: "1992-10-09"
-intitule_in_force: "1993-06-25"
-intitule_status: "goed"
-original_publication: "Trb.1992-141"
-original_signed_date: "1993-03-31"
-original_published_date: "1992-10-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1992-141"
-entry_into_force_date: "1993-04-08"
-jci_1_3: "jci1.3:c:BWBV0002254&z=1993-04-08&g=1993-04-08"
-jci_1_0: "1.0:c:BWBV0002254&g=1993-04-08"
-citeertitel_status: "officieel"
-signed_date: "1993-03-31"
-entry_into_force: "1993-04-08"
+publicatiedatum: 1993-04-08
+laatste_update: 1993-04-08
+status: geldig
+toestand: 1993-04-08
+bron: "https://wetten.overheid.nl/BWBV0002254"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst inzake een uitgebreide politieke regeling van het Kambodjaconflict
 
-De Staten die deelnemen aan de Conferentie van Parijs inzake Kambodja, te weten Australië, Brunei Darussalam, Canada, de Volksrepubliek China, de Republiek der Filipijnen, de Franse Republiek, de Republiek India, de Republiek Indonesië, Japan, de Socialistische Federatieve Republiek Joegoslavië, Kambodja, de Democratische Volksrepubliek Laos, Maleisië, de Republiek Singapore, het Koninkrijk Thailand, de Unie van Socialistische Sovjetrepublieken, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de Verenigde Staten van Amerika en de Socialistische Republiek Vietnam,
-
-In aanwezigheid van de Secretaris-Generaal van de Verenigde Naties,
-
-Met het oog op de handhaving, bescherming en verdediging van de soevereiniteit, onafhankelijkheid, territoriale integriteit en onschendbaarheid, neutraliteit en nationale eenheid van Kambodja,
-
-Geleid door de wens de vrede in Kambodja te herstellen en te handhaven, de nationale verzoening te bevorderen en de uitoefening van het recht op zelfbeschikking van het Kambodjaanse volk door middel van vrije en eerlijke verkiezingen te waarborgen,
-
-Ervan overtuigd dat alleen een uitgebreide politieke regeling van het Kambodja-conflict rechtvaardig en duurzaam zal zijn en zal bijdragen aan de regionale en internationale vrede en veiligheid,
-
-Verheugd over het Kaderdocument van 28 augustus 1990, dat door de Kambodjaanse Partijen in zijn geheel werd aanvaard als grondslag voor de regeling van het Kambodja-conflict en dat daarna unaniem werd goedgekeurd in resolutie 668 (1990) van 20 september 1990 van de Veiligheidsraad en resolutie 45/3 van 15 oktober 1990 van de Algemene Vergadering,
-
-Wijzend op de oprichting in Jakarta op 10 september 1990 van de Hoge Nationale Raad van Kambodja als het enige wettige orgaan en de bron van gezag in Kambodja waarin, gedurende de overgangsperiode, de nationale soevereiniteit en eenheid zijn belichaamd en die Kambodja naar buiten toe vertegenwoordigt,
-
-Verheugd over de unanieme verkiezing, in Beijing op 17 juli 1991, van Z.K.H. Prins Norodom Sihanouk tot Voorzitter van de Hoge Nationale Raad,
-
-Erkennend dat een grotere rol van de Verenigde Naties de instelling vergt van een Overgangsautoriteit van de Verenigde Naties in Kambodja (UNTAC) met een civiele en een militaire afdeling, die zal handelen met volledige eerbiediging van de nationale soevereiniteit van Kambodja,
-
-Wijzend op de verklaringen afgelegd aan het slot van de bijeenkomsten gehouden te Jakarta op 9-10 september 1990, Parijs op 21-23 december 1990, Pattaya op 24-26 juni 1991, Beijing op 16-17 juli 1991, Pattaya op 26-29 augustus 1991 en tevens op de bijeenkomsten gehouden te Jakarta op 4-6 juni 1991 en New York op 19 september 1991,
-
-Verheugd over resolutie 717 (1991) van 16 oktober 1991 inzake Kambodja van de Veiligheidsraad van de Verenigde Naties,
-
-Erkennend dat de tragische recente geschiedenis van Kambodja bijzondere maatregelen vergt om de bescherming van de rechten van de mens en het niet terugkeren tot het beleid en de praktijken uit het verleden te verzekeren,
-
-Zijn als volgt overeengekomen:
+*De Staten die deelnemen aan de Conferentie van Parijs inzake Kambodja, te weten Australië, Brunei Darussalam, Canada, de Volksrepubliek China, de Republiek der Filipijnen, de Franse Republiek, de Republiek India, de Republiek Indonesië, Japan, de Socialistische Federatieve Republiek Joegoslavië, Kambodja, de Democratische Volksrepubliek Laos, Maleisië, de Republiek Singapore, het Koninkrijk Thailand, de Unie van Socialistische Sovjetrepublieken, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de Verenigde Staten van Amerika en de Socialistische Republiek Vietnam, In aanwezigheid van de Secretaris-Generaal van de Verenigde Naties, Met het oog op de handhaving, bescherming en verdediging van de soevereiniteit, onafhankelijkheid, territoriale integriteit en onschendbaarheid, neutraliteit en nationale eenheid van Kambodja, Geleid door de wens de vrede in Kambodja te herstellen en te handhaven, de nationale verzoening te bevorderen en de uitoefening van het recht op zelfbeschikking van het Kambodjaanse volk door middel van vrije en eerlijke verkiezingen te waarborgen, Ervan overtuigd dat alleen een uitgebreide politieke regeling van het Kambodja-conflict rechtvaardig en duurzaam zal zijn en zal bijdragen aan de regionale en internationale vrede en veiligheid, Verheugd over het Kaderdocument van 28 augustus 1990, dat door de Kambodjaanse Partijen in zijn geheel werd aanvaard als grondslag voor de regeling van het Kambodja-conflict en dat daarna unaniem werd goedgekeurd in resolutie 668 (1990) van 20 september 1990 van de Veiligheidsraad en resolutie 45/3 van 15 oktober 1990 van de Algemene Vergadering, Wijzend op de oprichting in Jakarta op 10 september 1990 van de Hoge Nationale Raad van Kambodja als het enige wettige orgaan en de bron van gezag in Kambodja waarin, gedurende de overgangsperiode, de nationale soevereiniteit en eenheid zijn belichaamd en die Kambodja naar buiten toe vertegenwoordigt, Verheugd over de unanieme verkiezing, in Beijing op 17 juli 1991, van Z.K.H. Prins Norodom Sihanouk tot Voorzitter van de Hoge Nationale Raad, Erkennend dat een grotere rol van de Verenigde Naties de instelling vergt van een Overgangsautoriteit van de Verenigde Naties in Kambodja (UNTAC) met een civiele en een militaire afdeling, die zal handelen met volledige eerbiediging van de nationale soevereiniteit van Kambodja, Wijzend op de verklaringen afgelegd aan het slot van de bijeenkomsten gehouden te Jakarta op 9-10 september 1990, Parijs op 21-23 december 1990, Pattaya op 24-26 juni 1991, Beijing op 16-17 juli 1991, Pattaya op 26-29 augustus 1991 en tevens op de bijeenkomsten gehouden te Jakarta op 4-6 juni 1991 en New York op 19 september 1991, Verheugd over resolutie 717 (1991) van 16 oktober 1991 inzake Kambodja van de Veiligheidsraad van de Verenigde Naties, Erkennend dat de tragische recente geschiedenis van Kambodja bijzondere maatregelen vergt om de bescherming van de rechten van de mens en het niet terugkeren tot het beleid en de praktijken uit het verleden te verzekeren, Zijn als volgt overeengekomen:*
 
 ## DEEL I. REGELINGEN TIJDENS DE OVERGANGSPERIODE
 
-## TITEL I. OVERGANGSPERIODE
+### TITEL I. OVERGANGSPERIODE
 
 ##### Artikel 1
 
 Voor de toepassing van deze Overeenkomst vangt de overgangsperiode aan bij de inwerkingtreding van deze Overeenkomst en eindigt zij wanneer de door middel van vrije en eerlijke verkiezingen, georganiseerd en als zodanig aangemerkt door de Verenigde Naties, gekozen grondwetgevende vergadering de grondwet heeft goedgekeurd en zich heeft omgevormd in een wetgevende vergadering en daarna een nieuwe regering tot stand is gekomen.
 
-## TITEL II. OVERGANGSAUTORITEIT VAN DE VERENIGDE NATIES IN KAMBODJA
+### TITEL II. OVERGANGSAUTORITEIT VAN DE VERENIGDE NATIES IN KAMBODJA
 
 ##### Artikel 2
 
@@ -77,7 +31,7 @@ Voor de toepassing van deze Overeenkomst vangt de overgangsperiode aan bij de in
 
 2. De Ondertekenaars verzoeken de Veiligheidsraad van de Verenigde Naties voorts de UNTAC het in deze Overeenkomst vervatte mandaat te verstrekken en de uitvoering daarvan voortdurend te toetsen aan de hand van door de Secretaris-Generaal overgelegde periodieke verslagen.
 
-## TITEL III. HOGE NATIONALE RAAD
+### TITEL III. HOGE NATIONALE RAAD
 
 ##### Artikel 3
 
@@ -101,13 +55,13 @@ Ter waarborging van een neutraal politiek klimaat waarin vrije en eerlijke algem
 
 De betrekkingen tussen de HNR, de UNTAC en de bestaande bestuurlijke structuren zijn uiteengezet in Bijlage 1.
 
-## TITEL IV. TERUGTREKKING VAN BUITENLANDSE STRIJDKRACHTEN EN VERIFICATIE DAARVAN
+### TITEL IV. TERUGTREKKING VAN BUITENLANDSE STRIJDKRACHTEN EN VERIFICATIE DAARVAN
 
 ##### Artikel 8
 
 Onmiddellijk na de inwerkingtreding van deze Overeenkomst worden alle in Kambodja verblijvende buitenlandse strijdkrachten, adviseurs en militair personeel, te zamen met hun wapens, munitie en uitrusting teruggetrokken uit Kambodja en keren zij daar niet terug. Deze terugtrekking en het niet terugkeren zijn onderworpen aan verificatie door de UNTAC overeenkomstig Bijlage 2.
 
-## TITEL V. STAAKT-HET-VUREN EN BEËINDIGING VAN BUITENLANDSE MILITAIRE HULP
+### TITEL V. STAAKT-HET-VUREN EN BEËINDIGING VAN BUITENLANDSE MILITAIRE HULP
 
 ##### Artikel 9
 
@@ -149,13 +103,13 @@ Alle Ondertekenaars verplichten zich tot eerbiediging van de uitslag van deze ve
 
 - a. verplicht Kambodja zich ertoe:
 
-- -. de eerbiediging en inachtneming van de rechten van de mens en de fundamentele vrijheden in Kambodja te waarborgen;
+   - - de eerbiediging en inachtneming van de rechten van de mens en de fundamentele vrijheden in Kambodja te waarborgen;
 
-- -. het recht van alle Kambodjaanse burgers te steunen om activiteiten te ondernemen waardoor de rechten van de mens en de fundamentele vrijheden worden uitgedragen en beschermd;
+   - - het recht van alle Kambodjaanse burgers te steunen om activiteiten te ondernemen waardoor de rechten van de mens en de fundamentele vrijheden worden uitgedragen en beschermd;
 
-- -. doeltreffende maatregelen te nemen om te waarborgen dat het beleid en de praktijken uit het verleden nooit zullen worden toegestaan terug te keren;
+   - - doeltreffende maatregelen te nemen om te waarborgen dat het beleid en de praktijken uit het verleden nooit zullen worden toegestaan terug te keren;
 
-- -. zich te houden aan de desbetreffende internationale documenten inzake de rechten van de mens;
+   - - zich te houden aan de desbetreffende internationale documenten inzake de rechten van de mens;
 
 - b. verplichten de andere Ondertekenaars van deze Overeenkomst zich ertoe de eerbiediging en inachtneming van de rechten van de mens en de fundamentele vrijheden in Kambodja zoals vervat in de desbetreffende internationale akten en resoluties van de Algemene Vergadering van de Verenigde Naties te bevorderen en aan te moedigen ten einde, met name, te voorkomen dat zich opnieuw schendingen van de rechten van de mens zullen voordoen.
 
@@ -245,138 +199,8 @@ Deze Overeenkomst staat open voor toetreding door alle Staten. De akten van toet
 
 De oorspronkelijke exemplaren van deze Overeenkomst, waarvan de Chinese, de Engelse, de Franse, de Khmerse en de Russische tekst gelijkelijk authentiek zijn, worden nedergelegd bij de Regering van de Franse Republiek en de Regering van de Republiek Indonesië, die voor eensluidend gewaarmerkte afschriften doen toekomen aan de Regeringen van de andere Staten die deelnemen aan de Conferentie van Parijs inzake Kambodja, alsmede aan de Secretaris-Generaal van de Verenigde Naties.
 
-##### Artikel 1. Staakt-het-vuren
-
-1. Alle Kambodjaanse Partijen (hierna te noemen ”de Partijen”) komen overeen een algemeen staakt-het-vuren te land, te water en in de lucht in acht te nemen. Dit staakt-het-vuren wordt uitgevoerd in twee fasen. Tijdens de eerste fase wordt het staakt-het-vuren in acht genomen met behulp van de goede diensten van de Secretaris-Generaal van de Verenigde Naties. Tijdens de tweede fase, die zo spoedig mogelijk dient aan te vangen, berusten het toezicht en de controle op en de verificatie van het staakt-het-vuren bij de UNTAC. De Bevelhebber van de militaire afdeling van de UNTAC bepaalt, in overleg met de Partijen, het precieze tijdstip en de datum waarop de tweede fase aanvangt. Deze datum wordt vastgesteld ten minste vier weken voordat de tweede fase ingaat.
-
-2. De Partijen verplichten zich ertoe dat zij bij het ondertekenen van deze Overeenkomst een staakt-het-vuren in acht zullen nemen en hun strijdkrachten zullen bevelen zich onmiddellijk terug te trekken en zich te onthouden van alle vijandelijkheden en elke inzet, beweging of actie die het grondgebied dat zij beheersen zou uitbreiden of die zou kunnen leiden tot een hervatting van de gevechten, zulks in afwachting van de aanvang van de tweede fase. Overeengekomen wordt dat onder „strijdkrachten” wordt verstaan alle gewone en provinciale strijdkrachten, districtsstrijdkrachten, paramilitaire troepen en hulptroepen. Gedurende de eerste fase biedt de Secretaris-Generaal van de Verenigde Naties de Partijen zijn goede diensten aan om hun te helpen bij de inachtneming van het staakt-het-vuren. De Partijen verplichten zich tot samenwerking met de Secretaris-Generaal of zijn vertegenwoordigers bij de verlening van zijn goede diensten ter zake.
-
-3. De Partijen komen overeen dat onmiddellijk na het ondertekenen van deze Overeenkomst de volgende informatie aan de Verenigde Naties zal worden verstrekt:
-
-- a. De totale sterkte van hun strijdkrachten, de organisatie, het precieze aantal en de plaats van inzet in of buiten Kambodja. De plaatsen van inzet worden aangegeven op een kaart waarop de plaatsen zijn aangeduid van alle legerposities, al dan niet bezet, met inbegrip van uitvalbases, bevoorradingsbases en bevoorradingsroutes;
-
-- b. Uitgebreide lijsten van wapens, munitie en uitrusting in het bezit van hun strijdkrachten en de precieze plaatsen waar deze wapens, munitie en uitrusting zijn ingezet;
-
-- c. Een uitvoerig overzicht van hun mijnenvelden, met inbegrip van de soorten en kenmerken van de gelegde mijnen en informatie over door hen gebruikte booby-traps, te zamen met alle hun ter beschikking staande informatie over door de andere Partijen gelegde mijnenvelden of booby-traps.
-
-- d. De totale sterkte van hun politiemacht, organisatie, precieze aantallen en plaatsen van inzet, alsmede uitgebreide lijsten van hun wapens, munitie en uitrusting en de precieze plaatsen waar deze wapens, munitie en uitrusting zijn ingezet.
-
-4. Onmiddellijk na zijn aankomst in Kambodja en uiterlijk vier weken voor de aanvang van de tweede fase legt de Bevelhebber van de militaire afdeling van de UNTAC, in overleg met de Partijen, de laatste hand aan het plan van de UNTAC voor de hergroepering en verzameling van de strijdkrachten van de Partijen en voor de opslag van hun wapens, munitie en uitrusting in overeenstemming met artikel III van deze Bijlage. Dit plan omvat de aanwijzing van hergroeperings- en verzamelgebieden, alsmede een overeengekomen tijdschema. De omvang van de verzamelgebieden wordt vastgesteld overeenkomstig de grootte van een bataljon of groter.
-
-5. De Partijen komen overeen stappen te ondernemen om hun strijdkrachten ten minste twee weken voor de aanvang van de tweede fase met alle mogelijke communicatiemiddelen in kennis te stellen van de overeengekomen datum en het tijdstip van de aanvang van de tweede fase, van het overeengekomen plan voor de hergroepering en verzameling van hun strijdkrachten en voor de opslag van hun wapens, munitie en uitrusting en, met name, over de precieze plaatsen van de hergroeperingsgebieden waar hun strijdkrachten zich moeten melden. De verspreiding van deze informatie wordt voortgezet gedurende een periode van vier weken na de aanvang van de tweede fase.
-
-6. De Partijen nemen nauwgezet het staakt-het-vuren in acht en hervatten geen vijandelijkheden te land, te water of in de lucht. De bevelhebbers van hun strijdkrachten waarborgen dat alle troepen onder hun bevel op hun onderscheiden posities blijven, in afwachting van hun overbrenging naar de aangewezen hergroeperingsgebieden en zich onthouden van alle vijandelijkheden en van iedere inzet, beweging of actie die het gebied dat zij beheersen zou uitbreiden of die zou kunnen leiden tot een hervatting van de gevechten.
-
-##### Artikel II. Verbindingsstelsel en Gemengde Militaire Werkgroep
-
-Er wordt een Gemengde Militaire Werkgroep (GMW) ingesteld ten einde problemen die zich kunnen voordoen bij de inachtneming van het staakt-het-vuren op te lossen. De hoogste officier van de Verenigde Naties in Cambodja of zijn vertegenwoordiger bekleedt het voorzitterschap. Elke Partij stemt ermede in een officier in de rang van brigade-generaal of daarmede overeenkomend aan te wijzen als lid van de GMW. De samenstelling, werkwijze en plaatsen van bijeenkomst worden bepaald door de hoogste officier van de Verenigde Naties in overleg met de Partijen. Soortgelijke verbindingsregelingen worden getroffen op lagere militaire bevelsniveaus ten einde praktische problemen te velde op te lossen.
-
-##### Artikel III. Hergroepering en verzameling van de strijdkrachten van de Partijen en opslag van hun wapens, munitie en uitrusting
-
-1. Overeenkomstig het in artikel I, vierde lid, van deze Bijlage bedoelde operationele tijdschema melden alle strijdkrachten van de Partijen die zich niet reeds in daartoe aangewezen verzamelgebieden bevinden, zich in aangewezen hergroeperingsgebieden, die worden ingesteld en beheerd door de militaire afdeling van de UNTAC. Deze hergroeperingsgebieden worden ingesteld en worden operationeel uiterlijk een week voor de aanvangsdatum van de tweede fase. De Partijen komen overeen te regelen dat al hun strijdkrachten, met al hun wapens, munitie en uitrusting, zich melden in hergroeperingsgebieden binnen twee weken na de aanvang van de tweede fase. Alle manschappen die zich in de hergroeperingsgebieden hebben gemeld worden daarna door personeel van de militaire afdeling van de UNTAC met hun wapens, munitie en uitrusting geëscorteerd naar de aangewezen verzamelgebieden. Alle Partijen komen overeen te waarborgen dat manschappen die zich in de hergroeperingsgebieden melden, zulks geheel veilig en zonder enige belemmering kunnen doen.
-
-2. Op grond van de overeenkomstig artikel I, derde lid, van deze Bijlage verstrekte informatie gaat de UNTAC na of de hergroepering en verzameling is voltooid in overeenstemming met het in artikel I, vierde lid, van deze Bijlage bedoelde plan. De UNTAC streeft ernaar dit proces te voltooien binnen vier weken na de aanvangsdatum van de tweede fase. Bij voltooiing van de hergroepering van alle strijdkrachten, onderscheidenlijk van hun overbrenging naar verzamelgebieden, stelt de Bevelhebber van de militaire afdeling van de UNTAC alle vier Partijen daarvan in kennis.
-
-3. De Partijen komen overeen dat, wanneer hun strijdkrachten de aangewezen verzamelgebieden binnengaan, hun manschappen door hun bevelhebbers zal worden bevolen onmiddellijk al hun wapens, munitie en uitrusting te overhandigen aan de UNTAC voor opslag onder de hoede van de UNTAC.
-
-4. De UNTAC controleert de haar overhandigde wapens, munitie en uitrusting aan de hand van de in artikel I, derde lid, letter b, van deze Bijlage bedoelde lijsten, ten einde te verifiëren of alle wapens, munitie en uitrusting in het bezit van de Partijen onder haar hoede zijn geplaatst.
-
-##### Artikel IV. Bevoorrading van de strijdkrachten tijdens het verblijf in de verzamelgebieden
-
-De militaire afdeling van de UNTAC houdt toezicht op de bevoorrading van alle strijdkrachten tijdens het hergroeperings- en verzamelingsproces. Deze bevoorrading wordt beperkt tot goederen van niet-dodelijke aard zoals voedsel, water, kleding en medische goederen, alsmede het verlenen van medische zorg.
-
-##### Artikel V. Uiteindelijke bestemming van de strijdkrachten van de Partijen en van hun wapens, munitie en uitrusting
-
-1. Ten einde de doelstellingen van een uitgebreide politieke regeling kracht bij te zetten, het risico van een terugkeer naar oorlogvoering tot een minimum terug te brengen, de veiligheidssituatie te stabiliseren en vertrouwen te kweken tussen de Partijen bij het conflict, komen alle Partijen overeen over te gaan tot een gefaseerde en evenwichtige demobilisatie van ten minste 70 procent van hun strijdkrachten. Dit proces wordt uitgevoerd in overeenstemming met een uitvoerig plan dat zal worden opgesteld door de UNTAC op grond van de ingevolge artikel I van deze Bijlage verstrekte informatie en in overleg met de Partijen. Het moet zijn voltooid voor het einde van de registratie voor de verkiezingen en op een door de Speciale Vertegenwoordiger van de Secretaris-Generaal te bepalen datum.
-
-2. De Kambodjaanse Partijen verplichten zich hierbij tot het demobiliseren van al hun overblijvende strijdkrachten vóór of kort na de verkiezingen en, voor zover volledige demobilisatie niet haalbaar is, tot eerbiediging en naleving van alle beslissingen die de overeenkomstig artikel 12 van deze Overeenkomst aantredende nieuw verkozen regering neemt ten aanzien van de opneming van delen van deze strijdkrachten of al deze strijdkrachten in een nieuw nationaal leger. Na voltooiing van de in het eerste lid bedoelde demobilisatie stellen de Kambodjaanse Partijen en de Speciale Vertegenwoordiger van de Secretaris-Generaal een onderzoek in inzake de uiteindelijke bestemming van de nog in de verzamelgebieden verblijvende strijdkrachten, ten einde te bepalen welke van de onderstaande mogelijkheden van toepassing zijn:
-
-- a. Indien de Partijen overeenkomen de demobilisatie van alle of enkele van de nog in de verzamelgebieden verblijvende strijdkrachten voort te zetten, bij voorkeur vóór of anders kort na de verkiezingen, stelt de Speciale Vertegenwoordiger, in overleg met de Partijen, daarvoor een tijdschema op.
-
-- b. Indien de algehele demobilisatie van alle overblijvende strijdkrachten vóór of kort na de verkiezingen niet mogelijk is, verplichten de Partijen zich hierbij ertoe al hun nog in de verzamelgebieden verblijvende strijdkrachten ter beschikking te stellen van de nieuw verkozen regering die aantreedt in overeenstemming met artikel 12 van deze Overeenkomst, opdat deze de opneming in een nieuw nationaal leger kan overwegen. Voorts komen zij overeen dat strijdkrachten die niet in het nieuwe nationale leger worden opgenomen, onverwijld zullen worden gedemobiliseerd overeenkomstig een door de Speciale Vertegenwoordiger op te stellen plan. Ten aanzien van de uiteindelijke bestemming van de overblijvende strijdkrachten en alle wapens, munitie en uitrusting behoudt de UNTAC, wanneer zij zich terugtrekt uit Kambodja, de vereiste bevoegdheden om een ordelijke overdracht aan de nieuw verkozen regering te waarborgen van de verantwoordelijkheden die zij gedurende de overgangsperiode heeft uitgeoefend.
-
-3. De UNTAC helpt, waar vereist, bij de herintegratie in het burgerleven van de vóór de verkiezingen gedemobiliseerde strijdkrachten.
-
-- a. De UNTAC beheert en bewaakt alle wapens, munitie en uitrusting van de Partijen gedurende de overgangsperiode;
-
-- b. Naarmate de in de verzamelgebieden verblijvende strijdkrachten worden gedemobiliseerd overeenkomstig het eerste lid hierboven, vindt er een gelijktijdige vermindering door de UNTAC plaats van de aldaar in de verzamelgebieden opgeslagen wapens, munitie en uitrusting. De nog in de verzamelgebieden verblijvende strijdkrachten hebben slechts met uitdrukkelijke machtiging van de Speciale Vertegenwoordiger van de Secretaris-Generaal toegang tot hun wapens, munitie en uitrusting;
-
-- c. In geval van een verdere demobilisatie van de strijdkrachten in overeenstemming met het tweede lid, letter a, hierboven vindt er een overeenkomstige vermindering door de UNTAC plaats van de aldaar in de verzamelgebieden opgeslagen wapens, munitie en uitrusting;
-
-- d. De uiteindelijke bestemming van alle wapens, munitie en uitrusting wordt bepaald door de na de vrije en eerlijke verkiezingen, overeenkomstig artikel 12 van deze Overeenkomst, aantredende regering.
-
-##### Artikel VI. Verificatie van de terugtrekking uit Kambodja en het niet terugkeren van alle categorieën buitenlandse strijdkrachten
-
-1. Aan de UNTAC wordt, uiterlijk twee weken voor de aanvang van de tweede fase van het staakt-het-vuren, uitvoerige schriftelijke informatie verschaft omtrent de terugtrekking van buitenlandse strijdkrachten. Deze informatie omvat de volgende gegevens:
-
-- a. De totale sterkte van deze strijdkrachten en de organisatie en inzet daarvan;
-
-- b. Uitgebreide lijsten van de in het bezit van deze strijdkrachten zijnde wapens, munitie en uitrusting en de precieze plaats daarvan;
-
-- c. Het terugtrekkingsplan (reeds uitgevoerd of nog uit te voeren), met inbegrip van terugtrekkingsroutes, grensovergangen en tijdstip van vertrek uit Kambodja.
-
-2. Op grond van de overeenkomstig het eerste lid hierboven verstrekte informatie gaat de UNTAC op een door haar passend geachte wijze over tot onderzoek. De Partij die de informatie verstrekt, dient personeel ter beschikking te stellen om de onderzoekers van de UNTAC te vergezellen.
-
-3. Bij bevestiging van de aanwezigheid van buitenlandse strijdkrachten voegt de UNTAC onmiddellijk militair personeel toe aan de buitenlandse strijdkrachten en begeleidt zij deze totdat de strijdkrachten zich uit Kambodjaans grondgebied hebben teruggetrokken. De UNTAC stelt ook controleposten in op terugtrekkingsroutes, bij grensovergangen en op vliegvelden om de terugtrekking te verifiëren en het niet terugkeren van alle categorieën buitenlandse strijdkrachten te verzekeren.
-
-4. De Gemengde Militaire Werkgroep (GMW) bedoeld in artikel II van deze Bijlage staat de UNTAC bij in het vervullen van de bovengenoemde taken.
-
-##### Artikel VII. Beëindiging van buitenlandse militaire hulp aan alle Kambodjaanse Partijen
-
-1. Alle Partijen verplichten zich ertoe, vanaf de ondertekening van deze Overeenkomst, geen buitenlandse militaire hulp, met inbegrip van wapens, munitie en militaire uitrusting, uit buitenlandse bron te verwerven, noch daarom te verzoeken.
-
-2. De Ondertekenaars wier grondgebied grenst aan Kambodja, nl. de Regeringen van de Democratische Volksrepubliek Laos, het Koninkrijk Thailand en de Socialistische Republiek Vietnam, verplichten zich ertoe:
-
-- a. Te voorkomen dat de grondgebieden van hun onderscheiden Staten, met inbegrip van het landgebied, de territoriale zee en het luchtruim, worden gebruikt voor het verlenen van enigerlei vorm van militaire hulp aan enige Kambodjaanse Partij. Bevoorrading met zaken zoals voedsel, water, kleding en medische goederen via hun grondgebieden is toegestaan, maar is, onverminderd de bepalingen van letter c hieronder, bij aankomst in Kambodja onderworpen aan toezicht door de UNTAC;
-
-- b. De Bevelhebber van de militaire afdeling van de UNTAC uiterlijk vier weken na de aanvang van de tweede fase van het staakt-het-vuren, schriftelijk te bevestigen dat geen strijdkrachten, wapens, munitie of militaire uitrusting van enige Kambodjaanse Partij op hun grondgebieden aanwezig zijn;
-
-- c. In elke hoofdstad een verbindingsofficier van de UNTAC te ontvangen en uiterlijk vier weken na de aanvang van de tweede fase van het staakt-het-vuren een officier met de rang van kolonel of daaraan gelijkwaardig aan te wijzen, ten einde de UNTAC bij te staan bij het onderzoeken, met eerbiediging van hun soevereiniteit, van klachten dat op hun grondgebied activiteiten plaatsvinden die in strijd zijn met de bepalingen van de uitgebreide politieke regeling.
-
-3. Ten einde de UNTAC in staat te stellen de beëindiging van buitenlandse hulp aan alle Kambodjaanse Partijen te controleren komen de Partijen overeen dat zij, bij ondertekening van deze Overeenkomst, de UNTAC alle hun ter beschikking staande informatie verstrekken over de routes waarlangs en de wijze waarop militaire hulp, met inbegrip van wapens, munitie en militaire uitrusting aan enige Partij is verleend. Onmiddellijk na de aanvang van de tweede fase van het staakt-het-vuren neemt de UNTAC de volgende praktische maatregelen:
-
-- a. Het instellen van controleposten langs de routes en op geselecteerde plaatsen langs de Kambodjaanse kant van de grens en op vliegvelden in Kambodja;
-
-- b. Het patrouilleren in de kust- en binnenwateren van Kambodja;
-
-- c. Het onderhouden van mobiele teams op strategische punten in Kambodja die patrouilles uitvoeren en vermeende wapenleveranties aan een van de Partijen onderzoeken.
-
-##### Artikel VIII. Geheime opslagplaatsen van wapens en militaire voorraden
-
-1. Ten einde de veiligheidssituatie te stabiliseren, vertrouwen te wekken en de wapens en militaire voorraden in geheel Kambodja te verminderen, stemt elke Partij ermee in de Bevelhebber van de militaire afdeling van de UNTAC, vóór een door deze te bepalen datum, alle haar ter beschikking staande informatie, met inbegrip van kaarten met aanduidingen, te verstrekken over bekende of vermoede geheime opslagplaatsen van wapens en militaire voorraden in geheel Cambodja.
-
-2. Op grond van de ontvangen informatie zendt de militaire afdeling van de UNTAC na de in het eerste lid bedoelde datum verificatieteams uit om elk rapport te onderzoeken en elke gevonden geheime opslagplaats te vernietigen.
-
-##### Artikel IX. Niet ontplofte explosieven
-
-1. Spoedig na aankomst in Kambodja verzekert de militaire afdeling van de UNTAC, als eerste stap, dat alle bekende mijnenvelden duidelijk worden aangegeven.
-
-2. De Partijen komen overeen dat zij, na voltooiing van de hergroepering en verzameling overeenkomstig artikel III van deze Bijlage, mijnopruimingsteams ter beschikking zullen stellen die, onder toezicht en controle van het militaire personeel van de UNTAC, de verzamelgebieden zullen verlaten om te helpen bij het verwijderen, ontmantelen of onschadelijk maken van nog aanwezige niet ontplofte explosieven. De mijnen of voorwerpen die niet kunnen worden verwijderd, ontmanteld of onschadelijk gemaakt, zullen duidelijk worden aangegeven overeenkomstig een door de militaire afdeling van de UNTAC uit te werken systeem.
-
-3. De UNTAC:
-
-- a. Voert een grootscheeps programma ter voorlichting van het publiek uit inzake de herkenning en vermijding van explosieven;
-
-- b. Leidt Kambodjaanse vrijwilligers op om niet ontplofte explosieven op te ruimen;
-
-- c. Biedt een opleiding in eerste hulp aan Cambodjaanse vrijwilligers.
-
-##### Artikel X. Onderzoek van schendingen
-
-1. Na de aanvang van de tweede fase stelt de UNTAC, bij ontvangst van informatie of klachten van een van de Partijen betreffende een eventueel geval van niet-naleving van enige bepaling van deze Bijlage of daarmede samenhangende bepalingen, een onderzoek in op een door haar passend geachte wijze. Wanneer het onderzoek plaatsvindt naar aanleiding van een klacht van een van de Partijen, wordt van deze Partij verlangd dat zij personeel ter beschikking stelt om de onderzoekers van de UNTAC te vergezellen. De resultaten van zo'n onderzoek worden door de UNTAC medegedeeld aan de klagende Partij en de Partij tegen wie de klacht is ingediend, en indien nodig aan de HNR.
-
-2. De UNTAC verricht ook uit eigen beweging onderzoeken in andere gevallen wanneer zij redenen heeft om aan te nemen of te vermoeden dat deze Bijlage of daarmede samenhangende bepalingen worden geschonden.
-
-##### Artikel XI. Vrijlating van krijgsgevangenen
-
-De militaire afdeling van de UNTAC verleent waar vereist bijstand aan het Internationale Comité van het Rode Kruis bij de vervulling van zijn taken betreffende de vrijlating van krijgsgevangenen.
-
-##### Artikel XII. Repatriëring en hervestiging van ontheemde Kambodjanen
-
-De militaire afdeling van de UNTAC verleent waar nodig bijstand bij de repatriëring van Kambodjaanse vluchtelingen en ontheemden overeenkomstig de artikelen 19 en 20 van deze Overeenkomst, met name door het opruimen van mijnen op repatriëringsroutes en in opvangcentra en hervestigingsgebieden, alsmede door het beschermen van de opvangcentra.
-
 TEN BLIJKE WAARVAN de ondertekenende gevolmachtigden, daartoe naar behoren gemachtigd, deze Overeenkomst hebben ondertekend.
 
 GEDAAN te Parijs, drieëntwintig oktober negentienhonderd eenennegentig.
 
-**(Voor de ondertekeningen, zie blz. 20 van dit Tractatenblad)**
+*(Voor de ondertekeningen, zie blz. 20 van dit Tractatenblad)*

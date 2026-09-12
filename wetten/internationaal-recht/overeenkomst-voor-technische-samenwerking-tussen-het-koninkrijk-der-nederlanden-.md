@@ -1,47 +1,19 @@
 ---
 title: "Overeenkomst voor technische samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Guatemala"
 identifier: "BWBV0002673"
-country: "nl"
-rank: "verdrag"
-publication_date: "1992-07-02"
-last_updated: "1992-07-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002673"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002966683"
-version_id: "10002969322"
-internal_id: "C10006976831"
-label_id: "10002953314"
-dtd_version: "2.0"
-original_entry_into_force: "1992-07-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002673/1992-07-02/0"
-intitule_bron: "Trb.1991-145"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-09-20"
-intitule_published: "1991-10-30"
-intitule_in_force: "1992-10-02"
-intitule_status: "goed"
-original_publication: "Trb.1991-145"
-original_signed_date: "1991-09-20"
-original_published_date: "1991-10-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1991-145"
-entry_into_force_date: "1992-07-02"
-jci_1_3: "jci1.3:c:BWBV0002673&z=1992-07-02&g=1992-07-02"
-jci_1_0: "1.0:c:BWBV0002673&g=1992-07-02"
-citeertitel_status: "officieel"
-signed_date: "1991-09-20"
-entry_into_force: "1992-07-02"
+publicatiedatum: 1992-07-02
+laatste_update: 1992-07-02
+status: geldig
+toestand: 1992-07-02
+bron: "https://wetten.overheid.nl/BWBV0002673"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst voor technische samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Guatemala
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Guatemala,
-
-teneinde de vriendschappelijke betrekkingen tussen beide landen en hun bevolking te versterken,
-
-vanuit hun wens de technische samenwerking te bevorderen en hiervoor een juridisch en bestuurlijk kader te scheppen,
-
-zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Guatemala, teneinde de vriendschappelijke betrekkingen tussen beide landen en hun bevolking te versterken, vanuit hun wens de technische samenwerking te bevorderen en hiervoor een juridisch en bestuurlijk kader te scheppen, zijn het volgende overeengekomen:*
 
 ##### Artikel I
 
@@ -125,8 +97,8 @@ Erik W. P. Klipp
 
 Tijdelijk Zaakgelastigde
 
-**Namens de Regering van het Koninkrijk der Nederlanden**
+*Namens de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) A. ARZÚ IRIGOYEN
 
-**Namens de Regering van de Republiek Guatemala**
+*Namens de Regering van de Republiek Guatemala*

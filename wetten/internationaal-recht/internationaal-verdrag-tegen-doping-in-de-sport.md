@@ -1,500 +1,438 @@
 ---
 title: "Internationaal Verdrag tegen doping in de sport"
 identifier: "BWBV0001829"
-country: "nl"
-rank: "verdrag"
-publication_date: "2026-01-01"
-last_updated: "2026-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001829"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002533383"
-version_id: "10002522132"
-internal_id: "C10006995541"
-label_id: "10002523304"
-dtd_version: "2.0"
-original_entry_into_force: "2007-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001829/2026-01-01/0"
-intitule_bron: "Trb.2006-194"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-11-17"
-intitule_published: "2006-09-15"
-intitule_in_force: "2007-01-18"
-intitule_status: "goed"
-original_publication: "Trb.2006-194"
-original_signed_date: "2006-11-17"
-original_published_date: "2006-09-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2006-194"
-entry_into_force_date: "2007-02-01"
-jci_1_3: "jci1.3:c:BWBV0001829&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBV0001829&g=2026-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2006-11-17"
-entry_into_force: "2007-02-01"
+publicatiedatum: 2007-02-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBV0001829"
+opgehaald: 2026-09-12
 ---
+
 # Internationaal Verdrag tegen doping in de sport
 
-**Preambule**
+*Preamble The General Conference of the United Nations Educational, Scientific and Cultural Organization, hereinafter referred to as UNESCO, meeting in Paris from 3 to 21 October 2005, at its 33rd session, Considering that the aim of UNESCO is to contribute to peace and security by promoting collaboration among nations through education, science and culture, Referring to existing international instruments relating to human rights, Aware of resolution 58/5 adopted by the General Assembly of the United Nations on 3 November 2003, concerning sport as a means to promote education, health, development and peace, notably its paragraph 7, Conscious that sport should play an important role in the protection of health, in moral, cultural and physical education and in promoting international understanding and peace, Noting the need to encourage and coordinate international cooperation towards the elimination of doping in sport, Concerned by the use of doping by athletes in sport and the consequences thereof for their health, the principle of fair play, the elimination of cheating and the future of sport, Mindful that doping puts at risk the ethical principles and educational values embodied in the International Charter of Physical Education and Sport of UNESCO and in the Olympic Charter, Recalling that the Anti-Doping Convention and its Additional Protocol adopted within the framework of the Council of Europe are the public international law tools, which are at the origin of national anti-doping policies and of intergovernmental cooperation, Recalling the Recommendations on doping adopted by the second, third and fourth International Conferences of Ministers and Senior Officials responsible for Physical Education and Sport organized by UNESCO at Moscow (1988), Punta del Este (1999) and Athens (2004) and 32 C/Resolution 9 adopted by the General Conference of UNESCO at its 32nd session (2003), Bearing in mind the World Anti-Doping Code adopted by the World Anti-Doping Agency at the World Conference on Doping in Sport, Copenhagen, 5 March 2003 and the Copenhagen Declaration on Anti-Doping in Sport, Mindful also of the influence that elite athletes have on youth, Aware of the ongoing need to conduct and promote research with the objectives of improving detection of doping and better understanding of the factors affecting use in order for prevention strategies to be most effective, Aware also of the importance of ongoing education of athletes, athlete support personnel and the community at large in preventing doping, Mindful of the need to build the capacity of States Parties to implement anti-doping programmes, Aware that public authorities and the organizations responsible for sport have complementary responsibilities to prevent and combat doping in sport, notably to ensure the proper conduct, on the basis of the principle of fair play, of sports events and to protect the health of those that take part in them, Recognizing that these authorities and organizations must work together for these purposes ensuring the highest degree of independence and transparency at all appropriate levels, Determined to take further and stronger cooperative action aimed at the elimination of doping in sport, Recognizing that the elimination of doping in sport is dependent in part upon progressive harmonization of anti-doping standards and practices in sport and cooperation at the national and global levels, Adopts this Convention on this nineteenth day of October 2005.*
 
-De Algemene Conferentie van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur, hierna aangeduid als UNESCO, bijeengekomen te Parijs van 3 tot en met 21 oktober 2005 tijdens haar 33e zitting,
+## PART I. SCOPE
 
-Overwegend dat het doel van UNESCO is een bijdrage te leveren aan vrede en veiligheid door samenwerking tussen naties te bevorderen door middel van onderwijs, wetenschap en cultuur,
+##### Article 1. Purpose of the Convention
 
-Verwijzend naar bestaande internationale instrumenten inzake mensenrechten,
+The purpose of this Convention, within the framework of the strategy and programme of activities of UNESCO in the area of physical education and sport, is to promote the prevention of and the fight against doping in sport, with a view to its elimination.
 
-Zich bewust van resolutie 58/5 aangenomen door de Algemene Vergadering van de Verenigde Naties op 3 november 2003, betreffende sport als middel om onderwijs, gezondheid, ontwikkeling en vrede te bevorderen, en met name paragraaf 7 daarvan,
+##### Article 2. Definitions
 
-Zich er tevens van bewust dat sport een belangrijke rol dient te spelen bij de bescherming van de gezondheid, bij morele en culturele vorming en lichamelijke opvoeding en bij het bevorderen van wederzijds begrip en vrede in de wereld,
+These definitions are to be understood within the context of the World Anti-Doping Code. However, in case of conflict the provisions of the Convention will prevail.
 
-Gelet op de noodzaak internationale samenwerking gericht op het uitbannen van doping in de sport te bevorderen en te coördineren,
+For the purposes of this Convention:
 
-Bezorgd over het gebruik door sporters van dopingmiddelen in de sport en de gevolgen daarvan voor hun gezondheid, het beginsel van fair play, het uitbannen van bedrog en de toekomst van de sport,
+- 1. “Accredited doping control laboratories” means laboratories accredited by the World Anti-Doping Agency.
 
-Indachtig het feit dat doping een bedreiging vormt voor de ethische beginselen en educatieve waarden vervat in het Internationale Handvest voor Lichamelijke Opvoeding en Sport van UNESCO en in het Olympisch Handvest,
+- 2. “Anti-doping organization” means an entity that is responsible for adopting rules for initiating, implementing or enforcing any part of the doping control process. This includes, for example, the International Olympic Committee, the International Paralympic Committee, other major event organizations that conduct testing at their events, the World Anti-Doping Agency, international federations, and national anti-doping organizations.
 
-In herinnering roepend dat de [Overeenkomst ter bestrijding van doping](https://wetten.overheid.nl/jci1.3:c:BWBV0004757) en het Aanvullend Protocol daarbij aangenomen in het kader van de Raad van Europa instrumenten van internationaal publiekrecht zijn, die ten grondslag liggen aan nationaal antidopingbeleid en aan intergouvernementele samenwerking,
+- 3. “Anti-doping rule violation” in sport means one or more of the following:
 
-Herinnerend aan de Aanbevelingen inzake doping aangenomen tijdens de tweede, derde en vierde Internationale Conferentie van ministers en hoge ambtenaren verantwoordelijk voor lichamelijke opvoeding en sport, door UNESCO georganiseerd te Moskou (1988), Punta del Este (1999) en Athene (2004) en aan 32 C/Resolutie 9 aangenomen door de Algemene Conferentie van UNESCO tijdens haar 32e zitting (2003),
+   - a) the presence of a prohibited substance or its metabolites or markers in an athlete’s bodily specimen;
 
-Indachtig de Wereldantidopingcode aangenomen door het Mondiaal Antidopingagentschap tijdens de Wereldconferentie inzake doping in de sport, Kopenhagen, 5 maart 2003 en de Verklaring van Kopenhagen tegen het gebruik van doping in de sport,
+   - b) use or attempted use of a prohibited substance or a prohibited method;
 
-Tevens indachtig de invloed die topsporters hebben op de jeugd,
+   - c) refusing, or failing without compelling justification, to submit to sample collection after notification as authorized in applicable anti-doping rules or otherwise evading sample collection;
 
-Zich bewust van de permanente behoefte onderzoek uit te voeren en te bevorderen met als doel het verbeteren van de detectie van doping en een beter begrip van de factoren die van invloed zijn op het gebruik ervan teneinde tot zo doeltreffend mogelijke preventiestrategieën te komen,
+   - d) violation of applicable requirements regarding athlete availability for out-of-competition testing including failure to provide required whereabouts information and missed tests which are declared based on reasonable rules;
 
-Zich tevens bewust van het belang van voortdurende educatie van sporters, hun begeleiders en de maatschappij in het algemeen op het gebied van het voorkomen van doping,
+   - e) tampering, or attempting to tamper, with any part of doping control;
 
-Indachtig de noodzaak de capaciteit van Staten die Partij zijn om antidopingprogramma’s te implementeren op te bouwen,
+   - f) possession of prohibited substances or methods;
 
-Zich ervan bewust dat overheidsinstanties en sportorganisaties elkaar aanvullende verantwoordelijkheden hebben bij het voorkomen en bestrijden van doping in de sport, in het bijzonder het goede verloop, op basis van het beginsel van fair play, van sportevenementen, en bij het beschermen van de gezondheid van de deelnemers daaraan,
+   - g) trafficking in any prohibited substance or prohibited method;
 
-Erkennend dat deze autoriteiten en organisaties daartoe dienen samen te werken en daarbij de hoogste mate van onafhankelijkheid en transparantie op alle van toepassing zijnde niveaus dienen te waarborgen,
+   - h) administration or attempted administration of a prohibited substance or prohibited method to any athlete, or assisting, encouraging, aiding, abetting, covering up or any other type of complicity involving an anti-doping rule violation or any attempted violation.
 
-Vastbesloten nadere maatregelen te nemen, in hechtere samenwerking, gericht op de uitbanning van doping in de sport,
+- 4. “Athlete” means, for the purposes of doping control, any person who participates in sport at the international or national level as defined by each national anti-doping organization and accepted by States Parties and any additional person who participates in a sport or event at a lower level accepted by States Parties. For the purposes of education and training programmes, “athlete” means any person who participates in sport under the authority of a sports organization.
 
-Erkennend dat de uitbanning van doping in de sport ten dele afhankelijk is van de verdere harmonisatie van normen en praktijken op het gebied van de bestrijding van doping in de sport en samenwerking op nationaal en mondiaal niveau,
+- 5. “Athlete support personnel” means any coach, trainer, manager, agent, team staff, official, medical or paramedical personnel working with or treating athletes participating in or preparing for sports competition.
 
-Neemt dit Verdrag aan op 19 oktober 2005.
+- 6. “Code” means the World Anti-Doping Code adopted by the World Anti-Doping Agency on 5 March 2003 at Copenhagen which is attached as Appendix 1 to this Convention.
 
-## DEEL I. REIKWIJDTE
+- 7. “Competition” means a single race, match, game or singular athletic contest.
 
-##### Artikel 1. Doelstelling van het Verdrag
+- 8. “Doping control” means the process including test distribution planning, sample collection and handling, laboratory analysis, results management, hearings and appeals.
 
-De doelstelling van dit Verdrag, in het kader van de strategie en het activiteitenprogramma van UNESCO op het gebied van lichamelijke opvoeding en sport, is het bevorderen van het voorkomen en bestrijden van doping in de sport, met het oog op de uitbanning ervan.
+- 9. “Doping in sport” means the occurrence of an anti-doping rule violation
 
-##### Artikel 2. Begripsomschrijvingen
+- 10. “Duly authorized doping control teams” means doping control teams operating under the authority of international or national anti-doping organizations.
 
-Deze begripsomschrijvingen dienen begrepen te worden in de context van de Wereldantidopingcode. Indien de bepalingen daarvan in strijd zijn met die van het Verdrag, zijn de bepalingen van het Verdrag doorslaggevend.
+- 11. “In-competition” testing means, for purposes of differentiating between in-competition and out-of-competition testing, unless provided otherwise in the rules of an international federation or other relevant anti-doping organization, a test where an athlete is selected for testing in connection with a specific competition.
 
-Voor de toepassing van dit Verdrag wordt verstaan onder:
+- 12. “International Standard for Laboratories” means the standard which is attached as Appendix 2 to this Convention
 
-- 1. „Geaccrediteerde dopingcontrolelaboratoria’’ door het Mondiaal Antidopingagentschap geaccrediteerde laboratoria.
+- 13. “International Standard for Testing” means the standard which is attached as Appendix 3 to this Convention.
 
-- 2. „Antidopingorganisatie’’ een orgaan dat verantwoordelijk is voor het aannemen van regels voor het in gang zetten, implementeren of handhaven van elk deel van het proces van dopingcontrole. Hieronder worden onder andere begrepen het Internationaal Olympisch Comité, het Internationaal Paralympisch Comité, andere organisatoren van grote evenementen die tijdens hun evenementen dopingcontroles uitvoeren, het Mondiaal Antidopingagentschap, internationale sportbonden en nationale antidopingorganisaties.
+- 14. “No advance notice” means a doping control which takes place with no advance warning to the athlete and where the athlete is continuously chaperoned from the moment of notification through sample provision.
 
-- 3. „Schending van het antidopingreglement’’ in de sport een of meer van de onderstaande schendingen:
+- 15. “Olympic Movement” means all those who agree to be guided by the Olympic Charter and who recognize the authority of the International Olympic Committee, namely: the international federations of sports on the programme of the Olympic Games; the National Olympic Committees, the Organizing Committees of the Olympic Games, athletes, judges and referees, associations and clubs, as well as all the organizations and institutions recognized by the International Olympic Committee.
 
-- a). de aanwezigheid van een verboden stof of een van haar metabolieten of markers in een lichaamsweefsel of lichaamsvloeistof van een sporter;
+- 16. “Out-of-competition” doping control means any doping control which is not conducted in competition.
 
-- b). gebruik of poging tot gebruik van een verboden stof of een verboden methode;
+- 17. “Prohibited List” means the list which appears in [Annex I](https://wetten.overheid.nl/BWBV0001829) to this Convention identifying the prohibited substances and prohibited methods.
 
-- c). weigering een monster af te staan na aankondiging zoals toegestaan door het toepasselijke antidopingreglement, of het nalaten hiervan zonder dwingende reden, of het anderszins vermijden van het afstaan van monsters;
+- 18. “Prohibited method” means any method so described on the Prohibited List, which appears in [Annex I](https://wetten.overheid.nl/BWBV0001829) to this Convention.
 
-- d). schending van de toepasselijke vereisten inzake de beschikbaarheid van sporters voor controles buiten wedstrijdverband met inbegrip van het verzuimen de vereiste informatie over de verblijfplaats te verstrekken en het missen van controles waarvan verklaard wordt dat zij zijn gebaseerd op redelijke regelgeving;
+- 19. “Prohibited substance” means any substance so described on the Prohibited List, which appears in Annex I to this Convention.
 
-- e). manipuleren, of poging tot het manipuleren, van een onderdeel van een dopingcontrole;
+- 20. “Sports organization” means any organization that serves as the ruling body for an event for one or several sports.
 
-- f). bezit van verboden stoffen of methoden;
+- 21. “Standards for Granting Therapeutic Use Exemptions” means those standards that appear in [Annex II](https://wetten.overheid.nl/BWBV0001829) to this Convention.
 
-- g). handel in een verboden stof of een verboden methode;
+- 22. “Testing” means the parts of the doping control process involving test distribution planning, sample collection, sample handling, and sample transport to the laboratory.
 
-- h). toediening of poging tot toediening van een verboden stof of verboden methode aan een sporter, of hulp bij, aanmoediging van, medeplichtigheid aan, uitlokking van, verhulling van of enige andere vorm van medeplichtigheid aan een schending of poging tot schending van een antidopingreglement.
+- 23. “Therapeutic use exemption” means an exemption granted in accordance with [Standards for Granting Therapeutic Use Exemptions](https://wetten.overheid.nl/BWBV0001829).
 
-- 4. „Sporter’’, ten behoeve van dopingcontrole, elke persoon die een sport beoefent op internationaal of nationaal niveau zoals omschreven door elke nationale antidopingorganisatie en door de Staten die Partij zijn aanvaard en elke andere persoon die een sport beoefent of aan een evenement deelneemt op een lager niveau dat door de Staten die Partij zijn is aanvaard. Ten behoeve van opleidings- en trainingsprogramma’s wordt onder „sporter’’ verstaan elke persoon die een sport beoefent die onder toezicht van een sportorganisatie staat.
+- 24. “Use” means the application, ingestion, injection or consumption by any means whatsoever of any prohibited substance or prohibited method.
 
-- 5. „Begeleiders van sporters’’ coaches, trainers, managers, zaakwaarnemers, teammedewerkers, officials, medisch of paramedisch personeel met wie een sporter die deelneemt aan of zich voorbereidt op deelname aan een sportwedstrijd samenwerkt of door wie deze wordt behandeld.
+- 25. “World Anti-Doping Agency (WADA)” means the foundation so named established under Swiss law on 10 November 1999.
 
-- 6. „Code’’ de Wereldantidopingcode aangenomen door het Mondiaal Antidopingagentschap op 5 maart 2003 te Kopenhagen, die als Aanhangsel 1 bij dit Verdrag is gevoegd.
+##### Article 3. Means to achieve the purpose of the Convention
 
-- 7. „Wedstrijd’’ een enkele race, match, partij of afzonderlijke sportieve krachtmeting.
+In order to achieve the purpose of the Convention, States Parties undertake to:
 
-- 8. „Dopingcontrole’’ het volledige proces met inbegrip van het plannen van uit te voeren controles, verzamelen en hanteren van monsters, laboratoriumonderzoek, resultatenbeheer, hoorzittingen en beroepsprocedures.
+- a. adopt appropriate measures at the national and international levels which are consistent with the principles of the Code;
 
-- 9. „Doping in de sport’’ het zich voordoen van een schending van het antidopingreglement.
+- b. encourage all forms of international cooperation aimed at protecting athletes and ethics in sport, and at sharing the results of research;
 
-- 10. „Naar behoren gemachtigde dopingcontroleteams’’ dopingcontroleteams die onder de bevoegdheid van internationale of nationale antidopingorganisaties opereren.
+- c. foster international cooperation between States Parties and leading organizations in the fight against doping in sport, in particular with the World Anti-Doping Agency.
 
-- 11. Controle „binnen wedstrijdverband’’ ten behoeve van het onderscheid tussen controles binnen wedstrijdverband en buiten wedstrijdverband, tenzij anderszins voorzien in het reglement van een internationale sportbond of andere relevante antidopingorganisatie, een controle waarbij een sporter voor controle wordt aangewezen in verband met een specifieke wedstrijd.
+##### Article 4. Relationship of the Convention to the Code
 
-- 12. „Internationale norm voor laboratoria’’ de norm die als Aanhangsel 2 bij dit Verdrag is gevoegd.
+1. In order to coordinate the implementation, at the national and international levels, of the fight against doping in sport, States Parties commit themselves to the principles of the Code, as the basis for the measures provided for in [Article 5](https://wetten.overheid.nl/BWBV0001829) of this Convention. Nothing in this Convention prevents States Parties from adopting additional measures complementary to the Code.
 
-- 13. „Internationale norm voor dopingcontroles’’ de norm die als Aanhangsel 3 bij dit Verdrag is gevoegd.
+2. The Code and the most current version of Appendices 2 and 3 are reproduced for information purposes, and are not an integral part of this Convention. The Appendices as such do not create any binding obligations under international law for States Parties.
 
-- 14. „Onaangekondigd’’ een dopingcontrole die plaatsvindt zonder dat de sporter daarvan vooraf op de hoogte wordt gesteld en waarbij de sporter voordurend door een controleur wordt vergezeld vanaf het moment van de aankondiging tot en met de afname van het monster.
+3. The Annexes are an integral part of this Convention.
 
-- 15. „Onaangekondigd’’ een dopingcontrole die plaatsvindt zonder dat de sporter daarvan vooraf op de hoogte wordt gesteld en waarbij de sporter voordurend door een controleur wordt vergezeld vanaf het moment van de aankondiging tot en met de afname van het monster.
+##### Article 5. Measures to achieve the objectives of the Convention
 
-- 16. Dopingcontrole „buiten wedstrijdverband’’ elke dopingcontrole die niet binnen wedstrijdverband plaatsvindt.
+In abiding by the obligations contained in this Convention, each State Party undertakes to adopt appropriate measures. Such measures may include legislation, regulation, policies or administrative practices.
 
-- 17. „Lijst van verboden stoffen en methoden’’ de lijst vervat in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&bijlage=I&z=2026-01-01&g=2026-01-01) bij dit Verdrag waarin de verboden stoffen en verboden methoden vermeld staan.
+##### Article 6. Relationship to other international instruments
 
-- 18. „Verboden methode’’ elke methode die als zodanig omschreven staat in de Lijst van verboden stoffen en methoden vervat in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&bijlage=I&z=2026-01-01&g=2026-01-01) bij dit Verdrag.
+This Convention shall not alter the rights and obligations of States Parties which arise from other agreements previously concluded and consistent with the object and purpose of this Convention. This does not affect the enjoyment by other States Parties of their rights or the performance of their obligations under this Convention.
 
-- 19. „Verboden stof’’ elke stof die als zodanig omschreven staat in de Lijst van verboden stoffen en methoden vervat in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&bijlage=I&z=2026-01-01&g=2026-01-01) bij dit Verdrag.
+## PART II. ANTI-DOPING ACTIVITIES AT THE NATIONAL LEVEL
 
-- 20. „Sportorganisatie’’ elke organisatie die de eindverantwoordelijkheid draagt voor een evenement met een of meer sporten.
+##### Article 7. Domestic coordination
 
-- 21. „Normen voor het verlenen van dispensatie voor therapeutisch gebruik’’ de normen vervat in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&bijlage=II&z=2026-01-01&g=2026-01-01) bij dit Verdrag.
+States Parties shall ensure the application of the present Convention, notably through domestic coordination. To meet their obligations under this Convention, States Parties may rely on anti-doping organizations as well as sports authorities and organizations.
 
-- 22. „Controle’’ de onderdelen van het dopingcontroleproces inhoudende het plannen van de controles, het verzamelen en hanteren van monsters en het verzenden van monsters naar het laboratorium.
+##### Article 8. Restricting the availability and use in sport of prohibited substances and methods
 
-- 23. „Dispensatie voor therapeutisch gebruik’’ een dispensatie verleend in overeenstemming met de normen voor het verlenen van dispensatie voor therapeutisch gebruik.
+1. States Parties shall, where appropriate, adopt measures to restrict the availability of prohibited substances and methods in order to restrict their use in sport by athletes, unless the use is based upon a therapeutic use exemption. These include measures against trafficking to athletes, and to this end, measures to control production, movement, importation, distribution and sale.
 
-- 24. „Gebruik’’ het aanbrengen, innemen, injecteren of op welke wijze dan ook consumeren van een verboden stof of verboden methode.
+2. States Parties shall adopt, or encourage, where appropriate, the relevant entities within their jurisdictions to adopt measures to prevent and to restrict the use and possession of prohibited substances and methods by athletes in sport unless the use is based upon a therapeutic use exemption.
 
-- 25. „Mondiaal Antidopingagentschap (WADA)’’ de stichting die op 10 november 1999 onder deze naam werd opgericht naar Zwitsers recht.
+3. No measures taken pursuant to this Convention will impede the availability for legitimate purposes, of substances and methods otherwise prohibited or controlled in sport.
 
-##### Artikel 3. Middelen om het doel van het Verdrag te verwezenlijken
+##### Article 9. Measures against athlete support personnel
 
-Ter verwezenlijking van het doel van het Verdrag verplichten de Staten die Partij zijn zich tot het:
+States Parties shall themselves take measures or encourage sports organizations and anti-doping organizations to adopt measures, including sanctions or penalties, aimed at athlete support personnel who commit an anti-doping rule violation or other offence connected with doping in sport.
 
-- a. invoeren van passende maatregelen op nationaal en internationaal niveau die verenigbaar zijn met de beginselen van de Code;
+##### Article 10. Nutritional supplements
 
-- b. aanmoedigen van alle vormen van internationale samenwerking gericht op het beschermen van de sporters en de ethiek in de sport en op het delen van onderzoeksresultaten;
+States Parties, where appropriate, shall encourage producers and distributors of nutritional supplements to establish best practices in the marketing and distribution of nutritional supplements, including information regarding their analytic composition and quality assurance.
 
-- c. bevorderen van internationale samenwerking tussen de Staten die Partij zijn en organisaties die een leidende rol hebben bij de bestrijding van doping in de sport, met name Mondiaal Antidopingagentschap.
+##### Article 11. Financial measures
 
-##### Artikel 4. Verhouding van het Verdrag tot de Code
+States Parties shall, where appropriate:
 
-1. Teneinde de implementatie van de bestrijding van doping in de sport op nationaal en internationaal niveau te coördineren verplichten de Staten die Partij zijn zich de beginselen van de Code te eerbiedigen, als basis voor de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=I&artikel=5&z=2026-01-01&g=2026-01-01) van dit Verdrag vervatte maatregelen. Niets in dit Verdrag belet de Staten die Partij zijn andere maatregelen te nemen ter aanvulling van de Code.
+- a) provide funding within their respective budgets to support a national testing programme across all sports or assist sports organizations and anti-doping organizations in financing doping controls either by direct subsidies or grants, or by recognizing the costs of such controls when determining the overall subsidies or grants to be awarded to those organizations;
 
-2. De Code en de meest recente versie van de Aanhangsels 2 en 3 worden ter informatie verstrekt en vormen geen integrerend onderdeel van dit Verdrag. Uit de Bijlagen als zodanig vloeien voor de Staten die Partij zijn geen bindende verplichtingen voort uit hoofde van het internationaal recht.
+- b) take steps to withhold sport-related financial support to individual athletes or athlete support personnel who have been suspended following an anti-doping rule violation, during the period of their suspension;
 
-3. De Bijlagen vormen een integrerend onderdeel van dit Verdrag.
+- c) withhold some or all financial or other sport-related support from any sports organization or anti-doping organization not in compliance with the Code or applicable anti-doping rules adopted pursuant to the Code.
 
-##### Artikel 5. Maatregelen om de doelstellingen van dit Verdrag te verwezenlijken
+##### Article 12. Measures to facilitate doping control
 
-Door de in dit Verdrag vervatte verplichtingen te eerbiedigen, verplicht elke Staat die Partij is zich passende maatregelen in te voeren. Dergelijke maatregelen kunnen wetgeving, regulering, beleid of administratieve praktijken inhouden.
+States Parties shall, where appropriate:
 
-##### Artikel 6. Verhouding tot andere internationale instrumenten
+- a) encourage and facilitate the implementation by sports organizations and anti-doping organizations within their jurisdiction of doping controls in a manner consistent with the Code including no-advance notice, out-of-competition and in-competition testing;
 
-Dit Verdrag heeft geen verandering tot gevolg van de rechten en verplichtingen van Staten die Partij zijn die voortvloeien uit eerder gesloten verdragen die verenigbaar zijn met het onderwerp en het doel van dit Verdrag. Dit doet geen afbreuk aan het genot van hun rechten door andere Staten die Partij zijn of de nakoming van hun verplichtingen uit hoofde van dit Verdrag.
+- b) encourage and facilitate the negotiation by sports organizations and anti-doping organizations of agreements permitting their members to be tested by duly authorized doping control teams from other countries;
 
-## DEEL II. ANTIDOPINGACTIVITEITEN OP NATIONAAL NIVEAU
+- c) undertake to assist the sports organizations and anti-doping organizations within their jurisdiction in gaining access to an accredited doping control laboratory for the purposes of doping control analysis.
 
-##### Artikel 7. Coördinatie op nationaal niveau
+## PART III. INTERNATIONAL COOPERATION
 
-De Staten die Partij zijn, waarborgen de toepassing van dit Verdrag in het bijzonder door coördinatie op nationaal niveau. Teneinde hun verplichtingen ingevolge dit Verdrag na te komen, kunnen de Staten die Partij zijn zich verlaten op antidopingorganisaties alsmede op sportautoriteiten en -organisaties.
+##### Article 13. Cooperation between anti-doping organizations and sports organizations
 
-##### Artikel 8. Beperking van de beschikbaarheid en het gebruik in de sport van verboden stoffen en methoden
+States Parties shall encourage cooperation between anti-doping organizations, public authorities, and sports organizations within their jurisdiction and those within the jurisdiction of other States Parties in order to achieve, at the international level, the purpose of this Convention.
 
-1. De Staten die Partij zijn, nemen, wanneer van toepassing, maatregelen om de beschikbaarheid van verboden stoffen en methoden te beperken teneinde het gebruik ervan door sporters in de sport aan banden te leggen, tenzij er sprake is van dispensatie voor therapeutisch gebruik. Hieronder vallen maatregelen tegen de op sporters gerichte illegale handel in deze stoffen en methoden, en daaruit voortvloeiend, maatregelen om de productie, het verkeer, de invoer, distributie en verkoop ervan te controleren.
+##### Article 14. Supporting the mission of the World Anti-Doping Agency
 
-2. De Staten die Partij zijn, nemen maatregelen om het gebruik en het bezit van verboden stoffen en methoden door sporters in de sport te voorkomen en te beperken tenzij dit is toegestaan ingevolge een dispensatie voor therapeutisch gebruik, of moedigen, wanneer van toepassing, de relevante instanties onder hun rechtsmacht aan zulks te doen.
+States Parties undertake to support the important mission of the World Anti-Doping Agency in the international fight against doping.
 
-3. Geen van de uit hoofde van dit Verdrag genomen maatregelen beperkt de beschikbaarheid voor legitieme doeleinden van stoffen en methoden die in de sport verboden of aan banden gelegd zijn.
+##### Article 15. Equal funding of the World Anti-Doping Agency
 
-##### Artikel 9. Maatregelen tegen begeleiders van sporters
+States Parties support the principle of equal funding of the World Anti-Doping Agency’s approved annual core budget by public authorities and the Olympic Movement.
 
-De Staten die Partij zijn, nemen zelf maatregelen, met inbegrip van sancties of straffen, tegen begeleiders van sporters die het antidopingreglement schenden of een ander strafbaar feit met betrekking tot doping in de sport begaan, of moedigen sportorganisaties of antidopingorganisaties aan zulks te doen.
+##### Article 16. International cooperation in doping control
 
-##### Artikel 10. Voedingssupplementen
+Recognizing that the fight against doping in sport can only be effective when athletes can be tested with no advance notice and samples can be transported in a timely manner to laboratories for analysis, States Parties shall, where appropriate and in accordance with domestic law and procedures:
 
-De Staten die Partij zijn, moedigen, wanneer van toepassing, producenten en distributeurs van voedingssupplementen aan beste praktijken in te stellen op het gebied van marketing en distributie van voedingssupplementen, met inbegrip van informatie over hun analytische samenstelling en kwaliteitsborging.
+- a) facilitate the task of the World Anti-Doping Agency and anti-doping organizations operating in compliance with the Code, subject to relevant host countries’ regulations, of conducting in- or out-of-competition doping controls on their athletes, whether on their territory or elsewhere;
 
-##### Artikel 11. Financiële maatregelen
+- b) facilitate the timely movement of duly authorized doping control teams across borders when conducting doping control activities;
 
-De Staten die Partij zijn,
+- c) cooperate to expedite the timely shipping or carrying across borders of samples in such a way as to maintain their security and integrity;
 
-- a). stellen, wanneer van toepassing, binnen hun respectieve begrotingen fondsen beschikbaar ter ondersteuning van een nationaal dopingcontroleprogramma in alle takken van sport of ondersteunen sportorganisaties en antidopingorganisaties bij het financieren van dopingcontroles, hetzij door hun daarvoor rechtstreeks subsidies of toelagen toe te kennen, hetzij door met de kosten van dergelijke controles rekening te houden bij het vaststellen van de subsidies of toelagen die aan deze organisaties worden toegekend;
+- d) assist in the international coordination of doping controls by various anti-doping organizations, and cooperate to this end with the World Anti-Doping Agency;
 
-- b). nemen, wanneer van toepassing, stappen om de op de sport betrekking hebbende financiële ondersteuning in te trekken voor individuele sporters of begeleiders van sporters die geschorst zijn na een schending van een antidopingreglement, gedurende de periode waarin zij geschorst zijn;
+- e) promote cooperation between doping control laboratories within their jurisdiction and those within the jurisdiction of other States Parties. In particular, States Parties with accredited doping control laboratories should encourage laboratories within their jurisdiction to assist other States Parties in enabling them to acquire the experience, skills and techniques necessary to establish their own laboratories should they wish to do so;
 
-- c). trekken, wanneer van toepassing, een gedeelte van of de volledige financiële steun of andere op de sport betrekking hebbende steun in voor elke sportorganisatie of antidopingorganisatie die zich niet aan de Code of het ingevolge de Code aangenomen antidopingreglement houdt.
+- f) encourage and support reciprocal testing arrangements between designated anti-doping organizations, in conformity with the Code;
 
-##### Artikel 12. Maatregelen om dopingcontrole te vergemakkelijken
+- g) mutually recognize the doping control procedures and test results management, including the sport sanctions thereof, of any anti-doping organization that are consistent with the Code.
 
-De Staten die Partij zijn,
+##### Article 17. Voluntary Fund
 
-- a. bevorderen en vergemakkelijken, wanneer van toepassing, het uitvoeren van dopingcontroles door de sportorganisaties en antidopingorganisaties onder hun rechtsmacht op een wijze die verenigbaar is met de Code, met inbegrip van controles die onaangekondigd, buiten en binnen wedstrijdverband plaatsvinden;
+1. A “Fund for the Elimination of Doping in Sport”, hereinafter referred to as “the Voluntary Fund”, is hereby established. The Voluntary Fund shall consist of funds-in-trust established in accordance with the Financial Regulations of UNESCO. All contributions by States Parties and other actors shall be voluntary.
 
-- b. bevorderen en vergemakkelijken, wanneer van toepassing, onderhandelingen door sportorganisaties en antidopingorganisaties over overeenkomsten uit hoofde waarvan het wordt toegestaan hun leden te laten controleren door naar behoren bevoegde dopingcontroleteams uit andere landen;
+2. The resources of the Voluntary Fund shall consist of:
 
-- c. verplichten zich, wanneer van toepassing, de sportorganisaties en antidopingorganisaties onder hun rechtsmacht te helpen toegang te krijgen tot een geaccrediteerd dopingcontrolelaboratorium ten behoeve van de analyse van afgenomen monsters.
+- a) contributions made by States Parties;
 
-## DEEL III. INTERNATIONALE SAMENWERKING
+- b) contributions, gifts or bequests which may be made by:
 
-##### Artikel 13. Samenwerking tussen antidopingorganisaties en sportorganisaties
+   - (i) other States;
 
-De Staten die Partij zijn, bevorderen de samenwerking tussen antidopingorganisaties, overheidsinstanties en sportorganisaties onder hun rechtsmacht en die onder de rechtsmacht van andere Staten die Partij zijn, teneinde, op internationaal niveau, de doelstellingen van dit Verdrag te verwezenlijken.
+   - (ii) organizations and programmes of the United Nations system, particularly the United Nations Development Programme, as well as other international organizations;
 
-##### Artikel 14. Ondersteuning van de missie van het Mondiaal Antidopingagentschap
+   - (iii) public or private bodies or individuals;
 
-De Staten die Partij zijn, verplichten zich de belangrijke missie van het Mondiaal Antidopingagentschap in de internationale dopingbestrijding te ondersteunen.
+- c) any interest due on the resources of the Voluntary Fund;
 
-##### Artikel 15. Evenredige financiering van het Mondiaal Antidopingagentschap
+- d) funds raised through collections, and receipts from events organized for the benefit of the Voluntary Fund;
 
-De Staten die Partij zijn, ondersteunen het beginsel van evenredige financiering van de goedgekeurde jaarlijkse basisbegroting van het Mondiaal Antidopingagentschap door overheidsinstanties en de Olympische Beweging.
+- e) any other resources authorized by the Voluntary Fund’s regulations, to be drawn up by the Conference of Parties.
 
-##### Artikel 16. Internationale samenwerking bij dopingcontrole
+3. Contributions into the Voluntary Fund by States Parties shall not be considered to be a replacement for States Parties’ commitment to pay their share of the World Anti-Doping Agency’s annual budget.
 
-Erkennend dat de bestrijding van doping in de sport slechts doeltreffend kan zijn wanneer sporters onaangekondigd kunnen worden gecontroleerd en de monsters tijdig voor analyse naar laboratoria kunnen worden verzonden, nemen de Staten die Partij zijn, wanneer van toepassing en in overeenstemming met hun nationale wetgeving en procedures, de volgende maatregelen:
+##### Article 18. Use and governance of the Voluntary Fund
 
-- a. vergemakkelijken van de taak van het Mondiaal Antidopingagentschap en antidopingorganisaties die overeenkomstig de Code werken, met inachtneming van de relevante regelgeving van de gastheerlanden, om binnen en buiten wedstrijdverband hun sporters op het gebruik van doping te controleren, hetzij op hun grondgebied, hetzij elders;
+Resources in the Voluntary Fund shall be allocated by the Conference of Parties for the financing of activities approved by it, notably to assist States Parties in developing and implementing anti-doping programmes, in accordance with the provisions of this Convention, taking into consideration the goals of the World Anti-Doping Agency, and may serve to cover functioning costs of this Convention. No political, economic or other conditions may be attached to contributions made to the Voluntary Fund.
 
-- b. vergemakkelijken van de tijdige grenspassage van naar behoren gemachtigde dopingcontroleteams wanneer zij dopingcontroleactiviteiten uitvoeren;
+## PART IV. EDUCATION AND TRAINING
 
-- c. samenwerking ter bespoediging van de tijdige verzending of grenspassage van monsters op zodanige wijze dat de veiligheid en integriteit daarvan behouden blijven;
+##### Article 19. General education and training principles
 
-- d. ondersteuning van de internationale coördinatie van dopingcontroles door verschillende antidopingorganisaties en samenwerking daartoe met het Mondiaal Antidopingagentschap;
+1. States Parties shall undertake, within their means, to support, devise or implement education and training programmes on anti-doping. For the sporting community in general, these programmes should aim to provide updated and accurate information on:
 
-- e. bevorderen van de samenwerking tussen dopingcontrolelaboratoria onder hun rechtsmacht en laboratoria onder de rechtsmacht van andere Staten die Partij zijn. In het bijzonder dienen Staten die Partij zijn met geaccrediteerde dopingcontrolelaboratoria laboratoria onder hun rechtsmacht aan te moedigen samen te werken met andere Staten die Partij zijn opdat deze de ervaring, vaardigheden en technieken kunnen verwerven die nodig zijn om eigen laboratoria op te richten indien zij dit zouden wensen;
+- a) the harm of doping to the ethical values of sport;
 
-- f. bevorderen en ondersteunen van wederzijdse controleregelingen tussen aangewezen antidopingorganisaties, in overeenstemming met de Code;
+- b) the health consequences of doping.
 
-- g. wederzijdse erkenning van de dopingcontroleprocedures en het resultatenbeheer van elke antidopingorganisatie, met inbegrip van de daaruit voortvloeiende sancties op sportgebied, die in overeenstemming zijn met de Code.
+2. For athletes and athlete support personnel, in particular in their initial training, education and training programmes should, in addition to the above, aim to provide updated and accurate information on:
 
-##### Artikel 17. Vrijwillig Fonds
+- a) doping control procedures;
 
-1. Hierbij wordt een „Fonds voor de uitbanning van doping in de sport’’, hierna te noemen „het Vrijwillig Fonds’’, ingesteld. Het Vrijwillig Fonds bestaat uit funds-in-trust ingesteld in overeenstemming met het Financieel Reglement van UNESCO. Alle bijdragen van Staten die Partij zijn en van andere actoren zijn vrijwillig.
+- b) athletes’ rights and responsibilities in regard to anti-doping, including information about the Code and the anti-doping policies of the relevant sports and anti-doping organizations. Such information shall include the consequences of committing an anti-doping rule violation;
 
-2. De middelen van het Vrijwillig Fonds bestaan uit:
+- c) the list of prohibited substances and methods and therapeutic use exemptions;
 
-- a. bijdragen van Staten die Partij zijn;
+- d) nutritional supplements.
 
-- b. bijdragen, giften of legaten die afkomstig kunnen zijn van:
+##### Article 20. Professional codes of conduct
 
-- i. andere staten;
+States Parties shall encourage relevant competent professional associations and institutions to develop and implement appropriate codes of conduct, good practice and ethics related to anti-doping in sport that are consistent with the Code.
 
-- ii. organisaties en programma’s van het systeem van de Verenigde Naties, met name het Ontwikkelingsprogramma van de Verenigde Naties, alsmede andere internationale organisaties;
+##### Article 21. Involvement of athletes and athlete support personnel
 
-- iii. publieke of private instanties of individuen;
+States Parties shall promote and, within their means, support active participation by athletes and athlete support personnel in all facets of the anti-doping work of sports and other relevant organizations and encourage sports organizations within their jurisdiction to do likewise.
 
-- c. enige verschuldigde rente op de middelen van het Vrijwillig Fonds;
+##### Article 22. Sports organizations and ongoing education and training on anti-doping
 
-- d. ingezamelde fondsen en opbrengsten van evenementen die ten behoeve van het Vrijwillig Fonds zijn georganiseerd;
+States Parties shall encourage sports organizations and anti-doping organizations to implement ongoing education and training programmes for all athletes and athlete support personnel on the subjects identified in [Article 19](https://wetten.overheid.nl/BWBV0001829).
 
-- e. alle andere middelen die zijn toegestaan ingevolge het reglement van het Vrijwillig Fonds, dat door de Conferentie van Partijen zal worden opgesteld.
+##### Article 23. Cooperation in education and training
 
-3. Bijdragen van de Staten die Partij zijn aan het Vrijwillig Fonds zijn geen vervanging voor de verplichting van de Staten die Partij zijn hun deel van de jaarbegroting van het Mondiaal Antidopingagentschap te betalen.
+States Parties shall cooperate mutually and with the relevant organizations to share, where appropriate, information, expertise and experience on effective anti-doping programmes.
 
-##### Artikel 18. Inzet en bestuur van het Vrijwillig Fonds
+## PART V. RESEARCH
 
-Middelen van het Vrijwillig Fonds worden door de Conferentie van Partijen toegewezen ten behoeve van de financiering van door hen goedgekeurde activiteiten, in het bijzonder het ondersteunen van Staten die Partij zijn bij het ontwikkelen en implementeren van antidopingprogramma’s, in overeenstemming met de bepalingen van dit Verdrag, daarbij rekening houdend met de doelstelling van het Mondiaal Antidopingagentschap, en kunnen worden ingezet om de operationele kosten van dit Verdrag te dekken. Aan bijdragen aan het Vrijwillig Fonds mogen geen politieke, economische of andere voorwaarden verbonden worden.
+##### Article 24. Promotion of research in anti-doping
 
-## DEEL IV. VOORLICHTING EN TRAINING
+States Parties undertake, within their means, to encourage and promote anti-doping research in cooperation with sports and other relevant organizations on:
 
-##### Artikel 19. Algemene beginselen inzake voorlichting en training
+- a) prevention, detection methods, behavioural and social aspects, and the health consequences of doping;
 
-1. De Staten die Partij zijn, verplichten zich, binnen hun mogelijkheden, voorlichtings- en trainingprogramma’s op het gebied van dopingbestrijding te ondersteunen, ontwikkelen of implementeren. Voor de sportgemeenschap in het algemeen dienen deze programma’s gericht te zijn op het bieden van actuele en accurate informatie over:
+- b) ways and means of devising scientifically-based physiological and psychological training programmes respectful of the integrity of the person;
 
-- a. het gevaar van doping voor de ethische waarden van de sport;
+- c) the use of all emerging substances and methods resulting from scientific developments.
 
-- b. de gevolgen van doping voor de gezondheid.
+##### Article 25. Nature of anti-doping research
 
-2. Voor sporters en begeleiders van sporters, met name tijdens hun basistraining, dienen voorlichtings- en trainingsprogramma’s, in aanvulling op het bovenstaande, gericht te zijn op het bieden van actuele en accurate informatie over:
+When promoting anti-doping research, as set out in [Article 24](https://wetten.overheid.nl/BWBV0001829), States Parties shall ensure that such research will:
 
-- a. dopingcontroleprocedures;
+- a) comply with internationally recognized ethical practices;
 
-- b. de rechten en verantwoordelijkheden van sporters ten aanzien van dopingbestrijding, met inbegrip van informatie over de Code en het antidopingbeleid van de relevante sport- en antidopingorganisaties. Dergelijke informatie dient de gevolgen van het schenden van de dopingregelgeving te omvatten;
+- b) avoid the administration to athletes of prohibited substances and methods;
 
-- c. de lijst van verboden stoffen en methoden en dispensatie voor therapeutisch gebruik;
+- c) be undertaken only with adequate precautions in place to prevent the results of anti-doping research being misused and applied for doping.
 
-- d. voedingssupplementen.
+##### Article 26. Sharing the results of anti-doping research
 
-##### Artikel 20. Professionele gedragscodes
+Subject to compliance with applicable national and international law, States Parties shall, where appropriate, share the results of available anti-doping research with other States Parties and the World Anti-Doping Agency.
 
-De Staten die Partij zijn, moedigen relevante bevoegde sportbonden en -instellingen aan passende gedragscodes, goede praktijken en ethische normen inzake de bestrijding van doping in de sport die in overeenstemming zijn met de Code te ontwikkelen en te implementeren.
+##### Article 27. Sport science research
 
-##### Artikel 21. Betrokkenheid van sporters en begeleiders van sporters
+States Parties shall encourage:
 
-De Staten die Partij zijn, bevorderen en ondersteunen, binnen hun mogelijkheden, de actieve betrokkenheid van sporters en begeleiders van sporters bij alle facetten van dopingbestrijding door sportorganisaties en andere relevante organisaties en moedigen sportorganisaties onder hun rechtsmacht aan hetzelfde te doen.
+- a) members of the scientific and medical communities to carry out sport science research in accordance with the principles of the Code;
 
-##### Artikel 22. Sportorganisaties en permanente voorlichting en training op het gebied van dopingbestrijding
+- b) sports organizations and athlete support personnel within their jurisdiction to implement sport science research that is consistent with the principles of the Code.
 
-De Staten die Partij zijn, moedigen sportorganisaties en antidopingorganisaties aan permanente voorlichtings- en trainingsprogramma’s te implementeren voor alle sporters en begeleiders van sporters inzake de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=IV&artikel=19&z=2026-01-01&g=2026-01-01) genoemde gebieden.
+## PART VI. MONITORING OF THE CONVENTION
 
-##### Artikel 23. Samenwerking bij voorlichting en training
+##### Article 28. Conference of Parties
 
-De Staten die Partij zijn, werken met elkaar en met de relevante organisaties samen om, wanneer van toepassing, informatie, expertise en ervaringen met betrekking tot doeltreffende programma’s om doping te bestrijden uit te wisselen.
+1. A Conference of Parties is hereby established. The Conference of Parties shall be the sovereign body of this Convention.
 
-## DEEL V. ONDERZOEK
+2. The Conference of Parties shall meet in ordinary session in principle every two years. It may meet in extraordinary session if it so decides or at the request of at least one third of the States Parties.
 
-##### Artikel 24. Bevorderen van onderzoek naar dopingbestrijding
+3. Each State Party shall have one vote at the Conference of Parties.
 
-De Staten die Partij zijn, verplichten zich, binnen hun mogelijkheden, onderzoek naar dopingbestrijding in samenwerking met sportorganisaties en andere organisaties aan te moedigen en te bevorderen met betrekking tot:
+4. The Conference of Parties shall adopt its own Rules of Procedure.
 
-- a. manieren en methoden om wetenschappelijk verantwoorde fysiologische en psychologische trainingsprogramma’s op te stellen die de integriteit van de betrokken persoon eerbiedigen;
+##### Article 29. Advisory organization and observers to the Conference of Parties
 
-- b. manieren en methoden om wetenschappelijk verantwoorde fysiologische en psychologische trainingsprogramma’s op te stellen die de integriteit van de betrokken persoon eerbiedigen;
+The World Anti-Doping Agency shall be invited as an advisory organization to the Conference of Parties. The International Olympic Committee, the International Paralympic Committee, the Council of Europe, and the Intergovernmental Committee for Physical Education and Sport (CIGEPS) shall be invited as observers. The Conference of Parties may decide to invite other relevant organizations as observers.
 
-- c. het gebruik van alle nieuwe stoffen en methoden die uit wetenschappelijke ontwikkelingen resulteren.
+##### Article 30. Functions of the Conference of Parties
 
-##### Artikel 25. De aard van onderzoek ten behoeve van dopingbestrijding
+1. Besides those set forth in other provisions of this Convention, the functions of the Conference of Parties shall be to:
 
-Bij het bevorderen van onderzoek ten behoeve van dopingbestrijding, als vervat in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=V&artikel=24&z=2026-01-01&g=2026-01-01), waarborgen de Staten die Partij zijn dat dergelijk onderzoek:
+- a) promote the purpose of this Convention;
 
-- a. voldoet aan internationaal erkende ethische praktijken;
+- b) discuss the relationship with the World Anti-Doping Agency and study the mechanisms of funding of the Agency’s annual core budget. States non-Parties may be invited to the discussion;
 
-- b. niet de toediening aan sporters van verboden stoffen en methoden inhoudt;
+- c) adopt a plan for the use of the resources of the Voluntary Fund, in accordance with [Article 18](https://wetten.overheid.nl/BWBV0001829);
 
-- c. uitsluitend wordt uitgevoerd na instelling van adequate voorzorgsmaatregelen teneinde te voorkomen dat de resultaten van onderzoek ten behoeve van dopingbestrijding worden misbruikt en voor dopingdoeleinden worden toegepast.
+- d) examine the reports submitted by States Parties in accordance with [Article 31](https://wetten.overheid.nl/BWBV0001829);
 
-##### Artikel 26. Delen van de resultaten van onderzoek ten behoeve van dopingbestrijding
+- e) examine, on an ongoing basis, the monitoring of compliance with this Convention in response to the development of anti-doping systems, in accordance with [Article 31](https://wetten.overheid.nl/BWBV0001829). Any monitoring mechanism or measure that goes beyond Article 31 shall be funded through the Voluntary Fund established under [Article 17](https://wetten.overheid.nl/BWBV0001829);
 
-Met inachtneming van het toepasselijke nationaal en internationaal recht, delen de Staten die Partij zijn, wanneer van toepassing, de resultaten van beschikbaar onderzoek ten behoeve van dopingbestrijding met de andere Staten die Partij zijn en met het Mondiaal Antidopingsagentschap.
+- f) examine draft amendments to this Convention for adoption;
 
-##### Artikel 27. Sportwetenschappelijk onderzoek
+- g) examine for approval, in accordance with [Article 34](https://wetten.overheid.nl/BWBV0001829) of the Convention, modifications to the [Prohibited List](https://wetten.overheid.nl/BWBV0001829) and to the [Standards for Granting Therapeutic Use Exemptions](https://wetten.overheid.nl/BWBV0001829) adopted by the World Anti-Doping Agency;
 
-De Staten die Partij zijn, moedigen:
+- h) define and implement cooperation between States Parties and the World Anti-Doping Agency within the framework of this Convention;
 
-- a. de wetenschappelijke en medische wereld aan sportwetenschappelijk onderzoek uit te voeren in overeenstemming met de beginselen van de Code;
+- i) request a report from the World Anti-Doping Agency on the implementation of the Code to each of its sessions for examination.
 
-- b. sportorganisaties en begeleiders van sporters onder hun rechtsmacht aan sportwetenschappelijk onderzoek te implementeren dat verenigbaar is met de beginselen van de Code.
+2. The Conference of Parties, in fulfilling its functions, may cooperate with other intergovernmental bodies.
 
-## DEEL VI. TOEZICHT OP HET VERDRAG
+##### Article 31. National reports to the Conference of Parties
 
-##### Artikel 28. Conferentie van Partijen
+States Parties shall forward every two years to the Conference of Parties through the Secretariat, in one of the official languages of UNESCO, all relevant information concerning measures taken by them for the purpose of complying with the provisions of this Convention.
 
-1. Hierbij wordt een Conferentie van Partijen ingesteld. De Conferentie van Partijen is het hoogste orgaan van dit Verdrag.
+##### Article 32. Secretariat of the Conference of Parties
 
-2. De Conferentie van Partijen komt in beginsel eenmaal per twee jaar in gewone zitting bijeen. Zij kan in buitengewone zitting bijeenkomen indien zij daartoe beslist of op verzoek van ten minste een derde van de Staten die Partij zijn.
+1. The Secretariat of the Conference of Parties shall be provided by the Director-General of UNESCO.
 
-3. Elke Staat die Partij is, heeft een stem bij de Conferentie van Partijen,
+2. At the request of the Conference of Parties the Director-General of UNESCO shall use to the fullest extent possible the services of the World Anti-Doping Agency on terms agreed upon by the Conference of Parties.
 
-4. De Conferentie stelt haar eigen reglement van orde vast.
+3. Functioning costs related to the Convention will be funded from the regular budget of UNESCO within existing resources at an appropriate level, the Voluntary Fund established under [Article 17](https://wetten.overheid.nl/BWBV0001829) or an appropriate combination thereof as determined every two years. The financing for the Secretariat from the regular budget shall be done on a strictly minimal basis, it being understood that voluntary funding should also be provided to support the Convention.
 
-##### Artikel 29. Adviesorgaan van en waarnemers bij de Conferentie van Partijen
+4. The Secretariat shall prepare the documentation of the Conference of Parties, as well as the draft agenda of its meetings, and shall ensure the implementation of its decisions.
 
-Het Mondiaal Antidopingagentschap wordt uitgenodigd als adviesorgaan van de Conferentie van Partijen. Het Internationaal Olympisch Comité, het Internationaal Paralympisch Comité, de Raad van Europa en het Intergovernmental Committee for Physical Education and Sport (CIGEPS) worden als waarnemers uitgenodigd. De Conferentie van Partijen kan besluiten andere relevante organisaties als waarnemers uit te nodigen.
+##### Article 33. Amendments
 
-##### Artikel 30. Taken van de Conferentie van Partijen
+1. Each State Party may, by written communication addressed to the Director-General of UNESCO, propose amendments to this Convention. The Director-General shall circulate such communication to all States Parties. If, within six months from the date of the circulation of the communication, at least one half of the States Parties give their consent, the Director-General shall present such proposals to the following session of the Conference of Parties.
 
-1. Naast de taken vervat in de andere bepalingen van dit Verdrag, heeft de Conferentie van Partijen de volgende taken:
+2. Amendments shall be adopted by the Conference of Parties with a two-thirds majority of States Parties present and voting.
 
-- a. bevorderen van de doelstelling van dit Verdrag;
+3. Once adopted, amendments to this Convention shall be submitted for ratification, acceptance, approval or accession to States Parties.
 
-- b. bespreken van de relatie met het Modiaal Antidopingagentschap en bestuderen van de mechanismen van de financiering van de jaarlijkse basisbegroting van het Agentschap. Staten die geen Partij zijn, kunnen worden uitgenodigd aan de bespreking deel te nemen;
+4. With respect to the States Parties that have ratified, accepted, approved or acceded to them, amendments to this Convention shall enter into force three months after the deposit of the instruments referred to in paragraph 3 of this Article by two thirds of the States Parties. Thereafter, for each State Party that ratifies, accepts, approves or accedes to an amendment, the said amendment shall enter into force three months after the date of deposit by that State Party of its instrument of ratification, acceptance, approval or accession.
 
-- c. aannemen van een plan voor de toepassing van de middelen van het Vrijwillig Fonds, in overeenstemming met [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=III&artikel=18&z=2026-01-01&g=2026-01-01);
+5. A State that becomes a Party to this Convention after the entry into force of amendments in conformity with paragraph 4 of this Article shall, failing an expression of different intention, be considered:
 
-- d. onderzoeken van de door de Staten die Partij zijn in overeenstemming met [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VI&artikel=31&z=2026-01-01&g=2026-01-01) ingediende verslagen;
+- a) a Party to this Convention as so amended;
 
-- e. toetsen, op permanente basis, van het toezicht op de naleving van dit Verdrag in antwoord op de ontwikkeling van systemen voor dopingbestrijding, in overeenstemming met [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VI&artikel=31&z=2026-01-01&g=2026-01-01). Elk toezichtsmechanisme dat of elke toezichtsmaatregel die buiten het kader van artikel 31 valt, wordt gefinancierd door het ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=III&artikel=17&z=2026-01-01&g=2026-01-01) ingestelde Vrijwillig Fonds;
+- b) a Party to the unamended Convention in relation to any State Party not bound by the amendments.
 
-- f. onderzoeken van ontwerpwijzigingen van dit Verdrag in verband met de aanname daarvan;
+##### Article 34. Specific amendment procedure for the Annexes to the Convention
 
-- g. onderzoeken ter goedkeuring, in overeenstemming met [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VI&artikel=34&z=2026-01-01&g=2026-01-01) van het Verdrag, van wijzigingen van de Lijst van verboden middelen en methoden en van de Normen voor het verlenen van dispensatie voor therapeutisch gebruik aangenomen door het Mondiaal Antidopingagentschap;
+1. If the World Anti-Doping Agency modifies the [Prohibited List](https://wetten.overheid.nl/BWBV0001829) or the [Standards for Granting Therapeutic Use Exemptions](https://wetten.overheid.nl/BWBV0001829), it may, by written communication addressed to the Director-General of UNESCO, inform her/him of those changes. The Director-General shall notify such changes as proposed amendments to the relevant Annexes to this Convention to all States Parties expeditiously. Amendments to the Annexes shall be approved by the Conference of Parties either at one of its sessions or through a written consultation.
 
-- h. omschrijven en implementeren van de samenwerking tussen de Staten die Partij zijn en het Mondiaal Antidopingagentschap in het kader van dit Verdrag;
+2. States Parties have 45 days from the Director-General’s notification within which to express their objection to the proposed amendment either in writing, in case of written consultation, to the Director-General or at a session of the Conference of Parties. Unless two thirds of the States Parties express their objection, the proposed amendment shall be deemed to be approved by the Conference of Parties.
 
-- i. ten behoeve van elk van haar zittingen verzoeken om een verslag van het Mondiaal Antidopingagentschap inzake de implementatie van de Code ter toetsing.
+3. Amendments approved by the Conference of Parties shall be notified to States Parties by the Director-General. They shall enter into force 45 days after that notification, except for any State Party that has previously notified the Director-General that it does not accept these amendments.
 
-2. De Conferentie van Partijen kan bij de uitoefening van haar taken samenwerken met andere intergouvernementele instanties.
+4. A State Party having notified the Director-General that it does not accept an amendment approved according to the preceding paragraphs remains bound by the Annexes as not amended.
 
-##### Artikel 31. Nationale verslagen aan de Conferentie van Partijen
+## PART VII. FINAL CLAUSES
 
-De Staten die Partij zijn, zenden de Conferentie van Partijen elke twee jaar via het Secretariaat, in een van de officiële talen van UNESCO, alle relevante informatie toe betreffende door hen getroffen maatregelen te behoeve van de naleving van de bepalingen van dit Verdrag.
+##### Article 35. Federal or non-unitary constitutional systems
 
-##### Artikel 32. Secretariaat van de Conferentie van Partijen
+The following provisions shall apply to States Parties that have a federal or non-unitary constitutional system:
 
-1. Het Secretariaat van de Conferentie van Partijen wordt verzorgd door de Directeur-Generaal van UNESCO.
+- a) With regard to the provisions of this Convention, the implementation of which comes under the legal jurisdiction of the federal or central legislative power, the obligations of the federal or central government shall be the same as for those States Parties which are not federal States;
 
-2. Op verzoek van de Conferentie van Partijen maakt de Directeur-Generaal van UNESCO in zo ruim mogelijke mate gebruik van de diensten van het Mondiaal Antidopingagentschap op de door de Conferentie van Partijen overeengekomen voorwaarden.
+- b) With regard to the provisions of this Convention, the implementation of which comes under the jurisdiction of individual constituent States, countries, provinces or cantons which are not obliged by the constitutional system of the federation to take legislative measures, the federal government shall inform the competent authorities of such States, countries, provinces or cantons of the said provisions, with its recommendation for their adoption.
 
-3. Kosten die verband houden met het functioneren van het Verdrag worden gefinancierd uit de reguliere begroting van UNESCO uit bestaande middelen op een passend niveau, uit het ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=III&artikel=17&z=2026-01-01&g=2026-01-01) ingestelde Vrijwillig Fonds of uit een passende combinatie daarvan, zoals elke twee jaar wordt vastgesteld. Financiering van het Secretariaat uit de reguliere begroting dient zo beperkt mogelijk te blijven, ervan uitgaande dat het Verdrag ook door vrijwillige financiering ondersteund dient te worden.
+##### Article 36. Ratification, acceptance, approval or accession
 
-4. Het Secretariaat stelt de documentatie van de Conferentie van Partijen op, alsmede de ontwerpagenda van haar bijeenkomsten, en waarborgt de implementatie van de beslissingen ervan.
+This Convention shall be subject to ratification, acceptance, approval or accession by States Members of UNESCO in accordance with their respective constitutional procedures. The instruments of ratification, acceptance, approval or accession shall be deposited with the Director-General of UNESCO.
 
-##### Artikel 33. Wijzigingen
+##### Article 37. Entry into force
 
-1. Elke Staat die Partij is, kan door middel van een schriftelijke mededeling gericht aan de Directeur-Generaal van UNESCO voorstellen doen tot wijziging van dit Verdrag. De Directeur-Generaal verzendt deze mededeling aan alle Staten die Partij zijn. Indien, binnen zes maanden na de datum van verzending van de mededeling, ten minste de helft van de Staten die Partij zijn ermee instemmen, legt de Directeur-Generaal dergelijke voorstellen voor aan de volgende zitting van de Conferentie van Partijen.
+1. This Convention shall enter into force on the first day of the month following the expiration of a period of one month after the date of deposit of the thirtieth instrument of ratification, acceptance, approval or accession.
 
-2. Wijzigingen worden aangenomen door de Conferentie van Partijen met een tweederde meerderheid van de Staten die Partij zijn die aanwezig zijn en hun stem uitbrengen.
+2. For any State that subsequently expresses its consent to be bound by it, the Convention shall enter into force on the first day of the month following the expiration of a period of one month after the date of deposit of its instrument of ratification, acceptance, approval or accession.
 
-3. Zodra wijzigingen van dit Verdrag zijn aangenomen worden zij ter bekrachtiging, aanvaarding, goedkeuring of toetreding voorgelegd aan de Staten die Partij zijn.
+##### Article 38. Territorial extension of the Convention
 
-4. Ten aanzien van de Staten die Partij zijn die deze wijzigingen hebben bekrachtigd, aanvaard, goedgekeurd of die ertoe zijn toegetreden, treedt dit Verdrag in werking drie maanden na de nederlegging van de in het derde lid van dit artikel bedoelde akten door twee derde van de Staten die Partij zijn. Vervolgens treedt de genoemde wijziging voor elke Staat die deze bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt in werking drie maanden na de datum van nederlegging door die Staat die Partij is van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
+1. Any State may, when depositing its instrument of ratification, acceptance, approval or accession, specify the territory or territories for whose international relations it is responsible and to which this Convention shall apply.
 
-5. Een Staat die Partij wordt bij dit Verdrag na de inwerkingtreding van wijzigingen overeenkomstig het vierde lid van dit artikel wordt geacht:
+2. Any State Party may, at any later date, by a declaration addressed to UNESCO, extend the application of this Convention to any other territory specified in the declaration. In respect of such territory the Convention shall enter into force on the first day of the month following the expiration of a period of one month after the date of receipt of such declaration by the depositary.
 
-- a. Partij te zijn bij het aldus gewijzigde Verdrag;
+3. Any declaration made under the two preceding paragraphs may, in respect of any territory specified in such declaration, be withdrawn by a notification addressed to UNESCO. Such withdrawal shall become effective on the first day of the month following the expiration of a period of one month after the date of receipt of such a notification by the depositary.
 
-- b. Partij te zijn bij het ongewijzigde Verdrag ten aanzien van elke Staat die Partij is die niet gebonden is door de wijzigingen; tenzij hij blijk geeft van een andere bedoeling.
+##### Article 39. Denunciation
 
-##### Artikel 34. Specifieke wijzigingsprocedure voor de Bijlagen bij het Verdrag
+Any State Party may denounce this Convention. The denunciation shall be notified by an instrument in writing, deposited with the Director-General of UNESCO. The denunciation shall take effect on the first day of the month following the expiration of a period of six months after the receipt of the instrument of denunciation. It shall in no way affect the financial obligations of the State Party concerned until the date on which the withdrawal takes effect.
 
-1. Indien het Mondiaal Antidopingagentschap de Lijst van verboden middelen en methoden of de Normen voor het verlenen van dispensatie voor therapeutisch gebruik wijzigt, kan hij, door middel van een schriftelijke kennisgeving gericht aan de Directeur-Generaal van UNESCO, hem of haar in kennis stellen van deze wijzigingen. De Directeur-Generaal brengt deze veranderingen als voorgestelde wijzigingen van de desbetreffende Bijlagen bij dit Verdrag onverwijld ter kennis van alle Staten die Partij zijn. Wijzigingen van de Bijlagen worden door de Conferentie van Partijen goedgekeurd, hetzij tijdens een van haar zittingen, hetzij door middel van schrifteljk overleg.
+##### Article 40. Depositary
 
-2. De Staten die Partij zijn, kunnen binnen 45 dagen na de kennisgeving van de Directeur-Generaal hun bezwaar tegen de voorgestelde wijziging kenbaar maken, hetzij schriftelijk in het geval van schriftelijk overleg aan de Directeur-Generaal, hetzij tijdens een zitting van de Conferentie van Partijen. Tenzij twee derde van de Staten die Partij zijn bezwaar aantekenen, wordt de voorgestelde wijziging geacht te zijn goedgekeurd door de Conferentie van Partijen.
+The Director-General of UNESCO shall be the Depositary of this Convention and amendments thereto. As the Depositary, the Director-General of UNESCO shall inform the States Parties to this Convention, as well as the other States Members of the Organization of:
 
-3. Door de Conferentie van Partijen goedgekeurde wijzigingen worden door de Directeur-Generaal ter kennis van de Staten die Partij zijn gebracht. Zij treden 45 dagen na deze kennisgeving in werking, uitgezonderd ten aanzien van elke Staat die Partij is die de Directeur-Generaal vooraf ervan in kennis heeft gesteld dat hij deze wijzigingen niet aanvaardt.
+- a) the deposit of any instrument of ratification, acceptance, approval or accession;
 
-4. Een Staat die Partij is die de Directeur-Generaal ervan in kennis heeft gesteld dat hij een wijziging die overeenkomstig de voorgaande leden is goedgekeurd niet aanvaardt, blijft gebonden door de ongewijzigde Bijlagen.
+- b) the date of entry into force of this Convention in accordance with [Article 37](https://wetten.overheid.nl/BWBV0001829);
 
-## DEEL VII. SLOTBEPALINGEN
+- c) any report prepared in pursuance of the provisions of [Article 31](https://wetten.overheid.nl/BWBV0001829);
 
-##### Artikel 35. Federale of niet-unitaire constitutionele stelsels
+- d) any amendment to the Convention or to the Annexes adopted in accordance with [Articles 33](https://wetten.overheid.nl/BWBV0001829) and [34](https://wetten.overheid.nl/BWBV0001829) and the date on which the amendment comes into force;
 
-De volgende bepalingen zijn van toepassing op Staten die Partij zijn met een federaal of niet-unitair constitutioneel systeem:
+- e) any declaration or notification made under the provisions of [Article 38](https://wetten.overheid.nl/BWBV0001829);
 
-- a. Ten aanzien van de bepalingen van dit Verdrag, waarvan de implementatie onder de rechtsmacht van de federale of centrale wetgevende macht valt, zijn de verplichtingen van de federale of centrale regering dezelfde als die voor Staten die Partij zijn die geen federale staten zijn;
+- f) any notification made under the provisions of [Article 39](https://wetten.overheid.nl/BWBV0001829) and the date on which the denunciation takes effect;
 
-- b. Ten aanzien van de bepalingen van dit Verdrag, waarvan de implementatie onder de rechtsmacht valt van de afzonderlijke Staten, landen, provincies of kantons die door het constitutionele stelsel van de federatie niet verplicht zijn wetgevende maatregelen te treffen, stelt de federale regering de bevoegde autoriteiten van dergelijke Staten, landen, provincies of kantons in kennis van genoemde bepalingen, tezamen met haar aanbeveling deze aan te nemen.
+- g) any other act, notification or communication relating to this Convention.
 
-##### Artikel 36. Bekrachtiging, aanvaarding, goedkeuring of toetreding
+##### Article 41. Registration
 
-Dit Verdrag dient te worden bekrachtigd, aanvaard, goedgekeurd of hiertoe dient te worden toegetreden door de lidstaten van UNESCO in overeenstemming met hun onderscheiden grondwettelijke procedures. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding dienen te worden nedergelegd bij de Directeur-Generaal van UNESCO.
+In conformity with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), this Convention shall be registered with the Secretariat of the United Nations at the request of the Director-General of UNESCO.
 
-##### Artikel 37. Inwerkingtreding
+##### Article 42. Authoritative texts
 
-1. Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een maand na de datum van nederlegging van de dertigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
+1. This Convention including its Annexes has been drawn up in Arabic, Chinese, English, French, Russian and Spanish, the six texts being equally authoritative.
 
-2. Ten aanzien van elke Staat die later zijn instemming door het Verdrag te worden gebonden tot uitdrukking brengt, treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum van nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
+2. The Appendices to this Convention are provided in Arabic, Chinese, English, French, Russian and Spanish.
 
-##### Artikel 38. Uitbreiding tot andere gebieden van het Verdrag
+##### Article 43. Reservations
 
-1. Elke Staat kan bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding het grondgebied of de grondgebieden aanduiden voor de internationale betrekkingen waarvan hij verantwoordelijk is en waarop dit Verdrag van toepassing is.
-
-2. Elke Staat die Partij is, kan op een later tijdstip door middel van een verklaring gericht aan UNESCO, de toepassing van dit Verdrag uitbreiden tot elk ander grondgebied dat in de verklaring wordt genoemd. Ten aanzien van een dergelijk grondgebied treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum van ontvangst van die verklaring door de Depositaris.
-
-3. Elke verklaring die wordt gedaan uit hoofde van de twee voorgaande leden kan, met betrekking tot elk grondgebied dat in de verklaring wordt genoemd, worden ingetrokken door middel van een aan UNESCO gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum van ontvangst van een dergelijke kennisgeving door de Depositaris.
-
-##### Artikel 39. Opzegging
-
-Elke Staat die Partij is, kan dit Verdrag opzeggen. De opzegging wordt door middel van een schriftelijke akte ter kennis gebracht en bij de Directeur-Generaal van UNESCO nedergelegd. De opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na ontvangst van de akte van opzegging. Dit heeft in geen geval gevolgen voor de financiële verplichtingen van de desbetreffende Staat die Partij is tot de datum waarop de opzegging van kracht wordt.
-
-##### Artikel 40. Depositaris
-
-De Directeur-Generaal van UNESCO is de Depositaris van dit Verdrag en de wijzigingen daarvan. De Directeur-Generaal van UNESCO stelt als Depositaris alle Staten die Partij zijn bij dit Verdrag alsmede de andere lidstaten van de Organisatie in kennis van:
-
-- a. de nederlegging van elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
-
-- b. de datum van inwerkingtreding van dit Verdrag overeenkomstig [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VII&artikel=37&z=2026-01-01&g=2026-01-01);
-
-- c. elk verslag opgesteld uit hoofde van de bepalingen van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VI&artikel=31&z=2026-01-01&g=2026-01-01);
-
-- d. elke wijziging van het Verdrag of van de Bijlagen aangenomen in overeenstemming met de bovenstaande [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VI&artikel=33&z=2026-01-01&g=2026-01-01) en [34](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VI&artikel=34&z=2026-01-01&g=2026-01-01) en de datum waarop de wijziging van kracht wordt;
-
-- e. elke uit hoofde van de bepalingen van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VII&artikel=38&z=2026-01-01&g=2026-01-01) gedane verklaring of kennisgeving;
-
-- f. elke uit hoofde van de bepalingen van [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0001829&deel=VII&artikel=39&z=2026-01-01&g=2026-01-01) gedane kennisgeving en de datum waarop de opzegging van kracht wordt;
-
-- g. elke andere akte, kennisgeving of mededeling met betrekking tot dit Verdrag.
-
-##### Artikel 41. Registratie
-
-In overeenstemming met [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) wordt dit Verdrag geregistreerd bij het Secretariaat van de Verenigde Naties op verzoek van de Directeur-Generaal van UNESCO.
-
-##### Artikel 42. Gezaghebbende teksten
-
-1. Dit Verdrag met inbegrip van de Bijlagen daarbij is opgesteld in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk gezaghebbend.
-
-2. De Aanhangsels bij dit Verdrag zijn opgesteld in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal.
-
-##### Artikel 43. Voorbehouden
-
-Voorbehouden die onverenigbaar zijn met het onderwerp en het doel van dit Verdrag zijn niet toegestaan.
+No reservations that are incompatible with the object and purpose of the present Convention shall be permitted.
 
 DONE in Paris, this nineteenth day of October 2005, in two authentic copies bearing the signature of the President of the General Conference of UNESCO at its 33rd session and of the Director-General of UNESCO, which shall be deposited in the archives of UNESCO.

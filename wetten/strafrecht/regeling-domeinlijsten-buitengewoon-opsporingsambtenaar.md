@@ -9,7 +9,7 @@ laatste_update: 2026-09-08
 status: geldig
 toestand: 2026-09-08
 bron: "https://wetten.overheid.nl/BWBR0041447"
-opgehaald: 2026-09-11
+opgehaald: 2026-09-12
 ---
 
 # Regeling van de Minister van Justitie en Veiligheid van 4 oktober 2018, nr. 2373750, tot vaststelling van domeinen voor de opsporingsbevoegdheid van de buitengewoon opsporingsambtenaar (Regeling domeinlijsten buitengewoon opsporingsambtenaar)

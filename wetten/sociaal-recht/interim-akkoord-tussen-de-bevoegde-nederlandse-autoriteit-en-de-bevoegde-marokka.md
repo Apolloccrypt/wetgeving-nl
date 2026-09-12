@@ -1,122 +1,88 @@
 ---
 title: "Interim-Akkoord tussen de bevoegde Nederlandse autoriteit en de bevoegde Marokkaanse autoriteit betreffende het verlenen van medische zorg in Marokko"
 identifier: "BWBV0001684"
-country: "nl"
-rank: "verdrag"
-publication_date: "2004-11-01"
-last_updated: "2004-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001684"
+categorie: "Gezondheidszorg"
 soort: "verdrag"
-stam_id: "10000636363"
-version_id: "10000654372"
-internal_id: "C10006988481"
-label_id: "10000636484"
-dtd_version: "2.0"
-original_entry_into_force: "2004-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001684/2004-11-01/0"
-intitule_bron: "Trb.1996-298"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-09-17"
-intitule_published: "1996-11-13"
-intitule_in_force: "1996-11-13"
-intitule_status: "goed"
-original_publication: "Trb.1996-298"
-original_signed_date: "2004-09-17"
-original_published_date: "1996-11-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1996-298"
-entry_into_force_date: "2004-11-01"
-jci_1_3: "jci1.3:c:BWBV0001684&z=2004-11-01&g=2004-11-01"
-jci_1_0: "1.0:c:BWBV0001684&g=2004-11-01"
-citeertitel_status: "officieel"
-signed_date: "2004-09-17"
-entry_into_force: "2004-11-01"
+publicatiedatum: 2004-11-01
+laatste_update: 2004-11-01
+status: geldig
+toestand: 2004-11-01
+bron: "https://wetten.overheid.nl/BWBV0001684"
+opgehaald: 2026-09-12
 ---
+
 # Interim-Akkoord tussen de bevoegde Nederlandse autoriteit en de bevoegde Marokkaanse autoriteit betreffende het verlenen van medische zorg in Marokko
 
-De bevoegde Nederlandse autoriteit, te weten:
+*L'autorité compétente néerlandaise, à savoir: le Ministre de la Santé, du Bien-Etre et des Sports et L'autorité compétente marocaine, à savoir: le Ministre de l'Emploi et des Affaires Sociales Vu le paragraphe 2 du Protocole Final à la Convention générale de sécurité sociale entre le Royaume des Pays-Bas et le Royaume du Maroc, signée à Rabat le 14 février 1972, Sont convenus de ce qui suit:*
 
-de Minister van Volksgezondheid, Welzijn en Sport,
+##### Article premier
 
-en
+Pour l'application du présent Arrangement Intérimaire,
 
-de bevoegde Marokkaanse autoriteit, te weten:
+- a) le terme «Convention» désigne la Convention générale de sécurité sociale entre le Royaume des Pays-Bas et le Royaume du Maroc, signé à Rabat le 14 février 1972;
 
-de Minister van Werkgelegenheid en Sociale Zaken,
+- b) le terme «Arrangement Administratif» désigne l'Arrangement Administratif du 3 novembre 1972 relatif aux modalités d'application de la Convention générale de sécurité sociale entre le Royaume des Pays-Bas et le Royaume du Maroc, signé à Rabat le 14 février 1972;
 
-Gezien punt 2 van het Slotprotocol van het op 14 februari 1972 te Rabat ondertekende Algemeen Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko,
+- c) les autres termes utilisés dans le présent Arrangement Intérimaire ont la signification qui leur est attribuée dans la Convention ou dans l'Arrangement Administratif.
 
-Zijn het volgende overeengekomen:
+##### Article 2
 
-##### Artikel I
+Pour l'application des articles 12 et 13, paragraphes 2 et 3 de la Convention, sont considérées comme prestations en nature en vertu de la législation marocaine: les prestations servies dans les formations hospitalières, sanitaires publiques et para-publiques.
 
-Voor de toepassing van dit Interim-Akkoord
+##### Article 3
 
-- a. wordt onder „Verdrag" verstaan het op 14 februari 1972 te Rabat ondertekende Algemeen Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko;
+Pour l'application des articles 12 et 13, paragraphes 2, 3 et 4 de la Convention, sont considérées comme membres de la famille en vertu de la législation sur l'assurance-maladie (prestations en nature) au Maroc:
 
-- b. wordt onder „Administratief Akkoord" verstaan het Administratief Akkoord van 3 november 1972 met betrekking tot de wijze van toepassing van het op 14 februari 1972 te Rabat ondertekende Algemeen Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko;
+- a) le conjoint non-divorcé à la condition:
 
-- c. hebben de andere in dit Interim-Akkoord gebruikte begrippen de betekenis die eraan wordt toegekend in het Verdrag of het Administratief Akkoord.
+   - – qu'il ne soit pas assujetti lui-même à un régime obligatoire;
 
-##### Artikel 2
+   - – qu'il n'exerce pas pour le compte de l'assuré ou d'un tiers une activité professionnelle motivant son affiliation à un régime obligatoire de sécurité sociale pour le risque maladie;
 
-Voor de toepassing van artikel 12 en 13, tweede en derde lid, van het Verdrag worden beschouwd als verstrekkingen krachtens de Marokkaanse wettelijke regelingen de verstrekkingen die worden verleend in overheids- en semi-overheidsziekenhuizen en -instellingen voor gezondheidszorg.
+- b) les enfants de moins de 18 ans non-salariés, de moins de 26 ans lorsqu'ils sont placés en apprentissage ou poursuivent leurs études ou sont, par suite d'infirmités ou de maladies chroniques, dans l'impossibilité permanente de se livrer à une activité lucrative.
 
-##### Artikel 3
+##### Article 4
 
-Voor de toepassing van artikel 12 en 13, tweede, derde en vierde lid, van het Verdrag worden beschouwd als gezinsleden krachtens de wettelijke regeling inzake de ziekteverzekering (verstrekkingen) in Marokko:
+1. Les dépenses afférentes aux prestations en nature servies au Maroc en vertu des articles 12 et 13, paragraphes 2 et 3 de la Convention sont évaluées forfaitairement pour chaque année civile.
 
-- a. de niet gescheiden echtgenoot, mits:
+2. Le montant forfaitaire, indiqué au paragraphe 1 dû par les institutions néerlandaises, est établi en multipliant 95% du coût moyen annuel par personne par le nombre moyen annuel des personnes à prendre en compte.
 
-- –. deze niet zelf onder een verplichte verzekering valt;
+Ce montant est calculé à partir des statistiques établies par l'autorité compétente marocaine, compte tenu:
 
-- –. deze niet voor rekening van de verzekerde of een derde een beroep uitoefent, op grond waarvan hij aangesloten is bij een verplichte sociale ziekteverzekering;
+- – du coût du fonctionnement des formations hospitalières, sanitaires publiques et para-publiques;
 
-- b. kinderen jonger dan 18 jaar die niet werken, jonger dan 26 jaar wanneer zij een praktijkopleiding of onderwijs volgen of ingevolge invaliditeit of chronische ziekte blijvend arbeidsongeschikt zijn.
+- – du nombre moyen de personnes qui ont eu vocation de recevoir des soins dans ces établissements au cours de l'année.
 
-##### Artikel 4
+3. Le coût du fonctionnement des formations hospitalières, sanitaires publiques et para-publiques visés au paragraphe 2 comprend les charges de fonctionnement, de matériel y compris les amortissements. Il est déterminé sur la base de la loi de finances et des budgets de l'année considérée des formations sanitaires publiques et para-publiques y compris le coût global des investissements effectués.
 
-1. Voor de uitgaven met betrekking tot de verstrekkingen die in Marokko worden verleend krachtens artikel 12 en artikel 13, tweede en derde lid, van het Verdrag wordt voor elk kalenderjaar een vast bedrag vastgesteld.
+4. L'application du paragraphe précédent peut donner lieu à des calculs différents pour les coûts moyens des soins dispensés aux pensionnés et les membres de leur famille et les coûts moyens des soins dispensés aux travailleurs et les membres de leur famille.
 
-2. Het in het eerste lid bedoelde vaste bedrag dat door de Nederlandse organen is verschuldigd wordt vastgesteld door 95 % van de gemiddelde jaarlijkse kosten per persoon te vermenigvuldigen met het gemiddelde aantal personen waarmee jaarlijks moet worden gerekend.
+##### Article 5
 
-Dit bedrag wordt berekend aan de hand van statistieken die door de bevoegde Marokkaanse autoriteit worden vastgesteld, uitgaande van:
+1. En attendant la disponibilité des données nécessaires pour l'application du paragraphe 4 de l'article 4, les créances marocaines sur la base d'un forfait pour les deux années suivant la date d'entrée en vigueur du présent Arrangement Intérimaire sont d'un caractère provisoire. A cet effet la partie marocaine établit conformément aux dispositions des paragraphes 2 et 3 de l'article 4 un seul montant forfaitaire qui concerne aussi bien les soins dispensés au travailleur et les membres de la famille de même que les soins dispensés aux pensionnés et les membres de la famille. Pour l'application du paragraphe 4 de l'article 4 le montant forfaitaire concernant les soins dispensés aux pensionnés et les membres de la famille est majoré par 10%.
 
-- –. de bedrijfskosten van overheids- en semi-overheidsziekenhuizen en -instellingen voor gezondheidszorg.
+2. A compter de la date d'entrée en vigueur du présent Arrangement Intérimaire, les créances définitives d'une année donnée doivent être introduites après une période de trois années.
 
-- –. het gemiddeld aantal personen dat in de loop van het jaar in deze instellingen is verzorgd.
+##### Article 6
 
-3. De bedrijfskosten van overheids- en semi-overheidsziekenhuizen en -instellingen voor gezondheidszorg, als bedoeld in het tweede lid, omvatten bedrijfslasten en kosten van materiaal, met inbegrip van de afschrijvingen. Deze kosten worden vastgesteld op basis van de wet inzake financiën en de begrotingen van overheids- en semi-overheidsziekenhuizen en -instellingen voor gezondheidszorg van het desbetreffende jaar, met inbegrip van de totale investeringskosten.
+1. Pour l'application de l'article 10, paragraphe 2, l'article 11, paragraphes 1, 2 et 6 et l'article 13, paragraphe 5, de la Convention, les bénéficiaires y visés ont droit aux prestations visées à l'article 2. Elles leur sont fournies, en principe, par remboursement des frais engagés par les assurés, le cas échéant, dans les limites fixées par un accord entre les organismes de liaison.
 
-4. De toepassing van het voorgaande lid kan aanleiding geven tot verschillende berekeningen van de gemiddelde kosten van de aan gepensioneerden en hun gezinsleden verleende zorg en de gemiddelde kosten van de aan werknemers en hun gezinsleden verleende zorg.
+2. Les montants effectifs des prestations visés au paragraphe 1 sont remboursés par les institutions néerlandaises à la Caisse Nationale de Sécurité Sociale (CNSS), et ce, tels qu'ils résultent de la comptabilité de cette institution,
 
-##### Artikel 5
+##### Article 7
 
-1. In afwachting van de beschikbaarheid van de gegevens die vereist zijn voor de toepassing van het vierde lid van artikel 4, zijn de Marokkaanse vorderingen op grond van een vast bedrag voor de twee jaar volgend op de datum van inwerkingtreding van dit Interim-Akkoord voorlopig van aard. Daartoe stelt de Marokkaanse partij overeenkomstig het in artikel 4, tweede en derde lid, bepaalde één vast bedrag vast, dat zowel betrekking heeft op aan werknemers en gezinsleden verleende zorg als op de aan gepensioneerden en hun gezinsleden verleende zorg. Voor de toepassing van het vierde lid van artikel 4 wordt het vaste bedrag met betrekking tot de aan gepensioneerden en hun gezinsleden verleende zorg vermeerderd met 10%.
+1. Le présent Arrangement Intérimaire entre en vigueur à la même date que la Convention portant révision de la Convention générale de sécurité sociale entre le Royaume des Pays-Bas et le Royaume du Maroc, signée à Rabat le 14 février 1972.
 
-2. Vanaf de datum van inwerkingtreding van dit Interim-Akkoord moeten de definitieve vorderingen voor een bepaald jaar na een periode van drie jaar worden ingediend.
-
-##### Artikel 6
-
-1. Voor de toepassing van artikel 10, tweede lid, artikel 11, eerste, tweede en zesde lid en artikel 13, vijfde lid, van het Verdrag hebben de daar bedoelde rechthebbenden recht op de in artikel 2 bedoelde verstrekkingen. Deze worden hun in beginsel verleend door vergoeding van de door de verzekerden betaalde kosten, in voorkomend geval, binnen de grenzen zoals vastgesteld in een akkoord tussen de verbindingsorganen.
-
-2. De feitelijk uitgekeerde bedragen zoals bedoeld in het eerste lid worden door de Nederlandse organen aan de Caisse Nationale de Sécurité Sociale (CNSS) vergoed, overeenkomstig de boekhouding van dit orgaan.
-
-##### Artikel 7
-
-1. Dit Interim-Akkoord treedt in werking op dezelfde datum als het Verdrag tot wijziging van het op 14 februari 1972 te Rabat ondertekende Algemeen Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko.
-
-2. Dit Interim-Akkoord treedt buiten werking op de datum waarop een Marokkaanse wettelijke regeling inzake ziekteverzekering in werking treedt.
+2. Le présent Arrangement Intérimaire cesse d'être en vigueur à la date où une législation marocaine sur l'assurance-maladie (prestations en nature) entre en vigueur.
 
 EN FOI DE QUOI les soussignés, dûment autorisés à cet effet, ont signé le présent Arrangement Intérimaire.
 
 FAIT à Rabat, le 30 septembre 1996 en double exemplaire, en langue française.
 
-**Pour l'autorité compétente néerlandaise,**
+*Pour l'autorité compétente néerlandaise,*
 
 (s.) F. H. G. DE GRAVE
 
-**Pour l'autorité compétente marocaine,**
+*Pour l'autorité compétente marocaine,*
 
 (s.) AMINE DEMNATI

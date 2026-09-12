@@ -1,49 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Islamitische Republiek Pakistan tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen"
 identifier: "BWBV0002856"
-country: "nl"
-rank: "verdrag"
-publication_date: "1982-10-04"
-last_updated: "1982-10-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002856"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10003181963"
-version_id: "10003189072"
-internal_id: "C10009605121"
-label_id: "10003168234"
-dtd_version: "2.0"
-original_entry_into_force: "1982-10-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002856/1982-10-04/0"
-intitule_bron: "Trb.1982-63"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1982-03-24"
-intitule_published: "1982-05-21"
-intitule_in_force: "1982-10-28"
-intitule_status: "goed"
-original_publication: "Trb.1982-63"
-original_signed_date: "1982-03-24"
-original_published_date: "1982-05-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1982-63"
-entry_into_force_date: "1982-10-04"
-jci_1_3: "jci1.3:c:BWBV0002856&z=1982-10-04&g=1982-10-04"
-jci_1_0: "1.0:c:BWBV0002856&g=1982-10-04"
-citeertitel_status: "officieel"
-signed_date: "1982-03-24"
-entry_into_force: "1982-10-04"
+publicatiedatum: 1982-10-04
+laatste_update: 1982-10-04
+status: geldig
+toestand: 1982-10-04
+bron: "https://wetten.overheid.nl/BWBV0002856"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Islamitische Republiek Pakistan tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van de Islamitische Republiek Pakistan
-
-De wens koesterende een overeenkomst te sluiten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Islamitische Republiek Pakistan De wens koesterende een overeenkomst te sluiten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, Zijn het volgende overeengekomen:*
 
 ### I. REIKWIJDTE VAN DE OVEREENKOMST
 
@@ -59,23 +29,23 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 3. De bestaande belastingen waarop de Overeenkomst van toepassing is, zijn met name:
 
-- a). wat Nederland betreft:
+- a) wat Nederland betreft:
 
-- -. de inkomstenbelasting,
+   - - de inkomstenbelasting,
 
-- -. de loonbelasting,
+   - - de loonbelasting,
 
-- -. de vennootschapsbelasting,
+   - - de vennootschapsbelasting,
 
-- -. de dividendbelasting, (hierna te noemen: „Nederlandse belasting”);
+   - - de dividendbelasting, (hierna te noemen: „Nederlandse belasting”);
 
-- b). wat Pakistan betreft:
+- b) wat Pakistan betreft:
 
-- -. de income tax (de inkomstenbelasting),
+   - - de income tax (de inkomstenbelasting),
 
-- -. de super tax (de aanvullende inkomstenbelasting),
+   - - de super tax (de aanvullende inkomstenbelasting),
 
-- -. de surcharge (opcenten op de inkomstenbelasting en de aanvullende inkomstenbelasting), (hierna te noemen: „Pakistaanse belasting”).
+   - - de surcharge (opcenten op de inkomstenbelasting en de aanvullende inkomstenbelasting), (hierna te noemen: „Pakistaanse belasting”).
 
 4. De Overeenkomst is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die na de datum van ondertekening van de Overeenkomst naast of in de plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de Staten delen elkaar alle wezenlijke wijzigingen mede die in hun onderscheiden belastingwetgevingen zijn aangebracht.
 
@@ -85,31 +55,31 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 1. Voor de toepassing van deze Overeenkomst, tenzij de context anders vereist:
 
-- a). betekent de uitdrukking „Staat” Nederland of Pakistan, al naar de context vereist; betekent de uitdrukking „Staten” Nederland en Pakistan;
+- a) betekent de uitdrukking „Staat” Nederland of Pakistan, al naar de context vereist; betekent de uitdrukking „Staten” Nederland en Pakistan;
 
-- b). omvat de uitdrukking „Nederland” het deel van het Koninkrijk der Nederlanden dat in Europa is gelegen, en het onder de Noordzee gelegen deel van de zeebodem en de ondergrond daarvan waarop het Koninkrijk der Nederlanden in overeenstemming met het internationale recht soevereine rechten heeft;
+- b) omvat de uitdrukking „Nederland” het deel van het Koninkrijk der Nederlanden dat in Europa is gelegen, en het onder de Noordzee gelegen deel van de zeebodem en de ondergrond daarvan waarop het Koninkrijk der Nederlanden in overeenstemming met het internationale recht soevereine rechten heeft;
 
-- c). betekent de uitdrukking „Pakistan”, wanneer zij in aardrijkskundige zin wordt gebezigd, Pakistan zoals het wordt omschreven in de grondwet van de Islamitische Republiek Pakistan en omvat mede elk gebied buiten de territoriale wateren van Pakistan, dat ingevolge het internationale recht en de wetgeving van Pakistan een gebied is waarbinnen de rechten van Pakistan met betrekking tot de zeebodem en de ondergrond daarvan en hun natuurlijke rijkdommen kunnen worden uitgeoefend;
+- c) betekent de uitdrukking „Pakistan”, wanneer zij in aardrijkskundige zin wordt gebezigd, Pakistan zoals het wordt omschreven in de grondwet van de Islamitische Republiek Pakistan en omvat mede elk gebied buiten de territoriale wateren van Pakistan, dat ingevolge het internationale recht en de wetgeving van Pakistan een gebied is waarbinnen de rechten van Pakistan met betrekking tot de zeebodem en de ondergrond daarvan en hun natuurlijke rijkdommen kunnen worden uitgeoefend;
 
-- d). omvat de uitdrukking „persoon” een natuurlijke persoon, een lichaam en elke andere vereniging van personen;
+- d) omvat de uitdrukking „persoon” een natuurlijke persoon, een lichaam en elke andere vereniging van personen;
 
-- e). betekent de uitdrukking „lichaam” elke rechtspersoon of elke eenheid die voor de belastingheffing als een rechtspersoon wordt behandeld;
+- e) betekent de uitdrukking „lichaam” elke rechtspersoon of elke eenheid die voor de belastingheffing als een rechtspersoon wordt behandeld;
 
-- f). betekenen de uitdrukkingen ,,onderneming van een van de Staten'' en „onderneming van de andere Staat” onderscheidenlijk een onderneming gedreven door een inwoner van een van de Staten en een onderneming gedreven door een inwoner van de andere Staat;
+- f) betekenen de uitdrukkingen ,,onderneming van een van de Staten'' en „onderneming van de andere Staat” onderscheidenlijk een onderneming gedreven door een inwoner van een van de Staten en een onderneming gedreven door een inwoner van de andere Staat;
 
-- g). betekent de uitdrukking „onderdaan”:
+- g) betekent de uitdrukking „onderdaan”:
 
-- 1. iedere natuurlijke persoon die de nationaliteit van een van de Staten bezit;
+   - 1. iedere natuurlijke persoon die de nationaliteit van een van de Staten bezit;
 
-- 2. iedere rechtspersoon, vennootschap en vereniging die zijn rechtspositie als zodanig ontleent aan de wetgeving die in een van de Staten van kracht is;
+   - 2. iedere rechtspersoon, vennootschap en vereniging die zijn rechtspositie als zodanig ontleent aan de wetgeving die in een van de Staten van kracht is;
 
-- h). betekent de uitdrukking „internationaal verkeer” alle vervoer met een schip of een luchtvaartuig, geëxploiteerd door een onderneming waarvan de plaats van de werkelijke leiding in een van de Staten is gelegen, behalve wanneer het schip of het luchtvaartuig uitsluitend wordt geëxploiteerd tussen plaatsen die in de andere Staat zijn gelegen;
+- h) betekent de uitdrukking „internationaal verkeer” alle vervoer met een schip of een luchtvaartuig, geëxploiteerd door een onderneming waarvan de plaats van de werkelijke leiding in een van de Staten is gelegen, behalve wanneer het schip of het luchtvaartuig uitsluitend wordt geëxploiteerd tussen plaatsen die in de andere Staat zijn gelegen;
 
-- i). betekent de uitdrukking „bevoegde autoriteit”:
+- i) betekent de uitdrukking „bevoegde autoriteit”:
 
-- 1. in Nederland: de Minister van Financiën of zijn bevoegde vertegenwoordiger;
+   - 1. in Nederland: de Minister van Financiën of zijn bevoegde vertegenwoordiger;
 
-- 2. in Pakistan: de „Central Board of Revenue”.
+   - 2. in Pakistan: de „Central Board of Revenue”.
 
 2. Voor de toepassing van de Overeenkomst door een van de Staten heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens de wetgeving van die Staat met betrekking tot de belastingen waarop de Overeenkomst van toepassing is.
 
@@ -119,13 +89,13 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 2. Indien een natuurlijke persoon ingevolge de bepalingen van het eerste lid inwoner van beide Staten is, wordt zijn positie als volgt bepaald:
 
-- a). hij wordt geacht inwoner te zijn van de Staat waar hij een duurzaam tehuis tot zijn beschikking heeft; indien hij in beide Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waarmede zijn persoonlijke en economische betrekkingen het nauwst zijn (middelpunt van de levensbelangen);
+- a) hij wordt geacht inwoner te zijn van de Staat waar hij een duurzaam tehuis tot zijn beschikking heeft; indien hij in beide Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waarmede zijn persoonlijke en economische betrekkingen het nauwst zijn (middelpunt van de levensbelangen);
 
-- b). indien niet kan worden bepaald in welke Staat hij het middelpunt van zijn levensbelangen heeft, of indien hij in geen van de Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waar hij gewoonlijk verblijft;
+- b) indien niet kan worden bepaald in welke Staat hij het middelpunt van zijn levensbelangen heeft, of indien hij in geen van de Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waar hij gewoonlijk verblijft;
 
-- c). indien hij in beide Staten of in geen van beide gewoonlijk verblijft, wordt hij geacht inwoner te zijn van de Staat waarvan hij onderdaan is;
+- c) indien hij in beide Staten of in geen van beide gewoonlijk verblijft, wordt hij geacht inwoner te zijn van de Staat waarvan hij onderdaan is;
 
-- d). indien hij onderdaan is van beide Staten of van geen van beide, regelen de bevoegde autoriteiten van de Staten de aangelegenheid in onderlinge overeenstemming.
+- d) indien hij onderdaan is van beide Staten of van geen van beide, regelen de bevoegde autoriteiten van de Staten de aangelegenheid in onderlinge overeenstemming.
 
 3. Indien een andere dan een natuurlijke persoon ingevolge de bepalingen van het eerste lid inwoner van beide Staten is, wordt hij geacht inwoner te zijn van de Staat waar de plaats van zijn werkelijke leiding is gelegen.
 
@@ -135,19 +105,19 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 2. De uitdrukking „vaste inrichting” omvat in het bijzonder:
 
-- a). een plaats waar leiding wordt gegeven;
+- a) een plaats waar leiding wordt gegeven;
 
-- b). een filiaal;
+- b) een filiaal;
 
-- c). een kantoor;
+- c) een kantoor;
 
-- d). een fabriek;
+- d) een fabriek;
 
-- e). een werkplaats;
+- e) een werkplaats;
 
-- f). een pakhuis, en
+- f) een pakhuis, en
 
-- g). een mijn, een olie- of gasbron, een steengroeve of een andere plaats waar natuurlijke rijkdommen worden gewonnen.
+- g) een mijn, een olie- of gasbron, een steengroeve of een andere plaats waar natuurlijke rijkdommen worden gewonnen.
 
 3. De plaats van uitvoering van een bouwwerk of van constructie-, installatie- of montagewerkzaamheden, of daarmee verband houdende werkzaamheden van toezichthoudende aard, vormt alleen een vaste inrichting indien de duur ervan zes maanden overschrijdt.
 
@@ -155,23 +125,23 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 5. Niettegenstaande de voorgaande bepalingen van dit artikel wordt een vaste inrichting niet aanwezig geacht, indien:
 
-- a). gebruik wordt gemaakt van inrichtingen, uitsluitend voor de opslag of uitstalling van aan de onderneming toebehorende goederen of koopwaar;
+- a) gebruik wordt gemaakt van inrichtingen, uitsluitend voor de opslag of uitstalling van aan de onderneming toebehorende goederen of koopwaar;
 
-- b). een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de opslag of uitstalling;
+- b) een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de opslag of uitstalling;
 
-- c). een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de bewerking of verwerking door een andere onderneming;
+- c) een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de bewerking of verwerking door een andere onderneming;
 
-- d). een vaste bedrijfsinrichting wordt aangehouden, uitsluitend om voor de onderneming goederen of koopwaar aan te kopen of inlichtingen in te winnen;
+- d) een vaste bedrijfsinrichting wordt aangehouden, uitsluitend om voor de onderneming goederen of koopwaar aan te kopen of inlichtingen in te winnen;
 
-- e). een vaste bedrijfsinrichting wordt aangehouden, uitsluitend om voor de onderneming enige andere werkzaamheid uit te oefenen die van voorbereidende aard is of het karakter van hulpwerkzaamheid heeft.
+- e) een vaste bedrijfsinrichting wordt aangehouden, uitsluitend om voor de onderneming enige andere werkzaamheid uit te oefenen die van voorbereidende aard is of het karakter van hulpwerkzaamheid heeft.
 
 6. Indien een persoon - niet zijnde een onafhankelijke vertegenwoordiger in de zin van het zevende lid - in een van de Staten voor of namens een onderneming van de andere Staat werkzaam is, wordt die onderneming, niettegenstaande de bepalingen van het eerste en tweede lid, geacht in de eerstbedoelde Staat een vaste inrichting te hebben, indien de persoon:
 
-- a). een machtiging bezit om voor of namens de onderneming overeenkomsten af te sluiten en dit recht in die Staat gewoonlijk uitoefent, tenzij zijn werkzaamheden beperkt blijven tot de aankoop van goederen of koopwaar voor die onderneming; of
+- a) een machtiging bezit om voor of namens de onderneming overeenkomsten af te sluiten en dit recht in die Staat gewoonlijk uitoefent, tenzij zijn werkzaamheden beperkt blijven tot de aankoop van goederen of koopwaar voor die onderneming; of
 
-- b). zulk een machtiging niet bezit, maar gewoonlijk in die Staat een voorraad van goederen of koopwaar aanhoudt waaruit hij regelmatig goederen of koopwaar voor de onderneming aflevert; of
+- b) zulk een machtiging niet bezit, maar gewoonlijk in die Staat een voorraad van goederen of koopwaar aanhoudt waaruit hij regelmatig goederen of koopwaar voor de onderneming aflevert; of
 
-- c). zich in die Staat - ten behoeve van de verkoop van goederen of koopwaar - gewoonlijk bezighoudt met het opnemen van bestellingen die uitsluitend of nagenoeg uitsluitend bestemd zijn voor de onderneming zelf of voor de onderneming en andere ondernemingen die zij beheerst of door welke zij wordt beheerst.
+- c) zich in die Staat - ten behoeve van de verkoop van goederen of koopwaar - gewoonlijk bezighoudt met het opnemen van bestellingen die uitsluitend of nagenoeg uitsluitend bestemd zijn voor de onderneming zelf of voor de onderneming en andere ondernemingen die zij beheerst of door welke zij wordt beheerst.
 
 7. Een onderneming wordt niet geacht een vaste inrichting in een van de Staten te bezitten alleen op grond van de omstandigheid dat zij in die Staat zaken doet door bemiddeling van een makelaar, commissionair of enige andere onafhankelijke vertegenwoordiger, mits deze personen in de normale uitoefening van hun bedrijf handelen. Indien evenwel de werkzaamheden van zulk een makelaar uitsluitend of nagenoeg uitsluitend worden verricht voor die onderneming zelf of voor die onderneming en andere ondernemingen die zij beheerst of door welke zij wordt beheerst, wordt hij niet geacht een onafhankelijke vertegenwoordiger in de zin van dit lid te zijn.
 
@@ -217,9 +187,9 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 1. Indien
 
-- a). een onderneming van een van de Staten onmiddellijk of middellijk deelneemt aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van de andere Staat, of
+- a) een onderneming van een van de Staten onmiddellijk of middellijk deelneemt aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van de andere Staat, of
 
-- b). dezelfde personen onmiddellijk of middellijk deelnemen aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van een van de Staten en een onderneming van de andere Staat,
+- b) dezelfde personen onmiddellijk of middellijk deelnemen aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van een van de Staten en een onderneming van de andere Staat,
 
 en in het ene of in het andere geval tussen de beide ondernemingen in hun handelsbetrekkingen of financiële betrekkingen voorwaarden worden overeengekomen of opgelegd, die afwijken van die welke zouden worden overeengekomen tussen onafhankelijke ondernemingen, mogen alle voordelen die een van de ondernemingen zonder deze voorwaarden zou hebben behaald, maar ten gevolge van die voorwaarden niet heeft behaald, worden begrepen in de voordelen van die onderneming en dienovereenkomstig worden belast.
 
@@ -231,9 +201,9 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 2. Deze dividenden mogen echter ook in de Staat waarvan het lichaam dat de dividenden betaalt inwoner is, overeenkomstig de wetgeving van die Staat worden belast, maar indien de genieter de uiteindelijk gerechtigde tot de dividenden is, mag de aldus geheven belasting niet overschrijden:
 
-- a). 10 percent van het brutobedrag van de dividenden, indien de uiteindelijk gerechtigde een lichaam (niet zijnde een maatschap of een vennootschap onder firma) is dat onmiddellijk ten minste 25 percent bezit van het kapitaal van het lichaam dat de dividenden betaalt;
+- a) 10 percent van het brutobedrag van de dividenden, indien de uiteindelijk gerechtigde een lichaam (niet zijnde een maatschap of een vennootschap onder firma) is dat onmiddellijk ten minste 25 percent bezit van het kapitaal van het lichaam dat de dividenden betaalt;
 
-- b). 20 percent van het brutobedrag van de dividenden in alle andere gevallen.
+- b) 20 percent van het brutobedrag van de dividenden in alle andere gevallen.
 
 3. De bepalingen van het tweede lid laten onverlet de belastingheffing van het lichaam ter zake van de winst waaruit de dividenden worden betaald.
 
@@ -249,23 +219,23 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 2. Deze interest mag echter ook in de Staat waaruit hij afkomstig is, overeenkomstig de wetgeving van die Staat worden belast, maar indien de genieter de uiteindelijk gerechtigde tot de interest is, mag de aldus geheven belasting niet overschrijden:
 
-- a). 10 percent van het brutobedrag van de interest, indien de interest wordt genoten door een bank of een andere financiële instelling;
+- a) 10 percent van het brutobedrag van de interest, indien de interest wordt genoten door een bank of een andere financiële instelling;
 
-- b). 15 percent van het brutobedrag van de interest, indien de interest wordt betaald door een lichaam aan een lichaam (niet zijnde een maatschap of een vennootschap onder firma) dat onmiddellijk tenminste 25 percent bezit van het kapitaal van het betalende lichaam;
+- b) 15 percent van het brutobedrag van de interest, indien de interest wordt betaald door een lichaam aan een lichaam (niet zijnde een maatschap of een vennootschap onder firma) dat onmiddellijk tenminste 25 percent bezit van het kapitaal van het betalende lichaam;
 
-- c). 10 percent van het brutobedrag van de interest, indien de interest wordt genoten krachtens een financieringsovereenkomst of uit hoofde van uitstel van betaling verband houdende met de verkoop van nijverheids- en handelsuitrusting of wetenschappelijke uitrusting of met de constructie van installaties voor nijverheids- en handelsdoeleinden of wetenschappelijke doeleinden dan wel met openbare werken;
+- c) 10 percent van het brutobedrag van de interest, indien de interest wordt genoten krachtens een financieringsovereenkomst of uit hoofde van uitstel van betaling verband houdende met de verkoop van nijverheids- en handelsuitrusting of wetenschappelijke uitrusting of met de constructie van installaties voor nijverheids- en handelsdoeleinden of wetenschappelijke doeleinden dan wel met openbare werken;
 
-- d). 20 percent van het brutobedrag van de interest in alle andere gevallen.
+- d) 20 percent van het brutobedrag van de interest in alle andere gevallen.
 
 3. Niettegenstaande de bepalingen van het tweede lid:
 
-- a). is de „State Bank of Pakistan” vrijgesteld van Nederlandse belasting ter zake van interest die afkomstig is uit Nederland;
+- a) is de „State Bank of Pakistan” vrijgesteld van Nederlandse belasting ter zake van interest die afkomstig is uit Nederland;
 
-- b). is de Nederlandsche Bank N.V. vrijgesteld van Pakistaanse belasting ter zake van interest die afkomstig is uit Pakistan;
+- b) is de Nederlandsche Bank N.V. vrijgesteld van Pakistaanse belasting ter zake van interest die afkomstig is uit Pakistan;
 
-- c). is de Regering van een van de Staten vrijgesteld van belasting in de andere Staat ter zake van interest die afkomstig is uit die andere Staat, indien zodanige interest is verkregen ter zake van leningen;
+- c) is de Regering van een van de Staten vrijgesteld van belasting in de andere Staat ter zake van interest die afkomstig is uit die andere Staat, indien zodanige interest is verkregen ter zake van leningen;
 
-- d). is een financiële instelling die eigendom is van of beheerst wordt door de Regering van een van de Staten vrijgesteld van belasting in de andere Staat ter zake van interest die afkomstig is uit die andere Staat, indien zodanige interest is verkregen ter zake van leningen.
+- d) is een financiële instelling die eigendom is van of beheerst wordt door de Regering van een van de Staten vrijgesteld van belasting in de andere Staat ter zake van interest die afkomstig is uit die andere Staat, indien zodanige interest is verkregen ter zake van leningen.
 
 4. De uitdrukking „interest”, zoals gebezigd in dit artikel, betekent inkomsten uit schuldvorderingen van welke aard ook, al dan niet verzekerd door hypotheek en al dan niet aanspraak gevend op een aandeel in de winst van de schuldenaar, en in het bijzonder inkomsten uit overheidsleningen en inkomsten uit obligaties of schuldbewijzen, daaronder begrepen de aan zodanige leningen, obligaties of schuldbewijzen verbonden premies en prijzen. Deze uitdrukking omvat echter niet de inkomsten die in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0002856&hoofdstuk=III&artikel=10&z=1982-10-04&g=1982-10-04) zijn behandeld. In rekening gebrachte boete voor te late betaling wordt voor de toepassing van dit artikel niet als interest aangemerkt.
 
@@ -281,19 +251,19 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 2. De royalty's mogen echter ook in de Staat waaruit zij afkomstig zijn, overeenkomstig de wetgeving van die Staat worden belast, maar indien de genieter de uiteindelijk gerechtigde tot de royalty's is, mag de aldus geheven belasting niet overschrijden:
 
-- a). 15 percent van het brutobedrag van de vergoedingen bedoeld in het derde lid, letter a);
+- a) 15 percent van het brutobedrag van de vergoedingen bedoeld in het derde lid, letter a);
 
-- b). 15 percent van het brutobedrag van de vergoedingen bedoeld in het derde lid, letter b);
+- b) 15 percent van het brutobedrag van de vergoedingen bedoeld in het derde lid, letter b);
 
-- c). 5 percent van het brutobedrag van de vergoedingen bedoeld in het derde lid, letter c).
+- c) 5 percent van het brutobedrag van de vergoedingen bedoeld in het derde lid, letter c).
 
 3. De uitdrukking „royalty's”, zoals gebezigd in dit artikel, betekent vergoedingen van welke aard ook voor het gebruik van, of voor het recht van gebruik van:
 
-- a). een octrooi, een fabrieks- of handelsmerk of handelsnaam, een geheim recept of een geheime werkwijze, een tekening of model, of inlichtingen omtrent ervaringen op het gebied van nijverheid, handel of wetenschap;
+- a) een octrooi, een fabrieks- of handelsmerk of handelsnaam, een geheim recept of een geheime werkwijze, een tekening of model, of inlichtingen omtrent ervaringen op het gebied van nijverheid, handel of wetenschap;
 
-- b). nijverheids- of handelsuitrusting of wetenschappelijke uitrusting, bioscoopfilms en banden voor televisie en radio;
+- b) nijverheids- of handelsuitrusting of wetenschappelijke uitrusting, bioscoopfilms en banden voor televisie en radio;
 
-- c). een auteursrecht op een werk op het gebied van letterkunde, kunst of wetenschap, daaronder niet begrepen bioscoopfilms en banden voor televisie of radio.
+- c) een auteursrecht op een werk op het gebied van letterkunde, kunst of wetenschap, daaronder niet begrepen bioscoopfilms en banden voor televisie of radio.
 
 4. De bepalingen van het eerste en tweede lid zijn niet van toepassing, indien de uiteindelijk gerechtigde tot de royalty's, die inwoner is van een van de Staten, in de andere Staat waaruit de royalty's afkomstig zijn een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting, of in die andere Staat zelfstandige arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en het recht of de zaak uit hoofde waarvan de royalty's verschuldigd zijn, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort. In dat geval zijn, naargelang van het geval, de bepalingen van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0002856&hoofdstuk=III&artikel=7&z=1982-10-04&g=1982-10-04) of [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0002856&hoofdstuk=III&artikel=14&z=1982-10-04&g=1982-10-04) van toepassing.
 
@@ -319,11 +289,11 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 1. Voordelen verkregen door een inwoner van een van de Staten in de uitoefening van een vrij beroep of ter zake van andere werkzaamheden van zelfstandige aard zijn slechts in die Staat belastbaar behalve onder de volgende omstandigheden waarin zodanige voordelen ook in de andere Staat mogen worden belast:
 
-- a). indien hij in de andere Staat voor het verrichten van zijn werkzaamheden geregeld over een vast middelpunt beschikt; in dat geval mogen de voordelen slechts in zoverre zij aan dat vaste middelpunt kunnen worden toegerekend, in die andere Staat worden belast; of
+- a) indien hij in de andere Staat voor het verrichten van zijn werkzaamheden geregeld over een vast middelpunt beschikt; in dat geval mogen de voordelen slechts in zoverre zij aan dat vaste middelpunt kunnen worden toegerekend, in die andere Staat worden belast; of
 
-- b). indien hij in de andere Staat verblijft gedurende een tijdvak of tijdvakken die in het desbetreffende belastingjaar een totaal van 183 of meer dagen belopen; in dat geval mogen de voordelen slechts in zoverre zij worden verkregen uit zijn in die andere Staat verrichte werkzaamheden, in die andere Staat worden belast; of
+- b) indien hij in de andere Staat verblijft gedurende een tijdvak of tijdvakken die in het desbetreffende belastingjaar een totaal van 183 of meer dagen belopen; in dat geval mogen de voordelen slechts in zoverre zij worden verkregen uit zijn in die andere Staat verrichte werkzaamheden, in die andere Staat worden belast; of
 
-- c). indien de beloningen voor zijn werkzaamheden in de andere Staat worden betaald door een inwoner van die Staat of ten laste komen van een vaste inrichting of een vast middelpunt in die Staat en in het belastingjaar Rs 75.000 of de tegenwaarde daarvan in Nederlandse valuta te boven gaan.
+- c) indien de beloningen voor zijn werkzaamheden in de andere Staat worden betaald door een inwoner van die Staat of ten laste komen van een vaste inrichting of een vast middelpunt in die Staat en in het belastingjaar Rs 75.000 of de tegenwaarde daarvan in Nederlandse valuta te boven gaan.
 
 2. De uitdrukking „vrij beroep” omvat in het bijzonder zelfstandige werkzaamheden op het gebied van wetenschap, letterkunde, kunst, opvoeding of onderwijs, alsmede de zelfstandige werkzaamheden van artsen, advocaten, technici, architecten, tandartsen en accountants.
 
@@ -333,11 +303,11 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 2. Niettegenstaande de bepalingen van het eerste lid is de beloning verkregen door een inwoner van een van de Staten ter zake van een in de andere Staat uitgeoefende dienstbetrekking slechts in de eerstbedoelde Staat belastbaar, indien:
 
-- a). de genieter in de andere Staat verblijft gedurende een tijdvak of tijdvakken, die in het belastingjaar van die Staat een totaal van 183 dagen niet te boven gaan, en
+- a) de genieter in de andere Staat verblijft gedurende een tijdvak of tijdvakken, die in het belastingjaar van die Staat een totaal van 183 dagen niet te boven gaan, en
 
-- b). de beloning wordt betaald door of namens een werkgever die geen inwoner van de andere Staat is, en
+- b) de beloning wordt betaald door of namens een werkgever die geen inwoner van de andere Staat is, en
 
-- c). de beloning niet ten laste komt van een vaste inrichting die, of van een vast middelpunt dat de werkgever in de andere Staat heeft.
+- c) de beloning niet ten laste komt van een vaste inrichting die, of van een vast middelpunt dat de werkgever in de andere Staat heeft.
 
 3. Niettegenstaande de voorgaande bepalingen van dit artikel is de beloning verkregen door een inwoner van een van de Staten ter zake van een dienstbetrekking uitgeoefend aan boord van een schip of luchtvaartuig dat in internationaal verkeer wordt geëxploiteerd, slechts in die Staat belastbaar.
 
@@ -363,17 +333,17 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 ##### Artikel 19. Overheidsfuncties
 
-- a). Beloningen, niet zijnde pensioenen, betaald door een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten bewezen aan die Staat of dat onderdeel of dat publiekrechtelijke lichaam, mogen in die Staat worden belast.
+1. - a) Beloningen, niet zijnde pensioenen, betaald door een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten bewezen aan die Staat of dat onderdeel of dat publiekrechtelijke lichaam, mogen in die Staat worden belast.
 
-- b). Deze beloningen zijn echter slechts in de andere Staat belastbaar, indien de diensten in die Staat worden bewezen en de natuurlijke persoon inwoner is van die Staat, die:
+- b) Deze beloningen zijn echter slechts in de andere Staat belastbaar, indien de diensten in die Staat worden bewezen en de natuurlijke persoon inwoner is van die Staat, die:
 
-- 1. onderdaan is van die Staat; of
+   - 1. onderdaan is van die Staat; of
 
-- 2. niet uitsluitend voor het verrichten van de diensten inwoner van die Staat werd.
+   - 2. niet uitsluitend voor het verrichten van de diensten inwoner van die Staat werd.
 
-- a). Pensioenen, betaald door, of uit fondsen in het leven geroepen door, een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten bewezen aan die Staat of dat onderdeel of dat publiekrechtelijke lichaam, mogen in die Staat worden belast.
+2. - a) Pensioenen, betaald door, of uit fondsen in het leven geroepen door, een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten bewezen aan die Staat of dat onderdeel of dat publiekrechtelijke lichaam, mogen in die Staat worden belast.
 
-- b). Deze pensioenen zijn echter slechts in de andere Staat belastbaar, indien de natuurlijke persoon inwoner en onderdaan is van die Staat.
+- b) Deze pensioenen zijn echter slechts in de andere Staat belastbaar, indien de natuurlijke persoon inwoner en onderdaan is van die Staat.
 
 3. De bepalingen van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0002856&hoofdstuk=III&artikel=15&z=1982-10-04&g=1982-10-04), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0002856&hoofdstuk=III&artikel=16&z=1982-10-04&g=1982-10-04) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0002856&hoofdstuk=III&artikel=18&z=1982-10-04&g=1982-10-04) zijn van toepassing op beloningen en pensioenen ter zake van diensten, bewezen in het kader van een op winst gericht bedrijf, uitgeoefend door een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan.
 
@@ -387,27 +357,27 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 1. Een natuurlijke persoon, die onmiddellijk voor zijn bezoek aan een van de Staten inwoner is van de andere Staat en die tijdelijk in de eerstbedoelde Staat verblijf houdt in de eerste plaats met de bedoeling:
 
-- a). aan een erkende universiteit, hogeschool of school in die eerstbedoelde Staat te studeren; of
+- a) aan een erkende universiteit, hogeschool of school in die eerstbedoelde Staat te studeren; of
 
-- b). een opleiding voor een bedrijf of beroep te verkrijgen, is vrijgesteld van belasting in de eerstbedoelde Staat ter zake van:
+- b) een opleiding voor een bedrijf of beroep te verkrijgen, is vrijgesteld van belasting in de eerstbedoelde Staat ter zake van:
 
-- (i). alle overmakingen uit het buitenland ten behoeve van zijn onderhoud, studie of opleiding, en
+   - (i) alle overmakingen uit het buitenland ten behoeve van zijn onderhoud, studie of opleiding, en
 
-- (ii). alle beloningen voor persoonlijke arbeid verricht in de eerstbedoelde Staat tot een bedrag dat 5.000 Nederlandse gulden of de tegenwaarde daarvan in Pakistaanse valuta in enig belastingjaar niet te boven gaat.
+   - (ii) alle beloningen voor persoonlijke arbeid verricht in de eerstbedoelde Staat tot een bedrag dat 5.000 Nederlandse gulden of de tegenwaarde daarvan in Pakistaanse valuta in enig belastingjaar niet te boven gaat.
 
 De voordelen ingevolge dit lid worden slechts verleend voor zulk een tijdsduur als redelijk is of gewoonlijk vereist is om het doel van het bezoek te bereiken.
 
 2. Een natuurlijke persoon, die onmiddellijk voor zijn bezoek aan een van de Staten inwoner is van de andere Staat en die tijdelijk in de eerstbedoelde Staat verblijf houdt gedurende een tijdvak van niet langer dan drie jaren met de bedoeling er te studeren, wetenschappelijke onderzoekingen te doen of een opleiding te verkrijgen, zulks uitsluitend als genieter van een toelage, vergoeding of prijs verleend door een organisatie op het gebied van wetenschap, onderwijs, godsdienst of liefdadigheid of op grond van een programma van technische hulpverlening waaraan een van de Staten, een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan deelneemt, is vrijgesteld van belasting in de eerstbedoelde Staat voor:
 
-- a). het bedrag van die toelage, vergoeding of prijs; en
+- a) het bedrag van die toelage, vergoeding of prijs; en
 
-- b). alle beloningen voor persoonlijke arbeid verricht in de eerstbedoelde Staat, mits die arbeid verband houdt met zijn studie, onderzoek of opleiding of daaruit voortvloeit, zulks tot een bedrag dat 5.000 Nederlandse gulden of de tegenwaarde daarvan in Pakistaanse valuta in enig belastingjaar niet te boven gaat.
+- b) alle beloningen voor persoonlijke arbeid verricht in de eerstbedoelde Staat, mits die arbeid verband houdt met zijn studie, onderzoek of opleiding of daaruit voortvloeit, zulks tot een bedrag dat 5.000 Nederlandse gulden of de tegenwaarde daarvan in Pakistaanse valuta in enig belastingjaar niet te boven gaat.
 
 3. Een natuurlijke persoon, die onmiddellijk voor zijn bezoek aan een van de Staten inwoner is van de andere Staat en die tijdelijk in de eerstbedoelde Staat verblijf houdt gedurende een tijdvak van niet langer dan twaalf maanden als werknemer van of onder een contract met de laatstbedoelde Staat, een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan of een onderneming van de laatstbedoelde Staat, met de bedoeling technische ervaring of beroeps- of bedrijfservaring te verkrijgen, is vrijgesteld van belasting in de eerstbedoelde Staat voor:
 
-- a). alle overmakingen uit de laatstbedoelde Staat ten behoeve van zijn onderhoud, studie of opleiding; en
+- a) alle overmakingen uit de laatstbedoelde Staat ten behoeve van zijn onderhoud, studie of opleiding; en
 
-- b). alle beloningen voor persoonlijke arbeid verricht in de eerstbedoelde Staat, mits die arbeid verband houdt met zijn studie of opleiding of daaruit voortvloeit, zulks tot een bedrag dat 15.000 Nederlandse gulden of de tegenwaarde daarvan in Pakistaanse valuta niet te boven gaat.
+- b) alle beloningen voor persoonlijke arbeid verricht in de eerstbedoelde Staat, mits die arbeid verband houdt met zijn studie of opleiding of daaruit voortvloeit, zulks tot een bedrag dat 15.000 Nederlandse gulden of de tegenwaarde daarvan in Pakistaanse valuta niet te boven gaat.
 
 De voordelen ingevolge dit lid worden echter niet verleend, indien de technische ervaring of beroeps- of bedrijfservaring wordt verkregen van een lichaam, van welks stemgerechtigde aandelenkapitaal de onderneming die de werknemer of de gecontracteerde persoon heeft uitgezonden, 50 percent of meer bezit dan wel van een lichaam dat 50 percent of meer bezit van het stemgerechtigde aandelenkapitaal van de onderneming die de werknemer of gecontracteerde persoon heeft uitgezonden.
 
@@ -423,9 +393,9 @@ De voordelen ingevolge dit lid worden echter niet verleend, indien de technische
 
 4. Indien als gevolg van bijzondere stimuleringsmaatregelen, gericht op het bevorderen van de economische ontwikkeling in Pakistan, de in feite geheven Pakistaanse belasting over uit Pakistan afkomstige interest, die ingevolge [artikel 11, tweede lid, letters a) en b)](https://wetten.overheid.nl/jci1.3:c:BWBV0002856&hoofdstuk=III&artikel=11&z=1982-10-04&g=1982-10-04) in Pakistan mag worden belast, dan wel over uit Pakistan afkomstige royalty's, die ingevolge [artikel 12, tweede lid, letter a)](https://wetten.overheid.nl/jci1.3:c:BWBV0002856&hoofdstuk=III&artikel=12&z=1982-10-04&g=1982-10-04), in Pakistan mogen worden belast, minder bedraagt dan de belasting die Pakistan ingevolge die bepalingen mag heffen, wordt, voor de toepassing van het derde lid, de in Pakistan over deze bestanddelen van het inkomen betaalde belasting geacht te bedragen:
 
-- a). met betrekking tot interest waarop [artikel 11, tweede lid, letter a)](https://wetten.overheid.nl/jci1.3:c:BWBV0002856&hoofdstuk=III&artikel=11&z=1982-10-04&g=1982-10-04) van toepassing is: een bedrag dat gelijk is aan het belastingbedrag dat Pakistan daarover in feite heeft geheven, vermeerderd met tweemaal het verschil tussen dit bedrag en 10 percent van het brutobedrag van deze interest;
+- a) met betrekking tot interest waarop [artikel 11, tweede lid, letter a)](https://wetten.overheid.nl/jci1.3:c:BWBV0002856&hoofdstuk=III&artikel=11&z=1982-10-04&g=1982-10-04) van toepassing is: een bedrag dat gelijk is aan het belastingbedrag dat Pakistan daarover in feite heeft geheven, vermeerderd met tweemaal het verschil tussen dit bedrag en 10 percent van het brutobedrag van deze interest;
 
-- b). met betrekking tot interest waarop [artikel 11, tweede lid, letter b)](https://wetten.overheid.nl/jci1.3:c:BWBV0002856&hoofdstuk=III&artikel=11&z=1982-10-04&g=1982-10-04), van toepassing is dan wel royalty's waarop [artikel 12, tweede lid, letter a)](https://wetten.overheid.nl/jci1.3:c:BWBV0002856&hoofdstuk=III&artikel=12&z=1982-10-04&g=1982-10-04) van toepassing is: 15 percent van het brutobedrag van deze interest of royalty's.
+- b) met betrekking tot interest waarop [artikel 11, tweede lid, letter b)](https://wetten.overheid.nl/jci1.3:c:BWBV0002856&hoofdstuk=III&artikel=11&z=1982-10-04&g=1982-10-04), van toepassing is dan wel royalty's waarop [artikel 12, tweede lid, letter a)](https://wetten.overheid.nl/jci1.3:c:BWBV0002856&hoofdstuk=III&artikel=12&z=1982-10-04&g=1982-10-04) van toepassing is: 15 percent van het brutobedrag van deze interest of royalty's.
 
 5. Wat Pakistan betreft wordt, behoudens in het geval bedoeld in [artikel 13, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002856&hoofdstuk=III&artikel=13&z=1982-10-04&g=1982-10-04), met inachtneming van de bepalingen van de wetgeving van Pakistan, die betrekking hebben op de verrekening van belasting met Pakistaanse belasting (welke bepalingen het algemene beginsel van het hierna volgende niet mogen aantasten), het bedrag van de Nederlandse belasting, die krachtens de wetgeving van Nederland en in overeenstemming met de bepalingen van deze Overeenkomst, hetzij rechtstreeks, hetzij door inhouding, door een inwoner van Pakistan verschuldigd is ter zake van voordelen of inkomsten die zowel in Pakistan als in Nederland aan belasting zijn onderworpen, verrekend met de Pakistaanse belasting die terzake van zodanige voordelen of inkomsten verschuldigd is, doch slechts tot een bedrag dat dat deel van de Pakistaanse belasting, dat tot zodanige voordelen of inkomsten in dezelfde verhouding staat als de voordelen of inkomsten staan tot het gehele inkomen dat in Pakistan kan worden belast, niet te boven gaat.
 
@@ -459,11 +429,11 @@ De voordelen ingevolge dit lid worden echter niet verleend, indien de technische
 
 2. In geen geval worden de bepalingen van het eerste lid aldus uitgelegd dat zij een van de Staten de verplichting opleggen:
 
-- a). administratieve maatregelen te nemen die in strijd zijn met de wetgeving of de administratieve praktijk van die of van de andere Staat;
+- a) administratieve maatregelen te nemen die in strijd zijn met de wetgeving of de administratieve praktijk van die of van de andere Staat;
 
-- b). inlichtingen te verstrekken die niet verkrijgbaar zijn volgens de wetgeving of in de normale gang van zaken in de administratie van die of van de andere Staat;
+- b) inlichtingen te verstrekken die niet verkrijgbaar zijn volgens de wetgeving of in de normale gang van zaken in de administratie van die of van de andere Staat;
 
-- c). inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids-, of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde.
+- c) inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids-, of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde.
 
 ##### Artikel 26. Diplomatieke en consulaire ambtenaren
 
@@ -471,9 +441,9 @@ De voordelen ingevolge dit lid worden echter niet verleend, indien de technische
 
 2. Niettegenstaande de bepalingen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002856&hoofdstuk=II&artikel=4&z=1982-10-04&g=1982-10-04) wordt een natuurlijke persoon die deel uitmaakt van een diplomatieke of consulaire vertegenwoordiging van een van de Staten in de andere Staat of in een derde Staat, voor de toepassing van de Overeenkomst geacht inwoner van de zendstaat te zijn indien:
 
-- a). hij in overeenstemming met het internationale recht in de ontvangende Staat ter zake van inkomsten uit bronnen buiten die Staat niet aan belasting is onderworpen, en
+- a) hij in overeenstemming met het internationale recht in de ontvangende Staat ter zake van inkomsten uit bronnen buiten die Staat niet aan belasting is onderworpen, en
 
-- b). hij in de zendstaat aan dezelfde verplichtingen ter zake van belasting over zijn totale inkomen is onderworpen als inwoners van die Staat.
+- b) hij in de zendstaat aan dezelfde verplichtingen ter zake van belasting over zijn totale inkomen is onderworpen als inwoners van die Staat.
 
 3. De Overeenkomst is niet van toepassing op internationale organisaties, hun organen en functionarissen, noch op leden van een diplomatieke of consulaire vertegenwoordiging van een derde Staat die in een van de Staten verblijven, indien zij in die Staat niet aan dezelfde verplichtingen ter zake van belastingen naar het inkomen zijn onderworpen als inwoners van die Staat.
 
@@ -505,14 +475,14 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, deze Overe
 
 GEDAAN te 's-Gravenhage, de 24ste maart 1982 in twee exemplaren, in de Nederlandse en de Engelse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor de Regering van het**
+*Voor de Regering van het*
 
-**Koninkrijk der Nederlanden,**
+*Koninkrijk der Nederlanden,*
 
 (w.g.) M. VAN DER STOEL
 
-**Voor de Regering van de**
+*Voor de Regering van de*
 
-**Islamitische Republiek Pakistan,**
+*Islamitische Republiek Pakistan,*
 
 (w.g.) KHURSHID HYDER

@@ -1,47 +1,19 @@
 ---
 title: "Overeenkomst over het onderhoud van de Dinkel in het grensgebied bij Gronau"
 identifier: "BWBV0002725"
-country: "nl"
-rank: "verdrag"
-publication_date: "1983-10-10"
-last_updated: "1983-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002725"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003065943"
-version_id: "10003068882"
-internal_id: "C10006979651"
-label_id: "10003052294"
-dtd_version: "2.0"
-original_entry_into_force: "1983-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002725/1983-10-10/0"
-intitule_bron: "Trb.1981-257"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1981-09-07"
-intitule_published: "1981-12-30"
-intitule_in_force: "1984-02-22"
-intitule_status: "goed"
-original_publication: "Trb.1981-257"
-original_signed_date: "1981-09-07"
-original_published_date: "1981-12-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1981-257"
-entry_into_force_date: "1983-10-10"
-jci_1_3: "jci1.3:c:BWBV0002725&z=1983-10-10&g=1983-10-10"
-jci_1_0: "1.0:c:BWBV0002725&g=1983-10-10"
-citeertitel_status: "officieel"
-signed_date: "1981-09-07"
-entry_into_force: "1983-10-10"
+publicatiedatum: 1983-10-10
+laatste_update: 1983-10-10
+status: geldig
+toestand: 1983-10-10
+bron: "https://wetten.overheid.nl/BWBV0002725"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst over het onderhoud van de Dinkel in het grensgebied bij Gronau
 
-Het waterschap Regge en Dinkel, hierna „waterschap” genoemd, partij ter ene zijde, vertegenwoordigd door de waarnemend voorzitter, ir. H. W. Bunschoten
-
-en
-
-het Wasser- und Bodenverband „Unteres Dinkelgebiet”, hierna „Verband” genoemd, partij ter andere zijde, vertegenwoordigd door de voorzitter, Gerhard Schultewolter,
-
-sluiten, gelet op hoofdstuk 4, artikel 59, lid 2, van het op 8 april 1960 tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden gesloten Grensverdrag, de volgende overeenkomst:
+*Het waterschap Regge en Dinkel, hierna „waterschap” genoemd, partij ter ene zijde, vertegenwoordigd door de waarnemend voorzitter, ir. H. W. Bunschoten en het Wasser- und Bodenverband „Unteres Dinkelgebiet”, hierna „Verband” genoemd, partij ter andere zijde, vertegenwoordigd door de voorzitter, Gerhard Schultewolter, sluiten, gelet op hoofdstuk 4, artikel 59, lid 2, van het op 8 april 1960 tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden gesloten Grensverdrag, de volgende overeenkomst:*
 
 ##### Artikel 1
 
@@ -89,7 +61,7 @@ Zij treedt in werking een maand na ontvangst door één der partijen van de laat
 
 GEDAAN te Almelo, de 12 februari 1981 en te Gronau, de 07 september 1981 in vijfvoud, elk in de Duitse en Nederlandse taal, waarbij elke tekst gelijkelijk verbindend is.
 
-**Voor het waterschap,**
+*Voor het waterschap,*
 
 de wnd. voorzitter,
 
@@ -97,7 +69,7 @@ de wnd. voorzitter,
 
 (ir. H. W. Bunschoten)
 
-**Voor het Verband,**
+*Voor het Verband,*
 
 de voorzitter
 

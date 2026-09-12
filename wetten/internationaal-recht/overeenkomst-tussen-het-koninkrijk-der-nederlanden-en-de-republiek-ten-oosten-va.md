@@ -1,79 +1,45 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek ten Oosten van de Uruguay inzake de bevordering en de wederzijdse bescherming van investeringen"
 identifier: "BWBV0002332"
-country: "nl"
-rank: "verdrag"
-publication_date: "1991-08-01"
-last_updated: "1991-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002332"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002794633"
-version_id: "10002794042"
-internal_id: "C10006984991"
-label_id: "10002782234"
-dtd_version: "2.0"
-original_entry_into_force: "1991-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002332/1991-08-01/0"
-intitule_bron: "Trb.1988-148"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1988-09-22"
-intitule_published: "1988-11-18"
-intitule_in_force: "1991-08-09"
-intitule_status: "goed"
-original_publication: "Trb.1988-148"
-original_signed_date: "1988-09-22"
-original_published_date: "1988-11-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1988-148"
-entry_into_force_date: "1991-08-01"
-jci_1_3: "jci1.3:c:BWBV0002332&z=1991-08-01&g=1991-08-01"
-jci_1_0: "1.0:c:BWBV0002332&g=1991-08-01"
-citeertitel_status: "officieel"
-signed_date: "1988-09-22"
-entry_into_force: "1991-08-01"
+publicatiedatum: 1991-08-01
+laatste_update: 1991-08-01
+status: geldig
+toestand: 1991-08-01
+bron: "https://wetten.overheid.nl/BWBV0002332"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek ten Oosten van de Uruguay inzake de bevordering en de wederzijdse bescherming van investeringen
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van de Republiek ten Oosten van de Uruguay,
-
-hierna te noemen de Overeenkomstsluitende Partijen,
-
-Geleid door de wens de van oudsher tussen hun landen bestaande vriendschapsbanden te versterken, de economische betrekkingen uit te breiden en te intensiveren, in het bijzonder met betrekking tot investeringen door onderdanen van de ene Overeenkomstsluitende Partij op het grondgebied van de andere Overeenkomstsluitende Partij,
-
-Erkennend dat overeenstemming omtrent de aan zodanige investeringen toe te kennen behandeling de kapitaalstroom en de overdracht van technische kennis, alsmede de economische ontwikkeling van de Overeenkomstsluitende Partijen zal stimuleren en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is,
-
-Zijn overeengekomen als volgt:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek ten Oosten van de Uruguay, hierna te noemen de Overeenkomstsluitende Partijen, Geleid door de wens de van oudsher tussen hun landen bestaande vriendschapsbanden te versterken, de economische betrekkingen uit te breiden en te intensiveren, in het bijzonder met betrekking tot investeringen door onderdanen van de ene Overeenkomstsluitende Partij op het grondgebied van de andere Overeenkomstsluitende Partij, Erkennend dat overeenstemming omtrent de aan zodanige investeringen toe te kennen behandeling de kapitaalstroom en de overdracht van technische kennis, alsmede de economische ontwikkeling van de Overeenkomstsluitende Partijen zal stimuleren en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is, Zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 
 Voor de toepassing van deze Overeenkomst omvat de term:
 
-- a). „investeringen” alle soorten vermogensbestanddelen en meer in het bijzonder, doch niet uitsluitend:
+- a) „investeringen” alle soorten vermogensbestanddelen en meer in het bijzonder, doch niet uitsluitend:
 
-- (i). roerende en onroerende goederen, alsmede alle andere zakelijke rechten met betrekking tot alle soorten activa;
+   - (i) roerende en onroerende goederen, alsmede alle andere zakelijke rechten met betrekking tot alle soorten activa;
 
-- (ii). rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en gezamenlijke ondernemingen;
+   - (ii) rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en gezamenlijke ondernemingen;
 
-- (iii). recht op geld en andere activa en op iedere prestatie die economische waarde heeft;
+   - (iii) recht op geld en andere activa en op iedere prestatie die economische waarde heeft;
 
-- (iv). rechten op het gebied van de intellectuele eigendom, technische werkwijzen, goodwill en know-how;
+   - (iv) rechten op het gebied van de intellectuele eigendom, technische werkwijzen, goodwill en know-how;
 
-- (v). krachtens het publiekrecht verleende rechten, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen.
+   - (v) krachtens het publiekrecht verleende rechten, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen.
 
-- b). „onderdanen”, met betrekking tot beide Overeenkomstsluitende Partijen:
+- b) „onderdanen”, met betrekking tot beide Overeenkomstsluitende Partijen:
 
-- (i). natuurlijke personen die volgens het recht van die Overeenkomstsluitende Partij haar nationaliteit bezitten;
+   - (i) natuurlijke personen die volgens het recht van die Overeenkomstsluitende Partij haar nationaliteit bezitten;
 
-- (ii). onverminderd het bepaalde in (iii) hieronder, rechtspersonen die zijn opgericht naar het recht van die Overeenkomstsluiten de Partij;
+   - (ii) onverminderd het bepaalde in (iii) hieronder, rechtspersonen die zijn opgericht naar het recht van die Overeenkomstsluiten de Partij;
 
-- (iii). rechtspersonen, waar ook gevestigd, die onder al dan niet rechtstreeks toezicht staan van onderdanen van die Overeenkomstsluitende Partij.
+   - (iii) rechtspersonen, waar ook gevestigd, die onder al dan niet rechtstreeks toezicht staan van onderdanen van die Overeenkomstsluitende Partij.
 
-- c). „grondgebied” omvat de zeegebieden grenzend aan de kust van de betrokken Staat, voor zover die Staat overeenkomstig het internationale recht soevereine rechten of rechtsmacht in deze gebieden kan uitoefenen.
+- c) „grondgebied” omvat de zeegebieden grenzend aan de kust van de betrokken Staat, voor zover die Staat overeenkomstig het internationale recht soevereine rechten of rechtsmacht in deze gebieden kan uitoefenen.
 
 ##### Artikel 2
 
@@ -101,23 +67,23 @@ Met betrekking tot belastingen, heffingen, lasten en verminderingen en vrijstell
 
 De Overeenkomstsluitende Partijen waarborgen dat betalingen die verband houden met een investering kunnen worden overgemaakt. De overmakingen geschieden in vrij inwisselbare valuta, zonder onredelijke beperking of vertraging. Deze overmakingen omvatten in het bijzonder, doch niet uitsluitend:
 
-- a). winsten, interesten, dividenden en andere lopende inkomsten;
+- a) winsten, interesten, dividenden en andere lopende inkomsten;
 
-- b). gelden nodig
+- b) gelden nodig
 
-- (i). voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindprodukten, of
+   - (i) voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindprodukten, of
 
-- (ii). om kapitaalgoederen te vervangen ten einde de continuïteit van een investering te waarborgen;
+   - (ii) om kapitaalgoederen te vervangen ten einde de continuïteit van een investering te waarborgen;
 
-- c). bijkomende gelden, noodzakelijk voor de ontwikkeling van een investering;
+- c) bijkomende gelden, noodzakelijk voor de ontwikkeling van een investering;
 
-- d). gelden voor terugbetaling van leningen;
+- d) gelden voor terugbetaling van leningen;
 
-- e). royalty's of honoraria;
+- e) royalty's of honoraria;
 
-- f). inkomsten uit arbeid van natuurlijke personen;
+- f) inkomsten uit arbeid van natuurlijke personen;
 
-- g). de opbrengst van de verkoop of liquidatie van de investering.
+- g) de opbrengst van de verkoop of liquidatie van de investering.
 
 ##### Artikel 6
 
@@ -189,10 +155,10 @@ TEN BLIJKE WAARVAN, de ondertekenende vertegenwoordigers, daartoe behoorlijk gem
 
 GEDAAN in twee exemplaren, in de Nederlandse, de Spaanse en de Engelse taal, zijnde de drie teksten gelijkelijk authentiek, 's-Gravenhage, 22 september 1988.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 (w.g.) Y. VAN ROOY
 
-**Voor de Regering van de Republiek ten Oosten van de Uruguay,**
+*Voor de Regering van de Republiek ten Oosten van de Uruguay,*
 
 (w.g.) R. ZERBINO

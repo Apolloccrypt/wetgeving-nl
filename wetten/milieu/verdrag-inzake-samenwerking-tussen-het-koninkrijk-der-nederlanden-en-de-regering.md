@@ -1,51 +1,19 @@
 ---
 title: "Verdrag inzake samenwerking tussen het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika betreffende toegang tot en gebruik van faciliteiten in de Nederlandse Antillen en Aruba voor drugsbestrijding vanuit de lucht"
 identifier: "BWBV0001980"
-country: "nl"
-rank: "verdrag"
-publication_date: "2001-11-02"
-last_updated: "2001-11-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001980"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002590383"
-version_id: "10002581592"
-internal_id: "C10006992451"
-label_id: "10002579774"
-dtd_version: "2.0"
-original_entry_into_force: "2001-11-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001980/2001-11-02/0"
-intitule_bron: "Trb.2000-34"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2000-04-01"
-intitule_published: "2000-03-31"
-intitule_in_force: "2001-11-19"
-intitule_status: "goed"
-original_publication: "Trb.2000-34"
-original_signed_date: "2000-04-01"
-original_published_date: "2000-03-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2000-34"
-entry_into_force_date: "2001-11-02"
-jci_1_3: "jci1.3:c:BWBV0001980&z=2001-11-02&g=2001-11-02"
-jci_1_0: "1.0:c:BWBV0001980&g=2001-11-02"
-citeertitel_status: "redactioneel"
-signed_date: "2000-04-01"
-entry_into_force: "2001-11-02"
+publicatiedatum: 2001-11-02
+laatste_update: 2001-11-02
+status: geldig
+toestand: 2001-11-02
+bron: "https://wetten.overheid.nl/BWBV0001980"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag inzake samenwerking tussen het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika betreffende toegang tot en gebruik van faciliteiten in de Nederlandse Antillen en Aruba voor drugsbestrijding vanuit de lucht
 
-Gezien de noodzaak van versterkte internationale samenwerking bij de bestrijding van illegale drugsactiviteiten waartoe wordt opgeroepen in internationale juridische en politieke instrumenten, zoals het Verdrag van 1988 van de Verenigde Naties tegen de sluikhandel in verdovende middelen en psychotrope stoffen en het Actieplan van Barbados van 1996;
-
-Gelet op de tastbare bilaterale stappen die reeds zijn gezet om een versterkte intergouvernementele samenwerking op dit gebied te bewerkstelligen, in het bijzonder het Interim-Verdrag gesloten op 13 april 1999 tussen de Verenigde Staten van Amerika en het Koninkrijk der Nederlanden ter vergemakkelijking van toegang tot en gebruik van daartoe aangewezen vliegvelden in de Nederlandse Antillen en Aruba voor de drugsbestrijding door bevoegde Amerikaanse strijdkrachten en burgerpersoneel;
-
-Geleid door de wens voort te bouwen op het Interim-Verdrag door een blijvender verdrag voor langere duur te sluiten en de modaliteiten en voorwaarden te scheppen voor een duurzamer partnerschap en een op samenwerking gerichte aanwezigheid van de Verenigde Staten in de Nederlandse Antillen en Aruba voor de drugsbestrijding;
-
-Erkennend dat, ter ondersteuning van dit strategisch partnerschap ter bevordering van internationale samenwerking bij het beteugelen van illegale drugsactiviteiten, de Verenigde Staten van Amerika en het Koninkrijk der Nederlanden aanzienlijke nationale middelen blijven inzetten, met inbegrip van speciale luchtvaartuigen, strijdkrachten, burgerpersoneel en andere materiële middelen;
-
-Indachtig de gestage begeleidende financiële baten ten voordele van de economieën van de Nederlandse Antillen en Aruba als gevolg van het optreden van de Verenigde Staten van Amerika in verband met dit Verdrag;
-
-Komen het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika (hierna te noemen „Partijen") bij deze het volgende overeen:
+*Gezien de noodzaak van versterkte internationale samenwerking bij de bestrijding van illegale drugsactiviteiten waartoe wordt opgeroepen in internationale juridische en politieke instrumenten, zoals het Verdrag van 1988 van de Verenigde Naties tegen de sluikhandel in verdovende middelen en psychotrope stoffen en het Actieplan van Barbados van 1996; Gelet op de tastbare bilaterale stappen die reeds zijn gezet om een versterkte intergouvernementele samenwerking op dit gebied te bewerkstelligen, in het bijzonder het Interim-Verdrag gesloten op 13 april 1999 tussen de Verenigde Staten van Amerika en het Koninkrijk der Nederlanden ter vergemakkelijking van toegang tot en gebruik van daartoe aangewezen vliegvelden in de Nederlandse Antillen en Aruba voor de drugsbestrijding door bevoegde Amerikaanse strijdkrachten en burgerpersoneel; Geleid door de wens voort te bouwen op het Interim-Verdrag door een blijvender verdrag voor langere duur te sluiten en de modaliteiten en voorwaarden te scheppen voor een duurzamer partnerschap en een op samenwerking gerichte aanwezigheid van de Verenigde Staten in de Nederlandse Antillen en Aruba voor de drugsbestrijding; Erkennend dat, ter ondersteuning van dit strategisch partnerschap ter bevordering van internationale samenwerking bij het beteugelen van illegale drugsactiviteiten, de Verenigde Staten van Amerika en het Koninkrijk der Nederlanden aanzienlijke nationale middelen blijven inzetten, met inbegrip van speciale luchtvaartuigen, strijdkrachten, burgerpersoneel en andere materiële middelen; Indachtig de gestage begeleidende financiële baten ten voordele van de economieën van de Nederlandse Antillen en Aruba als gevolg van het optreden van de Verenigde Staten van Amerika in verband met dit Verdrag; Komen het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika (hierna te noemen „Partijen") bij deze het volgende overeen:*
 
 ##### Artikel I. Begripsomschrijvingen
 
@@ -201,7 +169,7 @@ Voor luchtvaartuigen, vaartuigen en voertuigen die door de Regering van de Veren
 
 ##### Artikel XXI. Medewerking voor luchtwaarnemers
 
-De FOL-managers vergemakkelijken het verblijf van luchtwaarnemers in de Nederlandse Antillen en Aruba, en lichten luchtwaarnemers, **inter alia**, in over plaatselijke wetten en gebruiken ter waarborging van ordentelijk gedrag bij verblijf op de Nederlandse Antillen en Aruba.
+De FOL-managers vergemakkelijken het verblijf van luchtwaarnemers in de Nederlandse Antillen en Aruba, en lichten luchtwaarnemers, *inter alia*, in over plaatselijke wetten en gebruiken ter waarborging van ordentelijk gedrag bij verblijf op de Nederlandse Antillen en Aruba.
 
 ##### Artikel XXII. Medewerking bij uitvoering, wijziging
 
@@ -235,7 +203,7 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun 
 
 GEDAAN te Oranjestad, Aruba, op 2 maart 2000.
 
-**Voor het Koninkrijk der Nederlanden:**
+*Voor het Koninkrijk der Nederlanden:*
 
 (w.g.) MIGUEL A. POURIER
 
@@ -253,7 +221,7 @@ Minister-President van
 
 Aruba
 
-**Voor de Regering van de Verenigde Staten van Amerika:**
+*Voor de Regering van de Verenigde Staten van Amerika:*
 
 (w.g.) RICHARD C. BROWN
 

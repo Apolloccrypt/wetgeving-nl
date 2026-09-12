@@ -1,69 +1,35 @@
 ---
 title: "Overeenkomst inzake de bescherming van vleermuizen in Europa"
 identifier: "BWBV0002713"
-country: "nl"
-rank: "verdrag"
-publication_date: "2004-02-07"
-last_updated: "2004-02-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002713"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003060643"
-version_id: "10003063522"
-internal_id: "C10006976861"
-label_id: "10003047054"
-dtd_version: "2.0"
-original_entry_into_force: "1994-01-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002713/2004-02-07/0"
-intitule_bron: "Trb.1992-18"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-03-17"
-intitule_published: "1992-02-11"
-intitule_in_force: "1993-12-01"
-intitule_status: "goed"
-original_publication: "Trb.1992-18"
-original_signed_date: "1992-03-17"
-original_published_date: "1992-02-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1992-18"
-entry_into_force_date: "1994-01-16"
-jci_1_3: "jci1.3:c:BWBV0002713&z=2004-02-07&g=2004-02-07"
-jci_1_0: "1.0:c:BWBV0002713&g=2004-02-07"
-citeertitel_status: "officieel"
-signed_date: "1992-03-17"
-entry_into_force: "1994-01-16"
+publicatiedatum: 1994-01-16
+laatste_update: 2004-02-07
+status: geldig
+toestand: 2004-02-07
+bron: "https://wetten.overheid.nl/BWBV0002713"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst inzake de bescherming van vleermuizen in Europa
 
-The Contracting Parties
-
-Recalling the [Convention on the Conservation of Migratory Species of Wild Animals](https://wetten.overheid.nl/jci1.3:c:BWBV0004769) opened for signature in Bonn on 23 June 1979;
-
-Recognising the unfavourable conservation status of bats in Europe and non-European Range States and in particular the serious threat to them from habitat degradation, disturbance of roosting sites and certain pesticides;
-
-Conscious that the threats facing bats in Europe and non-European Range States are common to both migratory and non-migratory species and that roosts are often shared by migratory and non-migratory species;
-
-Recalling that the first meeting of the Conference of the Parties to the [Convention on the Conservation of Migratory Species of Wild Animals](https://wetten.overheid.nl/jci1.3:c:BWBV0004769) held in Bonn in October 1985 agreed to add European species of MICROCHIROPTERA (Rhinolophidae and Vespertilionidae) to [Appendix II of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004769&bijlage=II) and instructed the Secretariat of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004769) to take appropriate measures to develop an Agreement for these species;
-
-Convinced that the conclusion of an Agreement for these species would greatly benefit the conservation of bats in Europe and in their non-European Range States;
-
-Have agreed as follows:
+*The Contracting Parties Recalling the Convention on the Conservation of Migratory Species of Wild Animals opened for signature in Bonn on 23 June 1979; Recognising the unfavourable conservation status of bats in Europe and non-European Range States and in particular the serious threat to them from habitat degradation, disturbance of roosting sites and certain pesticides; Conscious that the threats facing bats in Europe and non-European Range States are common to both migratory and non-migratory species and that roosts are often shared by migratory and non-migratory species; Recalling that the first meeting of the Conference of the Parties to the Convention on the Conservation of Migratory Species of Wild Animals held in Bonn in October 1985 agreed to add European species of MICROCHIROPTERA (Rhinolophidae and Vespertilionidae) to Appendix II of the Convention and instructed the Secretariat of the Convention to take appropriate measures to develop an Agreement for these species; Convinced that the conclusion of an Agreement for these species would greatly benefit the conservation of bats in Europe and in their non-European Range States; Have agreed as follows:*
 
 ##### Article I. Scope and Interpretation
 
 For the purposes of this Agreement:
 
-- a). "[Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004769)" means the Convention on the Conservation of Migratory Species of Wild Animals (Bonn 1979);
+- a) "[Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004769)" means the Convention on the Conservation of Migratory Species of Wild Animals (Bonn 1979);
 
-- b). "Bats" means populations of CHIROPTERA species as listed in Annex 1 to this Agreement occurring in Europe and in their non-European Range States;
+- b) "Bats" means populations of CHIROPTERA species as listed in Annex 1 to this Agreement occurring in Europe and in their non-European Range States;
 
-- c). “Range State” means any State (whether or not it is a party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004769)) that exercises jurisdiction over any part of the range of a species covered by this Agreement;
+- c) “Range State” means any State (whether or not it is a party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004769)) that exercises jurisdiction over any part of the range of a species covered by this Agreement;
 
-- d). "Regional Economic Integration Organisation" means an organisation constituted by sovereign States to which this Agreement applies and which has competence in respect of matters covered by this Agreement and has been duly authorised, in accordance with its internal procedures, to sign, ratify, accept, approve or accede to it;
+- d) "Regional Economic Integration Organisation" means an organisation constituted by sovereign States to which this Agreement applies and which has competence in respect of matters covered by this Agreement and has been duly authorised, in accordance with its internal procedures, to sign, ratify, accept, approve or accede to it;
 
-- e). "Parties" means, unless the context otherwise indicates, Parties to this Agreement;
+- e) "Parties" means, unless the context otherwise indicates, Parties to this Agreement;
 
-- f). "In Europe" means the continent of Europe.
+- f) "In Europe" means the continent of Europe.
 
 ##### Article II. General Provisions
 
@@ -135,9 +101,9 @@ Such reservation may be withdrawn at any time by written notification to the Dep
 
 7. Any State which becomes a Party to the Agreement after the entry into force of an Amendment shall, failing an expression of a different intention by that State:
 
-- a). be considered as a Party to the Agreement as amended; and
+- a) be considered as a Party to the Agreement as amended; and
 
-- b). be considered as a Party to the unamended Agreement in relation to any Party not bound by the Amendment.
+- b) be considered as a Party to the unamended Agreement in relation to any Party not bound by the Amendment.
 
 ##### Article VIII. Reservations
 
@@ -151,9 +117,9 @@ Any dispute which may arise between Parties with respect to the interpretation o
 
 This Agreement shall be open to signature by Range States or Regional Economic Integration Organisations who may become Parties either by:
 
-- a). signature without reservation in respect of ratification, acceptance or approval; or
+- a) signature without reservation in respect of ratification, acceptance or approval; or
 
-- b). signature with reservation in respect of ratification, acceptance or approval, followed by ratification, acceptance or approval.
+- b) signature with reservation in respect of ratification, acceptance or approval, followed by ratification, acceptance or approval.
 
 Instruments of ratification, acceptance or approval shall be deposited with the Depositary.
 

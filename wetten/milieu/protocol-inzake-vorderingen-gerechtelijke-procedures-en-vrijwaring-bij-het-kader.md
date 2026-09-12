@@ -1,120 +1,92 @@
 ---
 title: "Protocol inzake vorderingen, gerechtelijke procedures en vrijwaring bij het Kaderverdrag inzake een multilateraal nucleair milieuprogramma in de Russische Federatie"
 identifier: "BWBV0001590"
-country: "nl"
-rank: "verdrag"
-publication_date: "2005-03-04"
-last_updated: "2003-05-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001590"
+categorie: "Milieu"
 soort: "verdrag"
-stam_id: "10001468193"
-version_id: "10001546282"
-internal_id: "C10006995151"
-label_id: "10001468304"
-dtd_version: "2.0"
-original_entry_into_force: "2005-03-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001590/2005-03-04/0"
-intitule_bron: "Trb.2003-111"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-05-21"
-intitule_published: "2003-08-01"
-intitule_in_force: "2005-09-26"
-intitule_status: "goed"
-original_publication: "Trb.2003-111"
-original_signed_date: "2003-05-21"
-original_published_date: "2003-08-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2003-111"
-entry_into_force_date: "2005-03-04"
-jci_1_3: "jci1.3:c:BWBV0001590&z=2005-03-04&g=2005-03-04"
-jci_1_0: "1.0:c:BWBV0001590&g=2005-03-04"
-citeertitel_status: "redactioneel"
-signed_date: "2003-05-21"
-entry_into_force: "2005-03-04"
+publicatiedatum: 2005-03-04
+laatste_update: 2005-03-04
+status: geldig
+toestand: 2005-03-04
+bron: "https://wetten.overheid.nl/BWBV0001590"
+opgehaald: 2026-09-12
 ---
+
 # Protocol inzake vorderingen, gerechtelijke procedures en vrijwaring bij het Kaderverdrag inzake een multilateraal nucleair milieuprogramma in de Russische Federatie
 
-De Regering van het Koninkrijk België, de Regering van het Koninkrijk Denemarken, de Regering van de Republiek Finland, de Regering van de Franse Republiek, de Regering van de Bondsrepubliek Duitsland, de Regering van het Koninkrijk der Nederlanden, de Regering van het Koninkrijk Noorwegen, de Regering van de Russische Federatie, de Regering van het Koninkrijk Zweden, de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de Europese Gemeenschap en de Europese Gemeenschap voor Atoomenergie (hierna te noemen de Partijen),
+*The Government of the Kingdom of Belgium, the Government of the Kingdom of Denmark, the Government of the Republic of Finland, the Government of the French Republic, the Government of the Federal Republic of Germany, the Government of the Kingdom of the Netherlands, the Government of the Kingdom of Norway, the Government of the Russian Federation, the Government of the Kingdom of Sweden, the Government of the United Kingdom of Great Britain and Northern Ireland, the European Community, and the European Atomic Energy Community (hereinafter referred to as the Parties), Reaffirming their commitment to achieving the purposes of the Framework Agreement on a Multilateral Nuclear Environmental Programme in the Russian Federation signed on 21 May 2003 (hereinafter referred to as ``the Agreement"); Convinced of the need to establish provisions ensuring that claims against the Contributing Parties and their personnel or contractors, subcontractors, consultants, suppliers or subsuppliers of equipment, goods or services at any tier and their personnel, for any loss or damage of whatsoever nature arising from activities undertaken pursuant to the Agreement are not brought by the Russian Party and, if brought by a third party, are indemnified by the Russian Party; Have agreed as follows:*
 
-Opnieuw hun wil bevestigend de doelstellingen te verwezenlijken van het [Kaderverdrag inzake een multilateraal nucleair milieuprogramma in de Russische Federatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001589), ondertekend op 21 mei 2003 (hierna te noemen „het Verdrag");
+##### Article 1
 
-Overtuigd van de noodzaak bepalingen vast te stellen om te waarborgen dat geen vorderingen op de Donorpartijen en hun medewerkers of aannemers, onderaannemers, adviseurs, leveranciers of toeleveranciers van uitrusting, goederen of diensten op elk niveau en hun medewerkers, wegens verlies of schade van welke aard ook dat of die voortvloeit uit activiteiten verricht uit hoofde van het Verdrag worden ingesteld door de Russische Partij en dat zij, indien dergelijke vorderingen door een derde worden ingesteld, worden gevrijwaard door de Russische Partij;
+1. The definitions contained in [Article 2 of the Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0001589&artikel=2) shall apply to this Protocol as fully and effectively as if they were set forth in full herein.
 
-Zijn het volgende overeengekomen:
+2. For the purposes of this Protocol, the following terms shall have the following meanings:
 
-##### Artikel 1
+Nuclear Incident: Any occurrence or series of occurrences having the same origin which causes Nuclear Damage.
 
-1. De omschrijvingen vervat in [artikel 2 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001589&artikel=2) zijn op dezelfde wijze en in dezelfde mate van toepassing op dit Protocol als waren zij hierin ten volle vervat.
+Nuclear Damage:
 
-2. Voor de toepassing van dit Protocol wordt verstaan onder de volgende termen:
+- (i) loss of life, any personal injury or any loss of, or damage to, property which arises out of or results from the radioactive properties or a combination of radioactive properties with toxic, explosive or other hazardous properties of nuclear fuel or radioactive products or waste in, or of nuclear material coming from, originating in, or sent to, a nuclear installation;
 
-kernschade:
+- (ii) any other loss or damage so arising or resulting if and to the extent that the law of the competent court so provides; and
 
-- (i). overlijden, persoonlijk letsel of verlies van of schade aan eigendommen dat of die voortvloeit uit of het gevolg is van de radioactieve eigenschappen of een combinatie van radioactieve eigenschappen en toxische, explosieve of anderszins gevaarlijke eigenschappen, van nucleaire brandstof of radioactieve producten of afval in of nucleair materiaal afkomstig van of gezonden naar een nucleaire installatie;
+- (iii) if the law of the State in which the nuclear installation of the liable operator is situated so provides, loss of life, any personal injury or any loss of, or damage to, property which arises out of or results from other ionising radiation emitted by any other source of radiation inside a nuclear installation.
 
-- (ii). elk ander verlies dat of andere schade die daaruit voortvloeit of daarvan het gevolg is indien en voorzover het recht van de bevoegde rechter dit bepaalt; en
+3. For the purposes of this Protocol, whenever both Nuclear Damage and damage other than Nuclear Damage have been caused by a Nuclear Incident, or jointly by a Nuclear Incident and one or more other occurrences, such other damage shall, to the extent that it is not reasonably separable from the Nuclear Damage, be deemed, for the purposes of this Protocol, to be Nuclear Damage caused by that Nuclear Incident.
 
-- (iii). indien het recht van de staat waar de nucleaire installatie van de aansprakelijke exploitant is gelegen dit bepaalt, overlijden, persoonlijk letsel of verlies van of schade aan eigendommen dat of die voortvloeit uit of het gevolg is van andere ioniserende straling van een andere stralingsbron binnen een nucleaire installatie.
+##### Article 2
 
-nucleair ongeval: een gebeurtenis of reeks gebeurtenissen met dezelfde oorzaak die kernschade veroorzaakt.
+1. With the exception of claims for injury or damage against individuals arising from omissions or acts of such individuals done with intent to cause injury or damage, the Russian Party shall bring no claims or legal proceedings of any kind against the Contributors and their personnel or contractors, subcontractors, consultants, suppliers or subsuppliers of equipment, goods or services at any tier and their personnel, for any loss or damage of whatsoever nature, including but not limited to personal injury, loss of life, direct, indirect and consequential damage to property owned by the Russian Federation arising from activities undertaken pursuant to the [Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0001589). This paragraph shall not apply to the enforcement of the express provisions of a contract.
 
-3. Voor de toepassing van dit Protocol wordt, wanneer zowel kernschade als schade anders dan kernschade is veroorzaakt door een nucleair ongeval, of door een nucleair ongeval en een of meer andere gebeurtenissen tezamen, deze schade, voor zover zij redelijkerwijs niet kan worden gescheiden van de kernschade, aangemerkt als kernschade veroorzaakt door dat nucleaire ongeval.
+2. With the exception of claims for Nuclear Damage against individuals arising from omissions or acts of such individuals done with intent to cause damage, the Russian Party shall provide for the adequate legal defence of and indemnify, and shall bring no claims or legal proceedings against the Contributors and their personnel, or any contractors, subcontractors, consultants, suppliers, or subsuppliers of equipment, goods or services at any tier and their personnel in connection with third-party claims, in any court or forum, arising from activities undertaken pursuant to the [Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0001589), for Nuclear Damage occurring within or outside the territory of the Russian Federation, that results from a Nuclear Incident occurring within the territory of the Russian Federation.
 
-##### Artikel 2
+3. Upon request by a Party, the Russian Party or its authorised representative shall issue an indemnity confirmation letter to any contractor, subcontractor, consultant, supplier or subsupplier confirming the provisions of this Protocol. A standard form of such Indemnity Confirmation Letter is enclosed as an integral part of this Protocol.
 
-1. Met uitzondering van vorderingen wegens letsel of schade op personen die voortvloeien uit het handelen of nalaten van deze personen met het oogmerk letsel of schade toe te brengen, stelt de Russische Partij geen vorderingen of gerechtelijke procedures, van welke aard ook, in tegen de Donoren en hun medewerkers of tegen aannemers, onderaannemers, adviseurs, leveranciers of toeleveranciers van uitrusting, goederen of diensten op elk niveau, en hun medewerkers, wegens verlies of schade van welke aard ook, met inbegrip van maar niet beperkt tot persoonlijk letsel, overlijden of rechtstreekse of onrechtstreekse gevolgschade aan eigendommen van de Russische Federatie dat of die voortvloeit uit activiteiten verricht uit hoofde van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001589). Dit lid is niet van toepassing op de naleving van de uitdrukkelijke bepalingen van een contract.
+4. The Parties may consult as appropriate, on claims and proceedings under this Article.
 
-2. Met uitzondering van vorderingen wegens kernschade op personen die voortvloeien uit het handelen of nalaten van deze personen met het oogmerk schade te veroorzaken, voorziet de Russische Federatie in een passende juridische verdediging en vrijwaring van en stelt zij geen vorderingen of gerechtelijke procedures in tegen de Donoren en hun medewerkers, of tegen hun aannemers, onderaannemers, adviseurs, leveranciers of toeleveranciers van uitrusting, goederen of diensten op elk niveau en hun medewerkers, in verband met vorderingen van derden, voor een rechter of ander forum, die voortvloeien uit activiteiten verricht uit hoofde van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001589), wegens kernschade die ontstaat op of buiten het grondgebied van de Russische Federatie en het gevolg is van een nucleair ongeval op het grondgebied van de Russische Federatie.
+5. Any payments related to the indemnification in paragraph 2 of this Article shall be made promptly and shall be freely transferable to the beneficiary in its national currency.
 
-3. Op verzoek van een Partij geeft de Russische Partij of haar bevoegde vertegenwoordiger een brief ter bevestiging van de vrijwaring af aan aannemers, onderaannemers, adviseurs, leveranciers of toeleveranciers waarin de bepalingen van dit Protocol worden bevestigd. Een model voor een dergelijk document is bijgevoegd en vormt een integrerend deel van dit Protocol.
+6. Contributors, contractors, subcontractors, consultants, suppliers or subsuppliers of equipment, goods or services at any tier and their personnel may refer any dispute concerning the implementation of obligations under this Article to arbitration in accordance with UNCITRAL Arbitration Rules, if such dispute has not been resolved amicably within ninety days of its submission to the Russian Party. Any arbitration award shall be final and binding on the parties to the dispute.
 
-4. Partijen kunnen wanneer nodig overleg plegen over vorderingen en gerechtelijke procedures uit hoofde van dit artikel.
+7. Nothing in this Article shall be construed as acknowledging the jurisdiction of any court or forum outside the Russian Federation over third-party claims to which paragraph 2 of this Article applies, except as provided for in paragraph 6 of this Article and in any other case where the Russian Federation has pledged itself to acknowledge and execute a legal decision on the basis of provisions of international agreements.
 
-5. Betalingen die verband houden met de vrijwaring bedoeld in het tweede lid van dit artikel geschieden onverwijld en dienen vrij overgemaakt te kunnen worden naar de rechthebbende in diens nationale valuta.
+8. Nothing in this Article shall be construed as waiving the immunity of the Parties with respect to potential third-party claims that may be brought against any of them.
 
-6. Donoren, aannemers, onderaannemers, adviseurs, leveranciers of toeleveranciers van uitrusting, goederen of diensten op elk niveau en hun medewerkers kunnen geschillen inzake de uitvoering van verplichtingen uit hoofde van dit artikel voorleggen aan een scheidsgerecht in overeenstemming met het arbitragereglement van de UNCITRAL, indien een dergelijk geschil niet binnen negentig dagen na de indiening ervan bij de Russische Partij in der minne is geschikt. De uitspraken van het scheidsgerecht zijn onherroepelijk en bindend voor de partijen bij het geschil.
+##### Article 3
 
-7. Niets in dit artikel mag zodanig worden uitgelegd dat rechtsmacht wordt toegekend aan een rechter of forum buiten de Russische Federatie over vorderingen van derden waarop het tweede lid van dit artikel van toepassing is, behalve in de gevallen voorzien in het zesde lid van dit artikel en in andere gevallen waarin de Russische Federatie zich heeft verplicht juridische beslissingen op grond van internationale verdragen te erkennen en ten uitvoer te leggen.
+1. This Protocol is open for signature by any Signatory to the [Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0001589).
 
-8. Niets in dit artikel mag zodanig worden uitgelegd dat afstand wordt gedaan van de immuniteit van de Partijen ten aanzien van mogelijke vorderingen van derden die tegen hen kunnen worden ingesteld.
+2. This Protocol is subject to ratification, acceptance or approval by Signatories that are Parties to the [Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0001589). Instruments of ratification, acceptance or approval shall be deposited with at least one of the Depositaries of the Agreement.
 
-##### Artikel 3
+3. This Protocol shall be open to accession by any Party that has acceded to the [Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0001589).
 
-1. Dit Protocol staat open voor ondertekening door alle ondertekenaars van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001589).
+4. Accession shall be effected by the deposit of an instrument of accession with at least one of the Depositaries of the [Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0001589).
 
-2. Dit Protocol dient te worden bekrachtigd, aanvaard of goedgekeurd door ondertekenaars die Partij zijn bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001589). De akten van bekrachtiging, aanvaarding of goedkeuring dienen te worden nedergelegd bij ten minste een van de Depositarissen van het Verdrag.
+5. The Depositaries of this Protocol shall be the Depositaries of the Agreement and shall fulfil their duties in accordance with [Article 77 of the Vienna Convention on the Law of Treaties](https://wetten.overheid.nl/jci1.3:c:BWBV0003441&artikel=77) of 23 May 1969 and shall consult each other in the fulfilment of their duties.
 
-3. Dit Protocol staat open voor toetreding door elke Partij die is toegetreden tot het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001589).
+##### Article 4
 
-4. Toetreding geschiedt door nederlegging van een akte van toetreding bij ten minste een van de Depositarissen van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001589).
+1. Subject to the entry into force of the [Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0001589), this Protocol shall enter into force on the thirtieth day following the date of receipt by at least one of the Depositaries of the instruments of ratification, acceptance or approval referred to in Article 3.2 from the Russian Federation and from any other Signatory to this Protocol and it shall remain in force for a period of five years from that date. For each Signatory ratifying, accepting or approving thereafter, this Protocol shall enter into force for it on the thirtieth day following the receipt by at least one of the Depositaries of the instruments of ratification, acceptance or approval referred to in Article 3.2 and it shall remain in force until the expiration of its original five year period.
 
-5. Als Depositarissen van dit Protocol treden op de Depositarissen van het Verdrag en zij vervullen hun taken in overeenstemming met [artikel 77 van het Verdrag van Wenen inzake het verdragenrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0003441&artikel=77) van 23 mei 1969 en in overleg met elkaar.
+2. For each Party acceding to this Protocol, it shall enter into force for it thirty days following the receipt by at least one of the Depositaries of the instrument of accession referred to in Article 3.4 and it shall remain in force until the expiration of the original five year period mentioned in paragraph 1 of this Article.
 
-##### Artikel 4
+3. This Protocol shall be extended automatically for further periods of five years. Any Party may request at least one of the Depositaries, at least ninety days before the expiration of the five year period, to convene a meeting of the Parties to consider the continuation, modification or amendment of this Protocol.
 
-1. Onder voorbehoud van de inwerkingtreding van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001589), treedt dit Protocol in werking dertig dagen na de datum van ontvangst door ten minste een van de Depositarissen van de akten van bekrachtiging, aanvaarding of goedkeuring bedoeld in artikel 3, tweede lid, van de Russische Federatie en van een andere ondertekenaar van dit Protocol en blijft het daarna van kracht gedurende een tijdvak van vijf jaar. Voor elke ondertekenaar die dit Protocol op een later tijdstip bekrachtigt, aanvaardt of goedkeurt, treedt het in werking dertig dagen na de ontvangst door ten minste een van de Depositarissen van de akten van bekrachtiging, aanvaarding of goedkeuring bedoeld in artikel 3, tweede lid, en blijft het daarna van kracht tot aan het verstrijken van het oorspronkelijke tijdvak van vijf jaar.
+4. Any Party may withdraw from this Protocol upon giving ninety days written notification to at least one of the Depositaries. The MNEPR Committee shall immediately be seized of the matter and shall make recommendations to the Parties on the further continuation of this Protocol and the [Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0001589).
 
-2. Voor elke Partij die tot dit Protocol toetreedt, treedt het in werking dertig dagen na de ontvangst door ten minste een van de Depositarissen van de akte van toetreding bedoeld in artikel 3, vierde lid, en blijft het van kracht tot aan het verstrijken van het oorspronkelijke tijdvak van vijf jaar bedoeld in het eerste lid van dit artikel.
+5. The obligations under this Protocol shall remain in effect regardless of any subsequent transfer of ownership of the object of co-operation, and regardless of any termination of, or withdrawal from, this Protocol or the [Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0001589), or the expiration of their validity.
 
-3. Dit Protocol wordt telkens automatisch verlengd voor een tijdvak van vijf jaar. Elke Partij kan ten minste een van de Depositarissen uiterlijk negentig dagen voor het verstrijken van een tijdvak van vijf jaar verzoeken een vergadering van de Partijen te beleggen teneinde verlenging of wijziging van dit Protocol te overwegen.
+6. - a) Notwithstanding any termination of this Protocol, it shall continue to apply to any Implementing Agreement which the Parties to such Implementing Agreement agree to continue, for the duration of such Implementing Agreement.
 
-4. Elke Partij kan zich uit dit Protocol terugtrekken door middel van een schriftelijke kennisgeving aan ten minste een van de Depositarissen met inachtneming van een opzegtermijn van negentig dagen. Het MNEPR-comité wordt hiervan onverwijld op de hoogte gesteld en doet aanbevelingen aan de Partijen inzake de voortzetting van dit Protocol en het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001589).
+- b) Where a Party withdraws from this Protocol but continues to be a Party to an Implementing Agreement, this Protocol shall continue to apply to such Party with respect to its participation in such Implementing Agreement.
 
-5. De verplichtingen uit hoofde van dit Protocol blijven van kracht ongeacht de eventuele overdracht nadien van de eigendom van het object van de samenwerking en ongeacht de beëindiging van of terugtrekking uit dit Protocol of het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001589) of het verstrijken van de geldigheid ervan.
+7. Where,
 
-- a. Niettegenstaande enige beëindiging van dit Protocol blijft het van toepassing op elke uitvoeringsovereenkomst ten aanzien waarvan de partijen daarbij overeenkomen dat zij deze zullen voortzetten, en wel gedurende de looptijd daarvan.
+- a) the Vienna Convention on Civil Liability for Nuclear Damage of 21 May 1963 (hereinafter referred to as ``the Vienna Convention") and the [Joint Protocol relating to the Application of the Vienna Convention and the Paris Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002348) of 21 September 1988 (hereinafter referred to as ``the Joint Protocol") have both come into force for the Russian Federation, and
 
-- b. Indien een Partij zich terugtrekt uit dit Protocol maar partij blijft bij een uitvoeringsovereenkomst, blijft dit Protocol van toepassing op die partij ten aanzien van haar deelname aan die uitvoeringsovereenkomst.
+- b) the Vienna Convention or the [Paris Convention on Third Party Liability in the Field of Nuclear Energy](https://wetten.overheid.nl/jci1.3:c:BWBV0001020) of 29 July 1960 and the [Joint Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0002348) have both come into force for any other Party to this Protocol,
 
-7. Wanneer:
+such other Party may, in its discretion and by notice in writing to the Russian Federation, terminate the application of Article 2.2 of this Protocol as between it and the Russian Federation with respect to any activity undertaken pursuant to the [Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0001589) to which these instruments apply. The Russian Federation and such other Party shall each inform the other in writing of the dates upon which such instruments come into force in their respective territories.
 
-- a. het Verdrag van Wenen inzake wettelijke aansprakelijkheid voor kernschade van 21 mei 1963 (hierna te noemen het Verdrag van Wenen) en het [Gezamenlijk Protocol betreffende de toepassing van het Verdrag van Wenen en het Verdrag van Parijs](https://wetten.overheid.nl/jci1.3:c:BWBV0002348) van 21 september 1988 (hierna te noemen „het Gezamenlijk Protocol"), beide van kracht zijn geworden voor de Russische Federatie, en
-
-- b. het Verdrag van Wenen of het [Verdrag van Parijs inzake wettelijke aansprakelijkheid op het gebied van de kernenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0001020) van 29 juli 1960 en het [Gezamenlijk Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0002348) beide van kracht zijn geworden voor een andere Partij bij dit Protocol,
-
-kan deze Partij, naar eigen goeddunken en bij schriftelijke kennisgeving aan de Russische Federatie, de toepassing beëindigen van artikel 2, tweede lid, van dit Protocol tussen haar en de Russische Federatie wat betreft alle activiteiten die zijn verricht uit hoofde van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001589) en die vallen onder genoemde overeenkomsten. De Russische Federatie en de andere Partij stellen elkaar schriftelijk in kennis van de data waarop deze overeenkomsten van kracht worden op hun onderscheiden grondgebieden.
-
-8. Dit Protocol wordt vanaf de datum van ondertekening ervan voorlopig toegepast.
+8. This Protocol shall be applied on a provisional basis from the date of its signature.
 
 DONE at Stockholm on 21 May 2003 in the English, French and Russian languages, all texts being equally authentic, in two originals of which one shall be deposited in the archives of the Ministry of Foreign Affairs of the Russian Federation and one in the archives of the Organisation for Economic Co-operation and Development. Duly certified copies of this Protocol shall be transmitted to the Signatories and acceding Parties. In the event of any dispute or divergence in relation to this Protocol the English text shall prevail for the purposes of interpretation.

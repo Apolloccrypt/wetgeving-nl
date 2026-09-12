@@ -1,53 +1,19 @@
 ---
 title: "Verdrag inzake bevordering en wederzijdse bescherming van investeringen tussen het Koninkrijk der Nederlanden en de Republiek Benin"
 identifier: "BWBV0001907"
-country: "nl"
-rank: "verdrag"
-publication_date: "2007-12-15"
-last_updated: "2001-12-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001907"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002567353"
-version_id: "10002558112"
-internal_id: "C10006994151"
-label_id: "10002556804"
-dtd_version: "2.0"
-original_entry_into_force: "2007-12-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001907/2007-12-15/0"
-intitule_bron: "Trb.2002-39"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-11-09"
-intitule_published: "2002-02-20"
-intitule_in_force: "2007-12-06"
-intitule_status: "goed"
-original_publication: "Trb.2002-39"
-original_signed_date: "2004-11-09"
-original_published_date: "2002-02-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2002-39"
-entry_into_force_date: "2007-12-15"
-jci_1_3: "jci1.3:c:BWBV0001907&z=2007-12-15&g=2007-12-15"
-jci_1_0: "1.0:c:BWBV0001907&g=2007-12-15"
-citeertitel_status: "redactioneel"
-signed_date: "2004-11-09"
-entry_into_force: "2007-12-15"
+publicatiedatum: 2007-12-15
+laatste_update: 2007-12-15
+status: geldig
+toestand: 2007-12-15
+bron: "https://wetten.overheid.nl/BWBV0001907"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag inzake bevordering en wederzijdse bescherming van investeringen tussen het Koninkrijk der Nederlanden en de Republiek Benin
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Republiek Benin,
-
-hierna te noemen de Verdragsluitende Partijen,
-
-Geleid door de wens hun traditionele banden van vriendschap te versterken en hun economische betrekkingen te bevorderen, uit te breiden en te intensiveren, met name wat betreft de investeringen door onderdanen van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij,
-
-In het besef dat overeenstemming omtrent de aan zulke investeringen toe te kennen behandeling, het kapitaalverkeer en de uitwisseling van technologieën tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen stimuleert en dat een eerlijke en rechtvaardige behandeling wenselijk is,
-
-Zijn als volgt overeengekomen:
+*Het Koninkrijk der Nederlanden en de Republiek Benin, hierna te noemen de Verdragsluitende Partijen, Geleid door de wens hun traditionele banden van vriendschap te versterken en hun economische betrekkingen te bevorderen, uit te breiden en te intensiveren, met name wat betreft de investeringen door onderdanen van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij, In het besef dat overeenstemming omtrent de aan zulke investeringen toe te kennen behandeling, het kapitaalverkeer en de uitwisseling van technologieën tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen stimuleert en dat een eerlijke en rechtvaardige behandeling wenselijk is, Zijn als volgt overeengekomen:*
 
 ##### Artikel 1
 
@@ -55,23 +21,23 @@ Voor de toepassing van dit Verdrag:
 
 - a. omvat de term „investering": alle soorten vermogensbestanddelen, en in het bijzonder, doch niet uitsluitend:
 
-- i. roerende en onroerende zaken, alsmede de zakelijke rechten die verband houden met alle soorten vermogensbestanddelen;
+   - i. roerende en onroerende zaken, alsmede de zakelijke rechten die verband houden met alle soorten vermogensbestanddelen;
 
-- ii. rechten die voortvloeien uit aandelen, obligaties en andere vormen van deelneming in vennootschappen en joint-ventures;
+   - ii. rechten die voortvloeien uit aandelen, obligaties en andere vormen van deelneming in vennootschappen en joint-ventures;
 
-- iii. vorderingsrechten, rechten in verband met andere vermogensbestanddelen of rechten betreffende prestaties die economische waarde hebben;
+   - iii. vorderingsrechten, rechten in verband met andere vermogensbestanddelen of rechten betreffende prestaties die economische waarde hebben;
 
-- iv. rechten op het gebied van de intellectuele eigendom, technische werkwijzen, handelszaken en knowhow;
+   - iv. rechten op het gebied van de intellectuele eigendom, technische werkwijzen, handelszaken en knowhow;
 
-- v. bij de wet of uit hoofde van rechtmatig tot stand gekomen overeenkomsten verleende rechten, met inbegrip van concessies verleend ten behoeve van het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen;
+   - v. bij de wet of uit hoofde van rechtmatig tot stand gekomen overeenkomsten verleende rechten, met inbegrip van concessies verleend ten behoeve van het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen;
 
 - b. omvat de term „onderdanen" voor elk van beide Verdragsluitende Partijen:
 
-- i. natuurlijke personen die de nationaliteit van die Verdragsluitende Partij hebben;
+   - i. natuurlijke personen die de nationaliteit van die Verdragsluitende Partij hebben;
 
-- ii. rechtspersonen opgericht overeenkomstig het recht van die Verdragsluitende Partij;
+   - ii. rechtspersonen opgericht overeenkomstig het recht van die Verdragsluitende Partij;
 
-- iii. rechtspersonen die niet zijn opgericht overeenkomstig het recht van die Verdragsluitende Partij maar al dan niet rechtstreeks onder toezicht staan van natuurlijke personen als omschreven onder i of van rechtspersonen als omschreven onder ii.
+   - iii. rechtspersonen die niet zijn opgericht overeenkomstig het recht van die Verdragsluitende Partij maar al dan niet rechtstreeks onder toezicht staan van natuurlijke personen als omschreven onder i of van rechtspersonen als omschreven onder ii.
 
 - c. omvat de term „grondgebied": het grondgebied van de betrokken Verdragsluitende Partij en alle aan de territoriale zee grenzende gebieden die, overeenkomstig de wetgeving van die Verdragsluitende Partij en overeenkomstig het internationaal recht, tot de exclusieve economische zone of het continentaal plat van die Partij behoren waarin zij rechtsmacht of soevereine rechten uitoefent.
 
@@ -83,9 +49,9 @@ Elke Verdragsluitende Partij bevordert in het kader van haar wetten en voorschri
 
 1. Elke Verdragsluitende Partij:
 
-- –. waarborgt een eerlijke en billijke behandeling van investeringen door onderdanen van de andere Verdragsluitende Partij; en
+- – waarborgt een eerlijke en billijke behandeling van investeringen door onderdanen van de andere Verdragsluitende Partij; en
 
-- –. belemmert niet door onredelijke of discriminatoire maatregelen de werking, het beheer, de instandhouding, het gebruik, het genot of de vervreemding van die investeringen door de genoemde onderdanen.
+- – belemmert niet door onredelijke of discriminatoire maatregelen de werking, het beheer, de instandhouding, het gebruik, het genot of de vervreemding van die investeringen door de genoemde onderdanen.
 
 2. Elke Verdragsluitende Partij kent aan die investeringen volledige fysieke zekerheid en bescherming toe.
 
@@ -115,9 +81,9 @@ De Verdragsluitende Partijen waarborgen dat betalingen voortvloeiend uit investe
 
 - b. gelden nodig:
 
-- i. voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindproducten, of
+   - i. voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindproducten, of
 
-- ii. om kapitaalgoederen te vervangen teneinde de continuïteit van een investering te waarborgen;
+   - ii. om kapitaalgoederen te vervangen teneinde de continuïteit van een investering te waarborgen;
 
 - c. bijkomende gelden nodig voor de ontwikkeling van een investering;
 
@@ -195,7 +161,7 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN te Cotonou op 13 december 2001, in tweevoud, in de Nederlandse, de Franse en de Engelse taal, zijnde de drie teksten authentiek, met dien verstande dat in geval van verschil van uitlegging de Franse tekst doorslaggevend is.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 (w.g.) SASKIA N. BAKKER
 
@@ -205,7 +171,7 @@ Chargée d'Affaires a.i.
 
 Ambassade van het Koninkrijk der Nederlanden
 
-**Voor de Republiek Benin,**
+*Voor de Republiek Benin,*
 
 (w.g.) KOLAWOLE A. IDJI
 

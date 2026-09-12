@@ -1,119 +1,74 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Republiek Tanzania inzake de bevordering en de wederzijdse bescherming van investeringen"
 identifier: "BWBV0001636"
-country: "nl"
-rank: "verdrag"
-publication_date: "2019-04-01"
-last_updated: "2019-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001636"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000381483"
-version_id: "10006020632"
-internal_id: "C10009629851"
-label_id: "10000381654"
-dtd_version: "2.0"
-original_entry_into_force: "2019-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001636/2019-04-01/0"
-intitule_bron: "Trb.2019-133"
-intitule_effect: "intrekking-regeling"
-intitule_published: "2019-09-04"
-intitule_in_force: "2019-09-04"
-intitule_status: "vervallen"
-original_publication: "Trb.2019-133"
-original_published_date: "2019-09-04"
-original_effect: "intrekking-regeling"
-original_url_id: "trb-2019-133"
-entry_into_force_date: "2019-04-01"
-jci_1_3: "jci1.3:c:BWBV0001636&z=2019-04-01&g=2019-04-01"
-jci_1_0: "1.0:c:BWBV0001636&g=2019-04-01"
-citeertitel_status: "officieel"
-entry_into_force: "2019-04-01"
+publicatiedatum: 2019-04-01
+laatste_update: 2019-04-01
+status: geldig
+toestand: 2019-04-01
+bron: "https://wetten.overheid.nl/BWBV0001636"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Republiek Tanzania inzake de bevordering en de wederzijdse bescherming van investeringen
 
-Het Koninkrijk der Nederlanden
+##### Article 1. Definitions
 
-en
+*Vervallen*
 
-de Verenigde Republiek Tanzania,
+##### Article 2. Promotion and Protection of Investments
 
-hierna te noemen de Verdragsluitende Partijen,
+*Vervallen*
 
-Geleid door de wens hun van oudsher bestaande vriendschapsbanden te versterken en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat betreft investeringen door de investeerders van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij,
+##### Article 3. Treatment of Investments
 
-In het besef dat overeenstemming over de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van, de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is,
+*Vervallen*
 
-Zijn het volgende overeengekomen:
+##### Article 4. Taxes and Fiscal Matters
 
-##### Artikel 1. Begripsomschrijvingen
+*Vervallen*
 
-Vervallen
+##### Article 5. Transfers
 
-##### Artikel 2. Bevordering en bescherming van investeringen
+*Vervallen*
 
-Vervallen
+##### Article 6. Expropriation and Compensation
 
-##### Artikel 3. Behandeling van investeringen
+*Vervallen*
 
-Vervallen
+##### Article 7. Compensation for Losses
 
-##### Artikel 4. Belastingen en fiscale aangelegenheden
+*Vervallen*
 
-Vervallen
+##### Article 8. Subrogation
 
-##### Artikel 5. Overmakingen
+*Vervallen*
 
-Vervallen
+##### Article 9. Settlement of Disputes between a Contracting Party and an Investor
 
-##### Artikel 6. Onteigening en schadeloosstelling
+*Vervallen*
 
-Vervallen
+##### Article 10. Applicability of this Agreement
 
-##### Artikel 7. Schadeloosstelling voor verliezen
+*Vervallen*
 
-Vervallen
+##### Article 11. Consultations
 
-##### Artikel 8. Subrogatie
+*Vervallen*
 
-Vervallen
+##### Article 12. Disputes between the Contracting Parties
 
-##### Artikel 9. Beslechting van geschillen tussen een Verdragsluitende Partij en een investeerder
+*Vervallen*
 
-Vervallen
+##### Article 13. Territorial Application
 
-##### Artikel 10. Toepasselijkheid van dit Verdrag
+*Vervallen*
 
-Vervallen
+##### Article 14. Entry into Force, Duration and Termination
 
-##### Artikel 11. Overleg
+*Vervallen*
 
-Vervallen
+##### Article 15. Succession
 
-##### Artikel 12. Geschillen tussen de Verdragsluitende Partijen
-
-Vervallen
-
-##### Artikel 13. Territoriale toepassing
-
-Vervallen
-
-##### Artikel 14. Inwerkingtreding, duur en beëindiging
-
-Vervallen
-
-##### Artikel 15. Vervanging
-
-Vervallen
-
-IN WITNESS WHEREOF, the undersigned representatives, duly authorised thereto, have signed the present Agreement.
-
-DONE in two originals, at Dodoma, on 31 July 2001 in the English language.
-
-**For the Kingdom of the Netherlands**
-
-(sd) B. S. M. BERENDSEN
-
-**For the United Republic of Tanzania**
-
-(sd) ABADALLAH KIGODA
+*Vervallen*

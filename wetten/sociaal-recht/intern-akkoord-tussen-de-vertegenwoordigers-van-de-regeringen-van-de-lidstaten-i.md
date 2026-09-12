@@ -1,83 +1,19 @@
 ---
 title: "Intern Akkoord tussen de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, betreffende de financiering van de steun van de Gemeenschap binnen het meerjarig financieel kader voor 2008-2013 voor de ACS-EG-Partnerschapsovereenkomst en de toewijzing van financiële bijstand ten behoeve van de landen en gebieden overzee waarop de bepalingen van deel vier van het EG-Verdrag van toepassing zijn"
 identifier: "BWBV0001990"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-05-01"
-last_updated: "2008-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001990"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10002594793"
-version_id: "10002587242"
-internal_id: "C10006997241"
-label_id: "10002584084"
-dtd_version: "2.0"
-original_entry_into_force: "2008-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001990/2008-05-01/0"
-intitule_bron: "Trb.2006-207"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-07-17"
-intitule_published: "2006-10-02"
-intitule_in_force: "2008-04-28"
-intitule_status: "goed"
-original_publication: "Trb.2006-207"
-original_signed_date: "2006-07-17"
-original_published_date: "2006-10-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2006-207"
-entry_into_force_date: "2008-05-01"
-jci_1_3: "jci1.3:c:BWBV0001990&z=2008-05-01&g=2008-05-01"
-jci_1_0: "1.0:c:BWBV0001990&g=2008-05-01"
-citeertitel_status: "redactioneel"
-signed_date: "2006-07-17"
-entry_into_force: "2008-05-01"
+publicatiedatum: 2008-05-01
+laatste_update: 2008-05-01
+status: geldig
+toestand: 2008-05-01
+bron: "https://wetten.overheid.nl/BWBV0001990"
+opgehaald: 2026-09-12
 ---
+
 # Intern Akkoord tussen de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, betreffende de financiering van de steun van de Gemeenschap binnen het meerjarig financieel kader voor 2008-2013 voor de ACS-EG-Partnerschapsovereenkomst en de toewijzing van financiële bijstand ten behoeve van de landen en gebieden overzee waarop de bepalingen van deel vier van het EG-Verdrag van toepassing zijn
 
-De vertegenwoordigers van de regeringen van de lidstaten van de Europese Gemeenschap, in het kader van de Raad bijeen,
-
-Gelet op het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506),
-
-Na raadpleging van de Commissie,
-
-Na raadpleging van de Europese Investeringsbank,
-
-Overwegende hetgeen volgt:
-
-Op grond van [bijlage I bis, punt 3, van de Partnerschapsovereenkomst tussen de leden van de groep Staten in Afrika, het Caribisch gebied en de Stille Oceaan, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=I_Bis), ondertekend te Cotonou op 23 juni 2000PB L 317 van 15.12.2000, blz. 3. (hierna „de ACS-EG-Partnerschapsovereenkomst’’ genoemd) worden alle noodzakelijke wijzigingen van het meerjarige financiële kader of de daarmee samenhangende delen van de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264), in afwijking van het bepaalde in [artikel 95 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=95), vastgesteld door de Raad van Ministers.
-
-De ACS-EG-Raad van Ministers hechtte tijdens zijn vergadering in Port Moresby (Papoea-Nieuw-Guinea) op 1 en 2 juni 2006 zijn goedkeuring aan [bijlage I ter bij de ACS-EG-Partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=1_ter) en stelde daarbij het totaalbedrag aan communautaire steun voor de ACS-staten binnen het meerjarig financieel kader voor de periode 2008-2013 in het kader van de [ACS-EG-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264) vast op 21,966 miljard EUR uit hoofde van het tiende Europees Ontwikkelingsfonds (hierna „het tiende EOF’’ genoemd), waaraan wordt bijgedragen door de lidstaten.
-
-Besluit 2001/822/EG van de Raad van 27 november 2001 betreffende de associatie van de LGO met de Europese Economische Gemeenschap (hierna „het LGO-besluit’’ genoemd)PB L 314 van 30.11.2001, blz. 1. is van kracht tot 31 december 2011. Een nieuw besluit op basis van [artikel 187 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=187) wordt vóór die datum goedgekeurd. Vóór 31 december 2007 zal de Raad met eenparigheid van stemmen op voorstel van de Commissie de financiële bijstand uit hoofde van het tiende EOF aan de LGO waarop [deel vier van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&deel=VIERDE) van toepassing is gedurende de periode 2008-2013, vaststellen op 286 miljoen EUR.
-
-Op grond van Besluit 2005/446/EG van de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, van 30 mei 2005 tot vaststelling van de uiterste datum waarop betalingsverplichtingen uit hoofde van het negende Europees Ontwikkelingsfonds (EOF) kunnen worden aangegaanPB L 156 van 18.6.2005, blz. 19. mogen middelen uit hoofde van het negende EOF die door de Commissie worden beheerd, de door de Europese Investeringsbank (EIB) beheerde rentesubsidies en de inkomsten uit deze middelen uiterlijk tot 31 december 2007 worden vastgelegd. Indien nodig kan deze datum worden gewijzigd.
-
-Met het oog op de tenuitvoerlegging van de [ACS-EG-Partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264) en het LGO-besluit moet een tiende EOF worden ingesteld en moet een procedure worden bepaald voor de toewijzing van middelen en voor de bijdragen van de lidstaten.
-
-Op basis van een verslag van de Commissie zullen in 2008–2009 alle aspecten van de uitgaven en de middelen van de Europese Unie worden geëvalueerd.
-
-De vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, zijn overeengekomen om uit hoofde van het tiende EOF 430 miljoen EUR extra te reserveren voor de financiering van de ondersteunende uitgaven van de Commissie in verband met de programmering en uitvoering van het EOF.
-
-Er moeten regels worden vastgesteld voor het beheer van de financiële samenwerking.
-
-Op 12 september 2000 hechtten de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, hun goedkeuring aan het [interne akkoord betreffende de financiering en het beheer van de steun van de Gemeenschap in het kader van het Financieel Protocol bij de ACS-EG-Overeenkomst en de toewijzing van financiële bijstand ten behoeve van de landen en gebieden overzee waarop deel vier van het EG-Verdrag van toepassing is](https://wetten.overheid.nl/jci1.3:c:BWBV0001565) (hierna „intern akkoord voor het 9e EOF’’ genoemd)PB L 317 van 15.12.2000, blz. 355..
-
-Bij de Commissie wordt een comité van vertegenwoordigers van de regeringen van de lidstaten gevestigd (hierna „het EOF-comité’’ genoemd) en bij de EIB wordt een soortgelijk comité gevestigd. De werkzaamheden die door de Commissie en de EIB worden verricht voor de toepassing van de [ACS-EG-Partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264) en de overeenkomstige bepalingen van het LGO-besluit dienen te worden geharmoniseerd.
-
-Verwacht wordt dat Bulgarije en Roemenië op 1 januari 2008 tot de EU zullen zijn toegetreden, en dat zij tot de [ACS-EG-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264) en tot dit interne akkoord zullen toetreden overeenkomstig de verbintenissen die zij uit hoofde van het [Toetredingsverdrag van Bulgarije en Roemenië en het bijbehorende protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001819) zullen zijn aangegaan.
-
-In hun conclusies van 24 mei 2005 hebben de Raad en de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, „Sneller vorderingen boeken om de milleniumdoelstellingen voor de ontwikkeling te bereiken’’ toegezegd de tijdens de vergadering van het forum op hoog niveau te Parijs op 2 maart 2005 aangenomen verklaring van Parijs inzake doeltreffendheid van de OESO-hulp en van de specifieke toezeggingen die de EU bij die gelegenheid heeft gedaan, tijdig te doen uitvoeren en daarop toe te zien.
-
-Herinnerd wordt aan de ODA-doelstellingen die werden vermeld in bovengenoemde conclusies. Wanneer de Commissie de lidstaten en de OESO/DAC verslag uitbrengt over uitgaven binnen het EOF, zal zij een onderscheid maken tussen ODA- en niet-ODA-activiteiten.
-
-De Raad en de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, het Europees Parlement en de Commissie hebben op 22 december 2005 een gemeenschappelijke verklaring betreffende het ontwikkelingsbeleid van de Europese Unie: de Europese Consensus aangenomen.PB C 46 van 24.2.2006, blz. 1.
-
-Het EOF zal voorrang zal blijven verlenen aan de ondersteuning van de minst ontwikkelde landen en andere lage-inkomenslanden.
-
-De Raad heeft op 11 april 2006 het beginsel vastgesteld dat de Vredesfaciliteit voor Afrika voor de eerste periode (2008-2010) wordt gefinancierd voor een bedrag van 300 miljoen EUR uit het intra-ACS-fonds. In de loop van het derde jaar zal een algehele evaluatie worden verricht, waarbij de modaliteiten van de financiering en de mogelijkheden voor alternatieve financieringsbronnen in de toekomst, inclusief financiering uit de GBVB-begroting, zullen worden getoetst,
-
-Zijn als volgt overeengekomen:
+*De vertegenwoordigers van de regeringen van de lidstaten van de Europese Gemeenschap, in het kader van de Raad bijeen, Gelet op het Verdrag tot oprichting van de Europese Gemeenschap, Na raadpleging van de Commissie, Na raadpleging van de Europese Investeringsbank, Overwegende hetgeen volgt: (1) Op grond van bijlage I bis, punt 3, van de Partnerschapsovereenkomst tussen de leden van de groep Staten in Afrika, het Caribisch gebied en de Stille Oceaan, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds, ondertekend te Cotonou op 23 juni 2000PB L 317 van 15.12.2000, blz. 3. (hierna „de ACS-EG-Partnerschapsovereenkomst’’ genoemd) worden alle noodzakelijke wijzigingen van het meerjarige financiële kader of de daarmee samenhangende delen van de Overeenkomst, in afwijking van het bepaalde in artikel 95 van de Overeenkomst, vastgesteld door de Raad van Ministers. (2) De ACS-EG-Raad van Ministers hechtte tijdens zijn vergadering in Port Moresby (Papoea-Nieuw-Guinea) op 1 en 2 juni 2006 zijn goedkeuring aan bijlage I ter bij de ACS-EG-Partnerschapsovereenkomst en stelde daarbij het totaalbedrag aan communautaire steun voor de ACS-staten binnen het meerjarig financieel kader voor de periode 2008-2013 in het kader van de ACS-EG-overeenkomst vast op 21,966 miljard EUR uit hoofde van het tiende Europees Ontwikkelingsfonds (hierna „het tiende EOF’’ genoemd), waaraan wordt bijgedragen door de lidstaten. (3) Besluit 2001/822/EG van de Raad van 27 november 2001 betreffende de associatie van de LGO met de Europese Economische Gemeenschap (hierna „het LGO-besluit’’ genoemd)PB L 314 van 30.11.2001, blz. 1. is van kracht tot 31 december 2011. Een nieuw besluit op basis van artikel 187 van het Verdrag wordt vóór die datum goedgekeurd. Vóór 31 december 2007 zal de Raad met eenparigheid van stemmen op voorstel van de Commissie de financiële bijstand uit hoofde van het tiende EOF aan de LGO waarop deel vier van het Verdrag van toepassing is gedurende de periode 2008-2013, vaststellen op 286 miljoen EUR. (4) Op grond van Besluit 2005/446/EG van de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, van 30 mei 2005 tot vaststelling van de uiterste datum waarop betalingsverplichtingen uit hoofde van het negende Europees Ontwikkelingsfonds (EOF) kunnen worden aangegaanPB L 156 van 18.6.2005, blz. 19. mogen middelen uit hoofde van het negende EOF die door de Commissie worden beheerd, de door de Europese Investeringsbank (EIB) beheerde rentesubsidies en de inkomsten uit deze middelen uiterlijk tot 31 december 2007 worden vastgelegd. Indien nodig kan deze datum worden gewijzigd. (5) Met het oog op de tenuitvoerlegging van de ACS-EG-Partnerschapsovereenkomst en het LGO-besluit moet een tiende EOF worden ingesteld en moet een procedure worden bepaald voor de toewijzing van middelen en voor de bijdragen van de lidstaten. (6) Op basis van een verslag van de Commissie zullen in 2008–2009 alle aspecten van de uitgaven en de middelen van de Europese Unie worden geëvalueerd. (7) De vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, zijn overeengekomen om uit hoofde van het tiende EOF 430 miljoen EUR extra te reserveren voor de financiering van de ondersteunende uitgaven van de Commissie in verband met de programmering en uitvoering van het EOF. (8) Er moeten regels worden vastgesteld voor het beheer van de financiële samenwerking. (9) Op 12 september 2000 hechtten de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, hun goedkeuring aan het interne akkoord betreffende de financiering en het beheer van de steun van de Gemeenschap in het kader van het Financieel Protocol bij de ACS-EG-Overeenkomst en de toewijzing van financiële bijstand ten behoeve van de landen en gebieden overzee waarop deel vier van het EG-Verdrag van toepassing is (hierna „intern akkoord voor het 9e EOF’’ genoemd)PB L 317 van 15.12.2000, blz. 355.. (10) Bij de Commissie wordt een comité van vertegenwoordigers van de regeringen van de lidstaten gevestigd (hierna „het EOF-comité’’ genoemd) en bij de EIB wordt een soortgelijk comité gevestigd. De werkzaamheden die door de Commissie en de EIB worden verricht voor de toepassing van de ACS-EG-Partnerschapsovereenkomst en de overeenkomstige bepalingen van het LGO-besluit dienen te worden geharmoniseerd. (11) Verwacht wordt dat Bulgarije en Roemenië op 1 januari 2008 tot de EU zullen zijn toegetreden, en dat zij tot de ACS-EG-Overeenkomst en tot dit interne akkoord zullen toetreden overeenkomstig de verbintenissen die zij uit hoofde van het Toetredingsverdrag van Bulgarije en Roemenië en het bijbehorende protocol zullen zijn aangegaan. (12) In hun conclusies van 24 mei 2005 hebben de Raad en de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, „Sneller vorderingen boeken om de milleniumdoelstellingen voor de ontwikkeling te bereiken’’ toegezegd de tijdens de vergadering van het forum op hoog niveau te Parijs op 2 maart 2005 aangenomen verklaring van Parijs inzake doeltreffendheid van de OESO-hulp en van de specifieke toezeggingen die de EU bij die gelegenheid heeft gedaan, tijdig te doen uitvoeren en daarop toe te zien. (13) Herinnerd wordt aan de ODA-doelstellingen die werden vermeld in bovengenoemde conclusies. Wanneer de Commissie de lidstaten en de OESO/DAC verslag uitbrengt over uitgaven binnen het EOF, zal zij een onderscheid maken tussen ODA- en niet-ODA-activiteiten. (14) De Raad en de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, het Europees Parlement en de Commissie hebben op 22 december 2005 een gemeenschappelijke verklaring betreffende het ontwikkelingsbeleid van de Europese Unie: de Europese Consensus aangenomen.PB C 46 van 24.2.2006, blz. 1. (15) Het EOF zal voorrang zal blijven verlenen aan de ondersteuning van de minst ontwikkelde landen en andere lage-inkomenslanden. (16) De Raad heeft op 11 april 2006 het beginsel vastgesteld dat de Vredesfaciliteit voor Afrika voor de eerste periode (2008-2010) wordt gefinancierd voor een bedrag van 300 miljoen EUR uit het intra-ACS-fonds. In de loop van het derde jaar zal een algehele evaluatie worden verricht, waarbij de modaliteiten van de financiering en de mogelijkheden voor alternatieve financieringsbronnen in de toekomst, inclusief financiering uit de GBVB-begroting, zullen worden getoetst, Zijn als volgt overeengekomen:*
 
 ### HOOFDSTUK I. FINANCIËLE MIDDELEN
 
@@ -87,44 +23,97 @@ Zijn als volgt overeengekomen:
 
 2. Het tiende EOF is als volgt samengesteld:
 
-- a. een bedrag van maximaal 22,682 miljard EUR, waaraan de lidstaten als volgt bijdragen: Dit bedrag van 22,682 miljard EUR is beschikbaar vanaf het moment van inwerkingtreding van het financiële meerjarenkader en wordt als volgt verdeeld:
+- a. een bedrag van maximaal 22,682 miljard EUR, waaraan de lidstaten als volgt bijdragen: Lidstaat
+ Verdeelsleutel
+ Bijdrage in miljoen EUR
+ België
+ 3,53
+ 800,6746
+ Bulgarije
+ 0,14
+ 31,7548
+ Tsjechië
+ 0,51
+ 115,6782
+ Denemarken
+ 2,00
+ 453,6400
+ Duitsland
+ 20,50
+ 4 649,8100
+ Estland
+ 0,05
+ 11,3410
+ Griekenland
+ 1,47
+ 333,4254
+ Spanje
+ 7,85
+ 1 780,5370
+ Frankrijk
+ 19,55
+ 4 434,3310
+ Ierland
+ 0,91
+ 206,4062
+ Italië
+ 12,86
+ 2 916,9052
+ Cyprus
+ 0,09
+ 20,4138
+ Letland
+ 0,07
+ 15,8774
+ Litouwen
+ 0,12
+ 27,2184
+ Luxemburg
+ 0,27
+ 61,2414
+ Hongarije
+ 0,55
+ 124,7510
+ Malta
+ 0,03
+ 6,8046
+ Nederland
+ 4,85
+ 1 100,0770
+ Oostenrijk
+ 2,41
+ 546,6362
+ Polen
+ 1,30
+ 294,8660
+ Portugal
+ 1,15
+ 260,8430
+ Roemenië
+ 0,37
+ 83,9234
+ Slovenië
+ 0,18
+ 40,8276
+ Slowakije
+ 0,21
+ 47,6322
+ Finland
+ 1,47
+ 333,4254
+ Zweden
+ 2,74
+ 621,4868
+ Verenigd Koninkrijk
+ 14,82
+ 3 361,4724
+ 22 682 000 Dit bedrag van 22,682 miljard EUR is beschikbaar vanaf het moment van inwerkingtreding van het financiële meerjarenkader en wordt als volgt verdeeld:
 
-- i. 21,966 miljard EUR voor de ACS-staten;
+   - i. 21,966 miljard EUR voor de ACS-staten;
 
-- ii. 286 miljoen EUR voor de LGO;
+   - ii. 286 miljoen EUR voor de LGO;
 
-- iii. 430 miljoen EUR voor de Commissie voor de in artikel 6 bedoelde ondersteunende uitgaven in verband met de programmering en uitvoering van het EOF door de Commissie.
-
-| Lidstaat | Verdeelsleutel | Bijdrage in miljoen EUR |
-| --- | --- | --- |
-| België | 3,53 | 800,6746 |
-| Bulgarije | 0,14 | 31,7548 |
-| Tsjechië | 0,51 | 115,6782 |
-| Denemarken | 2,00 | 453,6400 |
-| Duitsland | 20,50 | 4 649,8100 |
-| Estland | 0,05 | 11,3410 |
-| Griekenland | 1,47 | 333,4254 |
-| Spanje | 7,85 | 1 780,5370 |
-| Frankrijk | 19,55 | 4 434,3310 |
-| Ierland | 0,91 | 206,4062 |
-| Italië | 12,86 | 2 916,9052 |
-| Cyprus | 0,09 | 20,4138 |
-| Letland | 0,07 | 15,8774 |
-| Litouwen | 0,12 | 27,2184 |
-| Luxemburg | 0,27 | 61,2414 |
-| Hongarije | 0,55 | 124,7510 |
-| Malta | 0,03 | 6,8046 |
-| Nederland | 4,85 | 1 100,0770 |
-| Oostenrijk | 2,41 | 546,6362 |
-| Polen | 1,30 | 294,8660 |
-| Portugal | 1,15 | 260,8430 |
-| Roemenië | 0,37 | 83,9234 |
-| Slovenië | 0,18 | 40,8276 |
-| Slowakije | 0,21 | 47,6322 |
-| Finland | 1,47 | 333,4254 |
-| Zweden | 2,74 | 621,4868 |
-| Verenigd Koninkrijk | 14,82 | 3 361,4724 |
-|   |   | 22 682 000 |
+   - iii. 430 miljoen EUR voor de Commissie voor de in artikel 6 bedoelde ondersteunende uitgaven in verband met de programmering en uitvoering van het EOF door de Commissie.
 
 - b. de in bijlage I bij de ACS-EG-Partnerschapsovereenkomst en in bijlage II A van het LGO-besluit vermelde middelen, die uit hoofde van het negende EOF werden toegewezen aan de Investeringsfaciliteit, genoemd in bijlage II C van het Associatiebesluit (hierna „Investeringsfaciliteit’’ te noemen), vallen niet onder Besluit 2005/446/EG, waarin de datum wordt bepaald waarna de middelen van het negende EOF niet langer kunnen worden vastgelegd. Deze middelen worden overgedragen naar het tiende EOF en worden beheerd overeenkomstig de uitvoeringsregeling voor het tiende EOF vanaf de datum van inwerkingtreding van het meerjarig financieel kader voor de periode 2008-2013 met betrekking tot de ACS-EG-Partnerschapsovereenomst en van de besluiten van de Raad inzake de financiële bijstand aan de LGO voor de periode 2008-2013.
 
@@ -152,11 +141,11 @@ Het in artikel 1, lid 2, onder a, onder i, vermelde bedrag van 21,966 miljard EU
 
 - a. 17,766 miljard EUR ter financiering van nationale en regionale indicatieve programma’s. Dit bedrag zal worden gebruikt voor de financiering van
 
-- i. de nationale indicatieve programma’s van de ACS-staten, overeenkomstig de [artikelen 1 tot en met 5 van bijlage IV bij de ACS-EG-Partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=1);
+   - i. de nationale indicatieve programma’s van de ACS-staten, overeenkomstig de [artikelen 1 tot en met 5 van bijlage IV bij de ACS-EG-Partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=1);
 
-- ii. de regionale indicatieve programma’s ter ondersteuning van de regionale en interregionale samenwerking en integratie van de ACS-staten, overeenkomstig de [artikelen 6 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=6), [artikel 13, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=13), en [artikel 14 van bijlage IV bij de ACS-EG-Partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=14).
+   - ii. de regionale indicatieve programma’s ter ondersteuning van de regionale en interregionale samenwerking en integratie van de ACS-staten, overeenkomstig de [artikelen 6 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=6), [artikel 13, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=13), en [artikel 14 van bijlage IV bij de ACS-EG-Partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=14).
 
-- b. 2,7 miljard EUR ter financiering van intra-ACS- en interregionale samenwerking met veel of alle ACS-staten, overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=12), [artikel 13, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=13), en [artikel 14 van bijlage IV bij de ACS-EG-Partnerschapsovereenkomst inzake uitvoerings- en beheersprocedures](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=14). Dit bedrag omvat structurele steun aan de gemeenschappelijke instellingen: het COB en het TCL, bedoeld in [bijlage III bij de ACS-EG-Partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=III) en gecontroleerd volgens de daarin vervatte regels en procedures, alsmede de Paritaire Parlementaire Vergadering, bedoeld in [artikel 17 van de ACS-EG-Partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=17). Dit bedrag omvat tevens financiering van de huishoudelijke uitgaven van het in de [punten 1 en 2 van protocol 1 bij de ACS-EG-Partnerschapsovereenkomst](onbekend) bedoelde ACS-secretariaat.
+- b. 2,7 miljard EUR ter financiering van intra-ACS- en interregionale samenwerking met veel of alle ACS-staten, overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=12), [artikel 13, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=13), en [artikel 14 van bijlage IV bij de ACS-EG-Partnerschapsovereenkomst inzake uitvoerings- en beheersprocedures](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=14). Dit bedrag omvat structurele steun aan de gemeenschappelijke instellingen: het COB en het TCL, bedoeld in [bijlage III bij de ACS-EG-Partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=III) en gecontroleerd volgens de daarin vervatte regels en procedures, alsmede de Paritaire Parlementaire Vergadering, bedoeld in [artikel 17 van de ACS-EG-Partnerschapsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&artikel=17). Dit bedrag omvat tevens financiering van de huishoudelijke uitgaven van het in de [punten 1 en 2 van protocol 1 bij de ACS-EG-Partnerschapsovereenkomst](https://wetten.overheid.nl/BWBV0005264) bedoelde ACS-secretariaat.
 
 - c. Een deel van de onder a en b bedoelde middelen kan worden gebruikt om externe schokken en onvoorziene behoeften op te vangen, waaronder eventueel aanvullende humanitaire kortetermijn- of noodhulp wanneer deze niet uit de EU-begroting kan worden gefinancierd, om de nadelige gevolgen van kortdurende fluctuaties van de exportopbrengsten te verzachten.
 
@@ -259,7 +248,7 @@ Wat betreft middelen van het negende EOF en eerdere EOF’s die niet worden over
 | Finland | 15 |
 | Zweden | 27 |
 | Verenigd Koninkrijk | 148 |
-|   |   |
+|  |  |
 | Totaal EU-27 | 1004 |
 
 3. Het EOF-Comité spreekt zich uit met een gekwalificeerde meerderheid van 724 stemmen op 1 004 stemmen, waarbij ten minste veertien lidstaten vóór moeten stemmen. De blokkerende minderheid bedraagt 281 stemmen.
@@ -292,7 +281,7 @@ De uitvoeringsverordening bevat passende wijzigingen en verbeteringen van de bes
 
 2. Namens de Gemeenschap beheert de EIB de Investeringsfaciliteit en voert zij in dat kader verrichtingen uit, overeenkomstig het in artikel 10, lid 2, bedoelde financieel reglement. De EIB handelt hierbij uit naam en voor risico van de Gemeenschap. Alle daaruit voortvloeiende rechten komen de lidstaten toe, met name in de hoedanigheid van schuldeiser of eigenaar.
 
-3. De EIB draagt overeenkomstig haar [statuten](onbekend) en beste bankpraktijken zorg voor de financiële uitvoering van de verrichtingen in verband met de in artikel 4 bedoelde leningen uit eigen middelen, in voorkomend geval gecombineerd met rentesubsidies uit de subsidiemiddelen van het EOF.
+3. De EIB draagt overeenkomstig haar [statuten](https://wetten.overheid.nl/BWBV0001507) en beste bankpraktijken zorg voor de financiële uitvoering van de verrichtingen in verband met de in artikel 4 bedoelde leningen uit eigen middelen, in voorkomend geval gecombineerd met rentesubsidies uit de subsidiemiddelen van het EOF.
 
 4. Voor elk boekjaar stelt de Commissie de rekeningen van het EOF op, keurt deze goed en stuurt ze naar het Europees Parlement, de Raad en de Rekenkamer.
 
@@ -304,7 +293,7 @@ De uitvoeringsverordening bevat passende wijzigingen en verbeteringen van de bes
 
 8. Voor het financiële beheer van het EOF, met uitzondering van door de EIB beheerde verrichtingen, wordt de Commissie kwijting verleend door het Europees Parlement op aanbeveling van de Raad, die daarover besluit met een overeenkomstig artikel 8 bepaalde gekwalificeerde meerderheid van stemmen.
 
-9. Voor de uit de middelen van het EOF gefinancierde verrichtingen die door de EIB worden beheerd gelden de controle- en kwijtingsprocedures zoals die voor alle verrichtingen van de EIB in haar [statuten](onbekend) zijn vastgelegd.
+9. Voor de uit de middelen van het EOF gefinancierde verrichtingen die door de EIB worden beheerd gelden de controle- en kwijtingsprocedures zoals die voor alle verrichtingen van de EIB in haar [statuten](https://wetten.overheid.nl/BWBV0001507) zijn vastgelegd.
 
 ##### Artikel 12. Herzieningsclausule
 

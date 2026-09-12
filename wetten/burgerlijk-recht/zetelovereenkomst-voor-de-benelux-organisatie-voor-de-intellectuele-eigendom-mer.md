@@ -1,53 +1,19 @@
 ---
 title: "Zetelovereenkomst voor de Benelux-Organisatie voor de Intellectuele Eigendom (merken en tekeningen of modellen)"
 identifier: "BWBV0002872"
-country: "nl"
-rank: "verdrag"
-publication_date: "2015-01-01"
-last_updated: "2015-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002872"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003192543"
-version_id: "10003202462"
-internal_id: "C10006998291"
-label_id: "10003178584"
-dtd_version: "2.0"
-original_entry_into_force: "2007-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002872/2015-01-01/0"
-intitule_bron: "Trb.2007-202"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-10-10"
-intitule_published: "2007-11-01"
-intitule_in_force: "2007-11-01"
-intitule_status: "goed"
-original_publication: "Trb.2007-202"
-original_signed_date: "2007-10-10"
-original_published_date: "2007-11-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2007-202"
-entry_into_force_date: "2007-10-10"
-jci_1_3: "jci1.3:c:BWBV0002872&z=2015-01-01&g=2015-01-01"
-jci_1_0: "1.0:c:BWBV0002872&g=2015-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2007-10-10"
-entry_into_force: "2007-10-10"
+publicatiedatum: 2007-10-10
+laatste_update: 2015-01-01
+status: geldig
+toestand: 2015-01-01
+bron: "https://wetten.overheid.nl/BWBV0002872"
+opgehaald: 2026-09-12
 ---
+
 # Zetelovereenkomst voor de Benelux-Organisatie voor de Intellectuele Eigendom (merken en tekeningen of modellen)
 
-Het Koninkrijk der Nederlanden,
-
-en
-
-De Benelux-Organisatie voor de Intellectuele Eigendom (merken en tekeningen of modellen),
-
-Gelet op het Benelux-verdrag inzake de intellectuele eigendom (merken en tekeningen of modellen) van 25 februari 2005;
-
-In acht nemende het Protocol inzake voorrechten en immuniteiten van de Benelux-Organisatie voor de Intellectuele Eigendom (merken en tekeningen of modellen), en het bepaalde in artikel 1.6 van genoemd Verdrag;
-
-Overwegende dat ingevolge artikel 1.5 van genoemd Verdrag de Benelux-Organisatie voor de Intellectuele Eigendom (merken en tekeningen of modellen) haar zetel heeft te ’s-Gravenhage en dat het Benelux-Bureau voor de Intellectuele Eigendom (merken en tekeningen of modellen) is gevestigd te ’s-Gravenhage;
-
-Zijn overeengekomen als volgt:
+*Het Koninkrijk der Nederlanden, en De Benelux-Organisatie voor de Intellectuele Eigendom (merken en tekeningen of modellen), Gelet op het Benelux-verdrag inzake de intellectuele eigendom (merken en tekeningen of modellen) van 25 februari 2005; In acht nemende het Protocol inzake voorrechten en immuniteiten van de Benelux-Organisatie voor de Intellectuele Eigendom (merken en tekeningen of modellen), en het bepaalde in artikel 1.6 van genoemd Verdrag; Overwegende dat ingevolge artikel 1.5 van genoemd Verdrag de Benelux-Organisatie voor de Intellectuele Eigendom (merken en tekeningen of modellen) haar zetel heeft te ’s-Gravenhage en dat het Benelux-Bureau voor de Intellectuele Eigendom (merken en tekeningen of modellen) is gevestigd te ’s-Gravenhage; Zijn overeengekomen als volgt:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -219,7 +185,7 @@ Ten aanzien van de terugbetaling van de genoemde omzetbelasting zijn de door de 
 
 ##### Artikel 13. Fiscale heffing inkomsten en vermogensbestanddelen
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 14. Deskundigen
 
@@ -279,11 +245,11 @@ De vertegenwoordigers van de Hoge Verdragsluitende Partijen, hun plaatsvervanger
 
 - c. kinderen van 18 tot en met 27 jaar van een personeelslid van de Organisatie, van diens echtgeno(o)t(e) of van diens geregistreerd partner, mits zij:
 
-- i. ongehuwd zijn;
+   - i. ongehuwd zijn;
 
-- ii. financieel afhankelijk zijn van het personeelslid van de Organisatie, diens echtgeno(o)t(e) of diens geregistreerd partner;
+   - ii. financieel afhankelijk zijn van het personeelslid van de Organisatie, diens echtgeno(o)t(e) of diens geregistreerd partner;
 
-- iii. en in Nederland fulltime onderwijs volgen of studeren dan wel een beroepsopleiding of beroepsonderwijs volgen, al dan niet met inbegrip van een stageprogramma, of het voornemen daartoe hebben;
+   - iii. en in Nederland fulltime onderwijs volgen of studeren dan wel een beroepsopleiding of beroepsonderwijs volgen, al dan niet met inbegrip van een stageprogramma, of het voornemen daartoe hebben;
 
 - d. kinderen jonger dan 18 jaar, alsook kinderen die voldoen aan de eisen onder letter c van het eerste lid van dit artikel, voor wie een adoptieaanvraag is ingediend en waarbij de adoptieprocedure door een personeelslid van de Organisatie, diens echtgeno(o)t(e) of diens geregistreerd partner in gang is gezet;
 

@@ -1,42 +1,18 @@
 ---
 title: "Overeenkomst inzake het onderhoud van de Rode Beek en het onderhoud en de instandhouding van de afvoerregulerende kunstwerken bij de Dalheimer Molenvijver"
 identifier: "BWBV0002668"
-country: "nl"
-rank: "verdrag"
-publication_date: "1988-01-21"
-last_updated: "1988-01-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002668"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10002964373"
-version_id: "10002966942"
-internal_id: "C10008163751"
-label_id: "10002950984"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002668/1988-01-21/0"
-intitule_bron: "Trb.1989-72"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1988-09-21"
-intitule_published: "1989-06-06"
-intitule_status: "nogniet"
-original_publication: "Trb.1989-72"
-original_signed_date: "1988-09-21"
-original_published_date: "1989-06-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1989-72"
-jci_1_3: "jci1.3:c:BWBV0002668&z=1988-01-21&g=1988-01-21"
-jci_1_0: "1.0:c:BWBV0002668&g=1988-01-21"
-citeertitel_status: "officieel"
-signed_date: "1988-09-21"
-entry_into_force: "1989-06-06"
+laatste_update: 1988-01-21
+status: geldig
+toestand: 1988-01-21
+bron: "https://wetten.overheid.nl/BWBV0002668"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst inzake het onderhoud van de Rode Beek en het onderhoud en de instandhouding van de afvoerregulerende kunstwerken bij de Dalheimer Molenvijver
 
-De stad Wassenberg, vertegenwoordigd door de Stadtdirektor Windeln en de stad Wegberg, vertegenwoordigd door de Stadtdirektor Soemers alsook het waterschap Roer en Overmaas, gevestigd te Sittard, vertegenwoordigd door de voorzitter, drs. F. W. G. Laarakker;
-
-verder Partijen genoemd,
-
-sluiten, gelet op Hoofdstuk 4, artikel 59, lid 2, van het op 8 april 1960 tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden gesloten Grensverdrag, de volgende overeenkomst:
+*De stad Wassenberg, vertegenwoordigd door de Stadtdirektor Windeln en de stad Wegberg, vertegenwoordigd door de Stadtdirektor Soemers alsook het waterschap Roer en Overmaas, gevestigd te Sittard, vertegenwoordigd door de voorzitter, drs. F. W. G. Laarakker; verder Partijen genoemd, sluiten, gelet op Hoofdstuk 4, artikel 59, lid 2, van het op 8 april 1960 tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden gesloten Grensverdrag, de volgende overeenkomst:*
 
 ##### Artikel 1
 
@@ -54,11 +30,11 @@ De overzichtskaart - schaal 1:25.000 - maakt deel uit van deze overeenkomst (Bij
 
 2. Bij de Dalheimer Molenvijver dient, naast de onderhoudswerkzaamheden, het functioneren van de bedrijfsinstallatie zeker te worden gesteld:
 
-- -. het afvoer-regulerend kunstwerk met afvoerregelaar, schuif, brug, hoogwater-ontlasting, onderuitlaat en uitstroomvoorziening;
+- - het afvoer-regulerend kunstwerk met afvoerregelaar, schuif, brug, hoogwater-ontlasting, onderuitlaat en uitstroomvoorziening;
 
-- -. stuwsluis aan molenrad met toevoergeul en brug;
+- - stuwsluis aan molenrad met toevoergeul en brug;
 
-- -. dam met hoogwaterontlasting (nood-ontlasting).
+- - dam met hoogwaterontlasting (nood-ontlasting).
 
 De drempel van de sluisopening is vastgelegd op 47,25 m boven NN = 47,27 m boven N.A.P. Tot aan de max. stuwhoogte van het (hoogwater)retentiereservoir op de ordinaat 47,95 m boven NN = N.A.P. 47,97, mag de afvoer van 1,60 m3/s aan de benedenloop van de Rode Beek niet worden overschreden. Daartoe worden max. 0,947 m3/s via het afvoerregulerend kunstwerk (Mönchbauwerk) en tot 0,653 m3/s via de molensluis afgevoerd.
 
@@ -130,7 +106,7 @@ Deze overeenkomst behoeft de goedkeuring van de regeringen van de Bondsrepubliek
 
 OPGEMAAKT te Vlodrop, de 21 januari 1988, in vijf originele exemplaren, ieder in de Duitse en Nederlandse taal, waarbij beide teksten gelijkelijk bindend zijn.
 
-**Voor de stad Wassenberg;**
+*Voor de stad Wassenberg;*
 
 (w.g.) WINDELN
 
@@ -140,7 +116,7 @@ vertretungsberechtigter
 
 Beamter
 
-**Voor de stad Wegberg;**
+*Voor de stad Wegberg;*
 
 (w.g.) SOEMERS
 
@@ -150,7 +126,7 @@ vertretungsberechtigter
 
 Beamter
 
-**Voor het Waterschap Roer en Overmaas;**
+*Voor het Waterschap Roer en Overmaas;*
 
 (w.g.) LAARAKKER
 

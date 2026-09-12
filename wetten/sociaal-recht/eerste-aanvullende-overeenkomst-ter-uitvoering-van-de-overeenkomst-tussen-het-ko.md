@@ -1,51 +1,19 @@
 ---
 title: "Eerste Aanvullende Overeenkomst ter uitvoering van de Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake wederzijdse bijstandsverlening bij het bestrijden van rampen en ongevallen"
 identifier: "BWBV0002494"
-country: "nl"
-rank: "verdrag"
-publication_date: "1990-02-05"
-last_updated: "1990-02-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002494"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10002907163"
-version_id: "10002907682"
-internal_id: "C10006985061"
-label_id: "10002894544"
-dtd_version: "2.0"
-original_entry_into_force: "1990-02-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002494/1990-02-05/0"
-intitule_bron: "Trb.1990-42"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1990-02-05"
-intitule_published: "1990-03-15"
-intitule_in_force: "1990-03-15"
-intitule_status: "goed"
-original_publication: "Trb.1990-42"
-original_signed_date: "1990-02-05"
-original_published_date: "1990-03-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1990-42"
-entry_into_force_date: "1990-02-05"
-jci_1_3: "jci1.3:c:BWBV0002494&z=1990-02-05&g=1990-02-05"
-jci_1_0: "1.0:c:BWBV0002494&g=1990-02-05"
-citeertitel_status: "officieel"
-signed_date: "1990-02-05"
-entry_into_force: "1990-02-05"
+publicatiedatum: 1990-02-05
+laatste_update: 1990-02-05
+status: geldig
+toestand: 1990-02-05
+bron: "https://wetten.overheid.nl/BWBV0002494"
+opgehaald: 2026-09-12
 ---
+
 # Eerste Aanvullende Overeenkomst ter uitvoering van de Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake wederzijdse bijstandsverlening bij het bestrijden van rampen en ongevallen
 
-Het Koninkrijk der Nederlanden
-
-en
-
-het Koninkrijk België,
-
-Gelet op de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0002224&artikel=11) en [13 van de Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake wederzijdse bijstandsverlening bij het bestrijden van rampen en ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBV0002224&artikel=13), ondertekend te 's-Gravenhage op 14 november 1984;
-
-Overwegende dat het gewenst is dat een aanvullende overeenkomst wordt gesloten over onderwerpen die zijn genoemd in [artikel 11, tweede lid, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002224&artikel=11);
-
-Zijn als volgt overeengekomen:
+*Het Koninkrijk der Nederlanden en het Koninkrijk België, Gelet op de artikelen 11 en 13 van de Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake wederzijdse bijstandsverlening bij het bestrijden van rampen en ongevallen, ondertekend te 's-Gravenhage op 14 november 1984; Overwegende dat het gewenst is dat een aanvullende overeenkomst wordt gesloten over onderwerpen die zijn genoemd in artikel 11, tweede lid, van de Overeenkomst; Zijn als volgt overeengekomen:*
 
 ### HOOFDSTUK 1. BEGRIPSBEPALINGEN
 
@@ -179,10 +147,10 @@ Deze Aanvullende Overeenkomst treedt in werking op de dag van ondertekening.
 
 GEDAAN te Baarle-Nassau, 5 februari 1990, in twee exemplaren, in de Franse en Nederlandse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 (w.g.) C. I. DALES
 
-**Voor het Koninkrijk België,**
+*Voor het Koninkrijk België,*
 
 (w.g.) L. TOBBACK

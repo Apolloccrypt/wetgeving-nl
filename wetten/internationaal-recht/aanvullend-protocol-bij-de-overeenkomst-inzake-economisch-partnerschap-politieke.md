@@ -1,121 +1,19 @@
 ---
 title: "Aanvullend Protocol bij de Overeenkomst inzake economisch partnerschap, politieke coördinatie en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Verenigde Mexicaanse Staten, anderzijds, in verband met de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Hongarije, de Republiek Letland, de Republiek Litouwen, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie"
 identifier: "BWBV0001649"
-country: "nl"
-rank: "verdrag"
-publication_date: "2005-02-01"
-last_updated: "2004-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001649"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10001401623"
-version_id: "10001471002"
-internal_id: "C10006995061"
-label_id: "10001401744"
-dtd_version: "2.0"
-original_entry_into_force: "2005-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001649/2005-02-01/0"
-intitule_bron: "Trb.2004-180"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-05-01"
-intitule_published: "2004-07-14"
-intitule_in_force: "2005-04-18"
-intitule_status: "goed"
-original_publication: "Trb.2004-180"
-original_signed_date: "2004-05-01"
-original_published_date: "2004-07-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2004-180"
-entry_into_force_date: "2005-02-01"
-jci_1_3: "jci1.3:c:BWBV0001649&z=2005-02-01&g=2005-02-01"
-jci_1_0: "1.0:c:BWBV0001649&g=2005-02-01"
-citeertitel_status: "redactioneel"
-signed_date: "2004-05-01"
-entry_into_force: "2005-02-01"
+publicatiedatum: 2005-02-01
+laatste_update: 2005-02-01
+status: geldig
+toestand: 2005-02-01
+bron: "https://wetten.overheid.nl/BWBV0001649"
+opgehaald: 2026-09-12
 ---
+
 # Aanvullend Protocol bij de Overeenkomst inzake economisch partnerschap, politieke coördinatie en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Verenigde Mexicaanse Staten, anderzijds, in verband met de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Hongarije, de Republiek Letland, de Republiek Litouwen, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie
 
-Het Koninkrijk België,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-Ierland,
-
-de Italiaanse Republiek,
-
-het Groothertogdom Luxemburg,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Portugese Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittanië en Noord-Ierland,
-
-hierna „lidstaten van de Europese Gemeenschap" genoemd,
-
-de Europese Gemeenschap,
-
-hierna „de Gemeenschap" genoemd,
-
-de Verenigde Mexicaanse Staten,
-
-hierna „Mexico" genoemd,
-
-en
-
-de Tsjechische Republiek,
-
-de Republiek Estland,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-de Republiek Hongarije,
-
-de Republiek Malta,
-
-de Republiek Polen,
-
-de Republiek Slovenië,
-
-de Slowaakse Republiek,
-
-hierna „de nieuwe lidstaten" te noemen,
-
-Overwegende dat de Overeenkomst inzake economisch partnerschap, politieke coördinatie en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Verenigde Mexicaanse Staten, anderzijds, hierna „de Overeenkomst" te noemen, op 8 december 1997 te Brussel is ondertekend en op 1 oktober 2000 in werking is getreden;
-
-Overwegende dat het Verdrag betreffende de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie (hierna het „Toetredingsverdrag" te noemen) op 16 april 2003 te Athene werd ondertekend;
-
-Overwegende dat, overeenkomstig artikel 6, lid 2, van het Toetredingsverdrag de opname van de nieuwe lidstaten tot de Overeenkomst wordt geformaliseerd door de sluiting van een protocol bij de Overeenkomst;
-
-Overwegende dat artikel 55 van de Overeenkomst bepaalt: „Voor de toepassing van deze overeenkomst wordt onder „partijen" verstaan: enerzijds de Gemeenschap, of de lidstaten, of de Gemeenschap en haar lidstaten, overeenkomstig hun respectieve bevoegdheden, zoals afgeleid van het Verdrag tot oprichting van de Europese Gemeenschap, en anderzijds Mexico";
-
-Overwegende dat artikel 56 van de Overeenkomst bepaalt: „Deze overeenkomst is van toepassing enerzijds op de gebieden waar het Verdrag tot oprichting van de Europese Gemeenschap van toepassing is, onder de in dat verdrag neergelegde voorwaarden, en anderzijds op het grondgebied van Mexico";
-
-Overwegende dat artikel 59 van de Overeenkomst bepaalt: „Deze overeenkomst is opgesteld in tweevoud in de Deense, de Duitse, de Engelse, de Finse, de Franse, de Griekse, de Italiaanse, de Nederlandse, de Portugese, de Spaanse en de Zweedse taal, zijnde alle teksten gelijkelijk authentiek";
-
-Overwegende dat de Europese Gemeenschap, gezien de datum van toetreding van de nieuwe lidstaten tot de Europese Unie, wellicht de bepalingen van dit Protocol zal moeten toepassen vooraleer alle interne procedures zijn voltooid die vereist zijn voor de inwerkingtreding van het Protocol;
-
-Overwegende dat artikel 5, lid 3, van dit Protocol het mogelijk zal maken dat de Europese Gemeenschap en haar lidstaten dit Protocol voorlopig toepassen vooraleer hun interne procedures voor de inwerkingtreding van het Protocol zijn voltooid;
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittanië en Noord-Ierland, hierna „lidstaten van de Europese Gemeenschap" genoemd, de Europese Gemeenschap, hierna „de Gemeenschap" genoemd, de Verenigde Mexicaanse Staten, hierna „Mexico" genoemd, en de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië, de Slowaakse Republiek, hierna „de nieuwe lidstaten" te noemen, Overwegende dat de Overeenkomst inzake economisch partnerschap, politieke coördinatie en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Verenigde Mexicaanse Staten, anderzijds, hierna „de Overeenkomst" te noemen, op 8 december 1997 te Brussel is ondertekend en op 1 oktober 2000 in werking is getreden; Overwegende dat het Verdrag betreffende de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie (hierna het „Toetredingsverdrag" te noemen) op 16 april 2003 te Athene werd ondertekend; Overwegende dat, overeenkomstig artikel 6, lid 2, van het Toetredingsverdrag de opname van de nieuwe lidstaten tot de Overeenkomst wordt geformaliseerd door de sluiting van een protocol bij de Overeenkomst; Overwegende dat artikel 55 van de Overeenkomst bepaalt: „Voor de toepassing van deze overeenkomst wordt onder „partijen" verstaan: enerzijds de Gemeenschap, of de lidstaten, of de Gemeenschap en haar lidstaten, overeenkomstig hun respectieve bevoegdheden, zoals afgeleid van het Verdrag tot oprichting van de Europese Gemeenschap, en anderzijds Mexico"; Overwegende dat artikel 56 van de Overeenkomst bepaalt: „Deze overeenkomst is van toepassing enerzijds op de gebieden waar het Verdrag tot oprichting van de Europese Gemeenschap van toepassing is, onder de in dat verdrag neergelegde voorwaarden, en anderzijds op het grondgebied van Mexico"; Overwegende dat artikel 59 van de Overeenkomst bepaalt: „Deze overeenkomst is opgesteld in tweevoud in de Deense, de Duitse, de Engelse, de Finse, de Franse, de Griekse, de Italiaanse, de Nederlandse, de Portugese, de Spaanse en de Zweedse taal, zijnde alle teksten gelijkelijk authentiek"; Overwegende dat de Europese Gemeenschap, gezien de datum van toetreding van de nieuwe lidstaten tot de Europese Unie, wellicht de bepalingen van dit Protocol zal moeten toepassen vooraleer alle interne procedures zijn voltooid die vereist zijn voor de inwerkingtreding van het Protocol; Overwegende dat artikel 5, lid 3, van dit Protocol het mogelijk zal maken dat de Europese Gemeenschap en haar lidstaten dit Protocol voorlopig toepassen vooraleer hun interne procedures voor de inwerkingtreding van het Protocol zijn voltooid; Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 

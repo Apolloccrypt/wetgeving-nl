@@ -1,83 +1,47 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Gemeenschappelijk Fonds voor Grondstoffen betreffende de zetel van het Fonds"
 identifier: "BWBV0002794"
-country: "nl"
-rank: "verdrag"
-publication_date: "2002-01-25"
-last_updated: "2002-01-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002794"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10003118353"
-version_id: "10003122622"
-internal_id: "C10006976911"
-label_id: "10003104644"
-dtd_version: "2.0"
-original_entry_into_force: "1992-02-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002794/2002-01-25/0"
-intitule_bron: "Trb.1992-8"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-12-19"
-intitule_published: "1992-01-20"
-intitule_in_force: "1992-03-06"
-intitule_status: "goed"
-original_publication: "Trb.1992-8"
-original_signed_date: "1991-12-19"
-original_published_date: "1992-01-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1992-8"
-entry_into_force_date: "1992-02-19"
-jci_1_3: "jci1.3:c:BWBV0002794&z=2002-01-25&g=2002-01-25"
-jci_1_0: "1.0:c:BWBV0002794&g=2002-01-25"
-citeertitel_status: "officieel"
-signed_date: "1991-12-19"
-entry_into_force: "1992-02-19"
+publicatiedatum: 1992-02-19
+laatste_update: 2002-01-25
+status: geldig
+toestand: 2002-01-25
+bron: "https://wetten.overheid.nl/BWBV0002794"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Gemeenschappelijk Fonds voor Grondstoffen betreffende de zetel van het Fonds
 
-The Government of the Kingdom of the Netherlands
-
-and
-
-the Common Fund for Commodities,
-
-Recalling that, during the United Nations Negotiating Conference on a Common Fund under the Integrated Programme for Commodities, the Government of the Kingdom of the Netherlands proposed Amsterdam as a suitable location for the Headquarters of the Common Fund for Commodities and that, at the First annual Meeting of the Governing Council of the Common Fund for Commodities in 1989, the Government of the Kingdom of the Netherlands gave certain undertakings regarding the provision and financing of office space for the Fund's Headquarters, conference facilities for its meetings and the costs of setting up the Headquarters,
-
-Considering that the Governing Council of the Common Fund for Commodities decided to accept the offer of the Government of the Kingdom of the Netherlands to locate the Headquarters of the Fund in Amsterdam,
-
-Bearing in mind that the Agreement Establishing the Common Fund for Commodities contains in its Articles 40 to 50 certain provisions regarding the legal status, privileges and immunities of the Fund in its Member States,
-
-Taking into account that the establishment of the Headquarters of the Common Fund for Commodities in the territory of the Kingdom of the Netherlands makes further provisions desirable,
-
-Have agreed as follows:
+*The Government of the Kingdom of the Netherlands and the Common Fund for Commodities, Recalling that, during the United Nations Negotiating Conference on a Common Fund under the Integrated Programme for Commodities, the Government of the Kingdom of the Netherlands proposed Amsterdam as a suitable location for the Headquarters of the Common Fund for Commodities and that, at the First annual Meeting of the Governing Council of the Common Fund for Commodities in 1989, the Government of the Kingdom of the Netherlands gave certain undertakings regarding the provision and financing of office space for the Fund's Headquarters, conference facilities for its meetings and the costs of setting up the Headquarters, Considering that the Governing Council of the Common Fund for Commodities decided to accept the offer of the Government of the Kingdom of the Netherlands to locate the Headquarters of the Fund in Amsterdam, Bearing in mind that the Agreement Establishing the Common Fund for Commodities contains in its Articles 40 to 50 certain provisions regarding the legal status, privileges and immunities of the Fund in its Member States, Taking into account that the establishment of the Headquarters of the Common Fund for Commodities in the territory of the Kingdom of the Netherlands makes further provisions desirable, Have agreed as follows:*
 
 ##### Article 1. Definitions
 
 In this Agreement:
 
-- a). the "Agreement of 1980" means the Agreement Establishing the Common Fund for Commodities, adopted at Geneva on 27 June 1980;
+- a) the "Agreement of 1980" means the Agreement Establishing the Common Fund for Commodities, adopted at Geneva on 27 June 1980;
 
-- b). "this Agreement" means the Agreement between the Kingdom of the Netherlands and the Common Fund for Commodities concerning the Headquarters of the Fund;
+- b) "this Agreement" means the Agreement between the Kingdom of the Netherlands and the Common Fund for Commodities concerning the Headquarters of the Fund;
 
-- c). "Member" means a State or an Intergovernmental Organization party to the Agreement of 1980;
+- c) "Member" means a State or an Intergovernmental Organization party to the Agreement of 1980;
 
-- d). "the Fund" means the Common Fund for Commodities;
+- d) "the Fund" means the Common Fund for Commodities;
 
-- e). "the Government" means the Government of the Kingdom of the Netherlands;
+- e) "the Government" means the Government of the Kingdom of the Netherlands;
 
-- f). "Managing Director" means the Managing Director of the Common Fund for Commodities referred to in Article 24 of the Agreement of 1980;
+- f) "Managing Director" means the Managing Director of the Common Fund for Commodities referred to in Article 24 of the Agreement of 1980;
 
-- g). "staff members" means persons appointed or recruited for employment with the Fund for the carrying out of its official activities other than persons in the domestic service of the Fund and persons recruited locally and assigned to hourly rates of pay;
+- g) "staff members" means persons appointed or recruited for employment with the Fund for the carrying out of its official activities other than persons in the domestic service of the Fund and persons recruited locally and assigned to hourly rates of pay;
 
-- h). "official activities of the Fund" means those activities undertaken pursuant to the Agreement of 1980 and to decisions of the Executive Board and Governing Council of the Fund, including the Fund's administrative activities;
+- h) "official activities of the Fund" means those activities undertaken pursuant to the Agreement of 1980 and to decisions of the Executive Board and Governing Council of the Fund, including the Fund's administrative activities;
 
-- i). "Premises of the Fund" or "Headquarters of the Fund" means buildings, parts of buildings, as well as conference facilities in use outside of the buildings normally occupied by the Fund for the fulfilment of its official functions;
+- i) "Premises of the Fund" or "Headquarters of the Fund" means buildings, parts of buildings, as well as conference facilities in use outside of the buildings normally occupied by the Fund for the fulfilment of its official functions;
 
-- j). "archives of the Fund" means all records, correspondence, documents, manuscripts, computer records, photographs, films and recordings belonging to or held by the Fund and any other materials which the Managing Director and the Government may agree to form part of the archives of the Fund;
+- j) "archives of the Fund" means all records, correspondence, documents, manuscripts, computer records, photographs, films and recordings belonging to or held by the Fund and any other materials which the Managing Director and the Government may agree to form part of the archives of the Fund;
 
-- k). "advisers" means persons designated by Members and notified to the Fund who act in an advisory capacity to the members of the Executive Board, the Governing Council or the Consultative Committee, and
+- k) "advisers" means persons designated by Members and notified to the Fund who act in an advisory capacity to the members of the Executive Board, the Governing Council or the Consultative Committee, and
 
-- l). "experts" means persons, other than those referred to in sub-paragraph g. of this Article, designated by the Fund to perform official missions for the Fund.
+- l) "experts" means persons, other than those referred to in sub-paragraph g. of this Article, designated by the Fund to perform official missions for the Fund.
 
 ##### Article 2. Status, privileges and immunities of the Fund
 
@@ -87,21 +51,21 @@ The status, privileges and immunities of the Fund in the Netherlands shall be go
 
 With reference to Article 41 of the Agreement of 1980, the Fund shall in the Netherlands possess full juridical personality under Netherlands law. This shall include the capacity:
 
-- a). to contract;
+- a) to contract;
 
-- b). to acquire and dispose of immovable and movable property;
+- b) to acquire and dispose of immovable and movable property;
 
-- c). to institute legal proceedings.
+- c) to institute legal proceedings.
 
 ##### Article 4. Immunity from Juridical Proceedings
 
 1. The Fund shall enjoy immunity from every form of legal process, except for actions which may be brought against the Fund:
 
-- a). by lenders of funds borrowed by the Fund with respect to such funds;
+- a) by lenders of funds borrowed by the Fund with respect to such funds;
 
-- b). by buyers or holders of securities issued by the Fund with respect to such securities, and
+- b) by buyers or holders of securities issued by the Fund with respect to such securities, and
 
-- c). by assignees and successors in interest thereof with respect to the aforementioned transactions.
+- c) by assignees and successors in interest thereof with respect to the aforementioned transactions.
 
 Such actions may be brought only before courts of competent jurisdiction in places in which the Fund has agreed in writing with the other party to be subject. However, if no provision is made as to the forum, or if an agreement as to the jurisdiction of such courts is not effective for reasons other than the fault of the party bringing legal action against the Fund, then such action may be brought before a competent court in the place in which the Fund has its Headquarters or has appointed an agent for the purpose of accepting service or notice of process.
 
@@ -153,17 +117,17 @@ The circulation of publications and other information material sent by or to the
 
 1. The Government shall give full effect to all the provisions of Article 48 of the Agreement of 1980. In particular and in addition, the Fund shall, in respect of taxes and duties in the Netherlands:
 
-- a). enjoy exemption, within the scope of its official activities from all direct taxes including income tax, capital tax, corporation tax and direct taxes levied by local authorities;
+- a) enjoy exemption, within the scope of its official activities from all direct taxes including income tax, capital tax, corporation tax and direct taxes levied by local authorities;
 
-- b). enjoy exemption from stock-exchange tax, insurance tax, tax on capital duty and real property transfer tax;
+- b) enjoy exemption from stock-exchange tax, insurance tax, tax on capital duty and real property transfer tax;
 
-- c). be granted exemption from motor vehicle tax in respect of its motor vehicles used for its official activities. In order to obtain this exemption the Fund shall file a request for each purchase to which this exemption is applicable;
+- c) be granted exemption from motor vehicle tax in respect of its motor vehicles used for its official activities. In order to obtain this exemption the Fund shall file a request for each purchase to which this exemption is applicable;
 
-- d). be accorded a refund of Value Added Tax paid on the supply of goods or services of substantial value, with the exception of motor vehicles, necessary for its official activities. In this connection it is envisaged that claims for a refund will be made only in respect of goods and services supplied on a recurring basis or involving considerable expenditure as defined from time to time by the Government in respect of international organizations in the Netherlands;
+- d) be accorded a refund of Value Added Tax paid on the supply of goods or services of substantial value, with the exception of motor vehicles, necessary for its official activities. In this connection it is envisaged that claims for a refund will be made only in respect of goods and services supplied on a recurring basis or involving considerable expenditure as defined from time to time by the Government in respect of international organizations in the Netherlands;
 
-- e). be accorded a refund of the excise duty element included in the price of (i) alcoholic beverages and (ii) hydrocarbons such as fuel oils and motor fuels purchased by the Fund for its official activities, and
+- e) be accorded a refund of the excise duty element included in the price of (i) alcoholic beverages and (ii) hydrocarbons such as fuel oils and motor fuels purchased by the Fund for its official activities, and
 
-- f). enjoy exemption from all import duties and taxes, including Value Added Tax, in respect of goods and motor vehicles, whose import or export by the Fund is necessary in the performance of its official activities.
+- f) enjoy exemption from all import duties and taxes, including Value Added Tax, in respect of goods and motor vehicles, whose import or export by the Fund is necessary in the performance of its official activities.
 
 2. The provisions of paragraph 1 of this Article shall not apply to taxes and duties which are considered to be charges for public utility services.
 
@@ -173,9 +137,9 @@ The circulation of publications and other information material sent by or to the
 
 Without being restricted by financial controls, regulations, notification requirements in respect of financial transactions, or moratoria of any kind, the Fund may:
 
-- a). hold funds, gold or currency of any kind and operate accounts in any currency;
+- a) hold funds, gold or currency of any kind and operate accounts in any currency;
 
-- b). freely transfer its funds, gold or currency to or from the Netherlands or within the Netherlands and convert any currency held by it into any other currency.
+- b) freely transfer its funds, gold or currency to or from the Netherlands or within the Netherlands and convert any currency held by it into any other currency.
 
 ##### Article 14. Permanent Liaison with the Fund
 
@@ -185,19 +149,19 @@ A Member may, after it has given due notification to the Government, assign its 
 
 1. Governors, Executive Directors, members of the Consultative Committee, Alternates of the foregoing, advisers and experts while exercising their functions and in the course of their journeys to or from the Headquarters of the Fund shall enjoy the following privileges and immunities:
 
-- a). personal inviolability, including immunity from personal arrest or detention, except in cases of **flagrante delictu;**
+- a) personal inviolability, including immunity from personal arrest or detention, except in cases of *flagrante delictu;*
 
-- b). except as provided in sub-paragraph c) of paragraph 1 of this Article, immunity from legal process of any kind with respect to words spoken or written, and all acts done by them in the performance of their official functions, it being understood that such immunity shall continue notwithstanding that the persons concerned may have ceased to perform such functions;
+- b) except as provided in sub-paragraph c) of paragraph 1 of this Article, immunity from legal process of any kind with respect to words spoken or written, and all acts done by them in the performance of their official functions, it being understood that such immunity shall continue notwithstanding that the persons concerned may have ceased to perform such functions;
 
-- c). in any event, immunity shall not extend to a civil action by a third party for damage arising from an accident caused by a motor vehicle, belonging to, driven by or operated on behalf of a person mentioned in this paragraph or in respect of a motor traffic offence involving such vehicle;
+- c) in any event, immunity shall not extend to a civil action by a third party for damage arising from an accident caused by a motor vehicle, belonging to, driven by or operated on behalf of a person mentioned in this paragraph or in respect of a motor traffic offence involving such vehicle;
 
-- d). inviolability of all their official papers and documents;
+- d) inviolability of all their official papers and documents;
 
-- e). the right to use codes and to receive communications by courier or in sealed bags;
+- e) the right to use codes and to receive communications by courier or in sealed bags;
 
-- f). exemption with respect to themselves and their spouses from all measures restricting entry and alien registration, any visas which may be required shall be granted without charge and as promptly as possible;
+- f) exemption with respect to themselves and their spouses from all measures restricting entry and alien registration, any visas which may be required shall be granted without charge and as promptly as possible;
 
-- g). the same facilities with respect to currency or exchange regulations and as regards their personal luggage as are accorded to representatives of foreign Governments on temporary official missions.
+- g) the same facilities with respect to currency or exchange regulations and as regards their personal luggage as are accorded to representatives of foreign Governments on temporary official missions.
 
 2. Persons other than those referred to in paragraph 1 of this Article, invited by the Common Fund on official business in accordance with the Agreement of 1980, shall enjoy the privileges and immunities referred to in sub-paragraphs (b) and (f) of paragraph 1 of this Article.
 
@@ -217,35 +181,35 @@ A Member may, after it has given due notification to the Government, assign its 
 
 1. The staff members of the Fund shall enjoy:
 
-- a). immunity from legal process of any kind with respect to words spoken or written, and all acts performed by them in their official capacity, it being understood that such immunity shall continue notwithstanding that the persons concerned may have ceased to be members of the staff of the Fund;
+- a) immunity from legal process of any kind with respect to words spoken or written, and all acts performed by them in their official capacity, it being understood that such immunity shall continue notwithstanding that the persons concerned may have ceased to be members of the staff of the Fund;
 
-- b). in any event, immunity shall not extend to a civil action by a third party for damage arising from an accident caused by a motor vehicle belonging to, driven by or operated on behalf of a staff member or in respect of a motor traffic offence involving such vehicle;
+- b) in any event, immunity shall not extend to a civil action by a third party for damage arising from an accident caused by a motor vehicle belonging to, driven by or operated on behalf of a staff member or in respect of a motor traffic offence involving such vehicle;
 
-- c). inviolability of all their official papers and documents;
+- c) inviolability of all their official papers and documents;
 
-- d). immunity from inspection of official baggage
+- d) immunity from inspection of official baggage
 
-- e). exemption from Netherlands income tax on the salaries and emoluments and indemnities paid to them by the Fund. In the event the Fund operates a system for the payment of pensions and annuities to its former personnel and the dependants this paragraph shall not apply to such pensions and annuities.
+- e) exemption from Netherlands income tax on the salaries and emoluments and indemnities paid to them by the Fund. In the event the Fund operates a system for the payment of pensions and annuities to its former personnel and the dependants this paragraph shall not apply to such pensions and annuities.
 
 2. Moreover, staff members who do not have Netherlands nationality shall:
 
-- a). enjoy exemption with respect to themselves and members of their families forming part of their households from all measures restricting entry and alien registration, any visas which may be required shall be granted without charge and as promptly as possible;
+- a) enjoy exemption with respect to themselves and members of their families forming part of their households from all measures restricting entry and alien registration, any visas which may be required shall be granted without charge and as promptly as possible;
 
-- b). be given, together with members of their families forming part of their households, the same repatriation facilities in time of international crisis as officials of comparable rank of diplomatic missions;
+- b) be given, together with members of their families forming part of their households, the same repatriation facilities in time of international crisis as officials of comparable rank of diplomatic missions;
 
-- c). not require a work permit as regards their official functions with the Fund;
+- c) not require a work permit as regards their official functions with the Fund;
 
-- d). shall, in accordance with the regulations in force, have relief from import duties and taxes, except payments for services, in respect of their furniture and personal effects and the right on the termination of their function in the Netherlands to export with relief from duties and taxes their furniture and personal effects.
+- d) shall, in accordance with the regulations in force, have relief from import duties and taxes, except payments for services, in respect of their furniture and personal effects and the right on the termination of their function in the Netherlands to export with relief from duties and taxes their furniture and personal effects.
 
 ##### Article 18. Notification
 
 1. The Fund shall notify the Government of:
 
-- a). the appointment of the Managing Director and staff members of the Fund, their arrival and their final departure, or the termination of their functions with the Fund;
+- a) the appointment of the Managing Director and staff members of the Fund, their arrival and their final departure, or the termination of their functions with the Fund;
 
-- b). the arrival and final departure of members of the families forming part of the households of the persons referred to in sub-paragraph a) of this Article and, where appropriate, the fact that a person has ceased to form a part of the household;
+- b) the arrival and final departure of members of the families forming part of the households of the persons referred to in sub-paragraph a) of this Article and, where appropriate, the fact that a person has ceased to form a part of the household;
 
-- c). the arrival and final departure of private servants in the employ of persons referred to in sub-paragraph a) of this Article and, where appropriate, the fact that they are leaving the employ of such persons.
+- c) the arrival and final departure of private servants in the employ of persons referred to in sub-paragraph a) of this Article and, where appropriate, the fact that they are leaving the employ of such persons.
 
 2. The notification provided for in paragraph 1 shall be made in a timely manner.
 
@@ -255,7 +219,7 @@ A Member may, after it has given due notification to the Government, assign its 
 
 1. In the event that the Fund shall have established its own social system or has adhered to a social scheme offering coverage comparable to the coverage under Netherlands legislation, the Fund and its staff members and other employees to whom the aforementioned scheme applies, shall be exempt from social security provisions in force in the Netherlands.
 
-2. The provisions of paragraph 1 of this Article shall apply, **mutatis mutandis,**to the members of the family forming part of the households of the individuals referred to in paragraph 1, unless they are employed in the Netherlands otherwise than by the Fund or unless they are in the domestic service of the aforesaid households.
+2. The provisions of paragraph 1 of this Article shall apply, *mutatis mutandis,*to the members of the family forming part of the households of the individuals referred to in paragraph 1, unless they are employed in the Netherlands otherwise than by the Fund or unless they are in the domestic service of the aforesaid households.
 
 ##### Article 19A. Employment of Family Members of Officials
 
@@ -321,10 +285,10 @@ IN WITNESS WHEREOF, the undersigned, duly authorized thereto, have signed this A
 
 DONE at The Hague on 19 December 1991 in duplicate, in the English language.
 
-**For the Government of the Kingdom of the Netherlands**
+*For the Government of the Kingdom of the Netherlands*
 
 (sd.) J. P. PRONK
 
-**For the Common Fund for Commodities**
+*For the Common Fund for Commodities*
 
 (sd.) B. HARTANTYO

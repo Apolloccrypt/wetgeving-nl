@@ -1,51 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Dominicaanse Republiek inzake economische en technologische samenwerking tussen de Nederlandse Antillen, Aruba en de Dominicaanse Republiek"
 identifier: "BWBV0001946"
-country: "nl"
-rank: "verdrag"
-publication_date: "1998-07-01"
-last_updated: "1998-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001946"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002578853"
-version_id: "10002569522"
-internal_id: "C10006976591"
-label_id: "10002568194"
-dtd_version: "2.0"
-original_entry_into_force: "1998-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001946/1998-07-01/0"
-intitule_bron: "Trb.1992-121"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1993-03-26"
-intitule_published: "1992-08-14"
-intitule_in_force: "1999-07-23"
-intitule_status: "goed"
-original_publication: "Trb.1992-121"
-original_signed_date: "1993-03-26"
-original_published_date: "1992-08-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1992-121"
-entry_into_force_date: "1998-07-01"
-jci_1_3: "jci1.3:c:BWBV0001946&z=1998-07-01&g=1998-07-01"
-jci_1_0: "1.0:c:BWBV0001946&g=1998-07-01"
-citeertitel_status: "redactioneel"
-signed_date: "1993-03-26"
-entry_into_force: "1998-07-01"
+publicatiedatum: 1998-07-01
+laatste_update: 1998-07-01
+status: geldig
+toestand: 1998-07-01
+bron: "https://wetten.overheid.nl/BWBV0001946"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Dominicaanse Republiek inzake economische en technologische samenwerking tussen de Nederlandse Antillen, Aruba en de Dominicaanse Republiek
 
-De Regering van het Koninkrijk der Nederlanden,
-
-en
-
-de Regering van de Dominicaanse Republiek,
-
-hierna te noemen de Overeenkomstsluitende Partijen;
-
-geleid door hun wens de van oudsher bestaande vriendschapsbanden te versterken en een op gelijkwaardigheid gebaseerde en tot wederzijds voordeel strekkende onderlinge economische en technologische samenwerking te bevorderen;
-
-komen het volgende overeen:
+*De Regering van het Koninkrijk der Nederlanden, en de Regering van de Dominicaanse Republiek, hierna te noemen de Overeenkomstsluitende Partijen; geleid door hun wens de van oudsher bestaande vriendschapsbanden te versterken en een op gelijkwaardigheid gebaseerde en tot wederzijds voordeel strekkende onderlinge economische en technologische samenwerking te bevorderen; komen het volgende overeen:*
 
 ##### Artikel I
 
@@ -115,10 +83,10 @@ te Santo Domingo de Güzman,
 
 op 24 juni negentienhonderdtweeënnegentig
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 (w.g.) M. PH. LIBERIA-PETERS
 
-**Voor de Dominicaanse Republiek,**
+*Voor de Dominicaanse Republiek,*
 
 (w.g.) J. A. T. GUZMAN

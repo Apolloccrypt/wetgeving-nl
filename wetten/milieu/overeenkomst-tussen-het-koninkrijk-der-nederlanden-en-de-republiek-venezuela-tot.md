@@ -1,45 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Venezuela tot instelling van een bilateraal rampenplan voor olieverontreiniging ter bescherming van de kustgebieden en het mariene milieu"
 identifier: "BWBV0001913"
-country: "nl"
-rank: "verdrag"
-publication_date: "1996-03-13"
-last_updated: "1996-03-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001913"
+categorie: "Milieu"
 soort: "verdrag"
-stam_id: "10002568823"
-version_id: "10002559912"
-internal_id: "C10006989031"
-label_id: "10002558594"
-dtd_version: "2.0"
-original_entry_into_force: "1996-03-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001913/1996-03-13/0"
-intitule_bron: "Trb.1995-86"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1996-03-13"
-intitule_published: "1995-03-29"
-intitule_in_force: "1996-04-17"
-intitule_status: "goed"
-original_publication: "Trb.1995-86"
-original_signed_date: "1996-03-13"
-original_published_date: "1995-03-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1995-86"
-entry_into_force_date: "1996-03-13"
-jci_1_3: "jci1.3:c:BWBV0001913&z=1996-03-13&g=1996-03-13"
-jci_1_0: "1.0:c:BWBV0001913&g=1996-03-13"
-citeertitel_status: "redactioneel"
-signed_date: "1996-03-13"
-entry_into_force: "1996-03-13"
+publicatiedatum: 1996-03-13
+laatste_update: 1996-03-13
+status: geldig
+toestand: 1996-03-13
+bron: "https://wetten.overheid.nl/BWBV0001913"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Venezuela tot instelling van een bilateraal rampenplan voor olieverontreiniging ter bescherming van de kustgebieden en het mariene milieu
 
-Het Koninkrijk der Nederlanden en de Republiek Venezuela,
-
-in het kader van het Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caraïbisch gebied, ondertekend te Cartagena de Indias op 24 maart 1983 en het Protocol betreffende de samenwerking ter bestrijding van olieverontreiniging in het Caraïbisch gebied, ondertekend te Cartagena de Indias op 24 maart 1983,
-
-zijn overeengekomen een Bilateraal Rampenplan (BRp) in te stellen ter bestrijding van verontreiniging van de kustgebieden en het mariene milieu door olielozingen, opdat een regeling wordt getroffen voor de procedures voor melding van ongevallen, de tactieken voor het bestrijden van zulke lozingen en de maatregelen ter vermindering van de uit zulke voorvallen voortvloeiende gevolgen van verontreiniging, en waarop de volgende bepalingen van toepassing zijn:
+*Het Koninkrijk der Nederlanden en de Republiek Venezuela, in het kader van het Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caraïbisch gebied, ondertekend te Cartagena de Indias op 24 maart 1983 en het Protocol betreffende de samenwerking ter bestrijding van olieverontreiniging in het Caraïbisch gebied, ondertekend te Cartagena de Indias op 24 maart 1983, zijn overeengekomen een Bilateraal Rampenplan (BRp) in te stellen ter bestrijding van verontreiniging van de kustgebieden en het mariene milieu door olielozingen, opdat een regeling wordt getroffen voor de procedures voor melding van ongevallen, de tactieken voor het bestrijden van zulke lozingen en de maatregelen ter vermindering van de uit zulke voorvallen voortvloeiende gevolgen van verontreiniging, en waarop de volgende bepalingen van toepassing zijn:*
 
 ##### Algemene bepalingen
 
@@ -63,21 +37,21 @@ Deze Overeenkomst omvat geen betaling wegens milieuschade of aansprakelijkheid j
 
 9. De partijen ondernemen stappen om van de bevoegde autoriteiten de nodige inreis- en douanevergunningen te verkrijgen die vereist zijn voor het overbrengen van personeel en uitrusting, met inbegrip van militaire eenheden voor het vervoer van uitrusting, die zullen worden gebruikt bij de bestrijding van olieverontreiniging en het opruimen van olievlekken.
 
-## TITEL I. De Regionale Bestrijdingscommissie (RBc)
+### TITEL I. De Regionale Bestrijdingscommissie (RBc)
 
-##### 1.1
+##### Artikel 1.1
 
 De partijen stellen Regionale Bestrijdingscommissies in en benoemen volledig gekwalificeerde personen tot lid van de RBc's. De benoemde personen worden vermeld in Titel III en de partijen verplichten zich ertoe, elkander schriftelijk in kennis te stellen wanneer zich veranderingen in het lidmaatschap voordoen.
 
-##### 1.2
+##### Artikel 1.2
 
 De Voorzitters van de RBc's plegen onderling overleg en besluiten welke maatregelen moeten worden genomen zodra zij van een specifiek voorval van verontreiniging op de hoogte zijn gebracht. De besluiten zijn slechts bindend, indien daaromtrent overeenstemming tussen de betrokken Voorzitters bestaat. Wanneer er tussen de partijen geen overeenstemming bestaat met betrekking tot de inwerkingstelling van het BRp, treedt elke partij handelend op in de wateren onder zijn nationale rechtsmacht.
 
-##### 1.3
+##### Artikel 1.3
 
 De Voorzitters van de onderscheiden RBc's stellen zich met elkaar in verbinding en besluiten over de datum en plaats van de eerste bijeenkomst van de drie RBc's. De RBc's komen bijeen wanneer zulks nodig is. Deze bijeenkomsten kunnen periodiek worden belegd om voorstellen/strategieën te bespreken; ook kunnen bij besluit van de Voorzitters spoedzittingen worden belegd.
 
-##### 1.4
+##### Artikel 1.4
 
 De RBc is de hoogste leidinggevende en uitvoerende instantie voor alle in BRp bedoelde besluiten en maatregelen en heeft de volgende taken en verantwoordelijkheden:
 
@@ -97,29 +71,29 @@ De RBc is de hoogste leidinggevende en uitvoerende instantie voor alle in BRp be
 
 - h. Herzien en goedkeuren van het Technisch-operationele en financiële eindrapport over het voorval en toezenden daarvan aan de bevoegde autoriteiten.
 
-##### 1.5
+##### Artikel 1.5
 
 Ingeval het BRp in werking wordt gesteld, is de partij die verzoekt om bijstand bij de bestrijding van olieverontreiniging in de wateren onder haar nationale rechtsmacht de „leidende partij". In deze gevallen wordt de Ctp van die partij beschouwd als de „Coördinator ter plaatse van het Bilaterale Rampenplan (Ctp BRp)".
 
-##### 1.6
+##### Artikel 1.6
 
 Wanneer door een van de partijen een officieel verzoek om bijstand wordt gedaan, wordt over de omvang van de logistieke bijstand door de militaire instelling van de bijstand verlenende partijen besloten door de Voorzitter van de RBc van de leidende party, nadat hij machtiging daartoe heeft verkregen van de nationale autoriteiten, en wordt daarmede ingestemd door de Voorzitters van de RBc's van de andere partijen.
 
-##### 1.7
+##### Artikel 1.7
 
-De partijen bij deze Overeenkomst hebben het recht, indien zij zulks wensen, gebruik te maken van de diensten van de **Clean Caribbean Cooperative** of van andere bronnen van internationale bijstand zonder een beroep op elkaar te doen of het BRp in werking te stellen.
+De partijen bij deze Overeenkomst hebben het recht, indien zij zulks wensen, gebruik te maken van de diensten van de *Clean Caribbean Cooperative* of van andere bronnen van internationale bijstand zonder een beroep op elkaar te doen of het BRp in werking te stellen.
 
-##### 1.8
+##### Artikel 1.8
 
 De verzoekende partij kan haar verzoek om bijstand te allen tijde intrekken.
 
-## TITEL II. De Coördinator ter plaatse (Ctp)
+### TITEL II. De Coördinator ter plaatse (Ctp)
 
-##### 2.1
+##### Artikel 2.1
 
 De partijen benoemen functionarissen die verantwoordelijk zijn voor de uitoefening van de deze Titel bedoelde taken in hun onderscheiden gebieden. De Ctp van de partij die verzoekt om bijstand ingevolge het BRp wordt beschouwd als de „Coördinator ter plaatse van het Bilaterale Rampenplan (Ctp BRp)" voor dat bepaalde voorval.
 
-##### 2.2
+##### Artikel 2.2
 
 De Ctp heeft de onderstaande taken en verantwoordelijkheden:
 
@@ -135,23 +109,23 @@ De Ctp heeft de onderstaande taken en verantwoordelijkheden:
 
 - f. Via de RBc verzoeken om officiële toestemming voor het gebruik van chemische oplosmiddelen ter bestrijding van de olieverontreiniging overeenkomstig het onderscheiden nationale beleid, zolang het gebruik daarvan:
 
-- i. het gevaar voor leven en volksgezondheid of het gevaar van brand voorkomt of aanmerkelijk vermindert;
+   - i. het gevaar voor leven en volksgezondheid of het gevaar van brand voorkomt of aanmerkelijk vermindert;
 
-- ii. een bedreiging voor een groot deel van de bevolking of voor in de zee levende bedreigde dier- en plantesoorten afwendt of beperkt, of
+   - ii. een bedreiging voor een groot deel van de bevolking of voor in de zee levende bedreigde dier- en plantesoorten afwendt of beperkt, of
 
-- iii. als de meest efficiënte methode voor het beperken van de nadelige gevolgen van olieverontreiniging wordt beschouwd.
+   - iii. als de meest efficiënte methode voor het beperken van de nadelige gevolgen van olieverontreiniging wordt beschouwd.
 
 - g. Aan de RBc de beëindiging van de bestrijding van een bepaald voorval aanbevelen.
 
 - h. Het technisch-operationele en financiële eindrapport van de werkzaamheden opstellen en aanbevelingen voorleggen voor het voorkómen van toekomstige voorvallen in het licht van de opgedane ervaring. Dit rapport en deze aanbevelingen worden voorgelegd aan de RBc.
 
-##### 2.3
+##### Artikel 2.3
 
 Indien bestrijdingsmaatregelen in meer dan een gebied vereist zijn, treden de Ctp's van de betrokken partijen gezamenlijk op bij het vaststellen van de te nemen maatregelen, na goedkeuring van de RBc te hebben verkregen.
 
-## TITEL III. Samenstelling van de Regionale Bestrijdingscommissie (RBc)
+### TITEL III. Samenstelling van de Regionale Bestrijdingscommissie (RBc)
 
-##### 3.1
+##### Artikel 3.1
 
 De RBc in de Republiek Venezuela bestaat uit acht leden, te weten:
 
@@ -171,7 +145,7 @@ De RBc in de Republiek Venezuela bestaat uit acht leden, te weten:
 
 - h. Een vertegenwoordiger van het Ministerie van Buitenlandse Zaken.
 
-##### 3.2
+##### Artikel 3.2
 
 De RBc van de Nederlandse Antillen bestaat uit tien leden, te weten:
 
@@ -195,7 +169,7 @@ De RBc van de Nederlandse Antillen bestaat uit tien leden, te weten:
 
 - j. Een vertegenwoordiger van het Bureau Buitenlandse Betrekkingen van de Nederlandse Antillen.
 
-##### 3.3
+##### Artikel 3.3
 
 De RBc van Aruba bestaat uit zes leden, te weten:
 
@@ -211,35 +185,35 @@ De RBc van Aruba bestaat uit zes leden, te weten:
 
 - f. Een vertegenwoordiger van het Ministerie van Justitie.
 
-## TITEL IV. Rapporten en verbindingen
+### TITEL IV. Rapporten en verbindingen
 
-##### 4.1. Kennisgevingsprocedure
+##### Artikel 4.1. Kennisgevingsprocedure
 
 De Voorzitter van de RBc stelt zijn ambtgenoten per telefoon, later bevestigd per telex of telefax, ervan in kennis dat zich een voorval van olieverontreiniging heeft voorgedaan, dat de wateren onder zijn nationale rechtsmacht of kustgebieden van de andere partijen raakt of bedreigt. Het Formulier voor waarschuwing bij olieverontreiniging in bijgevoegd Aanhangsel is het hiervoor voorgeschreven formulier.
 
-##### 4.2. Voorstel voor gezamenlijke bestrijdingsmaatregelen
+##### Artikel 4.2. Voorstel voor gezamenlijke bestrijdingsmaatregelen
 
 Aankondiging dat een gezamenlijk optreden nodig kan zijn is verplicht, zelfs wanneer de noodzaak voor zo'n optreden zich niet blijkt voor te doen. Deze aankondiging behoeft geen aanleiding tot een gezamenlijk optreden te geven, maar vestigt de aandacht van de partijen op de mogelijkheid dat dit nodig kan zijn.
 
-##### 4.3. Aanvang van gezamenlijke bestrijdingsmaatregelen
+##### Artikel 4.3. Aanvang van gezamenlijke bestrijdingsmaatregelen
 
 Het verzoek om gezamenlijke bestrijdingsmaatregelen door de Voorzitters van de RBc's wordt gedaan op het Formulier voor Verzoek om gezamenlijke bestrijding, beschreven in het bijgevoegde Aanhangsel.
 
-##### 4.4. Tussentijds rapport
+##### Artikel 4.4. Tussentijds rapport
 
 Informatie betreffende het verloop van de op de plaats van het voorval van verontreiniging genomen maatregelen die een gezamenlijke bestrijding zouden kunnen rechtvaardigen, is onmisbaar voor een doeltreffend beheer en een bevredigend resultaat van een gezamenlijk optreden.
 
 Deze informatie dient door de Voorzitter van de RBc te worden toegezonden aan zijn ambtgenoten met gebruikmaking van het Formulier voor tussentijds rapport, beschreven in het bijgevoegde Aanhangsel. Rapporten inzake de situatie dienen te worden opgesteld wanneer nodig ten einde een volledige en actuele beschrijving te geven van het probleem, van de genomen maatregelen, vermoedelijke problemen en het vereiste optreden.
 
-##### 4.5. Verzoeken om bijstand
+##### Artikel 4.5. Verzoeken om bijstand
 
 Verzoeken om bijstand ingevolge het BRp bij de bestrijding van olieverontreiniging en de daaropvolgende opruimingswerkzaamheden worden gedaan op het Formulier voor verzoek om gezamenlijke bestrijding zoals beschreven in het bijgevoegde Aanhangsel.
 
-##### 4.6. Beëindiging
+##### Artikel 4.6. Beëindiging
 
 4.6.1 Een voorstel van een betrokken RBc's tot beëindiging van de gezamenlijke bestrijdingsmaatregelen met betrekking tot en bepaald voorval wordt gedaan op het Formulier voor beëindiging van gezamenlijk optreden zoals beschreven in het bijgevoegde Aanhangsel. Een besluit tot beëindiging van de gezamenlijke bestrijdingsmaatregelen wordt genomen door de Voorzitters van de RBc's na onderling overleg. Van deze beëindiging wordt kennisgeving gedaan aan de bevoegde autoriteiten.
 
-##### 4.7. Rapporten inzake het voorval
+##### Artikel 4.7. Rapporten inzake het voorval
 
 4.7.1 Rapporten van de Ctp aan de RBc, bedoeld in Titel II, paragraaf 2.2, letters e en h dienen te omvatten:
 
@@ -255,11 +229,11 @@ Verzoeken om bijstand ingevolge het BRp bij de bestrijding van olieverontreinigi
 
 - f. De doeltreffendheid van de bestrijding en de opruimingswerkzaamheden door:
 
-- –. de verontreiniger,
+   - – de verontreiniger,
 
-- –. plaatselijke autoriteiten, en
+   - – plaatselijke autoriteiten, en
 
-- –. andere instanties.
+   - – andere instanties.
 
 - g. Opmerkingen betreffende het gebruik en de doelmatigheid van bij de bestrijdingsmaatregelen gebruikte bijzondere uitrusting.
 
@@ -267,27 +241,27 @@ Verzoeken om bijstand ingevolge het BRp bij de bestrijding van olieverontreinigi
 
 - i. Aanbevelingen inzake:
 
-- –. De ter vermijding van herhaling te nemen maatregelen,
+   - – De ter vermijding van herhaling te nemen maatregelen,
 
-- –. Verbeteringen van de bestrijdingsmaatregelen, en
+   - – Verbeteringen van de bestrijdingsmaatregelen, en
 
-- –. Wijzigingen in het BRp.
+   - – Wijzigingen in het BRp.
 
 - j. Financiële informatie
 
-- 1. Data waarop de werkzaamheden waren voltooid (dagelijkse en wekelijkse kosten).
+   - 1. Data waarop de werkzaamheden waren voltooid (dagelijkse en wekelijkse kosten).
 
-- 2. Arbeidskosten (aantal en categorie medewerkers, loonkosten, gewerkte uren/dagen, totale kosten).
+   - 2. Arbeidskosten (aantal en categorie medewerkers, loonkosten, gewerkte uren/dagen, totale kosten).
 
-- 3. Kosten van gebruikte materialen en uitrusting (oliekerende schermen, olie-afzuigapparatuur, chemische oplosmiddelen). Totale verliezen of reparatie/herstelkosten moeten worden aangegeven.
+   - 3. Kosten van gebruikte materialen en uitrusting (oliekerende schermen, olie-afzuigapparatuur, chemische oplosmiddelen). Totale verliezen of reparatie/herstelkosten moeten worden aangegeven.
 
-- 4. Vervoerskosten (aantal en type van gebruikte vervoermiddelen, aantal uren/dagen gebruik, kosten van huur of aankoop, totale kosten).
+   - 4. Vervoerskosten (aantal en type van gebruikte vervoermiddelen, aantal uren/dagen gebruik, kosten van huur of aankoop, totale kosten).
 
-- 5. Kosten van het zich ontdoen van de verzamelde olie(houdende stoffen).
+   - 5. Kosten van het zich ontdoen van de verzamelde olie(houdende stoffen).
 
-- 6. Eventuele winst uit de verkoop van verzamelde olie(houdende stoffen).
+   - 6 Eventuele winst uit de verkoop van verzamelde olie(houdende stoffen).
 
-##### 4.8. Aan opruimingswerkzaamheden verbonden kosten voor vervanging en reparatie
+##### Artikel 4.8. Aan opruimingswerkzaamheden verbonden kosten voor vervanging en reparatie
 
 - i. Omvang van schade aan goederen.
 
@@ -297,7 +271,7 @@ Verzoeken om bijstand ingevolge het BRp bij de bestrijding van olieverontreinigi
 
 - iv. Arbeidskosten.
 
-##### 4.9. Met de opruimingskosten samenhangende economische verliezen
+##### Artikel 4.9. Met de opruimingskosten samenhangende economische verliezen
 
 - i. Aard van de verliezen en bewijs dat het verlies is ontstaan ten gevolge van het voorval.
 
@@ -305,57 +279,57 @@ Verzoeken om bijstand ingevolge het BRp bij de bestrijding van olieverontreinigi
 
 - iii. Methode voor de berekening van het verlies.
 
-##### 4.10. Indiening van eisen tot schadevergoeding
+##### Artikel 4.10. Indiening van eisen tot schadevergoeding
 
 Degene die ingevolge de paragrafen 4.8 en 4.9 hierboven een eis tot schadevergoeding indient, dient een vordering in te dienen bij de Voorzitter van de RBc van de partij waar het voorval van verontreiniging zich heeft voorgedaan. Elke vordering moet worden gestaafd door bewijsmateriaal dat de berekening van de omvang van de geleden schade vergemakkelijkt. In gevallen waarin inkomsten worden ontvangen uit de verkoop van verzamelde olie(houdende stoffen), worden deze inkomsten evenwel op het gevorderde bedrag in mindering gebracht.
 
-## TITEL V. Financiële regelingen
+### TITEL V. Financiële regelingen
 
-##### 5.1
+##### Artikel 5.1
 
 De partijen stellen alles in het werk om aan de desbetreffende RBc voldoende gelden ter beschikking te stellen om de kosten van zowel de bestrijding van de olieverontreiniging als de opruimingswerkzaamheden te kunnen dekken.
 
-##### 5.2
+##### Artikel 5.2
 
 Ingeval zich olieverontreiniging voordoet, stelt de Voorzitter van de RBc van elke partij een overzicht op waarin een uitvoerige verantwoording van alle bij de bestrijding en opruiming van de olievlek gemaakte kosten wordt gegeven, opdat de kosten op een later tijdstip op de verontreiniger(s) kunnen worden verhaald. De definitieve afrekening van eventueel gemaakte kosten en/of het niet beslechten van een geschil dat kan rijzen met betrekking tot de toedeling van de verantwoordelijkheid voor de olieverontreiniging mogen geen belemmering vormen voor redelijke bestrijdings- en opruimingswerkzaamheden.
 
-##### 5.3
+##### Artikel 5.3
 
 Wanneer er een officieel verzoek om bijstand wordt gedaan, vergoedt de verzoekende partij de partij die bijstand verleent of de partijen die bijstand verlenen de kosten van zijn/hun optreden. Wanneer de verzoekende partij het verzoek intrekt, worden de door de bijstand verlenende partij of de bijstand verlenende partijen reeds gemaakte kosten of aangegane verplichtingen door de verzoekende partij vergoed. Indien een partij op eigen initiatief tot optreden is overgegaan, draagt deze partij de kosten daarvan. Deze beginselen zijn van toepassing tenzij de betrokken partijen in een bepaald geval anders overeenkomen. Indien de partij die bijstand verleent of de partijen die bijstand verlenen, besluit of besluiten de kosten van de bijstand te dragen, wordt de verzoekende partij vooraf hiervan in kennis gesteld. In dit geval stelt de partij die bijstand verleent of de partijen die bijstand verlenen de verzoekende partij in kennis van de bijzonderheden van de bijstand die zij zal verlenen of die zij zullen verlenen.
 
-##### 5.4
+##### Artikel 5.4
 
 Aan het einde van de opruimingswerkzaamheden wordt een technisch-operationeel en financieel rapport opgesteld door de Voorzitter van de RBc die verantwoordelijk is voor de bestrijdings- en opruimingswerkzaamheden. Dit rapport vermeldt alle kosten zoals bepaald in Titel IV.
 
-##### 5.5
+##### Artikel 5.5
 
 De Voorzitter van de RBc die verantwoordelijk is voor de bestrijdings- en/of opruimingswerkzaamheden zendt het in paragraaf 5.4 bedoelde rapport toe aan de Voorzitter van de RBc van de partij waar de olieverontreiniging is ontstaan. Laatstgenoemde is bevoegd tot terugvordering van de desbetreffende betalingen van de verontreiniger(s) binnen een redelijke tijd en maakt deze, indien van toepassing, over aan de Voorzitter van de andere RBc's.
 
-##### 5.6
+##### Artikel 5.6
 
 In gevallen waarin de olieverontreiniging afkomstig is uit een bron buiten de wateren onder nationale rechtsmacht of de grenzen van een van de partijen, gaat elke partij afzonderlijk over tot het verhalen van zijn eigen kosten op de verontreiniger(s). De bepalingen van de paragrafen 5.4 en 5.5 zijn echter van toepassing als de ene partij kosten maakt wanneer zij de andere partij bijstaat bij de bestrijding en opruiming van een olielozing.
 
-##### 5.7
+##### Artikel 5.7
 
 De bepalingen van deze Overeenkomst mogen niet zo worden uitgelegd dat daardoor op enigerlei wijze de rechten van de partijen worden aangetast om de kosten van optreden om verontreiniging of de dreiging van verontreiniging tegen te gaan, op derden te verhalen ingevolge andere toepasselijke bepalingen en regels van het nationale en het internationale recht.
 
-## TITEL VI. Slotbepalingen
+### TITEL VI. Slotbepalingen
 
-##### 6.1
+##### Artikel 6.1
 
 Elke Overeenkomstsluitende Partij stelt de andere Overeenkomstsluitende Partij ervan in kennis dat is voldaan aan de in haar land vereiste formaliteiten voor de goedkeuring van deze Overeenkomst, die in werking treedt op de datum van ontvangst van de laatste kennisgeving. Deze Overeenkomst blijft van kracht voor een tijdvak van vijf (5) jaar. Zij blijft na genoemd tijdvak van kracht tenzij een der Partijen de andere Partij ten minste zes kalendermaanden van tevoren schriftelijk in kennis stelt van beëindiging.
 
-##### 6.2
+##### Artikel 6.2
 
 Niettegenstaande de bovenstaande bepalingen is elke Partij gerechtigd door middel van een schriftelijke kennisgeving aan de andere Partij deze Overeenkomst onmiddellijk te beëindigen voor het einde van het tijdvak van vijf jaar indien zich te eniger tijd omstandigheden voordoen die een aanmerkelijke belemmering vormen voor de verlening van diensten ingevolge genoemd BRp, waardoor het BRp nutteloos wordt.
 
-##### 6.3
+##### Artikel 6.3
 
 De twijfels en geschillen die mochten ontstaan bij de toepassing of uitlegging van deze Overeenkomst zullen langs diplomatieke weg worden opgelost.
 
 GETEKEND te Carácas, op de eenentwinigste dag van februari negentienhonderdvijfennegentig, in zes (6) exemplaren, twee (2) in de Engelse taal, twee (2) in de Spaanse taal en twee (2) in de Nederlandse taal, zijnde alle teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) M. POURIER
 
@@ -363,7 +337,7 @@ Miguel Pourier
 
 Minister-President van de Nederlandse Antillen
 
-**Voor de Republiek Venezuela**
+*Voor de Republiek Venezuela*
 
 (w.g.) M. A. BURELLI RIVAS
 

@@ -1,136 +1,94 @@
 ---
 title: "Verdrag tot oprichting van het Agentschap voor internationale handelsinformatie en -samenwerking, als intergouvernementele organisatie"
 identifier: "BWBV0001623"
-country: "nl"
-rank: "verdrag"
-publication_date: "2010-02-28"
-last_updated: "2010-02-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001623"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000055113"
-version_id: "10004008762"
-internal_id: "C10006994761"
-label_id: "10000055384"
-original_entry_into_force: "2010-02-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001623/2010-02-28/0"
-intitule_bron: "Trb.2010-87"
-intitule_effect: "intrekking-regeling"
-intitule_published: "2010-03-17"
-intitule_in_force: "2010-03-17"
-intitule_status: "vervallen"
-original_publication: "Trb.2010-87"
-original_published_date: "2010-03-17"
-original_effect: "intrekking-regeling"
-original_url_id: "trb-2010-87"
-entry_into_force_date: "2010-02-28"
-jci_1_3: "jci1.3:c:BWBV0001623&z=2010-02-28&g=2010-02-28"
-jci_1_0: "1.0:c:BWBV0001623&g=2010-02-28"
-citeertitel_status: "officieel"
-entry_into_force: "2010-02-28"
+publicatiedatum: 2010-02-28
+laatste_update: 2010-02-28
+status: geldig
+toestand: 2010-02-28
+bron: "https://wetten.overheid.nl/BWBV0001623"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tot oprichting van het Agentschap voor internationale handelsinformatie en -samenwerking, als intergouvernementele organisatie
 
-De Partijen bij dit Verdrag,
+##### Article 1. Establishment of AITIC
 
-Gelet op het toenemende belang van de internationale handel als drijvende kracht voor groei en ontwikkeling en de mogelijkheden ervan om bij te dragen aan armoedeverlichting,
+*Vervallen*
 
-Voorts gelet op het belang van handelsgerelateerde capaciteitsopbouw en technische samenwerking voor sterkere participatie van ontwikkelingslanden in het multilaterale handelssysteem,
+##### Article 2. Objectives of AITIC
 
-Opnieuw hun inzet bevestigend voor een rechtvaardig multilateraal handelssysteem en een Wereldhandelsorganisatie (WTO) waarbij niemand wordt uitgesloten,
+*Vervallen*
 
-Gelet op het belang van versterking van de capaciteit van ontwikkelingslanden met beperkte middelen en van landen met een overgangseconomie, met inbegrip van kleine kwetsbare economieën, waarbij prioriteit wordt verleend aan de minstontwikkelde landen en landen die geen permanente vertegenwoordiging hebben in Genève, teneinde effectief te participeren in de Wereldhandelsorganisatie en in het internationaal handelssysteem en zich aansluitend bij het streven dat alle WTO-leden en -waarnemers naar behoren vertegenwoordigd worden in Genève,
+##### Article 3. Functions
 
-Voorts gelet op de problemen waarmee deze landen met beperkte middelen geconfronteerd worden wanneer zij effectief willen participeren in de WTO, in het bijzonder wanneer zij geen vertegenwoordiging hebben in Genève,
+*Vervallen*
 
-Reagerend op de dringende behoefte van deze landen met beperkte middelen aan handelsgerelateerde technische samenwerking en capaciteitsopbouw teneinde hen in staat te stellen effectief te participeren in het WTO-activiteitenprogramma en -onderhandelingsproces, en de nadruk die daar op wordt gelegd in de ministeriële verklaring van Doha, goedgekeurd door de ministers tijdens de vierde vergadering van de Ministeriële Conferentie van de WTO en herhaald in artikel 38 van de consensus van Monterrey, goedgekeurd door de staatshoofden en regeringsleiders die de Internationale VN-conferentie inzake de financiering van ontwikkeling hebben bijgewoond,
+##### Article 4. Relations with other Organisations
 
-De effectiviteit onderkennend van de hulp die sinds 1998 door het door Zwitserland gefinancierde Agentschap voor Internationale Handelsinformatie en -samenwerking (AITIC) wordt verleend aan landen met beperkte middelen,
+*Vervallen*
 
-de unieke rol die AITIC speelt bij het verlenen van individuele landspecifieke ondersteuning, de groeiende behoefte aan deze hulp en de inspanningen die zijn verricht om aan deze behoefte te voldoen.
+##### Article 5. Membership
 
-Geleid door de wens, op basis van partnerschap tussen landen met beperkte middelen en donorlanden, AITIC te voorzien van een bredere financieringsbasis, een gouvernementele structuur waarbij niemand wordt uitgesloten en een adequate juridische basis,
+*Vervallen*
 
-Zijn het volgende overeengekomen:
+##### Article 6. Structure of AITIC
 
-##### Artikel 1. Oprichting van AITIC
+*Vervallen*
 
-Vervallen
+##### Article 7. Council of Representatives
 
-##### Artikel 2. Doel van AITIC
+*Vervallen*
 
-Vervallen
+##### Article 8. Executive Board
 
-##### Artikel 3. Taken
+*Vervallen*
 
-Vervallen
+##### Article 9. Executive Director and Secretariat
 
-##### Artikel 4. Betrekkingen met andere organisaties
+*Vervallen*
 
-Vervallen
+##### Article 10. Decision-Making
 
-##### Artikel 5. Lidmaatschap
+*Vervallen*
 
-Vervallen
+##### Article 11. Financial Structure of AITIC
 
-##### Artikel 6. Structuur van AITIC
+*Vervallen*
 
-Vervallen
+##### Article 12. Rights and Obligations of Members
 
-##### Artikel 7. Raad van Afgevaardigden
+*Vervallen*
 
-Vervallen
+##### Article 13. Legal Status of AITIC
 
-##### Artikel 8. Uitvoerende Raad
+*Vervallen*
 
-Vervallen
+##### Article 14. Working Languages
 
-##### Artikel 9. Uitvoerend Directeur en secretariaat
+*Vervallen*
 
-Vervallen
+##### Article 15. Amendment, Withdrawal and Termination
 
-##### Artikel 10. Besluitvorming
+*Vervallen*
 
-Vervallen
+##### Article 16. Consent to be bound and Entry into Force
 
-##### Artikel 11. Financiële structuur van AITIC
+*Vervallen*
 
-Vervallen
+##### Article 17. Accession
 
-##### Artikel 12. Rechten en verplichtingen van leden
+*Vervallen*
 
-Vervallen
+##### Article 18. Reservations
 
-##### Artikel 13. Juridische status van AITIC
+*Vervallen*
 
-Vervallen
+##### Article 19. Annexes
 
-##### Artikel 14. Werktalen
+*Vervallen*
 
-Vervallen
+##### Article 20. Depositary and Registration
 
-##### Artikel 15. Wijziging, terugtrekking en opzegging
-
-Vervallen
-
-##### Artikel 16. Instemming te worden gebonden en inwerkingtreding
-
-Vervallen
-
-##### Artikel 17. Toetreding
-
-Vervallen
-
-##### Artikel 18. Voorbehouden
-
-Vervallen
-
-##### Artikel 19. Bijlagen
-
-Vervallen
-
-##### Artikel 20. Depositaris en registratie
-
-Vervallen
-
-DONE at Geneva, this ninth day of December two thousand and two, in a single copy, in the English, French and Spanish languages, each text being equally authentic.
+*Vervallen*

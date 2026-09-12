@@ -1,67 +1,21 @@
 ---
 title: "Overeenkomst, door de Raad vastgesteld overeenkomstig artikel 34 van het Verdrag betreffende de Europese Unie, betreffende de wederzijdse rechtshulp in strafzaken tussen de lidstaten van de Europese Unie"
 identifier: "BWBV0001639"
-country: "nl"
-rank: "verdrag"
-publication_date: "2005-08-23"
-last_updated: "2004-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001639"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10001417203"
-version_id: "10001495722"
-internal_id: "C10006992191"
-label_id: "10001417634"
-dtd_version: "2.0"
-original_entry_into_force: "2005-08-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001639/2005-08-23/0"
-intitule_bron: "Trb.2000-96"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-04-02"
-intitule_published: "2000-09-01"
-intitule_in_force: "2005-11-11"
-intitule_status: "goed"
-original_publication: "Trb.2000-96"
-original_signed_date: "2004-04-02"
-original_published_date: "2000-09-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2000-96"
-entry_into_force_date: "2005-08-23"
-jci_1_3: "jci1.3:c:BWBV0001639&z=2005-08-23&g=2005-08-23"
-jci_1_0: "1.0:c:BWBV0001639&g=2005-08-23"
-citeertitel_status: "redactioneel"
-signed_date: "2004-04-02"
-entry_into_force: "2005-08-23"
+publicatiedatum: 2005-08-23
+laatste_update: 2005-08-23
+status: geldig
+toestand: 2005-08-23
+bron: "https://wetten.overheid.nl/BWBV0001639"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst, door de Raad vastgesteld overeenkomstig artikel 34 van het Verdrag betreffende de Europese Unie, betreffende de wederzijdse rechtshulp in strafzaken tussen de lidstaten van de Europese Unie
 
-De Hoge Verdragsluitende Partijen bij deze overeenkomst, lidstaten van de Europese Unie,
+*De Hoge Verdragsluitende Partijen bij deze overeenkomst, lidstaten van de Europese Unie, Onder verwijzing naar de akte van de Raad tot vaststelling van de Overeenkomst betreffende de wederzijdse rechtshulp in strafzaken tussen de lidstaten van de Europese Unie; Wensend de justitiële samenwerking in strafzaken tussen de lidstaten van de Unie te verbeteren, onverminderd de regelingen ter bescherming van de individuele vrijheid; Wijzend op het gemeenschappelijk belang van de lidstaten om ervoor te zorgen dat de wederzijdse rechtshulp tussen de lidstaten snel en doeltreffend plaatsvindt, op een wijze die verenigbaar is met de fundamentele beginselen van hun nationale recht en in overeenstemming is met de individuele rechten en de beginselen van het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, ondertekend te Rome op 4 november 1950; Uitdrukking gevend aan hun vertrouwen in de structuur en de werking van elkaars rechtsstelsels en in het vermogen van alle lidstaten om een eerlijke procesgang te waarborgen; Vastbesloten het Europees Verdrag van 20 april 1959 aangaande de wederzijdse rechtshulp in strafzaken en andere geldende verdragen op dit gebied aan te vullen met een overeenkomst van de Europese Unie; Erkennende dat de bepalingen van die verdragen van toepassing blijven op alle aspecten die niet onder deze overeenkomst vallen; Overwegende dat de lidstaten belang hechten aan versterking van de justitiële samenwerking, met inachtneming van het evenredigheidsbeginsel; Eraan herinnerend dat deze overeenkomst de wederzijdse rechtshulp in strafzaken regelt, op basis van de beginselen van het Verdrag van 20 april 1959; Overwegende evenwel dat artikel 20 van deze overeenkomst betrekking heeft op specifieke gevallen van het aftappen van telecommunicatie, zonder dat dit gevolgen heeft voor andere soortgelijke gevallen die buiten de werkingssfeer van de overeenkomst vallen; Overwegende dat de algemene beginselen van het internationaal recht van toepassing zijn op de gevallen die niet door deze overeenkomst worden bestreken; Erkennende dat deze overeenkomst de uitoefening van de verantwoordelijkheden van de lidstaten ten aanzien van de handhaving van de openbare orde en de bescherming van de binnenlandse veiligheid onverlet laat en dat het in overeenstemming met artikel 33 van het Verdrag betreffende de Europese Unie aan de lidstaten is, te bepalen op welke wijze zij de openbare orde zullen handhaven en de binnenlandse veiligheid zullen beschermen, Hebben overeenstemming bereikt omtrent de volgende bepalingen:*
 
-Onder verwijzing naar de akte van de Raad tot vaststelling van de Overeenkomst betreffende de wederzijdse rechtshulp in strafzaken tussen de lidstaten van de Europese Unie;
-
-Wensend de justitiële samenwerking in strafzaken tussen de lidstaten van de Unie te verbeteren, onverminderd de regelingen ter bescherming van de individuele vrijheid;
-
-Wijzend op het gemeenschappelijk belang van de lidstaten om ervoor te zorgen dat de wederzijdse rechtshulp tussen de lidstaten snel en doeltreffend plaatsvindt, op een wijze die verenigbaar is met de fundamentele beginselen van hun nationale recht en in overeenstemming is met de individuele rechten en de beginselen van het Europees [Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000), ondertekend te Rome op 4 november 1950;
-
-Uitdrukking gevend aan hun vertrouwen in de structuur en de werking van elkaars rechtsstelsels en in het vermogen van alle lidstaten om een eerlijke procesgang te waarborgen;
-
-Vastbesloten het [Europees Verdrag van 20 april 1959 aangaande de wederzijdse rechtshulp in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBV0001009) en andere geldende verdragen op dit gebied aan te vullen met een overeenkomst van de Europese Unie;
-
-Erkennende dat de bepalingen van die verdragen van toepassing blijven op alle aspecten die niet onder deze overeenkomst vallen;
-
-Overwegende dat de lidstaten belang hechten aan versterking van de justitiële samenwerking, met inachtneming van het evenredigheidsbeginsel;
-
-Eraan herinnerend dat deze overeenkomst de wederzijdse rechtshulp in strafzaken regelt, op basis van de beginselen van het [Verdrag van 20 april 1959](https://wetten.overheid.nl/jci1.3:c:BWBV0001009);
-
-Overwegende evenwel dat artikel 20 van deze overeenkomst betrekking heeft op specifieke gevallen van het aftappen van telecommunicatie, zonder dat dit gevolgen heeft voor andere soortgelijke gevallen die buiten de werkingssfeer van de overeenkomst vallen;
-
-Overwegende dat de algemene beginselen van het internationaal recht van toepassing zijn op de gevallen die niet door deze overeenkomst worden bestreken;
-
-Erkennende dat deze overeenkomst de uitoefening van de verantwoordelijkheden van de lidstaten ten aanzien van de handhaving van de openbare orde en de bescherming van de binnenlandse veiligheid onverlet laat en dat het in overeenstemming met [artikel 33 van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=33) aan de lidstaten is, te bepalen op welke wijze zij de openbare orde zullen handhaven en de binnenlandse veiligheid zullen beschermen,
-
-Hebben overeenstemming bereikt omtrent de volgende bepalingen:
-
-## TITEL I. ALGEMENE BEPALINGEN
+### TITEL I. ALGEMENE BEPALINGEN
 
 ##### Artikel 1. Verhouding tot andere rechtshulpverdragen
 
@@ -157,7 +111,7 @@ Elke lidstaat kan ten aanzien van bovenbedoelde verklaringen het wederkerigheids
 
 3. De ontvangende autoriteit is aan die voorwaarden gebonden.
 
-## TITEL II. VERZOEKEN OM SPECIFIEKE VORMEN VAN RECHTSHULP
+### TITEL II. VERZOEKEN OM SPECIFIEKE VORMEN VAN RECHTSHULP
 
 ##### Artikel 8. Teruggave
 
@@ -315,7 +269,7 @@ Tijdens een optreden, bedoeld in de artikelen 12, 13 en 14, worden de ambtenaren
 
 4. Onder voorbehoud van de uitoefening van zijn rechten tegenover derden en met uitzondering van het bepaalde in lid 3 ziet elke lidstaat, in het geval bedoeld in lid 1, ervan af het bedrag van de door hem geleden schade op een andere lidstaat te verhalen.
 
-## TITEL III. HET AFTAPPEN VAN TELECOMMUNICATIE
+### TITEL III. HET AFTAPPEN VAN TELECOMMUNICATIE
 
 ##### Artikel 17. Autoriteiten die bevoegd zijn om opdracht te geven tot het aftappen van telecommunicatie
 
@@ -403,23 +357,23 @@ In de artikelen 18, 19 en 20 wordt onder „bevoegde autoriteit" verstaan een re
 
 - a. Nadat de bevoegde autoriteit van de in kennis gestelde lidstaat de in lid 3 bedoelde gegevens heeft ontvangen, antwoordt zij onverwijld en uiterlijk binnen 96 uur aan de aftappende lidstaat, teneinde:
 
-- i. het aftappen of het voortzetten daarvan toe te staan. De in kennis gestelde lidstaat kan aan zijn instemming voorwaarden verbinden die in acht zouden moeten worden genomen in een soortgelijke nationale zaak;
+   - i. het aftappen of het voortzetten daarvan toe te staan. De in kennis gestelde lidstaat kan aan zijn instemming voorwaarden verbinden die in acht zouden moeten worden genomen in een soortgelijke nationale zaak;
 
-- ii. te eisen dat het aftappen niet plaatsvindt of wordt beëindigd, in gevallen waarin het aftappen niet toelaatbaar zou zijn krachtens het nationale recht van de in kennis gestelde lidstaat of om de in [artikel 2 van het Europees Rechtshulpverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001009&artikel=2) genoemde redenen. Indien de in kennis gestelde lidstaat dit eist, moet hij zijn beslissing schriftelijk met redenen omkleden;
+   - ii. te eisen dat het aftappen niet plaatsvindt of wordt beëindigd, in gevallen waarin het aftappen niet toelaatbaar zou zijn krachtens het nationale recht van de in kennis gestelde lidstaat of om de in [artikel 2 van het Europees Rechtshulpverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001009&artikel=2) genoemde redenen. Indien de in kennis gestelde lidstaat dit eist, moet hij zijn beslissing schriftelijk met redenen omkleden;
 
-- iii. in de gevallen, bedoeld in punt ii), te eisen dat gegevens die reeds werden afgetapt terwijl de persoon zich op zijn grondgebied bevond, niet worden gebruikt of uitsluitend worden gebruikt onder nader aan te geven voorwaarden. De in kennis gestelde lidstaat deelt de aftappende lidstaat de redenen mee die bedoelde voorwaarden rechtvaardigen;
+   - iii. in de gevallen, bedoeld in punt ii), te eisen dat gegevens die reeds werden afgetapt terwijl de persoon zich op zijn grondgebied bevond, niet worden gebruikt of uitsluitend worden gebruikt onder nader aan te geven voorwaarden. De in kennis gestelde lidstaat deelt de aftappende lidstaat de redenen mee die bedoelde voorwaarden rechtvaardigen;
 
-- iv. om een korte, met de aftappende lidstaat overeen te komen verlenging, met een periode van maximaal 8 dagen, van de oorspronkelijke termijn van 96 uur te verzoeken, teneinde interne procedures uit hoofde van zijn nationale recht te kunnen volgen. De in kennis gestelde lidstaat deelt de aftappende lidstaat schriftelijk de omstandigheden mee die ingevolge zijn nationale recht het verlangde uitstel rechtvaardigen.
+   - iv. om een korte, met de aftappende lidstaat overeen te komen verlenging, met een periode van maximaal 8 dagen, van de oorspronkelijke termijn van 96 uur te verzoeken, teneinde interne procedures uit hoofde van zijn nationale recht te kunnen volgen. De in kennis gestelde lidstaat deelt de aftappende lidstaat schriftelijk de omstandigheden mee die ingevolge zijn nationale recht het verlangde uitstel rechtvaardigen.
 
 - b. Totdat door de in kennis gestelde lidstaat een besluit is genomen overeenkomstig het bepaalde onder a, punten i of ii, kan de aftappende lidstaat:
 
-- i. het aftappen voortzetten; en
+   - i. het aftappen voortzetten; en
 
-- ii. de afgetapte gegevens niet gebruiken, tenzij:
+   - ii. de afgetapte gegevens niet gebruiken, tenzij:
 
-- –. tussen de betrokken lidstaten anders is overeengekomen; of
+      - – tussen de betrokken lidstaten anders is overeengekomen; of
 
-- –. voor het treffen van spoedeisende maatregelen ter voorkoming van een onmiddellijke en ernstige bedreiging van de openbare veiligheid. De in kennis gestelde lidstaat wordt ingelicht over een dergelijk gebruik en over de redenen die het rechtvaardigen.
+      - – voor het treffen van spoedeisende maatregelen ter voorkoming van een onmiddellijke en ernstige bedreiging van de openbare veiligheid. De in kennis gestelde lidstaat wordt ingelicht over een dergelijk gebruik en over de redenen die het rechtvaardigen.
 
 - c. De in kennis gestelde lidstaat kan een beknopt overzicht van de feiten van de zaak verlangen alsmede alle nadere inlichtingen die hij nodig heeft om te kunnen beoordelen of het aftappen zou worden toegestaan in een soortgelijke nationale zaak. Een dergelijk verzoek laat de toepassing van het bepaalde onder b onverlet, tenzij anders is overeengekomen tussen de in kennis gestelde en de aftappende lidstaat.
 
@@ -439,7 +393,7 @@ De kosten die door aanbieders van telecommunicatienetwerken of dienstenverstrekk
 
 Niets in deze titel belet de lidstaten bilaterale of multilaterale regelingen te treffen ter vergemakkelijking van het gebruik van de huidige en toekomstige technische mogelijkheden voor het rechtmatig aftappen van telecommunicatie.
 
-## TITEL IV
+### TITEL IV
 
 ##### Artikel 23. Bescherming van persoonsgegevens
 
@@ -469,7 +423,7 @@ Luxemburg kan, onder voorbehoud van lid 1, onder c), gelet op de omstandigheden 
 
 Indien Luxemburg in een bepaald geval weigert in te stemmen met een verzoek van een lidstaat overeenkomstig lid 1 moet het zijn weigering schriftelijk met redenen omkleden.
 
-## TITEL V. SLOTBEPALINGEN
+### TITEL V. SLOTBEPALINGEN
 
 ##### Artikel 24. Verklaringen
 

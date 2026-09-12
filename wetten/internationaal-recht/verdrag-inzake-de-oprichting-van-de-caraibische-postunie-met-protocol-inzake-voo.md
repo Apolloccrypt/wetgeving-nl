@@ -1,660 +1,410 @@
 ---
 title: "Verdrag inzake de oprichting van de Caraïbische Postunie, met Protocol inzake voorrechten en immuniteiten van de Caraïbische Postunie"
 identifier: "BWBV0001945"
-country: "nl"
-rank: "verdrag"
-publication_date: "2007-01-01"
-last_updated: "2007-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001945"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002578493"
-version_id: "10002569352"
-internal_id: "C10008572391"
-label_id: "10002568024"
-dtd_version: "2.0"
-original_entry_into_force: "2001-06-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001945/2007-01-01/0"
-intitule_bron: "Trb.2001-61"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-07-19"
-intitule_published: "2001-04-06"
-intitule_in_force: "2008-03-04"
-intitule_status: "goed"
-original_publication: "Trb.2001-61"
-original_signed_date: "2001-07-19"
-original_published_date: "2001-04-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2001-61"
-entry_into_force_date: "2001-06-20"
-jci_1_3: "jci1.3:c:BWBV0001945&z=2007-01-01&g=2007-01-01"
-jci_1_0: "1.0:c:BWBV0001945&g=2007-01-01"
-citeertitel_status: "redactioneel"
-signed_date: "2001-07-19"
-entry_into_force: "2001-06-20"
+publicatiedatum: 2001-06-20
+laatste_update: 2007-01-01
+status: geldig
+toestand: 2007-01-01
+bron: "https://wetten.overheid.nl/BWBV0001945"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag inzake de oprichting van de Caraïbische Postunie, met Protocol inzake voorrechten en immuniteiten van de Caraïbische Postunie
 
-PREAMBULE
+*PREAMBLE The undersigned plenipotentiaries of the Governments of the contracting parties: a) considering the importance of domestic and international postal services for the development of human and commercial relations; b) aware of the common problems facing the postal administrations of the Region; c) wishing to promote the improvement and development of their postal services through extensive co-operation and consultation; d) and having regard to Article 8 of the Constitution of the Universal Postal Union (UPU); Have agreed as follows:*
 
-De ondergetekenden, gevolmachtigden van de Regeringen van de Verdragsluitende Partijen:
+### CHAPTER I. DEFINITIONS / ESTABLISHMENT AND PURPOSE OF THE CARIBBEAN POSTAL UNION / LEGAL CAPACITY
 
-overwegende het belang van binnenlandse en internationale postale diensten voor de ontwikkeling van de menselijke betrekkingen en handelsbetrekkingen;
+##### Article 1
 
-zich bewust van de gemeenschappelijke problemen waarvoor de postdiensten in de regio zich gesteld zien;
+In this convention:
 
-geleid door de wens de verbetering en ontwikkeling van hun postale diensten te bevorderen door middel van uitgebreide samenwerking en breed overleg;
+- a) *Archives of the Union* means the records, correspondence, documents, manuscripts, photographs, slides, films, diskettes and sound recordings belonging to the Union.
 
-en gelet op artikel 8 van de Constitutie van de Wereldpostunie (UPU);
+- b) *Competent authorities* means national or local authorities of the Member Countries as may be appropriate in the context of and in accordance with the laws of the Member Countries.
 
-Zijn het volgende overeengekomen:
+- c) *Conference* means the body of postal operators that is established as mentioned under Article 8 of this Convention.
 
-##### Artikel 1
+- d) *Caribbean Council of Ministers of Postal Affairs* means the Ministers in charge of the Postal Affairs of Member Countries, as referred to in Article 7 of this Convention.
 
-Voor de toepassing van dit Verdrag wordt verstaan onder:
+- e) *Management Board* means the established group of seven representatives of the Member Countries as meant in Article 11 of this Convention.
 
-- a. **Archieven van de Unie**, de archiefstukken, correspondentie, documenten, manuscripten, foto's, dia's, films, diskettes en geluidsopnamen die aan de Unie toebehoren.
+- f) *Convention* means the Convention establishing the Caribbean Postal Union as amended.
 
-- b. **Bevoegde autoriteiten**, de nationale of plaatselijke autoriteiten van de lidstaten al naar gelang van de context en in overeenstemming met de wetten van de lidstaten.
+- g) *Secretary General* means the holder of the Office established by Article 13 of this Convention.
 
-- c. **Conferentie**, het lichaam van postexploitanten dat is ingesteld als bedoeld in artikel 8 van dit Verdrag.
+- h) *Government*means the Government of a Member Country.
 
-- d. **Caraïbische Raad van ministers voor Postzaken**, de ministers belast met de postzaken van de lidstaten, als bedoeld in artikel 7 van dit Verdrag.
+- i) *Headquarters* means the premises or location occupied by the Union referred to in Article 16 of this Convention.
 
-- e. **Raad van Beheer**, de ingestelde groep van zeven vertegenwoordigers van de lidstaten als bedoeld in artikel 11 van dit Verdrag.
+- j) *Official of the Union* means the Secretary General and staff of the Union.
 
-- f. **Verdrag**, het Verdrag tot oprichting van de Caraïbische Postunie als gewijzigd.
+- k) *Property* means all forms of property, including funds and assets belonging to or held administered by the Union and in general all income accruing to the Union.
 
-- g. **Secretaris-Generaal**, de ingevolge artikel 13 van dit Verdrag verkozen functionaris.
+- l) *Secretariat* means the CPU Secretariat referred to in Article 14 of this Convention.
 
-- h. **Regering**, de regering van een lidstaat.
+- m) *Union* means the Caribbean Postal Union.
 
-- i. **Zetel**, de in artikel 16 van dit Verdrag bedoelde terreinen of locatie die door de Unie worden gebruikt.
+- n) *Caribbean Countries and territories*means the countries and territories that form part of the Wider Caribbean.
 
-- j. **Functionaris van de Unie**, de Secretaris-Generaal en het personeel van de Unie.
+- o) *Postmaster General*means the chief executive officer in charge of the organization providing the postal services.
 
-- k. **Eigendommen**, alle vormen van eigendom, met inbegrip van fondsen en activa die aan de Unie toebehoren of die zij onder zich heeft of die door haar worden beheerd, en in het algemeen alle aan de Unie toekomende inkomsten.
+##### Article 2
 
-- l. **Secretariaat**, het in artikel 14 van dit Verdrag bedoelde Secretariaat van de Caraïbische Postunie.
+1. The contracting parties hereby re-affirm the establishment of the Caribbean Postal Union.
 
-- m. **Unie**, de Caraïbische Postunie.
+2. The purpose of the CPU shall be to:
 
-- n. **Caraïbische landen en grondgebieden**, de landen en grondgebieden die deel uitmaken van het Groot-Caraïbisch gebied.
+- a) Improve the response to customers’ requirements for postal facilities of all kinds;
 
-- o. **Directeur der Posterijen**, de directeur die belast is met de organisatie die de postale diensten verzorgt.
+- b) Facilitate the improvement and security of postal services;
 
-##### Artikel 2
+- c) Co-ordinate postal training arrangements and postal operational services, and
 
-1. Hierbij herbevestigen de Verdragsluitende Partijen de oprichting van de Caraïbische Postunie.
+- d) Promote international postal co-operation in the spirit and observance of the Acts of the Universal Postal Union;
 
-2. Het doel van de CPU is:
+- e) Engage in other activities approved by the Conference aimed at the development of postal administrations and the sustainability of the CPU.
 
-- a. beter tegemoetkomen aan de behoeften van de klanten met betrekking tot alle soorten postale voorzieningen;
+3. The Union is to be considered a Restricted Union of the Universal Postal Union as provided for in [Article 8 of the Constitution of the Universal Postal Union](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=8).
 
-- b. het bevorderen van de verbetering en van de veiligheid van postale diensten;
+##### Article 3
 
-- c. het coördineren van postale opleidingen en operationele postale diensten; en
+1. The Union shall have full legal capacity.
 
-- d. het bevorderen van de internationale samenwerking op postgebied in de geest en bij de naleving van de Akten van de Wereldpostunie;
+2. Each member shall in its territory accord to the Union the most extensive legal capacity accorded to legal persons under its municipal laws. In any legal proceedings the Secretary General of the Union shall represent the Union.
 
-- e. het verrichten van andere door de Conferentie goedgekeurde activiteiten gericht op de ontwikkeling van postdiensten en de duurzaamheid van de CPU.
+### CHAPTER II. MEMBERSHIP OF THE UNION / OBSERVERS
 
-3. De Unie moet worden beschouwd als een Beperkte Unie van de Wereldpostunie zoals bedoeld in artikel 8 van de Constitutie van de Wereldpostunie.
+##### Article 4
 
-##### Artikel 3
+1. Membership of the Union shall be open to all the founding countries and territories of the Union as well as all Caribbean countries and territories.
 
-1. De Unie heeft volledige handelingsbevoegdheid.
+2. Each of these countries or territories may announce its accession to this Convention at any time by notifying the Secretary General of the Union. They shall sign and ratify the Convention at the earliest opportunity thereafter.
 
-2. Elk lid kent op zijn grondgebied aan de Unie de meest uitgebreide handelingsbevoegdheid toe welke krachtens de gemeentelijke wetgeving aan rechtspersonen wordt verleend. Bij elk rechtsgeding wordt de Unie vertegenwoordigd door de Secretaris-Generaal van de Unie.
+3. Any other country may become a party to the Union by application in accordance with paragraph 4 of this Article, subject however to such terms and conditions as the Conference may determine.
 
-##### Artikel 4
+4. Applications for admission to membership of the Union shall be sent to the Secretary General of the Union, accompanied by a formal declaration of intention to accept the obligations of this Convention.
 
-1. Het lidmaatschap van de Unie staat open voor alle landen en grondgebieden die de Unie hebben opgericht alsmede alle Caraïbische landen en grondgebieden.
+5. The Secretary General of the Union shall consult all members as soon as possible on applications for admission that he has received. A country shall be admitted to membership of the Union if its application for admission has been approved by two-thirds of the members of the Union. The admission shall then be notified to the members of the Union by the Secretariat of the Union and shall take effect on a date agreed between the new member and the Secretary General.
 
-2. Elk van deze landen of grondgebieden kan te allen tijde zijn toetreding tot dit Verdrag bekendmaken door middel van een kennisgeving aan de Secretaris-Generaal van de Unie. Zij ondertekenen en bekrachtigen het Verdrag vervolgens bij de eerste gelegenheid daartoe.
+##### Article 5
 
-3. Elk ander land kan, door middel van een aanvraag overeenkomstig het vierde lid van dit artikel, Partij worden bij de Unie onder de door de Conferentie vast te stellen voorwaarden en bedingen.
+1. The Union shall invite the Universal Postal Union to attend its meetings as an observer.
 
-4. Aanvragen voor toelating als lid van de Unie dienen aan de Secretaris-Generaal van de Unie te worden gericht en vergezeld te gaan van een formele intentieverklaring waarin de verplichtingen van dit Verdrag worden aanvaard.
+2. Other Restricted Postal Unions, postal administrations not members of the Union and any regional or international body, country or territory, or any other organization whose activities are of interest to the Union, may be invited to attend the Union’s meetings as observers by decision of the Chairman of the meeting concerned.
 
-5. De Secretaris-Generaal van de Unie raadpleegt zo spoedig mogelijk alle leden over de door hem ontvangen aanvragen voor lidmaatschap. Een land wordt als lid tot de Unie toegelaten indien zijn aanvraag voor toelating is goedgekeurd door twee derde van de leden van de Unie. Van de toelating wordt vervolgens door het Secretariaat van de Unie mededeling gedaan aan de leden van de Unie, en de toelating wordt van kracht op een door het nieuwe lid en de Secretaris-Generaal overeengekomen datum.
+3. Observers shall not be entitled to vote at meetings of the Union.
 
-##### Artikel 5
+### CHAPTER III. ORGANIZATION OF THE UNION
 
-1. De Unie nodigt de Wereldpostunie uit haar vergaderingen als waarnemer bij te wonen.
+##### Article 6
 
-2. Andere Beperkte Postunies, postdiensten die geen lid zijn van de Unie, en regionale of internationale lichamen, landen of grondgebieden, of andere organisaties wier activiteiten van belang zijn voor de Unie, kunnen op besluit van de Voorzitter van de betrokken vergadering worden uitgenodigd de vergaderingen van de Unie als waarnemer bij te wonen.
+The Union’s permanent bodies shall be the Caribbean Council of Ministers of Postal Affairs, the Conference and the Management Board.
 
-3. Waarnemers hebben bij de vergaderingen van de Unie geen stemrecht.
+### CHAPTER IV. THE CARIBBEAN COUNCIL OF MINISTERS OF POSTAL AFFAIRS
 
-##### Artikel 6
+##### Article 7
 
-De permanente lichamen van de Unie zijn de Caraïbische Raad van ministers voor Postzaken, de Conferentie en de Raad van Beheer.
+1. The Caribbean Council of Ministers of Postal Affairs is responsible for the development of long-term strategies and policies concerning postal matters and the future of the postal industry within the Caribbean region, and delegates implementation of these strategies and policies to the Conference.
 
-##### Artikel 7
+2. The members of this Council are the ministers in charge of postal affairs of the member countries of the CPU, or their representatives, and must be duly authorized and sufficiently empowered to negotiate on behalf of and to commit their respective countries in accordance with their constitutional procedures.
 
-1. De Caraïbische Raad van ministers voor Postzaken is verantwoordelijk voor de ontwikkeling van langetermijnstrategieën en -beleid met betrekking tot postzaken en de toekomst van de postindustrie binnen het Caraïbisch gebied, en delegeert de uitvoering van deze strategieën en dit beleid aan de Conferentie.
+3. The members of the Caribbean Council of Ministers of Postal Affairs shall ensure that sufficient resource is available in order for the policies of their respective countries to be embodied in the CPU and shall undertake to facilitate the implementation of the CPU processes and decisions in their countries.
 
-2. De leden van deze Raad zijn de ministers die in de lidstaten van de CPU belast zijn met postzaken, of hun vertegenwoordigers, en moeten overeenkomstig hun constitutionele procedures naar behoren zijn gemachtigd en voldoende bevoegdheden hebben om te onderhandelen en verplichtingen aan te gaan namens hun respectieve landen.
+4. The Secretary General shall also serve as the secretary to this Council.
 
-3. De leden van de Caraïbische Raad van ministers voor Postzaken dragen er zorg voor dat er voldoende middelen beschikbaar zijn om het beleid van hun respectieve landen in de CPU op te nemen en verplichten zich ertoe de uitvoering van de CPU-processen en -besluiten in hun landen te vergemakkelijken.
+5. This Council shall in principal meet every year.
 
-4. De Secretaris-Generaal treedt eveneens op als secretaris voor deze Raad.
+### CHAPTER V. THE CONFERENCE
 
-5. Deze Raad komt in beginsel jaarlijks bijeen.
+##### Article 8
 
-##### Artikel 8
+1. The Conference shall ensure the continuity of the Union and carry out the functions indicated in Article 9.
 
-1. De Conferentie draagt zorg voor de continuïteit van de Unie en vervult de in artikel 9 genoemde functies.
+2. The Conference shall consist of the Postmasters General of the member countries or territories, or their representatives, who must be duly authorized to negotiate on behalf of and to commit their respective countries in accordance with their constitutional procedures
 
-2. De Conferentie bestaat uit de Directeuren der Posterijen van de lidstaten of grondgebieden, of hun vertegenwoordigers, die overeenkomstig hun constitutionele procedures naar behoren moeten zijn gemachtigd om te onderhandelen en verplichtingen aan te gaan namens hun respectieve landen.
+3. The Conference shall fix the dates of its meetings in relation to the meetings of the Universal Postal Union. The Conference shall normally meet once a year during the period of May to June. In addition, the Conference may meet in extra-ordinary sessions at the request of two-thirds of the members of the Union.
 
-3. De Conferentie richt zich bij de vaststelling van de data van haar vergaderingen naar de vergaderingen van de Wereldpostunie. Normaliter komt de Conferentie eenmaal per jaar bijeen in de periode mei-juni. Daarnaast kan de Conferentie op verzoek van twee derde van de leden van de Unie in een buitengewone vergadering bijeenkomen.
+##### Article 9
 
-##### Artikel 9
+1. The functions of the Conference shall be:
 
-1. De taken van de Conferentie zijn:
+- a) to implement the strategies and policies as adopted by the Caribbean Council of Ministers of Postal Affairs;
 
-- a. het uitvoeren van de strategieën en het beleid als aangenomen door de Caraïbische Raad van ministers voor Postzaken;
+- b) to formulate, advise on and prepare policies to be set out by the Caribbean Council of Ministers of Postal Affairs;
 
-- b. het formuleren, adviseren over en opstellen van beleid dat door de Caraïbische Raad van ministers voor Postzaken wordt vastgesteld;
+- c) to elect the Secretary General and fix the level of his or her remuneration;
 
-- c. het verkiezen van de Secretaris-Generaal en het vaststellen van de hoogte van zijn of haar vergoeding;
+- d) to elect the members of the Management Board;
 
-- d. het verkiezen van de leden van de Raad van Beheer;
+- e) to set priorities, receive reports and identify issues to the Management Board as set forth under this paragraph;
 
-- e. het vaststellen van prioriteiten, het in ontvangst nemen van rapporten en het aandragen van onderwerpen bij de Raad van Beheer als vermeld in dit lid;
+- f) to adopt amendments to this Convention;
 
-- f. het aannemen van wijzigingen van dit Verdrag;
+- g) to adopt and amend special agreements concerning the establishment and operation of postal services and the provision of services to the public;
 
-- g. het aannemen en wijzigen van bijzondere overeenkomsten inzake de oprichting en het functioneren van postale diensten en het verschaffen van diensten aan het publiek;
+- h) to formulate general policy with regard to postal services, legislation and technical co-operation;
 
-- h. het formuleren van algemeen beleid met betrekking tot postale diensten, wetgeving en technische samenwerking;
+- i) to fix the number of permanent employees in the Secretariat;
 
-- i. het vaststellen van het aantal permanente personeelsleden van het Secretariaat;
+- j) to fix the ceiling of the Union’s expenditure and the principles governing that expenditure;
 
-- j. het vaststellen van het maximum van de uitgaven van de Unie en van de beginselen die op de uitgaven van toepassing zijn;
+- k) to determine all matters of general interest submitted to it by members of the Union in accordance with Article 21 of this Convention;
 
-- k. het nemen van besluiten met betrekking tot alle door leden van de Unie overeenkomstig artikel 21 van dit Verdrag aan haar voorgelegde zaken van algemeen belang;
+- l) to enter into agreements on behalf of the Union;
 
-- l. het namens de Unie aangaan van overeenkomsten;
+- m) to appoint an auditor on the recommendation of the Management Board;
 
-- m. het op aanbeveling van de Raad van Beheer benoemen van een accountant;
+- n) to approve the budget of the Union.
 
-- n. het goedkeuren van de begroting van de Unie.
+2. The Conference may assign tasks to the Management Board.
 
-2. De Conferentie kan de Raad van Beheer taken opdragen.
+##### Article 10
 
-##### Artikel 10
+1. The decisions of the Conference shall apply to all members. Members which are unable to adopt a decision of the Conference must immediately inform the Secretary General of the fact and state the reasons therefore.
 
-1. De besluiten van de Conferentie zijn van toepassing op alle leden. De leden die een besluit van de Conferentie niet kunnen aannemen, moeten de Secretaris-Generaal hiervan onverwijld en met opgaaf van redenen op de hoogte stellen.
+2. Each member shall have one vote in the Conference.
 
-2. Elk lid heeft één stem in de Conferentie.
+3. Any member may be represented by another member at meetings of the Conference, provided that a member shall not represent more than one member in addition to itself.
 
-3. Een lid kan bij een vergadering van de Conferentie worden vertegenwoordigd door een ander lid, met dien verstande dat een lid, behalve zichzelf, niet meer dan één ander lid mag vertegenwoordigen.
+4. The Conference shall designate the country in which its next meeting shall be held.
 
-4. De Conferentie wijst het land aan waarin haar volgende vergadering zal worden gehouden.
+5. The Conference may regulate its own procedure.
 
-5. De Conferentie stelt haar eigen reglement van orde op.
+### CHAPTER VI. THE MANAGEMENT BOARD / FUNCTIONS / TASK FORCES
 
-##### Artikel 11
+##### Article 11
 
-1. De Raad van Beheer, met de vertegenwoordigers van zeven lidstaten, wordt ingesteld ter waarborging van de continuïteit van de werkzaamheden en van het beheer van de zaken van de Unie gedurende de periode tussen de vergaderingen van de Conferentie.
+1. The Management Board, comprising the representatives of seven Member Countries, shall be established to ensure the continuity of the Union’s work and administration of the Union’s affairs during the period between the meetings of the Conference.
 
-2. De Raad van Beheer wordt verkozen door de Conferentie en vervult zijn functie voor een periode van twee jaar.
+2. The Management Board shall be elected by the Conference and shall hold office for a period of two years.
 
-3. De Raad van Beheer komt ten minste twee maal per jaar bijeen.
+3. The Management Board shall meet at least twice a year.
 
-4. De Raad van Beheer kan buitengewone vergaderingen bijeenroepen, of een zitting van de Raad van Beheer kan worden geannuleerd indien twee derde van de leden daartoe besluit.
+4. The Management Board may convene extra-ordinary meetings, or a session of the Management Board may be cancelled if two-thirds of its members so decide.
 
-5. De Raad van Beheer verkiest zijn Voorzitter uit zijn leden.
+5. The Management Board shall elect its Chairman from among its members.
 
-##### Artikel 12
+##### Article 12
 
-1. De taken van de Raad van Beheer zijn:
+1. The functions of the Management Board shall be as follows:
 
-- a. het uitvoeren van de door de Conferentie aan hem opgedragen taken;
+- a) to perform tasks assigned to it by the Conference;
 
-- b. het jaarlijkse activiteitenplan van de Unie ter goedkeuring aan de Conferentie voorleggen;
+- b) to submit for approval to the Conference the annual action plan activities of the Union;
 
-- c. het voorbereiden van de vergaderingen van de Caraïbische Raad van ministers voor Postzaken en de Conferentie, in samenspraak met het gastland en de Secretaris-Generaal;
+- c) to prepare the meetings of the Caribbean Council of Ministers of Postal Affairs and the Conference, in liaison with the host country and the Secretary General;
 
-- d. het treffen van de nodige maatregelen voor de uitvoering van bepaalde door de Conferentie genomen beginselbesluiten;
+- d) to take the necessary executive measures for the implementation of certain decisions of principle taken by the Conference;
 
-- e. het overeenkomstig de door de Conferentie gegeven richtlijnen treffen van passende maatregelen voor het waarborgen van efficiëntie;
+- e) to take, subject to directives given by the Conference, appropriate measures for ensuring efficiency;
 
-- f. het samenwerken met daarvoor in aanmerking komende organisaties en lichamen bij de bevordering van technische samenwerking en in het bijzonder bij de uitvoering van regionale projecten;
+- f) to work with appropriate organizations and bodies in promoting technical co-operation and especially in implementing regional projects;
 
-- g. het beoordelen van de ontwerpbegroting van de Unie, het doen van aanbevelingen aan de Conferentie en het monitoren van de begrotingssituatie in de loop van het jaar;
+- g) to review the draft budget of the Union, to make recommendations to the Conference, and to monitor the budget performance throughout the year;
 
-- h. het vaststellen van de salarissen die aan de personeelsleden van het Secretariaat moeten worden betaald;
+- h) to determine the salaries to be paid to the employees of the Secretariat;
 
-- i. het creëren van tijdelijke functies binnen het Secretariaat en het voor de volgende vergadering van de Conferentie doen van aanbevelingen met betrekking tot permanente functies binnen het Secretariaat;
+- i) to create temporary posts in the Secretariat and recommend permanent posts in the Secretariat to the next meeting of the Conference;
 
-- j. het waarborgen van een goede accountantscontrole van de rekeningen van de Unie;
+- j) to ensure the proper auditing of the Union’s accounts;
 
-- k. het naar eigen goeddunken instellen van comités en werkgroepen en de werkmethoden hanteren die hij nodig acht voor de uitvoering van zijn taken;
+- k) to establish at its discretion such committees and working groups and adopt such working methods as it considers necessary for the performance of its functions;
 
-- l. het instellen van task forces om specifieke functies of projecten uit te voeren;
+- l) to create Task Forces to carry out specific tasks or projects;
 
-- m. het uitbrengen van verslag aan de Conferentie inzake de werkzaamheden van de Raad van Beheer.
+- m) to report to the Conference on the work of the Management Board.
 
-##### Artikel 13
+### CHAPTER VII. THE SECRETARY GENERAL / SECRETARIAT
 
-1. De Conferentie verkiest een Secretaris-Generaal die in die hoedanigheid voor een periode van twee jaar zijn functie vervult.
+##### Article 13
 
-2. De Secretaris-Generaal:
+1. The Conference shall elect a Secretary General who shall serve in that capacity for a period of two years.
 
-- a. assisteert, adviseert en treedt op als secretaris voor de Caraïbische Raad van ministers voor Postzaken, de Conferentie en de Raad van Beheer bij de uitoefening van hun respectieve taken, met inbegrip van de opstelling van de notulen van de vergaderingen;
+2. The Secretary General shall:
 
-- b. doet voorstellen en aanbevelingen voor maatregelen, plannen en initiatieven aan de Raad van Beheer;
+- a) assist, advise and serve as secretary to the Caribbean Council of Ministers of Postal Affairs, the Conference and the Management Board in the performance of their respective duties, including preparation of the minutes of the meetings;
 
-- c. vertegenwoordigt de Unie, op aanwijzing van de Raad van Beheer, bij vergaderingen, conferenties en onderhandelingen;
+- b) propose and recommend actions, plans and initiatives to the Management Board;
 
-- d. legt de jaarlijkse ontwerpbegroting van de Unie aan de Raad van Beheer voor;
+- c) represent the Union at meetings, conferences and negotiations as directed by the Management Board;
 
-- e. is belast met de dagelijkse leiding van het Secretariaat;
+- d) present the draft annual budget of the Union for submission to the Management Board;
 
-- f. is, tezamen met de Voorzitter van de Raad van Beheer, belast met de organisatie van de vergaderingen van de Raad van Beheer;
+- e) be in charge of the day to day running of the Secretariat;
 
-- g. is, tezamen met de Voorzitter van de Raad van Beheer en het gastland, belast met de organisatie van de vergaderingen van de Conferentie;
+- f) be in charge of the organizing of the meetings of the Management Board, together with the Chairman of the Management Board;
 
-- h. is, tezamen met de Voorzitter van de Raad van Beheer en het gastland, belast met de organisatie van de vergaderingen van de Caraïbische Raad van ministers voor Postzaken;
+- g) be in charge of organizing the meetings of the Conference, together with the Chairman of the Management Board and the host country;
 
-- i. stelt voortgangsrapportages van de aangewezen task forces op en brengt hiervan verslag uit aan de Raad van Beheer;
+- h) be in charge of organizing the meetings of the Caribbean Council of Ministers of Postal Affairs together with the Chairman of the Management Board and the host country;
 
-- j. is verantwoordelijk voor de doelmatige leiding van het Secretariaat.
+- i) prepare and report to the Management Board on the progress of the Task Forces assigned;
 
-3. Indien de Raad van Beheer van oordeel is dat de Secretaris-Generaal niet in staat is zijn taken te vervullen of deze niet kan uitvoeren als gevolg van afwezigheid of ziekte **(„in absentia”)**, kan de Raad van Beheer de nodige maatregelen nemen om de continuïteit van de werkzaamheden van de Secretaris-Generaal te waarborgen.
+- j) be responsible for the effective management of the Secretariat.
 
-##### Artikel 14
+3. If the Management Board considers that the Secretary General is unable to perform his duties or is prevented from discharging due to absence or illness *(“in absentia”)* the Management Board may take the necessary actions to ensure the continuity of the work of the Secretary General.
 
-1. Het Secretariaat van de Unie bestaat uit een Secretaris-Generaal en andere personeelsleden waartoe de Conferentie en de Raad van Beheer besluiten.
+##### Article 14
 
-2. Het personeel van het Secretariaat vraagt en verkrijgt bij de uitvoering van zijn taken uitsluitend aanwijzingen van de Secretaris-Generaal.
+1. The Union’s Secretariat shall comprise a Secretary General and any other member of staff as the Conference and Management Board shall decide.
 
-3. De taken van het Secretariaat zijn:
+2. In the performance of their duties, the employees of the Secretariat shall seek and receive instructions only from the Secretary General.
 
-- a. het zorgen voor de dagelijkse gang van zaken van de Unie;
+3. The functions of the Secretariat shall be as follows:
 
-- b. het uitvoeren van opdrachten en missies die door de Secretaris-Generaal worden opgedragen;
+- a) to handle the day-to-day affairs of the Union;
 
-- c. het opstellen van de ontwerpbegroting van de Unie ter voorlegging aan de Raad van Beheer;
+- b) to carry out assignments and missions entrusted to it by the Secretary General;
 
-- d. het verrichten van alle andere door de Raad van Beheer opgedragen taken.
+- c) to prepare the draft budget of the Union for submission to the Management Board;
 
-##### Artikel 15
+- d) to undertake all other duties assigned to it by the Management Board.
 
-1. De Secretaris-Generaal stelt de lidstaten in kennis van de posities en titels van door de Unie te werk gestelde functionarissen op wie dit artikel van toepassing is. De namen van de functionarissen worden op gezette tijden aan de lidstaten medegedeeld.
+##### Article 15
 
-2. Door de Unie te werk gestelde functionarissen genieten immuniteit van rechtsvervolging met betrekking tot door hen gesproken of geschreven woorden en al hetgeen zij bij de uitoefening van hun officiële functie verrichten of nalaten. Deze immuniteit blijft ook gelden wanneer de betrokkene geen functionaris van de Unie meer is.
+1. The Secretary General shall inform the Member Countries of the positions and titles of officials employed by the Union to whom this article shall apply. From time to time the names of the officials shall be communicated to the Member Countries.
 
-3. Door de Unie te werk gestelde functionarissen die geen onderdaan of permanent ingezetene zijn van het desbetreffende land, genieten:
+2. Officials employed by the Union shall enjoy immunity from legal process in respect of words spoken or written and all acts or omissions by them in the course of the performance of official duties. This immunity shall continue although the person concerned has ceased to be an official in the Union.
 
-- a. vrijstelling van verplichtingen met betrekking tot militaire dienst;
+3. Officials employed by the Union who are not citizens or permanent residents of the country in question shall enjoy:
 
-- b. vrijstelling voor henzelf, hun gezinsleden en voor de personen te hunnen laste die deel uitmaken van hun huishouden, van inreisbeperkingen en registratieverplichtingen voor vreemdelingen;
+- a) immunity from national service obligations;
 
-- c. dezelfde faciliteiten met betrekking tot valuta- en wisselbeperkingen als die welke worden toegekend aan leden van diplomatieke zendingen met vergelijkbare rang.
+- b) exemption for themselves, members of their families and dependents forming part of their household from immigration restrictions and alien registration;
 
-##### Artikel 16
+- c) the same facilities in respect of currency and exchange restrictions as are accorded to members of diplomatic missions of comparable rank.
 
-1. De Unie neemt de locatie van de zetel periodiek in heroverweging. De terreinen en gebouwen van de zetel zijn onschendbaar en worden gevrijwaard tegen onderzoek, vordering, confiscatie of onteigening.
+### CHAPTER VIII. HEADQUARTERS / PROPERTY / FUNDS / ASSETS / AND OPERATIONS OF THE UNION
 
-2. Op de eigendommen en activa van de Unie kunnen zonder de gezamenlijke toestemming van de Secretaris-Generaal en de Raad van Beheer geen bestuursrechtelijke of wettelijke dwangmaatregelen worden toegepast.
+##### Article 16
 
-3. De archieven van de Unie zijn onschendbaar.
+1. The Union shall periodically review the location of its headquarters. The headquarters premises and buildings shall be inviolable and shall be exempt from search, requisition, confiscation or expropriation.
 
-##### Artikel 17
+2. The property and assets of the Union shall not be the subject of any administrative or legal measure of constraint without the authorization of the Secretary General together with the Management Board.
 
-1. De Unie, haar activa, inkomsten en andere eigendommen zijn vrijgesteld van alle vormen van directe belastingen.
+3. The archives of the Union shall be inviolable.
 
-2. De Unie is vrijgesteld van alle douaneheffingen, verboden en beperkingen met betrekking tot de invoer en uitvoer van goederen voor officieel gebruik. Van de aldus ingevoerde goederen wordt op het grondgebied van het land waar zij zijn ingevoerd uitsluitend afstand gedaan, al dan niet tegen betaling, onder door de regering van dat land goedgekeurde voorwaarden.
+##### Article 17
 
-3. De Unie is niet onderworpen aan financiële controles, regelingen, of moratoria van enigerlei aard en is gerechtigd:
+1. The Union, its assets, revenues and other properties shall be exempt from all forms of direct taxes.
 
-- a. van bevoegde handelaars verhandelbare valuta’s te kopen, deze te bezitten en te gebruiken;
+2. The Union shall be exempt from all customs duties, prohibitions and restrictions on imports and exports in respect of articles intended for its official use. Articles so imported shall not be disposed of, whether or not in return for payment, in the territory of the country into which they have been imported, except under conditions approved by the government of that country.
 
-- b. rekeningen in buitenlandse valuta en buitenlandse rekeningen aan te houden;
+3. The Union shall not be subject to any financial controls, regulations or moratoria and shall be entitled:
 
-- c. via bevoegde handelaars fondsen en waardepapieren te kopen, te bezitten en te gebruiken;
+- a) to purchase from authorized dealers, hold and make use of negotiable currencies;
 
-- d. haar fondsen, waardepapieren en buitenlandse valuta’s over te brengen naar of uit de lidstaten en valuta’s die zij bezit om te wisselen in welke andere valuta ook.
+- b) to operate foreign currency and external accounts;
 
-##### Artikel 18
+- c) to purchase, through authorized dealers, hold and make use of funds and securities;
 
-1. Op verzoek daartoe door de Secretaris-Generaal verlenen de bevoegde autoriteiten hun medewerking om te waarborgen dat de zetel van de Unie de beschikking krijgt over de nodige openbare voorzieningen, waaronder elektriciteit, water, post, telefoon, telegraaf, vervoer en bescherming bij brand.
+- d) to transfer its funds, securities and foreign currencies to or from the Member Countries and to convert any currency held by it into any other currency.
 
-2. In geval van onderbreking of dreiging van onderbreking van dergelijke openbare voorzieningen, treffen de bevoegde autoriteiten, gezien het belang van de voorzieningen die de zetel behoeft, maatregelen om te waarborgen dat de werkzaamheden van de Unie niet nadelig worden beïnvloed.
+##### Article 18
 
-3. De bevoegde autoriteiten zorgen er naar redelijkheid voor dat gewaarborgd wordt dat de rust van de zetel niet wordt verstoord doordat een persoon of groep personen zich onbevoegd toegang tot de zetel verschaft.
+1. The competent authorities shall facilitate the Secretary General’s request for public services designed to ensure that the headquarters of the Union shall be supplied with the necessary public services, including electricity, water, post, telephone, telegraph, transportation and fire protection.
 
-##### Artikel 19
+2. In case of any interruption or threatened interruption of any such services, the competent authorities, considering the importance of the needs of Headquarters premises, shall take steps to ensure that the work of the union is not prejudiced.
 
-1. Het Engels, het Frans en het Spaans zijn de officiële talen van de Unie.
+3. The competent authorities shall exercise reasonable care to ensure that the tranquility of the Headquarters is not disturbed by the unauthorized entry of any person or group of persons upon the premises.
 
-2. Een lid waarvan de taal Engels, Frans noch Spaans is, kan op eigen kosten zorg dragen voor tolk- en vertaaldiensten.
+### CHAPTER IX. OFFICIAL LANGUAGES / COMMUNICATIONS
 
-3. De werktaal binnen het Secretariaat is het Engels.
+##### Article 19
 
-##### Artikel 20
+1. English, French and Spanish shall be the official languages of the Union.
 
-1. De Unie geniet binnen de lidstaten, wat haar officiële communicatie betreft, een niet minder gunstige behandeling dan die welke door de lidstaten wordt toegekend aan diplomatieke missies of andere internationale organisaties.
+2. A member whose language is not English or French nor Spanish may provide for translation and interpretation at its own expense.
 
-2. Alle officiële correspondentie en andere officiële communicatie van de Unie zijn vrij van censuur. Deze vrijwaring van censuur strekt zich ook uit tot drukwerk, foto’s, dia’s, films en geluidsopnamen; deze lijst kan worden uitgebreid.
+3. The working language within the Secretariat shall be English.
 
-3. De Unie heeft het recht correspondentie te verzenden en te ontvangen per koerier of in verzegelde zakken, ten aanzien waarvan dezelfde voorrechten en immuniteiten gelden als voor diplomatieke koeriers en zakken.
+##### Article 20
 
-##### Artikel 21
+1. Within the Member Countries the Union shall enjoy, in respect of its official communications, treatment no less favorable than that accorded by Member Countries to diplomatic missions and other international organizations.
 
-1. Leden van de Unie kunnen bij de Conferentie voorstellen indienen voor wijziging van dit Verdrag of de Voorschriften. Voorstellen moeten ten minste zes weken voor de Conferentie worden ingediend. Het Secretariaat maakt afschriften van de voorstellen en zendt deze ten minste vier weken voor de Conferentie toe aan de leden.
+2. All official correspondence or other official communication of the Union shall be immune from censorship. Such immunity from censorship shall extend to printed matter, photographs, slides, films, and sound recordings, this list being subject to amplification.
 
-2. Leden van de Unie kunnen bij de Conferentie of de Raad van Beheer voorstellen van algemene aard indienen. Voorstellen moeten ten minste zes weken voor de vergadering waarin deze worden besproken, worden ingediend. Het Secretariaat maakt afschriften van de voorstellen en zendt deze ten minste vier weken voor deze vergadering toe aan de leden.
+3. The Union shall have the right to dispatch and receive correspondence whether by courier or in sealed bags which shall have the same immunities and privileges as diplomatic couriers and bags.
 
-3. Een lid kan op korte termijn een als urgent beschouwd voorstel bij de Conferentie of de Raad van Beheer indienen, mits dit voorstel de steun heeft van drie andere leden van de Unie.
+### CHAPTER X. SUBMISSION OF PROPOSALS / QUORUM / DECISIONS OF THE CONFERENCE AND THE MANAGEMENT BOARD
 
-4. Dergelijke voorstellen en alle andere correspondentie betreffende aangelegenheden van de Unie moeten via het Secretariaat worden aangeboden.
+##### Article 21
 
-##### Artikel 22
+1. Members of the Union may submit proposals to the Conference for amendments of this Convention or the Regulations. Proposals must be submitted at least six weeks prior to the Conference. The Secretariat shall produce and distribute the proposals to members at least four weeks before the Conference.
 
-1. Vergaderingen van de Conferentie en de Raad van Beheer zijn alleen rechtsgeldig indien ten minste de helft van de leden op de desbetreffende vergadering vertegenwoordigd is.
+2. Members of the Union may submit proposals of a general nature to the Conference or the Management Board. Proposals must be submitted at least six weeks prior to the meeting at which they are to be discussed. The Secretariat shall produce and distribute the proposals to members at least four weeks before such meeting.
 
-2. Wijzigingen van dit Verdrag moeten worden goedgekeurd door twee derde meerderheid van de leden van de Unie.
+3. A member may submit at short notice to the Conference or to the Management Board a proposal regarded as urgent provided that it has the support of three other members of the union.
 
-3. Overige besluiten worden genomen door een meerderheid van de leden van de Unie die op de vergadering aanwezig zijn en hun stem uitbrengen.
+4. Any such proposal and all other correspondence concerning matters of the Union must be addressed via the Secretariat.
 
-4. De besluiten van de Conferentie en de Raad van Beheer worden, conform de door hen aan de Secretaris-Generaal gegeven instructies, door het Secretariaat gepubliceerd.
+##### Article 22
 
-De Verdragsluitende Partijen,
+1. Meetings of the Conference and the Management Board may deliberate validly only if at least one half of the members are represented at the session in question.
 
-Overwegende dat de Unie, overeenkomstig artikel 19 van het Verdrag tot oprichting van de Caraïbische Postunie, op het grondgebied van de lidstaten de voorrechten en immuniteiten geniet die nodig zijn voor de uitoefening van haar functies,
+2. Amendments to this Convention must be approved by a two-thirds majority of the members of the Union.
 
-Komen het volgende overeen:
+3. Other decisions shall be taken by a majority of the members of the Union present and voting at the meeting.
 
-##### Artikel 1. Begripsomschrijvingen
+4. The decisions of the Conference and the Management Board shall be published by the Secretariat in accordance with their instructions given to the Secretary General.
 
-In dit Protocol wordt verstaan onder:
+### CHAPTER XI. EXPENDITURE OF THE UNION / MONETARY UNIT
 
-- a. „Archieven van de Unie”, de archiefstukken, correspondentie, documenten, manuscripten, foto's, dia's, films, diskettes en geluidsopnamen die aan de Unie toebehoren.
+##### Article 23
 
-- b. „Bevoegde autoriteiten”, de nationale of plaatselijke autoriteiten van de lidstaten al naar gelang de context en in overeenstemming met de wetten van de lidstaten.
+1. Based upon the strategy set out by the Caribbean Council of Ministers of Postal Affairs, the Conference shall fix the maximum amount of the Union’s expenditure and the principles governing the expenditure for each year up to and including that of the next ordinary meeting of the Conference.
 
-- c. „Conferentie”, het ingevolge artikel 3 van het Verdrag ingestelde lichaam.
+2. Contributions to the Union shall be assessed in US$ (United States dollars) but may be paid in any convertible currency.
 
-- d. „Verdrag”, het Verdrag tot oprichting van de Caraïbische Postunie.
+3. For the purposes of meeting the expenses of the Union, members shall pay an annual contribution of a sum agreed by the Conference.
 
-- e. „Secretaris-Generaal”, de ingevolge artikel 7, eerste lid, van het Verdrag verkozen functionaris.
+4. If the limits approved by the Conference prove to be insufficient to ensure the satisfactory operation of the Union, these limits may be exceeded after consultation with the full membership and the prior approval of the Management Board.
 
-- f. „Regering”, de regering van een lidstaat.
+5. Members shall pay their contributions to the Union’s expenditure in advance or in two installments. The contributions shall be paid to the Secretariat not later than the first day of January and the first day of July of the financial year to which they relate. After that date, the amounts shall be chargeable with interest in favor of the Union at the rate of 5% per annum.
 
-- g. „Terreinen van de zetel”, de in artikel 2, eerste lid, van dit Protocol bedoelde terreinen die door de Unie worden gebruikt.
+6. Member Countries whose total contributions are more than two years in arrears shall forfeit the right to vote until such time as they have liquidated their debts or until such time as they have entered into a debt repayment plan with the Secretariat.
 
-- h. „Functionaris van de Unie”, de Secretaris-Generaal en het personeel van de Unie.
+7. A reserve fund maintained by budget surplus and voluntary contributions shall be established to provide against temporary shortfalls in financing or to meet special contingencies, as decided by the Management Board.
 
-- i. „Eigendommen”, alle vormen van eigendom, met inbegrip van fondsen en activa die aan de Unie toebehoren of die zij onder zich heeft of die door haar worden beheerd, en in het algemeen alle aan de Unie toekomende inkomsten.
+8. The Union’s financial year shall be a calendar year.
 
-- j. „Secretariaat”, het in artikel 5 van het Verdrag bedoelde Secretariaat van de Caraïbische Postunie.
+### CHAPTER XII. DETAILED REGULATIONS
 
-- k. „Unie”, de Caraïbische Postunie.
+##### Article 24
 
-##### Artikel 2. Eigendommen, fondsen, activa en werkzaamheden van de Unie
+1. Provisions for implementing this Convention and provisions governing the operation of the Conference and the Management Board shall be contained in the Detailed Regulations, prepared by the Secretary General in consultation with members and approved by the Conference.
 
-1. De terreinen en gebouwen van de zetel zijn onschendbaar, ongeacht waar deze zijn gelegen. Zij zijn vrijgesteld van onderzoek, vordering, confiscatie of onteigening.
+2. The Detailed Regulations form an integral part of this Convention.
 
-2. Op de eigendommen en activa van de Unie kunnen zonder de toestemming van de Secretaris-Generaal geen bestuursrechtelijke of wettelijke dwangmaatregelen worden toegepast.
+3. To the extent that the Detailed Regulations are inconsistent with any provision of this Convention, the interpretation as set forth in the Convention shall prevail.
 
-3. De archieven van de Unie zijn onschendbaar.
+### CHAPTER XIII. WITHDRAWAL FROM THE UNION
 
-4. De Unie, haar activa, inkomsten en andere eigendommen zijn vrijgesteld van alle vormen van directe belastingen.
+##### Article 25
 
-5. De Unie is vrijgesteld van alle douaneheffingen, verboden en beperkingen met betrekking tot de invoer en uitvoer van goederen voor officieel gebruik: van de aldus ingevoerde goederen wordt op het grondgebied van het land waar zij zijn ingevoerd uitsluitend afstand gedaan, al dan niet tegen betaling, onder door de regering van dat land goedgekeurde voorwaarden.
+1. Any member may withdraw from the Union by denouncing this Convention by letter addressed to the Secretary General of the union. The Secretary General shall immediately inform the other members of the Union of receipt of the letter of denunciation.
 
-6. De Unie is niet onderworpen aan financiële controles, regelingen, of moratoria van enigerlei aard, en is gerechtigd:
+2. Withdrawal shall become effective one year after the day of which the notice of denunciation provided for in paragraph 1 has been received by the Secretary General of the Union, subject to the member having at that time fulfilled all financial obligations arising out of its membership.
 
-- a. van bevoegde handelaars verhandelbare valuta's te kopen, deze te bezitten en te gebruiken; rekeningen in buitenlandse valuta en buitenlandse rekeningen aan te houden en via bevoegde handelaars fondsen en waardepapieren te kopen, te bezitten en te gebruiken;
+### CHAPTER XIV. GENERAL CONDITIONS
 
-- b. haar fondsen, waardepapieren en buitenlandse valuta's over te brengen naar of uit de lidstaten, en valuta's die zij bezit om te wisselen in welke andere valuta ook.
+##### Article 26
 
-- a. Op verzoek daartoe door de Secretaris-Generaal verlenen de bevoegde autoriteiten hun medewerking om te waarborgen dat het pand van de Zetel van de Unie de beschikking krijgt over de nodige openbare voorzieningen, waaronder elektriciteit, water, post, telefoon, telegraaf, vervoer en bescherming bij brand.
+During a meeting of the Union, the host country shall be exempted by the member countries of any sort of liability as to any form of damages occurred or inflicted on member countries or their representatives or employees of the Union attending that meeting.
 
-- b. In geval van onderbreking of dreiging van onderbreking van dergelijke openbare voorzieningen, treffen de bevoegde autoriteiten, gezien het belang van de voorzieningen waaraan het pand van de Zetel behoefte heeft, maatregelen om te waarborgen dat de werkzaamheden van de Unie niet nadelig worden beïnvloed.
+### CHAPTER XV. DISPUTES
 
-- c. De bevoegde autoriteiten zorgen er naar redelijkheid voor dat gewaarborgd wordt dat de rust van de Zetel niet wordt verstoord doordat een persoon of groep personen zich onbevoegd toegang tot de Zetel verschaft.
+##### Article 27
 
-##### Artikel 3. Communicatie
+Any dispute between the members of the Union relating to the interpretation or application of this Convention and the Detailed Regulations shall be decided by the Conference.
 
-1. De Unie geniet in de lidstaten, wat haar officiële communicatie betreft, een niet minder gunstige behandeling dan die welke door de lidstaten wordt toegekend aan diplomatieke zendingen of andere internationale organisaties.
+### CHAPTER XVI. ENTRY INTO FORCE
 
-2. Alle correspondentie van functionarissen en andere officiële communicatie van de Unie zijn vrij van censuur. Deze onschendbaarheid voor censuur strekt zich ook uit tot drukwerk, foto's, dia's, films en geluidsopnamen. Deze opsomming is niet limitatief. De Unie heeft het recht correspondentie te verzenden en te ontvangen per koerier of in verzegelde tassen, ten aanzien waarvan dezelfde voorrechten en immuniteiten gelden als voor diplomatieke koeriers en tassen.
+##### Article 28
 
-##### Artikel 4. Functionarissen en andere personeelsleden van de Unie
-
-De Secretaris-Generaal stelt de lidstaten in kennis van de categorieën functionarissen op wie dit artikel van toepassing is. De namen van de functionarissen worden op gezette tijden aan de lidstaten medegedeeld.
-
-- a. Functionarissen van de Unie genieten immuniteit van enigerlei rechtsvervolging met betrekking tot door hen gesproken of geschreven woorden en alle door hen in de uitoefening van hun officiële functie verrichte handelingen. Deze immuniteit blijft ook gelden wanneer de betrokkene geen functionaris van de Unie meer is.
-
-- b. Functionarissen van de Unie die geen onderdaan of permanent ingezetene zijn van het desbetreffende land, genieten:
-
-- i. vrijstelling van verplichtingen met betrekking tot militaire dienst;
-
-- ii. vrijstelling voor henzelf, hun gezinsleden en voor de personen te hunnen laste die deel uitmaken van hun huishouden, van inreisbeperkingen en registratieverplichtingen voor vreemdelingen;
-
-- iii. dezelfde faciliteiten met betrekking tot valuta- en wisselbeperkingen als die welke worden toegekend aan leden van diplomatieke zendingen met vergelijkbare rang.
-
-IN WITNESS WHEREOF the Plenipotentiaries of the Governments of Contracting Parties have signed this Convention in a single original which shall be deposited with the Secretary General of the Caribbean Postal Union. A copy thereof shall be delivered to each party by the Secretary General.
-
-### HOOFDSTUK I. BEGRIPSOMSCHRIJVINGEN / OPRICHTING EN DOEL VAN DE CARAÏBISCHE POSTUNIE / HANDELINGSBEVOEGDHEID
-
-### HOOFDSTUK II. LIDMAATSCHAP VAN DE UNIE / WAARNEMERS
-
-### HOOFDSTUK III. ORGANISATIE VAN DE UNIE
-
-### HOOFDSTUK IV. DE CARAÏBISCHE RAAD VAN MINISTERS VOOR POSTZAKEN
-
-### HOOFDSTUK V. DE CONFERENTIE
-
-### HOOFDSTUK VI. DE RAAD VAN BEHEER / FUNCTIES / WERKGROEPEN
-
-### HOOFDSTUK VII. DE SECRETARIS-GENERAAL / HET SECRETARIAAT
-
-### HOOFDSTUK VIII. ZETEL / EIGENDOMMEN / FONDSEN / ACTIVA / EN WERKZAAMHEDEN VAN DE UNIE
-
-### HOOFDSTUK IX. OFFICIËLE TALEN / COMMUNICATIE
-
-### HOOFDSTUK X. INDIENING VAN VOORSTELLEN / QUORUM / BESLUITEN VAN DE CONFERENTIE EN DE RAAD VAN BEHEER
-
-### HOOFDSTUK XI. UITGAVEN VAN DE UNIE / MUNTEENHEID
-
-##### Artikel 23
-
-1. Op basis van de door de Caraïbische Raad van ministers voor Postzaken vastgestelde strategie stelt de Conferentie het maximumbedrag van de uitgaven van de Unie vast en de beginselen die van toepassing zijn op de jaarlijkse uitgaven tot en met de volgende gewone vergadering van de Conferentie.
-
-2. De contributie aan de Unie wordt berekend in US$ (Amerikaanse dollars), maar kan worden betaald in elke andere inwisselbare munteenheid.
-
-3. Ter dekking van de uitgaven van de Unie betalen de leden een jaarlijkse contributie waarvan de hoogte door de Conferentie wordt overeengekomen.
-
-4. Indien de door de Conferentie goedgekeurde limieten ontoereikend blijken voor het goed functioneren van de Unie, kunnen deze limieten na overleg met alle leden en na voorafgaande goedkeuring door de Raad van Beheer worden overschreden.
-
-5. De leden betalen hun bijdrage aan de uitgaven van de Unie vooraf of in twee termijnen. De bijdragen moeten uiterlijk op 1 januari en op 1 juli van het boekjaar waarop zij betrekking hebben, aan het Secretariaat worden betaald. Na die datum kan het bedrag van de bijdragen worden verhoogd met een rente van vijf procent per jaar ten gunste van de Unie.
-
-6. Lidstaten van wie de totale bijdragen meer dan twee jaar achterstallig zijn, verliezen hun stemrecht totdat zij hun schulden hebben voldaan of totdat zij met het Secretariaat een regeling voor de afbetaling van hun schuld hebben getroffen.
-
-7. Een reservefonds wordt in het leven geroepen dat wordt gecreëerd uit begrotingsoverschotten en vrijwillige bijdragen om tijdelijke financieringstekorten op te vangen en om, ter bepaling door de Raad van Beheer, bijzondere, onvoorziene uitgaven het hoofd te bieden.
-
-8. Het boekjaar van de Unie valt samen met het kalenderjaar.
-
-### HOOFDSTUK XII. GEDETAILLEERDE VOORSCHRIFTEN
-
-##### Artikel 24
-
-1. Bepalingen voor de uitvoering van dit Verdrag en bepalingen voor het functioneren van de Conferentie en de Raad van Beheer worden neergelegd in de Gedetailleerde Voorschriften, die door de Secretaris-Generaal, in overleg met de leden, worden opgesteld en door de Conferentie worden goedgekeurd.
-
-2. De Gedetailleerde Voorschriften vormen een integrerend onderdeel van dit Verdrag.
-
-3. Voor zover de Gedetailleerde Voorschriften in strijd zijn met enige bepaling in dit Verdrag, is de uitlegging vervat in het Verdrag doorslaggevend.
-
-### HOOFDSTUK XIII. TERUGTREKKING UIT DE UNIE
-
-##### Artikel 25
-
-1. Een lid kan zich uit de Unie terugtrekken door dit Verdrag op te zeggen door middel van een brief gericht aan de Secretaris-Generaal van de Unie. De Secretaris-Generaal brengt de andere leden van de Unie onverwijld van de ontvangst van de opzeggingsbrief op de hoogte.
-
-2. De opzegging wordt van kracht een jaar na de datum waarop de in het eerste lid bedoelde kennisgeving van opzegging door de Secretaris-Generaal van de Unie is ontvangen, mits het lid op dat tijdstip aan alle uit zijn lidmaatschap voortvloeiende financiële verplichtingen heeft voldaan.
-
-### HOOFDSTUK XIV. ALGEMENE VOORWAARDEN
-
-##### Artikel 26
-
-Tijdens een vergadering van de Unie wordt het gastland door de lidstaten gevrijwaard van enige vorm van aansprakelijkheid of vergoeding van enigerlei schade ontstaan bij of toegebracht aan de lidstaten of hun vertegenwoordigers of personeelsleden van de Unie die de vergadering bijwonen.
-
-### HOOFDSTUK XV. GESCHILLEN
-
-##### Artikel 27
-
-Geschillen tussen de leden van Unie met betrekking tot de interpretatie of toepassing van dit Verdrag en de Gedetailleerde Voorschriften, worden beslecht door de Conferentie.
-
-### HOOFDSTUK XVI. INWERKINGTREDING
-
-##### Artikel 28
-
-De datum van inwerkingtreding van deze wijzigingen wordt door de Conferentie vastgesteld.
-
-De Verdragsluitende Partijen,
-
-Overwegende dat de Unie, overeenkomstig artikel 19 van het Verdrag tot oprichting van de Caraïbische Postunie, op het grondgebied van de lidstaten de voorrechten en immuniteiten geniet die nodig zijn voor de uitoefening van haar functies,
-
-Komen het volgende overeen:
-
-### HOOFDSTUK I
-
-##### Artikel 1
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### Artikel 2
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### Artikel 3
-
-De tekst van de vertaling is niet beschikbaar.
-
-### HOOFDSTUK II
-
-##### Artikel 4
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### Artikel 5
-
-De tekst van de vertaling is niet beschikbaar.
-
-### HOOFDSTUK III
-
-##### Artikel 6
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### Artikel 7
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### Artikel 8
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### Artikel 9
-
-De tekst van de vertaling is niet beschikbaar.
-
-### HOOFDSTUK IV
-
-##### Artikel 10
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### Artikel 11
-
-De tekst van de vertaling is niet beschikbaar.
-
-### HOOFDSTUK V
-
-##### Artikel 12
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### Artikel 13
-
-De tekst van de vertaling is niet beschikbaar.
-
-### HOOFDSTUK VI
-
-##### Artikel 14
-
-De tekst van de vertaling is niet beschikbaar.
-
-### HOOFDSTUK VII
-
-##### Artikel 15
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### Artikel 16
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### Artikel 17
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### Artikel 18
-
-De tekst van de vertaling is niet beschikbaar.
-
-### HOOFDSTUK VIII
-
-##### Artikel 19
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### Artikel 20
-
-De tekst van de vertaling is niet beschikbaar.
-
-### HOOFDSTUK IX
-
-##### Artikel 21
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### Artikel 22
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### Artikel 23
-
-De tekst van de vertaling is niet beschikbaar.
-
-### HOOFDSTUK X
-
-##### Artikel 24
-
-De tekst van de vertaling is niet beschikbaar.
-
-### HOOFDSTUK XI
-
-##### Artikel 25
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### Artikel 26
-
-De tekst van de vertaling is niet beschikbaar.
-
-### HOOFDSTUK XII
-
-##### Artikel 27
-
-De tekst van de vertaling is niet beschikbaar.
+The date for entering in force of these amendments shall be determined by Conference.
 
 IN WITNESS WHEREOF the Plenipotentiaries of the Governments of Contracting Parties have signed this Convention in a single original which shall be deposited with the Secretary General of the Union. The Secretary General shall have a copy of this Convention delivered to each party.

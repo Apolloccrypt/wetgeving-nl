@@ -1,53 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Paraguay inzake de export en handhaving van socialezekerheidsuitkeringen"
 identifier: "BWBV0002897"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-03-01"
-last_updated: "2003-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002897"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10003218233"
-version_id: "10003233912"
-internal_id: "C10006996091"
-label_id: "10003204194"
-dtd_version: "2.0"
-original_entry_into_force: "2008-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002897/2008-03-01/0"
-intitule_bron: "Trb.2006-35"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-02-01"
-intitule_published: "2006-02-17"
-intitule_in_force: "2008-04-02"
-intitule_status: "goed"
-original_publication: "Trb.2006-35"
-original_signed_date: "2006-02-01"
-original_published_date: "2006-02-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2006-35"
-entry_into_force_date: "2008-03-01"
-jci_1_3: "jci1.3:c:BWBV0002897&z=2008-03-01&g=2008-03-01"
-jci_1_0: "1.0:c:BWBV0002897&g=2008-03-01"
-citeertitel_status: "redactioneel"
-signed_date: "2006-02-01"
-entry_into_force: "2008-03-01"
+publicatiedatum: 2008-03-01
+laatste_update: 2008-03-01
+status: geldig
+toestand: 2008-03-01
+bron: "https://wetten.overheid.nl/BWBV0002897"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Paraguay inzake de export en handhaving van socialezekerheidsuitkeringen
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Republiek Paraguay,
-
-Hierna te noemen de Verdragsluitende Partijen,
-
-Geleid door de wens betrekkingen op het gebied van sociale zekerheid tot stand te brengen,
-
-Geleid door de wens de samenwerking tussen de twee staten te regelen ter waarborging van de handhaving van de wetgeving van het ene land in het andere,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Republiek Paraguay, Hierna te noemen de Verdragsluitende Partijen, Geleid door de wens betrekkingen op het gebied van sociale zekerheid tot stand te brengen, Geleid door de wens de samenwerking tussen de twee staten te regelen ter waarborging van de handhaving van de wetgeving van het ene land in het andere, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -201,6 +167,6 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN te Asunción, op 22 december 2005, in tweevoud, in de Nederlandse, de Spaanse en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschil in interpretatie is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
-**Voor de Republiek Paraguay**
+*Voor de Republiek Paraguay*

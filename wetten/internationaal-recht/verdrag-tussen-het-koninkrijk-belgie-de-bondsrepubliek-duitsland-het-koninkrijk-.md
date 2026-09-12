@@ -1,55 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk België, de Bondsrepubliek Duitsland, het Koninkrijk Spanje, de Republiek Frankrijk, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en de Republiek Oostenrijk inzake de intensivering van de grensoverschrijdende samenwerking, in het bijzonder ter bestrijding van het terrorisme, de grensoverschrijdende criminaliteit en de illegale migratie"
 identifier: "BWBV0002898"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-05-20"
-last_updated: "2005-05-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002898"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003218503"
-version_id: "10003234772"
-internal_id: "C10006997441"
-label_id: "10003205044"
-dtd_version: "2.0"
-original_entry_into_force: "2008-05-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002898/2008-05-20/0"
-intitule_bron: "Trb.2005-197"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-02-20"
-intitule_published: "2005-08-31"
-intitule_in_force: "2008-04-15"
-intitule_status: "goed"
-original_publication: "Trb.2005-197"
-original_signed_date: "2008-02-20"
-original_published_date: "2005-08-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2005-197"
-entry_into_force_date: "2008-05-20"
-jci_1_3: "jci1.3:c:BWBV0002898&z=2008-05-20&g=2008-05-20"
-jci_1_0: "1.0:c:BWBV0002898&g=2008-05-20"
-citeertitel_status: "redactioneel"
-signed_date: "2008-02-20"
-entry_into_force: "2008-05-20"
+publicatiedatum: 2008-05-20
+laatste_update: 2008-05-20
+status: geldig
+toestand: 2008-05-20
+bron: "https://wetten.overheid.nl/BWBV0002898"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tussen het Koninkrijk België, de Bondsrepubliek Duitsland, het Koninkrijk Spanje, de Republiek Frankrijk, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en de Republiek Oostenrijk inzake de intensivering van de grensoverschrijdende samenwerking, in het bijzonder ter bestrijding van het terrorisme, de grensoverschrijdende criminaliteit en de illegale migratie
 
-De hoge Verdragsluitende Partijen bij dit Verdrag, zijnde lidstaten van de Europese Unie,
-
-Overwegende dat het in een ruimte van vrij verkeer van personen van belang is dat de lidstaten van de Europese Unie hun samenwerking versterken teneinde terrorisme, grensoverschrijdende criminaliteit en illegale migratie effectiever te bestrijden,
-
-In het streven – onverminderd de bepalingen van het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) – ter verdere ontwikkeling van de Europese samenwerking een voortrekkersrol bij de totstandkoming van een zo hoog mogelijke standaard op het gebied van de samenwerking te vervullen, met name door verbeterde gegevensuitwisseling, in het bijzonder op het terrein van de bestrijding van terrorisme, de grensoverschrijdende criminaliteit alsmede de illegale migratie, en de deelname aan deze samenwerking voor alle andere lidstaten van de Europese Unie open te stellen,
-
-In het streven de regelingen van dit Verdrag in het juridisch raamwerk van de Europese Unie op te nemen teneinde binnen de Europese Unie verbetering van de gegevensuitwisseling, in het bijzonder op het terrein van de bestrijding van terrorisme, de grensoverschrijdende criminaliteit alsmede de illegale migratie, te bereiken en hiervoor de noodzakelijke juridische en technische voorwaarden te creëren,
-
-Met inachtneming van de grondrechten voortvloeiend uit het Handvest van de grondrechten van de Europese Unie, het Europees Verdrag tot bescherming van de Rechten van de Mens en de Fundamentele Vrijheden alsmede de gezamenlijke grondwettelijke tradities van de betrokken staten, in het bijzonder in het bewustzijn dat de verstrekking van persoonsgegevens aan een andere Verdragsluitende Partij vereist dat een redelijk niveau van gegevensbescherming door de ontvangende Verdragsluitende Partij gewaarborgd is,
-
-Overwegend dat – onverminderd het thans geldende nationale recht – adequate gerechtelijke controle van de in dit Verdrag voorziene maatregelen, gehandhaafd en geregeld dient te worden,
-
-In het streven dit Verdrag door nadere overeenkomsten aan te vullen teneinde de geautomatiseerde bevraging van gegevens uit andere geschikte registers mogelijk te maken, voor zover zulks ter intensivering van de grensoverschrijdende samenwerking noodzakelijk en redelijk is,
-
-Zijn als volgt overeengekomen:
+*De hoge Verdragsluitende Partijen bij dit Verdrag, zijnde lidstaten van de Europese Unie, Overwegende dat het in een ruimte van vrij verkeer van personen van belang is dat de lidstaten van de Europese Unie hun samenwerking versterken teneinde terrorisme, grensoverschrijdende criminaliteit en illegale migratie effectiever te bestrijden, In het streven – onverminderd de bepalingen van het Verdrag betreffende de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap – ter verdere ontwikkeling van de Europese samenwerking een voortrekkersrol bij de totstandkoming van een zo hoog mogelijke standaard op het gebied van de samenwerking te vervullen, met name door verbeterde gegevensuitwisseling, in het bijzonder op het terrein van de bestrijding van terrorisme, de grensoverschrijdende criminaliteit alsmede de illegale migratie, en de deelname aan deze samenwerking voor alle andere lidstaten van de Europese Unie open te stellen, In het streven de regelingen van dit Verdrag in het juridisch raamwerk van de Europese Unie op te nemen teneinde binnen de Europese Unie verbetering van de gegevensuitwisseling, in het bijzonder op het terrein van de bestrijding van terrorisme, de grensoverschrijdende criminaliteit alsmede de illegale migratie, te bereiken en hiervoor de noodzakelijke juridische en technische voorwaarden te creëren, Met inachtneming van de grondrechten voortvloeiend uit het Handvest van de grondrechten van de Europese Unie, het Europees Verdrag tot bescherming van de Rechten van de Mens en de Fundamentele Vrijheden alsmede de gezamenlijke grondwettelijke tradities van de betrokken staten, in het bijzonder in het bewustzijn dat de verstrekking van persoonsgegevens aan een andere Verdragsluitende Partij vereist dat een redelijk niveau van gegevensbescherming door de ontvangende Verdragsluitende Partij gewaarborgd is, Overwegend dat – onverminderd het thans geldende nationale recht – adequate gerechtelijke controle van de in dit Verdrag voorziene maatregelen, gehandhaafd en geregeld dient te worden, In het streven dit Verdrag door nadere overeenkomsten aan te vullen teneinde de geautomatiseerde bevraging van gegevens uit andere geschikte registers mogelijk te maken, voor zover zulks ter intensivering van de grensoverschrijdende samenwerking noodzakelijk en redelijk is, Zijn als volgt overeengekomen:*
 
 ### HOOFDSTUK 1. ALGEMEEN DEEL
 
@@ -195,7 +159,7 @@ Ter uitvoering van de taken uit hoofde van de artikelen 17 en 18 benoemt elke Ve
 
 ##### Artikel 20. Documentadviseurs
 
-1. De Verdragsluitende Partijen maken op basis van gezamenlijke situatiebeoordelingen en met in achtneming van de relevante bepalingen van [Verordening (EG) Nr. 377/2004](32004R0377) van de Raad van de Europese Unie van 19 februari 2004 betreffende de oprichting van een netwerk van immigratieverbindingsfunctionarissen, afspraken over de uitzending van documentadviseurs naar staten, die als land van herkomst of transitland van illegale migratie worden aangemerkt.
+1. De Verdragsluitende Partijen maken op basis van gezamenlijke situatiebeoordelingen en met in achtneming van de relevante bepalingen van Verordening (EG) Nr. 377/2004 van de Raad van de Europese Unie van 19 februari 2004 betreffende de oprichting van een netwerk van immigratieverbindingsfunctionarissen, afspraken over de uitzending van documentadviseurs naar staten, die als land van herkomst of transitland van illegale migratie worden aangemerkt.
 
 2. Op basis van hun nationale recht wisselen de Verdragsluitende Partijen regelmatig de via de werkzaamheden van hun documentadviseurs verzamelde informatie over de illegale migratie uit.
 
@@ -219,7 +183,7 @@ De Verdragsluitende Partijen benoemen nationale contact- en coördinatiepunten d
 
 ##### Artikel 23. Ondersteuning bij repatriëringsmaatregelen
 
-1. De Verdragsluitende Partijen ondersteunen elkaar bij repatriëringsmaatregelen met in achtneming van de beschikking 2004/573/EG van de Raad van de Europese Unie van 29 april 2004 inzake het organiseren van gezamenlijke vluchten voor de verwijdering van onderdanen van derde landen tegen wie individuele verwijderingsmaatregelen zijn genomen van het grondgebied van twee of meer lidstaten en [Richtlijn 2003/110/EG](32003L0110) van de Raad van de Europese Unie van 25 november 2003 betreffende de ondersteuning bij doorgeleiding in het kader van maatregelen tot verwijderingen door de lucht. Zij informeren elkaar vroegtijdig over geplande repatriëringsmaatregelen en stellen de andere Verdragsluitende Partijen, voor zover mogelijk, in de gelegenheid hieraan deel te nemen. Bij gezamenlijke repatriëringsmaatregelen stemmen de Verdragsluitende Partijen over de begeleiding van de te repatriëren personen en de veiligheidsmaatregelen met elkaar af.
+1. De Verdragsluitende Partijen ondersteunen elkaar bij repatriëringsmaatregelen met in achtneming van de beschikking 2004/573/EG van de Raad van de Europese Unie van 29 april 2004 inzake het organiseren van gezamenlijke vluchten voor de verwijdering van onderdanen van derde landen tegen wie individuele verwijderingsmaatregelen zijn genomen van het grondgebied van twee of meer lidstaten en Richtlijn 2003/110/EG van de Raad van de Europese Unie van 25 november 2003 betreffende de ondersteuning bij doorgeleiding in het kader van maatregelen tot verwijderingen door de lucht. Zij informeren elkaar vroegtijdig over geplande repatriëringsmaatregelen en stellen de andere Verdragsluitende Partijen, voor zover mogelijk, in de gelegenheid hieraan deel te nemen. Bij gezamenlijke repatriëringsmaatregelen stemmen de Verdragsluitende Partijen over de begeleiding van de te repatriëren personen en de veiligheidsmaatregelen met elkaar af.
 
 2. Een Verdragsluitende Partij mag te repatriëren personen, zo nodig, over het grondgebied van een andere Verdragsluitende Partij repatriëren. De beslissing over de repatriëringsmaatregel berust bij de Verdragsluitende Partij over wier grondgebied de repatriëring zal geschieden. Bij de beslissing over de repatriëring bepaalt zij de voorwaarden voor de uitvoering ervan en legt, zo nodig, tevens de naar haar nationale recht toegestane vrijheidsbeperkende middelen aan de te repatriëren persoon op.
 
@@ -413,11 +377,11 @@ In plaats van het wissen komt een afscherming met inachtneming van het nationale
 
 - 2. Elke Verdragsluitende Partij waarborgt dat iedere verstrekking en iedere ontvangst van persoonsgegevens door de instantie die het dossier beheert en de bevragende instantie wordt geprotocolleerd, inclusief de mededeling ten aanzien van het bestaan of niet bestaan van een hit. De protocollering omvat de volgende informatie: De bevragende instantie protocolleert bovendien de aanleiding van de bevraging of verstrekking alsmede het kenmerk van de ambtenaar die de bevraging heeft uitgevoerd en de ambtenaar die voor de bevraging of de verstrekking opdracht heeft gegeven.
 
-- a. de verstrekte gegevens;
+   - a. de verstrekte gegevens;
 
-- b. de datum en het precieze tijdstip van de verstrekking; en
+   - b. de datum en het precieze tijdstip van de verstrekking; en
 
-- c. de aanduiding of het kenmerk van de bevragende instantie en de instantie die het bestand beheert.
+   - c. de aanduiding of het kenmerk van de bevragende instantie en de instantie die het bestand beheert.
 
 3. De protocollerende instantie deelt de geprotocolleerde gegevens op verzoek mee aan de voor de controle van de gegevensbescherming bevoegde instanties van de desbetreffende Verdragsluitende Partij en wel onverwijld, maar uiterlijk binnen vier weken na binnenkomst van het verzoek. Geprotocolleerde gegevens mogen uitsluitend worden gebruikt voor de volgende doeleinden:
 
@@ -431,7 +395,7 @@ In plaats van het wissen komt een afscherming met inachtneming van het nationale
 
 ##### Artikel 40. Rechten van de betrokkenen en schadevergoeding
 
-1. Aan de betrokkene dient met inachtneming van het nationale recht onder het overleggen van bewijs van zijn identiteit, op verzoek van de op grond van het nationaal recht bevoegde instantie, zonder onredelijke kosten, in algemeen begrijpelijke vorm en zonder onaanvaardbare vertraging informatie te worden verstrekt over de met betrekking tot zijn persoon verwerkte gegevens alsmede over de herkomst daarvan, de ontvanger of ontvangercategorieën, het beoogde doel van de verwerking en de rechtsgrond voor de verwerking. Bovendien heeft de betrokkene het recht op correctie van onjuiste gegevens en op het wissen van onrechtmatig verwerkte gegevens. De Verdragsluitende Partijen waarborgen bovendien dat de betrokkene zich in geval van inbreuk op zijn rechten met betrekking tot gegevensbescherming met een effectieve klacht tot een onafhankelijke rechtbank of een tribunaal in de zin van artikel 6, eerste lid, van het Europese Verdrag van de rechten van de mens alsmede een onafhankelijke controle-instantie in de zin van artikel 28 van [Richtlijn 95/46/EG](31995L0046) van de Raad van de Europese Unie van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens, kan wenden en dat hem de mogelijkheid wordt geboden om een aanspraak op schadevergoeding of een andere vorm van genoegdoening in rechte geldend te maken. De nadere bijzonderheden met betrekking tot de procedure ter realisering van deze rechten en de redenen voor het beperken van het recht op kennisneming richten zich naar de desbetreffende nationale wettelijke voorschriften van de staat, waarin hij zijn rechten geldend maakt.
+1. Aan de betrokkene dient met inachtneming van het nationale recht onder het overleggen van bewijs van zijn identiteit, op verzoek van de op grond van het nationaal recht bevoegde instantie, zonder onredelijke kosten, in algemeen begrijpelijke vorm en zonder onaanvaardbare vertraging informatie te worden verstrekt over de met betrekking tot zijn persoon verwerkte gegevens alsmede over de herkomst daarvan, de ontvanger of ontvangercategorieën, het beoogde doel van de verwerking en de rechtsgrond voor de verwerking. Bovendien heeft de betrokkene het recht op correctie van onjuiste gegevens en op het wissen van onrechtmatig verwerkte gegevens. De Verdragsluitende Partijen waarborgen bovendien dat de betrokkene zich in geval van inbreuk op zijn rechten met betrekking tot gegevensbescherming met een effectieve klacht tot een onafhankelijke rechtbank of een tribunaal in de zin van artikel 6, eerste lid, van het Europese Verdrag van de rechten van de mens alsmede een onafhankelijke controle-instantie in de zin van artikel 28 van Richtlijn 95/46/EG van de Raad van de Europese Unie van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens, kan wenden en dat hem de mogelijkheid wordt geboden om een aanspraak op schadevergoeding of een andere vorm van genoegdoening in rechte geldend te maken. De nadere bijzonderheden met betrekking tot de procedure ter realisering van deze rechten en de redenen voor het beperken van het recht op kennisneming richten zich naar de desbetreffende nationale wettelijke voorschriften van de staat, waarin hij zijn rechten geldend maakt.
 
 2. Als een instantie van de ene Verdragsluitende Partij persoonsgegevens heeft verstrekt uit hoofde van dit Verdrag, kan de ontvangende instantie van de andere Verdragsluitende Partij zich er in het kader van haar aansprakelijkheid met inachtneming van het nationale recht jegens de benadeelde niet op beroepen dat de verstrekte gegevens onjuist zijn geweest. Verstrekt de ontvangende instantie schadevergoeding wegens een schade, die door het gebruik van onjuist verstrekte gegevens is veroorzaakt, dan vergoedt de verstrekkende instantie de ontvangende instantie het totale bedrag van de toegekende schadevergoeding.
 

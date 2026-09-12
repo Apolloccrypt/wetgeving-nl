@@ -1,48 +1,18 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Bolivia inzake sociale zekerheid"
 identifier: "BWBV0001785"
-country: "nl"
-rank: "verdrag"
-publication_date: "2005-12-21"
-last_updated: "2005-12-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001785"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10002153293"
-version_id: "10002251562"
-internal_id: "C10006995441"
-label_id: "10002143594"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001785/2005-12-21/0"
-intitule_bron: "Trb.2006-22"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-02-01"
-intitule_published: "2006-02-06"
-intitule_status: "nogniet"
-original_publication: "Trb.2006-22"
-original_signed_date: "2006-02-01"
-original_published_date: "2006-02-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2006-22"
-jci_1_3: "jci1.3:c:BWBV0001785&z=2005-12-21&g=2005-12-21"
-jci_1_0: "1.0:c:BWBV0001785&g=2005-12-21"
-citeertitel_status: "redactioneel"
-signed_date: "2006-02-01"
-entry_into_force: "2006-02-06"
+laatste_update: 2005-12-21
+status: geldig
+toestand: 2005-12-21
+bron: "https://wetten.overheid.nl/BWBV0001785"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Bolivia inzake sociale zekerheid
 
-Het Koninkrijk der Nederlanden
-
-en
-
-De Republiek Bolivia,
-
-Hierna te noemen de Verdragsluitende Partijen,
-
-Vast besloten samen te werken op het gebied van sociale zekerheid;
-
-Hebben besloten hiertoe een Verdrag te sluiten, en zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en De Republiek Bolivia, Hierna te noemen de Verdragsluitende Partijen, Vast besloten samen te werken op het gebied van sociale zekerheid; Hebben besloten hiertoe een Verdrag te sluiten, en zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
@@ -144,7 +114,7 @@ De bevoegde autoriteiten van beide Verdragsluitende Partijen of de door de bevoe
 
 - b. wat Nederland betreft, de Sociale Verzekeringsbank.
 
-- a. Wanneer de wetgeving van een Verdragsluitende Partij van toepassing is onder de omstandigheden omschreven in artikel 6 van het Verdrag, geeft het orgaan van die Verdragsluitende Partij op verzoek van de werknemer of van de werkgever van die werknemer een verklaring af dat de werknemer ter zake van de desbetreffende werkzaamheden tot aan de vermelde datum onderworpen is aan die wetgeving.
+2. - a. Wanneer de wetgeving van een Verdragsluitende Partij van toepassing is onder de omstandigheden omschreven in artikel 6 van het Verdrag, geeft het orgaan van die Verdragsluitende Partij op verzoek van de werknemer of van de werkgever van die werknemer een verklaring af dat de werknemer ter zake van de desbetreffende werkzaamheden tot aan de vermelde datum onderworpen is aan die wetgeving.
 
 - b. Wanneer de werknemer zoals omschreven in het tweede lid, onder a, van dit artikel op het grondgebied van de andere Verdragsluitende Partij een werkkring bij een andere op dat grondgebied gevestigde werkgever aanvaardt, dient de werknemer het orgaan dat de verklaring heeft afgegeven daarvan onverwijld in kennis te stellen. Dat orgaan trekt vervolgens de verklaring in en stelt het orgaan van de andere Verdragsluitende Partij daarvan in kennis.
 
@@ -248,13 +218,13 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN in tweevoud te La Paz op 21 december 2005 in de Nederlandse en de Spaanse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 RONALD C. J. MUYZERT
 
 Buitengewoon en Gevolmachtigd Ambassadeur
 
-**Voor de Republiek Bolivia,**
+*Voor de Republiek Bolivia,*
 
 ARMANDO LOALZA MARIACA
 

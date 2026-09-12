@@ -1,77 +1,43 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Hasjemitisch Koninkrijk Jordanië inzake de export van socialeverzekeringsuitkeringen"
 identifier: "BWBV0001591"
-country: "nl"
-rank: "verdrag"
-publication_date: "2006-04-01"
-last_updated: "2003-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001591"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10001397573"
-version_id: "10001466862"
-internal_id: "C10006993531"
-label_id: "10001397804"
-dtd_version: "2.0"
-original_entry_into_force: "2006-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001591/2006-04-01/0"
-intitule_bron: "Trb.2003-84"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-06-01"
-intitule_published: "2003-06-11"
-intitule_in_force: "2006-03-08"
-intitule_status: "goed"
-original_publication: "Trb.2003-84"
-original_signed_date: "2003-06-01"
-original_published_date: "2003-06-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2003-84"
-entry_into_force_date: "2006-04-01"
-jci_1_3: "jci1.3:c:BWBV0001591&z=2006-04-01&g=2006-04-01"
-jci_1_0: "1.0:c:BWBV0001591&g=2006-04-01"
-citeertitel_status: "redactioneel"
-signed_date: "2003-06-01"
-entry_into_force: "2006-04-01"
+publicatiedatum: 2006-04-01
+laatste_update: 2006-04-01
+status: geldig
+toestand: 2006-04-01
+bron: "https://wetten.overheid.nl/BWBV0001591"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Hasjemitisch Koninkrijk Jordanië inzake de export van socialeverzekeringsuitkeringen
 
-Het Koninkrijk der Nederlanden
-
-en
-
-het Hasjemitisch Koninkrijk Jordanië,
-
-hierna te noemen de Verdragsluitende Partijen,
-
-geleid door de wens betrekkingen op het gebied van de sociale zekerheid tot stand te brengen;
-
-geleid door de wens de samenwerking tussen de twee Staten te regelen ter waarborging van de naleving van de wetgeving van het ene land in het andere;
-
-zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en het Hasjemitisch Koninkrijk Jordanië, hierna te noemen de Verdragsluitende Partijen, geleid door de wens betrekkingen op het gebied van de sociale zekerheid tot stand te brengen; geleid door de wens de samenwerking tussen de twee Staten te regelen ter waarborging van de naleving van de wetgeving van het ene land in het andere; zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
 1. Voor de toepassing van dit Verdrag wordt verstaan onder:
 
-- a. „grondgebied", met betrekking tot het Koninkrijk der Nederlanden: het grondgebied van het Koninkrijk in Europa;
+- a „grondgebied", met betrekking tot het Koninkrijk der Nederlanden: het grondgebied van het Koninkrijk in Europa;
 
-- b. „bevoegde autoriteit", met betrekking tot het Hasjemitisch Koninkrijk Jordanië: de minister van Arbeid/de Voorzitter van de Raad van Bestuur van de Socialezekerheidscorporatie, en met betrekking tot het Koninkrijk der Nederlanden: de minister van Sociale Zaken en Werkgelegenheid van Nederland;
+- b „bevoegde autoriteit", met betrekking tot het Hasjemitisch Koninkrijk Jordanië: de minister van Arbeid/de Voorzitter van de Raad van Bestuur van de Socialezekerheidscorporatie, en met betrekking tot het Koninkrijk der Nederlanden: de minister van Sociale Zaken en Werkgelegenheid van Nederland;
 
-- c. „bevoegd orgaan", met betrekking tot het Hasjemitisch Koninkrijk Jordanië: de Socialezekerheidscorporatie, en met betrekking tot het Koninkrijk der Nederlanden betreffende de takken van sociale verzekering bedoeld in artikel 2, eerste lid, onder a, b en c: het Landelijk Instituut Sociale Verzekeringen, p/a GAK Nederland BV, en betreffende de takken van sociale verzekering bedoeld in artikel 2, eerste lid, onder d, e en f: de Sociale Verzekeringsbank of elk lichaam dat bevoegd is taken te verrichten die thans worden uitgevoerd door de genoemde organen;
+- c „bevoegd orgaan", met betrekking tot het Hasjemitisch Koninkrijk Jordanië: de Socialezekerheidscorporatie, en met betrekking tot het Koninkrijk der Nederlanden betreffende de takken van sociale verzekering bedoeld in artikel 2, eerste lid, onder a, b en c: het Landelijk Instituut Sociale Verzekeringen, p/a GAK Nederland BV, en betreffende de takken van sociale verzekering bedoeld in artikel 2, eerste lid, onder d, e en f: de Sociale Verzekeringsbank of elk lichaam dat bevoegd is taken te verrichten die thans worden uitgevoerd door de genoemde organen;
 
-- d. „wetgeving", de wetgeving met betrekking tot de takken van sociale zekerheid genoemd in artikel 2;
+- d „wetgeving", de wetgeving met betrekking tot de takken van sociale zekerheid genoemd in artikel 2;
 
-- e. „uitkering", elke uitkering of elk pensioen krachtens de wetgeving;
+- e „uitkering", elke uitkering of elk pensioen krachtens de wetgeving;
 
-- f. „uitkeringsgerechtigde", een persoon die een uitkering aanvraagt of recht heeft op een uitkering;
+- f „uitkeringsgerechtigde", een persoon die een uitkering aanvraagt of recht heeft op een uitkering;
 
-- g. „gezinslid", een persoon die als zodanig wordt omschreven of aangemerkt door de wetgeving;
+- g „gezinslid", een persoon die als zodanig wordt omschreven of aangemerkt door de wetgeving;
 
-- h. „wonen", regulier wonen;
+- h „wonen", regulier wonen;
 
-- i. „verblijven", tijdelijk wonen;
+- i „verblijven", tijdelijk wonen;
 
-- j. „uitvoeringsorganen", elke organisatie die betrokken is bij de uitvoering van dit Verdrag, met inbegrip van onder meer de bevolkingsregisters, geboorte-, overlijdens- en huwelijksregisters, scholen en andere onderwijsinstellingen, de politie, het gevangeniswezen en immigratiediensten.
+- j „uitvoeringsorganen", elke organisatie die betrokken is bij de uitvoering van dit Verdrag, met inbegrip van onder meer de bevolkingsregisters, geboorte-, overlijdens- en huwelijksregisters, scholen en andere onderwijsinstellingen, de politie, het gevangeniswezen en immigratiediensten.
 
 2. Andere in dit Verdrag gebruikte termen hebben de betekenis die daaraan in de toegepaste wetgeving wordt gegeven.
 
@@ -81,23 +47,23 @@ Dit Verdrag is van toepassing:
 
 1. Ten aanzien van het Hasjemitisch Koninkrijk Jordanië, op de wetgeving inzake de volgende takken van sociale zekerheid:
 
-- a. verzekering tegen arbeidsongevallen en beroepsziekten;
+- a verzekering tegen arbeidsongevallen en beroepsziekten;
 
-- b. arbeidsongeschiktheids-, ouderdoms- en nabestaandenverzekeringen.
+- b arbeidsongeschiktheids-, ouderdoms- en nabestaandenverzekeringen.
 
 2. Ten aanzien van het Koninkrijk der Nederlanden, op de Nederlandse wetgeving inzake de volgende takken van sociale verzekering:
 
-- a. ziekte- en moederschapsuitkeringen;
+- a ziekte- en moederschapsuitkeringen;
 
-- b. arbeidsongeschiktheidsuitkeringen voor werknemers;
+- b arbeidsongeschiktheidsuitkeringen voor werknemers;
 
-- c. arbeidsongeschiktheidsuitkeringen voor zelfstandigen;
+- c arbeidsongeschiktheidsuitkeringen voor zelfstandigen;
 
-- d. pensioenuitkeringen;
+- d pensioenuitkeringen;
 
-- e. nabestaandenuitkeringen;
+- e nabestaandenuitkeringen;
 
-- f. kinderbijslagen.
+- f kinderbijslagen.
 
 ##### Artikel 3. Personele werkingssfeer
 
@@ -145,9 +111,9 @@ Tenzij in dit Verdrag anders is bepaald, is dit Verdrag zowel van toepassing op 
 
 2. Een beslissing of uitspraak als bedoeld in het eerste lid wordt niet erkend:
 
-- a. indien een dergelijke erkenning strijdig is met de openbare orde in de Staat waar om erkenning wordt verzocht;
+- a indien een dergelijke erkenning strijdig is met de openbare orde in de Staat waar om erkenning wordt verzocht;
 
-- b. wanneer de beslissing is genomen of uitspraak is gedaan bij verstek, indien de dagvaarding niet naar behoren tijdig aan de gedaagde is betekend zodat hij voor zijn verdediging heeft kunnen zorgen.
+- b wanneer de beslissing is genomen of uitspraak is gedaan bij verstek, indien de dagvaarding niet naar behoren tijdig aan de gedaagde is betekend zodat hij voor zijn verdediging heeft kunnen zorgen.
 
 3. Voor tenuitvoerlegging van vatbare beslissingen en uitspraken die ingevolge het eerste en tweede lid zijn erkend, worden door de andere Verdragsluitende Partij ten uitvoer gelegd in overeenstemming met de op het grondgebied van die Staat van kracht zijnde wettelijke bepalingen die van toepassing zijn op de tenuitvoerlegging van soortgelijke beslissingen en uitspraken.
 
@@ -155,9 +121,9 @@ Tenzij in dit Verdrag anders is bepaald, is dit Verdrag zowel van toepassing op 
 
 Het bevoegde orgaan van een Verdragsluitende Partij kan weigeren een uitkering toe te kennen of de betaling ervan opschorten of intrekken indien:
 
-- a. een uitkeringsgerechtigde of een lid van zijn gezin heeft verzuimd binnen een tijdvak van drie maanden een onderzoek te ondergaan of informatie te verstrekken zoals vereist ingevolge artikel 5 en artikel 7, tweede en derde lid, van dit Verdrag, of
+- a een uitkeringsgerechtigde of een lid van zijn gezin heeft verzuimd binnen een tijdvak van drie maanden een onderzoek te ondergaan of informatie te verstrekken zoals vereist ingevolge artikel 5 en artikel 7, tweede en derde lid, van dit Verdrag, of
 
-- b. indien het bevoegde orgaan van de andere Verdragsluitende Partij heeft verzuimd binnen een tijdvak van drie maanden de informatie over te leggen of een onderzoek te verrichten zoals vereist ingevolge artikel 5, artikel 6, tweede lid, en artikel 7, eerste lid, van dit Verdrag.
+- b indien het bevoegde orgaan van de andere Verdragsluitende Partij heeft verzuimd binnen een tijdvak van drie maanden de informatie over te leggen of een onderzoek te verrichten zoals vereist ingevolge artikel 5, artikel 6, tweede lid, en artikel 7, eerste lid, van dit Verdrag.
 
 ##### Artikel 10. Bescherming van gegevens
 
@@ -199,10 +165,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN te Amman, op 17 april 2003, in tweevoud in de Nederlandse en Arabische taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) M. J. DE KWAASTENIET
 
-**Voor het Hasjemitisch Koninkrijk Jordanië**
+*Voor het Hasjemitisch Koninkrijk Jordanië*
 
 (w.g.) MUZAHIM MUHAISIN

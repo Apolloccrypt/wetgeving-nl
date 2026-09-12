@@ -1,50 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Bulgarije inzake internationaal vervoer over de weg"
 identifier: "BWBV0001672"
-country: "nl"
-rank: "verdrag"
-publication_date: "2004-07-31"
-last_updated: "2004-07-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001672"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10000507103"
-version_id: "10000525282"
-internal_id: "C10006993241"
-label_id: "10000507374"
-original_entry_into_force: "2004-07-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001672/2004-07-31/0"
-intitule_bron: "Trb.2004-39"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-07-01"
-intitule_published: "2004-02-19"
-intitule_in_force: "2004-11-11"
-intitule_status: "goed"
-original_publication: "Trb.2004-39"
-original_signed_date: "2004-07-01"
-original_published_date: "2004-02-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2004-39"
-entry_into_force_date: "2004-07-31"
-jci_1_3: "jci1.3:c:BWBV0001672&z=2004-07-31&g=2004-07-31"
-jci_1_0: "1.0:c:BWBV0001672&g=2004-07-31"
-citeertitel_status: "officieel"
-signed_date: "2004-07-01"
-entry_into_force: "2004-07-31"
+publicatiedatum: 2004-07-31
+laatste_update: 2004-07-31
+status: geldig
+toestand: 2004-07-31
+bron: "https://wetten.overheid.nl/BWBV0001672"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Bulgarije inzake internationaal vervoer over de weg
 
-De Regering van het Koninkrijk der Nederlanden,
-
-en
-
-De Regering van de Republiek Bulgarije
-
-hun Staten hierna te noemen de Verdragsluitende Partijen,
-
-Geleid door de wens, in het belang van hun economische betrekkingen, de ontwikkeling te bevorderen van het vervoer van goederen en personen over de weg tussen, naar en vanuit hun landen en in doorvoer door hun landen,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden, en De Regering van de Republiek Bulgarije hun Staten hierna te noemen de Verdragsluitende Partijen, Geleid door de wens, in het belang van hun economische betrekkingen, de ontwikkeling te bevorderen van het vervoer van goederen en personen over de weg tussen, naar en vanuit hun landen en in doorvoer door hun landen, Zijn het volgende overeengekomen:*
 
 ## DEEL I. ALGEMENE BEPALINGEN
 
@@ -64,9 +33,9 @@ Voor de toepassing en uitvoering van dit Verdrag wordt verstaan onder:
 
 - 2. „Voertuig": een motorvoertuig:
 
-- –. zelfstandig of een combinatie van voertuigen;
+   - – zelfstandig of een combinatie van voertuigen;
 
-- –. bedoeld voor het vervoer van personen of goederen over de weg, en dat c.q. die als eigendom of uit hoofde van een huur- of leasecontract ter beschikking van de vervoersondernemer staat.
+   - – bedoeld voor het vervoer van personen of goederen over de weg, en dat c.q. die als eigendom of uit hoofde van een huur- of leasecontract ter beschikking van de vervoersondernemer staat.
 
 - 3. „Bus" en „autobus": voertuigen gebouwd en ontworpen voor het vervoer van meer dan negen personen, de bestuurder daaronder begrepen.
 
@@ -94,11 +63,11 @@ Voor de toepassing en uitvoering van dit Verdrag wordt verstaan onder:
 
 - 15. „Bevoegde autoriteiten":
 
-- –. voor het Koninkrijk der Nederlanden, het ministerie van Verkeer en Waterstaat;
+   - – voor het Koninkrijk der Nederlanden, het ministerie van Verkeer en Waterstaat;
 
-- –. voor de Republiek Bulgarije, het ministerie van Verkeer en Communicatie;
+   - – voor de Republiek Bulgarije, het ministerie van Verkeer en Communicatie;
 
-- –. of in beide gevallen, elke persoon die of elk lichaam dat gemachtigd is de taken te verrichten die thans door genoemde ministeries worden uitgeoefend.
+   - – of in beide gevallen, elke persoon die of elk lichaam dat gemachtigd is de taken te verrichten die thans door genoemde ministeries worden uitgeoefend.
 
 ## DEEL II. VERVOER VAN PERSONEN
 
@@ -114,13 +83,13 @@ De ingevolge artikel 15 van dit Verdrag ingestelde Gemengde Commissie neemt een 
 
 - a. Niettegenstaande de erkenning door de bevoegde autoriteiten van de wenselijkheid van de geregelde dienst, kan een aanvraag voor een vergunning worden afgewezen indien, onder andere:
 
-- –. er geen poolovereenkomst bestaat;
+   - – er geen poolovereenkomst bestaat;
 
-- –. de aanvrager niet in staat is het vervoer waarvoor hij een vergunning heeft aangevraagd te realiseren met de uitrusting die hij tot zijn onmiddellijke beschikking heeft;
+   - – de aanvrager niet in staat is het vervoer waarvoor hij een vergunning heeft aangevraagd te realiseren met de uitrusting die hij tot zijn onmiddellijke beschikking heeft;
 
-- –. de aanvrager in het verleden niet heeft voldaan aan de voorwaarden van de vergunningen voor het internationaal vervoer van personen over de weg of de regels met betrekking tot verkeersveiligheid, met inbegrip van de regels met betrekking tot voertuignormen en de rij- en rusttijden van bestuurders zwaar heeft overtreden;
+   - – de aanvrager in het verleden niet heeft voldaan aan de voorwaarden van de vergunningen voor het internationaal vervoer van personen over de weg of de regels met betrekking tot verkeersveiligheid, met inbegrip van de regels met betrekking tot voertuignormen en de rij- en rusttijden van bestuurders zwaar heeft overtreden;
 
-- –. in geval van een aanvraag om verlenging van een vergunning, niet aan de voorwaarden voor de vergunning is voldaan.
+   - – in geval van een aanvraag om verlenging van een vergunning, niet aan de voorwaarden voor de vergunning is voldaan.
 
 - b. Een beslissing of een vergunning wordt afgegeven wordt door de bevoegde autoriteiten genomen binnen drie maanden na de datum waarop een volledige aanvraag is ontvangen. Indien een bevoegde autoriteit verzuimt binnen deze periode te antwoorden, wordt deze verondersteld impliciet met de afgifte van een vergunning te hebben ingestemd.
 
@@ -160,13 +129,13 @@ De ingevolge artikel 15 ingestelde Gemengde Commissie beslist over de vorm en in
 
 4. Als uitzondering op de bepalingen van Deel II zijn de volgende categorieën vervoer vrijgesteld van vergunningsvereisten:
 
-- –. vervoer van voertuigen die zijn beschadigd of onklaar geraakt en het vervoer van bergingsvoertuigen;
+- – vervoer van voertuigen die zijn beschadigd of onklaar geraakt en het vervoer van bergingsvoertuigen;
 
-- –. onbeladen reizen van een voertuig dat wordt gestuurd ter vervanging van een voertuig dat onklaar is geraakt in een ander land, met inbegrip van de terugreis, na reparatie, van het voertuig dat onklaar was geraakt;
+- – onbeladen reizen van een voertuig dat wordt gestuurd ter vervanging van een voertuig dat onklaar is geraakt in een ander land, met inbegrip van de terugreis, na reparatie, van het voertuig dat onklaar was geraakt;
 
-- –. de eerste reis van recentelijk gekochte voertuigen, nieuw of tweedehands, voorzien van een door de bevoegde autoriteiten afgegeven exportregistratienummer, indien de eerste reis plaatsvindt naar het land waar het voertuig definitief wordt geregistreerd;
+- – de eerste reis van recentelijk gekochte voertuigen, nieuw of tweedehands, voorzien van een door de bevoegde autoriteiten afgegeven exportregistratienummer, indien de eerste reis plaatsvindt naar het land waar het voertuig definitief wordt geregistreerd;
 
-- –. vervoer voor eigen rekening.
+- – vervoer voor eigen rekening.
 
 ## DEEL III. VERVOER VAN GOEDEREN
 
@@ -180,29 +149,29 @@ De ingevolge artikel 15 ingestelde Gemengde Commissie beslist over de vorm en in
 
 1. Als uitzondering op artikel 7 zijn de volgende categorieën vervoer vrijgesteld van vergunningsvereisten:
 
-- –. vervoer door voertuigen waarvan het toegestane totaalgewicht in beladen toestand, met inbegrip van aanhangwagens, niet meer bedraagt dan 6 ton, of wanneer het toegestane gewicht aan lading, met inbegrip van aanhangwagens, niet meer bedraagt dan 3,5 ton;
+- – vervoer door voertuigen waarvan het toegestane totaalgewicht in beladen toestand, met inbegrip van aanhangwagens, niet meer bedraagt dan 6 ton, of wanneer het toegestane gewicht aan lading, met inbegrip van aanhangwagens, niet meer bedraagt dan 3,5 ton;
 
-- –. transport op ongeregelde basis, naar of vanuit luchthavens, in gevallen waarin luchtdiensten worden omgeleid;
+- – transport op ongeregelde basis, naar of vanuit luchthavens, in gevallen waarin luchtdiensten worden omgeleid;
 
-- –. vervoer van voertuigen die zijn beschadigd of onklaar geraakt en het vervoer van bergingsvoertuigen;
+- – vervoer van voertuigen die zijn beschadigd of onklaar geraakt en het vervoer van bergingsvoertuigen;
 
-- –. onbeladen reizen van een voertuig dat wordt gestuurd ter vervanging van een voertuig dat onklaar is geraakt in een ander land, met inbegrip van de terugreis, na reparatie, van het voertuig dat onklaar was geraakt;
+- – onbeladen reizen van een voertuig dat wordt gestuurd ter vervanging van een voertuig dat onklaar is geraakt in een ander land, met inbegrip van de terugreis, na reparatie, van het voertuig dat onklaar was geraakt;
 
-- –. vervoer van reserveonderdelen en proviand voor zee- en binnenvaartschepen en luchtvaartuigen;
+- – vervoer van reserveonderdelen en proviand voor zee- en binnenvaartschepen en luchtvaartuigen;
 
-- –. vervoer van goederen benodigd voor noodsituaties, in het bijzonder bij natuurrampen en voor humanitaire doeleinden;
+- – vervoer van goederen benodigd voor noodsituaties, in het bijzonder bij natuurrampen en voor humanitaire doeleinden;
 
-- –. vervoer van kunstwerken en -voorwerpen voor beurzen en tentoonstellingen of voor niet-commerciële doeleinden;
+- – vervoer van kunstwerken en -voorwerpen voor beurzen en tentoonstellingen of voor niet-commerciële doeleinden;
 
-- –. vervoer voor niet-commerciële doeleinden van eigendommen, toebehoren en dieren naar of van theater-, muziek-, film- of circusvoorstellingen of sportevenementen, en van die welke bestemd zijn voor radio-opnamen, of voor film- of televisieproducties;
+- – vervoer voor niet-commerciële doeleinden van eigendommen, toebehoren en dieren naar of van theater-, muziek-, film- of circusvoorstellingen of sportevenementen, en van die welke bestemd zijn voor radio-opnamen, of voor film- of televisieproducties;
 
-- –. de eerste reis van recentelijk gekochte voertuigen, nieuw of tweedehands, voorzien van een door de bevoegde autoriteiten afgegeven exportregistratienummer, indien de eerste reis plaatsvindt naar het land waar het voertuig definitief wordt geregistreerd.
+- – de eerste reis van recentelijk gekochte voertuigen, nieuw of tweedehands, voorzien van een door de bevoegde autoriteiten afgegeven exportregistratienummer, indien de eerste reis plaatsvindt naar het land waar het voertuig definitief wordt geregistreerd.
 
-- –. begrafenisvervoer;
+- – begrafenisvervoer;
 
-- –. vervoer van post als openbare dienst;
+- – vervoer van post als openbare dienst;
 
-- –. vervoer voor eigen rekening.
+- – vervoer voor eigen rekening.
 
 2. De in artikel 15 bedoelde Gemengde Commissie kan de in het voorgaande lid genoemde lijst van categorieën vervoer uitbreiden of wijzigen.
 
@@ -252,9 +221,9 @@ Aan ingezeten vervoersondernemers worden de vergunningen afgegeven door de bevoe
 
 2. De bevoegde autoriteiten in het land van vestiging kunnen, in geval van ernstige of herhaalde overtredingen begaan op het grondgebied van het gastland, en op verzoek van dit laatstgenoemde land, de volgende administratieve maatregelen nemen:
 
-- –. een waarschuwing geven;
+- – een waarschuwing geven;
 
-- –. toegang verbieden tot het grondgebied van de Verdragsluitende Partij waarop de overtreding(en) werd(en) begaan.
+- – toegang verbieden tot het grondgebied van de Verdragsluitende Partij waarop de overtreding(en) werd(en) begaan.
 
 In bijzonder ernstige gevallen kunnen de bevoegde autoriteiten van het gastland de overtreder tijdelijk de toegang tot hun grondgebied ontzeggen hangende een besluit van de autoriteiten in het land van vestiging.
 
@@ -306,10 +275,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN in tweevoud te Sofia, op 25 november 2003, in de Nederlandse, de Bulgaarse en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschillen is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 H.J.C.M. VAN LYNDEN
 
-**Voor de Regering van de Republiek Bulgarije**
+*Voor de Regering van de Republiek Bulgarije*
 
 N. VASSILEV

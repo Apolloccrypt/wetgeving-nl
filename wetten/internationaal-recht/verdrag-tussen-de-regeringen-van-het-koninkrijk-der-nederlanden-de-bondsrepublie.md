@@ -1,73 +1,19 @@
 ---
 title: "Verdrag tussen de Regeringen van het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland, de Franse Republiek en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake samenwerking op het gebied van ultracentrifugetechnologie"
 identifier: "BWBV0001810"
-country: "nl"
-rank: "verdrag"
-publication_date: "2006-07-01"
-last_updated: "2005-07-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001810"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002525633"
-version_id: "10002512682"
-internal_id: "C10006997021"
-label_id: "10002515244"
-dtd_version: "2.0"
-original_entry_into_force: "2006-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001810/2006-07-01/0"
-intitule_bron: "Trb.2005-266"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2006-06-23"
-intitule_published: "2005-09-12"
-intitule_in_force: "2006-12-21"
-intitule_status: "goed"
-original_publication: "Trb.2005-266"
-original_signed_date: "2006-06-23"
-original_published_date: "2005-09-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2005-266"
-entry_into_force_date: "2006-07-01"
-jci_1_3: "jci1.3:c:BWBV0001810&z=2006-07-01&g=2006-07-01"
-jci_1_0: "1.0:c:BWBV0001810&g=2006-07-01"
-citeertitel_status: "redactioneel"
-signed_date: "2006-06-23"
-entry_into_force: "2006-07-01"
+publicatiedatum: 2006-07-01
+laatste_update: 2006-07-01
+status: geldig
+toestand: 2006-07-01
+bron: "https://wetten.overheid.nl/BWBV0001810"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tussen de Regeringen van het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland, de Franse Republiek en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake samenwerking op het gebied van ultracentrifugetechnologie
 
-De Regering van het Koninkrijk der Nederlanden, de Regering van de Bondsrepubliek Duitsland, de Regering van de Franse Republiek, de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (hierna te noemen „de Vier Regeringen");
-
-Gelet op de Overeenkomst tussen het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (hierna te noemen „de Drie Regeringen") inzake samenwerking bij de ontwikkeling en exploitatie van het gas-ultracentrifugeprocédé voor de productie van verrijkt uranium van 4 maart 1970 (hierna te noemen „het Verdrag van Almelo");
-
-Gelet op het voornemen van Areva het door Urenco ontwikkelde procédé te gebruiken voor het produceren van verrijkt uranium ten behoeve van andere doeleinden dan de productie van voor de vervaardiging van wapens geschikt uranium voor het vervaardigen van kernwapens of andere nucleaire explosiemiddelen;
-
-Gelet op de joint venture die is aangegaan tussen Urenco en Areva met het oog op onderzoek en ontwikkeling inzake ultracentrifugetechnologie, de vervaardiging van gascentrifuges en daarmee verwante technologie en activiteiten, Enrichment Technology Company Ltd geheten, met inbegrip van haar dochtermaatschappijen en de mogelijke rechtsopvolgers daarvan (hierna te noemen „ETC");
-
-Overwegend dat Areva haar diffusie-installatie zo snel mogelijk wil vervangen;
-
-Gelet op artikel IX van het Verdrag van Almelo en geleid door de wens een intergouvernementeel kader vast te stellen tussen de Drie Regeringen en de Regering van de Franse Republiek ten behoeve van samenwerking met betrekking tot ETC inzake alle onderzoek en ontwikkeling op het gebied van gas-ultracentrifuge, en de vervaardiging van gascentrifuges en daarmee verwante technologieën van Urenco en Areva;
-
-Erkennend dat de verrijking van uranium een dienst is;
-
-Gelet op het voornemen van Urenco en Areva niettegenstaande de oprichting van ETC onafhankelijke concurrenten te blijven op het gebied van verrijkingsdiensten;
-
-Overwegend dat de Drie Regeringen internationale verplichtingen zijn aangegaan als partijen bij het Verdrag van Almelo met betrekking tot het gebruik, de beveiliging en behandeling van gegevens en uitrusting betreffende ultracentrifugetechnologie alsmede grondstoffen of speciale splijtstoffen die door middel van dergelijke technologie worden bewerkt;
-
-Overwegend dat de Vier Regeringen beleidslijnen hebben vastgesteld voor de beveiliging van gegevens aangaande ultracentrifugetechnologie;
-
-Overwegend dat de Vier Regeringen zijn toegetreden tot het Verdrag inzake de niet-verspreiding van kernwapens van 1 juli 1968 (hierna te noemen „het NPV"), het Statuut van de Internationale Organisatie voor Atoomenergie (IAEA) van 26 oktober 1956, IAEA-document INFCIRC/254/Rev.6/Part1 van 16 mei 2003 en herzieningen daarvan (hierna te noemen „de Richtlijnen voor nucleaire overdrachten"), en het Verdrag inzake de fysieke beveiliging van kernmateriaal van 3 maart 1980;
-
-Erkennend dat alle Vier Regeringen waarborgovereenkomsten met de IAEA zijn aangegaan;
-
-Voornemens te waarborgen dat alle activiteiten van ETC verenigbaar zijn met de beleidslijnen van de Vier Regeringen ten aanzien van de niet-verspreiding van kernwapens en met hun internationale verplichtingen op dat gebied;
-
-Gelet op het feit dat de Vier Regeringen verplicht zijn kernmateriaal te beveiligen krachtens de voorwaarden van de Verklaring van een gemeenschappelijk beleid van de Europese Gemeenschap, door de IAEA in april 1985 gepubliceerd in INFCIRC/322;
-
-Overwegend dat de Vier Regeringen partij zijn bij het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie van 25 maart 1957 (hierna te noemen „het Euratom-verdrag");
-
-Gezien de doelstelling van de Commissie van de Europese Gemeenschappen zoals vervat in haar Groenboek „Op weg naar een Europese strategie voor een continue energievoorziening„ met betrekking tot samenwerking op het gebied van nieuwe technologieën;
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden, de Regering van de Bondsrepubliek Duitsland, de Regering van de Franse Republiek, de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (hierna te noemen „de Vier Regeringen"); Gelet op de Overeenkomst tussen het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (hierna te noemen „de Drie Regeringen") inzake samenwerking bij de ontwikkeling en exploitatie van het gas-ultracentrifugeprocédé voor de productie van verrijkt uranium van 4 maart 1970 (hierna te noemen „het Verdrag van Almelo"); Gelet op het voornemen van Areva het door Urenco ontwikkelde procédé te gebruiken voor het produceren van verrijkt uranium ten behoeve van andere doeleinden dan de productie van voor de vervaardiging van wapens geschikt uranium voor het vervaardigen van kernwapens of andere nucleaire explosiemiddelen; Gelet op de joint venture die is aangegaan tussen Urenco en Areva met het oog op onderzoek en ontwikkeling inzake ultracentrifugetechnologie, de vervaardiging van gascentrifuges en daarmee verwante technologie en activiteiten, Enrichment Technology Company Ltd geheten, met inbegrip van haar dochtermaatschappijen en de mogelijke rechtsopvolgers daarvan (hierna te noemen „ETC"); Overwegend dat Areva haar diffusie-installatie zo snel mogelijk wil vervangen; Gelet op artikel IX van het Verdrag van Almelo en geleid door de wens een intergouvernementeel kader vast te stellen tussen de Drie Regeringen en de Regering van de Franse Republiek ten behoeve van samenwerking met betrekking tot ETC inzake alle onderzoek en ontwikkeling op het gebied van gas-ultracentrifuge, en de vervaardiging van gascentrifuges en daarmee verwante technologieën van Urenco en Areva; Erkennend dat de verrijking van uranium een dienst is; Gelet op het voornemen van Urenco en Areva niettegenstaande de oprichting van ETC onafhankelijke concurrenten te blijven op het gebied van verrijkingsdiensten; Overwegend dat de Drie Regeringen internationale verplichtingen zijn aangegaan als partijen bij het Verdrag van Almelo met betrekking tot het gebruik, de beveiliging en behandeling van gegevens en uitrusting betreffende ultracentrifugetechnologie alsmede grondstoffen of speciale splijtstoffen die door middel van dergelijke technologie worden bewerkt; Overwegend dat de Vier Regeringen beleidslijnen hebben vastgesteld voor de beveiliging van gegevens aangaande ultracentrifugetechnologie; Overwegend dat de Vier Regeringen zijn toegetreden tot het Verdrag inzake de niet-verspreiding van kernwapens van 1 juli 1968 (hierna te noemen „het NPV"), het Statuut van de Internationale Organisatie voor Atoomenergie (IAEA) van 26 oktober 1956, IAEA-document INFCIRC/254/Rev.6/Part1 van 16 mei 2003 en herzieningen daarvan (hierna te noemen „de Richtlijnen voor nucleaire overdrachten"), en het Verdrag inzake de fysieke beveiliging van kernmateriaal van 3 maart 1980; Erkennend dat alle Vier Regeringen waarborgovereenkomsten met de IAEA zijn aangegaan; Voornemens te waarborgen dat alle activiteiten van ETC verenigbaar zijn met de beleidslijnen van de Vier Regeringen ten aanzien van de niet-verspreiding van kernwapens en met hun internationale verplichtingen op dat gebied; Gelet op het feit dat de Vier Regeringen verplicht zijn kernmateriaal te beveiligen krachtens de voorwaarden van de Verklaring van een gemeenschappelijk beleid van de Europese Gemeenschap, door de IAEA in april 1985 gepubliceerd in INFCIRC/322; Overwegend dat de Vier Regeringen partij zijn bij het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie van 25 maart 1957 (hierna te noemen „het Euratom-verdrag"); Gezien de doelstelling van de Commissie van de Europese Gemeenschappen zoals vervat in haar Groenboek „Op weg naar een Europese strategie voor een continue energievoorziening„ met betrekking tot samenwerking op het gebied van nieuwe technologieën; Zijn het volgende overeengekomen:*
 
 ##### Artikel I. Begripsomschrijvingen
 
@@ -139,9 +85,9 @@ Voor de toepassing van dit Verdrag wordt, tenzij daarin anders wordt bepaald, ve
 
 - d. voorstellen betrekking hebbend op de volgende onderwerpen te bestuderen en dienaangaande beslissingen te nemen:
 
-- i. het overbrengen naar gebieden buiten het grondgebied van de Vier Regeringen van ultracentrifugetechnologie die eigendom is van, in het bezit is van, afkomstig is van of voortvloeit uit activiteiten van ETC;
+   - i. het overbrengen naar gebieden buiten het grondgebied van de Vier Regeringen van ultracentrifugetechnologie die eigendom is van, in het bezit is van, afkomstig is van of voortvloeit uit activiteiten van ETC;
 
-- ii. het verlenen van licenties of sublicenties voor het gebruik buiten het grondgebied van de Vier Regeringen van in onderdeel d (i) van dit lid bedoelde ultracentrifugetechnologie, anders dan licenties of sublicenties die reeds verleend zijn vóór de inwerkingtreding van dit Verdrag;
+   - ii. het verlenen van licenties of sublicenties voor het gebruik buiten het grondgebied van de Vier Regeringen van in onderdeel d (i) van dit lid bedoelde ultracentrifugetechnologie, anders dan licenties of sublicenties die reeds verleend zijn vóór de inwerkingtreding van dit Verdrag;
 
 - e. wijzigingen van de akten alsmede de controle op ETC goed te keuren;
 
@@ -245,25 +191,25 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun 
 
 GEDAAN in viervoud te Cardiff op 12 juli 2005, in de Nederlandse, de Duitse, de Franse en de Engelse taal, zijnde alle teksten gelijkelijk authentiek.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 Laurens Jan BRINKHORST
 
 Minister van Economische Zaken
 
-**Voor de Regering van de Bondsrepubliek Duitsland,**
+*Voor de Regering van de Bondsrepubliek Duitsland,*
 
 Georg Wilhelm ADAMOWITSCH
 
 Staatssecretaris van Economische Zaken
 
-**Voor de Regering van de Franse Republiek,**
+*Voor de Regering van de Franse Republiek,*
 
 Catherina COLONNA
 
 Minister van Europese Zaken
 
-**Voor de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,**
+*Voor de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,*
 
 Barry GARDINER
 

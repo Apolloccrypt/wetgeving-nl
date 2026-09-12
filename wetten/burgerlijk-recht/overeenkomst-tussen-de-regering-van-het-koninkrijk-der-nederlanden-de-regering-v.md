@@ -1,46 +1,19 @@
 ---
 title: "Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden, de Regering van het Koninkrijk België en de Regering van het Groothertogdom Luxemburg en de Federale Regering van de Federale Republiek Joegoslavië betreffende de terug- en overname van personen die niet of niet meer voldoen aan de voorwaarden voor binnenkomst of verblijf op het grondgebied van de andere Overeenkomstsluitende Staat"
 identifier: "BWBV0001585"
-country: "nl"
-rank: "verdrag"
-publication_date: "2004-05-29"
-last_updated: "2004-05-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001585"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10000242023"
-version_id: "10000250392"
-internal_id: "C10006992981"
-label_id: "10000242574"
-original_entry_into_force: "2004-05-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001585/2004-05-29/0"
-intitule_bron: "Trb.2002-152"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-04-11"
-intitule_published: "2002-08-22"
-intitule_in_force: "2004-07-09"
-intitule_status: "goed"
-original_publication: "Trb.2002-152"
-original_signed_date: "2003-04-11"
-original_published_date: "2002-08-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2002-152"
-entry_into_force_date: "2004-05-29"
-jci_1_3: "jci1.3:c:BWBV0001585&z=2004-05-29&g=2004-05-29"
-jci_1_0: "1.0:c:BWBV0001585&g=2004-05-29"
-citeertitel_status: "officieel"
-signed_date: "2003-04-11"
-entry_into_force: "2004-05-29"
+publicatiedatum: 2004-05-29
+laatste_update: 2004-05-29
+status: geldig
+toestand: 2004-05-29
+bron: "https://wetten.overheid.nl/BWBV0001585"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden, de Regering van het Koninkrijk België en de Regering van het Groothertogdom Luxemburg en de Federale Regering van de Federale Republiek Joegoslavië betreffende de terug- en overname van personen die niet of niet meer voldoen aan de voorwaarden voor binnenkomst of verblijf op het grondgebied van de andere Overeenkomstsluitende Staat
 
-De Regering van het Koninkrijk der Nederlanden, de Regering van het Koninkrijk België en de Regering van het Groothertogdom Luxemburg, en de Federale Regering van de Federale Republiek Joegoslavië, de drie eerstgenoemden gezamenlijk optredend op grond van de [Benelux-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005246) van 11 april 1960,
-
-hierna genoemd: de Overeenkomstsluitende Staten,
-
-gevolg gevend aan het voornemen de betrekkingen tussen vorengenoemde landen te verbeteren en teneinde de terug- en overname te regelen van personen die niet of niet meer voldoen aan de voorwaarden voor binnenkomst of verblijf op het grondgebied van de andere Overeenkomstsluitende Staat, aldus ernaar strevend bij te dragen tot de voorkoming en wegwerking van illegale migratie,
-
-zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden, de Regering van het Koninkrijk België en de Regering van het Groothertogdom Luxemburg, en de Federale Regering van de Federale Republiek Joegoslavië, de drie eerstgenoemden gezamenlijk optredend op grond van de Benelux-Overeenkomst van 11 april 1960, hierna genoemd: de Overeenkomstsluitende Staten, gevolg gevend aan het voornemen de betrekkingen tussen vorengenoemde landen te verbeteren en teneinde de terug- en overname te regelen van personen die niet of niet meer voldoen aan de voorwaarden voor binnenkomst of verblijf op het grondgebied van de andere Overeenkomstsluitende Staat, aldus ernaar strevend bij te dragen tot de voorkoming en wegwerking van illegale migratie, zijn het volgende overeengekomen:*
 
 ### I. ALGEMENE BEPALINGEN
 
@@ -48,31 +21,31 @@ zijn het volgende overeengekomen:
 
 In deze Overeenkomst dient te worden verstaan onder:
 
-- (1). grondgebied: – de Federale Republiek Joegoslavië;
+- (1) grondgebied: – de Federale Republiek Joegoslavië;
 
-- –. de Benelux: het gezamenlijke grondgebied in Europa van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden;
+   - – de Benelux: het gezamenlijke grondgebied in Europa van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden;
 
-- (2). buitengrens: een grens van de Federale Republiek Joegoslavië en de grens van de Benelux, die niet een gemeenschappelijke grens is, alsmede iedere binnen het Benelux-gebied of op het grondgebied van de Federale Republiek Joegoslavië gelegen lucht- of zeehaven waar personenverkeer plaatsvindt;
+- (2) buitengrens: een grens van de Federale Republiek Joegoslavië en de grens van de Benelux, die niet een gemeenschappelijke grens is, alsmede iedere binnen het Benelux-gebied of op het grondgebied van de Federale Republiek Joegoslavië gelegen lucht- of zeehaven waar personenverkeer plaatsvindt;
 
-- (3). derde land: elk land dat niet de Federale Republiek Joegoslavië en geen Benelux-Staat is;
+- (3) derde land: elk land dat niet de Federale Republiek Joegoslavië en geen Benelux-Staat is;
 
-- (4). een persoon die terugkeert en wordt terug-/overgenomen:
+- (4) een persoon die terugkeert en wordt terug-/overgenomen:
 
-- 1. iemand van wie is vastgesteld dat hij een onderdaan van één der Overeenkomstsluitende Staten is en die niet of niet meer voldoet aan de voorwaarden voor binnenkomst of verblijf op het grondgebied van een andere Overeenkomstsluitende Staat;
+   - 1. iemand van wie is vastgesteld dat hij een onderdaan van één der Overeenkomstsluitende Staten is en die niet of niet meer voldoet aan de voorwaarden voor binnenkomst of verblijf op het grondgebied van een andere Overeenkomstsluitende Staat;
 
-- 2. iemand die geen onderdaan van de Federale Republiek Joegoslavië of van de Benelux-Staten is (hierna genoemd: onderdaan van een derde land) en die niet of niet meer voldoet aan de voorwaarden voor binnenkomst of verblijf op het grondgebied van de verzoekende Partij;
+   - 2. iemand die geen onderdaan van de Federale Republiek Joegoslavië of van de Benelux-Staten is (hierna genoemd: onderdaan van een derde land) en die niet of niet meer voldoet aan de voorwaarden voor binnenkomst of verblijf op het grondgebied van de verzoekende Partij;
 
-- (5). „verzoekende Partij": de Overeenkomstsluitende Staat op wiens grondgebied zich personen bevinden, die niet of niet meer voldoen aan de voorwaarden voor binnenkomst of verblijf, en die om hun terug-/overname of doorgeleiding onder de in deze Overeenkomst gestelde voorwaarden verzoekt;
+- (5) „verzoekende Partij": de Overeenkomstsluitende Staat op wiens grondgebied zich personen bevinden, die niet of niet meer voldoen aan de voorwaarden voor binnenkomst of verblijf, en die om hun terug-/overname of doorgeleiding onder de in deze Overeenkomst gestelde voorwaarden verzoekt;
 
-- (6). „aangezochte Partij": de Overeenkomstsluitende Staat die de persoon op zijn grondgebied dient terug/over te nemen dan wel de doorgeleiding van de persoon over zijn grondgebied dient toe te staan, een en ander onder de in deze Overeenkomst gestelde voorwaarden;
+- (6) „aangezochte Partij": de Overeenkomstsluitende Staat die de persoon op zijn grondgebied dient terug/over te nemen dan wel de doorgeleiding van de persoon over zijn grondgebied dient toe te staan, een en ander onder de in deze Overeenkomst gestelde voorwaarden;
 
-- (7). „verzoek": verzoek waarmee de verzoekende Partij zich tot de aangezochte Partij richt en vraagt de persoon op haar grondgebied terug/over te nemen dan wel de doorgeleiding van de persoon over haar grondgebied toe te staan;
+- (7) „verzoek": verzoek waarmee de verzoekende Partij zich tot de aangezochte Partij richt en vraagt de persoon op haar grondgebied terug/over te nemen dan wel de doorgeleiding van de persoon over haar grondgebied toe te staan;
 
-- (8). „antwoord op het verzoek": het bericht waarmee de aangezochte Partij op het verzoek om terug-/overname of doorgeleiding antwoordt;
+- (8) „antwoord op het verzoek": het bericht waarmee de aangezochte Partij op het verzoek om terug-/overname of doorgeleiding antwoordt;
 
-- (9). „bevoegde instanties": de instanties van de Overeenkomstsluitende Staten, die de terug-/overname- of doorgeleidingsprocedure toepassen;
+- (9) „bevoegde instanties": de instanties van de Overeenkomstsluitende Staten, die de terug-/overname- of doorgeleidingsprocedure toepassen;
 
-- (10). „verblijfstitel": een door de bevoegde instanties van de Overeenkomstsluitende Staten afgegeven geldige vergunning waarmee een persoon in overeenstemming met de nationale wetgeving van de afgevende Overeenkomstsluitende Staat het grondgebied mag binnenkomen of aldaar mag verblijven. Daarvan zijn uitgezonderd tijdelijke toelatingen tot verblijf op het grondgebied in het kader van de behandeling van een asielverzoek of een aanvraag voor een verblijfstitel.
+- (10) „verblijfstitel": een door de bevoegde instanties van de Overeenkomstsluitende Staten afgegeven geldige vergunning waarmee een persoon in overeenstemming met de nationale wetgeving van de afgevende Overeenkomstsluitende Staat het grondgebied mag binnenkomen of aldaar mag verblijven. Daarvan zijn uitgezonderd tijdelijke toelatingen tot verblijf op het grondgebied in het kader van de behandeling van een asielverzoek of een aanvraag voor een verblijfstitel.
 
 ### II. TERUGNAME VAN ONDERDANEN VAN DE OVEREENKOMSTSLUITENDE STATEN
 
@@ -94,7 +67,7 @@ In deze Overeenkomst dient te worden verstaan onder:
 
 (1). De identiteit en de nationaliteit van terug te nemen personen worden door de bevoegde instantie van de aangezochte Partij overeenkomstig de eigen nationale wetgeving vastgesteld.
 
-(2). De documenten door middel waarvan de identiteit en de nationaliteit van de terugkerende persoon worden aangetoond of redelijkerwijs kunnen worden verondersteld, worden in het Protocol tot uitvoering van deze Overeenkomst vastgelegd.
+(2). De documenten door middel waarvan de identiteit en de nationaliteit van de terugkerende persoon worden aangetoond of redelijkerwijs kunnen worden verondersteld, worden in het [Protocol](https://wetten.overheid.nl/BWBV0001585) tot uitvoering van deze Overeenkomst vastgelegd.
 
 (3). Voor de vaststelling van de identiteit en de nationaliteit van de in het eerste lid van dit artikel genoemde personen doet de verzoekende Partij het verzoek om terugname en de beschikbare persoonlijke documenten aan de aangezochte Partij toekomen.
 
@@ -150,7 +123,7 @@ De verplichting tot overname ingevolge deze Overeenkomst geldt niet voor onderda
 
 - 3. onderdanen van derde landen, van wie is aangetoond dat zij gedurende de voorafgaande twaalf (12) maanden op het grondgebied van de verzoekende Partij hebben verbleven;
 
-- 4. onderdanen van derde landen, aan wie de verzoekende Partij de status van vluchteling op grond van het [Verdrag van 28 juli 1951 betreffende de status van vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001002), als gewijzigd bij het [Protocol van 31 januari 1967 betreffende de status van vluchtelingen](onbekend), of de status van staatlozen op grond van het [Verdrag van 28 september 1954 betreffende de status van staatlozen](https://wetten.overheid.nl/jci1.3:c:BWBV0001003) heeft toegekend, indien zij regelmatig verblijven op het grondgebied van de verzoekende Partij;
+- 4. onderdanen van derde landen, aan wie de verzoekende Partij de status van vluchteling op grond van het [Verdrag van 28 juli 1951 betreffende de status van vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001002), als gewijzigd bij het Protocol van 31 januari 1967 betreffende de status van vluchtelingen, of de status van staatlozen op grond van het [Verdrag van 28 september 1954 betreffende de status van staatlozen](https://wetten.overheid.nl/jci1.3:c:BWBV0001003) heeft toegekend, indien zij regelmatig verblijven op het grondgebied van de verzoekende Partij;
 
 - 5. onderdanen van derde landen die door de aangezochte Partij reeds naar het land van herkomst of een derde land zijn teruggeleid.
 
@@ -182,7 +155,7 @@ De verzoekende Partij neemt binnen dertig (30) dagen onderdanen van derde landen
 
 ##### Artikel 11. Gegevensbescherming
 
-(1). Persoonsgegevens mogen enkel worden verstrekt, voor zover zulks nodig is voor de uitvoering van deze Overeenkomst door de bevoegde instanties van de Federale Republiek Joegoslavië resp. de Benelux-Staten. Voor de verwerking en de behandeling van persoonsgegevens in een specifiek geval gelden de nationale wetgeving van de Federale Republiek Joegoslavië en, indien de controleur een bevoegde instantie van een Overeenkomstsluitende Staat van de Benelux is, de bepalingen van [Richtlijn 95/46/EG](31995L0046) en de ingevolge die Richtlijn aangenomen nationale wetgeving van die Overeenkomstsluitende Staat. Voorts gelden de volgende beginselen:
+(1). Persoonsgegevens mogen enkel worden verstrekt, voor zover zulks nodig is voor de uitvoering van deze Overeenkomst door de bevoegde instanties van de Federale Republiek Joegoslavië resp. de Benelux-Staten. Voor de verwerking en de behandeling van persoonsgegevens in een specifiek geval gelden de nationale wetgeving van de Federale Republiek Joegoslavië en, indien de controleur een bevoegde instantie van een Overeenkomstsluitende Staat van de Benelux is, de bepalingen van Richtlijn 95/46/EG en de ingevolge die Richtlijn aangenomen nationale wetgeving van die Overeenkomstsluitende Staat. Voorts gelden de volgende beginselen:
 
 - 1. persoonsgegevens moeten op een billijke en geoorloofde wijze worden verwerkt;
 
@@ -190,13 +163,13 @@ De verzoekende Partij neemt binnen dertig (30) dagen onderdanen van derde landen
 
 - 3. persoonsgegevens moeten bruikbaar en relevant zijn en in verhouding staan tot het doel waarvoor deze worden verzameld en/of verder verwerkt; in het bijzonder mogen de verstrekte persoonsgegevens uitsluitend betrekking hebben op:
 
-- –. de personalia van de over te dragen persoon (bijv. naam, voornaam, eventueel vroegere namen, bijnamen en pseudoniemen, geboortedatum en -plaats, geslacht, huidige en, in voorkomend geval, vorige nationaliteit),
+   - – de personalia van de over te dragen persoon (bijv. naam, voornaam, eventueel vroegere namen, bijnamen en pseudoniemen, geboortedatum en -plaats, geslacht, huidige en, in voorkomend geval, vorige nationaliteit),
 
-- –. identiteitsbewijs of paspoort (nummer, geldigheidsduur, datum van afgifte, afgevende instantie, plaats van afgifte),
+   - – identiteitsbewijs of paspoort (nummer, geldigheidsduur, datum van afgifte, afgevende instantie, plaats van afgifte),
 
-- –. verblijfplaatsen en reisroutes,
+   - – verblijfplaatsen en reisroutes,
 
-- –. andere voor de vaststelling van de identiteit van de over te dragen persoon c.q. toetsing aan de overnamevoorwaarden overeenkomstig deze Overeenkomst dienstige gegevens;
+   - – andere voor de vaststelling van de identiteit van de over te dragen persoon c.q. toetsing aan de overnamevoorwaarden overeenkomstig deze Overeenkomst dienstige gegevens;
 
 - 4. persoonsgegevens moeten correct zijn en in voorkomend geval voortdurend worden bijgewerkt;
 
@@ -244,7 +217,7 @@ Het Federale Ministerie van Binnenlandse Zaken van de Federale Republiek Joegosl
 
 (1). De bepalingen van deze Overeenkomst doen geen afbreuk aan de verplichtingen die op grond van andere internationale overeenkomsten door de Overeenkomstsluitende Staten zijn aangegaan.
 
-(2). De bepalingen van deze Overeenkomst laten de uitvoering onverlet van het [Verdrag van 28 juli 1951 betreffende de status van vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001002), als gewijzigd bij het [Protocol van 31 januari 1967 betreffende de status van vluchtelingen](onbekend), alsmede het [Verdrag van 28 september 1954 betreffende de status van staatlozen](https://wetten.overheid.nl/jci1.3:c:BWBV0001003).
+(2). De bepalingen van deze Overeenkomst laten de uitvoering onverlet van het [Verdrag van 28 juli 1951 betreffende de status van vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001002), als gewijzigd bij het Protocol van 31 januari 1967 betreffende de status van vluchtelingen, alsmede het [Verdrag van 28 september 1954 betreffende de status van staatlozen](https://wetten.overheid.nl/jci1.3:c:BWBV0001003).
 
 (3). De bepalingen van deze Overeenkomst doen geen afbreuk aan de verplichtingen die voortvloeien uit internationale verdragen inzake de bescherming van de mensenrechten, die voor de Overeenkomstsluitende Staten van kracht zijn.
 
@@ -266,226 +239,22 @@ Wat het Koninkrijk der Nederlanden betreft, kan de toepassing van deze Overeenko
 
 (2). Alle Overeenkomstsluitende Staten kunnen deze Overeenkomst opzeggen middels een schriftelijke kennisgeving aan de overige Overeenkomstsluitende Staten. De opzegging wordt van kracht op de negentigste (90) dag volgende op de dag waarop de laatste Overeenkomstsluitende Staat de kennisgeving heeft ontvangen.
 
-Het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden, het Ministerie van Buitenlandse Zaken van het Koninkrijk België en het Ministerie van Justitie van het Groothertogdom Luxemburg, en het Federale Ministerie van Binnenlandse Zaken van de Federale Republiek Joegoslavië (hierna genoemd: de Overeenkomstsluitende Staten), op grond van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&hoofdstuk=VI&artikel=12&z=2004-05-29&g=2004-05-29) van de op 19 juli 2002 te Belgrado ondertekende Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden, de Regering van het Koninkrijk België en de Regering van het Groothertogdom Luxemburg, en de Federale Regering van de Federale Republiek Joegoslavië betreffende de terug- en overname van personen die niet of niet meer voldoen aan de voorwaarden voor binnenkomst of verblijf op het grondgebied van de andere Overeenkomst-sluitende Staat (hierna genoemd: de Overeenkomst),
-
-zijn het volgende overeengekomen:
-
-##### Artikel 1. Bevoegde instanties
-
-1. De voor de uitvoering van de Overeenkomst bevoegde instantie aan Joegoslavische zijde is het Federale Ministerie van Binnenlandse Zaken van de Federale Republiek Joegoslavië – Directie Grenspolitie voor Vreemdelingen en Reisdocumenten.
-
-| Adres | Federaal Ministerie van Binnenlandse Zaken – Directie Grenspolitie en Reisdocumenten |
-| --- | --- |
-|   | Boulevard Mihajla Pupina nr. 2 |
-|   | 11070 Belgrado |
-|   | F.R. Joegoslavië |
-|   |   |
-| Telefoon | +381 11 / 3118-984 |
-|   | +381 11 / 3117-252 (doorlopende dienst) |
-|   |   |
-| Telefax | +381 11 / 3118-984 |
-|   | +381 11 / 3117-251 (doorlopende dienst) |
-
-2. De voor de uitvoering van de Overeenkomst bevoegde instanties aan Beneluxzijde zijn:
-
-- 2.1. De bevoegde instantie aan Belgische zijde is: Voor het voorleggen van de verzoeken, de ontvangst van de antwoorden en de verzending van de berichten omtrent de terug-/overname: Voor de ontvangst van de verzoeken:
-
-| Adres | Ministerie van Binnenlandse Zaken van het Koninkrijk België |
-| --- | --- |
-|   | Algemeen Bestuur Dienst Vreemdelingenzaken |
-|   | WTC II |
-|   | Antwerpsesteenweg 59B |
-|   | 1000 Brussel |
-|   |   |
-| Telefoon | +32 2 206 15 83 (cel overname) |
-|   | +32 2 206 16 06 |
-|   |   |
-| Telefax | +32 2 206 14 05 |
-
-| Adres | Ministerie van Binnenlandse Zaken van het Koninkrijk België |
-| --- | --- |
-|   | Algemeen Bestuur Dienst Vreemdelingenzaken |
-|   | WTC II |
-|   | Antwerpsesteenweg 59B |
-|   | 1000 Brussel |
-|   |   |
-| Telefoon | +32 2 206 1594 |
-|   | +32 2 206 1551 |
-|   |   |
-| Telefax | +32 2 206 1407 |
-|   | +32 2 206 1408 |
-
-- 2.2. De bevoegde instantie aan Luxemburgse zijde is:
-
-| Adres | Ministère de la Justice |
-| --- | --- |
-|   | 16, Boulevard Royal |
-|   | L-2934 Luxembourg |
-|   |   |
-| Telefoon | +352 478 4512 |
-|   | +352 478 4546 |
-|   |   |
-| Telefax | +352 22 76 61 |
-
-- 2.3. De bevoegde instantie aan Nederlandse zijde is:
-
-| Adres | Ministerie van Justitie, IND – Immigratie- en Naturalisatie-dienst, Bureau Dublin |
-| --- | --- |
-|   | Postbus 449 |
-|   | NL-6900 AK Zevenaar |
-|   |   |
-| Telefoon | +31 31 636 87 24 |
-|   |   |
-| Telefax | +31 31 636 86 49 |
-
-##### Artikel 2. Grensovergangen
-
-De voor de uitvoering van de Overeenkomst te benutten grensovergangen zijn:
-
-- 1. in de Federale Republiek Joegoslavië:
-
-- –. internationale grensovergangen voor het luchtverkeer, Luchthaven „Belgrado" en Luchthaven te Podgorica;
-
-- –. internationale grensovergangen voor het wegverkeer, Horgos en Batrovci;
-
-- 2. in het Koninkrijk België:
-
-- –. voor het luchtverkeer: Luchthaven Brussel Nationaal;
-
-- –. voor het wegverkeer: Raeren (Lichtenbuch), Kalmthout, Lanaken, Arlon (Sterpenich), Hensies of Menen (Rekkem);
-
-- 3. in het Groothertogdom Luxemburg:
-
-- –. voor het luchtverkeer: Luchthaven Luxemburg;
-
-- –. voor het wegverkeer: Wasserbilligbrück;
-
-- 4. in het Koninkrijk der Nederlanden:
-
-- –. voor het luchtverkeer: Luchthaven Schiphol te Amsterdam;
-
-- –. voor het wegverkeer: Nieuweschans, Zevenaar, Oldenzaal, Heerlen, Venlo, Kalmthout of Lanaken.
-
-##### Artikel 3. Procedure voor de terugname van onderdanen van de Overeenkomstsluitende Staten
-
-1. Het verzoek om terugname van personen in de zin van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&hoofdstuk=II&artikel=2&z=2004-05-29&g=2004-05-29) van de Overeenkomst bevat de in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&bijlage=1&z=2004-05-29&g=2004-05-29) bij dit Protocol gespecificeerde gegevens.
-
-2. De identiteit en de nationaliteit van een terug te nemen persoon kunnen overeenkomstig [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&hoofdstuk=II&artikel=4&z=2004-05-29&g=2004-05-29), van de Overeenkomst worden aangetoond resp. redelijkerwijs worden verondersteld door middel van de onder 2.1. en 2.2. genoemde documenten:
-
-- 2.1.
-
-- –. een geldig nationaal paspoort of paspoortvervangend reisdocument met foto (laissez-passer), afgegeven door de nationale bevoegde instantie;
-
-- –. een geldig nationaal identiteitsbewijs;
-
-- –. een geldig militair identiteitsbewijs of een ander identiteitsbewijs, afgegeven door een bevoegde militaire instantie, met een foto van de houder;
-
-- –. een zeemansboekje;
-
-- –. een maritiem boekje;
-
-- –. een rijbewijs;
-
-- –. een ander officieel document, afgegeven door de bevoegde instanties van de aangezochte Partij, voor zover dit van een foto is voorzien;
-
-- 2.2.
-
-- –. een document waaruit een consulaire inschrijving blijkt, een nationaliteitsbewijs of een akte van de burgerlijke stand;
-
-- –. een betrouwbare getuigenverklaring, opgesteld door de bevoegde instanties van de verzoekende Partij;
-
-- –. een verklaring van de betrokkene zelf;
-
-- –. de taal waarin betrokkene zich uitdrukt, vastgesteld door middel van een officieel testresultaat of presentatie aan de ambassade van de aangezochte Partij;
-
-- –. andere documenten waaruit de identiteit van de betrokkene blijkt.
-
-3. Indien de terug te nemen persoon in het bezit is van een geldig nationaal paspoort of paspoortvervangend reisdocument, afgegeven door de nationale bevoegde instantie, met een foto van de houder, hoeft geen formeel verzoek om zijn terugname te worden ingediend.
-
-4. In alle andere gevallen dient een verzoek te worden ingediend. Afschriften van de in lid 2 vermelde documenten dienen bij het verzoek te worden gevoegd, ook al is de geldigheid ervan verstreken.
-
-5. Het antwoord op het verzoek om terugname van personen bevat de in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&bijlage=2&z=2004-05-29&g=2004-05-29) bij dit Protocol gespecificeerde gegevens.
-
-6. Het positieve antwoord op het verzoek om terugname van personen wordt gelijktijdig aan de bevoegde instanties van de verzoekende Partij en de diplomatieke en consulaire vertegenwoordiging van de aangezochte Partij gericht, waarna het reisdocument wordt afgegeven. De terug te nemen persoon hoeft geen ondertekende aanvraag in te dienen.
-
-7. Indien de geldigheid van een voor de terugname van een persoon afgegeven reisdocument om de in [artikel 6, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&hoofdstuk=II&artikel=6&z=2004-05-29&g=2004-05-29), van de Overeenkomst genoemde redenen is verstreken, wordt voormeld document onverwijld zonder formaliteiten verlengd.
-
-8. Na ontvangst van het positieve antwoord op het verzoek om terugname van een persoon doen de bevoegde instanties van de verzoekende Partij het bericht inzake terugname van deze persoon aan de bevoegde instanties van de aangezochte Partij toekomen, een en ander in overeenstemming met [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&bijlage=3&z=2004-05-29&g=2004-05-29) van dit Protocol en zoals bepaald in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&hoofdstuk=II&artikel=6&z=2004-05-29&g=2004-05-29), van de Overeenkomst.
-
-##### Artikel 4. Procedure voor de overname van onderdanen van derde landen
-
-1. Het verzoek om overname van onderdanen van derde landen bevat de in [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&bijlage=4&z=2004-05-29&g=2004-05-29) bij dit Protocol gespecificeerde gegevens.
-
-2. De gegevens en de afschriften van documenten, indien beschikbaar, met betrekking tot de identiteit en de nationaliteit van de terug te leiden persoon, alsmede de gegevens en de afschriften van documenten, door middel waarvan de verplichtingen tot overname van onderdanen van derde landen kunnen worden aangetoond dan wel redelijkerwijs kunnen worden verondersteld, dienen bij het verzoek om overname van onderdanen van derde landen te worden gevoegd.
-
-3. De gegevens en documenten, door middel waarvan de verplichtingen tot overname op het grondgebied van de aangezochte Partij overeenkomstig [artikel 7, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&hoofdstuk=III&artikel=7&z=2004-05-29&g=2004-05-29), van de Overeenkomst kunnen worden aangetoond, zijn de volgende:
-
-- –. inreis-/uitreisstempels of een soortgelijke bevestiging in het reisdocument van de betrokkene;
-
-- –. geldige visa of geldige verblijfstitels, afgegeven door de bevoegde instanties van de aangezochte Partij, of soortgelijke documenten waarvan de geldigheid niet langer dan 12 maanden geleden is verstreken;
-
-- –. andere documenten, op naam afgegeven door de bevoegde instanties van de aangezochte Partij aan onderdanen van derde landen, bijvoorbeeld een rijsbewijs;
-
-- –. allerhande bewijzen of facturen (bijv. hotelrekeningen, afsprakenkaartjes voor (tand)artsen, toegangskaarten voor openbare/particuliere instellingen, enz.), waaruit duidelijk blijkt dat de betrokkene op het grondgebied van de aangezochte Partij heeft verbleven;
-
-- –. spoorkaartjes en tickets en/of passagierslijsten voor lucht- of zeevervoer, waaruit de reisroute van de betrokkene op het grondgebied van de aangezochte Partij blijkt;
-
-- –. officiële verklaringen, met name afgelegd door ambtenaren van de grensautoriteiten en andere getuigen die kunnen bevestigen dat de betrokkene de grenzen heeft overschreden (op zijn weg van het grondgebied van de aangezochte Partij naar het grondgebied van de verzoekende Partij).
-
-4. De gegevens en documenten, door middel waarvan de verplichtingen tot overname op het grondgebied van de aangezochte Partij overeenkomstig [artikel 7, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&hoofdstuk=III&artikel=7&z=2004-05-29&g=2004-05-29), van de Overeenkomst redelijkerwijs kunnen worden verondersteld, zijn de volgende:
-
-- –. beschrijving van locaties en omstandigheden waaronder de betrokkene na binnenkomst op het grondgebied van de verzoekende Partij is onderschept;
-
-- –. informatie omtrent identiteit en/of verblijf van een persoon, die door een internationale instantie is verstrekt;
-
-- –. verslagen/bevestiging van informatie door gezinsleden, reisgenoten, enz.;
-
-- –. informatie waaruit blijkt dat de betrokkene gebruik heeft gemaakt van de diensten van een reisleider of een reisbureau;
-
-- –. verklaringen van de betrokkene zelf;
-
-- –. andere informatie waaruit het verblijf of de doorreis van de onderdaan van een derde land op c.q. over het grondgebied van de aangezochte Partij blijkt.
-
-5. Het antwoord op het verzoek om overname van onderdanen van derde landen bevat de in [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&bijlage=5&z=2004-05-29&g=2004-05-29) bij dit Protocol gespecificeerde gegevens.
-
-6. Na ontvangst van het positieve antwoord op het verzoek om overname van onderdanen van derde landen doen de bevoegde instanties van de verzoekende Partij het bericht inzake overname van onderdanen van derde landen aan de bevoegde instanties van de aangezochte Partij toekomen, een en ander in overeenstemming met [Bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&bijlage=6&z=2004-05-29&g=2004-05-29) van dit Protocol en zoals bepaald in [artikel 7, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&hoofdstuk=III&artikel=7&z=2004-05-29&g=2004-05-29), van de Overeenkomst.
-
-##### Artikel 5. Procedure voor doorgeleiding van onderdanen van derde landen
-
-1. Het verzoek om doorgeleiding van onderdanen van derde landen bevat de in [Bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&bijlage=7&z=2004-05-29&g=2004-05-29) bij dit Protocol gespecificeerde gegevens.
-
-2. Het verzoek wordt per fax verzonden en de aangezochte Partij beantwoordt dit zonder verwijl.
-
-3. Het antwoord op het verzoek om doorgeleiding van onderdanen van derde landen bevat de in [Bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&bijlage=8&z=2004-05-29&g=2004-05-29) bij dit Protocol gespecificeerde gegevens.
-
-4. Het vervoer van onderdanen van derde landen vindt via de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&artikel=2&z=2004-05-29&g=2004-05-29) van dit Protocol vermelde grensovergangen plaats.
-
-##### Artikel 6. Kosten
-
-Alle kosten verbonden aan het proces van terug-/overname en doorgeleiding zijn vastgesteld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&hoofdstuk=VI&artikel=14&z=2004-05-29&g=2004-05-29) van de Overeenkomst.
-
-Alle door de aangezochte Partij gemaakte kosten worden door de verzoekende Partij vergoed door middel van een bankgiro binnen dertig (30) dagen te rekenen van de dag van overhandiging van de factuur.
-
-##### Artikel 7. Inwerkingtreding en opzegging
-
-Dit Protocol wordt overeenkomstig de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&hoofdstuk=VII&artikel=17&z=2004-05-29&g=2004-05-29) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&hoofdstuk=VII&artikel=18&z=2004-05-29&g=2004-05-29) van de Overeenkomst toegepast en gelijktijdig met de opzegging van de Overeenkomst opgezegd.
-
 TEN BLIJKE WAARVAN de vertegenwoordigers van de Overeenkomstsluitende Staten, daartoe naar behoren gemachtigd, deze Overeenkomst hebben ondertekend.
 
 GEDAAN te Belgrado, op 19 juli 2002, in vier originele exemplaren, in de Nederlandse, de Franse, de Servische en de Engelse taal, zijnde de teksten in elk van deze talen gelijkelijk authentiek. In geval van verschillen in interpretatie is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) H. M. KLIJN
 
-**Voor de Regering van het Koninkrijk België**
+*Voor de Regering van het Koninkrijk België*
 
 (w.g.) W. NARTUS
 
-**Voor de Regering van het Groothertogdom Luxemburg**
+*Voor de Regering van het Groothertogdom Luxemburg*
 
 (w.g.) A. BERNS
 
-**Voor de Federale Regering van de Federale Republiek Joegoslavië**
+*Voor de Federale Regering van de Federale Republiek Joegoslavië*
 
 (w.g.) Z. ZIVKOVIC

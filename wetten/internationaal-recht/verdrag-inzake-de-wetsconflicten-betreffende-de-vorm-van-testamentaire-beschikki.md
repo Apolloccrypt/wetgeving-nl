@@ -1,187 +1,161 @@
 ---
 title: "Verdrag inzake de wetsconflicten betreffende de vorm van testamentaire beschikkingen"
 identifier: "BWBV0002006"
-country: "nl"
-rank: "verdrag"
-publication_date: "1982-08-01"
-last_updated: "1982-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002006"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002606413"
-version_id: "10002603432"
-internal_id: "C10006992461"
-label_id: "10002595744"
-dtd_version: "2.0"
-original_entry_into_force: "1982-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002006/1982-08-01/0"
-intitule_bron: "Trb.1980-54"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1982-06-02"
-intitule_published: "1980-05-06"
-intitule_in_force: "1982-06-02"
-intitule_status: "goed"
-original_publication: "Trb.1980-54"
-original_signed_date: "1982-06-02"
-original_published_date: "1980-05-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1980-54"
-entry_into_force_date: "1982-08-01"
-jci_1_3: "jci1.3:c:BWBV0002006&z=1982-08-01&g=1982-08-01"
-jci_1_0: "1.0:c:BWBV0002006&g=1982-08-01"
-citeertitel_status: "redactioneel"
-signed_date: "1982-06-02"
-entry_into_force: "1982-08-01"
+publicatiedatum: 1982-08-01
+laatste_update: 1982-08-01
+status: geldig
+toestand: 1982-08-01
+bron: "https://wetten.overheid.nl/BWBV0002006"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag inzake de wetsconflicten betreffende de vorm van testamentaire beschikkingen
 
-De Staten, die dit Verdrag hebben ondertekend,
+*The States signatory to the present Convention, Desiring to establish common provisions on the conflicts of laws relating to the form of testamentary dispositions, Have resolved to conclude a Convention to this effect and have agreed upon the following provisions:*
 
-Verlangend gemeenschappelijke regels omtrent de oplossing van wetsconflicten betreffende de vorm van testamentaire beschikkingen op te stellen,
+##### Article 1
 
-Hebben besloten te dien einde een Verdrag te sluiten en zijn overeengekomen als volgt:
+A testamentary disposition shall be valid as regards form if its form complies with the internal law:
 
-##### Artikel 1
+- a) of the place where the testator made it, or
 
-Een testamentaire beschikking is wat de vorm betreft geldig, indien zij beantwoordt aan de eisen van het interne recht.
+- b) of a nationality possessed by the testator, either at the time when he made the disposition, or at the time of his death, or
 
-- a). van de plaats waar de testateur beschikte, of
+- c) of a place in which the testator had his domicile either at the time when he made the disposition, or at the time of his death, or
 
-- b). van een Staat waarvan de testateur de nationaliteit bezat, hetzij op het ogenblik waarop hij beschikte, hetzij op het ogenblik van zijn overlijden, of
+- d) of the place in which the testator had his habitual residence either at the time when he made the disposition, or at the time of his death, or
 
-- c). van een plaats waar de testateur zijn woonplaats had, hetzij op het ogenblik waarop hij beschikte, hetzij op het ogenblik van zijn overlijden, of
+- e) so far as immovables are concerned, of the place where they are situated.
 
-- d). van de plaats waar de testateur zijn gewoon verblijf had, hetzij op het ogenblik waarop hij beschikte, hetzij op het ogenblik van zijn overlijden, of
+For the purposes of the present Convention, if a national law consists of a non-unified system, the law to be applied shall be determined by the rules in force in that system and, failing any such rules, by the most real connexion which the testator had with any one of the various laws within that system.
 
-- e). voor onroerende goederen, van de plaats van hun ligging.
+The determination of whether or not the testator had his domicile in a particular place shall be governed by the law of that place.
 
-Indien in de Staat waarvan de testateur de nationaliteit bezat, meer dan één rechtsstelsel bestaat, dan wordt voor de toepassing van dit Verdrag het toepasselijke recht aangewezen door de regels, die in die Staat gelden en bij gebreke van zodanige regels door dat recht uit die Staat, met hetwelk de testateur de nauwste band bezat.
+##### Article 2
 
-De vraag of de testateur woonplaats had op een bepaalde plaats wordt beheerst door het recht van die plaats.
+Article 1 shall apply to testamentary dispositions revoking an earlier testamentary disposition.
 
-##### Artikel 2
+The revocation shall also be valid as regards form if it complies with any one of the laws according to the terms of which, under Article 1, the testamentary disposition that has been revoked was valid.
 
-Artikel 1 is ook van toepassing op testamentaire beschikkingen, waarbij een vroegere testamentaire beschikking wordt herroepen.
+##### Article 3
 
-De herroeping is wat de vorm betreft ook geldig, indien zij beantwoordt aan de vereisten van één der rechtsstelsels volgens welke, bij toepassing van artikel 1, de herroepen testamentaire beschikking geldig was.
+The present Convention shall not affect any existing or future rules of law in contracting States which recognize testamentary dispositions made in compliance with the formal requirements of a law other than a law referred to in the preceding Articles.
 
-##### Artikel 3
+##### Article 4
 
-Dit Verdrag maakt geen inbreuk op bestaande of toekomstige regels van de verdragsluitende Staten, ingevolge welke testamentaire beschikkingen die gemaakt zijn in de vorm die door een niet in de voorgaande artikelen genoemd recht is voorgeschreven, worden erkend.
+The present Convention shall also apply to the form of testamentary dispositions made by two or more persons in one document.
 
-##### Artikel 4
+##### Article 5
 
-Dit Verdrag is eveneens van toepassing op de vorm van door twee of meer personen bij eenzelfde akte gemaakte testamentaire beschikkingen.
+For the purposes of the present Convention, any provision of law which limits the permitted forms of testamentary dispositions by reference to the age, nationality or other personal conditions of the testator, shall be deemed to pertain to matters of form. The same rule shall apply to the qualifications that must be possessed by witnesses required for the validity of a testamentary disposition.
 
-##### Artikel 5
+##### Article 6
 
-Voor de toepassing van dit Verdrag worden voorschriften, die op grond van leeftijd, nationaliteit of andere persoonlijke hoedanigheden van de testateur de voor testamentaire beschikkingen toelaatbare vormen beperken, tot de vormvoorschriften gerekend. Hiertoe worden eveneens gerekend de hoedanigheden, die de voor de geldigheid van een testamentaire beschikking vereiste getuigen moeten bezitten.
+The application of the rules of conflicts laid down in the present Convention shall be independent of any requirement of reciprocity. The Convention shall be applied even if the nationality of the persons involved or the law to be applied by virtue of the foregoing Articles is not that of a contracting State.
 
-##### Artikel 6
+##### Article 7
 
-De toepassing van. de bij dit Verdrag vastgestelde conflictenregels is onafhankelijk van enig vereiste van wederkerigheid. Het Verdrag is van toepassing zelfs indien de nationaliteit van de betrokkenen of het ingevolge de voorgaande artikelen toepasselijke recht niet dat van een verdragsluitende Staat is.
+The application of any of the laws declared applicable by the present Convention may be refused only when it is manifestly contrary to "ordre public".
 
-##### Artikel 7
+##### Article 8
 
-De toepassing van een door dit Verdrag aangewezen recht kan slechts ter zijde worden gesteld, indien deze toepassing kennelijk onverenigbaar is met de openbare orde.
+The present Convention shall be applied in all cases where the testator dies after its entry into force.
 
-##### Artikel 8
+##### Article 9
 
-Dit Verdrag is van toepassing in alle gevallen waarin de testateur is overleden na de inwerkingtreding van het Verdrag.
+Each contracting State may reserve the right, in derogation of the third paragraph of Article 1, to determine in accordance with the *lex fori* the place where the testator had his domicile.
 
-##### Artikel 9
+##### Article 10
 
-Iedere verdragsluitende Staat kan zich het recht voorbehouden om, in afwijking van artikel 1, derde lid, naar het recht van de rechter de plaats te bepalen, waar de testateur woonplaats had.
+Each contracting State may reserve the right not to recognize testamentary dispositions made orally, save in exceptional circumstances, by one of its nationals possessing no other nationality.
 
-##### Artikel 10
+##### Article 11
 
-Iedere verdragsluitende Staat kan zich het recht voorbehouden om testamentaire beschikkingen van een zijner onderdanen, die geen andere nationaliteit bezit, niet te erkennen indien deze, behoudens in buitengewone omstandigheden, in de mondelinge vorm zijn gemaakt.
+Each contracting State may reserve the right not to recognize, by virtue of provisions of its own law relating thereto, forms of testamentary dispositions made abroad when the following conditions are fulfilled:
 
-##### Artikel 11
+- a) the testamentary disposition is valid as to form by reason only of a law solely applicable because of the place where the testator made his disposition,
 
-ledere verdragsluitende Staat kan zich het recht voorbehouden om, op grond van de desbetreffende voorschriften van zijn recht, bepaalde vormen van in het buitenland gemaakte testamentaire beschikkingen niet te erkennen, indien de volgende voorwaarden zijn vervuld:
+- b) the testator possessed the nationality of the State making the reservation,
 
-- a). de testamentaire beschikking is naar de vorm slechts geldig krachtens een recht, dat uitsluitend van toepassing is uit hoofde van de plaats waar de testateur heeft beschikt,
+- c) the testator was domiciled in the said State or had his habitual residence there, and
 
-- b). de testateur bezat de nationaliteit van de Staat, die het voorbehoud heeft gemaakt,
+- d) the testator died in a State other than that in which he had made his disposition.
 
-- c). de testateur had woonplaats of gewoon verblijf in die Staat, en
+This reservation shall be effective only as to the property situated in the State making the reservation.
 
-- d). de testateur is overleden in een andere Staat dan die, waar hij had beschikt.
+##### Article 12
 
-Dit voorbehoud heeft slechts gevolg ten aanzien van de goederen, die zich bevinden in de Staat, die het voorbehoud heeft gemaakt.
+Each contracting State may reserve the right to exclude from the application of the present Convention any testamentary clauses which, under its law, do not relate to matters of succession.
 
-##### Artikel 12
+##### Article 13
 
-Iedere verdragsluitende Staat kan zich het recht voorbehouden om de toepassing van dit Verdrag op testamentaire bepalingen, die naar zijn recht niet van erfrechtelijke aard zijn, uit te sluiten.
+Each contracting State may reserve the right, in derogation of Article 8, to apply the present Convention only to testamentary dispositions made after its entry into force.
 
-##### Artikel 13
+##### Article 14
 
-Iedere verdragsluitende Staat kan zich het recht voorbehouden om, in afwijking van artikel 8, dit Verdrag slechts toe te passen, op na zijn inwerkingtreding gemaakte testamentaire beschikkingen.
+The present Convention shall be open for signature by the States represented at the Ninth session of the Hague Conference on Private International Law.
 
-##### Artikel 14
+It shall be ratified, and the instruments of ratification shall be deposited with the Ministry of Foreign Affairs of the Netherlands.
 
-Dit Verdrag staat ter ondertekening open voor de Staten, vertegenwoordigd op de Negende Zitting van de Haagse Conferentie voor Internationaal Privaatrecht.
+##### Article 15
 
-Het zal worden bekrachtigd en de akten van bekrachtiging zullen worden nedergelegd bij het Ministerie van Buitenlandse Zaken van Nederland.
+The present Convention shall enter into force on the sixtieth day after the deposit of the third instrument of ratification referred to in the second paragraph of Article 14.
 
-##### Artikel 15
+The Convention shall enter into force for each signatory State which ratifies subsequently on the sixtieth day after the deposit of its instrument of ratification.
 
-Dit Verdrag treedt in werking op de zestigste dag na de nederlegging van de derde akte van bekrachtiging bedoeld in artikel 14, tweede lid.
+##### Article 16
 
-Het Verdrag treedt voor elke ondertekenende Staat die later bekrachtigt in werking op de zestigste dag na de nederlegging van zijn akte van bekrachtiging.
+Any State not represented at the Ninth session of the Hague Conference on Private International Law may accede to the present Convention after it has entered into force in accordance with the first paragraph of Article 15. The instrument of accession shall be deposited with the Ministry of Foreign Affairs of the Netherlands.
 
-##### Artikel 16
+The Convention shall enter into force for a State acceding to it on the sixtieth day after the deposit of its instrument of accession.
 
-Iedere Staat die niet is vertegenwoordigd geweest op de Negende Zitting van de Haagse Conferentie voor Internationaal Privaatrecht kan tot dit Verdrag toetreden na zijn inwerkingtreding krachtens artikel 15, eerste lid. De akte van toetreding zal worden nedergelegd bij het Ministerie van Buitenlandse Zaken van Nederland.
+##### Article 17
 
-Het Verdrag treedt voor de toetredende Staat in werking op de zestigste dag na de nederlegging van zijn akte van toetreding.
+Any State may, at the time of signature, ratification or accession, declare that the present Convention shall extend to all the territories for the international relations of which it is responsible, or to one or more of them. Such a declaration shall take effect on the date of entry into force of the Convention for the State concerned.
 
-##### Artikel 17
+At any time thereafter, such extensions shall be notified to the Ministry of Foreign Affairs of the Netherlands.
 
-Iedere Staat kan op het tijdstip van ondertekening, bekrachtiging of toetreding verklaren, dat dit Verdrag zich zal uitstrekken tot het geheel van de gebieden voor welker internationale betrekkingen hij verantwoordelijk is of tot één of meer van deze. Deze verklaring krijgt gevolg op het tijdstip van de inwerkingtreding van het Verdrag voor deze Staat.
+The Convention shall enter into force for the territories mentioned in such an extension on the sixtieth day after the notification referred to in the preceding paragraph.
 
-Vervolgens wordt elke uitbreiding van deze aard ter kennis gebracht van het Ministerie van Buitenlandse Zaken van Nederland.
+##### Article 18
 
-Het Verdrag treedt voor de in de verklaring van uitbreiding genoemde gebieden in werking op de zestigste dag na de in het vorige lid vermelde kennisgeving.
+Any State may, not later than the moment of its ratification or accession, make one or more of the reservations mentioned in Articles 9, 10, 11, 12 and 13 of the present Convention. No other reservation shall be permitted.
 
-##### Artikel 18
+Each contracting State may also, when notifying an extension of the Convention in accordance with Article 17, make one or more of the said reservations, with its effect limited to all or some of the territories mentioned in the extension.
 
-Iedere Staat kan, uiterlijk op het tijdstip van bekrachtiging of toetreding, één of meer van de in de artikelen 9, 10, 11, 12 en 13 van dit Verdrag bedoelde voorbehouden maken. Geen ander voorbehoud is toegestaan.
+Each contracting State may at any time withdraw a reservation it has made. Such a withdrawal shall be notified to the Ministry of Foreign Affairs of the Netherlands.
 
-Iedere verdragsluitende Staat kan eveneens bij de kennisgeving van een uitbreiding van het Verdrag overeenkomstig artikel 17 één of meer van deze voorbehouden maken, waarvan de werking beperkt blijft tot de in de verklaring van uitbreiding genoemde gebieden of tot één of meer van deze.
+Such a reservation shall cease to have effect on the sixtieth day after the notification referred to in the preceding paragraph.
 
-Iedere verdragsluitende Staat kan op elk tijdstip een door hem gemaakt voorbehoud intrekken. Deze intrekking wordt ter kennis gebracht van het Ministerie van Buitenlandse Zaken van Nederland.
+##### Article 19
 
-De werking van het voorbehoud eindigt op de zestigste dag na de kennisgeving, bedoeld in het vorige lid.
+The present Convention shall remain in force for five years from the date of its entry into force in accordance with the first paragraph of Article 15, even for States which have ratified it or acceded to it subsequently.
 
-##### Artikel 19
+If there has been no denunciation, it shall be renewed tacitly every five years.
 
-Dit Verdrag blijft gedurende vijf jaren van kracht, te rekenen van de dag van zijn inwerkingtreding krachtens artikel 15, eerste lid, zelfs voor de Staten, die het later hebben bekrachtigd of later zijn toegetreden.
+Any denunciation shall be notified to the Ministry of Foreign Affairs of the Netherlands at least six months before the end of the five year period.
 
-Het Verdrag wordt stilzwijgend telkens voor vijf jaren verlengd behoudens opzegging.
+It may be limited to certain of the territories to which the Convention applies.
 
-De opzegging wordt tenminste zes maanden vóór het einde van de termijn van vijf jaren ter kennis gebracht van het Ministerie van Buitenlandse Zaken van Nederland.
+The denunciation will only have effect as regards the State which has notified it. The Convention shall remain in force for the other contracting States.
 
-Zij kan zich beperken tot bepaalde van de gebieden, waarop het Verdrag van toepassing is.
+##### Article 20
 
-De opzegging heeft slechts gevolg ten opzichte van de Staat die haar gedaan heeft. Het Verdrag blijft van kracht voor de andere verdragsluitende Staten.
+The Ministry of Foreign Affairs of the Netherlands shall give notice to the States referred to in Article 14, and to the States which have acceded in accordance with Article 16, of the following:
 
-##### Artikel 20
+- a) the signatures and ratifications referred to in Article 14;
 
-Het Ministerie van Buitenlandse Zaken van Nederland geeft aan de in artikel 14 bedoelde Staten, alsmede aan de Staten die overeenkomstig de bepalingen van artikel 16 zijn toegetreden, kennis van:
+- b) the date on which the present Convention enters into force in accordance with the first paragraph of Article 15;
 
-- a). de in artikel 14 bedoelde ondertekeningen en bekrachtigingen;
+- c) the accessions referred to in Article 16 and the date on which they take effect;
 
-- b). de datum waarop dit Verdrag in werking zal treden krachtens de bepalingen van artikel 15, eerste lid;
+- d) the extensions referred to in Article 17 and the date on which they take effect;
 
-- c). de in artikel 16 bedoelde toetredingen alsmede de datum, waarop zij gevolg zullen hebben;
+- e) the reservations and withdrawals referred to in Article 18;
 
-- d). de in artikel 17 bedoelde uitbreidingen en de datum waarop zij gevolg zullen hebben;
-
-- e). de in artikel IS bedoelde voorbehouden en intrekking van voorbehouden;
-
-- f). de in artikel 19, derde lid, bedoelde opzeggingen.
+- f) the denunciation referred to in the third paragraph of Article 19.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed the present Convention.
 

@@ -1,47 +1,21 @@
 ---
 title: "Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika"
 identifier: "BWBV0002519"
-country: "nl"
-rank: "verdrag"
-publication_date: "2003-05-01"
-last_updated: "2003-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002519"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10002920353"
-version_id: "10002921822"
-internal_id: "C10006980751"
-label_id: "10002907764"
-dtd_version: "2.0"
-original_entry_into_force: "1990-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002519/2003-05-01/0"
-intitule_bron: "Trb.1987-202"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1987-12-08"
-intitule_published: "1987-12-31"
-intitule_in_force: "1990-10-05"
-intitule_status: "goed"
-original_publication: "Trb.1987-202"
-original_signed_date: "1987-12-08"
-original_published_date: "1987-12-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1987-202"
-entry_into_force_date: "1990-11-01"
-jci_1_3: "jci1.3:c:BWBV0002519&z=2003-05-01&g=2003-05-01"
-jci_1_0: "1.0:c:BWBV0002519&g=2003-05-01"
-citeertitel_status: "officieel"
-signed_date: "1987-12-08"
-entry_into_force: "1990-11-01"
+publicatiedatum: 1990-11-01
+laatste_update: 2003-05-01
+status: geldig
+toestand: 2003-05-01
+bron: "https://wetten.overheid.nl/BWBV0002519"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika
 
-De Regering van het Koninkrijk der Nederlanden en
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika, Geleid door de wens de betrekkingen tussen de beide Staten op het gebied van de sociale zekerheid te regelen, zijn het volgende overeengekomen :*
 
-de Regering van de Verenigde Staten van Amerika,
-
-Geleid door de wens de betrekkingen tussen de beide Staten op het gebied van de sociale zekerheid te regelen, zijn het volgende overeengekomen :
-
-## TITEL I. ALGEMENE BEPALINGEN
+### TITEL I. ALGEMENE BEPALINGEN
 
 ##### Artikel 1
 
@@ -69,25 +43,25 @@ Voor de toepassing van dit Verdrag:
 
 1. Dit Verdrag is van toepassing
 
-- (a). Wat de Verenigde Staten betreft, op de wetten betreffende het Federale Programma inzake Ouderdomsverzekering, Verzekering van nagelaten betrekkingen en Invaliditeitsverzekering:
+- (a) Wat de Verenigde Staten betreft, op de wetten betreffende het Federale Programma inzake Ouderdomsverzekering, Verzekering van nagelaten betrekkingen en Invaliditeitsverzekering:
 
-- i). Titel II van de "Social Security Act" en de krachtens deze wet getroffen regelingen, met uitzondering van de artikelen 226, 226A en 228 van die titel en de krachtens deze artikelen getroffen regelingen, en
+   - i) Titel II van de "Social Security Act" en de krachtens deze wet getroffen regelingen, met uitzondering van de artikelen 226, 226A en 228 van die titel en de krachtens deze artikelen getroffen regelingen, en
 
-- ii). Hoofdstuk 2 en Hoofdstuk 21 van de Internal Revenue Code van 1986 en de krachtens deze hoofdstukken getroffen regelingen;
+   - ii) Hoofdstuk 2 en Hoofdstuk 21 van de Internal Revenue Code van 1986 en de krachtens deze hoofdstukken getroffen regelingen;
 
-- (b). Wat Nederland betreft, op de wetten betreffende:
+- (b) Wat Nederland betreft, op de wetten betreffende:
 
-- i). de invaliditeitsverzekering;
+   - i) de invaliditeitsverzekering;
 
-- ii). de algemene ouderdomsverzekering;
+   - ii) de algemene ouderdomsverzekering;
 
-- iii). de algemene weduwen- en wezenverzekering;
+   - iii) de algemene weduwen- en wezenverzekering;
 
-- iv). de ziekteverzekering (uitkeringen en verstrekkingen);
+   - iv) de ziekteverzekering (uitkeringen en verstrekkingen);
 
-- v). de werkloosheidsverzekering;
+   - v) de werkloosheidsverzekering;
 
-- vi). de kinderbijslagen.
+   - vi) de kinderbijslagen.
 
 2. Dit Verdrag is eveneens van toepassing op toekomstige wetgeving van een Verdragsluitende Staat, die de in het eerste lid genoemde wetten uitbreidt tot nieuwe groepen rechthebbenden, tenzij de Bevoegde Autoriteit van die Verdragsluitende Staat binnen drie maanden na de officiële bekendmaking van de nieuwe wetgeving de Bevoegde Autoriteit van de andere Verdragsluitende Staat ervan in kennis stelt dat zij een zodanige uitbreiding van het Verdrag niet wenst.
 
@@ -103,13 +77,13 @@ Tenzij anders is bepaald, is dit Verdrag van toepassing op alle personen op wie 
 
 1. Behoudens het bepaalde in het tweede lid worden de volgende personen, zolang zij wonen op het grondgebied van een Verdragsluitende Staat, voor de toepassing van de wetten van deze Staat gelijkgesteld met onderdanen van deze Staat:
 
-- a). de onderdanen van de andere Verdragsluitende Staat;
+- a) de onderdanen van de andere Verdragsluitende Staat;
 
-- b). vluchtelingen, als bedoeld in artikel 1 van het Verdrag betreffende de status van vluchtelingen van 28 juli 1951 en in het eerste lid van artikel 1 van het Protocol van 31 januari 1967 bij genoemd Verdrag;
+- b) vluchtelingen, als bedoeld in artikel 1 van het Verdrag betreffende de status van vluchtelingen van 28 juli 1951 en in het eerste lid van artikel 1 van het Protocol van 31 januari 1967 bij genoemd Verdrag;
 
-- c). staatlozen, als bedoeld in artikel 1 van het Verdrag betreffende de status van staatlozen van 28 september 1954;
+- c) staatlozen, als bedoeld in artikel 1 van het Verdrag betreffende de status van staatlozen van 28 september 1954;
 
-- d). gezinsleden en nagelaten betrekkingen, ongeacht hun nationaliteit, van de onder a), b) en c) bedoelde personen met betrekking tot rechten die zij ontlenen aan deze personen.
+- d) gezinsleden en nagelaten betrekkingen, ongeacht hun nationaliteit, van de onder a), b) en c) bedoelde personen met betrekking tot rechten die zij ontlenen aan deze personen.
 
 2. Het eerste lid is niet van toepassing op de wetten inzake verplichte verzekering van de Verenigde Staten.
 
@@ -121,7 +95,7 @@ Tenzij anders is bepaald, is dit Verdrag van toepassing op alle personen op wie 
 
 Uitkeringen uit hoofde van de Nederlandse Kinderbijslagwet worden ook betaald, wanneer de desbetreffende verzekerde of het kind woont of verblijft op het grondgebied van de Verenigde Staten.
 
-## TITEL II. BEPALINGEN INZAKE DE TOEPASSELIJKE WETTEN
+### TITEL II. BEPALINGEN INZAKE DE TOEPASSELIJKE WETTEN
 
 ##### Artikel 6
 
@@ -145,9 +119,9 @@ Behoudens het bepaalde in artikel 9 zijn op degene die in Nederland woont en in 
 
 ##### Artikel 10
 
-- a). Indien een persoon die als officier of als lid van de bemanning van een Amerikaans schip werkzaam is, verzekerd is krachtens de wetten van beide Verdragsluitende Staten, zijn op hem uitsluitend de wetten van de Verenigde Staten van toepassing.
+1. - a) Indien een persoon die als officier of als lid van de bemanning van een Amerikaans schip werkzaam is, verzekerd is krachtens de wetten van beide Verdragsluitende Staten, zijn op hem uitsluitend de wetten van de Verenigde Staten van toepassing.
 
-- b). Indien een persoon die als officier of als lid van de bemanning van een schip dat geen Amerikaans schip is, werkzaam is, verzekerd is krachtens de wetten van beide Verdragsluitende Staten, zijn op hem uitsluitend de Nederlandse wetten van toepassing.
+- b) Indien een persoon die als officier of als lid van de bemanning van een schip dat geen Amerikaans schip is, werkzaam is, verzekerd is krachtens de wetten van beide Verdragsluitende Staten, zijn op hem uitsluitend de Nederlandse wetten van toepassing.
 
 2. Indien een persoon die als officier of als lid van de bemanning van een luchtvaartuig werkzaam is, verzekerd is krachtens de wetten van beide Verdragsluitende Staten, zijn op hem uitsluitend de wetten van toepassing van de Verdragsluitende Staat op het grondgebied waarvan de hoofdzetel van de werkgever is gevestigd.
 
@@ -171,7 +145,7 @@ Voor de toepassing van de Nederlandse wetten wordt degene op wie overeenkomstig 
 
 De Bevoegde Autoriteiten van de beide Verdragsluitende Staten kunnen in het belang van personen of van groepen personen uitzonderingen op de bepalingen van deze Titel overeenkomen, op voorwaarde dat op de betrokkenen de wetten van één van de Verdragsluitende Staten van toepassing zijn.
 
-## TITEL III. BEPALINGEN BETREFFENDE UITKERINGEN
+### TITEL III. BEPALINGEN BETREFFENDE UITKERINGEN
 
 ### HOOFDSTUK A. BEPALINGEN DIE VOOR DE VERENIGDE STATEN GELDEN
 
@@ -201,11 +175,11 @@ De Bevoegde Autoriteiten van de beide Verdragsluitende Staten kunnen in het bela
 
 5. De volgende krachtens de Nederlandse wetten vervulde verzekeringstijdvakken worden in aanmerking genomen:
 
-- a). verzekeringstijdvakken gedurende arbeid vervuld krachtens de Wet op de Arbeidsongeschiktheidsverzekering van 18 februari 1966 (WAO);
+- a) verzekeringstijdvakken gedurende arbeid vervuld krachtens de Wet op de Arbeidsongeschiktheidsverzekering van 18 februari 1966 (WAO);
 
-- b). verzekeringstijdvakken gedurende zelfstandige arbeid vervuld krachtens de Algemene Arbeidsongeschiktheidswet van 11 december 1975 (AAW);
+- b) verzekeringstijdvakken gedurende zelfstandige arbeid vervuld krachtens de Algemene Arbeidsongeschiktheidswet van 11 december 1975 (AAW);
 
-- c). tijdvakken van arbeid en daarmee gelijkgestelde tijdvakken die vóór 1 juli 1967 in Nederland zijn vervuld.
+- c) tijdvakken van arbeid en daarmee gelijkgestelde tijdvakken die vóór 1 juli 1967 in Nederland zijn vervuld.
 
 6. In de gevallen bedoeld in de eerste volzin van het vierde lid wordt, wanneer een krachtens de WAO vervuld verzekeringstijdvak samenvalt met een krachtens de AAW vervuld verzekeringstijdvak, alleen het krachtens de WAO vervulde tijdvak in aanmerking genomen.
 
@@ -227,19 +201,19 @@ De Bevoegde Autoriteiten van de beide Verdragsluitende Staten kunnen in het bela
 
 3. Het bedrag van de in het eerste lid bedoelde uitkering wordt berekend naar verhouding van de totale duur van de door de overledene voor het bereiken van de 65-jarige leeftijd krachtens de Nederlandse wet vervulde verzekeringstijdvakken tot de duur van het tijdvak gelegen tussen de datum waarop hij de 15-jarige leeftijd bereikte en de datum van zijn overlijden, maar uiterlijk de datum waarop hij de 65-jarige leeftijd bereikte.
 
-## TITEL IV. DIVERSE BEPALINGEN
+### TITEL IV. DIVERSE BEPALINGEN
 
 ##### Artikel 19
 
 De Bevoegde Autoriteiten van de beide Verdragsluitende Staten:
 
-- a). treffen alle administratieve regelingen die voor de toepassing van dit Verdrag nodig zijn;
+- a) treffen alle administratieve regelingen die voor de toepassing van dit Verdrag nodig zijn;
 
-- b). wijzen op hun onderscheiden grondgebieden verbindingsorganen aan om de toepassing van dit Verdrag te vergemakkelijken;
+- b) wijzen op hun onderscheiden grondgebieden verbindingsorganen aan om de toepassing van dit Verdrag te vergemakkelijken;
 
-- c). stellen elkaar in kennis van de maatregelen die getroffen zijn voor de toepassing van dit Verdrag; en
+- c) stellen elkaar in kennis van de maatregelen die getroffen zijn voor de toepassing van dit Verdrag; en
 
-- d). stellen elkaar zo spoedig mogelijk in kennis van alle wijzigingen in hun onderscheiden wetten die van invloed kunnen zijn op de toepassing van dit Verdrag.
+- d) stellen elkaar zo spoedig mogelijk in kennis van alle wijzigingen in hun onderscheiden wetten die van invloed kunnen zijn op de toepassing van dit Verdrag.
 
 ##### Artikel 20
 
@@ -283,7 +257,7 @@ Indien in de wetten van een Verdragsluitende Staat is bepaald dat een document d
 
 Dit Verdrag kan in de toekomst gewijzigd worden door aanvullende verdragen, die vanaf hun inwerkingtreding worden beschouwd als een integrerend onderdeel van dit Verdrag. Aan dergelijke aanvullende verdragen kan terugwerkende kracht worden toegekend indien dit daarin is aangegeven.
 
-## TITEL V. OVERGANGS- EN SLOTBEPALINGEN
+### TITEL V. OVERGANGS- EN SLOTBEPALINGEN
 
 ##### Artikel 28
 
@@ -307,116 +281,14 @@ Beide Verdragsluitende Staten stellen elkaar schriftelijk in kennis van de volto
 
 2. Indien dit Verdrag is beëindigd blijven de rechten betreffende aanspraak op of betaling van uitkeringen die krachtens dit Verdrag zijn verkregen, gehandhaafd; voor de in opbouw zijnde rechten zullen de Verdragsluitende Staten regelingen treffen.
 
-Overeenkomstig artikel 19, sub a) van het Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika inzake sociale zekerheid, ondertekend op 8 december 1987, zijn de bevoegde autoriteiten:
-
-voor Nederland,
-
-de Minister van Sociale Zaken en Werkgelegenheid
-
-voor de Verenigde Staten van Amerika,
-
-the Secretary of Health and Human Services
-
-de volgende bepalingen overeengekomen:
-
-### HOOFDSTUK I. ALGEMENE BEPALINGEN
-
-##### Artikel 1
-
-1. Voor de toepassing van dit Administratief Akkoord, wordt onder „Verdrag” verstaan het Verdrag inzake sociale zekerheid tussen deVerenigde Staten van Amerika en het Koninkrijk der Nederlanden.
-
-2. Andere termen hebben de hun in het Verdrag toegekende betekenis.
-
-##### Artikel 2
-
-1. Overeenkomstig artikel 19, sub b) van het Verdrag zijn de volgende verbindingsorganen aangewezen:
-
-Voor de Verenigde Staten:
-
-- de Social Security Administration.
-
-Voor Nederland:
-
-- a). voor wat betreft de ouderdoms-, weduwen- en wezenverzekering: de Sociale Verzekeringsbank;
-
-- b). voor wat betreft de invaliditeitsverzekering: het Gemeenschappelijk Administratiekantoor.
-
-2. De verbindingsorganen van de Verdragsluitende Staten stellen de voor de uitvoering van het Verdrag benodigde formulieren en procedures gezamenlijk vast.
-
-3. Voor de toepassing van het Verdrag kunnen de verbindingsorganen zich zowel rechtstreeks met elkaar als met personen, ongeacht hun woonplaats, in verbinding stellen.
-
-##### Artikel 3
-
-Het bevoegde Nederlandse uitvoeringsorgaan voor de toepassing van artikel 16 van het Verdrag is de Nieuwe Algemene Bedrijsvereniging.
-
-### HOOFDSTUK II. BEPALINGEN INZAKE DE TOEPASSELIJKE WETGEVING
-
-##### Artikel 4
-
-1. Voor de toepassing van dit artikel wordt onder „orgaan” verstaan voor wat de Verenigde Staten betreft, de Social Security Administration, en voor wat Nederland betreft, de Sociale Verzekeringsraad.
-
-2. Wanneer de wetten van een Verdragsluitende Staat overeenkomstig Titel II van het Verdrag van toepassing zijn, geeft het orgaan van die Verdragsluitende Staat, op verzoek van een werknemer, zijn werkgever of van een zelfstandige, een verklaring af waaruit blijkt dat op de werknemer of de zelfstandige die wetten van toepassing zijn.
-
-Deze verklaring is het bewijs dat de genoemde persoon is vrijgesteld van de wetten inzake verplichte verzekering van de andere Verdragsluitende Staat.
-
-3. Wanneer een in artikel 9, tweede lid van het Verdrag bedoelde werknemer, aan wie krachtens het tweede lid een verklaring is afgegeven door het orgaan van de Verenigde Staten, vervolgens op het grondgebied van Nederland in loondienst gaat werken bij een andere op dat grondgebied gevestigde werkgever, moet de werknemer hiervan onverwijld het orgaan van de Verenigde Staten in kennis stellen. Dit orgaan geeft hierop een gewijzigde verklaring af en stelt het orgaan van Nederland hiervan in kennis.
-
-4. Wanneer artikel 9, derde lid, of artikel 12, derde lid, van het Verdrag van toepassing is op een gezinslid van een werknemer die van het grondgebied van Nederland is uitgezonden naar het grondgebied van de Verenigde Staten en dat gezinslid vervolgens in loondienst of als zelfstandige gaat werken op het grondgebied van de Verenigde Staten, moet dit gezinslid onverwijld het Nederlandse orgaan hiervan in kennis stellen.
-
-5. Het orgaan van de Verdragsluitende Staat dat een verklaring krachtens dit artikel heeft afgegeven, zendt hiervan copieën aan de werknemer en zijn werkgever of aan de zelfstandige en, indien nodig, aan het orgaan van de andere Verdragsluitende Staat.
-
-### HOOFDSTUK III. BEPALINGEN INZAKE UITKERINGEN
-
-##### Artikel 5
-
-1. Het uitvoeringsorgaan van een Verdragsluitende Staat waarbij overeenkomstig artikel 22 van het Verdrag het eerst een aanvraag om uitkering is ingediend, stelt hiervan onverwijld het uitvoeringsorgaan van de andere Verdragsluitende Staat in kennis, hetzij direct, hetzij via het verbindingsorgaan, en verstrekt daarbij de bewijsstukken en andere voorhanden zijnde bescheiden die voor het uitvoeringsorgaan van de andere Verdragsluitende Staat noodzakelijk kunnen zijn om de behandeling van de aanvraag te voltooien.
-
-2. Het uitvoeringsorgaan van een Verdragsluitende Staat dat een aanvraag ontvangt die eerst was ingediend bij het uitvoeringsorgaan van de andere Verdragsluitende Staat verstrekt onverwijld aan laatstbedoeld orgaan, hetzij direct, hetzij via het verbindingsorgaan van de andere Verdragsluitende Staat, de bewijsstukken en andere beschikbare inlichtingen die vereist kunnen zijn om de behandeling van de aanvraag te voltooien.
-
-3. Het uitvoeringsorgaan van de Verdragsluitende Staat waarbij een aanvraag om uitkering is ingediend verifieert de juistheid van de inlichtingen betreffende de aanvrager en zijn gezinsleden. De verbindingsorganen bepalen welke soorten inlichtingen moeten worden geverifieerd.
-
-### HOOFDSTUK IV. DIVERSE BEPALINGEN
-
-##### Artikel 6
-
-Voor de uitvoering van het Verdrag verstrekt het uitvoeringsorgaan van een Verdragsluitende Staat op verzoek van het verbindingsorgaan van de andere Verdragsluitende Staat overeenkomstig de krachtens artikel 2 van dit Administratieve Akkoord door de verbindingsorganen vast te stellen regels alle beschikbare inlichtingen betreffende de aanvraag van een bepaald persoon.
-
-##### Artikel 7
-
-Copieën van documenten die door het uitvoeringsorgaan van een Verdragsluitende Staat voor eensluidend zijn gewaarmerkt, worden door het uitvoeringsorgaan van de andere Verdragsluitende Staat zonder nadere verklaring als zodanig aanvaard. Bij de toepassing van de wetten van een Verdragsluitende Staat berust de uiteindelijke beoordeling van de bewijskracht van de bewijsstukken, die aan een uitvoeringsorgaan van een Verdragsluitende Staat uit welke bron dan ook worden voorgelegd, bij het uitvoeringsorgaan van eerstbedoelde Staat.
-
-##### Artikel 8
-
-De in artikel 4 van dit Administratieve Akkoord aangewezen organen wisselen statistieken uit betreffende het aantal op grond van het genoemde Artikel afgegeven verklaringen en de krachtens het Verdrag aan de rechthebbenden gedane betalingen. Deze statistieken worden jaarlijks in een nader overeen te komen vorm verstrekt.
-
-##### Artikel 9
-
-1. Wanneer krachtens artikel 20 van het Verdrag administratieve bijstand wordt gevraagd, worden de andere kosten dan de normale personeels- en uitvoeringskosten van het uitvoeringsorgaan dat de bijstand verleent, vergoed.
-
-2. Op verzoek verstrekt het uitvoeringsorgaan van elk van beide Verdragsluitende Staten aan het uitvoeringsorgaan van de andere Verdragsluitende Staat kosteloos de in zijn bezit zijnde medische informatie en de bescheiden betreffende de arbeidsongeschiktheid van de aanvrager of rechthebbende.
-
-3. Een uitvoeringsorgaan van een Verdragsluitende Staat kan van een aanvrager of een rechthebbende, die op het grondgebied van de andere Verdragsluitende Staat verblijft, verlangen een medisch onderzoek te ondergaan op het grondgebied van elk van beide Verdragsluitende Staten.
-
-4. Krachtens het eerste lid verschuldigde bedragen worden vergoed na overlegging van een gedetailleerde opgave van de kosten.
-
-##### Artikel 10
-
-Zonder machtiging van de nationale wetgeving van een Verdragsluitende Staat, mogen gegevens betreffende een persoon die krachtens het Verdrag of dit Administratieve Akkoord zijn overgedragen uitsluitend gebruikt worden voor de uitvoering van het Verdrag.
-
-Dergelijke door een uitvoeringsorgaan, een verbindingsorgaan of een orgaan van een Verdragsluitende Staat ontvangen gegevens zijn onderworpen aan de nationale wetgeving inzake de bescherming van de persoonlijke levenssfeer en de vertrouwelijkheid van persoonsgegevens van die Verdragsluitende Staat.
-
-##### Artikel 11
-
-Dit Administratieve Akkoord treedt op dezelfde datum in werking als het Verdrag en heeft dezelfde werkingsduur.
-
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Verdrag hebben ondertekend.
 
 GEDAAN in tweevoud te Den Haag op 8 december 1987, in de Nederlandse en Engelse taal, beide teksten zijnde gelijkelijk authentiek.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) H. VAN DEN BROEK
 
-**Voor de Regering van de Verenigde Staten van Amerika**
+*Voor de Regering van de Verenigde Staten van Amerika*
 
 (w.g.) JOHN SHAD

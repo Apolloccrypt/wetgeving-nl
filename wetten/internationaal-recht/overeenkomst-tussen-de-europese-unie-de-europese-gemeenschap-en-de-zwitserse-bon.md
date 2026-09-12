@@ -1,85 +1,19 @@
 ---
 title: "Overeenkomst tussen de Europese Unie, de Europese Gemeenschap en de Zwitserse Bondsstaat inzake de wijze waarop Zwitserland wordt betrokken bij de uitvoering, de toepassing en de ontwikkeling van het Schengenacquis"
 identifier: "BWBV0001691"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-03-01"
-last_updated: "2004-10-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001691"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002487023"
-version_id: "10002480272"
-internal_id: "C10006996891"
-label_id: "10002476674"
-dtd_version: "2.0"
-original_entry_into_force: "2008-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001691/2008-03-01/0"
-intitule_bron: "Trb.2006-83"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-10-26"
-intitule_published: "2006-04-18"
-intitule_in_force: "2008-04-14"
-intitule_status: "goed"
-original_publication: "Trb.2006-83"
-original_signed_date: "2004-10-26"
-original_published_date: "2006-04-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2006-83"
-entry_into_force_date: "2008-03-01"
-jci_1_3: "jci1.3:c:BWBV0001691&z=2008-03-01&g=2008-03-01"
-jci_1_0: "1.0:c:BWBV0001691&g=2008-03-01"
-citeertitel_status: "redactioneel"
-signed_date: "2004-10-26"
-entry_into_force: "2008-03-01"
+publicatiedatum: 2008-03-01
+laatste_update: 2008-03-01
+status: geldig
+toestand: 2008-03-01
+bron: "https://wetten.overheid.nl/BWBV0001691"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst tussen de Europese Unie, de Europese Gemeenschap en de Zwitserse Bondsstaat inzake de wijze waarop Zwitserland wordt betrokken bij de uitvoering, de toepassing en de ontwikkeling van het Schengenacquis
 
-De Europese Unie,
-
-De Europese Gemeenschap,
-
-en
-
-De Zwitserse Bondsstaat,
-
-hierna de „overeenkomstsluitende partijen’’ te noemen,
-
-Overwegende dat met de inwerkingtreding van het Verdrag van Amsterdam de Europese Unie zich ten doel stelt de Unie te handhaven en te ontwikkelen als een ruimte van vrijheid, veiligheid en rechtvaardigheid waarin het vrije verkeer van personen gewaarborgd is in combinatie met passende maatregelen met betrekking tot controles aan de buitengrenzen, asiel, immigratie, en voorkoming en bestrijding van criminaliteit,
-
-Overwegende dat het in het kader van de Europese Unie opgenomen Schengenacquis deel uitmaakt van de bepalingen ter verwezenlijking van deze ruimte van vrijheid, veiligheid en rechtvaardigheid voorzover deze bepalingen een ruimte zonder controles aan de binnengrenzen tot stand brengen en voorzien in compenserende maatregelen om een hoog veiligheidsniveau te waarborgen,
-
-Gelet op de geografische positie van de Zwitserse Bondsstaat,
-
-Overwegende dat een deelneming van de Zwitserse Bondsstaat aan het Schengenacquis en aan de verdere ontwikkeling daarvan het mogelijk zal maken bepaalde hinderpalen voor het vrije verkeer van personen als gevolg van de geografische positie van de Zwitserse Bondsstaat weg te nemen alsmede de samenwerking tussen de Europese Unie en de Zwitserse Bondsstaat op de door het Schengenacquis bestreken gebieden te versterken,
-
-Overwegende dat bij de op 18 mei 1999 door de Raad van Europese Unie met de Republiek IJsland en het Koninkrijk Noorwegen gesloten overeenkomst1)PB L 176 van 10.7.1999, blz. 36., deze beide staten werden betrokken bij de uitvoering, de toepassing en de ontwikkeling van het Schengenacquis,
-
-Overwegende dat het wenselijk is de Zwitserse Bondsstaat op voet van gelijkheid met IJsland en Noorwegen te betrekken bij de uitvoering, de toepassing en de ontwikkeling van het Schengenacquis,
-
-Overwegende dat het passend is tussen de Europese Unie, de Europese Gemeenschap en de Zwitserse Bondsstaat een overeenkomst te sluiten die soortgelijke rechten en verplichtingen bevat als die welke zijn overeengekomen tussen de Raad van de Europese Unie enerzijds en IJsland en Noorwegen anderzijds,
-
-Ervan overtuigd dat het noodzakelijk is de samenwerking tussen de Europese Unie en de Zwitserse Bondsstaat met betrekking tot de uitvoering, de praktische toepassing en de verdere ontwikkeling van het Schengenacquis te organiseren,
-
-Overwegende dat, om de Zwitserse Bondsstaat te betrekken bij de werkzaamheden van de Europese Unie op de door deze overeenkomst bestreken gebieden en om zijn deelneming aan deze werkzaamheden mogelijk te maken, een comité moet worden ingesteld volgens het institutionele model dat ook voor IJsland en Noorwegen werd ingevoerd,
-
-Overwegende dat de Schengensamenwerking berust op de beginselen van vrijheid, democratie, rechtsstaat en eerbiediging van de mensenrechten, zoals die met name gewaarborgd worden door het Europees [Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) van 4 november 1950,
-
-Overwegende dat de bepalingen van [Titel IV van het Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&titeldeel=IV) alsmede de besluiten die op grond van die titel zijn aangenomen, overeenkomstig het Protocol betreffende de positie van Denemarken, dat bij het Verdrag van Amsterdam aan het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) is gehecht, niet van toepassing zijn op het Koninkrijk Denemarken, en dat de besluiten tot uitwerking van het Schengenacquis uit hoofde van deze Titel die Denemarken in zijn nationale wetgeving heeft omgezet alleen verplichtingen volgens internationaal recht kunnen scheppen tussen Denemarken en de andere lidstaten,
-
-Overwegende dat het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland alsmede Ierland overeenkomstig de besluiten uit hoofde van het Protocol tot opneming van het Schengenacquis in het kader van de Europese Unie, dat bij het Verdrag van Amsterdam aan het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) is gehecht1)PB L 131 van 1.6.2000, blz. 43 en PB L 64 van 7.3.2002, blz. 20., deelnemen aan enkele bepalingen van het Schengenacquis,
-
-Overwegende dat het noodzakelijk is ervoor te zorgen dat de staten die de Europese Unie heeft betrokken bij de uitvoering, de toepassing en de ontwikkeling van het Schengenacquis dit acquis ook toepassen in hun onderlinge betrekkingen,
-
-Overwegende dat het voor de goede werking van het Schengenacquis vereist is dat deze overeenkomst gelijktijdig wordt toegepast met de overeenkomsten tussen de verschillende partijen die betrokken zijn bij of deelnemen aan de uitvoering en de ontwikkeling van het Schengenacquis ter regeling van hun onderlinge betrekkingen,
-
-Gelet op de Overeenkomst betreffende de wijze waarop Zwitserland wordt betrokken bij de uitvoering, de toepassing en de ontwikkeling van het acquis communautaire inzake de vaststelling van criteria en mechanismen om te bepalen welke staat verantwoordelijk is voor de behandeling van een asielverzoek dat in een lidstaat wordt ingediend en inzake de instelling van het Eurodac-systeem,
-
-Overwegende dat er een verband bestaat tussen het Schengenacquis en dit acquis communautaire,
-
-Overwegende dat dit verband vereist dat het Schengenacquis gelijktijdig wordt toegepast met het acquis communautaire inzake de vaststelling van criteria en mechanismen om te bepalen welke staat verantwoordelijk is voor de behandeling van een asielverzoek dat in een lidstaat wordt ingediend en inzake de instelling van het Eurodac-systeem,
-
-Hebben overeenstemming bereikt omtrent de volgende bepalingen:
+*De Europese Unie, De Europese Gemeenschap, en De Zwitserse Bondsstaat, hierna de „overeenkomstsluitende partijen’’ te noemen, Overwegende dat met de inwerkingtreding van het Verdrag van Amsterdam de Europese Unie zich ten doel stelt de Unie te handhaven en te ontwikkelen als een ruimte van vrijheid, veiligheid en rechtvaardigheid waarin het vrije verkeer van personen gewaarborgd is in combinatie met passende maatregelen met betrekking tot controles aan de buitengrenzen, asiel, immigratie, en voorkoming en bestrijding van criminaliteit, Overwegende dat het in het kader van de Europese Unie opgenomen Schengenacquis deel uitmaakt van de bepalingen ter verwezenlijking van deze ruimte van vrijheid, veiligheid en rechtvaardigheid voorzover deze bepalingen een ruimte zonder controles aan de binnengrenzen tot stand brengen en voorzien in compenserende maatregelen om een hoog veiligheidsniveau te waarborgen, Gelet op de geografische positie van de Zwitserse Bondsstaat, Overwegende dat een deelneming van de Zwitserse Bondsstaat aan het Schengenacquis en aan de verdere ontwikkeling daarvan het mogelijk zal maken bepaalde hinderpalen voor het vrije verkeer van personen als gevolg van de geografische positie van de Zwitserse Bondsstaat weg te nemen alsmede de samenwerking tussen de Europese Unie en de Zwitserse Bondsstaat op de door het Schengenacquis bestreken gebieden te versterken, Overwegende dat bij de op 18 mei 1999 door de Raad van Europese Unie met de Republiek IJsland en het Koninkrijk Noorwegen gesloten overeenkomst1)PB L 176 van 10.7.1999, blz. 36., deze beide staten werden betrokken bij de uitvoering, de toepassing en de ontwikkeling van het Schengenacquis, Overwegende dat het wenselijk is de Zwitserse Bondsstaat op voet van gelijkheid met IJsland en Noorwegen te betrekken bij de uitvoering, de toepassing en de ontwikkeling van het Schengenacquis, Overwegende dat het passend is tussen de Europese Unie, de Europese Gemeenschap en de Zwitserse Bondsstaat een overeenkomst te sluiten die soortgelijke rechten en verplichtingen bevat als die welke zijn overeengekomen tussen de Raad van de Europese Unie enerzijds en IJsland en Noorwegen anderzijds, Ervan overtuigd dat het noodzakelijk is de samenwerking tussen de Europese Unie en de Zwitserse Bondsstaat met betrekking tot de uitvoering, de praktische toepassing en de verdere ontwikkeling van het Schengenacquis te organiseren, Overwegende dat, om de Zwitserse Bondsstaat te betrekken bij de werkzaamheden van de Europese Unie op de door deze overeenkomst bestreken gebieden en om zijn deelneming aan deze werkzaamheden mogelijk te maken, een comité moet worden ingesteld volgens het institutionele model dat ook voor IJsland en Noorwegen werd ingevoerd, Overwegende dat de Schengensamenwerking berust op de beginselen van vrijheid, democratie, rechtsstaat en eerbiediging van de mensenrechten, zoals die met name gewaarborgd worden door het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden van 4 november 1950, Overwegende dat de bepalingen van Titel IV van het Verdrag tot oprichting van de Europese Gemeenschap alsmede de besluiten die op grond van die titel zijn aangenomen, overeenkomstig het Protocol betreffende de positie van Denemarken, dat bij het Verdrag van Amsterdam aan het Verdrag betreffende de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap is gehecht, niet van toepassing zijn op het Koninkrijk Denemarken, en dat de besluiten tot uitwerking van het Schengenacquis uit hoofde van deze Titel die Denemarken in zijn nationale wetgeving heeft omgezet alleen verplichtingen volgens internationaal recht kunnen scheppen tussen Denemarken en de andere lidstaten, Overwegende dat het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland alsmede Ierland overeenkomstig de besluiten uit hoofde van het Protocol tot opneming van het Schengenacquis in het kader van de Europese Unie, dat bij het Verdrag van Amsterdam aan het Verdrag betreffende de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap is gehecht1)PB L 131 van 1.6.2000, blz. 43 en PB L 64 van 7.3.2002, blz. 20., deelnemen aan enkele bepalingen van het Schengenacquis, Overwegende dat het noodzakelijk is ervoor te zorgen dat de staten die de Europese Unie heeft betrokken bij de uitvoering, de toepassing en de ontwikkeling van het Schengenacquis dit acquis ook toepassen in hun onderlinge betrekkingen, Overwegende dat het voor de goede werking van het Schengenacquis vereist is dat deze overeenkomst gelijktijdig wordt toegepast met de overeenkomsten tussen de verschillende partijen die betrokken zijn bij of deelnemen aan de uitvoering en de ontwikkeling van het Schengenacquis ter regeling van hun onderlinge betrekkingen, Gelet op de Overeenkomst betreffende de wijze waarop Zwitserland wordt betrokken bij de uitvoering, de toepassing en de ontwikkeling van het acquis communautaire inzake de vaststelling van criteria en mechanismen om te bepalen welke staat verantwoordelijk is voor de behandeling van een asielverzoek dat in een lidstaat wordt ingediend en inzake de instelling van het Eurodac-systeem, Overwegende dat er een verband bestaat tussen het Schengenacquis en dit acquis communautaire, Overwegende dat dit verband vereist dat het Schengenacquis gelijktijdig wordt toegepast met het acquis communautaire inzake de vaststelling van criteria en mechanismen om te bepalen welke staat verantwoordelijk is voor de behandeling van een asielverzoek dat in een lidstaat wordt ingediend en inzake de instelling van het Eurodac-systeem, Hebben overeenstemming bereikt omtrent de volgende bepalingen:*
 
 ##### Artikel 1
 
@@ -107,9 +41,9 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
 5. Het voorzitterschap van het gemengd comité wordt uitgeoefend:
 
-- –. op het niveau van de deskundigen: door de vertegenwoordiger van de Europese Unie;
+- – op het niveau van de deskundigen: door de vertegenwoordiger van de Europese Unie;
 
-- –. op het niveau van de hoge ambtenaren en ministers: afwisselend voor een periode van zes maanden door de vertegenwoordiger van de Europese Unie en door de vertegenwoordiger van de Zwitserse regering.
+- – op het niveau van de hoge ambtenaren en ministers: afwisselend voor een periode van zes maanden door de vertegenwoordiger van de Europese Unie en door de vertegenwoordiger van de Zwitserse regering.
 
 ##### Artikel 4
 
@@ -117,9 +51,9 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
 2. De vertegenwoordigers van Zwitserland kunnen in het gemengd comité op ministerieel niveau:
 
-- –. de problemen die zij ondervinden met betrekking tot een bepaalde maatregel of een bepaald besluit uiteenzetten, of reageren op de problemen van andere delegaties;
+- – de problemen die zij ondervinden met betrekking tot een bepaalde maatregel of een bepaald besluit uiteenzetten, of reageren op de problemen van andere delegaties;
 
-- –. zich uitspreken over alle vraagstukken betreffende de uitwerking of de uitvoering van bepalingen die op hen betrekking hebben.
+- – zich uitspreken over alle vraagstukken betreffende de uitwerking of de uitvoering van bepalingen die op hen betrekking hebben.
 
 3. De vergaderingen van het gemengd comité op ministerieel niveau worden voorbereid door het gemengd comité op het niveau van de hoge ambtenaren.
 
@@ -135,17 +69,17 @@ Bij het opstellen van nieuwe wetgeving op een onder deze overeenkomst vallend ge
 
 ##### Artikel 7
 
-1. Dit lid wordt niet voorlopig toegepast.
+1. *Dit lid wordt niet voorlopig toegepast.*
 
-- a. De Raad stelt Zwitserland onverwijld in kennis van de aanneming van de in lid 1 bedoelde besluiten of maatregelen waarop de in deze overeenkomst vastgestelde procedures zijn toegepast.
+2. - a. De Raad stelt Zwitserland onverwijld in kennis van de aanneming van de in lid 1 bedoelde besluiten of maatregelen waarop de in deze overeenkomst vastgestelde procedures zijn toegepast.
 
-- b. dit onderdeel is nog niet in werking getreden.
+- b. *dit onderdeel is nog niet in werking getreden.*
 
-3. Dit lid wordt niet voorlopig toegepast.
+3. *Dit lid wordt niet voorlopig toegepast.*
 
-4. Dit lid wordt niet voorlopig toegepast.
+4. *Dit lid wordt niet voorlopig toegepast.*
 
-5. Dit lid wordt niet voorlopig toegepast.
+5. *Dit lid wordt niet voorlopig toegepast.*
 
 ##### Artikel 8
 

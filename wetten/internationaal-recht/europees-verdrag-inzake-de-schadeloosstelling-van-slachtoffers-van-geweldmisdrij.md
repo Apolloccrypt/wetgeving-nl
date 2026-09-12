@@ -1,177 +1,143 @@
 ---
 title: "Europees Verdrag inzake de schadeloosstelling van slachtoffers van geweldmisdrijven"
 identifier: "BWBV0002622"
-country: "nl"
-rank: "verdrag"
-publication_date: "1988-02-01"
-last_updated: "1988-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002622"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002951853"
-version_id: "10002954962"
-internal_id: "C10006979531"
-label_id: "10002939004"
-dtd_version: "2.0"
-original_entry_into_force: "1988-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002622/1988-02-01/0"
-intitule_bron: "Trb.1984-2"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1984-07-16"
-intitule_published: "1984-01-05"
-intitule_in_force: "1987-11-30"
-intitule_status: "goed"
-original_publication: "Trb.1984-2"
-original_signed_date: "1984-07-16"
-original_published_date: "1984-01-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1984-2"
-entry_into_force_date: "1988-02-01"
-jci_1_3: "jci1.3:c:BWBV0002622&z=1988-02-01&g=1988-02-01"
-jci_1_0: "1.0:c:BWBV0002622&g=1988-02-01"
-citeertitel_status: "officieel"
-signed_date: "1984-07-16"
-entry_into_force: "1988-02-01"
+publicatiedatum: 1988-02-01
+laatste_update: 1988-02-01
+status: geldig
+toestand: 1988-02-01
+bron: "https://wetten.overheid.nl/BWBV0002622"
+opgehaald: 2026-09-12
 ---
+
 # Europees Verdrag inzake de schadeloosstelling van slachtoffers van geweldmisdrijven
 
-De Staten die Lid zijn van de Raad van Europa en dit Verdrag hebben ondertekend,
+*The member States of the Council of Europe, signatory hereto, Considering that the aim of the Council of Europe is to achieve a greater unity between its members; Considering that for reasons of equity and social solidarity it is necessary to deal with the situation of victims of intentional crimes of violence who have suffered bodily injury or impairment of health and of dependants of persons who have died as a result of such crimes; Considering that it is necessary to introduce or develop schemes for the compensation of these victims by the State in whose territory such crimes were committed, in particular when the offender has not been identified or is without resources; Considering that it is necessary to establish minimum provisions in this field; Having regard to Resolution (77)27 of the Committee of Ministers of the Council of Europe on the compensation of victims of crime, Have agreed as follows:*
 
-Overwegend dat het doel van de Raad van Europa is het tot stand brengen van een grotere eenheid tussen de Leden van de Raad;
+## PART I. Basis Principles
 
-Overwegend dat het om redenen van billijkheid en sociale solidariteit noodzakelijk is een regeling te treffen voor de situatie van slachtoffers van opzettelijke geweldmisdrijven, die lichamelijk letsel of nadeel voor hun gezondheid hebben ondervonden, en van nabestaanden die ten laste kwamen van personen die tengevolge van dergelijke misdrijven zijn overleden;
+##### Article 1
 
-Overwegend dat het noodzakelijk is regelingen in te voeren of te ontwikkelen voor de schadeloosstelling van deze slachtoffers door de Staat op het grondgebied waarvan die misdrijven werden gepleegd, met name wanneer de dader niet bekend is of geen financiële middelen bezit;
+The Parties undertake to take the necessary steps to give effect to the principles set out in Part I of this Convention.
 
-Overwegend dat het noodzakelijk is op dit gebied minimumbepalingen op te stellen;
+##### Article 2
 
-Gelet op Resolutie (77)27 van het Comité van Ministers van de Raad van Europa inzake de schadeloosstelling van slachtoffers van misdrijven,
+1. When compensation is not fully available from other sources the State shall contribute to compensate:
 
-Zijn het volgende overeengekomen:
+- a. those who have sustained serious bodily injury or impairment of health directly attributable to an intentional crime of violence:
 
-## DEEL I. Grondbeginselen
+- b. the dependants of persons who have died as a result of such crime.
 
-##### Artikel 1
+2. Compensation shall be awarded in the above cases even if the offender cannot be prosecuted or punished.
 
-De Partijen verbinden zich de noodzakelijke maatregelen te nemen om de in Deel I van dit Verdrag opgenomen beginselen uit te voeren.
+##### Article 3
 
-##### Artikel 2
+Compensation shall be paid by the State on whose territory the crime was committed:
 
-1. Wanneer schadeloosstelling niet volledig uit andere bron kan worden verzekerd, draagt de Staat bij aan de schadeloosstelling:
+- a. to nationals of the States party to this Convention;
 
-- a. van hen die ernstig lichamelijk letsel of nadeel voor hun gezondheid hebben ondervonden als rechtstreeks gevolg van een opzettelijk geweldmisdrijf;
+- b. to nationals of all member States of the Council of Europe who are permanent residents in the State on whose territory the crime was committed.
 
-- b. van nabestaanden die ten laste kwamen van personen die tengevolge van een dergelijk misdrijf zijn overleden.
+##### Article 4
 
-2. In de bovenvermelde gevallen wordt schadeloosstelling toegekend zelfs indien de dader niet kan worden vervolgd of gestraft.
+Compensation shall cover, according to the case under consideration, at least the following items: loss of earnings, medical and hospitalisation expenses and funeral expenses, and, as regards dependants, loss of maintenance.
 
-##### Artikel 3
+##### Article 5
 
-De schadeloosstelling wordt betaald door de Staat op het grondgebied waarvan het misdrijf werd gepleegd:
+The compensation scheme may, if necessary, set for any or all elements of compensation an upper limit above which and a minimum threshold below which such compensation shall not be granted.
 
-- a. aan onderdanen van de Staten die partij zijn bij dit Verdrag;
+##### Article 6
 
-- b. aan onderdanen van alle Lid-Staten van de Raad van Europa, die permanent verblijven in de Staat op het grondgebied waarvan het misdrijf werd gepleegd.
+The compensation scheme may specify a period within which any application for compensation must be made.
 
-##### Artikel 4
+##### Article 7
 
-De schadeloosstelling omvat, afhankelijk van het desbetreffende geval, ten minste de volgende bestanddelen: verlies van inkomsten, medische kosten, ziekenhuiskosten en begrafeniskosten, alsmede, wat de nabestaanden betreft die ten laste van het slachtoffer kwamen, het verlies van inkomsten ter zake van levensonderhoud.
+Compensation may be reduced or refused on account of the applicant's financial situation.
 
-##### Artikel 5
+##### Article 8
 
-In de regeling van schadeloosstelling kan, indien nodig, voor een of meer bestanddelen van de schadeloosstelling een boven- en een benedengrens worden vastgesteld, waarboven en waarbeneden geen schadeloosstelling wordt toegekend.
+1. Compensation may be reduced or refused on account of the victim's or the applicant's conduct before, during or after the crime, or in relation to the injury or death.
 
-##### Artikel 6
+2. Compensation may also be reduced or refused on account of the victim's or the applicant's involvement in organised crime or his membership of an organisation which engages in crimes of violence.
 
-In de regeling van schadeloosstelling kan een termijn worden vastgesteld waarbinnen de verzoeken tot schadeloosstelling moeten worden gedaan.
+3. Compensation may also be reduced or refused if an award or a full award would be contrary to a sense of justice or to public policy ("ordre public").
 
-##### Artikel 7
+##### Article 9
 
-De schadeloosstelling kan worden verminderd of geweigerd op grond van de financiële situatie van de verzoeker.
+With a view to avoiding double compensation, the Sate or the competent authority may deduct from the compensation awarded or reclaim from the person compensated any amount of money received, in consequence of the injury or death, from the offender, social security or insurance, or coming from any other source.
 
-##### Artikel 8
+##### Article 10
 
-1. De schadeloosstelling kan worden verminderd of geweigerd op grond van het gedrag van het slachtoffer of de verzoeker vóór, tijdens of na het misdrijf, dan wel met betrekking tot het letsel of het overlijden.
+The State or the competent authority may be subrogated to the rights of the person compensated for the amount of the compensation paid.
 
-2. De schadeloosstelling kan eveneens worden verminderd of geweigerd op grond van het feit dat het slachtoffer of de verzoeker betrokken is bij georganiseerde misdaad of lid is van een organisatie die zich bezighoudt met het plegen van geweldmisdrijven.
+##### Article 11
 
-3. De schadeloosstelling kan eveneens worden verminderd of geweigerd indien toekenning - al dan niet volledig - in strijd zou zijn met het rechtsgevoel of met de openbare orde („ordre public").
+Each Party shall take appropriate steps to ensure that information about the scheme is available to potential applicants.
 
-##### Artikel 9
+## PART II. International Co-operation
 
-Ten einde dubbele schadeloosstelling te vermijden, kan de Staat of de bevoegde autoriteit eventuele bedragen die tengevolge van het letsel of het overlijden, van de dader, de sociale zekerheid, een verzekering, of uit welke andere bron ook, zijn ontvangen, van de toegekende schadeloosstelling aftrekken of deze van de degene die schadeloos is gesteld, terugvorderen.
+##### Article 12
 
-##### Artikel 10
+Subject to the application of bilateral or multilateral agreements on mutual assistance concluded between Contracting States, the competent authorities of each Party shall, at the request of the appropriate authorities of any other Party, give the maximum possible assistance in connection with the matters covered by this Convention. To this end, each Contracting State shall designate a central authority to receive, and to take action on, requests for such assistance, and shall inform thereof the Secretary General of the Council of Europe when depositing its instrument of ratification, acceptance, approval or accession.
 
-De Staat of de bevoegde autoriteit kan worden gesubrogeerd in de rechten van degene die schadeloos is gesteld voor het bedrag van de betaalde schadeloosstelling.
+##### Article 13
 
-##### Artikel 11
+1. The European Committee on Crime Problems (CDPC) of the Council of Europe shall be kept informed regarding the application of the Convention.
 
-Elke Partij neemt de nodige maatregelen om te verzekeren dat gegevens over de regeling voor eventuele verzoekers beschikbaar zijn.
+2. To this end, each Party shall transmit to the Secretary General of the Council of Europe any relevant information about its legislative or regulatory provisions concerning the matters covered by the Convention.
 
-## DEEL II. Internationale samenwerking
+## PART III. Final Clauses
 
-##### Artikel 12
+##### Article 14
 
-Onder voorbehoud van de toepassing van tussen de Verdragsluitende Staten gesloten bilaterale of multilaterale overeenkomsten inzake wederzijdse bijstand verlenen de bevoegde autoriteiten van elke Partij, op verzoek van de desbetreffende autoriteiten van elke andere Partij, bijstand van de grootst mogelijke omvang in verband met de aangelegenheden waarop dit Verdrag betrekking heeft. Met het oog hierop wijst elke Verdragsluitende Partij een centrale autoriteit aan voor het in ontvangst nemen van verzoeken om dergelijke bijstand en voor het treffen van maatregelen naar aanleiding daarvan, en stelt zij de Secretaris-Generaal van de Raad van Europa hiervan in kennis bij het nederleggen van haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
+This Convention shall be open for signature by the member States of the Council of Europe. It is subject to ratification, acceptance or approval. Instruments of ratification, acceptance or approval shall be deposited with the Secretary General of the Council of Europe.
 
-##### Artikel 13
+##### Article 15
 
-1. Het Europese Comité voor strafrechtelijke vraagstukken (CDPC) van de Raad van Europa wordt op de hoogte gehouden van de toepassing van het Verdrag.
+1. This Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date on which three member States of the Council of Europe have expressed their consent to be bound by the Convention in accordance with the provisions of Article 14.
 
-2. Met het oog hierop verstrekt elke Partij aan de Secretaris-Generaal van de Raad van Europa alle ter zake dienende gegevens aangaande haar wetgevende bepalingen of regelingen betreffende de aangelegenheden waarop het Verdrag betrekking heeft.
+2. In respect of any member State which subsequently expresses its consent to be bound by it, the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of the deposit of the instrument of ratification, acceptance or approval.
 
-## DEEL III. Slotbepalingen
+##### Article 16
 
-##### Artikel 14
+1. After the entry into force of this Convention, the Committee of Ministers of the Council of Europe may invite any State not a member of the Council of Europe to accede to this Convention by a decision taken by the majority provided for in [Article 20.d of the Statute of the Council of Europe](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) and by the unanimous vote of the representatives of the Contracting States entitled to sit on the Committee.
 
-Dit Verdrag staat open voor ondertekening door de Lid-Staten van de Raad van Europa en dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+2. In respect of any acceding State, the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of deposit of the instrument of accession with the Secretary General of the Council of Europe.
 
-##### Artikel 15
+##### Article 17
 
-1. Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een periode van drie maanden na de datum waarop drie Lid-Staten van de Raad van Europa hun instemming door het Verdrag te worden gebonden tot uiting hebben gebracht overeenkomstig het bepaalde in artikel 14.
+1. Any State may at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, specify the territory or territories to which this Convention shall apply.
 
-2. Ten aanzien van elke andere Lid-Staat die daarna zijn instemming door het Verdrag te worden gebonden tot uiting brengt, treedt deze in werking op de eerste dag van de maand die volgt op het verstrijken van een periode van drie maanden na de datum van de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
+2. Any State may at any later date, by a declaration addressed to the Secretary General of the Council of Europe, extend the application of this Convention to any other territory specified in the declaration. In respect of such territory the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of receipt of such declaration by the Secretary General.
 
-##### Artikel 16
+3. Any declaration made under the two preceding paragraphs may, in respect of any territory specified in such declaration, be withdrawn by a notification addressed to the Secretary General. The withdrawal shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of such notification by the Secretary General.
 
-1. Na de inwerkingtreding van dit Verdrag kan het Comité van Ministers van de Raad van Europa elke Staat die geen Lid is van de Raad van Europa uitnodigen tot dit Verdrag toe te treden, bij een besluit, genomen door de in [artikel 20(d) van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) voorziene meerderheid, en bij algemene stemmen van de vertegenwoordigers van de Verdragsluitende Partijen die gerechtigd zijn in het Comité zitting te hebben.
+##### Article 18
 
-2. Ten aanzien van elke toetredende Staat treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een periode van drie maanden na de datum van de nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
+1. Any State may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, declare that it avails itself of one or more reservations.
 
-##### Artikel 17
+2. Any Contracting State which has made a reservation under the preceding paragraph may wholly or partly withdraw it by means of a notification addressed to the Secretary General of the Council of Europe. The withdrawal shall take effect on the date of receipt of such notification by the Secretary General.
 
-1. Elke Staat kan bij de ondertekening of de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding het grondgebied of de grondgebieden aanwijzen waarop dit Verdrag van toepassing zal zijn.
+3. A Party which has made a reservation in respect of a provision of this Convention may not claim the application of that provision by any other Party; it may, however, if its reservation is partial or conditional, claim the application of that provision in so far as it has itself accepted it.
 
-2. Elke Staat kan op elk later tijdstip, door middel van een verklaring, gericht aan de Secretaris-Generaal van de Raad van Europa, de toepassing van dit Verdrag uitbreiden tot elk ander, in de verklaring aangewezen grondgebied. Ten aanzien van een dergelijk grondgebied treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een periode van drie maanden na de datum van ontvangst van de verklaring door de Secretaris-Generaal.
+##### Article 19
 
-3. Elke krachtens de twee voorgaande leden afgelegde verklaring kan, ten aanzien van elk in een dergelijke verklaring aangewezen grondgebied, worden ingetrokken door middel van een kennisgeving, gericht aan de Secretaris-Generaal. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een periode van zes maanden na de datum van ontvangst van die verklaring door de Secretaris-Generaal.
+1. Any Party may at any time denounce this Convention by means of a notification addressed to the Secretary General of the Council of Europe.
 
-##### Artikel 18
+2. Such a denunciation shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of the notification by the Secretary General.
 
-1. Elke Staat kan bij de ondertekening of de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren een of meer voorbehouden te maken.
+##### Article 20
 
-2. Elke Verdragsluitende Partij die een voorbehoud krachtens het vorige lid heeft gemaakt, kan dit geheel of gedeeltelijk intrekken door middel van een kennisgeving, gericht aan de Secretaris-Generaal van de Raad van Europa. De intrekking wordt van kracht op de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
+The Secretary General of the Council of Europe shall notify the member States of the Council and any State which has acceded to this Convention, of:
 
-3. Een Partij die een voorbehoud heeft gemaakt met betrekking tot een bepaling van dit Verdrag kan niet de toepassing van die bepaling door een andere Partij eisen; indien haar voorbehoud gedeeltelijk of voorwaardelijk is, kan zij evenwel de toepassing van die bepaling eisen voor zo ver zij deze zelf heeft aanvaard.
+- a. any signature;
 
-##### Artikel 19
+- b. the deposit of any instrument of ratification, acceptance, approval or accession;
 
-1. Elke Partij kan dit Verdrag op elk ogenblik opzeggen door middel van een kennisgeving, gericht aan de Secretaris-Generaal van de Raad van Europa.
+- c. any date of entry into force of this Convention in accordance with Articles 15, 16 and 17;
 
-2. Een dergelijke opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een periode van zes maanden na ontvangst van de kennisgeving door de Secretaris-Generaal.
-
-##### Artikel 20
-
-De Secretaris-Generaal van de Raad van Europa stelt de Lid-Staten van de Raad en elke Staat die tot dit Verdrag is toegetreden in kennis van:
-
-- a. elke ondertekening;
-
-- b. de nederlegging van elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
-
-- c. elke datum van inwerkingtreding van dit Verdrag overeenkomstig de artikelen 15, 16 en 17;
-
-- d. elke andere handeling, kennisgeving of mededeling met betrekking tot dit Verdrag.
+- d. any other act, notification or communication relating to this Convention.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Convention.
 

@@ -1,49 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Franse Republiek inzake personencontrole op de luchthavens op Sint Maarten"
 identifier: "BWBV0002033"
-country: "nl"
-rank: "verdrag"
-publication_date: "2007-08-01"
-last_updated: "1994-05-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002033"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002635233"
-version_id: "10002632192"
-internal_id: "C10006986841"
-label_id: "10002624314"
-dtd_version: "2.0"
-original_entry_into_force: "2007-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002033/2007-08-01/0"
-intitule_bron: "Trb.1994-144"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-05-10"
-intitule_published: "1994-07-11"
-intitule_in_force: "2007-07-03"
-intitule_status: "goed"
-original_publication: "Trb.1994-144"
-original_signed_date: "2007-05-10"
-original_published_date: "1994-07-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1994-144"
-entry_into_force_date: "2007-08-01"
-jci_1_3: "jci1.3:c:BWBV0002033&z=2007-08-01&g=2007-08-01"
-jci_1_0: "1.0:c:BWBV0002033&g=2007-08-01"
-citeertitel_status: "redactioneel"
-signed_date: "2007-05-10"
-entry_into_force: "2007-08-01"
+publicatiedatum: 2007-08-01
+laatste_update: 2007-08-01
+status: geldig
+toestand: 2007-08-01
+bron: "https://wetten.overheid.nl/BWBV0002033"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Franse Republiek inzake personencontrole op de luchthavens op Sint Maarten
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek, hierna genoemd de Verdragsluitende Partijen,
-
-Overwegende dat het eiland Sint Maarten een intensief verkeer van personen kent;
-
-Overwegende dat het eiland Sint Maarten, waarop het onderhavige Verdrag betrekking heeft, uit twee delen bestaat, waarvan het ene grondgebied is van de Franse Republiek en het andere grondgebied is van de Nederlandse Antillen, deel van het Koninkrijk der Nederlanden vormend;
-
-Overwegende dat het in het gemeenschappelijke belang is van beide Verdragsluitende Partijen een doelmatige controle te verzekeren van de personen die op de onderscheiden luchthavens van het eiland aankomen, teneinde illegale immigratie te voorkomen en te bestrijden;
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek, hierna genoemd de Verdragsluitende Partijen, Overwegende dat het eiland Sint Maarten een intensief verkeer van personen kent; Overwegende dat het eiland Sint Maarten, waarop het onderhavige Verdrag betrekking heeft, uit twee delen bestaat, waarvan het ene grondgebied is van de Franse Republiek en het andere grondgebied is van de Nederlandse Antillen, deel van het Koninkrijk der Nederlanden vormend; Overwegende dat het in het gemeenschappelijke belang is van beide Verdragsluitende Partijen een doelmatige controle te verzekeren van de personen die op de onderscheiden luchthavens van het eiland aankomen, teneinde illegale immigratie te voorkomen en te bestrijden; Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -53,27 +23,27 @@ De Verdragsluitende Partijen verbinden zich ertoe samen te werken teneinde de do
 
 In dit Verdrag wordt verstaan onder:
 
-- -. Gaststaat: de Verdragsluitende Partij op wier gebiedsdeel de luchthaven is gelegen alwaar grensbewakingsambtenaren van de andere Verdragsluitende Partij personencontrole uitoefenen in de zin van dit Verdrag.
+- - Gaststaat: de Verdragsluitende Partij op wier gebiedsdeel de luchthaven is gelegen alwaar grensbewakingsambtenaren van de andere Verdragsluitende Partij personencontrole uitoefenen in de zin van dit Verdrag.
 
-- -. Zendstaat: de Verdragsluitende Partij wier grensbewakingsambtenaren personencontrole uitoefenen in de zin van dit Verdrag op de luchthaven die is gelegen op het gebiedsdeel van de andere Verdragsluitende Partij.
+- - Zendstaat: de Verdragsluitende Partij wier grensbewakingsambtenaren personencontrole uitoefenen in de zin van dit Verdrag op de luchthaven die is gelegen op het gebiedsdeel van de andere Verdragsluitende Partij.
 
-- -. Gebiedsdeel: het tot het grondgebied van het Koninkrijk der Nederlanden behorende deel (Sint Maarten) en het tot het grondgebied van de Franse Republiek behorende deel (Saint-Martin).
+- - Gebiedsdeel: het tot het grondgebied van het Koninkrijk der Nederlanden behorende deel (Sint Maarten) en het tot het grondgebied van de Franse Republiek behorende deel (Saint-Martin).
 
-- -. Zone: het deel van de luchthaven van de gaststaat waarbinnen de grensbewakingsambtenaren van de zendstaat bevoegd zijn tot het uitoefenen van personencontrole in het kader van de gezamenlijke controle. De zone omvat het controlepunt en de afzonderlijke ruimte die door de autoriteiten van de gaststaat ter beschikking zijn gesteld aan de grensbewakingsambtenaren van de zendstaat. De afbakening van de zone vindt plaats na overleg binnen de Commissie als bedoeld in artikel 13, hetgeen wordt bevestigd door diplomatieke nota's.
+- - Zone: het deel van de luchthaven van de gaststaat waarbinnen de grensbewakingsambtenaren van de zendstaat bevoegd zijn tot het uitoefenen van personencontrole in het kader van de gezamenlijke controle. De zone omvat het controlepunt en de afzonderlijke ruimte die door de autoriteiten van de gaststaat ter beschikking zijn gesteld aan de grensbewakingsambtenaren van de zendstaat. De afbakening van de zone vindt plaats na overleg binnen de Commissie als bedoeld in artikel 13, hetgeen wordt bevestigd door diplomatieke nota's.
 
-- -. Grensbewakingsambtenaren:
+- - Grensbewakingsambtenaren:
 
-- -. voor Sint Maarten: de politie-ambtenaren van de Vreemdelingendienst en de ambtenaren van de Vreemdelingendienst, die tot buitengewone agenten van politie zijn benoemd;
+   - - voor Sint Maarten: de politie-ambtenaren van de Vreemdelingendienst en de ambtenaren van de Vreemdelingendienst, die tot buitengewone agenten van politie zijn benoemd;
 
-- -. voor Saint-Martin: de ambtenaren die bevoegd zijn krachtens de wetgeving of regelgeving die op hen van toepassing is.
+   - - voor Saint-Martin: de ambtenaren die bevoegd zijn krachtens de wetgeving of regelgeving die op hen van toepassing is.
 
-- -. Vreemdelingen: personen die toelatingsplichtig zijn op grond van de wetgeving die van toepassing is op het ene of het andere gebiedsdeel met uitzondering van onderdanen van de Lid-Staten van de Europese Economische Ruimte.
+- - Vreemdelingen: personen die toelatingsplichtig zijn op grond van de wetgeving die van toepassing is op het ene of het andere gebiedsdeel met uitzondering van onderdanen van de Lid-Staten van de Europese Economische Ruimte.
 
-- -. Kort verblijf: verblijf voor de duur van ten hoogste drie maanden.
+- - Kort verblijf: verblijf voor de duur van ten hoogste drie maanden.
 
-- -. Verblijfstitel: een door een Verdragsluitende Partij afgegeven vergunning, ongeacht van welke aard, welke recht geeft op verblijf op het grondgebied van die Partij. Onder deze omschrijving valt niet de tijdelijke toelating tot verblijf op het grondgebied van een Verdragsluitende Partij met het oog op de behandeling van een asielverzoek of van een verzoek om een verblijfstitel.
+- - Verblijfstitel: een door een Verdragsluitende Partij afgegeven vergunning, ongeacht van welke aard, welke recht geeft op verblijf op het grondgebied van die Partij. Onder deze omschrijving valt niet de tijdelijke toelating tot verblijf op het grondgebied van een Verdragsluitende Partij met het oog op de behandeling van een asielverzoek of van een verzoek om een verblijfstitel.
 
-- -. Kosten van verwijdering: de kosten verbonden aan de verwijdering van een vreemdeling, inclusief de kosten van de aan een uitzetting voorafgaande vreemdelingenbewaring.
+- - Kosten van verwijdering: de kosten verbonden aan de verwijdering van een vreemdeling, inclusief de kosten van de aan een uitzetting voorafgaande vreemdelingenbewaring.
 
 ##### Artikel 3
 
@@ -237,10 +207,10 @@ Dit Verdrag geldt voor onbepaalde tijd, waarbij elke Verdragsluitende Partij zic
 
 GEDAAN te Parijs op 17 mei 1994 in de Nederlandse en de Franse taal, de beide teksten zijnde gelijkelijk authentiek.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) L. A. I. CHANCE
 
-**Voor de Regering van de Franse Republiek**
+*Voor de Regering van de Franse Republiek*
 
 (w.g.) D. PERBEN

@@ -1,52 +1,18 @@
 ---
 title: "Verdrag inzake de overbrenging van gevonniste personen tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Zambia"
 identifier: "BWBV0002876"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-02-01"
-last_updated: "2007-11-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002876"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003195593"
-version_id: "10003206352"
-internal_id: "C10006998311"
-label_id: "10003181584"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002876/2008-02-01/0"
-intitule_bron: "Trb.2008-4"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-02-01"
-intitule_published: "2008-01-21"
-intitule_status: "nogniet"
-original_publication: "Trb.2008-4"
-original_signed_date: "2008-02-01"
-original_published_date: "2008-01-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2008-4"
-jci_1_3: "jci1.3:c:BWBV0002876&z=2008-02-01&g=2008-02-01"
-jci_1_0: "1.0:c:BWBV0002876&g=2008-02-01"
-citeertitel_status: "redactioneel"
-signed_date: "2008-02-01"
-entry_into_force: "2008-01-21"
+laatste_update: 2008-02-01
+status: geldig
+toestand: 2008-02-01
+bron: "https://wetten.overheid.nl/BWBV0002876"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag inzake de overbrenging van gevonniste personen tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Zambia
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van de Republiek Zambia,
-
-Geleid door de wens de bilaterale samenwerking op het gebied van het strafrecht verder te ontwikkelen;
-
-Overwegende dat deze samenwerking een goede rechtsbedeling en de reclassering van de gevonniste persoon beoogt te bevorderen;
-
-Overwegende dat deze doelstellingen met zich meebrengen dat vreemdelingen die gedetineerd zijn als gevolg van het plegen van een strafbaar feit, in de gelegenheid dienen te worden gesteld om hun veroordeling binnen hun eigen samenleving te ondergaan; en
-
-Overwegende dat dit doel het beste kan worden bereikt door hen naar hun eigen land over te brengen,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Zambia, Geleid door de wens de bilaterale samenwerking op het gebied van het strafrecht verder te ontwikkelen; Overwegende dat deze samenwerking een goede rechtsbedeling en de reclassering van de gevonniste persoon beoogt te bevorderen; Overwegende dat deze doelstellingen met zich meebrengen dat vreemdelingen die gedetineerd zijn als gevolg van het plegen van een strafbaar feit, in de gelegenheid dienen te worden gesteld om hun veroordeling binnen hun eigen samenleving te ondergaan; en Overwegende dat dit doel het beste kan worden bereikt door hen naar hun eigen land over te brengen, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -66,15 +32,15 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ##### Artikel 2. Algemene beginselen
 
-1. De Partijen verbinden zich elkaar wederzijds in zo ruim mogelijke mate samenwerking te verlenen met betrekking tot de overbrenging van gevonniste personen overeenkomstig de bepalingen van dit Verdrag.
+1.. De Partijen verbinden zich elkaar wederzijds in zo ruim mogelijke mate samenwerking te verlenen met betrekking tot de overbrenging van gevonniste personen overeenkomstig de bepalingen van dit Verdrag.
 
-2. Een op het grondgebied van een Partij gevonniste persoon kan, overeenkomstig de bepalingen van dit Verdrag, naar het grondgebied van de andere Partij worden overgebracht teneinde de tegen hem uitgesproken veroordeling te ondergaan. Te dien einde kan hij de Staat van veroordeling of de Staat van tenuitvoerlegging zijn wens te kennen geven overeenkomstig dit Verdrag te worden overgebracht.
+2.. Een op het grondgebied van een Partij gevonniste persoon kan, overeenkomstig de bepalingen van dit Verdrag, naar het grondgebied van de andere Partij worden overgebracht teneinde de tegen hem uitgesproken veroordeling te ondergaan. Te dien einde kan hij de Staat van veroordeling of de Staat van tenuitvoerlegging zijn wens te kennen geven overeenkomstig dit Verdrag te worden overgebracht.
 
-3. De overbrenging kan door de Staat van veroordeling of door de Staat van tenuitvoerlegging worden verzocht.
+3.. De overbrenging kan door de Staat van veroordeling of door de Staat van tenuitvoerlegging worden verzocht.
 
 ##### Artikel 3. Voorwaarden voor overbrenging
 
-1. Een gevonniste persoon kan overeenkomstig de bepalingen van dit Verdrag, slechts onder de navolgende voorwaarden worden overgebracht:
+1.. Een gevonniste persoon kan overeenkomstig de bepalingen van dit Verdrag, slechts onder de navolgende voorwaarden worden overgebracht:
 
 - a. indien zowel de Staat van veroordeling als de Staat van tenuitvoerlegging wetgeving heeft met betrekking tot de overbrenging van gevonniste personen;
 
@@ -90,15 +56,15 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - g. indien de Staat van veroordeling en de Staat van tenuitvoerlegging instemmen met de overbrenging.
 
-2. In uitzonderingsgevallen kunnen de Staat van veroordeling en de Staat van tenuitvoerlegging zich akkoord verklaren met een overbrenging, zelfs wanneer de duur van het alsnog door de gevonniste persoon te ondergane gedeelte van de veroordeling minder is dan dat vermeld in het eerste lid, onderdeel d.
+2.. In uitzonderingsgevallen kunnen de Staat van veroordeling en de Staat van tenuitvoerlegging zich akkoord verklaren met een overbrenging, zelfs wanneer de duur van het alsnog door de gevonniste persoon te ondergane gedeelte van de veroordeling minder is dan dat vermeld in het eerste lid, onderdeel d.
 
 ##### Artikel 4. Verplichting tot het verstrekken van inlichtingen
 
-1. Een gevonniste persoon op wie dit Verdrag van toepassing is, dient door de Staat van veroordeling van de strekking van dit Verdrag in kennis te worden gesteld.
+1.. Een gevonniste persoon op wie dit Verdrag van toepassing is, dient door de Staat van veroordeling van de strekking van dit Verdrag in kennis te worden gesteld.
 
-2. Indien de gevonniste persoon zijn wens tot overbrenging ingevolge dit Verdrag aan de Staat van veroordeling kenbaar heeft gemaakt, dient die Staat de Staat van tenuitvoerlegging zo spoedig mogelijk nadat het vonnis onherroepelijk en voor tenuitvoerlegging vatbaar is geworden, daarvan in kennis te stellen.
+2.. Indien de gevonniste persoon zijn wens tot overbrenging ingevolge dit Verdrag aan de Staat van veroordeling kenbaar heeft gemaakt, dient die Staat de Staat van tenuitvoerlegging zo spoedig mogelijk nadat het vonnis onherroepelijk en voor tenuitvoerlegging vatbaar is geworden, daarvan in kennis te stellen.
 
-3. De kennisgeving dient de navolgende inlichtingen te omvatten:
+3.. De kennisgeving dient de navolgende inlichtingen te omvatten:
 
 - a. de naam, datum en geboorteplaats van de gevonniste persoon;
 
@@ -108,25 +74,25 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - d. de aard, duur en aanvangsdatum van de veroordeling.
 
-4. Indien de gevonniste persoon zijn wens tot overbrenging ingevolge dit Verdrag aan de Staat van tenuitvoerlegging kenbaar heeft gemaakt, doet de Staat van veroordeling desgevraagd die Staat de in het derde lid bedoelde inlichtingen toekomen.
+4.. Indien de gevonniste persoon zijn wens tot overbrenging ingevolge dit Verdrag aan de Staat van tenuitvoerlegging kenbaar heeft gemaakt, doet de Staat van veroordeling desgevraagd die Staat de in het derde lid bedoelde inlichtingen toekomen.
 
-5. De gevonniste persoon dient van elke door de Staat van veroordeling of door de Staat van tenuitvoerlegging ingevolge de vorenstaande leden ondernomen actie schriftelijk in kennis te worden gesteld, alsmede van elke door een van de beide Staten op een verzoek tot overbrenging genomen beslissing.
+5.. De gevonniste persoon dient van elke door de Staat van veroordeling of door de Staat van tenuitvoerlegging ingevolge de vorenstaande leden ondernomen actie schriftelijk in kennis te worden gesteld, alsmede van elke door een van de beide Staten op een verzoek tot overbrenging genomen beslissing.
 
 ##### Artikel 5. Verzoeken en antwoorden
 
-1. De verzoeken tot overbrenging en de antwoorden daarop geschieden schriftelijk.
+1.. De verzoeken tot overbrenging en de antwoorden daarop geschieden schriftelijk.
 
-2. De verzoeken worden door het ministerie van Justitie van de verzoekende Staat aan het ministerie van Justitie van de aangezochte Staat gericht. De beantwoording van de verzoeken, alsmede alle met de verzoeken verband houdende correspondentie tussen beide Staten, vindt eveneens plaats door de ministeries van Justitie.
+2.. De verzoeken worden door het ministerie van Justitie van de verzoekende Staat aan het ministerie van Justitie van de aangezochte Staat gericht. De beantwoording van de verzoeken, alsmede alle met de verzoeken verband houdende correspondentie tussen beide Staten, vindt eveneens plaats door de ministeries van Justitie.
 
 ##### Artikel 6. Stukken ter ondersteuning
 
-1. De Staat van tenuitvoerlegging verstrekt de Staat van veroordeling op diens verzoek:
+1.. De Staat van tenuitvoerlegging verstrekt de Staat van veroordeling op diens verzoek:
 
 - a. een document of verklaring dat de gevonniste persoon een onderdaan is van die Staat;
 
 - b. een afschrift van het toepasselijke recht van de Staat van tenuitvoerlegging waaruit blijkt dat het handelen of het nalaten, op grond waarvan de veroordeling in de Staat van veroordeling werd uitgesproken, naar het recht van de Staat van tenuitvoerlegging een strafbaar feit oplevert of een strafbaar feit zou opleveren indien gepleegd op zijn grondgebied.
 
-2. Indien een overbrenging wordt verzocht, worden door de Staat van veroordeling de navolgende stukken aan de Staat van tenuitvoerlegging verstrekt, tenzij een van beide Staten reeds heeft aangegeven dat hij niet met de overbrenging zal instemmen;
+2.. Indien een overbrenging wordt verzocht, worden door de Staat van veroordeling de navolgende stukken aan de Staat van tenuitvoerlegging verstrekt, tenzij een van beide Staten reeds heeft aangegeven dat hij niet met de overbrenging zal instemmen;
 
 - a. een gewaarmerkt afschrift van het vonnis en de wettelijke bepalingen die daaraan ten grondslag liggen;
 
@@ -136,13 +102,13 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - d. waar nodig, een medisch of sociaal rapport omtrent de gevonniste persoon, inlichtingen betreffende zijn behandeling in de Staat van veroordeling en elke aanbeveling ten aanzien van zijn verdere behandeling in de Staat van tenuitvoerlegging.
 
-3. Elk van de beide Staten kan verzoeken in het bezit te worden gesteld van een van de in het eerste of tweede lid hierboven bedoelde stukken alvorens een verzoek tot overbrenging te doen of een beslissing te nemen of hij al dan niet met de overbrenging zal instemmen.
+3.. Elk van de beide Staten kan verzoeken in het bezit te worden gesteld van een van de in het eerste of tweede lid hierboven bedoelde stukken alvorens een verzoek tot overbrenging te doen of een beslissing te nemen of hij al dan niet met de overbrenging zal instemmen.
 
 ##### Artikel 7. Gevolgen van de overbrenging voor de Staat van veroordeling
 
-1. Met de daadwerkelijke overname van de gevonniste persoon door de autoriteiten van de Staat van tenuitvoerlegging wordt de tenuitvoerlegging van de veroordeling in de Staat van veroordeling geschorst.
+1.. Met de daadwerkelijke overname van de gevonniste persoon door de autoriteiten van de Staat van tenuitvoerlegging wordt de tenuitvoerlegging van de veroordeling in de Staat van veroordeling geschorst.
 
-2. De Staat van veroordeling kan de veroordeling niet langer ten uitvoer leggen, indien de Staat van tenuitvoerlegging de veroordeling als geheel ten uitvoer gelegd beschouwt.
+2.. De Staat van veroordeling kan de veroordeling niet langer ten uitvoer leggen, indien de Staat van tenuitvoerlegging de veroordeling als geheel ten uitvoer gelegd beschouwt.
 
 ##### Artikel 8. Gevolgen van de overbrenging voor de Staat van tenuitvoerlegging
 
@@ -150,9 +116,9 @@ De tenuitvoerlegging van de veroordeling wordt beheerst door het recht van de St
 
 ##### Artikel 9. Voortgezette tenuitvoerlegging
 
-1. De Staat van tenuitvoerlegging is gebonden aan het rechtskarakter en de duur van de veroordeling, zoals die zijn vastgesteld door de Staat van veroordeling.
+1.. De Staat van tenuitvoerlegging is gebonden aan het rechtskarakter en de duur van de veroordeling, zoals die zijn vastgesteld door de Staat van veroordeling.
 
-2. Indien deze veroordeling evenwel naar aard en duur onverenigbaar is met de wet van de Staat van tenuitvoerlegging, of indien de wet van die Staat zulks vereist, kan die Staat door middel van een rechterlijke of administratieve beschikking, de sanctie aanpassen aan de straf of maatregel door zijn eigen wet voor een soortgelijk strafbaar feit voorgeschreven. Wat de aard betreft, zal de straf of maatregel voor zover mogelijk overeenstemmen met die welke door de ten uitvoer te leggen veroordeling is opgelegd. De door de Staat van veroordeling opgelegde sanctie zal hierdoor naar aard of duur niet worden verzwaard en evenmin zal het door de wet van de Staat van tenuitvoerlegging voorgeschreven maximum hierdoor worden overschreden.
+2.. Indien deze veroordeling evenwel naar aard en duur onverenigbaar is met de wet van de Staat van tenuitvoerlegging, of indien de wet van die Staat zulks vereist, kan die Staat door middel van een rechterlijke of administratieve beschikking, de sanctie aanpassen aan de straf of maatregel door zijn eigen wet voor een soortgelijk strafbaar feit voorgeschreven. Wat de aard betreft, zal de straf of maatregel voor zover mogelijk overeenstemmen met die welke door de ten uitvoer te leggen veroordeling is opgelegd. De door de Staat van veroordeling opgelegde sanctie zal hierdoor naar aard of duur niet worden verzwaard en evenmin zal het door de wet van de Staat van tenuitvoerlegging voorgeschreven maximum hierdoor worden overschreden.
 
 ##### Artikel 10. Gratie, amnestie, strafvermindering
 
@@ -178,19 +144,19 @@ De Staat van tenuitvoerlegging bericht de Staat van veroordeling ten aanzien van
 
 ##### Artikel 14. Talen en kosten
 
-1. De kennisgevingen en inlichtingen bedoeld in artikel 4 en de verzoeken en berichten bedoeld in de artikelen 5, eerste lid, 12 en 13 dienen te worden gesteld in de taal van de Partij waaraan zij zijn gericht. De stukken ter ondersteuning van een verzoek als bedoeld in artikel 6 dienen vergezeld te gaan van een vertaling in de taal van de Partij waaraan zij zijn gericht.
+1.. De kennisgevingen en inlichtingen bedoeld in artikel 4 en de verzoeken en berichten bedoeld in de artikelen 5, eerste lid, 12 en 13 dienen te worden gesteld in de taal van de Partij waaraan zij zijn gericht. De stukken ter ondersteuning van een verzoek als bedoeld in artikel 6 dienen vergezeld te gaan van een vertaling in de taal van de Partij waaraan zij zijn gericht.
 
-2. Behoudens het in artikel 6, tweede lid, onderdeel a, bepaalde, behoeven de stukken die ter toepassing van dit Verdrag worden verzonden, niet gewaarmerkt te zijn.
+2.. Behoudens het in artikel 6, tweede lid, onderdeel a, bepaalde, behoeven de stukken die ter toepassing van dit Verdrag worden verzonden, niet gewaarmerkt te zijn.
 
-3. De kosten voortvloeiend uit de overbrenging van een gevonniste persoon worden door beide Staten gedragen, waarbij zij per geval de onderlinge verdeling overeenkomen.
+3.. De kosten voortvloeiend uit de overbrenging van een gevonniste persoon worden door beide Staten gedragen, waarbij zij per geval de onderlinge verdeling overeenkomen.
 
 ##### Artikel 15. Inwerkingtreding
 
-1. Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van twee maanden na de datum waarop Partijen hun instemming door het Verdrag gebonden te worden tot uitdrukking hebben gebracht.
+1.. Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van twee maanden na de datum waarop Partijen hun instemming door het Verdrag gebonden te worden tot uitdrukking hebben gebracht.
 
-2. Dit Verdrag wordt voorlopig toegepast vanaf de eerste dag van de derde maand na de ondertekening.
+2.. Dit Verdrag wordt voorlopig toegepast vanaf de eerste dag van de derde maand na de ondertekening.
 
-3. Wat betreft het Koninkrijk der Nederlanden is dit Verdrag van toepassing op het deel van het Koninkrijk in Europa, de Nederlandse Antillen en Aruba, tenzij anders is bepaald in de in het eerste lid bedoelde akte van bekrachtiging. In het laatste geval kan de Regering van het Koninkrijk der Nederlanden te allen tijde de toepassing van dit Verdrag uitbreiden tot een of meer afzonderlijke delen door middel van een kennisgeving aan de Regering van de Republiek Zambia.
+3.. Wat betreft het Koninkrijk der Nederlanden is dit Verdrag van toepassing op het deel van het Koninkrijk in Europa, de Nederlandse Antillen en Aruba, tenzij anders is bepaald in de in het eerste lid bedoelde akte van bekrachtiging. In het laatste geval kan de Regering van het Koninkrijk der Nederlanden te allen tijde de toepassing van dit Verdrag uitbreiden tot een of meer afzonderlijke delen door middel van een kennisgeving aan de Regering van de Republiek Zambia.
 
 ##### Artikel 16. Toepassing in de tijd
 
@@ -206,9 +172,9 @@ Enig geschil tussen de Partijen voortvloeiende uit de uitlegging, toepassing en 
 
 ##### Artikel 19. Beëindiging
 
-1. Elk van de Partijen kan dit Verdrag te allen tijde beëindigen door middel van een schriftelijke kennisgeving aan de andere Partij. De beëindiging wordt van kracht een jaar na de datum van ontvangst van een zodanige kennisgeving.
+1.. Elk van de Partijen kan dit Verdrag te allen tijde beëindigen door middel van een schriftelijke kennisgeving aan de andere Partij. De beëindiging wordt van kracht een jaar na de datum van ontvangst van een zodanige kennisgeving.
 
-2. Met inachtneming van het in het eerste lid genoemde tijdvak, zijn de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Zambia gerechtigd de toepassing van dit Verdrag afzonderlijk te beëindigen ten aanzien van elk deel van het Koninkrijk der Nederlanden als bedoeld in artikel 15, derde lid.
+2.. Met inachtneming van het in het eerste lid genoemde tijdvak, zijn de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Zambia gerechtigd de toepassing van dit Verdrag afzonderlijk te beëindigen ten aanzien van elk deel van het Koninkrijk der Nederlanden als bedoeld in artikel 15, derde lid.
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend.
 

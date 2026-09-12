@@ -1,61 +1,19 @@
 ---
 title: "Overeenkomst ter uitvoering van artikel 6 van de Overeenkomst inzake de terbeschikkingstelling en exploitatie van installaties en diensten voor het luchtvervoer door EUROCONTROL in het Luchtverkeersleidingcentrum Maastricht"
 identifier: "BWBV0002855"
-country: "nl"
-rank: "verdrag"
-publication_date: "1990-02-19"
-last_updated: "1990-02-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002855"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10003181813"
-version_id: "10003188522"
-internal_id: "C10006979751"
-label_id: "10003167684"
-dtd_version: "2.0"
-original_entry_into_force: "1990-02-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002855/1990-02-19/0"
-intitule_bron: "Trb.1987-18"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1988-10-13"
-intitule_published: "1987-01-30"
-intitule_in_force: "1990-03-02"
-intitule_status: "goed"
-original_publication: "Trb.1987-18"
-original_signed_date: "1988-10-13"
-original_published_date: "1987-01-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1987-18"
-entry_into_force_date: "1990-02-19"
-jci_1_3: "jci1.3:c:BWBV0002855&z=1990-02-19&g=1990-02-19"
-jci_1_0: "1.0:c:BWBV0002855&g=1990-02-19"
-citeertitel_status: "officieel"
-signed_date: "1988-10-13"
-entry_into_force: "1990-02-19"
+publicatiedatum: 1990-02-19
+laatste_update: 1990-02-19
+status: geldig
+toestand: 1990-02-19
+bron: "https://wetten.overheid.nl/BWBV0002855"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst ter uitvoering van artikel 6 van de Overeenkomst inzake de terbeschikkingstelling en exploitatie van installaties en diensten voor het luchtvervoer door EUROCONTROL in het Luchtverkeersleidingcentrum Maastricht
 
-De Regering van de Bondsrepubliek Duitsland,
-
-de Regering van het Koninkrijk België,
-
-de Regering van het Koninkrijk der Nederlanden,
-
-de Regering van het Groothertogdom Luxemburg,
-
-hierna genoemd de „Partijen”
-
-Aangezien zij de Europese Organisatie voor de veiligheid van de luchtvaart „EUROCONTROL” (hierna genoemd „de Organisatie”) belast hebben met de terbeschikkingstelling en exploitatie van installaties en diensten voor het en-route luchtverkeer binnen de grenzen en op de wijze zoals voorgeschreven in de [Overeenkomst inzake de terbeschikkingstelling en exploitatie van installaties en diensten voor het luchtverkeer door EUROCONTROL in het luchtverkeersleidingscentrum Maastricht](https://wetten.overheid.nl/jci1.3:c:BWBV0002446) (hierna genoemd „de Bijzondere Overeenkomst”) die op 25 november 1986 te Brussel is gesloten op basis van het gewijzigd Verdrag EUROCONTROL, artikel 2.2 en 12;
-
-Overwegende dat de Organisatie voor de vervulling van de haar door de Partijen opgedragen taak gebruik maakt van de installaties van haar luchtverkeersleidingscentrum Maastricht en het personeel levert dat voor de exploitatie en het onderhoud van het Centrum noodzakelijk is;
-
-Overwegende dat het Bestuurscomité van het Agentschap van de Organisatie op voorstel van de Directeur-Generaal van het Agentschap de in het luchtverkeersleidingscentrum Maastricht te nemen operationele en technische maatregelen vaststelt;
-
-Gelet op hun verplichtingen zoals vervat in [artikel 6 van de Bijzondere Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=6), bestaande in het vaststellen van werkprocedures ten einde de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=3) en [4 van de Bijzondere Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002446&artikel=4) omschreven doeleinden te verwezenlijken, d.w.z. door onderlinge coördinatie en overeenstemming in alle zaken betreffende de exploitatie van het luchtverkeersleidingscentrum Maastricht tot compatibiliteit van de door het luchtverkeersleidingscentrum Maastricht en de door de Partijen verleende luchtverkeersdiensten te komen;
-
-Gelet op hun verplichting om tot overeenstemming te komen inzake de vaststelling van een verdeelsleutel voor de toerekening aan hun respectieve kostengrondslagen voor de en-route heffingen van de bedragen wegens afschrijving en rentelasten op de kapitaaluitgaven voor investeringen van de Organisatie in het luchtverkeersleidingscentrum Maastricht, alsmede voor de betaling van de bedrijfskosten voor dit Centrum;
-
-zijn overeengekomen als volgt:
+*De Regering van de Bondsrepubliek Duitsland, de Regering van het Koninkrijk België, de Regering van het Koninkrijk der Nederlanden, de Regering van het Groothertogdom Luxemburg, hierna genoemd de „Partijen” Aangezien zij de Europese Organisatie voor de veiligheid van de luchtvaart „EUROCONTROL” (hierna genoemd „de Organisatie”) belast hebben met de terbeschikkingstelling en exploitatie van installaties en diensten voor het en-route luchtverkeer binnen de grenzen en op de wijze zoals voorgeschreven in de Overeenkomst inzake de terbeschikkingstelling en exploitatie van installaties en diensten voor het luchtverkeer door EUROCONTROL in het luchtverkeersleidingscentrum Maastricht (hierna genoemd „de Bijzondere Overeenkomst”) die op 25 november 1986 te Brussel is gesloten op basis van het gewijzigd Verdrag EUROCONTROL, artikel 2.2 en 12; Overwegende dat de Organisatie voor de vervulling van de haar door de Partijen opgedragen taak gebruik maakt van de installaties van haar luchtverkeersleidingscentrum Maastricht en het personeel levert dat voor de exploitatie en het onderhoud van het Centrum noodzakelijk is; Overwegende dat het Bestuurscomité van het Agentschap van de Organisatie op voorstel van de Directeur-Generaal van het Agentschap de in het luchtverkeersleidingscentrum Maastricht te nemen operationele en technische maatregelen vaststelt; Gelet op hun verplichtingen zoals vervat in artikel 6 van de Bijzondere Overeenkomst, bestaande in het vaststellen van werkprocedures ten einde de in artikel 3 en 4 van de Bijzondere Overeenkomst omschreven doeleinden te verwezenlijken, d.w.z. door onderlinge coördinatie en overeenstemming in alle zaken betreffende de exploitatie van het luchtverkeersleidingscentrum Maastricht tot compatibiliteit van de door het luchtverkeersleidingscentrum Maastricht en de door de Partijen verleende luchtverkeersdiensten te komen; Gelet op hun verplichting om tot overeenstemming te komen inzake de vaststelling van een verdeelsleutel voor de toerekening aan hun respectieve kostengrondslagen voor de en-route heffingen van de bedragen wegens afschrijving en rentelasten op de kapitaaluitgaven voor investeringen van de Organisatie in het luchtverkeersleidingscentrum Maastricht, alsmede voor de betaling van de bedrijfskosten voor dit Centrum; zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 

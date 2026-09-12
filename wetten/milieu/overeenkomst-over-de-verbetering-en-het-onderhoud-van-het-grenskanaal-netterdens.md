@@ -1,59 +1,19 @@
 ---
 title: "Overeenkomst over de verbetering en het onderhoud van het Grenskanaal (Netterdenscher Kanal) en de Wild alsmede het onderhoud en de bediening van kunstwerken in en aan deze wateren"
 identifier: "BWBV0002667"
-country: "nl"
-rank: "verdrag"
-publication_date: "1990-03-01"
-last_updated: "1990-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002667"
+categorie: "Milieu"
 soort: "verdrag"
-stam_id: "10002964153"
-version_id: "10002966792"
-internal_id: "C10006997351"
-label_id: "10002950834"
-dtd_version: "2.0"
-original_entry_into_force: "1990-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002667/1990-03-01/0"
-intitule_bron: "Trb.1989-72"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1988-09-21"
-intitule_published: "1989-06-06"
-intitule_in_force: "1991-05-01"
-intitule_status: "goed"
-original_publication: "Trb.1989-72"
-original_signed_date: "1988-09-21"
-original_published_date: "1989-06-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1989-72"
-entry_into_force_date: "1990-03-01"
-jci_1_3: "jci1.3:c:BWBV0002667&z=1990-03-01&g=1990-03-01"
-jci_1_0: "1.0:c:BWBV0002667&g=1990-03-01"
-citeertitel_status: "officieel"
-signed_date: "1988-09-21"
-entry_into_force: "1990-03-01"
+publicatiedatum: 1990-03-01
+laatste_update: 1990-03-01
+status: geldig
+toestand: 1990-03-01
+bron: "https://wetten.overheid.nl/BWBV0002667"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst over de verbetering en het onderhoud van het Grenskanaal (Netterdenscher Kanal) en de Wild alsmede het onderhoud en de bediening van kunstwerken in en aan deze wateren
 
-Het polderdistrict Rijn en IJssel, vertegenwoordigd door de dijkgraaf de heer Drs. W. Wolters
-
-en
-
-het Wasserverband Netterdenscher Kanal, vertegenwoordigd door de voorzitter de heer R. Lörks
-
-gaan uit van de volgende overwegingen:
-
-De omstandigheden bij het Grenskanaal (Netterdenscher Kanal) en de Wild zijn door indijking op Nederlands gebied en de bouw van het gemaal Kandia veranderd. De nieuwbouw van de sluis te Klein-Netterden is vereist op grond van de verplichting van de Bondsrepubliek Duitsland om het Grenskanaal (Netterdenscher Kanal) - tot nu toe afvoermogelijkheid van de Hetter Landwehr met een stroomgebied van ongeveer 44 km2 - gedurende het in werking zijn van het gemaal Kandia af te sluiten en het water in Duitsland af te voeren.
-
-De tot nu toe aanwezige stuwen bij de grensovergang Klein-Netterden en bij de grensovergang 's-Heerenberg vertonen aanzienlijke constructieve gebreken. De bodem van het Grenskanaal (Netterdenscher Kanal) en de Wild is verregaand opgeslibd.
-
-Eén van de oorzaken van deze opslibbing is de afvoer van de riolering en de afvoer (het effluent) van de zuiveringsinstallaties. De toevoer van deze waterhoeveelheden leidt bij het niet inlaten van water uit de Hetter Landwehr tot aanzienlijke (waterkwaliteits)verstoring.
-
-De tot nu toe uitgevoerde maatregelen (baggeren vanaf de Autobahn tot in de Tiefe Wild) hebben het probleem niet opgelost.
-
-De verbetering en het onderhoud van het Grenskanaal (Netterdenscher Kanal) en de Wild moeten, te zamen met de bouw en het onderhoud van de drie ontworpen stuwen een bepaalde waterstand garanderen, de afvoer van het grondwater beperken en de overmatige plantengroei op de bodem verminderen. Het voorkomende neerslagwater, het kwelwater en het gezuiverde afvalwater dient zonder nadelige gevolgen afgevoerd te worden.
-
-Dienovereenkomstig sluiten het Wasserverband en het polderdistrict met inachtneming van hoofdstuk 4, artikel 59, lid 2 van het Grensverdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland van 8 april 1960, de volgende overeenkomst.
+*Het polderdistrict Rijn en IJssel, vertegenwoordigd door de dijkgraaf de heer Drs. W. Wolters en het Wasserverband Netterdenscher Kanal, vertegenwoordigd door de voorzitter de heer R. Lörks gaan uit van de volgende overwegingen: 1. De omstandigheden bij het Grenskanaal (Netterdenscher Kanal) en de Wild zijn door indijking op Nederlands gebied en de bouw van het gemaal Kandia veranderd. De nieuwbouw van de sluis te Klein-Netterden is vereist op grond van de verplichting van de Bondsrepubliek Duitsland om het Grenskanaal (Netterdenscher Kanal) - tot nu toe afvoermogelijkheid van de Hetter Landwehr met een stroomgebied van ongeveer 44 km2 - gedurende het in werking zijn van het gemaal Kandia af te sluiten en het water in Duitsland af te voeren. 2. De tot nu toe aanwezige stuwen bij de grensovergang Klein-Netterden en bij de grensovergang 's-Heerenberg vertonen aanzienlijke constructieve gebreken. De bodem van het Grenskanaal (Netterdenscher Kanal) en de Wild is verregaand opgeslibd. Eén van de oorzaken van deze opslibbing is de afvoer van de riolering en de afvoer (het effluent) van de zuiveringsinstallaties. De toevoer van deze waterhoeveelheden leidt bij het niet inlaten van water uit de Hetter Landwehr tot aanzienlijke (waterkwaliteits)verstoring. De tot nu toe uitgevoerde maatregelen (baggeren vanaf de Autobahn tot in de Tiefe Wild) hebben het probleem niet opgelost. 3. De verbetering en het onderhoud van het Grenskanaal (Netterdenscher Kanal) en de Wild moeten, te zamen met de bouw en het onderhoud van de drie ontworpen stuwen een bepaalde waterstand garanderen, de afvoer van het grondwater beperken en de overmatige plantengroei op de bodem verminderen. Het voorkomende neerslagwater, het kwelwater en het gezuiverde afvalwater dient zonder nadelige gevolgen afgevoerd te worden. Dienovereenkomstig sluiten het Wasserverband en het polderdistrict met inachtneming van hoofdstuk 4, artikel 59, lid 2 van het Grensverdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland van 8 april 1960, de volgende overeenkomst.*
 
 ##### Artikel 1
 
@@ -187,10 +147,10 @@ Zij treedt in werking een maand na de ontvangst door een van de partijen van de 
 
 GEDAAN te Herwen, d.d. 21 september 1988 in viervoud, elk in de Duitse en Nederlandse taal, waarbij elke tekst gelijkelijk verbindend is.
 
-**Voor het Wasserverband Netterdenscher Kanal**
+*Voor het Wasserverband Netterdenscher Kanal*
 
 (w.g.) LÖRKS
 
-**Voor het polderdistrict Rijn en IJssel**
+*Voor het polderdistrict Rijn en IJssel*
 
 (w.g.) W. WOLTERS

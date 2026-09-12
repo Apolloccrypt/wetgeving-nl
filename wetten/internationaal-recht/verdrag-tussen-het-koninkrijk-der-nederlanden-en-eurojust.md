@@ -2,61 +2,58 @@
 title: "Verdrag tussen het Koninkrijk der Nederlanden en Eurojust"
 identifier: "BWBV0001793"
 categorie: "Internationaal recht"
-publicatiedatum: 2026-07-03
-laatste_update: 2026-07-15
+soort: "verdrag"
+publicatiedatum: 2006-04-01
+laatste_update: 2026-07-03
 status: geldig
+toestand: 2026-07-03
 bron: "https://wetten.overheid.nl/BWBV0001793"
+opgehaald: 2026-09-12
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en Eurojust
 
-The Kingdom of the Netherlands and Eurojust (hereafter, the Parties)
-
-Having regard to the Council Decision of 28 February 2002 setting up Eurojust with a view to reinforcing the fight against serious crime;
-
-Whereas Article 1c) of the Decision taken by common agreement between the Representatives of the Member States, meeting at Head of State or Government level, of 13 December 2003 on the location of seats of certain offices and agencies of the European Union, provides having regard to [Article 289 of the Treaty establishing the European Community](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=289), that Eurojust shall have its seat in The Hague;
-
-Have agreed as follows:
+*The Kingdom of the Netherlands and Eurojust (hereafter, the Parties) Having regard to the Council Decision of 28 February 2002 setting up Eurojust with a view to reinforcing the fight against serious crime; Whereas Article 1c) of the Decision taken by common agreement between the Representatives of the Member States, meeting at Head of State or Government level, of 13 December 2003 on the location of seats of certain offices and agencies of the European Union, provides having regard to Article 289 of the Treaty establishing the European Community, that Eurojust shall have its seat in The Hague; Have agreed as follows:*
 
 ##### Article 1. Definitions
 
 For the purposes of this Agreement:
 
-- a). ‘‘Eurojust Decision’’ means the Council Decision of 28 February 2002 setting up Eurojust with a view to reinforcing the fight against serious crime;
+- a) ‘‘Eurojust Decision’’ means the Council Decision of 28 February 2002 setting up Eurojust with a view to reinforcing the fight against serious crime;
 
-- b). ‘‘Eurojust’’ means the unit set up by the Eurojust Decision;
+- b) ‘‘Eurojust’’ means the unit set up by the Eurojust Decision;
 
-- c). ‘‘Government’’ means the Government of the Kingdom of the Netherlands;
+- c) ‘‘Government’’ means the Government of the Kingdom of the Netherlands;
 
-- d). ‘‘Host State authorities’’ means such State, municipal or other authorities of the Kingdom of the Netherlands as may be appropriate in the context of and in accordance with the laws and customs applicable in the Kingdom of the Netherlands;
+- d) ‘‘Host State authorities’’ means such State, municipal or other authorities of the Kingdom of the Netherlands as may be appropriate in the context of and in accordance with the laws and customs applicable in the Kingdom of the Netherlands;
 
-- e). ‘‘Headquarters’’ means the area, any building, land or facilities ancillary thereto, irrespective of ownership, used on a permanent basis, temporarily or from time to time by Eurojust following mutual agreement between Eurojust and the Government, to carry out its official functions;
+- e) ‘‘Headquarters’’ means the area, any building, land or facilities ancillary thereto, irrespective of ownership, used on a permanent basis, temporarily or from time to time by Eurojust following mutual agreement between Eurojust and the Government, to carry out its official functions;
 
-- f). ‘‘national member’’ means a person referred to in Article 2, paragraph 1, of the Eurojust Decision;
+- f) ‘‘national member’’ means a person referred to in Article 2, paragraph 1, of the Eurojust Decision;
 
-- g). ‘‘College’’ means the College referred to in Article 10 of the Eurojust Decision;
+- g) ‘‘College’’ means the College referred to in Article 10 of the Eurojust Decision;
 
-- h). ‘‘President of the College’’ means the national member elected as President by the College, as referred to in Article 28, paragraph 2, of the Eurojust Decision;
+- h) ‘‘President of the College’’ means the national member elected as President by the College, as referred to in Article 28, paragraph 2, of the Eurojust Decision;
 
-- i). ‘‘Assistant’’ means any assistant of a national member as referred to in Article 2, paragraph 2, of the Eurojust Decision;
+- i) ‘‘Assistant’’ means any assistant of a national member as referred to in Article 2, paragraph 2, of the Eurojust Decision;
 
-- j). ‘‘national correspondent’’ means a person referred to in Article 12 of the Eurojust Decision;
+- j) ‘‘national correspondent’’ means a person referred to in Article 12 of the Eurojust Decision;
 
-- k). ‘‘Joint Supervisory Body’’ means the body referred to in Article 23 of the Eurojust Decision;
+- k) ‘‘Joint Supervisory Body’’ means the body referred to in Article 23 of the Eurojust Decision;
 
-- l). ‘‘Administrative Director’’ means the Administrative Director referred to in Article 29 of the Eurojust Decision;
+- l) ‘‘Administrative Director’’ means the Administrative Director referred to in Article 29 of the Eurojust Decision;
 
-- m). ‘‘staff’’ means the Eurojust staff referred to in Article 30 of the Eurojust Decision;
+- m) ‘‘staff’’ means the Eurojust staff referred to in Article 30 of the Eurojust Decision;
 
-- n). ‘‘Protocol’’ means the Protocol on the Privileges and Immunities of the European Communities;
+- n) ‘‘Protocol’’ means the Protocol on the Privileges and Immunities of the European Communities;
 
-- o). ‘‘[Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345)’’ means the Vienna Convention on Diplomatic Relations;
+- o) ‘‘[Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345)’’ means the Vienna Convention on Diplomatic Relations;
 
-- p). ‘‘archives’’ means all records, correspondence, documents, manuscripts, computer and media data, photographs, film, video and sound recordings belonging to, or held by or on behalf of Eurojust, and any other similar material which Eurojust and the Government may agree upon to be part of the archives of Eurojust; and
+- p) ‘‘archives’’ means all records, correspondence, documents, manuscripts, computer and media data, photographs, film, video and sound recordings belonging to, or held by or on behalf of Eurojust, and any other similar material which Eurojust and the Government may agree upon to be part of the archives of Eurojust; and
 
-- q). ‘‘Member State’’ means any Member State of the European Union;
+- q) ‘‘Member State’’ means any Member State of the European Union;
 
-- r). “Liaison Prosecutor” means any liaison prosecutor from a third country seconded to Eurojust based on a cooperation agreement concluded before 12 December 2019 between Eurojust and that third country or an international agreement concluded between the European Union and the third country pursuant to Article 218 of the Treaty on the Functioning of the European Union (TFEU) allowing for the secondment of a liaison prosecutor, as referred to in Article 54a(1) of the Eurojust Regulation1)Regulation (EU) 2018/1727 of the European Parliament and of the Council of 14 November 2018 on the European Union Agency for Criminal Justice Cooperation (Eurojust) and replacing and repealing Council Decision 2002/187/JHA (OJ L 295, 21.11.2018, p. 138) (hereinafter referred to as “the Eurojust Regulation”) (as amended by Regulation (EU) 2022/838, OJ L 148, 31.05.2022, p. 1–5; Regulation (EU) 2023/2131, OJ L, 11.10.2023, p.1–14; and Regulation (EU) 2025/2082, OJ L, 15.10.2025, p. 1)., and any deputy or assistant to the liaison prosecutor. For the purposes of this Agreement, this term also includes any other prosecutor seconded by a competent authority of a third country to Eurojust on the basis of a working arrangement concluded under Article 47(3) of the Eurojust Regulation.
+- r) “Liaison Prosecutor” means any liaison prosecutor from a third country seconded to Eurojust based on a cooperation agreement concluded before 12 December 2019 between Eurojust and that third country or an international agreement concluded between the European Union and the third country pursuant to Article 218 of the Treaty on the Functioning of the European Union (TFEU) allowing for the secondment of a liaison prosecutor, as referred to in Article 54a(1) of the Eurojust Regulation1)Regulation (EU) 2018/1727 of the European Parliament and of the Council of 14 November 2018 on the European Union Agency for Criminal Justice Cooperation (Eurojust) and replacing and repealing Council Decision 2002/187/JHA (OJ L 295, 21.11.2018, p. 138) (hereinafter referred to as “the Eurojust Regulation”) (as amended by Regulation (EU) 2022/838, OJ L 148, 31.05.2022, p. 1–5; Regulation (EU) 2023/2131, OJ L, 11.10.2023, p.1–14; and Regulation (EU) 2025/2082, OJ L, 15.10.2025, p. 1)., and any deputy or assistant to the liaison prosecutor. For the purposes of this Agreement, this term also includes any other prosecutor seconded by a competent authority of a third country to Eurojust on the basis of a working arrangement concluded under Article 47(3) of the Eurojust Regulation.
 
 ##### Article 2. Immunity from Jurisdiction and Execution and Inviolability of Archives
 
@@ -108,25 +105,25 @@ The Host State shall exercise due diligence to ensure that the security and tran
 
 2. Within the scope of its official activities, Eurojust shall be exempt from:
 
-- a). import taxes and duties (‘‘belastingen bij invoer’’);
+- a) import taxes and duties (‘‘belastingen bij invoer’’);
 
-- b). motor vehicle tax (‘‘motorrijtuigenbelasting’’, ‘‘MRB’’);
+- b) motor vehicle tax (‘‘motorrijtuigenbelasting’’, ‘‘MRB’’);
 
-- c). tax on passenger motor vehicles and motorcycles (‘‘belasting van personenauto’s en motorrijwielen’’, ‘‘BPM’’);
+- c) tax on passenger motor vehicles and motorcycles (‘‘belasting van personenauto’s en motorrijwielen’’, ‘‘BPM’’);
 
-- d). value added tax (‘‘omzetbelasting’’, ‘‘BTW’’) paid on goods and services supplied on a recurring basis or involving considerable expenditure;
+- d) value added tax (‘‘omzetbelasting’’, ‘‘BTW’’) paid on goods and services supplied on a recurring basis or involving considerable expenditure;
 
-- e). excise duties (‘‘accijnzen’’) included in the price of alcoholic beverages and hydrocarbons such as fuel oils and motor fuels;
+- e) excise duties (‘‘accijnzen’’) included in the price of alcoholic beverages and hydrocarbons such as fuel oils and motor fuels;
 
-- f). real property transfer tax (‘‘overdrachtsbelasting’’);
+- f) real property transfer tax (‘‘overdrachtsbelasting’’);
 
-- g). insurance tax (‘‘assurantiebelasting’’);
+- g) insurance tax (‘‘assurantiebelasting’’);
 
-- h). energy tax (‘‘regulerende energiebelasting’’, ‘‘REB’’);
+- h) energy tax (‘‘regulerende energiebelasting’’, ‘‘REB’’);
 
-- i). tax on water mains (‘‘belasting op leidingwater’’, ‘‘BOL’’); and
+- i) tax on water mains (‘‘belasting op leidingwater’’, ‘‘BOL’’); and
 
-- j). any other taxes and duties of a substantially similar character as the taxes provided for in this paragraph, imposed by the Kingdom of the Netherlands subsequent to the date of signature of this Agreement.
+- j) any other taxes and duties of a substantially similar character as the taxes provided for in this paragraph, imposed by the Kingdom of the Netherlands subsequent to the date of signature of this Agreement.
 
 3. The exemption provided for in subparagraphs 2d), e), f), g), h), i) and j) of this Article may be granted by way of a refund.
 
@@ -142,15 +139,15 @@ Eurojust shall be entitled to display its flag, emblem and markings in the Headq
 
 1. The Government shall facilitate, if necessary, the entry, stay and departure for purposes of official business of the persons listed below and members of the family forming part of their household:
 
-- a). the national members and the assistants,
+- a) the national members and the assistants,
 
-- b). the Administrative Director,
+- b) the Administrative Director,
 
-- c). the staff,
+- c) the staff,
 
-- d). the members of the Joint Supervisory Body,
+- d) the members of the Joint Supervisory Body,
 
-- e). other persons, on request of the Administrative Director.
+- e) other persons, on request of the Administrative Director.
 
 2. This Article shall not prevent the requirement of reasonable evidence to be provided by Eurojust to establish that persons claiming the treatment provided for in this Article fall under one of the categories referred to in paragraph 1.
 
@@ -160,9 +157,9 @@ Eurojust shall be entitled to display its flag, emblem and markings in the Headq
 
 1. A national member, not being the Dutch national member, shall be accorded:
 
-- a). **mutatis mutandis,** the privileges and immunities as referred to in Article 2, paragraph 3, and Article 7 of this Agreement; and
+- a) *mutatis mutandis,* the privileges and immunities as referred to in Article 2, paragraph 3, and Article 7 of this Agreement; and
 
-- b). the privileges and immunities, exemptions and facilities accorded to heads of diplomatic missions accredited to the Kingdom of the Netherlands in accordance with the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
+- b) the privileges and immunities, exemptions and facilities accorded to heads of diplomatic missions accredited to the Kingdom of the Netherlands in accordance with the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
 2. The members of the family forming part of the household of a national member referred to in paragraph 1, not having the Dutch nationality or not permanently resident, shall enjoy the privileges and immunities, exemptions and facilities accorded to members of the family forming part of the household of heads of diplomatic missions under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
@@ -174,23 +171,23 @@ Eurojust shall be entitled to display its flag, emblem and markings in the Headq
 
 The Dutch national member, acting in accordance with Article 7 of the Eurojust Decision, shall enjoy:
 
-- a). immunity from legal process of any kind in respect of words spoken or written and of acts performed, such immunity to continue notwithstanding that the person concerned is no longer the Dutch national member; and
+- a) immunity from legal process of any kind in respect of words spoken or written and of acts performed, such immunity to continue notwithstanding that the person concerned is no longer the Dutch national member; and
 
-- b). inviolability for all his official papers, documents and other official materials and immunity from inspection and seizure of his official luggage.
+- b) inviolability for all his official papers, documents and other official materials and immunity from inspection and seizure of his official luggage.
 
 ##### Article 13. Privileges and Immunities of an Assistant Granted by the Government
 
 1. An assistant, not having the Dutch nationality or not permanently resident in the Kingdom of the Netherlands, who is in the service of the seconding Member State according to Article 2, paragraph 2, of the Eurojust Decision, shall enjoy:
 
-- a). the privileges and immunities referred to in Article 11, paragraph 1a); and
+- a) the privileges and immunities referred to in Article 11, paragraph 1a); and
 
-- b). the privileges and immunities, exemptions and facilities accorded to diplomatic agents accredited to the Kingdom of the Netherlands under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
+- b) the privileges and immunities, exemptions and facilities accorded to diplomatic agents accredited to the Kingdom of the Netherlands under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
 2. An assistant, having the Dutch nationality or permanently resident in the Kingdom of the Netherlands, shall enjoy the following privileges and immunities:
 
-- a). immunity from legal process of any kind in respect of words spoken or written, and of acts performed, in the exercise of his official function, such immunity to continue notwithstanding that the person concerned is no longer an assistant; and
+- a) immunity from legal process of any kind in respect of words spoken or written, and of acts performed, in the exercise of his official function, such immunity to continue notwithstanding that the person concerned is no longer an assistant; and
 
-- b). inviolability for all his official papers, documents and other official materials and immunity from inspection and seizure of his official luggage;
+- b) inviolability for all his official papers, documents and other official materials and immunity from inspection and seizure of his official luggage;
 
 3. The members of the family forming part of the household of an assistant referred to in paragraph 1, not having the Dutch nationality or not permanently resident, shall enjoy the privileges and immunities, exemptions and facilities accorded to the members of the family forming part of the household of diplomatic agents under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
@@ -208,31 +205,51 @@ The Dutch national member, acting in accordance with Article 7 of the Eurojust D
 
 A member of the Joint Supervisory Body shall within and with respect to the Kingdom of the Netherlands, while exercising his function and in the course of his journeys to and from the place of meeting, enjoy the following privileges and immunities:
 
-- a). immunity from legal process of any kind in respect of words spoken or written, and of acts performed by him, in the exercise of his official functions, such immunity to continue notwithstanding that the person concerned is no longer a member of the Joint Supervisory Body;
+- a) immunity from legal process of any kind in respect of words spoken or written, and of acts performed by him, in the exercise of his official functions, such immunity to continue notwithstanding that the person concerned is no longer a member of the Joint Supervisory Body;
 
-- b). inviolability for all his official papers, documents and other official materials;
+- b) inviolability for all his official papers, documents and other official materials;
 
-- c). the same facilities regarding his personal luggage as those accorded to the officials of foreign States on temporary official missions; and
+- c) the same facilities regarding his personal luggage as those accorded to the officials of foreign States on temporary official missions; and
 
-- d). the right, for the purpose of all communications with Eurojust, to use codes and to dispatch or receive papers, correspondence or other official material by courier or in sealed bags.
+- d) the right, for the purpose of all communications with Eurojust, to use codes and to dispatch or receive papers, correspondence or other official material by courier or in sealed bags.
+
+##### Article 15a. Privileges and Immunities of a Liaison Prosecutor Granted by the Government
+
+1. Subject to the provisions of this Agreement, a Liaison Prosecutor and members of the family forming part of the household, and who neither have Dutch nationality nor are permanently resident in the Kingdom of the Netherlands, shall enjoy the same privileges and immunities as are conferred on members of the diplomatic staff under the Vienna Convention.
+
+2. The immunity granted to persons mentioned in paragraph 1 shall not extend to criminal and civil jurisdiction over acts performed outside the course of their official duties.
+
+3. The Host State authorities shall facilitate, if necessary, the entry, stay and departure of the Liaison Prosecutor and members of the family forming part of the household.
+
+4. This Article shall not prevent the requirement of reasonable evidence to establish that persons claiming the treatment provided for under this Article come within the classes described in paragraph 1.
+
+5. Visas which may be required by persons referred to in this Article shall be granted without charge and as promptly as possible.
+
+6. The archives of the Liaison Prosecutor, meaning all records, correspondence, documents, manuscripts, computer and media data, photographs, films, video and sound recordings belonging to or held by the Liaison Prosecutor, and any other similar material which in the unanimous opinion of Eurojust and the Host State authorities forms part of the archives of the Liaison Prosecutor, wherever located and by whomsoever held, shall be inviolable.
+
+7. The Host State shall permit the Liaison Prosecutor to communicate freely and without a need for special permission, for all official purposes, and shall protect the right of the Liaison Prosecutor to do so. The Liaison Prosecutor shall have the right to use codes and to dispatch and receive official correspondence and other official communications by courier or in sealed bags which shall be subject to the same privileges and immunities as diplomatic couriers and bags.
+
+8. Article 16 of this Agreement is not applicable to Liaison Prosecutors.
+
+9. In case a third country nominates a person with the Dutch nationality or permanently resident in the Kingdom of the Netherlands as its Liaison Prosecutor, the Government and Eurojust shall mutually agree upon the privileges and immunities to be granted to the Liaison Prosecutor concerned.
 
 ##### Article 16. National Correspondents and Representatives of Third States and Other Entities
 
 A national correspondent, a representative of an entity as referred to in Article 26 of the Eurojust Decision, a representative of a third State or of an entity as referred to in Article 27, paragraph 3, of the Eurojust Decision, who has been invited by Eurojust on official business, shall enjoy within and with respect to the Kingdom of the Netherlands the following privileges and immunities as far as may be deemed necessary for the effective performance of his functions and during his travel in connection with service on such missions, committees or subsidiary bodies, and during attendance at such meetings:
 
-- a). immunity from legal process of any kind in respect of words spoken or written, and of acts performed by him in the exercise of his official functions, such immunity to continue notwithstanding that the person concerned is no longer employed for missions, serving on committees of, or acting as consultant for Eurojust, or is no longer present at the Headquarters or attending meetings convened by Eurojust;
+- a) immunity from legal process of any kind in respect of words spoken or written, and of acts performed by him in the exercise of his official functions, such immunity to continue notwithstanding that the person concerned is no longer employed for missions, serving on committees of, or acting as consultant for Eurojust, or is no longer present at the Headquarters or attending meetings convened by Eurojust;
 
-- b). inviolability for all his official papers, documents and other official materials;
+- b) inviolability for all his official papers, documents and other official materials;
 
-- c). the same immunities and facilities with respect to his personal luggage as those accorded to members, having comparable rank, of the staff of diplomatic missions established in the Kingdom of the Netherlands;
+- c) the same immunities and facilities with respect to his personal luggage as those accorded to members, having comparable rank, of the staff of diplomatic missions established in the Kingdom of the Netherlands;
 
-- d). the same privileges with respect to currency and exchange restrictions as those accorded to representatives of foreign States on temporary official missions;
+- d) the same privileges with respect to currency and exchange restrictions as those accorded to representatives of foreign States on temporary official missions;
 
-- e). the same protection and repatriation facilities as those accorded in time of international crisis to members, having comparable rank, of the staff of diplomatic missions established in the Kingdom of the Netherlands;
+- e) the same protection and repatriation facilities as those accorded in time of international crisis to members, having comparable rank, of the staff of diplomatic missions established in the Kingdom of the Netherlands;
 
-- f). the right, for the purpose of all communications with Eurojust, to use codes and to dispatch or receive papers, correspondence or other official material by courier or in sealed bags; and
+- f) the right, for the purpose of all communications with Eurojust, to use codes and to dispatch or receive papers, correspondence or other official material by courier or in sealed bags; and
 
-- g). if necessary, exemption from alien restrictions and alien registrations.
+- g) if necessary, exemption from alien restrictions and alien registrations.
 
 ##### Article 17. Employment
 
@@ -266,13 +283,13 @@ Host State authorities shall, if so requested by Eurojust, take all reasonable s
 
 1. Eurojust shall promptly notify the Government of:
 
-- a). the arrival and departure of national members and assistants,
+- a) the arrival and departure of national members and assistants,
 
-- b). the arrival and departure of the Administrative Director and of the staff members,
+- b) the arrival and departure of the Administrative Director and of the staff members,
 
-- c). the arrival and departure of Liaison Prosecutors, and
+- c) the arrival and departure of Liaison Prosecutors, and
 
-- d). the arrival and final departure of members of the family forming part of the household of the persons referred to in Article 11, paragraph 1, Article 13, paragraph 1, Article 14, and Article 15a, paragraph 1, and, where appropriate, domestic servants. Eurojust shall also periodically provide the Government with a list of the persons referred to under subparagraphs a), b) and c).
+- d) the arrival and final departure of members of the family forming part of the household of the persons referred to in Article 11, paragraph 1, Article 13, paragraph 1, Article 14, and Article 15a, paragraph 1, and, where appropriate, domestic servants. Eurojust shall also periodically provide the Government with a list of the persons referred to under subparagraphs a), b) and c).
 
 2. Eurojust shall provide the Government with a list of the members of the Joint Supervisory Body and with a list of national correspondents, and shall revise these lists from time to time as may be necessary.
 
@@ -318,40 +335,10 @@ The Parties shall at the request of either of them enter into consultations rega
 
 DONE at The Hague on 15 March 2006, in two copies in the English language.
 
-**For the Kingdom of the Netherlands**
+*For the Kingdom of the Netherlands*
 
 ATZO NICOLAÏ
 
-**For Eurojust**
-
-M. KENNEDY
-
-##### Article 15a. Privileges and Immunities of a Liaison Prosecutor Granted by the Government
-
-1. Subject to the provisions of this Agreement, a Liaison Prosecutor and members of the family forming part of the household, and who neither have Dutch nationality nor are permanently resident in the Kingdom of the Netherlands, shall enjoy the same privileges and immunities as are conferred on members of the diplomatic staff under the Vienna Convention.
-
-2. The immunity granted to persons mentioned in paragraph 1 shall not extend to criminal and civil jurisdiction over acts performed outside the course of their official duties.
-
-3. The Host State authorities shall facilitate, if necessary, the entry, stay and departure of the Liaison Prosecutor and members of the family forming part of the household.
-
-4. This Article shall not prevent the requirement of reasonable evidence to establish that persons claiming the treatment provided for under this Article come within the classes described in paragraph 1.
-
-5. Visas which may be required by persons referred to in this Article shall be granted without charge and as promptly as possible.
-
-6. The archives of the Liaison Prosecutor, meaning all records, correspondence, documents, manuscripts, computer and media data, photographs, films, video and sound recordings belonging to or held by the Liaison Prosecutor, and any other similar material which in the unanimous opinion of Eurojust and the Host State authorities forms part of the archives of the Liaison Prosecutor, wherever located and by whomsoever held, shall be inviolable.
-
-7. The Host State shall permit the Liaison Prosecutor to communicate freely and without a need for special permission, for all official purposes, and shall protect the right of the Liaison Prosecutor to do so. The Liaison Prosecutor shall have the right to use codes and to dispatch and receive official correspondence and other official communications by courier or in sealed bags which shall be subject to the same privileges and immunities as diplomatic couriers and bags.
-
-8. Article 16 of this Agreement is not applicable to Liaison Prosecutors.
-
-9. In case a third country nominates a person with the Dutch nationality or permanently resident in the Kingdom of the Netherlands as its Liaison Prosecutor, the Government and Eurojust shall mutually agree upon the privileges and immunities to be granted to the Liaison Prosecutor concerned.
-
-DONE at The Hague on 15 March 2006, in two copies in the English language.
-
-**For the Kingdom of the Netherlands**
-
-ATZO NICOLAÏ
-
-**For Eurojust**
+*For Eurojust*
 
 M. KENNEDY

@@ -1,57 +1,19 @@
 ---
 title: "Bilateraal verdrag inzake luchtdiensten tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Islamitische Republiek Iran"
 identifier: "BWBV0001606"
-country: "nl"
-rank: "verdrag"
-publication_date: "2007-04-01"
-last_updated: "2003-10-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001606"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10001467853"
-version_id: "10001546142"
-internal_id: "C10009884291"
-label_id: "10001468164"
-dtd_version: "2.0"
-original_entry_into_force: "2007-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001606/2007-04-01/0"
-intitule_bron: "Trb.2003-166"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2003-10-03"
-intitule_published: "2003-10-20"
-intitule_in_force: "2022-03-22"
-intitule_status: "goed"
-original_publication: "Trb.2003-166"
-original_signed_date: "2003-10-03"
-original_published_date: "2003-10-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2003-166"
-entry_into_force_date: "2007-04-01"
-jci_1_3: "jci1.3:c:BWBV0001606&z=2007-04-01&g=2007-04-01"
-jci_1_0: "1.0:c:BWBV0001606&g=2007-04-01"
-citeertitel_status: "redactioneel"
-signed_date: "2003-10-03"
-entry_into_force: "2007-04-01"
+publicatiedatum: 2007-04-01
+laatste_update: 2007-04-01
+status: geldig
+toestand: 2007-04-01
+bron: "https://wetten.overheid.nl/BWBV0001606"
+opgehaald: 2026-09-12
 ---
+
 # Bilateraal verdrag inzake luchtdiensten tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Islamitische Republiek Iran
 
-**Preambule**
-
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van de Islamitische Republiek Iran,
-
-hierna te noemen de Verdragsluitende Partijen;
-
-Partij zijnde bij het Verdrag inzake de internationale burgerluchtvaart, op 7 december 1944 (16/09/1323) te Chicago voor ondertekening opengesteld;
-
-geleid door de wens een bijdrage te leveren aan de vooruitgang van de internationale burgerluchtvaart;
-
-geleid door de wens de Overeenkomst van 31 oktober 1949 (09/08/1328), zoals gewijzigd bij briefwisseling van 12 februari/13 maart 1968, te vervangen teneinde de bestaande luchtdiensten tussen en via hun respectieve grondgebieden te verbeteren;
-
-zijn het volgende overeengekomen:
+*Preambule De Regering van het Koninkrijk der Nederlanden en de Regering van de Islamitische Republiek Iran, hierna te noemen de Verdragsluitende Partijen; Partij zijnde bij het Verdrag inzake de internationale burgerluchtvaart, op 7 december 1944 (16/09/1323) te Chicago voor ondertekening opengesteld; geleid door de wens een bijdrage te leveren aan de vooruitgang van de internationale burgerluchtvaart; geleid door de wens de Overeenkomst van 31 oktober 1949 (09/08/1328), zoals gewijzigd bij briefwisseling van 12 februari/13 maart 1968, te vervangen teneinde de bestaande luchtdiensten tussen en via hun respectieve grondgebieden te verbeteren; zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -75,9 +37,9 @@ Voor de toepassing van dit Verdrag betekenen de onderstaande begrippen het volge
 
 - i. onder „tarief" wordt verstaan: elk bedrag dat door de luchtvaartmaatschappijen, rechtstreeks of via hun agenten, in rekening wordt gebracht of zal worden gebracht aan alle natuurlijke personen of rechtspersonen voor het vervoer door de lucht van passagiers (en hun bagage) en vracht (post uitgezonderd), daarbij inbegrepen:
 
-- I. de voorwaarden betreffende het beschikbaar zijn en het van toepassing zijn van een tarief, en
+   - I. de voorwaarden betreffende het beschikbaar zijn en het van toepassing zijn van een tarief, en
 
-- II. de heffingen en voorwaarden voor alle bij zulk vervoer bijkomende diensten die door de luchtvaartmaatschappij worden aangeboden;
+   - II. de heffingen en voorwaarden voor alle bij zulk vervoer bijkomende diensten die door de luchtvaartmaatschappij worden aangeboden;
 
 - j. onder „verandering van luchtvaartuig" wordt verstaan: zodanige exploitatie van de overeengekomen diensten door een aangewezen luchtvaartmaatschappij dat een of meer sectoren van een route worden gevlogen door luchtvaartuigen met een andere capaciteit dan die welke in een andere sector worden gebruikt;
 
@@ -311,10 +273,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun 
 
 GEDAAN te Teheran op 3 september 2003, overeenkomend met 1382/6/12, in twee originele exemplaren, in de Nederlandse, de Perzische en de Engelse taal, zijnde alle versies gelijkelijk authentiek. In geval van eventuele verschillen is de Engelse versie doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) F. NAEFF
 
-**Voor de Regering van de Islamitische Republiek Iran**
+*Voor de Regering van de Islamitische Republiek Iran*
 
 (w.g.) H. ALIFARD

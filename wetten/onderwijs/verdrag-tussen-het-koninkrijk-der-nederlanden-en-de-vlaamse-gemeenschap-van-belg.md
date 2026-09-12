@@ -1,58 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de accreditatie van opleidingen binnen het Nederlandse en Vlaamse hoger onderwijs"
 identifier: "BWBV0001698"
-country: "nl"
-rank: "verdrag"
-publication_date: "2014-04-01"
-last_updated: "2014-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001698"
+categorie: "Onderwijs"
 soort: "verdrag"
-stam_id: "10001088543"
-version_id: "10001116822"
-internal_id: "C10006994961"
-label_id: "10001088884"
-original_entry_into_force: "2005-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001698/2014-04-01/0"
-intitule_bron: "Trb.2003-167"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-12-24"
-intitule_published: "2003-10-20"
-intitule_in_force: "2005-02-23"
-intitule_status: "goed"
-original_publication: "Trb.2003-167"
-original_signed_date: "2004-12-24"
-original_published_date: "2003-10-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2003-167"
-entry_into_force_date: "2005-02-01"
-jci_1_3: "jci1.3:c:BWBV0001698&z=2014-04-01&g=2014-04-01"
-jci_1_0: "1.0:c:BWBV0001698&g=2014-04-01"
-citeertitel_status: "officieel"
-signed_date: "2004-12-24"
-entry_into_force: "2005-02-01"
+publicatiedatum: 2005-02-01
+laatste_update: 2014-04-01
+status: geldig
+toestand: 2014-04-01
+bron: "https://wetten.overheid.nl/BWBV0001698"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de accreditatie van opleidingen binnen het Nederlandse en Vlaamse hoger onderwijs
 
-Het Koninkrijk der Nederlanden en
-
-de Vlaamse Gemeenschap van België,
-
-hierna te noemen: de Verdragsluitende Partijen,
-
-Overwegende dat:
-
-de Verdragsluitende Partijen de uitdrukkelijke wens hebben geuit te komen tot een Accreditatieorganisatie die zowel Nederlandse als Vlaamse opleidingen binnen het hoger onderwijs zal accrediteren;
-
-een accreditatieorgaan bij de Nederlandse Wet op het hoger onderwijs en wetenschappelijk onderzoek is ingesteld;
-
-het wenselijk is dat die Accreditatieorganisatie naar Nederlands en Belgisch recht over de bevoegdheden beschikt die noodzakelijk of nuttig zijn voor de vervulling van haar opdracht, binnen de grenzen die daarvoor zijn gesteld in dit Verdrag en de nationale regelgeving;
-
-de Verdragsluitende Partijen ieder voor hun eigen hoger onderwijs verantwoordelijk blijven voor de inrichting en de kwaliteit van dat onderwijs;
-
-de Verdragsluitende Partijen de wederzijdse grondwettelijke vrijheden van het onderwijs volledig respecteren en dat dit Verdrag slechts binnen die kaders uitgelegd kan worden;
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België, hierna te noemen: de Verdragsluitende Partijen, Overwegende dat: de Verdragsluitende Partijen de uitdrukkelijke wens hebben geuit te komen tot een Accreditatieorganisatie die zowel Nederlandse als Vlaamse opleidingen binnen het hoger onderwijs zal accrediteren; een accreditatieorgaan bij de Nederlandse Wet op het hoger onderwijs en wetenschappelijk onderzoek is ingesteld; het wenselijk is dat die Accreditatieorganisatie naar Nederlands en Belgisch recht over de bevoegdheden beschikt die noodzakelijk of nuttig zijn voor de vervulling van haar opdracht, binnen de grenzen die daarvoor zijn gesteld in dit Verdrag en de nationale regelgeving; de Verdragsluitende Partijen ieder voor hun eigen hoger onderwijs verantwoordelijk blijven voor de inrichting en de kwaliteit van dat onderwijs; de Verdragsluitende Partijen de wederzijdse grondwettelijke vrijheden van het onderwijs volledig respecteren en dat dit Verdrag slechts binnen die kaders uitgelegd kan worden; Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK 1. ACCREDITATIEORGANISATIE EN OPDRACHT
 
@@ -202,7 +163,7 @@ De Verdragsluitende Partijen stellen aan de Accreditatieorganisatie voor uitvoer
 
 ##### Artikel 16
 
-Elk geschil tussen de Verdragsluitende Partijen over de uitleg en de toepassing van het Verdrag, dat niet door onderhandelingen kan worden opgelost, kan op verzoek van één der Verdragsluitende Partijen ter beslissing worden voorgelegd aan een gerecht van drie arbiters. De bepalingen over de samenstelling en procedure van het gerecht zijn opgenomen in de Bijlage bij dit Verdrag, die een geïntegreerd onderdeel vormt van dit Verdrag.
+Elk geschil tussen de Verdragsluitende Partijen over de uitleg en de toepassing van het Verdrag, dat niet door onderhandelingen kan worden opgelost, kan op verzoek van één der Verdragsluitende Partijen ter beslissing worden voorgelegd aan een gerecht van drie arbiters. De bepalingen over de samenstelling en procedure van het gerecht zijn opgenomen in de [Bijlage](https://wetten.overheid.nl/BWBV0001698) bij dit Verdrag, die een geïntegreerd onderdeel vormt van dit Verdrag.
 
 ##### Artikel 17
 
@@ -216,30 +177,14 @@ Dit Verdrag treedt in werking met ingang van de eerste dag van de tweede maand, 
 
 Voor zover het het Koninkrijk der Nederlanden betreft, is dit Verdrag alleen van toepassing op het land Nederland.
 
-##### 1
-
-Het gerecht, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0001698&hoofdstuk=5&artikel=16&z=2014-04-01&g=2014-04-01) van dit Verdrag, bestaat uit drie arbiters, van wie elke Verdragsluitende Partij er één benoemt. De twee aldus gekozen arbiters bereiken overeenstemming over de derde arbiter. Deze derde arbiter mag geen onderdaan zijn of in dienst zijn van het Koninkrijk der Nederlanden of het Koninkrijk België. Elk van de Verdragsluitende Partijen wijst een arbiter aan binnen een termijn van dertig dagen vanaf de datum waarop één van de Verdragsluitende Partijen van de andere Partij een diplomatieke nota heeft ontvangen waarin om een scheidsrechtelijke beslissing wordt verzocht. Over de derde arbiter wordt binnen een volgende termijn van dertig dagen overeenstemming bereikt. Indien één van de Verdragsluitende Partijen haar eigen arbiter niet aanwijst binnen de termijn van dertig dagen of indien over de derde arbiter niet binnen de genoemde termijn overeenstemming is bereikt, kan de Secretaris-Generaal van het Permanente Hof van Arbitrage door één van de Partijen worden verzocht een arbiter of arbiters te benoemen.
-
-##### 2
-
-Het gerecht regelt zijn eigen werkwijze.
-
-##### 3
-
-Het gerecht beslist bij meerderheid van stemmen.
-
-##### 4
-
-De kosten van het gerecht worden door beide Verdragsluitende Partijen, elk voor de helft, gedragen. Elke Verdragsluitende Partij draagt de kosten van zijn vertegenwoordiging in het geding.
-
 GEDAAN te Den Haag, op 3 september 2003, in tweevoud.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) M. J. A. VAN DER HOEVEN
 
 (w.g.) A. D. S. M. NIJS
 
-**Voor de Vlaamse Gemeenschap van België**
+*Voor de Vlaamse Gemeenschap van België*
 
 (w.g.) M. VAN DER POORTEN

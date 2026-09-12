@@ -1,288 +1,262 @@
 ---
 title: "Internationale Koffieovereenkomst 2001"
 identifier: "BWBV0002017"
-country: "nl"
-rank: "verdrag"
-publication_date: "2011-09-30"
-last_updated: "2011-09-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002017"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10002624943"
-version_id: "10004013722"
-internal_id: "C10007335481"
-label_id: "10002614684"
-dtd_version: "2.0"
-original_entry_into_force: "2011-09-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002017/2011-09-30/0"
-intitule_bron: "Trb.2006-76"
-intitule_effect: "intrekking-regeling"
-intitule_signed: "2007-05-25"
-intitule_published: "2006-04-12"
-intitule_in_force: "2006-04-12"
-intitule_status: "vervallen"
-original_publication: "Trb.2006-76"
-original_signed_date: "2007-05-25"
-original_published_date: "2006-04-12"
-original_effect: "intrekking-regeling"
-original_url_id: "trb-2006-76"
-entry_into_force_date: "2011-09-30"
-jci_1_3: "jci1.3:c:BWBV0002017&z=2011-09-30&g=2011-09-30"
-jci_1_0: "1.0:c:BWBV0002017&g=2011-09-30"
-citeertitel_status: "redactioneel"
-signed_date: "2007-05-25"
-entry_into_force: "2011-09-30"
+publicatiedatum: 2011-09-30
+laatste_update: 2011-09-30
+status: geldig
+toestand: 2011-09-30
+bron: "https://wetten.overheid.nl/BWBV0002017"
+opgehaald: 2026-09-12
 ---
+
 # Internationale Koffieovereenkomst 2001
 
-Inwerkingtreding voorheen volgens Trb. 2006/76 gesteld op 30 september 2007. Inwerkingtreding voorheen volgens Trb. 2007/218 gesteld op 30 september 2008. Inwerkingtreding voorheen volgens Trb. 2010/71 gesteld op 30 september 2010.
+### CHAPTER I. OBJECTIVES
 
-### HOOFDSTUK I. DOELSTELLINGEN
+##### Article 1. Objectives
 
-##### Artikel 1. Doelstellingen
+*Vervallen*
 
-Vervallen
+### CHAPTER II. DEFINITIONS
 
-### HOOFDSTUK II. DEFINITIES
+##### Article 2. Definitions
 
-##### Artikel 2. Definities
+*Vervallen*
 
-Vervallen
+### CHAPTER III. GENERAL UNDERTAKINGS BY MEMBERS
 
-### HOOFDSTUK III. ALGEMENE VERBINTENISSEN VAN DE LEDEN
+##### Article 3. General undertakings by Members
 
-##### Artikel 3. Algemene verbintenissen van de leden
+*Vervallen*
 
-Vervallen
+### CHAPTER IV. MEMBERSHIP
 
-### HOOFDSTUK IV. LIDMAATSCHAP
+##### Article 4. Membership of the Organization
 
-##### Artikel 4. Lidmaatschap van de organisatie
+*Vervallen*
 
-Vervallen
+##### Article 5. Separate membership in respect of designated territories
 
-##### Artikel 5. Afzonderlijk lidmaatschap voor aangewezen gebieden
+*Vervallen*
 
-Vervallen
+##### Article 6. Group membership
 
-##### Artikel 6. Groepslidmaatschap
+*Vervallen*
 
-Vervallen
+### CHAPTER V. THE INTERNATIONAL COFFEE ORGANIZATION
 
-### HOOFDSTUK V. INTERNATIONALE KOFFIEORGANISATIE
+##### Article 7. Seat and structure of the International Coffee Organization
 
-##### Artikel 7. Zetel en structuur van de Internationale Koffieorganisatie
+*Vervallen*
 
-Vervallen
+##### Article 8. Privileges and immunities
 
-##### Artikel 8. Voorrechten en immuniteiten
+*Vervallen*
 
-Vervallen
+### CHAPTER VI. THE INTERNATIONAL COFFEE COUNCIL
 
-### HOOFDSTUK VI. INTERNATIONALE KOFFIERAAD
+##### Article 9. Composition of the International Coffee Council
 
-##### Artikel 9. Samenstelling van de Internationale Koffieraad
+*Vervallen*
 
-Vervallen
+##### Article 10. Powers and functions of the Council
 
-##### Artikel 10. Bevoegdheden en taken van de Raad
+*Vervallen*
 
-Vervallen
+##### Article 11. Chairman and Vice-Chairmen of the Council
 
-##### Artikel 11. Voorzitter en vice-voorzitters van de Raad
+*Vervallen*
 
-Vervallen
+##### Article 12. Sessions of the Council
 
-##### Artikel 12. Zittingen van de Raad
+*Vervallen*
 
-Vervallen
+##### Article 13. Votes
 
-##### Artikel 13. Stemmen
+*Vervallen*
 
-Vervallen
+##### Article 14. Voting procedure of the Council
 
-##### Artikel 14. Stemprocedure in de Raad
+*Vervallen*
 
-Vervallen
+##### Article 15. Decisions of the Council
 
-##### Artikel 15. Besluiten van de Raad
+*Vervallen*
 
-Vervallen
+##### Article 16. Cooperation with other organizations
 
-##### Artikel 16. Samenwerking met andere organisaties
+*Vervallen*
 
-Vervallen
+### CHAPTER VII. THE EXECUTIVE BOARD
 
-### HOOFDSTUK VII. BESTUURSRAAD
+##### Article 17. Composition and meetings of the Executive Board
 
-##### Artikel 17. Samenstelling en vergaderingen van de Bestuursraad
+*Vervallen*
 
-Vervallen
+##### Article 18. Election of the Executive Board
 
-##### Artikel 18. Verkiezing van de Bestuursraad
+*Vervallen*
 
-Vervallen
+##### Article 19. Competence of the Executive Board
 
-##### Artikel 19. Bevoegdheden van de Bestuursraad
+*Vervallen*
 
-Vervallen
+##### Article 20. Voting procedure of the Executive Board
 
-##### Artikel 20. Procedure bij het stemmen in de Bestuursraad
+*Vervallen*
 
-Vervallen
+### CHAPTER VIII. THE PRIVATE COFFEE SECTOR
 
-### HOOFDSTUK VIII. PARTICULIERE KOFFIESECTOR
+##### Article 21. The World Coffee Conference
 
-##### Artikel 21. Wereldkoffieconferentie
+*Vervallen*
 
-Vervallen
+##### Article 22. The Private Sector Consultative Board
 
-##### Artikel 22. Adviesraad voor de Particuliere Sector
+*Vervallen*
 
-Vervallen
+### Chapter IX. FINANCE
 
-### HOOFDSTUK IX. FINANCIËN
+##### Article 23. Finance
 
-##### Artikel 23. Financiën
+*Vervallen*
 
-Vervallen
+##### Article 24. Determination of the Administrative Budget and assessment of contributions
 
-##### Artikel 24. Vaststelling van de huishoudelijke begroting en van de bijdragen
+*Vervallen*
 
-Vervallen
+##### Article 25. Payment of contributions
 
-##### Artikel 25. Betaling van de bijdragen
+*Vervallen*
 
-Vervallen
+##### Article 26. Liabilities
 
-##### Artikel 26. Aansprakelijkheid
+*Vervallen*
 
-Vervallen
+##### Article 27. Audit and publication of accounts
 
-##### Artikel 27. Accountantscontrole en openbaarmaking van de rekeningen
+*Vervallen*
 
-Vervallen
+### CHAPTER X. THE EXECUTIVE DIRECTOR AND THE STAFF
 
-### HOOFDSTUK X. UITVOEREND DIRECTEUR EN PERSONEEL
+##### Article 28. The Executive Director and the staff
 
-##### Artikel 28. Uitvoerend directeur en personeel
+*Vervallen*
 
-Vervallen
+### CHAPTER XI. INFORMATION, STUDIES AND SURVEYS
 
-### HOOFDSTUK XI. INFORMATIE, STUDIES EN ONDERZOEKEN
+##### Article 29. Information
 
-##### Artikel 29. Informatie
+*Vervallen*
 
-Vervallen
+##### Article 30. Certificates of Origin
 
-##### Artikel 30. Certificaten van oorsprong
+*Vervallen*
 
-Vervallen
+##### Article 31. Studies and surveys
 
-##### Artikel 31. Studies en onderzoek
+*Vervallen*
 
-Vervallen
+### CHAPTER XII. GENERAL PROVISIONS
 
-### HOOFDSTUK XII. ALGEMENE BEPALINGEN
+##### Article 32. Preparations for a new Agreement
 
-##### Artikel 32. Voorbereidingen voor een nieuwe overeenkomst
+*Vervallen*
 
-Vervallen
+##### Article 33. Removal of obstacles to consumption
 
-##### Artikel 33. Verwijdering van belemmeringen voor het verbruik
+*Vervallen*
 
-Vervallen
+##### Article 34. Promotion
 
-##### Artikel 34. Bevordering van het koffieverbruik
+*Vervallen*
 
-Vervallen
+##### Article 35. Measures related to processed coffee
 
-##### Artikel 35. Maatregelen betreffende koffie in bewerkte vorm
+*Vervallen*
 
-Vervallen
+##### Article 36. Mixtures and substitutes
 
-##### Artikel 36. Mengsels en vervangingsmiddelen
+*Vervallen*
 
-Vervallen
+##### Article 37. Consultation and cooperation with non-governmental organizations
 
-##### Artikel 37. Overleg en samenwerking met niet-gouvernementele organisaties
+*Vervallen*
 
-Vervallen
+##### Article 38. Established coffee trade channels
 
-##### Artikel 38. Gevestigde kanalen voor de handel in koffie
+*Vervallen*
 
-Vervallen
+##### Article 39. Sustainable coffee economy
 
-##### Artikel 39. Duurzame koffie-economie
+*Vervallen*
 
-Vervallen
+##### Article 40. Standard of living and working conditions
 
-##### Artikel 40. Levensstandaard en arbeidsomstandigheden
+*Vervallen*
 
-Vervallen
+### CHAPTER XIII. CONSULTATIONS, DISPUTES AND COMPLAINTS
 
-### HOOFDSTUK XIII. OVERLEG, GESCHILLEN EN KLACHTEN
+##### Article 41. Consultations
 
-##### Artikel 41. Overleg
+*Vervallen*
 
-Vervallen
+##### Article 42. Disputes and complaints
 
-##### Artikel 42. Geschillen en klachten
+*Vervallen*
 
-Vervallen
+### CHAPTER XIV. FINAL PROVISIONS
 
-### HOOFDSTUK XIV. SLOTBEPALINGEN
+##### Article 43. Signature
 
-##### Artikel 43. Ondertekening
+*Vervallen*
 
-Vervallen
+##### Article 44. Ratification, acceptance or approval
 
-##### Artikel 44. Bekrachtiging, aanvaarding en goedkeuring
+*Vervallen*
 
-Vervallen
+##### Article 45. Entry into force
 
-##### Artikel 45. Inwerkingtreding
+*Vervallen*
 
-Vervallen
+##### Article 46. Accession
 
-##### Artikel 46. Toetreding
+*Vervallen*
 
-Vervallen
+##### Article 47. Reservations
 
-##### Artikel 47. Voorbehoud
+*Vervallen*
 
-Vervallen
+##### Article 48. Extension to designated territories
 
-##### Artikel 48. Uitbreiding tot aangewezen gebieden
+*Vervallen*
 
-Vervallen
+##### Article 49. Voluntary withdrawal
 
-##### Artikel 49. Vrijwillige uittreding
+*Vervallen*
 
-Vervallen
+##### Article 50. Exclusion
 
-##### Artikel 50. Uitsluiting
+*Vervallen*
 
-Vervallen
+##### Article 51. Settlement of accounts with withdrawing or excluded Members
 
-##### Artikel 51. Vereffening van de rekeningen met uittredende of uitgesloten leden
+*Vervallen*
 
-Vervallen
+##### Article 52. Duration and termination
 
-##### Artikel 52. Looptijd en beëindiging
+*Vervallen*
 
-Vervallen
+##### Article 53. Amendment
 
-##### Artikel 53. Wijziging
+*Vervallen*
 
-Vervallen
+##### Article 54. Supplementary and transitional provisions
 
-##### Artikel 54. Aanvullende bepalingen en overgangsbepalingen
+*Vervallen*
 
-Vervallen
+##### Article 55. Authentic texts of the Agreement
 
-##### Artikel 55. Authentieke teksten van de overeenkomst
-
-Vervallen
-
-IN WITNESS WHEREOF the undersigned, having been duly authorized to this effect by their respective Governments, have signed this Agreement on the dates appearing opposite their signatures.
+*Vervallen*

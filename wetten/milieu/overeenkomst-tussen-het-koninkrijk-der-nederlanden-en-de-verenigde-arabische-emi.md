@@ -1,63 +1,35 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Arabische Emiraten ten behoeve van de instelling van luchtdiensten tussen en buiten hun onderscheiden grondgebieden"
 identifier: "BWBV0002582"
-country: "nl"
-rank: "verdrag"
-publication_date: "1992-12-17"
-last_updated: "1992-12-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002582"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10002936273"
-version_id: "10002938112"
-internal_id: "C10006986971"
-label_id: "10002923264"
-dtd_version: "2.0"
-original_entry_into_force: "1992-12-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002582/1992-12-17/0"
-intitule_bron: "Trb.1990-135"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-08-18"
-intitule_published: "1990-09-20"
-intitule_in_force: "1993-01-25"
-intitule_status: "goed"
-original_publication: "Trb.1990-135"
-original_signed_date: "1992-08-18"
-original_published_date: "1990-09-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1990-135"
-entry_into_force_date: "1992-12-17"
-jci_1_3: "jci1.3:c:BWBV0002582&z=1992-12-17&g=1992-12-17"
-jci_1_0: "1.0:c:BWBV0002582&g=1992-12-17"
-citeertitel_status: "officieel"
-signed_date: "1992-08-18"
-entry_into_force: "1992-12-17"
+publicatiedatum: 1992-12-17
+laatste_update: 1992-12-17
+status: geldig
+toestand: 1992-12-17
+bron: "https://wetten.overheid.nl/BWBV0002582"
+opgehaald: 2026-09-12
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Arabische Emiraten ten behoeve van de instelling van luchtdiensten tussen en buiten hun onderscheiden grondgebieden
 
-De Verenigde Arabische Emiraten en het Koninkrijk der Nederlanden,
-
-Partijen bij het Verdrag inzake de burgerluchtvaart, dat op 7 december 1944 te Chicago voor ondertekening werd opengesteld,
-
-Geleid door de wens een aanvullende overeenkomst bij dit Verdrag te sluiten ten behoeve van de instelling van luchtdiensten tussen en buiten hun onderscheiden grondgebieden,
-
-Zijn als volgt overeengekomen:
+*De Verenigde Arabische Emiraten en het Koninkrijk der Nederlanden, Partijen bij het Verdrag inzake de burgerluchtvaart, dat op 7 december 1944 te Chicago voor ondertekening werd opengesteld, Geleid door de wens een aanvullende overeenkomst bij dit Verdrag te sluiten ten behoeve van de instelling van luchtdiensten tussen en buiten hun onderscheiden grondgebieden, Zijn als volgt overeengekomen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
 1. Tenzij uit het verband anders blijkt, wordt in deze Overeenkomst verstaan onder:
 
-- 1.1. „Verdrag”: het Verdrag inzake de burgerluchtvaart, dat op 7 december 1944 te Chicago voor ondertekening werd opengesteld en waarin zijn begrepen alle Bijlagen die krachtens het bepaalde in artikel 90 van dit Verdrag zijn aanvaard, en alle wijzigingen van de Bijlagen of het Verdrag die krachtens het bepaalde in de artikelen 90 en 94 daarvan zijn aanvaard, voor zover deze Bijlagen en wijzigingen van kracht zijn geworden of zijn bekrachtigd door beide Overeenkomstsluitende Partijen;
+- 1.1 „Verdrag”: het Verdrag inzake de burgerluchtvaart, dat op 7 december 1944 te Chicago voor ondertekening werd opengesteld en waarin zijn begrepen alle Bijlagen die krachtens het bepaalde in artikel 90 van dit Verdrag zijn aanvaard, en alle wijzigingen van de Bijlagen of het Verdrag die krachtens het bepaalde in de artikelen 90 en 94 daarvan zijn aanvaard, voor zover deze Bijlagen en wijzigingen van kracht zijn geworden of zijn bekrachtigd door beide Overeenkomstsluitende Partijen;
 
-- 1.2. „Overeenkomst”: deze Overeenkomst, de voor de toepassing daarvan opgestelde Bijlagen en alle wijzigingen daarvan;
+- 1.2 „Overeenkomst”: deze Overeenkomst, de voor de toepassing daarvan opgestelde Bijlagen en alle wijzigingen daarvan;
 
-- 1.3. „luchtvaartautoriteiten”: in het geval van het Koninkrijk der Nederlanden de Minister van Verkeer en Waterstaat en elke andere persoon of instelling die gemachtigd is de functies te vervullen die thans of eventueel in de toekomst door deze Minister worden vervuld; en in het geval van de Verenigde Arabische Emiraten de Minister van Verbindingen en elke persoon of instelling die gemachtigd is de functies te vervullen die thans of eventueel in de toekomst door deze Minister worden vervuld;
+- 1.3 „luchtvaartautoriteiten”: in het geval van het Koninkrijk der Nederlanden de Minister van Verkeer en Waterstaat en elke andere persoon of instelling die gemachtigd is de functies te vervullen die thans of eventueel in de toekomst door deze Minister worden vervuld; en in het geval van de Verenigde Arabische Emiraten de Minister van Verbindingen en elke persoon of instelling die gemachtigd is de functies te vervullen die thans of eventueel in de toekomst door deze Minister worden vervuld;
 
-- 1.4. „aangewezen luchtvaartmaatschappijen”: (een) luchtvaartmaatschappij(en) die (is) (zijn) aangewezen en gemachtigd overeenkomstig het bepaalde in artikel 4 van deze Overeenkomst;
+- 1.4 „aangewezen luchtvaartmaatschappijen”: (een) luchtvaartmaatschappij(en) die (is) (zijn) aangewezen en gemachtigd overeenkomstig het bepaalde in artikel 4 van deze Overeenkomst;
 
-- 1.5. „grondgebied”: met betrekking tot een Staat het gebied in de betekenis die daaraan wordt toegekend in artikel 2 van het Verdrag;
+- 1.5 „grondgebied”: met betrekking tot een Staat het gebied in de betekenis die daaraan wordt toegekend in artikel 2 van het Verdrag;
 
-- 1.6. „luchtdienst”, „internationale luchtdienst”, „luchtvaartmaatschappij” en „landing, anders dan voor verkeersdoeleinden”: een luchtdienst, een internationale luchtdienst, een luchtvaartmaatschappij en een landing in de betekenis die daaraan onderscheidenlijk wordt toegekend in artikel 96 van het Verdrag.
+- 1.6 „luchtdienst”, „internationale luchtdienst”, „luchtvaartmaatschappij” en „landing, anders dan voor verkeersdoeleinden”: een luchtdienst, een internationale luchtdienst, een luchtvaartmaatschappij en een landing in de betekenis die daaraan onderscheidenlijk wordt toegekend in artikel 96 van het Verdrag.
 
 ##### Artikel 2. Toepasselijkheid van het Verdrag van Chicago en van multilaterale overeenkomsten
 
@@ -95,11 +67,11 @@ Bij de exploitatie van een overeengekomen dienst op een omschreven route heeft d
 
 5.1. Elke Overeenkomstsluitende Partij heeft het recht een exploitatievergunning in te trekken of de uitoefening van de krachtens deze Overeenkomst verleende rechten door een door de andere Overeenkomstsluitende Partij aangewezen luchtvaartmaatschappij te schorsen, of de door haar noodzakelijk geachte voorwaarden te verbinden aan de uitoefening van deze rechten:
 
-- 5.1.1. in alle gevallen waarin niet tot haar genoegen is aangetoond dat een aanmerkelijk deel van de eigendom van, en het daadwerkelijk toezicht op, deze luchtvaartmaatschappij berusten bij de Overeenkomstsluitende Partij die de luchtvaartmaatschappij heeft aangewezen, of bij haar onderdanen; of
+- 5.1.1 in alle gevallen waarin niet tot haar genoegen is aangetoond dat een aanmerkelijk deel van de eigendom van, en het daadwerkelijk toezicht op, deze luchtvaartmaatschappij berusten bij de Overeenkomstsluitende Partij die de luchtvaartmaatschappij heeft aangewezen, of bij haar onderdanen; of
 
-- 5.1.2. ingeval deze luchtvaartmaatschappij in gebreke blijft te voldoen aan de wetten of voorschriften die gewoonlijk op de burgerluchtvaart worden toegepast door de Overeenkomstsluitende Partij die deze rechten heeft verleend; of
+- 5.1.2 ingeval deze luchtvaartmaatschappij in gebreke blijft te voldoen aan de wetten of voorschriften die gewoonlijk op de burgerluchtvaart worden toegepast door de Overeenkomstsluitende Partij die deze rechten heeft verleend; of
 
-- 5.1.3. ingeval deze luchtvaartmaatschappij anderszins in gebreke blijft de exploitatie uit te voeren in overeenstemming met de in deze Overeenkomst gestelde voorwaarden.
+- 5.1.3 ingeval deze luchtvaartmaatschappij anderszins in gebreke blijft de exploitatie uit te voeren in overeenstemming met de in deze Overeenkomst gestelde voorwaarden.
 
 5.2. Tenzij onmiddellijke intrekking, schorsing of oplegging van de in lid 5.1 van dit artikel bedoelde voorwaarden noodzakelijk is om verdere overtredingen van de wetten of voorschriften of van de bepalingen van deze Overeenkomst te voorkomen, wordt dit recht slechts uitgeoefend na overleg tussen de Overeenkomstsluitende Partijen.
 
@@ -147,15 +119,15 @@ De prijzen die worden toegepast door de luchtvaartmaatschappijen van de vijfde v
 
 De aangewezen luchtvaartmaatschappijen van elk der Overeenkomstsluitende Partijen worden op billijke en gelijke wijze in de gelegenheid gesteld de overeengekomen diensten op de omschreven routes tussen hun onderscheiden grondgebieden te exploiteren.
 
-- 9.1. Bij het exploiteren van de overeengekomen diensten houden de aangewezen luchtvaartmaatschappijen van elke Overeenkomstsluitende Partij rekening met de belangen van de luchtvaartmaatschappijen van de andere Overeenkomstsluitende Partij, teneinde te voorkomen dat de diensten die de laatstgenoemde maatschappijen op dezelfde route of delen daarvan onderhouden, op onredelijke wijze worden getroffen.
+- 9.1 Bij het exploiteren van de overeengekomen diensten houden de aangewezen luchtvaartmaatschappijen van elke Overeenkomstsluitende Partij rekening met de belangen van de luchtvaartmaatschappijen van de andere Overeenkomstsluitende Partij, teneinde te voorkomen dat de diensten die de laatstgenoemde maatschappijen op dezelfde route of delen daarvan onderhouden, op onredelijke wijze worden getroffen.
 
-- 9.2. De overeengekomen diensten die door de aangewezen luchtvaartmaatschappijen van de Overeenkomstsluitende Partijen worden onderhouden, dienen nauwkeurig te worden afgestemd op de vervoersbehoeften van het publiek op de omschreven routes en hebben in de eerste plaats ten doel het bij een redelijke beladingsgraad verschaffen van voldoende capaciteit voor de huidige en de redelijkerwijs te verwachten behoefte aan vervoer van passagiers en vracht, met inbegrip van post, naar en van dit grondgebied van de Overeenkomstsluitende Partij die de luchtvaartmaatschappij heeft aangewezen. Het verschaffen van de gelegenheid tot vervoer van passagiers en vracht, met inbegrip van post, zowel opgenomen als afgezet op punten op de omschreven routes op het grondgebied van andere Staten dan de Staat die de luchtvaartmaatschappij heeft aangewezen, geschiedt in overeenstemming met de algemene beginselen dat de capaciteit dient te zijn afgestemd op:
+- 9.2 De overeengekomen diensten die door de aangewezen luchtvaartmaatschappijen van de Overeenkomstsluitende Partijen worden onderhouden, dienen nauwkeurig te worden afgestemd op de vervoersbehoeften van het publiek op de omschreven routes en hebben in de eerste plaats ten doel het bij een redelijke beladingsgraad verschaffen van voldoende capaciteit voor de huidige en de redelijkerwijs te verwachten behoefte aan vervoer van passagiers en vracht, met inbegrip van post, naar en van dit grondgebied van de Overeenkomstsluitende Partij die de luchtvaartmaatschappij heeft aangewezen. Het verschaffen van de gelegenheid tot vervoer van passagiers en vracht, met inbegrip van post, zowel opgenomen als afgezet op punten op de omschreven routes op het grondgebied van andere Staten dan de Staat die de luchtvaartmaatschappij heeft aangewezen, geschiedt in overeenstemming met de algemene beginselen dat de capaciteit dient te zijn afgestemd op:
 
-- 9.2.1. de behoefte aan vervoer naar en vanuit het grondgebied van de Overeenkomstsluitende Partij die de luchtvaartmaatschappij heeft aangewezen;
+   - 9.2.1 de behoefte aan vervoer naar en vanuit het grondgebied van de Overeenkomstsluitende Partij die de luchtvaartmaatschappij heeft aangewezen;
 
-- 9.2.2. de vervoersbehoeften van het gebied via hetwelk de overeengekomen dienst plaatsvindt, nadat rekening is gehouden met de andere vervoersdiensten die zijn ingesteld door de luchtvaartmaatschappijen van de Staten die te zamen dit gebied vormen; en
+   - 9.2.2 de vervoersbehoeften van het gebied via hetwelk de overeengekomen dienst plaatsvindt, nadat rekening is gehouden met de andere vervoersdiensten die zijn ingesteld door de luchtvaartmaatschappijen van de Staten die te zamen dit gebied vormen; en
 
-- 9.2.3. de eisen die de exploitatie van luchtlijnen voor doorgaand verkeer stelt.
+   - 9.2.3 de eisen die de exploitatie van luchtlijnen voor doorgaand verkeer stelt.
 
 ##### Artikel 10. Beveiliging van de luchtvaart
 
@@ -241,10 +213,10 @@ Deze Overeenkomst is opgesteld in drie oorspronkelijke exemplaren in de Nederlan
 
 GEDAAN te Abu Dhabi op 31 juli 1990.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) W. A. DOLLEMAN
 
-**Voor de Regering van de Verenigde Arabische Emiraten**
+*Voor de Regering van de Verenigde Arabische Emiraten*
 
 (w.g.) MOHAMMED YAHYA AL-SWEIDI

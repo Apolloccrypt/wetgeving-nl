@@ -9,7 +9,7 @@ laatste_update: 2026-09-10
 status: geldig
 toestand: 2026-09-10
 bron: "https://wetten.overheid.nl/BWBR0045879"
-opgehaald: 2026-09-11
+opgehaald: 2026-09-12
 ---
 
 # Besluit van het bestuur van de Nederlandse Emissieautoriteit van 11 november 2021, houdende de verlening van mandaat, ondermandaat, volmacht en machtiging voor de directeur-bestuurder en de functionarissen van de Nederlandse Emissieautoriteit (Besluit mandaat, ondermandaat, volmacht en machtiging Dienst NEa)

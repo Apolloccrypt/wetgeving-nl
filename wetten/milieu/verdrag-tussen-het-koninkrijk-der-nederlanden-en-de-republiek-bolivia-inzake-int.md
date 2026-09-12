@@ -1,45 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Bolivia inzake internationaal luchtverkeer tussen Aruba en Bolivia"
 identifier: "BWBV0001974"
-country: "nl"
-rank: "verdrag"
-publication_date: "2003-07-15"
-last_updated: "2003-07-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001974"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10002588483"
-version_id: "10002579672"
-internal_id: "C10006992431"
-label_id: "10002577854"
-dtd_version: "2.0"
-original_entry_into_force: "2003-07-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001974/2003-07-15/0"
-intitule_bron: "Trb.2001-49"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2001-02-15"
-intitule_published: "2001-03-15"
-intitule_in_force: "2003-08-29"
-intitule_status: "goed"
-original_publication: "Trb.2001-49"
-original_signed_date: "2001-02-15"
-original_published_date: "2001-03-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2001-49"
-entry_into_force_date: "2003-07-15"
-jci_1_3: "jci1.3:c:BWBV0001974&z=2003-07-15&g=2003-07-15"
-jci_1_0: "1.0:c:BWBV0001974&g=2003-07-15"
-citeertitel_status: "redactioneel"
-signed_date: "2001-02-15"
-entry_into_force: "2003-07-15"
+publicatiedatum: 2003-07-15
+laatste_update: 2003-07-15
+status: geldig
+toestand: 2003-07-15
+bron: "https://wetten.overheid.nl/BWBV0001974"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Bolivia inzake internationaal luchtverkeer tussen Aruba en Bolivia
 
-Het Koninkrijk der Nederlanden en de Republiek Bolivia, zijnde beide partij bij het Verdrag inzake de internationale burgerluchtvaart van 7 december 1944;
-
-Geleid door de wens een Verdrag te sluiten teneinde de luchtdiensten tussen hun respectieve grondgebieden te reguleren;
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Republiek Bolivia, zijnde beide partij bij het Verdrag inzake de internationale burgerluchtvaart van 7 december 1944; Geleid door de wens een Verdrag te sluiten teneinde de luchtdiensten tussen hun respectieve grondgebieden te reguleren; Zijn het volgende overeengekomen:*
 
 ##### Artikel I. Begripsomschrijvingen
 
@@ -59,7 +33,7 @@ Voor de uitlegging en de uitvoering van dit Verdrag en de Bijlage daarbij, hebbe
 
 - g. onder „frequentie" wordt verstaan: het aantal retourvluchten dat een luchtvaartmaatschappij op een omschreven route gedurende een bepaalde periode uitvoert;
 
-- h. onder „omschreven routes" wordt verstaan: de in de Bijlage bij dit Verdrag vastgestelde vliegroutes;
+- h onder „omschreven routes" wordt verstaan: de in de Bijlage bij dit Verdrag vastgestelde vliegroutes;
 
 - i. voor „grondgebied", „luchtdienst", „internationale luchtdienst", „luchtvaartmaatschappij" en „landing anders dan voor verkeersdoeleinden" gelden de betekenissen die zijn vastgelegd in de artikelen 2 en 96 van het Verdrag van Chicago.
 
@@ -243,10 +217,10 @@ TEN BLIJKE WAARVAN ondergetekende Gevolmachtigden, hiertoe naar behoren gemachti
 
 GEDAAN in tweevoud te La Paz, op 15 februari 2001, in de Nederlandse en de Spaanse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden:**
+*Voor het Koninkrijk der Nederlanden:*
 
 (w.g.) GLENBERT F. CROES
 
-**Voor de Republiek Bolivia:**
+*Voor de Republiek Bolivia:*
 
 (w.g.) MAURICIO NAVARRO

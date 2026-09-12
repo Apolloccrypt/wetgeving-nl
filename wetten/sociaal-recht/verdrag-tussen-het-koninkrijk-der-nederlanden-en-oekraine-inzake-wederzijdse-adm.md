@@ -1,38 +1,16 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en Oekraïne inzake wederzijdse administratieve bijstand in douanezaken"
 identifier: "BWBV0002029"
-country: "nl"
-rank: "verdrag"
-publication_date: "2007-06-01"
-last_updated: "2006-06-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002029"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10002633163"
-version_id: "10002630212"
-internal_id: "C10006997261"
-label_id: "10002622444"
-dtd_version: "2.0"
-original_entry_into_force: "2007-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002029/2007-06-01/0"
-intitule_bron: "Trb.2006-195"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-04-02"
-intitule_published: "2006-09-15"
-intitule_in_force: "2007-07-17"
-intitule_status: "goed"
-original_publication: "Trb.2006-195"
-original_signed_date: "2007-04-02"
-original_published_date: "2006-09-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2006-195"
-entry_into_force_date: "2007-06-01"
-jci_1_3: "jci1.3:c:BWBV0002029&z=2007-06-01&g=2007-06-01"
-jci_1_0: "1.0:c:BWBV0002029&g=2007-06-01"
-citeertitel_status: "redactioneel"
-signed_date: "2007-04-02"
-entry_into_force: "2007-06-01"
+publicatiedatum: 2007-06-01
+laatste_update: 2007-06-01
+status: geldig
+toestand: 2007-06-01
+bron: "https://wetten.overheid.nl/BWBV0002029"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en Oekraïne inzake wederzijdse administratieve bijstand in douanezaken
 
 ##### Preambule
@@ -303,10 +281,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN te ’s-Gravenhage op 7 juni 2006 in tweevoud in de Nederlandse, de Oekraïense en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschil in interpretatie is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 B. R. BOT
 
-**Voor Oekraïne,**
+*Voor Oekraïne,*
 
 O. YEHOROV

@@ -1,53 +1,19 @@
 ---
 title: "Verdrag inzake de bevordering en de bescherming van investeringen tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Korea"
 identifier: "BWBV0001707"
-country: "nl"
-rank: "verdrag"
-publication_date: "2005-03-01"
-last_updated: "2003-07-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0001707"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10001434873"
-version_id: "10001513092"
-internal_id: "C10006993551"
-label_id: "10001435124"
-dtd_version: "2.0"
-original_entry_into_force: "2005-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0001707/2005-03-01/0"
-intitule_bron: "Trb.2003-163"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2005-01-28"
-intitule_published: "2003-10-20"
-intitule_in_force: "2005-08-10"
-intitule_status: "goed"
-original_publication: "Trb.2003-163"
-original_signed_date: "2005-01-28"
-original_published_date: "2003-10-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2003-163"
-entry_into_force_date: "2005-03-01"
-jci_1_3: "jci1.3:c:BWBV0001707&z=2005-03-01&g=2005-03-01"
-jci_1_0: "1.0:c:BWBV0001707&g=2005-03-01"
-citeertitel_status: "redactioneel"
-signed_date: "2005-01-28"
-entry_into_force: "2005-03-01"
+publicatiedatum: 2005-03-01
+laatste_update: 2005-03-01
+status: geldig
+toestand: 2005-03-01
+bron: "https://wetten.overheid.nl/BWBV0001707"
+opgehaald: 2026-09-12
 ---
+
 # Verdrag inzake de bevordering en de bescherming van investeringen tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Korea
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van de Republiek Korea
-
-(hierna te noemen de Verdragsluitende Partijen),
-
-Geleid door de wens de van oudsher bestaande vriendschapsbanden tussen hun landen te versterken en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat betreft investeringen door de investeerders van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij,
-
-In het besef dat overeenstemming over de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Korea (hierna te noemen de Verdragsluitende Partijen), Geleid door de wens de van oudsher bestaande vriendschapsbanden tussen hun landen te versterken en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat betreft investeringen door de investeerders van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij, In het besef dat overeenstemming over de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -55,23 +21,23 @@ Voor de toepassing van dit Verdrag:
 
 - 1. wordt onder de term „investeringen" verstaan alle soorten vermogensbestanddelen in het bezit van of onder al dan niet rechtstreeks toezicht van een investeerder van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij en omvat deze term in het bijzonder, doch niet uitsluitend: Veranderingen in de vorm waarin vermogensbestanddelen worden geïnvesteerd of opnieuw worden geïnvesteerd doen geen afbreuk aan het feit dat zij investeringen zijn.
 
-- a. roerende en onroerende zaken en andere eigendomsrechten zoals hypotheken, pandrechten, huurcontracten of onderpanden;
+   - a. roerende en onroerende zaken en andere eigendomsrechten zoals hypotheken, pandrechten, huurcontracten of onderpanden;
 
-- b. aandelen en effecten in, schuldbewijzen van en andere vormen van deelneming in een lichaam of een zakelijke onderneming en in verband daarmee verworven rechten of belangen;
+   - b. aandelen en effecten in, schuldbewijzen van en andere vormen van deelneming in een lichaam of een zakelijke onderneming en in verband daarmee verworven rechten of belangen;
 
-- c. aanspraken op geld of op iedere prestatie uit hoofde van een overeenkomst die economische waarde heeft;
+   - c. aanspraken op geld of op iedere prestatie uit hoofde van een overeenkomst die economische waarde heeft;
 
-- d. intellectuele eigendomsrechten met inbegrip van rechten met betrekking tot auteursrechten, octrooien, handelsmerken, handelsnamen, industriële ontwerpen, technische werkwijzen, knowhow en goodwill;
+   - d. intellectuele eigendomsrechten met inbegrip van rechten met betrekking tot auteursrechten, octrooien, handelsmerken, handelsnamen, industriële ontwerpen, technische werkwijzen, knowhow en goodwill;
 
-- e. concessies met een economische waarde verleend krachtens het recht of een overeenkomst, met inbegrip van concessies voor het opsporen, ontginnen, winnen of exploiteren van natuurlijke rijkdommen.
+   - e. concessies met een economische waarde verleend krachtens het recht of een overeenkomst, met inbegrip van concessies voor het opsporen, ontginnen, winnen of exploiteren van natuurlijke rijkdommen.
 
 - 2. Wordt onder de term „opbrengsten" verstaan de bedragen die investeringen hebben opgebracht en in het bijzonder, doch niet uitsluitend, winsten, interesten, vermogenswinsten, dividenden, royalty's en alle soorten vergoedingen.
 
 - 3. Wordt onder de term „investeerders" verstaan met betrekking tot elk van de Verdragsluitende Partijen:
 
-- a. natuurlijke personen die de nationaliteit van die Verdragsluitende Partij hebben;
+   - a. natuurlijke personen die de nationaliteit van die Verdragsluitende Partij hebben;
 
-- b. rechtspersonen die zijn opgericht krachtens het recht van die Verdragsluitende Partij, die een investering hebben gedaan op het grondgebied van de andere Verdragsluitende Partij.
+   - b. rechtspersonen die zijn opgericht krachtens het recht van die Verdragsluitende Partij, die een investering hebben gedaan op het grondgebied van de andere Verdragsluitende Partij.
 
 - 4. Wordt onder de term „grondgebied" verstaan: het grondgebied van de betrokken Verdragsluitende Partij en alle aan de territoriale zee grenzende gebieden die, krachtens het toepasselijke recht van de betrokken Verdragsluitende Partij en overeenkomstig het internationale recht, tot de exclusieve economische zone of het continentaal plat van de betrokken Verdragsluitende Partij behoren, en waarin deze Verdragsluitende Partij rechtsmacht of soevereine rechten ter zake uitoefent.
 
@@ -181,48 +147,14 @@ Wat het Koninkrijk der Nederlanden betreft is dit Verdrag van toepassing op het 
 
 4. Met inachtneming van de in het tweede lid van dit artikel genoemde termijn is het Koninkrijk der Nederlanden gerechtigd de toepassing van dit Verdrag ten aanzien van een deel van het Koninkrijk afzonderlijk te beëindigen.
 
-Bij de ondertekening van het Verdrag inzake de bevordering en de wederzijdse bescherming van investeringen tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Korea, hebben de ondertekenende vertegenwoordigers overeenstemming bereikt over de volgende bepalingen, die een integrerend deel uitmaken van het Verdrag:
-
-##### Ad artikel 4
-
-1. Onverminderd de overige bepalingen van dit Verdrag, kan de Regering van de Republiek Korea, in overeenstemming met haar wetten en voorschriften, maatregelen treffen of handhaven die onverenigbaar zijn met haar verplichtingen uit hoofde van artikel 4:
-
-- a. in geval van ernstige problemen met de betalingsbalans en externe financiële problemen of de dreiging daarvan; of
-
-- b. indien in uitzonderlijke omstandigheden kapitaalstromen leiden of dreigen te leiden tot ernstige problemen voor het macro-economisch beheer, in het bijzonder op het gebied van monetair en wisselkoersbeleid.
-
-2. Maatregelen bedoeld in het eerste lid hierboven:
-
-- a. dienen verenigbaar te zijn met de bepalingen van de Overeenkomst betreffende het Internationaal Monetair Fonds;
-
-- b. dienen niet verder te reiken dan de maatregelen die nodig zijn ten behoeve van de omstandigheden bedoeld in het eerste lid;
-
-- c. dienen tijdelijk te zijn en te worden opgeheven zodra de omstandigheden dit toelaten;
-
-- d. dienen onverwijld te worden gemeld aan de andere Verdragsluitende Partij.
-
-##### Ad artikel 8, derde lid
-
-Om twijfel te vermijden wordt bevestigd dat een uitspraak of beslissing onherroepelijk is indien:
-
-- a. er geen beroep tegen mogelijk is bij een hoger binnenlands rechtscollege; of
-
-- b. een investeerder die partij is bij het geschil heeft afgezien van zijn recht in beroep te gaan bij een hoger binnenlands rechtscollege.
-
-##### Ad artikel 13
-
-Bij de inwerkingtreding van dit Verdrag, wordt het Verdrag inzake de bevordering en wederzijdse bescherming van investeringen tussen het Koninkrijk der Nederlanden en de Republiek Korea, te Den Haag ondertekend op 16 oktober 1974, beëindigd en vervangen door dit Verdrag.
-
 TEN BLIJKE WAARVAN de ondergetekende vertegenwoordigers, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend.
 
 GEDAAN in twee originele exemplaren te Seoul, op 12 juli 2003, in de Nederlandse, de Koreaanse en de Engelse taal, zijnde de drie teksten authentiek. In geval van verschil in interpretatie is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) C. E. G. VAN GENNIP
 
-**Voor de Regering van de Republiek Korea**
+*Voor de Regering van de Republiek Korea*
 
 (w.g.) HWANG DOO-YUN
-
-{al}

@@ -1,298 +1,244 @@
 ---
 title: "Internationaal Verdrag betreffende het geharmoniseerde systeem inzake de omschrijving en de codering van goederen"
 identifier: "BWBV0002538"
-country: "nl"
-rank: "verdrag"
-publication_date: "2024-01-01"
-last_updated: "2024-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002538"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10002925223"
-version_id: "10002926762"
-internal_id: "C10006978551"
-label_id: "10002912644"
-dtd_version: "2.0"
-original_entry_into_force: "1988-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002538/2024-01-01/0"
-intitule_bron: "Trb.1985-108"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1987-09-22"
-intitule_published: "1985-08-02"
-intitule_in_force: "1987-11-16"
-intitule_status: "goed"
-original_publication: "Trb.1985-108"
-original_signed_date: "1987-09-22"
-original_published_date: "1985-08-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1985-108"
-entry_into_force_date: "1988-01-01"
-jci_1_3: "jci1.3:c:BWBV0002538&z=2024-01-01&g=2024-01-01"
-jci_1_0: "1.0:c:BWBV0002538&g=2024-01-01"
-citeertitel_status: "officieel"
-signed_date: "1987-09-22"
-entry_into_force: "1988-01-01"
+publicatiedatum: 1988-01-01
+laatste_update: 2024-01-01
+status: geldig
+toestand: 2024-01-01
+bron: "https://wetten.overheid.nl/BWBV0002538"
+opgehaald: 2026-09-12
 ---
+
 # Internationaal Verdrag betreffende het geharmoniseerde systeem inzake de omschrijving en de codering van goederen
 
-Preambule
+*Preamble The Contracting Parties to this Convention, established under the auspices of the Customs Co-operation Council, Desiring to facilitate international trade, Desiring to facilitate the collection, comparison and analysis of statistics, in particular those on international trade, Desiring to reduce the expense incurred by redescribing, reclassifying and recoding goods as they move from one classification system to another in the course of international trade and to facilitate the standardization of trade documentation and the transmission of data, Considering that changes in technology and the patterns of international trade require extensive modifications to the Convention on Nomenclature for the Classification of Goods in Customs Tariffs, done at Brussels on 15 December 1950, Considering also that the degree of detail required for Customs and statistical purposes by Governments and trade interests has increased far beyond that provided by the Nomenclature annexed to the above-mentioned Convention, Considering the importance of accurate and comparable data for the purposes of international trade negotiations, Considering that the Harmonized System is intended to be used for the purposes of freight tariffs and transport statistics of the various modes of transport, Considering that the Harmonized System is intended to be incorporated into commercial commodity description and coding systems to the greatest extent possible, Considering that the Harmonized System is intended to promote as close a correlation as possible between import and export trade statistics and production statistics, Considering that a close correlation should be maintained between the Harmonized System and the Standard International Trade Classification (SITC) of the United Nations, Considering the desirability of meeting the aforementioned needs through a combined tariff/statistical nomenclature, suitable for use by the various interests concerned with international trade, Considering the importance of ensuring that the Harmonized System is kept up-to-date in the light of changes in technology or in patterns of international trade, Having taken into consideration the work accomplished in this sphere by the Harmonized System Committee set up by the Customs Co-operation Council, Considering that while the above-mentioned Nomenclature Convention has proved an effective instrument in the attainment of some of these objectives, the best way to achieve the desired results in this respect is to conclude a new international Convention, Have agreed as follows:*
 
-De Partijen bij dit Verdrag, opgesteld onder auspiciën van de Internationale Douaneraad,
+##### Article 1. Definitions
 
-Verlangende de internationale handel te vergemakkelijken,
+For the purpose of this Convention:
 
-Verlangende het verzamelen, vergelijken en analyseren van statistieken, in het bijzonder die betreffende de buitenlandse handel, te vergemakkelijken,
+- (a) the "Harmonized Commodity Description and Coding System", hereinafter referred to as the "Harmonized System", means the Nomenclature comprising the headings and subheadings and their related numerical codes, the Section, Chapter and Subheading Notes and the General Rules for the interpretation of the Harmonized System, set out in the Annex to this Convention;
 
-Verlangende de kosten te verminderen die worden gemaakt als gevolg van het opnieuw omschrijven, indelen en coderen van goederen wanneer die in het internationale handelsverkeer overgaan van het ene indelingssysteem naar het andere, alsmede de standaardisering van handelsdocumenten en de overdracht van gegevens te vergemakkelijken,
+- (b) "Customs tariff nomenclature" means the nomenclature established under the legislation of a Contracting Party for the purposes of levying duties of Customs on imported goods;
 
-Overwegende dat de ontwikkeling van de technologie en de veranderingen in de structuur van de internationale handel ingrijpende wijzigingen nodig maken in het Verdrag inzake de nomenclatuur voor de indeling van goederen in de douanetarieven, gedaan te Brussel op 15 december 1950,
+- (c) "statistical nomenclatures" means goods nomenclatures established by a Contracting Party for the collection of data for import and export trade statistics;
 
-Tevens overwegende dat de mate van verbijzondering die door Regeringen en handelskringen voor douane- en statistiekdoeleinden wordt verlangd, thans veel groter is dan die welke is te vinden in de nomenclatuur, opgenomen in de bijlage bij bovengenoemd Verdrag,
+- (d) "combined tariff/statistical nomenclature" means a nomenclature, integrating Customs tariff and statistical nomenclatures, legally required by a Contracting Party for the declaration of goods at importation;
 
-Overwegende dat het voor het voeren van internationale handelsbesprekingen van belang is om over nauwkeurige en vergelijkbare gegevens te beschikken,
+- (e) "the [Convention establishing the Council](https://wetten.overheid.nl/jci1.3:c:BWBV0003093)" means the Convention establishing a Customs Co-operation Council, done at Brussels on 15 December 1950;
 
-Overwegende dat het geharmoniseerde systeem is bedoeld om te worden gebruikt voor de vrachttarieven en de statistieken van de verschillende soorten goederenvervoer,
+- (f) "the Council" means the Customs Co-operation Council referred to in paragraph (e) above;
 
-Overwegende dat het geharmoniseerde systeem is bedoeld om in zo ruim mogelijke mate te worden opgenomen in commerciële systemen voor de omschrijving en de codering van goederen,
+- (g) "the Secretary General" means the Secretary General of the Council;
 
-Overwegende dat het geharmoniseerde systeem is bedoeld om de totstandkoming te bevorderen van een zo nauw mogelijke correlatie tussen de statistieken van de buitenlandse handel enerzijds, en de produktiestatistieken anderzijds,
+- (h) the term "ratification" means ratification, acceptance or approval.
 
-Overwegende dat een nauwe correlatie dient te worden gehandhaafd tussen het geharmoniseerde systeem en de „Type classificatie voor de internationale handel” van de Verenigde Naties,
+##### Article 2. The Annex
 
-Overwegende dat het wenselijk is om te voldoen aan bovengenoemde behoeften door middel van een geïntegreerde nomenclatuur voor douane- en statistiekdoeleinden die kan worden gebruikt door de verschillende belanghebbenden bij de internationale handel,
+The [Annex](https://wetten.overheid.nl/BWBV0002538) to this Convention shall form an integral part thereof, and any reference to the Convention shall include a reference to the Annex.
 
-Overwegende dat het van belang is te verzekeren dat het geharmoniseerde systeem gelijke tred houdt met de ontwikkeling van de technologie en met de veranderingen in de structuur van de internationale handel,
+##### Article 3. Obligations of Contracting Parties
 
-Kennis genomen hebbende van het werk dat op dit gebied is verricht door het Comité voor het Geharmoniseerde Systeem, dat door de Internationale Douaneraad is ingesteld,
+1. Subject to the exceptions enumerated in [Article 4](https://wetten.overheid.nl/BWBV0002538):
 
-Overwegende dat, hoewel het bovengenoemde Verdrag inzake de nomenclatuur een doeltreffend middel is gebleken voor het bereiken van sommige van deze doelstellingen, het sluiten van een nieuw internationaal verdrag de beste wijze is om tot de gewenste resultaten te komen,
+- (a) Each Contracting Party undertakes, except as provided in subparagraph (c) of this paragraph, that from the date on which this Convention enters into force in respect of it, its Customs tariff and statistical nomenclatures shall be in conformity with the Harmonized System. It thus undertakes that, in respect of its Customs tariff and statistical nomenclatures:
 
-Zijn als volgt overeengekomen:
+   - (i) it shall use all the headings and subheadings of the Harmonized System without addition or modification, together with their related numerical codes;
 
-##### Artikel 1. Begripsbepalingen
+   - (ii) it shall apply the General Rules for the interpretation of the Harmonized System and all the Section, Chapter and Subheading Notes, and shall not modify the scope of the Sections, Chapters, headings or subheadings of the Harmonized System; and
 
-Voor de toepassing van dit Verdrag wordt verstaan onder:
+   - (iii) it shall follow the numerical sequence of the Harmonized System;
 
-- a. „geharmoniseerd systeem inzake de omschrijving en de codering van goederen”, hierna te noemen het „geharmoniseerde systeem”: de nomenclatuur die de posten en de onderverdelingen daarvan met de daarop betrekking hebbende numerieke codes, de aantekeningen op de afdelingen en de hoofdstukken, de aanvullende aantekeningen op de onderverdelingen, alsmede de algemene regels voor de interpretatie van het geharmoniseerde systeem omvat en die is opgenomen in de bijlage bij dit Verdrag;
+- (b) Each Contracting Party shall also make publicly available its import and export trade statistics in conformity with the six-digit codes of the Harmonized System, or, on the initiative of the Contracting Party, beyond that level, to the extent that publication is not precluded for exceptional reasons such as commercial confidentiality or national security;
 
-- b. „tariefnomenclatuur”: de nomenclatuur, vastgesteld bij of krachtens de wetgeving van een Verdragsluitende Partij voor de heffing van douanerechten op ingevoerde goederen;
+- (c) Nothing in this Article shall require a Contracting Party to use the subheadings of the Harmonized System in its Customs tariff nomenclature provided that it meets the obligations at (a) (i), (a) (ii) and (a) (iii) above in a combined tariff/statistical nomenclature.
 
-- c. „statistieknomenclaturen”: goederennomenclaturen, vastgesteld door een Verdragsluitende Partij voor het verzamelen van gegevens ten behoeve van de statistieken van de buitenlandse handel;
+2. In complying with the undertakings at paragraph 1 (a) of this Article, each Contracting Party may make such textual adaptations as may be necessary to give effect to the Harmonized System in its domestic law.
 
-- d. „geïntegreerde nomenclatuur”: een nomenclatuur waarin de tariefnomenclatuur en de statistieknomenclaturen zijn samengevoegd en die krachtens wettelijk voorschrift van een Verdragsluitende Partij voor de aangifte van goederen bij invoer moet worden toegepast;
+3. Nothing in this Article shall prevent a Contracting Party from establishing, in this Customs tariff or statistical nomenclatures, subdivisions classifying goods beyond the level of the Harmonized System, provided that any such subdivision is added and coded at a level beyond that of the six-digit numerical code set out in the [Annex](https://wetten.overheid.nl/BWBV0002538) to this Convention.
 
-- e. „[Verdrag houdende oprichting van de Raad](https://wetten.overheid.nl/jci1.3:c:BWBV0003093)”: het Verdrag houdende oprichting van een Internationale Douaneraad, gedaan te Brussel op 15 december 1950;
+##### Article 4. Partial application by developing countries
 
-- f. „Raad”: de onder e hierboven bedoelde Internationale Douaneraad;
+1. Any developing country Contracting Party may delay its application of some or all of the subheadings of the Harmonized System for such period as may be necessary, having regard to its pattern of international trade or its administrative resources.
 
-- h. „Secretaris-Generaal”: de Secretaris-Generaal van de Raad;
+2. A developing country Contracting Party which elects to apply the Harmonized System partially under the provisions of this Article agrees to make its best efforts towards the application of the full six-digit Harmonized System within five years of the date on which this Convention enters into force in respect of it or within such further period as it may consider necessary having regard to the provisions of paragraph 1 of this Article.
 
-- h. de term „bekrachtiging”: bekrachtiging, aanvaarding of goedkeuring.
+3. A developing country Contracting Party which elects to apply the Harmonized System partially under the provisions of this Article shall apply all or none of the two-dash subheadings of any one one-dash subheading or all or none of the one-dash subheadings of any one heading. In such cases of partial application, the sixth digit or the fifth and sixth digits of that part of the Harmonized System code not applied shall be replaced by "0" or "00" respectively.
 
-##### Artikel 2. Bijlage
+4. A developing country which elects to apply the Harmonized System partially under the provisions of this Article shall on becoming a Contracting Party notify the Secretary General of those subheadings which it will not apply on the date when this Convention enters into force in respect of it and shall also notify the Secretary General of those subheadings which it applies thereafter.
 
-De bijlage bij dit Verdrag maakt daarvan onafscheidelijk deel uit en elk verwijzing naar dit Verdrag geldt mede ten aanzien van de bijlage.
+5. Any developing country which elects to apply the Harmonized System partially under the provisions of this Article may on becoming a Contracting Party notify the Secretary General that it formally undertakes to apply the full six-digit Harmonized System within three years of the date when this Convention enters into force in respect of it.
 
-##### Artikel 3. Verplichtingen van de Verdragsluitende Partijen
+6. Any developing country Contracting Party which partially applies the Harmonized System under the provisions of this Article shall be relieved from its obligations under [Article 3](https://wetten.overheid.nl/BWBV0002538) in relation to the subheadings not applied.
 
-1. Behoudens de uitzonderingen, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=4&z=2024-01-01&g=2024-01-01):
+##### Article 5. Technical assistance for developing countries
 
-- a. verbindt elke Verdragsluitende Partij zich om, onder voorbehoud van het bepaalde in letter c van dit lid, vanaf de datum waarop dit Verdrag met betrekking tot deze Partij in werking treedt, haar tariefnomenclatuur en haar statistieknomenclaturen in overeenstemming te doen zijn met het geharmoniseerde systeem. Zij verbindt zich aldus om, met betrekking tot haar tariefnomenclatuur en haar statistieknomenclaturen:
+Developed country Contracting Parties shall furnish to developing countries that so request, technical assistance on mutually agreed terms in respect of, inter alia, training of personnel, transposing their existing nomenclatures to the Harmonized System and advice on keeping their systems so transposed up-to-date with amendments to the Harmonized System or on applying the provisions of this Convention.
 
-- 1°. alle posten en onderverdelingen van het geharmoniseerde systeem zonder enige toevoeging of wijziging, alsmede de daarop betrekking hebbende numerieke codes te gebruiken;
+##### Article 6. Harmonized System Committee
 
-- 2°. de algemene regels voor de interpretatie van het geharmoniseerde systeem, alsmede alle aantekeningen op de afdelingen en de hoofdstukken en de aanvullende aantekeningen op de onderverdelingen toe te passen en de draagwijdte van de afdelingen, hoofdstukken, posten of onderverdelingen van het geharmoniseerde systeem niet te wijzigen;
+1. There shall be established under this Convention a Committee to be known as the Harmonized System Committee, composed of representatives from each of the Contracting Parties.
 
-- 3°. de volgorde van nummering van het geharmoniseerde systeem in acht te nemen;
+2. It shall normally meet at least twice each year.
 
-- b. stelt elke Verdragsluitende Partij voorts haar statistieken van de buitenlandse handel algemeen verkrijgbaar overeenkomstig de zes-cijfercode van het geharmoniseerde systeem of overeenkomstig een door de Verdragsluitende Partij ingevoerde meer gedetailleerde codering, voor zover publikatie niet is uitgesloten om uitzonderlijke redenen, zoals het vertrouwelijk karakter van inlichtingen van commerciële aard of de nationale veiligheid;
+3. Its meetings shall be convened by the Secretary General and, unless the Contracting Parties otherwise decide, shall be held at the Headquarters of the Council.
 
-- c. verplicht geen enkele bepaling van dit artikel een Verdragsluitende Partij ertoe de onderverdelingen van de posten van het geharmoniseerde systeem in haar tariefnomenclatuur te gebruiken, mits zij voldoet aan de verplichtingen zoals zijn bedoeld bij letter a. 1°, 2° en 3° hierboven door middel van een geïntegreerde nomenclatuur.
+4. In the Harmonized System Committee each Contracting Party shall have the right to one vote; nevertheless, for the purposes of this Convention and without prejudice to any future Convention, where a Customs or Economic Union as well as one or more of its Member States are Contracting Parties such Contracting Parties shall together exercise only one vote. Similarly, where all the Member States of a Customs or Economic Union which is eligible to become a Contracting Party under the provisions of [Article 11 (b)](https://wetten.overheid.nl/BWBV0002538) become Contracting Parties, they shall together exercise only one vote.
 
-2. Bij het nakomen van de in letter a van het eerste lid van dit artikel bedoelde verplichtingen kan elke Verdragsluitende Partij de tekst zodanig aanpassen als nodig is om in haar nationale wetgeving aan het geharmoniseerde systeem uitvoering te geven.
+5. The Harmonized System Committee shall elect its own Chairman and one or more Vice-Chairmen.
 
-3. Geen enkele bepaling van dit artikel verbiedt een Verdragsluitende Partij in haar tariefnomenclatuur of haar statistieknomenclaturen nadere specificaties voor de indeling van goederen aan te brengen, mits de toevoeging en codering van de daartoe aangebrachte nadere onderverdelingen in deze nomenclaturen geschiedt op een niveau dat ligt onder dat van de zes-cijfercode van het geharmoniseerde systeem, zoals dat is opgenomen in de bijlage bij dit Verdrag.
+6. It shall draw up its own Rules of Procedure by decision taken by not less than two-thirds of the votes attributed to its members. The Rules of Procedure so drawn up shall be approved by the Council.
 
-##### Artikel 4. Gedeeltelijke toepassing door ontwikkelingslanden
+7. It shall invite such intergovernmental or other international organizations as it may consider appropriate to participate as observers in its work.
 
-1. Elk ontwikkelingsland dat Verdragsluitende Partij is, kan de toepassing van sommige of van alle onderverdelingen van de posten van het geharmoniseerde systeem uitstellen gedurende de periode die, rekening houdend met de structuur van zijn internationale handel of met zijn bestuurlijke mogelijkheden, noodzakelijk is.
+8. It shall set up Sub-Committees or Working Parties as needed, having regard, in particular, to the provisions of [paragraph 1 (a) of Article 7](https://wetten.overheid.nl/BWBV0002538), and it shall determine the membership, voting rights and Rules of Procedure for such Sub-Committees or Working Parties.
 
-2. Een ontwikkelingsland dat Verdragsluitende Partij is en het geharmoniseerde systeem overeenkomstig het bepaalde in dit artikel gedeeltelijk wenst toe te passen, verbindt zich ertoe alles in het werk te stellen om het volledige geharmoniseerde systeem met zes-cijfercode toe te passen binnen vijf jaar, te rekenen van de datum waarop dit Verdrag met betrekking tot dit land in werking treedt, of binnen een ander door dit land eventueel noodzakelijk geacht tijdvak, gelet op het bepaalde in het eerste lid van dit artikel.
+##### Article 7. Functions of the Committee
 
-3. Een ontwikkelingsland dat Verdragsluitende Partij is en het geharmoniseerde systeem overeenkomstig het bepaalde in dit artikel gedeeltelijk wenst toe te passen, past alle of geen van de onderverdelingen met twee streepjes toe van een willekeurige onderverdeling met één streepje, dan wel alle of geen van de onderverdelingen met één streepje van een willekeurige post. In dergelijke gevallen van gedeeltelijke toepassing wordt het zesde cijfer of worden het vijfde en zesde cijfer van het gedeelte van de code van het geharmoniseerde systeem dat niet wordt toegepast, onderscheidenlijk door „0” of „00” vervangen.
+1. The Harmonized System Committee, having regard to the provisions of [Article 8](https://wetten.overheid.nl/BWBV0002538), shall have the following functions:
 
-4. Een ontwikkelingsland dat het geharmoniseerde systeem overeenkomstig het bepaalde in dit artikel gedeeltelijk wenst toe te passen, stelt, wanneer het Verdragsluitende Partij wordt, de Secretaris-Generaal ervan in kennis welke onderverdelingen het niet zal toepassen op de datum waarop dit Verdrag met betrekking tot dit land in werking treedt, en stelt de Secretaris-Generaal er tevens van in kennis welke onderverdelingen het nadien toepast.
+- (a) to propose such amendments to this Convention as may be considered desirable, having regard, in particular, to the needs of users and to changes in technology or in patterns of international trade;
 
-5. Elk ontwikkelingsland dat het geharmoniseerde systeem overeenkomstig het bepaalde in dit artikel gedeeltelijk wenst toe te passen, kan, wanneer het Verdragsluitende Partij wordt, de Secretaris-Generaal mededelen dat het zich formeel verbindt het volledige geharmoniseerde systeem met zes-cijfercode toe te passen binnen drie jaar, te rekenen van de datum waarop dit Verdrag met betrekking tot dat land in werking treedt.
+- (b) to prepare Explanatory Notes, Classification Opinions or other advice as guides to the interpretation of the Harmonized System;
 
-6. Elk ontwikkelingsland dat Verdragsluitende Partij is en het geharmoniseerde systeem overeenkomstig het bepaalde in dit artikel gedeeltelijk toepast, wordt van zijn verplichtingen die voortvloeien uit [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=3&z=2024-01-01&g=2024-01-01) ontheven met betrekking tot de onderverdelingen die het niet toepast.
+- (c) to prepare recommendations to secure uniformity in the interpretation and application of the Harmonized System;
 
-##### Artikel 5. Technische bijstand voor ontwikkelingslanden
+- (d) to collate and circulate information concerning the application of the Harmonized System;
 
-De ontwikkelde landen die Verdragsluitende Partij zijn, verschaffen ontwikkelingslanden die daarom verzoeken, technische bijstand op onderling overeengekomen voorwaarden met betrekking tot onder meer de opleiding van personeel, de omzetting van hun huidige nomenclaturen op basis van het geharmoniseerde systeem, het geven van advies omtrent het bijhouden van hun aldus omgezette systemen aan de hand van eventuele wijzigingen in het geharmoniseerde systeem, alsmede omtrent de toepassing van de bepalingen van dit Verdrag.
+- (e) on its own initiative or on request, to furnish information or guidance on any matters concerning the classification of goods in the Harmonized System to Contracting Parties, to Members of the Council and to such intergovernmental or other international organizations as the Committee may consider appropriate;
 
-##### Artikel 6. Comité voor het Geharmoniseerde Systeem
+- (f) to present Reports to each Session of the Council concerning its activities, including proposed amendments, Explanatory Notes, Classification Opinions and other advice;
 
-1. Ingevolge dit Verdrag wordt een comité ingesteld onder de naam Comité voor het Geharmoniseerde Systeem, samengesteld uit vertegenwoordigers van elk van de Verdragsluitende Partijen.
+- (g) to exercise such other powers and functions in relation to the Harmonized System as the Council or the Contracting Parties may deem necessary.
 
-2. Het Comité vergadert in de regel ten minste twee maal per jaar.
+2. Administrative decisions of the Harmonized System Committee having budgetary implications shall be subject to approval by the Council.
 
-3. Zijn vergaderingen worden door de Secretaris-Generaal bijeengeroepen en, tenzij de Verdragsluitende Partijen anderszins beslissen, ten zetel van de Raad gehouden.
+##### Article 8. Role of the Council and re-examination procedure
 
-4. In het Comité voor het Geharmoniseerde Systeem heeft elke Verdragsluitende Partij recht op één stem; indien echter een douane- of economische unie en één of meer Lid-Staten daarvan Verdragsluitende Partij zijn, brengen deze Verdragsluitende Partijen, met betrekking tot de toepassing van dit Verdrag en onverminderd het bepaalde in een eventueel later te sluiten verdrag, samen slechts één stem uit. Indien alle Lid-Staten van een douane- of economische unie die krachtens het bepaalde in [artikel 11, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=11&z=2024-01-01&g=2024-01-01), daarvoor in aanmerking komt, Verdragsluitende Partij worden, brengen deze eveneens samen slechts één stem uit.
+1. The Council shall examine proposals for amendment of this Convention, prepared by the Harmonized System Committee, and recommend them to the Contracting Parties under the procedure of [Article 16](https://wetten.overheid.nl/BWBV0002538) unless any Council Member which is a Contracting Party to this Convention requests that the proposals or any part thereof be referred to the Committee for re-examination.
 
-5. Het Comité voor het Geharmoniseerde Systeem kiest zijn Voorzitter en één of meer Vice-Voorzitters.
+2. Subject to paragraphs 3 to 6 of this Article, with respect to the Explanatory Notes, Classification Opinions, other advice on the interpretation of the Harmonized System and recommendations to secure uniformity in the interpretation and application of the Harmonized System prepared by the Harmonized System Committee, any Contracting Party to this Convention may enter a request for (i) re-examination of the matter by the Harmonized System Committee or (ii) referral of the matter to the Council. No Contracting Party may request a re-examination by the Harmonized System Committee or a referral to the Council of a matter under this paragraph if the matter has been re-examined two times by the Harmonized System Committee.
 
-6. Het Comité stelt zijn huishoudelijk reglement op, waarover wordt beslist met een meerderheid van twee derde van de aan zijn leden toegekende stemmen. Dit reglement is onderworpen aan de goedkeuring van de Raad.
+3. The Explanatory Notes, Classification Opinions, other advice on the interpretation of the Harmonized System and recommendations to secure uniformity in the interpretation and application of the Harmonized System, prepared during a session of the Harmonized System Committee under the provisions of [paragraph 1 of Article 7](https://wetten.overheid.nl/BWBV0002538), shall be deemed to be approved by the Council if, as of the end of the second month following the month during which that session was closed, no Contracting Party to this Convention has notified the Secretary General that it enters a request for re-examination by the Harmonized System Committee or referral to the Council in accordance with paragraph 2 of this Article.
 
-7. Het Comité nodigt indien het zulks nuttig acht intergouvernementele of andere internationale organisaties uit om als waarnemer aan zijn werkzaamheden deel te nemen.
+4. Once a matter has been referred to the Council under the provisions of paragraph 2 of this Article, the Council shall approve such Explanatory Notes, Classification Opinions, other advice or recommendations, unless any Council Member which is a Contracting Party to this Convention requests that they be referred in whole or in part to the Harmonized System Committee for re-examination.
 
-8. Het Comité stelt naar behoefte subcomités of werkgroepen in en houdt daarbij in het bijzonder rekening met het bepaalde in [artikel 7, eerste lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=7&z=2024-01-01&g=2024-01-01), en het stelt het lidmaatschap, het stemrecht en het huishoudelijk reglement van deze subcomités of werkgroepen vast.
+5. The Harmonized System Committee shall consider a matter in respect of which a request for re-examination has been made at its first session after that matter has been referred to it under paragraphs 2 to 4 of this Article and shall take a decision at the same session unless circumstances require otherwise.
 
-##### Artikel 7. Functies van het Comité
+6. Under the provisions of paragraph 2 of this Article, the Harmonized System Committee may re-examine any Explanatory Note, Classification Opinion, other advice on the interpretation of the Harmonized System or Harmonized System related recommendation, no more than two times after it is first prepared by the Harmonized System Committee.
 
-1. Met inachtneming van het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=8&z=2024-01-01&g=2024-01-01) vervult het Comité voor het Geharmoniseerde Systeem de volgende functies:
+##### Article 9. Rates of customs duty
 
-- a. het doen van voorstellen tot wenselijk geachte wijzigingen van dit Verdrag, daarbij in het bijzonder rekening houdend met de behoeften van de gebruikers, en met de ontwikkeling van de technologie of met de wijzigingen in de structuur van de internationale handel;
+The Contracting Parties do not assume by this Convention any obligation in relation to rates of Customs duty.
 
-- b. het opstellen van toelichtingen, indelingsadviezen of andere adviezen voor de interpretatie van het geharmoniseerde systeem;
+##### Article 10. Settlement of disputes
 
-- c. het opstellen van aanbevelingen ten einde de uniformiteit in de interpretatie en de toepassing van het geharmoniseerde systeem te verzekeren;
+1. Any dispute between Contracting Parties concerning the interpretation or application of this Convention shall, so far as possible, be settled by negotiation between them.
 
-- d. het verzamelen en verspreiden van informatie betreffende toepassing van het geharmoniseerde systeem;
+2. Any dispute which is not so settled shall be referred by the Parties to the dispute to the Harmonized System Committee which shall thereupon consider the dispute and make recommendations for its settlement.
 
-- e. het verschaffen, uit eigen beweging of op verzoek, van informatie of advies omtrent alle aangelegenheden betreffende de indeling van goederen in het geharmoniseerde systeem aan Verdragsluitende Partijen, aan leden van de Raad en aan de intergouvernementele of andere internationale organisaties die volgens het Comité hiervoor in aanmerking komen;
+3. If the Harmonized System Committee is unable to settle the dispute, it shall refer the matter to the Council which shall make recommendations in conformity with A[rticle III (e) of the Convention establishing the Council](https://wetten.overheid.nl/jci1.3:c:BWBV0003093&artikel=III).
 
-- f. het overleggen tijdens iedere zitting van de Raad, van rapporten betreffende zijn werkzaamheden, met inbegrip van voorgestelde wijzigingen, toelichtingen, indelingsadviezen en andere adviezen;
+4. The Parties to the dispute may agree in advance to accept the recommendations of the Committee or the Council as binding.
 
-- g. het uitoefenen van alle andere bevoegdheden en functies met betrekking tot het geharmoniseerde systeem die de Raad of de Verdragsluitende Partijen noodzakelijk mochten achten.
+##### Article 11. Eligibility to become a Contracting Party
 
-2. Administratieve beslissingen van het Comité voor het Geharmoniseerde Systeem die gevolgen hebben voor de begroting, zijn aan de goedkeuring van de Raad onderworpen.
+The following are eligible to become Contracting Parties to this Convention:
 
-##### Artikel 8. Functie van de Raad en procedure voor een nieuw onderzoek
+- (a) Member States of the Council;
 
-1. De Raad onderzoekt de voorstellen tot wijziging van dit Verdrag die door het Comité voor het Geharmoniseerde Systeem worden gedaan, en beveelt deze wijzigingen aan de Verdragsluitende Partijen aan overeenkomstig de procedure van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=16&z=2024-01-01&g=2024-01-01), tenzij een Lid van de Raad dat Partij bij dit Verdrag is, verzoekt de voorstellen of een deel ervan aan het Comité terug te zenden voor een nieuw onderzoek.
+- (b) Customs or Economic Unions to which competence has been transferred to enter into treaties in respect of some or all of the matters governed by this Convention; and
 
-2. Met inachtneming van het derde tot en met het zesde lid van dit artikel, kan elke Partij bij dit Verdrag met betrekking tot toelichtingen, indelingsadviezen, andere adviezen omtrent de interpretatie van het geharmoniseerde systeem en aanbevelingen ter verzekering van de uniformiteit in de interpretatie en toepassing van het geharmoniseerde systeem, opgesteld door het Comité voor het Geharmoniseerde Systeem, een verzoek indienen voor i. een nieuw onderzoek van de zaak door het Comité voor het Geharmoniseerde Systeem of ii. verwijzing van de zaak naar de Raad. Een Verdragsluitende Partij kan uit hoofde van dit lid niet verzoeken om een nieuw onderzoek door het Comité voor het Geharmoniseerde Systeem of om verwijzing van een zaak naar de Raad indien de zaak reeds tweemaal opnieuw is onderzocht door het Comité voor het Geharmoniseerde Systeem.
+- (c) Any other State to which an invitation to that effect has been addressed by the Secretary General at the direction of the Council.
 
-3. De toelichtingen, de indelingsadviezen, de andere adviezen omtrent de interpretatie van het geharmoniseerde systeem en de aanbevelingen ter verzekering van de uniformiteit in de interpretatie en de toepassing van het geharmoniseerde systeem, opgesteld tijdens een zitting van het Comité voor het Geharmoniseerde Systeem overeenkomstig het bepaalde in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=7&z=2024-01-01&g=2024-01-01), worden geacht door de Raad te zijn goedgekeurd indien geen van de Partijen bij dit Verdrag aan het eind van de tweede maand, volgend op die waarin de zitting werd gesloten, de Secretaris-Generaal heeft medegedeeld dat zij een verzoek indient voor een nieuw onderzoek door het Comité voor het Geharmoniseerde Systeem of verwijzing van de zaak naar de Raad in overeenstemming met het tweede lid van dit artikel.
+##### Article 12. Procedure for becoming a Contracting Party
 
-4. Wanneer een zaak overeenkomstig de voorwaarden van het tweede lid van dit artikel aan de Raad is voorgelegd, keurt de Raad deze toelichtingen, indelingsadviezen, andere adviezen of aanbevelingen goed, tenzij een Lid van de Raad dat Partij is bij dit Verdrag verzoekt deze in hun geheel of ten dele aan het Comité voor het Geharmoniseerde Systeem terug te zenden voor een nieuw onderzoek.
+1. Any eligible State or Customs or Economic Union may become a Contracting Party to this Convention:
 
-5. Het Comité voor het Geharmoniseerde Systeem bestudeert een zaak ten aanzien waarvan een verzoek om een nieuw onderzoek is ingediend tijdens zijn eerste zitting nadat de zaak uit hoofde van het tweede tot en met het vierde lid van dit artikel aan hem is voorgelegd en neemt tijdens dezelfde zitting een beslissing tenzij de omstandigheden zich daartegen verzetten.
+- (a) by signing it without reservation of ratification;
 
-6. Krachtens het bepaalde in het tweede lid van dit artikel kan het Comité voor het Geharmoniseerde Systeem een toelichting, indelingsadvies, een ander advies omtrent de interpretatie van het geharmoniseerde systeem of een op het geharmoniseerde systeem betrekking hebbende aanbeveling, ten hoogste twee maal opnieuw onderzoeken nadat het door het Comité voor het Geharmoniseerde Systeem is opgesteld.
+- (b) by depositing an instrument of ratification after having signed the Convention subject to ratification; or
 
-##### Artikel 9. Douanerechten
+- (c) by acceding to it after the Convention has ceased to be open for signature.
 
-De Verdragsluitende Partijen nemen door dit Verdrag geen enkele verplichting op zich met betrekking tot de hoogte van de douanerechten.
+2. This Convention shall be open for signature until 31 December 1986 at the Headquarters of the Council in Brussels by the States and Customs or Economic Unions referred to in [Article 11](https://wetten.overheid.nl/BWBV0002538). Thereafter, it shall be open for their accession.
 
-##### Artikel 10. Regeling van geschillen
+3. The instruments of ratification or accession shall be deposited with the Secretary General.
 
-1. Elk geschil tussen Verdragsluitende Partijen betreffende de interpretatie of de toepassing van dit Verdrag wordt zoveel mogelijk geregeld door rechtstreekse onderhandelingen tussen deze Partijen.
+##### Article 13. Entry into force
 
-2. Elk geschil dat niet aldus wordt geregeld, wordt door de partijen bij het geschil voorgelegd aan het Comité voor het Geharmoniseerde Systeem, dat het geschil onderzoekt en aanbevelingen doet voor de regeling ervan.
+1. This Convention shall enter into force on the earliest first of January which falls at least three months after a minimum of seventeen States or Customs or Economic Unions referred to in [Article 11](https://wetten.overheid.nl/BWBV0002538) above have signed it without reservation of ratification or have deposited their instruments of ratification or accession, but not before 1 January 1988.
 
-3. Indien het Comité voor het Geharmoniseerde Systeem niet in staat is het geschil te regelen, legt het de zaak voor aan de Raad, die aanbevelingen doet overeenkomstig [artikel III, letter e, van het Verdrag houdende oprichting van de Raad](https://wetten.overheid.nl/jci1.3:c:BWBV0003093&artikel=III).
+2. For any State or Customs or Economic Union signing without reservation of ratification, ratifying or acceding to this Convention after the minimum number specified in paragraph 1 of this Article is reached, this Convention shall enter into force on the first of January which falls at least twelve months but not more than twenty-four months after it has signed the Convention without reservation of ratification or has deposited its instrument of ratification or accession, unless it specifies an earlier date. However, the date of entry into force under the provisions of this paragraph shall not be earlier than the date of entry into force provided for in paragraph 1 of this Article.
 
-4. De partijen bij het geschil kunnen van tevoren overeenkomen dat zij de aanbevelingen van het Comité of van de Raad als bindend zullen aanvaarden.
+##### Article 14. Application by dependent territories
 
-##### Artikel 11. Voorwaarden om Verdragsluitende Partij te worden
+1. Any State may, at the time of becoming a Contracting Party to this Convention, or at any time thereafter, declare by notification given to the Secretary General that the Convention shall extend to all or any of the territories for whose international relations it is responsible, named in its notification. Such notification shall take effect on the first of January which falls at least twelve months but not more than twenty-four months after the date of the receipt thereof by the Secretary General, unless an earlier date is specified in the notification. However, this Convention shall not apply to such territories before it has entered into force for the State concerned.
 
-Partij bij dit Verdrag kunnen worden:
+2. This Convention shall cease to have effect for a named territory on the date when the Contracting Party ceases to be responsible for the international relations of that territory or on such earlier date as may be notified to the Secretary General under the procedure of [Article 15](https://wetten.overheid.nl/BWBV0002538).
 
-- a. de Lid-Staten van de Raad;
+##### Article 15. Denunciation
 
-- b. douane- of economische unies waaraan de bevoegdheid tot het sluiten van verdragen aangaande sommige of alle aangelegenheden die in dit Verdrag worden geregeld, is overgedragen;
+This Convention is of unlimited duration. Nevertheless any Contracting Party may denounce it and such denunciation shall take effect one year after the receipt of the instrument of denunciation by the Secretary General, unless a later date is specified therein.
 
-- c. elke andere Staat die in opdracht van de Raad hiertoe wordt uitgenodigd door de Secretaris-Generaal.
+##### Article 16. Amendment procedure
 
-##### Artikel 12. Procedure om Verdragsluitende Partij te worden
+1. The Council may recommend amendments to this Convention to the Contracting Parties.
 
-1. Elke Staat of douane- of economische unie die voldoet aan de gestelde voorwaarden kan Partij bij dit Verdrag worden door:
+2. Any Contracting Party may notify the Secretary General of an objection to a recommended amendment and may subsequently withdraw such objection within the period specified in paragraph 3 of this Article.
 
-- a. het te ondertekenen zonder voorbehoud van bekrachtiging;
+3. Any recommended amendment shall be deemed to be accepted six months after the date of its notification by the Secretary General provided that there is no objection outstanding at the end of this period.
 
-- b. een akte van bekrachtiging neder te leggen na het Verdrag te hebben ondertekend onder voorbehoud van bekrachtiging; of
+4. Accepted amendments shall enter into force for all Contracting Parties on one of the following dates:
 
-- c. toe te treden nadat het Verdrag heeft opgehouden open te staan voor ondertekening.
+- (a) where the recommended amendment is notified before 1 April, the date shall be the first of January of the second year following the date of such notification, or
 
-2. Dit Verdrag staat tot en met 31 december 1986 ten zetel van de Raad te Brussel open voor ondertekening door de Staten en douane- of economische unies, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=11&z=2024-01-01&g=2024-01-01). Na deze datum zal het open staan voor toetreding.
+- (b) where the recommended amendment is notified on or after 1 April, the date shall be the first of January of the third year following the date of such notification.
 
-3. De akten van bekrachtiging of toetreding worden nedergelegd bij de Secretaris-Generaal.
+5. The statistical nomenclatures of each Contracting Party and its Customs tariff nomenclature or, in the case provided for under [paragraph 1 (c) of Article 3](https://wetten.overheid.nl/BWBV0002538), its combined tariff/statistical nomenclature, shall be brought into conformity with the amended Harmonized System on the date specified in paragraph 4 of this Article.
 
-##### Artikel 13. Inwerkingtreding
+6. Any State or Customs or Economic Union signing without reservation of ratification, ratifying or acceding to this Convention shall be deemed to have accepted any amendments thereto which, at the date when it becomes a Contracting Party, have entered into force or have been accepted under the provisions of paragraph 3 of this Article.
 
-1. Dit Verdrag treedt in werking op de eerstkomende eerste januari die verschijnt ten minste drie maanden na de datum waarop ten minste zeventien Staten of douane-unies of economische unies, zoals bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=11&z=2024-01-01&g=2024-01-01) hierboven, het hebben ondertekend zonder voorbehoud van bekrachtiging of hun akten van bekrachtiging of toetreding hebben nedergelegd, maar niet vóór 1 januari 1988.
+##### Article 17. Rights of Contracting Parties in respect of the Harmonized System
 
-2. Voor elke Staat of douane- of economische unie die dit Verdrag ondertekent zonder voorbehoud van bekrachtiging, het bekrachtigt of ertoe toetreedt nadat het in het eerste lid van dit artikel aangegeven minimumaantal is bereikt, treedt dit Verdrag in werking op de eerste januari die valt in een tijdvak van ten minste twaalf en ten hoogste vierentwintig maanden, volgende op de datum waarop deze Staat of douane- of economische unie het Verdrag heeft ondertekend zonder voorbehoud van bekrachtiging of zijn of haar akte van bekrachtiging of toetreding heeft nedergelegd, tenzij deze een eerdere datum heeft opgegeven. De datum van inwerkingtreding ingevolge het bepaalde in dit lid mag echter niet eerder vallen dan de in het eerste lid van dit artikel bedoelde datum.
+On any matter affecting the Harmonized System, [paragraph 4 of Article 6](https://wetten.overheid.nl/BWBV0002538), [Article 8](https://wetten.overheid.nl/BWBV0002538) and [paragraph 2 of Article 16](https://wetten.overheid.nl/BWBV0002538) shall confer rights on a Contracting Party:
 
-##### Artikel 14. Toepassing door afhankelijke gebieden
+- (a) in respect of all parts of the Harmonized System which it applies under the provisions of this Convention; or
 
-1. Elke Staat kan, hetzij op het tijdstip dat deze Partij bij dit Verdrag wordt, hetzij later, door middel van een aan de Secretaris-Generaal gerichte kennisgeving verklaren dat dit Verdrag mede van toepassing zal zijn op alle of op bepaalde gebieden voor welker internationale betrekkingen hij verantwoordelijk is en die in zijn kennisgeving zijn genoemd. Deze kennisgeving wordt van kracht op de eerste januari die valt in een tijdvak van ten minste twaalf en ten hoogste vierentwintig maanden, volgende op de datum van ontvangst daarvan door de Secretaris-Generaal, tenzij een eerdere datum in de kennisgeving is opgegeven. Dit Verdrag kan echter niet van toepassing worden op deze gebieden, voordat het voor de betrokken Staat in werking is getreden.
+- (b) until the date when this Convention enters into force in respect of it in accordance with the provisions of [Article 13](https://wetten.overheid.nl/BWBV0002538), in respect of all parts of the Harmonized System which it is obligated to apply at that date under the provisions of this Convention; or
 
-2. Dit Verdrag houdt op van toepassing te zijn op een bepaald gebied op de datum waarop de Verdragsluitende Partij ophoudt verantwoordelijk te zijn voor de internationale betrekkingen van dat gebied, of op een eerdere aan de Secretaris-Generaal overeenkomstig de procedure van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=15&z=2024-01-01&g=2024-01-01) medegedeelde datum.
+- (c) in respect of all parts of the Harmonized System, provided that it has formally undertaken to apply the full six-digit Harmonized System within the period of three years referred to in [paragraph 5 of Article 4](https://wetten.overheid.nl/BWBV0002538) and until the expiration of that period.
 
-##### Artikel 15. Opzegging
+##### Article 18. Reservations
 
-Dit Verdrag wordt voor onbepaalde tijd gesloten. Elke Verdragsluitende Partij kan het echter opzeggen en deze opzegging wordt van kracht een jaar na de ontvangst door de Secretaris-Generaal van de akte van opzegging, tenzij daarin een latere datum is opgegeven.
+No reservations to this Convention shall be permitted.
 
-##### Artikel 16. Wijzigingsprocedure
+##### Article 19. Notifications by the Secretary General
 
-1. De Raad kan aan de Verdragsluitende Partijen aanbevelingen doen tot wijziging van dit Verdrag.
+The Secretary General shall notify Contracting Parties, other signatory States, Member States of the Council which are not Contracting Parties to this Convention, and the Secretary General of the United Nations, of the following:
 
-2. Elke Verdragsluitende Partij kan de Secretaris-Generaal in kennis stellen van een bezwaar tegen een aanbevolen wijziging en kan later zulk een bezwaar intrekken binnen het in het derde lid van dit artikel genoemde tijdvak.
+- (a) Notifications under [Article 4](https://wetten.overheid.nl/BWBV0002538);
 
-3. Elke aanbevolen wijziging wordt geacht te zijn aanvaard zes maanden na de datum van de kennisgeving ervan door de Secretaris-Generaal, mits er aan het einde van dit tijdvak geen bezwaren meer bestaan.
+- (b) Signatures, ratifications and accessions as referred to in [Article 12](https://wetten.overheid.nl/BWBV0002538);
 
-4. Aanvaarde wijzigingen treden voor alle Verdragsluitende Partijen in werking op een der volgende data:
+- (c) The date on which the Convention shall enter into force in accordance with [Article 13](https://wetten.overheid.nl/BWBV0002538);
 
-- a. indien de kennisgeving van de aanbevolen wijziging wordt gedaan vóór 1 april, de eerste januari van het tweede jaar dat volgt op de datum van deze kennisgeving; of
+- (d) Notifications under [Article 14](https://wetten.overheid.nl/BWBV0002538);
 
-- b. indien de kennisgeving van de aanbevolen wijziging wordt gedaan op of na 1 april, de eerste januari van het derde jaar dat volgt op de datum van deze kennisgeving.
+- (e) Denunciations under [Article 15](https://wetten.overheid.nl/BWBV0002538);
 
-5. Op de in het vierde lid van dit artikel genoemde datum dienen de statistieknomenclaturen van elke Verdragsluitende Partij en haar tariefnomenclatuur of, in het geval zoals bedoeld bij [artikel 3, eerste lid, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=3&z=2024-01-01&g=2024-01-01), haar geïntegreerde nomenclatuur in overeenstemming te zijn gebracht met het gewijzigde geharmoniseerde systeem.
+- (f) Amendments to the Convention recommended under [Article 16](https://wetten.overheid.nl/BWBV0002538);
 
-Elke Staat of douane- of economische unie die dit Verdrag ondertekent zonder voorbehoud van bekrachtiging, het bekrachtigt of ertoe toetreedt, wordt geacht de wijzigingen daarop te hebben aanvaard die op de datum waarop die Staat of unie Verdragsluitende Partij wordt, in werking zijn getreden of ingevolge het bepaalde in het derde lid van dit artikel zijn aanvaard.
+- (g) Objections in respect of recommended amendments under [Article 16](https://wetten.overheid.nl/BWBV0002538), and, where appropriate, their withdrawal; and
 
-##### Artikel 17. Rechten van de Verdragsluitende Partijen met betrekking tot het geharmoniseerde systeem
+- (h) Amendments accepted under [Article 16](https://wetten.overheid.nl/BWBV0002538), and the date of their entry into force.
 
-Inzake aangelegenheden betreffende het geharmoniseerde systeem verlenen [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=6&z=2024-01-01&g=2024-01-01), [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=8&z=2024-01-01&g=2024-01-01) en [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=16&z=2024-01-01&g=2024-01-01), rechten aan een Verdragsluitende Partij:
+##### Article 20. Registration with the United Nations
 
-- a. met betrekking tot alle delen van het geharmoniseerde systeem die zij overeenkomstig de bepalingen van dit Verdrag toepast; of
-
-- b. tot de datum waarop dit Verdrag overeenkomstig het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=13&z=2024-01-01&g=2024-01-01) voor deze Verdragsluitende Partij in werking treedt, met betrekking tot alle delen van het geharmoniseerde systeem die zij krachtens de bepalingen van dit Verdrag op deze datum verplicht is toe te passen; of
-
-- c. met betrekking tot alle delen van het geharmoniseerde systeem, mits zij zich er formeel toe heeft verbonden het volledige geharmoniseerde systeem met zes-cijfercode toe te passen binnen het in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=4&z=2024-01-01&g=2024-01-01), bedoelde tijdvak van drie jaar, totdat dit tijdvak is verstreken.
-
-##### Artikel 18. Voorbehoud
-
-Ten aanzien van dit Verdrag is geen enkel voorbehoud toegestaan.
-
-##### Artikel 19. Kennisgevingen door de Secretaris-Generaal
-
-De Secretaris-Generaal stelt de Verdragsluitende Partijen, de overige ondertekenende Staten, de Lid-Staten van de Raad die geen Partij bij dit Verdrag zijn en de Secretaris-Generaal van de Verenigde Naties in kennis van:
-
-- a. kennisgevingen overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=4&z=2024-01-01&g=2024-01-01);
-
-- b. ondertekeningen, bekrachtigingen en toetredingen, zoals bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=12&z=2024-01-01&g=2024-01-01);
-
-- c. de datum waarop het Verdrag overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=13&z=2024-01-01&g=2024-01-01) in werking treedt;
-
-- d. kennisgevingen overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=14&z=2024-01-01&g=2024-01-01);
-
-- e. opzeggingen overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=15&z=2024-01-01&g=2024-01-01);
-
-- f. wijzigingen van dit Verdrag aanbevolen overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=16&z=2024-01-01&g=2024-01-01);
-
-- g. bezwaren met betrekking tot overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=16&z=2024-01-01&g=2024-01-01) aanbevolen wijzigingen, alsmede de eventuele intrekking daarvan;
-
-- h. wijzigingen aanvaard overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0002538&artikel=16&z=2024-01-01&g=2024-01-01), alsmede de datum waarop deze in werking treden.
-
-##### Artikel 20. Registratie bij de Verenigde Naties
-
-Dit Verdrag wordt op verzoek van de Secretaris-Generaal van de Raad bij het Secretariaat van de Verenigde Naties geregistreerd overeenkomstig het bepaalde in [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
+This Convention shall be registered with the Secretariat of the United Nations in accordance with the provisions of [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) at the request of the Secretary General of the Council.
 
 IN WITNESS THEREOF the undersigned, being duly authorized thereto, have signed this Convention.
 
-DONE at Brussels on the 14th day of June 1983 in the English and French languages, both texts being equally authentic, in a single original which shall be deposited with the Secretary General of the Council who shall transmit certified copies thereof to all the States and Customs or Economic Unions referred to in Article 11.
+DONE at Brussels on the 14th day of June 1983 in the English and French languages, both texts being equally authentic, in a single original which shall be deposited with the Secretary General of the Council who shall transmit certified copies thereof to all the States and Customs or Economic Unions referred to in [Article 11](https://wetten.overheid.nl/BWBV0002538).

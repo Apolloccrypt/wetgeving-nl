@@ -1,183 +1,164 @@
 ---
 title: "Statuut van de Internationale Studiegroep voor Koper"
 identifier: "BWBV0002895"
-country: "nl"
-rank: "verdrag"
-publication_date: "2010-08-21"
-last_updated: "2010-08-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002895"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003216523"
-version_id: "10004411472"
-internal_id: "C10006985291"
-label_id: "10003203354"
-dtd_version: "2.0"
-original_entry_into_force: "2010-08-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002895/2010-08-21/0"
-intitule_bron: "Trb.2010-263"
-intitule_effect: "intrekking-regeling"
-intitule_published: "2010-10-14"
-intitule_in_force: "2010-10-14"
-intitule_status: "vervallen"
-original_publication: "Trb.2010-263"
-original_published_date: "2010-10-14"
-original_effect: "intrekking-regeling"
-original_url_id: "trb-2010-263"
-entry_into_force_date: "2010-08-21"
-jci_1_3: "jci1.3:c:BWBV0002895&z=2010-08-21&g=2010-08-21"
-jci_1_0: "1.0:c:BWBV0002895&g=2010-08-21"
-citeertitel_status: "officieel"
-entry_into_force: "2010-08-21"
+publicatiedatum: 2010-08-21
+laatste_update: 2010-08-21
+status: geldig
+toestand: 2010-08-21
+bron: "https://wetten.overheid.nl/BWBV0002895"
+opgehaald: 2026-09-12
 ---
+
 # Statuut van de Internationale Studiegroep voor Koper
 
-#### Oprichting
+#### Establishment
 
-##### 1
+##### Artikel 1
 
-Vervallen
+*Vervallen*
 
-#### Doelstelling
+#### Objective
 
-##### 2
+##### Artikel 2
 
-Vervallen
+*Vervallen*
 
-#### Definities
+#### Definitions
 
-##### 3
+##### Artikel 3
 
-Vervallen
+*Vervallen*
 
-#### Taken
+#### Functions
 
-##### 4
+##### Artikel 4
 
-Vervallen
+*Vervallen*
 
-#### Lidmaatschap
+#### Membership
 
-##### 5
+##### Artikel 5
 
-Vervallen
+*Vervallen*
 
-#### Bevoegdheden van de Groep
+#### Powers of the Group
 
-##### 6
+##### Artikel 6
 
-Vervallen
+*Vervallen*
 
-#### Zetel
+#### Headquarters
 
-##### 7
+##### Artikel 7
 
-Vervallen
+*Vervallen*
 
-#### Besluitvorming
+#### Decision-making
 
-##### 8
+##### Artikel 8
 
-Vervallen
+*Vervallen*
 
-#### Permanente Commissie
+#### Standing Committee
 
-##### 9
+##### Artikel 9
 
-Vervallen
+*Vervallen*
 
-#### Commissies en hulporganen
+#### Committees and subsidiary bodies
 
-##### 10
+##### Artikel 10
 
-Vervallen
+*Vervallen*
 
-#### Secretariaat
+#### Secretariat
 
-##### 11
+##### Artikel 11
 
-Vervallen
+*Vervallen*
 
-#### Samenwerking met anderen
+#### Co-operation with others
 
-##### 12
+##### Artikel 12
 
-Vervallen
+*Vervallen*
 
-#### Betrekkingen met het Gemeenschappelijk Fonds
+#### Relationship with the Common Fund
 
-##### 13
+##### Artikel 13
 
-Vervallen
+*Vervallen*
 
-#### Rechtspositie
+#### Legal status
 
-##### 14
+##### Artikel 14
 
-Vervallen
+*Vervallen*
 
-#### Begrotingsbijdragen
+#### Budget contributions
 
-##### 15
+##### Artikel 15
 
-Vervallen
+*Vervallen*
 
-#### Statistieken en informatie
+#### Statistics and information
 
-##### 16
+##### Artikel 16
 
-Vervallen
+*Vervallen*
 
-#### Jaarlijkse evaluatie en verslagen
+#### Annual assessment and reports
 
-##### 17
+##### Artikel 17
 
-Vervallen
+*Vervallen*
 
-#### Marktontwikkeling
+#### Market development
 
-##### 18
+##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 #### Studies
 
-##### 19
+##### Artikel 19
 
-Vervallen
+*Vervallen*
 
-#### Verplichtingen van de leden
+#### Obligations of members
 
-##### 20
+##### Artikel 20
 
-Vervallen
+*Vervallen*
 
-#### Wijzigingen
+#### Amendment
 
-##### 21
+##### Artikel 21
 
-Vervallen
+*Vervallen*
 
-#### Inwerkingtreding
+#### Entry into force
 
-##### 22
+##### Artikel 22
 
-Vervallen
+*Vervallen*
 
-#### Opzegging
+#### Withdrawal
 
-##### 23
+##### Artikel 23
 
-Vervallen
+*Vervallen*
 
-#### Beëindiging
+#### Termination
 
-##### 24
+##### Artikel 24
 
-Vervallen
+*Vervallen*
 
-#### Voorbehouden
+#### Reservations
 
-##### 25
+##### Artikel 25
 
-Vervallen
+*Vervallen*
